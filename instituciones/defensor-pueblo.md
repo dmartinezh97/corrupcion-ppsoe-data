@@ -1,0 +1,53 @@
+---
+title: "Defensor del Pueblo"
+description: "Protector de derechos fundamentales"
+descripcionBreve: "Institución encargada de proteger los derechos fundamentales de los ciudadanos, pero el cargo permanece frecuentemente vacante debido a la falta de acuerdo entre partidos, debilitando la institución"
+icon: "Shield"
+issues:
+  - descripcionCorta: "Cargo vacante por falta de acuerdo"
+    descripcionBreve: "Cargo vacante durante largos periodos por falta de acuerdo político"
+    sources:
+      # Nombramientos oficiales BOE (ordenados de más reciente a más antiguo)
+      - title: "Nombramiento por el Congreso de los Diputados y el Senado, acreditado por los Presidentes de ambas Cámaras, de don Ángel Gabilondo Pujol para el cargo de Defensor del Pueblo"
+        url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-18905"
+        tipo: "oficial"
+        fecha: "2021-11-18"
+      - title: "Nombramiento por el Congreso de los Diputados y el Senado, acreditado por los Presidentes de ambas Cámaras, de doña Soledad Becerril Bustamante para el cargo de Defensora del Pueblo"
+        url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-9790"
+        tipo: "oficial"
+        fecha: "2012-07-19"
+      # Noticias relacionadas
+      - title: "El Congreso aprueba el nombramiento de Ángel Gabilondo como Defensor del Pueblo"
+        url: "https://www.publico.es/politica/congreso-aprueba-nombramiento-angel-gabilondo-defensor-pueblo.html"
+        tipo: "noticia"
+        fecha: "2021-11-11"
+      - title: "Gobierno y PP acuerdan que Ángel Gabilondo sea el nuevo defensor del pueblo"
+        url: "https://www.eldiario.es/politica/gobierno-pp-acuerdan-angel-gabilondo-sea-nuevo-defensor-pueblo_1_8418335.html"
+        tipo: "noticia"
+        fecha: "2021-10-27"
+  - descripcionCorta: "Bloqueo sistemático en renovaciones"
+    descripcionBreve: "Bloqueo sistemático en renovaciones entre PP y PSOE"
+    sources:
+      - title: "Defensor del Pueblo (España) - Wikipedia"
+        url: "https://es.wikipedia.org/wiki/Defensor_del_Pueblo_(Espa%C3%B1a)"
+        tipo: "noticia"
+        fecha: "2021-11-18"
+      - title: "Historia del Defensor - Defensor del Pueblo"
+        url: "https://www.defensordelpueblo.es/el-defensor/historia-del-defensor/"
+        tipo: "oficial"
+        fecha: "2021-11-18"
+  - descripcionCorta: "Institución debilitada por intereses partidistas"
+    descripcionBreve: "Institución debilitada por intereses partidistas sobre el bien común"
+    sources:
+      - title: "El Senado aprueba el nombramiento de Ángel Gabilondo como Defensor del Pueblo"
+        url: "https://www.abogacia.es/actualidad/noticias/el-senado-aprueba-definitivamente-el-nombramiento-de-angel-gabilondo-como-nuevo-defensor-del-pueblo/"
+        tipo: "noticia"
+        fecha: "2021-11-16"
+      - title: "Toma de posesión de Ángel Gabilondo como Defensor del Pueblo"
+        url: "https://www.defensordelpueblo.es/toma-posesion-defensor-angel-gabilondo/"
+        tipo: "oficial"
+        fecha: "2021-11-18"
+status: "Vacante"
+statusColor: "destructive"
+order: 6
+---

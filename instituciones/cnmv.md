@@ -1,0 +1,50 @@
+---
+title: "Comisión Nacional del Mercado de Valores (CNMV)"
+description: "Supervisor de mercados financieros"
+descripcionBreve: "Supervisor de mercados financieros cuyo presidente es nombrado por el Gobierno y sus consejeros propuestos por partidos políticos, condicionando la regulación por intereses económicos"
+icon: "AlertTriangle"
+issues:
+  - descripcionCorta: "Presidente nombrado por el Gobierno"
+    descripcionBreve: "Presidente nombrado por el Gobierno"
+    sources:
+      # Nombramientos oficiales BOE (ordenados de más reciente a más antiguo)
+      - title: "Real Decreto 1137/2020, de 15 de diciembre, por el que se nombra Presidente de la Comisión Nacional del Mercado de Valores a don Rodrigo Buenaventura Canino"
+        url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-16292"
+        tipo: "oficial"
+        fecha: "2020-12-16"
+        partido: "PSOE"
+      # Noticias relacionadas
+      - title: "Rodrigo Buenaventura - Wikipedia"
+        url: "https://es.wikipedia.org/wiki/Rodrigo_Buenaventura"
+        tipo: "noticia"
+        fecha: "2020-12-16"
+      - title: "Rodrigo Buenaventura ya es oficialmente el nuevo presidente de la CNMV"
+        url: "https://valenciaplaza.com/rodrigo-buenaventura-oficialmente-presidente-cnmv"
+        tipo: "noticia"
+        fecha: "2020-12-16"
+  - descripcionCorta: "Consejeros propuestos por partidos políticos"
+    descripcionBreve: "Consejeros propuestos por partidos políticos"
+    sources:
+      - title: "Carlos San Basilio sustituirá a Rodrigo Buenaventura como presidente de la CNMV"
+        url: "https://www.eleconomista.es/mercados-cotizaciones/noticias/13126194/12/24/carlos-san-basilio-sustituira-a-rodrigo-buenaventura-como-presidente-de-la-cnmv.html"
+        tipo: "noticia"
+        fecha: "2024-12-16"
+      - title: "Buenaventura deja la CNMV mientras se aplaude su mandato"
+        url: "https://www.capitalradio.es/noticias/bolsa/buenaventura-deja-cnmv-mientras-se-aplaude-su-mandato_134767159.html"
+        tipo: "noticia"
+        fecha: "2024-12-16"
+  - descripcionCorta: "Regulación condicionada por intereses económicos"
+    descripcionBreve: "Regulación condicionada por intereses económicos"
+    sources:
+      - title: "Rodrigo Buenaventura concluirá su mandato en la CNMV y dirigirá IOSCO"
+        url: "https://www.eleconomista.es/mercados-cotizaciones/noticias/13073101/11/24/rodrigo-buenaventura-concluira-su-mandato-en-la-cnmv-y-presidira-iosco.html"
+        tipo: "noticia"
+        fecha: "2024-11-07"
+      - title: "Buenaventura no renovará al frente de la CNMV para presidir la organización internacional"
+        url: "https://www.elespanol.com/invertia/mercados/20241107/rodrigo-buenaventura-nuevo-lider-patronal-cnmv-finalice-mandato-diciembre/899410420_0.html"
+        tipo: "noticia"
+        fecha: "2024-11-07"
+status: "Controlado"
+statusColor: "destructive"
+order: 9
+---

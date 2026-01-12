@@ -1,0 +1,53 @@
+---
+title: "Tribunal de Cuentas"
+description: "Fiscalizador de cuentas públicas"
+descripcionBreve: "Órgano fiscalizador de las cuentas públicas cuyos consejeros son elegidos por el Congreso y Senado, lo que lleva a un reparto de cargos entre los partidos mayoritarios condicionando sus informes"
+icon: "AlertTriangle"
+issues:
+  - descripcionCorta: "Consejeros elegidos por Congreso y Senado"
+    descripcionBreve: "Consejeros elegidos por cuotas parlamentarias entre PP y PSOE"
+    sources:
+      # Nombramientos oficiales BOE (ordenados de más reciente a más antiguo)
+      - title: "Acuerdo de 16 de noviembre de 2021, del Pleno del Senado, por el que se designan Consejeros de Cuentas"
+        url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-18907"
+        tipo: "oficial"
+        fecha: "2021-11-18"
+      - title: "Real Decreto 1037/2021, de 19 de noviembre, por el que se nombra Presidenta del Tribunal de Cuentas a doña Enriqueta Chicano Jávega"
+        url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-19074"
+        tipo: "oficial"
+        fecha: "2021-11-20"
+      # Noticias relacionadas
+      - title: "Radiografía del Tribunal de Cuentas: un ente politizado, de mayoría conservadora"
+        url: "https://www.eldiario.es/politica/radiografia-tribunal-cuentas-ente-politizado-mayoria-conservadora-casos-enchufismo_1_8099253.html"
+        tipo: "noticia"
+        fecha: "2021-06-14"
+      - title: "Consecuencias de la politización del Tribunal de Cuentas - HayDerecho"
+        url: "https://www.hayderecho.com/2022/03/27/consecuencias-de-la-politizacion-del-tribunal-de-cuentas/"
+        tipo: "noticia"
+        fecha: "2022-03-27"
+  - descripcionCorta: "Reparto de cargos entre partidos mayoritarios"
+    descripcionBreve: "Informes críticos archivados o diluidos por presiones políticas"
+    sources:
+      - title: "El Tribunal de Cuentas: el ente que fiscaliza a políticos y está copado por los partidos"
+        url: "https://www.eldiario.es/politica/tribunal-cuentas-ente-fiscaliza-politicos-copado-partidos_1_6188065.html"
+        tipo: "noticia"
+        fecha: "2020-07-15"
+      - title: "Purga en el Tribunal de Cuentas: más de 70 ceses tras el pacto de renovación entre PSOE y PP"
+        url: "https://www.libertaddigital.com/espana/2022-01-12/purga-tribunal-cuentas-70-ceses-pacto-renovacion-psoe-pp-6854497/"
+        tipo: "noticia"
+        fecha: "2022-01-12"
+  - descripcionCorta: "Informes condicionados políticamente"
+    descripcionBreve: "Retrasos sistemáticos en fiscalizaciones de partidos políticos"
+    sources:
+      - title: "Tribunal de Cuentas (España) - Wikipedia"
+        url: "https://es.wikipedia.org/wiki/Tribunal_de_Cuentas_(Espa%C3%B1a)"
+        tipo: "noticia"
+        fecha: "2021-11-20"
+      - title: "Así es la guerra soft entre PSOE y PP en el Tribunal de Cuentas"
+        url: "https://es.ara.cat/politica/guerra-soft-psoe-pp-tribunal-cuentas_1_5383459.html"
+        tipo: "noticia"
+        fecha: "2024-03-15"
+status: "Repartido"
+statusColor: "destructive"
+order: 4
+---

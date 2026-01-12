@@ -1,0 +1,50 @@
+---
+title: "Centro Nacional de Inteligencia (CNI)"
+description: "Servicio de inteligencia español"
+descripcionBreve: "Servicio de inteligencia cuyo director es nombrado por el Consejo de Ministros. Carece de control parlamentario efectivo, lo que permite el uso político de la información de inteligencia"
+icon: "Shield"
+issues:
+  - descripcionCorta: "Director nombrado por el Consejo de Ministros"
+    descripcionBreve: "Director nombrado directamente por el Consejo de Ministros"
+    sources:
+      # Nombramientos oficiales BOE (ordenados de más reciente a más antiguo)
+      - title: "Real Decreto 359/2022, de 10 de mayo, por el que se nombra Secretaria de Estado Directora del Centro Nacional de Inteligencia a doña Esperanza Casteleiro Llamazares"
+        url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-7653"
+        tipo: "oficial"
+        fecha: "2022-05-11"
+        partido: "PSOE"
+      # Noticias relacionadas
+      - title: "Así ha sido la lucha del CNI contra los independentistas"
+        url: "https://theobjective.com/espana/cataluna/2022-04-23/cni-independentistas-pegasus-espionaje/"
+        tipo: "noticia"
+        fecha: "2022-04-23"
+      - title: "CatalanGate - Wikipedia"
+        url: "https://es.wikipedia.org/wiki/CatalanGate"
+        tipo: "noticia"
+        fecha: "2022-04-18"
+  - descripcionCorta: "Falta de control parlamentario efectivo"
+    descripcionBreve: "Falta de control parlamentario efectivo sobre sus operaciones"
+    sources:
+      - title: "Una comisión de la Eurocámara concluye que España espió con Pegasus a independentistas"
+        url: "https://www.publico.es/politica/comision-eurocamara-dice-espana-espio-independentistas-catalanes.html"
+        tipo: "noticia"
+        fecha: "2023-05-08"
+      - title: "Un año después, ni rastro de Pegasus - Amnistía Internacional"
+        url: "https://www.es.amnesty.org/en-que-estamos/blog/historia/articulo/un-ano-despues-ni-rastro-de-pegasus/"
+        tipo: "noticia"
+        fecha: "2023-04-18"
+  - descripcionCorta: "Uso político de la información de inteligencia"
+    descripcionBreve: "Uso político documentado de la información de inteligencia"
+    sources:
+      - title: "Una investigación revela los responsables del espionaje con Pegasus"
+        url: "https://www.publico.es/politica/investigacion-revela-nombre-responsables-espionaje-pegasus-independentismo-catalan.html"
+        tipo: "noticia"
+        fecha: "2022-04-18"
+      - title: "Los independentistas acusan del espionaje al CNI: PSOE y Podemos guardan silencio"
+        url: "https://www.elespanol.com/espana/politica/20220419/independentistas-espionaje-cni-psoe-podemos-guardan-silencio/665933688_0.html"
+        tipo: "noticia"
+        fecha: "2022-04-19"
+status: "Opaco"
+statusColor: "destructive"
+order: 7
+---

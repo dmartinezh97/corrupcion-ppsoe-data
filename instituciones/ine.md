@@ -1,0 +1,50 @@
+---
+title: "Instituto Nacional de Estadística (INE)"
+description: "Organismo estadístico oficial"
+descripcionBreve: "Organismo estadístico oficial cuyo presidente es designado por el Gobierno, permitiendo la manipulación de datos sensibles políticamente y comprometiendo la independencia metodológica"
+icon: "FileText"
+issues:
+  - descripcionCorta: "Presidente designado por el Gobierno"
+    descripcionBreve: "Presidente designado directamente por el Gobierno de turno"
+    sources:
+      # Nombramientos oficiales BOE (ordenados de más reciente a más antiguo)
+      - title: "Real Decreto 687/2022, de 1 de agosto, por el que se nombra Presidenta del Instituto Nacional de Estadística a doña Elena Manzanera Díaz"
+        url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-12963"
+        tipo: "oficial"
+        fecha: "2022-08-02"
+        partido: "PSOE"
+      # Noticias relacionadas
+      - title: "Los estadísticos se rebelan ante la falta de respeto de Calviño a la independencia del INE"
+        url: "https://theobjective.com/economia/2025-11-14/estadisticos-estado-rebelion-respeto-calvino-independencia-ine/"
+        tipo: "noticia"
+        fecha: "2025-11-14"
+      - title: "Sánchez se salta el código de Eurostat y da más competencias al fichaje socialista del INE"
+        url: "https://theobjective.com/economia/2025-11-27/sanchez-codigo-buenas-practicas-ine-eurostat-fichaje-socialista/"
+        tipo: "noticia"
+        fecha: "2025-11-27"
+  - descripcionCorta: "Manipulación de datos sensibles políticamente"
+    descripcionBreve: "Manipulación documentada de datos sensibles políticamente"
+    sources:
+      - title: "Eurostat debe auditar urgentemente al INE tras lo confesado por Calviño"
+        url: "https://www.libertaddigital.com/libremercado/2025-11-14/jose-maria-rotellar-eurostat-debe-auditar-urgentemente-al-ine-tras-lo-confesado-por-calvino-7319739/"
+        tipo: "noticia"
+        fecha: "2025-11-14"
+      - title: "Los estadísticos del Estado defienden la labor e independencia del INE"
+        url: "https://www.democrata.es/economia/estadisticos-defienden-labor-e-independencia-ine-afirmaciones-calvino/"
+        tipo: "noticia"
+        fecha: "2025-11-13"
+  - descripcionCorta: "Falta de independencia en metodologías"
+    descripcionBreve: "Falta de independencia en metodologías estadísticas"
+    sources:
+      - title: "Real Decreto 803/2022 por el que se aprueba el Estatuto del INE"
+        url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-16198"
+        tipo: "oficial"
+        fecha: "2022-10-04"
+      - title: "INE - Instituto Nacional de Estadística"
+        url: "https://www.ine.es/"
+        tipo: "oficial"
+        fecha: "2022-08-02"
+status: "Manipulado"
+statusColor: "destructive"
+order: 10
+---
