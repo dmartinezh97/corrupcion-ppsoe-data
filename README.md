@@ -1,6 +1,6 @@
 # Corrupcion Data
 
-Base de datos abierta y colaborativa de casos de corrupcion politica en Espana.
+Base de datos abierta y colaborativa de casos de corrupcion politica en España.
 
 **Sitio web:** [corrupcion-ppsoe.es](https://corrupcion-ppsoe.es)
 
@@ -13,8 +13,8 @@ Este repositorio contiene los datos estructurados de casos de corrupcion de los 
 | Partido | Casos documentados |
 |---------|-------------------|
 | PP      | 261               |
-| PSOE    | 135               |
-| **Total** | **396**         |
+| PSOE    | 139               |
+| **Total** | **400**         |
 
 ## Estructura del repositorio
 
@@ -140,4 +140,4 @@ Siempre que:
 
 ---
 
-*Este proyecto busca la transparencia y la rendicion de cuentas en la politica espanola. No tiene afiliacion con ningun partido politico.*
+*Este proyecto busca la transparencia y la rendicion de cuentas en la politica española. No tiene afiliacion con ningun partido politico.*
