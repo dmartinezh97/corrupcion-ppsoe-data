@@ -11,7 +11,7 @@ descripcion: |
 
   La Fiscalía Anticorrupción y la Guardia Civil sostienen que la trama operó entre 2020 y 2022, beneficiándose de la urgencia en las compras públicas. Las empresas adjudicatarias habrían recibido pagos inflados por parte de organismos como ADIF o Puertos del Estado, y parte de ese dinero se habría desviado a cuentas personales o utilizado para adquirir bienes de lujo. En la causa hay más de 20 investigados, incluyendo empresarios, cargos públicos y personas del entorno político del PSOE.
 
-  El caso ha tenido un notable impacto político, salpicando indirectamente al exministro Ábalos, aunque por ahora no está imputado. El escándalo ha sido utilizado por la oposición para cuestionar la gestión del Gobierno durante la pandemia y ha reavivado el debate sobre la transparencia en la contratación pública. La instrucción judicial sigue en curso, con registros, detenciones y bloqueos de cuentas bancarias realizados a lo largo de 2024 y 2025.
+  El caso ha tenido un enorme impacto político, alcanzando directamente al exministro Ábalos, para quien la Fiscalía solicita 24 años de cárcel por organización criminal, cohecho, tráfico de influencias, malversación y uso de información privilegiada. Tanto Ábalos como Koldo García ingresaron en prisión provisional en noviembre de 2025. El escándalo ha provocado la dimisión de Santos Cerdán como secretario de organización del PSOE, y ha reavivado el debate sobre la transparencia en la contratación pública. La instrucción judicial sigue en curso, con múltiples líneas de investigación abiertas en el Tribunal Supremo y la Audiencia Nacional.
 resumen: "Presunta trama de corrupción en la adjudicación de contratos públicos de mascarillas durante la pandemia, centrada en el exasesor Koldo García."
 coste: 9600000
 lugar: "Madrid, España"
@@ -485,4 +485,35 @@ cronologia:
     urls:
       - "https://www.infobae.com/espana/2026/01/01/el-calendario-judicial-de-2026-el-primer-juicio-por-el-caso-koldo-el-final-a-la-vista-de-la-causa-contra-begona-gomez-o-los-primeros-pasos-del-caso-montoro/"
       - "https://www.newtral.es/ano-judicial-2026/20260102/"
+
+  - fecha: "2026-02-02"
+    titulo: "Supremo transfiere investigación abierta a la Audiencia Nacional"
+    descripcion: "Tras la renuncia de José Luis Ábalos a su acta de diputado, el juez del Tribunal Supremo Leopoldo Puente declara que el alto tribunal ha perdido jurisdicción sobre la investigación todavía abierta del caso Koldo. La causa se transfiere al Juzgado Central de Instrucción nº 2 de la Audiencia Nacional, que ya instruía la pieza principal. La investigación abierta se centra en las adjudicaciones amañadas de obras públicas entre 2018 y 2023, con 12 personas aún investigadas."
+    type: "resumen"
+    urls:
+      - "https://www.infobae.com/espana/2026/02/02/el-supremo-deja-en-manos-de-la-audiencia-nacional-la-investigacion-todavia-abierta-del-caso-koldo-tras-la-renuncia-de-abalos-a-su-acta-de-diputado/"
+
+  - fecha: "2026-02-10"
+    titulo: "Anticorrupción pide más tiempo para investigar"
+    descripcion: "La Fiscalía Anticorrupción solicita una cuarta prórroga de seis meses para continuar la investigación del caso Koldo, alegando que quedan pendientes dos informes clave: uno del Servicio de Salud Balear y otro de la investigación ONIF-AEAT. El caso se divide ahora en tres líneas de investigación: mascarillas, obras públicas y financiación del PSOE. La UCO tiene aún en análisis forense 169 dispositivos digitales incautados a los investigados."
+    type: "resumen"
+    urls:
+      - "https://www.elindependiente.com/espana/2026/02/10/anticorrupcion-pide-tiempo-investigar-caso-koldo-informes-clave-pendientes/"
+
+  - fecha: "2026-02-12"
+    titulo: "Vista preliminar en el Tribunal Supremo"
+    descripcion: "Se celebra una vista preliminar en el Tribunal Supremo con un cambio de última hora en la composición del tribunal. Las defensas de Ábalos y Koldo García solicitan que el juicio se envíe a la Audiencia Nacional y, subsidiariamente, piden plantear una cuestión prejudicial ante el TJUE sobre la competencia del tribunal. La defensa de Koldo solicita someterle al polígrafo y un careo con Víctor de Aldama, además de recusar a la mayoría del tribunal, petición rechazada por 'extemporánea'. La Sala anuncia que resolverá las cuestiones previas en los próximos días, y el juicio oral podría arrancar en pocas semanas si no prosperan las impugnaciones."
+    type: "resumen"
+    relevancia: "alta"
+    urls:
+      - "https://www.elcorreogallego.es/espana/2026/02/12/supremo-tribunal-abalos-koldo-aldama-mascarillas-corrupcion-cerdan-juicio-126738607.html"
+      - "https://www.infobae.com/espana/agencias/2026/02/12/la-defensa-de-koldo-solicita-someterle-al-poligrafo-y-el-supremo-rechaza-su-peticion-de-apartar-al-tribunal/"
+      - "https://www.infobae.com/espana/agencias/2026/02/12/la-defensa-de-koldo-reclama-al-supremo-consultar-a-europa-sobre-la-competencia-del-juicio/"
+
+  - fecha: "2026-02-13"
+    titulo: "Koldo agota recursos contra la jurisdicción del Supremo"
+    descripcion: "La defensa de Koldo García agota los recursos legales disponibles para evitar ser juzgado por el Tribunal Supremo, tras el rechazo de la recusación del tribunal y de la cuestión prejudicial europea planteadas en la vista del día anterior."
+    type: "resumen"
+    urls:
+      - "https://www.moncloa.com/2026/02/13/caso-koldo-recursos-supremo-3360858"
 ---
