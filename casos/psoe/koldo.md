@@ -11,7 +11,7 @@ descripcion: |
 
   La Fiscalía Anticorrupción y la Guardia Civil sostienen que la trama operó entre 2020 y 2022, beneficiándose de la urgencia en las compras públicas. Las empresas adjudicatarias habrían recibido pagos inflados por parte de organismos como ADIF o Puertos del Estado, y parte de ese dinero se habría desviado a cuentas personales o utilizado para adquirir bienes de lujo. En la causa hay más de 20 investigados, incluyendo empresarios, cargos públicos y personas del entorno político del PSOE.
 
-  El caso ha tenido un enorme impacto político, alcanzando directamente al exministro Ábalos, para quien la Fiscalía solicita 24 años de cárcel por organización criminal, cohecho, tráfico de influencias, malversación y uso de información privilegiada. Tanto Ábalos como Koldo García ingresaron en prisión provisional en noviembre de 2025. El escándalo ha provocado la dimisión de Santos Cerdán como secretario de organización del PSOE, y ha reavivado el debate sobre la transparencia en la contratación pública. La instrucción judicial sigue en curso, con múltiples líneas de investigación abiertas en el Tribunal Supremo y la Audiencia Nacional.
+  El caso ha tenido un enorme impacto político, alcanzando directamente al exministro Ábalos, para quien la Fiscalía solicita 24 años de cárcel por organización criminal, cohecho, tráfico de influencias, malversación y uso de información privilegiada. Tanto Ábalos como Koldo García ingresaron en prisión provisional en noviembre de 2025, donde permanecen a la espera del juicio oral fijado para el 7 de abril de 2026 en el Tribunal Supremo (14 sesiones, 75 testigos). El escándalo ha provocado la dimisión de Santos Cerdán como secretario de organización del PSOE —quien pasó casi 5 meses en prisión provisional— y ha reavivado el debate sobre la transparencia en la contratación pública. La Audiencia Nacional instruye paralelamente la pieza de mordidas en obra pública (14 investigados) y ha absorbido el caso Plus Ultra. Un informe de la IGAE ha confirmado irregularidades en 11 contratos de ADIF y Carreteras adjudicados bajo el mandato de Ábalos.
 resumen: "Presunta trama de corrupción en la adjudicación de contratos públicos de mascarillas durante la pandemia, centrada en el exasesor Koldo García."
 coste: 9600000
 lugar: "Madrid, España"
@@ -516,4 +516,99 @@ cronologia:
     type: "resumen"
     urls:
       - "https://www.moncloa.com/2026/02/13/caso-koldo-recursos-supremo-3360858"
+
+  - fecha: "2026-02-23"
+    titulo: "Juez amplía seis meses más la instrucción con posibles nuevas imputaciones"
+    descripcion: "El juez Ismael Moreno de la Audiencia Nacional amplía seis meses el plazo de instrucción del caso Koldo, citando el enorme volumen de pruebas pendientes de analizar (documentos, dinero en efectivo, dispositivos digitales). El magistrado no descarta expresamente nuevas imputaciones conforme avance el análisis del material."
+    type: "resumen"
+    urls:
+      - "https://www.infobae.com/espana/2026/02/23/el-juez-del-caso-koldo-amplia-seis-meses-el-plazo-para-investigar-la-trama-con-posibilidad-de-realizar-mas-imputaciones/"
+
+  - fecha: "2026-02-25"
+    titulo: "Ábalos comparece en el Supremo y mantiene su inocencia"
+    descripcion: "José Luis Ábalos acude al Tribunal Supremo desde la prisión de Soto del Real para una vista previa al juicio. A su llegada declara públicamente: 'Yo sigo manteniendo mi inocencia'. El Supremo había rechazado previamente su solicitud de participar de forma telemática."
+    type: "resumen"
+    urls:
+      - "https://www.libertaddigital.com/espana/2026-02-25/abalos-en-el-tribunal-supremo-antes-de-entrar-en-prision-yo-sigo-manteniendo-mi-inocencia-7364910/"
+
+  - fecha: "2026-02-26"
+    titulo: "UCO implica a Isabel Pardo de Vera en la trama de mascarillas"
+    descripcion: "Un nuevo informe de la UCO revela mensajes de WhatsApp que demuestran que Isabel Pardo de Vera, expresidenta de ADIF, conocía el papel de Koldo García en la trama de mascarillas y posteriormente ayudó a Ábalos a buscar abogado penalista. La UCO considera 'llamativo' que negara cualquier contacto con Soluciones de Gestión en su declaración judicial, contradiciendo las pruebas. Además, el Supremo traslada a la Audiencia Nacional indicios de que Pardo de Vera participó en la contratación irregular de Jéssica Rodríguez en empresas públicas."
+    type: "resumen"
+    relevancia: "alta"
+    urls:
+      - "https://www.eldebate.com/espana/20260226/uco-apunta-pardo-vera-conocia-papel-koldo-trama-ayudo-abalos-defensa-imputado_389856.html"
+      - "https://www.infobae.com/espana/2026/02/26/la-uco-implica-a-la-expresidenta-de-adif-isabel-pardo-de-vera-en-los-presuntos-amanos-del-caso-koldo/"
+
+  - fecha: "2026-02-27"
+    titulo: "El juzgado del caso Koldo recibe el caso Plus Ultra"
+    descripcion: "El Juzgado Central de Instrucción nº 2 de la Audiencia Nacional recibe el caso Plus Ultra (rescate de 53 millones de euros a la aerolínea durante la pandemia, con presunto blanqueo de capitales vinculado a Venezuela) para analizar si asume su jurisdicción."
+    type: "resumen"
+    urls:
+      - "https://www.infobae.com/america/agencias/2026/02/27/el-juzgado-del-caso-koldo-recibe-el-caso-plus-ultra-en-la-audiencia-nacional-que-analiza-si-asumirlo/"
+
+  - fecha: "2026-03-03"
+    titulo: "Audiencia Nacional asume el caso Plus Ultra y refuerza el juzgado"
+    descripcion: "El juez José Luis Calama acepta formalmente la jurisdicción sobre el caso Plus Ultra en la Audiencia Nacional. Ante la saturación del juzgado que instruye tanto el caso Koldo como Plus Ultra, la Sala de Gobierno asigna de urgencia un segundo magistrado, Javier Ángel Fernández-Gallardo, para reforzar al juez Ismael Moreno."
+    type: "resumen"
+    urls:
+      - "https://theobjective.com/espana/tribunales/2026-03-03/audiencia-nacional-rescate-plus-ultra/"
+      - "https://www.elcorreogallego.es/espana/2026/03/04/audiencia-nacional-refuerza-forma-urgente-juzgado-caso-koldo-plus-ultra-127530422.html"
+
+  - fecha: "2026-03-04"
+    titulo: "Supremo fija el juicio oral para el 7 de abril de 2026"
+    descripcion: "El Tribunal Supremo fija oficialmente la fecha del juicio oral contra Ábalos, Koldo García y Víctor de Aldama para el 7 de abril de 2026. Se cierra la lista de testigos en 75 nombres. Destaca la ausencia de Pedro Sánchez, Salvador Illa y Fernando Grande-Marlaska, mientras que sí testificarán el ministro Ángel Víctor Torres y la presidenta del Congreso Francina Armengol."
+    type: "resumen"
+    relevancia: "alta"
+    urls:
+      - "https://theobjective.com/espana/tribunales/2026-03-04/abalos-koldo-juicio-abril-mascarillas/"
+      - "https://www.infobae.com/espana/2026/03/04/el-supremo-cierra-la-lista-de-los-75-testigos-para-el-juico-del-caso-koldo-sin-pedro-sanchez-illa-o-marlaska-pero-con-el-ministro-torres-y-armengol/"
+
+  - fecha: "2026-03-06"
+    titulo: "Calendario del juicio: 14 sesiones en abril, rechazado el aplazamiento"
+    descripcion: "El Supremo fija el calendario del juicio en 14 sesiones a lo largo de abril, con sesiones de mañana y tarde. Rechaza la solicitud de aplazamiento de Ábalos. Los cargos incluyen organización criminal, cohecho, falsedad documental, prevaricación, tráfico de influencias, uso de información privilegiada y malversación. La Fiscalía pide 24 años para Ábalos, 19,5 para Koldo y 7 para Aldama; la acusación popular del PP eleva la petición a 30 años para Ábalos."
+    type: "resumen"
+    relevancia: "alta"
+    urls:
+      - "https://www.moncloa.com/2026/03/06/caso-koldo-juicio-abril-3364645/"
+      - "https://www.libertaddigital.com/espana/2026-03-06/el-tribunal-supremo-fija-el-calendario-del-juico-de-la-trama-koldo-en-14-dias-y-rechaza-el-retraso-pedido-por-abalos-7370331/"
+
+  - fecha: "2026-03-09"
+    titulo: "Publicado el calendario sesión por sesión del juicio"
+    descripcion: "El Supremo publica el calendario detallado del juicio. Jéssica Rodríguez declarará el primer día (7 de abril). Los tres acusados (Ábalos, Koldo y Aldama) declararán el 28 de abril. Koldo solicita declarar después de Aldama. El juez unifica en la Audiencia Nacional la causa de las mordidas de obra pública con 14 imputados, incluyendo a Santos Cerdán, Pardo de Vera, Javier Herrero y varios exdirectivos de Acciona."
+    type: "resumen"
+    urls:
+      - "https://www.libertaddigital.com/espana/2026-03-09/el-supremo-pone-calendario-al-juicio-contra-abalos-y-koldo-jessica-declara-el-primer-dia-7371372/"
+      - "https://www.infobae.com/espana/agencias/2026/03/09/el-juez-del-caso-koldo-unifica-la-causa-de-las-mordidas-de-obra-publica-con-14-imputados/"
+
+  - fecha: "2026-03-11"
+    titulo: "IGAE detecta irregularidades en 11 contratos de ADIF y Carreteras"
+    descripcion: "La IGAE (Intervención General de la Administración del Estado, dependiente de Hacienda) entrega un informe al juez concluyendo que 11 contratos adjudicados por ADIF y la Dirección General de Carreteras bajo el mandato de Ábalos contienen irregularidades significativas. Se detectan criterios de puntuación subjetivos que favorecían a determinadas empresas, modificaciones contractuales de casi el 20% acordadas antes del inicio de las obras, y un patrón en al menos 3 contratos de Acciona/Ferrovial. Una sola modificación añadió 24,1 millones de euros (19,93% del contrato original)."
+    type: "resumen"
+    relevancia: "alta"
+    urls:
+      - "https://www.elcorreogallego.es/espana/2026/03/11/hacienda-traslada-juez-caso-koldo-irregularidades-contratos-adif-127833315.html"
+      - "https://www.libertaddigital.com/espana/2026-03-11/la-igae-detecta-contratos-adjudicados-por-juicios-de-valor-a-empresas-de-la-trama-koldo-con-un-20-por-ciento-de-sobrecoste-7372726/"
+
+  - fecha: "2026-03-13"
+    titulo: "Supremo autoriza ordenador para Koldo en prisión"
+    descripcion: "El Tribunal Supremo concede a Koldo García un ordenador sin acceso a internet en la cárcel de Soto del Real y reuniones diarias con sus abogados para preparar su defensa de cara al juicio de abril."
+    type: "resumen"
+    urls:
+      - "https://www.libertaddigital.com/espana/politica/2026-03-13/koldo-pide-tener-un-ordenador-y-reuniones-diarias-con-sus-abogados-en-prision-y-el-supremo-lo-autoriza-7373449/"
+
+  - fecha: "2026-03-15"
+    titulo: "Defensas de Ábalos y Koldo preparan recurso al Tribunal Constitucional"
+    descripcion: "Las defensas de Ábalos y Koldo anuncian que presentarán un incidente de nulidad como paso previo a recurrir ante el Tribunal Constitucional, solicitando medidas cautelares urgentes para paralizar o retrasar el juicio del 7 de abril. Es descrito como su 'último cartucho' tras el rechazo de todas sus peticiones previas por el Supremo."
+    type: "resumen"
+    urls:
+      - "https://www.elcorreogallego.es/espana/2026/03/15/ultimo-cartucho-abalos-koldo-acudiran-constitucional-evitar-juicio-supremo-127978834.html"
+
+  - fecha: "2026-03-16"
+    titulo: "Torres y Armengol piden declarar por escrito en el juicio"
+    descripcion: "El ministro Ángel Víctor Torres y la presidenta del Congreso Francina Armengol solicitan al Supremo declarar por escrito en lugar de acudir presencialmente al juicio, alegando sus cargos institucionales. Ambos están citados como testigos para el 22 de abril."
+    type: "resumen"
+    urls:
+      - "https://www.libertaddigital.com/espana/2026-03-16/armengol-tambien-pide-declarar-por-escrito-en-el-juicio-del-caso-koldo-7375006/"
+      - "https://theobjective.com/espana/tribunales/2026-03-16/armengol-torres-escrito-juicio-mascarillas/"
 ---
