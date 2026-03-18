@@ -25,39 +25,39 @@ numeroSentencia: ""
 implicados:
   - nombre: "Florentino Pérez Rodríguez"
     cargo: "Presidente de ACS (Actividades de Construcción y Servicios, S.A.)"
-    rol: "Máximo responsable de ACS, propietaria de Escal UGS; querellado por estafa y prevaricación"
+    rol: "Querellado por estafa y prevaricación; querella archivada"
 
   - nombre: "Recaredo del Potro"
     cargo: "Expresidente de Escal UGS, S.L."
-    rol: "Procesado por delito medioambiental; absuelto en noviembre de 2021"
+    rol: "Juzgado por delito medioambiental; absuelto en 2021"
 
   - nombre: "José Luis Martínez Dalmau"
     cargo: "Exconsejero delegado de Escal UGS, S.L."
-    rol: "Procesado por delito medioambiental; absuelto en noviembre de 2021"
+    rol: "Juzgado por delito medioambiental; absuelto en 2021"
 
   - nombre: "José Manuel Soria López"
     cargo: "Ministro de Industria, Energía y Turismo (PP, 2011-2016)"
-    rol: "Ordenó la paralización y firmó el RDL de indemnización express de 1.350 millones"
+    rol: "Querellado; aprobó el RDL de indemnización de 1.350 millones"
 
   - nombre: "Miguel Sebastián Gascón"
     cargo: "Ministro de Industria, Turismo y Comercio (PSOE, 2008-2011)"
-    rol: "Aprobó el Real Decreto de concesión de explotación en mayo de 2008"
+    rol: "Querellado; aprobó el Real Decreto de concesión en 2008"
 
   - nombre: "Joan Clos i Matheu"
     cargo: "Ministro de Industria, Turismo y Comercio (PSOE, 2004-2008)"
-    rol: "Preparó e impulsó la tramitación de la concesión del proyecto"
+    rol: "Querellado; impulsó la tramitación de la concesión del proyecto"
 
   - nombre: "Magdalena Álvarez Arza"
     cargo: "Ministra de Fomento (PSOE, 2004-2009)"
-    rol: "Querellada por presunta participación en la aprobación del marco concesional"
+    rol: "Querellada por participación en el marco concesional"
 
   - nombre: "Elena Espinosa Mangana"
     cargo: "Ministra de Medio Ambiente (PSOE, 2004-2008)"
-    rol: "Querellada por presunta participación en las autorizaciones ambientales del proyecto"
+    rol: "Querellada por las autorizaciones ambientales del proyecto"
 
   - nombre: "Ignasi Nieto Magaldi"
-    cargo: "Secretario General de Energía (Ministerio de Industria, hasta abril de 2008)"
-    rol: "Papel protagonista en la tramitación técnica de la concesión"
+    cargo: "Secretario General de Energía (Ministerio de Industria, hasta 2008)"
+    rol: "Responsable de la tramitación técnica de la concesión"
 
 tags:
   - "corrupción"
@@ -195,10 +195,19 @@ cronologia:
       - "https://facua.org/noticias/la-audiencia-nacional-obliga-a-acs-a-devolver-210-millones-de-euros-que-se-embolso-por-el-proyecto-castor/"
 
   - fecha: 2025-04-01
-    titulo: "Comienza el desmantelamiento físico: sellado de los 13 pozos submarinos"
-    descripcion: "Una plataforma jack-up especializada llega a la costa de Tarragona y comienza el sellado y abandono definitivo de los trece pozos submarinos del almacén Castor, más de once años después de los terremotos que paralizaron el proyecto. El desmantelamiento se desarrollará en dos fases con una duración estimada de ocho meses. Enagás reclama al Estado al menos 255 millones adicionales entre gastos de conservación y desmantelamiento ya realizados, que se suman al coste total del fiasco para el erario público."
+    titulo: "El BOE autoriza el sellado y abandono definitivo de los 13 pozos"
+    descripcion: "La Dirección General de Política Energética y Minas publica en el BOE (resolución de 1 de abril de 2025) la autorización formal para ejecutar el proyecto de sellado y abandono definitivo de los trece pozos del almacén Castor. La plataforma jack-up Noble Resolve llega al Puerto de Tarragona y es remolcada hasta las inmediaciones del almacén submarino para iniciar los trabajos. El Gobierno estima que las labores de sellado quedarán concluidas a finales de 2025."
+    type: "documento"
+    urls:
+      - "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7577"
+      - "https://castellondiario.com/llega-la-plataforma-para-sellar-los-pozos-de-gas-del-proyecto-castor-en-vinaros/"
+      - "https://www.eleconomista.es/energia/noticias/13297774/04/25/enagas-inicia-el-desmantelamiento-del-polemico-almacen-de-gas-castor.html"
+
+  - fecha: 2025-07-23
+    titulo: "Enagás reclama 176 millones adicionales por gestión y desmantelamiento"
+    descripcion: "Enagás anuncia que prevé cobrar al sistema gasista —y por tanto a los consumidores— al menos 176 millones de euros adicionales por haber gestionado el almacén inactivo durante más de una década y por los trabajos en curso de desmantelamiento. Las cifras totales del escándalo superan los 2.000 millones de euros entre la indemnización de 1.350 millones, los 210 millones cobrados en exceso y los costes de mantenimiento y desmantelamiento que suman otros centenares de millones."
     type: "resumen"
     urls:
-      - "https://castellondiario.com/llega-la-plataforma-para-sellar-los-pozos-de-gas-del-proyecto-castor-en-vinaros/"
-      - "https://elcierredigital.com/investigacion/gobierno-empieza-desarmar-almacen-castor-agujero-millonario"
+      - "https://www.elespanol.com/invertia/empresas/energia/20250723/enagas-apunta-factura-proyecto-castor-preve-cobrar-millones-gestion-desmantelamiento/1003743858572_0.html"
+      - "https://www.eleconomista.es/energia/noticias/13326933/04/25/el-gobierno-desguaza-castor-y-lo-vendera-por-partes-para-paliar-un-agujero-de-mas-de-2000-millones.html"
 ---

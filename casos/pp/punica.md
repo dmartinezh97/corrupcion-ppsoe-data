@@ -24,15 +24,15 @@ numeroSentencia: ""
 implicados:
   - nombre: "Francisco Granados Lerena"
     cargo: "Exsecretario general del PP de Madrid, exconsejero de Presidencia y Justicia"
-    rol: "Presunto cabecilla de la trama; condenado a 2 años por filtración de secretos"
+    rol: "Cabecilla de la trama; condenado a 2 años por filtración de secretos"
 
   - nombre: "David Marjaliza López"
     cargo: "Empresario y constructor"
-    rol: "Cerebro operativo de la red; intermediario en adjudicaciones a Cofely; confesó los hechos"
+    rol: "Cerebro operativo; intermediario en adjudicaciones a Cofely; confesó los hechos"
 
   - nombre: "Esperanza Aguirre Gil de Biedma"
     cargo: "Expresidenta de la Comunidad de Madrid (2003-2012)"
-    rol: "Imputada en 2019 por financiación ilegal; sobreseída en 2022 por prescripción"
+    rol: "Imputada por financiación ilegal; sobreseída en 2022 por prescripción"
 
   - nombre: "Cristina Cifuentes Cuencas"
     cargo: "Expresidenta de la Comunidad de Madrid (2015-2018)"
@@ -40,43 +40,43 @@ implicados:
 
   - nombre: "Ignacio González González"
     cargo: "Expresidente de la Comunidad de Madrid (2012-2015)"
-    rol: "Imputado en 2018 por financiación ilegal del PP; sobreseído en 2022"
+    rol: "Imputado por financiación ilegal del PP de Madrid; sobreseído en 2022"
 
   - nombre: "Beltrán Gutiérrez Moliner"
     cargo: "Exgerente del PP de Madrid"
-    rol: "Investigado por gestión de la caja B del partido; documentos demuestran financiación irregular"
+    rol: "Investigado por gestión de la caja B del partido"
 
   - nombre: "José Ignacio Echevarría Fernández"
     cargo: "Exconsejero de Transportes y expresidente de la Asamblea de Madrid"
-    rol: "Firmó certificados de actividades ficticias para justificar subvenciones irregulares"
+    rol: "Acusado de certificar actividades ficticias para justificar subvenciones irregulares"
 
   - nombre: "José Luis Huerta Valbuena"
     cargo: "Empresario, dueño de Waiter Music"
-    rol: "Pagaba comisiones a Granados mediante sobrefacturación de eventos musicales; fallecido en 2020"
+    rol: "Pagó comisiones a Granados mediante sobrefacturación de eventos musicales"
 
   - nombre: "José María Fraile Campos"
     cargo: "Exalcalde de Parla (PSOE)"
-    rol: "Confesó adjudicación irregular del contrato de Cofely de 54,7 millones de euros"
+    rol: "Confesó adjudicación irregular del contrato de Cofely de 54,7 millones"
 
   - nombre: "Daniel Ortiz Espejo"
     cargo: "Exalcalde de Móstoles (PP)"
-    rol: "Acusado de adjudicación irregular del contrato de Cofely de 60,4 millones de euros"
+    rol: "Acusado de adjudicación irregular del contrato de Cofely de 60,4 millones"
 
   - nombre: "José Carlos Boza Lechuga"
     cargo: "Exalcalde de Valdemoro (PP)"
-    rol: "Acusado de adjudicación irregular del contrato de Cofely de 50,3 millones de euros"
+    rol: "Acusado de adjudicación irregular del contrato de Cofely de 50,3 millones"
 
   - nombre: "Agustín Juárez López de Coca"
     cargo: "Exalcalde de Collado Villalba (PP)"
-    rol: "Acusado de cobrar comisiones en metálico por contrato de Cofely de 35,5 millones"
+    rol: "Acusado de cobrar comisiones en metálico por contrato de Cofely"
 
   - nombre: "Antonio Sánchez Fernández"
     cargo: "Exalcalde de Serranillos del Valle (PSOE)"
-    rol: "Confesó los hechos; descubierto sacando cajas de documentos de la alcaldía"
+    rol: "Confesó los hechos; sorprendido sacando cajas de documentos de la alcaldía"
 
   - nombre: "Juan Carlos Ruiz López"
     cargo: "Exconsejero de Turismo de Murcia (PP)"
-    rol: "Condenado a 4 años de prisión por desvío de fondos para reputación digital"
+    rol: "Condenado a 4 años de prisión por desvío de fondos públicos"
 
   - nombre: "José Antonio Alonso"
     cargo: "Exalcalde de Cartagena (PP)"
@@ -84,7 +84,7 @@ implicados:
 
   - nombre: "José Manuel Rodríguez Talamino"
     cargo: "Agente de la Guardia Civil"
-    rol: "Alertó a Granados en septiembre 2014 de la investigación; sancionado 2 años"
+    rol: "Alertó a Granados sobre la investigación; condenado a 2 años de inhabilitación"
 
 tags:
   - "corrupción"
@@ -113,7 +113,7 @@ cronologia:
   - fecha: 2014-10-31
     titulo: "Francisco Granados ingresa en prisión sin fianza"
     descripcion: "El juez Eloy Velasco decreta prisión provisional sin fianza para Francisco Granados, considerado el presunto cabecilla de la red de corrupción. La decisión se confirma por la Audiencia Nacional mes y medio después, ante el riesgo de destrucción de pruebas y la gravedad de los indicios de cohecho, prevaricación y pertenencia a organización criminal."
-    type: "medidas cautelares"
+    type: "investigación"
     urls:
       - "https://es.wikipedia.org/wiki/Operación_Púnica"
 
@@ -142,7 +142,7 @@ cronologia:
   - fecha: 2017-05-29
     titulo: "Francisco Granados sale de prisión tras pagar fianza de 400.000 euros"
     descripcion: "Después de dos años y medio en prisión preventiva en Estremera, Francisco Granados recupera la libertad provisional tras abonar una fianza de 400.000 euros mediante garantías hipotecarias aportadas por su familia que superan los 800.000 euros. El juez Eloy Velasco accede a su excarcelación al considerar que el riesgo de fuga y destrucción de pruebas ha disminuido."
-    type: "medidas cautelares"
+    type: "investigación"
     urls:
       - "https://www.eleconomista.es/politica/noticias/8429431/06/17/El-juez-Velasco-acuerda-la-libertad-de-Francisco-Granados-tras-dar-el-visto-bueno-a-la-fianza.html"
       - "https://okdiario.com/investigacion/francisco-granados-sale-carcel-vertido-basura-estaba-punica-cabecilla-1073966"

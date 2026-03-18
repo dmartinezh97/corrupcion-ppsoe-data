@@ -24,16 +24,20 @@ tribunal:
 numeroSentencia: ""
 implicados:
   - nombre: "José Ramón Gómez Besteiro"
-    cargo: "Presidente de la Diputación Provincial de Lugo (2007-2015), Secretario General del PSdeG-PSOE (2013-2016)"
-    rol: "Investigado por cohecho, malversación, tráfico de influencias, fraude y apropiación indebida. Caso archivado en 2025"
+    cargo: "Presidente de la Diputación de Lugo (2007-2015), Secretario General del PSdeG (2013-2016)"
+    rol: "Investigado por cohecho, malversación y fraude. Caso archivado en 2025"
 
   - nombre: "Juan Carlos Fernández Pulpeiro"
-    cargo: "Jefe del servicio de prensa, comunicación y protocolo de la Diputación de Lugo"
-    rol: "Investigado por irregularidades en el uso de fondos del programa KM0. Caso archivado en 2025"
+    cargo: "Jefe de prensa, comunicación y protocolo de la Diputación de Lugo"
+    rol: "Investigado por irregularidades en la gestión de fondos del programa KM0"
+
+  - nombre: "Pilar de Lara"
+    cargo: "Jueza del Juzgado de Instrucción número 1 de Lugo"
+    rol: "Instructora del caso durante doce años de investigación"
 
   - nombre: "Elena Candia"
     cargo: "Presidenta del PP provincial de Lugo"
-    rol: "Entregó a la Fiscalía en 2013 las denuncias anónimas que originaron la investigación"
+    rol: "Entregó a la Fiscalía denuncias anónimas que originaron la investigación"
 
 tags:
   - "corrupción"
@@ -45,7 +49,7 @@ tags:
   - "sobreseimiento"
   - "caso archivado"
 
-impactoSocial: "El Caso Pulpo frenó en seco la carrera política de José Ramón Gómez Besteiro, considerado una de las promesas del PSOE gallego, obligándole a dimitir como secretario general del PSdeG en marzo de 2016. Durante nueve años, el caso mantuvo a Besteiro apartado de la política activa y generó un intenso debate sobre si se trataba de un caso real de corrupción o de una operación política orquestada por el PP para destruir al líder socialista. El archivo definitivo en 2025 permitió a Besteiro retomar su carrera política, actualmente como diputado en el Congreso, reavivando las acusaciones del PSOE sobre lawfare y persecución judicial con fines políticos."
+impactoSocial: "El Caso Pulpo destruyó la carrera política de Besteiro durante casi una década, obligándole a dimitir como líder del PSdeG en 2016. Su archivo definitivo en 2025 reabrió el debate sobre el uso de la justicia con fines políticos (lawfare) en España."
 
 documentos: []
 
@@ -71,6 +75,14 @@ cronologia:
     relevancia: "media"
     urls: []
 
+  - fecha: "2013-03-31"
+    titulo: "El PP provincial de Lugo entrega documentación a la Fiscalía"
+    descripcion: "Elena Candia, presidenta del PP provincial de Lugo, entrega a la Fiscalía documentación basada en dos denuncias anónimas presentadas al partido provincial sobre presuntas irregularidades en la Diputación de Lugo. Esta actuación del PP se convertiría posteriormente en uno de los puntos más controvertidos del caso, con el PSOE acusando al PP de orquestar una operación de destrucción política mediante denuncias infundadas."
+    type: "denuncia"
+    relevancia: "alta"
+    urls:
+      - "https://www.atlantico.net/articulo/galicia/candia-entrego-fiscalia-documentos-besteiro/20230331230747976469.html"
+
   - fecha: "2013-06-11"
     titulo: "Inicio de la Operación Pulpo: registro de la Diputación de Lugo"
     descripcion: "La jueza Pilar de Lara del Juzgado de Instrucción número 1 de Lugo inicia la investigación judicial que se conocerá como Operación Pulpo tras recibir una denuncia sobre presunto acoso laboral entre trabajadores del departamento KM0 de la Diputación Provincial de Lugo. La investigación se centra inicialmente en irregularidades en la gestión del programa KM0, dedicado a organizar visitas turísticas financiadas con fondos europeos, bajo la dirección de Juan Carlos Fernández Pulpeiro. La jueza ordena el registro de las instalaciones de la Diputación."
@@ -79,14 +91,6 @@ cronologia:
     urls:
       - "https://www.eldiario.es/galicia/Lara-encabeza-registro-Diputacion-Lugo_0_326867443.html"
       - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Pulpo&numero=273"
-
-  - fecha: "2013-03-31"
-    titulo: "El PP provincial de Lugo entrega documentación a la Fiscalía"
-    descripcion: "Elena Candia, presidenta del PP provincial de Lugo, entrega a la Fiscalía documentación basada en dos denuncias anónimas presentadas al partido provincial en 2013 sobre presuntas irregularidades en la Diputación de Lugo. Esta actuación del PP se convertiría posteriormente en uno de los puntos más controvertidos del caso, con el PSOE acusando al PP de orquestar una operación de destrucción política mediante denuncias infundadas."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.atlantico.net/articulo/galicia/candia-entrego-fiscalia-documentos-besteiro/20230331230747976469.html"
 
   - fecha: "2016-03-23"
     titulo: "Imputación de Besteiro por seis delitos de corrupción"

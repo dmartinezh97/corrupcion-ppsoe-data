@@ -23,31 +23,31 @@ numeroSentencia: "SAN 13/2018 de 24 de mayo de 2018; SAN 24/2021 de 28 de octubr
 implicados:
   - nombre: "Luis Bárcenas Gutiérrez"
     cargo: "Extesorero del Partido Popular (1990-2009)"
-    rol: "Condenado a 29 años de prisión por caso Gürtel y a 8 meses por reforma de Génova; defraudó 11,5 millones a Hacienda; poseía 47 millones en Suiza"
+    rol: "Condenado a 29 años de prisión; defraudó 11,5 millones a Hacienda"
 
   - nombre: "Rosalía Iglesias"
     cargo: "Esposa de Luis Bárcenas"
-    rol: "Condenada a 12 años y 11 meses de prisión por blanqueo de capitales y delitos fiscales en caso Gürtel"
+    rol: "Condenada a 12 años y 11 meses por blanqueo de capitales"
 
   - nombre: "Mariano Rajoy Brey"
     cargo: "Presidente del Gobierno de España (2011-2018)"
-    rol: "Testigo en el caso; los papeles revelan pagos de 163.507 euros entre 2003-2008 bajo 'M. Rajoy'; no imputado pero derrocado por moción de censura"
+    rol: "Mencionado en la caja B como receptor de sobresueldos; no imputado"
 
   - nombre: "Francisco Correa Sánchez"
     cargo: "Empresario, líder de la trama Gürtel"
-    rol: "Condenado a 51 años de prisión; su red financió ilegalmente al PP a cambio de contratos públicos"
+    rol: "Condenado a 51 años; financió ilegalmente al PP"
 
   - nombre: "Pablo Crespo Sabarís"
     cargo: "Empresario, segundo de Correa en la trama"
-    rol: "Condenado a 37 años y 6 meses de prisión en caso Gürtel"
+    rol: "Condenado a 37 años y 6 meses en caso Gürtel"
 
   - nombre: "Gonzalo Urquijo Fernández de Araoz"
     cargo: "Socio de Unifica Arquitectos"
-    rol: "Condenado a 2 años y 9 meses y multa de 2,6 millones por delito fiscal en reforma de Génova"
+    rol: "Condenado a 2 años y 9 meses por delito fiscal en reforma de Génova"
 
   - nombre: "Belén García San Miguel"
     cargo: "Socia de Unifica Arquitectos"
-    rol: "Condenada a 2 años y 9 meses y multa de 2,6 millones por delito fiscal en reforma de Génova"
+    rol: "Condenada a 2 años y 9 meses por delito fiscal en reforma de Génova"
 
   - nombre: "Cristóbal Páez Peinado"
     cargo: "Exgerente del PP"
@@ -55,31 +55,31 @@ implicados:
 
   - nombre: "María Dolores de Cospedal"
     cargo: "Secretaria General del PP, Ministra de Defensa"
-    rol: "Mencionada por Bárcenas como receptora de sobresueldos de la caja B; no imputada"
+    rol: "Mencionada en la caja B como receptora de sobresueldos; no imputada"
 
   - nombre: "Rodrigo Rato Figaredo"
     cargo: "Vicepresidente del Gobierno, Ministro de Economía"
-    rol: "Mencionado por Bárcenas como receptor de sobresueldos de la caja B; no imputado"
+    rol: "Mencionado en la caja B como receptor de sobresueldos; no imputado"
 
   - nombre: "Ángel Acebes Paniagua"
     cargo: "Ministro del Interior, Secretario General del PP"
-    rol: "Mencionado por Bárcenas como receptor de sobresueldos de la caja B; no imputado"
+    rol: "Mencionado en la caja B como receptor de sobresueldos; no imputado"
 
   - nombre: "Francisco Álvarez-Cascos"
     cargo: "Vicepresidente del Gobierno, Ministro de Fomento"
-    rol: "Mencionado por Bárcenas como receptor de sobresueldos de la caja B; no imputado"
+    rol: "Mencionado en la caja B como receptor de sobresueldos; no imputado"
 
   - nombre: "Javier Arenas"
     cargo: "Vicesecretario General del PP"
-    rol: "Mencionado por Bárcenas como receptor de sobresueldos de la caja B; no imputado"
+    rol: "Mencionado en la caja B como receptor de sobresueldos; no imputado"
 
   - nombre: "Jaime Mayor Oreja"
     cargo: "Ministro del Interior"
-    rol: "Mencionado por Bárcenas como receptor de sobresueldos de la caja B; no imputado"
+    rol: "Mencionado en la caja B como receptor de sobresueldos; no imputado"
 
   - nombre: "Federico Trillo"
     cargo: "Ministro de Defensa"
-    rol: "Mencionado por Bárcenas como receptor de sobresueldos de la caja B; no imputado"
+    rol: "Mencionado en la caja B como receptor de sobresueldos; no imputado"
 
 tags:
   - "corrupción"
@@ -126,13 +126,13 @@ cronologia:
   - fecha: 2013-01-16
     titulo: "El Mundo revela que Bárcenas tiene 22 millones en Suiza"
     descripcion: "El diario El Mundo publica que Luis Bárcenas llegó a tener hasta 22 millones de euros en una cuenta del banco Dresdner en Suiza. La noticia sacude al PP y abre interrogantes sobre el origen de semejante fortuna del extesorero del partido."
-    type: "investigación"
+    type: "documento"
     urls: []
 
   - fecha: 2013-01-18
     titulo: "El Mundo publica que Bárcenas pagó sobresueldos a la cúpula del PP"
     descripcion: "El diario El Mundo revela que Luis Bárcenas pagó durante años sobresueldos en efectivo a parte de la cúpula del Partido Popular. La información apunta a pagos mensuales de hasta 15.000 euros a altos cargos del partido que no estaban declarados a Hacienda."
-    type: "investigación"
+    type: "documento"
     urls: []
 
   - fecha: 2013-01-24
@@ -144,7 +144,7 @@ cronologia:
   - fecha: 2013-01-31
     titulo: "El País publica los 'Papeles de Bárcenas'"
     descripcion: "El diario El País publica los documentos secretos conocidos como 'Papeles de Bárcenas', una contabilidad paralela que el extesorero del PP mantuvo entre 1990 y 2009. Los papeles revelan donaciones opacas de empresarios y pagos regulares a dirigentes del PP, incluyendo referencias a 'M. Rajoy' que habría recibido pagos anuales de 25.200 euros. El escándalo sacude los cimientos del partido y del Gobierno de Mariano Rajoy."
-    type: "investigación"
+    type: "documento"
     urls:
       - "https://es.wikipedia.org/wiki/Caso_Bárcenas"
 
@@ -169,19 +169,19 @@ cronologia:
   - fecha: 2013-06-27
     titulo: "El juez Pablo Ruz ordena el ingreso en prisión de Bárcenas"
     descripcion: "El magistrado Pablo Ruz, del Juzgado Central de Instrucción 5 de la Audiencia Nacional, ordena prisión incondicional para Luis Bárcenas por riesgo de fuga y destrucción de pruebas. Bárcenas ingresa en la prisión de Soto del Real acusado de blanqueo de capitales, fraude fiscal, cohecho, falsedad documental y tentativa de fraude procesal en los casos Gürtel y Papeles de Bárcenas."
-    type: "medidas cautelares"
+    type: "detención"
     urls: []
 
   - fecha: 2013-07-15
     titulo: "Bárcenas declara ante el juez Ruz que entregó sobresueldos en efectivo"
     descripcion: "En su declaración ante el juez Pablo Ruz, Luis Bárcenas afirma por primera vez que realizó entregas de dinero en efectivo en concepto de sobresueldos a dirigentes del PP. Su declaración marca un punto de inflexión en el caso al confirmar judicialmente la existencia del sistema de pagos opacos revelado por los papeles."
-    type: "testimonio"
+    type: "declaración"
     urls: []
 
   - fecha: 2015-01-22
     titulo: "Bárcenas sale de prisión tras 19 meses encarcelado"
     descripcion: "Luis Bárcenas sale de la cárcel de Soto del Real tras permanecer 19 meses en prisión preventiva. Nueve familiares reunieron 200.000 euros para pagar la fianza impuesta por el juez. Sale con medidas cautelares incluida la retirada del pasaporte y obligación de comparecer semanalmente ante el juzgado."
-    type: "medidas cautelares"
+    type: "resumen"
     urls: []
 
   - fecha: 2018-05-24
@@ -213,7 +213,7 @@ cronologia:
   - fecha: 2021-03-25
     titulo: "Bárcenas confirma en el juicio la existencia de la caja B del PP"
     descripcion: "En el juicio por la reforma de la sede de Génova, Luis Bárcenas declara por primera vez en un juicio oral que la contabilidad B del PP existió y que la cúpula del partido, incluyendo a Mariano Rajoy, María Dolores de Cospedal, Ángel Acebes, Rodrigo Rato, Francisco Álvarez-Cascos, Javier Arenas, Jaime Mayor Oreja y Federico Trillo recibieron sobresueldos en efectivo. Su testimonio supone un reconocimiento judicial histórico del sistema de financiación ilegal."
-    type: "testimonio"
+    type: "declaración"
     urls: []
 
   - fecha: 2021-10-28

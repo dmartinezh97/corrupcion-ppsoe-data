@@ -5,7 +5,7 @@ completado: true
 año: 2000
 fechaInicio: 2000-04-18
 fechaFin: ""
-estado: "parcialmente anulado por Tribunal Constitucional"
+estado: "pendiente de resolución del TJUE"
 descripcion: |
   El caso ERE/Pieza Política constituye el núcleo central del mayor escándalo de corrupción de la historia de Andalucía y uno de los más graves de España, tanto por el volumen de dinero defraudado (679,43 millones de euros entre 2000 y 2009) como por el número de implicados (más de 300 investigados). Durante más de una década, los gobiernos socialistas de la Junta de Andalucía, presididos sucesivamente por Manuel Chaves (1990-2009) y José Antonio Griñán (2009-2013), establecieron y mantuvieron un sistema deliberadamente irregular de concesión de ayudas sociolaborales y subvenciones a empresas en crisis que eludía todos los controles administrativos legalmente establecidos. El fraude operaba mediante modificaciones presupuestarias que permitían transferir fondos públicos masivos sin fiscalización previa de la Intervención General, creando lo que se conoció como el "fondo de reptiles" o programa 31L.
 
@@ -22,6 +22,7 @@ tribunal:
   - "Audiencia Provincial de Sevilla - Sección Primera"
   - "Tribunal Supremo - Sala Segunda"
   - "Tribunal Constitucional"
+  - "Tribunal de Justicia de la Unión Europea (TJUE) - cuestión prejudicial pendiente"
 numeroSentencia: "Sentencia de la Audiencia de Sevilla de 19/11/2019"
 implicados:
   - nombre: "José Antonio Griñán Martínez"
@@ -228,25 +229,42 @@ cronologia:
     urls:
       - "https://www.eldiario.es/andalucia/muere-francisco-javier-guerrero-principal-imputado-en-el-caso-de-los-ere_1_6285008.html"
 
-  - fecha: "2022-07-13"
+  - fecha: "2022-07-26"
     titulo: "El Tribunal Supremo confirma las condenas por tres votos contra dos"
     descripcion: "La Sala Segunda del Tribunal Supremo confirma la sentencia de la Audiencia Provincial de Sevilla del 19 de noviembre de 2019 por tres votos contra dos. El TS ratifica la condena de 6 años de prisión y 15 años de inhabilitación para José Antonio Griñán por malversación y prevaricación, y la condena de 9 años de inhabilitación para Manuel Chaves por prevaricación. El tribunal establece que los condenados 'actuaron con conocimiento de las irregularidades y persiguiendo una concreta finalidad cuya ilicitud conocían'. Dos magistrados del Supremo emiten votos particulares discrepantes oponiéndose a la sentencia mayoritaria. La confirmación judicial convierte la sentencia en firme y obliga a Griñán a ingresar en prisión."
     type: "sentencia"
     urls:
       - "https://www.eldiario.es/andalucia/sentencia-supremo-confirma-condenas-ere-andalucia-actuaron-conocimiento-irregularidades_1_9314597.html"
+      - "https://www.libertaddigital.com/andalucia/2022-07-26/caso-ere-andalucia-tribunal-supremo-confirma-carcel-jose-antonio-grinan-inhabilitacion-manuel-chaves-6918947/amp.html"
 
   - fecha: "2022-12-22"
     titulo: "Griñán recibe orden de ingreso voluntario en prisión"
-    descripcion: "La Audiencia Provincial de Sevilla desestima el recurso de José Antonio Griñán y le ordena ingresar voluntariamente en prisión en el plazo de diez días, con vencimiento el 1 de enero de 2023. La decisión judicial confirma que no existen circunstancias que aconsejen suspender la ejecución de la pena por la tramitación de una solicitud de indulto. Griñán tiene 76 años y está diagnosticado con cáncer."
+    descripcion: "La Audiencia Provincial de Sevilla desestima el recurso de José Antonio Griñán y le ordena ingresar voluntariamente en prisión en el plazo de diez días, con vencimiento el 1 de enero de 2023. La decisión judicial confirma que no existen circunstancias que aconsejen suspender la ejecución de la pena por la tramitación de una solicitud de indulto. Griñán tiene 76 años y está diagnosticado con cáncer de próstata."
     type: "sentencia"
     urls:
       - "https://www.libertaddigital.com/andalucia/2022-12-22/grinan-comenzara-2023-en-la-carcel-la-audiencia-desestima-su-recurso-y-da-diez-dias-mas-de-plazo-para-su-ingreso-6970125/"
 
-  - fecha: "2023-06-01"
-    titulo: "Suspensión de la pena de prisión de Griñán por enfermedad grave"
-    descripcion: "El Instituto de Medicina Legal emite un informe que concluye que José Antonio Griñán padece 'una enfermedad muy grave con dolencias incurables' (cáncer). El tribunal acuerda suspender la ejecución de la pena de prisión de Griñán durante cinco años mientras se tramitan su recurso ante el Tribunal Constitucional y su solicitud de indulto. La suspensión genera polémica al considerarse que se aplican criterios distintos para políticos condenados que para ciudadanos comunes."
+  - fecha: "2023-01-02"
+    titulo: "Ingreso en prisión de seis exaltos cargos condenados por los ERE"
+    descripcion: "El 28 de diciembre de 2022 ingresa en la cárcel de Alcalá de Guadaíra la exconsejera Carmen Martínez Aguayo, la primera de los condenados a prisión efectiva que cumple la orden judicial. El 1 de enero de 2023 ingresa en Sevilla I el exconsejero Antonio Fernández. El 2 de enero, fecha límite del plazo concedido, ingresan también José Antonio Viera, Francisco Vallejo, Jesús María Rodríguez Román y Miguel Ángel Serrano. En total ingresan seis exaltos cargos condenados a prisión por malversación. Quedan fuera inicialmente José Antonio Griñán, cuya entrada queda pendiente de informe médico por su cáncer, el exviceconsejero Agustín Barberá por razones de salud similares, y Juan Márquez, pendiente de resolución de recursos."
     type: "resumen"
-    urls: []
+    urls:
+      - "https://theobjective.com/espana/2023-01-02/prision-condenados-ere-andalucia/"
+      - "https://www.elespanol.com/espana/andalucia/20230103/entrada-prision-expoliticos-ere-marca-psoe-andaluz/729677198_0.html"
+
+  - fecha: "2023-01-13"
+    titulo: "La Audiencia aplaza el ingreso en prisión de Griñán hasta que finalice la radioterapia"
+    descripcion: "La Sección Primera de la Audiencia Provincial de Sevilla acuerda aplazar el ingreso en prisión de José Antonio Griñán hasta que concluya las sesiones de radioterapia que debe recibir por el cáncer de próstata que le fue diagnosticado en diciembre de 2022. El tribunal argumenta que el informe médico forense desprendía 'con claridad la no conveniencia del ingreso del penado en el centro penitenciario'. Una vez finalizado el tratamiento, Griñán debería comunicarlo a la Sala para que se emitiera un nuevo informe y se decidiera si ingresaba en la cárcel o se suspendía definitivamente la pena."
+    type: "resumen"
+    urls:
+      - "https://www.elindependiente.com/espana/2023/01/13/la-audiencia-aplaza-el-ingreso-en-prision-de-grinan-hasta-que-acabe-las-sesiones-de-radioterapia/"
+
+  - fecha: "2023-06-26"
+    titulo: "Suspensión de la pena de prisión de Griñán por enfermedad grave"
+    descripcion: "La Audiencia Provincial de Sevilla acuerda suspender durante cinco años la ejecución de la pena de 6 años de prisión de José Antonio Griñán, al amparo del artículo 80.4 del Código Penal, que permite suspender cualquier pena cuando el penado padece 'una enfermedad muy grave con padecimientos incurables'. El Instituto de Medicina Legal había concluido que el expresidente sufría un cáncer de próstata en esas condiciones. La suspensión de cinco años cubre el tiempo hasta que se resolvieran los recursos pendientes ante el Tribunal Constitucional. La decisión genera polémica al considerarse que se aplican criterios distintos para políticos condenados que para ciudadanos comunes."
+    type: "resumen"
+    urls:
+      - "https://www.elespanol.com/espana/andalucia/20230626/grinan-libra-carcel-ere-audiencia-suspende-ejecucion-pena-cancer/774422770_0.html"
 
   - fecha: "2024-04-15"
     titulo: "La Audiencia de Sevilla envía las solicitudes de indulto al Ministerio"
@@ -267,4 +285,27 @@ cronologia:
     descripcion: "Tras la decisión del Tribunal Constitucional, el exdirector general de IDEA Miguel Ángel Serrano es excarcelado después de haber cumplido 18 meses de prisión efectiva de su condena de 6 años, 6 meses y 1 día. La excarcelación de Serrano y de otros condenados que ya habían ingresado en prisión genera gran indignación en amplios sectores de la sociedad que consideran que se establece un sistema de impunidad para políticos condenados por corrupción."
     type: "resumen"
     urls: []
+
+  - fecha: "2024-11-07"
+    titulo: "La Audiencia de Sevilla constituye un tribunal ampliado de cinco magistrados para dictar la nueva sentencia"
+    descripcion: "La Sección Primera de la Audiencia Provincial de Sevilla acuerda constituir un tribunal ampliado de cinco magistrados para elaborar la nueva sentencia que el Tribunal Constitucional le ordenó dictar en julio de 2024 en relación con Manuel Chaves y José Antonio Griñán. El tribunal estará integrado por las magistradas María del Pilar Llorente (ponente) y Encarnación Gómez, que ya formaron parte del tribunal de la sentencia original de 2019, y tres nuevos magistrados: Francisco de Asís Molina Crespo, Juan Jesús García Vélez y Patricia Fernández Franco. Este tribunal no podrá condenar a los acusados por prevaricación, delito del que fueron exonerados por el TC."
+    type: "investigación"
+    urls:
+      - "https://www.eldiario.es/andalucia/audiencia-sevilla-encarga-nueva-sentencia-ere-juezas-primer-fallo-tres-nuevos-magistrados_1_11799005.html"
+      - "https://www.eldebate.com/espana/andalucia/sevilla/20241107/cinco-magistrados-audiencia-sevilla-dictaran-nueva-sentencia-contra-chaves-grinan-ere_242734.html"
+
+  - fecha: "2025-07-14"
+    titulo: "La Audiencia de Sevilla eleva el caso al TJUE cuestionando la doctrina del Tribunal Constitucional"
+    descripcion: "En un movimiento sin precedentes en la historia judicial española, la Sección Primera de la Audiencia Provincial de Sevilla acuerda plantear una cuestión prejudicial ante el Tribunal de Justicia de la Unión Europea (TJUE) para cuestionar la doctrina establecida por el Tribunal Constitucional en sus sentencias sobre el caso ERE. El auto, fechado el 14 de julio, plantea cuatro cuestiones: si el TC puede reinterpretar tipos penales de prevaricación y malversación sin vulnerar la separación de poderes; si es compatible con el Derecho europeo interpretar que la actividad presupuestaria está fuera del control judicial; si esa práctica contraviene las obligaciones europeas contra la corrupción; y si un tribunal nacional puede dejar inaplicadas sentencias del TC cuando se opongan al Derecho de la UE y conduzcan a impunidad. La Audiencia señala que el TC pudo haber 'suplantado' funciones propias del Tribunal Supremo y que seguir su doctrina generaría un 'riesgo sistémico de impunidad'. Como consecuencia directa, la Audiencia suspende la ejecución de las sentencias del Constitucional y paraliza la tramitación de la nueva sentencia pendiente."
+    type: "investigación"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-acuerda-plantear-una-cuestion-prejudicial-ante-el-TJUE-tras-las-sentencias-del-Tribunal-Constitucional-sobre-el-caso-ERE"
+      - "https://es.euronews.com/2025/07/15/la-audiencia-de-sevilla-lleva-al-tjue-el-fallo-del-constitucional-sobre-los-ere"
+
+  - fecha: "2025-09-19"
+    titulo: "La Audiencia consulta a las partes sobre la continuación del procedimiento prejudicial ante el TJUE"
+    descripcion: "La Sección Primera de la Audiencia Provincial de Sevilla pregunta a las partes personadas en el procedimiento si desean continuar en el proceso de la cuestión prejudicial planteada ante el Tribunal de Justicia de la Unión Europea. La cuestión prejudicial, cuya resolución por el TJUE podría tardar años, mantiene en suspenso la ejecución de las sentencias del Tribunal Constitucional que ordenaban anular la condena de prisión de Griñán y reducir las inhabilitaciones de Chaves y otros condenados."
+    type: "investigación"
+    urls:
+      - "https://www.infobae.com/espana/agencias/2025/09/19/audiencia-de-sevilla-pregunta-a-las-partes-si-siguen-en-el-procedimiento-de-la-cuestion-prejudicial-al-tjue-por-los-ere/"
 ---

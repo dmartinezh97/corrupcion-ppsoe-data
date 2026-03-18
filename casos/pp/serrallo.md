@@ -24,27 +24,27 @@ numeroSentencia: ""
 implicados:
   - nombre: "José Torres Hurtado"
     cargo: "Alcalde de Granada (PP, 2003-2016)"
-    rol: "Absuelto de prevaricación, fraude en contratación y tráfico de influencias"
+    rol: "Absuelto de prevaricación, fraude y tráfico de influencias"
 
   - nombre: "Isabel Nieto"
     cargo: "Concejala delegada de Urbanismo del Ayuntamiento de Granada (PP)"
-    rol: "Condenada a 7 años de inhabilitación por prevaricación administrativa"
+    rol: "Condenada a 7 años de inhabilitación por prevaricación"
 
   - nombre: "Emilio Martín Herrera"
     cargo: "Funcionario técnico de Urbanismo del Ayuntamiento de Granada"
-    rol: "Condenado a 7 años de inhabilitación por emitir informe favorable ilegal"
+    rol: "Condenado a 7 años de inhabilitación por informe ilegal"
 
   - nombre: "Roberto García Arrabal"
     cargo: "Empresario promotor de las obras del Serrallo"
-    rol: "Condenado a 3 años y 6 meses de inhabilitación como cooperador necesario"
+    rol: "Condenado a 3 años y 6 meses de inhabilitación"
 
   - nombre: "Manuel Lorente"
     cargo: "Director técnico municipal de Urbanismo"
-    rol: "Procesado por prevaricación y cohecho; absuelto en sentencia final"
+    rol: "Acusado de prevaricación y cohecho; absuelto"
 
   - nombre: "Sebastián Pérez"
     cargo: "Teniente de alcalde y presidente provincial del PP de Granada"
-    rol: "Investigado por su conocimiento de las irregularidades; absuelto"
+    rol: "Investigado por las irregularidades; absuelto"
 
 tags:
   - "corrupción"

@@ -22,35 +22,63 @@ numeroSentencia: ""
 implicados:
   - nombre: "Arcadio Mateo del Puerto"
     cargo: "Director general de Acuamed"
-    rol: "Procesado por organizar red de sobornos para amañar adjudicaciones de contratos"
+    rol: "Procesado como cabecilla de la red de sobornos y adjudicaciones irregulares"
 
-  - nombre: "María Gabriela Mañueco"
+  - nombre: "María Gabriela Mañueco Pfeiffer"
     cargo: "Directora de Ingeniería y Construcción de Acuamed"
-    rol: "Encarcelada sin fianza por participar en la adjudicación irregular de contratos"
+    rol: "Encarcelada sin fianza por adjudicación irregular de contratos"
 
   - nombre: "Francisco Javier Gómez Pastor"
-    cargo: "Responsable de Contratación de Acuamed"
-    rol: "Encarcelado sin fianza por manipulación de concursos públicos y falsificación"
+    cargo: "Subdirector de Contratación de Acuamed"
+    rol: "Encarcelado sin fianza por manipulación de concursos y falsificación"
 
   - nombre: "Pablo Martín"
     cargo: "Delegado de Acuamed en Valencia"
-    rol: "Encarcelado sin fianza por organizar sobornos y amañar contratos en Valencia"
+    rol: "Encarcelado sin fianza por organizar sobornos en contratos valencianos"
+
+  - nombre: "Juan García Cuenca"
+    cargo: "Director de Asesoría Jurídica de Acuamed"
+    rol: "Procesado por cohecho y fraude en adjudicación de contratos"
+
+  - nombre: "Carlos Anibarro"
+    cargo: "Director Financiero de Acuamed"
+    rol: "Procesado por malversación y fraude en la gestión económica de contratos"
 
   - nombre: "Nicolás Steegmann"
     cargo: "Presidente de Altec"
     rol: "Encarcelado sin fianza por pagar sobornos para obtener contratos públicos"
 
+  - nombre: "Miguel Jurado Fernández"
+    cargo: "Presidente de FCC Construcción"
+    rol: "Procesado por pagar dádivas a directivos de Acuamed a cambio de contratos"
+
+  - nombre: "Santiago Farré Dot"
+    cargo: "Directivo de FCC Construcción"
+    rol: "Detenido con fianza de 20.000 euros por cohecho activo"
+
+  - nombre: "Miguel Roset Ramos"
+    cargo: "Ingeniero de FCC Construcción"
+    rol: "Detenido con fianza de 20.000 euros por cohecho activo"
+
+  - nombre: "Justo Vicente Pelegrini"
+    cargo: "Director general de Acciona Infraestructuras"
+    rol: "Procesado por pagar sobornos a funcionarios de Acuamed para obtener contratos"
+
+  - nombre: "Manuel Moreno Maestre"
+    cargo: "Presidente de Pipeline"
+    rol: "Detenido con fianza de 12.000 euros por cohecho activo"
+
   - nombre: "Miguel Arias Cañete"
     cargo: "Exministro de Agricultura y Comisario Europeo"
-    rol: "Mencionado en diligencias judiciales como conocedor de irregularidades con FCC"
+    rol: "Señalado en diligencias como conocedor de irregularidades con FCC"
 
   - nombre: "Federico Ramos de Armas"
     cargo: "Subsecretario de la Presidencia del Gobierno"
-    rol: "Señalado por tener conocimiento de acuerdo irregular entre Acuamed y FCC"
+    rol: "Señalado por conocimiento del acuerdo irregular entre Acuamed y FCC"
 
   - nombre: "Francisco Manuel Valiente González"
     cargo: "Denunciante del caso"
-    rol: "Testimonio clave que implicó a Arias Cañete en órdenes directas de contratos"
+    rol: "Declaró que Arias Cañete dio órdenes directas de adjudicación a FCC"
 
 tags:
   - "corrupción"
@@ -119,14 +147,6 @@ cronologia:
     urls:
       - "https://www.leonoticias.com/nacional/fiscalia-europea-deja-20220418170951-ntrc.html"
 
-  - fecha: "2023-04-25"
-    titulo: "Procesamiento de 42 personas por el juez García Castellón"
-    descripcion: "El juez de la Audiencia Nacional Manuel García Castellón procesa a un total de 42 personas en el caso Acuamed tras siete años de instrucción. El auto judicial atribuye a los procesados delitos de corrupción en los negocios, falsedad documental, fraude a la administración, prevaricación, malversación de caudales públicos y cohecho relacionados con la adjudicación y ejecución supuestamente irregular de una veintena de obras hidráulicas y medioambientales en la cuenca del Mediterráneo entre 2012 y 2015. Entre los procesados figura el exdirector general de Acuamed, Arcadio Mateo del Puerto. La Sala de lo Penal de la Audiencia Nacional comienza a desestimar los recursos de los implicados al considerar que existen indicios sólidos para llevarlos a juicio."
-    type: "investigación"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-de-la-Audiencia-Nacional-procesa-a-42-personas-por-la-adjudicacion-y-ejecucion-irregular-de-obras-hidraulicas-y-medioambientales-en-el--caso-Acuamed-"
-      - "https://www.libertaddigital.com/espana/2023-04-25/juez-procesa-42-personas-caso-acuamed-7008146/"
-
   - fecha: "2023-02-15"
     titulo: "Anticorrupción dice que la reforma de la malversación no afecta al caso"
     descripcion: "La Fiscalía Anticorrupción informa al juez García Castellón que la reforma del delito de malversación aprobada por el Gobierno de Pedro Sánchez no beneficia a los procesados en el caso Acuamed. La Fiscalía argumenta que 'la nueva regulación del delito de malversación de patrimonio público no incide en el caso de autos', manteniendo íntegramente su escrito de acusación. La decisión es clave para mantener la gravedad de los cargos contra los 42 procesados y evitar que la reforma legal diluya las responsabilidades penales en uno de los casos más emblemáticos de corrupción en empresas públicas."
@@ -134,11 +154,34 @@ cronologia:
     urls:
       - "https://www.eldiario.es/politica/anticorrupcion-dice-juez-reforma-malversacion-no-incide-caso-acuamed_1_9961849.html"
 
+  - fecha: "2023-04-25"
+    titulo: "Procesamiento de 42 personas por el juez García Castellón"
+    descripcion: "El juez de la Audiencia Nacional Manuel García Castellón procesa a un total de 42 personas en el caso Acuamed tras siete años de instrucción. El auto judicial atribuye a los procesados delitos de corrupción en los negocios, falsedad documental, fraude a la administración, prevaricación, malversación de caudales públicos y cohecho relacionados con la adjudicación y ejecución supuestamente irregular de una veintena de obras hidráulicas y medioambientales en la cuenca del Mediterráneo entre 2012 y 2015. Entre los procesados figura el exdirector general de Acuamed, Arcadio Mateo del Puerto."
+    type: "investigación"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-de-la-Audiencia-Nacional-procesa-a-42-personas-por-la-adjudicacion-y-ejecucion-irregular-de-obras-hidraulicas-y-medioambientales-en-el--caso-Acuamed-"
+      - "https://www.libertaddigital.com/espana/2023-04-25/juez-procesa-42-personas-caso-acuamed-7008146/"
+
+  - fecha: "2023-12-08"
+    titulo: "La Sala Penal desestima los recursos y confirma el camino a juicio oral"
+    descripcion: "La Sección Cuarta de la Sala de lo Penal de la Audiencia Nacional desestima los recursos presentados por los procesados contra el auto de apertura de juicio oral del juez García Castellón. Los magistrados consideran que existen indicios sólidos de criminalidad para sentar en el banquillo a los 42 procesados por corrupción en los negocios, malversación agravada, falsedad documental, fraude a la administración y prevaricación. La resolución confirma que el caso avanza definitivamente hacia el juicio oral y que la Sala comparte las sospechas del juez instructor."
+    type: "investigación"
+    urls:
+      - "https://www.vozpopuli.com/espana/audiencia-recursos-acuamed-banquillo-malversacion.html"
+
   - fecha: "2024-06-06"
     titulo: "Archivada la causa contra el consejero delegado de Acciona"
     descripcion: "El juez Manuel García Castellón archiva la causa contra Luis Castilla, consejero delegado de Acciona, al considerar que no existen pruebas suficientes para mantener la acusación contra él por su presunta implicación en el caso Acuamed. La decisión supone un alivio para la constructora Acciona, una de las empresas señaladas por participar en la trama de adjudicaciones irregulares. Sin embargo, la investigación continúa para los otros 41 procesados, incluidos directivos de otras constructoras y altos cargos de Acuamed."
     type: "investigación"
     urls:
       - "https://okdiario.com/economia/juez-archiva-causa-caso-acuamed-contra-consejero-delegado-acciona-no-ver-delito-6065589"
+
+  - fecha: "2026-01-01"
+    titulo: "Juez Antonio Piña cierra la instrucción tras diez años de investigación"
+    descripcion: "El juez Antonio Piña, sucesor de Manuel García Castellón en el Juzgado Central de Instrucción nº 6 de la Audiencia Nacional, comunica el cierre definitivo de la fase de instrucción del caso Acuamed, una década después del inicio de la Operación Frontino. El caso pasa a la Sala de lo Penal para su celebración como juicio oral con prácticamente los mismos 43 investigados iniciales, dado que solo se archivó la causa para dos directivos de Acciona. Sin fecha aún para el inicio del juicio oral, las estimaciones apuntan a que la sentencia firme, incluyendo posibles recursos al Tribunal Supremo, no llegaría antes de 2030."
+    type: "investigación"
+    urls:
+      - "https://okdiario.com/economia/caso-acuamed-10-anos-instruccion-ni-rastro-del-supuesto-dinero-robado-que-denunciaba-psoe-16087491"
+      - "https://okdiario.com/economia/juez-cierra-instruccion-del-caso-acuamed-sin-investigar-acusaciones-contra-psoe-narbona-14484249"
 
 ---

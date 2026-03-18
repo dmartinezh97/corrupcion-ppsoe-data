@@ -3,7 +3,7 @@ nombre: "Caso Divalterra (Caso Alquería)"
 partido: "PSOE"
 completado: true
 año: 2015
-fechaInicio: 2015-11-01
+fechaInicio: "2015-07-24"
 fechaFin: "2023-12-14"
 estado: "Cerrado con absoluciones"
 descripcion: |
@@ -24,23 +24,23 @@ numeroSentencia: ""
 implicados:
   - nombre: "Jorge Rodríguez Gramage"
     cargo: "Presidente de la Diputación de Valencia y alcalde de Ontinyent"
-    rol: "Absuelto de prevaricación y malversación por contrataciones en Divalterra"
+    rol: "Absuelto de prevaricación y malversación"
 
   - nombre: "Agustina Brines Siserol"
     cargo: "Cogerente de Divalterra (Compromís)"
-    rol: "Absuelta de prevaricación y malversación por contrataciones irregulares"
+    rol: "Absuelta de prevaricación y malversación"
 
   - nombre: "José Ramón Tiller"
     cargo: "Cogerente de Divalterra (PSPV-PSOE)"
-    rol: "Absuelto de prevaricación y malversación por contrataciones irregulares"
+    rol: "Absuelto de prevaricación y malversación"
 
   - nombre: "Ricard Gallego Perales"
     cargo: "Jefe de gabinete de Jorge Rodríguez"
-    rol: "Absuelto de participación en el reparto de cargos ficticios"
+    rol: "Absuelto de participación en reparto de cargos ficticios"
 
   - nombre: "Manuel Reguart Serna"
     cargo: "Asesor de Jorge Rodríguez"
-    rol: "Absuelto de participación en el reparto de cargos ficticios"
+    rol: "Absuelto de participación en reparto de cargos ficticios"
 
   - nombre: "José Luis Vera"
     cargo: "Director Jurídico de Divalterra"
@@ -48,35 +48,35 @@ implicados:
 
   - nombre: "Pau Pérez Ledo"
     cargo: "Director contratado en Divalterra (PSPV)"
-    rol: "Absuelto de malversación y falsedad documental en su contratación"
+    rol: "Absuelto de malversación y falsedad documental"
 
   - nombre: "Josep Lluís Melero Martí"
     cargo: "Director contratado en Divalterra (PSPV)"
-    rol: "Absuelto de malversación y falsedad documental en su contratación"
+    rol: "Absuelto de malversación y falsedad documental"
 
   - nombre: "María Soledad Torija Urbano"
     cargo: "Directora contratada en Divalterra (Compromís)"
-    rol: "Absuelta de malversación y falsedad documental en su contratación"
+    rol: "Absuelta de malversación y falsedad documental"
 
   - nombre: "Raúl Ibáñez Fos"
     cargo: "Director contratado en Divalterra (Compromís)"
-    rol: "Absuelto de malversación y falsedad documental en su contratación"
+    rol: "Absuelto de malversación y falsedad documental"
 
   - nombre: "Manuel Carot Martínez"
     cargo: "Director contratado en Divalterra (PSPV)"
-    rol: "Absuelto de malversación y falsedad documental en su contratación"
+    rol: "Absuelto de malversación y falsedad documental"
 
   - nombre: "Miguel Ángel Ferri Llopis"
     cargo: "Director contratado en Divalterra (PSPV)"
-    rol: "Absuelto de malversación y falsedad documental en su contratación"
+    rol: "Absuelto de malversación y falsedad documental"
 
   - nombre: "Salvador Femenía Peiró"
     cargo: "Director contratado en Divalterra y alcalde de l'Alqueria de la Comtessa (PSPV)"
-    rol: "Absuelto de malversación y falsedad documental en su contratación"
+    rol: "Absuelto de malversación y falsedad documental"
 
   - nombre: "Vicente Lucas Ferrando Zapater"
     cargo: "Director contratado en Divalterra en 2018"
-    rol: "Absuelto de malversación y falsedad documental en su contratación"
+    rol: "Absuelto de malversación y falsedad documental"
 
 tags:
   - "corrupción"
@@ -90,13 +90,6 @@ impactoSocial: "El caso Alquería fue el primer gran caso de corrupción del gob
 documentos: []
 
 cronologia:
-  - fecha: "2015-11-01"
-    titulo: "Inicio del gobierno del Botànic en la Diputación de Valencia"
-    descripcion: "Jorge Rodríguez (PSPV-PSOE) asume la presidencia de la Diputación de Valencia el 14 de julio de 2015 con el apoyo de Compromís, València en Comú y Esquerra Unida. A partir de noviembre de 2015, los cogerentes de la empresa pública Imelsa (que posteriormente se llamaría Divalterra), Agustina Brines (Compromís) y José Ramón Tiller (PSPV), inician la contratación de siete directivos de alta dirección afines a sus formaciones políticas, supuestamente sin los informes jurídicos y de intervención preceptivos."
-    type: "resumen"
-    urls:
-      - "https://valenciaplaza.com/caso-alqueria-un-ano-de-la-operacion-que-fulmino-a-jorge-rodriguez-del-pspv"
-
   - fecha: "2015-07-24"
     titulo: "Primer Consejo de Administración de Divalterra (Imelsa)"
     descripcion: "En el primer Consejo de Administración de Divalterra (todavía llamada Imelsa), el Partido Popular advierte de los problemas legales de contratar directivos sin un proceso de concurrencia pública. A pesar de las advertencias, se continúa con el proceso de contratación de altos cargos sin seguir los procedimientos establecidos."
@@ -104,7 +97,14 @@ cronologia:
     urls:
       - "https://valenciaplaza.com/divalterra-recta-final-instruccion"
 
-  - fecha: "2015-09"
+  - fecha: "2015-11-01"
+    titulo: "Inicio de las contrataciones irregulares en Divalterra"
+    descripcion: "Jorge Rodríguez (PSPV-PSOE) preside la Diputación de Valencia desde julio de 2015 con el apoyo de Compromís, València en Comú y Esquerra Unida. A partir de noviembre de 2015, los cogerentes de la empresa pública Imelsa (que posteriormente se llamaría Divalterra), Agustina Brines (Compromís) y José Ramón Tiller (PSPV), inician la contratación de siete directivos de alta dirección afines a sus formaciones políticas, supuestamente sin los informes jurídicos y de intervención preceptivos."
+    type: "resumen"
+    urls:
+      - "https://valenciaplaza.com/caso-alqueria-un-ano-de-la-operacion-que-fulmino-a-jorge-rodriguez-del-pspv"
+
+  - fecha: "2015-09-01"
     titulo: "Informes alertan sobre irregularidades en las contrataciones"
     descripcion: "Entre septiembre de 2015 y junio de 2016 se presentan hasta siete informes que alertan sobre las irregularidades en las contrataciones de directivos en Divalterra. El jefe jurídico José Luis Vera ofrece dos opciones: mantener a los siete directivos contratados o rescindir los contratos y convocar concursos públicos. Finalmente, se decide mantener las contrataciones a pesar de las advertencias legales."
     type: "documento"
@@ -170,14 +170,14 @@ cronologia:
       - "https://okdiario.com/espana/juez-procesa-ex-presidente-diputacion-valencia-otros-cargos-del-psoe-corrupcion-6783853"
 
   - fecha: "2021-02-23"
-    titulo: "Fiscalía pide 8 años de cárcel para los responsables"
+    titulo: "Fiscalía pide hasta 8 años de cárcel para los responsables"
     descripcion: "La Fiscalía Anticorrupción solicita penas de hasta 8 años de prisión para Jorge Rodríguez y los principales responsables del caso (Ricard Gallego, Manuel Reguart, Agustina Brines y José Ramón Tiller), así como 6 años para los siete directivos contratados irregularmente. Las penas incluyen inhabilitación especial para empleo o cargo público durante 20 años por los delitos de prevaricación administrativa, malversación de caudales públicos y falsedad en documento oficial."
     type: "resumen"
     urls:
       - "https://www.elespanol.com/espana/comunidad-valenciana/valencia/20210223/fiscalia-carcel-psoe-compromis-colocar-puestos-ficticios/561194818_0.html"
 
   - fecha: "2022-11-16"
-    titulo: "Comienza el juicio del caso Alquería"
+    titulo: "Comienza el juicio oral del caso Alquería"
     descripcion: "Arranca el juicio oral del caso Alquería en la Audiencia Provincial de Valencia con 14 acusados. La Fiscalía mantiene su petición de condena por prevaricación, malversación y falsedad documental, mientras que la defensa argumenta que los contratados realizaron trabajo efectivo y que no hubo perjuicio económico para Divalterra. El juicio se centra en determinar si las contrataciones fueron fraudulentas o respondieron a necesidades legítimas de la empresa pública."
     type: "resumen"
     urls:

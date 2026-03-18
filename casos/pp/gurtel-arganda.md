@@ -24,11 +24,11 @@ numeroSentencia: ""
 implicados:
   - nombre: "Francisco Correa Sánchez"
     cargo: "Empresario, líder de la trama Gürtel"
-    rol: "Condenado a 8 años y 10 meses por organización criminal, cohecho y fraude"
+    rol: "Condenado a 8 años y 10 meses por organización criminal y cohecho"
 
   - nombre: "Pablo Crespo Sabaris"
     cargo: "Mano derecha de Correa en la trama Gürtel"
-    rol: "Condenado a 8 años y 10 meses; ejecutaba órdenes de Correa desde 2002"
+    rol: "Condenado a 8 años y 10 meses por organización criminal y cohecho"
 
   - nombre: "Ginés López González"
     cargo: "Exalcalde de Arganda del Rey (PP, 2003-2009)"
@@ -36,15 +36,15 @@ implicados:
 
   - nombre: "Benjamín Martín Vasco"
     cargo: "Exteniente de alcalde de Arganda y exdiputado autonómico del PP"
-    rol: "Condenado a 6 años; recibió 363.295 € y presidía Sociedad de Fomento"
+    rol: "Condenado a 6 años por cohecho y fraude en adjudicaciones municipales"
 
   - nombre: "Fernando Martín Álvarez"
     cargo: "Constructor, expresidente de Martinsa y del Real Madrid (2006)"
-    rol: "Condenado a 3 años y 4 meses; confesó pago de 25 millones en comisiones"
+    rol: "Condenado a 3 años y 4 meses; pagó 25 millones en comisiones a Correa"
 
   - nombre: "María Josefa Aguado Olmo"
     cargo: "Exdiputada del PP en la Asamblea de Madrid, exresponsable de Deportes"
-    rol: "Condenada por prevaricación y fraude; dimitió en 2017 tras imputación"
+    rol: "Condenada por prevaricación y fraude en contrato de Olimpiadas Escolares"
 
   - nombre: "Isabel Jordán García"
     cargo: "Administradora de empresas del Grupo Correa"
@@ -52,7 +52,7 @@ implicados:
 
   - nombre: "Ramón Blanco Balín"
     cargo: "Abogado, exdirectivo de Repsol designado por Aznar"
-    rol: "Condenado a 1 año y 8 meses; cerebro financiero y blanqueo de capitales"
+    rol: "Condenado a 1 año y 8 meses como cerebro financiero de la trama"
 
   - nombre: "Juan Fernández Caballero"
     cargo: "Exconsejero delegado vinculado a la trama"

@@ -17,33 +17,35 @@ resumen: "Contratos públicos amañados del Ministerio del Interior a favor de e
 coste: 2400000
 lugar: "Madrid, España"
 tribunal:
+  - "Juzgado de Instrucción número 1 de Aranjuez"
   - "Juzgado de Instrucción número 36 de Madrid"
   - "Audiencia Provincial de Madrid - Sección Segunda"
+  - "Juzgado de Instrucción número 3 de Aranjuez"
 numeroSentencia: ""
 implicados:
   - nombre: "Gabriel Fuentes González"
     cargo: "Excomisario General de Información del Cuerpo Nacional de Policía"
-    rol: "Investigado como vicepresidente de Interligare y presunto beneficiario de contratos amañados"
+    rol: "Investigado por cohecho y tráfico de influencias como vicepresidente de Interligare"
 
   - nombre: "Miguel Ángel Fernández Rancaño"
     cargo: "Exjefe Superior de Policía de Madrid"
-    rol: "Investigado como miembro del consejo de administración de Interligare"
+    rol: "Investigado por cohecho como consejero de administración de Interligare"
 
   - nombre: "Luis Luengo Alfonso"
     cargo: "Exdirector General de Infraestructuras del Ministerio del Interior"
-    rol: "Investigado por filtrar pliegos de condiciones a Interligare para facilitar adjudicaciones"
+    rol: "Investigado por filtrar pliegos de condiciones para adjudicaciones irregulares"
 
   - nombre: "José Luis Martín Juárez"
     cargo: "Presidente de Interligare"
-    rol: "Investigado como responsable ejecutivo de la empresa receptora de contratos irregulares"
+    rol: "Investigado como responsable ejecutivo de la empresa receptora de contratos"
 
   - nombre: "Alexandre Hermida Mondelo"
     cargo: "Director General de Interligare"
-    rol: "Investigado como director general de la empresa en el centro de la trama de contratos"
+    rol: "Investigado por gestionar la empresa beneficiaria de contratos irregulares"
 
   - nombre: "Alfredo Pérez Rubalcaba"
     cargo: "Ministro del Interior (2006-2010), Vicepresidente del Gobierno"
-    rol: "Mencionado como responsable político en cuya etapa se adjudicaron los contratos irregulares"
+    rol: "Mencionado como responsable político de la etapa con contratos irregulares"
 
 tags:
   - "corrupción"
@@ -112,6 +114,13 @@ cronologia:
   - fecha: "2015-12-30"
     titulo: "La Audiencia Provincial reabre el caso a instancias de Anticorrupción"
     descripcion: "La Sección Segunda de la Audiencia Provincial de Madrid estima el recurso presentado por la Fiscalía Anticorrupción contra el archivo decretado en junio de 2014 y ordena la reapertura de la instrucción. El tribunal considera 'prematuro' cerrar el proceso sin practicar diligencias esenciales solicitadas por la Fiscalía, en particular la declaración de los funcionarios policiales que estuvieron presentes en las reuniones celebradas en la Comisaría General de Información con representantes de Interligare. El caso vuelve al Juzgado de Instrucción para continuar la investigación."
+    type: "investigación"
+    urls:
+      - "https://www.eleconomista.es/legislacion/noticias/7338417/02/16/La-Audiencia-Provincial-reabre-el-caso-Interligare.html"
+
+  - fecha: "2016-02-01"
+    titulo: "El caso se remite al Juzgado de Instrucción número 3 de Aranjuez"
+    descripcion: "Tras la reapertura ordenada por la Audiencia Provincial en diciembre de 2015, el caso Interligare es remitido al Juzgado de Primera Instancia e Instrucción número 3 de Aranjuez, donde tiene su domicilio social registrado la empresa. La Audiencia fundamentó la remisión en que el delito más grave investigado —fraude contra la Seguridad Social— tiene su sede en Aranjuez. La causa queda paralizada durante años en este juzgado sin que se practiquen las diligencias esenciales reclamadas por la Fiscalía Anticorrupción ni se celebre juicio oral."
     type: "investigación"
     urls:
       - "https://www.eleconomista.es/legislacion/noticias/7338417/02/16/La-Audiencia-Provincial-reabre-el-caso-Interligare.html"

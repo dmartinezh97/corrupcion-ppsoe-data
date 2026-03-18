@@ -55,7 +55,7 @@ implicados:
 
   - nombre: "Andrés Carrasco Muñoz"
     cargo: "Exalcalde socialista de San Nicolás del Puerto"
-    rol: "Incluido como intruso en el ERE, cobró 113.000 euros sin trabajar en Acyco"
+    rol: "Intruso en el ERE, cobró 113.000 euros sin haber trabajado en Acyco"
 
 tags:
   - "corrupción"

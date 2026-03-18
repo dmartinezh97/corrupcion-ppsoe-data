@@ -25,19 +25,19 @@ numeroSentencia: ""
 implicados:
   - nombre: "José Antonio Viera Chacón"
     cargo: "Exconsejero de Empleo de la Junta de Andalucía (PSOE)"
-    rol: "Investigado, archivado por prescripción en 2023-2025"
+    rol: "Archivado por prescripción en 2025"
 
   - nombre: "Antonio Fernández García"
     cargo: "Exconsejero de Empleo de la Junta de Andalucía (PSOE)"
-    rol: "Investigado, archivado por prescripción en 2023-2025"
+    rol: "Archivado por prescripción en 2025"
 
   - nombre: "Francisco Vallejo Serrano"
     cargo: "Exconsejero de la Junta de Andalucía (PSOE)"
-    rol: "Investigado, archivado por prescripción"
+    rol: "Archivado por prescripción"
 
   - nombre: "Agustín Barberá Albalat"
     cargo: "Exviceconsejero de Empleo de la Junta de Andalucía"
-    rol: "Investigado, archivado por prescripción"
+    rol: "Archivado por prescripción"
 
   - nombre: "Martín Soler Márquez"
     cargo: "Exconsejero de Innovación, Ciencia y Empresa de la Junta (PSOE)"
@@ -45,7 +45,7 @@ implicados:
 
   - nombre: "Francisco Javier Guerrero Benítez"
     cargo: "Exdirector General de Trabajo de la Junta (1999-2008)"
-    rol: "Responsabilidad penal extinguida por fallecimiento en 2020"
+    rol: "Responsabilidad extinguida por fallecimiento en 2020"
 
   - nombre: "Juan Márquez Contreras"
     cargo: "Exdirector General de Trabajo y Seguridad Social de la Junta"
@@ -57,11 +57,11 @@ implicados:
 
   - nombre: "Jacinto Cañete Rolloso"
     cargo: "Exdirector General de la Agencia IDEA (hasta 2009)"
-    rol: "Procesado por préstamos de 36,1 millones, archivado en 2025"
+    rol: "Procesado por los préstamos irregulares de 36,1 millones a Santana"
 
   - nombre: "Antonio Valverde Ramos"
     cargo: "Exdirector General de la Agencia IDEA (desde 2009)"
-    rol: "Procesado por malversación y prevaricación, dimitió del cargo"
+    rol: "Procesado por malversación y prevaricación"
 
   - nombre: "Juan Carlos Ollero Pina"
     cargo: "Exdirector General del IFA (Instituto de Fomento de Andalucía)"
@@ -73,15 +73,19 @@ implicados:
 
   - nombre: "Bienvenido Martínez"
     cargo: "Expresidente de Santana Motor y administrador único de EGM"
-    rol: "Procesado como cerebro del desvío de fondos, archivado en 2025"
+    rol: "Archivado en 2025 por defectos procedimentales"
 
   - nombre: "Juan Carlos Martínez"
     cargo: "Hermano de Bienvenido Martínez, cuñado de María Gámez"
-    rol: "Investigado por malversación, archivado en 2024"
+    rol: "Archivado por falta de indicios en 2024"
 
   - nombre: "José González Mata"
     cargo: "Propietario de la empresa Uniter"
     rol: "Investigado por participación en el entramado"
+
+  - nombre: "María Gámez Gámez"
+    cargo: "Directora General de la Guardia Civil (2020-2023)"
+    rol: "Dimitió por la implicación judicial de su cuñado Bienvenido Martínez"
 
 tags:
   - "corrupción"
@@ -140,12 +144,12 @@ cronologia:
 
   - fecha: "2009-12-17"
     titulo: "Ayuda excepcional de 603.291 euros a Asociación Promoción Social"
-    descripcion: "La Dirección General de Trabajo concede una ayuda sociolaboral excepcional de 603.291 euros a la Asociación Promoción Social vinculada a Santana Motor. De esta cantidad, se pagó el 75% (452.468,25 euros). Esta ayuda se sumaba a los gastos de publicidad (4.560,92 euros) y a la adenda del convenio IFA-Soprea por 1.996.616,63 euros (con un máximo autorizado de 126.212.541,92 euros), así como a honorarios de abogados del despacho Olivencia-Ballester por 119.828 euros."
+    descripcion: "La Dirección General de Trabajo concede una ayuda sociolaboral excepcional de 603.291 euros a la Asociación Promoción Social vinculada a Santana Motor, de la que se pagó el 75% (452.468,25 euros). Esta ayuda se sumaba a los gastos de publicidad (4.560,92 euros) y a la adenda del convenio IFA-Soprea por 1.996.616,63 euros, así como a honorarios de abogados del despacho Olivencia-Ballester por 119.828 euros pagados con fondos públicos."
     type: "documento"
     urls:
       - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+ERE/Santana+Motor&numero=514"
 
-  - fecha: "2009-01-01"
+  - fecha: "2010-01-01"
     titulo: "Desvío de 339.701 euros a empresa EGM del presidente de Santana"
     descripcion: "Entre 2009 y 2011, se realizaron transferencias por un total de 339.701 euros desde fondos públicos destinados a Santana Motor hacia la empresa Experience Management Group (EGM), cuyo administrador único era Bienvenido Martínez, que simultáneamente ejercía como presidente de Santana Motor. Este desvío de fondos constituye uno de los núcleos de la investigación judicial, al evidenciar que directivos de la empresa se beneficiaron personalmente de las ayudas públicas concedidas supuestamente para salvar empleos."
     type: "investigación"
@@ -211,11 +215,18 @@ cronologia:
       - "https://www.eldiario.es/andalucia/jaen/juzgado-ere-archiva-pieza-santana-motor-cuatro-exconsejeros-andaluces_1_10336334.html"
 
   - fecha: "2023-06-29"
-    titulo: "Procesamiento de directivos de Santana Motor"
+    titulo: "Procesamiento de directivos de Santana Motor como partícipes a título lucrativo"
     descripcion: "El juez José Ignacio Vilaplana acuerda continuar el procedimiento como juicio abreviado contra cinco directivos y ejecutivos de Santana Motor como partícipes a título lucrativo, al considerar que se beneficiaron directamente de las ayudas públicas obteniendo remuneraciones o bonificaciones extraordinarias que habrían sido objeto de administración desleal de fondos públicos. Los procesados incluyen al CEO de Santana Motor, al director de Recursos Humanos, representantes de sociedades vinculadas (Sociedad para el Desarrollo de Componentes y Sociedad Útiles del Sur), un abogado, y el responsable de una mediadora de seguros."
     type: "investigación"
     urls:
       - "https://www.eldebate.com/espana/20230629/juez-ere-procesa-directivos-santana-motor-ayudas-ilegales-recibidas-junta-grinan_124857.html"
+
+  - fecha: "2024-06-01"
+    titulo: "Continuación del procedimiento contra 10 investigados"
+    descripcion: "El juez José Ignacio Vilaplana acuerda continuar el procedimiento contra diez personas investigadas en la pieza separada del caso ERE por las ayudas superiores a 100 millones de euros concedidas a Santana Motor. Entre los investigados que continúan en el procedimiento se encuentran el exconsejero Martín Soler, exdirectores generales de IDEA, el expresidente de Santana Motor Bienvenido Martínez, y cinco ejecutivos de la empresa como partícipes a título lucrativo. El juez considera que existen indicios racionales de criminalidad por delitos de prevaricación, malversación y falsedad documental."
+    type: "investigación"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/gl/Poder-Xudicial/Tribunais-Superiores-de-Xustiza/TSX-Andalucia--Ceuta-e-Melilla/Noticias-Xudicial-TSX-Andalucia--Ceuta-e-Melilla/El-juez-continua-el-procedimiento-contra-diez-personas-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-cien-millones-a-Santana-Motor"
 
   - fecha: "2024-06-11"
     titulo: "Archivo de la causa contra Juan Carlos Martínez"
@@ -224,13 +235,6 @@ cronologia:
     urls:
       - "https://www.elespanol.com/espana/tribunales/20240611/archivan-pieza-ere-santana-motor-marido-exdirectora-guardia-civil/862164032_0.html"
       - "https://www.eldiario.es/andalucia/exculpado-pieza-caso-ere-marido-exdirectora-guardia-civil-motivo-dimision-ano_1_11439594.html"
-
-  - fecha: "2024-06-01"
-    titulo: "Continuación del procedimiento contra 10 investigados"
-    descripcion: "El juez José Ignacio Vilaplana acuerda continuar el procedimiento contra diez personas investigadas en la pieza separada del caso ERE por las ayudas superiores a 100 millones de euros concedidas a Santana Motor. Entre los investigados que continúan en el procedimiento se encuentran el exconsejero Martín Soler, exdirectores generales de IDEA, el expresidente de Santana Motor Bienvenido Martínez, y cinco ejecutivos de la empresa como partícipes a título lucrativo. El juez considera que existen indicios racionales de criminalidad por delitos de prevaricación, malversación y falsedad documental."
-    type: "investigación"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/gl/Poder-Xudicial/Tribunais-Superiores-de-Xustiza/TSX-Andalucia--Ceuta-e-Melilla/Noticias-Xudicial-TSX-Andalucia--Ceuta-e-Melilla/El-juez-continua-el-procedimiento-contra-diez-personas-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-cien-millones-a-Santana-Motor"
 
   - fecha: "2024-10-08"
     titulo: "El juez revoca el archivo y mantiene investigados a Viera y Fernández"

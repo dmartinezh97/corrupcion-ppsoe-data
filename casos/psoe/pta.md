@@ -62,11 +62,26 @@ cronologia:
       - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+PTA&numero=318
     type: denuncia
 
+  - fecha: 2012-01-02
+    titulo: Pilar Sánchez nombrada alto cargo de la Junta estando imputada
+    descripcion: El Gobierno de la Junta de Andalucía del PSOE nombra a Pilar Sánchez directora del Instituto Andaluz de Cualificaciones Profesionales, dependiente de la Consejería de Educación, con el nombramiento publicado en el BOJA del 2 de enero. El nombramiento genera una fuerte polémica porque Sánchez ya se encontraba imputada judicialmente por el caso PTA, lo que evidencia la protección institucional que recibió del partido pese a estar investigada.
+    urls:
+      - http://canarias-semanal.org/art/6701/_el_gobierno_andaluz_nombra_alto_cargo_de_la_junta_a_ex_alcaldesa_de_jerez_imputada_por_presunta_corrupcion_
+      - https://andaluciainformacion.es/jerez/365285/el-pa-pide-el-cese-de-pilar-sanchez-en-su-cargo-en-la-consejeria-de-educacion/
+    type: resumen
+
   - fecha: 2012-12-05
     titulo: Apertura de juicio oral
     descripcion: El Juzgado de Instrucción número 3 de Jerez dicta auto ordenando la apertura de juicio oral contra Pilar Sánchez y otros acusados, tras considerar que existen suficientes indicios de que cometieron delitos de prevaricación, malversación de caudales públicos y falsedad documental. El juicio se prevé para mayo de 2013.
     urls:
       - https://www.andaluciainformacion.es/articulo/jerez/ordenan-abrir-juicio-oral-contra-la-exalcaldesa-socialista-pilar-sanchez/201212051833161319939.html
+    type: investigación
+
+  - fecha: 2013-09-01
+    titulo: La Audiencia Provincial desestima todos los recursos y confirma el juicio oral
+    descripcion: La Audiencia Provincial de Cádiz desestima todos los recursos de apelación interpuestos por los abogados de Pilar Sánchez y del resto de los seis acusados contra el procedimiento abreviado. Tras rechazar todos los escritos, la Sala solicita la presentación de los escritos de acusación, confirmando que el caso irá a juicio oral. Las acusaciones incluyen los delitos de prevaricación, tráfico de influencias, malversación de caudales públicos y falsedad documental.
+    urls:
+      - https://informacionsanfernando.es/san-fernando/340217/pilar-sanchez-ira-a-juicio-por-el-caso-pta-al-desestimarse-sus-recursos/
     type: investigación
 
   - fecha: 2015-01-29
