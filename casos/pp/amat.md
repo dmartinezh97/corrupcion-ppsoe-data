@@ -13,7 +13,7 @@ descripcion: |
 
   Tras más de doce años de instrucción, el Juzgado de Instrucción número 3 de Almería acordó en enero de 2026 el sobreseimiento provisional y el archivo de la pieza principal del caso Hispano Almería al no apreciar indicios suficientes de delito. El PSOE recurrió dicho archivo aportando nuevas evidencias procedentes de la investigación por la denominada trama de las mascarillas. Pese a las múltiples investigaciones, Gabriel Amat nunca llegó a ser formalmente imputado en la pieza principal del caso y continuó ejerciendo cargos públicos durante toda la instrucción.
 resumen: "Alcalde de Roquetas investigado por adjudicación irregular de contratos por 77 millones y prevaricación urbanística durante décadas"
-coste: "77 millones de euros"
+coste: 77000000
 lugar: "Roquetas de Mar, Andalucía"
 tribunal:
   - "Juzgado de Instrucción nº 3 de Almería - Fiscalía Anticorrupción de Almería"

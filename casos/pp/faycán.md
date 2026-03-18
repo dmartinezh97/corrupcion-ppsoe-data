@@ -13,7 +13,7 @@ descripcion: |
 
   Tras las detenciones, el alcalde Francisco Valido y los cinco concejales del PP implicados presentaron su renuncia el 10 de noviembre de 2006. El caso fue uno de los varios escándalos de corrupción urbanística vinculados al PP durante la primera década del siglo XXI en municipios españoles. El estado del proceso judicial posterior no está completamente documentado en fuentes públicas accesibles.
 resumen: "Detención del alcalde del PP de Telde y toda la cúpula municipal por corrupción urbanística."
-coste: "Sin determinar"
+coste: 0
 lugar: "Telde, Gran Canaria, Canarias"
 tribunal:
   - "Juzgado de Instrucción de Las Palmas de Gran Canaria"

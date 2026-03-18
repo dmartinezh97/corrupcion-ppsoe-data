@@ -14,7 +14,7 @@ descripcion: |
   Tras la imputación, el PP exigió su dimisión como consejero y la oposición reclamó que la presidenta de la Junta, Susana Díaz, cesara a Alonso de sus funciones mientras durase la investigación judicial. El caso se enmarcó en el contexto más amplio de la crisis de corrupción que afectaba al PSOE andaluz, con el macrocaso de los ERE como telón de fondo. El juzgado de Almería acabó archivando las actuaciones al no apreciar indicios suficientes de delito.
 
 resumen: "Consejero de Cultura de la Junta de Andalucía imputado en 2014 por nombramientos irregulares y uso indebido de recursos públicos en Almería"
-coste: "Sin determinar"
+coste: 0
 lugar: "Almería, Andalucía"
 tribunal:
   - "Juzgado de Instrucción nº 4 de Almería"

@@ -14,7 +14,7 @@ descripcion: |
   El 11 de julio de 2018, agentes de la UDEF de la Policía Nacional ejecutaron la "Operación Cerrú" con el registro de la Casa Consistorial durante más de doce horas, 19 registros en varias ciudades y 9 detenciones, entre ellas la del exalcalde Hermoso Murillo. Inicialmente se investigó a cerca de 20 personas por delitos de tráfico de influencias, cohecho, malversación, blanqueo de capitales y falsedad documental. Sin embargo, la Fiscalía Provincial de Ciudad Real desmontó en junio de 2023 la tesis de la "trama delictiva", solicitando el sobreseimiento para 15 de los investigados y reduciendo la acusación a un único delito de prevaricación administrativa contra el exalcalde y el exsecretario municipal accidental. El 5 de julio de 2024, el Juzgado de Instrucción nº 3 de Puertollano dictó auto de apertura de juicio oral únicamente para estos dos acusados, con la solicitud de 9 años de inhabilitación para cada uno.
 
 resumen: "Irregularidades en la construcción del estadio municipal de Puertollano por adjudicación directa sin concurso público"
-coste: "Sin determinar"
+coste: 0
 lugar: "Puertollano, Castilla-La Mancha"
 tribunal:
   - "Juzgado de Primera Instancia e Instrucción nº 3 de Puertollano - Diligencias Previas 334/2017"

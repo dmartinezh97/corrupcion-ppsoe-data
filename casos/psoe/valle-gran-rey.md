@@ -14,7 +14,7 @@ descripcion: |
   Tras la firmeza de la sentencia, García —que había accedido a la alcaldía de Valle Gran Rey mediante una moción de censura apoyada por el PSOE— se negó a ingresar voluntariamente en prisión, lo que motivó que la Audiencia Provincial emitiera una orden de búsqueda y captura el 30 de junio de 2014. Finalmente, el 2 de julio de 2014, ingresó de forma voluntaria en el centro penitenciario Tenerife II para cumplir su condena. Su defensa, encabezada por el exfiscal general del Estado Eligio Hernández, solicitó sin éxito la suspensión de la pena hasta resolver una petición de indulto ante el Ministerio de Justicia.
 
 resumen: "Exalcalde de Valle Gran Rey condenado por contratar irregularmente a su hermana como monitora municipal."
-coste: "7.411,96 euros"
+coste: 7412
 lugar: "Valle Gran Rey, La Gomera, Canarias"
 tribunal:
   - "Audiencia Provincial de Santa Cruz de Tenerife"

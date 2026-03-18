@@ -13,7 +13,7 @@ descripcion: |
 
   En 2012, el Ayuntamiento liquidó la deuda pendiente con las empresas contratistas a través del Plan de Pago a Proveedores, lo que generó sospechas de pago duplicado al haberse ya percibido la subvención regional. La instrucción judicial, iniciada en el Juzgado de Lorca y posteriormente asumida por la Audiencia Provincial de Murcia, culminó el 6 de marzo de 2023 con la condena de Pedro Antonio Sánchez a 3 años de prisión, multa de 3.600 euros y 17 años y 3 meses de inhabilitación para cargo público, por dos delitos de prevaricación, el primero continuado en concurso con falsedad documental. La secretaria accidental y el arquitecto fueron condenados como cooperadores necesarios. El Tribunal de Cuentas archivó en 2024 la denuncia contable al concluir que la totalidad de la subvención fue invertida en la obra.
 resumen: "Condena al expresidente de Murcia por encargar verbalmente y amañar el concurso del Teatro Auditorio de Puerto Lumbreras"
-coste: "6 millones de euros"
+coste: 6000000
 lugar: "Puerto Lumbreras, Región de Murcia"
 tribunal:
   - "Audiencia Provincial de Murcia - Sección Penal"

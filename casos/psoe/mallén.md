@@ -13,7 +13,7 @@ descripcion: |
 
   Tras el juicio oral celebrado en octubre de 2013 ante la Audiencia Provincial de Zaragoza, la Sección Sexta dictó sentencia el 10 de febrero de 2014 condenando a Asín a 7 años de inhabilitación para cargos públicos por prevaricación administrativa. El resto de los acusados fueron absueltos. En 2017, la misma Audiencia impuso una segunda condena a Asín y al secretario de la SUMM, Pedro Rueda, de 6 meses de suspensión de empleo por falsedad documental ante el Registro Mercantil. El PSOE expulsó a Asín del partido en 2012, aunque sus concejales le mantuvieron como alcalde; fue readmitido y propuesto como candidato municipal en las elecciones de mayo de 2023.
 resumen: "Alcalde socialista de Mallén condenado por prevaricación y falsedad documental en la gestión municipal de la SUMM"
-coste: "811.512 euros"
+coste: 811512
 lugar: "Mallén, Aragón"
 tribunal:
   - "Audiencia Provincial de Zaragoza - Sección Sexta"

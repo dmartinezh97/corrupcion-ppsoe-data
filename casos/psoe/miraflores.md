@@ -13,7 +13,7 @@ descripcion: |
 
   El Juzgado de lo Penal número 31 de Madrid dictó sentencia el 22 de julio de 2014, comunicada a las partes en septiembre de ese año, condenando a José Esteban Esteban a nueve años de inhabilitación para ejercer cargo público por un delito continuado de prevaricación administrativa. La sentencia calificó la actuación del alcalde como "evidentemente arbitraria, contraria a la legalidad" y determinó que el imputado "era consciente de dicha arbitrariedad". La pena se aproximó al máximo legal de diez años debido a la persistencia en las decisiones ilegales. La sentencia también ordenó la demolición de los cuatro muros de contención ya construidos y la restauración ambiental de la zona.
 resumen: "Alcalde socialista de Miraflores de la Sierra condenado a 9 años de inhabilitación por aprobar ilegalmente una urbanización en el cauce de un arroyo."
-coste: "0 €"
+coste: 0
 lugar: "Miraflores de la Sierra, Comunidad de Madrid"
 tribunal:
   - "Juzgado de lo Penal número 31 de Madrid"

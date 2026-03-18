@@ -13,7 +13,7 @@ descripcion: |
 
   En junio de 2019 la Audiencia Provincial de Valencia condenó a Grau a cuatro años de prisión por cohecho continuado y blanqueo de capitales, y al empresario Catalán a nueve meses por cohecho pasivo impropio. El Tribunal Superior de Justicia de la Comunitat Valenciana confirmó la condena. Finalmente, en mayo de 2022 el Tribunal Supremo mantuvo la condena por cohecho (nueve meses) pero absolvió a Grau del delito de blanqueo de capitales, al considerar que los elementos probatorios no excluían otras hipótesis razonables sobre la motivación del cambio de los relojes.
 resumen: "Exvicealcalde de Valencia condenado por aceptar relojes de lujo de un contratista municipal como soborno."
-coste: "17.410 euros"
+coste: 17410
 lugar: "Valencia, Comunidad Valenciana"
 tribunal:
   - "Audiencia Provincial de Valencia - Sección Segunda"

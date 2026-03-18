@@ -13,7 +13,7 @@ descripcion: |
 
   El Tribunal Supremo abrió causa contra Rita Barberá por blanqueo de capitales en septiembre de 2016. Barberá declaró ante el magistrado Cándido Conde-Pumpido el 21 de noviembre de 2016, negando cualquier relación con el "pitufeo". Dos días después, el 23 de noviembre de 2016, falleció en Madrid. El caso fue escalando judicialmente: en octubre de 2021 el juzgado de instrucción procesó a medio centenar de personas, pero en diciembre de 2021 la Audiencia Provincial de Valencia archivó provisionalmente la causa al no apreciar indicios de blanqueo de capitales. En abril de 2022, el Tribunal Supremo rechazó el recurso de la Fiscalía Anticorrupción, cerrando definitivamente esta pieza del caso.
 resumen: "Blanqueo de capitales mediante 'pitufeo' en la financiación ilegal del PP en Valencia bajo Rita Barberá"
-coste: "50.000 euros blanqueados en la operación de pitufeo; cuantías adicionales indeterminadas en financiación ilegal de campañas"
+coste: 50000
 lugar: "Valencia, Comunitat Valenciana"
 tribunal:
   - "Tribunal Supremo - Sala Segunda - Magistrado Cándido Conde-Pumpido"

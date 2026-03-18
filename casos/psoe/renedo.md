@@ -16,7 +16,6 @@ descripcion: |
   La Inspección General de Servicios del Gobierno de Cantabria abrió una investigación interna que concluyó identificando una única actuación irregular: la falta de inhibición de Renedo en la adjudicación del contrato de 2022 a la empresa de su antigua empleadora. El Gobierno la sancionó por infracción leve, limitándose la penalización a la publicación de la sanción en el Boletín Oficial de Cantabria. Ante el escándalo, Renedo dimitió de su cargo el 13 de enero de 2023. El caso no llegó a la vía penal, quedando como un expediente disciplinario administrativo, aunque generó una fuerte crisis política en el ejecutivo de coalición PRC-PSOE liderado por Miguel Ángel Revilla.
 
 resumen: "Directora general del Gobierno de Cantabria adjudicó contratos irregulares a su exempresa durante siete años."
-coste: 258348
 tribunal:
   - "Inspección General de Servicios del Gobierno de Cantabria"
 numeroSentencia: ""
