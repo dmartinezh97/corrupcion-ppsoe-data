@@ -1,5 +1,151 @@
 ---
 nombre: "Contratos Marbella"
 partido: PP
-completado: false
+completado: true
+año: 2022
+fechaInicio: 2011-01-01
+fechaFin: ""
+estado: "en investigación"
+descripcion: |
+  El caso Contratos Marbella documenta la adjudicación irregular de más de veinte contratos municipales por parte del Ayuntamiento de Marbella —gobernado por el PP bajo la alcaldesa Ángeles Muñoz ("Titi")— a la empresa Codecosol (Construcciones y Demoliciones de la Costa del Sol), sociedad fundada en febrero de 2010 por el ciudadano sueco Nils Fischer. El juez de la Audiencia Nacional Manuel García Castellón concluyó en su auto de procesamiento que Fischer actuaba como testaferro de Joakim Peter Broberg, hijastro de la propia alcaldesa, quien está procesado como presunto cabecilla de una organización criminal internacional dedicada al narcotráfico y al blanqueo de capitales vinculada a la denominada Mocro Maffia sueca. Codecosol obtuvo su primer contrato municipal en enero de 2011, apenas once meses después de su constitución, y continuó recibiendo adjudicaciones durante todo el segundo mandato de Muñoz (2011-2015).
+
+  La práctica totalidad de los contratos adjudicados a Codecosol eran contratos menores —por debajo de los 60.000 euros con IVA— que el Ayuntamiento podía tramitar de forma directa sin necesidad de concurso público, un mecanismo que evitaba cualquier tipo de control externo o competencia. En total se contabilizaron más de veinte contratos por un valor agregado de 1.383.945 euros, todos ellos correspondientes a obras municipales de escasa entidad como rehabilitación de pavimentos, trabajos de demolición o trabajos de mantenimiento urbano. El marido de la alcaldesa, Lars Gunnar Sune Broberg —padre de Joakim—, también quedó implicado en la investigación de la Audiencia Nacional por su presunta participación en el blanqueo de los beneficios del narcotráfico a través de empresas pantalla. Lars Broberg falleció en marzo de 2023, antes de ser juzgado.
+
+  La dimensión política del caso se agravó cuando el Ayuntamiento de Marbella se negó durante meses a entregar al grupo municipal del PSOE la documentación relativa a los contratos con Codecosol, pese a haberla solicitado formalmente en noviembre de 2022. La Fiscalía interpretó esta negativa como un criterio de "oportunidad política" orientado a evitar el daño electoral antes de las elecciones municipales de mayo de 2023, llegando a solicitar que se condenase al Consistorio por desobediencia. Un juez tuvo que ordenar expresamente la entrega de los contratos. Los expedientes finalmente se aportaron en septiembre de 2023, diez meses después de la primera solicitud. En 2025 se celebró el juicio oral en la Audiencia Nacional contra Joakim Broberg y otros 23 acusados; la Fiscalía pidió 18 años de cárcel para Broberg y una multa de 30 millones de euros. A fecha de hoy el caso sigue pendiente de sentencia.
+
+resumen: "Contratos adjudicados a empresa de la trama sueca de narcotráfico, vinculada al hijastro de la alcaldesa"
+coste: 1383945
+lugar: "Marbella, Málaga, Andalucía"
+tribunal:
+  - "Audiencia Nacional - Juzgado Central de Instrucción nº 6 - Juez Manuel García Castellón - Fiscalía Antidroga"
+  - "Juzgado de lo Contencioso-Administrativo de Málaga (contratos municipales)"
+numeroSentencia: ""
+implicados:
+  - nombre: "Ángeles Muñoz Uriol"
+    cargo: "Alcaldesa de Marbella (PP)"
+    rol: "Adjudicó contratos municipales a empresa vinculada a su hijastro investigado"
+
+  - nombre: "Joakim Peter Broberg"
+    cargo: "Hijastro de la alcaldesa de Marbella"
+    rol: "Procesado por narcotráfico y blanqueo; presunto beneficiario de contratos vía testaferro"
+
+  - nombre: "Nils Fischer"
+    cargo: "Administrador único de Codecosol"
+    rol: "Procesado como testaferro de Broberg; receptor de contratos municipales irregulares"
+
+  - nombre: "Lars Gunnar Sune Broberg"
+    cargo: "Marido de la alcaldesa de Marbella"
+    rol: "Investigado por blanqueo de narcotráfico; falleció en marzo de 2023"
+
+tags:
+  - "corrupción"
+  - "cohecho"
+  - "prevaricación"
+  - "blanqueo de capitales"
+  - "tráfico de influencias"
+  - "narcotráfico"
+  - "contratación irregular"
+
+impactoSocial: "El caso expuso la presunta vinculación del entorno familiar de la alcaldesa de Marbella con una organización criminal internacional de narcotráfico, y el uso del Ayuntamiento para canalizar contratos públicos a empresas pantalla de la trama. La negativa municipal a entregar documentación a la oposición durante meses añadió una dimensión de obstrucción institucional al escándalo."
+
+documentos: []
+
+cronologia:
+  - fecha: "2010-02-16"
+    titulo: "Constitución de Codecosol"
+    descripcion: "Nils Fischer inscribe la sociedad limitada Construcciones y Demoliciones de la Costa del Sol (Codecosol) con domicilio en Marbella. El juez de la Audiencia Nacional Manuel García Castellón concluirá años después que Fischer era testaferro de Joakim Broberg, hijastro de la alcaldesa Ángeles Muñoz, en el seno de una organización criminal dedicada al narcotráfico y al blanqueo de capitales."
+    type: "resumen"
+    urls:
+      - "https://www.eldiario.es/andalucia/malaga/ayuntamiento-marbella-contrato-empresa-trama-sueca-11-meses-despues-creara_1_10647107.html"
+
+  - fecha: "2011-01-01"
+    titulo: "Primer contrato con el Ayuntamiento de Marbella"
+    descripcion: "Apenas once meses después de su constitución, Codecosol obtiene su primer contrato público del Ayuntamiento de Marbella por un importe de 250.000 euros para la rehabilitación de pavimentos dañados. La adjudicación directa, sin concurso público, inicia una relación contractual que se prolongará durante todo el segundo mandato de la alcaldesa Ángeles Muñoz."
+    type: "resumen"
+    urls:
+      - "https://www.eldiario.es/andalucia/malaga/ayuntamiento-marbella-contrato-empresa-trama-sueca-11-meses-despues-creara_1_10647107.html"
+
+  - fecha: "2015-06-30"
+    titulo: "Fin del segundo mandato: más de 20 contratos adjudicados a Codecosol"
+    descripcion: "Al término del segundo mandato de Ángeles Muñoz como alcaldesa (2011-2015), el Ayuntamiento de Marbella ha adjudicado a Codecosol más de veinte contratos por un total de 1.383.945 euros. La inmensa mayoría son contratos menores por debajo de los 60.000 euros, tramitados de forma directa sin concurso público ni control externo, todos ellos referidos a obras de mantenimiento urbano de escasa entidad."
+    type: "resumen"
+    urls:
+      - "https://www.marbellaconfidencial.es/los-contratos-de-la-trama-sueca-con-el-ayuntamiento-de-marbella-alcanzan-la-veintena-y-superan-el-millon-de-euros-294179466/"
+      - "https://www.eldiario.es/andalucia/malaga/contratos-trama-sueca-marbella-son-20-suman-1-millon-euros-psoe_1_10627618.html"
+
+  - fecha: "2017-12-01"
+    titulo: "Investigación fiscal archivada"
+    descripcion: "El fiscal jefe de Marbella, Julio Martínez Carazo, abre una investigación sobre algunos de los contratos adjudicados a Codecosol, pero las diligencias son archivadas sin consecuencias judiciales. La Fiscalía Anticorrupción se sorprenderá años después de no haber recibido la ramificación municipal de la investigación que ya seguía la Audiencia Nacional sobre la trama sueca."
+    type: "investigación"
+    urls:
+      - "https://www.vozpopuli.com/espana/andalucia/trama-sueca-sorpresa-anticorrupcion-recibir-ramificacion-municipal-marbella.html"
+      - "https://www.vozpopuli.com/espana/fiscal-jefe-marbella-investigo-10-fondos-publicos-trama-sueca.html"
+
+  - fecha: "2022-09-01"
+    titulo: "La Audiencia Nacional investiga a los Broberg y a Fischer"
+    descripcion: "Se hace público que el juez Manuel García Castellón de la Audiencia Nacional investiga a Lars Gunnar Broberg (marido de la alcaldesa), a su hijo Joakim Peter Broberg y al empresario sueco Nils Fischer como presuntos integrantes de una organización criminal dedicada al narcotráfico y al blanqueo de capitales. La conexión de Fischer con Codecosol —y de Codecosol con los contratos del Ayuntamiento— vuelve a poner en el foco las adjudicaciones municipales."
+    type: "investigación"
+    urls:
+      - "https://www.eldiario.es/politica/hijastro-alcaldesa-marbella-procesado-narcotrafico-ciudad-junta-jodida-andalucia_1_9650392.html"
+      - "https://www.elplural.com/autonomias/andalucia/la-alcaldesa-de-marbella-adjudico-al-testaferro-su-hijastro-procesado-por-blanqueo-obras-por-642-000-euros_300678102"
+
+  - fecha: "2022-11-07"
+    titulo: "El PSOE solicita formalmente los contratos con Codecosol"
+    descripcion: "El grupo municipal del PSOE en el Ayuntamiento de Marbella solicita formalmente, por escrito, el acceso a todos los contratos suscritos por el Consistorio con Codecosol. El gobierno de Ángeles Muñoz no atiene la petición dentro del plazo legalmente establecido, iniciando un largo bloqueo documental que derivará en un proceso judicial contra el propio Ayuntamiento."
+    type: "denuncia"
+    urls:
+      - "https://www.eldiario.es/andalucia/malaga/fiscal-pide-condenar-ayuntamiento-marbella-no-entregar-contratos-trama-sueca-oposicion_1_10631276.html"
+
+  - fecha: "2023-01-01"
+    titulo: "Cinco meses sin aparecer los contratos"
+    descripcion: "Pasados más de dos meses desde la solicitud del PSOE, el Ayuntamiento de Marbella sigue sin entregar la documentación sobre los contratos con Codecosol. Un juez apremia al Consistorio para que acredite que está buscando activamente los expedientes. La negativa prolongada genera una causa judicial paralela por desobediencia contra el gobierno municipal."
+    type: "investigación"
+    urls:
+      - "https://www.eldiario.es/andalucia/malaga/cinco-meses-encontrar-contratos-trama-salpica-ayuntamiento-marbella_1_10117558.html"
+      - "https://www.marbella24horas.es/local/los-contratos-municipales-con-la-trama-no-aparecen-tras-seis-semanas-34671"
+
+  - fecha: "2023-03-05"
+    titulo: "Fallece Lars Gunnar Broberg, marido de la alcaldesa"
+    descripcion: "Lars Gunnar Sune Broberg, marido de la alcaldesa Ángeles Muñoz e investigado por la Audiencia Nacional por su presunta participación en el blanqueo de los beneficios del narcotráfico junto a su hijo Joakim, fallece en Marbella a los 80 años. El juez García Castellón había suspendido previamente su procesamiento formal por motivos de salud. Su muerte pone fin a las diligencias penales contra él."
+    type: "resumen"
+    urls:
+      - "https://theobjective.com/sociedad/2023-03-05/muere-marido-alcaldesa-marbella/"
+      - "https://www.eldiario.es/andalucia/muere-lars-gunnar-sune-broberg-marido-alcaldesa-marbella_1_10005157.html"
+
+  - fecha: "2023-04-01"
+    titulo: "Un juez ordena entregar los contratos a la oposición"
+    descripcion: "Un juzgado de lo Contencioso-Administrativo de Málaga obliga al Ayuntamiento de Marbella a entregar al grupo municipal del PSOE todos los contratos suscritos con Codecosol. La resolución judicial certifica que el Consistorio ha vulnerado el derecho de los concejales de la oposición a acceder a la información municipal."
+    type: "sentencia"
+    urls:
+      - "https://www.vozpopuli.com/espana/andalucia/juez-obliga-alcaldesa-marbella-entregar-psoe-contratos-adjudico-trama-sueca.html"
+
+  - fecha: "2023-05-28"
+    titulo: "Elecciones municipales: PP gana en Marbella y Ángeles Muñoz repite como alcaldesa"
+    descripcion: "El PP obtiene mayoría absoluta en Marbella en las elecciones municipales del 28 de mayo de 2023, y Ángeles Muñoz es investida alcaldesa por cuarta vez. Los expedientes de los contratos con Codecosol —solicitados por el PSOE en noviembre de 2022— son entregados finalmente en septiembre de 2023, diez meses después de la solicitud y ya superadas las elecciones. La Fiscalía considera que la demora fue deliberada por motivos electorales."
+    type: "resumen"
+    urls:
+      - "https://www.eldiario.es/andalucia/malaga/fiscal-cree-ayuntamiento-marbella-no-entrego-contratos-trama-sueca-evitar-dano-electoral-pp_1_10777237.html"
+
+  - fecha: "2023-09-01"
+    titulo: "Los expedientes son entregados diez meses después"
+    descripcion: "El Ayuntamiento de Marbella entrega finalmente al PSOE los expedientes de los contratos con Codecosol, diez meses después de la primera solicitud formal y ya superadas las elecciones municipales. La documentación revela que el total de contratos supera la veintena y acumula más de un millón de euros. La Fiscalía solicita que el Consistorio sea condenado por haber obstruido el acceso a esta información."
+    type: "documento"
+    urls:
+      - "https://www.eldiario.es/andalucia/malaga/fiscal-pide-condenar-ayuntamiento-marbella-no-entregar-contratos-trama-sueca-oposicion_1_10631276.html"
+
+  - fecha: "2025-05-05"
+    titulo: "Comienza el juicio oral en la Audiencia Nacional"
+    descripcion: "La Audiencia Nacional abre el juicio oral contra Joakim Peter Broberg y otros 23 acusados —once suecos, seis polacos, tres españoles, dos alemanes, un holandés y un macedonio— por su presunta pertenencia a una organización criminal dedicada al transporte de hachís y marihuana entre Marruecos, España y Suecia. La Fiscalía Antidroga solicita 22 años de prisión para Broberg y subraya la conexión entre los contratos municipales de Marbella y el blanqueo de los beneficios del narcotráfico a través de Codecosol."
+    type: "declaración"
+    urls:
+      - "https://www.andaluciainformacion.es/articulo/marbella/la-an-juzga-al-hijastro-de-la-alcaldesa-de-marbella-por-narcotrafico-cohecho-y-blanqueo/20250505083714961204.html"
+      - "https://www.noticiasdenavarra.com/sucesos/2025/05/04/comienza-juicio-hijastro-alcaldesa-marbella-narcotrafico-blanqueo-capitales-9590097.html"
+
+  - fecha: "2025-06-26"
+    titulo: "Fiscalía pide 18 años de cárcel y 30 millones de multa para Broberg"
+    descripcion: "En las conclusiones definitivas del juicio oral, la fiscal María Dolores López Salcedo mantiene la petición de 18 años de prisión para Joakim Peter Broberg por tráfico de drogas y blanqueo de capitales, y reclama además una multa de 30 millones de euros y el decomiso de una vivienda en Marbella. La Policía Nacional concluye que Broberg y sus colaboradores blanquearon más de siete millones de euros del narcotráfico a través de inversiones inmobiliarias, comercio de oro y unas veinte empresas pantalla, entre ellas Codecosol. La sentencia queda pendiente."
+    type: "sentencia"
+    urls:
+      - "https://www.eldiario.es/politica/fiscalia-pide-18-anos-carcel-hijastro-alcaldesa-marbella-trafico-drogas-blanqueo_1_12416232.html"
+      - "https://www.elcorreogallego.es/sucesos/2025/06/26/fiscal-pide-18-anos-prision-hijastro-alcaldesa-marbella-narcotrafico-119081185.html"
 ---
