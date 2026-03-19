@@ -20,7 +20,7 @@ tribunal:
   - "Audiencia Provincial de Alicante - Sección Tercera"
   - "Tribunal Superior de Justicia de la Comunidad Valenciana - Sala de lo Civil y Penal"
   - "Tribunal Supremo - Sala de lo Penal"
-sentencia: Sentencia nº 431/2019 de la Audiencia Provincial de Alicante (28 de octubre de 2019), confirmada por STS 441/2022 (11 de mayo de 2022)
+numeroSentencia: "STS 441/2022 (Tribunal Supremo, 11 de mayo de 2022); SAP Alicante 431/2019 (28 de octubre de 2019)"
 tags:
   - prevaricación
   - fraccionamiento de contratos
@@ -31,26 +31,26 @@ impactoSocial: El caso provocó la dimisión del alcalde socialista en abril de 
 implicados:
   - nombre: Gabriel Echávarri Fernández
     cargo: Alcalde de Alicante (2015-2018) y concejal de Comercio
-    rol: Condenado a 8 años y 6 meses de inhabilitación por prevaricación continuada
+    rol: Condenado por prevaricación continuada; 8,5 años de inhabilitación
 
   - nombre: Pedro de Gea
     cargo: Asesor de la concejalía de Comercio del Ayuntamiento de Alicante
-    rol: Condenado a 8 años y 6 meses de inhabilitación por prevaricación continuada
+    rol: Condenado por prevaricación continuada; 8,5 años de inhabilitación
 
   - nombre: Eduardo Lalo Díez
     cargo: Jefe de Gabinete de Alcaldía del Ayuntamiento de Alicante
-    rol: Absuelto por el Tribunal Supremo tras condena inicial de 7 años
+    rol: Absuelto por el Tribunal Supremo; condena inicial de 7 años revocada
 
 documentos: []
 
 cronologia:
   - fecha: "2016-11-01"
-    titulo: Inicio del fraccionamiento de contratos en la concejalía de Comercio
-    descripcion: Durante noviembre y diciembre de 2016, por decisión de Gabriel Echávarri, la concejalía de Comercio del Ayuntamiento de Alicante contrata 25 operaciones con diferentes empresas mediante contratos menores de servicios por un importe total de 189.762,86 euros. Al menos 14 de estos contratos fueron adjudicados directamente mediante el fraccionamiento deliberado para eludir los procedimientos de licitación pública. Los contratos se destinaron a publicitar la Gala de Premios del Comercio 2016, la campaña de Navidad y la renovación de señalética de los mercados municipales.
+    titulo: Fraccionamiento irregular de contratos en la concejalía de Comercio
+    descripcion: Durante noviembre y diciembre de 2016, por decisión de Gabriel Echávarri, la concejalía de Comercio del Ayuntamiento de Alicante adjudica directamente 25 contratos a diferentes empresas por un importe total de 189.762,86 euros. Al menos 14 de estos contratos fueron fraccionados deliberadamente para tramitarlos como contratos menores y eludir los procedimientos obligatorios de licitación pública. Los contratos se destinaron a publicitar la Gala de Premios del Comercio 2016, la campaña de Navidad y la renovación de la señalética de los mercados municipales.
     urls:
       - https://www.eldiario.es/comunitat-valenciana/alicante/alicante-gabriel-echavarri-fraccionamiento-comercio_1_1331844.html
       - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Comercio&numero=336
-    type: resumen
+    type: denuncia
 
   - fecha: "2017-09-01"
     titulo: El juez cita a declarar al alcalde Gabriel Echávarri como investigado

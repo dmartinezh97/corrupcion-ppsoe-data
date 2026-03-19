@@ -3,13 +3,13 @@ nombre: "Caso Idelpa"
 partido: PSOE
 completado: true
 año: 2012
-fechaInicio: 2010-12-31
+fechaInicio: "2010-12-31"
 fechaFin: "2024-07-17"
 estado: "cerrado con condenas"
 descripcion: |
   El caso Idelpa afecta a la empresa municipal Iniciativas de Desarrollo de los Palacios S.L. (IDELPA), constituida en 1993 por el Ayuntamiento de Los Palacios y Villafranca (Sevilla), gobernado por el PSOE hasta 2011, junto con Prodetur, la sociedad provincial de turismo y desarrollo económico de la Diputación de Sevilla. IDELPA tenía como objeto la construcción de vivienda protegida y el impulso del desarrollo local, pero sus gestores socialistas la llevaron a la insolvencia mediante una gestión irregular que los tribunales mercantiles calificaron expresamente como culpable. La empresa entró en concurso de acreedores en 2012 dejando sin terminar una promoción de 52 viviendas cuyos compradores nunca llegaron a recibir la Licencia de Primera Ocupación.
 
-  El Juzgado de lo Mercantil número 2 de Sevilla declaró culpable el concurso de acreedores de IDELPA mediante sentencia de 9 de mayo de 2018 (procedimiento 179/2012). El tribunal acreditó que los administradores conocían la situación de insolvencia de la empresa al menos desde finales de 2010, pero no solicitaron la declaración de concurso ni presentaron las cuentas anuales de 2010 en plazo. Además, durante mayo y junio de 2011, permitieron que la situación de insolvencia se agravara en unos 80.000 euros mediante un aumento injustificado de la plantilla de trabajadores. La irregularidad más grave detectada fue la omisión en el pasivo contable de deudas superiores a dos millones de euros, lo que distorsionó deliberadamente la imagen financiera de la sociedad. En paralelo, los exconcejales Rosario Gavira y Miguel Troncoso, junto al arquitecto Rafael Jesús Cortés Corrales, fueron condenados penalmente en el caso derivado de los proyectos falsos de viviendas a través de la empresa RODINA GESTIÓN.
+  El Juzgado de lo Mercantil número 2 de Sevilla declaró culpable el concurso de acreedores de IDELPA mediante sentencia de 9 de mayo de 2018 (procedimiento 179/2012). El tribunal acreditó que los administradores conocían la situación de insolvencia de la empresa al menos desde finales de 2010, pero no solicitaron la declaración de concurso ni presentaron las cuentas anuales de 2010 en plazo. Además, durante mayo y junio de 2011, permitieron que la situación de insolvencia se agravara en unos 80.000 euros mediante un aumento injustificado de la plantilla de trabajadores. La irregularidad más grave detectada fue la omisión en el pasivo contable de deudas superiores a dos millones de euros, lo que distorsionó deliberadamente la imagen financiera de la sociedad. En paralelo, los exconcejales Rosario Gavira y Miguel Troncoso, junto al administrador Rafael Jesús Cortés Corrales, fueron condenados penalmente por proyectos falsos de viviendas tramitados a través de la empresa RODINA GESTIÓN.
 
   El exalcalde Antonio Maestre y los concejales socialistas Rosario Gavira y Miguel Troncoso fueron condenados a cinco años de inhabilitación y al pago solidario de 80.000 euros a IDELPA. En el ámbito penal, Gavira y Troncoso recibieron penas de prisión de entre uno y dos años junto a tres años de inhabilitación por los proyectos falsos. Adicionalmente, en el marco de la macrocausa de los ERE de Andalucía, la Audiencia Provincial de Sevilla condenó en julio de 2024 al exalcalde Maestre a 14 meses de cárcel y casi cinco años de inhabilitación como cooperador necesario en delitos de prevaricación y malversación por las ayudas de 750.000 euros concedidas por la Junta de Andalucía para un centro ecuestre que nunca llegó a construirse.
 
@@ -19,31 +19,31 @@ lugar: "Los Palacios y Villafranca, Sevilla, Andalucía"
 tribunal:
   - "Juzgado de lo Mercantil número 2 de Sevilla - Procedimiento 179/2012"
   - "Audiencia Provincial de Sevilla - Sección Primera (Caso ERE)"
-numeroSentencia: "179/2012 (Mercantil) - Sentencia 15 julio 2024 (ERE)"
+numeroSentencia: "179/2012 (Mercantil) - Sentencia 17 julio 2024 (ERE)"
 implicados:
   - nombre: "Antonio Maestre Acosta"
     cargo: "Alcalde de Los Palacios y Villafranca (2004-2011), PSOE"
-    rol: "Condenado a 5 años de inhabilitación por gestión culpable de IDELPA y a 14 meses de cárcel en caso ERE"
+    rol: "Condenado a 5 años inhabilitación (IDELPA) y 14 meses cárcel (ERE)"
 
   - nombre: "Rosario Gavira Maestre"
-    cargo: "Concejala del Ayuntamiento de Los Palacios y Villafranca, administradora delegada de IDELPA"
-    rol: "Condenada a 5 años de inhabilitación (mercantil) y a prisión por proyectos falsos de viviendas"
+    cargo: "Concejala y administradora delegada de IDELPA"
+    rol: "Condenada a 5 años inhabilitación y prisión por proyectos falsos"
 
   - nombre: "Miguel Troncoso Rincón"
-    cargo: "Concejal del Ayuntamiento de Los Palacios y Villafranca, administrador de IDELPA"
-    rol: "Condenado a 5 años de inhabilitación (mercantil) y a prisión por proyectos falsos de viviendas"
+    cargo: "Concejal y administrador de IDELPA"
+    rol: "Condenado a 5 años inhabilitación y prisión por proyectos falsos"
 
   - nombre: "Enrique González Molina"
     cargo: "Consejero del Consejo de Administración de IDELPA"
-    rol: "Condenado a 2 años de inhabilitación por gestión culpable del concurso de acreedores"
+    rol: "Condenado a 2 años de inhabilitación por concurso culpable"
 
   - nombre: "José Díaz Ulloa"
     cargo: "Consejero del Consejo de Administración de IDELPA"
-    rol: "Condenado a 2 años de inhabilitación por gestión culpable del concurso de acreedores"
+    rol: "Condenado a 2 años de inhabilitación por concurso culpable"
 
   - nombre: "Rafael Jesús Cortés Corrales"
     cargo: "Administrador de RODINA GESTIÓN S.L."
-    rol: "Condenado a prisión por proyectos falsos de viviendas vinculados a IDELPA"
+    rol: "Condenado a prisión por proyectos falsos de viviendas"
 
 tags:
   - "corrupción"
@@ -72,16 +72,22 @@ cronologia:
     urls:
       - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Idelpa&numero=445"
 
+  - fecha: "2011-05-22"
+    titulo: "PSOE pierde la alcaldía de Los Palacios tras las elecciones municipales"
+    descripcion: "En las elecciones municipales del 22 de mayo de 2011, el PSOE pierde la alcaldía de Los Palacios y Villafranca después de gobernar el municipio durante décadas. El cambio de gobierno local se produce mientras IDELPA se encuentra ya en situación de insolvencia. Los gestores salientes agudizan la situación financiera de la empresa durante los últimos meses de mandato."
+    type: "resumen"
+    urls: []
+
   - fecha: "2011-06-30"
     titulo: "Agravamiento de la insolvencia y aumento injustificado de plantilla"
-    descripcion: "Durante mayo y junio de 2011, los gestores de IDELPA agravaron deliberadamente la situación de insolvencia de la empresa en aproximadamente 80.000 euros mediante un aumento injustificado de la plantilla de trabajadores. En ese mismo período, el PSOE perdía la alcaldía de Los Palacios tras las elecciones municipales de mayo de 2011. Las cuentas de la empresa ocultaban en el pasivo deudas superiores a dos millones de euros que distorsionaban artificialmente la imagen financiera de la sociedad."
+    descripcion: "Durante mayo y junio de 2011, los gestores de IDELPA agravaron deliberadamente la situación de insolvencia de la empresa en aproximadamente 80.000 euros mediante un aumento injustificado de la plantilla de trabajadores. Las cuentas de la empresa ocultaban en el pasivo deudas superiores a dos millones de euros que distorsionaban artificialmente la imagen financiera de la sociedad."
     type: "investigación"
     urls:
       - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Idelpa&numero=445"
 
   - fecha: "2012-01-01"
     titulo: "IDELPA entra en concurso de acreedores"
-    descripcion: "IDELPA es declarada en concurso de acreedores, iniciándose el procedimiento 179/2012 ante el Juzgado de lo Mercantil número 2 de Sevilla. La empresa tiene pendiente de entregar una promoción de 52 viviendas de protección oficial en Los Palacios y Villafranca que sus compradores adquirieron con anterioridad. Las viviendas no llegan a terminarse y nunca obtienen la Licencia de Primera Ocupación, dejando a decenas de familias sin su inversión."
+    descripcion: "IDELPA es declarada en concurso de acreedores, iniciándose el procedimiento 179/2012 ante el Juzgado de lo Mercantil número 2 de Sevilla. La empresa tiene pendiente de entregar una promoción de 52 viviendas de protección oficial en Los Palacios y Villafranca cuyos compradores adquirieron con anterioridad. Las viviendas no llegan a terminarse y nunca obtienen la Licencia de Primera Ocupación, dejando a decenas de familias sin su inversión."
     type: "investigación"
     urls:
       - "https://www.eldefensordetuvivienda.com/solucion-para-los-afectados-de-idelpa-en-los-palacios-y-villafranca/"
