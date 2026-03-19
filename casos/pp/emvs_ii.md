@@ -5,7 +5,7 @@ completado: true
 año: 2013
 fechaInicio: "2013-05-03"
 fechaFin: "2022-02-08"
-estado: "cerrado con condenas"
+estado: "archivado"
 descripcion: |
   El Caso EMVS II se centra en la venta irregular de 1.860 viviendas de protección oficial, locales comerciales y garajes públicos realizada por la Empresa Municipal de la Vivienda y Suelo de Madrid (EMVS) durante el mandato de Ana Botella como alcaldesa de Madrid. La operación, ejecutada en 2013, consistió en la venta de 18 promociones inmobiliarias al fondo de inversión Magic Real Estate (Blackstone) a través de su filial Fidere Vivienda por un importe de 128 millones de euros, cuando el valor contable de estos inmuebles ascendía a 159 millones de euros.
 
@@ -30,39 +30,39 @@ numeroSentencia: ""
 implicados:
   - nombre: "Ana Botella Serrano"
     cargo: "Alcaldesa de Madrid (PP)"
-    rol: "Investigada por la venta irregular de viviendas públicas. Condenada inicialmente por el Tribunal de Cuentas y posteriormente absuelta"
+    rol: "Investigada por venta irregular; condenada por Tribunal de Cuentas y absuelta en alzada"
 
   - nombre: "Fermín Oslé Uranga"
     cargo: "Consejero Delegado de EMVS"
-    rol: "Acusado y posteriormente absuelto de prevaricación, malversación y fraude en febrero de 2022"
+    rol: "Absuelto de prevaricación, malversación y fraude en 2022"
 
   - nombre: "Alfonso Benavides Grases"
     cargo: "Representante de Fidere Vivienda (Blackstone)"
-    rol: "Acusado y posteriormente absuelto de prevaricación, malversación y fraude en febrero de 2022"
+    rol: "Absuelto de prevaricación, malversación y fraude en 2022"
 
   - nombre: "Concepción Dancausa Treviño"
-    cargo: "Concejala y miembro del Consejo de Administración de EMVS"
-    rol: "Condenada inicialmente por el Tribunal de Cuentas y posteriormente absuelta"
+    cargo: "Concejala del Consejo de Administración de EMVS"
+    rol: "Condenada por Tribunal de Cuentas; absuelta en segunda instancia"
 
   - nombre: "Enrique Núñez Pérez"
-    cargo: "Concejal y miembro del Consejo de Administración de EMVS"
-    rol: "Condenado inicialmente por el Tribunal de Cuentas y posteriormente absuelto"
+    cargo: "Concejal del Consejo de Administración de EMVS"
+    rol: "Condenado por Tribunal de Cuentas; absuelto en segunda instancia"
 
   - nombre: "Diego Sanjuanbenito Bonal"
-    cargo: "Concejal y miembro del Consejo de Administración de EMVS"
-    rol: "Condenado inicialmente por el Tribunal de Cuentas y posteriormente absuelto"
+    cargo: "Concejal del Consejo de Administración de EMVS"
+    rol: "Condenado por Tribunal de Cuentas; absuelto en segunda instancia"
 
   - nombre: "Paz González Pelegrina"
-    cargo: "Concejala y miembro del Consejo de Administración de EMVS"
-    rol: "Condenada inicialmente por el Tribunal de Cuentas y posteriormente absuelta"
+    cargo: "Concejala del Consejo de Administración de EMVS"
+    rol: "Condenada por Tribunal de Cuentas; absuelta en segunda instancia"
 
   - nombre: "Dolores Navarro Cuartero"
-    cargo: "Concejala y miembro del Consejo de Administración de EMVS"
-    rol: "Condenada inicialmente por el Tribunal de Cuentas y posteriormente absuelta"
+    cargo: "Concejala del Consejo de Administración de EMVS"
+    rol: "Condenada por Tribunal de Cuentas; absuelta en segunda instancia"
 
   - nombre: "Pedro Corral Corral"
-    cargo: "Concejal y miembro del Consejo de Administración de EMVS"
-    rol: "Condenado inicialmente por el Tribunal de Cuentas y posteriormente absuelto"
+    cargo: "Concejal del Consejo de Administración de EMVS"
+    rol: "Condenado por Tribunal de Cuentas; absuelto en segunda instancia"
 
 tags:
   - "corrupción"
@@ -150,21 +150,21 @@ cronologia:
   - fecha: "2019-12-01"
     titulo: "Confirmación del procesamiento de Oslé y Benavides"
     descripcion: "La Audiencia Provincial de Madrid confirma que Fermín Oslé Uranga y Alfonso Benavides Grases se sentarán en el banquillo acusados de presuntos delitos de prevaricación administrativa, malversación de caudales públicos y fraude en la venta de las 1.860 viviendas públicas. Ana Botella no es procesada en la vía penal."
-    type: "procesamiento"
+    type: "imputación"
     urls:
       - "https://www.eldiario.es/madrid/audiencia-provincial-madrid-emvs-botella_1_1186569.html"
 
   - fecha: "2021-11-01"
     titulo: "Inicio del juicio en la Audiencia Provincial"
     descripcion: "Comienza el juicio en la Audiencia Provincial de Madrid contra Fermín Oslé y Alfonso Benavides por la presunta venta irregular de 1.860 viviendas de la EMVS al fondo buitre Blackstone. La acusación particular de los afectados y el PSOE solicitan penas de hasta ocho años de prisión por delitos de prevaricación, malversación y fraude. El fiscal Salvador Ortolá solicita la absolución argumentando que no concurren los elementos constitutivos de los delitos."
-    type: "juicio"
+    type: "resumen"
     urls:
       - "https://www.madridactual.es/noticias-regionales/tribunales/madrid-a-juicio-el-caso-de-la-venta-de-1-860-viviendas-de-la-emvs-a-un-fondo-de-inversion-en-el-mandato-de-ana-botella-20211029-7796568.html"
 
   - fecha: "2021-11-22"
     titulo: "Retirada de la acusación municipal"
     descripcion: "El Ayuntamiento de Madrid, gobernado por José Luis Martínez-Almeida (PP), retira su acusación contra Fermín Oslé y Alfonso Benavides durante el juicio, considerando que no existe responsabilidad penal para los dos acusados. Esta decisión se alinea con la postura del fiscal y se produce en el mismo gobierno municipal del mismo partido político que realizó la operación investigada."
-    type: "juicio"
+    type: "resumen"
     urls:
       - "https://www.cope.es/actualidad/espana/noticias/ayuntamiento-madrid-retira-acusacion-por-venta-irregular-vpo-fiscal-denuncia-juicio-politico-20211122_1633423"
 

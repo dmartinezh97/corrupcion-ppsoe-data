@@ -13,7 +13,8 @@ descripcion: |
 
   Tras dieciséis años desde el inicio de las investigaciones, el proceso judicial concluyó en 2024 con condenas para los principales acusados, aunque muy por debajo de las penas solicitadas inicialmente por la Fiscalía. La jueza instructora Pilar de Lara fue sancionada por el CGPJ en 2019 con siete meses sin empleo y sueldo, alegando dilaciones en la instrucción, una sanción que ella y sus defensores interpretaron como una represalia por su determinación en investigar la corrupción policial. El caso evidenció las dificultades del sistema judicial español para perseguir redes de explotación sexual cuando implican a miembros de las fuerzas del orden.
 
-resumen: "Red de tráfico de mujeres en Lugo en la que agentes de la Guardia Civil y policía local recibían pagos de proxenetas a cambio de protección e información privilegiada"
+resumen: "Red de tráfico de mujeres en Lugo en la que agentes de la Guardia Civil recibían pagos de proxenetas a cambio de protección"
+coste: 0
 lugar: "Lugo, Galicia"
 tribunal:
   - "Juzgado de Instrucción nº 1 de Lugo - Jueza Pilar de Lara Cifuentes"
@@ -22,7 +23,7 @@ numeroSentencia: "Sentencia Audiencia Provincial de Lugo, 10/07/2024"
 implicados:
   - nombre: "Armando Lorenzo Torre"
     cargo: "Cabo de la Guardia Civil"
-    rol: "Condenado a 5 años y 9 meses por cohecho, agresión sexual y favorecimiento de la prostitución"
+    rol: "Condenado por cohecho, agresión sexual y favorecimiento de la prostitución"
 
   - nombre: "Julio Baquero Rodríguez"
     cargo: "Agente de la Guardia Civil"
@@ -30,7 +31,7 @@ implicados:
 
   - nombre: "José Manuel García Adán"
     cargo: "Dueño de los clubes Queen's y La Colina (Lugo)"
-    rol: "Condenado por cohecho pasivo; principal organizador de la red de explotación sexual"
+    rol: "Condenado por cohecho pasivo; organizador principal de la red proxeneta"
 
   - nombre: "Marcos Grandío García Ascariz"
     cargo: "Dueño del club Eros (Lugo)"
@@ -42,7 +43,7 @@ implicados:
 
   - nombre: "Pilar de Lara Cifuentes"
     cargo: "Jueza instructora del Juzgado nº 1 de Lugo"
-    rol: "Instructora del caso durante 9 años; sancionada por el CGPJ en 2019 por dilaciones"
+    rol: "Instructora del caso; sancionada por el CGPJ en 2019 por dilaciones"
 
 tags:
   - "corrupción"

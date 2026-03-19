@@ -25,27 +25,27 @@ numeroSentencia: ""
 implicados:
   - nombre: "Francisco Javier Guerrero Benítez"
     cargo: "Exdirector General de Trabajo y Seguridad Social de la Junta (1999-2008)"
-    rol: "Condenado a 5 años y 9 meses de prisión - Responsabilidad penal extinguida por fallecimiento en 2020"
+    rol: "Ideó la trama. Condenado a 5 años y 9 meses. Falleció en 2020 sin cumplir condena"
 
   - nombre: "Juan Márquez Contreras"
     cargo: "Exdirector General de Trabajo de la Junta de Andalucía"
-    rol: "Condenado a 5 años y 3 meses de prisión - Ingresó en prisión el 20 de marzo de 2024"
+    rol: "Condenado a 5 años y 3 meses de prisión. En prisión desde marzo de 2024"
 
   - nombre: "Francisco Javier Aguado Hinojal"
     cargo: "Exsecretario General Técnico de la Consejería de Empleo"
-    rol: "Condenado a 4 años y 6 meses de prisión por el Tribunal Supremo - En prisión desde 2024"
+    rol: "Condenado a 4 años y 6 meses de prisión. En prisión desde 2024"
 
   - nombre: "Lourdes Medina Varo"
     cargo: "Exsecretaria General Técnica de la Consejería de Empleo"
-    rol: "Condenada inicialmente a 5 años y 3 meses, absuelto por el Tribunal Supremo en 2023"
+    rol: "Condenada a 5 años y 3 meses en primera instancia. Absuelta por el Tribunal Supremo en 2023"
 
   - nombre: "Daniel Alberto Rivera Gómez"
     cargo: "Exdirector General de Empleo (desde abril 2010)"
-    rol: "Condenado inicialmente a 7 años de inhabilitación, absuelto por el Tribunal Supremo en 2023"
+    rol: "Condenado a 7 años de inhabilitación en primera instancia. Absuelto por el Tribunal Supremo en 2023"
 
   - nombre: "Ulpiano Cuadrado Gómez"
     cargo: "Administrador único de Umax Informática y Consultoría S.L."
-    rol: "Condenado a 5 años y 9 meses de prisión - En prisión desde 2024"
+    rol: "Facilitó la contratación irregular. Condenado a 5 años y 9 meses. En prisión desde 2024"
 
 tags:
   - "corrupción"
@@ -118,7 +118,7 @@ cronologia:
   - fecha: "2019-01-15"
     titulo: "Inicio del juicio oral del caso Umax en la Audiencia de Sevilla"
     descripcion: "La Sección Tercera de la Audiencia Provincial de Sevilla inicia el juicio oral de la pieza separada del caso ERE correspondiente al caso Umax. En el banquillo se sientan seis acusados: Francisco Javier Guerrero, Juan Márquez, Javier Aguado, Lourdes Medina, Daniel Rivera y Ulpiano Cuadrado. La Fiscalía y la acusación particular (Junta de Andalucía) solicitan condenas que oscilan entre 7 y 10 años de prisión para los principales responsables por delitos de prevaricación, malversación y falsificación de documentos. El juicio se prolongará hasta marzo de 2019."
-    type: "investigación"
+    type: "declaraci\u00f3n"
     urls:
       - "https://okdiario.com/espana/juzgan-tres-ex-directores-trabajo-andalucia-enchufar-sus-familiares-3550640"
 

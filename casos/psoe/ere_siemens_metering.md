@@ -22,7 +22,6 @@ resumen: Irregularidades en ayudas de 1,5 millones de euros para prejubilaciones
 tribunal:
   - "Juzgado de Instrucción número 6 de Sevilla"
   - "Audiencia Provincial de Sevilla - Sección Primera"
-sentencia: Absolución de dos empleados de Vitalia en septiembre 2025
 tags:
   - malversación
   - prevaricación
@@ -34,11 +33,11 @@ impactoSocial: Pieza separada del macro caso ERE que contribuyó al deterioro de
 implicados:
   - nombre: Francisco Javier Guerrero Benítez
     cargo: Ex Director General de Trabajo y Seguridad Social de la Junta de Andalucía
-    rol: Investigado (fallecido en octubre de 2020 antes de ser juzgado)
+    rol: Imputado por prevaricación y malversación; falleció antes del juicio
 
   - nombre: Francisco Mencía Morales
-    cargo: Ex Director General del Instituto de Fomento de Andalucía (IFA/IDEA)
-    rol: Investigado (fallecido en diciembre de 2015 antes de ser juzgado)
+    cargo: Ex Director General del IFA/IDEA
+    rol: Imputado por concesión irregular de ayudas; falleció antes del juicio
 
   - nombre: Félix Rivas
     cargo: Ex Director General de Siemens Metering SA
@@ -50,15 +49,15 @@ implicados:
 
   - nombre: Manuel Macarro
     cargo: Ex Presidente del Comité de Empresa de Siemens Metering
-    rol: Investigado por prevaricación administrativa y malversación
+    rol: Investigado por prevaricación y malversación como representante sindical
 
   - nombre: Antonio Albarracín
-    cargo: Funcionario de Vitalia S.A.
-    rol: Absuelto en septiembre 2025 por falta de pruebas
+    cargo: Consultor de Vitalia S.A. en Sevilla
+    rol: Absuelto por insuficiencia de pruebas de cooperación en el fraude
 
   - nombre: Jesús María Bordallo
-    cargo: Ex Delegado de Vitalia S.A. en Andalucía
-    rol: Absuelto en septiembre 2025 por falta de pruebas
+    cargo: Supervisor de Banco Vitalicio/Vitalia S.A. en Madrid
+    rol: Absuelto por insuficiencia de pruebas de cooperación en el fraude
 
 documentos: []
 
@@ -76,7 +75,7 @@ cronologia:
     descripcion: Culmina el periodo de consultas con un acuerdo entre la empresa y el comité de trabajadores para la extinción de 35 contratos, estableciendo una indemnización de 2.854.565 euros que se destinaría a una póliza de seguro de rentas colectivo. La Consejería de Empleo se compromete verbalmente a completar esa cantidad con 1.524.718,97 euros para alcanzar el 92% de los salarios netos de los trabajadores afectados, aunque no se formaliza este compromiso por escrito.
     urls:
       - https://www.poderjudicial.es/cgpj/eu/Botere-Judiziala/Berriak/El-juez-del-caso-ERE-continua-el-procedimiento-contra-cinco-investigados-en-una-pieza-separada-por-las-ayudas-de-1-5-millones-a-la-empresa-Siemens-Metering
-    type: investigacion
+    type: investigación
     relevancia: alta
 
   - fecha: "2002-04-15"
@@ -84,7 +83,7 @@ cronologia:
     descripcion: El ERE se amplía a 36 empleados, incrementando la aportación de Siemens a 2.939.043 euros. La Guardia Civil detectaría posteriormente que ocho de estos 36 empleados ni siquiera habían cumplido los 50 años de edad. La investigación policial también constata que la suscripción del seguro incluía una sobrecomisión de 431.199,40 euros (9,70%), de la cual la Junta asumiría 147.287,85 euros.
     urls:
       - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+de+los+ERE/Siemens+Metering&numero=519
-    type: investigacion
+    type: investigación
     relevancia: alta
 
   - fecha: "2002-04-18"
@@ -124,7 +123,7 @@ cronologia:
     descripcion: El IFA/IDEA procede al pago de los 1.524.718,97 euros prometidos por la Junta de Andalucía para completar el fondo de las prejubilaciones de los 36 trabajadores de Siemens Metering incluidos en el ERE, prescindiendo completamente del procedimiento administrativo establecido para la concesión de ayudas públicas.
     urls:
       - https://www.poderjudicial.es/cgpj/eu/Botere-Judiziala/Berriak/El-juez-del-caso-ERE-continua-el-procedimiento-contra-cinco-investigados-en-una-pieza-separada-por-las-ayudas-de-1-5-millones-a-la-empresa-Siemens-Metering
-    type: investigacion
+    type: investigación
     relevancia: alta
 
   - fecha: "2015-12-31"
@@ -132,7 +131,7 @@ cronologia:
     descripcion: Fallece Francisco Mencía Morales, ex director general del IFA/IDEA, uno de los investigados por su papel en la gestión irregular de las ayudas a Siemens Metering y otras empresas en el marco del caso ERE. Su fallecimiento impide que pueda ser juzgado por los hechos investigados.
     urls:
       - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+de+los+ERE/Siemens+Metering&numero=519
-    type: investigacion
+    type: investigación
     relevancia: media
 
   - fecha: "2017-04-20"
@@ -140,7 +139,7 @@ cronologia:
     descripcion: La Guardia Civil elabora un atestado policial detallando las irregularidades detectadas en la concesión de ayudas a Siemens Metering, incluyendo la inclusión de trabajadores menores de 50 años en las prejubilaciones, la sobrecomisión del 9,70% en el seguro de rentas, y la ausencia de procedimiento administrativo. El informe policial cuantifica el coste total del caso en 1.672.005 euros.
     urls:
       - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+de+los+ERE/Siemens+Metering&numero=519
-    type: investigacion
+    type: investigación
     relevancia: alta
 
   - fecha: "2020-10-11"
@@ -148,7 +147,7 @@ cronologia:
     descripcion: Muere Francisco Javier Guerrero Benítez, ex director general de Trabajo y Seguridad Social de la Junta de Andalucía y considerado el "cerebro ejecutor" del sistema irregular de ayudas de los ERE. Su fallecimiento se produce antes de que pudiera ser juzgado por su participación en el caso Siemens Metering, aunque ya había sido condenado en la pieza principal del caso ERE a siete años, once meses y un día de prisión.
     urls:
       - https://www.eldiario.es/andalucia/muere-francisco-javier-guerrero-principal-imputado-en-el-caso-de-los-ere_1_6285008.html
-    type: investigacion
+    type: investigación
     relevancia: media
 
   - fecha: "2021-10-14"
@@ -157,7 +156,7 @@ cronologia:
     urls:
       - https://www.esdiario.com/andalucia/211014/87476/psoe-andalucia-corrupcion-eres-juicios.html
       - https://www.poderjudicial.es/cgpj/eu/Botere-Judiziala/Berriak/El-juez-del-caso-ERE-continua-el-procedimiento-contra-cinco-investigados-en-una-pieza-separada-por-las-ayudas-de-1-5-millones-a-la-empresa-Siemens-Metering
-    type: imputacion
+    type: imputación
     relevancia: alta
 
   - fecha: "2025-09-08"

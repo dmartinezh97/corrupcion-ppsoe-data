@@ -51,13 +51,14 @@ tags:
 
 impactoSocial: "El Caso Púnica/Talamino evidenció la existencia de redes de corrupción que involucraban no solo a políticos del PP sino también a miembros de las fuerzas de seguridad del Estado. La filtración comprometió gravemente la Operación Púnica y generó un profundo cuestionamiento sobre la integridad de las investigaciones anticorrupción en España. Fue la primera condena firme del macrocaso Púnica, estableciendo jurisprudencia sobre la gravedad de las filtraciones policiales."
 
+coste: 0
 documentos: []
 
 cronologia:
   - fecha: 2014-09-05
     titulo: "El 'chivatazo' en las fiestas de Valdemoro"
     descripcion: "Durante la noche de las fiestas patronales de Valdemoro, el agente de la Guardia Civil José Manuel Rodríguez Talamino, miembro de la UCO, se acerca a Francisco Granados y le alerta sobre la vigilancia policial activa. Talamino había recibido órdenes de instalar una cámara oculta frente a las oficinas de David Marjaliza en Pinto y comenta a Granados que la UCO tiene 'tanto trabajo que la unidad ha llegado a Valdemoro' y están monitorizando el edificio Éboli donde opera Marjaliza. La información le fue transmitida a Granados a través de José Luis Caro Vinagre, exagente en excedencia contratado como asesor de seguridad."
-    type: "revelación"
+    type: "denuncia"
     urls:
       - "https://www.elespanol.com/espana/tribunales/20190314/supremo-confirma-condena-carcel-granados-chivatazo-punica/383212056_0.html"
       - "https://www.eldiario.es/politica/audiencia-nacional-granados-chivatazo-punica_1_3024194.html"
@@ -66,7 +67,7 @@ cronologia:
   - fecha: 2014-09-06
     titulo: "Granados advierte a Marjaliza y ordenan destruir pruebas"
     descripcion: "Al día siguiente del chivatazo, Francisco Granados contacta telefónicamente con David Marjaliza para advertirle de la vigilancia policial de la UCO. Granados ordena a Marjaliza destruir toda la documentación que le vincula con sus empresas, incluyendo albaranes de regalos y organigramas empresariales. Marjaliza encarga a un subordinado la destrucción de documentos comprometedores y traslada información sobre cuentas bancarias en Suiza y Singapur a la vivienda de su secretaria. Granados oculta casi un millón de euros en efectivo (972.000 euros) en la casa de sus suegros."
-    type: "obstrucción"
+    type: "investigación"
     urls:
       - "https://www.elespanol.com/espana/20151228/90240991_0.html"
     relevancia: "alta"

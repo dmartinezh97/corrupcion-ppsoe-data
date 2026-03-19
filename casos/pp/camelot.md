@@ -64,14 +64,14 @@ impactoSocial: "El caso Camelot evidenció la corrupción sistemática del PP en
 documentos: []
 
 cronologia:
-  - fecha: "2007-01-01"
+  - fecha: 2007-01-01
     titulo: "Permuta irregular de terrenos con Polaris World"
     descripcion: "El alcalde de Torre Pacheco, Daniel García Madrid, aprueba una permuta de terrenos entre el Ayuntamiento y la promotora Polaris World en condiciones que perjudican los intereses municipales entre 3 y 5 millones de euros. Como parte del acuerdo, el Consistorio recibe una zona verde que no cumple la superficie mínima legal. García Madrid tenía vínculos personales y profesionales previos con Facundo Armero, fundador de Polaris World, habiendo sido su abogado personal antes de acceder a la alcaldía."
     type: "resumen"
     urls:
       - "https://www.publico.es/actualidad/severo-golpe-judicial-pp-murciano-polaris-world.html"
 
-  - fecha: "2008-04-03"
+  - fecha: 2008-04-03
     titulo: "Detención del alcalde de Torre Pacheco y prisión provisional"
     descripcion: "Daniel García Madrid es detenido por agentes de la Guardia Civil mientras se desplazaba a su lugar de trabajo. Es trasladado al Juzgado de Instrucción nº 3 de San Javier, donde se niega a declarar. El juez Salvador Calero decreta prisión provisional sin fianza por riesgo de fuga y obstrucción a la justicia. Los cargos incluyen negociaciones prohibidas a funcionarios, fraude, malversación, tráfico de influencias, cohecho, prevaricación y revelación de secretos. También es imputado el presidente de Polaris World. El PP murciano expresa su apoyo al alcalde."
     type: "detención"
@@ -79,21 +79,21 @@ cronologia:
       - "https://www.elimparcial.es/noticia/8884/prision-provisional-para-el-alcalde-de-torre-pacheco-por-presunta-corrupcion-urbanistica.html"
       - "https://www.eleconomista.es/legislacion/noticias/453692/04/08/El-alcalde-de-Torre-Pacheco-detenido-por-presunta-corrupcion-urbanistica-se-niega-a-declarar-juez.html"
 
-  - fecha: "2008-11-01"
+  - fecha: 2008-11-01
     titulo: "Imputación formal de 14 acusados incluyendo a ambos alcaldes"
     descripcion: "El juzgado instructor formaliza la imputación de 14 acusados en el caso Camelot, entre ellos el alcalde de Torre Pacheco, Daniel García Madrid, y la alcaldesa de Fuente Álamo, María Antonia Conesa. La investigación se extiende a los vínculos entre los responsables políticos y la promotora Polaris World, así como a los convenios urbanísticos firmados entre 2005 y 2007 por los que se reclasificaron millones de metros cuadrados de suelo en favor de la promotora."
     type: "imputación"
     urls:
       - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Camelot&numero=360"
 
-  - fecha: "2012-10-01"
+  - fecha: 2012-10-01
     titulo: "Los alcaldes de Torre Pacheco y Fuente Álamo, a juicio"
     descripcion: "La Audiencia Provincial de Murcia fija el juicio oral contra Daniel García Madrid y María Antonia Conesa por delitos de prevaricación y cohecho, respectivamente. El caso se divide en varias piezas separadas: la relativa a la permuta con Polaris World y la relacionada con las adjudicaciones irregulares de contratos. La Fiscalía solicita para García Madrid un año y dos meses de prisión y catorce años y cuatro meses de inhabilitación por fraude y prevaricación."
     type: "investigación"
     urls:
       - "https://ecodiario.eleconomista.es/politica-eD/noticias/4309786/10/12/Dos-alcaldes-del-PP-de-Murcia-a-juicio-por-prevaricacion-y-cohecho-.html"
 
-  - fecha: "2014-07-01"
+  - fecha: 2014-07-01
     titulo: "Primera condena: 10 años de inhabilitación por prevaricación continuada"
     descripcion: "La Sección 5ª de la Audiencia Provincial de Murcia condena a Daniel García Madrid, José Saura Meroño y Santiago Meroño León por un delito continuado de prevaricación administrativa a diez años de inhabilitación especial para empleo o cargo público. El tribunal declara probado que los responsables municipales adjudicaron contratos de obras de forma verbal y directa, sin expediente previo ni publicidad, vulnerando los principios básicos de contratación pública. García Madrid dimite como alcalde de Torre Pacheco antes de finalizar su mandato."
     type: "sentencia"
@@ -101,14 +101,14 @@ cronologia:
       - "https://www.murciaconfidencial.es/2014/07/blog-post_587.html?m=1"
       - "https://www.poderjudicial.es/cgpj/es/Poder_Judicial/Noticias_Judiciales/La_Audiencia_Provincial_de_Murcia_condena_al_alcalde_de_Torre_Pacheco_y_dos_concejales_por_prevaricacion_administrativa_"
 
-  - fecha: "2018-01-01"
+  - fecha: 2018-01-01
     titulo: "Segunda condena: 5 años de inhabilitación por nueva prevaricación"
     descripcion: "El exalcalde Daniel García Madrid es condenado a cinco años de inhabilitación especial para cargo público en un procedimiento separado, también por prevaricación administrativa. La sentencia acumula una nueva inhabilitación a la ya dictada en 2014, consolidando el perfil de corrupción sistemática en la gestión del PP en Torre Pacheco."
     type: "sentencia"
     urls:
       - "https://www.orm.es/informativos/noticias-2018/condenado-a-5-anos-de-inhabilitacion-el-exalcalde-de-torre-pacheco-daniel-garcia-madrid-por-prevaricacion/"
 
-  - fecha: "2020-02-01"
+  - fecha: 2020-02-01
     titulo: "Tercera condena por adjudicaciones a dedo de más de 500.000 euros"
     descripcion: "La Audiencia Provincial de Murcia condena al exalcalde García Madrid y al exconcejal Santiago Meroño por la adjudicación directa y verbal, sin expediente administrativo, de quince proyectos de obras valorados en 511.355 euros entre 2004 y 2007. El tribunal también condena como cómplices a Francisco Cavas García (cinco años y seis meses de inhabilitación) y a Miguel Pérez Martínez (seis años y seis meses). El juicio había comenzado en febrero de 2020 y la sentencia ratifica el patrón de favoritismo empresarial sistemático en Torre Pacheco."
     type: "sentencia"
@@ -116,7 +116,7 @@ cronologia:
       - "https://www.publico.es/politica/condenado-exalcalde-municipio-murciano-torre-pacheco-prevaricacion-administrativa.html"
       - "https://www.poderjudicial.es/cgpj/en/Judiciary/High-Courts-of-Justice/HCJ-Region-of-Murcia/HCJ-Judicial-News-Region-of-Murcia/Condenan-al-exalcalde-y-a-un-exconcejal-de-Torre-Pacheco--Murcia--por-la-adjudicacion-de-contratos-a-dedo"
 
-  - fecha: "2022-11-01"
+  - fecha: 2022-11-01
     titulo: "El Tribunal Supremo ratifica la condena calificándola de 'ilegal, burda y grosera'"
     descripcion: "El Tribunal Supremo desestima el recurso de los condenados y ratifica la sentencia de la Audiencia Provincial de Murcia de 2020. En su resolución, el alto tribunal califica la conducta de los exresponsables municipales de 'ilegal, burda y grosera', subrayando que la adjudicación directa de contratos públicos sin procedimiento de ningún tipo supone una vulneración flagrante de los principios de transparencia, igualdad y concurrencia. La sentencia firme cierra el largo ciclo judicial del caso Camelot."
     type: "sentencia"
