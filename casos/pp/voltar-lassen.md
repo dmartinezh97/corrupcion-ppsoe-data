@@ -76,4 +76,13 @@ cronologia:
     relevancia: "alta"
     urls:
       - "https://www.eldiario.es/politica/exdiputados-pp-serna-aristegui-enfrentan-condena-21-anos-cohecho-organizacion-criminal_1_12640156.html"
+
+  - fecha: 2025-09-01
+    titulo: "La Fiscalía presenta escrito de acusación: 18 años para De la Serna y Arístegui"
+    descripcion: "La Fiscalía Anticorrupción presenta su escrito formal de acusación solicitando 18 años de prisión para Pedro Gómez de la Serna y Gustavo de Arístegui por corrupción en transacciones internacionales, cohecho pasivo, falsedad documental y organización criminal. Se solicitan multas de 720.000 euros y el decomiso de 2,64 millones de euros de las empresas Scardovi y Karistia. El juez Santiago Pedraz abre juicio oral contra 23 acusados y 5 empresas tras 10 años de instrucción."
+    type: "juicio"
+    relevancia: "alta"
+    urls:
+      - "https://www.publico.es/politica/exclusiva-fiscal-pide-18-anos-prision-serna-aristegui-sobornar-altos-funcionarios-argelia.html"
+      - "https://www.eldiario.es/politica/exdiputados-pp-serna-aristegui-enfrentan-condena-21-anos-cohecho-organizacion-criminal_1_12640156.html"
 ---

@@ -611,4 +611,35 @@ cronologia:
     urls:
       - "https://www.libertaddigital.com/espana/2026-03-16/armengol-tambien-pide-declarar-por-escrito-en-el-juicio-del-caso-koldo-7375006/"
       - "https://theobjective.com/espana/tribunales/2026-03-16/armengol-torres-escrito-juicio-mascarillas/"
+
+  - fecha: "2026-03-17"
+    titulo: "El juez amplía la investigación bancaria a Ferrovial y otras constructoras"
+    descripcion: "A petición de la UCO y la Fiscalía Anticorrupción, el juez Ismael Moreno solicita a más de 30 entidades bancarias información sobre cuentas de Aquaterra Servicios, Ferrovial Construcción, Tecade y Freyssinet, en el marco de la pieza de mordidas en obra pública."
+    type: "investigación"
+    urls:
+      - "https://www.noticiasdealava.eus/politica/2026/03/17/juez-caso-koldo-indaga-usaron-10834160.html"
+
+  - fecha: "2026-03-18"
+    titulo: "Anticorrupción se opone a excarcelar a Ábalos y Koldo antes del juicio"
+    descripcion: "La Fiscalía Anticorrupción rechaza la excarcelación de Ábalos y Koldo García, argumentando 'riesgo extremo de fuga' por la proximidad del juicio (7 de abril) y la gravedad de las penas solicitadas (24 y 19,5 años). Ambos permanecen en Soto del Real desde el 27 de noviembre de 2025."
+    type: "resumen"
+    urls:
+      - "https://www.deia.eus/politica/2026/03/18/fiscalia-opone-abalos-koldo-salgan-10836401.html"
+      - "https://www.elcorreogallego.es/espana/2026/03/18/anticorrupcion-rechaza-excarcelar-abalos-koldo-128115743.html"
+
+  - fecha: "2026-03-18"
+    titulo: "Aldama entrega al juez el 'sobre de PDVSA' sobre presunta financiación ilegal del PSOE"
+    descripcion: "Víctor de Aldama entrega personalmente al juez Ismael Moreno un sobre con membrete de PDVSA que, según afirma, prueba que el PSOE recibió 250 millones de dólares de la petrolera estatal venezolana. El documento contiene un cupo petrolero con sello de recepción de la Vicepresidencia de Venezuela fechado el 4 de febrero de 2020. La entrega se produce en la pieza secreta del caso que investiga pagos en metálico del PSOE."
+    type: "resumen"
+    relevancia: "alta"
+    urls:
+      - "https://www.infobae.com/espana/agencias/2026/03/18/aldama-aporta-al-juez-del-caso-koldo-el-sobre-acerca-de-la-presunta-financiacion-irregular-del-psoe/"
+      - "https://theobjective.com/espana/tribunales/2026-03-18/aldama-juez-sobre-financiacion-ilegal-psoe/"
+
+  - fecha: "2026-03-19"
+    titulo: "Air Europa revela que Exteriores gestionó vuelos de mascarillas de la trama"
+    descripcion: "Air Europa declara que pagó 2,5 millones de euros a Soluciones de Gestión por fletar 11 aviones para transportar mascarillas durante el estado de alarma, revelando que fue el Ministerio de Asuntos Exteriores quien gestionó dichos vuelos procedentes de China."
+    type: "resumen"
+    urls:
+      - "https://theobjective.com/espana/tribunales/2026-03-19/empresa-mascarillas-koldo-air-europa-aviones/"
 ---

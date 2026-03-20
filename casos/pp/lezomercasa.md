@@ -5,7 +5,7 @@ completado: true
 año: 2017
 fechaInicio: 2005-01-01
 fechaFin: ""
-estado: "en investigación"
+estado: "en juicio oral"
 descripcion: |
   La pieza Mercasa de la Operación Lezo investiga cómo Pablo Manuel González González, hermano del expresidente de la Comunidad de Madrid Ignacio González, habría reproducido en la empresa pública Mercasa el mismo esquema de corrupción que su hermano ejecutaba en el Canal de Isabel II. Pablo González accedió a la dirección de Operaciones de Mercasa —empresa pública dependiente del Estado y del Ministerio de Agricultura que gestiona los mercados mayoristas de España— gracias a la influencia de su hermano.
 
@@ -97,4 +97,12 @@ cronologia:
     relevancia: "media"
     urls:
       - "https://www.eldiario.es/economia/Gobierno-adjudica-contratos-Lezo-Mercasa_0_706580142.html"
+
+  - fecha: 2026-02-02
+    titulo: "Inicio del juicio oral por el caso Mercasa en la Audiencia Nacional"
+    descripcion: "Arranca el juicio oral en la Audiencia Nacional contra 18 personas físicas y 4 mercantiles por el pago de comisiones ilegales en la construcción de un mercado en Luanda (Angola). La Fiscalía solicita hasta 15,5 años de prisión para los hermanos Francisco Javier y José Manuel Pardo de Santayana (empresa Incatema) y penas elevadas para el resto de acusados. El juicio llega tras cuatro años de espera desde la apertura de juicio oral."
+    type: "juicio"
+    relevancia: "alta"
+    urls:
+      - "https://www.infobae.com/espana/2026/02/02/arranca-el-juicio-por-el-caso-mercasa-empresas-espanolas-una-publica-que-habrian-pagado-millones-en-mordidas-para-construir-un-mercado-en-angola/"
 ---

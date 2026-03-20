@@ -5,24 +5,25 @@ completado: true
 año: 2018
 fechaInicio: "2018-05-22"
 fechaFin: ""
-estado: "en investigación"
+estado: "cerrado con condenas"
 descripcion: |
-  El caso Erial es una investigación judicial que afecta al expresidente de la Generalitat Valenciana Eduardo Zaplana (PP), acusado de liderar una trama de corrupción que habría cobrado comisiones ilegales durante su etapa al frente del gobierno valenciano entre 1995 y 2002. La investigación se centra en presuntas adjudicaciones irregulares de contratos públicos relacionados con las ITV (Inspecciones Técnicas de Vehículos) y plantas de tratamiento de residuos, a cambio de comisiones millonarias que fueron blanqueadas en paraísos fiscales.
+  El caso Erial es una causa judicial que afecta al expresidente de la Generalitat Valenciana Eduardo Zaplana (PP), condenado en primera instancia por liderar una trama de corrupción que cobró comisiones ilegales durante su etapa al frente del gobierno valenciano entre 1995 y 2002. La investigación se centró en adjudicaciones irregulares de contratos públicos relacionados con las ITV (Inspecciones Técnicas de Vehículos) y plantas de tratamiento de residuos, a cambio de comisiones millonarias que fueron blanqueadas en paraísos fiscales.
 
-  La trama habría operado mediante el cobro de comisiones por la adjudicación irregular de contratos públicos, especialmente la privatización del servicio de ITV en la Comunitat Valenciana. Los fondos obtenidos de forma ilícita habrían sido ocultados en cuentas bancarias en Suiza, Luxemburgo y Panamá a través de una compleja red de sociedades pantalla. La Unidad Central Operativa (UCO) de la Guardia Civil ha investigado el movimiento de más de 10 millones de euros en paraísos fiscales vinculados a Zaplana y su entorno.
+  La trama operó mediante el cobro de comisiones por la adjudicación irregular de contratos públicos, especialmente la privatización del servicio de ITV en la Comunitat Valenciana. Los fondos obtenidos de forma ilícita fueron ocultados en cuentas bancarias en Suiza, Luxemburgo y Panamá a través de una compleja red de sociedades pantalla en España, Panamá y Luxemburgo. La Unidad Central Operativa (UCO) de la Guardia Civil investigó el movimiento de más de 10 millones de euros en paraísos fiscales vinculados a Zaplana y su entorno.
 
-  Eduardo Zaplana fue detenido en mayo de 2018 y pasó varios meses en prisión provisional antes de ser puesto en libertad bajo fianza de un millón de euros. El caso, instruido en la Audiencia Nacional, investiga delitos de cohecho, blanqueo de capitales, malversación, prevaricación y fraude fiscal. La investigación ha tenido un gran impacto político, afectando a la imagen del Partido Popular en la Comunitat Valenciana y revelando presuntas prácticas de corrupción institucionalizada durante décadas de gobierno del PP en la región.
+  Eduardo Zaplana fue detenido en mayo de 2018 y pasó varios meses en prisión provisional antes de ser puesto en libertad bajo fianza de un millón de euros. El 15 de octubre de 2024, la Audiencia Provincial de Valencia lo condenó a 10 años y 5 meses de prisión por prevaricación, cohecho, falsedad documental y blanqueo de capitales, con multas superiores a 25 millones de euros y 17 años de inhabilitación. Fue absuelto del delito de grupo criminal. José Luis Olivas (otro expresidente valenciano) y otros 7 acusados fueron absueltos. Zaplana permanece en libertad provisional mientras recurre la sentencia ante el Tribunal Supremo, alegando que se basó en "pruebas prefabricadas".
 
 resumen: "Trama de comisiones ilegales liderada por Eduardo Zaplana en la privatización de las ITV valencianas"
 coste: 10000000
 lugar: "Comunitat Valenciana, España"
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 8 - Fiscalía Anticorrupción"
+  - "Audiencia Provincial de Valencia - Sección Cuarta"
+  - "Fiscalía Anticorrupción"
 numeroSentencia: ""
 implicados:
   - nombre: "Eduardo Zaplana"
     cargo: "Expresidente de la Generalitat Valenciana (1995-2002) y exministro de Trabajo"
-    rol: "Presunto líder de la trama de comisiones ilegales"
+    rol: "Condenado en primera instancia a 10 años y 5 meses de prisión por prevaricación, cohecho, falsedad documental y blanqueo de capitales (sentencia no firme, recurso de casación pendiente)"
 
   - nombre: "Francisco Grau"
     cargo: "Empresario y testaferro"
@@ -120,4 +121,29 @@ cronologia:
     descripcion: "La Audiencia Nacional mantiene abierta la investigación del caso Erial mientras Eduardo Zaplana continúa con tratamiento médico por leucemia. Los abogados del expresidente del PP siguen solicitando el archivo de la causa alegando prescripción de los delitos y falta de pruebas concluyentes."
     type: "investigación"
     urls: []
+
+  - fecha: "2024-10-15"
+    titulo: "Sentencia condenatoria de la Audiencia Provincial de Valencia"
+    descripcion: "La Audiencia Provincial de Valencia (Sección Cuarta) condena a Eduardo Zaplana a 10 años y 5 meses de prisión por prevaricación, cohecho, falsedad documental y blanqueo de capitales. Se le imponen multas superiores a 25 millones de euros y 17 años y 10 meses de inhabilitación. Es absuelto del delito de grupo criminal. Otros 6 acusados reciben penas de entre 1 año y 3 meses y 5 años de prisión. José Luis Olivas y otros 7 acusados son absueltos."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/La-Audiencia-de-Valencia-condena-a-10-anos-y-5-meses-de-prision-al-expresidente-de-la-Generalitat-Eduardo-Zaplana-por-el--caso-Erial-"
+      - "https://www.eldiario.es/comunitat-valenciana/eduardo-zaplana-condenado-10-anos-prision-jefe-trama-corrupta-caso-erial_1_11711332.html"
+
+  - fecha: "2024-10-15"
+    titulo: "La Audiencia mantiene a Zaplana en libertad provisional"
+    descripcion: "La Audiencia Provincial de Valencia rechaza la petición de la Fiscalía Anticorrupción de ingreso inmediato en prisión de Zaplana al no apreciar riesgo de fuga. El expresidente permanece en libertad provisional con medidas cautelares mientras la sentencia no sea firme."
+    type: "resumen"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/gl/Poder-Xudicial/Tribunais-Superiores-de-Xustiza/TSX-Comunidade-Valenciana/Sala-de-prensa/Comunicados-de-prensa/La-Audiencia-de-Valencia-mantiene-en-libertad-provisional-sin-fianza-al-expresidente-de-la-Generalitat-y-exministro-Eduardo-Zaplana-tras-su-condena-por-el--caso-Erial-"
+
+  - fecha: "2025-03-12"
+    titulo: "Zaplana recurre al Tribunal Supremo pidiendo su absolución"
+    descripcion: "Eduardo Zaplana presenta recurso de casación ante el Tribunal Supremo solicitando su absolución total. Su abogado Daniel Campos (exfiscal de la Audiencia Nacional) alega que la sentencia se basa en 'pruebas prefabricadas' y una 'investigación prospectiva' de la Guardia Civil sin amparo judicial previo. Denuncia que se accedió sin autorización judicial a protocolos notariales secretos y critica que la sentencia se apoya en declaraciones de coacusados pactadas con la Fiscalía a cambio de impunidad."
+    type: "resumen"
+    relevancia: "alta"
+    urls:
+      - "https://www.elindependiente.com/espana/2025/03/12/zaplana-denuncia-que-la-sentencia-de-la-audiencia-de-valencia-por-el-caso-erial-se-basa-en-pruebas-prefabricadas-y-pide-su-absolucion-al-supremo/"
+      - "https://www.eldiario.es/comunitat-valenciana/zaplana-recurre-supremo-condena-caso-erial-fundarse-conexion-disparatada-pruebas-prefabricadas_1_12124620.html"
 ---

@@ -148,11 +148,34 @@ cronologia:
       - "https://theobjective.com/espana/tribunales/2025-10-24/jorge-bellver-investigado-caso-azud/"
       - "https://valenciaplaza.com/valenciaplaza/comunitat-valenciana1/el-juez-de-azud-cita-como-investigado-a-jorge-bellver"
 
+  - fecha: "2025-06-20"
+    titulo: "Informe final de la UCO sobre la 'operación colegios'"
+    descripcion: "La Guardia Civil presenta su informe definitivo documentando irregularidades y comisiones en la mayor operación urbanística del caso Azud. Un informe pericial de la Agencia Tributaria concluye que la 'operación colegios' fue 'altamente rentable' para los promotores a costa del Ayuntamiento, con parcelas adquiridas a precio por debajo de mercado sin subasta pública."
+    type: "investigación"
+    urls:
+      - "https://www.elespanol.com/valencia/20250620/uco-presenta-informe-final-trama-colegios-irregularidades-comisiones-gran-pelotazo-azud/1003743814601_0.html"
+      - "https://www.eldiario.es/comunitat-valenciana/informe-hacienda-caso-azud-certifica-pelotazo-promotores-costa-ayuntamiento-rita-barbera_1_12336283.html"
+
+  - fecha: "2025-11-01"
+    titulo: "Juez avala transferencia de bienes decomisados a la ORGA"
+    descripcion: "El juez avala que la Oficina de Recuperación y Gestión de Activos (ORGA) administre la 'extraordinaria masa' de bienes decomisados de la trama: 4,8 millones de euros en cuentas bancarias, 61 inmuebles, 6 vehículos (incluidos dos Porsche) y el chalet de lujo del cuñado de Rita Barberá en Xàbia."
+    type: "resumen"
+    urls:
+      - "https://www.eldiario.es/comunitat-valenciana/juez-caso-azud-avala-organo-administre-extraordinaria-masa-bienes-decomisados-trama_1_12712813.html"
+      - "https://www.eldiario.es/comunitat-valenciana/caso-azud-cifras-decomisados-4-8-millones-porsche-chalet-lujo-cunado-rita-barbera-xabia_1_12448507.html"
+
+  - fecha: "2025-11-17"
+    titulo: "Jorge Bellver guarda silencio ante el juez como investigado"
+    descripcion: "El director general de Relaciones con Les Corts del gobierno de Mazón, Jorge Bellver, se acoge a su derecho a no declarar en su comparecencia como investigado en el caso Azud. La jueza señala que Bellver 'voluntariamente permaneció, durante más de tres años y medio, fuera de la investigación'."
+    type: "declaración"
+    urls:
+      - "https://www.eldiario.es/comunitat-valenciana/alto-cargo-mazon-imputado-caso-azud-guarda-silencio-juez_1_12773719.html"
+      - "https://www.eldiario.es/comunitat-valenciana/juez-caso-azud-avala-declaracion-alto-cargo-mazon-investigado-tres-anos-medio_1_12801200.html"
+
   - fecha: "2026-01-01"
     titulo: "El caso Azud sigue en instrucción sin fecha para juicio oral en 2026"
-    descripcion: "A comienzos de 2026 la instrucción del caso Azud continúa abierta. La jueza avala que un órgano del Estado administre la extraordinaria masa de bienes decomisados a la trama mientras prosigue la investigación. Los analistas judiciales consideran que el auto de apertura de juicio oral podría dictarse en 2026, pero no se ha confirmado ninguna fecha. El caso sigue siendo una de las causas de corrupción urbanística más amplias y complejas abiertas en la Comunidad Valenciana."
+    descripcion: "A comienzos de 2026 la instrucción del caso Azud continúa abierta tras 7 años de investigación. Cuenta con 58 investigados y 5 piezas separadas bajo secreto de sumario. Los analistas judiciales consideran que el auto de apertura de juicio oral podría dictarse en 2026, pero no se ha confirmado ninguna fecha."
     type: "investigación"
     urls:
       - "https://valenciaplaza.com/valenciaplaza/comunitat-valenciana1/oltra-francis-puig-zaplana-azud-la-dana-los-asuntos-judiciales-que-daran-que-hablar-en-2026"
-      - "https://www.eldiario.es/comunitat-valenciana/juez-caso-azud-avala-organo-administre-extraordinaria-masa-bienes-decomisados-trama_1_12712813.html"
 ---

@@ -5,7 +5,7 @@ completado: true
 año: 2018
 fechaInicio: "2007-10-25"
 fechaFin: ""
-estado: "pendiente de juicio"
+estado: "visto para sentencia"
 descripcion: |
   El Caso Cerrú tiene su origen en las irregularidades cometidas durante la construcción del nuevo estadio de fútbol municipal de Puertollano (Ciudad Real, Castilla-La Mancha), conocido popularmente como el "Cerrú". Entre 2007 y 2010, el Ayuntamiento de Puertollano, gobernado por el alcalde socialista Joaquín Carlos Hermoso Murillo, diseñó una operación urbanística para edificar el estadio "sin poner un duro" de las arcas públicas mediante un contrato de permuta de terrenos con las empresas constructoras Teconsa y Promociones Inmobiliarias del Pisuerga (PROINSA). El 25 de octubre de 2007, el Pleno del Ayuntamiento aprobó el contrato con los 15 votos del PSOE y la abstención de PP e IU, sin mediar concurso público ni los procedimientos de publicidad y concurrencia exigidos por la normativa de contratación administrativa.
 
@@ -118,4 +118,13 @@ cronologia:
     urls:
       - "https://www.lanzadigital.com/provincia/puertollano/el-juzgado-acuerda-la-apertura-de-juicio-oral-para-el-exalcalde-y-exsecretario-en-el-caso-cerru/"
       - "https://www.miciudadreal.es/2024/07/11/seis-anos-de-la-operacion-cerru-en-puertollano-el-historico-drama-procesal-y-personal-con-final-descafeinado/"
+
+  - fecha: "2026-02-01"
+    titulo: "Celebración del juicio oral en la Audiencia Provincial de Ciudad Real"
+    descripcion: "El exalcalde Joaquín Hermoso Murillo y el exsecretario municipal Juan Luis Vázquez se sientan en el banquillo de la Audiencia Provincial de Ciudad Real, acusados de prevaricación administrativa por el contrato de permuta del estadio Cerrú sin concurso público. La Fiscalía reduce su petición de 9 a 6 años de inhabilitación para ambos acusados por las dilaciones indebidas del procedimiento (19 años desde los hechos). Hermoso Murillo defiende la legalidad del contrato. El juicio queda visto para sentencia."
+    type: "juicio"
+    relevancia: "alta"
+    urls:
+      - "https://www.eldiario.es/castilla-la-mancha/provincias/ciudad_real/exalcalde-puertollano-sienta-banquillo-defiende-legalidad-contrato-cerru_1_12966363.html"
+      - "https://torrijostoday.com/castilla-la-mancha/ciudad-real/exalcalde-puertollano-defiende-legalidad-del-contrato-del-cerru-y-fiscalia-mantiene-acusacion-por-prevaricacion/"
 ---

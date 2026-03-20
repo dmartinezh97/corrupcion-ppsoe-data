@@ -239,4 +239,28 @@ cronologia:
       - "https://valenciaplaza.com/valenciaplaza/comunitat-valenciana1/los-ultimos-coletazos-de-taula-el-yonqui-del-dinero-y-otros-cuatro-acusados-a-juicio-por-amanos-en-valencia"
       - "https://www.libertaddigital.com/valencia/2026-02-17/la-fiscalia-pide-11-anos-de-carcel-para-el-yonqui-del-dinero-despues-de-recular-cuando-confeso-que-iba-fumado-7361263/"
     relevancia: "media"
+
+  - fecha: 2026-01-28
+    titulo: "Multa a Rosa Pérez y declaración del exsuegro de Benavent"
+    descripcion: "La Audiencia Provincial de Valencia multa con 200 euros a la exconsellera Rosa Pérez (Esquerra Unida), denunciante original del caso Taula, por no comparecer como testigo en el juicio de la pieza E, alegando confusión con las fechas. En la misma sesión, Mariano López Sancho, exsuegro de Benavent, declara que no manipuló las grabaciones que entregó a la denunciante."
+    type: "resumen"
+    urls:
+      - "https://www.elespanol.com/valencia/20260128/audiencia-valencia-multa-exconsellera-rosa-perez-no-comparecer-testigo-juicio-caso-taula/1003744107287_0.html"
+
+  - fecha: 2026-02-01
+    titulo: "Benavent alega que confesó 'fumado' y la defensa señala a González Pons"
+    descripcion: "En el juicio de la pieza E, Marcos Benavent retracta sus confesiones alegando que declaró bajo los efectos de la marihuana ante la UCO de la Guardia Civil. Paralelamente, la defensa de Vicente Burgos (exgerente de la Fundación Jaume II) descarga en Esteban González Pons (actual eurodiputado del PP) la responsabilidad de haber contratado a Benavent como 'persona de confianza' en la fundación pública."
+    type: "resumen"
+    urls:
+      - "https://www.eldiario.es/comunitat-valenciana/yonqui-dinero-alega-juicio-caso-taula-declaro-fumado-marihuana-uco-guardia-civil_1_12974062.html"
+      - "https://www.eldiario.es/comunitat-valenciana/acusado-juicio-caso-taula-apunta-gonzalez-pons-contrato-publico-yonqui-dinero_1_12936657.html"
+
+  - fecha: 2026-02-17
+    titulo: "Fiscalía pide 11 años de cárcel para Benavent"
+    descripcion: "La Fiscalía Anticorrupción eleva su petición de pena para Marcos Benavent hasta 11 años de cárcel por cohecho, prevaricación y malversación, tras su retractación en el juicio de la pieza E. Se reproducen en sala audios de Benavent con conversaciones sobre mordidas, 'regalitos' y empresas que 'han ayudado mucho' al PP."
+    type: "resumen"
+    relevancia: "alta"
+    urls:
+      - "https://www.libertaddigital.com/valencia/2026-02-17/la-fiscalia-pide-11-anos-de-carcel-para-el-yonqui-del-dinero-despues-de-recular-cuando-confeso-que-iba-fumado-7361263/"
+      - "https://www.eldiario.es/comunitat-valenciana/audios-yonqui-dinero-afloran-juicio-mordidas-regalitos-empresa-ayudado-pp_1_12960547.html"
 ---

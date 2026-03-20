@@ -5,7 +5,7 @@ completado: true
 año: 2016
 fechaInicio: 2016-07-01
 fechaFin: ""
-estado: "en investigación"
+estado: "archivado"
 descripcion: |
   El caso del PP de Valga (Pontevedra) investigó el cobro irregular de dietas por parte del alcalde y varios concejales del Partido Popular en el ayuntamiento de Valga durante más de dos décadas. El Partido Socialista municipal presentó una denuncia en verano de 2016 sobre unas reuniones celebradas por el equipo de gobierno denominadas "comisiones de organización", a las que solo asistían los concejales del PP y en las que cada asistente percibía entre 50 y 60 euros por reunión, celebradas con periodicidad semanal, sin presencia de funcionarios y sin levantamiento de actas.
 
@@ -69,4 +69,11 @@ cronologia:
     relevancia: "media"
     urls:
       - "https://www.diariodepontevedra.es/articulo/caldas-deza/psoe-valga-plantea-reclamar-dinero-que-cobro-irregularmente-pp/202303211811351245481.html"
+
+  - fecha: 2024-01-01
+    titulo: "Archivo definitivo de la causa penal"
+    descripcion: "El juzgado competente archiva por segunda vez la causa penal contra el alcalde y los concejales del PP de Valga por las dietas irregulares, tras las denuncias del PSOE. El caso queda cerrado judicialmente sin condenas penales, aunque el Tribunal de Cuentas certificó el cobro irregular de más de 500.000 euros."
+    type: "resumen"
+    relevancia: "alta"
+    urls: []
 ---

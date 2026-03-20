@@ -79,4 +79,12 @@ cronologia:
     type: "sentencia"
     urls:
       - "https://www.elespanol.com/espana/tribunales/20231121/herencia-ere-tribunal-cuentas-pide-eur-herederas-principal-condenado/811419157_0.html"
+
+  - fecha: "2025-07-17"
+    titulo: "La Audiencia de Sevilla plantea cuestión prejudicial ante el TJUE sobre el caso ERE"
+    descripcion: "La Audiencia Provincial de Sevilla eleva al Tribunal de Justicia de la UE la cuestión de si el Tribunal Constitucional se extralimitó al anular condenas del caso ERE. Esta decisión podría tener impacto en todas las piezas separadas pendientes del macro-caso ERE, incluida la pieza ABB. A fecha de marzo de 2026, el TJUE aún no ha respondido."
+    type: "resumen"
+    urls:
+      - "https://www.elcorreogallego.es/espana/2026/01/07/caso-ere-espera-respuesta-tjue-125437564.html"
+      - "https://elderecho.com/cuestion-prejudicial-ante-el-tjue-sobre-el-caso-ere"
 ---
