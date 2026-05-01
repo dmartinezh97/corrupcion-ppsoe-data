@@ -71,4 +71,15 @@ cronologia:
     urls:
       - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1257399"
       - "https://confilegal.com/20250728-anulada-la-plaza-de-la-primera-mujer-bombero-de-melilla-por-irregularidades-en-el-proceso-selectivo/"
+
+  - fecha: 2025-07-27
+    titulo: "Sentencia firme del TSJA: anulada definitivamente la plaza de la primera mujer bombero"
+    descripcion: "El Tribunal Superior de Justicia de Andalucía, Ceuta y Melilla emite sentencia firme que anula definitivamente la plaza de la única mujer que había logrado acceder al cuerpo de Bomberos de Melilla, al confirmar el trato de favor del tribunal de selección en las pruebas psicotécnicas y de personalidad de 2017. La resolución obliga a repetir la prueba de personalidad únicamente para los cinco aspirantes recurrentes y para la mujer afectada, con un nuevo Tribunal de Selección sin miembros de la convocatoria anulada y sin los mismos asesores psicológicos ni la entidad privada que ejecutó el test. La afectada pierde su condición de funcionaria de carrera y anuncia recurso ante el Tribunal Supremo."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.eldebate.com/sociedad/20250727/anulada-plaza-unica-mujer-bombero-melilla-denuncia-trato-favor_321002.html"
+      - "https://www.infobae.com/america/agencias/2025/07/27/el-tsja-confirma-la-anulacion-de-la-plaza-de-la-unica-mujer-bombero-de-melilla-tras-una-denuncia-por-trato-de-favor/"
+      - "https://melillahoy.es/una-sentencia-firme-anula-la-plaza-de-la-primera-mujer-bombero-de-melilla-por-un-proceso-selectivo-viciado/"
+      - "https://elfarodemelilla.es/la-bombero-afectada-por-la-sentencia-del-tsja-recurrira-al-supremo/"
 ---

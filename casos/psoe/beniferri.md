@@ -47,7 +47,7 @@ documentos: []
 cronologia:
   - fecha: "2014-10-01"
     titulo: El interventor emite reparos a las dietas del alcalde
-    descripcion: El secretario-interventor Joaquín Botella registra formalmente reparos contra tres expedientes de dietas y kilometraje abonados al alcalde Luis Vicente Mateo, por importes de 962,09, 472 y 820 euros (total: 2.254 euros). El alcalde responde firmando un decreto para retirar los reparos del registro de entrada y contrata una asesoría jurídica externa para avalar los pagos sin someterlos al pleno municipal.
+    descripcion: "El secretario-interventor Joaquín Botella registra formalmente reparos contra tres expedientes de dietas y kilometraje abonados al alcalde Luis Vicente Mateo, por importes de 962,09, 472 y 820 euros (total 2.254 euros). El alcalde responde firmando un decreto para retirar los reparos del registro de entrada y contrata una asesoría jurídica externa para avalar los pagos sin someterlos al pleno municipal."
     urls:
       - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Beniferri&numero=366
       - https://www.diariodelavega.com/absuelven-al-alcalde-de-benferri-de-un-delito-de-prevaricacion-por-gastos-en-dietas-y-desplazamientos/
@@ -100,7 +100,7 @@ cronologia:
 
   - fecha: "2023-03-21"
     titulo: Condena a cuatro meses de prisión por acoso laboral
-    descripcion: El Juzgado de lo Penal número 3 de Orihuela condena a Luis Vicente Mateo a cuatro meses de prisión y a indemnizar al secretario-interventor con 38.660,80 euros por días de curación y 3.914,74 euros por las secuelas psicológicas (total: 42.575,54 euros). El tribunal acredita que el alcalde aisló al funcionario del resto del personal, le arrebató documentos en público y canalizó toda la comunicación con el secretario a través de la Policía Local. La sentencia incluye la atenuante de dilaciones indebidas muy cualificada. El alcalde anuncia que recurrirá.
+    descripcion: "El Juzgado de lo Penal número 3 de Orihuela condena a Luis Vicente Mateo a cuatro meses de prisión y a indemnizar al secretario-interventor con 38.660,80 euros por días de curación y 3.914,74 euros por las secuelas psicológicas (total 42.575,54 euros). El tribunal acredita que el alcalde aisló al funcionario del resto del personal, le arrebató documentos en público y canalizó toda la comunicación con el secretario a través de la Policía Local. La sentencia incluye la atenuante de dilaciones indebidas muy cualificada. El alcalde anuncia que recurrirá."
     urls:
       - https://www.elconfidencialdigital.com/articulo/ultima-hora/juzgado-condena-meses-carcel-alcalde-benferri-pspv-alicante-acoso-laboral-secretario/20230321151253540928.html
       - https://www.todoalicante.es/alicante-provincia/benferri-alcalde-condenal-20230321174034-nt.html

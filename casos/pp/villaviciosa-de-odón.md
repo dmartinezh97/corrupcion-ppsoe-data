@@ -74,4 +74,14 @@ cronologia:
     relevancia: "media"
     urls:
       - "https://www.moncloa.com/2019/11/10/imputacion-villaviciosa-prueba-cs-59540/"
+
+  - fecha: 2021-03-24
+    titulo: "La Audiencia Provincial absuelve a Jover de la pieza de las bodas civiles"
+    descripcion: "La Audiencia Provincial de Madrid absuelve al exalcalde José Jover y al resto de acusados —concejales del PP y un representante legal de Pescaderías Coruñesas— de los delitos de falsedad documental continuada y prevaricación urbanística por la organización de bodas civiles en una finca protegida del Parque Regional del Curso Medio del Guadarrama. La Fiscalía pedía ocho años de cárcel para Jover. El tribunal considera que la falta de objeciones administrativas al expediente no encaja en el tipo penal de prevaricación una vez contextualizados los hitos temporales del caso. La absolución se limita a esta pieza concreta, sin afectar a las otras piezas urbanísticas que siguen instruyéndose contra Joaquín Navarro Calero y otros investigados."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.telemadrid.es/noticias/madrid/Villaviciosa-Odon-Jose-Jover-prevaricacion-0-2325667428--20210324052933.html"
+      - "https://envillaviciosadeodon.es/jose-jover-ex-alcalde-de-villaviciosa-absuelto-de-un-delito-de-prevaricacion/"
+      - "https://www.madridiario.es/absuelto-exalcalde-villaviciosa-de-odon-prevaricar-organizacion-bodas-civiles"
 ---

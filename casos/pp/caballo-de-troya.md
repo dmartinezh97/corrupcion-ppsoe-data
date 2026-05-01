@@ -14,7 +14,7 @@ descripcion: |
   El caso fue instruido por el juez José Antonio Vázquez Taín del Juzgado de Instrucción nº 2 de Santiago de Compostela. Años después del estallido judicial, la Sección Sexta de la Audiencia Provincial de A Coruña, con sede en Santiago, celebró el macrojuicio con 14 acusados —a quienes se pedían penas de entre 4 y 12 años de prisión— y cuya sentencia tardó en conocerse. El caso tuvo también una dimensión política relevante al revelarse que la Xunta de Galicia, gobernada por el PP, había subvencionado con 30.000 euros a través de un programa turístico uno de los hoteles que Ángel de Cabo había adquirido por dos euros.
 
 resumen: "Trama de alzamiento de bienes y blanqueo vinculada a Gürtel que adquiría empresas en concurso para descapitalizarlas."
-coste: "Sin determinar"
+coste: 0
 lugar: "Galicia, Madrid, Valencia, Castilla y León"
 tribunal:
   - "Audiencia Provincial de A Coruña (Sección Sexta) - Juzgado de Instrucción nº 2 de Santiago de Compostela - Juez José Antonio Vázquez Taín"

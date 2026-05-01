@@ -642,4 +642,30 @@ cronologia:
     type: "resumen"
     urls:
       - "https://theobjective.com/espana/tribunales/2026-03-19/empresa-mascarillas-koldo-air-europa-aviones/"
+
+  - fecha: "2026-04-07"
+    titulo: "Comienza el juicio oral del caso mascarillas en el Tribunal Supremo"
+    descripcion: "Arranca en el Tribunal Supremo el juicio oral contra José Luis Ábalos, Koldo García y Víctor de Aldama por la pieza de los contratos de mascarillas durante la pandemia. La sesión inaugural cuenta con la declaración de Jéssica Rodríguez, expareja de Ábalos, contratada irregularmente en Ineco y Tragsatec. La Fiscalía Anticorrupción mantiene su petición de 24 años de prisión para Ábalos, 19 años y 6 meses para Koldo y 7 años para Aldama por delitos de organización criminal, cohecho, tráfico de influencias, malversación y uso de información privilegiada."
+    type: "juicio"
+    relevancia: "alta"
+    urls:
+      - "https://www.libertaddigital.com/espana/2026-03-06/el-tribunal-supremo-fija-el-calendario-del-juico-de-la-trama-koldo-en-14-dias-y-rechaza-el-retraso-pedido-por-abalos-7370331/"
+
+  - fecha: "2026-04-29"
+    titulo: "Aldama, Koldo y Ábalos declaran al final del juicio con estrategias divididas"
+    descripcion: "Tras escuchar al resto de testigos y peritos, los tres acusados declaran en el orden que ellos mismos solicitaron: primero Víctor de Aldama, después Koldo García y finalmente José Luis Ábalos. Las defensas adoptan estrategias divididas: Aldama coopera y reitera sus acusaciones contra Ábalos y Cerdán, Koldo reconoce parte de los hechos pero niega capacidad de decisión y revela presiones para proteger a Ábalos, y Ábalos mantiene íntegramente su inocencia."
+    type: "declaración"
+    relevancia: "alta"
+    urls:
+      - "https://www.infobae.com/espana/2026/04/29/koldo-abalos-y-aldama-se-enfrentan-a-su-examen-final-ante-el-tribunal-supremo-con-unas-estrategias-de-defensa-divididas/"
+      - "https://theobjective.com/espana/tribunales/2026-04-29/juicio-caso-mascarillas-directo-aldama-koldo-abalos/directo/"
+
+  - fecha: "2026-04-30"
+    titulo: "Koldo admite que las 'chistorras' eran billetes de 500€ del PSOE durante tres años"
+    descripcion: "Tras siete horas y media de declaración, Koldo García reconoce ante el Tribunal Supremo que las 'chistorras' a las que se refería en grabaciones eran billetes de 500 euros y admite que el PSOE le estuvo entregando dinero en efectivo durante tres años. Sus declaraciones desmienten al exgerente del partido y coinciden con la versión de Aldama sobre la 'caja B' del PSOE en la sede de Ferraz, aunque Koldo asegura que 'el PSOE no coge dinero de nadie' en referencia a aportaciones externas."
+    type: "declaración"
+    relevancia: "alta"
+    urls:
+      - "https://www.elespanol.com/espana/tribunales/20260430/koldo-admite-chistorras-billetes-cobro-psoe-guardias-civiles/1003744229576_0.html"
+      - "https://www.elespanol.com/espana/politica/20260430/juicio-caso-abalos-directo-koldo-garcia-exasesor-exministro-jose-luis-declara-tribunal-supremo/1003744228308_10.html"
 ---

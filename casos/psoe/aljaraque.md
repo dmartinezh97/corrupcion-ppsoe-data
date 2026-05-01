@@ -15,7 +15,6 @@ descripcion: |
   Tras un proceso judicial que se prolongó durante casi ocho años, el caso concluyó en octubre de 2024 mediante un acuerdo de conformidad aprobado por la Sección Tercera de la Audiencia Provincial de Huelva. Tres de los acusados —Pedro Escalante Gilete, Francisco Martín Orta (ambos ex concejales de Sí se Puede) y José Luis Rodríguez Vega (miembro de CCOO que actuó como intermediario)— reconocieron los hechos y aceptaron condenas de un año de prisión suspendida, seis meses de multa a razón de 6 euros diarios, e inhabilitación especial para ejercer el sufragio pasivo durante un año y para ocupar cargos públicos durante dos años y medio. La Fiscalía había retirado previamente los cargos contra Ignacio Caraballo en junio de 2021, quien no llegó a sentarse en el banquillo, aunque el escándalo propició su dimisión como presidente de la Diputación de Huelva en octubre de 2020.
 resumen: Soborno con empleos públicos a dos concejales de Sí se Puede para evitar una moción de censura contra la alcaldesa socialista de Aljaraque.
 coste: 0
-lugar: Aljaraque, Huelva, Andalucía
 tribunal:
   - "Juzgado de Primera Instancia e Instrucción número 1 de Huelva"
   - "Sección Tercera de la Audiencia Provincial de Huelva"

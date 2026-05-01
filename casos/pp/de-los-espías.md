@@ -14,7 +14,7 @@ descripcion: |
   El proceso judicial fue extraordinariamente dilatado: el caso se archivó y se reabrió en tres ocasiones distintas durante más de una década. En 2019 la causa llegó finalmente a juicio oral ante un tribunal del jurado popular en la Audiencia Provincial de Madrid (Sección 23ª). La fiscal del caso pidió la absolución al considerar que los hechos no estaban suficientemente probados; el PSOE como acusación popular solicitó entre dos y cuatro años de prisión para los acusados, y la Comunidad de Madrid ejerció también la acusación al reconocer el espionaje con fondos públicos. Por cinco votos contra cuatro, el jurado declaró no culpables a Gamón y a Castaño, y por unanimidad absolvió a los cuatro agentes subordinados. El caso cerró sin ninguna condena, dejando en el aire la pregunta de quién ordenó realmente los espionajes.
 
 resumen: "Espionaje interno con fondos públicos a rivales del PP madrileño, orquestado desde la Comunidad de Madrid en 2008, terminado con absolución general en 2019"
-coste: "0 €"
+coste: 0
 lugar: "Madrid, Comunidad de Madrid"
 tribunal:
   - "Audiencia Provincial de Madrid - Sección 23ª - Juicio con Jurado Popular"

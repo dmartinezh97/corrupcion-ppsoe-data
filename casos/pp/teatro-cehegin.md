@@ -92,4 +92,20 @@ cronologia:
     type: "investigación"
     urls:
       - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Teatro+de+Ceheg%C3%ADn&numero=290"
+
+  - fecha: 2017-07-01
+    titulo: "José Soria deja el cargo de concejal de Cehegín"
+    descripcion: "Tras seis años como concejal y doce como alcalde, el diputado regional del PP José Soria abandona su acta de concejal en el Ayuntamiento de Cehegín ante el avance de la causa judicial sobre el Auditorio. Conserva, no obstante, su escaño en la Asamblea Regional de Murcia y, con él, su aforamiento, que sigue actuando como obstáculo para que pueda ser juzgado mientras no se reforme el Estatuto de Autonomía."
+    type: "resumen"
+    relevancia: "media"
+    urls:
+      - "https://www.murciaconfidencial.es/2017/07/el-diputado-regional-del-pp-pepe-soria.html"
+
+  - fecha: 2018-10-28
+    titulo: "El Pleno aprueba moción del PSOE sobre el problema del Auditorio"
+    descripcion: "El Pleno del Ayuntamiento de Cehegín aprueba una moción presentada por el PSOE para crear un grupo de trabajo que afronte el grave problema del Auditorio inacabado. El PP, partido al que pertenece el exalcalde investigado José Soria, se abstiene en la votación. La iniciativa busca explorar vías para terminar la obra o reordenar el uso del edificio, paralizado desde hace más de una década."
+    type: "resumen"
+    relevancia: "baja"
+    urls:
+      - "https://www.murcia.com/cehegin/noticias/2018/10/28-grupo-de-trabajo-que-ponga-fin-al-grave-problema-del-auditorio.asp"
 ---

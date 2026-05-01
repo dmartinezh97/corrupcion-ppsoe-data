@@ -95,4 +95,14 @@ cronologia:
     urls:
       - "https://www.elcorreogallego.es/espana/2026/01/07/caso-ere-espera-respuesta-tjue-125437564.html"
       - "https://elderecho.com/cuestion-prejudicial-ante-el-tjue-sobre-el-caso-ere"
+
+  - fecha: "2026-04-20"
+    titulo: "La Comisión Europea pide al TJUE que se declare incompetente sobre los ERE"
+    descripcion: "La Comisión Europea presenta un escrito ante el Tribunal de Justicia de la UE proponiendo que se declare manifiestamente incompetente para responder a la cuestión prejudicial planteada por la Audiencia de Sevilla sobre la revisión de las condenas anuladas por el Tribunal Constitucional en el caso ERE. La postura del ejecutivo comunitario refuerza la línea de que la cuestión es asunto interno español y debilita la vía abierta por la Audiencia para reconducir las anulaciones del TC, afectando indirectamente a la pieza Egmasa y al resto de causas pendientes del macrocaso."
+    type: "resumen"
+    relevancia: "media"
+    urls:
+      - "https://www.libertaddigital.com/andalucia/2026-04-20/la-comision-europea-esquiva-el-caso-ere-y-pide-a-la-justicia-europea-no-intervenir-7391344/"
+      - "https://theobjective.com/internacional/2026-04-20/comision-europea-tjue-incompetente-caso-ere/"
+      - "https://www.infobae.com/espana/agencias/2026/04/20/la-comision-europea-defiende-que-tjue-es-incompetente-para-pronunciarse-sobre-el-caso-de-los-ere/"
 ---

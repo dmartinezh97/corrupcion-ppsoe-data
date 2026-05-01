@@ -186,4 +186,13 @@ cronologia:
     type: "denuncia"
     urls:
       - "https://surestepress.wordpress.com/2023/11/16/asepucar-y-aguaiuris-denuncian-un-presunto-desvio-de-45-millones-en-favor-de-hidrogea/"
+
+  - fecha: "2024-11-05"
+    titulo: "Cartagena debe pagar los gastos de defensa de Pilar Barreiro en Púnica"
+    descripcion: "El Tribunal Superior de Justicia de la Región de Murcia desestima el recurso del Ayuntamiento de Cartagena y confirma la obligación municipal de abonar a Pilar Barreiro casi 90.000 euros por los gastos de defensa jurídica generados durante la pieza del caso Púnica que la afectó —y que el Tribunal Supremo archivó en 2018—. La resolución consolida la postura de los tribunales de no asumir consecuencias económicas para la exalcaldesa por las causas instruidas mientras estaba aforada como senadora."
+    type: "sentencia"
+    relevancia: "media"
+    urls:
+      - "https://murciaplaza.com/cartagena-debera-pagar-los-casi-90000-euros-de-los-gastos-de-defensa-de-pilar-barreiro-segun-el-tsjrm"
+      - "https://okdiario.com/mas-comunidades/cartagena-pilar-barreiro-debera-pagar-80-000-exculpacion-caso-punica-10905336"
 ---

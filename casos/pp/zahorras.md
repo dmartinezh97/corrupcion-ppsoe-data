@@ -60,4 +60,12 @@ cronologia:
     relevancia: "media"
     urls:
       - "https://villarrobledonoticias.com/noticias/2019-03-nota-de-prensa-del-psoe-de-villarrobledo-valentin-bueno-vargas-senador-y-candidato-al-senado-por-albacete-declarara-como-investigado-en-el-caso-zahorras/"
+
+  - fecha: 2023-05-28
+    titulo: "Valentín Bueno revalida la Alcaldía con mayoría absoluta"
+    descripcion: "Pese a tener la causa abierta del caso Zahorras, Valentín Bueno (PP) revalida la Alcaldía de Villarrobledo en las elecciones municipales de mayo de 2023 con mayoría absoluta: obtiene 11 de los 21 concejales del pleno con un 48,09% de los votos. La causa judicial sigue formalmente abierta sin que haya transcendido a la opinión pública un avance procesal sustancial desde la declaración del investigado en abril de 2019."
+    type: "resumen"
+    relevancia: "media"
+    urls:
+      - "https://www.encastillalamancha.es/castilla-la-mancha-cat/albacete/villarrobledo-albacete-valentin-bueno-pp-revalida-la-alcaldia-con-mayoria-absoluta/"
 ---
