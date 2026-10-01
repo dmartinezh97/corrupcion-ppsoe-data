@@ -11,7 +11,7 @@ descripcion: |
 
   La investigación sostiene, de forma indiciaria, que el sistema funcionaba mediante acuerdos entre altos cargos de Acuamed y ejecutivos de constructoras como FCC, Acciona Infraestructuras y Altec, que habrían entregado dádivas (viajes, estancias, regalos y dinero) a cambio de adjudicaciones irregulares y de certificaciones y liquidaciones de obra infladas. Entre los hechos recogidos en el auto de procesamiento de abril de 2023 figura un implante de pelo en Turquía por valor de 4.500 euros atribuido a Arcadio Mateo. Durante el registro de su domicilio, la Guardia Civil intervino 120.000 euros en billetes de 500 euros. Ninguna de las personas implicadas ha sido condenada: la causa está pendiente de juicio oral.
 
-  La causa arrancó en 2015 a raíz de denuncias de cargos de Acuamed y se hizo pública el 18 de enero de 2016, cuando la Guardia Civil ejecutó la Operación Frontino con 13 detenciones. El juez Eloy Velasco decretó prisión incondicional para cinco de los detenidos. En abril de 2023 el juez Manuel García Castellón procesó a 42 personas por corrupción en los negocios, falsedad documental, fraude a la administración, prevaricación, malversación de caudales públicos y cohecho. La instrucción fue cerrada por el magistrado Antonio Piña, sucesor de García Castellón en el Juzgado Central de Instrucción nº 6, según informaciones periodísticas de marzo de 2025, y el caso quedó pendiente de juicio en la Sala de lo Penal de la Audiencia Nacional, sin fecha de vista señalada a fecha de esta revisión. La cifra de perjuicio económico de 20 millones de euros procede de filtraciones periodísticas iniciales y no ha sido confirmada judicialmente.
+  La causa arrancó en 2015 a raíz de denuncias de cargos de Acuamed y se hizo pública el 18 de enero de 2016, cuando la Guardia Civil ejecutó la Operación Frontino con 13 detenciones. El juez Eloy Velasco decretó prisión incondicional para cinco de los detenidos. En abril de 2023 el juez Manuel García Castellón procesó a 42 personas por corrupción en los negocios, falsedad documental, fraude a la administración, prevaricación, malversación de caudales públicos y cohecho. Según informaciones periodísticas de marzo de 2025, cuya fecha de resolución exacta no ha podido confirmarse con una fuente oficial, el magistrado Antonio Piña, sucesor de García Castellón en el Juzgado Central de Instrucción nº 6, habría comunicado el cierre de la instrucción y elevado la causa para juicio oral ante la Sala de lo Penal de la Audiencia Nacional; esta ficha no da por acreditados ni la fecha ni el contenido de esa resolución. La última información contrastada sobre el estado del procedimiento es de enero de 2026, cuando seguía sin constar un señalamiento de vista oral; a fecha de esta revisión (octubre de 2026) no se ha podido verificar si la situación procesal ha variado, por lo que no debe presumirse la continuidad de ese estado. La cifra de perjuicio económico de 20 millones de euros procede de filtraciones periodísticas iniciales y tampoco ha sido confirmada judicialmente.
 
 resumen: "Presunta trama de corrupción en Acuamed que amañó contratos de obras hidráulicas mediante sobornos a cargos de la empresa pública"
 coste: 20000000
@@ -23,7 +23,7 @@ numeroSentencia: ""
 implicados:
   - nombre: "Arcadio Mateo del Puerto"
     cargo: "Director general de Acuamed"
-    rol: "Principal investigado y procesado en 2023; en prisión preventiva tras su detención y en libertad bajo fianza desde junio de 2016"
+    rol: "Principal investigado y procesado en 2023; en prisión preventiva tras su detención y en libertad desde junio de 2016 tras abonar una fianza de 300.000 euros (rebajada desde los 600.000 fijados inicialmente)"
 
   - nombre: "María Gabriela Mañueco Pfeiffer"
     cargo: "Responsable de Ingeniería y Construcción de Acuamed"
@@ -55,11 +55,11 @@ implicados:
 
   - nombre: "Santiago Farré Dot"
     cargo: "Directivo de FCC Construcción"
-    rol: "Detenido en 2016 con fianza de 20.000 euros por presunto cohecho activo (dato no revalidado en esta revisión)"
+    rol: "Detenido en 2016; quedó en libertad tras abonar una fianza de 20.000 euros por presunto cohecho activo"
 
   - nombre: "Miguel Roset Ramos"
     cargo: "Ingeniero de FCC Construcción"
-    rol: "Detenido en 2016 con fianza de 20.000 euros por presunto cohecho activo (dato no revalidado en esta revisión)"
+    rol: "Detenido en 2016; quedó en libertad tras abonar una fianza de 20.000 euros por presunto cohecho activo"
 
   - nombre: "Justo Vicente Pelegrini"
     cargo: "Director general de Construcción de Acciona España y Portugal"
@@ -67,7 +67,7 @@ implicados:
 
   - nombre: "Manuel Moreno Maestre"
     cargo: "Empresario del sector de tuberías (Pipeline)"
-    rol: "Investigado por su presunta relación con adjudicaciones amañadas; detenido en la Operación Frontino de 2016"
+    rol: "Investigado por su presunta relación con adjudicaciones amañadas; detenido en la Operación Frontino de 2016, quedó en libertad tras abonar una fianza de 12.000 euros"
 
   - nombre: "Miguel Arias Cañete"
     cargo: "Exministro de Agricultura y Comisario Europeo"
@@ -111,6 +111,7 @@ cronologia:
     urls:
       - "https://www.telemadrid.es/noticias/nacional/prision-detenidos-caso-Acuamed-fianza-0-1758724136--20160120082313.html"
       - "https://www.republica.com/2016/01/20/prision-para-el-director-general-de-acuamed-su-numero-dos-y-otros-tres-detenidos/"
+      - "https://www.diariodenavarra.es/noticias/mas_actualidad/nacional/2016/01/20/el_juez_asegura_que_fraude_acuamed_urdio_muy_alto_nivel_388151_1031.html"
 
   - fecha: "2016-01-21"
     titulo: "Revelación del implante capilar de 4.500 euros"
@@ -133,6 +134,13 @@ cronologia:
     type: "resumen"
     urls:
       - "https://www.republica.com/2016/05/25/socialistas-y-populares-europeos-se-unen-para-impedir-que-canete-comparezca-por-acuamed/"
+
+  - fecha: "2016-06-08"
+    titulo: "Arcadio Mateo sale de prisión tras abonar una fianza de 300.000 euros"
+    descripcion: "El juez Eloy Velasco ordena la puesta en libertad del exdirector general de Acuamed, Arcadio Mateo, después de que este presentara un aval bancario para cubrir la fianza de 300.000 euros impuesta para abandonar la prisión de Aranjuez, en la que había ingresado en enero. La Sección Cuarta de la Sala de lo Penal de la Audiencia Nacional había rebajado a la mitad la caución de 600.000 euros fijada inicialmente. Los magistrados rechazaron suprimirla por completo ante los indicios de que el investigado manejaba dinero 'al margen del circuito legal' y el hallazgo de 120.000 euros escondidos en un libro de su domicilio."
+    type: "investigación"
+    urls:
+      - "https://www.publico.es/economia/director-acuamed-sale-carcel-presentar-aval-bancario-cubrir-fianza-300-000-euros.html"
 
   - fecha: "2020-08-26"
     titulo: "Sobreseimiento provisional de la causa contra Luis Castilla (Acciona)"
@@ -186,15 +194,15 @@ cronologia:
       - "https://www.levante-emv.com/comunitat-valenciana/2023/12/08/audiencia-nacional-allana-juicio-42-95582171.html"
 
   - fecha: "2025-03-23"
-    titulo: "La Audiencia Nacional da por cerrada la instrucción"
-    descripcion: "El magistrado Antonio Piña, titular del Juzgado Central de Instrucción nº 6 y sucesor de Manuel García Castellón, comunica a las partes el cierre de la fase de instrucción del caso Acuamed, diez años después de la Operación Frontino, y eleva la causa para juicio oral ante la Sala de lo Penal. La información procede de la prensa; a fecha de esta revisión no se ha localizado una nota oficial del CGPJ ni un auto publicado que fije la fecha exacta del cierre."
+    titulo: "La prensa informa del cierre de la instrucción (fecha del auto sin confirmar)"
+    descripcion: "La fecha consignada corresponde a la publicación de la noticia (Okdiario), no a una resolución judicial verificada. Según esa información periodística, el magistrado Antonio Piña, titular del Juzgado Central de Instrucción nº 6 y sucesor de Manuel García Castellón, habría comunicado a las partes el cierre de la fase de instrucción del caso Acuamed, diez años después de la Operación Frontino, y habría elevado la causa para juicio oral ante la Sala de lo Penal. La fecha exacta del auto de cierre no ha podido confirmarse: no se ha localizado una nota oficial del CGPJ ni una resolución publicada que la fije. El dato se recoge, por tanto, como información de prensa no confirmada oficialmente."
     type: "investigación"
     urls:
       - "https://okdiario.com/economia/juez-cierra-instruccion-del-caso-acuamed-sin-investigar-acusaciones-contra-psoe-narbona-14484249"
 
   - fecha: "2026-01-18"
-    titulo: "Diez años de la Operación Frontino sin fecha de juicio oral"
-    descripcion: "Al cumplirse diez años de las detenciones, la causa sigue pendiente de juicio oral en la Sala de lo Penal de la Audiencia Nacional, sin fecha señalada. Según las informaciones periodísticas, se mantienen procesados prácticamente todos los investigados iniciales, ya que solo se archivó la causa para dos directivos de Acciona, y no se ha celebrado ninguna vista ni dictado sentencia."
+    titulo: "Diez años de la Operación Frontino sin fecha de juicio oral (última noticia contrastada)"
+    descripcion: "Al cumplirse diez años de las detenciones, la causa seguía pendiente de juicio oral en la Sala de lo Penal de la Audiencia Nacional, sin fecha señalada. Según las informaciones periodísticas, se mantenían procesados prácticamente todos los investigados iniciales —solo se había archivado la causa para dos directivos de Acciona— y no se había celebrado ninguna vista ni dictado sentencia. Esta es, en las fuentes consultadas, la última noticia fechada sobre el estado del procedimiento; a fecha de esta revisión (octubre de 2026) no se ha podido verificar si la causa continúa sin señalamiento o si se ha producido algún cambio procesal, por lo que no se presume la continuidad de este estado."
     type: "investigación"
     urls:
       - "https://okdiario.com/economia/caso-acuamed-10-anos-instruccion-ni-rastro-del-supuesto-dinero-robado-que-denunciaba-psoe-16087491"
@@ -204,8 +212,9 @@ cronologia:
 ## Notas de revisión (2026-10-01)
 
 ### Estado procesal
-- La instrucción del caso fue cerrada por el magistrado Antonio Piña, sucesor de Manuel García Castellón al frente del Juzgado Central de Instrucción nº 6 de la Audiencia Nacional, según la prensa (Okdiario, 23/03/2025). A fecha de esta revisión no consta una nota oficial del CGPJ ni un auto publicado que confirme la fecha exacta del cierre, por lo que esta ficha se marca como `completado: false`.
-- No hay sentencia ni fecha de juicio oral señalada. Las personas relacionadas son investigadas o procesadas, no condenadas. Cualquier referencia a hechos debe entenderse como indiciaria y referida a los autos de instrucción.
+- Según la prensa (Okdiario, 23/03/2025) el magistrado Antonio Piña, sucesor de Manuel García Castellón al frente del Juzgado Central de Instrucción nº 6 de la Audiencia Nacional, habría comunicado el cierre de la instrucción. La fecha del 23/03/2025 es la de publicación de la noticia, no la de una resolución verificada: no consta una nota oficial del CGPJ ni un auto publicado que confirme ni la fecha ni el contenido del cierre. Por ello esta ficha se marca como `completado: false` y el cierre no se da por acreditado.
+- La última información contrastada sobre el estado del procedimiento es de enero de 2026, cuando la causa seguía pendiente de juicio oral y sin fecha de vista señalada. A fecha de esta revisión (octubre de 2026) no se ha podido verificar si la situación continúa igual o si se ha producido algún cambio, por lo que no se presume la continuidad de ese estado.
+- No hay sentencia. Las personas relacionadas son investigadas o procesadas, no condenadas. Cualquier referencia a hechos debe entenderse como indiciaria y referida a los autos de instrucción.
 - El auto de procesamiento de abril de 2023 (CGPJ) apreció indicios contra 42 personas. La cifra de quienes finalmente serán enjuiciados no está confirmada de forma oficial: la prensa habla de que llegan a juicio prácticamente los mismos investigados iniciales tras el archivo para dos directivos de Acciona.
 
 ### Sobre el importe (coste)
@@ -216,7 +225,7 @@ cronologia:
 - Federico Ramos de Armas: el juez levantó su imputación en octubre de 2016.
 - Miguel Arias Cañete: mencionado en las diligencias y compareciente; en las fuentes consultadas no consta que fuera procesado en el auto de abril de 2023.
 - Okdiario informó (18/01/2026) de que dos procesados habían fallecido; las fuentes consultadas no los identifican, por lo que no se consignan nombres.
-- Los roles de los implicados se han actualizado para distinguir detenciones históricas de 2016, procesamientos de 2023 y archivos. Algunos datos de fianzas de 2016 (Santiago Farré y Miguel Roset) no se han podido revalidar.
+- Los roles de los implicados se han actualizado para distinguir detenciones históricas de 2016, procesamientos de 2023 y archivos. Las fianzas de 2016 que se consignan (Santiago Farré y Miguel Roset, 20.000 € cada uno; Manuel Moreno Maestre, 12.000 €; y la de Arcadio Mateo, 300.000 € tras rebajarse desde los 600.000 iniciales) se han contrastado con fuentes periodísticas concretas de 2016 (Diario de Navarra, 20/01/2016; Público, 08/06/2016).
 
 ### Clasificación del caso
 - La causa se centra en la adjudicación y ejecución de obras entre 2012 y 2015, periodo de gobierno del PP. La empresa Acuamed fue creada bajo un gobierno del PSOE. La ficha mantiene `partido: PP` por el periodo de los hechos investigados, sin que ello implique atribución de culpabilidad a ninguna formación.
