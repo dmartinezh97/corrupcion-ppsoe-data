@@ -5,7 +5,7 @@ completado: true
 año: 2013
 fechaInicio: 2001-01-01
 fechaFin: ""
-estado: abierto
+estado: "en juicio oral"
 resumen: "Desfalco del Canal de Isabel II mediante compra sobrevalorada de empresas latinoamericanas con desvío de 25 millones de euros"
 descripcion: "Desfalco del Canal de Isabel II mediante la compra sobrevalorada de empresas latinoamericanas (Inassa en Colombia e Emissao en Brasil) con desvío de 25 millones de euros en comisiones ilegales a altos cargos del PP madrileño"
 coste: 25000000
@@ -30,6 +30,12 @@ implicados:
   - nombre: "Alberto Ruiz-Gallardón"
     cargo: "Expresidente de la Comunidad de Madrid (1995-2012), Exministro de Justicia (PP)"
     rol: "Mencionado en las investigaciones sobre el primer desvío de fondos relacionado con Inassa (2001)"
+  - nombre: "Pedro Calvo Poch"
+    cargo: "Exconsejero de la Comunidad de Madrid"
+    rol: "Acusado en el juicio por la compra de Inassa; la Fiscalía pide 7 años de cárcel"
+  - nombre: "Juan Bravo Rivera"
+    cargo: "Exconsejero de Economía y Hacienda de la Comunidad de Madrid"
+    rol: "Acusado en el juicio por la compra de Inassa; la Fiscalía pide 7 años de cárcel"
 tags:
   - "corrupción"
   - "malversación"
@@ -60,6 +66,14 @@ cronologia:
     titulo: "Exoneración del delito de blanqueo"
     descripcion: "El juez exonera a Ignacio González del delito de blanqueo de capitales"
     type: "sentencia"
+  - fecha: 2026-09-07
+    titulo: "Arranca el primer juicio del caso Lezo por la compra de Inassa"
+    descripcion: "La Audiencia Nacional inicia el primer juicio de la Operación Lezo, diez años después de que se abriera la investigación. La vista, que se extiende hasta el 8 de octubre, juzga la compra en 2001 de la sociedad colombiana Inassa por el Canal de Isabel II con un sobreprecio estimado de al menos 19 millones de euros. Se sientan en el banquillo 22 acusados, entre ellos los exconsejeros madrileños Pedro Calvo y Juan Bravo Rivera, para quienes la Fiscalía pide siete años de cárcel. Ignacio González no está acusado en esta pieza, pero será juzgado el 13 de octubre por el campo de golf y en 2027 por Emissao y Navalcarnero."
+    type: "juicio"
+    relevancia: "alta"
+    urls:
+      - "https://www.infobae.com/espana/agencias/2026/09/06/arranca-el-primer-juicio-del-caso-lezo-sobre-el-canal-de-isabel-ii-diez-anos-despues"
+      - "https://www.elplural.com/sociedad/tribunales/empieza-juicio-caso-lezo-diez-anos-despues-radiografia-no-perderte_399567102"
 ---
 
 # Caso Lezo - Inassa y Emissao
@@ -242,7 +256,7 @@ El Caso Lezo/Inassa y Emissao es una pieza separada de la Operación Lezo que in
 
 ## Estado Actual
 
-El caso permanece ABIERTO, pendiente de juicio oral en la Audiencia Nacional. Tras el procesamiento de noviembre de 2019 y la exoneración del delito de blanqueo en mayo de 2022, se espera la celebración del juicio (suspendido en mayo de 2023 por huelga de funcionarios). Ignacio González, principal acusado, enfrenta peticiones de hasta 11 años de prisión y 30 de inhabilitación. El caso afecta a 52 investigados y representa uno de los mayores escándalos de corrupción del PP madrileño en empresas públicas.
+El 7 de septiembre de 2026 arrancó en la Audiencia Nacional el primer juicio de la Operación Lezo, centrado en la compra de la colombiana Inassa en 2001 con un sobreprecio de al menos 19 millones de euros y con 22 acusados (entre ellos los exconsejeros Pedro Calvo y Juan Bravo Rivera). Ignacio González no está acusado en esa pieza, pero afronta otros tres juicios: el del campo de golf del Canal (13 de octubre de 2026), el de la compra de Emissao (enero de 2027) y el del tren de Navalcarnero (junio de 2027). La exoneración del delito de blanqueo en mayo de 2022 y el archivo de la causa contra Ruiz-Gallardón por la compra de Inassa redujeron el número de acusados. El caso, que llegó a sumar medio centenar de investigados, representa uno de los mayores escándalos de corrupción del PP madrileño en empresas públicas.
 
 ## Fuentes
 
