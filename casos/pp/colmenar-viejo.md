@@ -1,120 +1,160 @@
 ---
 nombre: "Colmenar Viejo"
 partido: PP
-completado: true
+completado: false
 año: 2016
-fechaInicio: 2006-01-01
-fechaFin: "2022-11-01"
-estado: "sobreseimiento"
+fechaFin: ""
+estado: "sentencia firme"
 descripcion: |
-  El caso Colmenar Viejo documenta la investigación penal que durante más de siete años afectó a tres alcaldes y una docena de concejales del Partido Popular de este municipio del norte de Madrid, acusados de un delito continuado de prevaricación urbanística. La Fiscalía Provincial de Madrid denunció que entre 2006 y 2014 el Ayuntamiento de Colmenar Viejo concedió 16 licencias de primera ocupación de forma irregular, en contra de los informes desfavorables emitidos por los propios técnicos municipales. Las obras afectadas no se ajustaban a los proyectos por los que se habían otorgado las licencias, y en ningún caso los gobernantes tomaron las medidas de subsanación exigidas por la normativa.
+  El caso Colmenar Viejo documenta la causa seguida por la concesión de 16 licencias de primera ocupación por parte de las sucesivas Juntas de Gobierno del Ayuntamiento de Colmenar Viejo (PP) a partir de 2006. La investigación partió de una denuncia anónima asumida por la Fiscalía de Medio Ambiente de Madrid, que presentó querellas en dos juzgados del municipio, y fue instruida por el Juzgado de Instrucción nº 3 de Colmenar Viejo.
 
-  Los imputados principales fueron los alcaldes en funciones durante aquel periodo: José María de Federico, Miguel Ángel Santamaría, que dimitió en noviembre de 2016 dos días después de conocerse el procesamiento, y su sucesor Jorge García, quien fue elegido por el PP pese a estar también procesado en el mismo expediente. Junto a ellos se sentaron en el banquillo la segunda teniente de alcalde Antonia García y varios concejales y exconcejales populares. El origen de la denuncia fue una arquitecta municipal que alertó a la Fiscalía de Medio Ambiente sobre las irregularidades, sumándose a una denuncia anónima anterior que ya había activado una investigación inicial.
+  El 12 de septiembre de 2016 la Sección Cuarta de la Audiencia Provincial de Madrid desestimó los recursos y confirmó el procesamiento de doce cargos públicos por un delito continuado de prevaricación urbanística, al entender que los informes técnicos y jurídicos desfavorables no podían ignorarse sin una justificación razonada. Entre los procesados figuraban los alcaldes y exalcaldes Miguel Ángel Santamaría Novoa, Jorge García Díaz y José María de Federico Corral, y los concejales y exconcejales Ana Belén Colmenarejo Collado, César de la Serna Moscol, Carlos Blázquez Rodríguez, Juan José Serrano Cadahía, Antonia García Santos, Inmaculada Viñoles Riera, Justo García Froilán, Pablo Colmenarejo Cobeña y Pedro Gómez.
 
-  El juicio oral se celebró en junio de 2021 ante el Juzgado de lo Penal número 11 de Madrid. En enero de 2022 el tribunal absolvió a todos los acusados al entender que no existía "ánimo de actuar de forma ilegal" y que las decisiones adoptadas en pleno no fueron arbitrarias, calificando los incumplimientos como "deficiencias de muy poca importancia" adoptadas buscando el bienestar de los vecinos. La Audiencia Provincial de Madrid confirmó esta absolución definitivamente en noviembre de 2022 al desestimar los recursos de la Fiscalía, cerrando un caso que se convirtió en referente del debate sobre los límites entre la discrecionalidad administrativa y la prevaricación urbanística.
+  La apertura del juicio oral en noviembre de 2016 provocó la dimisión del alcalde Miguel Ángel Santamaría, presentada el 10 de noviembre. El 22 de noviembre de 2016 el Pleno municipal eligió nuevo alcalde a Jorge García Díaz, también procesado en la misma causa. El juicio oral se celebró ante el Juzgado de lo Penal nº 11 de Madrid a partir del 22 de junio de 2021, por un delito continuado de prevaricación urbanística (artículo 320 del Código Penal y, alternativamente, artículo 404), con peticiones de pena de entre dos años y tres años y medio de prisión y hasta diez años de inhabilitación.
 
-resumen: "Tres alcaldes del PP de Colmenar Viejo absueltos de prevaricación por conceder 16 licencias urbanísticas irregulares entre 2006 y 2014"
+  El 23 de diciembre de 2021 el Juzgado de lo Penal nº 11 dictó sentencia absolutoria para los doce acusados. El tribunal consideró que no se había acreditado que actuaran «con ánimo de actuar de forma ilegal» ni que las decisiones de la Junta de Gobierno fueran arbitrarias o injustas: calificó las deficiencias detectadas como de muy escasa importancia, apreció que los informes técnicos eran preceptivos pero no vinculantes y que no constaba beneficio ilícito alguno. La sentencia se publicó el 12 de enero de 2022. La Fiscalía de Madrid recurrió en apelación y la Sección Tercera de la Audiencia Provincial de Madrid desestimó el recurso, confirmando la absolución, que quedó firme; la prensa dio cuenta de la resolución el 18 de julio de 2022, señalando que contra ella no cabía recurso.
+
+  Límites de la información: no se ha localizado el texto oficial, el ECLI ni el PDF de ninguna de las dos resoluciones (instancia y apelación), por lo que los hechos y el fallo se sustentan en notas del CGPJ y en prensa. La fecha exacta de la sentencia de apelación no consta: el 18 de julio de 2022 es la fecha en que se hizo pública. La numeración que cita la prensa local («Sentencia 5/2022», «Procedimiento Abreviado 170/2017») no se ha confirmado con resolución oficial, y las fuentes discrepan en el número de procesados (once o doce) y en el alcance temporal de los hechos (a partir de 2006; en torno a 2008 según Telemadrid). No consta perjuicio económico cuantificado ni el número de sentencia. Esta ficha se refiere exclusivamente a la causa de las 16 licencias, resuelta en 2022; debe distinguirse de otras actuaciones sobre el urbanismo del mismo municipio, en particular de la resolución de 2023 recogida en la ficha «Colmenar Viejo II», que es un procedimiento distinto.
+resumen: "Tres alcaldes y nueve concejales del PP de Colmenar Viejo, absueltos en firme en 2022 del delito de prevaricación urbanística por las 16 licencias de primera ocupación."
 coste: 0
 lugar: "Colmenar Viejo, Comunidad de Madrid"
 tribunal:
+  - "Juzgado de Instrucción nº 3 de Colmenar Viejo"
   - "Juzgado de lo Penal nº 11 de Madrid"
   - "Audiencia Provincial de Madrid"
 numeroSentencia: ""
 implicados:
-  - nombre: "José María de Federico"
-    cargo: "Alcalde de Colmenar Viejo (PP)"
-    rol: "Procesado por prevaricación urbanística continuada. Absuelto en 2022"
+  - nombre: "Miguel Ángel Santamaría Novoa"
+    cargo: "Alcalde de Colmenar Viejo (PP) entre 2011 y 2016"
+    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias; dimitió el 10 de noviembre de 2016 tras conocerse su procesamiento. Absuelto con sentencia firme en 2022."
 
-  - nombre: "Miguel Ángel Santamaría"
-    cargo: "Alcalde de Colmenar Viejo (PP)"
-    rol: "Dimitió en noviembre de 2016 tras conocerse el procesamiento. Absuelto en 2022"
+  - nombre: "José María de Federico Corral"
+    cargo: "Alcalde de Colmenar Viejo (PP) entre 1995 y 2011"
+    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias. Absuelto con sentencia firme en 2022."
 
-  - nombre: "Jorge García"
-    cargo: "Alcalde de Colmenar Viejo (PP)"
-    rol: "Elegido alcalde pese a estar procesado en el mismo caso. Absuelto en 2022"
+  - nombre: "Jorge García Díaz"
+    cargo: "Alcalde de Colmenar Viejo (PP) desde el 22 de noviembre de 2016; concejal de Cultura en 2012"
+    rol: "Procesado por prevaricación urbanística continuada; según su defensa, solo participó en la decisión de una de las licencias (2012). Absuelto con sentencia firme en 2022."
 
-  - nombre: "Antonia García"
-    cargo: "Segunda teniente de alcalde del PP en Colmenar Viejo"
-    rol: "Procesada por prevaricación urbanística. Absuelta en 2022"
+  - nombre: "Ana Belén Colmenarejo Collado"
+    cargo: "Concejala del PP en Colmenar Viejo (Deportes, Sanidad y Medio Ambiente) en 2016"
+    rol: "Procesada por prevaricación urbanística continuada por las 16 licencias. Absuelta con sentencia firme en 2022."
 
-  - nombre: "César de la Serna"
-    cargo: "Concejal del PP en Colmenar Viejo"
-    rol: "Procesado por prevaricación urbanística. Absuelto en 2022"
+  - nombre: "César de la Serna Moscol"
+    cargo: "Concejal del PP en Colmenar Viejo (Turismo) en 2016"
+    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias. Absuelto con sentencia firme en 2022."
 
-  - nombre: "Ana Belén Colmenarejo"
-    cargo: "Concejala del PP en Colmenar Viejo"
-    rol: "Procesada por prevaricación urbanística. Absuelta en 2022"
+  - nombre: "Carlos Blázquez Rodríguez"
+    cargo: "Concejal del PP en Colmenar Viejo (Obras, Contratación y Transparencia) en 2016"
+    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias. Absuelto con sentencia firme en 2022."
 
+  - nombre: "Juan José Serrano Cadahía"
+    cargo: "Concejal del PP en Colmenar Viejo (Seguridad y Transportes) en 2016"
+    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias. Absuelto con sentencia firme en 2022."
+
+  - nombre: "Antonia García Santos"
+    cargo: "Exconcejal del PP en Colmenar Viejo"
+    rol: "Procesada por prevaricación urbanística continuada por las 16 licencias. Absuelta con sentencia firme en 2022."
+
+  - nombre: "Inmaculada Viñoles Riera"
+    cargo: "Exconcejal del PP en Colmenar Viejo"
+    rol: "Procesada por prevaricación urbanística continuada por las 16 licencias. Absuelta con sentencia firme en 2022."
+
+  - nombre: "Justo García Froilán"
+    cargo: "Exconcejal del PP en Colmenar Viejo"
+    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias. Absuelto con sentencia firme en 2022."
+
+  - nombre: "Pablo Colmenarejo Cobeña"
+    cargo: "Exconcejal del PP en Colmenar Viejo"
+    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias. Absuelto con sentencia firme en 2022. Su presencia entre los doce procesados consta en el escrito de acusación recogido por la prensa especializada."
+
+  - nombre: "Pedro Gómez"
+    cargo: "Cargo público del PP en Colmenar Viejo no precisado por las fuentes"
+    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias y absuelto en 2022, según el escrito de acusación recogido por la prensa especializada. Las fuentes discrepan sobre el número total de procesados (once o doce)."
 tags:
   - "corrupción"
   - "prevaricación"
   - "urbanismo"
-  - "licencias irregulares"
+  - "licencias de primera ocupación"
 
-impactoSocial: "El caso generó un intenso debate local en Colmenar Viejo sobre la gestión urbanística del PP y puso en cuestión la práctica de elegir alcaldes procesados. La absolución definitiva fue interpretada de forma opuesta por las partes: el PP la celebró como vindicación, mientras que grupos como Ganemos Colmenar denunciaron que la absolución penal no exoneraba la responsabilidad política por las irregularidades administrativas cometidas."
+impactoSocial: "El caso generó un intenso debate local en Colmenar Viejo sobre la gestión urbanística del PP y puso en cuestión la práctica de mantener al frente del consistorio a cargos procesados, después de que el Pleno eligiera alcalde a Jorge García Díaz estando procesado en la misma causa. La absolución definitiva fue interpretada de forma opuesta por las partes: el PP la celebró como vindicación y reclamó responsabilidades políticas a la oposición, mientras que grupos como Ganemos Colmenar sostuvieron que la absolución penal no exoneraba de responsabilidad política por la tramitación de las licencias. No consta perjuicio económico cuantificado."
 
 documentos: []
 
 cronologia:
-  - fecha: "2006-01-01"
-    titulo: "Inicio de las licencias irregulares"
-    descripcion: "El Ayuntamiento de Colmenar Viejo, gobernado por el PP, comienza a conceder licencias de primera ocupación en contra de los informes desfavorables de sus propios técnicos municipales. Las obras afectadas no se ajustaban a los proyectos aprobados, con infracciones que incluían excesos de altura sobre los máximos legales y cambios de materiales sin autorización. Esta práctica se prolongará hasta 2014 y afectará a un total de 16 expedientes urbanísticos."
-    type: "resumen"
+  - fecha: "2016-09-12"
+    titulo: "La Audiencia Provincial confirma el procesamiento de doce cargos públicos"
+    descripcion: "La Sección Cuarta de la Audiencia Provincial de Madrid desestima los recursos y confirma el auto del Juzgado de Instrucción nº 3 de Colmenar Viejo, que dio por finalizada la instrucción y procesó a doce cargos públicos del PP por un delito continuado de prevaricación urbanística. La causa se refiere a la concesión de 16 licencias urbanísticas, en su mayoría de primera ocupación, con informes técnicos y jurídicos desfavorables. El auto de la Audiencia está fechado el 12 de septiembre de 2016."
+    type: "imputación"
+    relevancia: "alta"
     urls:
-      - "https://www.eldiario.es/madrid/colmenar-viejo-licencias-urbanisticas-irregulares_1_3748829.html"
-
-  - fecha: "2014-01-01"
-    titulo: "Denuncia de la arquitecta municipal a la Fiscalía"
-    descripcion: "Una arquitecta municipal de Colmenar Viejo presenta una denuncia ante la Fiscalía de Medio Ambiente de Madrid alertando de las irregularidades cometidas por el Ayuntamiento en la concesión de licencias de primera ocupación. La denuncia detalla actuaciones contra informes técnicos propios y la falta de ejercicio de las potestades sancionadoras del consistorio, siempre en beneficio de arquitectos con encargos habituales en el municipio. La denuncia se suma a una queja anónima anterior que ya había activado una investigación previa."
-    type: "denuncia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Colmenar+Viejo&numero=379"
-
-  - fecha: "2016-09-01"
-    titulo: "La Fiscalía remite denuncia a los juzgados"
-    descripcion: "La Sección de Medio Ambiente de la Fiscalía Provincial de Madrid valida la denuncia y la remite formalmente a los juzgados de Colmenar Viejo. El escrito acusa a 8 miembros de la corporación municipal y a dos técnicos de prevaricación por dejar de ejercer funciones públicas para favorecer a determinados arquitectos con encargos municipales entre 2006 y 2014. El Juzgado de Instrucción número 3 de Colmenar Viejo abre diligencias y procesa a los dos exalcaldes, al alcalde en funciones y a diez concejales y exconcejales del PP."
-    type: "investigación"
-    urls:
+      - "https://www.elconfidencial.com/espana/madrid/2016-09-15/colmenar-viejo-prevaricacion-pp-audiencia-procesa-banquillo_1260138/"
       - "https://www.eldiario.es/madrid/colmenar-viejo-licencias-urbanisticas-irregulares_1_3748829.html"
 
   - fecha: "2016-11-10"
     titulo: "Dimisión del alcalde Miguel Ángel Santamaría"
-    descripcion: "Miguel Ángel Santamaría presenta su dimisión como alcalde de Colmenar Viejo dos días después de que se hiciera público que sería juzgado junto al exalcalde José María de Federico y diez concejales y exconcejales por presunta prevaricación urbanística continuada. Santamaría formaliza su renuncia en un pleno extraordinario y también abandona su cargo de asesor del Centro de Asuntos Taurinos de la Comunidad de Madrid, organismo dependiente del gobierno regional. El PP de Colmenar inicia el proceso para elegir un nuevo alcalde."
+    descripcion: "Miguel Ángel Santamaría presenta su dimisión como alcalde de Colmenar Viejo tras conocerse su procesamiento en la causa de las 16 licencias de primera ocupación. Santamaría, que había sido vocal del Centro de Asuntos Taurinos de la Comunidad de Madrid, fue el primer alcalde madrileño del PP que sería juzgado en la etapa de Cristina Cifuentes."
     type: "resumen"
+    relevancia: "media"
     urls:
-      - "https://www.elboletin.com/nacional-141827-dimite-alcalde-colmenar-viejo-prevaricacion-html/"
+      - "https://www.elconfidencial.com/espana/madrid/2016-11-10/dimite-dimision-alcalde-colmenar-viejo-prevaricacion-santamaria_1287733"
       - "https://www.telemadrid.es/noticias/madrid/Dimite-Colmenar-Viejo-imputado-prevaricacion-0-1847215304--20161110053911.html"
 
-  - fecha: "2016-12-01"
-    titulo: "El PP elige como nuevo alcalde a Jorge García, también procesado"
-    descripcion: "El Partido Popular de Colmenar Viejo designa a Jorge García como nuevo alcalde del municipio pese a estar también procesado en el mismo expediente judicial que provocó la dimisión de su predecesor. La decisión genera críticas de los grupos de la oposición, que denuncian que el PP antepone sus intereses electorales a la ética institucional. Jorge García asume la alcaldía mientras el proceso judicial sigue su curso, convirtiéndose en el tercer alcalde del PP en ejercicio en estar sometido a este procedimiento penal."
+  - fecha: "2016-11-22"
+    titulo: "El PP elige nuevo alcalde a Jorge García Díaz, también procesado"
+    descripcion: "El Pleno municipal elige alcalde a Jorge García Díaz, primer teniente de alcalde y también procesado en la misma causa, ante la falta de acuerdo de los grupos de la oposición. García Díaz había sido concejal de Cultura en 2012 y, según sostuvo durante el proceso, solo participó en la decisión de una de las licencias."
     type: "resumen"
+    relevancia: "media"
     urls:
       - "https://www.eldiario.es/madrid/pp-colmenar-jorge-garcia-predecesor_1_3728544.html"
 
   - fecha: "2021-06-22"
     titulo: "Inicio del juicio oral"
-    descripcion: "Comienza el juicio oral ante el Juzgado de lo Penal número 11 de Madrid contra los tres alcaldes del PP, la segunda teniente de alcalde y ocho concejales y exconcejales acusados de prevaricación urbanística continuada. La Fiscalía solicita penas de entre dos y tres años y medio de prisión y hasta diez años de inhabilitación para los acusados. El alcalde en funciones Jorge García comparece ante el tribunal afirmando que nunca ha prevaricado y que las decisiones se tomaron buscando el bienestar de los vecinos. Los acusados defienden que concedieron las licencias sin conocer que actuaban ilegalmente."
-    type: "investigación"
+    descripcion: "Comienza ante el Juzgado de lo Penal nº 11 de Madrid el juicio oral contra el alcalde, dos exalcaldes y diez concejales y exconcejales del PP por un delito continuado de prevaricación urbanística. La Fiscalía pedía penas de entre dos años y tres años y medio de prisión y hasta diez años de inhabilitación. El juicio se prolongó los días 23 y 25 de junio y el 1 de julio de 2021."
+    type: "juicio"
+    relevancia: "alta"
     urls:
       - "https://www.telemadrid.es/noticias/madrid/Colmenar-Jorge-Garcia-declarara-prevaricacion-0-2350864910--20210616013714.html"
       - "https://confilegal.com/20210621-la-fiscalia-pide-dos-anos-de-carcel-para-el-alcalde-de-colmenar-viejo-madrid-por-prevaricacion/"
 
-  - fecha: "2022-01-12"
-    titulo: "Sentencia absolutoria del Juzgado de lo Penal nº 11"
-    descripcion: "El Juzgado de lo Penal número 11 de Madrid dicta sentencia absolutoria para los tres alcaldes y los diez concejales y exconcejales del PP de Colmenar Viejo acusados de prevaricación urbanística continuada. El tribunal considera que no se ha probado que los acusados actuaran con ánimo de actuar de forma ilegal, que las decisiones adoptadas en los plenos municipales no fueron arbitrarias ni injustas, y que las deficiencias detectadas eran de muy poca importancia. La sentencia concluye que, en muchos casos, las licencias se concedieron buscando la solución más beneficiosa para los vecinos afectados. La absolución es celebrada por el PP como una vindicación tras siete años de proceso judicial."
+  - fecha: "2021-12-23"
+    titulo: "Sentencia absolutoria del Juzgado de lo Penal nº 11 de Madrid"
+    descripcion: "El Juzgado de lo Penal nº 11 de Madrid dicta sentencia absolutoria para los doce acusados. El tribunal niega que concurra el delito de prevaricación al no haberse acreditado que actuaran «con ánimo de actuar de forma ilegal» ni que las decisiones de la Junta de Gobierno fueran arbitrarias o injustas; aprecia que los informes técnicos eran preceptivos pero no vinculantes y que no consta que se beneficiara ilícitamente a ningún acusado. Contra la resolución cabía recurso ante la Audiencia Provincial de Madrid."
     type: "sentencia"
+    relevancia: "alta"
     urls:
-      - "https://www.telemadrid.es/noticias/madrid/Absueltos-PP-Colmenar-Viejo-prevaricacion-0-2413858634--20220112044542.html"
+      - "https://dikeiabogados.com/absueltos-los-ex-alcaldes-de-colmenar-viejo-madrid-acusados-de-prevaricacion/"
+      - "https://www.europapress.es/madrid/noticia-audiencia-madrid-confirma-firme-absolucion-alcalde-colmenar-dos-ediles-20220718144445.html"
       - "https://www.madridiario.es/absuelto-alcalde-colmenar-viejo-prevaricacion-urbanistica"
-      - "https://okdiario.com/madrid/justicia-absuelve-alcalde-colmenar-viejo-pp-dos-sus-antecesores-prevaricacion-8410620"
 
-  - fecha: "2022-11-01"
-    titulo: "La Audiencia Provincial confirma la absolución definitiva"
-    descripcion: "La Audiencia Provincial de Madrid desestima los recursos interpuestos por la Fiscalía contra la sentencia absolutoria de enero de 2022 y confirma de forma definitiva la absolución de los tres alcaldes y los concejales del PP de Colmenar Viejo. El fallo de segunda instancia ratifica que los acusados no actuaron con intención de vulnerar la legalidad urbanística y cierra definitivamente el procedimiento penal. La absolución definitiva pone fin a un proceso judicial que se prolongó durante más de siete años y afectó políticamente al PP local durante varios mandatos municipales."
+  - fecha: "2022-01-12"
+    titulo: "Se publica la sentencia absolutoria"
+    descripcion: "El CGPJ y los medios dan a conocer la sentencia absolutoria dictada el 23 de diciembre de 2021. La nota oficial del Consejo General del Poder Judicial recoge que la resolución era recurrible ante la Audiencia Provincial de Madrid."
     type: "sentencia"
+    relevancia: "media"
     urls:
-      - "https://www.madridnorte24horas.com/colmenar-viejo/politica-local-colmenar-viejo/absolucion-definitiva-para-los-alcaldes-y-ediles-del-pp-de-colmenar-viejo/"
-      - "https://www.madridiario.es/confirmada-absolucion-alcalde-colmenar-viejo-delito-prevaricacion-urbanistica"
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/Absueltos-de-un-delito-continuado-de-prevaricacion-urbanistica-a-los-doce-cargos-publicos-del-ayuntamiento-de-Colmenar-Viejo--Madrid--"
+      - "https://www.abc.es/espana/madrid/abci-absuelto-alcalde-colmenar-viejo-delito-prevaricacion-urbanistica-202201121913_noticia.html"
 
+  - fecha: "2022-07-18"
+    titulo: "Se conoce la sentencia de apelación que confirma la absolución en firme"
+    descripcion: "La Sección Tercera de la Audiencia Provincial de Madrid desestima íntegramente el recurso de apelación de la Fiscalía, al que se adhirió la acusación particular, y confirma la absolución, que queda firme; la prensa señala que contra la resolución no cabía recurso. El 18 de julio de 2022 es la fecha en que la sentencia se hizo pública; la fecha exacta de la resolución no consta."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.europapress.es/madrid/noticia-audiencia-madrid-confirma-firme-absolucion-alcalde-colmenar-dos-ediles-20220718144445.html"
+      - "https://www.madridnorte24horas.com/articulo/colmenar-viejo/absolucion-definitiva-para-los-alcaldes-y-ediles-del-pp-de-colmenar-viejo/20220718135348095138.html"
+      - "https://cadenaser.com/cmadrid/2022/07/18/la-audiencia-provincial-de-madrid-desestima-la-apelacion-y-confirma-la-sentencia-que-absolvio-a-los-ex-alcaldes-de-colmenar-viejo-ser-madrid-norte/"
+      - "https://www.madridiario.es/confirmada-absolucion-alcalde-colmenar-viejo-delito-prevaricacion-urbanistica"
 ---
+
+## Límites de la revisión
+
+Esta ficha documenta la causa de las 16 licencias de primera ocupación instruida por el Juzgado de Instrucción nº 3 de Colmenar Viejo, juzgada por el Juzgado de lo Penal nº 11 de Madrid y cerrada con la absolución firme confirmada por la Audiencia Provincial de Madrid en julio de 2022.
+
+- No se ha localizado el texto oficial, el ECLI ni el PDF de la sentencia de instancia (23 de diciembre de 2021) ni de la de apelación. La información procede de notas oficiales del CGPJ y de prensa (Europa Press, ABC, Telemadrid, Madridiario, Cadena SER, El Confidencial, eldiario.es, Crónica Norte y el despacho defensor Dikei).
+- La fecha exacta de la sentencia de apelación no consta. El 18 de julio de 2022 es la fecha en que se hizo pública. La firmeza se recoge de las crónicas (Europa Press, Madrid Norte 24 Horas y el despacho defensor), que señalan que contra la resolución no cabía recurso, pero no se ha localizado la propia resolución.
+- La numeración que cita la prensa local («Sentencia 5/2022», «Procedimiento Abreviado 170/2017») no se ha confirmado con resolución oficial, por lo que no se consigna en el campo `numeroSentencia`.
+- Las fuentes discrepan en el número de procesados (once según algunas crónicas y doce según la nota del CGPJ de 2022) y en el alcance temporal de los hechos (a partir de 2006; en torno a 2008 según Telemadrid; 2006-2012 según el despacho defensor). No se atribuyen actos ilícitos declarados judicialmente: los hechos se describen como acusación de la Fiscalía y las licencias no fueron declaradas irregulares por una condena, ya que la causa terminó en absolución.
+- No consta perjuicio económico cuantificado (el campo `coste` se mantiene en 0 por ausencia de importe documentado).
+- Esta ficha se refiere solo a la causa de las 16 licencias. Otras actuaciones sobre el urbanismo del municipio son procedimientos distintos, en particular la resolución de 2023 recogida en la ficha «Colmenar Viejo II». No forman parte de esta ficha otras causas, condenas ni medidas de gracia ajenas a este expediente.
