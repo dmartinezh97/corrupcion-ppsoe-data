@@ -7,7 +7,7 @@ fechaInicio: 2010-01-15
 fechaFin: ""
 estado: "sentencia firme"
 descripcion: |
-  El "caso Baltar" reúne varias actuaciones judiciales y periodísticas relacionadas con la Diputación de Ourense durante el control de la familia Baltar. La causa con resolución firme se centra en la contratación temporal irregular de 104 personas en el primer trimestre de 2010 por el entonces presidente de la Diputación, José Luis Baltar Pumar (en el cargo entre 1990 y el 27 de enero de 2012). La sentencia 273/2014, de 16 de julio de 2014, del Juzgado de lo Penal nº 1 de Ourense (Juicio Oral 478/2013, Diligencias Previas 34/2013) le condenó por un delito continuado de prevaricación (art. 404 CP) a nueve años de inhabilitación especial para empleo o cargo público y al pago de las costas, sin fijar responsabilidad civil. La sentencia declaró probado que firmó ocho decretos entre el 15 de enero y el 17 de marzo de 2010 para formalizar 104 contratos temporales por el procedimiento de urgencia, sin publicidad de las plazas, sin fiscalización previa y sin respetar los principios de mérito y capacidad. La Sección Segunda de la Audiencia Provincial de Ourense desestimó los recursos y confirmó la condena mediante la sentencia 83/2015, de 11 de marzo de 2015 (rollo de apelación 48/2015), que declara la resolución firme y contra la que no cabe recurso. Baltar Pumar había dejado la Presidencia de la Diputación el 27 de enero de 2012.
+  El "caso Baltar" reúne varias actuaciones judiciales y periodísticas relacionadas con la Diputación de Ourense durante las presidencias de José Luis Baltar Pumar y Manuel Baltar. La causa con resolución firme se centra en la contratación temporal irregular de 104 personas en el primer trimestre de 2010 por el entonces presidente de la Diputación, José Luis Baltar Pumar (en el cargo entre 1990 y el 27 de enero de 2012). La sentencia 273/2014, de 16 de julio de 2014, del Juzgado de lo Penal nº 1 de Ourense (Juicio Oral 478/2013, Diligencias Previas 34/2013) le condenó por un delito continuado de prevaricación (art. 404 CP) a nueve años de inhabilitación especial para empleo o cargo público y al pago de las costas, sin fijar responsabilidad civil. La sentencia declaró probado que firmó ocho decretos entre el 15 de enero y el 17 de marzo de 2010 para formalizar 104 contratos temporales por el procedimiento de urgencia, sin publicidad de las plazas, sin fiscalización previa y sin respetar los principios de mérito y capacidad. La Sección Segunda de la Audiencia Provincial de Ourense desestimó los recursos y confirmó la condena mediante la sentencia 83/2015, de 11 de marzo de 2015 (rollo de apelación 48/2015), que declara la resolución firme y contra la que no cabe recurso. Baltar Pumar había dejado la Presidencia de la Diputación el 27 de enero de 2012.
 
   La ficha recoge también actuaciones conexas: la imputación de José Luis Baltar Pumar por presunto cohecho en la Operación Pokemon (junio-julio de 2014), una macrocausa instruida por el Juzgado de Instrucción nº 1 de Lugo cuyo resultado respecto a él no se ha localizado; la causa de 2016-2017 por el presunto ofrecimiento de empleo a cambio de favores sexuales, en la que fue citado como investigado el jefe de Personal José Luis Suárez y que fue sobreseída provisionalmente en mayo de 2017; la compra por 2,7 millones de euros del archivo histórico del diario La Región durante la presidencia de Manuel Baltar (acordada por decreto en 2017), anulada por los tribunales en 2019 y de nuevo en 2022, con confirmación del TSXG en julio de 2023 y orden de restitución en enero de 2024; y la condena del senador Manuel Baltar por un delito contra la seguridad vial (STS 25/2025, de 17 de enero de 2025) por conducir a más de 200 km/h un vehículo oficial en abril de 2023, con multa de 1.800 euros y privación del carné de conducir durante un año y un día.
 
@@ -19,6 +19,7 @@ tribunal:
   - "Juzgado de lo Penal nº 1 de Ourense"
   - "Audiencia Provincial de Ourense - Sección Segunda"
   - "Juzgado de Instrucción nº 1 de Ourense"
+  - "Juzgado de Instrucción nº 3 de Ourense (causa de 2016-2017)"
   - "Juzgado de Instrucción nº 1 de Lugo (Operación Pokemon)"
   - "Tribunal Supremo - Sala de lo Penal"
 numeroSentencia: "Juzgado de lo Penal nº 1 de Ourense: sentencia 273/2014, de 16/07/2014 (Juicio Oral 478/2013); Audiencia Provincial de Ourense - Sección Segunda: sentencia 83/2015, de 11/03/2015 (rollo de apelación 48/2015); Tribunal Supremo: STS 25/2025, de 17/01/2025"
@@ -95,8 +96,8 @@ cronologia:
       - "https://www.europapress.es/nacional/noticia-juez-decreta-apertura-juicio-oral-contra-jose-luis-baltar-penal-ourense-ano-aproximadamente-20130916200906.html"
 
   - fecha: "2013-09-16"
-    titulo: "Auto de apertura de juicio oral contra José Luis Baltar"
-    descripcion: "El Juzgado de Instrucción nº 1 de Ourense decretó la apertura de juicio oral contra José Luis Baltar por prevaricación administrativa, a instancias de la Fiscalía, el PSOE y el sindicato Manos Limpias. El auto fijó como órgano competente el juzgado de lo penal."
+    titulo: "Se conoce el auto de apertura de juicio oral contra José Luis Baltar"
+    descripcion: "Europa Press informa el 16 de septiembre de 2013 del auto, cuya fecha exacta no se ha comprobado. El Juzgado de Instrucción nº 1 de Ourense decretó la apertura de juicio oral contra José Luis Baltar por prevaricación administrativa, a instancias de la Fiscalía, el PSOE y el sindicato Manos Limpias. El auto fijó como órgano competente el juzgado de lo penal."
     type: "investigación"
     relevancia: "media"
     urls:
@@ -139,8 +140,8 @@ cronologia:
       - "https://www.eldiario.es/galicia/imputado-personal-diputacion-ourense-baltar_1_4023945.html"
 
   - fecha: "2017-05-24"
-    titulo: "Sobreseimiento provisional de la causa por acoso sexual y cohecho"
-    descripcion: "El Juzgado de Instrucción nº 3 de Ourense acordó el sobreseimiento provisional y archivo de las actuaciones contra Manuel Baltar por presuntos delitos de acoso sexual y cohecho, al considerar que no se acreditó la relación de dependencia exigida ni que hubiera dado instrucciones para contratar a la denunciante. El auto sobreseyó también a José Luis Baltar Pumar y al jefe de Personal, José Luis Suárez. Se trata de un sobreseimiento provisional."
+    titulo: "Se conoce el sobreseimiento provisional de la causa por acoso sexual y cohecho"
+    descripcion: "La fecha corresponde a las noticias; no se ha comprobado el día exacto del auto. El Juzgado de Instrucción nº 3 de Ourense acordó el sobreseimiento provisional y archivo de las actuaciones contra Manuel Baltar por presuntos delitos de acoso sexual y cohecho, al considerar que no se acreditó la relación de dependencia exigida ni que hubiera dado instrucciones para contratar a la denunciante. El auto sobreseyó también a José Luis Baltar Pumar y al jefe de Personal, José Luis Suárez. Se trata de un sobreseimiento provisional."
     type: "resumen"
     relevancia: "media"
     urls:
