@@ -3,7 +3,6 @@ nombre: "Caso Abogados Melilla"
 partido: "PP"
 completado: false
 año: 2015
-fechaInicio: ""
 fechaFin: "2019-01-11"
 estado: "cerrado con condenas"
 descripcion: |
@@ -147,7 +146,7 @@ Esta ficha se ha contrastado con fuentes hemerográficas (Europa Press, El País
 - **Causa de Imbroda archivada.** La ficha presentaba a Imbroda como "investigado" sin más. El Tribunal Supremo se declaró competente en febrero de 2015, pero archivó la causa en abril de 2015 y rechazó el recurso de la Fiscalía en julio de 2015 por considerar prescrito el delito.
 - **Fechas.** Inicio del juicio: 12 de junio de 2017 (no el 1 de junio). Primera instancia: la prensa publicó el fallo el 6 de octubre de 2017 (otros medios, el 7 y el 8); la sentencia se había comunicado de forma oficiosa a los acusados a finales de septiembre, por lo que el 6 de octubre es la fecha de conocimiento público y no consta acreditado el día exacto de la resolución. Apelación: la sentencia se emitió el 11 de enero de 2019 (El Faro de Melilla, 12-01-2019: "la sentencia emitida ayer"; MelillaHoy la publicó la tarde del 11-01). `fechaFin`: 11 de enero de 2019, fecha de la resolución de apelación.
 - **Coste.** El importe de los 91 contratos se fija en la sentencia en 1.114.510,91 euros; `coste` recoge ese valor exacto (1.114.510,91) sin redondear. El importe corresponde al volumen económico del gasto público contratado, no a un daño o perjuicio acreditado de forma autónoma: la condena lo fue por prevaricación administrativa, no por malversación.
-- **Trazabilidad de fechas no acreditadas.** Se retiran del array `cronologia` todos los eventos cuyo día exacto no consta (inicio del sistema en 2003, querella de ALA en 2011 y cierre del periodo en 2013). El periodo 2003-2013 y el año 2011 de la querella de ALA se describen en `descripcion` y en esta nota, sin asignarles un día concreto; `fechaInicio` queda vacío al no constar el día inicial.
+- **Trazabilidad de fechas no acreditadas.** Se retiran del array `cronologia` todos los eventos cuyo día exacto no consta (inicio del sistema en 2003, querella de ALA en 2011 y cierre del periodo en 2013). El periodo 2003-2013 y el año 2011 de la querella de ALA se describen en `descripcion` y en esta nota, sin asignarles un día concreto; se omite `fechaInicio` al no constar el día inicial.
 - **Implicados.** Se corrige la filiación de Rafael Hernández Soler, que era del PSOE y no del PP. Se retira a Daniel Conesa de la lista por corresponder su imputación a la Operación Tosca, no al caso Abogados. Se elimina la atribución de "consejera de Recursos Humanos" a Inés Urdiales (fue exdiputada de la coalición PP-UPM y exconsejera). Se reformula el papel de Juan Jesús Olivares (letrado de la contratación de 2001, no uno de los cuatro letrados de Bienestar Social).
 - **Documentos.** No se han localizado documentos judiciales descargables verificables, por lo que se usa `documentos: []` (antes `null`).
 
