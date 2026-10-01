@@ -1,68 +1,66 @@
 ---
 nombre: "Caso EMVS II - Venta de viviendas a fondos buitre"
 partido: PP
-completado: true
+completado: false
 año: 2013
 fechaInicio: "2013-05-03"
-fechaFin: "2022-02-08"
-estado: "archivado"
+fechaFin: "2022-01-28"
+estado: "desconocido"
 descripcion: |
-  El Caso EMVS II se centra en la venta irregular de 1.860 viviendas de protección oficial, locales comerciales y garajes públicos realizada por la Empresa Municipal de la Vivienda y Suelo de Madrid (EMVS) durante el mandato de Ana Botella como alcaldesa de Madrid. La operación, ejecutada en 2013, consistió en la venta de 18 promociones inmobiliarias al fondo de inversión Magic Real Estate (Blackstone) a través de su filial Fidere Vivienda por un importe de 128 millones de euros, cuando el valor contable de estos inmuebles ascendía a 159 millones de euros.
+  Respuesta judicial a la venta en bloque de 1.860 viviendas de protección pública (con 1.797 plazas de garaje y 1.569 trasteros, en 18 promociones) de la Empresa Municipal de la Vivienda y Suelo (EMVS) de Madrid a Fidere Vivienda S.L.U. y Fidere Gestión S.L.U., sociedades instrumentales de Magic Real Estate (grupo Blackstone). El anuncio de venta se publicó el 3 de mayo de 2013 y la operación se formalizó el 31 de octubre de 2013, durante el mandato de Ana Botella (PP) como alcaldesa de Madrid.
 
-  La investigación judicial reveló múltiples irregularidades en el proceso de venta. Según el informe de la Cámara de Cuentas de la Comunidad de Madrid, la operación se realizó sin fijar previamente los inmuebles a enajenar, se proporcionó información privilegiada a cuatro compañías antes del anuncio público de la operación el 3 de mayo de 2013, se vendió por debajo del precio de mercado, y se realizaron pagos a intermediarias sin justificación de servicios necesarios. El Ayuntamiento de Madrid violó las reglas más básicas de gestión pública al realizar la venta con opacidad, sin competencia de otros interesados y por debajo del valor de mercado.
+  La ficha recoge dos vías distintas, que no deben confundirse. Vía contable (Tribunal de Cuentas): la sentencia 11/2018, de 27 de diciembre de 2018, de la Sección de Enjuiciamiento, condenó como responsables contables a Ana Botella y a los miembros de su Junta de Gobierno Concepción Dancausa Treviño, José Enrique Núñez Guijarro, Diego Sanjuanbenito Bonal, Paz González García, María Dolores Navarro Ruiz y Pedro Corral Corral, así como al exconsejero delegado de la EMVS Fermín Oslé Uranga: 22.711.518 euros para la exalcaldesa y la Junta, y 25.752.103,63 euros para Oslé. La Sección de Enjuiciamiento revocó esa condena el 17 de julio de 2019 y absolvió a todos; el Tribunal Supremo cerró la vía contable el 11 de junio de 2020 al rechazar, por falta de legitimación, la queja o recurso de la concejala socialista Mercedes González, que actuaba como vecina. No consta un pronunciamiento del Supremo sobre el fondo.
 
-  El caso siguió un complejo proceso judicial en varias instancias. En enero de 2015, el Juzgado de Instrucción número 38 de Madrid sobreseyó inicialmente la causa. Sin embargo, en octubre de 2017, la Audiencia Provincial de Madrid ordenó por primera vez la reapertura de las diligencias al considerar la eventual presencia de delitos de prevaricación administrativa, malversación de fondos públicos y fraude. En mayo de 2019, la Audiencia Provincial ordenó una segunda reapertura de la investigación tras estimar los recursos presentados por el PSOE de Madrid, la EMVS y la Asociación de Afectados.
+  Vía penal (Juzgado de Instrucción número 38 y Audiencia Provincial de Madrid): tras un primer sobreseimiento (auto del Juzgado de Instrucción número 38 de 8 de enero de 2015), la Sección 30 de la Audiencia Provincial ordenó reabrir la causa (auto de 29 de septiembre de 2017, conocido por prensa el 16 de octubre) y, tras un nuevo archivo en enero de 2019, acordó una segunda reapertura (28 de mayo de 2019). Solo fueron acusados Fermín Oslé Uranga y Alfonso Benavides Grases, apoderado de Fidere, por presuntos delitos de prevaricación administrativa, malversación de caudales públicos y fraude. El juicio se celebró en la Audiencia Provincial de Madrid desde el 2 de noviembre de 2021; el Ayuntamiento de Madrid retiró su acusación el 22 de noviembre de 2021 y el fiscal Salvador Ortolá pidió la absolución. La sentencia, fechada el 28 de enero de 2022 y conocida el 8 de febrero de 2022, absolvió a ambos acusados y consideró la operación amparada en la legislación vigente. Ana Botella no fue acusada en la vía penal.
 
-  Paralelamente, el Tribunal de Cuentas dictó en diciembre de 2018 una sentencia de primera instancia condenando a Ana Botella y siete miembros de su equipo de gobierno (Concepción Dancausa, Enrique Núñez, Diego Sanjuanbenito, Paz González, Dolores Navarro y Pedro Corral) junto con el exconsejero delegado de EMVS, Fermín Oslé, a devolver de forma solidaria 22,7 millones de euros por realizar la operación saltándose el procedimiento establecido. No obstante, en julio de 2019, la Sala de Enjuiciamiento del Tribunal de Cuentas revocó esta condena inicial y absolvió a todos los implicados.
+  Según el informe definitivo de fiscalización de la Cámara de Cuentas de la Comunidad de Madrid, hecho público el 30 de junio de 2016, no existía justificación suficiente para la venta: se realizó sin fijar previamente el valor de los inmuebles, sin pliegos de condiciones y tras informar de forma privilegiada al menos a cuatro entidades, una de ellas la adjudicataria. El informe cifró el valor contable en 159 millones de euros y el precio máximo de mercado en 151 millones, frente a los 128 millones de la venta.
 
-  En diciembre de 2019, la Audiencia Provincial confirmó que Fermín Oslé Uranga, exconsejero delegado de EMVS, y Alfonso Benavides Grases, representante de Fidere Vivienda, se sentarían en el banquillo acusados de delitos de prevaricación administrativa, malversación de caudales públicos y fraude. El juicio comenzó en noviembre de 2021 en la Audiencia Provincial de Madrid. Durante el proceso, la acusación particular de los afectados y el PSOE solicitaron penas de hasta ocho años de prisión para ambos acusados. Sin embargo, el fiscal Salvador Ortolá solicitó la absolución, argumentando que no concurrían los elementos constitutivos de los delitos imputados, y el Ayuntamiento de Madrid retiró su acusación.
-
-  En febrero de 2022, la Audiencia Provincial de Madrid dictó sentencia absolutoria para Fermín Oslé y Alfonso Benavides, declarando por unanimidad que la operación fue legal y que no existieron irregularidades constitutivas de delito penal. El tribunal archivó definitivamente la causa penal, concluyendo que, aunque pudieron existir deficiencias administrativas en el procedimiento de venta, estas no alcanzaban la entidad de delitos penales. Esta sentencia puso fin a ocho años de investigaciones y procedimientos judiciales sobre una de las operaciones urbanísticas más controvertidas del Ayuntamiento de Madrid durante el gobierno del Partido Popular.
-
-resumen: "Venta irregular de 1.860 viviendas públicas a fondos buitre durante la alcaldía de Ana Botella"
+  Límites y cautelas: el coste de 31.000.000 euros de esta ficha es la diferencia entre el valor contable (159 M€) y el precio de venta (128 M€) según la Cámara de Cuentas; no es el perjuicio declarado por el Tribunal de Cuentas (25,7 M€) ni una cantidad fijada en una sentencia penal. No deben sumarse 31 M€, 25,7 M€ y 22,7 M€. No se ha localizado noticia ni resolución posterior a febrero de 2022 sobre eventuales recursos contra la sentencia absolutoria penal ni sobre su firmeza, por lo que el estado se registra como "desconocido". La ficha solapa con casos/pp/emvs.md, que trata la misma operación y la vía civil de retracto: describen el mismo hecho y sus cifras no deben acumularse.
+resumen: "Venta de 1.860 viviendas de la EMVS a Fidere (Blackstone) en 2013: condena contable del Tribunal de Cuentas en 2018, revocada en 2019, y absolución penal de Oslé y Benavides en 2022"
 coste: 31000000
 lugar: "Madrid, Comunidad de Madrid"
 tribunal:
   - "Juzgado de Instrucción número 38 de Madrid"
-  - "Audiencia Provincial de Madrid"
-  - "Tribunal de Cuentas"
+  - "Audiencia Provincial de Madrid (Sección 30)"
+  - "Tribunal de Cuentas (Sección de Enjuiciamiento)"
+  - "Tribunal Supremo"
 numeroSentencia: ""
 implicados:
   - nombre: "Ana Botella Serrano"
-    cargo: "Alcaldesa de Madrid (PP)"
-    rol: "Investigada por venta irregular; condenada por Tribunal de Cuentas y absuelta en alzada"
+    cargo: "Alcaldesa de Madrid (2011-2015)"
+    rol: "Condenada en primera instancia por el Tribunal de Cuentas en 2018 (vía contable) y absuelta en apelación en 2019, absolución confirmada por el Supremo en 2020. No fue procesada ni acusada en la vía penal."
 
   - nombre: "Fermín Oslé Uranga"
-    cargo: "Consejero Delegado de EMVS"
-    rol: "Absuelto de prevaricación, malversación y fraude en 2022"
+    cargo: "Consejero delegado de EMVS"
+    rol: "Condenado en primera instancia por el Tribunal de Cuentas en 2018 (25.752.103,63 euros) y absuelto en apelación en 2019 (vía contable). Acusado en la vía penal y absuelto por sentencia de 28-01-2022."
 
   - nombre: "Alfonso Benavides Grases"
-    cargo: "Representante de Fidere Vivienda (Blackstone)"
-    rol: "Absuelto de prevaricación, malversación y fraude en 2022"
+    cargo: "Apoderado de Fidere Vivienda (Blackstone)"
+    rol: "Investigado desde 2017; único acusado junto a Oslé en la vía penal y absuelto por sentencia de 28-01-2022."
 
   - nombre: "Concepción Dancausa Treviño"
-    cargo: "Concejala del Consejo de Administración de EMVS"
-    rol: "Condenada por Tribunal de Cuentas; absuelta en segunda instancia"
+    cargo: "Concejala y miembro de la Junta de Gobierno de Madrid; después delegada del Gobierno en Madrid"
+    rol: "Condenada en primera instancia por el Tribunal de Cuentas en 2018 y absuelta en apelación en 2019. No procesada en la vía penal."
 
-  - nombre: "Enrique Núñez Pérez"
-    cargo: "Concejal del Consejo de Administración de EMVS"
-    rol: "Condenado por Tribunal de Cuentas; absuelto en segunda instancia"
+  - nombre: "José Enrique Núñez Guijarro"
+    cargo: "Concejal de Madrid y viceconsejero de Justicia de la Comunidad de Madrid en 2018"
+    rol: "Condenado en primera instancia por el Tribunal de Cuentas en 2018 y absuelto en apelación en 2019. No procesado en la vía penal."
 
   - nombre: "Diego Sanjuanbenito Bonal"
-    cargo: "Concejal del Consejo de Administración de EMVS"
-    rol: "Condenado por Tribunal de Cuentas; absuelto en segunda instancia"
+    cargo: "Concejal y delegado de Medio Ambiente de Madrid; viceconsejero de la Comunidad de Madrid en 2018"
+    rol: "Condenado en primera instancia por el Tribunal de Cuentas en 2018 y absuelto en apelación en 2019. No procesado en la vía penal."
 
-  - nombre: "Paz González Pelegrina"
-    cargo: "Concejala del Consejo de Administración de EMVS"
-    rol: "Condenada por Tribunal de Cuentas; absuelta en segunda instancia"
+  - nombre: "Paz González García"
+    cargo: "Concejala de Urbanismo de Madrid y exdiputada en la Asamblea"
+    rol: "Condenada en primera instancia por el Tribunal de Cuentas en 2018 y absuelta en apelación en 2019. No procesada en la vía penal."
 
-  - nombre: "Dolores Navarro Cuartero"
-    cargo: "Concejala del Consejo de Administración de EMVS"
-    rol: "Condenada por Tribunal de Cuentas; absuelta en segunda instancia"
+  - nombre: "María Dolores Navarro Ruiz"
+    cargo: "Concejala de Torrejón de Ardoz en 2018"
+    rol: "Condenada en primera instancia por el Tribunal de Cuentas en 2018 y absuelta en apelación en 2019. No procesada en la vía penal."
 
   - nombre: "Pedro Corral Corral"
-    cargo: "Concejal del Consejo de Administración de EMVS"
-    rol: "Condenado por Tribunal de Cuentas; absuelto en segunda instancia"
+    cargo: "Concejal de Madrid"
+    rol: "Condenado en primera instancia por el Tribunal de Cuentas en 2018 y absuelto en apelación en 2019. No procesado en la vía penal."
 
 tags:
   - "corrupción"
@@ -72,108 +70,130 @@ tags:
   - "vivienda pública"
   - "fondos buitre"
 
-impactoSocial: "La venta de 1.860 viviendas de protección oficial a un fondo de inversión estadounidense durante la crisis económica generó gran controversia social y política en Madrid. Los afectados denunciaron que perdieron la posibilidad de ejercer el derecho de tanteo y retracto para adquirir sus viviendas, quedando expuestos a las condiciones impuestas por el fondo buitre Blackstone. El caso simbolizó la privatización del patrimonio público municipal en beneficio de fondos de inversión internacionales durante uno de los peores momentos de la crisis de vivienda en España. Aunque la causa penal concluyó con absoluciones, el daño patrimonial al erario público se estimó en 31 millones de euros según los informes de la Cámara de Cuentas."
+impactoSocial: "La venta de 1.860 viviendas protegidas a un fondo de inversión en plena crisis económica generó una amplia contestación social y política en Madrid. El informe de la Cámara de Cuentas señaló que no se dio a los inquilinos la oportunidad de adquirir sus viviendas y que la venta en bloque pudo impedir el ejercicio del derecho de tanteo y retracto; años después, el Tribunal Supremo reconoció ese derecho a algunos arrendatarios (STS 1597/2024, de 28 de noviembre) y lo desestimó para otros (STS 592/2025, de 21 de abril, Pleno de la Sala de lo Civil). Las resoluciones penales y contables, sin embargo, no declararon responsabilidad de los acusados por estos hechos."
 
-documentos: []
+documentos:
+  - fecha: "2025-04-21"
+    titulo: "STS 592/2025 (ECLI:ES:TS:2025:1711), Sala de lo Civil, sobre el retracto arrendaticio de viviendas de la EMVS vendidas a Fidere"
+    filetype: "pdf"
+    paginas: 8
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=48d5f4346135b706a0a8778d75e36f0d&encode=true&databasematch=TS"
 
 cronologia:
   - fecha: "2013-05-03"
-    titulo: "Anuncio público de la operación de venta"
-    descripcion: "El Ayuntamiento de Madrid anuncia públicamente la operación de venta de 1.860 viviendas de protección oficial, locales y garajes de la EMVS. Sin embargo, la investigación posterior reveló que entre diciembre de 2012 y abril de 2013, antes del anuncio público, se había facilitado información privilegiada a cuatro fondos de inversión (incluyendo Magic Real Estate-Blackstone) sobre las condiciones de la venta, eliminando cualquier competencia real."
+    titulo: "Anuncio público de venta de las 18 promociones"
+    descripcion: "La EMVS publica en el diario El País un anuncio de venta de 18 promociones (12 en arrendamiento y 6 en arrendamiento con opción de compra), según el informe definitivo de la Cámara de Cuentas de la Comunidad de Madrid. No es la fecha de la venta: la formalización se produjo el 31 de octubre de 2013."
     type: "resumen"
     urls:
-      - "https://www.eldiario.es/madrid/audiencia-provincial-investigacion-ana-botella_1_3131421.html"
+      - "https://www.elmundo.es/madrid/2017/10/16/59e3a692e5fdea18638b45bc.html"
 
-  - fecha: "2013-10-01"
-    titulo: "Cierre de la venta a Fidere Vivienda"
-    descripcion: "Se formaliza la venta de 18 promociones inmobiliarias con 1.860 viviendas de protección oficial al fondo Magic Real Estate (Blackstone) a través de su filial Fidere Vivienda por 128 millones de euros, pese a que el valor contable ascendía a 159 millones de euros. La operación se ejecuta durante el mandato de Ana Botella como alcaldesa de Madrid."
+  - fecha: "2013-10-31"
+    titulo: "Formalización de la venta a Fidere (Blackstone)"
+    descripcion: "EMVS vende a Fidere Vivienda S.L.U. y Fidere Gestión S.L.U. (sociedades de Magic Real Estate, grupo Blackstone) 1.860 viviendas, 1.797 plazas de garaje y 1.569 trasteros de 18 promociones por un precio en torno a 128 millones de euros, según la STS 592/2025 y el Tribunal de Cuentas. Algunas fuentes periodísticas citan 127 o 128,5 millones."
     type: "resumen"
     urls:
-      - "https://www.eldiario.es/madrid/justicia-viviendas-publicas-ana-botella_1_1530737.html"
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=48d5f4346135b706a0a8778d75e36f0d&encode=true&databasematch=TS"
 
-  - fecha: "2015-01-01"
-    titulo: "Sobreseimiento inicial del caso"
-    descripcion: "El Juzgado de Instrucción número 38 de Madrid acuerda el sobreseimiento de la causa penal, considerando que no existen indicios suficientes de la comisión de delitos. Esta decisión será posteriormente revocada por la Audiencia Provincial tras conocerse el informe de la Cámara de Cuentas."
-    type: "investigación"
+  - fecha: "2015-01-08"
+    titulo: "Sobreseimiento provisional del Juzgado de Instrucción número 38"
+    descripcion: "El Juzgado de Instrucción número 38 de Madrid dicta un auto (fecha citada por EFE: 8 de enero de 2015) que acuerda el sobreseimiento de la querella por la venta. La Asociación de Afectados recurre en apelación ante la Audiencia Provincial."
+    type: "sobreseimiento"
     urls:
-      - "https://www.eldiario.es/madrid/audiencia-provincial-investigacion-ana-botella_1_3131421.html"
+      - "https://www.lavanguardia.com/local/madrid/20150127/54424027143/afectados-por-venta-viviendas-recurren-sobreseimiento-de-querella-contra-emvs.html"
 
   - fecha: "2016-06-30"
-    titulo: "Informe de fiscalización de la Cámara de Cuentas"
-    descripcion: "La Cámara de Cuentas de la Comunidad de Madrid elabora un informe de fiscalización correspondiente a los ejercicios 2012 y 2013 en el que concluye que Ana Botella y su equipo 'violaron las más básicas reglas de gestión' en la operación de venta. El informe documenta que la venta se realizó sin fijar previamente los inmuebles a enajenar, con información privilegiada compartida con cuatro compañías, precio notoriamente inferior al de mercado, y pagos a intermediarias sin justificación."
-    type: "investigación"
+    titulo: "Informe definitivo de fiscalización de la Cámara de Cuentas"
+    descripcion: "La Cámara de Cuentas de la Comunidad de Madrid hace público el informe definitivo sobre la enajenación de patrimonio de la EMVS (ejercicios 2012-2013). Concluye que no había justificación suficiente para la venta, que no se fijó previamente el valor de los inmuebles ni hubo pliegos, que se informó de forma privilegiada a cuatro entidades y que el precio fue inferior al valor contable (159 M€) y al máximo de mercado (151 M€). Este informe se aportó al recurso que reabrió la causa penal."
+    type: "documento"
     urls:
-      - "https://www.eldiario.es/madrid/audiencia-provincial-investigacion-ana-botella_1_3131421.html"
+      - "https://elpais.com/ccaa/2016/06/30/madrid/1467305014_779000.html"
 
-  - fecha: "2017-09-01"
-    titulo: "Publicación del informe de la Cámara de Cuentas"
-    descripcion: "Se hace público el informe de fiscalización de la Cámara de Cuentas sobre los ejercicios 2012 y 2013 de la EMVS, revelando las múltiples irregularidades en el proceso de venta de las viviendas públicas al fondo Blackstone. El informe aporta datos inexistentes en las actuaciones archivadas previamente por el juzgado."
+  - fecha: "2017-09-29"
+    titulo: "Auto de la Sección 30 que ordena reabrir la causa penal"
+    descripcion: "La Sección 30 de la Audiencia Provincial de Madrid dicta un auto, fechado el 29 de septiembre de 2017 (hecho público el 16 de octubre), que estima los recursos del PSOE y de la Asociación de Afectados y ordena reabrir la investigación ante la 'eventual presencia' de delitos de prevaricación, malversación y fraude, a la vista del informe de la Cámara de Cuentas."
     type: "investigación"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+EMVS+II&numero=657"
-
-  - fecha: "2017-10-01"
-    titulo: "Primera reapertura de la investigación"
-    descripcion: "La Audiencia Provincial de Madrid ordena al juzgado de instrucción reabrir por primera vez las diligencias, tras estimar los recursos presentados por el PSOE de Madrid y la asociación de afectados. Los magistrados consideran que existe 'la eventual presencia de delitos de prevaricación, malversación y fraude' en el proceso de venta de las 1.862 viviendas protegidas, basándose en el informe de la Cámara de Cuentas."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/madrid/audiencia-provincial-investigacion-ana-botella_1_3131421.html"
+      - "https://www.elmundo.es/madrid/2017/10/16/59e3a692e5fdea18638b45bc.html"
+      - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1170307"
 
   - fecha: "2017-12-27"
-    titulo: "Declaración de Fermín Oslé y Alfonso Benavides como investigados"
-    descripcion: "Fermín Oslé, exconsejero delegado de la EMVS, y Alfonso Benavides, representante de Fidere Vivienda, comparecen ante el juez como investigados. Oslé asume la máxima responsabilidad en las decisiones de la operación pero declara que nunca había visto a Benavides antes de la firma del contrato. Sin embargo, Benavides contradice esta versión afirmando que mantuvieron varias reuniones previas para definir los términos de la venta."
+    titulo: "Declaración de Oslé y Benavides como investigados"
+    descripcion: "Fermín Oslé (exconsejero delegado de EMVS) y Alfonso Benavides (apoderado de Fidere) declaran como investigados ante el Juzgado de Instrucción número 38 de Madrid. Oslé alega la situación económica 'catastrófica' de la EMVS para justificar la venta."
     type: "declaración"
     urls:
       - "https://www.eldiario.es/madrid/exconsejero-delegado-emvs-sociales-investigado_1_2980472.html"
 
-  - fecha: "2018-12-01"
-    titulo: "Condena del Tribunal de Cuentas en primera instancia"
-    descripcion: "El Tribunal de Cuentas dicta sentencia de primera instancia condenando a Ana Botella y siete miembros de su equipo de gobierno (Concepción Dancausa, Enrique Núñez, Diego Sanjuanbenito, Paz González, Dolores Navarro y Pedro Corral) junto con Fermín Oslé a devolver solidariamente 22,7 millones de euros por realizar la operación saltándose el procedimiento y vendiendo por debajo del valor contable. El tribunal considera probado que la venta se hizo mediante procedimiento ilegal al no garantizar la competencia."
+  - fecha: "2018-12-27"
+    titulo: "Sentencia 11/2018 del Tribunal de Cuentas (vía contable)"
+    descripcion: "La Sección de Enjuiciamiento del Tribunal de Cuentas dicta la sentencia 11/2018, de 27 de diciembre de 2018, que condena a Ana Botella y a los miembros de su Junta de Gobierno (Dancausa, Núñez Guijarro, Sanjuanbenito, Paz González, Dolores Navarro y Pedro Corral) y al exconsejero delegado Fermín Oslé como responsables contables: 22.711.518 euros para la exalcaldesa y la Junta y 25.752.103,63 euros para Oslé. No es una sentencia penal."
     type: "sentencia"
     urls:
-      - "https://www.publico.es/politica/ana-botella-equipo-condenados-pagar-25-millones-euros-venta-pisos-publicos-fondos-buitre.html"
+      - "https://globalpoliticsandlaw.com/ana-botella-condenada/"
+      - "https://www.elmundo.es/madrid/2018/12/28/5c25d945fdddffaf698b456f.html"
 
-  - fecha: "2019-05-29"
-    titulo: "Segunda reapertura de la investigación penal"
-    descripcion: "La Audiencia Provincial de Madrid ordena por segunda vez la reapertura de la investigación sobre la venta de viviendas públicas al fondo Fidere, estimando los recursos presentados por el PSOE de Madrid, EMVS y la Asociación de Afectados. El tribunal considera que el sobreseimiento era 'imposible de mantener' a la luz de los hallazgos de la Cámara de Cuentas."
+  - fecha: "2019-05-28"
+    titulo: "Segunda reapertura de la causa penal"
+    descripcion: "La Sección 30 de la Audiencia Provincial de Madrid ordena reabrir por segunda vez la investigación, tras estimar los recursos del PSOE, la EMVS y la Asociación de Afectados. La decisión se produce después de que el Juzgado de Instrucción número 38 hubiera archivado la causa en enero de 2019 (auto sin día exacto localizado). Fuentes de EFE sitúan el auto el 28 de mayo de 2019 y su publicación al día siguiente."
     type: "investigación"
     urls:
-      - "https://confilegal.com/20190529-la-audiencia-provincial-reabre-el-caso-de-la-venta-de-vivienda-publica-a-un-fondo-buitre-por-el-equipo-de-ana-botella/"
+      - "https://www.eldiario.es/madrid/justicia-viviendas-publicas-ana-botella_1_1530737.html"
 
   - fecha: "2019-07-17"
-    titulo: "Revocación de la condena del Tribunal de Cuentas"
-    descripcion: "La Sala de Enjuiciamiento del Tribunal de Cuentas revoca su propia condena de primera instancia y absuelve a Ana Botella y los siete miembros de su equipo que habían sido condenados a pagar 22,7 millones de euros. Esta decisión contradice el fallo inicial que había considerado probadas las irregularidades administrativas y el perjuicio económico al erario público."
+    titulo: "Revocación y absolución en el Tribunal de Cuentas (vía contable)"
+    descripcion: "La Sección de Enjuiciamiento del Tribunal de Cuentas revoca su sentencia 11/2018 y absuelve a Ana Botella y a los demás condenados. La decisión fue recurrida sin éxito por una concejala socialista."
     type: "sentencia"
     urls:
       - "https://www.elindependiente.com/economia/2019/07/17/el-tribunal-de-cuentas-revoca-la-condena-a-ana-botella-por-vender-pisos-a-fondos-buitre/"
 
-  - fecha: "2019-12-01"
+  - fecha: "2019-12-05"
     titulo: "Confirmación del procesamiento de Oslé y Benavides"
-    descripcion: "La Audiencia Provincial de Madrid confirma que Fermín Oslé Uranga y Alfonso Benavides Grases se sentarán en el banquillo acusados de presuntos delitos de prevaricación administrativa, malversación de caudales públicos y fraude en la venta de las 1.860 viviendas públicas. Ana Botella no es procesada en la vía penal."
+    descripcion: "La Audiencia Provincial de Madrid desestima los recursos y confirma el procesamiento de Fermín Oslé Uranga y Alfonso Benavides Grases por prevaricación administrativa, malversación de caudales públicos y fraude. Ana Botella no fue procesada en la vía penal."
     type: "imputación"
     urls:
       - "https://www.eldiario.es/madrid/audiencia-provincial-madrid-emvs-botella_1_1186569.html"
+      - "https://www.infolibre.es/politica/investigados-venta-1-860-viviendas-publicas-epoca-botella-sentaran-banquillo_1_1178091.html"
 
-  - fecha: "2021-11-01"
-    titulo: "Inicio del juicio en la Audiencia Provincial"
-    descripcion: "Comienza el juicio en la Audiencia Provincial de Madrid contra Fermín Oslé y Alfonso Benavides por la presunta venta irregular de 1.860 viviendas de la EMVS al fondo buitre Blackstone. La acusación particular de los afectados y el PSOE solicitan penas de hasta ocho años de prisión por delitos de prevaricación, malversación y fraude. El fiscal Salvador Ortolá solicita la absolución argumentando que no concurren los elementos constitutivos de los delitos."
-    type: "resumen"
+  - fecha: "2020-06-11"
+    titulo: "El Supremo rechaza la queja de Mercedes González (vía contable)"
+    descripcion: "El Tribunal Supremo rechaza la queja o recurso de casación de la concejala socialista Mercedes González, que actuaba como vecina, contra el Tribunal de Cuentas, al no apreciar legitimación. No es una sentencia sobre el fondo: confirma la clausura de la vía contable."
+    type: "recurso"
     urls:
-      - "https://www.madridactual.es/noticias-regionales/tribunales/madrid-a-juicio-el-caso-de-la-venta-de-1-860-viviendas-de-la-emvs-a-un-fondo-de-inversion-en-el-mandato-de-ana-botella-20211029-7796568.html"
+      - "https://www.abc.es/espana/madrid/abci-supremo-confirma-absolucion-botella-venta-pisos-emvs-fondo-202006111958_noticia.html"
+
+  - fecha: "2021-11-02"
+    titulo: "Inicio del juicio oral"
+    descripcion: "Comienza en la Audiencia Provincial de Madrid el juicio contra Fermín Oslé y Alfonso Benavides. La acusación particular (PSOE y Asociación de Afectados) solicita hasta ocho años de prisión por prevaricación, malversación y fraude; el fiscal Salvador Ortolá pide la absolución."
+    type: "juicio"
+    urls:
+      - "https://cadenaser.com/emisora/2021/11/02/radio_madrid/1635842095_815472.html"
 
   - fecha: "2021-11-22"
-    titulo: "Retirada de la acusación municipal"
-    descripcion: "El Ayuntamiento de Madrid, gobernado por José Luis Martínez-Almeida (PP), retira su acusación contra Fermín Oslé y Alfonso Benavides durante el juicio, considerando que no existe responsabilidad penal para los dos acusados. Esta decisión se alinea con la postura del fiscal y se produce en el mismo gobierno municipal del mismo partido político que realizó la operación investigada."
-    type: "resumen"
+    titulo: "El Ayuntamiento de Madrid retira su acusación"
+    descripcion: "El Ayuntamiento de Madrid (PP, con José Luis Martínez-Almeida como alcalde) retira su acusación en el juicio al considerar que no existe responsabilidad penal de los acusados, alineándose con la petición del fiscal."
+    type: "juicio"
     urls:
-      - "https://www.cope.es/actualidad/espana/noticias/ayuntamiento-madrid-retira-acusacion-por-venta-irregular-vpo-fiscal-denuncia-juicio-politico-20211122_1633423"
+      - "https://www.madridiario.es/ayuntamiento-madrid-retira-acusacion-juicio-emvs"
 
-  - fecha: "2022-02-08"
+  - fecha: "2022-01-28"
     titulo: "Sentencia absolutoria de la Audiencia Provincial"
-    descripcion: "La Audiencia Provincial de Madrid dicta sentencia absolutoria por unanimidad para Fermín Oslé y Alfonso Benavides, declarando que la operación fue legal y no existieron irregularidades constitutivas de delito. El tribunal archiva definitivamente la causa penal ocho años después de la venta, concluyendo que aunque pudieron existir deficiencias administrativas, estas no alcanzan la entidad de delitos penales. La sentencia pone fin al caso EMVS II en la jurisdicción penal."
+    descripcion: "La Audiencia Provincial de Madrid dicta sentencia, fechada el 28 de enero de 2022 y conocida el 8 de febrero de 2022, que absuelve a Fermín Oslé y Alfonso Benavides y considera la operación amparada en la legislación vigente. No se ha localizado documentación posterior que acredite si fue recurrida o si devino firme."
     type: "sentencia"
     urls:
-      - "https://www.eldiario.es/madrid/justicia-absuelve-responsables-venta-viviendas-sociales-fondos-buitre-durante-gobierno-ana-botella_1_8726935.html"
-      - "https://www.elindependiente.com/economia/2022/02/08/absueltos-los-responsables-de-la-venta-de-vpo-durante-la-alcaldia-de-ana-botella/"
+      - "https://cadenaser.com/2022/02/08/archivada-la-causa-por-la-venta-de-1860-pisos-de-la-emvs-al-fondo-fidere/"
+      - "https://www.elmundo.es/madrid/2022/02/08/62026c33fc6c838c398b45ce.html"
 
 ---
+
+## Incertidumbres y límites de esta ficha
+
+- **Dos vías, no una.** La ficha distingue la vía contable (Tribunal de Cuentas, sentencia 11/2018 y su revocación) de la vía penal (Juzgado de Instrucción número 38 y Audiencia Provincial de Madrid). La condena de 2018 y la absolución de 2019 no son resoluciones penales; la absolución penal de Oslé y Benavides es de 2022 y solo afecta a esos dos acusados. Ana Botella y los concejales no fueron acusados en la vía penal.
+- **Firmeza.** No se ha localizado noticia ni resolución posterior a febrero de 2022 sobre eventuales recursos contra la sentencia absolutoria penal ni sobre su firmeza. Por eso `estado` figura como "desconocido": no se presume firmeza por la conformidad del fiscal ni por la retirada de la acusación municipal. La fecha de la sentencia (28-01-2022) consta en crónicas de EFE publicadas el 8-02-2022, que citan el texto "fechado el 28 de enero"; no se ha descargado el texto íntegro de la resolución.
+- **Cifras que no deben sumarse.** 31 M€ (diferencia entre valor contable de 159 M€ y precio de venta de ~128 M€, según la Cámara de Cuentas), 25,7 M€ (perjuicio cifrado por el Tribunal de Cuentas) y 22,7 M€/25,75 M€ (condena contable de 2018) son categorías distintas. El `coste` de la ficha (31 M€) es una diferencia contable, no una cantidad fijada en una sentencia penal.
+- **Documentos primarios pendientes.** La sentencia 11/2018 del Tribunal de Cuentas se conoce a través de crónicas de EFE y de un análisis jurídico que cita el texto y enlaza al PDF del propio Tribunal; el enlace directo al repositorio del Tribunal de Cuentas redirige actualmente a su buscador, por lo que no se ha podido verificar el PDF íntegro. El informe definitivo de la Cámara de Cuentas (diario.madrid.es) devuelve HTTP 403 a la descarga automática; su contenido se ha contrastado con las crónicas de El País y El Mundo.
+- **Nombres y cargos.** Fermín Oslé Uranga y Alfonso Benavides Grases constan en múltiples crónicas y en la STS 592/2025. Los segundos apellidos de los condenados en la vía contable (Paz González García, María Dolores Navarro Ruiz, Pedro Corral Corral) proceden de fuentes secundarias y conviene confirmarlos en la sentencia 11/2018. Los cargos indicados son los que tenían al tiempo de la condena (2018), no necesariamente actuales.
+- **Fechas de actos conocidos por publicación.** El auto de primera reapertura está fechado el 29-09-2017, pero se conoció por prensa el 16-10-2017. El segundo auto de reapertura se sitúa el 28-05-2019 según EFE, aunque su publicación es del 28-29 de mayo. El archivo de enero de 2019 no tiene día exacto localizado.
+- **Solapamiento con `casos/pp/emvs.md`.** La venta de la EMVS a Fidere también se describe en la ficha EMVS, que recoge la vía civil de retracto (STS 1597/2024 y STS 592/2025) y la venta posterior de Fidere a Brookfield. Ambas fichas comparten hechos y cifras y no deben acumularse sus importes. No se han duplicado aquí las resoluciones civiles, salvo como documento y referencia de contexto.
+
+## Estado actual documentado
+
+Último acto penal documentado: sentencia absolutoria de 28-01-2022. Último acto contable documentado: rechazo del Supremo de 11-06-2020. No consta actividad judicial posterior localizada sobre esta operación en la vía penal.
