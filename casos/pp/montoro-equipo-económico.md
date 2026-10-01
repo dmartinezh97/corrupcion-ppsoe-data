@@ -159,4 +159,12 @@ cronologia:
     relevancia: "media"
     urls:
       - "https://www.infolibre.es/politica/audiencia-tarragona-prepara-resolver-asuntos-clave-caso-montoro_1_2203057.html"
+
+  - fecha: "2026-07-27"
+    titulo: "El juez prorroga seis meses más la instrucción"
+    descripcion: "El juez Rubén Rus acuerda prorrogar seis meses la investigación del caso Montoro al considerar que aún faltan declaraciones de investigados e informes por incorporar. En el auto insiste en la existencia de 'una presunta trama en torno a Equipo Económico' que, mediando precio, moldeaba reformas legales (como la normativa del Impuesto Eléctrico) a las necesidades de sus clientes, y señala que fueron las gasísticas quienes acabaron redactando las reformas conforme a sus intereses. La prórroga aleja el final de la instrucción."
+    type: "investigación"
+    relevancia: "media"
+    urls:
+      - "https://www.europapress.es/nacional/noticia-juez-caso-montoro-acuerda-prorrogar-seis-meses-mas-instruccion-20260727194808.html"
 ---
