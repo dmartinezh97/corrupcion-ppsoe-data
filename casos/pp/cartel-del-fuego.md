@@ -1,163 +1,166 @@
 ---
 nombre: "Cártel del fuego"
 partido: PP
-completado: true
+completado: false
 año: 2017
-fechaInicio: 1999-01-01
 fechaFin: ""
-estado: "cerrado con condenas"
+estado: "en revisión"
 descripcion: |
-  El caso conocido como "Cártel del fuego" destapó una trama de corrupción a gran escala en la contratación pública de servicios de extinción de incendios forestales en España. La investigación reveló que un grupo de empresas aeronáuticas, lideradas por el holding Avialsa de Vicente Huerta, se repartió de manera fraudulenta el mercado de contratos públicos para la extinción de incendios entre 1999 y 2018, obteniendo más de 277 millones de euros mediante la manipulación de concursos públicos en al menos siete comunidades autónomas (Valencia, Cataluña, Andalucía, Baleares, Castilla-La Mancha, Extremadura y Castilla y León), así como en países como Portugal, Chile e Italia.
+  El "cártel del fuego" es la macrocausa sobre la concertación de empresas de navegación aérea dedicadas a la extinción de incendios forestales para repartirse concursos públicos y alterar precios, con sobornos a cargos públicos, entre 1999 y 2018. Según la sentencia de la Audiencia Nacional de 5 de febrero de 2025 (nº de resolución 4/2025; Roj SAN 138/2025; ECLI:ES:AN:2025:138), la "Asociación" se constituyó en una reunión celebrada en Palma del Río (Córdoba), sede de FAASA, el 20 de septiembre de 2001, entre FAASA, Avialsa, Trabajos Aéreos Espejo y Trabajos Aéreos Martínez Ridao; después se incorporaron CEGISA (en 2004, integrada más tarde en INAER / Babcock / Avincis) y Trabajos Aéreos Extremeños (TAEXSA, en 2007). Los empresarios pactaban turnos y ofertas, se repartían zonas y se compensaban mediante facturas por servicios simulados, y levantaban actas de sus reuniones en Manzanares (Ciudad Real).
 
-  Los empresarios implicados acordaron en una reunión celebrada en 2001 en Palma del Río (Córdoba) el reparto geográfico de los contratos públicos y coordinaron la presentación de ofertas artificialmente altas o bajas para asegurar la adjudicación según lo pactado. Para garantizar el funcionamiento del cártel, sobornaron sistemáticamente a altos cargos políticos y funcionarios mediante la entrega de regalos de lujo (escopetas de caza, viajes, relojes, joyas, vehículos) y dinero en efectivo. En la Comunidad Valenciana, donde se detectaron las mayores irregularidades, el exconseller de Gobernación del PP Serafín Castellano recibió regalos valorados en 163.736 euros y amañó contratos por un total de 151,5 millones de euros entre 1999 y 2017. En Cataluña, el jefe de medios aéreos de la Generalitat Ramón Dinarés Bosque recibió efectivo, regalos y servicios de hospitalidad a cambio de indicar a Avialsa cómo presentarse a los concursos públicos.
+  La sentencia sitúa la colusión en los concursos de la Comunidad Valenciana, Cataluña y los ministerios de Agricultura y Medio Ambiente y, en menor medida, en Andalucía y Castilla-La Mancha. Las resoluciones de instrucción de 2016 y 2017 describieron un ámbito más amplio (otras comunidades autónomas —entre ellas Castilla-La Mancha, Extremadura, Baleares, Andalucía y Castilla y León— y Portugal, Chile e Italia) y la prensa de 2025 añadió Galicia. Las diferencias responden al distinto momento procesal de cada resolución; la sentencia no confirma por sí sola el alcance descrito entonces.
 
-  El caso salió a la luz en 2014 gracias a la denuncia del exdirectivo de Avialsa Francisco Alandí, quien entregó a la Fiscalía Anticorrupción cerca de 500 documentos comprometedores. Tras años de investigación, en septiembre de 2024 comenzó el juicio en la Audiencia Nacional contra 32 acusados. En febrero de 2025, el tribunal condenó a 12 personas, incluido Serafín Castellano, a penas de entre seis meses y dos años y nueve meses de prisión por delitos de cohecho, prevaricación, malversación y falsedad documental. En una decisión histórica, la Audiencia Nacional aplicó por primera vez en España la "excusa absolutoria" del Código Penal, absolviendo a Francisco Alandí por haber denunciado la trama, sentando un precedente jurídico para la protección de denunciantes de corrupción.
+  En el ámbito valenciano, la sentencia documenta que entre 1999 y 2017 la Administración valenciana satisfizo 151.585.386,22 euros en contratos a favor de Avialsa. Esa cifra es el volumen de contratación que figura como coste en esta ficha, no el daño declarado: la responsabilidad civil fijada en la sentencia asciende a 234.133,02 euros de perjuicio a la Administración General del Estado, y un auto de inhibición de 2016 cifró en "al menos 277 millones de euros" las ganancias estimadas del cártel durante la instrucción, una estimación que no es la cifra fijada en la sentencia.
 
-resumen: "Cártel de empresas aeronáuticas que amañó contratos de extinción de incendios sobornando a políticos del PP"
-coste: 277000000
-lugar: "Comunidad Valenciana, España"
+  La sentencia declara probados regalos a favor del entonces conseller de Gobernación de la Generalitat Valenciana Serafín Castellano (PP) por importe de 167.177,02 euros (cacerías, hospedajes, viajes, material cinegético, dinero en efectivo, jamones y otros obsequios); un informe de la UDEF de 2016 había cifrado en 163.736,92 euros las dádivas vinculadas a la caza. El director general de Interior de la Conselleria de Justicia valenciana, Pedro Hidalgo, ya fallecido, recibió a través de su hijo, según la sentencia, un vehículo valorado en 46.742,60 euros. En Cataluña, dos altos cargos de la Generalitat (Ramón Dinarés y Francesc Xavier Palmés) fueron condenados por cohecho e información privilegiada.
+
+  El caso partió de la denuncia del exgerente de Avialsa Francisco Alandí Escrig ante la Fiscalía Anticorrupción, formalizada el 9 de octubre de 2014 con unos 500 documentos y ampliada el 9 de julio de 2015; la propia sentencia cita además una denuncia de 27 de octubre de 2014. La causa se inició en los juzgados de Sagunto y fue asumida por el Juzgado Central de Instrucción nº 6 de la Audiencia Nacional. El 15 de junio de 2022 el juez Manuel García Castellón dictó auto de procesamiento contra Castellano y otras 31 personas. El juicio oral se celebró del 23 de septiembre al 20 de noviembre de 2024 contra 16 acusados; doce de ellos se conformaron. La sentencia condenó a doce acusados (penas de seis meses y quince días a dos años, tres meses y quince días), absolvió a tres y eximió de responsabilidad penal a Alandí aplicando por primera vez en España la "excusa absolutoria" del artículo 262.3 del Código Penal. La nota del Consejo General del Poder Judicial cifró en cuatro los absueltos además del exento; el fallo recoge tres absoluciones plenas y una exención. Varias empresas condenadas, entre ellas Avialsa T-35 (hoy Titan Firefighting Company), Martínez Ridao Aviación, Trabajos Aéreos Espejo, TAEXSA, SAETA, CEGISA, INAER/Babcock y FAASA/Pegasus, fueron sancionadas con nueve meses de prohibición de contratar con las administraciones públicas.
+
+  La sentencia se notificó como no firme (recurso de apelación ante la Sala de Apelación de la Audiencia Nacional). El último estado documentado es que en agosto de 2025 varias empresas condenadas habían recurrido —la prensa los describió como recursos de casación ante el Tribunal Supremo— y no se ha localizado resolución posterior, por lo que no consta ni el resultado de los recursos ni la firmeza actual; la conformidad de los acusados no permite presumir firmeza. La versión publicada por el CENDOJ está anonimizada, por lo que no consta de forma individualizada el pronunciamiento sobre algunos empresarios imputados, como los responsables de FAASA y de Trabajos Aéreos Espejo. Parte de los hechos y de los acusados están tratados con otro enfoque en la ficha "Caso Avialsa" (núcleo valenciano).
+resumen: "Macrocausa por el reparto y amaño de concursos públicos de extinción aérea de incendios entre 1999 y 2018, con sobornos a cargos públicos. La sentencia de la Audiencia Nacional de 5 de febrero de 2025 condenó a doce acusados, entre ellos el exconseller valenciano Serafín Castellano (PP), y eximió al denunciante por la excusa absolutoria. La sentencia no es firme y en agosto de 2025 varias empresas condenadas habían recurrido."
+coste: 151585386
+lugar: "Comunidad Valenciana y Cataluña, España"
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción - Juez Manuel García Castellón - Fiscalía Anticorrupción"
-numeroSentencia: ""
+  - "Audiencia Nacional - Sala de lo Penal, Sección Primera (origen: Juzgado Central de Instrucción nº 6; Fiscalía Anticorrupción)"
+numeroSentencia: "4/2025 (SAN 138/2025)"
 implicados:
-  - nombre: "Serafín Castellano"
-    cargo: "Exconseller de Gobernación y exdelegado del Gobierno en Valencia (PP)"
-    rol: "Condenado a 1 año y 9 meses por cohecho, prevaricación y malversación"
+  - nombre: "Serafín Castellano Gómez"
+    cargo: "Conseller de la Generalitat Valenciana durante el período investigado (Justicia y Administraciones Públicas, 1999-2000; Sanidad, 2000-2003; Gobernación y Justicia, 2007-2014); después delegado del Gobierno en la Comunitat Valenciana (2015), cargo posterior al período investigado (PP)"
+    rol: "Condenado en la sentencia de 5 de febrero de 2025 (nº 4/2025; SAN 138/2025) a un año y nueve meses de prisión por delitos continuados de cohecho, prevaricación, malversación y falsedad en documento oficial, con las atenuantes de confesión tardía y dilaciones indebidas; absuelto de asociación ilícita. Admitió los hechos por conformidad en septiembre de 2024. La sentencia se notificó como no firme."
 
-  - nombre: "Vicente Huerta Domínguez"
-    cargo: "Presidente del holding empresarial Avialsa T35"
-    rol: "Condenado a 3 años y 5 meses por liderar el cártel y fraude fiscal"
+  - nombre: "Vicente Huerta Gallego"
+    cargo: "Propietario y presidente del grupo Avialsa T-35 durante el período investigado (administrador único hasta febrero de 2024)"
+    rol: "Considerado responsable del grupo Avialsa. Condenado en la sentencia de 2025 a un total de dos años, tres meses y quince días (seis meses y quince días por el concierto para alterar los precios y un año y nueve meses por cohecho, prevaricación, malversación y falsedad, como extraneus), una de las penas más altas del procedimiento. En 2023 ya había sido condenado en una pieza separada por nueve delitos contra la Hacienda Pública y un delito continuado de falsedad en documento mercantil. La prensa de 2017 lo citó como 'Vicente Huerta Domínguez' y la de 2025 como 'Vicente Huerta Gallego'; la sentencia del CENDOJ está anonimizada."
 
   - nombre: "Ramón Dinarés Bosque"
-    cargo: "Jefe de medios aéreos de la Generalitat de Cataluña"
-    rol: "Condenado a 1 año y 11 meses por cohecho y prevaricación"
+    cargo: "Jefe de la Unidad de Medios Aéreos de la Generalitat de Cataluña hasta mayo de 2009; después subinspector de la Jefatura del Área de Prevención y Gestión"
+    rol: "Condenado en la sentencia de 2025 a un año y once meses de prisión por cohecho e información privilegiada. La sentencia le atribuye facilitar información a Avialsa y recibir dinero, regalos, hospedajes e instrumental, entre otras dádivas."
 
   - nombre: "Francesc Xavier Palmés i Cosidó"
-    cargo: "Jefe del Servicio de Contratación del Departamento de Interior de Cataluña"
-    rol: "Condenado a 1 año y 2 meses por cohecho y prevaricación"
+    cargo: "Encargado del Servicio de Contratación y Patrimonio de la Subdirección General de Gestión Económica y Contratación del Departamento de Interior de la Generalitat de Cataluña"
+    rol: "Condenado en la sentencia de 2025 a un año y dos meses de prisión por cohecho e información privilegiada."
 
   - nombre: "Pedro Hidalgo"
-    cargo: "Exdirector general de Interior de la Generalitat Valenciana"
-    rol: "Imputado por recibir vehículo todoterreno (46.742 €) a cambio de favores; falleció antes de la sentencia"
+    cargo: "Director general de Interior de la Conselleria de Justicia de la Generalitat Valenciana"
+    rol: "Investigado y fallecido antes de la sentencia, por lo que no fue juzgado. La sentencia declara probado que recibió, a través de su hijo, un Volkswagen Touareg valorado en 46.742,60 euros en mayo de 2007 a cambio de favorecer a Avialsa."
 
   - nombre: "Miguel Ángel Tamarit Campuzano"
-    cargo: "Presidente del Grupo FAASA (Fumigación Aérea Andaluza)"
-    rol: "Investigado por organización criminal y manipulación de concursos públicos"
+    cargo: "Presidente del Grupo FAASA"
+    rol: "Imputado en la instrucción (documentado al menos desde 2017). La sentencia de 2025 condenó por el cártel a nueve empresarios y a las sociedades, entre ellas FAASA/Pegasus, a nueve meses de prohibición de contratar; como la versión publicada del fallo está anonimizada, no consta de forma individualizada si fue condenado o absuelto."
 
   - nombre: "Fernando Espejo Delgado"
-    cargo: "Propietario de Trabajos Aéreos Espejo SL"
-    rol: "Condenado por integrar el cártel y participar en el reparto geográfico"
+    cargo: "Fundador y presidente de Trabajos Aéreos Espejo, S.L."
+    rol: "Imputado en la instrucción (documentado al menos desde 2017). Su sociedad fue una de las condenadas en 2025 con nueve meses de prohibición de contratar; como el fallo publicado está anonimizado, no consta de forma individualizada si fue condenado o absuelto."
 
   - nombre: "Ángel Martínez Ridao"
-    cargo: "Responsable de Martínez Ridao Aviación SL"
-    rol: "Condenado por participar en el reparto geográfico de contratos públicos"
+    cargo: "Responsable de Martínez Ridao Aviación, S.L."
+    rol: "Imputado en la instrucción (documentado al menos desde 2017) y señalado como responsable del reparto del mercado en Baleares. Su sociedad fue una de las condenadas en 2025 con nueve meses de prohibición de contratar; como el fallo publicado está anonimizado, no consta de forma individualizada si fue condenado o absuelto."
 
-  - nombre: "Francisco Alandí"
-    cargo: "Exdirectivo de Avialsa T35"
-    rol: "Absuelto mediante excusa absolutoria por delatar el cártel a la Fiscalía"
-
+  - nombre: "Francisco Alandí Escrig"
+    cargo: "Exgerente de Avialsa (hasta diciembre de 2012)"
+    rol: "Denunció la trama ante la Fiscalía Anticorrupción en 2014 y aportó unos 500 documentos. Acusado en la causa, fue eximido de responsabilidad penal en la sentencia de 2025 mediante la aplicación por primera vez en España de la excusa absolutoria del artículo 262.3 del Código Penal."
 tags:
   - "corrupción"
   - "cohecho"
   - "prevaricación"
   - "malversación"
   - "falsedad documental"
+  - "información privilegiada"
   - "tráfico de influencias"
-  - "organización criminal"
+  - "alteración de precios en concursos públicos"
   - "manipulación de contratos públicos"
   - "fraude fiscal"
-
-impactoSocial: "El caso destapó una de las tramas de corrupción más complejas en la contratación pública española, afectando a servicios esenciales de protección civil contra incendios forestales durante dos décadas. La sentencia de la Audiencia Nacional sentó un precedente histórico al aplicar por primera vez la excusa absolutoria para proteger a denunciantes de corrupción, fortaleciendo los mecanismos de whistleblowing en España."
-
-documentos: []
-
+  - "cártel"
+impactoSocial: "El caso puso de manifiesto el funcionamiento durante años de un cártel de empresas de extinción aérea de incendios que se repartía concursos públicos, según concluyó la sentencia de la Audiencia Nacional. El tribunal describió un oligopolio en el sector y advirtió de que el perjuicio real podía ser superior al cuantificado en la responsabilidad civil. La condena del exconseller Serafín Castellano (PP) y la aplicación por primera vez en España de la excusa absolutoria a un denunciante tuvieron amplia repercusión mediática y jurídica, y la sentencia quedó pendiente de los recursos."
+documentos:
+  - fecha: "2025-02-05"
+    titulo: "SAN 138/2025, de 5 de febrero (nº de resolución 4/2025; ECLI:ES:AN:2025:138): sentencia del 'cártel del fuego' de la Audiencia Nacional"
+    filetype: "pdf"
+    paginas: 94
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fbeb4c70cd380ec4a0a8778d75e36f0d&encode=true&databasematch=AN"
 cronologia:
-  - fecha: "1999-01-01"
-    titulo: "Inicio de la trama: reparto de contratos públicos"
-    descripcion: "Las principales empresas del sector aeronáutico de extinción de incendios comienzan a coordinarse para repartirse geográficamente los concursos públicos licitados a nivel nacional. El acuerdo inicial implica a Avialsa, FAASA, Trabajos Aéreos Espejo y Martínez Ridao Aviación, que acuerdan no competir entre sí en sus respectivas zonas de influencia y coordinar las ofertas en los concursos."
+  - fecha: "2001-09-20"
+    titulo: "Acta constitutiva de la 'Asociación' en Palma del Río"
+    descripcion: "Representantes de FAASA (Miguel A. Tamarit), Avialsa (Vicente Huerta), Trabajos Aéreos Espejo (Fernando Espejo) y Trabajos Aéreos Martínez Ridao (Ángel Martínez Ridao) firman en Palma del Río (Córdoba), sede de FAASA, el acta constitutiva de la 'Asociación' para repartirse el mercado y respetar las zonas de influencia. La fecha consta en el acta recogida en la sentencia; después se incorporaron CEGISA (2004) y TAEXSA (2007)."
     type: "resumen"
+    relevancia: "alta"
     urls:
-      - "https://www.eldiario.es/andalucia/cartel-fuego_1_3676752.html"
-
-  - fecha: "2001-01-01"
-    titulo: "Reunión fundacional del cártel en Palma del Río"
-    descripcion: "En una reunión celebrada en Palma del Río (Córdoba), sede de FAASA, los empresarios Vicente Huerta (Avialsa), Miguel Tamarit (FAASA), Fernando Espejo (Trabajos Aéreos Espejo) y Ángel Martínez Ridao firman un acuerdo formal para repartirse geográficamente el mercado de contratos públicos de extinción de incendios forestales. El pacto establece que cada empresa respetará las zonas de influencia de las demás y coordinará la presentación de ofertas en los concursos públicos. Con el tiempo se suman otras empresas como CEGISA (luego Babcock Mission Critical Services España), Taexsa y Saeta."
-    type: "resumen"
-    urls:
+      - "https://ctxt.es/es/20170906/Politica/14827/ctxt-incendios-corrupci%C3%B3n-portugal-Avialsa-Faasa.htm"
       - "https://confidencialandaluz.com/el-cartel-del-fuego-se-fundo-en-2001-en-palma-del-rio-segun-el-juez/"
-      - "https://ctxt.es/es/20170906/Politica/14827/ctxt-incendios-corrupci%C3%B3n-portugal-Avialsa-Faasa.htm"
 
-  - fecha: "2014-01-15"
+  - fecha: "2014-10-09"
     titulo: "Denuncia de Francisco Alandí ante la Fiscalía Anticorrupción"
-    descripcion: "Francisco Alandí, exdirectivo de Avialsa y colaborador cercano de Vicente Huerta, acude a la Fiscalía Anticorrupción de Valencia con un dispositivo informático que contiene cerca de 500 documentos comprometedores, incluyendo correos electrónicos, fotografías y material que prueba la operación del cártel. Su denuncia inicia formalmente la investigación judicial que destapará la trama de corrupción en la contratación de servicios de extinción de incendios."
+    descripcion: "El exgerente de Avialsa Francisco Alandí Escrig presenta ante la Fiscalía Anticorrupción de Valencia una denuncia con unos 500 documentos sobre la concertación del sector, que ampliaría el 9 de julio de 2015; la sentencia cita en sus antecedentes también una denuncia de 27 de octubre de 2014. La causa se inició en los juzgados de Sagunto y acabó en la Audiencia Nacional."
     type: "denuncia"
+    relevancia: "alta"
     urls:
-      - "https://ctxt.es/es/20170906/Politica/14827/ctxt-incendios-corrupci%C3%B3n-portugal-Avialsa-Faasa.htm"
-      - "https://www.elespanol.com/valencia/20250206/audiencia-nacional-condena-serafin-castellano-cartel-fuego-firma-absolucion-pionera-delatar/922158143_0.html"
+      - "https://www.eldiario.es/comunitat-valenciana/audiencia-nacional-condena-exdelegado-gobierno-valencia-pp-serafin-castellano-cartel-fuego_1_12032671.html"
+      - "https://www.publico.es/politica/empresas-condenadas-cartel-fuego-sortean-prohibicion-contratar.html"
 
-  - fecha: "2015-12-01"
-    titulo: "Inicio de investigaciones judiciales en múltiples comunidades"
-    descripcion: "El Juzgado de Instrucción de Sagunto (Valencia) inicia las primeras diligencias tras la denuncia de Alandí. En diciembre de 2015, Antonio Martínez López, responsable de la Mesa de Contratación del Plan Infoca de Andalucía, declara como imputado. En enero de 2016, el juzgado envía testimonio de las actuaciones al Tribunal de Sevilla, informando que se investigan irregularidades similares en Andalucía. La cadena de imputaciones, detenciones, registros y declaraciones judiciales comienza a extenderse por varias comunidades autónomas."
-    type: "investigación"
+  - fecha: "2016-01-13"
+    titulo: "Detención de Pedro Hidalgo y otras actuaciones en la trama"
+    descripcion: "En el marco de la investigación por el amaño de contratos de extinción de incendios se producen más de veinte detenciones y registros; entre los detenidos está Pedro Hidalgo, exdirector general de Interior de la Generalitat Valenciana, que después fallecería sin ser juzgado."
+    type: "detencion"
+    relevancia: "media"
     urls:
-      - "https://ctxt.es/es/20170906/Politica/14827/ctxt-incendios-corrupci%C3%B3n-portugal-Avialsa-Faasa.htm"
-      - "https://www.eldiario.es/andalucia/imputados-altos-cargos-junta-cartel_1_3507207.html"
+      - "https://www.elmundo.es/comunidad-valenciana/2016/01/13/56964d5722601d756e8b459b.html"
 
-  - fecha: "2017-05-01"
-    titulo: "Detención de Serafín Castellano y otros altos cargos"
-    descripcion: "La Policía Nacional detiene a Serafín Castellano, exconseller de Gobernación y exdelegado del Gobierno en Valencia, junto con el exdirector general de Interior Pedro Hidalgo y otros altos cargos de la Generalitat Valenciana. Los arrestos se producen en el marco de la operación policial contra el cártel del fuego, acusándoles de haber recibido sobornos sistemáticos (regalos de lujo, viajes de caza, dinero en efectivo) a cambio de amañar las adjudicaciones de contratos de extinción de incendios entre 1999 y 2017."
-    type: "detención"
+  - fecha: "2022-06-15"
+    titulo: "Auto de procesamiento contra 32 personas"
+    descripcion: "El juez central de instrucción Manuel García Castellón dicta auto de procesamiento contra Serafín Castellano y otras 31 personas por delitos de organización criminal, alteración de precios en concursos, cohecho, falsedad documental, malversación, prevaricación, asociación ilícita, negociaciones prohibidas, tráfico de influencias y exacciones ilegales. La Abogacía de la Generalitat solicitó para Castellano una condena que sumaba quince años de cárcel."
+    type: "imputacion"
+    relevancia: "alta"
     urls:
-      - "https://www.eldiario.es/cv/Detenido-Generalitat-corrupcion-extincion-incendios_0_473153361.html"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+C%C3%A1rtel+del+fuego&numero=289"
-
-  - fecha: "2019-06-01"
-    titulo: "Auto de procesamiento del juez García Castellón"
-    descripcion: "El juez de la Audiencia Nacional Manuel García Castellón dicta auto de procesamiento contra Serafín Castellano y 31 personas más por su presunta participación en el cártel del fuego. El magistrado considera que los hechos investigados pueden constituir delitos de organización criminal, manipulación de precios en concursos públicos, cohecho, falsedad documental, malversación, prevaricación, asociación ilícita, negociaciones prohibidas a funcionarios públicos, tráfico de influencias y exacciones ilegales. El auto estima el fraude en más de 100 millones de euros."
-    type: "imputación"
-    urls:
-      - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1166657"
       - "https://valenciaplaza.com/generalitat-pide-15-anos-carcel-castellano-cartel-fuego"
 
-  - fecha: "2022-05-01"
-    titulo: "Condena a Vicente Huerta por delitos fiscales"
-    descripcion: "Vicente Huerta, propietario del holding empresarial Avialsa y considerado el cerebro del cártel, es condenado en una primera sentencia parcial del caso a tres años y cinco meses de prisión por nueve delitos contra la Hacienda Pública y un delito continuado de falsedad en documento mercantil. La condena aborda específicamente las irregularidades fiscales cometidas por Avialsa para ocultar los beneficios obtenidos mediante la manipulación de contratos públicos. Huerta admite los hechos en conformidad con la Fiscalía."
+  - fecha: "2023-07-28"
+    titulo: "Primera sentencia del caso, en una pieza separada por delitos fiscales"
+    descripcion: "El Juzgado de Primera Instancia e Instrucción nº 2 de Sagunto condena a Vicente Huerta, único condenado de los seis procesados en esa pieza, por nueve delitos contra la Hacienda Pública y un delito continuado de falsedad en documento mercantil (fraude en el Impuesto de Sociedades, el IVA y el IRPF entre 2009 y 2014). La pena privativa de libertad (48 meses en total) quedó suspendida y conmutada por multa."
     type: "sentencia"
+    relevancia: "media"
     urls:
       - "https://www.eldiario.es/comunitat-valenciana/condenado-nueve-delitos-fiscales-dueno-avialsa-primera-sentencia-caso-cartel-fuego_1_10416222.html"
 
   - fecha: "2024-09-23"
-    titulo: "Inicio del juicio oral en la Audiencia Nacional"
-    descripcion: "Comienza en la Audiencia Nacional el juicio oral contra Serafín Castellano y otros 31 acusados por el caso del cártel del fuego. La Fiscalía Anticorrupción solicita inicialmente casi 22 años de prisión para Castellano por delitos de cohecho, prevaricación, malversación y falsedad documental. La Generalitat Valenciana, personada como acusación particular, reclama 15 años de cárcel. El primer día el juicio se aplaza a la jornada siguiente porque la Fiscalía negocia acuerdos de conformidad con los acusados."
-    type: "investigación"
+    titulo: "Comienza el juicio oral en la Audiencia Nacional"
+    descripcion: "Arranca en la Audiencia Nacional el juicio oral contra 16 acusados, señalado hasta el 20 de noviembre de 2024. La Fiscalía pedía inicialmente 21 años para Castellano por cohecho, malversación y asociación ilícita, entre otros delitos."
+    type: "juicio"
+    relevancia: "alta"
     urls:
-      - "https://www.eldiario.es/comunitat-valenciana/audiencia-nacional-juzga-lunes-exconseller-valenciano-pp-serafin-castellano-cartel-fuego_1_11673335.html"
       - "https://www.infobae.com/espana/agencias/2024/09/23/comienza-el-juicio-al-exconsejero-valenciano-serafin-castellano-por-el-cartel-del-fuego/"
+      - "https://www.eldiario.es/comunitat-valenciana/audiencia-nacional-juzga-lunes-exconseller-valenciano-pp-serafin-castellano-cartel-fuego_1_11673335.html"
 
   - fecha: "2024-09-24"
-    titulo: "Confesión de Serafín Castellano en el juicio"
-    descripcion: "En la segunda jornada del juicio, Serafín Castellano admite ante el tribunal haber cometido varios delitos para amañar concursos públicos de extinción de incendios cuando era conseller de Gobernación de la Generalitat Valenciana entre 2007 y 2014. Reconoce haber recibido regalos por valor de 163.736 euros (escopetas de caza, viajes, relojes y otros objetos de lujo) del entramado empresarial liderado por Vicente Huerta a cambio de favorecer las adjudicaciones. La Fiscalía Anticorrupción reduce la petición de pena de casi 22 años a 2 años y 7 meses de prisión tras la confesión."
-    type: "declaración"
+    titulo: "Conformidad de la mayoría de los acusados"
+    descripcion: "En la segunda jornada, doce acusados ratifican acuerdos de conformidad con la Fiscalía. Serafín Castellano admite los hechos y la petición de pena pactada se sitúa en dos años y siete meses (finalmente la sentencia le impondría un año y nueve meses) y Huerta asume inicialmente tres años y cinco meses (la sentencia le impondría dos años, tres meses y quince días). Castellano y Huerta consignan 904.407,28 euros defraudados que reclamaba la Generalitat Valenciana."
+    type: "juicio"
+    relevancia: "alta"
     urls:
-      - "https://www.eleconomista.es/actualidad/noticias/13001598/09/24/castellano-detenido-cuando-era-delegado-del-gobierno-en-valencia-con-el-pp-reconoce-que-amano-contratos-contra-incendios.html"
       - "https://www.elespanol.com/valencia/20240924/trama-cartel-fuego-admite-repartio-negocio-extincion-cambio-sobornos/888161258_0.html"
-
-  - fecha: "2024-11-04"
-    titulo: "Conclusión del juicio con acuerdos de conformidad"
-    descripcion: "El juicio del cártel del fuego concluye en la Audiencia Nacional tras la ratificación de acuerdos de conformidad entre la Fiscalía y doce acusados, incluidos Serafín Castellano y empresarios del sector aeronáutico. Los acusados confiesan su participación en la trama y aceptan penas reducidas de entre seis meses y dos años y siete meses de prisión. Castellano y Huerta depositan en el juzgado 904.407,28 euros para resarcir el fraude cometido. El tribunal aplica a todos los acusados la atenuante de dilaciones indebidas, dado que el caso se inició en 2014 y no se sentenciaría hasta casi diez años después. Cuatro acusados que no firmaron conformidad quedan pendientes de sentencia."
-    type: "declaración"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/juicio-cartel-fuego-soborno-exconseller-pp-acaba-penas-menores-ingresos-prision_1_11791023.html"
       - "https://www.infobae.com/espana/agencias/2024/11/04/el-juicio-al-cartel-del-fuego-que-soborno-a-un-exconsejero-del-pp-acaba-con-penas-menores/"
 
-  - fecha: "2025-02-06"
-    titulo: "Sentencia de la Audiencia Nacional con absolución histórica"
-    descripcion: "La Audiencia Nacional dicta sentencia condenando a Serafín Castellano a 1 año y 9 meses de prisión por delitos continuados de cohecho, prevaricación, malversación y falsedad en documento oficial, junto con otros 11 acusados que reciben penas de entre 6 meses y 2 años y 3 meses. Se impone también una prohibición de contratar con la Administración durante 9 meses a las empresas Avialsa T35, Taexsa, Martínez Ridao Aviación, Saeta, Trabajos Aéreos Espejo, CEGISA y Babcock Mission Critical Services España. En una decisión pionera, el tribunal aplica por primera vez en España la 'excusa absolutoria' contemplada en el Código Penal, absolviendo completamente a Francisco Alandí por haber denunciado el cártel. Cuatro acusados que no llegaron a un acuerdo con la Fiscalía son absueltos por insuficiencia de pruebas."
-    type: "sentencia"
+  - fecha: "2024-11-04"
+    titulo: "Conclusión del juicio"
+    descripcion: "El juicio queda visto para sentencia. Cuatro acusados no pactaron con la Fiscalía: el excoordinador del servicio contra incendios de la Generalitat Valenciana, el exresponsable de la División Operativa de Emergencias y Seguridad de la Generalitat catalana, un empresario y el denunciante Francisco Alandí. Los acusados renunciaron a la última palabra en la sesión del 5 de noviembre de 2024."
+    type: "juicio"
+    relevancia: "media"
     urls:
-      - "https://www.eldiario.es/comunitat-valenciana/audiencia-nacional-condena-exdelegado-gobierno-valencia-pp-serafin-castellano-cartel-fuego_1_12032671.html"
-      - "https://www.elespanol.com/valencia/20250206/audiencia-nacional-condena-serafin-castellano-cartel-fuego-firma-absolucion-pionera-delatar/922158143_0.html"
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-aplica-por-primera-vez-a-un-acusado-la--excusa-absolutoria--por-haber-denunciado-un-cartel-para-extincion-incendios-y-le-exime-de-responsabilidad-penal-"
-      - "https://www.publico.es/politica/tribunales/audiencia-nacional-condena-11-personas-exdelegado-gobierno-valenciano-cartel-fuego.html"
+      - "https://www.infobae.com/espana/agencias/2024/11/04/el-juicio-al-cartel-del-fuego-que-soborno-a-un-exconsejero-del-pp-acaba-con-penas-menores/"
 
+  - fecha: "2025-02-05"
+    titulo: "Sentencia de la Audiencia Nacional (nº 4/2025; hecha pública el 6 de febrero)"
+    descripcion: "La Sección Primera de la Sala de lo Penal de la Audiencia Nacional dicta la sentencia del cártel del fuego (nº 4/2025; SAN 138/2025; ECLI:ES:AN:2025:138; 94 páginas en la versión del CENDOJ): condena a doce acusados a penas de seis meses y quince días a dos años, tres meses y quince días, absuelve a tres y exime de responsabilidad penal a Francisco Alandí mediante la excusa absolutoria del artículo 262.3 del Código Penal. Serafín Castellano es condenado a un año y nueve meses; Vicente Huerta, a dos años, tres meses y quince días en total. Impone nueve meses de prohibición de contratar a varias empresas y fija una responsabilidad civil de 234.133,02 euros. La sentencia se notifica como no firme."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-aplica-por-primera-vez-a-un-acusado-la--excusa-absolutoria--por-haber-denunciado-un-cartel-para-extincion-incendios-y-le-exime-de-responsabilidad-penal-"
+      - "https://www.eldiario.es/comunitat-valenciana/audiencia-nacional-condena-exdelegado-gobierno-valencia-pp-serafin-castellano-cartel-fuego_1_12032671.html"
+
+  - fecha: "2025-08-26"
+    titulo: "Se informa de que varias empresas condenadas han recurrido"
+    descripcion: "Público informa de que algunas empresas condenadas por el cártel del fuego, entre ellas la sucesora de Avialsa, habían recurrido en casación ante el Tribunal Supremo, por lo que la sentencia no era firme y la prohibición de contratar no se aplicaba. La fecha corresponde a la publicación, no a una resolución judicial. No se ha localizado después resolución del Tribunal Supremo ni del resto de recursos."
+    type: "recurso"
+    relevancia: "media"
+    urls:
+      - "https://www.publico.es/politica/empresas-condenadas-cartel-fuego-sortean-prohibicion-contratar.html"
 ---
