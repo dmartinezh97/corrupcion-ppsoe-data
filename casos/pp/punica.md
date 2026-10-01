@@ -11,7 +11,7 @@ descripcion: |
 
   La trama se articulaba en torno a Francisco Granados, exsecretario general del PP de Madrid y consejero de la Comunidad, y al empresario David Marjaliza, a quienes la investigación sitúa coordinando la adjudicación irregular de contratos de eficiencia energética a la multinacional Cofely (filial de GDF Suez) en municipios como Parla (54,7 millones), Móstoles (60,4 millones), Valdemoro (50,3 millones) y Collado Villalba (35,5 millones). La instrucción investigó también una presunta caja B del PP de Madrid que habría financiado irregularmente campañas electorales entre 2003 y 2011, mediante donaciones de empresarios a través de la fundación Fundescam, facturas por servicios inexistentes y sobrecostes en contratos de eventos musicales adjudicados a empresas como Waiter Music, de José Luis Huerta (fallecido en 2020 y no juzgado).
 
-  La macrocausa se dividió en una docena de piezas separadas a partir de 2015. La pieza principal (pieza 6, contratos de Cofely) se juzgó entre abril y septiembre de 2025 y fue sentenciada el 19 de diciembre de 2025 (hecha pública por el CGPJ el 22 de diciembre): la Audiencia Nacional condenó a 29 de las 37 personas físicas y jurídicas acusadas —entre ellas seis exalcaldes y varios directivos de Cofely— y absolvió a los exregidores de Valdemoro y Almendralejo; a finales de febrero de 2026 un auto posterior rectificó a la baja la pena de David Marjaliza, de ocho años y dos meses a alrededor de cinco (cinco años y un mes según El País y Europa Press; cinco años según Cadena SER). La pieza murciana (reputación en internet) fue sentenciada en septiembre de 2025 con penas de hasta cuatro años, recurribles; su contenido se conoció por la prensa el 8 de septiembre de 2025, sin que conste en fuente primaria la fecha exacta del pronunciamiento. El 2 de julio de 2026 la Audiencia condenó a Granados a dos años y medio de cárcel por la pieza 7 (Waiter Music). El Tribunal Supremo confirmó en 2026 las inhabilitaciones de la pieza de León (publicidad institucional) —con el expresidente de la Diputación Marcos Martínez Barazón condenado a ocho años y seis meses—, confirmación dada a conocer el 24 de septiembre de 2026. En la pieza sobre financiación del PP de Madrid fueron imputados Ignacio González (2018) y, en 2019, Esperanza Aguirre y Cristina Cifuentes; sus causas fueron archivadas (Cifuentes en abril de 2021; Aguirre y González en octubre de 2022, confirmado por la Sala en noviembre de 2023). En mayo de 2026 (auto fechado el 22 de mayo de 2026) se abrió juicio oral contra Granados y más de 40 acusados en la pieza 8 (suelo público y obras de Metro). Al cierre de esta revisión, varias sentencias están pendientes de recurso y varios juicios siguen pendientes.
+  La macrocausa se dividió en una docena de piezas separadas a partir de 2015. La pieza principal (pieza 6, contratos de Cofely) se juzgó entre abril y septiembre de 2025 y fue sentenciada el 19 de diciembre de 2025 (hecha pública por el CGPJ el 22 de diciembre): la Audiencia Nacional condenó a 29 de las 37 personas físicas y jurídicas acusadas —entre ellas seis exalcaldes y varios directivos de Cofely— y absolvió a los exregidores de Valdemoro y Almendralejo; a finales de febrero de 2026 un auto posterior rectificó a la baja la pena de David Marjaliza, de ocho años y dos meses a alrededor de cinco (cinco años y un mes según El País y Europa Press; cinco años según Cadena SER). La pieza murciana (reputación en internet) fue sentenciada en septiembre de 2025 con penas de hasta cuatro años, recurribles; su contenido se conoció por la prensa el 8 de septiembre de 2025, sin que conste en fuente primaria la fecha exacta del pronunciamiento. El 2 de julio de 2026 la Audiencia condenó a Granados a dos años y medio de cárcel por la pieza 7 (Waiter Music). El Tribunal Supremo confirmó en 2026 las inhabilitaciones de la pieza de León (publicidad institucional) —con el expresidente de la Diputación Marcos Martínez Barazón condenado a ocho años y seis meses—, confirmación dada a conocer el 24 de septiembre de 2026. En la pieza sobre financiación del PP de Madrid fueron imputados Ignacio González (2018) y, en 2019, Esperanza Aguirre y Cristina Cifuentes; sus causas fueron archivadas (Cifuentes en abril de 2021; Aguirre y González en octubre de 2022, confirmado por la Sala en noviembre de 2023). En mayo de 2026 se dio a conocer la apertura de juicio oral contra Granados y más de 40 acusados en la pieza 8 (suelo público y obras de Metro). Al cierre de esta revisión, varias sentencias están pendientes de recurso y varios juicios siguen pendientes.
 
 resumen: "Macrotrama de corrupción con epicentro en la Comunidad de Madrid; la investigación sitúa en unos 250 millones el volumen de contratos adjudicados a cambio de comisiones"
 coste: 250000000
@@ -45,7 +45,7 @@ implicados:
     cargo: "Exgerente del PP de Madrid y administrador electoral"
     rol: "Procesado en la pieza sobre financiación del PP de Madrid (caja B); pendiente de juicio."
 
-  - nombre: "José Ignacio Echevarría Echániz"
+  - nombre: "José Ignacio Echeverría Echániz"
     cargo: "Expresidente de la Asamblea de Madrid y exconsejero de Transportes"
     rol: "Llamado a declarar como investigado en marzo de 2017 en la instrucción de la trama; sin condena conocida."
 
@@ -73,15 +73,15 @@ implicados:
     cargo: "Exalcalde de Serranillos del Valle (Unión Demócrata Madrileña, UDMA)"
     rol: "Confesó los hechos. Condenado el 19-12-2025 a cerca de tres años de cárcel por fraude, prevaricación, cohecho y tráfico de influencias en la pieza de Cofely (recurrible)."
 
-  - nombre: "Carlos Alberto Estrada"
+  - nombre: "Carlos Alberto Estrada Pita"
     cargo: "Exalcalde de Moraleja de Enmedio (PP)"
     rol: "Condenado el 19-12-2025 a cuatro años y medio de cárcel en la pieza de Cofely y el 02-07-2026 a dos años en la pieza de Waiter Music; recurribles."
 
-  - nombre: "Mario Utrilla"
+  - nombre: "Mario Utrilla Palombi"
     cargo: "Exdiputado regional del PP y exalcalde de Sevilla la Nueva"
     rol: "Condenado a prisión en la pieza de Cofely (19-12-2025); recurrible."
 
-  - nombre: "Alejandro Utrilla"
+  - nombre: "Alejandro Utrilla Palombi"
     cargo: "Exconcejal de Medio Ambiente de Móstoles (PP)"
     rol: "Condenado a prisión en la pieza de Cofely (19-12-2025); recurrible."
 
@@ -89,7 +89,7 @@ implicados:
     cargo: "Exdirector general de Cofely España"
     rol: "Condenado el 19-12-2025 a seis años y seis meses de cárcel en la pieza de Cofely (recurrible)."
 
-  - nombre: "Constantino Álvarez"
+  - nombre: "Constantino Álvarez de la Cueva"
     cargo: "Exdirector comercial de Cofely España"
     rol: "Condenado el 19-12-2025 a seis años y seis meses de cárcel en la pieza de Cofely (recurrible)."
 
@@ -126,7 +126,12 @@ tags:
 
 impactoSocial: "El Caso Púnica es uno de los mayores sumarios de corrupción de la historia reciente de España. Su complejidad, su prolongada instrucción y las condenas dictadas —que afectan a cargos del PP, del PSOE y de formaciones independientes— han alimentado el debate sobre la contratación pública, la financiación de los partidos y la duración de los macroprocesos, hasta el punto de que las sentencias de 2025 y 2026 aplicaron atenuantes por dilaciones indebidas."
 
-documentos: []
+documentos:
+  - fecha: "2025-12-19"
+    titulo: "Sentencia 34/2025 de la pieza Cofely (copia alojada en Los Genoveses)"
+    filetype: "pdf"
+    paginas: 612
+    nombre_fichero: "https://losgenoveses.net/Caso%20Punica/06.%20PS%20Cofely/Punica%20PS6.%20Cofely.%20%20AN.%20Sentencia%20condenatoria%20a%20varios%20alcaldes.19.12.25.pdf"
 
 cronologia:
   - fecha: 2014-10-27
@@ -274,9 +279,9 @@ cronologia:
       - "https://www.rtve.es/noticias/20251222/condenados-prision-seis-exalcaldes-comunidad-madrid-punica/16870583.shtml"
       - "https://cadenaser.com/nacional/2025/12/22/la-audiencia-nacional-condena-a-cinco-exalcaldes-del-pp-de-la-comunidad-de-madrid-y-uno-del-psoe-por-el-caso-punica-cadena-ser/"
 
-  - fecha: 2026-05-22
-    titulo: "Auto de apertura de juicio oral de la pieza 8 (suelo público y Metro)"
-    descripcion: "El Juzgado Central de Instrucción nº 6 dicta auto de apertura de juicio oral de la pieza 8 contra Francisco Granados y más de 40 acusados, entre ellos David Marjaliza y el exconsejero de OHL Javier López Madrid, por presuntas irregularidades en adjudicaciones de suelo público y obras de Metro entre 2003 y 2011. La Fiscalía solicita para Granados 42 años de cárcel. La pieza incluye presuntos pagos en especie con dinero de la empresa pública Arpegio. El auto está fechado el 22 de mayo de 2026 (Infobae); elDiario.es lo difundió el 26 de mayo de 2026 sin precisar la fecha de la resolución, que se recoge aquí según la fuente que sí la detalla."
+  - fecha: 2026-05-26
+    titulo: "Se conoce la apertura de juicio oral de la pieza 8 (suelo público y Metro)"
+    descripcion: "Se conoce que el Juzgado Central de Instrucción nº 6 ha dictado auto de apertura de juicio oral de la pieza 8 contra Francisco Granados y más de 40 acusados, entre ellos David Marjaliza y el exconsejero de OHL Javier López Madrid, por presuntas irregularidades en adjudicaciones de suelo público y obras de Metro entre 2003 y 2011. La Fiscalía solicita para Granados 42 años de cárcel. La pieza incluye presuntos pagos en especie con dinero de la empresa pública Arpegio. El hito se fecha el 26 de mayo de 2026, cuando elDiario.es y laSexta difundieron la apertura. No se afirma la fecha exacta del auto: Infobae lo sitúa el 22 de mayo y laSexta alude al pasado miércoles, versiones divergentes que no se han conciliado con el documento judicial."
     type: "juicio"
     urls:
       - "https://www.lasexta.com/noticias/nacional/audiencia-nacional-abre-nuevo-juicio-granados-otros-40-acusados-punica_202605266a1602e57e0b46320799faae.html"
@@ -293,7 +298,7 @@ cronologia:
 
   - fecha: 2026-09-24
     titulo: "Se conoce la confirmación por el Supremo de las condenas de la pieza de León (publicidad institucional)"
-    descripcion: "El Tribunal Supremo hace pública el 24 de septiembre de 2026 la desestimación de los recursos contra la sentencia de la Audiencia Nacional de 29 de mayo de 2023 sobre la contratación irregular de publicidad institucional en la Diputación de León: confirma las condenas por prevaricación continuada a ocho años y seis meses de inhabilitación especial para el expresidente de la Diputación Marcos Martínez Barazón (PP), el coordinador general Pedro Vicente Sánchez y el interventor Manuel Jesús López, y a cuatro años y tres meses para el empresario Alejandro de Pedro. La resolución del Supremo (ponente Vicente Magro) no lleva fecha en las noticias, que solo precisan que se dio a conocer ese día. El titular de ileon.eldiario.es menciona 'ocho años y medio' mientras su cuerpo detalla 'ocho años' para los tres primeros; otras fuentes (Europa Press, El Mundo y Cadena SER) confirman ocho años y seis meses. Con esta resolución concluye el recorrido ordinario de la pieza leonesa."
+    descripcion: "La prensa da a conocer el 24 de septiembre de 2026 la desestimación por el Tribunal Supremo de los recursos contra la sentencia de la Audiencia Nacional de 29 de mayo de 2023 sobre la contratación irregular de publicidad institucional en la Diputación de León: confirma las condenas por prevaricación continuada a ocho años y seis meses de inhabilitación especial para el expresidente de la Diputación Marcos Martínez Barazón (PP), el coordinador general Pedro Vicente Sánchez y el interventor Manuel Jesús López, y a cuatro años y tres meses para el empresario Alejandro de Pedro. La resolución del Supremo (ponente Vicente Magro) no lleva fecha en las noticias, que solo precisan que se dio a conocer ese día. El titular de ileon.eldiario.es menciona 'ocho años y medio' mientras su cuerpo detalla 'ocho años' para los tres primeros; otras fuentes (Europa Press, El Mundo y Cadena SER) confirman ocho años y seis meses. Con esta resolución concluye el recorrido ordinario de la pieza leonesa."
     type: "sentencia"
     urls:
       - "https://ileon.eldiario.es/politica/supremo-confirma-ocho-anos-medio-inhabilitacion-expresidente-diputacion-leon-trama-punica_1_13534860.html"
@@ -308,7 +313,7 @@ cronologia:
 
 Ficha revisada con fuentes judiciales (CGPJ/Audiencia Nacional/Tribunal Supremo) y prensa contrastada. Se han corregido la filiación política de dos implicados, la fecha del incidente de las cajas de Serranillos, el estado procesal y el tratamiento del importe económico, y se han separado primera instancia y firmeza. Se incorporan novedades de 2026: la rectificación a la baja de la pena de Marjaliza y la confirmación por el Supremo de las condenas de la pieza leonesa. En una segunda pasada se ha corregido el nombre completo de David Marjaliza (Villaseñor, según la sentencia), se ha fijado la fecha de la sentencia de Cofely en el 19-12-2025 (distinta de su difusión por el CGPJ el 22-12-2025), se ha verificado la sentencia nº 34/2025 y su ECLI:ES:AN:2025:5625 en el CENDOJ, y se ha registrado la discrepancia sobre la pena rectificada y el desconocimiento de la fecha del auto. En una tercera pasada se ha distinguido la fecha de la resolución judicial de la fecha de su conocimiento público en tres hitos (auto de la pieza 8, sentencia murciana y confirmación del Supremo de la pieza leonesa), se han corregido las penas de la pieza de León (ocho años y seis meses, no ocho, para los tres condenados del núcleo y cuatro años y tres meses para De Pedro) y se ha atribuido el dato de las 611 páginas de la sentencia de Cofely a la nota del CGPJ.
 
-Esta revisión queda registrada como **pendiente**: persisten lagunas de investigación sustantivas (firmeza de varias resoluciones, número definitivo de piezas y documentación judicial primaria no descargada).
+Esta revisión queda registrada como **pendiente**: persisten lagunas de investigación sustantivas (firmeza de varias resoluciones, número definitivo de piezas y documentación judicial pendiente de localizar de otras piezas).
 
 ## Incertidumbres y limitaciones
 
@@ -321,10 +326,10 @@ Esta revisión queda registrada como **pendiente**: persisten lagunas de investi
 - **Fecha de la pieza murciana.** La resolución se conoce por noticias fechadas el 8 y el 9 de septiembre de 2025; no consta en fuente primaria la fecha exacta del pronunciamiento, por lo que el hito se registra como fecha de conocimiento público (08-09-2025) y no como fecha de la sentencia.
 - **Fecha de la resolución del Supremo sobre la pieza de León.** Las noticias de 24-09-2026 no indican la fecha de la sentencia del Supremo (ponente Vicente Magro): solo precisan que se dio a conocer ese día. El hito refleja, por tanto, el momento en que se conoció la confirmación, no la fecha de la resolución.
 - **Penas de la pieza de León.** El titular de ileon.eldiario.es habla de "ocho años y medio" de inhabilitación, pero el cuerpo del mismo artículo detalla "ocho años" para Marcos Martínez Barazón, Pedro Vicente Sánchez y Manuel Jesús López, y cuatro años y tres meses para Alejandro de Pedro. Otras fuentes (Europa Press, El Mundo y Cadena SER) confirman ocho años y seis meses para los tres primeros y cuatro años y tres meses para De Pedro, cifra que se adopta.
-- **Fecha del auto de la pieza 8.** elDiario.es (26-05-2026) difundió la apertura de juicio oral sin precisar la fecha del auto; Infobae (31-05/01-06-2026) detalla que se dictó el 22-05-2026 y laSexta lo sitúa "el pasado miércoles". Se recoge el 22-05-2026 como fecha del auto, señalando la divergencia.
-- **Páginas de la sentencia de Cofely.** Las 611 páginas provienen de la nota de prensa del CGPJ y de la prensa que la reproduce; no se ha verificado sobre los metadatos del PDF judicial (no descargado).
+- **Fecha del auto de la pieza 8.** elDiario.es (26-05-2026) difundió la apertura de juicio oral sin precisar la fecha del auto; Infobae (31-05/01-06-2026) detalla que se dictó el 22-05-2026 y laSexta lo sitúa "el pasado miércoles". Ante la divergencia, el hito se fecha el 26-05-2026 como conocimiento público; no se afirma un día exacto para el auto.
+- **Páginas de la sentencia de Cofely.** El CGPJ describió la sentencia como de 611 páginas. La copia del PDF enlazada, alojada en Los Genoveses y con cabecera de la sentencia 34/2025 de 19 de diciembre, contiene 612 páginas en el archivo, incluida una página final sin texto; el campo documental recoge el total del PDF comprobado con pdfinfo.
 - **Identidad de David Marjaliza.** La sentencia de la pieza 6 identifica al empresario como **David Marjaliza Villaseñor** (no "López"): así consta en el encabezamiento y en el fallo del documento judicial (nº 34/2025; ECLI:ES:AN:2025:5625; Id Cendoj 28079220012025100031). La ficha usaba antes el segundo apellido erróneo "López".
 - **Pena rectificada de Marjaliza y fecha del auto.** Un auto de rectificación por error material rebajó su pena de 8 años y 2 meses a en torno a 5 años: cinco años y un mes según El País (27-02-2026) y Europa Press, y cinco años según Cadena SER (02-03-2026). No se afirma la cifra exacta de cinco años ni una fecha concreta para el auto, cuya fecha no consta en fuente primaria; su contenido se conoce desde el 27-02-2026.
 - **Fecha de la sentencia de Cofely.** La sentencia está fechada el 19-12-2025 (cabecera del documento y CENDOJ); el CGPJ difundió su nota de prensa el 22-12-2025. Se distinguen ambas fechas y no se atribuye al 22 la fecha de la resolución.
-- **Personas investigadas sin condena.** José Ignacio Echevarría, Beltrán Gutiérrez y los implicados fallecidos (José Luis Huerta) figuran con el estado procesal documentado; no se les atribuyen delitos no confirmados por resolución judicial.
-- **Documentos.** No se han incorporado documentos judiciales locales al repositorio; `documentos` queda como lista vacía. La sentencia de la pieza 6 puede consultarse en el CENDOJ (ROJ: SAN 5625/2025) y las notas de prensa del CGPJ de las sentencias de 2025 y 2026 en poderjudicial.es.
+- **Personas investigadas sin condena.** José Ignacio Echeverría, Beltrán Gutiérrez y los implicados fallecidos (José Luis Huerta) figuran con el estado procesal documentado; no se les atribuyen delitos no confirmados por resolución judicial.
+- **Documentos.** Se incorpora un enlace externo a la copia de la sentencia 34/2025 de Cofely alojada en Los Genoveses, con fecha, cabecera, nombres y número de páginas comprobados; no se añaden ficheros PDF locales al repositorio. La sentencia de la pieza 6 puede consultarse en el CENDOJ (ROJ: SAN 5625/2025) y las notas de prensa del CGPJ de las sentencias de 2025 y 2026 en poderjudicial.es.
