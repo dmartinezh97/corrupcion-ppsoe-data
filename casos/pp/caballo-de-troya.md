@@ -115,7 +115,7 @@ cronologia:
       - "https://www.galiciapress.es/texto-diario/mostrar/2273450/partes-operacion-caballo-troya-abordan-cuestiones-organizativas-cara-juicio-preve-otono"
       - "https://www.elcorreogallego.es/santiago/2021/01/25/partes-operacion-caballo-troya-abordan-109813191.html"
 
-  - fecha: "2022-11-19"
+  - fecha: "2022-11-20"
     titulo: "Se informa del acuerdo de conformidad ante la Audiencia Provincial"
     descripcion: "La prensa informa de que el caso se cierra con un acuerdo entre la Fiscalía y las defensas: nueve de los trece acusados son condenados y cuatro absueltos, con multas por un total de 225.150 euros. José Luis Martínez Parra, María Isabel Martínez Parra y Ángel de Cabo se declaran culpables de un delito continuado de insolvencia punible, con un año y nueve meses de prisión y 3.600 euros de multa cada uno; José Luis Martínez Parra y De Cabo asumen además seis meses de prisión y otros 3.600 euros por favorecimiento de acreedores, de modo que la pena máxima conocida llegaría a dos años y tres meses si se acumulan, extremo que las fuentes no precisan. Se aplica a todos los condenados la atenuante de dilaciones indebidas en su grado máximo, se declara la nulidad de cinco escrituras notariales (2009-2012) y se multa a trece empresas del entramado. La fecha es la de publicación de la información: las fuentes no precisan el día exacto en que se dictó la resolución ni acreditan su firmeza."
     type: "sentencia"
@@ -124,7 +124,7 @@ cronologia:
       - "https://www.lavozdegalicia.es/noticia/santiago/santiago/2022/11/19/caballo-troya-cierra-penas-bajas-multas-225000-euros/00031668877168173371656.htm"
 
   - fecha: "2024-08-12"
-    titulo: "Fallece José Luis Martínez Parra"
+    titulo: "Se informa del fallecimiento de José Luis Martínez Parra"
     descripcion: "Fallece en Madrid el empresario berciano José Luis Martínez Parra, vicepresidente de Teconsa e implicado en Caballo de Troya, tras una larga enfermedad. Estaba condenado a 11 años y siete meses de prisión en la pieza separada de la trama Gürtel relativa al contrato de la visita del Papa (confirmada por el Supremo en 2023), condena cuya suspensión había acordado la Audiencia Nacional en mayo de 2024 por su estado terminal. La fecha es la de publicación de la noticia."
     type: "resumen"
     relevancia: "baja"
