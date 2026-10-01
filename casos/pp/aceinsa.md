@@ -20,7 +20,7 @@ tribunal:
   - "Juzgado de Instrucción de Salamanca (sobreseimiento provisional en 2018; las fuentes de prensa citan el nº 11 y el acta oficial del Pleno de 16-11-2018 cita el nº 1)"
   - "Tribunal Superior de Justicia de Castilla y León - Sala de lo Contencioso-Administrativo (sentencia 1321/2017, de 27 de noviembre de 2017)"
   - "Tribunal Supremo - Sala de lo Contencioso-Administrativo (Sala Tercera)"
-numeroSentencia: ""
+numeroSentencia: "1321/2017"
 implicados:
   - nombre: "Alfonso Fernández Mañueco"
     cargo: "Alcalde de Salamanca (PP) entre 2011 y 2018; presidente de la Junta de Castilla y León desde 2019"
