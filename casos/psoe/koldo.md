@@ -240,23 +240,23 @@ cronologia:
       - "https://efe.com/espana/2025-05-27/leire-diez-conversacion-sobre-uco-investigacion-periodistica/"
 
   - fecha: "2025-06-05"
-    titulo: "Informe de la UCO que implica a Santos Cerdán"
-    descripcion: "La UCO entrega un informe al Tribunal Supremo que incluye grabaciones de Koldo García implicando a Santos Cerdán en el cobro de comisiones por adjudicaciones de obras públicas. Las grabaciones, encontradas en dispositivos de Koldo, muestran conversaciones con Ábalos y Cerdán sobre deudas de constructoras como Acciona, por un total de 400.000 euros."
+    titulo: "Informe de la UCO 96/2025 sobre el amaño de obra pública"
+    descripcion: "El informe de la UCO fechado el 5 de junio de 2025 (Informe 96/2025), incorporado a la causa especial 20775/2020, incluye grabaciones de Koldo García que apuntan a implicaciones de Santos Cerdán en el cobro de comisiones por adjudicaciones de obras públicas, con conversaciones en las que se alude a deudas de constructoras. La fecha del documento (5 de junio) no acredita por sí sola que ese día se entregara al Tribunal Supremo: el contenido se conoció y motivó actuaciones del Supremo a partir del 10 de junio de 2025 y el 12 de junio el instructor ofreció a Cerdán declarar (CGPJ). Se recoge como contenido de un informe policial, no como hecho declarado probado."
     type: "resumen"
     relevancia: "alta"
     urls:
+      - "https://www.elmundo.es/espana/2025/06/10/68486d71e9cf4abd318b4578.html"
       - "https://www.20minutos.es/noticia/5253978/0/informe-uco-entregado-supremo-incluye-grabaciones-implican-cerdan-cobro-mordidas-caso-koldo/"
       - "https://elpais.com/espana/2025-06-11/una-grabacion-de-koldo-garcia-intervenida-por-la-uco-implica-a-santos-cerdan-en-un-supuesto-cobro-de-comisiones.html"
 
-  - fecha: "2025-06-05"
-    titulo: "Cerdán abronca a Koldo por mencionar las mordidas: «¡No hables de eso!»"
-    descripcion: "Este texto expone una conversación grabada en enero de 2021 entre Koldo García, José Luis Ábalos y Santos Cerdán (entonces secretario de Organización del PSOE), donde discuten sobre pagos pendientes relacionados con presuntas comisiones de constructoras por adjudicaciones amañadas. Durante el encuentro, Cerdán interrumpe bruscamente a Koldo cuando este menciona cantidades específicas de dinero entregado en sobres (450 y 50), ordenándole que no hable del tema, mientras que posteriormente advierte a Koldo sobre \"ruidos\" provenientes de diversas comunidades autónomas y le aconseja tener cuidado porque \"todos te utilizan\". La UCO considera esta conversación como el \"punto de inflexión\" que marca la salida de Ábalos del Gobierno, otorgándole una importancia clave en el caso Koldo."
-    type: "mp3"
-    relevancia: "alta"
+  - fecha: "2025-06-10"
+    titulo: "Registros de la UCO por el amaño de obra pública"
+    descripcion: "La UCO practica registros el 10 de junio de 2025, ordenados por el instructor del Tribunal Supremo, en el domicilio de José Luis Ábalos en Valencia y en la sede de la constructora Servinabar en Pamplona, además de en Granada y Vizcaya, en el marco de la investigación sobre presuntos amaños de obra pública. (La prensa de los días 14 y 15 de junio difundió que el informe de la UCO identificaba a cinco empresarios y a las constructoras Acciona, OPR y LIC, no investigados; los registros en sedes de Acciona se produjeron el 14 de noviembre de 2025, ya en la pieza de obra pública.)"
+    type: "resumen"
     urls:
-      - "https://www.youtube.com/embed/10LArR37c5k?modestbranding=1&showinfo=0&rel=0&enablejsapi=1"
-      - "https://theobjective.com/espana/tribunales/2025-06-13/audio-cerdan-koldo-mencionar-mordidas/"
-
+      - "https://efe.com/espana/2025-06-11/uco-registros-valencia-navarra-granada-vizcaya-caso-koldo/"
+      - "https://www.rtve.es/noticias/20250610/uco-registra-casa-abalos-valencia-marco-investigacion-del-caso-koldo/16618098.shtml"
+      - "https://theobjective.com/espana/tribunales/2025-06-10/uco-casa-abalos-amanos-contratos-publicos/"
 
   - fecha: "2025-06-11"
     titulo: "PSOE defiende a Cerdán tras el informe de la UCO"
@@ -265,20 +265,23 @@ cronologia:
     urls:
       - "https://www.20minutos.es/noticia/5253978/0/informe-uco-entregado-supremo-incluye-grabaciones-implican-cerdan-cobro-mordidas-caso-koldo/"
 
-  - fecha: "2025-06-13"
-    titulo: "Dimisión de Santos Cerdán"
-    descripcion: "Santos Cerdán dimite como secretario de organización del PSOE y entrega su acta de diputado tras ser implicado en el informe de la UCO. Defiende su inocencia, pero la crisis política en el PSOE se agrava."
+  - fecha: "2025-06-12"
+    titulo: "Dimisión de Santos Cerdán como secretario de Organización"
+    descripcion: "Santos Cerdán presenta su dimisión como secretario de Organización del PSOE el 12 de junio de 2025, durante el pleno del Congreso, tras conocerse el informe de la UCO, y defiende su inocencia. Ese mismo día el instructor del Tribunal Supremo le ofrece declarar voluntariamente. La entrega del acta de diputado es un acto posterior y distinto, que se produce el 16 de junio de 2025."
     type: "resumen"
     relevancia: "alta"
     urls:
-      - "https://www.eldiario.es/politica/origen-caso-koldo-sacude-gobierno-denuncia-pp-informe-incrimina-santos-cerdan_1_12379772.html"
+      - "https://www.elindependiente.com/espana/2025/06/12/santos-cerdan-dimite-como-secretario-de-organizacion-del-psoe-y-entrega-su-acta-de-diputado/"
+      - "https://www.lavozdegalicia.es/noticia/espana/2025/06/12/santos-cerdan-dimite-secretario-organizacion-psoe-entrega-acta-diputado/00031749736399521740930.htm"
 
-  - fecha: "2025-06-15"
-    titulo: "Registros en empresas vinculadas al caso"
-    descripcion: "La UCO registra empresas como Acciona, OPR y LIC, vinculadas a Santos Cerdán, Koldo García y Ábalos, por presunto amaño de adjudicaciones de obras públicas. Se identifican cinco empresarios relacionados con estas constructoras."
+  - fecha: "2025-06-16"
+    titulo: "Cerdán entrega su acta de diputado"
+    descripcion: "Santos Cerdán formaliza ante el Congreso la entrega de su acta de diputado, cuatro días después de anunciar su dimisión como secretario de Organización del PSOE. El trámite se realiza de forma telemática. Es un acto distinto de la dimisión del cargo orgánico, fechada el 12 de junio."
     type: "resumen"
+    relevancia: "media"
     urls:
-      - "https://www.ondacero.es/noticias/espana/cinco-empresarios-senalados-informe-uco-amano-adjudicaciones-caso-koldo_20250615684e45544d20a30b71fb0446.html"
+      - "https://www.elmundo.es/espana/2025/06/16/684fe233fc6c8346338b45a2.html"
+      - "https://www.heraldo.es/noticias/nacional/2025/06/16/santos-cerdan-entrega-acta-diputado-psoe-1832284.html"
 
   - fecha: "2025-06-26"
     titulo: "Registros en casas de ex altos cargos de Transportes"
@@ -289,7 +292,7 @@ cronologia:
 
   - fecha: "2025-06-30"
     titulo: "Ingreso en prisión de Santos Cerdán"
-    descripcion: "El juez Leopoldo Puente ordena la prisión provisional sin fianza de Santos Cerdán por delitos de organización criminal, cohecho y tráfico de influencias. Cerdán se niega a responder preguntas en el interrogatorio, y el juez considera que existe riesgo de fuga y destrucción de pruebas."
+    descripcion: "El instructor del Tribunal Supremo Leopoldo Puente ordena la prisión provisional, comunicada y sin fianza, de Santos Cerdán por indicios de organización criminal, cohecho y tráfico de influencias. Cerdán declara ese día y solo responde a las preguntas de su abogado, negando los hechos; el juez aprecia riesgo de fuga y de destrucción de pruebas."
     type: "resumen"
     relevancia: "alta"
     urls:
@@ -343,7 +346,7 @@ cronologia:
 
   - fecha: "2025-07-30"
     titulo: "Prórroga de la investigación hasta marzo de 2026"
-    descripcion: "El juez Leopoldo Puente prorroga la investigación del caso Koldo por seis meses más, hasta marzo de 2026, debido al 'significativo volumen' de material intervenido, incluyendo grabaciones y registros telefónicos aún pendientes de análisis por la UCO."
+    descripcion: "El instructor del Tribunal Supremo Leopoldo Puente dicta el 30 de julio de 2025 un auto que prorroga la investigación seis meses más, desde el 8 de septiembre de 2025 hasta el 8 de marzo de 2026, en atención al 'significativo volumen' de material intervenido, con grabaciones y registros telefónicos pendientes de análisis por la UCO."
     type: "resumen"
     urls:
       - "https://www.elconfidencial.com/espana/2025-07-30/tribunal-supremo-prorroga-caso-koldo-volumen-material_3934057/"
@@ -358,9 +361,10 @@ cronologia:
 
   - fecha: "2025-09-23"
     titulo: "División del caso en líneas de investigación"
-    descripcion: "El Supremo divide el 'caso Koldo' y abre una línea de investigación específica sobre los presuntos amaños de obra pública, separándola de la investigación sobre material sanitario. Esto permite a la Fiscalía Europea investigar paralelamente los contratos relacionados con fondos europeos."
+    descripcion: "El instructor del Tribunal Supremo desglosa la causa en dos piezas mediante auto de 23 de septiembre de 2025: la principal mantiene los hechos ajenos a la obra pública (entre ellos los contratos de mascarillas y la contratación irregular en empresas públicas) y la pieza separada incluye las adjudicaciones presuntamente ilícitas de obra pública, en fase incipiente. En la pieza separada figuran como investigados Ábalos, Koldo García, Víctor de Aldama, Santos Cerdán y varios empresarios."
     type: "resumen"
     urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-instructor-del-Tribunal-Supremo-desglosa-en-una-pieza-separada-la-investigacion-a-Santos-Cerdan--Jose-Luis-Abalos--Koldo-Garcia-y-otras-personas-por-ilicitas-adjudicaciones-de-obra-publica"
       - "https://www.infobae.com/espana/agencias/2025/09/23/el-supremo-divide-el-caso-koldo-y-abre-una-linea-de-investigacion-especifica-sobre-los-presuntos-amanos-de-obra/"
 
   - fecha: "2025-09-26"
@@ -376,13 +380,6 @@ cronologia:
     type: "resumen"
     urls:
       - "https://www.moncloa.com/2025/09/30/la-fiscalia-europea-pide-al-supremo-los-contratos-que-investiga-en-el-caso-koldo-3265637"
-
-  - fecha: "2025-10-02"
-    titulo: "Marlaska acelera cambios en la UCO durante el caso Koldo"
-    descripcion: "El ministro del Interior Fernando Grande-Marlaska prepara el relevo del jefe de la UCO, el coronel Rafael Vicente Yuste, quien será ascendido a general en noviembre. La favorita para ocupar el cargo es la teniente coronel María Dolores Gimeno Durán, asesora de Marlaska, quien sería ascendida a coronel en marzo y se convertiría en la primera mujer coronel de la Guardia Civil. Los cambios se producen en plena investigación del caso Koldo, con varios informes pendientes sobre el exministro Ángel Víctor Torres y la presidenta del Congreso Francina Armengol."
-    type: "resumen"
-    urls:
-      - "https://theobjective.com/espana/2025-10-02/marlaska-cambios-uco-caso-koldo-mujer/"
 
   - fecha: "2025-10-03"
     titulo: "UCO investiga 36 cuentas bancarias de Herrero y Pardo de Vera"
@@ -434,19 +431,22 @@ cronologia:
       - "https://www.eldebate.com/espana/20251127/abalos-koldo-comparten-celda-prision-soto-real_359844.html"
       - "https://www.elespanol.com/espana/tribunales/20251127/abalos-koldo-supremo-directo-juez-carcel-prision/1003744031598_10.html"
 
-  - fecha: "2025-12-06"
-    titulo: "Prórroga de 6 meses y nuevas imputaciones previstas"
-    descripcion: "El juez Ismael Moreno prorroga la investigación del caso Koldo por seis meses más, hasta el 21 de junio de 2026, debido al significativo volumen de material intervenido. Solo a Koldo García se le incautaron 23 dispositivos electrónicos, la mayoría teléfonos móviles. El auto señala que se esperan 'nuevas imputaciones' conforme avance el análisis del material. La prórroga fue solicitada por el fiscal Anticorrupción Luis Pastor el 24 de noviembre."
+  - fecha: "2025-12-01"
+    titulo: "El Gobierno asciende a general al jefe de la UCO y fuerza su relevo"
+    descripcion: "El Gobierno acuerda el ascenso a general del coronel Rafael Yuste, jefe de la UCO, lo que obliga a su relevo al frente de la unidad que instruye investigaciones vinculadas al caso Koldo. La prensa publica la decisión el 1 de diciembre de 2025 y señala que el nombramiento se aprobaría en el Consejo de Ministros del día siguiente."
     type: "resumen"
+    relevancia: "media"
     urls:
-      - "https://www.moncloa.com/2025/12/06/caso-koldo-nuevas-imputaciones-3345463"
+      - "https://elpais.com/espana/2025-12-01/interior-asciende-al-jefe-de-la-uco-y-fuerza-el-relevo-en-la-cupula-de-la-unidad-anticorrupcion-de-la-guardia-civil.html"
+      - "https://www.heraldo.es/noticias/nacional/2025/12/01/gobierno-asciende-general-jefe-uco-obliga-relevo-unidad-investiga-caso-koldo-1875145.html"
 
-  - fecha: "2025-12-27"
+  - fecha: "2025-12-26"
     titulo: "Patricia Úriz citada a declarar por blanqueo de capitales"
-    descripcion: "El juez Ismael Moreno, titular del Juzgado Central de Instrucción nº 2 de la Audiencia Nacional, cita a declarar a Patricia Úriz, exmujer de Koldo García, para el 20 de enero de 2026 por presunto blanqueo de capitales. El magistrado observa 'indicios de criminalidad' tras analizar informes de la UCO que vinculan a la investigada con la gestión de sobres con dinero en efectivo procedentes presuntamente de la sede socialista de Ferraz."
+    descripcion: "El juez Ismael Moreno, titular del Juzgado Central de Instrucción nº 2 de la Audiencia Nacional, cita a declarar como investigada a Patricia Úriz, exmujer de Koldo García, para el 20 de enero de 2026, a petición del fiscal Anticorrupción y por presunto blanqueo de capitales. La cita se conoce el 26 de diciembre de 2025."
     type: "imputación"
     urls:
-      - "https://www.moncloa.com/2025/12/27/caso-koldo-uriz-blanqueo-3350353"
+      - "https://www.lasexta.com/noticias/nacional/juez-ismael-moreno-cita-declarar-como-investigada-exmujer-koldo-garcia_20251226694e9eb722f0db7daffe7319.html"
+      - "https://confilegal.com/20251226-el-magistrado-moreno-cita-a-declarar-a-la-expareja-de-koldo-garcia-el-proximo-20-de-enero-por-el-caso-de-las-mascarillas/"
 
   - fecha: "2026-01-15"
     titulo: "Vista para revisar prisión de Ábalos y Koldo"
@@ -473,8 +473,8 @@ cronologia:
       - "https://www.infobae.com/espana/2026/02/02/el-supremo-deja-en-manos-de-la-audiencia-nacional-la-investigacion-todavia-abierta-del-caso-koldo-tras-la-renuncia-de-abalos-a-su-acta-de-diputado/"
 
   - fecha: "2026-02-10"
-    titulo: "Anticorrupción pide más tiempo para investigar"
-    descripcion: "La Fiscalía Anticorrupción solicita una cuarta prórroga de seis meses para continuar la investigación del caso Koldo, alegando que quedan pendientes dos informes clave: uno del Servicio de Salud Balear y otro de la investigación ONIF-AEAT. El caso se divide ahora en tres líneas de investigación: mascarillas, obras públicas y financiación del PSOE. La UCO tiene aún en análisis forense 169 dispositivos digitales incautados a los investigados."
+    titulo: "Fiscalía pide una nueva prórroga de la instrucción (noticia del 10 de febrero)"
+    descripcion: "La Fiscalía Anticorrupción solicita una nueva prórroga de seis meses para continuar la investigación del caso Koldo, alegando que quedan pendientes informes clave (entre ellos el del Servicio de Salud de Baleares y el de la ONIF-AEAT). La solicitud se recoge en la prensa del 9 y el 10 de febrero de 2026; la fecha exacta del escrito no consta con precisión. La UCO mantenía en análisis numerosos dispositivos digitales incautados."
     type: "resumen"
     urls:
       - "https://www.elindependiente.com/espana/2026/02/10/anticorrupcion-pide-tiempo-investigar-caso-koldo-informes-clave-pendientes/"
@@ -745,6 +745,7 @@ cronologia:
 - **Coste**: el campo `coste` se ha fijado en 32.500.000 euros como volumen agregado de los dos contratos de mascarillas declarados probados (20.000.000 euros de Puertos del Estado y 12.500.000 euros de ADIF). No es un perjuicio cuantificado ni un lucro declarado: la sentencia no fija esa cifra como daño. Otras magnitudes del caso son las comisiones canalizadas por Aldama (6.676.046,09 euros) y el decomiso acordado (430.298 euros). El valor anterior (9.600.000 euros) no se pudo contrastar con ninguna fuente.
 - **Nombres contrastados**: se corrige «Juan Carlos Cueto Corsón» por «Juan Carlos Cueto Martín» (consta en los antecedentes de la STS 418/2026 y en fuentes secundarias), «Santos Cerdán López» por «Santos Cerdán León» (sentencia y ficha oficial del Congreso) y «Rubén Villalba Gómez» por «Rubén Villalba Carnerero» (Newtral/EFE). Se retira de `implicados` a «María Magdalena Cueto»: no aparece en la sentencia ni en las fuentes consultadas, su identidad y su papel no se han podido contrastar y algunas fuentes mencionan a una hermana de Juan Carlos Cueto llamada «María del Carmen Cueto», por lo que podría tratarse de una confusión; queda como duda en este cuerpo, sin afirmarla investigada.
 - **Fuentes de los eventos de 2025**: se han priorizado la sentencia (STS 418/2026) y la nota del CGPJ, y se han sustituido los enlaces cortos (t.co) no verificables. Los eventos de 2025-04-09 (informe de la UCO sobre Air Europa), 2025-05-10 (publicación de los mensajes Sánchez-Ábalos, antes fechada el 12 de mayo), 2025-05-20 (imputación de Pardo de Vera), 2025-05-26 (audios de Leire Díez) y 2025-07-21 (declaración de Pardo de Vera y Herrero) ya no se apoyan en Wikipedia: citan prensa identificable (El Mundo, El País, RTVE, El Confidencial, EFE, The Objective, Antena 3, Euronews y La Vanguardia). No se ha accedido a las resoluciones judiciales subyacentes, por lo que se recogen como información de prensa; en 2025-04-09 se explicita que se trata del contenido de un informe policial (UCO 49/2025) y no de un hecho declarado probado, y en 2025-05-26 se recoge la versión de la afectada y que el episodio dio lugar a una causa separada.
+- **Contraste de la cronología heredada (junio-diciembre de 2025)**: en esta revisión se ha contrastado el tramo de junio a diciembre de 2025. (1) El informe de la UCO 96/2025 está fechado el 5 de junio de 2025, pero no está acreditado que se entregara al Tribunal Supremo ese mismo día; su contenido se conoció y motivó actuaciones del Supremo a partir del 10 de junio (El Mundo) y el 12 de junio el instructor ofreció a Cerdán declarar (CGPJ). (2) Santos Cerdán dimitió como secretario de Organización el 12 de junio de 2025 (El Independiente, La Voz de Galicia, CGPJ) y entregó su acta de diputado el 16 de junio de 2025 (El Mundo, Heraldo): son actos distintos que la ficha anterior fusionaba en la fecha del 13 de junio. (3) Los registros de la UCO por el amaño de obra pública se practicaron el 10 de junio de 2025 (domicilio de Ábalos en Valencia y sede de Servinabar en Pamplona, además de Granada y Vizcaya; EFE, RTVE, The Objective); el 15 de junio de 2025 era domingo y la prensa de esos días se refería a los cinco empresarios y a las constructoras Acciona, OPR y LIC señalados por el informe, no a registros; los registros en sedes de Acciona se produjeron el 14 de noviembre de 2025. (4) El 30 de junio de 2025 Cerdán declaró y solo respondió a las preguntas de su abogado (negó los hechos); el juez apreció riesgo de fuga y de destrucción de pruebas, no una negativa a declarar. (5) Se retira de la cronología el audio del «¡No hables de eso!»: es una conversación de enero de 2021, sin día exacto acreditado, difundida por The Objective el 13 de junio de 2025. (6) Se retira el evento del 2 de octubre de 2025 sobre un relevo del jefe de la UCO: la información de The Objective era especulativa y sin resolución confirmada; el relevo efectivo se produjo tras el ascenso a general del coronel Yuste, anunciado el 1 de diciembre de 2025 (El País, Heraldo). (7) Se retira el evento del 6 de diciembre de 2025 sobre una prórroga hasta el 21 de junio de 2026 (Moncloa.com): el calendario de prórrogas de la causa principal en la Audiencia Nacional publicado por EFE/Heraldo (2 de septiembre de 2024, 27 de febrero de 2025 y 3 de septiembre de 2025) no lo confirma, por lo que el dato queda pendiente. La cita de Patricia Úriz se fecha el 26 de diciembre de 2025 (laSexta, Confilegal). La prórroga del Tribunal Supremo de 30 de julio de 2025 fija el periodo del 8 de septiembre de 2025 al 8 de marzo de 2026.
 - **Eventos con fecha parcial retirados de la cronología**: la cronología exige fecha ISO completa (YYYY-MM-DD) y no se debe inventar el día cuando solo consta el mes y el año. Por eso se han retirado del array estos cuatro eventos, conservando aquí su contenido y su grado de incertidumbre:
   - **julio de 2021** — Cese de Ábalos como ministro de Transportes y secretario de Organización del PSOE. No consta el día exacto ni una relación directa acreditada con el caso en ese momento.
   - **noviembre de 2021** — Intercambio de mensajes de WhatsApp entre Pedro Sánchez y Ábalos, filtrados en mayo de 2025. No consta el día exacto; el episodio se recoge en la entrada de 2025-05-10 a partir de la publicación de El Mundo.
@@ -753,4 +754,4 @@ cronologia:
 - **Vacaciones de Marbella (agosto de 2020)**: la versión anterior de esta ficha retiraba el evento por falta del día exacto y afirmaba, a partir de fuentes secundarias, que Ábalos había disfrutado de un chalé en Marbella «proporcionado por Globalia» como contraprestación por el rescate de Air Europa. Esa afirmación es incorrecta: la STS 418/2026 (páginas 40-42 y 137-138) declara probado que las vacaciones tuvieron lugar del 14 al 23 de agosto de 2020 en Villa Parra, que el contrato lo firmó el 11 de agosto de 2020 Patricia Úriz con la propietaria KID CLASS SL y que la estancia se pagó con cargo a las entregas de dinero de Aldama a los acusados; precisa además que a Javier Hidalgo no se le dio noticia del asunto y que no consta que la vivienda la proporcionara Globalia. Por existir ya el día exacto, el evento se ha restaurado en la cronología con fecha 2020-08-14.
 - **Implicados con evidencia solo de contenido previo (lagunas)**: se han revisado los implicados cuya evidencia procedía únicamente de la ficha previa y no de la sentencia ni de fuentes verificables, corrigiendo roles judiciales no acreditados y registrando la laguna de cada uno. **Leticia Lauffer Medina** (antes descrita como «pareja sentimental de Aldama» e investigada por blanqueo): las fuentes la identifican como exdirectora de Wakalua (filial de Globalia) y nexo entre Begoña Gómez y Air Europa, y declaró en el Senado y en el caso Begoña Gómez; no consta vínculo sentimental con Aldama ni condición de investigada en el caso Koldo. **Claudio Rivas** (antes «socio empresarial de Aldama» en fraude fiscal): la sentencia lo sitúa como empresario de hidrocarburos en las gestiones de la licencia de VILLAFUEL S.L., sin condena ni acusación por fraude fiscal. **Luis Alberto Escolano Marín**: la sentencia le cita como socio de Aldama y partícipe en el pago del alquiler del apartamento de Jésica Rodríguez; no fue acusado por la Fiscalía y la punibilidad por falsedad interesada por la acusación popular no se declaró probada. **Roberto González Arnaiz** y **Cristina Álvarez Guisasola**: no se ha localizado ninguna fuente independiente que acredite su identidad ni su papel; se retira la afirmación de irregularidades y la condición de investigada y quedan como revisión pendiente. **Luisa Presa Medina**: consta como empresaria de Vitoria investigada por blanqueo y como persona interpuesta de Cueto con participación simbólica en Soluciones de Gestión (El Diario/Infobae), por lo que se mantiene con ese rol.
 - **Fechas de eventos de 2026**: cuando el único dato disponible es la noticia o publicación, la descripción lo indica y no se atribuye una fecha de hecho no comprobada (por ejemplo, 30-07, 19-09 y 28-09 de 2026). El evento de 2026-09-11 (declaración de Cueto y Rotaeche como investigados) procede de dos medios y no se ha consultado la resolución judicial.
-- **Incógnitas**: no se ha podido verificar el número cerrado de investigados en las piezas separadas ni el desenlace de todos los recursos. El detalle de algunas fechas antiguas (por ejemplo, la fecha exacta de la detención inicial) presenta pequeñas discrepancias entre fuentes.
+- **Incógnitas**: no se ha podido verificar el número cerrado de investigados en las piezas separadas ni el desenlace de todos los recursos. El detalle de algunas fechas antiguas (por ejemplo, la fecha exacta de la detención inicial) presenta pequeñas discrepancias entre fuentes. Queda pendiente confirmar con una resolución la prórroga de la Audiencia Nacional que la prensa situaba en diciembre de 2025 (hasta el 21 de junio de 2026) y la fecha exacta del escrito de petición de la prórroga de febrero de 2026; hasta entonces se tratan como información de prensa no confirmada. También se mantienen como información de prensa los hechos del tramo de 2025 cuya resolución judicial no se ha consultado.
