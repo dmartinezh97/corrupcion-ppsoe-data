@@ -44,7 +44,7 @@ implicados:
     cargo: "Promotor inmobiliario; representante de Residencial Aguas Nuevas S.L. en el periodo de los hechos"
     rol: "Acusado de prevaricación, malversación de caudales públicos y fraude; absuelto por la Audiencia Provincial de Ávila (SAP 124/2012). El BOP de 20/7/2005 lo identifica como representante de Residencial Aguas Nuevas S.L."
 
-  - nombre: "María Jesús Ruiz"
+  - nombre: "María Jesús Ruiz Ruiz"
     cargo: "Consejera de Medio Ambiente de la Junta de Castilla y León en el periodo de los hechos (PP); posteriormente senadora"
     rol: "Investigada por su intervención en la Declaración de Impacto Ambiental; el TSJ de Castilla y León archivó la pieza (auto de 4 de diciembre de 2008, ROJ ATSJ CL 327/2008, ratificado por otro de 11 de diciembre de 2008). No fue enjuiciada"
 
