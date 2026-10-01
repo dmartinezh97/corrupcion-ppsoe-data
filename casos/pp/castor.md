@@ -15,8 +15,8 @@ descripcion: |
 
   En febrero de 2018, el Observatorio de Deuda en la Globalización (ODG), Xnet y el Institut de Drets Humans presentaron ante la Audiencia Nacional una querella por estafa, prevaricación, fraude a la administración pública y malversación contra el presidente de ACS Florentino Pérez, el presidente de Escal UGS Recaredo del Potro, cuatro exministros del PSOE (Joan Clos y Miguel Sebastián, de Industria; Magdalena Álvarez, de Fomento, y Elena Espinosa, de Agricultura), el exministro del PP José Manuel Soria, el exsecretario general de Energía Ignasi Nieto y el exconseller valenciano Juan Cotino. La jueza Carmen Lamela archivó la querella en junio de 2018 al no apreciar indicios de delito, y la Sala de lo Penal de la Audiencia Nacional confirmó el archivo. En el proceso penal por daños medioambientales, la Sección 1ª de la Audiencia Provincial de Castellón absolvió el 30 de noviembre de 2021 a los dos directivos procesados y a la propia empresa; la sentencia quedó firme en 2022 después de que la Fiscalía y la acusación particular retiraran sus recursos de casación. No constan condenas penales firmes por este caso.
 
-  En abril de 2025 se autorizó el sellado y abandono definitivo de los trece pozos y Enagás inició los trabajos. Una sentencia del Tribunal Supremo de 4 de diciembre de 2025 reconoció el derecho de Enagás a percibir las prestaciones de operación y mantenimiento del almacén; en febrero de 2026 se informó de que el Estado deberá pagarle más de 250 millones (más de 125 por operación y mantenimiento y 129,67 por el desmantelamiento) y en julio de 2026 se informó de que el coste de la clausura supera los 330 millones y de que, sumadas las indemnizaciones, el coste acumulado para los consumidores y el erario se acerca a 1.700 millones. La previsión difundida era concluir el sellado en el verano de 2026. Ámbito e incertidumbres: no se ha localizado confirmación oficial de la finalización efectiva del desmantelamiento ni de la firmeza de toda la litigiosidad económica; la vía penal está cerrada sin condenas y la clausura física seguía en ejecución según los últimos datos documentados. El caso afectó a gobiernos tanto del PSOE (concesión de 2008) como del PP (suspensión de 2013 e indemnización de 2014).
-resumen: "El Estado reconoció 1.350 millones de euros a la concesionaria de un almacén de gas que provocó centenares de seísmos y nunca llegó a operar; el coste recayó en los consumidores y en el erario, sin condenas penales"
+  En abril de 2025 se autorizó el sellado y abandono definitivo de los trece pozos y Enagás inició los trabajos. Una sentencia del Tribunal Supremo de 4 de diciembre de 2025 reconoció el derecho de Enagás a percibir la retribución por las tareas de administración, operación y mantenimiento del almacén, sin efecto en su cuenta de resultados y con una cuenta a cobrar de 125.007 miles de euros en fase de ejecución de sentencia; Enagás registra por separado, según el criterio de sus asesores jurídicos, un saldo de 129.677 miles de euros por los trabajos de desmantelamiento, que no forma parte de la sentencia. En febrero de 2026 se informó de que el importe por operación, mantenimiento y desmantelamiento superaba los 250 millones de euros y en julio de 2026 de que el coste de la clausura supera los 330 millones y de que, sumados a la compensación de 1.350 millones, el coste contable para consumidores y erario se acerca a 1.700 millones; son estimaciones contables, no el fallo de un tribunal. La previsión difundida era concluir el sellado en el verano de 2026; no consta confirmación oficial de la finalización efectiva y no se han localizado noticias posteriores a julio de 2026. Ámbito e incertidumbres: no se ha localizado confirmación oficial de la finalización efectiva del desmantelamiento ni de la firmeza de toda la litigiosidad económica; la vía penal está cerrada sin condenas. El caso afectó a gobiernos tanto del PSOE (concesión de 2008) como del PP (suspensión de 2013 e indemnización de 2014). La fechaInicio (26 de septiembre de 2013) corresponde a la resolución que ordenó el cese de las inyecciones, no al inicio del proyecto ni de los hechos, que se remontan a la tramitación de la concesión y a las inyecciones de gas colchón de junio de 2013.
+resumen: "El Estado comprometió una compensación de 1.350 millones de euros a la concesionaria de un almacén de gas que provocó centenares de seísmos y nunca llegó a operar de forma regular; el Tribunal Constitucional anuló esa compensación y el coste derivó en indemnizaciones con cargo al erario, sin condenas penales"
 coste: 1350000000
 lugar: "Vinaròs (Castellón) y costa del Ebro (Tarragona)"
 tribunal:
@@ -57,8 +57,8 @@ implicados:
     rol: "Querellada por el marco concesional y la modificación de los límites marítimos del proyecto; querella archivada"
 
   - nombre: "Elena Espinosa Mangana"
-    cargo: "Ministra de Medio Ambiente y Medio Rural y Marino (PSOE, 2004-2008; Agricultura en 2008-2010)"
-    rol: "Querellada por las autorizaciones ambientales del proyecto; querella archivada"
+    cargo: "Ministra de Agricultura, Pesca y Alimentación (PSOE, 2004-2008) y ministra de Medio Ambiente, y Medio Rural y Marino (PSOE, 2008-2010)"
+    rol: "Querellada por su responsabilidad en la tramitación del proyecto (en la etapa en que ocupaba la cartera de Agricultura); querella archivada"
 
   - nombre: "Ignasi Nieto Magaldi"
     cargo: "Secretario General de Energía (Ministerio de Industria, 2006-2008)"
@@ -73,28 +73,34 @@ tags:
   - "malversación"
   - "fraude"
   - "daños medioambientales"
-impactoSocial: "El Caso Castor es uno de los proyectos energéticos de mayor coste público en España: un almacén subterráneo de gas que nunca llegó a operar de forma regular provocó centenares de seísmos, fue clausurado y generó un gasto para los consumidores y el erario que las estimaciones de 2026 sitúan en torno a 1.700 millones de euros. Más de una década después no hay condenas penales por el caso y el desmantelamiento del almacén continuaba en ejecución según los últimos datos documentados."
+impactoSocial: "El Caso Castor es uno de los proyectos energéticos de mayor coste público en España: un almacén subterráneo de gas que nunca llegó a operar de forma regular provocó centenares de seísmos, fue clausurado y generó un gasto para los consumidores y el erario que las estimaciones contables de 2026 sitúan en torno a 1.700 millones de euros (1.350 millones de compensación más los costes de operación, mantenimiento y desmantelamiento). Más de una década después no hay condenas penales firmes por el caso; la última información localizada (julio de 2026) mantenía la previsión de concluir el sellado en el verano de 2026, sin confirmación oficial de la finalización."
 documentos:
-  - fecha: "2018-01-17"
-    titulo: "Sentencia del Tribunal Constitucional 152/2017, de 21 de diciembre (ECLI:ES:TC:2017:152), publicada en el BOE"
+  - fecha: "2017-12-21"
+    titulo: "Sentencia del Tribunal Constitucional 152/2017, de 21 de diciembre (ECLI:ES:TC:2017:152), que anula parcialmente el RDL 13/2014"
     filetype: "pdf"
     paginas: 34
     nombre_fichero: "https://www.boe.es/boe/dias/2018/01/17/pdfs/BOE-A-2018-614.pdf"
 
-  - fecha: "2025-04-14"
+  - fecha: "2025-04-01"
     titulo: "Resolución de 1 de abril de 2025, de la Dirección General de Política Energética y Minas, por la que se autoriza el sellado y abandono definitivo de los pozos de Castor (BOE-A-2025-7577)"
     filetype: "pdf"
     paginas: 16
     nombre_fichero: "https://www.boe.es/boe/dias/2025/04/14/pdfs/BOE-A-2025-7577.pdf"
 
-  - fecha: "2014-10-04"
+  - fecha: "2014-10-03"
     titulo: "Real Decreto-ley 13/2014, de 3 de octubre, por el que se adoptan medidas urgentes en relación con el sistema gasista y la titularidad de centrales nucleares (BOE-A-2014-10059)"
     filetype: "pdf"
     paginas: 13
     nombre_fichero: "https://www.boe.es/boe/dias/2014/10/04/pdfs/BOE-A-2014-10059.pdf"
 
-  - fecha: "2026-03-11"
-    titulo: "Informe Anual 2025 de Enagás (incluye el saldo pendiente de los trabajos de desmantelamiento de Castor y la situación de los derechos de cobro)"
+  - fecha: "2008-05-16"
+    titulo: "Real Decreto 855/2008, de 16 de mayo, por el que se otorga a Escal UGS la concesión de explotación para el almacenamiento subterráneo de gas natural 'Castor' (BOE-A-2008-9760)"
+    filetype: "pdf"
+    paginas: 2
+    nombre_fichero: "https://www.boe.es/boe/dias/2008/06/05/pdfs/A26051-26052.pdf"
+
+  - fecha: "2026-02-16"
+    titulo: "Informe Anual 2025 de Enagás, formulado por su Consejo de Administración (incluye el saldo pendiente de los trabajos de desmantelamiento de Castor y la situación de los derechos de cobro)"
     filetype: "pdf"
     paginas: 401
     nombre_fichero: "https://www.enagas.es/content/dam/enagas/es/ficheros/sala-de-comunicacion/publicaciones/informe-anual/2025%20Informe%20Anual%20Enag%C3%A1s.pdf"
@@ -155,8 +161,8 @@ cronologia:
       - "https://www.boe.es/buscar/act.php?id=BOE-A-2014-10059"
 
   - fecha: "2015-01-26"
-    titulo: "El juzgado de Vinaròs imputa a 18 personas por la tramitación"
-    descripcion: "El Juzgado de Instrucción nº 4 de Vinaròs abre causa por presuntas irregularidades en la tramitación de la concesión y cita como imputadas a 18 personas, entre ellas responsables del Instituto Geológico y Minero de España, del Ministerio de Industria, cargos de evaluación ambiental, miembros del consejo de administración de Escal UGS y la propia mercantil, por presunta prevaricación medioambiental y delitos contra el medio ambiente y los recursos naturales, a raíz de una denuncia de la Fiscalía."
+    titulo: "Se conoce la imputación de 18 personas por la tramitación"
+    descripcion: "El Juzgado de Instrucción nº 4 de Vinaròs abre causa por presuntas irregularidades en la tramitación de la concesión y cita como imputadas a 18 personas, entre ellas responsables del Instituto Geológico y Minero de España, del Ministerio de Industria, cargos de evaluación ambiental, miembros del consejo de administración de Escal UGS y la propia mercantil, por presunta prevaricación medioambiental y delitos contra el medio ambiente y los recursos naturales, a raíz de una denuncia de la Fiscalía. La fecha del hito corresponde a la publicación de la noticia (26 de enero de 2015); no se ha localizado el auto con la fecha exacta del acto."
     type: "imputación"
     relevancia: "media"
     urls:
@@ -190,8 +196,8 @@ cronologia:
       - "https://www.rtve.es/noticias/20180227/tres-colectivos-se-querellan-contra-cinco-exministros-florentino-perez-por-almacen-castor/1685880.shtml"
 
   - fecha: "2018-06-21"
-    titulo: "La Audiencia Nacional archiva la querella"
-    descripcion: "La jueza Carmen Lamela, titular del Juzgado Central de Instrucción nº 3, archiva la querella al considerar que la obra no respondió a una idea aislada ni contraria a la ley y que la actuación fue razonada y documentada, descartando indicios de delito. La Sala de lo Penal de la Audiencia Nacional confirmó después el archivo."
+    titulo: "Se conoce el archivo de la querella por la jueza Lamela"
+    descripcion: "La jueza Carmen Lamela, titular del Juzgado Central de Instrucción nº 3, archiva la querella al considerar que la obra no respondió a una idea aislada ni contraria a la ley y que la actuación fue razonada y documentada, descartando indicios de delito. La Sala de lo Penal de la Audiencia Nacional confirmó después el archivo. La resolución se dio a conocer el 21 de junio de 2018 (auto «conocido este jueves»); no se ha localizado la fecha exacta del acto."
     type: "investigación"
     relevancia: "alta"
     urls:
@@ -205,25 +211,25 @@ cronologia:
     urls:
       - "https://elpais.com/economia/2023-09-21/la-audiencia-nacional-condena-a-acs-a-devolver-los-210-millones-que-cobro-por-el-proyecto-castor.html"
 
-  - fecha: "2019-10-16"
-    titulo: "El juez procesa a dos directivos y a Escal UGS por delito medioambiental"
-    descripcion: "El Juzgado de Instrucción nº 4 de Vinaròs dicta auto de procedimiento abreviado contra Recaredo del Potro y José Luis Martínez Dalmau, directivos de Escal UGS, y contra la propia mercantil por delito contra el medio ambiente y los recursos naturales, y archiva la causa respecto a diez funcionarios. La Fiscalía pedía seis años de prisión y multa para cada directivo."
+  - fecha: "2019-10-15"
+    titulo: "El juez dicta auto de procedimiento abreviado contra dos directivos y Escal UGS por delito medioambiental"
+    descripcion: "El Juzgado de Instrucción nº 4 de Vinaròs dicta auto de procedimiento abreviado contra Recaredo del Potro y José Luis Martínez Dalmau, directivos de Escal UGS, y contra la propia mercantil por delito contra el medio ambiente y los recursos naturales, y archiva la causa respecto a diez funcionarios. La Fiscalía pedía seis años de prisión y multa para cada directivo. El auto consta fechado el 15 de octubre de 2019 y fue notificado a las partes el 16 de octubre, fecha en que se publicó la noticia."
     type: "imputación"
     relevancia: "alta"
     urls:
       - "https://www.cope.es/emisoras/comunidad-valenciana/castellon-provincia/castellon/noticias/juez-encausa-por-delito-medioambiental-dos-directivos-escal-ugs-por-proyecto-castor-20191016_522365"
 
   - fecha: "2020-10-27"
-    titulo: "El Tribunal Supremo reconoce el derecho de los bancos a ser indemnizados por el Estado"
-    descripcion: "La sentencia 1404/2020, de 27 de octubre (Sala III, recurso 454/2018), estima en parte el recurso de Santander, CaixaBank y Bankia y reconoce su derecho a percibir de la Administración las cantidades que pagaron (1.350.729.000 euros) por adquirir el derecho de cobro contra el sistema gasista creado por el Real Decreto-ley 13/2014, anulado por el Tribunal Constitucional. La indemnización corresponde al Estado por responsabilidad del Estado legislador, no al sistema gasista. La nota informativa del CGPJ es de 29 de octubre de 2020."
+    titulo: "El Tribunal Supremo reconoce el derecho de los bancos a ser indemnizados por el Estado (ECLI:ES:TS:2020:3324)"
+    descripcion: "La sentencia 1404/2020, de 27 de octubre (Sala III, recurso 454/2018, ECLI:ES:TS:2020:3324), estima en parte el recurso de Santander, CaixaBank y Bankia y reconoce su derecho a percibir de la Administración las cantidades que pagaron (1.350.729.000 euros) por adquirir el derecho de cobro contra el sistema gasista creado por el Real Decreto-ley 13/2014, anulado por el Tribunal Constitucional. La indemnización corresponde al Estado por responsabilidad del Estado legislador, no al sistema gasista. La nota informativa del CGPJ es de 29 de octubre de 2020; el texto íntegro de la sentencia no se ha podido descargar de CENDOJ por las rutas probadas."
     type: "sentencia"
     relevancia: "alta"
     urls:
       - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/ci.El-Tribunal-Supremo-reconoce-el-derecho-de-los-bancos-a-percibir-de-la-Administracion-las-cantidades-pagadas-por-el-deposito-de-almacenamiento-de-gas-Castor.formato3"
 
   - fecha: "2021-11-30"
-    titulo: "La Audiencia de Castellón absuelve a los directivos y a Escal UGS"
-    descripcion: "La Sección 1ª de la Audiencia Provincial de Castellón absuelve a Recaredo del Potro, José Luis Martínez Dalmau y a la mercantil Escal UGS del delito contra el medio ambiente y los recursos naturales, sin pronunciarse sobre la responsabilidad civil. La sentencia, de 30 de noviembre de 2021, concluyó que no quedó acreditado el daño ni el dolo."
+    titulo: "Se conoce la absolución de los directivos y de Escal UGS por la Audiencia de Castellón"
+    descripcion: "La Sección 1ª de la Audiencia Provincial de Castellón absuelve a Recaredo del Potro, José Luis Martínez Dalmau y a la mercantil Escal UGS del delito contra el medio ambiente y los recursos naturales, sin pronunciarse sobre la responsabilidad civil. La sentencia se fecha el 30 de noviembre de 2021 según las fuentes periodísticas consultadas, que la difundieron ese día y señalaron el plazo de cinco días para recurrir en casación; no se ha podido descargar el texto oficial de CENDOJ. El tribunal concluyó que no quedó acreditado el daño ni el dolo."
     type: "sentencia"
     relevancia: "alta"
     urls:
@@ -238,9 +244,9 @@ cronologia:
     urls:
       - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-declara-la-inadmisibilidad-del-recurso-de-Escal-UGS-contra-el-acuerdo-de-desmantelamiento-del-almacen-subterraneo--Castor-"
 
-  - fecha: "2022-03-28"
-    titulo: "La absolución penal queda firme"
-    descripcion: "La sentencia absolutoria de la Audiencia Provincial de Castellón deviene firme después de que la Fiscalía desistiera el 17 de febrero de 2022 y la acusación particular (Aplaca) desistiera el 28 de marzo de 2022 de sus recursos de casación. La asociación de afectados anunció que acudiría a la vía civil para reclamar indemnizaciones."
+  - fecha: "2022-03-30"
+    titulo: "Se conoce la firmeza de la absolución penal"
+    descripcion: "Según Europa Press (30 de marzo de 2022), la Fiscalía había desistido el 17 de febrero de 2022 y la acusación particular (Aplaca) desistió el lunes 28 de marzo de 2022 de sus recursos de casación, por lo que la sentencia absolutoria de la Audiencia Provincial de Castellón quedó firme. La asociación de afectados anunció que acudiría a la vía civil para reclamar indemnizaciones. La firmeza se conoce a través de la información periodística; no se ha localizado la resolución formal que la declare, por lo que no se atribuye a un auto de 28 de marzo de 2022 no consultado."
     type: "sentencia"
     relevancia: "alta"
     urls:
@@ -257,7 +263,7 @@ cronologia:
 
   - fecha: "2025-04-01"
     titulo: "Se autoriza el sellado y abandono definitivo de los 13 pozos"
-    descripcion: "La Dirección General de Política Energética y Minas dicta resolución de 1 de abril de 2025 (publicada en el BOE el 14 de abril) por la que autoriza la ejecución del proyecto de sellado y abandono definitivo de los trece pozos del almacén, con la plataforma jack-up Noble Resolve. La autorización preveía una duración de seis a ocho meses; los trabajos continuaban en 2026."
+    descripcion: "La Dirección General de Política Energética y Minas dicta resolución de 1 de abril de 2025 (publicada en el BOE el 14 de abril) por la que autoriza la ejecución del proyecto de sellado y abandono definitivo de los trece pozos del almacén, con la plataforma jack-up Noble Resolve. La autorización preveía una duración de seis a ocho meses; la última información localizada (julio de 2026) mantenía la previsión de concluir en el verano de 2026, sin confirmación oficial."
     type: "documento"
     relevancia: "alta"
     urls:
@@ -273,15 +279,16 @@ cronologia:
 
   - fecha: "2025-12-04"
     titulo: "El Tribunal Supremo reconoce el derecho de Enagás a cobrar por la operación y el mantenimiento"
-    descripcion: "El Tribunal Supremo dicta sentencia el 4 de diciembre de 2025 reconociendo el derecho de Enagás Transporte a percibir las prestaciones de operación y mantenimiento del almacén de Castor, tras su reclamación de responsabilidad patrimonial ante el Ministerio para la Transición Ecológica. Según la información remitida por Enagás a la CNMV, la cuenta a cobrar por este concepto supera los 125 millones de euros. La sentencia es firme."
+    descripcion: "Según las cuentas anuales de Enagás de 2025, el 4 de diciembre de 2025 el Tribunal Supremo dictó sentencia por la que estimó el derecho de Enagás Transporte a cobrar la retribución por las tareas de administración, operación y mantenimiento del almacenamiento de Castor desde que se hizo cargo de él, sin efecto en la cuenta de resultados y manteniendo una cuenta a cobrar de 125.007 miles de euros en el corto plazo hasta el cobro efectivo en fase de ejecución de sentencia. La sentencia se refiere a la operación y el mantenimiento; no incluye el saldo de 129.677 miles de euros por los trabajos de desmantelamiento, que Enagás registra por separado en el largo plazo a partir de las conclusiones de sus asesores jurídicos."
     type: "sentencia"
     relevancia: "alta"
     urls:
       - "https://cincodias.elpais.com/companias/2026-02-18/el-estado-afronta-el-pago-de-mas-de-250-millones-a-enagas-tras-ganar-en-el-supremo-por-el-fiasco-del-castor.html"
+      - "https://www.enagas.es/content/dam/enagas/es/ficheros/sala-de-comunicacion/publicaciones/informe-anual/2025%20Informe%20Anual%20Enag%C3%A1s.pdf"
 
   - fecha: "2026-02-18"
-    titulo: "Se informa: el Estado deberá pagar a Enagás más de 250 millones"
-    descripcion: "Cinco Días informa, a partir de la documentación remitida por Enagás a la CNMV, de que la sentencia del Tribunal Supremo de 4 de diciembre de 2025 obliga al Estado a pagar más de 250 millones de euros: más de 125 millones por operación y mantenimiento y 129,67 millones por el desmantelamiento, a los que se sumarían los trabajos pendientes. La empresa había solicitado la ejecución de la sentencia. La fecha corresponde a la publicación de la noticia, no al acto judicial."
+    titulo: "Se informa: el Estado afronta el pago de más de 250 millones a Enagás"
+    descripcion: "Cinco Días informa, a partir de la documentación remitida por Enagás a la CNMV, de que la sentencia del Tribunal Supremo de 4 de diciembre de 2025 y el derecho de cobro por el desmantelamiento sitúan el importe en más de 250 millones de euros: más de 125 millones por operación y mantenimiento (la cuenta a cobrar reconocida por la sentencia) y 129,67 millones por el desmantelamiento (derecho que Enagás registra según el criterio de sus asesores jurídicos y que no forma parte de la sentencia). La compañía mantenía la cuenta a cobrar en fase de ejecución de sentencia. La fecha corresponde a la publicación de la noticia, no a un acto judicial ni a una resolución que fije la totalidad del pago."
     type: "resumen"
     relevancia: "media"
     urls:
@@ -289,9 +296,21 @@ cronologia:
 
   - fecha: "2026-07-27"
     titulo: "Se informa: el coste de la clausura supera los 330 millones y el acumulado ronda los 1.700"
-    descripcion: "Cinco Días publica que, según la documentación oficial de Enagás, el coste de clausurar el almacén supera los 330 millones de euros y que, sumados los 1.350 millones reconocidos en indemnizaciones, el coste para los consumidores y el erario se acerca a 1.700 millones. La previsión difundida era concluir los trabajos de sellado en el verano de 2026; no consta confirmación oficial de la finalización efectiva ni del cierre total del proyecto. La fecha corresponde a la publicación de la noticia."
+    descripcion: "Cinco Días publica que, según la documentación oficial de Enagás, el coste de clausurar el almacén supera los 330 millones de euros y que, sumados a la compensación de 1.350 millones, el coste contable para los consumidores y el erario se acerca a 1.700 millones. La previsión difundida era concluir los trabajos de sellado en el verano de 2026; no consta confirmación oficial de la finalización efectiva ni se han localizado noticias posteriores a julio de 2026. Las cifras son estimaciones contables, no el fallo de un tribunal."
     type: "resumen"
     relevancia: "alta"
     urls:
       - "https://cincodias.elpais.com/companias/2026-07-27/la-factura-para-el-estado-por-clausurar-el-fallido-almacen-de-gas-castor-se-eleva-a-330-millones.html"
 ---
+
+## Notas de verificación y limitaciones
+
+- **fechaInicio.** Se fija el 26 de septiembre de 2013, fecha de la resolución de la Dirección General de Política Energética y Minas que ordenó el cese de las inyecciones. No es la fecha de inicio del proyecto ni de los hechos: la concesión data de 2008 y las inyecciones de gas colchón comenzaron en junio de 2013.
+- **Fechas de los documentos.** En `documentos` se usa la fecha de la resolución o disposición cuando es conocida (STC 152/2017: 21-12-2017; resolución de sellado: 01-04-2025; RDL 13/2014: 03-10-2014; RD 855/2008: 16-05-2008), no la fecha de publicación en el BOE. El Informe Anual 2025 de Enagás se fecha el 16 de febrero de 2026, fecha de su formulación por el Consejo de Administración; el PDF se creó el 11 de marzo de 2026 y no se asume una fecha de publicación distinta.
+- **Sentencia del Tribunal Supremo de 4 de diciembre de 2025.** Reconoce el derecho de Enagás Transporte a cobrar la retribución por administración, operación y mantenimiento del almacén (cuenta a cobrar de 125.007 miles de euros, en fase de ejecución de sentencia según las cuentas de Enagás). El saldo de 129.677 miles de euros por desmantelamiento es un derecho registrado por Enagás conforme al criterio de sus asesores jurídicos y no forma parte de la sentencia. Las cifras de más de 250 millones, de más de 330 millones y el total próximo a 1.700 millones son estimaciones contables o periodísticas, no el fallo de un tribunal.
+- **Firmeza penal.** La absolución de la Audiencia Provincial de Castellón (Sección 1ª) devino firme tras los desistimientos de la Fiscalía (17-02-2022) y de la acusación particular Aplaca (28-03-2022), según Europa Press (30-03-2022). No se ha localizado la resolución formal que declare la firmeza; por eso el hito se fecha el 30-03-2022 y se titula con «Se conoce», sin atribuir a un auto de 28-03-2022 que no se ha consultado.
+- **Fechas judiciales sin acto fechado.** Las imputaciones de enero de 2015 y el archivo de la querella de junio de 2018 se fechan por la publicación periodística (26-01-2015 y 21-06-2018): no se ha localizado el auto con la fecha exacta del acto. El auto de procedimiento abreviado del Juzgado de Instrucción nº 4 de Vinaròs consta fechado el 15 de octubre de 2019 y notificado el 16, fecha del hito. La sentencia de la Audiencia Nacional sobre los 209,7 millones es de 5 de julio de 2023 (publicada por la prensa el 21 de septiembre de 2023).
+- **Coste.** El campo `coste` (1.350.000.000) corresponde a la compensación reconocida en 2014, anulada por el Tribunal Constitucional; no es una indemnización por daños ni una condena penal ni la suma de todos los impactos, que se explican en el texto para no duplicar cifras.
+- **Clausura.** La última información localizada (julio de 2026) difundía una previsión de concluir el sellado en el verano de 2026. No se ha localizado confirmación oficial de su finalización ni noticias posteriores a julio de 2026, por lo que no se afirma que los trabajos sigan en ejecución.
+- **Neutralidad.** La concesión (2008) corresponde a un Gobierno del PSOE, y la suspensión (2013) y la compensación (2014) a gobiernos del PP; todas las querellas por la tramitación fueron archivadas y no constan condenas penales firmes.
+- **Fuentes primarias no accesibles.** No se ha podido descargar de CENDOJ el texto de las sentencias del Tribunal Supremo de 2020 (bancos) y de 2025 (Enagás), ni el de la Audiencia Provincial de Castellón de 2021. Se ha confirmado el ECLI:ES:TS:2020:3324 de la sentencia de 2020 a través de la nota del CGPJ. Los PDF del BOE y el Informe Anual de Enagás se han descargado y verificado con `pdfinfo` (34, 16, 13, 2 y 401 páginas respectivamente).
