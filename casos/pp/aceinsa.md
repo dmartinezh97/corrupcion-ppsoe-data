@@ -4,12 +4,12 @@ partido: PP
 completado: false
 año: 2017
 fechaInicio: 2010-04-18
-fechaFin: "2018-10-17"
+fechaFin: ""
 estado: "sobreseimiento provisional"
 descripcion: |
   El caso Aceinsa se refiere a varios contratos del Ayuntamiento de Salamanca con la empresa Aceinsa Movilidad S.A. (vado, señalización y alumbrado público) durante el mandato del alcalde Alfonso Fernández Mañueco (PP), y a las denuncias por presunta prevaricación y malversación presentadas por la agrupación Ganemos Salamanca. La relación contractual comenzó el 18 de abril de 2010 con un contrato menor de suministro e instalación de placas de vado. En 2011 Aceinsa obtuvo el contrato de señalización de vías públicas y eventos (915.517,24 euros anuales, IVA incluido; duración máxima de cuatro años), y en 2012 el contrato de mantenimiento y mejora del alumbrado público, por 12 millones de euros en cuatro años más dos de prórroga.
 
-  El contrato de señalización debía haber finalizado el 11 de mayo de 2015, pero el Ayuntamiento siguió pagando a Aceinsa sin convocar una nueva licitación, con reparos de la Intervención municipal. Según los cálculos de Ganemos, la prórroga habría supuesto un perjuicio de 820.654 euros, a partir de la diferencia entre la baja del 10% ofertada por Aceinsa en 2011 y la baja del 27,28% de la nueva licitación de 2018. El contrato de alumbrado fue anulado por el Tribunal Superior de Justicia de Castilla y León (sentencia 1321/2017, de 27 de noviembre de 2017) por no justificarse la baja temeraria de Aceinsa; esa resolución quedó firme al rechazar el Tribunal Supremo el recurso de casación del Ayuntamiento (decisión conocida el 4 de septiembre de 2018). Etralux, la empresa que debía haber sido adjudicataria, fue indemnizada finalmente con cerca de 300.000 euros, cantidad inferior a los 700.000 euros que inicialmente se habían calculado como el 6% del contrato.
+  El contrato de señalización debía haber finalizado el 11 de mayo de 2015, pero el Ayuntamiento siguió pagando a Aceinsa sin convocar una nueva licitación, con reparos de la Intervención municipal. Según los cálculos de Ganemos, la prórroga habría supuesto un perjuicio de 820.654 euros, a partir de la diferencia entre la baja del 10% ofertada por Aceinsa en 2011 y la baja del 27,28% de la nueva licitación de 2018; se trata de una estimación de la parte denunciante y no de un perjuicio declarado judicialmente (otras notas de la misma formación aluden a unos 500.000-510.000 euros). El contrato de alumbrado, litigio que comparte con la ficha Caso Aceinsa II, fue anulado por el Tribunal Superior de Justicia de Castilla y León (sentencia 1321/2017, de 27 de noviembre de 2017) por no justificarse la baja temeraria de Aceinsa; esa resolución quedó firme al no admitir el Tribunal Supremo el recurso de casación del Ayuntamiento (hecho conocido el 4 de septiembre de 2018). Etralux, la empresa que debía haber sido adjudicataria, reclamó 700.000 euros (el 6% del contrato), pero el importe final fue muy inferior: el Pleno del Ayuntamiento consignó 327.192,96 euros el 16 de noviembre de 2018 y la prensa cifró el pago efectivo en cerca de 300.000 euros. Estas cantidades de la vía contenciosa no deben sumarse a las estimaciones de la prórroga de señalización, porque se refieren a un litigio distinto que tiene su propia ficha.
 
   El 23 de octubre de 2017 Ganemos Salamanca presentó ante el Juzgado una denuncia penal contra el alcalde Mañueco, el concejal de Fomento Carlos Manuel García Carbayo, el edil de Hacienda Fernando Rodríguez y el jefe de la Policía Local José Manuel Fernández Martín, por presunta prevaricación administrativa; la admisión a trámite se anunció el 5 de febrero de 2018 y la denuncia se amplió el 19 de abril de 2018 al contrato de alumbrado. El Juzgado de Instrucción nº 11 de Salamanca dictó un auto de sobreseimiento provisional y archivo de las diligencias, hecho público el 17 de octubre de 2018, al no apreciar indicios de prevaricación ni de malversación y coincidiendo con el criterio del Ministerio Fiscal. Ganemos anunció un recurso de reforma y, en su caso, de apelación, y sostuvo que la instrucción se había visto limitada por el plazo de seis meses introducido por la reforma de la Ley de Enjuiciamiento Criminal de 2015. No consta que la causa se reabriera ni que existan resoluciones posteriores sobre el fondo penal.
 
@@ -61,14 +61,6 @@ cronologia:
     urls:
       - "https://ganemosalamanca.es/ganemos-desvela-como-se-pudo-amanar-la-adjudicacion-del-contrato-de-aceinsa/"
       - "https://lacronicadesalamanca.com/239814-la-historia-de-la-multa-de-300-000-euros-por-un-trato-de-favor-de-manueco/"
-
-  - fecha: "2011-01-01"
-    titulo: "Aceinsa obtiene el contrato de señalización de vías públicas"
-    descripcion: "El Ayuntamiento de Salamanca adjudica a Aceinsa el contrato de señalización de vías públicas y eventos, por 915.517,24 euros anuales (IVA incluido) y con una duración máxima de cuatro años (dos más dos de prórroga). Ganemos sostiene que los pliegos daban prioridad a criterios subjetivos. El contrato debía haber concluido el 11 de mayo de 2015. La fecha exacta de la firma en 2011 no consta en las fuentes consultadas."
-    type: "resumen"
-    urls:
-      - "https://ganemosalamanca.es/denuncia-prevaricacion-manueco-pp/"
-      - "https://ganemosalamanca.es/ganemos-desvela-como-se-pudo-amanar-la-adjudicacion-del-contrato-de-aceinsa/"
 
   - fecha: "2012-07-20"
     titulo: "Adjudicación del contrato de alumbrado público a Aceinsa"
@@ -127,16 +119,16 @@ cronologia:
       - "https://www.elespanol.com/castilla-y-leon/region/salamanca/20180712/ganemos-denuncia-presunto-delito-malversacion-caso-aceinsa/321969591_0.html"
 
   - fecha: "2018-09-04"
-    titulo: "El Tribunal Supremo rechaza el recurso del Ayuntamiento"
-    descripcion: "El Tribunal Supremo deniega el recurso de casación interpuesto por el Ayuntamiento de Salamanca contra la sentencia del TSJCyL sobre el contrato de alumbrado, que queda firme. Ganemos cifra inicialmente en 700.000 euros (el 6% del valor del contrato) la indemnización para Etralux. No se ha localizado la resolución del Supremo ni su fecha exacta, por lo que se usa la fecha de conocimiento público."
+    titulo: "Se conoce el rechazo del Supremo al recurso del Ayuntamiento"
+    descripcion: "Se hace público que el Tribunal Supremo no ha admitido el recurso de casación interpuesto por el Ayuntamiento de Salamanca contra la sentencia del TSJCyL sobre el contrato de alumbrado, que queda firme. Ganemos cifra inicialmente en 700.000 euros (el 6% del valor del contrato) la indemnización para Etralux. No se ha localizado la resolución del Supremo ni su fecha exacta, por lo que el hito se fecha según la fecha de conocimiento público."
     type: "sentencia"
     urls:
       - "https://ganemosalamanca.es/el-ayuntamiento-debera-pagar-700-000e-por-adjudicar-ilegalmente-el-contrato-de-alumbrado-a-aceinsa/"
       - "https://lacronicadesalamanca.com/214479-otro-quebranto-de-700-000e-por-adjudicar-ilegalmente-el-contrato-de-alumbrado-a-aceinsa/"
 
   - fecha: "2018-10-17"
-    titulo: "El Juzgado de Instrucción archiva el caso Aceinsa"
-    descripcion: "El Juzgado de Instrucción nº 11 de Salamanca dicta un auto de sobreseimiento provisional y archivo de las diligencias abiertas por las denuncias de Ganemos, en relación con los contratos de señalización y alumbrado público. El juez concluye que no hay indicios de prevaricación ni de malversación y coincide con el criterio del Ministerio Fiscal, aunque puede criticarse el retraso en la nueva licitación. El auto se hace público el 17 de octubre de 2018; no se ha podido confirmar el día exacto de la resolución. Ganemos anuncia un recurso de reforma y, en su caso, de apelación."
+    titulo: "Se conoce el archivo del caso Aceinsa"
+    descripcion: "Trasciende que el Juzgado de Instrucción nº 11 de Salamanca ha dictado un auto de sobreseimiento provisional y archivo de las diligencias abiertas por las denuncias de Ganemos, en relación con los contratos de señalización y alumbrado público. El juez concluye que no hay indicios de prevaricación ni de malversación y coincide con el criterio del Ministerio Fiscal, aunque puede criticarse el retraso en la nueva licitación. El día exacto de la resolución no está acreditado: el 17 de octubre de 2018 es la fecha en que el archivo se hace público, y se usa como fecha de conocimiento público. Ganemos anuncia un recurso de reforma y, en su caso, de apelación."
     type: "sentencia"
     urls:
       - "https://salamancartvaldia.es/noticia/2018-10-17-el-juzgado-de-instruccion-archiva-las-denuncias-por-los-contratos-de-la-senalizacion-y-alumbrado-80736"
@@ -144,23 +136,26 @@ cronologia:
       - "https://cadenaser.com/emisora/2018/10/17/radio_salamanca/1539771399_513218.html"
 
   - fecha: "2019-01-15"
-    titulo: "El Ayuntamiento paga cerca de 300.000 euros a Etralux"
-    descripcion: "El equipo de gobierno del PP en el Ayuntamiento de Salamanca abona cerca de 300.000 euros a Etralux en cumplimiento de la sentencia del TSJCyL sobre el contrato de alumbrado, cantidad inferior a los 700.000 euros inicialmente estimados. La Crónica de Salamanca y El Norte de Castilla confirman el pago."
-    type: "sentencia"
+    titulo: "Se informa del pago de cerca de 300.000 euros a Etralux"
+    descripcion: "La prensa informa de que el Ayuntamiento de Salamanca ha abonado cerca de 300.000 euros a Etralux en cumplimiento de la sentencia del TSJCyL sobre el contrato de alumbrado, cantidad inferior a los 700.000 euros inicialmente reclamados. El Pleno del Ayuntamiento había consignado 327.192,96 euros para esa indemnización el 16 de noviembre de 2018, según el acta oficial. La fecha exacta del pago no está acreditada; se usa la fecha de la primera noticia verificada. Este litigio de alumbrado se comparte con la ficha Caso Aceinsa II y sus importes no deben sumarse a los de la prórroga de señalización."
+    type: "resumen"
     urls:
       - "https://lacronicadesalamanca.com/228397-otro-despilfarro-de-300-000-euros-en-el-ayuntamiento/"
       - "https://www.elnortedecastilla.es/salamanca/ganemos-reclama-ediles-20190122080439-nt.html"
+      - "https://www.aytosalamanca.es/documents/20119/1383370/Acta+N%C2%BA+12.+Sesi%C3%B3n+extraordinaria+de+16-11-2018.pdf/827df943-7df4-b793-d319-337e163231e9?t=1738836469722"
 
 ---
 
 ## Notas de revisión (2026-10-01)
 
 - **Estado procesal**: la causa penal seguida en el Juzgado de Instrucción nº 11 de Salamanca fue sobreseída y archivada en octubre de 2018 al no apreciarse indicios de prevaricación ni de malversación, coincidiendo con el criterio de la Fiscalía. Ganemos anunció un recurso de reforma y, en su caso, de apelación, pero no se ha localizado ninguna resolución posterior que reabra la causa; a 1 de octubre de 2026 la vía penal permanece cerrada.
-- **Fecha del auto de archivo**: las fuentes consultadas publican la noticia el 17 de octubre de 2018; no se ha podido confirmar por fuente primaria el día exacto del auto, por lo que `fechaFin` se fija en la fecha de conocimiento público (2018-10-17). Algunas versiones citan el 16 de octubre.
+- **Fecha del auto de archivo**: el día exacto del auto no está acreditado por fuente primaria; el 17 de octubre de 2018 es la fecha en que el archivo se hizo público. Por ello `fechaFin` se deja vacía (`""`) y el hito de la cronología se titula "Se conoce el archivo...", fechado según el conocimiento público. Algunas versiones citan el 16 de octubre.
 - **Número del juzgado**: la prensa (EFE/El Español/Salamanca RTV al Día) identifica el Juzgado de Instrucción nº 11; el comunicado de Ganemos reproduce "juzgado de instrucción nº1", discrepancia que no se ha podido resolver.
-- **Cuantía de la indemnización a Etralux**: la resolución del TSJCyL fijó una indemnización del 6% del valor del contrato; Ganemos y La Crónica de Salamanca cifraron inicialmente el pago en 700.000 €, pero las fuentes de enero-mayo de 2019 (El Norte de Castilla y La Crónica) confirman que la cantidad finalmente abonada fue de cerca de 300.000 €. Se mantiene `coste: 820654` como estimación de Ganemos del sobrecoste de la prórroga de señalización, no como perjuicio declarado judicialmente.
+- **Cuantía de la indemnización a Etralux**: la resolución del TSJCyL fijó una indemnización del 6% del valor del contrato. Ganemos y La Crónica de Salamanca cifraron inicialmente la reclamación en 700.000 €, pero el Pleno del Ayuntamiento consignó 327.192,96 € el 16 de noviembre de 2018 (acta oficial verificada) y la prensa de enero de 2019 (El Norte de Castilla y La Crónica) cifró el pago en cerca de 300.000 €. Se mantiene `coste: 820654` como estimación de Ganemos del sobrecoste de la prórroga de señalización, no como perjuicio declarado judicialmente; la otra estimación de la misma formación (unos 500.000-510.000 €) es igualmente una alegación de parte, no una cifra probada.
 - **Sentencia del TSJCyL**: se trata de la sentencia 1321/2017 de la Sala de lo Contencioso-Administrativo; Ganemos la fecha el 27 de noviembre de 2017 y EFE la publicó el 1 de diciembre de 2017. No se ha podido consultar el texto íntegro.
-- **Recurso de casación**: la decisión del Tribunal Supremo que rechazó el recurso del Ayuntamiento se conoció el 4 de septiembre de 2018; no se ha localizado la resolución ni su fecha exacta, por lo que la cronología usa la fecha de conocimiento público.
+- **Recurso de casación**: el rechazo (no admisión) del recurso del Ayuntamiento por el Tribunal Supremo se conoció el 4 de septiembre de 2018; no se ha localizado la resolución ni su fecha exacta, por lo que la cronología usa la fecha de conocimiento público. El acta del Pleno de 16 de noviembre de 2018 también recoge que el recurso "no fue admitido".
+- **Hitos retirados por fecha no acreditada**: se ha retirado del array `cronologia` el hito de 2011 sobre el contrato de señalización, del que solo consta el año (no el día ni el mes); el dato se conserva en `descripcion` y en estas notas. No se emplean marcadores artificiales (1 de enero o 1 de mayo) para suplir días no acreditados.
+- **Solapamiento con Caso Aceinsa II**: esta ficha y `casos/pp/aceinsa-ii.md` describen el mismo litigio contencioso-administrativo del alumbrado público de 2012 (anulación e indemnización a Etralux, 327.192,96 € consignados). Se documenta el solapamiento de forma expresa y no se suman los importes del alumbrado y de la prórroga de señalización como si fueran causas independientes.
 - **Reforma legal**: Ganemos atribuye el archivo al plazo de seis meses de instrucción introducido por la reforma de la Ley de Enjuiciamiento Criminal de 2015, no a una reducción de los plazos de prescripción del Código Penal como indicaba la versión anterior de la ficha.
 - **Fuentes primarias**: no se han localizado notas del CGPJ ni los textos completos de las resoluciones. La ficha se apoya en prensa (EFE/La Vanguardia, Cadena SER, El Español, El Norte de Castilla, Salamanca RTV al Día y La Crónica de Salamanca) y en comunicados del denunciante (Ganemos Salamanca), tratados como parte. `documentos: []` porque no se han verificado documentos oficiales enlazables.
 - **Tramo 2025-2026**: no se han encontrado novedades judiciales sobre el caso Aceinsa hasta el 1 de octubre de 2026. Las menciones recientes a Aceinsa corresponden a la actividad contractual de la empresa y a la trayectoria política de Mañueco, no a resoluciones sobre este caso.
