@@ -13,7 +13,7 @@ descripcion: |
 
   La causa arrancó en 2015 a raíz de denuncias de cargos de Acuamed y se hizo pública el 18 de enero de 2016, cuando la Guardia Civil ejecutó la Operación Frontino con 13 detenciones. El juez Eloy Velasco decretó prisión incondicional para cinco de los detenidos. En abril de 2023 el juez Manuel García Castellón procesó a 42 personas por corrupción en los negocios, falsedad documental, fraude a la administración, prevaricación, malversación de caudales públicos y cohecho. Según informaciones periodísticas de marzo de 2025, cuya fecha de resolución exacta no ha podido confirmarse con una fuente oficial, el magistrado Antonio Piña, sucesor de García Castellón en el Juzgado Central de Instrucción nº 6, habría comunicado el cierre de la instrucción y elevado la causa para juicio oral ante la Sala de lo Penal de la Audiencia Nacional; esta ficha no da por acreditados ni la fecha ni el contenido de esa resolución. La última información contrastada sobre el estado del procedimiento es de enero de 2026, cuando seguía sin constar un señalamiento de vista oral; a fecha de esta revisión (octubre de 2026) no se ha podido verificar si la situación procesal ha variado, por lo que no debe presumirse la continuidad de ese estado. La cifra de perjuicio económico de 20 millones de euros procede de filtraciones periodísticas iniciales y tampoco ha sido confirmada judicialmente.
 
-resumen: "Presunta trama de corrupción en Acuamed que amañó contratos de obras hidráulicas mediante sobornos a cargos de la empresa pública"
+resumen: "Presunta trama de corrupción en Acuamed que habría amañado contratos de obras hidráulicas mediante sobornos a cargos de la empresa pública"
 coste: 20000000
 lugar: "Comunidad Valenciana, España"
 tribunal:
@@ -143,14 +143,14 @@ cronologia:
 
   - fecha: "2021-02-13"
     titulo: "Se conoce que la Sala confirma la exoneración de Luis Castilla (Acciona) (fecha de publicación)"
-    descripcion: "La fecha consignada (13/02/2021) es la de publicación de la noticia de Libertad Digital, que informa de un auto de la Sección Cuarta de la Sala de lo Penal; el auto no se fecha en la información revalidada, por lo que no se afirma un día exacto de la resolución. La Sala desestima el recurso de la Fiscalía Anticorrupción (al que se adhirió la Abogacía del Estado) y confirma el sobreseimiento provisional de Luis Castilla al no apreciar 'datos indiciarios suficientes' sobre su participación tras cinco años de instrucción. La resolución supone un revés para Anticorrupción y alimenta las críticas sobre la solidez de la investigación, aunque la causa continúa para el resto de procesados."
+    descripcion: "La fecha consignada (13/02/2021) es la de publicación de la noticia de Libertad Digital, que informa de un auto de la Sección Cuarta de la Sala de lo Penal; el auto no se fecha en la información revalidada, por lo que no se afirma un día exacto de la resolución. La Sala desestima el recurso de la Fiscalía Anticorrupción (al que se adhirió la Abogacía del Estado) y confirma el sobreseimiento provisional de Luis Castilla al no apreciar 'datos indiciarios suficientes' sobre su participación tras cinco años de instrucción. La decisión afecta a Castilla y no supone el archivo de la causa para los demás procesados."
     type: "investigación"
     urls:
       - "https://www.libertaddigital.com/espana/2021-02-13/caso-acuamed-agoniza-audiencia-nacional-exonera-imputado-contra-criterio-anticorrupcion-6708268/"
 
   - fecha: "2022-04-18"
-    titulo: "Fiscalía Europea deja el caso en manos de la jurisdicción española"
-    descripcion: "La Fiscalía Europea concluye que no ejercerá su derecho de avocación sobre el caso Acuamed porque los hechos investigados son anteriores al 20 de noviembre de 2017, límite temporal de su competencia (fecha de entrada en vigor del Reglamento de la Fiscalía Europea), y devuelve las actuaciones al Juzgado Central de Instrucción nº 6. La EPPO no inició sus operaciones hasta el 1 de junio de 2021, por lo que no estaba en funcionamiento cuando se cometieron los hechos. El juez Manuel García Castellón, que había asumido la instrucción tras el juez Velasco, señala en un auto de finales de marzo que la instrucción está a punto de cerrarse."
+    titulo: "Se conoce que la Fiscalía Europea deja el caso en manos de la jurisdicción española"
+    descripcion: "La fecha corresponde a la noticia; el auto del instructor se sitúa a finales de marzo, sin día exacto contrastado. La Fiscalía Europea concluye que no ejercerá su derecho de avocación sobre el caso Acuamed porque los hechos investigados son anteriores al 20 de noviembre de 2017, límite temporal de su competencia (fecha de entrada en vigor del Reglamento de la Fiscalía Europea), y devuelve las actuaciones al Juzgado Central de Instrucción nº 6. La EPPO no inició sus operaciones hasta el 1 de junio de 2021, por lo que no estaba en funcionamiento cuando se cometieron los hechos. El juez Manuel García Castellón, que había asumido la instrucción tras el juez Velasco, señala en un auto de finales de marzo que la instrucción está a punto de cerrarse."
     type: "investigación"
     urls:
       - "https://www.leonoticias.com/nacional/fiscalia-europea-deja-20220418170951-ntrc.html"
