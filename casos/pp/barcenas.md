@@ -14,6 +14,8 @@ descripcion: |
 
   Bárcenas obtuvo la libertad condicional el 17 de diciembre de 2024, después de cumplir dos tercios de su condena y de abonar 4.535.254,92 euros de responsabilidad civil. La última resolución firme localizada es la STS 1033/2024, de 14 de noviembre de 2024. La operación Kitchen, sobre el presunto espionaje policial a Bárcenas, es una pieza separada de la macrocausa Tándem: su juicio se celebró entre abril y julio de 2026 y, a 1 de octubre de 2026, no se ha localizado sentencia.
 
+  Esta ficha comparte el ámbito de la contabilidad paralela y la reforma de Génova con la ficha Papeles Bárcenas; las resoluciones y cuantías de ambas se refieren a los mismos hechos y no deben contarse dos veces. La primera época de Gürtel cuenta también con su propia ficha.
+
 resumen: "Contabilidad paralela del PP ('caja B') gestionada por Luis Bárcenas, papeles publicados en 2013, cuentas en Suiza y condenas penales firmes a Bárcenas y a los administradores de Unifica; el PP fue declarado partícipe a título lucrativo y responsable civil subsidiario, sin condena penal"
 
 lugar: "Madrid, España"
