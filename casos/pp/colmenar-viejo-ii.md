@@ -45,7 +45,7 @@ tags:
   - "corrupción"
   - "prevaricación"
   - "urbanismo"
-impactoSocial: "La causa se sumó a las otras investigaciones por licencias urbanísticas irregulares en el mismo ayuntamiento, concluidas con absolución en años anteriores. Tras conocerse la resolución de junio de 2023, el PP local la presentó como la última absolución de una serie de denuncias que consideró un daño «irreparable» a su imagen, mientras la oposición había reclamado responsabilidades por las irregularidades administrativas. No consta que la resolución sea firme."
+impactoSocial: "La causa se sumó a las otras investigaciones sobre presuntas irregularidades en licencias urbanísticas del mismo ayuntamiento, concluidas con absolución en años anteriores. Tras conocerse la resolución de junio de 2023, el PP local la presentó como la última absolución de una serie de denuncias que consideró un daño «irreparable» a su imagen, mientras la oposición había reclamado responsabilidades por las irregularidades administrativas. No consta que la resolución sea firme."
 documentos: []
 cronologia:
   - fecha: 2017-02-22
@@ -73,3 +73,7 @@ cronologia:
       - "https://www.telemadrid.es/noticias/madrid/Absueltos-los-ediles-de-Colmenar-Viejo-acusados-de-prevaricacion-urbanistica-0-2567443263--20230608013001.html"
       - "https://www.madridactual.es/municipios/colmenar-viejo/colmenar-el-pp-celebra-la-absolucion-de-sus-ediles-pero-subraya-que-el-dano-es-irreparable-20230608-7896926.html"
 ---
+
+## Límites de la revisión
+
+La nota del CGPJ del 8 de junio de 2023 documenta una absolución que entonces admitía apelación; no se ha localizado la resolución original ni una decisión posterior que aclare su firmeza. Esa fecha corresponde a la publicación, no a un día de sentencia confirmado. Las fuentes discrepan entre once y doce procesados. Tampoco se ha podido vincular de forma concluyente la denuncia publicada en 2017 con este procedimiento, ni acreditar el resultado individual de todos los nombres citados. Los cargos son históricos; los informes técnicos desfavorables y las acusaciones no equivalen a una condena. No se dispone de un perjuicio económico cuantificado ni de documentos judiciales verificables.
