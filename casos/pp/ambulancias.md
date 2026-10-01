@@ -5,21 +5,21 @@ completado: false
 año: 2016
 fechaInicio: 2016-01-12
 fechaFin: 2020-01-13
-estado: sobreseimiento
+estado: sobreseimiento provisional
 descripcion: |
   El Caso Ambulancias se refiere a la licitación del transporte sanitario urgente en ambulancia del Servicio de Urgencias Médicas de Madrid (SUMMA 112), convocada en 2015 y cuyas ofertas se abrieron el 12 de enero de 2016. Ambulancias Alerta presentó la oferta más económica —72,3 millones de euros, unos cinco millones menos que la segunda— y fue propuesta como adjudicataria, pero la Consejería de Sanidad le atribuyó no haber presentado el plan de viabilidad económica exigido y la descartó.
 
-  La empresa sostiene en su querella que fue sometida a presiones y a una "asfixia económica" —retención de facturas por valor de 2,9 millones de euros entre febrero y mayo de 2016— para que renunciara al contrato. El contrato se adjudicó finalmente a la UTE de Ferrovial (Ferroser) por 77,3 millones de euros. En diciembre de 2017 Ambulancias Alerta presentó una querella por prevaricación administrativa (y, según los medios, también falsedad, malversación, coacciones y cohecho), apoyada en grabaciones de reuniones con cargos de la Consejería.
+  La empresa sostiene en su querella que fue sometida a presiones y a una "asfixia económica" —retención de facturas por valor de 2,9 millones de euros entre febrero y mayo de 2016— para que renunciara al contrato. En mayo de 2016 la empresa comunicó su renuncia al contrato —que El Español fecha el 5 de mayo y los registros de la Consejería el 4 de mayo— y el contrato se adjudicó a la UTE de Ferrovial (Ferroser). El Consejo de Gobierno aprobó la propuesta de adjudicación el 10 de mayo de 2016 y El Español situó la concesión definitiva el 26 de mayo; no se ha acreditado documentalmente la fecha de formalización del contrato. El importe de 77,3 millones de euros corresponde al volumen del contrato adjudicado (cuatro años de servicio), no a un daño o perjuicio declarado acreditado. En diciembre de 2017 Ambulancias Alerta presentó una querella por prevaricación administrativa (y, según los medios, también falsedad, malversación, coacciones y cohecho), apoyada en grabaciones de reuniones con cargos de la Consejería.
 
-  El Juzgado de Instrucción nº 51 de Madrid admitió a trámite la querella el 8 de enero de 2018 y citó como investigados al viceconsejero Manuel Molina Muñoz, al director general César Pascual Fernández, al secretario general técnico Luis Javier Fernández Abad y al director de gestión del SUMMA Santiago Cortés Sánchez. El 16 de enero de 2019 el juzgado dictó un auto de sobreseimiento provisional (art. 641.1 LECrim) y el 13 de enero de 2020 la Sección 23 de la Audiencia Provincial de Madrid confirmó el archivo. Ninguno de los investigados fue condenado.
+  El Juzgado de Instrucción nº 51 de Madrid admitió a trámite la querella el 8 de enero de 2018 y citó como investigados al viceconsejero Manuel Molina Muñoz, al director general César Pascual Fernández, al secretario general técnico Luis Javier Fernández Abad y al director de gestión del SUMMA Santiago Cortés Sánchez. El 16 de enero de 2019 el juzgado dictó un auto de sobreseimiento provisional (art. 641.1 LECrim) y el 13 de enero de 2020 la Sección 23 de la Audiencia Provincial de Madrid desestimó el recurso de Ambulancias Alerta y confirmó el archivo. Se trata de un sobreseimiento provisional, que no equivale a una resolución firme ni a un cierre definitivo de la causa, y ninguno de los investigados fue condenado.
 
-resumen: "Ambulancias Alerta denunció presiones de cargos de Sanidad de Madrid para renunciar a un contrato del SUMMA 112 que acabó en Ferrovial; la causa fue sobreseída en 2019 y el archivo confirmado en 2020"
+resumen: "Ambulancias Alerta denunció presiones de cargos de Sanidad de Madrid para renunciar a un contrato del SUMMA 112 que acabó en Ferrovial; la causa fue sobreseída provisionalmente en 2019 y el archivo se confirmó en apelación en 2020"
 coste: 77300000
 lugar: "Madrid, Comunidad de Madrid"
 tribunal:
   - "Juzgado de Instrucción nº 51 de Madrid (auto de sobreseimiento provisional de 16 de enero de 2019)"
-  - "Audiencia Provincial de Madrid, Sección 23 (auto de 13 de enero de 2020 que confirma el archivo)"
-numeroSentencia: "Auto de sobreseimiento provisional de 16 de enero de 2019 (art. 641.1 LECrim), confirmado por la Sección 23 de la Audiencia Provincial de Madrid el 13 de enero de 2020"
+  - "Audiencia Provincial de Madrid, Sección 23 (auto de 13 de enero de 2020 que desestima el recurso y confirma el sobreseimiento provisional)"
+numeroSentencia: ""
 implicados:
   - nombre: "Manuel Molina Muñoz"
     cargo: "Viceconsejero de Sanidad de la Comunidad de Madrid (diciembre de 2014 - mayo de 2018)"
@@ -44,7 +44,7 @@ tags:
   - "contratación pública irregular"
 
 impactoSocial: |
-  El caso reavivó el debate sobre la contratación pública en la sanidad madrileña y sobre las presiones a empresas licitadoras. La difusión de las grabaciones por El Español en diciembre de 2017 tuvo una notable repercusión mediática y política. El archivo de la causa fue recurrido por la empresa querellante y quedó confirmado por la Audiencia Provincial de Madrid en enero de 2020.
+  El caso reavivó el debate sobre la contratación pública en la sanidad madrileña y sobre las presiones a empresas licitadoras. La difusión de las grabaciones por El Español en diciembre de 2017 tuvo una notable repercusión mediática y política. El sobreseimiento provisional fue recurrido por la empresa querellante y la Audiencia Provincial de Madrid desestimó el recurso en enero de 2020.
 
 documentos: []
 
@@ -69,7 +69,7 @@ cronologia:
 
   - fecha: "2016-02-02"
     titulo: "Sanidad comunica que Ambulancias Alerta decae como adjudicataria"
-    descripcion: "La Consejería comunica que Ambulancias Alerta decae en su derecho como primera adjudicataria por no presentar el plan de viabilidad económica requerido, y anuncia que pedirá el mismo informe a la siguiente oferta. El País publicó la noticia el 4 de febrero de 2016 refiriéndose a la renuncia de la empresa al contrato."
+    descripcion: "El viceconsejero Manuel Molina comunica a los trabajadores que Ambulancias Alerta 'decae en su derecho como primera adjudicataria' por no haber presentado el plan de viabilidad económica requerido, y anuncia que pedirá el mismo informe a la siguiente oferta. El País publicó la noticia el 4 de febrero de 2016 bajo el titular 'La ganadora del concurso renuncia a gestionar las ambulancias', pero el acto descrito es el decaimiento de derechos por falta de documentación, no la renuncia formal por escrito de mayo de 2016."
     type: "resumen"
     relevancia: "media"
     urls:
@@ -83,26 +83,17 @@ cronologia:
     urls:
       - "https://www.elespanol.com/espana/20171229/sanidad-asfixio-impagos-competidor-ferrovial-presento-renuncia/272973327_0.html"
 
-  - fecha: "2016-05-05"
-    titulo: "Ambulancias Alerta presenta su renuncia al contrato"
-    descripcion: "La empresa presenta formalmente su renuncia al contrato (el 4 de mayo según los registros de la Consejería, según El Español), tras meses de impagos y reuniones con la Consejería. En su querella alega que lo hizo bajo presiones y en una situación de 'asfixia económica'."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://www.elespanol.com/espana/20171230/planteamiento-hacemos-viceconsejero-cerro-persona-contrata-ambulancias/273223360_0.html"
-      - "https://www.elespanol.com/espana/20171229/sanidad-asfixio-impagos-competidor-ferrovial-presento-renuncia/272973327_0.html"
-
   - fecha: "2016-05-07"
     titulo: "Pago de las facturas retenidas"
-    descripcion: "La Administración ordena el pago de las cinco facturas retenidas, por 2,9 millones de euros, dos días después de la renuncia de la empresa, según El Español."
+    descripcion: "La Administración ordena el pago de las cinco facturas retenidas, por 2,9 millones de euros, según los resguardos de pago citados por El Español. Ese diario vinculó el pago a la renuncia de la empresa, que él mismo fecha el 5 de mayo (4 de mayo según los registros de la Consejería)."
     type: "resumen"
     relevancia: "media"
     urls:
       - "https://www.elespanol.com/espana/20171229/sanidad-asfixio-impagos-competidor-ferrovial-presento-renuncia/272973327_0.html"
 
   - fecha: "2016-05-10"
-    titulo: "El Consejo de Gobierno adjudica el contrato a la UTE de Ferrovial"
-    descripcion: "El Consejo de Gobierno de la Comunidad de Madrid aprueba la propuesta de adjudicación del contrato del transporte sanitario urgente a la UTE de Ferrovial (Ferrovial Servicios-Servicios Auxiliares Sanitarios) por 77,3 millones de euros, tras descartar la oferta más baja de Ambulancias Alerta (72,3 millones). El Español dató esta adjudicación el 26 de mayo de 2016."
+    titulo: "El Consejo de Gobierno aprueba la propuesta de adjudicación a la UTE de Ferrovial"
+    descripcion: "El Consejo de Gobierno de la Comunidad de Madrid aprueba la propuesta de adjudicación —no la adjudicación formal— del contrato del transporte sanitario urgente a la UTE de Ferrovial (Ferrovial Servicios-Servicios Auxiliares Sanitarios) por 77,3 millones de euros, tras descartar la oferta más baja de Ambulancias Alerta (72,3 millones). El Español dató en cambio el 26 de mayo de 2016 la concesión definitiva del contrato a Ferrovial; no consta acreditado si se trata de un acto distinto ni la fecha de formalización."
     type: "resumen"
     relevancia: "alta"
     urls:
@@ -155,8 +146,8 @@ cronologia:
       - "https://www.europapress.es/madrid/noticia-archivada-causa-investigaba-excargos-sanidad-concurso-ambulancias-summa-20190117124546.html"
 
   - fecha: "2020-01-13"
-    titulo: "La Audiencia Provincial confirma el archivo"
-    descripcion: "La Sección 23 de la Audiencia Provincial de Madrid dicta un auto (fechado el 13 de enero de 2020) que desestima el recurso de Ambulancias Alerta y confirma íntegramente el archivo, al no apreciar indicios de prevaricación ni de coacciones. El archivo queda confirmado."
+    titulo: "La Audiencia Provincial confirma el sobreseimiento provisional"
+    descripcion: "La Sección 23 de la Audiencia Provincial de Madrid dicta un auto (fechado el 13 de enero de 2020) que desestima el recurso de Ambulancias Alerta y confirma íntegramente el auto de sobreseimiento provisional, al no apreciar indicios de prevaricación ni de coacciones. La confirmación en apelación no convierte el sobreseimiento provisional en una resolución firme ni en un cierre definitivo de la causa."
     type: "sentencia"
     relevancia: "alta"
     urls:
@@ -175,17 +166,19 @@ Revisión de la ficha con fuentes periodísticas y notas oficiales entre 2016 y 
 
 - **Nombres de los investigados**: la ficha usaba "Manuel Molina del Pozo", "César Pascual Cantalapiedra" y "Luis Fernández Abad". Los nombres acreditados son **Manuel Molina Muñoz**, **César Pascual Fernández**, **Luis Javier Fernández Abad** y **Santiago Cortés Sánchez** (Redacción Médica, 17-01-2019; ConSalud; El Mundo, 02-04-2018; Europa Press, 17-01-2020).
 - **Fecha del archivo**: el auto de sobreseimiento provisional está **fechado el 16 de enero de 2019** (art. 641.1 LECrim) y no el 31 de enero. La ficha lo databa el 31-01-2019 (Redacción Médica, 17-01-2019).
-- **Confirmación del archivo**: se añade el auto de la **Sección 23 de la Audiencia Provincial de Madrid de 13 de enero de 2020**, que desestimó el recurso de Ambulancias Alerta y confirmó el archivo (Europa Press y El Mundo, 17-01-2020; ConSalud). La ficha terminaba el caso en enero de 2019 y no recogía este trámite, que es el que cierra la vía ordinaria.
-- **Fecha de la adjudicación a Ferrovial**: el Consejo de Gobierno de la Comunidad de Madrid aprobó la propuesta de adjudicación el **10 de mayo de 2016** (nota oficial de la Comunidad de Madrid y Madridiario del mismo día). La ficha la situaba el 31-05-2016. El Español (dic. 2017) dató esa adjudicación el 26 de mayo de 2016: discrepancia documentada.
+- **Confirmación del sobreseimiento**: se añade el auto de la **Sección 23 de la Audiencia Provincial de Madrid de 13 de enero de 2020**, que desestimó el recurso de Ambulancias Alerta y confirmó el sobreseimiento provisional (Europa Press y El Mundo, 17-01-2020; ConSalud). La ficha terminaba el caso en enero de 2019 y no recogía este trámite. La confirmación en apelación no convierte el sobreseimiento provisional en una resolución firme ni cierra definitivamente la causa.
+- **Adjudicación a Ferrovial**: el Consejo de Gobierno de la Comunidad de Madrid aprobó la **propuesta de adjudicación** el **10 de mayo de 2016** (nota oficial de la Comunidad de Madrid y Madridiario del mismo día), no la adjudicación formal. La ficha la situaba el 31-05-2016. El Español (dic. 2017) dató el 26 de mayo de 2016 la concesión definitiva del contrato; se recoge como dato separado, sin darlo por el mismo acto ni dar por verificada la fecha de formalización.
 - **Admisión de la querella**: la ficha la databa el 23-01-2018, fecha de la noticia de El Español. El auto de admisión a trámite está **fechado el 8 de enero de 2018** (El País, 20-02-2018; El Mundo, 02-04-2018).
 - **Citación como investigados**: la ficha la databa el 12-03-2018 (fecha de las noticias). La providencia de citación es del **21 de febrero de 2018**, con declaraciones fijadas para el 2 de abril (Telemadrid, 12-03-2018; Europa Press).
-- **Coste**: la ficha usaba 72,5 millones, cifra que no aparece en las fuentes consultadas. El contrato se adjudicó finalmente a la UTE de Ferrovial por **77,3 millones** de euros, frente a la oferta descartada de Ambulancias Alerta de **72,3 millones** (El Español; Comunidad de Madrid; Servicios de Emergencia). Se ha fijado el coste en 77.300.000 euros (importe de la adjudicación) y el detalle de las cifras queda en la descripción.
+- **Coste**: la ficha usaba 72,5 millones, cifra que no aparece en las fuentes consultadas. Se ha fijado el coste en **77.300.000 euros**, importe del volumen del contrato adjudicado a la UTE de Ferrovial (cuatro años de servicio), frente a la oferta descartada de Ambulancias Alerta de **72,3 millones** (El Español; Comunidad de Madrid; Servicios de Emergencia). La descripción aclara que se trata del volumen del contrato y no de un daño o perjuicio declarado acreditado.
+- **numeroSentencia**: se deja **vacío** (`""`), al no existir número de sentencia ni de resolución acreditado; las fechas de los autos (16 de enero de 2019 y 13 de enero de 2020) quedan en `descripcion`, `tribunal` y la cronología. La ficha anterior incluía en este campo un texto descriptivo que podía leerse como identificador inventado.
+- **Firmeza**: se evita presentar el sobreseimiento provisional (y su confirmación en apelación) como cierre definitivo o resolución firme de la causa.
 - **Documentos**: de `null` a `[]`, al no existir documentos judiciales locales verificables.
 - **Tags**: se retira "tráfico de influencias", que no se imputó a los investigados en esta causa (se relacionaba con otros procedimientos referidos a Ferrovial).
 
 ### Incertidumbres y límites
 
-- **Fecha de la renuncia**: la ficha fijaba la renuncia de Ambulancias Alerta el 5 de mayo de 2016 (según El Español, que además señala el 4 de mayo en los registros de la Consejería). Sin embargo, El País ya informaba el 3-4 de febrero de 2016 de que la empresa había "renunciado" y de que Sanidad le comunicó que "decae en su derecho como primera adjudicataria" por no presentar el plan de viabilidad. Los hechos pueden corresponder a dos trámites distintos (pérdida de derechos en febrero y renuncia formal escrita en mayo), pero no se ha podido verificar documentalmente el detalle con una resolución judicial primaria; el auto de archivo se limita a constatar que no se presentó el plan de viabilidad.
+- **Fecha de la renuncia**: El Español la sitúa el 5 de mayo de 2016 y señala el 4 de mayo en los registros de la Consejería; El País ya informaba el 3-4 de febrero de 2016 de que Alerta "decae en su derecho como primera adjudicataria" por no presentar el plan de viabilidad. Los hechos parecen corresponder a dos actos distintos —el decaimiento de derechos por falta de documentación (febrero) y la renuncia voluntaria por escrito (mayo)—, pero la fecha exacta de la renuncia de mayo no está acreditada (4 o 5 de mayo) y no se ha localizado la resolución primaria que la fije. Por ello se ha **retirado el evento de fecha exacta** de la cronología y la información queda en la descripción y en esta nota.
 - **Identidad del órgano instructor**: consta como Juzgado de Instrucción nº 51 de Madrid. La ficha atribuía el auto a la jueza "Carmen Rodríguez"; las fuentes consultadas para este caso solo identifican al "titular del Juzgado de Instrucción nº 51" sin nombrarlo, por lo que se ha retirado el nombre. La titularidad del juzgado en fechas posteriores correspondió a María del Carmen Rodríguez-Medel Nieto, pero no se ha acreditado su intervención en esta causa con fuente primaria.
 - **Límite de los 72,5 millones**: la cifra empleada originalmente en la ficha no se ha encontrado en ninguna fuente; las cifras documentadas son 72,3 millones (oferta de Alerta), 77,3 millones (adjudicación a Ferrovial) y unos 82 millones (presupuesto de licitación).
 - **Delitos imputados**: el auto de archivo se refiere a la prevaricación administrativa; otras fuentes aluden a coacciones, falsedad, malversación y cohecho como objeto de la querella. No hubo condena ni resolución que declarara probados los hechos.
