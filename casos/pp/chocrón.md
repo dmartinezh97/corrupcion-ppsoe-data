@@ -27,7 +27,7 @@ implicados:
     rol: "Investigada (imputada) por prevaricación administrativa y, según la acusación, malversación de caudales públicos; la causa fue archivada de forma firme, sin condena ni absolución"
 
   - nombre: "Dionisio Muñoz Pérez"
-    cargo: "Exdiputado del PSOE en la Asamblea de Melilla y exsecretario general del PSOE de Melilla; ocupaba ambos cargos durante los hechos"
+    cargo: "Exdiputado del PSOE en la Asamblea de Melilla y exsecretario general del PSOE de Melilla; era diputado cuando presentó la denuncia"
     rol: "Denunciante del caso; presentó la denuncia judicial a finales de enero de 2013, declaró para ratificarse el 25 de febrero de 2013 y recurrió el archivo provisional"
 
 tags:
@@ -53,7 +53,7 @@ cronologia:
 
   - fecha: 2013-01-31
     titulo: "Denuncia judicial del PSOE"
-    descripcion: "El diputado Dionisio Muñoz presenta la denuncia en sede judicial (MelillaHoy la fecha el 31 de enero de 2013); El País sitúa además una denuncia previa ante la Fiscalía el 30 de enero de 2013. La denuncia alega prevaricación administrativa y malversación por la compra de los libros. La fecha exacta no es unánime entre las fuentes."
+    descripcion: "El diputado Dionisio Muñoz presenta la denuncia en sede judicial (MelillaHoy la fecha el 31 de enero de 2013); El País sitúa además una denuncia previa ante la Fiscalía el 30 de enero de 2013. La denuncia alega prevaricación administrativa y malversación por la compra de los libros. Las fuentes se refieren a actuaciones ante órganos diferentes."
     type: "denuncia"
     relevancia: "alta"
     urls:
