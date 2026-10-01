@@ -6,27 +6,27 @@ año: 2022
 fechaFin: ""
 estado: "en revisión"
 descripcion: |
-  El caso documenta la contratación del Ayuntamiento de Marbella —gobernado por el PP con María Ángeles Muñoz Uriol como alcaldesa— con la empresa Construcciones y Demoliciones de la Costa del Sol (Codecosol), sociedad inscrita en el Registro Mercantil el 16 de febrero de 2010 por el ciudadano sueco Nils Fischer como socio único. La Audiencia Nacional sitúa a Fischer como testaferro de Joakim Peter Broberg, hijastro de la alcaldesa, en el auto de procesamiento de 29 de septiembre de 2022, y considera a Codecosol una de las sociedades empleadas para el blanqueo de dinero procedente del narcotráfico.
+  El caso documenta la contratación del Ayuntamiento de Marbella —gobernado por el PP con María Ángeles Muñoz Uriol como alcaldesa— con la empresa Construcciones y Demoliciones de la Costa del Sol (Codecosol), sociedad inscrita en el Registro Mercantil el 16 de febrero de 2010 por el ciudadano sueco Nils Fischer como socio único. El auto de procesamiento de 29 de septiembre de 2022 del Juzgado Central de Instrucción nº 6 situó entonces a Fischer como testaferro de Joakim Peter Broberg, hijastro de la alcaldesa, y señaló a Codecosol como una de las sociedades empleadas para el blanqueo de dinero procedente del narcotráfico. Esa imputación es histórica y quedó desmentida por la sentencia de 2026: el tribunal absolvió a Fischer de todos los delitos y no declaró probado que Nils Fischer ni Codecosol blanquearan, ni que la constructora estuviera integrada en la actividad delictiva de la trama.
 
-  Codecosol obtuvo su primer contrato municipal en enero de 2011 (rehabilitación de pavimentos dañados, 250.000 euros del Plan Proteja de la Junta de Andalucía), todavía durante el primer mandato de Muñoz como alcaldesa (2007-2011). A partir de junio de 2011, ya en su segundo mandato (2011-2015), y hasta 2015, el Consistorio le adjudicó una veintena de contratos de obra por un total de 1.383.945 euros: 17 contratos menores por unos 840.000 euros y tres contratos mayores. Los contratos de obra se consideraban menores —y podían adjudicarse de forma directa, sin concurso— cuando su importe no superaba los 50.000 euros, IVA excluido, conforme al Texto Refundido de la Ley de Contratos del Sector Público aplicable al periodo. Esa cifra es el volumen de las adjudicaciones documentadas, no un daño evaluado ni una condena: ninguna resolución judicial ha declarado que la contratación fuera ilícita. La Fiscalía Anticorrupción analizó una parte de estos contratos a raíz de una denuncia del PSOE y concluyó que no apreciaba indicios de delito o que los posibles indicios estaban prescritos.
+  Codecosol obtuvo su primer contrato municipal en enero de 2011 (rehabilitación de pavimentos dañados, 250.000 euros del Plan Proteja de la Junta de Andalucía), todavía durante el primer mandato de Muñoz como alcaldesa (2007-2011). A partir de junio de 2011, ya en su segundo mandato (2011-2015), y hasta 2015, el Consistorio le adjudicó una veintena de contratos de obra por un total de 1.383.945 euros: 17 contratos menores por unos 840.000 euros y tres contratos mayores. Los contratos de obra eran menores —y podían adjudicarse de forma directa, sin concurso— cuando su importe era inferior a 50.000 euros, IVA excluido, conforme a la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, vigente al inicio del periodo (el Texto Refundido de la Ley de Contratos del Sector Público no entró en vigor hasta diciembre de 2011). Esa cifra es el volumen de las adjudicaciones documentadas, no un daño evaluado ni una condena: ninguna resolución judicial ha declarado que la contratación fuera ilícita. La Fiscalía Anticorrupción analizó una parte de estos contratos a raíz de una denuncia del PSOE y concluyó que no apreciaba indicios de delito o que los posibles indicios estaban prescritos.
 
-  La dimensión penal del caso es la trama sueca de narcotráfico en la que se integran los Broberg y Fischer. En febrero de 2021 la UDEF detuvo en Marbella a Lars Gunnar Sune Broberg, marido de la alcaldesa, y en julio de 2021 fue detenido en Brasil Joakim Broberg. Tras el auto de procesamiento de 2022, el juicio oral —que debía empezar el 5 de mayo de 2025 y se aplazó un día por el sabotaje en las líneas del AVE— arrancó el 6 de mayo de 2025 y se prolongó durante los meses siguientes. La Sección Segunda de la Sala de lo Penal de la Audiencia Nacional dictó una sentencia hecha pública el 1 de julio de 2026: condena a Joakim Peter Broberg a nueve años de cárcel (cuatro y medio por delito contra la salud pública y cuatro y medio por blanqueo) y a una multa de 4,9 millones de euros, y le absuelve de pertenencia a organización criminal. La sentencia condena a 21 de los 24 acusados a penas de entre 2 y 16 años y absuelve a tres, entre ellos Nils Fischer, administrador de Codecosol. Según las informaciones de esas fechas, la resolución no era firme —la defensa anunció recurso— y la Fiscalía pidió, sin éxito, prisión provisional para varios condenados; no consta en esta revisión si ha ganado firmeza.
+  La dimensión penal del caso es la trama sueca de narcotráfico en la que se integran los Broberg y Fischer. En febrero de 2021 la UDEF detuvo en Marbella a Lars Gunnar Sune Broberg, marido de la alcaldesa, y en julio de 2021 fue detenido en Brasil Joakim Broberg. Tras el auto de procesamiento de 2022, el juicio oral —que debía empezar el 5 de mayo de 2025 y se aplazó un día por el sabotaje en las líneas del AVE— arrancó el 6 de mayo de 2025 y se prolongó durante los meses siguientes. La Sección Segunda de la Sala de lo Penal de la Audiencia Nacional dictó el 30 de junio de 2026 la sentencia núm. 15/2026 (ECLI:ES:AN:2026:2880, 106 páginas), que se difundió el 1 de julio. El fallo condena a Joakim Peter Broberg —anonimizado en el texto como «Adriano»— a nueve años de cárcel (cuatro y medio por delito contra la salud pública y cuatro y medio por blanqueo) y a una multa de 4,9 millones de euros, y le absuelve de pertenencia a organización criminal. La sentencia condena a 21 de los 24 acusados a penas de entre 2 y 16 años y absuelve a tres, entre ellos Nils Fischer (anonimizado como «Fidel»), administrador de Codecosol. La propia resolución anuncia que contra ella cabe recurso de apelación ante la Sala de Apelación de la Audiencia Nacional, por lo que no consta que sea firme.
 
   La sentencia de 2026 se centra en Joakim Broberg. Su padre, Lars Broberg, marido de la alcaldesa, también fue procesado por blanqueo, pero su causa se suspendió por motivos de salud y nunca fue juzgado: falleció el 4 de marzo de 2023. Por ello ninguna resolución ha declarado su responsabilidad penal individual. La acusación por cohecho contra el hijastro por el presunto pago al policía local Rafael Gallego quedó fuera del juicio de la Audiencia Nacional y se remitió a un tribunal de Málaga. La alcaldesa, María Ángeles Muñoz, no ha sido investigada ni acusada en ninguna de estas causas.
 
   Ámbito distinto es el acceso de la oposición a la documentación municipal. El PSOE solicitó los expedientes de Codecosol en noviembre de 2022. El Juzgado de lo Contencioso-Administrativo nº 1 de Málaga dictó el 24 de enero de 2023 un decreto por el que daba cinco días al Ayuntamiento para remitir el expediente administrativo, y los expedientes se entregaron hacia septiembre de 2023, unos diez meses después. La Fiscalía pidió condenar al Ayuntamiento por vulnerar el derecho de participación política (artículo 23.2 de la Constitución) de los concejales, no por un delito penal de desobediencia. En sentencia fechada el 31 de octubre de 2023 el juzgado desestimó el recurso y absolvió al Ayuntamiento, aceptando que la falta de digitalización explicaba el retraso; el PSOE anunció apelación. No se ha localizado la resolución definitiva de esa apelación: se trata de la situación de 2023 y no de una resolución actualizada.
 
-  Limitaciones de esta revisión: no se ha podido descargar el texto de la sentencia de 2026. El buscador de CENDOJ admite la consulta de la Audiencia Nacional y la descarga directa del PDF mediante el patrón search/contenidos.action?action=getdocumentpdf&databasematch=*&idcendoj=..., pero no se ha obtenido el idcendoj de la resolución, por lo que su fecha exacta, número, ponente y detalle de fundamentos se recogen de la prensa contrastada (Europa Press, El País, El Mundo, elDiario.es, Sydkusten) y de la nota del CGPJ. La situación individual de los procesados se reconstruye por esas crónicas (21 condenados y tres absueltos), sin cotejo con el texto íntegro. No se ha podido confirmar el tribunal concreto que enjuiciará el cohecho. La vía contenciosa sobre el acceso a los expedientes sigue sin resolución firme localizada y su última actuación documentada es de 2023. Las cifras de contratos proceden de los expedientes entregados en 2023 y del recuento periodístico.
+  Limitaciones de esta revisión: el texto íntegro de la sentencia de 2026 se ha consultado —está publicado por el CENDOJ con el ECLI:ES:AN:2026:2880—, pero llega con los nombres de las personas físicas anonimizados, de modo que la identificación de Joakim Broberg con «Adriano» y de Nils Fischer con «Fidel» se ha establecido por el papel que la resolución les atribuye y por la defensa letrada que consta en el encabezamiento, no por una mención nominal. Fuera de la sentencia, el detalle de la trama se apoya en prensa contrastada (Europa Press, El País, El Mundo, elDiario.es, Sydkusten). No se ha podido confirmar el tribunal concreto que enjuiciará el cohecho desgajado. La vía contenciosa sobre el acceso a los expedientes sigue sin resolución firme localizada y su última actuación documentada es de 2023. Las cifras de contratos proceden de los expedientes entregados en 2023 y del recuento periodístico.
 
-resumen: "Adjudicaciones municipales de Marbella a Codecosol, empresa vinculada al hijastro de la alcaldesa condenado por narcotráfico y blanqueo"
+resumen: "Adjudicaciones municipales de Marbella a Codecosol, empresa vinculada al hijastro de la alcaldesa, condenado por narcotráfico y blanqueo; el administrador de Codecosol fue absuelto"
 coste: 1383945
 lugar: "Marbella, Málaga, Andalucía"
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 6 (juez Manuel García Castellón) - Fiscalía Antidroga"
-  - "Audiencia Nacional - Sala de lo Penal, Sección 2ª (sentencia hecha pública el 1 de julio de 2026)"
+  - "Audiencia Nacional - Juzgado Central de Instrucción nº 6 (juez Manuel García Castellón)"
+  - "Audiencia Nacional - Sala de lo Penal, Sección 2ª (sentencia 15/2026, de 30 de junio de 2026)"
   - "Juzgado de lo Contencioso-Administrativo nº 1 de Málaga (acceso a los expedientes)"
   - "Tribunal de Málaga por determinar (cohecho del policía local, acusación desgajada)"
-numeroSentencia: ""
+numeroSentencia: "SAN 15/2026"
 implicados:
   - nombre: "María Ángeles Muñoz Uriol"
     cargo: "Alcaldesa de Marbella (PP); senadora por Málaga entre 2016 y 2023"
@@ -34,11 +34,11 @@ implicados:
 
   - nombre: "Joakim Peter Broberg"
     cargo: "Hijastro de la alcaldesa de Marbella"
-    rol: "Condenado en 2026 a nueve años de cárcel por tráfico de drogas y blanqueo; el tribunal le absuelve de pertenencia a organización criminal. Según las informaciones de julio de 2026 la sentencia no era firme (recurso anunciado). Procesado en 2022 como presunto cabecilla de la trama."
+    rol: "Condenado por la sentencia 15/2026 de la Audiencia Nacional (30-06-2026; anonimizado en el texto como «Adriano») a nueve años de cárcel —cuatro y medio por delito contra la salud pública y cuatro y medio por blanqueo— y a una multa de 4,9 millones de euros; absuelto de pertenencia a organización criminal. Procesado en 2022 como presunto cabecilla de la trama. La resolución admite recurso de apelación y no consta su firmeza."
 
   - nombre: "Nils Fischer"
     cargo: "Administrador único de Codecosol"
-    rol: "Procesado en 2022 como testaferro y hombre de confianza de Joakim Broberg; Codecosol fue señalada como instrumento de blanqueo. La sentencia de 2026 lo absuelve de todas las acusaciones, según las crónicas publicadas (Sydkusten, Málaga Press); no se ha consultado el texto íntegro de la resolución."
+    rol: "Absuelto de todos los delitos por la sentencia 15/2026 (anonimizado en el texto como «Fidel»), que no declara probado que blanqueara ni que Codecosol fuera instrumento de blanqueo. Fue procesado en 2022 como testaferro y hombre de confianza de Joakim Broberg, y Codecosol fue señalada entonces como sociedad empleada para el blanqueo."
 
   - nombre: "Lars Gunnar Sune Broberg"
     cargo: "Marido de la alcaldesa de Marbella"
@@ -51,21 +51,23 @@ implicados:
 tags:
   - "corrupción"
   - "cohecho"
-  - "prevaricación"
   - "blanqueo de capitales"
-  - "tráfico de influencias"
   - "narcotráfico"
-  - "contratación irregular"
   - "acceso a la información pública"
 
-impactoSocial: "El caso expuso la vinculación de Codecosol, empresa adjudicataria de una veintena de contratos del Ayuntamiento de Marbella, con la trama sueca de narcotráfico del hijastro de la alcaldesa, condenado en 2026. La negativa municipal a entregar los expedientes a la oposición durante meses añadió una dimensión de bloqueo documental, resuelta en primera instancia a favor del Ayuntamiento y pendiente de apelación."
+impactoSocial: "El caso expuso la vinculación de Codecosol, empresa adjudicataria de una veintena de contratos del Ayuntamiento de Marbella, con la trama sueca de narcotráfico del hijastro de la alcaldesa, condenado en 2026. A esa dimensión penal se añadió el bloqueo documental: el Ayuntamiento tardó meses en entregar los expedientes a la oposición; el Juzgado de lo Contencioso-Administrativo nº 1 de Málaga falló en primera instancia a favor del Ayuntamiento en 2023 y el PSOE anunció entonces apelación, cuyo resultado no consta a fecha de esta revisión."
 
-documentos: []
+documentos:
+  - fecha: "2026-06-30"
+    titulo: "Sentencia núm. 15/2026 de la Audiencia Nacional, Sala de lo Penal, Sección 2ª (rollo 5/2022, sumario 2/2019): condena por tráfico de drogas y blanqueo a 21 de los 24 acusados y absuelve a Nils Fischer y a otras dos personas"
+    filetype: "pdf"
+    paginas: 106
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3beec4d6c5d7baa0a0a8778d75e36f0d&encode=true&databasematch=AN"
 
 cronologia:
   - fecha: "2010-02-16"
     titulo: "Inscripción de Codecosol en el Registro Mercantil"
-    descripcion: "Nils Fischer inscribe como socio único la sociedad limitada unipersonal Construcciones y Demoliciones de la Costa del Sol (Codecosol), con domicilio en Marbella. Once meses después, en enero de 2011, la empresa obtiene su primer contrato del Ayuntamiento —la rehabilitación de pavimentos dañados, 250.000 euros del Plan Proteja de la Junta de Andalucía—. Entre 2011 y 2015 el Consistorio le adjudicó una veintena de contratos por 1.383.945 euros. La Audiencia Nacional considerará después a Fischer testaferro de Joakim Broberg (auto de 29 de septiembre de 2022)."
+    descripcion: "Nils Fischer inscribe como socio único la sociedad limitada unipersonal Construcciones y Demoliciones de la Costa del Sol (Codecosol), con domicilio en Marbella. Once meses después, en enero de 2011, la empresa obtiene su primer contrato del Ayuntamiento —la rehabilitación de pavimentos dañados, 250.000 euros del Plan Proteja de la Junta de Andalucía—. Entre 2011 y 2015 el Consistorio le adjudicó una veintena de contratos por 1.383.945 euros. La Audiencia Nacional considerará después a Fischer testaferro de Joakim Broberg (auto de 29 de septiembre de 2022), imputación que la sentencia de 2026 descartará al absolverlo."
     type: "resumen"
     urls:
       - "https://www.eldiario.es/andalucia/malaga/ayuntamiento-marbella-contrato-empresa-trama-sueca-11-meses-despues-creara_1_10647107.html"
@@ -88,22 +90,22 @@ cronologia:
 
   - fecha: "2022-09-29"
     titulo: "Auto de procesamiento de los Broberg y Fischer"
-    descripcion: "El juez de la Audiencia Nacional Manuel García Castellón dicta auto de procesamiento contra 27 personas, entre ellas Lars Gunnar Broberg, Joakim Peter Broberg y Nils Fischer, como presuntos integrantes de una organización criminal dedicada al narcotráfico y al blanqueo. El auto califica a Fischer de 'testaferro' y 'hombre de confianza' de Joakim Broberg. La UDEF había solicitado en julio de 2019 ampliar la investigación a cohecho, prevaricación y tráfico de influencias, pero ni la Fiscalía Antidroga ni el juez adoptaron entonces esa medida."
+    descripcion: "El juez de la Audiencia Nacional Manuel García Castellón dicta auto de procesamiento contra 27 personas, entre ellas Lars Gunnar Broberg, Joakim Peter Broberg y Nils Fischer, como presuntos integrantes de una organización criminal dedicada al narcotráfico y al blanqueo. El auto califica a Fischer de 'testaferro' y 'hombre de confianza' de Joakim Broberg. La UDEF había solicitado en julio de 2019 ampliar la investigación a cohecho, prevaricación y tráfico de influencias, pero ni la Fiscalía Antidroga ni el juez adoptaron entonces esa medida. Cuatro años después, la sentencia de 2026 absolverá a Fischer de todos los cargos."
     type: "imputación"
     urls:
       - "https://www.eldiario.es/politica/hijastro-alcaldesa-marbella-procesado-narcotrafico-ciudad-junta-jodida-andalucia_1_9650392.html"
       - "https://www.eldiario.es/politica/indicios-corrupcion-torno-alcaldesa-marbella-desaparecen-juicio-narcotrafico-hijastro_1_12325741.html"
 
   - fecha: "2022-11-08"
-    titulo: "El PSOE solicita formalmente los expedientes de Codecosol"
+    titulo: "El PSOE anuncia la solicitud de los expedientes de Codecosol"
     descripcion: "El grupo municipal del PSOE en el Ayuntamiento de Marbella anuncia la solicitud de todos los expedientes de las adjudicaciones a Codecosol (obras de 2011-2015). El Gobierno municipal no los entrega en plazo e inicia un bloqueo documental que acabará en un procedimiento contencioso-administrativo. La fecha es la del anuncio público; la solicitud escrita se registró en esos días de noviembre de 2022."
     type: "denuncia"
     urls:
       - "https://www.diariosur.es/marbella-estepona/psoe-expedientes-codecosol-20221108195739-nt.html"
 
   - fecha: "2023-01-24"
-    titulo: "El juzgado contencioso da cinco días al Ayuntamiento para remitir el expediente"
-    descripcion: "El Juzgado de lo Contencioso-Administrativo nº 1 de Málaga dicta un decreto por el que concede al Ayuntamiento de Marbella cinco días para remitir el expediente administrativo, a raíz del recurso del PSOE por la falta de entrega de la documentación. No es un auto ni una sentencia: el pronunciamiento definitivo llegará meses después."
+    titulo: "El juzgado contencioso da cinco días al Ayuntamiento para remitir el expediente (decreto)"
+    descripcion: "El Juzgado de lo Contencioso-Administrativo nº 1 de Málaga dicta un decreto por el que concede al Ayuntamiento de Marbella cinco días para remitir el expediente administrativo, a raíz del recurso del PSOE por la falta de entrega de la documentación. No es un auto ni una sentencia: el pronunciamiento definitivo llegará meses después. La fecha del 24 de enero de 2023 es la que dan las crónicas para el decreto; las noticias se publicaron con posterioridad (31 de enero y 5 de febrero), por lo que el día exacto del acto no procede de una fuente judicial directa."
     type: "investigación"
     urls:
       - "https://www.eldiario.es/politica/alcaldesa-marbella-adjudico-obras-dedo-testaferro-hijastro-procesado-narcotrafico_1_9892546.html"
@@ -133,7 +135,7 @@ cronologia:
 
   - fecha: "2023-10-31"
     titulo: "El juzgado contencioso absuelve al Ayuntamiento"
-    descripcion: "El Juzgado de lo Contencioso-Administrativo nº 1 de Málaga dicta sentencia fechada el 31 de octubre de 2023 —hecha pública el 6 de noviembre— que desestima el recurso del PSOE y absuelve al Ayuntamiento, aceptando que la falta de digitalización explica el retraso en localizar veinte expedientes que suman cerca de 1,4 millones de euros. La sentencia no es firme y el PSOE anunció recurso de apelación."
+    descripcion: "El Juzgado de lo Contencioso-Administrativo nº 1 de Málaga dicta sentencia fechada el 31 de octubre de 2023 —hecha pública el 6 de noviembre— que desestima el recurso del PSOE y absuelve al Ayuntamiento, aceptando que la falta de digitalización explica el retraso en localizar veinte expedientes que suman cerca de 1,4 millones de euros. La sentencia no era firme y el PSOE anunció recurso de apelación; no consta el resultado de esa apelación."
     type: "sentencia"
     urls:
       - "https://www.eldiario.es/andalucia/malaga/juzgado-absuelve-ayuntamiento-marbella-retraso-entregar-contratos-trama-sueca_1_10659975.html"
@@ -163,7 +165,7 @@ cronologia:
 
   - fecha: "2025-05-06"
     titulo: "Comienza el juicio oral en la Audiencia Nacional (aplazado un día por el sabotaje en el AVE)"
-    descripcion: "La Audiencia Nacional abre el juicio contra Joakim Broberg y otras 23 personas por la trama de narcotráfico y blanqueo, con acusaciones por tráfico de drogas, organización criminal y blanqueo. El inicio estaba previsto para el lunes 5 de mayo, pero se aplazó un día porque algunos abogados no pudieron llegar a Madrid por el robo de cable que paralizó la línea del AVE; arrancó finalmente el martes 6. Once acusados llegan a un acuerdo de conformidad con penas de entre dos y cinco años. Los indicios de corrupción municipal no forman parte de las acusaciones."
+    descripcion: "La Audiencia Nacional abre el juicio de la trama sueca, con acusaciones por tráfico de drogas, organización criminal y blanqueo. El inicio estaba previsto para el lunes 5 de mayo, pero se aplazó un día porque algunos abogados no pudieron llegar a Madrid por el robo de cable que paralizó la línea del AVE; arrancó finalmente el martes 6. La crónica de la primera sesión sitúa 25 acusados en la sala, de una treintena de procesados (algunos en busca y captura); la sentencia alcanza finalmente a 24. Once acusados llegan a un acuerdo de conformidad con penas de entre dos y cinco años. Los indicios de corrupción municipal no forman parte de las acusaciones."
     type: "juicio"
     urls:
       - "https://www.marbella24horas.es/local/en-marcha-el-juicio-a-joakim-broberg-su-defensa-critica-a-la-policia-40428"
@@ -178,10 +180,18 @@ cronologia:
       - "https://www.eldiario.es/politica/fiscalia-pide-18-anos-carcel-hijastro-alcaldesa-marbella-trafico-drogas-blanqueo_1_12416232.html"
       - "https://www.elcorreogallego.es/sucesos/2025/06/26/fiscal-pide-18-anos-prision-hijastro-alcaldesa-marbella-narcotrafico-119081185.html"
 
-  - fecha: "2026-07-01"
-    titulo: "Se conoce la sentencia: nueve años de cárcel para Broberg"
-    descripcion: "La Sección Segunda de la Sala de lo Penal de la Audiencia Nacional condena a Joakim Peter Broberg a nueve años de cárcel (cuatro y medio por delito contra la salud pública y cuatro y medio por blanqueo) y a una multa de 4,9 millones de euros, y le absuelve de pertenencia a organización criminal. La sentencia, de más de 200 páginas, condena a 21 de los 24 acusados a penas de entre 2 y 16 años y absuelve a tres, entre ellos Nils Fischer, administrador de Codecosol. Según las informaciones de esas fechas no era firme y la defensa anunció recurso. La fecha corresponde a la difusión de la sentencia; no se ha podido confirmar la fecha exacta de la resolución ni su número."
+  - fecha: "2026-06-30"
+    titulo: "La Audiencia Nacional dicta la sentencia 15/2026: nueve años de cárcel para Broberg"
+    descripcion: "La Sección Segunda de la Sala de lo Penal de la Audiencia Nacional dicta la sentencia núm. 15/2026 (ECLI:ES:AN:2026:2880; rollo 5/2022, sumario 2/2019), de 106 páginas y ponencia de la magistrada Ana Revuelta Iglesias. El fallo condena a Joakim Peter Broberg —anonimizado como «Adriano»— a nueve años de cárcel (cuatro y medio por delito contra la salud pública y cuatro y medio por blanqueo) y a una multa de 4,9 millones de euros, y le absuelve de organización criminal. Condena a 21 de los 24 acusados (penas de 2 a 16 años) y absuelve a los otros tres, entre ellos Nils Fischer —anonimizado como «Fidel»—, administrador de Codecosol. En los hechos, la sentencia examina los pagos recibidos por Codecosol y su contrato con Las Villas del Puente Romano (1.179.902,80 euros entre 2017 y 2019) y concluye que no hay prueba bastante de blanqueo por parte de Fischer ni relación acreditada entre Codecosol y la actividad delictiva de la trama. La resolución anuncia que cabe recurso de apelación ante la Sala de Apelación de la Audiencia Nacional."
     type: "sentencia"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-penas-de-entre-2-y-16-anos-de-carcel-a-21-acusados-de-trafico-de-drogas--blanqueo-de-capitales-y-pertenencia-a-una-organizacion-criminal-de-origen-sueco"
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3beec4d6c5d7baa0a0a8778d75e36f0d&encode=true&databasematch=AN"
+
+  - fecha: "2026-07-01"
+    titulo: "Se difunde la sentencia dictada el día anterior"
+    descripcion: "Se hace pública la sentencia de la Audiencia Nacional dictada el 30 de junio. La prensa y la nota del CGPJ destacan la condena de nueve años y 4,9 millones de multa a Joakim Broberg (absuelto de organización criminal), la condena a 21 de los 24 acusados con penas de entre 2 y 16 años y la absolución de tres, entre ellos Nils Fischer, administrador de Codecosol. La fecha corresponde a la difusión pública de la resolución, no a la fecha de la sentencia."
+    type: "documento"
     urls:
       - "https://elpais.com/espana/2026-07-01/la-audiencia-nacional-condena-por-narcotrafico-y-blanqueo-al-hijastro-de-la-alcaldesa-de-marbella.html"
       - "https://www.eldiario.es/politica/audiencia-nacional-condena-nueve-anos-carcel-hijastro-alcaldesa-marbella-narcotrafico-blanqueo_1_13347556.html"
@@ -204,3 +214,46 @@ cronologia:
     urls:
       - "https://www.eldiario.es/politica/hijo-alcaldesa-marbella-batalla-no-desahuciado-sentencia-narcotrafico_1_13402622.html"
 ---
+
+## Notas de revisión (2026-10-01)
+
+### Fuente primaria incorporada
+
+Esta revisión incorpora al campo `documentos` el texto íntegro de la sentencia de la Audiencia Nacional, Sala de lo Penal, Sección 2ª, núm. **15/2026**, de **30 de junio de 2026** (106 páginas; ECLI:ES:AN:2026:2880; ROJ SAN 2880/2026; rollo PO 5/2022; sumario PO 2/2019; Juzgado Central de Instrucción nº 6; ponente Ana Revuelta Iglesias), localizada en el buscador del CENDOJ. Hasta la revisión anterior no se disponía de esta resolución y el detalle se reconstruía solo con prensa; ahora la fecha, el número, la ponencia y el fallo constan en la propia sentencia. El fallo condena a 21 de los 24 acusados (penas de 2 a 16 años) y absuelve a tres.
+
+### Identificación de las personas anonimizadas
+
+El texto publicado llega disociado, con nombres ficticios para las personas físicas. La correlación se ha establecido por los indicios internos de la resolución y se documenta aquí:
+
+- **«Adriano» = Joakim Peter Broberg.** El encabezamiento le asigna como defensora a la letrada Sylvia Córdoba Moreno, que la crónica de la primera sesión del juicio (Marbella24Horas, 06-05-2025) identifica como defensora de Joakim Broberg, junto con Sergio Núñez Díez de la Lastra. La pena impuesta a «Adriano» (4 años y 6 meses por tráfico y 4 años y 6 meses más 4.900.000 euros de multa por blanqueo, con absolución de organización criminal) coincide con la que la prensa atribuye a Joakim Broberg.
+- **«Fidel» = Nils Fischer.** La sentencia describe a «Fidel» como el titular de la mercantil CODECOSOL, de nacionalidad sueca, y lo absuelve de todos los delitos; coincide con Nils Fischer, administrador único de Codecosol, que según Sydkusten y Málaga Press fue absuelto.
+
+La ficha mantiene los nombres de la prensa en el resto de campos y deja constancia de que la identificación no es nominal en el texto judicial.
+
+### Contratación y marco legal
+
+- **Norma aplicable.** El primer contrato (enero de 2011) y los inmediatamente posteriores se rigieron por la **Ley 30/2007, de 30 de octubre, de Contratos del Sector Público**. El Texto Refundido de la Ley de Contratos del Sector Público (TRLCSP) no entró en vigor hasta **diciembre de 2011**, por lo que no era la norma aplicable al inicio del periodo.
+- **Umbral del contrato menor de obras.** El requisito legal era que el importe fuera **inferior** a 50.000 euros, IVA excluido. La ficha usa ahora esa formulación exacta (no «no superaba» ni «≤»).
+- **Naturaleza de la cifra.** Los 1.383.945 euros son el volumen de las adjudicaciones documentadas (17 contratos menores y 3 mayores, 2011-2015), no un daño, multa o indemnización. Ninguna resolución ha declarado ilícita la contratación.
+
+### Estado procesal y firmeza
+
+- La sentencia 15/2026 **no consta firme**: la propia resolución anuncia que contra ella cabe recurso de apelación ante la Sala de Apelación de la Audiencia Nacional, y la prensa recogió el anuncio de recurso de la defensa.
+- La situación de julio de 2026 (prisión provisional pedida y no acordada, libertad de Broberg, solo dos condenados internados) se recoge como información de esas fechas, no como estado actual.
+- La sentencia de primera instancia sobre el acceso a los expedientes (31-10-2023) tampoco era firme; el PSOE anunció apelación ese año y **no se ha localizado el resultado**.
+
+### Otros ajustes
+
+- **Tribunal.** Se retira la mención a la Fiscalía Antidroga de la lista de `tribunal`: es órgano de acusación, no jurisdiccional.
+- **Número de acusados.** La crónica de la primera sesión (06-05-2025) sitúa 25 acusados en la sala, de una treintena de procesados; el fallo alcanza a 24. La ficha evita dar por cerrado el número al inicio del juicio.
+- **Etiquetas.** Se retiran `prevaricación`, `tráfico de influencias` y `contratación irregular`: ninguna resolución las declara y la Fiscalía Anticorrupción archivó o consideró prescritos los indicios sobre la contratación municipal. Se conservan `corrupción`, `cohecho`, `blanqueo de capitales`, `narcotráfico` y `acceso a la información pública`.
+- **Hito del 8 de noviembre de 2022.** Se retitula como **anuncio** de la solicitud —no como solicitud formal registrada ese día—, ya que la fecha es la del anuncio público.
+- **Decreto de 24 de enero de 2023.** Se precisa que es un decreto, no un auto; su fecha procede de las crónicas (publicadas el 31 de enero y el 5 de febrero), no de una fuente judicial directa.
+
+### Incertidumbres y pendientes
+
+- **Texto no nominal.** La sentencia está anonimizada; la equivalencia «Adriano» = Joakim Broberg y «Fidel» = Nils Fischer se sostiene en la defensa letrada y en el papel atribuido a cada uno, no en una mención nominal.
+- **Tribunal del cohecho desgajado.** No se ha confirmado el órgano de Málaga que enjuiciará la acusación por cohecho contra Rafael Gallego.
+- **Apelación contencioso-administrativa.** No se ha localizado la resolución de la apelación anunciada en 2023 contra la sentencia que absolvió al Ayuntamiento.
+- **Firmeza de la sentencia penal.** No consta que la sentencia 15/2026 haya ganado firmeza ni el resultado del recurso anunciado.
+- **Diferencias de cómputo.** La sentencia alcanza a 24 acusados, mientras la crónica del inicio del juicio habla de 25 en la sala, de una treintena de procesados; no consta el detalle de quienes no llegaron al fallo.
