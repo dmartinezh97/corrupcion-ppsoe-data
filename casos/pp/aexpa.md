@@ -3,7 +3,6 @@ nombre: "Caso AEXPA"
 partido: PP
 completado: false
 año: 2015
-fechaInicio: ""
 fechaFin: ""
 estado: "desconocido"
 descripcion: |
@@ -102,5 +101,5 @@ cronologia:
 - **Cuantía**: el campo `coste` figuraba como 1.204.226 euros sin respaldo documental localizado. Las fuentes consultadas cifran el fraude en subvenciones en 506.113,60 euros (463.413,60 Xunta + 34.000 Diputación + 8.700 Concello) y la indemnización fijada por conformidad en 674.000 euros; la Seguridad Social declaraba además una deuda de 96.000 euros. Se mantiene `coste` en 506.113,60 (el importe defraudado en subvenciones, que es el que las fuentes consideran probado).
 - **Nombre del principal implicado**: las fuentes no son unánimes. La Región y esRadio escriben "Luis Timirao Carrasco"; La Voz de Galicia cita "Luis Antonio T. C." y Galicia Confidencial escribe "Luis Timiraos Carrasco". Se mantiene la grafía de las fuentes citadas en la cronología y se deja constancia de la variante.
 - **Denominación de la operación**: "Rewin" está confirmada por La Región y esRadio; Europa Press e infoLibre describen la operación sin ese nombre.
-- **Fechas**: se distinguen las fechas de los hechos de las de publicación. Las detenciones se practicaron desde el 26 de abril de 2017 y se difundieron el 28 de abril; la puesta a disposición judicial del matrimonio se produjo el 28 de abril de 2017 (viernes); la ficha fechaba la puesta en libertad el 29 de abril, que se ha corregido al 28 de abril. De los hitos de 2005 (creación de AEXPA e inicio del fraude) y de 2015 (inicio de la investigación) solo consta el año, sin día acreditado; por ello **se han retirado del array `cronologia`** (que exige fecha con día) y sus años se conservan en el cuerpo de la ficha. `fechaInicio` queda vacío porque solo consta el año de inicio de la investigación (2015), sin día acreditado.
+- **Fechas**: se distinguen las fechas de los hechos de las de publicación. Las detenciones se practicaron desde el 26 de abril de 2017 y se difundieron el 28 de abril; la puesta a disposición judicial del matrimonio se produjo el 28 de abril de 2017 (viernes); la ficha fechaba la puesta en libertad el 29 de abril, que se ha corregido al 28 de abril. De los hitos de 2005 (creación de AEXPA e inicio del fraude) y de 2015 (inicio de la investigación) solo consta el año, sin día acreditado; por ello **se han retirado del array `cronologia`** (que exige fecha con día) y sus años se conservan en el cuerpo de la ficha. se omite `fechaInicio` porque solo consta el año de inicio de la investigación (2015), sin día acreditado.
 - **Documentos**: no se han localizado PDFs oficiales descargables (sentencia, auto o nota del CGPJ), por lo que `documentos` se mantiene vacío.
