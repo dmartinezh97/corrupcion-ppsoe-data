@@ -3,9 +3,9 @@ nombre: "Caso Deportes Crevillente"
 partido: PP
 completado: false
 año: 2018
-fechaInicio: 2004-12-30
+fechaInicio: "2004-12-30"
 fechaFin: ""
-estado: "activo"
+estado: "desconocido"
 descripcion: |
   El "caso Deportes" de Crevillent (Alicante) agrupa varias piezas separadas abiertas a raíz de la investigación de la Fiscalía Anticorrupción sobre la contratación del área de Deportes del Ayuntamiento entre 2004 y 2018, en particular con la mercantil Tot Sport Crevi S.L., administrada por Cayetano Ramón Serna Villaescusa, hijo del coordinador municipal de Deportes Francisco Manuel Serna González (jubilado en agosto de 2016).
 
@@ -13,22 +13,22 @@ descripcion: |
 
   En la pieza de los juegos deportivos interescolares municipales, la Sección Séptima de la Audiencia Provincial de Alicante, con sede en Elche, dictó la sentencia 44/2025, de 31 de enero de 2025, que absolvió a los cuatro acusados —los exconcejales Pedro García Navarro y Manuel Moya Ferrández, el coordinador Francisco Manuel Serna González y Cayetano Ramón Serna Villaescusa— y a Tot Sport Crevi S.L. como responsable civil subsidiaria. La Sección de Apelaciones Penales del Tribunal Superior de Justicia de la Comunitat Valenciana, en su sentencia 159/2025, de 6 de mayo de 2025 (ROJ STSJ CV 57/2025; ECLI:ES:TSJCV:2025:57), estimó el recurso de la Fiscalía, anuló la sentencia absolutoria y el juicio oral y ordenó repetir el juicio con magistrados distintos, sin que quepa casación ante el Tribunal Supremo. La anulación no implica condena ni prejuzga el resultado, y el nuevo juicio no consta celebrado ni resuelto a 1 de octubre de 2026.
 
-  En otra pieza, relativa a contratos de conserjería y monitores, el juicio oral se inició el 5 de febrero de 2025; en marzo de 2025 la sala anuló parte de la prueba —entre ella el informe de la Agencia Valenciana Antifraude— y devolvió la causa a la fase de instrucción. Por otra parte, el auto de 19 de enero de 2022 del Juzgado de Instrucción nº 4 de Elche acordó la apertura de juicio oral contra el exalcalde César Augusto Asencio y otras ocho personas por la contratación del servicio de conserjería y mantenimiento (2004-2018), con una fianza solidaria de 90.000 euros y una petición de la Fiscalía de 5 años y 10 meses de prisión para Asencio. La prensa de 2025 señaló que Asencio no estaba acusado en las piezas enjuiciadas ese año, y el estado procesal actual de la causa en la que fue encausado no se ha podido confirmar con las fuentes consultadas.
+  En otra pieza, relativa a contratos de conserjería y monitores, el juicio oral se anunció para el 5 de febrero de 2025 y una crónica de 26 de marzo de 2025 sitúa la causa en fase de juicio; en marzo de 2025 la sala anuló parte de la prueba —entre ella el informe de la Agencia Valenciana Antifraude— y devolvió la causa a la fase de instrucción. Por otra parte, el auto de 19 de enero de 2022 (atribuido por la prensa al Juzgado de Instrucción nº 4 de Elche, mientras que la STSJCV sitúa las diligencias previas 425/2018 en el Juzgado nº 2) acordó la apertura de juicio oral contra el exalcalde César Augusto Asencio y otras ocho personas por la contratación del servicio de conserjería y mantenimiento (2004-2018) y fijó una fianza solidaria de 90.000 euros; la petición de 5 años y 10 meses de prisión para Asencio es de la Fiscalía, distinta de la fianza acordada por el auto. La prensa de 2025 señaló que Asencio no estaba acusado en las piezas enjuiciadas ese año, y el estado procesal actual de la causa en la que fue encausado no se ha podido confirmar con las fuentes consultadas.
 
-  No consta ninguna sentencia condenatoria firme contra ninguno de los implicados. La empresa ha seguido recibiendo adjudicaciones municipales, entre ellas el contrato de actividades deportivas y socorrismo aprobado por el pleno el 25 de marzo de 2025, ajeno a este procedimiento. La resolución del TSJCV sitúa la constitución de Tot Sport Crevi S.L. el 12 de julio de 2016, fecha incompatible con sus contratos de 2014 y con pagos documentados de 2006, por lo que se trata de un error material (probablemente 2006). Falta por confirmar el desenlace del nuevo juicio y el estado de las restantes piezas.
+  No consta ninguna sentencia condenatoria firme contra ninguno de los implicados. La empresa ha seguido recibiendo adjudicaciones municipales, entre ellas el contrato de actividades deportivas y socorrismo aprobado por el pleno el 25 de marzo de 2025, ajeno a este procedimiento. La resolución del TSJCV sitúa la constitución de Tot Sport Crevi S.L. el 12 de julio de 2016, fecha incompatible con sus contratos de 2014 y con los pagos de 2006 que la propia resolución registra; la discrepancia no se ha podido resolver consultando el Registro Mercantil, por lo que no se da por buena ni se califica de error material con certeza. Falta por confirmar el desenlace del nuevo juicio y el estado de las restantes piezas.
 resumen: "Investigación de la Fiscalía Anticorrupción sobre la contratación del área de Deportes de Crevillent con Tot Sport Crevi (2004-2018); la absolución de la pieza de los juegos interescolares fue anulada en 2025 y el juicio deberá repetirse"
-coste: 53365
+coste: 53365.46
 lugar: "Crevillent, Alicante"
 tribunal:
-  - "Juzgado de Instrucción nº 4 de Elche (diligencias previas 425/2018)"
-  - "Juzgado de Instrucción nº 2 de Elche (procedimiento abreviado 236/2019)"
+  - "Juzgado de Instrucción nº 2 de Elche (diligencias previas 425/2018 y procedimiento abreviado 236/2019, según la STSJCV 159/2025)"
+  - "Juzgado de Instrucción nº 4 de Elche (atribución de la prensa al auto de apertura de juicio oral de 19 de enero de 2022; discrepancia no resuelta con el Juzgado nº 2, al que la STSJCV atribuye las diligencias previas 425/2018)"
   - "Audiencia Provincial de Alicante, Sección 7ª, sede Elche (procedimiento abreviado 77/2022)"
   - "Tribunal Superior de Justicia de la Comunitat Valenciana, Sala de lo Civil y Penal, Sección de Apelaciones Penales (rollo 157/2025)"
 numeroSentencia: "STSJCV 159/2025 (ROJ STSJ CV 57/2025), que anula la SAP 44/2025"
 implicados:
   - nombre: "César Augusto Asencio Adsuar"
     cargo: "Alcalde de Crevillent (1995-2019) y presidente del Patronato Municipal de Deportes"
-    rol: "El auto de 19 de enero de 2022 del Juzgado de Instrucción nº 4 de Elche acordó la apertura de juicio oral contra él y otras ocho personas por la contratación del servicio de conserjería y mantenimiento (2004-2018). La Fiscalía Anticorrupción pidió 5 años y 10 meses de prisión y una fianza solidaria de 90.000 euros. La prensa de 2025 indica que no estaba acusado en las piezas enjuiciadas ese año; el estado actual de la causa en la que fue encausado no está confirmado."
+    rol: "El auto de 19 de enero de 2022 (atribuido por la prensa al Juzgado de Instrucción nº 4 de Elche) acordó la apertura de juicio oral contra él y otras ocho personas por la contratación del servicio de conserjería y mantenimiento (2004-2018) y fijó una fianza solidaria de 90.000 euros. La Fiscalía Anticorrupción pidió 5 años y 10 meses de prisión en su escrito de acusación; la fianza es una medida cautelar acordada por el auto, no una petición de la Fiscalía. La prensa de 2025 indica que no estaba acusado en las piezas enjuiciadas ese año; el estado actual de la causa en la que fue encausado no está confirmado."
 
   - nombre: "Francisco Manuel Serna González"
     cargo: "Coordinador municipal de Deportes del Patronato (jubilado en agosto de 2016)"
@@ -51,15 +51,15 @@ implicados:
     rol: "Imputada en la causa matriz por su intervención en los procedimientos de contratación; fue enviada a juicio oral en el auto de 19 de enero de 2022. No consta resolución sobre el fondo."
 
   - nombre: "Olga Pino Díez"
-    cargo: "Secretaria general del Ayuntamiento"
+    cargo: "Secretaria general del Ayuntamiento (en el periodo de los hechos)"
     rol: "Imputada en la causa matriz; enviada a juicio oral en el auto de 19 de enero de 2022. No consta resolución sobre el fondo."
 
   - nombre: "Siria Pérez Ortuño"
-    cargo: "Interventora municipal"
+    cargo: "Interventora municipal (en el periodo de los hechos)"
     rol: "Imputada en la causa matriz; enviada a juicio oral en el auto de 19 de enero de 2022. No consta resolución sobre el fondo."
 
   - nombre: "Rosa Ana Narejos Torregrosa"
-    cargo: "Secretaria de la mesa de contratación"
+    cargo: "Secretaria de la mesa de contratación (en el periodo de los hechos)"
     rol: "Imputada en la causa matriz; enviada a juicio oral en el auto de 19 de enero de 2022. No consta resolución sobre el fondo."
 
 tags:
@@ -79,6 +79,12 @@ documentos:
     filetype: "pdf"
     paginas: 30
     nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=getdocumentpdf&databasematch=*&idcendoj=46250312012025100028"
+
+  - fecha: "2019-06"
+    titulo: "Informe de Control Posterior y Control Financiero 2017 del Ayuntamiento de Crevillent (recoge el contrato de conserjería y mantenimiento con Tot-Sport Crevi S.L. de 2013)"
+    filetype: "pdf"
+    paginas: 72
+    nombre_fichero: "https://www.crevillent.es/uploads/ficheros/paginas/descargas/201906/descargas-informe-control-posterior-y-financiero-2017-es.pdf"
 
 cronologia:
   - fecha: "2004-12-30"
@@ -123,7 +129,7 @@ cronologia:
 
   - fecha: "2014-06-26"
     titulo: "Firma del contrato de los juegos deportivos interescolares"
-    descripcion: "El alcalde (identificado en la resolución como D. Raimundo) y Cayetano Ramón Serna Villaescusa, por la mercantil adjudicataria, firmaron el contrato con una vigencia de dos años prorrogables por otros dos."
+    descripcion: "El alcalde, designado en la resolución con el nombre anonimizado de D. Raimundo —que no figura entre los acusados de esta pieza—, y Cayetano Ramón Serna Villaescusa, por la mercantil adjudicataria, firmaron el contrato con una vigencia de dos años prorrogables por otros dos. La firma del contrato no supone por sí sola atribución procesal a la persona del alcalde."
     type: "resumen"
     relevancia: "media"
     urls:
@@ -203,8 +209,8 @@ cronologia:
       - "https://valenciaplaza.com/valenciaplaza/asi-era-padre-orquesta-de-crevillent-que-servia-las-adjudicaciones-a-los-hijos-y-les-cobraba-el-alquiler"
 
   - fecha: "2021-10-17"
-    titulo: "Anticorrupción presenta escrito de acusación y pide 5 años y 10 meses para Asencio"
-    descripcion: "La Fiscalía Anticorrupción presentó su escrito de acusación y solicitó cinco años y diez meses de prisión para el exalcalde César Augusto Asencio, además de una indemnización conjunta de 53.365,46 euros. Es una petición de la acusación pública, no una condena ni un perjuicio declarado."
+    titulo: "Se informa: Anticorrupción presenta escrito de acusación y pide 5 años y 10 meses para Asencio"
+    descripcion: "La Fiscalía Anticorrupción presentó su escrito de acusación y solicitó cinco años y diez meses de prisión para el exalcalde César Augusto Asencio, además de una indemnización conjunta de 53.365,46 euros. Es una petición de la acusación pública, no una condena ni un perjuicio declarado. La fecha es la de publicación de la noticia; no se ha localizado el escrito de acusación como documento primario, por lo que no se da por acreditada la fecha exacta del acto."
     type: "imputacion"
     relevancia: "alta"
     urls:
@@ -236,14 +242,23 @@ cronologia:
       - "https://www.informacion.es/elche/2025/02/04/exculpados-procesados-segunda-pieza-caso-114007355.html"
       - "https://www.decrevillent.com/2025/02/06/el-pp-celebra-la-absolucion-de-los-acusados-en-la-causa-de-los-juegos-deportivos-interescolares/"
 
-  - fecha: "2025-02-05"
-    titulo: "Comienza el juicio de la pieza de conserjería y monitores"
-    descripcion: "Se inició en la Sección Séptima de la Audiencia Provincial de Alicante, con sede en Elche, el juicio de otra de las piezas, relativa a contratos de conserjería y monitores. Estaban acusados el técnico Francisco Serna, su hijo Cayetano, el exedil Pedro García y dos funcionarias municipales de Contratación; los exalcaldes Asencio y Penalva comparecieron como testigos."
+  - fecha: "2025-02-04"
+    titulo: "Se anuncia para el 5 de febrero el inicio del juicio de la pieza de conserjería y monitores"
+    descripcion: "La prensa de 4 de febrero de 2025 y un comunicado del PP local de 6 de febrero anunciaron que el juicio de otra de las piezas, relativa a contratos de conserjería y monitores, comenzaría el 5 de febrero en la Sección Séptima de la Audiencia Provincial de Alicante, con sede en Elche. Estaban acusados el técnico Francisco Serna, su hijo Cayetano, el exedil Pedro García y dos funcionarias municipales de Contratación; los exalcaldes Asencio y Penalva comparecerían como testigos. No se ha localizado una crónica que confirme la fecha exacta de inicio, aunque una noticia de 26 de marzo de 2025 sitúa la causa en fase de juicio; el anuncio no se toma como prueba de la celebración en esa fecha concreta."
     type: "juicio"
     relevancia: "alta"
     urls:
       - "https://www.informacion.es/elche/2025/02/04/exculpados-procesados-segunda-pieza-caso-114007355.html"
       - "https://www.decrevillent.com/2025/02/06/el-pp-celebra-la-absolucion-de-los-acusados-en-la-causa-de-los-juegos-deportivos-interescolares/"
+
+  - fecha: "2025-03-25"
+    titulo: "El pleno municipal adjudica a Tot Sport Crevi el contrato de actividades deportivas y socorrismo"
+    descripcion: "El pleno del Ayuntamiento de Crevillent aprobó, con los votos de PP, Vox y PSOE y la abstención de Acord per Guanyar, la adjudicación a Tot Sport Crevi S.L. del contrato de actividades deportivas y socorrismo en las instalaciones municipales. La adjudicación es un acto administrativo ajeno a las causas judiciales y no consta impugnada por su relación con ellas. La sesión se celebró el 25 de marzo de 2025; la noticia oficial que lo recoge se publicó el 26 de marzo y precisa que tuvo lugar «en la tarde de ayer martes»."
+    type: "resumen"
+    relevancia: "baja"
+    urls:
+      - "https://crevillent.es/el-pleno-aprueba-la-adjudicacion-del-contrato-para-el-servicio-de-actividades-deportivas-y-de-socorrismo-en-las-instalaciones-deportivas-municipales/"
+      - "https://www.informacion.es/elche/2025/03/26/empresa-caso-deportes-vuelve-ganar-115722167.html"
 
   - fecha: "2025-03-26"
     titulo: "Se informa: la Audiencia anula parte de la prueba de la pieza de monitores y devuelve la causa a instrucción"
@@ -251,15 +266,6 @@ cronologia:
     type: "recurso"
     relevancia: "alta"
     urls:
-      - "https://www.informacion.es/elche/2025/03/26/empresa-caso-deportes-vuelve-ganar-115722167.html"
-
-  - fecha: "2025-03-26"
-    titulo: "El pleno municipal adjudica a Tot Sport Crevi el contrato de actividades deportivas y socorrismo"
-    descripcion: "El pleno del Ayuntamiento de Crevillent aprobó, con los votos de PP, Vox y PSOE y la abstención de Acord per Guanyar, la adjudicación a Tot Sport Crevi S.L. del contrato de actividades deportivas y socorrismo en las instalaciones municipales. La adjudicación es un acto administrativo ajeno a las causas judiciales y no consta impugnada por su relación con ellas."
-    type: "resumen"
-    relevancia: "baja"
-    urls:
-      - "https://crevillent.es/el-pleno-aprueba-la-adjudicacion-del-contrato-para-el-servicio-de-actividades-deportivas-y-de-socorrismo-en-las-instalaciones-deportivas-municipales/"
       - "https://www.informacion.es/elche/2025/03/26/empresa-caso-deportes-vuelve-ganar-115722167.html"
 
   - fecha: "2025-05-06"
@@ -274,20 +280,20 @@ cronologia:
 
 ## Límites de la revisión (1 de octubre de 2026)
 
-Esta ficha describe un conjunto de piezas judiciales separadas, no una única causa, y su estado actual no consta acreditado en su totalidad. La última resolución verificada es la sentencia del TSJCV de 6 de mayo de 2025. No se han localizado resoluciones posteriores a esa fecha ni noticias de 2026 sobre el nuevo juicio ordenado ni sobre las restantes piezas; por tanto, no puede afirmarse que la causa siga en un estado concreto ni que haya concluido.
+Esta ficha describe un conjunto de piezas judiciales separadas, no una única causa, y su estado actual no consta acreditado en su totalidad. Por ello el campo `estado` se registra como «desconocido». La última resolución verificada es la sentencia del TSJCV de 6 de mayo de 2025. No se han localizado resoluciones posteriores a esa fecha ni noticias de 2026 sobre el nuevo juicio ordenado ni sobre las restantes piezas; por tanto, no puede afirmarse que la causa siga pendiente ni que se encuentre en ningún otro estado concreto, ni que haya concluido.
 
-**Denominación de las piezas.** La prensa usa de forma intercambiable «juegos deportivos interescolares» y «monitores» para referirse a la segunda pieza. La sentencia del TSJCV, fuente primaria, identifica el contrato enjuiciado como «Servicio de Organización, Coordinación y Ejecución de los Juegos Deportivos Interescolares Municipales de Crevillent» (adjudicado en 2014). La tercera pieza, cuyo juicio se inició el 5 de febrero de 2025, se refiere a otros contratos del área de Deportes. La numeración exacta de las piezas y su correspondencia con cada contrato no está cerrada por las fuentes consultadas.
+**Denominación de las piezas.** La prensa usa de forma intercambiable «juegos deportivos interescolares» y «monitores» para referirse a la segunda pieza. La sentencia del TSJCV, fuente primaria, identifica el contrato enjuiciado como «Servicio de Organización, Coordinación y Ejecución de los Juegos Deportivos Interescolares Municipales de Crevillent» (adjudicado en 2014). La tercera pieza, cuyo juicio se anunció para el 5 de febrero de 2025, se refiere a otros contratos del área de Deportes. La numeración exacta de las piezas, su correspondencia con cada contrato y la atribución de cada persona a una u otra pieza no están cerradas por las fuentes consultadas y siguen aquí lo que asigna la prensa, sin categorización definitiva.
 
 **Absolución, anulación y firmeza.** La SAP 44/2025 (31 de enero de 2025) absolvió a los cuatro acusados y a Tot Sport Crevi. Fue anulada por la STSJCV 159/2025 (6 de mayo de 2025), que ordenó repetir el juicio con otros magistrados. La anulación no convierte la absolución en condena ni permite hablar de persona condenada. No consta sentencia firme sobre el fondo en ninguna de las piezas.
 
-**Situación de César Augusto Asencio.** El auto de 19 de enero de 2022 (Juzgado de Instrucción nº 4 de Elche) le abrió juicio oral junto a otras ocho personas por la contratación del servicio de conserjería y mantenimiento (2004-2018). Sin embargo, la prensa de 2025 indica que no estaba acusado en las piezas enjuiciadas ese año, donde compareció como testigo. No se ha localizado la resolución de apertura de juicio oral ni ninguna resolución posterior sobre el fondo de la causa en la que fue encausado; su estado procesal actual se registra como no confirmado.
+**Situación de César Augusto Asencio.** El auto de 19 de enero de 2022 le abrió juicio oral junto a otras ocho personas por la contratación del servicio de conserjería y mantenimiento (2004-2018). La prensa atribuye ese auto al Juzgado de Instrucción nº 4 de Elche, mientras que la STSJCV sitúa las diligencias previas 425/2018 en el Juzgado nº 2; ambas identificaciones no se dan por equivalentes. El auto fijó una fianza solidaria de 90.000 euros; la petición de 5 años y 10 meses de prisión es de la Fiscalía. Sin embargo, la prensa de 2025 indica que no estaba acusado en las piezas enjuiciadas ese año, donde compareció como testigo. No se ha localizado la resolución de apertura de juicio oral ni ninguna resolución posterior sobre el fondo de la causa en la que fue encausado; su estado procesal actual se registra como no confirmado.
 
-**Magnitudes económicas.** Los 53.365,46 euros son la cantidad reclamada por la Fiscalía en concepto de responsabilidad civil (pago de servicios presuntamente no prestados), no un daño declarado judicialmente. Los 90.000 euros son una fianza cautelar, no un coste ni una indemnización. Los 25.308,36 euros anuales son el valor del contrato de los juegos interescolares (IVA incluido), no un perjuicio. El contrato de conserjería de 2013 se adjudicó por 176.577,86 euros anuales (IVA incluido), según el informe municipal de control financiero de 2017. No deben sumarse el valor de los contratos, las peticiones de la acusación y las fianzas como si fueran una misma categoría. La cifra de «2.910 horas» de conserjería en la Ciudad Deportiva Norte que figuraba en la versión anterior de esta ficha no se ha podido corroborar en ninguna fuente localizable y se ha retirado; la referencia documentada es la facturación de servicios en instalaciones cerradas según la prensa de 2018.
+**Magnitudes económicas.** Los 53.365,46 euros son la cantidad reclamada por la Fiscalía en concepto de responsabilidad civil (pago de servicios presuntamente no prestados), no un daño declarado judicialmente. Los 90.000 euros son una fianza cautelar, no un coste ni una indemnización. Los 25.308,36 euros anuales son el valor del contrato de los juegos interescolares (IVA incluido), no un perjuicio. El contrato de conserjería de 2013 se adjudicó por 176.577,86 euros anuales (IVA incluido), según el informe municipal de control financiero de 2017. No deben sumarse el valor de los contratos, las peticiones de la acusación y las fianzas como si fueran una misma categoría. No se ha localizado ninguna fuente que respalde una cifra de horas concretas de conserjería en la Ciudad Deportiva Norte; la referencia documentada es la facturación de servicios en instalaciones cerradas según la prensa de 2018.
 
-**Errores y discrepancias en las fuentes.** La STSJCV 159/2025 afirma que Tot Sport Crevi S.L. se constituyó el 12 de julio de 2016, fecha incompatible con el contrato adjudicado en 2014 y con pagos documentados de 2006 (rentas satisfechas por el hijo y por la propia empresa). Se trata con toda probabilidad de un error material de la resolución (2006 por 2016), que se reproduce aquí sin darlo por bueno. La sentencia anonimiza a los implicados con nombres ficticios; la identificación de estos con Pedro García Navarro, Manuel Moya Ferrández, Francisco Manuel Serna González y Cayetano Ramón Serna Villaescusa procede de la prensa, que además usa «Cayetano Serna» o «Cayetano Ramón Serna Villaescusa».
+**Discrepancias no resueltas.** La STSJCV 159/2025 afirma que Tot Sport Crevi S.L. se constituyó el 12 de julio de 2016, fecha incompatible con el contrato adjudicado en 2014 y con los pagos de 2006 que la propia resolución registra (rentas satisfechas por el hijo y por la propia empresa, una de ellas el 12.07.2006). No se ha podido contrastar la fecha con el Registro Mercantil, por lo que la discrepancia se deja sin resolver: no se da por buena la fecha de 2016 ni se afirma con certeza que sea un error material por 2006. La sentencia anonimiza a los implicados con nombres ficticios (Cosme, Luis Enrique, Diego y Leopoldo, y el alcalde D. Raimundo); la identificación de los cuatro acusados con Pedro García Navarro, Manuel Moya Ferrández, Francisco Manuel Serna González y Cayetano Ramón Serna Villaescusa procede de la prensa, que además usa «Cayetano Serna» o «Cayetano Ramón Serna Villaescusa». El alcalde que firmó el contrato en 2014 aparece anonimizado como D. Raimundo, no figura entre los acusados de esa pieza y no se le asigna atribución procesal por la firma del contrato. La prensa atribuye a veces las diligencias previas 425/2018 al Juzgado de Instrucción nº 4 de Elche, mientras la STSJCV las sitúa en el nº 2.
 
-**Fechas.** Se han retirado las fechas exactas sin respaldo (2004, 2005, 2013, 2014, 2016, 2018 y 2019) que figuraban en la versión anterior, así como la afirmación de que el caso se inició en 2019 y la que vinculaba causalmente el caso con la pérdida de la alcaldía. La denuncia de la Fiscalía se acordó el 8 de febrero de 2018 y las diligencias previas 425/2018 se iniciaron por auto de 7 de marzo de 2018, según la sentencia del TSJCV; la prensa atribuye esas diligencias al Juzgado de Instrucción nº 4 de Elche, mientras la propia resolución las sitúa en el Juzgado de Instrucción nº 2 de Elche.
+**Fechas.** Solo se recogen las fechas respaldadas por resoluciones o documentos. La denuncia de la Fiscalía se acordó el 8 de febrero de 2018 y las diligencias previas 425/2018 se iniciaron por auto de 7 de marzo de 2018, según la sentencia del TSJCV; cuando la fuente es una noticia y no un acto, se indica en la descripción del hito. No se acredita que el caso fuera causa determinante de la pérdida de la alcaldía del PP en 2019.
 
-**Nombres y cargos.** Se han corregido los nombres siguiendo la documentación municipal: Manuel Moya **Ferrández** (no Fernández), María del Carmen Candela **Torregrosa** (no Pérez), Olga Pino **Díez** (no Albaladejo), Siria Pérez **Ortuño** (no Sira Pérez Aznar) y Rosa Ana Narejos **Torregrosa** (no González). Las fuentes no concretan siempre los periodos exactos de cada cargo; se mantienen los recogidos en la prensa (García, Deportes 2011-2015; Moya, Deportes 2015-2019).
+**Nombres y cargos.** Los nombres completos según la prensa que reproduce el informe fiscal (Valencia Plaza, 2018) son Manuel Moya **Ferrández**, María del Carmen Candela **Torregrosa**, Olga Pino **Díez**, Siria Pérez **Ortuño** y Rosa Ana Narejos **Torregrosa**. Las fuentes no concretan siempre los periodos exactos de cada cargo; se mantienen los recogidos en la prensa (García, Deportes 2011-2015; Moya, Deportes 2015-2019). Los cargos de las funcionarias —Olga Pino, secretaria general; Siria Pérez, interventora; Rosa Ana Narejos, secretaria de la mesa de contratación— corresponden al periodo de los hechos y no se presentan como vigentes en 2026.
 
 **Ámbito y solapamiento.** No se ha localizado otra ficha de este repositorio dedicada a Crevillent. La investigación alcanzó también a Divertijove S.L. (empresa del otro hijo del coordinador) y a otras adjudicaciones; esa parte se menciona aquí solo como contexto y no se atribuye a la pieza de los juegos interescolares.
