@@ -40,7 +40,7 @@ implicados:
     rol: "Procesado en 2026; presuntos 300.000 euros en comisiones por no fiscalizar la «operación colegios»"
 
   - nombre: "Jorge Bellver Casaña"
-    cargo: "Exconcejal de Urbanismo, Vivienda y Calidad Urbana del Ayuntamiento de Valencia (1995-2012), exdiputado autonómico y director general de Transparencia del Consell hasta su cese en junio de 2026"
+    cargo: "Exconcejal del Ayuntamiento de Valencia (1995-2012), con responsabilidades en Urbanismo, Vivienda y Calidad Urbana, exdiputado autonómico y director general de Transparencia del Consell hasta su cese en junio de 2026"
     rol: "Investigado desde 2019 y procesado en 2026; imputación confirmada por la Audiencia en junio de 2026 y cese como alto cargo ese mismo mes"
 
   - nombre: "José Luis Vera Llorens"
