@@ -12,15 +12,15 @@ descripcion: |
 
   El juicio oral se celebró en febrero de 2019 ante un tribunal del jurado en la Audiencia Provincial de Madrid (Sección Quinta), sin acusación del Ministerio Fiscal, que pidió la absolución. La acusación popular del PSOE reclamó penas de cuatro, tres y dos años de prisión, y la Comunidad de Madrid, personada como acusación particular, sostuvo en su escrito de acusación la existencia de vigilancia con medios y fondos públicos, sin que esos hechos fueran declarados probados por la sentencia. El 21 de febrero de 2019 el jurado declaró no culpables a los seis acusados —el exdirector general de Seguridad Sergio Gamón, su número dos Miguel Castaño, los guardias civiles José Oreja, José Luis Caro y Antonio Coronado y el técnico de la Administración regional José Manuel Pinto—, por cinco votos contra cuatro en el caso de los dos primeros y por unanimidad en el de los cuatro subordinados. La sentencia recogió, según las crónicas, que los acusados "no organizaron ni realizaron seguimiento alguno" y que la Comunidad de Madrid "no ha sufrido perjuicio económico alguno".
 
-  Durante el juicio, el excomisario Jaime Barrado declaró como testigo que sufrió "cortapisas" para investigar a los responsables políticos y describió una supuesta connivencia entre el exjefe de la UDEF José Luis Olivera y el entonces fiscal jefe Manuel Moix para desviar la acusación hacia los agentes; a esa supuesta trama la llamó 'operación boñiga'. En abril de 2019 el guardia civil absuelto José Luis Caro Vinagre denunció ante el Tribunal Supremo, por el aforamiento de Moix, al exfiscal y a policías de la UDEF por presuntos delitos de organización criminal, prevaricación, tráfico de influencias, cohecho, malversación y falsedad documental.
+  Durante el juicio, el excomisario Jaime Barrado declaró como testigo que sufrió "cortapisas" para investigar a los responsables políticos y describió una supuesta connivencia entre el exjefe de la UDEF José Luis Olivera y el entonces fiscal jefe Manuel Moix para desviar la acusación hacia los agentes; a esa supuesta trama la llamó 'operación boñiga'. En abril de 2019 el guardia civil absuelto José Luis Caro Vinagre denunció ante el Tribunal Supremo, por el aforamiento de Moix, al exfiscal y a policías de la UDEF por presuntos delitos de organización criminal, prevaricación, tráfico de influencias, cohecho, malversación y falsedad documental; no se ha localizado el texto original de esa denuncia, de modo que la condición procesal de los policías mencionados por la prensa no está acreditada.
 
   Límites de la información: no se ha localizado el texto original de la sentencia dictada tras el veredicto ni constancia documental de que fuese recurrida en cuanto al fondo o de que se declarase su firmeza, de modo que el estado del caso se registra como desconocido. Las fechas de los autos de sobreseimiento proceden de fuentes periodísticas, salvo las de las tres reaperturas (22 de marzo de 2011, 16 de mayo de 2012 y 1 de junio de 2015), que recoge el escrito de acusación de la Comunidad de Madrid. La fecha exacta de inicio de los seguimientos no está documentada (las fuentes hablan de marzo-mayo de 2008 y una testigo situó investigaciones sobre Prada ya en 2006), por lo que no se fija fechaInicio. No consta ningún importe de malversación cuantificado. No se ha localizado el resultado de la denuncia de 2019 contra Moix y los policías de la UDEF ni el del recurso sobre las costas.
 resumen: "Supuesta trama de espionaje interno en el PP de Madrid (2008), investigada entre 2009 y 2019 entre archivos y reaperturas; en 2019 el jurado absolvió a los seis acusados"
 coste: 0
 lugar: "Madrid, Comunidad de Madrid"
 tribunal:
-  - "Juzgado de Instrucción nº 5 de Madrid - Diligencias Previas 1891/2009"
-  - "Audiencia Provincial de Madrid - Sección Quinta - Tribunal del Jurado 1/2015-C"
+  - "Juzgado de Instrucción nº 5 de Madrid - Diligencias Previas 1891/2009 - Tribunal del Jurado 1/2015-C"
+  - "Audiencia Provincial de Madrid - Sección Quinta"
 numeroSentencia: ""
 implicados:
   - nombre: "Manuel Sergio Gamón Serrano"
@@ -61,17 +61,17 @@ implicados:
 
   - nombre: "José Luis Olivera"
     cargo: "Jefe de la UDEF (Unidad de Delincuencia Económica y Fiscal) en la etapa de los hechos"
-    rol: "Señalado por el excomisario Barrado por presuntamente desviar la investigación. La crónica de Público sobre la denuncia de 2019 lo menciona nominalmente entre los denunciados, junto a otros policías de la UDEF, aunque la denuncia se refiere genéricamente a 'los policías'; no consta el resultado."
+    rol: "Señalado por el excomisario Barrado por presuntamente desviar la investigación. La crónica de Público sobre la denuncia de 2019 lo menciona nominalmente, pero no se ha localizado el texto original de la denuncia y, por tanto, no se acredita su condición procesal; no consta el resultado."
 
   - nombre: "Jaime Barrado"
     cargo: "Comisario de la Policía Nacional (jubilado), jefe de la investigación en la UDEF en la etapa de los hechos"
-    rol: "Testigo en el juicio; denunció cortapisas para investigar a los responsables políticos y describió una supuesta connivencia Moix-Olivera. No fue acusado."
+    rol: "Testigo en el juicio; denunció cortapisas para investigar a los responsables políticos y describió una supuesta connivencia Moix-Olivera. No fue acusado en la causa por el espionaje. La denuncia posterior de 2019 lo menciona nominalmente según la prensa, pero no se dispone del texto original para determinar su posición."
 
 tags:
   - "corrupción"
   - "espionaje político"
   - "malversación"
-impactoSocial: "El caso puso en primer plano las luchas internas del PP de Madrid en la etapa de Esperanza Aguirre y el uso de estructuras de la Comunidad para supuestas vigilancias entre cargos del propio partido. El proceso se prolongó cerca de diez años, desde la revelación en enero de 2009 hasta el veredicto de febrero de 2019, entre archivos y reaperturas. El veredicto absolutorio de 2019 y las declaraciones del excomisario Barrado sobre una supuesta 'operación boñiga' alimentaron el debate sobre la actuación de los investigadores y de la Fiscalía, acusaciones que no fueron confirmadas judicialmente."
+impactoSocial: "El caso puso en primer plano las luchas internas del PP de Madrid en la etapa de Esperanza Aguirre y el uso de estructuras de la Comunidad para supuestas vigilancias entre cargos del propio partido. El proceso se prolongó cerca de diez años, desde la revelación en enero de 2009 hasta el veredicto de febrero de 2019, entre archivos y reaperturas. El veredicto absolutorio de 2019 y las declaraciones del excomisario Barrado sobre una supuesta 'operación boñiga' fueron recogidos por las crónicas como un cuestionamiento de la actuación de los investigadores y de la Fiscalía; esas acusaciones no fueron confirmadas judicialmente."
 
 documentos:
   - fecha: "2016-06-28"
@@ -139,7 +139,7 @@ cronologia:
 
   - fecha: "2016-06-28"
     titulo: "La Comunidad de Madrid formula su escrito de acusación"
-    descripcion: "El letrado de la Comunidad de Madrid presentó ante el Juzgado de Instrucción nº 5 (Tribunal del Jurado 1/2015-C) el escrito de calificaciones provisionales en el que, como acusación particular, solicitaba la apertura del juicio oral contra Sergio Gamón, Miguel Castaño, José Luis Caro, José Manuel Pinto, José Oreja y Antonio Coronado por un delito de malversación de uso de caudales públicos (art. 433 del Código Penal), pidiendo multas y suspensión de empleo o cargo. El escrito atribuye los hechos a la Comunidad y cita los autos de reapertura; se trata de la tesis de la acusación, no de hechos declarados probados."
+    descripcion: "El letrado de la Comunidad de Madrid presentó ante el Juzgado de Instrucción nº 5 (Tribunal del Jurado 1/2015-C) el escrito de calificaciones provisionales en el que, como acusación particular, solicitaba la apertura del juicio oral contra Sergio Gamón, Miguel Castaño, José Luis Caro, José Manuel Pinto, José Oreja y Antonio Coronado por un delito de malversación de uso de caudales públicos (art. 433 del Código Penal), pidiendo multas y suspensión de empleo o cargo. El escrito, fechado y firmado por el letrado el 28 de junio de 2016, atribuye los hechos a los acusados y cita los autos de reapertura; se trata de la tesis de la acusación, no de hechos declarados probados."
     type: "acusación"
     urls:
       - "https://www.elindependiente.com/wp-content/uploads/2016/11/espias.pdf"
@@ -192,7 +192,7 @@ cronologia:
 
   - fecha: "2019-04-03"
     titulo: "Se conoce la denuncia de Caro Vinagre contra Moix y policías de la UDEF"
-    descripcion: "Se difundió que el guardia civil absuelto José Luis Caro Vinagre había presentado ante el Tribunal Supremo, por el aforamiento de Moix, una denuncia contra el exfiscal Manuel Moix y varios policías de la UDEF por presuntos delitos de organización criminal, prevaricación, tráfico de influencias, cohecho, malversación y falsedad documental. La crónica de Público menciona además al excomisario Jaime Barrado y a José Luis Olivera entre los señalados, mientras otras versiones se refieren genéricamente a 'los policías'. La fecha corresponde a la difusión de la noticia; no consta el resultado y esta denuncia es un acto posterior y distinto del proceso por el espionaje."
+    descripcion: "Se difundió que el guardia civil absuelto José Luis Caro Vinagre había presentado ante el Tribunal Supremo, por el aforamiento de Moix, una denuncia contra el exfiscal Manuel Moix y varios policías de la UDEF por presuntos delitos de organización criminal, prevaricación, tráfico de influencias, cohecho, malversación y falsedad documental. La crónica de Público menciona nominalmente al excomisario Jaime Barrado y al exjefe de la UDEF José Luis Olivera, mientras otras versiones se refieren genéricamente a 'los policías'; el mismo artículo indica que Caro Vinagre reclama que Moix, Olivera y Barrado testifiquen ante el Supremo. Al no haberse localizado el texto original de la denuncia, no se acredita la condición procesal de los policías mencionados. La fecha corresponde a la difusión de la noticia; no consta el resultado y esta denuncia es un acto posterior y distinto del proceso por el espionaje."
     type: "denuncia"
     urls:
       - "https://www.infolibre.es/noticias/politica/2019/04/03/manuel_moix_denunciado_por_organizacion_criminal_cuando_era_fiscal_jefe_anticorrupcion_caso_los_espias_del_madrid_93589_1012.html"
@@ -206,7 +206,7 @@ cronologia:
 - **Fechas de la instrucción**: la fecha del primer auto de sobreseimiento (15 de julio de 2010) figura en la información de Noticias Jurídicas; el segundo se conoce por su publicación del 15 de febrero de 2012, sin que conste la fecha exacta del auto. Las tres reaperturas (22 de marzo de 2011, 16 de mayo de 2012 y 1 de junio de 2015) las cita el escrito de acusación de la Comunidad de Madrid, no los autos originales.
 - **Escrito de acusación**: los hechos que describe son la tesis de la acusación particular de la Comunidad de Madrid (fechada el 28 de junio de 2016), no hechos declarados probados; la sentencia posterior fue absolutoria.
 - **Inicio de los hechos**: no está documentada la fecha exacta en que comenzaron los seguimientos. Las fuentes sitúan la actividad entre marzo y mayo de 2008, y una testigo (Yolanda Laviana) situó investigaciones sobre Alfredo Prada desde 2006. La revelación periodística se produjo en enero de 2009, pero solo se ha documentado a nivel de mes (la fecha del 19 de enero de 2009 procede de fuentes secundarias no confirmadas). Por eso no se fija `fechaInicio` ni un día exacto para 2009.
-- **Denuncia de 2019 y costas**: no se ha localizado el resultado de la denuncia de José Luis Caro Vinagre ante el Tribunal Supremo contra Manuel Moix y policías de la UDEF, ni el del recurso sobre las costas.
-- **Nombres**: los segundos apellidos de Manuel Moix y de José Luis Olivera no se han podido confirmar con fuente primaria, por lo que no se consignan. La prensa citó en algún momento a José Manuel Pinto como «José Miguel Pinto»; el escrito de acusación original confirma «José Manuel Pinto Serrano».
+- **Denuncia de 2019 y costas**: no se ha localizado el texto original de la denuncia de José Luis Caro Vinagre ante el Tribunal Supremo contra Manuel Moix y policías de la UDEF, por lo que la condición procesal de los policías mencionados por la prensa (entre ellos Barrado y Olivera) no está acreditada; tampoco consta el resultado de esa denuncia ni el del recurso sobre las costas.
+- **Nombres**: los segundos apellidos de Manuel Moix, de José Luis Olivera y de Jaime Barrado no se han podido confirmar con fuente primaria, por lo que no se consignan. La prensa citó en algún momento a José Manuel Pinto como «José Miguel Pinto»; el escrito de acusación original confirma «José Manuel Pinto Serrano».
 - **Denominaciones**: «Gestapillo» es un término empleado por la prensa, no una denominación judicial.
 - **Solapamiento**: no se ha identificado otra ficha del repositorio que cubra los mismos hechos.
