@@ -110,6 +110,11 @@ tags:
   - "contratación pública"
 impactoSocial: "El caso provocó una fuerte crisis política y mediática. Santos Cerdán dimitió como secretario de Organización del PSOE en junio de 2025 y estuvo casi cinco meses en prisión provisional. La sentencia de junio de 2026, primera condena firme de un gran caso de corrupción vinculado al Gobierno de Pedro Sánchez según la prensa, reabrió el debate sobre la contratación pública de emergencia."
 documentos:
+  - fecha: "2026-06-22"
+    titulo: "STS 418/2026: sentencia de la pieza de mascarillas (copia publicada por El País)"
+    filetype: "pdf"
+    paginas: 224
+    nombre_fichero: "https://descargables.elpais.com/sentencia-abalos-caso-mascarillas.pdf"
   - fecha: "2025-06-05"
     titulo: "Informe de la UCO 96/2025 sobre presuntas irregularidades en contratación pública (obra pública)"
     filetype: "pdf"
