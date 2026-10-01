@@ -13,7 +13,7 @@ descripcion: |
 
   Situación procesal y límites: el juicio de la pieza principal se celebró en junio de 2024, con cinco acusados. La Sección 2ª de la Audiencia Provincial de Lugo dictó la sentencia nº 139/2024, de 10 de julio de 2024 (ROJ SAP LU 322/2024; ECLI:ES:APLU:2024:322), según la cabecera del texto publicado por el CENDOJ; el TSXG la dio a conocer el 17 de julio de 2024. La Audiencia condenó al cabo Armando Lorenzo a cinco años y nueve meses de prisión, inhabilitación para empleo o cargo público durante cinco años y once meses y multa de 7.408 euros; condenó por cohecho pasivo, con penas de multa, a los proxenetas José Manuel García Adán, José Marcos Grandío Ascariz y Jesús González Varela, por conformidad; y absolvió al brigada Julio Baquero. La firmeza actual de esta sentencia es desconocida: no se ha localizado declaración de firmeza ni resolución de recursos posteriores, y la conformidad de los condenados no implica por sí sola que la sentencia sea firme. Esta pieza principal no equivale al conjunto de la macrocausa, que se fragmentó en numerosas piezas.
 
-  Nota de clasificación: la ficha se encuadra en el esquema del PP, pero entre los implicados documentados no hay ningún cargo político del PP, y las fuentes consultadas no acreditan una conexión de la trama con ese partido. La etiqueta responde a la clasificación estructural del archivo y no debe interpretarse como una atribución de la trama al PP sin evidencia.
+  Las fuentes consultadas no acreditan una conexión de la trama con el PP y entre los implicados documentados no hay ningún cargo político de ese partido.
 
   Otras piezas de la macrocausa: en 2020 se condenó por conformidad al dueño del club Eros, José Marcos Grandío; en 2021 se alcanzó un acuerdo en la pieza de los clubes Queens y La Colina; y en 2022 José Manuel García Adán y su encargado José Manuel Pulleiro fueron condenados por blanqueo de capitales y contra la Hacienda Pública. Son resoluciones de piezas distintas, no acumulables entre sí. La Operación Carioca es una macrocausa distinta de otras instruidas por la misma jueza en Lugo (por ejemplo, las operaciones Pokémon o Pulpo), que cuentan con fichas propias.
 
@@ -65,7 +65,7 @@ documentos:
     titulo: "Sentencia nº 139/2024, Sección 2ª de la Audiencia Provincial de Lugo (pieza principal de la Operación Carioca)"
     filetype: "pdf"
     paginas: 29
-    nombre_fichero: "SAP_LU_322_2024.pdf"
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=2c4e9f0984313fe4a0a8778d75e36f0d&encode=true&databasematch=AN"
 
 cronologia:
   - fecha: "2008-12-24"
@@ -140,3 +140,5 @@ cronologia:
       - "https://www.eldiario.es/galicia/condena-cinco-anos-principal-encausado-carioca-investigo-trama-prostitucion-lugo_1_11531036.html"
 
 ---
+
+El fallo fija nueve meses de prisión por cada uno de los tres delitos de favorecimiento de la prostitución en concurso con omisión: 27 meses en conjunto. Sumados a tres años, cuatro meses y quince días por agresión sexual y un mes y quince días por extorsión (que debe sustituirse conforme al artículo 71.2 CP), coinciden con los cinco años y nueve meses comunicados por el CGPJ; este total no afirma tiempo efectivo de cumplimiento. La multa también coincide: 272 + 3.000 + 896 + (1.080 × 3) = 7.408 euros.
