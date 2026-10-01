@@ -16,7 +16,7 @@ descripcion: |
   Este litigio del alumbrado de 2012 es el mismo que recoge la ficha Caso Aceinsa (casos/pp/aceinsa.md), que también describe la anulación y la indemnización a Etralux; los importes de ese contrato no deben sumarse entre ambas fichas como si fueran causas independientes.
 
 resumen: "Anulación firme de la adjudicación del contrato de alumbrado público de Salamanca a Aceinsa (2012) e indemnización a Etralux; causa penal archivada sin condenas"
-coste: 327192
+coste: 327192.96
 lugar: "Salamanca, Castilla y León"
 tribunal:
   - "Tribunal Superior de Justicia de Castilla y León - Sala de lo Contencioso-Administrativo (sentencia nº 1321/2017, de 27 de noviembre de 2017)"
