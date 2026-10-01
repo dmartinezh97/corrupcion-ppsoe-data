@@ -198,4 +198,12 @@ cronologia:
     urls:
       - "https://www.infobae.com/espana/agencias/2026/03/10/la-audiencia-de-granada-deja-a-las-puertas-del-juicio-a-la-excupula-de-urbanismo-de-la-capital-por-la-pieza-mulhacen/"
       - "https://www.andaluciainformacion.es/articulo/granada/audiencia-coloca-excupula-urbanismo-borde-juicio-conocida-pieza-mulhacen/202603101219413225798.html"
+
+  - fecha: "2026-04-28"
+    titulo: "Fiscalía y acusaciones piden anular las licencias del Pabellón Mulhacén"
+    descripcion: "En la recta final de la instrucción de la pieza Mulhacén del caso Nazarí, la Fiscalía de Granada y las acusaciones solicitan la nulidad de las licencias de obra, construcción y utilización del Pabellón Mulhacén y de los locales de la manzana. La licencia de obras se concedió en abril de 2009 por la Gerencia de Urbanismo y, según el empresario Ramón Arenas, invadió parcialmente su parcela. La petición se apoya en una sentencia firme del TSJA que ya declaró nulos los estudios de detalle, lo que abre la puerta al derribo de lo construido ilegalmente."
+    type: "investigación"
+    relevancia: "media"
+    urls:
+      - "https://www.elindependientedegranada.es/politica/fiscalia-acusaciones-solicitan-nulidad-licencias-obra-utilizacion-pabellon-mulhacen"
 ---
