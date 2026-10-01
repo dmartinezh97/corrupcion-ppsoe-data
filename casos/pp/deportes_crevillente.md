@@ -7,7 +7,7 @@ fechaInicio: "2004-12-30"
 fechaFin: ""
 estado: "desconocido"
 descripcion: |
-  El "caso Deportes" de Crevillent (Alicante) agrupa varias piezas separadas abiertas a raíz de la investigación de la Fiscalía Anticorrupción sobre la contratación del área de Deportes del Ayuntamiento entre 2004 y 2018, en particular con la mercantil Tot Sport Crevi S.L., administrada por Cayetano Ramón Serna Villaescusa, hijo del coordinador municipal de Deportes Francisco Manuel Serna González (jubilado en agosto de 2016).
+  El "caso Deportes" de Crevillent (Alicante) agrupa varias piezas separadas abiertas a raíz de la investigación de la Fiscalía Anticorrupción sobre la contratación del área de Deportes del Ayuntamiento entre 2004 y 2018, en particular con la mercantil Tot Sport Crevi S.L., administrada por Cayetano Ramón Serna Villaescusa, hijo del coordinador municipal del área de Deportes Francisco Manuel Serna González (jubilado en agosto de 2016). El Patronato Municipal de Deportes, al que la prensa asocia ese cargo, había sido disuelto con efecto de 31 de diciembre de 2011 y transformado en un Consejo Sectorial (Consejo Municipal de Deportes).
 
   La Fiscalía sostuvo que se adjudicaron contratos de conserjería, mantenimiento, monitores y juegos deportivos interescolares mediante procedimientos negociados sin publicidad y, en algunos casos, por servicios que no se prestaban, con un perjuicio que cifró en 53.365,46 euros. Esa cifra es la reclamada por la acusación pública y no un daño declarado judicialmente; la fianza de 90.000 euros fijada en 2022 es una medida cautelar, no un coste; y los 25.308,36 euros anuales del contrato de los juegos interescolares son el valor del contrato, no el perjuicio.
 
@@ -27,24 +27,24 @@ tribunal:
 numeroSentencia: "STSJCV 159/2025 (ROJ STSJ CV 57/2025), que anula la SAP 44/2025"
 implicados:
   - nombre: "César Augusto Asencio Adsuar"
-    cargo: "Alcalde de Crevillent (1995-2019) y presidente del Patronato Municipal de Deportes"
+    cargo: "Alcalde de Crevillent (1995-2019); presidió históricamente el Patronato Municipal de Deportes, disuelto con efecto de 31 de diciembre de 2011 y transformado en Consejo Sectorial (Consejo Municipal de Deportes)"
     rol: "El auto de 19 de enero de 2022 (atribuido por la prensa al Juzgado de Instrucción nº 4 de Elche) acordó la apertura de juicio oral contra él y otras ocho personas por la contratación del servicio de conserjería y mantenimiento (2004-2018) y fijó una fianza solidaria de 90.000 euros. La Fiscalía Anticorrupción pidió 5 años y 10 meses de prisión en su escrito de acusación; la fianza es una medida cautelar acordada por el auto, no una petición de la Fiscalía. La prensa de 2025 indica que no estaba acusado en las piezas enjuiciadas ese año; el estado actual de la causa en la que fue encausado no está confirmado."
 
   - nombre: "Francisco Manuel Serna González"
-    cargo: "Coordinador municipal de Deportes del Patronato (jubilado en agosto de 2016)"
-    rol: "Acusado en la pieza de los juegos interescolares por prevaricación administrativa y negociación prohibida; fue absuelto por la SAP 44/2025 y afectado por la anulación de esa sentencia acordada por el TSJCV, que ordenó repetir el juicio. La Fiscalía le atribuye la redacción de los pliegos y los informes favorables a la empresa de su hijo. El TSJCV reprochó a la Audiencia no haber valorado su intervención."
+    cargo: "Coordinador municipal del área de Deportes (jubilado en agosto de 2016; el Patronato Municipal de Deportes fue disuelto con efecto de 31 de diciembre de 2011)"
+    rol: "Acusado en la pieza de los juegos interescolares por prevaricación administrativa y negociación prohibida; fue absuelto por la SAP 44/2025, que el TSJCV anuló ordenando repetir el juicio con magistrados distintos, sin que conste el resultado posterior. La Fiscalía le atribuye la redacción de los pliegos y los informes favorables a la empresa de su hijo. El TSJCV reprochó a la Audiencia no haber valorado su intervención."
 
   - nombre: "Cayetano Ramón Serna Villaescusa"
     cargo: "Administrador de Tot Sport Crevi S.L."
-    rol: "Hijo del coordinador de Deportes y administrador de la empresa adjudicataria. Acusado en la pieza de los juegos interescolares (absuelto por la SAP 44/2025, anulada, pendiente de nuevo juicio) y en la de monitores. Tot Sport Crevi fue absuelta como responsable civil subsidiaria en la SAP 44/2025."
+    rol: "Hijo del coordinador de Deportes y administrador de la empresa adjudicataria. Acusado en la pieza de los juegos interescolares (absuelto por la SAP 44/2025; el TSJCV la anuló y ordenó repetir el juicio, sin que conste el resultado posterior) y en la de monitores. Tot Sport Crevi fue absuelta como responsable civil subsidiaria en la SAP 44/2025."
 
   - nombre: "Pedro García Navarro"
     cargo: "Concejal de Deportes (2011-2015)"
-    rol: "Concejal que propuso en 2014 la contratación de los juegos interescolares por procedimiento negociado sin publicidad. Acusado en esa pieza (absuelto por la SAP 44/2025, anulada y pendiente de nuevo juicio) y en la pieza de monitores (juicio iniciado el 5 de febrero de 2025 y devuelto a instrucción en marzo de 2025)."
+    rol: "Concejal que propuso en 2014 la contratación de los juegos interescolares por procedimiento negociado sin publicidad. Acusado en esa pieza (absuelto por la SAP 44/2025; el TSJCV la anuló y ordenó repetir el juicio, sin que conste el resultado posterior) y en la pieza de monitores (juicio anunciado para el 5 de febrero de 2025, sin constancia de su celebración en esa fecha, y causa devuelta a instrucción en marzo de 2025)."
 
   - nombre: "Manuel Moya Ferrández"
     cargo: "Concejal de Deportes (2015-2019)"
-    rol: "Acusado en la pieza de los juegos interescolares; refrendó la prórroga del contrato de 2016. Fue absuelto por la SAP 44/2025, anulada y pendiente de nuevo juicio."
+    rol: "Acusado en la pieza de los juegos interescolares; refrendó la prórroga del contrato de 2016. Fue absuelto por la SAP 44/2025; el TSJCV la anuló y ordenó repetir el juicio, sin que conste el resultado posterior."
 
   - nombre: "María del Carmen Candela Torregrosa"
     cargo: "Concejala de Contratación (2011-2015)"
@@ -58,7 +58,7 @@ implicados:
     cargo: "Interventora municipal (en el periodo de los hechos)"
     rol: "Imputada en la causa matriz; enviada a juicio oral en el auto de 19 de enero de 2022. No consta resolución sobre el fondo."
 
-  - nombre: "Rosa Ana Narejos Torregrosa"
+  - nombre: "Rosa Ana Narejos"
     cargo: "Secretaria de la mesa de contratación (en el periodo de los hechos)"
     rol: "Imputada en la causa matriz; enviada a juicio oral en el auto de 19 de enero de 2022. No consta resolución sobre el fondo."
 
@@ -79,12 +79,6 @@ documentos:
     filetype: "pdf"
     paginas: 30
     nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=getdocumentpdf&databasematch=*&idcendoj=46250312012025100028"
-
-  - fecha: "2019-06"
-    titulo: "Informe de Control Posterior y Control Financiero 2017 del Ayuntamiento de Crevillent (recoge el contrato de conserjería y mantenimiento con Tot-Sport Crevi S.L. de 2013)"
-    filetype: "pdf"
-    paginas: 72
-    nombre_fichero: "https://www.crevillent.es/uploads/ficheros/paginas/descargas/201906/descargas-informe-control-posterior-y-financiero-2017-es.pdf"
 
 cronologia:
   - fecha: "2004-12-30"
@@ -280,11 +274,13 @@ cronologia:
 
 ## Límites de la revisión (1 de octubre de 2026)
 
-Esta ficha describe un conjunto de piezas judiciales separadas, no una única causa, y su estado actual no consta acreditado en su totalidad. Por ello el campo `estado` se registra como «desconocido». La última resolución verificada es la sentencia del TSJCV de 6 de mayo de 2025. No se han localizado resoluciones posteriores a esa fecha ni noticias de 2026 sobre el nuevo juicio ordenado ni sobre las restantes piezas; por tanto, no puede afirmarse que la causa siga pendiente ni que se encuentre en ningún otro estado concreto, ni que haya concluido.
+Esta ficha describe un conjunto de piezas judiciales separadas, no una única causa, y su estado actual no consta acreditado en su totalidad. La última resolución verificada es la sentencia del TSJCV de 6 de mayo de 2025. No se han localizado resoluciones posteriores a esa fecha ni noticias de 2026 sobre el nuevo juicio ordenado ni sobre las restantes piezas; por tanto, no puede afirmarse que la causa siga pendiente ni que se encuentre en ningún otro estado concreto, ni que haya concluido.
 
 **Denominación de las piezas.** La prensa usa de forma intercambiable «juegos deportivos interescolares» y «monitores» para referirse a la segunda pieza. La sentencia del TSJCV, fuente primaria, identifica el contrato enjuiciado como «Servicio de Organización, Coordinación y Ejecución de los Juegos Deportivos Interescolares Municipales de Crevillent» (adjudicado en 2014). La tercera pieza, cuyo juicio se anunció para el 5 de febrero de 2025, se refiere a otros contratos del área de Deportes. La numeración exacta de las piezas, su correspondencia con cada contrato y la atribución de cada persona a una u otra pieza no están cerradas por las fuentes consultadas y siguen aquí lo que asigna la prensa, sin categorización definitiva.
 
 **Absolución, anulación y firmeza.** La SAP 44/2025 (31 de enero de 2025) absolvió a los cuatro acusados y a Tot Sport Crevi. Fue anulada por la STSJCV 159/2025 (6 de mayo de 2025), que ordenó repetir el juicio con otros magistrados. La anulación no convierte la absolución en condena ni permite hablar de persona condenada. No consta sentencia firme sobre el fondo en ninguna de las piezas.
+
+**Entidad y cargos.** El Patronato Municipal de Deportes, organismo autónomo local constituido en 1986, fue disuelto por el Pleno del Ayuntamiento de 25 de octubre de 2011 con efecto de 31 de diciembre de 2011 y transformado en un Consejo Sectorial con naturaleza asesora y consultiva (Consejo Municipal de Deportes), según el informe municipal de control posterior y financiero de 2017. Por ello no se presenta a Asencio como presidente del Patronato en 2018 —lo presidió históricamente mientras estuvo vigente— ni el cargo del coordinador se adscribe al Patronato durante todo el periodo investigado, sino al área o servicio municipal de Deportes.
 
 **Situación de César Augusto Asencio.** El auto de 19 de enero de 2022 le abrió juicio oral junto a otras ocho personas por la contratación del servicio de conserjería y mantenimiento (2004-2018). La prensa atribuye ese auto al Juzgado de Instrucción nº 4 de Elche, mientras que la STSJCV sitúa las diligencias previas 425/2018 en el Juzgado nº 2; ambas identificaciones no se dan por equivalentes. El auto fijó una fianza solidaria de 90.000 euros; la petición de 5 años y 10 meses de prisión es de la Fiscalía. Sin embargo, la prensa de 2025 indica que no estaba acusado en las piezas enjuiciadas ese año, donde compareció como testigo. No se ha localizado la resolución de apertura de juicio oral ni ninguna resolución posterior sobre el fondo de la causa en la que fue encausado; su estado procesal actual se registra como no confirmado.
 
@@ -294,6 +290,6 @@ Esta ficha describe un conjunto de piezas judiciales separadas, no una única ca
 
 **Fechas.** Solo se recogen las fechas respaldadas por resoluciones o documentos. La denuncia de la Fiscalía se acordó el 8 de febrero de 2018 y las diligencias previas 425/2018 se iniciaron por auto de 7 de marzo de 2018, según la sentencia del TSJCV; cuando la fuente es una noticia y no un acto, se indica en la descripción del hito. No se acredita que el caso fuera causa determinante de la pérdida de la alcaldía del PP en 2019.
 
-**Nombres y cargos.** Los nombres completos según la prensa que reproduce el informe fiscal (Valencia Plaza, 2018) son Manuel Moya **Ferrández**, María del Carmen Candela **Torregrosa**, Olga Pino **Díez**, Siria Pérez **Ortuño** y Rosa Ana Narejos **Torregrosa**. Las fuentes no concretan siempre los periodos exactos de cada cargo; se mantienen los recogidos en la prensa (García, Deportes 2011-2015; Moya, Deportes 2015-2019). Los cargos de las funcionarias —Olga Pino, secretaria general; Siria Pérez, interventora; Rosa Ana Narejos, secretaria de la mesa de contratación— corresponden al periodo de los hechos y no se presentan como vigentes en 2026.
+**Nombres y cargos.** Los segundos apellidos que constan en la ficha para los cargos electos proceden de fuentes distintas de la crónica que reproduce el informe fiscal: César Augusto Asencio **Adsuar**, Manuel Moya **Ferrández** y María del Carmen Candela **Torregrosa** figuran en la composición municipal publicada por el Ayuntamiento de Crevillent, que también recoge a Pedro García **Navarro**. La crónica de la prensa que reproduce el informe fiscal (Valencia Plaza, 2018) identifica a Olga Pino **Díez** y Siria Pérez **Ortuño** y a Pedro García **Navarro**, pero no aporta el segundo apellido de Moya, Candela ni Narejos; el segundo apellido de Rosa Ana Narejos no se ha localizado en las fuentes consultadas y no se usa. Las fuentes no concretan siempre los periodos exactos de cada cargo; se mantienen los recogidos en la prensa (García, Deportes 2011-2015; Moya, Deportes 2015-2019). Los cargos de las funcionarias —Olga Pino, secretaria general; Siria Pérez, interventora; Rosa Ana Narejos, secretaria de la mesa de contratación— corresponden al periodo de los hechos y no se presentan como vigentes en 2026.
 
 **Ámbito y solapamiento.** No se ha localizado otra ficha de este repositorio dedicada a Crevillent. La investigación alcanzó también a Divertijove S.L. (empresa del otro hijo del coordinador) y a otras adjudicaciones; esa parte se menciona aquí solo como contexto y no se atribuye a la pieza de los juegos interescolares.
