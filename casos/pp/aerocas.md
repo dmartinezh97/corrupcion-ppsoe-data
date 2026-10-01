@@ -4,15 +4,15 @@ partido: PP
 completado: false
 año: 2009
 fechaFin: ""
-estado: "archivado"
+estado: "sentencia firme"
 descripcion: |
-  El caso Aerocas tiene su origen en los contratos de patrocinio deportivo suscritos entre 2009 y 2014 por Aerocas —la empresa pública creada en 2003 por la Diputación de Castellón y la Generalitat Valenciana para construir y gestionar el aeropuerto de Castellón— y el expiloto de motociclismo Álex Debón. El primer contrato de patrocinio se aprobó en 2009, sin que haya podido confirmarse el día concreto, y el último data de 2014. La sociedad pagó a Debón y a su empresa 3.653.000 euros en concepto de patrocinio entre esos años. La Fiscalía consideró que esos contratos eran una simulación para encubrir el cobro de comisiones ilegales: Debón habría revertido 360.000 euros a Fabra a cambio de que éste facilitara la adjudicación de los contratos de patrocinio.
+  El caso Aerocas tiene su origen en los contratos de patrocinio deportivo suscritos entre 2009 y 2014 por Aerocas —la empresa pública creada en 2003 por la Diputación de Castellón y la Generalitat Valenciana para construir y gestionar el aeropuerto de Castellón— y el expiloto de motociclismo Álex Debón. El primer contrato de patrocinio se aprobó en 2009, sin que haya podido confirmarse el día concreto, y el último data de 2014. La sociedad pagó a Debón y a su empresa 3.653.000 euros en concepto de patrocinio entre esos años. El importe corresponde al volumen de los patrocinios investigados, no a un daño económico declarado probado. La Fiscalía consideró que esos contratos eran una simulación para encubrir el cobro de comisiones ilegales: Debón habría revertido 360.000 euros a Fabra a cambio de que éste facilitara la adjudicación de los contratos de patrocinio.
 
   El aeropuerto de Castellón fue inaugurado por Carlos Fabra el 25 de marzo de 2011 sin aviones, sin licencia operativa y sin ninguna aerolínea que lo utilizara. La auditoría de la Intervención General de 2012 cifró la construcción en 158 millones de euros, en torno al doble de lo inicialmente presupuestado, mientras otras fuentes manejan 136,8 millones de coste oficial y 150 millones de inversión global. La instalación abrió al tráfico el 11 de diciembre de 2014, según la cronología oficial de Aerocas, y no contó con vuelos regulares hasta septiembre de 2015; las pérdidas acumuladas y el coste total para las arcas públicas varían según la fuente y no se han conciliado. En paralelo al caso de los patrocinios, Carlos Fabra fue condenado en noviembre de 2013 —en el llamado caso Naranjax— a cuatro años de prisión por cuatro delitos contra la Hacienda Pública por no declarar ingresos de aproximadamente dos millones de euros entre 1999 y 2004. El Tribunal Supremo confirmó esa condena en julio de 2014 y Fabra ingresó en la cárcel de Aranjuez el 1 de diciembre de 2014, obteniendo la libertad condicional en abril de 2017.
 
   La investigación por los patrocinios de Aerocas fue abierta por la Fiscalía de Castellón en abril de 2016, sin que haya podido confirmarse el día exacto, y remitida al Juzgado de Instrucción número 3 de Castellón. En enero de 2019, el juzgado amplió la investigación a once exmiembros del consejo de administración de Aerocas, entre ellos los exconsellers Gerardo Camps y Vicente Rambla. Sin embargo, tras años de instrucción, la causa se centró únicamente en Carlos Fabra y Álex Debón por un presunto delito de cohecho, y los cargos contra los exconsejeros fueron sobreseídos provisionalmente en septiembre de 2022. El auto que acordó ese sobreseimiento fue notificado a las partes el 1 de septiembre de 2022 y hecho público al día siguiente por el CGPJ y la prensa; la fecha exacta del auto no consta. El juicio oral se celebró en mayo de 2025 ante un jurado popular en la Audiencia Provincial de Castellón. El jurado declaró no culpables a ambos acusados por siete votos a dos, y el magistrado dictó la sentencia absolutoria inmediatamente en voce. La Fiscalía y la Abogacía de la Generalitat habían solicitado tres años y tres meses de prisión para cada uno. El 2 de julio de 2025 la prensa informó de que el magistrado había declarado firme la sentencia absolutoria y acordado el archivo de las actuaciones, dejando sin efecto los posibles embargos adoptados para cubrir responsabilidades civiles; no se ha localizado la fecha exacta del auto de firmeza.
 
-resumen: "Patrocinios irregulares de la empresa pública del aeropuerto de Castellón al piloto Álex Debón a cambio de supuestas comisiones para Carlos Fabra"
+resumen: "Investigación de los patrocinios de Aerocas a Álex Debón; Fabra y Debón resultaron absueltos y la prensa informó de la firmeza en 2025"
 coste: 3653000
 lugar: "Castellón, Comunitat Valenciana"
 tribunal:
@@ -21,7 +21,7 @@ tribunal:
 numeroSentencia: ""
 implicados:
   - nombre: "Carlos Fabra Carreras"
-    cargo: "Presidente de la Diputación de Castellón (1995-2011) y Presidente de Aerocas"
+    cargo: "Presidente de la Diputación de Castellón (1995-2011) y presidente de Aerocas en el periodo investigado"
     rol: "Absuelto de cohecho en sentencia firme (2025); previamente condenado a 4 años por fraude fiscal (caso Naranjax)"
 
   - nombre: "Álex Debón Lledó"
@@ -37,7 +37,7 @@ implicados:
     rol: "Investigado por prevaricación y malversación; causa sobreseída provisionalmente (2022)"
 
   - nombre: "Eusebio Monzó Martínez"
-    cargo: "Concejal del PP en el Ayuntamiento de Valencia e investigado como exconsejero de Aerocas"
+    cargo: "Concejal del PP en Valencia en la época de la investigación y exconsejero de Aerocas"
     rol: "Investigado por prevaricación y malversación; causa sobreseída provisionalmente (2022)"
 
   - nombre: "Francisco Martínez Agut"
