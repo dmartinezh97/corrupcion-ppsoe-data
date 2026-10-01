@@ -7,14 +7,14 @@ fechaInicio: "2003-01-01"
 fechaFin: "2019-01-11"
 estado: "cerrado con condenas"
 descripcion: |
-  El Caso Abogados Melilla se refiere al sistema de contratación de letrados externos por parte de la Consejería de Bienestar Social y Sanidad de la Ciudad Autónoma de Melilla. Según la sentencia, entre 2003 y 2013 la consejera María Antonia Garbín (PP) suscribió 91 contratos menores de consultoría y asesoramiento jurídico con cuatro letrados, encadenando periodos de entre cuatro y seis meses para eludir los procedimientos ordinarios de licitación, sin la publicidad ni la concurrencia exigidas por la normativa de contratación administrativa. El gasto público derivado de esos contratos se fijó en 1.114.510,91 euros. El procedimiento se originó por una querella de la Asociación Libre de Abogados (ALA) de Melilla.
+  El Caso Abogados Melilla se refiere al sistema de contratación de letrados externos por parte de la Consejería de Bienestar Social y Sanidad de la Ciudad Autónoma de Melilla. Según la sentencia, la consejera María Antonia Garbín (PP) suscribió entre 2003 y 2013 un total de 91 contratos menores de consultoría y asesoramiento jurídico con cuatro letrados, encadenando periodos de entre cuatro y seis meses para eludir los procedimientos ordinarios de licitación, sin la publicidad ni la concurrencia exigidas por la normativa de contratación administrativa. El volumen económico de esos 91 contratos ascendió a 1.114.510,91 euros, importe que refleja el gasto público comprometido en la contratación y no un daño o perjuicio económico acreditado de forma autónoma: la condena lo fue por prevaricación administrativa, no por malversación. El procedimiento se originó en 2011 a raíz de una querella de la Asociación Libre de Abogados (ALA) de Melilla.
 
-  El Juzgado de lo Penal número 1 de Melilla condenó en octubre de 2017 a 14 personas: a Garbín, como autora de un delito continuado de prevaricación administrativa, a 10 años de inhabilitación especial para cargo público, y a otras trece (entre funcionarios y letrados) a penas de entre cuatro y nueve años de inhabilitación. La Sección Séptima de la Audiencia Provincial de Málaga, con sede en Melilla, estimó en enero de 2019 los recursos del resto de condenados y los absolvió, de modo que únicamente confirmó la condena de Garbín. Esa resolución quedó firme en enero de 2019.
+  El Juzgado de lo Penal número 1 de Melilla condenó en 2017 a 14 personas: a Garbín, como autora de un delito continuado de prevaricación administrativa, a 10 años de inhabilitación especial para cargo público, y a otras trece (entre funcionarios y letrados) a penas de entre cuatro y nueve años de inhabilitación. El fallo se conoció a través de la prensa el 6 de octubre de 2017; no consta acreditado el día exacto de la resolución. La Sección Séptima de la Audiencia Provincial de Málaga, con sede en Melilla, emitió el 11 de enero de 2019 una sentencia que estimó los recursos del resto de condenados y los absolvió, de modo que únicamente confirmó la condena de Garbín.
 
   En paralelo, el Tribunal Supremo se declaró competente en febrero de 2015 para investigar al presidente de Melilla y senador Juan José Imbroda (PP) por la contratación directa del letrado Juan Jesús Olivares en 2001, a quien se atribuye el pago de 357.000 euros según la mayoría de las fuentes (395.000 euros hasta 2010 según El País). El Supremo archivó la causa en abril de 2015 y rechazó en julio de ese año el recurso de la Fiscalía al considerar prescrito el delito. El Juzgado de Instrucción número 2 de Melilla mantuvo una pieza separada del caso en la que fueron citados como imputados dos exvicepresidentes y una exdiputada, entre otros.
 
 resumen: "Contratación irregular de letrados externos en Melilla por más de 1,1 millones de euros; solo Garbín mantiene condena firme tras absolver la Audiencia al resto"
-coste: 1114511
+coste: 1114510.91
 lugar: "Melilla, España"
 tribunal:
   - "Juzgado de Instrucción nº 2 de Melilla (instrucción)"
@@ -58,29 +58,6 @@ impactoSocial: "El caso se enmarcó en una etapa con varios procedimientos judic
 documentos: []
 
 cronologia:
-  - fecha: "2003-01-01"
-    titulo: "Inicio del sistema de contratación de letrados"
-    descripcion: "La Consejería de Bienestar Social y Sanidad de Melilla, dirigida por María Antonia Garbín, comienza a contratar a letrados externos mediante contratos menores encadenados de entre cuatro y seis meses. La fecha exacta de inicio no consta; la sentencia sitúa el periodo entre 2003 y 2013."
-    type: "investigación"
-    urls:
-      - "https://www.europapress.es/ceuta-y-melilla/noticia-condenan-10-anos-inhabilitacion-exconsejera-bienestar-social-melilla-maria-antonia-garbin-20171007185744.html"
-      - "https://elfarodemelilla.es/condenan-garbin-10-anos-inhabilitacion-prevaricacion-administrativa-continuada/"
-
-  - fecha: "2011-01-01"
-    titulo: "Querella de la Asociación Libre de Abogados (ALA)"
-    descripcion: "La Asociación Libre de Abogados (ALA) de Melilla se querella contra la Ciudad Autónoma por la contratación irregular de letrados externos. La investigación judicial parte de esta iniciativa. El año consta en las fuentes, pero no el día exacto, por lo que se usa el 1 de enero como marcador."
-    type: "denuncia"
-    urls:
-      - "https://www.infolibre.es/politica/juez-pide-supremo-suplicatorio-presidente-melilla-fraude_1_1104262.html"
-      - "https://melillahoy.es/trasmiten-oralmente-a-los-encausados-del-caso-abogados-que-sern-condenados/"
-
-  - fecha: "2013-12-31"
-    titulo: "Fin del periodo de contrataciones irregulares"
-    descripcion: "Concluye el periodo investigado. Durante esos años se formalizaron 91 contratos menores con los mismos cuatro letrados, por un gasto público de 1.114.510,91 euros, según la sentencia. La fecha exacta de cierre no consta; se data a finales de 2013."
-    type: "investigación"
-    urls:
-      - "https://www.europapress.es/ceuta-y-melilla/noticia-audiencia-mantiene-condena-diez-anos-inhabilitacion-diputada-autonomica-pp-melilla-20190112170059.html"
-
   - fecha: "2014-08-18"
     titulo: "Auto de imputación de Garbín por el Juzgado de Instrucción nº 2"
     descripcion: "El Juzgado de Primera Instancia e Instrucción número 2 de Melilla dicta un auto en el que imputa a la consejera María Antonia Garbín y al interventor Francisco Javier Platero por la contratación de letrados externos, e imputa a los cuatro abogados por supuesta complicidad. El auto aprecia indicios de fraccionamiento y de designación directa."
@@ -141,20 +118,22 @@ cronologia:
       - "https://www.elperiodico.com/es/sociedad/20171006/condenan-exconsejera-melilla-10-anos-6337276"
 
   - fecha: "2017-10-06"
-    titulo: "Sentencia de primera instancia: 14 condenados"
-    descripcion: "El Juzgado de lo Penal número 1 de Melilla condena a 14 personas. María Antonia Garbín es condenada a 10 años de inhabilitación especial como autora de un delito continuado de prevaricación administrativa; otras trece personas (funcionarios y letrados) reciben penas de entre cuatro y nueve años. La sentencia se conoce entre el 6 y el 8 de octubre según los medios."
+    titulo: "Se conoce el fallo de primera instancia: 14 condenados"
+    descripcion: "El Juzgado de lo Penal número 1 de Melilla condena a 14 personas: María Antonia Garbín, a 10 años de inhabilitación especial como autora de un delito continuado de prevaricación administrativa, y otras trece (funcionarios y letrados), a penas de entre cuatro y nueve años. El 6 de octubre de 2017 es la fecha en que la prensa publica el fallo (El Periódico), no la fecha exacta de la resolución: los acusados conocieron la sentencia de forma oficiosa a finales de septiembre y las notificaciones se esperaban entonces, mientras otros medios datan la publicación el 7 y el 8 de octubre. No consta acreditado el día exacto de la sentencia."
     type: "sentencia"
     urls:
       - "https://www.elperiodico.com/es/sociedad/20171006/condenan-exconsejera-melilla-10-anos-6337276"
       - "https://www.europapress.es/ceuta-y-melilla/noticia-condenan-10-anos-inhabilitacion-exconsejera-bienestar-social-melilla-maria-antonia-garbin-20171007185744.html"
+      - "https://melillahoy.es/trasmiten-oralmente-a-los-encausados-del-caso-abogados-que-sern-condenados/"
 
   - fecha: "2019-01-11"
     titulo: "La Audiencia confirma la condena de Garbín y absuelve al resto"
-    descripcion: "La Sección Séptima de la Audiencia Provincial de Málaga, con sede en Melilla, estima los recursos de todos los condenados excepto Garbín y los absuelve. Confirma la condena de 10 años de inhabilitación contra Garbín, que queda firme. Un magistrado votó a favor de absolver también a Garbín. Garbín dejaría después su escaño como diputada."
+    descripcion: "La Sección Séptima de la Audiencia Provincial de Málaga, con sede en Melilla, emite el 11 de enero de 2019 la sentencia que estima los recursos de todos los condenados excepto Garbín y los absuelve, y confirma la condena de 10 años de inhabilitación contra Garbín. El Faro de Melilla precisa el 12 de enero que la resolución se emitió 'ayer' y MelillaHoy la publica la tarde del 11 de enero. La prensa la describe como sentencia firme, pero no se ha localizado la fecha de notificación a las partes, por lo que la firmeza no queda documentalmente acreditada. Un magistrado votó a favor de absolver también a Garbín. Garbín dimitió como diputada el 15 de enero de 2019."
     type: "sentencia"
     urls:
       - "https://melillahoy.es/la-audiencia-provincial-mantiene-la-inhabilitacin-a-garbn-y-absuelve-al-resto-de-acusados-del-caso-abogados/"
-      - "https://www.europapress.es/ceuta-y-melilla/noticia-audiencia-mantiene-condena-diez-anos-inhabilitacion-diputada-autonomica-pp-melilla-20190112170059.html"
+      - "https://elfarodemelilla.es/maria-antonia-garbin-condena-hay-algo-que-no-encaja/"
+      - "https://www.europapress.es/ceuta-y-melilla/noticia-dimite-garbin-diputada-autonomica-pp-melilla-confirmarse-condena-diez-anos-inhabilitacion-20190115173627.html"
       - "https://www.elconfidencial.com/sociedad/2019-05-08/melilla-absueltos-rectificacion-investigacion_1988486/"
 ---
 
@@ -166,18 +145,20 @@ Esta ficha se ha contrastado con fuentes hemerográficas (Europa Press, El País
 
 - **Absolución en apelación.** La ficha anterior afirmaba que la Audiencia Provincial "ratificó" la sentencia y que "otros 13 implicados recibieron penas de entre cinco y nueve años". En realidad, la Sección Séptima de la Audiencia de Málaga (11 de enero de 2019) solo confirmó la condena de María Antonia Garbín y **absolvió al resto de condenados** (El Confidencial llegó a publicar una rectificación expresa en ese sentido el 8 de mayo de 2019). Tras la apelación, la única condena firme es la de Garbín.
 - **Causa de Imbroda archivada.** La ficha presentaba a Imbroda como "investigado" sin más. El Tribunal Supremo se declaró competente en febrero de 2015, pero archivó la causa en abril de 2015 y rechazó el recurso de la Fiscalía en julio de 2015 por considerar prescrito el delito.
-- **Fechas.** Inicio del juicio: 12 de junio de 2017 (no el 1 de junio). Sentencia de primera instancia: octubre de 2017, conocida el 6-8 de octubre (el auto no especifica un día en las fuentes consultadas; se usa el 6 de octubre). Sentencia de apelación: 11 de enero de 2019 (no el 14 de febrero). Fin del caso (`fechaFin`): 11 de enero de 2019.
-- **Coste.** El importe de los 91 contratos se fija en la sentencia en 1.114.510,91 euros; se ajusta `coste` a 1.114.511.
+- **Fechas.** Inicio del juicio: 12 de junio de 2017 (no el 1 de junio). Primera instancia: la prensa publicó el fallo el 6 de octubre de 2017 (otros medios, el 7 y el 8); la sentencia se había comunicado de forma oficiosa a los acusados a finales de septiembre, por lo que el 6 de octubre es la fecha de conocimiento público y no consta acreditado el día exacto de la resolución. Apelación: la sentencia se emitió el 11 de enero de 2019 (El Faro de Melilla, 12-01-2019: "la sentencia emitida ayer"; MelillaHoy la publicó la tarde del 11-01). `fechaFin`: 11 de enero de 2019, fecha de la resolución de apelación.
+- **Coste.** El importe de los 91 contratos se fija en la sentencia en 1.114.510,91 euros; `coste` recoge ese valor exacto (1.114.510,91) sin redondear. El importe corresponde al volumen económico del gasto público contratado, no a un daño o perjuicio acreditado de forma autónoma: la condena lo fue por prevaricación administrativa, no por malversación.
+- **Trazabilidad de fechas no acreditadas.** Se retiran del array `cronologia` todos los eventos cuyo día exacto no consta (inicio del sistema en 2003, querella de ALA en 2011 y cierre del periodo en 2013). El periodo 2003-2013 y el año 2011 de la querella de ALA se describen en `descripcion` y en esta nota, sin asignarles un día concreto.
 - **Implicados.** Se corrige la filiación de Rafael Hernández Soler, que era del PSOE y no del PP. Se retira a Daniel Conesa de la lista por corresponder su imputación a la Operación Tosca, no al caso Abogados. Se elimina la atribución de "consejera de Recursos Humanos" a Inés Urdiales (fue exdiputada de la coalición PP-UPM y exconsejera). Se reformula el papel de Juan Jesús Olivares (letrado de la contratación de 2001, no uno de los cuatro letrados de Bienestar Social).
 - **Documentos.** No se han localizado documentos judiciales descargables verificables, por lo que se usa `documentos: []` (antes `null`).
 
 ### Incertidumbres y límites
 
 - **Importe de la contratación de Imbroda.** La mayoría de las fuentes (Vozpópuli, ABC, El Mundo, La Voz de Galicia) citan 357.000 euros; El País (7 de abril de 2015) menciona 395.000 euros hasta 2010. Se mantiene 357.000 euros y se deja constancia de la discrepancia.
-- **Fecha exacta de la sentencia de primera instancia.** Los medios la sitúan entre el 6 y el 8 de octubre de 2017. Se usa el 6 de octubre, pero no se ha confirmado el día exacto del auto.
+- **Fecha exacta de la sentencia de primera instancia.** Los medios sitúan la publicación del fallo entre el 6 y el 8 de octubre de 2017 y la comunicación oficiosa a los acusados a finales de septiembre de 2017 (MelillaHoy, 28-09-2017); no consta el día exacto del fallo. El evento de `cronologia` se titula, por ello, como la fecha en que se conoce el fallo.
+- **Firmeza de la sentencia de apelación.** MelillaHoy (11-01-2019) y El Faro de Melilla (12-01-2019) sitúan la resolución el 11 de enero de 2019, y El Confidencial (08-05-2019) la describe como "sentencia firme". No se ha localizado la fecha de notificación a las partes, por lo que la firmeza no queda documentalmente acreditada y `fechaFin` se apoya en la fecha de emisión publicada por la prensa.
 - **Periodo de la contratación.** La sentencia habla de 2003-2013 y de 91 contratos; el auto de instrucción de 2014 aludía a 2002-2011 y la acusación a contratos que se remontan a 1998. Se prioriza lo fijado en la sentencia.
 - **Exposición razonada sobre publicidad institucional.** El evento que la ficha databa el 11 de noviembre de 2015 corresponde a un procedimiento distinto (Juzgado de Instrucción número 3 de Melilla, convenios con medios de comunicación), archivado por el Supremo. Se ha retirado de esta cronología por no pertenecer al caso Abogados.
 - **Cifra "ocho de los once" miembros del Gobierno imputados.** Procede de Vozpópuli (23 de febrero de 2015) y contabiliza imputaciones repartidas entre varias causas (Tosca, Ópera y Abogados), no solo este caso; por eso se ha reformulado el `impactoSocial`.
 - **Pieza separada contra Marín, Hernández y Urdiales.** Consta su citación como imputados en 2015, pero no se ha localizado resolución posterior (condena, absolución o archivo) sobre esta pieza.
-- **Marcadores de fecha.** Los campos que exigen fecha pero cuyo día exacto no consta (inicio del sistema en 2003 y querella de ALA en 2011) usan `01-01` como marcador, indicado en cada entrada.
+- **Inicio del sistema y querella de ALA.** El periodo de contratación (2003-2013) y el año de la querella de ALA (2011) constan en las fuentes, pero no los días exactos; por eso se describen en el texto y no se incluyen como eventos con fecha en `cronologia`.
 - **Novedades 2025-2026.** No se han encontrado novedades judiciales propias del caso Abogados. El informe de la UDEF de junio de 2026 sobre presuntos delitos en la construcción del centro comercial Parque Murias (Operación Valenzuela) es un asunto distinto y no se incorpora a esta ficha.
