@@ -5,14 +5,16 @@ completado: false
 año: 2024
 fechaInicio: 2024-02-21
 fechaFin: ""
-estado: "cerrado con condenas (pieza de mascarillas); en investigación (obra pública y financiación)"
+estado: "activo"
 descripcion: |
   El caso Koldo —también llamado caso Ábalos o caso mascarillas— es una investigación judicial sobre una trama de corrupción en la contratación pública durante la pandemia de COVID-19. Su epicentro es Koldo García Izaguirre, exasesor del exministro de Transportes José Luis Ábalos, quien, según la sentencia que cerró la pieza principal, actuó como intermediario en la adjudicación de contratos de material sanitario (principalmente mascarillas) a empresas sin experiencia en el sector a cambio de comisiones.
 
   La sentencia de la Sala Segunda del Tribunal Supremo STS 418/2026, de 22 de junio de 2026 —dictada por unanimidad, con ponencia de Andrés Martínez Arrieta—, considera probado que Ábalos, Koldo García y el empresario Víctor de Aldama constituyeron una organización criminal con reparto de funciones. Declara probada la adjudicación de trece millones de mascarillas a Puertos del Estado (20.000.000 euros) y ADIF (12.500.000 euros) a la empresa Soluciones de Gestión, vinculada a Aldama, mediante órdenes ministeriales de marzo de 2020; una remuneración mensual de 10.000 euros a Ábalos entre octubre de 2019 y junio de 2022; la contratación irregular de dos conocidas del exministro en empresas públicas (Jésica Rodríguez en INECO y TRAGSATEC, y Claudia Montes en LOGIRAIL); y el alquiler de viviendas en Marbella y La Línea de la Concepción con opción de compra. La sentencia condenó a Ábalos a 24 años y 3 meses de prisión (máximo efectivo de 16 años y 6 meses), a Koldo García a 19 años, 8 meses y 1 día (máximo efectivo de 15 años) y a Aldama a 4 años y 6 meses, con la ejecución de la pena suspendida por su colaboración con la justicia. Los tres fueron absueltos de prevaricación, uso de información privilegiada y falsedad. La sentencia es firme: solo caben el incidente de nulidad y, en su caso, el recurso de amparo ante el Tribunal Constitucional.
 
-  El caso está dividido en varias piezas. La principal, la de mascarillas, fue juzgada por el Tribunal Supremo (causa especial 20775/2020) entre el 7 de abril y el 6 de mayo de 2026, al ser Ábalos aforado. La investigación sobre presuntos amaños de obra pública (con Santos Cerdán, Isabel Pardo de Vera y Francisco Javier Herrero, entre otros) pasó a la Audiencia Nacional en febrero de 2026 y sigue en instrucción; también sigue abierta la pieza sobre pagos en efectivo desde Ferraz. El Juzgado Central de Instrucción nº 2 de la Audiencia Nacional (juez Ismael Moreno) asumió además el caso Plus Ultra en marzo de 2026. Cerdán, que estuvo en prisión provisional entre el 30 de junio y el 19 de noviembre de 2025, está en libertad a la espera de juicio. Persisten incertidumbres sobre la delimitación exacta de algunas piezas y sobre el resultado de los incidentes de nulidad.
-resumen: "Trama de corrupción en la contratación pública durante la pandemia (mascarillas) y en el amaño de obra pública; el Supremo condenó en junio de 2026 a Ábalos, Koldo García y Aldama por la pieza de mascarillas."
+  El caso está dividido en varias piezas. La principal, la de mascarillas, fue juzgada por el Tribunal Supremo (causa especial 20775/2020) entre el 7 de abril y el 6 de mayo de 2026, al ser Ábalos aforado; es la única cerrada con sentencia firme de condena. La investigación sobre presuntos amaños de obra pública (con Santos Cerdán, Isabel Pardo de Vera y Francisco Javier Herrero, entre otros) pasó a la Audiencia Nacional en febrero de 2026 y sigue en instrucción; también sigue abierta la pieza sobre pagos en efectivo desde Ferraz. El Juzgado Central de Instrucción nº 2 de la Audiencia Nacional (juez Ismael Moreno) asumió además el caso Plus Ultra en marzo de 2026. Cerdán, que estuvo en prisión provisional entre el 30 de junio y el 19 de noviembre de 2025, está en libertad a la espera de juicio. Por seguir abiertas esas piezas, el estado de la ficha se mantiene como «activo». Persisten incertidumbres sobre la delimitación exacta de algunas piezas y sobre el resultado de los incidentes de nulidad.
+
+  El campo «coste» recoge 32.500.000 euros como volumen agregado de los dos contratos de mascarillas declarados probados (20.000.000 euros de Puertos del Estado y 12.500.000 euros de ADIF). No es un perjuicio cuantificado ni un lucro declarado: la sentencia no fija esa cifra como daño. Las cuantías que la resolución sí concreta son el decomiso de 430.298 euros y las indemnizaciones a INECO (34.450 euros) y TRAGSATEC (9.500,54 euros).
+resumen: "Trama de corrupción en la contratación pública durante la pandemia (mascarillas) y en el amaño de obra pública. El Supremo condenó en junio de 2026, en sentencia firme, a Ábalos, Koldo García y Aldama por la pieza de mascarillas; siguen abiertas las piezas de obra pública y financiación, por lo que el estado se mantiene como «activo». Los 32.500.000 euros de coste son el volumen de los dos contratos de mascarillas (20.000.000 de Puertos del Estado y 12.500.000 de ADIF), no un perjuicio cuantificado."
 coste: 32500000
 lugar: "Madrid, España"
 tribunal:
@@ -28,15 +30,15 @@ implicados:
     cargo: "Empresario y presidente del Zamora CF"
     rol: "Condenado a 4 años y 6 meses de prisión por organización criminal y cohecho, con la pena suspendida por su colaboración con la justicia (atenuante muy cualificada); la sentencia declara probado que canalizó comisiones por 6.676.046,09 euros"
 
-  - nombre: "Juan Carlos Cueto Corsón"
-    cargo: "Empresario, administrador de Comercial Cueto 92"
-    rol: "No fue juzgado en la pieza de mascarillas; la sentencia declara probado que Soluciones de Gestión firmó con Comercial Cueto 92 el acuerdo de suministro de mascarillas antes de publicarse la orden ministerial"
+  - nombre: "Juan Carlos Cueto Martín"
+    cargo: "Empresario, máximo responsable del Grupo Cueto y administrador de Comercial Cueto 92"
+    rol: "No fue juzgado en la pieza de mascarillas; la sentencia declara probado que Soluciones de Gestión firmó con Comercial Cueto 92 el acuerdo de suministro de mascarillas antes de publicarse la orden ministerial. En septiembre de 2026 seguía siendo citado como investigado en la causa abierta en la Audiencia Nacional"
 
   - nombre: "José Luis Ábalos Meco"
     cargo: "Exministro de Transportes (2018-2021) y exsecretario de Organización del PSOE"
     rol: "Condenado por el Tribunal Supremo (STS 418/2026) a 24 años y 3 meses de prisión, con máximo efectivo de 16 años y 6 meses, por organización criminal, cohecho, malversación y tráfico de influencias"
 
-  - nombre: "Santos Cerdán López"
+  - nombre: "Santos Cerdán León"
     cargo: "Exsecretario de Organización del PSOE"
     rol: "Investigado en la pieza separada de amaño de obra pública por organización criminal, cohecho y tráfico de influencias; no fue juzgado en la pieza de mascarillas. Estuvo en prisión provisional del 30 de junio al 19 de noviembre de 2025 y permanece en libertad a la espera de juicio"
 
@@ -44,7 +46,7 @@ implicados:
     cargo: "Administrador único de Soluciones de Gestión"
     rol: "No fue juzgado en la pieza de mascarillas; la sentencia describe su papel en la empresa adjudicataria de los contratos"
 
-  - nombre: "Rubén Villalba Gómez"
+  - nombre: "Rubén Villalba Carnerero"
     cargo: "Guardia Civil (Comandante)"
     rol: "Presunta facilitación de información privilegiada a los miembros de la trama"
 
@@ -68,9 +70,9 @@ implicados:
     cargo: "Socio empresarial de Víctor de Aldama"
     rol: "Presunta participación en fraude fiscal relacionado con la organización criminal"
 
-  - nombre: "María Magdalena Cueto Corsón"
+  - nombre: "María Magdalena Cueto"
     cargo: "Hermana de Juan Carlos Cueto"
-    rol: "Investigada por posibles operaciones financieras vinculadas a la trama"
+    rol: "Investigada por posibles operaciones financieras vinculadas a la trama. Su identidad completa y su papel concreto no se han podido contrastar con fuentes primarias (revisión pendiente)"
 
   - nombre: "Cristina Álvarez Guisasola"
     cargo: "Excompañera de trabajo de Koldo García"
@@ -136,7 +138,7 @@ cronologia:
 
   - fecha: "2020-08"
     titulo: "Estancia de Ábalos en un chalé en Marbella"
-    descripcion: "Durante tres semanas en agosto de 2020, José Luis Ábalos, entonces ministro de Transportes, habría disfrutado de una estancia en un chalé en Marbella proporcionada por Globalia, empresa matriz de Air Europa. Según la UCO, esto fue una contraprestación por la mediación de Ábalos en el rescate financiero de Air Europa, gestionado en parte a través de Begoña Gómez, esposa de Pedro Sánchez."
+    descripcion: "Durante tres semanas en agosto de 2020, José Luis Ábalos, entonces ministro de Transportes, habría disfrutado de una estancia en un chalé en Marbella proporcionada por Globalia, empresa matriz de Air Europa. Según la UCO, esto fue una contraprestación por la mediación de Ábalos en el rescate financiero de Air Europa, gestionado en parte a través de Begoña Gómez, esposa de Pedro Sánchez. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
     type: "resumen"
     urls:
       - "https://es.wikipedia.org/wiki/Caso_Koldo"
@@ -151,7 +153,7 @@ cronologia:
 
   - fecha: "2021-11"
     titulo: "Intercambio de mensajes entre Sánchez y Ábalos"
-    descripcion: "En noviembre de 2021, Pedro Sánchez y José Luis Ábalos intercambian mensajes de WhatsApp donde Sánchez expresa solidaridad con Ábalos tras rumores en la prensa. Los mensajes muestran una relación cordial, pero no abordan directamente el caso Koldo. Estos mensajes serán filtrados públicamente en mayo de 2025."
+    descripcion: "En noviembre de 2021, Pedro Sánchez y José Luis Ábalos intercambian mensajes de WhatsApp donde Sánchez expresa solidaridad con Ábalos tras rumores en la prensa. Los mensajes muestran una relación cordial, pero no abordan directamente el caso Koldo. Estos mensajes serán filtrados públicamente en mayo de 2025. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
     type: "resumen"
     urls:
       - "https://es.wikipedia.org/wiki/Caso_Koldo"
@@ -241,7 +243,7 @@ cronologia:
 
   - fecha: "2025-04-09"
     titulo: "Informe de la UCO sobre el rescate de Air Europa"
-    descripcion: "La UCO entrega un informe al juez Leopoldo Puente que revela que Javier Hidalgo, CEO de Globalia, recurrió a Begoña Gómez para gestionar el rescate de Air Europa. Conversaciones entre Aldama y Koldo confirman reuniones secretas entre Gómez e Hidalgo, con Ábalos como mediador."
+    descripcion: "La UCO entrega un informe al juez Leopoldo Puente que revela que Javier Hidalgo, CEO de Globalia, recurrió a Begoña Gómez para gestionar el rescate de Air Europa. Conversaciones entre Aldama y Koldo confirman reuniones secretas entre Gómez e Hidalgo, con Ábalos como mediador. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
     type: "resumen"
     urls:
       - "https://es.wikipedia.org/wiki/Caso_Koldo"
@@ -249,7 +251,7 @@ cronologia:
 
   - fecha: "2025-05-12"
     titulo: "Filtración de mensajes entre Sánchez y Ábalos"
-    descripcion: "El Mundo publica mensajes de WhatsApp de noviembre de 2021 entre Pedro Sánchez y Ábalos, mostrando apoyo de Sánchez tras el cese de Ábalos. Esto intensifica las especulaciones sobre el conocimiento de Sánchez de las actividades de Koldo."
+    descripcion: "El Mundo publica mensajes de WhatsApp de noviembre de 2021 entre Pedro Sánchez y Ábalos, mostrando apoyo de Sánchez tras el cese de Ábalos. Esto intensifica las especulaciones sobre el conocimiento de Sánchez de las actividades de Koldo. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
     type: "resumen"
     urls:
       - "https://es.wikipedia.org/wiki/Caso_Koldo"
@@ -257,14 +259,14 @@ cronologia:
 
   - fecha: "2025-05-20"
     titulo: "Imputación de Isabel Pardo de Vera"
-    descripcion: "El juez Moreno Chamarro imputa a Isabel Pardo de Vera, ex presidenta de ADIF, por malversación y tráfico de influencias durante su gestión en el Ministerio de Transportes."
+    descripcion: "El juez Moreno Chamarro imputa a Isabel Pardo de Vera, ex presidenta de ADIF, por malversación y tráfico de influencias durante su gestión en el Ministerio de Transportes. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
     type: "resumen"
     urls:
       - "https://en.wikipedia.org/wiki/Koldo_Case"
 
   - fecha: "2025-05-26"
     titulo: "Filtración de audios de Leire Díez Castro"
-    descripcion: "El Confidencial filtra audios de febrero de 2025 en los que Leire Díez Castro, cercana a Santos Cerdán, se reúne con empresarios y un abogado para buscar información comprometedora contra el teniente coronel Antonio Balas Dávila, jefe de la UCO que investiga el caso Koldo, el caso Begoña Gómez y el caso David Sánchez. Se ofrecen tratos de favor a cambio de información para invalidar las investigaciones."
+    descripcion: "El Confidencial filtra audios de febrero de 2025 en los que Leire Díez Castro, cercana a Santos Cerdán, se reúne con empresarios y un abogado para buscar información comprometedora contra el teniente coronel Antonio Balas Dávila, jefe de la UCO que investiga el caso Koldo, el caso Begoña Gómez y el caso David Sánchez. Se ofrecen tratos de favor a cambio de información para invalidar las investigaciones. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
     type: "resumen"
     urls:
       - "https://es.wikipedia.org/wiki/Caso_Koldo"
@@ -350,7 +352,7 @@ cronologia:
 
   - fecha: "2025-07-21"
     titulo: "Declaración de Pardo de Vera y Herrero como imputados"
-    descripcion: "Isabel Pardo de Vera y Francisco Javier Herrero Lizano declaran como imputados en la Audiencia Nacional. El juez Moreno les retira el pasaporte y les prohíbe salir de España."
+    descripcion: "Isabel Pardo de Vera y Francisco Javier Herrero Lizano declaran como imputados en la Audiencia Nacional. El juez Moreno les retira el pasaporte y les prohíbe salir de España. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
     type: "resumen"
     urls:
       - "https://es.wikipedia.org/wiki/Caso_Koldo"
@@ -485,8 +487,8 @@ cronologia:
       - "https://www.infobae.com/espana/agencias/2025/12/22/el-supremo-analizara-tambien-el-15-de-enero-si-mantiene-a-koldo-en-prision-provisional/"
 
   - fecha: "2026-02-01"
-    titulo: "Inicio previsto del juicio oral"
-    descripcion: "El juicio oral contra Ábalos, Koldo García y Víctor de Aldama está previsto para comenzar entre febrero y marzo de 2026 en la Audiencia Nacional. La Fiscalía solicita 24 años para Ábalos, 19,5 para Koldo y 7 para Aldama. Las acusaciones populares piden hasta 30 años. Los delitos incluyen organización criminal, cohecho, tráfico de influencias, malversación y uso de información privilegiada. Paralelamente, el 8 de marzo finalizaría la segunda rama del caso en el Supremo sobre las presuntas 'mordidas' en contratos públicos."
+    titulo: "Previsión periodística del calendario judicial de 2026"
+    descripcion: "Diversos medios publican a comienzos de febrero de 2026 sus previsiones sobre el calendario judicial del año, que situaban el juicio del caso Koldo entre febrero y marzo de 2026 en la Audiencia Nacional, con peticiones de 24 años para Ábalos, 19,5 para Koldo y 7 para Aldama (hasta 30 años por las acusaciones populares). Se trata de una previsión periodística: el juicio se fijó finalmente para el 7 de abril de 2026 en el Tribunal Supremo."
     type: "resumen"
     relevancia: "alta"
     urls:
@@ -658,8 +660,8 @@ cronologia:
       - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1264210"
 
   - fecha: "2026-03-31"
-    titulo: "Koldo García acude al Tribunal Constitucional para intentar parar el juicio"
-    descripcion: "La defensa de Koldo García presenta un recurso de amparo ante el Tribunal Constitucional como último intento para evitar el juicio en el Supremo, tras el rechazo de sus recursos previos."
+    titulo: "La defensa de Koldo García recurre al Tribunal Constitucional (noticia del 31 de marzo)"
+    descripcion: "El País publica el 31 de marzo de 2026 que la defensa de Koldo García ha presentado un recurso de amparo ante el Tribunal Constitucional como último intento para evitar el juicio en el Supremo, tras el rechazo de sus recursos previos."
     type: "recurso"
     urls:
       - "https://elpais.com/espana/2026-03-31/koldo-garcia-acude-al-constitucional-en-un-ultimo-intento-por-parar-el-juicio-de-las-mascarillas-en-el-supremo.html"
@@ -717,16 +719,16 @@ cronologia:
       - "https://www.rtve.es/noticias/20260622/sentencia-supremo-caso-mascarillas-abalos-koldo/17108722.shtml"
 
   - fecha: "2026-07-01"
-    titulo: "Aldama se niega a devolver las comisiones y la Fiscalía lo reclama"
-    descripcion: "Víctor de Aldama afirma que no piensa devolver el dinero y sostiene que su cobro fue legal, amparándose en que la sentencia no le obliga a devolver los 3,7 millones que la Fiscalía reclamaba por el delito de aprovechamiento de información privilegiada, del que resultó absuelto. El decomiso acordado es de 430.298 euros."
+    titulo: "Aldama afirma que no devolverá las comisiones (declaraciones publicadas el 1 de julio)"
+    descripcion: "Según Infobae y eldiario.es (1 de julio de 2026), Víctor de Aldama afirma que no piensa devolver el dinero y sostiene que su cobro fue legal, amparándose en que la sentencia no le obliga a devolver los 3,7 millones que la Fiscalía reclamaba por el delito de aprovechamiento de información privilegiada, del que resultó absuelto. El decomiso acordado es de 430.298 euros."
     type: "recurso"
     urls:
       - "https://www.infobae.com/espana/2026/07/01/victor-de-aldama-no-se-plantea-devolver-el-dinero-como-pide-anticorrupcion-es-un-cobro-legal-asi-lo-ha-dicho-el-supremo"
       - "https://www.eldiario.es/politica/aldama-no-tendra-devolver-comision-3-7-millones-mascarillas_1_13323097.html"
 
   - fecha: "2026-07-30"
-    titulo: "La Fiscalía Europea se interesa por contratos de la pieza de obra pública"
-    descripcion: "La Fiscalía Europea reclama al juez instructor del 'caso Cerdán' información sobre varios contratos de obra pública, sin detallar las licitaciones afectadas, en el marco de la investigación sobre fondos europeos."
+    titulo: "La Fiscalía Europea se interesa por contratos de la pieza de obra pública (noticia del 30 de julio)"
+    descripcion: "Moncloa.com publica el 30 de julio de 2026 que la Fiscalía Europea ha reclamado al juez instructor del 'caso Cerdán' información sobre varios contratos de obra pública, sin detallar las licitaciones afectadas, en el marco de la investigación sobre fondos europeos. La fecha exacta del requerimiento no consta."
     type: "investigación"
     urls:
       - "https://www.moncloa.com/2026/07/30/cerdan-fiscalia-europea-4-obras-3407401"
@@ -740,16 +742,25 @@ cronologia:
       - "https://www.europapress.es/nacional/noticia-anticorrupcion-pide-supremo-rechazar-peticion-abalos-koldo-anular-sentencia-caso-mascarillas-20260901122436.html"
       - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1269000"
 
+  - fecha: "2026-09-11"
+    titulo: "Cueto y Rotaeche declaran como investigados en la causa abierta"
+    descripcion: "La prensa de los días 10 y 11 de septiembre de 2026 informa de que el empresario Juan Carlos Cueto y el administrador de Soluciones de Gestión, Íñigo Rotaeche, comparecen como investigados ante el juez Ismael Moreno en la Audiencia Nacional en el marco de la investigación sobre los contratos de mascarillas. Se recoge como noticia de prensa; la resolución judicial asociada no se ha consultado."
+    type: "investigación"
+    relevancia: "media"
+    urls:
+      - "https://www.moncloa.com/2026/09/10/caso-koldo-mascarillas-juez-3428569/"
+      - "https://www.lasexta.com/noticias/nacional/responsables-soluciones-gestion-presentan-juez-como-empresarios-modelicos-dicen-saber-nada-comisiones_202609116aa3e9216e80d31108487707.html"
+
   - fecha: "2026-09-19"
-    titulo: "La UCO amplía la investigación económica de la pieza de obra pública"
-    descripcion: "La UCO defiende ante el juez la cadena de custodia del teléfono de Antxón Alonso, socio de Santos Cerdán, y continúa el rastreo de cuentas y empresas vinculadas a los presuntos amaños de obra pública."
+    titulo: "La UCO amplía la investigación económica de la pieza de obra pública (noticia del 19 de septiembre)"
+    descripcion: "El Periódico informa el 19 de septiembre de 2026 de que la UCO defiende ante el juez la cadena de custodia del teléfono de Antxón Alonso, socio de Santos Cerdán, y continúa el rastreo de cuentas y empresas vinculadas a los presuntos amaños de obra pública."
     type: "investigación"
     urls:
       - "https://www.elperiodico.com/es/politica/20260919/uco-niega-dispositivo-intervenido-socio-cerdan-antxon-134433661"
 
   - fecha: "2026-09-28"
-    titulo: "El Tribunal de Cuentas investiga fundaciones vinculadas al PSOE"
-    descripcion: "El Tribunal de Cuentas abre diligencias sobre fundaciones vinculadas al PSOE a raíz de las declaraciones de Víctor de Aldama ante la Audiencia Nacional, que apuntó a un posible sistema de donaciones ('pitufeo') para canalizar comisiones. La investigación está en fase inicial."
+    titulo: "El Tribunal de Cuentas investiga fundaciones vinculadas al PSOE (noticia del 28 de septiembre)"
+    descripcion: "ABC publica el 28 de septiembre de 2026 que el Tribunal de Cuentas ha abierto diligencias sobre fundaciones vinculadas al PSOE a raíz de las declaraciones de Víctor de Aldama ante la Audiencia Nacional, que apuntó a un posible sistema de donaciones ('pitufeo') para canalizar comisiones. La investigación está en fase inicial y la fecha de apertura no consta con precisión."
     type: "investigación"
     relevancia: "media"
     urls:
@@ -758,8 +769,11 @@ cronologia:
 
 ## Notas de revisión (2026-10-01)
 
-- **Coste**: el campo `coste` se ha fijado en 32.500.000 euros, importe de los dos contratos de mascarillas que la sentencia declara probados (20.000.000 euros de Puertos del Estado y 12.500.000 euros de ADIF). Otras magnitudes del caso son las comisiones canalizadas por Aldama (6.676.046,09 euros) y el decomiso acordado (430.298 euros). El valor anterior (9.600.000 euros) no se ha podido contrastar con ninguna fuente, por lo que se ha sustituido.
 - **Sentencia y firmeza**: la STS 418/2026, de 22 de junio de 2026, es firme. Contra ella solo proceden el incidente de nulidad y, en su caso, el recurso de amparo ante el Tribunal Constitucional. A 1 de octubre de 2026 no consta resuelto el incidente de nulidad de Ábalos y Koldo, aunque la Fiscalía Anticorrupción pidió su desestimación el 1 de septiembre de 2026.
 - **Piezas del caso**: la condena afecta solo a la pieza de mascarillas (tres acusados). La investigación sobre presuntos amaños de obra pública sigue abierta en la Audiencia Nacional e incluye, entre otros, a Santos Cerdán, Isabel Pardo de Vera y Francisco Javier Herrero. También siguen abiertas la pieza de financiación (pagos en efectivo desde Ferraz) y la investigación absorbida de Plus Ultra.
-- **Fuentes**: se han priorizado la sentencia (STS 418/2026) y la nota del CGPJ. Varios eventos antiguos de la cronología siguen apoyados en fuentes secundarias (incluida Wikipedia); en esta revisión se han sustituido enlaces cortos no verificables (t.co) y deben completarse en futuras actualizaciones.
+- **Estado**: se fija `estado: "activo"` porque, aunque la pieza de mascarillas terminó con sentencia firme de condena, las piezas de obra pública y de financiación siguen en instrucción. El valor anterior era un estado compuesto que la web no reconoce y que se mostraba como «Desconocido».
+- **Coste**: el campo `coste` se ha fijado en 32.500.000 euros como volumen agregado de los dos contratos de mascarillas declarados probados (20.000.000 euros de Puertos del Estado y 12.500.000 euros de ADIF). No es un perjuicio cuantificado ni un lucro declarado: la sentencia no fija esa cifra como daño. Otras magnitudes del caso son las comisiones canalizadas por Aldama (6.676.046,09 euros) y el decomiso acordado (430.298 euros). El valor anterior (9.600.000 euros) no se pudo contrastar con ninguna fuente.
+- **Nombres contrastados**: se corrige «Juan Carlos Cueto Corsón» por «Juan Carlos Cueto Martín» (consta en los antecedentes de la STS 418/2026 y en fuentes secundarias), «Santos Cerdán López» por «Santos Cerdán León» (sentencia y ficha oficial del Congreso) y «Rubén Villalba Gómez» por «Rubén Villalba Carnerero» (Newtral/EFE). La identidad de «María Magdalena Cueto» (antes «María Magdalena Cueto Corsón») no se ha podido contrastar: no aparece en la sentencia ni en los informes consultados, y el apellido «Corsón» no se ha localizado en ninguna fuente, por lo que queda como revisión pendiente.
+- **Fuentes y eventos pendientes**: se han priorizado la sentencia (STS 418/2026) y la nota del CGPJ, y se han sustituido los enlaces cortos (t.co) no verificables. Siguen pendientes de contraste con fuente primaria los eventos de 2020-08 (chalé en Marbella), 2021-11 (mensajes Sánchez-Ábalos), 2025-04-09 (UCO sobre Air Europa), 2025-05-12 (filtración de mensajes), 2025-05-20 (imputación de Pardo de Vera), 2025-05-26 (audios de Leire Díez) y 2025-07-21 (declaración de Pardo de Vera y Herrero), que se apoyan en fuentes secundarias/Wikipedia y quedan marcados en la cronología.
+- **Fechas de eventos de 2026**: cuando el único dato disponible es la noticia o publicación, la descripción lo indica y no se atribuye una fecha de hecho no comprobada (por ejemplo, 30-07, 19-09 y 28-09 de 2026). El evento de 2026-09-11 (declaración de Cueto y Rotaeche como investigados) procede de dos medios y no se ha consultado la resolución judicial.
 - **Incógnitas**: no se ha podido verificar el número cerrado de investigados en las piezas separadas ni el desenlace de todos los recursos. El detalle de algunas fechas antiguas (por ejemplo, la fecha exacta de la detención inicial) presenta pequeñas discrepancias entre fuentes.
