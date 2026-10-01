@@ -65,9 +65,9 @@ implicados:
 
   - nombre: "Federico Rodríguez Cerdá"
     cargo: "Empresario, administrador de Gestión de Proyectos Balear (GPB)"
-    rol: "Detenido en abril de 2010 e imputado por malversación; declaró ante el juez el 23 de junio de 2010, fecha que consta en fuentes secundarias. En su declaración policial de abril, recogida por la prensa, había admitido que manejaba información del concurso del parque de bomberos antes de su adjudicación. La pieza principal fue sobreseída provisionalmente en 2017"
+    rol: "Detenido en abril de 2010 e imputado por malversación; fue citado para declarar ante el juez el 23 de junio de 2010; no se ha localizado una crónica que confirme la celebración. En su declaración policial de abril, recogida por la prensa, había admitido que manejaba información del concurso del parque de bomberos antes de su adjudicación. La pieza principal fue sobreseída provisionalmente en 2017"
 
-  - nombre: "Juan José Sedano"
+  - nombre: "Juan José Sedano Delgado"
     cargo: "Excomercial de Sa Nostra Renting"
     rol: "Imputado; declaró ante el juez el 24 de junio de 2010, después de que su comparecencia quedara suspendida el día 23, y reconoció que sus clientes disponían de borradores del pliego del parque de bomberos antes de su publicación, aunque sostuvo que él solo trabajaba sobre hipótesis de financiación. La pieza principal fue sobreseída provisionalmente en 2017"
 
@@ -135,8 +135,8 @@ cronologia:
       - "https://elpais.com/diario/2010/06/23/espana/1277244013_850215.html"
 
   - fecha: "2010-06-23"
-    titulo: "Declaración de Federico Rodríguez en la reanudación de los interrogatorios"
-    descripcion: "Tras alzarse el secreto de sumario, el juez instructor Juan Catany reanuda los interrogatorios del caso. La prensa de ese día —un anuncio, no una crónica— recoge las providencias que fijaban las comparecencias de Juan José Sedano (10:00) y de Federico Rodríguez Cerdá (12:00); la de Sedano quedó suspendida y se celebró el 24 de junio. En su declaración policial de abril, recogida entonces por la prensa, Rodríguez había admitido que manejaba información del concurso del parque de bomberos antes de su adjudicación. La fecha de la comparecencia de Rodríguez ante el juez consta en fuentes secundarias; no se ha localizado una crónica del acto."
+    titulo: "Citación de Federico Rodríguez en la reanudación de los interrogatorios"
+    descripcion: "Tras alzarse el secreto de sumario, el juez instructor Juan Catany reanuda los interrogatorios del caso. La prensa de ese día —un anuncio, no una crónica— recoge las providencias que fijaban las comparecencias de Juan José Sedano (10:00) y de Federico Rodríguez Cerdá (12:00); la de Sedano quedó suspendida y se celebró el 24 de junio. En su declaración policial de abril, recogida entonces por la prensa, Rodríguez había admitido que manejaba información del concurso del parque de bomberos antes de su adjudicación. La fecha corresponde a la citación; no se ha localizado una crónica que confirme la celebración de la comparecencia de Rodríguez."
     type: "declaración"
     relevancia: "media"
     urls:
@@ -223,7 +223,7 @@ Esta ficha se apoya en fuentes periodísticas, algunas consultadas solo por extr
 - **Fecha del auto de sobreseimiento de la pieza principal (2017):** solo consta la publicación periodística del 7 de marzo de 2017; la fecha propia del auto no figura en las fuentes consultadas.
 - **Firmeza:** no consta resolución que acredite la firmeza de la condena por conformidad de Joan Pol (17 de enero de 2018) ni de la del directivo de Iturri. El carácter provisional del sobreseimiento de 2017 no permite por sí solo afirmar ni negar que la resolución sea firme.
 - **Fechas de publicación frente a fechas de resolución:** la anulación de fianzas de tres imputados y el auto de la Audiencia de Palma sobre la pieza separada se conocen solo por noticia (9 de noviembre de 2011 y 7 de septiembre de 2017, respectivamente); la fecha propia de esas resoluciones no consta.
-- **Declaraciones de junio de 2010:** la comparecencia de Federico Rodríguez ante el juez (23 de junio) consta en fuentes secundarias y en el anuncio de prensa de ese día, no en una crónica del acto; la de Juan José Sedano se celebró el 24 de junio, tras suspenderse la prevista para el 23.
+- **Declaraciones de junio de 2010:** la citación de Federico Rodríguez ante el juez (23 de junio) consta en el anuncio de prensa de ese día; no se ha localizado una crónica que confirme su celebración; la de Juan José Sedano se celebró el 24 de junio, tras suspenderse la prevista para el 23.
 - **Cifras discrepantes:** el número de imputados oscila entre 17 y 19; lo cobrado por Atlas Capital se sitúa entre unos 550.000 y 610.000 euros (con redondeos a 600.000); las penas del directivo de Iturri varían según la fuente (multa de 10.800 euros frente a seis meses de prisión y 3.600 euros).
 - **Estado global:** no se han localizado noticias posteriores a enero de 2018 ni consta el resultado de eventuales recursos. La ausencia de noticias no confirma el cierre ni la firmeza de la causa.
 
