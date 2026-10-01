@@ -29,7 +29,17 @@ tags:
   - "amnistía fiscal"
   - "fraude"
 impactoSocial: "Generó un amplio rechazo social y político. Los sindicatos de técnicos de Hacienda (Gestha) y parte de la opinión pública la consideraron un trato de favor a grandes defraudadores y una quiebra de la igualdad tributaria; el Tribunal Constitucional censuró en 2017 que legitimara el fraude y colocara a los incumplidores en mejor posición que a los contribuyentes que sí cumplieron."
-documentos: []
+documentos:
+  - fecha: "2017-07-15"
+    titulo: "STC 73/2017, de 8 de junio: publicación oficial en el BOE"
+    filetype: "pdf"
+    paginas: 14
+    nombre_fichero: "https://www.boe.es/boe/dias/2017/07/15/pdfs/BOE-A-2017-8345.pdf"
+  - fecha: "2012-12-03"
+    titulo: "Hacienda: balance provisional de la regularización tributaria"
+    filetype: "pdf"
+    paginas: 2
+    nombre_fichero: "https://www.hacienda.gob.es/gabineteministro/notas%20prensa/2012/se%20hacienda/03-12-12%20nota%20de%20prensa%20sobre%20la%20regularizaci%C3%B3n.pdf"
 cronologia:
   - fecha: 2012-03-30
     titulo: "Aprobación de la amnistía fiscal (Declaración Tributaria Especial)"
@@ -200,3 +210,5 @@ La amnistía fiscal de 2012 **no tiene una causa judicial propia abierta**: la n
 
 ### Documentación adicional
 - Convenios, informes y estudios académicos sobre la DTE y la STC 73/2017.
+
+Los documentos enlazados son la publicación oficial de la STC 73/2017 en el BOE de 15 de julio de 2017 (14 páginas; sentencia de 8 de junio) y la nota del Ministerio de Hacienda de 3 de diciembre de 2012 (2 páginas). Se ha comprobado el contenido y el número de páginas de ambos PDF.
