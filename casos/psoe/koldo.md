@@ -91,8 +91,8 @@ implicados:
     rol: "La sentencia declara probado que fue contratada en LOGIRAIL tras las gestiones de Ábalos y Koldo García; no fue acusada"
 
   - nombre: "Javier Hidalgo"
-    cargo: "Ex CEO de Globalia (Air Europa)"
-    rol: "Compareció como testigo en el juicio sobre el rescate de Air Europa"
+    cargo: "Ex consejero delegado (CEO) de Globalia (Air Europa)"
+    rol: "Compareció como testigo en el juicio de la pieza de mascarillas en el Tribunal Supremo (STS 418/2026), no en un juicio por el rescate de Air Europa. La sentencia recoge que reconoció múltiples gestiones en distintos ministerios para lograr el rescate y que negó haber intervenido en la gestión de la nota de prensa; no se le atribuye delito"
 
   - nombre: "Luis Alberto Escolano Marín"
     cargo: "Socio de Víctor de Aldama"
@@ -123,6 +123,14 @@ cronologia:
     urls:
       - "https://elpais.com/espana/2024-03-03/hechos-probados-de-como-el-virus-de-la-corrupcion-alcanzo-al-gobierno.html"
       - "https://www.infobae.com/espana/2024/03/04/que-es-el-caso-koldo-y-por-que-salpica-al-gobierno-de-pedro-sanchez/"
+
+  - fecha: "2020-08-14"
+    titulo: "Vacaciones de Ábalos en Villa Parra (Marbella) pagadas con fondos de Aldama"
+    descripcion: "La sentencia STS 418/2026 declara probado que José Luis Ábalos y su familia pasaron las vacaciones de verano de 2020, del 14 al 23 de agosto, en la vivienda de Marbella conocida como Villa Parra. El contrato de alquiler lo firmó el 11 de agosto de 2020 Patricia Úriz, esposa de Koldo García, y la estancia se abonó con cargo a las entregas de dinero que Víctor de Aldama hacía a los acusados, en pago a las gestiones del rescate de Air Europa. La sentencia recoge que Aldama indicó a Koldo García que pagara la renta con el dinero que le entregaba, que a Javier Hidalgo no se le dio noticia de este asunto y que Hidalgo había manifestado que no tenía intención de pagar comisión alguna. No consta que la vivienda fuera proporcionada por Globalia."
+    type: "resumen"
+    relevancia: "alta"
+    urls:
+      - "https://descargables.elpais.com/sentencia-abalos-caso-mascarillas.pdf"
 
   - fecha: "2023-09-06"
     titulo: "Querella de la Fiscalía Anticorrupción"
@@ -193,35 +201,43 @@ cronologia:
       - "https://www.elmundo.es/espana/2025/03/09/67cc6d39fc6c838a608b459f.html?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1741507708"
 
   - fecha: "2025-04-09"
-    titulo: "Informe de la UCO sobre el rescate de Air Europa"
-    descripcion: "La UCO entrega un informe al juez Leopoldo Puente que revela que Javier Hidalgo, CEO de Globalia, recurrió a Begoña Gómez para gestionar el rescate de Air Europa. Conversaciones entre Aldama y Koldo confirman reuniones secretas entre Gómez e Hidalgo, con Ábalos como mediador. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
+    titulo: "Un informe de la UCO vincula a Begoña Gómez con el rescate de Air Europa"
+    descripcion: "Trasciende en prensa el contenido del informe de la UCO 49/2025, de 8 de abril de 2025, remitido al Tribunal Supremo, según el cual el 3 de septiembre de 2020 Víctor de Aldama comunicó a Koldo García que Javier Hidalgo, consejero delegado de Globalia, había llamado a Begoña Gómez ante el bloqueo del rescate de Air Europa. El informe constata dos encuentros de Gómez con Hidalgo en la sede de Globalia (24 de junio y 16 de julio de 2020) y atribuye a Ábalos una «participación directa» en las gestiones del rescate. Se recoge como contenido de un informe policial, no como hecho declarado probado por una sentencia."
     type: "resumen"
+    relevancia: "media"
     urls:
-      - "https://es.wikipedia.org/wiki/Caso_Koldo"
-      - "https://en.wikipedia.org/wiki/Koldo_Case"
+      - "https://theobjective.com/espana/tribunales/2025-04-09/uco-hidalgo-begona-gomez-rescate/"
+      - "https://www.telecinco.es/noticias/espana/20250409/uco-javier-hidalgo-begona-rescate-air-europa_18_015278834.html"
+      - "https://www.elnacional.cat/es/politica/uco-revela-javier-hidalgo-llamo-begona-gomez-falta-acuerdo-rescate-air-europa_1396333_102.html"
 
-  - fecha: "2025-05-12"
-    titulo: "Filtración de mensajes entre Sánchez y Ábalos"
-    descripcion: "El Mundo publica mensajes de WhatsApp de noviembre de 2021 entre Pedro Sánchez y Ábalos, mostrando apoyo de Sánchez tras el cese de Ábalos. Esto intensifica las especulaciones sobre el conocimiento de Sánchez de las actividades de Koldo. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
+  - fecha: "2025-05-10"
+    titulo: "Publicación de los mensajes de WhatsApp entre Sánchez y Ábalos"
+    descripcion: "El Mundo publica en exclusiva mensajes de WhatsApp intercambiados entre Pedro Sánchez y José Luis Ábalos entre 2020 y 2021, y el 12 de mayo difunde nuevas entregas. Los mensajes muestran el contacto entre ambos tras el cese de Ábalos como ministro en julio de 2021 y, según el diario, reflejan la relación política entre presidente y exministro. El contenido se enmarca en la filtración de material de la causa y no consta que acredite por sí mismo hechos delictivos."
     type: "resumen"
+    relevancia: "media"
     urls:
-      - "https://es.wikipedia.org/wiki/Caso_Koldo"
-      - "https://en.wikipedia.org/wiki/Koldo_Case"
+      - "https://www.elmundo.es/espana/2025/05/10/681f78f4e4d4d8a06c8b4573.html"
+      - "https://www.antena3.com/noticias/espana/nuevos-mensajes-whatsapp-sanchez-abalos-traslado-solidaridad-infundios-que-veo-medios_202505126821b4cc57a5aa2cde20e0f2.html"
 
   - fecha: "2025-05-20"
-    titulo: "Imputación de Isabel Pardo de Vera"
-    descripcion: "El juez Moreno Chamarro imputa a Isabel Pardo de Vera, ex presidenta de ADIF, por malversación y tráfico de influencias durante su gestión en el Ministerio de Transportes. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
-    type: "resumen"
+    titulo: "El juez imputa a Isabel Pardo de Vera"
+    descripcion: "El juez Ismael Moreno, instructor del caso en la Audiencia Nacional, imputa a la expresidenta de ADIF Isabel Pardo de Vera por malversación y tráfico de influencias en relación con la contratación irregular de la expareja de Ábalos en empresas públicas. Se la cita a declarar."
+    type: "imputación"
+    relevancia: "media"
     urls:
-      - "https://en.wikipedia.org/wiki/Koldo_Case"
+      - "https://elpais.com/espana/2025-05-20/el-juez-del-caso-koldo-imputa-a-pardo-de-vera-por-malversacion-y-trafico-de-influencias.html"
+      - "https://www.rtve.es/noticias/20250520/juez-caso-koldo-imputa-pardo-vera-expresidenta-adif-contratos-expareja-abalos/16588617.shtml"
+      - "https://es.euronews.com/2025/05/20/la-expresidenta-de-adif-imputada-por-el-caso-koldo-por-malversacion-y-trafico-de-influenci"
 
   - fecha: "2025-05-26"
-    titulo: "Filtración de audios de Leire Díez Castro"
-    descripcion: "El Confidencial filtra audios de febrero de 2025 en los que Leire Díez Castro, cercana a Santos Cerdán, se reúne con empresarios y un abogado para buscar información comprometedora contra el teniente coronel Antonio Balas Dávila, jefe de la UCO que investiga el caso Koldo, el caso Begoña Gómez y el caso David Sánchez. Se ofrecen tratos de favor a cambio de información para invalidar las investigaciones. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
+    titulo: "Audios de Leire Díez sobre la UCO"
+    descripcion: "El Confidencial publica un audio de una reunión en la que Leire Díez, exdirigente municipal del PSOE, solicita junto a otras personas a Alejandro Hamlyn, empresario investigado en una trama de hidrocarburos, información comprometedora sobre Antonio Balas, teniente coronel jefe de la UCO que dirige investigaciones como la del caso Koldo. Leire Díez sostiene que se trataba de una investigación periodística y niega las acusaciones; el episodio dio lugar a una causa separada (denominada caso Leire Díez)."
     type: "resumen"
+    relevancia: "media"
     urls:
-      - "https://es.wikipedia.org/wiki/Caso_Koldo"
-      - "https://en.wikipedia.org/wiki/Koldo_Case"
+      - "https://www.elconfidencial.com/espana/2025-05-26/moncloa-monta-operacion-clandestina-liquidar-uco_4136439/"
+      - "https://www.rtve.es/noticias/20250526/leire-diez-audios-uco-reportaje-investigacion-niega-psoe/16597882.shtml"
+      - "https://efe.com/espana/2025-05-27/leire-diez-conversacion-sobre-uco-investigacion-periodistica/"
 
   - fecha: "2025-06-05"
     titulo: "Informe de la UCO que implica a Santos Cerdán"
@@ -302,11 +318,14 @@ cronologia:
       - "https://www.elmundo.es/espana/2025/07/07/686b893421efa0de338b4595.html"
 
   - fecha: "2025-07-21"
-    titulo: "Declaración de Pardo de Vera y Herrero como imputados"
-    descripcion: "Isabel Pardo de Vera y Francisco Javier Herrero Lizano declaran como imputados en la Audiencia Nacional. El juez Moreno les retira el pasaporte y les prohíbe salir de España. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
-    type: "resumen"
+    titulo: "Pardo de Vera y Herrero declaran como investigados"
+    descripcion: "Isabel Pardo de Vera, expresidenta de ADIF, y Francisco Javier Herrero Lizano, exdirector general de Carreteras, declaran como investigados en la Audiencia Nacional en la pieza sobre presuntos amaños de obra pública. El juez Ismael Moreno les retira el pasaporte y les prohíbe salir de España."
+    type: "imputación"
+    relevancia: "media"
     urls:
-      - "https://es.wikipedia.org/wiki/Caso_Koldo"
+      - "https://elpais.com/espana/2025-07-21/anticorrupcion-pide-retirar-del-pasaporte-a-isabel-pardo-de-vera-y-javier-herrero-por-el-caso-koldo.html"
+      - "https://www.rtve.es/noticias/20250721/isabel-pardo-vera-javier-herrero-declaran-este-lunes-como-investigados-audiencia-nacional-por-caso-koldo/16670045.shtml"
+      - "https://www.lavanguardia.com/politica/20250721/10909970/juez-prohibe-salir-espana-pardo-vera-exdirector-carreteras.html"
 
   - fecha: "2025-07-23"
     titulo: "Santos Cerdán permanece en prisión"
@@ -725,13 +744,13 @@ cronologia:
 - **Estado**: se fija `estado: "activo"` porque, aunque la pieza de mascarillas terminó con sentencia firme de condena, las piezas de obra pública y de financiación siguen en instrucción. El valor anterior era un estado compuesto que la web no reconoce y que se mostraba como «Desconocido».
 - **Coste**: el campo `coste` se ha fijado en 32.500.000 euros como volumen agregado de los dos contratos de mascarillas declarados probados (20.000.000 euros de Puertos del Estado y 12.500.000 euros de ADIF). No es un perjuicio cuantificado ni un lucro declarado: la sentencia no fija esa cifra como daño. Otras magnitudes del caso son las comisiones canalizadas por Aldama (6.676.046,09 euros) y el decomiso acordado (430.298 euros). El valor anterior (9.600.000 euros) no se pudo contrastar con ninguna fuente.
 - **Nombres contrastados**: se corrige «Juan Carlos Cueto Corsón» por «Juan Carlos Cueto Martín» (consta en los antecedentes de la STS 418/2026 y en fuentes secundarias), «Santos Cerdán López» por «Santos Cerdán León» (sentencia y ficha oficial del Congreso) y «Rubén Villalba Gómez» por «Rubén Villalba Carnerero» (Newtral/EFE). Se retira de `implicados` a «María Magdalena Cueto»: no aparece en la sentencia ni en las fuentes consultadas, su identidad y su papel no se han podido contrastar y algunas fuentes mencionan a una hermana de Juan Carlos Cueto llamada «María del Carmen Cueto», por lo que podría tratarse de una confusión; queda como duda en este cuerpo, sin afirmarla investigada.
-- **Fuentes y eventos pendientes**: se han priorizado la sentencia (STS 418/2026) y la nota del CGPJ, y se han sustituido los enlaces cortos (t.co) no verificables. Siguen pendientes de contraste con fuente primaria los eventos ya con fecha completa de 2025-04-09 (UCO sobre Air Europa), 2025-05-12 (filtración de mensajes), 2025-05-20 (imputación de Pardo de Vera), 2025-05-26 (audios de Leire Díez) y 2025-07-21 (declaración de Pardo de Vera y Herrero), que se apoyan en fuentes secundarias/Wikipedia y quedan marcados en la cronología.
-- **Eventos con fecha parcial retirados de la cronología**: la cronología exige fecha ISO completa (YYYY-MM-DD) y no se debe inventar el día cuando solo consta el mes y el año. Por eso se han retirado del array estos cinco eventos, conservando aquí su contenido y su grado de incertidumbre:
-  - **agosto de 2020** — Estancia de Ábalos en un chalé en Marbella. Según fuentes secundarias/Wikipedia, durante tres semanas de agosto de 2020 Ábalos habría disfrutado de un chalé en Marbella proporcionado por Globalia como contraprestación por su mediación en el rescate de Air Europa. No consta el día exacto ni se ha contrastado con fuente primaria.
+- **Fuentes de los eventos de 2025**: se han priorizado la sentencia (STS 418/2026) y la nota del CGPJ, y se han sustituido los enlaces cortos (t.co) no verificables. Los eventos de 2025-04-09 (informe de la UCO sobre Air Europa), 2025-05-10 (publicación de los mensajes Sánchez-Ábalos, antes fechada el 12 de mayo), 2025-05-20 (imputación de Pardo de Vera), 2025-05-26 (audios de Leire Díez) y 2025-07-21 (declaración de Pardo de Vera y Herrero) ya no se apoyan en Wikipedia: citan prensa identificable (El Mundo, El País, RTVE, El Confidencial, EFE, The Objective, Antena 3, Euronews y La Vanguardia). No se ha accedido a las resoluciones judiciales subyacentes, por lo que se recogen como información de prensa; en 2025-04-09 se explicita que se trata del contenido de un informe policial (UCO 49/2025) y no de un hecho declarado probado, y en 2025-05-26 se recoge la versión de la afectada y que el episodio dio lugar a una causa separada.
+- **Eventos con fecha parcial retirados de la cronología**: la cronología exige fecha ISO completa (YYYY-MM-DD) y no se debe inventar el día cuando solo consta el mes y el año. Por eso se han retirado del array estos cuatro eventos, conservando aquí su contenido y su grado de incertidumbre:
   - **julio de 2021** — Cese de Ábalos como ministro de Transportes y secretario de Organización del PSOE. No consta el día exacto ni una relación directa acreditada con el caso en ese momento.
-  - **noviembre de 2021** — Intercambio de mensajes de WhatsApp entre Pedro Sánchez y Ábalos, filtrados en mayo de 2025. No consta el día exacto; se apoya en fuentes secundarias/Wikipedia.
+  - **noviembre de 2021** — Intercambio de mensajes de WhatsApp entre Pedro Sánchez y Ábalos, filtrados en mayo de 2025. No consta el día exacto; el episodio se recoge en la entrada de 2025-05-10 a partir de la publicación de El Mundo.
   - **marzo de 2022** — Denuncia del PP ante la Fiscalía Anticorrupción sobre los contratos de mascarillas de Soluciones de Gestión, origen de la «Operación Delorme». No consta el día exacto.
   - **diciembre de 2023** — Koldo García comienza a grabar conversaciones con cargos del PSOE y empresarios; las grabaciones se localizaron en 2024. No consta el día exacto.
+- **Vacaciones de Marbella (agosto de 2020)**: la versión anterior de esta ficha retiraba el evento por falta del día exacto y afirmaba, a partir de fuentes secundarias, que Ábalos había disfrutado de un chalé en Marbella «proporcionado por Globalia» como contraprestación por el rescate de Air Europa. Esa afirmación es incorrecta: la STS 418/2026 (páginas 40-42 y 137-138) declara probado que las vacaciones tuvieron lugar del 14 al 23 de agosto de 2020 en Villa Parra, que el contrato lo firmó el 11 de agosto de 2020 Patricia Úriz con la propietaria KID CLASS SL y que la estancia se pagó con cargo a las entregas de dinero de Aldama a los acusados; precisa además que a Javier Hidalgo no se le dio noticia del asunto y que no consta que la vivienda la proporcionara Globalia. Por existir ya el día exacto, el evento se ha restaurado en la cronología con fecha 2020-08-14.
 - **Implicados con evidencia solo de contenido previo (lagunas)**: se han revisado los implicados cuya evidencia procedía únicamente de la ficha previa y no de la sentencia ni de fuentes verificables, corrigiendo roles judiciales no acreditados y registrando la laguna de cada uno. **Leticia Lauffer Medina** (antes descrita como «pareja sentimental de Aldama» e investigada por blanqueo): las fuentes la identifican como exdirectora de Wakalua (filial de Globalia) y nexo entre Begoña Gómez y Air Europa, y declaró en el Senado y en el caso Begoña Gómez; no consta vínculo sentimental con Aldama ni condición de investigada en el caso Koldo. **Claudio Rivas** (antes «socio empresarial de Aldama» en fraude fiscal): la sentencia lo sitúa como empresario de hidrocarburos en las gestiones de la licencia de VILLAFUEL S.L., sin condena ni acusación por fraude fiscal. **Luis Alberto Escolano Marín**: la sentencia le cita como socio de Aldama y partícipe en el pago del alquiler del apartamento de Jésica Rodríguez; no fue acusado por la Fiscalía y la punibilidad por falsedad interesada por la acusación popular no se declaró probada. **Roberto González Arnaiz** y **Cristina Álvarez Guisasola**: no se ha localizado ninguna fuente independiente que acredite su identidad ni su papel; se retira la afirmación de irregularidades y la condición de investigada y quedan como revisión pendiente. **Luisa Presa Medina**: consta como empresaria de Vitoria investigada por blanqueo y como persona interpuesta de Cueto con participación simbólica en Soluciones de Gestión (El Diario/Infobae), por lo que se mantiene con ese rol.
 - **Fechas de eventos de 2026**: cuando el único dato disponible es la noticia o publicación, la descripción lo indica y no se atribuye una fecha de hecho no comprobada (por ejemplo, 30-07, 19-09 y 28-09 de 2026). El evento de 2026-09-11 (declaración de Cueto y Rotaeche como investigados) procede de dos medios y no se ha consultado la resolución judicial.
 - **Incógnitas**: no se ha podido verificar el número cerrado de investigados en las piezas separadas ni el desenlace de todos los recursos. El detalle de algunas fechas antiguas (por ejemplo, la fecha exacta de la detención inicial) presenta pequeñas discrepancias entre fuentes.
