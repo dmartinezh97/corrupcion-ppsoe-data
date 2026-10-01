@@ -5,13 +5,13 @@ completado: false
 año: 2006
 fechaInicio: 2006-11-27
 fechaFin: ""
-estado: "sentencias firmes por pieza; cierre total no confirmado"
+estado: "desconocido"
 descripcion: |
   El caso Andratx, también conocido como operación Voramar, es el conjunto de más de 70 piezas separadas sobre presuntas irregularidades urbanísticas en el municipio mallorquín de Andratx, instruidas a partir del 27 de noviembre de 2006. Ese día la Guardia Civil detuvo al entonces alcalde, Eugenio Hidalgo (expulsado del PP al conocerse la detención), al director general de Ordenación del Territorio del Govern balear, Jaume Massot, y al celador municipal de obras Jaume Gibert, entre otros.
 
   La primera sentencia, fechada el 23 de mayo de 2008 (pieza 56), condenó a Eugenio Hidalgo a cuatro años de prisión por prevaricación y por un delito contra la ordenación del territorio, además de ordenar la demolición de la vivienda; a Jaume Massot a tres años y seis meses; al asesor jurídico municipal Ignacio Mir a un año; y a Jaume Gibert a cuatro meses. El Tribunal Supremo desestimó los recursos y confirmó esas penas mediante sentencia fechada el 27 de noviembre de 2009; la Audiencia Provincial hizo efectiva la resolución y Hidalgo y Massot ingresaron en prisión el 28 de diciembre de 2009. A lo largo de más de una década se dictaron alrededor de una treintena de sentencias condenatorias, muchas por conformidad, por falsedad documental, prevaricación, delitos contra la ordenación del territorio y negociaciones prohibidas, junto a pronunciamientos absolutorios y retiradas de cargos. Entre estos últimos: Massot fue absuelto en la pieza 9 (2011) y se le retiraron los cargos en la pieza 78 (2017); Ignacio Mir resultó absuelto en la pieza 37 (2019); y el Supremo absolvió a Hidalgo en 2009 de la condena de la pieza 32 por un defecto formal de la acusación.
 
-  La última resolución judicial localizada es la sentencia de la pieza 37, dictada por el Juzgado de lo Penal nº 2 de Palma y conocida el 4 de enero de 2019, que condenó a Massot por prevaricación urbanística sin añadirle una nueva pena, al considerarla incluida en la ya cumplida, y absolvió a Ignacio Mir. La fecha exacta de esa resolución no consta en las fuentes consultadas, solo la fecha de su publicación. En cuanto a las demoliciones ordenadas, la sentencia de septiembre de 2013 del Juzgado de lo Contencioso-Administrativo nº 2 de Palma anuló la licencia de los 12 apartamentos de Cala Llamp (concedida en 2005 por Hidalgo), cuyo derribo comenzó el 11 de diciembre de 2024; el Tribunal Superior de Justicia de Baleares ordenó en 2020 demoler los apartamentos de Monport, y el pleno del Ayuntamiento aprobó a finales de febrero de 2026 una partida de 5,5 millones de euros para ejecutar esa demolición, la última actuación conocida, sin que conste que el derribo se haya iniciado o reanudado.
+  La última resolución judicial localizada es la sentencia de la pieza 37, dictada por el Juzgado de lo Penal nº 2 de Palma y conocida el 4 de enero de 2019, que condenó a Massot por prevaricación urbanística sin añadirle una nueva pena, al considerarla incluida en la ya cumplida, y absolvió a Ignacio Mir. La fecha exacta de esa resolución no consta en las fuentes consultadas, solo la fecha de su publicación. En cuanto a las demoliciones ordenadas, la sentencia de septiembre de 2013 del Juzgado de lo Contencioso-Administrativo nº 2 de Palma anuló la licencia de los 12 apartamentos de Cala Llamp (concedida en 2005 por Hidalgo), cuyo derribo comenzó el 11 de diciembre de 2024; el Tribunal Superior de Justicia de Baleares ordenó en 2020 demoler los apartamentos de Monport, y el pleno del Ayuntamiento aprobó en febrero de 2026 una partida de 5,5 millones de euros para ejecutar esa demolición, que es la última actuación conocida; no se ha localizado el resultado actual de esa demolición (si se ha iniciado o completado).
 
   No consta que subsistan causas penales abiertas, pero tampoco se ha localizado confirmación oficial del cierre total del sumario. La firmeza debe leerse por pieza: la sentencia principal (pieza 56) quedó firme con el Supremo en 2009, mientras que de la última resolución localizada (pieza 37) solo consta su publicación en enero de 2019. No existe una cifra única y consolidada del coste del caso: los importes de 275.000 euros (derribo de Cala Llamp) y 5,5 millones de euros (derribo de Monport) corresponden a la ejecución de demoliciones ordenadas, no al coste global de la causa.
 
@@ -55,9 +55,24 @@ tags:
   - "falsedad documental"
   - "negociaciones prohibidas"
 
-impactoSocial: "El caso Andratx fue descrito por la prensa como el caso de corrupción urbanística más relevante de la historia judicial de Baleares. La detención en 2006 de un alcalde en ejercicio y del director general de Ordenación del Territorio del Govern balear tuvo una amplia repercusión política y mediática. Las demoliciones ordenadas por los tribunales, una iniciada en 2024 y otra pendiente de ejecución tras la aprobación presupuestaria de febrero de 2026, reflejan el coste público y territorial de las licencias anuladas."
+impactoSocial: "El caso Andratx fue descrito por la prensa como el caso de corrupción urbanística más relevante de la historia judicial de Baleares. La detención en 2006 de un alcalde en ejercicio y del director general de Ordenación del Territorio del Govern balear tuvo una amplia repercusión política y mediática. Las demoliciones ordenadas por los tribunales reflejan el coste público y territorial de las licencias anuladas: la de los 12 apartamentos de Cala Llamp se inició el 11 de diciembre de 2024 y, para la de los apartamentos de Monport, la última actuación conocida es la partida de 5,5 millones de euros aprobada por el Ayuntamiento en febrero de 2026, sin que se haya localizado el resultado actual de esa demolición (si se ha iniciado o completado)."
 
-documentos: []
+documentos:
+  - fecha: "2008-05-23"
+    titulo: "Sentencia de la Audiencia Provincial de Baleares, Sección Segunda (pieza 56, rollo 76/07): condena por la vivienda ilegal de Son Xina"
+    filetype: "pdf"
+    paginas: 43
+    nombre_fichero: "https://web.archive.org/web/20140730041631/http://dbalears.cat/uploads/arxiu/altres/Sentencia_Andratx.pdf"
+  - fecha: "2008-11-14"
+    titulo: "Sentencia nº 75/08 de la Audiencia Provincial de Baleares, Sección Segunda (pieza 32, rollo 26/08): restaurante ilegal del hermano del alcalde"
+    filetype: "pdf"
+    paginas: 62
+    nombre_fichero: "https://estaticos.elmundo.es/documentos/2008/11/19/andratx.pdf"
+  - fecha: "2009-11-27"
+    titulo: "Sentencia nº 1127/2009 del Tribunal Supremo, Sala de lo Penal (recurso de casación 1539/2009): confirma la condena de la pieza 56"
+    filetype: "pdf"
+    paginas: 30
+    nombre_fichero: "https://web.archive.org/web/20140730045437/http://dbalears.cat/uploads/arxiu/altres/sentencia_andratx_primera_pieza.pdf"
 
 cronologia:
   - fecha: "2006-11-27"
