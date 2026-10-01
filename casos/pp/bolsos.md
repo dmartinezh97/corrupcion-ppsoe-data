@@ -16,7 +16,7 @@ descripcion: |
   El archivo del "pitufeo" no cerró la pieza A: esta continuó para Alfonso Grau, Mari Carmen García-Fuster y dos responsables de fundaciones municipales por la financiación de las campañas de 2007 y 2011. El 30 de julio de 2024 la Sección Segunda de la Audiencia Provincial de Valencia dictó la sentencia nº 486/2024 (SAP V 826/2024; ECLI:ES:APV:2024:826), que condenó a Grau a cuatro años y medio de prisión, nueve años de inhabilitación para empleo o cargo público, dos años de suspensión de empleo o cargo público y una multa de cinco millones de euros por malversación continuada y cohecho en la campaña de 2007, con una indemnización de 388.150 euros al Ayuntamiento de Valencia; José Salinas fue condenado a cuatro años de prisión y ocho de inhabilitación como cooperador necesario de malversación, respondiendo solidariamente de 210.000 euros; Mari Carmen García-Fuster fue absuelta del delito de cohecho y Juan Eduardo Santón de malversación y falsedad documental. La sentencia, sobre la que consta un auto de aclaración, no era firme y cabía recurso de casación ante el Tribunal Supremo.
 
   Alcance y límites: esta ficha documenta la pieza A ("pitufeo") y el episodio de los bolsos como contexto. Parte de los hechos e implicados corresponden a otras piezas del caso Taula y a los casos Gürtel, Emarsa y Azud, que cuentan con sus propias fichas (solapamiento documentado, sin editar esas fichas). Los regalos de la trama Azud se vincularon a una presunta comisión cobrada por José María Corbín, cuñado de Barberá, cuya investigación corresponde al caso Azud. Los cargos y las peticiones de pena de la Fiscalía Anticorrupción de 2021 (hasta 15 años para Grau, 7 para García-Fuster y multa de 146.000 euros para el PP) no equivalen a condenas. El coste de 50.000 euros consignado en esta ficha es el importe presuntamente blanqueado en el "pitufeo", no un perjuicio acreditado. No se ha localizado el resultado actual de los recursos ni la firmeza de la sentencia de 2024, por lo que el estado se consigna como desconocido; las fechas de los autos de 2016 y 2021-2022 proceden de fuentes de prensa y no se han verificado en resolución judicial primaria.
-resumen: "Pieza A ('pitufeo') del caso Taula: presunto blanqueo de 50.000 euros en la campaña municipal del PP de 2015 y financiación irregular de las campañas de 2007 y 2011, con condena en 2024 a Alfonso Grau y José Salinas (sentencia no firme)"
+resumen: "Pieza A ('pitufeo') del caso Taula: presunto blanqueo de 50.000 euros en la campaña municipal del PP de 2015 y financiación irregular de las campañas de 2007 y 2011, con condena en 2024 a Alfonso Grau y José Salinas (firmeza actual no localizada)"
 coste: 50000
 lugar: "Valencia, Comunitat Valenciana"
 tribunal:
@@ -32,13 +32,13 @@ implicados:
     rol: "Investigada por blanqueo de capitales en la causa abierta por el Tribunal Supremo (aforamiento); falleció el 23-11-2016 y con su muerte se extinguió la causa contra ella"
   - nombre: "Alfonso Grau Alonso"
     cargo: "Concejal de Hacienda y primer teniente de alcalde (vicealcalde) del Ayuntamiento de Valencia con Rita Barberá"
-    rol: "Procesado y condenado en la pieza A (2024) a 4 años y medio de prisión, 9 años de inhabilitación para empleo o cargo público, 2 años de suspensión y multa de 5 millones de euros por malversación continuada y cohecho en la campaña de 2007 (sentencia no firme)"
+    rol: "Procesado y condenado en la pieza A (2024) a 4 años y medio de prisión, 9 años de inhabilitación para empleo o cargo público, 2 años de suspensión y multa de 5 millones de euros por malversación continuada y cohecho en la campaña de 2007 (firmeza actual no localizada)"
   - nombre: "María del Carmen García Fuster"
     cargo: "Secretaria del Grupo Municipal del PP en el Ayuntamiento de Valencia"
     rol: "Procesada en la pieza A por la gestión de la cuenta del grupo; absuelta del delito de cohecho en 2024"
   - nombre: "José Salinas"
     cargo: "Director gerente de la Fundación Turismo Valencia Convention Bureau (FTVBC)"
-    rol: "Condenado en 2024 a 4 años de prisión y 8 de inhabilitación como cooperador necesario de malversación en la campaña de 2007; responde solidariamente de 210.000 euros (sentencia no firme)"
+    rol: "Condenado en 2024 a 4 años de prisión y 8 de inhabilitación como cooperador necesario de malversación en la campaña de 2007; responde solidariamente de 210.000 euros (firmeza actual no localizada)"
   - nombre: "Juan Eduardo Santón"
     cargo: "Director del Centro de Estrategias y Desarrollo (CEyD)"
     rol: "Absuelto en 2024 de los delitos de malversación y falsedad documental en la pieza A"
@@ -57,7 +57,7 @@ tags:
 impactoSocial: "La imputación de Barberá en el caso Taula la llevó a dejar el grupo parlamentario del PP en el Senado y pasar al grupo mixto. Su muerte el 23 de noviembre de 2016, dos días después de declarar ante el Tribunal Supremo, marcó un hito político. El caso Taula se fragmentó en más de una decena de piezas; la sentencia de la pieza A de 2024 condenó a Alfonso Grau y José Salinas y absolvió a Mari Carmen García-Fuster y Juan Eduardo Santón, y el PP expulsó a Grau en agosto de 2024. La firmeza de la sentencia no se ha podido acreditar."
 documentos:
   - fecha: "2024-07-30"
-    titulo: "Sentencia nº 486/2024 de la Sección Segunda de la Audiencia Provincial de Valencia (pieza A del caso Taula; SAP V 826/2024)"
+    titulo: "Sentencia nº 486/2024 (copia publicada por Newtral) de la Sección Segunda de la Audiencia Provincial de Valencia (pieza A del caso Taula; SAP V 826/2024)"
     filetype: "pdf"
     paginas: 175
     nombre_fichero: "https://www.newtral.es/wp-content/uploads/2024/11/Pieza-separada-A-del-caso-Taula.-Audiencia-Provincial-de-Valencia.pdf"
