@@ -5,14 +5,14 @@ completado: false
 año: 2004
 fechaInicio: "2004-03"
 fechaFin: ""
-estado: "pendiente de sentencia"
+estado: "Juicio visto para sentencia en diciembre de 2025; fallo no localizado"
 descripcion: |
-  El caso Aguas de Calpe es una de las tramas de presunta corrupción más antiguas de la Comunitat Valenciana. Los hechos se remontan a marzo de 2004, cuando el Ayuntamiento de Calp (gobernado entonces por el PP) adjudicó a la empresa mixta Aguas de Calpe las obras de renovación de la red de abastecimiento por 3,3 millones de euros. Un informe de las universidades de Alicante (UA) y Politécnica de Valencia (UPV) concluyó que el valor real de las obras era de unos 2,2 millones de euros; la acusación cifra el sobrecoste en 1.073.296 euros (otra fuente periodística lo eleva a 1.073.316), que según la Fiscalía se habría desviado a través de un entramado de empresas pantalla y subcontratas.
+  El caso Aguas de Calpe es una de las tramas de presunta corrupción más antiguas de la Comunitat Valenciana. Los hechos se remontan a marzo de 2004, cuando el Ayuntamiento de Calp (gobernado entonces por el PP) adjudicó a la empresa mixta Aguas de Calpe las obras de renovación de la red de abastecimiento por 3,3 millones de euros. Un informe de las universidades de Alicante (UA) y Politécnica de Valencia (UPV) concluyó que el valor real de las obras era de unos 2,2 millones de euros; la acusación cifra el sobrecoste en 1.073.296 euros (otra fuente periodística lo sitúa en 1.073.316), que según la Fiscalía se habría desviado a través de un entramado de empresas pantalla y subcontratas.
 
   En el centro de la trama está el exconcejal de Aguas del PP de Calp, exdiputado provincial y exconsejero delegado de Aguas de Calpe, Juan Roselló, y su cuñado, el empresario Francisco Artacho, principal accionista de Obras Hidráulicas de Levante SL. Según la acusación, Aguas de Calpe subcontrató las obras a Obras Hidráulicas de Levante, una mercantil que hasta entonces se dedicaba al buzoneo y que cambió su objeto social el 17 de febrero de 2004. Esta empresa no ejecutó los trabajos y volvió a subcontratarlos a Montubo Obra Civil, que solo cobró 1,2 millones de los 2,4 millones pactados.
 
-  Tras más de veinte años de instrucción (iniciada en septiembre de 2005), el juicio se celebró en la Audiencia Provincial de Alicante entre el 1 y el 5 de diciembre de 2025, después de dos suspensiones previas (2024 y marzo de 2025). Tres de los ocho acusados se declararon culpables y señalaron a Francisco Artacho como responsable de la trama. La Fiscalía mantuvo los cargos de prevaricación administrativa, fraude y estafa, aunque rebajó sus peticiones iniciales (de 6 a 9 años) por la atenuante de dilaciones indebidas: pidió 6 años y 3 meses para Roselló y Artacho, 4 años para Salvador Ibarra, más de 5 años para Alberto Mut y Francisco Zorrilla, y 11 meses para los tres conformados. El juicio quedó visto para sentencia el 5 de diciembre de 2025 y, a fecha de esta revisión (1 de octubre de 2026), no consta publicada ninguna sentencia.
-resumen: "Trama de sobrecostes en las obras de agua de Calp, juzgada en diciembre de 2025 y pendiente de sentencia"
+  Tras más de veinte años de instrucción (iniciada en septiembre de 2005), el juicio se celebró en la Audiencia Provincial de Alicante entre el 1 y el 5 de diciembre de 2025, después de dos suspensiones previas (2024 y marzo de 2025). Tres de los ocho acusados se declararon culpables y señalaron a Francisco Artacho como responsable de la trama. La Fiscalía mantuvo los cargos de prevaricación administrativa, fraude y estafa, aunque rebajó sus peticiones iniciales (de 6 a 9 años) por la atenuante de dilaciones indebidas: pidió 6 años y 3 meses para Roselló y Artacho, 4 años para Salvador Ibarra, más de 5 años para Alberto Mut y Francisco Zorrilla, y 11 meses para los tres conformados. El juicio quedó visto para sentencia el 5 de diciembre de 2025, el último dato documentado del procedimiento. En las comprobaciones realizadas hasta el 1 de octubre de 2026 —hemeroteca de prensa local, provincial y autonómica y buscadores judiciales— no se ha localizado ninguna resolución posterior ni noticia del fallo, de modo que el resultado del juicio no consta y no puede afirmarse que la causa siguiera todavía pendiente de sentencia en esa fecha.
+resumen: "Trama de sobrecostes en las obras de agua de Calp, juzgada en diciembre de 2025; el fallo no se ha localizado"
 coste: 1070000
 lugar: "Calp, Alicante, Comunidad Valenciana"
 tribunal:
@@ -36,16 +36,16 @@ implicados:
     rol: "Acusado de participar en la adjudicación irregular; la Fiscalía pidió para él más de 5 años de prisión."
 
   - nombre: "Jesús Lara Santamaría"
-    cargo: "Administrador de Obras Hidráulicas de Levante SL"
-    rol: "Acusado; se declaró culpable en el juicio y reconoció que firmaba cheques en blanco y que 'el que mandaba y daba las órdenes era Artacho'."
+    cargo: "Administrador único de Obras Hidráulicas de Levante SL (algunas fuentes lo citan como «Jesús Santamaría» o «Jesús Lara»)"
+    rol: "Acusado; se declaró culpable en el juicio y reconoció que firmaba cheques en blanco y que «el que mandaba y daba las órdenes era Artacho». Su conformidad no consta aprobada por sentencia, al no haberse localizado ninguna resolución."
 
   - nombre: "Victoriano Sánchez"
     cargo: "Administrador de Obras Hidráulicas de Levante SL"
-    rol: "Acusado; se declaró culpable y admitió que la empresa no tenía medios ni maquinaria suficientes para ejecutar las obras. La Fiscalía sostiene que fue utilizado por Artacho a cambio de una contraprestación económica."
+    rol: "Acusado; se declaró culpable y admitió que la empresa no tenía medios ni maquinaria suficientes para ejecutar las obras. La Fiscalía sostiene que fue utilizado por Artacho a cambio de una contraprestación económica. Su conformidad no consta aprobada por sentencia, al no haberse localizado ninguna resolución."
 
   - nombre: "Antonio Ramón Céspedes"
     cargo: "Principal accionista de la empresa de buzoneo que dio origen a Obras Hidráulicas de Levante SL"
-    rol: "Se declaró culpable. La Fiscalía sostiene que percibió de Obras Hidráulicas unos 435.801 euros en connivencia con Artacho y que se los entregó a este."
+    rol: "Se declaró culpable. La Fiscalía sostiene que percibió de Obras Hidráulicas unos 435.801 euros en connivencia con Artacho y que se los entregó a este. Su conformidad no consta aprobada por sentencia, al no haberse localizado ninguna resolución."
 
   - nombre: "Salvador Ibarra"
     cargo: "Administrador de Montubo Obra Civil"
@@ -58,28 +58,6 @@ tags:
 impactoSocial: "Caso emblemático por ser uno de los más antiguos de la Comunitat Valenciana, ha generado frustración social tras más de veinte años de instrucción y retrasos judiciales. El PSOE de Calp sostiene que denunció los hechos en 2005 y que aquella denuncia le costó la Alcaldía en 2008."
 documentos: []
 cronologia:
-  - fecha: "2004-03"
-    titulo: "Adjudicación irregular de obras de renovación de la red de agua"
-    descripcion: "El pleno del Ayuntamiento de Calp, con Juan Roselló (PP) como concejal de Aguas, adjudica a la empresa mixta Aguas de Calpe las obras de renovación de la red del municipio por unos 3,3 millones de euros, aunque su valor real no superaba los 2,2 millones según un informe posterior de las universidades de Alicante y Politécnica de Valencia. La diferencia, superior al millón de euros, se habría desviado mediante un entramado de empresas pantalla."
-    type: "resumen"
-    urls:
-      - "https://lamarina.eldiario.es/2025/03/30/el-eterno-retraso-de-aguas-de-calpe-funcionarios-que-se-rompen-un-dedo-o-cajas-desaparecidas-de-documentos/"
-
-  - fecha: "2004-03"
-    titulo: "Aguas de Calpe subcontrata a una empresa de Artacho"
-    descripcion: "Aguas de Calpe subcontrata las obras a Obras Hidráulicas de Levante SL, mercantil cuyo principal accionista era Francisco Artacho (cuñado de Roselló) y que hasta entonces se dedicaba al buzoneo. El 17 de febrero de 2004, un mes antes de la adjudicación, había cambiado su objeto social para poder optar a obras civiles. Esta empresa no ejecutó ningún trabajo y volvió a subcontratar a Montubo Obra Civil."
-    type: "resumen"
-    urls:
-      - "https://alicanteplaza.es/alicanteplaza/marina-alta/el-caso-aguas-de-calpe-llega-a-juicio-20-anos-despues-la-fiscalia-pide-hasta-8-anos-a-los-cabecillas-de-trama-que-se-llevo-un-millon"
-
-  - fecha: "2005-09"
-    titulo: "La oposición de Calp denuncia las irregularidades ante la Fiscalía"
-    descripcion: "Los grupos de la oposición de Calp (los socialistas calpinos, según su propio relato) presentan ante la Fiscalía de Alicante un informe sobre las irregularidades, que la Fiscalía remite a un juzgado de Dénia e inicia la instrucción. El PSOE de Calp sostiene que aquella denuncia le costó la Alcaldía en 2008. Este fue el inicio de una investigación que se prolongaría durante dos décadas."
-    type: "denuncia"
-    urls:
-      - "https://lamarina.eldiario.es/2025/03/30/el-eterno-retraso-de-aguas-de-calpe-funcionarios-que-se-rompen-un-dedo-o-cajas-desaparecidas-de-documentos/"
-      - "https://lamarina.eldiario.es/2025/12/05/caso-aguas-de-calpe-20-anos-y-7-300-noches/"
-
   - fecha: "2020-10-30"
     titulo: "Fianzas de unos 1,7 millones de euros para los acusados"
     descripcion: "El juzgado de instrucción nº 1 de Dénia, que había acordado en julio de 2020 la apertura de juicio oral, requiere fianzas por un importe total de aproximadamente 1,7 millones de euros: 1,3 millones como indemnización al Ayuntamiento de Calp a Roselló, Artacho, Mut, Zorrilla y Lara Santamaría, más 306.542 euros para la empresa Exca-Gata y 104.180 euros para Vives Dalmau. Los acusados están en libertad provisional."
@@ -103,10 +81,11 @@ cronologia:
 
   - fecha: "2022-10-24"
     titulo: "Condena en el caso Brugal a Roselló y Artacho"
-    descripcion: "La Sección Segunda de la Audiencia de Alicante condena al exalcalde de Calp Javier Morató y a los exconcejales del PP Juan Roselló y Fernando Penella, así como al empresario Francisco Artacho como cooperador necesario, por la trama de basuras de Calp (caso Brugal), con penas de alrededor de dos años de prisión y la atenuante muy cualificada de dilaciones indebidas. Es una causa paralela al caso Aguas de Calpe, que seguía en instrucción."
+    descripcion: "La Sección Segunda de la Audiencia de Alicante condena al exalcalde de Calp Javier Morató y a los exconcejales del PP Juan Roselló y Fernando Penella, así como al empresario Francisco Artacho como cooperador necesario, por la trama de basuras de Calp (caso Brugal), con penas de alrededor de dos años de prisión y la atenuante muy cualificada de dilaciones indebidas. Es una causa paralela al caso Aguas de Calpe, que seguía en instrucción. En marzo de 2026 el Tribunal Supremo anuló esa sentencia y ordenó dictar una nueva."
     type: "sentencia"
     urls:
       - "https://lamarina.eldiario.es/2022/10/24/condenado-el-exalcalde-de-calp-por-la-trama-de-la-basura-al-creer-probado-que-hubo-sobornos/"
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Tribunal-Supremo-ordena-a-la-Audiencia-de-Alicante-dictar-una-nueva-sentencia-en-la-causa-que-juzgo-a-un-exalcalde-y-a-dos-extenientes-de-alcalde-de-Calpe--Alicante--/"
 
   - fecha: "2024-02-08"
     titulo: "Confirmación de la fecha del juicio tras 20 años"
@@ -159,26 +138,35 @@ cronologia:
 
   - fecha: "2025-12-05"
     titulo: "El juicio queda visto para sentencia"
-    descripcion: "Tras los informes finales de las partes, el juicio queda visto para sentencia. La Fiscalía mantiene los cargos de prevaricación, fraude y estafa para los ocho acusados, pero rebaja sus peticiones por dilaciones indebidas: 6 años y 3 meses para Roselló y Artacho, 4 años para Salvador Ibarra, más de 5 años para Alberto Mut y Francisco Zorrilla y 11 meses para los tres conformados. En la vista se declaran culpables tres acusados, que admiten haber actuado como testaferros de Artacho."
+    descripcion: "Tras los informes finales de las partes, el juicio queda visto para sentencia. La Fiscalía mantiene los cargos de prevaricación, fraude y estafa para los ocho acusados, pero rebaja sus peticiones por dilaciones indebidas: 6 años y 3 meses para Roselló y Artacho, 4 años para Salvador Ibarra, más de 5 años para Alberto Mut y Francisco Zorrilla y 11 meses para los tres conformados. En la vista se declaran culpables tres acusados, que admiten haber actuado como testaferros de Artacho. Este es el último hito documentado del juicio; no consta resolución posterior."
     type: "juicio"
     urls:
       - "https://lamarina.eldiario.es/2025/12/09/borracheras-yates-y-hombres-de-paja-los-presuntos-tiempos-felices-del-cunadisimo-de-calp/"
       - "https://www.levante-emv.com/marina/2025/12/05/defensas-aguas-calp-dicen-caso-aguas-de-calpe-corrupcion-trama-124500792.html"
 ---
 
+## Antecedentes (fechas documentadas solo con precisión de mes)
+
+Estos tres hitos iniciales solo están documentados con precisión de mes, no de día. Para no fijar una fecha exacta que las fuentes no acreditan, no se incluyen en la `cronologia` —que exige una fecha con día— y se recogen aquí y en la `descripcion`:
+
+- **Marzo de 2004 — Adjudicación irregular de las obras.** El pleno del Ayuntamiento de Calp, con Juan Roselló (PP) como concejal de Aguas, adjudica a la empresa mixta Aguas de Calpe las obras de renovación de la red del municipio por unos 3,3 millones de euros, aunque su valor real no superaba los 2,2 millones según un informe posterior de las universidades de Alicante y Politécnica de Valencia. La diferencia, superior al millón de euros, se habría desviado mediante un entramado de empresas pantalla.
+- **Marzo de 2004 — Aguas de Calpe subcontrata a una empresa de Artacho.** Aguas de Calpe subcontrata las obras a Obras Hidráulicas de Levante SL, mercantil cuyo principal accionista era Francisco Artacho (cuñado de Roselló) y que hasta entonces se dedicaba al buzoneo. El 17 de febrero de 2004, un mes antes de la adjudicación, había cambiado su objeto social para poder optar a obras civiles. Esta empresa no ejecutó ningún trabajo y volvió a subcontratar a Montubo Obra Civil.
+- **Septiembre de 2005 — La oposición de Calp denuncia las irregularidades ante la Fiscalía.** Los grupos de la oposición de Calp (los socialistas calpinos, según su propio relato) presentan ante la Fiscalía de Alicante un informe sobre las irregularidades, que la Fiscalía remite a un juzgado de Dénia e inicia la instrucción. El PSOE de Calp sostiene que aquella denuncia le costó la Alcaldía en 2008. Este fue el inicio de una investigación que se prolongaría durante dos décadas.
+
 ## Notas de revisión (2026-10-01)
 
-- **Sin sentencia publicada.** El juicio quedó visto para sentencia el 5 de diciembre de 2025. En las búsquedas realizadas hasta el 1 de octubre de 2026 (prensa local y provincial, agregadores y buscadores) no se ha localizado ninguna sentencia, auto o nota de prensa sobre el fallo. Esto no prueba que no exista, solo que no consta publicada: por eso la ficha se marca como no completada (`completado: false`) y el `estado` se fija en "pendiente de sentencia".
+- **Resultado del juicio no localizado.** El juicio quedó visto para sentencia el 5 de diciembre de 2025, que es el último dato documentado del procedimiento. La ausencia de noticias del fallo no acredita que la causa siguiera todavía pendiente de sentencia a 1 de octubre de 2026: podría haberse dictado una resolución sin que las fuentes consultadas la hayan recogido. Se han revisado hasta esa fecha el archivo y la etiqueta «Aguas de Calpe» de La Marina Plaza, la sección de Tribunales de MarinaAlta.es, las notas de prensa del CGPJ (poderjudicial.es) y buscadores generales. La única actividad judicial de 2026 localizada en Calp corresponde al caso Brugal (basuras), no a Aguas de Calpe. Por eso el `estado` se redacta como «juicio visto para sentencia en diciembre de 2025; fallo no localizado» y la ficha se mantiene como no completada (`completado: false`).
 - **Tres conformados, no dos.** La crónica del 3 de diciembre de 2025 titulaba "Dos de los acusados...", pero la del 9 de diciembre de 2025 —posterior al juicio— precisa que fueron tres los acusados que se declararon culpables (Antonio Ramón Céspedes, Victoriano Sánchez y Jesús Lara Santamaría), todos en la órbita de Obras Hidráulicas de Levante. La ficha anterior solo recogía dos.
-- **Identidad de Jesús Lara Santamaría.** Las fuentes se refieren a la misma persona como "Jesús Lara Santamaría", "Jesús Lara" y "Jesús Santamaría" (administrador de Obras Hidráulicas de Levante). Se ha unificado en una sola entrada; la ficha anterior lo duplicaba en dos implicados distintos.
+- **Identidad de Jesús Lara Santamaría.** Se mantiene el nombre completo **Jesús Lara Santamaría** porque es el que emplean fuentes verificables para el administrador único de Obras Hidráulicas de Levante (El País, 19/12/2007 y 25/07/2010, y elDiario.es, 22/05/2024). Otras fuentes lo citan como «Jesús Lara» (Levante-EMV, 05/12/2025) o «Jesús Santamaría» (Alicante Plaza, 21/03/2025; El Mundo, 02/06/2016, que en el mismo texto menciona después a «Jesús Lara» como administrador único). Es razonable que todas las variantes designen a la misma persona, pero no se ha podido confirmar con una fuente primaria (auto o sentencia), por lo que no se fusiona ninguna identidad nueva a partir de esa coincidencia: se conserva el nombre verificable y se deja constancia de la duda y de las variantes en el cargo del implicado.
+- **Conformidades no firmes.** Los tres acusados que se declararon culpables lo hicieron en el acto del juicio, al amparo de una conformidad con la acusación. No se ha localizado sentencia, por lo que esas conformidades no pueden darse por aprobadas ni por firmes, y el resto de acusados mantiene la presunción de inocencia. Por eso en sus fichas de implicado se añade que «su conformidad no consta aprobada por sentencia».
 - **Cifra del sobrecoste.** La Fiscalía (citada por La Marina Plaza, 20/03/2025) habla de 1.073.296 euros exactos; Alicante Plaza (21/03/2025) señala 1.073.316 euros. El PSOE de Calp, en un artículo de opinión, sostiene que el sobrecoste fue de 2.000.000 euros. Se mantiene el `coste` en 1.070.000 (más de un millón) y no se fija una cifra exacta como probada.
 - **Importes de la adjudicación.** Las fuentes manejan cifras distintas según el tramo: 5,2 millones en la previsión inicial (de los que 4,7 los asumirían los vecinos, rebajados a 3,4 en 2005), 3,7 millones en la adjudicación a Obras Hidráulicas de Levante y 3,3 millones como coste final citado por La Marina Plaza. Se conservan las referencias del texto sin fijar una única cifra como definitiva.
-- **Fecha de la condena por Brugal.** La pieza de prensa del 20/03/2025 sitúa la condena "en abril de 2022", pero la sentencia de la Audiencia de Alicante se notificó el 24 de octubre de 2022 (fecha confirmada por Cadena SER en marzo de 2026). Se corrige la cronología a esa fecha.
+- **Fecha de la condena por Brugal.** La pieza de prensa del 20/03/2025 sitúa la condena "en abril de 2022", pero la sentencia de la Audiencia de Alicante se notificó el 24 de octubre de 2022 (fecha confirmada por Cadena SER y por la nota del CGPJ de marzo de 2026). Se corrige la cronología a esa fecha.
 - **Suspensiones previas del juicio.** Las fuentes discrepan sobre la fecha de la primera suspensión: La Marina Plaza (30/03/2025) la sitúa en septiembre de 2024, mientras que su crónica del 28/11/2025 habla de febrero de 2024. En febrero de 2024 lo que consta documentado es la fijación de la fecha del juicio; por eso en la cronología se alude a "2024" de forma genérica.
 - **Denuncia inicial.** La fecha exacta no está documentada; se data en septiembre de 2005 según la cronología de La Marina Plaza. El PSOE de Calp atribuye la denuncia a los socialistas calpinos; La Marina Plaza la atribuye a "los grupos de la oposición". La ficha refleja ambas versiones.
-- **Fechas aproximadas.** Algunos hitos solo están documentados con precisión de mes (marzo de 2004, septiembre de 2005); por eso esos campos usan el formato `AAAA-MM`, sin fijar un día concreto.
-- **Presunción de inocencia.** Salvo los hechos admitidos por los tres acusados que se declararon culpables, los hechos se atribuyen según la acusación y no hay sentencia. No se imputa responsabilidad a ningún partido.
+- **Fechas sin día exacto, fuera de la cronología.** Los hitos de marzo de 2004 (adjudicación y subcontratación) y septiembre de 2005 (denuncia) solo están documentados con precisión de mes. Para no inventar un día concreto, no se incluyen en `cronologia` (que requiere una fecha con día) y su contenido se conserva en la `descripcion` y en el apartado «Antecedentes». El campo `fechaInicio` se mantiene en `2004-03` (marzo de 2004), sin fijar día.
+- **Presunción de inocencia.** Salvo los hechos admitidos por los tres acusados que se declararon culpables, los hechos se atribuyen según la acusación y no hay sentencia localizada. No se imputa responsabilidad a ningún partido.
 
 ## Sobre el coste
 
-El campo `coste` se fija en `1070000` (algo más de un millón de euros) porque es la magnitud en la que coinciden las fuentes. Las cifras exactas difieren (1.073.296 / 1.073.316 euros) y una fuente partidaria eleva el perjuicio a 2.000.000 euros. Al no existir sentencia, ninguna cuantía está declarada judicialmente como probada.
+El campo `coste` se fija en `1070000` (algo más de un millón de euros) porque es la magnitud en la que coinciden las fuentes. Las cifras exactas difieren (1.073.296 / 1.073.316 euros) y una fuente partidaria eleva el perjuicio a 2.000.000 euros. Al no existir sentencia localizada, ninguna cuantía está declarada judicialmente como probada.
