@@ -56,7 +56,7 @@ documentos:
     titulo: "SAN 138/2025, de 5 de febrero (nº de resolución 4/2025; ECLI:ES:AN:2025:138): sentencia del 'cártel del fuego' de la Audiencia Nacional"
     filetype: "pdf"
     paginas: 94
-    nombre_fichero: "https://www.poderjudicial.es/search/AN/openDocument/fbeb4c70cd380ec4a0a8778d75e36f0d"
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fbeb4c70cd380ec4a0a8778d75e36f0d&encode=true&databasematch=AN"
 cronologia:
   - fecha: "2010-03-01"
     titulo: "Adjudicación a Avialsa del contrato valenciano de extinción de incendios"
