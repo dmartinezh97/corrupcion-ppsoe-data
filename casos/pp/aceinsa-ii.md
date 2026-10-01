@@ -1,48 +1,46 @@
 ---
 nombre: "Caso Aceinsa II"
 partido: PP
-completado: true
+completado: false
 año: 2012
-fechaInicio: 2012-07-01
-fechaFin: 2019-06-15
-estado: "cerrado con condenas"
+fechaInicio: 2012-07-20
+fechaFin: 2019-01-15
+estado: "sobreseimiento"
 descripcion: |
-  El Caso Aceinsa II se refiere a la adjudicación irregular del contrato de alumbrado público del Ayuntamiento de Salamanca a la empresa Aceinsa en julio de 2012, por un valor de 12 millones de euros. A pesar de que todos los informes técnicos municipales desaconsejaban la adjudicación, el concejal de Fomento Carlos García Carbayo consiguió un informe técnico favorable que permitió al equipo de gobierno del PP, presidido por el alcalde Alfonso Fernández Mañueco (actual presidente de la Junta de Castilla y León), anular la decisión de la mesa de contratación que había adjudicado el contrato a la empresa Etralux y entregárselo a Aceinsa.
+  El Caso Aceinsa II se refiere a la adjudicación del contrato de "mantenimiento y mejora de las instalaciones de alumbrado público" del Ayuntamiento de Salamanca a la empresa Aceinsa Movilidad, S.A., acordada por la Junta de Gobierno Local el 20 de julio de 2012. El contrato, de cuatro años prorrogables dos más, se estimó en 12 millones de euros. La empresa competidora Etralux había obtenido la propuesta inicial de la mesa de contratación, pero el Ayuntamiento revocó esa decisión; según la sentencia difundida por EFE, el consistorio requirió un informe al área de Medio Ambiente y le dio más valor que al emitido por el servicio técnico correspondiente, y la oferta de Aceinsa incurría en una baja desproporcionada que no quedó justificada.
 
-  La empresa Aceinsa presentó ofertas con bajas temerarias del 12-22% por debajo de los parámetros estándar del mercado. Los técnicos municipales advirtieron desde el principio que el servicio sería deficitario a esos precios, lo cual no es legal según la normativa de contratación pública. La mesa de contratación inicialmente adjudicó el contrato a Etralux, pero el concejal García Carbayo obtuvo un dictamen técnico contrario y la Junta de Gobierno, controlada exclusivamente por el PP, revocó la decisión del órgano técnico competente para favorecer a Aceinsa.
+  La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Castilla y León estimó el recurso de Etralux y anuló la adjudicación (sentencia conocida públicamente los días 1 y 2 de diciembre de 2017; Ganemos Salamanca sitúa el fallo el 27 de noviembre de 2017). El Tribunal Supremo no admitió el recurso de casación interpuesto por el Ayuntamiento, de modo que la anulación devino firme; la firmeza se conoció en septiembre de 2018 y el Pleno municipal la dio por confirmada en noviembre de ese año. En ejecución de sentencia, el Ayuntamiento quedó obligado a indemnizar a Etralux: el Pleno extraordinario de 16 de noviembre de 2018 habilitó una consignación de 327.192,96 euros, cantidad finalmente abonada (la prensa la cifró en torno a 300.000 euros).
 
-  En diciembre de 2017, el Tribunal Superior de Justicia de Castilla y León anuló el contrato por detectar "trato de favor" a Aceinsa. La empresa perjudicada, Etralux, había llevado el caso a los tribunales considerando que la adjudicación podría estar amañada. El 15 de junio de 2019, el Tribunal Supremo confirmó la anulación, rechazando el recurso del Ayuntamiento de Salamanca y obligando a las arcas municipales a indemnizar a Etralux con 700.000 euros, equivalente al 6% del valor total del contrato.
+  De forma paralela, Ganemos Salamanca presentó el 23 de octubre de 2017 una denuncia penal por un presunto delito de prevaricación contra el alcalde Alfonso Fernández Mañueco, los concejales Carlos Manuel García Carbayo y Fernando Rodríguez y el jefe de la Policía Local José Manuel Fernández Martín, por la prórroga del contrato de señalización con Aceinsa; la amplió el 19 de abril de 2018 al contrato de alumbrado. El Juzgado de Instrucción de Salamanca acordó el sobreseimiento provisional y archivo de las diligencias el 16 de octubre de 2018, al no apreciar indicios suficientes de prevaricación ni de malversación; el auto se conoció el 17 de octubre de 2018 y Ganemos anunció un recurso de reforma y una eventual apelación cuyo resultado no consta en fuentes verificadas.
 
-  Paralelamente, el partido político Ganemos Salamanca presentó querellas penales por prevaricación y malversación de fondos públicos contra el alcalde Alfonso Fernández Mañueco, los concejales Carlos García Carbayo y Fernando Rodríguez, y el jefe de la Policía Local José Manuel Fernández Martín. Sin embargo, el Juzgado de Instrucción nº 11 de Salamanca archivó la causa penal en octubre de 2018 al considerar que no existían indicios suficientes de la comisión de delitos, aunque los tribunales administrativos sí reconocieron la irregularidad en la adjudicación del contrato.
-
-resumen: "Adjudicación irregular de contrato de alumbrado público de 12 millones en Salamanca favoreciendo a Aceinsa frente a Etralux"
-coste: 700000
+resumen: "Anulación firme de la adjudicación del contrato de alumbrado público de Salamanca a Aceinsa (2012) e indemnización a Etralux; causa penal archivada sin condenas"
+coste: 327192
 lugar: "Salamanca, Castilla y León"
 tribunal:
   - "Tribunal Superior de Justicia de Castilla y León - Sala de lo Contencioso-Administrativo"
-  - "Tribunal Supremo - Sala Tercera (Contencioso-Administrativo)"
-  - "Juzgado de Instrucción nº 11 de Salamanca (causa penal archivada)"
+  - "Tribunal Supremo - Sala de lo Contencioso-Administrativo (recurso de casación no admitido)"
+  - "Juzgado de Instrucción de Salamanca (sobreseimiento provisional; las fuentes citan el nº 11 y, en menor medida, el nº 1)"
 numeroSentencia: ""
 implicados:
   - nombre: "Alfonso Fernández Mañueco"
-    cargo: "Alcalde de Salamanca (2011-2018), actual presidente de la Junta de Castilla y León"
-    rol: "Denunciado por prevaricación y malversación; causa archivada en octubre 2018"
+    cargo: "Alcalde de Salamanca (2011-2018); posteriormente presidente de la Junta de Castilla y León"
+    rol: "Denunciado por prevaricación y malversación; causa penal archivada por sobreseimiento provisional (octubre de 2018)"
 
-  - nombre: "Carlos García Carbayo"
-    cargo: "Concejal de Fomento, Patrimonio, Contratación, Coordinación Territorial y Tráfico; Teniente de Alcalde"
-    rol: "Consiguió informe técnico favorable para adjudicar a Aceinsa; actual alcalde de Salamanca desde 2018"
+  - nombre: "Carlos Manuel García Carbayo"
+    cargo: "Primer teniente de alcalde y concejal de Fomento, Patrimonio, Contratación, Coordinación Territorial y Tráfico del Ayuntamiento de Salamanca"
+    rol: "Responsable municipal de contratación en la adjudicación de 2012; denunciado; causa penal archivada (octubre de 2018)"
 
   - nombre: "Fernando Rodríguez"
-    cargo: "Concejal de Hacienda del Ayuntamiento de Salamanca"
-    rol: "Denunciado por prevaricación y malversación; causa archivada en octubre 2018"
+    cargo: "Concejal de Hacienda, Régimen Interior y Protección Ciudadana; teniente de alcalde y portavoz del equipo de Gobierno"
+    rol: "Denunciado por prevaricación y malversación; causa penal archivada (octubre de 2018)"
 
   - nombre: "José Manuel Fernández Martín"
     cargo: "Jefe de la Policía Local de Salamanca"
-    rol: "Denunciado por prevaricación; causa archivada en octubre 2018"
+    rol: "Denunciado por prevaricación; causa penal archivada (octubre de 2018)"
 
-  - nombre: "Ayuntamiento de Salamanca (PP)"
-    cargo: "Administración Local"
-    rol: "Condenado administrativamente a indemnizar a Etralux con 700.000 euros"
+  - nombre: "Ayuntamiento de Salamanca"
+    cargo: "Administración local"
+    rol: "Condenado en vía contencioso-administrativa a indemnizar a Etralux por la anulación del contrato (327.192,96 euros consignados)"
 
 tags:
   - "corrupción"
@@ -52,72 +50,100 @@ tags:
   - "bajas temerarias"
   - "contratación pública"
 
-impactoSocial: "El Caso Aceinsa II es uno de los casos emblemáticos de corrupción en Salamanca que afectó al actual presidente de Castilla y León, Alfonso Fernández Mañueco. Aunque la causa penal fue archivada, los tribunales administrativos reconocieron el trato de favor y la irregularidad en la adjudicación, obligando al Ayuntamiento a pagar 700.000 euros de indemnización. El caso se diferencia del Caso Aceinsa I (contrato de señalización viaria y eventos de 2011) por referirse específicamente al contrato de alumbrado público de 2012."
+impactoSocial: "El caso mantuvo en el debate público la adjudicación de contratos municipales en Salamanca y afectó políticamente a Alfonso Fernández Mañueco, después presidente de la Junta de Castilla y León. La vía contencioso-administrativa concluyó con la anulación firme del contrato y una indemnización a Etralux a cargo de las arcas municipales, mientras que la vía penal se cerró con un sobreseimiento provisional sin condenas, criticado por Ganemos Salamanca."
 
 documentos: []
 
 cronologia:
-  - fecha: 2012-07-01
-    titulo: "Adjudicación irregular del contrato de alumbrado público a Aceinsa"
-    descripcion: "El Ayuntamiento de Salamanca, gobernado por el PP con Alfonso Fernández Mañueco como alcalde, adjudica el contrato de alumbrado público a la empresa Aceinsa por valor de 12 millones de euros. La decisión se toma en Junta de Gobierno tras una apelación de una de las empresas competidoras, a pesar de las enormes bajas temerarias presentadas por Aceinsa (12-22% por debajo de parámetros estándar). El concejal Carlos García Carbayo consigue un informe técnico que contradice la decisión inicial de la mesa de contratación, que había adjudicado el contrato a Etralux. Los técnicos municipales habían advertido que el servicio sería deficitario a esos precios."
-    type: "investigación"
+  - fecha: 2012-07-20
+    titulo: "Adjudicación del contrato de alumbrado público a Aceinsa"
+    descripcion: "La Junta de Gobierno Local del Ayuntamiento de Salamanca, con Alfonso Fernández Mañueco como alcalde, adjudica a Aceinsa Movilidad el contrato de mantenimiento y mejora de las instalaciones de alumbrado público. El contrato, de cuatro años prorrogables dos más, se estima en 12 millones de euros. La mesa de contratación había propuesto inicialmente a Etralux; según la sentencia, el Ayuntamiento requirió un informe al área de Medio Ambiente y le otorgó más valor que al del servicio técnico correspondiente, y la baja ofertada por Aceinsa (La Crónica de Salamanca la cifra en el 22%) no quedó justificada."
+    type: "investigacion"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Aceinsa+II&numero=645"
+      - "https://www.lavanguardia.com/politica/20171201/433325782105/tsjcyl-anula-la-adjudicacion-del-servicio-de-alumbrado-publico-de-salamanca.html"
+      - "https://www.diariodeleon.es/castilla-y-leon/171202/536815/anulada-adjudicacion-alumbrado-salamanca.html"
     relevancia: "alta"
 
-  - fecha: 2017-12-01
-    titulo: "El TSJCyL anula el contrato por trato de favor a Aceinsa"
-    descripcion: "El Tribunal Superior de Justicia de Castilla y León anula el contrato de alumbrado público de 12 millones de euros adjudicado a Aceinsa en 2012, tras detectar un 'trato de favor' hacia esta empresa. El tribunal considera que las bajas temerarias presentadas por Aceinsa no fueron justificadas adecuadamente y que la decisión de la Junta de Gobierno del PP de revocar la adjudicación inicial a Etralux carecía de fundamento técnico suficiente. La sentencia obliga al Ayuntamiento a indemnizar a Etralux, la empresa que había impugnado judicialmente la adjudicación por considerarla amañada."
+  - fecha: 2017-10-23
+    titulo: "Ganemos presenta una denuncia penal por la prórroga del contrato de señalización"
+    descripcion: "Ganemos Salamanca interpone una denuncia penal por un presunto delito de prevaricación contra el alcalde Alfonso Fernández Mañueco, el concejal de Fomento Carlos Manuel García Carbayo, el edil de Hacienda Fernando Rodríguez y el jefe de la Policía Local José Manuel Fernández Martín, por la prórroga del contrato de señalización con Aceinsa."
+    type: "denuncia"
+    urls:
+      - "https://ganemosalamanca.es/denuncia-prevaricacion-manueco-pp/"
+    relevancia: "media"
+
+  - fecha: 2017-11-27
+    titulo: "El TSJCyL anula la adjudicación del alumbrado público a Aceinsa"
+    descripcion: "La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Castilla y León estima el recurso de Etralux, deja sin efecto el acuerdo de la Junta de Gobierno de 20 de julio de 2012 y declara que el contrato debía adjudicarse a la empresa recurrente. La sentencia concluye que la baja desproporcionada de Aceinsa no se justificó y cuestiona que se diera más valor al informe del área de Medio Ambiente que al del servicio correspondiente. La prensa local y Ganemos describieron la actuación como un 'trato de favor'. El fallo se conoció públicamente el 1 y 2 de diciembre de 2017; la fecha de 27 de noviembre de 2017 procede de Ganemos y no ha podido confirmarse en una fuente judicial directa."
     type: "sentencia"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Aceinsa+II&numero=645"
+      - "https://www.lavanguardia.com/politica/20171201/433325782105/tsjcyl-anula-la-adjudicacion-del-servicio-de-alumbrado-publico-de-salamanca.html"
+      - "https://www.diariodeleon.es/castilla-y-leon/171202/536815/anulada-adjudicacion-alumbrado-salamanca.html"
+      - "https://smart-lighting.es/tsjcyl-anula-adjudicacion-alumbrado-publico-salamanca-aceinsa/"
     relevancia: "alta"
 
-  - fecha: 2017-12-23
-    titulo: "Ganemos Salamanca presenta querella criminal contra Mañueco y concejales"
-    descripcion: "El partido político Ganemos Salamanca presenta una querella en los Juzgados de Salamanca contra el alcalde Alfonso Fernández Mañueco, los concejales Carlos García Carbayo y Fernando Rodríguez, y el jefe de la Policía Local José Manuel Fernández Martín por presuntos delitos de prevaricación y malversación de fondos públicos en relación con el contrato de alumbrado público adjudicado irregularmente a Aceinsa. La querella se fundamenta en que el equipo de gobierno del PP adjudicó el contrato a pesar de tener todos los informes municipales en contra."
-    type: "investigación"
+  - fecha: 2018-02-05
+    titulo: "El juzgado admite a trámite la denuncia de Ganemos"
+    descripcion: "El Juzgado de Instrucción admite a trámite la denuncia y abre diligencias previas para investigar los hechos. Según Ganemos, la defensa del alcalde alegó su condición de aforado como procurador en las Cortes de Castilla y León."
+    type: "investigacion"
     urls:
-      - "https://ganemosalamanca.es/caso-aceinsa-presunta-malversacion-de-manueco-que-habria-regalado-800-000-e-a-su-empresa-amiga/"
+      - "https://ganemosalamanca.es/manueco-reclama-privilegio-aforado-ante-presunta-prevaricacion-caso-aceinsa-una-demanda-ya-ha-admitida-tramite-juzgado/"
     relevancia: "media"
 
-  - fecha: 2018-02-01
-    titulo: "Admitida a trámite la querella de Ganemos"
-    descripcion: "El Juzgado de Instrucción nº 11 de Salamanca admite a trámite la querella presentada por Ganemos Salamanca y acuerda la apertura de diligencias previas para investigar los presuntos delitos de prevaricación y malversación de fondos públicos denunciados. Se inician las actuaciones judiciales para determinar si existió responsabilidad penal en la adjudicación irregular del contrato de alumbrado público a Aceinsa."
-    type: "investigación"
+  - fecha: 2018-04-19
+    titulo: "Ganemos amplía la denuncia al contrato de alumbrado"
+    descripcion: "Ganemos Salamanca amplía su denuncia penal para incluir la adjudicación del contrato de alumbrado público, por considerar que existieron indicios de prevaricación al forzarse la adjudicación a Aceinsa en contra de los informes técnicos y del órgano de contratación. La ampliación se dirige contra las mismas cuatro personas."
+    type: "denuncia"
     urls:
-      - "https://www.elespanol.com/castilla-y-leon/region/salamanca/20181017/no-caso-aceinsa-juzgado-desestima-denuncias-ganemos/346217097_0.html"
+      - "https://ganemosalamanca.es/caso-aceinsa-nuevos-indicios-de-presunta-prevaricacion-del-alcalde-manueco/"
     relevancia: "media"
 
-  - fecha: 2018-04-01
-    titulo: "Ganemos amplía la querella con nuevos indicios de prevaricación"
-    descripcion: "Ganemos Salamanca amplía su querella criminal contra el alcalde Alfonso Fernández Mañueco y los concejales del PP, aportando nuevos indicios de presunta prevaricación relacionados con otro contrato municipal con Aceinsa. La formación política denuncia un patrón de favorecimiento sistemático a esta empresa en múltiples adjudicaciones públicas del Ayuntamiento de Salamanca."
-    type: "investigación"
+  - fecha: 2018-09-04
+    titulo: "El Tribunal Supremo no admite el recurso de casación del Ayuntamiento"
+    descripcion: "El Tribunal Supremo no admite el recurso de casación interpuesto por el Ayuntamiento de Salamanca contra la sentencia del TSJCyL, con lo que la anulación del contrato deviene firme. La firmeza se conoce a través de Ganemos y de La Crónica de Salamanca ese día; el auto de inadmisión no consta con fecha ni número en las fuentes consultadas."
+    type: "recurso"
     urls:
-      - "https://www.elespanol.com/castilla-y-leon/region/salamanca/20180829/ganemos-ampliara-querella-caso-aceinsa/333968009_0.html"
-    relevancia: "media"
-
-  - fecha: 2018-05-01
-    titulo: "Ganemos aporta nuevas pruebas del daño a las arcas municipales"
-    descripcion: "Ganemos Salamanca presenta ante el juzgado nuevas pruebas documentales que, según la formación política, evidencian que la adjudicación irregular del contrato de alumbrado público a Aceinsa causó un grave perjuicio económico a las arcas municipales. Las pruebas incluyen informes técnicos que advertían de las consecuencias económicas negativas de adjudicar el contrato con las condiciones ofertadas por Aceinsa."
-    type: "investigación"
-    urls:
-      - "https://ganemosalamanca.es/caso-aceinsa-presunta-malversacion-de-manueco-que-habria-regalado-800-000-e-a-su-empresa-amiga/"
-    relevancia: "baja"
+      - "https://lacronicadesalamanca.com/214479-otro-quebranto-de-700-000e-por-adjudicar-ilegalmente-el-contrato-de-alumbrado-a-aceinsa/"
+      - "https://ganemosalamanca.es/el-ayuntamiento-debera-pagar-700-000e-por-adjudicar-ilegalmente-el-contrato-de-alumbrado-a-aceinsa/"
+    relevancia: "alta"
 
   - fecha: 2018-10-16
-    titulo: "Archivada la causa penal contra Mañueco y los concejales del PP"
-    descripcion: "El Juzgado de Instrucción nº 11 de Salamanca acuerda el archivo provisional de la causa penal contra Alfonso Fernández Mañueco, Carlos García Carbayo, Fernando Rodríguez y José Manuel Fernández Martín. El juez considera que, aunque existieron irregularidades administrativas en la adjudicación del contrato (reconocidas por los tribunales contencioso-administrativos), no se aprecian indicios suficientes de la comisión de delitos penales de prevaricación o malversación. La decisión se notifica a todas las partes el 16 de octubre de 2018. Ganemos Salamanca critica el archivo, señalando la doble vara de medir entre la justicia administrativa y la penal."
-    type: "investigación"
-    urls:
-      - "https://www.elespanol.com/castilla-y-leon/region/salamanca/20181017/no-caso-aceinsa-juzgado-desestima-denuncias-ganemos/346217097_0.html"
-    relevancia: "alta"
-
-  - fecha: 2019-06-15
-    titulo: "El Tribunal Supremo confirma la anulación del contrato y la condena"
-    descripcion: "El Tribunal Supremo rechaza el recurso del Ayuntamiento de Salamanca y confirma definitivamente la sentencia del TSJCyL que anuló el contrato de alumbrado público adjudicado a Aceinsa en 2012. La resolución judicial obliga al Ayuntamiento a indemnizar a la empresa Etralux con 700.000 euros, equivalente al 6% del valor total del contrato de 12 millones de euros. El Supremo ratifica que existió un trato de favor hacia Aceinsa y que la adjudicación se realizó contraviniendo los informes técnicos y la decisión inicial del órgano de contratación. Esta sentencia pone fin definitivo a la vía contencioso-administrativa del caso."
+    titulo: "Sobreseimiento provisional y archivo de la causa penal"
+    descripcion: "El Juzgado de Instrucción de Salamanca dicta un auto de sobreseimiento provisional y archivo de las diligencias abiertas por la prórroga del contrato de señalización y por la adjudicación del contrato de alumbrado. El juez no aprecia indicios suficientes de prevaricación ni de malversación y sostiene que la gestión municipal pudo ser criticable pero no delictiva. El auto se conoce el 17 de octubre de 2018 y Ganemos anuncia un recurso de reforma y una eventual apelación."
     type: "sentencia"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Aceinsa+II&numero=645"
+      - "https://www.elespanol.com/castilla-y-leon/region/salamanca/20181017/no-caso-aceinsa-juzgado-desestima-denuncias-ganemos/346217097_0.html"
+      - "https://ganemosalamanca.es/las-legales-reformas-del-pp-impiden-continuar-la-investigacion-judicial-del-caso-aceinsa/"
+      - "https://www.elnortedecastilla.es/salamanca/ganemos-recurrira-archivo-20181018123448-nt.html"
     relevancia: "alta"
+
+  - fecha: 2018-11-16
+    titulo: "El Pleno municipal consigna 327.192,96 euros para indemnizar a Etralux"
+    descripcion: "El Pleno extraordinario del Ayuntamiento de Salamanca aprueba una habilitación de crédito que incluye la consignación de 327.192,96 euros para hacer frente a la indemnización a Etralux por la anulación del contrato de alumbrado, en ejecución de la sentencia del TSJCyL. En el debate se confirma que el recurso de casación del Ayuntamiento no fue admitido por el Tribunal Supremo. La prensa cifró finalmente el pago en torno a 300.000 euros."
+    type: "sentencia"
+    urls:
+      - "https://www.aytosalamanca.es/documents/20119/1383370/Acta+N%C2%BA+12.+Sesi%C3%B3n+extraordinaria+de+16-11-2018.pdf/827df943-7df4-b793-d319-337e163231e9"
+    relevancia: "media"
+
+  - fecha: 2019-01-15
+    titulo: "Se conoce el pago de la indemnización a Etralux"
+    descripcion: "La prensa local informa de que el Ayuntamiento ha abonado a Etralux la indemnización derivada de la anulación del contrato, cifrada en torno a 300.000 euros. Ganemos exige que los responsables municipales respondan con su patrimonio personal y pide acabar con la 'impunidad' del caso. La fecha exacta del abono no consta en fuentes verificadas."
+    type: "sentencia"
+    urls:
+      - "https://lacronicadesalamanca.com/228397-otro-despilfarro-de-300-000-euros-en-el-ayuntamiento/"
+      - "https://www.elnortedecastilla.es/salamanca/ganemos-reclama-ediles-20190122080439-nt.html"
+    relevancia: "media"
 ---
+
+# Caso Aceinsa II
+
+## Notas de verificación
+
+- **Dos vías distintas.** La ficha distingue la vía contencioso-administrativa (anulación firme del contrato e indemnización a Etralux) de la vía penal (denuncia de Ganemos, sobreseída provisionalmente). No consta ninguna condena penal: los implicados fueron denunciados e investigados, pero la causa se archivó en octubre de 2018.
+- **Tribunal Supremo.** El recurso de casación del Ayuntamiento no fue admitido, según Ganemos y La Crónica de Salamanca (4 de septiembre de 2018) y según el debate del Pleno municipal de 16 de noviembre de 2018. No se ha localizado el auto de inadmisión con fecha y número exactos; por eso `numeroSentencia` queda vacío.
+- **Sentencia del TSJCyL.** EFE y otros medios difundieron la sentencia el 1 y 2 de diciembre de 2017; Ganemos sitúa el fallo el 27 de noviembre de 2017. Se usa esta última fecha con reservas.
+- **Indemnización.** El TSJCyL fijó la indemnización en el 6 % del contrato (unos 720.000 euros según la prensa de febrero de 2018), pero la cantidad finalmente consignada y abonada fue muy inferior: 327.192,96 euros según el acta del Pleno de 16 de noviembre de 2018, cifra que la prensa de enero de 2019 redondeó en torno a 300.000 euros. El campo `coste` recoge la cantidad documentada en el acta municipal.
+- **Juzgado de Instrucción.** El Español y Salamancartvaldia citan el Juzgado de Instrucción nº 11 de Salamanca; La Crónica de Salamanca y el acta del Pleno de noviembre de 2018 citan el nº 1. No se ha podido confirmar cuál es correcto.
+- **Recurso contra el archivo.** Ganemos anunció un recurso de reforma y, en su caso, apelación ante la Audiencia Provincial. No se ha localizado el resultado de ese recurso.
+- **Documentos.** No se han identificado documentos del caso publicados con los metadatos que exige el esquema, por lo que `documentos` queda vacío. Sí se han descargado y comprobado las actas municipales de 7 de septiembre y 16 de noviembre de 2018.
+- **Novedades 2025-2026.** No se han encontrado resoluciones ni hechos nuevos del caso en 2025 o 2026; la actividad reciente de Aceinsa corresponde a nuevas adjudicaciones de alumbrado ajenas a este procedimiento.
