@@ -57,6 +57,7 @@ cronologia:
     descripcion: "Los hechos probados reproducidos por el Tribunal Supremo declaran que Cartagena recibió del concejal de Servicios Sociales 6.166.426 pesetas el 7 de abril de 1993 y otros 2.000.000 de pesetas el 11 de mayo, procedentes del superávit de la gestión del hospital por las Hermanas Carmelitas, y que no los ingresó en las arcas municipales. Los dos pagos suman 8.166.426 pesetas (49.081 euros según la sentencia). El País había situado la entrega el 3 de abril; se adopta aquí la fecha del primer pago fijada en los hechos probados, sin atribuirle el importe íntegro."
     type: "resumen"
     urls:
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=072ceaf6e36e533c&encode=true&databasematch=TS"
       - "https://elpais.com/diario/2008/07/18/cvalenciana/1216408677_850215.html"
       - "https://observatoricorrupcio.org/es/casos/apropiacion-fondos-de-las-hermanas-carmelitas-de-orihuela/"
 
