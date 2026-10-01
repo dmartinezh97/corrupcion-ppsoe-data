@@ -5,7 +5,7 @@ completado: false
 año: 2012
 fechaInicio: 2012-03-30
 fechaFin: ""
-estado: "anulado por el Tribunal Constitucional (2017)"
+estado: "anulado"
 resumen: "Amnistía fiscal (Declaración Tributaria Especial) aprobada en 2012 por el Gobierno del PP mediante el Real Decreto-ley 12/2012 y anulada por el Tribunal Constitucional en 2017 (STC 73/2017)"
 descripcion: "Medida tributaria excepcional del Gobierno de España presidido por Mariano Rajoy (PP) que permitió regularizar rentas no declaradas mediante un pago único del 10 %, sin sanciones, intereses ni recargos. Según los datos oficiales afloró en torno a 40.000 millones de euros y recaudó 1.193,6 millones. El Tribunal Constitucional la declaró inconstitucional y nula en 2017 por vulnerar el artículo 86.1 CE, sin revisar las regularizaciones firmes."
 lugar: "España"
@@ -22,14 +22,13 @@ implicados:
     rol: "Beneficiario conocido de la amnistía: presentó una Declaración Tributaria Especial a nombre de la sociedad Tesedul; condenado en firme por el Tribunal Supremo en el caso Gürtel (2020)"
   - nombre: "Rodrigo Rato"
     cargo: "Exvicepresidente del Gobierno y expresidente de Bankia"
-    rol: "Beneficiario conocido de la amnistía; condenado por la Audiencia Provincial de Madrid (20-12-2024, sentencia no firme, recurrida ante el Supremo) por tres delitos fiscales, blanqueo y corrupción entre particulares; su DTE no incluía rentas defraudadas según la sentencia"
+    rol: "Beneficiario conocido de la amnistía; condenado por la Audiencia Provincial de Madrid (20-12-2024) por tres delitos fiscales, blanqueo y corrupción entre particulares; la última información disponible indica que la sentencia fue recurrida ante el Tribunal Supremo en 2025 y no consta resolución posterior; su DTE no incluía rentas defraudadas según la sentencia"
 tags:
   - "corrupción"
   - "evasión fiscal"
   - "amnistía fiscal"
   - "fraude"
 impactoSocial: "Generó un amplio rechazo social y político. Los sindicatos de técnicos de Hacienda (Gestha) y parte de la opinión pública la consideraron un trato de favor a grandes defraudadores y una quiebra de la igualdad tributaria; el Tribunal Constitucional censuró en 2017 que legitimara el fraude y colocara a los incumplidores en mejor posición que a los contribuyentes que sí cumplieron."
-imagen: "/images/caso-amnistia-fiscal.jpg"
 documentos: []
 cronologia:
   - fecha: 2012-03-30
@@ -69,11 +68,18 @@ cronologia:
     type: "sentencia"
     relevancia: "alta"
   - fecha: 2025-07-16
-    titulo: "El 'caso Montoro' (Tarragona) saca a la luz nuevos beneficiarios"
-    descripcion: "Se levanta el secreto de sumario de la causa del Juzgado de Instrucción nº 2 de Tarragona contra Cristóbal Montoro y altos cargos de Hacienda por presuntos delitos de tráfico de influencias y favores fiscales a empresas gasísticas (causa distinta de la amnistía). En el sumario consta un informe de la AEAT sobre beneficiarios de la DTE y se conoce, entre otros, la amnistía de José Manuel Fernández Norniella (1.882.100 euros)."
+    titulo: "El 'caso Montoro' (Tarragona) sale a la luz tras siete años de secreto"
+    descripcion: "El Juzgado de Instrucción nº 2 de Tarragona levanta el secreto de sumario y notifica la imputación de Cristóbal Montoro y otros altos cargos de Hacienda por presuntos delitos de cohecho, tráfico de influencias, prevaricación y falsedad documental en relación con presuntos favores fiscales a empresas gasísticas. Es una causa distinta de la amnistía fiscal."
+    urls:
+      - "https://www.elconfidencial.com/espana/2025-07-16/un-juez-imputa-a-montoro-y-a-todo-su-equipo-por-cambiar-leyes-a-cambio-de-pagos_4174482/"
+      - "https://elpais.com/espana/2025-07-17/el-caso-montoro-de-una-denuncia-anonima-contra-una-empresa-de-gas-al-veto-de-anticorrupcion-a-que-la-fiscal-husmease-en-el-correo-del-ministro.html"
+    type: "investigación"
+    relevancia: "media"
+  - fecha: 2025-08-07
+    titulo: "El 'caso Montoro' destapa la amnistía de Fernández Norniella"
+    descripcion: "Trasciende que el sumario del 'caso Montoro' incluye un informe de la Agencia Tributaria sobre beneficiarios de la Declaración Tributaria Especial de 2012; entre los casos conocidos figura el del exalto cargo José Manuel Fernández Norniella, que afloró 1,88 millones de euros que tenía en Suiza acogiéndose a la amnistía."
     urls:
       - "https://www.eldiario.es/economia/investigacion-caso-montoro-destapa-amnistia-fiscal-ex-alto-cargo-jose-maria-aznar_1_12518749.html"
-      - "https://elpais.com/espana/2025-07-17/el-caso-montoro-de-una-denuncia-anonima-contra-una-empresa-de-gas-al-veto-de-anticorrupcion-a-que-la-fiscal-husmease-en-el-correo-del-ministro.html"
     type: "investigación"
     relevancia: "media"
 ---
@@ -124,14 +130,15 @@ La medida permitía a los contribuyentes del IRPF, del Impuesto sobre Sociedades
 - Desde 2018 el Gobierno socialista descartó publicar la lista de beneficiarios por falta de cobertura legal retroactiva.
 
 ### 2025
-- **Julio de 2025**: se levanta el secreto del "caso Montoro" (Juzgado de Instrucción nº 2 de Tarragona), una causa **distinta** sobre presuntos favores fiscales a empresas gasísticas, en cuyo sumario aparece un informe de la AEAT sobre beneficiarios de la DTE.
+- **Julio de 2025**: se levanta el secreto del "caso Montoro" (Juzgado de Instrucción nº 2 de Tarragona), una causa **distinta** sobre presuntos favores fiscales a empresas gasísticas.
+- **7 de agosto de 2025**: trasciende que el sumario incluye un informe de la AEAT sobre beneficiarios de la DTE; entre los casos conocidos figura el de José Manuel Fernández Norniella, que afloró 1,88 millones de euros.
 - **Octubre de 2025**: el Ministerio de Hacienda responde a ERC que no existe "expediente alguno" sobre las amnistías fiscales de Montoro.
 
 ## Implicados principales
 
 - **Cristóbal Montoro** (Ministro de Hacienda y Administraciones Públicas, 2011-2018): impulsor de la amnistía. Figura como investigado en el "caso Montoro" de Tarragona (por hechos distintos, relacionados con presuntos favores fiscales a empresas gasísticas); **no consta condena por la amnistía**, que fue anulada por el TC pero sin efectos revisores sobre las regularizaciones firmes.
 - **Luis Bárcenas** (extesorero y exsenador del PP): beneficiario conocido de la DTE, presentada a nombre de la sociedad Tesedul (en 2013 su defensa cifró en 10.988.040 euros lo regularizado; el Tribunal Supremo dio por probado que la DTE se presentó a nombre de Tesedul reflejando de forma incompleta las rentas de Bárcenas e ingresando 1.098.804 euros). Fue **condenado en firme por el Tribunal Supremo en 2020** (caso Gürtel, "Época I", 29 años y 1 mes de prisión).
-- **Rodrigo Rato** (exvicepresidente del Gobierno y expresidente de Bankia): beneficiario conocido de la amnistía. Fue **condenado por la Audiencia Provincial de Madrid el 20 de diciembre de 2024** (4 años, 9 meses y 1 día) por tres delitos contra la Hacienda Pública, blanqueo de capitales y corrupción entre particulares; **la sentencia no es firme** (recurrida ante el Supremo en 2025). El tribunal declara que su Declaración Tributaria Especial "no incluía la cantidad defraudada" de 2006.
+- **Rodrigo Rato** (exvicepresidente del Gobierno y expresidente de Bankia): beneficiario conocido de la amnistía. Fue **condenado por la Audiencia Provincial de Madrid el 20 de diciembre de 2024** (4 años, 9 meses y 1 día) por tres delitos contra la Hacienda Pública, blanqueo de capitales y corrupción entre particulares. La última información disponible indica que la sentencia **fue recurrida ante el Tribunal Supremo en 2025** y no consta una resolución posterior en las fuentes consultadas. El tribunal declara que su Declaración Tributaria Especial "no incluía la cantidad defraudada" de 2006.
 
 La lista completa de beneficiarios no es pública. Solo ha trascendido alrededor de un centenar de nombres (menos del 0,3 % de los declarantes) a través de procedimientos judiciales e investigaciones periodísticas.
 
@@ -146,7 +153,7 @@ La lista completa de beneficiarios no es pública. Solo ha trascendido alrededor
 - **Volumen aflorado**: en torno a **40.000 millones de euros** (estimación oficial del Gobierno).
 - **Recaudación efectiva**: **1.193.598.829 euros** (según los datos detallados aportados por el Gobierno en el Congreso), frente a los 2.500 millones previstos.
 - **Tipo efectivo**: alrededor del **3 %**.
-- **Comprobaciones posteriores**: Hacienda inspeccionó unas 3.545 declaraciones (en torno a un tercio de los acogidos) y detectó unos **250 millones de euros** defraudados, según reconoció el propio Montoro en el Congreso.
+- **Comprobaciones posteriores**: Hacienda inspeccionó unas 3.545 declaraciones de las más de 31.000 presentadas y detectó unos **250 millones de euros** defraudados, según reconoció el propio Montoro en el Congreso.
 - **Nota sobre el campo `coste`**: en esta ficha **no se fija un valor único de "coste"** porque no existe una cifra verificada de perjuicio neto y las magnitudes disponibles (volumen aflorado y recaudación) no son equiparables: el aflorado no es dinero perdido y la recaudación es un ingreso, no un coste. Las estimaciones de la minoración de ingresos varían según la fuente y no se han consolidado oficialmente.
 
 ## Impacto político y social
@@ -159,7 +166,7 @@ La lista completa de beneficiarios no es pública. Solo ha trascendido alrededor
 
 ## Estado actual
 
-La amnistía fiscal de 2012 **no tiene una causa judicial propia abierta**: la norma fue **anulada por el Tribunal Constitucional en 2017** y las regularizaciones firmes no fueron revisadas. Subsisten, en cambio, procedimientos por otros hechos en los que se ha conocido el uso de la DTE por algunos investigados, y la causa de Tarragona contra Cristóbal Montoro (por favores fiscales a empresas gasísticas) sigue en instrucción en 2026, aunque es un caso distinto.
+La amnistía fiscal de 2012 **no tiene una causa judicial propia abierta**: la norma fue **anulada por el Tribunal Constitucional en 2017** y las regularizaciones firmes no fueron revisadas. Subsisten, en cambio, procedimientos por otros hechos en los que se ha conocido el uso de la DTE por algunos investigados; la causa de Tarragona contra Cristóbal Montoro (por favores fiscales a empresas gasísticas) continuaba en instrucción según la última información pública disponible, aunque es un caso distinto.
 
 ## Incertidumbres y límites
 
@@ -188,6 +195,7 @@ La amnistía fiscal de 2012 **no tiene una causa judicial propia abierta**: la n
 - [El País (9-6-2017): El Constitucional anula la amnistía fiscal y deja en evidencia a Montoro](https://elpais.com/politica/2017/06/08/actualidad/1496933024_470959.html)
 - [elDiario.es (22-11-2023): Los beneficiarios de la amnistía que han salido a la luz](https://www.eldiario.es/economia/rato-franco-narco-100-beneficiarios-amnistia-fiscal-rajoy-han-salido-luz_1_10709088.html)
 - [elDiario.es (7-8-2025): El 'caso Montoro' destapa la amnistía de Fernández Norniella](https://www.eldiario.es/economia/investigacion-caso-montoro-destapa-amnistia-fiscal-ex-alto-cargo-jose-maria-aznar_1_12518749.html)
+- [El Confidencial (16-7-2025): Un juez imputa a Montoro y a todo su equipo por cambiar leyes a cambio de pagos](https://www.elconfidencial.com/espana/2025-07-16/un-juez-imputa-a-montoro-y-a-todo-su-equipo-por-cambiar-leyes-a-cambio-de-pagos_4174482/)
 - [El País (17-7-2025): El 'caso Montoro', siete años de pesquisas secretas](https://elpais.com/espana/2025-07-17/el-caso-montoro-de-una-denuncia-anonima-contra-una-empresa-de-gas-al-veto-de-anticorrupcion-a-que-la-fiscal-husmease-en-el-correo-del-ministro.html)
 
 ### Documentación adicional
