@@ -4,7 +4,7 @@ partido: PP
 completado: false
 año: 2011
 fechaFin: ""
-estado: "Desconocido: no se ha localizado resolución que acredite un estado canónico ni el cierre global del caso. Consta, por un lado, el sobreseimiento provisional de la pieza política por cohecho y tráfico de influencias, conocido en abril de 2012, cuya firmeza no se ha localizado; y, por otro, la sentencia de conformidad de la causa de la empresa por delito medioambiental, conocida en octubre de 2017, cuya firmeza y cumplimiento tampoco se han localizado"
+estado: "desconocido"
 descripcion: |
   El caso Arena (también citado como Operación Arena) fue una investigación policial y judicial desarrollada en Ferrol (A Coruña, Galicia) a partir de mayo de 2011. Se inició por la importación de áridos presuntamente contaminantes que la empresa Manmer S.L., administrada por el empresario de Pontedeume Fermín Duarte Rodríguez, introducía desde Holanda a través del puerto exterior de Ferrol para fabricar asfalto. Según los datos difundidos por las fuentes periodísticas, la firma importó 712.957 toneladas de residuos asfálticos de Holanda entre julio de 2009 y junio de 2010. Una primera denuncia de la Asociación Gallega de Áridos (AGA) fue archivada en 2010 por la Fiscalía de Medio Ambiente, que consideró que los datos aportados no eran indicativos de delito y desaconsejó el uso del material; una segunda denuncia de la AGA reactivó la causa en 2011, cuando el Juzgado de Instrucción nº 3 de Ferrol ordenó intervenir el teléfono de Duarte.
 
