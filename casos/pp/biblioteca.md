@@ -9,13 +9,13 @@ estado: "desconocido"
 descripcion: |
   La Operación Biblioteca, desplegada en noviembre de 2008, destapó una presunta trama de corrupción en la contratación pública del Ayuntamiento de Librilla (Murcia), municipio gobernado por el Partido Popular. La investigación la dirigió el Juzgado de Instrucción número 6 de Murcia y la ejecutó la Unidad Central Operativa (UCO) de la Guardia Civil a partir de una denuncia de la Fiscalía. Se investigó la adjudicación presuntamente irregular de contratos municipales —correspondientes al periodo 2001-2007— a empresas del entramado societario vinculado al funcionario autonómico en excedencia José Luis Cano Valverde, a cambio del pago de comisiones a cargos y funcionarios municipales. Entre los contratos cuestionados figuraba la redacción del Plan General de Ordenación Municipal (PGOM), adjudicado a la empresa ACADI (Asesores de Calidad y Desarrollo para la Ingeniería).
 
-  Según los investigadores, el entramado se articuló a través de sociedades como ACADI y Control & Gis, participadas por Cano Valverde y por el ingeniero de caminos Domingo Peñalver Rojo, para adjudicarse contratos y simular competencia en las licitaciones. La primera estimación policial, difundida por EFE en noviembre de 2008, situó en unos 7 millones de euros los beneficios presuntamente obtenidos por la trama y en unos 1,5 millones de euros las comisiones que habrían percibido los responsables municipales. Conviene precisar que el campo «coste» de esta ficha (7.000.000 €) recoge únicamente esa estimación policial de beneficios de 2008: no es un daño patrimonial cuantificado ni una cantidad declarada judicialmente. En 2020, el escrito de acusación de la Fiscalía cifró en unos 700.000 euros la malversación —el 20% de los casi 3,5 millones de euros que Peñalver habría facturado a través de ACADI entre 2005 y 2007—, atribuyó 570.000 euros en comisiones al exalcalde, al exteniente de alcalde y al gerente de la sociedad municipal, y reclamó multas por casi cuatro millones de euros. No consta que se haya dictado sentencia firme en el procedimiento, de modo que ninguna de estas cuantías ha sido declarada judicialmente como probada; responden a categorías distintas (beneficios estimados, contratos facturados, comisiones atribuidas y multas solicitadas) y no deben sumarse entre sí.
+  Según los investigadores, el entramado se articuló a través de sociedades como ACADI y Control & Gis, participadas por Cano Valverde y por el ingeniero de caminos Domingo Peñalver Rojo, para adjudicarse contratos y simular competencia en las licitaciones. La primera estimación policial, difundida por EFE en noviembre de 2008, situó en unos 7 millones de euros los beneficios presuntamente obtenidos por la trama y en unos 1,5 millones de euros las comisiones que habrían percibido los responsables municipales. Conviene precisar que el campo «coste» de esta ficha (7.000.000 €) recoge únicamente esa estimación policial de beneficios de 2008: no es un daño patrimonial cuantificado ni una cantidad declarada judicialmente. En 2020, el escrito de acusación de la Fiscalía cifró en unos 700.000 euros la malversación —el 20% de los casi 3,5 millones de euros que Peñalver habría facturado a través de ACADI entre 2005 y 2007—, atribuyó 570.000 euros en comisiones al exalcalde, al exteniente de alcalde y al gerente de la sociedad municipal, y reclamó multas por casi cuatro millones de euros. No se ha localizado una sentencia que declare probadas estas cuantías; responden a categorías distintas (beneficios estimados, contratos facturados, comisiones atribuidas y multas solicitadas) y no deben sumarse entre sí.
 
   En la primera fase de la operación (18 de noviembre de 2008) fueron detenidas cinco personas y practicados nueve registros; en una segunda fase (20 de noviembre) se detuvo al alcalde José Martínez García, al primer teniente de alcalde y concejal de Urbanismo Pedro Martínez Muñoz y al abogado Cesáreo Gil de Pareja Otón, asesor jurídico municipal hasta 2006 y después contratado por ACADI. El juez decretó prisión provisional sin fianza para el alcalde, el concejal, el gerente de IDL José Andrés Cortés Otálora y el funcionario José Luis Cano Valverde, que salieron de prisión en diciembre de 2008. Ese mismo mes dimitieron el alcalde y el concejal de Urbanismo. En enero de 2010, Cano Valverde falleció en un accidente de motocicleta, extinguiéndose su responsabilidad penal.
 
   El 30 de septiembre de 2014, el juzgado transformó las diligencias en procedimiento abreviado —auto dictado y notificado ese mismo día, según la fuente periodística— y concretó los indicios contra 15 imputados por delitos de cohecho, prevaricación continuada, falsedad documental y otros; el auto citaba, entre los indicios, la entrega de 40.000 euros en julio de 2007 al alcalde por parte del socio de ACADI Domingo Peñalver, indicio que no es un hecho probado. La Audiencia Provincial fue sobreseyendo la causa respecto de algunos encausados: en junio de 2017, el exconcejal Francisco Navarro Warren, y en junio de 2020, el exsecretario-interventor Marcos Marín Tovar. En febrero de 2020 la Fiscalía formuló su escrito de acusación contra catorce personas, con peticiones que sumaban casi 74 años de prisión, y en mayo de 2020 el juzgado acordó la apertura de juicio oral contra quince acusados y fianzas de cuatro millones de euros. En marzo de 2023 la causa con catorce procesados se remitió a la Audiencia Provincial de Murcia para su enjuiciamiento.
 
-  A fecha de 1 de octubre de 2026 no se ha localizado el resultado de la vista fijada para el 6 de marzo de 2026. El último estado documentado del procedimiento es el de la propia vista: la Sección Segunda de la Audiencia Provincial de Murcia la fijó para explorar un posible acuerdo de conformidad entre las partes, advirtiendo de que, si no se alcanzaba, el juicio se señalaría en una fecha posterior. Se desconoce, por tanto, si la causa sigue pendiente de juicio, si se celebró el juicio, si hubo conformidad o si se ha dictado sentencia; tampoco consta una resolución firme. La ausencia de noticias posteriores no permite afirmar ninguno de esos extremos en un sentido ni en otro.
+  A fecha de 1 de octubre de 2026 no se ha localizado el resultado de la vista fijada para el 6 de marzo de 2026. El último dato documentado del procedimiento es el señalamiento de la vista: la Sección Segunda de la Audiencia Provincial de Murcia la fijó para explorar un posible acuerdo de conformidad entre las partes, advirtiendo de que, si no se alcanzaba, el juicio se señalaría en una fecha posterior. Se desconoce, por tanto, si la causa sigue pendiente de juicio, si se celebró el juicio, si hubo conformidad o si se ha dictado sentencia; tampoco consta una resolución firme. La ausencia de noticias posteriores no permite afirmar ninguno de esos extremos en un sentido ni en otro.
 
   La instrucción de este caso derivó en piezas separadas a partir de la documentación intervenida, entre ellas el caso Líber (Aledo) y el caso Consejerías, que cuentan con ficha propia, así como en la pieza de Roblecillo (Caravaca de la Cruz).
 
@@ -29,11 +29,11 @@ numeroSentencia: ""
 implicados:
   - nombre: "José Martínez García"
     cargo: "Alcalde de Librilla (PP) durante el periodo investigado (2001-2007) y hasta su dimisión en diciembre de 2008"
-    rol: "Detenido y encarcelado provisionalmente en noviembre de 2008 y puesto en libertad en diciembre. Acusado por la Fiscalía en su escrito de 2020 por el presunto cobro de comisiones por la adjudicación de contratos; ese es el último rol procesal acreditado. No consta pronunciamiento judicial posterior a la vista de marzo de 2026, cuyo resultado no se ha localizado."
+    rol: "Detenido y encarcelado provisionalmente en noviembre de 2008 y puesto en libertad en diciembre. Acusado por la Fiscalía en su escrito de 2020 por el presunto cobro de comisiones por la adjudicación de contratos; ese es el último rol procesal acreditado. No consta pronunciamiento judicial posterior al señalamiento de marzo de 2026, cuyo resultado no se ha localizado."
 
   - nombre: "Pedro Martínez Muñoz"
     cargo: "Primer teniente de alcalde y concejal de Urbanismo de Librilla (PP) en el periodo investigado (2001-2007)"
-    rol: "Detenido y encarcelado provisionalmente en noviembre de 2008. Acusado por la Fiscalía en 2020 por el presunto cobro de comisiones y por prevaricación. No consta pronunciamiento judicial posterior a la vista de marzo de 2026, cuyo resultado no se ha localizado."
+    rol: "Detenido y encarcelado provisionalmente en noviembre de 2008. Acusado por la Fiscalía en 2020 por el presunto cobro de comisiones y por prevaricación. No consta pronunciamiento judicial posterior al señalamiento de marzo de 2026, cuyo resultado no se ha localizado."
 
   - nombre: "Francisco Navarro Warren"
     cargo: "Concejal de Patrimonio y Finanzas de Librilla (PP) en el periodo investigado"
@@ -45,7 +45,7 @@ implicados:
 
   - nombre: "José Luis Martínez López"
     cargo: "Arquitecto técnico municipal de Librilla en el periodo investigado"
-    rol: "Acusado por la Fiscalía en 2020 por falsedad documental y participación en las adjudicaciones irregulares (petición de nueve años de prisión). No consta pronunciamiento judicial posterior a la vista de marzo de 2026, cuyo resultado no se ha localizado."
+    rol: "Acusado por la Fiscalía en 2020 por falsedad documental y participación en las adjudicaciones irregulares (petición de nueve años de prisión). No consta pronunciamiento judicial posterior al señalamiento de marzo de 2026, cuyo resultado no se ha localizado."
 
   - nombre: "José Luis Cano Valverde"
     cargo: "Jefe del Servicio de Asistencia Técnica a Municipios de la Comunidad Autónoma de Murcia durante el periodo investigado; en excedencia desde junio de 2007"
@@ -53,15 +53,15 @@ implicados:
 
   - nombre: "Domingo Peñalver Rojo"
     cargo: "Ingeniero de caminos; administrador de ACADI y de Control & Gis Consultores (empresas del entramado en el periodo investigado)"
-    rol: "Detenido en noviembre de 2008 y puesto en libertad con cargos. Acusado por la Fiscalía en 2020 por el presunto pago de comisiones a los cargos municipales (petición de tres años y cuatro meses de prisión). No consta pronunciamiento judicial posterior a la vista de marzo de 2026, cuyo resultado no se ha localizado."
+    rol: "Detenido en noviembre de 2008 y puesto en libertad con cargos. Acusado por la Fiscalía en 2020 por el presunto pago de comisiones a los cargos municipales (petición de tres años y cuatro meses de prisión). No consta pronunciamiento judicial posterior al señalamiento de marzo de 2026, cuyo resultado no se ha localizado."
 
   - nombre: "José Andrés Cortés Otálora"
     cargo: "Gerente de IDL (Iniciativas para el Desarrollo de Librilla S.L.) en el periodo investigado"
-    rol: "Detenido y encarcelado provisionalmente en noviembre de 2008. Acusado por la Fiscalía en 2020 por el presunto cobro de comisiones. No consta pronunciamiento judicial posterior a la vista de marzo de 2026, cuyo resultado no se ha localizado."
+    rol: "Detenido y encarcelado provisionalmente en noviembre de 2008. Acusado por la Fiscalía en 2020 por el presunto cobro de comisiones. No consta pronunciamiento judicial posterior al señalamiento de marzo de 2026, cuyo resultado no se ha localizado."
 
   - nombre: "Cesáreo Gil de Pareja Otón"
     cargo: "Asesor jurídico del Ayuntamiento de Librilla hasta 2006; después contratado por ACADI para redactar el PGOM"
-    rol: "Detenido en la segunda fase de la operación (20 de noviembre de 2008) y puesto en libertad por la Guardia Civil sin llegar a disposición judicial. Posteriormente acusado por la Fiscalía en 2020 (petición de ocho años de prisión). No consta pronunciamiento judicial posterior a la vista de marzo de 2026, cuyo resultado no se ha localizado."
+    rol: "Detenido en la segunda fase de la operación (20 de noviembre de 2008) y puesto en libertad por la Guardia Civil sin llegar a disposición judicial. Posteriormente acusado por la Fiscalía en 2020 (petición de ocho años de prisión). No consta pronunciamiento judicial posterior al señalamiento de marzo de 2026, cuyo resultado no se ha localizado."
 
 tags:
   - "corrupción"
@@ -71,7 +71,7 @@ tags:
   - "corrupción urbanística"
   - "contratos irregulares"
 
-impactoSocial: "La operación puso el foco sobre la contratación pública en un municipio pequeño de la Región de Murcia y provocó la dimisión del alcalde y del concejal de Urbanismo en diciembre de 2008. El procedimiento se abrió en noviembre de 2008 y la instrucción se prolongó unos catorce años, hasta la remisión de la causa a la Audiencia Provincial en marzo de 2023; desde las primeras detenciones hasta octubre de 2026, el procedimiento completo acumula algo menos de dieciocho años. La prensa ha descrito la causa como «más de 18 años de investigación», pero esa cifra mezcla la instrucción (unos catorce años) con el conjunto del procedimiento, que a octubre de 2026 aún no alcanza los dieciocho años. La instrucción derivó en varias piezas separadas (Líber, Consejerías y Roblecillo) a partir de la documentación intervenida. El último estado documentado es la vista de marzo de 2026, cuyo resultado no se ha localizado."
+impactoSocial: "La operación puso el foco sobre la contratación pública en un municipio pequeño de la Región de Murcia y provocó la dimisión del alcalde y del concejal de Urbanismo en diciembre de 2008. El procedimiento se abrió en noviembre de 2008 y la instrucción se prolongó unos catorce años, hasta la remisión de la causa a la Audiencia Provincial en marzo de 2023; desde las primeras detenciones hasta octubre de 2026, el procedimiento completo acumula algo menos de dieciocho años. La prensa ha descrito la causa como «más de 18 años de investigación», pero esa cifra mezcla la instrucción (unos catorce años) con el conjunto del procedimiento, que a octubre de 2026 aún no alcanza los dieciocho años. La instrucción derivó en varias piezas separadas (Líber, Consejerías y Roblecillo) a partir de la documentación intervenida. El último dato documentado es el señalamiento de una vista en marzo de 2026, cuya celebración y resultado no se han podido comprobar."
 
 documentos: []
 
@@ -88,7 +88,7 @@ cronologia:
 
   - fecha: "2008-11-20"
     titulo: "Segunda fase: detención del alcalde, el concejal de Urbanismo y el asesor jurídico"
-    descripcion: "La Guardia Civil detiene al alcalde de Librilla José Martínez García (PP), al primer teniente de alcalde y concejal de Urbanismo Pedro Martínez Muñoz y al asesor jurídico del consistorio Cesáreo Gil de Pareja Otón, y registra sus domicilios. Con estas detenciones se elevan a diez los arrestos practicados desde el inicio de la operación."
+    descripcion: "La Guardia Civil detiene al alcalde de Librilla José Martínez García (PP), al primer teniente de alcalde y concejal de Urbanismo Pedro Martínez Muñoz y al asesor jurídico del consistorio Cesáreo Gil de Pareja Otón, y registra sus domicilios. Con estas detenciones sumaban ocho los arrestos. Europa Press informó el 22 de noviembre de otros dos detenidos el día anterior por presunto blanqueo, que elevaron el total a diez."
     type: "detencion"
     relevancia: "alta"
     urls:
@@ -178,3 +178,7 @@ cronologia:
     urls:
       - "https://www.laverdad.es/murcia/biblioteca-liber-llegan-audiencia-tras-anos-investigaciones-20260303155354-nt.html"
 ---
+
+## Límites de la revisión (2026-10-01)
+
+El señalamiento del 6 de marzo de 2026 se conoce por la información de La Verdad publicada el día 3; no acredita que se celebrase la vista ni que hubiera conformidad o sentencia. Las cifras de acusados cambian según la fase y los archivos individuales descritos; no representan una relación final verificada de personas enjuiciadas. Se mantienen pendientes el resultado actual, las resoluciones primarias y las comprobaciones hemerográficas parciales consignadas en el informe. Los importes proceden de estimaciones policiales y peticiones fiscales de épocas distintas.
