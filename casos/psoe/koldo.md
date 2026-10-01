@@ -1,47 +1,48 @@
 ---
 nombre: "Caso Koldo"
 partido: PSOE
-completado: true
+completado: false
 año: 2024
-fechaInicio: 2024-02-20
+fechaInicio: 2024-02-21
 fechaFin: ""
-estado: activo
+estado: "cerrado con condenas (pieza de mascarillas); en investigación (obra pública y financiación)"
 descripcion: |
-  El caso Koldo es una investigación judicial en España que gira en torno a una presunta trama de corrupción relacionada con la contratación pública durante la pandemia de COVID-19. El epicentro de la causa es Koldo García Izaguirre, exasesor del exministro de Transportes José Luis Ábalos, quien habría actuado como intermediario para la adjudicación de contratos millonarios de material sanitario (principalmente mascarillas) a empresas sin experiencia en el sector, a cambio de comisiones.
+  El caso Koldo —también llamado caso Ábalos o caso mascarillas— es una investigación judicial sobre una trama de corrupción en la contratación pública durante la pandemia de COVID-19. Su epicentro es Koldo García Izaguirre, exasesor del exministro de Transportes José Luis Ábalos, quien, según la sentencia que cerró la pieza principal, actuó como intermediario en la adjudicación de contratos de material sanitario (principalmente mascarillas) a empresas sin experiencia en el sector a cambio de comisiones.
 
-  La Fiscalía Anticorrupción y la Guardia Civil sostienen que la trama operó entre 2020 y 2022, beneficiándose de la urgencia en las compras públicas. Las empresas adjudicatarias habrían recibido pagos inflados por parte de organismos como ADIF o Puertos del Estado, y parte de ese dinero se habría desviado a cuentas personales o utilizado para adquirir bienes de lujo. En la causa hay más de 20 investigados, incluyendo empresarios, cargos públicos y personas del entorno político del PSOE.
+  La sentencia de la Sala Segunda del Tribunal Supremo STS 418/2026, de 22 de junio de 2026 —dictada por unanimidad, con ponencia de Andrés Martínez Arrieta—, considera probado que Ábalos, Koldo García y el empresario Víctor de Aldama constituyeron una organización criminal con reparto de funciones. Declara probada la adjudicación de trece millones de mascarillas a Puertos del Estado (20.000.000 euros) y ADIF (12.500.000 euros) a la empresa Soluciones de Gestión, vinculada a Aldama, mediante órdenes ministeriales de marzo de 2020; una remuneración mensual de 10.000 euros a Ábalos entre octubre de 2019 y junio de 2022; la contratación irregular de dos conocidas del exministro en empresas públicas (Jésica Rodríguez en INECO y TRAGSATEC, y Claudia Montes en LOGIRAIL); y el alquiler de viviendas en Marbella y La Línea de la Concepción con opción de compra. La sentencia condenó a Ábalos a 24 años y 3 meses de prisión (máximo efectivo de 16 años y 6 meses), a Koldo García a 19 años, 8 meses y 1 día (máximo efectivo de 15 años) y a Aldama a 4 años y 6 meses, con la ejecución de la pena suspendida por su colaboración con la justicia. Los tres fueron absueltos de prevaricación, uso de información privilegiada y falsedad. La sentencia es firme: solo caben el incidente de nulidad y, en su caso, el recurso de amparo ante el Tribunal Constitucional.
 
-  El caso ha tenido un enorme impacto político, alcanzando directamente al exministro Ábalos, para quien la Fiscalía solicita 24 años de cárcel por organización criminal, cohecho, tráfico de influencias, malversación y uso de información privilegiada. Tanto Ábalos como Koldo García ingresaron en prisión provisional en noviembre de 2025, donde permanecen a la espera del juicio oral fijado para el 7 de abril de 2026 en el Tribunal Supremo (14 sesiones, 75 testigos). El escándalo ha provocado la dimisión de Santos Cerdán como secretario de organización del PSOE —quien pasó casi 5 meses en prisión provisional— y ha reavivado el debate sobre la transparencia en la contratación pública. La Audiencia Nacional instruye paralelamente la pieza de mordidas en obra pública (14 investigados) y ha absorbido el caso Plus Ultra. Un informe de la IGAE ha confirmado irregularidades en 11 contratos de ADIF y Carreteras adjudicados bajo el mandato de Ábalos.
-resumen: "Presunta trama de corrupción en la adjudicación de contratos públicos de mascarillas durante la pandemia, centrada en el exasesor Koldo García."
-coste: 9600000
+  El caso está dividido en varias piezas. La principal, la de mascarillas, fue juzgada por el Tribunal Supremo (causa especial 20775/2020) entre el 7 de abril y el 6 de mayo de 2026, al ser Ábalos aforado. La investigación sobre presuntos amaños de obra pública (con Santos Cerdán, Isabel Pardo de Vera y Francisco Javier Herrero, entre otros) pasó a la Audiencia Nacional en febrero de 2026 y sigue en instrucción; también sigue abierta la pieza sobre pagos en efectivo desde Ferraz. El Juzgado Central de Instrucción nº 2 de la Audiencia Nacional (juez Ismael Moreno) asumió además el caso Plus Ultra en marzo de 2026. Cerdán, que estuvo en prisión provisional entre el 30 de junio y el 19 de noviembre de 2025, está en libertad a la espera de juicio. Persisten incertidumbres sobre la delimitación exacta de algunas piezas y sobre el resultado de los incidentes de nulidad.
+resumen: "Trama de corrupción en la contratación pública durante la pandemia (mascarillas) y en el amaño de obra pública; el Supremo condenó en junio de 2026 a Ábalos, Koldo García y Aldama por la pieza de mascarillas."
+coste: 32500000
 lugar: "Madrid, España"
 tribunal:
+  - "Tribunal Supremo - Sala Segunda (Sala de lo Penal) - Causa Especial 20775/2020 - Instructor Leopoldo Puente - Ponente Andrés Martínez Arrieta - Fiscalía Anticorrupción"
   - "Audiencia Nacional - Juzgado Central de Instrucción nº 2 - Juez Ismael Moreno - Fiscalía Anticorrupción"
-numeroSentencia: ""
+numeroSentencia: "STS 418/2026"
 implicados:
   - nombre: "Koldo García Izaguirre"
-    cargo: "Exasesor del Ministerio de Transportes"
-    rol: "Presunto coordinador de la trama de adjudicación irregular de contratos de mascarillas durante la pandemia"
+    cargo: "Exasesor del ministro de Transportes; exmiembro del Consejo Rector de Puertos del Estado y de Renfe"
+    rol: "Condenado por el Tribunal Supremo (STS 418/2026) a 19 años, 8 meses y 1 día de prisión, con máximo efectivo de 15 años, por organización criminal, cohecho, malversación y tráfico de influencias"
 
   - nombre: "Víctor de Aldama Delgado"
     cargo: "Empresario y presidente del Zamora CF"
-    rol: "Presunto conseguidor e intermediario, habría obtenido 5,5 millones de beneficio ilícito"
+    rol: "Condenado a 4 años y 6 meses de prisión por organización criminal y cohecho, con la pena suspendida por su colaboración con la justicia (atenuante muy cualificada); la sentencia declara probado que canalizó comisiones por 6.676.046,09 euros"
 
   - nombre: "Juan Carlos Cueto Corsón"
-    cargo: "Empresario, titular de Soluciones de Gestión"
-    rol: "Presunto cerebro de la trama, controlaba la empresa adjudicataria de contratos por 54 millones"
+    cargo: "Empresario, administrador de Comercial Cueto 92"
+    rol: "No fue juzgado en la pieza de mascarillas; la sentencia declara probado que Soluciones de Gestión firmó con Comercial Cueto 92 el acuerdo de suministro de mascarillas antes de publicarse la orden ministerial"
 
   - nombre: "José Luis Ábalos Meco"
-    cargo: "Exministro de Transportes (2018-2021)"
-    rol: "Presunto beneficiario de comisiones, nombró a Koldo García como asesor"
+    cargo: "Exministro de Transportes (2018-2021) y exsecretario de Organización del PSOE"
+    rol: "Condenado por el Tribunal Supremo (STS 418/2026) a 24 años y 3 meses de prisión, con máximo efectivo de 16 años y 6 meses, por organización criminal, cohecho, malversación y tráfico de influencias"
 
   - nombre: "Santos Cerdán López"
-    cargo: "Ex secretario de Organización del PSOE"
-    rol: "Presunta implicación en cobro de comisiones según informes de la Guardia Civil"
+    cargo: "Exsecretario de Organización del PSOE"
+    rol: "Investigado en la pieza separada de amaño de obra pública por organización criminal, cohecho y tráfico de influencias; no fue juzgado en la pieza de mascarillas. Estuvo en prisión provisional del 30 de junio al 19 de noviembre de 2025 y permanece en libertad a la espera de juicio"
 
-  - nombre: "Íñigo Rotaeche Fernández"
-    cargo: "Empresario"
-    rol: "Presunto colaborador en la trama de adjudicaciones irregulares de contratos públicos"
+  - nombre: "Íñigo Rotaeche Lachiondo"
+    cargo: "Administrador único de Soluciones de Gestión"
+    rol: "No fue juzgado en la pieza de mascarillas; la sentencia describe su papel en la empresa adjudicataria de los contratos"
 
   - nombre: "Rubén Villalba Gómez"
     cargo: "Guardia Civil (Comandante)"
@@ -53,11 +54,11 @@ implicados:
 
   - nombre: "Joseba García Izaguirre"
     cargo: "Hermano de Koldo García"
-    rol: "Presunta participación en el entramado familiar de la corrupción"
+    rol: "La sentencia declara probado que recogió en la República Dominicana los pagos mensuales de 10.000 euros de octubre y noviembre de 2021; no fue juzgado en la causa"
 
   - nombre: "Jesús Manuel Gómez"
-    cargo: "Exsubsecretario de Estado de Transportes"
-    rol: "Presunta colaboración con la trama desde su cargo institucional"
+    cargo: "Exsubsecretario del Ministerio de Transportes"
+    rol: "La sentencia declara que Koldo García le entregó personalmente la oferta de Soluciones de Gestión para el suministro de mascarillas; no fue juzgado en la causa"
 
   - nombre: "Leticia Lauffer Medina"
     cargo: "Pareja sentimental de Víctor de Aldama"
@@ -76,28 +77,32 @@ implicados:
     rol: "Investigada por presunta participación en la red de contactos de la corrupción"
 
   - nombre: "Isabel Pardo de Vera"
-    cargo: "Ex presidenta de ADIF"
-    rol: "Imputada por malversación y tráfico de influencias por su presunta colaboración en adjudicaciones irregulares"
+    cargo: "Expresidenta de ADIF"
+    rol: "Investigada en la pieza separada de obra pública; la sentencia de mascarillas describe su intervención en la adjudicación a Soluciones de Gestión, pero no fue juzgada en esa causa"
 
   - nombre: "Patricia Úriz"
     cargo: "Exesposa de Koldo García"
-    rol: "Detenida e investigada por posible participación en el entramado de corrupción"
+    rol: "Investigada por blanqueo de capitales; citada a declarar por el juez Ismael Moreno en enero de 2026"
 
   - nombre: "Álvaro Sánchez Manzanares"
-    cargo: "Ex secretario general de Puertos del Estado"
-    rol: "Cesado por procesar contratos de mascarillas con la trama; declaró que actuó bajo órdenes del Ministerio"
+    cargo: "Exsecretario general de Puertos del Estado"
+    rol: "Cesado por tramitar los contratos de mascarillas; declaró ante el juez que cumplió órdenes de sus superiores del Ministerio"
 
   - nombre: "Francisco Javier Herrero Lizano"
-    cargo: "Ex director general de Carreteras"
-    rol: "Imputado por presunto amaño de contratos públicos por 264 millones de euros"
+    cargo: "Exdirector general de Carreteras"
+    rol: "Investigado en la pieza separada de obra pública por presunto amaño de contratos; no fue juzgado en la pieza de mascarillas"
 
   - nombre: "Jésica Rodríguez García"
     cargo: "Expareja de José Luis Ábalos"
-    rol: "Contratada irregularmente en Ineco y Tragsatec sin realizar trabajo, cobrando 43.978 euros"
+    rol: "La sentencia declara probado que fue contratada sin trabajar en INECO y TRAGSATEC; los condenados deberán indemnizar a ambas empresas. No fue acusada"
+
+  - nombre: "Claudia Montes"
+    cargo: "Particular contratada en LOGIRAIL"
+    rol: "La sentencia declara probado que fue contratada en LOGIRAIL tras las gestiones de Ábalos y Koldo García; no fue acusada"
 
   - nombre: "Javier Hidalgo"
     cargo: "Ex CEO de Globalia (Air Europa)"
-    rol: "Testigo clave; presuntamente recurrió a Begoña Gómez para gestionar el rescate de Air Europa por 475 millones"
+    rol: "Compareció como testigo en el juicio sobre el rescate de Air Europa"
 
   - nombre: "Luis Alberto Escolano Marín"
     cargo: "Socio de Víctor de Aldama"
@@ -109,12 +114,14 @@ implicados:
 tags:
   - "corrupción"
   - "malversación"
-  - "prevaricación"
+  - "cohecho"
   - "tráfico de influencias"
-impactoSocial: "El caso ha generado un fuerte impacto mediático y político, afectando la imagen del PSOE, provocando la dimisión de cargos y reabriendo el debate sobre la transparencia en la contratación pública durante la pandemia."
+  - "organización criminal"
+  - "contratación pública"
+impactoSocial: "El caso provocó una fuerte crisis política y mediática. Santos Cerdán dimitió como secretario de Organización del PSOE en junio de 2025 y estuvo casi cinco meses en prisión provisional. La sentencia de junio de 2026, primera condena firme de un gran caso de corrupción vinculado al Gobierno de Pedro Sánchez según la prensa, reabrió el debate sobre la contratación pública de emergencia."
 documentos:
   - fecha: "2025-06-05"
-    titulo: "Informe de la UCO: Implicaciones de Santos Cerdán"
+    titulo: "Informe de la UCO 96/2025 sobre presuntas irregularidades en contratación pública (obra pública)"
     filetype: "pdf"
     paginas: 490
     nombre_fichero: "auto_cerdan.pdf"
@@ -186,28 +193,28 @@ cronologia:
     descripcion: "El diario El Mundo publica detalles del sumario que identifican a José Luis Ábalos como intermediario en la trama de mascarillas, según la UCO. Esto intensifica la presión política sobre el PSOE."
     type: "resumen"
     urls:
-      - "https://t.co/fyHmwZGVK8"
+      - "https://www.elmundo.es/espana/2024/02/29/65dfa826e85ece80558b459d.html"
 
   - fecha: "2024-05-30"
     titulo: "Fiscalía Europea asume parte de la investigación"
     descripcion: "La Fiscalía Europea toma el control de la investigación sobre los contratos de mascarillas, sustituyendo a la Fiscalía Anticorrupción y al juez Ismael Moreno, debido a la posible implicación de fondos europeos."
     type: "resumen"
     urls:
-      - "https://t.co/b0k2NkpH1X"
+      - "https://efe.com/espana/2024-05-30/fiscalia-europea-investigacion-caso-koldo"
 
   - fecha: "2024-06-24"
     titulo: "Rechazo a ceder completamente la causa a la Fiscalía Europea"
     descripcion: "El juez Ismael Moreno rechaza ceder toda la investigación a la Fiscalía Europea, planteando una cuestión de competencia ante el Tribunal Supremo para determinar quién debe continuar con el caso."
     type: "resumen"
     urls:
-      - "https://t.co/9oZTRfd7IN"
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-rechaza-entregar-la-causa-de-las-mascarillas-a-la-Fiscalia-Europea-y-plantea-una-cuestion-de-competencia-ante-el-Tribunal-Supremo"
 
   - fecha: "2024-09-11"
     titulo: "Declaración del ex responsable de Puertos"
     descripcion: "El ex responsable de Puertos del Estado, imputado en el caso, declara ante el juez que actuó bajo órdenes de superiores en el Ministerio de Transportes para adjudicar contratos de mascarillas."
     type: "resumen"
     urls:
-      - "https://t.co/kNbNsggX62"
+      - "https://www.elmundo.es/espana/2024/09/11/66e16deffc6c83db6b8b45c0.html"
 
   - fecha: "2024-11-21"
     titulo: "Declaración de Víctor de Aldama y liberación provisional"
@@ -339,7 +346,7 @@ cronologia:
     descripcion: "La Audiencia Nacional cita como investigados a Isabel Pardo de Vera y al ex director de Carreteras por su presunta colaboración en las adjudicaciones de la trama Koldo."
     type: "resumen"
     urls:
-      - "https://t.co/Iig4SBqIMc"
+      - "https://www.elmundo.es/espana/2025/07/07/686b893421efa0de338b4595.html"
 
   - fecha: "2025-07-21"
     titulo: "Declaración de Pardo de Vera y Herrero como imputados"
@@ -643,6 +650,20 @@ cronologia:
     urls:
       - "https://theobjective.com/espana/tribunales/2026-03-19/empresa-mascarillas-koldo-air-europa-aviones/"
 
+  - fecha: "2026-03-20"
+    titulo: "El Supremo inadmite el incidente de nulidad previo de Koldo García"
+    descripcion: "La Sala Segunda inadmite a trámite el incidente de nulidad con el que Koldo García pretendía frenar el juicio de las mascarillas y su remisión a la Audiencia Nacional. La providencia señala que no cabe recurso contra el auto que rechazó las alegaciones de la defensa en la audiencia preliminar."
+    type: "recurso"
+    urls:
+      - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1264210"
+
+  - fecha: "2026-03-31"
+    titulo: "Koldo García acude al Tribunal Constitucional para intentar parar el juicio"
+    descripcion: "La defensa de Koldo García presenta un recurso de amparo ante el Tribunal Constitucional como último intento para evitar el juicio en el Supremo, tras el rechazo de sus recursos previos."
+    type: "recurso"
+    urls:
+      - "https://elpais.com/espana/2026-03-31/koldo-garcia-acude-al-constitucional-en-un-ultimo-intento-por-parar-el-juicio-de-las-mascarillas-en-el-supremo.html"
+
   - fecha: "2026-04-07"
     titulo: "Comienza el juicio oral del caso mascarillas en el Tribunal Supremo"
     descripcion: "Arranca en el Tribunal Supremo el juicio oral contra José Luis Ábalos, Koldo García y Víctor de Aldama por la pieza de los contratos de mascarillas durante la pandemia. La sesión inaugural cuenta con la declaración de Jéssica Rodríguez, expareja de Ábalos, contratada irregularmente en Ineco y Tragsatec. La Fiscalía Anticorrupción mantiene su petición de 24 años de prisión para Ábalos, 19 años y 6 meses para Koldo y 7 años para Aldama por delitos de organización criminal, cohecho, tráfico de influencias, malversación y uso de información privilegiada."
@@ -668,4 +689,77 @@ cronologia:
     urls:
       - "https://www.elespanol.com/espana/tribunales/20260430/koldo-admite-chistorras-billetes-cobro-psoe-guardias-civiles/1003744229576_0.html"
       - "https://www.elespanol.com/espana/politica/20260430/juicio-caso-abalos-directo-koldo-garcia-exasesor-exministro-jose-luis-declara-tribunal-supremo/1003744228308_10.html"
+
+  - fecha: "2026-05-06"
+    titulo: "Concluye el juicio oral tras 14 sesiones"
+    descripcion: "El juicio oral contra Ábalos, Koldo García y Aldama concluye en el Tribunal Supremo tras 14 sesiones. El Alto Tribunal anuncia que dictará sentencia antes del verano. Las defensas de Ábalos y Koldo piden la absolución y la Fiscalía sostiene que hubo delito en los contratos de mascarillas."
+    type: "juicio"
+    relevancia: "alta"
+    urls:
+      - "https://elpais.com/espana/2026-05-06/primer-juicio-contra-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas-en-directo.html"
+      - "https://www.servimedia.es/noticias/supremo-dictara-sentencia-antes-verano-caso-mascarillas/1412848938"
+
+  - fecha: "2026-05-11"
+    titulo: "El Supremo rechaza poner en libertad a Koldo García tras el juicio"
+    descripcion: "El Tribunal Supremo rechaza la petición de puesta en libertad de Koldo García formulada por su defensa tras la celebración del juicio. Ábalos y Koldo permanecen en prisión provisional desde el 27 de noviembre de 2025."
+    type: "recurso"
+    urls:
+      - "https://elpais.com/espana/2026-05-11/el-supremo-rechaza-dejar-el-libertad-a-koldo-garcia-tras-el-juicio-de-las-mascarillas.html"
+
+  - fecha: "2026-06-22"
+    titulo: "Sentencia del Supremo: condenas por el 'caso mascarillas'"
+    descripcion: "La Sala Segunda del Tribunal Supremo notifica la sentencia STS 418/2026 (causa especial 20775/2020), dictada por unanimidad con ponencia de Andrés Martínez Arrieta. Considera probado que los tres acusados formaron una organización criminal con reparto de funciones y condena a José Luis Ábalos a 24 años y 3 meses de prisión (máximo efectivo de 16 años y 6 meses), a Koldo García a 19 años, 8 meses y 1 día (máximo efectivo de 15 años) y a Víctor de Aldama a 4 años y 6 meses, con la pena suspendida por su colaboración. Los tres son absueltos de prevaricación, uso de información privilegiada y falsedad. Se acuerda el decomiso de 430.298 euros y sendas indemnizaciones a INECO (34.450 euros) y TRAGSATEC (9.500,54 euros). La sentencia es firme: solo caben el incidente de nulidad y, en su caso, el amparo."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Notas-de-prensa/El-Tribunal-Supremo-condena-al-exministro-Jose-Luis-Abalos-y-a-su-exasesor-Koldo-Garcia-a-24-anos-y-19-anos-de-prision--respectivamente--por-delitos-de-organizacion-criminal--cohecho--malversacion-y-trafico-de-influencias"
+      - "https://descargables.elpais.com/sentencia-abalos-caso-mascarillas.pdf"
+      - "https://www.rtve.es/noticias/20260622/sentencia-supremo-caso-mascarillas-abalos-koldo/17108722.shtml"
+
+  - fecha: "2026-07-01"
+    titulo: "Aldama se niega a devolver las comisiones y la Fiscalía lo reclama"
+    descripcion: "Víctor de Aldama afirma que no piensa devolver el dinero y sostiene que su cobro fue legal, amparándose en que la sentencia no le obliga a devolver los 3,7 millones que la Fiscalía reclamaba por el delito de aprovechamiento de información privilegiada, del que resultó absuelto. El decomiso acordado es de 430.298 euros."
+    type: "recurso"
+    urls:
+      - "https://www.infobae.com/espana/2026/07/01/victor-de-aldama-no-se-plantea-devolver-el-dinero-como-pide-anticorrupcion-es-un-cobro-legal-asi-lo-ha-dicho-el-supremo"
+      - "https://www.eldiario.es/politica/aldama-no-tendra-devolver-comision-3-7-millones-mascarillas_1_13323097.html"
+
+  - fecha: "2026-07-30"
+    titulo: "La Fiscalía Europea se interesa por contratos de la pieza de obra pública"
+    descripcion: "La Fiscalía Europea reclama al juez instructor del 'caso Cerdán' información sobre varios contratos de obra pública, sin detallar las licitaciones afectadas, en el marco de la investigación sobre fondos europeos."
+    type: "investigación"
+    urls:
+      - "https://www.moncloa.com/2026/07/30/cerdan-fiscalia-europea-4-obras-3407401"
+
+  - fecha: "2026-09-01"
+    titulo: "Anticorrupción pide rechazar los incidentes de nulidad de Ábalos y Koldo"
+    descripcion: "El fiscal jefe de Anticorrupción, Alejandro Luzón, solicita al Supremo que desestime los incidentes de nulidad presentados por Ábalos y Koldo contra la sentencia, por reproducir pretensiones ya resueltas. Los condenados alegan vulneración de derechos fundamentales y piden la suspensión de la condena y su libertad."
+    type: "recurso"
+    relevancia: "media"
+    urls:
+      - "https://www.europapress.es/nacional/noticia-anticorrupcion-pide-supremo-rechazar-peticion-abalos-koldo-anular-sentencia-caso-mascarillas-20260901122436.html"
+      - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1269000"
+
+  - fecha: "2026-09-19"
+    titulo: "La UCO amplía la investigación económica de la pieza de obra pública"
+    descripcion: "La UCO defiende ante el juez la cadena de custodia del teléfono de Antxón Alonso, socio de Santos Cerdán, y continúa el rastreo de cuentas y empresas vinculadas a los presuntos amaños de obra pública."
+    type: "investigación"
+    urls:
+      - "https://www.elperiodico.com/es/politica/20260919/uco-niega-dispositivo-intervenido-socio-cerdan-antxon-134433661"
+
+  - fecha: "2026-09-28"
+    titulo: "El Tribunal de Cuentas investiga fundaciones vinculadas al PSOE"
+    descripcion: "El Tribunal de Cuentas abre diligencias sobre fundaciones vinculadas al PSOE a raíz de las declaraciones de Víctor de Aldama ante la Audiencia Nacional, que apuntó a un posible sistema de donaciones ('pitufeo') para canalizar comisiones. La investigación está en fase inicial."
+    type: "investigación"
+    relevancia: "media"
+    urls:
+      - "https://www.abc.es/espana/informacion-aportada-tribunal-cuentas-cerca-fundaciones-fantasma-20260928015839-nt.html"
 ---
+
+## Notas de revisión (2026-10-01)
+
+- **Coste**: el campo `coste` se ha fijado en 32.500.000 euros, importe de los dos contratos de mascarillas que la sentencia declara probados (20.000.000 euros de Puertos del Estado y 12.500.000 euros de ADIF). Otras magnitudes del caso son las comisiones canalizadas por Aldama (6.676.046,09 euros) y el decomiso acordado (430.298 euros). El valor anterior (9.600.000 euros) no se ha podido contrastar con ninguna fuente, por lo que se ha sustituido.
+- **Sentencia y firmeza**: la STS 418/2026, de 22 de junio de 2026, es firme. Contra ella solo proceden el incidente de nulidad y, en su caso, el recurso de amparo ante el Tribunal Constitucional. A 1 de octubre de 2026 no consta resuelto el incidente de nulidad de Ábalos y Koldo, aunque la Fiscalía Anticorrupción pidió su desestimación el 1 de septiembre de 2026.
+- **Piezas del caso**: la condena afecta solo a la pieza de mascarillas (tres acusados). La investigación sobre presuntos amaños de obra pública sigue abierta en la Audiencia Nacional e incluye, entre otros, a Santos Cerdán, Isabel Pardo de Vera y Francisco Javier Herrero. También siguen abiertas la pieza de financiación (pagos en efectivo desde Ferraz) y la investigación absorbida de Plus Ultra.
+- **Fuentes**: se han priorizado la sentencia (STS 418/2026) y la nota del CGPJ. Varios eventos antiguos de la cronología siguen apoyados en fuentes secundarias (incluida Wikipedia); en esta revisión se han sustituido enlaces cortos no verificables (t.co) y deben completarse en futuras actualizaciones.
+- **Incógnitas**: no se ha podido verificar el número cerrado de investigados en las piezas separadas ni el desenlace de todos los recursos. El detalle de algunas fechas antiguas (por ejemplo, la fecha exacta de la detención inicial) presenta pequeñas discrepancias entre fuentes.
