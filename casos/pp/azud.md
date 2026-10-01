@@ -5,13 +5,13 @@ completado: true
 año: 2019
 fechaInicio: 2019-04-02
 fechaFin: ""
-estado: "en investigación"
+estado: "pendiente de juicio"
 descripcion: |
   El caso Azud es una macrocausa judicial instruida por el Juzgado de Instrucción número 13 de Valencia que investiga una red de corrupción urbanística activa en el Ayuntamiento de València y otros municipios de la Comunidad Valenciana durante la alcaldía de Rita Barberá (PP), principalmente entre 1999 y 2013. El caso arrancó a partir de una denuncia anónima en la Agencia Tributaria en 2017 que alertaba sobre el nivel de vida de la familia Corbín Barberá, cuñados de la exalcaldesa. La investigación reveló una trama en la que el empresario Jaime Febrer y su Grupo Axis habrían pagado más de siete millones de euros en comisiones a cargos públicos del PP y del PSOE para obtener beneficios urbanísticos, recalificaciones y adjudicaciones amañadas en nueve grandes operaciones.
 
   La mecánica de la trama consistía en que promotores y constructores abonaban comisiones ilegales a concejales y funcionarios del área de Urbanismo y Patrimonio del Ayuntamiento de Valencia a cambio de que se desbloqueasen expedientes urbanísticos, se aprobasen permutas beneficiosas para los promotores o se facilitasen adjudicaciones irregulares de contratos públicos. Alfonso Grau, mano derecha de Barberá y exvicealcalde, habría recibido más de dos millones de euros; Rafael Rubio, exsubdelegado del Gobierno de extracción socialista, en torno a 300.000 euros; y José María Corbín, abogado y cuñado de Barberá, habría actuado como intermediario clave de la trama. Los investigadores documentaron nueve operaciones urbanísticas concretas en Valencia capital y municipios como Xixona, Burjassot y Gilet, con comisiones que oscilaron entre decenas de miles y varios millones de euros por operación.
 
-  La primera detención se produjo en abril de 2019 y la operación alcanzó su mayor envergadura en mayo de 2021, cuando la Guardia Civil detuvo a 14 personas, incluyendo a Grau, Rubio y Febrer, a quienes la jueza envió a prisión provisional. El caso suma más de 58 investigados entre políticos, empresarios y funcionarios, siendo uno de los pocos casos de corrupción en España que afecta simultáneamente a cargos del PP y del PSOE en la misma trama. A principios de 2026 la causa sigue en fase de instrucción sin que se haya dictado aún el auto de apertura de juicio oral.
+  La primera detención se produjo en abril de 2019 y la operación alcanzó su mayor envergadura en mayo de 2021, cuando la Guardia Civil detuvo a 14 personas, incluyendo a Grau, Rubio y Febrer, a quienes la jueza envió a prisión provisional. El caso ha llegado a sumar unos 61 investigados entre políticos, empresarios y funcionarios, siendo uno de los pocos de corrupción en España que afecta simultáneamente a cargos del PP y del PSOE en la misma trama. El 3 de septiembre de 2026 la jueza Pepa Tarodo dio por finalizada la instrucción, tras nueve años, y dictó el auto de procedimiento abreviado contra 38 personas —entre ellas el cuñado de Barberá, José María Corbín, el exvicealcalde Alfonso Grau, el empresario Jaime Febrer y el exsubdelegado del Gobierno Rafael Rubio—, dejando la causa a las puertas del juicio oral.
 
 resumen: "Red de comisiones ilegales en el urbanismo de Valencia durante la era de Rita Barberá que pagó más de 7 millones en sobornos a cargos del PP y PSOE"
 coste: 7000000
@@ -178,4 +178,13 @@ cronologia:
     type: "investigación"
     urls:
       - "https://valenciaplaza.com/valenciaplaza/comunitat-valenciana1/oltra-francis-puig-zaplana-azud-la-dana-los-asuntos-judiciales-que-daran-que-hablar-en-2026"
+
+  - fecha: "2026-09-03"
+    titulo: "La jueza cierra la instrucción y procesa a 38 personas"
+    descripcion: "La titular de la Plaza 13 de instrucción del Tribunal de Instancia de Valencia, Pepa Tarodo, da por finalizada la instrucción del caso Azud tras nueve años y dicta el auto de procedimiento abreviado contra 38 personas, de las cerca de 61 que han estado investigadas. Entre los procesados figuran el abogado José María Corbín (cuñado de Rita Barberá), el exvicealcalde Alfonso Grau, el promotor Jaime Febrer y el exsubdelegado del Gobierno Rafael Rubio. El auto concluye que el despacho de Corbín debía casi el 80% de sus ingresos a comisiones ilícitas por adjudicaciones del Ayuntamiento de Valencia. La magistrada da diez días a las acusaciones para pedir la apertura de juicio oral. Unas semanas antes, la jueza había sobreseído la causa respecto a Pepe Cataluña y otros doce investigados."
+    type: "imputación"
+    relevancia: "alta"
+    urls:
+      - "https://www.poderjudicial.es/portal/site/cgpj/menuitem.65d2c4456b6ddb628e635fc1dc432ea0?vgnextchannel=c23ea8dc69e7d210VgnVCM100000cb34e20aRCRD&vgnextfmt=default&vgnextlocale=es_ES&vgnextoid=b7791a7d42b60a10VgnVCM1000004648ac0aRCRD"
+      - "https://www.levante-emv.com/comunitat-valenciana/2026/09/03/la-jueza-finaliza-el-caso-azud-tras-9-anos-y-mantiene-investigados-por-cobrar-comisiones-al-cunado-de-rita-barbera-y-al-exvicealcalde-de-valencia-alfonso-grau-133917586.html"
 ---
