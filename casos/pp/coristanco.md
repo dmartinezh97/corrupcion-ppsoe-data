@@ -1,7 +1,7 @@
 ---
 nombre: "Coristanco"
 partido: PP
-completado: true
+completado: false
 año: 2013
 fechaInicio: 2013-08-12
 fechaFin: "2024-05-16"
@@ -11,11 +11,11 @@ descripcion: |
 
   De los 45 expedientes de contratación de obra pública tramitados entre 2009 y 2013, Construcciones Martínez e Hijos S.L. resultó adjudicataria de 30 licitaciones, por las que facturó 2.368.234,89 euros. La Audiencia no apreció delito en este bloque: consideró que el procedimiento negociado sin publicidad se ajustaba a la legalidad y que no quedó probado que el alcalde favoreciera a las empresas al adjudicar obras. Esa cifra es, por tanto, el volumen facturado por los contratos, no un perjuicio económico declarado ni una indemnización.
 
-  La Sección Segunda de la Audiencia Provincial de A Coruña, en sentencia número 14/2022 de 10 de enero de 2022 (ECLI:ES:APC:2022:934), condenó a Pensado y a los tres hermanos, como autores de un delito de prevaricación (hechos del apartado B), con la atenuante de dilaciones indebidas, a siete años de inhabilitación especial para empleo o cargo público, incluida la inhabilitación para cualquier puesto electivo local. El tribunal declaró probado que en junio de 2012 el alcalde firmó, a petición del grupo, una autorización para depositar y triturar residuos de construcción en una finca, cuando la competencia correspondía a la Xunta de Galicia y sin tramitar expediente ni evaluar el impacto ambiental, y entendió que los acusados actuaron de forma concertada para intentar dejar sin efecto las sanciones de la Xunta por el depósito no autorizado. La sentencia absolvió a los acusados de los demás delitos de prevaricación y del de tráfico de influencias y a Pensado del de falsedad, y les impuso el 20 % de las costas (sin las de la acusación particular).
+  La Sección Segunda de la Audiencia Provincial de A Coruña, en sentencia número 14/2022 de 10 de enero de 2022 (ECLI:ES:APC:2022:934), condenó a Pensado y a los tres hermanos, como autores de un delito de prevaricación (hechos del apartado B), con la atenuante de dilaciones indebidas, a siete años de inhabilitación especial para empleo o cargo público, incluida la inhabilitación para cualquier puesto electivo local. El tribunal declaró probado que el alcalde dictó, a petición directa del grupo, una autorización para depositar y triturar residuos de construcción en una finca, en cuyo documento figura la fecha de 14 de junio de 2012 —cinco días antes de la inspección del SEPRONA del 19 de junio—, cuando la competencia correspondía a la Xunta de Galicia y sin tramitar expediente ni evaluar el impacto ambiental, y entendió que los acusados actuaron de forma concertada para intentar dejar sin efecto las sanciones de la Xunta por el depósito no autorizado. La sentencia absolvió a los acusados de los demás delitos de prevaricación y del de tráfico de influencias y a Pensado del de falsedad, y les impuso el 20 % de las costas (sin las de la acusación particular).
 
   El Tribunal Supremo desestimó el recurso de casación interpuesto únicamente por la acusación particular (el empresario querellante) mediante sentencia número 401/2024 de 16 de mayo de 2024 (ROJ STS 2729/2024). El Ministerio Fiscal y la defensa de Pensado habían desistido de sus recursos, de modo que la condena quedó firme. La confirmación se conoció el 23 de mayo de 2024.
 
-  La ficha se limita a este procedimiento. La causa relativa a las entregas de hormigón para uso particular y al suministro de gasóleo (malversación, prevaricación y fraude) fue un procedimiento distinto que terminó con la absolución del exalcalde en julio de 2021. La denominación «Operación Pataca» procede de la prensa local y no consta como nombre oficial de la causa. La revisión no ha localizado resoluciones ni noticias posteriores a mayo de 2024 que alteren lo anterior.
+  La ficha se limita a este procedimiento. La causa relativa a las entregas de hormigón para uso particular y al suministro de gasóleo (malversación, prevaricación y fraude) fue un procedimiento distinto que terminó con la absolución del exalcalde en julio de 2021; se conoce por prensa y no se ha localizado la resolución primaria. La denominación «Operación Pataca» procede de la prensa local y no consta como nombre oficial de la causa. La revisión no ha localizado resoluciones ni noticias posteriores a mayo de 2024 que alteren lo anterior.
 resumen: "Exalcalde del PP de Coristanco condenado a 7 años de inhabilitación, de forma firme en 2024, por autorizar en 2012 el depósito de residuos sin competencia; absuelto de las demás acusaciones."
 coste: 2368234
 lugar: "Coristanco, A Coruña, Galicia"
@@ -45,7 +45,6 @@ tags:
   - "corrupción"
   - "prevaricación"
   - "tráfico de influencias"
-  - "contratación irregular"
   - "residuos"
 
 impactoSocial: "El caso tuvo impacto político local: en mayo de 2018, tras conocerse la apertura del juicio oral, el BNG y En Marea de Coristanco pidieron la dimisión de Pensado, entonces teniente de alcalde. La causa se prolongó durante años y la sentencia apreció la atenuante de dilaciones indebidas. Tras la condena de 2022, el exalcalde anunció su intención de renunciar a su acta de concejal."
@@ -64,8 +63,8 @@ documentos:
 
 cronologia:
   - fecha: 2012-06-14
-    titulo: "Autorización municipal para el depósito y triturado de residuos en una finca"
-    descripcion: "El alcalde Antonio Pensado Plágaro firma un escrito, sin destinatario, por el que autoriza a Construcciones Martínez e Hijos S.L. (grupo Maracaná) a almacenar y triturar de forma temporal residuos de construcción y demolición en una finca. La autorización se extiende a petición directa de los administradores de la empresa y lleva fecha de cinco días antes de la inspección del SEPRONA del 19 de junio de 2012. La sentencia declaró probado que el alcalde carecía de competencia (correspondía a la Consellería de Medio Ambiente de la Xunta), que no se tramitó expediente ni se evaluó el impacto ambiental y que los acusados actuaron de forma concertada. Es el hecho por el que se produjo la condena firme por prevaricación."
+    titulo: "Autorización municipal: fecha que consta en el documento"
+    descripcion: "El alcalde Antonio Pensado Plágaro dicta, a petición directa de los administradores de Construcciones Martínez e Hijos S.L. (grupo Maracaná), un escrito sin destinatario por el que autoriza a la empresa a almacenar y triturar de forma temporal residuos de construcción y demolición en una finca. El documento lleva la fecha de 14 de junio de 2012, cinco días antes de la inspección del SEPRONA del 19 de junio. La Audiencia precisa que Primitivo acudió al Ayuntamiento a buscar el papel cuando se realizó la inspección y que de ello «permite inferir que ni siquiera puede deducirse que efectivamente se hubiese realizado en aquella fecha»; la fecha del documento es, por tanto, la que figura en él, y no consta como fecha efectiva de su dictado. La sentencia declaró probado que el alcalde carecía de competencia (correspondía a la Consellería de Medio Ambiente de la Xunta), que no se tramitó expediente ni se evaluó el impacto ambiental y que los acusados actuaron de forma concertada. Es el hecho por el que se produjo la condena firme por prevaricación."
     type: "resumen"
     urls:
       - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=b2c54a588b15226da0a8778d75e36f0d&encode=true&databasematch=AN"
@@ -85,8 +84,8 @@ cronologia:
       - "https://www.adiantegalicia.es/municipal/2014/08/06/antonio-pensado-usa-medios-publicos-para-su-defensa.html"
 
   - fecha: 2015-05-24
-    titulo: "Elecciones municipales: Pensado deja de ser alcalde"
-    descripcion: "Antonio Pensado, alcalde desde el 15 de junio de 1991, deja el cargo tras las elecciones municipales de mayo de 2015. La prensa lo sitúa después como edil y, más tarde, como teniente de alcalde en un gobierno local del PP, lo que motivó nuevas peticiones de dimisión. El Tribunal Supremo fija el final de su etapa al frente de la alcaldía en mayo de 2015."
+    titulo: "Elecciones municipales"
+    descripcion: "Se celebran las elecciones municipales de mayo de 2015. No consta que Pensado cesara como alcalde ese mismo día: el Tribunal Supremo sitúa el final de su etapa al frente de la alcaldía en mayo de 2015 y menciona, en relación con otro expediente, una actuación del alcalde «en funciones» el 11 de junio de 2015, después de haberse celebrado ya las elecciones municipales. La prensa lo sitúa después como edil y, más tarde, como teniente de alcalde en un gobierno local del PP, lo que motivó nuevas peticiones de dimisión."
     type: "resumen"
     urls:
       - "https://www.eldiario.es/galicia/siete-anos-inhabilitacion-prevaricacion-exalcalde-pp-coristanco-coruna_1_8646866.html"
@@ -108,7 +107,7 @@ cronologia:
 
   - fecha: 2021-10-15
     titulo: "Inicio del juicio oral en la Audiencia Provincial"
-    descripcion: "Comienza el juicio oral ante la Sección Segunda de la Audiencia Provincial de A Coruña (señalado también para los días 25, 26, 27 y 28 de octubre y 16, 17 y 18 de noviembre). Pensado niega haber favorecido a las empresas, afirma que se limitaba a firmar lo que le encargaban los funcionarios y defiende su gestión."
+    descripcion: "El juicio oral ante la Sección Segunda de la Audiencia Provincial de A Coruña estaba señalado para los días 15, 25, 26, 27 y 28 de octubre y 16, 17 y 18 de noviembre (antecedente de hecho primero de la sentencia de instancia). La crónica de Galiciapress del 15 de octubre de 2021, que recoge la primera jornada, relata que Pensado negó haber favorecido a las empresas, afirmó que se limitaba a seguir las instrucciones de los técnicos y defendió su gestión."
     type: "juicio"
     urls:
       - "https://www.galiciapress.es/texto-diario/mostrar/3234941/exregidor-coristanco-antonio-pensado-niega-favoreciese-empresa-segui-instrucciones-tecnicos"
@@ -134,13 +133,16 @@ cronologia:
 
 ## Alcance y límites de la ficha (revisión de 1 de octubre de 2026)
 
-- **Fuentes primarias.** Se han descargado y comprobado la sentencia de la Audiencia Provincial de A Coruña SAP C 934/2022, de 10 de enero de 2022 (40 págs.), y la sentencia del Tribunal Supremo STS 401/2024, de 16 de mayo de 2024 (21 págs.). Ambas anonimizan a las personas físicas; la sentencia de la Audiencia sí identifica a las sociedades (Gesmaga S.L. y Construcciones Martínez e Hijos S.L.) y al grupo Maracaná.
+- **Fuentes primarias.** Se han comprobado la sentencia de la Audiencia Provincial de A Coruña SAP C 934/2022, de 10 de enero de 2022 (40 págs.), y la sentencia del Tribunal Supremo STS 401/2024, de 16 de mayo de 2024 (21 págs.). Ambas anonimizan a las personas físicas; la sentencia de la Audiencia sí identifica a las sociedades (Gesmaga S.L. y Construcciones Martínez e Hijos S.L.) y al grupo Maracaná.
 - **Fecha de la sentencia de instancia.** La cabecera del PDF y la sentencia del Supremo la fechan el 10 de enero de 2022. El cuerpo del PDF contiene un error material: dice «En A Coruña, a 10 de enero de 2021». Se toma como fecha correcta 2022, confirmada por el Supremo. La sentencia se conoció el 11 de enero de 2022.
+- **Autorización de residuos.** El documento lleva la fecha de 14 de junio de 2012, cinco días antes de la inspección del SEPRONA (19 de junio). La Audiencia precisa que Primitivo acudió al Ayuntamiento a buscar el papel durante la inspección y que ello «permite inferir que ni siquiera puede deducirse que efectivamente se hubiese realizado en aquella fecha»: la fecha que figura en el documento no consta como fecha efectiva de su dictado. El Supremo confirma la condena por este hecho.
+- **Autoría.** El fallo de la Audiencia condena a los cuatro acusados como «autores» de un delito de prevaricación (arts. 28 y 65.3 CP). En el fundamento séptimo razona la participación de los tres hermanos como «cooperadores necesarios». Se recoge la calificación del fallo.
 - **Alcance de la condena.** La condena se refiere únicamente al apartado B (depósito y triturado de residuos de construcción en una finca en 2012). La Audiencia absolvió a los acusados del resto de delitos de prevaricación y del de tráfico de influencias y a Pensado del de falsedad. La adjudicación de las 30 obras a Construcciones Martínez e Hijos S.L. y el posible trato de favor en las licencias de compostaje no fueron declarados probados como delito.
-- **Cifra económica.** Los 2.368.234,89 euros son el importe facturado por Construcciones Martínez e Hijos S.L. por las 30 licitaciones adjudicadas de los 45 expedientes de obra pública (2009-2013). No es un perjuicio declarado ni una indemnización. Según los hechos probados, la sanción administrativa de la Xunta por el depósito no autorizado fue de 15.000 euros, abonada por la empresa.
-- **Procedimiento distinto sobre hormigón y gasóleo.** La causa por el uso particular de tres partidas de hormigón (2011) y por el suministro de gasóleo a las instalaciones municipales (2012) —delitos de malversación, prevaricación y fraude— fue un procedimiento separado: la Audiencia Provincial absolvió a Pensado en julio de 2021, en una resolución en la que también resultaron absueltos su esposa y su hijo. No forma parte de la condena aquí descrita.
+- **Cifra económica.** Los 2.368.234,89 euros son el importe facturado por Construcciones Martínez e Hijos S.L. por las 30 licitaciones adjudicadas de los 45 expedientes de obra pública (2009-2013). No es un perjuicio declarado, ni una indemnización, ni un hecho declarado irregular por el tribunal. Según los hechos probados, la sanción administrativa de la Xunta por el depósito no autorizado fue de 15.000 euros, abonada por la empresa.
+- **Procedimiento distinto sobre hormigón y gasóleo.** La causa por el uso particular de tres partidas de hormigón (2011) y por el suministro de gasóleo a las instalaciones municipales (2012) —delitos de malversación, prevaricación y fraude— fue un procedimiento separado: la Audiencia Provincial absolvió a Pensado en julio de 2021, en una resolución en la que también resultaron absueltos su esposa y su hijo. No forma parte de la condena aquí descrita. Esa absolución se conoce por prensa y no se ha localizado la resolución primaria de ese procedimiento.
 - **«Operación Pataca».** Es una denominación empleada por la prensa local (Que Pasa na Costa, 2018). No consta como nombre oficial de la causa en las resoluciones consultadas.
-- **Nombres y cargos.** Las resoluciones judiciales anonimizan a las personas físicas. Los nombres de los tres hermanos (José Manuel, Francisco Javier y Juan Martínez Pena) proceden de La Voz de Galicia (11 de enero de 2022). El segundo nombre «Macario» para Juan no está corroborado por fuentes aceptadas y se ha retirado. Los cargos indicados corresponden al periodo de los hechos y no se presumen vigentes.
+- **Nombres y cargos.** Las resoluciones judiciales anonimizan a las personas físicas. Los nombres de los tres hermanos (José Manuel, Francisco Javier y Juan Martínez Pena) proceden de La Voz de Galicia (11 de enero de 2022), por lo que no están verificados en fuente primaria. Los cargos indicados corresponden al periodo de los hechos y no se presumen vigentes.
+- **Etapa en la alcaldía.** El Tribunal Supremo sitúa la toma de posesión el 15 de junio de 1991 y el final de su etapa al frente de la alcaldía en mayo de 2015. No consta el día exacto del cese: la propia sentencia menciona una actuación del alcalde «en funciones» el 11 de junio de 2015, después de celebrarse ya las elecciones municipales.
 - **Fecha de inicio.** Se fija `fechaInicio` el 12 de agosto de 2013, fecha documentada de la denuncia de la secretaria ante la Fiscalía. La querella del empresario rival, que originó el procedimiento, es de julio de 2013, sin día exacto documentado.
 - **Firmeza.** La condena es firme: el Supremo desestimó el único recurso pendiente (el de la acusación particular) mediante una resolución contra la que no cabe recurso; la defensa de Pensado y el Ministerio Fiscal habían desistido previamente.
 - **Sin novedades posteriores.** No se han localizado resoluciones ni noticias posteriores a mayo de 2024 que modifiquen lo anterior; la ficha no da por mantenida ninguna situación política o personal posterior a esa fecha.
