@@ -1,128 +1,128 @@
 ---
 nombre: "Bea Gondar"
 partido: PP
-completado: true
+completado: false
 año: 1991
 fechaInicio: 1991-06-14
-fechaFin: "2020-06-08"
-estado: "cerrado con condenas"
+fechaFin: ""
+estado: "sentencia firme"
 descripcion: |
-  El caso Bea Gondar tiene como protagonista a José Alfredo Bea Gondar, exalcalde de O Grove (Pontevedra) y figura histórica del PP y sus predecesores en Galicia. Bea Gondar fue detenido el 14 de junio de 1991, apenas días antes de tomar posesión como alcalde tras ganar las elecciones municipales, por su presunta implicación en el transporte de un alijo de más de dos toneladas de cocaína. El vehículo utilizado por un ciudadano colombiano detenido en Madrid con 30 kilos de cocaína había sido alquilado a nombre de Bea Gondar en Pontevedra, y la investigación, dirigida por el juez Baltasar Garzón, lo vinculó con una banda de narcotraficantes afincada en Marbella. Aquella mañana del 20 de junio de 1991, el día de la investidura, Bea Gondar se encontraba en la cárcel de Alcalá Meco.
+  El caso Bea Gondar se refiere a José Alfredo Bea Gondar, exalcalde de O Grove (Pontevedra) y dirigente histórico de la UCD, Convergencia de Independientes de Galicia y Alianza Popular en la comarca de Arousa. Fue detenido el 14 de junio de 1991, días antes de la constitución del nuevo ayuntamiento, por orden del juez de la Audiencia Nacional Baltasar Garzón, tras constatarse que un vehículo alquilado a su nombre en Pontevedra había sido utilizado por un ciudadano colombiano detenido en Madrid con 30 kilos de cocaína; la investigación lo vinculó a una red de narcotraficantes afincada en Marbella. Aunque encabezaba la lista más votada y llegó a ser proclamado alcalde sin recibir ningún voto, no llegó a tomar posesión y fue destituido en junio de 1991 mientras permanecía en prisión preventiva en Alcalá Meco. Según el relato del libro Fariña y de las crónicas de la época, el episodio se relaciona con el naufragio en mayo de 1991 de un alijo de más de dos toneladas de cocaína en la costa de Cedeira (A Coruña), del que se recuperaron unos 300 kilos.
 
-  La Audiencia Nacional lo condenó inicialmente a cuatro años de prisión por el delito de narcotráfico, pero el Tribunal Supremo anuló posteriormente esa condena al invalidar el testimonio clave de la acusación. Sin embargo, Bea Gondar no quedó exento de responsabilidad penal: en julio de 2005 la Audiencia Nacional lo condenó a tres años y tres meses de prisión por blanqueo de capitales procedentes del narcotráfico, al quedar probado que viajó de Madrid a Burgos para entregar una maleta con dinero en efectivo en una sucursal bancaria. En abril de 2007, el Tribunal Supremo agravó la condena hasta cuatro años, siete meses y quince días al apreciar la agravante de pertenencia a organización criminal.
+  En el plano penal, la Audiencia Nacional lo condenó por narcotráfico en febrero de 2004 (cuatro años de prisión y 600.000 euros de multa, según las crónicas), pero el Tribunal Supremo lo absolvió en 2006 al invalidar el testimonio de un arrepentido. En 2005 la Audiencia Nacional lo condenó por blanqueo de capitales procedente del narcotráfico a tres años y tres meses de prisión, al considerar probado que viajó de Madrid a Burgos para entregar una maleta con dinero en efectivo en una sucursal del Banco Espíritu Santo. En 2007 el Tribunal Supremo elevó la pena a cuatro años, siete meses y quince días —el mínimo legal para el delito— al apreciar la agravante de pertenencia a organización criminal. Esta condena quedó firme. Su coimputado Pablo Vioque fue absuelto.
 
-  El caso cobró un renovado protagonismo en 2018 cuando Bea Gondar, ya exalcalde, demandó al periodista Nacho Carretero y a la editorial Libros del KO por las referencias que el libro "Fariña" hacía a su procesamiento por narcotráfico. Una jueza de Collado Villalba accedió a su petición y ordenó el secuestro cautelar del libro, que permaneció tres meses y medio retirado del mercado. La medida generó un enorme escándalo de libertad de prensa y disparó las ventas del libro hasta los primeros puestos en Amazon. La Audiencia Provincial de Madrid levantó el secuestro en junio de 2018, el fiscal pidió desestimar la demanda, y finalmente la Audiencia Provincial condenó a Bea Gondar a indemnizar al autor y a la editorial con un total de 16.400 euros por los daños causados por el secuestro cautelar. El Tribunal Supremo tumbó definitivamente la demanda civil de Bea Gondar en 2020.
+  En el plano civil, Bea Gondar demandó al periodista Nacho Carretero y a la editorial Libros del KO por las menciones a su persona en el libro Fariña (2015), reclamando 500.000 euros por vulneración de su derecho al honor. La fecha de presentación de la demanda no está verificada: las crónicas la sitúan en 2016 o a comienzos de 2018. En febrero de 2018 la jueza Alejandra Fontana, del Juzgado de Primera Instancia nº 7 de Collado Villalba, acordó como medida cautelar el secuestro del libro, que dejó de comercializarse durante varios meses; la Audiencia Provincial de Madrid levantó el secuestro en junio de 2018. En julio de 2018 la jueza Mercedes Galindo desestimó la demanda y condenó en costas al demandante. En junio de 2020 la Audiencia Provincial de Madrid condenó a Bea Gondar a indemnizar a Carretero con 3.437,96 euros y a Libros del KO con 13.042,21 euros por los daños del secuestro. La Sala de lo Civil del Tribunal Supremo desestimó el recurso extraordinario por infracción procesal y el recurso de casación de Bea Gondar mediante la sentencia nº 29/2021, de 25 de enero de 2021 (votación y fallo el 20 de enero de 2021), dada a conocer por la prensa el 3 de febrero de 2021; esta resolución pone fin a la vía civil por vulneración del honor, no al conjunto del caso.
 
-resumen: "Exalcalde de O Grove condenado por blanqueo de capitales del narcotráfico gallego y por provocar el secuestro judicial del libro Fariña"
+  Dos advertencias sobre esta ficha, que se apoya en crónicas de prensa y en el resumen oficial del CGPJ y no en el texto íntegro de las resoluciones: las fechas exactas de las resoluciones civiles de instancia (secuestro, levantamiento, desestimación e indemnización) no están verificadas y se consignan como fechas de publicación; y el campo `partido: PP` se conserva por la ruta del caso, aunque en 1991 Bea Gondar concurrió por la Agrupación Vecinal Independiente, no por el PP, y el propio libro le atribuyó una militancia en el PP que fue objeto del litigio.
+
+resumen: "Exalcalde de O Grove condenado en firme por blanqueo de capitales procedente del narcotráfico; su demanda por el libro Fariña originó el secuestro cautelar de la obra y fue desestimada, con condena a indemnizar al autor y a la editorial"
 lugar: "O Grove, Pontevedra, Galicia"
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción - Juez Baltasar Garzón"
+  - "Audiencia Nacional - Sala de lo Penal"
   - "Tribunal Supremo - Sala de lo Penal"
-  - "Juzgado de Primera Instancia nº 7 de Collado Villalba - Jueza Alejandra Pontana"
+  - "Juzgado de Primera Instancia nº 7 de Collado Villalba (Madrid)"
   - "Audiencia Provincial de Madrid"
-numeroSentencia: "STS Sala 2ª 25/04/2007 - Sentencia AN 27/07/2005"
+  - "Tribunal Supremo - Sala de lo Civil"
 implicados:
   - nombre: "José Alfredo Bea Gondar"
-    cargo: "Exalcalde de O Grove (PP/Alianza Popular)"
-    rol: "Condenado por blanqueo de capitales del narcotráfico y por secuestro cautelar abusivo del libro Fariña"
+    cargo: "Exalcalde de O Grove (UCD, Convergencia de Independientes de Galicia y Alianza Popular; en 1991, por la Agrupación Vecinal Independiente)"
+    rol: "Condenado en firme por blanqueo de capitales procedente del narcotráfico; absuelto por el Tribunal Supremo del delito de narcotráfico. Su demanda por el libro Fariña originó el secuestro cautelar de la obra y fue desestimada; condenado a indemnizar al autor y a la editorial"
 
   - nombre: "Pablo Vioque"
-    cargo: "Empresario, amigo de Bea Gondar"
-    rol: "Investigado por colaboración en el alijo de cocaína; absuelto por la Audiencia Nacional"
+    cargo: "Abogado y empresario; expresidente de la Cámara de Comercio de Vilagarcía"
+    rol: "Acusado en la causa de blanqueo y absuelto por la Audiencia Nacional"
 
   - nombre: "Nacho Carretero"
     cargo: "Periodista, autor del libro Fariña"
-    rol: "Víctima del secuestro judicial del libro; indemnizado con 3.400 euros por los daños"
+    rol: "Demandado por Bea Gondar; autor de la obra secuestrada cautelarmente e indemnizado por los daños del secuestro"
 
 tags:
   - "corrupción"
   - "blanqueo de capitales"
   - "narcotráfico"
-  - "libertad de prensa"
-  - "censura judicial"
+  - "libertad de información"
+  - "derecho al honor"
 
-impactoSocial: "El caso Bea Gondar ilustra los vínculos históricos del PP gallego con las redes de narcotráfico en las Rías Baixas durante los años 80 y 90. El intento de silenciar el libro Fariña mediante el secuestro judicial generó un escándalo de libertad de prensa de alcance nacional e internacional, convirtió la obra en un best-seller y reabrió el debate sobre el papel de la justicia como herramienta de censura al servicio de políticos condenados."
+impactoSocial: "El secuestro cautelar del libro Fariña en 2018, acordado a petición de Bea Gondar y revocado unos cuatro meses después, generó un debate público sobre los límites entre el derecho al honor y la libertad de información y sobre el uso de medidas cautelares contra obras periodísticas. El libro, publicado en 2015, se convirtió en un fenómeno editorial y fue adaptado a televisión; la demanda de Bea Gondar fue finalmente desestimada, y este condenado a indemnizar al autor y a la editorial por los daños del secuestro."
 
 documentos: []
 
 cronologia:
-  - fecha: "1991-05-01"
-    titulo: "Naufragio del alijo de cocaína en Cedeira"
-    descripcion: "Un alijo de más de dos toneladas de cocaína naufraga en la costa coruñesa de Cedeira. Del cargamento se recuperan unos 300 kilos. La operación está vinculada a una banda de narcotraficantes afincada en Marbella. La investigación posterior, dirigida por el juez de la Audiencia Nacional Baltasar Garzón, relacionará el alijo con Alfredo Bea Gondar, alcalde electo de O Grove."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/politica/bea-gondar-condenado-secuestro-farina_1_2784030.html"
-
   - fecha: "1991-06-14"
-    titulo: "Detención de Bea Gondar días antes de su investidura"
-    descripcion: "José Alfredo Bea Gondar es detenido el 14 de junio de 1991, apenas seis días antes de que debía ser investido alcalde de O Grove tras ganar las elecciones municipales. La detención se produce tras descubrirse que el vehículo utilizado por un ciudadano colombiano apresado en Madrid con 30 kilos de cocaína había sido alquilado a nombre de Bea Gondar en Pontevedra. El juez Baltasar Garzón instruye la causa en la Audiencia Nacional. El 20 de junio de 1991, día de la investidura, Bea Gondar se encuentra internado en la prisión de Alcalá Meco."
-    type: "detención"
+    titulo: "Detención de Bea Gondar días antes de la constitución del ayuntamiento"
+    descripcion: "José Alfredo Bea Gondar es detenido el 14 de junio de 1991 por orden del juez de la Audiencia Nacional Baltasar Garzón, tras constatarse que un vehículo alquilado a su nombre en Pontevedra había sido usado por un ciudadano colombiano detenido en Madrid con 30 kilos de cocaína. Encabezaba la lista más votada en O Grove y, aunque fue proclamado alcalde sin recibir ningún voto, no llegó a tomar posesión. Permaneció en prisión preventiva en Alcalá Meco y fue destituido en junio de 1991."
+    type: "detencion"
+    relevancia: "alta"
     urls:
-      - "https://www.eldiario.es/politica/bea-gondar-condenado-secuestro-farina_1_2784030.html"
       - "https://www.elcorreogallego.es/galicia/2019/05/22/alcalde-preso-pudo-posesion-cargo-109906661.html"
-
-  - fecha: "2001-01-01"
-    titulo: "Procesado por el alijo de cocaína"
-    descripcion: "Tras años de instrucción judicial, Alfredo Bea Gondar es formalmente procesado por la Audiencia Nacional en relación con el alijo de más de dos toneladas de cocaína de 1991. La causa lo acusa junto a Pablo Vioque de colaborar con una banda afincada en Marbella para introducir el cargamento en España. La Audiencia Nacional condena a Bea Gondar a cuatro años de prisión y una multa de 600.000 euros por narcotráfico, aunque posteriormente el Tribunal Supremo anulará esta condena al invalidar el testimonio principal de la acusación."
-    type: "imputación"
-    urls:
-      - "https://www.publico.es/sociedad/exalcalde-narcotraficante-pp-logro-secuestrar-libro.html"
-      - "https://www.elespanol.com/reportajes/20180222/alfredo-bea-alcalde-farina-convertido-best-seller-silenciar/286722481_0.html"
-
-  - fecha: "2005-07-27"
-    titulo: "Audiencia Nacional condena a Bea Gondar por blanqueo de capitales"
-    descripcion: "La Audiencia Nacional dicta sentencia condenando a José Alfredo Bea Gondar a tres años y tres meses de prisión por un delito de blanqueo de capitales procedentes del narcotráfico. Queda probado que Bea Gondar viajó de Madrid a Burgos para entregar una maleta con dinero en efectivo en la sucursal de un banco, operación que la sala considera un acto consciente de blanqueo de fondos del narcotráfico. Su coimputado Pablo Vioque es absuelto. La sentencia confirma la relación de Bea Gondar con las redes de tráfico de drogas gallegas de los años 90."
-    type: "sentencia"
-    urls:
-      - "http://www.vieiro.org/web/notic.php?idc=1&ide=1694&imp=1"
       - "https://www.eldiario.es/politica/bea-gondar-condenado-secuestro-farina_1_2784030.html"
-
-  - fecha: "2007-04-25"
-    titulo: "Tribunal Supremo agrava la condena por blanqueo"
-    descripcion: "El Tribunal Supremo dicta sentencia en el recurso contra la condena de la Audiencia Nacional e incrementa la pena de Bea Gondar de tres años y tres meses a cuatro años, siete meses y quince días de prisión. La Sala de lo Penal aprecia la concurrencia de la agravante de pertenencia a organización criminal, elevando la pena por encima del mínimo. La condena queda definitivamente firme, cerrando la vía penal del caso de narcotráfico."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/politica/bea-gondar-condenado-secuestro-farina_1_2784030.html"
-      - "https://www.elespanol.com/reportajes/20180222/alfredo-bea-alcalde-farina-convertido-best-seller-silenciar/286722481_0.html"
-
-  - fecha: "2018-01-01"
-    titulo: "Bea Gondar demanda al autor y editorial de Fariña"
-    descripcion: "José Alfredo Bea Gondar presenta una demanda civil contra el periodista Nacho Carretero y la editorial Libros del KO por la publicación del libro Fariña, un trabajo periodístico sobre el narcotráfico gallego. Bea Gondar objeta una nota al pie del libro que lo describe como 'alcalde de O Grove, afiliado al PP (otro más) y procesado en 2001 por un alijo de dos toneladas de cocaína', alegando vulneración de su derecho al honor porque la cita no recoge que la condena por narcotráfico fue posteriormente anulada por el Supremo. Reclama medio millón de euros en concepto de daños y perjuicios."
-    type: "denuncia"
-    urls:
-      - "https://www.eldiario.es/politica/bea-gondar-condenado-secuestro-farina_1_2784030.html"
-      - "https://www.xataka.com/magnet/estos-son-los-extractos-de-farina-por-los-que-se-ha-pedido-el-secuestro-judicial-del-libro"
 
   - fecha: "2018-02-20"
-    titulo: "Una jueza ordena el secuestro cautelar del libro Fariña"
-    descripcion: "La jueza Alejandra Pontana, del Juzgado de Primera Instancia nº 7 de Collado Villalba, acuerda como medida cautelar el secuestro del libro Fariña a petición de Bea Gondar, prohibiendo la impresión y comercialización de nuevos ejemplares. La medida genera un escándalo inmediato de libertad de prensa de alcance nacional e internacional. La noticia del secuestro judicial dispara la demanda del libro, que trepa hasta los primeros puestos de ventas en Amazon y se agota en librerías. Los medios de comunicación convierten el caso en símbolo de censura judicial."
+    titulo: "Se conoce el secuestro cautelar del libro Fariña"
+    descripcion: "En febrero de 2018 se conoce, a través de la prensa, que la jueza Alejandra Fontana, del Juzgado de Primera Instancia nº 7 de Collado Villalba (Madrid), acordó como medida cautelar el secuestro del libro Fariña, de Nacho Carretero, a petición de Bea Gondar, que había demandado al autor y a Libros del KO reclamando 500.000 euros por vulneración de su derecho al honor. La medida exigía el depósito de una fianza de 10.000 euros y la obra dejó de comercializarse durante varios meses. La fecha exacta del auto no se ha podido verificar: el 20 de febrero de 2018 es la fecha en que la prensa situó la medida y la dio a conocer."
     type: "documento"
+    relevancia: "alta"
     urls:
       - "https://www.eldiario.es/politica/secuestro-cautelar-farina-exalcalde-grove_1_2779135.html"
-      - "https://www.elespanol.com/cultura/libros/20180220/jueza-ordena-secuestro-libro-farina-narcotrafico-gallego/286472589_0.html"
+      - "https://www.elespanol.com/reportajes/20180222/alfredo-bea-alcalde-farina-convertido-best-seller-silenciar/286722481_0.html"
 
   - fecha: "2018-06-22"
-    titulo: "La Audiencia Provincial de Madrid levanta el secuestro de Fariña"
-    descripcion: "Tres meses y medio después de haberse ordenado, la Audiencia Provincial de Madrid revoca la medida cautelar de secuestro del libro Fariña impuesta por el juzgado de Collado Villalba. El fiscal había pedido previamente levantar el secuestro y rechazar la demanda de Bea Gondar. El libro vuelve a las librerías y a las plataformas de venta online. La resolución supone un primer varapalo judicial a la estrategia de Bea Gondar de utilizar los tribunales para silenciar la obra de Carretero."
-    type: "resumen"
+    titulo: "Se conoce que la Audiencia Provincial de Madrid levanta el secuestro de Fariña"
+    descripcion: "En junio de 2018 se conoce, a través de la prensa, que la Audiencia Provincial de Madrid estimó el recurso de Carretero y Libros del KO y revocó el secuestro cautelar del libro, que volvió a las librerías. El fiscal había pedido también levantar la medida y rechazar la demanda. La Audiencia consideró que las menciones a Bea Gondar no traspasan los límites del derecho a la información. La fecha exacta del auto no se ha podido verificar: el 22 de junio de 2018 es la fecha en que la prensa dio a conocer la decisión."
+    type: "recurso"
+    relevancia: "alta"
     urls:
       - "https://www.eldiario.es/cultura/Justicia-levanta-secuestro-Farina_0_784971612.html"
-      - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1178401"
+      - "https://www.publico.es/politica/fiscal-pide-levantar-secuestro-farina-rechazar-demanda-bea-gondar.html"
+
+  - fecha: "2018-07-18"
+    titulo: "Se conoce la desestimación de la demanda por vulneración del honor"
+    descripcion: "En julio de 2018 se conoce, a través de la prensa, que la jueza Mercedes Galindo, del Juzgado de Primera Instancia nº 7 de Collado Villalba, desestimó la demanda de Bea Gondar contra Nacho Carretero y Libros del KO y condenó al demandante al pago de las costas. La sentencia dio la razón al autor y a la editorial. La fecha exacta de la sentencia no se ha podido verificar: el 18 de julio de 2018 es la fecha en que la prensa dio a conocer el fallo."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.diariodenavarra.es/noticias/cultura-ocio/cultura/2018/07/18/desestimada-demanda-contra-farina-tras-tres-meses-secuestro-601807-1034.html"
 
   - fecha: "2020-06-08"
-    titulo: "Bea Gondar condenado a indemnizar al autor y la editorial"
-    descripcion: "La Audiencia Provincial de Madrid condena a José Alfredo Bea Gondar a indemnizar al periodista Nacho Carretero con 3.400 euros y a la editorial Libros del KO con 13.000 euros, un total de 16.400 euros, por los perjuicios económicos causados por el secuestro cautelar abusivo del libro Fariña. El tribunal establece que Bea Gondar abusó de la vía judicial para censurar una obra periodística legítima, causando pérdidas de ventas a la editorial y al autor durante los tres meses y medio que duró el secuestro."
+    titulo: "Se conoce la condena a Bea Gondar a indemnizar por el secuestro"
+    descripcion: "En junio de 2020 se conoce, a través de la prensa, que la Audiencia Provincial de Madrid revocó la resolución del juzgado que había rechazado la liquidación de daños y condenó a Bea Gondar a indemnizar a Nacho Carretero con 3.437,96 euros y a la editorial Libros del KO con 13.042,21 euros —unos 16.480 euros en total— por las pérdidas de ventas causadas por el secuestro cautelar del libro. La resolución es firme. La fecha exacta de la resolución no se ha podido verificar: el 8 de junio de 2020 es la fecha en que la prensa dio a conocer el fallo."
     type: "sentencia"
+    relevancia: "alta"
     urls:
       - "https://www.moncloa.com/2020/06/08/condena-exalcalde-o-grove-secuestro-farina-201616/"
       - "https://www.elfaradio.com/2020/06/08/el-exalcalde-cuya-denuncio-llevo-al-secuestro-de-farina-condenado-a-indemnizar-a-libros-del-ko-y-al-autor/"
+      - "https://www.elconfidencial.com/cultura/2020-06-08/farina-libros-del-ko-nacho-carretero-alcalde-grove_2629311/"
 
-  - fecha: "2020-12-01"
-    titulo: "Tribunal Supremo tumba la demanda civil de Bea Gondar"
-    descripcion: "El Tribunal Supremo desestima definitivamente la demanda civil presentada por Alfredo Bea Gondar contra el autor Nacho Carretero y los editores de Fariña. El alto tribunal concluye que las menciones contenidas en el libro son verídicas en su contenido esencial y están amparadas por la libertad de información, poniendo fin a la larga batalla judicial del exalcalde gallego para silenciar la obra que documentaba su implicación en el narcotráfico gallego."
+  - fecha: "2021-01-25"
+    titulo: "El Tribunal Supremo desestima los recursos civiles de Bea Gondar (STS 29/2021)"
+    descripcion: "La Sala de lo Civil del Tribunal Supremo desestima el recurso extraordinario por infracción procesal y el recurso de casación de Bea Gondar contra la sentencia de la Audiencia Provincial de Madrid, confirmando la desestimación de su demanda contra Carretero y Libros del KO, con condena en costas. Se trata de la sentencia nº 29/2021, de 25 de enero de 2021 (recurso 5579/2019, ponente María Ángeles Parra Lucán, ECLI ES:TS:2021:102), cuya votación y fallo se produjo el 20 de enero de 2021 y que se dio a conocer el 3 de febrero de 2021. El resumen oficial del CGPJ recoge que prevalece la libertad de información porque las menciones del libro son veraces y de interés general. El texto íntegro de la sentencia no se ha podido consultar en CENDOJ."
     type: "sentencia"
+    relevancia: "alta"
     urls:
+      - "https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/RESUMENES%20SENTENCIAS%20SALA%201/20210208%20Resumen%20Sentencias%20TS%20Sala1%20Sec1%20de%2001-02%20al%2005-02%20de%202021.pdf"
+      - "https://confilegal.com/20210204-el-supremo-confirma-la-sentencia-que-desestimo-la-demanda-del-exalcalde-de-o-grove-contra-la-editorial-y-el-autor-de-farina/"
+      - "https://elpais.com/cultura/2021-02-03/el-supremo-confirma-la-sentencia-que-desestimaba-la-demanda-contra-farina-de-nacho-carretero.html"
       - "https://www.publico.es/politica/supremo-tumba-demanda-exalcalde-grove-autor-editores-farina.html"
-      - "https://jurisprudentes.es/farina-y-el-derecho-al-honor-segun-el-tribunal-supremo/"
+      - "https://www.pontevedraviva.com/es/general/bea-gondar-pierde-definitivamente-su-batalla-judicial-contra-farina_321841_102.html"
 
 ---
+
+## Incertidumbres y limitaciones
+
+Esta ficha se apoya en crónicas de prensa y en el resumen oficial de sentencias del CGPJ correspondiente a la sentencia civil de 25 de enero de 2021 (publicado en poderjudicial.es). No se ha podido consultar el texto íntegro de las resoluciones: el buscador del CENDOJ no devolvió resultados utilizables.
+
+- **Resoluciones penales por blanqueo (2005 y 2007).** Una versión anterior de la ficha consignaba como fechas exactas el 27 de julio de 2005 y el 25 de abril de 2007. No se han podido confirmar en fuentes accesibles: de la sentencia de la Audiencia Nacional solo consta que se notificó a finales de julio de 2005, y la del Tribunal Supremo está datada únicamente en el año 2007. Se conservan por eso el año y el mes en la descripción y se han retirado de la cronología los hitos con día exacto, así como la referencia del campo `numeroSentencia`. No consta número de resolución verificado.
+
+- **Sentencia del Tribunal Supremo (Sala de lo Civil) de 25 de enero de 2021.** Se trata de la sentencia nº 29/2021, de 25 de enero de 2021 (recurso 5579/2019, ponente M.ª Ángeles Parra Lucán, ECLI ES:TS:2021:102), con votación y fallo el 20 de enero de 2021 y dada a conocer por la prensa el 3 de febrero de 2021; desestimó el recurso extraordinario por infracción procesal y el recurso de casación. La fecha, el número y el fallo se han verificado en el resumen oficial de sentencias del CGPJ (poderjudicial.es); el texto íntegro no se ha podido consultar en CENDOJ. La ficha anterior fechaba la resolución el 20 de enero de 2021, confundiendo la fecha de votación y fallo con la fecha de la sentencia.
+
+- **Demanda civil.** Su fecha de presentación no está verificada: las crónicas la sitúan en 2016 o a comienzos de 2018.
+
+- **Fechas del secuestro (20-02-2018), del levantamiento (22-06-2018), de la sentencia desestimatoria (18-07-2018) y de la indemnización (08-06-2020).** Son las fechas con que la prensa dio a conocer cada decisión; no se ha podido confirmar que coincidan con la fecha de la resolución judicial correspondiente. En la cronología se presentan, por ello, como hechos dados a conocer en esa fecha.
+
+- **Grafía de la jueza del Juzgado nº 7 de Collado Villalba.** La mayoría de las fuentes de prensa escriben «Fontana» (El País, El Español, Público) y algunas «Pontana» (elDiario.es, El Confidencial); se adopta «Fontana» por coincidir con la referencia más extendida.
+
+- **Cierre del caso (`fechaFin`).** El campo se deja vacío a propósito: la sentencia de 25 de enero de 2021 solo cierra la vía civil por vulneración del honor, no el conjunto de los procedimientos, cuya rama penal por blanqueo quedó firme en 2007.
+
+- **Etiqueta de partido.** El campo `partido: PP` se conserva por la ruta del caso; en 1991 Bea Gondar concurrió por la Agrupación Vecinal Independiente, no por el PP. La propia sentencia del Supremo consideró irrelevante a efectos del honor el error de afiliación partidista que el libro atribuía al demandante.
+
+No constan novedades documentadas sobre Bea Gondar posteriores a 2021.
