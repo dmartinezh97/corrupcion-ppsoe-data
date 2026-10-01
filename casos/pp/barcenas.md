@@ -6,7 +6,7 @@ año: 2009
 fechaFin: ""
 estado: "sentencia firme"
 descripcion: |
-  El "caso Bárcenas" reúne las investigaciones sobre la contabilidad paralela ("caja B") del Partido Popular y sobre el patrimonio oculto de Luis Bárcenas, gerente del partido entre 1990 y 2008 y tesorero desde junio de 2008 hasta abril de 2010, además de senador. Según las resoluciones judiciales, durante casi dos décadas Bárcenas gestionó donaciones privadas en metálico que no se reflejaron en la contabilidad oficial del partido ni fueron fiscalizadas por el Tribunal de Cuentas y que se destinaron a gastos de la formación —entre ellos parte de la reforma de su sede en la calle Génova de Madrid— y al pago de sobresueldos a dirigentes, con el dinero guardado en una caja fuerte situada en su despacho.
+  El "caso Bárcenas" reúne las investigaciones sobre la contabilidad paralela ("caja B") del Partido Popular y sobre el patrimonio oculto de Luis Bárcenas, gerente del partido entre 1990 y 2008 y tesorero desde junio de 2008 hasta abril de 2010, además de senador por Cantabria entre 2004 y 2010. Según las resoluciones judiciales, durante casi dos décadas Bárcenas gestionó donaciones privadas en metálico que no se reflejaron en la contabilidad oficial del partido ni fueron fiscalizadas por el Tribunal de Cuentas y que se destinaron a gastos de la formación —entre ellos parte de la reforma de su sede en la calle Génova de Madrid— y al pago de sobresueldos a dirigentes, con el dinero guardado en una caja fuerte situada en su despacho.
 
   Los "papeles de Bárcenas", publicados por El País el 31 de enero de 2013, recogían anotaciones manuscritas y hojas de cálculo de entradas y salidas entre 1990 y 2009. Las sentencias consideraron acreditada la existencia de la caja B y dieron credibilidad parcial a determinados apuntes, pero precisaron que no podía darse validez al documento en su integridad, al contener errores e incoherencias.
 
@@ -24,11 +24,11 @@ tribunal:
   - "Tribunal Supremo - Sala de lo Penal (Sala Segunda)"
   - "Juzgado Central de Vigilancia Penitenciaria de la Audiencia Nacional"
 
-numeroSentencia: "SAN 20/2018 (Gürtel, 17-05-2018); STS 507/2020 (14-10-2020); SAN 21/2021 (papeles de Bárcenas, causa 6/2015, 28-10-2021); STS 1033/2024 (14-11-2024, rec. 1595/2022, ECLI:ES:TS:2024:5577)"
+numeroSentencia: "SAN 20/2018 (Gürtel, 17-05-2018); STS 507/2020 (14-10-2020); SAN 21/2021 (papeles de Bárcenas, causa 6/2015, 28-10-2021, ROJ SAN 4424/2021, ECLI:ES:AN:2021:4424); STS 1033/2024 (14-11-2024, rec. 1595/2022, ECLI:ES:TS:2024:5577)"
 
 implicados:
   - nombre: "Luis Bárcenas Gutiérrez"
-    cargo: "Gerente del PP (1990-2008) y tesorero (2008-2010); senador"
+    cargo: "Gerente del PP (1990-2008) y tesorero (2008-2010); senador por Cantabria (2004-2010)"
     rol: "Condenado en la primera época de Gürtel (29 años y un mes) y por la reforma de Génova (8 meses)"
 
   - nombre: "Rosalía Iglesias Villar"
@@ -61,7 +61,7 @@ implicados:
 
   - nombre: "María Dolores de Cospedal"
     cargo: "Secretaria general del PP (2008-2018) y ministra de Defensa (2016-2018)"
-    rol: "Mencionada por Bárcenas como receptora de sobresueldos; no fue imputada"
+    rol: "Mencionada por Bárcenas como receptora de sobresueldos de la caja B; no fue imputada en la pieza de los papeles de Bárcenas (Génova). Su situación en la operación Kitchen, causa separada, no forma parte del objeto de esta ficha"
 
   - nombre: "Álvaro Pérez Alonso ('El Bigotes')"
     cargo: "Responsable de Orange Market (Gürtel en Valencia)"
@@ -86,19 +86,19 @@ documentos:
     titulo: "SAN 20/2018, de 17 de mayo: primera época de la trama Gürtel (Gürtel Época I)"
     filetype: "pdf"
     paginas: 1687
-    nombre_fichero: "http://www.poderjudicial.es/stfls/AUDIENCIA%20NACIONAL/JURISPRUDENCIA/AN%20Penal%2017%20mayo%202018.pdf"
+    nombre_fichero: "https://www.poderjudicial.es/stfls/AUDIENCIA%20NACIONAL/JURISPRUDENCIA/AN%20Penal%2017%20mayo%202018.pdf"
 
   - fecha: "2020-10-14"
-    titulo: "STS 507/2020, de 14 de octubre: casación de la primera época de Gürtel (rec. 10575/2018)"
+    titulo: "STS 507/2020, de 14 de octubre: casación de la primera época de Gürtel (rec. 10575/2018) — copia íntegra publicada por Mediaset"
     filetype: "pdf"
     paginas: 1844
     nombre_fichero: "https://files.mediaset.es/file/10002/2020/10/14/sentencia_gurtel_b373.pdf"
 
   - fecha: "2021-10-28"
-    titulo: "SAN 21/2021, de 28 de octubre: pieza de los papeles de Bárcenas (causa 6/2015)"
+    titulo: "SAN 21/2021, de 28 de octubre: pieza de los papeles de Bárcenas (causa 6/2015) — copia íntegra publicada en DocDroid"
     filetype: "pdf"
     paginas: 454
-    nombre_fichero: "https://www.docdroid.net/z32Auar/2021-10-28-sentencia-papeles-de-barcenas-pdf"
+    nombre_fichero: "https://www.docdroid.net/file/download/z32Auar/2021-10-28-sentencia-papeles-de-barcenas-pdf.pdf"
 
   - fecha: "2024-11-14"
     titulo: "STS 1033/2024, de 14 de noviembre: casación de la pieza de los papeles de Bárcenas (rec. 1595/2022)"
@@ -124,7 +124,7 @@ cronologia:
 
   - fecha: "2010-04-08"
     titulo: "Dimisión definitiva de Bárcenas como tesorero"
-    descripcion: "Luis Bárcenas deja definitivamente sus funciones como tesorero del PP y solicita la baja temporal como militante. La contabilidad paralela se había cerrado en 2008 y el partido lo situaba fuera de la organización desde esa fecha."
+    descripcion: "Luis Bárcenas deja definitivamente sus funciones como tesorero del PP y solicita la baja temporal como militante. El 19 de abril de 2010 formalizó además su renuncia al escaño de senador por Cantabria."
     type: "resumen"
     urls:
       - "https://www.eitb.eus/es/noticias/politica/caso-barcenas/detalle/1386852/caso-barcenas--resumen-cronologia-judicial-extesorero-pp-/"
@@ -281,7 +281,9 @@ cronologia:
 
 ## Notas sobre el ámbito, la firmeza y las incertidumbres
 
-- **Solapamiento con otras fichas.** El "caso Bárcenas" comparte hechos con `casos/pp/gürtel.md` (la primera época de la trama, que condenó a Bárcenas y al PP a título lucrativo), con `casos/pp/papeles_barcenas.md` (la contabilidad paralela y los papeles, ámbito casi idéntico) y con `casos/pp/gurtel-fitur.md` en lo relativo a Álvaro Pérez "El Bigotes". No se han editado esas fichas; el detalle de cada trama corresponde a su propia ficha.
+- **Solapamiento con otras fichas.** El "caso Bárcenas" comparte hechos con `casos/pp/gürtel.md` (la primera época de la trama, que condenó a Bárcenas y al PP a título lucrativo), con `casos/pp/papeles_barcenas.md` —ficha que abarca tanto la contabilidad paralela y los papeles como la pieza de la reforma de la sede de Génova, de modo que su ámbito se solapa con el de esta ficha en la caja B y en Génova— y con `casos/pp/gurtel-fitur.md` en lo relativo a Álvaro Pérez "El Bigotes". No se editan esas fichas ni se duplica su contenido: el detalle de cada trama corresponde a su propia ficha.
+
+- **Alcance de algunas afirmaciones.** La no imputación de María Dolores de Cospedal se refiere a la pieza de los papeles de Bárcenas (Génova); la operación Kitchen es una causa separada y no se usa para formular una afirmación global. Respecto al hito del 8 de abril de 2010, no se sostiene que el partido situara a Bárcenas fuera de la organización desde 2008: desempeñó la tesorería entre 2008 y 2010 y conservó el escaño de senador hasta su renuncia ese mismo mes.
 
 - **`fechaInicio` omitida.** No se ha fijado una fecha de inicio porque el "caso Bárcenas" no tiene un arranque único documentado: la trama Gürtel se destapó el 6 de febrero de 2009, la Fiscalía Anticorrupción apreció la implicación de Bárcenas el 11 de junio de 2009 y la pieza separada de los papeles se abrió en marzo de 2013. El campo `año` se mantiene en 2009.
 
@@ -291,8 +293,8 @@ cronologia:
 
 - **Estado.** Las piezas con condena (Gürtel y reforma de Génova) son firmes; la pieza sobre las donaciones a cambio de adjudicaciones quedó archivada sin condena. No consta que el Tribunal Constitucional haya revisado estas resoluciones; tampoco se ha localizado la sentencia de la operación Kitchen.
 
-- **Identificadores de sentencia.** Los números consignados se han verificado en fuentes judiciales y en el propio texto de las resoluciones: SAN 20/2018 (17-05-2018) y STS 507/2020 (14-10-2020) en el caso Gürtel, y SAN 21/2021 (28-10-2021, causa 6/2015) en la pieza de los papeles. La sentencia de casación sobre esta última es la STS 1033/2024, de 14 de noviembre (rec. 1595/2022, ECLI:ES:TS:2024:5577); su contenido se difundió el 15 de noviembre de 2024.
+- **Identificadores de sentencia.** Los números consignados se han verificado en fuentes judiciales y en el propio texto de las resoluciones: SAN 20/2018 (17-05-2018) y STS 507/2020 (14-10-2020) en el caso Gürtel, y SAN 21/2021 (28-10-2021, causa 6/2015) en la pieza de los papeles. La sentencia de casación sobre esta última es la STS 1033/2024, de 14 de noviembre (rec. 1595/2022, ECLI:ES:TS:2024:5577); su contenido se difundió el 15 de noviembre de 2024. La SAN 21/2021 tiene ROJ SAN 4424/2021 y ECLI:ES:AN:2021:4424.
 
 - **Credibilidad de los testigos de la caja B.** La SAN 20/2018 puso en cuestión la credibilidad de los testigos del PP que negaban la existencia de la caja B (entre ellos Mariano Rajoy). La STS 507/2020 no asumió esa valoración ni la incluyó entre sus razonamientos: se limitó a declarar que no cabe afirmar que el PP delinquiera —al no haber sido enjuiciado por responsabilidad penal— y que las menciones a la caja B de la sentencia de instancia servían como contexto de los hechos enjuiciados.
 
-- **Documentos.** Se han descargado y verificado las resoluciones judiciales primarias: SAN 20/2018 (1687 páginas), STS 507/2020 (1844 páginas), SAN 21/2021 (454 páginas) y STS 1033/2024 (75 páginas). Sus enlaces figuran en el bloque `documentos`. La SAN 20/2018 y la STS 1033/2024 proceden de repositorios oficiales (Poder Judicial/CENDOJ); la STS 507/2020 y la SAN 21/2021 se han consultado en copias íntegras publicadas por medios, a falta de un enlace directo estable en CENDOJ.
+- **Documentos.** Se han descargado y verificado las resoluciones judiciales primarias: SAN 20/2018 (1687 páginas), STS 507/2020 (1844 páginas), SAN 21/2021 (454 páginas) y STS 1033/2024 (75 páginas). Sus enlaces figuran en el bloque `documentos`. La SAN 20/2018 y la STS 1033/2024 proceden de repositorios oficiales (Poder Judicial/CENDOJ); la STS 507/2020 y la SAN 21/2021 se han consultado en copias íntegras publicadas por medios (Mediaset y DocDroid), a falta de un enlace oficial directo localizado en CENDOJ para la SAN 21/2021. El enlace de la SAN 21/2021 apunta al PDF de la copia alojada en DocDroid, no a su visor HTML.
