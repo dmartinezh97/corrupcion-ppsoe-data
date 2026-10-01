@@ -4,15 +4,15 @@ partido: PSOE
 completado: true
 año: 2024
 fechaInicio: 2024-02-20
-fechaFin: ""
-estado: activo
+fechaFin: "2026-06-22"
+estado: "cerrado con condenas"
 descripcion: |
   El caso Koldo es una investigación judicial en España que gira en torno a una presunta trama de corrupción relacionada con la contratación pública durante la pandemia de COVID-19. El epicentro de la causa es Koldo García Izaguirre, exasesor del exministro de Transportes José Luis Ábalos, quien habría actuado como intermediario para la adjudicación de contratos millonarios de material sanitario (principalmente mascarillas) a empresas sin experiencia en el sector, a cambio de comisiones.
 
   La Fiscalía Anticorrupción y la Guardia Civil sostienen que la trama operó entre 2020 y 2022, beneficiándose de la urgencia en las compras públicas. Las empresas adjudicatarias habrían recibido pagos inflados por parte de organismos como ADIF o Puertos del Estado, y parte de ese dinero se habría desviado a cuentas personales o utilizado para adquirir bienes de lujo. En la causa hay más de 20 investigados, incluyendo empresarios, cargos públicos y personas del entorno político del PSOE.
 
-  El caso ha tenido un enorme impacto político, alcanzando directamente al exministro Ábalos, para quien la Fiscalía solicita 24 años de cárcel por organización criminal, cohecho, tráfico de influencias, malversación y uso de información privilegiada. Tanto Ábalos como Koldo García ingresaron en prisión provisional en noviembre de 2025, donde permanecen a la espera del juicio oral fijado para el 7 de abril de 2026 en el Tribunal Supremo (14 sesiones, 75 testigos). El escándalo ha provocado la dimisión de Santos Cerdán como secretario de organización del PSOE —quien pasó casi 5 meses en prisión provisional— y ha reavivado el debate sobre la transparencia en la contratación pública. La Audiencia Nacional instruye paralelamente la pieza de mordidas en obra pública (14 investigados) y ha absorbido el caso Plus Ultra. Un informe de la IGAE ha confirmado irregularidades en 11 contratos de ADIF y Carreteras adjudicados bajo el mandato de Ábalos.
-resumen: "Presunta trama de corrupción en la adjudicación de contratos públicos de mascarillas durante la pandemia, centrada en el exasesor Koldo García."
+  El 22 de junio de 2026 el Tribunal Supremo dictó sentencia firme por unanimidad: condenó a José Luis Ábalos a 24 años y 3 meses de prisión (máximo de cumplimiento de 16 años y medio) y a Koldo García a 19 años y 8 meses (15 de cumplimiento) por organización criminal, cohecho, malversación y tráfico de influencias; Víctor de Aldama fue condenado a 4 años y 6 meses con la pena suspendida por su colaboración con la justicia. Ábalos y Koldo permanecen en prisión y han anunciado un recurso de amparo ante el Tribunal Constitucional, mientras la Fiscalía Anticorrupción ha pedido al Supremo que rechace sus incidentes de nulidad. El escándalo ha tenido un enorme impacto político y provocó la dimisión de Santos Cerdán como secretario de organización del PSOE, pero el caso no está cerrado del todo: la Audiencia Nacional sigue instruyendo las piezas de mordidas en obra pública y de presunta financiación irregular del PSOE, y ha absorbido el caso Plus Ultra.
+resumen: "Trama de corrupción en la compra de mascarillas durante la pandemia: Ábalos y Koldo, condenados a 24 y 19 años por el Supremo en 2026."
 coste: 9600000
 lugar: "Madrid, España"
 tribunal:
@@ -21,11 +21,11 @@ numeroSentencia: ""
 implicados:
   - nombre: "Koldo García Izaguirre"
     cargo: "Exasesor del Ministerio de Transportes"
-    rol: "Presunto coordinador de la trama de adjudicación irregular de contratos de mascarillas durante la pandemia"
+    rol: "Condenado a 19 años y 8 meses por organización criminal, cohecho, malversación y tráfico de influencias"
 
   - nombre: "Víctor de Aldama Delgado"
-    cargo: "Empresario y presidente del Zamora CF"
-    rol: "Presunto conseguidor e intermediario, habría obtenido 5,5 millones de beneficio ilícito"
+    cargo: "Empresario y expresidente del Zamora CF"
+    rol: "Condenado a 4 años y 6 meses, pena suspendida por su colaboración con la justicia"
 
   - nombre: "Juan Carlos Cueto Corsón"
     cargo: "Empresario, titular de Soluciones de Gestión"
@@ -33,11 +33,11 @@ implicados:
 
   - nombre: "José Luis Ábalos Meco"
     cargo: "Exministro de Transportes (2018-2021)"
-    rol: "Presunto beneficiario de comisiones, nombró a Koldo García como asesor"
+    rol: "Condenado a 24 años y 3 meses como jefe de la organización criminal"
 
   - nombre: "Santos Cerdán López"
     cargo: "Ex secretario de Organización del PSOE"
-    rol: "Presunta implicación en cobro de comisiones según informes de la Guardia Civil"
+    rol: "Investigado por comisiones en la pieza de obra pública; excarcelado en noviembre de 2025"
 
   - nombre: "Íñigo Rotaeche Fernández"
     cargo: "Empresario"
@@ -109,9 +109,10 @@ implicados:
 tags:
   - "corrupción"
   - "malversación"
-  - "prevaricación"
+  - "cohecho"
+  - "organización criminal"
   - "tráfico de influencias"
-impactoSocial: "El caso ha generado un fuerte impacto mediático y político, afectando la imagen del PSOE, provocando la dimisión de cargos y reabriendo el debate sobre la transparencia en la contratación pública durante la pandemia."
+impactoSocial: "El caso ha generado un fuerte impacto mediático y político, afectando la imagen del PSOE, provocando la dimisión de cargos y reabriendo el debate sobre la transparencia en la contratación pública durante la pandemia. La sentencia firme del Supremo supone la primera gran condena por corrupción vinculada a un Gobierno de Pedro Sánchez."
 documentos:
   - fecha: "2025-06-05"
     titulo: "Informe de la UCO: Implicaciones de Santos Cerdán"
@@ -668,4 +669,47 @@ cronologia:
     urls:
       - "https://www.elespanol.com/espana/tribunales/20260430/koldo-admite-chistorras-billetes-cobro-psoe-guardias-civiles/1003744229576_0.html"
       - "https://www.elespanol.com/espana/politica/20260430/juicio-caso-abalos-directo-koldo-garcia-exasesor-exministro-jose-luis-declara-tribunal-supremo/1003744228308_10.html"
+
+  - fecha: "2026-05-06"
+    titulo: "El juicio por las mascarillas queda visto para sentencia"
+    descripcion: "Tras trece o catorce sesiones celebradas durante abril y mayo de 2026, el Tribunal Supremo deja visto para sentencia el primer juicio del caso Koldo contra Ábalos, Koldo García y Aldama. A lo largo del plenario declararon más de 70 testigos, peritos y acusados. La Sala anuncia que dictará sentencia antes del verano y todas las piezas abiertas en la Audiencia Nacional quedan a la espera del fallo."
+    type: "juicio"
+    relevancia: "alta"
+    urls:
+      - "https://www.elindependiente.com/espana/2026/06/22/supremo-condena-abalos-koldo-prision-por-mordidas-contratos-mascarillas"
+      - "https://elpais.com/espana/2026-05-10/abalos-a-la-espera-de-sentencia-dinero-y-favores-bajo-la-lupa-del-supremo.html"
+
+  - fecha: "2026-06-22"
+    titulo: "El Supremo condena a Ábalos a 24 años, a Koldo a 19 y libra a Aldama de prisión"
+    descripcion: "La Sala Segunda del Tribunal Supremo condena por unanimidad a José Luis Ábalos a 24 años y 3 meses de prisión (máximo de cumplimiento de 16 años y medio) y a Koldo García a 19 años y 8 meses (15 de cumplimiento) por organización criminal, cohecho, malversación y tráfico de influencias. Víctor de Aldama es condenado a 4 años y 6 meses, con la pena suspendida por su colaboración con la justicia. La sentencia, de 224 páginas y firme, considera probados los contratos de 13 millones de mascarillas a Soluciones de Gestión, los pagos de 10.000 euros mensuales a Ábalos y el 'enchufe' de dos mujeres de su entorno en empresas públicas; impone multas de 52.500 euros a Ábalos, 45.750 a Koldo y 72.000 a Aldama."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-condena-al-exministro-Jose-Luis-Abalos-y-a-su-exasesor-Koldo-Garcia-a-24-anos-y-19-anos-de-prision--respectivamente--por-delitos-de-organizacion-criminal--cohecho--malversacion-y-trafico-de-influencias"
+      - "https://elpais.com/espana/2026-06-22/el-supremo-condena-a-abalos-a-24-anos-y-tres-meses-de-carcel-a-koldo-garcia-a-19-anos-y-ocho-meses-y-a-aldama-a-cuatro-anos-y-medio.html"
+
+  - fecha: "2026-06-25"
+    titulo: "Ábalos anuncia un recurso de amparo ante el Constitucional"
+    descripcion: "Desde la prisión de Soto del Real, José Luis Ábalos califica el proceso de 'juicio político' con una sentencia 'predeterminada' y anuncia que recurrirá en amparo ante el Tribunal Constitucional por vulneración de derechos fundamentales. Su defensa sostiene que el Supremo fundamentó la condena casi en exclusiva en el testimonio de Aldama, al que describe como un 'delator no arrepentido'."
+    type: "recurso"
+    relevancia: "media"
+    urls:
+      - "https://www.infobae.com/espana/2026/06/25/abalos-se-asegura-victima-de-un-juicio-politico-y-senala-al-supremo-por-premiar-a-aldama-un-delator-sin-comprobaciones"
+
+  - fecha: "2026-07-22"
+    titulo: "El Supremo levanta las cautelares a Aldama y le devuelve el pasaporte"
+    descripcion: "La Sala de lo Penal del Tribunal Supremo acuerda levantar las medidas cautelares que pesaban sobre Víctor de Aldama —retirada del pasaporte, prohibición de salir de España y comparecencias quincenales— al ser firme la sentencia y quedar suspendida su pena. El comisionista recupera así su pasaporte para poder viajar."
+    type: "recurso"
+    relevancia: "baja"
+    urls:
+      - "https://www.ondacero.es/noticias/espana/supremo-levanta-cautelares-aldama-devuelve-pasaporte-sentencia-caso-mascarillas_202607226a60b6fb4687a22bdec78bea.html"
+
+  - fecha: "2026-09-01"
+    titulo: "Anticorrupción pide rechazar los incidentes de nulidad de Ábalos y Koldo"
+    descripcion: "La Fiscalía Anticorrupción pide al Tribunal Supremo que desestime los incidentes de nulidad presentados por Ábalos y Koldo contra la sentencia del 'caso mascarillas', en los que solicitaban además la suspensión de la condena y su puesta en libertad. El fiscal jefe Alejandro Luzón considera que los escritos se limitan a reproducir alegaciones ya desestimadas y que la sentencia es conforme a derecho. Aldama también se opone a las peticiones."
+    type: "recurso"
+    relevancia: "media"
+    urls:
+      - "https://www.europapress.es/nacional/noticia-anticorrupcion-pide-supremo-rechazar-peticion-abalos-koldo-anular-sentencia-caso-mascarillas-20260901131743.html"
+      - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1269000"
 ---

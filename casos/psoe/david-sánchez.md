@@ -4,15 +4,15 @@ partido: PSOE
 completado: true
 año: 2024
 fechaInicio: 2024-04-22
-fechaFin: ""
-estado: "pendiente de juicio"
+fechaFin: "2026-07-14"
+estado: "cerrado con condenas - pendiente de recurso"
 descripcion: |
   El Caso David Sánchez investiga al hermano del presidente del Gobierno Pedro Sánchez, David Sánchez Pérez-Castejón —conocido artísticamente como David Azagra—, y a otras diez personas, entre ellas el expresidente de la Diputación de Badajoz y exsecretario general del PSOE de Extremadura, Miguel Ángel Gallardo, por la presunta creación a medida de un puesto público en la Diputación de Badajoz. Según la investigación, en 2017 se diseñó la plaza de "Coordinador de Actividades de los Conservatorios de Música" en el Área de Cultura, Juventud y Bienestar Social, ajustada a las "preferencias personales exclusivas" del hermano del entonces secretario general del PSOE, sin que existiera necesidad funcional para crearla y sin observar los principios de igualdad, mérito y capacidad.
 
   Según los cargos, David Sánchez ocupó el puesto entre 2017 y febrero de 2025, percibiendo un total bruto de 340.572 euros. La acusación añade que, desde 2017, el hermano del presidente trasladó su residencia oficial a la localidad portuguesa de Elvas para tributar en Portugal y pagar menos impuestos en España, mientras seguía cobrando del erario extremeño. Documentación posterior demostró que la propia Diputación tenía constancia del cambio de residencia y no actuó en consecuencia. La causa, instruida por la jueza Beatriz Biedma del Juzgado de Instrucción nº 3 de Badajoz, se abrió a partir de una querella de la organización Manos Limpias en abril de 2024, a la que se sumaron Vox y la asociación Hazte Oír / Abogados Cristianos como acusaciones populares.
 
-  En septiembre de 2025, la Audiencia Provincial de Badajoz rechazó los recursos presentados por las defensas y avaló la apertura del juicio oral contra David Sánchez, Miguel Ángel Gallardo y otros nueve investigados por los presuntos delitos de prevaricación administrativa y tráfico de influencias. La Sección Tercera de la Audiencia ha fijado el juicio oral para celebrarse en seis sesiones repartidas entre el 28 y el 29 de mayo y del 1 al 4 de junio de 2026. Es la primera vez que un familiar directo de un presidente del Gobierno en activo se sienta en el banquillo por delitos de corrupción durante su mandato.
-resumen: "El hermano del presidente Pedro Sánchez procesado por una plaza creada a medida en la Diputación de Badajoz, con 340.572 euros cobrados entre 2017 y 2025"
+  El juicio oral se celebró en ocho sesiones entre el 28 de mayo y el 9 de junio de 2026 en la Audiencia Provincial de Badajoz, con once acusados y más de 40 testigos, y quedó visto para sentencia ese último día. El 14 de julio de 2026 la Sección Primera condenó por unanimidad a David Sánchez a nueve años de inhabilitación especial para empleo o cargo público y para el ejercicio del sufragio pasivo como cooperador necesario de un delito de prevaricación administrativa por la modificación de su puesto, y absolvió a los once procesados del delito de tráfico de influencias. El expresidente de la Diputación Miguel Ángel Gallardo fue condenado a 18 años por dos delitos de prevaricación, y los otros nueve acusados a nueve años cada uno. La sentencia, de 377 páginas y sin pena de prisión, no es firme y puede recurrirse ante el Tribunal Superior de Justicia de Extremadura. Es la primera vez que un familiar directo de un presidente del Gobierno en activo resulta condenado por corrupción durante su mandato.
+resumen: "El hermano del presidente Pedro Sánchez, condenado en 2026 a 9 años de inhabilitación por prevaricación al crear la Diputación de Badajoz una plaza a su medida"
 coste: 340572
 lugar: "Badajoz, Extremadura"
 tribunal:
@@ -22,19 +22,19 @@ numeroSentencia: ""
 implicados:
   - nombre: "David Sánchez Pérez-Castejón"
     cargo: "Coordinador de Actividades de los Conservatorios de Música de la Diputación de Badajoz (2017-2025); músico, hermano del presidente del Gobierno"
-    rol: "Procesado por prevaricación administrativa y tráfico de influencias; acusación popular añade delitos contra la Hacienda Pública"
+    rol: "Condenado a 9 años de inhabilitación por prevaricación; absuelto de tráfico de influencias"
 
   - nombre: "Miguel Ángel Gallardo Miranda"
     cargo: "Expresidente de la Diputación de Badajoz, exsecretario general del PSOE de Extremadura, candidato a la presidencia de la Junta"
-    rol: "Procesado por prevaricación administrativa y tráfico de influencias por crear y mantener la plaza"
+    rol: "Condenado a 18 años de inhabilitación por dos delitos de prevaricación"
 
   - nombre: "Ricardo Cabezas Martín"
     cargo: "Exdiputado provincial, ex jefe de gabinete de Gallardo"
-    rol: "Procesado por su participación en la creación irregular de la plaza"
+    rol: "Condenado a 9 años de inhabilitación como cooperador necesario en la prevaricación"
 
   - nombre: "Manuel Candalija Calzada"
     cargo: "Exdirector del Área de Cultura de la Diputación de Badajoz"
-    rol: "Procesado por su participación en la tramitación administrativa de la plaza"
+    rol: "Condenado a 9 años de inhabilitación como cooperador necesario en la prevaricación"
 
 tags:
   - "corrupción"
@@ -122,4 +122,21 @@ cronologia:
     urls:
       - "https://n.com.do/2025/11/07/en-febrero-de-2026-sera-el-juicio-a-david-sanchez-hermano-del-presidente-del-gobierno-espanol/"
       - "https://www.moncloa.com/2025/12/03/retrasan-el-juicio-a-david-sanchez-hasta-finales-de-mayo-por-la-agenda-de-los-abogados-3344754"
+
+  - fecha: "2026-06-09"
+    titulo: "El juicio queda visto para sentencia"
+    descripcion: "Tras ocho sesiones y la declaración de once acusados y más de 40 testigos, la Audiencia Provincial de Badajoz deja visto para sentencia el juicio. La Fiscalía pide la absolución de todos los acusados por falta de pruebas, mientras las acusaciones populares (PP, Vox, Manos Limpias, Abogados Cristianos y Hazte Oír) elevan su petición a hasta seis años de prisión para David Sánchez y cuatro para Gallardo por prevaricación y tráfico de influencias."
+    type: "juicio"
+    relevancia: "alta"
+    urls:
+      - "https://www.eldiario.es/extremadura/politica/juicio-david-sanchez-visto-sentencia-alegato-final-defensa-acusacion-leyenda_1_13286244.html"
+
+  - fecha: "2026-07-14"
+    titulo: "La Audiencia de Badajoz condena a David Sánchez a 9 años de inhabilitación"
+    descripcion: "La Sección Primera de la Audiencia Provincial de Badajoz condena por unanimidad a David Sánchez a nueve años de inhabilitación especial para empleo o cargo público y para el ejercicio del sufragio pasivo como cooperador necesario de un delito de prevaricación administrativa por la modificación de su puesto. El expresidente de la Diputación Miguel Ángel Gallardo es condenado a 18 años por dos delitos de prevaricación (creación y modificación de la plaza) y los otros nueve acusados a nueve años cada uno. El tribunal absuelve a los once del delito de tráfico de influencias y no impone penas de prisión. La sentencia, de 377 páginas, no es firme y cabe recurso ante el TSJ de Extremadura."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.europapress.es/extremadura/noticia-audiencia-provincial-badajoz-condena-hermano-pedro-sanchez-nueve-anos-inhabilitacion-20260714123040.html"
+      - "https://elpais.com/espana/2026-07-14/consulte-la-sentencia-integra-que-condena-a-david-sanchez-a-nueve-anos-de-inhabilitacion-por-prevaricacion.html"
 ---

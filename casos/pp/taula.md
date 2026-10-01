@@ -11,7 +11,7 @@ descripcion: |
 
   El caso se articula en torno a cuatro focos principales de investigación: Imelsa (empresa de la Diputación de Valencia), la Concejalía de Cultura del Ayuntamiento de Valencia, Ciegsa (empresa de la Generalitat Valenciana para construcción de colegios públicos) y la Fundación Jaume II El Just. La trama funcionaba mediante un sistema de adjudicaciones amañadas en las que empresarios pagaban comisiones a funcionarios y cargos del PP a cambio de obtener contratos públicos sobrevalorados. Según las investigaciones, entre 2003 y 2015 se produjeron centenares de adjudicaciones irregulares que causaron un perjuicio estimado en más de 1.300 millones de euros a las arcas públicas.
 
-  Uno de los aspectos más graves del caso fue el descubrimiento de la contabilidad en B del PP de Valencia, gestionada por Carmen García-Fuster, secretaria del grupo municipal y persona de máxima confianza de Rita Barberá. Los papeles intervenidos revelaron que desde 1995 se llevaba una contabilidad paralela manuscrita en cuadernos donde se anotaban las donaciones ilegales de empresas contratistas. Solo para las campañas electorales de 2007 y 2011, se documentaron aportaciones irregulares por valor de 1,6 millones de euros procedentes de empresas que luego obtenían contratos públicos. El caso salió a la luz pública el 26 de enero de 2016 cuando la UCO de la Guardia Civil ejecutó la Operación Taula con más de 15 registros simultáneos y la detención de Alfonso Rus. Desde entonces, el caso se fragmentó en más de diez piezas separadas con al menos cinco sentencias condenatorias dictadas entre 2023 y 2025.
+  Uno de los aspectos más graves del caso fue el descubrimiento de la contabilidad en B del PP de Valencia, gestionada por Carmen García-Fuster, secretaria del grupo municipal y persona de máxima confianza de Rita Barberá. Los papeles intervenidos revelaron que desde 1995 se llevaba una contabilidad paralela manuscrita en cuadernos donde se anotaban las donaciones ilegales de empresas contratistas. Solo para las campañas electorales de 2007 y 2011, se documentaron aportaciones irregulares por valor de 1,6 millones de euros procedentes de empresas que luego obtenían contratos públicos. El caso salió a la luz pública el 26 de enero de 2016 cuando la UCO de la Guardia Civil ejecutó la Operación Taula con más de 15 registros simultáneos y la detención de Alfonso Rus. Desde entonces, el caso se fragmentó en más de diez piezas separadas con al menos cinco sentencias condenatorias dictadas entre 2023 y 2025. En 2026 el Tribunal Supremo confirmó casi íntegramente la primera sentencia (pieza Thematica Events), lo que llevó a Marcos Benavent a ingresar en prisión en julio, mientras la Audiencia de Valencia absolvía a los cinco acusados de la pieza E (contratos de Cultura) por falta de pruebas y prescripción, en una resolución recurrible ante el Supremo.
 
 resumen: "Red de adjudicaciones fraudulentas y financiación ilegal del PP de Valencia durante la etapa de Rita Barberá"
 coste: 1300000000
@@ -24,7 +24,7 @@ numeroSentencia: ""
 implicados:
   - nombre: "Marcos Benavent"
     cargo: "Exgerente de Imelsa"
-    rol: "Condenado a 7 años y 4 meses por blanqueo y falsedad"
+    rol: "Condenado a 7 años y 10 meses por prevaricación, malversación y blanqueo; ingresó en prisión en julio de 2026"
 
   - nombre: "Alfonso Rus"
     cargo: "Expresidente de la Diputación de Valencia"
@@ -263,4 +263,31 @@ cronologia:
     urls:
       - "https://www.libertaddigital.com/valencia/2026-02-17/la-fiscalia-pide-11-anos-de-carcel-para-el-yonqui-del-dinero-despues-de-recular-cuando-confeso-que-iba-fumado-7361263/"
       - "https://www.eldiario.es/comunitat-valenciana/audios-yonqui-dinero-afloran-juicio-mordidas-regalitos-empresa-ayudado-pp_1_12960547.html"
+
+  - fecha: "2026-06-23"
+    titulo: "Absueltos los cinco acusados de la pieza E (contratos de Cultura)"
+    descripcion: "La Sección Quinta de la Audiencia Provincial de Valencia absuelve a los cinco acusados de la pieza E del caso Taula —Marcos Benavent, el exgerente de la Fundación Jaume II El Just Vicente Burgos y los empresarios Enrique Aleixandre, Carlos Turró y Carlos Vicent— de los delitos de prevaricación, cohecho y malversación por los contratos de la Concejalía de Cultura del Ayuntamiento de Valencia entre 2003 y 2006. La sentencia, de 79 páginas, considera que no se acreditó el amaño ni las mordidas y que la malversación estaría prescrita. No es firme y cabe recurso de casación ante el Supremo."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/Absueltos-los-cinco-acusados-de-la-pieza-E-del--caso-Taula--por-supuestas-irregularidades-en-contratos-de-la-Concejalia-de-Cultura-del-Ayuntamiento-de-Valencia"
+      - "https://www.eldiario.es/comunitat-valenciana/audiencia-valencia-absuelve-yonqui-dinero-cuarto-juicio-caso-taula_1_13325507.html"
+
+  - fecha: "2026-06-26"
+    titulo: "El Supremo confirma casi íntegra la primera sentencia del caso Taula"
+    descripcion: "El Tribunal Supremo ratifica casi todas las condenas de la primera pieza separada del caso Taula (Thematica Events), la primera de las trece en ser revisada por el alto tribunal. Confirma los 7 años y 10 meses de cárcel para Marcos Benavent, los 9 años y 2 meses para Rafael García Barat, los 5 años y medio para la funcionaria Francisca Tamarit y las penas menores de Jaime José Úbeda, José Estarlich y Francisco Javier Márquez; solo rebaja de 10 a 8 meses la de José Antonio Toledo."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.levante-emv.com/comunitat-valenciana/2026/06/26/el-supremo-ratifica-casi-integra-la-primera-sentencia-del-caso-taula-que-condeno-a-7-anos-de-carcel-al-yonqui-del-dinero-131853572.html"
+      - "https://www.elespanol.com/valencia/20260626/supremo-ratifica-anos-carcel-yonki-dinero-primera-sentencia-caso-taula/1003744301489_0.html"
+
+  - fecha: "2026-07-27"
+    titulo: "Marcos Benavent ingresa en prisión para cumplir casi 8 años"
+    descripcion: "Tras comunicársele el 10 de julio la firmeza de la sentencia, el exgerente de Imelsa Marcos Benavent ingresa voluntariamente en el centro penitenciario de Picassent (Valencia) para cumplir la condena de 7 años y 10 meses por prevaricación, malversación, falsedad y blanqueo en la pieza Thematica. Su socio Rafael García Barat fue condenado a 9 años y 2 meses. Benavent, que no recurrió, entra en prisión doce años después del inicio de la investigación del caso Taula."
+    type: "detención"
+    relevancia: "alta"
+    urls:
+      - "https://www.abc.es/espana/comunidad-valenciana/yonki-dinero-entra-prision-cumplir-primera-condena-20260729143940-nt.html"
+      - "https://www.levante-emv.com/comunitat-valenciana/2026/07/29/yonqui-dinero-ya-esta-carcel-picassent-cumplir-primera-condena-7-anos-132900697.html"
 ---

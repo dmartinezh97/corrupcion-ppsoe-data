@@ -308,4 +308,13 @@ cronologia:
     type: "investigación"
     urls:
       - "https://www.infobae.com/espana/agencias/2025/09/19/audiencia-de-sevilla-pregunta-a-las-partes-si-siguen-en-el-procedimiento-de-la-cuestion-prejudicial-al-tjue-por-los-ere/"
+
+  - fecha: "2026-04-20"
+    titulo: "La Comisión Europea pide al TJUE que se declare incompetente"
+    descripcion: "La Comisión Europea presenta su escrito de observaciones ante el TJUE y solicita la inadmisión de la cuestión prejudicial planteada por la Audiencia de Sevilla al considerar que el Tribunal de Justicia es 'manifiestamente incompetente': no existe vínculo con el Derecho de la Unión ni con el presupuesto comunitario, ya que las ayudas procedían del presupuesto andaluz. La Fiscalía General del Estado y el Reino de España coinciden en pedir el rechazo y niegan que el Tribunal Constitucional se extralimitara al amparar a los condenados. El TJUE deberá pronunciarse sobre su propia competencia, aún sin fecha, antes de dictar la resolución pendiente en la Audiencia de Sevilla."
+    type: "documento"
+    relevancia: "media"
+    urls:
+      - "https://www.elmundo.es/andalucia/2026/04/20/69e5ccbfe4d4d8db3e8b4582.html"
+      - "https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/fiscalia-estado-espanol-coinciden-tjue-rechace-caso-ere_0_2006538488.html"
 ---

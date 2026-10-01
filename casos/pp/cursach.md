@@ -11,7 +11,7 @@ descripcion: |
 
   La instrucción, dirigida por el juez Manuel Penalva y el fiscal Miguel Ángel Subirán desde el Juzgado de Instrucción nº 12 de Palma, se extendió durante años y acumuló investigaciones por cohecho, extorsión, pertenencia a organización criminal, fraude fiscal, blanqueo de capitales y tráfico de influencias. En febrero de 2017, la Guardia Civil detuvo a Cursach, a su director general Bartolomé Sbert y al director de relaciones institucionales Antoni Bergas —también inspector de la Policía Local— en la denominada Operación Sancus. El juez decretó prisión provisional para Cursach y Sbert. Entre los investigados figuraban asimismo el exdelegado del Gobierno en Baleares y exconcejal del PP José María Rodríguez y el exteniente de alcalde de Palma Álvaro Gijón (PP), a quienes testigos protegidos señalaban como asiduos a fiestas con alcohol, sexo y cocaína pagadas por Cursach. Informes periciales cifraron la presunta caja B del grupo en entre 4 y 5 millones de euros mensuales en dinero negro, con un fraude fiscal estimado superior a los 51 millones de euros.
 
-  El macrojuicio arrancó en enero de 2021 ante la Audiencia Provincial de Baleares con 24 acusados. Sin embargo, en noviembre de 2022 la Fiscalía Anticorrupción, en un giro radical, retiró todos los cargos argumentando falta de prueba suficiente, lo que desembocó en la absolución de todos los procesados. El caso dio entonces un vuelco definitivo: en noviembre de 2023 el Tribunal Superior de Justicia de Baleares condenó al propio juez Penalva y al fiscal Subirán a 9 años y 1 día de prisión por obstrucción a la justicia y coacciones, junto a tres agentes de Policía Nacional del grupo de Blanqueo. A principios de 2026 el asunto permanece ante el Tribunal Supremo, que debe resolver los recursos de Penalva y Subirán, mientras nuevas investigaciones por prevaricación y coacciones a testigos continúan abiertas en los juzgados de Palma.
+  El macrojuicio arrancó en enero de 2021 ante la Audiencia Provincial de Baleares con 24 acusados. Sin embargo, en noviembre de 2022 la Fiscalía Anticorrupción, en un giro radical, retiró todos los cargos argumentando falta de prueba suficiente, lo que desembocó en la absolución de todos los procesados. El caso dio entonces un vuelco definitivo: en noviembre de 2023 el Tribunal Superior de Justicia de Baleares condenó al propio juez Penalva y al fiscal Subirán a 9 años y 1 día de prisión por obstrucción a la justicia y coacciones, junto a tres agentes de Policía Nacional del grupo de Blanqueo. En julio de 2026 el TSJB declaró firme la absolución del exjefe del grupo de Blanqueo José Luis García Reguera —la Fiscalía y las acusaciones no recurrieron—, mientras el Tribunal Supremo sigue sin resolver los recursos de Penalva y Subirán contra sus condenas. Paralelamente continúan abiertas en los juzgados de Palma nuevas investigaciones por prevaricación y coacciones a testigos, con testimonios que en septiembre de 2026 volvieron a señalar presiones y regalos a testigos durante la instrucción.
 resumen: "Red de corrupción policial en Palma que protegía el ocio nocturno de Cursach a cambio de sobornos, con connivencia de cargos del PP balear."
 coste: 51000000
 lugar: "Palma de Mallorca (Illes Balears)"
@@ -48,11 +48,15 @@ implicados:
 
   - nombre: "Manuel Penalva"
     cargo: "Exjuez de Instrucción nº 12 de Palma"
-    rol: "Condenado a 9 años por obstrucción a la justicia y coacciones (TSJ Baleares, 2023)"
+    rol: "Condenado a 9 años por obstrucción y coacciones; recurso pendiente en el Supremo"
 
   - nombre: "Miguel Ángel Subirán"
     cargo: "Exfiscal Anticorrupción de Baleares"
-    rol: "Condenado a 9 años por obstrucción a la justicia y coacciones (TSJ Baleares, 2023)"
+    rol: "Condenado a 9 años por obstrucción y coacciones; recurso pendiente en el Supremo"
+
+  - nombre: "José Luis García Reguera"
+    cargo: "Exjefe del grupo de Blanqueo de la Policía Nacional en Baleares"
+    rol: "Absuelto; su exculpación fue declarada firme por el TSJB en junio de 2026"
 
   - nombre: "Miguel Ángel Blanco"
     cargo: "Subinspector del grupo de Blanqueo de la Policía Nacional"
@@ -183,4 +187,12 @@ cronologia:
     type: "investigación"
     urls:
       - "https://www.ultimahora.es/noticias/local/2025/06/14/2408153/caso-cursach-arranca-nueva-investigacion-contra-penalva-subiran.html"
+
+  - fecha: "2026-07-13"
+    titulo: "El TSJB declara firme la absolución del exjefe del grupo de Blanqueo"
+    descripcion: "El Tribunal Superior de Justicia de Baleares confirma en un auto, fechado el 22 de junio y difundido el 13 de julio, la firmeza de la absolución del exinspector jefe José Luis García Reguera, juzgado junto a Penalva y Subirán por las irregularidades en la investigación del caso Cursach. Ni la Fiscalía ni las acusaciones particulares recurrieron su exculpación. El Tribunal Supremo sigue sin resolver los recursos de Penalva, Subirán y los tres agentes condenados, cuyo fallo estaba pendiente casi tres años después de la sentencia."
+    type: "sentencia"
+    relevancia: "media"
+    urls:
+      - "https://www.diariodemallorca.es/mallorca/2026/07/13/tsjb-confirma-absolucion-ex-jefe-132103246.html"
 ---

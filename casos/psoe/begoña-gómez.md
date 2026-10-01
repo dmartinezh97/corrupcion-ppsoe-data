@@ -11,8 +11,8 @@ descripcion: |
 
   La investigación se centra en si Gómez utilizó su posición institucional como esposa del presidente para obtener beneficios para empresas privadas con las que mantenía relación, especialmente Globalia (matriz de Air Europa) y la empresa de software del empresario Juan Carlos Barrabés. Según las pesquisas, Gómez habría firmado cartas de recomendación a empresas que después participaron en procesos de adjudicación pública —entre ellos el rescate de Air Europa por la SEPI durante la pandemia—, y habría utilizado los recursos de la asistente Cristina Álvarez (funcionaria adscrita a la Presidencia del Gobierno) para gestionar asuntos privados de la cátedra. La causa se amplió en octubre de 2024 a los delitos de apropiación indebida e intrusismo profesional, sumando un total de cuatro tipos penales.
 
-  El 13 de abril de 2026, casi exactamente dos años después de iniciarse la investigación, el juez Peinado dictó auto de transformación a procedimiento abreviado contra Begoña Gómez por cuatro delitos: tráfico de influencias, corrupción en los negocios, malversación de caudales públicos y apropiación indebida. La causa avanzará hacia un juicio con jurado popular en la Audiencia Provincial de Madrid. La Fiscalía y la defensa han pedido reiteradamente el archivo a lo largo de toda la instrucción —rechazado siempre por Peinado—, y fuentes jurídicas dan por descontado que el caso terminará en el Tribunal Supremo, que ya ha criticado de manera pública varias decisiones del juez instructor.
-resumen: "La esposa del presidente Pedro Sánchez, procesada por tráfico de influencias, corrupción en los negocios, malversación y apropiación indebida en su actividad como directora de cátedra de la UCM"
+  El 13 de abril de 2026 el juez Peinado dictó auto de transformación a procedimiento abreviado contra Begoña Gómez por cuatro delitos y el 20 de junio la envió a juicio con jurado popular, imponiéndole la retirada del pasaporte y la prohibición de salir de España. El 16 de julio la Audiencia Provincial de Madrid ratificó el juicio con jurado pero redujo la acusación a tráfico de influencias y malversación —descartando la corrupción en los negocios y reconduciendo la apropiación indebida a la malversación—, limitó la imputación de su asesora Cristina Álvarez a la malversación como cooperadora necesaria y dejó fuera al empresario Juan Carlos Barrabés, además de levantar las medidas cautelares. Mientras la Fiscalía pidió la absolución en su escrito de conclusiones y las acusaciones populares mantienen penas de hasta 13 años, el 21 de septiembre de 2026, en su última resolución antes de jubilarse, Peinado dictó el auto de apertura de juicio oral por tráfico de influencias y malversación. El juicio ante un jurado popular aún no tiene fecha fija, previsiblemente en 2027.
+resumen: "La esposa del presidente Pedro Sánchez, enviada a juicio con jurado por tráfico de influencias y malversación en su actividad como directora de una cátedra de la UCM"
 coste: 0
 lugar: "Madrid, España"
 tribunal:
@@ -22,15 +22,15 @@ numeroSentencia: ""
 implicados:
   - nombre: "Begoña Gómez Fernández"
     cargo: "Directora de la cátedra extraordinaria de Transformación Social Competitiva (UCM); esposa del presidente del Gobierno"
-    rol: "Procesada por tráfico de influencias, corrupción en los negocios, malversación y apropiación indebida"
+    rol: "Enjuiciada por tráfico de influencias y malversación; la Audiencia descartó corrupción y apropiación indebida"
 
   - nombre: "Cristina Álvarez Rodríguez"
     cargo: "Asistente personal de Begoña Gómez, funcionaria adscrita a la Presidencia del Gobierno"
-    rol: "Procesada por malversación al utilizar recursos públicos para gestionar la cátedra y asuntos privados de Gómez"
+    rol: "Enjuiciada como cooperadora necesaria en la malversación del software de la cátedra"
 
   - nombre: "Juan Carlos Barrabés"
     cargo: "Empresario tecnológico, socio en proyectos de la cátedra"
-    rol: "Procesado por tráfico de influencias y corrupción en los negocios; empresas suyas obtuvieron contratos públicos"
+    rol: "Separado del jurado por falta de indicios; sigue investigado por las adjudicaciones a sus empresas"
 
   - nombre: "Joaquín Goyache"
     cargo: "Rector de la Universidad Complutense de Madrid"
@@ -116,6 +116,15 @@ cronologia:
       - "https://www.infobae.com/espana/2026/04/13/el-juez-peinado-procesa-a-begona-gomez-por-trafico-de-influencias-corrupcion-en-los-negocios-malversacion-de-caudales-publicos-y-apropiacion-indebida/"
       - "https://www.mundiario.com/articulo/politica/juez-peinado-cierra-investigacion-begona-gomez-envia-juicio-jurado/20260413181947382296.html"
 
+  - fecha: "2026-04-20"
+    titulo: "La acusación popular pide 24 años para Begoña Gómez"
+    descripcion: "La acusación popular liderada por la asociación ultracatólica Hazte Oír presenta su escrito de acusación y solicita 24 años de prisión para Begoña Gómez por tráfico de influencias, corrupción en los negocios, malversación y apropiación indebida, 22 años para su asesora Cristina Álvarez y seis para Juan Carlos Barrabés. Pide además que declaren como testigos Pedro Sánchez, Félix Bolaños, Javier Hidalgo y Víctor de Aldama."
+    type: "imputación"
+    relevancia: "media"
+    urls:
+      - "https://elpais.com/espana/2026-04-20/la-acusacion-popular-pide-24-anos-de-prision-para-begona-gomez-por-cuatro-delitos.html"
+      - "https://www.eldiario.es/politica/acusaciones-populares-piden-24-anos-carcel-begona-gomez-cuatro-delitos_1_13156863.html"
+
   - fecha: "2026-04-30"
     titulo: "La Audiencia rechaza informe sobre el software, pero avala más testigos"
     descripcion: "La Audiencia Provincial de Madrid rechaza la petición del juez Peinado para que la Abogacía del Estado informe sobre la titularidad del software desarrollado en la cátedra de Begoña Gómez, considerando que excede la fase de instrucción. Sin embargo, sí avala la citación como testigo de un empresario que se reunió con Gómez y su asesora, ampliando el círculo de declaraciones previas al juicio oral."
@@ -124,4 +133,47 @@ cronologia:
     urls:
       - "https://theobjective.com/espana/tribunales/2026-04-30/audiencia-abogados-del-estado-software-begona-gomez/"
       - "https://www.infobae.com/espana/agencias/2026/04/30/la-audiencia-de-madrid-avala-citar-como-testigo-a-un-empresario-que-se-reunio-con-begona-gomez-y-su-asesora/"
+
+  - fecha: "2026-06-20"
+    titulo: "Peinado envía a Begoña Gómez a juicio con jurado y le retira el pasaporte"
+    descripcion: "El juez Peinado dicta el auto de apertura de juicio oral y envía definitivamente a Begoña Gómez, ante un jurado popular, por los delitos de tráfico de influencias, corrupción en los negocios, apropiación indebida y malversación. Le impone como medidas cautelares la retirada del pasaporte, la prohibición de salir de España y comparecer dos veces al mes en el juzgado; las mismas medidas recaen sobre su asesora Cristina Álvarez. El auto advierte de que la pena podría superar los dos años de prisión."
+    type: "juicio"
+    relevancia: "alta"
+    urls:
+      - "https://www.lavanguardia.com/politica/20260620/11570975/juez-peinado-envia-juicio-begona-gomez-le-retira-pasaporte-le-prohibe-salir-espana.html"
+      - "https://www.expansion.com/economia/2026/06/20/6a367cd4e5fdea1b048b4574.html"
+
+  - fecha: "2026-07-09"
+    titulo: "La Fiscalía pide la absolución de Begoña Gómez"
+    descripcion: "En su escrito de conclusiones provisionales, el Ministerio Público solicita la absolución de Begoña Gómez, de su asesora Cristina Álvarez y del empresario Juan Carlos Barrabés al no apreciar delito en su conducta y negar que obtuvieran retribución o beneficio por la cátedra. La Fiscalía también recurre la retirada del pasaporte por considerar que no existe riesgo de fuga."
+    type: "documento"
+    relevancia: "media"
+    urls:
+      - "https://www.eltiempo.com/mundo/europa/la-fiscalia-de-espana-pide-absolver-a-begona-gomez-esposa-del-jefe-de-gobierno-en-el-caso-por-trafico-de-influencias-corrupcion-y-otros-delitos-3570119"
+
+  - fecha: "2026-07-16"
+    titulo: "La Audiencia de Madrid ratifica el jurado pero solo por dos delitos"
+    descripcion: "El Pleno de la Sección 23 de la Audiencia Provincial de Madrid confirma por unanimidad que Begoña Gómez sea juzgada por un jurado popular, pero limita los delitos a tráfico de influencias y malversación: descarta la corrupción en los negocios y reconduce la apropiación indebida del software a la malversación. A Cristina Álvarez solo la mantiene como cooperadora necesaria en la malversación del software, mientras que Juan Carlos Barrabés queda fuera del jurado. Además, retira las medidas cautelares —pasaporte, salida del país y comparecencias quincenales— impuestas a Gómez y Álvarez."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.elmundo.es/espana/2026/07/16/6a5751d0e4d4d8947d8b458a.html"
+      - "https://www.heraldo.es/noticias/nacional/2026/07/16/audiencia-madrid-corrige-peinado-devuelve-pasaporte-begona-gomez-mantiene-juicio-jurado-2037677.html"
+
+  - fecha: "2026-07-26"
+    titulo: "Hazte Oír rebaja su petición a 13 años de cárcel"
+    descripcion: "Tras la decisión de la Audiencia, la acusación popular de Hazte Oír ajusta su escrito y pide 13 años de prisión para Begoña Gómez por tráfico de influencias y dos delitos de malversación. La Universidad Complutense reclama además a Gómez y a su asesora la devolución de más de 100.000 euros por el presunto desvío de fondos."
+    type: "documento"
+    relevancia: "media"
+    urls:
+      - "https://www.eldiario.es/temas/begona-gomez"
+
+  - fecha: "2026-09-21"
+    titulo: "Peinado abre juicio oral contra Begoña Gómez en su última resolución"
+    descripcion: "El juez Juan Carlos Peinado dicta el auto de apertura de juicio oral contra Begoña Gómez por los presuntos delitos de tráfico de influencias y malversación, y contra su asesora Cristina Álvarez por malversación como cooperadora necesaria. La decisión se produce en la última semana de trabajo del instructor, que se jubila el 27 de septiembre de 2026 al cumplir 72 años. El juicio ante un jurado popular no tiene fecha fijada, previsiblemente en 2027. El Gobierno califica la instrucción de 'arbitraria' y el PP defiende que 'la Justicia funciona'."
+    type: "juicio"
+    relevancia: "alta"
+    urls:
+      - "https://www.rtve.es/noticias/20260921/juez-peinado-abre-juicio-oral-contra-begona-gomez-por-presuntos-delitos-trafico-influencias-malversacion/17233341.shtml"
+      - "https://www.rtve.es/noticias/20260922/cronologia-caso-begona-gomez/17233739.shtml"
 ---
