@@ -1,50 +1,49 @@
 ---
 nombre: "Depuradora Borriol"
 partido: PP
-completado: true
+completado: false
 año: 2014
-fechaInicio: 2007-01-01
 fechaFin: 2017-02-22
-estado: "cerrado con condenas"
+estado: "sentencia firme"
 descripcion: |
-  El Caso Depuradora Borriol es un escándalo de corrupción política que afectó al Ayuntamiento de Borriol y a la Diputación Provincial de Castellón. Francisco Martínez Capdevila, vicepresidente primero de la Diputación y responsable de Obras Públicas, utilizó su posición institucional para incluir un terreno de su propiedad —gestionado a través de la empresa familiar Franvaltur S.L.— entre las fincas afectadas por la expropiación necesaria para construir una planta depuradora de aguas residuales en el municipio de Borriol. El terreno, valorado en apenas 3.000 euros, habría sido indemnizado por el Ayuntamiento a un precio de 51.000 euros si la operación hubiera prosperado.
+  El caso de la depuradora de Borriol se refiere a la tramitación por la Diputación Provincial de Castellón y el Ayuntamiento de Borriol (Castellón) de la expropiación de terrenos para construir una estación depuradora de aguas residuales (EDAR) que afectaba a una parcela vinculada a la familia de Francisco Martínez Capdevila, entonces vicepresidente primero de la Diputación y alcalde de Vall d'Alba, cargos ambos del PP. Según los hechos declarados probados por la Audiencia Provincial de Castellón, la parcela NUM011 del polígono 10 fue comprada en mayo de 2008 por la hija de Martínez, que en diciembre de 2011 la aportó a la mercantil familiar Franvaltur S.L. en una ampliación de capital. El Ayuntamiento preveía indemnizarla con unos 51.000 euros (18,85 euros por metro cuadrado para 2.706 m²), frente a los 3.000 euros del precio declarado de compraventa de 2008. La indemnización no llegó a pagarse: tras conocerse la vinculación en enero de 2014 la parcela quedó excluida del proyecto y la depuradora no llegó a construirse en esos terrenos.
 
-  La trama operó entre 2007 y 2014. Martínez Capdevila, exalcalde de Vall d'Alba durante veinte años y hombre de confianza del expresidente de la Diputación Carlos Fabra, acordó con el entonces alcalde de Borriol, Adelino Santamaría Blasco, la aprobación del proyecto que afectaba a una parcela de 2.706 metros cuadrados propiedad de Franvaltur, sociedad creada en 2009 con capital de 6.000 euros por Martínez y sus dos hijos. En octubre de 2013, cuando la oposición comenzó a sospechar, el político otorgó poderes notariales para evitar que su nombre apareciese en los documentos de la operación. El caso salió a la luz en enero de 2014 gracias a la investigación de un concejal de Compromís que descubrió la vinculación entre la empresa beneficiaria de la expropiación y el vicepresidente de la Diputación, lo que llevó a Compromís a entregar toda la documentación a la Fiscalía de Castellón.
+  La Audiencia Provincial de Castellón, en sentencia nº 85/2016 de 15 de abril de 2016, condenó a Francisco Martínez Capdevila a 8 meses de prisión, 12.600 euros de multa y 2 años de inhabilitación especial para empleo o cargo público como autor de un delito de negociaciones prohibidas a los funcionarios (art. 439 del Código Penal), por intervenir en la tramitación del proyecto sin abstenerse pese a su interés patrimonial familiar. El tribunal absolvió a los otros cinco acusados —sus hijos Andrea y Francisco Martínez Tena, el exalcalde de Borriol Adelino Santamaría Blasco, el empresario Raúl Babiloni y el empleado de este Luis García del Campillo— y descartó la prevaricación, el tráfico de influencias y el fraude ilegal. La resolución declaró expresamente no acreditados el concierto entre los acusados, el conocimiento por parte del alcalde de la vinculación de la parcela ni el carácter desproporcionado del precio. El Tribunal Supremo, en sentencia 111/2017 de 22 de febrero de 2017 (ROJ STS 565/2017; ECLI:ES:TS:2017:565), desestimó los recursos de Martínez y de la Fiscalía y confirmó íntegramente el fallo, que quedó firme.
 
-  La Audiencia Provincial de Castellón celebró el juicio oral en febrero de 2016 y condenó exclusivamente a Francisco Martínez Capdevila a ocho meses de prisión, una multa de 12.600 euros y dos años de inhabilitación especial para cargo público, por un delito de negociaciones prohibidas a los funcionarios. El tribunal absolvió a los otros cinco acusados: sus hijos Andrea y Francisco Martínez Tena, el exalcalde Adelino Santamaría Blasco, el empresario Raúl Babiloni y el técnico de la Diputación Luis García del Campillo. El Tribunal Supremo, mediante sentencia STS 111/2017 de 22 de febrero de 2017, rechazó los recursos tanto de Martínez como de la Fiscalía y confirmó íntegramente el fallo de la Audiencia Provincial. El escándalo precipitó la dimisión de Santamaría como diputado provincial y, más tarde, su abandono de la alcaldía de Borriol tras quince años en el cargo.
+  Políticamente, el caso se hizo público en enero de 2014. El presidente de la Diputación, Javier Moliner, destituyó a Martínez como vicepresidente y le retiró las competencias en infraestructuras; Martínez renunció a su acta de diputado provincial y a sus cargos en el PP en septiembre de 2014. Adelino Santamaría renunció a su acta de diputado provincial en febrero de 2014 y días después dejó también la alcaldía de Borriol tras quince años, siendo sustituido por Iván Pauner.
 
-resumen: "Vicepresidente de la Diputación de Castellón condenado por incluir un terreno familiar en la expropiación de una depuradora para cobrar 51.000 euros"
+resumen: "Vicepresidente primero de la Diputación de Castellón y alcalde de Vall d'Alba condenado en 2017 por negociaciones prohibidas en la expropiación de terrenos para la depuradora de Borriol que afectaban a una parcela familiar"
 coste: 51000
 lugar: "Borriol, Castellón, Comunidad Valenciana"
 tribunal:
-  - "Juzgado de Instrucción de Castellón"
+  - "Juzgado de Instrucción nº 2 de Castellón"
   - "Audiencia Provincial de Castellón - Sección Segunda"
   - "Tribunal Supremo - Sala de lo Penal"
-numeroSentencia: "STS 111/2017 de 22 de febrero de 2017"
+numeroSentencia: "SAP CS 85/2016 de 15 de abril de 2016; STS 111/2017 de 22 de febrero de 2017 (ROJ STS 565/2017; ECLI:ES:TS:2017:565)"
 implicados:
   - nombre: "Francisco Martínez Capdevila"
-    cargo: "Vicepresidente primero de la Diputación de Castellón y alcalde de Vall d'Alba"
-    rol: "Condenado a 8 meses de prisión por negociaciones prohibidas a funcionarios"
+    cargo: "Vicepresidente primero de la Diputación Provincial de Castellón y alcalde de Vall d'Alba (PP)"
+    rol: "Condenado por la Audiencia Provincial en 2016 a 8 meses de prisión, 12.600 euros de multa y 2 años de inhabilitación especial por negociaciones prohibidas a funcionarios; condena confirmada por el Tribunal Supremo en 2017 y firme"
 
   - nombre: "Adelino Santamaría Blasco"
-    cargo: "Alcalde de Borriol y diputado provincial"
-    rol: "Absuelto; dimitió como diputado provincial por el escándalo"
+    cargo: "Alcalde de Borriol y diputado provincial del PP"
+    rol: "Acusado y absuelto; dimitió como diputado provincial en febrero de 2014 y como alcalde el 25 de febrero de 2014"
 
   - nombre: "Andrea Martínez Tena"
-    cargo: "Hija de Francisco Martínez Capdevila, socia de Franvaltur S.L."
-    rol: "Absuelta; acusada de ser beneficiaria de la expropiación irregular"
+    cargo: "Hija de Francisco Martínez Capdevila; socia y primera administradora de Franvaltur S.L."
+    rol: "Acusada y absuelta; la parcela afectada fue adquirida a su nombre en 2008 y aportada por ella a Franvaltur en 2011"
 
   - nombre: "Francisco Martínez Tena"
-    cargo: "Hijo de Francisco Martínez Capdevila, socio de Franvaltur S.L."
-    rol: "Absuelto; acusado de ser beneficiario de la expropiación irregular"
+    cargo: "Hijo de Francisco Martínez Capdevila; administrador único de Franvaltur S.L. desde mayo de 2013"
+    rol: "Acusado y absuelto; en octubre de 2013 otorgó los poderes notariales en nombre de la sociedad"
 
   - nombre: "Raúl Babiloni"
-    cargo: "Empresario relacionado con los terrenos de la expropiación"
-    rol: "Absuelto; la fiscalía pidió 3 años de prisión por su participación en la trama"
+    cargo: "Empresario, socio de Francisco Martínez Capdevila y apoderado de Franvaltur S.L."
+    rol: "Acusado y absuelto; la Fiscalía pidió para él 3 años de prisión"
 
   - nombre: "Luis García del Campillo"
-    cargo: "Técnico de la Diputación Provincial de Castellón"
-    rol: "Absuelto; acusado de emitir informes favorables al proyecto de forma irregular"
+    cargo: "Empleado de Raúl Babiloni"
+    rol: "Acusado y absuelto; recibió en octubre de 2013 poderes notariales de Franvaltur y los derivó a Babiloni"
 
 tags:
   - "corrupción"
@@ -54,101 +53,189 @@ tags:
   - "fraude"
   - "expropiación irregular"
 
-impactoSocial: "El caso evidenció el entramado clientelar del PP en la Diputación de Castellón bajo el paraguas de Carlos Fabra, y precipitó la caída política de uno de sus hombres de confianza. La denuncia de un concejal de Compromís demostró cómo un cargo público usó su posición para enriquecerse con fondos municipales mediante una expropiación fraudulenta, generando un amplio debate sobre la corrupción en la contratación pública local."
+impactoSocial: "El caso se hizo público en enero de 2014 y provocó la destitución de Martínez como vicepresidente de la Diputación y, meses después, su renuncia al acta de diputado provincial y a sus cargos en el PP; el exalcalde de Borriol Adelino Santamaría dimitió como diputado provincial y como alcalde. La condena, confirmada por el Supremo en 2017, quedó firme, aunque los tribunales absolvieron al resto de acusados y descartaron la prevaricación, el tráfico de influencias y el fraude."
 
-documentos: []
+documentos:
+  - fecha: "2017-02-22"
+    titulo: "Sentencia del Tribunal Supremo STS 111/2017 (ROJ STS 565/2017; ECLI:ES:TS:2017:565)"
+    filetype: "pdf"
+    paginas: 13
+    nombre_fichero: "https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TS%20Penal%2022%20feb%202017.pdf"
 
 cronologia:
-  - fecha: 2007-01-01
-    titulo: "Inicio de las gestiones para la depuradora de Borriol"
-    descripcion: "El Ayuntamiento de Borriol, gobernado por el alcalde del PP Adelino Santamaría Blasco, inicia las gestiones con la Diputación Provincial de Castellón para promover la construcción de una planta depuradora de aguas residuales en el municipio. Francisco Martínez Capdevila, vicepresidente de la Diputación y responsable del área de Obras Públicas, interviene activamente en la tramitación del proyecto. Los hechos delictivos investigados se extienden desde este momento hasta 2014."
+  - fecha: "2007-10-17"
+    titulo: "El alcalde de Borriol consulta a la Diputación sobre la ampliación de la superficie de la depuradora"
+    descripcion: "El alcalde de Borriol, Adelino Santamaría, remite un escrito a los servicios técnicos de la Diputación Provincial para preguntar si se considera adecuada la ampliación de la superficie a ocupar por la futura depuradora. El 5 de noviembre de 2007 el jefe del Área Técnica de la Diputación informa favorablemente la ampliación. Es el primer acto con fecha exacta recogido en los hechos probados; la sentencia sitúa la intervención de los acusados entre 2007 y 2014."
     type: "investigación"
-    urls: []
-
-  - fecha: 2009-01-01
-    titulo: "Constitución de Franvaltur S.L."
-    descripcion: "Francisco Martínez Capdevila y dos de sus hijos constituyen la sociedad Franvaltur S.L. con un capital social de 6.000 euros. La empresa pasa a ser titular de una parcela de 2.706 metros cuadrados situada en el área donde se proyecta construir la depuradora de Borriol, terreno con un valor de mercado de apenas 3.000 euros. La estructura societaria sirve para ocultar la vinculación directa del vicepresidente de la Diputación con los terrenos afectados por la expropiación."
-    type: "investigación"
-    urls: []
-
-  - fecha: 2013-01-01
-    titulo: "La oposición local descubre la conexión entre los terrenos y Martínez"
-    descripcion: "Concejales de la oposición en el Ayuntamiento de Borriol comienzan a sospechar de las condiciones económicas de la expropiación prevista para la construcción de la depuradora. El Ayuntamiento planeaba pagar precios muy superiores a los de mercado por los terrenos afectados. Al hacerse pública la posible relación entre Franvaltur y el vicepresidente de la Diputación, el alcalde Santamaría suspende el pleno municipal y solicita una reducción de la superficie de terreno a expropiar."
-    type: "investigación"
-    urls: []
-
-  - fecha: 2013-05-13
-    titulo: "El técnico de la Diputación informa favorablemente la reducción de la parcela"
-    descripcion: "El alcalde de Borriol solicita formalmente a la Diputación Provincial reducir la superficie del terreno afectado por el proyecto de la depuradora. El jefe del área técnica de la Diputación emite un informe favorable a la petición del Ayuntamiento el 13 de mayo de 2013. Pese a la reducción, la parcela propiedad de Franvaltur sigue incluida entre los terrenos a expropiar a un precio muy superior al de mercado."
-    type: "documento"
-    urls: []
-
-  - fecha: 2013-10-24
-    titulo: "Martínez otorga poderes notariales para ocultar su nombre"
-    descripcion: "Ante el creciente escrutinio de la oposición, Francisco Martínez Capdevila otorga poderes notariales para que su nombre no figure directamente en los documentos relacionados con la expropiación y la empresa Franvaltur. Esta maniobra, posteriormente documentada en el proceso judicial, fue interpretada por la acusación como una prueba de la conciencia del político sobre la irregularidad de sus actos."
-    type: "documento"
-    urls: []
-
-  - fecha: 2014-01-01
-    titulo: "Compromís descubre la trama y denuncia ante la Fiscalía"
-    descripcion: "Un concejal de Compromís en Borriol que venía investigando por qué el Ayuntamiento iba a pagar precios muy elevados por los terrenos de la depuradora descubre que la parcela de 2.706 metros cuadrados afectada pertenece a Franvaltur S.L., empresa detrás de la cual se ocultan Francisco Martínez Capdevila y sus dos hijos. El terreno, valorado en 3.000 euros, sería expropiado por 51.000 euros. Compromís entrega toda la documentación a la Fiscalía de Castellón, denunciando presuntos delitos de uso de información privilegiada y tráfico de influencias."
-    type: "denuncia"
+    relevancia: "media"
     urls:
-      - "http://www.castelloninformacion.com/depuradora-de-borriol-francisco-martinez-ayuntamiento-de-borriol-landelino-santamaria-corrupcion-fiscalaia-compromis-trafico-de-influencias-informacion-privilegiada-diputacion-de-castellon-e/"
+      - "https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TS%20Penal%2022%20feb%202017.pdf"
 
-  - fecha: 2014-02-01
-    titulo: "Imputación de Francisco Martínez y apertura de investigación judicial"
-    descripcion: "Tras la denuncia de Compromís, el juzgado de instrucción competente de Castellón abre diligencias previas e imputa a Francisco Martínez Capdevila por presuntos delitos de prevaricación, tráfico de influencias, fraude y negociaciones prohibidas a funcionarios. También son investigados el alcalde de Borriol Adelino Santamaría, el empresario Raúl Babiloni y otros tres implicados. El caso precipita la dimisión de Santamaría como diputado provincial del PP."
-    type: "imputación"
-    urls:
-      - "https://www.publico.es/politica/imputado-numero-carlos-fabra-castellon.html"
+  - fecha: "2008-05-26"
+    titulo: "La hija de Martínez compra la parcela afectada por 3.000 euros"
+    descripcion: "Tras la segregación de la parcela NUM011 del polígono 10, tramitada por el Ayuntamiento el 23 de mayo de 2008, Raúl Babiloni, en su nombre y en el de su hermano y su cuñada, la vende a Andrea Martínez por un precio declarado de 3.000 euros; la compradora la inscribe a su nombre el 12 de julio de 2008. La sentencia declara que la parcela no estaba incluida en el Plan Especial y que se destinaba a 'futuras ampliaciones'."
+    type: "investigación"
+    relevancia: "alta"
+    urls: []
 
-  - fecha: 2014-03-01
-    titulo: "Santamaría dimite como diputado provincial del PP"
-    descripcion: "Adelino Santamaría Blasco, alcalde de Borriol e investigado en el caso de la depuradora, presenta su dimisión como diputado provincial del PP de Castellón. La dimisión se produce como consecuencia directa del escándalo generado por las revelaciones sobre la expropiación de la parcela de Franvaltur. Santamaría alega motivos personales pero la renuncia se produce en plena vorágine judicial."
+  - fecha: "2011-12-26"
+    titulo: "La parcela se aporta a Franvaltur S.L. mediante una ampliación de capital"
+    descripcion: "Andrea Martínez aporta la parcela a la mercantil familiar Franvaltur S.L. en un aumento de capital, y la finca pasa a ser propiedad de la sociedad. Franvaltur había sido constituida en 2009 con un capital inicial de 6.000 euros, con Andrea como primera administradora única y con Francisco Martínez y sus dos hijos como socios; en mayo de 2013 su capital alcanzaba 595.950 euros."
+    type: "investigación"
+    relevancia: "alta"
+    urls: []
+
+  - fecha: "2013-03-08"
+    titulo: "Martínez remite al Ayuntamiento el informe que incluye la parcela en la expropiación"
+    descripcion: "El vicepresidente primero de la Diputación remite al Ayuntamiento de Borriol un oficio con el informe de 7 de marzo de 2013 del jefe del Área Técnica sobre los terrenos necesarios para la nueva depuradora. La sentencia declara que Martínez conocía así que la parcela de su familia quedaba incluida en la expropiación."
+    type: "investigación"
+    relevancia: "alta"
+    urls: []
+
+  - fecha: "2013-05-13"
+    titulo: "Informe técnico que fija los terrenos a expropiar, incluida la parcela familiar"
+    descripcion: "El jefe del Área Técnica de la Diputación responde a la consulta del alcalde de Borriol e indica los terrenos necesarios para la nueva depuradora: la totalidad de la parcela NUM020 del polígono 16 (1.835 m²), la parte sur de la NUM019 (5.728 m²) y la totalidad de la parcela NUM011 del polígono 10 (2.706 m²), la vinculada a la familia de Martínez."
+    type: "investigación"
+    relevancia: "alta"
+    urls: []
+
+  - fecha: "2013-10-24"
+    titulo: "Se otorgan poderes notariales para representar a Franvaltur"
+    descripcion: "El administrador único de Franvaltur, Francisco Martínez Tena (hijo del vicepresidente), otorga poderes a Luis García del Campillo, empleado de Raúl Babiloni; ese mismo día García del Campillo los deriva a Babiloni. La sentencia describe un 'entramado destinado a ocultar la titularidad real' de la parcela, sin que se acreditara un concierto para elevar ficticiamente el precio."
+    type: "investigación"
+    relevancia: "alta"
+    urls: []
+
+  - fecha: "2013-10-29"
+    titulo: "El Pleno del Ayuntamiento aprueba el proyecto de expropiación"
+    descripcion: "El Pleno de Borriol aprueba por mayoría el proyecto de expropiación forzosa de los terrenos de la depuradora, que suman 10.269 m² e incluyen la parcela de 2.706 m² vinculada a la familia de Martínez."
+    type: "investigación"
+    relevancia: "media"
+    urls: []
+
+  - fecha: "2013-11-05"
+    titulo: "Convenio expropiatorio de determinación del justiprecio"
+    descripcion: "El alcalde y el apoderado de Franvaltur, Raúl Babiloni, firman el convenio expropiatorio con un precio total de 193.570,65 euros para el conjunto de parcelas. La indemnización prevista para la parcela familiar (2.706 m²) era de unos 51.000 euros, a razón de 18,85 euros por metro cuadrado. El pago no llegó a ejecutarse."
+    type: "investigación"
+    relevancia: "media"
+    urls: []
+
+  - fecha: "2014-01-09"
+    titulo: "El Pleno suspende la expropiación tras conocerse la vinculación de la parcela"
+    descripcion: "Aparecidas en los medios las informaciones sobre la relación de Martínez con Franvaltur y con la parcela, el Pleno del Ayuntamiento suspende la aprobación del proyecto y deja sobre la mesa el dictamen. En los días siguientes el presidente de la Diputación, Javier Moliner, destituye a Martínez como vicepresidente y le retira las competencias en infraestructuras. El caso quedó expuesto públicamente en enero de 2014."
     type: "resumen"
+    relevancia: "alta"
+    urls:
+      - "https://elpais.com/ccaa/2014/01/13/valencia/1389640364_143582.html"
+
+  - fecha: "2014-01-28"
+    titulo: "La parcela familiar queda fuera del convenio expropiatorio"
+    descripcion: "El Ayuntamiento aprueba una nueva propuesta de convenio y deja fuera la parcela del polígono 10; días antes, el 23 de enero de 2014, el Área Técnica de la Diputación había informado de que los terrenos mínimos necesarios eran solo las otras dos parcelas. El nuevo proyecto de expropiación, de 31 de enero de 2014, ya no incluía la finca familiar."
+    type: "investigación"
+    relevancia: "media"
     urls: []
 
-  - fecha: 2015-06-01
-    titulo: "El juez procesa a Francisco Martínez y lo envía a juicio oral"
-    descripcion: "El juzgado de instrucción dicta auto de procesamiento contra Francisco Martínez Capdevila y los otros cinco acusados, acordando la apertura de juicio oral. El juez considera que existen indicios racionales de criminalidad suficientes para sentar a los imputados en el banquillo de los acusados. La Fiscalía mantiene las acusaciones de prevaricación, tráfico de influencias, fraude y negociaciones prohibidas, solicitando cuatro años de prisión para Martínez."
-    type: "imputación"
+  - fecha: "2014-02-19"
+    titulo: "Santamaría renuncia a su acta de diputado provincial"
+    descripcion: "Adelino Santamaría, alcalde de Borriol y diputado provincial del PP, anuncia su renuncia al acta de diputado provincial, aunque de momento se mantiene como alcalde. El diario Las Provincias da cuenta de la renuncia el 20 de febrero de 2014."
+    type: "resumen"
+    relevancia: "media"
     urls:
-      - "https://epoca1.valenciaplaza.com/ver/149199/el-juez-procesa-a-francisco-martinez-por-la-depuradora-de-borriol.html"
+      - "https://www.lasprovincias.es/v/20140220/politica/dimite-diputado-adelino-santamaria-20140220.html"
 
-  - fecha: 2016-02-15
-    titulo: "Inicio del juicio oral en la Audiencia Provincial de Castellón"
-    descripcion: "Arranca el juicio oral en la Audiencia Provincial de Castellón contra Francisco Martínez Capdevila y otros cinco acusados. La Fiscalía solicita cuatro años de prisión para el exvicepresidente de la Diputación, tres años para el exalcalde de Borriol Adelino Santamaría y para el empresario Raúl Babiloni, y dos años para cada uno de los tres acusados restantes. El juicio se celebra en varias sesiones durante los días 15, 16, 22, 23, 24 y 25 de febrero de 2016."
+  - fecha: "2014-02-25"
+    titulo: "Santamaría deja también la alcaldía de Borriol; le sucede Iván Pauner"
+    descripcion: "La Diputación aprueba la renuncia de Santamaría a su acta y esa noche el hasta entonces alcalde de Borriol renuncia asimismo a la alcaldía, que pasa a Iván Pauner. Deja el cargo tras quince años al frente del municipio, forzado por el escándalo de la depuradora. La noticia se publica el 25 y el 26 de febrero de 2014."
+    type: "resumen"
+    relevancia: "media"
+    urls:
+      - "https://www.cope.es/actualidad/noticias/adelino-santamaria-deja-alcaldia-borriol-diputacion-20140225_132032"
+      - "https://laplanaaldia.com/borriol/noticias/100851/adelino-santamaria-punto-final"
+
+  - fecha: "2014-07-09"
+    titulo: "El fiscal instructor propone querellarse contra los implicados"
+    descripcion: "El fiscal instructor de la investigación, Javier Carceller, firma el decreto con fecha 9 de julio de 2014 en el que atribuye posibles delitos de prevaricación, tráfico de influencias, fraude ilegal y negociaciones prohibidas a Martínez, Santamaría y otras personas, e insta a la Fiscalía jefe a presentar querella. La querella se presentó a mediados de 2014."
+    type: "denuncia"
+    relevancia: "media"
+    urls: []
+
+  - fecha: "2014-09-09"
+    titulo: "Martínez renuncia a su acta de diputado provincial y a sus cargos en el PP"
+    descripcion: "Francisco Martínez anuncia su renuncia voluntaria al acta de diputado provincial en la Diputación de Castellón y abandona la vicesecretaría del PP provincial, después de haber sido apartado de la vicepresidencia a comienzos de 2014. Mantiene la alcaldía de Vall d'Alba."
+    type: "resumen"
+    relevancia: "alta"
+    urls:
+      - "https://www.elmundo.es/comunidad-valenciana/2014/09/09/540f48e0268e3e1a7e8b45a6.html"
+
+  - fecha: "2014-09-10"
+    titulo: "El Juzgado de Instrucción nº 2 de Castellón imputa a Martínez y a otras personas"
+    descripcion: "El Juzgado de Instrucción número 2 de Castellón imputa a Francisco Martínez, a Adelino Santamaría, a los hijos de Martínez (Francisco y Andrea), a Raúl Babiloni y a otras personas en la causa abierta a raíz de la querella de la Fiscalía. Los investigados son citados a declarar entre el 30 de septiembre y el 2 de octubre de 2014."
+    type: "imputación"
+    relevancia: "alta"
+    urls:
+      - "https://www.elmundo.es/comunidad-valenciana/2014/09/10/5410451122601dc61f8b458a.html"
+
+  - fecha: "2015-02-09"
+    titulo: "El juez procesa a Martínez, Santamaría y otros cuatro acusados"
+    descripcion: "El Juzgado de Instrucción número 2 de Castellón dicta el auto de transformación de las diligencias previas en procedimiento abreviado (equivalente al procesamiento) contra Francisco Martínez, Adelino Santamaría y cuatro personas más, por prevaricación, tráfico de influencias, fraude ilegal y negociaciones prohibidas. El Tribunal Superior de Justicia valenciano lo comunica el 9 de febrero de 2015."
+    type: "imputación"
+    relevancia: "alta"
+    urls:
+      - "https://elpais.com/ccaa/2015/02/09/valencia/1423496492_055008.html"
+
+  - fecha: "2015-05-29"
+    titulo: "La Audiencia de Castellón confirma el procesamiento"
+    descripcion: "La Audiencia Provincial de Castellón desestima los recursos de las defensas y confirma el procesamiento de Martínez y los otros cinco acusados, que serán juzgados. El juzgado había dictado en abril de 2015 el auto de apertura de juicio oral."
+    type: "recurso"
+    relevancia: "media"
+    urls:
+      - "https://www.levante-emv.com/castello/2015/05/30/audiencia-confirma-procesamiento-martinez-depuradora-12575998.html"
+
+  - fecha: "2016-02-15"
+    titulo: "Comienza el juicio oral en la Audiencia Provincial de Castellón"
+    descripcion: "La Sección Segunda de la Audiencia Provincial de Castellón inicia el juicio oral contra Francisco Martínez y otras cinco personas. Están previstas sesiones los días 15, 16, 22, 23, 24 y 25 de febrero de 2016. La Fiscalía solicita 4 años de prisión para Martínez y entre 2 y 3 años para el resto."
     type: "juicio"
+    relevancia: "alta"
     urls:
       - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1147797"
 
-  - fecha: 2016-02-25
-    titulo: "Finaliza el juicio oral"
-    descripcion: "Concluyen las sesiones del juicio oral en la Audiencia Provincial de Castellón. Durante el proceso, el concejal de Compromís que destapó el escándalo fue objeto de una agresiva estrategia defensiva por parte de la acusación, que intentó desacreditar su testimonio. El tribunal escucha las últimas alegaciones de todas las partes y el caso queda visto para sentencia."
+  - fecha: "2016-02-25"
+    titulo: "Última sesión del juicio; el caso queda visto para sentencia"
+    descripcion: "Concluyen las sesiones del juicio oral tras cinco días de declaraciones y más de veinte testigos. El fiscal anticorrupción sostiene que los acusados planificaron la operación con información privilegiada y pide penas de entre 2 y 4 años. El caso queda visto para sentencia."
     type: "juicio"
+    relevancia: "media"
     urls:
-      - "https://www.cope.es/actualidad/noticias/finaliza-juicio-por-caso-depuradora-borriol-20160225_24459"
+      - "https://cadenaser.com/emisora/2016/02/25/radio_castellon/1456426210_701372.html"
 
-  - fecha: 2016-06-01
-    titulo: "Santamaría abandona la alcaldía de Borriol tras quince años"
-    descripcion: "Adelino Santamaría Blasco abandona la alcaldía de Borriol tras quince años al frente del municipio. Aunque alega que lo hace por jubilación, su retirada se produce en el contexto del caso judicial de la depuradora y de la presión política acumulada desde que se destapó el escándalo en 2014. El PP de Borriol designa un nuevo alcalde para completar el mandato."
-    type: "resumen"
-    urls:
-      - "https://laplanaaldia.com/borriol/noticias/100851/adelino-santamaria-punto-final"
-
-  - fecha: 2016-09-01
-    titulo: "Sentencia de la Audiencia Provincial: 8 meses de prisión para Martínez"
-    descripcion: "La Audiencia Provincial de Castellón dicta sentencia condenando a Francisco Martínez Capdevila a ocho meses de prisión, una multa de 12.600 euros y dos años de inhabilitación especial para cargo público por un delito de negociaciones prohibidas a los funcionarios. El tribunal absuelve a los otros cinco acusados: sus hijos Andrea y Francisco Martínez Tena, el exalcalde Adelino Santamaría Blasco, el empresario Raúl Babiloni y el técnico Luis García del Campillo. La sentencia considera probado que Martínez intervino para que la parcela de Franvaltur quedara incluida en la expropiación con el fin de obtener un beneficio económico."
+  - fecha: "2016-04-15"
+    titulo: "Sentencia de la Audiencia Provincial: condena a Martínez y absuelve a los otros cinco"
+    descripcion: "La Sección Segunda de la Audiencia Provincial de Castellón dicta la sentencia número 85/2016, que condena a Francisco Martínez a 8 meses de prisión, 12.600 euros de multa (14 meses con cuota diaria de 30 euros) y 2 años de inhabilitación especial para empleo o cargo público por negociaciones prohibidas a los funcionarios (art. 439 del Código Penal). Absuelve a los otros cinco acusados de prevaricación, tráfico de influencias, fraude ilegal y negociaciones prohibidas. La sentencia declara no acreditados el concierto entre los acusados ni el conocimiento del alcalde sobre la titularidad de la parcela."
     type: "sentencia"
+    relevancia: "alta"
     urls:
-      - "https://www.eldiario.es/comunitat-valenciana/francisco-martinez-pp-corrupcion-politica-castellon_1_4053004.html"
+      - "https://cadenaser.com/emisora/2016/04/15/radio_castellon/1460724011_670835.html"
+      - "https://www.elmundo.es/comunidad-valenciana/2016/04/15/5710e04222601db7218b4578.html"
 
-  - fecha: 2017-02-22
-    titulo: "El Tribunal Supremo confirma la condena: STS 111/2017"
-    descripcion: "La Sala de lo Penal del Tribunal Supremo dicta sentencia STS 111/2017 el 22 de febrero de 2017, rechazando los recursos presentados tanto por Francisco Martínez Capdevila como por la Fiscalía, y confirmando íntegramente el fallo de la Audiencia Provincial de Castellón. Quedan firmes la pena de ocho meses de prisión, la multa de 12.600 euros y los dos años de inhabilitación especial para cargo público. Con esta resolución el caso queda definitivamente cerrado."
+  - fecha: "2017-02-22"
+    titulo: "El Tribunal Supremo confirma la condena (STS 111/2017)"
+    descripcion: "La Sala de lo Penal del Tribunal Supremo dicta la sentencia 111/2017 (ROJ STS 565/2017; ECLI:ES:TS:2017:565), que desestima los recursos de casación interpuestos por el Ministerio Fiscal y por Martínez y confirma íntegramente la sentencia de la Audiencia. La condena de 8 meses de prisión, 12.600 euros de multa y 2 años de inhabilitación queda firme. La resolución se conoce por los medios el 27 de febrero de 2017."
     type: "sentencia"
+    relevancia: "alta"
     urls:
-      - "https://www.castelloninformacion.com/juicio-tribunales-francisco-martinez-diputacion-depuradora-borriol-sentencia/"
-      - "https://vlex.es/vid/669251357"
+      - "https://www.europapress.es/comunitat-valenciana/noticia-ts-ratifica-meses-carcel-exvicepresidente-diputacion-castellon-depuradora-borriol-20170227154425.html"
+      - "https://www.levante-emv.com/castello/2017/02/27/supremo-ratifica-condena-numero-2-12222559.html"
 ---
+
+## Situación y alcance
+
+El caso está cerrado con una única condena firme. La Audiencia Provincial de Castellón (Sección Segunda) condenó a Francisco Martínez Capdevila por un delito de negociaciones prohibidas a los funcionarios del artículo 439 del Código Penal y absolvió a los otros cinco acusados de todos los delitos imputados (prevaricación, tráfico de influencias, fraude ilegal y negociaciones prohibidas). El Tribunal Supremo desestimó tanto el recurso del condenado como el de la Fiscalía y confirmó la sentencia, que quedó firme el 22 de febrero de 2017. La condena se refiere a la intervención administrativa del acusado en un asunto en el que tenía un interés patrimonial familiar, sin que la resolución declarara probados un concierto entre acusados, un beneficio económico efectivamente obtenido ni irregularidades en el precio.
+
+## Incertidumbres y límites
+
+- **fechaInicio omitida.** Solo consta el periodo aproximado (los hechos se extienden «entre los años 2007 y 2014»), sin una fecha exacta del inicio de la conducta. El primer acto con fecha precisa de los hechos probados es el escrito del alcalde de Borriol de 17 de octubre de 2007, recogido en la cronología.
+- **Sentencia de la Audiencia.** No se ha localizado el texto independiente de la sentencia 85/2016 de la Audiencia Provincial; su contenido (hechos probados y fallo) se conoce a través de la transcripción íntegra que incluye la sentencia del Tribunal Supremo, que es la fuente primaria utilizada.
+- **Cifras económicas.** Los 51.000 euros son el importe previsto de indemnización expropiatoria para la parcela familiar (2.706 m² a 18,85 euros/m², aproximadamente 51.008 euros), no un pago realizado: la parcela quedó excluida del proyecto y la expropiación no se ejecutó. Los 3.000 euros corresponden al precio declarado de la compraventa de 2008, no a una tasación de mercado. El total del convenio expropiatorio (193.570,65 euros) correspondía al conjunto de parcelas y nunca se pagó. El campo `coste` recoge únicamente los 51.000 euros previstos para la parcela familiar; la multa penal de 12.600 euros es una categoría distinta y no se suma.
+- **Ejecución de la pena.** No se ha verificado si la pena de 8 meses de prisión fue finalmente suspendida o ejecutada; la prensa de 2017 señaló que, por ser inferior a dos años, podía quedar suspendida.
+- **Identidad de un acusado.** Una información de prensa de 2014 describió a Luis García del Campillo como técnico de la Diputación, mientras que la sentencia del Supremo y otras fuentes lo describen como empleado de Raúl Babiloni con dependencia laboral respecto a él; en la ficha prevalece la descripción de la resolución judicial.
+- **Solapamiento con otra ficha.** Francisco Martínez Capdevila y varios de sus familiares y socios aparecen también en la ficha del caso del PGOU de Vall d'Alba (`casos/pp/pgou-vall-de-alba.md`), una causa distinta (urbanismo en Vall d'Alba, instruida a partir de 2016) que no se modifica aquí.
+- **Novedades posteriores.** No se han localizado resoluciones ni noticias posteriores a 2017 que alteren la situación del caso de la depuradora de Borriol.
