@@ -6,13 +6,13 @@ año: 2006
 fechaFin: ""
 estado: "desconocido"
 descripcion: |
-  El caso Brugal (acrónimo de "Basuras RUrales Gestión ALicante") es una macrocausa de corrupción abierta en marzo de 2006 a partir de grabaciones del empresario Ángel Fenoll sobre la adjudicación del contrato de basuras de Orihuela. La instrucción se ramificó en cerca de veinte piezas separadas que han afectado a municipios e instituciones de la provincia de Alicante (Orihuela, Calp, Alicante y la comarca de la Vega Baja, entre otros). Las primeras detenciones se produjeron en mayo de 2007 y una segunda oleada el 6 de julio de 2010, en la que fue detenido, entre otros, el expresidente de la Diputación de Alicante José Joaquín Ripoll. El mes de mayo de 2007 solo se conoce con precisión de mes, por lo que no se consigna un día.
+  El caso Brugal (acrónimo de "Basuras RUrales Gestión ALicante") es una macrocausa de corrupción abierta en marzo de 2006 a partir de grabaciones del empresario Ángel Fenoll sobre la adjudicación del contrato de basuras de Orihuela. La instrucción se ramificó en cerca de veinte piezas separadas que han afectado a municipios e instituciones de la provincia de Alicante (Orihuela, Calp, Alicante y la comarca de la Vega Baja, entre otros). Las primeras detenciones se produjeron en mayo de 2007 y una segunda oleada el 6 de julio de 2010, en la que fue detenido, entre otros, el entonces presidente de la Diputación de Alicante José Joaquín Ripoll. El mes de mayo de 2007 solo se conoce con precisión de mes, por lo que no se consigna un día.
 
   La pieza matriz (contrato de basuras de Orihuela) acumula tres resoluciones. La Sección Séptima de la Audiencia Provincial de Alicante, con sede en Elche, absolvió a los 34 acusados el 3 de junio de 2020 tras declarar nulas las escuchas, los registros y las grabaciones aportadas por Fenoll. El Tribunal Supremo anuló esa sentencia en julio de 2024, declaró válidas las pruebas y ordenó dictar un nuevo fallo. La nueva sentencia, fechada el 8 de enero de 2026 (SAP A 1/2026; ECLI:ES:APA:2026:1) y notificada a las partes el lunes 12 de enero, condenó a 9 de los 33 acusados y absolvió a los 24 restantes, entre ellos el exalcalde José Manuel Medina. Fueron condenados, entre otros, Mónica Lorente (4 meses de prisión y 20 meses de inhabilitación), los exconcejales Antonio Rodríguez Murcia (4 meses), Manuel Abadía (5 meses) y Ginés Sánchez (1 año), el interventor José Manuel Espinosa (8 meses) y el empresario Ángel Fenoll (penas que suman 3 años y 9 meses). Cinco condenados deberán indemnizar solidariamente al Ayuntamiento de Orihuela con casi 600.000 euros. La nota del CGPJ que difundió el fallo indicó, al notificarlo, que cabía recurso de casación; no consta en fuentes primarias si se interpuso o resolvió recurso posterior, por lo que no se afirma el estado procesal actual de la sentencia.
 
-  Otras piezas con resoluciones documentadas: el PGOU de Alicante (la Audiencia condenó en julio de 2021 a multas por cohecho a Luis Díaz Alperi y al empresario Enrique Ortiz y absolvió a Sonia Castedo; el Tribunal Supremo confirmó en mayo de 2024 la condena de Ortiz y absolvió a Alperi por prescripción); el Plan Zonal de Residuos de la Vega Baja (la Audiencia absolvió el 15 de octubre de 2024 a los 13 acusados, entre ellos Ripoll, Lorente, Fenoll y Ortiz); y las basuras de Calp (la Audiencia condenó el 24 de octubre de 2022 al exalcalde Javier Morató, a los exediles Fernando Penella y Juan Roselló y a Ángel Fenoll; el Tribunal Supremo anuló esa sentencia por resolución fechada el 24 de febrero de 2026 (STS 885/2026; ECLI:ES:TS:2026:885), difundida por el CGPJ el 3 de marzo de 2026, y ordenó dictar una nueva. No consta que esa nueva resolución se haya dictado o localizado).
+  Otras piezas con resoluciones documentadas: el PGOU de Alicante (la Audiencia condenó en julio de 2021 a multas por cohecho a Luis Díaz Alperi y al empresario Enrique Ortiz y absolvió a Sonia Castedo; el Tribunal Supremo confirmó en mayo de 2024 la condena de Ortiz y absolvió a Alperi por prescripción); el Plan Zonal de Residuos de la Vega Baja (la Audiencia absolvió el 15 de octubre de 2024 a los 13 acusados, entre ellos Ripoll, Lorente, Fenoll y Ortiz); y las basuras de Calp (la Audiencia condenó el 24 de octubre de 2022 al exalcalde Javier Morató, a los exediles Fernando Penella y Juan Roselló y a Ángel Fenoll; el Tribunal Supremo anuló esa sentencia por resolución 156/2026, fechada el 24 de febrero de 2026 (ROJ STS 885/2026; ECLI:ES:TS:2026:885), difundida por el CGPJ el 3 de marzo de 2026, y ordenó dictar una nueva. No consta que esa nueva resolución se haya dictado o localizado).
 
-  Importes documentados y su alcance: en Calp la sentencia de 2022 cifró las mordidas en 745.254 euros, de los que 120.202 euros se destinaron al club de fútbol local, pero esa resolución fue anulada por el Tribunal Supremo en 2026, por lo que la cifra no es un pronunciamiento firme. En Orihuela la sentencia de 8 de enero de 2026 fija una indemnización de casi 600.000 euros. No se ha localizado una cifra global verificable del coste de la macrocausa: las cantidades conocidas corresponden a piezas concretas y a conceptos distintos (mordidas, indemnización, perjuicio alegado y reclamaciones municipales), por lo que no se suman ni se presentan como equivalentes. En 2026 el Ayuntamiento de Orihuela inició la revisión de oficio de la adjudicación de 2008, con reclamaciones cruzadas (del orden de 23 millones de euros por gastos de gestión directa y de 11 millones por daños y perjuicios); la última referencia documentada de esa vía administrativa es del 2 de septiembre de 2026 y no consta su resultado ni que el procedimiento siguiera abierto en la fecha de consulta.
+  Importes documentados y su alcance: en Calp la sentencia de 2022 cifró las mordidas en 745.254 euros, de los que 120.202 euros se destinaron al club de fútbol local, pero esa resolución fue anulada por el Tribunal Supremo en 2026, por lo que la cifra no es un pronunciamiento firme. En Orihuela la sentencia de 8 de enero de 2026 fija una indemnización de casi 600.000 euros. La indemnización de Orihuela incluye 517.502,73 y 79.379,70 euros (596.882,43 euros), además de una responsabilidad pendiente de cuantificación vinculada a Urbaser. No se ha localizado una cifra global verificable del coste de la macrocausa: las cantidades conocidas corresponden a piezas concretas y a conceptos distintos (mordidas, indemnización, perjuicio alegado y reclamaciones municipales), por lo que no se suman ni se presentan como equivalentes. En 2026 el Ayuntamiento de Orihuela inició la revisión de oficio de la adjudicación de 2008, con reclamaciones cruzadas (del orden de 23 millones de euros por gastos de gestión directa y de 11 millones por daños y perjuicios); la última referencia documentada de esa vía administrativa es del 2 de septiembre de 2026 y no consta su resultado ni que el procedimiento siguiera abierto en la fecha de consulta.
 
   Limitaciones: el estado procesal varía según la pieza y no consta el de las condenas de 2026; la nota del CGPJ solo acredita la notificación y la posibilidad de casación. No se ha localizado el resultado de un eventual recurso de casación contra la absolución del Plan Zonal de 2024 ni la nueva sentencia de Calp ordenada por el Supremo en 2026. El inicio de la investigación (marzo de 2006) y las primeras detenciones (mayo de 2007) solo se conocen con precisión de mes. La ficha "Aguas de Calpe" de este repositorio documenta un procedimiento distinto —presuntos sobrecostes en obras del agua de Calp, no la pieza de las basuras— y solo coincide en la persona de Juan Roselló, allí citado como antecedente penal: no es la misma causa ni un duplicado de esta ficha. La ficha se mantiene como no completada mientras no se aclaren esos extremos.
 resumen: "Macrocausa de sobornos en contratos de basuras y residuos en la provincia de Alicante, con varias piezas y resoluciones de 2024 a 2026; el estado procesal posterior de las condenas de 2026 no consta"
@@ -22,7 +22,7 @@ tribunal:
   - "Sección Séptima de la Audiencia Provincial de Alicante (sede en Elche)"
   - "Sección Segunda de la Audiencia Provincial de Alicante"
   - "Tribunal Supremo (Sala de lo Penal)"
-numeroSentencia: "SAP A 1/2026 (pieza matriz, ECLI:ES:APA:2026:1) - STS 885/2026 (pieza de Calp, ECLI:ES:TS:2026:885)"
+numeroSentencia: "1/2026 (pieza matriz; ROJ SAP A 1/2026, ECLI:ES:APA:2026:1); STS 156/2026 (Calp; ROJ STS 885/2026, ECLI:ES:TS:2026:885)"
 implicados:
   - nombre: "Ángel Fenoll"
     cargo: "Empresario, administrador de las mercantiles Colsur SL y Proambiente SL"
@@ -90,7 +90,7 @@ documentos:
 cronologia:
   - fecha: 2010-07-06
     titulo: "Segunda oleada de detenciones"
-    descripcion: "El 6 de julio de 2010 la Policía Nacional practica una nueva oleada de detenciones relacionadas con la trama, entre ellas la del expresidente de la Diputación de Alicante José Joaquín Ripoll, tres ediles del PP de Orihuela y varios empresarios. El Mundo publicó la operación el mismo 6 de julio de 2010 y El País la recogió al día siguiente. La investigación se había iniciado en marzo de 2006 y en mayo de 2007 se había detenido a seis personas; de esas dos fechas solo consta la precisión de mes."
+    descripcion: "El 6 de julio de 2010 la Policía Nacional practica una nueva oleada de detenciones relacionadas con la trama, entre ellas la del entonces presidente de la Diputación de Alicante José Joaquín Ripoll, tres ediles del PP de Orihuela y varios empresarios. El Mundo publicó la operación el mismo 6 de julio de 2010 y El País la recogió al día siguiente. La investigación se había iniciado en marzo de 2006 y en mayo de 2007 se había detenido a seis personas; de esas dos fechas solo consta la precisión de mes."
     type: "detención"
     urls:
       - "https://www.elmundo.es/elmundo/2010/07/06/alicante/1278419323.html"
@@ -111,7 +111,7 @@ cronologia:
       - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Alicante-absuelve-a-los-34-acusados-de-la-causa-de--Brugal--relativa-al-contrato-de--basuras-de-Orihuela"
 
   - fecha: 2021-07-14
-    titulo: "Sentencia de la pieza del PGOU de Alicante"
+    titulo: "Se conoce la sentencia de la pieza del PGOU de Alicante"
     descripcion: "La Audiencia de Alicante condena a multas de 6.000 euros a Luis Díaz Alperi y de 18.000 euros al empresario Enrique Ortiz por cohecho, y absuelve a Sonia Castedo y al resto de los acusados por falta de pruebas o prescripción. La sentencia es recurrida en casación."
     type: "sentencia"
     urls:
@@ -126,7 +126,7 @@ cronologia:
       - "https://www.europapress.es/comunitat-valenciana/noticia-condenados-exalcalde-dos-exediles-pp-calpe-acusados-sobornos-adjudicacion-basuras-20221024153935.html"
 
   - fecha: 2024-05-06
-    titulo: "El Tribunal Supremo confirma la pieza del PGOU"
+    titulo: "Se informa de la resolución del Tribunal Supremo sobre la pieza del PGOU"
     descripcion: "La Sala de lo Penal del Tribunal Supremo ratifica la condena por cohecho del empresario Enrique Ortiz (multa de 18.000 euros) y absuelve al exalcalde Luis Díaz Alperi al considerar prescrito el cohecho impropio. La absolución de Sonia Castedo queda confirmada."
     type: "sentencia"
     urls:
@@ -134,13 +134,13 @@ cronologia:
 
   - fecha: 2024-07-23
     titulo: "Se conoce la anulación por el Tribunal Supremo de la absolución de la pieza matriz"
-    descripcion: "El Tribunal Supremo estima el recurso de la Fiscalía, declara válidas las escuchas y las grabaciones y anula la sentencia absolutoria de 2020, ordenando a la Sección Séptima dictar un nuevo fallo valorando todas las pruebas. La fecha consignada es la de publicación de la decisión (23 de julio de 2024); no se ha podido confirmar el día exacto de la resolución."
+    descripcion: "El Tribunal Supremo estima el recurso de la Fiscalía, declara válidas las escuchas y las grabaciones y anula la sentencia absolutoria de 2020, ordenando a la Sección Séptima dictar un nuevo fallo valorando todas las pruebas. La fecha consignada es la de publicación de la decisión (23 de julio de 2024); la sentencia de la pieza matriz de 2026 identifica la resolución del Supremo como sentencia 753/2024, de 22 de julio de 2024."
     type: "recurso"
     urls:
       - "https://www.eldiario.es/comunitat-valenciana/escuchas-caso-brugal-validas-supremo-tumba-absolucion-exalcaldes-pp-orihuela_1_11544057.html"
 
   - fecha: 2024-10-15
-    titulo: "Absolución en la pieza del Plan Zonal de la Vega Baja"
+    titulo: "Se conoce la absolución en la pieza del Plan Zonal de la Vega Baja"
     descripcion: "La Sección Séptima de la Audiencia de Alicante absuelve a los 13 acusados de la pieza del Plan Zonal de Residuos de la Vega Baja, entre ellos el expresidente de la Diputación José Joaquín Ripoll, la exalcaldesa Mónica Lorente y los empresarios Ángel Fenoll, Enrique Ortiz y Rafael Gregory. La sentencia valida las escuchas pero no considera probadas las acusaciones y es recurrible en casación."
     type: "sentencia"
     urls:
