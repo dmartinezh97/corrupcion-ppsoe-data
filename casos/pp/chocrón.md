@@ -4,7 +4,7 @@ partido: PP
 completado: false
 año: 2012
 fechaFin: ""
-estado: "sentencia firme"
+estado: "desconocido"
 descripcion: |
   El caso Chocrón se refiere a la adquisición por la Consejería de Cultura y Festejos de la Ciudad Autónoma de Melilla, entre 2009 y 2011, de 4.000 ejemplares del libro "Melilla y su Judaísmo" por un importe global de 70.000 euros, mediante varios pedidos y órdenes de pago fraccionados. Los pagos se hicieron a la entidad "Amigos Americanos de Shehebar Sephardic Center Incorporated", con sede en Nueva York, vinculada a la Casa de Melilla en Jerusalén.
 
