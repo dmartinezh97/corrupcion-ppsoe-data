@@ -5,11 +5,11 @@ completado: false
 año: 2016
 fechaInicio: 2016-01-18
 fechaFin: ""
-estado: "pendiente de juicio"
+estado: "desconocido"
 descripcion: |
-  El caso Acuamed, conocido como Operación Frontino, investiga una presunta trama de corrupción en la empresa pública Aguas de las Cuencas Mediterráneas SA (Acuamed), dependiente del Ministerio de Agricultura y Medio Ambiente. Según los autos de instrucción, la cúpula de la empresa, encabezada por su director general Arcadio Mateo del Puerto, habría manipulado la adjudicación y ejecución de contratos de obras hidráulicas y medioambientales en la cuenca mediterránea para favorecer a determinadas constructoras.
+  El caso Acuamed, conocido como Operación Frontino, investiga una presunta trama de corrupción en la empresa pública Aguas de las Cuencas Mediterráneas SA (Acuamed), dependiente del Ministerio de Agricultura y Medio Ambiente. Según los autos de instrucción, la cúpula de la empresa, encabezada por su entonces director general Arcadio Mateo del Puerto, habría manipulado la adjudicación y ejecución de contratos de obras hidráulicas y medioambientales en la cuenca mediterránea para favorecer a determinadas constructoras.
 
-  La investigación sostiene, de forma indiciaria, que el sistema funcionaba mediante acuerdos entre altos cargos de Acuamed y ejecutivos de constructoras como FCC, Acciona Infraestructuras y Altec, que habrían entregado dádivas (viajes, estancias, regalos y dinero) a cambio de adjudicaciones irregulares y de certificaciones y liquidaciones de obra infladas. Entre los hechos recogidos en el auto de procesamiento de abril de 2023 figura un implante de pelo en Turquía por valor de 4.500 euros atribuido a Arcadio Mateo. Durante el registro de su domicilio, la Guardia Civil intervino 120.000 euros en billetes de 500 euros. No consta ninguna sentencia condenatoria: el último dato contrastado sitúa la causa pendiente de juicio oral en enero de 2026, sin que se haya podido verificar su estado actual (octubre de 2026).
+  La investigación sostiene, de forma indiciaria, que el sistema funcionaba mediante acuerdos entre altos cargos de Acuamed y ejecutivos de constructoras como FCC, Acciona Infraestructuras y Altec, que habrían entregado dádivas (viajes, estancias, regalos y dinero) a cambio de adjudicaciones irregulares y de certificaciones y liquidaciones de obra infladas. Entre los hechos recogidos en el auto de procesamiento de abril de 2023 figura un implante de pelo en Turquía por valor de 4.500 euros atribuido a Arcadio Mateo. Durante el registro de su domicilio, la Guardia Civil intervino 120.000 euros en billetes de 500 euros. No se ha localizado ninguna sentencia condenatoria: el último dato contrastado sitúa la causa pendiente de juicio oral en enero de 2026, sin que se haya podido verificar su estado actual (octubre de 2026).
 
   La causa arrancó en 2015 a raíz de denuncias de cargos de Acuamed y se hizo pública el 18 de enero de 2016, cuando la Guardia Civil ejecutó la Operación Frontino con 13 detenciones. El juez Eloy Velasco decretó prisión incondicional para cinco de los detenidos. En abril de 2023 el juez Manuel García Castellón procesó a 42 personas por corrupción en los negocios, falsedad documental, fraude a la administración, prevaricación, malversación de caudales públicos y cohecho. Según informaciones periodísticas de marzo de 2025, cuya fecha de resolución exacta no ha podido confirmarse con una fuente oficial, el magistrado Antonio Piña, sucesor de García Castellón en el Juzgado Central de Instrucción nº 6, habría comunicado el cierre de la instrucción y elevado la causa para juicio oral ante la Sala de lo Penal de la Audiencia Nacional; esta ficha no da por acreditados ni la fecha ni el contenido de esa resolución. La última información contrastada sobre el estado del procedimiento es de enero de 2026, cuando seguía sin constar un señalamiento de vista oral; a fecha de esta revisión (octubre de 2026) no se ha podido verificar si la situación procesal ha variado, por lo que no debe presumirse la continuidad de ese estado. La cifra de perjuicio económico de 20 millones de euros procede de filtraciones periodísticas iniciales y tampoco ha sido confirmada judicialmente.
 
@@ -22,47 +22,47 @@ tribunal:
 numeroSentencia: ""
 implicados:
   - nombre: "Arcadio Mateo del Puerto"
-    cargo: "Director general de Acuamed"
+    cargo: "Exdirector general de Acuamed (cargo en el periodo investigado, 2012-2015)"
     rol: "Principal investigado y procesado en 2023; en prisión preventiva tras su detención y en libertad desde junio de 2016 tras abonar una fianza de 300.000 euros (rebajada desde los 600.000 fijados inicialmente)"
 
   - nombre: "María Gabriela Mañueco Pfeiffer"
-    cargo: "Responsable de Ingeniería y Construcción de Acuamed"
+    cargo: "Exjefa de Ingeniería y Construcción de Acuamed (cargo en el periodo investigado)"
     rol: "Procesada en 2023; en prisión preventiva tras su detención en enero de 2016"
 
   - nombre: "Francisco Javier Gómez Pastor"
-    cargo: "Subdirector de Contratación de Acuamed"
+    cargo: "Ex subdirector de Contratación de Acuamed (cargo en el periodo investigado)"
     rol: "Procesado en 2023; en prisión preventiva tras su detención en enero de 2016"
 
   - nombre: "Pablo Martín"
-    cargo: "Cargo de Acuamed en Valencia (jefe de proyectos)"
-    rol: "Procesado en 2023 por presuntos delitos de prevaricación, tráfico de influencias, malversación, fraude y falsedad"
+    cargo: "Delegado de Acuamed en Valencia (jefe de proyectos; cargo en el periodo investigado)"
+    rol: "Detenido en la Operación Frontino de 2016. Su procesamiento en el auto de 2023 no consta confirmado de forma individual en las fuentes revalidadas de esta revisión (pendiente de verificar)."
 
   - nombre: "Juan García Cuenca"
-    cargo: "Director de Asesoría Jurídica de Acuamed"
+    cargo: "Exdirector de Asesoría Jurídica de Acuamed (cargo en el periodo investigado)"
     rol: "Procesado en 2023 por corrupción en los negocios, falsedad, fraude, malversación agravada y prevaricación"
 
   - nombre: "Carlos Anibarro"
-    cargo: "Director Financiero de Acuamed"
+    cargo: "Exdirector de Administración y Finanzas de Acuamed (cargo en el periodo investigado)"
     rol: "Procesado en 2023 por corrupción en los negocios, falsedad, fraude, malversación agravada y prevaricación"
 
   - nombre: "Nicolás Steegmann"
-    cargo: "Presidente de Altec (después Altyum Proyectos y Obras)"
+    cargo: "Presidente de Altec durante el periodo investigado (después Altyum Proyectos y Obras)"
     rol: "Detenido en la Operación Frontino; en prisión preventiva hasta abril de 2016, cuando salió en libertad bajo fianza de 600.000 euros"
 
   - nombre: "Miguel Jurado Fernández"
-    cargo: "Presidente de FCC Construcción"
+    cargo: "Presidente de FCC Construcción durante el periodo investigado"
     rol: "Investigado en la causa; detenido en la Operación Frontino de 2016"
 
   - nombre: "Santiago Farré Dot"
-    cargo: "Directivo de FCC Construcción"
+    cargo: "Directivo de FCC Construcción durante el periodo investigado"
     rol: "Detenido en 2016; quedó en libertad tras abonar una fianza de 20.000 euros por presunto cohecho activo"
 
   - nombre: "Miguel Roset Ramos"
-    cargo: "Ingeniero de FCC Construcción"
+    cargo: "Ingeniero de FCC Construcción durante el periodo investigado"
     rol: "Detenido en 2016; quedó en libertad tras abonar una fianza de 20.000 euros por presunto cohecho activo"
 
   - nombre: "Justo Vicente Pelegrini"
-    cargo: "Director general de Construcción de Acciona España y Portugal"
+    cargo: "Director general de Construcción de Acciona España y Portugal durante el periodo investigado"
     rol: "Su imputación fue sobreseída provisionalmente en diciembre de 2020; no figura entre los procesados de 2023"
 
   - nombre: "Manuel Moreno Maestre"
@@ -91,7 +91,7 @@ tags:
   - "falsedad documental"
   - "organización criminal"
 
-impactoSocial: "El caso Acuamed reveló una de las tramas de corrupción más graves investigadas en la gestión del agua en España, afectando a infraestructuras hídricas críticas para el abastecimiento de la cuenca mediterránea. La mención de un exministro convertido en Comisario Europeo en el marco de la causa generó un escándalo político. La Operación Frontino destapó cómo constructoras de primera línea participaban presuntamente en sobornos para obtener contratos públicos millonarios."
+impactoSocial: "El caso Acuamed se refiere a la gestión de infraestructuras hidráulicas de la cuenca mediterránea. Entre las personas mencionadas en la instrucción figuran cargos de la empresa pública, directivos de constructoras y un exministro, extremo que no implica un pronunciamiento judicial. La causa ha tenido una amplia cobertura mediática y política desde la Operación Frontino de 2016. En las fuentes consultadas no se ha localizado ninguna sentencia condenatoria."
 
 documentos: []
 
@@ -164,7 +164,7 @@ cronologia:
       - "https://www.eldiario.es/politica/anticorrupcion-dice-juez-reforma-malversacion-no-incide-caso-acuamed_1_9961849.html"
 
   - fecha: "2023-04-25"
-    titulo: "Procesamiento de 42 personas por el juez García Castellón"
+    titulo: "Se conoce el procesamiento de 42 personas por el juez García Castellón (fecha de publicación)"
     descripcion: "El juez de la Audiencia Nacional Manuel García Castellón procesa a un total de 42 personas en el caso Acuamed tras siete años de instrucción. El auto judicial atribuye a los procesados delitos de corrupción en los negocios, falsedad documental, fraude a la administración, prevaricación, malversación de caudales públicos y cohecho relacionados con la adjudicación y ejecución supuestamente irregular de una veintena de obras hidráulicas y medioambientales en la cuenca del Mediterráneo entre 2012 y 2015. Entre los procesados figura el exdirector general de Acuamed, Arcadio Mateo del Puerto. La fecha consignada (25/04/2023) es la de la nota oficial del CGPJ, que da cuenta del auto; el auto no lleva fecha expresa en la información revalidada, por lo que no se afirma un día concreto de la resolución."
     type: "investigación"
     urls:
@@ -172,7 +172,7 @@ cronologia:
       - "https://www.libertaddigital.com/espana/2023-04-25/juez-procesa-42-personas-caso-acuamed-7008146/"
 
   - fecha: "2023-12-08"
-    titulo: "La Sala Penal desestima recursos y confirma los indicios para el banquillo (fecha de publicación)"
+    titulo: "Se informa de que la Sala Penal desestima recursos y confirma los indicios para el banquillo (fecha de publicación)"
     descripcion: "La fecha consignada (08/12/2023) es la de publicación de las noticias (Vozpópuli publicó el 07/12/2023 y Levante-EMV el 08/12/2023); la Sala resolvía los recursos uno a uno mediante autos cuya fecha exacta no consta en las fuentes revalidadas, por lo que no se afirma un día concreto de resolución. La Sección Cuarta de la Sala de lo Penal de la Audiencia Nacional desestima los recursos presentados por los procesados contra el auto de procesamiento de abril de 2023. Los magistrados consideran que existen indicios sólidos de criminalidad para sentar en el banquillo a los 42 procesados por corrupción en los negocios, malversación agravada, falsedad documental, fraude a la administración y prevaricación, y confirman el camino hacia la apertura de juicio oral."
     type: "investigación"
     urls:
@@ -198,9 +198,9 @@ cronologia:
 ## Notas de revisión (2026-10-01)
 
 ### Estado procesal
-- Según la prensa (Okdiario, 23/03/2025) el magistrado Antonio Piña, sucesor de Manuel García Castellón al frente del Juzgado Central de Instrucción nº 6 de la Audiencia Nacional, habría comunicado el cierre de la instrucción. La fecha del 23/03/2025 es la de publicación de la noticia, no la de una resolución verificada: no consta una nota oficial del CGPJ ni un auto publicado que confirme ni la fecha ni el contenido del cierre. Por ello esta ficha se marca como `completado: false` y el cierre no se da por acreditado.
+- Según la prensa (Okdiario, 23/03/2025) el magistrado Antonio Piña, sucesor de Manuel García Castellón al frente del Juzgado Central de Instrucción nº 6 de la Audiencia Nacional, habría comunicado el cierre de la instrucción. La fecha del 23/03/2025 es la de publicación de la noticia, no la de una resolución verificada: no consta una nota oficial del CGPJ ni un auto publicado que confirme ni la fecha ni el contenido del cierre. Por ello esta ficha se marca como `completado: false` y el cierre no se da por acreditado. El campo `estado` se fija como `desconocido`: a fecha de esta revisión no se ha localizado el estado procesal actual, conservándose como último dato contrastado el de enero de 2026.
 - La última información contrastada sobre el estado del procedimiento es de enero de 2026, cuando la causa seguía pendiente de juicio oral y sin fecha de vista señalada. A fecha de esta revisión (octubre de 2026) no se ha podido verificar si la situación continúa igual o si se ha producido algún cambio, por lo que no se presume la continuidad de ese estado.
-- No hay sentencia. Las personas relacionadas son investigadas o procesadas, no condenadas. Cualquier referencia a hechos debe entenderse como indiciaria y referida a los autos de instrucción.
+- No se ha localizado ninguna sentencia. Las personas relacionadas son investigadas o procesadas, no condenadas en las fuentes consultadas. Cualquier referencia a hechos debe entenderse como indiciaria y referida a los autos de instrucción.
 - El auto de procesamiento de abril de 2023 (CGPJ) apreció indicios contra 42 personas. La cifra de quienes finalmente serán enjuiciados no está confirmada de forma oficial: la prensa habla de que llegan a juicio prácticamente los mismos investigados iniciales tras el archivo para dos directivos de Acciona.
 
 ### Sobre el importe (coste)
@@ -212,6 +212,8 @@ cronologia:
 - Miguel Arias Cañete: mencionado en las diligencias; en las fuentes consultadas no consta que fuera procesado en el auto de abril de 2023.
 - Okdiario informó (18/01/2026) de que dos procesados habían fallecido; las fuentes consultadas no los identifican, por lo que no se consignan nombres.
 - Los roles de los implicados se han actualizado para distinguir detenciones históricas de 2016, procesamientos de 2023 y archivos. Las fianzas de 2016 que se consignan (Santiago Farré y Miguel Roset, 20.000 € cada uno; Manuel Moreno Maestre, 12.000 €; y la de Arcadio Mateo, 300.000 € tras rebajarse desde los 600.000 iniciales) se han contrastado con fuentes periodísticas concretas de 2016 (Diario de Navarra, 20/01/2016; Público, 08/06/2016).
+- Los cargos de los responsables de Acuamed y de las constructoras se delimitan al periodo investigado (2012-2015) o se expresan como "ex", para no presentarlos como cargos vigentes en la actualidad.
+- Comprobación de los nombres y roles de los procesados de 2023 en las fuentes completas (nota del CGPJ de 25/04/2023; Vozpópuli de 25/04/2023 y 07/12/2023): se confirman Arcadio Mateo (exdirector general de Acuamed), Gabriela Mañueco (exjefa de Ingeniería y Construcción), Juan García Cuenca (exdirector de Asesoría Jurídica), Carlos Anibarro (Administración y Finanzas) y Francisco Javier Gómez Pastor (subdirector de Contratación). Las fuentes no detallan la lista completa de las 42 personas procesadas ni sus roles, por lo que identificar al resto queda pendiente. El procesamiento de Pablo Martín en 2023 no consta confirmado de forma individual en estas fuentes y se marca como pendiente de verificar.
 
 ### Sobre las entradas retiradas de la cronología (fechas no revalidadas)
 - Se han retirado de la cronología las entradas fechadas 28/01/2016 y 25/05/2016 porque sus fechas no se han podido revalidar: la URL de Público usada para el 28/01/2016 corresponde hoy a un artículo del 26/01/2016 sobre una pregunta escrita de Podemos a la Comisión Europea, y la URL de Republica.com del 25/05/2016 devuelve un error 404. Al no poder contrastar la fuente completa, no se mantienen como hitos fechados.
@@ -225,3 +227,4 @@ cronologia:
 - Varias URLs de cronología de 2016 y 2017 (Telemadrid, Republica.com, Cuarto Poder, Público) no se han podido descargar y verificar íntegramente en esta revisión. En concreto, la URL de Republica.com sobre la votación del Parlamento Europeo devuelve un error 404 y la de Público sobre la mención a Cañete resuelve hoy a un artículo del 26/01/2016 distinto del contenido consignado; por ello se han retirado ambos hitos de la cronología (ver notas anteriores).
 - La fecha del auto de procesamiento de 42 personas y las de los autos que resolvieron los recursos de la Sala no constan expresamente en las fuentes revalidadas: las fechas de la cronología correspondientes son fechas de publicación, no de la resolución.
 - No se han encontrado documentos judiciales publicados (autos o sentencias) accesibles para el campo `documentos`, que se mantiene vacío.
+- La relación completa e individualizada de las 42 personas procesadas por el auto de abril de 2023 no consta en las fuentes revalidadas (el CGPJ anonimiza nombres y la prensa solo menciona a algunos); queda pendiente de localizar el auto o el listado oficial.
