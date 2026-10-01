@@ -154,7 +154,7 @@ cronologia:
 
   - fecha: "2019-12-11"
     titulo: "Se informa del embargo de bienes de Eduardo Moral"
-    descripcion: "El Juzgado de Instrucción nº 9 acuerda embargar bienes de Moral por 286.310 euros, la fianza que no había abonado. Es la fecha de la noticia; el decreto de embargo es de esos días."
+    descripcion: "El Juzgado de Instrucción nº 9 acuerda embargar bienes de Moral por 286.310 euros, la fianza que no había abonado. Es la fecha de la noticia; no consta la fecha exacta del decreto de embargo."
     type: "medidas cautelares"
     relevancia: "media"
     urls:
