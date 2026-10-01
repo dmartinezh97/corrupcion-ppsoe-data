@@ -3,18 +3,18 @@ nombre: "Caso Bárcenas"
 partido: PP
 completado: false
 año: 2009
-fechaFin: 2024-11-15
+fechaFin: ""
 estado: "sentencia firme"
 descripcion: |
   El "caso Bárcenas" reúne las investigaciones sobre la contabilidad paralela ("caja B") del Partido Popular y sobre el patrimonio oculto de Luis Bárcenas, gerente del partido entre 1990 y 2008 y tesorero desde junio de 2008 hasta abril de 2010, además de senador. Según las resoluciones judiciales, durante casi dos décadas Bárcenas gestionó donaciones privadas en metálico que no se reflejaron en la contabilidad oficial del partido ni fueron fiscalizadas por el Tribunal de Cuentas y que se destinaron a gastos de la formación —entre ellos parte de la reforma de su sede en la calle Génova de Madrid— y al pago de sobresueldos a dirigentes, con el dinero guardado en una caja fuerte situada en su despacho.
 
   Los "papeles de Bárcenas", publicados por El País el 31 de enero de 2013, recogían anotaciones manuscritas y hojas de cálculo de entradas y salidas entre 1990 y 2009. Las sentencias consideraron acreditada la existencia de la caja B y dieron credibilidad parcial a determinados apuntes, pero precisaron que no podía darse validez al documento en su integridad, al contener errores e incoherencias.
 
-  La causa se desdobló en varias piezas. En la primera época de la trama Gürtel (1999-2005), la Audiencia Nacional (SAN 20/2018, de 17 de mayo) condenó a Bárcenas a 33 años y 4 meses de prisión y declaró al PP partícipe a título lucrativo; el Tribunal Supremo (STS 507/2020, de 14 de octubre) confirmó las condenas y rebajó la pena de Bárcenas a 29 años y un mes. En la pieza sobre la reforma de la sede de Génova (SAN 21/2021, de 28 de octubre), la Audiencia consideró probado que se pagaron 1.072.000 euros en negro a la empresa Unifica entre 2005 y 2010, condenó a Bárcenas a 2 años por un delito de defraudación tributaria en concurso con falsedad contable y declaró al PP responsable civil subsidiario; el Tribunal Supremo (STS de 15 de noviembre de 2024, ECLI:ES:TS:2024:5577) confirmó la condena, pero absolvió del delito de falsedad y rebajó la pena a 8 meses al apreciar dilaciones indebidas. La pieza sobre las donaciones de empresarios a la caja B a cambio de adjudicaciones públicas fue archivada por el juez Santiago Pedraz en diciembre de 2022, decisión confirmada por la Sala de lo Penal en 2023, al no acreditarse la relación entre las donaciones y los contratos.
+  La causa se desdobló en varias piezas. En la primera época de la trama Gürtel (1999-2005), la Audiencia Nacional (SAN 20/2018, de 17 de mayo) condenó a Bárcenas a 33 años y 4 meses de prisión y declaró al PP partícipe a título lucrativo; el Tribunal Supremo (STS 507/2020, de 14 de octubre) confirmó las condenas y rebajó la pena de Bárcenas a 29 años y un mes. En la pieza sobre la reforma de la sede de Génova (SAN 21/2021, de 28 de octubre), la Audiencia consideró probado que se pagaron 1.072.000 euros en negro a la empresa Unifica entre 2005 y 2010, condenó a Bárcenas a 2 años como cooperador necesario de un delito de falsedad contable en concurso con un delito contra la Hacienda Pública y declaró al PP responsable civil subsidiario, sin condena penal; el Tribunal Supremo (STS 1033/2024, de 14 de noviembre, rec. 1595/2022, ECLI:ES:TS:2024:5577) confirmó en lo sustancial la condena, absolvió del delito de falsedad, rebajó la pena a 8 meses al apreciar dilaciones indebidas y fijó la cuota defraudada en 374.096,826 euros. La pieza sobre las donaciones de empresarios a la caja B a cambio de adjudicaciones públicas fue archivada por el juez Santiago Pedraz en diciembre de 2022, decisión confirmada por la Sala de lo Penal en 2023, al no acreditarse la relación entre las donaciones y los contratos.
 
-  Bárcenas obtuvo la libertad condicional el 17 de diciembre de 2024, después de cumplir dos tercios de su condena y de abonar 4.535.254,92 euros de responsabilidad civil. La última resolución firme localizada es la del Tribunal Supremo de 15 de noviembre de 2024. La operación Kitchen, sobre el presunto espionaje policial a Bárcenas, es una pieza separada de la macrocausa Tándem: su juicio se celebró entre abril y julio de 2026 y, a 1 de octubre de 2026, no se ha localizado sentencia.
+  Bárcenas obtuvo la libertad condicional el 17 de diciembre de 2024, después de cumplir dos tercios de su condena y de abonar 4.535.254,92 euros de responsabilidad civil. La última resolución firme localizada es la STS 1033/2024, de 14 de noviembre de 2024. La operación Kitchen, sobre el presunto espionaje policial a Bárcenas, es una pieza separada de la macrocausa Tándem: su juicio se celebró entre abril y julio de 2026 y, a 1 de octubre de 2026, no se ha localizado sentencia.
 
-resumen: "Contabilidad paralela del PP ('caja B') gestionada por Luis Bárcenas, papeles publicados en 2013, cuentas en Suiza y condenas firmes al extesorero y al PP"
+resumen: "Contabilidad paralela del PP ('caja B') gestionada por Luis Bárcenas, papeles publicados en 2013, cuentas en Suiza y condenas penales firmes a Bárcenas y a los administradores de Unifica; el PP fue declarado partícipe a título lucrativo y responsable civil subsidiario, sin condena penal"
 
 lugar: "Madrid, España"
 
@@ -24,7 +24,7 @@ tribunal:
   - "Tribunal Supremo - Sala de lo Penal (Sala Segunda)"
   - "Juzgado Central de Vigilancia Penitenciaria de la Audiencia Nacional"
 
-numeroSentencia: "SAN 20/2018 (Gürtel, 17-05-2018); STS 507/2020 (14-10-2020); SAN 21/2021 (papeles de Bárcenas, causa 6/2015, 28-10-2021); STS de 15-11-2024 (ECLI:ES:TS:2024:5577)"
+numeroSentencia: "SAN 20/2018 (Gürtel, 17-05-2018); STS 507/2020 (14-10-2020); SAN 21/2021 (papeles de Bárcenas, causa 6/2015, 28-10-2021); STS 1033/2024 (14-11-2024, rec. 1595/2022, ECLI:ES:TS:2024:5577)"
 
 implicados:
   - nombre: "Luis Bárcenas Gutiérrez"
@@ -57,7 +57,7 @@ implicados:
 
   - nombre: "Mariano Rajoy Brey"
     cargo: "Presidente del Gobierno (2011-2018) y del PP (2004-2018)"
-    rol: "Declaró como testigo en el juicio de Gürtel; el tribunal cuestionó la credibilidad de su testimonio. No fue imputado"
+    rol: "Declaró como testigo en el juicio de Gürtel (26-07-2017) y negó haber recibido pagos de la caja B. La Audiencia Nacional puso en cuestión en 2018 la credibilidad de los testigos del PP que negaban la caja B, entre ellos Rajoy; el Tribunal Supremo (2020) no asumió esa valoración y se limitó a considerar las referencias a la caja B como contexto, al no haber sido enjuiciado el PP por responsabilidad penal. No fue imputado"
 
   - nombre: "María Dolores de Cospedal"
     cargo: "Secretaria general del PP (2008-2018) y ministra de Defensa (2016-2018)"
@@ -69,7 +69,7 @@ implicados:
 
   - nombre: "Partido Popular (PP)"
     cargo: "Partido político"
-    rol: "Condenado como partícipe a título lucrativo en Gürtel y como responsable civil subsidiario en la pieza de Génova"
+    rol: "Declarado partícipe a título lucrativo en Gürtel y responsable civil subsidiario en la pieza de Génova; no fue condenado penalmente"
 
 tags:
   - "corrupción"
@@ -81,7 +81,30 @@ tags:
 
 impactoSocial: "El caso situó en el centro del debate público la financiación del Partido Popular y llevó a que un partido político español fuera declarado partícipe a título lucrativo de una trama corrupta. La sentencia de la Audiencia Nacional de mayo de 2018 fue el detonante de la moción de censura que en junio de 2018 sustituyó a Mariano Rajoy por Pedro Sánchez. El caso provocó además dimisiones en la cúpula del partido y un prolongado debate sobre la fiscalización de las cuentas de las formaciones políticas."
 
-documentos: []
+documentos:
+  - fecha: "2018-05-17"
+    titulo: "SAN 20/2018, de 17 de mayo: primera época de la trama Gürtel (Gürtel Época I)"
+    filetype: "pdf"
+    paginas: 1687
+    nombre_fichero: "http://www.poderjudicial.es/stfls/AUDIENCIA%20NACIONAL/JURISPRUDENCIA/AN%20Penal%2017%20mayo%202018.pdf"
+
+  - fecha: "2020-10-14"
+    titulo: "STS 507/2020, de 14 de octubre: casación de la primera época de Gürtel (rec. 10575/2018)"
+    filetype: "pdf"
+    paginas: 1844
+    nombre_fichero: "https://files.mediaset.es/file/10002/2020/10/14/sentencia_gurtel_b373.pdf"
+
+  - fecha: "2021-10-28"
+    titulo: "SAN 21/2021, de 28 de octubre: pieza de los papeles de Bárcenas (causa 6/2015)"
+    filetype: "pdf"
+    paginas: 454
+    nombre_fichero: "https://www.docdroid.net/z32Auar/2021-10-28-sentencia-papeles-de-barcenas-pdf"
+
+  - fecha: "2024-11-14"
+    titulo: "STS 1033/2024, de 14 de noviembre: casación de la pieza de los papeles de Bárcenas (rec. 1595/2022)"
+    filetype: "pdf"
+    paginas: 75
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=9f1b60f805a51e87a0a8778d75e36f0d&encode=true&databasematch=TS"
 
 cronologia:
   - fecha: "2009-06-11"
@@ -192,21 +215,23 @@ cronologia:
 
   - fecha: "2018-05-17"
     titulo: "Sentencia de la Audiencia Nacional del caso Gürtel (Época I)"
-    descripcion: "La Audiencia Nacional dicta la sentencia 20/2018, hecha pública el 24 de mayo, que condena a 29 de los 37 acusados y declara al PP partícipe a título lucrativo. Luis Bárcenas es condenado a 33 años y 4 meses y Rosalía Iglesias a 15 años y un mes. El tribunal cuestiona la credibilidad del testimonio de Rajoy."
+    descripcion: "La Audiencia Nacional dicta la sentencia 20/2018, hecha pública el 24 de mayo, que condena a 29 de los 37 acusados y declara al PP partícipe a título lucrativo (responsabilidad civil, sin condena penal). Luis Bárcenas es condenado a 33 años y 4 meses y Rosalía Iglesias a 15 años y un mes. En la valoración de la prueba, el tribunal dio por acreditada la caja B y puso en cuestión la credibilidad de los testigos del PP que la negaban."
     type: "sentencia"
     urls:
       - "https://www.elconfidencial.com/espana/2018-05-24/gurtel-sentencia-barcenas-multa-pp-condena-crespo_1568320/"
 
   - fecha: "2018-06-01"
     titulo: "Moción de censura: Pedro Sánchez sustituye a Mariano Rajoy"
-    descripcion: "El Congreso aprueba la moción de censura presentada por el PSOE contra Mariano Rajoy, motivada por la sentencia del caso Gürtel, y Pedro Sánchez es investido presidente del Gobierno."
+    descripcion: "El Congreso aprueba la moción de censura presentada por el PSOE contra Mariano Rajoy, motivada por la sentencia del caso Gürtel, y Pedro Sánchez es investido presidente del Gobierno. La moción se presentó el 25 de mayo (BOCG de 29 de mayo) y se debatió los días 31 de mayo y 1 de junio; el BOE publicó el 2 de junio el real decreto de cese de Rajoy y el de nombramiento de Pedro Sánchez."
     type: "resumen"
     urls:
-      - "https://es.wikipedia.org/wiki/Moci%C3%B3n_de_censura_contra_Mariano_Rajoy_de_2018"
+      - "https://www.congreso.es/public_oficiales/L12/CONG/BOCG/D/BOCG-12-D-358.PDF"
+      - "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-127.PDF"
+      - "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-7402"
 
   - fecha: "2020-10-14"
     titulo: "El Supremo confirma las condenas de Gürtel y rebaja la pena de Bárcenas a 29 años y un mes"
-    descripcion: "La Sala Segunda del Tribunal Supremo dicta la sentencia 507/2020, confirma en lo esencial las condenas de la primera época de Gürtel, mantiene la condena al PP como partícipe a título lucrativo y rebaja la pena de Luis Bárcenas de 33 años y 4 meses a 29 años y un mes. La de Rosalía Iglesias pasa de 15 años y un mes a 12 años y 11 meses."
+    descripcion: "La Sala Segunda del Tribunal Supremo dicta la sentencia 507/2020, confirma en lo esencial las condenas de la primera época de Gürtel, mantiene la condena al PP como partícipe a título lucrativo y rebaja la pena de Luis Bárcenas de 33 años y 4 meses a 29 años y un mes. La de Rosalía Iglesias pasa de 15 años y un mes a 12 años y 11 meses. El Supremo precisa que no cabe afirmar que el PP delinquiera, al no haber sido enjuiciado por responsabilidad penal, y que las referencias a la caja B de la sentencia de instancia cumplían una función de contexto."
     type: "sentencia"
     urls:
       - "https://cincodias.elpais.com/cincodias/2020/10/14/economia/1602692890_198289.html"
@@ -239,9 +264,9 @@ cronologia:
     urls:
       - "https://www.rtve.es/noticias/20221219/juez-pedraz-archiva-pieza-supuestas-donaciones-caja-b-pp/2412283.shtml"
 
-  - fecha: "2024-11-15"
+  - fecha: "2024-11-14"
     titulo: "El Supremo confirma la condena por la reforma de Génova y rebaja las penas"
-    descripcion: "El Tribunal Supremo confirma la condena al PP como responsable civil subsidiario por el pago en negro de la reforma de Génova y la condena por defraudación tributaria, pero absuelve del delito de falsedad y rebaja las penas por dilaciones indebidas: la de Bárcenas pasa de 2 años a 8 meses y la de los administradores de Unifica, de 2 años y 9 meses a 9 meses. La cuota defraudada se fija en 374.096,83 euros."
+    descripcion: "El Tribunal Supremo dicta la sentencia 1033/2024 (rec. 1595/2022), que confirma en lo sustancial la condena al PP como responsable civil subsidiario por el pago en negro de la reforma de Génova y la condena por defraudación tributaria, absuelve del delito de falsedad y rebaja las penas por dilaciones indebidas: la de Bárcenas pasa de 2 años a 8 meses y la de los administradores de Unifica, de 2 años y 9 meses a 9 meses. El fallo fija la cuota defraudada en 374.096,826 euros, en sustitución de los 870.000 euros anteriores; la nota informativa del CGPJ y la prensa difundieron la resolución el 15 de noviembre de 2024."
     type: "sentencia"
     urls:
       - "https://elpais.com/espana/2024-11-15/el-supremo-confirma-la-condena-al-pp-como-responsable-civil-por-el-pago-en-negro-de-la-obra-de-la-sede-de-genova.html"
@@ -260,10 +285,14 @@ cronologia:
 
 - **`fechaInicio` omitida.** No se ha fijado una fecha de inicio porque el "caso Bárcenas" no tiene un arranque único documentado: la trama Gürtel se destapó el 6 de febrero de 2009, la Fiscalía Anticorrupción apreció la implicación de Bárcenas el 11 de junio de 2009 y la pieza separada de los papeles se abrió en marzo de 2013. El campo `año` se mantiene en 2009.
 
-- **`fechaFin`.** Se recoge la fecha de la última resolución firme localizada (la sentencia del Tribunal Supremo de 15 de noviembre de 2024). No existe una única fecha de cierre del conjunto: la pieza de las donaciones se archivó provisionalmente en 2022 (confirmado en 2023) y la operación Kitchen, pieza separada de la macrocausa Tándem sobre el presunto espionaje a Bárcenas, seguía pendiente de sentencia al cierre de esta revisión.
+- **`fechaFin`.** El campo se deja en blanco: no existe una única fecha de cierre documentada del conjunto. La última resolución firme localizada es la STS 1033/2024, de 14 de noviembre de 2024, pero no cierra el expediente: la pieza de las donaciones se archivó provisionalmente en 2022 (confirmado en 2023) y la operación Kitchen, pieza separada de la macrocausa Tándem sobre el presunto espionaje a Bárcenas, seguía pendiente de sentencia al cierre de esta revisión.
 
-- **Magnitudes económicas.** El caso agrupa cantidades de naturaleza distinta que no deben sumarse como si fueran una sola: donaciones opacas registradas en la caja B, el pago en negro de 1.072.000 euros de la reforma de Génova, la cuota defraudada finalmente fijada en 374.096,83 euros, multas e indemnizaciones y el patrimonio oculto en Suiza. Por ese motivo no se ha fijado un valor único en `coste`.
+- **Magnitudes económicas.** El caso agrupa cantidades de naturaleza distinta que no deben sumarse como si fueran una sola: donaciones opacas registradas en la caja B, el pago en negro de 1.072.000 euros de la reforma de Génova, la cuota defraudada finalmente fijada en 374.096,826 euros, multas e indemnizaciones y el patrimonio oculto en Suiza. Por ese motivo no se ha fijado un valor único en `coste`.
 
 - **Estado.** Las piezas con condena (Gürtel y reforma de Génova) son firmes; la pieza sobre las donaciones a cambio de adjudicaciones quedó archivada sin condena. No consta que el Tribunal Constitucional haya revisado estas resoluciones; tampoco se ha localizado la sentencia de la operación Kitchen.
 
-- **Identificadores de sentencia.** Los números consignados se han verificado en fuentes judiciales o de prensa especializada: SAN 20/2018 (17-05-2018) y STS 507/2020 (14-10-2020) en el caso Gürtel, y SAN 21/2021 (28-10-2021, causa 6/2015) en la pieza de los papeles. Para la sentencia del Supremo de 15 de noviembre de 2024 se cita el identificador oficial ECLI:ES:TS:2024:5577.
+- **Identificadores de sentencia.** Los números consignados se han verificado en fuentes judiciales y en el propio texto de las resoluciones: SAN 20/2018 (17-05-2018) y STS 507/2020 (14-10-2020) en el caso Gürtel, y SAN 21/2021 (28-10-2021, causa 6/2015) en la pieza de los papeles. La sentencia de casación sobre esta última es la STS 1033/2024, de 14 de noviembre (rec. 1595/2022, ECLI:ES:TS:2024:5577); su contenido se difundió el 15 de noviembre de 2024.
+
+- **Credibilidad de los testigos de la caja B.** La SAN 20/2018 puso en cuestión la credibilidad de los testigos del PP que negaban la existencia de la caja B (entre ellos Mariano Rajoy). La STS 507/2020 no asumió esa valoración ni la incluyó entre sus razonamientos: se limitó a declarar que no cabe afirmar que el PP delinquiera —al no haber sido enjuiciado por responsabilidad penal— y que las menciones a la caja B de la sentencia de instancia servían como contexto de los hechos enjuiciados.
+
+- **Documentos.** Se han descargado y verificado las resoluciones judiciales primarias: SAN 20/2018 (1687 páginas), STS 507/2020 (1844 páginas), SAN 21/2021 (454 páginas) y STS 1033/2024 (75 páginas). Sus enlaces figuran en el bloque `documentos`. La SAN 20/2018 y la STS 1033/2024 proceden de repositorios oficiales (Poder Judicial/CENDOJ); la STS 507/2020 y la SAN 21/2021 se han consultado en copias íntegras publicadas por medios, a falta de un enlace directo estable en CENDOJ.
