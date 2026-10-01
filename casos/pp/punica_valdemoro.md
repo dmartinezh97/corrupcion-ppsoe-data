@@ -13,7 +13,7 @@ descripcion: |
 
   Paralelamente a la corrupción urbanística, cuando José Carlos Boza asumió la alcaldía de Valdemoro en 2011, la trama evolucionó hacia la adjudicación irregular de contratos públicos de servicios municipales. El 5 de diciembre de 2013, el ayuntamiento adjudicó a la multinacional Cofely un contrato de eficiencia energética valorado en 60,8 millones de euros con una duración de 15 años. Según la investigación judicial, Boza habría cobrado comisiones de casi 300.000 euros por amañar la licitación. Además, el ayuntamiento destinó el 2% del contrato (81.119 euros) a un estudio de consultoría encargado a Ruta Energética, una empresa de la red de Marjaliza, pese a que los informes fueron realizados por la propia Cofely que subcontrató a otra constructora del entramado. Marjaliza pagaba gastos municipales como las campanas de la iglesia, la cabalgata de reyes e incluso la nevera de la comisaría de Valdemoro, consolidando así el control total de la trama sobre las finanzas municipales.
 
-  Más de diez años después del estallido de la Operación Púnica en octubre de 2014, el caso alcanzó un hito judicial importante. El juicio de la pieza 6 que investigaba los contratos de Cofely en múltiples municipios por un valor total de 224 millones de euros se celebró entre abril y septiembre de 2025 en la Audiencia Nacional. El 22 de diciembre de 2025, la Audiencia Nacional dictó sentencia condenando a 29 de las 37 personas juzgadas, incluyendo seis exalcaldes de la Comunidad de Madrid. José Carlos Boza fue absuelto por falta de pruebas, mientras que David Marjaliza recibió la pena más alta: 8 años y 2 meses de prisión como cabecilla de la trama. El segundo juicio de Granados, por contratos irregulares de festejos municipales adjudicados a Waiter Music entre 2003 y 2013, arrancó en enero de 2026 con Granados, Moreno y Boza entre los catorce acusados.
+  Más de diez años después del estallido de la Operación Púnica en octubre de 2014, el caso alcanzó un hito judicial importante. El juicio de la pieza 6 que investigaba los contratos de Cofely en múltiples municipios por un valor total de 224 millones de euros se celebró entre abril y septiembre de 2025 en la Audiencia Nacional. El 22 de diciembre de 2025, la Audiencia Nacional dictó sentencia condenando a 29 de las 37 personas juzgadas, incluyendo seis exalcaldes de la Comunidad de Madrid. José Carlos Boza fue absuelto por falta de pruebas, mientras que David Marjaliza recibió la pena más alta: 8 años y 2 meses de prisión como cabecilla de la trama. El segundo juicio de Granados, por contratos irregulares de festejos municipales adjudicados a Waiter Music entre 2003 y 2013, arrancó en enero de 2026 con Granados, Moreno y Boza entre los catorce acusados. El 2 de julio de 2026 la Audiencia Nacional condenó a Boza a cuatro años de cárcel y a Moreno a dos por esos contratos, al tiempo que absolvía a los exalcaldes de Móstoles Esteban Parro y Daniel Ortiz.
 
 resumen: "Pieza de la trama Púnica que saqueó Valdemoro mediante recalificaciones urbanísticas irregulares que generaron 709 millones en plusvalías y contratos amañados de Cofely por 60 millones"
 coste: 769800000
@@ -30,15 +30,15 @@ implicados:
 
   - nombre: "José Miguel Moreno"
     cargo: "Alcalde de Valdemoro (2003-2011)"
-    rol: "Confesó cobrar más de 200.000 euros en comisiones por contratos irregulares de festejos"
+    rol: "Confesó y fue condenado a 2 años por los contratos irregulares de festejos (2026)"
 
   - nombre: "José Carlos Boza Lechuga"
     cargo: "Alcalde de Valdemoro (2011-2014)"
-    rol: "Absuelto en sentencia de diciembre 2025 por falta de pruebas en contrato Cofely"
+    rol: "Absuelto en la pieza Cofely (2025) y condenado a 4 años en la de Waiter Music (2026)"
 
   - nombre: "David Marjaliza López"
     cargo: "Empresario constructor"
-    rol: "Condenado a 8 años y 2 meses por organización criminal, cohecho y blanqueo"
+    rol: "Condenado por organización criminal y blanqueo; pena rebajada a 5 años en 2026"
 
   - nombre: "Ramiro Cid Sicluna"
     cargo: "Empresario constructor"
@@ -182,4 +182,13 @@ cronologia:
       - "https://zigzagdigital.com/art/30771/continuan-los-juicios-por-la-trama-punica-turno-para-tres-exalcaldes-de-valdemoro-y-una-de-ciempozuelos"
       - "https://www.infobae.com/espana/agencias/2026/01/19/arranca-un-nuevo-juicio-de-punica-con-granados-en-el-banquillo-por-presunta-corrupcion/"
       - "https://www.publico.es/politica/tribunales/segundo-juicio-granados-rama-punica-amanaba-contratos-fiestas-municipios-madrilenos-pp.html"
+
+  - fecha: 2026-07-02
+    titulo: "Condena por los contratos de festejos: Boza 4 años y Moreno 2"
+    descripcion: "La Audiencia Nacional condena en la pieza Waiter Music al exalcalde de Valdemoro José Carlos Boza a 4 años de cárcel y a su antecesor José Miguel Moreno a 2 años por los contratos irregulares de festejos. Francisco Granados es condenado a 2 años y 6 meses y absueltos los exalcaldes de Móstoles Esteban Parro y Daniel Ortiz. Para Valdemoro, la trama urbanística investigada en la pieza principal sigue pendiente de enjuiciamiento."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.lavanguardia.com/politica/20260702/11582221/audiencia-nacional-condena-francisco-granados-dos-anos-medio-carcel.html"
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Noticias-Judiciales"
 ---

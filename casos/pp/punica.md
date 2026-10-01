@@ -11,7 +11,7 @@ descripcion: |
 
   La trama se articulaba en torno a Francisco Granados, exsecretario general del PP de Madrid y consejero de la Comunidad, quien coordinaba junto al empresario David Marjaliza la adjudicación irregular de contratos de eficiencia energética a la multinacional Cofely (filial de GDF Suez) en municipios como Parla (54,7 millones), Móstoles (60,4 millones), Valdemoro (50,3 millones) y Collado Villalba (35,5 millones). La investigación reveló también una caja B del PP de Madrid que habría financiado irregularmente campañas electorales entre 2003 y 2011 mediante donaciones de empresarios vinculados a la trama a través de la fundación Fundescam, facturas falsas por servicios inexistentes y sobrecostes en contratos de eventos musicales adjudicados a empresas como Waiter Music de José Luis Huerta Valbuena.
 
-  Diez años después de su inicio, el caso ha generado múltiples piezas separadas (inicialmente 12, ampliadas a 14 y reorganizadas en 11) para procesar de forma más ágil los diferentes delitos investigados. En abril de 2025 comenzó en la Audiencia Nacional el juicio principal contra 36 acusados, incluidos nueve exalcaldes, por los contratos amañados de Cofely valorados en 224 millones de euros, con 13 de ellos reconociendo los hechos a cambio de rebajas de pena. La pieza de la trama murciana concluyó en septiembre de 2025 con condenas de cuatro años de prisión para el exconsejero de Turismo Juan Carlos Ruiz y el exalcalde de Cartagena José Antonio Alonso. Aunque tres expresidentas de la Comunidad de Madrid del PP (Esperanza Aguirre, Cristina Cifuentes e Ignacio González) llegaron a ser imputadas en 2019, finalmente fueron sobreseídas por prescripción o falta de indicios. Francisco Granados tiene pendientes al menos cuatro juicios por diferentes ramificaciones del caso y ya cumple condena firme de dos años por filtrar información sobre la investigación.
+  Diez años después de su inicio, el caso ha generado múltiples piezas separadas (inicialmente 12, ampliadas a 14 y reorganizadas en 11) para procesar de forma más ágil los diferentes delitos investigados. En abril de 2025 comenzó en la Audiencia Nacional el juicio principal contra 36 acusados, incluidos nueve exalcaldes, por los contratos amañados de Cofely valorados en 224 millones de euros, con 13 de ellos reconociendo los hechos a cambio de rebajas de pena. La pieza de la trama murciana concluyó en septiembre de 2025 con condenas de cuatro años de prisión para el exconsejero de Turismo Juan Carlos Ruiz y el exalcalde de Cartagena José Antonio Alonso. En diciembre de 2025 la Audiencia Nacional dictó la sentencia de la pieza principal (Cofely), que condenó a 29 de las 37 personas y empresas juzgadas, con penas de hasta 8 años y 2 meses para el conseguidor David Marjaliza —rebajadas después a 5 años por un error de cálculo— y varios exalcaldes. En julio de 2026 Granados fue condenado a 2 años y medio de cárcel por la pieza de Waiter Music, y la Audiencia abrió juicio oral contra él y otras 40 personas por la pieza de Arpegio/Mintra, donde la Fiscalía pide 42 años. Aunque tres expresidentes de la Comunidad de Madrid del PP (Esperanza Aguirre, Cristina Cifuentes e Ignacio González) llegaron a ser imputados en 2019, finalmente fueron sobreseídos por prescripción o falta de indicios.
 
 resumen: "Macrotrama de corrupción del PP de Madrid que adjudicó 250 millones en contratos públicos a cambio de comisiones ilegales"
 coste: 250000000
@@ -24,11 +24,11 @@ numeroSentencia: ""
 implicados:
   - nombre: "Francisco Granados Lerena"
     cargo: "Exsecretario general del PP de Madrid, exconsejero de Presidencia y Justicia"
-    rol: "Cabecilla de la trama; condenado a 2 años por filtración de secretos"
+    rol: "Cabecilla de la trama; condenado a 2 años por filtración (2019) y a 2 años y medio por Waiter Music (2026)"
 
   - nombre: "David Marjaliza López"
     cargo: "Empresario y constructor"
-    rol: "Cerebro operativo; intermediario en adjudicaciones a Cofely; confesó los hechos"
+    rol: "Cerebro operativo; condenado a 5 años por organización criminal y blanqueo en la pieza Cofely"
 
   - nombre: "Esperanza Aguirre Gil de Biedma"
     cargo: "Expresidenta de la Comunidad de Madrid (2003-2012)"
@@ -56,23 +56,23 @@ implicados:
 
   - nombre: "José María Fraile Campos"
     cargo: "Exalcalde de Parla (PSOE)"
-    rol: "Confesó adjudicación irregular del contrato de Cofely de 54,7 millones"
+    rol: "Condenado a 2 años por fraude, prevaricación y cohecho en la pieza Cofely (2025)"
 
   - nombre: "Daniel Ortiz Espejo"
     cargo: "Exalcalde de Móstoles (PP)"
-    rol: "Acusado de adjudicación irregular del contrato de Cofely de 60,4 millones"
+    rol: "Condenado a 3 años en la pieza Cofely; absuelto en la de Waiter Music"
 
   - nombre: "José Carlos Boza Lechuga"
     cargo: "Exalcalde de Valdemoro (PP)"
-    rol: "Acusado de adjudicación irregular del contrato de Cofely de 50,3 millones"
+    rol: "Condenado a 4 años de cárcel en la pieza Waiter Music (2026)"
 
   - nombre: "Agustín Juárez López de Coca"
     cargo: "Exalcalde de Collado Villalba (PP)"
-    rol: "Acusado de cobrar comisiones en metálico por contrato de Cofely"
+    rol: "Condenado en la pieza Cofely por el contrato de eficiencia energética"
 
   - nombre: "Antonio Sánchez Fernández"
     cargo: "Exalcalde de Serranillos del Valle (PSOE)"
-    rol: "Confesó los hechos; sorprendido sacando cajas de documentos de la alcaldía"
+    rol: "Condenado por cohecho en la pieza Cofely; sorprendido sacando cajas de documentos"
 
   - nombre: "Juan Carlos Ruiz López"
     cargo: "Exconsejero de Turismo de Murcia (PP)"
@@ -237,4 +237,47 @@ cronologia:
     urls:
       - "https://murciaeconomia.com/art/102536/la-audiencia-nacional-dicta-las-primeras-condenas-firmes-en-la-trama-de-la-region-de-murcia-de-la-punica"
       - "https://www.eldiario.es/murcia/politica/trama-murciana-caso-punica-acaba-nueve-condenados-decada-despues_1_12587138.html"
+
+  - fecha: "2025-12-22"
+    titulo: "La Audiencia Nacional condena a 29 acusados en la pieza de Cofely"
+    descripcion: "La Sección Primera de la Audiencia Nacional dicta la sentencia de la pieza 6 del caso Púnica, la de los contratos de eficiencia energética adjudicados a Cofely, y condena a 29 de las 37 personas físicas y jurídicas juzgadas. Impone 8 años y 2 meses de cárcel al conseguidor David Marjaliza por organización criminal, blanqueo, fraude, prevaricación y cohecho; penas superiores a 6 años a los directivos de Cofely; y condenas a varios exalcaldes de la Comunidad de Madrid, entre ellos Daniel Ortiz (Móstoles), Agustín Juárez (Collado Villalba), Carlos Alberto Estrada (Moraleja de Enmedio), Antonio Sánchez (Serranillos del Valle) y Gonzalo Cubas (Torrejón de Velasco). Cofely es condenada como persona jurídica a más de 3,5 millones de multa. El tribunal admite una demora de más de once años."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://cadenaser.com/nacional/2025/12/22/la-audiencia-nacional-condena-a-cinco-exalcaldes-del-pp-de-la-comunidad-de-madrid-y-uno-del-psoe-por-el-caso-punica-cadena-ser/"
+      - "https://www.soydemadrid.com/noticia-comunidad-de-madrid/condenados-seis-exalcaldes-por-el-caso-punica-141556.aspx"
+
+  - fecha: "2026-01-19"
+    titulo: "Arranca el juicio de la pieza Waiter Music contra Granados"
+    descripcion: "La Audiencia Nacional inicia el juicio de la pieza 7 del caso Púnica contra 14 acusados —entre ellos Francisco Granados, el exsenador David Erguido y seis exalcaldes del PP— por la contratación irregular de fiestas populares a la empresa Waiter Music entre 2004 y 2013. La Fiscalía pide inicialmente seis años para Granados. Un guardia civil declara que Granados 'tenía poder para quitar y poner alcaldes'."
+    type: "juicio"
+    relevancia: "alta"
+    urls:
+      - "https://cadenaser.com/cmadrid/2026/02/02/un-guardia-civil-en-el-juicio-por-waiter-music-granados-tenia-poder-para-quitar-y-poner-alcaldes-ser-madrid-sur"
+      - "https://www.elpais.com/espana/2026-05-26/la-audiencia-nacional-juzgara-a-granados-en-otra-pieza-del-caso-punica.html"
+
+  - fecha: "2026-03-02"
+    titulo: "Rebajan de 8 a 5 años la pena de Marjaliza por un error de cálculo"
+    descripcion: "La Audiencia Nacional corrige la sentencia de la pieza Cofely al detectar un error en la aplicación de la pena a David Marjaliza, que pasa de 8 años y 2 meses a 5 años de prisión. El 'conseguidor' de la trama tendrá que cumplir tres años menos por esta ramificación."
+    type: "recurso"
+    relevancia: "media"
+    urls:
+      - "https://cadenaser.com/tag/cofely_gdfsuez/a"
+
+  - fecha: "2026-05-26"
+    titulo: "La Audiencia abre juicio oral contra Granados por la pieza Arpegio/Mintra"
+    descripcion: "El juez Antonio Piña dicta auto de apertura de juicio oral contra Francisco Granados y otras 40 personas por la línea de investigación de las adjudicaciones de infraestructuras a través de las extintas empresas públicas Arpegio y Mintra (Metrosur, Metronorte, Metro Ligero a Boadilla y concesión de parcelas). La Comunidad de Madrid reclama 30 años de cárcel para Granados como acusación particular y la Fiscalía Anticorrupción pide 42 años."
+    type: "imputación"
+    relevancia: "alta"
+    urls:
+      - "https://elpais.com/espana/2026-05-26/la-audiencia-nacional-juzgara-a-granados-en-otra-pieza-del-caso-punica.html"
+
+  - fecha: "2026-07-02"
+    titulo: "Granados, condenado a 2 años y medio en la pieza Waiter Music"
+    descripcion: "La Sección Primera de la Audiencia Nacional condena a Francisco Granados a 2 años y 6 meses de cárcel por un delito continuado de fraude y a 8 años y 6 meses de inhabilitación por prevaricación, por favorecer la adjudicación de contratos de fiestas populares a Waiter Music entre 2007 y 2014. También condena a los exalcaldes de Valdemoro José Carlos Boza (4 años) y José Miguel Moreno (2 años) y a los de Ciempozuelos y Moraleja de Enmedio (2 años), y absuelve a los exalcaldes de Móstoles Esteban Parro y Daniel Ortiz. Es la segunda condena de Granados en el caso Púnica."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Noticias-Judiciales"
+      - "https://www.lavanguardia.com/politica/20260702/11582221/audiencia-nacional-condena-francisco-granados-dos-anos-medio-carcel.html"
 ---

@@ -4,14 +4,14 @@ partido: PP
 completado: true
 año: 2014
 fechaInicio: 2004-01-01
-fechaFin: ""
-estado: "en investigación"
+fechaFin: "2026-07-02"
+estado: "cerrado con condenas - pendiente de recurso"
 descripcion: |
   La pieza Waiter Music de la Operación Púnica investiga el amaño de contratos para la organización de festejos, conciertos y eventos en municipios de la Comunidad de Madrid gobernados por el PP entre 2004 y 2015. Waiter Music era la empresa especializada en eventos que, gracias a la intermediación de Francisco Granados, obtuvo contratos en 35 municipios de la región, acumulando ingresos de 25,6 millones de euros en ese período.
 
   El esquema delictivo implicaba que Granados, usando su posición como secretario general del PP de Madrid y después como consejero de la Comunidad, presionaba o influía para que los alcaldes y gestores municipales del PP contrataran a Waiter Music para la organización de fiestas patronales, conciertos y actos públicos. A cambio, la empresa entregaba regalos a los cargos públicos y se prestaba a financiar actos electorales del PP, incluyendo sufragar mitines y material de campaña.
 
-  El caso tiene también ramificaciones en la Comunidad de Madrid: Granados habría garantizado que la propia Comunidad contratara a Waiter Music para eventos institucionales durante su etapa como consejero de Transporte, Presidencia y Justicia. El Ayuntamiento de Aranjuez llegó a rescindir públicamente el contrato con Waiter Music tras saltar el escándalo. El juicio oral en la Audiencia Nacional comenzó en enero de 2026, con Granados de nuevo en el banquillo más de once años después de su detención.
+  El caso tiene también ramificaciones en la Comunidad de Madrid: Granados habría garantizado que la propia Comunidad contratara a Waiter Music para eventos institucionales durante su etapa como consejero de Transporte, Presidencia y Justicia. El Ayuntamiento de Aranjuez llegó a rescindir públicamente el contrato con Waiter Music tras saltar el escándalo. El juicio oral en la Audiencia Nacional comenzó en enero de 2026, con Granados de nuevo en el banquillo más de once años después de su detención, y concluyó el 2 de julio de 2026 con la condena de Granados a dos años y medio de cárcel por fraude continuado y ocho años y medio de inhabilitación por prevaricación, además de las condenas de los exalcaldes de Valdemoro José Carlos Boza (4 años) y José Miguel Moreno (2 años). Quedaron absueltos los exalcaldes de Móstoles Esteban Parro y Daniel Ortiz.
 resumen: "Adjudicación fraudulenta de contratos de festejos y eventos por 25,6 millones de euros a Waiter Music en 35 municipios del PP de Madrid, a cambio de regalos y financiación electoral."
 coste: 25600000
 lugar: "Comunidad de Madrid (35 municipios, incluyendo Aranjuez, Ciempozuelos y otros)"
@@ -21,10 +21,16 @@ numeroSentencia: ""
 implicados:
   - nombre: "Francisco Granados Lerena"
     cargo: "Exsecretario general del PP de Madrid (2004-2011) y exconsejero de Transporte, Presidencia y Justicia de la Comunidad de Madrid"
-    rol: "Principal acusado. El fiscal le pide 6 años de prisión por fraude y prevaricación. Actuó como intermediario entre los alcaldes del PP y Waiter Music para garantizar los contratos"
-  - nombre: "Propietario/gerente de Waiter Music"
-    cargo: "Empresa organizadora de eventos y conciertos"
-    rol: "Empresa beneficiaria que recibió contratos amañados en 35 municipios madrileños a cambio de regalos y financiación de actos del PP"
+    rol: "Condenado a 2 años y 6 meses por fraude y a 8 años y 6 meses de inhabilitación por prevaricación (2026)"
+  - nombre: "José Luis Huerta Valbuena"
+    cargo: "Empresario, dueño de Waiter Music, fallecido en 2020"
+    rol: "No pudo ser juzgado por fallecimiento; se acreditó el pago de regalos y eventos a cargos públicos"
+  - nombre: "José Carlos Boza Lechuga"
+    cargo: "Exalcalde de Valdemoro (2011-2014)"
+    rol: "Condenado a 4 años de cárcel por los contratos de festejos adjudicados a Waiter Music"
+  - nombre: "José Miguel Moreno"
+    cargo: "Exalcalde de Valdemoro (2003-2011)"
+    rol: "Confesó los hechos y fue condenado a 2 años por los contratos de festejos"
 tags:
   - "corrupción"
   - "contratos públicos"
@@ -68,4 +74,13 @@ cronologia:
       - "https://www.infobae.com/espana/agencias/2026/01/19/arranca-un-nuevo-juicio-de-punica-con-granados-en-el-banquillo-por-presunta-corrupcion/"
       - "https://www.publico.es/politica/tribunales/segundo-juicio-granados-rama-punica-amanaba-contratos-fiestas-municipios-madrilenos-pp.html"
       - "https://ondaceromadridsur.es/noticias/anatomia-de-unas-fiestas-investigadas-claves-del-segundo-juicio-de-la-punica/"
+
+  - fecha: 2026-07-02
+    titulo: "Sentencia: Granados condenado a 2 años y medio por los contratos de Waiter Music"
+    descripcion: "La Audiencia Nacional condena a Francisco Granados a 2 años y 6 meses de cárcel por un delito continuado de fraude y a 8 años y 6 meses de inhabilitación por prevaricación, por haber favorecido la adjudicación de contratos de fiestas populares a Waiter Music entre 2007 y 2014. También son condenados los exalcaldes de Valdemoro José Carlos Boza (4 años) y José Miguel Moreno (2 años) y los de Ciempozuelos y Moraleja de Enmedio (2 años), mientras quedan absueltos los exalcaldes de Móstoles Esteban Parro y Daniel Ortiz. La sentencia no es firme."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://elpais.com/espana/2026-07-02/la-audiencia-condena-a-francisco-granados-a-dos-anos-y-medio-de-carcel-en-su-primer-gran-juicio-de-punica-por-corrupcion.html"
+      - "https://www.lavanguardia.com/politica/20260702/11582221/audiencia-nacional-condena-francisco-granados-dos-anos-medio-carcel.html"
 ---
