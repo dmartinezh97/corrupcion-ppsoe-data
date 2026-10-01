@@ -10,7 +10,7 @@ descripcion: |
 
   La sentencia de instancia declara probado que la sociedad y los acusados, integrantes de la mesa de contratación, desplegaron entre 2005 y 2011 una intensa actividad contractual al margen de toda previsión económica y de costes: prescindieron de los Servicios Jurídicos de la Comunidad, fraccionaron pagos, eludieron los umbrales de publicidad y concurrencia y permitieron que empresas adjudicatarias intervinieran en la elaboración de los pliegos. El complejo no llegó a funcionar: solo se construyó parcialmente el edificio del Instituto de Medicina Legal y parte de los túneles de conexión, y la sociedad quedó extinguida en 2015.
 
-  Sobre las cifras, conviene no sumarlas: la Cámara de Cuentas de Madrid cifró en 80 millones de euros el coste de ejecución de las nuevas sedes judiciales entre 2006 y 2010 (35 millones la urbanización de la fase I, 22 millones el Instituto de Medicina Legal y casi 19 millones en obras de edificios en los que no se había colocado una sola piedra) y señaló que no era posible cuantificar las pérdidas por falta de documentación; la prensa resumió después el coste del proyecto fallido en unos 98 millones (2018) y el auto de imputación de 2019 en un agujero patrimonial superior a 105 millones. Los 350-355 millones que citan informaciones de 2021-2025 son el gasto total del proyecto atribuido por la prensa, no un perjuicio declarado probado. La única cifra de responsabilidad civil fijada por un tribunal es la de la sentencia de apelación: en su fallo, 10.087.479,30 euros indemnizables solidariamente por Prada, De las Heras y García de Castro más otros 310.555 euros solidarios de Prada y García de Castro (10.398.034,30 euros en total); su fundamentación cifra el perjuicio de la malversación en 10.298.034,30 euros (13 de los 25 contratos analizados).
+  Sobre las cifras, conviene no sumarlas: la Cámara de Cuentas de Madrid cifró en 80 millones de euros el coste de ejecución de las nuevas sedes judiciales entre 2006 y 2010 (35 millones la urbanización de la fase I, 22 millones el Instituto de Medicina Legal y casi 19 millones en obras de edificios en los que no se había colocado una sola piedra) y señaló que no era posible cuantificar las pérdidas por falta de documentación; la prensa resumió después el coste del proyecto fallido en unos 98 millones (2018) y el auto de imputación de 2019 en un agujero patrimonial superior a 105 millones. Los 350-355 millones que citan informaciones de 2021-2025 son el gasto total del proyecto atribuido por la prensa, no un perjuicio declarado probado. Las sentencias fijaron responsabilidad civil: la de instancia, 40.482.735,78 euros solidarios; la de apelación, en su fallo, 10.087.479,30 euros indemnizables solidariamente por Prada, De las Heras y García de Castro más otros 310.555 euros solidarios de Prada y García de Castro (10.398.034,30 euros en total), mientras que su fundamentación cifra el perjuicio de la malversación en 10.298.034,30 euros (13 de los 25 contratos analizados). Ambas cifras son las del texto verificado; el CENDOJ vincula a la causa una tercera resolución (AAN 2553/2025) que no se ha podido consultar.
 
   La causa se abrió en agosto de 2018 a partir de una denuncia de la Fiscalía Anticorrupción basada en el informe de fiscalización de la Cámara de Cuentas de Madrid (marzo de 2018), en el Juzgado Central de Instrucción nº 5 de la Audiencia Nacional. El 10 de septiembre de 2024 la Sección Primera de la Sala de lo Penal condenó a Alfredo Prada a 7 años de prisión por prevaricación administrativa continuada en concurso con malversación agravada continuada (24 contratos por 40.482.735,78 euros); condenó a 3 años y 6 meses a tres directivos como cooperadores necesarios y al letrado asesor Félix José García de Castro como cómplice, y absolvió a Mariano José Sanz. El 12 de marzo de 2025 la Sala de Apelación confirmó la pena de Prada y la condena de Alicio de las Heras, absolvió de malversación a Isabelino Baños y Andrés Gómez Gordo (manteniéndoles la condena por prevaricación, con inhabilitación), rebajó a 1 año, 6 meses y 1 día la pena de Félix José García de Castro (que siguió siendo cómplice) y confirmó la absolución de Sanz. La Sala apreció malversación en 13 de los 25 contratos analizados y redujo la responsabilidad civil.
 
@@ -50,7 +50,7 @@ implicados:
 
   - nombre: "Esperanza Aguirre Gil de Biedma"
     cargo: "Expresidenta de la Comunidad de Madrid (PP, 2003-2012)"
-    rol: "Declaró como testigo en el juicio, para lo que estaba citada el 19 de marzo de 2024; no está acusada en la causa"
+    rol: "Declaró como testigo en el juicio; estaba citada para el 19 de marzo de 2024 (anuncio de 18 de marzo), pero la crónica que confirma su declaración no precisa el día exacto, por lo que no se da el 19 como fecha acreditada; no está acusada en la causa"
 
 tags:
   - "corrupción"
@@ -65,7 +65,7 @@ impactoSocial: "El caso tuvo amplia repercusión mediática y política por trat
 
 documentos:
   - fecha: "2018-03-22"
-    titulo: "Cámara de Cuentas de Madrid: Informe de fiscalización de la Empresa Pública Campus de la Justicia de Madrid, S.A., ejercicios 2005 a 2015"
+    titulo: "Cámara de Cuentas de Madrid: Informe de fiscalización de la Empresa Pública Campus de la Justicia de Madrid, S.A., ejercicios 2005 a 2015 (versión con corrección de errores de 26 de abril de 2018)"
     filetype: "pdf"
     paginas: 240
     nombre_fichero: "https://www.camaradecuentasmadrid.org/admin/uploads/aprobado-cjo-220318-correccion-errores-260418.pdf"
@@ -127,7 +127,7 @@ cronologia:
 
   - fecha: 2024-03-04
     titulo: "Comienza el juicio oral en la Audiencia Nacional"
-    descripcion: "Se inicia el juicio oral en la Sección Primera de la Sala de lo Penal contra Alfredo Prada y cinco directivos de la sociedad. La Fiscalía reclama 8 años de prisión para Prada y penas menores para el resto por delitos continuados de prevaricación y malversación. Esperanza Aguirre estaba citada para declarar como testigo el 19 de marzo de 2024 y prestó declaración, según recoge la crónica posterior de eldiario.es del 28 de marzo de 2024."
+    descripcion: "Se inicia el juicio oral en la Sección Primera de la Sala de lo Penal contra Alfredo Prada y cinco directivos de la sociedad. La Fiscalía reclama 8 años de prisión para Prada y penas menores para el resto por delitos continuados de prevaricación y malversación. Esperanza Aguirre estaba citada para declarar como testigo el 19 de marzo de 2024 (anuncio de 18 de marzo); una crónica posterior de eldiario.es (28 de marzo de 2024) confirma que prestó declaración, aunque no precisa el día exacto, por lo que no se da el 19 como fecha acreditada de la declaración."
     type: "juicio"
     urls:
       - "https://www.telemadrid.es/noticias/madrid/Comienza-el-juicio-por-presuntas-irregularidades-en-el-Campus-de-la-Justicia-con-Prada-en-el-banquillo-0-2648435175--20240304012403.html"
@@ -144,7 +144,7 @@ cronologia:
 
   - fecha: 2025-03-12
     titulo: "La Sala de Apelación (SAN 12/2025) confirma a Prada y rebaja la responsabilidad civil"
-    descripcion: "La Sala de Apelación de la Audiencia Nacional confirma en una sentencia de 12 de marzo de 2025 (Roj SAN 1165/2025, ECLI:ES:AN:2025:1165; ponente Eloy Velasco; 54 páginas en la versión del CENDOJ) la condena de 7 años de Prada y la de Alicio de las Heras, absuelve de malversación a Isabelino Baños y a Andrés Gómez Gordo (manteniendo su inhabilitación por prevaricación), rebaja a 1 año, 6 meses y 1 día la pena de Félix José García de Castro (como cómplice) y confirma la absolución de Mariano José Sanz. Aprecia malversación en 13 de los 25 contratos analizados y reduce la responsabilidad civil: en el fallo impone 10.087.479,30 euros solidarios de Prada, De las Heras y García de Castro y otros 310.555 euros solidarios de Prada y García de Castro (10.398.034,30 euros en total), mientras que su fundamentación cifra el perjuicio de la malversación en 10.298.034,30 euros. Era recurrible en casación al notificarse; se desconoce si se interpuso y su resultado, así como la firmeza actual de la resolución."
+    descripcion: "La Sala de Apelación de la Audiencia Nacional confirma en una sentencia de 12 de marzo de 2025 (Roj SAN 1165/2025, ECLI:ES:AN:2025:1165; ponente Eloy Velasco; 54 páginas en la versión del CENDOJ) la condena de 7 años de Prada y la de Alicio de las Heras, absuelve de malversación a Isabelino Baños y a Andrés Gómez Gordo (manteniendo su inhabilitación por prevaricación), rebaja a 1 año, 6 meses y 1 día la pena de Félix José García de Castro (como cómplice) y confirma la absolución de Mariano José Sanz. Aprecia malversación en 13 de los 25 contratos analizados y reduce la responsabilidad civil: en el fallo impone 10.087.479,30 euros solidarios de Prada, De las Heras y García de Castro y otros 310.555 euros solidarios de Prada y García de Castro (10.398.034,30 euros en total), mientras que su fundamentación cifra el perjuicio de la malversación en 10.298.034,30 euros. Era recurrible en casación al notificarse; se desconoce si se interpuso y su resultado, así como la firmeza actual de la resolución. Las cifras de responsabilidad civil son las del texto verificado de esta sentencia; el CENDOJ vincula a la causa una resolución posterior (AAN 2553/2025) que no se ha podido consultar."
     type: "sentencia"
     urls:
       - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Sala-de-Apelacion-de-la-Audiencia-Nacional-confirma-siete-anos-de-carcel-para-el-exvicepresidente-de-la-CAM-por-prevaricacion-y-malversacion-en-la-construccion-del-Campus-de-la-Justicia"
@@ -160,3 +160,16 @@ cronologia:
       - "https://www.comunidad.madrid/noticias/2025/10/16/diaz-ayuso-inicio-obras-ciudad-justicia-madrid-esto-es-fruto-compromiso-estado-derecho-libertad-justicia"
       - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1259530"
 ---
+
+## Nota de revisión (2026-10-01)
+
+Esta ficha se apoya en fuentes primarias descargadas y leídas: el informe de fiscalización de la Cámara de Cuentas de Madrid (240 páginas) y los textos de las sentencias de instancia, SAN 13/2024 (98 páginas), y de apelación, SAN 12/2025 (54 páginas).
+
+### Límites de las fuentes
+
+- **Tercera resolución no consultada.** Las cabeceras del CENDOJ de ambas sentencias listan como resoluciones del caso, además de la SAN 4440/2024 y la SAN 1165/2025, una tercera pieza (AAN 2553/2025). No se ha podido acceder a su texto: la vista por ECLI no devuelve documento y la variante `ECLI:ES:AN:2025:2553` corresponde a otro asunto (una sentencia de lo contencioso sobre asilo, de 24 de abril de 2025), por lo que no se incorpora. No se formula ninguna afirmación sobre su contenido; solo se deja constancia de su existencia.
+- **Responsabilidad civil.** La sentencia de instancia fijó 40.482.735,78 euros solidarios; la de apelación, en su fallo, 10.398.034,30 euros (10.087.479,30 solidarios de Prada, De las Heras y García de Castro, más 310.555 solidarios de Prada y García de Castro), mientras que su fundamentación cifra el perjuicio de la malversación en 10.298.034,30 euros. Se reproducen las cifras tal como aparecen en el texto verificado, sin sumarlas a otros datos ni presentarlas como la única responsabilidad civil fijada por un tribunal.
+- **Firmeza y casación.** La sentencia de apelación era recurrible en casación al notificarse en marzo de 2025; no se ha localizado constancia de su interposición ni de su resultado, ni de la firmeza actual de las resoluciones.
+- **Cifras de gasto.** Los 80 millones de la Cámara de Cuentas (2006-2010), los 98 millones periodísticos (2018), los más de 105 millones del auto de 2019 y los 350-355 millones del gasto total atribuido por la prensa proceden de fuentes y periodos distintos; no deben sumarse entre sí.
+- **Declaración de Esperanza Aguirre.** Estaba citada como testigo para el 19 de marzo de 2024 (anuncio de 18 de marzo); una crónica posterior de eldiario.es (28 de marzo de 2024) confirma que declaró, pero no precisa el día exacto, por lo que no se da el 19 como fecha acreditada de la declaración.
+- **Informe de la Cámara de Cuentas.** La versión utilizada es la que incorpora la corrección de errores de 26 de abril de 2018; la fecha del acuerdo de aprobación del Consejo es la de 22 de marzo de 2018.
