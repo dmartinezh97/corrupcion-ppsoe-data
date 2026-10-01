@@ -1,43 +1,59 @@
 ---
 nombre: "Caso Citur"
 partido: PP
-completado: true
+completado: false
 año: 2010
-fechaInicio: 2005-01-01
 fechaFin: ""
-estado: "en investigación"
+estado: "pendiente"
 descripcion: |
-  El caso Citur (Ciutadella Turisme) es un escándalo de corrupción municipal que afecta al Ayuntamiento de Ciutadella de Menorca durante el mandato del gobierno del PP liderado por el alcalde Llorenç Brondo entre 2003 y 2007. Una comisión municipal de investigación denominada "Citur" detectó 51 irregularidades en el área de Turismo del consistorio, principalmente relacionadas con la adjudicación fraudulenta de contratos públicos que beneficiaron al empresario Javier Liy y su consultora SAB. Se investigan presuntos delitos de prevaricación, malversación de caudales públicos, falsedad documental y fraude a la Administración.
+  El caso Citur (Ciutadella Turisme) se refiere al presunto amaño de contratos del área de Turismo del Ayuntamiento de Ciutadella, en Menorca, durante el mandato del PP presidido por el alcalde Llorenç Brondo (2003-2009). Una comisión municipal de investigación, conocida como comisión Citur y presidida por el concejal Joan Triay (UPCM), aprobó 51 conclusiones con irregularidades en la gestión del ente Ciutadella Turisme (Citur). El pleno del Ayuntamiento acordó por unanimidad el 11 de febrero de 2010 remitir esas conclusiones, avaladas por 101 documentos, a la Fiscalía Anticorrupción; en julio de 2010 UPCM presentó además una querella ante el Juzgado de Instrucción nº 2 de Ciutadella.
 
-  La trama operaba mediante la contratación directa y sin concurso público de la empresa SAB para la gestión del Plan de Dinamización Turística de Ciutadella. Cuando la incompatibilidad de SAB como contratista directa quedó en evidencia, las adjudicaciones se desviaron hacia dos empresas pantalla: J. Stayco, propiedad de un primo de Liy, y el ingeniero Daniel Aguiló, colaborador habitual de SAB. La administradora de J. Stayco reconoció ante la juez que nunca realizó trabajo alguno para el ayuntamiento y que se limitaba a transferir los pagos municipales directamente a SAB. En total, la fiscalía anticorrupción cifró el fraude en 522.000 euros procedentes de fondos públicos del área de Turismo. Entre las irregularidades más llamativas figura el pago municipal por dos páginas web turísticas cuando los técnicos municipales certificaron que solo existía una.
+  La acusación sostiene que se amañaron contratos de obra y de redacción de proyectos del área de Turismo. Las fuentes sitúan las adjudicaciones investigadas entre 2004 y 2009, con periodos que varían según el medio (2004-2008, 2005-2008 o 2005-2009), siempre dentro del gobierno municipal del PP. El perjuicio a las arcas municipales se cifró en unos 522.000 euros (19 contratos según la información de 2025; 29 según el escrito de acusación de la Fiscalía de 2016). El principal beneficiario habría sido el empresario Javier Liy y su consultora SAB, directamente o a través del ingeniero Daniel Aguiló; también se señaló al empresario Manel Mercadal y a sus empresas. Cuando SAB asumió la gerencia del PDPT y ya no podía ser adjudicataria directa de estos encargos, la acusación sostiene que se burló la incompatibilidad mediante sociedades interpuestas: la empresa J. Stayco, propiedad de una prima de Liy, y el propio ingeniero Daniel Aguiló; la administradora de J. Stayco reconoció en su declaración que no realizaba trabajo alguno para Ciutadella y que transfería a SAB el importe de las adjudicaciones. La instrucción describe adjudicaciones directas o negociadas sin publicidad, simulación de procesos de contratación con presupuestos de «comparsa», manipulación y desaparición de resoluciones y documentos, y pagos por servicios no prestados o facturados a precios muy superiores a los de referencia. Entre los hechos más citados figuran el pago de dos páginas web turísticas cuando un informe técnico acredita que solo existía una, y la readjudicación de la redacción de un proyecto de mejora del palmeral de Cala en Blanes cuando las obras ya habían terminado.
 
-  La investigación fue impulsada por la denuncia del partido localista UPCM, que asumió las conclusiones de la comisión de investigación municipal. En marzo de 2011, la Fiscalía Anticorrupción ejecutó la denominada Operación Xoriguer, que supuso la detención del exalcalde Llorenç Brondo, el exconcejal de Turismo Gabriel Cardona y el exresponsable local del PP Avel·lí Casasnovas, entre otros. En 2012, la juez instructora concluyó la fase de instrucción e imputó formalmente al gobierno municipal de Brondo por malversación de dinero público. En 2021 se decretó la apertura del juicio oral, pero diez años después del inicio de la investigación el caso aún no había llegado a juicio. En octubre de 2025, la UPCM desistió de la acusación tras más de 15 años de instrucción, quedando el ejercicio de la acusación exclusivamente en manos de la Fiscalía.
-resumen: "Adjudicación fraudulenta de contratos turísticos en Ciutadella por el gobierno municipal del PP de Llorenç Brondo"
+  En marzo de 2011, en el marco de la Operación Xoriguer, la Guardia Civil y la Policía Judicial registraron la sede de Citur y el Ayuntamiento de Ciutadella, así como la sede de la empresa SAB en Palma, y detuvieron a seis personas: el exalcalde Llorenç Brondo, los exconcejales Gabriel Cardona y Avel·lí Casasnovas, el empresario Manel Mercadal, el ingeniero Daniel Aguiló y el gerente de SAB Javier Liy. En abril de 2012 la jueza concluyó la instrucción e imputó a la cúpula del gobierno de Brondo, además de empresarios, funcionarios y asesores, y acordó el sobreseimiento parcial y provisional de seis personas. En 2021 se decretó la apertura del juicio oral y la documentación se remitió a la Audiencia Provincial para fijar la fecha de la vista.
+
+  Estado y límites a 1 de octubre de 2026: la causa sigue pendiente de juicio. La última información localizada es del 5 de octubre de 2025; ese día se informó de que UPCM había presentado un escrito de desistimiento y renunciaba a la acusación particular, que queda en manos de la Fiscalía. La representación de UPCM declaró no «atisbar siquiera la fecha en la que pueden ser enjuiciados los hechos»; la misma fuente indica que aún no hay fecha para el juicio y que al menos una de las investigadas ha fallecido. No se ha localizado ninguna resolución judicial publicada (auto de apertura de juicio oral, escritos de acusación o sentencia) ni nota oficial del CGPJ, TSJIB, Fiscalía o BOE, ni noticia posterior a octubre de 2025. No consta que el juicio se haya celebrado, que exista sentencia ni que la causa se haya cerrado. La ausencia de noticias posteriores no confirma la continuidad de la instrucción, el cierre ni la firmeza: se refleja el último extremo documentado y no se ha localizado un resultado posterior.
+
+  Alcance de las cifras y de los cargos: la cantidad de 522.000 euros es la estimación de la acusación sobre el importe de los contratos, no un daño declarado judicialmente; el escrito de la Fiscalía de 2016 cifraba la responsabilidad civil en 522.773 euros (339.197 + 183.576) y desglosaba 383.400 euros para SAB y unos 136.600 para las empresas de Mercadal, magnitudes que no son equivalentes. Los cargos y penas solicitadas corresponden al periodo investigado y a los escritos de acusación; ninguna de las personas citadas ha sido declarada culpable y todas mantienen la condición de investigadas o acusadas. Los cargos públicos que se mencionan corresponden al periodo de los hechos (2003-2009) y no se afirma su vigencia actual. El caso comparte juzgado (Juzgado nº 2 de Ciutadella), época y algunos investigados (Avel·lí Casasnovas, Llorenç Brondo) con el caso Nerer, causa distinta que no se aborda aquí.
+resumen: "Presunto amaño de contratos del área de Turismo del Ayuntamiento de Ciutadella (PP) durante el gobierno de Llorenç Brondo; causa pendiente de juicio."
 coste: 522000
 lugar: "Ciutadella de Menorca, Illes Balears"
 tribunal:
-  - "Juzgado de Instrucción nº 2 de Ciutadella - Fiscalía Anticorrupción de Baleares"
+  - "Juzgado de Primera Instancia e Instrucción nº 2 de Ciutadella"
+  - "Audiencia Provincial de Illes Balears"
 numeroSentencia: ""
 implicados:
   - nombre: "Llorenç Brondo"
-    cargo: "Alcalde de Ciutadella (2003-2007), PP"
-    rol: "Detenido e imputado por malversación y prevaricación como responsable del gobierno municipal"
+    cargo: "Alcalde de Ciutadella (2003-2009), PP"
+    rol: "Investigado y detenido en la Operación Xoriguer (2011); el auto de 2012 le imputó prevaricación administrativa y malversación de caudales públicos. La Fiscalía pidió para él 15 años de prisión en su escrito de 2016."
 
   - nombre: "Gabriel Cardona"
-    cargo: "Concejal de Turismo del Ayuntamiento de Ciutadella, PP"
-    rol: "Propuso y aprobó los contratos irregulares con SAB y empresas pantalla"
+    cargo: "Concejal de Turismo del Ayuntamiento de Ciutadella (2003-2007), PP; después edil del Grupo Mixto / Unió Menorca"
+    rol: "Principal investigado. El auto de 2012 le imputó cinco delitos (prevaricación administrativa, malversación, falsedad documental, tráfico de influencias y fraude). Según la instrucción, las adjudicaciones directas del área de Turismo se hacían a su propuesta."
 
   - nombre: "Avel·lí Casasnovas"
-    cargo: "Exconcejal y expresidente del PP de Ciutadella"
-    rol: "Detenido en la Operación Xoriguer por su participación en las irregularidades"
+    cargo: "Teniente de alcalde de Urbanismo del Ayuntamiento de Ciutadella (2003-2007) y presidente del Consorci Pla Mirall; expresidente del PP de Ciutadella y exconseller insular"
+    rol: "Investigado y detenido en la Operación Xoriguer (2011); el auto de 2012 le imputó prevaricación administrativa y malversación de caudales públicos. La Fiscalía pidió 15 años de prisión en 2016."
 
-  - nombre: "Javier Liy"
-    cargo: "Empresario, gerente de la consultora SAB"
-    rol: "Beneficiario principal de los contratos fraudulentos del área de Turismo"
+  - nombre: "Javier Liy Lozano"
+    cargo: "Empresario; propietario y gerente de la consultora SAB (Sab Tourism Environment & Tech Consultants) y exgerente del Plan de Dinamización del Producto Turístico (PDPT) de Ciutadella"
+    rol: "Detenido en 2011. La acusación lo señala como principal beneficiario de las adjudicaciones a SAB, directamente o a través del ingeniero Daniel Aguiló. La Fiscalía pidió 9 años de prisión en 2016."
 
-  - nombre: "Daniel Aguiló"
+  - nombre: "Daniel Aguiló Ferretjans"
     cargo: "Ingeniero, colaborador de SAB"
-    rol: "Firmó proyectos y actuó como empresa pantalla para desviar pagos a SAB"
+    rol: "Detenido en 2011. El auto de 2012 le imputó falsedad documental y fraude; actuó como sociedad interpuesta para canalizar adjudicaciones a SAB una vez que esta asumió la gerencia del PDPT."
+
+  - nombre: "Joan Manel Mercadal"
+    cargo: "Empresario local; administrador de Neo Menorca, Serprosport y Menorca Assistència"
+    rol: "Detenido en 2011. El auto de 2012 le imputó falsedad documental, tráfico de influencias y fraude; la Fiscalía lo señaló como beneficiario de 8 contratos por unos 136.600 euros y pidió 6 años de prisión."
+
+  - nombre: "Antònia Salord"
+    cargo: "Exteniente de alcalde de Gobernación del Ayuntamiento de Ciutadella, PP"
+    rol: "Imputada por prevaricación administrativa en el auto de 2012. La Fiscalía pidió 9 años de prisión en 2016."
+
+  - nombre: "Antònia Gener"
+    cargo: "Concejala de Hacienda del Ayuntamiento de Ciutadella en el gobierno de Brondo, PP"
+    rol: "Imputada por prevaricación administrativa en el auto de 2012. La Fiscalía pidió 9 años de prisión en 2016."
 
 tags:
   - "corrupción"
@@ -45,78 +61,70 @@ tags:
   - "prevaricación"
   - "fraude"
   - "falsedad documental"
+  - "tráfico de influencias"
   - "contratos irregulares"
 
-impactoSocial: "El caso sacudió la política local de Ciutadella y se convirtió en símbolo de la corrupción municipal del PP en Baleares, prolongándose durante más de 15 años sin llegar a juicio."
+impactoSocial: "Causa de gran impacto en la política local de Ciutadella; la instrucción se prolongó más de 15 años y, al menos hasta octubre de 2025, no se había señalado fecha para el juicio."
 
 documentos: []
 
 cronologia:
-  - fecha: 2005-01-01
-    titulo: "Inicio de las irregularidades en el área de Turismo"
-    descripcion: "Durante el mandato del alcalde Llorenç Brondo (PP), el Ayuntamiento de Ciutadella contrata de forma irregular a la consultora SAB, gestionada por Javier Liy, para ejecutar el Plan de Dinamización Turística. Los contratos se adjudican sin concurso público y a precios pactados directamente entre Liy y los responsables municipales, vulnerando la normativa de contratación pública."
-    type: "investigación"
+  - fecha: 2010-02-11
+    titulo: "El pleno de Ciutadella remite las conclusiones de la comisión Citur a la Fiscalía Anticorrupción"
+    descripcion: "El pleno del Ayuntamiento de Ciutadella acuerda por unanimidad remitir a la Fiscalía Anticorrupción las conclusiones de la comisión municipal de investigación, avaladas por 101 documentos; el concejal Gabriel Cardona se abstiene. Las 51 conclusiones detectaron irregularidades en la gestión del área de Turismo y del ente Ciutadella Turisme durante el gobierno del PP. Este acuerdo está en el origen de las diligencias judiciales."
+    type: "denuncia"
     urls:
-      - "https://www.menorca.info/menorca/local/2011/03/29/1398036/guardia-civil-registra-ayuntamiento-ciutadella-por-caso-citur.html"
-
-  - fecha: 2009-01-01
-    titulo: "Creación de la comisión municipal de investigación Citur"
-    descripcion: "El Ayuntamiento de Ciutadella crea una comisión de investigación denominada 'Citur' (Ciutadella Turisme) para examinar la gestión del área de Turismo durante el período 2003-2007. La comisión concluye su trabajo detectando 51 conclusiones con irregularidades, entre ellas el pago de dos páginas web turísticas cuando solo existía una, y el uso de empresas pantalla para canalizar fondos públicos hacia SAB."
-    type: "investigación"
-    urls:
+      - "https://www.rtve.es/noticias/20110329/guardia-civil-registra-ayuntamiento-ciutadella-menorca/420519.shtml"
       - "https://www.ultimahora.es/noticias/local/2011/03/29/36355/cinco-detenidos-y-cuatro-imputados-en-ciutadella-y-palma-balance-de-la-operacion-xoriguer-1.html"
-
-  - fecha: 2010-02-01
-    titulo: "El pleno municipal remite el caso a la Fiscalía Anticorrupción"
-    descripcion: "El pleno del Ayuntamiento de Ciutadella aprueba por unanimidad remitir a la Fiscalía Anticorrupción las conclusiones de la comisión de investigación Citur. Este acuerdo plenario constituye el primer paso formal hacia la investigación judicial del caso y refleja el consenso político local sobre la gravedad de las irregularidades detectadas."
-    type: "denuncia"
-    urls:
-      - "https://www.menorca.info/menorca/local/2011/03/29/1398036/guardia-civil-registra-ayuntamiento-ciutadella-por-caso-citur.html"
-
-  - fecha: 2010-07-01
-    titulo: "La UPCM presenta querella en los juzgados de Ciutadella"
-    descripcion: "El partido localista menorquín UPCM (Unió de Poble de Ciutadella - Menorca) registra una querella formal ante el Juzgado de Instrucción nº 2 de Ciutadella asumiendo las conclusiones de la comisión municipal de investigación. La querella identifica como presuntos responsables al exalcalde Llorenç Brondo y a varios exconcejales de su gobierno, así como al empresario Javier Liy y sus colaboradores."
-    type: "denuncia"
-    urls:
-      - "https://www.menorca.info/menorca/local/2025/10/05/2484253/acusacion-del-caso-citur-queda-manos-fiscalia-upcm-desiste-tras-anos-instruccion.html"
 
   - fecha: 2011-03-29
     titulo: "Operación Xoriguer: registros y detenciones"
-    descripcion: "La Guardia Civil, bajo dirección de la Fiscalía Anticorrupción, ejecuta la Operación Xoriguer y registra el Ayuntamiento de Ciutadella y otros edificios municipales en busca de documentación sobre las irregularidades. Son detenidos el exalcalde Llorenç Brondo, el exconcejal de Turismo Gabriel Cardona, el expresidente local del PP Avel·lí Casasnovas y otras tres personas. Los detenidos son acusados de fraude a la Administración, malversación de caudales públicos, falsedad documental y prevaricación."
-    type: "detención"
+    descripcion: "La Guardia Civil y la Policía Judicial, bajo la dirección de los fiscales anticorrupción Pedro Horrach y Miguel Ángel Subirán y del Juzgado nº 2 de Ciutadella, registran la sede de Citur y el Ayuntamiento de Ciutadella y la sede de la empresa SAB en Palma, y detienen a seis personas: el exalcalde Llorenç Brondo, los exconcejales Gabriel Cardona y Avel·lí Casasnovas, el empresario Manel Mercadal, el ingeniero Daniel Aguiló y el gerente de SAB Javier Liy. Se les imputan presuntos delitos de fraude a la Administración, malversación de caudales públicos, falsedad y prevaricación. Algunas fuentes, como RTVE, elevaron la cifra a nueve detenidos."
+    type: "detencion"
     urls:
       - "https://www.menorca.info/menorca/local/2011/03/29/1398036/guardia-civil-registra-ayuntamiento-ciutadella-por-caso-citur.html"
+      - "https://www.menorca.info/menorca/local/2011/03/30/1398096/lloren-brondo-gabriel-cardona-avel-casasnovas-detenidos-por-caso-citur-1.html"
       - "https://www.ultimahora.es/noticias/local/2011/03/29/36355/cinco-detenidos-y-cuatro-imputados-en-ciutadella-y-palma-balance-de-la-operacion-xoriguer-1.html"
       - "https://www.elimparcial.es/noticia/81384/nacional/registran-el-ayuntamiento-de-ciutadella-en-menorca-"
 
   - fecha: 2011-03-31
     titulo: "Los detenidos quedan en libertad provisional con cargos"
-    descripcion: "La juez instructora del Juzgado nº 2 de Ciutadella decreta la libertad provisional con cargos del exalcalde Llorenç Brondo y los demás detenidos en la Operación Xoriguer, a la espera de continuar la instrucción del caso. Los imputados quedan sujetos a medidas cautelares y obligados a comparecer periódicamente ante el juzgado."
-    type: "declaración"
+    descripcion: "La jueza del Juzgado nº 2 de Ciutadella decreta la libertad provisional con cargos de los detenidos. Según el TSJIB, Llorenç Brondo y el empresario Mercadal salen sin medidas cautelares y Javier Liy es liberado a lo largo del día; Gabriel Cardona y Avel·lí Casasnovas quedan con obligación de comparecer dos veces al mes y retirada de pasaporte. La libertad de Brondo y Mercadal se publica el 31 de marzo de 2011 y la de Cardona y Casasnovas, el 1 de abril de 2011."
+    type: "imputacion"
     urls:
-      - "https://www.menorca.info/menorca/local/2011/03/31/534429/juez-pone-libertad-nel-mercadal-lloren-brondo.html"
+      - "https://www.menorca.info/menorca/local/2011/03/31/1398178/juez-pone-libertad-nel-mercadal-lloren-brondo.html"
       - "https://www.estrelladigital.es/articulo/espana/la-jueza-deja-en-libertad-provisional-a-los-exconcejales-de-ciutadella/20110401085519296220.html"
 
   - fecha: 2012-04-10
-    titulo: "La juez cierra la instrucción e imputa al gobierno Brondo"
-    descripcion: "La titular del Juzgado de Instrucción nº 2 de Ciutadella concluye la fase de instrucción del caso Citur e imputa formalmente al gobierno municipal del exalcalde Llorenç Brondo por malversación de dinero público. La resolución judicial apunta también al secretario municipal y al asesor jurídico del consistorio como responsables de las irregularidades detectadas en los contratos del área de Turismo."
-    type: "imputación"
+    titulo: "Se informa del auto que concluye la instrucción e imputa al gobierno de Brondo"
+    descripcion: "La jueza del Juzgado nº 2 de Ciutadella da por concluida la instrucción y traslada la causa a las partes para que presenten sus escritos de calificación. El auto imputa a la cúpula del gobierno de Brondo (Llorenç Brondo y Avel·lí Casasnovas, prevaricación y malversación; Gabriel Cardona, cinco delitos; Antònia Gener y Antònia Salord, prevaricación) y mantiene la imputación contra empresarios, técnicos y funcionarios, entre ellos Manel Mercadal, Daniel Aguiló y Javier Liy. El auto acuerda el sobreseimiento parcial y provisional de seis imputados. El hito se fecha por la primera publicación localizada (10 de abril de 2012), que se refiere al auto como dictado «ayer»; otra crónica lo publica el 11 de abril, por lo que el día exacto del auto es el 9 o el 10 de abril de 2012."
+    type: "imputacion"
     urls:
       - "https://www.ultimahora.es/noticias/local/2012/04/10/68746/el-juzgado-de-ciutadella-concluye-la-instruccion-del-caso-citur.html"
-      - "https://www.menorca.info/menorca/local/2012/04/13/547693/juez-apunta-secretario-asesor-juridico-caso-citur.html"
+      - "https://www.menorca.info/menorca/local/2012/04/11/1424198/caso-citur-queda-listo-para-juicio-cardona-como-principal-imputado.html"
+      - "https://www.menorca.info/menorca/local/2012/04/13/1424376/juez-apunta-secretario-asesor-juridico-caso-citur.html"
 
-  - fecha: 2021-01-01
-    titulo: "Apertura del juicio oral diez años después"
-    descripcion: "El juzgado decreta la apertura del juicio oral en el caso Citur, diez años después de la Operación Xoriguer. La instrucción se había prolongado extraordinariamente debido a los sucesivos recursos interpuestos por las defensas de los once investigados, la desaparición de la Fiscalía Anticorrupción autonómica y los continuos cambios en la titularidad del juzgado de Ciutadella. La Fiscalía solicita un total de 139 años de prisión para los 13 acusados, incluyendo 15 años para el exalcalde Brondo y los exconcejales Cardona y Casasnovas."
-    type: "sentencia"
+  - fecha: 2021-03-30
+    titulo: "Se informa de la apertura del juicio oral, diez años después de las detenciones"
+    descripcion: "La jueza María Belén Velázquez dicta la apertura del juicio oral del caso Citur y da por concluida la instrucción, cuando se cumplen diez años de la Operación Xoriguer. Quedan pendientes los escritos de defensa de los once imputados; después, la documentación debe remitirse a un tribunal superior para fijar la fecha de la vista. En sus escritos, la Fiscalía pedía penas de entre 4 y 15 años de cárcel para los imputados (15 años para Brondo, Cardona y Casasnovas, y 9 para las exconcejalas Antònia Salord y Antònia Gener). El hito se fecha por la publicación del 30 de marzo de 2021; la fecha exacta del auto no consta en la fuente."
+    type: "juicio"
     urls:
-      - "https://www.menorca.info/menorca/local/2025/10/05/2484253/acusacion-del-caso-citur-queda-manos-fiscalia-upcm-desiste-tras-anos-instruccion.html"
+      - "https://www.menorca.info/menorca/local/2021/03/30/1650046/juez-del-caso-citur-abre-juicio-oral-diez-anos-despues-detenciones.html"
 
   - fecha: 2025-10-05
-    titulo: "La UPCM desiste de la acusación tras 15 años"
-    descripcion: "Tras más de 15 años de instrucción sin que el caso haya llegado a juicio, el partido UPCM presenta un escrito de desistimiento ante el Juzgado nº 2 de Ciutadella y renuncia a ejercer la acusación particular. Los representantes de UPCM declaran que no pueden 'ni prever la fecha en que los hechos podrán ser juzgados'. A partir de ese momento, la acusación queda exclusivamente en manos de la Fiscalía. El caso se convierte en un ejemplo paradigmático de la lentitud de la justicia española en los asuntos de corrupción municipal."
-    type: "resumen"
+    titulo: "Se informa de que UPCM desiste de la acusación particular"
+    descripcion: "Tras más de 15 años de instrucción, la representación procesal de UPCM presenta un escrito de desistimiento ante el Juzgado nº 2 de Ciutadella y renuncia a la acusación particular, que queda en manos de la Fiscalía. UPCM declara no «atisbar siquiera la fecha en la que pueden ser enjuiciados los hechos» y confía en que la Fiscalía siga exigiendo responsabilidades. La información añade que aún no hay fecha para el juicio y que al menos una de las investigadas ha fallecido. El hito se fecha por la publicación del 5 de octubre de 2025; la fecha exacta del escrito no consta."
+    type: "investigacion"
     urls:
       - "https://www.menorca.info/menorca/local/2025/10/05/2484253/acusacion-del-caso-citur-queda-manos-fiscalia-upcm-desiste-tras-anos-instruccion.html"
-      - "https://www.menorca.info/opinion/firmas-del-dia/2025/02/13/2325003/citur-nerer-jutges-judicis-ciutadella.html"
 ---
+
+## Alcance y limitaciones de la ficha
+
+- No se ha localizado ninguna resolución judicial publicada de esta causa (auto de apertura de juicio oral, escritos de acusación o sentencia) ni nota oficial del CGPJ, TSJIB, Fiscalía o BOE. La reconstrucción se apoya principalmente en prensa local (Menorca - Es diari / menorca.info), con apoyo de agencias (RTVE/Europa Press, Última Hora, El Imparcial, Estrella Digital) y una pieza de opinión de 2025.
+- Fechas: no consta con día exacto el inicio de las irregularidades, por lo que no se fija `fechaInicio`. El auto que concluyó la instrucción en 2012 se difundió los días 10 y 11 de abril de 2012 («ayer» en ambas crónicas), de modo que el día exacto es el 9 o el 10 de abril; el hito se fecha por la primera publicación. Los hitos de 2021 y 2025 se fechan por la fecha de publicación de la noticia, no por la fecha del acto (auto de apertura y escrito de desistimiento, respectivamente), que no consta.
+- Número de conclusiones de la comisión: la mayoría de fuentes (RTVE/Europa Press y Es Diari) citan 51 conclusiones; una pieza de opinión de 2024 alude a 59. Se mantiene la cifra de 51.
+- Cifras: conviven 522.000 euros (importe de los contratos según la acusación), 522.773 euros (responsabilidad civil solicitada en 2016) y la suma 383.400 + 136.600 = 520.000 euros (SAB y empresas de Mercadal). No son magnitudes equivalentes ni constituyen un daño declarado judicialmente.
+- Condición de las personas citadas: todas son investigadas o acusadas; no hay condena ni sentencia. El sobreseimiento acordado en 2012 fue parcial y provisional para seis imputados, no un sobreseimiento general.
+- Cargos políticos: los cargos que se indican corresponden al periodo investigado (2003-2009) y no se presume su vigencia actual.
+- Solapamiento: el caso Nerer (Operación Pomada) comparte con Citur el Juzgado nº 2 de Ciutadella, la época y algunos investigados (Avel·lí Casasnovas, Llorenç Brondo), pero es una causa distinta.
