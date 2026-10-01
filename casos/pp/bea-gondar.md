@@ -90,7 +90,7 @@ cronologia:
     relevancia: "alta"
     urls:
       - "https://www.moncloa.com/2020/06/08/condena-exalcalde-o-grove-secuestro-farina-201616/"
-      - "https://www.elfaradio.com/2020/06/08/el-excalde-cuya-denuncio-llevo-al-secuestro-de-farina-condenado-a-indemnizar-a-libros-del-ko-y-al-autor/"
+      - "https://www.elfaradio.com/2020/06/08/el-exalcalde-cuya-denuncio-llevo-al-secuestro-de-farina-condenado-a-indemnizar-a-libros-del-ko-y-al-autor/"
       - "https://www.elconfidencial.com/cultura/2020-06-08/farina-libros-del-ko-nacho-carretero-alcalde-grove_2629311/"
 
   - fecha: "2021-01-25"
