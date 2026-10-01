@@ -1,110 +1,94 @@
 ---
 nombre: "Caso Catis"
 partido: PP
-completado: true
+completado: false
 año: 2010
-fechaInicio: 2009-11-01
-fechaFin: "2015-03-03"
+fechaFin: ""
 estado: "sobreseimiento"
 descripcion: |
-  El caso Catis destapó en 2010 una red organizada dedicada a la expedición fraudulenta de diplomas y certificados oficiales de formación sanitaria. La trama giraba en torno al Sindicato Independiente de Trabajadores de Cádiz (SITCA), que ofrecía títulos oficiales de cursos de riesgos laborales y formación sanitaria a cambio de 80 euros y una fotocopia del DNI, sin que el alumno realizara ninguna hora de formación presencial. Los diplomas eran posteriormente avalados con el membrete de la Escuela de Servicios Sanitarios y Sociales de Canarias (ESSSCAN), organismo dependiente del Gobierno canario, y se utilizaban para acceder a empleos que requerían dichas titulaciones.
+  El 'caso Catis' (u 'operación Catis') investigó una trama que expedía diplomas y certificados oficiales de formación sanitaria y de riesgos laborales sin impartir formación real. Según el comunicado de la Guardia Civil difundido a comienzos de diciembre de 2010, el Sindicato Independiente de Trabajadores de Cádiz (SITCA), sin actividad sindical efectiva, proporcionaba esos títulos previo pago de 80 euros y una fotocopia del DNI, se anunciaba por internet y matriculaba incluso en cursos de años anteriores. Los diplomas llevaban el aval o membrete de la Escuela de Servicios Sanitarios y Sociales de Canarias (ESSSCAN), organismo del Gobierno de Canarias.
 
-  La investigación, desarrollada por la Guardia Civil en Cádiz, Badajoz y Canarias, comenzó en noviembre de 2009 tras alertas de que el sindicato gaditano comercializaba títulos oficiales. La operación culminó en diciembre de 2010 con la detención de diez personas y la imputación de otras dos. Entre los imputados figuraban tres ex altas cargos del PP en el Gobierno canario que habían ejercido como directoras de la ESSSCAN: Inmaculada Acosta Artiles, Rosa María de Haro Brito y Carmen Nieves Cáceres. Según la Guardia Civil, ambas directoras habrían firmado diplomas con el membrete oficial de la escuela recibiendo dinero del sindicato a cambio. Entre 2007 y 2009 se intervinieron más de 1,46 millones de euros en la cuenta corriente de la organización, además de cantidades adicionales cobradas en efectivo en las propias oficinas.
+  La investigación de la Guardia Civil, desarrollada en Cádiz, Badajoz y Canarias, se inició en noviembre de 2009 tras las alertas sobre la venta de títulos oficiales. En diciembre de 2010 el Instituto Armado informó de la desarticulación de la red con un balance de diez detenidos y dos imputados, aunque otras notas de esos días (Europa Press) hablaron de ocho detenidos y tres imputados. Entre los implicados había dos ex directoras de la ESSSCAN —María Inmaculada Acosta Artiles, detenida el 23 de noviembre de 2010, y María Rosa de Haro Brito— y la ex secretaria general del organismo, Carmen Nieves Cáceres. Según la prensa, la investigación apuntaba a que las dos ex directoras cobraban por firmar diplomas. El secretario general del SITCA, considerado el cabecilla, ingresó en prisión preventiva. Según la Guardia Civil, la organización ingresó 1.460.533 euros en una cuenta entre 2007 y 2009 (cantidad canalizada por el sindicato, no un gasto público).
 
-  El componente político del caso se centró principalmente en Rosa María de Haro, que tras ser candidata número tres del PP al Congreso en 2011 accedió al Senado en noviembre de 2012, adquiriendo aforamiento ante el Tribunal Supremo. La Sala Segunda del Tribunal Supremo resolvió en enero de 2015 no asumir la investigación al no encontrar en el suplicatorio remitido por el juzgado de Cádiz indicios suficientes que justificaran su imputación, y en marzo de 2015 archivó de forma definitiva el procedimiento contra ella. La causa principal, instruida en el Juzgado de Instrucción número 4 de Cádiz, concluyó igualmente sin condenas a los cargos políticos del PP implicados.
+  La causa se tramitó como Diligencias Previas 1431/2010 del Juzgado de Instrucción número 4 de Cádiz, incoadas por auto de 21 de junio de 2010 a raíz de una denuncia de la Fiscalía, por presunta estafa y falsedad documental. Al adquirir la condición de senadora el 13 de noviembre de 2012, De Haro quedó aforada y el juzgado remitió una exposición razonada al Tribunal Supremo. La Sala Segunda (ponente Manuel Marchena) acordó no asumir 'de momento' la competencia al no apreciar indicios contra la aforada en la exposición remitida; la resolución se dio a conocer el 19 de febrero de 2015. El procedimiento contra De Haro fue finalmente archivado y declarado firme al no interponerse recurso, según se informó el 26 de marzo de 2015.
 
-resumen: "Red de diplomas sanitarios falsos en Canarias que implicó a tres ex directoras de ESSSCAN del PP"
+  Límites de la información disponible: no se han localizado las fechas exactas de los autos del Tribunal Supremo ni el resultado final de la causa principal contra el resto de implicados una vez devuelta a Cádiz; tampoco se han encontrado noticias posteriores a marzo de 2015 sobre el caso (consulta realizada hasta el 1 de octubre de 2026). La ausencia de noticias no confirma el cierre ni la continuidad de la investigación. El nombre completo atribuido al secretario general del SITCA no ha podido corroborarse con las fuentes accesibles y queda pendiente de verificación.
+
+resumen: "Trama de títulos formativos falsos con membrete de la ESSSCAN; dos ex directoras y una ex secretaria general imputadas y causa archivada para la senadora aforada"
 coste: 1460533
 lugar: "Canarias, Cádiz y Badajoz"
 tribunal:
   - "Juzgado de Instrucción nº 4 de Cádiz"
-  - "Tribunal Supremo - Sala Segunda (aforamiento María de Haro)"
+  - "Tribunal Supremo - Sala Segunda (aforamiento de María Rosa de Haro)"
 numeroSentencia: ""
 implicados:
   - nombre: "Eladio Patricio Gracia Sadaba"
     cargo: "Secretario general del SITCA (Sindicato Independiente de Trabajadores de Cádiz)"
-    rol: "Cerebro de la trama; detenido e ingresado en prisión preventiva"
+    rol: "Considerado cabecilla de la organización; detenido e ingresado en prisión preventiva (nombre pendiente de verificación con fuentes accesibles)"
 
   - nombre: "María Inmaculada Acosta Artiles"
-    cargo: "Directora de ESSSCAN (Escuela de Servicios Sanitarios y Sociales de Canarias), cargo del PP"
-    rol: "Imputada por falsedad documental; firmó diplomas fraudulentos con membrete oficial"
+    cargo: "Ex directora de la ESSSCAN (hasta octubre de 2010); vinculada al PP en Telde (Gran Canaria)"
+    rol: "Detenida el 23 de noviembre de 2010 e imputada por presunta estafa y falsedad documental; la investigación la relacionaba con la firma de diplomas"
 
   - nombre: "María Rosa de Haro Brito"
-    cargo: "Ex directora de ESSSCAN y senadora del PP por La Palma"
-    rol: "Imputada por falsedad documental; causa archivada por el Tribunal Supremo en 2015"
+    cargo: "Ex directora de la ESSSCAN; senadora del PP por La Palma desde noviembre de 2012"
+    rol: "Imputada por presunta estafa y falsedad documental; el Tribunal Supremo no asumió la investigación y el procedimiento contra ella fue archivado de forma definitiva en 2015"
 
   - nombre: "Carmen Nieves Cáceres"
-    cargo: "Ex secretaria general de ESSSCAN, cargo del PP"
-    rol: "Imputada por presunta falsedad documental en la expedición de diplomas"
+    cargo: "Ex secretaria general de la ESSSCAN"
+    rol: "Imputada por presunta estafa y falsedad documental en la causa"
 
 tags:
   - "corrupción"
   - "falsedad documental"
-  - "fraude"
+  - "estafa"
   - "títulos falsos"
-  - "prevaricación"
 
-impactoSocial: "El caso CATIS evidenció cómo cargos públicos del PP en Canarias habrían avalado con el sello oficial de un organismo del Gobierno regional la expedición masiva de diplomas sanitarios falsos, permitiendo a cientos de personas acceder a empleos para los que carecían de formación real. El escándalo dañó la imagen del PP en Canarias y generó debate sobre el control de las instituciones públicas de formación, aunque los cargos políticos implicados resultaron finalmente sobreseídos."
+impactoSocial: "El caso puso de relieve el uso del membrete de un organismo público canario (la ESSSCAN) en la expedición de títulos formativos irregulares. Según la Guardia Civil, el sindicato SITCA matriculó a alumnos en cursos sin formación presencial y expidió diplomas que se presentaban para acceder a empleos o bolsas de trabajo que exigían titulación. La causa fue archivada para la senadora aforada en 2015; el resultado de la causa respecto al resto de implicados no se ha localizado."
 
 documentos: []
 
 cronologia:
-  - fecha: "2007-01-01"
-    titulo: "Inicio de la actividad fraudulenta del SITCA"
-    descripcion: "El Sindicato Independiente de Trabajadores de Cádiz (SITCA) comienza a operar una red de expedición de diplomas y certificados falsos de formación sanitaria y de riesgos laborales. A cambio de 80 euros y una fotocopia del DNI, los interesados recibían diplomas oficiales sin realizar ninguna hora de formación. La red distribuye sus cursos fraudulentos principalmente a través de internet, llegando a gestionar cientos de matrículas en Canarias."
+  - fecha: "2010-11-23"
+    titulo: "Detención de Inmaculada Acosta y balance inicial de la operación"
+    descripcion: "La Guardia Civil practica detenciones en la operación Catis; entre ellas la de María Inmaculada Acosta Artiles, que había sido directora de la ESSSCAN hasta octubre de 2010. El comunicado del Instituto Armado, difundido los días siguientes, fija un balance de diez detenidos y dos imputados e informa de que el secretario general del SITCA, considerado el cabecilla, está en prisión preventiva. Otras notas de esos días (Europa Press) hablan de ocho detenidos y tres imputados."
+    type: "detención"
+    urls:
+      - "https://www.publico.es/actualidad/red-falsos-titulos-salpica-pp-canario.html"
+      - "https://www.libertaddigital.com/sociedad/la-guardia-civil-desarticula-una-red-que-expedia-titulos-academicos-falsos-1276408442/"
+
+  - fecha: "2010-12-01"
+    titulo: "Se informa de la imputación de Rosa de Haro"
+    descripcion: "El presidente del PP de Canarias, José Manuel Soria, declara que a la ex directora de la ESSSCAN María Rosa de Haro Brito le comunicaron por teléfono su imputación en la operación Catis, llamada que sitúa el día anterior (30 de noviembre de 2010). La fecha de esta entrada es la de publicación de la noticia, no la del acto. Soria expresa la confianza del partido en la inocencia de De Haro y de Inmaculada Acosta."
+    type: "imputación"
+    urls:
+      - "https://www.eldiario.es/canariasahora/politica/soria-pp-haro-imputacion-catis_1_4959402.html"
+
+  - fecha: "2010-12-10"
+    titulo: "El Gobierno canario y la ESSSCAN estudian personarse en la causa"
+    descripcion: "El consejero de Sanidad del Gobierno de Canarias, Fernando Bañolas, anuncia que el Ejecutivo y la empresa pública ESSSCAN estudian personarse como acusación. La información identifica a los tres ex cargos imputados: las dos ex directoras Inmaculada Acosta y Rosa María de Haro, designadas en la etapa del PP, y la ex secretaria general Carmen Nieves Cáceres. Bañolas sitúa el caso como ajeno a la ESSSCAN y recuerda que, según el Instituto Armado, el sindicato impartió alrededor de 300 cursos online en 2009 y unos 200 en 2010."
     type: "investigación"
     urls:
       - "https://www.eldiario.es/canariasahora/politica/gobierno-essscan-estudian-personarse-catis_1_5087485.html"
 
-  - fecha: "2009-11-01"
-    titulo: "La Guardia Civil inicia la investigación"
-    descripcion: "Agentes de la Guardia Civil son alertados de que un sindicato gaditano ofrece títulos oficiales a cambio de dinero sin impartir formación real. Se abre la investigación que recibirá el nombre de Operación Catis, con actuaciones en Cádiz, Badajoz y Canarias. Los investigadores detectan que los diplomas expedidos por el SITCA llevan el aval de la ESSSCAN, la escuela oficial de formación sanitaria del Gobierno de Canarias."
-    type: "investigación"
-    urls:
-      - "https://www.libertaddigital.com/sociedad/la-guardia-civil-desarticula-una-red-que-expedia-titulos-academicos-falsos-1276408442/"
-
-  - fecha: "2010-11-23"
-    titulo: "Detención de Inmaculada Acosta y operativos de la red"
-    descripcion: "La Guardia Civil practica detenciones en el marco de la Operación Catis. Entre las personas detenidas figura María Inmaculada Acosta Artiles, que hasta octubre de 2010 era directora de la ESSSCAN, organismo del Gobierno canario cuyo membrete aparece en los diplomas fraudulentos. El secretario general del SITCA, Eladio Patricio Gracia Sadaba, considerado el cerebro de la trama, ingresa en prisión preventiva. En total son detenidas diez personas."
-    type: "detención"
-    urls:
-      - "https://www.publico.es/actualidad/red-falsos-titulos-salpica-pp-canario.html"
-
-  - fecha: "2010-12-01"
-    titulo: "Imputación de Rosa de Haro y resultado oficial de la operación"
-    descripcion: "La Guardia Civil comunica por teléfono a María Rosa de Haro Brito, ex directora de la ESSSCAN y en ese momento número tres en la lista del PP para las elecciones generales, su imputación en la Operación Catis. El PP, a través de su líder en Canarias José Manuel Soria, expresa su plena confianza en la inocencia de las dos ex cargos imputadas. La operación concluye con diez detenidos y dos imputados adicionales, y se han intervenido más de 1.460.533 euros de la cuenta corriente de la organización entre 2007 y 2009."
-    type: "imputación"
-    urls:
-      - "https://www.eldiario.es/canariasahora/politica/soria-pp-haro-imputacion-catis_1_4959402.html"
-      - "https://www.libertaddigital.com/sociedad/la-guardia-civil-desarticula-una-red-que-expedia-titulos-academicos-falsos-1276408442/"
-
-  - fecha: "2011-11-20"
-    titulo: "Rosa de Haro se presenta como candidata al Congreso por el PP"
-    descripcion: "A pesar de estar imputada en el caso Catis, Rosa de Haro Brito figura como número tres en la lista electoral del Partido Popular para el Congreso de los Diputados por La Palma en las elecciones generales del 20 de noviembre de 2011. No obtiene escaño en el Congreso pero posteriormente accede al Senado."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Catis&numero=192"
-
   - fecha: "2012-11-13"
-    titulo: "De Haro accede al Senado y adquiere aforamiento"
-    descripcion: "María Rosa de Haro Brito toma posesión como senadora del Partido Popular, adquiriendo el aforamiento parlamentario que implica que cualquier causa penal contra ella debe ser instruida por el Tribunal Supremo. La causa del caso Catis, que hasta entonces se tramitaba en el Juzgado de Instrucción número 4 de Cádiz, debe remitirse a la Sala Segunda del Tribunal Supremo para continuar."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/canariasahora/lapalmaahora/sociedad/ts-procedimiento-maria-haro-catis_1_4305343.html"
-
-  - fecha: "2015-01-12"
-    titulo: "El Tribunal Supremo rechaza asumir la investigación de De Haro"
-    descripcion: "La Sala Segunda del Tribunal Supremo dicta auto en el que declara que no asumirá 'de momento' la investigación contra la senadora María Rosa de Haro en el caso Catis, al no encontrar en el suplicatorio remitido por el Juzgado de Instrucción número 4 de Cádiz indicios o principios de prueba que justifiquen su imputación. El alto tribunal considera que el juzgado instructor no ha aportado indicios suficientes contra ella y devuelve las actuaciones."
+    titulo: "De Haro adquiere la condición de senadora y el aforamiento"
+    descripcion: "Según el auto del Tribunal Supremo recogido por la prensa, María Rosa de Haro Brito adquirió la condición de senadora el 13 de noviembre de 2012, lo que le otorgó aforamiento y motivó que la causa instruida en Cádiz se remitiera a la Sala Segunda."
     type: "resumen"
     urls:
       - "https://www.eldiario.es/canariasahora/lapalmaahora/sociedad/Tribunal_Supremo-investigacion-Maria_de_Haro_0_358364685.html"
-      - "https://www.eleconomista.es/legislacion/noticias/6489709/02/15/El-TS-rechaza-investigar-a-la-senadora-del-PP-Rosa-de-Haro-porque-el-Juzgado-que-inicio-el-caso-no-aporta-indicios.html"
 
-  - fecha: "2015-03-03"
-    titulo: "Archivo definitivo del caso contra De Haro por el Tribunal Supremo"
-    descripcion: "El Tribunal Supremo ratifica el archivo definitivo del procedimiento contra la senadora María Rosa de Haro en el caso Catis al no interponerse recurso alguno contra el auto previo. La causa queda sobreseída de forma definitiva. De Haro declara que la resolución confirma que 'quienes cuestionaron mi trabajo en su momento no tenían razón alguna para hacerlo'. La causa principal instruida en Cádiz contra los demás implicados también concluye sin condenas a los ex cargos del PP."
-    type: "resumen"
+  - fecha: "2015-02-19"
+    titulo: "Se conoce el auto del Supremo que no asumirá 'de momento' la investigación"
+    descripcion: "La Sala Segunda del Tribunal Supremo, con ponente Manuel Marchena, acuerda no asumir 'de momento' la competencia para investigar a la senadora De Haro al no apreciar indicios de criminalidad contra ella en la exposición razonada remitida por el Juzgado de Instrucción número 4 de Cádiz. El auto se da a conocer este día; no consta en la fuente la fecha exacta de la resolución."
+    type: "procesal"
+    urls:
+      - "https://www.eldiario.es/canariasahora/lapalmaahora/sociedad/Tribunal_Supremo-investigacion-Maria_de_Haro_0_358364685.html"
+
+  - fecha: "2015-03-26"
+    titulo: "Se informa del archivo definitivo de la causa contra De Haro"
+    descripcion: "Medios canarios informan de que el Tribunal Supremo ha archivado de forma definitiva el procedimiento contra la senadora María Rosa de Haro al no haberse interpuesto recurso contra el auto, que quedó firme. La fecha de la entrada es la de publicación de la noticia; no se ha localizado la fecha exacta del auto de archivo."
+    type: "sobreseimiento"
     urls:
       - "https://www.eldiario.es/canariasahora/lapalmaahora/sociedad/ts-procedimiento-maria-haro-catis_1_4305343.html"
-
 ---
