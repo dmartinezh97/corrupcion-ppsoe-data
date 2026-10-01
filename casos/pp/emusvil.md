@@ -36,8 +36,8 @@ implicados:
     rol: "Imputado por su participación en la doble venta; algunas fuentes lo sitúan firmando la escritura de venta al segundo comprador en 2011"
 
   - nombre: "Juan Carlos Juárez Arriola"
-    cargo: "Exalcalde de La Línea de la Concepción (1999-2009)"
-    rol: "Alcalde durante la primera venta del local (6 de mayo de 2009); no consta imputación por estos hechos en esta causa (su inhabilitación de 2009 se produjo en el caso Palex)"
+    cargo: "Exalcalde de La Línea de la Concepción durante la primera venta de 2009"
+    rol: "Alcalde durante la primera venta del local (6 de mayo de 2009); no consta imputación por estos hechos en esta causa"
 
 tags:
   - "corrupción"
@@ -80,7 +80,7 @@ cronologia:
 
   - fecha: 2011-10-19
     titulo: "Se informa: el Ayuntamiento denuncia la doble venta de un local de Emusvil"
-    descripcion: "El concejal de Urbanismo, Francisco Espada (PSOE), hace públicos los hechos y anuncia que el asunto se llevará al juzgado. La fecha es la de publicación de la noticia; la detección del doble contrato se produjo en los días previos. Con esta denuncia arranca la fase judicial, que no tiene un primer acto concreto localizado."
+    descripcion: "El concejal de Urbanismo, Francisco Espada (PSOE), hace públicos los hechos y anuncia que el asunto se llevará al juzgado. La fecha es la de publicación de la noticia; la detección del doble contrato se produjo en los días previos. Se anunció el traslado de los hechos al juzgado, sin que se haya localizado el primer acto judicial concreto."
     type: "denuncia"
     urls:
       - "https://www.diariosur.es/v/20111019/campo-gibraltar/consistorio-denunciara-doble-venta-20111019.html"
@@ -164,5 +164,4 @@ cronologia:
 - **Titularidad del contrato de 2012.** El reclamante sostiene que el contrato de 2 de marzo de 2012 se suscribió con el Ayuntamiento; el alcalde afirma que quien firmó fue Emusvil, la sociedad municipal, no el Ayuntamiento, y que el acuerdo no pasó por el Consejo de Administración. Se recogen ambas versiones.
 - **Intervención del alcalde en el pleno de 2016.** La frase sobre la «grandísima amistad» con Alejandro Sánchez y el propósito de evitar su condena es una respuesta irónica del alcalde en una discusión política; no consta como reconocimiento de hechos.
 - **Juan Carlos Juárez.** Fue alcalde durante la primera venta (6 de mayo de 2009), pero no consta imputación suya en esta causa; su inhabilitación de 2009 se produjo en el caso Palex, ajeno a este procedimiento.
-- **Datos personales.** No se publican el NIF ni el domicilio del reclamante que figuran en el acta.
 - **Nota municipal de 2016 sin fecha.** La información del Ayuntamiento sobre la reunión del Consejo de Administración de Emusvil que rechazó por unanimidad pagar los intereses no muestra fecha de publicación en la página; por su contenido (aprobación de las cuentas de 2015 y referencia al pleno de abril) corresponde a 2016.
