@@ -11,7 +11,7 @@ descripcion: |
 
   La operación policial se abrió el 13 de abril de 2010 con una primera tanda de detenciones, entre ellas las del exdirector general de Tributos Jorge Sainz de Baranda, el exgerente de CAIB Patrimoni Jaume Vidal y el empresario Miquel Llabrés Feliu; el 14 de abril se detuvo al exdirector general de Emergencias Joan Pol, que se presentó voluntariamente, y el 15 de abril al exsecretario de actas Fernando Morell Pou, con lo que la fase inicial sumó siete detenidos. La instrucción la inició la jueza suplente del Juzgado de Instrucción núm. 1 de Palma Margarita Bosch y continuó después el titular Juan Catany; ya en 2017 el mismo juzgado estaba a cargo de Juan Manuel Sobrino, que dictó el sobreseimiento. A lo largo de siete años se imputó a un número de personas que las fuentes sitúan entre 17 y 19, entre exaltos cargos del Govern, empresarios y directivos. Los delitos investigados fueron, según los casos, malversación de caudales públicos, prevaricación, cohecho, fraude a la Administración y tráfico de influencias. Estuvieron imputados, entre otros, el exconseller de Economía Lluís Ramis d'Ayreflor, los exdirectores generales Jorge Sainz de Baranda y Joan Pol, el exgerente Jaume Vidal, el constructor Miquel Llabrés Feliu, el expresident Gabriel Cañellas y los empresarios Jaume Fluxà y Raúl Julián.
 
-  En febrero de 2017 la Fiscalía Anticorrupción y la Abogacía de la Comunitat Autònoma pidieron el sobreseimiento de la pieza principal al concluir que no se había acreditado un perjuicio económico efectivo para la Administración, aunque señalaron la existencia de irregularidades en la tramitación de los contratos. El juez Juan Manuel Sobrino dictó el sobreseimiento provisional de la pieza principal, que la prensa dio a conocer el 7 de marzo de 2017; la fecha exacta del auto no consta en las fuentes consultadas. El sobreseimiento es provisional y susceptible de reapertura. La causa mantuvo abierta una pieza separada relativa al pago de 120.300 euros por la empresa Iturri al exdirector general Joan Pol por tareas de asesoramiento prohibidas a un funcionario: el 17 de enero de 2018 —noticia publicada el día 18— Pol fue condenado por conformidad a una multa de 3.600 euros y dos años de inhabilitación por negociaciones prohibidas, y un directivo de Iturri también fue condenado por falsedad documental; no consta resolución que acredite la firmeza de estas condenas. En cuanto al alcance económico, las cifras publicadas sobre lo cobrado por Atlas Capital varían entre los 550.000 y los 610.000 euros (una parte de las fuentes redondea en 600.000 y las proximidades de la instrucción citan 609.000), por lo que el importe exacto no está cerrado; se trata del volumen de pagos documentado, no de un perjuicio económico declarado judicialmente. No se han localizado noticias posteriores a 2018 sobre el conjunto de la causa ni consta el resultado de eventuales recursos, por lo que el estado global actual no está verificado.
+  En febrero de 2017 la Fiscalía Anticorrupción y la Abogacía de la Comunitat Autònoma pidieron el sobreseimiento de la pieza principal al concluir que no se había acreditado un perjuicio económico efectivo para la Administración, aunque señalaron la existencia de irregularidades en la tramitación de los contratos. El juez Juan Manuel Sobrino acordó el sobreseimiento provisional de la pieza principal, que la prensa dio a conocer el 7 de marzo de 2017; la fecha exacta del auto no consta en las fuentes consultadas, y su carácter provisional no permite por sí solo afirmar ni negar que la resolución sea firme. La causa mantuvo abierta una pieza separada relativa al pago de 120.300 euros por la empresa Iturri al exdirector general Joan Pol por tareas de asesoramiento prohibidas a un funcionario: el 17 de enero de 2018 —noticia publicada el día 18— Pol fue condenado por conformidad a una multa de 3.600 euros y dos años de inhabilitación por negociaciones prohibidas, y un directivo de Iturri también fue condenado por falsedad documental; no consta resolución que acredite la firmeza de estas condenas. En cuanto al alcance económico, las cifras publicadas sobre lo cobrado por Atlas Capital varían entre los 550.000 y los 610.000 euros (una parte de las fuentes redondea en 600.000 y las proximidades de la instrucción citan 609.000), por lo que el importe exacto no está cerrado; se trata del volumen de pagos documentado, no de un perjuicio económico declarado judicialmente. No se han localizado noticias posteriores a 2018 sobre el conjunto de la causa ni consta el resultado de eventuales recursos, por lo que el estado global actual no está verificado.
 
 resumen: "Investigación sobre la contratación de la consultora Atlas Capital por la empresa pública CAIB Patrimoni durante el Govern Matas (PP) en Baleares: la pieza principal fue sobreseída provisionalmente en 2017 y una pieza separada se saldó en 2018 con una condena por conformidad a Joan Pol, sin que se haya verificado el estado global actual de la causa"
 coste: 600000
@@ -65,11 +65,11 @@ implicados:
 
   - nombre: "Federico Rodríguez Cerdá"
     cargo: "Empresario, administrador de Gestión de Proyectos Balear (GPB)"
-    rol: "Detenido en abril de 2010 e imputado por malversación; declaró el 23 de junio de 2010 y negó los hechos. La pieza principal fue sobreseída provisionalmente en 2017"
+    rol: "Detenido en abril de 2010 e imputado por malversación; declaró ante el juez el 23 de junio de 2010, fecha que consta en fuentes secundarias. En su declaración policial de abril, recogida por la prensa, había admitido que manejaba información del concurso del parque de bomberos antes de su adjudicación. La pieza principal fue sobreseída provisionalmente en 2017"
 
   - nombre: "Juan José Sedano"
     cargo: "Excomercial de Sa Nostra Renting"
-    rol: "Imputado; declaró el 24 de junio de 2010 y reconoció haber manejado información del concurso del parque de bomberos antes de su publicación. La pieza principal fue sobreseída provisionalmente en 2017"
+    rol: "Imputado; declaró ante el juez el 24 de junio de 2010, después de que su comparecencia quedara suspendida el día 23, y reconoció que sus clientes disponían de borradores del pliego del parque de bomberos antes de su publicación, aunque sostuvo que él solo trabajaba sobre hipótesis de financiación. La pieza principal fue sobreseída provisionalmente en 2017"
 
 tags:
   - "corrupción"
@@ -135,13 +135,21 @@ cronologia:
       - "https://elpais.com/diario/2010/06/23/espana/1277244013_850215.html"
 
   - fecha: "2010-06-23"
-    titulo: "Declaraciones de Federico Rodríguez y Juan José Sedano"
-    descripcion: "Tras levantarse el secreto de sumario, el juez instructor reanuda los interrogatorios y toma declaración como imputados a Federico Rodríguez Cerdá (GPB) y a Juan José Sedano (Sa Nostra Renting). Rodríguez admite que antes de la adjudicación manejaba información del concurso del parque de bomberos; Sedano sostiene que varias empresas disponían de cláusulas técnicas antes de su publicación. La prensa sitúa la declaración de Sedano al día siguiente, el 24 de junio."
+    titulo: "Declaración de Federico Rodríguez en la reanudación de los interrogatorios"
+    descripcion: "Tras alzarse el secreto de sumario, el juez instructor Juan Catany reanuda los interrogatorios del caso. La prensa de ese día —un anuncio, no una crónica— recoge las providencias que fijaban las comparecencias de Juan José Sedano (10:00) y de Federico Rodríguez Cerdá (12:00); la de Sedano quedó suspendida y se celebró el 24 de junio. En su declaración policial de abril, recogida entonces por la prensa, Rodríguez había admitido que manejaba información del concurso del parque de bomberos antes de su adjudicación. La fecha de la comparecencia de Rodríguez ante el juez consta en fuentes secundarias; no se ha localizado una crónica del acto."
     type: "declaración"
     relevancia: "media"
     urls:
       - "https://www.elmundo.es/elmundo/2010/06/23/baleares/1277279574.html"
       - "https://www.ultimahora.es/noticias/local/2010/06/22/13455/el-juez-reanuda-manana-los-interrogatorios-del-caso-bomsai-tras-alzarse-el-secreto-de-sumario.html"
+
+  - fecha: "2010-06-24"
+    titulo: "Declaración de Juan José Sedano tras suspenderse la del día anterior"
+    descripcion: "El excomercial de Sa Nostra Renting Juan José Sedano declara durante casi tres horas ante el titular del Juzgado de Instrucción núm. 1 de Palma, Juan Catany, después de que su comparecencia quedara suspendida el 23 de junio. Reconoce ante el juez que trabajó con clientes que disponían de borradores del pliego del concurso del parque de bomberos antes de su publicación y sostiene que él solo operaba sobre hipótesis de financiación; matiza así su declaración policial de abril, en la que había admitido conocer partes del pliego antes del concurso."
+    type: "declaración"
+    relevancia: "media"
+    urls:
+      - "https://www.ultimahora.es/noticias/local/2010/06/24/13629/un-responsable-de-sa-nostra-reconoce-que-sus-clientes-tenian-informacion-privilegiada.html"
 
   - fecha: "2011-05-10"
     titulo: "Interrogatorio de los empresarios de Atlas Capital"
@@ -162,8 +170,8 @@ cronologia:
       - "https://www.dbalears.cat/balears/politica/2011/05/11/252139/la-fiscalia-demana-la-imputacio-de-dol-a-mulet-al-cas-bomsai.html"
 
   - fecha: "2011-11-09"
-    titulo: "El juez anula las fianzas de tres imputados"
-    descripcion: "El juez instructor del caso Bomsai, Juan Catany, deja sin efecto las medidas cautelares económicas impuestas a Lluís Ramis d'Ayreflor, Joan Pol y Jorge Sainz de Baranda, por un total de 130.000 euros, con la opinión contraria de la Fiscalía y el visto bueno de la Abogacía de la Comunitat. Los tres mantienen la condición de imputados. El juez rechaza sobreseer la causa respecto a ellos."
+    titulo: "Se conoce la anulación de las fianzas de tres imputados"
+    descripcion: "El juez instructor del caso Bomsai, Juan Catany, deja sin efecto las medidas cautelares económicas impuestas a Lluís Ramis d'Ayreflor, Joan Pol y Jorge Sainz de Baranda, por un total de 130.000 euros, con la opinión contraria de la Fiscalía y el visto bueno de la Abogacía de la Comunitat. Los tres mantienen la condición de imputados. El juez rechaza sobreseer la causa respecto a ellos. La noticia se publica el 9 de noviembre de 2011; el auto no lleva fecha expresa en la información consultada."
     type: "investigación"
     relevancia: "media"
     urls:
@@ -189,8 +197,8 @@ cronologia:
       - "https://www.diariodemallorca.es/mallorca/2017/03/09/juez-archiva-caso-bomsai-renunciar-3452474.html"
 
   - fecha: "2017-09-07"
-    titulo: "La Audiencia de Palma confirma la continuación de una pieza separada"
-    descripcion: "La Sección Segunda de la Audiencia Provincial de Palma desestima el recurso de un empresario investigado en una pieza separada del caso Bomsai y confirma la continuación del proceso por presuntos delitos de negociaciones prohibidas, cohecho y falsedad, en relación con los pagos hechos al exdirector general Joan Pol por la construcción del parque de bomberos. El grueso de la causa permanecía archivado."
+    titulo: "Se conoce que la Audiencia de Palma confirma la continuación de una pieza separada"
+    descripcion: "La Sección Segunda de la Audiencia Provincial de Palma desestima el recurso de un empresario investigado en una pieza separada del caso Bomsai y confirma la continuación del proceso por presuntos delitos de negociaciones prohibidas, cohecho y falsedad, en relación con los pagos hechos al exdirector general Joan Pol por la construcción del parque de bomberos. El grueso de la causa permanecía archivado. La noticia se publica el 7 de septiembre de 2017; el auto no lleva fecha expresa en la información consultada."
     type: "recurso"
     relevancia: "media"
     urls:
@@ -207,3 +215,16 @@ cronologia:
       - "https://es.ara.cat/sociedad/empresario-investigado-caso-bomberos-condenado-caso-similar_1_4272637.html"
 
 ---
+
+## Incertidumbres y fuentes parciales
+
+Esta ficha se apoya en fuentes periodísticas, algunas consultadas solo por extracto, y no en resoluciones judiciales primarias descargables (auto de sobreseimiento, sentencia de conformidad). Las limitaciones principales son:
+
+- **Fecha del auto de sobreseimiento de la pieza principal (2017):** solo consta la publicación periodística del 7 de marzo de 2017; la fecha propia del auto no figura en las fuentes consultadas.
+- **Firmeza:** no consta resolución que acredite la firmeza de la condena por conformidad de Joan Pol (17 de enero de 2018) ni de la del directivo de Iturri. El carácter provisional del sobreseimiento de 2017 no permite por sí solo afirmar ni negar que la resolución sea firme.
+- **Fechas de publicación frente a fechas de resolución:** la anulación de fianzas de tres imputados y el auto de la Audiencia de Palma sobre la pieza separada se conocen solo por noticia (9 de noviembre de 2011 y 7 de septiembre de 2017, respectivamente); la fecha propia de esas resoluciones no consta.
+- **Declaraciones de junio de 2010:** la comparecencia de Federico Rodríguez ante el juez (23 de junio) consta en fuentes secundarias y en el anuncio de prensa de ese día, no en una crónica del acto; la de Juan José Sedano se celebró el 24 de junio, tras suspenderse la prevista para el 23.
+- **Cifras discrepantes:** el número de imputados oscila entre 17 y 19; lo cobrado por Atlas Capital se sitúa entre unos 550.000 y 610.000 euros (con redondeos a 600.000); las penas del directivo de Iturri varían según la fuente (multa de 10.800 euros frente a seis meses de prisión y 3.600 euros).
+- **Estado global:** no se han localizado noticias posteriores a enero de 2018 ni consta el resultado de eventuales recursos. La ausencia de noticias no confirma el cierre ni la firmeza de la causa.
+
+> Nota metodológica: el motor de búsqueda principal devolvió error de autenticación (401) durante la revisión; los reintentos con otros buscadores no localizaron novedades posteriores a 2018. Las fuentes que solo se contrastaron por extracto quedan registradas como tales en el informe de revisión.
