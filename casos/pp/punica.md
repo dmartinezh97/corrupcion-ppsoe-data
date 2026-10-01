@@ -5,15 +5,15 @@ completado: false
 año: 2014
 fechaInicio: 2014-10-27
 fechaFin: ""
-estado: "activo (condenas de primera instancia recurribles y varios juicios pendientes)"
+estado: "activo"
 descripcion: |
-  El Caso Púnica, cuyo nombre policial alude al granado (Punica granatum) en referencia velada a Francisco Granados, es una de las mayores macrocausas de corrupción vinculadas a la contratación pública en España. El 27 de octubre de 2014, en una operación coordinada por el juez Eloy Velasco, la Unidad Central Operativa (UCO) de la Guardia Civil detuvo a medio centenar de políticos, concejales, funcionarios y empresarios, acusados de integrar una trama que adjudicó contratos públicos por valor de unos 250 millones de euros a cambio de comisiones ilegales del 2 al 3 % que, según la investigación, se blanqueaban mediante un entramado societario. La red operaba principalmente en la Comunidad de Madrid, con ramificaciones en Murcia, León y Valencia, e intervino sobre todo en ayuntamientos y organismos gobernados por el PP, aunque también se sentaron en el banquillo y fueron condenados cargos del PSOE y de formaciones independientes.
+  El Caso Púnica, cuyo nombre policial alude al granado (Punica granatum) en referencia velada a Francisco Granados, es una de las mayores macrocausas de corrupción vinculadas a la contratación pública en España. El 27 de octubre de 2014, en una operación coordinada por el juez Eloy Velasco, la Unidad Central Operativa (UCO) de la Guardia Civil detuvo a medio centenar de políticos, concejales, funcionarios y empresarios, a los que la investigación atribuyó integrar una trama que habría adjudicado contratos públicos por un volumen cercano a los 250 millones de euros a cambio de comisiones del 2 al 3 % que, según el sumario, se blanqueaban mediante un entramado societario. Esa cifra corresponde al importe de los contratos investigados, no a un perjuicio económico declarado probado. La red operaba principalmente en la Comunidad de Madrid, con ramificaciones en Murcia, León y Valencia, e intervino sobre todo en ayuntamientos y organismos gobernados por el PP, aunque también fueron juzgados y condenados cargos del PSOE y de una formación independiente.
 
   La trama se articulaba en torno a Francisco Granados, exsecretario general del PP de Madrid y consejero de la Comunidad, y al empresario David Marjaliza, a quienes la investigación sitúa coordinando la adjudicación irregular de contratos de eficiencia energética a la multinacional Cofely (filial de GDF Suez) en municipios como Parla (54,7 millones), Móstoles (60,4 millones), Valdemoro (50,3 millones) y Collado Villalba (35,5 millones). La instrucción investigó también una presunta caja B del PP de Madrid que habría financiado irregularmente campañas electorales entre 2003 y 2011, mediante donaciones de empresarios a través de la fundación Fundescam, facturas por servicios inexistentes y sobrecostes en contratos de eventos musicales adjudicados a empresas como Waiter Music, de José Luis Huerta (fallecido en 2020 y no juzgado).
 
-  La macrocausa se dividió en una docena de piezas separadas a partir de 2015. La pieza principal (pieza 6, contratos de Cofely) se juzgó entre abril y septiembre de 2025 y fue sentenciada el 22 de diciembre de 2025: la Audiencia Nacional condenó a 29 de las 37 personas físicas y jurídicas acusadas —entre ellas seis exalcaldes y varios directivos de Cofely— y absolvió a los exregidores de Valdemoro y Almendralejo. La pieza murciana (reputación en internet) fue sentenciada en septiembre de 2025 con penas de hasta cuatro años, recurribles. El 2 de julio de 2026 la Audiencia condenó a Granados a dos años y medio de cárcel por la pieza 7 (Waiter Music). Esperanza Aguirre, Cristina Cifuentes e Ignacio González llegaron a ser imputados en 2019 en la pieza sobre financiación del PP de Madrid y fueron posteriormente sobreseídos (Cifuentes en abril de 2021; Aguirre y González en octubre de 2022, confirmado por la Sala en noviembre de 2023). En mayo de 2026 se abrió juicio oral contra Granados y más de 40 acusados en la pieza 8 (suelo público y obras de Metro). Al cierre de esta revisión, varias sentencias están pendientes de recurso y varios juicios siguen pendientes.
+  La macrocausa se dividió en una docena de piezas separadas a partir de 2015. La pieza principal (pieza 6, contratos de Cofely) se juzgó entre abril y septiembre de 2025 y fue sentenciada el 22 de diciembre de 2025: la Audiencia Nacional condenó a 29 de las 37 personas físicas y jurídicas acusadas —entre ellas seis exalcaldes y varios directivos de Cofely— y absolvió a los exregidores de Valdemoro y Almendralejo; en un auto posterior rectificó a la baja la pena de David Marjaliza, de ocho años y dos meses a cinco. La pieza murciana (reputación en internet) fue sentenciada en septiembre de 2025 con penas de hasta cuatro años, recurribles. El 2 de julio de 2026 la Audiencia condenó a Granados a dos años y medio de cárcel por la pieza 7 (Waiter Music). En septiembre de 2026 el Tribunal Supremo confirmó las inhabilitaciones de la pieza de León (publicidad institucional), con el expresidente de la Diputación Marcos Martínez Barazón entre los condenados. En la pieza sobre financiación del PP de Madrid fueron imputados Ignacio González (2018) y, en 2019, Esperanza Aguirre y Cristina Cifuentes; sus causas fueron archivadas (Cifuentes en abril de 2021; Aguirre y González en octubre de 2022, confirmado por la Sala en noviembre de 2023). En mayo de 2026 se abrió juicio oral contra Granados y más de 40 acusados en la pieza 8 (suelo público y obras de Metro). Al cierre de esta revisión, varias sentencias están pendientes de recurso y varios juicios siguen pendientes.
 
-resumen: "Macrotrama de corrupción con epicentro en la Comunidad de Madrid que adjudicó unos 250 millones en contratos públicos a cambio de comisiones ilegales"
+resumen: "Macrotrama de corrupción con epicentro en la Comunidad de Madrid; la investigación sitúa en unos 250 millones el volumen de contratos adjudicados a cambio de comisiones"
 coste: 250000000
 lugar: "Comunidad de Madrid (principalmente), Región de Murcia, León, Valencia"
 tribunal:
@@ -27,7 +27,7 @@ implicados:
 
   - nombre: "David Marjaliza López"
     cargo: "Empresario y constructor"
-    rol: "Colaborador con la Fiscalía Anticorrupción y 'conseguidor' de contratos para Cofely. Condenado el 22-12-2025 a ocho años y dos meses de cárcel en la pieza de Cofely (recurrible)."
+    rol: "Colaborador con la Fiscalía Anticorrupción y 'conseguidor' de contratos para Cofely. Condenado el 22-12-2025 en la pieza de Cofely; la Audiencia Nacional rectificó después la pena a cinco años de cárcel por un error material, conforme al acuerdo de conformidad con la Fiscalía (recurrible)."
 
   - nombre: "Esperanza Aguirre Gil de Biedma"
     cargo: "Expresidenta de la Comunidad de Madrid (2003-2012)"
@@ -67,10 +67,10 @@ implicados:
 
   - nombre: "Agustín Juárez López de Coca"
     cargo: "Exalcalde de Collado Villalba (PP)"
-    rol: "Condenado el 22-12-2025 a cuatro años y medio de cárcel y cinco de inhabilitación en la pieza de Cofely (recurrible)."
+    rol: "Condenado el 22-12-2025 a cuatro años y medio de cárcel en la pieza de Cofely (recurrible)."
 
   - nombre: "Antonio Sánchez Fernández"
-    cargo: "Exalcalde de Serranillos del Valle (elegido en listas del PSOE; posteriormente vinculado a Unión Demócrata Madrileña)"
+    cargo: "Exalcalde de Serranillos del Valle (Unión Demócrata Madrileña, UDMA)"
     rol: "Confesó los hechos. Condenado el 22-12-2025 a cerca de tres años de cárcel por fraude, prevaricación, cohecho y tráfico de influencias en la pieza de Cofely (recurrible)."
 
   - nombre: "Carlos Alberto Estrada"
@@ -106,8 +106,12 @@ implicados:
     rol: "Condenado en septiembre de 2025 a cuatro años de cárcel por fraude y cohecho en la pieza murciana; sentencia recurrible."
 
   - nombre: "José Antonio Alonso Conesa"
-    cargo: "Exalcalde de Cartagena (PP)"
+    cargo: "Exalcalde de Cartagena (PSOE, 1991-1995) y empresario"
     rol: "Condenado en septiembre de 2025 a cuatro años de cárcel por fraude y cohecho en la pieza murciana; sentencia recurrible."
+
+  - nombre: "Marcos Martínez Barazón"
+    cargo: "Expresidente de la Diputación de León (PP)"
+    rol: "Condenado por prevaricación en la pieza de León (publicidad institucional) a ocho años y medio de inhabilitación; condena declarada firme por el Tribunal Supremo en septiembre de 2026."
 
 tags:
   - "corrupción"
@@ -140,9 +144,9 @@ cronologia:
     urls:
       - "http://politica.elpais.com/politica/2014/12/17/actualidad/1418825373_293821.html"
 
-  - fecha: 2014-11-04
-    titulo: "Descubierto un exalcalde sacando cajas de documentos de la alcaldía"
-    descripcion: "La Guardia Civil descubre a Antonio Sánchez Fernández, exalcalde de Serranillos del Valle, llevándose cajas con documentación de la alcaldía en un intento de hacer desaparecer pruebas de las adjudicaciones irregulares a Cofely."
+  - fecha: 2014-11-03
+    titulo: "Sorprendido un alcalde de Serranillos sacando cajas de documentos de la alcaldía"
+    descripcion: "La Guardia Civil interviene al alcalde de Serranillos del Valle, Antonio Sánchez Fernández (UDMA), cuando se llevaba cajas con documentación de su despacho. Según el auto del juez Eloy Velasco, los papeles podrían ser documentos no personales y el regidor podría estar tratando de hacer desaparecer pruebas, por lo que ordena a la UCO revisarlos e incautarse de lo necesario; esa misma tarde presenta su dimisión. La atribución de la destrucción de pruebas es una hipótesis recogida en el auto, no un hecho declarado probado."
     type: "investigación"
     urls:
       - "http://www.elmundo.es/madrid/2014/11/03/545789ae268e3ea67e8b4585.html"
@@ -193,7 +197,7 @@ cronologia:
 
   - fecha: 2019-03-14
     titulo: "El Supremo confirma dos años de cárcel para Granados por el 'chivatazo'"
-    descripcion: "El Tribunal Supremo ratifica la condena de dos años de prisión impuesta a Francisco Granados por aprovechamiento de secreto, al haberse beneficiado de la información que le filtró un guardia civil sobre la investigación de la UCO. El alto tribunal apreció que la revelación causó un grave daño a la investigación y permitió ocultar dinero."
+    descripcion: "El Tribunal Supremo ratifica en casación la condena de dos años de prisión impuesta a Francisco Granados por aprovechamiento de secreto, al haberse beneficiado de la información que le filtró un guardia civil sobre la investigación de la UCO, así como las penas de José Manuel Rodríguez Talamino y José Luis Caro Vinagre. El alto tribunal apreció que la revelación causó un grave daño a la investigación y facilitó a los investigados adoptar medidas de protección, incluidas conversaciones orientadas a la desaparición de documentos. La condena quedó así firme."
     type: "sentencia"
     urls:
       - "https://www.elespanol.com/espana/tribunales/20190314/supremo-confirma-condena-carcel-granados-chivatazo-punica/383212056_0.html"
@@ -201,7 +205,7 @@ cronologia:
 
   - fecha: 2019-09-02
     titulo: "Imputación de Esperanza Aguirre y Cristina Cifuentes"
-    descripcion: "El juez Manuel García Castellón imputa a las expresidentas de la Comunidad de Madrid Esperanza Aguirre y Cristina Cifuentes, junto a otras personas, por presunta financiación ilegal del PP de Madrid. Con esta decisión, tres expresidentes madrileños del PP quedaron imputados simultáneamente: Aguirre, Cifuentes e Ignacio González."
+    descripcion: "El juez Manuel García Castellón imputa a la expresidenta de la Comunidad de Madrid Esperanza Aguirre y a Cristina Cifuentes, junto a otras personas, por presunta financiación ilegal del PP de Madrid. Se suman así a Ignacio González, imputado en febrero de 2018 en la misma pieza."
     type: "imputación"
     urls:
       - "https://www.publico.es/politica/expresidentas-madrid-imputadas-juez-imputa-aguirre-cifuentes-trama-corrupta-punica.html"
@@ -255,7 +259,7 @@ cronologia:
 
   - fecha: 2025-09-08
     titulo: "Primeras condenas en la pieza murciana (recurribles)"
-    descripcion: "La Audiencia Nacional condena a cuatro años de prisión, entre otros, al exconsejero murciano Juan Carlos Ruiz, al exalcalde de Cartagena José Antonio Alonso, a la exdirectora del Instituto de Turismo y al empresario Alejandro de Pedro, por fraude y cohecho en la trama de reputación en internet de la rama murciana. La sentencia, dictada unos once años después de los hechos, es recurrible ante el Tribunal Supremo."
+    descripcion: "La Audiencia Nacional condena a cuatro años de prisión, entre otros, al exconsejero murciano Juan Carlos Ruiz (PP), al exalcalde de Cartagena José Antonio Alonso (PSOE), a la exdirectora del Instituto de Turismo y al empresario Alejandro de Pedro, por fraude y cohecho en la trama de reputación en internet de la rama murciana. La sentencia, dictada unos once años después de los hechos, es recurrible ante el Tribunal Supremo."
     type: "sentencia"
     urls:
       - "https://www.ondacero.es/emisoras/murcia/murcia/noticias/condenas-cuatro-anos-carcel-exdirigentes-trama-murciana-punica_2025090968bff2edbf8802738973e9e0.html"
@@ -269,6 +273,13 @@ cronologia:
       - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-condena-a-penas-de-hasta-8-anos-carcel-por-la-adjudicacion-de-contratos-de-eficiencia-energetica-en-ayuntamientos-de-la-Comunidad-de-Madrid"
       - "https://www.rtve.es/noticias/20251222/condenados-prision-seis-exalcaldes-comunidad-madrid-punica/16870583.shtml"
       - "https://cadenaser.com/nacional/2025/12/22/la-audiencia-nacional-condena-a-cinco-exalcaldes-del-pp-de-la-comunidad-de-madrid-y-uno-del-psoe-por-el-caso-punica-cadena-ser/"
+
+  - fecha: 2026-03-02
+    titulo: "La Audiencia Nacional rectifica a cinco años la pena de Marjaliza en la pieza de Cofely"
+    descripcion: "La Sección Primera de la Sala de lo Penal de la Audiencia Nacional rebaja de ocho años y dos meses a cinco años la pena de David Marjaliza en la pieza de Cofely, mediante un auto de rectificación de un error material en la determinación de la pena, coherente con el acuerdo de conformidad alcanzado con la Fiscalía Anticorrupción. El contenido del auto se conoce a comienzos de marzo de 2026."
+    type: "sentencia"
+    urls:
+      - "https://cadenaser.com/cmadrid/2026/03/02/rebajan-de-8-a-5-anos-de-carcel-la-pena-al-conseguidor-de-la-punica-marjaliza-por-los-contratos-con-cofely-ser-madrid-sur/"
 
   - fecha: 2026-05-22
     titulo: "Auto de apertura de juicio oral de la pieza 8 (suelo público y Metro)"
@@ -286,19 +297,31 @@ cronologia:
       - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-condena-a-dos-anos-y-seis-meses-de-carcel-al-exconsejero-de-la-Presidencia-de-la-Comunidad-de-Madrid-Francisco-Granados-por-delitos-de-fraude-continuado-y-prevaricacion"
       - "https://www.infobae.com/espana/2026/07/02/la-audiencia-nacional-condena-a-francisco-granados-a-dos-anos-y-medio-de-carcel-por-amanar-contratos-publicos-en-favor-de-una-empresa-de-festejos-del-caso-punica"
       - "https://www.elconfidencial.com/espana/2026-07-02/la-audiencia-nacional-condena-a-francisco-granado-a-prision_4382517"
+
+  - fecha: 2026-09-24
+    titulo: "El Supremo confirma las condenas de la pieza de León (publicidad institucional)"
+    descripcion: "El Tribunal Supremo declara firmes las condenas por prevaricación dictadas en la pieza leonesa de Púnica, relativas a la contratación irregular de publicidad institucional: hasta ocho años y medio de inhabilitación para el expresidente de la Diputación de León Marcos Martínez Barazón (PP) y entre cuatro y ocho años de inhabilitación para el empresario Alejandro de Pedro, el exdiputado provincial del PP Pedro Vicente Sánchez y el interventor Manuel Jesús López. Con esta resolución queda cerrada judicialmente la pieza leonesa."
+    type: "sentencia"
+    urls:
+      - "https://ileon.eldiario.es/politica/supremo-confirma-ocho-anos-medio-inhabilitacion-expresidente-diputacion-leon-trama-punica_1_13534860.html"
 ---
 
 # Caso Púnica
 
 ## Estado de la revisión (2026-10-01)
 
-Ficha revisada con fuentes judiciales (CGPJ/Audiencia Nacional) y prensa contrastada. Se han actualizado las condenas dictadas después de 2025, se han corregido errores de atribución política y de género (Ignacio González es expresidente, no expresidenta) y se han separado sentencia y firmeza.
+Ficha revisada con fuentes judiciales (CGPJ/Audiencia Nacional/Tribunal Supremo) y prensa contrastada. Se han corregido la filiación política de dos implicados, la fecha del incidente de las cajas de Serranillos, el estado procesal y el tratamiento del importe económico, y se han separado primera instancia y firmeza. Se incorporan novedades de 2026: la rectificación a la baja de la pena de Marjaliza y la confirmación por el Supremo de las condenas de la pieza leonesa.
+
+Esta revisión queda registrada como **pendiente**: persisten lagunas de investigación sustantivas (firmeza de varias resoluciones, número definitivo de piezas y documentación judicial primaria no descargada).
 
 ## Incertidumbres y limitaciones
 
-- **Firmeza de las sentencias.** Las sentencias de la pieza 6 (Cofely, 22-12-2025), de la pieza 7 (Waiter Music, 02-07-2026) y de la rama murciana (septiembre de 2025) son de primera instancia y estaban recurridas o pendientes de recurso en la fecha de esta revisión. No consta que ninguna de ellas sea firme a 2026-10-01.
+- **Firmeza de las sentencias.** Son firmes la condena de Granados por el 'chivatazo' (confirmada por el Supremo en 2019) y las inhabilitaciones de la pieza de León (confirmadas por el Supremo el 24-09-2026). Las sentencias de la pieza 6 (Cofely, 22-12-2025), de la pieza 7 (Waiter Music, 02-07-2026) y de la rama murciana (septiembre de 2025) son de primera instancia y recurribles; no consta su firmeza a 2026-10-01.
+- **Importe económico.** Los 250 millones de euros son el volumen de contratos públicos atribuido a la trama por la investigación, no un perjuicio económico declarado probado. La pieza de Cofely juzgó contratos por 224 millones (hasta 233 según otras fuentes) y la sentencia de Waiter Music no impuso responsabilidad civil al no quedar probado que los ayuntamientos hubieran abonado gastos no correspondientes a servicios realizados. El campo `coste` mantiene la cifra global de 250 millones como volumen de contratos.
+- **Destrucción de pruebas (Serranillos).** El auto del juez Velasco de 03-11-2014 plantea la posible desaparición de pruebas como hipótesis ("podría estar tratando de hacer desaparecer"), no como hecho probado, y la UCO intervino precisamente para evitarlo.
+- **Filiación política de Antonio Sánchez Fernández.** Consta como alcalde de UDMA (El Mundo, 2014; Cadena SER, 2025); algunas piezas periodísticas posteriores lo engloban entre los regidores del PP. No se ha localizado fuente histórica que acredite su elección en listas del PSOE, por lo que se evita esa atribución y se mantiene solo la referencia a UDMA.
+- **Filiación de José Antonio Alonso Conesa.** El País (02-11-2014) y elDiario/Cadena SER (2025) lo identifican como exalcalde socialista de Cartagena (1991-1995) y empresario; no militaba en el PP.
 - **Número de piezas.** La división inicial en doce piezas separadas (2015) es la referencia más consolidada, pero las fuentes discrepan sobre el número de piezas tras las reorganizaciones posteriores (se citan entre once y catorce). Se ha optado por no fijar un número definitivo.
-- **Importe económico.** Los 250 millones de euros corresponden a las cifras difundidas al inicio de la investigación. Los contratos de Cofely enjuiciados en la pieza 6 suman 224 millones, y otras fuentes elevan el conjunto de la pieza a unos 233 millones. El campo `coste` mantiene la cifra global de 250 millones.
-- **Afiliación política de algunos implicados.** Antonio Sánchez Fernández (Serranillos del Valle) fue elegido en listas del PSOE y la prensa posterior lo vincula a Unión Demócrata Madrileña; se refleja esa doble referencia para no atribuir una militancia única sin certeza.
+- **Fecha de la pieza murciana.** La resolución se conoce por noticias fechadas el 8 y el 9 de septiembre de 2025; se ha fijado el 08-09-2025 como fecha del pronunciamiento, con la cautela de que algunas publicaciones la difundieron al día siguiente.
 - **Personas investigadas sin condena.** José Ignacio Echevarría, Beltrán Gutiérrez y los implicados fallecidos (José Luis Huerta) figuran con el estado procesal documentado; no se les atribuyen delitos no confirmados por resolución judicial.
-- **Documentos.** No se han incorporado PDFs locales al repositorio; `documentos` queda como lista vacía. Las resoluciones del CGPJ pueden consultarse en los ECLI ECLI:ES:AN:2025:5625 (pieza 6) y ECLI:ES:AN:2026:2881 (pieza 7).
+- **Documentos.** No se han incorporado documentos judiciales locales al repositorio; `documentos` queda como lista vacía. Las notas de prensa del CGPJ de las sentencias de 2025 y 2026 pueden consultarse en poderjudicial.es.
