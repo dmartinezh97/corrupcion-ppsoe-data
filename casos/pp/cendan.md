@@ -6,7 +6,7 @@ año: 2003
 fechaFin: "2012-12-26"
 estado: "sentencia firme"
 descripcion: |
-  El caso Cendán se refiere a la manipulación del padrón municipal y del censo electoral de Ares (A Coruña) en los meses previos a las elecciones municipales del 25 de mayo de 2003. José Manuel Cendán Fernández fue alcalde de Ares entre 1999 y 2007 por el Partido Popular y en 2003 era también líder y portavoz del PP local. Según la sentencia, entre septiembre de 2002 y marzo de 2003 se produjeron altas irregulares en el padrón de personas que no residían en el municipio; el Instituto Nacional de Estadística (INE) las cifró en 73. La mayoría se inscribieron en inmuebles vinculados a los acusados: en torno a 32 personas en tres pisos de un edificio propiedad de Cendán (la Audiencia fija 32 y algunas crónicas de 2011 señalaban 31) y 12 personas en el piso de la secretaria municipal y entonces pareja del alcalde, Montserrat Rodríguez Sánchez (otras crónicas indican 13). El resto se repartió entre una casa en ruinas, un garaje propiedad de un empresario vinculado al PP ya fallecido (Antonio Castro Pereira, número 10 de la lista popular en 2003) y domicilios inexistentes.
+  El caso Cendán se refiere a la manipulación del padrón municipal y del censo electoral de Ares (A Coruña) en los meses previos a las elecciones municipales del 25 de mayo de 2003. José Manuel Cendán Fernández fue alcalde de Ares entre 1999 y 2007 por el Partido Popular y en 2003 era también líder y portavoz del PP local. Según las crónicas del juicio, entre septiembre de 2002 y marzo de 2003 se produjeron altas irregulares en el padrón de personas que no residían en el municipio; el Instituto Nacional de Estadística (INE) las cifró en 73. La mayoría se inscribieron en inmuebles vinculados a los acusados: en torno a 32 personas en tres pisos de un edificio propiedad de Cendán (las crónicas de la condena señalan 32 y algunas de 2011 señalaban 31) y 12 personas en el piso de la secretaria municipal y entonces pareja del alcalde, Montserrat Rodríguez Sánchez (otras crónicas indican 13). El resto se repartió entre una casa en ruinas, un garaje propiedad de un empresario vinculado al PP ya fallecido (Antonio Castro Pereira, número 10 de la lista popular en 2003) y domicilios inexistentes.
 
   El PP ganó las elecciones municipales de 2003 en Ares por un margen muy estrecho, cifrado en 43 votos por la mayoría de las fuentes (alguna crónica menciona 40). La acusación sostuvo que la operación buscaba asegurar la mayoría absoluta y que, sin esos votos, el PP la habría perdido. La sentencia no declaró que las 73 personas llegaran a votar; según las acusaciones, buena parte de las altas irregulares fueron dadas de baja de oficio antes de los comicios tras la advertencia del INE, si bien al menos un testigo declaró en el juicio haber votado en Ares sin residir allí. Cendán sostuvo durante el proceso que el censo había quedado "limpio" y que no existió delito.
 
@@ -40,7 +40,12 @@ tags:
 
 impactoSocial: "El caso tuvo repercusión en Ares y en la política local gallega: la condena de 2012, confirmada en diciembre de ese año, fue superior a la solicitada por la Fiscalía. Cendán dimitió como concejal en enero de 2013 y el asunto derivó en enfrentamientos políticos locales, sin que se hayan localizado noticias posteriores sobre el proceso."
 
-documentos: []
+documentos:
+  - fecha: "2012-12-26"
+    titulo: "Sentencia 619/2012 de la Audiencia Provincial de A Coruña, Sección Primera (SAP C 3600/2012)"
+    filetype: "pdf"
+    paginas: 4
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6f3e575c34d7bcb2&encode=true&databasematch=AN"
 
 cronologia:
   - fecha: "2003-05-25"
@@ -65,6 +70,7 @@ cronologia:
     type: "sentencia"
     relevancia: "alta"
     urls:
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6f3e575c34d7bcb2&encode=true&databasematch=AN"
       - "https://www.fiscal.es/documents/20142/136335/Memoria%2B2013%2B%28ejercicio%2B2012%29%2Bde%2Bla%2BFiscal%C3%ADa%2BProvincial%2Bde%2BA%2BCoru%C3%B1a.pdf/5c3de9e6-2ddd-fef0-3c5a-baebcac28f18?t=1531918405782&version=1.1"
       - "https://elpais.com/ccaa/2012/03/21/galicia/1332363083_843727.html"
       - "https://www.elmundo.es/elmundo/2012/03/21/galicia/1332349861.html"
@@ -75,7 +81,7 @@ cronologia:
     type: "sentencia"
     relevancia: "alta"
     urls:
-      - "https://www.poderjudicial.es/search/AN/openDocument/6f3e575c34d7bcb2/20130208"
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6f3e575c34d7bcb2&encode=true&databasematch=AN"
       - "https://diariodeferrol.elidealgallego.com/texto-diario/mostrar/2912259/audiencia-ratifica-condena-exalcalde-ares-delito-electoral"
       - "https://www.laregion.es/galicia/dimite-edil-exalcalde-ares-altero-censo-electoral_1_20130105-2622374.html"
 
@@ -96,3 +102,7 @@ cronologia:
       - "https://elpais.com/ccaa/2013/01/04/galicia/1357302416_058054.html"
       - "https://www.europapress.es/galicia/noticia-exalcalde-ares-pp-condenado-delito-electoral-dice-continuara-partido-segunda-fila-20130104153819.html"
 ---
+
+## Límites de la revisión (2026-10-01)
+
+Se ha comprobado el texto íntegro de la sentencia de apelación 619/2012, de 26 de diciembre, descargado de CENDOJ (cuatro páginas). Reproduce la condena inicial del 15 de marzo de 2012 y declara que contra la sentencia de apelación no cabe recurso. Los hechos probados de primera instancia se dan por reproducidos, por lo que este documento no permite verificar directamente las cifras y la distribución de empadronamientos que describen las crónicas. Persisten las diferencias periodísticas de 31/32 y 12/13 personas y de 40/43 votos. No se ha localizado el texto íntegro de la resolución inicial. La memoria de la Fiscalía se ha localizado mediante un extracto de buscador; el enlace consultado sirve una página HTML y no se incorpora como documento descargable. No se conoce el día exacto del inicio de las irregularidades ni de la denuncia de marzo de 2003. El fallo firme no permite deducir el cumplimiento efectivo de las penas ni la trayectoria posterior de los condenados.
