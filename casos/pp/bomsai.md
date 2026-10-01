@@ -5,15 +5,15 @@ completado: false
 año: 2010
 fechaInicio: 2010-04-13
 fechaFin: ""
-estado: "sobreseimiento"
+estado: "desconocido"
 descripcion: |
-  El caso Bomsai —denominado así por las iniciales de Bombers, Salut i Illes, los edificios públicos implicados— es una investigación judicial sobre la contratación de la consultora Atlas Capital Close Brothers SL por parte de la empresa pública CAIB Patrimoni S.A., dependiente de la Conselleria d'Economia del Govern de les Illes Balears durante la legislatura de Jaume Matas (PP, 2003-2007). La Fiscalía Anticorrupción investigó si el contrato de asistencia técnica para la redacción de los pliegos y el asesoramiento en la concesión de las obras del nuevo parque de bomberos de Palma y de la sede de la Conselleria de Salut se adjudicó mediante un procedimiento negociado sin publicidad, inicialmente por unos 30.000 euros, y si la empresa acabó cobrando alrededor de 600.000 euros, buena parte mediante «honorarios de éxito» del 1,8 % del importe de las obras que abonaban las UTEs adjudicatarias. Según la querella de la Fiscalía, esa cláusula podía encubrir un desvío de fondos públicos.
+  El caso Bomsai —denominado así por las iniciales de Bombers, Salut i Illes, los edificios públicos implicados— es una investigación judicial sobre la contratación de la consultora Atlas Capital Close Brothers SL por parte de la empresa pública CAIB Patrimoni S.A., dependiente de la Conselleria d'Economia del Govern de les Illes Balears durante la legislatura de Jaume Matas (PP, 2003-2007). La Fiscalía Anticorrupción investigó si el contrato de asistencia técnica para la redacción de los pliegos y el asesoramiento en la concesión de las obras del nuevo parque de bomberos de Palma y de la sede de la Conselleria de Salut se adjudicó mediante un procedimiento negociado sin publicidad, inicialmente por unos 30.000 euros, y si la empresa acabó cobrando alrededor de 600.000 euros, buena parte mediante «honorarios de éxito» del 1,8 % del importe de las obras que abonaban las UTEs adjudicatarias. Según la querella de la Fiscalía, esa cláusula podía encubrir un desvío de fondos públicos; el auto que en 2017 sobreseyó la causa consideró que no se había acreditado un perjuicio económico efectivo, de modo que la cifra responde al volumen de pagos documentado y no a un daño declarado judicialmente.
 
-  La operación policial se abrió el 13 de abril de 2010 y en ella fueron detenidas inicialmente siete personas, entre ellas el exdirector general de Tributos Jorge Sainz de Baranda, el exgerente de CAIB Patrimoni Jaume Vidal, el exdirector general de Emergencias Joan Pol, el empresario Miquel Llabrés Feliu y el exsecretario de actas Fernando Morell Pou. La instrucción la inició la jueza suplente del Juzgado de Instrucción núm. 1 de Palma Margarita Bosch y continuó después el titular Juan Catany. A lo largo de siete años se imputó a un número de personas que las fuentes sitúan entre 17 y 19, entre exaltos cargos del Govern, empresarios y directivos. Los delitos investigados fueron, según los casos, malversación de caudales públicos, prevaricación, cohecho, fraude a la Administración y tráfico de influencias. Estuvieron imputados, entre otros, el exconseller de Economía Lluís Ramis d'Ayreflor, los exdirectores generales Jorge Sainz de Baranda y Joan Pol, el exgerente Jaume Vidal, el constructor Miquel Llabrés Feliu, el expresident Gabriel Cañellas y los empresarios Jaume Fluxà y Raúl Julián.
+  La operación policial se abrió el 13 de abril de 2010 con una primera tanda de detenciones, entre ellas las del exdirector general de Tributos Jorge Sainz de Baranda, el exgerente de CAIB Patrimoni Jaume Vidal y el empresario Miquel Llabrés Feliu; el 14 de abril se detuvo al exdirector general de Emergencias Joan Pol, que se presentó voluntariamente, y el 15 de abril al exsecretario de actas Fernando Morell Pou, con lo que la fase inicial sumó siete detenidos. La instrucción la inició la jueza suplente del Juzgado de Instrucción núm. 1 de Palma Margarita Bosch y continuó después el titular Juan Catany; ya en 2017 el mismo juzgado estaba a cargo de Juan Manuel Sobrino, que dictó el sobreseimiento. A lo largo de siete años se imputó a un número de personas que las fuentes sitúan entre 17 y 19, entre exaltos cargos del Govern, empresarios y directivos. Los delitos investigados fueron, según los casos, malversación de caudales públicos, prevaricación, cohecho, fraude a la Administración y tráfico de influencias. Estuvieron imputados, entre otros, el exconseller de Economía Lluís Ramis d'Ayreflor, los exdirectores generales Jorge Sainz de Baranda y Joan Pol, el exgerente Jaume Vidal, el constructor Miquel Llabrés Feliu, el expresident Gabriel Cañellas y los empresarios Jaume Fluxà y Raúl Julián.
 
-  En febrero de 2017 la Fiscalía Anticorrupción y la Abogacía de la Comunitat Autònoma pidieron el sobreseimiento de la pieza principal al concluir que no se había acreditado un perjuicio económico efectivo para la Administración, aunque señalaron la existencia de irregularidades en la tramitación de los contratos. El juez Juan Manuel Sobrino dictó el sobreseimiento provisional de la pieza principal, que la prensa dio a conocer el 7 de marzo de 2017; la fecha exacta del auto no consta en las fuentes consultadas. El sobreseimiento es provisional y, por tanto, susceptible de reapertura, y no equivale a una declaración de inocencia. La causa mantuvo abierta una pieza separada relativa al pago de 120.300 euros por la empresa Iturri al exdirector general Joan Pol por tareas de asesoramiento prohibidas a un funcionario: en enero de 2018 Pol fue condenado por conformidad a una multa y a dos años de inhabilitación por negociaciones prohibidas, y un directivo de Iturri también fue condenado por falsedad documental. No consta en las fuentes consultadas que esa condena sea firme. En cuanto al alcance económico, las cifras publicadas sobre lo cobrado por Atlas Capital varían entre los 550.000 y los 610.000 euros (una parte de las fuentes redondea en 600.000 y las proximidades de la instrucción citan 609.000), por lo que el importe exacto no está cerrado.
+  En febrero de 2017 la Fiscalía Anticorrupción y la Abogacía de la Comunitat Autònoma pidieron el sobreseimiento de la pieza principal al concluir que no se había acreditado un perjuicio económico efectivo para la Administración, aunque señalaron la existencia de irregularidades en la tramitación de los contratos. El juez Juan Manuel Sobrino dictó el sobreseimiento provisional de la pieza principal, que la prensa dio a conocer el 7 de marzo de 2017; la fecha exacta del auto no consta en las fuentes consultadas. El sobreseimiento es provisional y susceptible de reapertura. La causa mantuvo abierta una pieza separada relativa al pago de 120.300 euros por la empresa Iturri al exdirector general Joan Pol por tareas de asesoramiento prohibidas a un funcionario: el 17 de enero de 2018 —noticia publicada el día 18— Pol fue condenado por conformidad a una multa de 3.600 euros y dos años de inhabilitación por negociaciones prohibidas, y un directivo de Iturri también fue condenado por falsedad documental; no consta resolución que acredite la firmeza de estas condenas. En cuanto al alcance económico, las cifras publicadas sobre lo cobrado por Atlas Capital varían entre los 550.000 y los 610.000 euros (una parte de las fuentes redondea en 600.000 y las proximidades de la instrucción citan 609.000), por lo que el importe exacto no está cerrado; se trata del volumen de pagos documentado, no de un perjuicio económico declarado judicialmente. No se han localizado noticias posteriores a 2018 sobre el conjunto de la causa ni consta el resultado de eventuales recursos, por lo que el estado global actual no está verificado.
 
-resumen: "Investigación sobre la contratación de la consultora Atlas Capital por la empresa pública CAIB Patrimoni durante el Govern Matas (PP) en Baleares: la pieza principal fue sobreseída provisionalmente en 2017 y una pieza separada concluyó en 2018 con una condena por conformidad a Joan Pol"
+resumen: "Investigación sobre la contratación de la consultora Atlas Capital por la empresa pública CAIB Patrimoni durante el Govern Matas (PP) en Baleares: la pieza principal fue sobreseída provisionalmente en 2017 y una pieza separada se saldó en 2018 con una condena por conformidad a Joan Pol, sin que se haya verificado el estado global actual de la causa"
 coste: 600000
 lugar: "Palma de Mallorca, Islas Baleares"
 tribunal:
@@ -25,51 +25,51 @@ numeroSentencia: ""
 implicados:
   - nombre: "Lluís Ramis d'Ayreflor"
     cargo: "Exconseller de Economía y Hacienda del Govern Matas (PP)"
-    rol: "Imputado por malversación, cohecho y prevaricación; prisión eludible bajo fianza de 50.000 euros en abril de 2010, con retirada del pasaporte; la fianza fue anulada en noviembre de 2011"
+    rol: "Imputado por malversación, cohecho y prevaricación; prisión eludible bajo fianza de 50.000 euros en abril de 2010, con retirada del pasaporte, fianza anulada en noviembre de 2011. La pieza principal fue sobreseída provisionalmente en 2017"
 
   - nombre: "Jorge Sainz de Baranda"
     cargo: "Exdirector general de Tributos y Recaudación del Govern Matas (PP)"
-    rol: "Detenido el 13 de abril de 2010 e imputado por malversación y prevaricación; fianza de 50.000 euros decretada el 16 de abril de 2010 y anulada en noviembre de 2011"
+    rol: "Detenido el 13 de abril de 2010 e imputado por malversación y prevaricación; fianza de 50.000 euros decretada el 16 de abril de 2010 y anulada en noviembre de 2011. La pieza principal fue sobreseída provisionalmente en 2017"
 
   - nombre: "Joan Pol"
     cargo: "Exdirector general de Emergencias del Govern Matas (PP) y consejero de CAIB Patrimoni"
-    rol: "Detenido el 14 de abril de 2010 e imputado por prevaricación y cohecho en la pieza principal, con fianza de 30.000 euros anulada en noviembre de 2011; condenado por conformidad en enero de 2018 por negociaciones prohibidas a funcionario en una pieza separada sobre el parque de bomberos"
+    rol: "Detenido el 14 de abril de 2010 e imputado por prevaricación y cohecho en la pieza principal, con fianza de 30.000 euros anulada en noviembre de 2011; esta pieza fue sobreseída provisionalmente en 2017. En la pieza separada sobre el parque de bomberos fue condenado por conformidad el 17 de enero de 2018 por negociaciones prohibidas a funcionario, con multa de 3.600 euros y dos años de inhabilitación"
 
   - nombre: "Jaume Vidal"
     cargo: "Exgerente de CAIB Patrimoni S.A."
-    rol: "Detenido el 13 de abril de 2010 e imputado por malversación y prevaricación; sin fianza, se le retiró el pasaporte con obligación de comparecer periódicamente"
+    rol: "Detenido el 13 de abril de 2010 e imputado por malversación y prevaricación; sin fianza, se le retiró el pasaporte con obligación de comparecer periódicamente. La pieza principal fue sobreseída provisionalmente en 2017"
 
   - nombre: "Miquel Llabrés Feliu"
     cargo: "Empresario, propietario de Construccions Llabrés Feliu"
-    rol: "Detenido el 13 de abril de 2010 y puesto en libertad con cargos al día siguiente"
+    rol: "Detenido el 13 de abril de 2010 y puesto en libertad con cargos al día siguiente. La pieza principal fue sobreseída provisionalmente en 2017"
 
   - nombre: "Jaume Fluxà"
     cargo: "Empresario y agente comercial de Atlas Capital en Baleares"
-    rol: "Detenido el 14 de mayo de 2010 y puesto en libertad con cargos el 15 de mayo; imputado por cohecho y fraude a la Administración"
+    rol: "Detenido el 14 de mayo de 2010 y puesto en libertad con cargos el 15 de mayo; imputado por cohecho y fraude a la Administración. La pieza principal fue sobreseída provisionalmente en 2017"
 
   - nombre: "Raúl Julián"
     cargo: "Exsocio director de Atlas Capital Close Brothers SL"
-    rol: "Imputado por su papel en la contratación a través de Atlas Capital; declaró ante el juez en mayo de 2011"
+    rol: "Imputado por su papel en la contratación a través de Atlas Capital; declaró ante el juez en mayo de 2011. La pieza principal fue sobreseída provisionalmente en 2017"
 
   - nombre: "Fernando Morell Pou"
     cargo: "Exsecretario de actas de CAIB Patrimoni S.A."
-    rol: "Detenido el 15 de abril de 2010 y puesto en libertad ese mismo día con cargos"
+    rol: "Detenido el 15 de abril de 2010 y puesto en libertad ese mismo día con cargos. La pieza principal fue sobreseída provisionalmente en 2017"
 
   - nombre: "Gabriel Cañellas"
     cargo: "Expresident del Govern de les Illes Balears (PP)"
-    rol: "Imputado; declaró en sede policial el 28 de abril de 2010 por una factura de su empresa Cañellas Consultores a Atlas Capital y quedó en libertad con cargos"
+    rol: "Imputado; declaró en sede policial el 28 de abril de 2010 por una factura de su empresa Cañellas Consultores a Atlas Capital y quedó en libertad con cargos. La pieza principal fue sobreseída provisionalmente en 2017"
 
   - nombre: "Dolça Mulet"
     cargo: "Exconsellera insular de Deportes y Promoción Sociocultural del Consell de Mallorca (Unió Mallorquina)"
-    rol: "Imputada a raíz de las subvenciones concedidas al empresario Jaume Fluxà; declaró como imputada en mayo de 2012"
+    rol: "Imputada a raíz de las subvenciones concedidas al empresario Jaume Fluxà; declaró como imputada en mayo de 2012. La pieza principal fue sobreseída provisionalmente en 2017"
 
   - nombre: "Federico Rodríguez Cerdá"
     cargo: "Empresario, administrador de Gestión de Proyectos Balear (GPB)"
-    rol: "Detenido en abril de 2010 e imputado por malversación; declaró el 23 de junio de 2010 y negó los hechos"
+    rol: "Detenido en abril de 2010 e imputado por malversación; declaró el 23 de junio de 2010 y negó los hechos. La pieza principal fue sobreseída provisionalmente en 2017"
 
   - nombre: "Juan José Sedano"
     cargo: "Excomercial de Sa Nostra Renting"
-    rol: "Imputado; declaró el 24 de junio de 2010 y reconoció haber manejado información del concurso del parque de bomberos antes de su publicación"
+    rol: "Imputado; declaró el 24 de junio de 2010 y reconoció haber manejado información del concurso del parque de bomberos antes de su publicación. La pieza principal fue sobreseída provisionalmente en 2017"
 
 tags:
   - "corrupción"
@@ -79,7 +79,7 @@ tags:
   - "tráfico de influencias"
   - "contratación irregular"
 
-impactoSocial: "El caso Bomsai fue uno de los procesos de corrupción vinculados al Govern de Jaume Matas en Baleares. Su instrucción se prolongó siete años y terminó con el sobreseimiento provisional de la pieza principal, sin que la mayoría de los imputados llegara a juicio; una pieza separada sobre el parque de bomberos sí concluyó con una condena por conformidad en 2018."
+impactoSocial: "El caso Bomsai fue uno de los procesos de corrupción vinculados al Govern de Jaume Matas en Baleares. Su instrucción se prolongó siete años y la pieza principal fue sobreseída provisionalmente en 2017, sin que la mayoría de los imputados llegara a juicio; una pieza separada sobre el parque de bomberos se saldó en 2018 con una condena por conformidad, cuya firmeza y el estado global actual de la causa no se han podido verificar."
 
 documentos: []
 
@@ -96,7 +96,7 @@ cronologia:
 
   - fecha: "2010-04-14"
     titulo: "Detención de Joan Pol; puesta en libertad de Llabrés Feliu"
-    descripcion: "El exdirector general de Emergencias Joan Pol, que se encontraba fuera de la isla, se presenta voluntariamente en la Jefatura Superior de Policía de Palma y queda detenido; con él la operación suma siete detenidos. Ese mismo día Miquel Llabrés Feliu es puesto en libertad con cargos. Al día siguiente lo será Fernando Morell Pou, que declaró como voluntario."
+    descripcion: "El exdirector general de Emergencias Joan Pol, que se encontraba fuera de la isla, se presenta voluntariamente en la Jefatura Superior de Policía de Palma y queda detenido; con él la operación suma seis detenidos. Ese mismo día Miquel Llabrés Feliu es puesto en libertad con cargos. Al día siguiente queda detenido Fernando Morell Pou, con lo que la fase inicial suma siete detenidos."
     type: "detención"
     relevancia: "alta"
     urls:
@@ -145,10 +145,11 @@ cronologia:
 
   - fecha: "2011-05-10"
     titulo: "Interrogatorio de los empresarios de Atlas Capital"
-    descripcion: "El juez instructor Juan Catany interroga como imputados a Jaume Fluxà y a Raúl Julián, empresarios de Atlas Capital Close Brothers SL. La causa se centra en los aproximadamente 600.000 euros que la consultora habría cobrado por los trabajos de asesoramiento en la construcción de la sede de la Conselleria de Salut y del parque de bomberos de Palma."
+    descripcion: "El juez instructor Juan Catany interroga como imputados a Jaume Fluxà y a Raúl Julián, empresarios de Atlas Capital Close Brothers SL; la prensa confirmó al día siguiente que esas declaraciones se habían celebrado, al informar de que el fiscal pidió la imputación de Dolça Mulet al concluir el interrogatorio. La causa se centra en los aproximadamente 600.000 euros que la consultora habría cobrado por los trabajos de asesoramiento en la construcción de la sede de la Conselleria de Salut y del parque de bomberos de Palma."
     type: "declaración"
     relevancia: "media"
     urls:
+      - "https://www.ultimahora.es/noticias/local/2011/05/11/40050/el-fiscal-del-caso-bomsai-pide-a-la-juez-que-cite-a-dol-a-mulet-como-imputada.html"
       - "https://www.ultimahora.es/noticias/local/2011/05/08/39812/el-juez-interroga-este-martes-como-imputados-a-los-empresarios-de-atlas-jaume-fluxa-y-raul-julian.html"
 
   - fecha: "2011-05-10"
@@ -198,7 +199,7 @@ cronologia:
 
   - fecha: "2018-01-17"
     titulo: "Condena por conformidad en la pieza separada de Joan Pol"
-    descripcion: "Un juzgado de lo penal de Palma condena por conformidad al exdirector general de Emergencias Joan Pol a una multa de 3.600 euros y dos años de inhabilitación para cargos públicos de designación política por un delito de negociaciones prohibidas a funcionarios, por cobrar 120.300 euros de la empresa Iturri mediante facturas falseadas. Un directivo de la compañía también fue condenado por falsedad documental, con penas que las fuentes cifran de forma distinta. La sentencia se adoptó por conformidad; no consta que sea firme."
+    descripcion: "Un juzgado de lo penal de Palma condena por conformidad al exdirector general de Emergencias Joan Pol a una multa de 3.600 euros y dos años de inhabilitación para cargos públicos de designación política por un delito de negociaciones prohibidas a funcionarios, por cobrar 120.300 euros de la empresa Iturri mediante facturas falseadas. La condena se dictó el 17 de enero de 2018 y se conoció por la prensa al día siguiente, según precisa el diario que informó de que Pol había sido condenado «ayer». Un directivo de la compañía también fue condenado por falsedad documental, con penas que las fuentes cifran de forma distinta. La sentencia se adoptó por conformidad; no consta resolución que acredite su firmeza."
     type: "sentencia"
     relevancia: "alta"
     urls:
