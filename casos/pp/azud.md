@@ -140,14 +140,6 @@ cronologia:
       - "https://www.eldiario.es/comunitat-valenciana/valencia/caso-azud-deja-58-imputados-corrupcion-urbanistica-ayuntamiento-valencia-etapa-rita-barbera_1_8931926.html"
       - "https://www.eldiario.es/comunitat-valenciana/diputado-autonomico-pp-jorge-bellver-imputado-caso-azud-corrupcion-urbanistica-valencia-epoca-barbera_1_8945375.html"
 
-  - fecha: "2025-10-24"
-    titulo: "Jorge Bellver, director general de la Generalitat, citado como investigado"
-    descripcion: "El Juzgado de Instrucción número 13 de Valencia cita formalmente como investigado a Jorge Bellver, actual director general de Relaciones con Les Corts de la Generalitat Valenciana de Carlos Mazón (PP). Bellver, exconcejal del equipo de Barberá, figura en una lista de regalos de lujo distribuidos por Jaime Febrer a cargos públicos para asegurarse su favor en las adjudicaciones. La citación supone un nuevo golpe reputacional para el PP valenciano."
-    type: "imputación"
-    urls:
-      - "https://theobjective.com/espana/tribunales/2025-10-24/jorge-bellver-investigado-caso-azud/"
-      - "https://valenciaplaza.com/valenciaplaza/comunitat-valenciana1/el-juez-de-azud-cita-como-investigado-a-jorge-bellver"
-
   - fecha: "2025-06-20"
     titulo: "Informe final de la UCO sobre la 'operación colegios'"
     descripcion: "La Guardia Civil presenta su informe definitivo documentando irregularidades y comisiones en la mayor operación urbanística del caso Azud. Un informe pericial de la Agencia Tributaria concluye que la 'operación colegios' fue 'altamente rentable' para los promotores a costa del Ayuntamiento, con parcelas adquiridas a precio por debajo de mercado sin subasta pública."
@@ -155,6 +147,14 @@ cronologia:
     urls:
       - "https://www.elespanol.com/valencia/20250620/uco-presenta-informe-final-trama-colegios-irregularidades-comisiones-gran-pelotazo-azud/1003743814601_0.html"
       - "https://www.eldiario.es/comunitat-valenciana/informe-hacienda-caso-azud-certifica-pelotazo-promotores-costa-ayuntamiento-rita-barbera_1_12336283.html"
+
+  - fecha: "2025-10-24"
+    titulo: "Jorge Bellver, director general de la Generalitat, citado como investigado"
+    descripcion: "El Juzgado de Instrucción número 13 de Valencia cita formalmente como investigado a Jorge Bellver, actual director general de Relaciones con Les Corts de la Generalitat Valenciana de Carlos Mazón (PP). Bellver, exconcejal del equipo de Barberá, figura en una lista de regalos de lujo distribuidos por Jaime Febrer a cargos públicos para asegurarse su favor en las adjudicaciones. La citación supone un nuevo golpe reputacional para el PP valenciano."
+    type: "imputación"
+    urls:
+      - "https://theobjective.com/espana/tribunales/2025-10-24/jorge-bellver-investigado-caso-azud/"
+      - "https://valenciaplaza.com/valenciaplaza/comunitat-valenciana1/el-juez-de-azud-cita-como-investigado-a-jorge-bellver"
 
   - fecha: "2025-11-01"
     titulo: "Juez avala transferencia de bienes decomisados a la ORGA"
