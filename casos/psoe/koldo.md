@@ -52,7 +52,7 @@ implicados:
 
   - nombre: "Roberto González Arnaiz"
     cargo: "Empresario del sector armamentístico"
-    rol: "Presuntas irregularidades en contratos relacionados con la red de corrupción"
+    rol: "Sin rol judicial acreditado: no se ha localizado ninguna fuente independiente que confirme su identidad ni su vinculación con la trama (revisión pendiente)"
 
   - nombre: "Joseba García Izaguirre"
     cargo: "Hermano de Koldo García"
@@ -63,20 +63,16 @@ implicados:
     rol: "La sentencia declara que Koldo García le entregó personalmente la oferta de Soluciones de Gestión para el suministro de mascarillas; no fue juzgado en la causa"
 
   - nombre: "Leticia Lauffer Medina"
-    cargo: "Pareja sentimental de Víctor de Aldama"
-    rol: "Investigada por posible participación en el blanqueo de capitales de la trama"
+    cargo: "Exdirectora de Wakalua (filial de Globalia)"
+    rol: "Vinculada al caso Koldo por su papel como nexo entre Begoña Gómez y Air Europa; compareció en la comisión de investigación del Senado y en el caso Begoña Gómez. No consta su condición de investigada ni un vínculo sentimental con Víctor de Aldama (dato de la ficha previa no acreditado)"
 
   - nombre: "Claudio Rivas"
-    cargo: "Socio empresarial de Víctor de Aldama"
-    rol: "Presunta participación en fraude fiscal relacionado con la organización criminal"
-
-  - nombre: "María Magdalena Cueto"
-    cargo: "Hermana de Juan Carlos Cueto"
-    rol: "Investigada por posibles operaciones financieras vinculadas a la trama. Su identidad completa y su papel concreto no se han podido contrastar con fuentes primarias (revisión pendiente)"
+    cargo: "Empresario del sector de hidrocarburos"
+    rol: "La sentencia describe su papel en las gestiones para obtener la licencia de mayorista de VILLAFUEL S.L. No consta en la pieza de mascarillas una condena ni acusación por fraude fiscal (rol de la ficha previa no acreditado)"
 
   - nombre: "Cristina Álvarez Guisasola"
     cargo: "Excompañera de trabajo de Koldo García"
-    rol: "Investigada por presunta participación en la red de contactos de la corrupción"
+    rol: "Sin rol judicial acreditado: no se ha localizado ninguna fuente independiente que confirme su identidad ni su participación en los hechos (revisión pendiente)"
 
   - nombre: "Isabel Pardo de Vera"
     cargo: "Expresidenta de ADIF"
@@ -108,11 +104,11 @@ implicados:
 
   - nombre: "Luis Alberto Escolano Marín"
     cargo: "Socio de Víctor de Aldama"
-    rol: "Investigado por participación en la red de negocios irregulares"
+    rol: "La sentencia le menciona como socio de Aldama y como partícipe en el pago del alquiler del apartamento de Jésica Rodríguez; no fue acusado por la Fiscalía y la acusación popular interesó su punibilidad por falsedad, extremo que el tribunal no declaró probado"
 
   - nombre: "Luisa Presa Medina"
     cargo: "Empresaria de Vitoria"
-    rol: "Investigada en relación con la trama de contratos públicos"
+    rol: "Investigada por blanqueo de capitales; según la UCO habría sido persona interpuesta de Juan Carlos Cueto y tenía una participación simbólica en Soluciones de Gestión cuando se adjudicaron los contratos"
 tags:
   - "corrupción"
   - "malversación"
@@ -136,36 +132,6 @@ cronologia:
       - "https://elpais.com/espana/2024-03-03/hechos-probados-de-como-el-virus-de-la-corrupcion-alcanzo-al-gobierno.html"
       - "https://www.infobae.com/espana/2024/03/04/que-es-el-caso-koldo-y-por-que-salpica-al-gobierno-de-pedro-sanchez/"
 
-  - fecha: "2020-08"
-    titulo: "Estancia de Ábalos en un chalé en Marbella"
-    descripcion: "Durante tres semanas en agosto de 2020, José Luis Ábalos, entonces ministro de Transportes, habría disfrutado de una estancia en un chalé en Marbella proporcionada por Globalia, empresa matriz de Air Europa. Según la UCO, esto fue una contraprestación por la mediación de Ábalos en el rescate financiero de Air Europa, gestionado en parte a través de Begoña Gómez, esposa de Pedro Sánchez. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
-    type: "resumen"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_Koldo"
-      - "https://en.wikipedia.org/wiki/Koldo_Case"
-
-  - fecha: "2021-07"
-    titulo: "Cese de Ábalos como ministro y secretario de organización del PSOE"
-    descripcion: "José Luis Ábalos es cesado como ministro de Transportes y como secretario de organización del PSOE por Pedro Sánchez. Aunque no se relaciona públicamente con el caso Koldo en ese momento, investigaciones posteriores sugieren que esta decisión podría estar vinculada a rumores sobre irregularidades en su entorno."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/origen-caso-koldo-sacude-gobierno-denuncia-pp-informe-incrimina-santos-cerdan_1_12379772.html"
-
-  - fecha: "2021-11"
-    titulo: "Intercambio de mensajes entre Sánchez y Ábalos"
-    descripcion: "En noviembre de 2021, Pedro Sánchez y José Luis Ábalos intercambian mensajes de WhatsApp donde Sánchez expresa solidaridad con Ábalos tras rumores en la prensa. Los mensajes muestran una relación cordial, pero no abordan directamente el caso Koldo. Estos mensajes serán filtrados públicamente en mayo de 2025. [Pendiente de revisión: se apoya en fuentes secundarias/Wikipedia.]"
-    type: "resumen"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_Koldo"
-      - "https://en.wikipedia.org/wiki/Koldo_Case"
-
-  - fecha: "2022-03"
-    titulo: "Denuncia del PP que inicia la investigación"
-    descripcion: "El Partido Popular, liderado por Alfonso Serrano en Madrid, presenta una denuncia ante la Fiscalía Anticorrupción sobre irregularidades en los contratos de mascarillas adjudicados a Soluciones de Gestión. La denuncia señala la relación de la empresa con Koldo García y su cercanía con Ábalos, iniciando formalmente la 'Operación Delorme'."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/origen-caso-koldo-sacude-gobierno-denuncia-pp-informe-incrimina-santos-cerdan_1_12379772.html"
-
   - fecha: "2023-09-06"
     titulo: "Querella de la Fiscalía Anticorrupción"
     descripcion: "La Fiscalía Anticorrupción presenta una querella de 26 páginas en la Audiencia Nacional contra Koldo García, Víctor de Aldama y otras personas por presuntas comisiones ilegales en contratos de mascarillas. La querella se basa en el incremento patrimonial de Koldo García (1.5 millones de euros entre 2020-2022) y evidencia de correos y fotos que vinculan a Aldama con García."
@@ -173,13 +139,6 @@ cronologia:
     urls:
       - "https://en.wikipedia.org/wiki/Koldo_Case"
       - "https://www.eldiario.es/politica/origen-caso-koldo-sacude-gobierno-denuncia-pp-informe-incrimina-santos-cerdan_1_12379772.html"
-
-  - fecha: "2023-12"
-    titulo: "Koldo García comienza a grabar conversaciones"
-    descripcion: "Koldo García, consciente de la investigación en curso, empieza a grabar conversaciones con figuras clave del PSOE y empresarios, posiblemente como medida de protección o para negociar con la justicia. Estas grabaciones, encontradas en 2024, serán clave en la investigación."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/comisiones-contratos-grabaciones-corrupcion-vida-caso-koldo_1_12382928.html"
 
   - fecha: "2024-02-21"
     titulo: "Detenciones en la Operación Delorme"
@@ -773,7 +732,14 @@ cronologia:
 - **Piezas del caso**: la condena afecta solo a la pieza de mascarillas (tres acusados). La investigación sobre presuntos amaños de obra pública sigue abierta en la Audiencia Nacional e incluye, entre otros, a Santos Cerdán, Isabel Pardo de Vera y Francisco Javier Herrero. También siguen abiertas la pieza de financiación (pagos en efectivo desde Ferraz) y la investigación absorbida de Plus Ultra.
 - **Estado**: se fija `estado: "activo"` porque, aunque la pieza de mascarillas terminó con sentencia firme de condena, las piezas de obra pública y de financiación siguen en instrucción. El valor anterior era un estado compuesto que la web no reconoce y que se mostraba como «Desconocido».
 - **Coste**: el campo `coste` se ha fijado en 32.500.000 euros como volumen agregado de los dos contratos de mascarillas declarados probados (20.000.000 euros de Puertos del Estado y 12.500.000 euros de ADIF). No es un perjuicio cuantificado ni un lucro declarado: la sentencia no fija esa cifra como daño. Otras magnitudes del caso son las comisiones canalizadas por Aldama (6.676.046,09 euros) y el decomiso acordado (430.298 euros). El valor anterior (9.600.000 euros) no se pudo contrastar con ninguna fuente.
-- **Nombres contrastados**: se corrige «Juan Carlos Cueto Corsón» por «Juan Carlos Cueto Martín» (consta en los antecedentes de la STS 418/2026 y en fuentes secundarias), «Santos Cerdán López» por «Santos Cerdán León» (sentencia y ficha oficial del Congreso) y «Rubén Villalba Gómez» por «Rubén Villalba Carnerero» (Newtral/EFE). La identidad de «María Magdalena Cueto» (antes «María Magdalena Cueto Corsón») no se ha podido contrastar: no aparece en la sentencia ni en los informes consultados, y el apellido «Corsón» no se ha localizado en ninguna fuente, por lo que queda como revisión pendiente.
-- **Fuentes y eventos pendientes**: se han priorizado la sentencia (STS 418/2026) y la nota del CGPJ, y se han sustituido los enlaces cortos (t.co) no verificables. Siguen pendientes de contraste con fuente primaria los eventos de 2020-08 (chalé en Marbella), 2021-11 (mensajes Sánchez-Ábalos), 2025-04-09 (UCO sobre Air Europa), 2025-05-12 (filtración de mensajes), 2025-05-20 (imputación de Pardo de Vera), 2025-05-26 (audios de Leire Díez) y 2025-07-21 (declaración de Pardo de Vera y Herrero), que se apoyan en fuentes secundarias/Wikipedia y quedan marcados en la cronología.
+- **Nombres contrastados**: se corrige «Juan Carlos Cueto Corsón» por «Juan Carlos Cueto Martín» (consta en los antecedentes de la STS 418/2026 y en fuentes secundarias), «Santos Cerdán López» por «Santos Cerdán León» (sentencia y ficha oficial del Congreso) y «Rubén Villalba Gómez» por «Rubén Villalba Carnerero» (Newtral/EFE). Se retira de `implicados` a «María Magdalena Cueto»: no aparece en la sentencia ni en las fuentes consultadas, su identidad y su papel no se han podido contrastar y algunas fuentes mencionan a una hermana de Juan Carlos Cueto llamada «María del Carmen Cueto», por lo que podría tratarse de una confusión; queda como duda en este cuerpo, sin afirmarla investigada.
+- **Fuentes y eventos pendientes**: se han priorizado la sentencia (STS 418/2026) y la nota del CGPJ, y se han sustituido los enlaces cortos (t.co) no verificables. Siguen pendientes de contraste con fuente primaria los eventos ya con fecha completa de 2025-04-09 (UCO sobre Air Europa), 2025-05-12 (filtración de mensajes), 2025-05-20 (imputación de Pardo de Vera), 2025-05-26 (audios de Leire Díez) y 2025-07-21 (declaración de Pardo de Vera y Herrero), que se apoyan en fuentes secundarias/Wikipedia y quedan marcados en la cronología.
+- **Eventos con fecha parcial retirados de la cronología**: la cronología exige fecha ISO completa (YYYY-MM-DD) y no se debe inventar el día cuando solo consta el mes y el año. Por eso se han retirado del array estos cinco eventos, conservando aquí su contenido y su grado de incertidumbre:
+  - **agosto de 2020** — Estancia de Ábalos en un chalé en Marbella. Según fuentes secundarias/Wikipedia, durante tres semanas de agosto de 2020 Ábalos habría disfrutado de un chalé en Marbella proporcionado por Globalia como contraprestación por su mediación en el rescate de Air Europa. No consta el día exacto ni se ha contrastado con fuente primaria.
+  - **julio de 2021** — Cese de Ábalos como ministro de Transportes y secretario de Organización del PSOE. No consta el día exacto ni una relación directa acreditada con el caso en ese momento.
+  - **noviembre de 2021** — Intercambio de mensajes de WhatsApp entre Pedro Sánchez y Ábalos, filtrados en mayo de 2025. No consta el día exacto; se apoya en fuentes secundarias/Wikipedia.
+  - **marzo de 2022** — Denuncia del PP ante la Fiscalía Anticorrupción sobre los contratos de mascarillas de Soluciones de Gestión, origen de la «Operación Delorme». No consta el día exacto.
+  - **diciembre de 2023** — Koldo García comienza a grabar conversaciones con cargos del PSOE y empresarios; las grabaciones se localizaron en 2024. No consta el día exacto.
+- **Implicados con evidencia solo de contenido previo (lagunas)**: se han revisado los implicados cuya evidencia procedía únicamente de la ficha previa y no de la sentencia ni de fuentes verificables, corrigiendo roles judiciales no acreditados y registrando la laguna de cada uno. **Leticia Lauffer Medina** (antes descrita como «pareja sentimental de Aldama» e investigada por blanqueo): las fuentes la identifican como exdirectora de Wakalua (filial de Globalia) y nexo entre Begoña Gómez y Air Europa, y declaró en el Senado y en el caso Begoña Gómez; no consta vínculo sentimental con Aldama ni condición de investigada en el caso Koldo. **Claudio Rivas** (antes «socio empresarial de Aldama» en fraude fiscal): la sentencia lo sitúa como empresario de hidrocarburos en las gestiones de la licencia de VILLAFUEL S.L., sin condena ni acusación por fraude fiscal. **Luis Alberto Escolano Marín**: la sentencia le cita como socio de Aldama y partícipe en el pago del alquiler del apartamento de Jésica Rodríguez; no fue acusado por la Fiscalía y la punibilidad por falsedad interesada por la acusación popular no se declaró probada. **Roberto González Arnaiz** y **Cristina Álvarez Guisasola**: no se ha localizado ninguna fuente independiente que acredite su identidad ni su papel; se retira la afirmación de irregularidades y la condición de investigada y quedan como revisión pendiente. **Luisa Presa Medina**: consta como empresaria de Vitoria investigada por blanqueo y como persona interpuesta de Cueto con participación simbólica en Soluciones de Gestión (El Diario/Infobae), por lo que se mantiene con ese rol.
 - **Fechas de eventos de 2026**: cuando el único dato disponible es la noticia o publicación, la descripción lo indica y no se atribuye una fecha de hecho no comprobada (por ejemplo, 30-07, 19-09 y 28-09 de 2026). El evento de 2026-09-11 (declaración de Cueto y Rotaeche como investigados) procede de dos medios y no se ha consultado la resolución judicial.
 - **Incógnitas**: no se ha podido verificar el número cerrado de investigados en las piezas separadas ni el desenlace de todos los recursos. El detalle de algunas fechas antiguas (por ejemplo, la fecha exacta de la detención inicial) presenta pequeñas discrepancias entre fuentes.
