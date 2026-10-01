@@ -45,7 +45,7 @@ implicados:
 
   - nombre: "Joan Manel Mercadal"
     cargo: "Empresario local; administrador de Neo Menorca, Serprosport y Menorca Assistència"
-    rol: "Detenido en 2011. El auto de 2012 le imputó falsedad documental, tráfico de influencias y fraude; la Fiscalía lo señaló como beneficiario de 8 contratos por unos 136.600 euros y pidió 6 años de prisión. La fuente del 28 de octubre de 2016 lo nombra «Juan Manuel Mercadal»; otras fuentes lo citan como «Manel Mercadal». Se mantiene aquí la forma «Joan Manel Mercadal» sin crear un alias."
+    rol: "Detenido en 2011. El auto de 2012 le imputó falsedad documental, tráfico de influencias y fraude; la Fiscalía lo señaló como beneficiario de 8 contratos por unos 136.600 euros y pidió 6 años de prisión. La prensa presenta variantes de su nombre: «Juan Manuel Mercadal» en la fuente del 28 de octubre de 2016 y «Manel Mercadal» en otras crónicas."
 
   - nombre: "Antònia Salord"
     cargo: "Exteniente de alcalde de Gobernación del Ayuntamiento de Ciutadella, PP"
