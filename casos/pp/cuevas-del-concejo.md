@@ -4,7 +4,7 @@ partido: PP
 completado: false
 año: 2011
 fechaFin: ""
-estado: "en investigación"
+estado: "desconocido"
 descripcion: |
   El caso de las Cuevas del Concejo se refiere a la construcción de una red de galerías bajo el casco histórico de Navalcarnero (Madrid), declarado Conjunto Histórico, durante el mandato del alcalde del PP Baltasar Santos González (1995-2015). El proyecto, impulsado en torno a 2004 para unir antiguas cuevas del subsuelo de la Plaza de Segovia y explotarlas turísticamente, se prolongó hasta 2011. Según la Fiscalía Provincial de Madrid, la obra se ejecutó sin un proyecto que mereciera tal consideración, sin la autorización preceptiva de la Dirección General de Patrimonio Histórico de la Comunidad de Madrid y sin los procedimientos ordinarios de contratación, con pagos fraccionados que simularon contratos menores. En febrero de 2011 los concejales del Grupo Municipal Socialista denunciaron las obras ante la Dirección General de Patrimonio y ante los juzgados; en octubre de 2014 esa Dirección General impuso al Ayuntamiento una multa de 30.000 euros por no haber solicitado autorización previa. En 2015 la dirección del PP de Madrid apartó a Santos como candidato en las elecciones municipales.
 
@@ -16,7 +16,7 @@ descripcion: |
 
   Limitaciones visibles de esta revisión: no se han localizado resoluciones originales de la causa que permitan fijar su estado procesal exacto, de modo que la reconstrucción se apoya en prensa contrastada y en un boletín municipal. El auto de apertura de 2018 consta en prensa fechado el 13 de febrero; un boletín municipal de octubre de 2020 lo fecha el 13 de enero, discrepancia sin resolver. El boletín indica que el juicio señalado para enero de 2020 fue aplazado y devuelto al juzgado, pero no se ha localizado la resolución que lo acordó. No se ha localizado ninguna actuación posterior al 5 de noviembre de 2025: se desconoce si la instrucción sigue abierta, si se ha reabierto el juicio oral o si ha habido archivo.
 
-resumen: "Red de galerías bajo el casco histórico de Navalcarnero construida, según la Fiscalía, sin proyecto ni autorización de Patrimonio; causa en fase de instrucción contra el exalcalde Baltasar Santos y la interventora Teresa Hermida, con una estimación municipal de desfalco de 30 millones sin resolución judicial"
+resumen: "Red de galerías bajo el casco histórico de Navalcarnero construida, según la Fiscalía, sin proyecto ni autorización de Patrimonio; causa en fase de instrucción en noviembre de 2025 contra el exalcalde Baltasar Santos y la interventora Teresa Hermida, con situación actual desconocida, con una estimación municipal de desfalco de 30 millones sin resolución judicial"
 coste: 30000000
 lugar: "Navalcarnero, Madrid"
 tribunal:
@@ -102,3 +102,5 @@ La situación actual de la causa no consta acreditada. La última referencia loc
 **Delimitación frente a otros casos.** Esta ficha se limita a la causa de las cuevas. No incluye como resultados propios la condena de siete años de inhabilitación por prevaricación de 2025 —confirmada por el TSJM en noviembre de 2025—, que corresponde a las reparaciones de las talanqueras de los encierros de 2014 y a Manuel Jordán Rodríguez; ni la sentencia del Tribunal de Cuentas de 2020 sobre 2,1 millones de euros, relativa al polideportivo de La Estación y a la Plaza de Toros y anulada por el Tribunal Supremo en 2025. Esos asuntos cuentan con fichas propias o se documentan en ellas y no deben atribuirse a las cuevas.
 
 **Datos de contexto.** El endeudamiento municipal de «más de 200 millones de euros» y el número de prisión e inhabilitación que pedía la acusación particular proceden de declaraciones municipales y de prensa, no de resoluciones judiciales, y se presentan como tales. No se ha podido comprobar el contenido íntegro del reportaje de Noticias para Municipios de 3 de octubre de 2022 sobre las cuevas, que está tras muro de pago.
+
+El [boletín municipal nº 38](https://www.navalcarnero.es/navalcarnero/prensa/files/NAVAL-HOY-38-octubre-2020-web.pdf) se fecha solo en octubre de 2020; no consta el día de publicación. La referencia documental conserva esa precisión mensual. Su información sobre las cuevas figura en la página 7 y no constituye una resolución judicial.
