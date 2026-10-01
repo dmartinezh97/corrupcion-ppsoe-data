@@ -11,7 +11,7 @@ descripcion: |
 
   La trama se articulaba en torno a Francisco Granados, exsecretario general del PP de Madrid y consejero de la Comunidad, y al empresario David Marjaliza, a quienes la investigación sitúa coordinando la adjudicación irregular de contratos de eficiencia energética a la multinacional Cofely (filial de GDF Suez) en municipios como Parla (54,7 millones), Móstoles (60,4 millones), Valdemoro (50,3 millones) y Collado Villalba (35,5 millones). La instrucción investigó también una presunta caja B del PP de Madrid que habría financiado irregularmente campañas electorales entre 2003 y 2011, mediante donaciones de empresarios a través de la fundación Fundescam, facturas por servicios inexistentes y sobrecostes en contratos de eventos musicales adjudicados a empresas como Waiter Music, de José Luis Huerta (fallecido en 2020 y no juzgado).
 
-  La macrocausa se dividió en una docena de piezas separadas a partir de 2015. La pieza principal (pieza 6, contratos de Cofely) se juzgó entre abril y septiembre de 2025 y fue sentenciada el 22 de diciembre de 2025: la Audiencia Nacional condenó a 29 de las 37 personas físicas y jurídicas acusadas —entre ellas seis exalcaldes y varios directivos de Cofely— y absolvió a los exregidores de Valdemoro y Almendralejo; en un auto posterior rectificó a la baja la pena de David Marjaliza, de ocho años y dos meses a cinco. La pieza murciana (reputación en internet) fue sentenciada en septiembre de 2025 con penas de hasta cuatro años, recurribles. El 2 de julio de 2026 la Audiencia condenó a Granados a dos años y medio de cárcel por la pieza 7 (Waiter Music). En septiembre de 2026 el Tribunal Supremo confirmó las inhabilitaciones de la pieza de León (publicidad institucional), con el expresidente de la Diputación Marcos Martínez Barazón entre los condenados. En la pieza sobre financiación del PP de Madrid fueron imputados Ignacio González (2018) y, en 2019, Esperanza Aguirre y Cristina Cifuentes; sus causas fueron archivadas (Cifuentes en abril de 2021; Aguirre y González en octubre de 2022, confirmado por la Sala en noviembre de 2023). En mayo de 2026 se abrió juicio oral contra Granados y más de 40 acusados en la pieza 8 (suelo público y obras de Metro). Al cierre de esta revisión, varias sentencias están pendientes de recurso y varios juicios siguen pendientes.
+  La macrocausa se dividió en una docena de piezas separadas a partir de 2015. La pieza principal (pieza 6, contratos de Cofely) se juzgó entre abril y septiembre de 2025 y fue sentenciada el 19 de diciembre de 2025 (hecha pública por el CGPJ el 22 de diciembre): la Audiencia Nacional condenó a 29 de las 37 personas físicas y jurídicas acusadas —entre ellas seis exalcaldes y varios directivos de Cofely— y absolvió a los exregidores de Valdemoro y Almendralejo; a finales de febrero de 2026 un auto posterior rectificó a la baja la pena de David Marjaliza, de ocho años y dos meses a alrededor de cinco (cinco años y un mes según El País y Europa Press; cinco años según Cadena SER). La pieza murciana (reputación en internet) fue sentenciada en septiembre de 2025 con penas de hasta cuatro años, recurribles. El 2 de julio de 2026 la Audiencia condenó a Granados a dos años y medio de cárcel por la pieza 7 (Waiter Music). En septiembre de 2026 el Tribunal Supremo confirmó las inhabilitaciones de la pieza de León (publicidad institucional), con el expresidente de la Diputación Marcos Martínez Barazón entre los condenados. En la pieza sobre financiación del PP de Madrid fueron imputados Ignacio González (2018) y, en 2019, Esperanza Aguirre y Cristina Cifuentes; sus causas fueron archivadas (Cifuentes en abril de 2021; Aguirre y González en octubre de 2022, confirmado por la Sala en noviembre de 2023). En mayo de 2026 se abrió juicio oral contra Granados y más de 40 acusados en la pieza 8 (suelo público y obras de Metro). Al cierre de esta revisión, varias sentencias están pendientes de recurso y varios juicios siguen pendientes.
 
 resumen: "Macrotrama de corrupción con epicentro en la Comunidad de Madrid; la investigación sitúa en unos 250 millones el volumen de contratos adjudicados a cambio de comisiones"
 coste: 250000000
@@ -19,15 +19,15 @@ lugar: "Comunidad de Madrid (principalmente), Región de Murcia, León, Valencia
 tribunal:
   - "Audiencia Nacional - Juzgado Central de Instrucción nº 6 (instrucción; entre otros, Eloy Velasco, Manuel García Castellón y, en 2026, Antonio Piña)"
   - "Audiencia Nacional - Sala de lo Penal, Sección Primera (enjuiciamiento)"
-numeroSentencia: ""
+numeroSentencia: "34/2025"
 implicados:
   - nombre: "Francisco Granados Lerena"
     cargo: "Exsecretario general del PP de Madrid, exconsejero de Presidencia y Justicia, exalcalde de Valdemoro"
     rol: "Principal figura de la trama según la investigación. Condenado en 2019 (firme) a dos años de cárcel por el 'chivatazo' que le alertó de la investigación y en julio de 2026 a dos años y medio por la pieza de Waiter Music (recurrible). Pendiente de otras piezas, entre ellas la de financiación del PP de Madrid y la de suelo público y Metro."
 
-  - nombre: "David Marjaliza López"
+  - nombre: "David Marjaliza Villaseñor"
     cargo: "Empresario y constructor"
-    rol: "Colaborador con la Fiscalía Anticorrupción y 'conseguidor' de contratos para Cofely. Condenado el 22-12-2025 en la pieza de Cofely; la Audiencia Nacional rectificó después la pena a cinco años de cárcel por un error material, conforme al acuerdo de conformidad con la Fiscalía (recurrible)."
+    rol: "Colaborador con la Fiscalía Anticorrupción y 'conseguidor' de contratos para Cofely. Condenado el 19-12-2025 en la pieza de Cofely a ocho años y dos meses de cárcel; la Audiencia Nacional rectificó después la pena por un error material y la dejó en torno a cinco años (cinco años y un mes según El País y Europa Press; cinco años según Cadena SER), conforme a su acuerdo de conformidad con la Fiscalía. El auto de rectificación, conocido a finales de febrero de 2026, es recurrible y su fecha exacta no consta en fuente primaria."
 
   - nombre: "Esperanza Aguirre Gil de Biedma"
     cargo: "Expresidenta de la Comunidad de Madrid (2003-2012)"
@@ -55,47 +55,47 @@ implicados:
 
   - nombre: "José María Fraile Campos"
     cargo: "Exalcalde de Parla (PSOE)"
-    rol: "Confesó los hechos. Condenado el 22-12-2025 a dos años de cárcel, más cuatro meses y quince días por tráfico de influencias, en la pieza de Cofely (recurrible)."
+    rol: "Confesó los hechos. Condenado el 19-12-2025 a dos años de cárcel, más cuatro meses y quince días por tráfico de influencias, en la pieza de Cofely (recurrible)."
 
   - nombre: "Daniel Ortiz Espejo"
     cargo: "Exalcalde de Móstoles (PP)"
-    rol: "Condenado el 22-12-2025 a tres años de cárcel por cohecho y revelación de información reservada en la pieza de Cofely; absuelto en la pieza de Waiter Music (2026). Sentencias recurribles."
+    rol: "Condenado el 19-12-2025 a tres años de cárcel por cohecho y revelación de información reservada en la pieza de Cofely; absuelto en la pieza de Waiter Music (2026). Sentencias recurribles."
 
   - nombre: "José Carlos Boza Lechuga"
     cargo: "Exalcalde de Valdemoro (PP)"
-    rol: "Absuelto en la pieza de Cofely (22-12-2025); condenado el 02-07-2026 a cuatro años de cárcel en la pieza de Waiter Music (recurrible)."
+    rol: "Absuelto en la pieza de Cofely (19-12-2025); condenado el 02-07-2026 a cuatro años de cárcel en la pieza de Waiter Music (recurrible)."
 
   - nombre: "Agustín Juárez López de Coca"
     cargo: "Exalcalde de Collado Villalba (PP)"
-    rol: "Condenado el 22-12-2025 a cuatro años y medio de cárcel en la pieza de Cofely (recurrible)."
+    rol: "Condenado el 19-12-2025 a cuatro años y medio de cárcel en la pieza de Cofely (recurrible)."
 
   - nombre: "Antonio Sánchez Fernández"
     cargo: "Exalcalde de Serranillos del Valle (Unión Demócrata Madrileña, UDMA)"
-    rol: "Confesó los hechos. Condenado el 22-12-2025 a cerca de tres años de cárcel por fraude, prevaricación, cohecho y tráfico de influencias en la pieza de Cofely (recurrible)."
+    rol: "Confesó los hechos. Condenado el 19-12-2025 a cerca de tres años de cárcel por fraude, prevaricación, cohecho y tráfico de influencias en la pieza de Cofely (recurrible)."
 
   - nombre: "Carlos Alberto Estrada"
     cargo: "Exalcalde de Moraleja de Enmedio (PP)"
-    rol: "Condenado el 22-12-2025 a cuatro años y medio de cárcel en la pieza de Cofely y el 02-07-2026 a dos años en la pieza de Waiter Music; recurribles."
+    rol: "Condenado el 19-12-2025 a cuatro años y medio de cárcel en la pieza de Cofely y el 02-07-2026 a dos años en la pieza de Waiter Music; recurribles."
 
   - nombre: "Mario Utrilla"
     cargo: "Exdiputado regional del PP y exalcalde de Sevilla la Nueva"
-    rol: "Condenado a prisión en la pieza de Cofely (22-12-2025); recurrible."
+    rol: "Condenado a prisión en la pieza de Cofely (19-12-2025); recurrible."
 
   - nombre: "Alejandro Utrilla"
     cargo: "Exconcejal de Medio Ambiente de Móstoles (PP)"
-    rol: "Condenado a prisión en la pieza de Cofely (22-12-2025); recurrible."
+    rol: "Condenado a prisión en la pieza de Cofely (19-12-2025); recurrible."
 
   - nombre: "Didier Roger Maurice"
     cargo: "Exdirector general de Cofely España"
-    rol: "Condenado el 22-12-2025 a seis años y seis meses de cárcel en la pieza de Cofely (recurrible)."
+    rol: "Condenado el 19-12-2025 a seis años y seis meses de cárcel en la pieza de Cofely (recurrible)."
 
   - nombre: "Constantino Álvarez"
     cargo: "Exdirector comercial de Cofely España"
-    rol: "Condenado el 22-12-2025 a seis años y seis meses de cárcel en la pieza de Cofely (recurrible)."
+    rol: "Condenado el 19-12-2025 a seis años y seis meses de cárcel en la pieza de Cofely (recurrible)."
 
   - nombre: "Pedro García Pérez"
     cargo: "Exdirector comercial de Cofely España"
-    rol: "Condenado el 22-12-2025 a seis años y once meses de cárcel en la pieza de Cofely (recurrible)."
+    rol: "Condenado el 19-12-2025 a seis años y once meses de cárcel en la pieza de Cofely (recurrible)."
 
   - nombre: "José Manuel Rodríguez Talamino"
     cargo: "Guardia civil destinado en la UCO"
@@ -265,21 +265,14 @@ cronologia:
       - "https://www.ondacero.es/emisoras/murcia/murcia/noticias/condenas-cuatro-anos-carcel-exdirigentes-trama-murciana-punica_2025090968bff2edbf8802738973e9e0.html"
       - "https://www.eldiario.es/murcia/politica/trama-murciana-caso-punica-acaba-nueve-condenados-decada-despues_1_12587138.html"
 
-  - fecha: 2025-12-22
-    titulo: "Sentencia de la pieza de Cofely: 29 condenados de 37 acusados"
-    descripcion: "La Audiencia Nacional condena a 29 de las 37 personas físicas y jurídicas juzgadas en la pieza 6 por las adjudicaciones de eficiencia energética a Cofely entre 2012 y 2014. David Marjaliza recibe la pena principal, ocho años y dos meses de cárcel. Son condenados los exalcaldes de Parla, Móstoles, Collado Villalba, Moraleja de Enmedio y Serranillos del Valle, mientras que el exalcalde de Torrejón de Velasco recibe inhabilitación. La empresa Cofely es condenada a una multa superior a 3,5 millones de euros y son absueltos los exregidores de Valdemoro y Almendralejo. La sentencia, de 611 páginas, aplica atenuantes por dilaciones indebidas y es recurrible."
+  - fecha: 2025-12-19
+    titulo: "Sentencia de la pieza de Cofely: 29 condenados de 37 acusados (dictada el 19-12-2025)"
+    descripcion: "La Audiencia Nacional condena a 29 de las 37 personas físicas y jurídicas juzgadas en la pieza 6 por las adjudicaciones de eficiencia energética a Cofely entre 2012 y 2014. David Marjaliza recibe la pena principal, ocho años y dos meses de cárcel. Son condenados los exalcaldes de Parla, Móstoles, Collado Villalba, Moraleja de Enmedio y Serranillos del Valle, mientras que el exalcalde de Torrejón de Velasco recibe inhabilitación. La empresa Cofely es condenada a una multa superior a 3,5 millones de euros y son absueltos los exregidores de Valdemoro y Almendralejo. La sentencia (nº 34/2025; ECLI:ES:AN:2025:5625), fechada el 19 de diciembre de 2025, tiene 611 páginas, aplica atenuantes por dilaciones indebidas y es recurrible; el CGPJ difundió su nota de prensa el 22 de diciembre de 2025."
     type: "sentencia"
     urls:
       - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-condena-a-penas-de-hasta-8-anos-carcel-por-la-adjudicacion-de-contratos-de-eficiencia-energetica-en-ayuntamientos-de-la-Comunidad-de-Madrid"
       - "https://www.rtve.es/noticias/20251222/condenados-prision-seis-exalcaldes-comunidad-madrid-punica/16870583.shtml"
       - "https://cadenaser.com/nacional/2025/12/22/la-audiencia-nacional-condena-a-cinco-exalcaldes-del-pp-de-la-comunidad-de-madrid-y-uno-del-psoe-por-el-caso-punica-cadena-ser/"
-
-  - fecha: 2026-03-02
-    titulo: "La Audiencia Nacional rectifica a cinco años la pena de Marjaliza en la pieza de Cofely"
-    descripcion: "La Sección Primera de la Sala de lo Penal de la Audiencia Nacional rebaja de ocho años y dos meses a cinco años la pena de David Marjaliza en la pieza de Cofely, mediante un auto de rectificación de un error material en la determinación de la pena, coherente con el acuerdo de conformidad alcanzado con la Fiscalía Anticorrupción. El contenido del auto se conoce a comienzos de marzo de 2026."
-    type: "sentencia"
-    urls:
-      - "https://cadenaser.com/cmadrid/2026/03/02/rebajan-de-8-a-5-anos-de-carcel-la-pena-al-conseguidor-de-la-punica-marjaliza-por-los-contratos-con-cofely-ser-madrid-sur/"
 
   - fecha: 2026-05-22
     titulo: "Auto de apertura de juicio oral de la pieza 8 (suelo público y Metro)"
@@ -310,18 +303,21 @@ cronologia:
 
 ## Estado de la revisión (2026-10-01)
 
-Ficha revisada con fuentes judiciales (CGPJ/Audiencia Nacional/Tribunal Supremo) y prensa contrastada. Se han corregido la filiación política de dos implicados, la fecha del incidente de las cajas de Serranillos, el estado procesal y el tratamiento del importe económico, y se han separado primera instancia y firmeza. Se incorporan novedades de 2026: la rectificación a la baja de la pena de Marjaliza y la confirmación por el Supremo de las condenas de la pieza leonesa.
+Ficha revisada con fuentes judiciales (CGPJ/Audiencia Nacional/Tribunal Supremo) y prensa contrastada. Se han corregido la filiación política de dos implicados, la fecha del incidente de las cajas de Serranillos, el estado procesal y el tratamiento del importe económico, y se han separado primera instancia y firmeza. Se incorporan novedades de 2026: la rectificación a la baja de la pena de Marjaliza y la confirmación por el Supremo de las condenas de la pieza leonesa. En una segunda pasada se ha corregido el nombre completo de David Marjaliza (Villaseñor, según la sentencia), se ha fijado la fecha de la sentencia de Cofely en el 19-12-2025 (distinta de su difusión por el CGPJ el 22-12-2025), se ha verificado la sentencia nº 34/2025 y su ECLI:ES:AN:2025:5625 en el CENDOJ, y se ha registrado la discrepancia sobre la pena rectificada y el desconocimiento de la fecha del auto.
 
 Esta revisión queda registrada como **pendiente**: persisten lagunas de investigación sustantivas (firmeza de varias resoluciones, número definitivo de piezas y documentación judicial primaria no descargada).
 
 ## Incertidumbres y limitaciones
 
-- **Firmeza de las sentencias.** Son firmes la condena de Granados por el 'chivatazo' (confirmada por el Supremo en 2019) y las inhabilitaciones de la pieza de León (confirmadas por el Supremo el 24-09-2026). Las sentencias de la pieza 6 (Cofely, 22-12-2025), de la pieza 7 (Waiter Music, 02-07-2026) y de la rama murciana (septiembre de 2025) son de primera instancia y recurribles; no consta su firmeza a 2026-10-01.
+- **Firmeza de las sentencias.** Son firmes la condena de Granados por el 'chivatazo' (confirmada por el Supremo en 2019) y las inhabilitaciones de la pieza de León (confirmadas por el Supremo el 24-09-2026). Las sentencias de la pieza 6 (Cofely, 19-12-2025), de la pieza 7 (Waiter Music, 02-07-2026) y de la rama murciana (septiembre de 2025) son de primera instancia y recurribles; no consta su firmeza a 2026-10-01.
 - **Importe económico.** Los 250 millones de euros son el volumen de contratos públicos atribuido a la trama por la investigación, no un perjuicio económico declarado probado. La pieza de Cofely juzgó contratos por 224 millones (hasta 233 según otras fuentes) y la sentencia de Waiter Music no impuso responsabilidad civil al no quedar probado que los ayuntamientos hubieran abonado gastos no correspondientes a servicios realizados. El campo `coste` mantiene la cifra global de 250 millones como volumen de contratos.
 - **Destrucción de pruebas (Serranillos).** El auto del juez Velasco de 03-11-2014 plantea la posible desaparición de pruebas como hipótesis ("podría estar tratando de hacer desaparecer"), no como hecho probado, y la UCO intervino precisamente para evitarlo.
 - **Filiación política de Antonio Sánchez Fernández.** Consta como alcalde de UDMA (El Mundo, 2014; Cadena SER, 2025); algunas piezas periodísticas posteriores lo engloban entre los regidores del PP. No se ha localizado fuente histórica que acredite su elección en listas del PSOE, por lo que se evita esa atribución y se mantiene solo la referencia a UDMA.
 - **Filiación de José Antonio Alonso Conesa.** El País (02-11-2014) y elDiario/Cadena SER (2025) lo identifican como exalcalde socialista de Cartagena (1991-1995) y empresario; no militaba en el PP.
 - **Número de piezas.** La división inicial en doce piezas separadas (2015) es la referencia más consolidada, pero las fuentes discrepan sobre el número de piezas tras las reorganizaciones posteriores (se citan entre once y catorce). Se ha optado por no fijar un número definitivo.
 - **Fecha de la pieza murciana.** La resolución se conoce por noticias fechadas el 8 y el 9 de septiembre de 2025; se ha fijado el 08-09-2025 como fecha del pronunciamiento, con la cautela de que algunas publicaciones la difundieron al día siguiente.
+- **Identidad de David Marjaliza.** La sentencia de la pieza 6 identifica al empresario como **David Marjaliza Villaseñor** (no "López"): así consta en el encabezamiento y en el fallo del documento judicial (nº 34/2025; ECLI:ES:AN:2025:5625; Id Cendoj 28079220012025100031). La ficha usaba antes el segundo apellido erróneo "López".
+- **Pena rectificada de Marjaliza y fecha del auto.** Un auto de rectificación por error material rebajó su pena de 8 años y 2 meses a en torno a 5 años: cinco años y un mes según El País (27-02-2026) y Europa Press, y cinco años según Cadena SER (02-03-2026). No se afirma la cifra exacta de cinco años ni una fecha concreta para el auto, cuya fecha no consta en fuente primaria; su contenido se conoce desde el 27-02-2026.
+- **Fecha de la sentencia de Cofely.** La sentencia está fechada el 19-12-2025 (cabecera del documento y CENDOJ); el CGPJ difundió su nota de prensa el 22-12-2025. Se distinguen ambas fechas y no se atribuye al 22 la fecha de la resolución.
 - **Personas investigadas sin condena.** José Ignacio Echevarría, Beltrán Gutiérrez y los implicados fallecidos (José Luis Huerta) figuran con el estado procesal documentado; no se les atribuyen delitos no confirmados por resolución judicial.
-- **Documentos.** No se han incorporado documentos judiciales locales al repositorio; `documentos` queda como lista vacía. Las notas de prensa del CGPJ de las sentencias de 2025 y 2026 pueden consultarse en poderjudicial.es.
+- **Documentos.** No se han incorporado documentos judiciales locales al repositorio; `documentos` queda como lista vacía. La sentencia de la pieza 6 puede consultarse en el CENDOJ (ROJ: SAN 5625/2025) y las notas de prensa del CGPJ de las sentencias de 2025 y 2026 en poderjudicial.es.
