@@ -13,7 +13,7 @@ descripcion: |
 
   En la vía penal se distinguen varias piezas. La relativa a la entonces consejera de Medio Ambiente María Jesús Ruiz fue archivada por auto de la Sala de lo Civil y Penal del TSJ de Castilla y León de 4 de diciembre de 2008 (ROJ ATSJ CL 327/2008; la cabecera no asigna nº de resolución), ratificado por otro de 11 de diciembre de 2008, que acordó "no haber lugar a la incoación de procedimiento criminal" contra ella (auto frente al que cabía recurso de súplica); no fue enjuiciada. Otra pieza, seguida en el Juzgado de Instrucción nº 2 de Ávila (Diligencias Previas 1481/2006), fue objeto de un sobreseimiento provisional por auto de la Audiencia Provincial de Ávila de 9 de diciembre de 2010 (auto 212/2010; ROJ AAP AV 176/2010) y, en un auto distinto de 8 de septiembre de 2011 (auto 151/2011; ROJ AAP AV 99/2011), la misma Audiencia desestimó el recurso de los acusados y confirmó la transformación en procedimiento abreviado, ordenando dar copias a Ecologistas en Acción para formular acusación. La causa se dividió en cuatro piezas y las resoluciones afectan a conjuntos de imputados distintos, de modo que el archivo de 2010 y la confirmación del abreviado de 2011 no se refieren al mismo grupo. El juicio por la aprobación del planeamiento se celebró en la Audiencia Provincial de Ávila (vista oral el 23 de mayo de 2012), que absolvió al alcalde, al secretario municipal y al promotor de los delitos de prevaricación, malversación de caudales públicos y fraude (SAP Ávila 124/2012, de 6 de junio de 2012; ROJ SAP AV 236/2012). La Fiscalía anunció en agosto de 2012 su decisión de recurrir ante el Supremo la absolución del alcalde, sin que se haya localizado resolución que acredite que el recurso llegara a presentarse ni su resultado.
 
-  Paralelamente, la pieza contra cinco altos cargos y técnicos de la Consejería de Medio Ambiente (José Ángel Arranz Sanz, Mariano Torre Antón, José Ignacio Molina García, Juan Manuel Pardo Ontoria y Sabas Yagüe Bosch), seguida en Valladolid (Juzgado de Instrucción nº 3 y Juzgado de lo Penal nº 2), fue reabierta por autos de la Audiencia Provincial de Valladolid de 11 de mayo de 2011 (auto 232/2011; ROJ AAP VA 349/2011) y 16 de enero de 2012. El juicio oral comenzó el 3 de marzo de 2014 y la sentencia del Juzgado de lo Penal nº 2 de Valladolid los absolvió, al apreciar "discrepancia técnica, fundamentada y razonada" y no "arbitrariedad". La fecha exacta de esa sentencia de 2014 no se ha confirmado con resolución primaria; se conoce a través de la nota de Ecologistas en Acción fechada el 4 de abril de 2014, en la que las organizaciones ecologistas anunciaban que estudiarían recurrir. No se ha localizado resolución que acredite la firmeza de las sentencias penales ni un cierre definitivo del caso; tampoco consta documentada una decisión de no recurrir por razones económicas.
+  Paralelamente, la pieza contra cinco altos cargos y técnicos de la Consejería de Medio Ambiente (José Ángel Arranz Sanz, Mariano Torre Antón, José Ignacio Molina García, Juan Manuel Pardo Ontoria y Sabas Yagüe Bosch), seguida en Valladolid (Juzgado de Instrucción nº 3 y Juzgado de lo Penal nº 2), fue reabierta por autos de la Audiencia Provincial de Valladolid de 11 de mayo de 2011 (auto 232/2011; ROJ AAP VA 349/2011) y 16 de enero de 2012 (auto 27/2012, Sección 4ª, notificado el 18 de enero de 2012; rollo de apelación 17/2012 y Diligencias Previas 2993/2010 del Juzgado de Instrucción nº 3 de Valladolid). Este segundo auto estimó los recursos del Ministerio Fiscal y de Ecologistas en Acción y Centaurea, revocó el sobreseimiento libre acordado por auto de 15 de noviembre de 2011 y ordenó al Instructor dictar la transformación en procedimiento abreviado contra las personas que aparecían como imputadas, sin que la Audiencia acordara la transformación directamente. El juicio oral comenzó el 3 de marzo de 2014 y la sentencia del Juzgado de lo Penal nº 2 de Valladolid los absolvió, al apreciar "discrepancia técnica, fundamentada y razonada" y no "arbitrariedad". La fecha exacta de esa sentencia de 2014 no se ha confirmado con resolución primaria; se conoce a través de la nota de Ecologistas en Acción fechada el 4 de abril de 2014, en la que las organizaciones ecologistas anunciaban que estudiarían recurrir. No se ha localizado resolución que acredite la firmeza de las sentencias penales ni un cierre definitivo del caso; tampoco consta documentada una decisión de no recurrir por razones económicas.
 
   Con posterioridad, el Tribunal Supremo (STS 1650/2017, de 31 de octubre de 2017, recurso 315/2016; ROJ STS 3835/2017) desestimó el recurso de casación de Residencial Aguas Nuevas S.L. contra la sentencia del TSJ de Castilla y León (Valladolid) de 5 de noviembre de 2015, confirmando la denegación de su reclamación de indemnización (2.637.575,11 euros) por la anulación de la clasificación. Es la última resolución judicial documentada, pero se refiere al orden contencioso-administrativo y no constituye un cierre del procedimiento penal.
 
@@ -50,23 +50,23 @@ implicados:
 
   - nombre: "José Ángel Arranz Sanz"
     cargo: "Director General de Medio Natural de la Junta de Castilla y León en el periodo de los hechos"
-    rol: "Acusado de prevaricación; absuelto por el Juzgado de lo Penal nº 2 de Valladolid (2014)"
+    rol: "Imputado identificado sin anonimizar en el auto 27/2012 de la Audiencia Provincial de Valladolid (16 de enero de 2012), que revocó el sobreseimiento libre y ordenó transformar en procedimiento abreviado; acusado de prevaricación; absuelto por el Juzgado de lo Penal nº 2 de Valladolid (2014)"
 
   - nombre: "Mariano Torre Antón"
     cargo: "Director General de Medio Natural (2002) y jefe del Servicio Territorial de Medio Ambiente de León en el periodo de los hechos"
-    rol: "Acusado de prevaricación; absuelto por el Juzgado de lo Penal nº 2 de Valladolid (2014)"
+    rol: "Imputado identificado sin anonimizar en el auto 27/2012 de la Audiencia Provincial de Valladolid (16 de enero de 2012), que revocó el sobreseimiento libre y ordenó transformar en procedimiento abreviado; acusado de prevaricación; absuelto por el Juzgado de lo Penal nº 2 de Valladolid (2014)"
 
   - nombre: "José Ignacio Molina García"
     cargo: "Jefe del Servicio de Espacios Naturales de la Junta de Castilla y León en el periodo de los hechos"
-    rol: "Acusado de prevaricación; absuelto por el Juzgado de lo Penal nº 2 de Valladolid (2014)"
+    rol: "Imputado identificado sin anonimizar en el auto 27/2012 de la Audiencia Provincial de Valladolid (16 de enero de 2012), que revocó el sobreseimiento libre y ordenó transformar en procedimiento abreviado; acusado de prevaricación; absuelto por el Juzgado de lo Penal nº 2 de Valladolid (2014)"
 
   - nombre: "Juan Manuel Pardo Ontoria"
     cargo: "Jefe del Servicio Territorial de Medio Ambiente de Ávila en el periodo de los hechos"
-    rol: "Acusado de prevaricación; absuelto por el Juzgado de lo Penal nº 2 de Valladolid (2014)"
+    rol: "Imputado identificado sin anonimizar en el auto 27/2012 de la Audiencia Provincial de Valladolid (16 de enero de 2012), que revocó el sobreseimiento libre y ordenó transformar en procedimiento abreviado; acusado de prevaricación; absuelto por el Juzgado de lo Penal nº 2 de Valladolid (2014)"
 
   - nombre: "Sabas Yagüe Bosch"
     cargo: "Jefe de la Sección de Espacios Naturales y Especies Protegidas del Servicio Territorial de Medio Ambiente de Ávila en el periodo de los hechos"
-    rol: "Acusado de prevaricación; absuelto por el Juzgado de lo Penal nº 2 de Valladolid (2014)"
+    rol: "Imputado identificado sin anonimizar en el auto 27/2012 de la Audiencia Provincial de Valladolid (16 de enero de 2012), que revocó el sobreseimiento libre y ordenó transformar en procedimiento abreviado; acusado de prevaricación; absuelto por el Juzgado de lo Penal nº 2 de Valladolid (2014)"
 
 tags:
   - "corrupción urbanística"
@@ -102,6 +102,11 @@ documentos:
     filetype: "pdf"
     paginas: 8
     nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=9310a6adcbce56f2&encode=true&databasematch=AN"
+  - fecha: "2012-01-16"
+    titulo: "AAP Valladolid, auto 27/2012 (Sección 4ª; sin ROJ en el documento) - Reapertura: revoca el sobreseimiento libre de 15/11/2011 y ordena al Instructor transformar en procedimiento abreviado"
+    filetype: "pdf"
+    paginas: 3
+    nombre_fichero: "https://www.ecologistasenaccion.org/wp-content/uploads/adjuntos-spip/pdf/auto_reapertura_ciudad_golf.pdf"
   - fecha: "2012-06-06"
     titulo: "SAP Ávila 124/2012 (ROJ SAP AV 236/2012) - Absolución del alcalde, el secretario y el promotor"
     filetype: "pdf"
@@ -213,11 +218,12 @@ cronologia:
       - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=9310a6adcbce56f2&encode=true&databasematch=AN"
 
   - fecha: "2012-01-16"
-    titulo: "La Audiencia Provincial de Valladolid reabre la causa contra los técnicos"
-    descripcion: "Según informó Ecologistas en Acción, por auto de 16 de enero de 2012 la Audiencia Provincial de Valladolid reabrió por segunda vez la investigación contra los cinco altos cargos y técnicos de Medio Ambiente, revocando un auto de archivo de 15 de noviembre y ordenando la transformación en procedimiento abreviado. La fecha es la del auto; la nota informativa se publicó el 19 de enero de 2012. No se ha localizado el texto primario de este auto."
+    titulo: "La Audiencia Provincial de Valladolid revoca el sobreseimiento libre y ordena transformar en procedimiento abreviado"
+    descripcion: "La Sección 4ª de la Audiencia Provincial de Valladolid, en auto 27/2012 de 16 de enero de 2012 (rollo de apelación 17/2012; Diligencias Previas 2993/2010 del Juzgado de Instrucción nº 3 de Valladolid; sin ROJ en el documento), estima los recursos del Ministerio Fiscal y de la Federación de Ecologistas en Acción de Castilla y León y Centaurea contra el auto de 15 de noviembre de 2011 que decretaba el sobreseimiento libre, lo revoca y ordena que por el Instructor se dicte auto de transformación en procedimiento abreviado contra las personas que aparecen como imputadas; la Audiencia no transforma directamente. Notificado el 18 de enero de 2012, el auto identifica sin anonimizar a los cinco imputados (José Ángel Arranz Sanz, José Ignacio Molina García, Sabas Yagüe Bosch, Juan Manuel Pardo Ontoria y Mariano Torre Antón) y se remite al auto de la misma Sala de 11 de mayo de 2011, que ya consideró que los hechos podían ser constitutivos de un delito de prevaricación del art. 320 del Código Penal."
     type: "investigacion"
     relevancia: "alta"
     urls:
+      - "https://www.ecologistasenaccion.org/wp-content/uploads/adjuntos-spip/pdf/auto_reapertura_ciudad_golf.pdf"
       - "https://www.ecologistasenaccion.org/22165/la-audiencia-reabre-la-causa-contra-los-altos-cargos-de-medio-ambiente-por-la-ciudad-del-golf-2/"
 
   - fecha: "2012-05-23"
