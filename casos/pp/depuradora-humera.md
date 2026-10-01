@@ -1,144 +1,145 @@
 ---
 nombre: "Caso Depuradora de Húmera"
 partido: "PP"
-completado: true
+completado: false
 año: 2017
-fechaInicio: 2017-06-01
-fechaFin: "2019-09-01"
+fechaFin: ""
 estado: "sobreseimiento"
 descripcion: |
-  El Caso Depuradora de Húmera investiga la gestión irregular de la Estación de Depuradora de Aguas Residuales (EDAR) del barrio de Húmera en Pozuelo de Alarcón (Madrid), que durante casi dos décadas habría estado vertiendo aguas fecales sin el tratamiento adecuado al arroyo Antequina, que desemboca en el río Guadarrama tras cruzar la Casa de Campo. La denuncia de los vecinos del barrio puso en evidencia que la instalación, construida en 1997 para dar servicio a medio centenar de viviendas, estaba colmatada y obligada a depurar aguas de 30.000 habitantes, lo que provocaba malos olores constantes y vertidos contaminantes al entorno natural protegido.
+  El "caso de la depuradora de Húmera" se refiere a la investigación abierta por el Juzgado de Primera Instancia e Instrucción nº 1 de Pozuelo de Alarcón a raíz de la denuncia de un vecino (registrada en abril de 2017) por los malos olores y los vertidos de la Estación Depuradora de Aguas Residuales (EDAR) del barrio de Húmera, en Pozuelo de Alarcón (Madrid). Las diligencias se incoaron en junio de 2017, fecha conocida solo por mes y año, sin que conste el día exacto; por ese motivo no se fija fechaInicio. Según la prensa, la EDAR, dimensionada inicialmente para un barrio de medio centenar de viviendas, quedó muy infradimensionada y debía depurar las aguas de decenas de miles de usuarios (Público, 2018, indica unas 36.000 personas). Las fuentes discrepan sobre su origen: El Confidencial y Público la datan en 1997, mientras Público la describe también como creada en los años setenta; ambas coinciden en que fue reformada en 2006, bajo el mandato del entonces alcalde Jesús Sepúlveda, sin el informe preceptivo de impacto ambiental de la Comunidad de Madrid ni la autorización de la Confederación Hidrográfica del Tajo (CHT), que según El Confidencial impuso al Ayuntamiento al menos seis sanciones (unos 30.000 euros) desde abril de 2015. Jesús Sepúlveda no figura entre los investigados en esta causa.
 
-  La investigación del Servicio de Protección de la Naturaleza (Seprona) de la Guardia Civil determinó que la rehabilitación realizada en 2006 bajo el mandato del entonces alcalde Jesús Sepúlveda (uno de los principales investigados del caso Gürtel) no contó con el informe preceptivo de impacto ambiental de la Comunidad de Madrid ni con la autorización de la Confederación Hidrográfica del Tajo (CHT). El Juzgado de Instrucción nº 1 de Pozuelo citó en calidad de investigados a diez cargos municipales del PP, entre ellos la alcaldesa Susana Pérez Quislant y Mariano Pérez-Hickman, quien acababa de tomar posesión como diputado en el Congreso en sustitución de Soraya Sáenz de Santamaría, adquiriendo así la condición de aforado y evitando declarar ante el juzgado ordinario.
+  La Guardia Civil (Seprona) investigó los vertidos y, a petición de la Fiscalía Provincial de Madrid (29 de enero de 2018), el juzgado citó como investigados a cargos públicos del PP con responsabilidades de gestión desde 2005. En febrero de 2018 declararon ante la Guardia Civil (en Tres Cantos) y en septiembre de 2018 ante la jueza. La prensa cifra en diez los investigados (Diario de Pozuelo; El Correo de Pozuelo habla de once personas, incluido un técnico), entre ellos la alcaldesa Susana Pérez Quislant y Mariano Pérez-Hickman, que había accedido al Congreso la semana anterior. Su declaración, prevista para el 19 de septiembre de 2018, quedó suspendida al adquirir la condición de aforado, pero según elDiario.es/Europa Press finalmente compareció ese día pese a ser aforado.
 
-  Tras las declaraciones de septiembre de 2018, el fiscal solicitó el sobreseimiento de la causa en febrero de 2019, y la jueza acordó en marzo de 2019 el sobreseimiento parcial y provisional por "falta de autor conocido", argumentando que los problemas de depuración no aparecieron hasta septiembre de 2016 por causas ajenas a la EDAR (vertidos industriales ilícitos). Un recurso de apelación presentado por la Asociación de Afectados fue desestimado en septiembre de 2019. El caso evidencia cómo las responsabilidades políticas por la gestión deficiente de infraestructuras públicas durante décadas quedaron diluidas judicialmente, pese al impacto ambiental documentado por organismos oficiales.
+  A finales de febrero de 2019 el fiscal pidió el sobreseimiento. El 14 de marzo de 2019 la jueza Carolina González dictó un auto de sobreseimiento parcial y provisional por "falta de autor conocido", levantando la imputación a los diez investigados; el auto sostiene que los problemas de depuración no aparecieron realmente hasta septiembre de 2016 y por causas que serían ajenas a la EDAR (vertidos industriales ilícitos). La instrucción continuó contra autores desconocidos. En junio de 2019 la jueza denegó a Yolanda Estrada el sobreseimiento libre que había solicitado, recordando que el sobreseimiento es parcial y que el procedimiento podría reabrirse si aparecen nuevos indicios. En septiembre de 2019 el Juzgado desestimó el recurso de la Asociación de Afectados por la Depuradora de Pozuelo (ADEPO) y la prensa local indicó que contra esa resolución "ya no cabe recurso alguno", por lo que el auto quedó firme, si bien su naturaleza es provisional y no de archivo definitivo. No consta sentencia.
 
-resumen: "Vertidos contaminantes durante 20 años desde depuradora municipal sin controles ni autorizaciones"
+  Situación y límites: el estado se consigna como "sobreseimiento" (parcial y provisional, con auto firme pero reabrible). No se fija fechaFin porque la resolución del recurso se conoce por la noticia de prensa (3 de septiembre de 2019) y no consta la fecha del auto. Se desconoce si el recurso era una reforma ante el propio juzgado o una apelación ante la Audiencia Provincial. La prensa discrepa sobre el destino del arroyo Antequina (Manzanares o Guadarrama); un informe local de 2026 lo describe como afluente del Manzanares. No se han localizado novedades judiciales posteriores a 2019, lo que no confirma por sí mismo el cierre definitivo. No consta un coste del caso. En febrero de 2021 los ayuntamientos de Pozuelo y Madrid firmaron un convenio para derivar las aguas a la ERAR Viveros de la Villa y suprimir la depuradora de Húmera; sin embargo, un artículo local de diciembre de 2025 sostiene que la EDAR seguía operando con el contrato de mantenimiento prorrogado. Persisten, por tanto, comprobaciones pendientes.
+resumen: "Diez cargos del PP de Pozuelo investigados por los vertidos de la depuradora de Húmera y sobreseimiento provisional en 2019"
 lugar: "Pozuelo de Alarcón, Madrid"
 tribunal:
   - "Juzgado de Primera Instancia e Instrucción nº 1 de Pozuelo de Alarcón"
 numeroSentencia: ""
 implicados:
   - nombre: "Susana Pérez Quislant"
-    cargo: "Alcaldesa de Pozuelo de Alarcón (PP)"
-    rol: "Investigada por delito ambiental, sobreseída provisionalmente"
+    cargo: "Alcaldesa de Pozuelo de Alarcón (PP, 2015-2023)"
+    rol: "Investigada por un presunto delito medioambiental; su citación se refería a su etapa como teniente de alcalde; sobreseída parcial y provisionalmente en marzo de 2019"
 
   - nombre: "Mariano Pérez-Hickman"
-    cargo: "Concejal de Pozuelo (1991-2011), Diputado en el Congreso"
-    rol: "Investigado por gestión ambiental, evitó declarar como aforado"
+    cargo: "Concejal de Pozuelo (1991-2011); diputado en el Congreso desde septiembre de 2018"
+    rol: "Investigado por un presunto delito medioambiental; su declaración quedó suspendida al adquirir la condición de aforado y, según elDiario.es, compareció igualmente el 19 de septiembre de 2018; sobreseído parcial y provisionalmente en marzo de 2019"
 
   - nombre: "Yolanda Estrada"
-    cargo: "Concejala de Pozuelo de Alarcón (PP)"
-    rol: "Investigada por delito ambiental, sobreseída provisionalmente"
+    cargo: "Concejala de Obras y Servicios de Pozuelo de Alarcón (PP, 2003-2008)"
+    rol: "Investigada; pidió sin éxito el sobreseimiento libre, que le fue denegado en junio de 2019; sobreseída parcial y provisionalmente"
 
   - nombre: "Gonzalo Aguado"
     cargo: "Exalcalde de Pozuelo de Alarcón (PP)"
-    rol: "Investigado por gestión irregular de la depuradora"
+    rol: "Investigado por la gestión de la depuradora; sobreseído parcial y provisionalmente en marzo de 2019"
+
+  - nombre: "Eduardo Oria"
+    cargo: "Primer teniente de alcalde de Pozuelo de Alarcón (PP)"
+    rol: "Investigado por un presunto delito medioambiental; sobreseído parcial y provisionalmente en marzo de 2019"
 
   - nombre: "Diego Lozano"
     cargo: "Concejal de Pozuelo de Alarcón (PP)"
-    rol: "Investigado por delito ambiental, sobreseído provisionalmente"
-
-  - nombre: "Eduardo Oria"
-    cargo: "Concejal de Pozuelo de Alarcón (PP)"
-    rol: "Investigado por delito ambiental, sobreseído provisionalmente"
+    rol: "Investigado por un presunto delito medioambiental; sobreseído parcial y provisionalmente en marzo de 2019"
 
   - nombre: "Pablo Gil"
     cargo: "Concejal de Pozuelo de Alarcón (PP)"
-    rol: "Investigado por delito ambiental, sobreseído provisionalmente"
+    rol: "Investigado por un presunto delito medioambiental; sobreseído parcial y provisionalmente en marzo de 2019"
 
   - nombre: "José Antonio Sáenz"
     cargo: "Exconcejal de Pozuelo de Alarcón (PP)"
-    rol: "Investigado por gestión ambiental, también imputado en Gürtel"
+    rol: "Investigado por la gestión de la depuradora; sobreseído parcial y provisionalmente en marzo de 2019"
 
   - nombre: "Mónica García Molina"
     cargo: "Concejala de Pozuelo de Alarcón (PP)"
-    rol: "Investigada por delito ambiental, sobreseída provisionalmente"
+    rol: "Investigada por un presunto delito medioambiental; sobreseída parcial y provisionalmente en marzo de 2019"
 
   - nombre: "Félix Alba"
     cargo: "Concejal de Pozuelo de Alarcón (PP)"
-    rol: "Investigado por delito ambiental, sobreseído provisionalmente"
+    rol: "Investigado por un presunto delito medioambiental; sobreseído parcial y provisionalmente en marzo de 2019"
 
 tags:
   - "corrupción"
   - "delito ambiental"
-  - "prevaricación"
-  - "gestión irregular"
+  - "vertidos"
+  - "gestión municipal"
 
-impactoSocial: "El caso generó controversia por el sobreseimiento de todos los responsables políticos pese a dos décadas de vertidos documentados por la Guardia Civil y la Confederación Hidrográfica del Tajo. Evidenció cómo la condición de aforado puede utilizarse para eludir responsabilidades judiciales."
+impactoSocial: "El caso generó controversia política en Pozuelo por la investigación de una decena de cargos municipales del PP y por su posterior sobreseimiento parcial y provisional, sin sentencia, mientras se mantenían las quejas vecinales por olores y vertidos. La causa sigue sin una resolución definitiva conocida."
 
-documentos: null
+documentos: []
 
 cronologia:
-  - fecha: 1997-01-01
-    titulo: "Construcción de la depuradora de Húmera"
-    descripcion: "Se construye la Estación de Depuración de Aguas Residuales (EDAR) de Húmera para dar servicio a aproximadamente medio centenar de viviendas del barrio. La instalación quedaría posteriormente sobrepasada al tener que depurar aguas de 30.000 habitantes sin las obras de ampliación necesarias."
-    type: "resumen"
-    urls:
-      - "https://www.publico.es/actualidad/vertidos-aguas-fecales-municipio-guertel-sientan-banquillo-sustituto-santamaria.html"
-
-  - fecha: 2006-01-01
-    titulo: "Rehabilitación sin informe ambiental ni autorizaciones"
-    descripcion: "Bajo el mandato del alcalde Jesús Sepúlveda (investigado en Gürtel) se realiza una rehabilitación de la depuradora sin contar con el informe preceptivo de impacto ambiental de la Comunidad de Madrid ni con la autorización de la Confederación Hidrográfica del Tajo, incumpliendo la normativa ambiental vigente."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/actualidad/vertidos-aguas-fecales-municipio-guertel-sientan-banquillo-sustituto-santamaria.html"
-
-  - fecha: 2016-09-01
-    titulo: "Aparecen problemas graves de depuración"
-    descripcion: "Según el posterior auto judicial, es en septiembre de 2016 cuando aparecen los problemas más evidentes de depuración de agua, que la jueza atribuiría a vertidos industriales ilícitos ajenos a la gestión de la EDAR, argumento que sustentaría el posterior sobreseimiento de los responsables políticos."
-    type: "resumen"
-    urls:
-      - "https://www.diariodepozuelo.es/106407-desestiman-el-recurso-que-pedia-que-la-alcaldesa-y-exconcejales-siguieran-imputados-por-la-edar-de-humera"
-
-  - fecha: 2017-06-01
-    titulo: "Juzgado abre diligencias por denuncia vecinal"
-    descripcion: "El Juzgado de Instrucción nº 1 de Pozuelo de Alarcón abre diligencias para investigar la denuncia de los vecinos de Húmera sobre la gestión irregular de las instalaciones de la depuradora, los malos olores persistentes y los vertidos contaminantes al arroyo Antequina que desemboca en el Guadarrama."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.diariodepozuelo.es/104630-el-juez-levanta-la-imputacion-a-susana-perez-quislant-en-el-caso-de-la-depuradora"
-
   - fecha: 2018-09-11
-    titulo: "Pérez-Hickman toma posesión como diputado y se convierte en aforado"
-    descripcion: "Mariano Pérez-Hickman toma posesión de su escaño en el Congreso de los Diputados en sustitución de Soraya Sáenz de Santamaría, convirtiéndose en aforado. Su declaración judicial, prevista para el 19 de septiembre, queda suspendida al adquirir esta condición, que le permitiría evitar comparecer ante el juzgado ordinario."
+    titulo: "Pérez-Hickman toma posesión como diputado y adquiere la condición de aforado"
+    descripcion: "Mariano Pérez-Hickman accede al escaño del Congreso en sustitución de Soraya Sáenz de Santamaría, lo que le otorga la condición de aforado. Su declaración como investigado, prevista para el 19 de septiembre, queda suspendida; según elDiario.es/Europa Press, finalmente compareció ese día pese a ser aforado."
     type: "resumen"
     relevancia: "alta"
     urls:
       - "https://www.madridiario.es/459982/perez-hickman-sustituto-saenz-santamaria-congreso-tambien-imputado"
-      - "https://www.publico.es/politica/mariano-perez-hickman-sustituto-santamaria-imputado-esquiva-declaracion-juez-convertirse-aforado.html"
+      - "https://www.diariodepozuelo.es/101200-mariano-perez-hickman-no-podra-comparecer-en-el-caso-de-la-depuradora-por-su-condicion-de-aforado"
 
   - fecha: 2018-09-18
-    titulo: "Declaran diez concejales y exconcejales del PP"
-    descripcion: "El Servicio de Protección de la Naturaleza (Seprona) de la Guardia Civil toma declaración como investigados no detenidos a la alcaldesa Susana Pérez Quislant y a ocho concejales y exconcejales del PP por un presunto delito medioambiental continuado derivado de los vertidos tóxicos de la depuradora de Húmera durante casi dos décadas."
-    type: "declaración"
+    titulo: "Diez investigados del PP declaran ante el Juzgado nº 1 de Pozuelo"
+    descripcion: "El Juzgado de Instrucción nº 1 de Pozuelo cita a declarar como investigados, los días 18 y 19 de septiembre, a una decena de cargos públicos del PP con responsabilidades de gestión sobre la depuradora desde 2005, entre ellos la alcaldesa Susana Pérez Quislant. Las declaraciones se prestan ante la jueza; las comparecencias ante la Guardia Civil (Seprona) habían tenido lugar en febrero de 2018."
+    type: "imputacion"
     relevancia: "alta"
     urls:
       - "https://www.telemadrid.es/noticias/madrid/Declaran-concejales-Pozuelo-supuestos-Humera-depuradora-0-2050294955--20180918093855.html"
-      - "https://www.publico.es/actualidad/vertidos-aguas-fecales-municipio-guertel-sientan-banquillo-sustituto-santamaria.html"
-
-  - fecha: 2019-02-28
-    titulo: "Fiscal solicita sobreseimiento de la causa"
-    descripcion: "El fiscal del caso presenta escrito solicitando el sobreseimiento de la causa y el levantamiento de la imputación para los diez investigados, considerando que no existen elementos suficientes para acreditar responsabilidad penal individual en la gestión irregular de la depuradora."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://elcorreodepozuelo.com/2019/03/15/sorpresa-y-confusion-ante-el-sobreseimiento-parcial-y-provisional-de-las-actuaciones-por-falta-de-autor-conocido-del-proceso-contra-los-recursos-naturales-y-el-medio-ambient/"
+      - "https://www.diariodepozuelo.es/101170-los-investigados-por-el-caso-de-la-depuradora-de-humera-declararan-el-18-y-19-de-septiembre"
 
   - fecha: 2019-03-14
-    titulo: "Jueza acuerda sobreseimiento parcial y provisional"
-    descripcion: "La jueza que instruye el caso acuerda el sobreseimiento parcial y provisional de las actuaciones por falta de autor conocido, levantando la imputación a Susana Pérez Quislant y los otros nueve investigados. Argumenta que los problemas de depuración aparecieron en 2016 por causas ajenas a la EDAR (vertidos industriales ilícitos)."
-    type: "sentencia"
+    titulo: "Auto de sobreseimiento parcial y provisional por falta de autor conocido"
+    descripcion: "La jueza Carolina González dicta auto de sobreseimiento parcial y provisional de las actuaciones y levanta la imputación a los diez investigados, tras haberlo solicitado el fiscal a finales de febrero de 2019. El auto argumenta que los problemas de depuración no aparecieron realmente hasta septiembre de 2016 por causas ajenas a la EDAR (vertidos industriales ilícitos) y la instrucción continúa para identificar a los autores desconocidos. No es una sentencia."
+    type: "sobreseimiento"
     relevancia: "alta"
     urls:
       - "https://www.diariodepozuelo.es/104630-el-juez-levanta-la-imputacion-a-susana-perez-quislant-en-el-caso-de-la-depuradora"
       - "https://elcorreodepozuelo.com/2019/03/15/sorpresa-y-confusion-ante-el-sobreseimiento-parcial-y-provisional-de-las-actuaciones-por-falta-de-autor-conocido-del-proceso-contra-los-recursos-naturales-y-el-medio-ambient/"
 
-  - fecha: 2019-09-01
-    titulo: "Desestiman recurso de la Asociación de Afectados"
-    descripcion: "El Juzgado de Primera Instancia e Instrucción nº 1 de Pozuelo de Alarcón desestima el recurso de apelación presentado por Javier López Caballero, presidente de la Asociación de Afectados por la Depuradora de Pozuelo (ADEPO), contra el auto que sobreseía provisionalmente a todos los investigados."
-    type: "sentencia"
+  - fecha: 2019-06-06
+    titulo: "La jueza deniega a Yolanda Estrada el sobreseimiento libre"
+    descripcion: "La titular del Juzgado nº 1 de Pozuelo desestima la petición de Yolanda Estrada de que el sobreseimiento provisional se sustituyera por uno libre. El auto recuerda que el sobreseimiento acordado es parcial y que la instrucción podría aportar nuevos indicios y reabrir el procedimiento respecto de ella y del resto de imputados. La fiscalía comparte la decisión."
+    type: "sobreseimiento"
+    relevancia: "media"
+    urls:
+      - "https://www.diariodepozuelo.es/105577-la-juez-desestima-la-peticion-de-yolanda-estrada-de-sobreseimiento-libre-en-el-caso-de-la-depuradora-de-humera"
+
+  - fecha: 2019-09-03
+    titulo: "Se informa de que el Juzgado desestima el recurso de ADEPO"
+    descripcion: "En esta fecha (de publicación, no necesariamente de la resolución) Diario de Pozuelo informa de que el Juzgado nº 1 de Pozuelo ha desestimado el recurso formulado por el presidente de la Asociación de Afectados por la Depuradora de Pozuelo (ADEPO) contra el auto de sobreseimiento provisional, y añade que contra la resolución 'ya no cabe recurso alguno'. La fecha exacta del auto no consta en la información."
+    type: "recurso"
+    relevancia: "alta"
     urls:
       - "https://www.diariodepozuelo.es/106407-desestiman-el-recurso-que-pedia-que-la-alcaldesa-y-exconcejales-siguieran-imputados-por-la-edar-de-humera"
+
+  - fecha: 2021-02-24
+    titulo: "Convenio para suprimir la depuradora de Húmera"
+    descripcion: "Los ayuntamientos de Pozuelo de Alarcón y de Madrid firman un convenio para que la totalidad de las aguas pluviales y residuales de Pozuelo se depuren en la ERAR Viveros de la Villa, de Madrid, lo que según el Ayuntamiento supone que 'desaparece la depuradora de Húmera' y evita posibles vertidos al arroyo Antequina."
+    type: "resumen"
+    relevancia: "media"
+    urls:
+      - "https://www.pozuelodealarcon.org/tu-ayuntamiento/gabinete-de-prensa/noticias/perez-quislant-y-almeida-firman-un-convenio-para-que-la-totalidad-de-las-aguas-pluviales-y-residuales-de-pozuelo-se-depuren-en-madrid"
+      - "https://pozueloin.es/noticias/noticia/desaparece-la-depuradora-de-humera-pozuelo-depurara-sus-aguas-pluviales-y-residuales-en-madrid/"
+
+  - fecha: 2025-12-05
+    titulo: "Se informa de la prórroga del contrato de explotación de la EDAR"
+    descripcion: "En esta fecha de publicación, El Correo de Pozuelo informa de que la Junta de Gobierno Local ha prorrogado el contrato de explotación, mantenimiento y conservación de la EDAR de Húmera (expediente 2023/PA/024) del 27 de diciembre de 2025 al 26 de diciembre de 2026, sosteniendo que la instalación seguiría operando. Es una información de prensa local, no una resolución judicial, y contrasta con el anuncio de supresión de 2021."
+    type: "resumen"
+    relevancia: "baja"
+    urls:
+      - "https://elcorreodepozuelo.com/2025/12/05/la-depuradora-de-humera-o-el-gran-problema-que-tejero-no-quiere-mirar-prorrogando-el-contrato-de-mantenimiento-y-conservacion-en-lugar-de-solucionarlo-ya-que-arpo-esta-ahi/"
 ---
+
+## Incertidumbres y limitaciones de esta ficha
+
+- **Sin sentencia.** No existe sentencia: el cierre fue un auto de sobreseimiento **parcial y provisional** (14 de marzo de 2019), dictado por "falta de autor conocido". Un sobreseimiento provisional puede tener auto firme; aquí la prensa local indicó que, tras desestimarse el recurso de ADEPO (septiembre de 2019), "ya no cabe recurso alguno", pero el propio auto es reabrible si aparecen nuevos indicios. No debe etiquetarse como "sentencia firme".
+- **fechaInicio omitida.** Las diligencias se abrieron en junio de 2017, dato conocido solo por mes y año; el día exacto no consta, por lo que no se usa una fecha artificial. La denuncia vecinal se registró en abril de 2017.
+- **fechaFin vacía.** La última resolución conocida (desestimación del recurso de ADEPO) se conoce por la noticia de prensa del 3 de septiembre de 2019; no consta la fecha del auto, por lo que fechaFin queda vacía.
+- **Naturaleza del recurso.** La fuente local lo denomina "recurso de apelación" resuelto por el mismo Juzgado, lo que plantea dudas sobre si se trataba de un recurso de reforma ante el propio órgano o de una apelación ante la Audiencia Provincial.
+- **Número de investigados.** Diario de Pozuelo detalla diez cargos públicos del PP; El Correo de Pozuelo habla de once personas investigadas (incluido un técnico); otras notas mencionan "nueve ediles" (El Confidencial, febrero de 2018). No se ha localizado una resolución oficial que fije el número.
+- **Arroyo Antequina.** La prensa discrepa sobre su desembocadura: Europa Press (citando a Somos Pozuelo) indica el Manzanares y El Confidencial/Público el Guadarrama; un informe local de 2026 lo describe como el único arroyo de Madrid capital que desemboca en el Manzanares. El Manzanares es afluente del Jarama, no del Guadarrama.
+- **Aforamiento.** La toma de posesión de Pérez-Hickman como diputado (11 de septiembre de 2018) suspendió inicialmente su declaración; según elDiario.es/Europa Press, compareció el 19 de septiembre de 2018 pese a ser aforado. No consta que el asunto se derivara al Tribunal Supremo.
+- **Vigencia de la EDAR.** El convenio de 2021 anunció la supresión de la depuradora de Húmera, pero una información local de diciembre de 2025 sostiene que seguía operando mediante contrato prorrogado hasta diciembre de 2026. La situación física actual no está confirmada por una fuente oficial reciente.
+- **Sin novedades judiciales posteriores.** No se han localizado resoluciones o noticias judiciales posteriores a 2019. La ausencia de noticias no confirma ni el cierre definitivo ni la continuidad de la instrucción.
+- **Sin coste documentado.** No consta un coste del caso; las sanciones de la CHT (unos 30.000 euros) y el suplemento municipal de 3,5 millones de euros para reacondicionamiento son gastos de naturaleza distinta y no se suman como coste judicial.
