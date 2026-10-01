@@ -9,7 +9,7 @@ estado: "cerrado con condenas"
 descripcion: |
   El Caso Abogados Melilla se refiere al sistema de contratación de letrados externos por parte de la Consejería de Bienestar Social y Sanidad de la Ciudad Autónoma de Melilla. Según la sentencia, la consejera María Antonia Garbín (PP) suscribió entre 2003 y 2013 un total de 91 contratos menores de consultoría y asesoramiento jurídico con cuatro letrados, encadenando periodos de entre cuatro y seis meses para eludir los procedimientos ordinarios de licitación, sin la publicidad ni la concurrencia exigidas por la normativa de contratación administrativa. El volumen económico de esos 91 contratos ascendió a 1.114.510,91 euros, importe que refleja el gasto público comprometido en la contratación y no un daño o perjuicio económico acreditado de forma autónoma: la condena lo fue por prevaricación administrativa, no por malversación. El procedimiento se originó en 2011 a raíz de una querella de la Asociación Libre de Abogados (ALA) de Melilla.
 
-  El Juzgado de lo Penal número 1 de Melilla condenó en 2017 a 14 personas: a Garbín, como autora de un delito continuado de prevaricación administrativa, a 10 años de inhabilitación especial para cargo público, y a otras trece (entre funcionarios y letrados) a penas de entre cuatro y nueve años de inhabilitación. El fallo se conoció a través de la prensa el 6 de octubre de 2017; no consta acreditado el día exacto de la resolución. La Sección Séptima de la Audiencia Provincial de Málaga, con sede en Melilla, emitió el 11 de enero de 2019 una sentencia que estimó los recursos del resto de condenados y los absolvió, de modo que únicamente confirmó la condena de Garbín.
+  El Juzgado de lo Penal número 1 de Melilla condenó en 2017 a 14 personas: a Garbín, como autora de un delito continuado de prevaricación administrativa, a 10 años de inhabilitación especial para cargo público, y a otras trece (entre funcionarios y letrados) a penas de inhabilitación. El fallo se conoció a través de la prensa el 6 de octubre de 2017; no consta acreditado el día exacto de la resolución. La Sección Séptima de la Audiencia Provincial de Málaga, con sede en Melilla, emitió el 11 de enero de 2019 una sentencia que estimó los recursos del resto de condenados y los absolvió, de modo que únicamente confirmó la condena de Garbín.
 
   En paralelo, el Tribunal Supremo se declaró competente en febrero de 2015 para investigar al presidente de Melilla y senador Juan José Imbroda (PP) por la contratación directa del letrado Juan Jesús Olivares en 2001, a quien se atribuye el pago de 357.000 euros según la mayoría de las fuentes (395.000 euros hasta 2010 según El País). El Supremo archivó la causa en abril de 2015 y rechazó en julio de ese año el recurso de la Fiscalía al considerar prescrito el delito. El Juzgado de Instrucción número 2 de Melilla mantuvo una pieza separada del caso en la que fueron citados como imputados dos exvicepresidentes y una exdiputada, entre otros.
 
@@ -66,8 +66,8 @@ cronologia:
       - "https://elfarodemelilla.es/garbin-imputada-por-firmar-contratos-con-4-abogados-externos-entre-2002-y-2011/"
 
   - fecha: "2014-09-12"
-    titulo: "Declaración de María Antonia Garbín como imputada"
-    descripcion: "La consejera de Bienestar Social declara ante el Juzgado de Instrucción número 2 en calidad de imputada por la contratación de los cuatro letrados externos. Defiende la legalidad de los contratos y sostiene que las contrataciones se remontan a antes de su llegada al cargo."
+    titulo: "Fecha prevista para la declaración de María Antonia Garbín"
+    descripcion: "La consejera de Bienestar Social fue citada para declarar el 12 de septiembre de 2014 ante el Juzgado de Instrucción número 2 en calidad de imputada por la contratación de cuatro letrados externos, según la noticia del 24 de agosto. La fuente acredita el señalamiento, no que la comparecencia se celebrara efectivamente."
     type: "declaración"
     urls:
       - "https://elfarodemelilla.es/garbin-imputada-por-firmar-contratos-con-4-abogados-externos-entre-2002-y-2011/"
@@ -119,7 +119,7 @@ cronologia:
 
   - fecha: "2017-10-06"
     titulo: "Se conoce el fallo de primera instancia: 14 condenados"
-    descripcion: "El Juzgado de lo Penal número 1 de Melilla condena a 14 personas: María Antonia Garbín, a 10 años de inhabilitación especial como autora de un delito continuado de prevaricación administrativa, y otras trece (funcionarios y letrados), a penas de entre cuatro y nueve años. El 6 de octubre de 2017 es la fecha en que la prensa publica el fallo (El Periódico), no la fecha exacta de la resolución: los acusados conocieron la sentencia de forma oficiosa a finales de septiembre y las notificaciones se esperaban entonces, mientras otros medios datan la publicación el 7 y el 8 de octubre. No consta acreditado el día exacto de la sentencia."
+    descripcion: "El Juzgado de lo Penal número 1 de Melilla condena a 14 personas: María Antonia Garbín, a 10 años de inhabilitación especial como autora de un delito continuado de prevaricación administrativa, y otras trece (funcionarios y letrados), a penas de inhabilitación. El 6 de octubre de 2017 es la fecha en que la prensa publica el fallo (El Periódico), no la fecha exacta de la resolución: los acusados conocieron la sentencia de forma oficiosa a finales de septiembre y las notificaciones se esperaban entonces, mientras otros medios datan la publicación el 7 y el 8 de octubre. No consta acreditado el día exacto de la sentencia."
     type: "sentencia"
     urls:
       - "https://www.elperiodico.com/es/sociedad/20171006/condenan-exconsejera-melilla-10-anos-6337276"
