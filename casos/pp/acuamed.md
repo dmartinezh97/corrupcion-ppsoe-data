@@ -9,7 +9,7 @@ estado: "pendiente de juicio"
 descripcion: |
   El caso Acuamed, conocido como Operación Frontino, investiga una presunta trama de corrupción en la empresa pública Aguas de las Cuencas Mediterráneas SA (Acuamed), dependiente del Ministerio de Agricultura y Medio Ambiente. Según los autos de instrucción, la cúpula de la empresa, encabezada por su director general Arcadio Mateo del Puerto, habría manipulado la adjudicación y ejecución de contratos de obras hidráulicas y medioambientales en la cuenca mediterránea para favorecer a determinadas constructoras.
 
-  La investigación sostiene, de forma indiciaria, que el sistema funcionaba mediante acuerdos entre altos cargos de Acuamed y ejecutivos de constructoras como FCC, Acciona Infraestructuras y Altec, que habrían entregado dádivas (viajes, estancias, regalos y dinero) a cambio de adjudicaciones irregulares y de certificaciones y liquidaciones de obra infladas. Entre los hechos recogidos en el auto de procesamiento de abril de 2023 figura un implante de pelo en Turquía por valor de 4.500 euros atribuido a Arcadio Mateo. Durante el registro de su domicilio, la Guardia Civil intervino 120.000 euros en billetes de 500 euros. Ninguna de las personas implicadas ha sido condenada: la causa está pendiente de juicio oral.
+  La investigación sostiene, de forma indiciaria, que el sistema funcionaba mediante acuerdos entre altos cargos de Acuamed y ejecutivos de constructoras como FCC, Acciona Infraestructuras y Altec, que habrían entregado dádivas (viajes, estancias, regalos y dinero) a cambio de adjudicaciones irregulares y de certificaciones y liquidaciones de obra infladas. Entre los hechos recogidos en el auto de procesamiento de abril de 2023 figura un implante de pelo en Turquía por valor de 4.500 euros atribuido a Arcadio Mateo. Durante el registro de su domicilio, la Guardia Civil intervino 120.000 euros en billetes de 500 euros. No consta ninguna sentencia condenatoria: el último dato contrastado sitúa la causa pendiente de juicio oral en enero de 2026, sin que se haya podido verificar su estado actual (octubre de 2026).
 
   La causa arrancó en 2015 a raíz de denuncias de cargos de Acuamed y se hizo pública el 18 de enero de 2016, cuando la Guardia Civil ejecutó la Operación Frontino con 13 detenciones. El juez Eloy Velasco decretó prisión incondicional para cinco de los detenidos. En abril de 2023 el juez Manuel García Castellón procesó a 42 personas por corrupción en los negocios, falsedad documental, fraude a la administración, prevaricación, malversación de caudales públicos y cohecho. Según informaciones periodísticas de marzo de 2025, cuya fecha de resolución exacta no ha podido confirmarse con una fuente oficial, el magistrado Antonio Piña, sucesor de García Castellón en el Juzgado Central de Instrucción nº 6, habría comunicado el cierre de la instrucción y elevado la causa para juicio oral ante la Sala de lo Penal de la Audiencia Nacional; esta ficha no da por acreditados ni la fecha ni el contenido de esa resolución. La última información contrastada sobre el estado del procedimiento es de enero de 2026, cuando seguía sin constar un señalamiento de vista oral; a fecha de esta revisión (octubre de 2026) no se ha podido verificar si la situación procesal ha variado, por lo que no debe presumirse la continuidad de ese estado. La cifra de perjuicio económico de 20 millones de euros procede de filtraciones periodísticas iniciales y tampoco ha sido confirmada judicialmente.
 
@@ -91,14 +91,14 @@ tags:
   - "falsedad documental"
   - "organización criminal"
 
-impactoSocial: "El caso Acuamed reveló una de las tramas de corrupción más graves investigadas en la gestión del agua en España, afectando a infraestructuras hídricas críticas para el abastecimiento de la cuenca mediterránea. La implicación de un exministro convertido en Comisario Europeo generó un escándalo político, aunque el Parlamento Europeo rechazó llamarle a comparecer. La Operación Frontino destapó cómo constructoras de primera línea participaban presuntamente en sobornos para obtener contratos públicos millonarios."
+impactoSocial: "El caso Acuamed reveló una de las tramas de corrupción más graves investigadas en la gestión del agua en España, afectando a infraestructuras hídricas críticas para el abastecimiento de la cuenca mediterránea. La mención de un exministro convertido en Comisario Europeo en el marco de la causa generó un escándalo político. La Operación Frontino destapó cómo constructoras de primera línea participaban presuntamente en sobornos para obtener contratos públicos millonarios."
 
 documentos: []
 
 cronologia:
   - fecha: "2016-01-18"
     titulo: "Operación Frontino: detención de 13 personas"
-    descripcion: "La Unidad Central Operativa (UCO) de la Guardia Civil ejecuta la Operación Frontino en las primeras horas de la mañana, registrando la sede de Acuamed en Madrid y las sedes de Acciona Infraestructuras, FCC Construcción y Altec, entre otras, en Valencia, Alicante y Castellón. La operación concluye con la detención de 13 personas, incluidos el director general de Acuamed, Arcadio Mateo del Puerto; la subdirectora de Ingeniería y Construcción, María Gabriela Mañueco; el responsable de Contratación, Francisco Javier Gómez Pastor; el delegado en Valencia, Pablo Martín, y el presidente de Altec, Nicolás Steegmann, además de empresarios. Los detenidos son acusados de organización criminal, prevaricación, fraude, malversación, cohecho, tráfico de influencias y falsedad documental."
+    descripcion: "La Unidad Central Operativa (UCO) de la Guardia Civil ejecuta la Operación Frontino en las primeras horas de la mañana, registrando la sede de Acuamed en Madrid y las sedes de Acciona Infraestructuras, FCC Construcción y Altec, entre otras, en Valencia, Alicante y Castellón. La operación concluye con la detención de 13 personas, incluidos el director general de Acuamed, Arcadio Mateo del Puerto; la subdirectora de Ingeniería y Construcción, María Gabriela Mañueco; el responsable de Contratación, Francisco Javier Gómez Pastor; el delegado en Valencia, Pablo Martín, y el presidente de Altec, Nicolás Steegmann, además de empresarios. En el momento de la detención se les atribuyen indiciariamente delitos de organización criminal, prevaricación, fraude, malversación, cohecho, tráfico de influencias y falsedad documental; son investigados, sin que conste entonces una acusación formal."
     type: "detención"
     urls:
       - "https://www.cadenaser.com/ser/2016/01/18/tribunales/1453146243_640771.html"
@@ -106,7 +106,7 @@ cronologia:
 
   - fecha: "2016-01-20"
     titulo: "Juez Velasco ordena prisión para cinco detenidos"
-    descripcion: "El juez Eloy Velasco de la Audiencia Nacional decreta prisión incondicional para cinco de los 13 detenidos en la Operación Frontino: Arcadio Mateo del Puerto, Francisco Javier Gómez Pastor, María Gabriela Mañueco, Pablo Martín y Nicolás Steegmann. Los otros ocho detenidos quedan en libertad provisional con fianzas que oscilan entre 12.000 y 50.000 euros. El magistrado considera que existen indicios suficientes de que los acusados formaban parte de una organización criminal que causó un daño a las arcas públicas superior a 20 millones de euros. Durante el registro del domicilio de Arcadio Mateo, la Guardia Civil incauta 120.000 euros en billetes de 500 euros que presuntamente procedían de sobornos."
+    descripcion: "El juez Eloy Velasco de la Audiencia Nacional decreta prisión incondicional para cinco de los 13 detenidos en la Operación Frontino: Arcadio Mateo del Puerto, Francisco Javier Gómez Pastor, María Gabriela Mañueco, Pablo Martín y Nicolás Steegmann. Los otros ocho detenidos quedan en libertad provisional con fianzas que oscilan entre 12.000 y 50.000 euros. El magistrado considera que existen indicios suficientes de que los investigados formaban parte de una organización criminal que causó un daño a las arcas públicas superior a 20 millones de euros. Durante el registro del domicilio de Arcadio Mateo, la Guardia Civil incauta 120.000 euros en billetes de 500 euros que presuntamente procedían de sobornos."
     type: "investigación"
     urls:
       - "https://www.telemadrid.es/noticias/nacional/prision-detenidos-caso-Acuamed-fianza-0-1758724136--20160120082313.html"
@@ -119,21 +119,6 @@ cronologia:
     type: "resumen"
     urls:
       - "https://www.cuartopoder.es/espana/2016/01/21/18071/"
-
-  - fecha: "2016-01-28"
-    titulo: "Mención a Miguel Arias Cañete en las diligencias judiciales"
-    descripcion: "El expediente judicial del caso Acuamed menciona al exministro de Agricultura Miguel Arias Cañete, quien dirigió el departamento del que dependía Acuamed entre 2011 y 2014, antes de convertirse en Comisario Europeo de Acción por el Clima y Energía. El denunciante Francisco Manuel Valiente González declara ante el juez que el director general Arcadio Mateo le confesó en 2013 que la adjudicación inflada de un contrato a FCC procedía de 'órdenes directas' del ministro Cañete. La fecha exacta de esta declaración no ha podido revalidarse en esta revisión."
-    type: "investigación"
-    urls:
-      - "https://www.publico.es/politica/pregunta-bruselas-medidas-eventual-implicacion.html"
-      - "https://www.vozpopuli.com/economia/miguel_arias_canete-caso_acuamed-comision_europea-papeles_de_panama-acuamed-papeles_de_panama_0_918808118.html"
-
-  - fecha: "2016-05-25"
-    titulo: "Parlamento Europeo rechaza comparecer a Arias Cañete"
-    descripcion: "El Parlamento Europeo rechaza la propuesta de varios grupos políticos, incluidos Podemos y Los Verdes, de que el comisario europeo Miguel Arias Cañete comparezca en el pleno para responder a las acusaciones sobre su presunta implicación en el caso Acuamed. Socialistas y populares europeos se unen para bloquear la comparecencia. La Comisión Europea aclara que ha solicitado información sobre el caso pero lo deja en manos de las autoridades judiciales españolas. La fecha concreta de esta votación no ha podido revalidarse en esta revisión."
-    type: "resumen"
-    urls:
-      - "https://www.republica.com/2016/05/25/socialistas-y-populares-europeos-se-unen-para-impedir-que-canete-comparezca-por-acuamed/"
 
   - fecha: "2016-06-08"
     titulo: "Arcadio Mateo sale de prisión tras abonar una fianza de 300.000 euros"
@@ -150,25 +135,26 @@ cronologia:
       - "https://okdiario.com/economia/juez-archiva-causa-caso-acuamed-contra-consejero-delegado-acciona-no-ver-delito-6065589"
 
   - fecha: "2020-12-20"
-    titulo: "Sobreseimiento provisional de la imputación de Justo Vicente Pelegrini (Acciona)"
-    descripcion: "El juez García Castellón dicta el sobreseimiento provisional de la imputación de Justo Vicente, director general de Construcción de Acciona España y Portugal, por las presuntas irregularidades en las obras de la desaladora de Torrevieja. Con esta decisión, Acciona consigue el archivo de la causa para sus dos directivos investigados (Luis Castilla y Justo Vicente)."
+    titulo: "Se conoce el sobreseimiento provisional de Justo Vicente Pelegrini (Acciona) (fecha de publicación)"
+    descripcion: "La fecha consignada (20/12/2020) es la de publicación de la noticia de Expansión, que da cuenta de un auto del juez García Castellón; el auto no se fecha en la información revalidada, por lo que no se afirma un día exacto de la resolución. El juez acuerda el sobreseimiento provisional de la imputación de Justo Vicente, director general de Construcción de Acciona España y Portugal, por las presuntas irregularidades en las obras de la desaladora de Torrevieja. Con esta decisión, Acciona consigue el archivo de la causa para sus dos directivos investigados (Luis Castilla y Justo Vicente)."
     type: "investigación"
     urls:
       - "https://www.expansion.com/empresas/2020/12/20/5fdfabbf468aeb674e8b46ad.html"
 
   - fecha: "2021-02-13"
-    titulo: "La Sala confirma la exoneración de Luis Castilla (Acciona)"
-    descripcion: "La Sección Cuarta de la Sala de lo Penal de la Audiencia Nacional desestima el recurso de la Fiscalía Anticorrupción y confirma el sobreseimiento provisional de Luis Castilla al no apreciar 'datos indiciarios suficientes' sobre su participación tras cinco años de instrucción. La resolución supone un revés para Anticorrupción y alimenta las críticas sobre la solidez de la investigación, aunque la causa continúa para el resto de procesados."
+    titulo: "Se conoce que la Sala confirma la exoneración de Luis Castilla (Acciona) (fecha de publicación)"
+    descripcion: "La fecha consignada (13/02/2021) es la de publicación de la noticia de Libertad Digital, que informa de un auto de la Sección Cuarta de la Sala de lo Penal; el auto no se fecha en la información revalidada, por lo que no se afirma un día exacto de la resolución. La Sala desestima el recurso de la Fiscalía Anticorrupción (al que se adhirió la Abogacía del Estado) y confirma el sobreseimiento provisional de Luis Castilla al no apreciar 'datos indiciarios suficientes' sobre su participación tras cinco años de instrucción. La resolución supone un revés para Anticorrupción y alimenta las críticas sobre la solidez de la investigación, aunque la causa continúa para el resto de procesados."
     type: "investigación"
     urls:
       - "https://www.libertaddigital.com/espana/2021-02-13/caso-acuamed-agoniza-audiencia-nacional-exonera-imputado-contra-criterio-anticorrupcion-6708268/"
 
   - fecha: "2022-04-18"
     titulo: "Fiscalía Europea deja el caso en manos de la jurisdicción española"
-    descripcion: "La Fiscalía Europea concluye que no ejercerá su derecho de avocación sobre el caso Acuamed porque los hechos investigados son anteriores al 20 de noviembre de 2017, fecha de su entrada en funcionamiento, y devuelve las actuaciones al Juzgado Central de Instrucción nº 6. El juez Manuel García Castellón, que había asumido la instrucción tras el juez Velasco, señala en un auto de finales de marzo que la instrucción está a punto de cerrarse."
+    descripcion: "La Fiscalía Europea concluye que no ejercerá su derecho de avocación sobre el caso Acuamed porque los hechos investigados son anteriores al 20 de noviembre de 2017, límite temporal de su competencia (fecha de entrada en vigor del Reglamento de la Fiscalía Europea), y devuelve las actuaciones al Juzgado Central de Instrucción nº 6. La EPPO no inició sus operaciones hasta el 1 de junio de 2021, por lo que no estaba en funcionamiento cuando se cometieron los hechos. El juez Manuel García Castellón, que había asumido la instrucción tras el juez Velasco, señala en un auto de finales de marzo que la instrucción está a punto de cerrarse."
     type: "investigación"
     urls:
       - "https://www.leonoticias.com/nacional/fiscalia-europea-deja-20220418170951-ntrc.html"
+      - "https://commission.europa.eu/law/cross-border-cases/judicial-cooperation/networks-and-bodies-supporting-judicial-cooperation/european-public-prosecutors-office-eppo_en"
 
   - fecha: "2023-02-17"
     titulo: "Anticorrupción dice que la reforma de la malversación no afecta al caso"
@@ -179,15 +165,15 @@ cronologia:
 
   - fecha: "2023-04-25"
     titulo: "Procesamiento de 42 personas por el juez García Castellón"
-    descripcion: "El juez de la Audiencia Nacional Manuel García Castellón procesa a un total de 42 personas en el caso Acuamed tras siete años de instrucción. El auto judicial atribuye a los procesados delitos de corrupción en los negocios, falsedad documental, fraude a la administración, prevaricación, malversación de caudales públicos y cohecho relacionados con la adjudicación y ejecución supuestamente irregular de una veintena de obras hidráulicas y medioambientales en la cuenca del Mediterráneo entre 2012 y 2015. Entre los procesados figura el exdirector general de Acuamed, Arcadio Mateo del Puerto."
+    descripcion: "El juez de la Audiencia Nacional Manuel García Castellón procesa a un total de 42 personas en el caso Acuamed tras siete años de instrucción. El auto judicial atribuye a los procesados delitos de corrupción en los negocios, falsedad documental, fraude a la administración, prevaricación, malversación de caudales públicos y cohecho relacionados con la adjudicación y ejecución supuestamente irregular de una veintena de obras hidráulicas y medioambientales en la cuenca del Mediterráneo entre 2012 y 2015. Entre los procesados figura el exdirector general de Acuamed, Arcadio Mateo del Puerto. La fecha consignada (25/04/2023) es la de la nota oficial del CGPJ, que da cuenta del auto; el auto no lleva fecha expresa en la información revalidada, por lo que no se afirma un día concreto de la resolución."
     type: "investigación"
     urls:
       - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-de-la-Audiencia-Nacional-procesa-a-42-personas-por-la-adjudicacion-y-ejecucion-irregular-de-obras-hidraulicas-y-medioambientales-en-el--caso-Acuamed-"
       - "https://www.libertaddigital.com/espana/2023-04-25/juez-procesa-42-personas-caso-acuamed-7008146/"
 
   - fecha: "2023-12-08"
-    titulo: "La Sala Penal desestima los recursos y confirma el camino a juicio oral"
-    descripcion: "La Sección Cuarta de la Sala de lo Penal de la Audiencia Nacional desestima los recursos presentados por los procesados contra el auto de procesamiento de abril de 2023. Los magistrados consideran que existen indicios sólidos de criminalidad para sentar en el banquillo a los 42 procesados por corrupción en los negocios, malversación agravada, falsedad documental, fraude a la administración y prevaricación, y confirman el camino hacia la apertura de juicio oral."
+    titulo: "La Sala Penal desestima recursos y confirma los indicios para el banquillo (fecha de publicación)"
+    descripcion: "La fecha consignada (08/12/2023) es la de publicación de las noticias (Vozpópuli publicó el 07/12/2023 y Levante-EMV el 08/12/2023); la Sala resolvía los recursos uno a uno mediante autos cuya fecha exacta no consta en las fuentes revalidadas, por lo que no se afirma un día concreto de resolución. La Sección Cuarta de la Sala de lo Penal de la Audiencia Nacional desestima los recursos presentados por los procesados contra el auto de procesamiento de abril de 2023. Los magistrados consideran que existen indicios sólidos de criminalidad para sentar en el banquillo a los 42 procesados por corrupción en los negocios, malversación agravada, falsedad documental, fraude a la administración y prevaricación, y confirman el camino hacia la apertura de juicio oral."
     type: "investigación"
     urls:
       - "https://www.vozpopuli.com/espana/audiencia-recursos-acuamed-banquillo-malversacion.html"
@@ -223,13 +209,19 @@ cronologia:
 ### Personas y roles
 - Justo Vicente Pelegrini y Luis Castilla (Acciona): sus imputaciones fueron sobreseídas provisionalmente (agosto y diciembre de 2020) y el archivo de Castilla fue ratificado por la Sala en febrero de 2021.
 - Federico Ramos de Armas: el juez levantó su imputación en octubre de 2016.
-- Miguel Arias Cañete: mencionado en las diligencias y compareciente; en las fuentes consultadas no consta que fuera procesado en el auto de abril de 2023.
+- Miguel Arias Cañete: mencionado en las diligencias; en las fuentes consultadas no consta que fuera procesado en el auto de abril de 2023.
 - Okdiario informó (18/01/2026) de que dos procesados habían fallecido; las fuentes consultadas no los identifican, por lo que no se consignan nombres.
 - Los roles de los implicados se han actualizado para distinguir detenciones históricas de 2016, procesamientos de 2023 y archivos. Las fianzas de 2016 que se consignan (Santiago Farré y Miguel Roset, 20.000 € cada uno; Manuel Moreno Maestre, 12.000 €; y la de Arcadio Mateo, 300.000 € tras rebajarse desde los 600.000 iniciales) se han contrastado con fuentes periodísticas concretas de 2016 (Diario de Navarra, 20/01/2016; Público, 08/06/2016).
+
+### Sobre las entradas retiradas de la cronología (fechas no revalidadas)
+- Se han retirado de la cronología las entradas fechadas 28/01/2016 y 25/05/2016 porque sus fechas no se han podido revalidar: la URL de Público usada para el 28/01/2016 corresponde hoy a un artículo del 26/01/2016 sobre una pregunta escrita de Podemos a la Comisión Europea, y la URL de Republica.com del 25/05/2016 devuelve un error 404. Al no poder contrastar la fuente completa, no se mantienen como hitos fechados.
+- En particular, no se ha podido verificar la supuesta declaración del denunciante Francisco Valiente según la cual Arcadio Mateo le habría manifestado en 2013 que una adjudicación a FCC procedía de "órdenes directas" del entonces ministro Arias Cañete. Ese extremo no se recoge como hecho ni se atribuye a Cañete; queda como referencia periodística no acreditada y pendiente de revalidación.
+- Lo que sí aparece en las fuentes revalidadas es que declaraciones de cargos del Ministerio (Federico Ramos y Liana Ardiles) ante el juez Velasco implicaron a Arias Cañete por haber protegido y promocionado a Arcadio Mateo cuando era ministro (Vozpópuli, 22/05/2016). No consta en las fuentes consultadas que Cañete fuera procesado en el auto de abril de 2023.
 
 ### Clasificación del caso
 - La causa se centra en la adjudicación y ejecución de obras entre 2012 y 2015, periodo de gobierno del PP. La empresa Acuamed fue creada bajo un gobierno del PSOE. La ficha mantiene `partido: PP` por el periodo de los hechos investigados, sin que ello implique atribución de culpabilidad a ninguna formación.
 
 ### Limitaciones de la revisión
-- Varias URLs de cronología de 2016 y 2017 (Telemadrid, Republica.com, Cuarto Poder, Público) no se han podido descargar y verificar íntegramente en esta revisión; se conservan a la espera de revalidación.
+- Varias URLs de cronología de 2016 y 2017 (Telemadrid, Republica.com, Cuarto Poder, Público) no se han podido descargar y verificar íntegramente en esta revisión. En concreto, la URL de Republica.com sobre la votación del Parlamento Europeo devuelve un error 404 y la de Público sobre la mención a Cañete resuelve hoy a un artículo del 26/01/2016 distinto del contenido consignado; por ello se han retirado ambos hitos de la cronología (ver notas anteriores).
+- La fecha del auto de procesamiento de 42 personas y las de los autos que resolvieron los recursos de la Sala no constan expresamente en las fuentes revalidadas: las fechas de la cronología correspondientes son fechas de publicación, no de la resolución.
 - No se han encontrado documentos judiciales publicados (autos o sentencias) accesibles para el campo `documentos`, que se mantiene vacío.
