@@ -1,64 +1,75 @@
 ---
 nombre: "Caso Azud"
 partido: PP
-completado: true
-año: 2019
-fechaInicio: 2019-04-02
+completado: false
+año: 2017
 fechaFin: ""
-estado: "en investigación"
+estado: "pendiente de juicio"
 descripcion: |
-  El caso Azud es una macrocausa judicial instruida por el Juzgado de Instrucción número 13 de Valencia que investiga una red de corrupción urbanística activa en el Ayuntamiento de València y otros municipios de la Comunidad Valenciana durante la alcaldía de Rita Barberá (PP), principalmente entre 1999 y 2013. El caso arrancó a partir de una denuncia anónima en la Agencia Tributaria en 2017 que alertaba sobre el nivel de vida de la familia Corbín Barberá, cuñados de la exalcaldesa. La investigación reveló una trama en la que el empresario Jaime Febrer y su Grupo Axis habrían pagado más de siete millones de euros en comisiones a cargos públicos del PP y del PSOE para obtener beneficios urbanísticos, recalificaciones y adjudicaciones amañadas en nueve grandes operaciones.
+  El caso Azud es una macrocausa instruida por la plaza número 13 de la Sección de Instrucción del Tribunal de Instancia de Valencia (antes Juzgado de Instrucción número 13 de Valencia) sobre el presunto pago de comisiones ilícitas —en metálico, mediante contratos simulados, sobreprecios o regalos— a cargos públicos, funcionarios y abogados a cambio de adjudicaciones de contratos y decisiones urbanísticas en el Ayuntamiento de Valencia y en otros municipios de la Comunitat Valenciana entre 1999 y 2013. Las pesquisas parten de una denuncia anónima ante la Agencia Tributaria sobre el nivel de vida de la familia Corbín Barberá recibida en 2016; a partir de la inspección de la AEAT, la Fiscalía trasladó el caso al juzgado, que abrió la causa en abril de 2017 y la declaró secreta. El nombre «Azud» procede del sistema de desvío de caudales que la Guardia Civil atribuyó a la red.
 
-  La mecánica de la trama consistía en que promotores y constructores abonaban comisiones ilegales a concejales y funcionarios del área de Urbanismo y Patrimonio del Ayuntamiento de Valencia a cambio de que se desbloqueasen expedientes urbanísticos, se aprobasen permutas beneficiosas para los promotores o se facilitasen adjudicaciones irregulares de contratos públicos. Alfonso Grau, mano derecha de Barberá y exvicealcalde, habría recibido más de dos millones de euros; Rafael Rubio, exsubdelegado del Gobierno de extracción socialista, en torno a 300.000 euros; y José María Corbín, abogado y cuñado de Barberá, habría actuado como intermediario clave de la trama. Los investigadores documentaron nueve operaciones urbanísticas concretas en Valencia capital y municipios como Xixona, Burjassot y Gilet, con comisiones que oscilaron entre decenas de miles y varios millones de euros por operación.
+  La instrucción sitúa como presunto articulador al empresario Jaime María Febrer Rovira, del Grupo Axis, que según la Unidad Central Operativa (UCO) de la Guardia Civil habría dispuesto de una estructura societaria para generar dinero en efectivo con el que pagar comisiones (la propia UCO cifra ese efectivo en 7,1 millones de euros en el periodo investigado). En el ámbito municipal figuran el exvicealcalde Alfonso Grau Alonso, el abogado José María Corbín Navarrete —cuñado de la exalcaldesa Rita Barberá— y responsables de Urbanismo y Patrimonio; en el ámbito socialista aparecen el exportavoz municipal y exsubdelegado del Gobierno Rafael Rubio Martínez, el abogado José Luis Vera Llorens y el extesorero del PSPV-PSOE José María Cataluña. La pieza más relevante, la «operación colegios», consistió en la entrega sin subasta pública de tres parcelas municipales a la mercantil Mediterránea de Actuaciones Integradas (MAI) a cambio de que asumiera una deuda de unos 31 millones de euros con congregaciones religiosas; un informe pericial de Hacienda apreció un perjuicio patrimonial para el Ayuntamiento y la UCO cifró en más de 1,9 millones de euros las comisiones de esa operación. Otras operaciones investigadas se refieren a Xixona, Burjassot, Benicàssim y La Vila Joiosa, y a contratos de saneamiento de aguas y ayuda a domicilio.
 
-  La primera detención se produjo en abril de 2019 y la operación alcanzó su mayor envergadura en mayo de 2021, cuando la Guardia Civil detuvo a 14 personas, incluyendo a Grau, Rubio y Febrer, a quienes la jueza envió a prisión provisional. El caso suma más de 58 investigados entre políticos, empresarios y funcionarios, siendo uno de los pocos casos de corrupción en España que afecta simultáneamente a cargos del PP y del PSOE en la misma trama. A principios de 2026 la causa sigue en fase de instrucción sin que se haya dictado aún el auto de apertura de juicio oral.
+  El 3 de septiembre de 2026 la magistrada Pepa Tarodo notificó un auto de procedimiento abreviado de 314 páginas que da por concluida la instrucción y sitúa a 38 personas a un paso del juicio oral, tras haber llegado a haber hasta 61 investigados. El auto aprecia indicios de cohecho, tráfico de influencias, prevaricación, malversación, falsedad documental, blanqueo de capitales y organización criminal, no es firme (cabe recurso de reforma y apelación) y abre un plazo para que la Fiscalía Anticorrupción y las acusaciones presenten escritos de acusación, pidan el sobreseimiento o diligencias complementarias. En julio de 2026 la jueza ya había sobreseído la causa para 15 personas —entre ellas Cataluña y el empresario Enrique Gimeno, por prescripción— y el 18 de septiembre de 2026 el PP se retiró como acusación popular. No consta señalamiento de juicio ni resolución firme, y todos los encausados mantienen la presunción de inocencia.
 
-resumen: "Red de comisiones ilegales en el urbanismo de Valencia durante la era de Rita Barberá que pagó más de 7 millones en sobornos a cargos del PP y PSOE"
+  **Límites e incertidumbres de esta revisión (a 1 de octubre de 2026):** la fecha de la denuncia anónima inicial es discrepante según las fuentes (12 de enero, 4 de octubre o diciembre de 2016), por lo que no se fija con día concreto; la apertura judicial se sitúa en abril de 2017 sin que se haya localizado el auto de incoación ni el día exacto, por lo que se documenta como periodo y no se rellena fechaInicio; no se ha hallado sentencia ni resolución firme; y las cuantías manejadas (dinero generado por la estructura, comisiones, perjuicio patrimonial y gastos electorales) son estimaciones indiciarias de categorías distintas que no deben sumarse como equivalentes. Varios de los investigados figuran también en otras fichas de este repositorio por causas distintas de Azud (Alfonso Grau en Clepsidra y Taula, José Luis Vera en Divalterra, Rafael Rubio en Imelsa); esta ficha se limita a los hechos y resoluciones del caso Azud.
+
+resumen: "Macrocausa de comisiones urbanísticas en Valencia con cargos del PP y del PSOE; instrucción cerrada en 2026 con 38 procesados"
 coste: 7000000
 lugar: "Valencia (Comunitat Valenciana)"
 tribunal:
-  - "Juzgado de Instrucción número 13 de Valencia"
+  - "Plaza n.º 13 de la Sección de Instrucción del Tribunal de Instancia de Valencia (Juzgado de Instrucción n.º 13 de Valencia hasta la reorganización de 2025)"
+  - "Sección Tercera de la Audiencia Provincial de Valencia (recursos y fase intermedia)"
+  - "Fiscalía Anticorrupción (fiscal Pablo Ponce)"
 numeroSentencia: ""
 implicados:
   - nombre: "Alfonso Grau Alonso"
-    cargo: "Exvicealcalde y concejal de Hacienda del Ayuntamiento de Valencia (PP)"
-    rol: "En prisión provisional por cohecho; presuntamente recibió más de 2 millones en comisiones"
+    cargo: "Exvicealcalde y concejal de Economía, Hacienda y Grandes Proyectos del Ayuntamiento de Valencia (1995-2015) y expresidente de AUMSA"
+    rol: "Procesado en 2026; indicios de cohecho, prevaricación, malversación y blanqueo; en prisión provisional en 2021"
 
-  - nombre: "José María Corbín Rubio"
-    cargo: "Abogado y cuñado de la exalcaldesa Rita Barberá"
-    rol: "Detenido en 2019 por cohecho; presunto intermediario y cobrador de comisiones de la trama"
+  - nombre: "José María Corbín Navarrete"
+    cargo: "Abogado, administrador de Corbín Abogados S.L.; cuñado de la exalcaldesa Rita Barberá"
+    rol: "Procesado en 2026; presunto «conseguidor» de comisiones mediante contratos simulados"
 
-  - nombre: "Jaime Febrer Albiach"
-    cargo: "Empresario y promotor inmobiliario, cabeza del Grupo Axis"
-    rol: "En prisión provisional; presunto motor de la trama que pagó los sobornos a cargos públicos"
+  - nombre: "Jaime María Febrer Rovira"
+    cargo: "Empresario y promotor inmobiliario, propietario del Grupo Axis"
+    rol: "Procesado en 2026; presunto pagador y articulador de la trama"
 
-  - nombre: "Rafael Rubio Pérez"
-    cargo: "Exsubdelegado del Gobierno en Valencia (PSOE)"
-    rol: "En prisión provisional por cohecho; presuntamente recibió unos 300.000 euros en comisiones"
+  - nombre: "Rafael Rubio Martínez"
+    cargo: "Exportavoz del grupo municipal socialista y exsubdelegado del Gobierno en Valencia (PSOE)"
+    rol: "Procesado en 2026; presuntos 300.000 euros en comisiones por no fiscalizar la «operación colegios»"
 
   - nombre: "Jorge Bellver Casaña"
-    cargo: "Exconcejal del PP en Valencia, director general de la Generalitat Valenciana"
-    rol: "Investigado formalmente desde 2025; figura en lista de regalos de lujo de la trama"
+    cargo: "Exconcejal de Urbanismo de Valencia (PP) y alto cargo de la Generalitat"
+    rol: "Investigado desde 2019 y procesado en 2026; imputación confirmada por la Audiencia en 2026"
 
-  - nombre: "Federico Ferrando Sancho"
-    cargo: "Empresario, socio fundador de Gesfesa y Edifesa"
-    rol: "Detenido en mayo 2021; libertad provisional con medidas cautelares"
+  - nombre: "José Luis Vera Llorens"
+    cargo: "Abogado, exjefe de los servicios jurídicos de la empresa pública Divalterra"
+    rol: "Procesado en 2026; presunto intermediario de comisiones vinculado al PSPV-PSOE"
 
-  - nombre: "José Luis Vera"
-    cargo: "Jefe de los servicios jurídicos de Divalterra"
-    rol: "Detenido en 2021; habría gestionado comisiones en la operación urbanística de Xixona"
+  - nombre: "Federico Ferrando Giner"
+    cargo: "Empresario, socio fundador de Gesfesa y consejero de Mediterránea de Actuaciones Integradas"
+    rol: "Procesado en 2026; presunta participación en la «operación colegios»"
+
+  - nombre: "Mónica Montoro Soriano"
+    cargo: "Empresaria, consejera de Mediterránea de Actuaciones Integradas y del Grupo Nueva Esfera"
+    rol: "Procesada en 2026; presunto diseño de la tabla de costes con comisiones"
 
   - nombre: "José María Cataluña"
-    cargo: "Exalcalde de Gilet y exsecretario de Finanzas del PSPV-PSOE"
-    rol: "Investigado por cobro de comisiones en adjudicaciones urbanísticas municipales"
+    cargo: "Exsecretario de Finanzas del PSPV-PSOE"
+    rol: "Investigado desde 2021; sobreseído en julio de 2026 por prescripción"
 
-  - nombre: "Asunción Barberá Rubio"
-    cargo: "Hermana de la exalcaldesa Rita Barberá"
-    rol: "Investigada junto a sus hijas por presunto blanqueo de comisiones de la trama"
+  - nombre: "Rosa María Verdú Ramos"
+    cargo: "Exalcaldesa de Xixona (PP)"
+    rol: "Procesada en 2026; presuntos cohecho, prevaricación y tráfico de influencias en el PAI El Espartal"
 
-  - nombre: "Mónica Montero"
-    cargo: "Empresaria vinculada al Grupo Axis"
-    rol: "En prisión provisional desde mayo 2021 como parte de la cúpula de la trama"
+  - nombre: "Diego Daniel Elum Macias"
+    cargo: "Abogado, administrador de Delum Abogados S.L."
+    rol: "Procesado en 2026; presunto intermediario de Acciona y firmante de contratos simulados"
+
+  - nombre: "María Asunción Barberá"
+    cargo: "Hermana de la exalcaldesa Rita Barberá y esposa de José María Corbín"
+    rol: "Investigada; falleció durante la instrucción y su responsabilidad penal quedó extinguida"
 
 tags:
   - "corrupción"
@@ -68,114 +79,203 @@ tags:
   - "blanqueo de capitales"
   - "falsedad documental"
   - "organización criminal"
+  - "malversación"
   - "corrupción urbanística"
+  - "financiación irregular"
 
-impactoSocial: "El caso Azud es uno de los mayores escándalos de corrupción urbanística de la Comunidad Valenciana, manchando el legado de Rita Barberá y demostrando que la trama de sobornos cruzaba las fronteras de partido al implicar también a cargos del PSOE. Con más de 58 investigados y siete millones en comisiones acreditadas, el caso ha reforzado la imagen de Valencia como uno de los epicentros históricos de la corrupción política española."
+impactoSocial: "El caso Azud se convirtió en uno de los mayores procedimientos por corrupción urbanística de la Comunitat Valenciana y afectó simultáneamente a cargos y exdirigentes del PP y del PSPV-PSOE. Su instrucción, de nueve años, tuvo una amplia repercusión política en Valencia y su entorno, con comparecencias de altos cargos y el paso de varios investigados por prisión provisional; el auto de procedimiento abreviado de septiembre de 2026 reabrió el debate público sobre la gestión urbanística municipal entre 1999 y 2013. Todos los encausados mantienen la presunción de inocencia."
 
 documentos: []
 
 cronologia:
-  - fecha: "2017-01-01"
-    titulo: "Denuncia anónima en la Agencia Tributaria da origen a la investigación"
-    descripcion: "Una denuncia anónima presentada ante la delegación de la Agencia Tributaria en Valencia alerta sobre el presunto enriquecimiento ilícito de la familia Corbín Barberá, cuñados de la exalcaldesa Rita Barberá. La inspección fiscal derivada de esta denuncia lleva a que José María Corbín llegue a un acuerdo con Hacienda y pague una multa de 400.000 euros antes de ser detenido. Los datos fiscales son trasladados al juzgado, que inicia la instrucción de la macrocausa."
-    type: "denuncia"
-    urls:
-      - "https://valenciaplaza.com/corbin-pago-400000-euros-a-hacienda-tras-una-denuncia-anonima-antes-de-ser-detenido"
-      - "https://www.newtral.es/quienes-cuando-y-por-que-las-claves-del-caso-azud/20230104/"
-
   - fecha: "2019-04-02"
-    titulo: "Primera fase: detención de José María Corbín y Diego Elum"
-    descripcion: "La Guardia Civil detiene al abogado José María Corbín, cuñado de la fallecida exalcaldesa Rita Barberá, y al letrado Diego Elum en la primera fase de la operación. Ambos quedan en libertad provisional con medidas cautelares. La instrucción, a cargo del Juzgado número 13 de Valencia, amplía su foco hacia las operaciones urbanísticas del Ayuntamiento durante la era de Barberá, principalmente el periodo 2004-2011."
+    titulo: "Primera fase: la UCO detiene a José María Corbín y a Diego Elum"
+    descripcion: "La Unidad Central Operativa de la Guardia Civil detiene al abogado José María Corbín Navarrete, cuñado de la exalcaldesa Rita Barberá, y al letrado Diego Elum en el arranque público de la operación Azud, tras dos años de investigación bajo secreto de sumario abierta en 2017. La causa la instruye el Juzgado de Instrucción número 13 de Valencia junto a la Fiscalía Anticorrupción."
     type: "detención"
+    relevancia: "alta"
     urls:
-      - "https://www.eldiario.es/comunitat-valenciana/caso-azud-urbanismo-corrupcion-valencia-durante-alcaldesa-rita-barbera_1_7929761.html"
-      - "https://www.newtral.es/quienes-cuando-y-por-que-las-claves-del-caso-azud/20230104/"
+      - "https://valenciaplaza.com/valenciaplaza/la-fiscalia-acusa-a-jose-corbin-cunado-de-rita-barbera-de-cobrar-4-millones-en-mordidas"
+      - "https://www.elperiodic.com/investiga-cobro-comisiones-millones-euros-ayuntamiento-valencia-durante-etapa-barbera_615492"
 
-  - fecha: "2021-05-14"
-    titulo: "Segunda fase: 14 detenidos incluyendo al exvicealcalde Grau y al exsubdelegado Rubio"
-    descripcion: "La Guardia Civil despliega la segunda y mayor fase de la operación Azud con 14 detenciones simultáneas. Entre los arrestados se encuentran el exvicealcalde Alfonso Grau (PP), el exsubdelegado del Gobierno Rafael Rubio (PSOE), el empresario promotor Jaime Febrer, la empresaria Mónica Montero, Federico Ferrando, el abogado José Luis Vera y el exalcalde de Gilet José María Cataluña, entre otros. La operación se coordina con registros en el área de Urbanismo del Ayuntamiento de Valencia. La jueza considera a los detenidos parte de un grupo criminal organizado."
-    type: "detención"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/guardia-civil-detiene-expresidente-patronal-valenciana-trama-corrupcion-urbanistica-operacion-caso-azud_1_7934128.html"
-      - "https://www.vozpopuli.com/espana/exalcalde-exedil-valencia-detenidos.html"
-      - "https://www.niusdiario.es/nacional/tribunales/detenidos-subdelegado-gobierno-valencia-rafael-rubio-ex-teniente-alcalde-ayuntamiento-alfonso-grau-rita-barbera-operacion-azuz-corrupcion-urbanistica_18_3137670030.html"
-
-  - fecha: "2021-05-17"
-    titulo: "La jueza envía a prisión a Grau, Rubio, Febrer y otros dos empresarios"
-    descripcion: "Tras los interrogatorios, la titular del Juzgado de Instrucción número 13 de Valencia decreta prisión provisional para cinco de los catorce detenidos: el exvicealcalde Alfonso Grau, el exsubdelegado del Gobierno Rafael Rubio, el promotor Jaime Febrer, la empresaria Mónica Montero y el empresario Joaquín Pastor. Para los otros ocho detenidos acuerda libertad provisional con retirada de pasaporte, prohibición de salida del país y comparecencia judicial semanal."
+  - fecha: "2019-04-04"
+    titulo: "Prisión provisional para Corbín; Elum queda en libertad con cargos"
+    descripcion: "La magistrada decreta prisión provisional, comunicada y sin fianza para José María Corbín, considerado el principal implicado, mientras que Diego Elum queda en libertad provisional con retirada de pasaporte y comparecencias. Según fuentes posteriores, Corbín permaneció en prisión menos de un mes."
     type: "medidas cautelares"
+    relevancia: "media"
     urls:
-      - "https://valenciaplaza.com/jueza-prision-rafa-rubio-alfonso-grau"
+      - "https://www.eldiario.es/comunitat-valenciana/prision-rita-barbera-comisiones-valencia_1_1613395.html"
+      - "https://www.lavanguardia.com/politica/20190404/461461689684/corbin-cunado-rita-barbera-prision-operacion-azud.html"
+      - "https://theobjective.com/espana/2019-04-04/el-juez-envia-a-prision-al-cunado-de-rita-barbera-por-la-trama-de-comisiones/"
+
+  - fecha: "2021-05-13"
+    titulo: "Segunda fase: 14 detenidos, entre ellos Grau, Rubio y Febrer"
+    descripcion: "La UCO despliega la segunda fase de la operación con detenciones y registros en Valencia, Alicante, Madrid y Tomelloso. Entre los arrestados figuran el exvicealcalde Alfonso Grau, el exsubdelegado del Gobierno Rafael Rubio, el constructor Jaime Febrer, la empresaria Mónica Montoro, el abogado José Luis Vera, la exalcaldesa de Xixona Rosa María Verdú y el concejal Francisco Doménech."
+    type: "detención"
+    relevancia: "alta"
+    urls:
+      - "https://www.lasprovincias.es/politica/caso-azud-valencia-20210513094039-nt.html"
+      - "https://elpais.com/espana/comunidad-valenciana/2021-05-15/anticorrupcion-pide-prision-para-el-exsubdelegado-del-gobierno-en-valencia.html"
+
+  - fecha: "2021-05-15"
+    titulo: "Prisión provisional para Grau, Rubio, Febrer, Montoro y Pastor"
+    descripcion: "Tras los interrogatorios, la jueza decreta prisión provisional, comunicada y sin fianza para cinco detenidos al apreciar riesgo de destrucción de pruebas: el exvicealcalde Alfonso Grau, el exsubdelegado Rafael Rubio y los empresarios Jaime Febrer, Mónica Montoro y Joaquín Pastor. Los otros ocho detenidos puestos a disposición judicial quedan en libertad provisional con retirada de pasaporte y comparecencias."
+    type: "medidas cautelares"
+    relevancia: "alta"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Notas-de-prensa/La-juez-del--caso-Azud--decreta-prision-para-el-exvicealcalde-de-Valencia--el-exsubdelegado-del-Gobierno-y-tres-empresarios-"
+      - "https://www.europapress.es/comunitat-valenciana/noticia-juez-caso-azud-decreta-prision-incondicional-grau-rubio-tres-empresarios-20210516003322.html"
       - "https://www.publico.es/politica/prision-rubio-grau-tres-empresarios-corrupcion-caso-azud.html"
 
-  - fecha: "2021-07-14"
-    titulo: "Rafael Rubio sale de prisión tras dos meses en preventiva"
-    descripcion: "El exsubdelegado del Gobierno Rafael Rubio queda en libertad provisional tras pasar aproximadamente dos meses en prisión preventiva. Alfonso Grau queda como el único de los principales investigados que permanece en prisión, lo que refleja el mayor peso de los indicios acumulados contra el exvicealcalde del Ayuntamiento de Valencia."
+  - fecha: "2021-07-13"
+    titulo: "Rafael Rubio sale de prisión tras dos meses"
+    descripcion: "El Juzgado de Instrucción número 13 decreta la libertad provisional del exsubdelegado del Gobierno Rafael Rubio al considerar que ha cesado el riesgo de destrucción de pruebas, con retirada de pasaporte y comparecencias semanales. Rubio había ingresado en prisión el 15 de mayo; semanas antes habían salido Montoro y Pastor."
     type: "medidas cautelares"
+    relevancia: "media"
     urls:
-      - "https://www.elplural.com/autonomias/exsubdelegado-gobierno-rafael-rubio-puesto-libertad-meses-prision_270760102"
-      - "https://valenciaplaza.com/alfonso-grau-unico-prision-azud"
+      - "https://elpais.com/espana/comunidad-valenciana/2021-07-13/la-juez-deja-en-libertad-al-exsubdelegado-del-gobierno-en-valencia-investigado-en-el-caso-azud.html"
+      - "https://www.abc.es/espana/comunidad-valenciana/abci-juzgado-caso-azud-deja-libertad-exsubdelegado-gobierno-valencia-202107131303_noticia.html"
+      - "https://www.europapress.es/comunitat-valenciana/noticia-rafael-rubio-abandona-carcel-picassent-autorizar-juzgado-salida-20210713203852.html"
+
+  - fecha: "2021-10-18"
+    titulo: "El constructor Jaime Febrer sale de prisión"
+    descripcion: "La jueza acuerda la libertad provisional del empresario Jaime Febrer, en prisión preventiva desde el 15 de mayo, con retirada de pasaporte, prohibición de salida del territorio nacional y comparecencias periódicas. Febrer estaba considerado el epicentro de la trama."
+    type: "medidas cautelares"
+    relevancia: "media"
+    urls:
+      - "https://www.cope.es/actualidad/espana/amp/noticias/constructor-jaime-febrer-del-caso-azud-queda-libertad-provisional-20211018_1564462"
+      - "https://www.abc.es/espana/comunidad-valenciana/abci-caso-azud-empresario-centro-trama-urbanistica-queda-libertad-cargos-202110181724_noticia.html"
+
+  - fecha: "2021-11-11"
+    titulo: "Alfonso Grau sale de prisión tras seis meses"
+    descripcion: "El Juzgado de Instrucción número 13 acuerda la libertad con cargos para el exvicealcalde Alfonso Grau, el último de los principales investigados que quedaba en prisión preventiva, con comparecencias apud acta cada quince días, retirada de pasaporte y prohibición de salir del país."
+    type: "medidas cautelares"
+    relevancia: "media"
+    urls:
+      - "https://theobjective.com/espana/tribunales/2021-11-11/alfonso-grau-libertad-sale-prision"
+
+  - fecha: "2022-04-21"
+    titulo: "Se levanta el secreto de sumario: 61 investigados y casi 700 tomos"
+    descripcion: "El juzgado levanta el secreto que pesaba sobre la macrocausa desde abril de 2017. La causa acumula entonces 61 personas investigadas, 290 tomos en papel y varios discos duros con documentación. La investigación sigue centrada en el pago de comisiones a cambio de decisiones urbanísticas y contratos."
+    type: "investigación"
+    relevancia: "alta"
+    urls:
+      - "https://www.levante-emv.com/comunitat-valenciana/2022/04/21/alzado-secreto-operacion-azud-61-65231574.html"
+      - "https://www.20minutos.es/noticia/5086716/0/claves-del-caso-azud-que-se-investiga-quienes-estan-implicados-y-a-que-partidos-afecta/"
 
   - fecha: "2022-04-26"
-    titulo: "Se revelan los detalles de las nueve operaciones urbanísticas investigadas"
-    descripcion: "Los medios publican el contenido del sumario con las nueve operaciones urbanísticas concretas que habrían generado comisiones ilegales: la operación del Museo de Semana Santa, la operación Colegios, la operación de Xixona (comisión de 560.000 euros), la operación de Burjassot, permutas de patrimonio municipal y otras adjudicaciones. El empresario Jaime Febrer y su Grupo Axis habrían pagado más de siete millones de euros en total. La trama afecta a funcionarios y cargos políticos tanto del PP como del PSOE, lo que la diferencia de otros casos de corrupción bipartidista en España."
+    titulo: "Se conocen las operaciones urbanísticas y el origen por denuncia anónima"
+    descripcion: "Al quedar el sumario a disposición de las partes, trascienden las operaciones investigadas (museo de la Semana Santa Marinera, PAI del Grao, Xixona, Burjassot, Benicàssim, contratos de hospital y de ayuda a domicilio) y se publica el contenido de la denuncia anónima ante la Agencia Tributaria. La fecha corresponde a la publicación de la información, no a un acto procesal."
     type: "investigación"
+    relevancia: "media"
     urls:
       - "https://valenciaplaza.com/valenciaplaza/caso-azud-las-nueve-operaciones-urbanisticas-que-generaron-comisiones"
-      - "https://www.elespanol.com/espana/comunidad-valenciana/20220422/pp-psoe-corrupcion-azud-pillaje-ayuntamiento-valencia/666683728_0.html"
-      - "https://www.publico.es/politica/trama-azud-pago-siete-millones-euros-comisiones-cargos-publicos.html"
+      - "https://www.lasprovincias.es/politica/denuncia-anonima-origen-20220426182651-nt.html"
+      - "https://www.elconfidencial.com/espana/comunidad-valenciana/2022-04-26/caso-azud-jorge-bellver-regalos-pp-psoe_3414895/"
 
-  - fecha: "2022-10-18"
-    titulo: "La UCO registra simultáneamente Madrid, Valencia y Castellón en el caso Azud"
-    descripcion: "La Unidad Central Operativa de la Guardia Civil lleva a cabo nuevos registros simultáneos en domicilios y sedes empresariales de Madrid, Valencia y Castellón en el marco del caso Azud, ampliando el radio de la investigación más allá de la capital valenciana. La operación busca documentación contable y pruebas del blanqueo de capitales presuntamente ejecutado a través de la red de sociedades del Grupo Axis."
-    type: "investigación"
+  - fecha: "2022-07-29"
+    titulo: "La Audiencia Provincial avala el inicio de la causa y el secreto"
+    descripcion: "La Sección Tercera de la Audiencia Provincial de Valencia desestima el recurso del cuñado de Barberá, José María Corbín, que pedía la nulidad del auto de abril de 2017 y de las conversaciones obtenidas de correos electrónicos, y considera correctos el inicio de las actuaciones, el secreto y sus prórrogas."
+    type: "recurso"
+    relevancia: "media"
     urls:
-      - "https://www.elconfidencialdigital.com/articulo/ultima-hora/uco-realiza-registros-simultaneos-madrid-valencia-castellon-caso-azud/20221018124259464484.html"
-
-  - fecha: "2022-12-01"
-    titulo: "La causa suma 58 investigados y nuevas imputaciones"
-    descripcion: "El Juzgado de Instrucción número 13 de Valencia amplía la causa hasta 58 investigados, incluyendo al diputado del PP en Les Corts Jorge Bellver, citado por aparecer en una lista de regalos de la trama. La instrucción también imputa a las sobrinas de Rita Barberá, que declararán ante la jueza que parte de su patrimonio proviene de premios de lotería. La causa investiga delitos de tráfico de influencias, prevaricación, cohecho, falsedad documental, blanqueo de capitales y organización criminal."
-    type: "imputación"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/valencia/caso-azud-deja-58-imputados-corrupcion-urbanistica-ayuntamiento-valencia-etapa-rita-barbera_1_8931926.html"
-      - "https://www.eldiario.es/comunitat-valenciana/diputado-autonomico-pp-jorge-bellver-imputado-caso-azud-corrupcion-urbanistica-valencia-epoca-barbera_1_8945375.html"
-
-  - fecha: "2025-10-24"
-    titulo: "Jorge Bellver, director general de la Generalitat, citado como investigado"
-    descripcion: "El Juzgado de Instrucción número 13 de Valencia cita formalmente como investigado a Jorge Bellver, actual director general de Relaciones con Les Corts de la Generalitat Valenciana de Carlos Mazón (PP). Bellver, exconcejal del equipo de Barberá, figura en una lista de regalos de lujo distribuidos por Jaime Febrer a cargos públicos para asegurarse su favor en las adjudicaciones. La citación supone un nuevo golpe reputacional para el PP valenciano."
-    type: "imputación"
-    urls:
-      - "https://theobjective.com/espana/tribunales/2025-10-24/jorge-bellver-investigado-caso-azud/"
-      - "https://valenciaplaza.com/valenciaplaza/comunitat-valenciana1/el-juez-de-azud-cita-como-investigado-a-jorge-bellver"
+      - "https://www.elconfidencial.com/espana/comunidad-valenciana/2022-07-29/la-audiencia-da-via-libre-para-seguir-investigando-azud-ve-correcto-el-inicio-y-el-secreto-de-las-actuaciones_3468146/"
 
   - fecha: "2025-06-20"
-    titulo: "Informe final de la UCO sobre la 'operación colegios'"
-    descripcion: "La Guardia Civil presenta su informe definitivo documentando irregularidades y comisiones en la mayor operación urbanística del caso Azud. Un informe pericial de la Agencia Tributaria concluye que la 'operación colegios' fue 'altamente rentable' para los promotores a costa del Ayuntamiento, con parcelas adquiridas a precio por debajo de mercado sin subasta pública."
+    titulo: "Se conoce el informe final de la UCO sobre la «operación colegios»"
+    descripcion: "La Guardia Civil presenta su informe definitivo sobre la mayor operación urbanística del caso, en el que detalla irregularidades en la permuta de parcelas y cuantifica en más de 1,9 millones de euros las comisiones, entre ellas las atribuidas a Rafael Rubio y a José Luis Vera. La fecha es la de publicación informativa del informe."
     type: "investigación"
+    relevancia: "media"
     urls:
       - "https://www.elespanol.com/valencia/20250620/uco-presenta-informe-final-trama-colegios-irregularidades-comisiones-gran-pelotazo-azud/1003743814601_0.html"
-      - "https://www.eldiario.es/comunitat-valenciana/informe-hacienda-caso-azud-certifica-pelotazo-promotores-costa-ayuntamiento-rita-barbera_1_12336283.html"
+      - "https://www.abc.es/espana/comunidad-valenciana/uco-concluye-portavoz-psoe-valencia-cobro-comisiones-20250620181614-nt.html"
+      - "https://www.levante-emv.com/comunitat-valenciana/2025/06/21/uco-concluye-socialistas-rubio-vera-118890172.html"
 
-  - fecha: "2025-11-01"
-    titulo: "Juez avala transferencia de bienes decomisados a la ORGA"
-    descripcion: "El juez avala que la Oficina de Recuperación y Gestión de Activos (ORGA) administre la 'extraordinaria masa' de bienes decomisados de la trama: 4,8 millones de euros en cuentas bancarias, 61 inmuebles, 6 vehículos (incluidos dos Porsche) y el chalet de lujo del cuñado de Rita Barberá en Xàbia."
+  - fecha: "2025-07-04"
+    titulo: "El juez encomienda a la ORGA la gestión de los bienes decomisados"
+    descripcion: "El juez sustituto acuerda transferir a la Oficina de Recuperación y Gestión de Activos (ORGA) la administración de 4,8 millones de euros, 61 inmuebles y seis vehículos decomisados a más de una veintena de investigados, entre ellos el chalé de Corbín en Xàbia. El auto, fechado el 4 de julio de 2025, se conoce días después y fue recurrido."
     type: "resumen"
+    relevancia: "media"
+    urls:
+      - "https://www.levante-emv.com/comunitat-valenciana/2025/07/09/oficina-judicial-activos-gestionara-4-119493566.html"
+      - "https://www.eldiario.es/comunitat-valenciana/caso-azud-cifras-decomisados-4-8-millones-porsche-chalet-lujo-cunado-rita-barbera-xabia_1_12448507.html"
+      - "https://www.lasprovincias.es/politica/juez-azud-cede-gestion-bienes-dinero-corbin-20250707001728-nt.html"
+
+  - fecha: "2025-10-24"
+    titulo: "El juzgado cita como investigado a Jorge Bellver"
+    descripcion: "El juez sustituto cita a declarar como investigado para el 17 de noviembre al exconcejal de Urbanismo y entonces director general de Transparencia de la Generalitat Jorge Bellver, a petición de la Fiscalía Anticorrupción, por su relación con la «operación colegios» y los regalos que la trama le habría entregado."
+    type: "imputación"
+    relevancia: "alta"
+    urls:
+      - "https://www.eldiario.es/comunitat-valenciana/juez-caso-azud-imputa-alto-cargo-mazon-peticion-fiscalia-anticorrupcion_1_12712734.html"
+      - "https://www.abc.es/espana/comunidad-valenciana/juez-azud-cita-investigado-jorge-bellver-20251024180537-nt.html"
+      - "https://www.lasprovincias.es/politica/juez-azud-cita-imputado-jorge-bellver-tras-20251024145835-nt.html"
+
+  - fecha: "2025-10-25"
+    titulo: "Se conoce la desestimación de los recursos sobre los bienes entregados a la ORGA"
+    descripcion: "El instructor rechaza los recursos de las sobrinas de Rita Barberá y del abogado Diego Elum contra el auto de 4 de julio que transfirió a la ORGA los 4,8 millones y demás bienes decomisados, y sostiene que la medida no limita derechos ni modifica las medidas cautelares. La fecha es la de publicación de la resolución."
+    type: "recurso"
+    relevancia: "baja"
     urls:
       - "https://www.eldiario.es/comunitat-valenciana/juez-caso-azud-avala-organo-administre-extraordinaria-masa-bienes-decomisados-trama_1_12712813.html"
-      - "https://www.eldiario.es/comunitat-valenciana/caso-azud-cifras-decomisados-4-8-millones-porsche-chalet-lujo-cunado-rita-barbera-xabia_1_12448507.html"
 
   - fecha: "2025-11-17"
-    titulo: "Jorge Bellver guarda silencio ante el juez como investigado"
-    descripcion: "El director general de Relaciones con Les Corts del gobierno de Mazón, Jorge Bellver, se acoge a su derecho a no declarar en su comparecencia como investigado en el caso Azud. La jueza señala que Bellver 'voluntariamente permaneció, durante más de tres años y medio, fuera de la investigación'."
+    titulo: "Jorge Bellver se acoge a su derecho a no declarar"
+    descripcion: "En su comparecencia como investigado por videoconferencia, el alto cargo Jorge Bellver se acoge a su derecho a no declarar. El juez había rechazado días antes su recurso de reforma contra la imputación, al considerar que conocía la causa desde 2022."
     type: "declaración"
+    relevancia: "media"
     urls:
-      - "https://www.eldiario.es/comunitat-valenciana/alto-cargo-mazon-imputado-caso-azud-guarda-silencio-juez_1_12773719.html"
-      - "https://www.eldiario.es/comunitat-valenciana/juez-caso-azud-avala-declaracion-alto-cargo-mazon-investigado-tres-anos-medio_1_12801200.html"
+      - "https://www.elespanol.com/valencia/20251117/jorge-bellver-acoge-derecho-no-declarar-caso-azud-citado-lunes-investigado/1003744016972_0.html"
+      - "https://valenciaplaza.com/valenciaplaza/comunitat-valenciana1/bellver-se-acoge-a-su-derecho-a-no-declarar-como-investigado-en-el-caso-azud"
+      - "https://www.eldiario.es/comunitat-valenciana/juez-caso-azud-refrenda-imputacion-alto-cargo-mazon-peticion-fiscal-anticorrupcion_1_12761156.html"
 
-  - fecha: "2026-01-01"
-    titulo: "El caso Azud sigue en instrucción sin fecha para juicio oral en 2026"
-    descripcion: "A comienzos de 2026 la instrucción del caso Azud continúa abierta tras 7 años de investigación. Cuenta con 58 investigados y 5 piezas separadas bajo secreto de sumario. Los analistas judiciales consideran que el auto de apertura de juicio oral podría dictarse en 2026, pero no se ha confirmado ninguna fecha."
+  - fecha: "2026-04-16"
+    titulo: "Se conoce un informe de la UCO sobre pagos a campañas y regalos"
+    descripcion: "Trasciende un informe de la Guardia Civil que certifica pagos de empresas investigadas a la campaña del PSPV-PSOE de 2007 y a la del PP de Xixona de 2007, así como regalos de lujo a un alto cargo del Consell. La fecha corresponde a la publicación informativa del informe."
     type: "investigación"
+    relevancia: "media"
     urls:
-      - "https://valenciaplaza.com/valenciaplaza/comunitat-valenciana1/oltra-francis-puig-zaplana-azud-la-dana-los-asuntos-judiciales-que-daran-que-hablar-en-2026"
+      - "https://elpais.com/espana/comunidad-valenciana/2026-04-16/la-uco-certifica-pagos-al-psoe-y-al-pp-de-constructoras-en-el-caso-azud-y-regalos-lujosos-a-un-alto-cargo-del-consell-de-un-empresario-investigado.html"
+      - "https://www.elespanol.com/alicante/20260416/uco-certifica-pagos-psoe-pp-xixona-parte-constructoras-investigadas-caso-azud/1003744210206_0.html"
+      - "https://www.eldiario.es/comunitat-valenciana/uco-acredita-pago-trama-caso-azud-exalcaldesa-pp-xixona-pelotazo-urbanistico_1_13148586.html"
+
+  - fecha: "2026-06-08"
+    titulo: "La Audiencia confirma la imputación de Jorge Bellver"
+    descripcion: "La Sección Tercera de la Audiencia Provincial de Valencia desestima el recurso de apelación de la defensa de Jorge Bellver y confirma su condición de investigado, avalando el auto de 1 de octubre de 2019, la citación de octubre de 2025 y el auto de abril de 2026 que denegó el sobreseimiento."
+    type: "recurso"
+    relevancia: "alta"
+    urls:
+      - "https://www.elmundo.es/comunidad-valenciana/2026/06/08/6a26cf89e85ece39608b4594.html"
+      - "https://www.abc.es/espana/comunidad-valenciana/audiencia-valencia-confirma-imputacion-azud-alto-cargo-20260608163855-nt.html"
+
+  - fecha: "2026-07-30"
+    titulo: "La jueza sobresee la causa para 15 investigados"
+    descripcion: "La magistrada acuerda el sobreseimiento para el extesorero del PSPV-PSOE José María Cataluña y el empresario Enrique Gimeno por prescripción de los hechos, y el sobreseimiento parcial para otros once investigados —entre ellos Juan José Moragues y José María Marugán— al no quedar acreditada su participación."
+    type: "sobreseimiento"
+    relevancia: "alta"
+    urls:
+      - "https://elpais.com/espana/comunidad-valenciana/2026-07-30/la-jueza-del-caso-azud-archiva-por-prescripcion-la-imputacion-del-exsecretario-de-finanzas-del-pspv-psoe.html"
+      - "https://www.eldiario.es/comunitat-valenciana/jueza-caso-azud-acuerda-extesorero-pspv-psoe-sobreseimiento-prescripcion_1_13418298.html"
+      - "https://www.elespanol.com/valencia/comunitat/20260731/instruccion-caso-azud-llega-fin-anos-sobreseimientos-empresarios-funcionarios-cargos-psoe/1003744339181_0.html"
+      - "https://cadenaser.com/comunitat-valenciana/2026/07/31/la-jueza-del-caso-azud-acuerda-sobreseer-la-causa-sobre-13-de-los-investigados-radio-valencia/"
+
+  - fecha: "2026-09-03"
+    titulo: "La jueza cierra la instrucción y abre procedimiento abreviado contra 38 investigados"
+    descripcion: "La titular de la plaza número 13 notifica un auto de 314 páginas que da por finalizada la instrucción y acuerda seguir el procedimiento abreviado contra 38 personas, entre ellas Alfonso Grau, José María Corbín, Jorge Bellver, Rafael Rubio y la exalcaldesa de Xixona Rosa María Verdú. El auto aprecia indicios de cohecho, tráfico de influencias, prevaricación, malversación, falsedad y blanqueo, no es firme y da traslado a las acusaciones para que formulen sus escritos."
+    type: "imputación"
+    relevancia: "alta"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-jueza-del--caso-Azud--abre-procedimiento-abreviado-contra-38-investigados-por-presunta-corrupcion-en-contratos-del-Ayuntamiento-de-Valencia-y-operaciones-urbanisticas-en-otras-localidades-de-la-Comunidad-Valenciana"
+      - "https://www.elindependiente.com/espana/2026/09/04/la-jueza-cierra-la-instruccion-del-caso-azud-con-38-imputados-y-ve-financiacion-ilegal-del-psoe-de-valencia/"
+      - "https://www.lavanguardia.com/local/valencia/20260903/11626520/jueza-caso-azud-procesa-38-personas-cunado-rita-barbera.html"
+      - "https://valenciaplaza.com/valenciaplaza/valencia/quien-es-quien-en-el-caso-azud-los-38-procesados"
+
+  - fecha: "2026-09-18"
+    titulo: "El PP se retira como acusación popular"
+    descripcion: "El Partido Popular comunica su retirada como acusación popular en la causa, en la que estaba personado desde 2023, después de que la jueza declarara prescritos los hechos que afectaban a cargos socialistas. La Fiscalía Anticorrupción continúa ejerciendo la acusación."
+    type: "resumen"
+    relevancia: "media"
+    urls:
+      - "https://www.elmundo.es/comunidad-valenciana/2026/09/18/6aad3fa6fdddffb9648b4596.html"
+      - "https://www.europapress.es/comunitat-valenciana/noticia-pp-retira-acusacion-azud-porque-justicia-hecho-trabajo-20260918170821.html"
+      - "https://www.levante-emv.com/comunitat-valenciana/2026/09/18/el-pp-se-retira-del-caso-azud-tras-los-archivos-a-exdirigentes-socialistas-y-para-evitar-acusar-a-corbin-y-grau-134427943.html"
 ---
