@@ -50,10 +50,6 @@ implicados:
     cargo: "Guardia Civil (Comandante)"
     rol: "Presunta facilitación de información privilegiada a los miembros de la trama"
 
-  - nombre: "Roberto González Arnaiz"
-    cargo: "Empresario del sector armamentístico"
-    rol: "Sin rol judicial acreditado: no se ha localizado ninguna fuente independiente que confirme su identidad ni su vinculación con la trama (revisión pendiente)"
-
   - nombre: "Joseba García Izaguirre"
     cargo: "Hermano de Koldo García"
     rol: "La sentencia declara probado que recogió en la República Dominicana los pagos mensuales de 10.000 euros de octubre y noviembre de 2021; no fue juzgado en la causa"
@@ -69,10 +65,6 @@ implicados:
   - nombre: "Claudio Rivas"
     cargo: "Empresario del sector de hidrocarburos"
     rol: "La sentencia describe su papel en las gestiones para obtener la licencia de mayorista de VILLAFUEL S.L. No consta en la pieza de mascarillas una condena ni acusación por fraude fiscal (rol de la ficha previa no acreditado)"
-
-  - nombre: "Cristina Álvarez Guisasola"
-    cargo: "Excompañera de trabajo de Koldo García"
-    rol: "Sin rol judicial acreditado: no se ha localizado ninguna fuente independiente que confirme su identidad ni su participación en los hechos (revisión pendiente)"
 
   - nombre: "Isabel Pardo de Vera"
     cargo: "Expresidenta de ADIF"
