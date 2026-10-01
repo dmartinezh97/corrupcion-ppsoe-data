@@ -1,130 +1,106 @@
 ---
 nombre: "Caso Brugger"
 partido: PP
-completado: true
+completado: false
 año: 2018
 fechaInicio: 2018-03-10
-fechaFin: 2022-05-20
-estado: cerrado con absolución penal
+fechaFin: ""
+estado: "sentencia firme"
 descripcion: |
-  El caso Brugger es una investigación judicial en la Comunidad Valenciana que gira en torno a Ana Brugger Navarro, exdirectora general de Función Pública de la Generalitat Valenciana durante el gobierno del PP entre 2012 y 2015. El 10 de marzo de 2018, mientras ejercía como funcionaria supervisora en unas oposiciones para Técnicos Superiores de la Administración de la Generalitat, Brugger fue acusada de redactar y entregar respuestas de examen a María Gonzálbez Bernad, una amiga personal que se presentaba como candidata.
+  El caso se refiere a la entrega de respuestas de un examen de oposición por parte de Ana María Brugger Navarro, exdirectora general de Función Pública de la Generalitat Valenciana entre 2012 y 2015, a María Gonzálbez Bernad, candidata de la misma prueba y, según fuentes de 2021, asesora del grupo parlamentario de Vox en Les Corts Valencianes. En el momento de los hechos Brugger no ocupaba un cargo político: era funcionaria de carrera adscrita a la Dirección General de Función Pública y formaba parte del grupo de funcionarios designados para vigilar la prueba.
 
-  Según el relato de los hechos probados, Brugger, en lugar de vigilar la prueba, consultó su teléfono móvil para buscar respuestas, las escribió de su puño y letra en hojas que distribuyó a los candidatos, y las entregó discretamente a su amiga. Dos funcionarias que también supervisaban el examen observaron la conducta irregular y confiscaron los papeles que Gonzálbez intentaba ocultar bajo otras hojas en blanco. La candidata confesó nerviosamente lo ocurrido ante las supervisoras.
+  Los hechos se remontan al 10 de marzo de 2018, durante una oposición para el cuerpo de Técnicos Superiores de la Administración de la Generalitat (Grupo A1-01), convocada por Orden 1/2017 y celebrada en la Universitat de València. Según los hechos declarados probados por la sentencia absolutoria, Brugger, en lugar de ejercer la labor de vigilancia encomendada, ocupó una silla al final del aula, consultó su teléfono móvil, escribió respuestas "de su puño y letra" en folios repartidos a los opositores y los entregó a Gonzálbez, con quien mantenía una "relación de amistad". Otras dos funcionarias que también vigilaban observaron la conducta, interceptaron las hojas que la opositora intentaba ocultar y esta reconoció los hechos en estado de nervios.
 
-  El caso fue llevado a juicio por el Juzgado de Instrucción número 19 de Valencia. El sindicato CGT, como acusación popular, solicitó 6 años de prisión para Brugger y 3 años para Gonzálbez por falsificación de documento público. Sin embargo, el 26 de marzo de 2021, la Sección Primera de la Audiencia Provincial de Valencia absolvió a ambas acusadas al considerar que la información proporcionada no tenía la intención de ser presentada como respuesta oficial del examen, a pesar de reconocer que Brugger ayudó a su amiga. Tras agotar la vía penal, la Generalitat Valenciana inició un procedimiento sancionador administrativo que concluyó con un traslado forzoso de Brugger durante tres años y la obligación de realizar un curso sobre ética e integridad, resolución confirmada por un juez en mayo de 2022.
+  La denuncia inicial partió del sindicato CGT y fue asumida por la Fiscalía provincial. El Juzgado de Instrucción nº 19 de Valencia investigó los hechos e imputó a ambas mujeres; en septiembre de 2019 la prensa informaba de que Brugger ya había declarado como imputada. En febrero de 2020 el sindicato CGT, como acusación popular, solicitó seis años de prisión y seis de inhabilitación para Brugger y tres años de prisión para Gonzálbez por falsedad documental, con una multa de 22.000 euros; la Fiscalía pidió tres años de inhabilitación y 20.000 euros de multa para Brugger y un año de inhabilitación y 10.000 euros para Gonzálbez.
 
-resumen: "Exdirectora general de Función Pública del PP acusada de pasar respuestas de examen a una amiga en unas oposiciones públicas"
+  El juicio oral se celebró el 11 de marzo de 2021 en la Sección Primera de la Audiencia Provincial de Valencia. El 26 de marzo de 2021 la sala absolvió a ambas acusadas. El tribunal consideró probada la entrega de información y el aprovechamiento de la posición de vigilante, pero apreció que los folios, por su presentación como guion, abreviaturas y letra apresurada, no estaban destinados a ser presentados como respuesta oficial del examen, por lo que no concurría la falsedad documental del artículo 390 del Código Penal; tampoco apreció el delito de actividades prohibidas a funcionarios públicos, al no tratarse de información secreta o privilegiada. La sentencia apreció temeridad en la acusación popular y le impuso las costas.
+
+  La acusación popular anunció que, por limitaciones económicas, no recurriría la absolución y solo impugnaría la condena en costas. Según la resolución contencioso-administrativa recogida por prensa, la absolución penal quedó firme porque la apelación se limitó a las costas y no alteró los hechos declarados probados. Paralelamente, la Generalitat había abierto un expediente disciplinario que quedó paralizado al judicializarse el caso y que se reanudó tras agotarse la vía penal. El 15 de mayo de 2022 se informó de que el Juzgado de lo Contencioso-Administrativo nº 8 de Valencia había desestimado el recurso de Brugger y confirmado la sanción administrativa: traslado forzoso a otra localidad durante tres años y un curso sobre ética e integridad del Instituto Valenciano de Administración Pública.
+
+  Límites y dudas: no se ha localizado la sentencia judicial completa ni su número, solo su descripción en prensa. No consta documentalmente que la resolución contencioso-administrativa de mayo de 2022 fuera recurrida ante el Tribunal Superior de Justicia ni que adquiriera firmeza. Tampoco se ha localizado ninguna noticia sobre el caso posterior a 2022, por lo que se desconoce la situación actual de la sanción administrativa y si Brugger continúa destinada en otra localidad. La ausencia de noticias no confirma el cierre ni la continuidad del caso. La única firmeza que consta documentada es la de la absolución penal.
+resumen: "Exdirectora general de Función Pública de la Generalitat Valenciana (PP), absuelta en firme por pasar respuestas de una oposición a una amiga en 2018 y sancionada en vía administrativa con un traslado forzoso"
 lugar: "Valencia, Comunidad Valenciana"
 tribunal:
   - "Juzgado de Instrucción nº 19 de Valencia"
   - "Audiencia Provincial de Valencia - Sección Primera"
   - "Juzgado de lo Contencioso-Administrativo nº 8 de Valencia"
-numeroSentencia: "Sentencia de absolución de 26 de marzo de 2021"
+numeroSentencia: ""
 implicados:
   - nombre: "Ana María Brugger Navarro"
-    cargo: "Exdirectora General de Función Pública de la Generalitat Valenciana (2012-2015), funcionaria supervisora de oposiciones"
-    rol: "Acusada de redactar y entregar respuestas de examen a una amiga durante una oposición pública. Absuelta penalmente pero sancionada administrativamente"
+    cargo: "Funcionaria de carrera adscrita a la Dirección General de Función Pública de la Generalitat Valenciana; directora general de Función Pública entre 2012 y 2015"
+    rol: "Acusada de falsedad documental y de actividades prohibidas a funcionarios públicos por entregar respuestas a una opositora mientras vigilaba un examen; absuelta en la vía penal. Sancionada en vía administrativa con un traslado forzoso y un curso sobre ética e integridad"
 
   - nombre: "María Gonzálbez Bernad"
-    cargo: "Candidata a oposición, posteriormente asesora del grupo parlamentario de Vox en las Corts Valencianes"
-    rol: "Acusada de recibir respuestas de examen de forma irregular. Absuelta penalmente"
-
+    cargo: "Candidata a opositora; asesora del grupo parlamentario de Vox en Les Corts Valencianes según fuentes de 2021"
+    rol: "Acusada de falsedad documental por recibir respuestas durante el examen; absuelta en la vía penal"
 tags:
   - "corrupción"
-  - "prevaricación"
   - "falsificación de documento público"
-  - "tráfico de influencias"
+  - "actividades prohibidas a funcionarios públicos"
   - "fraude en oposiciones"
-
-impactoSocial: "El caso generó indignación entre los opositores y funcionarios valencianos por el abuso de confianza de una exalta cargo responsable de garantizar la integridad de los procesos selectivos públicos. A pesar de la absolución penal, la sanción administrativa confirma la gravedad de la conducta irregular."
-
-documentos: null
+impactoSocial: "El caso tuvo amplia repercusión mediática y política en la Comunitat Valenciana. La acusación popular fue ejercida por el sindicato CGT y la sentencia absolutoria generó sus críticas. La Generalitat mantuvo la vía administrativa, que se saldó con un traslado forzoso y un curso de ética."
+documentos: []
 
 cronologia:
   - fecha: "2018-03-10"
-    titulo: "Incidente durante el examen de oposición"
-    descripcion: "Ana Brugger, mientras supervisaba un examen de oposición para Técnicos Superiores de la Generalitat Valenciana, consulta su móvil, escribe respuestas y las entrega a su amiga María Gonzálbez, candidata del examen. Dos funcionarias que también vigilaban el examen observan la conducta irregular y confiscan los papeles que Gonzálbez intenta ocultar. La candidata confiesa nerviosamente lo ocurrido."
+    titulo: "Entrega de respuestas durante una oposición de Técnicos Superiores de la Generalitat"
+    descripcion: "Durante la prueba de oposición del cuerpo de Técnicos Superiores de la Administración de la Generalitat (Grupo A1-01) celebrada en la Universitat de València, la funcionaria designada para vigilar Ana Brugger consulta su teléfono móvil, escribe respuestas 'de su puño y letra' en folios de la oposición y se los entrega a la candidata María Gonzálbez, con quien mantenía una relación de amistad, en lugar de ejercer la vigilancia. Dos funcionarias que también vigilaban la observan, interceptan las hojas que la opositora intentaba ocultar y esta reconoce los hechos en estado de nervios. Fecha exacta del hecho."
     type: "denuncia"
+    relevancia: "alta"
     urls:
       - "https://www.eldiario.es/comunitat-valenciana/imputada-pp-entregar-respuestas-oposicion_1_1474625.html"
-
-  - fecha: "2018-03"
-    titulo: "Apertura de investigación judicial"
-    descripcion: "El Juzgado de Instrucción número 19 de Valencia abre una investigación contra Ana Brugger y María Gonzálbez tras el incidente. Las dos funcionarias que presenciaron los hechos presentan testimonio y entregan las hojas confiscadas como prueba."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/imputada-pp-entregar-respuestas-oposicion_1_1474625.html"
-
-  - fecha: "2018-04"
-    titulo: "Suspensión del procedimiento disciplinario administrativo"
-    descripcion: "La Generalitat Valenciana suspende el procedimiento disciplinario contra Ana Brugger a la espera de que concluya el proceso judicial penal, según la normativa que impide la doble sanción mientras hay una causa penal en curso."
-    type: "resumen"
-    urls:
-      - "https://www.tercerainformacion.es/articulo/actualidad/pais-valencia/07/04/2021/sobre-la-sentencia-de-la-audiencia-provincial-de-valencia-de-26-de-marzo-de-2021-absolucion-de-a-brugger-y-m-gonzalvez/"
-
-  - fecha: "2019-04"
-    titulo: "Imputación formal de Brugger y Gonzálbez"
-    descripcion: "Ana Brugger y María Gonzálbez son formalmente imputadas por el Juzgado de Instrucción número 19 de Valencia. Brugger declara como investigada por presunta falsificación de documento público con agravante de abuso de confianza."
-    type: "imputación"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/imputada-pp-entregar-respuestas-oposicion_1_1474625.html"
-
-  - fecha: "2020-03"
-    titulo: "Procesamiento y solicitud de penas por parte del sindicato CGT"
-    descripcion: "El sindicato CGT, actuando como acusación popular, solicita una pena de 6 años de prisión para Ana Brugger por falsificación de documento público con agravante de abuso de confianza, y 3 años de prisión para María Gonzálbez por el mismo delito."
-    type: "resumen"
-    urls:
       - "https://www.eldiario.es/comunitat-valenciana/cgt-funcionarios-valencianos-pp-respuestas_1_1150655.html"
-      - "https://cgt.org.es/cgt-pv-solicita-6-anos-de-prision-a-la-ex-directora-general-de-funcion-publica-del-consell-con-el-pp/"
-
-  - fecha: "2020-10"
-    titulo: "Celebración del juicio en la Audiencia Provincial de Valencia"
-    descripcion: "Se celebra el juicio oral contra Ana Brugger y María Gonzálbez en la Audiencia Provincial de Valencia. Las dos funcionarias testigos relatan cómo observaron a Brugger ayudar a copiar a Gonzálbez durante el examen. La defensa argumenta que las respuestas escritas eran de mala calidad y no estaban destinadas a ser presentadas como respuesta oficial."
-    type: "declaración"
-    urls:
       - "https://valenciaplaza.com/dos-funcionarias-relatan-que-una-exdirectora-general-ayudo-a-copiar-a-una-amiga-en-la-oposicion"
 
+  - fecha: "2019-09-21"
+    titulo: "Se informa de la imputación y de la investigación judicial"
+    descripcion: "La prensa informa de que el Juzgado de Instrucción nº 19 de Valencia investiga a Ana Brugger y a María Gonzálbez y de que la exdirectora general ya ha declarado como imputada. La denuncia inicial parte del sindicato CGT y es asumida por la Fiscalía provincial. La fecha corresponde a la publicación de la noticia, no a la fecha exacta de la imputación, que no consta."
+    type: "imputación"
+    relevancia: "media"
+    urls:
+      - "https://www.eldiario.es/comunitat-valenciana/imputada-pp-entregar-respuestas-oposicion_1_1474625.html"
+
+  - fecha: "2020-02-02"
+    titulo: "Se informa de la solicitud de penas del sindicato CGT"
+    descripcion: "La prensa recoge el escrito de acusación del sindicato CGT, que como acusación popular solicita seis años de prisión y seis de inhabilitación para Brugger y tres años de prisión para Gonzálbez por falsedad documental, además de una multa de 22.000 euros. La Fiscalía pide tres años de inhabilitación y 20.000 euros de multa para Brugger y un año de inhabilitación y 10.000 euros para Gonzálbez. La fecha corresponde a la publicación de la noticia, no necesariamente al día de la presentación del escrito."
+    type: "imputación"
+    relevancia: "media"
+    urls:
+      - "https://www.eldiario.es/comunitat-valenciana/cgt-funcionarios-valencianos-pp-respuestas_1_1150655.html"
+      - "https://www.eldiario.es/comunitat-valenciana/audiencia-valencia-juzgara-jefa-funcionarios-valencianos-pp-paso-respuestas-oposicion-amiga_1_7164205.html"
+
+  - fecha: "2021-03-11"
+    titulo: "Juicio oral en la Audiencia Provincial de Valencia"
+    descripcion: "Se celebra en la Sección Primera de la Audiencia Provincial de Valencia el juicio oral contra Ana Brugger y María Gonzálbez. Declaran varios funcionarios y opositores que presenciaron los hechos; dos funcionarias relatan cómo sorprendieron la entrega de folios. Ambas acusadas niegan los hechos y solo responden a preguntas de sus defensas. Fecha exacta de la vista."
+    type: "juicio"
+    relevancia: "alta"
+    urls:
+      - "https://valenciaplaza.com/dos-funcionarias-relatan-que-una-exdirectora-general-ayudo-a-copiar-a-una-amiga-en-la-oposicion"
+      - "https://www.noticiascv.com/cgt-se-concentra-para-que-se-haga-justicia-en-el-caso-de-la-ex-directora-de-funcion-publica/"
+      - "https://www.eldiario.es/comunitat-valenciana/testigo-pillo-exjefa-funcionarios-valencianos-pp-pasando-respuestas-amiga-oposicion-no-hemos-visto-caso-igual_1_7297594.html"
+
   - fecha: "2021-03-26"
-    titulo: "Sentencia de absolución de la Audiencia Provincial"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Valencia dicta sentencia absolutoria para Ana Brugger y María Gonzálbez. A pesar de reconocer que los hechos ocurrieron y que Brugger ayudó a su amiga, el tribunal considera que la información proporcionada no estaba destinada a ser presentada como respuesta oficial del examen, por lo que no constituye falsificación de documento público. La sentencia genera polémica entre los opositores y sindicatos."
+    titulo: "Sentencia absolutoria de la Audiencia Provincial de Valencia"
+    descripcion: "La Sección Primera de la Audiencia Provincial de Valencia absuelve a Ana Brugger y a María Gonzálbez. La sala considera probada la entrega de información y el aprovechamiento de la posición de vigilante, pero aprecia que los folios no estaban destinados a presentarse como respuesta oficial del examen, por lo que no concurre falsedad documental del artículo 390 del Código Penal; tampoco aprecia el delito de actividades prohibidas a funcionarios públicos. Impone las costas a la acusación popular por temeridad. Fecha exacta de la resolución."
     type: "sentencia"
+    relevancia: "alta"
     urls:
-      - "https://www.tercerainformacion.es/articulo/actualidad/pais-valencia/07/04/2021/sobre-la-sentencia-de-la-audiencia-provincial-de-valencia-de-26-de-marzo-de-2021-absolucion-de-a-brugger-y-m-gonzalvez/"
       - "https://www.eldiario.es/comunitat-valenciana/absuelta-ex-alto-cargo-pp-acusada-pasar-respuestas-examen-oposicion-amiga-asesora-vox_1_7364900.html"
+      - "https://www.tercerainformacion.es/articulo/actualidad/pais-valencia/07/04/2021/sobre-la-sentencia-de-la-audiencia-provincial-de-valencia-de-26-de-marzo-de-2021-absolucion-de-a-brugger-y-m-gonzalvez/"
 
-  - fecha: "2021-04"
-    titulo: "Críticas del sindicato CGT a la sentencia absolutoria"
-    descripcion: "El sindicato CGT emite un comunicado criticando duramente la sentencia de absolución, señalando que se han probado los hechos pero que el tribunal ha interpretado la ley de forma favorable a las acusadas. CGT denuncia que la sentencia envía un mensaje de impunidad a los altos cargos que abusan de su posición."
-    type: "resumen"
+  - fecha: "2021-04-07"
+    titulo: "Se informa de que la acusación popular no recurrirá la absolución salvo las costas"
+    descripcion: "El sindicato CGT anuncia que no puede recurrir la sentencia por limitaciones económicas y que solo impugnará la condena en costas. Esta decisión, recogida por prensa, es la base de que la absolución penal quedara firme, según expuso después la resolución contencioso-administrativa. La fecha corresponde a la publicación del comunicado."
+    type: "recurso"
+    relevancia: "media"
     urls:
       - "https://www.tercerainformacion.es/articulo/actualidad/pais-valencia/07/04/2021/sobre-la-sentencia-de-la-audiencia-provincial-de-valencia-de-26-de-marzo-de-2021-absolucion-de-a-brugger-y-m-gonzalvez/"
 
-  - fecha: "2021-05"
-    titulo: "Inicio del procedimiento sancionador administrativo"
-    descripcion: "Una vez agotada la vía penal con la sentencia absolutoria firme, la Conselleria de Justicia, Interior y Administración Pública de la Generalitat Valenciana inicia un procedimiento sancionador administrativo contra Ana Brugger por los hechos ocurridos en marzo de 2018."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/confirmado-traslado-forzoso-exjefa-funcionarios-valencianos-pp-chivo-respuestas-oposicion-amiga-vox_1_8990277.html"
-
-  - fecha: "2022-01"
-    titulo: "Resolución de sanción administrativa: traslado forzoso"
-    descripcion: "La consellera Gabriela Bravo dicta resolución sancionadora contra Ana Brugger, imponiendo un traslado forzoso durante tres años a otro destino administrativo y la obligación de realizar un curso sobre ética e integridad impartido por el Instituto Valenciano de Administración Pública (IVAP)."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/confirmado-traslado-forzoso-exjefa-funcionarios-valencianos-pp-chivo-respuestas-oposicion-amiga-vox_1_8990277.html"
-
-  - fecha: "2022-03"
-    titulo: "Recurso de Brugger contra la sanción administrativa"
-    descripcion: "Ana Brugger interpone un recurso contencioso-administrativo ante el Juzgado de lo Contencioso-Administrativo número 8 de Valencia, impugnando la resolución sancionadora de la Generalitat que le impone el traslado forzoso y el curso obligatorio."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/confirmado-traslado-forzoso-exjefa-funcionarios-valencianos-pp-chivo-respuestas-oposicion-amiga-vox_1_8990277.html"
-
-  - fecha: "2022-05-20"
-    titulo: "Confirmación judicial de la sanción administrativa"
-    descripcion: "El Juzgado de lo Contencioso-Administrativo número 8 de Valencia desestima el recurso de Ana Brugger y confirma la legalidad de la resolución sancionadora de la Generalitat Valenciana. El juez ratifica el traslado forzoso por tres años y la asistencia obligatoria al curso de ética e integridad, concluyendo definitivamente el caso."
+  - fecha: "2022-05-15"
+    titulo: "Se conoce la confirmación judicial de la sanción administrativa"
+    descripcion: "La prensa informa de que el Juzgado de lo Contencioso-Administrativo nº 8 de Valencia ha desestimado el recurso de Ana Brugger y ha confirmado la sanción administrativa impuesta por la Generalitat: traslado forzoso a otra localidad durante tres años y un curso sobre ética e integridad del Instituto Valenciano de Administración Pública. La fecha es la de publicación de la noticia; no consta la fecha exacta de la resolución ni si fue recurrida o devino firme."
     type: "sentencia"
+    relevancia: "alta"
     urls:
       - "https://www.eldiario.es/comunitat-valenciana/confirmado-traslado-forzoso-exjefa-funcionarios-valencianos-pp-chivo-respuestas-oposicion-amiga-vox_1_8990277.html"
-      - "https://www.uv.es/uvweb/cgt/en/news/confirmado-el-traslado-forzoso-de-la-exjefa-de-los-funcionarios-valencianos-con-el-pp-que-chivo-respuestas-de-una-oposicion-a-una-amiga-de-vox-1285945231211/Novetat.html?id=1286268256781"
 ---
