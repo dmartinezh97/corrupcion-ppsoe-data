@@ -1,234 +1,302 @@
 ---
 nombre: "Caso Bárcenas"
 partido: PP
-completado: true
+completado: false
 año: 2009
-fechaInicio: 2009-02-01
 fechaFin: ""
-estado: "cerrado con condenas"
+estado: "sentencia firme"
 descripcion: |
-  El caso Bárcenas destapó la trama de financiación ilegal del Partido Popular a través de una contabilidad paralela conocida como "caja B" que funcionó durante casi dos décadas (1990-2009). Luis Bárcenas, gerente y posteriormente tesorero del PP, gestionó un sistema de donativos empresariales opacos que no figuraban en la contabilidad oficial del partido ni eran fiscalizados por el Tribunal de Cuentas. Este dinero en efectivo, guardado en una caja fuerte en el despacho de Bárcenas, se utilizó para pagar sobresueldos a dirigentes del PP y financiar gastos del partido, incluida la reforma de la sede nacional en la calle Génova 13 de Madrid.
+  El "caso Bárcenas" reúne las investigaciones sobre la contabilidad paralela ("caja B") del Partido Popular y sobre el patrimonio oculto de Luis Bárcenas, gerente del partido entre 1990 y 2008 y tesorero desde junio de 2008 hasta abril de 2010, además de senador por Cantabria entre 2004 y 2010. Según las resoluciones judiciales, durante casi dos décadas Bárcenas gestionó donaciones privadas en metálico que no se reflejaron en la contabilidad oficial del partido ni fueron fiscalizadas por el Tribunal de Cuentas y que se destinaron a gastos de la formación —entre ellos parte de la reforma de su sede en la calle Génova de Madrid— y al pago de sobresueldos a dirigentes, con el dinero guardado en una caja fuerte situada en su despacho.
 
-  Los llamados "papeles de Bárcenas", publicados por El País el 31 de enero de 2013, eran hojas manuscritas y documentos Excel que documentaban esta doble contabilidad entre 1990 y 2009. Los documentos revelaron pagos regulares en efectivo a altos cargos del partido, incluyendo referencias a "M. Rajoy". El caso se ramificó en múltiples procedimientos judiciales: la investigación de la caja B del PP, el pago irregular de la reforma de la sede de Génova con dinero negro, y la acumulación por parte de Bárcenas de 48 millones de euros en cuentas bancarias en Suiza procedentes de comisiones vinculadas a la trama Gürtel.
+  Los "papeles de Bárcenas", publicados por El País el 31 de enero de 2013, recogían anotaciones manuscritas y hojas de cálculo de entradas y salidas entre 1990 y 2009. Las sentencias consideraron acreditada la existencia de la caja B y dieron credibilidad parcial a determinados apuntes, pero precisaron que no podía darse validez al documento en su integridad, al contener errores e incoherencias.
 
-  Las sentencias de la Audiencia Nacional (2018 y 2021) y del Tribunal Supremo (2020 y 2024) condenaron a Luis Bárcenas a penas que sumaban 29 años de prisión por delitos de cohecho, blanqueo de capitales, fraude fiscal, malversación y asociación ilícita. El Partido Popular fue condenado como responsable civil subsidiario y como partícipe a título lucrativo en la trama Gürtel, convirtiéndose en el primer partido político de la democracia española condenado por corrupción. El caso provocó la moción de censura que derrocó a Mariano Rajoy en junio de 2018.
+  La causa se desdobló en varias piezas. En la primera época de la trama Gürtel (1999-2005), la Audiencia Nacional (SAN 20/2018, de 17 de mayo) condenó a Bárcenas a 33 años y 4 meses de prisión y declaró al PP partícipe a título lucrativo; el Tribunal Supremo (STS 507/2020, de 14 de octubre) confirmó las condenas y rebajó la pena de Bárcenas a 29 años y un mes. En la pieza sobre la reforma de la sede de Génova (SAN 21/2021, de 28 de octubre), la Audiencia consideró probado que se pagaron 1.072.000 euros en negro a la empresa Unifica entre 2005 y 2010, condenó a Bárcenas a 2 años como cooperador necesario de un delito de falsedad contable en concurso con un delito contra la Hacienda Pública y declaró al PP responsable civil subsidiario, sin condena penal; el Tribunal Supremo (STS 1033/2024, de 14 de noviembre, rec. 1595/2022, ECLI:ES:TS:2024:5577) confirmó en lo sustancial la condena, absolvió del delito de falsedad, rebajó la pena a 8 meses al apreciar dilaciones indebidas y fijó la cuota defraudada en 374.096,826 euros. La pieza sobre las donaciones de empresarios a la caja B a cambio de adjudicaciones públicas fue archivada por el juez Santiago Pedraz en diciembre de 2022, decisión confirmada por la Sala de lo Penal en 2023, al no acreditarse la relación entre las donaciones y los contratos.
 
-resumen: "Contabilidad paralela del PP (caja B) gestionada por Luis Bárcenas durante 1990-2009, con sobresueldos a dirigentes, cuentas en Suiza y financiación ilegal del partido"
-coste: 49200000
+  Bárcenas obtuvo la libertad condicional el 17 de diciembre de 2024, después de cumplir dos tercios de su condena y de abonar 4.535.254,92 euros de responsabilidad civil. La última resolución firme localizada es la STS 1033/2024, de 14 de noviembre de 2024. La operación Kitchen, sobre el presunto espionaje policial a Bárcenas, es una pieza separada de la macrocausa Tándem: su juicio se celebró entre abril y julio de 2026 y, a 1 de octubre de 2026, no se ha localizado sentencia.
+
+  Esta ficha comparte el ámbito de la contabilidad paralela y la reforma de Génova con la ficha Papeles Bárcenas; las resoluciones y cuantías de ambas se refieren a los mismos hechos y no deben contarse dos veces. La primera época de Gürtel cuenta también con su propia ficha.
+
+resumen: "Contabilidad paralela del PP ('caja B') gestionada por Luis Bárcenas, papeles publicados en 2013, cuentas en Suiza y condenas penales firmes a Bárcenas y a los administradores de Unifica; el PP fue declarado partícipe a título lucrativo y responsable civil subsidiario, sin condena penal"
+
 lugar: "Madrid, España"
+
 tribunal:
-  - "Audiencia Nacional - Sala de lo Penal"
-  - "Tribunal Supremo - Sala de lo Penal"
-  - "Juzgado Central de Instrucción nº 5 (Juez Pablo Ruz)"
-numeroSentencia: "SAN 2/2018 (Gürtel) - SAN 156/2021 (Papeles de Bárcenas) - STS 677/2020 - STS 1067/2024"
+  - "Juzgado Central de Instrucción nº 5 de la Audiencia Nacional (Pablo Ruz y, después, Santiago Pedraz)"
+  - "Audiencia Nacional - Sala de lo Penal, Sección Segunda"
+  - "Tribunal Supremo - Sala de lo Penal (Sala Segunda)"
+  - "Juzgado Central de Vigilancia Penitenciaria de la Audiencia Nacional"
+
+numeroSentencia: "SAN 20/2018 (Gürtel, 17-05-2018); STS 507/2020 (14-10-2020); SAN 21/2021 (papeles de Bárcenas, causa 6/2015, 28-10-2021, ROJ SAN 4424/2021, ECLI:ES:AN:2021:4424); STS 1033/2024 (14-11-2024, rec. 1595/2022, ECLI:ES:TS:2024:5577)"
+
 implicados:
   - nombre: "Luis Bárcenas Gutiérrez"
-    cargo: "Gerente del PP (1990-2008) y Tesorero del PP (2008-2009), Senador"
-    rol: "Condenado a 29 años por cohecho, blanqueo, fraude fiscal y malversación"
+    cargo: "Gerente del PP (1990-2008) y tesorero (2008-2010); senador por Cantabria (2004-2010)"
+    rol: "Condenado en la primera época de Gürtel (29 años y un mes) y por la reforma de Génova (8 meses)"
 
-  - nombre: "Rosalía Iglesias"
+  - nombre: "Rosalía Iglesias Villar"
     cargo: "Esposa de Luis Bárcenas"
-    rol: "Condenada a 12 años y 11 meses por blanqueo de capitales y delitos fiscales"
+    rol: "Condenada en Gürtel a 12 años y 11 meses por blanqueo y delitos fiscales; ingresó en prisión en noviembre de 2020"
 
   - nombre: "Francisco Correa Sánchez"
     cargo: "Empresario, líder de la trama Gürtel"
-    rol: "Condenado a 51 años y 11 meses; pagó comisiones ilegales vinculadas al PP"
+    rol: "Condenado a 51 años y 11 meses en la primera época de Gürtel"
 
-  - nombre: "Pablo Crespo Sabaris"
+  - nombre: "Pablo Crespo Sabarís"
     cargo: "Número dos de la trama Gürtel"
-    rol: "Condenado a 37 años y medio de prisión"
+    rol: "Condenado en la primera época de Gürtel"
 
-  - nombre: "José Luis Izquierdo Torres"
-    cargo: "Administrador de Unifica (reforma de Génova)"
-    rol: "Condenado a 9 meses por fraude fiscal en la reforma de la sede del PP"
+  - nombre: "Gonzalo Urquijo Fernández de Córdoba"
+    cargo: "Arquitecto, socio de Unifica (reforma de Génova)"
+    rol: "Condenado a 9 meses por delito fiscal en la reforma de la sede (firme en 2024)"
 
-  - nombre: "Gonzalo Urquijo Fernández de Araoz"
-    cargo: "Administrador de Unifica"
-    rol: "Condenado a 9 meses por fraude fiscal en la reforma de la sede del PP"
+  - nombre: "Belén García"
+    cargo: "Socia de Unifica (reforma de Génova)"
+    rol: "Condenada a 9 meses por delito fiscal en la reforma de la sede (firme en 2024)"
 
-  - nombre: "Álvaro Lapuerta"
+  - nombre: "Álvaro de Lapuerta Quintero"
     cargo: "Tesorero del PP (1993-2008)"
     rol: "Predecesor de Bárcenas; falleció en 2018 sin ser juzgado"
 
   - nombre: "Mariano Rajoy Brey"
-    cargo: "Presidente del Gobierno (2011-2018), Presidente del PP"
-    rol: "Testigo en el juicio; sentencias cuestionaron la veracidad de su testimonio"
+    cargo: "Presidente del Gobierno (2011-2018) y del PP (2004-2018)"
+    rol: "Declaró como testigo en el juicio de Gürtel (26-07-2017) y negó haber recibido pagos de la caja B. La Audiencia Nacional puso en cuestión en 2018 la credibilidad de los testigos del PP que negaban la caja B, entre ellos Rajoy; el Tribunal Supremo (2020) no asumió esa valoración y se limitó a considerar las referencias a la caja B como contexto, al no haber sido enjuiciado el PP por responsabilidad penal. No fue imputado"
 
   - nombre: "María Dolores de Cospedal"
-    cargo: "Secretaria General del PP, Ministra de Defensa"
-    rol: "Mencionada por Bárcenas como receptora de sobresueldos; no imputada"
+    cargo: "Secretaria general del PP (2008-2018) y ministra de Defensa (2016-2018)"
+    rol: "Mencionada por Bárcenas como receptora de sobresueldos de la caja B; no fue imputada en la pieza de los papeles de Bárcenas (Génova). Su situación en la operación Kitchen, causa separada, no forma parte del objeto de esta ficha"
 
-  - nombre: "Álvaro Pérez Alonso (El Bigotes)"
-    cargo: "Responsable de Orange Market (rama valenciana de Gürtel)"
-    rol: "Absuelto en sentencia principal de Gürtel; condenado a 13 años en caso FITUR"
+  - nombre: "Álvaro Pérez Alonso ('El Bigotes')"
+    cargo: "Responsable de Orange Market (Gürtel en Valencia)"
+    rol: "Absuelto en la primera época de Gürtel; condenado en otras piezas de la trama"
 
   - nombre: "Partido Popular (PP)"
     cargo: "Partido político"
-    rol: "Condenado como partícipe a título lucrativo; primer partido español condenado por corrupción"
+    rol: "Declarado partícipe a título lucrativo en Gürtel y responsable civil subsidiario en la pieza de Génova; no fue condenado penalmente"
 
 tags:
   - "corrupción"
   - "financiación ilegal"
+  - "contabilidad B"
   - "blanqueo de capitales"
   - "fraude fiscal"
-  - "cohecho"
-  - "caja B"
-  - "malversación"
-  - "asociación ilícita"
+  - "sobresueldos"
 
-impactoSocial: "El caso Bárcenas es el mayor escándalo de corrupción política en la historia del PP. La sentencia Gürtel de 2018 desencadenó la primera moción de censura exitosa de la democracia española, derrocando a Mariano Rajoy y llevando a Pedro Sánchez a la presidencia el 1 de junio de 2018."
+impactoSocial: "El caso situó en el centro del debate público la financiación del Partido Popular y llevó a que un partido político español fuera declarado partícipe a título lucrativo de una trama corrupta. La sentencia de la Audiencia Nacional de mayo de 2018 fue el detonante de la moción de censura que en junio de 2018 sustituyó a Mariano Rajoy por Pedro Sánchez. El caso provocó además dimisiones en la cúpula del partido y un prolongado debate sobre la fiscalización de las cuentas de las formaciones políticas."
 
-documentos: []
+documentos:
+  - fecha: "2018-05-17"
+    titulo: "SAN 20/2018, de 17 de mayo: primera época de la trama Gürtel (Gürtel Época I)"
+    filetype: "pdf"
+    paginas: 1687
+    nombre_fichero: "https://www.poderjudicial.es/stfls/AUDIENCIA%20NACIONAL/JURISPRUDENCIA/AN%20Penal%2017%20mayo%202018.pdf"
+
+  - fecha: "2020-10-14"
+    titulo: "STS 507/2020, de 14 de octubre: casación de la primera época de Gürtel (rec. 10575/2018) — copia íntegra publicada por Mediaset"
+    filetype: "pdf"
+    paginas: 1844
+    nombre_fichero: "https://files.mediaset.es/file/10002/2020/10/14/sentencia_gurtel_b373.pdf"
+
+  - fecha: "2021-10-28"
+    titulo: "SAN 21/2021, de 28 de octubre: pieza de los papeles de Bárcenas (causa 6/2015) — copia íntegra publicada en DocDroid"
+    filetype: "pdf"
+    paginas: 454
+    nombre_fichero: "https://www.docdroid.net/file/download/z32Auar/2021-10-28-sentencia-papeles-de-barcenas-pdf.pdf"
+
+  - fecha: "2024-11-14"
+    titulo: "STS 1033/2024, de 14 de noviembre: casación de la pieza de los papeles de Bárcenas (rec. 1595/2022)"
+    filetype: "pdf"
+    paginas: 75
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=9f1b60f805a51e87a0a8778d75e36f0d&encode=true&databasematch=TS"
 
 cronologia:
-  - fecha: "1990-01-01"
-    titulo: "Inicio de la contabilidad B del Partido Popular"
-    descripcion: "Luis Bárcenas, como gerente del PP, comienza a mantener una contabilidad paralela donde registra donaciones opacas de empresarios y constructores y el pago de sobresueldos en efectivo a la cúpula del partido. Este sistema de financiación ilegal se prolongará durante casi dos décadas hasta 2009."
-    type: "investigación"
-    urls: []
+  - fecha: "2009-06-11"
+    titulo: "La Fiscalía Anticorrupción aprecia la implicación de Bárcenas en el caso Gürtel"
+    descripcion: "La Fiscalía Anticorrupción aprecia indicios suficientes contra Luis Bárcenas en la trama Gürtel y solicita la elevación de la causa al Tribunal Supremo, competente por la condición de aforado del entonces senador. La investigación lo vinculaba a presuntos pagos de la red de Francisco Correa."
+    type: "imputación"
+    urls:
+      - "https://www.eitb.eus/es/noticias/politica/caso-barcenas/detalle/1386852/caso-barcenas--resumen-cronologia-judicial-extesorero-pp-/"
+      - "https://www.infolibre.es/politica/cronologia-caso-barcenas_1_1109284.html"
 
-  - fecha: "2009-02-01"
-    titulo: "Implicación de Bárcenas en la trama Gürtel"
-    descripcion: "La Audiencia Nacional hace público que Luis Bárcenas aparece mencionado en la investigación de la trama Gürtel, presuntamente implicado en delitos de cohecho y delito fiscal por haber recibido más de 1,3 millones de euros de la organización de Francisco Correa. Esta revelación marca el inicio público del caso Bárcenas, aunque la contabilidad paralela del PP había funcionado desde 1990."
+  - fecha: "2009-07-28"
+    titulo: "Bárcenas dimite como tesorero del PP"
+    descripcion: "Luis Bárcenas presenta su dimisión como tesorero del Partido Popular, que define como transitoria 'hasta que quede acreditada mi inocencia'. El PP mantiene entonces su respaldo público. Bárcenas había declarado como imputado ante el Tribunal Supremo el 22 de julio."
+    type: "resumen"
+    urls:
+      - "https://www.infolibre.es/politica/cronologia-caso-barcenas_1_1109284.html"
+
+  - fecha: "2010-04-08"
+    titulo: "Dimisión definitiva de Bárcenas como tesorero"
+    descripcion: "Luis Bárcenas deja definitivamente sus funciones como tesorero del PP y solicita la baja temporal como militante. El 19 de abril de 2010 formalizó además su renuncia al escaño de senador por Cantabria."
+    type: "resumen"
+    urls:
+      - "https://www.eitb.eus/es/noticias/politica/caso-barcenas/detalle/1386852/caso-barcenas--resumen-cronologia-judicial-extesorero-pp-/"
+
+  - fecha: "2013-01-16"
+    titulo: "Se conoce que Bárcenas llegó a tener 22 millones en Suiza"
+    descripcion: "Trasciende que Bárcenas llegó a tener 22 millones de euros en un banco suizo, según documentación remitida por Suiza al juez Pablo Ruz. La información se refiere a la existencia y a la evolución del patrimonio, no a la fecha del descubrimiento judicial."
     type: "investigación"
     urls:
       - "https://www.eitb.eus/es/noticias/politica/caso-barcenas/detalle/1386852/caso-barcenas--resumen-cronologia-judicial-extesorero-pp-/"
 
-  - fecha: "2009-06-08"
-    titulo: "Bárcenas renuncia como tesorero del PP"
-    descripcion: "Luis Bárcenas presenta su dimisión como tesorero del Partido Popular tras la presión política y mediática por su vinculación con la trama Gürtel. El PP emite un comunicado alabando su trayectoria como 'un ejemplo de profesionalidad y buen hacer'. Mariano Rajoy acepta la dimisión y nombra a Cristóbal Páez como nuevo tesorero."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/pp-barcenas-dimision-ejemplo-profesionalidad_1_5566312.html"
-
-  - fecha: "2013-01-16"
-    titulo: "El Mundo revela que Bárcenas tiene 22 millones en Suiza"
-    descripcion: "El diario El Mundo publica que Luis Bárcenas llegó a tener hasta 22 millones de euros en una cuenta del banco Dresdner en Suiza. La noticia sacude al PP y abre interrogantes sobre el origen de semejante fortuna del extesorero del partido."
-    type: "investigación"
-    urls: []
-
   - fecha: "2013-01-18"
-    titulo: "El Mundo publica pagos extras a dirigentes del PP"
-    descripcion: "El periódico El Mundo publica que Luis Bárcenas pagó durante años sobresueldos en efectivo a parte de la dirección del Partido Popular. La información revela la existencia de pagos irregulares procedentes de la caja B que Bárcenas gestionaba como gerente y tesorero del partido. La noticia genera un impacto político inmediato, obligando al PP a negar categóricamente la existencia de cualquier contabilidad opaca."
+    titulo: "El Mundo publica que Bárcenas pagó sobresueldos a la cúpula del PP"
+    descripcion: "El diario El Mundo publica que Luis Bárcenas pagó durante años sobresueldos en efectivo a parte de la dirección del Partido Popular con dinero de la caja B. La noticia antecede a la publicación de los papeles y el PP niega la existencia de una contabilidad opaca."
     type: "investigación"
     urls:
       - "https://www.eitb.eus/es/noticias/politica/caso-barcenas/detalle/1386852/caso-barcenas--resumen-cronologia-judicial-extesorero-pp-/"
 
   - fecha: "2013-01-24"
-    titulo: "Anticorrupción abre investigación sobre la caja B del PP"
-    descripcion: "La Fiscalía Anticorrupción abre una investigación sobre la posible existencia de una caja B del Partido Popular tras las informaciones periodísticas sobre los pagos irregulares realizados por Luis Bárcenas. El fiscal jefe ordena investigar la procedencia de los fondos, el destino de los pagos y las posibles responsabilidades penales."
+    titulo: "La Fiscalía Anticorrupción abre una investigación sobre la caja B del PP"
+    descripcion: "La Fiscalía Anticorrupción abre diligencias sobre la posible existencia de una caja B en el Partido Popular a raíz de las informaciones periodísticas sobre los pagos irregulares realizados por Luis Bárcenas."
     type: "investigación"
     urls:
       - "https://www.eitb.eus/es/noticias/politica/caso-barcenas/detalle/1386852/caso-barcenas--resumen-cronologia-judicial-extesorero-pp-/"
 
   - fecha: "2013-01-31"
     titulo: "El País publica los 'papeles de Bárcenas'"
-    descripcion: "El diario El País publica los 'papeles secretos de Bárcenas', documentos que recogen la contabilidad paralela del Partido Popular entre 1990 y 2009. Los papeles muestran anotaciones manuscritas y hojas Excel con donativos empresariales opacos y pagos regulares en efectivo a altos cargos del partido, incluyendo referencias a 'M. Rajoy'. La publicación genera un terremoto político sin precedentes y el PP niega la autenticidad de los documentos."
+    descripcion: "El diario El País publica los documentos conocidos como 'papeles de Bárcenas', con anotaciones manuscritas y hojas de cálculo de la contabilidad paralela del PP entre 1990 y 2009, incluidos donativos de empresarios y pagos en efectivo a dirigentes. El PP niega la autenticidad de los documentos."
     type: "documento"
     urls:
       - "https://elpais.com/politica/2013/01/30/actualidad/1359583204_085918.html"
 
   - fecha: "2013-02-02"
-    titulo: "Rajoy niega haber recibido pagos ilegales"
-    descripcion: "El presidente del Gobierno, Mariano Rajoy, comparece públicamente para negar categóricamente haber recibido pagos ilegales del PP o de Luis Bárcenas. Afirma que todo lo publicado es 'falso' y asegura que nunca ha cobrado ni un euro negro. Bárcenas, por su parte, también niega públicamente ser el autor de los papeles."
+    titulo: "Rajoy niega haber recibido pagos en negro"
+    descripcion: "El presidente del Gobierno, Mariano Rajoy, niega públicamente haber recibido pagos ilegales del PP o de Luis Bárcenas y sostiene que lo publicado es falso. Bárcenas niega entonces ser el autor de los papeles."
     type: "resumen"
-    urls: []
+    urls:
+      - "https://www.eitb.eus/es/noticias/politica/caso-barcenas/detalle/1386852/caso-barcenas--resumen-cronologia-judicial-extesorero-pp-/"
 
   - fecha: "2013-06-06"
     titulo: "La UDEF concluye que Bárcenas nutrió sus cuentas con comisiones de Gürtel"
-    descripcion: "La Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional concluye en un informe oficial que Luis Bárcenas nutrió sus cuentas en Suiza con comisiones procedentes de la trama Gürtel. El informe establece vínculos directos entre el dinero del extesorero y la red corrupta de Francisco Correa."
+    descripcion: "La Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional concluye en un informe que Luis Bárcenas nutrió sus cuentas en Suiza con comisiones procedentes de la trama Gürtel."
     type: "investigación"
-    urls: []
+    urls:
+      - "https://www.eitb.eus/es/noticias/politica/caso-barcenas/detalle/1386852/caso-barcenas--resumen-cronologia-judicial-extesorero-pp-/"
 
   - fecha: "2013-06-14"
-    titulo: "Rajoy envía SMS a Bárcenas: 'Luis, sé fuerte'"
-    descripcion: "Se revela que días después del descubrimiento de las cuentas de Bárcenas en Suiza, el presidente Mariano Rajoy envió un mensaje SMS al extesorero con el texto 'Luis, sé fuerte'. El mensaje evidencia la cercanía entre ambos y genera una enorme polémica política sobre el conocimiento de Rajoy de las actividades de Bárcenas."
-    type: "resumen"
-    urls: []
+    titulo: "Se conoce que Bárcenas ocultó 47 millones en Suiza"
+    descripcion: "Trasciende que el patrimonio oculto de Bárcenas en Suiza alcanzaba los 47 millones de euros, al sumarse a la cuenta de 22 millones ya conocida otra de 25 millones. El dato procede de una comisión rogatoria remitida a España."
+    type: "investigación"
+    urls:
+      - "https://www.eitb.eus/es/noticias/politica/caso-barcenas/detalle/1386852/caso-barcenas--resumen-cronologia-judicial-extesorero-pp-/"
 
   - fecha: "2013-06-27"
     titulo: "Bárcenas ingresa en prisión preventiva"
-    descripcion: "El juez Pablo Ruz, titular del Juzgado Central de Instrucción número 5 de la Audiencia Nacional, ordena el ingreso en prisión de Luis Bárcenas sin fianza por riesgo de fuga y peligro de destrucción de pruebas. Las autoridades suizas habían alertado de que Bárcenas había transferido fondos hacia Estados Unidos y Uruguay. Se habían identificado 48,2 millones de euros en cuentas suizas vinculadas a Bárcenas y su esposa. Bárcenas ingresa en la prisión de Soto del Real."
+    descripcion: "El juez Pablo Ruz, titular del Juzgado Central de Instrucción nº 5, ordena el ingreso en prisión incondicional de Luis Bárcenas por riesgo de fuga, tras advertir Suiza de movimientos de fondos hacia otros países. Bárcenas ingresa en la prisión de Soto del Real."
     type: "detención"
     urls:
-      - "https://www.pagina12.com.ar/diario/elmundo/4-223207-2013-06-28.html"
+      - "https://www.rtve.es/noticias/20130627/luis-barcenas-ingresa-carcel-madrilena-soto-del-real/699422.shtml"
+
+  - fecha: "2013-07-14"
+    titulo: "Se conocen los SMS de Rajoy a Bárcenas ('Luis, sé fuerte')"
+    descripcion: "El Mundo publica mensajes de texto intercambiados entre Mariano Rajoy y Luis Bárcenas entre 2011 y marzo de 2013, entre ellos el 'Luis, sé fuerte'. La fecha es la de publicación de los mensajes, no la de su envío."
+    type: "documento"
+    urls:
+      - "https://www.eldiario.es/politica/sms-rajoy-barcenas-luis-fuerte_1_5887668.html"
 
   - fecha: "2013-07-15"
-    titulo: "Bárcenas declara ante el juez Ruz e implica a Rajoy"
-    descripcion: "Luis Bárcenas comparece ante el juez Pablo Ruz en la Audiencia Nacional y declara que realizó entregas de dinero en efectivo como sobresueldos al presidente del Gobierno Mariano Rajoy y a la secretaria general del PP María Dolores de Cospedal durante 2008, 2009 y 2010. La declaración supone la acusación directa más grave contra un presidente del Gobierno en ejercicio en la democracia española. Rajoy niega categóricamente las acusaciones."
+    titulo: "Bárcenas declara ante el juez Ruz e implica a Rajoy y Cospedal"
+    descripcion: "Luis Bárcenas comparece ante el juez Pablo Ruz, reconoce la autoría de los papeles y declara que realizó entregas de dinero en efectivo como sobresueldos al presidente del Gobierno, Mariano Rajoy, y a la secretaria general del PP, María Dolores de Cospedal, en 2008, 2009 y 2010. Ambos lo niegan."
     type: "declaración"
     urls:
       - "https://www.eitb.eus/es/noticias/politica/caso-barcenas/detalle/1386852/caso-barcenas--resumen-cronologia-judicial-extesorero-pp-/"
 
   - fecha: "2015-01-22"
-    titulo: "Bárcenas sale de prisión preventiva tras 19 meses"
-    descripcion: "Luis Bárcenas sale de la cárcel de Soto del Real tras permanecer 19 meses en prisión preventiva. Nueve familiares reunieron 200.000 euros para pagar la fianza impuesta por el juez. Sale con medidas cautelares, incluida la retirada del pasaporte y obligación de comparecer semanalmente ante el juzgado."
+    titulo: "Bárcenas sale de prisión tras pagar una fianza de 200.000 euros"
+    descripcion: "Luis Bárcenas abandona la prisión de Soto del Real después de que nueve familiares reunieran los 200.000 euros de fianza fijados por la Audiencia Nacional. Sale con medidas cautelares, entre ellas la retirada del pasaporte."
     type: "resumen"
-    urls: []
+    urls:
+      - "https://www.rtve.es/noticias/20150122/barcenas-deposita-fianza-200000-euros-juez-ruz-decreta-su-puesta-libertad/1085160.shtml"
 
   - fecha: "2017-07-26"
     titulo: "Rajoy declara como testigo en el juicio de Gürtel"
-    descripcion: "Mariano Rajoy, presidente del Gobierno en funciones, comparece como testigo en el juicio de la trama Gürtel en la Audiencia Nacional, convirtiéndose en el primer presidente del Gobierno en activo en declarar ante un tribunal en España. Rajoy niega haber recibido sobresueldos de la caja B del PP y afirma desconocer las finanzas del partido. Su declaración será posteriormente cuestionada por las sentencias judiciales."
+    descripcion: "Mariano Rajoy, presidente del Gobierno, comparece como testigo en el juicio de la primera época de la trama Gürtel en la Audiencia Nacional, el primer presidente del Gobierno en activo en declarar ante un tribunal en España. Niega haber recibido sobresueldos de la caja B."
     type: "declaración"
     urls:
       - "https://www.infobae.com/espana/2024/07/22/el-unico-precedente-de-un-presidente-del-gobierno-en-activo-declarando-como-testigo-la-contestacion-gallega-de-mariano-rajoy-en-el-juicio-de-la-trama-gurtel/"
 
-  - fecha: "2018-05-24"
-    titulo: "Sentencia de la Audiencia Nacional: Gürtel"
-    descripcion: "La Audiencia Nacional dicta sentencia en el caso Gürtel condenando a 29 de los 37 acusados. Luis Bárcenas es condenado a 33 años y 4 meses de prisión y multas superiores a 44 millones de euros. Francisco Correa recibe 51 años y 11 meses. El Partido Popular es condenado como partícipe a título lucrativo, convirtiéndose en el primer partido político de la democracia española condenado por corrupción. La sentencia considera que el testimonio de Mariano Rajoy 'no resultó suficientemente creíble'."
+  - fecha: "2018-05-17"
+    titulo: "Sentencia de la Audiencia Nacional del caso Gürtel (Época I)"
+    descripcion: "La Audiencia Nacional dicta la sentencia 20/2018, hecha pública el 24 de mayo, que condena a 29 de los 37 acusados y declara al PP partícipe a título lucrativo (responsabilidad civil, sin condena penal). Luis Bárcenas es condenado a 33 años y 4 meses y Rosalía Iglesias a 15 años y un mes. En la valoración de la prueba, el tribunal dio por acreditada la caja B y puso en cuestión la credibilidad de los testigos del PP que la negaban."
     type: "sentencia"
     urls:
-      - "https://www.eldiario.es/politica/audiencia-nacional-correa-barcenas_1_2109071.html"
-      - "https://www.elespanol.com/espana/tribunales/20180524/gurtel-justicia-acredita-corrupcion-pp-extesorero-barcenas/309719305_0.html"
+      - "https://www.elconfidencial.com/espana/2018-05-24/gurtel-sentencia-barcenas-multa-pp-condena-crespo_1568320/"
 
   - fecha: "2018-06-01"
-    titulo: "Moción de censura: caída de Rajoy"
-    descripcion: "Pedro Sánchez es investido presidente del Gobierno mediante la primera moción de censura exitosa de la democracia española, con 180 votos a favor, 169 en contra y 1 abstención. La moción fue presentada directamente como consecuencia de la sentencia del caso Gürtel que condenó al PP por corrupción. Supone el fin de siete años de gobierno de Rajoy."
+    titulo: "Moción de censura: Pedro Sánchez sustituye a Mariano Rajoy"
+    descripcion: "El Congreso aprueba la moción de censura presentada por el PSOE contra Mariano Rajoy, motivada por la sentencia del caso Gürtel, y Pedro Sánchez es investido presidente del Gobierno. La moción se presentó el 25 de mayo (BOCG de 29 de mayo) y se debatió los días 31 de mayo y 1 de junio; el BOE publicó el 2 de junio el real decreto de cese de Rajoy y el de nombramiento de Pedro Sánchez."
     type: "resumen"
     urls:
-      - "https://es.wikipedia.org/wiki/Moci%C3%B3n_de_censura_contra_Mariano_Rajoy_de_2018"
+      - "https://www.congreso.es/public_oficiales/L12/CONG/BOCG/D/BOCG-12-D-358.PDF"
+      - "https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-127.PDF"
+      - "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-7402"
 
   - fecha: "2020-10-14"
-    titulo: "El Supremo reduce las condenas de Bárcenas y su esposa"
-    descripcion: "El Tribunal Supremo confirma las condenas del caso Gürtel pero reduce las penas: Luis Bárcenas pasa de 33 años y 4 meses a 29 años y 1 mes de prisión, mientras que Rosalía Iglesias ve reducida su condena de 15 años y 1 mes a 12 años y 11 meses. El Supremo mantiene la condena al PP como partícipe a título lucrativo y ratifica que los testimonios de Mariano Rajoy no fueron creíbles."
+    titulo: "El Supremo confirma las condenas de Gürtel y rebaja la pena de Bárcenas a 29 años y un mes"
+    descripcion: "La Sala Segunda del Tribunal Supremo dicta la sentencia 507/2020, confirma en lo esencial las condenas de la primera época de Gürtel, mantiene la condena al PP como partícipe a título lucrativo y rebaja la pena de Luis Bárcenas de 33 años y 4 meses a 29 años y un mes. La de Rosalía Iglesias pasa de 15 años y un mes a 12 años y 11 meses. El Supremo precisa que no cabe afirmar que el PP delinquiera, al no haber sido enjuiciado por responsabilidad penal, y que las referencias a la caja B de la sentencia de instancia cumplían una función de contexto."
     type: "sentencia"
     urls:
-      - "https://www.eldiario.es/politica/supremo-condena-12-anos-prision-rosalia-iglesias-mujer-barcenas_1_6291831.html"
+      - "https://cincodias.elpais.com/cincodias/2020/10/14/economia/1602692890_198289.html"
 
   - fecha: "2020-11-08"
     titulo: "Rosalía Iglesias ingresa en prisión"
-    descripcion: "Rosalía Iglesias, esposa de Luis Bárcenas, ingresa en la prisión de mujeres de Alcalá de Henares para cumplir la condena de 12 años y 11 meses impuesta por el Tribunal Supremo por delitos de blanqueo de capitales y fraude fiscal. Los tribunales consideraron probado que tuvo una conducta activa en el blanqueo del patrimonio oculto de Bárcenas."
+    descripcion: "Rosalía Iglesias, esposa de Luis Bárcenas, ingresa en la prisión de mujeres de Alcalá-Meco para cumplir la condena de 12 años y 11 meses impuesta por el Tribunal Supremo por blanqueo de capitales y delitos fiscales."
     type: "resumen"
     urls:
-      - "https://www.niusdiario.es/nacional/tribunales/rosalia-iglesias-mujer-barcenas-esta-carcel-cumplir-condena-13-anos-gurtel_18_3035295217.html"
+      - "https://www.abc.es/espana/abci-rosalia-iglesias-ingresa-prision-202011081824_noticia.html"
 
-  - fecha: "2021-03-25"
-    titulo: "Bárcenas confirma en juicio la existencia de la caja B del PP"
-    descripcion: "En el juicio por la reforma de la sede de Génova, Luis Bárcenas declara por primera vez en un juicio oral que la contabilidad B del PP existió y que la cúpula del partido recibió sobresueldos en efectivo, nombrando a Mariano Rajoy, María Dolores de Cospedal, Ángel Acebes, Rodrigo Rato, Francisco Álvarez-Cascos, Javier Arenas, Jaime Mayor Oreja y Federico Trillo. Su testimonio supone un reconocimiento judicial histórico del sistema de financiación ilegal."
+  - fecha: "2021-03-08"
+    titulo: "Bárcenas declara en el juicio de la caja B del PP"
+    descripcion: "En el juicio por la reforma de la sede de Génova, Luis Bárcenas declara que la contabilidad B del PP existió y que la cúpula del partido recibió sobresueldos en efectivo, y menciona entre otros a Mariano Rajoy, María Dolores de Cospedal, Ángel Acebes, Rodrigo Rato, Francisco Álvarez-Cascos, Javier Arenas, Jaime Mayor Oreja y Federico Trillo, que lo niegan."
     type: "declaración"
-    urls: []
+    urls:
+      - "https://www.eldiario.es/politica/declaracion-barcenas-juicio-caja-b-pp-seis-videos_1_7286218.html"
 
   - fecha: "2021-10-28"
-    titulo: "Condena por la reforma de Génova con dinero negro"
-    descripcion: "La Audiencia Nacional condena a Luis Bárcenas a 2 años de prisión y al Partido Popular como responsable civil subsidiario por la reforma irregular de la sede del PP en la calle Génova 13. La sentencia considera probado que entre 2005 y 2010 se pagó más de un millón de euros en efectivo procedente de la caja B a la empresa Unifica. Es la tercera sentencia que acredita judicialmente la existencia de la caja B del PP."
+    titulo: "Sentencia de la Audiencia Nacional sobre la reforma de Génova"
+    descripcion: "La Audiencia Nacional dicta la sentencia 21/2021 (causa 6/2015), que considera probado el pago de 1.072.000 euros en negro a Unifica para la reforma de la sede del PP, condena a Luis Bárcenas a 2 años como cooperador necesario de un delito continuado de falsedad contable en concurso con un delito contra la Hacienda Pública, condena a los socios de Unifica Gonzalo Urquijo y Belén García a 2 años y 9 meses y declara al PP responsable civil subsidiario por 123.669 euros. Absuelve al exgerente Cristóbal Páez y a Laura Montero."
     type: "sentencia"
     urls:
-      - "https://www.eldiario.es/politica/audiencia-nacional-condena-luis-barcenas-pp-reforma-sede-genova-dinero-negro_1_8439000.amp.html"
+      - "https://www.eldiario.es/politica/consulta-sentencia-audiencia-nacional-barcenas-pp-reforma-genova_1_8439071.html"
 
-  - fecha: "2024-11-15"
-    titulo: "El Supremo confirma la condena al PP por Génova"
-    descripcion: "El Tribunal Supremo confirma la condena al Partido Popular como responsable civil subsidiario en el caso de los papeles de Bárcenas por la reforma de su sede con dinero negro, aunque reduce las penas al apreciar dilaciones indebidas: la condena de Bárcenas por este caso pasa de 2 años a 8 meses de prisión. Los dos administradores de Unifica ven sus penas reducidas de 2 años y 9 meses a 9 meses de prisión."
+  - fecha: "2022-12-19"
+    titulo: "La Audiencia Nacional archiva la pieza de las donaciones a la caja B"
+    descripcion: "El juez Santiago Pedraz acuerda el sobreseimiento provisional de la pieza que investigaba las donaciones de empresarios a la caja B del PP a cambio de adjudicaciones públicas, al no haberse acreditado la relación entre unas y otras, y sigue el criterio de la Fiscalía Anticorrupción. La decisión es confirmada por la Sala de lo Penal en enero de 2023."
+    type: "resumen"
+    urls:
+      - "https://www.rtve.es/noticias/20221219/juez-pedraz-archiva-pieza-supuestas-donaciones-caja-b-pp/2412283.shtml"
+
+  - fecha: "2024-11-14"
+    titulo: "El Supremo confirma la condena por la reforma de Génova y rebaja las penas"
+    descripcion: "El Tribunal Supremo dicta la sentencia 1033/2024 (rec. 1595/2022), que confirma en lo sustancial la condena al PP como responsable civil subsidiario por el pago en negro de la reforma de Génova y la condena por defraudación tributaria, absuelve del delito de falsedad y rebaja las penas por dilaciones indebidas: la de Bárcenas pasa de 2 años a 8 meses y la de los administradores de Unifica, de 2 años y 9 meses a 9 meses. El fallo fija la cuota defraudada en 374.096,826 euros, en sustitución de los 870.000 euros anteriores; la nota informativa del CGPJ y la prensa difundieron la resolución el 15 de noviembre de 2024."
     type: "sentencia"
     urls:
-      - "https://www.elindependiente.com/espana/2024/11/15/el-supremo-reduce-las-penas-por-el-caso-barcenas-y-ratifica-la-responsabilidad-del-pp/"
-      - "https://www.eldiario.es/politica/supremo-confirma-pp-reformo-sede-dinero-negro-caja-b_1_11416358.html"
+      - "https://elpais.com/espana/2024-11-15/el-supremo-confirma-la-condena-al-pp-como-responsable-civil-por-el-pago-en-negro-de-la-obra-de-la-sede-de-genova.html"
 
   - fecha: "2024-12-17"
     titulo: "Bárcenas obtiene la libertad condicional"
-    descripcion: "El Juzgado de Vigilancia Penitenciaria de la Audiencia Nacional concede la libertad condicional a Luis Bárcenas tras haber cumplido dos tercios de su condena. El extesorero del PP ha pasado más de 8 años en prisión. El juez fundamenta su decisión en que Bárcenas cumple los requisitos legales: ha satisfecho responsabilidad civil por 4,5 millones de euros, ha mostrado arrepentimiento y colaborado parcialmente con la justicia."
+    descripcion: "El Juzgado Central de Vigilancia Penitenciaria de la Audiencia Nacional concede la libertad condicional a Luis Bárcenas tras cumplir dos tercios de su condena, haber abonado 4.535.254,92 euros de responsabilidad civil y haberse sometido a programas para condenados por delitos económicos. La Audiencia calculaba entonces que extinguiría la condena previsiblemente en septiembre de 2028."
     type: "resumen"
     urls:
-      - "https://www.elespanol.com/espana/tribunales/20241217/extesorero-pp-luis-barcenas-obtiene-libertad-condicional-juez-considera-reinsertado-arrepentido/909409238_0.html"
-      - "https://www.newtral.es/barcenas-libertad-condicional/20241217/"
-
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/El-Juzgado-de-Vigilancia-Penitenciaria-concede-la-libertad-condicional-al-extesorero-del-Partido-Popular-Luis-Barcenas"
 ---
+
+## Notas sobre el ámbito, la firmeza y las incertidumbres
+
+- **Solapamiento con otras fichas.** El "caso Bárcenas" comparte hechos con `casos/pp/gürtel.md` (la primera época de la trama, que condenó a Bárcenas y al PP a título lucrativo), con `casos/pp/papeles_barcenas.md` —ficha que abarca tanto la contabilidad paralela y los papeles como la pieza de la reforma de la sede de Génova, de modo que su ámbito se solapa con el de esta ficha en la caja B y en Génova— y con `casos/pp/gurtel-fitur.md` en lo relativo a Álvaro Pérez "El Bigotes". No se editan esas fichas ni se duplica su contenido: el detalle de cada trama corresponde a su propia ficha.
+
+- **Alcance de algunas afirmaciones.** La no imputación de María Dolores de Cospedal se refiere a la pieza de los papeles de Bárcenas (Génova); la operación Kitchen es una causa separada y no se usa para formular una afirmación global. Respecto al hito del 8 de abril de 2010, no se sostiene que el partido situara a Bárcenas fuera de la organización desde 2008: desempeñó la tesorería entre 2008 y 2010 y conservó el escaño de senador hasta su renuncia ese mismo mes.
+
+- **`fechaInicio` omitida.** No se ha fijado una fecha de inicio porque el "caso Bárcenas" no tiene un arranque único documentado: la trama Gürtel se destapó el 6 de febrero de 2009, la Fiscalía Anticorrupción apreció la implicación de Bárcenas el 11 de junio de 2009 y la pieza separada de los papeles se abrió en marzo de 2013. El campo `año` se mantiene en 2009.
+
+- **`fechaFin`.** El campo se deja en blanco: no existe una única fecha de cierre documentada del conjunto. La última resolución firme localizada es la STS 1033/2024, de 14 de noviembre de 2024, pero no cierra el expediente: la pieza de las donaciones se archivó provisionalmente en 2022 (confirmado en 2023) y la operación Kitchen, pieza separada de la macrocausa Tándem sobre el presunto espionaje a Bárcenas, seguía pendiente de sentencia al cierre de esta revisión.
+
+- **Magnitudes económicas.** El caso agrupa cantidades de naturaleza distinta que no deben sumarse como si fueran una sola: donaciones opacas registradas en la caja B, el pago en negro de 1.072.000 euros de la reforma de Génova, la cuota defraudada finalmente fijada en 374.096,826 euros, multas e indemnizaciones y el patrimonio oculto en Suiza. Por ese motivo no se ha fijado un valor único en `coste`.
+
+- **Estado.** Las piezas con condena (Gürtel y reforma de Génova) son firmes; la pieza sobre las donaciones a cambio de adjudicaciones quedó archivada sin condena. No consta que el Tribunal Constitucional haya revisado estas resoluciones; tampoco se ha localizado la sentencia de la operación Kitchen.
+
+- **Identificadores de sentencia.** Los números consignados se han verificado en fuentes judiciales y en el propio texto de las resoluciones: SAN 20/2018 (17-05-2018) y STS 507/2020 (14-10-2020) en el caso Gürtel, y SAN 21/2021 (28-10-2021, causa 6/2015) en la pieza de los papeles. La sentencia de casación sobre esta última es la STS 1033/2024, de 14 de noviembre (rec. 1595/2022, ECLI:ES:TS:2024:5577); su contenido se difundió el 15 de noviembre de 2024. La SAN 21/2021 tiene ROJ SAN 4424/2021 y ECLI:ES:AN:2021:4424.
+
+- **Credibilidad de los testigos de la caja B.** La SAN 20/2018 puso en cuestión la credibilidad de los testigos del PP que negaban la existencia de la caja B (entre ellos Mariano Rajoy). La STS 507/2020 no asumió esa valoración ni la incluyó entre sus razonamientos: se limitó a declarar que no cabe afirmar que el PP delinquiera —al no haber sido enjuiciado por responsabilidad penal— y que las menciones a la caja B de la sentencia de instancia servían como contexto de los hechos enjuiciados.
+
+- **Documentos.** Se han descargado y verificado las resoluciones judiciales primarias: SAN 20/2018 (1687 páginas), STS 507/2020 (1844 páginas), SAN 21/2021 (454 páginas) y STS 1033/2024 (75 páginas). Sus enlaces figuran en el bloque `documentos`. La SAN 20/2018 y la STS 1033/2024 proceden de repositorios oficiales (Poder Judicial/CENDOJ); la STS 507/2020 y la SAN 21/2021 se han consultado en copias íntegras publicadas por medios (Mediaset y DocDroid), a falta de un enlace oficial directo localizado en CENDOJ para la SAN 21/2021. El enlace de la SAN 21/2021 apunta al PDF de la copia alojada en DocDroid, no a su visor HTML.
