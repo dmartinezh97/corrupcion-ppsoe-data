@@ -46,7 +46,7 @@ cronologia:
       - "https://elpais.com/ccaa/2013/07/27/valencia/1374946495_893592.html"
       - "https://www.levante-emv.com/comarcas/2013/09/17/alcalde-paterna-imputado-adjudicacion-auditorio-12860945.html"
 
-  - fecha: "2013-09-17"
+  - fecha: "2013-09-18"
     titulo: "El País informa de la imputación de Agustí por prevaricación"
     descripcion: "El País publica que el Juzgado de Primera Instancia e Instrucción número 1 de Paterna ha imputado mediante auto al alcalde Lorenzo Agustí, a raíz de las diligencias remitidas por la Fiscalía que respondían a la denuncia de Sagredo, y que el alcalde ha sido citado para declarar como imputado el 11 de diciembre. La imputación la acordó el juzgado por auto, no la Fiscalía, que se limitó a remitir las diligencias. Sobre la fecha: la noticia figura en la URL y en el índice de hemeroteca de El País con fecha 17-09-2013, pero la marca real de publicación en la web es el 18-09-2013 a las 00:39 (CEST). No consta el día exacto del auto de imputación, por lo que el hito se presenta como fecha de publicación."
     type: "imputación"
@@ -118,7 +118,7 @@ Ficha contrastada con fuentes hemerográficas (El País, incluida su crónica de
 ### Incertidumbres y límites
 
 - **Día exacto de los hechos de 2008-2009.** El concurso de ideas (abril de 2008), el encargo verbal (diciembre de 2008), el decreto (enero de 2009) y el contrato (marzo de 2009) constan solo con precisión de mes. No se asignan días concretos.
-- **Día exacto del auto de imputación.** El País informó de que el Juzgado nº 1 de Paterna había imputado a Agustí mediante auto y lo había citado para el 11-12-2013; no consta la fecha exacta del auto. La noticia aparece en la URL y en la hemeroteca de El País con fecha 17-09-2013, pero su publicación real en la web es el 18-09-2013 a las 00:39 (CEST). El hito de `cronologia` se presenta, por ello, como fecha de publicación (17-09-2013).
+- **Día exacto del auto de imputación.** El País informó de que el Juzgado nº 1 de Paterna había imputado a Agustí mediante auto y lo había citado para el 11-12-2013; no consta la fecha exacta del auto. La noticia aparece en la URL y en la hemeroteca de El País con fecha 17-09-2013, pero su publicación real en la web es el 18-09-2013 a las 00:39 (CEST). El hito de `cronologia` se presenta, por ello, como fecha de publicación mostrada en la página (18-09-2013).
 - **Cifra de la contratación.** La sentencia fija 529.506,19 euros (IVA incluido); El País (27-07-2013) menciona 456.470 euros y otras crónicas 456.000 euros. Se mantiene la cifra sentencial y se deja constancia de la discrepancia.
 - **Firmeza.** No se ha localizado el texto de la sentencia de apelación ni su fecha de notificación a las partes. La afirmación de que no cabía recurso procede de Europa Press y de la nota del PSPV recogida por los medios. No se ha localizado noticia de un recurso de casación posterior.
 - **Reseña administrativa previa.** El País (27-07-2013) recoge que la adjudicación directa fue anulada en junio de 2012 por un juzgado de lo contencioso-administrativo tras un recurso de la Delegación del Gobierno (octubre de 2010). Es un antecedente administrativo, no una condena penal, y no se incorpora como hito de la cronología penal.
