@@ -85,4 +85,21 @@ cronologia:
     urls:
       - "https://www.publico.es/politica/exclusiva-fiscal-pide-18-anos-prision-serna-aristegui-sobornar-altos-funcionarios-argelia.html"
       - "https://www.eldiario.es/politica/exdiputados-pp-serna-aristegui-enfrentan-condena-21-anos-cohecho-organizacion-criminal_1_12640156.html"
+
+  - fecha: 2025-09-26
+    titulo: "El juez Pedraz abre juicio oral contra 23 acusados y 5 empresas"
+    descripcion: "El magistrado de la Audiencia Nacional Santiago Pedraz dicta auto de apertura de juicio oral contra los exdiputados Pedro Gómez de la Serna y Gustavo de Arístegui y otras 21 personas (entre ellas el hijo de Arístegui y directivos de Elecnor) más cinco mercantiles, tras casi diez años de instrucción. Se les imputa corrupción en las transacciones comerciales internacionales, cohecho pasivo, falsedad documental y organización criminal. La Fiscalía Anticorrupción reclama 18 años de prisión para cada exdiputado (21 años según el escrito de acusación previo) y 21 años para dos directivos de Elecnor por cohecho activo; también pide el decomiso de 2,64 millones de euros a las sociedades Scardovi y Karistia. El caso estalló en 2015 tras una denuncia del comercial José Faya."
+    type: "juicio"
+    relevancia: "alta"
+    urls:
+      - "https://www.publico.es/politica/exclusiva-fiscal-pide-18-anos-prision-serna-aristegui-sobornar-altos-funcionarios-argelia.html"
+      - "https://cadenaser.com/nacional/2025/09/26/el-juez-envia-al-banquillo-a-los-exdiputados-del-pp-aristegui-y-de-la-serna-por-la-trama-de-sobornos-para-adjudicaciones-en-argelia-cadena-ser/"
+
+  - fecha: 2025-11-25
+    titulo: "Absuelto por segunda vez el comercial que destapó el caso"
+    descripcion: "El Juzgado de lo Penal nº 16 de Madrid absuelve por segunda vez a José Faya López, el agente comercial que denunció el caso ante la Fiscalía Anticorrupción, de un delito de revelación de secretos del que le acusaba Gómez de la Serna. La sentencia concluye que la entrega de documentación a la Fiscalía no constituye delito y que Faya accedió a los documentos en el ejercicio de su actividad profesional."
+    type: "sentencia"
+    relevancia: "media"
+    urls:
+      - "https://www.publico.es/politica/absuelto-segunda-vez-comercial-denuncio-fiscal-exdiputados-pp-serna-aristegui.html"
 ---
