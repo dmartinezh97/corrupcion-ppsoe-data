@@ -11,7 +11,7 @@ descripcion: |
 
   La trama operaba mediante un sistema de blanqueo de capitales en el que concejales, asesores y personal administrativo del grupo popular transferían 1.000 euros por vía bancaria que luego recuperaban en dinero negro. Parte del dinero así obtenido habría servido para financiar al Partido Popular. Además, se contrataron trabajadores "zombis" en empresas públicas valencianas que cobraban pero no acudían a su lugar de trabajo, en consideración a su relación con el PP, para prestar favores políticos o por amistad. La figura clave fue Marcos Benavent, gerente de Imelsa, quien grabó clandestinamente conversaciones durante años que aportó a la Fiscalía Anticorrupción, convirtiéndose en colaborador de la justicia.
 
-  El caso ha tenido un enorme impacto político en la Comunidad Valenciana, provocando el fin de la carrera política de Rita Barberá y la condena de Alfonso Rus, expresidente de la Diputación de Valencia, entre otros altos cargos del PP valenciano. Las primeras sentencias condenatorias se emitieron en 2023, con penas de hasta 9 años de prisión para algunos implicados. La investigación abarca contratos desde el año 2003 y cuenta con más de 115 investigados, siendo una de las mayores causas de corrupción del PP valenciano.
+  El caso ha tenido un enorme impacto político en la Comunidad Valenciana, provocando el fin de la carrera política de Rita Barberá y la condena de Alfonso Rus, expresidente de la Diputación de Valencia, entre otros altos cargos del PP valenciano. Las primeras sentencias condenatorias se emitieron en 2023, con penas de hasta 9 años de prisión para algunos implicados. La investigación abarca contratos desde el año 2003 y cuenta con más de 115 investigados, siendo una de las mayores causas de corrupción del PP valenciano. En 2026 el Tribunal Supremo confirmó casi íntegramente la primera sentencia (pieza Thematica Events), lo que llevó a Marcos Benavent a ingresar en prisión en julio, mientras la Audiencia de Valencia absolvía a los cinco acusados de la pieza E (contratos de Cultura) por falta de pruebas y prescripción, en un fallo recurrible.
 
 resumen: "Trama de sobornos y blanqueo en empresas públicas valencianas del PP"
 lugar: "Valencia, Comunidad Valenciana"
@@ -27,7 +27,7 @@ implicados:
 
   - nombre: "Marcos Benavent"
     cargo: "Exgerente de Imelsa"
-    rol: "Condenado a 7 años y 10 meses por prevaricación, malversación, falsedad y blanqueo"
+    rol: "Condenado a 7 años y 10 meses; ingresó en prisión en julio de 2026 tras confirmarlo el Supremo"
 
   - nombre: "Máximo Caturla"
     cargo: "Exvicepresidente de la Diputación de Valencia"
@@ -140,4 +140,44 @@ cronologia:
       - "https://www.eldiario.es/comunitat-valenciana/sentencia-condena-rus-yonqui-dinero-taula-acredita-contrataron-zombis-beneficio-pp_1_10694563.html"
       - "https://valenciaplaza.com/valenciaplaza/alfonso-rus-condenado-cinco-anos-carcel-zombies-imelsa"
       - "https://www.eldiario.es/comunitat-valenciana/alfonso-rus-condenado-cinco-anos-prision-contratar-trabajadores-zombies-fondos-publicos_1_10694397.html"
+
+  - fecha: 2025-06-01
+    titulo: "Caturla pacta 11 meses de prisión por ocultar su patrimonio"
+    descripcion: "Máximo Caturla alcanza un pacto de conformidad con la Fiscalía y es condenado a 11 meses de prisión, en suspenso, por un delito de insolvencia punible en grado de tentativa al haber derivado su patrimonio inmobiliario a una empresa familiar para sustraerlo a las responsabilidades civiles del caso Taula."
+    type: "sentencia"
+    urls:
+      - "https://www.eldiario.es/comunitat-valenciana/alto-cargo-camps-condenado-caso-taula-asume-condena-11-meses-prision-alzamiento-bienes_1_12370836.html"
+
+  - fecha: 2025-07-16
+    titulo: "Quinta sentencia condenatoria: contratos de Requena y Enguera"
+    descripcion: "La Audiencia Provincial de Valencia dicta la quinta sentencia condenatoria del caso Taula en la pieza K, sobre contratos de los ayuntamientos de Requena y Enguera. Alfonso Rus y Marcos Benavent vuelven a ser condenados a cinco años de prisión cada uno, mientras el funcionario de la Diputación Ricardo de Ángel y el empresario Mariano López Sancho reciben tres años."
+    type: "sentencia"
+    urls:
+      - "https://www.elespanol.com/valencia/20250716/audiencia-valencia-dicta-quinta-sentencia-condenas-caso-taula-contratos-requena-enguera/1003743849527_0.html"
+
+  - fecha: 2026-06-23
+    titulo: "Absueltos los cinco acusados de la pieza E (contratos de Cultura)"
+    descripcion: "La Sección Quinta de la Audiencia de Valencia absuelve a Marcos Benavent, al exgerente de la Fundación Jaume II El Just Vicente Burgos y a los empresarios Enrique Aleixandre, Carlos Turró y Carlos Vicent de los delitos de prevaricación, cohecho y malversación por los contratos de la Concejalía de Cultura. La sentencia, de 79 páginas y recurrible ante el Supremo, no aprecia pruebas del amaño ni de las mordidas y considera prescrita la malversación."
+    type: "sentencia"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/Absueltos-los-cinco-acusados-de-la-pieza-E-del--caso-Taula--por-supuestas-irregularidades-en-contratos-de-la-Concejalia-de-Cultura-del-Ayuntamiento-de-Valencia"
+      - "https://www.europapress.es/videos/video-audiencia-absuelve-yonki-dinero-otros-cuatro-acusados-pieza-imelsa-20260623131415.html"
+
+  - fecha: 2026-06-26
+    titulo: "El Supremo confirma casi íntegra la primera sentencia del caso Taula"
+    descripcion: "El Tribunal Supremo ratifica las condenas de la primera pieza del caso Taula (Thematica Events): 7 años y 10 meses para Marcos Benavent, 9 años y 2 meses para Rafael García Barat y 5 años y medio para Francisca Tamarit, entre otras. Solo rebaja de 10 a 8 meses la pena de uno de los empresarios. La sentencia hace firme la condena de Benavent."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.levante-emv.com/comunitat-valenciana/2026/06/26/el-supremo-ratifica-casi-integra-la-primera-sentencia-del-caso-taula-que-condeno-a-7-anos-de-carcel-al-yonqui-del-dinero-131853572.html"
+      - "https://www.elespanol.com/valencia/20260626/supremo-ratifica-anos-carcel-yonki-dinero-primera-sentencia-caso-taula/1003744301489_0.html"
+
+  - fecha: 2026-07-27
+    titulo: "Marcos Benavent ingresa en la cárcel de Picassent"
+    descripcion: "El exgerente de Imelsa Marcos Benavent ingresa voluntariamente en el centro penitenciario de Picassent (Valencia) para cumplir casi ocho años por la pieza Thematica, después de que el Supremo confirmara la sentencia y se le comunicara su firmeza el 10 de julio. Doce años después del inicio de la investigación de la macrocausa, el 'yonki del dinero' entra en prisión."
+    type: "detención"
+    relevancia: "alta"
+    urls:
+      - "https://www.abc.es/espana/comunidad-valenciana/yonki-dinero-entra-prision-cumplir-primera-condena-20260729143940-nt.html"
+      - "https://www.lasprovincias.es/politica/marcos-benavent-yonki-dinero-ingresa-carcel-picassent-20260729102157-nt.html"
 ---

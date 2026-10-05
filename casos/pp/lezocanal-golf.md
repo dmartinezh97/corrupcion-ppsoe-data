@@ -11,7 +11,7 @@ descripcion: |
 
   La Fiscalía Anticorrupción acusa a González y De Miguel de haber acordado con Dragados (filial de ACS) que el Canal de Isabel II les adjudicaría directamente el proyecto modificado a condición de que subcontrataran a TCT, empresa ligada a la familia del expresidente. El perjuicio estimado para las arcas públicas por la adjudicación sobrevalorada y el cobro de comisiones ilegales asciende a varios millones de euros.
 
-  El Juzgado Central de Instrucción nº 6 procesó a los cinco acusados en 2023. La Audiencia Nacional tiene programado el juicio oral para septiembre de 2027, 23 años después de producirse los hechos investigados.
+  El Juzgado Central de Instrucción nº 6 procesó a los cinco acusados en 2023. La Audiencia Nacional tiene programado el juicio oral para el 13 de octubre de 2026, más de dos décadas después de producirse los hechos investigados y tras haber sido inicialmente fijado para septiembre de 2027.
 
 resumen: "Modificación irregular del contrato de construcción del campo de golf del Canal de Isabel II para beneficiar al hermano y cuñado de Ignacio González mediante subcontratación directa a la empresa TCT"
 coste: 5000000
@@ -94,12 +94,12 @@ cronologia:
     urls:
       - "https://publico.es/politica/caso-lezo-anticorrupcion-pide-seis-anos-carcel-ignacio-gonzalez-adjudicaciones-asociadas-campo-golf-canal.html"
 
-  - fecha: 2027-09-13
-    titulo: "Juicio oral programado para septiembre de 2027"
-    descripcion: "La Audiencia Nacional fija el juicio oral sobre la pieza del Canal Golf para celebrarse entre el 13 y el 30 de septiembre de 2027, 23 años después de producirse los hechos investigados. La tardanza ilustra la sobrecarga de la Audiencia Nacional con casos de gran corrupción."
+  - fecha: 2026-10-13
+    titulo: "Juicio oral programado para el 13 de octubre de 2026"
+    descripcion: "La Audiencia Nacional fija el juicio oral sobre la pieza del Canal Golf para el 13 de octubre de 2026, más de dos décadas después de producirse los hechos. Ignacio González se enfrenta a una petición de seis años de cárcel de la Fiscalía por el amaño de la contratación de la empresa de su hermano y su cuñado (TCT), que obtuvo 504.780 euros. El calendario inicial que situaba la vista en septiembre de 2027 fue adelantado."
     type: "juicio"
     relevancia: "alta"
     urls:
-      - "https://www.elcorreogallego.es/espana/2025/12/22/retrasos-audiencia-nacional-afectan-causas-pp-ignacio-gonzalez-juicio-septiembre-2027-125068557.html"
-      - "https://www.elplural.com/sociedad/tribunales/juicio-ignacio-gonzalez-marco-operacion-lezo-ultimo-reflejo-doble-velocidad-justicia_368226102"
+      - "https://www.infobae.com/espana/agencias/2026/09/06/arranca-el-primer-juicio-del-caso-lezo-sobre-el-canal-de-isabel-ii-diez-anos-despues"
+      - "https://www.elplural.com/sociedad/tribunales/empieza-juicio-caso-lezo-diez-anos-despues-radiografia-no-perderte_399567102"
 ---

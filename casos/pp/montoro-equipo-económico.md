@@ -11,7 +11,7 @@ descripcion: |
 
   Según el auto del juez instructor Rubén Rus Vela, el bufete Equipo Económico habría facturado un total acumulado de 35,5 millones de euros durante el periodo investigado, y un informe específico de la Agencia Tributaria de febrero de 2026 documenta cómo cobró cerca de un millón de euros por gestionar dos reformas fiscales hechas a medida desde el Ministerio que dirigía Montoro. Los delitos atribuidos abarcan cohecho, fraude contra la administración pública, prevaricación, tráfico de influencias, negociaciones prohibidas a funcionarios, corrupción en los negocios y falsedad documental. La causa tuvo un origen "casual": el juez Rus descubrió en 2018, al investigar otro procedimiento, una serie de correos electrónicos que apuntaban a un nuevo delito y que le llevaron a abrir una pieza separada que se mantuvo bajo secreto durante siete años antes de hacerse pública en julio de 2025.
 
-  En abril de 2026, el juez Rus rechazó la inhibición a los juzgados de Madrid solicitada por las defensas y reafirmó su competencia territorial. Asimismo, autorizó a los Mossos d'Esquadra a investigar todos los movimientos bancarios de los 28 acusados durante los últimos veinte años por presunto blanqueo de capitales. Las primeras declaraciones como investigados se programaron entre finales de abril y mayo de 2026, comenzando con directivos de las empresas gasistas que habrían contratado los servicios de Equipo Económico. Cristóbal Montoro aún no ha sido citado a declarar como investigado a fecha de cierre de instrucción, aunque sus cuentas bancarias y las de su familia están siendo analizadas. El caso se considera distinto y mucho mayor que la causa por la adjudicación irregular de un contrato de 91.000 euros a Equipo Económico de 2012, ya documentada en la causa "Despacho Montoro".
+  En abril de 2026, el juez Rus rechazó la inhibición a los juzgados de Madrid solicitada por las defensas y reafirmó su competencia territorial, aunque Equipo Económico recurrió ante la Audiencia Provincial de Tarragona, que a mediados de 2026 sigue estudiando si asume la causa o la remite a Madrid. Asimismo, autorizó a los Mossos d'Esquadra a investigar todos los movimientos bancarios de los 28 acusados durante los últimos veinte años por presunto blanqueo de capitales. Las primeras declaraciones como investigados se celebraron entre finales de abril y mayo de 2026, comenzando con directivos de las empresas gasistas que habrían contratado los servicios de Equipo Económico. Cristóbal Montoro aún no ha sido citado a declarar como investigado, aunque sus cuentas bancarias y las de su familia están siendo analizadas. El caso se considera distinto y mucho mayor que la causa por la adjudicación irregular de un contrato de 91.000 euros a Equipo Económico de 2012, ya documentada en la causa "Despacho Montoro".
 resumen: "El exministro de Hacienda Cristóbal Montoro y 27 imputados más por presuntos favores fiscales a empresas (gas, energía, juego) a cambio de pagos al despacho Equipo Económico"
 coste: 35500000
 lugar: "Tarragona / Madrid, España"
@@ -143,4 +143,28 @@ cronologia:
     relevancia: "alta"
     urls:
       - "https://www.infobae.com/espana/2026/04/28/el-caso-montoro-se-activa-con-las-primeras-declaraciones-de-investigados-entre-los-que-todavia-no-figura-el-exministro/"
+
+  - fecha: "2026-05-12"
+    titulo: "Concluye la primera ronda de declaraciones de investigados"
+    descripcion: "Finaliza el primer bloque de comparecencias de investigados en el Juzgado de Instrucción nº 2 de Tarragona, con los directivos de las empresas gasistas y energéticas que habrían pagado a Equipo Económico (Messer Ibérica y otras compañías) declarando entre el 30 de abril y el 12 de mayo. Ni Cristóbal Montoro ni los exaltos cargos de Hacienda han declarado todavía."
+    type: "declaración"
+    relevancia: "media"
+    urls:
+      - "https://www.infobae.com/espana/2026/04/28/el-caso-montoro-se-activa-con-las-primeras-declaraciones-de-investigados-entre-los-que-todavia-no-figura-el-exministro/"
+
+  - fecha: "2026-06-08"
+    titulo: "La Audiencia de Tarragona, a punto de decidir si conserva el caso"
+    descripcion: "La Audiencia Provincial de Tarragona emplaza a las partes para que se pronuncien sobre la cuestión de competencia planteada por Equipo Económico, que reclama que la causa se remita a Madrid. La Fiscalía Anticorrupción defiende que el caso continúe en Tarragona. La decisión del tribunal, que designa ponente a la presidenta de la Sección Segunda, Susana Calvo, es clave para el futuro de la instrucción."
+    type: "investigación"
+    relevancia: "media"
+    urls:
+      - "https://www.infolibre.es/politica/audiencia-tarragona-prepara-resolver-asuntos-clave-caso-montoro_1_2203057.html"
+
+  - fecha: "2026-07-27"
+    titulo: "El juez prorroga seis meses más la instrucción"
+    descripcion: "El juez Rubén Rus acuerda prorrogar seis meses la investigación del caso Montoro al considerar que aún faltan declaraciones de investigados e informes por incorporar. En el auto insiste en la existencia de 'una presunta trama en torno a Equipo Económico' que, mediando precio, moldeaba reformas legales (como la normativa del Impuesto Eléctrico) a las necesidades de sus clientes, y señala que fueron las gasísticas quienes acabaron redactando las reformas conforme a sus intereses. La prórroga aleja el final de la instrucción."
+    type: "investigación"
+    relevancia: "media"
+    urls:
+      - "https://www.europapress.es/nacional/noticia-juez-caso-montoro-acuerda-prorrogar-seis-meses-mas-instruccion-20260727194808.html"
 ---

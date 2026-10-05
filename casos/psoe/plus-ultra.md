@@ -11,7 +11,7 @@ descripcion: |
 
   La investigación abarca dos fases. La primera, abierta a raíz de denuncias de Vox y de Hazte Oír / Iustitia Europa en 2021-2022, se centró en presuntos delitos de prevaricación y malversación en la concesión del rescate y fue archivada y reabierta parcialmente en distintos momentos. La segunda fase, decisiva, se reactivó en 2024 y, sobre todo, en 2025 cuando la Fiscalía Anticorrupción presentó una nueva denuncia tras recibir solicitudes de cooperación judicial internacional procedentes de Francia y Suiza apuntando a una presunta red de blanqueo de capitales con origen en fondos venezolanos. La causa investiga ahora si parte de los 53 millones del rescate público sirvió para canalizar fondos de origen ilícito, incluidos recursos vinculados a la malversación cometida por funcionarios públicos venezolanos del programa CLAP y a ventas irregulares de oro del Banco Central de Venezuela.
 
-  El 11 de diciembre de 2025, la UDEF de la Policía Nacional registró la sede de Plus Ultra en Madrid en el marco del operativo coordinado por el Juzgado Central de Instrucción nº 4 de la Audiencia Nacional, y detuvo al presidente y principal accionista de la aerolínea Julio Martínez Sola y al consejero delegado Roberto Roselli. El juez Luis Calama acordó la libertad provisional de los detenidos con retirada de pasaporte, prohibición de salida y comparecencias semanales. La instrucción ha sido prorrogada en abril de 2026 con el secreto del sumario ampliado un mes más, y se ha sumado al juzgado del caso Koldo en la Audiencia Nacional un segundo magistrado de refuerzo dada la saturación. La causa se considera vinculada a la órbita de exministros y altos cargos del Gobierno y la sombra del expresidente José Luis Rodríguez Zapatero —que medió ante el Gobierno de Maduro— planea sobre la investigación.
+  El 11 de diciembre de 2025, la UDEF de la Policía Nacional registró la sede de Plus Ultra en Madrid en el marco del operativo coordinado por el Juzgado Central de Instrucción nº 4 de la Audiencia Nacional, y detuvo al presidente y principal accionista de la aerolínea Julio Martínez Sola y al consejero delegado Roberto Roselli. El juez Luis Calama acordó la libertad provisional de los detenidos con retirada de pasaporte, prohibición de salida y comparecencias semanales. El 19 de mayo de 2026 el juez imputó al expresidente del Gobierno José Luis Rodríguez Zapatero por tráfico de influencias, organización criminal, blanqueo y falsedad, al considerar que lideró «una red organizada de ejercicio ilícito de influencias»; Zapatero declaró como investigado el 17 de junio, sin que el juez apreciara riesgo de fuga y rechazando las medidas cautelares. En junio el magistrado dedujo testimonio para investigar las filtraciones del sumario, y el 24 de julio rechazó por extemporáneo el incidente de nulidad presentado por la defensa de Zapatero. La instrucción, aún bajo secreto, se sigue en el juzgado del caso Koldo con un segundo magistrado de refuerzo dada la saturación.
 resumen: "Investigación del rescate de 53 millones de euros a la aerolínea Plus Ultra durante la pandemia y presunto blanqueo de capitales con origen en Venezuela"
 coste: 53000000
 lugar: "Madrid, España / Venezuela / Aruba / Suiza / Francia"
@@ -21,6 +21,10 @@ tribunal:
   - "Fiscalía Anticorrupción"
 numeroSentencia: ""
 implicados:
+  - nombre: "José Luis Rodríguez Zapatero"
+    cargo: "Expresidente del Gobierno de España (2004-2011)"
+    rol: "Imputado por tráfico de influencias, organización criminal, blanqueo y falsedad; declaró como investigado en junio de 2026"
+
   - nombre: "Julio Martínez Sola"
     cargo: "Presidente y principal accionista de Plus Ultra Líneas Aéreas"
     rol: "Detenido en diciembre de 2025 por presunto blanqueo de capitales; libertad provisional con retirada de pasaporte"
@@ -152,4 +156,37 @@ cronologia:
     relevancia: "media"
     urls:
       - "https://www.nuevaradio.org/2026/04/29/el-empresario-vinculado-al-blanqueo-de-plus-ultra-en-aruba-obtiene-la-libertad-por-decision-judicial/"
+
+  - fecha: "2026-05-19"
+    titulo: "El juez imputa a Zapatero por tráfico de influencias y organización criminal"
+    descripcion: "El magistrado José Luis Calama imputa al expresidente del Gobierno José Luis Rodríguez Zapatero por presuntos delitos de tráfico de influencias, organización criminal, blanqueo de capitales y falsedad documental. El auto sitúa a Zapatero al frente de 'una trama organizada de ejercicio ilícito de influencias' que, mediante la vía predominante sobre la de Ábalos, habría permitido a Plus Ultra obtener el rescate de 53 millones de la SEPI, apuntando al Consejo de Ministros y a la SEPI."
+    type: "imputación"
+    relevancia: "alta"
+    urls:
+      - "https://okdiario.com/espana/juez-apunta-consejo-ministros-sepi-rescate-plus-ultra-gracias-zapatero-16828921"
+
+  - fecha: "2026-06-17"
+    titulo: "Zapatero declara como investigado y el juez rechaza imponerle cautelares"
+    descripcion: "El expresidente José Luis Rodríguez Zapatero declara como investigado ante el juez Calama. Pese a que la Fiscalía y las acusaciones populares solicitan comparecencias quincenales, retirada de pasaporte y prohibición de salida (y, subsidiariamente, prisión provisional), el magistrado rechaza las medidas cautelares al considerar que su notoriedad pública y arraigo excluyen un riesgo de fuga real, y que su declaración no ha desvirtuado los indicios de criminalidad."
+    type: "declaración"
+    relevancia: "alta"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/El-juez-de-la-Audiencia-Nacional-que-instruye-el-caso-Plus-Ultra-rechaza-imponer-medidas-cautelares-al-expresidente-Rodriguez-Zapatero"
+
+  - fecha: "2026-06-25"
+    titulo: "El juez investiga las filtraciones y Zapatero pide la nulidad del caso"
+    descripcion: "El juez Calama acuerda deducir testimonio a la Sección de Instrucción de Madrid para investigar las constantes filtraciones del sumario y forma una pieza de 'información sensible'. Ese mismo día, la defensa de Zapatero presenta un incidente de nulidad de actuaciones en el que pide la 'nulidad general' del caso y la exclusión de todas las evidencias obtenidas, alegando vulneración de derechos fundamentales."
+    type: "investigación"
+    relevancia: "media"
+    urls:
+      - "https://elpais.com/espana/2026-06-25/zapatero-pide-al-juez-que-declare-la-nulidad-del-caso-plus-ultra.html"
+
+  - fecha: "2026-07-24"
+    titulo: "El juez rechaza la nulidad solicitada por Zapatero por presentarla fuera de plazo"
+    descripcion: "El magistrado José Luis Calama rechaza el incidente de nulidad presentado por la defensa del expresidente Rodríguez Zapatero al considerarlo extemporáneo: el escrito se registró el 25 de junio, fuera del plazo legal de 20 días. El juez acuerda además citar a declarar a los directivos de Plus Ultra y rechaza suspender la inspección de la Agencia Tributaria al expresidente, su mujer e hijas."
+    type: "recurso"
+    relevancia: "media"
+    urls:
+      - "https://www.elmundo.es/espana/2026/07/24/6a6338d6e4d4d8466c8b4583.html"
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa"
 ---

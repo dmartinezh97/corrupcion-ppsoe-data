@@ -13,7 +13,7 @@ descripcion: |
 
   El dinero se canalizaba a través de Fundescam, que recibía grandes sumas de empresarios investigados en los casos Gürtel y Púnica. La fundación sufragó con fondos públicos —subvenciones destinadas a estudiar los efectos de la crisis en el empleo— gastos de campaña, cenas de Navidad, encuestas de intención de voto y actos del partido y de sus Nuevas Generaciones. Granados y Marjaliza tenían además 19 cuentas bancarias millonarias en Suiza y otros fondos en Singapur, con un patrimonio oculto de al menos 33,5 millones de euros blanqueado a través de un complejo entramado societario con testaferros en varios países.
 
-  Tres presidentes autonómicos —Esperanza Aguirre, Ignacio González y Cristina Cifuentes— fueron investigados en esta pieza y finalmente quedaron fuera de la causa. En abril de 2024, la Audiencia Nacional abrió juicio oral contra ocho acusados, entre ellos Granados y Beltrán Gutiérrez, por delito electoral y, en el caso de Granados, también por prevaricación, tráfico de influencias y malversación. La Fiscalía Anticorrupción solicita para Granados 7 años y 10 meses de prisión y una multa de 284.000 euros. El juicio oral está pendiente de celebración a fecha de redacción de este expediente.
+  Tres presidentes autonómicos —Esperanza Aguirre, Ignacio González y Cristina Cifuentes— fueron investigados en esta pieza y finalmente quedaron fuera de la causa. En abril de 2024, la Audiencia Nacional abrió juicio oral contra ocho acusados, entre ellos Granados y Beltrán Gutiérrez, por delito electoral y, en el caso de Granados, también por prevaricación, tráfico de influencias y malversación. La Fiscalía Anticorrupción solicita para Granados 7 años y 10 meses de prisión y una multa de 284.000 euros. A mediados de 2026 el juicio oral seguía sin fecha fijada, pese a que la instrucción concluyó en enero de 2022, mientras se sucedían las condenas en otras piezas del caso Púnica (Cofely, Waiter Music) y el juez enviaba a juicio la pieza de Arpegio y Mintra contra Granados, López Madrid y Marjaliza.
 
 resumen: "Financiación ilegal del PP de Madrid con caja B de 6,2 millones para campañas electorales de 2007 a 2011 a través de Fundescam y donaciones de empresarios a cambio de contratos públicos"
 coste: 6200000
@@ -28,9 +28,9 @@ implicados:
     cargo: "Secretario General del PP de Madrid (2004-2011), Consejero de Presidencia, Justicia e Interior de la Comunidad de Madrid, Senador del PP"
     rol: "Principal acusado por delito electoral, prevaricación, tráfico de influencias y malversación. La Fiscalía solicita 7 años y 10 meses de prisión. Presunto recolector de fondos ilegales para la caja B del PP de Madrid."
 
-  - nombre: "David Marjaliza Corrales"
+  - nombre: "David Marjaliza López"
     cargo: "Empresario constructor, socio oculto de Francisco Granados"
-    rol: "Considerado por la justicia como el principal conseguidor y corruptor de la trama. Condenado a 8 años y 2 meses de prisión por organización criminal, cohecho y blanqueo de capitales en la pieza de contratos municipales. Intermediario entre empresas interesadas en contratos públicos y cargos políticos del PP."
+    rol: "Considerado principal conseguidor de la trama; condenado en la pieza Cofely, con pena rebajada a 5 años en 2026"
 
   - nombre: "Beltrán Gutiérrez Molina"
     cargo: "Gerente del PP de la Comunidad de Madrid durante el mandato de Esperanza Aguirre"
@@ -142,4 +142,13 @@ cronologia:
       - "https://www.eldiario.es/politica/audiencia-nacional-lleva-juicio-mano-derecha-esperanza-aguirre-caja-b-pp-madrid_1_11260696.html"
       - "https://www.elindependiente.com/espana/2024/04/03/francisco-granados-se-enfrenta-a-una-peticion-de-7-anos-de-carcel-por-delito-electoral/"
       - "https://www.ultimahora.es/noticias/nacional/2024/04/03/2136945/audiencia-nacional-sienta-banquillo-mano-derecha-esperanza-aguirre-por-caja-del-madrid.html"
+
+  - fecha: "2026-05-26"
+    titulo: "Nueva pieza de Púnica a juicio: Arpegio y Mintra, con López Madrid y Marjaliza"
+    descripcion: "El juez Antonio Piña abre juicio oral contra Francisco Granados y otras 40 personas —entre ellas los empresarios Javier López Madrid (OHL) y David Marjaliza— por las irregularidades entre 2003 y 2011 en la empresa pública Arpegio y en Mintra. La Fiscalía Anticorrupción pide 42 años para Granados; la Comunidad de Madrid, personada como acusación particular, reclama 30. La instrucción de la pieza de financiación del PP (pieza 9) seguía cerrada y sin fecha de juicio."
+    type: "imputación"
+    relevancia: "alta"
+    urls:
+      - "https://www.elespanol.com/espana/tribunales/20260526/francisco-granados-lopez-madrid-juicio-supuesto-amano-contratos-publicos-caso-punica/1003744260569_0.html"
+      - "https://www.publico.es/politica/tribunales/granados-le-acumulan-juicios-envian-banquillo-cuarta-vez-plena-recta-final-pieza-punica.html"
 ---

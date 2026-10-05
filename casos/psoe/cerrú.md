@@ -4,14 +4,14 @@ partido: PSOE
 completado: true
 año: 2018
 fechaInicio: "2007-10-25"
-fechaFin: ""
-estado: "visto para sentencia"
+fechaFin: "2026-06-03"
+estado: "cerrado con condenas - pendiente de recurso"
 descripcion: |
   El Caso Cerrú tiene su origen en las irregularidades cometidas durante la construcción del nuevo estadio de fútbol municipal de Puertollano (Ciudad Real, Castilla-La Mancha), conocido popularmente como el "Cerrú". Entre 2007 y 2010, el Ayuntamiento de Puertollano, gobernado por el alcalde socialista Joaquín Carlos Hermoso Murillo, diseñó una operación urbanística para edificar el estadio "sin poner un duro" de las arcas públicas mediante un contrato de permuta de terrenos con las empresas constructoras Teconsa y Promociones Inmobiliarias del Pisuerga (PROINSA). El 25 de octubre de 2007, el Pleno del Ayuntamiento aprobó el contrato con los 15 votos del PSOE y la abstención de PP e IU, sin mediar concurso público ni los procedimientos de publicidad y concurrencia exigidos por la normativa de contratación administrativa.
 
   La operación consistía en ceder parcelas de aprovechamiento urbanístico en El Abulagar a las constructoras a cambio de que éstas asumieran la edificación del estadio, valorado en unos siete millones de euros. El estallido de la burbuja inmobiliaria en 2008 y las quiebras de Teconsa y PROINSA paralizaron parcialmente el proyecto y dejaron importantes deudas impagadas, aunque el estadio fue finalmente inaugurado en 2010 con ayuda de fondos del Plan E estatal. En 2013, la Sindicatura de Cuentas de Castilla-La Mancha publicó un informe que detectó severas irregularidades en las contrataciones del período de expansión urbanística, sentando las bases para la posterior investigación penal.
 
-  El 11 de julio de 2018, agentes de la UDEF de la Policía Nacional ejecutaron la "Operación Cerrú" con el registro de la Casa Consistorial durante más de doce horas, 19 registros en varias ciudades y 9 detenciones, entre ellas la del exalcalde Hermoso Murillo. Inicialmente se investigó a cerca de 20 personas por delitos de tráfico de influencias, cohecho, malversación, blanqueo de capitales y falsedad documental. Sin embargo, la Fiscalía Provincial de Ciudad Real desmontó en junio de 2023 la tesis de la "trama delictiva", solicitando el sobreseimiento para 15 de los investigados y reduciendo la acusación a un único delito de prevaricación administrativa contra el exalcalde y el exsecretario municipal accidental. El 5 de julio de 2024, el Juzgado de Instrucción nº 3 de Puertollano dictó auto de apertura de juicio oral únicamente para estos dos acusados, con la solicitud de 9 años de inhabilitación para cada uno.
+  El 11 de julio de 2018, agentes de la UDEF de la Policía Nacional ejecutaron la "Operación Cerrú" con el registro de la Casa Consistorial durante más de doce horas, 19 registros en varias ciudades y 9 detenciones, entre ellas la del exalcalde Hermoso Murillo. Inicialmente se investigó a cerca de 20 personas por delitos de tráfico de influencias, cohecho, malversación, blanqueo de capitales y falsedad documental. Sin embargo, la Fiscalía Provincial de Ciudad Real desmontó en junio de 2023 la tesis de la "trama delictiva", solicitando el sobreseimiento para 15 de los investigados y reduciendo la acusación a un único delito de prevaricación administrativa contra el exalcalde y el exsecretario municipal accidental. El 5 de julio de 2024, el Juzgado de Instrucción nº 3 de Puertollano dictó auto de apertura de juicio oral únicamente para estos dos acusados, con la solicitud de 9 años de inhabilitación para cada uno. El juicio se celebró a comienzos de 2026 y el 3 de junio el Juzgado de lo Penal nº 3 de Ciudad Real condenó a ambos a cinco años de inhabilitación especial por prevaricación administrativa, con la atenuante de dilaciones indebidas; la sentencia no es firme y es recurrible ante la Audiencia Provincial. Es la segunda condena por prevaricación de Hermoso Murillo, ya condenado a siete años de inhabilitación por la plaza de toros.
 
 resumen: "Irregularidades en la construcción del estadio municipal de Puertollano por adjudicación directa sin concurso público"
 coste: 0
@@ -127,4 +127,12 @@ cronologia:
     urls:
       - "https://www.eldiario.es/castilla-la-mancha/provincias/ciudad_real/exalcalde-puertollano-sienta-banquillo-defiende-legalidad-contrato-cerru_1_12966363.html"
       - "https://torrijostoday.com/castilla-la-mancha/ciudad-real/exalcalde-puertollano-defiende-legalidad-del-contrato-del-cerru-y-fiscalia-mantiene-acusacion-por-prevaricacion/"
+
+  - fecha: "2026-06-03"
+    titulo: "Condena por prevaricación: cinco años de inhabilitación para Hermoso y Vázquez"
+    descripcion: "El Juzgado de lo Penal nº 3 de Ciudad Real condena al exalcalde de Puertollano Joaquín Hermoso Murillo y al secretario municipal accidental Juan Luis Vázquez Calvo a cinco años de inhabilitación especial para empleo o cargo público por un delito de prevaricación administrativa en las obras del estadio Cerrú. La pena es inferior a los seis años que pedía la Fiscalía por apreciar la atenuante de dilaciones indebidas, al haberse prolongado el procedimiento cerca de nueve años. La sentencia no es firme y puede recurrirse ante la Audiencia Provincial de Ciudad Real."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.lacomarcadepuertollano.com/articulo/puertollano/segunda-condena-hermoso-murillo-exalcalde-puertollano-vez-caso-cerru/20260603094510639356.html"
 ---

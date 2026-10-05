@@ -11,7 +11,7 @@ descripcion: |
 
   Según los informes finales de la UCO de la Guardia Civil, los investigados utilizaron un complejo entramado para ocultar el cobro de la comisión: los fondos viajaron desde Madrid hasta México y terminaron depositados en una cuenta en Suiza, utilizando a tres empresarios como intermediarios para dificultar el rastreo. El informe de la UCO mantuvo estas conclusiones incluso después de que la defensa de González las cuestionara.
 
-  La Audiencia Nacional tiene programado el juicio oral sobre esta pieza para septiembre de 2027. Los acusados se enfrentan a cargos de cohecho, tráfico de influencias, falsificación de documentos mercantiles y fraude contra las administraciones públicas.
+  La Audiencia Nacional tiene programado el juicio oral sobre esta pieza para el 28 de junio de 2027. Los acusados se enfrentan a cargos de cohecho, tráfico de influencias, falsificación de documentos mercantiles y fraude contra las administraciones públicas.
 
 resumen: "Pago de 1,8 millones de euros en comisiones ilegales por OHL a Ignacio González y Javier López Madrid a cambio de adjudicarles el contrato del tren Móstoles-Navalcarnero"
 coste: 1800000
@@ -99,12 +99,12 @@ cronologia:
       - "https://www.publico.es/politica/juez-lezo-envia-juicio-ignacio-gonzalez-lopez-madrid-obras-tren-navalcarnero.html"
       - "https://www.infolibre.es/politica/juez-caso-lezo-envia-juicio-ignacio-gonzalez-lopez-madrid-obras-tren-navalcarnero_1_1198668.html"
 
-  - fecha: 2027-09-01
-    titulo: "Juicio oral pendiente: no antes de 2027"
-    descripcion: "Los retrasos acumulados en la Audiencia Nacional han aplazado el inicio del juicio oral sobre la pieza del tren de Navalcarnero. La fecha prevista para el juicio no es anterior a septiembre de 2027, lo que supondría 20 años desde la adjudicación del contrato."
+  - fecha: 2027-06-28
+    titulo: "Juicio oral fijado para el 28 de junio de 2027"
+    descripcion: "La Audiencia Nacional fija el juicio oral de la pieza del tren Móstoles-Navalcarnero para el 28 de junio de 2027, veinte años después de que OHL obtuviera la adjudicación del contrato. Los retrasos acumulados en el tribunal han ido aplazando la vista dentro de la macrocausa Lezo, cuyas primeras piezas empezaron a juzgarse en septiembre de 2026."
     type: "juicio"
     relevancia: "media"
     urls:
-      - "https://www.elcorreogallego.es/espana/2025/12/22/retrasos-audiencia-nacional-afectan-causas-pp-ignacio-gonzalez-juicio-septiembre-2027-125068557.html"
+      - "https://www.elplural.com/sociedad/tribunales/empieza-juicio-caso-lezo-diez-anos-despues-radiografia-no-perderte_399567102"
       - "https://www.vozpopuli.com/espana/uco-caso-lezo-tren-navalcarnero.html"
 ---

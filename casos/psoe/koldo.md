@@ -723,6 +723,14 @@ cronologia:
       - "https://descargables.elpais.com/sentencia-abalos-caso-mascarillas.pdf"
       - "https://www.rtve.es/noticias/20260622/sentencia-supremo-caso-mascarillas-abalos-koldo/17108722.shtml"
 
+  - fecha: "2026-06-25"
+    titulo: "Ábalos anuncia un recurso de amparo ante el Constitucional"
+    descripcion: "Desde la prisión de Soto del Real, José Luis Ábalos califica el proceso de 'juicio político' con una sentencia 'predeterminada' y anuncia que recurrirá en amparo ante el Tribunal Constitucional por vulneración de derechos fundamentales. Su defensa sostiene que el Supremo fundamentó la condena casi en exclusiva en el testimonio de Aldama, al que describe como un 'delator no arrepentido'. No consta la fecha exacta del anuncio: el 25 de junio de 2026 es la fecha de la publicación."
+    type: "recurso"
+    relevancia: "media"
+    urls:
+      - "https://www.infobae.com/espana/2026/06/25/abalos-se-asegura-victima-de-un-juicio-politico-y-senala-al-supremo-por-premiar-a-aldama-un-delator-sin-comprobaciones"
+
   - fecha: "2026-07-01"
     titulo: "Aldama afirma que no devolverá las comisiones (declaraciones publicadas el 1 de julio)"
     descripcion: "Según Infobae y eldiario.es (1 de julio de 2026), Víctor de Aldama afirma que no piensa devolver el dinero y sostiene que su cobro fue legal, amparándose en que la sentencia no le obliga a devolver los 3,7 millones que la Fiscalía reclamaba por el delito de aprovechamiento de información privilegiada, del que resultó absuelto. El decomiso acordado es de 430.298 euros."
@@ -730,6 +738,14 @@ cronologia:
     urls:
       - "https://www.infobae.com/espana/2026/07/01/victor-de-aldama-no-se-plantea-devolver-el-dinero-como-pide-anticorrupcion-es-un-cobro-legal-asi-lo-ha-dicho-el-supremo"
       - "https://www.eldiario.es/politica/aldama-no-tendra-devolver-comision-3-7-millones-mascarillas_1_13323097.html"
+
+  - fecha: "2026-07-22"
+    titulo: "El Supremo levanta las cautelares a Aldama y le devuelve el pasaporte"
+    descripcion: "La Sala de lo Penal del Tribunal Supremo acuerda, por providencia de 20 de julio difundida el 22 de julio de 2026, levantar las medidas cautelares que pesaban sobre Víctor de Aldama —retirada del pasaporte, prohibición de salir de España y comparecencias quincenales— al ser firme la sentencia y quedar suspendida su pena. El comisionista recupera así su pasaporte para poder viajar."
+    type: "recurso"
+    relevancia: "baja"
+    urls:
+      - "https://www.ondacero.es/noticias/espana/supremo-levanta-cautelares-aldama-devuelve-pasaporte-sentencia-caso-mascarillas_202607226a60b6fb4687a22bdec78bea.html"
 
   - fecha: "2026-07-30"
     titulo: "La Fiscalía Europea se interesa por contratos de la pieza de obra pública (noticia del 30 de julio)"

@@ -222,4 +222,12 @@ cronologia:
     urls:
       - "https://www.infobae.com/espana/agencias/2026/03/05/nueva-condena-en-los-ere-al-exdirector-de-trabajo-daniel-alberto-rivera-por-ayuda-a-autologistica/"
       - "https://www.eldebate.com/espana/andalucia/20260305/tres-anos-carcel-ex-director-trabajo-junta-psoe-pieza-separada-ere_392470.html"
+
+  - fecha: "2026-05-14"
+    titulo: "Nueva condena de Rivera: tres años por la ayuda a Consyproan"
+    descripcion: "La Sección Tercera de la Audiencia Provincial de Sevilla condena al exdirector general de Trabajo Daniel Alberto Rivera a tres años y un día de cárcel y seis años y un día de inhabilitación absoluta por la ayuda de 262.500 euros concedida a la empresa Consyproan S.L., en una nueva pieza separada del caso ERE. El administrador único de la empresa es condenado a 22 meses como cooperador necesario, con la atenuante de reparación del daño, tras reconocer los hechos."
+    type: "sentencia"
+    relevancia: "media"
+    urls:
+      - "https://www.ondacero.es/emisoras/andalucia/sevilla/noticias/tres-anos-carcel-director-trabajo-daniel-rivera-ayuda-ere-consyproan_202605186a0b09f0dd62c3164d2e3fdc.html"
 ---

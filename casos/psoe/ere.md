@@ -213,4 +213,13 @@ cronologia:
       - "https://www.poderjudicial.es/cgpj/en/Judiciary/High-Courts-of-Justice/HCJ-Andalusia--Ceuta-and-Melilla/HCJ-Judicial-News-Andalusia--Ceuta-and-Melilla/La-Audiencia-de-Sevilla-acuerda-plantear-una-cuestion-prejudicial-ante-el-TJUE-tras-las-sentencias-del-Tribunal-Constitucional-sobre-el-caso-ERE"
       - "https://es.euronews.com/2025/07/15/la-audiencia-de-sevilla-lleva-al-tjue-el-fallo-del-constitucional-sobre-los-ere"
       - "https://confilegal.com/20250715-la-audiencia-provincial-de-sevilla-cuestiona-la-doctrina-del-tribunal-constitucional-y-eleva-el-caso-ere-al-tjue/"
+
+  - fecha: "2026-04-20"
+    titulo: "Bruselas pide al TJUE declararse incompetente en el caso ERE"
+    descripcion: "La Comisión Europea solicita al TJUE la inadmisión de la cuestión prejudicial de la Audiencia de Sevilla al considerarlo 'manifiestamente incompetente': las ayudas procedían del presupuesto andaluz y no hay vínculo con los fondos ni el presupuesto de la Unión. La Fiscalía General del Estado y el Reino de España presentan dictámenes en la misma línea y niegan que el Tribunal Constitucional se extralimitara al amparar a los condenados. El TJUE deberá pronunciarse antes sobre su propia competencia; en tanto, sigue suspendida la revisión de las condenas pendiente en la Audiencia de Sevilla."
+    type: "documento"
+    relevancia: "media"
+    urls:
+      - "https://elpais.com/espana/2026-04-20/bruselas-rechaza-que-el-tjue-revise-el-fallo-del-constitucional-que-anulo-las-sentencias-del-caso-ere-de-andalucia.html"
+      - "https://www.rtve.es/noticias/20260420/comision-europea-propone-tjue-se-declare-incompetente-caso-ere-andalucia/17033022.shtml"
 ---

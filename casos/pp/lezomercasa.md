@@ -4,14 +4,14 @@ partido: PP
 completado: true
 año: 2017
 fechaInicio: 2005-01-01
-fechaFin: ""
-estado: "en juicio oral"
+fechaFin: "2026-04-28"
+estado: "cerrado con absoluciones"
 descripcion: |
   La pieza Mercasa de la Operación Lezo investiga cómo Pablo Manuel González González, hermano del expresidente de la Comunidad de Madrid Ignacio González, habría reproducido en la empresa pública Mercasa el mismo esquema de corrupción que su hermano ejecutaba en el Canal de Isabel II. Pablo González accedió a la dirección de Operaciones de Mercasa —empresa pública dependiente del Estado y del Ministerio de Agricultura que gestiona los mercados mayoristas de España— gracias a la influencia de su hermano.
 
   Las escuchas telefónicas practicadas a Pablo González en el marco de la investigación del caso Lezo permitieron descubrir que Mercasa habría pagado comisiones irregulares en el extranjero para obtener contratos. El caso más relevante es el contrato de 218 millones de euros para construir un mercado de alimentación en Luanda (Angola), en el marco de un acuerdo más amplio con el Gobierno angoleño valorado en 500 millones de euros. Los investigadores sospechaban que parte del precio inflado se destinaba al pago de comisiones a funcionarios locales y al enriquecimiento personal de los implicados.
 
-  La investigación también apuntó a la presunta destrucción de documentación por parte de la expresidenta de Mercasa María Jesús Prieto, que era además procuradora del Estado. En 2017, a la semana del ingreso en prisión de Ignacio González, Mercasa canceló un contrato que beneficiaba a su cuñado Juan José Caballero.
+  La investigación también apuntó a la presunta destrucción de documentación por parte de la expresidenta de Mercasa María Jesús Prieto, que era además procuradora del Estado. En 2017, a la semana del ingreso en prisión de Ignacio González, Mercasa canceló un contrato que beneficiaba a su cuñado Juan José Caballero. El juicio oral se celebró a comienzos de 2026 y el 28 de abril la Audiencia Nacional absolvió a las 15 personas físicas y tres jurídicas juzgadas al no apreciar sobornos que viciaran las adjudicaciones; el tribunal consideró que las obras se ejecutaron conforme a Derecho y reprochó a la Fiscalía el sustento de su acusación.
 
 resumen: "Pago de comisiones ilegales en contratos internacionales de Mercasa, empresa pública estatal, incluyendo un contrato de 218 millones con Angola, con posible participación del hermano de Ignacio González"
 coste: 8000000
@@ -31,7 +31,7 @@ implicados:
 
   - nombre: "María Jesús Prieto"
     cargo: "Expresidenta de un consorcio de Mercasa, procuradora del Estado"
-    rol: "Investigada por presunta destrucción y falsificación de documentos relacionados con los contratos internacionales de Mercasa"
+    rol: "Absuelta en 2026 por los contratos internacionales de Mercasa tras no apreciarse sobornos"
 
   - nombre: "Juan José Caballero Escudier"
     cargo: "Cuñado de Ignacio González"
@@ -105,4 +105,21 @@ cronologia:
     relevancia: "alta"
     urls:
       - "https://www.infobae.com/espana/2026/02/02/arranca-el-juicio-por-el-caso-mercasa-empresas-espanolas-una-publica-que-habrian-pagado-millones-en-mordidas-para-construir-un-mercado-en-angola/"
+
+  - fecha: 2026-02-02
+    titulo: "La Fiscalía retira la acusación contra la empresa pública Mercasa"
+    descripcion: "En la primera sesión del juicio, el Ministerio Público comunica al tribunal su decisión de retirar la acusación contra la empresa pública Mercasa, que queda fuera del procedimiento. El juicio se celebra casi cuatro años después de que el juez Santiago Pedraz enviara a juicio a los acusados por el pago de comisiones para construir un mercado mayorista en Luanda (Angola)."
+    type: "juicio"
+    relevancia: "media"
+    urls:
+      - "https://elpais.com/noticias/caso-mercasa-incatema/"
+
+  - fecha: 2026-04-28
+    titulo: "La Audiencia Nacional absuelve a todos los acusados del caso Mercasa"
+    descripcion: "La Sección Cuarta de la Sala Penal de la Audiencia Nacional absuelve a las 15 personas físicas y tres jurídicas juzgadas por el supuesto pago de comisiones en la construcción del mercado mayorista de Luanda (Angola) mediante Mercasa. En una sentencia de 424 páginas, el tribunal concluye que no se ha demostrado la existencia de sobornos que viciaran las adjudicaciones 'más allá de las meras elucubraciones e hipótesis' y que las obras se ejecutaron conforme a Derecho. Entre los absueltos figuran María Jesús Prieto, los hermanos Pardo de Santayana y las mercantiles CMIC, Incatema Consulting y Toy Cincuenta. El tribunal reprocha a la Fiscalía su acusación."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://efe.com/economia/2026-04-28/audiencia-nacional-mercasa-angola-sobornos"
+      - "https://www.publico.es/politica/tribunales/audiencia-nacional-absuelve-exdirectivos-mercasa-detectar-sobornos-angola.html"
 ---
