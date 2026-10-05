@@ -166,4 +166,12 @@ cronologia:
     urls:
       - "https://theobjective.com/espana/tribunales/2026-03-18/condenado-ex-alto-cargo-junta-de-andalucia/"
       - "https://www.infobae.com/espana/agencias/2026/03/18/condenado-a-tres-anos-de-carcel-el-expresidente-de-invercaria-por-prestamos-a-astraea-astilleros/"
+
+  - fecha: "2026-06-15"
+    titulo: "Séptima absolución del expresidente de Invercaria por el crédito de los badenes inteligentes"
+    descripcion: "La Sección Primera de la Audiencia de Sevilla absuelve a Tomás Pérez-Sauquillo y al administrador de la mercantil Badennova del crédito de 103.000 euros concedido por Invercaria para desarrollar unos 'badenes inteligentes'. El tribunal concluye que el fracaso del proyecto no implica prevaricación y que el préstamo se ajustó a la legalidad y a los objetivos de Invercaria. Con esta son ya siete las absoluciones del expresidente de la empresa pública, frente a las seis condenas que acumula en otras piezas de la macrocausa."
+    type: "sentencia"
+    relevancia: "media"
+    urls:
+      - "https://www.elmundo.es/andalucia/2026/06/15/6a2ff24be9cf4ae4368b4580.html"
 ---

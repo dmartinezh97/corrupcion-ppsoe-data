@@ -44,6 +44,14 @@ cronologia:
     titulo: "Primeras críticas y denuncias"
     descripcion: "Surgen las primeras críticas y denuncias por la ausencia de sanciones y falta de transparencia en el proceso"
     type: "investigacion"
+  - fecha: 2017-06-08
+    titulo: "El Tribunal Constitucional anula la amnistía fiscal"
+    descripcion: "El Pleno del Tribunal Constitucional declara inconstitucional y anula, por unanimidad, la disposición adicional primera del Real Decreto-ley 12/2012 que creó la amnistía fiscal, al entender que no puede aprobarse por decreto-ley una medida que afecta a un deber constitucional como el de contribuir al sostenimiento de los gastos públicos mediante el sistema tributario justo. La sentencia, sin efectos retroactivos sobre las regularizaciones ya practicadas, deslegitima el proceso y alimenta las peticiones de responsabilidad política."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://elpais.com/politica/2017/06/08/actualidad/1496933024_470959.html"
+      - "https://www.publico.es/economia/tribunal-constitucional-anula-amnistia-fiscal-montoro-2012.html"
 ---
 
 # Caso Amnistía Fiscal

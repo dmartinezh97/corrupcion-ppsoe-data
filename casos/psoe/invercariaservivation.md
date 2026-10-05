@@ -4,8 +4,8 @@ partido: PSOE
 completado: true
 año: 2012
 fechaInicio: 2008-01-01
-fechaFin: ""
-estado: "en investigación"
+fechaFin: "2026-07-20"
+estado: "cerrado con condenas - pendiente de recurso"
 lugar: "Málaga / Sevilla, Andalucía"
 coste: 1186000
 descripcion: |
@@ -13,7 +13,7 @@ descripcion: |
 
   Para justificar la solicitud ante la opinión pública, Servivation anunció que contrataría a 114 ex trabajadores de la extinta empresa de telefonía Vitelcom, también radicada en el Parque Tecnológico malagueño y recientemente liquidada. La empresa, sin embargo, nunca devolvió el préstamo y acabó en concurso de acreedores, con el consiguiente perjuicio íntegro de 1.186.000 euros para el erario público andaluz. Los socios de Servivation —Jesús María Macías Castellano, Luis Fernando Martínez García y Francisco José Barrionuevo Canto— junto con el intermediario de la Agencia IDEA, Bienvenido Martínez, fueron también procesados junto a Vallejo y Pérez-Sauquillo.
 
-  El juez del Juzgado de Instrucción nº 16 de Sevilla procesó a los seis investigados por presuntos delitos de prevaricación, malversación de caudales públicos y tráfico de influencias. El juicio oral previsto para septiembre de 2023 fue suspendido por el estado de salud del expresidente de Invercaria. A la fecha de cierre de esta ficha, el juicio estaba pendiente de nueva señalamiento y el caso seguía abierto.
+  El juez del Juzgado de Instrucción nº 16 de Sevilla procesó a los seis investigados por presuntos delitos de prevaricación, malversación de caudales públicos y tráfico de influencias. El juicio oral previsto para septiembre de 2023 fue suspendido por el estado de salud del expresidente de Invercaria, y se celebró finalmente en julio de 2026. El 20 de julio de 2026 la Sección Séptima de la Audiencia Provincial de Sevilla condenó a Francisco Vallejo y a Tomás Pérez-Sauquillo a tres años y medio de prisión como coautores de prevaricación en concurso con malversación, con la atenuante de dilaciones indebidas, y a indemnizar solidariamente a la agencia IDEA con 1.180.000 euros; el tribunal apreció una "flagrante ausencia de procedimiento" porque no existía ningún plan de negocio de Servivation registrado en Invercaria. La sentencia no es firme y fue recurrida en apelación por la acusación popular del PP, que pidió la absolución de los dos empresarios condenados.
 
 resumen: "Préstamo de 1,18 millones de Invercaria a Servivation ordenado directamente por el consejero Vallejo, sin que la empresa devolviera ni un euro del préstamo."
 tribunal:
@@ -23,11 +23,11 @@ numeroSentencia: ""
 implicados:
   - nombre: "Francisco Vallejo Serrano"
     cargo: "Exconsejero de Innovación, Ciencia y Empresa de la Junta de Andalucía"
-    rol: "Procesado por prevaricación, malversación y tráfico de influencias al ordenar directamente la concesión del préstamo a Servivation; también investigado en el macrocaso ERE"
+    rol: "Condenado a 3 años y medio de prisión y 6 años y medio de inhabilitación por prevaricación y malversación"
 
   - nombre: "Tomás Pérez-Sauquillo"
     cargo: "Expresidente de Invercaria (2005-2010)"
-    rol: "Procesado por ejecutar la orden política de conceder el préstamo al margen de los procedimientos internos"
+    rol: "Condenado a 3 años y medio de prisión y 6 años de inhabilitación por prevaricación y malversación"
 
   - nombre: "Bienvenido Martínez"
     cargo: "Técnico de la Agencia IDEA (Junta de Andalucía)"
@@ -100,4 +100,21 @@ cronologia:
     urls:
       - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Invercaria/Servivation&numero=435"
       - "https://okdiario.com/andalucia/juzgan-socialista-perez-sauquillo-desvio-166-000-despues-anos-regateando-juez-14845956"
+
+  - fecha: "2026-07-20"
+    titulo: "Condena a Vallejo y Pérez-Sauquillo por el préstamo a Servivation"
+    descripcion: "La Sección Séptima de la Audiencia Provincial de Sevilla condena al exconsejero de Innovación Francisco Vallejo y al expresidente de Invercaria Tomás Pérez-Sauquillo a tres años y medio de prisión como coautores de prevaricación en concurso medial con malversación, con la atenuante simple de dilaciones indebidas. Vallejo recibe 6 años y medio de inhabilitación absoluta y Pérez-Sauquillo 6 años. El tribunal condena también a los otros dos acusados —el expresidente de Novasoft y un exdirector de Sadiel— a penas de algo más de un año como cómplices en la prevaricación y cooperadores necesarios en la malversación, y fija una indemnización solidaria de 1.180.000 euros a la agencia IDEA. La sentencia considera probada una 'flagrante ausencia de procedimiento', al no existir ningún plan de negocio de Servivation presentado y registrado en Invercaria."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/Noticias-Judiciales-TSJ-Andalucia--Ceuta-y-Melilla/La-Audiencia-de-Sevilla-condena-al-expresidente-de-Invercaria-y-al-exconsejero-de-innovacion-de-la-Junta-de-Andalucia-a-tres-anos-y-seis-meses-de-prision-en-la-pieza-separada-de--Servivation-"
+      - "https://www.canalsur.es/noticias/andalucia/condena-tres-anos-vallejo-perez_1_1423981.html"
+
+  - fecha: "2026-09-06"
+    titulo: "El PP recurre la sentencia y pide absolver a los empresarios condenados"
+    descripcion: "La acusación popular ejercida por el PP recurre ante la Sala de lo Civil y Penal del TSJA la sentencia de la pieza Servivation. Los populares no cuestionan las condenas de Vallejo ni de Pérez-Sauquillo, que también solicitaron, pero piden la absolución de los dos empresarios (el expresidente de Novasoft y un exdirector de Sadiel) al considerar que no hay pruebas de que conocieran el funcionamiento interno de Invercaria ni de que quisieran omitir trámites."
+    type: "recurso"
+    relevancia: "media"
+    urls:
+      - "https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/pp-rompe-idilio-judicial-alaya-macrocausas_0_2007857887.html"
 ---
