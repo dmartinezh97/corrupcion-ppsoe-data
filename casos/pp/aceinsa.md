@@ -70,7 +70,7 @@ cronologia:
 
   - fecha: "2012-01-01"
     titulo: "Adjudicación del contrato de alumbrado público a Aceinsa"
-    descripcion: "El gobierno municipal del PP en Salamanca adjudica a Aceinsa el contrato de mantenimiento y mejora de las instalaciones de alumbrado público, valorado en 12 millones de euros, en contra de los informes de la Intervención municipal y del Secretario del Ayuntamiento. El órgano de contratación había seleccionado inicialmente a la empresa competidora Etralux, pero el concejal Carlos García Carbayo maniobró para revertir esa decisión en la Junta de Gobierno Local, alegando una baja temeraria en la oferta de Etralux."
+    descripcion: "El gobierno municipal del PP en Salamanca adjudica a Aceinsa el contrato de mantenimiento y mejora de las instalaciones de alumbrado público, valorado en 12 millones de euros, en contra de los informes de la Intervención municipal y del Secretario del Ayuntamiento. El órgano de contratación había seleccionado inicialmente a la empresa competidora Etralux, pero el concejal Carlos García Carbayo consiguió un informe técnico favorable y maniobró para revertir esa decisión en la Junta de Gobierno Local, alegando una baja temeraria en la oferta de Etralux. Aceinsa había presentado ofertas con bajas del 12-22%, que los técnicos consideraban deficitarias y contrarias a la normativa de contratación pública. La causa penal por estos hechos fue archivada en 2018, aunque la vía contencioso-administrativa anuló la adjudicación y obligó al Ayuntamiento a indemnizar a Etralux (la sentencia se conoce a veces como 'Aceinsa II')."
     type: "resumen"
     urls:
       - "https://smart-lighting.es/tsjcyl-anula-adjudicacion-alumbrado-publico-salamanca-aceinsa/"
