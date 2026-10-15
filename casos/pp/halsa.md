@@ -62,22 +62,8 @@ tags:
 - presunto cohecho
 - presunta financiación irregular
 - sobreseimiento provisional
-impacto: Las sospechas sobre financiación y contratación pública dieron lugar a una instrucción prolongada y a debate
+impactoSocial: Las sospechas sobre financiación y contratación pública dieron lugar a una instrucción prolongada y a debate
   político. Los archivos posteriores deben acompañar a la exposición de las hipótesis iniciales.
-urls:
-- https://www.eldiario.es/andalucia/almeria/constructora-almeria-financio-parte-campanas-electorales-pp-udef_1_6234416.html
-- https://www.eldiario.es/andalucia/almeria/investigados-amano-concursos-publicos-almeria-declaran-primera-vez-ocho-anos-despues-iniciarse-pesquisas_1_8369066.html
-- https://www.eldiario.es/andalucia/almeria/desimputacion-expres-consejera-andaluza-sorprende-acusacion-particular_1_8622500.html
-- https://www.eldiario.es/andalucia/almeria/investigacion-presunta-caja-b-pp-almeria-lleva-ocho-anos-atascada-juzgado-instruccion_1_8622582.html
-- https://www.andaluciainformacion.es/almeria/1064691/archivan-la-pieza-de-nijar-del-caso-hispano-almeria/
-- https://www.almeriahoy.com/2024/04/el-fiscal-pide-archivar-un-caso-de.html
-- https://www.andaluciainformacion.es/almeria/1818558/archivan-la-pieza-de-la-mojonera-del-caso-hispano-almeria/
-- https://www.infobae.com/espana/agencias/2026/01/19/archivan-la-pieza-principal-del-caso-hispano-almeria-llamado-la-caja-b-del-pp-almeriense/
-- https://www.infobae.com/espana/agencias/2026/01/26/el-psoe-recurre-el-archivo-del-caso-hispano-almeria-al-apuntar-nuevos-indicios-en-la-trama-mascarillas-local/
-- https://www.europapress.es/andalucia/almeria-00350/noticia-juzgado-confirma-archivo-causa-grupo-hispano-almeria-desestimar-recurso-psoe-20260325144404.html
-- https://www.eldiario.es/andalucia/almeria/expresidente-diputacion-alcalde-cierran-desfile-judicial-cargos-pp-almeria-presuntas-mordidas_1_13330531.html
-- https://confidencialandaluz.com/halsa-almeria-pp-amat-morales-corrupcion-roquetas/
-- https://www.roquetasdemar.es/noticias/gabriel-amat-ayllon-recibe-por-octava-vez-el-baston-de-mando-que-lo-convierte-en-alcalde
 documentos: []
 cronologia:
 - fecha: '2020-09-21'
@@ -168,3 +154,5 @@ La pieza de Roquetas terminó provisionalmente por auto de 15 de enero de 2026. 
 El archivo provisional no equivale a una absolución tras juicio. ElDiario.es informó el 24 de junio de 2026 de una petición de reapertura pendiente ante la Audiencia; no se acredita una decisión posterior ni se declara firme por silencio informativo el archivo de toda la macrocausa. Faltan los autos completos para precisar la situación y el alcance individual de cada resolución al 15 de octubre de 2026.
 
 La posición de cada persona exige igual cuidado. Las fuentes de 2021 y 2022 explicaban que las acusaciones habían pedido investigar a Gabriel Amat, pero que no estaba formalmente investigado en Halsa. Se elimina por ello la atribución de una imputación urbanística de otra causa, así como las fechas de mandato incorrectas. La imputación y citación de Carmen Crespo fueron anuladas según la comunicación judicial de diciembre de 2021; no se le atribuye una condición actual de investigada ni una absolución inexistente. Los vínculos empresariales de los Morales y de Nicolás Manzano tampoco permiten afirmar una condena ni un papel de dirección de una red criminal probado judicialmente.
+
+Fuentes consultadas: [Informe policial de 2020](https://www.eldiario.es/andalucia/almeria/constructora-almeria-financio-parte-campanas-electorales-pp-udef_1_6234416.html), [Primeras declaraciones en Roquetas](https://www.eldiario.es/andalucia/almeria/investigados-amano-concursos-publicos-almeria-declaran-primera-vez-ocho-anos-despues-iniciarse-pesquisas_1_8369066.html), [Anulación de la citación de Carmen Crespo](https://www.eldiario.es/andalucia/almeria/desimputacion-expres-consejera-andaluza-sorprende-acusacion-particular_1_8622500.html), [Distribución de la investigación en piezas](https://www.eldiario.es/andalucia/almeria/investigacion-presunta-caja-b-pp-almeria-lleva-ocho-anos-atascada-juzgado-instruccion_1_8622582.html), [Archivo provisional de Níjar](https://www.andaluciainformacion.es/almeria/1064691/archivan-la-pieza-de-nijar-del-caso-hispano-almeria/), [Solicitud fiscal de archivo en La Mojonera](https://www.almeriahoy.com/2024/04/el-fiscal-pide-archivar-un-caso-de.html), [Archivo provisional de La Mojonera](https://www.andaluciainformacion.es/almeria/1818558/archivan-la-pieza-de-la-mojonera-del-caso-hispano-almeria/), [Auto de archivo de Roquetas](https://www.infobae.com/espana/agencias/2026/01/19/archivan-la-pieza-principal-del-caso-hispano-almeria-llamado-la-caja-b-del-pp-almeriense/), [Recurso contra el archivo](https://www.infobae.com/espana/agencias/2026/01/26/el-psoe-recurre-el-archivo-del-caso-hispano-almeria-al-apuntar-nuevos-indicios-en-la-trama-mascarillas-local/), [Desestimación de la reforma](https://www.europapress.es/andalucia/almeria-00350/noticia-juzgado-confirma-archivo-causa-grupo-hispano-almeria-desestimar-recurso-psoe-20260325144404.html), [Información sobre la apelación](https://www.eldiario.es/andalucia/almeria/expresidente-diputacion-alcalde-cierran-desfile-judicial-cargos-pp-almeria-presuntas-mordidas_1_13330531.html), [Antecedentes empresariales](https://confidencialandaluz.com/halsa-almeria-pp-amat-morales-corrupcion-roquetas/), [Investidura de Gabriel Amat en 2023](https://www.roquetasdemar.es/noticias/gabriel-amat-ayllon-recibe-por-octava-vez-el-baston-de-mando-que-lo-convierte-en-alcalde).
