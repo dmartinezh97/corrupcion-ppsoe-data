@@ -84,11 +84,11 @@ implicados:
       individual.
   - nombre: Salvadora Ibars Sancho
     cargo: Directora general de Promoción Institucional
-    rol: Absuelto en la sentencia de 2024. La acusación popular recurrió la sentencia; no se acredita aquí firmeza
+    rol: Absuelta en la sentencia de 2024. La acusación popular recurrió la sentencia; no se acredita aquí firmeza
       individual.
   - nombre: Alicia de Miguel García
     cargo: Consellera de Bienestar Social
-    rol: Absuelto en la sentencia de 2024. La acusación popular recurrió la sentencia; no se acredita aquí firmeza
+    rol: Absuelta en la sentencia de 2024. La acusación popular recurrió la sentencia; no se acredita aquí firmeza
       individual.
   - nombre: Manuel Cervera Taulet
     cargo: Conseller de Sanidad
