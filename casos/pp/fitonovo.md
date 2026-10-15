@@ -23,7 +23,7 @@ tribunal:
 - Juzgado Central de Instrucción nº 5 de la Audiencia Nacional
 - Audiencia Nacional, Sala de lo Penal
 - Tribunal Supremo, Sala de lo Penal
-numeroSentencia: AN 5/2022, 22-07-2022 y 1/2023; TS 377/2025, 409/2025 y 322/2026; AN 17/2026
+numeroSentencia: AN 5/2022, 15/2022 y 1/2023; TS 377/2025, 409/2025 y 322/2026; AN 17/2026
 implicados:
 - nombre: Rafael González Palomo
   cargo: Fundador y expresidente de Fitonovo
