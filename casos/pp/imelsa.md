@@ -31,8 +31,8 @@ implicados:
 - nombre: Marcos Benavent
   cargo: Exgerente de Imelsa
   rol: 'Thematica: condena de 7 años y 10 meses mantenida por el Supremo en junio de 2026 e ingreso penitenciario
-    conocido en julio. Pieza B: condena de 5 años sin firmeza actual contrastada. Absuelto en las piezasD yE; la
-    absolución deE era recurrible'
+    conocido en julio. Pieza B: condena de 5 años sin firmeza actual contrastada. Absuelto en las piezas D y E; la
+    absolución de E era recurrible'
 - nombre: Máximo Caturla
   cargo: Exvicepresidente de la Diputación y exconsejero delegado de Ciegsa
   rol: 'Pieza B: condenado a 5 años, firmeza actual no contrastada. Pieza G: en junio de 2025 se conoció una condena
@@ -43,7 +43,7 @@ implicados:
   rol: Condenado a 9 años y 2 meses en Thematica; pena mantenida por la STS 419/2026
 - nombre: Francisca Tamarit
   cargo: Jefa de servicio de Cultura del Ayuntamiento de Valencia durante los hechos
-  rol: Condenada a 5 años y 6 meses de prisión en Thematica; pena mantenida por la STS 419/2026
+  rol: Condenada a 5 años de prisión en Thematica según el fallo de instancia reproducido en la STS; existen noticias que indican 5 años y 6 meses; pena mantenida por la STS 419/2026
 - nombre: Juan José Medina
   cargo: Exvicepresidente de la Diputación y exalcalde de Moncada
   rol: Absuelto en la sentencia de Thematica de enero de 2023; esa absolución no describe el resultado de todas
@@ -107,7 +107,7 @@ impactoSocial: La investigación afectó a responsables de la Diputación, del A
   como hechos probados.
 documentos:
 - fecha: '2026-06-19'
-  titulo: 'STS419/2026 y segunda sentencia: pieza Thematica del caso Taula'
+  titulo: 'STS 419/2026 y segunda sentencia: pieza Thematica del caso Taula'
   filetype: pdf
   paginas: 91
   nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=76127b2a39ae6c69a0a8778d75e36f0d&encode=true&databasematch=TS
@@ -157,13 +157,13 @@ cronologia:
   - https://www.europapress.es/comunitat-valenciana/noticia-caturla-acepta-once-meses-prision-insolvencia-punible-intentar-ocultar-bienes-destaparse-caso-taula-20250610191136.html
 - fecha: '2025-07-16'
   titulo: Se conoce la sentencia de los contratos de Requena y Enguera
-  descripcion: 'Pieza K: Berasaluce y Arévalo reciben 1 año y 1 día; Óscar Martínez,2 años y 1 día; Mariano López y Ricardo
-    de Ángel,3 años. No condena a Rus ni a Benavent en esta pieza.'
+  descripcion: 'Pieza K: Berasaluce y Arévalo reciben 1 año y 1 día; Óscar Martínez, 2 años y 1 día; Mariano López y Ricardo
+    de Ángel, 3 años. No condena a Rus ni a Benavent en esta pieza.'
   type: sentencia
   urls:
   - https://www.elespanol.com/valencia/20250716/audiencia-valencia-dicta-quinta-sentencia-condenas-caso-taula-contratos-requena-enguera/1003743849527_0.html
 - fecha: '2025-09-22'
-  titulo: Se conocen recursos contra la sentencia de la piezaK
+  titulo: Se conocen recursos contra la sentencia de la pieza K
   descripcion: Valencia Plaza informa de recursos de los tres exalcaldes ante el TSJCV. No se ha contrastado aquí
     su resolución posterior.
   type: recurso
@@ -172,7 +172,7 @@ cronologia:
 - fecha: '2026-06-19'
   titulo: El Supremo resuelve Thematica con modificaciones parciales
   descripcion: La STS 419/2026 mantiene las principales penas, reduce la de José Antonio Toledo de 10 a 8 meses, corrige
-    costas y elimina la responsabilidad civil de 93186,54 euros del bloque Berceo manteniendo el decomiso por ese
+    costas y elimina la responsabilidad civil de 93.186,54 euros del bloque Berceo manteniendo el decomiso por ese
     importe.
   type: sentencia
   urls:
@@ -195,7 +195,7 @@ cronologia:
 
 La investigación nació de una denuncia de Esquerra Unida ante Fiscalía en **julio de 2014** y pasó al juzgado en **marzo de 2015**, según la información contemporánea. No se fija un día inicial que no ha sido contrastado. Las detenciones de enero de 2016 hicieron pública una investigación que después se dividió en piezas autónomas. La cifra de investigados y las sospechas iniciales describen momentos de la instrucción, no una relación de personas culpables ni una situación procesal común en 2026.
 
-En **Thematica**, la sentencia de instancia es de **23 de enero de 2023**, no del día 24 en que se difundió. El Supremo resolvió el **19 de junio de 2026** y mantuvo las penas de siete años y diez meses de Benavent, nueve años y dos meses de García Barat y cinco años y seis meses de Tamarit. El PP no fue condenado como responsable civil subsidiario en esta pieza y Medina fue absuelto. Las sospechas sobre financiación de campañas incluidas en esa operativa no quedaron acreditadas en los términos de la acusación.
+En **Thematica**, la sentencia de instancia es de **23 de enero de 2023**, no del día 24 en que se difundió. El Supremo resolvió el **19 de junio de 2026** y mantuvo las penas de siete años y diez meses de Benavent, nueve años y dos meses de García Barat y cinco años de Tamarit, conforme al fallo de instancia reproducido en la resolución del Supremo. El PP no fue condenado como responsable civil subsidiario en esta pieza y Medina fue absuelto. Las sospechas sobre financiación de campañas incluidas en esa operativa no quedaron acreditadas en los términos de la acusación.
 
 La casación modificó también consecuencias patrimoniales: **dejó sin efecto la responsabilidad civil de 93.186,54 euros del bloque Berceo, pero mantuvo el decomiso hasta ese límite**. La razón es que no se identificó un daño civil autónomo derivado de los delitos de blanqueo y falsedad objeto de condena en ese bloque. Además, redujo la pena de Toledo de diez a ocho meses y las costas de Benavent. Por tanto, ni esa cantidad ni el valor de los contratos se suman como un coste general de toda Taula. La noticia de julio de 2026 acredita el ingreso de Benavent para cumplir Thematica, sin extender ese dato a otros condenados o piezas.
 
@@ -206,3 +206,7 @@ La **pieza G** relativa a Caturla es distinta: en junio de 2025 se informó de u
 En la **pieza E**, sobre contratos de Cultura de 2003 a 2006 y la Fundación Jaume II El Just, los cinco acusados fueron absueltos en una sentencia comunicada por el CGPJ el 23 de junio de 2026. El tribunal no consideró probado el amaño ni las comisiones y apreció también prescripción respecto de determinados delitos. La nota oficial advertía que cabía casación. Las pérdidas de la Fundación citadas como contexto no equivalen a un daño penal declarado en esa sentencia absolutoria.
 
 El estado de la macrocausa no se puede condensar en una sola condena o archivo. Faltan resoluciones completas y comprobaciones posteriores sobre varias piezas, su firmeza y la ejecución individual al **15 de octubre de 2026**. Las personas enumeradas son una selección vinculada a los procedimientos descritos, no el conjunto de investigados de Taula. Las detenciones históricas de Serra y Llopis no permiten afirmar que sigan investigados; Barberá falleció sin condena y su causa personal se archivó por extinción de responsabilidad penal, mientras Alcón había fallecido antes de los juicios recientes.
+
+La pena de Tamarit exige una cautela documental: varias crónicas publicaron cinco años y medio, pero el fallo del Bibliobús reproducido en la página 18 de la STS 419/2026 recoge una pena única de cinco años de prisión, mantenida al desestimarse su recurso. Se sigue aquí ese texto judicial; no se ha obtenido una resolución adicional que explique la diferencia.
+
+Fuentes de contexto: [origen y división de la investigación](https://www.eldiario.es/comunitat-valenciana/guia-perderse-operacion-taula_1_4140439.html), [primera sentencia de Thematica](https://valenciaplaza.com/sentencia-thematica1), [casación de Thematica](https://www.elespanol.com/valencia/20260626/supremo-ratifica-anos-carcel-yonki-dinero-primera-sentencia-caso-taula/1003744301489_0.html).
