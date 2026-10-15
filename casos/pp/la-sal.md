@@ -1,218 +1,146 @@
 ---
-nombre: "La Sal"
+nombre: La Sal
 partido: PP
-completado: true
-año: 2018
-fechaInicio: 2006-01-25
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El caso La Sal (también conocido como caso Desaladora o caso Escombreras) es la mayor trama de corrupción de la historia de la Región de Murcia. Investiga cómo el Gobierno regional del PP, bajo la presidencia de Ramón Luis Valcárcel (1995-2014), diseñó y ejecutó un plan para adjudicar irregularmente la construcción y explotación de la planta desalinizadora de Escombreras (Cartagena) a empresas del grupo ACS, propiedad de Florentino Pérez, sin publicidad ni concurrencia competitiva. La operación permitió que Murcia abonara finalmente casi 600 millones de euros a ACS por una infraestructura cuyo coste real se estimaba en torno a 175 millones, lo que supone multiplicar por más de cinco el valor de mercado.
-
-  La trama se articuló mediante la constitución de sociedades participadas, contratos de arrendamiento fraudulentos, facturas simuladas e informes jurídicos manipulados. En enero de 2006 se constituyó la empresa Desaladora de Escombreras SA, integrada por filiales de ACS. Días después, el Consejo de Gobierno murciano cedió al Ente Público del Agua (EPA) un terreno en Escombreras para ubicar la planta, y el EPA constituyó Hidronostrum SA aportando ese suelo y adquiriendo el 51% de la desaladora de ACS. La planta entró en operación hacia 2009 pero acumuló pérdidas millonarias. En 2012, cuando el proyecto era inviable, el Gobierno murciano rescató la concesión privada a través de un contrato de arrendamiento que disparó la indemnización a ACS hasta más de 600 millones de euros, convirtiendo un riesgo empresarial privado en una deuda pública. Según la Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional, todo el proceso estuvo prediseñado para que la Administración regional acabara asumiendo el proyecto y financiando los beneficios de ACS.
-
-  El caso se divide en dos piezas judiciales: La Sal I, instruida por el Juzgado de Instrucción nº 5 de Murcia, que investiga a los miembros de los consejos de administración del EPA y de Desaladora de Escombreras SA, así como a directivos de ACS y Cobra; y La Sal II, instruida por el Juzgado de Instrucción nº 1 de Murcia, que apunta directamente al expresidente Valcárcel por prevaricación continuada, fraude continuado y malversación de caudales públicos. La Fiscalía Anticorrupción cifra el perjuicio para las arcas públicas en al menos 74,1 millones de euros en concepto de sobrecoste del mecanismo de alquiler utilizado. El juicio oral contra Valcárcel, para el que el fiscal pide 11 años y 6 meses de prisión, está fijado para septiembre de 2027 ante la Sección 3 de la Audiencia Provincial de Murcia.
-
-resumen: "El PP de Murcia adjudicó irregularmente la desaladora de Escombreras a ACS y pagó 600 millones por una obra valorada en 175"
-coste: 74100000
-lugar: "Región de Murcia, España"
+completado: false
+año: 2016
+estado: pendiente de juicio
+descripcion: 'El caso La Sal examina presuntas irregularidades en la adquisición mediante arrendamiento y la financiación
+  pública de la desaladora de Escombreras, en Cartagena. La Sal I comprende a antiguos responsables del Ente Público
+  del Agua y de las sociedades del proyecto, junto a representantes privados. La Sal II se dirige contra el expresidente
+  murciano Ramón Luis Valcárcel por presuntos delitos de prevaricación, fraude y malversación. Ambas causas han
+  superado la instrucción: en la primera se abrió juicio oral a quince personas y en la segunda a Valcárcel. En
+  octubre de 2026 la Audiencia confirmó la fianza de 70 millones de La Sal I, sin resolver la responsabilidad penal
+  o civil. La fianza de Valcárcel asciende a 74.194.332,55 euros; ambas garantías se refieren a responsabilidades
+  vinculadas y no deben sumarse como daños acreditados. El señalamiento de La Sal II anunciado en octubre de 2024
+  prevé comenzar el 15 de septiembre de 2027. No se ha contrastado una actualización posterior de ese calendario
+  ni el señalamiento de La Sal I. Tampoco se ha verificado documentalmente la identidad completa de sus quince acusados
+  y de las dos personas respecto de las que se acordó sobreseimiento provisional en 2024. No se atribuyen condenas
+  a partir de las aperturas de juicio.'
+resumen: Dos causas por la adquisición y financiación de la desaladora de Escombreras, con juicio oral abierto y
+  garantías civiles todavía cautelares.
+lugar: Cartagena, Región de Murcia
 tribunal:
-  - "Juzgado de Instrucción nº 5 de Murcia - caso La Sal I - Fiscalía Anticorrupción"
-  - "Juzgado de Instrucción nº 1 de Murcia - caso La Sal II - Jueza Ana Isabel Navarro Prieto - Fiscalía Anticorrupción"
-  - "Audiencia Provincial de Murcia - Sección 3"
-numeroSentencia: ""
+- 'Juzgado de Instrucción nº 5 de Murcia: La Sal I, diligencias previas 956/2016'
+- 'Juzgado de Instrucción nº 1 de Murcia: La Sal II, diligencias previas 2313/2019'
+- 'Audiencia Provincial de Murcia: Sección 2, recursos; Sección 3, enjuiciamiento de La Sal II'
 implicados:
-  - nombre: "Ramón Luis Valcárcel Siso"
-    cargo: "Expresidente de la Región de Murcia (1995-2014), exvicepresidente del Parlamento Europeo"
-    rol: "Acusado de prevaricación, fraude y malversación; pena pedida de 11 años y 6 meses"
-
-  - nombre: "Antonio Cerdá Cerdá"
-    cargo: "Exconsejero de Agricultura y Agua de Murcia (2007-2015)"
-    rol: "Acusado de prevaricación y fraude; pena pedida de 14 años de prisión"
-
-  - nombre: "Amalio Garrido"
-    cargo: "Exdirector general del Ente Público del Agua (EPA) de Murcia"
-    rol: "Investigado por gestión irregular del contrato de arrendamiento de la desaladora"
-
-  - nombre: "José Manuel Ferrer"
-    cargo: "Exdirector del EPA de Murcia"
-    rol: "Investigado por su participación en la constitución irregular de Hidronostrum"
-
-  - nombre: "Antonio Arnaldos"
-    cargo: "Abogado asesor del Gobierno regional de Murcia"
-    rol: "Investigado por elaborar informes jurídicos que ampararon la adjudicación irregular"
-
-  - nombre: "Alfonso Aguirre Díaz Guadarmino"
-    cargo: "Directivo del grupo ACS"
-    rol: "Investigado por coordinar la vertiente empresarial de la trama dentro de ACS"
-
-  - nombre: "Eugenio Llorente"
-    cargo: "Directivo del grupo ACS"
-    rol: "Investigado por participar en la negociación irregular del contrato de rescate"
-
-  - nombre: "Juan Martínez Martínez"
-    cargo: "Empresario local vinculado a la trama"
-    rol: "Investigado por su papel como intermediario entre ACS y la Administración murciana"
-
-  - nombre: "José Carvajal Conesa"
-    cargo: "Empresario local"
-    rol: "Investigado por participación en la red de adjudicaciones irregulares"
-
-  - nombre: "Tomás Bourchert Muñoz"
-    cargo: "Empresario"
-    rol: "Investigado por su papel en la trama empresarial vinculada a Hidronostrum"
-
-  - nombre: "Juan Jódar Martínez"
-    cargo: "Empresario"
-    rol: "Investigado por participación en la gestión irregular del proyecto"
-
-  - nombre: "Miguel Caballero Sandoval"
-    cargo: "Empresario"
-    rol: "Investigado por vínculos con la red de intereses entre ACS y el Gobierno murciano"
-
-  - nombre: "Juan José Beltrán Valcárcel"
-    cargo: "Miembro del Consejo de Administración del EPA"
-    rol: "Imputado en La Sal I por prevaricación y fraude en la gestión del EPA"
-
-  - nombre: "Diego Manuel Pardo Domínguez"
-    cargo: "Miembro del Consejo de Administración del EPA"
-    rol: "Imputado en La Sal I por participar en las decisiones irregulares del EPA"
-
-  - nombre: "Miguel Ángel Ródenas Cañada"
-    cargo: "Miembro del Consejo de Administración del EPA"
-    rol: "Imputado en La Sal I por su actuación en la junta directiva del EPA"
-
-  - nombre: "Diego Cola Palau"
-    cargo: "Miembro del Consejo de Administración del EPA"
-    rol: "Imputado en La Sal I por actuación irregular en el consejo del EPA"
-
-  - nombre: "María Antonieta Fernández Cano"
-    cargo: "Secretaria del Consejo de Administración de Desaladora de Escombreras SA"
-    rol: "Imputada en La Sal I por su papel en las decisiones societarias irregulares"
-
-  - nombre: "José Alfonso Nebrera García"
-    cargo: "Ejecutivo de ACS"
-    rol: "Imputado en La Sal I por coordinar la estrategia empresarial de ACS en el contrato"
-
-  - nombre: "Ramón Jiménez Serrano"
-    cargo: "Ejecutivo de ACS"
-    rol: "Imputado en La Sal I por participar en la negociación del contrato fraudulento"
-
-  - nombre: "Cristóbal González Wiedmaier"
-    cargo: "Ejecutivo de ACS"
-    rol: "Imputado en La Sal I por participar en la trama empresarial de ACS en Murcia"
-
+- nombre: Ramón Luis Valcárcel Siso
+  cargo: Expresidente de la Región de Murcia
+  rol: Acusado en La Sal II; la información sobre la apertura de juicio atribuye a Fiscalía una petición de once
+    años y seis meses de prisión, pendiente de fallo.
+- nombre: Antonio Cerdá Cerdá
+  cargo: Exconsejero de Agricultura y Agua; expresidente del Ente Público del Agua
+  rol: Acusado en La Sal I, con juicio oral abierto en noviembre de 2024 y fianza cautelar confirmada en octubre
+    de 2026.
+- nombre: Amalio Garrido
+  cargo: Antiguo responsable del Ente Público del Agua y de sociedades del proyecto
+  rol: Identificado entre los acusados de La Sal I en la información de octubre de 2026.
+- nombre: María Antonieta Fernández Cano
+  cargo: Secretaria del consejo de administración de Desaladora de Escombreras
+  rol: Identificada entre los acusados de La Sal I en octubre de 2026; el cargo societario consta en la información
+    de 2018.
+- nombre: José Manuel Ferrer Cánovas
+  cargo: Antiguo cargo o directivo del Ente Público del Agua
+  rol: Identificado entre los acusados de La Sal I en octubre de 2026; no se concreta aquí el cargo individual sin
+    documentación adicional.
+- nombre: Andrés Arnaldos
+  cargo: Antiguo responsable público vinculado al Ente Público del Agua
+  rol: Identificado entre los acusados de La Sal I en octubre de 2026; no se concreta aquí el cargo individual sin
+    documentación adicional.
+- nombre: Juan José Beltrán Valcárcel
+  cargo: Antiguo integrante del Ente Público del Agua
+  rol: Identificado entre los acusados de La Sal I en octubre de 2026.
+- nombre: Miguel Ángel Ródenas Cañada
+  cargo: Antiguo integrante del Ente Público del Agua
+  rol: Identificado entre los acusados de La Sal I en octubre de 2026.
+- nombre: Diego Manuel Pardo Domínguez
+  cargo: Antiguo integrante del Ente Público del Agua
+  rol: Identificado entre los acusados de La Sal I en octubre de 2026.
+- nombre: Diego Cola Palau
+  cargo: Antiguo integrante del Ente Público del Agua
+  rol: Identificado entre los acusados de La Sal I en octubre de 2026.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "fraude"
-  - "contratación irregular"
-  - "infraestructuras"
-
-impactoSocial: "El caso La Sal es el mayor escándalo de corrupción de la historia de la Región de Murcia y uno de los mayores en infraestructuras hidráulicas de España. Evidenció cómo el PP murciano utilizó la política del agua como instrumento para transferir cientos de millones de euros de dinero público a una gran constructora privada vinculada al poder. La desaladora de Escombreras, prácticamente inoperativa y deficitaria, se convirtió en símbolo del derroche y la captura del Estado por intereses privados durante casi dos décadas de Gobierno del PP en Murcia."
-
+- malversación
+- prevaricación
+- fraude
+- contratación pública
+- agua
+impactoSocial: El procedimiento cuestiona la fórmula utilizada para trasladar a entidades públicas la financiación
+  de una infraestructura hidráulica y sus obligaciones de arrendamiento. La Comunidad Autónoma interviene como perjudicada
+  y actora civil. La posible pérdida para el erario continúa siendo objeto de las acusaciones y de las periciales,
+  pendiente de decisión en juicio.
 documentos: []
-
 cronologia:
-  - fecha: "2006-01-25"
-    titulo: "Constitución de Desaladora de Escombreras SA"
-    descripcion: "Se constituye la sociedad Desaladora de Escombreras SA, integrada por empresas del grupo ACS. Días después, el Consejo de Gobierno de la Región de Murcia cede al Ente Público del Agua (EPA) un terreno en el Valle de Escombreras para localizar la planta desalinizadora. El EPA constituye Hidronostrum SA, aportando dicho terreno, y esta sociedad adquiere el 51% de las participaciones de Desaladora de Escombreras SA a ACS. Según la UDEF, todo el proceso estaba diseñado desde el inicio para que la Administración regional acabara asumiendo el proyecto y sus costes."
-    type: "resumen"
-    urls:
-      - "https://www.publico.es/espana/desaladora-escombreras-pp-murcia-colaboro-regalar-600-millones-empresa-florentino-perez.html"
-      - "https://asocex.es/asociacion-publico-privada-el-caso-de-la-desaladora-de-escombreras/"
-
-  - fecha: "2009-01-01"
-    titulo: "La desaladora entra en operación con pérdidas desde el inicio"
-    descripcion: "La planta desalinizadora de Escombreras comienza su actividad bajo el esquema de colaboración público-privada entre el EPA y las empresas del grupo ACS. Sin embargo, desde el inicio acumula pérdidas y no alcanza el volumen de negocio previsto en los contratos. Las deficiencias técnicas y la escasa demanda real de agua desalada hacen que el proyecto sea económicamente inviable desde su arranque, lo que según la investigación judicial era previsible desde el diseño del esquema contractual."
-    type: "resumen"
-    urls:
-      - "https://www.elespanol.com/espana/murcia/20230330/negocio-inviable-ruinoso-conclusion-desaladora-impulso-valcarcel/752425232_0.html"
-
-  - fecha: "2012-06-01"
-    titulo: "Rescate de la concesión: el contrato de arrendamiento que dispara el coste a 600 millones"
-    descripcion: "Ante la quiebra técnica del proyecto, el Gobierno murciano del PP rescata la desaladora de Escombreras a través de un contrato de arrendamiento con opción de compra que fija la indemnización a ACS en más de 600 millones de euros, cuando el valor inicial de la infraestructura se estimaba en 175 millones. Con esta operación, el Gobierno de Valcárcel convierte un riesgo empresarial privado en deuda pública, beneficiando al grupo de Florentino Pérez con un sobrecoste de más de 420 millones. La UDEF concluirá años después que el mecanismo de alquiler fue elegido deliberadamente para maximizar el beneficio de ACS."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/murcia/politica/udef-pp-acs-desalinizadora-escombreras_1_1166503.html"
-      - "https://www.encastillalamancha.es/politica-cat/acs-pp-murcia-se-unieron-dar-pelotazo-600-millones-la-adjudicacion-una-desaladora/"
-
-  - fecha: "2018-01-01"
-    titulo: "Informe de la UDEF revela la trama: el PP de Murcia 'regaló' 600 millones a ACS"
-    descripcion: "La Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional presenta ante el Juzgado de Instrucción nº 5 de Murcia un informe de más de 200 páginas, elaborado tras dos años de investigación secreta, que concluye que el PP de Murcia amañó la adjudicación de la desaladora de Escombreras para entregársela a ACS. El informe, conocido como caso La Sal, revela que mediante contratos falsos, facturas simuladas, informes jurídicos fabricados y múltiples irregularidades contables, el Gobierno murciano cargó las deudas de ACS a los presupuestos regionales. La Fiscalía Anticorrupción se persona en la causa."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/murcia/politica/udef-pp-acs-desalinizadora-escombreras_1_1166503.html"
-      - "https://www.clm24.es/articulo/actualidad/udef-desvela-trama-agua-murcia-pp-regalo-600-millones-acs/20180423114304201298.html"
-
-  - fecha: "2018-04-01"
-    titulo: "La Región de Murcia se persona en la causa como acusación"
-    descripcion: "El Gobierno de la Región de Murcia, entonces presidido por Pedro Antonio Sánchez (PP), decide personarse en la causa judicial como acusación particular contra ACS y sus filiales por las supuestas irregularidades en la gestión de la desaladora de Escombreras. La decisión resulta paradójica, ya que el PP regional ejercía la acusación contra una empresa con la que su propio gobierno había firmado los contratos cuestionados. La Fiscalía Anticorrupción ya había asumido la causa."
-    type: "investigación"
-    urls:
-      - "https://www.eleconomista.es/empresas-finanzas/noticias/9095012/04/18/Murcia-se-persona-en-la-causa-contra-ACS-por-la-trama-de-la-desaladora.html"
-
-  - fecha: "2020-01-01"
-    titulo: "Imputados funcionarios del EPA y directivos de ACS en La Sal I"
-    descripcion: "El Juzgado de Instrucción nº 5 de Murcia imputa formalmente a cinco miembros del Consejo de Administración del Ente Público del Agua de Murcia y de las empresas públicas vinculadas, así como a tres ejecutivos del grupo ACS, por presuntos delitos de malversación continuada, cohecho, fraude, falsedades documentales y delito societario. Entre los imputados figuran Juan José Beltrán Valcárcel, Diego Manuel Pardo Domínguez, Miguel Ángel Ródenas Cañada, Diego Cola Palau y la secretaria del consejo María Antonieta Fernández Cano, además de los directivos de ACS José Alfonso Nebrera García, Ramón Jiménez Serrano y Cristóbal González Wiedmaier."
-    type: "imputación"
-    urls:
-      - "https://www.eldiario.es/murcia/imputados-funcionarios-ejecutivos-acs-escombreras_1_2752804.html"
-
-  - fecha: "2021-01-01"
-    titulo: "Juzgado archiva provisionalmente la causa contra Valcárcel"
-    descripcion: "El Juzgado de Instrucción nº 1 de Murcia archiva provisionalmente las diligencias contra el expresidente Ramón Luis Valcárcel en el marco de La Sal II, considerando que no existen indicios suficientes de que tuviera conocimiento o participación directa en los hechos investigados. Sin embargo, la Fiscalía Anticorrupción recurre inmediatamente la decisión ante la Audiencia Provincial, argumentando que los indicios de que Valcárcel estaba al corriente de la operación son sólidos y están documentados."
-    type: "investigación"
-    urls:
-      - "https://murciaplaza.com/la-jueza-ve-indicios-de-que-valcarcel-sabia-lo-que-sucedia-en-la-desaladora-de-escombreras"
-
-  - fecha: "2021-03-01"
-    titulo: "La Audiencia Provincial revoca el archivo y ordena continuar la investigación contra Valcárcel"
-    descripcion: "La Audiencia Provincial de Murcia estima el recurso de la Fiscalía Anticorrupción y revoca el archivo provisional contra Valcárcel, ordenando al Juzgado de Instrucción nº 1 que continúe investigando la responsabilidad del expresidente en el esquema de la desaladora. El tribunal considera que existen elementos suficientes para indagar si Valcárcel conocía y amparó las decisiones que provocaron el perjuicio millonario a las arcas públicas murcianas."
-    type: "investigación"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Murcia-valida-la-instruccion-de-los-dos-procedimientos-que-investigan-las-irregularidades-en-el-proyecto-de-la-desaladora-de-Escombreras"
-
-  - fecha: "2022-10-18"
-    titulo: "La jueza apunta a Valcárcel por prevaricación, malversación y fraude"
-    descripcion: "La jueza del Juzgado de Instrucción nº 1 de Murcia, Ana Isabel Navarro Prieto, dicta auto en el que señala al expresidente Ramón Luis Valcárcel como presunto autor de delitos de prevaricación continuada, fraude continuado y malversación de caudales públicos en relación al contrato de arrendamiento para la adquisición de la desaladora. La jueza concluye que existen indicios de que Valcárcel 'sabía lo que sucedía' y que las decisiones adoptadas bajo su presidencia fueron determinantes para el perjuicio económico causado a los fondos públicos murcianos."
-    type: "imputación"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/ci.La-juez-apunta-al-expresidente-de-la-Region-de-Murcia-por-prevaricacion--malversacion-y-fraude-de-subvenciones-en-la-desaladora-de-Escombreras.formato3"
-      - "https://murciaplaza.com/la-jueza-ve-indicios-de-que-valcarcel-sabia-lo-que-sucedia-en-la-desaladora-de-escombreras"
-
-  - fecha: "2023-03-01"
-    titulo: "Apertura de juicio oral contra Valcárcel con fianza de 74 millones"
-    descripcion: "La jueza instructora del caso La Sal II dicta auto de apertura de juicio oral contra Ramón Luis Valcárcel por los delitos de prevaricación continuada, fraude continuado y malversación de caudales públicos, imponiendo además una fianza de 74.194.332,55 euros como medida cautelar. La Fiscalía Anticorrupción pide para Valcárcel 11 años y 6 meses de prisión, 20 años de inhabilitación absoluta y 27 años de inhabilitación especial para cargo público, además de la restitución del perjuicio causado."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/murcia/politica/jueza-abre-juicio-oral-expresidente-murcia-ramon-luis-valcarcel-delitos-prevaricacion-malversacion-fraude_1_10080738.html"
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Murcia-confirma-la-fianza-de-74-millones-exigida-al-expresidente-autonomico-tras-la-apertura-del-juicio-oral-en-el-caso-La-Sal-II"
-
-  - fecha: "2024-05-01"
-    titulo: "La Audiencia de Murcia confirma el juicio oral contra exconsejero Cerdá y 14 investigados más"
-    descripcion: "El Juzgado de Instrucción nº 5 de Murcia ordena la apertura de juicio oral contra el exconsejero de Agricultura Antonio Cerdá y otros 14 investigados de La Sal I, incluyendo funcionarios del EPA y ejecutivos de ACS y sus filiales Cobra y Tedagua. La Fiscalía Anticorrupción solicita para Cerdá 14 años de prisión, 20 años de inhabilitación absoluta y 15 años de inhabilitación especial para cargo público, además de una compensación de 70 millones de euros. Las ocho empresas vinculadas al grupo ACS también se enfrentan a procedimiento penal."
-    type: "investigación"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-juez-ordena-la-apertura-de-juicio-oral-a-15-investigados-del-proyecto-de-la-planta-desalinizadora-de-Escombreras--Cartagena-"
-      - "https://www.orm.es/noticias-2024/abren-juicio-oral-contra-el-exconsejero-de-agricultura-antonio-cerda-por-el-caso-de-la-desaladora-de-escombreras/"
-
-  - fecha: "2024-05-29"
-    titulo: "La Audiencia Provincial confirma la fianza de 74 millones a Valcárcel"
-    descripcion: "La Audiencia Provincial de Murcia desestima el recurso interpuesto por Ramón Luis Valcárcel y confirma la fianza de 74,1 millones de euros exigida por la jueza instructora como medida cautelar. El tribunal considera que la cuantía es proporcional al perjuicio económico causado a las arcas públicas y que existen indicios sólidos de la responsabilidad del expresidente en los hechos investigados. Valcárcel rechaza en este periodo cualquier acuerdo de conformidad que podría haberle permitido reducir la pena."
-    type: "investigación"
-    urls:
-      - "https://www.infobae.com/espana/agencias/2024/05/29/audiencia-confirma-fianza-de-74-millones-al-expresidente-valcarcel-por-el-caso-desaladora/"
-      - "https://murciaplaza.com/la-audiencia-desoye-a-valcarcel-y-le-impone-una-fianza-de-74-millones-por-el-caso-desaladora"
-
-  - fecha: "2024-10-17"
-    titulo: "Juicio oral contra Valcárcel fijado para septiembre de 2027"
-    descripcion: "La Sección 3 de la Audiencia Provincial de Murcia fija el inicio del juicio oral contra Ramón Luis Valcárcel para el 15 de septiembre de 2027, con un calendario de 21 sesiones distribuidas entre septiembre, octubre y noviembre, y la citación de cerca de 80 testigos y múltiples peritos. El señalamiento se produce tras el colapso de agenda del tribunal, que tiene la agenda ocupada hasta mediados de 2027. Valcárcel, que fue expresidente de la Región de Murcia durante 19 años y posteriormente vicepresidente del Parlamento Europeo, se enfrentará al banquillo como acusado principal del mayor escándalo de corrupción de la historia de Murcia."
-    type: "resumen"
-    urls:
-      - "https://murciaplaza.com/murciaplaza/valcarcel-se-sentara-en-el-banquillo-de-los-acusados-en-2027"
-      - "https://www.publico.es/politica/expresidente-murciano-pp-ramon-luis-valcarcel-juicio-2027-corrupcion-desalinizadora.html"
-      - "https://www.infobae.com/espana/agencias/2024/10/17/valcarcel-expresidente-murciano-a-juicio-en-2027-por-corrupcion-con-una-desalinizadora/"
-
+- fecha: '2018-09-19'
+  titulo: Se conocen nuevas imputaciones en La Sal I
+  descripcion: elDiario.es informa de nuevas imputaciones acordadas el día anterior a integrantes del EPA y de las
+    sociedades del proyecto, y a tres ejecutivos de ACS. Es un antecedente de instrucción y no acredita por sí solo
+    la condición procesal posterior de todos los citados.
+  type: imputacion
+  urls:
+  - https://www.eldiario.es/murcia/imputados-funcionarios-ejecutivos-acs-escombreras_1_2752804.html
+- fecha: '2023-03-30'
+  titulo: Se conoce la apertura de juicio oral contra Valcárcel
+  descripcion: Se publica la apertura de juicio en La Sal II por prevaricación, fraude y malversación. La información
+    atribuye a Fiscalía once años y seis meses de prisión y recoge una fianza cautelar de 74.194.332,55 euros. La
+    fecha corresponde a la publicación, no a un día de auto verificado.
+  type: juicio
+  urls:
+  - https://www.eldiario.es/murcia/politica/jueza-abre-juicio-oral-expresidente-murcia-ramon-luis-valcarcel-delitos-prevaricacion-malversacion-fraude_1_10080738.html
+- fecha: '2023-06-08'
+  titulo: La Audiencia comunica la validación de ambas instrucciones
+  descripcion: El CGPJ informa de la desestimación de recursos contra los autos de continuación de La Sal I, de
+    marzo de 2020, y La Sal II, de octubre de 2022. La CARM y las entidades públicas quedan fuera de la responsabilidad
+    civil subsidiaria y la Comunidad permanece como perjudicada. Los indicios permiten enjuiciar, sin decidir absolución
+    o condena.
+  type: recurso
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Murcia-valida-la-instruccion-de-los-dos-procedimientos-que-investigan-las-irregularidades-en-el-proyecto-de-la-desaladora-de-Escombreras
+- fecha: '2024-05-29'
+  titulo: Se comunica la confirmación de la fianza de Valcárcel
+  descripcion: La Sección 2 notifica la desestimación del recurso contra la fianza de 74.194.332,55 euros. Su importe
+    deriva de periciales y de la reclamación del actor civil. La Sala rechaza una duplicidad indemnizatoria con
+    La Sal I por tratarse de responsabilidad solidaria, con derecho de repetición.
+  type: recurso
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Murcia-confirma-la-fianza-de-74-millones-exigida-al-expresidente-autonomico-tras-la-apertura-del-juicio-oral-en-el-caso-La-Sal-II
+- fecha: '2024-10-17'
+  titulo: Se anuncia el calendario de La Sal II para 2027
+  descripcion: Cadena SER, citando al TSJ de Murcia y una diligencia notificada ese día, informa de veintiuna sesiones
+    previstas desde el 15 de septiembre hasta el 9 de noviembre de 2027. Es un señalamiento futuro, cuya celebración
+    no se da por producida.
+  type: juicio
+  urls:
+  - https://cadenaser.com/murcia/2024/10/17/fijan-para-septiembre-de-2027-el-inicio-de-las-sesiones-del-juicio-al-expresidente-ramon-luis-valcarcel-por-el-caso-la-sal-radio-murcia/
+- fecha: '2024-11-11'
+  titulo: Apertura de juicio oral a quince personas en La Sal I
+  descripcion: El Juzgado de Instrucción 5 abre juicio oral por presuntos delitos de prevaricación, fraude y malversación
+    y exige una fianza de 70 millones de euros. La fecha del auto aparece expresamente en la información de ORM
+    de octubre de 2026; el CGPJ comunicó su notificación el 12 de noviembre de 2024. Se dispone además sobreseimiento
+    provisional respecto de dos investigados en otro auto, sin identificación nominal en la nota oficial.
+  type: juicio
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-juez-ordena-la-apertura-de-juicio-oral-a-15-investigados-del-proyecto-de-la-planta-desalinizadora-de-Escombreras--Cartagena-
+  - https://www.orm.es/informativos/confirmada-la-fianza-de-70-millones-de-euros-en-la-causa-de-la-desaladora-de-escombreras/
+- fecha: '2026-10-06'
+  titulo: Se notifican seis autos que mantienen la fianza de La Sal I
+  descripcion: 'La Sección 2 confirma la garantía de 70 millones y rechaza los recursos de las defensas sobre el
+    afianzamiento. Según ORM y SER, las resoluciones no deciden la responsabilidad penal o civil: son garantías
+    de eventuales obligaciones futuras. No cabe recurso ordinario.'
+  type: recurso
+  urls:
+  - https://www.orm.es/informativos/confirmada-la-fianza-de-70-millones-de-euros-en-la-causa-de-la-desaladora-de-escombreras/
+  - https://cadenaser.com/murcia/2026/10/06/la-audiencia-confirma-la-fianza-de-70-millones-en-el-caso-de-la-desaladora-de-escombreras-radio-murcia/
 ---
+
+La investigación distingue dos responsabilidades relacionadas con una misma operación. En **La Sal I**, las diligencias 956/2016 del Juzgado de Instrucción 5 de Murcia examinan las decisiones del Ente Público del Agua y de las sociedades del proyecto, así como la intervención de representantes privados. En **La Sal II**, las diligencias 2313/2019 del Juzgado de Instrucción 1 se dirigen contra Ramón Luis Valcárcel. La Audiencia avaló la continuación de ambas instrucciones en 2023. El archivo previo de la causa contra Valcárcel había sido revocado en marzo de 2022, según la [comunicación judicial](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Murcia-valida-la-instruccion-de-los-dos-procedimientos-que-investigan-las-irregularidades-en-el-proyecto-de-la-desaladora-de-Escombreras).
+
+La tesis acusatoria cuestiona el arrendamiento utilizado para adquirir la planta y el traslado de su carga financiera al sector público. No permite afirmar que se hayan pagado ya 600 millones de euros ni identificar el conjunto de obligaciones contractuales con dinero sustraído. La [información sobre la apertura de La Sal II](https://www.eldiario.es/murcia/politica/jueza-abre-juicio-oral-expresidente-murcia-ramon-luis-valcarcel-delitos-prevaricacion-malversacion-fraude_1_10080738.html) describe esa cifra como un eventual pasivo de la sociedad adquirida. Las cantidades reclamadas como responsabilidad civil proceden de comparar fórmulas alternativas de adquisición; su procedencia y cuantía deben decidirse en juicio.
+
+En La Sal I, la [nota del CGPJ de noviembre de 2024](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-juez-ordena-la-apertura-de-juicio-oral-a-15-investigados-del-proyecto-de-la-planta-desalinizadora-de-Escombreras--Cartagena-) recoge una petición fiscal de ocho años de prisión y una indemnización de 70 millones. La CARM, como actora civil, reclama 74.194.332 euros. La nota no permite individualizar todas las penas de los quince acusados; por eso no se presenta un total penal personalizado para cada uno. Para Valcárcel, la información de marzo de 2023 recoge una petición fiscal de once años y seis meses. Son pretensiones de las acusaciones y no penas impuestas.
+
+Las fianzas de 70 millones en La Sal I y de 74.194.332,55 euros en La Sal II aseguran eventuales responsabilidades. No son multas ni pagos definitivos. La [Audiencia explicó en 2024](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Murcia-confirma-la-fianza-de-74-millones-exigida-al-expresidente-autonomico-tras-la-apertura-del-juicio-oral-en-el-caso-La-Sal-II) que cada posible obligado solidario puede responder del total, conservando el derecho a reclamar a los demás su parte. Por ello, sumar ambas garantías duplicaría responsabilidades vinculadas. La [confirmación comunicada en octubre de 2026](https://www.orm.es/informativos/confirmada-la-fianza-de-70-millones-de-euros-en-la-causa-de-la-desaladora-de-escombreras/) insiste en que la responsabilidad penal o civil se decide en el juicio y en la sentencia.
+
+La apertura de La Sal I también comprende a ACS, Hydro Management, sociedades Cobra, Moncobra y Tedagua como posibles responsables civiles subsidiarios, y a Ariño y Asociados, Despacho González Varas y Arnaldos Abogados como posibles partícipes a título lucrativo. Esas posiciones civiles no equivalen a una acusación penal contra las sociedades. La CARM permanece como perjudicada tras la decisión de la Audiencia de 2023. La misma comunicación de apertura de juicio informa de dos sobreseimientos provisionales, relativos al administrador inicial de Hidromanagement y a un consejero delegado solidario hasta septiembre de 2005; no facilita sus nombres.
+
+La relación de personas de esta ficha recoge únicamente las identidades cuya posición puede describirse con las fuentes citadas y no sustituye la lista completa de acusados. Faltan los autos íntegros y los escritos de acusación para cerrar la relación individual de La Sal I, identificar documentalmente a quienes obtuvieron el sobreseimiento y precisar todas las peticiones penales. Tampoco se ha verificado un señalamiento de esa pieza. Para La Sal II se conserva, con esa limitación temporal, el [calendario anunciado el 17 de octubre de 2024](https://cadenaser.com/murcia/2024/10/17/fijan-para-septiembre-de-2027-el-inicio-de-las-sesiones-del-juicio-al-expresidente-ramon-luis-valcarcel-por-el-caso-la-sal-radio-murcia/), que sitúa el comienzo en septiembre de 2027. La ausencia de una actualización localizada no garantiza que la agenda permanezca inalterada.
