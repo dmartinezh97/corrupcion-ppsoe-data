@@ -1,176 +1,152 @@
 ---
-nombre: "Gürtel/Ayto. de Jerez"
-partido: "PP"
-completado: true
-año: 2009
-fechaInicio: "2009-02-06"
-fechaFin: "2022-02-24"
-estado: "cerrado con condenas"
-descripcion: |
-  La pieza separada del caso Gürtel relacionada con el Ayuntamiento de Jerez investiga la adjudicación irregular de tres contratos públicos a empresas de la trama de Francisco Correa por un montante total de 355.391 euros. Los contratos se otorgaron directamente, de forma verbal y sin concurso público, para la participación de la ciudad de Jerez en la Feria Internacional de Turismo (Fitur) 2004: el montaje del expositor, un espectáculo ecuestre en la Plaza Mayor de Madrid y un espectáculo flamenco en los Jardines de Cecilio Rodríguez del Retiro. Las empresas beneficiadas fueron Special Events SL y Down Town Consulting, ambas del entramado de Correa. Isidro Cuberos García, exjefe de prensa del PP andaluz y hombre de confianza de Javier Arenas, actuó como intermediario cobrando una comisión de 53.355 euros facturada a Special Events. Cuberos falleció en un accidente de moto en octubre de 2015, cuando se encontraba imputado en la causa.
-
-  Las adjudicaciones se realizaron a través del Instituto de Promoción y Desarrollo de la Ciudad de Jerez (IPDC), un organismo autónomo dependiente del Ayuntamiento, vulnerando los principios de publicidad, concurrencia, igualdad, objetividad y transparencia. Una vez celebrados los eventos, se elaboraron expedientes administrativos y contables con fechas falsas para dar apariencia de legalidad. La exalcaldesa María José García-Pelayo fue investigada por prevaricación, pero el Tribunal Supremo archivó la causa contra ella en 2016 al no poder acreditar que conociera la ilicitud de las adjudicaciones. En 2019, Isabel Jordán declaró que García-Pelayo había participado en reuniones donde se planeó el beneficio a la trama, lo que llevó a la Fiscalía a pedir la reapertura del caso; el Supremo la denegó definitivamente en 2020 por prescripción.
-
-  La Audiencia Nacional condenó el 20 de noviembre de 2019 a Francisco Correa y Pablo Crespo a tres años de prisión y siete de inhabilitación como cooperadores necesarios en delitos continuados de falsedad cometida por funcionario público y prevaricación. También fueron condenados Javier Nombela Olmo (2 años y 3 meses) y Felisa Isabel Jordán Goncet (1 año y 2 meses). Los cinco funcionarios municipales acusados —María del Milagro Pérez, Milagros Abascal, José Enrique Agüera, Lourdes Montenegro y Manuel Báez— fueron absueltos por prescripción, pese a que el tribunal reconoció su participación "con pleno conocimiento" en la adjudicación ilegal. El Tribunal Supremo ratificó estas condenas en febrero de 2022.
-
-resumen: "Adjudicación irregular de contratos de Fitur 2004 a la trama Gürtel sin concurso público"
-coste: 355391
-lugar: "Jerez de la Frontera, Cádiz, Andalucía"
+nombre: Gürtel/Ayto. de Jerez
+partido: PP
+completado: false
+año: 2004
+estado: cerrado con condenas
+descripcion: Pieza de Gürtel sobre tres contratos para promocionar Jerez en Fitur 2004, adjudicados a empresas de
+  Correa y encubiertos mediante expedientes antedatados. La casación resuelta en 2022 mantuvo las penas de prisión
+  de Correa y Crespo, redujo la de Nombela y corrigió las condenas y absoluciones por prevaricación. Los cinco empleados
+  municipales quedaron absueltos de prevaricación por no ser delictivos los hechos que se les atribuían y de falsedad
+  por prescripción. La causa separada de García-Pelayo terminó archivada. No se ha comprobado la ejecución individual
+  de todas las penas ni todos los incidentes posteriores; la libertad condicional de Crespo conocida en 2026 se
+  refiere al cumplimiento conjunto de sus condenas.
+resumen: 'Contratos de Fitur 2004 en Jerez: condenas de miembros de Gürtel revisadas en casación y absolución de
+  los cinco empleados municipales.'
+lugar: Jerez de la Frontera, Cádiz, Andalucía
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 5 - Juez José de la Mata - Fiscalía Anticorrupción"
-  - "Tribunal Supremo - Sala de lo Penal"
-numeroSentencia: "STS 558/2022"
+- Juzgado Central de Instrucción n.º 5 de la Audiencia Nacional
+- Audiencia Nacional, Sala de lo Penal, Sección Segunda
+- Tribunal Supremo, Sala de lo Penal
+numeroSentencia: SAN 23/2019, de 20 de noviembre; STS 86/2022, de 31 de enero (ROJ STS 396/2022)
 implicados:
-  - nombre: "Francisco Correa"
-    cargo: "Empresario, cabecilla de la trama Gürtel"
-    rol: "Condenado a 3 años de prisión por falsedad y prevaricación"
-
-  - nombre: "Pablo Crespo"
-    cargo: "Mano derecha de Francisco Correa en la trama Gürtel"
-    rol: "Condenado a 3 años de prisión por falsedad y prevaricación"
-
-  - nombre: "Javier Nombela Olmo"
-    cargo: "Empleado de empresas de la trama Gürtel"
-    rol: "Condenado a 2 años y 3 meses de prisión por falsedad"
-
-  - nombre: "Felisa Isabel Jordán Goncet"
-    cargo: "Administradora de empresas de la trama Gürtel"
-    rol: "Condenada a 1 año y 2 meses de prisión por falsedad"
-
-  - nombre: "Isidro Cuberos García"
-    cargo: "Exjefe de prensa del PP andaluz y de Javier Arenas"
-    rol: "Intermediario entre Correa y el Ayuntamiento; falleció en accidente en 2015"
-
-  - nombre: "María José García-Pelayo"
-    cargo: "Alcaldesa de Jerez (PP) 2003-2005"
-    rol: "Investigada por prevaricación; causa archivada por prescripción en 2020"
-
-  - nombre: "José Enrique Agüera"
-    cargo: "Director del Instituto de Promoción y Desarrollo de Jerez (IPDC)"
-    rol: "Absuelto por prescripción pese a participar en la adjudicación ilegal"
-
-  - nombre: "María del Milagro Pérez"
-    cargo: "Interventora municipal del Ayuntamiento de Jerez"
-    rol: "Absuelta por prescripción pese a participar en la adjudicación ilegal"
-
-  - nombre: "Milagros Abascal"
-    cargo: "Interventora del Ayuntamiento de Jerez"
-    rol: "Absuelta por prescripción pese a participar en la adjudicación ilegal"
-
-  - nombre: "Lourdes Montenegro"
-    cargo: "Empleada del IPDC del Ayuntamiento de Jerez"
-    rol: "Absuelta por prescripción pese a participar en la adjudicación ilegal"
-
-  - nombre: "Manuel Báez"
-    cargo: "Exsecretario del Ayuntamiento de Jerez"
-    rol: "Absuelto por prescripción pese a participar en la adjudicación ilegal"
-
+- nombre: Francisco Correa
+  cargo: Responsable del grupo empresarial Gürtel
+  rol: Condena confirmada de tres años de prisión y multa de 36.000 euros por cooperación necesaria en falsedad
+    continuada; mantiene siete años de inhabilitación por cooperación necesaria en prevaricación.
+- nombre: Pablo Crespo
+  cargo: Gerente de las empresas del grupo Correa
+  rol: Tres años de prisión y multa de 36.000 euros por falsedad; absuelto de prevaricación en casación. Obtuvo
+    libertad condicional en marzo de 2026 en la ejecución conjunta de sus condenas.
+- nombre: Javier Nombela Olmo
+  cargo: Empleado de las empresas del grupo Correa
+  rol: Pena por falsedad reducida en casación de dos años y tres meses a un año y tres meses de prisión; absuelto
+    de prevaricación.
+- nombre: Felisa Isabel Jordán Goncet
+  cargo: Administradora de empresas del grupo Correa
+  rol: Un año y dos meses de prisión por cooperación necesaria en falsedad. Absuelta de prevaricación en casación
+    por extensión del recurso de otro condenado.
+- nombre: Isidro Cuberos García
+  cargo: Exjefe de prensa del PP andaluz e intermediario con el Ayuntamiento
+  rol: Investigado por su intermediación; falleció en 2015 antes del juicio. No fue condenado en esta pieza.
+- nombre: María José García-Pelayo
+  cargo: Alcaldesa de Jerez por el PP durante Fitur 2004; posteriormente aforada
+  rol: Causa separada sobreseída provisionalmente en 2016. La reapertura fue rechazada por prescripción en 2020
+    y volvió a rechazarse en 2021, cuando se comunicó el archivo definitivo.
+- nombre: José Enrique Agüera González
+  cargo: Exdirector del Instituto de Promoción y Desarrollo de la Ciudad de Jerez (IPDC)
+  rol: Absuelto. El Supremo descarta prevaricación por falta de delito en su actuación y mantiene la absolución
+    por falsedad prescrita.
+- nombre: María del Milagro Pérez Pérez
+  cargo: Interventora municipal de Jerez durante los hechos
+  rol: Absuelta. El Supremo descarta prevaricación por falta de delito en su actuación y mantiene la absolución
+    por falsedad prescrita.
+- nombre: Milagros Abascal Torres
+  cargo: Interventora delegada del IPDC
+  rol: Absuelta. El Supremo descarta prevaricación por falta de delito en su actuación y mantiene la absolución
+    por falsedad prescrita.
+- nombre: Lourdes Montenegro Pacheco
+  cargo: Técnico superior del IPDC
+  rol: Absuelta. El Supremo descarta prevaricación por falta de delito en su actuación y mantiene la absolución
+    por falsedad prescrita.
+- nombre: Manuel Báez Guzmán
+  cargo: Secretario general del Ayuntamiento y secretario sustituto del IPDC
+  rol: Absuelto. El Supremo descarta prevaricación por falta de delito en su actuación y mantiene la absolución
+    por falsedad prescrita.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "falsedad en documento público"
-  - "contratación pública irregular"
-  - "tráfico de influencias"
-
-impactoSocial: "Caso que formó parte del macrocaso Gürtel, evidenciando la extensión de la trama corrupta a nivel local en Andalucía. La investigación de la exalcaldesa García-Pelayo, que posteriormente volvió a ser alcaldesa de Jerez y fue elegida presidenta de la FEMP en 2023, generó intensa controversia política por su continuidad en posiciones de responsabilidad pese a haber sido investigada."
-
+- contratación pública
+- falsedad documental
+- prevaricación
+- Gürtel
+impactoSocial: La pieza mostró las adjudicaciones y la posterior elaboración de expedientes para la promoción turística
+  de Jerez. La casación diferenció la responsabilidad de los empresarios de la situación de los empleados municipales
+  y de la causa separada de la alcaldesa.
 documentos: []
-
 cronologia:
-  - fecha: "2004-01-28"
-    titulo: "Adjudicación verbal de contratos para Fitur 2004"
-    descripcion: "El Instituto de Promoción y Desarrollo de la Ciudad de Jerez (IPDC) adjudica verbalmente y sin concurso público tres contratos a las empresas Special Events y Down Town Consulting, del entramado de Francisco Correa, para la participación de Jerez en la Feria Internacional de Turismo (Fitur) celebrada entre el 28 de enero y el 1 de febrero de 2004. Los contratos incluyen el montaje del expositor, un espectáculo ecuestre en la Plaza Mayor de Madrid y un espectáculo flamenco en los Jardines del Retiro. El importe total asciende a 214.028 euros. Posteriormente se elaborarán expedientes con fechas falsas para aparentar legalidad."
-    type: "resumen"
-    urls:
-      - "https://www.lavozdelsur.es/fitur-2004-cronologia-de-un-procedimiento-que-nunca-existio/"
-
-  - fecha: "2009-02-06"
-    titulo: "Operación Gürtel: detención de Francisco Correa"
-    descripcion: "La Guardia Civil detiene a Francisco Correa y otros miembros de la trama en la denominada Operación Gürtel, que investiga una red de corrupción vinculada al PP con ramificaciones en distintas administraciones locales. Esta operación desencadenará múltiples piezas separadas, incluida la relacionada con el Ayuntamiento de Jerez."
-    type: "detención"
-    urls:
-      - "https://www.publico.es/politica/correa-crespo-condenados-otros-3-anos-prision-guertel-jerez.html"
-
-  - fecha: "2014-09-15"
-    titulo: "Reapertura de la investigación sobre contratos en Jerez"
-    descripcion: "El juez Pablo Ruz reabre la investigación sobre la trama Gürtel en Andalucía tras recibir información sobre adjudicaciones irregulares en Jerez durante el mandato de la alcaldesa García-Pelayo. El juzgado Central de Instrucción nº 5 abre diligencias por los tres contratos de Fitur 2004 adjudicados sin concurso a empresas del Grupo Correa."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/andalucia/gurtel-andalucia-jerez_1_4445315.html"
-
-  - fecha: "2014-10-20"
-    titulo: "Declaración de María José García-Pelayo como investigada"
-    descripcion: "La exalcaldesa de Jerez y entonces senadora del PP declara ante el juez de la Audiencia Nacional por su presunta responsabilidad en las adjudicaciones irregulares a empresas de la trama Gürtel para Fitur 2004. García-Pelayo negó conocer la ilicitud de las adjudicaciones que firmó como alcaldesa."
-    type: "declaración"
-    urls:
-      - "https://www.eldiario.es/andalucia/declara-maria-garcia-pelayo-gurtel_1_4142835.html"
-
-  - fecha: "2015-04-20"
-    titulo: "Imputación de Isidro Cuberos como intermediario de la trama"
-    descripcion: "El juez Pablo Ruz imputa a Isidro Cuberos García, exjefe de prensa del PP andaluz y hombre de confianza de Javier Arenas, por su papel como intermediario entre las empresas del Grupo Correa y el Ayuntamiento de Jerez. La Policía acredita que Cuberos cobró una comisión de 53.355 euros a través de su empresa Cuberos Comunicación SL, facturada a Special Events SL. Cuberos se niega a declarar ante el juez."
-    type: "imputación"
-    urls:
-      - "https://www.forocompol.com/index.php/profesionales/imputan-en-la-trama-guertel-a-isidro-cuberos-historico-jefe-de-prensa-de-javier-arenas"
-      - "https://prnoticias.com/2019/09/12/caso-gurtel-dircom-partido-popular/"
-
-  - fecha: "2015-10-29"
-    titulo: "Fallecimiento de Isidro Cuberos, imputado clave"
-    descripcion: "El cuerpo de Isidro Cuberos García es encontrado en un barranco del término municipal de Mijas (Málaga) junto a su motocicleta, tras una semana de búsqueda desde su desaparición. Cuberos, que se encontraba imputado en la pieza de Jerez del caso Gürtel y era considerado un intermediario clave entre la trama y el Ayuntamiento, fallece antes de ser juzgado."
-    type: "resumen"
-    urls:
-      - "https://lapasion.andaluciainformacion.es/jerez/544098/isidro-cuberos-imputado-por-el-caso-grtel-fallece-en-accidente-de-trafico/"
-      - "https://www.elplural.com/autonomias/andalucia/hallado-muerto-en-un-terraplen-junto-a-su-moto-el-periodista-isidro-cuberos-imputado-en-la-guertel_93405102"
-
-  - fecha: "2016-05-13"
-    titulo: "El Supremo archiva la causa contra García-Pelayo"
-    descripcion: "El Tribunal Supremo sobreseyó la causa contra la exalcaldesa María José García-Pelayo alegando que no se pudo acreditar que conociera la ilicitud de las adjudicaciones firmadas. El magistrado instructor argumentó que no es exigible que un alcalde contraste todas las decisiones en un ayuntamiento del tamaño del de Jerez."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/andalucia/Supremo-archiva-causa-exalcaldesa-Jerez_0_510599452.html"
-
-  - fecha: "2017-06-15"
-    titulo: "Confesión de Isabel Jordán implica a García-Pelayo"
-    descripcion: "Isabel Jordán Goncet, administradora de varias empresas de Gürtel, declara en el marco del juicio de la trama e implica a García-Pelayo en la preparación del amaño. Según su declaración, la exalcaldesa participó en dos reuniones previas al contrato donde se decidió beneficiar a la red de corrupción, y Pablo Crespo anunció que sus empresas organizarían tres eventos por adjudicación directa de la alcaldesa."
-    type: "declaración"
-    urls:
-      - "https://www.eldiario.es/politica/francisco-correa-gurtel-pp-cadiz_1_1275788.html"
-
-  - fecha: "2019-06-03"
-    titulo: "Inicio del juicio oral por los contratos de Fitur 2004"
-    descripcion: "Comienza el juicio oral ante la Sección Segunda de la Sala de lo Penal de la Audiencia Nacional contra Francisco Correa, Pablo Crespo y siete personas más por los tres contratos irregulares adjudicados a las empresas de la trama para la participación de Jerez en Fitur 2004. El juicio se prolonga durante los meses de junio, julio y septiembre de 2019."
-    type: "investigación"
-    urls:
-      - "https://www.publico.es/politica/trama-guertel-correa-juicio-lunes-contratos-trama-guertel-ayuntamiento-jerez.html"
-
-  - fecha: "2019-10-28"
-    titulo: "Fiscalía solicita reapertura del caso contra García-Pelayo"
-    descripcion: "La Fiscalía del Tribunal Supremo solicita que se reabra la causa contra la exalcaldesa García-Pelayo por su responsabilidad en las adjudicaciones a la trama Gürtel, argumentando que las declaraciones de Isabel Jordán constituyen nuevos y relevantes elementos probatorios no disponibles cuando se archivó la causa en 2016."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/politica/fiscalia-supremo-gurtel-pp-cadiz_1_1277871.html"
-
-  - fecha: "2019-11-20"
-    titulo: "Audiencia Nacional condena a Correa y Crespo a 3 años de cárcel"
-    descripcion: "La Audiencia Nacional dicta la sentencia nº 23/2019 condenando a Francisco Correa y Pablo Crespo a tres años de prisión y siete de inhabilitación como cooperadores necesarios en delitos continuados de falsedad cometida por funcionario público y prevaricación. También condena a Javier Nombela Olmo (2 años y 3 meses) y Felisa Isabel Jordán Goncet (1 año y 2 meses). Absuelve a los cinco funcionarios municipales acusados —María del Milagro Pérez, Milagros Abascal, José Enrique Agüera, Lourdes Montenegro y Manuel Báez— por prescripción, aunque reconoce su participación activa con pleno conocimiento de la ilegalidad."
-    type: "sentencia"
-    urls:
-      - "https://www.publico.es/politica/correa-crespo-condenados-otros-3-anos-prision-guertel-jerez.html"
-      - "https://confilegal.com/20191120-la-audiencia-nacional-condena-a-tres-anos-de-prision-a-correa-y-a-crespo-por-los-contratos-en-jerez/"
-      - "https://www.lavozdelsur.es/actualidad/politica/absueltos-todos-los-funcionarios-del-ayuntamiento-implicados-en-la-pieza-jerezana-de-la-gurtel_142790_102.html"
-
-  - fecha: "2020-12-18"
-    titulo: "Supremo rechaza definitivamente la reapertura contra García-Pelayo"
-    descripcion: "El Tribunal Supremo deniega definitivamente la reapertura de la causa contra la exalcaldesa de Jerez por estar los hechos prescritos, a pesar de las nuevas evidencias presentadas por la Fiscalía y la confesión de Isabel Jordán que la implicaba directamente en reuniones de planificación del amaño."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/politica/supremo-exalcaldesa-jerez-gurtel-prescrito_1_5957909.html"
-
-  - fecha: "2022-02-24"
-    titulo: "Supremo ratifica condenas: sentencia firme de Gürtel Jerez"
-    descripcion: "El Tribunal Supremo confirma en sentencia firme las condenas de tres años de cárcel para Francisco Correa y Pablo Crespo por la pieza del Ayuntamiento de Jerez del caso Gürtel. La sentencia cierra definitivamente este procedimiento judicial, siendo la quinta sentencia firme del macrocaso Gürtel."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/politica/supremo-confirma-3-anos-carcel-correa-actividad-gurtel-jerez_1_8748139.html"
-      - "https://confilegal.com/20220215-el-supremo-confirma-3-anos-de-carcel-para-correa-y-crespo-por-adjudicacion-ilicita-de-tres-contratos-con-jerez-para-fitur-2004/"
-
+- fecha: '2004-01-28'
+  titulo: Comienza Fitur 2004
+  descripcion: Los servicios contratados para el expositor y los actos ecuestre y flamenco se prestaron entre el
+    28 de enero y el 1 de febrero. Esta fecha es el inicio de la feria, no el día de adjudicación; los expedientes
+    se confeccionaron posteriormente con fechas anteriores.
+  type: resumen
+  relevancia: media
+  urls:
+  - https://www.iberley.es/jurisprudencia/sentencia-penal-n-86-2022-ts-sala-penal-sec-1-rec-325-2020-31-01-2022-48401736
+- fecha: '2015-11-05'
+  titulo: Se conoce la propuesta de juzgar a nueve investigados
+  descripcion: El instructor concluye la investigación de esta pieza y propone juzgar a miembros del grupo Correa
+    y empleados municipales. La causa de la aforada García-Pelayo se tramita separadamente en el Supremo.
+  type: investigacion
+  relevancia: media
+  urls:
+  - https://cadenaser.com/ser/2015/11/05/tribunales/1446740406_456823.html
+- fecha: '2016-04-29'
+  titulo: Se conoce el sobreseimiento provisional de García-Pelayo
+  descripcion: Europa Press informa del archivo de su causa separada al no acreditarse que conociera las irregularidades.
+    Fecha de publicación, no del auto.
+  type: investigacion
+  relevancia: media
+  urls:
+  - https://www.europapress.es/nacional/noticia-gurtel-ts-archiva-causa-contra-exalcaldesa-jerez-garcia-pelayo-contratos-trama-20160429141338.html
+- fecha: '2019-11-20'
+  titulo: Sentencia de la Audiencia Nacional
+  descripcion: La Audiencia condena a Correa, Crespo, Nombela y Jordán y absuelve a cinco empleados municipales.
+    Los términos de esta sentencia fueron modificados en casación en 2022.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.rtve.es/noticias/20191120/correa-crespo-condenados-a-tres-anos-carcel-por-rama-guertel-jerez/1992157.shtml
+- fecha: '2020-05-14'
+  titulo: Se conoce el rechazo a reabrir la causa de García-Pelayo
+  descripcion: El instructor del Supremo rechaza la reapertura pedida por la Fiscalía por considerar prescritos
+    los hechos. Fecha de publicación.
+  type: recurso
+  relevancia: media
+  urls:
+  - https://www.eldiario.es/politica/supremo-exalcaldesa-jerez-gurtel-prescrito_1_5957909.html
+- fecha: '2021-05-05'
+  titulo: Se conoce el archivo definitivo de la causa de García-Pelayo
+  descripcion: Radio Jerez informa de un nuevo rechazo de la reapertura y del archivo definitivo. La noticia recoge
+    información de fuentes del PP; no se aporta aquí el auto original ni se identifica esta fecha con la de su firma.
+  type: recurso
+  relevancia: media
+  urls:
+  - https://cadenaser.com/emisora/2021/05/05/radio_jerez/1620213571_709911.html
+- fecha: '2022-02-15'
+  titulo: Se conoce la sentencia de casación
+  descripcion: Se publica la STS 86/2022, de 31 de enero. Mantiene tres años de prisión a Correa y Crespo, reduce
+    a un año y tres meses la pena de Nombela y modifica los pronunciamientos de prevaricación. La noticia describe
+    condenas firmes; el hito es la publicación.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/politica/supremo-confirma-3-anos-carcel-correa-actividad-gurtel-jerez_1_8748139.html
+  - https://confilegal.com/20220215-el-supremo-confirma-3-anos-de-carcel-para-correa-y-crespo-por-adjudicacion-ilicita-de-tres-contratos-con-jerez-para-fitur-2004/
+- fecha: '2026-03-27'
+  titulo: Libertad condicional de Crespo en la ejecución conjunta
+  descripcion: RTVE informa de la libertad condicional anticipada concedida por el juez de Vigilancia Penitenciaria
+    tras más de doce años de prisión. La medida afecta al cumplimiento conjunto de sus condenas y no modifica por
+    sí sola el fallo de esta pieza.
+  type: resumen
+  relevancia: media
+  urls:
+  - https://amp.rtve.es/noticias/20260327/juez-pone-libertad-condicional-a-pablo-crespo-numero-dos-guertel-tras-mas-12-anos-prision/17001537.shtml
 ---
+
+La pieza se limitó a los contratos de promoción de Jerez en Fitur 2004: el expositor, un espectáculo ecuestre y otro flamenco. El importe recogido en los hechos probados fue de 214.028,71 euros. Es volumen de contratación, no una cuantificación del perjuicio ni una suma de multas. Las empresas seleccionadas fueron Special Events y Down Town Consulting y la contratación se articuló a través del IPDC. [Hechos y resultado de casación](https://confilegal.com/20220215-el-supremo-confirma-3-anos-de-carcel-para-correa-y-crespo-por-adjudicacion-ilicita-de-tres-contratos-con-jerez-para-fitur-2004/).
+
+La sentencia de la Audiencia Nacional de noviembre de 2019 no puede describirse como confirmada íntegramente. En casación, Correa conservó la condena por prevaricación, mientras Crespo, Nombela y Jordán fueron absueltos de ese delito. Los cinco empleados municipales tampoco fueron condenados: el Supremo descartó la prevaricación en sus actuaciones y mantuvo la absolución por falsedad prescrita. [Modificaciones del fallo](https://confilegal.com/20220215-el-supremo-confirma-3-anos-de-carcel-para-correa-y-crespo-por-adjudicacion-ilicita-de-tres-contratos-con-jerez-para-fitur-2004/) y [situación tras los recursos](https://www.eldiario.es/politica/supremo-confirma-3-anos-carcel-correa-actividad-gurtel-jerez_1_8748139.html).
+
+García-Pelayo no fue condenada en esta pieza. Su condición de aforada motivó una causa separada, archivada provisionalmente en 2016. La Fiscalía pidió reabrirla tras declaraciones prestadas en el juicio de 2019; el instructor lo rechazó en 2020 por prescripción. En mayo de 2021 se informó del rechazo posterior y del archivo definitivo. No se dispone aquí de los autos originales para precisar sus fechas y efectos procesales individuales. [Archivo inicial](https://www.europapress.es/nacional/noticia-gurtel-ts-archiva-causa-contra-exalcaldesa-jerez-garcia-pelayo-contratos-trama-20160429141338.html), [rechazo de 2020](https://www.eldiario.es/politica/supremo-exalcaldesa-jerez-gurtel-prescrito_1_5957909.html) y [noticia de 2021](https://cadenaser.com/emisora/2021/05/05/radio_jerez/1620213571_709911.html).
+
+La libertad condicional de Crespo comunicada en marzo de 2026 pertenece a la ejecución conjunta de sus condenas por Gürtel. No permite atribuir a esta sola pieza todos sus años efectivos de prisión ni determinar el cumplimiento de las penas de los demás condenados. [Ejecución de Crespo en 2026](https://amp.rtve.es/noticias/20260327/juez-pone-libertad-condicional-a-pablo-crespo-numero-dos-guertel-tras-mas-12-anos-prision/17001537.shtml).
