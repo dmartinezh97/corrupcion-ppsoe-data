@@ -36,7 +36,7 @@ implicados:
       durante la controversia competencial. No se acredita aquí resolución penal individual posterior.
   - nombre: María Ángeles Palacios Sánchez
     cargo: Exconcejala de Hacienda y exconsejera regional de Sanidad
-    rol: Citado para declarar como investigado en las pesquisas conocidas en 2018. Las citaciones quedaron sin efecto
+    rol: Citada para declarar como investigada en las pesquisas conocidas en 2018. Las citaciones quedaron sin efecto
       durante la controversia competencial. No se acredita aquí resolución penal individual posterior.
   - nombre: José Cabezos Navarro
     cargo: Exconcejal de Hacienda y exvicealcalde de Cartagena
@@ -183,3 +183,5 @@ La denuncia contable de 6 de febrero de 2023 atribuyó a la gestión de la conce
 La sentencia 463/2024 del TSJ de Murcia pertenece al recurso tarifario de José López e Isabel García. Su fallo desestima la apelación y confirma la sentencia de instancia, con razonamiento central sobre la falta de interés legítimo acreditado para las pretensiones concretas. No condena por corrupción a los antiguos responsables municipales ni resuelve la investigación por viajes. Su texto permite preparar casación y no basta para afirmar firmeza. Los importes de inversión, el coste de desplazamientos, las estimaciones de sobrecostes, las costas procesales y los fondos sujetos a reclamación son conceptos distintos, por lo que no se ofrece un coste global.
 
 Fuentes: [anuncio municipal de personación](https://www.cartagena.es/detalle_noticias_imprimir.asp?id=42190), [información sobre viajes](https://www.eldiario.es/murcia/politica/caso-pokemon-pilar-barreiro-pp_1_3076666.html), [decisiones de competencia de marzo de 2018](https://www.europapress.es/asturias/noticia-audiencia-lugo-rechaza-recurso-caunedo-pp-acortar-instruccion-caso-aquagest-20180329101622.html), [suspensión de citaciones](https://elpais.com/ccaa/2018/05/05/galicia/1525509104_246711.html), [auto del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=adca95ac98170f1e&encode=true&databasematch=AN), [denuncia contable](https://www.vozpopuli.com/economia/denuncian-tribunal-de-cuentas-presunto-desvio-45-m-publicos-aguas-de-barcelona.html), [información de octubre de 2024](https://murciaplaza.com/murciaplaza/dos-frentes-judiciales-desestiman-las-denuncias-sobre-la-gestion-del-agua-en-cartagena) y [sentencia administrativa](https://www.cartagena.es/gestion/documentos/79412.pdf). No se ha acreditado una resolución posterior específica de estos procedimientos hasta el 15 de octubre de 2026.
+
+La [información de Diario 16 sobre las citaciones](https://diario16plus.com/actualidad/el-caso-pokemon-se-extendera-a-otros-municipios-de-la-region-de-murcia_70516_102.html) identifica a los siete citados. Falta la resolución nominal íntegra para contrastar su situación individual posterior.
