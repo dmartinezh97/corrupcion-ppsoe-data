@@ -1,148 +1,114 @@
 ---
 nombre: "Gran Alacant"
 partido: "PP"
-completado: true
+completado: false
 año: 2016
-fechaInicio: "2005-01-01"
-fechaFin: "2025-05-16"
-estado: "cerrado con condenas"
+estado: "desconocido"
 descripcion: |
-  El caso Gran Alacant es un escándalo de corrupción municipal en Santa Pola (Alicante) que afectó al Ayuntamiento durante los mandatos del alcalde del PP Miguel Zaragoza (2003-2015). El núcleo del caso es la concesión irregular de un edificio municipal en la urbanización de Gran Alacant a la empresa privada Clínica Gran Alacant SL, que operó durante una década sin pagar renta, suministros de agua y electricidad ni el canon anual acordado por contrato. A cambio, la clínica contrató a familiares y afines al PP local, incluyendo a la hermana del propio alcalde, Pilar Zaragoza, como empleada del centro.
+  Procedimiento por la gestión de una clínica privada en dependencias municipales de Gran Alacant, en Santa Pola (Alicante). La sentencia 192/2025 de la Audiencia Provincial de Alicante, de 13 de mayo, consideró probado que el entonces alcalde del PP Miguel Zaragoza y el concejal de Personal Jorge Perelló toleraron incumplimientos de la concesionaria a cambio de contratar a personas de su entorno. El contrato de concesión se firmó el 13 de marzo de 2006; preveía un canon anual de 10.920 euros y diversas prestaciones, entre ellas el seguimiento de bajas del personal municipal.
 
-  La trama fue descubierta tras el acceso al gobierno municipal de la alcaldesa socialista Yolanda Seva en 2015, que detectó los impagos y la presencia de personal municipal trabajando en la clínica privada. El nuevo equipo de gobierno presentó una denuncia ante la Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional, que instruyó la investigación. El Juzgado de Instrucción número 2 de Elche abrió diligencias en 2016, investigando a varias personas por presuntos delitos de prevaricación, cohecho y negociaciones prohibidas a funcionarios. La deuda acumulada por la clínica con el consistorio ascendía a 109.371 euros en concepto de renta y suministros impagados.
+  La Audiencia condenó a Zaragoza, Perelló y los médicos Fernando Gómez Soler y Manuel Rodríguez Bernal a seis años y medio de prisión para cada uno por prevaricación en concurso con fraude y por cohecho. Pilar Zaragoza recibió dos años y tres meses como cómplice de cohecho. Loreto Cascales, Francisco Martín y Antonio Jesús Martínez fueron absueltos. La indemnización de 109.371,96 euros corresponde solidariamente a los cuatro primeros condenados, no a Pilar; de ella ya se habían abonado 13.022,96 euros.
 
-  Tras casi siete años de instrucción, el juicio oral se celebró en febrero de 2024 ante la sección undécima de la Audiencia Provincial de Alicante, con sede en Elche. En mayo de 2025, el tribunal dictó sentencia condenando al exalcalde Miguel Zaragoza y al exconcejal de Personal Jorge Perelló a seis años y medio de prisión por prevaricación, fraude y cohecho. También fueron condenados los dos médicos gestores de la clínica y la hermana del alcalde. El caso evidenció cómo el PP local utilizó recursos públicos municipales para beneficiar a una red de afines partidistas.
-
-resumen: "El PP de Santa Pola cedió un edificio municipal gratis a una clínica privada a cambio de contratar a familiares y afines del partido"
-coste: 109371
+  El 21 de mayo de 2025 se informó de una aclaración de la Audiencia que habilitaba la apelación ante el Tribunal Superior de Justicia valenciano, corrigiendo la indicación inicial de casación directa. No se ha verificado la resolución de una eventual apelación, la firmeza individual de los pronunciamientos ni nuevas decisiones de este procedimiento en 2026. El estado actual queda, por tanto, sin determinar: la condena de primera instancia no se presenta como firme ni como cierre definitivo.
+resumen: "Condenas de primera instancia por la gestión de la clínica Gran Alacant y absolución de tres acusados; firmeza posterior no verificada"
 lugar: "Santa Pola, Alicante, Comunidad Valenciana"
 tribunal:
-  - "Audiencia Provincial de Alicante (Sección Undécima, sede Elche)"
-numeroSentencia: ""
+  - "Juzgado de Instrucción número 2 de Elche"
+  - "Audiencia Provincial de Alicante - Sección Undécima, sede en Elche"
+numeroSentencia: "Sentencia 192/2025, de 13 de mayo, Audiencia Provincial de Alicante, Sección Undécima"
 implicados:
   - nombre: "Miguel Zaragoza"
-    cargo: "Exalcalde de Santa Pola (PP, 2003-2015)"
-    rol: "Condenado a 6 años y medio por prevaricación, fraude y cohecho"
-
+    cargo: "Alcalde de Santa Pola (PP) entre 2003 y 2015"
+    rol: "Condenado en primera instancia a dos años de prisión por prevaricación en concurso con fraude y cuatro años y seis meses por cohecho, además de multa e inhabilitaciones. Firmeza posterior no verificada."
   - nombre: "Jorge Perelló"
-    cargo: "Exconcejal de Personal del Ayuntamiento de Santa Pola (PP)"
-    rol: "Condenado a 6 años y medio por prevaricación, fraude y cohecho"
-
+    cargo: "Concejal de Personal de Santa Pola (PP) en 2003-2007 y 2011-2015"
+    rol: "Condenado en primera instancia a dos años de prisión por prevaricación en concurso con fraude y cuatro años y seis meses por cohecho, además de multa e inhabilitaciones. Firmeza posterior no verificada."
   - nombre: "Pilar Zaragoza"
-    cargo: "Hermana del exalcalde y empleada de la clínica"
-    rol: "Condenada a 2 años y 3 meses como cómplice de cohecho"
-
+    cargo: "Trabajadora contratada por la clínica; hermana de Miguel Zaragoza y pareja de Jorge Perelló"
+    rol: "Condenada en primera instancia a dos años y tres meses de prisión como cómplice de cohecho, nueve meses de multa a doce euros diarios e inhabilitación. No figura entre los cuatro obligados solidarios a la indemnización municipal. Firmeza posterior no verificada."
   - nombre: "Fernando Gómez Soler"
-    cargo: "Médico, gestor de la Clínica Gran Alacant SL"
-    rol: "Condenado a 6 años y medio como cooperador necesario"
-
+    cargo: "Médico y apoderado de Clínica Gran Alacant SL"
+    rol: "Condenado en primera instancia a dos años de prisión como cooperador necesario en prevaricación en concurso con fraude y cuatro años y seis meses como autor de cohecho, además de multa e inhabilitaciones. Firmeza posterior no verificada."
   - nombre: "Manuel Rodríguez Bernal"
-    cargo: "Médico, gestor de la Clínica Gran Alacant SL"
-    rol: "Condenado a 6 años y medio como cooperador necesario"
-
+    cargo: "Médico y administrador único de Clínica Gran Alacant SL"
+    rol: "Condenado en primera instancia a dos años de prisión como cooperador necesario en prevaricación en concurso con fraude y cuatro años y seis meses como autor de cohecho, además de multa e inhabilitaciones. Firmeza posterior no verificada."
   - nombre: "Loreto Cascales"
-    cargo: "Exconcejal del PP y exdiputada nacional"
-    rol: "Investigada por prevaricación; absuelta en sentencia final"
-
+    cargo: "Concejala de Gran Alacant (PP) durante los hechos y exdiputada nacional"
+    rol: "Absuelta en primera instancia: no se acreditó que conociera los acuerdos ilícitos ni que decidiera sobre la concesión. Firmeza individual posterior no verificada."
   - nombre: "Francisco Martín"
-    cargo: "Exconcejal de Deportes del Ayuntamiento de Santa Pola (PP)"
-    rol: "Acusado de negociaciones prohibidas a funcionarios; absuelto"
-
+    cargo: "Trabajador de la clínica y posterior concejal de Deportes de Santa Pola (PP)"
+    rol: "Absuelto en primera instancia: no se acreditó que conociera el pacto que motivó su contratación. Firmeza individual posterior no verificada."
   - nombre: "Antonio Jesús Martínez"
-    cargo: "Empleado de la clínica"
-    rol: "Acusado en el procedimiento; absuelto en sentencia final"
-
+    cargo: "Trabajador contratado por la clínica y posterior asesor municipal"
+    rol: "Absuelto en primera instancia: no se acreditó que conociera el pacto que motivó su contratación. Firmeza individual posterior no verificada."
+  - nombre: "Clínica Gran Alacant SL"
+    cargo: "Sociedad concesionaria del local municipal"
+    rol: "Condenada en primera instancia como persona jurídica por cohecho a tres años de multa a doce euros diarios y cuatro años de inhabilitación para ayudas, contratación pública y beneficios fiscales y de Seguridad Social. Responsable civil subsidiaria por los dos médicos; firmeza posterior no verificada."
 tags:
-  - "corrupción"
   - "prevaricación"
   - "cohecho"
   - "fraude"
-  - "malversación"
-
-impactoSocial: "El caso evidenció el nepotismo en la gestión municipal del PP en Santa Pola durante más de una década. Tras la sentencia, la oposición exigió la dimisión de la alcaldesa en ejercicio Loreto Serrano (PP) por no haber defendido los intereses del consistorio durante el proceso."
-
-documentos: null
-
+  - "administración local"
+documentos:
+  - fecha: "2025-05-13"
+    titulo: "Sentencia 192/2025 de la Audiencia Provincial de Alicante, Sección Undécima"
+    filetype: "pdf"
+    paginas: 28
+    nombre_fichero: "https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Comunidad%20Valenciana/JURISPRUDENCIA/AP%20Alicante%20%28Elche%29%20ST%2013may2025.pdf"
 cronologia:
-  - fecha: "2005-01-01"
-    titulo: "Apertura de la Clínica Gran Alacant en edificio municipal"
-    descripcion: "La empresa Clínica Gran Alacant SL comienza a operar como clínica privada en un edificio de titularidad municipal en la urbanización de Gran Alacant, perteneciente al término municipal de Santa Pola. El centro debía gestionar las bajas laborales del personal del Ayuntamiento, pero también prestaba servicios privados. Desde el inicio, la empresa dejó de pagar el canon anual y los gastos de suministros acordados en el contrato."
-    type: "resumen"
+  - fecha: "2005-04-01"
+    titulo: "Primera contratación descrita en los hechos probados"
+    descripcion: "Según la sentencia de primera instancia, Fernando Gómez contrató al trabajador después conocido como concejal Francisco Martín por indicación del alcalde, antes de iniciarse el procedimiento de concesión. La actividad médica privada en el edificio era anterior: no se trata de la fecha de apertura de la clínica."
+    type: "hechos"
     urls:
-      - "https://alicanteplaza.es/la-clinica-en-la-que-trabajaba-la-hermana-del-ex-alcalde-de-santa-pola-no-pagaba-alquiler"
-
-  - fecha: "2015-06-01"
-    titulo: "Cambio de gobierno municipal y descubrimiento de las irregularidades"
-    descripcion: "La alcaldesa socialista Yolanda Seva accede al gobierno municipal de Santa Pola y descubre que la Clínica Gran Alacant no pagaba el canon anual de 10.900 euros ni los suministros de agua y electricidad. Además, detecta que varios empleados municipales prestaban sus servicios en la clínica privada en lugar de en el Ayuntamiento. El nuevo gobierno decide tomar medidas y retirar al personal municipal del centro."
-    type: "resumen"
+      - "https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Comunidad%20Valenciana/JURISPRUDENCIA/AP%20Alicante%20%28Elche%29%20ST%2013may2025.pdf"
+  - fecha: "2006-03-13"
+    titulo: "Firma del contrato de concesión"
+    descripcion: "Se firmó un contrato por diez años entre el Ayuntamiento y Clínica Gran Alacant SL, con canon de 10.920 euros anuales y prestaciones que podían compensarlo tras su justificación y liquidación."
+    type: "contrato"
     urls:
-      - "https://alicanteplaza.es/alicanteplaza/el-ex-edil-de-hacienda-de-santa-pola-denuncio-el-caso-de-la-clinica-gran-alacant-por-los-impagos"
-
-  - fecha: "2016-01-01"
-    titulo: "Denuncia ante la UDEF por las irregularidades"
-    descripcion: "El Ayuntamiento de Santa Pola, bajo el gobierno socialista, presenta una denuncia ante la Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional. La denuncia forma parte de una serie de quejas presentadas en 2016 sobre presuntas irregularidades del ejecutivo anterior liderado por Miguel Zaragoza. La UDEF inicia la recogida de pruebas que documentan el esquema de favores mutuos entre la clínica y los cargos del PP local."
+      - "https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Comunidad%20Valenciana/JURISPRUDENCIA/AP%20Alicante%20%28Elche%29%20ST%2013may2025.pdf"
+  - fecha: "2016-12-09"
+    titulo: "Denuncia del Ayuntamiento de Santa Pola"
+    descripcion: "La sentencia identifica la denuncia municipal del 9 de diciembre de 2016 como origen de la causa instruida por el Juzgado de Instrucción número 2 de Elche."
     type: "denuncia"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Gran+Alacant&numero=404"
-
-  - fecha: "2016-12-01"
-    titulo: "El Juzgado de Instrucción número 2 de Elche abre diligencias"
-    descripcion: "El Juzgado de Instrucción número 2 de Elche abre diligencias e investiga a varias personas por presuntos delitos de cohecho, tráfico de influencias y prevaricación. El juzgado recibe el atestado de la UDEF con las pruebas recopiladas sobre la gestión irregular de la clínica municipal durante los años 2003 a 2015."
-    type: "investigación"
-    urls:
-      - "https://alicanteplaza.es/asifueeldescontrolenlaclinicagranalacantlajuezaconcluyequesantapolamirabahaciaotrolado"
-
-  - fecha: "2017-06-01"
-    titulo: "El exalcalde Zaragoza declara ante la jueza"
-    descripcion: "El exalcalde Miguel Zaragoza declara ante la jueza instructora y desliza que podría haber habido posibles errores de gestión en el manejo de la concesión de la clínica, sin reconocer conducta delictiva. La causa se amplía para incluir a la exdiputada nacional del PP Loreto Cascales, concejal delegada del área de Gran Alacant durante parte del período investigado."
-    type: "declaración"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/alicante/santa-pola-pp-miguel-zaragoza_1_2205677.html"
-
-  - fecha: "2018-01-01"
-    titulo: "La jueza mantiene investigada a la diputada Loreto Cascales"
-    descripcion: "La jueza instructora del Juzgado de Instrucción número 2 de Elche mantiene la condición de investigada a Loreto Cascales, diputada nacional del PP, rechazando su petición de quedar eximida de la causa. Dado que Cascales tiene aforamiento como diputada, la causa debe elevarse al Tribunal Supremo para la parte que le afecta, lo que complica y alarga el procedimiento."
-    type: "investigación"
-    urls:
-      - "https://alicanteplaza.es/alicanteplaza/comunitat-valenciana/la-juez-mantiene-imputada-a-la-diputada-loreto-cascales-pp-y-la-causa-judicial-de-camino-al-supremo"
-
-  - fecha: "2023-10-27"
-    titulo: "La Audiencia fija fecha de juicio oral tras casi siete años de instrucción"
-    descripcion: "La Audiencia Provincial de Alicante fija fecha para el juicio oral del caso de la Clínica Gran Alacant, que se celebrará a partir del 12 de febrero de 2024. Son ocho los acusados que se sentarán en el banquillo por presuntos delitos de prevaricación, cohecho y negociaciones prohibidas a funcionarios. La causa ha tardado casi siete años en llegar a juicio oral desde la apertura de diligencias."
-    type: "investigación"
-    urls:
-      - "https://theleader.info/2023/10/27/gran-alacant-clinic-corruption-case-gets-court-date/"
-      - "https://alicanteplaza.es/alicanteplaza/la-audiencia-juzgara-al-ex-alcalde-de-santa-pola-por-el-caso-de-la-clinica-gran-alacnat"
-
+      - "https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Comunidad%20Valenciana/JURISPRUDENCIA/AP%20Alicante%20%28Elche%29%20ST%2013may2025.pdf"
   - fecha: "2024-02-12"
-    titulo: "Inicio del juicio oral en la Audiencia de Alicante, sede Elche"
-    descripcion: "Arranca el juicio oral del caso de la Clínica Gran Alacant en la sede de Elche de la Audiencia Provincial de Alicante. Los ocho acusados comparecen ante la sección undécima del tribunal. Entre los acusados figuran el exalcalde Miguel Zaragoza, el exconcejal Jorge Perelló, la hermana del alcalde Pilar Zaragoza, los dos médicos gestores de la clínica y otros tres acusados. Las sesiones se prolongan durante varios días, con declaraciones de acusados y testigos."
-    type: "declaración"
+    titulo: "Comienzo del juicio oral"
+    descripcion: "La Sección Undécima celebró la primera sesión el 12 de febrero de 2024. La sentencia registra otras sesiones en febrero y marzo, con finalización el 8 de marzo. Zaragoza negó haber ordenado contrataciones de personas afines."
+    type: "juicio"
     urls:
-      - "https://alicanteplaza.es/alicanteplaza/el-juicio-del-caso-de-la-clinica-gran-alacant-arranca-el-12-de-febrero-en-la-sede-de-elche-de-la-audiencia"
-      - "https://theleader.info/2024/02/07/gran-alacant-clinic-case-comes-to-court/"
-
-  - fecha: "2024-02-19"
-    titulo: "Zaragoza niega en el juicio haber favorecido a la clínica a cambio de contratar afines al PP"
-    descripcion: "Durante las sesiones del juicio oral, el exalcalde Miguel Zaragoza niega haber hecho la vista gorda con la Clínica de Gran Alacant a cambio de que esta empleara a familiares y afines al PP. La Fiscalía Anticorrupción mantiene que los hechos probados demuestran que la empresa disfrutó durante años de instalaciones municipales gratuitas a cambio de contratar a personas vinculadas al partido en el gobierno."
-    type: "declaración"
-    urls:
+      - "https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Comunidad%20Valenciana/JURISPRUDENCIA/AP%20Alicante%20%28Elche%29%20ST%2013may2025.pdf"
       - "https://alicanteplaza.es/alicanteplaza/zaragoza-niega-hacer-la-vista-gorda-con-la-clinica-de-gran-alacant-a-cambio-de-emplear-a-afines-al-pp"
-
-  - fecha: "2025-05-16"
-    titulo: "Sentencia: exalcalde y exconcejal condenados a seis años y medio de prisión"
-    descripcion: "La sección undécima de la Audiencia Provincial de Alicante condena al exalcalde Miguel Zaragoza y al exconcejal Jorge Perelló a seis años y medio de prisión por delitos continuados de prevaricación en concurso con fraude (dos años) y cohecho (cuatro años y medio). Los dos médicos gestores de la clínica, Fernando Gómez Soler y Manuel Rodríguez Bernal, reciben la misma pena como cooperadores necesarios. La hermana del alcalde, Pilar Zaragoza, es condenada a dos años y tres meses como cómplice de cohecho. Loreto Cascales y otros dos acusados son absueltos. Todos los condenados deben indemnizar solidariamente al Ayuntamiento de Santa Pola con 109.371 euros (descontados los 13.022 ya abonados). La empresa Clínica Gran Alacant SL recibe una sanción de cuatro años de inhabilitación para contratar con el sector público y recibir subvenciones."
+  - fecha: "2025-05-13"
+    titulo: "Sentencia de primera instancia"
+    descripcion: "La sentencia 192/2025 condenó a cinco personas físicas y a la clínica, y absolvió a Loreto Cascales y dos trabajadores. Impuso a cuatro condenados la indemnización municipal de 109.371,96 euros, con 13.022,96 euros ya abonados. La fecha del fallo es el 13 de mayo; las noticias se difundieron después."
     type: "sentencia"
+    relevancia: "alta"
     urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-de-Alicante-condena-a-seis-anos-y-medio-de-prision-a-un-exalcalde-y-a-un-exconcejal-de-Santa-Pola-por-el-caso-de-la-clinica-de-Gran-Alacant"
+      - "https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Comunidad%20Valenciana/JURISPRUDENCIA/AP%20Alicante%20%28Elche%29%20ST%2013may2025.pdf"
       - "https://www.eldiario.es/comunitat-valenciana/condenados-seis-anos-medio-prision-exalcalde-exconcejal-santa-pola-prevaricacion-cohecho_1_12304740.html"
-      - "https://www.infobae.com/espana/agencias/2025/05/16/audiencia-de-alicante-condena-a-mas-de-6-anos-de-carcel-al-exalcalde-de-santa-pola-alicante-por-el-caso-gran-alacant/"
-
-  - fecha: "2025-05-18"
-    titulo: "La oposicion exige la dimision de la alcaldesa del PP tras la sentencia"
-    descripcion: "Tras conocerse la sentencia, los partidos de la oposicion en Santa Pola (PSPV y Mes Santa Pola) exigen la dimision de la alcaldesa en ejercicio Loreto Serrano (PP), a quien acusan de no haber defendido los intereses del consistorio durante el proceso judicial. El Ayuntamiento habia desistido de ejercer la acusacion popular, dejando a la Fiscalia Anticorrupcion como unico acusador publico. La sentencia genera un intenso debate politico sobre la responsabilidad del PP local en la falta de recuperacion de los fondos publicos."
-    type: "resumen"
+  - fecha: "2025-05-17"
+    titulo: "Se conoce el anuncio de recurso y la petición de aclaración"
+    descripcion: "Alicante Plaza publica que la defensa de Zaragoza discrepa del fallo y solicita aclarar que procede apelación ante el TSJ valenciano. El anuncio no acredita por sí solo la presentación del recurso."
+    type: "recurso"
     urls:
-      - "https://alicanteplaza.es/alicanteplaza/elcheplaza/mes-santa-pola-pedira-la-dimision-de-la-alcaldesa-loreto-serrano-tras-la-sentencia-del-caso-clinica-gran-alacant"
-      - "https://alicanteplaza.es/alicanteplaza/elcheplaza/pspv-y-mes-arremeten-contra-la-alcaldesa-de-santa-pola-por-la-condena-a-zaragoza-no-defendio-al-consistorio"
+      - "https://alicanteplaza.es/alicanteplaza/elcheplaza/la-defensa-del-ex-alcalde-de-santa-pola-recurrira-la-condena-pero-pide-que-se-corrija-la-instancia-del-recurso"
+  - fecha: "2025-05-21"
+    titulo: "Se conoce la corrección de la vía de recurso"
+    descripcion: "Alicante Plaza informa de que la Audiencia ha aclarado que cabe apelación ante la Sala de lo Civil y Penal del TSJ de la Comunitat Valenciana en diez días. Se distingue la fecha de publicación de la del auto, que no se ha comprobado."
+    type: "recurso"
+    urls:
+      - "https://alicanteplaza.es/alicanteplaza/elcheplaza/la-audiencia-de-alicante-rectifica-y-permite-la-apelacion-del-caso-clinica-gran-alacant-ante-el-tsj"
 ---
+
+La actividad médica privada en el edificio municipal precedía a la concesión: la sentencia de primera instancia sitúa el trabajo de Fernando Gómez en ese inmueble desde 1989 y su colaboración con Manuel Rodríguez desde 2004. El procedimiento de concesión comenzó el 20 de abril de 2005 y culminó con el contrato de marzo de 2006. Por tanto, no se identifica una supuesta apertura el 1 de enero de 2005 ni se fija una fecha exacta de inicio de todas las conductas cuestionadas.
+
+El contrato no consistía simplemente en regalar un local. Preveía el pago de un canon y servicios a favor del Ayuntamiento, cuya compensación exigía acreditar las prestaciones y practicar las liquidaciones. La Audiencia consideró que los responsables políticos y los médicos toleraron conscientemente los incumplimientos y que la contratación de auxiliares elegidos por el entorno municipal constituía la contrapartida. En 2012 se redujeron verbalmente la superficie utilizada y el canon, a 6.176 euros, sin la tramitación exigible. Estas conclusiones pertenecen a la sentencia de primera instancia y no se presentan como un pronunciamiento firme confirmado en recurso.
+
+La responsabilidad de cada persona es distinta. Los médicos fueron considerados cooperadores necesarios en la prevaricación en concurso con fraude y autores de cohecho; Pilar Zaragoza, cómplice de este último delito. Para Cascales y los dos trabajadores absueltos no se acreditó el conocimiento del pacto ilícito. Ni su contratación ni su vinculación política equivalen por sí solas a una condena.
+
+El fallo fija **109.371,96 euros de responsabilidad civil**, con **13.022,96 euros ya pagados** al dictarse sentencia. Obliga conjunta y solidariamente a Zaragoza, Perelló y los dos médicos, con responsabilidad subsidiaria de la sociedad por estos últimos. Esa cantidad se distingue de las multas penales, las costas y los intereses. Existe una discrepancia aritmética en el desglose del hecho probado decimoquinto: sus dos partidas no suman el total allí expresado. Se conserva la cifra del fallo sin reconstruir un supuesto coste agregado ni atribuir toda la indemnización a suministros impagados.
+
+Cada uno de los cuatro condenados a seis años y medio recibió además una multa de un año y seis meses a doce euros diarios, junto con las inhabilitaciones especificadas en el fallo. Pilar recibió nueve meses de multa con esa cuota y seis años de inhabilitación para cargos municipales; la sociedad, tres años de multa y cuatro de inhabilitación para las actividades públicas descritas. No se ha comprobado la ejecución de estas penas. La noticia de mayo de 2025 sobre la aclaración de la vía de recurso impide mantener sin matices la indicación inicial de casación directa. Quedan por localizar el auto íntegro de aclaración y las actuaciones posteriores, sin inferir firmeza o continuidad por ausencia de noticias hasta el 15 de octubre de 2026.
