@@ -1,96 +1,74 @@
 ---
 nombre: "Caso Fernández de la Cueva"
 partido: PP
-completado: true
+completado: false
 año: 2013
-fechaInicio: 2013-01-01
-fechaFin: ""
-estado: "en investigación"
+estado: "Situación procesal actual no verificada; última noticia localizada: juicio suspendido en diciembre de 2020"
 descripcion: |
-  El Caso Fernández de la Cueva es un caso de prevaricación administrativa que investiga la retirada irregular de multas de tráfico por parte de la alcaldesa de Corral de Almaguer (Toledo), Juliana Fernández de la Cueva Lominchar, quien también ejerció como senadora del Partido Popular. Los hechos investigados se remontan a 2013, cuando la alcaldesa, junto con su teniente de alcalde Vicente González Ramírez, retiró de forma irregular cuatro sanciones de tráfico impuestas por la Policía Local a personas de su entorno familiar, amigos o con afinidad política, evitando que perdieran puntos del carnet de conducir.
+  Procedimiento por presunta prevaricación administrativa contra Juliana Fernández Cueva Lominchar, exalcaldesa de Corral de Almaguer (Toledo) y exsenadora del PP, y Vicente González Ramírez, primer teniente de alcalde en la época de los hechos. La acusación sostenía que habían dejado sin efecto cuatro expedientes de tráfico de 2013 para evitar la pérdida de puntos de los conductores. La Fiscalía solicitaba diez años de inhabilitación para cada acusado, una petición de pena que no equivale a una condena.
 
-  Las infracciones anuladas incluían dos multas por conducir bajo los efectos del alcohol con tasas superiores a las permitidas, una por no utilizar el cinturón de seguridad y otra por conducción temeraria a alta velocidad con peligro de colisión contra una vivienda. Según el Ministerio Fiscal, tanto la alcaldesa como el teniente de alcalde maniobrarón para favorecer a los sancionados "en clara contravención de lo legalmente establecido", siendo Vicente González Ramírez quien propuso a la alcaldesa aprobar las alegaciones presentadas en los cuatro expedientes sancionadores.
-
-  El caso fue inicialmente investigado por el Tribunal Supremo debido al aforamiento de Fernández de la Cueva como senadora. Sin embargo, en febrero de 2016, tras renunciar a su escaño en el Senado, el Supremo se declaró incompetente y remitió la causa al Juzgado de Primera Instancia e Instrucción de Quintanar de la Orden (Toledo). Posteriormente, el caso pasó a la Sección Segunda de la Audiencia Provincial de Toledo. El juicio estaba previsto para enero de 2020, cuatro años después de abrirse la causa en los juzgados ordinarios, pero fue suspendido tras la petición de la defensa de practicar pruebas adicionales. La Fiscalía solicitó para ambos acusados una pena de diez años de inhabilitación especial para empleo o cargo público por un delito continuado de prevaricación administrativa.
-
-resumen: "Alcaldesa del PP y exsenadora investigada por retirar irregularmente cuatro multas de tráfico a personas de su entorno"
+  El juicio fue suspendido el 14 de enero de 2020 y volvió a anunciarse para el 15 de diciembre de ese año. La Vanguardia informó ese día de otra suspensión. No se ha localizado una resolución posterior que permita establecer el desenlace ni la situación procesal a 15 de octubre de 2026; tampoco se han verificado novedades judiciales de 2025 o 2026. Esta falta de información no permite afirmar que el procedimiento continúe abierto, haya terminado o exista una condena.
+resumen: "Acusación contra una exalcaldesa y un exteniente de alcalde por cuatro expedientes de tráfico; desenlace judicial no verificado"
 lugar: "Corral de Almaguer, Toledo, Castilla-La Mancha"
 tribunal:
   - "Tribunal Supremo - Sala de lo Penal"
-  - "Juzgado de Primera Instancia e Instrucción de Quintanar de la Orden"
+  - "Juzgados de Quintanar de la Orden (Toledo)"
   - "Audiencia Provincial de Toledo - Sección Segunda"
-numeroSentencia: ""
 implicados:
-  - nombre: "Juliana Fernández de la Cueva Lominchar"
-    cargo: "Alcaldesa de Corral de Almaguer (PP) y exsenadora del PP"
-    rol: "Acusada de prevaricación administrativa por retirar irregularmente cuatro multas de tráfico. La Fiscalía solicita 10 años de inhabilitación"
-
+  - nombre: "Juliana Fernández Cueva Lominchar"
+    cargo: "Alcaldesa de Corral de Almaguer en la época de los hechos y exsenadora del PP"
+    rol: "Acusada de presunta prevaricación administrativa continuada. Según la Fiscalía, firmó las propuestas relativas a cuatro expedientes de tráfico. Petición fiscal de diez años de inhabilitación; desenlace no verificado."
   - nombre: "Vicente González Ramírez"
-    cargo: "Teniente de alcalde de Corral de Almaguer (PP)"
-    rol: "Acusado de prevaricación administrativa por proponer la aprobación de las alegaciones que anularon las multas. La Fiscalía solicita 10 años de inhabilitación"
-
+    cargo: "Primer teniente de alcalde de Corral de Almaguer en la época de los hechos"
+    rol: "Acusado de presunta prevaricación administrativa continuada. Según la Fiscalía, propuso estimar alegaciones y archivar los expedientes sin retirar puntos. Petición fiscal de diez años de inhabilitación; desenlace no verificado."
 tags:
-  - "corrupción"
   - "prevaricación"
-  - "tráfico de influencias"
-  - "corrupción local"
+  - "administración local"
   - "aforamiento"
-
-impactoSocial: "El caso ejemplifica cómo cargos públicos locales pueden abusar de su autoridad para favorecer a allegados en asuntos administrativos menores, socavando el principio de igualdad ante la ley. La investigación evidenció el uso del aforamiento como mecanismo dilatorio, ya que el caso se retrasó significativamente al pasar del Tribunal Supremo a los juzgados ordinarios tras la renuncia de Fernández de la Cueva al escaño de senadora."
-
-documentos: null
-
+documentos: []
 cronologia:
-  - fecha: 2013-01-01
-    titulo: "Retirada irregular de multas de tráfico"
-    descripcion: "Juliana Fernández de la Cueva, alcaldesa de Corral de Almaguer y senadora del PP, junto con el teniente de alcalde Vicente González Ramírez, retiran irregularmente cuatro sanciones de tráfico impuestas por la Policía Local. Las infracciones anuladas incluyen dos multas por conducir bajo los efectos del alcohol, una por no usar cinturón de seguridad y otra por conducción temeraria. Según la acusación posterior, estas decisiones favorecieron a personas del entorno familiar, amigos o con afinidad política de la alcaldesa, evitando que perdieran puntos del carnet de conducir."
-    type: "investigación"
-    urls: []
-
-  - fecha: 2015-10-01
-    titulo: "Imputación por el Tribunal Supremo"
-    descripcion: "El Ministerio Fiscal presenta querella contra Juliana Fernández de la Cueva y Vicente González Ramírez por un presunto delito de prevaricación administrativa. Debido a su condición de senadora, Fernández de la Cueva es investigada por el Tribunal Supremo bajo el aforamiento que le corresponde como parlamentaria. El magistrado José Manuel Maza asume la investigación en la Sala de lo Penal del Alto Tribunal."
-    type: "investigación"
+  - fecha: 2015-07-03
+    titulo: "Se conoce la apertura de causa en el Tribunal Supremo"
+    descripcion: "El País informa de la admisión de la querella de la Fiscalía contra la senadora y su teniente de alcalde. José Manuel Maza fue designado instructor. La fecha corresponde a la publicación, sin atribuir ese día al auto."
+    type: "investigacion"
     urls:
-      - "https://www.publico.es/espana/alcaldesa-y-senadora-del-pp.html"
-
+      - "https://elpais.com/politica/2015/07/03/actualidad/1435926115_587995.html"
   - fecha: 2015-10-19
-    titulo: "Declaración voluntaria ante el Tribunal Supremo"
-    descripcion: "Juliana Fernández de la Cueva comparece de forma voluntaria ante el magistrado José Manuel Maza en el Tribunal Supremo, antes del trámite del suplicatorio ante las Cortes Generales. La alcaldesa solicita esta declaración anticipada para evitar la tramitación del suplicatorio que habría requerido autorización del Senado para su procesamiento."
-    type: "declaración"
+    titulo: "Declaración ante el Tribunal Supremo"
+    descripcion: "Juliana Fernández Cueva declaró ante el instructor José Manuel Maza y defendió su inocencia. La información posterior de Europa Press en Cadena SER identifica expresamente el 19 de octubre como fecha de la declaración."
+    type: "declaracion"
     urls:
-      - "https://www.eldiario.es/clm/alcaldesa-Corral-Almaguer-TS-retirada_0_442705897.html"
-      - "https://www.publico.es/espana/alcaldesa-y-senadora-del-pp.html"
-
-  - fecha: 2016-02-09
-    titulo: "El Supremo remite la causa a Quintanar de la Orden"
-    descripcion: "El Tribunal Supremo se declara incompetente para seguir investigando el caso tras la renuncia de Juliana Fernández de la Cueva a su escaño de senadora, perdiendo así su condición de aforada. La Sala de lo Penal del Alto Tribunal acuerda remitir la causa al Juzgado de Primera Instancia e Instrucción de Quintanar de la Orden (Toledo), que pasa a asumir la competencia para investigar y juzgar los hechos."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Fern%C3%A1ndez+de+la+Cueva&numero=403"
-
+      - "https://cadenaser.com/emisora/2016/02/22/ser_toledo/1456139121_443157.html"
   - fecha: 2016-02-22
-    titulo: "Asunción de competencias por el juzgado de Quintanar"
-    descripcion: "El Juzgado de Primera Instancia e Instrucción de Quintanar de la Orden recibe oficialmente el procedimiento remitido por el Tribunal Supremo y comienza la instrucción del caso contra Juliana Fernández de la Cueva y Vicente González Ramírez en la jurisdicción ordinaria. El cambio de tribunal supone reiniciar parte de las diligencias procesales."
-    type: "investigación"
-    urls: []
-
-  - fecha: 2019-01-01
-    titulo: "Remisión a la Audiencia Provincial de Toledo"
-    descripcion: "Tras completarse la fase de instrucción en el juzgado de Quintanar de la Orden, el caso es elevado a la Sección Segunda de la Audiencia Provincial de Toledo para la celebración del juicio oral. La Fiscalía Provincial mantiene su acusación contra ambos imputados solicitando diez años de inhabilitación especial para empleo o cargo público por un delito continuado de prevaricación administrativa."
-    type: "investigación"
-    urls: []
-
-  - fecha: 2020-01-14
-    titulo: "Suspensión del juicio oral por petición de la defensa"
-    descripcion: "El juicio contra Juliana Fernández de la Cueva y Vicente González Ramírez, previsto para celebrarse en la Audiencia Provincial de Toledo, es suspendido tras la solicitud de la defensa de practicar pruebas adicionales. Esta suspensión se produce cuatro años después de que la causa fuera remitida desde el Tribunal Supremo a los juzgados ordinarios, evidenciando la lentitud del proceso judicial."
-    type: "investigación"
+    titulo: "Se conoce la devolución de la causa a Quintanar de la Orden"
+    descripcion: "Europa Press informa de que el Supremo ha dejado de ser competente por la pérdida de la condición de aforada de la exsenadora y remite la causa al juzgado decano de Quintanar de la Orden. Es la fecha de publicación; no se ha verificado la fecha del auto."
+    type: "investigacion"
     urls:
-      - "https://www.cmmedia.es/noticias/castilla-la-mancha/juicio-exalcaldesa-de-corral-de-almaguer-por-quitar-multas-de-trafico/"
-
+      - "https://cadenaser.com/emisora/2016/02/22/ser_toledo/1456139121_443157.html"
   - fecha: 2020-01-14
-    titulo: "Estado actual del caso: pendiente de nueva fecha de juicio"
-    descripcion: "Tras la suspensión del juicio en enero de 2020, el caso permanece pendiente de señalamiento de nueva fecha para la celebración de la vista oral en la Audiencia Provincial de Toledo. Mientras tanto, Juliana Fernández de la Cueva continúa ejerciendo como alcaldesa de Corral de Almaguer, habiendo sido reelegida para una tercera legislatura consecutiva con mayoría absoluta. El caso lleva más de siete años abierto desde que se produjeron los hechos investigados en 2013."
-    type: "resumen"
-    urls: []
+    titulo: "Suspensión del juicio para practicar una prueba"
+    descripcion: "La Audiencia Provincial de Toledo suspendió la vista para solicitar al Ayuntamiento una certificación sobre el acceso a los expedientes sancionadores, a petición de las defensas, que cuestionaban la obtención de las pruebas. La Fiscalía rechazó que se hubiera vulnerado la intimidad de los acusados."
+    type: "juicio"
+    urls:
+      - "https://www.eldiario.es/castilla-la-mancha/suspenden-juicio-alcaldesa-quitamultas-defensa_1_1082313.html"
+  - fecha: 2020-12-11
+    titulo: "Se anuncia un nuevo señalamiento para el 15 de diciembre"
+    descripcion: "Europa Press publica que la Sección Segunda de la Audiencia Provincial de Toledo prevé juzgar a ambos acusados el 15 de diciembre. La Fiscalía pide diez años de inhabilitación para cada uno por presunta prevaricación administrativa continuada. El anuncio no acredita la celebración de la vista."
+    type: "juicio"
+    urls:
+      - "https://www.lacronica.net/piden-10-anos-de-inhabilitacion-para-la-exalcaldesa-de-corral-de-almaguer-acusada-de-quitar-multas-de-trafico/"
+  - fecha: 2020-12-15
+    titulo: "Se informa de otra suspensión del juicio"
+    descripcion: "La Vanguardia informa de que la Sección Segunda de la Audiencia Provincial de Toledo ha suspendido el juicio previsto para ese día. No se ha verificado una resolución posterior ni el desenlace del procedimiento."
+    type: "juicio"
+    urls:
+      - "https://www.lavanguardia.com/local/madrid/20201215/6122080/alcaldesa-quita-multa-inhabilitacion-corral-almaguer.html"
 ---
+
+El procedimiento se refiere a cuatro expedientes de tráfico de 2013. Según el escrito fiscal descrito por Europa Press en diciembre de 2020, dos correspondían a alcoholemia, uno a la falta de cinturón y otro a conducción temeraria. La acusación atribuía a Vicente González Ramírez las propuestas de estimación de alegaciones y a Juliana Fernández Cueva su firma. Son imputaciones de la Fiscalía, no hechos establecidos aquí mediante una sentencia.
+
+La noticia fiscal identifica expedientes del 29 de junio, 6 de julio y 27 de agosto de 2013, pero no permite fijar con esas fechas el día de cada resolución municipal cuestionada. Por ello, el inicio de los hechos se sitúa únicamente en 2013. Tampoco se dispone de una cuantificación judicial del perjuicio económico: los importes de las multas de tráfico no equivalen por sí solos a dinero defraudado o a responsabilidad civil. El País explicó en 2015 que los conductores habían realizado pagos con reducción y que la controversia incluía la pérdida de puntos.
+
+El aforamiento de la entonces senadora motivó la intervención del Tribunal Supremo. Su posterior pérdida de esa condición explica el traslado a los juzgados ordinarios; las fuentes revisadas no permiten atribuirle una maniobra dilatoria. La documentación histórica del [Senado](https://www.senado.es/web/actividadparlamentaria/sesionescomision/detallecomisiones/composicion/index.html?id=S011018&legis=10) identifica a la parlamentaria como Juliana Fernández Cueva Lominchar.
+
+Las defensas cuestionaron la legalidad de la obtención de documentos y solicitaron nuevas comprobaciones. La suspensión de enero de 2020 permitió recabar una certificación municipal, sin que ello acreditase por sí mismo la nulidad de las pruebas o la inocencia o culpabilidad de los acusados. La última noticia judicial localizada informa de una nueva suspensión en diciembre de 2020. Quedan por verificar el resultado del procedimiento y cualquier resolución posterior; no se dispone de una sentencia o auto en PDF comprobado.
