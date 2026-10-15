@@ -26,7 +26,7 @@ descripcion: 'Esta pieza de Invercaria se refiere al préstamo participativo de 
   Los cuatro condenados deben indemnizar solidariamente a IDEA con 1.180.000 euros, más intereses: la sentencia identifica
   expresamente ese principal como daño a reparar, por lo que no se suma al préstamo como un segundo perjuicio. Tampoco se
   agregan la capitalización ni otras ayudas recibidas por la empresa. El juicio tuvo lugar entre el 28 de abril y el 27 de
-  mayo de 2026, no en julio.
+  mayo de 2026.
 
 
   Una información publicada el 6 de septiembre de 2026 recoge el recurso del PP ante el TSJA para absolver a los dos empresarios.
@@ -124,7 +124,7 @@ cronologia:
 - fecha: '2016-02-19'
   titulo: Incoación de la pieza Servivation
   descripcion: Los hechos probados identifican esta fecha como la incoación de la pieza separada de las diligencias previas
-    1009/2012. El año de la macrocausa no se convierte en una fecha ficticia de apertura de esta pieza.
+    1009/2012.
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=35b1c1ba8d7722a7a0a8778d75e36f0d&encode=true&databasematch=AN
   type: investigacion
