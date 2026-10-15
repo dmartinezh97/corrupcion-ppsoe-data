@@ -1,156 +1,141 @@
 ---
-nombre: "Caso Guateque"
+nombre: Caso Guateque
 partido: PP
-completado: true
+completado: false
 año: 2007
-fechaInicio: 2007-11-14
-fechaFin: "2018-06-27"
-estado: "sobreseimiento"
-descripcion: |
-  La Operación Guateque fue una investigación de la Guardia Civil en noviembre de 2007 contra una presunta red de funcionarios y técnicos del Ayuntamiento de Madrid que, durante la alcaldía de Alberto Ruiz-Gallardón, habrían cobrado comisiones ilegales de hasta 18.000 euros a cambio de agilizar la tramitación de licencias administrativas a locales de ocio, restauración y otras actividades. En la operación inicial fueron detenidas 16 personas vinculadas a la Gerencia de Urbanismo y la Concejalía de Medio Ambiente, y el número de imputados llegó a superar los 40 entre funcionarios, técnicos municipales y empresarios. El caso se consideró en su momento la mayor trama de corrupción municipal en la historia democrática del Ayuntamiento de Madrid. El origen del procedimiento fueron las agendas y discos duros incautados a los intermediarios Eduardo Agustino Carrasco y Julián Rubén López Martínez, propietarios de la empresa de gestión de licencias AC 93, que registraban pagos a nueve funcionarios municipales desde 2001 por un total de 127.000 euros.
+fechaInicio: '2007-04-02'
+fechaFin: '2018-06-28'
+estado: sentencia firme
+descripcion: |-
+  El caso Guateque investigó supuestas comisiones a funcionarios del Ayuntamiento de Madrid para acelerar licencias municipales durante la alcaldía de Alberto Ruiz-Gallardón (PP). La causa penal terminó con la absolución de treinta acusados por nulidad de la prueba. La Audiencia Provincial de Madrid dictó la sentencia 408/2017 el 19 de junio de 2017 y el Tribunal Supremo la confirmó mediante la sentencia 311/2018, de 27 de junio. El Consejo de Estado documenta su firmeza y notificación el 28 de junio de 2018. No hubo condenas en ese procedimiento ni una sentencia que declarara probada la red de sobornos investigada.
 
-  Los delitos investigados incluían cohecho, negociaciones prohibidas a funcionarios, falsedad documental, prevaricación ambiental y tráfico de influencias. El caso tuvo vínculos señalados por los investigadores con otras tramas del PP madrileño como Gürtel y Púnica: la esposa de Alberto López Viejo (principal acusado de Gürtel en el Ayuntamiento) obtuvo una licencia en tiempo récord para un restaurante, y Francisco Granados (luego imputado en Púnica) acompañó como secretario general del PP regional al viceconsejero imputado Luis Armada en sus declaraciones ante el juez. El caso se extendió a la Comunidad de Madrid cuando fue imputado Luis Armada, viceconsejero de Transportes del Gobierno de Esperanza Aguirre y anterior gerente de Urbanismo del Ayuntamiento, aunque sus cargos fueron posteriormente levantados. La Fiscalía llegó a solicitar una pena conjunta de 250 años de prisión para los 34 acusados que finalmente llegaron a juicio oral en enero de 2017, diez años después de los hechos.
+  La sentencia del Supremo sitúa la apertura judicial en el 2 de abril de 2007, después de una grabación preparada el 6 de marzo con medios entregados por agentes de la Guardia Civil a un particular. El tribunal consideró que este actuó como instrumento policial para obtener una declaración incriminatoria eludiendo las garantías procesales. La grabación original no se incorporó al juzgado y se ocultó cómo se había obtenido. La ilicitud afectó a las pruebas derivadas. La decisión no establece que toda grabación entre particulares necesite autorización judicial: atiende a la intervención policial y a las circunstancias de este caso.
 
-  El caso concluyó sin ninguna condena. La Sección Segunda de la Audiencia Provincial de Madrid absolvió en junio de 2017 a todos los procesados al declarar nulas todas las pruebas de la causa, al quedar demostrado que la Guardia Civil había actuado de mala fe: entregó una grabadora a un denunciante y obtuvo las grabaciones que dieron origen al procedimiento sin autorización judicial, presentando después un atestado mendaz para ocultar esta irregularidad. Al quedar sin efecto la grabación original, toda la cadena probatoria derivada de ella —incluyendo los registros, los análisis de agendas y los testimonios— quedó también anulada, lo que imposibilitó cualquier condena. El Tribunal Supremo confirmó la absolución en junio de 2018 mediante la STS 311/2018, condenando en costas a la Fiscalía de Madrid y al propio Ayuntamiento de Madrid que habían recurrido la sentencia absolutoria.
+  La operación policial se hizo pública con dieciséis detenciones el 14 de noviembre de 2007. La Fiscalía acusó posteriormente a treinta y cuatro personas y pidió penas que sumaban alrededor de 250 años. Esas peticiones eran acusaciones, no condenas. El fallo absolutorio comprende treinta personas; no se ha comprobado aquí la situación individual de las cuatro restantes que aparecían en las informaciones iniciales sobre el juicio. La condena en costas de la casación recayó en el Ayuntamiento de Madrid, no en la Fiscalía.
 
-resumen: "Trama de funcionarios del Ayuntamiento de Madrid que cobraban comisiones por licencias exprés, absuelta por nulidad de pruebas obtenidas ilegalmente por la Guardia Civil"
-coste: 0
-lugar: "Madrid, España"
+  El asunto de Luis Armada tuvo un desenlace distinto: en abril de 2012 se informó de un sobreseimiento libre y parcial por prescripción del delito de negociaciones prohibidas relacionado con obras en su vivienda. No debe confundirse con la absolución general de 2017.
+
+  Después del cierre penal se presentaron reclamaciones por prisión preventiva y dilaciones. En su dictamen 732/2023, de 8 de noviembre, el Consejo de Estado propuso estimarlas parcialmente. No se ha verificado la resolución administrativa definitiva o el pago de esas compensaciones, ni novedades procesales sustantivas posteriores hasta el 15 de octubre de 2026. Estas reclamaciones no reabren la acusación penal ni acreditan un importe de corrupción probado.
+resumen: Investigación sobre supuestas comisiones por licencias municipales de Madrid, terminada con absolución firme de treinta acusados por nulidad probatoria.
+lugar: Madrid
 tribunal:
-  - "Juzgado de Instrucción nº 32 de Madrid - Juez José Santiago Torres"
-  - "Audiencia Provincial de Madrid - Sección Segunda"
-  - "Tribunal Supremo - Sala de lo Penal"
-numeroSentencia: "STS 311/2018"
+  - Juzgado de Instrucción nº 32 de Madrid
+  - Audiencia Provincial de Madrid, Sección Segunda
+  - Tribunal Supremo, Sala de lo Penal
+numeroSentencia: SAP Madrid 408/2017, de 19 de junio; STS 311/2018, de 27 de junio (ECLI:ES:TS:2018:2290)
 implicados:
-  - nombre: "Victoriano Ceballos"
-    cargo: "Jefe de la División de Impacto y Análisis Ambiental de Medio Ambiente del Ayuntamiento de Madrid"
-    rol: "Presunto cerebro de la trama; acusado de cohecho y prevaricación ambiental"
-
-  - nombre: "Joaquín Fernández de Castro"
-    cargo: "Funcionario municipal del Ayuntamiento de Madrid"
-    rol: "Presunto organizador de la red de cobro de comisiones por licencias"
-
-  - nombre: "Carmelo García Sánchez"
-    cargo: "Funcionario municipal del Ayuntamiento de Madrid"
-    rol: "Acusado de actuar como intermediario entre empresarios y funcionarios; pena solicitada de hasta 21 años"
-
-  - nombre: "Santiago Castillo Morales"
-    cargo: "Funcionario municipal del Ayuntamiento de Madrid"
-    rol: "Acusado de organizar cobros de comisiones; pena solicitada de hasta 21 años"
-
-  - nombre: "Eduardo Agustino Carrasco"
-    cargo: "Empresario, copropietario de la empresa de gestión AC 93"
-    rol: "Intermediario entre funcionarios y empresarios en el cobro de comisiones por licencias"
-
-  - nombre: "Julián Rubén López Martínez"
-    cargo: "Empresario, copropietario de la empresa de gestión AC 93"
-    rol: "Intermediario en la trama; sus agendas incautadas contenían registro de pagos a funcionarios"
-
-  - nombre: "Sara López Moreno"
-    cargo: "Exfuncionaria de la Junta de Distrito de San Blas del Ayuntamiento de Madrid"
-    rol: "Se declaró culpable durante el juicio de haber cobrado 2.500 euros por facilitar una licencia"
-
-  - nombre: "Ramón Sánchez López de Luzuriaga"
-    cargo: "Director General de Obras y Vías Públicas del Ayuntamiento de Madrid"
-    rol: "Imputado por presunta intervención en la tramitación irregular de licencias"
-
-  - nombre: "Luis Armada"
-    cargo: "Viceconsejero de Transportes de la Comunidad de Madrid y ex gerente de Urbanismo del Ayuntamiento de Madrid"
-    rol: "Imputado por negociaciones prohibidas; cargos levantados posteriormente por el juez"
-
-  - nombre: "Luis Miguel Ramasco Tejerina"
-    cargo: "Empresario, propietario de la discoteca Moma de Madrid"
-    rol: "Imputado por presunto pago de comisiones a funcionarios para agilizar licencias"
-
+  - nombre: Victoriano Ceballos Fernández
+    cargo: Responsable de la División de Impacto y Análisis Ambiental del Ayuntamiento de Madrid
+    rol: Acusado de delitos relacionados con la tramitación de licencias; absuelto en el procedimiento por nulidad de la prueba, con confirmación del Supremo.
+  - nombre: Joaquín Fernández de Castro
+    cargo: Jefe del Departamento de Evaluación de Impacto Ambiental del Ayuntamiento de Madrid
+    rol: Acusado de cohecho y otros delitos en la causa; absuelto por nulidad probatoria.
+  - nombre: Carmelo García Sánchez
+    cargo: Antiguo funcionario de Urbanismo, jubilado desde 2004; relacionado con AC 93
+    rol: Acusado en el procedimiento por su presunta intervención en la gestión de licencias. La causa principal terminó con absoluciones por nulidad de la prueba.
+  - nombre: Santiago Castillo Morales
+    cargo: Empresario y apoderado de AC 93 Proyectos y Obras, ajeno a la plantilla municipal
+    rol: Acusado por su presunta intervención en la gestión de licencias; no era funcionario municipal. La causa principal terminó con absoluciones por nulidad de la prueba.
+  - nombre: Eduardo Agustino Carrasco
+    cargo: Empresario de Agustino Proyectos e Instalaciones
+    rol: Acusado según el escrito fiscal de 2014. Sus presuntas actuaciones deben distinguirse de las atribuidas a AC 93; no se presentan como hechos probados.
+  - nombre: Sara López Moreno
+    cargo: Funcionaria municipal acusada en relación con licencias de actividad
+    rol: Absuelta junto con los restantes procesados, pese al reconocimiento de hechos recogido en la información del juicio; no fue condenada.
+  - nombre: Luis Armada
+    cargo: Exgerente de Urbanismo del Ayuntamiento de Madrid y viceconsejero de la Comunidad de Madrid
+    rol: Sobreseimiento libre y parcial por prescripción, conocido en abril de 2012, de la imputación por negociaciones prohibidas vinculada a obras en su vivienda.
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "prevaricación"
-  - "tráfico de influencias"
-  - "licencias ilegales"
-  - "corrupción municipal"
-
-impactoSocial: "El caso Guateque fue presentado en su día como la mayor trama de corrupción municipal de la democracia madrileña, con decenas de imputados y vínculos señalados con Gürtel y Púnica. Su resolución final, con la absolución de todos los acusados por las irregularidades cometidas por la propia Guardia Civil al obtener las pruebas, puso de relieve los límites constitucionales de las investigaciones encubiertas y generó un debate sobre la actuación de los cuerpos policiales en causas de corrupción."
-
-documentos: []
-
+  - licencias municipales
+  - cohecho
+  - prevaricación
+  - tráfico de influencias
+  - nulidad probatoria
+  - absolución
+impactoSocial: La absolución puso de relieve las consecuencias de obtener pruebas vulnerando garantías procesales. Las dilaciones y la prisión preventiva dieron lugar a reclamaciones de responsabilidad patrimonial posteriores al cierre penal.
+documentos:
+  - fecha: '2018-06-27'
+    titulo: 'Tribunal Supremo: sentencia 311/2018, recurso 1801/2017'
+    filetype: pdf
+    paginas: 10
+    nombre_fichero: https://img.lpderecho.pe/wp-content/uploads/2022/10/STS-2290-2018-LPDerecho.pdf
 cronologia:
-  - fecha: "2007-11-14"
-    titulo: "Operación Guateque: 16 detenidos en el Ayuntamiento de Madrid"
-    descripcion: "La Guardia Civil despliega una operación en la Gerencia de Urbanismo, la Concejalía de Medio Ambiente y varias juntas municipales de distrito del Ayuntamiento de Madrid. Dieciséis funcionarios y técnicos municipales son detenidos acusados de cobrar comisiones ilegales de hasta 18.000 euros para agilizar la tramitación de licencias de actividad a locales de ocio y restauración. La operación se considera en ese momento la mayor intervención policial por corrupción en la historia del Consistorio madrileño, que entonces preside Alberto Ruiz-Gallardón."
-    type: "detención"
+  - fecha: '2007-03-06'
+    titulo: Grabación que originó la investigación
+    descripcion: Según los hechos recogidos por el Supremo, agentes de la Guardia Civil entregaron a un particular una grabadora para registrar una conversación sobre una supuesta petición de dinero. La nulidad de esta actuación fue decisiva para la absolución.
+    type: investigacion
     urls:
-      - "https://www.miguelgallardo.es/guateque/"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Guateque&numero=68"
-
-  - fecha: "2008-01-18"
-    titulo: "Imputado Luis Armada, viceconsejero de la Comunidad de Madrid"
-    descripcion: "El caso se extiende a la Comunidad de Madrid con la imputación de Luis Armada, viceconsejero de Transportes del Gobierno de Esperanza Aguirre y anterior gerente de Urbanismo del Ayuntamiento de Madrid. El secretario general del PP regional, Francisco Granados —posteriormente imputado en el caso Púnica—, acompaña a Armada en su declaración ante el juez. El PSOE denuncia que el caso se ha convertido en una trama de corrupción urbanística de gran alcance político."
-    type: "imputación"
+      - https://img.lpderecho.pe/wp-content/uploads/2022/10/STS-2290-2018-LPDerecho.pdf
+  - fecha: '2007-04-02'
+    titulo: Apertura de las diligencias judiciales
+    descripcion: El Juzgado de Instrucción nº 32 abrió las diligencias previas 939/2007 y acordó medidas de investigación basadas en la conversación transcrita y la declaración del denunciante. No es la fecha de la operación policial de noviembre.
+    type: investigacion
     urls:
-      - "https://hebdomario.typepad.com/confidencial_7d/2008/01/el-caso-guatequ.html"
-      - "https://www.periodistadigital.com/politica/20080118/comunidad-madrid-cargo-guateque-0987-noticia-689403009110/"
-
-  - fecha: "2008-06-01"
-    titulo: "El juez levanta la imputación de Luis Armada"
-    descripcion: "El juez instructor del caso Guateque, José Santiago Torres, levanta la imputación de Luis Armada por el delito de negociaciones prohibidas para funcionarios, al no hallar indicios suficientes de su participación directa en la trama. La decisión reduce el alcance político del caso en el ámbito autonómico, aunque la investigación sobre los funcionarios municipales continúa avanzando."
-    type: "investigación"
+      - https://img.lpderecho.pe/wp-content/uploads/2022/10/STS-2290-2018-LPDerecho.pdf
+  - fecha: '2007-11-14'
+    titulo: Dieciséis detenciones en la operación Guateque
+    descripcion: Las informaciones sobre el juicio sitúan en este día las detenciones iniciales por supuestas comisiones para agilizar licencias. Las imputaciones posteriores no equivalen a condenas.
+    type: detencion
     urls:
-      - "https://laadministracionaldia.inap.es/noticia.asp?id=1058142"
-
-  - fecha: "2008-11-01"
-    titulo: "El juez imputa a 24 empresarios por pago de comisiones"
-    descripcion: "El juez instructor José Santiago Torres amplía la investigación e imputa a 24 empresarios más, entre ellos el propietario de la discoteca Moma (Luis Miguel Ramasco Tejerina), directivos de la Clínica Ruber Internacional y de la aseguradora Ocaso, por haber supuestamente pagado comisiones a través de la empresa intermediaria AC 93 para agilizar sus licencias de actividad. Las nuevas imputaciones se basan en datos extraídos de las agendas y discos duros incautados a los intermediarios Eduardo Agustino Carrasco y Julián Rubén López Martínez, propietarios de AC 93."
-    type: "imputación"
+      - https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-juicio-del-caso-guateque-del-ayuntamiento-de-madrid-arranca-diez-anos-despues-con-34-acusados-2017-01-10/
+      - https://www.europapress.es/madrid/noticia-absueltos-procesados-caso-guateque-anular-audiencia-madrid-toda-prueba-20170619162035.html
+  - fecha: '2012-04-09'
+    titulo: Se conoce el archivo parcial respecto de Luis Armada
+    descripcion: INAP reproduce una noticia de Europa Press sobre el sobreseimiento libre y parcial por prescripción de negociaciones prohibidas. Es la fecha de publicación en INAP; el artículo no precisa el día del auto.
+    type: resumen
     urls:
-      - "https://ecodiario.eleconomista.es/sociedad/noticias/887004/11/08/El-juez-que-instruye-el-caso-Guateque-imputa-a-24-empresarios.html"
-      - "https://www.madridiario.es/noticia/113147/madrid/el-juez-ha-imputado-a-otros-24-empresarios-en-el-caso-guateque.html"
-
-  - fecha: "2012-01-01"
-    titulo: "El juez instructor es multado por retraso injustificado"
-    descripcion: "El Consejo General del Poder Judicial multa con 1.000 euros al primer juez instructor del caso, José Santiago Torres, por retraso injustificado en la tramitación de la causa. El expediente disciplinario refleja la lentitud con la que avanza el procedimiento, que ya acumula cinco años desde los hechos sin haber llegado a juicio. Las dilaciones del caso Guateque se convierten en un ejemplo de la lentitud del sistema judicial español ante casos complejos de corrupción."
-    type: "resumen"
+      - https://laadministracionaldia.inap.es/noticia.asp?id=1058142
+  - fecha: '2014-04-28'
+    titulo: Se conoce la acusación fiscal contra treinta y cuatro personas
+    descripcion: Telemadrid informa de la petición de apertura de juicio y de penas que sumaban más de 250 años por distintos delitos, según cada acusado. La fecha es de publicación, no del escrito fiscal.
+    type: resumen
     urls:
-      - "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-juicio-del-caso-guateque-del-ayuntamiento-de-madrid-arranca-diez-anos-despues-con-34-acusados-2017-01-10/"
-
-  - fecha: "2014-04-28"
-    titulo: "La Fiscalía pide 250 años de prisión para los 34 acusados"
-    descripcion: "La Fiscalía de Madrid solicita formalmente una pena conjunta de 250 años de prisión para los 34 acusados del caso Guateque por delitos de cohecho, negociaciones prohibidas a funcionarios, falsedad documental, prevaricación ambiental y tráfico de influencias. Para Victoriano Ceballos, considerado uno de los presuntos cabecillas, se piden 14 años de prisión; para Joaquín Fernández de Castro, 11 años; y para Santiago Castillo y Carmelo García, penas de hasta 21 años. Las acusaciones apuntan a una red organizada y estable que durante años habría cobrado comisiones a cambio de acelerar la concesión de licencias."
-    type: "investigación"
+      - https://www.telemadrid.es/noticias/madrid/Fiscalia-pide-prision-acusados-Guateque-0-1569143129--20140428025401.html
+  - fecha: '2017-01-10'
+    titulo: Inicio del juicio oral
+    descripcion: La Sección Segunda de la Audiencia Provincial de Madrid inicia el juicio anunciado para treinta y cuatro acusados. El posterior fallo absolvió a treinta; no se atribuye sin prueba una causa concreta a esa diferencia.
+    type: juicio
     urls:
-      - "https://www.telemadrid.es/noticias/madrid/Fiscalia-pide-prision-acusados-Guateque-0-1569143129--20140428025401.html"
-
-  - fecha: "2017-01-10"
-    titulo: "Comienza el juicio oral diez años después de los hechos"
-    descripcion: "La Sección Segunda de la Audiencia Provincial de Madrid inicia el juicio oral del caso Guateque con 34 acusados en el banquillo, exactamente diez años después de que se produjeran los hechos investigados. Durante el juicio, la exfuncionaria de la Junta de Distrito de San Blas Sara López Moreno se declara culpable y admite haber cobrado 2.500 euros de un intermediario por facilitar la aprobación de una licencia. La apertura del juicio reactiva el debate público sobre la corrupción municipal durante la etapa de Ruiz-Gallardón y sobre las conexiones señaladas con las tramas Gürtel y Púnica."
-    type: "investigación"
+      - https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-juicio-del-caso-guateque-del-ayuntamiento-de-madrid-arranca-diez-anos-despues-con-34-acusados-2017-01-10/
+  - fecha: '2017-06-19'
+    titulo: Sentencia absolutoria por nulidad de la prueba
+    descripcion: La sentencia 408/2017 absuelve a treinta acusados de los delitos por los que fueron juzgados. La ilicitud de la grabación inicial y su conexión con el resto de la investigación impidieron valorar las pruebas derivadas.
+    type: sentencia
     urls:
-      - "https://www.publico.es/actualidad/juicio-caso-guateque-ayuntamiento-madrid-arranca-diez-anos-despues-34-acusados.html"
-      - "https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-juicio-del-caso-guateque-del-ayuntamiento-de-madrid-arranca-diez-anos-despues-con-34-acusados-2017-01-10/"
-
-  - fecha: "2017-05-05"
-    titulo: "El caso queda visto para sentencia tras el juicio oral"
-    descripcion: "Tras varios meses de sesiones, la Sección Segunda de la Audiencia Provincial de Madrid da por concluida la fase de juicio oral y declara el caso Guateque visto para sentencia. El tribunal debe resolver si las pruebas que originaron el procedimiento —obtenidas mediante grabaciones por un denunciante equipado por la Guardia Civil— son válidas o deben declararse nulas por vulnerar el derecho a un proceso con todas las garantías."
-    type: "investigación"
+      - https://img.lpderecho.pe/wp-content/uploads/2022/10/STS-2290-2018-LPDerecho.pdf
+      - https://www.europapress.es/madrid/noticia-absueltos-procesados-caso-guateque-anular-audiencia-madrid-toda-prueba-20170619162035.html
+      - https://elpais.com/ccaa/2017/06/20/madrid/1497969834_017053.html
+  - fecha: '2018-06-27'
+    titulo: El Supremo confirma las absoluciones
+    descripcion: La sentencia 311/2018 desestima los recursos de la Fiscalía y del Ayuntamiento, condenando solo a este último en costas. El fallo indica que no cabe recurso.
+    type: sentencia
     urls:
-      - "https://confilegal.com/20170505-tras-10-anos-el-caso-guateque-queda-visto-para-sentencia/"
-
-  - fecha: "2017-06-19"
-    titulo: "La Audiencia de Madrid absuelve a todos los acusados por nulidad de pruebas"
-    descripcion: "La Sección Segunda de la Audiencia Provincial de Madrid absuelve a todos los procesados del caso Guateque al declarar nulas e inválidas todas las pruebas de la causa. El tribunal acredita que la Guardia Civil actuó de mala fe: entregó clandestinamente una grabadora a un denunciante sin autorización judicial y luego presentó un atestado mendaz para ocultar esta irregularidad. Al quedar sin efecto la grabación que originó el procedimiento, toda la cadena probatoria derivada de ella queda también anulada, lo que imposibilita cualquier condena. La Fiscalía de Madrid y el Ayuntamiento de Madrid anuncian que recurrirán la sentencia."
-    type: "sentencia"
+      - https://img.lpderecho.pe/wp-content/uploads/2022/10/STS-2290-2018-LPDerecho.pdf
+      - https://www.europapress.es/madrid/noticia-supremo-confirma-absolucion-procesados-caso-guateque-condena-ayuntamiento-costas-20180628123555.html
+  - fecha: '2018-06-28'
+    titulo: Notificación y firmeza documentadas
+    descripcion: El dictamen del Consejo de Estado 732/2023 identifica esta fecha como la de notificación y firmeza de la sentencia del Supremo.
+    type: resumen
     urls:
-      - "https://www.eldiario.es/madrid/absueltos-guateque-audiencia-madrid-investigacion_1_3327707.html"
-      - "https://www.publico.es/politica/audiencia-madrid-absuelve-30-acusados-caso-guateque-anular-todas-pruebas.html"
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/La-Audiencia-de-Madrid-absuelve-a-los-procesados-por-la--operacion-Guateque--tras-anular-toda-la-prueba"
-
-  - fecha: "2018-06-27"
-    titulo: "El Tribunal Supremo confirma la absolución de todos los acusados"
-    descripcion: "El Tribunal Supremo confirma la absolución de los 30 acusados (de los 34 originales, cuatro habían fallecido o habían visto sus causas archivadas) en el caso Guateque mediante la sentencia 311/2018, rechazando los recursos presentados por la Fiscalía de Madrid y por el Ayuntamiento de Madrid. El alto tribunal ratifica que la grabación que dio origen al procedimiento fue obtenida ilegalmente por la Guardia Civil sin autorización judicial, lo que invalida todo el material probatorio derivado de ella. El Supremo condena en costas tanto a la Fiscalía como al Ayuntamiento de Madrid por haber recurrido la absolución. El caso queda definitivamente cerrado sin ninguna condena."
-    type: "sentencia"
+      - https://www.boe.es/buscar/doc.php?id=CE-D-2023-732&lang=es
+  - fecha: '2023-11-08'
+    titulo: Dictamen sobre responsabilidad patrimonial
+    descripcion: El Consejo de Estado propone indemnizaciones por dilaciones y, para un reclamante, por prisión preventiva. Se trata de un dictamen consultivo; no se acredita aquí su pago ni la resolución administrativa final.
+    type: resumen
     urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-absolucion-de-los-30-acusados-en-el--caso-Guateque--por-la-nulidad-de-la-grabacion-que-dio-origen-a-la-investigacion"
-      - "https://confilegal.com/20180629-caso-guateque-caso-cerrado-el-supremo-confirma-la-absolucion-a-todos-los-acusados/"
-      - "https://www.publico.es/politica/supremo-confirma-absolucion-funcionarios-madrid-procesados-corrupcion-ilegal-grabacion.html"
-
+      - https://www.boe.es/buscar/doc.php?id=CE-D-2023-732&lang=es
 ---
+
+La investigación de presuntas comisiones municipales y su resultado judicial son planos distintos. Las peticiones de prisión y las anotaciones utilizadas durante la instrucción no permiten describir a los investigados como culpables después de una absolución firme. Tampoco basta que los hechos investigados se produjeran bajo un gobierno municipal del PP para atribuir al partido una condena o participación penal que no consta en estas resoluciones.
+
+La sentencia del Supremo permite seguir el origen procesal: el 6 de marzo de 2007 se preparó la grabación; el 9 de marzo se documentó la denuncia sin explicar que los medios técnicos procedían de la Guardia Civil; y el 2 de abril se incoaron diligencias y se adoptaron medidas intrusivas. La grabación original no fue entregada al juzgado. El tribunal rechazó que fuera una conversación privada espontánea y apreció que el particular había actuado por encargo de los agentes para conseguir una declaración incriminatoria.
+
+La nulidad no se basó únicamente en la falta de una autorización judicial considerada de forma aislada. El Supremo examinó la intervención de los agentes, la ocultación del origen de la grabación, las garantías frente a la autoincriminación y la conexión de esa fuente con las diligencias posteriores. Por ello confirmó las absoluciones de la sentencia 408/2017. El fallo de casación de 27 de junio de 2018 desestimó ambas impugnaciones, impuso las costas al Ayuntamiento y señaló que no cabía recurso. No hubo condena en costas a la Fiscalía.
+
+Luis Armada quedó fuera por un motivo diferente. La noticia reproducida por INAP el 9 de abril de 2012 explica que el instructor apreció prescripción en la imputación de negociaciones prohibidas relacionada con una licencia para su vivienda. La cronología utiliza la fecha conocida de esa publicación sin inventar el día del auto. No se describe el archivo como una absolución del juicio de 2017.
+
+Las empresas también deben distinguirse. Santiago Castillo Morales estaba relacionado con AC 93 y no era funcionario municipal. Carmelo García Sánchez había dejado la función pública. Agustino Proyectos e Instalaciones era otra sociedad, vinculada a Eduardo Agustino Carrasco. La fuente de 2014 describe el contenido de la acusación, no un pronunciamiento que probara los sobornos.
+
+El dictamen del Consejo de Estado de noviembre de 2023 recoge reclamaciones posteriores y propone compensaciones por dilaciones y prisión preventiva. No es una sentencia penal ni acredita por sí mismo pagos efectivamente realizados. La ficha no agrega esas cantidades, las comisiones denunciadas y los costes procesales como si fueran un perjuicio económico único. Tampoco publica cero euros como daño probado: falta una cuantificación consolidada y verificable.
+
+Fuentes: [sentencia del Supremo 311/2018](https://img.lpderecho.pe/wp-content/uploads/2022/10/STS-2290-2018-LPDerecho.pdf); [dictamen del Consejo de Estado 732/2023](https://www.boe.es/buscar/doc.php?id=CE-D-2023-732&lang=es); [archivo parcial de Armada](https://laadministracionaldia.inap.es/noticia.asp?id=1058142); [información sobre el juicio](https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-juicio-del-caso-guateque-del-ayuntamiento-de-madrid-arranca-diez-anos-despues-con-34-acusados-2017-01-10/); [acusación fiscal publicada en 2014](https://www.telemadrid.es/noticias/madrid/Fiscalia-pide-prision-acusados-Guateque-0-1569143129--20140428025401.html); [absoluciones de 2017](https://www.europapress.es/madrid/noticia-absueltos-procesados-caso-guateque-anular-audiencia-madrid-toda-prueba-20170619162035.html); [resolución del recurso en 2018](https://www.europapress.es/madrid/noticia-supremo-confirma-absolucion-procesados-caso-guateque-condena-ayuntamiento-costas-20180628123555.html).
