@@ -1,278 +1,273 @@
 ---
-nombre: "Caso Begoña Gómez"
+nombre: Caso Begoña Gómez
 partido: PSOE
 completado: false
 año: 2024
-fechaInicio: 2024-04-16
-fechaFin: ""
-estado: "pendiente de juicio"
-descripcion: |
-  El caso Begoña Gómez es una investigación judicial sobre la actividad profesional de Begoña Gómez Fernández, esposa del presidente del Gobierno Pedro Sánchez, como codirectora de la cátedra extraordinaria de Transformación Social Competitiva de la Universidad Complutense de Madrid (UCM) y en relación con el software desarrollado en el marco de esa cátedra. La causa se abrió en abril de 2024 en el Juzgado de Instrucción nº 41 de Madrid, a cargo del juez Juan Carlos Peinado, a raíz de una denuncia de Manos Limpias (la fecha exacta varía según las fuentes: 6, 8 o 16 de abril de 2024) que después fue respaldada y ampliada con querellas de Hazte Oír y Vox. La denuncia inicial aludía, entre otros extremos, a las cartas de recomendación firmadas por Gómez y al rescate de Air Europa; sin embargo, la instrucción terminó centrándose en la cátedra y en el uso de recursos institucionales, y la Audiencia Provincial de Madrid excluyó el rescate de Air Europa del objeto de la causa (auto de 13 de mayo de 2025), además de dejar sin efecto la imputación del rector de la UCM, Joaquín Goyache, y del directivo Juan José Güemes.
+fechaInicio: '2024-04-16'
+estado: pendiente de juicio
+descripcion: 'La causa investiga la actividad profesional de María Begoña Gómez Fernández, esposa del presidente
+  del Gobierno Pedro Sánchez, en la cátedra extraordinaria de Transformación Social Competitiva de la Universidad
+  Complutense de Madrid (UCM), las gestiones relativas a su software y el supuesto aprovechamiento de su relación
+  con el presidente. Se abrió el 16 de abril de 2024 a raíz de una denuncia de Manos Limpias. Las sospechas y los
+  relatos de las acusaciones no son hechos probados.
 
-  El juez Peinado fue ampliando la imputación a lo largo de la instrucción (corrupción en los negocios, apropiación indebida del software, intrusismo profesional y malversación por la contratación de la asesora Cristina Álvarez). En abril de 2026 cerró la instrucción y procesó a Gómez por cuatro delitos —tráfico de influencias, corrupción en los negocios, malversación de caudales públicos y apropiación indebida—, descartando el intrusismo, y propuso que la causa se juzgara ante un Tribunal del Jurado. La Fiscalía pidió el archivo de forma reiterada por entender que los hechos no son constitutivos de delito, y la defensa de Gómez negó cualquier aprovechamiento de su posición.
 
-  El 16 de julio de 2026 la Sección 23 de la Audiencia Provincial de Madrid, reunida en pleno, avaló en lo sustancial la instrucción y confirmó el juicio con jurado, pero limitó los delitos a tráfico de influencias y malversación: sobreseyó la corrupción en los negocios y recondujo la apropiación indebida del software al ámbito de la malversación. Mantiene el enjuiciamiento de Cristina Álvarez solo por un presunto delito de malversación (como cooperadora necesaria vinculada al software) y aparta del procedimiento del jurado a Juan Carlos Barrabés, cuya investigación sobre las adjudicaciones públicas continúa por separado en un procedimiento abreviado. La Audiencia levantó además las medidas cautelares (retirada del pasaporte, prohibición de salir del país y comparecencias quincenales). El 21 de septiembre de 2026, días antes de jubilarse, Peinado dictó un nuevo auto de apertura de juicio oral —ya solo por tráfico de influencias y malversación y sin medidas cautelares— y ordenó averiguar la capacidad económica de Gómez. La Fiscalía y las defensas mantienen su petición de absolución; la acusación popular, liderada por Hazte Oír, reclama 13 años de prisión para Gómez y seis para Álvarez.
+  El auto 655/2026 de la Audiencia Provincial de Madrid, fechado el 13 de julio y firmado y difundido el 16, limitó
+  el procedimiento del jurado a Gómez por presuntos delitos de tráfico de influencias y malversación, y a María
+  Cristina Álvarez Rodríguez por presunta malversación exclusivamente en relación con el desvío del software. Sobreseyó
+  para todos la corrupción en los negocios, descartó la apropiación indebida como calificación independiente y separó
+  a Juan Carlos Barrabés del jurado para investigar las adjudicaciones por otro cauce. El sobreseimiento de Álvarez
+  por tráfico de influencias fue parcial y provisional. El auto de apelación se declara firme; no es una sentencia
+  de culpabilidad.
 
-  No existe sentencia ni firmeza, y tampoco un coste probado: la UCM ha reclamado 113.509 euros por el software de la cátedra, cifra no confirmada judicialmente. La fecha del juicio con jurado no está fijada. La Audiencia Provincial de Madrid revisó y corrigió varias resoluciones del instructor; el Tribunal Supremo archivó en julio de 2025 la solicitud de Peinado para imputar al ministro Félix Bolaños; y el CGPJ tramitó diligencias informativas contra el juez Peinado.
-resumen: "Investigación sobre la actividad profesional de Begoña Gómez, esposa del presidente del Gobierno, en la cátedra de la UCM: enviada a juicio con jurado por tráfico de influencias y malversación; sin sentencia"
-coste: 0
-lugar: "Madrid, España"
+
+  Según Europa Press y RTVE, el instructor abrió de nuevo juicio oral el 21 de septiembre de 2026 con ese alcance.
+  Fiscalía y defensas solicitan la absolución; la acusación popular unificada pide penas de prisión. No se ha verificado
+  un señalamiento oficial ni una sentencia al 15 de octubre de 2026. Quedan pendientes el cotejo del original del
+  auto de septiembre y la comprobación completa del alcance posterior de las investigaciones separadas sobre Barrabés.
+  La UCM reclama 113.509,32 euros por el software, sin que esta cifra sea un daño establecido en sentencia.'
+resumen: Abierto juicio oral con jurado contra Gómez por presunto tráfico de influencias y malversación, y contra
+  Álvarez por malversación del software; sin sentencia verificada.
+lugar: Madrid, España
 tribunal:
-  - "Juzgado de Instrucción nº 41 de Madrid (Sección de Instrucción del Tribunal de Instancia de Madrid) - Juez Juan Carlos Peinado (hasta su jubilación en septiembre de 2026)"
-  - "Audiencia Provincial de Madrid - Sección 23 (recursos de apelación)"
-  - "Tribunal del Jurado (Audiencia Provincial de Madrid)"
-numeroSentencia: ""
+- Sección de Instrucción del Tribunal de Instancia de Madrid, plaza n.º 41 (anterior Juzgado de Instrucción n.º
+  41)
+- Audiencia Provincial de Madrid, Sección 23.ª (apelación)
+- Tribunal del Jurado de la Audiencia Provincial de Madrid (enjuiciamiento acordado)
 implicados:
-  - nombre: "Begoña Gómez Fernández"
-    cargo: "Codirectora de la cátedra extraordinaria de Transformación Social Competitiva de la UCM; esposa del presidente del Gobierno"
-    rol: "Enviada a juicio ante el Tribunal del Jurado (auto de apertura de 21 de septiembre de 2026) por presuntos delitos de tráfico de influencias y malversación de caudales públicos. La Audiencia Provincial de Madrid sobreseyó la corrupción en los negocios y recondujo la apropiación indebida al ámbito de la malversación (auto de 16 de julio de 2026). No hay sentencia; rige la presunción de inocencia."
-
-  - nombre: "Cristina Álvarez Rodríguez"
-    cargo: "Asesora de Begoña Gómez en La Moncloa; funcionaria adscrita a Presidencia del Gobierno"
-    rol: "Enviada a juicio con jurado por un presunto delito de malversación de caudales públicos, como cooperadora necesaria y en relación con el supuesto desvío del software de la cátedra (autos de la Audiencia de 16 de julio de 2026 y de apertura de juicio oral de 21 de septiembre de 2026). Quedó fuera de la imputación por tráfico de influencias. No hay sentencia."
-
-  - nombre: "Juan Carlos Barrabés"
-    cargo: "Empresario tecnológico; colaborador en la cátedra y adjudicatario de contratos públicos"
-    rol: "Apartado por la Audiencia Provincial de Madrid (16 de julio de 2026) del procedimiento del jurado al no apreciar indicios suficientes para enjuiciarlo por tráfico de influencias. Su investigación por las adjudicaciones públicas continúa por separado en un procedimiento abreviado (posible prevaricación administrativa) y ante la Fiscalía Europea. No hay sentencia."
-
-  - nombre: "Joaquín Goyache"
-    cargo: "Rector de la Universidad Complutense de Madrid"
-    rol: "Fue imputado durante la instrucción y su imputación fue revocada por la Audiencia Provincial de Madrid; en mayo de 2025 el juez acordó archivar la causa contra él. Ha declarado como testigo y figura como testigo propuesto por la acusación popular. No está procesado."
-
+- nombre: María Begoña Gómez Fernández
+  cargo: Excodirectora de la cátedra extraordinaria de Transformación Social Competitiva de la UCM; esposa del presidente
+    del Gobierno
+  rol: Acusada tras la apertura de juicio oral de 21 de septiembre de 2026, según la información de Europa Press,
+    por presuntos delitos de tráfico de influencias y malversación. El auto 655/2026 limita los tipos penales; no
+    hay sentencia verificada.
+- nombre: María Cristina Álvarez Rodríguez
+  cargo: Personal eventual de Presidencia del Gobierno que prestó asistencia a Begoña Gómez
+  rol: Acusada por presunta malversación exclusivamente en relación con el desvío del software, como cooperadora
+    necesaria. El auto 655/2026 sobresee parcial y provisionalmente el tráfico de influencias respecto de ella;
+    no hay sentencia verificada.
+- nombre: Juan Carlos Barrabés Cónsul
+  cargo: Empresario vinculado a la cátedra y a empresas adjudicatarias de contratos públicos
+  rol: Separado del procedimiento del jurado por el auto 655/2026, que dispone continuar la investigación sobre
+    adjudicaciones mediante diligencias previas. La pieza sobre el expediente Red.es 044/20-ED fue remitida a la
+    Fiscalía Europea por auto de 27 de julio, según la prensa de 4 de agosto; no equivale a juicio ni condena.
+- nombre: Joaquín Goyache
+  cargo: Rector de la UCM durante los hechos investigados
+  rol: Su condición de investigado quedó sin efecto por decisión de la Audiencia Provincial, ejecutada por el instructor
+    en mayo de 2025, según RTVE. No se le incluye entre las personas enviadas a juicio en septiembre de 2026.
 tags:
-  - "corrupción"
-  - "tráfico de influencias"
-  - "malversación"
-  - "contratación pública"
-
-impactoSocial: "El caso se ha convertido en uno de los asuntos judiciales de mayor repercusión política de la legislatura y en un foco de confrontación entre el Gobierno y la oposición. La comparecencia de Pedro Sánchez como testigo en julio de 2024 fue presentada por los medios como la primera de un presidente del Gobierno en activo por una causa que afectaba a un familiar directo. La Audiencia Provincial de Madrid corrigió varias decisiones de la instrucción y el Tribunal Supremo archivó en julio de 2025 la solicitud de imputar al ministro Félix Bolaños; el CGPJ tramitó diligencias informativas contra el juez Peinado. El Gobierno y el PSOE calificaron la causa de política, mientras el PP sostuvo que el juicio demuestra que la Justicia funciona."
-
-documentos: []
-
+- presunto tráfico de influencias
+- presunta malversación
+- universidad
+- juicio con jurado
+impactoSocial: La investigación ha provocado una intensa controversia entre el Gobierno y la oposición. Las posiciones
+  políticas de inocencia o culpabilidad no sustituyen la prueba judicial. Las diligencias informativas sobre la
+  actuación del instructor tienen un objeto distinto de la responsabilidad penal de las acusadas.
+documentos:
+- fecha: '2026-04-11'
+  titulo: Auto de continuación del procedimiento del jurado (copia judicial alojada por un medio; fallo pp. 38-39)
+  filetype: pdf
+  paginas: 39
+  nombre_fichero: https://fuentesinformadas.com/wp-content/uploads/2026/04/AUTO-IMPUTACION-BEGONA-GOMEZ-11.04.2026.pdf
+- fecha: '2026-07-13'
+  titulo: 'Auto 655/2026 de la Audiencia Provincial: alcance por persona, repetición de fase intermedia y medidas
+    (fallo pp. 61-63)'
+  filetype: pdf
+  paginas: 63
+  nombre_fichero: https://cita.es/auto/begona-gomez-software.pdf
 cronologia:
-  - fecha: "2024-04-16"
-    titulo: "El juez Peinado abre diligencias tras una denuncia de Manos Limpias"
-    descripcion: "El Juzgado de Instrucción nº 41 de Madrid, a cargo del juez Juan Carlos Peinado, abre diligencias previas tras una denuncia de Manos Limpias contra Begoña Gómez por presunto tráfico de influencias y corrupción en los negocios. Según las fuentes, la denuncia se presentó el 6, el 8 o el 16 de abril de 2024 y se basaba en recortes de prensa; aludía a cartas de recomendación firmadas por Gómez y al rescate de Air Europa. La causa se ampliaría después con querellas de Hazte Oír y Vox."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://www.newtral.es/caso-begona-gomez/20241007/"
-      - "https://elpais.com/espana/2026-06-03/el-juez-pospone-la-citacion-de-begona-gomez-al-15-de-junio.html"
-
-  - fecha: "2024-07-05"
-    titulo: "Begoña Gómez comparece como investigada y la declaración se aplaza"
-    descripcion: "Begoña Gómez acude a los juzgados de Plaza de Castilla citada como investigada, pero alega no tener conocimiento de la causa y el juez Peinado decide posponer su declaración. La comparecencia efectiva se fijaría para días después."
-    type: "declaración"
-    relevancia: "media"
-    urls:
-      - "https://www.newtral.es/caso-begona-gomez/20241007/"
-
-  - fecha: "2024-07-19"
-    titulo: "Gómez se acoge a su derecho a no declarar; Goyache declara como testigo"
-    descripcion: "Begoña Gómez se acoge a su derecho a no declarar ante el juez Peinado. Ese mismo día declara como testigo el rector de la UCM, Joaquín Goyache, que sostiene que no hubo irregularidades en la cátedra. El juez cambia la condición de testigo a investigado del empresario Juan Carlos Barrabés."
-    type: "declaración"
-    relevancia: "alta"
-    urls:
-      - "https://www.newtral.es/caso-begona-gomez/20241007/"
-
-  - fecha: "2024-07-30"
-    titulo: "Pedro Sánchez comparece como testigo y se acoge a su derecho a no declarar"
-    descripcion: "El presidente del Gobierno, Pedro Sánchez, es citado como testigo en el Palacio de la Moncloa y se acoge a su derecho a no declarar por ser cónyuge de la investigada (artículo 416 de la Ley de Enjuiciamiento Criminal). Los medios lo presentan como la primera comparecencia de un presidente en activo por una causa que afecta a un familiar directo."
-    type: "declaración"
-    relevancia: "alta"
-    urls:
-      - "https://www.newtral.es/caso-begona-gomez/20241007/"
-      - "https://www.rtve.es/noticias/20260922/cronologia-caso-begona-gomez/17233739.shtml"
-
-  - fecha: "2024-10-07"
-    titulo: "La Audiencia de Madrid acota la investigación y excluye el rescate de Globalia/Air Europa"
-    descripcion: "La Audiencia Provincial de Madrid estima parcialmente los recursos de la defensa y de la Fiscalía y exige al juez Peinado acotar la investigación, eliminando del objeto de la causa las acusaciones relacionadas con el rescate público de Globalia y Air Europa. El tribunal limita así una instrucción que consideraba excesivamente amplia."
-    type: "recurso"
-    relevancia: "media"
-    urls:
-      - "https://www.newtral.es/caso-begona-gomez/20241007/"
-      - "https://www.rtve.es/noticias/20250527/juez-peinado-archiva-causa-contra-rector-complutense-juan-jose-gueemes-caso-begona-gomez/16598589.shtml"
-
-  - fecha: "2024-10-29"
-    titulo: "El juez amplía la causa a apropiación indebida e intrusismo profesional"
-    descripcion: "El juez Peinado amplía la investigación contra Begoña Gómez por presunta apropiación indebida del software desarrollado en el marco de la cátedra e intrusismo profesional, admitiendo una querella de la asociación Hazte Oír. Con ello se suman dos nuevos tipos penales a los ya imputados."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "https://www.newtral.es/juez-amplia-causas-investigacion-begona-gomez/20241029/"
-
-  - fecha: "2025-05-27"
-    titulo: "Peinado renuncia a investigar el rescate de Air Europa y archiva la causa contra Goyache y Güemes"
-    descripcion: "En cumplimiento de un auto de la Audiencia Provincial de Madrid (13 de mayo de 2025), el juez Peinado deja sin efecto la petición de información a la SEPI sobre el rescate de Air Europa y levanta la imputación del rector de la UCM, Joaquín Goyache, y del directivo del Instituto de Empresa Juan José Güemes, al no apreciar indicios contra ellos. La investigación continúa contra Gómez y Barrabés."
-    type: "recurso"
-    relevancia: "media"
-    urls:
-      - "https://www.rtve.es/noticias/20250527/juez-peinado-archiva-causa-contra-rector-complutense-juan-jose-gueemes-caso-begona-gomez/16598589.shtml"
-
-  - fecha: "2025-10-13"
-    titulo: "Peinado prorroga la instrucción hasta abril de 2026"
-    descripcion: "El juez Juan Carlos Peinado acuerda una nueva prórroga de seis meses del plazo de instrucción, a contar desde el 16 de octubre de 2025 y hasta el 16 de abril de 2026, alegando diligencias pendientes. La decisión se adopta pese a la oposición de la defensa de Gómez y de la Fiscalía, que solicitaban el archivo."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.eldiario.es/politica/juez-peinado-prorroga-investigacion-begona-gomez-abril-2026_1_12678849.html"
-      - "https://www.moncloa.com/2025/10/13/peinado-prorroga-la-investigacion-a-begona-gomez-hasta-abril-de-2026-3268545"
-
-  - fecha: "2026-03-20"
-    titulo: "Peinado vuelve a acordar el procedimiento del jurado y acumula la pieza de malversación"
-    descripcion: "El juez Peinado dicta un auto por el que acuerda de nuevo la apertura del procedimiento ante el Tribunal del Jurado, acumulando la investigación sobre la cátedra con la pieza separada por malversación. Es el segundo intento del instructor tras haber sido anulado en febrero de 2026 su primer auto de transformación por falta de motivación."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://okdiario.com/espana/audiencia-madrid-avala-peinado-mantiene-juicio-jurado-begona-gomez-malversacion-trafico-influencias-19008615"
-      - "https://elpais.com/espana/2026-05-13/begona-gomez-pide-al-juez-peinado-paralizar-su-causa-hasta-que-se-resuelvan-los-recursos.html"
-
-  - fecha: "2026-04-01"
-    titulo: "Vista previa al jurado: Fiscalía y defensas reiteran el archivo"
-    descripcion: "En una comparecencia celebrada en los juzgados de Plaza de Castilla, el juez comunica a las partes que, en caso de ir a juicio, la causa sería juzgada por un jurado popular. Las defensas de Gómez, Álvarez y Barrabés, junto con la Fiscalía, reiteran su petición de archivo de la causa."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.infobae.com/espana/2026/04/01/la-fiscalia-y-begona-gomez-vuelven-a-pedir-al-juez-peinado-el-archivo-de-la-causa/"
-
-  - fecha: "2026-04-11"
-    titulo: "Auto de procesamiento: Peinado cierra la instrucción y procesa por cuatro delitos"
-    descripcion: "El juez Peinado da por concluida la instrucción en un auto fechado el 11 de abril de 2026, que se conoce y difunde el 13 de abril. Procesa a Begoña Gómez por cuatro delitos —tráfico de influencias, corrupción en los negocios, malversación de caudales públicos y apropiación indebida— y sobresee el intrusismo profesional por falta de indicios sólidos. Continúa el procedimiento contra Cristina Álvarez por los mismos delitos y contra Juan Carlos Barrabés por los dos primeros, y abre plazo para las conclusiones de las partes."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "https://www.lavanguardia.com/politica/20260413/11511997/juez-peinado-concluye-instruccion-deja-begona-gomez-paso-juicio.html"
-      - "https://www.elmundo.es/espana/2026/04/13/69dcc4a8fc6c831a468b458c.html"
-      - "https://www.rtve.es/noticias/20260413/peinado-procesa-a-begona-gomez-por-trafico-influencias-malversacion-corrupcion-negocios-apropiacion-indebida/17020957.shtml"
-      - "https://confilegal.com/20260413-el-magistrado-peinado-acuerda-juzgar-a-begona-gomez-por-trafico-de-influencias-corrupcion-malversacion-y-apropiacion-indebida"
-
-  - fecha: "2026-04-22"
-    titulo: "La Fiscalía recurre el procesamiento y pide el archivo"
-    descripcion: "La Fiscalía recurre ante la Audiencia Provincial de Madrid el auto de procesamiento de Gómez, Álvarez y Barrabés y solicita el archivo de la causa para los tres por no ser los hechos constitutivos de infracción penal. La defensa de Gómez también recurre las resoluciones del instructor."
-    type: "recurso"
-    relevancia: "media"
-    urls:
-      - "https://www.lavanguardia.com/politica/20260422/11520153/fiscalia-recurre-procesamiento-begona-gomez-pide-archivo-causa.html"
-
-  - fecha: "2026-04-30"
-    titulo: "La Audiencia rechaza el informe de la Abogacía del Estado sobre el software"
-    descripcion: "La Audiencia Provincial de Madrid rechaza la petición del juez Peinado para que la Abogacía del Estado informe sobre la titularidad del software desarrollado en la cátedra, por considerarla impropia de la fase de instrucción, y avala otras diligencias, como la citación de nuevos testigos. También valida la denegación de la entrega de las grabaciones de unas declaraciones de septiembre de 2025."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://theobjective.com/espana/tribunales/2026-04-30/audiencia-abogados-del-estado-software-begona-gomez/"
-      - "https://www.infobae.com/espana/agencias/2026/04/30/la-audiencia-de-madrid-avala-citar-como-testigo-a-un-empresario-que-se-reunio-con-begona-gomez-y-su-asesora/"
-
-  - fecha: "2026-05-06"
-    titulo: "Peinado rechaza los recursos que pedían el archivo"
-    descripcion: "El juez Peinado desestima los recursos de reforma de Begoña Gómez, Cristina Álvarez y Juan Carlos Barrabés contra la decisión de enviar el procedimiento a un Tribunal del Jurado y confirma el procesamiento. La Fiscalía se había adherido a la petición de archivo. Contra la resolución cabe recurso de apelación."
-    type: "recurso"
-    relevancia: "media"
-    urls:
-      - "https://www.rtve.es/noticias/20260506/juez-peinado-rechaza-archivar-caso-begona-gomez-insiste-juzgue-jurado/17056437.shtml"
-
-  - fecha: "2026-06-20"
-    titulo: "Peinado abre juicio oral con jurado y retira el pasaporte a Gómez y Álvarez (auto de 20 de junio)"
-    descripcion: "El juez Peinado dicta un auto fechado el 20 de junio de 2026, difundido ese mismo día (algunos medios lo publican el 21), por el que acuerda la apertura de juicio oral con jurado contra Begoña Gómez y Cristina Álvarez por cuatro delitos y contra Juan Carlos Barrabés por dos, e impone a las dos primeras medidas cautelares: retirada del pasaporte, prohibición de salir del país y comparecencia quincenal en el juzgado, al apreciar riesgo de fuga. Las defensas anuncian recurso."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.elmundo.es/espana/2026/06/20/6a367851e9cf4a7e6e8b456d.html"
-      - "https://www.20minutos.es/nacional/juez-peinado-remata-causa-begona-gomez-enviandola-un-juicio-con-jurado-popular-tres-meses-jubilarse_6985929_0.html"
-
-  - fecha: "2026-06-22"
-    titulo: "El CGPJ remite al Promotor de la Acción Disciplinaria el auto de Peinado"
-    descripcion: "La Comisión Permanente del CGPJ acuerda, con el voto de calidad de su presidenta, remitir al Promotor de la Acción Disciplinaria una copia del auto de Peinado para que valore si sus afirmaciones sobre la escolta policial de Gómez —a la que sugería una posible colaboración en una fuga— constituyen una falta grave de consideración. No se abre aún expediente disciplinario."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.eldiario.es/politica/judicial-abre-expediente-juez-peinado-auto-begona-gomez-voto-conservadores_1_13321965.html"
-      - "https://okdiario.com/espana/cgpj-abre-expediente-juez-peinado-gracias-voto-calidad-presidenta-isabel-perello-18830383"
-
-  - fecha: "2026-07-16"
-    titulo: "La Audiencia confirma el jurado pero reduce los delitos a tráfico de influencias y malversación"
-    descripcion: "El pleno de la Sección 23 de la Audiencia Provincial de Madrid avala en lo esencial la instrucción y confirma el juicio con jurado contra Begoña Gómez, pero solo por tráfico de influencias y malversación: sobresee la corrupción en los negocios y reconduce la apropiación indebida del software a la malversación. Cristina Álvarez queda procesada únicamente por malversación, como cooperadora necesaria y en relación con el software, y Juan Carlos Barrabés es apartado del procedimiento del jurado, cuya investigación sobre las adjudicaciones públicas continúa por separado. La Sala levanta las medidas cautelares y deja sin efecto el auto de apertura de juicio oral del 20 de junio."
-    type: "recurso"
-    relevancia: "alta"
-    urls:
-      - "https://efe.com/espana/2026-07-16/audiencia-madrid-mantiene-juicio-dos-delitos"
-      - "https://www.elmundo.es/espana/2026/07/16/6a5751d0e4d4d8947d8b458a.html"
-      - "https://www.rtve.es/noticias/20260716/audiencia-madrid-mantiene-juicio-con-jurado-popular-contra-begona-gomez-ordena-devolucion-su-pasaporte/17158645.shtml"
-
-  - fecha: "2026-07-27"
-    titulo: "La acusación popular rebaja de 24 a 13 años su petición de cárcel para Gómez"
-    descripcion: "La acusación popular liderada por Hazte Oír presenta su escrito de conclusiones adaptado a los dos delitos que mantiene la Audiencia y reclama 13 años de prisión para Begoña Gómez (dos por tráfico de influencias y once por dos delitos de malversación) y seis años para Cristina Álvarez. Solicita además que Pedro Sánchez declare como testigo en el juicio."
-    type: "juicio"
-    relevancia: "media"
-    urls:
-      - "https://www.elmundo.es/espana/2026/07/27/6a671f21e4d4d8c8268b45a0.html"
-      - "https://elpais.com/espana/2026-07-27/la-acusacion-popular-rebaja-su-peticion-de-carcel-para-begona-gomez-de-24-a-13-anos.html"
-
-  - fecha: "2026-07-28"
-    titulo: "El CGPJ remite al TSJ de Madrid dos diligencias informativas sobre Peinado"
-    descripcion: "La Comisión Permanente del CGPJ acuerda por mayoría remitir al Tribunal Superior de Justicia de Madrid dos diligencias informativas incoadas contra el juez Peinado, una por la falta de consideración hacia los agentes de la escolta y otra por un presunto retraso en la tramitación de un procedimiento. Acuerda además archivar otras cuatro quejas, entre ellas las planteadas por el ministro Félix Bolaños."
-    type: "investigación"
-    relevancia: "baja"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/En-Portada/El-CGPJ-acuerda-remitir-al-TSJ-de-Madrid-dos-diligencias-informativas-incoadas-al-magistrado-Juan-Carlos-Peinado-para-que-valore-si-pudo-incurrir-en-sendas-faltas-leves-de-desconsideracion-y-de-retraso"
-
-  - fecha: "2026-09-04"
-    titulo: "La defensa de Gómez presenta su escrito pidiendo la absolución"
-    descripcion: "La defensa de Begoña Gómez, ejercida por el abogado Jaime Campaner, remite su escrito de defensa de cara al futuro juicio, en el que solicita su absolución y niega que se aprovechara de su vínculo matrimonial con el presidente del Gobierno para conseguir una cátedra o para obtener un beneficio económico; también niega la apropiación del software y pide la condena en costas de la acusación popular."
-    type: "juicio"
-    relevancia: "baja"
-    urls:
-      - "https://www.lavanguardia.com/politica/20260904/11627300/begona-gomez-reclama-libre-absolucion-catedra-complutense.html"
-      - "https://www.eldiario.es/politica/begona-gomez-pide-absolucion-alude-memorias-ana-botella-defender-papel-asistente_1_13487182.html"
-      - "https://www.elconfidencial.com/espana/2026-09-04/begona-gomez-juez-escrito-defensa_4417898/"
-
-  - fecha: "2026-09-08"
-    titulo: "Audiencia preliminar previa a la apertura de juicio oral"
-    descripcion: "El juez Peinado celebra en su juzgado la audiencia preliminar en la que las partes exponen sus posiciones antes de que se dicte el auto de apertura de juicio oral, trámite previsto por la Ley del Jurado. Las defensas y la Fiscalía reclaman la absolución."
-    type: "juicio"
-    relevancia: "media"
-    urls:
-      - "https://www.elindependiente.com/espana/2026/09/08/peinado-broche-final-begona-gomez-falta-enviarla-juicio-jurado"
-      - "https://www.rtve.es/noticias/20260922/cronologia-caso-begona-gomez/17233739.shtml"
-
-  - fecha: "2026-09-21"
-    titulo: "Peinado dicta auto de apertura de juicio oral por tráfico de influencias y malversación"
-    descripcion: "El juez Peinado abre juicio oral con jurado contra Begoña Gómez por presuntos delitos de tráfico de influencias y malversación y contra Cristina Álvarez por malversación, como cooperadora necesaria en el desvío del software. No impone medidas cautelares y ordena averiguar la capacidad económica de Gómez y remitir sus cinco últimas declaraciones del IRPF. La resolución se produce la semana en que el magistrado se jubila."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.rtve.es/noticias/20260921/juez-peinado-abre-juicio-oral-contra-begona-gomez-por-presuntos-delitos-trafico-influencias-malversacion/17233341.shtml"
-      - "https://www.europapress.es/nacional/noticia-juez-peinado-envia-nuevo-juicio-begona-gomez-presuntos-delitos-malversacion-trafico-influencias-20260921121357.html"
-      - "https://www.elmundo.es/espana/2026/09/21/6ab102c3e4d4d8b2188b4583.html"
-
-  - fecha: "2026-09-26"
-    titulo: "El BOE publica la jubilación forzosa del juez Peinado"
-    descripcion: "El BOE publica el acuerdo del CGPJ que declara la jubilación forzosa por edad del magistrado Juan Carlos Peinado, con efectos desde el 27 de septiembre de 2026, cuando cumple 72 años. La causa queda pendiente de reparto y señalamiento en la Audiencia Provincial de Madrid, que debe fijar la fecha del juicio con jurado."
-    type: "resumen"
-    relevancia: "baja"
-    urls:
-      - "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19944"
-      - "https://www.rtve.es/noticias/20260926/boe-publica-jubilacion-forzosa-por-edad-del-juez-peinado/17241702.shtml"
-
-  - fecha: "2026-09-28"
-    titulo: "La Fiscalía reprocha a Peinado la 'precipitación' en la audiencia preliminar"
-    descripcion: "La Fiscalía Provincial de Madrid presenta un escrito en el que reprocha al juez Peinado haber convocado la audiencia preliminar del 8 de septiembre con 'precipitación y celeridad' y 'escasa sensibilidad' hacia los intervinientes, aunque descarta que ello generara indefensión bastante para anular lo actuado."
-    type: "recurso"
-    relevancia: "baja"
-    urls:
-      - "https://www.ondacero.es/noticias/espana/caso-begona-gomez-fiscalia-afea-juez-peinado-sus-decisiones-tomadas-precipitacion-celeridad_202609286aba59acf8fc5f73abbc4368.html"
+- fecha: '2024-04-16'
+  titulo: Apertura de las diligencias 1146/2024
+  descripcion: El juzgado abre diligencias por presunto tráfico de influencias y corrupción en los negocios tras
+    recibir la denuncia de Manos Limpias. La noticia de RTVE de 24 de abril y su información de 29 de mayo identifican
+    el auto de apertura como de 16 de abril; no se confunde esta fecha con la presentación de la denuncia.
+  type: denuncia
+  relevancia: alta
+  urls:
+  - https://amp.rtve.es/noticias/20240424/juzgado-abre-diligencias-contra-begona-gomez-presunto-trafico-influencias-corrupcion-negocios/16074318.shtml
+  - https://www.rtve.es/noticias/20240529/audiencia-madrid-avala-apertura-causa-contra-begona-gomez-presunto-trafico-influencias-corrupcion/16124525.shtml
+- fecha: '2024-07-05'
+  titulo: Se aplaza la declaración de Gómez
+  descripcion: El juez aplaza la declaración hasta el 19 de julio para evitar indefensión por no habérsele notificado
+    la querella de Hazte Oír. El rector Goyache comparece como testigo ese día, según la información contemporánea.
+  type: investigacion
+  relevancia: media
+  urls:
+  - https://www.rtve.es/noticias/20240705/begona-gomez-declaracion-justicia/16175137.shtml
+  - https://www.lasexta.com/noticias/nacional/rector-complutense-niega-juez-irregularidades-catedra-begona-gomez_202407056687ea7ac53ff80001679195.html
+- fecha: '2024-07-19'
+  titulo: Gómez se acoge al derecho a no declarar
+  descripcion: Gómez no declara como investigada. RTVE informa también del cambio de condición procesal de Barrabés
+    y de las comparecencias de los vicerrectores Coello de Portugal y Doadrio; no atribuye a Goyache una declaración
+    en esta fecha.
+  type: investigacion
+  relevancia: media
+  urls:
+  - https://www.rtve.es/noticias/20240719/begona-gomez-vuelve-juzgados-declarar/16191439.shtml
+- fecha: '2025-05-27'
+  titulo: Se conoce el archivo respecto de Goyache y Güemes
+  descripcion: 'RTVE informa de que el instructor ejecuta el auto de la Audiencia de 13 de mayo: deja sin efecto
+    la condición de investigados del rector y de Juan José Güemes y renuncia a pedir a la SEPI información del rescate
+    de Air Europa, ajeno al objeto delimitado de la causa. El 27 de mayo es fecha de publicación.'
+  type: recurso
+  relevancia: media
+  urls:
+  - https://www.rtve.es/noticias/20250527/juez-peinado-archiva-causa-contra-rector-complutense-juan-jose-gueemes-caso-begona-gomez/16598589.shtml
+- fecha: '2025-10-13'
+  titulo: Se conoce una prórroga de seis meses
+  descripcion: La información publicada este día recoge una prórroga de la instrucción desde el 16 de octubre de
+    2025 hasta el 16 de abril de 2026 por diligencias pendientes. No se identifica el día de publicación como fecha
+    verificada del auto.
+  type: investigacion
+  relevancia: media
+  urls:
+  - https://www.eldiario.es/politica/juez-peinado-prorroga-investigacion-begona-gomez-abril-2026_1_12678849.html
+- fecha: '2026-02-23'
+  titulo: Se publica la anulación del primer paso al jurado
+  descripcion: El País informa de una resolución de la Audiencia fechada el 20 de enero que revoca decisiones anteriores
+    de transformación por insuficiente motivación y retrotrae las actuaciones. No archiva toda la causa ni impide
+    acordar de nuevo el procedimiento con motivación suficiente.
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://elpais.com/espana/2026-02-23/la-audiencia-de-madrid-anula-la-decision-del-juez-peinado-de-enviar-a-begona-gomez-a-un-proceso-con-jurado.html
+- fecha: '2026-03-20'
+  titulo: Nueva incoación del procedimiento del jurado
+  descripcion: 'El auto 655/2026 reproduce el acuerdo de esta fecha: acumular la pieza 8/2025 de malversación a
+    las diligencias 1146/2024, transformarlas al procedimiento del jurado y convocar la comparecencia para el 1
+    de abril.'
+  type: investigacion
+  relevancia: media
+  urls:
+  - https://cita.es/auto/begona-gomez-software.pdf
+- fecha: '2026-04-11'
+  titulo: Continúa el procedimiento y se sobresee el intrusismo
+  descripcion: El auto de esta fecha, firmado el 13 de abril, continúa contra Gómez y Álvarez por cuatro tipos penales
+    y contra Barrabés por tráfico de influencias y corrupción en los negocios. Sobresee el intrusismo y da traslado
+    para solicitar apertura de juicio oral. Es un auto de continuación, no una sentencia ni todavía el auto de apertura.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://fuentesinformadas.com/wp-content/uploads/2026/04/AUTO-IMPUTACION-BEGONA-GOMEZ-11.04.2026.pdf
+- fecha: '2026-06-20'
+  titulo: Primera apertura de juicio oral y medidas personales
+  descripcion: El instructor abre juicio oral e impone retirada de pasaporte, prohibición de salida y comparecencias.
+    El auto 655/2026 examina esta resolución; posteriormente obliga a repetir la fase intermedia y levanta esas
+    medidas. No se presentan como vigentes al cierre de la revisión.
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://www.20minutos.es/nacional/juez-peinado-remata-causa-begona-gomez-enviandola-un-juicio-con-jurado-popular-tres-meses-jubilarse_6985929_0.html
+  - https://cita.es/auto/begona-gomez-software.pdf
+- fecha: '2026-07-13'
+  titulo: La Audiencia limita los delitos y las personas del jurado
+  descripcion: 'Auto 655/2026, firmado y difundido el 16 de julio: continúa contra Gómez por tráfico de influencias
+    y malversación y contra Álvarez solo por malversación del software; sobresee provisionalmente para ella el tráfico
+    de influencias y para todos la corrupción en los negocios. Separa a Barrabés, ordena repetir la fase intermedia
+    y levanta las medidas personales, manteniendo la obligación de estar a disposición judicial. La resolución se
+    declara firme.'
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://cita.es/auto/begona-gomez-software.pdf
+  - https://www.rtve.es/noticias/20260716/audiencia-madrid-mantiene-juicio-con-jurado-popular-contra-begona-gomez-ordena-devolucion-su-pasaporte/17158645.shtml
+- fecha: '2026-07-27'
+  titulo: Se conoce la petición de trece años de la acusación popular
+  descripcion: La acusación popular unificada, dirigida por Hazte Oír, adapta sus conclusiones y pide trece años
+    de prisión para Gómez y seis para Álvarez. Son peticiones de parte, no penas impuestas. Fiscalía y defensas
+    mantienen una posición contraria a la condena. La fecha es la de la publicación.
+  type: juicio
+  relevancia: media
+  urls:
+  - https://elpais.com/espana/2026-07-27/la-acusacion-popular-rebaja-su-peticion-de-carcel-para-begona-gomez-de-24-a-13-anos.html
+  - https://www.europapress.es/nacional/noticia-juez-peinado-envia-nuevo-juicio-begona-gomez-presuntos-delitos-malversacion-trafico-influencias-20260921121357.html
+- fecha: '2026-07-28'
+  titulo: El CGPJ remite dos diligencias informativas al TSJ
+  descripcion: El comunicado oficial informa de la remisión al TSJ de Madrid para valorar posibles faltas leves
+    de desconsideración y retraso, y de la toma de conocimiento de otras cuatro propuestas de archivo. No es una
+    sanción ni una decisión sobre la culpabilidad de las acusadas.
+  type: investigacion
+  relevancia: media
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/En-Portada/El-CGPJ-acuerda-remitir-al-TSJ-de-Madrid-dos-diligencias-informativas-incoadas-al-magistrado-Juan-Carlos-Peinado-para-que-valore-si-pudo-incurrir-en-sendas-faltas-leves-de-desconsideracion-y-de-retraso
+- fecha: '2026-08-04'
+  titulo: Se conoce la remisión de una pieza de Barrabés a la Fiscalía Europea
+  descripcion: La prensa informa de un auto de 27 de julio que acepta la avocación de la Fiscalía Europea sobre
+    el expediente Red.es 044/20-ED y remite la pieza separada. Este traslado competencial no es una absolución ni
+    una condena y no modifica la apertura de juicio contra Gómez y Álvarez.
+  type: investigacion
+  relevancia: media
+  urls:
+  - https://www.libertaddigital.com/espana/2026-08-04/el-juez-peinado-autoriza-devolver-a-la-fiscalia-europea-un-expediente-de-barrabes-del-caso-begona-gomez-7445318/amp.html
+  - https://elpais.com/espana/2026-08-04/el-juez-peinado-devuelve-a-la-fiscalia-europea-la-investigacion-a-barrabes-por-presunto-fraude-en-una-adjudicacion-de-redes.html?outputType=amp
+- fecha: '2026-09-04'
+  titulo: Se publica la petición de absolución de la defensa
+  descripcion: La defensa de Gómez niega el aprovechamiento de su matrimonio, la apropiación del software y el uso
+    delictivo de la asistencia de Álvarez. Presenta esas afirmaciones como argumentos de defensa, no como hechos
+    resueltos.
+  type: juicio
+  relevancia: media
+  urls:
+  - https://www.lavanguardia.com/politica/20260904/11627300/begona-gomez-reclama-libre-absolucion-catedra-complutense.html
+- fecha: '2026-09-08'
+  titulo: Audiencia preliminar
+  descripcion: Las partes ratifican sus posiciones en la audiencia previa a la nueva apertura de juicio. Las defensas
+    y Fiscalía piden la absolución; la acusación popular dirigida por Hazte Oír mantiene su petición de penas. La
+    información recoge discrepancias internas de Manos Limpias sobre acusar a Álvarez.
+  type: juicio
+  relevancia: media
+  urls:
+  - https://www.elindependiente.com/espana/2026/09/08/peinado-broche-final-begona-gomez-falta-enviarla-juicio-jurado
+- fecha: '2026-09-21'
+  titulo: Nueva apertura de juicio oral con jurado
+  descripcion: Europa Press identifica un auto de esta fecha, de 67 páginas, que abre juicio contra Gómez por presunto
+    tráfico de influencias y malversación y contra Álvarez solo por malversación del software como cooperadora necesaria.
+    No impone fianza ni las medidas personales levantadas en julio y mantiene la obligación de comparecer y estar
+    localizadas. La resolución no es recurrible según la información, sin equivaler a sentencia.
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://www.europapress.es/nacional/noticia-juez-peinado-envia-nuevo-juicio-begona-gomez-presuntos-delitos-malversacion-trafico-influencias-20260921121357.html
+  - https://www.rtve.es/noticias/20260921/juez-peinado-abre-juicio-oral-contra-begona-gomez-por-presuntos-delitos-trafico-influencias-malversacion/17233341.shtml
+- fecha: '2026-09-26'
+  titulo: Publicación de la jubilación del instructor
+  descripcion: El BOE publica el acuerdo del CGPJ de 23 de junio de 2026 que declara la jubilación forzosa de Peinado
+    con efectos de 27 de septiembre. La publicación, el acuerdo y la fecha de efectos son distintas.
+  type: investigacion
+  relevancia: media
+  urls:
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19944
+- fecha: '2026-09-28'
+  titulo: Se conoce un escrito fiscal sobre la audiencia preliminar
+  descripcion: Onda Cero informa de las críticas fiscales a la rapidez de la convocatoria del 8 de septiembre, pero
+    también de que no aprecia indefensión real suficiente para anularla. Es fecha de publicación; no una nueva decisión
+    judicial que revoque la apertura.
+  type: recurso
+  relevancia: baja
+  urls:
+  - https://www.ondacero.es/noticias/espana/caso-begona-gomez-fiscalia-afea-juez-peinado-sus-decisiones-tomadas-precipitacion-celeridad_202609286aba59acf8fc5f73abbc4368.html
 ---
 
-## Notas de revisión (2026-10-01)
+## Objeto de la causa
 
-- **Fechas de autos frente a fechas de publicación.** Se distingue la fecha de la resolución de su difusión pública. El auto de procesamiento está fechado el 11 de abril de 2026 (no el 13) y se conoció el 13 de abril; el auto de apertura de juicio oral está fechado el 20 de junio de 2026 y se difundió ese mismo día, si bien algunos medios lo publicaron el 21. El hito de septiembre de 2026 se titula por la fecha de presentación del escrito de defensa, contrastada con prensa de ese día.
-- **Fuentes de eventos.** Se retiró el enlace al índice cambiante de EFE (`https://efe.com/noticias/begona-gomez`), que no remitía a una noticia específica verificable, y se sustituyó por tres piezas de fecha 4 de septiembre de 2026 (La Vanguardia, eldiario.es y El Confidencial), cuyo contenido y fecha de publicación se comprobaron.
-- **Sin señalamiento de juicio.** No consta fecha oficial para el juicio con jurado. Las estimaciones periodísticas (primavera o finales de 2027) proceden de fuentes no identificadas y no constituyen un señalamiento comprobado; por eso no se fija fecha en la ficha (el campo `fechaFin` queda vacío).
-- **Fecha de la denuncia inicial.** Las fuentes discrepan entre el 6, el 8 y el 16 de abril de 2024. Se mantiene `fechaInicio: 2024-04-16` como fecha de apertura de diligencias, sin que ello zanje la discrepancia.
-- **Texto íntegro de las resoluciones.** No se ha localizado una publicación oficial de los autos en las sedes judiciales consultadas; su contenido se ha contrastado con la prensa que los cita y, cuando ha sido posible, con copias del documento. El auto de 11 de abril de 2026 se verificó en una copia del propio auto (encabezado "Fecha: 11 de abril de 2026", firma electrónica de 13/04/2026) alojada por un medio, no en sede judicial oficial.
-- **Estado procesal.** No hay sentencia ni firmeza y rige la presunción de inocencia. La causa se halla pendiente de reparto y de señalamiento del juicio ante la Audiencia Provincial de Madrid.
-- **Documentos.** `documentos` permanece vacío (`[]`) porque no hay documentos judiciales descargables en sede oficial.
+La investigación nació de una denuncia de Manos Limpias y se amplió con otras querellas. La [información contemporánea sobre la apertura](https://amp.rtve.es/noticias/20240424/juzgado-abre-diligencias-contra-begona-gomez-presunto-trafico-influencias-corrupcion-negocios/16074318.shtml) sitúa el auto inicial el 16 de abril de 2024; la fecha de la denuncia no debe confundirse con la de incoación. Las actuaciones examinaron las cartas de apoyo a empresas vinculadas a Barrabés, la cátedra extraordinaria de la UCM, su software y la actividad de la asistente de Gómez. La relación con Pedro Sánchez explica la vinculación política de la ficha, pero no supone que el PSOE sea acusado en este procedimiento.
 
-## Sobre el coste
+La delimitación judicial dejó fuera asuntos que habían aparecido en las denuncias iniciales. En [mayo de 2025](https://www.rtve.es/noticias/20250527/juez-peinado-archiva-causa-contra-rector-complutense-juan-jose-gueemes-caso-begona-gomez/16598589.shtml) se conoció la ejecución de la resolución de la Audiencia que excluía recabar información sobre el rescate de Air Europa y dejaba sin efecto la condición de investigados de Goyache y Güemes. No se les atribuye el estado procesal de las personas enviadas a juicio en 2026.
 
-El campo `coste` se mantiene en `0` porque no existe un perjuicio económico declarado en resolución firme. La Universidad Complutense de Madrid, personada como perjudicada, reclama 113.509,32 euros por el desarrollo del software de la cátedra; la defensa de Gómez sostiene que el software se financió con patrocinadores privados y que la cátedra cerró con un remanente. Ninguna de esas cifras está acreditada judicialmente. Otras cantidades citadas en prensa (108.765,79 euros de daño estimado, más de 300.000 euros de aportaciones privadas o 361.423,40 euros de salario de la asesora) tampoco están confirmadas como daño en una resolución judicial. Por todo ello, el coste no se eleva por encima de `0`.
+## Qué resolvió la Audiencia
+
+El [auto de 11 de abril de 2026](https://fuentesinformadas.com/wp-content/uploads/2026/04/AUTO-IMPUTACION-BEGONA-GOMEZ-11.04.2026.pdf), firmado el 13, acordó continuar el procedimiento y sobreseer el intrusismo. Su parte dispositiva está en las páginas 38 y 39. El [auto 655/2026](https://cita.es/auto/begona-gomez-software.pdf), fechado el 13 de julio y firmado el 16, revisó los recursos y redujo el objeto del jurado. En las páginas 43 y 52 distingue la presunta malversación de Gómez por el destino del software y la utilización privada de trabajo público; para Álvarez limita la participación al software, como cooperadora necesaria, y sobresee parcial y provisionalmente el tráfico de influencias respecto de ella. La corrupción en los negocios se sobresee para todos. La apropiación indebida y la administración desleal no se mantienen como calificaciones separadas.
+
+La Audiencia separó a Barrabés del jurado para continuar investigando la legalidad de adjudicaciones mediante diligencias previas. Ordenó además repetir la fase intermedia y alzar la retirada de pasaporte, prohibición de salida y comparecencias periódicas. La obligación de permanecer a disposición del órgano judicial y comunicar cambios de domicilio o paradero sí se conserva. El fallo, páginas 61 a 63, declara firme esta resolución de apelación: esa firmeza procesal no acredita los hechos ni representa una condena.
+
+## Juicio acordado y posiciones de las partes
+
+[Europa Press](https://www.europapress.es/nacional/noticia-juez-peinado-envia-nuevo-juicio-begona-gomez-presuntos-delitos-malversacion-trafico-influencias-20260921121357.html) y [RTVE](https://www.rtve.es/noticias/20260921/juez-peinado-abre-juicio-oral-contra-begona-gomez-por-presuntos-delitos-trafico-influencias-malversacion/17233341.shtml) informan de una nueva apertura de juicio oral de 21 de septiembre, adaptada al alcance fijado por la Audiencia. La acusación popular unificada dirigida por Hazte Oír pide trece años de prisión para Gómez y seis para Álvarez. Fiscalía y defensas solicitan la absolución. Las peticiones de prisión, multa y responsabilidad civil son pretensiones que deberá resolver el tribunal, no sanciones impuestas. No se ha verificado una fecha oficial de juicio ni sentencia al 15 de octubre de 2026; las previsiones periodísticas para 2027 no constituyen un señalamiento. Falta cotejar el texto original completo del auto de septiembre, por lo que la revisión permanece incompleta.
+
+La investigación sobre los contratos de Barrabés tiene un recorrido propio. La [información de 4 de agosto](https://www.libertaddigital.com/espana/2026-08-04/el-juez-peinado-autoriza-devolver-a-la-fiscalia-europea-un-expediente-de-barrabes-del-caso-begona-gomez-7445318/amp.html) identifica un auto de 27 de julio que acepta la avocación europea respecto del expediente Red.es 044/20-ED. [El País](https://elpais.com/espana/2026-08-04/el-juez-peinado-devuelve-a-la-fiscalia-europea-la-investigacion-a-barrabes-por-presunto-fraude-en-una-adjudicacion-de-redes.html?outputType=amp) también informa de esa remisión y de que Gómez no forma parte de esa pieza. No se extiende automáticamente ese traslado a todas las adjudicaciones ni se deduce una acusación de Gómez ante la Fiscalía Europea. Queda pendiente verificar íntegramente las resoluciones originales y el alcance posterior de cada investigación separada.
+
+## Cantidades y procedimientos distintos
+
+La página 38 del auto de apelación recoge la valoración de la UCM de 113.509,32 euros: 108.765,79 por contratación relacionada con el software y 4.743,53 por personal. Es la valoración que sostiene la universidad como perjudicada, no una cuantía declarada probada en sentencia. No se suma a presupuestos de contratos, aportaciones de patrocinadores, retribuciones de la asistente o multas solicitadas; tampoco se expresa como daño cero la ausencia de condena.
+
+El [comunicado del CGPJ de 28 de julio](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/En-Portada/El-CGPJ-acuerda-remitir-al-TSJ-de-Madrid-dos-diligencias-informativas-incoadas-al-magistrado-Juan-Carlos-Peinado-para-que-valore-si-pudo-incurrir-en-sendas-faltas-leves-de-desconsideracion-y-de-retraso) se refiere a diligencias informativas sobre el instructor y a propuestas de archivo de quejas. No es una resolución sobre la responsabilidad de las acusadas ni una sanción firme a Peinado. El [BOE](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-19944) acredita su jubilación con efectos de 27 de septiembre de 2026. Las controversias disciplinarias y otros litigios personales no alteran por sí mismos el resultado de la causa penal aquí descrita.
