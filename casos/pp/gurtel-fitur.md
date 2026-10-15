@@ -1,139 +1,116 @@
 ---
-nombre: "Caso Gürtel - Pieza Fitur"
+nombre: Caso Gürtel - Pieza Fitur
 partido: PP
-completado: true
-año: 2009
-fechaInicio: 2009-02-06
-fechaFin: 2018-06-20
-estado: "cerrado con condenas"
-descripcion: |
-  El Caso Gürtel - Pieza Fitur es una de las ramificaciones judiciales del macrocaso Gürtel, centrada en la contratación irregular de stands y servicios para la Feria Internacional de Turismo (FITUR) entre los años 2005 y 2009 por parte de la Generalitat Valenciana. La investigación reveló que la trama liderada por Francisco Correa obtuvo contratos millonarios para el montaje y diseño del pabellón de la Comunidad Valenciana en FITUR sin respetar los principios de transparencia, publicidad y concurrencia que exige la legislación de contratación pública. Las empresas del Grupo Correa, especialmente Orange Market, facturaron cientos de miles de euros por servicios sobrevalorados, desplazando de forma sistemática a la administración pública valenciana en la gestión de estos eventos.
-
-  El modus operandi de la trama consistía en amañar las adjudicaciones mediante el contacto directo entre responsables políticos del PP valenciano y los empresarios de la red Correa. Los contratos se otorgaban de forma directa o mediante procedimientos negociados sin publicidad, evitando la competencia. Los presupuestos eran elaborados por las propias empresas adjudicatarias, que presentaban sus ofertas con posterioridad a la celebración de la feria, lo que evidenció que los expedientes administrativos se construían fraudulentamente con fechas falsas. En FITUR 2009, por ejemplo, Orange Market facturó 366.529 euros por el stand valenciano. La exconsellera de Turismo Milagrosa Martínez jugó un papel central en facilitar estas adjudicaciones irregulares, recibiendo a cambio regalos y favores de la trama.
-
-  El Tribunal Superior de Justicia de Valencia condenó en febrero de 2017 a 11 de los 13 acusados por delitos de asociación ilícita, prevaricación administrativa, malversación de caudales públicos, cohecho y falsedad documental. Las condenas más elevadas fueron para los cabecillas: Francisco Correa (13 años), Pablo Crespo (13 años y 3 meses) y Álvaro Pérez "El Bigotes" (12 años y 3 meses). Milagrosa Martínez fue condenada a 9 años de prisión e ingresó en el Centro Penitenciario de Villena en mayo de 2018. El Tribunal Supremo confirmó íntegramente todas las condenas en junio de 2018, siendo la primera pieza del Caso Gürtel con sentencia firme del alto tribunal. El caso evidenció la "sustitución de la administración por las empresas de Gürtel" en palabras del tribunal.
-
-resumen: "Contratación irregular de stands en FITUR por la Generalitat Valenciana a empresas de la trama Gürtel (2005-2009)"
-coste: 2000000
-lugar: "Valencia, Comunidad Valenciana / Madrid (FITUR)"
+completado: false
+año: 2005
+estado: cerrado con condenas
+descripcion: La pieza valenciana de Gürtel sobre los contratos de Fitur de 2005 a 2009 terminó con once condenas
+  y dos absoluciones. La sentencia 2/2017 del TSJ de la Comunitat Valenciana, de 8 de febrero, fue confirmada íntegramente
+  por el Supremo mediante la sentencia 214/2018, de 8 de mayo. Francisco Correa recibió 13 años de prisión; Pablo
+  Crespo, 13 años y 3 meses; Álvaro Pérez, 12 años y 3 meses; y la exconsellera Milagrosa Martínez, 9 años. Fueron
+  absueltos Angélica Such y Juan Bover. La indemnización a la Generalitat fue de 271.636,59 euros, distinta de las
+  multas y del comiso. La firmeza de las condenas en 2018 está documentada; no se ha acreditado aquí la situación
+  de ejecución de cada persona ni eventuales revisiones posteriores hasta el 15 de octubre de 2026. Esta pieza no
+  debe confundirse con el procedimiento separado contra Francisco Camps resuelto por la Audiencia Nacional en 2024.
+resumen: Amaño de contratos de Fitur de la Generalitat Valenciana entre 2005 y 2009; once condenas confirmadas por
+  el Supremo en 2018.
+lugar: Comunitat Valenciana / Madrid (Fitur)
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción - Juez Baltasar Garzón"
-  - "Tribunal Superior de Justicia de Valencia - Sala de lo Penal"
-  - "Tribunal Supremo - Sala Segunda de lo Penal"
-numeroSentencia: "Sentencia TSJV 77/2017 - Confirmada por Sentencia TS 353/2018"
+- Tribunal Superior de Justicia de la Comunitat Valenciana - Sala de lo Civil y Penal
+- Tribunal Supremo - Sala de lo Penal
+numeroSentencia: TSJCV 2/2017, de 8 de febrero; STS 214/2018, de 8 de mayo (ECLI:ES:TS:2018:1551)
 implicados:
-  - nombre: "Francisco Correa Sánchez"
-    cargo: "Empresario, líder de la trama Gürtel"
-    rol: "Condenado a 13 años por asociación ilícita y cohecho"
-
-  - nombre: "Pablo Crespo Sabaris"
-    cargo: "Mano derecha de Francisco Correa"
-    rol: "Condenado a 13 años y 3 meses por coordinación financiera"
-
-  - nombre: "Álvaro Pérez Alonso 'El Bigotes'"
-    cargo: "Responsable de la trama Gürtel en Valencia"
-    rol: "Condenado a 12 años y 3 meses por intermediación con políticos"
-
-  - nombre: "Milagrosa Martínez Vázquez"
-    cargo: "Exconsellera de Turismo de la Generalitat Valenciana (PP)"
-    rol: "Condenada a 9 años por facilitar adjudicaciones a Orange Market"
-
-  - nombre: "José Luis Barceló Valls"
-    cargo: "Director General de Turismo de la Generalitat Valenciana"
-    rol: "Condenado a 4 años por adjudicaciones fraudulentas en FITUR"
-
-  - nombre: "Salvadora Ibars Sanchis"
-    cargo: "Alto cargo de la Generalitat Valenciana"
-    rol: "Absuelta; investigada por contrataciones irregulares de FITUR"
-
-  - nombre: "Francisco Camps Ortiz"
-    cargo: "Expresident de la Generalitat Valenciana (PP, 2003-2011)"
-    rol: "Absuelto en 2024 de tráfico de influencias y prevaricación"
-
-  - nombre: "Carmen Juanes Barciela"
-    cargo: "Administradora de Orange Market"
-    rol: "Condenada por gestión de contratos fraudulentos en FITUR"
-
-  - nombre: "Isabel Jordán García"
-    cargo: "Administradora de empresas del Grupo Correa"
-    rol: "Condenada por coordinar entramado de facturación irregular"
-
-  - nombre: "Ramón Blanco Balín"
-    cargo: "Abogado y gestor financiero de la trama"
-    rol: "Condenado por blanqueo de fondos de contratos fraudulentos"
-
+- nombre: Francisco Correa Sánchez
+  cargo: Empresario y dirigente del grupo de empresas Gürtel
+  rol: Condenado a 13 años de prisión; condena confirmada por el Supremo el 8 de mayo de 2018
+- nombre: Pablo Crespo Sabaris
+  cargo: Directivo del grupo de empresas Gürtel
+  rol: Condenado a 13 años y 3 meses de prisión; condena confirmada por el Supremo el 8 de mayo de 2018
+- nombre: Álvaro Pérez Alonso, «El Bigotes»
+  cargo: Responsable de Orange Market en Valencia
+  rol: Condenado a 12 años y 3 meses de prisión; condena confirmada por el Supremo el 8 de mayo de 2018
+- nombre: Milagrosa Martínez
+  cargo: Exconsellera de Turismo de la Generalitat Valenciana (PP)
+  rol: Condenada a 9 años de prisión por prevaricación, malversación y cohecho pasivo; condena confirmada por el
+    Supremo el 8 de mayo de 2018
+- nombre: Isaac Vidal
+  cargo: Funcionario de la Agencia Valenciana de Turismo
+  rol: Condenado a 7 años de prisión; condena confirmada por el Supremo el 8 de mayo de 2018
+- nombre: Rafael Betoret
+  cargo: Exjefe de gabinete de la Conselleria de Turismo
+  rol: Condenado a 6 años de prisión; condena confirmada por el Supremo el 8 de mayo de 2018
+- nombre: Isabel Jordán
+  cargo: Exadministradora de empresas del grupo Gürtel
+  rol: Condenada a 6 años de prisión; condena confirmada por el Supremo el 8 de mayo de 2018
+- nombre: Cándido Herrero
+  cargo: Exempleado de Orange Market
+  rol: Condenado a 4 años y 4 meses de prisión; condena confirmada por el Supremo el 8 de mayo de 2018
+- nombre: Jorge Guarro
+  cargo: Exjefe del servicio de Promoción de la Agencia Valenciana de Turismo
+  rol: Condenado a 4 años de prisión; condena confirmada por el Supremo el 8 de mayo de 2018
+- nombre: Mónica Magariños
+  cargo: Exempleada de Orange Market
+  rol: Condenada a 3 años de prisión; condena confirmada por el Supremo el 8 de mayo de 2018
+- nombre: Ana Grau
+  cargo: Excoordinadora de Ferias de la Agencia Valenciana de Turismo
+  rol: Condenada a 3 años de prisión; condena confirmada por el Supremo el 8 de mayo de 2018
+- nombre: Angélica Such
+  cargo: Exconsellera de Turismo de la Generalitat Valenciana (PP)
+  rol: Absuelta en esta pieza
+- nombre: Juan Bover
+  cargo: Técnico de la administración valenciana
+  rol: Absuelto en esta pieza
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "malversación"
-  - "cohecho"
-  - "falsedad documental"
-  - "asociación ilícita"
-
-impactoSocial: "La Pieza Fitur fue el primer juicio del Caso Gürtel en obtener sentencia firme del Tribunal Supremo, marcando un hito judicial al confirmar la condena a los cabecillas de la trama. La sentencia evidenció un sistema estructural de corrupción en la contratación pública valenciana del PP. Milagrosa Martínez se convirtió en la primera exconsellera valenciana en ingresar en prisión por corrupción, generando un fuerte impacto mediático y político que erosionó la credibilidad institucional del partido."
-
-documentos: []
-
+- corrupción
+- prevaricación
+- malversación
+- cohecho
+- falsedad documental
+- asociación ilícita
+- tráfico de influencias
+impactoSocial: Fue el primer juicio de Gürtel cuyas condenas adquirieron firmeza ante el Supremo. La resolución
+  constató la intervención de las empresas adjudicatarias en la preparación de los concursos públicos de turismo.
+documentos:
+- fecha: '2018-05-08'
+  titulo: 'Sentencia del Tribunal Supremo 214/2018: recursos de casación de la pieza Fitur'
+  filetype: pdf
+  paginas: 131
+  nombre_fichero: https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TS%20Penal%208%20mayo%202018.pdf
 cronologia:
-  - fecha: 2005-01-01
-    titulo: "Inicio de contratos irregulares de FITUR con la trama Gürtel"
-    descripcion: "La Generalitat Valenciana, gobernada por Francisco Camps (PP), comienza a adjudicar de forma irregular a empresas vinculadas a Francisco Correa los contratos para el diseño y montaje del stand de la Comunidad Valenciana en la Feria Internacional de Turismo (FITUR) de Madrid. Orange Market, empresa del entramado Gürtel dirigida por Álvaro Pérez 'El Bigotes' en Valencia, se convierte en la adjudicataria sistemática de estos contratos sin procedimientos competitivos. La exconsellera de Turismo Milagrosa Martínez facilita estas adjudicaciones directas, eludiendo los principios de transparencia y concurrencia pública."
-    type: "investigación"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-todas-las-condenas-del--caso-Gurtel-Fitur---primer-juicio-a-la-trama"
-
-  - fecha: 2009-01-01
-    titulo: "Contratación irregular del stand de FITUR 2009"
-    descripcion: "La Generalitat Valenciana adjudica directamente a Orange Market, filial de Gürtel en Valencia, el montaje del expositor del pabellón de la Comunitat en FITUR 2009 por valor de 366.529 euros, sin respetar principios de transparencia, publicidad y concurrencia. Posteriormente se descubrió que los presupuestos fueron elaborados por la propia empresa adjudicataria y que las ofertas se presentaron después de la celebración de la feria, evidenciando que los expedientes administrativos se construyeron fraudulentamente con fechas falsas. La Fiscalía señaló que Camps habría dado verbalmente instrucciones para adjudicar el stand a Orange Market."
-    type: "denuncia"
-    urls:
-      - "https://valenciaplaza.com/sentencia-gurtel-fitur"
-      - "https://www.diarioinformacion.com/politica/2017/02/10/milagrosa-martinez-condenada-9-anos/1859045.html"
-
-  - fecha: 2009-02-06
-    titulo: "Operación Gürtel: detenciones y registros en toda España"
-    descripcion: "El juez Baltasar Garzón de la Audiencia Nacional ordena una macrooperación policial contra la trama de corrupción Gürtel. Se realizan más de 100 registros simultáneos en Madrid, Valencia y otras ciudades españolas, con decenas de detenciones. Entre los detenidos figuran Francisco Correa, Pablo Crespo, Álvaro Pérez 'El Bigotes' y otros empresarios y funcionarios vinculados a la red. En Valencia se registran las sedes del PP y se intervienen documentos relacionados con las adjudicaciones de FITUR y otros contratos públicos. La operación destapa el mayor escándalo de corrupción política en España."
-    type: "detención"
-    urls:
-      - "https://elpais.com/diario/2009/02/07/espana/1233961201_850215.html"
-
-  - fecha: 2016-01-11
-    titulo: "Inicio del juicio oral de la Pieza Fitur ante el TSJV"
-    descripcion: "Arranca en Valencia el juicio oral de la Pieza Fitur del Caso Gürtel ante el Tribunal Superior de Justicia de la Comunitat Valenciana. Se sientan en el banquillo 13 acusados, entre ellos la exconsellera de Turismo Milagrosa Martínez, Álvaro Pérez 'El Bigotes', Francisco Correa y Pablo Crespo. La Fiscalía Anticorrupción solicita penas de hasta 18 años de prisión. El juicio se extiende durante varios meses, con numerosas sesiones en las que se examinan contratos, facturas y comunicaciones que evidencian el funcionamiento de la trama en Valencia."
-    type: "investigación"
-    urls:
-      - "https://elpais.com/politica/2016/01/11/actualidad/1452507685_568017.html"
-
-  - fecha: 2017-02-10
-    titulo: "Sentencia del TSJV: condenas de hasta 13 años de prisión"
-    descripcion: "El Tribunal Superior de Justicia de Valencia condena a 11 de los 13 acusados en la Pieza Fitur del Caso Gürtel por amañar los contratos de la feria de turismo entre 2005 y 2009. Francisco Correa es condenado a 13 años de prisión, Pablo Crespo a 13 años y 3 meses, Álvaro Pérez 'El Bigotes' a 12 años y 3 meses, y la exconsellera Milagrosa Martínez a 9 años. El tribunal considera probados los delitos de asociación ilícita, prevaricación administrativa, malversación de caudales públicos, cohecho y falsedad documental. La sentencia señala que hubo una 'sustitución de la administración por las empresas de Gürtel'."
-    type: "sentencia"
-    urls:
-      - "https://valenciaplaza.com/sentencia-gurtel-fitur"
-      - "https://www.diarioinformacion.com/politica/2017/02/10/milagrosa-martinez-condenada-9-anos/1859045.html"
-      - "https://www.eldiario.es/comunitat-valenciana/supremo-exconsellera-turismo-pp-fitur_1_2130799.html"
-
-  - fecha: 2018-05-24
-    titulo: "Milagrosa Martínez ingresa en prisión en Villena (Alicante)"
-    descripcion: "La exconsellera valenciana de Turismo Milagrosa Martínez ingresa en el Centro Penitenciario Alicante II de Villena para cumplir la condena de 9 años de prisión impuesta por el Tribunal Superior de Justicia de Valencia en la Pieza Fitur del Caso Gürtel. Martínez se convierte en la primera exconsellera valenciana en ingresar en prisión por corrupción. Su defensa anuncia que recurrirá la sentencia ante el Tribunal Constitucional, alegando vulneración de derechos fundamentales. El ingreso en prisión tiene un fuerte impacto mediático y político en la Comunidad Valenciana."
-    type: "detención"
-    urls:
-      - "https://www.eleconomista.es/legislacion/noticias/9143606/05/18/Milagrosa-Martinez-ingresara-en-la-prision-de-Villena-Alicante-y-recurrira-ante-el-TC-la-condena-de-Fitur.html"
-
-  - fecha: 2018-06-20
-    titulo: "El Tribunal Supremo confirma todas las condenas de FITUR"
-    descripcion: "La Sala II del Tribunal Supremo confirma íntegramente la sentencia del Tribunal Superior de Justicia de Valencia, ratificando todas las condenas de la Pieza Fitur del Caso Gürtel. El alto tribunal desestima los recursos de las 11 personas condenadas, quedando así confirmadas las penas de prisión para Francisco Correa, Pablo Crespo, Álvaro Pérez, Milagrosa Martínez y los demás acusados. Es la primera pieza del macrocaso Gürtel que obtiene sentencia firme del Tribunal Supremo. La sentencia del ponente Andrés Martínez Arrieta pone fin definitivo a este procedimiento judicial tras más de nueve años de instrucción y juicio."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-todas-las-condenas-del--caso-Gurtel-Fitur---primer-juicio-a-la-trama"
-      - "https://okdiario.com/espana/supremo-confirma-todas-condenas-del-caso-fitur-trama-gurtel-2243159"
-
-  - fecha: 2024-05-29
-    titulo: "Audiencia Nacional absuelve a Francisco Camps"
-    descripcion: "La Sección Segunda de la Sala de lo Penal de la Audiencia Nacional absuelve al expresidente de la Generalitat Valenciana Francisco Camps del delito de tráfico de influencias y prevaricación relacionados con las contrataciones de FITUR y otros contratos adjudicados a Orange Market entre 2004 y 2009. La sentencia afirma que 'no existe prueba o indicio alguno de orden, sugerencia o intromisión del Sr. Camps en dicha contratación' y que 'no se ha acreditado por prueba alguna válida en Derecho que Camps ejerciera presión' sobre los responsables de las adjudicaciones. La Fiscalía Anticorrupción anunció inicialmente recurso, pero finalmente desistió. Con esta absolución se cierran 15 años de procesos judiciales contra Camps."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-absuelve-a-Francisco-Camps-en-el-juicio-de-Gurtel-por-los-contratos-de-la-Generalitat-a-la-empresa-del-Grupo-Correa"
-      - "https://www.elespanol.com/valencia/20240529/audiencia-nacional-absuelve-francisco-camps-gurtel-anos-despues-estallar-trama/858664195_0.html"
-      - "https://www.newtral.es/audiencia-nacional-absuelve-camps/20240529/"
+- fecha: '2017-02-08'
+  titulo: 'Sentencia del TSJCV: once condenados y dos absueltos'
+  descripcion: La sentencia 2/2017 resuelve los contratos de Fitur de 2005 a 2009. Se impusieron penas de prisión
+    de tres a trece años y tres meses. Angélica Such y Juan Bover fueron absueltos. El fallo se difundió públicamente
+    el 10 de febrero.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TS%20Penal%208%20mayo%202018.pdf
+  - https://www.europapress.es/turismo/destino-espana/costa-blanca/noticia-milagrosa-martinez-condenada-prision-amanar-contratos-fitur-angelica-such-absuelta-20170210093000.html
+- fecha: '2018-05-08'
+  titulo: El Supremo confirma íntegramente las condenas
+  descripcion: La sentencia 214/2018 desestima los recursos de las once personas condenadas y el de la acusación
+    particular, con imposición de las costas de los recursos. El CGPJ informa de que es el primer juicio de Gürtel
+    con condenas firmes del Supremo.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-todas-las-condenas-del--caso-Gurtel-Fitur---primer-juicio-a-la-trama
+  - https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TS%20Penal%208%20mayo%202018.pdf
+- fecha: '2023-06-20'
+  titulo: Se conoce que Milagrosa Martínez había accedido al tercer grado
+  descripcion: Valencia Plaza informa, al cubrir su declaración como testigo en otro procedimiento, de que ingresó
+    en prisión en 2018 y recibió el tercer grado tras cumplir la mitad de la pena. La noticia no precisa la fecha
+    de esa decisión penitenciaria ni acredita su situación posterior.
+  type: investigación
+  urls:
+  - https://valenciaplaza.com/valenciaplaza/milagrosa-martinez-gurtel
 ---
+
+La causa examinó las adjudicaciones de las cinco ediciones de Fitur celebradas entre 2005 y 2009. El Supremo confirmó que las empresas del grupo Correa intervenían en la preparación de las condiciones de contratación y en las ofertas, condicionando la competencia y la adjudicación. La sentencia analiza también facturación y partidas que no correspondían a prestaciones efectivamente realizadas, así como la participación de responsables públicos en los expedientes.
+
+La sentencia del TSJCV es de **8 de febrero de 2017**; su publicación en prensa el día 10 no cambia la fecha del acto judicial. El Supremo resolvió el **8 de mayo de 2018**, mediante la STS 214/2018, y desestimó todos los recursos. Las once condenas confirmadas y las dos absoluciones corresponden a las personas identificadas en esta ficha. Las penas de prisión no son intercambiables con las multas, inhabilitaciones o prohibiciones de contratar que también recoge el fallo.
+
+El pronunciamiento civil reproducido en la sentencia del Supremo fija **271.636,59 euros de indemnización a la Generalitat**, con responsabilidad solidaria de Correa, Crespo, Pérez, Jordán, Martínez, Betoret, Vidal y Guarro. Esa solidaridad se extiende a Magariños hasta 265.056,76 euros y a Herrero hasta 10.120,21 euros. Son límites de responsabilidad sobre la misma indemnización y no cantidades que deban sumarse para calcular otro perjuicio. El fallo recoge además responsabilidades subsidiarias de sociedades, multas y un comiso de bienes de Orange Market por 1.937.957,98 euros: tampoco equivalen a un daño adicional acumulable. Por ello no se atribuye un coste global único a la pieza.
+
+El estado refleja la firmeza documentada en 2018, sin dar por cumplidas todas las penas. La noticia de Valencia Plaza de junio de 2023 sitúa a Milagrosa Martínez en tercer grado, pero no permite extender esa situación a otras personas ni afirmar su régimen penitenciario actual. No se han contrastado suficientemente eventuales resoluciones posteriores de ejecución o revisión hasta el corte de 15 de octubre de 2026.
+
+Esta pieza valenciana se distingue del posterior juicio de la Audiencia Nacional sobre otros contratos de la Generalitat y Orange Market, en el que fue acusado Francisco Camps. La coincidencia de empresas y referencias a Fitur no permite trasladar personas, importes o absoluciones entre ambos procedimientos.
