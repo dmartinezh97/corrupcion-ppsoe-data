@@ -1,183 +1,208 @@
 ---
-nombre: "Caso Imelsa (Taula)"
+nombre: Caso Imelsa (Taula)
 partido: PP
-completado: true
+completado: false
 año: 2014
-fechaInicio: 2014-07-30
-fechaFin: ""
-estado: "activo"
-descripcion: |
-  El caso Imelsa, también conocido como Operación Taula, es una macrocausa de corrupción que investiga una trama de sobornos, blanqueo de capitales y adjudicaciones irregulares vinculada al PP en la Comunidad Valenciana. La investigación se centra en contratos fraudulentos en la empresa pública Imelsa (dependiente de la Diputación de Valencia), la concejalía de Cultura del Ayuntamiento de Valencia, Ciegsa (empresa de la Generalitat encargada de construir colegios públicos) y la Fundación Jaume II El Just. Los investigadores determinaron que esta organización criminal habría cobrado comisiones ilegales a cambio de la adjudicación de cientos de contratos públicos, siendo el sistema de mordidas del 2% en muchos casos.
-
-  La trama operaba mediante un sistema de blanqueo de capitales en el que concejales, asesores y personal administrativo del grupo popular transferían 1.000 euros por vía bancaria que luego recuperaban en dinero negro. Parte del dinero así obtenido habría servido para financiar al Partido Popular. Además, se contrataron trabajadores "zombis" en empresas públicas valencianas que cobraban pero no acudían a su lugar de trabajo, en consideración a su relación con el PP, para prestar favores políticos o por amistad. La figura clave fue Marcos Benavent, gerente de Imelsa, quien grabó clandestinamente conversaciones durante años que aportó a la Fiscalía Anticorrupción, convirtiéndose en colaborador de la justicia.
-
-  El caso ha tenido un enorme impacto político en la Comunidad Valenciana, provocando el fin de la carrera política de Rita Barberá y la condena de Alfonso Rus, expresidente de la Diputación de Valencia, entre otros altos cargos del PP valenciano. Las primeras sentencias condenatorias se emitieron en 2023, con penas de hasta 9 años de prisión para algunos implicados. La investigación abarca contratos desde el año 2003 y cuenta con más de 115 investigados, siendo una de las mayores causas de corrupción del PP valenciano. En 2026 el Tribunal Supremo confirmó casi íntegramente la primera sentencia (pieza Thematica Events), lo que llevó a Marcos Benavent a ingresar en prisión en julio, mientras la Audiencia de Valencia absolvía a los cinco acusados de la pieza E (contratos de Cultura) por falta de pruebas y prescripción, en un fallo recurrible.
-
-resumen: "Trama de sobornos y blanqueo en empresas públicas valencianas del PP"
-lugar: "Valencia, Comunidad Valenciana"
+estado: desconocido
+descripcion: Imelsa-Taula es una macrocausa dividida en procedimientos con resultados distintos. La condena de Marcos
+  Benavent a 7 años y 10 meses en Thematica fue mantenida por el Supremo el 19 de junio de 2026, con cambios en
+  otros pronunciamientos; en julio se conoció su ingreso en prisión. Rus, Benavent y Caturla fueron condenados a
+  cinco años en la pieza de contrataciones sin trabajo efectivo, cuya firmeza individual actual no se ha acreditado
+  aquí. En junio de 2026 los cinco acusados de la pieza E de Cultura fueron absueltos mediante una sentencia entonces
+  recurrible. La pieza K de contratos de Requena y Enguera afectó a otros cinco acusados, no a Rus ni a Benavent,
+  y se documentaron recursos en septiembre de 2025. No se ha contrastado el estado de todas las piezas y recursos
+  al 15 de octubre de 2026; por eso no se atribuye un estado procesal único ni un coste global a la macrocausa.
+resumen: Macrocausa sobre Imelsa y otras entidades valencianas, con condenas, absoluciones y archivos que deben
+  distinguirse por pieza.
+lugar: Valencia y municipios de la provincia, Comunitat Valenciana
 tribunal:
-  - "Juzgado de Instrucción nº 18 de Valencia"
-  - "Audiencia Provincial de Valencia"
-  - "Fiscalía Anticorrupción"
-numeroSentencia: ""
+- Juzgado de Instrucción n.º 18 de Valencia
+- Audiencia Provincial de Valencia - varias secciones según la pieza
+- Tribunal Superior de Justicia de la Comunitat Valenciana - Sala de lo Civil y Penal
+- Tribunal Supremo - Sala de lo Penal
+- Juzgado de lo Penal n.º 18 de Valencia (pieza G)
+numeroSentencia: 'Thematica: SAP Valencia 23/2023, de 23 de enero; STS 419/2026, de 19 de junio (ECLI:ES:TS:2026:2855).
+  Otras piezas tienen resoluciones propias.'
 implicados:
-  - nombre: "Alfonso Rus"
-    cargo: "Expresidente de la Diputación de Valencia y del PP de Valencia"
-    rol: "Condenado a 5 años por malversación, prevaricación y contratación de trabajadores zombis"
-
-  - nombre: "Marcos Benavent"
-    cargo: "Exgerente de Imelsa"
-    rol: "Condenado a 7 años y 10 meses; ingresó en prisión en julio de 2026 tras confirmarlo el Supremo"
-
-  - nombre: "Máximo Caturla"
-    cargo: "Exvicepresidente de la Diputación de Valencia"
-    rol: "Condenado a 5 años por malversación y prevaricación en contratación de zombis"
-
-  - nombre: "Rafael García Barat"
-    cargo: "Socio de Marcos Benavent y administrador de Thematica Events"
-    rol: "Condenado a 9 años y 2 meses por adjudicación irregular de contratos"
-
-  - nombre: "David Serra"
-    cargo: "Exvicesecretario del PP en la Comunidad Valenciana"
-    rol: "Detenido en la macrorredada por presunta financiación ilegal"
-
-  - nombre: "Juan José Medina"
-    cargo: "Exvicepresidente de la Diputación y exalcalde de Moncada"
-    rol: "Detenido por presuntas comisiones, absuelto en pieza Thematica"
-
-  - nombre: "María José Alcón"
-    cargo: "Exconcejal y exasesora del PP en el Ayuntamiento de Valencia"
-    rol: "Detenida por presuntas mordidas en caso Imelsa"
-
-  - nombre: "Francisca Tamarit"
-    cargo: "Funcionaria de la Concejalía de Cultura del Ayuntamiento de Valencia"
-    rol: "Condenada a 5 años y 6 meses por adjudicación irregular del Bibliobús"
-
-  - nombre: "Rita Barberá"
-    cargo: "Exalcaldesa de Valencia"
-    rol: "Investigada por el Tribunal Supremo por blanqueo y pitufeo del PP"
-
-  - nombre: "Emilio Llopis"
-    cargo: "Directivo de Imelsa"
-    rol: "Imputado en varias piezas del caso Taula"
-
+- nombre: Alfonso Rus
+  cargo: Expresidente de la Diputación de Valencia y del PP provincial
+  rol: Condenado a 5 años de prisión en la pieza B de contrataciones sin trabajo efectivo; firmeza actual no contrastada.
+    Absuelto en la pieza D del call center; no condenado en la pieza K
+- nombre: Marcos Benavent
+  cargo: Exgerente de Imelsa
+  rol: 'Thematica: condena de 7 años y 10 meses mantenida por el Supremo en junio de 2026 e ingreso penitenciario
+    conocido en julio. Pieza B: condena de 5 años sin firmeza actual contrastada. Absuelto en las piezasD yE; la
+    absolución deE era recurrible'
+- nombre: Máximo Caturla
+  cargo: Exvicepresidente de la Diputación y exconsejero delegado de Ciegsa
+  rol: 'Pieza B: condenado a 5 años, firmeza actual no contrastada. Pieza G: en junio de 2025 se conoció una condena
+    firme por conformidad a 11 meses por insolvencia punible, con prisión suspendida condicionada a no delinquir
+    durante 2 años y multa de 2700 euros'
+- nombre: Rafael García Barat
+  cargo: Administrador de Thematica Events
+  rol: Condenado a 9 años y 2 meses en Thematica; pena mantenida por la STS 419/2026
+- nombre: Francisca Tamarit
+  cargo: Jefa de servicio de Cultura del Ayuntamiento de Valencia durante los hechos
+  rol: Condenada a 5 años y 6 meses de prisión en Thematica; pena mantenida por la STS 419/2026
+- nombre: Juan José Medina
+  cargo: Exvicepresidente de la Diputación y exalcalde de Moncada
+  rol: Absuelto en la sentencia de Thematica de enero de 2023; esa absolución no describe el resultado de todas
+    las piezas
+- nombre: David Serra
+  cargo: Exvicesecretario del PP de la Comunitat Valenciana
+  rol: Detenido en la operación de enero de 2016; no se ha contrastado aquí su desenlace individual en todas las
+    piezas
+- nombre: Emilio Llopis
+  cargo: Exjefe de gabinete de Rus y exalcalde de Genovés
+  rol: Detenido en enero de 2016; no se ha contrastado aquí su desenlace individual en todas las piezas
+- nombre: María José Alcón
+  cargo: Exconcejala de Cultura y exasesora municipal del PP
+  rol: Fue investigada en la causa; falleció en junio de 2018. No se le atribuyen condenas de piezas juzgadas después
+    de su muerte
+- nombre: Rita Barberá
+  cargo: Exalcaldesa de Valencia y senadora durante la investigación
+  rol: Investigada por presunto blanqueo; su causa en el Supremo fue archivada tras su fallecimiento en 2016 por
+    extinción de responsabilidad penal, sin condena
+- nombre: Javier Berasaluce
+  cargo: Exalcalde de Requena (PP)
+  rol: 'Pieza K: condenado en 2025 a 1 año y 1 día por fraude y prevaricación; recurso ante el TSJCV documentado
+    en septiembre de 2025'
+- nombre: Santiago Arévalo
+  cargo: Exalcalde de Enguera (PP)
+  rol: 'Pieza K: condenado en 2025 a 1 año y 1 día por fraude y prevaricación; recurso ante el TSJCV documentado
+    en septiembre de 2025'
+- nombre: Óscar Martínez
+  cargo: Exalcalde de Enguera (PSPV-PSOE)
+  rol: 'Pieza K: condenado en 2025 a 2 años y 1 día por fraude, prevaricación y malversación; recurso ante el TSJCV
+    documentado en septiembre de 2025'
+- nombre: Ricardo de Ángel
+  cargo: Funcionario de la Diputación de Valencia
+  rol: 'Pieza K: condenado en 2025 a 3 años por falsificación de documento público; firmeza actual no contrastada'
+- nombre: Mariano López Sancho
+  cargo: Empresario y exsuegro de Benavent
+  rol: 'Pieza K: condenado en 2025 a 3 años por fraude, prevaricación y malversación; firmeza actual no contrastada.
+    Absuelto en la pieza D del call center'
+- nombre: Vicente Burgos
+  cargo: Exgerente de la Fundación Jaume II El Just
+  rol: Absuelto en la pieza E de Cultura en 2026; sentencia entonces recurrible
+- nombre: Enrique Aleixandre
+  cargo: Empresario adjudicatario de contratos
+  rol: Absuelto en la pieza E de Cultura en 2026; sentencia entonces recurrible
+- nombre: Carlos Turró
+  cargo: Empresario adjudicatario de contratos
+  rol: Absuelto en la pieza E de Cultura en 2026; sentencia entonces recurrible
+- nombre: Carlos Vicent
+  cargo: Empresario adjudicatario de contratos
+  rol: Absuelto en la pieza E de Cultura en 2026; sentencia entonces recurrible
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "cohecho"
-  - "blanqueo de capitales"
-  - "tráfico de influencias"
-  - "fraude"
-  - "falsedad documental"
-  - "organización criminal"
-
-impactoSocial: "El caso Taula supuso un golpe definitivo a la credibilidad del PP valenciano, provocando la dimisión de múltiples cargos y el fin de la hegemonía del partido en la Comunidad Valenciana. La macrorredada del 26 de enero de 2016 marcó un antes y un después en la política valenciana, y el caso continúa siendo símbolo de la corrupción institucionalizada durante décadas de gobiernos del PP."
-
-documentos: null
-
+- corrupción
+- malversación
+- prevaricación
+- cohecho
+- blanqueo de capitales
+- falsedad documental
+- contratación pública
+impactoSocial: La investigación afectó a responsables de la Diputación, del Ayuntamiento de Valencia y de otras
+  entidades públicas. Sus resultados judiciales son diversos y no permiten presentar todas las sospechas iniciales
+  como hechos probados.
+documentos:
+- fecha: '2026-06-19'
+  titulo: 'STS419/2026 y segunda sentencia: pieza Thematica del caso Taula'
+  filetype: pdf
+  paginas: 91
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=76127b2a39ae6c69a0a8778d75e36f0d&encode=true&databasematch=TS
 cronologia:
-  - fecha: 2014-07-30
-    titulo: "Esquerra Unida presenta denuncia ante la Fiscalía"
-    descripcion: "La diputada provincial Rosa Pérez Garijo, de Esquerra Unida, presenta una denuncia ante la Fiscalía por irregularidades en la empresa pública Imelsa. Esta denuncia será el origen de toda la investigación del caso Taula, que posteriormente se expandirá a múltiples instituciones valencianas controladas por el PP."
-    type: "denuncia"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/guia-perderse-operacion-taula_1_4140439.html"
-      - "https://valenciaplaza.com/valenciaplaza/elcasotaulasediluyedespuesdenueveaos"
-
-  - fecha: 2015-03
-    titulo: "La Fiscalía denuncia el asunto ante el juzgado"
-    descripcion: "Tras ocho meses de trabajo investigando la denuncia de Esquerra Unida, el ministerio público (Fiscalía Anticorrupción) presenta la denuncia formal ante el Juzgado de Instrucción nº 18 de Valencia. Se inicia oficialmente la instrucción del caso, que investigará contratos públicos desde el año 2003 en múltiples instituciones valencianas."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/guia-perderse-operacion-taula_1_4140439.html"
-
-  - fecha: 2015-05
-    titulo: "Dimisión de Máximo Caturla tras filtrarse conversaciones"
-    descripcion: "Máximo Caturla, exvicepresidente de la Diputación de Valencia, dimite de todos sus cargos después de que se filtren conversaciones telefónicas en las que se le escucha hablar sobre el cobro de comisiones en el caso Imelsa. Estas conversaciones habían sido grabadas clandestinamente por Marcos Benavent durante años."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/detenidos-confirmados-macrorredada-corrupcion-valencia_1_4223471.html"
-
-  - fecha: 2016-01-26
-    titulo: "Macrorredada Operación Taula: 24 detenidos y 36 registros"
-    descripcion: "La Guardia Civil ejecuta una macrorredada masiva ordenada por el Juzgado de Instrucción nº 18 de Valencia y la Fiscalía Anticorrupción, con 24 detenidos (8 políticos del PP, 12 empresarios, 2 arquitectos, 1 funcionario y 1 exasesor del PP) y 36 registros. Entre los detenidos destacan Alfonso Rus (expresidente de la Diputación), David Serra (exvicesecretario del PP), Máximo Caturla, Juan José Medina y María José Alcón. Esta operación marca el fin de la hegemonía del PP valenciano y revela una trama criminal que operaba desde 2003."
-    type: "detención"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/decenas-detenciones-macrorredada-pp-valencia_1_4224252.html"
-      - "https://www.eldiario.es/comunitat-valenciana/detenidos-confirmados-macrorredada-corrupcion-valencia_1_4223471.html"
-      - "https://www.elespanol.com/espana/20160126/97490311_0.html"
-
-  - fecha: 2016-03-14
-    titulo: "115 imputados en el caso Taula"
-    descripcion: "El Tribunal Superior de Justicia valenciano confirma que hay 115 investigados (personas físicas y jurídicas) por varios delitos contra la administración pública, entre ellos prevaricación administrativa, malversación de caudales públicos, tráfico de influencias, cohecho, fraude, falsedad y blanqueo de capitales. La mayoría de los imputados son miembros del Partido Popular."
-    type: "imputación"
-    urls:
-      - "https://valenciaplaza.com/valenciaplaza/elcasotaulasediluyedespuesdenueveaos"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Taula&numero=90"
-
-  - fecha: 2016-07
-    titulo: "Separación del caso en tres piezas principales"
-    descripcion: "El magistrado instructor decide separar el caso Taula en tres piezas diferenciadas: la pieza principal que investiga la trama general de corrupción; la pieza del call center que investiga la adjudicación irregular a Servimun por 843.000 euros; y una tercera pieza sobre irregularidades en contratos de la Concejalía de Cultura del Ayuntamiento de Valencia. Esta división permitirá enjuiciar de forma independiente diferentes ramificaciones de la trama."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Taula&numero=90"
-
-  - fecha: 2023-01-24
-    titulo: "Primera sentencia condenatoria del caso Taula (pieza Thematica)"
-    descripcion: "La Audiencia Provincial de Valencia emite la primera sentencia condenatoria del caso Taula. Marcos Benavent es condenado a 7 años y 10 meses de cárcel como autor de prevaricación, malversación, falsedad en documento oficial, blanqueo de capitales y falsedad en documento mercantil. Rafael García Barat recibe 9 años y 2 meses de prisión, y Francisca Tamarit es condenada a 5 años y 6 meses. La sentencia investiga las adjudicaciones irregulares de Thematica Events para el Bibliobús y el espectáculo Metamorphosis del MuVim. Se absuelve al PP como responsable civil subsidiario y a Juan José Medina."
-    type: "sentencia"
-    urls:
-      - "https://valenciaplaza.com/sentencia-thematica1"
-      - "https://www.elperiodic.com/siete-anos-carcel-para-yonqui-dinero-primera-sentencia-caso-taula_877813"
-      - "https://www.cope.es/emisoras/comunidad-valenciana/valencia-provincia/valencia/noticias/condenado-anos-benavent-absuelto-primer-juicio-imelsa-20230124_2511946"
-
-  - fecha: 2023-11-17
-    titulo: "Sentencia de los trabajadores zombis: 5 años para Rus, Benavent y Caturla"
-    descripcion: "La Audiencia Provincial de Valencia condena a Alfonso Rus, Marcos Benavent y Máximo Caturla a 5 años de prisión, además de 14 años de inhabilitación y multa, por delito continuado de malversación en concurso con prevaricación y falsedad documental. La sentencia acredita que contrataron trabajadores 'zombis' en Imelsa y Ciegsa que cobraban pero no trabajaban, en consideración a su relación con el PP. Entre los casos destacan Eva Luis Sarrión (89.243 euros), el futbolista Miguel Ángel Mullor (coincidiendo con su etapa en el Olímpic de Xàtiva de Alfonso Rus) y el alcalde de Cofrentes Raúl Mateo (109.441 euros). Esta es la primera sentencia condenatoria para Alfonso Rus."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/sentencia-condena-rus-yonqui-dinero-taula-acredita-contrataron-zombis-beneficio-pp_1_10694563.html"
-      - "https://valenciaplaza.com/valenciaplaza/alfonso-rus-condenado-cinco-anos-carcel-zombies-imelsa"
-      - "https://www.eldiario.es/comunitat-valenciana/alfonso-rus-condenado-cinco-anos-prision-contratar-trabajadores-zombies-fondos-publicos_1_10694397.html"
-
-  - fecha: 2025-06-01
-    titulo: "Caturla pacta 11 meses de prisión por ocultar su patrimonio"
-    descripcion: "Máximo Caturla alcanza un pacto de conformidad con la Fiscalía y es condenado a 11 meses de prisión, en suspenso, por un delito de insolvencia punible en grado de tentativa al haber derivado su patrimonio inmobiliario a una empresa familiar para sustraerlo a las responsabilidades civiles del caso Taula."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/alto-cargo-camps-condenado-caso-taula-asume-condena-11-meses-prision-alzamiento-bienes_1_12370836.html"
-
-  - fecha: 2025-07-16
-    titulo: "Quinta sentencia condenatoria: contratos de Requena y Enguera"
-    descripcion: "La Audiencia Provincial de Valencia dicta la quinta sentencia condenatoria del caso Taula en la pieza K, sobre contratos de los ayuntamientos de Requena y Enguera. Alfonso Rus y Marcos Benavent vuelven a ser condenados a cinco años de prisión cada uno, mientras el funcionario de la Diputación Ricardo de Ángel y el empresario Mariano López Sancho reciben tres años."
-    type: "sentencia"
-    urls:
-      - "https://www.elespanol.com/valencia/20250716/audiencia-valencia-dicta-quinta-sentencia-condenas-caso-taula-contratos-requena-enguera/1003743849527_0.html"
-
-  - fecha: 2026-06-23
-    titulo: "Absueltos los cinco acusados de la pieza E (contratos de Cultura)"
-    descripcion: "La Sección Quinta de la Audiencia de Valencia absuelve a Marcos Benavent, al exgerente de la Fundación Jaume II El Just Vicente Burgos y a los empresarios Enrique Aleixandre, Carlos Turró y Carlos Vicent de los delitos de prevaricación, cohecho y malversación por los contratos de la Concejalía de Cultura. La sentencia, de 79 páginas y recurrible ante el Supremo, no aprecia pruebas del amaño ni de las mordidas y considera prescrita la malversación."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/Absueltos-los-cinco-acusados-de-la-pieza-E-del--caso-Taula--por-supuestas-irregularidades-en-contratos-de-la-Concejalia-de-Cultura-del-Ayuntamiento-de-Valencia"
-      - "https://www.europapress.es/videos/video-audiencia-absuelve-yonki-dinero-otros-cuatro-acusados-pieza-imelsa-20260623131415.html"
-
-  - fecha: 2026-06-26
-    titulo: "El Supremo confirma casi íntegra la primera sentencia del caso Taula"
-    descripcion: "El Tribunal Supremo ratifica las condenas de la primera pieza del caso Taula (Thematica Events): 7 años y 10 meses para Marcos Benavent, 9 años y 2 meses para Rafael García Barat y 5 años y medio para Francisca Tamarit, entre otras. Solo rebaja de 10 a 8 meses la pena de uno de los empresarios. La sentencia hace firme la condena de Benavent."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.levante-emv.com/comunitat-valenciana/2026/06/26/el-supremo-ratifica-casi-integra-la-primera-sentencia-del-caso-taula-que-condeno-a-7-anos-de-carcel-al-yonqui-del-dinero-131853572.html"
-      - "https://www.elespanol.com/valencia/20260626/supremo-ratifica-anos-carcel-yonki-dinero-primera-sentencia-caso-taula/1003744301489_0.html"
-
-  - fecha: 2026-07-27
-    titulo: "Marcos Benavent ingresa en la cárcel de Picassent"
-    descripcion: "El exgerente de Imelsa Marcos Benavent ingresa voluntariamente en el centro penitenciario de Picassent (Valencia) para cumplir casi ocho años por la pieza Thematica, después de que el Supremo confirmara la sentencia y se le comunicara su firmeza el 10 de julio. Doce años después del inicio de la investigación de la macrocausa, el 'yonki del dinero' entra en prisión."
-    type: "detención"
-    relevancia: "alta"
-    urls:
-      - "https://www.abc.es/espana/comunidad-valenciana/yonki-dinero-entra-prision-cumplir-primera-condena-20260729143940-nt.html"
-      - "https://www.lasprovincias.es/politica/marcos-benavent-yonki-dinero-ingresa-carcel-picassent-20260729102157-nt.html"
+- fecha: '2016-01-26'
+  titulo: Detenciones de la operación Taula
+  descripcion: La Guardia Civil ejecuta la operación coordinada por el Juzgado n.º 18 de Valencia. La información de
+    ese día identifica 24 detenidos. Se trata de un dato histórico, no del número actual de investigados.
+  type: detencion
+  urls:
+  - https://www.eldiario.es/comunitat-valenciana/detenidos-confirmados-macrorredada-corrupcion-valencia_1_4223471.html
+- fecha: '2016-12-16'
+  titulo: Se conoce el archivo de la causa personal de Barberá
+  descripcion: Europa Press informa del archivo en el Supremo tras recibir el certificado de defunción. No es una
+    absolución sobre el fondo.
+  type: investigacion
+  urls:
+  - https://www.europapress.es/nacional/noticia-supremo-archiva-causa-abierta-contra-rita-barbera-casi-mes-despues-fallecimiento-20161216141155.html
+- fecha: '2022-04-19'
+  titulo: El Supremo rechaza una queja sobre el archivo del pitufeo
+  descripcion: Un auto desestima una queja de Fiscalía por no ser recurrible en casación aquel sobreseimiento provisional.
+    La noticia se publica el 25 de abril y precisa que entonces quedaban otras quejas por resolver.
+  type: recurso
+  urls:
+  - https://valenciaplaza.com/el-supremo-desestima-el-recurso-de-fiscalia-contra-el-archivo-del-caso-del-pitufeo
+- fecha: '2023-01-23'
+  titulo: Sentencia de Thematica
+  descripcion: La sentencia 23/2023 de la Sección Quinta condena, entre otros, a Benavent, García Barat y Tamarit. Absuelve
+    a Medina y al PP, este último reclamado como responsable civil subsidiario. Se difundió el 24 de enero.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2026:2855
+  - https://valenciaplaza.com/sentencia-thematica1
+- fecha: '2023-11-17'
+  titulo: Se conoce la condena en la pieza de contrataciones sin trabajo efectivo
+  descripcion: La Audiencia condena a Rus, Benavent y Caturla a 5 años de prisión. La noticia señala que cabe recurso;
+    no se atribuye aquí firmeza actual a esas penas.
+  type: sentencia
+  urls:
+  - https://www.eldiario.es/comunitat-valenciana/alfonso-rus-condenado-cinco-anos-prision-contratar-trabajadores-zombies-fondos-publicos_1_10694397.html
+- fecha: '2025-06-10'
+  titulo: Se conoce la condena de Caturla por insolvencia punible
+  descripcion: Europa Press informa de 11 meses de prisión por conformidad, fallo declarado firme y suspensión condicionada
+    a no delinquir durante 2 años. No es la sentencia de 5 años de la pieza B. La fecha corresponde a la publicación.
+  type: sentencia
+  urls:
+  - https://www.europapress.es/comunitat-valenciana/noticia-caturla-acepta-once-meses-prision-insolvencia-punible-intentar-ocultar-bienes-destaparse-caso-taula-20250610191136.html
+- fecha: '2025-07-16'
+  titulo: Se conoce la sentencia de los contratos de Requena y Enguera
+  descripcion: 'Pieza K: Berasaluce y Arévalo reciben 1 año y 1 día; Óscar Martínez,2 años y 1 día; Mariano López y Ricardo
+    de Ángel,3 años. No condena a Rus ni a Benavent en esta pieza.'
+  type: sentencia
+  urls:
+  - https://www.elespanol.com/valencia/20250716/audiencia-valencia-dicta-quinta-sentencia-condenas-caso-taula-contratos-requena-enguera/1003743849527_0.html
+- fecha: '2025-09-22'
+  titulo: Se conocen recursos contra la sentencia de la piezaK
+  descripcion: Valencia Plaza informa de recursos de los tres exalcaldes ante el TSJCV. No se ha contrastado aquí
+    su resolución posterior.
+  type: recurso
+  urls:
+  - https://valenciaplaza.com/valenciaplaza/comarca-y-empresa/los-exalcaldes-de-requena-y-enguera-recurren-la-ultima-sentencia-condenatoria-por-una-pieza-de-taula
+- fecha: '2026-06-19'
+  titulo: El Supremo resuelve Thematica con modificaciones parciales
+  descripcion: La STS 419/2026 mantiene las principales penas, reduce la de José Antonio Toledo de 10 a 8 meses, corrige
+    costas y elimina la responsabilidad civil de 93186,54 euros del bloque Berceo manteniendo el decomiso por ese
+    importe.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2026:2855
+- fecha: '2026-06-23'
+  titulo: Se conoce la absolución de los cinco acusados de la pieza E
+  descripcion: El CGPJ comunica la absolución por falta de prueba y prescripción de determinados delitos. La nota
+    señala que la sentencia no era firme y podía recurrirse en casación; fue notificada a las partes el lunes anterior.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/Absueltos-los-cinco-acusados-de-la-pieza-E-del--caso-Taula--por-supuestas-irregularidades-en-contratos-de-la-Concejalia-de-Cultura-del-Ayuntamiento-de-Valencia
+- fecha: '2026-07-29'
+  titulo: Se conoce el ingreso penitenciario de Benavent
+  descripcion: Europa Press informa de su ingreso voluntario en Picassent para cumplir la pena de 7 años y 10 meses
+    de Thematica. La fuente consultada no fija el día exacto del ingreso, por lo que se usa la fecha de publicación.
+  type: detencion
+  urls:
+  - https://cadenaser.com/comunitat-valenciana/2026/07/29/el-yonki-del-dinero-ingresa-en-la-carcel-de-picassent-para-cumplir-su-primera-condena-en-imelsa-radio-valencia/
 ---
+
+La investigación nació de una denuncia de Esquerra Unida ante Fiscalía en **julio de 2014** y pasó al juzgado en **marzo de 2015**, según la información contemporánea. No se fija un día inicial que no ha sido contrastado. Las detenciones de enero de 2016 hicieron pública una investigación que después se dividió en piezas autónomas. La cifra de investigados y las sospechas iniciales describen momentos de la instrucción, no una relación de personas culpables ni una situación procesal común en 2026.
+
+En **Thematica**, la sentencia de instancia es de **23 de enero de 2023**, no del día 24 en que se difundió. El Supremo resolvió el **19 de junio de 2026** y mantuvo las penas de siete años y diez meses de Benavent, nueve años y dos meses de García Barat y cinco años y seis meses de Tamarit. El PP no fue condenado como responsable civil subsidiario en esta pieza y Medina fue absuelto. Las sospechas sobre financiación de campañas incluidas en esa operativa no quedaron acreditadas en los términos de la acusación.
+
+La casación modificó también consecuencias patrimoniales: **dejó sin efecto la responsabilidad civil de 93.186,54 euros del bloque Berceo, pero mantuvo el decomiso hasta ese límite**. La razón es que no se identificó un daño civil autónomo derivado de los delitos de blanqueo y falsedad objeto de condena en ese bloque. Además, redujo la pena de Toledo de diez a ocho meses y las costas de Benavent. Por tanto, ni esa cantidad ni el valor de los contratos se suman como un coste general de toda Taula. La noticia de julio de 2026 acredita el ingreso de Benavent para cumplir Thematica, sin extender ese dato a otros condenados o piezas.
+
+La pieza **B**, sobre contrataciones en Imelsa y Ciegsa sin prestación efectiva o para tareas ajenas al puesto, produjo condenas de cinco años para Rus, Benavent y Caturla. No se ha acreditado aquí su desenlace definitivo en recurso. El **call center de la pieza D** tuvo, en cambio, un fallo absolutorio para todos los acusados, incluidos Rus y Benavent. El archivo del presunto blanqueo o «pitufeo» del grupo municipal del PP tampoco debe presentarse como una condena: la información de abril de 2022 describe sobreseimientos provisionales y el rechazo de una queja por razones de recurribilidad, no una sentencia del Supremo que declarase probada aquella mecánica.
+
+La **pieza G** relativa a Caturla es distinta: en junio de 2025 se informó de una condena firme por conformidad a once meses por insolvencia punible, con suspensión condicionada de la prisión y multa. La **pieza K** juzgó contrataciones de Requena y Enguera y condenó a tres exalcaldes —dos del PP y uno del PSPV—, un funcionario y un empresario. No contiene otra condena de cinco años a Rus y Benavent. Los recursos de los exalcaldes constan en septiembre de 2025, sin que se haya contrastado aquí su resolución posterior.
+
+En la **pieza E**, sobre contratos de Cultura de 2003 a 2006 y la Fundación Jaume II El Just, los cinco acusados fueron absueltos en una sentencia comunicada por el CGPJ el 23 de junio de 2026. El tribunal no consideró probado el amaño ni las comisiones y apreció también prescripción respecto de determinados delitos. La nota oficial advertía que cabía casación. Las pérdidas de la Fundación citadas como contexto no equivalen a un daño penal declarado en esa sentencia absolutoria.
+
+El estado de la macrocausa no se puede condensar en una sola condena o archivo. Faltan resoluciones completas y comprobaciones posteriores sobre varias piezas, su firmeza y la ejecución individual al **15 de octubre de 2026**. Las personas enumeradas son una selección vinculada a los procedimientos descritos, no el conjunto de investigados de Taula. Las detenciones históricas de Serra y Llopis no permiten afirmar que sigan investigados; Barberá falleció sin condena y su causa personal se archivó por extinción de responsabilidad penal, mientras Alcón había fallecido antes de los juicios recientes.
