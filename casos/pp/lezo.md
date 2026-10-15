@@ -108,8 +108,7 @@ cronologia:
 - fecha: '2013-11-14'
   titulo: Adquisición del 75 % de Emissao
   descripcion: El auto de apertura de 2020 sitúa en esta fecha la adquisición conjunta por Canal Extensia e Inassa
-    a través de Soluciones Andinas del Agua. La operación y los pagos son objeto de acusación; no se fija ficticiamente
-    el primer día del mes.
+    a través de Soluciones Andinas del Agua. La operación y los pagos son objeto de acusación.
   urls:
   - https://losgenoveses.net/Caso%20Lezo/Lezo.%20PS1%20Emissao.%20Auto%20de%20apertura%20de%20juicio%20oral.05.03.20.pdf
   type: investigacion
@@ -212,7 +211,7 @@ cronologia:
 ---
 ## Dos operaciones y dos procedimientos
 
-Esta ficha se centra en Inassa y Emissao, operaciones de expansión internacional del Canal de Isabel II. No forman una única pieza con una responsabilidad penal o un perjuicio común. La compra de Inassa se articuló entre 2001 y 2002 mediante una sociedad panameña, Aguas de América, que también poseía una participación en Watco. El [auto de apertura de Inassa](https://www.losgenoveses.net/Caso%20Lezo/Lezo.%20Caso%20Inassa.Auto%20de%20apertura%20de%20juicio%20oral.%2009.03.20.pdf) recoge como hipótesis acusatoria que la operación se apartó de lo autorizado y se realizó con sobreprecio. El acuerdo de compraventa es de 13 de diciembre de 2001 y se fijaron pagos posteriores: no se atribuye la compra al 1 de enero.
+Esta ficha se centra en Inassa y Emissao, operaciones de expansión internacional del Canal de Isabel II. No forman una única pieza con una responsabilidad penal o un perjuicio común. La compra de Inassa se articuló entre 2001 y 2002 mediante una sociedad panameña, Aguas de América, que también poseía una participación en Watco. El [auto de apertura de Inassa](https://www.losgenoveses.net/Caso%20Lezo/Lezo.%20Caso%20Inassa.Auto%20de%20apertura%20de%20juicio%20oral.%2009.03.20.pdf) recoge como hipótesis acusatoria que la operación se apartó de lo autorizado y se realizó con sobreprecio. El acuerdo de compraventa es de 13 de diciembre de 2001 y se fijaron pagos posteriores.
 
 La adquisición del 75 % de la brasileña Emissao se produjo el 14 de noviembre de 2013, a través de la sociedad uruguaya Soluciones Andinas del Agua, según el [auto de su propia pieza](https://losgenoveses.net/Caso%20Lezo/Lezo.%20PS1%20Emissao.%20Auto%20de%20apertura%20de%20juicio%20oral.05.03.20.pdf). El proceso investigado se extiende de 2012 a 2014. La coincidencia de las siglas societarias y la intervención de Inassa en la expansión posterior no permiten mezclar ambos contratos ni los acusados de cada operación.
 
