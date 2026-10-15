@@ -66,3 +66,7 @@ cronologia:
       - "https://www.eldiario.es/cantabria/politica/ciudadanos-pp-esther-merino-supremo_1_1658240.html"
       - "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17010&legis=12"
 ---
+
+Los requerimientos sobre seis expedientes de gasto de 2013 y las diligencias sobre recaudación tributaria no pueden tratarse como un único procedimiento sin una resolución que permita relacionarlos. Las cantidades mencionadas en la controversia contable no constituyen por sí solas un perjuicio económico acreditado.
+
+Las explicaciones de Merino sobre la duración del convenio de basuras difieren entre las informaciones de junio y diciembre de 2016. La afirmación del PRC de que los requerimientos habían sido contestados tampoco prueba el archivo de un procedimiento. Quedan por verificar los números de expediente, sus resoluciones y el desenlace judicial.
