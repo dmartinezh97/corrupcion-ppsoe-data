@@ -1,150 +1,173 @@
 ---
-nombre: "Gürtel/Visita del Papa"
-partido: "PP"
-completado: true
-año: 2006
-fechaInicio: "2005-10-01"
-fechaFin: "2023-04-10"
-estado: "cerrado con condenas"
-descripcion: |
-  La pieza separada "Visita del Papa" del caso Gürtel investiga la trama de corrupción orquestada por Francisco Correa y su organización criminal para apropiarse de contratos públicos con motivo del V Encuentro Mundial de las Familias y la visita del Papa Benedicto XVI a Valencia los días 7, 8 y 9 de julio de 2006. Desde octubre de 2005, con conocimiento previo del evento, la red Gürtel inició gestiones para obtener de modo ilícito la adjudicación de servicios y suministros necesarios para el desarrollo del acto pontificio.
-
-  El mecanismo central del fraude consistió en que la dirección de Radio Televisión Valenciana (RTVV), entidad pública de la Generalitat Valenciana gobernada por el PP de Francisco Camps, adjudicó directamente a Teconsa, empresa pantalla del grupo Correa, un contrato de suministro de pantallas gigantes, equipos de sonido y megafonía para la retransmisión del evento en las calles de Valencia por un importe de 7,4 millones de euros, cifra muy superior al coste real. El sobrecoste generado, de 3,2 millones de euros, fue repartido entre los miembros de la trama. El ex conseller y expresidente de las Cortes Valencianas Juan Cotino fue señalado como el enlace político que tenía "la última palabra en todo" lo relativo a la organización del evento y que facilitó las adjudicaciones a la red Gürtel. Cotino falleció en 2020 por complicaciones derivadas del COVID-19, lo que extinguió su responsabilidad penal.
-
-  La Audiencia Nacional dictó sentencia en noviembre de 2020 condenando a 19 de los 23 acusados por delitos de prevaricación, malversación, fraude a la Administración, falsedad en documento oficial, blanqueo de capitales y delitos contra la Hacienda Pública. Las penas más elevadas recayeron sobre Pablo Crespo (15 años y 5 meses de prisión) y Francisco Correa (13 años y 7 meses). En abril de 2023, el Tribunal Supremo confirmó las condenas al rechazar los recursos de siete de los condenados. La Generalitat Valenciana reclamó posteriormente la restitución de los 3,2 millones de euros desviados.
-
-resumen: "Adjudicaciones fraudulentas a la trama Gürtel en la visita del Papa Benedicto XVI a Valencia con un sobrecoste de 3,2 millones de euros"
-coste: 3200000
-lugar: "Valencia, Comunitat Valenciana"
+nombre: Gürtel / Visita del Papa
+partido: PP
+completado: false
+año: 2005
+estado: cerrado con condenas
+descripcion: La pieza examinó la adjudicación de RTVV a Teconsa del suministro de pantallas, sonido y megafonía
+  para el encuentro de las familias de julio de 2006 en Valencia. El contrato ascendió a 7.493.600 euros con IVA
+  y la sentencia fijó un sobrecoste de 3.205.375,11 euros. La Audiencia Nacional condenó a diecinueve personas el
+  25 de noviembre de 2020; otras dos fueron absueltas y dos procesados habían fallecido. El Supremo desestimó los
+  recursos de siete condenados el 27 de marzo de 2023; los otros doce no habían recurrido. En mayo de 2024 se conocieron
+  suspensiones de ejecución de prisión para Pedro García, Óscar Fragio y José Luis Martínez Parra, que no suponen
+  absolución. No se ha verificado el cumplimiento de las condiciones de esas suspensiones ni la situación de ejecución
+  de todos los condenados al 15 de octubre de 2026.
+resumen: Adjudicación irregular de pantallas y sonido por RTVV para la visita papal de 2006, con un sobrecoste judicialmente
+  fijado de 3.205.375,11 euros.
+coste: 3205375.11
+lugar: Valencia, Comunitat Valenciana
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 5"
-  - "Audiencia Nacional - Sección Penal"
-  - "Tribunal Supremo - Sala Segunda"
-numeroSentencia: ""
+- Audiencia Nacional - Juzgado Central de Instrucción n.º 5
+- Audiencia Nacional - Sala de lo Penal, Sección Segunda
+- Tribunal Supremo - Sala de lo Penal
+numeroSentencia: SAN 20/2020, de 25 de noviembre (ECLI:ES:AN:2020:3074); STS 222/2023, de 27 de marzo (ECLI:ES:TS:2023:1286)
 implicados:
-  - nombre: "Francisco Correa Sánchez"
-    cargo: "Cabecilla de la trama Gürtel"
-    rol: "Condenado a 13 años y 7 meses de prisión por prevaricación, malversación, fraude, blanqueo de capitales y delitos fiscales"
-
-  - nombre: "Pablo Crespo Sabaris"
-    cargo: "Número dos de la trama Gürtel, exdirigente del PP gallego"
-    rol: "Condenado a 15 años y 5 meses de prisión, la mayor pena del caso, por los mismos delitos que Correa"
-
-  - nombre: "Álvaro Pérez Alonso (El Bigotes)"
-    cargo: "Delegado de la trama Gürtel en la Comunitat Valenciana"
-    rol: "Condenado a 6 años y 9 meses de prisión; recibió 500.000 euros del sobrecoste"
-
-  - nombre: "Juan Cotino Ferrer"
-    cargo: "Exconseller de Interior y expresidente de las Cortes Valencianas (PP)"
-    rol: "Señalado como enlace político con la trama; falleció en 2020 por COVID, extinguiéndose su responsabilidad penal"
-
-  - nombre: "Pedro García Gimeno"
-    cargo: "Exdirector general de RTVV (Canal 9)"
-    rol: "Condenado a 6 años y 9 meses de prisión por adjudicar directamente a Teconsa el contrato de pantallas; recibió 415.000 euros del sobrecoste"
-
-  - nombre: "José Luis Martínez Parra"
-    cargo: "Vicepresidente de Teconsa, empresa pantalla del grupo Correa"
-    rol: "Condenado a 11 años y 7 meses de prisión por su papel en la gestión del contrato fraudulento"
-
-  - nombre: "Francisco Camps Ortiz"
-    cargo: "President de la Generalitat Valenciana (PP)"
-    rol: "Investigado en relación con el caso; el exdirector de RTVV afirmó recibir órdenes de Camps para la cobertura del evento"
-
+- nombre: Francisco Correa Sánchez
+  cargo: Dirigente del grupo de empresas Gürtel
+  rol: Condenado a 13 años y 7 meses de prisión; no recurrió en casación
+- nombre: Pablo Crespo Sabaris
+  cargo: Directivo del grupo Gürtel y exdirigente del PP gallego
+  rol: Condenado a 15 años y 5 meses de prisión; no recurrió en casación
+- nombre: Álvaro Pérez Alonso, «El Bigotes»
+  cargo: Responsable de Orange Market en Valencia
+  rol: Condenado a 6 años y 9 meses de prisión; no recurrió en casación
+- nombre: Pedro García Gimeno
+  cargo: Director general de RTVV en los hechos
+  rol: Condenado a 6 años y 9 meses; no recurrió en casación. En mayo de 2024 se conoció la suspensión de prisión
+    por cinco años, condicionada a no delinquir y con multa de 20 euros diarios durante dos años
+- nombre: José Luis Martínez Parra
+  cargo: Vicepresidente de Teconsa
+  rol: Condenado a 11 años y 7 meses; su recurso fue desestimado por el Supremo. En mayo de 2024 se conoció la suspensión
+    de prisión por cinco años por enfermedad grave, con informes médicos semestrales
+- nombre: Óscar Fragio Díaz
+  cargo: Empresario y gerente de una subcontrata
+  rol: Condenado a 1 año y 6 meses; no recurrió en casación. En mayo de 2024 se conoció la suspensión de prisión
+    por cuatro años, condicionada a no delinquir
+- nombre: Francisco Javier Arnuncio Perujo
+  cargo: Administrador de Impacto Producciones, subcontratada por Teconsa
+  rol: Condenado a 3 años de prisión; recurso desestimado por el Supremo
+- nombre: Antonio José de la Viuda González
+  cargo: Exresponsable de Antena de RTVV
+  rol: Condenado a 2 años y 6 meses de prisión; recurso desestimado por el Supremo
+- nombre: Juan Prefaci Cruz
+  cargo: Jefe de gabinete del director general de RTVV
+  rol: Condenado a 2 años y 6 meses de prisión; recurso desestimado por el Supremo
+- nombre: Vicente Sanz Monlleó
+  cargo: Director de Gestión de RTVV
+  rol: Condenado a 2 años y 6 meses de prisión; recurso desestimado por el Supremo
+- nombre: Salvador Benjamín Iñíguez Escuder
+  cargo: Jefe de la Unidad de Compras y secretario de la mesa de contratación de RTVV
+  rol: Condenado a 2 años y 6 meses de prisión; recurso desestimado por el Supremo
+- nombre: María Encarnación Pérez Pallares
+  cargo: Letrada de la asesoría jurídica del departamento de contratación de RTVV
+  rol: Condenada a 2 años y 6 meses de prisión; recurso desestimado por el Supremo
+- nombre: Juan Cotino
+  cargo: Conseller de Agricultura en los hechos y posterior presidente de las Corts (PP)
+  rol: Procesado; responsabilidad penal extinguida por fallecimiento durante el juicio en 2020, sin condena
+- nombre: Noemí Márquez
+  cargo: Empresaria acusada en la pieza
+  rol: Absuelta tras retirar la Fiscalía la acusación por no acreditarse su participación
+- nombre: Alexandra Andrea Benesovsky
+  cargo: Empresaria acusada en la pieza
+  rol: Absuelta tras retirar la Fiscalía la acusación por no acreditarse su participación
+- nombre: Luis Sabater Balaguer
+  cargo: Procesado en la pieza
+  rol: Responsabilidad penal extinguida por fallecimiento, sin condena
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "blanqueo de capitales"
-  - "trama Gürtel"
-  - "contratación irregular"
-  - "fraude administrativo"
-  - "financiación ilegal"
-
-impactoSocial: "El caso supuso una nueva ramificación del macrocaso Gürtel que afectó directamente a la Generalitat Valenciana del PP. La muerte de Juan Cotino durante la pandemia de COVID-19 impidió juzgar al principal responsable político. La condena a 19 personas, incluyendo a los máximos cabecillas de la trama, confirmó el patrón sistemático de corrupción vinculado al PP valenciano. La Generalitat Valenciana, ya bajo gobierno del PSPV-Compromís, reclamó la restitución de los 3,2 millones defraudados."
-
-documentos: null
-
+- corrupción
+- malversación
+- prevaricación
+- blanqueo de capitales
+- cohecho
+- falsedad documental
+- fraude a la Administración
+- delitos contra la Hacienda Pública
+impactoSocial: La causa determinó el perjuicio al ente público RTVV derivado de una adjudicación preparada para
+  beneficiar al grupo Correa. Afectó tanto a empresarios como a responsables y empleados de la televisión pública
+  valenciana.
+documentos:
+- fecha: '2020-11-25'
+  titulo: 'Sentencia 20/2020 de la Audiencia Nacional: visita del Papa'
+  filetype: pdf
+  paginas: 266
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e9f8c6bb8ff188ec&encode=true&databasematch=AN
+- fecha: '2023-03-27'
+  titulo: 'Sentencia 222/2023 del Tribunal Supremo: recursos de casación'
+  filetype: pdf
+  paginas: 89
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=59f8c9eecc54304fa0a8778d75e36f0d&encode=true&databasematch=TS
 cronologia:
-  - fecha: "2005-10-01"
-    titulo: "La trama Gürtel obtiene información previa sobre la visita del Papa"
-    descripcion: "Desde octubre de 2005, Francisco Correa y su organización tienen conocimiento anticipado de la visita del Papa Benedicto XVI a Valencia para el V Encuentro Mundial de las Familias en julio de 2006. La red inicia gestiones para obtener de modo ilícito contratos relacionados con el evento, contactando con Juan Cotino y otros responsables de la Generalitat Valenciana."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/trama-guertel-repartio-3-2-millones-comisiones-visita-papa-tenia-objetivo-enriquecerse-ilicitamente-forma-sistematica_1_6459983.html"
-
-  - fecha: "2006-01-01"
-    titulo: "Adjudicación fraudulenta del contrato de pantallas a Teconsa"
-    descripcion: "La dirección de RTVV, encabezada por Pedro García Gimeno, adjudica directamente a Teconsa, empresa vinculada al grupo Correa, el contrato de suministro e instalación de pantallas gigantes, sonido y megafonía para la retransmisión de la visita papal en las calles de Valencia. El contrato se fija en 7,4 millones de euros, generando un sobrecoste de 3,2 millones sobre el precio real de mercado."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/politica/audiencia-nacional-condena-15-anos-prision-cabecillas-guertel-seis-anos-exdirector-canal-9-visita-papa_1_6459640.html"
-
-  - fecha: "2006-07-08"
-    titulo: "Visita del Papa Benedicto XVI a Valencia"
-    descripcion: "El Papa Benedicto XVI visita Valencia los días 7, 8 y 9 de julio de 2006 con motivo del V Encuentro Mundial de las Familias. La trama Gürtel, a través de Teconsa, ejecuta los servicios de pantallas y sonido por los que cargará a las arcas públicas un sobrecoste de 3,2 millones de euros."
-    type: "resumen"
-    urls:
-      - "https://www.publico.es/politica/condenas-15-anos-principales-responsables-trama-guertel-visita-papa-valencia.html"
-
-  - fecha: "2008-02-06"
-    titulo: "Inicio de la investigación del caso Gürtel"
-    descripcion: "El juez Baltasar Garzón inicia en la Audiencia Nacional la investigación del macrocaso Gürtel a partir de escuchas telefónicas a miembros de la trama. Las pesquisas comienzan a desvelar la red de corrupción que afecta a múltiples contratos públicos con el PP, entre ellos los relacionados con la visita del Papa a Valencia."
-    type: "investigación"
-    urls:
-      - "https://www.publico.es/politica/juicio-visita-papa-valencia-arranca-docena-confesiones.html"
-
-  - fecha: "2015-01-01"
-    titulo: "La pieza 'Visita del Papa' regresa a la Audiencia Nacional"
-    descripcion: "La investigación de la pieza separada de la visita del Papa, que había sido instruida inicialmente por el Tribunal Superior de Justicia de la Comunitat Valenciana, regresa a Madrid y queda asignada al Juzgado Central de Instrucción número 5 de la Audiencia Nacional, tras confirmarse que no existen aforados entre los investigados."
-    type: "investigación"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/ci.El-TS-confirma-la-competencia-de-la-Audiencia-Nacional-para-investigar-el-viaje-del-Papa-a-Valencia-y-otras-tres-piezas-separadas-de-Gurtel.formato3"
-
-  - fecha: "2016-01-01"
-    titulo: "Apertura de juicio oral"
-    descripcion: "El Juzgado Central de Instrucción número 5 de la Audiencia Nacional acuerda la apertura de juicio oral contra los 23 acusados de la pieza 'Visita del Papa', entre ellos Francisco Correa, Pablo Crespo, Álvaro Pérez 'El Bigotes', Juan Cotino y el exdirector de RTVV Pedro García Gimeno."
-    type: "investigación"
-    urls:
-      - "https://valenciaplaza.com/cotino-recoge-manana-el-auto-de-apertura-de-juicio-por-contratar-a-la-trama-para-la-visita-del-papa"
-
-  - fecha: "2020-03-02"
-    titulo: "Inicio del juicio oral en la Audiencia Nacional"
-    descripcion: "Arranca el juicio oral de la pieza 'Visita del Papa' del caso Gürtel en la Audiencia Nacional. Las primeras sesiones se caracterizan por una media docena de confesiones entre los acusados. El juicio se desarrollará a lo largo de veinte sesiones entre marzo y julio de 2020."
-    type: "juicio"
-    urls:
-      - "https://www.publico.es/politica/juicio-visita-papa-valencia-arranca-docena-confesiones.html"
-      - "https://www.infolibre.es/politica/juicio-visita-papa-valencia-augura-pp-oleada-confesiones-corrupcion-caso-gurtel_1_1180841.html"
-
-  - fecha: "2020-04-01"
-    titulo: "Fallecimiento de Juan Cotino durante el juicio"
-    descripcion: "Juan Cotino, exconseller de Interior y expresidente de las Cortes Valencianas, considerado el principal enlace político de la trama Gürtel en la organización de la visita papal, fallece por complicaciones del COVID-19 durante el transcurso del juicio oral. Su muerte extingue su responsabilidad penal, impidiendo que sea juzgado y condenado."
-    type: "resumen"
-    urls:
-      - "https://www.infolibre.es/politica/bigotes-asegura-cotino-coordino-visita-papa-valencia-tenia-ultima-palabra_1_1181025.html"
-
-  - fecha: "2020-11-25"
-    titulo: "Sentencia de la Audiencia Nacional: condenas de hasta 15 años"
-    descripcion: "La Audiencia Nacional dicta sentencia condenando a 19 de los 23 acusados. Las penas más elevadas recaen sobre Pablo Crespo (15 años y 5 meses) y Francisco Correa (13 años y 7 meses). El exdirector de RTVV Pedro García Gimeno es condenado a 6 años y 9 meses. Álvaro Pérez 'El Bigotes' recibe 6 años y 9 meses. Los delitos incluyen prevaricación, malversación, fraude, falsedad documental, blanqueo de capitales y delitos contra la Hacienda Pública."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/ca/Poder-Judicial/Novetats/Penas-de-hasta-15-anos-de-carcel-para-19-de-los-23-acusados-por-la-visita-del-Papa-a-Valencia-en-2006"
-      - "https://www.publico.es/politica/condenas-15-anos-principales-responsables-trama-guertel-visita-papa-valencia.html"
-      - "https://www.eldiario.es/comunitat-valenciana/politica/audiencia-nacional-condena-15-anos-prision-cabecillas-guertel-seis-anos-exdirector-canal-9-visita-papa_1_6459640.html"
-
-  - fecha: "2021-01-01"
-    titulo: "La Generalitat Valenciana reclama la ejecución de la sentencia"
-    descripcion: "El gobierno de la Generalitat Valenciana, bajo el Botànic, insta a ejecutar la sentencia de la Audiencia Nacional para que los condenados restituyan los 3,2 millones de euros defraudados a las arcas públicas con motivo de la visita del Papa."
-    type: "resumen"
-    urls:
-      - "https://valenciaplaza.com/generalitat-instara-ejecutar-sentencia-gurtel-visita-papa-valencia"
-      - "https://www.gva.es/es/inicio/area_de_prensa/not_detalle_area_prensa?id=993097"
-
-  - fecha: "2023-04-10"
-    titulo: "El Tribunal Supremo confirma las condenas"
-    descripcion: "El Tribunal Supremo confirma la sentencia de la Audiencia Nacional al rechazar los recursos presentados por siete de los condenados, entre ellos Francisco Correa, Pablo Crespo y Álvaro Pérez 'El Bigotes'. Las penas de hasta 15 años y 5 meses de prisión quedan firmes, cerrando definitivamente esta pieza del macrocaso Gürtel."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/politica/supremo-confirma-penas-cabecillas-gurtel-irregularidades-visita-papa-valencia-2006_1_9987256.html"
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-sentencia-de-la-Audiencia-Nacional-en-la-pieza--visita-del-Papa--del-caso-Gurtel--al-rechazar-el-recurso-de-siete-acusados"
-      - "https://valenciaplaza.com/supremo-confirma-condenas-15-anos-trama-gurtel-visita-papa-valencia"
+- fecha: '2006-02-27'
+  titulo: Convenio entre la Fundación y RTVV
+  descripcion: El convenio de colaboración cargó a RTVV el coste de pantallas y sonido del encuentro. La sentencia
+    lo identifica como el mecanismo utilizado para trasladar al ente público un gasto que no necesitaba para la
+    retransmisión.
+  type: investigacion
+  urls:
+  - https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2020:3074
+- fecha: '2013-02-04'
+  titulo: Formación de la pieza separada
+  descripcion: El TSJCV acuerda formar la pieza cuarta, «Visita del Papa a Valencia», sobre el contrato de RTVV
+    con Teconsa.
+  type: investigacion
+  urls:
+  - https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2020:3074
+- fecha: '2020-03-09'
+  titulo: Comienza el juicio oral
+  descripcion: La sentencia documenta veinte sesiones entre el 9 de marzo y el 27 de julio de 2020, con interrupción
+    durante la pandemia.
+  type: juicio
+  urls:
+  - https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2020:3074
+- fecha: '2020-04-28'
+  titulo: Extinción de la responsabilidad penal de Juan Cotino
+  descripcion: El tribunal acuerda por auto extinguir su responsabilidad criminal por fallecimiento. No se dictó
+    condena contra él.
+  type: investigacion
+  urls:
+  - https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2020:3074
+- fecha: '2020-11-25'
+  titulo: Sentencia de la Audiencia Nacional
+  descripcion: La sentencia 20/2020 condena a diecinueve personas y absuelve a dos. El fallo fija una indemnización
+    de 3.205.375,11 euros por la cantidad objeto de malversación, con responsabilidades directas y subsidiarias.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2020:3074
+  - https://valenciaplaza.com/listado-de-condenados-en-la-audiencia-nacional-por-los-contratos-de-gurtel-para-la-visita-del-papa
+  - https://www.lavanguardia.com/politica/20201125/49692505661/condenas-15-anos-gurtel-viisita-papa-valencia-2006.html?facet=amp
+- fecha: '2023-03-27'
+  titulo: El Supremo desestima siete recursos
+  descripcion: La STS222/2023 rechaza los recursos de Martínez Parra y otros seis condenados. Los otros doce condenados,
+    incluidos Correa, Crespo y Pérez, no habían recurrido en casación. La nota oficial se publicó el 10 de abril.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2023:1286
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-sentencia-de-la-Audiencia-Nacional-en-la-pieza--visita-del-Papa--del-caso-Gurtel--al-rechazar-el-recurso-de-siete-acusados
+- fecha: '2023-06-27'
+  titulo: Se conoce el rechazo de incidentes de nulidad
+  descripcion: Europa Press informa de la desestimación de los incidentes promovidos por dos defensas. La noticia
+    no permite fijar aquí la fecha exacta del auto ni acreditar posteriores recursos de amparo.
+  type: recurso
+  urls:
+  - https://murciaplaza.com/murciaplaza/eltsdesestimaelincidentedenulidadpresentadocontralasentenciadelagurtelporlavisitadelpapa1
+- fecha: '2024-05-29'
+  titulo: Se conocen tres suspensiones de ejecución de prisión
+  descripcion: Europa Press informa de autos que suspenden la prisión de Pedro García por cinco años, Óscar Fragio
+    por cuatro y Martínez Parra por cinco, con condiciones particulares. La fecha corresponde a la publicación de
+    la noticia.
+  type: sentencia
+  urls:
+  - https://www.europapress.es/comunitat-valenciana/noticia-an-suspende-pena-prision-pedro-garcia-otros-dos-condenados-causa-visita-papa-valencia-20240529173749.html
 ---
+
+La contratación se preparó al menos desde **octubre de 2005**, sin que se disponga de un día inicial preciso. El encuentro mundial de las familias se celebró del 7 al 9 de julio de 2006; la visita del Papa a Valencia tuvo lugar los días 8 y 9. El tribunal consideró probado que los responsables de la trama concertaron con la dirección de RTVV una adjudicación a Teconsa previamente decidida y que después se confeccionó un expediente antedatado para darle apariencia de legalidad. Teconsa era una constructora sin capacidad técnica para ejecutar esos servicios y subcontrató los trabajos.
+
+El importe contractual fue de **6.460.000 euros sin IVA y 7.493.600 euros con IVA**. El sobrecoste acreditado fue de **3.205.375,11 euros**, también fijado como indemnización por malversación. No representa la suma de todos los contratos de la visita ni del conjunto de Gürtel. Las comisiones repartidas forman parte del mecanismo de ese perjuicio; no deben añadirse como otro daño independiente. Los pronunciamientos por cuotas tributarias, las multas y los comisos tienen naturaleza distinta.
+
+El fallo contiene además una indemnización de 3.254.624,89 euros atribuida a la Fundación V Encuentro Mundial de la Familia como partícipe a título lucrativo, pero declara extinguida esa obligación al haber asumido la Generalitat las obligaciones de la Fundación y RTVV. Tampoco se agrega esa cantidad al sobrecoste. Las consignaciones realizadas por los condenados deben descontarse de sus responsabilidades civiles, por lo que la cifra fijada en sentencia no acredita un saldo íntegro todavía pendiente de cobro.
+
+La **sentencia de la Audiencia Nacional de 25 de noviembre de 2020** distingue condenados, absueltas y procesados fallecidos. Las personas destacadas en la ficha no agotan la relación de diecinueve condenados. Juan Cotino fue procesado y falleció durante el juicio: la extinción de su responsabilidad no equivale a una condena. Francisco Camps no fue uno de los acusados condenados o absueltos por esta sentencia y no se le atribuye aquí esa condición.
+
+La resolución del **Supremo de 27 de marzo de 2023** desestimó los recursos de siete personas, entre ellas Martínez Parra. Correa, Crespo y Pérez no figuraban entre esos recurrentes. El alto tribunal también rechazó en esa sentencia una solicitud de reducción de pena al amparo de la reforma de la malversación de 2022. La información posterior sobre incidentes de nulidad y suspensiones penitenciarias se refiere a trámites diferentes y no borra las condenas.
+
+En mayo de 2024, Europa Press informó de tres suspensiones de prisión: para Pedro García y Óscar Fragio se valoró, entre otros requisitos, la reparación del daño; para Martínez Parra, su enfermedad grave. No se han obtenido aquí esos autos completos ni se ha comprobado el cumplimiento posterior de sus condiciones. El estado indica la existencia de condenas confirmadas, sin afirmar que todas las penas estén cumplidas ni que cada persona continúe en el mismo régimen al **15 de octubre de 2026**.
