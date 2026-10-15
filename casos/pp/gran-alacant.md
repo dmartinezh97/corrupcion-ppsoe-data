@@ -103,7 +103,7 @@ cronologia:
       - "https://alicanteplaza.es/alicanteplaza/elcheplaza/la-audiencia-de-alicante-rectifica-y-permite-la-apelacion-del-caso-clinica-gran-alacant-ante-el-tsj"
 ---
 
-La actividad médica privada en el edificio municipal precedía a la concesión: la sentencia de primera instancia sitúa el trabajo de Fernando Gómez en ese inmueble desde 1989 y su colaboración con Manuel Rodríguez desde 2004. El procedimiento de concesión comenzó el 20 de abril de 2005 y culminó con el contrato de marzo de 2006. Por tanto, no se identifica una supuesta apertura el 1 de enero de 2005 ni se fija una fecha exacta de inicio de todas las conductas cuestionadas.
+La actividad médica privada en el edificio municipal precedía a la concesión: la sentencia de primera instancia sitúa el trabajo de Fernando Gómez en ese inmueble desde 1989 y su colaboración con Manuel Rodríguez desde 2004. El procedimiento de concesión comenzó el 20 de abril de 2005 y culminó con el contrato de marzo de 2006. No se ha verificado una fecha exacta de inicio de todas las conductas cuestionadas.
 
 El contrato no consistía simplemente en regalar un local. Preveía el pago de un canon y servicios a favor del Ayuntamiento, cuya compensación exigía acreditar las prestaciones y practicar las liquidaciones. La Audiencia consideró que los responsables políticos y los médicos toleraron conscientemente los incumplimientos y que la contratación de auxiliares elegidos por el entorno municipal constituía la contrapartida. En 2012 se redujeron verbalmente la superficie utilizada y el canon, a 6.176 euros, sin la tramitación exigible. Estas conclusiones pertenecen a la sentencia de primera instancia y no se presentan como un pronunciamiento firme confirmado en recurso.
 
