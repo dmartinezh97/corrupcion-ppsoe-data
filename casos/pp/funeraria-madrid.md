@@ -97,10 +97,11 @@ cronologia:
       - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1048346"
   - fecha: "2016-09-16"
     titulo: "Recuperación de la gestión íntegramente municipal"
-    descripcion: "La nueva empresa municipal comenzó a operar tras la extinción de la sociedad mixta y la reversión de sus activos. La nota municipal del día 15 anunció expresamente la entrada en funcionamiento el 16 de septiembre."
+    descripcion: "La nueva empresa municipal comenzó a operar tras la extinción de la sociedad mixta y la reversión de sus activos. El balance municipal de septiembre de 2017 confirma que el cambio a la gestión pública se produjo el 16 de septiembre de 2016."
     type: "resumen"
     urls:
       - "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Notas-de-prensa/Consejo-de-administracion-extraordinario-de-la-Funeraria-antes-de-su-municipalizacion/?vgnextchannel=6091317d3d2a7010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=952880bfbae27510VgnVCM2000001f4a900aRCRD"
+      - "https://diario.madrid.es/blog/notas-de-prensa/balance-positivo-en-el-primer-ano-de-gestion-publica-de-la-empresa-municipal-funeraria/"
 ---
 
 La controversia penal se centró en cómo se ejecutó la entrada del socio privado en la empresa funeraria y cómo se trató su deuda con el Ayuntamiento. El Supremo distinguió la adjudicación y sus condiciones de las decisiones posteriores que determinaron el precio efectivo. No convirtió toda irregularidad de la operación en un delito de malversación: rechazó esa calificación porque no concurrían los elementos de la apropiación que exigía la legislación aplicable.
