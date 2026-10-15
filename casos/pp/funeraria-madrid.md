@@ -1,133 +1,115 @@
 ---
 nombre: "Caso Funeraria Madrid"
 partido: "PP"
-completado: true
+completado: false
 año: 1992
 fechaInicio: "1992-12-22"
-fechaFin: "2015-05-19"
 estado: "cerrado con condenas"
 descripcion: |
-  El Caso Funeraria de Madrid tiene su origen en la privatización irregular de la Empresa Mixta de Servicios Funerarios de Madrid (EMSFM) el 22 de diciembre de 1992, cuando el Ayuntamiento gobernado por el PP bajo el alcalde José María Álvarez del Manzano vendió el 49% de las acciones de la empresa pública a la compañía privada Funespaña por el precio simbólico de 100 pesetas (0,60 euros). Para justificar la operación, se encargó un informe de 332 páginas a José Ignacio Rodrigo que declaraba la empresa en quiebra técnica, cuando en realidad era rentable: solo meses después de la privatización, cerró el primer ejercicio con beneficios de 800 millones de pesetas.
+  Procedimiento por la privatización parcial de la funeraria municipal de Madrid, cuyo 49% se adjudicó a Funespaña en diciembre de 1992 por un precio nominal de 100 pesetas. La operación incluía otras obligaciones y una posterior condonación de deuda municipal: ese precio no representa por sí solo el importe invertido ni el daño económico del caso.
 
-  La clave de la operación fue el papel de José Ignacio Rodrigo, asesor municipal del PP, quien elaboró el informe que sirvió de base para la privatización y acabó convirtiéndose en presidente y principal accionista de Funespaña. Según la Fiscalía Anticorrupción, el acuerdo entre Rodrigo y los hermanos Juan Antonio y Ángel Valdivia Gerada consistió en que Rodrigo aportaría los fondos e influiría sobre los concejales del PP para que la adjudicación recayera en Funespaña, a cambio de una participación oculta en el capital social de la empresa.
+  La sentencia del Tribunal Supremo 1026/2009, de 16 de octubre, mantuvo la condena del ex primer teniente de alcalde Luis María Huete por prevaricación a dos años y un día de suspensión de cargo público. También condenó al exasesor municipal y expresidente de Funespaña José Ignacio Rodrigo Fernández como cómplice de prevaricación y autor de tráfico de influencias, con tres multas que suman 3.716.268,19 euros. En ambos casos se apreció la atenuante muy cualificada de dilaciones indebidas. Otros acusados fueron absueltos; no hubo condena por malversación.
 
-  En 1998, el Tribunal de Cuentas detectó irregularidades en la adjudicación y la gestión de la privatización, señalando la falta de informes que justificasen la fórmula elegida. En 1999, la Fiscalía Anticorrupción presentó querella ante el Tribunal Superior de Justicia de Madrid contra 14 personas, incluyendo al primer teniente de alcalde Luis María Huete, y a los concejales Simón Viñals y Antonio Moreno. En 2003, el TSJM anuló los pliegos de adjudicación a raíz de una denuncia del PSOE.
-
-  La Audiencia Provincial de Madrid dictó sentencia el 27 de octubre de 2009, condenando a Luis María Huete por prevaricación a dos años y un día de inhabilitación para el ejercicio de cargos públicos, reducida por dilaciones indebidas del proceso. José Ignacio Rodrigo fue condenado como cómplice de prevaricación y autor de un delito de tráfico de influencias, con una multa de más de 3,7 millones de euros. El Tribunal Supremo ratificó estas condenas en sentencia de 19 de mayo de 2015. Entre 1993 y 2014, Funespaña obtuvo 63,8 millones de euros entre dividendos y bonificaciones sobre beneficios, frente a los 7,4 millones que habría debido pagar según el interventor municipal.
-
-resumen: "Privatización irregular de la funeraria municipal de Madrid por 100 pesetas con condena por prevaricación y tráfico de influencias"
-coste: 63800000
+  En marzo de 2011 se informó del rechazo de la solicitud de Rodrigo de revisar su condena. No se han verificado novedades procesales del procedimiento de 1992 en 2025 o 2026 ni la ejecución de las penas. Quedan pendientes el auto íntegro de revisión y la comprobación completa de las actuaciones contables y contencioso-administrativas relacionadas. La gestión íntegramente municipal se recuperó en septiembre de 2016 por extinción de la sociedad mixta y reversión de activos.
+resumen: "Privatización parcial de la funeraria madrileña: condenas de Huete y Rodrigo en 2009 y absolución de los demás acusados"
 lugar: "Madrid, Comunidad de Madrid"
 tribunal:
-  - "Tribunal Superior de Justicia de Madrid"
-  - "Audiencia Provincial de Madrid"
-  - "Tribunal Supremo (Sala de lo Penal)"
-  - "Tribunal de Cuentas"
-numeroSentencia: "STS 2047/2015"
+  - "Tribunal Superior de Justicia de Madrid - Sala de lo Civil y Penal"
+  - "Audiencia Provincial de Madrid - Sección Cuarta"
+  - "Tribunal Supremo - Sala de lo Penal"
+numeroSentencia: "STS 1026/2009, de 16 de octubre (ROJ STS 6343/2009; ECLI:ES:TS:2009:6343)"
 implicados:
   - nombre: "Luis María Huete Morillo"
-    cargo: "Primer Teniente de Alcalde del Ayuntamiento de Madrid (PP)"
-    rol: "Condenado por prevaricación a 2 años y 1 día de inhabilitación para cargo público"
-
+    cargo: "Primer teniente de alcalde del Ayuntamiento de Madrid (PP) durante la operación"
+    rol: "Condenado por prevaricación a dos años y un día de suspensión de cargo público. El Supremo desestimó su recurso de casación en 2009 y mantuvo esa condena."
   - nombre: "José Ignacio Rodrigo Fernández"
-    cargo: "Asesor municipal del PP en el Ayuntamiento de Madrid y posterior presidente de Funespaña"
-    rol: "Condenado por complicidad en prevaricación y tráfico de influencias; multa de más de 3,7 millones de euros"
-
-  - nombre: "José María Álvarez del Manzano"
-    cargo: "Alcalde de Madrid (PP)"
-    rol: "Responsable político de la privatización; no fue procesado penalmente"
-
+    cargo: "Asesor municipal y posterior presidente de Funespaña"
+    rol: "Condenado por el Supremo en 2009 como cómplice de prevaricación y autor de tráfico de influencias a tres multas: 601,01 euros, 601,01 euros y 3.715.066,17 euros. En 2011 se informó del rechazo de su solicitud de revisión."
   - nombre: "Juan Antonio Valdivia Gerada"
     cargo: "Directivo de Funespaña"
-    rol: "Acusado; absuelto por prescripción de los delitos"
-
+    rol: "Acusado y absuelto en el procedimiento. La prescripción afectó a determinadas imputaciones fiscales y de falsedad; no debe atribuirse ese motivo indistintamente a todas las absoluciones."
   - nombre: "Ángel Valdivia Gerada"
     cargo: "Directivo de Funespaña"
-    rol: "Acusado; absuelto por prescripción de los delitos"
-
+    rol: "Acusado y absuelto en el procedimiento. La prescripción afectó a determinadas imputaciones fiscales y de falsedad; no debe atribuirse ese motivo indistintamente a todas las absoluciones."
   - nombre: "Simón Viñals"
-    cargo: "Concejal del PP en el Ayuntamiento de Madrid"
-    rol: "Acusado; absuelto"
-
+    cargo: "Concejal del PP en el Ayuntamiento de Madrid durante la operación"
+    rol: "Acusado y absuelto de los delitos que se le imputaban; no condenado en casación."
   - nombre: "Antonio Moreno"
-    cargo: "Concejal del PP en el Ayuntamiento de Madrid"
-    rol: "Acusado; absuelto"
-
+    cargo: "Concejal del PP en el Ayuntamiento de Madrid durante la operación"
+    rol: "Acusado y absuelto de los delitos que se le imputaban; no condenado en casación."
 tags:
-  - "corrupción"
   - "prevaricación"
   - "tráfico de influencias"
-  - "privatización irregular"
-  - "fraude administrativo"
-
-impactoSocial: "El caso fue uno de los grandes escándalos de la gestión del PP en el Ayuntamiento de Madrid durante los años 90. Entre la privatización y la sentencia firme del Tribunal Supremo transcurrieron más de 22 años. La empresa fue remunicipalizada en 2017 por el gobierno de Manuela Carmena (Ahora Madrid), que la recuperó al 100% tras constatar que Funespaña había obtenido más de 63 millones de euros de beneficios sobre una inversión inicial de 1,2 millones. En 2023, una investigación de La Marea reveló que la Comunidad de Madrid seguía pagando 1,5 millones de euros anuales de alquiler por un edificio propiedad de una sociedad vinculada al exasesor Rodrigo, condenado en el propio caso."
-
-documentos: null
-
+  - "privatización"
+  - "administración local"
+documentos:
+  - fecha: "2009-10-16"
+    titulo: "Tribunal Supremo: sentencia de casación y segunda sentencia 1026/2009"
+    filetype: "pdf"
+    paginas: 54
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=9dfbb7128bbccc76&encode=true&databasematch=TS"
 cronologia:
   - fecha: "1992-12-22"
-    titulo: "Privatización de la funeraria municipal por 100 pesetas"
-    descripcion: "El Ayuntamiento de Madrid, gobernado por el PP bajo el alcalde José María Álvarez del Manzano, vende el 49% de la Empresa Mixta de Servicios Funerarios de Madrid (EMSFM) a Funespaña por 100 pesetas (0,60 euros). El asesor municipal José Ignacio Rodrigo había elaborado un informe de 332 páginas declarando la empresa en quiebra técnica para justificar la operación, cuando meses después la empresa cerraría su primer ejercicio privado con 800 millones de pesetas de beneficios."
-    type: "resumen"
+    titulo: "Adjudicación del 49% de la funeraria a Funespaña"
+    descripcion: "El Pleno municipal aprobó la adjudicación a Funespaña. El precio nominal de 100 pesetas debe distinguirse de las obligaciones de aportación de capital y de la controversia sobre el patrimonio neto y la deuda de la empresa."
+    type: "adjudicacion"
     urls:
-      - "https://ctxt.es/es/20160210/Politica/4181/Funeraria-Madrid-EMSFM-privatizacion-Funespana-Ahora-Madrid.htm"
-      - "https://www.eldiario.es/madrid/funeraria_1_2021999.html"
-
-  - fecha: "1996-01-01"
-    titulo: "Denuncia de Izquierda Unida ante la Fiscalía Anticorrupción"
-    descripcion: "Izquierda Unida presenta denuncia ante la Fiscalía Anticorrupción por las presuntas irregularidades que rodearon la privatización de la funeraria municipal en 1992. La denuncia alerta sobre las condiciones de la venta a precio simbólico y el beneficio obtenido por Funespaña."
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2009:6343"
+      - "https://www.rtve.es/noticias/20091027/el-supremo-condena-al-ex-presidente-de-funespana-por-el-caso-funeraria/297943.shtml"
+  - fecha: "1993-02-26"
+    titulo: "Acuerdo municipal de compensación de deuda"
+    descripcion: "El Pleno aprobó la denominada compensación de la deuda de la funeraria con el Ayuntamiento, que el Supremo calificó como condonación. Su tratamiento y la omisión de las advertencias técnicas fundamentaron el reproche penal a Huete."
+    type: "investigacion"
+    urls:
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2009:6343"
+  - fecha: "1999-09-17"
+    titulo: "Querella del Ministerio Fiscal"
+    descripcion: "Los hechos probados recogidos por el Supremo sitúan la querella fiscal el 17 de septiembre de 1999 y su admisión a trámite el día 22. El procedimiento se tramitó inicialmente ante el Tribunal Superior de Justicia de Madrid."
     type: "denuncia"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Funeraria&amp=&numero=67"
-
-  - fecha: "1998-01-30"
-    titulo: "El Tribunal de Cuentas detecta irregularidades en la privatización"
-    descripcion: "El Tribunal de Cuentas publica un informe detectando diversas irregularidades e incumplimientos en la adjudicación y gestión de la privatización de la funeraria. Señala la falta de informes que justificasen que la privatización era la fórmula idónea y que no se fundamentó la forma de integración del capital privado."
-    type: "investigación"
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2009:6343"
+  - fecha: "2007-05-07"
+    titulo: "Comienza el juicio oral"
+    descripcion: "La vista oral ante la Audiencia Provincial de Madrid comenzó el 7 de mayo de 2007 y concluyó el 8 de enero de 2008, según los antecedentes recogidos en la sentencia del Supremo."
+    type: "juicio"
     urls:
-      - "https://www.libertaddigital.com/espana/2002-09-27/binformeb-las-claves-del-caso-funeraria-1275318787/"
-
-  - fecha: "1999-09-16"
-    titulo: "La Fiscalía Anticorrupción presenta querella contra 14 personas"
-    descripcion: "La Fiscalía Anticorrupción presenta querella ante el Tribunal Superior de Justicia de Madrid contra 14 personas, entre ellas el primer teniente de alcalde Luis María Huete y los concejales del PP Simón Viñals y Antonio Moreno. También se amplía la acusación a José Ignacio Rodrigo y a los hermanos Valdivia por tráfico de influencias y corrupción en la adjudicación."
-    type: "investigación"
-    urls:
-      - "https://rojoynegro.info/articulo/presunta-corrupcion-del-pp-caso-funeraria/"
-
-  - fecha: "2003-01-01"
-    titulo: "El TSJM anula los pliegos de adjudicación de la venta"
-    descripcion: "El Tribunal Superior de Justicia de Madrid anula los pliegos de adjudicación de la venta de la funeraria a raíz de una denuncia presentada por el PSOE, censurando la operación de privatización. Es la primera sentencia que invalida jurídicamente parte del proceso."
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2009:6343"
+  - fecha: "2008-05-07"
+    titulo: "Sentencia de la Audiencia Provincial"
+    descripcion: "La Sección Cuarta condenó a Huete por prevaricación y absolvió a los demás acusados. La fecha de la resolución consta en la cabecera y los antecedentes del Supremo; la noticia de Europa Press sobre el fallo se publicó el 2 de junio."
     type: "sentencia"
     urls:
-      - "https://ctxt.es/es/20160210/Politica/4181/Funeraria-Madrid-EMSFM-privatizacion-Funespana-Ahora-Madrid.htm"
-
-  - fecha: "2009-10-27"
-    titulo: "La Audiencia Provincial condena a Huete y a Rodrigo"
-    descripcion: "La Audiencia Provincial de Madrid dicta sentencia en el caso. Luis María Huete, ex primer teniente de alcalde del PP, es condenado por prevaricación a dos años y un día de inhabilitación para el ejercicio de cargo público, reducida por dilaciones indebidas del proceso. José Ignacio Rodrigo es condenado como cómplice de prevaricación y autor de tráfico de influencias, con multa de más de 3,7 millones de euros. Los directivos de Funespaña y los hermanos Valdivia son absueltos por prescripción."
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2009:6343"
+      - "https://www.20minutos.es/noticia/384822/0/setntencia/caso/funeraria/"
+  - fecha: "2009-10-16"
+    titulo: "El Supremo mantiene la condena de Huete y condena a Rodrigo"
+    descripcion: "La STS 1026/2009 desestimó el recurso de Huete y estimó parcialmente los recursos de las acusaciones para condenar a Rodrigo por complicidad en prevaricación y tráfico de influencias. No extendió esas condenas a los restantes acusados ni apreció malversación."
     type: "sentencia"
+    relevancia: "alta"
     urls:
-      - "https://especiales.publico.es/hemeroteca/121791/condenado-por-prevaricacion-un-ex-edil-del-pp-de-madrid"
-      - "https://www.eleconomista.es/empresas-finanzas/noticias/1651113/10/09/ACTUALIZADirectivos-de-Funespana-absueltos-en-caso-Funeraria.html"
-
-  - fecha: "2015-05-19"
-    titulo: "El Tribunal Supremo ratifica las condenas"
-    descripcion: "El Tribunal Supremo (Sala de lo Penal) ratifica en sentencia STS 2047/2015 las condenas de la Audiencia Provincial contra Luis María Huete y José Ignacio Rodrigo. La sentencia firme pone fin a más de 22 años de proceso judicial por la privatización irregular de la funeraria municipal de Madrid."
-    type: "sentencia"
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2009:6343"
+      - "https://www.rtve.es/noticias/20091027/el-supremo-condena-al-ex-presidente-de-funespana-por-el-caso-funeraria/297943.shtml"
+  - fecha: "2011-03-18"
+    titulo: "Se conoce el rechazo de la solicitud de revisión de Rodrigo"
+    descripcion: "Iustel informa de que el Supremo rechazó revisar la condena al no considerar que la documentación presentada aportara una prueba nueva y evidente de inocencia. La fecha corresponde a esta publicación; no se ha comprobado el día del auto."
+    type: "recurso"
     urls:
       - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1048346"
-
-  - fecha: "2017-01-01"
-    titulo: "Remunicipalización de la funeraria por el gobierno de Carmena"
-    descripcion: "El gobierno de Manuela Carmena (Ahora Madrid) recupera el 100% de la Empresa Municipal de Servicios Funerarios de Madrid tras comprar la participación de Funespaña. La operación es presentada como reparación del daño causado por la privatización de 1992, durante la cual Funespaña obtuvo 63,8 millones de euros entre dividendos y bonificaciones sobre beneficios, frente a los 1,2 millones que invirtió."
+  - fecha: "2016-09-16"
+    titulo: "Recuperación de la gestión íntegramente municipal"
+    descripcion: "La nueva empresa municipal comenzó a operar tras la extinción de la sociedad mixta y la reversión de sus activos. El balance municipal de septiembre de 2017 confirma que el cambio a la gestión pública se produjo el 16 de septiembre de 2016."
     type: "resumen"
     urls:
-      - "https://ahoramadrid.org/ahora-madrid-celebra-la-remunicipalizacion-de-la-funeraria-y-denuncia-la-cesion-por-100-pesetas-que-hizo-el-anterior-gobierno-del-pp/"
-      - "https://www.eldiario.es/madrid/funeraria_1_2021999.html"
-
-  - fecha: "2023-06-15"
-    titulo: "La Comunidad de Madrid paga alquiler millonario a empresa del condenado Rodrigo"
-    descripcion: "Una investigación de La Marea revela que la Comunidad de Madrid paga 1,5 millones de euros anuales por el alquiler de un edificio cuya propiedad pertenece a una sociedad vinculada a José Ignacio Rodrigo, el exasesor del PP condenado en el caso Funeraria por tráfico de influencias y prevaricación."
-    type: "investigación"
-    urls:
-      - "https://www.lamarea.com/2023/06/15/comunidad-madrid-exasesor-pp-condenado-caso-funeraria/"
+      - "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Notas-de-prensa/Consejo-de-administracion-extraordinario-de-la-Funeraria-antes-de-su-municipalizacion/?vgnextchannel=6091317d3d2a7010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=952880bfbae27510VgnVCM2000001f4a900aRCRD"
+      - "https://diario.madrid.es/blog/notas-de-prensa/balance-positivo-en-el-primer-ano-de-gestion-publica-de-la-empresa-municipal-funeraria/"
 ---
+
+La controversia penal se centró en cómo se ejecutó la entrada del socio privado en la empresa funeraria y cómo se trató su deuda con el Ayuntamiento. El Supremo distinguió la adjudicación y sus condiciones de las decisiones posteriores que determinaron el precio efectivo. No convirtió toda irregularidad de la operación en un delito de malversación: rechazó esa calificación porque no concurrían los elementos de la apropiación que exigía la legislación aplicable.
+
+El fallo de casación mantuvo para Luis María Huete la pena de **suspensión de cargo público durante dos años y un día**, denominación distinta de la inhabilitación que emplean algunas crónicas. Para José Ignacio Rodrigo estableció una multa de 601,01 euros por complicidad en prevaricación y otras dos de 601,01 y 3.715.066,17 euros por tráfico de influencias. Son penas pecuniarias, separadas de las costas procesales. La sentencia recoge arrestos sustitutorios en caso de impago, pero no se ha verificado que se ejecutaran. Las absoluciones de los demás acusados se mantuvieron; la prescripción solo explica determinados pronunciamientos, no la totalidad de la absolución de cada persona.
+
+Las 100 pesetas fueron un precio nominal por las acciones. La oferta también contemplaba una aportación de 200 millones de pesetas para ampliar capital. Los dividendos y el canon de gestión percibidos por el socio privado durante los años siguientes no constituyen automáticamente una cuantificación judicial del perjuicio. La sentencia aborda además reintegros de deuda relacionados con el Tribunal de Cuentas y rechaza la indemnización adicional solicitada por una acusación popular. Por esas diferencias no se asigna una cifra única al coste del caso.
+
+La recuperación del servicio municipal en 2016 fue una actuación administrativa posterior: la fuente municipal describe la extinción y liquidación de la empresa mixta y el traspaso de activos a la nueva empresa pública. No debe presentarse como una compra de acciones realizada en 2017 o como una nueva condena penal.
+
+La última actuación penal posterior a la casación que se ha contrastado mediante una noticia es el rechazo de la revisión solicitada por Rodrigo, conocido en marzo de 2011. Falta comprobar el auto íntegro y la ejecución de las penas, así como completar el examen de los procedimientos contable y contencioso-administrativo relacionados. Las búsquedas hasta el 15 de octubre de 2026 no han permitido verificar nuevas resoluciones de 2025 o 2026 de este procedimiento. La información sobre un arrendamiento de la Comunidad de Madrid publicada en 2023 trata de otro negocio y no acredita una nueva irregularidad o condena en el caso de la funeraria.
