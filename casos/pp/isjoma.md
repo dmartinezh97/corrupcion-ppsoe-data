@@ -1,135 +1,116 @@
 ---
-nombre: "Caso Isjoma"
+nombre: Caso Isjoma
 partido: PP
-completado: true
+completado: false
 año: 2009
-fechaInicio: 2009-02-01
-fechaFin: 2023-10-04
-estado: "cerrado con absoluciones"
-descripcion: |
-  El Caso Isjoma es una investigación judicial sobre presuntas irregularidades en la adjudicación de contratos públicos para el montaje de infraestructuras de eventos festivos y culturales en el Ayuntamiento de Alicante durante el periodo 2003-2009. La investigación comenzó en 2009 tras la denuncia del empresario José Antonio Alavés, que competía por estos contratos y denunció ante la Fiscalía que el exconcejal del PP Juan Zaragoza le había convocado a una reunión en su despacho del Ayuntamiento para informarle de que la oferta ganadora de la empresa Isjoma había sido redactada por dos técnicos municipales.
-
-  El caso se centra en la presunta existencia de una trama orquestada entre 2003 y 2009 por técnicos municipales y los exconcejales del PP Andrés Llorens y Juan Zaragoza para favorecer sistemáticamente a la empresa Isjoma SL mediante la concesión de contratos menores para el suministro de equipamiento, montaje y desmontaje de escenarios, así como colocación y retirada de sillas. Los contratos con esta empresa durante 2007, 2008 y 2009 representaron un gasto cercano a 850.000 euros de las arcas municipales, al margen de los 1.600.000 euros que el Ayuntamiento abonó durante este mismo periodo por servicios certificados. La Fiscalía estimó en 841.000 euros los sobrecostes que Isjoma cobró de Alicante en 2008 y 2009.
-
-  En marzo de 2018, el juez instructor dictó auto de procesamiento contra los exconcejales Andrés Llorens y Juan Zaragoza, tres técnicos municipales (Víctor López, Ginés Pérez y Francisco Ramón Casal) y el gerente de Isjoma, Isidro García, considerándolos presuntos responsables de delitos continuados de prevaricación, fraude a la Administración y malversación de caudales públicos. A Zaragoza se le atribuyó además un delito de infidelidad en la custodia de documentos públicos. El juicio tuvo lugar en septiembre de 2022, y el 4 de octubre de 2023, la Audiencia Provincial de Alicante absolvió a todos los acusados al descartar la existencia de irregularidades, rechazando que se hubiera amañado el proceso para que los contratos fueran a parar a Isjoma en los dos procedimientos de licitación.
-
-resumen: "Presuntas irregularidades en contratos de eventos festivos de Alicante que acabaron en absolución"
-coste: 841000
-lugar: "Alicante, Comunidad Valenciana"
+estado: desconocido
+descripcion: 'Investigación sobre los contratos de montaje de escenarios e infraestructuras festivas del Ayuntamiento
+  de Alicante con Isjoma. La Sección Primera de la Audiencia Provincial absolvió el 22 de septiembre de 2023 a los
+  exconcejales del PP Andrés Llorens y Juan Zaragoza, a dos técnicos municipales y al representante de la empresa
+  por los hechos de 2003-2009. Víctor López había fallecido antes del juicio: no fue uno de los absueltos. Una segunda
+  causa por contrataciones posteriores a 2009 fue sobreseída provisionalmente; la Sección Décima confirmó su archivo
+  el 3 de septiembre de 2024 al rechazar el recurso fiscal. No se ha podido acreditar la firmeza de la absolución
+  principal ni el resultado de una eventual casación. Los 841.000 euros atribuidos por la Fiscalía a sobrecostes
+  eran una estimación acusatoria, no un perjuicio declarado en sentencia.'
+resumen: Absolución por los contratos de Isjoma en 2003-2009 y archivo confirmado de una segunda causa; firmeza
+  principal no acreditada.
+lugar: Alicante, Comunidad Valenciana
 tribunal:
-  - "Juzgado de Instrucción de Alicante"
-  - "Audiencia Provincial de Alicante - Sección Primera"
-numeroSentencia: ""
+  - Juzgado de Instrucción n.º 8 de Alicante (causa principal)
+  - Audiencia Provincial de Alicante, Sección Primera
+  - Juzgado de Instrucción n.º 7 de Alicante (segunda causa)
+  - Audiencia Provincial de Alicante, Sección Décima
+numeroSentencia: ''
 implicados:
-  - nombre: "Andrés Llorens"
-    cargo: "Exconcejal de Atención Urbana y teniente de alcalde de Alicante (PP)"
-    rol: "Procesado por prevaricación continuada, fraude a la Administración y malversación; absuelto"
-
-  - nombre: "Juan Zaragoza"
-    cargo: "Exconcejal de Comercio de Alicante (PP)"
-    rol: "Procesado por prevaricación, fraude e infidelidad en custodia de documentos; absuelto"
-
-  - nombre: "Víctor López"
-    cargo: "Jefe del Servicio de Infraestructuras del Ayuntamiento de Alicante"
-    rol: "Procesado por prevaricación, fraude y malversación; absuelto"
-
-  - nombre: "Ginés Pérez"
-    cargo: "Jefe de Talleres del Ayuntamiento de Alicante"
-    rol: "Procesado por prevaricación, fraude y malversación; absuelto"
-
-  - nombre: "Francisco Ramón Casal"
-    cargo: "Técnico municipal del Ayuntamiento de Alicante"
-    rol: "Procesado por prevaricación, fraude y malversación; absuelto"
-
-  - nombre: "Isidro García"
-    cargo: "Gerente de Isjoma SL"
-    rol: "Procesado por prevaricación, fraude y malversación; absuelto"
-
-  - nombre: "José Antonio Alavés"
-    cargo: "Empresario, propietario de Montajes Alavés"
-    rol: "Denunciante del caso; competidor de Isjoma en las licitaciones"
-
-  - nombre: "Sonia Castedo"
-    cargo: "Alcaldesa de Alicante (PP, 2008-2014)"
-    rol: "Testigo; bajo su mandato ocurrieron parte de las adjudicaciones investigadas"
-
+  - nombre: Andrés Llorens Fuster
+    cargo: Exconcejal de Atención Urbana y exvicealcalde de Alicante (PP)
+    rol: Absuelto en la causa principal de 2023; investigado en la segunda causa cuyo archivo fue confirmado en
+      2024.
+  - nombre: Juan Zaragoza Mas
+    cargo: Exconcejal de Hacienda y Comercio de Alicante (PP)
+    rol: Absuelto en 2023; se descartó también la revelación de secretos que se le atribuía.
+  - nombre: Víctor López
+    cargo: Jefe del área de Atención Urbana del Ayuntamiento de Alicante
+    rol: Encausado inicialmente; falleció antes del juicio de 2022 y no fue juzgado ni absuelto en él.
+  - nombre: Ginés Pérez
+    cargo: Jefe de Talleres del Ayuntamiento de Alicante
+    rol: Acusado y juzgado en 2022; uno de los dos técnicos municipales absueltos en 2023.
+  - nombre: Isidro García Gómez
+    cargo: Administrador y representante de Isjoma SL
+    rol: Juzgado y absuelto en 2023; la prensa de enero de 2024 comunicó su fallecimiento. El BORME identifica su
+      nombre completo como administrador y liquidador.
+  - nombre: José Antonio Alavés
+    cargo: Administrador de Montajes Alavés, competidora de Isjoma
+    rol: Denunciante y testigo; su empresa ejerció la acusación particular.
+  - nombre: Sonia Castedo
+    cargo: Exalcaldesa de Alicante (PP)
+    rol: Declaró como testigo en el juicio; no figuró entre los acusados de esta causa.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "fraude a la administración"
-  - "malversación"
-  - "contratos públicos"
-  - "absolución"
-
-impactoSocial: "El Caso Isjoma forma parte de la serie de investigaciones por corrupción que afectaron al Ayuntamiento de Alicante durante los gobiernos del PP, particularmente durante los mandatos de Luis Díaz Alperi y Sonia Castedo. Aunque todos los acusados fueron finalmente absueltos, el caso evidenció la necesidad de mayor transparencia en la contratación pública municipal."
-
+  - contratos públicos
+  - prevaricación
+  - fraude a la administración
+  - absolución
+  - archivo
+impactoSocial: El procedimiento examinó el control municipal de los contratos para actividades festivas y culturales.
+  La absolución penal debe distinguirse de la anulación contencioso-administrativa de la adjudicación de 2009 obtenida
+  por la empresa competidora.
 documentos: []
-
 cronologia:
-  - fecha: 2003-01-01
-    titulo: "Primer contrato adjudicado a Isjoma SL"
-    descripcion: "La empresa Isjoma SL recibe su primera adjudicación de contrato para el montaje de infraestructuras de actividades festivas y culturales del Ayuntamiento de Alicante por un importe cercano a 2,4 millones de euros. Este contrato marca el inicio de la relación comercial entre la empresa y el Ayuntamiento que posteriormente sería investigada."
-    type: "investigación"
+  - fecha: '2022-09-19'
+    titulo: Comienza el juicio de la causa principal
+    descripcion: Comparecen los dos exconcejales, dos técnicos municipales y el representante de Isjoma. Víctor
+      López había fallecido. La Fiscalía atribuye 841.000 euros a pagos presuntamente indebidos; es la tesis acusatoria,
+      no daño probado.
+    type: juicio
+    relevancia: alta
     urls:
-      - "https://www.diarioinformacion.com/alicante/2018/03/22/juez-caso-isjoma-dibuja-escenario/2001219.html"
-
-  - fecha: 2009-02-01
-    titulo: "Isjoma gana nueva licitación por 4,6 millones de euros"
-    descripcion: "Isjoma SL gana la licitación para el montaje de infraestructuras de eventos festivos y culturales por un periodo de seis años, por un importe cercano a 4,6 millones de euros. Esta adjudicación desencadenará la denuncia que dará inicio a la investigación judicial."
-    type: "investigación"
+      - https://www.elespanol.com/alicante/20220919/fiscalia-estima-euros-sobrecostes-empresa-isjoma-alicante/704429962_0.html
+  - fecha: '2022-09-20'
+    titulo: Declaran los exconcejales y los testigos
+    descripcion: Llorens y Zaragoza defienden que siguieron los informes técnicos. José Antonio Alavés y Sonia Castedo
+      declaran como testigos.
+    type: juicio
+    relevancia: alta
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Isjoma&numero=430"
-
-  - fecha: 2009-03-01
-    titulo: "José Antonio Alavés presenta denuncia ante la Fiscalía"
-    descripcion: "El empresario José Antonio Alavés, propietario de Montajes Alavés y competidor de Isjoma en las licitaciones, presenta una denuncia ante la Fiscalía para esclarecer presuntas irregularidades en la adjudicación del contrato. Alavés denuncia que el exconcejal Juan Zaragoza le convocó a una reunión en su despacho del Ayuntamiento y le informó de que la oferta ganadora de Isjoma había sido redactada por dos técnicos municipales, lo que constituiría un amaño del proceso de licitación."
-    type: "investigación"
+      - https://www.elespanol.com/alicante/alicante-ciudad/20220920/exediles-pp-alicante-descargan-tecnicos-responsabilidad-isjoma/704679981_0.html
+  - fecha: '2023-09-22'
+    titulo: Sentencia absolutoria de la causa principal
+    descripcion: 'La Sección Primera absuelve a los cinco acusados vivos: no considera probado el amaño ni el fraccionamiento
+      delictivo de contratos. También descarta la revelación de secretos atribuida a Zaragoza. La resolución, difundida
+      en octubre, era recurrible en casación.'
+    type: sentencia
+    relevancia: alta
     urls:
-      - "https://alicanteplaza.es/el-empresario-caso-isjoma-zaragoza-le-aviso-del-amano-del-contrato"
-
-  - fecha: 2010-10-02
-    titulo: "Zaragoza declara ante el juez y denuncia una trampa"
-    descripcion: "El exconcejal Juan Zaragoza comparece ante el juez instructor del caso Isjoma y declara que le tendieron una trampa mientras le grababan. Zaragoza niega las acusaciones y alega que la denuncia de Alavés es fruto de manipulaciones y grabaciones encubiertas destinadas a perjudicarle."
-    type: "declaración"
+      - https://alicanteplaza.es/audiencia-descarta-anomalias-caso-isjoma-absoluciones
+      - https://www.elespanol.com/alicante/alicante-ciudad/20231004/absuelven-exconcejales-pp-andres-llorens-juan-zaragoza-prevaricar-etapa-castedo/799420370_0.html
+  - fecha: '2024-01-08'
+    titulo: Se conoce el sobreseimiento provisional de la segunda causa
+    descripcion: Alicante Plaza informa de un auto del Juzgado de Instrucción n.º 7 dictado a finales de diciembre
+      de 2023, sin precisar el día. Afecta a contrataciones posteriores a 2009. La noticia también señala que no
+      había trascendido si se había anunciado la casación de la absolución principal.
+    type: recurso
+    relevancia: alta
     urls:
-      - "https://www.diarioinformacion.com/alicante/2010/10/02/zaragoza-dice-juez-caso-isjoma-le-tendieron-trampa-le-grababan/1050038.html"
-
-  - fecha: 2016-04-21
-    titulo: "Imputación de Andrés Llorens y Juan Zaragoza"
-    descripcion: "El magistrado que investiga las presuntas irregularidades en la adjudicación de contratos de infraestructuras de eventos festivos cita como investigados (anteriormente denominados 'imputados') a los exconcejales Andrés Llorens y Juan Zaragoza por delitos de prevaricación y fraude a la Administración. Llorens era presidente de la mesa de contratación y Zaragoza vicepresidente durante el periodo investigado."
-    type: "imputación"
+      - https://alicanteplaza.es/alicanteplaza/la-jueza-sobresee-otra-causa-por-pagos-de-alicante-a-isjoma-y-libra-al-exedil-llorens-de-nuevo-juicio
+  - fecha: '2024-09-03'
+    titulo: La Audiencia confirma el archivo de la segunda causa
+    descripcion: 'La Sección Décima desestima el recurso fiscal contra el sobreseimiento. La resolución se conoce
+      por la noticia del 19 de septiembre: considera que no se aportan elementos nuevos respecto a la operativa
+      examinada en la primera causa. Los 385.625,52 euros investigados son importe de contratos, no daño acreditado.'
+    type: recurso
+    relevancia: alta
     urls:
-      - "https://www.diarioinformacion.com/alicante/2016/04/21/juez-imputa-exconcejales-pp-llorens/1752250.html"
-
-  - fecha: 2018-03-22
-    titulo: "Auto de procesamiento: seis acusados para juicio"
-    descripcion: "El juez Ángel Manuel Villanueva dicta auto de procesamiento contra seis personas: los exconcejales Andrés Llorens y Juan Zaragoza, los técnicos municipales Víctor López (jefe del Servicio de Infraestructuras), Ginés Pérez (jefe de Talleres) y Francisco Ramón Casal, y el gerente de Isjoma, Isidro García. El juez dibuja un escenario de corrupción en el área de Atención Urbana y les considera presuntos responsables de delitos continuados de prevaricación, fraude a la Administración y malversación de caudales públicos. La Fiscalía estima los sobrecostes en 841.000 euros que Isjoma cobró de Alicante en 2008 y 2009."
-    type: "procesamiento"
-    urls:
-      - "https://www.diarioinformacion.com/alicante/2018/03/22/juez-caso-isjoma-dibuja-escenario/2001219.html"
-      - "https://www.elespanol.com/alicante/20220919/fiscalia-estima-euros-sobrecostes-empresa-isjoma-alicante/704429962_0.html"
-
-  - fecha: 2022-09-19
-    titulo: "Comienza el juicio en la Audiencia Provincial de Alicante"
-    descripcion: "Arranca el juicio del caso Isjoma en la Audiencia Provincial de Alicante con los exconcejales del PP Andrés Llorens y Juan Zaragoza en el banquillo, junto a tres técnicos municipales y el gerente de Isjoma. El juicio está programado en ocho sesiones. La Fiscalía solicita tres años de prisión para Llorens por prevaricación administrativa continuada en concurso con fraude, y para Zaragoza una condena de un año de prisión por revelación de secretos."
-    type: "juicio"
-    urls:
-      - "https://alicanteplaza.es/elcasoisjomallegaajuiciocondosexedilesdelppdealicante"
-      - "https://www.elespanol.com/alicante/alicante-ciudad/20220920/exediles-pp-alicante-descargan-tecnicos-responsabilidad-isjoma/704679981_0.html"
-
-  - fecha: 2022-09-20
-    titulo: "Los exediles descargan responsabilidad en los técnicos"
-    descripcion: "Durante la segunda jornada del juicio, los exconcejales del PP Andrés Llorens y Juan Zaragoza se defienden descargando la responsabilidad en los técnicos municipales. Argumentan que ellos no tenían conocimientos técnicos suficientes para detectar irregularidades y que confiaban plenamente en los informes y decisiones de los funcionarios especializados del área de Atención Urbana."
-    type: "declaración"
-    urls:
-      - "https://www.elespanol.com/alicante/alicante-ciudad/20220920/exediles-pp-alicante-descargan-tecnicos-responsabilidad-isjoma/704679981_0.html"
-
-  - fecha: 2023-10-04
-    titulo: "Absolución de todos los acusados por la Audiencia Provincial"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Alicante absuelve a los exconcejales del PP Andrés Llorens y Juan Zaragoza, junto a los tres técnicos municipales y el gerente de Isjoma, de un delito continuado de prevaricación administrativa. La sentencia, fechada el 22 de septiembre pero hecha pública en octubre, descarta la existencia de irregularidades y rechaza que se hubiera amañado el proceso para que los contratos fueran a parar a Isjoma en los dos procedimientos de licitación de 2003 y 2009. El tribunal no considera probadas las irregularidades señaladas por la Fiscalía Anticorrupción y la acusación particular, concluyendo que las licitaciones no estaban amañadas a favor de Isjoma. La sentencia es recurrible ante el Tribunal Supremo."
-    type: "sentencia"
-    urls:
-      - "https://alicanteplaza.es/audiencia-descarta-anomalias-caso-isjoma-absoluciones"
-      - "https://www.elespanol.com/alicante/alicante-ciudad/20231004/absuelven-exconcejales-pp-andres-llorens-juan-zaragoza-prevaricar-etapa-castedo/799420370_0.html"
-      - "https://www.todoalicante.es/alicante-ciudad/audiencia-absuelve-exediles-pp-caso-isjoma-20231004153709-nt.html"
+      - https://alicanteplaza.es/alicanteplaza/la-audiencia-ratifica-el-cierre-del-segundo-caso-isjoma-y-exonera-al-exvicealcalde-de-alicante
 ---
+
+La causa principal revisó la contratación de infraestructuras festivas y culturales en 2003 y 2009 y los encargos menores relacionados. Montajes Alavés, competidora de Isjoma, denunció el procedimiento y ejerció la acusación particular. El juicio comenzó en septiembre de 2022 ante la Sección Primera de la Audiencia Provincial de Alicante.
+
+La sentencia de 22 de septiembre de 2023 absolvió a cinco personas: dos exconcejales, dos técnicos municipales y el representante de Isjoma. El jefe de Atención Urbana, Víctor López, había fallecido antes del juicio. El tribunal no consideró acreditada la manipulación de las licitaciones ni el fraccionamiento delictivo de los encargos. La anulación administrativa de la adjudicación de 2009 obtenida por Montajes Alavés no equivalía a demostrar prevaricación penal. La identificación completa del segundo técnico absuelto no ha podido corroborarse con las fuentes consultadas.
+
+Una segunda investigación examinó pagos posteriores a 2009. El Juzgado de Instrucción n.º 7 acordó su sobreseimiento provisional a finales de diciembre de 2023; el día exacto no consta en la información consultada. La Sección Décima de la Audiencia rechazó el recurso de la Fiscalía mediante auto de 3 de septiembre de 2024. Las noticias describen el periodo de esta segunda causa como 2009-2014 y 2009-2015; sin el auto original no puede precisarse ese límite.
+
+No consta acreditada aquí la firmeza de la sentencia absolutoria principal ni la tramitación y resultado de una eventual casación. Tampoco se dispone de los originales de la sentencia y de los autos de archivo para verificar sus identificadores y su alcance íntegro. La ausencia de novedades verificadas en 2025-2026 no permite deducir firmeza.
+
+Los 841.000 euros mencionados en el juicio corresponden a la estimación de la acusación. Los 385.625,52 euros de la segunda investigación son el importe agregado de contratos cuestionados. Ninguna cifra se incorpora como coste de corrupción o perjuicio judicialmente declarado.
+
+Fuentes: [sentencia principal, Alicante Plaza](https://alicanteplaza.es/audiencia-descarta-anomalias-caso-isjoma-absoluciones), [crónica de EFE](https://www.elespanol.com/alicante/alicante-ciudad/20231004/absuelven-exconcejales-pp-andres-llorens-juan-zaragoza-prevaricar-etapa-castedo/799420370_0.html), [segunda causa y casación](https://alicanteplaza.es/alicanteplaza/la-jueza-sobresee-otra-causa-por-pagos-de-alicante-a-isjoma-y-libra-al-exedil-llorens-de-nuevo-juicio), [confirmación del archivo](https://alicanteplaza.es/alicanteplaza/la-audiencia-ratifica-el-cierre-del-segundo-caso-isjoma-y-exonera-al-exvicealcalde-de-alicante) y [BORME, identidad del administrador](https://www.boe.es/diario_borme/txt.php?id=BORME-A-2018-62-03&lang=es).
