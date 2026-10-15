@@ -1,138 +1,170 @@
 ---
-nombre: "Caso Cerrú"
+nombre: Caso Cerrú
 partido: PSOE
-completado: true
+completado: false
 año: 2018
-fechaInicio: "2007-10-25"
-fechaFin: "2026-06-03"
-estado: "cerrado con condenas - pendiente de recurso"
-descripcion: |
-  El Caso Cerrú tiene su origen en las irregularidades cometidas durante la construcción del nuevo estadio de fútbol municipal de Puertollano (Ciudad Real, Castilla-La Mancha), conocido popularmente como el "Cerrú". Entre 2007 y 2010, el Ayuntamiento de Puertollano, gobernado por el alcalde socialista Joaquín Carlos Hermoso Murillo, diseñó una operación urbanística para edificar el estadio "sin poner un duro" de las arcas públicas mediante un contrato de permuta de terrenos con las empresas constructoras Teconsa y Promociones Inmobiliarias del Pisuerga (PROINSA). El 25 de octubre de 2007, el Pleno del Ayuntamiento aprobó el contrato con los 15 votos del PSOE y la abstención de PP e IU, sin mediar concurso público ni los procedimientos de publicidad y concurrencia exigidos por la normativa de contratación administrativa.
+fechaInicio: '2007-10-16'
+estado: condena no firme
+descripcion: 'El Caso Cerrú se refiere a la contratación de la construcción del estadio municipal de Puertollano
+  mediante una permuta de terrenos con Promociones Inmobiliarias del Pisuerga (Proinsa), vinculada a Teconsa. Según
+  el escrito fiscal descrito por Europa Press y la información sobre la sentencia, el alcalde socialista Joaquín
+  Carlos Hermoso Murillo suscribió el acuerdo el 16 de octubre de 2007, antes de la aprobación plenaria del 25 de
+  octubre, sin concurso público ni el procedimiento exigible. Proinsa se comprometía a construir el campo a cambio
+  de parcelas municipales en El Abulagar. El estadio se inauguró en 2010 tras la paralización de las obras y su
+  posterior terminación con financiación del Plan E. Los aproximadamente siete millones de euros de valor de construcción
+  y las valoraciones del suelo son magnitudes de la operación, no un perjuicio penal cuantificado; no se ha acreditado
+  un daño global en esta revisión.
 
-  La operación consistía en ceder parcelas de aprovechamiento urbanístico en El Abulagar a las constructoras a cambio de que éstas asumieran la edificación del estadio, valorado en unos siete millones de euros. El estallido de la burbuja inmobiliaria en 2008 y las quiebras de Teconsa y PROINSA paralizaron parcialmente el proyecto y dejaron importantes deudas impagadas, aunque el estadio fue finalmente inaugurado en 2010 con ayuda de fondos del Plan E estatal. En 2013, la Sindicatura de Cuentas de Castilla-La Mancha publicó un informe que detectó severas irregularidades en las contrataciones del período de expansión urbanística, sentando las bases para la posterior investigación penal.
 
-  El 11 de julio de 2018, agentes de la UDEF de la Policía Nacional ejecutaron la "Operación Cerrú" con el registro de la Casa Consistorial durante más de doce horas, 19 registros en varias ciudades y 9 detenciones, entre ellas la del exalcalde Hermoso Murillo. Inicialmente se investigó a cerca de 20 personas por delitos de tráfico de influencias, cohecho, malversación, blanqueo de capitales y falsedad documental. Sin embargo, la Fiscalía Provincial de Ciudad Real desmontó en junio de 2023 la tesis de la "trama delictiva", solicitando el sobreseimiento para 15 de los investigados y reduciendo la acusación a un único delito de prevaricación administrativa contra el exalcalde y el exsecretario municipal accidental. El 5 de julio de 2024, el Juzgado de Instrucción nº 3 de Puertollano dictó auto de apertura de juicio oral únicamente para estos dos acusados, con la solicitud de 9 años de inhabilitación para cada uno. El juicio se celebró a comienzos de 2026 y el 3 de junio el Juzgado de lo Penal nº 3 de Ciudad Real condenó a ambos a cinco años de inhabilitación especial por prevaricación administrativa, con la atenuante de dilaciones indebidas; la sentencia no es firme y es recurrible ante la Audiencia Provincial. Es la segunda condena por prevaricación de Hermoso Murillo, ya condenado a siete años de inhabilitación por la plaza de toros.
+  La operación policial del 11 de julio de 2018 incluyó detenciones y registros, pero su amplitud inicial no equivale
+  al resultado judicial. En su escrito de 13 de junio de 2023, la Fiscalía solicitó el sobreseimiento provisional
+  para quince investigados y acusó únicamente al exalcalde y al secretario municipal accidental Juan Luis Vázquez
+  Calvo de prevaricación administrativa. La noticia del 5 de julio de 2024 sobre la apertura de juicio oral describe
+  el sobreseimiento provisional de catorce personas, mientras otra información local habla de quince. Sin los autos
+  originales no se resuelve la diferencia ni se verifica nominalmente cada archivo; la petición fiscal tampoco es
+  por sí sola una resolución judicial ni una absolución.
 
-resumen: "Irregularidades en la construcción del estadio municipal de Puertollano por adjudicación directa sin concurso público"
-coste: 0
-lugar: "Puertollano, Castilla-La Mancha"
+
+  El juicio se celebró el 5 de febrero de 2026 ante el órgano penal de Ciudad Real, no ante la Audiencia Provincial.
+  Los acusados defendieron la legalidad de la operación y la Fiscalía redujo su petición de nueve a seis años de
+  inhabilitación por las dilaciones. El 3 de junio de 2026 se conoció la condena de ambos a cinco años de inhabilitación
+  especial para empleo o cargo público por prevaricación: Hermoso Murillo como autor y Vázquez Calvo como cooperador
+  necesario. Esa es la fecha de publicación de las noticias, no una fecha del fallo verificada en el original. Según
+  la información publicada, la sentencia no era firme y admitía apelación ante la Audiencia Provincial de Ciudad
+  Real. No se ha verificado la interposición o resolución de recursos ni la firmeza individual actual. Tampoco se
+  dispone del texto original para precisar el alcance de la inhabilitación, las costas o todos los pronunciamientos.
+  Las condenas relativas a la plaza de toros son otro procedimiento y no acreditan firmeza en Cerrú.'
+resumen: Condena conocida en junio de 2026 al exalcalde de Puertollano y al exsecretario municipal por adjudicar
+  sin concurso la construcción del estadio mediante una permuta. Cinco años de inhabilitación para cada uno; no
+  se ha acreditado la firmeza actual.
+lugar: Puertollano, Castilla-La Mancha
 tribunal:
-  - "Juzgado de Primera Instancia e Instrucción nº 3 de Puertollano - Diligencias Previas 334/2017"
-  - "Audiencia Provincial de Ciudad Real - Fase de recursos"
-  - "Juzgado de lo Penal de Ciudad Real - Juicio oral"
-numeroSentencia: ""
+- Juzgado de Primera Instancia e Instrucción nº 3 de Puertollano (instrucción)
+- Sección de lo Penal del Tribunal de Instancia de Ciudad Real, plaza nº 3 (juicio; identificada también en prensa
+  como Juzgado de lo Penal nº 3)
 implicados:
-  - nombre: "Joaquín Carlos Hermoso Murillo"
-    cargo: "Alcalde de Puertollano (PSOE, 2004-2013)"
-    rol: "Acusado de prevaricación por adjudicación directa sin concurso público"
-
-  - nombre: "Juan Luis Vázquez Calvo"
-    cargo: "Secretario Municipal Accidental del Ayuntamiento de Puertollano"
-    rol: "Acusado de prevaricación por omisión de informe sobre ilegalidad del contrato"
-
-  - nombre: "Eugenio Ángel Manso"
-    cargo: "Arquitecto Técnico y Aparejador Municipal del Ayuntamiento de Puertollano"
-    rol: "Investigado, sobreseído provisionalmente en julio de 2024"
-
-  - nombre: "Antonio Rodríguez"
-    cargo: "Primer Teniente de Alcalde durante el mandato de Hermoso Murillo"
-    rol: "Investigado, sobreseído provisionalmente tras instrucción"
-
-  - nombre: "Luis Pizarro"
-    cargo: "Concejal de Urbanismo y Obras del Ayuntamiento de Puertollano"
-    rol: "Investigado, sobreseído provisionalmente tras instrucción"
-
+- nombre: Joaquín Carlos Hermoso Murillo
+  cargo: Alcalde socialista de Puertollano en la época del contrato de 2007 (mandato concluido en 2013)
+  rol: Condenado como autor de prevaricación administrativa a cinco años de inhabilitación especial para empleo
+    o cargo público, según las noticias del 3 de junio de 2026. Sentencia publicada como no firme; no se ha comprobado
+    su firmeza individual posterior.
+- nombre: Juan Luis Vázquez Calvo
+  cargo: Secretario municipal accidental del Ayuntamiento de Puertollano en la época de los hechos
+  rol: Condenado como cooperador necesario de prevaricación administrativa a cinco años de inhabilitación especial
+    para empleo o cargo público, según la información del 3 de junio de 2026. No se ha acreditado la firmeza individual
+    actual.
+- nombre: Eugenio Ángel Manso
+  cargo: Arquitecto técnico y aparejador municipal en la época investigada
+  rol: Incluido en las investigaciones iniciales según la información de la época; no fue uno de los dos acusados
+    juzgados en febrero de 2026. La prensa de 2024 describe el sobreseimiento provisional del resto de investigados,
+    pero falta el auto original para verificar nominalmente su situación y la evolución posterior. No consta condena
+    en el juicio Cerrú de 2026.
+- nombre: Antonio Rodríguez
+  cargo: Primer teniente de alcalde durante el mandato de Hermoso Murillo
+  rol: Incluido en las investigaciones iniciales según la información de la época; no fue uno de los dos acusados
+    juzgados en febrero de 2026. La prensa de 2024 describe el sobreseimiento provisional del resto de investigados,
+    pero falta el auto original para verificar nominalmente su situación y la evolución posterior. No consta condena
+    en el juicio Cerrú de 2026.
+- nombre: Luis Pizarro
+  cargo: Concejal municipal en la época investigada (identificado en la prensa como Luis Pizarro)
+  rol: Incluido en las investigaciones iniciales según la información de la época; no fue uno de los dos acusados
+    juzgados en febrero de 2026. La prensa de 2024 describe el sobreseimiento provisional del resto de investigados,
+    pero falta el auto original para verificar nominalmente su situación y la evolución posterior. No consta condena
+    en el juicio Cerrú de 2026.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "contratación irregular"
-  - "urbanismo"
-
-impactoSocial: "La espectacular operación policial con 9 detenidos en 2018 sacudió la vida política de Puertollano, generando protestas ciudadanas y un profundo desgaste para el PSOE local que gobernaba la ciudad; el caso evidenció los excesos del desarrollismo urbanístico municipal durante el boom inmobiliario."
-
-documentos: null
-
+- corrupción
+- prevaricación
+- contratación irregular
+- urbanismo
+impactoSocial: La operación policial de 2018 tuvo amplia repercusión local por los registros del Ayuntamiento y
+  las detenciones. El procedimiento penal quedó finalmente centrado en dos acusados por prevaricación, frente a
+  las sospechas iniciales de delitos más amplios. La condena conocida en 2026 se refiere a la omisión del procedimiento
+  de contratación pública; no prueba que todas las personas inicialmente investigadas integrasen una trama.
+documentos: []
 cronologia:
-  - fecha: "2007-10-25"
-    titulo: "Aprobación del contrato de permuta de terrenos en el Pleno"
-    descripcion: "El Pleno del Ayuntamiento de Puertollano aprueba el contrato de permuta de terrenos con PROINSA para la construcción del nuevo estadio 'Cerrú', con 15 votos a favor del PSOE y la abstención de PP e IU. La operación se aprueba sin concurso público ni los mecanismos de publicidad y concurrencia exigidos por la normativa de contratación administrativa, hecho que constituirá el núcleo de la posterior acusación por prevaricación."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://www.europapress.es/nacional/noticia-fiscalia-desmonta-tesis-trama-delictiva-ayuntamiento-puertollano-exonera-15-investigados-20231003151231.html"
-
-  - fecha: "2010-01-01"
-    titulo: "Inauguración del estadio Ciudad de Puertollano"
-    descripcion: "El estadio 'Ciudad de Puertollano' (Nuevo Cerrú) es inaugurado con una capacidad superior a los 7.000 espectadores. Su construcción requirió inyecciones de fondos del Plan E estatal, debido a las quiebras de las empresas constructoras originales Teconsa y PROINSA, cuya caída fue consecuencia directa del estallido de la burbuja inmobiliaria en 2008."
-    type: "resumen"
-    relevancia: "media"
-    urls:
-      - "https://www.miciudadreal.es/2018/07/12/las-claves-de-la-operacion-cerru-en-puertollano-la-tempestuosa-historia-de-un-santuario-del-futbol/"
-
-  - fecha: "2013-01-01"
-    titulo: "Informe de la Sindicatura de Cuentas detecta irregularidades"
-    descripcion: "La Sindicatura de Cuentas de Castilla-La Mancha publica un informe que detecta severas irregularidades e incumplimientos normativos graves en las principales obras ejecutadas por el Ayuntamiento de Puertollano durante el boom urbanístico (2008-2010), incluyendo las contrataciones asociadas al estadio Cerrú. Este informe sienta las bases para la posterior denuncia e investigación judicial. Ese mismo año, el alcalde Joaquín Hermoso Murillo dimite y abandona su militancia en el PSOE."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.miciudadreal.es/2018/07/12/las-claves-de-la-operacion-cerru-en-puertollano-la-tempestuosa-historia-de-un-santuario-del-futbol/"
-
-  - fecha: "2018-07-11"
-    titulo: "Operación Cerrú: 9 detenidos y registro del Ayuntamiento"
-    descripcion: "Agentes de la UDEF de la Policía Nacional irrumpen en la Casa Consistorial de Puertollano a las 8:00 horas. La operación se prolonga más de doce horas, con 19 registros en domicilios, despachos y empresas en Ciudad Real, Madrid y Granada. Se salda con 9 detenidos, entre ellos el exalcalde Joaquín Hermoso Murillo, y 17 personas investigadas inicialmente por tráfico de influencias, cohecho, malversación, blanqueo de capitales y falsedad documental."
-    type: "detención"
-    relevancia: "alta"
-    urls:
-      - "https://www.rtve.es/noticias/20180711/detenido-excalde-del-psoe-puertollano-joaquin-hermoso-otras-ocho-personas-por-irregularidades-obras-del-campo-futbol/1762885.shtml"
-      - "https://www.miciudadreal.es/2024/07/11/seis-anos-de-la-operacion-cerru-en-puertollano-el-historico-drama-procesal-y-personal-con-final-descafeinado/"
-
-  - fecha: "2018-07-16"
-    titulo: "Protestas ciudadanas frente al Ayuntamiento"
-    descripcion: "Unos 200 ciudadanos se concentran frente al Ayuntamiento de Puertollano convocados por la plataforma 'Por el futuro de Puertollano' para exigir responsabilidades políticas y la dimisión de la entonces alcaldesa Mayte Fernández (PSOE), en el cargo en el momento de las detenciones. La protesta refleja el impacto social y político de la operación policial en la ciudad."
-    type: "resumen"
-    relevancia: "media"
-    urls:
-      - "https://www.publico.es/politica/puertollano-ciudadanos-piden-dimision-alcaldesa-caso-cerru.html"
-
-  - fecha: "2023-03-21"
-    titulo: "Auto judicial imputa a 18 personas y habla de 'auténtica trama'"
-    descripcion: "La titular del Juzgado de Instrucción nº 3 de Puertollano dicta auto de transformación a Procedimiento Abreviado imputando a 18 personas, sosteniendo la existencia de una 'auténtica trama u organización' dedicada a contrataciones irregulares. El auto abre una pieza separada por malversación y blanqueo de capitales, con un catálogo extenso de delitos graves."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "https://www.lanzadigital.com/provincia/puertollano/el-juzgado-acuerda-la-apertura-de-juicio-oral-para-el-exalcalde-y-exsecretario-en-el-caso-cerru/"
-
-  - fecha: "2023-06-13"
-    titulo: "La Fiscalía desmonta la tesis de la trama y exonera a 15 investigados"
-    descripcion: "El fiscal jefe provincial de Ciudad Real emite el escrito de acusación que desmonta la tesis de la 'trama delictiva'. El Ministerio Fiscal solicita el sobreseimiento provisional de 15 de los 17 investigados por falta de indicios suficientes, y reduce la acusación a un único delito de prevaricación administrativa contra el exalcalde Hermoso Murillo y el exsecretario Vázquez Calvo, con penas de 9 años de inhabilitación para cada uno."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.europapress.es/nacional/noticia-fiscalia-desmonta-tesis-trama-delictiva-ayuntamiento-puertollano-exonera-15-investigados-20231003151231.html"
-
-  - fecha: "2024-07-05"
-    titulo: "Auto de apertura de juicio oral contra el exalcalde y exsecretario"
-    descripcion: "El Juzgado de Instrucción nº 3 de Puertollano dicta auto de apertura de juicio oral exclusivamente contra Joaquín Carlos Hermoso Murillo y Juan Luis Vázquez Calvo por prevaricación administrativa. Simultáneamente, oficializa el sobreseimiento provisional para los otros 14 imputados. La causa queda remitida al Juzgado de lo Penal de Ciudad Real a la espera de señalamiento para el juicio oral."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.lanzadigital.com/provincia/puertollano/el-juzgado-acuerda-la-apertura-de-juicio-oral-para-el-exalcalde-y-exsecretario-en-el-caso-cerru/"
-      - "https://www.miciudadreal.es/2024/07/11/seis-anos-de-la-operacion-cerru-en-puertollano-el-historico-drama-procesal-y-personal-con-final-descafeinado/"
-
-  - fecha: "2026-02-01"
-    titulo: "Celebración del juicio oral en la Audiencia Provincial de Ciudad Real"
-    descripcion: "El exalcalde Joaquín Hermoso Murillo y el exsecretario municipal Juan Luis Vázquez se sientan en el banquillo de la Audiencia Provincial de Ciudad Real, acusados de prevaricación administrativa por el contrato de permuta del estadio Cerrú sin concurso público. La Fiscalía reduce su petición de 9 a 6 años de inhabilitación para ambos acusados por las dilaciones indebidas del procedimiento (19 años desde los hechos). Hermoso Murillo defiende la legalidad del contrato. El juicio queda visto para sentencia."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/castilla-la-mancha/provincias/ciudad_real/exalcalde-puertollano-sienta-banquillo-defiende-legalidad-contrato-cerru_1_12966363.html"
-      - "https://torrijostoday.com/castilla-la-mancha/ciudad-real/exalcalde-puertollano-defiende-legalidad-del-contrato-del-cerru-y-fiscalia-mantiene-acusacion-por-prevaricacion/"
-
-  - fecha: "2026-06-03"
-    titulo: "Condena por prevaricación: cinco años de inhabilitación para Hermoso y Vázquez"
-    descripcion: "El Juzgado de lo Penal nº 3 de Ciudad Real condena al exalcalde de Puertollano Joaquín Hermoso Murillo y al secretario municipal accidental Juan Luis Vázquez Calvo a cinco años de inhabilitación especial para empleo o cargo público por un delito de prevaricación administrativa en las obras del estadio Cerrú. La pena es inferior a los seis años que pedía la Fiscalía por apreciar la atenuante de dilaciones indebidas, al haberse prolongado el procedimiento cerca de nueve años. La sentencia no es firme y puede recurrirse ante la Audiencia Provincial de Ciudad Real."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.lacomarcadepuertollano.com/articulo/puertollano/segunda-condena-hermoso-murillo-exalcalde-puertollano-vez-caso-cerru/20260603094510639356.html"
+- fecha: '2007-10-16'
+  titulo: Firma de la permuta con Proinsa
+  descripcion: Según el escrito fiscal reproducido por Europa Press, Hermoso Murillo firma el contrato antes de
+    su aprobación plenaria. La información sobre la sentencia de 2026 recoge esa misma secuencia. Es la contratación
+    examinada penalmente, no la fecha de inicio de la investigación.
+  type: resumen
+  relevancia: alta
+  urls:
+  - https://www.europapress.es/nacional/noticia-fiscalia-desmonta-tesis-trama-delictiva-ayuntamiento-puertollano-exonera-15-investigados-20231003151231.html
+- fecha: '2007-10-25'
+  titulo: Aprobación del contrato de permuta de terrenos en el Pleno
+  descripcion: El Pleno del Ayuntamiento de Puertollano aprueba el contrato de permuta de terrenos con PROINSA para
+    la construcción del nuevo estadio 'Cerrú', con 15 votos a favor del PSOE y la abstención de PP e IU. La operación
+    se aprueba sin concurso público ni los mecanismos de publicidad y concurrencia exigidos por la normativa de
+    contratación administrativa, hecho que constituirá el núcleo de la posterior acusación por prevaricación.
+  type: resumen
+  relevancia: alta
+  urls:
+  - https://www.europapress.es/nacional/noticia-fiscalia-desmonta-tesis-trama-delictiva-ayuntamiento-puertollano-exonera-15-investigados-20231003151231.html
+- fecha: '2018-07-11'
+  titulo: 'Operación Cerrú: 9 detenidos y registro del Ayuntamiento'
+  descripcion: La UDEF registra el Ayuntamiento en la operación sobre la contratación del estadio. Las crónicas
+    describen nueve detenidos y una investigación inicialmente más amplia que la acusación que llegó a juicio. No
+    se equiparan esas sospechas a hechos probados ni a condenas.
+  type: detención
+  relevancia: alta
+  urls:
+  - https://www.miciudadreal.es/2024/07/11/seis-anos-de-la-operacion-cerru-en-puertollano-el-historico-drama-procesal-y-personal-con-final-descafeinado/
+- fecha: '2023-03-21'
+  titulo: Auto de continuación de las diligencias descrito por la prensa
+  descripcion: Europa Press identifica un auto de 21 de marzo de 2023 que sostenía una posible trama de contrataciones.
+    No se ha consultado ese auto original; las sospechas de esa fase no equivalen al resultado del juicio de 2026.
+  type: imputación
+  relevancia: alta
+  urls:
+  - https://www.europapress.es/nacional/noticia-fiscalia-desmonta-tesis-trama-delictiva-ayuntamiento-puertollano-exonera-15-investigados-20231003151231.html
+- fecha: '2023-06-13'
+  titulo: La Fiscalía acusa a dos personas y pide otros archivos
+  descripcion: El escrito fiscal fechado el 13 de junio, conocido por Europa Press el 3 de octubre de 2023, solicita
+    nueve años de inhabilitación para alcalde y secretario por prevaricación y sobreseimiento provisional para otros
+    quince investigados. Es una petición del Ministerio Fiscal, no una sentencia ni un auto de archivo.
+  type: investigación
+  relevancia: alta
+  urls:
+  - https://www.europapress.es/nacional/noticia-fiscalia-desmonta-tesis-trama-delictiva-ayuntamiento-puertollano-exonera-15-investigados-20231003151231.html
+- fecha: '2024-07-05'
+  titulo: Se conoce la apertura de juicio oral y los archivos provisionales
+  descripcion: Lanza publica la apertura de juicio oral contra el exalcalde y exsecretario por prevaricación y cita
+    catorce sobreseimientos provisionales. MiCiudadReal habla de quince. La fecha es la de publicación; sin el auto
+    original no se verifica la fecha de la resolución ni se resuelve la diferencia de recuentos.
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://www.lanzadigital.com/provincia/puertollano/el-juzgado-acuerda-la-apertura-de-juicio-oral-para-el-exalcalde-y-exsecretario-en-el-caso-cerru/
+  - https://www.miciudadreal.es/2024/07/11/seis-anos-de-la-operacion-cerru-en-puertollano-el-historico-drama-procesal-y-personal-con-final-descafeinado/
+- fecha: '2026-02-05'
+  titulo: Juicio oral ante el órgano penal de Ciudad Real
+  descripcion: Hermoso Murillo y Vázquez Calvo defienden la legalidad del contrato. El juicio se celebra el jueves
+    5 de febrero, según los despachos publicados ese día y el siguiente. La Fiscalía reduce de nueve a seis años
+    la petición de inhabilitación por las dilaciones. Esa petición no es la condena finalmente impuesta.
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/castilla-la-mancha/provincias/ciudad_real/exalcalde-puertollano-sienta-banquillo-defiende-legalidad-contrato-cerru_1_12966363.html
+  - https://torrijostoday.com/castilla-la-mancha/ciudad-real/exalcalde-puertollano-defiende-legalidad-del-contrato-del-cerru-y-fiscalia-mantiene-acusacion-por-prevaricacion/
+- fecha: '2026-06-03'
+  titulo: Se conoce la condena de los dos acusados
+  descripcion: 'La prensa informa de la condena por prevaricación a cinco años de inhabilitación especial para empleo
+    o cargo público para cada uno: Hermoso Murillo como autor y Vázquez Calvo como cooperador necesario. Se publica
+    como no firme, recurrible en apelación ante la Audiencia Provincial. Sin el original no se identifica la fecha
+    exacta del fallo ni se acredita firmeza posterior.'
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.lacomarcadepuertollano.com/articulo/puertollano/segunda-condena-hermoso-murillo-exalcalde-puertollano-vez-caso-cerru/20260603094510639356.html
+  - https://www.lanzadigital.com/provincia/puertollano/el-ex-alcalde-de-puertollano-joaquin-hermoso-y-el-secretario-condenados-por-prevaricacion-administrativa/amp/
+  - https://theobjective.com/espana/tribunales/2026-06-03/condenado-exalcalde-puertollano-prevaricacion-obras-deportivas/
 ---
+
+La operación urbanística pretendía financiar un nuevo estadio mediante la entrega de parcelas municipales a Proinsa. El reproche penal se centra en haber elegido esa empresa y firmado el acuerdo sin tramitar el procedimiento de contratación pública. La aprobación posterior del pleno no corrigió, según la información sobre la sentencia, la omisión de publicidad y concurrencia.
+
+La investigación fue más extensa que el juicio. La Fiscalía solicitó archivos para otros investigados y la apertura de juicio oral quedó limitada al exalcalde y al secretario accidental. Los sobreseimientos provisionales publicados en 2024 no son condenas ni absoluciones tras juicio. La diferencia entre catorce y quince archivos en las crónicas exige consultar los autos antes de atribuir un resultado nominal definitivo.
+
+El juicio tuvo lugar el 5 de febrero de 2026. La condena conocida el 3 de junio impuso cinco años de inhabilitación a cada acusado, frente a los seis solicitados finalmente por la Fiscalía. Falta el original y la documentación posterior de recursos para conocer la fecha exacta del fallo, todos sus pronunciamientos y la firmeza individual. La existencia de otra condena sobre la plaza de toros no resuelve ninguna de esas cuestiones en esta causa.
+
+Los valores de los terrenos, la construcción, la urbanización y los intereses eran prestaciones económicas de la permuta. No se presentan como dinero sustraído o perjuicio penal probado. Tampoco se suman deudas o controversias civiles de las constructoras al coste de este procedimiento.
