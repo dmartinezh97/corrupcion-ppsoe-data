@@ -283,10 +283,7 @@ cronologia:
 - fecha: '2014-10-27'
   titulo: 'Operación Púnica: macrorredada con decenas de detenidos'
   descripcion: La Guardia Civil detiene, en una operación coordinada por el juez Eloy Velasco, a medio centenar
-    de políticos, concejales, funcionarios y empresarios. La UCO entra en los ayuntamientos de Parla, Serranillos
-    del Valle, Casarrubuelos, Torrejón de Velasco, Móstoles y Collado Villalba, entre otros. El nombre de la operación
-    alude al granado (Punica granatum) en referencia a Francisco Granados, considerado el principal implicado de
-    la trama.
+    de políticos, concejales, funcionarios y empresarios, según la información contemporánea de El País.
   type: detención
   urls:
   - http://politica.elpais.com/politica/2014/10/27/actualidad/1414399445_044122.html
@@ -294,7 +291,7 @@ cronologia:
 - fecha: '2014-10-31'
   titulo: Francisco Granados ingresa en prisión sin fianza
   descripcion: El juez Eloy Velasco decreta prisión provisional sin fianza para Francisco Granados. La Audiencia
-    Nacional confirma la medida meses después, al apreciar riesgo de fuga y de destrucción de pruebas y la gravedad
+    Nacional confirma la medida en diciembre de 2014, al apreciar riesgo de fuga y de destrucción de pruebas y la gravedad
     de los indicios.
   type: investigación
   urls:
@@ -333,7 +330,7 @@ cronologia:
     Velasco.
   type: investigación
   urls:
-  - https://www.lasexta.com/noticias/nacional/francisco-granados-abandona-la-carcel-de-estremera-el-aparato-del-estado-ha-filtrado-secretos-de-sumario-delinquiendo_20170614594140f80cf26e79abad6209.html
+  - https://www.rtve.es/noticias/20170614/juez-deja-libertad-a-granados-tras-dos-anos-medio-prision-tras-pagar-fianza-impuesta/1564715.shtml
 - fecha: '2017-12-01'
   titulo: 'Primera sentencia: condenas por la filtración policial'
   descripcion: La Audiencia Nacional condena a Granados y Rodríguez Talamino a dos años y a Caro Vinagre a un año
@@ -346,7 +343,7 @@ cronologia:
 - fecha: '2018-02-13'
   titulo: Ignacio González, investigado en el Caso Púnica
   descripcion: El juez García Castellón imputa al expresidente de la Comunidad de Madrid Ignacio González (2012-2015)
-    en la pieza de financiación del PP madrileño, tras una declaración de Francisco Granados.
+    en la pieza de financiación del PP madrileño. La información de ABC vincula la decisión a la acumulación de la pieza 4 de Lezo, donde ya figuraba investigado; la proximidad de la declaración de Granados no basta para atribuirle la causa de esa decisión.
   type: imputación
   urls:
   - http://www.abc.es/espana/abci-ignacio-gonzalez-tambien-pasa-estar-imputado-caso-punica-201802132233_noticia.html
@@ -368,31 +365,20 @@ cronologia:
   urls:
   - https://www.publico.es/politica/expresidentas-madrid-imputadas-juez-imputa-aguirre-cifuentes-trama-corrupta-punica.html
   - https://cadenaser.com/ser/2019/09/02/tribunales/1567436662_164033.html
-- fecha: '2020-09-14'
-  titulo: Fallece José Luis Huerta Valbuena, empresario clave de la trama
-  descripcion: Muere por enfermedad José Luis Huerta Valbuena, dueño de Waiter Music y uno de los empresarios centrales
-    de la causa. Estaba acusado por el pago de dádivas a Francisco Granados a cambio de contratos de eventos musicales
-    sobrefacturados; su fallecimiento impidió que fuera juzgado.
+- fecha: '2020-09-16'
+  titulo: Se conoce el fallecimiento de José Luis Huerta
+  descripcion: El Independiente informa del fallecimiento por enfermedad del dueño de Waiter Music durante la semana anterior. Su muerte impidió que fuera juzgado por los hechos investigados. La fecha del hito es la publicación y no una fecha de defunción verificada.
   type: resumen
   urls:
   - https://www.elindependiente.com/politica/2020/09/16/muere-el-empresario-huerta-cuya-confesion-permitio-investigar-al-senador-del-pp-david-erguido/
   - https://www.elconfidencialdigital.com/articulo/Judicial/muere-empresario-clave-caso-punica-amigo-granados-dueno-waiter-music/20200914211743161917.html
 - fecha: '2021-04-20'
-  titulo: Sobreseimiento de Cristina Cifuentes
-  descripcion: El juez García Castellón archiva la causa contra la expresidenta Cristina Cifuentes al no apreciar
-    indicios suficientes de su participación en la financiación irregular del PP de Madrid.
+  titulo: Se conoce el archivo respecto de Cristina Cifuentes
+  descripcion: Cadena SER informa este día de que el juez García Castellón archiva la causa contra la expresidenta Cristina Cifuentes al no apreciar
+    indicios suficientes de su participación en la financiación irregular del PP de Madrid. Es fecha de publicación; no se ha cotejado el original para fechar el auto.
   type: investigación
   urls:
   - https://cadenaser.com/ser/2021/04/20/tribunales/1618908710_223857.html
-- fecha: '2022-10-14'
-  titulo: Archivada la causa contra Esperanza Aguirre e Ignacio González
-  descripcion: El juez Manuel García Castellón archiva la investigación contra Esperanza Aguirre e Ignacio González
-    en la pieza sobre financiación del PP de Madrid, siguiendo el criterio de la Fiscalía Anticorrupción, por prescripción
-    de los delitos electorales y ausencia de indicios que acreditaran su participación directa.
-  type: investigación
-  urls:
-  - https://www.elindependiente.com/espana/2022/10/14/el-juez-archiva-la-causa-contra-esperanza-aguirre-y-ignacio-gonzalez-por-el-caso-punica/
-  - https://www.noticiasdenavarra.com/politica/2022/10/14/juez-archiva-investigacion-esperanza-aguirre-6116852.html
 - fecha: '2022-10-14'
   titulo: Archivos y continuación de la pieza 9
   descripcion: El auto acuerda sobreseimiento provisional para Aguirre e Ignacio González y libre para José Ignacio
@@ -487,11 +473,11 @@ cronologia:
 - fecha: '2026-05-26'
   titulo: Se conoce la apertura de juicio oral de la pieza 8 (suelo público y Metro)
   descripcion: 'Se conoce que el Juzgado Central de Instrucción nº 6 ha dictado auto de apertura de juicio oral
-    de la pieza 8 contra Francisco Granados y más de 40 acusados, entre ellos David Marjaliza y el exconsejero de
+    de la pieza 8 contra Francisco Granados y otros cuarenta acusados, entre ellos David Marjaliza y el exconsejero de
     OHL Javier López Madrid, por presuntas irregularidades en adjudicaciones de suelo público y obras de Metro entre
     2003 y 2011. La Fiscalía solicita para Granados 42 años de cárcel. La pieza incluye presuntos pagos en especie
-    con dinero de la empresa pública Arpegio. El hito se fecha el 26 de mayo de 2026, cuando elDiario.es y laSexta
-    difundieron la apertura. No se afirma la fecha exacta del auto: Infobae lo sitúa el 22 de mayo y laSexta alude
+    con dinero de la empresa pública Arpegio. El hito se fecha el 26 de mayo de 2026, cuando laSexta
+    difundió la apertura. No se afirma la fecha exacta del auto: Infobae lo sitúa el 22 de mayo y laSexta alude
     al pasado miércoles, versiones divergentes que no se han conciliado con el documento judicial.'
   type: juicio
   urls:
