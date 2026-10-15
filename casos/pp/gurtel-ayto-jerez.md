@@ -71,7 +71,12 @@ tags:
 impactoSocial: La pieza mostró las adjudicaciones y la posterior elaboración de expedientes para la promoción turística
   de Jerez. La casación diferenció la responsabilidad de los empresarios de la situación de los empleados municipales
   y de la causa separada de la alcaldesa.
-documentos: []
+documentos:
+- fecha: '2022-01-31'
+  titulo: Tribunal Supremo, sentencia 86/2022 y segunda sentencia
+  filetype: pdf
+  paginas: 35
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=22d4bff2bf7a4bb3&encode=true&databasematch=TS
 cronologia:
 - fecha: '2004-01-28'
   titulo: Comienza Fitur 2004
@@ -81,7 +86,7 @@ cronologia:
   type: resumen
   relevancia: media
   urls:
-  - https://www.iberley.es/jurisprudencia/sentencia-penal-n-86-2022-ts-sala-penal-sec-1-rec-325-2020-31-01-2022-48401736
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=22d4bff2bf7a4bb3&encode=true&databasematch=TS
 - fecha: '2015-11-05'
   titulo: Se conoce la propuesta de juzgar a nueve investigados
   descripcion: El instructor concluye la investigación de esta pieza y propone juzgar a miembros del grupo Correa
@@ -130,6 +135,7 @@ cronologia:
   type: sentencia
   relevancia: alta
   urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=22d4bff2bf7a4bb3&encode=true&databasematch=TS
   - https://www.eldiario.es/politica/supremo-confirma-3-anos-carcel-correa-actividad-gurtel-jerez_1_8748139.html
   - https://confilegal.com/20220215-el-supremo-confirma-3-anos-de-carcel-para-correa-y-crespo-por-adjudicacion-ilicita-de-tres-contratos-con-jerez-para-fitur-2004/
 - fecha: '2026-03-27'
