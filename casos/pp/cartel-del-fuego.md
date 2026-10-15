@@ -18,9 +18,8 @@ descripcion: 'El "cártel del fuego" es la macrocausa sobre la concertación de 
   La sentencia sitúa la colusión en los concursos de la Comunidad Valenciana, Cataluña y los ministerios de Agricultura
   y Medio Ambiente y, en menor medida, en Andalucía y Castilla-La Mancha. Las resoluciones de instrucción de 2016
   y 2017 describieron un ámbito más amplio (otras comunidades autónomas —entre ellas Castilla-La Mancha, Extremadura,
-  Baleares, Andalucía y Castilla y León— y Portugal, Chile e Italia) y la prensa de 2025 añadió Galicia. Las diferencias
-  responden al distinto momento procesal de cada resolución; la sentencia no confirma por sí sola el alcance descrito
-  entonces.
+  Baleares, Andalucía y Castilla y León— y Portugal, Chile e Italia) y la prensa de 2025 añadió Galicia. Son referencias de distintas fases del procedimiento; la sentencia no confirma por sí sola todo el alcance descrito
+  durante la instrucción.
 
 
   En el ámbito valenciano, la sentencia documenta que entre 1999 y 2017 la Administración valenciana satisfizo 151.585.386,22
@@ -190,7 +189,7 @@ cronologia:
   titulo: Denuncia de Francisco Alandí ante la Fiscalía Anticorrupción
   descripcion: El exgerente de Avialsa Francisco Alandí Escrig presenta ante la Fiscalía Anticorrupción de Valencia
     una denuncia con unos 500 documentos sobre la concertación del sector, que ampliaría el 9 de julio de 2015;
-    la sentencia recoge el 9 de octubre de 2014 en los hechos probados y una denuncia de 27 de octubre de 2014 en
+    la sentencia recoge el 9 de octubre de 2014 en la fundamentación y una denuncia de 27 de octubre de 2014 en
     los antecedentes. La causa se inició en los juzgados de Sagunto y acabó en la Audiencia Nacional.
   type: denuncia
   relevancia: alta
