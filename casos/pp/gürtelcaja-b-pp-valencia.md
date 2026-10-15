@@ -66,16 +66,8 @@ tags:
 - delitos electorales
 - falsedad documental
 - delitos contra la Hacienda Pública
-impacto: La sentencia acreditó pagos electorales fuera de la contabilidad declarada y el uso de facturas falsas.
+impactoSocial: La sentencia acreditó pagos electorales fuera de la contabilidad declarada y el uso de facturas falsas.
   No atribuye enriquecimiento personal a los cargos políticos condenados.
-urls:
-- https://www.rtve.es/contenidos/documentos/sentencia%20_gurtel_valencia.pdf
-- https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=f55267cb45e480f9&encode=true&databasematch=AN
-- https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-confirma-la-sentencia-para-18-condenados-por-financiar-ilegalmente-campanas-electorales-del-PP-de-la-Comunidad-Valenciana-en-2007-y-2008
-- https://www.rtve.es/noticias/20180611/juez-considera-acreditada-financiacion-ilegal-del-pp-valenciano/1749155.shtml
-- https://confilegal.com/20190613-ricardo-costa-se-libra-de-la-carcel-por-su-colaboracion-en-el-caso-gurtel-y-el-de-la-presunta-caja-b-del-pp/
-- https://valenciaplaza.com/valenciaplaza/declaran-firme-la-sentencia-del-dopaje-electoral-del-pp-de-francisco-camps
-- https://amp.rtve.es/noticias/20260327/juez-pone-libertad-condicional-a-pablo-crespo-numero-dos-guertel-tras-mas-12-anos-prision/17001537.shtml
 documentos:
 - fecha: '2018-06-11'
   titulo: 'Sentencia 3/2018: piezas separadas de Valencia 1, 2 y 6'
@@ -137,3 +129,5 @@ Las penas de los cargos del partido responden a delitos electorales y falsedad d
 La sentencia de apelación de 3 de junio de 2019, publicada judicialmente el 12 de junio y comunicada por el CGPJ el 18, cierra los recursos ordinarios de esta pieza: su fallo dice expresamente que no cabe recurso. No es una sentencia del Tribunal Supremo. Mantiene las condenas y los pronunciamientos no recurridos, salvo la reducción de determinadas multas fiscales de Correa.
 
 La ejecución requiere cautelas adicionales. La información de junio de 2019 sobre Costa explica una suspensión condicionada de la prisión y una multa adicional a la original. Las noticias difieren al expresar los trabajos comunitarios en horas o como un año de servicios; sin el auto íntegro no se fija aquí su duración jurídica. Tampoco se afirma que las penas estén extinguidas ni que todos los condenados hayan cumplido las mismas condiciones. RTVE informó el 27 de marzo de 2026 de la libertad condicional de Pablo Crespo tras más de doce años en prisión. La noticia se refiere a su situación penitenciaria por el conjunto de condenas, por lo que no acredita por sí sola la conclusión de esta ejecutoria al 15 de octubre de 2026.
+
+Fuentes adicionales: [fuente 1](https://www.rtve.es/contenidos/documentos/sentencia%20_gurtel_valencia.pdf), [fuente 2](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=f55267cb45e480f9&encode=true&databasematch=AN), [fuente 3](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-confirma-la-sentencia-para-18-condenados-por-financiar-ilegalmente-campanas-electorales-del-PP-de-la-Comunidad-Valenciana-en-2007-y-2008), [fuente 4](https://www.rtve.es/noticias/20180611/juez-considera-acreditada-financiacion-ilegal-del-pp-valenciano/1749155.shtml), [fuente 5](https://confilegal.com/20190613-ricardo-costa-se-libra-de-la-carcel-por-su-colaboracion-en-el-caso-gurtel-y-el-de-la-presunta-caja-b-del-pp/), [fuente 6](https://valenciaplaza.com/valenciaplaza/declaran-firme-la-sentencia-del-dopaje-electoral-del-pp-de-francisco-camps), [fuente 7](https://amp.rtve.es/noticias/20260327/juez-pone-libertad-condicional-a-pablo-crespo-numero-dos-guertel-tras-mas-12-anos-prision/17001537.shtml).
