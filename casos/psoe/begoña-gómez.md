@@ -194,7 +194,7 @@ cronologia:
   titulo: Se conoce la remisión de una pieza de Barrabés a la Fiscalía Europea
   descripcion: La prensa informa de un auto de 27 de julio que acepta la avocación de la Fiscalía Europea sobre
     el expediente Red.es 044/20-ED y remite la pieza separada. Este traslado competencial no es una absolución ni
-    una condena y no modifica la apertura de juicio contra Gómez y Álvarez.
+    una condena; no traslada a la Fiscalía Europea el procedimiento del jurado contra Gómez y Álvarez.
   type: investigacion
   relevancia: media
   urls:
