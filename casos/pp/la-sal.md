@@ -3,6 +3,7 @@ nombre: La Sal
 partido: PP
 completado: false
 año: 2016
+fechaInicio: '2016-04-28'
 estado: pendiente de juicio
 descripcion: 'El caso La Sal examina presuntas irregularidades en la adquisición mediante arrendamiento y la financiación
   pública de la desaladora de Escombreras, en Cartagena. La Sal I comprende a antiguos responsables del Ente Público
@@ -69,8 +70,19 @@ impactoSocial: El procedimiento cuestiona la fórmula utilizada para trasladar a
   de una infraestructura hidráulica y sus obligaciones de arrendamiento. La Comunidad Autónoma interviene como perjudicada
   y actora civil. La posible pérdida para el erario continúa siendo objeto de las acusaciones y de las periciales,
   pendiente de decisión en juicio.
-documentos: []
+documentos:
+- fecha: '2020-03-03'
+  titulo: 'Auto de continuación por procedimiento abreviado de La Sal I (AJI 10/2020)'
+  filetype: PDF
+  paginas: 45
+  nombre_fichero: 'https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=03d0376828b3d9c2&encode=true&databasematch=AN'
 cronologia:
+- fecha: '2016-04-28'
+  titulo: Incoación de las diligencias previas de La Sal I
+  descripcion: El antecedente primero del auto de 3 de marzo de 2020 identifica esta fecha como la de incoación y declaración de secreto. La denuncia fiscal había llegado al juzgado en diciembre de 2015.
+  type: investigacion
+  urls:
+  - 'https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=03d0376828b3d9c2&encode=true&databasematch=AN'
 - fecha: '2018-09-19'
   titulo: Se conocen nuevas imputaciones en La Sal I
   descripcion: elDiario.es informa de nuevas imputaciones acordadas el día anterior a integrantes del EPA y de las
@@ -79,6 +91,12 @@ cronologia:
   type: imputacion
   urls:
   - https://www.eldiario.es/murcia/imputados-funcionarios-ejecutivos-acs-escombreras_1_2752804.html
+- fecha: '2020-03-03'
+  titulo: Continuación de La Sal I por procedimiento abreviado
+  descripcion: El auto acuerda continuar respecto de diecisiete investigados y dispone el sobreseimiento provisional parcial de otras tres personas, identificadas mediante seudónimos en la copia pública. Es un antecedente distinto de los dos sobreseimientos de 2024; no se equiparan identidades. La condición civil subsidiaria de entidades públicas fue posteriormente revocada por la Audiencia.
+  type: juicio
+  urls:
+  - 'https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=03d0376828b3d9c2&encode=true&databasematch=AN'
 - fecha: '2023-03-30'
   titulo: Se conoce la apertura de juicio oral contra Valcárcel
   descripcion: Se publica la apertura de juicio en La Sal II por prevaricación, fraude y malversación. La información
@@ -143,4 +161,4 @@ Las fianzas de 70 millones en La Sal I y de 74.194.332,55 euros en La Sal II ase
 
 La apertura de La Sal I también comprende a ACS, Hydro Management, sociedades Cobra, Moncobra y Tedagua como posibles responsables civiles subsidiarios, y a Ariño y Asociados, Despacho González Varas y Arnaldos Abogados como posibles partícipes a título lucrativo. Esas posiciones civiles no equivalen a una acusación penal contra las sociedades. La CARM permanece como perjudicada tras la decisión de la Audiencia de 2023. La misma comunicación de apertura de juicio informa de dos sobreseimientos provisionales, relativos al administrador inicial de Hidromanagement y a un consejero delegado solidario hasta septiembre de 2005; no facilita sus nombres.
 
-La relación de personas de esta ficha recoge únicamente las identidades cuya posición puede describirse con las fuentes citadas y no sustituye la lista completa de acusados. Faltan los autos íntegros y los escritos de acusación para cerrar la relación individual de La Sal I, identificar documentalmente a quienes obtuvieron el sobreseimiento y precisar todas las peticiones penales. Tampoco se ha verificado un señalamiento de esa pieza. Para La Sal II se conserva, con esa limitación temporal, el [calendario anunciado el 17 de octubre de 2024](https://cadenaser.com/murcia/2024/10/17/fijan-para-septiembre-de-2027-el-inicio-de-las-sesiones-del-juicio-al-expresidente-ramon-luis-valcarcel-por-el-caso-la-sal-radio-murcia/), que sitúa el comienzo en septiembre de 2027. La ausencia de una actualización localizada no garantiza que la agenda permanezca inalterada.
+La relación de personas de esta ficha recoge únicamente las identidades cuya posición puede describirse con las fuentes citadas y no sustituye la lista completa de acusados. Se conserva el [auto de 3 de marzo de 2020](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=03d0376828b3d9c2&encode=true&databasematch=AN), que transformó las diligencias de La Sal I en procedimiento abreviado y dispuso tres sobreseimientos provisionales parciales. Su copia pública anonimiza las identidades: no permite asignar esos pronunciamientos a nombres de la ficha ni equipararlos con los dos sobreseimientos comunicados en 2024. Faltan los autos íntegros de apertura y los escritos de acusación para cerrar la relación individual de La Sal I, identificar documentalmente a quienes obtuvieron el sobreseimiento y precisar todas las peticiones penales. Tampoco se ha verificado un señalamiento de esa pieza. Para La Sal II se conserva, con esa limitación temporal, el [calendario anunciado el 17 de octubre de 2024](https://cadenaser.com/murcia/2024/10/17/fijan-para-septiembre-de-2027-el-inicio-de-las-sesiones-del-juicio-al-expresidente-ramon-luis-valcarcel-por-el-caso-la-sal-radio-murcia/), que sitúa el comienzo en septiembre de 2027. La ausencia de una actualización localizada no garantiza que la agenda permanezca inalterada.
