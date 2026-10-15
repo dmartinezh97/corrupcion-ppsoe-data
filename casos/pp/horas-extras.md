@@ -9,7 +9,7 @@ descripcion: El caso examinó contratos de confección y bordado encargados a un
   La Audiencia Provincial de Cádiz condenó a ocho personas y absolvió al entonces alcalde Lorenzo Sánchez el 28
   de mayo de 2015. El Supremo confirmó las condenas el 23 de mayo de 2016. Seis condenados recibieron indultos parciales
   el 10 de febrero de 2017, publicados el día 13; Eva Corrales no estaba entre ellos. Tras la denegación de su solicitud,
-  ingresó en prisión el 21 de marzo de 2019 y la prensa informó de su tercer grado en julio de ese año. No se ha
+  ingresó en prisión el 21 de marzo de 2019 y la prensa informó posteriormente de que obtuvo el tercer grado en julio de ese año. No se ha
   acreditado aquí la liquidación y cumplimiento de todas las penas ni la situación de cada condenado al 15 de octubre
   de 2026. Los pagos por suministros no se presentan como un daño patrimonial íntegro.
 resumen: 'Contratos municipales de bordado encubiertos con facturas y pagos de horas extraordinarias: ocho condenados
@@ -25,8 +25,8 @@ implicados:
 - nombre: Eva Corrales Caballero
   cargo: Delegada de Fiestas y Relaciones Institucionales durante los hechos; posterior alcaldesa de Rota (PP)
   rol: Condenada a 4 años y 6 meses de prisión por falsedad y a inhabilitación por prevaricación continuada. No
-    incluida en los seis indultos de 2017; ingreso en prisión en marzo de 2019 y tercer grado conocido en julio
-    de 2019
+    incluida en los seis indultos de 2017; ingreso en prisión en marzo de 2019 y tercer grado obtenido en julio
+    de 2019 según la información publicada en noviembre
 - nombre: Ismael Puyana Román
   cargo: Concejal de Fiestas y, durante parte de 2007, de Personal (PP)
   rol: 'Condenado a 4 años y 6 meses de prisión por falsedad y a inhabilitación por prevaricación continuada; indulto
