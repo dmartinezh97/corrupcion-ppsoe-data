@@ -52,7 +52,7 @@ implicados:
 - nombre: Pablo Cavero Martínez de Campos
   cargo: Consejero de Transportes, Infraestructuras y Vivienda de la Comunidad de Madrid en 2013
   rol: Responsable político de la consejería de adscripción del IVIMA. No se le atribuye una condena penal por esta
-    venta; se corrigen apellido y departamento de la ficha anterior.
+    venta.
 tags:
 - vivienda pública
 - enajenación de patrimonio
