@@ -1,188 +1,225 @@
 ---
-nombre: "Caso IVIMA"
+nombre: Caso IVIMA
 partido: PP
-completado: true
+completado: false
 año: 2013
-fechaInicio: 2013-06-06
-fechaFin: ""
-estado: "cerrado con condenas"
-descripcion: |
-  El Caso IVIMA es una investigación judicial sobre la venta irregular de 2.935 viviendas sociales del Instituto de la Vivienda de Madrid (IVIMA) al fondo de inversión Goldman Sachs-Azora durante el gobierno de Ignacio González en 2013. La operación, valorada en 201 millones de euros, se realizó con múltiples irregularidades según la Cámara de Cuentas de la Comunidad de Madrid, que estimó una pérdida patrimonial de 98 millones de euros al venderse por debajo de su valor real.
+fechaInicio: '2013-06-06'
+estado: venta anulada
+descripcion: 'En 2013 el IVIMA adjudicó la venta de 32 promociones, con 2.935 viviendas y otros inmuebles, a Azora
+  Gestión por 201.000.007 euros sin IVA; la transmisión se formalizó con Encasa Cibeles. La nulidad de la operación
+  en la jurisdicción contencioso-administrativa es distinta del archivo de la investigación penal de sus antiguos
+  gestores. No se presenta el caso como cerrado con condenas penales.
 
-  La venta incluía 32 promociones del Plan Joven que comprendían 2.935 viviendas sociales, 2.849 plazas de garaje, 1.865 trasteros, 235 garajes y 45 locales comerciales. El proceso se caracterizó por la ausencia de justificación técnica, falta de tasación fiable, ausencia de publicidad adecuada y uso de información privilegiada. La adjudicación se realizó sin aprobar previamente en el Consejo de Administración del IVIMA y sin motivar adecuadamente el carácter innecesario de los inmuebles.
 
-  El caso siguió dos vías judiciales paralelas. Por la vía penal, la Fiscalía investigó a los exdirectores generales Ana Gomendio y Juan Van-Halen por presuntos delitos de prevaricación y malversación de caudales públicos, aunque en enero de 2019 el Juzgado de Instrucción número 48 decretó el sobreseimiento provisional al considerar que no existían indicios suficientes de delito. Sin embargo, por la vía contencioso-administrativa, el Juzgado de lo Contencioso-Administrativo número 29 de Madrid anuló la venta en mayo de 2018, sentencia confirmada posteriormente por el Tribunal Superior de Justicia de Madrid en junio y julio de 2019, y ratificada definitivamente por el Tribunal Supremo en diciembre de 2019 y marzo de 2020, declarando la nulidad de pleno derecho de la operación.
+  La sentencia 118/2018 del Juzgado de lo Contencioso-Administrativo n.º 29 anuló la adjudicación y enajenación.
+  La ejecución quedó limitada respecto de inmuebles vendidos a terceros de buena fe y se recuperaron 1.721 viviendas.
+  El Decreto 85/2025 autorizó una transacción sobre la reclamación de Encasa. La Cámara de Cuentas, en su informe
+  aprobado en diciembre de 2025, aún describía como pendiente el abono de 1.325.000 euros tras la homologación;
+  no se acredita aquí su pago o el auto final de terminación al 15 de octubre de 2026.
 
-resumen: "Venta irregular de 2.935 viviendas sociales del IVIMA a Goldman Sachs-Azora con pérdida patrimonial de 98 millones de euros"
-coste: 98000000
-lugar: "Madrid, Comunidad de Madrid"
+
+  Los 98.210.380 euros registrados como pérdida de inmovilizado son un resultado contable, no una condena de responsabilidad
+  contable ni daño penal probado. Persisten lagunas sobre los autos penales originales y el desenlace de reclamaciones
+  individuales. La sentencia 324/2026 del TSJM desestima una indemnización de un arrendatario, pero era recurrible
+  y contiene una diferencia entre la fecha de su ficha CENDOJ y la escrita en el encabezamiento, por lo que no se
+  le atribuye aquí un día inequívoco.'
+resumen: Venta de vivienda pública anulada y parcialmente revertida, con investigación penal archivada y litigios
+  posteriores de ejecución e indemnización.
+lugar: Comunidad de Madrid
 tribunal:
-  - "Juzgado de lo Contencioso-Administrativo nº 29 de Madrid"
-  - "Tribunal Superior de Justicia de Madrid - Sala de lo Contencioso-Administrativo"
-  - "Tribunal Supremo - Sala Tercera"
-  - "Juzgado de Instrucción nº 48 de Madrid"
-numeroSentencia: "Sentencias TSJM 828/2018 y 829/2018 - Auto TS noviembre 2019, marzo 2020"
+- Juzgado de Instrucción n.º 48 de Madrid
+- Audiencia Provincial de Madrid
+- Juzgado de lo Contencioso-Administrativo n.º 29 de Madrid
+- Tribunal Superior de Justicia de Madrid, Sala de lo Contencioso-Administrativo
+- Tribunal Supremo, Salas de lo Contencioso-Administrativo y de lo Civil
+- Juzgado de lo Contencioso-Administrativo n.º 7 de Madrid
+numeroSentencia: Sentencia 118/2018 del JCA n.º 29; STS 1007/2019 (protección de datos); STS 95/2021 (arrendamiento);
+  STSJ Madrid 324/2026 (reclamación individual)
 implicados:
-  - nombre: "Ignacio González González"
-    cargo: "Presidente de la Comunidad de Madrid"
-    rol: "Responsable político durante la venta. No imputado penalmente. La operación se realizó bajo su presidencia"
-
-  - nombre: "Ana Gomendio López"
-    cargo: "Directora General del IVIMA"
-    rol: "Investigada por prevaricación y malversación. Firmó la resolución de venta el 6 de junio de 2013. Caso sobreseído provisionalmente vía penal"
-
-  - nombre: "Juan Van-Halen Rodríguez"
-    cargo: "Director General del IVIMA (predecesor de Ana Gomendio)"
-    rol: "Investigado por prevaricación y malversación. Inició el proceso de venta. Caso sobreseído provisionalmente vía penal"
-
-  - nombre: "Pablo Cavero Llamazares"
-    cargo: "Consejero de Medio Ambiente y Ordenación del Territorio"
-    rol: "Responsable político de la Consejería de la que dependía el IVIMA durante la venta"
-
+- nombre: Ignacio González González
+  cargo: Presidente de la Comunidad de Madrid cuando se autorizó y realizó la venta
+  rol: Responsable político del Gobierno regional de 2013. La nulidad de la venta no constituye una condena penal
+    personal; no se le atribuye aquí una condena por esta operación.
+- nombre: Ana Gomendio López de Asiaín
+  cargo: Directora-gerente del IVIMA durante la adjudicación y transmisión de 2013
+  rol: Investigada en la causa penal junto con Juan Van-Halen. La información publicada en enero de 2019 recoge
+    su archivo, confirmado en apelación en junio. No se dispone de los autos íntegros para precisar todos sus efectos
+    individuales.
+- nombre: Juan Van-Halen Rodríguez
+  cargo: Director-gerente del IVIMA antes de Ana Gomendio
+  rol: Investigado por su intervención en el proceso preparatorio de la venta. La investigación penal fue archivada
+    en 2019; la nulidad contenciosa no es una condena personal por prevaricación o malversación.
+- nombre: Pablo Cavero Martínez de Campos
+  cargo: Consejero de Transportes, Infraestructuras y Vivienda de la Comunidad de Madrid en 2013
+  rol: Responsable político de la consejería de adscripción del IVIMA. No se le atribuye una condena penal por esta
+    venta.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "malversación"
-  - "fondos buitre"
-  - "vivienda pública"
-  - "privatización irregular"
-  - "Goldman Sachs"
-
-impactoSocial: "El caso generó gran indignación social al evidenciar cómo el gobierno del PP vendió viviendas sociales destinadas a jóvenes a un fondo buitre por debajo de su valor real, con pérdida de 98 millones de euros. Las sentencias de nulidad confirmaron las irregularidades denunciadas por movimientos sociales y familias afectadas. El Tribunal Supremo reconoció también la vulneración del derecho a la intimidad de los inquilinos al transferir sus datos personales sin consentimiento. A pesar de la nulidad judicial, la recuperación efectiva de las viviendas ha sido compleja y lenta, generando nuevos conflictos con las familias inquilinas."
-
-documentos: null
-
+- vivienda pública
+- enajenación de patrimonio
+- nulidad administrativa
+- archivo penal
+- protección de datos
+impactoSocial: La venta alteró la identidad del arrendador y generó litigios sobre la continuidad del régimen público,
+  las reducciones de renta, la publicidad de datos personales y la recuperación de las viviendas. Los efectos e
+  indemnizaciones se examinan por procedimiento y persona.
+documentos:
+- fecha: '2015-11-06'
+  titulo: Informe de fiscalización de enajenaciones del IVIMA, ejercicios 2012 y 2013
+  filetype: pdf
+  paginas: 83
+  nombre_fichero: https://www.camaradecuentasmadrid.org/admin/uploads/definitivo-4.pdf
+- fecha: '2019-07-08'
+  titulo: 'STS 1007/2019: publicación de datos personales de arrendatarios'
+  filetype: pdf
+  paginas: 16
+  nombre_fichero: https://www.acalsl.com/wp-content/uploads/2019/07/STS_proteccion_datos_IVIMA_fondos.pdf
+- fecha: '2021-02-23'
+  titulo: 'STS 95/2021: recurso de Encasa sobre resolución de un arrendamiento'
+  filetype: pdf
+  paginas: 14
+  nombre_fichero: https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/STS%2095-2021%20%28REC%203942-2018%29%20anonimizada.pdf
+- fecha: '2025-10-22'
+  titulo: 'Decreto 85/2025: autorización de transacción con Encasa Cibeles'
+  filetype: pdf
+  paginas: 3
+  nombre_fichero: https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/23/BOCM-20251023-23.PDF
+- fecha: '2025-12-23'
+  titulo: 'Fiscalización de la Cuenta General 2024: seguimiento de la transacción'
+  filetype: pdf
+  paginas: 205
+  nombre_fichero: https://www.comunidad.madrid/transparencia/sites/default/files/open-data/downloads/if-sellado-ctagral2024-aprobadocjo23122025.pdf
 cronologia:
-  - fecha: "2013-06-06"
-    titulo: "Resolución de venta y aprobación del Consejo de Gobierno"
-    descripcion: "Ana Gomendio López, directora general del IVIMA, firma la resolución de venta. El Consejo de Gobierno de la Comunidad de Madrid, presidido por Ignacio González, aprueba sacar a subasta 32 promociones del IVIMA con un precio base de 168 millones de euros. La decisión se toma sin haber realizado estudios técnicos que justifiquen la necesidad o conveniencia de la venta, y sin aprobar previamente la operación en el Consejo de Administración del IVIMA."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/madrid/operaciones-paralelas-justicia-cuestiona-viviendas_1_1770235.html"
-
-  - fecha: "2013-08-29"
-    titulo: "Adjudicación de las viviendas a Azora-Goldman Sachs"
-    descripcion: "El IVIMA adjudica las 32 promociones de vivienda a Azora Gestión S.G.I.I.C (vinculada a Goldman Sachs) por 201 millones de euros, casi 20% más que el precio de salida de 168,9 millones. La adjudicación se realiza de forma discrecional sin haber ponderado los aspectos negociables ni establecido reglas de valoración. Según la Cámara de Cuentas, el valor contable del paquete era de aproximadamente 300 millones de euros, por lo que la venta supuso una pérdida patrimonial de 98 millones."
-    type: "resumen"
-    urls:
-      - "https://www.publico.es/politica/juzgado-madrid-anula-venta-3-000-viviendas-sociales-fondo-buitre-quita-razon-gobierno-ayuso.html"
-
-  - fecha: "2013-09-12"
-    titulo: "Creación de Encasa Cibeles S.L."
-    descripcion: "Azora crea la sociedad Encasa Cibeles S.L. con capital mínimo, bajo cuyo nombre se inscriben las propiedades adquiridas. Esta estructura societaria permite al fondo gestionar las viviendas a través de una empresa instrumental, separando los activos inmobiliarios de la gestión del fondo de inversión."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+IVIMA&numero=566"
-
-  - fecha: "2013-10-25"
-    titulo: "Formalización del contrato de venta y notificación a inquilinos"
-    descripcion: "Se formaliza el contrato de compraventa entre el IVIMA y Encasa Cibeles S.L. Ana Gomendio López, como directora general del IVIMA, notifica a cada uno de los inquilinos la transmisión de la propiedad de sus viviendas a Encasa Cibeles. Los inquilinos se enteran así de que sus viviendas sociales han sido vendidas a un fondo de inversión, generando alarma e incertidumbre sobre sus contratos de alquiler y sus derechos como arrendatarios."
-    type: "resumen"
-    urls:
-      - "https://www.elsaltodiario.com/vivienda/venta-ivima-goldman-sachs-pp-sentencia-navalcarnero"
-
-  - fecha: "2014-09-01"
-    titulo: "Ana Gomendio declara ante el juez"
-    descripcion: "La exdirectora general del IVIMA Ana Gomendio comparece ante el Juzgado de Instrucción número 48 de Madrid para declarar como investigada en el procedimiento penal abierto por la venta de las viviendas a Goldman Sachs. La investigación judicial se centra en presuntos delitos de prevaricación administrativa y malversación de caudales públicos."
-    type: "declaración"
-    urls:
-      - "https://rebelion.org/ana-gomendio-directora-del-ivima-imputada-por-la-venta-de-3000-viviendas-a-fondos-buitre/"
-
-  - fecha: "2015-11-06"
-    titulo: "Informe de la Cámara de Cuentas sobre irregularidades"
-    descripcion: "La Cámara de Cuentas de la Comunidad de Madrid aprueba un demoledor informe sobre las irregularidades en el procedimiento administrativo de venta de inmuebles del IVIMA durante los ejercicios fiscales 2012 y 2013. El informe concluye que la pérdida patrimonial para la Comunidad de Madrid fue de 98 millones de euros. Destaca que el expediente de venta no incluía estudios técnicos ni informes que justificaran la necesidad, conveniencia u oportunidad de la venta, y que la adjudicación se hizo a la oferta más cara de forma discrecional sin ponderar los aspectos negociables."
-    type: "documento"
-    urls:
-      - "https://www.elboletin.com/nacional-125201-fondos-buitre-vivienda-publica-madrid-html/"
-
-  - fecha: "2016-02-23"
-    titulo: "Citación de Juan Van-Halen como investigado"
-    descripcion: "El Juzgado de Instrucción número 48 de Madrid cita a declarar como investigado a Juan Van-Halen Rodríguez, exdirector general del IVIMA y predecesor de Ana Gomendio. Van-Halen había iniciado el proceso de venta de las viviendas antes de dejar el cargo. Se le investiga por su participación en las irregularidades detectadas en el procedimiento de enajenación del patrimonio público del IVIMA."
-    type: "imputación"
-    urls:
-      - "https://aavvmadrid.org/noticias/juan-van-halen-imputado-por-la-venta-de-viviendas-del-ivima-a-fondos-buitre/"
-
-  - fecha: "2018-05-21"
-    titulo: "Sentencia del Juzgado de lo Contencioso-Administrativo nº 29"
-    descripcion: "El Juzgado de lo Contencioso-Administrativo número 29 de Madrid dicta sentencia anulando las resoluciones del IVIMA que permitieron la venta de las 32 promociones a Azora-Goldman Sachs. La sentencia considera que la Administración no motivó adecuadamente el carácter innecesario de los inmuebles para los fines del IVIMA, requisito legal imprescindible para la enajenación de patrimonio público. Declara que la adjudicación nunca fue explicada ni justificada y que tampoco fue aprobada por el Consejo de Administración del IVIMA."
-    type: "sentencia"
-    urls:
-      - "https://www.publico.es/politica/juzgado-madrid-anula-venta-3-000-viviendas-sociales-fondo-buitre-quita-razon-gobierno-ayuso.html"
-
-  - fecha: "2018-12-01"
-    titulo: "La Fiscalía pide el archivo de la causa penal"
-    descripcion: "La Fiscalía Provincial de Madrid presenta escrito ante el Juzgado de Instrucción número 48 solicitando el archivo de la investigación penal contra Ana Gomendio y Juan Van-Halen. A pesar de reconocer que el proceso de venta estuvo 'trufado de irregularidades', la Fiscalía considera que no existen indicios suficientes para acreditar la comisión de delitos de prevaricación o malversación de caudales públicos, argumentando que las irregularidades administrativas no constituyen necesariamente delitos penales."
-    type: "resumen"
-    urls:
-      - "https://www.publico.es/politica/fiscalia-pide-archivo-causa-penal-ivima-vender-3-000-viviendas-fondo-inversion.html"
-
-  - fecha: "2019-01-31"
-    titulo: "Sobreseimiento provisional de la causa penal"
-    descripcion: "El Juzgado de Instrucción número 48 de Madrid decreta el sobreseimiento provisional de la causa penal y el archivo de las actuaciones contra Ana Gomendio y Juan Van-Halen. El juez considera que, aunque el proceso de venta adolece de irregularidades administrativas susceptibles de anulación por vía contencioso-administrativa, no se han encontrado indicios suficientes de delito penal. Esta decisión cierra la vía penal del caso, aunque reconoce las irregularidades del procedimiento."
-    type: "sentencia"
-    urls:
-      - "https://www.elplural.com/politica/la-audiencia-provincial-archiva-caso-del-ivima-venta-viviendas-sociales-fondo-buitre_217885102"
-
-  - fecha: "2019-06-03"
-    titulo: "La Audiencia Provincial confirma el archivo penal"
-    descripcion: "La Audiencia Provincial de Madrid desestima el recurso de apelación presentado contra el auto de sobreseimiento y confirma el archivo definitivo de la causa penal. La resolución, fechada el 3 de junio de 2019, impide continuar investigando por la vía penal los presuntos delitos de prevaricación y malversación, consolidando la impunidad penal de los responsables políticos y técnicos de la operación."
-    type: "sentencia"
-    urls:
-      - "https://www.elplural.com/politica/la-audiencia-provincial-archiva-caso-del-ivima-venta-viviendas-sociales-fondo-buitre_217885102"
-
-  - fecha: "2019-06-19"
-    titulo: "Primera sentencia del TSJM confirmando la nulidad"
-    descripcion: "El Tribunal Superior de Justicia de Madrid dicta sentencia en el procedimiento 828/2018 confirmando la nulidad de la venta declarada por el Juzgado de lo Contencioso-Administrativo número 29. La sentencia ratifica que la operación de venta se realizó sin cumplir los requisitos legales exigidos para la enajenación de patrimonio público, especialmente la ausencia de justificación del carácter innecesario de los inmuebles y la falta de aprobación del Consejo de Administración del IVIMA."
-    type: "sentencia"
-    urls:
-      - "https://www.elsaltodiario.com/vivienda/segunda-sentencia-anulacion-venta-2935-viviendas-ivima-goldman-sachs"
-
-  - fecha: "2019-07-22"
-    titulo: "Segunda sentencia del TSJM confirmando la nulidad"
-    descripcion: "El Tribunal Superior de Justicia de Madrid dicta una segunda sentencia en el procedimiento 829/2018 ratificando nuevamente la nulidad de la venta de las viviendas del IVIMA a Azora-Goldman Sachs. Esta segunda resolución judicial refuerza la doctrina establecida sobre la ilegalidad de la operación y consolida la obligación de revertir la venta. La Comunidad de Madrid y Azora-Goldman Sachs anuncian que recurrirán ante el Tribunal Supremo."
-    type: "sentencia"
-    urls:
-      - "https://www.elsaltodiario.com/vivienda/segunda-sentencia-anulacion-venta-2935-viviendas-ivima-goldman-sachs"
-
-  - fecha: "2019-11-29"
-    titulo: "El Tribunal Supremo inadmite el primer recurso"
-    descripcion: "La Sala Tercera del Tribunal Supremo dicta auto inadmitiendo a trámite el primer recurso de casación presentado por la Comunidad de Madrid y Azora contra las sentencias del TSJM que declararon la nulidad de la venta. El Supremo considera que el recurso no cumple los requisitos procesales para su admisión, dando así firmeza a la sentencia de nulidad del Tribunal Superior de Justicia de Madrid."
-    type: "sentencia"
-    urls:
-      - "https://www.publico.es/politica/venta-viviendas-ivima-supremo-confirma-nulidad-venta-3000-viviendas-sociales-ivima-fondo-buitre.html"
-
-  - fecha: "2019-12-01"
-    titulo: "El Supremo confirma definitivamente la nulidad de la venta"
-    descripcion: "El Tribunal Supremo rechaza definitivamente los recursos presentados por la Comunidad de Madrid contra las sentencias del TSJM que anularon la venta de 2.935 viviendas sociales del IVIMA al fondo Azora-Goldman Sachs. La decisión del Supremo declara firme la nulidad de la operación de venta realizada en 2013 durante el gobierno de Ignacio González, consolidando la doctrina sobre la ilegalidad de la enajenación por no cumplir los requisitos legales de justificación y procedimiento."
-    type: "sentencia"
-    urls:
-      - "https://www.publico.es/politica/venta-viviendas-ivima-supremo-confirma-nulidad-venta-3000-viviendas-sociales-ivima-fondo-buitre.html"
-
-  - fecha: "2020-03-18"
-    titulo: "El Supremo inadmite el segundo recurso de casación"
-    descripcion: "El Tribunal Supremo dicta un segundo auto inadmitiendo otro recurso de casación presentado por la Comunidad de Madrid y Azora contra la declaración de nulidad de la venta. Esta nueva inadmisión refuerza la firmeza de las sentencias anteriores y cierra definitivamente las posibilidades de recurso por vía ordinaria, obligando a la administración regional a iniciar los trámites de reversión de la operación."
-    type: "sentencia"
-    urls:
-      - "https://caescooperativa.es/2020/09/nulidad-de-la-venta-de-viviendas-del-ivima-en-2013/"
-
-  - fecha: "2020-05-18"
-    titulo: "El Supremo rechaza el tercer y último recurso"
-    descripcion: "El Tribunal Supremo inadmite el tercer y último recurso de casación presentado contra la declaración de nulidad de la venta del IVIMA. Con esta tercera inadmisión se agotan definitivamente todas las vías de recurso ordinarias, quedando consolidada la obligación de revertir la venta de las 2.935 viviendas sociales. La Comunidad de Madrid debe ahora ejecutar la sentencia y recuperar el patrimonio público vendido irregularmente."
-    type: "sentencia"
-    urls:
-      - "https://caescooperativa.es/2020/09/nulidad-de-la-venta-de-viviendas-del-ivima-en-2013/"
-
-  - fecha: "2021-02-03"
-    titulo: "Auto judicial ordenando la reversión inmediata"
-    descripcion: "Un juzgado de Madrid dicta auto ordenando a la Comunidad de Madrid que inicie sin más demora la reversión de la operación de venta de las viviendas del IVIMA a Encasa Cibeles (Azora-Goldman Sachs). El auto declara la nulidad de pleno derecho de la adjudicación realizada el 29 de agosto de 2013 y de la totalidad de los inmuebles que integran las 32 promociones. El tribunal exige que se ejecute de inmediato la sentencia firme de nulidad."
-    type: "sentencia"
-    urls:
-      - "https://www.telemadrid.es/noticias/madrid/Justicia-reversion-IVIMA-Goldman-Sachs-0-2310968913--20210203063416.html"
-
-  - fecha: "2021-02-25"
-    titulo: "El Supremo protege a los inquilinos y reconoce vulneración de intimidad"
-    descripcion: "El Tribunal Supremo dicta sentencia reconociendo que se vulneró el derecho a la intimidad de los inquilinos de las viviendas del IVIMA al transferir sus datos personales a Encasa Cibeles sin su consentimiento. La sentencia protege a los arrendatarios frente a los intentos de desahucio y establece que la nulidad de la venta implica también la nulidad de las cesiones de contratos de arrendamiento. Esta resolución supone una importante victoria para las familias afectadas."
-    type: "sentencia"
-    urls:
-      - "https://fravm.org/noticias/las-familias-afectadas-por-la-venta-del-ivima-se-felicitan-por-la-sentencia-del-supremo-que-reconoce-la-vulneracion-de-su-intimidad/"
+- fecha: '2013-06-06'
+  titulo: Autorización y apertura del procedimiento de venta
+  descripcion: El informe de la Cámara de Cuentas recoge la autorización del Consejo de Gobierno y la aprobación
+    de los pliegos, el expediente y el procedimiento restringido. No es todavía la adjudicación ni la escritura
+    de venta.
+  type: contratación
+  urls:
+  - https://www.camaradecuentasmadrid.org/admin/uploads/definitivo-4.pdf
+- fecha: '2013-08-29'
+  titulo: Adjudicación a Azora Gestión
+  descripcion: 'Resolución 596/SG/2013, rectificada el 11 de octubre: adjudicación de las 32 promociones por 201.000.007
+    euros sin IVA, según los antecedentes del Decreto 85/2025.'
+  type: contratación
+  urls:
+  - https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/23/BOCM-20251023-23.PDF
+- fecha: '2013-09-12'
+  titulo: Constitución de Encasa Cibeles
+  descripcion: El Decreto 85/2025 identifica la escritura pública de constitución de Encasa Cibeles por la adjudicataria
+    Azora. Se distingue de la escritura de transmisión posterior.
+  type: hecho
+  urls:
+  - https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/23/BOCM-20251023-23.PDF
+- fecha: '2013-10-25'
+  titulo: Escritura de transmisión a Encasa Cibeles
+  descripcion: Se formaliza la transmisión de los inmuebles. El precio de la venta no es una cuantificación de perjuicio
+    ni una multa.
+  type: contratación
+  urls:
+  - https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/23/BOCM-20251023-23.PDF
+- fecha: '2015-11-06'
+  titulo: Aprobación del informe de fiscalización
+  descripcion: La Cámara de Cuentas aprueba su informe sobre las enajenaciones de 2012 y 2013. Examina el expediente
+    de las 32 promociones y su registro contable, con una pérdida de inmovilizado de 98.210.380 euros.
+  type: documento
+  urls:
+  - https://www.camaradecuentasmadrid.org/admin/uploads/definitivo-4.pdf
+- fecha: '2018-05-21'
+  titulo: Sentencia de nulidad de la operación
+  descripcion: La sentencia 118/2018 del JCA n.º 29, procedimiento 560/2013, anula la adjudicación y enajenación,
+    según sus antecedentes recogidos en el BOCM de 2025. No impone condenas penales.
+  type: sentencia
+  urls:
+  - https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/23/BOCM-20251023-23.PDF
+- fecha: '2019-01-11'
+  titulo: Se conoce el archivo de la investigación penal
+  descripcion: La noticia de Cadena SER informa del archivo acordado por el Juzgado de Instrucción n.º 48 respecto
+    de los antiguos gestores. Es fecha de publicación, no se mantiene el 31 de enero como fecha del auto.
+  type: noticia
+  urls:
+  - https://cadenaser.com/ser/2019/01/11/tribunales/1547203403_468517.html
+- fecha: '2019-06-05'
+  titulo: Se conoce la confirmación del archivo penal
+  descripcion: El Plural informa del auto de la Audiencia Provincial fechado el 3 de junio, que confirma el archivo
+    y señala que no cabe recurso. Sin original, no se convierte el sobreseimiento en una sentencia absolutoria ni
+    se afirma su naturaleza definitiva.
+  type: noticia
+  urls:
+  - https://www.elplural.com/politica/la-audiencia-provincial-archiva-caso-del-ivima-venta-viviendas-sociales-fondo-buitre_217885102
+- fecha: '2019-07-08'
+  titulo: Sentencia sobre la publicidad de datos de los inquilinos
+  descripcion: La STS 1007/2019 rechaza el recurso de la Comunidad y confirma el criterio sobre la publicación desproporcionada
+    de datos personales en abierto. Es un asunto de protección de datos, distinto del arrendamiento resuelto en
+    2021.
+  type: sentencia
+  urls:
+  - https://www.acalsl.com/wp-content/uploads/2019/07/STS_proteccion_datos_IVIMA_fondos.pdf
+- fecha: '2021-02-01'
+  titulo: Auto sobre el alcance de la ejecución
+  descripcion: El auto 20/2021 declara que la anulación alcanza la totalidad de los inmuebles de las 32 promociones,
+    según relata el Decreto 85/2025. La noticia de Telemadrid es del 3 de febrero.
+  type: auto
+  urls:
+  - https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/23/BOCM-20251023-23.PDF
+- fecha: '2021-02-23'
+  titulo: El Supremo resuelve un litigio de arrendamiento
+  descripcion: La STS civil 95/2021 desestima el recurso de Encasa contra el rechazo de su demanda de resolución
+    por expiración de plazo. Se apoya en la pérdida sobrevenida de legitimación por la nulidad de su título; no
+    trata sobre cesión de datos personales.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/STS%2095-2021%20%28REC%203942-2018%29%20anonimizada.pdf
+- fecha: '2021-06-04'
+  titulo: Límite de ejecución por derechos de terceros de buena fe
+  descripcion: El auto 96/2021 limita la ejecución respecto de las fincas que ya se habían enajenado a terceros
+    de buena fe, según los antecedentes del Decreto 85/2025.
+  type: auto
+  urls:
+  - https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/23/BOCM-20251023-23.PDF
+- fecha: '2022-06-27'
+  titulo: Pago de restitución de prestaciones a Encasa
+  descripcion: El BOCM documenta el abono de 107.722.508,95 euros por la reincorporación de 1.721 viviendas, 224
+    plazas de garaje y 34 locales no transmitidos a terceros. Es restitución de prestaciones, no multa ni daño penal.
+  type: ejecución
+  urls:
+  - https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/23/BOCM-20251023-23.PDF
+- fecha: '2023-03-13'
+  titulo: Abono de intereses de la restitución
+  descripcion: El Decreto 85/2025 documenta el pago de 2.098.375,44 euros, fijados mediante resolución de 20 de
+    enero de 2023. Se separan del principal reintegrado y del precio original.
+  type: ejecución
+  urls:
+  - https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/23/BOCM-20251023-23.PDF
+- fecha: '2025-10-22'
+  titulo: Autorización de una transacción con Encasa
+  descripcion: El Decreto 85/2025 autoriza suscribir un acuerdo para terminar el procedimiento 617/2022 del JCA
+    n.º 7. Se publica el 23 de octubre. La autorización no acredita por sí sola homologación ni pago consumados.
+  type: decreto
+  urls:
+  - https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/23/BOCM-20251023-23.PDF
+- fecha: '2025-12-23'
+  titulo: La Cámara de Cuentas recoge el pago pendiente tras homologación
+  descripcion: El informe de fiscalización de la Cuenta General 2024, aprobado este día, cifra en 1.325.000 euros
+    el abono pendiente tras la homologación y describe la renuncia de Encasa a compensaciones adicionales. No se
+    extrapola ese estado hasta octubre de 2026.
+  type: documento
+  urls:
+  - https://www.comunidad.madrid/transparencia/sites/default/files/open-data/downloads/if-sellado-ctagral2024-aprobadocjo23122025.pdf
 ---
+
+La operación de 2013 afectó a 32 promociones y a 2.935 viviendas, 3.084 garajes, 1.865 trasteros y 45 locales, según el informe de fiscalización. La autorización de junio, la adjudicación de agosto, la constitución de Encasa en septiembre y la escritura de octubre son actos diferentes. Azora fue la adjudicataria y Encasa la sociedad que adquirió los inmuebles; no se confunden sus papeles con la financiación o participación de Goldman Sachs.
+
+La Cámara de Cuentas examinó defectos de justificación, selección y valoración en el expediente. Su informe registra 98.210.380 euros de pérdida de inmovilizado material al dar de baja los bienes. Esa diferencia contable no equivale automáticamente a una venta por debajo del valor de mercado ni a una condena de reintegro por responsabilidad contable. El precio de adjudicación, 201.000.007 euros sin IVA, tampoco es daño. No se agrega ninguna de esas cantidades al coste del caso. La venta municipal de viviendas de la EMVS y sus procedimientos ante el Tribunal de Cuentas son distintos de la operación del IVIMA.
+
+La investigación penal y el control contencioso tuvieron resultados diferentes. En enero de 2019 se conoció el archivo de la causa del Juzgado de Instrucción n.º 48, en la que se había investigado a Ana Gomendio y Juan Van-Halen; en junio se informó de su confirmación por la Audiencia Provincial. La prensa describe falta de acreditación de los delitos y ausencia de perjuicio penal según la tasación practicada. Sin los autos originales no se presenta una absolución tras juicio ni se redefine el tipo exacto de sobreseimiento. La responsabilidad política de Ignacio González o Pablo Cavero tampoco se transforma en una condena individual.
+
+En el orden contencioso, la sentencia 118/2018 anuló la adjudicación y enajenación. La STS civil 95/2021 recoge la confirmación del TSJM de 14 de mayo de 2019 y la inadmisión de la casación de 29 de noviembre de 2019, además de la firmeza del pronunciamiento de nulidad. No se describen esas inadmisiones como nuevas sentencias del Supremo que volvieran a juzgar el fondo. La ejecución posterior fue objeto de autos propios y quedó limitada por los derechos de terceros de buena fe. Por ello, la nulidad de la venta de 2.935 viviendas no significa que las 2.935 hayan regresado al patrimonio público.
+
+El Decreto 85/2025 documenta la reincorporación de 1.721 viviendas y otros inmuebles y el reintegro a Encasa de 107.722.508,95 euros en junio de 2022. Se abonaron además 2.098.375,44 euros de intereses en marzo de 2023. La reclamación posterior de Encasa y sus importes pretendidos no equivalen a cantidades reconocidas por una sentencia: el Consejo de Gobierno autorizó una transacción en octubre de 2025. El informe de la Cuenta General aprobado el 23 de diciembre de 2025 describía un pago de 1.325.000 euros pendiente tras homologación, referido a los costes de preparación de la oferta. No se ha acreditado aquí el auto de homologación o terminación, el pago final o la extinción de todas las controversias al 15 de octubre de 2026.
+
+Las controversias de los arrendatarios tienen también alcance propio. La STS 1007/2019, de 8 de julio, versa sobre la publicación en abierto de datos identificativos durante la licitación, no sobre una simple transferencia de datos al adquirente. La STS civil 95/2021, de 23 de febrero, resuelve en cambio una demanda de resolución de arrendamiento por expiración de plazo. No establece una indemnización general para todas las familias.
+
+En 2026 la sentencia 324/2026 del TSJM, recurso 762/2024, desestimó la reclamación patrimonial de un arrendatario al no acreditar el daño y el nexo causal exigibles, aunque no acogió la prescripción como motivo para rechazar su pretensión. Su fallo admitía casación: no se afirma firmeza ni se extiende su resultado a otros afectados. La ficha CENDOJ señala 16 de abril de 2026, mientras el encabezamiento literal dice 16 de marzo; esa diferencia impide fijar aquí un día inequívoco del acto. Las reclamaciones individuales y sus recursos no prueban por sí solos la reapertura de la causa penal ni alteran la nulidad de la venta.
+
+Fuentes principales: [Cámara de Cuentas 2015](https://www.camaradecuentasmadrid.org/admin/uploads/definitivo-4.pdf), [archivo penal conocido en enero](https://cadenaser.com/ser/2019/01/11/tribunales/1547203403_468517.html), [confirmación del archivo](https://www.elplural.com/politica/la-audiencia-provincial-archiva-caso-del-ivima-venta-viviendas-sociales-fondo-buitre_217885102), [STS de protección de datos](https://www.acalsl.com/wp-content/uploads/2019/07/STS_proteccion_datos_IVIMA_fondos.pdf), [STS civil 95/2021](https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/STS%2095-2021%20%28REC%203942-2018%29%20anonimizada.pdf), [Decreto 85/2025](https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/23/BOCM-20251023-23.PDF), [Cuenta General 2024, aprobada en 2025](https://www.comunidad.madrid/transparencia/sites/default/files/open-data/downloads/if-sellado-ctagral2024-aprobadocjo23122025.pdf), [sentencia individual 324/2026](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ca08707ed204839ea0a8778d75e36f0d&encode=true&databasematch=AN).
