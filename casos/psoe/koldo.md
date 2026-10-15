@@ -25,8 +25,8 @@ descripcion: 'El caso Koldo comprende la investigación de contratos de mascaril
   investigación de otros contratos de mascarillas, la de presuntas comisiones en obra pública y las diligencias
   sobre pagos en efectivo del PSOE. Santos Cerdán está investigado en la de obra pública, sin condena acreditada
   en ella; estuvo en prisión provisional del 30 de junio al 19 de noviembre de 2025, cuando quedó en libertad con
-  medidas cautelares. No se ha corroborado una modificación posterior de esas medidas. El 15 de octubre de 2026
-  Moreno solicitó documentación del caso Leire Díez para investigar sus ingresos, sin que ello fusione ambas causas.
+  medidas cautelares. No se ha corroborado una modificación posterior de esas medidas. El 15 de octubre de 2026 se conoció que
+  Moreno había solicitado documentación del caso Leire Díez para investigar sus ingresos, sin que ello fusione ambas causas.
   Jésica Rodríguez y Joseba García, que no fueron acusados en el juicio del Supremo, pasaron a ser investigados
   en la Audiencia Nacional por las contrataciones en empresas públicas; la Sala confirmó las imputaciones de Rodríguez
   e Ignacio Zaldívar, según la información publicada el 9 de octubre.
@@ -104,8 +104,7 @@ implicados:
   - nombre: Patricia Úriz
     cargo: Expareja de Koldo García
     rol: Incluida en la querella fiscal inicial y en las investigaciones de la Audiencia Nacional. No fue acusada
-      en el juicio del Supremo. Consta su citación como investigada por presunto blanqueo para enero de 2026; no
-      se ha verificado aquí la resolución posterior sobre su situación individual.
+      en el juicio del Supremo. La querella la incluye en las hipótesis de blanqueo; no se ha verificado aquí su situación procesal individual posterior.
   - nombre: Álvaro Sánchez Manzanares
     cargo: Exsecretario general de Puertos del Estado
     rol: 'Investigado en la Audiencia Nacional por presunto tráfico de influencias: declaró en septiembre de 2024
@@ -504,10 +503,10 @@ cronologia:
     urls:
       - https://confilegal.com/20261015-abalos-recurrira-al-constitucional-su-condena-a-24-anos-de-carcel-y-acusa-al-supremo-de-crear-normas/
   - fecha: '2026-10-15'
-    titulo: Moreno pide documentación del caso Leire Díez sobre Cerdán
-    descripcion: El instructor reclama a Pedraz copias de documentos y evidencias para precisar los ingresos de
+    titulo: Se conoce la solicitud de documentación sobre los ingresos de Cerdán
+    descripcion: Europa Press informa este día de que el instructor reclama a Pedraz copias de documentos y evidencias para precisar los ingresos de
       Cerdán en la investigación de presuntas comisiones de obra pública. La solicitud de información entre órganos
-      no fusiona las causas ni declara probadas las hipótesis patrimoniales de la Fiscalía.
+      no fusiona las causas ni declara probadas las hipótesis patrimoniales de la Fiscalía. No se identifica la fecha de publicación con la de la providencia original, que no se ha obtenido.
     type: investigacion
     relevancia: alta
     urls:
