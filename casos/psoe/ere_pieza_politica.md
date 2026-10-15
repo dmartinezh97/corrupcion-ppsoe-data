@@ -1,320 +1,346 @@
 ---
-nombre: "ERE/Pieza Política"
-partido: "PSOE"
-completado: true
+nombre: ERE/Pieza Política
+partido: PSOE
+completado: false
 año: 2000
 fechaInicio: 2000-04-18
-fechaFin: ""
-estado: "pendiente de resolución del TJUE"
-descripcion: |
-  El caso ERE/Pieza Política constituye el núcleo central del mayor escándalo de corrupción de la historia de Andalucía y uno de los más graves de España, tanto por el volumen de dinero defraudado (679,43 millones de euros entre 2000 y 2009) como por el número de implicados (más de 300 investigados). Durante más de una década, los gobiernos socialistas de la Junta de Andalucía, presididos sucesivamente por Manuel Chaves (1990-2009) y José Antonio Griñán (2009-2013), establecieron y mantuvieron un sistema deliberadamente irregular de concesión de ayudas sociolaborales y subvenciones a empresas en crisis que eludía todos los controles administrativos legalmente establecidos. El fraude operaba mediante modificaciones presupuestarias que permitían transferir fondos públicos masivos sin fiscalización previa de la Intervención General, creando lo que se conoció como el "fondo de reptiles" o programa 31L.
+estado: revisión de condenas
+descripcion: 'La pieza del procedimiento específico de los ERE examinó la responsabilidad de veintiún antiguos altos
+  cargos de la Junta de Andalucía en el sistema de presupuestación, concesión y pago de ayudas sociolaborales y
+  a empresas en crisis. No equivale al conjunto de piezas sobre ayudas singulares ni a todos los investigados de
+  la macrocausa. Las sentencias penales apreciaron que las transferencias al IFA/IDEA permitieron prescindir de
+  procedimientos y fiscalización previa exigibles. La cifra cercana a 680 millones de euros corresponde al montante
+  de créditos y ayudas examinado; no se presenta aquí como dinero apropiado personalmente por los acusados ni como
+  una responsabilidad civil global fijada y vigente. El alcance penal de las decisiones presupuestarias fue revisado
+  por el Tribunal Constitucional y sigue siendo objeto de la controversia prejudicial.
 
-  El sistema fraudulento se inició con la modificación presupuestaria del 18 de abril de 2000, aprobada por el Consejo de Gobierno presidido por Manuel Chaves, que estableció la línea presupuestaria 440.01 para "Transferencias al IFA (Instituto de Fomento de Andalucía) en materia de Relaciones Laborales". Esta modificación permitía que los fondos públicos fueran gestionados directamente por el Instituto de Fomento de Andalucía (IFA, posteriormente agencia IDEA) sin pasar por los controles ordinarios de la Intervención General. El director general de Trabajo, Francisco Javier Guerrero, gestionó discrecionalmente hasta 647 millones de euros en ayudas fraudulentas entre 2001 y 2009, concediendo 270 subvenciones a empresas y 617 ayudas sociolaborales sin ningún procedimiento administrativo regular. No se tramitó ni un solo expediente conforme a derecho, las ayudas se concedían sin informes técnicos previos, sin evaluación de la viabilidad de los proyectos, sin seguimiento posterior del destino de los fondos, y en muchos casos a empresas que ya estaban en liquidación o a beneficiarios con conexiones políticas con el PSOE.
 
-  La pieza política del caso ERE, juzgada en 2017-2018, se centró en determinar las responsabilidades de los máximos dirigentes políticos y administrativos de la Junta que diseñaron, aprobaron y mantuvieron este sistema ilegal. Tras 152 sesiones de juicio celebradas entre diciembre de 2017 y diciembre de 2018 en la Audiencia Provincial de Sevilla, el tribunal dictó sentencia el 19 de noviembre de 2019 condenando a 19 de los 21 acusados. Los expresidentes José Antonio Griñán fue condenado a 6 años de prisión y 15 años de inhabilitación por malversación y prevaricación continuada, mientras que Manuel Chaves recibió 9 años de inhabilitación por prevaricación. Entre los demás condenados se encontraban seis exconsejeros (Antonio Fernández, Francisco Vallejo, Carmen Martínez Aguayo, Magdalena Álvarez, Gaspar Zarrías, José Antonio Viera), múltiples viceconsejeros, directores generales, y el cerebro operativo del fraude, Francisco Javier Guerrero (fallecido en 2020). Solo dos acusados fueron absueltos: el exinterventor Manuel Gómez, que había alertado repetidamente de las ilegalidades sin ser escuchado, y el exjefe del gabinete jurídico Francisco del Río.
+  La Audiencia de Sevilla dictó la sentencia 490/2019 el 19 de noviembre de 2019: diecinueve condenados y dos absueltos,
+  Manuel Gómez Martínez y Francisco del Río Muñoz. El Supremo, en la sentencia 749/2022 de 13 de septiembre, cuyo
+  fallo se había anticipado el 26 de julio, confirmó buena parte de las condenas, pero absolvió a Javier Aguado
+  Hinojal, Juan Francisco Sánchez García y Lourdes Medina Varo y redujo la pena de Juan Márquez Contreras a tres
+  años de prisión y siete años y seis meses de inhabilitación absoluta. No fue una confirmación íntegra de todos
+  los resultados de 2019.
 
-  El Tribunal Supremo confirmó la sentencia el 13 de septiembre de 2022 por tres votos contra dos, estableciendo que los condenados "actuaron con conocimiento de las irregularidades y persiguiendo una concreta finalidad cuya ilicitud conocían". Sin embargo, el 16 de julio de 2024, el Tribunal Constitucional anuló parcialmente las condenas en una polémica decisión adoptada por cinco magistrados progresistas frente a cuatro conservadores. El TC ordenó anular íntegramente la condena por malversación de Griñán y reducir sustancialmente las penas por prevaricación, argumentando que los actos presupuestarios gubernamentales (como la aprobación de modificaciones presupuestarias) no podían criminalizarse de manera "imprevisible". Esta decisión provocó la excarcelación de varios condenados que ya habían ingresado en prisión, incluido Miguel Ángel Serrano tras 18 meses de prisión efectiva. El caso simboliza el despilfarro sistemático de fondos públicos del PSOE andaluz durante décadas y contribuyó decisivamente al fin de 37 años de hegemonía socialista en Andalucía tras las elecciones autonómicas de diciembre de 2018.
 
-resumen: "Sistema fraudulento de ayudas sociolaborales sin control que defraudó 679,43 millones de euros entre 2000 y 2009, con condenas a dos expresidentes"
-coste: 679430000
-lugar: "Sevilla, Andalucía"
+  Los amparos de 2024 tuvieron resultados diferentes. Viera y Márquez vieron desestimados sus recursos. Serrano
+  obtuvo la nulidad sin retroacción. En Griñán, Vallejo y Martínez Aguayo se anuló íntegramente la condena por malversación,
+  sin retroacción por ese delito, y se ordenó un nuevo pronunciamiento limitado sobre prevaricación. Rodríguez Román
+  conserva ámbitos susceptibles de nuevo examen por prevaricación y por malversación relativos a modificaciones
+  de 2000 y 2001; Fernández no obtuvo la eliminación de toda su responsabilidad por la gestión de ayudas. Chaves,
+  Magdalena Álvarez, Zarrías y Lozano obtuvieron amparo parcial con retroacción respecto de prevaricación, excluyendo
+  determinados actos presupuestarios pero no todos. Por tanto, no cabe describir los amparos como absolución general
+  ni mantener todas las penas originales como si siguieran intactas.
+
+
+  Por auto 657/2025 de 14 de julio, notificado el 15, la Audiencia planteó cuatro preguntas al TJUE y suspendió
+  la tramitación relativa al cumplimiento de los mandatos del TC para los acusados afectados por la consulta. La
+  prensa de abril de 2026 identifica la petición como C-501/25, Partido Popular de Andalucía; no se ha podido consultar
+  íntegramente el registro europeo por los obstáculos de acceso. En abril de 2026 se conocieron observaciones de
+  la Comisión Europea favorables a que el TJUE se declarase incompetente o considerase inadmisibles las cuestiones.
+  Son alegaciones, no una decisión del TJUE. No se ha verificado una resolución posterior de este tribunal ni los
+  nuevos fallos nacionales; tampoco puede extenderse la suspensión a los absueltos o a todos los condenados. Falta
+  completar la evolución individual de Salgueiro, Barberá y Cañete, la ejecución de penas y los recursos posteriores
+  de cada afectado. La ficha permanece incompleta por esas lagunas; la falta de una resolución localizada no acredita
+  que no exista.'
+resumen: Pieza sobre el sistema de ayudas sociolaborales de la Junta de Andalucía, con condenas y absoluciones en
+  2019 y 2022 y amparos de alcance individual en 2024. La Audiencia planteó en 2025 una cuestión prejudicial antes
+  de dictar nuevos pronunciamientos; no se ha verificado su resolución posterior.
+lugar: Sevilla, Andalucía
 tribunal:
-  - "Audiencia Provincial de Sevilla - Sección Primera"
-  - "Tribunal Supremo - Sala Segunda"
-  - "Tribunal Constitucional"
-  - "Tribunal de Justicia de la Unión Europea (TJUE) - cuestión prejudicial pendiente"
-numeroSentencia: "Sentencia de la Audiencia de Sevilla de 19/11/2019"
+- Audiencia Provincial de Sevilla, Sección Primera
+- Tribunal Supremo, Sala Segunda
+- Tribunal Constitucional
+- Tribunal de Justicia de la Unión Europea (cuestión prejudicial C-501/25)
+numeroSentencia: AP Sevilla 490/2019; TS 749/2022; amparos TC 2024; auto AP 657/2025
 implicados:
-  - nombre: "José Antonio Griñán Martínez"
-    cargo: "Expresidente de la Junta de Andalucía (2009-2013) y exconsejero de Economía y Hacienda (2004-2009) - PSOE"
-    rol: "Condenado en 2019 a 6 años de prisión y 15 años de inhabilitación por malversación y prevaricación. Confirmado por TS en 2022. Anulada condena de prisión por TC en 2024"
-
-  - nombre: "Manuel Chaves González"
-    cargo: "Expresidente de la Junta de Andalucía (1990-2009) - PSOE"
-    rol: "Condenado en 2019 a 9 años de inhabilitación por prevaricación. Confirmado por TS en 2022. Reducción de pena ordenada por TC en 2024"
-
-  - nombre: "Antonio Fernández García"
-    cargo: "Exconsejero de Empleo de la Junta de Andalucía (2004-2010) - PSOE"
-    rol: "Condenado a 7 años, 11 meses y 1 día de prisión y 19 años, 6 meses y 1 día de inhabilitación por prevaricación y malversación"
-
-  - nombre: "Francisco Vallejo Serrano"
-    cargo: "Exconsejero de Innovación, Ciencia y Empresa de la Junta (2004-2009) - PSOE"
-    rol: "Condenado a 7 años y 1 día de prisión y 18 años y 1 día de inhabilitación por prevaricación y malversación"
-
-  - nombre: "Carmen Martínez Aguayo"
-    cargo: "Exconsejera de Economía y Hacienda de la Junta (2009-2010) - PSOE"
-    rol: "Condenada a 6 años y 2 días de prisión por malversación y prevaricación"
-
-  - nombre: "Magdalena Álvarez Arza"
-    cargo: "Exconsejera de Economía y Hacienda de la Junta (1994-2004), posteriormente ministra de Fomento - PSOE"
-    rol: "Condenada a 9 años de inhabilitación por prevaricación"
-
-  - nombre: "Gaspar Zarrías Arévalo"
-    cargo: "Exconsejero de la Presidencia de la Junta (2000-2004) - PSOE"
-    rol: "Condenado a 9 años de inhabilitación por prevaricación"
-
-  - nombre: "José Antonio Viera Chacón"
-    cargo: "Exconsejero de Empleo de la Junta de Andalucía (2000-2004) - PSOE"
-    rol: "Condenado a 7 años y 1 día de prisión por prevaricación y malversación"
-
-  - nombre: "Francisco Javier Guerrero Benítez"
-    cargo: "Director General de Trabajo y Seguridad Social de la Junta (1999-2008)"
-    rol: "Condenado a 7 años, 11 meses y 1 día de prisión y 19 años, 6 meses y 1 día de inhabilitación. Cerebro operativo del fraude. Fallecido en octubre de 2020"
-
-  - nombre: "Juan Márquez Contreras"
-    cargo: "Director General de Trabajo y Seguridad Social de la Junta (2008-2010)"
-    rol: "Condenado a 7 años y 1 día de prisión por prevaricación y malversación"
-
-  - nombre: "Jesús María Rodríguez Román"
-    cargo: "Exviceconsejero de Innovación, Ciencia y Empresa"
-    rol: "Condenado a 6 años y 2 días de prisión por malversación y prevaricación"
-
-  - nombre: "Agustín Barberá Albalat"
-    cargo: "Exviceconsejero de Empleo de la Junta de Andalucía"
-    rol: "Condenado a 7 años y 1 día de prisión por prevaricación y malversación"
-
-  - nombre: "José Salgueiro Carmona"
-    cargo: "Exviceconsejero de Economía y Hacienda"
-    rol: "Condenado a 9 años de inhabilitación por prevaricación"
-
-  - nombre: "Antonio Vicente Lozano"
-    cargo: "Exdirector General de Presupuestos de la Junta"
-    rol: "Condenado a 9 años de inhabilitación por prevaricación"
-
-  - nombre: "Juan Francisco Sánchez García"
-    cargo: "Exsecretario General Técnico de Empleo"
-    rol: "Condenado a 9 años de inhabilitación por prevaricación"
-
-  - nombre: "Javier Aguado Hinojal"
-    cargo: "Exsecretario General Técnico de Innovación"
-    rol: "Condenado a 9 años de inhabilitación por prevaricación, absuelto de malversación"
-
-  - nombre: "Lourdes Medina Varo"
-    cargo: "Exsecretaria General Técnica de Empleo"
-    rol: "Condenada a 8 años, 6 meses y 1 día de inhabilitación, absuelta de malversación"
-
-  - nombre: "Miguel Ángel Serrano Aguilar"
-    cargo: "Exdirector General de la Agencia IDEA"
-    rol: "Condenado a 6 años, 6 meses y 1 día de prisión por malversación. Cumplió 18 meses de prisión efectiva antes de ser excarcelado tras el fallo del TC"
-
-  - nombre: "Jacinto Cañete Rolloso"
-    cargo: "Exdirector General de la Agencia IDEA"
-    rol: "Condenado a 8 años, 6 meses y 1 día de inhabilitación por prevaricación, absuelto de malversación"
-
-  - nombre: "Manuel Gómez Martínez"
-    cargo: "Exinterventor General de la Junta de Andalucía"
-    rol: "Absuelto. Emitió múltiples informes alertando de las ilegalidades del sistema sin ser escuchado"
-
-  - nombre: "Francisco del Río Muñoz"
-    cargo: "Exjefe del Gabinete Jurídico de la Junta"
-    rol: "Absuelto"
-
+- nombre: José Antonio Griñán Martínez
+  cargo: Expresidente de la Junta de Andalucía (2009-2013) y exconsejero de Economía y Hacienda (2004-2009) - PSOE
+  rol: Condenado en 2019 a seis años y dos días de prisión y quince años y dos días de inhabilitación absoluta por
+    prevaricación y malversación. La STC 100/2024, de 16 de julio, anuló íntegramente la condena por malversación
+    sin retroacción y limitó el nuevo pronunciamiento a posible prevaricación por la modificación del programa 32
+    H de 9 de diciembre 2004. No es una absolución global ni una pena nueva ya fijada. Afectado por la controversia
+    prejudicial; nuevo fallo no verificado.
+- nombre: Manuel Chaves González
+  cargo: Expresidente de la Junta de Andalucía (1990-2009) - PSOE
+  rol: Condenado en 2019 a nueve años de inhabilitación por prevaricación. La STC 99/2024 de 16 de julio ordenó
+    nuevo pronunciamiento excluyendo anteproyectos 2002–2009 y ciertas modificaciones 31 L; mantuvo fuera del amparo
+    las modificaciones 22 E de 2000–2001 y 32 H de 9 de diciembre 2004. La pena definitiva resultante no se ha verificado.
+- nombre: Antonio Fernández García
+  cargo: Exconsejero de Empleo de la Junta de Andalucía (2004-2010) - PSOE
+  rol: Condenado en 2019 a siete años, once meses y un día de prisión y diecinueve años, seis meses y un día de
+    inhabilitación. La STC 95/2024, de 3 de julio, anula parcialmente la condena por malversación y ordena nuevo
+    pronunciamiento sobre las modificaciones 22E de 2000–2001 y sus ayudas, y sobre disposición de fondos 31L sin
+    fin público o desviados de él. No anula su condena por prevaricación ni toda la responsabilidad por gestionar
+    ayudas. Falta la nueva individualización de penas y la evolución posterior.
+- nombre: Francisco Vallejo Serrano
+  cargo: Exconsejero de Innovación, Ciencia y Empresa de la Junta (2004-2009) - PSOE
+  rol: 'Condenado en 2019 a siete años y un día de prisión y dieciocho años y un día de inhabilitación absoluta.
+    STC 96/2024 de 3 de julio: nulidad íntegra de malversación sin retroacción y nuevo pronunciamiento solo sobre
+    posible prevaricación por modificación 32 H de 9 de diciembre 2004. No se ha verificado nueva pena.'
+- nombre: Carmen Martínez Aguayo
+  cargo: Viceconsejera de Economía y Hacienda (2004–2009), posteriormente consejera (2009–2013)
+  rol: 'Condenada en 2019 a seis años y dos días de prisión por prevaricación y malversación. STC 98/2024 de 3 de
+    julio: nulidad íntegra de malversación sin retroacción y nuevo pronunciamiento solo sobre posible prevaricación
+    por modificación 32 H de 9 de diciembre 2004. No se ha verificado nueva pena.'
+- nombre: Magdalena Álvarez Arza
+  cargo: Exconsejera de Economía y Hacienda de la Junta (1994-2004), posteriormente ministra de Fomento - PSOE
+  rol: 'Condenada en 2019 a nueve años de inhabilitación por prevaricación. STC 93/2024 de 19 de junio: amparo parcial
+    y retroacción, excluyendo anteproyectos 2002–2004 y modificaciones de 15/21 de octubre 2002; subsiste el ámbito
+    de modificaciones 2000–2001 para el nuevo pronunciamiento. No se ha verificado una pena resultante.'
+- nombre: Gaspar Zarrías Arévalo
+  cargo: Exconsejero de la Presidencia de la Junta (2000-2004) - PSOE
+  rol: 'Condenado en 2019 a nueve años de inhabilitación por prevaricación. STC 102/2024 de 17 de julio: retroacción
+    para posible prevaricación en modificaciones 22 E2000–2001 y 32 H9 de diciembre 2004; excluye actos presupuestarios
+    posteriores amparados. Nuevo fallo no verificado.'
+- nombre: José Antonio Viera Chacón
+  cargo: Exconsejero de Empleo de la Junta de Andalucía (2000-2004) - PSOE
+  rol: Condenado a siete años y un día de prisión y dieciocho años y un día de inhabilitación absoluta por prevaricación
+    y malversación. STC 90/2024 de 17 de junio desestimó su amparo por insuficiente fundamentación de la demanda.
+    No se le traslada el amparo otorgado a otros. La evolución posterior de ejecución o recursos no está plenamente
+    verificada.
+- nombre: Francisco Javier Guerrero Benítez
+  cargo: Director General de Trabajo y Seguridad Social de la Junta (1999-2008)
+  rol: Condenado en 2019 a siete años, once meses y un día de prisión y diecinueve años, seis meses y un día de
+    inhabilitación. Falleció el 11 de octubre 2020, antes de la sentencia de casación; no se presenta como penado
+    actualmente ejecutando condena.
+- nombre: Juan Márquez Contreras
+  cargo: Director General de Trabajo y Seguridad Social de la Junta (2008-2010)
+  rol: El Supremo redujo en 2022 su condena a tres años de prisión y siete años y seis meses de inhabilitación absoluta
+    por prevaricación y malversación, apreciando reparación del daño muy cualificada. STC 101/2024 de 16 de julio
+    desestimó su amparo. No conserva la pena original de siete años ni comparte la anulación concedida a otros.
+- nombre: Jesús María Rodríguez Román
+  cargo: Exviceconsejero de Innovación, Ciencia y Empresa
+  rol: 'Condenado en 2019 a seis años y dos días de prisión por prevaricación y malversación. STC 97/2024 de 3 de
+    julio: nuevo pronunciamiento sobre posible malversación vinculada a modificaciones 22 E2000–2001 y posible prevaricación
+    por estas y 32 H9 de diciembre 2004. No obtuvo anulación íntegra de malversación sin retroacción como otros
+    recurrentes.'
+- nombre: Agustín Barberá Albalat
+  cargo: Exviceconsejero de Empleo de la Junta de Andalucía
+  rol: 'Pena impuesta en 2019: Condenado a 7 años y 1 día de prisión por prevaricación y malversación. Falta completar
+    la documentación individual de amparo, recursos y ejecución posterior; no se le traslada automáticamente el
+    resultado de otros condenados.'
+- nombre: José Salgueiro Carmona
+  cargo: Exviceconsejero de Economía y Hacienda
+  rol: 'Pena impuesta en 2019: Condenado a 9 años de inhabilitación por prevaricación. Falta completar la documentación
+    individual de amparo, recursos y ejecución posterior; no se le traslada automáticamente el resultado de otros
+    condenados.'
+- nombre: Antonio Vicente Lozano Peña
+  cargo: Exdirector General de Presupuestos de la Junta
+  rol: 'Condenado en 2019 a nueve años de inhabilitación por prevaricación. STC 103/2024 de 17 de julio: amparo
+    parcial y nuevo pronunciamiento circunscrito a la modificación 32 H de 9 de diciembre 2004. Se excluyen anteproyectos
+    2003–2009 y modificaciones 31 L. Nueva pena no verificada.'
+- nombre: Juan Francisco Sánchez García
+  cargo: Exsecretario General Técnico de Empleo
+  rol: Condenado en 2019 por prevaricación y absuelto por el Supremo en 2022. No se le atribuye una condena vigente
+    por aquella sentencia.
+- nombre: Javier Aguado Hinojal
+  cargo: Exsecretario General Técnico de Innovación
+  rol: Condenado en 2019 por prevaricación, absuelto entonces de malversación y absuelto por el Supremo de prevaricación
+    en 2022.
+- nombre: Lourdes Medina Varo
+  cargo: Exsecretaria General Técnica de Empleo
+  rol: Condenada en 2019 por prevaricación y absuelta entonces de malversación. El Supremo la absolvió también de
+    prevaricación en 2022.
+- nombre: Miguel Ángel Serrano Aguilar
+  cargo: Exdirector General de la Agencia IDEA
+  rol: Condenado en 2019 a seis años, seis meses y un día de prisión. La STC 94/2024 de 2 de julio anuló sus condenas
+    por vulneración de legalidad penal y presunción de inocencia, sin ordenar retroacción. No se confunde con la
+    situación de quienes requieren una nueva sentencia.
+- nombre: Jacinto Cañete Rolloso
+  cargo: Exdirector General de la Agencia IDEA
+  rol: 'Pena impuesta en 2019: Condenado a 8 años, 6 meses y 1 día de inhabilitación por prevaricación, absuelto
+    de malversación. Falta completar la documentación individual de amparo, recursos y ejecución posterior; no se
+    le traslada automáticamente el resultado de otros condenados.'
+- nombre: Manuel Gómez Martínez
+  cargo: Exinterventor General de la Junta de Andalucía
+  rol: Absuelto. Emitió múltiples informes alertando de las ilegalidades del sistema sin ser escuchado
+- nombre: Francisco del Río Muñoz
+  cargo: Exjefe del Gabinete Jurídico de la Junta
+  rol: Absuelto
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "ERE fraudulentos"
-  - "Junta de Andalucía"
-  - "fondo de reptiles"
-  - "ayudas sociolaborales"
-  - "Tribunal Constitucional"
-
-impactoSocial: "El caso ERE/Pieza Política representa el mayor escándalo de corrupción en la historia de Andalucía y uno de los más graves de España. El fraude sistemático de 679,43 millones de euros durante más de una década provocó el descrédito total del PSOE andaluz y puso fin a 37 años de hegemonía socialista ininterrumpida en la comunidad autónoma tras las elecciones de diciembre de 2018, en las que el partido sufrió su peor resultado histórico. La sentencia de 2019 tuvo un impacto político devastador, pero la polémica anulación parcial del Tribunal Constitucional en 2024 generó una profunda división en la opinión pública y reavivó el debate sobre la politización de la justicia. El caso simboliza el clientelismo político, el despilfarro de fondos públicos y la impunidad de las élites políticas."
-
-documentos: []
-
+- corrupción
+- malversación
+- prevaricación
+- ERE fraudulentos
+- Junta de Andalucía
+- fondo de reptiles
+- ayudas sociolaborales
+- Tribunal Constitucional
+impactoSocial: La causa afectó a antiguos presidentes y altos cargos de la Junta y abrió un debate sobre el control
+  de las subvenciones y la responsabilidad penal por decisiones presupuestarias. Los amparos constitucionales y
+  la cuestión prejudicial muestran una controversia jurídica sobre legalidad penal, presunción de inocencia y Derecho
+  de la Unión. No se atribuye a una sola causa el resultado de las elecciones andaluzas ni se presenta todo el presupuesto
+  de ayudas como enriquecimiento personal.
+documentos:
+- fecha: '2022-09-13'
+  titulo: 'STS 749/2022:pieza específica ERE: casación y segunda sentencia'
+  filetype: pdf
+  paginas: 460
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=bafd7d40e60d0532a0a8778d75e36f0d&encode=true&databasematch=TS
+- fecha: '2024-06-19'
+  titulo: 'STC 93/2024: Magdalena Álvarez, amparo parcial'
+  filetype: pdf
+  paginas: 79
+  nombre_fichero: https://www.boe.es/boe/dias/2024/07/25/pdfs/BOE-A-2024-15428.pdf
+- fecha: '2024-07-16'
+  titulo: 'STC 99/2024: Manuel Chaves, amparo parcial'
+  filetype: pdf
+  paginas: 78
+  nombre_fichero: https://www.boe.es/boe/dias/2024/08/28/pdfs/BOE-A-2024-17480.pdf
+- fecha: '2024-07-16'
+  titulo: 'STC 100/2024: José Antonio Griñán, amparo parcial'
+  filetype: pdf
+  paginas: 134
+  nombre_fichero: https://www.boe.es/boe/dias/2024/08/28/pdfs/BOE-A-2024-17481.pdf
+- fecha: '2025-07-14'
+  titulo: 'Auto 657/2025, AAP SE 335/2025: cuestión prejudicial'
+  filetype: pdf
+  paginas: 25
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=97cd9fb12a6aaac7a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2000-04-18"
-    titulo: "Primera modificación presupuestaria que inicia el sistema fraudulento"
-    descripcion: "El Consejo de Gobierno de la Junta de Andalucía, presidido por Manuel Chaves, aprueba la primera modificación presupuestaria que establece la línea 440.01 para 'Transferencias al IFA en materia de Relaciones Laborales'. Esta modificación marca el nacimiento del sistema irregular que durante una década permitiría transferir cientos de millones de euros sin control previo de la Intervención General. La modificación presupuestaria fue diseñada deliberadamente para eludir los controles administrativos ordinarios establecidos en la normativa de subvenciones."
-    type: "documento"
-    urls: []
-
-  - fecha: "2000-07-28"
-    titulo: "Segunda modificación presupuestaria del programa 31L"
-    descripcion: "Se aprueba una nueva modificación presupuestaria que amplía los fondos destinados al programa 31L, conocido posteriormente como el 'fondo de reptiles'. La modificación permite aumentar las transferencias discrecionales al IFA para la concesión de ayudas sociolaborales sin procedimiento administrativo reglado."
-    type: "documento"
-    urls: []
-
-  - fecha: "2001-05-29"
-    titulo: "Tercera modificación presupuestaria"
-    descripcion: "Nueva modificación presupuestaria que incrementa los fondos disponibles en el programa 31L para ayudas a empresas en crisis. Durante 2001 se consolida el sistema fraudulento bajo la dirección operativa de Francisco Javier Guerrero como director general de Trabajo."
-    type: "documento"
-    urls: []
-
-  - fecha: "2001-07-01"
-    titulo: "Transferencia de la gestión de ayudas al IFA/IDEA"
-    descripcion: "La Junta de Andalucía decide que los millones de euros del programa 31L serán gestionados por una entidad externa: el Instituto de Fomento de Andalucía (IFA), posteriormente denominado agencia IDEA. En la práctica, esto significaba que el interventor general de la Junta no tendría ningún control sobre ese dinero, razón por la cual estos procedimientos fueron calificados en el juicio como opacos y discrecionales. Este mecanismo permitía a Francisco Javier Guerrero gestionar libremente los fondos públicos."
-    type: "investigación"
-    urls: []
-
-  - fecha: "2001-09-18"
-    titulo: "Cuarta modificación presupuestaria"
-    descripcion: "Se aprueba una nueva modificación del presupuesto para ampliar los fondos del programa 31L. El sistema fraudulento ya está plenamente consolidado y funciona con normalidad administrativa aparente, pero sin ningún tipo de control efectivo."
-    type: "documento"
-    urls: []
-
-  - fecha: "2001-11-13"
-    titulo: "Quinta modificación presupuestaria del ejercicio 2001"
-    descripcion: "Nueva modificación presupuestaria que incrementa los créditos disponibles para ayudas sociolaborales. Durante el año 2001 se realizan múltiples modificaciones presupuestarias que consolidan el sistema fraudulento de concesión de ayudas sin control."
-    type: "documento"
-    urls: []
-
-  - fecha: "2009-01-01"
-    titulo: "José Antonio Griñán sustituye a Manuel Chaves como presidente"
-    descripcion: "José Antonio Griñán sustituye a Manuel Chaves como presidente de la Junta de Andalucía en abril de 2009, después de que Chaves fuera nombrado tercer vicepresidente del Gobierno de José Luis Rodríguez Zapatero. Griñán había sido consejero de Economía y Hacienda desde 2004, cargo desde el que había aprobado las modificaciones presupuestarias que financiaban el sistema fraudulento. Continúa el sistema de ayudas irregulares hasta su detección en 2010."
-    type: "resumen"
-    urls: []
-
-  - fecha: "2010-12-01"
-    titulo: "Primeras denuncias públicas de irregularidades en ERE"
-    descripcion: "Comienzan a aparecer las primeras informaciones periodísticas sobre irregularidades en la concesión de ayudas sociolaborales y ERE fraudulentos en empresas públicas andaluzas, especialmente en Mercasevilla. Las informaciones señalan que se han concedido prejubilaciones millonarias a trabajadores con conexiones políticas sin que las empresas reunieran los requisitos legales."
-    type: "investigación"
-    urls: []
-
-  - fecha: "2011-01-19"
-    titulo: "La jueza Mercedes Alaya abre la investigación del macrocaso ERE"
-    descripcion: "La magistrada del Juzgado de Instrucción número 6 de Sevilla, Mercedes Alaya, abre las Diligencias Previas 174/2011 que darían lugar al macrocaso de los ERE fraudulentos tras detectarse irregularidades en los expedientes de regulación de empleo tramitados en la empresa pública Mercasevilla. La investigación inicial se centra en prestaciones indebidas a falsos prejubilados, pero pronto se extendería a todo el sistema de ayudas sociolaborales de la Junta. El exdirector general Javier Guerrero declaró en un interrogatorio que tenía un 'fondo de reptiles' para empresas en crisis, frase que impulsó la investigación de la jueza Alaya."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/andalucia/jueza-alaya-fallo-supremo-cronologia-trece-anos-caso-ere_1_9179641.html"
-
-  - fecha: "2011-02-01"
-    titulo: "Primera imputación de altos cargos de la Junta"
-    descripcion: "La jueza Mercedes Alaya comienza a imputar a los primeros altos cargos de la Junta de Andalucía responsables de la concesión de ayudas irregulares. Las primeras imputaciones se centran en funcionarios y directores generales, pero posteriormente alcanzarían a consejeros, viceconsejeros y finalmente a los expresidentes Manuel Chaves y José Antonio Griñán."
-    type: "investigación"
-    urls: []
-
-  - fecha: "2012-07-24"
-    titulo: "Imputación de Francisco Javier Guerrero, cerebro de la trama"
-    descripcion: "La jueza Mercedes Alaya imputa a Francisco Javier Guerrero, exdirector general de Trabajo de la Junta entre 1999 y 2008, como cerebro operativo de la trama de los ERE fraudulentos. Guerrero gestionó discrecionalmente hasta 647 millones de euros en ayudas sin ningún control, concediendo 270 subvenciones a empresas y 617 ayudas sociolaborales sin procedimiento administrativo regular. Su imputación marca un punto de inflexión en el caso al evidenciarse que el fraude no era obra de funcionarios deshonestos aislados, sino un sistema organizado desde la cúpula política."
-    type: "investigación"
-    urls: []
-
-  - fecha: "2013-04-26"
-    titulo: "Imputación de Manuel Chaves y José Antonio Griñán"
-    descripcion: "La jueza Mercedes Alaya imputa a los expresidentes de la Junta de Andalucía Manuel Chaves y José Antonio Griñán por su responsabilidad en el diseño, aprobación y mantenimiento del sistema fraudulento de ayudas sociolaborales. La imputación de los dos máximos dirigentes socialistas andaluces convierte el caso ERE en el escándalo de corrupción más grave de la historia de Andalucía y uno de los mayores de España. Griñán había dimitido como presidente en septiembre de 2013 tras el estallido del escándalo."
-    type: "investigación"
-    urls: []
-
-  - fecha: "2015-06-01"
-    titulo: "La jueza Mercedes Alaya abandona la instrucción del caso"
-    descripcion: "La magistrada Mercedes Alaya deja el Juzgado de Instrucción número 6 de Sevilla tras obtener una plaza en la Audiencia Provincial de Sevilla. Alaya había dirigido la instrucción del macrocaso ERE durante más de cuatro años en un trabajo meticuloso que permitió destapar la red de ERE fraudulentos, pero que también fue muy controvertido y objeto de múltiples críticas por parte del PSOE. Le sucede en la instrucción la magistrada María Núñez Bolaños."
-    type: "resumen"
-    urls: []
-
-  - fecha: "2017-12-13"
-    titulo: "Comienza el juicio de la pieza política del caso ERE"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Sevilla inicia el juicio oral de la pieza política del caso ERE contra 21 acusados, entre ellos los expresidentes Manuel Chaves y José Antonio Griñán, seis exconsejeros, varios viceconsejeros y directores generales, y el cerebro operativo Francisco Javier Guerrero. El tribunal está presidido por el magistrado Juan Antonio Calle Peña y completado por las magistradas Pilar Llorente y Encarnación Gómez. El juicio se extenderá durante un año con 152 sesiones y se convertirá en uno de los juicios por corrupción más largos y complejos de la historia de España."
-    type: "investigación"
-    urls: []
-
-  - fecha: "2018-12-17"
-    titulo: "Fin del juicio oral tras 152 sesiones"
-    descripcion: "Tras 152 sesiones celebradas a lo largo de un año, el juicio de la pieza política del caso ERE finaliza con las conclusiones definitivas de las acusaciones y las defensas. El tribunal queda el caso visto para sentencia. La fiscalía solicita penas de hasta 10 años de prisión para Griñán y 9 años de inhabilitación para Chaves, mientras que las defensas reclaman la absolución argumentando que las decisiones políticas y presupuestarias no pueden ser objeto de criminalización."
-    type: "investigación"
-    urls: []
-
-  - fecha: "2019-11-19"
-    titulo: "Sentencia de la Audiencia de Sevilla: condena a 19 de 21 acusados"
-    descripcion: "La Audiencia Provincial de Sevilla dicta sentencia condenando a 19 de los 21 acusados en la pieza política del caso ERE. José Antonio Griñán es condenado a 6 años de prisión y 15 años de inhabilitación absoluta por malversación de caudales públicos y prevaricación continuada. Manuel Chaves es condenado a 9 años de inhabilitación por prevaricación. También son condenados los exconsejeros Antonio Fernández (7 años y 11 meses de prisión), Francisco Vallejo (7 años de prisión), Carmen Martínez Aguayo (6 años de prisión), Magdalena Álvarez (9 años de inhabilitación), Gaspar Zarrías (9 años de inhabilitación), José Antonio Viera (7 años de prisión), el exdirector general Francisco Javier Guerrero (7 años y 11 meses de prisión), y otros diez altos cargos. Solo son absueltos el exinterventor Manuel Gómez Martínez, que había alertado de las ilegalidades, y el exjefe del gabinete jurídico Francisco del Río. La sentencia tiene 14.276 folios distribuidos en 38 tomos y establece que el sistema de ayudas fue diseñado deliberadamente para eludir los controles administrativos."
-    type: "sentencia"
-    urls:
-      - "https://www.libertaddigital.com/espana/2019-11-19/sentencia-ere-grinan-chaves-corrupcion-socialista-1276648203/"
-
-  - fecha: "2020-10-12"
-    titulo: "Fallece Francisco Javier Guerrero, cerebro operativo del fraude"
-    descripcion: "Francisco Javier Guerrero, exdirector general de Trabajo entre 1999 y 2008 y cerebro operativo de la trama de los ERE fraudulentos, fallece de un infarto en su domicilio de Sevilla a los 67 años. Guerrero había sido condenado a 7 años, 11 meses y 1 día de prisión y 19 años, 6 meses y 1 día de inhabilitación absoluta. Su muerte provocó la extinción de su responsabilidad penal en decenas de piezas separadas del caso ERE en las que estaba siendo investigado o juzgado. Guerrero era considerado la pieza clave del sistema fraudulento al haber gestionado discrecionalmente 647 millones de euros sin ningún tipo de control."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/andalucia/muere-francisco-javier-guerrero-principal-imputado-en-el-caso-de-los-ere_1_6285008.html"
-
-  - fecha: "2022-07-26"
-    titulo: "El Tribunal Supremo confirma las condenas por tres votos contra dos"
-    descripcion: "La Sala Segunda del Tribunal Supremo confirma la sentencia de la Audiencia Provincial de Sevilla del 19 de noviembre de 2019 por tres votos contra dos. El TS ratifica la condena de 6 años de prisión y 15 años de inhabilitación para José Antonio Griñán por malversación y prevaricación, y la condena de 9 años de inhabilitación para Manuel Chaves por prevaricación. El tribunal establece que los condenados 'actuaron con conocimiento de las irregularidades y persiguiendo una concreta finalidad cuya ilicitud conocían'. Dos magistrados del Supremo emiten votos particulares discrepantes oponiéndose a la sentencia mayoritaria. La confirmación judicial convierte la sentencia en firme y obliga a Griñán a ingresar en prisión."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/andalucia/sentencia-supremo-confirma-condenas-ere-andalucia-actuaron-conocimiento-irregularidades_1_9314597.html"
-      - "https://www.libertaddigital.com/andalucia/2022-07-26/caso-ere-andalucia-tribunal-supremo-confirma-carcel-jose-antonio-grinan-inhabilitacion-manuel-chaves-6918947/amp.html"
-
-  - fecha: "2022-12-22"
-    titulo: "Griñán recibe orden de ingreso voluntario en prisión"
-    descripcion: "La Audiencia Provincial de Sevilla desestima el recurso de José Antonio Griñán y le ordena ingresar voluntariamente en prisión en el plazo de diez días, con vencimiento el 1 de enero de 2023. La decisión judicial confirma que no existen circunstancias que aconsejen suspender la ejecución de la pena por la tramitación de una solicitud de indulto. Griñán tiene 76 años y está diagnosticado con cáncer de próstata."
-    type: "sentencia"
-    urls:
-      - "https://www.libertaddigital.com/andalucia/2022-12-22/grinan-comenzara-2023-en-la-carcel-la-audiencia-desestima-su-recurso-y-da-diez-dias-mas-de-plazo-para-su-ingreso-6970125/"
-
-  - fecha: "2023-01-02"
-    titulo: "Ingreso en prisión de seis exaltos cargos condenados por los ERE"
-    descripcion: "El 28 de diciembre de 2022 ingresa en la cárcel de Alcalá de Guadaíra la exconsejera Carmen Martínez Aguayo, la primera de los condenados a prisión efectiva que cumple la orden judicial. El 1 de enero de 2023 ingresa en Sevilla I el exconsejero Antonio Fernández. El 2 de enero, fecha límite del plazo concedido, ingresan también José Antonio Viera, Francisco Vallejo, Jesús María Rodríguez Román y Miguel Ángel Serrano. En total ingresan seis exaltos cargos condenados a prisión por malversación. Quedan fuera inicialmente José Antonio Griñán, cuya entrada queda pendiente de informe médico por su cáncer, el exviceconsejero Agustín Barberá por razones de salud similares, y Juan Márquez, pendiente de resolución de recursos."
-    type: "resumen"
-    urls:
-      - "https://theobjective.com/espana/2023-01-02/prision-condenados-ere-andalucia/"
-      - "https://www.elespanol.com/espana/andalucia/20230103/entrada-prision-expoliticos-ere-marca-psoe-andaluz/729677198_0.html"
-
-  - fecha: "2023-01-13"
-    titulo: "La Audiencia aplaza el ingreso en prisión de Griñán hasta que finalice la radioterapia"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Sevilla acuerda aplazar el ingreso en prisión de José Antonio Griñán hasta que concluya las sesiones de radioterapia que debe recibir por el cáncer de próstata que le fue diagnosticado en diciembre de 2022. El tribunal argumenta que el informe médico forense desprendía 'con claridad la no conveniencia del ingreso del penado en el centro penitenciario'. Una vez finalizado el tratamiento, Griñán debería comunicarlo a la Sala para que se emitiera un nuevo informe y se decidiera si ingresaba en la cárcel o se suspendía definitivamente la pena."
-    type: "resumen"
-    urls:
-      - "https://www.elindependiente.com/espana/2023/01/13/la-audiencia-aplaza-el-ingreso-en-prision-de-grinan-hasta-que-acabe-las-sesiones-de-radioterapia/"
-
-  - fecha: "2023-06-26"
-    titulo: "Suspensión de la pena de prisión de Griñán por enfermedad grave"
-    descripcion: "La Audiencia Provincial de Sevilla acuerda suspender durante cinco años la ejecución de la pena de 6 años de prisión de José Antonio Griñán, al amparo del artículo 80.4 del Código Penal, que permite suspender cualquier pena cuando el penado padece 'una enfermedad muy grave con padecimientos incurables'. El Instituto de Medicina Legal había concluido que el expresidente sufría un cáncer de próstata en esas condiciones. La suspensión de cinco años cubre el tiempo hasta que se resolvieran los recursos pendientes ante el Tribunal Constitucional. La decisión genera polémica al considerarse que se aplican criterios distintos para políticos condenados que para ciudadanos comunes."
-    type: "resumen"
-    urls:
-      - "https://www.elespanol.com/espana/andalucia/20230626/grinan-libra-carcel-ere-audiencia-suspende-ejecucion-pena-cancer/774422770_0.html"
-
-  - fecha: "2024-04-15"
-    titulo: "La Audiencia de Sevilla envía las solicitudes de indulto al Ministerio"
-    descripcion: "La Audiencia Provincial de Sevilla remite al Ministerio de Justicia las solicitudes de indulto presentadas por José Antonio Griñán y otros siete condenados en la pieza política del caso ERE. El Gobierno de la Junta de Andalucía, presidido por el popular Juanma Moreno, se opone frontalmente a la concesión de indultos, especialmente para condenados por corrupción que no han devuelto el dinero defraudado ni han mostrado arrepentimiento."
-    type: "resumen"
-    urls:
-      - "https://theobjective.com/espana/tribunales/2024-04-15/audiencia-sevilla-indultos-grinan-ere/"
-
-  - fecha: "2024-07-16"
-    titulo: "El Tribunal Constitucional anula parcialmente las condenas"
-    descripcion: "El Pleno del Tribunal Constitucional anula parcialmente las condenas de José Antonio Griñán, Manuel Chaves y otros condenados en la pieza política del caso ERE en una polémica decisión adoptada por cinco magistrados progresistas frente a cuatro conservadores. El TC ordena anular íntegramente la condena de 6 años de prisión por malversación de Griñán y ordena a la Audiencia de Sevilla dictar una nueva sentencia que reduzca sustancialmente las penas por prevaricación tanto de Griñán (15 años de inhabilitación) como de Chaves (9 años de inhabilitación). El TC argumenta que los actos presupuestarios gubernamentales (como la aprobación de modificaciones presupuestarias del Consejo de Gobierno) constituyeron decisiones políticas que no podían criminalizarse de manera 'imprevisible', y que no puede trasladarse automáticamente la responsabilidad penal desde quienes gestionaban directamente las ayudas a quienes meramente aprobaban las consignaciones presupuestarias. La decisión genera una profunda división en la opinión pública y reaviva el debate sobre la politización del Tribunal Constitucional."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/andalucia/constitucional-ordena-rebajar-condena-inhabilitacion-expresidente-chaves-ere-andalucia_1_11525694.html"
-
-  - fecha: "2024-07-18"
-    titulo: "Excarcelación de Miguel Ángel Serrano tras 18 meses de prisión"
-    descripcion: "Tras la decisión del Tribunal Constitucional, el exdirector general de IDEA Miguel Ángel Serrano es excarcelado después de haber cumplido 18 meses de prisión efectiva de su condena de 6 años, 6 meses y 1 día. La excarcelación de Serrano y de otros condenados que ya habían ingresado en prisión genera gran indignación en amplios sectores de la sociedad que consideran que se establece un sistema de impunidad para políticos condenados por corrupción."
-    type: "resumen"
-    urls: []
-
-  - fecha: "2024-11-07"
-    titulo: "La Audiencia de Sevilla constituye un tribunal ampliado de cinco magistrados para dictar la nueva sentencia"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Sevilla acuerda constituir un tribunal ampliado de cinco magistrados para elaborar la nueva sentencia que el Tribunal Constitucional le ordenó dictar en julio de 2024 en relación con Manuel Chaves y José Antonio Griñán. El tribunal estará integrado por las magistradas María del Pilar Llorente (ponente) y Encarnación Gómez, que ya formaron parte del tribunal de la sentencia original de 2019, y tres nuevos magistrados: Francisco de Asís Molina Crespo, Juan Jesús García Vélez y Patricia Fernández Franco. Este tribunal no podrá condenar a los acusados por prevaricación, delito del que fueron exonerados por el TC."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/andalucia/audiencia-sevilla-encarga-nueva-sentencia-ere-juezas-primer-fallo-tres-nuevos-magistrados_1_11799005.html"
-      - "https://www.eldebate.com/espana/andalucia/sevilla/20241107/cinco-magistrados-audiencia-sevilla-dictaran-nueva-sentencia-contra-chaves-grinan-ere_242734.html"
-
-  - fecha: "2025-07-14"
-    titulo: "La Audiencia de Sevilla eleva el caso al TJUE cuestionando la doctrina del Tribunal Constitucional"
-    descripcion: "En un movimiento sin precedentes en la historia judicial española, la Sección Primera de la Audiencia Provincial de Sevilla acuerda plantear una cuestión prejudicial ante el Tribunal de Justicia de la Unión Europea (TJUE) para cuestionar la doctrina establecida por el Tribunal Constitucional en sus sentencias sobre el caso ERE. El auto, fechado el 14 de julio, plantea cuatro cuestiones: si el TC puede reinterpretar tipos penales de prevaricación y malversación sin vulnerar la separación de poderes; si es compatible con el Derecho europeo interpretar que la actividad presupuestaria está fuera del control judicial; si esa práctica contraviene las obligaciones europeas contra la corrupción; y si un tribunal nacional puede dejar inaplicadas sentencias del TC cuando se opongan al Derecho de la UE y conduzcan a impunidad. La Audiencia señala que el TC pudo haber 'suplantado' funciones propias del Tribunal Supremo y que seguir su doctrina generaría un 'riesgo sistémico de impunidad'. Como consecuencia directa, la Audiencia suspende la ejecución de las sentencias del Constitucional y paraliza la tramitación de la nueva sentencia pendiente."
-    type: "investigación"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-acuerda-plantear-una-cuestion-prejudicial-ante-el-TJUE-tras-las-sentencias-del-Tribunal-Constitucional-sobre-el-caso-ERE"
-      - "https://es.euronews.com/2025/07/15/la-audiencia-de-sevilla-lleva-al-tjue-el-fallo-del-constitucional-sobre-los-ere"
-
-  - fecha: "2025-09-19"
-    titulo: "La Audiencia consulta a las partes sobre la continuación del procedimiento prejudicial ante el TJUE"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Sevilla pregunta a las partes personadas en el procedimiento si desean continuar en el proceso de la cuestión prejudicial planteada ante el Tribunal de Justicia de la Unión Europea. La cuestión prejudicial, cuya resolución por el TJUE podría tardar años, mantiene en suspenso la ejecución de las sentencias del Tribunal Constitucional que ordenaban anular la condena de prisión de Griñán y reducir las inhabilitaciones de Chaves y otros condenados."
-    type: "investigación"
-    urls:
-      - "https://www.infobae.com/espana/agencias/2025/09/19/audiencia-de-sevilla-pregunta-a-las-partes-si-siguen-en-el-procedimiento-de-la-cuestion-prejudicial-al-tjue-por-los-ere/"
-
-  - fecha: "2026-04-20"
-    titulo: "La Comisión Europea pide al TJUE que se declare incompetente"
-    descripcion: "La Comisión Europea presenta su escrito de observaciones ante el TJUE y solicita la inadmisión de la cuestión prejudicial planteada por la Audiencia de Sevilla al considerar que el Tribunal de Justicia es 'manifiestamente incompetente': no existe vínculo con el Derecho de la Unión ni con el presupuesto comunitario, ya que las ayudas procedían del presupuesto andaluz. La Fiscalía General del Estado y el Reino de España coinciden en pedir el rechazo y niegan que el Tribunal Constitucional se extralimitara al amparar a los condenados. El TJUE deberá pronunciarse sobre su propia competencia, aún sin fecha, antes de dictar la resolución pendiente en la Audiencia de Sevilla."
-    type: "documento"
-    relevancia: "media"
-    urls:
-      - "https://www.elmundo.es/andalucia/2026/04/20/69e5ccbfe4d4d8db3e8b4582.html"
-      - "https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/fiscalia-estado-espanol-coinciden-tjue-rechace-caso-ere_0_2006538488.html"
+- fecha: '2000-04-18'
+  titulo: Modificación presupuestaria examinada en la causa
+  descripcion: 'Primera de las modificaciones de 2000 consideradas en las sentencias. El TC no excluyó todo este
+    período del examen penal: su alcance varía por persona y programa.'
+  type: documento
+  relevancia: alta
+  urls:
+  - https://www.boe.es/boe/dias/2024/07/25/pdfs/BOE-A-2024-15428.pdf
+- fecha: '2017-12-13'
+  titulo: Inicio del juicio de la pieza específica
+  descripcion: Comienza el juicio de veintiún acusados, distinto de las piezas sobre ayudas individuales.
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://www.libertaddigital.com/espana/2019-11-19/sentencia-ere-grinan-chaves-corrupcion-socialista-1276648203/
+- fecha: '2018-12-17'
+  titulo: Finaliza el juicio
+  descripcion: La vista concluye tras 152 sesiones; no es la fecha de la sentencia.
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://www.libertaddigital.com/espana/2019-11-19/sentencia-ere-grinan-chaves-corrupcion-socialista-1276648203/
+- fecha: '2019-11-19'
+  titulo: Sentencia 490/2019 de la Audiencia de Sevilla
+  descripcion: Diecinueve condenados y dos absueltos; resultados posteriormente modificados por casación y amparo.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.libertaddigital.com/espana/2019-11-19/sentencia-ere-grinan-chaves-corrupcion-socialista-1276648203/
+  - https://hj.tribunalconstitucional.es/es/Resolucion/Show/31223
+- fecha: '2020-10-11'
+  titulo: Fallece Francisco Javier Guerrero
+  descripcion: Su fallecimiento precede a la resolución de casación. No se le atribuye una situación penitenciaria
+    actual.
+  type: resumen
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/andalucia/muere-francisco-javier-guerrero-principal-imputado-en-el-caso-de-los-ere_1_6285008.html
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=bafd7d40e60d0532a0a8778d75e36f0d&encode=true&databasematch=TS
+- fecha: '2022-07-26'
+  titulo: Se anticipa el fallo de casación
+  descripcion: El Supremo comunica el resultado antes de notificar la sentencia escrita fechada 13 de septiembre.
+    Incluye tres absoluciones y rebaja de Márquez; no es confirmación íntegra.
+  type: resumen
+  relevancia: alta
+  urls:
+  - https://hj.tribunalconstitucional.es/es/Resolucion/Show/30216
+- fecha: '2022-09-13'
+  titulo: Sentencia 749/2022 y segunda sentencia
+  descripcion: Absoluciones de Aguado, Sánchez y Medina, reducción de Márquez a 3 años y 7 años 6 meses de inhabilitación
+    absoluta; mantiene otros pronunciamientos. La difusión del texto completo tuvo lugar el 14 de septiembre.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=bafd7d40e60d0532a0a8778d75e36f0d&encode=true&databasematch=TS
+  - https://www.eldiario.es/andalucia/sentencia-supremo-confirma-condenas-ere-andalucia-actuaron-conocimiento-irregularidades_1_9314597.html
+- fecha: '2024-06-17'
+  titulo: Se desestima el amparo de Viera
+  descripcion: 'STC 90/2024: demanda sin fundamentación suficiente. No se le extiende la estimación de otros recursos.'
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://hj.tribunalconstitucional.es/es/Resolucion/Show/30204
+- fecha: '2024-06-19'
+  titulo: Amparo parcial de Magdalena Álvarez
+  descripcion: 'STC 93/2024: nulidad y retroacción con exclusión de determinadas conductas. No absuelve de todas
+    las modificaciones presupuestarias.'
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.boe.es/boe/dias/2024/07/25/pdfs/BOE-A-2024-15428.pdf
+- fecha: '2024-07-02'
+  titulo: Nulidad de la condena de Serrano sin retroacción
+  descripcion: 'STC 94/2024: vulneraciones de legalidad penal y presunción de inocencia; su fallo no ordena nueva
+    sentencia.'
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://hj.tribunalconstitucional.es/es/Resolucion/Show/30212
+- fecha: '2024-07-03'
+  titulo: Amparos de Fernández, Vallejo, Rodríguez Román y Martínez Aguayo
+  descripcion: 'SSTC 95–98/2024: alcances distintos por delito. Vallejo y Aguayo obtienen nulidad íntegra de malversación;
+    Rodríguez Román mantiene ámbitos de nuevo examen por ambos delitos; Fernández requiere revisión limitada.'
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://hj.tribunalconstitucional.es/es/Resolucion/Show/30213
+  - https://hj.tribunalconstitucional.es/es/Resolucion/Show/30215
+  - https://hj.tribunalconstitucional.es/es/Resolucion/Show/30214
+  - https://hj.tribunalconstitucional.es/es/Resolucion/Show/30216
+- fecha: '2024-07-16'
+  titulo: Amparos de Chaves y Griñán ydesestimación de Márquez
+  descripcion: 'SSTC 99/100/101: Chaves y Griñán requieren nuevos pronunciamientos delimitados; malversación de
+    Griñán anulada sin retroacción. Márquez no obtiene amparo.'
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.boe.es/boe/dias/2024/08/28/pdfs/BOE-A-2024-17480.pdf
+  - https://www.boe.es/boe/dias/2024/08/28/pdfs/BOE-A-2024-17481.pdf
+  - https://hj.tribunalconstitucional.es/es/Resolucion/Show/30220
+- fecha: '2024-07-17'
+  titulo: Amparos parciales de Zarrías y Lozano
+  descripcion: SSTC 102/103 delimitan las modificaciones presupuestarias sobre las que procede nuevo pronunciamiento;
+    no son absoluciones globales.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://hj.tribunalconstitucional.es/es/Resolucion/Show/31220
+  - https://hj.tribunalconstitucional.es/es/Resolucion/Show/31222
+- fecha: '2025-07-14'
+  titulo: Auto 657/2025 plantea cuatro preguntas al TJUE
+  descripcion: La Audiencia suspende la tramitación relativa a los mandatos del TC solo para los acusados afectados
+    por la consulta. Notificado 15 de julio. No suspende genéricamente todas las causas ERE ni revoca los amparos.
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=97cd9fb12a6aaac7a0a8778d75e36f0d&encode=true&databasematch=AN
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-acuerda-plantear-una-cuestion-prejudicial-ante-el-TJUE-tras-las-sentencias-del-Tribunal-Constitucional-sobre-el-caso-ERE
+- fecha: '2025-09-19'
+  titulo: Se informa del trámite de notificación de la consulta
+  descripcion: La prensa describe preguntas a las partes y un acuse de recibo del TJUE. Es un trámite procesal,
+    no una sentencia europea ni un pronunciamiento sobre admisibilidad.
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://www.infobae.com/espana/agencias/2025/09/19/audiencia-de-sevilla-pregunta-a-las-partes-si-siguen-en-el-procedimiento-de-la-cuestion-prejudicial-al-tjue-por-los-ere/
+- fecha: '2026-04-20'
+  titulo: Se conocen observaciones de la Comisión Europea
+  descripcion: La Comisión propone incompetencia/inadmisión y no entra al fondo. La fecha es la de publicación,
+    no fecha acreditada de presentación del escrito; no es resolución del TJUE.
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://www.elmundo.es/andalucia/2026/04/20/69e5ccbfe4d4d8db3e8b4582.html
+  - https://www.rtve.es/noticias/20260420/comision-europea-propone-tjue-se-declare-incompetente-caso-ere-andalucia/17033022.shtml
+  - https://www.eldiario.es/andalucia/moreno-tropieza-von-der-leyen-reabrir-caso-ere-justicia-europea-abstracto-e-hipotetico_1_13159195.html
 ---
+
+La pieza específica juzgó la responsabilidad por el sistema de ayudas y sus decisiones presupuestarias. Las controversias sobre beneficiarios, intrusos y ayudas concretas pertenecen también a otras piezas: sus cuantías y condenas no se acumulan automáticamente aquí.
+
+La secuencia judicial incluye resultados de signo distinto. Dos acusados fueron absueltos en 2019 y otros tres en casación. El Supremo redujo además la pena de Márquez. En 2024 el Constitucional examinó recursos individuales: algunos fueron desestimados y otros estimados parcialmente, con diferencias entre nulidad sin retroacción y obligación de dictar un nuevo pronunciamiento sobre actos determinados. La nulidad de malversación para Griñán no equivale a absolución de toda prevaricación; el resultado de Rodríguez Román tampoco coincide con el de Vallejo o Martínez Aguayo.
+
+La Audiencia planteó en 2025 una cuestión prejudicial y suspendió el cumplimiento de los mandatos constitucionales respecto de los afectados por esa consulta. Las observaciones de la Comisión Europea conocidas en 2026 cuestionan la competencia del TJUE, pero no son una resolución de este. La evolución europea y los nuevos fallos nacionales requieren documentación posterior; no se infiere su resultado del tiempo transcurrido.
+
+La cifra aproximada de 680 millones identifica el volumen presupuestario examinado. No se presenta como responsabilidad civil global firme ni como dinero recibido personalmente por todos los acusados. El estado de cada condenado y la ejecución de su pena deben distinguirse de las cifras del sistema y de otras piezas.
