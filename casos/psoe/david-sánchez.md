@@ -1,142 +1,288 @@
 ---
-nombre: "Caso David Sánchez"
+nombre: Caso David Sánchez
 partido: PSOE
-completado: true
+completado: false
 año: 2024
-fechaInicio: 2024-04-22
-fechaFin: "2026-07-14"
-estado: "cerrado con condenas - pendiente de recurso"
-descripcion: |
-  El Caso David Sánchez investiga al hermano del presidente del Gobierno Pedro Sánchez, David Sánchez Pérez-Castejón —conocido artísticamente como David Azagra—, y a otras diez personas, entre ellas el expresidente de la Diputación de Badajoz y exsecretario general del PSOE de Extremadura, Miguel Ángel Gallardo, por la presunta creación a medida de un puesto público en la Diputación de Badajoz. Según la investigación, en 2017 se diseñó la plaza de "Coordinador de Actividades de los Conservatorios de Música" en el Área de Cultura, Juventud y Bienestar Social, ajustada a las "preferencias personales exclusivas" del hermano del entonces secretario general del PSOE, sin que existiera necesidad funcional para crearla y sin observar los principios de igualdad, mérito y capacidad.
+fechaInicio: '2024-05-30'
+fechaFin: ''
+estado: activo
+descripcion: 'Procedimiento sobre la creación y adjudicación en 2016-2017 de un puesto de alta dirección a David
+  Sánchez Pérez-Castejón en la Diputación de Badajoz, su modificación en 2022 y la provisión de otra plaza para
+  Luis María Carrero en 2023. Las diligencias se iniciaron por auto de 30 de mayo de 2024 tras una denuncia de Manos
+  Limpias.
 
-  Según los cargos, David Sánchez ocupó el puesto entre 2017 y febrero de 2025, percibiendo un total bruto de 340.572 euros. La acusación añade que, desde 2017, el hermano del presidente trasladó su residencia oficial a la localidad portuguesa de Elvas para tributar en Portugal y pagar menos impuestos en España, mientras seguía cobrando del erario extremeño. Documentación posterior demostró que la propia Diputación tenía constancia del cambio de residencia y no actuó en consecuencia. La causa, instruida por la jueza Beatriz Biedma del Juzgado de Instrucción nº 3 de Badajoz, se abrió a partir de una querella de la organización Manos Limpias en abril de 2024, a la que se sumaron Vox y la asociación Hazte Oír / Abogados Cristianos como acusaciones populares.
 
-  El juicio oral se celebró en ocho sesiones entre el 28 de mayo y el 9 de junio de 2026 en la Audiencia Provincial de Badajoz, con once acusados y más de 40 testigos, y quedó visto para sentencia ese último día. El 14 de julio de 2026 la Sección Primera condenó por unanimidad a David Sánchez a nueve años de inhabilitación especial para empleo o cargo público y para el ejercicio del sufragio pasivo como cooperador necesario de un delito de prevaricación administrativa por la modificación de su puesto, y absolvió a los once procesados del delito de tráfico de influencias. El expresidente de la Diputación Miguel Ángel Gallardo fue condenado a 18 años por dos delitos de prevaricación, y los otros nueve acusados a nueve años cada uno. La sentencia, de 377 páginas y sin pena de prisión, no es firme y puede recurrirse ante el Tribunal Superior de Justicia de Extremadura. Es la primera vez que un familiar directo de un presidente del Gobierno en activo resulta condenado por corrupción durante su mandato.
-resumen: "El hermano del presidente Pedro Sánchez, condenado en 2026 a 9 años de inhabilitación por prevaricación al crear la Diputación de Badajoz una plaza a su medida"
-coste: 340572
-lugar: "Badajoz, Extremadura"
+  La Sección Primera de la Audiencia Provincial de Badajoz dictó la sentencia 152/2026 el 14 de julio de 2026. Condenó
+  a David Sánchez a nueve años de inhabilitación especial para empleo o cargo público y sufragio pasivo, como cooperador
+  necesario en la prevaricación relativa a la modificación de su puesto en 2022. Gallardo recibió dos penas de nueve
+  años por la creación y adjudicación inicial y por la modificación posterior; los otros nueve acusados recibieron
+  una pena de nueve años cada uno por distintos bloques de hechos. No se impusieron penas de prisión. Hubo absolución
+  del resto de infracciones imputadas, incluido el tráfico de influencias; el delito de aceptación de nombramiento
+  ilegal atribuido a David Sánchez se había declarado prescrito.
+
+
+  La sentencia no es firme. En septiembre se conocieron un auto que aclaró el alcance de las inhabilitaciones y
+  el recurso de HazteOir, que pide también condena por tráfico de influencias. En octubre se conocieron las apelaciones
+  de David Sánchez y Gallardo y la de la Fiscalía, que pide absolver a los once condenados. A 15 de octubre no consta
+  una resolución de esas apelaciones. La nueva denuncia de HazteOir contra Gallardo por la plaza de Carrero corresponde
+  a hechos que no fueron enjuiciados respecto de él; no consta aquí su admisión ni un resultado judicial.
+
+
+  Los 340.572,36 euros publicados como salarios brutos de David Sánchez no son un perjuicio fijado por la sentencia.
+  El tribunal no hizo pronunciamiento sobre responsabilidad civil por falta de legitimación de las acusaciones populares.
+  Faltan los originales del auto aclaratorio y de los recursos para precisar íntegramente su alcance.'
+resumen: Once condenas no firmes por prevaricación en puestos de la Diputación de Badajoz; apelaciones de las defensas,
+  la Fiscalía y acusaciones populares.
+lugar: Badajoz, Extremadura
 tribunal:
-  - "Juzgado de Instrucción nº 3 de Badajoz - Jueza Beatriz Biedma"
-  - "Audiencia Provincial de Badajoz - Sección Tercera"
-numeroSentencia: ""
+  - Juzgado de Instrucción n.º 3 de Badajoz (instrucción)
+  - Audiencia Provincial de Badajoz, Sección Primera (juicio y sentencia)
+  - Tribunal Superior de Justicia de Extremadura, Sala de lo Civil y Penal (apelación)
+numeroSentencia: 152/2026; ROJ SAP BA 795/2026; ECLI:ES:APBA:2026:795
 implicados:
-  - nombre: "David Sánchez Pérez-Castejón"
-    cargo: "Coordinador de Actividades de los Conservatorios de Música de la Diputación de Badajoz (2017-2025); músico, hermano del presidente del Gobierno"
-    rol: "Condenado a 9 años de inhabilitación por prevaricación; absuelto de tráfico de influencias"
-
-  - nombre: "Miguel Ángel Gallardo Miranda"
-    cargo: "Expresidente de la Diputación de Badajoz, exsecretario general del PSOE de Extremadura, candidato a la presidencia de la Junta"
-    rol: "Condenado a 18 años de inhabilitación por dos delitos de prevaricación"
-
-  - nombre: "Ricardo Cabezas Martín"
-    cargo: "Exdiputado provincial, ex jefe de gabinete de Gallardo"
-    rol: "Condenado a 9 años de inhabilitación como cooperador necesario en la prevaricación"
-
-  - nombre: "Manuel Candalija Calzada"
-    cargo: "Exdirector del Área de Cultura de la Diputación de Badajoz"
-    rol: "Condenado a 9 años de inhabilitación como cooperador necesario en la prevaricación"
-
+  - nombre: David Sánchez Pérez-Castejón
+    cargo: Músico conocido como David Azagra; coordinador de conservatorios y posteriormente jefe de la Oficina
+      de Artes Escénicas de la Diputación de Badajoz
+    rol: Cooperador necesario en la prevaricación del bloque B, modificación del puesto en 2022. Condena no firme
+      de nueve años de inhabilitación. No condenado por tráfico de influencias; prescrito el delito de aceptación
+      de nombramiento ilegal. Su recurso se conoció el 8 de octubre de 2026.
+  - nombre: Miguel Ángel Gallardo Miranda
+    cargo: Presidente de la Diputación de Badajoz durante los hechos y posteriormente exsecretario general del PSOE
+      de Extremadura
+    rol: 'Autor de dos delitos de prevaricación, bloques A y B: dos penas no firmes de nueve años de inhabilitación.
+      Su posible responsabilidad en el bloque C, plaza de Carrero, quedó fuera del enjuiciamiento. Su recurso se
+      conoció el 13 de octubre de 2026.'
+  - nombre: Ricardo Cabezas Martín
+    cargo: Diputado delegado del Área de Cultura de la Diputación en los hechos de 2023
+    rol: Autor de la prevaricación del bloque C, plaza adjudicada a Carrero. Condena no firme de nueve años de inhabilitación;
+      absuelto del resto de infracciones que se le imputaban.
+  - nombre: Manuel Candalija Valle
+    cargo: Director del Área de Cultura en los hechos de 2023; anteriormente jefe de Servicio de Actividades Culturales
+    rol: Cooperador necesario en la prevaricación del bloque C. Condena no firme de nueve años de inhabilitación;
+      absuelto del resto de infracciones que se le imputaban.
+  - nombre: Elisa Moriano Morales
+    cargo: Directora del Área de Cultura en la creación y provisión del puesto de 2016-2017
+    rol: Cooperadora necesaria en la prevaricación del bloque A. Condena no firme de nueve años de inhabilitación;
+      absuelta del resto de infracciones que se le imputaban.
+  - nombre: Cristina Núñez Fernández
+    cargo: Diputada de Cultura en la creación y provisión del puesto de 2016-2017
+    rol: Cooperadora necesaria en la prevaricación del bloque A. Condena no firme de nueve años de inhabilitación;
+      absuelta del resto de infracciones que se le imputaban.
+  - nombre: Félix González Márquez
+    cargo: Jefe del Servicio de Gestión de Recursos Humanos durante la provisión del puesto inicial
+    rol: Cooperador necesario en la prevaricación del bloque A. Condena no firme de nueve años de inhabilitación;
+      absuelto del resto de infracciones que se le imputaban.
+  - nombre: Juana Cinta Calderón Zazo
+    cargo: Directora del Área de Recursos Humanos durante los hechos
+    rol: Cooperadora necesaria en la prevaricación del bloque B. La condena no firme de nueve años se limita a ese
+      bloque, aunque la sentencia describa también su intervención anterior; absuelta del resto de infracciones
+      imputadas.
+  - nombre: María Emilia Parejo Gala
+    cargo: Directora del Área de Cultura en la modificación del puesto en 2022
+    rol: Cooperadora necesaria en la prevaricación del bloque B. Condena no firme de nueve años de inhabilitación;
+      absuelta del resto de infracciones que se le imputaban.
+  - nombre: Francisco Martos Ortiz
+    cargo: Diputado de Cultura en la modificación del puesto en 2022
+    rol: Cooperador necesario en la prevaricación del bloque B. Condena no firme de nueve años de inhabilitación;
+      absuelto del resto de infracciones que se le imputaban.
+  - nombre: Luis María Carrero Pérez
+    cargo: Funcionario destinado previamente en Presidencia del Gobierno; incorporado a la jefatura de Sección de
+      Actividades Transfronterizas de la Diputación
+    rol: Cooperador necesario en la prevaricación del bloque C, relativo a la creación y provisión de su plaza.
+      Condena no firme de nueve años de inhabilitación; absuelto del resto de infracciones que se le imputaban.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "tráfico de influencias"
-  - "empleo público"
-  - "fraude fiscal"
-  - "nepotismo"
-
-impactoSocial: "El caso es uno de los frentes judiciales más sensibles para el PSOE y para la familia del presidente Pedro Sánchez. Su instrucción coincidió con la campaña de las elecciones autonómicas extremeñas en las que Miguel Ángel Gallardo aspiraba a la presidencia de la Junta, y el escándalo se considera uno de los factores del retroceso socialista en la región. La señalización de la fecha del juicio oral pocos meses antes del debate sobre la moción de censura ha aumentado la tensión política y ha alimentado el debate sobre el uso de los recursos públicos por parte de familiares de altos cargos."
-
-documentos: null
-
+  - prevaricación
+  - tráfico de influencias
+  - empleo público
+  - sentencia no firme
+impactoSocial: El procedimiento sometió a revisión la creación y provisión de puestos de alta dirección y una comisión
+  de servicios en la Diputación de Badajoz, así como los controles sobre las decisiones de personal.
+documentos:
+  - fecha: '2026-07-14'
+    titulo: Sentencia 152/2026 de la Audiencia Provincial de Badajoz (versión anonimizada de CENDOJ)
+    filetype: pdf
+    paginas: 116
+    nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d6c8cbf5ac0d77f9a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2017-06-01"
-    titulo: "Creación a medida de la plaza para David Sánchez en la Diputación de Badajoz"
-    descripcion: "La Diputación de Badajoz, presidida por Miguel Ángel Gallardo (PSOE), crea la plaza de Coordinador de Actividades de los Conservatorios de Música en el Área de Cultura. Según la investigación judicial, los requisitos del puesto se ajustaron a las preferencias personales exclusivas de David Sánchez, hermano del entonces secretario general del PSOE Pedro Sánchez, que ocupará el cargo de manera ininterrumpida durante los siguientes ocho años."
-    type: "resumen"
-    urls: []
-
-  - fecha: "2024-04-22"
-    titulo: "Manos Limpias presenta querella contra David Sánchez"
-    descripcion: "La organización Manos Limpias presenta ante el Juzgado de Instrucción de Badajoz una denuncia contra David Sánchez por presuntos delitos de prevaricación, tráfico de influencias y delitos contra la Hacienda Pública. La denuncia señala que David Sánchez no acudía a su puesto de trabajo y residía en la localidad portuguesa de Elvas para tributar fuera de España. La jueza Beatriz Biedma admite a trámite la denuncia."
-    type: "denuncia"
-    relevancia: "alta"
+  - fecha: '2016-12-23'
+    titulo: Publicación de la relación de puestos que incluía la nueva coordinación
+    descripcion: Según los hechos probados de la sentencia de primera instancia, la RPT que incluía el puesto de
+      coordinador de actividades de los conservatorios se publicó ese día en el BOP. El tribunal sitúa las actuaciones
+      preparatorias en octubre de 2016; esta apreciación está sometida a apelación.
+    type: investigacion
+    relevancia: alta
     urls:
-      - "https://www.eldiario.es/politica/jueza-badajoz-admite-denuncia-manos-limpias-hermano-pedro-sanchez_1_11431762.html"
-
-  - fecha: "2024-07-01"
-    titulo: "La UCO registra la sede de la Diputación de Badajoz"
-    descripcion: "Agentes de la Unidad Central Operativa (UCO) de la Guardia Civil practican un registro en las dependencias de la Diputación Provincial de Badajoz para obtener la documentación relativa a la contratación, la asistencia laboral y la situación administrativa de David Sánchez. La operación se desarrolla durante varias horas y se incauta documentación física y digital."
-    type: "investigación"
-    relevancia: "alta"
+      - https://descargables.elpais.com/sentencia-condena-david-sanchez-miguel-angel-gallardo.pdf
+  - fecha: '2017-07-10'
+    titulo: Firma del contrato de alta dirección de David Sánchez
+    descripcion: La sentencia identifica esta fecha de firma para el puesto de coordinador de actividades de los
+      conservatorios. El delito de aceptación de nombramiento ilegal ligado a este contrato fue declarado prescrito.
+    type: investigacion
+    relevancia: alta
     urls:
-      - "https://www.eldiario.es/extremadura/sociedad/guardia-civil-registra-diputacion-badajoz-caso-hermano-pedro-sanchez_1_11512772.html"
-      - "https://www.publico.es/politica/uco-registra-diputacion-badajoz-denuncia-manos-limpias-hermano-pedro-sanchez.html"
-
-  - fecha: "2024-11-01"
-    titulo: "La jueza imputa al hermano de Sánchez por malversación"
-    descripcion: "La jueza Biedma dicta auto imputando a David Sánchez por presunta malversación de caudales públicos en relación a su contrato en la Diputación de Badajoz. La magistrada cita a declarar como investigados a David Sánchez, Miguel Ángel Gallardo y otras siete personas para el 9 de enero de 2025, ampliando significativamente el círculo de imputados."
-    type: "imputación"
-    relevancia: "alta"
+      - https://descargables.elpais.com/sentencia-condena-david-sanchez-miguel-angel-gallardo.pdf
+  - fecha: '2023-12-26'
+    titulo: Nombramiento de Luis María Carrero
+    descripcion: La sentencia identifica esta fecha para el nombramiento de Carrero en la plaza de actividades transfronterizas,
+      tras un procedimiento en el que fue el único aspirante. Este es el bloque C del juicio, distinto de los relativos
+      al puesto de David Sánchez.
+    type: investigacion
+    relevancia: alta
     urls:
-      - "https://www.eldiario.es/extremadura/juez-imputa-hermano-pedro-sanchez-causa-impulsada-manos-limpias-vox-abogados-cristianos_1_11856839.html"
-
-  - fecha: "2025-02-15"
-    titulo: "David Sánchez renuncia a su puesto en la Diputación de Badajoz"
-    descripcion: "Tras casi un año de investigación judicial y de exposición pública, David Sánchez presenta su renuncia voluntaria al puesto de Jefe de Artes Escénicas de la Diputación Provincial de Badajoz. Manos Limpias presenta la dimisión como su 'primer logro' en la causa, aunque la renuncia no afecta al curso del procedimiento penal."
-    type: "resumen"
-    relevancia: "media"
+      - https://descargables.elpais.com/sentencia-condena-david-sanchez-miguel-angel-gallardo.pdf
+  - fecha: '2024-05-30'
+    titulo: Inicio de las diligencias judiciales
+    descripcion: La sentencia reproduce que las diligencias se iniciaron por auto de 30 de mayo de 2024 en el Juzgado
+      de Instrucción n.º 3 de Badajoz.
+    type: investigacion
+    relevancia: alta
     urls:
-      - "https://www.eldiario.es/extremadura/politica/renuncia-puesto-diputacion-primer-logro-manos-limpias-hermano-sanchez_1_12031606.html"
-      - "https://www.eldiario.es/extremadura/politica/hermano-pedro-sanchez-renuncia-puesto-diputacion-badajoz_1_12030176.html"
-
-  - fecha: "2025-05-22"
-    titulo: "La jueza envía a juicio a David Sánchez y a Gallardo"
-    descripcion: "La jueza Biedma rechaza el último recurso de las defensas y dicta auto enviando a juicio oral a David Sánchez, al expresidente de la Diputación Miguel Ángel Gallardo y a otras nueve personas por presuntos delitos de prevaricación administrativa y tráfico de influencias. La resolución incluye una crítica a la gestión de la plaza, que la jueza considera diseñada en exclusivo beneficio del hermano del presidente del Gobierno."
-    type: "imputación"
-    relevancia: "alta"
+      - https://descargables.elpais.com/sentencia-condena-david-sanchez-miguel-angel-gallardo.pdf
+      - https://www.eldiario.es/politica/jueza-badajoz-admite-denuncia-manos-limpias-hermano-pedro-sanchez_1_11431762.html
+  - fecha: '2024-07-10'
+    titulo: Registro de la Diputación de Badajoz
+    descripcion: Agentes de la UCO recaban documentación laboral en la sede provincial. La crónica de EFE publicada
+      por Público informa de la diligencia realizada ese día.
+    type: registro
+    relevancia: alta
     urls:
-      - "https://www.elindependiente.com/espana/2025/05/22/jueza-rechaza-recurso-hermano-pedro-sanchez/"
-
-  - fecha: "2025-09-23"
-    titulo: "La Audiencia de Badajoz confirma el juicio oral"
-    descripcion: "La Audiencia Provincial de Badajoz desestima los recursos de apelación presentados por las defensas y confirma la apertura de juicio oral contra David Sánchez y otras diez personas por prevaricación administrativa y tráfico de influencias. La resolución deja la causa lista para ser señalada para juicio."
-    type: "investigación"
-    relevancia: "alta"
+      - https://www.publico.es/politica/finaliza-registro-uco-diputacion-badajoz-investigacion-hermano-pedro-sanchez.html
+  - fecha: '2024-11-27'
+    titulo: Se conocen las citaciones como investigados
+    descripcion: La información publicada ese día comunica la citación de David Sánchez, Gallardo y otros responsables
+      para el 9 de enero de 2025. La noticia no precisa el día del auto.
+    type: imputacion
+    relevancia: alta
     urls:
-      - "https://www.infobae.com/espana/2025/09/23/la-audiencia-de-badajoz-manda-al-banquillo-al-hermano-de-pedro-sanchez-por-los-delitos-de-prevaricacion-y-trafico-de-influencias/"
-      - "https://www.noticiasdenavarra.com/politica/2025/09/23/audiencia-badajoz-envia-juicio-hermano-pedro-sanchez-10117181.html"
-
-  - fecha: "2026-03-03"
-    titulo: "Se confirma que David Sánchez cobró 340.572 euros en nueve años"
-    descripcion: "Documentación remitida al juzgado por la Diputación de Badajoz acredita que David Sánchez cobró 340.572 euros brutos durante los nueve años que estuvo contratado (2017-2025) como Coordinador de Actividades de los Conservatorios de Música. La cifra se incorpora al sumario como cuantificación del presunto perjuicio causado a las arcas provinciales."
-    type: "documento"
-    relevancia: "media"
+      - https://www.eldiario.es/extremadura/juez-imputa-hermano-pedro-sanchez-causa-impulsada-manos-limpias-vox-abogados-cristianos_1_11856839.html
+  - fecha: '2025-01-09'
+    titulo: David Sánchez declara como investigado
+    descripcion: Niega el absentismo laboral y defiende la legalidad de su acceso al puesto, según la crónica posterior
+      de su renuncia. Su declaración no constituye una conclusión judicial sobre esos hechos.
+    type: investigacion
+    relevancia: alta
     urls:
-      - "https://www.elespanol.com/espana/tribunales/20260303/hermano-sanchez-cobro-euros-diputacion-badajoz-anos-contratado/1003744154064_0.html"
-
-  - fecha: "2026-05-28"
-    titulo: "Inicio del juicio oral en la Audiencia Provincial de Badajoz"
-    descripcion: "Comienza el juicio oral contra David Sánchez y otros diez acusados en la Audiencia Provincial de Badajoz. La vista se celebrará en seis sesiones distribuidas entre el 28 y el 29 de mayo y del 1 al 4 de junio de 2026. Es la primera vez que un familiar directo de un presidente del Gobierno español en activo se enfrenta a un juicio oral por delitos de corrupción cometidos durante su mandato."
-    type: "juicio"
-    relevancia: "alta"
+      - https://www.eldiario.es/extremadura/politica/hermano-pedro-sanchez-renuncia-puesto-diputacion-badajoz_1_12030176.html
+  - fecha: '2025-02-05'
+    titulo: Se conoce la renuncia al puesto
+    descripcion: elDiario.es informa de la renuncia voluntaria como jefe de Artes Escénicas. Se distingue la comunicación
+      de la dimisión de la fecha en que se hizo efectiva la baja laboral, que no se precisa aquí con documentación
+      original.
+    type: investigacion
+    relevancia: media
     urls:
-      - "https://n.com.do/2025/11/07/en-febrero-de-2026-sera-el-juicio-a-david-sanchez-hermano-del-presidente-del-gobierno-espanol/"
-      - "https://www.moncloa.com/2025/12/03/retrasan-el-juicio-a-david-sanchez-hasta-finales-de-mayo-por-la-agenda-de-los-abogados-3344754"
-
-  - fecha: "2026-06-09"
-    titulo: "El juicio queda visto para sentencia"
-    descripcion: "Tras ocho sesiones y la declaración de once acusados y más de 40 testigos, la Audiencia Provincial de Badajoz deja visto para sentencia el juicio. La Fiscalía pide la absolución de todos los acusados por falta de pruebas, mientras las acusaciones populares (PP, Vox, Manos Limpias, Abogados Cristianos y Hazte Oír) elevan su petición a hasta seis años de prisión para David Sánchez y cuatro para Gallardo por prevaricación y tráfico de influencias."
-    type: "juicio"
-    relevancia: "alta"
+      - https://www.eldiario.es/extremadura/politica/hermano-pedro-sanchez-renuncia-puesto-diputacion-badajoz_1_12030176.html
+  - fecha: '2025-05-22'
+    titulo: Se conoce la apertura de juicio oral
+    descripcion: La crónica informa de que la instructora rechaza el recurso de la defensa de David Sánchez y abre
+      juicio a petición de las acusaciones populares, sin acusación de la Fiscalía.
+    type: juicio
+    relevancia: alta
     urls:
-      - "https://www.eldiario.es/extremadura/politica/juicio-david-sanchez-visto-sentencia-alegato-final-defensa-acusacion-leyenda_1_13286244.html"
-
-  - fecha: "2026-07-14"
-    titulo: "La Audiencia de Badajoz condena a David Sánchez a 9 años de inhabilitación"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Badajoz condena por unanimidad a David Sánchez a nueve años de inhabilitación especial para empleo o cargo público y para el ejercicio del sufragio pasivo como cooperador necesario de un delito de prevaricación administrativa por la modificación de su puesto. El expresidente de la Diputación Miguel Ángel Gallardo es condenado a 18 años por dos delitos de prevaricación (creación y modificación de la plaza) y los otros nueve acusados a nueve años cada uno. El tribunal absuelve a los once del delito de tráfico de influencias y no impone penas de prisión. La sentencia, de 377 páginas, no es firme y cabe recurso ante el TSJ de Extremadura."
-    type: "sentencia"
-    relevancia: "alta"
+      - https://www.elindependiente.com/espana/2025/05/22/jueza-rechaza-recurso-hermano-pedro-sanchez/
+  - fecha: '2025-09-23'
+    titulo: Se conoce el rechazo de los recursos contra el procesamiento
+    descripcion: La Audiencia de Badajoz desestima recursos de las defensas y permite continuar hacia el juicio.
+      La decisión permite continuar el procedimiento, sin resolver la culpabilidad de los acusados.
+    type: recurso
+    relevancia: alta
     urls:
-      - "https://www.europapress.es/extremadura/noticia-audiencia-provincial-badajoz-condena-hermano-pedro-sanchez-nueve-anos-inhabilitacion-20260714123040.html"
-      - "https://elpais.com/espana/2026-07-14/consulte-la-sentencia-integra-que-condena-a-david-sanchez-a-nueve-anos-de-inhabilitacion-por-prevaricacion.html"
+      - https://www.infobae.com/espana/2025/09/23/la-audiencia-de-badajoz-manda-al-banquillo-al-hermano-de-pedro-sanchez-por-los-delitos-de-prevaricacion-y-trafico-de-influencias/
+  - fecha: '2026-03-03'
+    titulo: Se publican las retribuciones de David Sánchez
+    descripcion: El Español informa de 340.572,36 euros brutos percibidos en los ejercicios 2017-2025, algunos parciales,
+      a partir de documentación remitida a la Audiencia. Es una cifra salarial publicada, no una cuantificación
+      judicial de perjuicio ni una indemnización.
+    type: investigacion
+    relevancia: media
+    urls:
+      - https://www.elespanol.com/espana/tribunales/20260303/hermano-sanchez-cobro-euros-diputacion-badajoz-anos-contratado/1003744154064_0.html
+  - fecha: '2026-05-28'
+    titulo: Comienza el juicio en la Audiencia de Badajoz
+    descripcion: La vista contra once acusados empieza con cuestiones previas, incluidas las peticiones de nulidad
+      y prescripción. La Fiscalía mantiene una posición absolutoria.
+    type: juicio
+    relevancia: alta
+    urls:
+      - https://www.eldiario.es/extremadura/politica/david-sanchez-pide-nulidad-causa-contrato-diputacion-basada-recortes-prensa-mentiras_1_13256513.amp.html
+  - fecha: '2026-06-09'
+    titulo: El juicio queda visto para sentencia
+    descripcion: Tras ocho sesiones y la comparecencia de once acusados y más de cuarenta testigos, concluye la
+      vista. La Fiscalía y las defensas piden absolución; las acusaciones populares mantienen sus peticiones de
+      condena. Las solicitudes de prisión no son penas impuestas.
+    type: juicio
+    relevancia: alta
+    urls:
+      - https://www.eldiario.es/extremadura/politica/juicio-david-sanchez-visto-sentencia-alegato-final-defensa-acusacion-leyenda_1_13286244.html
+  - fecha: '2026-07-14'
+    titulo: 'Sentencia de primera instancia: once condenas por prevaricación'
+    descripcion: La Sección Primera dicta la sentencia 152/2026. Gallardo recibe dos penas de nueve años por los
+      bloques A y B. David Sánchez y los otros nueve condenados reciben una pena de nueve años por su participación
+      en distintos bloques. Se absuelve del resto de infracciones imputadas, incluido el tráfico de influencias;
+      no hay prisión ni pronunciamiento de responsabilidad civil. Cabe apelación ante el TSJ de Extremadura.
+    type: sentencia
+    relevancia: alta
+    urls:
+      - https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:APBA:2026:795
+      - https://descargables.elpais.com/sentencia-condena-david-sanchez-miguel-angel-gallardo.pdf
+  - fecha: '2026-09-16'
+    titulo: Se conoce el auto aclaratorio de las inhabilitaciones
+    descripcion: La Audiencia concreta la privación de los cargos electivos o discrecionales ocupados en los hechos
+      y la incapacidad de obtener otros de esa naturaleza durante la condena, sin pérdida de la previa condición
+      de funcionario o empleado público. También precisa el reparto de costas. La aclaración no convierte la sentencia
+      en firme.
+    type: recurso
+    relevancia: alta
+    urls:
+      - https://cadenaser.com/nacional/2026/09/16/el-tribunal-que-condeno-a-david-sanchez-aclara-que-su-inhabilitacion-abarca-cualquier-otro-puesto-publico-electivo-o-discrecional-cadena-ser/
+      - https://www.canalextremadura.es/noticias/provinciadebadajoz/la-audiencia-provincial-de-badajoz-concreta-las-inhabilitaciones-del
+  - fecha: '2026-09-17'
+    titulo: Se conocen el recurso de HazteOir y una nueva denuncia contra Gallardo
+    descripcion: La acusación pide al TSJ apreciar también tráfico de influencias y seis años de prisión para David
+      Sánchez. Además denuncia a Gallardo por la plaza de Carrero, que no fue objeto de juicio respecto de él. Son
+      pretensiones de parte; no consta aquí admisión de la nueva denuncia.
+    type: recurso
+    relevancia: alta
+    urls:
+      - https://www.eldiario.es/extremadura/politica/hazteoir-recurre-sentencia-caso-david-sanchez-pide-seis-anos-carcel-hermano-pedro-sanchez_1_13518386.amp.html
+  - fecha: '2026-10-08'
+    titulo: Se conoce la apelación de David Sánchez
+    descripcion: Su defensa solicita la absolución y cuestiona la suficiencia probatoria y las garantías de la investigación.
+      Son argumentos del recurso difundido ese día, no conclusiones asumidas por el órgano de apelación.
+    type: recurso
+    relevancia: alta
+    urls:
+      - https://www.rtve.es/noticias/20261008/defensa-david-sanchez-recurre-apelacion-sentencia-audiencia-provincial-badajoz-pide-su-absolucion/17258265.shtml
+  - fecha: '2026-10-09'
+    titulo: Se conoce el recurso de la Fiscalía
+    descripcion: El Ministerio Fiscal pide al TSJ la absolución de los once condenados y cuestiona la valoración
+      de los indicios y la participación individual atribuida por la Audiencia. La fecha corresponde a la noticia;
+      el día de presentación no figura en esa información.
+    type: recurso
+    relevancia: alta
+    urls:
+      - https://elpais.com/espana/2026-10-09/la-fiscalia-insiste-en-la-absolucion-del-hermano-de-pedro-sanchez-y-gallardo-por-falta-de-pruebas.html
+  - fecha: '2026-10-13'
+    titulo: Se conoce el recurso de Miguel Ángel Gallardo
+    descripcion: Su defensa solicita la absolución de los dos delitos de prevaricación y discute el alcance de la
+      inhabilitación y la posibilidad de un nuevo procedimiento por la plaza de Carrero. No consta una resolución
+      de esta apelación a 15 de octubre de 2026.
+    type: recurso
+    relevancia: alta
+    urls:
+      - https://www.eldiario.es/extremadura/politica/gallardo-recurre-condena-18-anos-inhabilitacion-niega-plan-trazado-contratar-hermano-sanchez_1_13582875.html
 ---
+
+La causa no se reduce al puesto inicialmente adjudicado a David Sánchez. La sentencia organiza los hechos en tres bloques: A, creación y provisión del puesto de coordinador de conservatorios en 2016-2017; B, modificación en 2022 para convertirlo en la jefatura de la Oficina de Artes Escénicas; y C, creación y provisión de una plaza para Luis María Carrero en 2023. Las diligencias judiciales se iniciaron por auto de 30 de mayo de 2024, tras la denuncia de Manos Limpias. Las alegaciones fiscales y patrimoniales de aquella denuncia no deben presentarse como delitos por los que finalmente se condenó.
+
+La sentencia 152/2026, de 14 de julio, es de la Sección Primera de la Audiencia Provincial de Badajoz. Considera acreditada una actuación arbitraria en esos procedimientos administrativos y condena por prevaricación, pero las defensas y la Fiscalía cuestionan esa valoración en apelación. David Sánchez es condenado como cooperador necesario únicamente por el bloque B. La aceptación de nombramiento ilegal correspondiente al contrato de 2017 fue declarada prescrita, mientras que no quedó probado el tráfico de influencias. Esa prescripción tiene fundamento y efectos distintos de la absolución por el resto de infracciones.
+
+Gallardo es condenado como autor por los bloques A y B a dos penas de nueve años de inhabilitación. Elisa Moriano, Cristina Núñez y Félix González lo son como cooperadores necesarios del bloque A. Juana Cinta Calderón, María Emilia Parejo, Francisco Martos y David Sánchez lo son por el bloque B. En el bloque C, Ricardo Cabezas es condenado como autor y Manuel Candalija y Luis María Carrero como cooperadores necesarios. Cada uno de estos diez recibe una pena de nueve años. La posible responsabilidad de Gallardo en el bloque C quedó fuera del juicio por no haber sido oído como investigado sobre esos hechos; no se le puede atribuir una condena ni una absolución de fondo por ese bloque.
+
+No se impuso prisión ni se fijó responsabilidad civil: el tribunal consideró que las acusaciones populares carecían de legitimación para reclamar la devolución de salarios. Por ello, los 340.572,36 euros publicados como retribuciones brutas de David Sánchez en nueve ejercicios, con años parciales, no se incorporan como daño. Tampoco se agregan a sueldos de otros empleados, presupuestos de actividades, fianzas o costas para construir un coste global.
+
+El auto aclaratorio conocido el 16 de septiembre precisa que la inhabilitación afecta a los puestos electivos o discrecionales y que no elimina la condición de funcionario o empleado público que se tuviera previamente. No debe describirse como una prohibición absoluta de cualquier empleo público ni como una pena ya firme. En septiembre se conoció el recurso de HazteOir contra la absolución por tráfico de influencias y una nueva denuncia contra Gallardo por la plaza de Carrero. No se ha acreditado la admisión de esa denuncia.
+
+En octubre se conocieron las apelaciones de David Sánchez, la Fiscalía y Gallardo. La Fiscalía pide la absolución de los once condenados; las defensas impugnan las condenas, mientras algunas acusaciones pretenden ampliarlas. El 15 de octubre el fiscal superior de Extremadura reiteró la posición absolutoria y anunció que acudiría al Supremo si no prosperaba, lo que no equivale a un recurso de casación ya interpuesto. No consta una resolución de las apelaciones ante el TSJ de Extremadura. Faltan el original del auto aclaratorio y los escritos íntegros de recurso para precisar su alcance y las fechas de presentación. La investigación sobre supuestas maniobras contra la jueza Biedma en el caso Leire Díez es un procedimiento distinto y no determina el resultado de esta apelación.
+
+Fuentes principales: [sentencia oficial de CENDOJ](https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:APBA:2026:795), [copia notificada de 377 páginas](https://descargables.elpais.com/sentencia-condena-david-sanchez-miguel-angel-gallardo.pdf), [auto aclaratorio, Canal Extremadura/Europa Press](https://www.canalextremadura.es/noticias/provinciadebadajoz/la-audiencia-provincial-de-badajoz-concreta-las-inhabilitaciones-del), [recurso de David Sánchez, RTVE](https://www.rtve.es/noticias/20261008/defensa-david-sanchez-recurre-apelacion-sentencia-audiencia-provincial-badajoz-pide-su-absolucion/17258265.shtml), [recurso de la Fiscalía](https://elpais.com/espana/2026-10-09/la-fiscalia-insiste-en-la-absolucion-del-hermano-de-pedro-sanchez-y-gallardo-por-falta-de-pruebas.html), [recurso de Gallardo](https://www.eldiario.es/extremadura/politica/gallardo-recurre-condena-18-anos-inhabilitacion-niega-plan-trazado-contratar-hermano-sanchez_1_13582875.html), [recurso de HazteOir y nueva denuncia](https://www.eldiario.es/extremadura/politica/hazteoir-recurre-sentencia-caso-david-sanchez-pide-seis-anos-carcel-hermano-pedro-sanchez_1_13518386.amp.html) y [posición de la Fiscalía a 15 de octubre](https://elpais.com/espana/2026-10-15/el-fiscal-superior-de-extremadura-defiende-la-absolucion-de-los-condenados-en-el-caso-del-hermano-del-presidente-del-gobierno.html).
