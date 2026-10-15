@@ -1,139 +1,161 @@
 ---
-nombre: "La Fabriquilla"
-partido: "PP"
-completado: true
+nombre: La Fabriquilla
+partido: PP
+completado: false
 año: 2007
-fechaInicio: "2007-05-14"
-fechaFin: "2016-02-09"
-estado: "sobreseimiento"
-descripcion: |
-  El caso La Fabriquilla es un escándalo de corrupción urbanística en Roquetas de Mar (Almería) protagonizado por la cúpula del Ayuntamiento gobernado por el Partido Popular. El caso se origina en la concesión, el 14 de mayo de 2007, de una licencia de construcción a la empresa Hortiagrícola para edificar diez chalets de lujo en la Unidad de Ejecución 109 de El Parador, en el paraje conocido como La Fabriquilla. La licencia fue aprobada en Junta de Gobierno a pesar de que la modificación puntual del Plan Especial que la amparaba había sido declarada nula por la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Andalucía el 10 de mayo de 2007, apenas cuatro días antes de la votación.
+fechaInicio: '2007-05-14'
+estado: sobreseimiento
+descripcion: 'La investigación por presunta prevaricación se refería a la licencia municipal concedida el 14 de
+  mayo de 2007 a Hortiagrícola para diez viviendas unifamiliares pareadas en la parcela 11 de la UE-109 de Roquetas
+  de Mar. La controversia afectaba al planeamiento que la amparaba: el 10 de mayo se había acordado una suspensión
+  cautelar, no la nulidad firme que se atribuyó inicialmente a esa fecha. Según la información publicada sobre los
+  autos, la notificación al Ayuntamiento se produjo el 16 de mayo, después de concederse la licencia.
 
-  La denunciante principal del caso fue Margarita Kaiser Terriza, antigua propietaria de la finca La Fabriquilla, quien sostuvo que había sido presionada para vender su propiedad como suelo agrícola a precio de derribo, y que a los pocos días de la venta el terreno recibió una hipoteca sobre suelo rústico por 800.000 millones de pesetas y fue inmediatamente recalificado, multiplicando su valor de forma extraordinaria. La asociación AMAyT (Asociación Mediterránea Anticorrupción y por la Transparencia) presentó una denuncia formal que dio pie a la instrucción judicial. En 2012, el juez citó como imputado al exconcejal de Urbanismo Manuel González Fernández, y en octubre de 2014 la jueza María del Mar Alejo Rico imputó formalmente al alcalde Gabriel Amat Ayllón, presidente de la Diputación Provincial de Almería y líder del PP provincial, junto a seis concejales más que votaron la licencia y dos técnicos municipales que emitieron informes favorables.
 
-  En mayo de 2015 la jueza instructora acordó el sobreseimiento provisional de la causa al no apreciar indicios suficientes de que los imputados hubieran actuado a sabiendas de la ilegalidad de la licencia. La Audiencia Provincial de Almería confirmó definitivamente el archivo del caso en febrero de 2016, tras desestimar el recurso de apelación presentado por AMAyT. El asunto tuvo un notable impacto político local: el PSOE exigió responsabilidades al alcalde Amat, quien celebró el archivo como una vindicación. Los miembros de la junta directiva de AMAyT fueron a su vez denunciados por calumnias e injurias ante el mismo juzgado.
-
-resumen: "Licencia urbanística ilegal para diez chalets en Roquetas de Mar concedida días después de ser anulado el plan que la amparaba"
-coste: 0
-lugar: "Roquetas de Mar, Almería, Andalucía"
+  El juzgado acordó el sobreseimiento provisional el 13 de mayo de 2015 y la Audiencia Provincial lo confirmó mediante
+  auto de 29 de enero de 2016, según la prensa que informó de ambas resoluciones. El archivo se basó en la falta
+  de indicios suficientes de que los investigados conocieran la ilegalidad, sin equivaler a una declaración de legalidad
+  urbanística de la licencia. No se han recuperado los autos judiciales originales para comprobar todos sus pronunciamientos
+  individuales, su régimen de recursos ni la evolución posterior del litigio urbanístico hasta el 15 de octubre
+  de 2026; la revisión permanece incompleta.'
+resumen: Investigación por la licencia para diez viviendas en La Fabriquilla, sobreseída provisionalmente y confirmada
+  en apelación.
+lugar: Roquetas de Mar, Almería, Andalucía
 tribunal:
-  - "Juzgado de Primera Instancia e Instrucción nº 1 de Roquetas de Mar - Jueza María del Mar Alejo Rico"
-  - "Audiencia Provincial de Almería"
-numeroSentencia: ""
+- Juzgado de Primera Instancia e Instrucción n.º 1 de Roquetas de Mar
+- Audiencia Provincial de Almería, Sección Segunda
 implicados:
-  - nombre: "Gabriel Amat Ayllón"
-    cargo: "Alcalde de Roquetas de Mar y presidente de la Diputación Provincial de Almería (PP)"
-    rol: "Imputado por prevaricación en la concesión de licencia ilegal"
-
-  - nombre: "Manuel González Fernández"
-    cargo: "Exconcejal delegado de Urbanismo del Ayuntamiento de Roquetas de Mar"
-    rol: "Imputado por prevaricación al aprobar la licencia contraria a la legalidad"
-
-  - nombre: "Pedro Antonio López"
-    cargo: "Concejal del Ayuntamiento de Roquetas de Mar"
-    rol: "Imputado por votar en Junta de Gobierno la licencia ilegal"
-
-  - nombre: "José Juan Rubí"
-    cargo: "Concejal del Ayuntamiento de Roquetas de Mar"
-    rol: "Imputado por votar en Junta de Gobierno la licencia ilegal"
-
-  - nombre: "José Juan Galdeano"
-    cargo: "Concejal del Ayuntamiento de Roquetas de Mar"
-    rol: "Imputado por votar en Junta de Gobierno la licencia ilegal"
-
-  - nombre: "Francisco Martín"
-    cargo: "Concejal del Ayuntamiento de Roquetas de Mar"
-    rol: "Imputado por votar en Junta de Gobierno la licencia ilegal"
-
-  - nombre: "Francisca Toresano Moreno"
-    cargo: "Concejala de Recursos Humanos y Empleo del Ayuntamiento de Roquetas de Mar"
-    rol: "Imputada por votar en Junta de Gobierno la licencia ilegal"
-
-  - nombre: "Antonio García"
-    cargo: "Concejal del Ayuntamiento de Roquetas de Mar"
-    rol: "Imputado por votar en Junta de Gobierno la licencia ilegal"
-
-  - nombre: "Francisco Hernández Cañada"
-    cargo: "Técnico municipal del Ayuntamiento de Roquetas de Mar"
-    rol: "Imputado por emitir informe técnico favorable a la licencia ilegal"
-
-  - nombre: "Juan González Pomares"
-    cargo: "Técnico municipal del Ayuntamiento de Roquetas de Mar"
-    rol: "Imputado por emitir informe técnico favorable a la licencia ilegal"
-
+- nombre: Gabriel Amat Ayllón
+  cargo: Alcalde de Roquetas de Mar y presidente de la Junta de Gobierno en 2007
+  rol: Investigado por la concesión de la licencia; la prensa incluye a los miembros de la Junta de Gobierno en
+    el sobreseimiento provisional confirmado en apelación.
+- nombre: José María González Fernández
+  cargo: Concejal delegado de Urbanismo en 2007
+  rol: Investigado por la concesión de la licencia; la prensa incluye a los miembros de la Junta de Gobierno en
+    el sobreseimiento provisional confirmado en apelación.
+- nombre: Pedro Antonio López Gómez
+  cargo: Concejal y miembro de la Junta de Gobierno en 2007
+  rol: Investigado por la concesión de la licencia; la prensa incluye a los miembros de la Junta de Gobierno en
+    el sobreseimiento provisional confirmado en apelación.
+- nombre: José Juan Rubí Fuentes
+  cargo: Concejal y miembro de la Junta de Gobierno en 2007
+  rol: Investigado por la concesión de la licencia; la prensa incluye a los miembros de la Junta de Gobierno en
+    el sobreseimiento provisional confirmado en apelación.
+- nombre: José Galdeano Antequera
+  cargo: Concejal y miembro de la Junta de Gobierno en 2007
+  rol: Investigado por la concesión de la licencia; la prensa incluye a los miembros de la Junta de Gobierno en
+    el sobreseimiento provisional confirmado en apelación.
+- nombre: Francisco Martín Hernández
+  cargo: Concejal y miembro de la Junta de Gobierno en 2007
+  rol: Investigado por la concesión de la licencia; la prensa incluye a los miembros de la Junta de Gobierno en
+    el sobreseimiento provisional confirmado en apelación.
+- nombre: Francisca Toresano Moreno
+  cargo: Concejala y miembro de la Junta de Gobierno en 2007
+  rol: Investigado por la concesión de la licencia; la prensa incluye a los miembros de la Junta de Gobierno en
+    el sobreseimiento provisional confirmado en apelación.
+- nombre: Antonio García Aguilar
+  cargo: Concejal y miembro de la Junta de Gobierno en 2007
+  rol: Investigado por la concesión de la licencia; la prensa incluye a los miembros de la Junta de Gobierno en
+    el sobreseimiento provisional confirmado en apelación.
+- nombre: Francisco Hernández Cañada
+  cargo: Técnico municipal, identificado por la información publicada en octubre de 2014
+  rol: Investigado por los informes de la licencia; la información del archivo incluye a los técnicos, sin haberse
+    recuperado el pronunciamiento judicial individual original.
+- nombre: Juan González Pomares
+  cargo: Técnico municipal, identificado por la información publicada en octubre de 2014
+  rol: Investigado por los informes de la licencia; la información del archivo incluye a los técnicos, sin haberse
+    recuperado el pronunciamiento judicial individual original.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "corrupción urbanística"
-
-impactoSocial: "El caso generó una intensa disputa política en Almería entre PP y PSOE y fue emblemático dentro de la llamada 'Trama Amat', que engloba varios procedimientos judiciales relacionados con la gestión urbanística de Gabriel Amat en Roquetas de Mar. La asociación ciudadana AMAyT, que impulsó la denuncia, fue a su vez procesada por calumnias e injurias tras el archivo del caso."
-
-documentos: null
-
+- urbanismo
+- presunta prevaricación
+- sobreseimiento provisional
+impactoSocial: La investigación motivó un debate de responsabilidades políticas en el Pleno municipal de noviembre
+  de 2014. El archivo penal de esta licencia debe distinguirse de otras investigaciones sobre sociedades relacionadas
+  con Gabriel Amat y de los litigios urbanísticos sobre el planeamiento.
+documentos:
+- fecha: '2007-05-14'
+  titulo: 'Acta de la Junta de Gobierno: aprobación de la licencia 580/07 (páginas 12 y 22)'
+  filetype: pdf
+  paginas: 48
+  nombre_fichero: https://www.roquetasdemar.es/sites/default/files/jg070514.pdf
+- fecha: '2014-11-10'
+  titulo: 'Acta del Pleno municipal: debate e informe municipal sobre La Fabriquilla'
+  filetype: pdf
+  paginas: 11
+  nombre_fichero: https://www.roquetasdemar.es/sites/default/files/pl141110.pdf
 cronologia:
-  - fecha: "2007-05-10"
-    titulo: "El TSJA anula la modificación del Plan Especial que amparaba la licencia"
-    descripcion: "La Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Andalucía declara nula la modificación puntual del Plan Especial del Ayuntamiento de Roquetas de Mar que servía de base legal para conceder la licencia de construcción en la Unidad de Ejecución 109 de El Parador (La Fabriquilla). La resolución es firme cuatro días antes de que la Junta de Gobierno municipal vote la licencia."
-    type: "resumen"
-    urls:
-      - "https://15mpedia.org/wiki/Caso_La_Fabriquilla"
-
-  - fecha: "2007-05-14"
-    titulo: "La Junta de Gobierno aprueba la licencia a Hortiagrícola"
-    descripcion: "A pesar de la nulidad declarada cuatro días antes por el TSJA, la Junta de Gobierno del Ayuntamiento de Roquetas de Mar, presidida de facto por el alcalde Gabriel Amat, aprueba la licencia de construcción solicitada por la empresa Hortiagrícola para edificar diez chalés de lujo en la finca La Fabriquilla, en la Unidad de Ejecución 109 de El Parador. El concejal delegado de Urbanismo, Manuel González Fernández, promueve la aprobación con el voto favorable de seis concejales y el respaldo de dos informes técnicos municipales."
-    type: "resumen"
-    urls:
-      - "https://www.noticiasdealmeria.com/noticia/97350/almeria/imputan-a-la-junta-de-gobierno-de-roquetas-y-a-varios-tecnicos-por-la-licencia-de-los-chalet-de-la-fabriquilla-en-roquetas-de-mar.html"
-
-  - fecha: "2011-09-01"
-    titulo: "Margarita Kaiser presenta denuncia ante la Fiscalía"
-    descripcion: "Margarita Kaiser Terriza, antigua propietaria de la finca La Fabriquilla, presenta denuncia ante la Fiscalía Especial Anticorrupción de Madrid y la Fiscalía General de Andalucía. Kaiser alega que fue presionada a vender la finca como suelo agrícola a precio muy inferior a su valor real, y que inmediatamente después de la venta el terreno fue recalificado y gravado con una hipoteca millonaria. El Juzgado de Primera Instancia e Instrucción nº 1 de Roquetas de Mar admite la denuncia a trámite."
-    type: "denuncia"
-    urls:
-      - "https://wikiluismonti.wordpress.com/2011/09/20/la-fabriquilla-la-continuidad-en-el-tiempo-de-un-delito-ms-que-organizado-2/"
-
-  - fecha: "2012-11-01"
-    titulo: "El juez imputa al exconcejal de Urbanismo Manuel González"
-    descripcion: "El juzgado instructor cita como imputado al exconcejal delegado de Urbanismo del Ayuntamiento de Roquetas de Mar, Manuel González Fernández, por un presunto delito de prevaricación administrativa en la concesión de la licencia de construcción a Hortiagrícola. Es la primera imputación formal del caso y abre la vía para investigar al resto de la Junta de Gobierno."
-    type: "imputación"
-    urls:
-      - "https://wikiluismonti.wordpress.com/2012/11/01/el-juez-cita-como-imputado-al-ex-concejal-de-urbanismo-del-ayto-de-roquetas-de-mar-en-el-caso-la-fabriquilla/"
-
-  - fecha: "2014-10-23"
-    titulo: "La jueza imputa al alcalde Amat y a seis concejales"
-    descripcion: "La jueza María del Mar Alejo Rico del Juzgado de Instrucción nº 1 de Roquetas de Mar imputa formalmente al alcalde Gabriel Amat Ayllón, presidente de la Diputación Provincial de Almería y líder del PP en la provincia, junto a seis concejales que votaron la licencia y a dos técnicos municipales que emitieron informes favorables. Las imputaciones son por presunto delito de prevaricación administrativa. El caso alcanza así su máxima relevancia política."
-    type: "imputación"
-    urls:
-      - "https://almeria360.com/actualidad/actualidad360/23102014_gabriel-amat-presidente-de-la-diputacion-de-almeria-imputado-por-corrupcion-urbanistica_118301.html"
-      - "https://www.teleprensa.com/articulo/provincia/gabriel-amat-presidente-del-pp-y-de-la-diputacion-de-almeria-imputado-por-la-jueza-rico/20141023170145467029.html"
-
-  - fecha: "2014-11-17"
-    titulo: "Gabriel Amat declara como imputado ante la jueza"
-    descripcion: "El alcalde Gabriel Amat Ayllón comparece ante la jueza instructora en el Juzgado de Instrucción nº 1 de Roquetas de Mar y declara como imputado por presunta prevaricación en el caso La Fabriquilla. Amat niega cualquier irregularidad y defiende la legalidad de la actuación municipal. Su declaración tiene amplia repercusión mediática dado su cargo como presidente de la Diputación Provincial y figura destacada del PP de Almería."
-    type: "declaración"
-    urls:
-      - "https://www.lavozdealmeria.com/noticia/3/provincia/70225/psoe-y-pp-discrepan-de-las-responsabilidades-politicas-por-el-caso-fabriquilla"
-
-  - fecha: "2015-01-01"
-    titulo: "La Fiscalía no se opone al sobreseimiento"
-    descripcion: "La Fiscalía de Almería emite un informe en el que no aprecia indicios suficientes de delito y no se opone a la solicitud de sobreseimiento provisional de la causa. El Ministerio Fiscal considera que, aunque la licencia fue contraria a la legalidad urbanística, no hay elementos suficientes para acreditar que los imputados actuaron a sabiendas de su ilegalidad, requisito necesario para el delito de prevaricación dolosa."
-    type: "resumen"
-    urls:
-      - "https://www.lavozdealmeria.com/noticia/3/provincia/79543/el-fiscal-no-se-opone-al-sobreseimiento-del-caso-por-el-que-esta-imputado-amat"
-
-  - fecha: "2015-05-18"
-    titulo: "La jueza acuerda el sobreseimiento provisional"
-    descripcion: "La jueza María del Mar Alejo Rico dicta auto de sobreseimiento provisional del caso La Fabriquilla. En su resolución, la jueza reconoce que la licencia cumplía uno de los requisitos del 'tipo objetivo' del delito de prevaricación, pero concluye que no resulta acreditado que los imputados actuaran a sabiendas de la contrariedad a derecho. AMAyT anuncia que recurrirá la resolución ante la Audiencia Provincial."
-    type: "resumen"
-    urls:
-      - "https://wikiluismonti.wordpress.com/2015/05/18/el-auto-subjetivo-del-archivo-provisional-en-el-caso-la-fabriquilla-impresionante/"
-
-  - fecha: "2016-02-09"
-    titulo: "La Audiencia Provincial confirma el archivo definitivo"
-    descripcion: "La Audiencia Provincial de Almería desestima el recurso de apelación presentado por AMAyT y confirma el archivo definitivo del caso La Fabriquilla. El tribunal respalda la actuación del Ayuntamiento de Roquetas de Mar y considera que no existen indicios suficientes de conducta dolosa en la concesión de la licencia. Gabriel Amat celebra el fallo como una 'vindiciación frente a quienes se empeñan en mentir'. Los miembros de la directiva de AMAyT son a su vez investigados por calumnias e injurias."
-    type: "sentencia"
-    urls:
-      - "http://gabrielamat.es/2016/02/09/la-audiencia-provincial-da-la-razon-al-ayuntamiento-de-roquetas-y-archiva-el-caso-fabriquilla/"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+La+Fabriquilla&numero=175"
-
+- fecha: '2007-05-14'
+  titulo: La Junta de Gobierno aprueba la licencia 580/07
+  descripcion: 'El acta recoge la aprobación unánime de la propuesta de Urbanismo para Hortiagrícola: diez viviendas
+    unifamiliares pareadas en la parcela 11 de la UE-109, con condiciones técnicas. Las páginas 12 y 22 documentan
+    la adopción del acuerdo y el expediente.'
+  urls:
+  - https://www.roquetasdemar.es/sites/default/files/jg070514.pdf
+  type: investigacion
+- fecha: '2014-10-23'
+  titulo: Se conoce la citación de Amat y otros miembros de la Junta de Gobierno
+  descripcion: La información de agencia publicada este día comunica las citaciones por presunta prevaricación de
+    siete miembros de la Junta y dos técnicos. Es fecha de publicación, no fecha acreditada de la providencia. José
+    María González Fernández y el asesor jurídico ya figuraban investigados.
+  urls:
+  - https://www.libertaddigital.com/espana/2014-10-23/imputado-el-presidente-del-pp-de-almeria-por-prevaricacion-1276531572/
+  - https://www.teleprensa.com/almeria/provincia/gabriel-amat-presidente-del-pp-y-de-la-diputacion-de-almeria-imputado-por-la-jueza-rico/20141023170145467029.amp.html
+  type: imputacion
+- fecha: '2014-11-10'
+  titulo: El Pleno debate las responsabilidades políticas
+  descripcion: El acta municipal recoge el debate sobre La Fabriquilla y un informe del letrado municipal acerca
+    de los antecedentes procesales. Las intervenciones políticas y la posición de la defensa municipal no son hechos
+    declarados probados por un tribunal.
+  urls:
+  - https://www.roquetasdemar.es/sites/default/files/pl141110.pdf
+  type: investigacion
+- fecha: '2014-11-17'
+  titulo: Amat declara como investigado
+  descripcion: Europa Press, al informar el 26 de marzo de 2015 de la posición fiscal, sitúa la declaración de Amat
+    el 17 de noviembre de 2014.
+  urls:
+  - https://www.europapress.es/andalucia/almeria-00350/noticia-fiscalia-no-opone-sobreseimiento-caso-fabriquilla-imputado-amat-20150326142229.html
+  type: investigacion
+- fecha: '2015-03-26'
+  titulo: Se publica la posición favorable de Fiscalía al archivo
+  descripcion: Europa Press informa de que Fiscalía no se opone al sobreseimiento por falta de indicios de actuación
+    a sabiendas de la ilegalidad. La fecha corresponde a la noticia, no al informe fiscal; Fiscalía no dicta el
+    archivo.
+  urls:
+  - https://www.europapress.es/andalucia/almeria-00350/noticia-fiscalia-no-opone-sobreseimiento-caso-fabriquilla-imputado-amat-20150326142229.html
+  type: investigacion
+- fecha: '2015-05-13'
+  titulo: Sobreseimiento provisional en el juzgado
+  descripcion: La información de La Voz de Almería publicada el 8 de febrero de 2016 fecha en este día el auto de
+    sobreseimiento provisional posteriormente recurrido. No se ha recuperado el original judicial.
+  urls:
+  - https://www.lavozdealmeria.com/provincia/81772/audiencia-provincial-archiva-definitivamente-caso-fabriquilla.html
+  type: investigacion
+- fecha: '2016-01-29'
+  titulo: La Audiencia confirma el sobreseimiento provisional
+  descripcion: La Voz de Almería fecha en este día el auto de apelación, conocido públicamente en febrero. Diario
+    de Almería reproduce que se mantiene el sobreseimiento provisional y se desestima el recurso. La confirmación
+    penal no convalida la licencia urbanística.
+  urls:
+  - https://www.lavozdealmeria.com/provincia/81772/audiencia-provincial-archiva-definitivamente-caso-fabriquilla.html
+  - https://www.diariodealmeria.es/almeria/Audiencia-Provincial-Ayuntamiento-Roquetas-Fabriquilla_0_997700769.html
+  type: recurso
 ---
+
+## La licencia y el planeamiento
+
+El [acta municipal de 14 de mayo de 2007](https://www.roquetasdemar.es/sites/default/files/jg070514.pdf) identifica la solicitud de Hortiagrícola como expediente 580/07: diez viviendas pareadas en la parcela 11 de la UE-109, entre las calles Miranda de Ebro y Santo Domingo de Silos. La Junta de Gobierno, presidida por Gabriel Amat, aprobó los acuerdos de Urbanismo que incluían esa licencia. El documento contiene condiciones de ejecución y una fianza de 28.000 euros para infraestructura; esa garantía no representa un perjuicio público, una comisión ni una multa. No se dispone de una cuantificación acreditada del daño económico y por ello no se consigna un coste cero.
+
+La información publicada sobre la resolución de apelación distingue la suspensión cautelar del planeamiento, acordada el 10 de mayo de 2007, de su notificación al Ayuntamiento el día 16. No debe transformarse aquella medida cautelar en una sentencia firme de nulidad anterior a la licencia. La eventual anulación del planeamiento pertenece al ámbito contencioso-administrativo y no determina por sí sola la responsabilidad penal de quienes concedieron una licencia.
+
+## Investigación y archivo penal
+
+El [Pleno de 10 de noviembre de 2014](https://www.roquetasdemar.es/sites/default/files/pl141110.pdf) incorporó un informe del letrado municipal que situaba la denuncia inicial de Margarita Kaiser ante la Fiscalía provincial el 28 de julio de 2011 y describía las diligencias 34/2012 y su relación con otras denuncias. Se trata del relato de la defensa municipal, no de una resolución judicial. En [octubre de 2014](https://www.libertaddigital.com/espana/2014-10-23/imputado-el-presidente-del-pp-de-almeria-por-prevaricacion-1276531572/) se conocieron nuevas citaciones de miembros de la Junta y técnicos. El acta de 2007 permite corregir varios nombres: José María González Fernández, José Galdeano Antequera, José Juan Rubí Fuentes, Pedro Antonio López Gómez y Antonio García Aguilar. La [información contemporánea](https://www.teleprensa.com/almeria/provincia/gabriel-amat-presidente-del-pp-y-de-la-diputacion-de-almeria-imputado-por-la-jueza-rico/20141023170145467029.amp.html) identifica a los técnicos Francisco Hernández Cañada y Juan González Pomares.
+
+La [Fiscalía no se opuso al archivo](https://www.europapress.es/andalucia/almeria-00350/noticia-fiscalia-no-opone-sobreseimiento-caso-fabriquilla-imputado-amat-20150326142229.html) por falta de indicios suficientes sobre el conocimiento de la ilegalidad. Según [La Voz de Almería](https://www.lavozdealmeria.com/provincia/81772/audiencia-provincial-archiva-definitivamente-caso-fabriquilla.html), el juzgado dictó el sobreseimiento provisional el 13 de mayo de 2015 y la Audiencia Provincial confirmó ese archivo el 29 de enero de 2016. La noticia describe el alcance colectivo respecto de los cargos municipales, técnicos y asesor jurídico investigados. [Diario de Almería](https://www.diariodealmeria.es/almeria/Audiencia-Provincial-Ayuntamiento-Roquetas-Fabriquilla_0_997700769.html) reproduce expresamente la decisión de mantener el «sobreseimiento provisional». No hubo en estas fuentes una sentencia de condena ni una absolución tras juicio.
+
+## Alcance del resultado conocido
+
+Algunos titulares llamaron definitivo al archivo y Amat lo presentó como una vindicación. Eso no convierte el sobreseimiento provisional en sobreseimiento libre ni acredita que la licencia fuese legal. Los autos judiciales originales no se han recuperado: quedan pendientes la comprobación íntegra de los pronunciamientos por persona, los recursos y la situación del litigio urbanístico posterior. Las búsquedas de novedades de 2025 y 2026 no han aportado una resolución nueva verificable sobre esta licencia; no permiten afirmar que se haya reabierto ni que todo litigio relacionado esté terminado.
+
+La Fabriquilla no engloba automáticamente otras piezas sobre sociedades o contrataciones relacionadas con Amat. Tampoco se trasladan a este expediente los resultados de procedimientos por injurias o calumnias contra denunciantes. Las alegaciones iniciales sobre presiones en la venta y operaciones financieras no se presentan como hechos judicialmente probados ni se utilizan para calcular un daño.
