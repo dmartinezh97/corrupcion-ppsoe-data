@@ -3,9 +3,9 @@ nombre: "Caso Fernández de la Cueva"
 partido: PP
 completado: false
 año: 2013
-estado: "Situación procesal actual no verificada; última noticia localizada: juicio suspendido en diciembre de 2020"
+estado: "desconocido"
 descripcion: |
-  Procedimiento por presunta prevaricación administrativa contra Juliana Fernández Cueva Lominchar, exalcaldesa de Corral de Almaguer (Toledo) y exsenadora del PP, y Vicente González Ramírez, primer teniente de alcalde en la época de los hechos. La acusación sostenía que habían dejado sin efecto cuatro expedientes de tráfico de 2013 para evitar la pérdida de puntos de los conductores. La Fiscalía solicitaba diez años de inhabilitación para cada acusado, una petición de pena que no equivale a una condena.
+  Procedimiento por presunta prevaricación administrativa contra Juliana Fernández Cueva Lominchar, exalcaldesa de Corral de Almaguer (Toledo) y exsenadora del PP, y Vicente González Ramírez, primer teniente de alcalde en la época de los hechos. La acusación sostenía que habían dejado sin efecto cuatro expedientes de tráfico de 2013 para evitar la pérdida de puntos de los conductores. El País informó de que los conductores habían pagado las sanciones con reducción: la controversia incluía la retirada de puntos, no simplemente multas impagadas. La Fiscalía solicitaba diez años de inhabilitación para cada acusado, una petición de pena que no equivale a una condena.
 
   El juicio fue suspendido el 14 de enero de 2020 y volvió a anunciarse para el 15 de diciembre de ese año. La Vanguardia informó ese día de otra suspensión. No se ha localizado una resolución posterior que permita establecer el desenlace ni la situación procesal a 15 de octubre de 2026; tampoco se han verificado novedades judiciales de 2025 o 2026. Esta falta de información no permite afirmar que el procedimiento continúe abierto, haya terminado o exista una condena.
 resumen: "Acusación contra una exalcaldesa y un exteniente de alcalde por cuatro expedientes de tráfico; desenlace judicial no verificado"
