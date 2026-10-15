@@ -1,148 +1,148 @@
 ---
-nombre: "Caso Góndola"
+nombre: Caso Góndola
 partido: PP
-completado: true
+completado: false
 año: 2006
-fechaInicio: 2006-01-01
-fechaFin: 2023-06-15
-estado: "sobreseimiento"
-descripcion: |
-  El caso Góndola fue una investigación por corrupción urbanística, fraude electoral y tráfico de influencias en el municipio de Mogán, Gran Canaria, que comenzó en 2006 tras las denuncias sobre irregularidades en convenios urbanísticos y gestión municipal durante el gobierno del Partido Popular. La trama involucraba al alcalde Francisco González y la concejala Onalia Bueno, quienes presuntamente favorecieron al empresario Santiago Santana Cazorla en proyectos urbanísticos irregulares, incluyendo la construcción de una depuradora ilegal en Taurito en suelo rústico. Las escuchas telefónicas revelaron que González presionaba al Cabildo de Gran Canaria, a través del consejero José Jiménez (PP), para regularizar la depuradora de Santana Cazorla, mientras este ayudaba al alcalde con la instalación de un supermercado Spar en Anfi.
-
-  Paralelamente, la investigación destapó un esquema de fraude electoral orquestado por Onalia Bueno, considerada por la Policía como la "cerebro" de una organización dedicada al empadronamiento masivo e irregular de personas para inflar el censo electoral a favor del PP, así como presunta compra directa de votos. Entre los hechos investigados figuraban pagos irregulares de eventos políticos por empresas privadas, como el mitin de Mariano Rajoy en 2005 pagado por la inmobiliaria Grupo Europa por 16.000 euros, además de conciertos de Miguel Ríos (30.000 euros) y Bebe (22.000 euros). El caso también reveló gestiones irregulares como quitar multas de tráfico a personas cercanas al poder municipal.
-
-  La investigación se caracterizó por una extrema lentitud, pasando por once jueces diferentes en siete años, lo que provocó que los delitos estuvieran en riesgo de prescripción. Finalmente, el 15 de junio de 2023, una jueza sustituta dictó el archivo definitivo de la principal pieza del caso, argumentando que aunque había "comportamientos poco éticos", estos no constituían delitos penales. La jueza consideró que no se acreditó el tráfico de influencias porque las acciones fueron "meras solicitudes de información o gestiones amparadas en su adecuación social", que el planeamiento permitía la construcción de la desaladora como "autorizable" en suelo rústico, y que no se probó prevaricación al no haber "resolución injusta y arbitraria en consenso con los investigados". Tras 17 años de investigación, el caso quedó archivado sin condenas, pese a la gran cantidad de pruebas recopiladas incluyendo escuchas telefónicas comprometedoras.
-
-resumen: "Trama de corrupción urbanística, fraude electoral y tráfico de influencias en el Ayuntamiento de Mogán"
-coste: 2000000
-lugar: "Mogán, Gran Canaria, Canarias"
+estado: sobreseimiento
+descripcion: Investigación abierta en 2006 sobre actuaciones del gobierno municipal del PP en Mogán, dividida en
+  distintas piezas urbanísticas, económicas y electorales. La pieza de Grupo Europa fue sobreseída provisionalmente
+  en 2017. En junio de 2023 se publicó el archivo de la pieza de la depuradora de Taurito, descrita por EFE como
+  la última que permanecía abierta, al no apreciarse delito. Ese archivo no era firme cuando se publicó. No se ha
+  comprobado aquí su firmeza posterior ni todas las resoluciones individuales; las investigaciones de etapas posteriores
+  de Onalia Bueno no deben confundirse con Góndola.
+resumen: Investigación municipal en Mogán con archivos en distintas piezas, incluida la depuradora de Taurito en
+  2023, sin firmeza posterior comprobada.
+lugar: Mogán, Gran Canaria, Canarias
 tribunal:
-  - "Juzgado de Primera Instancia e Instrucción nº 6 de San Bartolomé de Tirajana"
-  - "Juzgado de Instrucción nº 1 de San Bartolomé de Tirajana"
-numeroSentencia: ""
+- Juzgado de Instrucción n.º 1 de San Bartolomé de Tirajana (antiguo Juzgado Mixto n.º 6)
+- Juzgado de Instrucción n.º 3 de Santa Cruz de Tenerife (causa derivada sobre Salvador Iglesias)
 implicados:
-  - nombre: "Francisco González"
-    cargo: "Alcalde de Mogán (PP)"
-    rol: "Investigado por prevaricación, cohecho y tráfico de influencias"
-
-  - nombre: "Onalia Bueno"
-    cargo: "Teniente de Alcalde de Mogán (PP), posteriormente Alcaldesa"
-    rol: "Investigada por fraude electoral, compra de votos y empadronamiento irregular"
-
-  - nombre: "Santiago Santana Cazorla"
-    cargo: "Empresario inmobiliario, propietario de Anfi Tauro"
-    rol: "Investigado por instalar depuradora ilegal en suelo rústico"
-
-  - nombre: "José Jiménez"
-    cargo: "Exconsejero de Medio Ambiente del Cabildo de Gran Canaria (PP)"
-    rol: "Imputado por tráfico de influencias para regularizar depuradora ilegal"
-
-  - nombre: "Manuel de León"
-    cargo: "Asesor de Onalia Bueno"
-    rol: "Implicado en fraude electoral y empadronamiento irregular"
-
-  - nombre: "Salvador Iglesias"
-    cargo: "Director del Gabinete del Presidente del Gobierno de Canarias"
-    rol: "Investigado por tráfico de influencias, causa archivada en 2009"
-
-  - nombre: "José Manuel Antón Marín"
-    cargo: "Propietario de Grupo Europa"
-    rol: "Implicado por financiación irregular de actos electorales del PP"
-
-  - nombre: "Álvaro Canales"
-    cargo: "Empresario"
-    rol: "Investigado, posteriormente sobreseído"
-
+- nombre: Francisco González González
+  cargo: Alcalde de Mogán por el PP durante los hechos investigados
+  rol: Detenido en enero de 2007. Investigado por prevaricación y tráfico de influencias en la pieza de Taurito,
+    archivada en 2023; también afectado por el sobreseimiento de Grupo Europa en 2017.
+- nombre: Onalia Bueno
+  cargo: Primera teniente de alcalde de Mogán por el PP en 2007; posteriormente alcaldesa con otras formaciones
+  rol: Detenida en enero de 2007 e investigada en distintas líneas. Su pieza de Grupo Europa fue sobreseída provisionalmente
+    en 2017; no se acredita aquí una condena en Góndola.
+- nombre: Santiago Santana Cazorla
+  cargo: Empresario promotor turístico
+  rol: Detenido en febrero de 2007. La pieza de Taurito, que le atribuía delitos contra la ordenación del territorio
+    y tráfico de influencias, fue archivada en 2023. La causa derivada con Salvador Iglesias fue sobreseída provisionalmente
+    en 2009.
+- nombre: José Jiménez
+  cargo: Exconsejero de Medio Ambiente y Aguas del Cabildo de Gran Canaria (PP)
+  rol: Citado como imputado en 2010 en relación con las gestiones de la depuradora de Taurito. No se ha comprobado
+    aquí una resolución individual posterior.
+- nombre: Manuel de León
+  cargo: Asesor de Onalia Bueno
+  rol: Detenido en 2007 e investigado en la línea electoral. Figura también en un sobreseimiento provisional de
+    la pieza de asesoramientos inmobiliarios de 2015 o 2016; ese archivo no determina por sí solo el resultado de
+    otras piezas.
+- nombre: Salvador Iglesias
+  cargo: Exjefe del gabinete del presidente del Gobierno de Canarias Adán Martín
+  rol: Investigado con Santana Cazorla en una causa derivada de las escuchas, sobreseída provisionalmente por el
+    Juzgado de Instrucción n.º 3 de Santa Cruz de Tenerife, según noticia de enero de 2009.
+- nombre: José Manuel Antón Marín
+  cargo: Propietario de Grupo Europa
+  rol: Investigado en la pieza sobre financiación de actos y un concurso de vivienda pública de Mogán, sobreseída
+    provisionalmente en 2017. Sus condenas por hechos de Telde pertenecen a otra causa.
+- nombre: Álvaro Canales
+  cargo: Gestor inmobiliario
+  rol: Detenido en febrero de 2007. Las investigaciones contra él fueron archivadas mediante autos de 2015 y 2016,
+    según información publicada en marzo de 2018.
+- nombre: Patricia Hernández
+  cargo: Funcionaria municipal de Mogán
+  rol: Investigada por prevaricación en la pieza de Taurito; archivo comunicado en junio de 2023.
+- nombre: Marcelino Martín
+  cargo: Exfuncionario municipal de Urbanismo de Mogán
+  rol: Investigado por tráfico de influencias en la pieza de Taurito; archivo comunicado en junio de 2023.
+- nombre: Ángel Sutil
+  cargo: Secretario municipal de Mogán durante los hechos
+  rol: Investigado en Góndola; sus cargos en la pieza de Taurito habían sido sobreseídos en marzo de 2023, según
+    EFE.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "cohecho"
-  - "tráfico de influencias"
-  - "fraude electoral"
-  - "urbanismo"
-  - "ordenación territorial"
-  - "compra de votos"
-
-impactoSocial: "Uno de los escándalos de corrupción más sonados de Canarias, que reveló una trama que se extendió desde el Ayuntamiento de Mogán hasta el Cabildo de Gran Canaria. Tras 17 años de investigación y 11 jueces diferentes, el caso fue archivado en 2023 sin condenas, generando una profunda frustración ciudadana ante la percepción de impunidad."
-
+- urbanismo
+- prevaricación
+- tráfico de influencias
+- cohecho
+- delito electoral
+impactoSocial: La investigación afectó al alcalde y a miembros del gobierno municipal de Mogán. En 2013, un informe
+  de la Inspección Fiscal atribuyó parte de la lentitud de la instrucción a la sucesión de once jueces en siete
+  años.
 documentos: []
-
 cronologia:
-  - fecha: "2005-12-01"
-    titulo: "Mitin de Mariano Rajoy financiado por empresa privada"
-    descripcion: "El Grupo Europa, inmobiliaria del empresario José Manuel Antón Marín, paga 16.000 euros por el mitin del presidente del PP Mariano Rajoy en Mogán, además de financiar conciertos de Miguel Ríos (30.000 euros) y Bebe (22.000 euros) para eventos del PP municipal. Esta financiación irregular de actos del partido con fondos empresariales formará parte posterior de la investigación del caso Góndola."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/canariasahora/tribunales/archivo-caso-gondola-17-anos-despues-jueza-aprecia-comportamientos-eticos-no-delictivos_1_10297349.html"
-
-  - fecha: "2006-06-01"
-    titulo: "Apertura de la investigación judicial"
-    descripcion: "Se abre oficialmente la investigación del caso Góndola tras denuncias sobre irregularidades urbanísticas, empadronamientos clandestinos, compra de votos y gestiones para quitar multas de tráfico a personas cercanas al poder en el Ayuntamiento de Mogán. La Brigada de Información de la Policía Nacional en la provincia de Las Palmas inicia las pesquisas que se dividirán en varias piezas separadas."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+G%C3%B3ndola&numero=253"
-
-  - fecha: "2007-01-18"
-    titulo: "Escuchas telefónicas revelan acceso de Santana Cazorla al presidente de Canarias"
-    descripcion: "Las escuchas telefónicas capturan una conversación entre el presidente del Gobierno de Canarias, Adán Martín, y el empresario Santiago Santana Cazorla, revelando el acceso directo que tenía Santana a las más altas autoridades municipales, insulares y regionales para presionar sobre la urbanización Anfi Tauro y otros proyectos inmobiliarios. Aunque sin reproche criminal, evidencia la cercanía entre poder político y empresarial."
-    type: "investigación"
-    urls:
-      - "https://www.canarias7.es/hemeroteca/operacion_gondola_el_y-8216-pinchazoy-8217-_a_adan_martin_-HDCSN90465"
-
-  - fecha: "2007-01-23"
-    titulo: "Detención del alcalde Francisco González y la concejala Onalia Bueno"
-    descripcion: "La Policía Nacional detiene al alcalde de Mogán, Francisco González (PP), y a la entonces concejala y teniente de alcalde Onalia Bueno (PP) en la primera fase de la Operación Góndola. Ambos son acusados de diversos delitos incluidos prevaricación, cohecho, fraude electoral, compra de votos y tráfico de influencias. Según denuncia posterior de la Jefatura Superior de Policía, los implicados tenían conocimiento previo de la fecha de su detención."
-    type: "detención"
-    urls:
-      - "https://www.eldiario.es/canariasahora/politica/inspector-gondola-denuncia-superior-policia_1_5640257.html"
-
-  - fecha: "2007-02-05"
-    titulo: "Detención del empresario Santiago Santana Cazorla"
-    descripcion: "En la segunda fase de la Operación Góndola, el empresario Santiago Santana Cazorla es detenido en el aeropuerto de Gran Canaria. Santana es acusado de delito contra la planificación territorial por la instalación de una depuradora ilegal en Taurito, en suelo rústico y sin informes favorables. También son detenidos tres trabajadores municipales del Ayuntamiento de Mogán."
-    type: "detención"
-    urls:
-      - "https://www.eldiario.es/canariasahora/tribunales/archivo-caso-gondola-17-anos-despues-jueza-aprecia-comportamientos-eticos-no-delictivos_1_10297349.html"
-
-  - fecha: "2008-04-01"
-    titulo: "Levantamiento parcial del secreto del sumario"
-    descripcion: "El juez instructor del caso Góndola levanta parcialmente el secreto del sumario que había estado vigente desde el verano de 2006. Se hacen públicas infinidad de grabaciones y escuchas policiales que ponen de manifiesto la presunta actividad ilícita del alcalde Francisco González, su ex teniente de alcalde Onalia Bueno, y otras personas implicadas como el empresario Santiago Santana Cazorla. Las escuchas revelan conversaciones comprometedoras sobre presiones a autoridades del Cabildo y el Gobierno canario."
-    type: "investigación"
-    urls:
-      - "https://eldiario.es/canariasahora/politica/sumario-caso-Gondola-descubierto_0_337717202.html"
-
-  - fecha: "2009-01-01"
-    titulo: "Archivo de la causa contra Salvador Iglesias"
-    descripcion: "La jueza archiva la causa contra Salvador Iglesias, director del Gabinete del presidente Adán Martín, al considerar que no existen pruebas suficientes de tráfico de influencias. Iglesias había sido investigado por su presunta participación en presiones para favorecer proyectos del empresario Santana Cazorla, pero el tribunal considera insuficientes los indicios para mantener la acusación."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/canariasahora/politica/Gondola-consejero-PP-Jose-Jimenez_0_122488825.html"
-
-  - fecha: "2010-03-01"
-    titulo: "Imputación del exconsejero José Jiménez"
-    descripcion: "La jueza Mónica Oliva del Juzgado de Primera Instancia e Instrucción número 6 de San Bartolomé de Tirajana imputa al exconsejero de Medio Ambiente y Aguas del Cabildo de Gran Canaria José Jiménez (PP). Jiménez aparece en escuchas telefónicas siendo presionado durante varios meses de 2006 por el alcalde de Mogán Francisco González para regularizar la depuradora de aguas residuales instalada ilegalmente en Taurito por Santiago Santana Cazorla. González figura como principal acusado con siete cargos, incluido cohecho."
-    type: "imputación"
-    urls:
-      - "https://www.eldiario.es/canariasahora/politica/Gondola-consejero-PP-Jose-Jimenez_0_122488825.html"
-
-  - fecha: "2013-02-11"
-    titulo: "Fiscalía denuncia lentitud extrema: 11 jueces en 7 años"
-    descripcion: "La Fiscalía emite un informe culpando al juzgado de la extrema lentitud en la instrucción del caso Góndola. La causa principal señalada es que once magistrados diferentes han pasado por el caso en siete años, provocando una paralización casi total de la investigación. La Fiscalía advierte que todo el caso corre el riesgo de quedar archivado por prescripción de los delitos."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/canariasahora/sociedad/Fiscalia-culpa-juzgado-lentitud-Gondola_0_135437592.html"
-
-  - fecha: "2017-01-01"
-    titulo: "Archivo de la pieza separada del Grupo Europa"
-    descripcion: "Se archiva la pieza separada del caso Góndola relacionada con el empresario José Manuel Antón Marín y su empresa Grupo Europa, que había financiado irregularmente eventos del PP en Mogán, incluyendo el mitin de Mariano Rajoy y conciertos musicales. Esta es la primera pieza importante del caso que se cierra sin condenas. La parte de Onalia Bueno relacionada con esta pieza también queda archivada."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/canariasahora/tribunales/archivo-caso-gondola-17-anos-despues-jueza-aprecia-comportamientos-eticos-no-delictivos_1_10297349.html"
-
-  - fecha: "2023-06-15"
-    titulo: "Archivo definitivo del caso tras 17 años de investigación"
-    descripcion: "Una jueza sustituta dicta la resolución de archivo de la principal pieza del caso Góndola, cerrando definitivamente una investigación que duró 17 años. La magistrada considera que los comportamientos investigados fueron 'poco éticos' pero no constituyeron delitos penales. Argumenta que no se acreditó el tráfico de influencias porque las acciones fueron 'meras solicitudes de información o gestiones amparadas en su adecuación social' y que no se probó prevaricación. Aproximadamente 20 personas habían sido imputadas en total, incluyendo a Francisco González, Santiago Santana Cazorla (refugiado en Marruecos) y Onalia Bueno (actual alcaldesa de Mogán)."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/canariasahora/tribunales/archivo-caso-gondola-17-anos-despues-jueza-aprecia-comportamientos-eticos-no-delictivos_1_10297349.html"
-
+- fecha: '2007-01-23'
+  titulo: Detención del alcalde y otros cuatro investigados
+  descripcion: La Policía detiene a Francisco González, Onalia Bueno, Manuel de León, Ángel Sutil y Marcelino Martín,
+    y registra domicilios y dependencias municipales.
+  type: detencion
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/canariasahora/politica/detenido-popular-mogan-personas-corrupcion_1_5647463.html
+- fecha: '2007-02-05'
+  titulo: Detención de Santiago Santana Cazorla
+  descripcion: El empresario es detenido en el aeropuerto de Gran Canaria en la segunda fase de la operación. La
+    detención no constituye una condena.
+  type: detencion
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/canariasahora/tribunales/archivo-caso-gondola-17-anos-despues-jueza-aprecia-comportamientos-eticos-no-delictivos_1_10297349.html
+- fecha: '2009-01-13'
+  titulo: Se conoce el archivo de la causa de Salvador Iglesias
+  descripcion: Se informa del sobreseimiento provisional de la causa derivada contra Iglesias y Santana Cazorla
+    por tráfico de influencias. Fecha de publicación, no del auto.
+  type: investigacion
+  relevancia: media
+  urls:
+  - https://www.eldiario.es/canariasahora/politica/archivan-santana-cazorla-salvador-iglesias_1_4617419.amp.html
+- fecha: '2010-03-24'
+  titulo: Se conoce la citación de José Jiménez como imputado
+  descripcion: La prensa informa de su citación, junto con otros investigados, para declarar en junio. La fecha
+    corresponde a la noticia, no al día de la declaración.
+  type: imputacion
+  relevancia: media
+  urls:
+  - https://www.eldiario.es/canariasahora/politica/gondola-consejero-pp-jose-jimenez_1_5643189.html
+- fecha: '2013-05-23'
+  titulo: Se publica el informe sobre la lentitud de la instrucción
+  descripcion: Canarias Ahora informa de un documento de la Inspección Fiscal fechado el 19 de abril que señala
+    la sucesión de once jueces en siete años. La fecha del hito es la publicación.
+  type: investigacion
+  relevancia: media
+  urls:
+  - https://www.eldiario.es/canariasahora/sociedad/fiscalia-culpa-juzgado-lentitud-gondola_1_5686953.html
+- fecha: '2017-04-24'
+  titulo: Se conoce el sobreseimiento de Grupo Europa en Mogán
+  descripcion: Se informa del auto de 20 de abril que sobresee provisionalmente la pieza. La Fiscalía no apreció
+    prueba suficiente del vínculo entre los actos financiados y la adjudicación del concurso de vivienda.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/canariasahora/especial/caso_grupo_europa/fiscalia-rajoy-inmobiliaria-expulsar-acusacion_1_3442431.html
+- fecha: '2018-03-23'
+  titulo: Se conocen los archivos relativos a Álvaro Canales
+  descripcion: La noticia describe autos de 2015 y 2016 sobre asesoramientos inmobiliarios y un supuesto soborno
+    relacionado con un precinto de Costas. No es la fecha de esos autos.
+  type: investigacion
+  relevancia: media
+  urls:
+  - https://www.eldiario.es/canariasahora/tribunales/archivo-causa-caso-gondola-empresario-alvaro-canales_1_2225656.html
+- fecha: '2023-06-15'
+  titulo: Se conoce el archivo de la pieza de Taurito
+  descripcion: La prensa informa del archivo por no apreciar delitos contra la ordenación del territorio, prevaricación
+    o tráfico de influencias. La información advierte que aún no es firme. Fecha de publicación, no del auto.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/canariasahora/tribunales/archivo-caso-gondola-17-anos-despues-jueza-aprecia-comportamientos-eticos-no-delictivos_1_10297349.html
+  - https://rtvc.es/el-juez-archiva-la-ultima-pieza-del-caso-gondola/
 ---
+
+Las diligencias comenzaron en junio de 2006, sin día de apertura identificado en las fuentes consultadas. El nombre Góndola agrupó numerosas líneas de investigación; por ello, un archivo referido a unas personas o hechos no debe trasladarse automáticamente al resto. [Instrucción y piezas](https://www.eldiario.es/canariasahora/sociedad/fiscalia-culpa-juzgado-lentitud-gondola_1_5686953.html).
+
+En la pieza de Grupo Europa se investigó si la financiación empresarial de un mitin y conciertos guardaba relación con un concurso de vivienda pública. El sobreseimiento provisional de abril de 2017 se acordó tras pedirlo la Fiscalía, que no consideró acreditado ese vínculo; previamente se había excluido a la acusación popular. Los gastos de los actos no permiten fijar un perjuicio municipal probado. [Archivo de Grupo Europa](https://www.eldiario.es/canariasahora/especial/caso_grupo_europa/fiscalia-rajoy-inmobiliaria-expulsar-acusacion_1_3442431.html).
+
+La causa relativa a la depuradora de Taurito se archivó en junio de 2023. La instructora consideró que la instalación era susceptible de legalización y que las diligencias no acreditaban los delitos investigados. La referencia a comportamientos poco éticos no equivale a una condena penal. EFE describió esta como la última pieza viva, pero la noticia del archivo advertía expresamente que la resolución aún podía recurrirse. No se ha comprobado aquí una decisión posterior sobre su firmeza. [Resultado de Taurito](https://rtvc.es/el-juez-archiva-la-ultima-pieza-del-caso-gondola/) y [situación al publicarse](https://www.eldiario.es/canariasahora/tribunales/archivo-caso-gondola-17-anos-despues-jueza-aprecia-comportamientos-eticos-no-delictivos_1_10297349.html).
+
+Las pesquisas electorales de Góndola deben distinguirse de las causas de etapas posteriores de Onalia Bueno y de su antiguo partido Ciuca. La resolución publicada en julio de 2025 sobre una mediación con un empresario corresponde a una causa derivada de la investigación electoral de 2015, no acredita un recurso sobre el archivo de Taurito. [Investigación electoral histórica](https://www.eldiario.es/canariasahora/politica/busca-voto-fraudulento-mogan_1_5841043.html) y [resolución de otra causa en 2025](https://www.eldiario.es/canariasahora/tribunales/audiencia-confirma-archivo-alcaldesa-mogan-testigo-clave-declarar-imputada-error_1_12492470.html).
