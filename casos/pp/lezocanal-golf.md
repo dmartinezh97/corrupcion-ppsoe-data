@@ -82,7 +82,7 @@ cronologia:
   titulo: Adjudicación del proyecto modificado
   descripcion: Según el relato acusatorio del auto, el Consejo de Administración aprueba el modificado y su adjudicación
     directa a Dragados, con participación de González y De Miguel. La preparación se remonta a junio de 2004, sin
-    día exacto acreditado; no se inventa una fecha de primero de mes.
+    día exacto acreditado.
   type: investigacion
   relevancia: media
   urls:
@@ -108,8 +108,7 @@ cronologia:
 - fecha: '2021-05-24'
   titulo: Pase a procedimiento abreviado de la pieza
   descripcion: El auto de apertura de agosto identifica en esta fecha la resolución de continuación contra los cinco
-    investigados. La noticia de Público de 26 de mayo comunica ese paso; no se sitúa en 2023 ni se confunde con
-    una condena.
+    investigados. La noticia de Público de 26 de mayo comunica ese paso, que permite continuar el procedimiento sin resolver la culpabilidad.
   type: investigacion
   relevancia: alta
   urls:
@@ -119,7 +118,7 @@ cronologia:
   titulo: Escrito de acusación de Fiscalía
   descripcion: El auto fecha el escrito fiscal en este día. Solicita apertura de juicio por dos delitos de cohecho
     y penas de seis años y 550.000 euros de multa para cada acusado. La petición se publicó en prensa el 29 de junio,
-    no en 2024.
+    en 2021.
   type: juicio
   relevancia: media
   urls:
