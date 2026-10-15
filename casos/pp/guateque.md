@@ -57,21 +57,21 @@ documentos:
   - fecha: '2018-06-27'
     titulo: 'Tribunal Supremo: sentencia 311/2018, recurso 1801/2017'
     filetype: pdf
-    paginas: 10
-    nombre_fichero: https://img.lpderecho.pe/wp-content/uploads/2022/10/STS-2290-2018-LPDerecho.pdf
+    paginas: 11
+    nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=1ab332d954ea02c3&encode=true&databasematch=TS
 cronologia:
   - fecha: '2007-03-06'
     titulo: Grabación que originó la investigación
     descripcion: Según los hechos recogidos por el Supremo, agentes de la Guardia Civil entregaron a un particular una grabadora para registrar una conversación sobre una supuesta petición de dinero. La nulidad de esta actuación fue decisiva para la absolución.
     type: investigacion
     urls:
-      - https://img.lpderecho.pe/wp-content/uploads/2022/10/STS-2290-2018-LPDerecho.pdf
+      - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=1ab332d954ea02c3&encode=true&databasematch=TS
   - fecha: '2007-04-02'
     titulo: Apertura de las diligencias judiciales
     descripcion: El Juzgado de Instrucción nº 32 abrió las diligencias previas 939/2007 y acordó medidas de investigación basadas en la conversación transcrita y la declaración del denunciante. No es la fecha de la operación policial de noviembre.
     type: investigacion
     urls:
-      - https://img.lpderecho.pe/wp-content/uploads/2022/10/STS-2290-2018-LPDerecho.pdf
+      - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=1ab332d954ea02c3&encode=true&databasematch=TS
   - fecha: '2007-11-14'
     titulo: Dieciséis detenciones en la operación Guateque
     descripcion: Las informaciones sobre el juicio sitúan en este día las detenciones iniciales por supuestas comisiones para agilizar licencias. Las imputaciones posteriores no equivalen a condenas.
@@ -102,7 +102,7 @@ cronologia:
     descripcion: La sentencia 408/2017 absuelve a treinta acusados de los delitos por los que fueron juzgados. La ilicitud de la grabación inicial y su conexión con el resto de la investigación impidieron valorar las pruebas derivadas.
     type: sentencia
     urls:
-      - https://img.lpderecho.pe/wp-content/uploads/2022/10/STS-2290-2018-LPDerecho.pdf
+      - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=1ab332d954ea02c3&encode=true&databasematch=TS
       - https://www.europapress.es/madrid/noticia-absueltos-procesados-caso-guateque-anular-audiencia-madrid-toda-prueba-20170619162035.html
       - https://elpais.com/ccaa/2017/06/20/madrid/1497969834_017053.html
   - fecha: '2018-06-27'
@@ -110,7 +110,7 @@ cronologia:
     descripcion: La sentencia 311/2018 desestima los recursos de la Fiscalía y del Ayuntamiento, condenando solo a este último en costas. El fallo indica que no cabe recurso.
     type: sentencia
     urls:
-      - https://img.lpderecho.pe/wp-content/uploads/2022/10/STS-2290-2018-LPDerecho.pdf
+      - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=1ab332d954ea02c3&encode=true&databasematch=TS
       - https://www.europapress.es/madrid/noticia-supremo-confirma-absolucion-procesados-caso-guateque-condena-ayuntamiento-costas-20180628123555.html
   - fecha: '2018-06-28'
     titulo: Notificación y firmeza documentadas
@@ -138,4 +138,4 @@ Las empresas también deben distinguirse. Santiago Castillo Morales estaba relac
 
 El dictamen del Consejo de Estado de noviembre de 2023 recoge reclamaciones posteriores y propone compensaciones por dilaciones y prisión preventiva. No es una sentencia penal ni acredita por sí mismo pagos efectivamente realizados. La ficha no agrega esas cantidades, las comisiones denunciadas y los costes procesales como si fueran un perjuicio económico único. Tampoco publica cero euros como daño probado: falta una cuantificación consolidada y verificable.
 
-Fuentes: [sentencia del Supremo 311/2018](https://img.lpderecho.pe/wp-content/uploads/2022/10/STS-2290-2018-LPDerecho.pdf); [dictamen del Consejo de Estado 732/2023](https://www.boe.es/buscar/doc.php?id=CE-D-2023-732&lang=es); [archivo parcial de Armada](https://laadministracionaldia.inap.es/noticia.asp?id=1058142); [información sobre el juicio](https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-juicio-del-caso-guateque-del-ayuntamiento-de-madrid-arranca-diez-anos-despues-con-34-acusados-2017-01-10/); [acusación fiscal publicada en 2014](https://www.telemadrid.es/noticias/madrid/Fiscalia-pide-prision-acusados-Guateque-0-1569143129--20140428025401.html); [absoluciones de 2017](https://www.europapress.es/madrid/noticia-absueltos-procesados-caso-guateque-anular-audiencia-madrid-toda-prueba-20170619162035.html); [resolución del recurso en 2018](https://www.europapress.es/madrid/noticia-supremo-confirma-absolucion-procesados-caso-guateque-condena-ayuntamiento-costas-20180628123555.html).
+Fuentes: [sentencia del Supremo 311/2018](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=1ab332d954ea02c3&encode=true&databasematch=TS); [dictamen del Consejo de Estado 732/2023](https://www.boe.es/buscar/doc.php?id=CE-D-2023-732&lang=es); [archivo parcial de Armada](https://laadministracionaldia.inap.es/noticia.asp?id=1058142); [información sobre el juicio](https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-juicio-del-caso-guateque-del-ayuntamiento-de-madrid-arranca-diez-anos-despues-con-34-acusados-2017-01-10/); [acusación fiscal publicada en 2014](https://www.telemadrid.es/noticias/madrid/Fiscalia-pide-prision-acusados-Guateque-0-1569143129--20140428025401.html); [absoluciones de 2017](https://www.europapress.es/madrid/noticia-absueltos-procesados-caso-guateque-anular-audiencia-madrid-toda-prueba-20170619162035.html); [resolución del recurso en 2018](https://www.europapress.es/madrid/noticia-supremo-confirma-absolucion-procesados-caso-guateque-condena-ayuntamiento-costas-20180628123555.html).
