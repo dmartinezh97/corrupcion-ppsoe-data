@@ -1,209 +1,117 @@
 ---
 nombre: "Caso Gürtel - Pieza Arganda"
 partido: PP
-completado: true
-año: 2009
-fechaInicio: 2009-02-06
-fechaFin: 2025-05-08
-estado: "cerrado con condenas"
+completado: false
+año: 1998
+estado: "desconocido"
 descripcion: |
-  El Caso Gürtel - Pieza Arganda es una de las ramificaciones más significativas del macrocaso Gürtel, centrada en las adjudicaciones irregulares de la trama corrupta liderada por Francisco Correa en el municipio madrileño de Arganda del Rey entre 1998 y 2009. La investigación judicial reveló que el exalcalde del PP Ginés López y su número dos, Benjamín Martín Vasco, coordinaron junto a Correa un sistema de comisiones ilegales por valor de 25 millones de euros pagados por el empresario constructor Fernando Martín (expresidente de Martinsa y del Real Madrid) a cambio de la adjudicación de la parcela urbanística UE-124, conocida como "Área de Centralidad", el mayor pelotazo inmobiliario de la red criminal. El sistema operaba mediante un "ayuntamiento paralelo" donde Correa mandaba más que las instituciones democráticas, modificando planes urbanísticos para aumentar la edificabilidad y permitir construcciones de hasta 13 plantas en una zona residencial.
+  Pieza de Gürtel sobre contratación del Ayuntamiento de Arganda del Rey y su Sociedad de Fomento, con hechos situados desde al menos 1998 hasta 2009. Incluye contratos con empresas de Francisco Correa y con Teconsa, Constructora Hispánica y Martinsa; entre ellos, la adjudicación de las parcelas UE-124. La sentencia describe comisiones de 25 millones de euros vinculadas a esta operación, una cifra que no equivale al perjuicio público total ni al importe de las indemnizaciones.
 
-  La operación se selló en 2003-2004 en el Hotel Fénix Gran Meliá de Madrid, donde Correa y Fernando Martín acordaron que el primero usaría sus contactos políticos en el PP para facilitar la adjudicación de 158.000 m² de suelo municipal por 77,2 millones de euros. Las comisiones se pagaron en dos tramos: 12 millones tras la adjudicación municipal en noviembre de 2004, y el resto cuando la Comunidad de Madrid de Esperanza Aguirre aprobó el proyecto urbanístico en 2006. El dinero se canalizó a través de cuentas en Suiza y empresas pantalla gestionadas por el abogado Ramón Blanco Balín, considerado el cerebro financiero de la trama. López confesó haber recibido 523.427 euros, mientras que Martín Vasco admitió 363.295 euros, aunque las investigaciones apuntan a cantidades superiores. La parcela sigue en construcción dos décadas después, con graves deficiencias urbanísticas como calles demasiado estrechas y edificios desproporcionados.
+  La Sección Segunda de la Sala de lo Penal de la Audiencia Nacional dictó la sentencia 12/2025 el 22 de abril de 2025, difundida en mayo. Condenó a 19 personas: Correa y Pablo Crespo recibieron ocho años y diez meses de prisión; Ginés López, cinco años y siete meses; Benjamín Martín Vasco, seis años; y Fernando Martín, tres años y cuatro meses. Se apreció confesión en todos salvo Luis Bremond. Los delitos y penas de esta pieza no deben confundirse con las condenas de otras ramas de Gürtel.
 
-  El caso se destapó en febrero de 2009 cuando el juez Baltasar Garzón ordenó una macrooperación contra la trama Gürtel que incluyó la detención del alcalde López, quien dimitió días después. Tras diez años de instrucción marcados por la inhabilitación de Garzón en 2012, el juez José de la Mata decretó en septiembre de 2019 la apertura de juicio oral contra 21 acusados, imponiendo fianzas de hasta 80 millones de euros a los cabecillas. El juicio comenzó el 3 de marzo de 2025 en la Audiencia Nacional, donde 19 de los 20 acusados reconocieron los hechos a cambio de reducciones de pena. La sentencia del 8 de mayo de 2025 condenó a Correa y Crespo a 8 años y 10 meses de prisión, a López a 5 años y 7 meses, y a Martín Vasco a 6 años. El caso ha dejado a Arganda del Rey con una deuda municipal cercana a los 100 millones de euros, convirtiendo al municipio de 60.000 habitantes en uno de los más endeudados de España, lo que ha impedido inversiones públicas necesarias durante más de una década.
-
-resumen: "Pieza del caso Gürtel sobre adjudicaciones irregulares en Arganda del Rey a cambio de 25 millones de euros en comisiones"
-coste: 25000000
+  La resolución permitía recurso de casación. No se ha verificado a 15 de octubre de 2026 la firmeza individual de todos los pronunciamientos ni una resolución posterior del recurso penal o de ejecución. Por ello, no se presenta mayo de 2025 como fecha de cierre definitivo ni se deduce del reconocimiento de los hechos que todos renunciaran a recurrir.
+resumen: "Condenas de 2025 por contratos y comisiones en Arganda, incluida UE-124; firmeza individual posterior no verificada"
 lugar: "Arganda del Rey, Comunidad de Madrid"
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción - Juez Baltasar Garzón (2009-2012)"
-  - "Audiencia Nacional - Juzgado Central de Instrucción - Juez José de la Mata (2012-2025)"
-  - "Audiencia Nacional - Sala de lo Penal"
-numeroSentencia: ""
+  - "Audiencia Nacional - Juzgado Central de Instrucción número 5"
+  - "Audiencia Nacional - Sala de lo Penal, Sección Segunda"
+numeroSentencia: "SAN 12/2025, de 22 de abril (ROJ SAN 2194/2025; ECLI:ES:AN:2025:2194)"
 implicados:
-  - nombre: "Francisco Correa Sánchez"
-    cargo: "Empresario, líder de la trama Gürtel"
-    rol: "Condenado a 8 años y 10 meses por organización criminal y cohecho"
-
-  - nombre: "Pablo Crespo Sabaris"
-    cargo: "Mano derecha de Correa en la trama Gürtel"
-    rol: "Condenado a 8 años y 10 meses por organización criminal y cohecho"
-
-  - nombre: "Ginés López González"
-    cargo: "Exalcalde de Arganda del Rey (PP, 2003-2009)"
-    rol: "Condenado a 5 años y 7 meses; recibió 523.427 € en comisiones"
-
+  - nombre: "Francisco Correa"
+    cargo: "Empresario y responsable del grupo de empresas de Gürtel"
+    rol: "Condenado en esta pieza a ocho años y diez meses de prisión por su participación en prevaricación, fraude, cohecho, falsedad y malversación, además de multas e inhabilitaciones. Firmeza posterior no verificada."
+  - nombre: "Pablo Crespo"
+    cargo: "Colaborador de Correa y exsecretario de Organización del PP de Galicia"
+    rol: "Condenado en esta pieza a ocho años y diez meses de prisión por su participación en prevaricación, fraude, cohecho, falsedad y malversación, además de multas e inhabilitaciones. Firmeza posterior no verificada."
+  - nombre: "Ginés López"
+    cargo: "Alcalde de Arganda del Rey (PP) en 1995-1999 y 2003-2009"
+    rol: "Condenado a cinco años y siete meses de prisión por fraude, cohecho, falsedad y malversación, además de prevaricación penada con inhabilitación. El fallo acuerda decomisar cobros en efectivo y especie por 545.328,98 euros. Firmeza posterior no verificada."
   - nombre: "Benjamín Martín Vasco"
-    cargo: "Exteniente de alcalde de Arganda y exdiputado autonómico del PP"
-    rol: "Condenado a 6 años por cohecho y fraude en adjudicaciones municipales"
-
-  - nombre: "Fernando Martín Álvarez"
-    cargo: "Constructor, expresidente de Martinsa y del Real Madrid (2006)"
-    rol: "Condenado a 3 años y 4 meses; pagó 25 millones en comisiones a Correa"
-
-  - nombre: "María Josefa Aguado Olmo"
-    cargo: "Exdiputada del PP en la Asamblea de Madrid, exresponsable de Deportes"
-    rol: "Condenada por prevaricación y fraude en contrato de Olimpiadas Escolares"
-
-  - nombre: "Isabel Jordán García"
-    cargo: "Administradora de empresas del Grupo Correa"
-    rol: "Condenada a 3 años y 5 meses por gestión del entramado financiero"
-
+    cargo: "Exconcejal de Arganda, consejero delegado de su Sociedad de Fomento y exdiputado autonómico del PP"
+    rol: "Condenado a seis años de prisión por fraude, cohecho, falsedad, insolvencia punible y malversación, además de prevaricación penada con inhabilitación. Decomiso de cobros por 363.295,63 euros. Firmeza posterior no verificada."
+  - nombre: "Fernando Martín"
+    cargo: "Empresario, expresidente de Martinsa y del Real Madrid"
+    rol: "Condenado a tres años y cuatro meses de prisión por fraude, cohecho y dos delitos fiscales, además de prevaricación penada con inhabilitación. Participó en el pago de la comisión vinculada a Martinsa; firmeza posterior no verificada."
+  - nombre: "María Josefa Aguado"
+    cargo: "Responsable de Deportes de la Sociedad de Fomento y exdiputada autonómica del PP"
+    rol: "Condenada a diez meses de prisión por fraude y complicidad en malversación relacionada con la X Olimpiada Escolar, además de prevaricación penada con inhabilitación. Firmeza posterior no verificada."
+  - nombre: "Isabel Jordán"
+    cargo: "Administradora de sociedades del grupo Correa"
+    rol: "Condenada a tres años y cinco meses de prisión por fraude, cohecho, falsedad y malversación, además de prevaricación penada con inhabilitación. Firmeza posterior no verificada."
   - nombre: "Ramón Blanco Balín"
-    cargo: "Abogado, exdirectivo de Repsol designado por Aznar"
-    rol: "Condenado a 1 año y 8 meses como cerebro financiero de la trama"
-
+    cargo: "Asesor financiero vinculado a Correa"
+    rol: "Condenado a un año y ocho meses de prisión por fraude y cooperación en cohecho pasivo. El fallo recoge el ingreso de los 130.000 euros percibidos por su intervención en la operación Martinsa. Firmeza posterior no verificada."
   - nombre: "Juan Fernández Caballero"
-    cargo: "Exconsejero delegado vinculado a la trama"
-    rol: "Condenado a 6 años y 3 meses por fraude y cohecho"
-
-  - nombre: "José Luis Izquierdo Ruiz"
-    cargo: "Contable de la trama Gürtel"
-    rol: "Condenado a 2 años y 8 meses por falsedad documental y blanqueo"
-
-  - nombre: "Luis Bremond Gómez"
-    cargo: "Gerente municipal de Arganda del Rey"
-    rol: "Condenado a 1 año y 11 meses; único acusado que rechazó conformidad"
-
+    cargo: "Director financiero y posterior consejero delegado de la Sociedad de Fomento de Arganda"
+    rol: "Condenado en esta pieza a seis años y tres meses de prisión por fraude, cohecho, falsedad y varias malversaciones, además de prevaricación penada con inhabilitación. No se suman aquí condenas de otros procedimientos; firmeza posterior no verificada."
+  - nombre: "José Luis Izquierdo"
+    cargo: "Contable del grupo Correa"
+    rol: "Condenado a dos años y ocho meses de prisión por cohecho activo y falsedad documental. La condena de esta pieza no se describe como blanqueo; firmeza posterior no verificada."
+  - nombre: "Luis Bremond"
+    cargo: "Exfuncionario y asesor jurídico municipal de Arganda del Rey"
+    rol: "Condenado a un año y once meses de prisión por fraude y cooperación en malversación, además de prevaricación penada con inhabilitación. Negó los hechos y no recibió la atenuante de confesión. Firmeza posterior no verificada."
   - nombre: "Joaquín Martín Vasco"
-    cargo: "Hermano de Benjamín Martín Vasco, vinculado a adjudicaciones"
-    rol: "Procesado por colaboración en el sistema de comisiones ilegales"
-
+    cargo: "Hermano de Benjamín Martín Vasco"
+    rol: "Condenado a cuatro meses de prisión como cooperador necesario en insolvencia punible por la ocultación patrimonial descrita en la sentencia, no por recibir la comisión urbanística. Firmeza posterior no verificada."
 tags:
-  - "corrupción"
   - "prevaricación"
   - "cohecho"
   - "fraude"
   - "malversación"
-  - "blanqueo de capitales"
-  - "organización criminal"
-  - "tráfico de influencias"
+  - "falsedad documental"
   - "urbanismo"
-
-impactoSocial: "El Caso Gürtel-Arganda dejó al municipio con una deuda cercana a 100 millones de euros, convirtiéndolo en uno de los ayuntamientos más endeudados de España. El escándalo evidenció la existencia de un 'ayuntamiento paralelo' controlado por la trama corrupta que durante años mandó más que las instituciones democráticas, generando un profundo descrédito político del PP madrileño y privando a 60.000 habitantes de inversiones públicas necesarias durante más de una década."
-
-documentos: []
-
+documentos:
+  - fecha: "2025-04-22"
+    titulo: "Sentencia 12/2025 de la Audiencia Nacional, pieza Arganda"
+    filetype: "pdf"
+    paginas: 92
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d3be7eddac38c567a0a8778d75e36f0d&encode=true&databasematch=AN"
 cronologia:
-  - fecha: 2003-06-01
-    titulo: "El PP de Ginés López gana las elecciones municipales en Arganda"
-    descripcion: "El Partido Popular, con Ginés López como candidato, gana las elecciones municipales en Arganda del Rey tras casi dos décadas de gobiernos progresistas. López accede a la alcaldía y comienza su relación con la trama Gürtel liderada por Francisco Correa, quien ya operaba desde la sede del PP en Génova organizando actos y campañas durante el gobierno de José María Aznar."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/arganda-rey-corruptos-gurtel-mandaban-alcalde_1_12112121.html"
-
-  - fecha: 2003-12-01
-    titulo: "Reunión entre Correa y Fernando Martín en el Hotel Fénix Gran Meliá"
-    descripcion: "Francisco Correa y el empresario constructor Fernando Martín (Martinsa) se reúnen en el Hotel Fénix Gran Meliá de Madrid para cerrar el acuerdo de la parcela UE-124 de Arganda. Martín había identificado la operación como una oportunidad de negocio millonaria. Pactan que Correa utilizará sus contactos políticos en el PP para facilitar la adjudicación a cambio de una comisión de 25 millones de euros, negociada 'piso a piso' según confesó posteriormente Martín."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/politica/arganda-rey-corruptos-gurtel-mandaban-alcalde_1_12112121.html"
-      - "https://www.publico.es/politica/promotor-expresidente-real-madrid-admite-pago-mordida-25-millones-guertel.html"
-
   - fecha: 2004-11-25
-    titulo: "Adjudicación de la parcela UE-124 a Martinsa por 77,2 millones de euros"
-    descripcion: "El Ayuntamiento de Arganda del Rey, con Ginés López como alcalde, adjudica oficialmente la parcela UE-124 (Área de Centralidad) de 158.000 m² a la empresa Martinsa de Fernando Martín por 77,2 millones de euros. Esta operación urbanística, la mayor de la trama Gürtel en Madrid, permitía construir edificios de hasta 13 plantas. Tras la adjudicación, se realiza el primer pago de comisiones ilegales por valor de 12 millones de euros a través de cuentas en Suiza."
-    type: "investigación"
+    titulo: "Adjudicación de las parcelas UE-124 a Martinsa"
+    descripcion: "Según los hechos probados, el Consejo de Administración de la Sociedad de Fomento acordó adjudicar las parcelas a Martinsa. El contrato de compraventa se formalizó el 23 de diciembre de 2004. No se confunde el precio de la operación con la comisión ni con el daño indemnizable."
+    type: "adjudicacion"
     urls:
-      - "https://www.eldiario.es/politica/arganda-rey-corruptos-gurtel-mandaban-alcalde_1_12112121.html"
-
-  - fecha: 2006-01-01
-    titulo: "La Comunidad de Madrid de Aguirre aprueba el proyecto urbanístico"
-    descripcion: "El gobierno de la Comunidad de Madrid, presidido por Esperanza Aguirre con Ignacio González como vicepresidente, aprueba las modificaciones urbanísticas necesarias para el desarrollo de la parcela UE-124 en Arganda. Tras esta aprobación autonómica, se efectúa el segundo tramo de comisiones ilegales, completando los 25 millones de euros pactados entre Correa y Fernando Martín. El dinero se distribuye entre los cabecillas de la trama."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/politica/arganda-rey-corruptos-gurtel-mandaban-alcalde_1_12112121.html"
-
-  - fecha: 2007-01-01
-    titulo: "José Luis Peñas entrega grabaciones a la Fiscalía Anticorrupción"
-    descripcion: "El exconcejal del PP en Majadahonda José Luis Peñas entrega a la Fiscalía Anticorrupción 18 horas de grabaciones de conversaciones con miembros de la trama Gürtel, lo que desencadena la investigación judicial. Según el testimonio de Francisco Granados, Mariano Rajoy llamó a Esperanza Aguirre en 2007-2008 para advertirle de que un empresario se había quejado de que dos parcelas en Majadahonda y Arganda ya estaban adjudicadas antes de salir a concurso público."
-    type: "denuncia"
-    urls:
-      - "https://www.eleconomista.es/legislacion/noticias/8943995/02/18/Granados-al-juez-Rajoy-destapo-Gurtel-y-dijo-a-Aguirre-que-lo-parara.html"
-      - "https://anpoto.blogs.uv.es/2011/05/19/cronologa-del-caso-grtel/"
-
-  - fecha: 2009-02-06
-    titulo: "Operación Gürtel: macrooperación policial con decenas de detenciones"
-    descripcion: "El juez Baltasar Garzón de la Audiencia Nacional ordena una macrooperación policial coordinada por la Guardia Civil contra la trama de corrupción Gürtel. Se realizan detenciones en Madrid y Valencia, afectando a políticos del PP, funcionarios y empresarios. Entre los municipios afectados se encuentran Arganda del Rey, Boadilla del Monte, Pozuelo de Alarcón y Majadahonda, donde la red había extendido su actividad corrupta mediante adjudicaciones irregulares de contratos públicos."
-    type: "detención"
-    urls:
-      - "https://anpoto.blogs.uv.es/2011/05/19/cronologa-del-caso-grtel/"
-      - "https://actualidadvalencia.com/fin-era-gurtel-once-sentencias-ultimo-juicio-anos-despues/"
-
-  - fecha: 2009-03-05
-    titulo: "Baltasar Garzón imputa al alcalde Ginés López y otros cinco cargos del PP"
-    descripcion: "El juez Baltasar Garzón amplía las imputaciones del Caso Gürtel a seis miembros del Partido Popular, entre ellos el alcalde de Arganda del Rey Ginés López y el alcalde de Pozuelo de Alarcón Jesús Sepúlveda. La decisión judicial se basa en los indicios de que ambos alcaldes habrían recibido comisiones ilegales de la trama liderada por Francisco Correa a cambio de adjudicaciones municipales irregulares."
-    type: "imputación"
-    urls:
-      - "https://www.publico.es/actualidad/dimiten-alcaldes-arganda-pozuelo-implicacion-caso-guertel.html"
-
-  - fecha: 2009-03-06
-    titulo: "Dimisión del alcalde Ginés López tras su imputación"
-    descripcion: "Ginés López presenta su dimisión como alcalde de Arganda del Rey un día después de ser imputado por el juez Garzón en el Caso Gürtel. En su comunicado, López afirma dimitir 'para dejar a un lado la institución que represento y amo' y niega haber hecho 'nada al margen de la ley', declarándose desconocedor de los hechos que se le imputan. Pablo José Rodríguez Sardinero (PP) asume la alcaldía tras la renuncia."
-    type: "resumen"
-    urls:
-      - "https://www.publico.es/actualidad/dimiten-alcaldes-arganda-pozuelo-implicacion-caso-guertel.html"
-
-  - fecha: 2012-02-09
-    titulo: "Baltasar Garzón es inhabilitado como juez"
-    descripcion: "El Tribunal Supremo inhabilita al juez Baltasar Garzón durante 11 años por haber autorizado escuchas telefónicas entre presos y sus abogados en el marco del Caso Gürtel. Esta decisión paraliza temporalmente la instrucción del caso, que posteriormente será asumida por otros magistrados de la Audiencia Nacional. La inhabilitación de Garzón genera una intensa polémica en España sobre la independencia judicial."
-    type: "resumen"
-    urls:
-      - "https://baltasargarzon.org/baltasar-garzon/carrera-judicial/otros-delitos/delitos-economicos/operacion-gurtel/"
-
-  - fecha: 2017-05-01
-    titulo: "María Josefa Aguado dimite como diputada tras ser investigada"
-    descripcion: "La diputada del PP en la Asamblea de Madrid María Josefa Aguado presenta su dimisión después de que el Tribunal Superior de Justicia de Madrid acepte investigarla por tres delitos (prevaricación, fraude y malversación) relacionados con la adjudicación irregular de un contrato de las 'X Olimpiadas Escolares' de Arganda en 2007 a empresas de la red Gürtel. Aguado era en aquel momento la responsable de Deportes de la Sociedad de Fomento de Arganda."
-    type: "resumen"
-    urls:
-      - "https://www.publico.es/politica/dimite-josefa-aguado-diputada-cifuentes.html"
-      - "https://www.eldiario.es/politica/dimite-diputada-cifuentes-investigada-gurtel_1_3376144.html"
-
-  - fecha: 2019-09-01
-    titulo: "El juez José de la Mata abre juicio oral contra 21 acusados"
-    descripcion: "Tras una década de instrucción, el juez José de la Mata decreta la apertura de juicio oral contra 21 investigados en la pieza de Arganda del Caso Gürtel por las presuntas adjudicaciones irregulares ocurridas entre 1998 y 2009. Entre los acusados figuran Francisco Correa, Pablo Crespo, Fernando Martín, Ginés López, Benjamín Martín Vasco y María Josefa Aguado. El magistrado impone fianzas millonarias: 78 millones de euros para Correa y Crespo, 79,1 millones para Fernando Martín, y 75 millones para el abogado Ramón Blanco Balín."
-    type: "investigación"
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2025:2194"
+  - fecha: 2019-09-16
+    titulo: "Se conoce la apertura de juicio oral de la pieza"
+    descripcion: "El CGPJ informa de que el juez José de la Mata ha abierto juicio oral contra 21 investigados y ha fijado fianzas para asegurar responsabilidades pecuniarias. Es la fecha de publicación; las fianzas no son multas ni daños definitivamente declarados."
+    type: "juicio"
     urls:
       - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Noticias-Judiciales/El-juez-abre-juicio-oral-a-21-investigados-en-la-pieza-del-caso-Gurtel-por-las-presuntas-irregularidades-en-Arganda-del-Rey"
-      - "https://www.vozpopuli.com/espana/politica/juicio-cabecillas-gurtel-irregularidades-arganda-rey-fianzas_0_1282672445.html"
-
   - fecha: 2025-03-03
-    titulo: "Comienza el penúltimo juicio del macrocaso Gürtel en la Audiencia Nacional"
-    descripcion: "Arranca en la Audiencia Nacional el juicio por la pieza de Arganda del Caso Gürtel, considerado el penúltimo proceso judicial de este macrocaso de corrupción. Se sientan en el banquillo aproximadamente 20 acusados por delitos de prevaricación, fraude, cohecho, falsedad documental, malversación de caudales públicos, delitos contra la Hacienda Pública e insolvencia punible. Francisco Correa y Pablo Crespo comparecen en régimen de tercer grado tras haber cumplido más de una década en prisión por otras piezas del caso."
-    type: "investigación"
+    titulo: "Comienzo del juicio oral"
+    descripcion: "El juicio de la pieza Arganda comenzó el 3 de marzo. La sentencia registra sesiones los días 3, 4, 10, 18, 24, 26 y 31 de marzo de 2025. El reconocimiento de los hechos se produjo dentro de ese proceso, no el 7 de mayo posterior al fallo."
+    type: "juicio"
     urls:
-      - "https://www.deia.eus/politica/2025/03/03/comienza-penultimo-juicio-gurtel-trama-arganda-9346857.html"
-      - "https://www.diariodearganda.es/inicio-gurtel-arganda/"
-
-  - fecha: 2025-03-04
-    titulo: "Fernando Martín confiesa el pago de 25 millones de euros a Correa"
-    descripcion: "Durante el segundo día del juicio, el empresario Fernando Martín ratifica ante el tribunal su confesión de haber pagado una comisión de 25 millones de euros a Francisco Correa por su intermediación para obtener la adjudicación de la parcela UE-124 de Arganda. Martín explica que el pago se realizó en dos tramos (12 millones tras la adjudicación municipal y 13 millones tras la aprobación autonómica) mediante transferencias a cuentas bancarias en Suiza. La confesión busca una reducción de pena mediante conformidad con la Fiscalía."
-    type: "declaración"
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2025:2194"
+  - fecha: 2025-03-31
+    titulo: "Conclusión de la vista"
+    descripcion: "El juicio concluyó tras la última sesión. Luis Bremond mantuvo su inocencia; la sentencia apreció confesión en los restantes acusados y dilaciones indebidas muy cualificadas para todos."
+    type: "juicio"
     urls:
-      - "https://vanguardia.com.mx/deportes/fernando-martin-expresidente-del-real-madrid-confiesa-soborno-de-25-millones-de-euros-en-espana-MA15151827"
-      - "https://www.publico.es/politica/promotor-expresidente-real-madrid-admite-pago-mordida-25-millones-guertel.html"
-
-  - fecha: 2025-03-18
-    titulo: "El inspector de la UCO confirma que Correa controlaba la contratación en Arganda"
-    descripcion: "El inspector jefe de la Unidad Central Operativa (UCO) de la Guardia Civil que investigó el caso declara ante el tribunal que Francisco Correa 'controlaba la contratación pública' en Arganda del Rey durante el mandato del alcalde Ginés López. El inspector detalla cómo la trama operaba mediante un 'ayuntamiento paralelo' donde las decisiones municipales relevantes se tomaban siguiendo órdenes de Correa, quien actuaba como verdadero poder en la sombra del consistorio."
-    type: "declaración"
-    urls:
-      - "https://theobjective.com/espana/tribunales/2025-03-18/inspector-gurtel-correa-contratacion-arganda/"
-
-  - fecha: 2025-05-07
-    titulo: "19 acusados aceptan conformidad reconociendo los hechos"
-    descripcion: "En la recta final del juicio, 19 de los 20 acusados alcanzan acuerdos de conformidad con la Fiscalía Anticorrupción, reconociendo su participación en los delitos a cambio de reducciones significativas de pena. Entre quienes aceptan están Francisco Correa, Pablo Crespo, Ginés López, Benjamín Martín Vasco, Fernando Martín, Isabel Jordán y Ramón Blanco Balín. Solo el gerente municipal Luis Bremond rechaza el acuerdo y mantiene su inocencia, siendo juzgado por el procedimiento ordinario."
-    type: "declaración"
-    urls:
-      - "https://actualarganda.com/los-acusados-por-la-gurtel-en-arganda-del-rey-aceptan-penas-reducidas-tras-confesar-los-hechos/"
-
-  - fecha: 2025-05-08
-    titulo: "Sentencia: condenas de hasta 8 años y 10 meses de prisión"
-    descripcion: "La Audiencia Nacional dicta sentencia condenando a los 20 acusados en la pieza de Arganda del Caso Gürtel. Francisco Correa y Pablo Crespo reciben las penas más altas: 8 años y 10 meses de prisión. El exalcalde Ginés López es condenado a 5 años y 7 meses, Benjamín Martín Vasco a 6 años, Fernando Martín a 3 años y 4 meses, Isabel Jordán a 3 años y 5 meses, y Ramón Blanco Balín a 1 año y 8 meses. La sentencia de 196 páginas confirma que la trama defraudó a las arcas públicas de Arganda mediante un sistema organizado de corrupción que operó durante más de una década."
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2025:2194"
+  - fecha: 2025-04-22
+    titulo: "Sentencia de la pieza Arganda"
+    descripcion: "La sentencia 12/2025 condenó a 19 personas con penas diferenciadas, indemnizaciones, decomisos, multas e inhabilitaciones. Permitía casación; no acredita por sí sola la firmeza posterior. Correa y Crespo recibieron las mayores penas de prisión de esta pieza: ocho años y diez meses para cada uno."
     type: "sentencia"
+    relevancia: "alta"
     urls:
-      - "https://www.eldiario.es/politica/audiencia-nacional-condena-ocho-anos-carcel-mayor-pelotazo-trama-gurtel_1_12281547.html"
-      - "https://www.elplural.com/sociedad/tribunales/audiencia-nacional-condena-lideres-gurtel-exalcalde-arganda-adjudicaciones-irregulares_351649102"
-      - "https://actualarganda.com/la-audiencia-nacional-condena-a-19-personas-por-el-caso-gurtel-en-arganda-del-rey/"
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2025:2194"
+  - fecha: 2025-05-07
+    titulo: "Se difunden las condenas"
+    descripcion: "El País publica el resultado de la sentencia fechada el 22 de abril, con las condenas de Fernando Martín, los responsables de Gürtel y los antiguos cargos locales. La publicación no es una segunda sentencia dictada en mayo."
+    type: "resumen"
+    urls:
+      - "https://elpais.com/espana/2025-05-07/condenado-a-carcel-fernando-martin-constructor-y-expresidente-del-real-madrid-por-el-mayor-pelotazo-de-gurtel.html"
 ---
+
+Esta pieza abarca varios grupos de contratos de Arganda. Además de las parcelas UE-124, examina servicios prestados por empresas de Correa al Ayuntamiento y a la Sociedad de Fomento, las X Olimpiadas Escolares, un evento relacionado con Rock in Río 2008, obras adjudicadas a Teconsa y servicios de Constructora Hispánica. Su contenido no equivale a todo Gürtel: las penas que figuran aquí corresponden únicamente a la sentencia 12/2025.
+
+La Audiencia situó el funcionamiento del acuerdo corrupto desde al menos 1998, sin fijar un día único de comienzo. Por eso no se emplea la operación policial general de febrero de 2009 como inicio de los hechos locales. También distinguió el cometido de los cargos políticos, los trabajadores municipales, los empresarios y los intermediarios. La estructura organizada descrita en los hechos no autoriza a sustituir los delitos concretos del fallo por una condena genérica por organización criminal o blanqueo.
+
+En UE-124, los **25 millones de euros** son la comisión vinculada a la adjudicación: el fallo ordena decomisar **24.870.000 euros de Correa** y **130.000 de Blanco Balín**, constando que este último ya los había ingresado. Son cantidades distintas del precio urbanístico, de los regalos a cargos públicos, de las cuotas fiscales, de las multas y de las indemnizaciones a la Sociedad de Fomento. No se registra la comisión como un coste global ni se suma con los importes de otras fichas de Gürtel.
+
+La responsabilidad civil se distribuye por contratos y personas. Por ejemplo, el fallo fija 39.640,78 euros por la doble facturación de Rock in Río y 67.260 euros por las Olimpiadas; incluye otras partidas por obras y mantenimiento, algunas ya satisfechas. El decomiso de cobros de Ginés López, 545.328,98 euros, y de Benjamín Martín Vasco, 363.295,63 euros, tampoco es una indemnización adicional que deba sumarse automáticamente a esas partidas. La deuda general del municipio no se atribuye en bloque a este procedimiento sin una prueba causal específica.
+
+El reconocimiento de hechos por 18 de los 19 acusados explica la atenuante de confesión; Luis Bremond negó su participación. La Audiencia valoró también el tiempo transcurrido y la reparación del daño en determinados acusados. Estas circunstancias no hacen equivalentes sus responsabilidades ni permiten afirmar que todos ingresaran en prisión, obtuvieran una suspensión o renunciaran a impugnar la sentencia. Quedan sin comprobar las resoluciones penales posteriores y la firmeza individual a 15 de octubre de 2026. Las noticias sobre otros juicios de Gürtel o sobre situaciones penitenciarias generales de sus protagonistas no resuelven esa laguna.
