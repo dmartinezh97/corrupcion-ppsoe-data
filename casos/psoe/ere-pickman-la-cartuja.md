@@ -1,178 +1,163 @@
 ---
-nombre: "ERE fraudulento de Pickman La Cartuja"
-partido: "PSOE"
-completado: true
+nombre: ERE de Pickman La Cartuja
+partido: PSOE
+completado: false
 año: 2003
-fechaInicio: 2003-05-27
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El caso ERE de Pickman La Cartuja constituye una de las piezas separadas del macrocaso de los ERE fraudulentos en Andalucía. Entre 2003 y 2010, la Junta de Andalucía, gobernada por el PSOE, concedió ayudas irregulares por valor de 11.421.933,37 euros a la histórica fábrica de loza y porcelana Pickman La Cartuja de Sevilla, realizándose pagos efectivos por 8.868.914,09 euros, "prescindiendo total y absolutamente del procedimiento legalmente establecido" según la Fiscalía Anticorrupción. Estas ayudas se enmarcaban supuestamente en un Expediente de Regulación de Empleo para la empresa cerámica situada en la Isla de la Cartuja de Sevilla.
+fechaInicio: '2003-05-27'
+fechaFin: ''
+estado: desconocido
+descripcion: 'La pieza del ERE de Pickman La Cartuja investigó las ayudas concedidas a la empresa entre 2003 y 2010.
+  Según el escrito de Anticorrupción de noviembre de 2018, se concedieron 11.421.933,37 euros y se pagaron 8.868.914,09
+  euros; son importes de ayudas investigadas, no un perjuicio fijado por sentencia. Un auto de 22 de noviembre de
+  2018 citó a nueve personas como investigadas y excluyó a cinco exaltos cargos para evitar un doble enjuiciamiento.
+  No se ha acreditado el desenlace posterior de esta pieza ni el estado individual de los citados a 15 de octubre
+  de 2026.
 
-  La trama operaba mediante un sistema diseñado para eludir los controles administrativos y fiscales. El director general de Trabajo, Francisco Javier Guerrero, autorizó el 27 de mayo de 2003 el pago urgente de estas ayudas a través del Instituto de Fomento de Andalucía (IFA), cargándolas a la partida presupuestaria 31L. De forma irregular, el exconsejero de Empleo José Antonio Viera Chacón fragmentó una subvención de 1,8 millones de euros destinada a Pickman en tres pagos separados (625.000 euros en 2004, 600.000 euros en 2005 y 575.000 euros en 2006) para eludir la ratificación del Consejo de Gobierno exigida por la ley para ayudas superiores a 1,2 millones de euros. Además se detectaron "pagos cruzados" mediante los cuales fondos asignados a una póliza de otra empresa eran aplicados para cubrir la póliza de Pickman, y cinco personas fueron incluidas como beneficiarias sin cumplir los requisitos legales.
 
-  En 2018, la Fiscalía Anticorrupción solicitó la imputación de exaltos cargos y sindicalistas, y la jueza María Núñez Bolaños dictó auto imputando al exdelegado de Empleo Antonio Rivas y al exjefe del gabinete jurídico Francisco del Río. En 2019 se citó a declarar a nueve investigados adicionales. En enero de 2026, el juez José Ignacio Vilaplana abrió una pieza separada adicional para investigar el aval de 1,3 millones de euros concedido por la Agencia IDEA a Pickman en noviembre de 2005, citando como investigados a 21 personas, entre ellas el exconsejero de Innovación Francisco Vallejo Serrano —ya condenado en la pieza principal— y el diputado del PSOE en el Parlamento andaluz Gaspar Llanes Llanes, exsecretario general de Economía de la Junta. La instrucción fue prorrogada hasta junio de 2026.
-
-resumen: "Ayudas fraudulentas de 8,8 millones y aval irregular de 1,3 millones de la Agencia IDEA a Pickman, con pagos cruzados y elusión de controles"
-coste: 10168914
-lugar: "Sevilla, Andalucía"
+  Debe distinguirse del procedimiento de Avales: el 20 de enero de 2026 el CGPJ comunicó citaciones de 21 investigados
+  por un aval de IDEA de 1,3 millones a Pickman, entre ellos Francisco Vallejo, según EFE. Gaspar Llanes no estaba
+  entre los citados: recibió notificación con sus derechos de defensa y se pidió certificar su condición de diputado,
+  sin acordarse entonces la remisión al TSJA. La prórroga anunciada hasta el 21 de junio de 2026 no permite establecer
+  por sí sola la situación posterior. No se han verificado la celebración de esas declaraciones ni resoluciones
+  posteriores; el aval no se suma a las ayudas como daño.'
+resumen: Investigación de ayudas al ERE de Pickman, diferenciada de la causa por el aval de IDEA. Desenlaces individuales
+  pendientes de acreditar.
+lugar: Sevilla, Andalucía
 tribunal:
-  - "Juzgado de Instrucción número 6 de Sevilla - Juez José Ignacio Vilaplana - Fiscalía Anticorrupción"
-numeroSentencia: ""
+- Juzgado de Instrucción número 6 de Sevilla
 implicados:
-  - nombre: "José Antonio Viera Chacón"
-    cargo: "Exconsejero de Empleo de la Junta de Andalucía (2000-2004)"
-    rol: "Fragmentó ayudas para eludir controles del Consejo de Gobierno"
-
-  - nombre: "Francisco Javier Guerrero"
-    cargo: "Director General de Trabajo de la Junta (1999-2008)"
-    rol: "Autorizó pagos urgentes irregulares y ordenó pagos cruzados; fallecido en 2020"
-
-  - nombre: "Francisco Vallejo Serrano"
-    cargo: "Exconsejero de Innovación de la Junta de Andalucía (2004-2009)"
-    rol: "Investigado por el aval irregular de la Agencia IDEA a Pickman"
-
-  - nombre: "Gaspar Llanes Llanes"
-    cargo: "Diputado del PSOE en el Parlamento andaluz; exsecretario general de Economía de la Junta"
-    rol: "Investigado como vocal del Consejo Rector de la Agencia IDEA"
-
-  - nombre: "Antonio Rivas"
-    cargo: "Exdelegado de Empleo en Sevilla"
-    rol: "Imputado por participación en concesión irregular de ayudas"
-
-  - nombre: "Francisco del Río"
-    cargo: "Exjefe del gabinete jurídico de la Junta de Andalucía"
-    rol: "Imputado por participación en concesión irregular de ayudas"
-
-  - nombre: "Ramón Díaz Alcaraz"
-    cargo: "Exdiputado andaluz del PSOE y asesor de la Consejería de Empleo"
-    rol: "Investigado por su papel en la concesión de ayudas irregulares"
-
-  - nombre: "Francisco José Oyonarte Molina"
-    cargo: "Exsecretario general del Instituto de Fomento de Andalucía (IFA)"
-    rol: "Investigado por su papel en la concesión de ayudas irregulares"
-
-  - nombre: "José González Mata"
-    cargo: "Presidente de la mediadora de seguros Uniter"
-    rol: "Investigado por su papel en los pagos irregulares"
-
-  - nombre: "Juan Antonio Florido"
-    cargo: "Exdirigente de CCOO en Andalucía"
-    rol: "Investigado por su papel en la canalización de ayudas irregulares"
-
-  - nombre: "José Hurtado Quirós"
-    cargo: "Exsecretario general de Fiteqa-CCOO"
-    rol: "Investigado por su papel en la canalización de ayudas irregulares"
-
-  - nombre: "Emilio Portes"
-    cargo: "Representante y propietario de Pickman La Cartuja"
-    rol: "Firmó el acuerdo con la Junta; investigado por el aval de la Agencia IDEA"
-
-  - nombre: "Juan Márquez Contreras"
-    cargo: "Exdirector General de Trabajo y Seguridad Social de la Junta"
-    rol: "Excluido de esta pieza por non bis in idem; juzgado en la principal"
-
-  - nombre: "Antonio Fernández García"
-    cargo: "Exconsejero de Empleo de la Junta de Andalucía"
-    rol: "Excluido de esta pieza por non bis in idem; juzgado en la principal"
-
-  - nombre: "Agustín Barberá"
-    cargo: "Exviceconsejero de Empleo de la Junta de Andalucía"
-    rol: "Excluido de esta pieza por non bis in idem; juzgado en la principal"
-
+- nombre: Antonio Rivas
+  cargo: Exdelegado de Empleo en Sevilla
+  rol: Citado como investigado para el 25 de abril de 2019 por el auto de 22 de noviembre de 2018. No se ha acreditado
+    su desenlace posterior en esta pieza.
+- nombre: Francisco del Río
+  cargo: Exjefe del gabinete jurídico de la Junta
+  rol: Citado como investigado para el 25 de abril de 2019 por el auto de 22 de noviembre de 2018. No se ha acreditado
+    su desenlace posterior en esta pieza.
+- nombre: Ramón Díaz Alcaraz
+  cargo: Exparlamentario andaluz del PSOE
+  rol: Citado como investigado para el 25 de abril de 2019 por el auto de 22 de noviembre de 2018. No se ha acreditado
+    su desenlace posterior en esta pieza.
+- nombre: Francisco José Oyonarte
+  cargo: Exsecretario general del IFA
+  rol: Citado como investigado para el 25 de abril de 2019 por el auto de 22 de noviembre de 2018. No se ha acreditado
+    su desenlace posterior en esta pieza.
+- nombre: José González Mata
+  cargo: Presidente de la mediadora Uniter, según la información de 2018
+  rol: Citado como investigado para el 25 de abril de 2019 por el auto de 22 de noviembre de 2018. No se ha acreditado
+    su desenlace posterior en esta pieza.
+- nombre: Juan Antonio Florido
+  cargo: Exdirigente de CCOO en Andalucía
+  rol: Citado como investigado para el 25 de abril de 2019 por el auto de 22 de noviembre de 2018. No se ha acreditado
+    su desenlace posterior en esta pieza.
+- nombre: José Hurtado
+  cargo: Exsecretario general de Fiteqa-CCOO
+  rol: Citado como investigado para el 25 de abril de 2019 por el auto de 22 de noviembre de 2018. No se ha acreditado
+    su desenlace posterior en esta pieza.
+- nombre: Javier Guerrero
+  cargo: Exdirector general de Trabajo
+  rol: Excluido de esta pieza en el auto de 22 de noviembre de 2018 por la prohibición de doble enjuiciamiento.
+    No equivale a una absolución sobre el fondo ni traslada resultados de otras piezas.
+- nombre: Juan Márquez
+  cargo: Exdirector general de Trabajo
+  rol: Excluido de esta pieza en el auto de 22 de noviembre de 2018 por la prohibición de doble enjuiciamiento.
+    No equivale a una absolución sobre el fondo ni traslada resultados de otras piezas.
+- nombre: Agustín Barberá
+  cargo: Exviceconsejero de Empleo
+  rol: Excluido de esta pieza en el auto de 22 de noviembre de 2018 por la prohibición de doble enjuiciamiento.
+    No equivale a una absolución sobre el fondo ni traslada resultados de otras piezas.
+- nombre: José Antonio Viera
+  cargo: Exconsejero de Empleo
+  rol: Excluido de esta pieza en el auto de 22 de noviembre de 2018 por la prohibición de doble enjuiciamiento.
+    No equivale a una absolución sobre el fondo ni traslada resultados de otras piezas.
+- nombre: Antonio Fernández
+  cargo: Exconsejero de Empleo
+  rol: Excluido de esta pieza en el auto de 22 de noviembre de 2018 por la prohibición de doble enjuiciamiento.
+    No equivale a una absolución sobre el fondo ni traslada resultados de otras piezas.
+- nombre: Emilio Portes
+  cargo: Representante de Pickman en el acuerdo de 2003
+  rol: Firmante del acuerdo de colaboración descrito por el atestado de la Guardia Civil difundido en 2015. No se
+    acredita aquí una resolución penal individual.
+- nombre: Francisco Vallejo
+  cargo: Exconsejero de la Junta de Andalucía
+  rol: En el procedimiento distinto por el aval de IDEA, EFE lo identifica entre los 21 citados anunciados en enero
+    de 2026. Sin desenlace posterior acreditado.
+- nombre: Gaspar Llanes
+  cargo: Diputado autonómico del PSOE en enero de 2026; antiguo vocal del Consejo Rector de IDEA
+  rol: En la causa del aval, notificado con derechos de defensa y petición de certificación de su condición parlamentaria;
+    no incluido entre los 21 citados. No se acredita posterior exposición razonada al TSJA.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "ERE fraudulentos"
-  - "Junta de Andalucía"
-  - "elusión de controles"
-  - "pagos cruzados"
-  - "Agencia IDEA"
-
-impactoSocial: "El caso Pickman La Cartuja, como pieza del macrocaso ERE, ejemplifica el sistema de clientelismo y elusión de controles implementado por el PSOE andaluz durante décadas. En 2026, con una nueva pieza abierta por el aval irregular de la Agencia IDEA y 21 nuevos investigados —incluido un diputado en activo del PSOE—, el caso demuestra la magnitud y persistencia del entramado corrupto que contribuyó al fin de 37 años de hegemonía socialista en Andalucía."
-
+- ERE
+- ayudas sociolaborales
+- Junta de Andalucía
+- Agencia IDEA
+impactoSocial: La investigación afecta al destino y control de fondos para ayudas empresariales y sociolaborales.
+  La protección de los trabajadores y la legalidad de su financiación son cuestiones distintas de la responsabilidad
+  penal individual.
 documentos: []
-
 cronologia:
-  - fecha: "2003-03-26"
-    titulo: "Reunión de Javier Guerrero con sindicatos para ERE de Pickman"
-    descripcion: "El director general de Trabajo, Francisco Javier Guerrero, celebra una reunión con representantes de los trabajadores de Pickman La Cartuja y los sindicatos UGT y CCOO para tratar el Expediente de Regulación de Empleo de la empresa cerámica sevillana. Esta reunión serviría de base para la posterior autorización irregular de las ayudas públicas a la empresa."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+ERE/Pickman+La+Cartuja&numero=557"
-
-  - fecha: "2003-05-27"
-    titulo: "Guerrero autoriza pago urgente de ayudas a Pickman por la partida 31L"
-    descripcion: "El director de Trabajo Javier Guerrero autoriza al Instituto de Fomento de Andalucía (IFA) a realizar el pago urgente de las ayudas concedidas a Pickman La Cartuja, cargándolas a la partida presupuestaria 31L. Según la Fiscalía, los pagos se realizarían de forma irregular a una cuenta de UGT, aunque 'ni uno ni otro tenían relación alguna con la finalidad de la ayuda, que era el coste del mantenimiento de las instalaciones'. Esta autorización marca el inicio del flujo irregular de fondos públicos hacia la empresa."
-    type: "documento"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+ERE/Pickman+La+Cartuja&numero=557"
-
-  - fecha: "2003-12-01"
-    titulo: "Acuerdo de colaboración entre Viera y Pickman por 1,8 millones"
-    descripcion: "El consejero de Empleo José Antonio Viera Chacón firma un acuerdo de colaboración con Emilio Portes, representante de Pickman La Cartuja, comprometiéndose la Consejería de Empleo y Desarrollo Tecnológico a conceder a la empresa 1,8 millones de euros para la adaptación de instalaciones y equipamientos. Sin embargo, este importe se fragmentaría deliberadamente en tres pagos (625.000 euros en 2004, 600.000 euros en 2005 y 575.000 euros en 2006) para eludir la ratificación del Consejo de Gobierno que exigía la ley para ayudas superiores a 1,2 millones de euros."
-    type: "documento"
-    urls:
-      - "https://www.libertaddigital.com/espana/2015-07-21/viera-troceo-una-ayuda-de-la-junta-para-evitar-los-controles-1276553288/"
-
-  - fecha: "2005-11-21"
-    titulo: "La Agencia IDEA concede un aval irregular de 1,3 millones a Pickman"
-    descripcion: "La Agencia de Innovación y Desarrollo de Andalucía (IDEA) aprueba un aval por importe de 1.300.000 euros a favor de Pickman La Cartuja S.A. para respaldar un préstamo de 1.625.000 euros concedido por Caja San Fernando, con una duración de 10 años y una comisión anual del 1,5%. El exconsejero Francisco Vallejo Serrano presidía el Consejo Rector de la Agencia IDEA en calidad de consejero, y Gaspar Llanes era vocal del mismo. Según la investigación judicial posterior, el aval fue concedido sin cumplir los requisitos legalmente establecidos."
-    type: "documento"
-    urls:
-      - "https://www.eldebate.com/espana/andalucia/20260120/investigan-diputado-psoe-andaluz-papel-aval-irregular-13-millones-junta_376169.html"
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-juez-cita-a-declarar-a-21-personas-investigadas-en-una-pieza-separada-por-el-aval-de-1-3-millones-concedido-por-la-Junta-a-Pickman-La-Cartuja"
-
-  - fecha: "2006-03-31"
-    titulo: "Pago cruzado de 450.000 euros desde Faja Pirítica a Pickman"
-    descripcion: "Por orden de Francisco Javier Guerrero, se produce un 'pago cruzado' irregular mediante el cual 450.000 euros inicialmente destinados a la Faja Pirítica son desviados para cubrir la póliza de Pickman La Cartuja. Este sistema de pagos cruzados era habitual en la trama de los ERE, permitiendo a la Junta aplicar fondos asignados a una póliza específica para pagar una póliza diferente de la misma o distinta empresa, eludiendo así los mecanismos de control y trazabilidad de los fondos públicos."
-    type: "documento"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+ERE/Pickman+La+Cartuja&numero=557"
-
-  - fecha: "2011-01-19"
-    titulo: "La jueza Mercedes Alaya inicia la instrucción del macrocaso ERE"
-    descripcion: "La magistrada del Juzgado de Instrucción número 6 de Sevilla, Mercedes Alaya, abre las Diligencias Previas 174/2011 que investigarían el macrocaso de los ERE fraudulentos en Andalucía. La investigación comenzó tras detectarse irregularidades en los expedientes de regulación de empleo tramitados en la empresa pública Mercasevilla, y posteriormente se extendería a cientos de empresas, incluida Pickman La Cartuja, constituyéndose en uno de los mayores casos de corrupción de Europa por el volumen defraudado (casi 680 millones de euros)."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/andalucia/jueza-alaya-fallo-supremo-cronologia-trece-anos-caso-ere_1_9179641.html"
-
-  - fecha: "2018-11-19"
-    titulo: "Fiscalía Anticorrupción solicita imputación de exaltos cargos por Pickman"
-    descripcion: "La Fiscalía Anticorrupción solicita la imputación de varios exaltos cargos de la Junta de Andalucía, empresarios y sindicalistas en relación con las ayudas irregulares concedidas a Pickman La Cartuja entre 2003 y 2010 por un importe total de 11.421.933,37 euros. La Fiscalía denuncia que los pagos, que ascendieron a 8.868.914,09 euros, se realizaron 'prescindiendo total y absolutamente del procedimiento legalmente establecido', incluyendo la detección de cinco personas incluidas como beneficiarias sin cumplir los requisitos legales."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+ERE/Pickman+La+Cartuja&numero=557"
-
-  - fecha: "2018-11-22"
-    titulo: "Jueza Núñez Bolaños imputa a Antonio Rivas y Francisco del Río"
-    descripcion: "La jueza María Núñez Bolaños, que instruyó el macrocaso ERE tras Mercedes Alaya, dicta auto de imputación en la pieza separada de Pickman La Cartuja contra el exdelegado de Empleo en Sevilla Antonio Rivas y el exjefe del gabinete jurídico de la Junta Francisco del Río. La magistrada excluye a cinco exaltos cargos (Guerrero, Márquez, Barberá, Viera y Fernández) para evitar el doble enjuiciamiento, aplicando el principio non bis in idem al estar ya siendo juzgados en la pieza principal."
-    type: "imputación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+ERE/Pickman+La+Cartuja&numero=557"
-
-  - fecha: "2019-04-25"
-    titulo: "Citación de nueve investigados a declarar por el caso Pickman"
-    descripcion: "La jueza María Núñez Bolaños cita a declarar como investigados a nueve personas en la pieza separada del ERE de Pickman La Cartuja. Entre los citados figuran el exdiputado andaluz del PSOE Ramón Díaz Alcaraz, el exsecretario general del IFA Francisco José Oyonarte, el presidente de la mediadora Uniter José González Mata, y los exdirigentes de CCOO Juan Antonio Florido y José Hurtado Quirós. Las citaciones se enmarcan en la investigación de las ayudas irregulares por 8,8 millones de euros concedidas entre 2003 y 2010."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+ERE/Pickman+La+Cartuja&numero=557"
-
-  - fecha: "2020-10-12"
-    titulo: "Fallece Francisco Javier Guerrero, cerebro de la trama ERE"
-    descripcion: "Francisco Javier Guerrero, director general de Trabajo entre 1999 y 2008 y considerado el cerebro operativo de la trama de los ERE, fallece de un infarto en su domicilio de Sevilla. Guerrero había sido condenado en la pieza principal a 6 años de prisión y tenía pendientes más de 20 juicios por piezas separadas, incluida la de Pickman La Cartuja. Fue él quien autorizó los pagos urgentes a Pickman en 2003 y quien ordenó los pagos cruzados irregulares. Su responsabilidad penal quedó extinguida por fallecimiento."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/andalucia/muere-francisco-javier-guerrero-principal-imputado-en-el-caso-de-los-ere_1_6285008.html"
-      - "https://www.elespanol.com/espana/andalucia/20201012/guerrero-gestor-millones-ere-muere-juicios-pendientes/527447832_0.html"
-
-  - fecha: "2026-01-20"
-    titulo: "El juez Vilaplana cita a 21 investigados por el aval de 1,3 millones de la Agencia IDEA a Pickman"
-    descripcion: "El juez de refuerzo José Ignacio Vilaplana, titular del Juzgado de Instrucción número 6 de Sevilla, dicta auto citando a declarar como investigados a 21 personas en una nueva pieza separada del caso ERE referida al aval de 1.300.000 euros concedido por la Agencia IDEA a Pickman La Cartuja en noviembre de 2005. Entre los investigados figuran el exconsejero de Innovación Francisco Vallejo Serrano —ya condenado a 7 años en la pieza principal— y el diputado en activo del PSOE en el Parlamento andaluz Gaspar Llanes Llanes, exsecretario general de Economía de la Junta. El juez investiga presuntos delitos de prevaricación administrativa y malversación de caudales públicos, y amplía el plazo de instrucción seis meses hasta el 21 de junio de 2026. Respecto a Llanes, el magistrado decidió continuar las diligencias antes de elevar la causa al TSJA por su condición de aforado parlamentario."
-    type: "investigación"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-juez-cita-a-declarar-a-21-personas-investigadas-en-una-pieza-separada-por-el-aval-de-1-3-millones-concedido-por-la-Junta-a-Pickman-La-Cartuja"
-      - "https://www.infobae.com/espana/agencias/2026/01/20/un-juez-cita-a-21-personas-investigadas-en-una-pieza-por-el-aval-de-agencia-idea-a-pickman/"
-      - "https://www.eldebate.com/espana/andalucia/20260120/investigan-diputado-psoe-andaluz-papel-aval-irregular-13-millones-junta_376169.html"
+- fecha: '2003-05-27'
+  titulo: Autorización de abono descrita por la Fiscalía
+  descripcion: Según el escrito fiscal difundido en 2018, Guerrero autorizó al IFA el abono urgente de una ayuda
+    con cargo a la partida 31L. La Fiscalía cuestionaba el destino del pago a una cuenta de UGT frente al objeto
+    de mantenimiento de instalaciones.
+  type: documento
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/ERE-Bolanos-imputa-Rivas-Pickman_0_1304570024.amp.html
+  relevancia: media
+- fecha: '2003-12-01'
+  titulo: Acuerdo de colaboración por 1,8 millones
+  descripcion: El atestado de la Guardia Civil divulgado en 2015 describió un acuerdo firmado por Viera y Emilio
+    Portes. Atribuyó al fraccionamiento posterior en tres anualidades la elusión de controles; se trata de la tesis
+    investigadora, no de un fallo de esta pieza.
+  type: documento
+  urls:
+  - https://www.libertaddigital.com/espana/2015-07-21/viera-troceo-una-ayuda-de-la-junta-para-evitar-los-controles-1276553288/
+  relevancia: media
+- fecha: '2006-03-31'
+  titulo: Pago cruzado señalado por Anticorrupción
+  descripcion: Según el escrito fiscal divulgado en 2018, por orden de Guerrero se aplicaron 450.000 euros destinados
+    a Faja Pirítica a la póliza de Pickman. No se suma esta operación al total de ayudas para calcular un daño.
+  type: documento
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/ERE-Bolanos-imputa-Rivas-Pickman_0_1304570024.amp.html
+  relevancia: media
+- fecha: '2018-11-19'
+  titulo: Escrito de Anticorrupción sobre las ayudas
+  descripcion: 'La información de Diario de Sevilla fecha ese día la petición fiscal de investigar las ayudas de
+    2003–2010. La Fiscalía cuestionó su procedimiento y la inclusión de cinco beneficiarios: tres sin los requisitos
+    y dos con pensión de incapacidad permanente total.'
+  type: investigación
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/ERE-Bolanos-imputa-Rivas-Pickman_0_1304570024.amp.html
+  relevancia: alta
+- fecha: '2018-11-22'
+  titulo: Auto de citación y exclusión de cinco exaltos cargos
+  descripcion: Según Diario de Sevilla, el auto citó a nueve investigados y ocho testigos para el 25 de abril de
+    2019. Excluyó a Guerrero, Márquez, Barberá, Viera y Fernández para evitar el doble enjuiciamiento. La fuente
+    identifica nominalmente a siete de los nueve investigados; no acredita que se celebraran las declaraciones.
+  type: imputación
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/ERE-Bolanos-imputa-Rivas-Pickman_0_1304570024.amp.html
+  relevancia: alta
+- fecha: '2026-01-20'
+  titulo: Se conocen citaciones en la causa distinta del aval de IDEA
+  descripcion: El CGPJ comunicó 21 citaciones para el 18, 24 y 25 de marzo y el 7 de abril de 2026, así como una
+    prórroga hasta el 21 de junio. EFE precisó que no era una pieza de los ERE y que Llanes no estaba citado. No
+    consta en estas fuentes la fecha exacta del auto ni el resultado de las diligencias.
+  type: investigación
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-cita-a-declarar-a-21-personas-investigadas-en-una-pieza-separada-por-el-aval-de-1-3-millones-concedido-por-la-Junta-a-Pickman-La-Cartuja
+  - https://www.infobae.com/espana/agencias/2026/01/20/un-juez-cita-a-21-personas-investigadas-en-una-pieza-por-el-aval-de-agencia-idea-a-pickman/
+  relevancia: alta
 ---
+
+Esta ficha conserva como objeto las ayudas al ERE de Pickman La Cartuja, no la totalidad del procedimiento de los ERE ni todas las ayudas recibidas por la empresa. Los hechos atribuidos a cada persona deben contrastarse con su resolución propia.
+
+La [información de noviembre de 2018](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/ERE-Bolanos-imputa-Rivas-Pickman_0_1304570024.amp.html) distingue las ayudas concedidas de las efectivamente pagadas. Recoge la tesis de Anticorrupción sobre el procedimiento de concesión, los beneficiarios y el pago cruzado desde Faja Pirítica. La diferencia entre importes concedidos y pagados no constituye por sí misma una cuantificación de responsabilidad civil. El [atestado divulgado en 2015](https://www.libertaddigital.com/espana/2015-07-21/viera-troceo-una-ayuda-de-la-junta-para-evitar-los-controles-1276553288/) examinaba además el fraccionamiento de una ayuda de 1,8 millones en anualidades de 625.000, 600.000 y 575.000 euros. Estas cantidades no deben agregarse automáticamente a las ayudas globales, pues no se ha acreditado que representen operaciones adicionales.
+
+El auto de 22 de noviembre de 2018, conocido a través de Diario de Sevilla, mantuvo nueve citaciones y excluyó cinco exaltos cargos por el principio de prohibición del doble enjuiciamiento. La exclusión no equivale a una absolución sobre la legalidad de cada pago. Tampoco las citaciones anunciadas acreditan la celebración de declaraciones, la apertura de juicio o una condena. No se ha obtenido el original de ese auto ni una resolución posterior que permita actualizar individualmente a los nueve citados.
+
+El [comunicado judicial de enero de 2026](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-cita-a-declarar-a-21-personas-investigadas-en-una-pieza-separada-por-el-aval-de-1-3-millones-concedido-por-la-Junta-a-Pickman-La-Cartuja) corresponde a la investigación por el aval de IDEA de 1,3 millones. La [corrección expresa de EFE](https://www.infobae.com/espana/agencias/2026/01/20/un-juez-cita-a-21-personas-investigadas-en-una-pieza-por-el-aval-de-agencia-idea-a-pickman/) aclara que no es una pieza de los ERE y que el parlamentario Gaspar Llanes no se encontraba entre los 21 citados. La notificación de derechos y la certificación de aforamiento no equivalen a que el TSJA hubiera asumido la causa. El comunicado expone indicios y diligencias pendientes, no hechos probados ni un perjuicio definitivo. No se trasladan a esta ficha los resultados de otros avales o de la pieza política de los ERE.
+
+A 15 de octubre de 2026 quedan sin acreditar el desenlace de la pieza sociolaboral y las actuaciones posteriores al anuncio de enero en la causa del aval. Se mantienen esas incertidumbres sin deducir continuidad, archivo o firmeza del transcurso del tiempo. No se incorpora ningún documento judicial en PDF porque no se ha verificado un original correspondiente a estas resoluciones.
