@@ -1,87 +1,75 @@
 ---
 nombre: "Villaviciosa de Odón"
 partido: PP
-completado: true
-año: 2016
-fechaInicio: 2016-01-01
+completado: false
+año: 2015
 fechaFin: ""
-estado: "en investigación"
+estado: "resultados diversos"
 descripcion: |
-  El Ayuntamiento de Villaviciosa de Odón, gobernado por el Partido Popular bajo la alcaldía de José Jover Sanz, fue objeto de múltiples denuncias e investigaciones por irregularidades en la contratación pública, corrupción urbanística y gestión fraudulenta de recursos municipales.
+  Esta ficha reúne asuntos distintos de Villaviciosa de Odón: la contratación de los festejos taurinos de septiembre de 2015, el procedimiento por bodas civiles en una finca de Pescaderías Coruñesas y las denuncias urbanísticas anunciadas por Pilar Martínez en 2020. No constituyen una única causa con un desenlace común.
 
-  El caso más documentado fue la adjudicación irregular de los festejos taurinos de las Fiestas Patronales de 2016 a la empresa Orteunion Espectáculos SL, propiedad del torero José Ortega Cano, por un importe de 86.091,50 euros. El alcalde asumió competencias propias de la Junta de Gobierno Local dos días antes de la reunión prevista y concedió a Orteunion plazos extraordinarios para presentar documentación, ventajas sin justificación legal alguna. Todo el proceso se articuló mediante un procedimiento de contratación de emergencia sin justificación objetiva.
+  Público cuestionó en marzo de 2016 la urgencia y la adjudicación directa de los festejos de 2015 a Orteunion Espectáculos SL por 86.091,50 euros. El Ayuntamiento defendió la legalidad de la contratación. Esa cantidad es el importe del contrato, no un perjuicio público acreditado; no se ha verificado una resolución penal sobre esta adjudicación.
 
-  En paralelo, la exconcejal y exdirigente del PP Pilar Martínez presentó ante la Fiscalía Anticorrupción documentación que revelaba varios presuntos casos de corrupción urbanística protagonizados por exdirigentes populares que, tras perder las primarias internas frente a Martínez, fundaron un partido independiente y controlaron el área de urbanismo municipal con Joaquín Navarro Calero al frente. Martínez renunció a su acta de concejal "cansada de luchar contra intereses urbanísticos privados".
+  En el asunto de las bodas civiles, la Sección 23 de la Audiencia Provincial de Madrid absolvió al exalcalde José Jover y a los demás acusados, según EFE, en una sentencia dada a conocer el 24 de marzo de 2021. La resolución era recurrible ante el Tribunal Superior de Justicia de Madrid. No se ha localizado su texto original ni comprobado la firmeza o el resultado de eventuales recursos, por lo que tampoco se atribuye un resultado individual no identificado en esa información.
 
-  En 2018 la Fiscalía se querelló contra el alcalde y cinco concejales del PP por presuntos delitos relacionados con la gestión municipal. El juzgado de Móstoles inicialmente sobreseyó algunas piezas, pero la Audiencia Provincial de Madrid reabrió el caso e imputó nuevamente a varios de los investigados, incluido Navarro Calero, que acumulaba cinco concejalías en el Ayuntamiento.
-resumen: "Adjudicación irregular de contratos taurinos a empresa de Ortega Cano y presuntas irregularidades urbanísticas en el municipio madrileño"
-coste: 86091
+  Pilar Martínez anunció su renuncia como concejal en septiembre de 2020, difundida el 1 de octubre, y dijo haber trasladado presuntas irregularidades urbanísticas a la Fiscalía. No se ha acreditado el desenlace de esas comunicaciones ni una situación procesal vigente al 15 de octubre de 2026. La falta de noticias posteriores no permite afirmar que continúen abiertas investigaciones contra Navarro u otras personas.
+resumen: "Contrato taurino de 2015, absoluciones por las bodas civiles y denuncias urbanísticas de 2020: asuntos distintos con lagunas sobre su desenlace y firmeza."
 lugar: "Villaviciosa de Odón, Comunidad de Madrid"
 tribunal:
-  - "Juzgado de Instrucción de Móstoles"
-  - "Audiencia Provincial de Madrid"
+  - "Juzgados de Móstoles"
+  - "Audiencia Provincial de Madrid, Sección 23 (bodas civiles)"
 numeroSentencia: ""
 implicados:
-  - nombre: "José Jover Sanz"
-    cargo: "Alcalde de Villaviciosa de Odón (PP)"
-    rol: "Investigado por adjudicación irregular de contratos y presunta prevaricación"
-
-  - nombre: "Joaquín Navarro Calero"
-    cargo: "Concejal con cinco delegaciones en el Ayuntamiento de Villaviciosa de Odón"
-    rol: "Reimputado por la Audiencia Provincial de Madrid por presuntas irregularidades urbanísticas"
-
+  - nombre: "José Jover"
+    cargo: "Alcalde del PP durante los hechos; exalcalde al celebrarse el juicio de 2021"
+    rol: "Intervino en la adjudicación taurina cuestionada por Público. Absuelto en el procedimiento por las bodas civiles según EFE; firmeza no verificada."
+  - nombre: "José Joaquín Navarro Calero"
+    cargo: "Exconcejal del PP y posteriormente edil de Vecinos por Villaviciosa"
+    rol: "Identificado por Moncloa en noviembre de 2019 como nuevamente investigado en el asunto de las bodas civiles. La noticia de absoluciones de 2021 consultada no permite verificar nominalmente su pronunciamiento; no se afirma que siga investigado."
   - nombre: "Pilar Martínez"
-    cargo: "Exconcejal y exdirigente del PP en Villaviciosa de Odón"
-    rol: "Denunciante ante la Fiscalía Anticorrupción; dimitió como concejal por presiones urbanísticas"
-
+    cargo: "Exalcaldesa y concejal del PP hasta su renuncia anunciada en 2020"
+    rol: "Denunciante de presuntas irregularidades urbanísticas ante la Fiscalía según su declaración pública; no se la presenta como investigada."
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "contratación irregular"
+  - "contratación pública"
   - "urbanismo"
-  - "tráfico de influencias"
-impactoSocial: "El caso generó una profunda fractura interna en el PP local de Villaviciosa de Odón, con la dimisión de dirigentes históricos del partido. La denuncia de Pilar Martínez ante la Fiscalía Anticorrupción tuvo amplia repercusión mediática y sirvió de ejemplo sobre los conflictos entre facciones internas del PP. El caso de los festejos taurinos fue citado como ejemplo de corrupción en la contratación pública municipal."
-documentos: null
+  - "prevaricación"
+  - "absolución"
+impactoSocial: "Los asuntos suscitaron controversia sobre la contratación y el urbanismo municipal y coincidieron con la ruptura política denunciada por Pilar Martínez. Las absoluciones del procedimiento de las bodas civiles deben distinguirse de las críticas políticas y de las denuncias no resueltas documentalmente."
+documentos: []
 cronologia:
-  - fecha: 2016-01-01
-    titulo: "Adjudicación irregular de festejos taurinos a empresa de Ortega Cano"
-    descripcion: "El alcalde José Jover asume competencias de la Junta de Gobierno Local para adjudicar los festejos taurinos a Orteunion Espectáculos SL, empresa del torero Ortega Cano, por 86.091,50 euros mediante procedimiento de emergencia sin justificación objetiva."
-    type: "denuncia"
+  - fecha: "2015-09-10"
+    titulo: "Adjudicación directa de los festejos taurinos"
+    descripcion: "Según la reconstrucción publicada por Público en marzo de 2016, Jover adjudicó los festejos de septiembre de 2015 a Orteunion Espectáculos SL por 86.091,50 euros tras dos procedimientos sin adjudicación. El Ayuntamiento defendió la legalidad del expediente."
+    type: "contratación"
     relevancia: "alta"
     urls:
       - "https://www.publico.es/politica/villaviciosa-odon-pp-adjudico-irregularmente.html"
-
-  - fecha: 2018-06-27
-    titulo: "La Fiscalía se querella contra el alcalde y cinco concejales"
-    descripcion: "La Fiscalía presenta querella contra el alcalde José Jover Sanz y cinco concejales del PP de Villaviciosa de Odón por presuntos delitos en la gestión municipal."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://confilegal.com/20180627-la-fiscalia-se-querella-contra-el-alcalde-de-villaviciosa-de-odon-madrid-y-5-concejales/"
-
-  - fecha: 2019-01-01
-    titulo: "Pilar Martínez renuncia a su acta de concejal y denuncia corrupción urbanística"
-    descripcion: "La exconcejal y exdirigente del PP Pilar Martínez presenta documentación ante la Fiscalía Anticorrupción sobre presuntas irregularidades urbanísticas y renuncia a su acta de concejal, declarando estar 'cansada de luchar contra intereses urbanísticos privados'."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://villaviciosadigital.es/pilar-martinez-renuncia-a-su-acta-de-concejal-cansada-de-luchar-contra-intereses-urbanisticos-privados/"
-
-  - fecha: 2019-11-10
-    titulo: "La Audiencia Provincial reabre el caso e imputa a Navarro Calero"
-    descripcion: "Tras el sobreseimiento del juzgado de Móstoles, Vox recurrió a la Audiencia Provincial de Madrid, que reabre el caso y vuelve a imputar a los investigados, incluido el concejal Joaquín Navarro Calero."
+  - fecha: "2019-11-10"
+    titulo: "Se informa de la reapertura del asunto de las bodas civiles"
+    descripcion: "Moncloa publicó que la Audiencia de Madrid había reabierto, tras un recurso de Vox, el procedimiento sobre bodas en la finca de Pescaderías Coruñesas e incluido nuevamente a Navarro. Esta es la fecha de publicación, no la del auto; no acredita otras piezas urbanísticas pendientes."
     type: "investigación"
     relevancia: "media"
     urls:
       - "https://www.moncloa.com/2019/11/10/imputacion-villaviciosa-prueba-cs-59540/"
-
-  - fecha: 2021-03-24
-    titulo: "La Audiencia Provincial absuelve a Jover de la pieza de las bodas civiles"
-    descripcion: "La Audiencia Provincial de Madrid absuelve al exalcalde José Jover y al resto de acusados —concejales del PP y un representante legal de Pescaderías Coruñesas— de los delitos de falsedad documental continuada y prevaricación urbanística por la organización de bodas civiles en una finca protegida del Parque Regional del Curso Medio del Guadarrama. La Fiscalía pedía ocho años de cárcel para Jover. El tribunal considera que la falta de objeciones administrativas al expediente no encaja en el tipo penal de prevaricación una vez contextualizados los hitos temporales del caso. La absolución se limita a esta pieza concreta, sin afectar a las otras piezas urbanísticas que siguen instruyéndose contra Joaquín Navarro Calero y otros investigados."
+  - fecha: "2020-10-01"
+    titulo: "Se conoce la renuncia anunciada por Pilar Martínez"
+    descripcion: "EFE difundió el anuncio de renuncia de la concejal. Villaviciosadigital situó el videocomunicado en la noche anterior y recogió su afirmación de haber informado a la Fiscalía sobre cuestiones urbanísticas. No se fija aquí la fecha de efectividad administrativa de la renuncia ni de una denuncia formal."
+    type: "denuncia"
+    relevancia: "media"
+    urls:
+      - "https://www.lavanguardia.com/politica/20201001/483776984852/exalcadesa-de-villaviciosa-pilar-martinez-deja-su-acta-criticando-al-pp.html"
+      - "https://villaviciosadigital.es/pilar-martinez-renuncia-a-su-acta-de-concejal-cansada-de-luchar-contra-intereses-urbanisticos-privados/"
+  - fecha: "2021-03-24"
+    titulo: "Se da a conocer la absolución por las bodas civiles"
+    descripcion: "Según EFE, en información publicada por SER el 25 de marzo, la sentencia absolutoria de la Sección 23 de la Audiencia Provincial se hizo pública el día anterior. Afectaba a Jover y a los demás acusados del procedimiento de las bodas civiles y era recurrible ante el TSJM. No se confunde esta difusión con la fecha de firma de la sentencia ni se presume su firmeza."
     type: "sentencia"
     relevancia: "alta"
     urls:
-      - "https://www.telemadrid.es/noticias/madrid/Villaviciosa-Odon-Jose-Jover-prevaricacion-0-2325667428--20210324052933.html"
-      - "https://envillaviciosadeodon.es/jose-jover-ex-alcalde-de-villaviciosa-absuelto-de-un-delito-de-prevaricacion/"
-      - "https://www.madridiario.es/absuelto-exalcalde-villaviciosa-de-odon-prevaricar-organizacion-bodas-civiles"
+      - "https://cadenaser.com/emisora/2021/03/25/ser_madrid_oeste/1616654223_598245.html"
 ---
+
+El contrato taurino corresponde a las fiestas celebradas del 19 al 27 de septiembre de 2015. La información de Público, publicada el 15 de marzo de 2016, describió una primera licitación urgente sin ofertas admitidas y un procedimiento negociado posterior que tampoco produjo adjudicación. Cuestionó la justificación de la urgencia y las ventajas concedidas a la empresa. El Ayuntamiento sostuvo que había seguido los informes y trámites legales. Esa controversia periodística no permite convertir la adjudicación en un delito probado ni denominarla contratación de emergencia. Tampoco permite tratar el precio como dinero sustraído.
+
+El procedimiento de las bodas civiles se refería a actuaciones municipales relacionadas con una finca situada en el Parque Regional del Curso Medio del Guadarrama y a hechos de 2016 a 2018. Según EFE, el juicio se celebró en febrero de 2021 y la Fiscalía solicitaba ocho años de prisión para Jover por falsedad y prevaricación urbanística, además de penas para otros acusados. Esas peticiones no fueron condenas: la información dio cuenta de absoluciones. El tribunal consideró que la falta de determinadas objeciones administrativas, contextualizada en el expediente, no bastaba para integrar la prevaricación. La fuente consultada no enumera nominalmente todos los acusados, lo que impide reconstruir con seguridad cada pronunciamiento personal sin la sentencia.
+
+La reapertura publicada en 2019 se refería a ese asunto de las bodas, no demuestra la subsistencia de otra causa contra Navarro después de las absoluciones. Las declaraciones de Pilar Martínez en 2020, incluidas sus críticas a intereses urbanísticos privados y al funcionamiento del PP local, tampoco acreditan por sí mismas delitos ni permiten identificar el recorrido judicial de cada comunicación a la Fiscalía. Quedan pendientes los originales judiciales, los posibles recursos y el seguimiento documental de esas denuncias hasta el corte de revisión.
