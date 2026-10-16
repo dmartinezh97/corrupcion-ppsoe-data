@@ -19,7 +19,7 @@ descripcion: 'Tosca investigó posibles irregularidades en contratos públicos d
 
   En mayo de 2023 se informó de una sentencia contencioso-administrativa que ordenaba reanudar una revisión de oficio por
   servicios contratados verbalmente. Esa noticia no acredita una reapertura penal de Tosca. Faltan los originales de otras
-  piezas y de esa sentencia administrativa, el detalle nominal de los sobreseimientos y posibles actuaciones posteriores al
+  piezas y de esa sentencia administrativa, el detalle nominal de los sobreseimientos y posibles actuaciones posteriores a esos archivos hasta el
   15 de octubre de 2026. No se atribuyen resultados penales individuales sin esa correspondencia ni se presenta la investigación
   inicial como vigente. La contratación del abogado por 357.000 euros investigada en el Supremo contra Imbroda pertenecía
   al caso Abogados, no constituye el daño de Tosca.'
