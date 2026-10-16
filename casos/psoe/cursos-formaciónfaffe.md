@@ -1,162 +1,143 @@
 ---
-nombre: "Caso FAFFE"
-partido: "PSOE"
-completado: true
-año: 2016
-fechaInicio: "2003-01-01"
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  La Fundación Andaluza Fondo de Formación y Empleo (FAFFE) fue creada en 2003 durante el gobierno de Manuel Chaves como entidad dependiente de la Consejería de Empleo de la Junta de Andalucía, con el objetivo declarado de gestionar fondos públicos para la formación de desempleados y la promoción del empleo en Andalucía. Durante sus ocho años de actividad, la fundación llegó a contar con más de 1.200 trabajadores y gestionó un presupuesto superior a los 480 millones de euros. Fue disuelta en 2011 por el gobierno de José Antonio Griñán e integrada en el Servicio Andaluz de Empleo (SAE).
+nombre: Caso FAFFE
+partido: PSOE
+completado: false
+año: 2003
+fechaFin: ''
+estado: resultados diversos
+descripcion: 'La Fundación Andaluza Fondo de Formación y Empleo (FAFFE), integrada en el Servicio Andaluz de Empleo
+  en 2011, aparece en procedimientos distintos sobre tarjetas, contratación de personal, proveedores y subvenciones.
+  Las condenas de unas piezas no convierten en hechos probados todas las sospechas de las restantes.
 
-  Las irregularidades fueron de múltiple naturaleza. La más mediática fue el descubrimiento de que el director general, Fernando Villén, utilizó tres tarjetas de crédito de la fundación para pagar gastos en cinco clubes de alterne de Sevilla, Córdoba y Cádiz, acumulando más de 32.000 euros en gastos en prostíbulos con dinero público. Además, la fundación fue utilizada sistemáticamente como agencia de colocación de personas vinculadas al PSOE, UGT y CCOO: la UCO de la Guardia Civil identificó al menos 84 contrataciones irregulares de familiares y allegados del entorno socialista, sin seguir los principios de igualdad, mérito y capacidad exigibles en la contratación pública.
 
-  Uno de los casos más llamativos fue el del exalcalde socialista de Lebrija, Antonio Torres, quien cobró más de 360.000 euros de la FAFFE durante años sin acudir a trabajar. Villén creó para él un cargo ficticio denominado "Dirección de Relaciones Externas", que según la sentencia "es inexistente, no tiene sede, carece de despacho físico y no tiene personal adscrito". Torres fue condenado en 2025 a dos años y tres meses de prisión y cuatro años de inhabilitación absoluta.
+  En la pieza de las tarjetas utilizadas en clubes de alterne, Villén y la exdirectora económico-financiera Ana
+  Valls fueron condenados en 2023. Según EFE, el TSJA redujo en apelación las penas de prisión a cinco años y tres
+  meses para Villén y cuatro años y seis meses para Valls, en una resolución conocida el 24 de abril de 2026. Cabía
+  recurso ante el Supremo; no se ha comprobado la firmeza posterior.
 
-  La comisión parlamentaria de investigación constituida en el Parlamento andaluz en 2019 señaló responsabilidades políticas de los expresidentes Manuel Chaves, José Antonio Griñán y Susana Díaz, así como de la entonces consejera de Hacienda María Jesús Montero. El escándalo se enmarca en el contexto más amplio de la corrupción sistémica de la Junta de Andalucía gobernada por el PSOE, íntimamente ligada al caso de los ERE fraudulentos.
 
-resumen: "Fundación pública andaluza que desvió fondos para formación con pagos en prostíbulos, empleados fantasma y 84 contratos irregulares a allegados del PSOE"
-coste: 9460000
-lugar: "Sevilla, Andalucía"
+  Por la contratación de Antonio Torres, exalcalde socialista de Lebrija, la sentencia 168/2025 de la Audiencia
+  de Sevilla, de 29 de abril y notificada el 30, condenó a Villén a tres años y seis meses de prisión y a Torres
+  a dos años y tres meses, además de inhabilitaciones. Ambos debían indemnizar solidariamente a la Junta con 359.973,51
+  euros. Esa sentencia admitía apelación; no se ha verificado su resultado posterior.
+
+
+  Las informaciones de 2025 sobre 84 contrataciones y 9.465.332 euros de contratos describen indicios de investigación,
+  no 84 condenas ni una cifra global de daño probado. En marzo de 2026 se conoció la continuación por procedimiento
+  abreviado contra Villén y otras cinco personas por las subvenciones del consorcio CTI de San Fernando. No equivale
+  a una apertura de juicio o condena. Faltan originales y resultados individuales de esas ramas, el seguimiento
+  de los recursos y el desenlace completo hasta el 15 de octubre de 2026.'
+resumen: 'FAFFE: condenas y apelación por tarjetas, condena recurrible por la contratación de Torres y otras ramas
+  sobre personal, proveedores y ayudas con desenlaces no verificados.'
+lugar: Sevilla, Andalucía
 tribunal:
-  - "Juzgado de lo Penal nº 1 de Sevilla"
-  - "Audiencia Provincial de Sevilla, Sección 3ª"
-  - "Juzgado de Instrucción nº 6 de Sevilla"
-numeroSentencia: ""
+- Juzgado de Instrucción número 6 de Sevilla
+- Audiencia Provincial de Sevilla, Sección Tercera (contratación de Torres)
+- Audiencia Provincial de Sevilla, Tribunal del Jurado (tarjetas)
+- Tribunal Superior de Justicia de Andalucía (apelación de tarjetas)
+numeroSentencia: 168/2025, de 29 de abril (solo contratación de Torres)
 implicados:
-  - nombre: "Fernando José Villén Rueda"
-    cargo: "Director General de la FAFFE"
-    rol: "Condenado a 6 años de prisión por malversación por gastos en prostíbulos; condenado a 3 años y 6 meses por contratación irregular del exalcalde de Lebrija"
-
-  - nombre: "Ana Valls Rodríguez"
-    cargo: "Directora Económico-Financiera de la FAFFE"
-    rol: "Investigada por malversación y falsedad documental relacionada con los pagos en clubes de alterne"
-
-  - nombre: "Antonio Torres García"
-    cargo: "Exalcalde de Lebrija (PSOE)"
-    rol: "Condenado a 2 años y 3 meses de prisión por cobrar 360.000 euros de la FAFFE sin acudir a trabajar"
-
-  - nombre: "Manuel Chaves González"
-    cargo: "Presidente de la Junta de Andalucía (2000-2009)"
-    rol: "Señalado con responsabilidad política por la comisión parlamentaria de investigación por la creación y gestión de la FAFFE"
-
-  - nombre: "José Antonio Griñán Martínez"
-    cargo: "Presidente de la Junta de Andalucía (2009-2013)"
-    rol: "Señalado con responsabilidad política; disolvió la FAFFE en 2011 e integró sus funciones en el SAE"
-
-  - nombre: "Susana Díaz Pacheco"
-    cargo: "Presidenta de la Junta de Andalucía (2013-2018)"
-    rol: "Señalada con responsabilidad política por la comisión parlamentaria de investigación de la FAFFE"
-
-  - nombre: "María Jesús Montero Cuadrado"
-    cargo: "Consejera de Hacienda de la Junta de Andalucía"
-    rol: "Señalada con responsabilidad política por la comisión parlamentaria de investigación de la FAFFE"
-
+- nombre: Fernando Villén Rueda
+  cargo: Exdirector general técnico de la FAFFE
+  rol: 'Tarjetas: pena de prisión rebajada por el TSJA a cinco años y tres meses, según EFE en abril de 2026. Contratación
+    de Torres: condenado a tres años y seis meses de prisión, seis años de inhabilitación absoluta y siete de especial
+    en abril de 2025. Recursos/firmeza posteriores no verificados; investigado en otras ramas.'
+- nombre: Ana Valls
+  cargo: Exdirectora económico-financiera de la FAFFE
+  rol: Condenada en la pieza de tarjetas; pena de prisión rebajada de cinco años y tres meses a cuatro años y seis
+    meses por el TSJA según EFE en abril de 2026. Firmeza y recorrido de otras ramas no comprobados.
+- nombre: Antonio Torres
+  cargo: Exalcalde socialista de Lebrija y contratado por la FAFFE
+  rol: Condenado en abril de 2025 como cooperador necesario de prevaricación y malversación a dos años y tres meses
+    de prisión, cuatro años de inhabilitación absoluta y cuatro de especial; indemnización solidaria con Villén.
+    Apelación y firmeza posteriores no verificadas.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "empleados fantasma"
-  - "enchufismo"
-  - "contratación irregular"
-  - "fraude administrativo"
-
-impactoSocial: "El caso FAFFE tuvo gran repercusión mediática al revelarse los pagos en prostíbulos con dinero público destinado a formar a desempleados. Junto al caso de los ERE, se convirtió en uno de los principales argumentos del PP para desbancar al PSOE en las elecciones andaluzas de 2018, que pusieron fin a cuarenta años de gobiernos socialistas en Andalucía. El escándalo evidenció el uso sistemático de la administración autonómica como instrumento de clientelismo político."
-
-documentos: null
-
+- corrupción
+- malversación
+- empleados fantasma
+- enchufismo
+- contratación irregular
+- fraude administrativo
+impactoSocial: El uso de tarjetas y la contratación de personal motivaron procesos judiciales y una investigación
+  parlamentaria. Las responsabilidades políticas deben distinguirse de las condenas penales personales y de las
+  ramas aún sin desenlace documentalmente verificado.
+documentos:
+- fecha: '2025-04-29'
+  titulo: 'Sentencia 168/2025: contratación de Antonio Torres (ECLI:ES:APSE:2025:367)'
+  filetype: pdf
+  paginas: 23
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=809643641520e302a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2003-01-01"
-    titulo: "Creación de la FAFFE por el gobierno de Manuel Chaves"
-    descripcion: "La Junta de Andalucía crea la Fundación Andaluza Fondo de Formación y Empleo (FAFFE), dependiente de la Consejería de Empleo, con el objetivo declarado de gestionar fondos públicos para la formación de desempleados. Desde sus inicios, la entidad se convierte en un instrumento de clientelismo político bajo la dirección de Fernando Villén."
-    type: "resumen"
-    urls:
-      - "https://ppandalucia.es/en/conceptos/caso-faffe-que-es-y-que-papel-tuvo-el-psoe/"
-
-  - fecha: "2003-06-01"
-    titulo: "Contratación del exalcalde de Lebrija como empleado fantasma"
-    descripcion: "Tras perder las elecciones municipales de 2003 tras 24 años en el cargo, el exalcalde socialista de Lebrija Antonio Torres es contratado por la FAFFE a petición propia. El director Villén crea ad hoc el cargo ficticio de 'Director de Relaciones Externas', sin sede, despacho ni personal adscrito, para satisfacer sus condiciones de contrato indefinido y salario. Torres cobrará más de 360.000 euros sin acudir jamás al trabajo."
-    type: "resumen"
-    urls:
-      - "https://www.elespanol.com/sevilla/20250430/condenan-enchufe-exalcalde-socialista-lebrija-fundacion-parados-cobro-sin-trabajar/1003743736785_0.html"
-
-  - fecha: "2011-01-01"
-    titulo: "Disolución de la FAFFE e integración en el SAE"
-    descripcion: "El gobierno de José Antonio Griñán disuelve la FAFFE y la integra en el Servicio Andaluz de Empleo (SAE). La fundación había gestionado durante ocho años un presupuesto superior a 480 millones de euros con, según la UCO, una 'ausencia absoluta de control'. La disolución no impide que las irregularidades cometidas durante su existencia queden sin investigar durante años."
-    type: "resumen"
-    urls:
-      - "https://www.eldebate.com/espana/andalucia/20220306/caso-faffe-prostibulos-enchufados-gran-agujero-economico-andalucia_23954.html"
-
-  - fecha: "2016-01-01"
-    titulo: "Apertura de la investigación judicial"
-    descripcion: "La jueza Mercedes Alaya, instructora del caso ERE, abre diligencias de investigación sobre las irregularidades en la extinta FAFFE. La investigación se centra inicialmente en las contrataciones irregulares de personas del entorno del PSOE, UGT y CCOO sin respetar los principios de igualdad, mérito y capacidad exigidos en la contratación pública."
-    type: "investigación"
-    urls:
-      - "https://www.elespanol.com/espana/andalucia/20250504/queda-caso-faffe-anos-despues-enchufes-picota-excargos-junta-andaluza-investigados/1003743739763_0.html"
-
-  - fecha: "2019-01-01"
-    titulo: "Constitución de la comisión parlamentaria de investigación"
-    descripcion: "El Parlamento andaluz constituye una comisión de investigación sobre las irregularidades de la FAFFE, impulsada por PP, Ciudadanos y Vox. A lo largo de sus trabajos, declaran ante ella los expresidentes Manuel Chaves, José Antonio Griñán y la expresidenta Susana Díaz, así como otros altos cargos de la época socialista."
-    type: "investigación"
-    urls:
-      - "https://publico.es/politica/analisis-escandalo-faffe-comision-investigacion-medida-pp-cs-vox-puertas-10-n.html"
-
-  - fecha: "2022-04-04"
-    titulo: "Aprobación del dictamen de la comisión: responsabilidades políticas para Chaves, Griñán, Díaz y Montero"
-    descripcion: "PP, Ciudadanos y Vox aprueban el dictamen de la comisión parlamentaria de investigación de la FAFFE, que señala responsabilidades políticas de los expresidentes Manuel Chaves y José Antonio Griñán, la expresidenta Susana Díaz y la entonces ministra de Hacienda María Jesús Montero por la 'corrupción de alto voltaje' en la fundación."
-    type: "investigación"
-    urls:
-      - "https://www.elespanol.com/espana/andalucia/20220404/pp-vox-faffe-chaves-grinan-susana-diaz/662434086_0.html"
-
-  - fecha: "2023-05-29"
-    titulo: "Inicio del juicio oral por los gastos en prostíbulos"
-    descripcion: "Comienza en la Audiencia Provincial de Sevilla el juicio oral contra el exdirector Fernando Villén y la exdirectora económica Ana Valls por los pagos realizados con tarjetas de crédito de la FAFFE en cinco clubes de alterne de Sevilla, Córdoba y Cádiz. Villén admite en su declaración haber realizado los pagos, pero alega haberlos devuelto todos."
-    type: "juicio"
-    urls:
-      - "https://www.elindependiente.com/espana/tribunales/2023/05/29/el-exdirector-de-la-faffe-admite-que-realizo-pagos-en-prostibulos-pero-que-los-devolvio-todos/"
-
-  - fecha: "2023-09-21"
-    titulo: "Condena a 6 años de prisión a Fernando Villén por malversación en prostíbulos"
-    descripcion: "La Audiencia Provincial de Sevilla condena al exdirector de la FAFFE Fernando Villén a seis años de prisión por un delito continuado de malversación de caudales públicos en concurrencia con falsedad continuada en documento oficial, por haber gastado 32.566 euros de fondos públicos en cinco clubes de alterne. La UCO había confirmado que no existía constancia de que el dinero hubiera sido devuelto."
-    type: "sentencia"
-    urls:
-      - "https://www.vozpopuli.com/espana/andalucia/exdirector-faffe-condenado-seis-anos-carcel-gastar-prostibulos-mas-30-000-euros-dinero-publico.html"
-      - "https://www.elindependiente.com/espana/2023/09/21/la-justicia-condena-a-seis-anos-de-carcel-al-exdirector-de-la-faffe-por-gastar-dinero-publico-en-puticlubs/"
-
-  - fecha: "2024-09-26"
-    titulo: "Juicio oral por la contratación irregular del exalcalde de Lebrija"
-    descripcion: "La Sección Tercera de la Audiencia Provincial de Sevilla celebra el juicio oral contra Fernando Villén y el exalcalde socialista de Lebrija Antonio Torres por la contratación 'injusta y arbitraria' del segundo en la FAFFE. La Fiscalía solicita cuatro años de prisión para Villén. Torres defiende su inocencia alegando que realizaba tareas de representación."
-    type: "juicio"
-    urls:
-      - "https://www.teleprensa.com/articulo/sevilla/comienza-jueves-juicio-exdirector-faffe-exalcalde-socialista-lebrija/202409251112431903281.html"
-
-  - fecha: "2025-02-04"
-    titulo: "El juez reactiva la investigación: 21 excargos de la Junta imputados"
-    descripcion: "El juzgado de Instrucción número 6 de Sevilla reactiva la investigación sobre la FAFFE y cita a 21 exaltos cargos de la Junta de Andalucía en calidad de investigados por presuntos delitos de prevaricación y malversación. La causa incluye la investigación de 9,4 millones de euros en contratos presuntamente irregulares adjudicados entre 2008 y 2010."
-    type: "investigación"
-    urls:
-      - "https://www.eldebate.com/espana/andalucia/20250204/causa-corrupcion-malversacion-faffe-reactiva-juez-imputa-21-personas_266988.html"
-      - "https://www.vozpopuli.com/espana/reactivan-escandalo-faffe-psoe-andaluz-millones-dedo-21-imputados.html"
-
-  - fecha: "2025-04-30"
-    titulo: "Condena al exdirector de la FAFFE y al exalcalde de Lebrija por enchufismo"
-    descripcion: "La Audiencia Provincial de Sevilla condena a Fernando Villén a tres años y seis meses de prisión y siete años de inhabilitación especial por delitos de malversación y prevaricación por la contratación irregular del exalcalde de Lebrija. Antonio Torres es condenado a dos años y tres meses de prisión y cuatro años de inhabilitación absoluta como cooperador necesario en un delito de malversación."
-    type: "sentencia"
-    urls:
-      - "https://www.eldebate.com/espana/andalucia/20250430/condenan-prision-exdirector-faffe-enchufar-alcalde-socialista-afinidad-politica_292592.html"
-      - "https://www.publico.es/politica/tribunales/carcel-exalcalde-psoe-iba-trabajar-exdirector-fundacion-andaluza-contrato.html"
-
-  - fecha: "2025-05-28"
-    titulo: "La UCO confirma 84 enchufes del PSOE en la FAFFE"
-    descripcion: "La Guardia Civil entrega al juez instructor el primero de hasta 18 informes de la UCO que confirman que al menos 84 personas con vínculos directos con el PSOE, UGT y CCOO fueron contratadas en la FAFFE sin respetar los principios de igualdad, mérito y capacidad. La investigación sigue abierta y el juez estudia la ampliación del número de investigados."
-    type: "investigación"
-    urls:
-      - "https://www.elespanol.com/espana/andalucia/20250528/guardia-civil-confirma-psoe-enchufo-personas-empresa-publica-junta-andalucia/1003743778605_0.html"
-
-  - fecha: "2026-03-10"
-    titulo: "El juez procesa al exdirector de la FAFFE por ayudas ilegales de 4,8 millones a consorcio de formación"
-    descripcion: "El juzgado de Instrucción número 6 de Sevilla procesa a Fernando Villén y a otros cinco exaltos cargos de la Junta de Andalucía por la concesión irregular de ayudas por valor de 4.822.855 euros al Consorcio Centro de Formación en Técnicas Industriales (CTI) de San Fernando entre 2007 y 2012, en una nueva pieza del caso FAFFE relativa a los cursos de formación."
-    type: "investigación"
-    urls:
-      - "https://www.eldebate.com/espana/andalucia/20260310/juez-procesa-ex-director-faffe-ayudas-ilegales-48-millones-consorcio-formacion_394406.html"
-      - "https://www.cope.es/emisoras/andalucia/noticias/procesan-exdirector-faffe-nueva-pieza-sobre-cursos-formacion-20260310_3323806.html"
+- fecha: '2003-07-01'
+  titulo: Contratación de Antonio Torres
+  descripcion: Fecha de contratación recogida en la sentencia de 2025. El contrato temporal fue posteriormente convertido
+    en indefinido con efectos de 1 de diciembre de 2004.
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/Noticias-Judiciales-TSJ-Andalucia--Ceuta-y-Melilla/La-Audiencia-de-Sevilla-condena-a-tres-anos-y-seis-meses-de-carcel-al-exdirector-de-la-Faffe-por-la-contratacion--ilegal--y--absolutamente-irregular--de-un-exalcalde-
+  type: resumen
+  relevancia: alta
+- fecha: '2011-05-03'
+  titulo: Integración en el SAE
+  descripcion: La nota judicial sobre la contratación de Torres sitúa en esta fecha la integración de la FAFFE en
+    el SAE; no es una fecha de cierre de las causas penales.
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/Noticias-Judiciales-TSJ-Andalucia--Ceuta-y-Melilla/La-Audiencia-de-Sevilla-condena-a-tres-anos-y-seis-meses-de-carcel-al-exdirector-de-la-Faffe-por-la-contratacion--ilegal--y--absolutamente-irregular--de-un-exalcalde-
+  type: resumen
+  relevancia: alta
+- fecha: '2025-01-30'
+  titulo: Auto sobre personal y proveedores
+  descripcion: Según El Debate el 4 de febrero, el auto prorrogó seis meses la investigación y citó a personas investigadas.
+    La noticia aludió a 21 afectados e indicios sobre contratación; no eran 21 condenados ni necesariamente 21 altos
+    cargos de la Junta.
+  urls:
+  - https://www.eldebate.com/espana/andalucia/20250204/causa-corrupcion-malversacion-faffe-reactiva-juez-imputa-21-personas_266988.html
+  type: investigacion
+  relevancia: alta
+- fecha: '2025-04-29'
+  titulo: Sentencia por la contratación de Torres
+  descripcion: 'Sentencia 168/2025 de la Sección Tercera: Villén, tres años y seis meses de prisión; Torres, dos
+    años y tres meses, con inhabilitaciones e indemnización solidaria de 359.973,51 euros. Notificada el 30 de abril,
+    admitía apelación ante el TSJA.'
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/Noticias-Judiciales-TSJ-Andalucia--Ceuta-y-Melilla/La-Audiencia-de-Sevilla-condena-a-tres-anos-y-seis-meses-de-carcel-al-exdirector-de-la-Faffe-por-la-contratacion--ilegal--y--absolutamente-irregular--de-un-exalcalde-
+  type: sentencia
+  relevancia: alta
+- fecha: '2025-05-28'
+  titulo: Se informa sobre el atestado de las 84 contrataciones
+  descripcion: El Español publicó conclusiones atribuidas a la UCO sobre contrataciones consideradas arbitrarias.
+    La fecha es la de publicación; no se identifica como fecha de entrega del informe ni como resolución que condene
+    a sus destinatarios.
+  urls:
+  - https://www.elespanol.com/espana/andalucia/20250528/guardia-civil-confirma-psoe-enchufo-personas-empresa-publica-junta-andalucia/1003743778605_0.html
+  type: investigacion
+  relevancia: alta
+- fecha: '2026-03-10'
+  titulo: Se conoce la continuación por procedimiento abreviado de la pieza CTI
+  descripcion: El Debate informó de actuaciones contra Villén y otras cinco personas por presunta prevaricación,
+    falsedad y malversación vinculadas a ayudas al CTI de San Fernando. Los 4.822.855 euros correspondían al conjunto
+    de subvenciones sometidas a expedientes de reintegro; no son un daño declarado por sentencia penal. No se fija
+    el día del auto ni se afirma apertura de juicio.
+  urls:
+  - https://www.eldebate.com/espana/andalucia/20260310/juez-procesa-ex-director-faffe-ayudas-ilegales-48-millones-consorcio-formacion_394406_amp.html
+  type: investigacion
+  relevancia: alta
+- fecha: '2026-04-24'
+  titulo: Se conoce la rebaja de penas en apelación por las tarjetas
+  descripcion: 'EFE informó de que el TSJA estimó parcialmente los recursos por dilaciones indebidas: Villén pasó
+    de seis años a cinco años y tres meses de prisión, y Valls de cinco años y tres meses a cuatro años y seis meses.
+    Confirmó los restantes pronunciamientos y cabía recurso al Supremo; fecha de publicación, no de firma.'
+  urls:
+  - https://efe.com/andalucia/2026-04-24/rebajan-la-pena-al-exdirector-de-la-fundacion-andaluza-condenado-por-pagos-en-prostibulos/
+  type: recurso
+  relevancia: alta
 ---
+
+El procedimiento de las tarjetas y el de la contratación de Torres tienen hechos y condenas diferentes. En las tarjetas, EFE explica que la sentencia inicial, posterior al veredicto de un jurado, trató pagos en clubes de alterne y la simulación de devoluciones. La información de la apelación de 2026 recoge una indemnización de unos 24.000 euros a cargo de Villén, descontando una devolución de unos 8.400 euros, y otra obligación solidaria con Valls de 6.300 euros. Sin el fallo original de esta pieza no se reconstruye una liquidación exacta ni se suman esas cantidades como perjuicio global de toda la FAFFE.
+
+En la contratación de Torres, el fallo de 29 de abril de 2025 impone a Villén siete años de inhabilitación especial por prevaricación y, por malversación, tres años y seis meses de prisión y seis años de inhabilitación absoluta. A Torres, como cooperador necesario, le impone cuatro años de inhabilitación especial por prevaricación y, por malversación, dos años y tres meses de prisión y cuatro años de inhabilitación absoluta. La responsabilidad civil es conjunta y solidaria: los 359.973,51 euros no se contabilizan dos veces. Las condenas se individualizan mediante la nota oficial, pues el texto público de la sentencia anonimiza a los acusados.
+
+Los 84 contratos de personal señalados por la investigación no equivalen a 84 personas condenadas. Tampoco los 9.465.332 euros atribuidos a contratos de proveedores indiciariamente irregulares son una cuantificación judicial definitiva de malversación. Las hipótesis sobre personal y las subvenciones de formación deben verificarse por expediente y por persona, sin trasladarles el fallo de Torres o de las tarjetas.
+
+La información sobre el CTI distingue subvenciones de 2007 a 2010 y un marco de actuaciones de formación de 2007 a 2012. Recoge además que resoluciones de reintegro fueron anuladas en la jurisdicción contenciosa por caducidad y que la Administración declaró prescrito su derecho a reintegrar las ayudas. Esa vicisitud administrativa no equivale por sí misma a absolución penal, a prescripción de todos los delitos ni a prueba de que se hayan malversado íntegramente 4,8 millones.
+
+La investigación parlamentaria y sus valoraciones políticas no acreditan responsabilidad penal de los expresidentes o consejeros. No se les atribuye aquí condición de investigados, acusados o condenados en estas piezas sin una resolución que lo sustente. Permanecen pendientes el alcance completo de las ramas de ayudas y contratación, la identificación de todos sus afectados y el resultado de los recursos hasta el corte de revisión.
