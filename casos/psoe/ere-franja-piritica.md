@@ -1,173 +1,122 @@
 ---
-nombre: "ERE/Franja Pirítica"
-partido: "PSOE"
-completado: true
-año: 2012
-fechaInicio: 2003-09-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El caso ERE/Franja Pirítica es una pieza separada del macrocaso de los ERE de Andalucía que investiga las irregularidades en las ayudas sociolaborales y prejubilaciones concedidas a trabajadores de la minería de la Faja Pirítica de Huelva entre 2003 y 2010. La Guardia Civil detectó que 334 de los 1.169 beneficiarios (casi un tercio) eran "intrusos" que no reunían los requisitos legales para recibir estas ayudas, incluyendo personas que nunca habían trabajado en las minas.
+nombre: ERE/Franja Pirítica
+partido: PSOE
+completado: false
+año: 2003
+fechaFin: ''
+estado: desconocido
+descripcion: 'La pieza de los ERE sobre la Faja Pirítica de Huelva investigó ayudas sociolaborales para prejubilaciones
+  mineras cofinanciadas por el Estado y la Junta. La nota del CGPJ de 29 de junio de 2017 informó de 25 personas
+  investigadas por posibles delitos relacionados con ayudas calculadas en más de 40 millones de euros. No era una
+  condena ni un daño declarado por sentencia.
 
-  El sistema fraudulento operaba mediante la inclusión de falsos trabajadores en las pólizas de prejubilación, la asignación de coeficientes reductores falseados para el cálculo de la "edad química" de los mineros (incrementando artificialmente el número de beneficiarios), y el uso irregular de fondos públicos destinados a la Faja Pirítica para cubrir otras operaciones. Por ejemplo, se detectaron "pagos cruzados" donde 450.000 euros destinados a la Faja Pirítica se utilizaron para cubrir la póliza de otra empresa (Pickman) en marzo de 2006. La Administración autonómica se comprometió a abonar a las aseguradoras más de 138,23 millones de euros, con pagos acreditados de al menos 130,84 millones entre septiembre de 2003 y finales de 2010.
 
-  La investigación judicial afecta a 25 personas por presunto delito de malversación, incluyendo seis altos cargos de la Junta de Andalucía, dos ex altos cargos del Gobierno de Aznar, once sindicalistas, dos mediadores de seguros y cinco trabajadores presuntos intrusos. Las minerías investigadas son Almagrera, Navan Resource, Filón Sur, Nueva Tharsis (Bolsa de Tharsis e Insersa) y Minas Río Tinto. A pesar de las advertencias del Defensor del Pueblo Andaluz desde 2003 y los informes de la Intervención General de 2005, 2006 y 2007 que ponían serios reparos al procedimiento, los responsables políticos no actuaron para detener el fraude.
+  El objeto comunicado incluía posibles beneficiarios que no habían trabajado en las minas, supuestas alteraciones
+  de coeficientes para calcular la edad bonificada y el papel de la asociación de extrabajadores, Uniter y el Estudio
+  Jurídico Villasís. También se investigaba si cantidades de FOGASA destinadas a primas de pólizas se habían aplicado
+  a otros fines. No se presenta como probado que 334 personas fueran intrusos ni que todos los beneficiarios cuestionados
+  carecieran de relación laboral con las minas.
 
-resumen: "Prejubilaciones fraudulentas en la minería onubense con un tercio de beneficiarios intrusos"
-coste: 138230000
-lugar: "Faja Pirítica de Huelva, Andalucía"
+
+  En octubre de 2017 Europa Press informó de la exclusión de Agustín Barberá por la coincidencia de los hechos atribuidos
+  con los de la pieza política. Ese resultado personal no equivale al archivo de toda la causa. Las declaraciones
+  como investigados de Soledad Córdova, Carmen de Miguel y Francisco Carbonero se difundieron el 17 de octubre;
+  los dos primeros cargos pertenecían al Gobierno central del PP, no al PSOE.
+
+
+  No se han localizado los autos originales ni comprobado los desenlaces individuales, acusaciones, juicio, sentencias,
+  archivos o recursos posteriores hasta el 15 de octubre de 2026. Tampoco se ha contrastado la relación nominal
+  completa de los investigados. No se afirma que la instrucción descrita en 2017 continúe vigente ni que los resultados
+  del TC, TS o TJUE en otras piezas resuelvan automáticamente esta.'
+resumen: 'Ayudas a prejubilaciones de la Faja Pirítica: investigación comunicada en 2017 y exclusión personal de
+  Barberá; desenlaces posteriores y perjuicio no verificados.'
+lugar: Faja Pirítica de Huelva, Andalucía
 tribunal:
-  - "Juzgado de Instrucción nº 6 de Sevilla - Jueza María Núñez Bolaños"
-numeroSentencia: ""
+- Juzgado de Instrucción número 6 de Sevilla (instrucción comunicada en 2017)
+numeroSentencia: ''
 implicados:
-  - nombre: "José Antonio Viera"
-    cargo: "Exconsejero de Empleo de la Junta de Andalucía"
-    rol: "Imputado por malversación como responsable al firmar el acuerdo marco"
-
-  - nombre: "Francisco Javier Guerrero"
-    cargo: "Exdirector general de Trabajo de la Junta de Andalucía"
-    rol: "Imputado por malversación en la gestión irregular de las ayudas"
-
-  - nombre: "Juan Márquez"
-    cargo: "Exdirector general de Trabajo de la Junta de Andalucía"
-    rol: "Imputado por malversación en la gestión irregular de las ayudas"
-
-  - nombre: "Daniel Alberto Rivera"
-    cargo: "Exdirector de Trabajo de la Junta de Andalucía"
-    rol: "Imputado por malversación en la gestión irregular de las ayudas"
-
-  - nombre: "Antonio Fernández"
-    cargo: "Exconsejero de Empleo de la Junta de Andalucía"
-    rol: "Imputado por malversación en las ayudas a empresas"
-
-  - nombre: "Agustín Barberá"
-    cargo: "Exviceconsejero de Empleo de la Junta de Andalucía"
-    rol: "Excluido posteriormente de la investigación judicial"
-
-  - nombre: "Manuel Pastrana"
-    cargo: "Exsecretario general de UGT en Andalucía"
-    rol: "Imputado como presidente de la Asociación Faja Pirítica de Huelva"
-
-  - nombre: "Francisco Carbonero"
-    cargo: "Dirigente de CCOO en Andalucía"
-    rol: "Imputado como vicepresidente de la Asociación Faja Pirítica de Huelva"
-
-  - nombre: "Luciano Gómez"
-    cargo: "Secretario provincial de FITAG-UGT Huelva"
-    rol: "Investigado por su participación en los ERE de la Faja Pirítica"
-
-  - nombre: "Agustín Moreno Reviriego"
-    cargo: "Ex alcalde socialista de Torrecera (Jerez)"
-    rol: "Imputado como intruso que nunca trabajó en las minas"
-
+- nombre: José Antonio Viera
+  cargo: Exconsejero de Empleo de la Junta de Andalucía
+  rol: Identificado entre los investigados en la información de junio de 2017; no se han comprobado su recorrido
+    posterior ni posibles exclusiones concretas de esta pieza.
+- nombre: Antonio Fernández
+  cargo: Exconsejero de Empleo de la Junta de Andalucía
+  rol: Identificado entre los investigados en junio de 2017; no se trasladan resultados personales de otras piezas
+    ni se presume la situación posterior.
+- nombre: Agustín Barberá
+  cargo: Exviceconsejero de Empleo de la Junta de Andalucía
+  rol: Exclusión de esta pieza comunicada por Europa Press en octubre de 2017 para evitar doble enjuiciamiento;
+    original, modalidad del archivo y recorrido posterior no comprobados.
+- nombre: Manuel Pastrana
+  cargo: Exsecretario general de UGT Andalucía
+  rol: Identificado como investigado en 2017. En octubre se anunció una citación y su petición de suspensión por
+    enfermedad; no se da por celebrada esa comparecencia.
+- nombre: Francisco Carbonero
+  cargo: Exsecretario general de CCOO Andalucía
+  rol: Declaró como investigado según la noticia de 17 de octubre de 2017 y negó intervenir en la gestión; desenlace
+    posterior no verificado.
+- nombre: Carmen de Miguel
+  cargo: Secretaria general de Empleo del Ministerio de Trabajo en la etapa del Gobierno del PP investigada
+  rol: Investigada en 2017 por su anterior cargo; defendió la legalidad de las ayudas estatales. No se ha verificado
+    desenlace personal.
+- nombre: Soledad Córdova
+  cargo: Exdirectora general de Trabajo del Ministerio de Trabajo y Asuntos Sociales
+  rol: Declaró como investigada en octubre de 2017 y defendió el procedimiento estatal; no se ha verificado acusación,
+    archivo o sentencia posterior.
+- nombre: Begoña Abdelkader
+  cargo: Trabajadora sindical de UGT según la información de 2017
+  rol: Identificada entre las personas escuchadas por la jueza en octubre de 2017; no se ha contrastado su desenlace
+    personal.
+- nombre: Manuel Chaves Castilla
+  cargo: Secretario de Organización de FIA-UGT Andalucía en 2004
+  rol: Identificado entre las personas escuchadas por la jueza en octubre de 2017 por su cargo sindical; no se confunde
+    con el expresidente Manuel Chaves ni se ha verificado desenlace personal.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "fraude"
-  - "prevaricación"
-
-impactoSocial: "El caso evidenció un fraude masivo en las prejubilaciones mineras con casi un tercio de beneficiarios irregulares, generando gran indignación entre los trabajadores legítimos que quedaron excluidos. Las advertencias ignoradas desde 2003 mostraron la complicidad institucional en el fraude."
-
-documentos: null
-
+- corrupción
+- malversación
+- fraude
+- prevaricación
+impactoSocial: La investigación afectó a ayudas concebidas para paliar la crisis minera y suscitó controversia sobre
+  sus requisitos, financiación y gestión. Deben distinguirse los derechos de los prejubilados, las hipótesis policiales
+  y judiciales y los resultados personales, sin calificar a todo el colectivo como beneficiario fraudulento.
+documentos: []
 cronologia:
-  - fecha: 2003-09-01
-    titulo: "Inicio de las ayudas a la Faja Pirítica"
-    descripcion: "El Ministerio de Trabajo y la Junta de Andalucía comienzan a conceder ayudas sociolaborales y prejubilaciones a trabajadores de la minería de la Faja Pirítica de Huelva. Se establece un sistema de pólizas de prejubilación que posteriormente se revelará fraudulento con la inclusión de numerosos beneficiarios irregulares."
-    type: "resumen"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/La-jueza-investiga-a-25-personas-por-malversacion-en-ayudas-de-mas-de-40-millones-a-minerias-de-la-Faja-Piritica-de-Huelva"
-
-  - fecha: 2003-11-18
-    titulo: "Constitución de la Asociación Faja Pirítica de Huelva"
-    descripcion: "Se constituye la Asociación Faja Pirítica de Huelva con Manuel Pastrana (UGT-A) como presidente y Francisco Carbonero (CCOO) como vicepresidente. Esta asociación jugará un papel clave en la gestión de las ayudas y prejubilaciones que posteriormente se investigarán por irregularidades."
-    type: "resumen"
-    urls:
-      - "https://www.eleconomista.es/legislacion/noticias/8684931/10/17/La-juez-Nunez-cita-a-declarar-como-imputado-este-jueves-a-Pastrana-ex-de-UGTApor-el-ERE-de-la-Faja-Piritica-de-Huelva.html"
-
-  - fecha: 2003-12-01
-    titulo: "Primeras alertas del Defensor del Pueblo Andaluz"
-    descripcion: "Trabajadores de la mina de Tharsis que quedaron excluidos de las prejubilaciones empiezan a remitir escritos al Defensor del Pueblo Andaluz, José Chamizo, alertando de la existencia de beneficiarios de pólizas que ni siquiera habían trabajado en las minas. Estas advertencias serán ignoradas por las autoridades competentes."
-    type: "denuncia"
-    urls:
-      - "https://www.libertaddigital.com/nacional/2011-06-08/el-defensor-del-pueblo-andaluz-sabia-desde-2003-que-habia-intrusos-en-los-ere-1276425956/"
-
-  - fecha: 2005-01-01
-    titulo: "Informe de la Intervención General advierte irregularidades"
-    descripcion: "La Intervención General de la Junta de Andalucía emite el primero de una serie de informes (2005, 2006 y 2007) que ponen serios y graves reparos al procedimiento administrativo escogido para tramitar los polémicos ERE y las ayudas a empresas en crisis. La viceconsejera Martínez Aguayo admitió posteriormente que no informó a Griñán de estos informes."
-    type: "documento"
-    urls:
-      - "https://www.libertaddigital.com/opinion/editorial/grinan-chaves-y-los-eres-fraudulentos-61970/"
-
-  - fecha: 2006-03-31
-    titulo: "Detectados pagos cruzados irregulares"
-    descripcion: "La investigación posterior revela que en esta fecha se utilizaron 450.000 euros destinados a la Faja Pirítica para cubrir la póliza de otra empresa (Pickman), evidenciando el uso irregular de fondos públicos mediante pagos cruzados entre diferentes expedientes del caso ERE."
-    type: "investigación"
-    urls:
-      - "https://www.libertaddigital.com/opinion/editorial/grinan-chaves-y-los-eres-fraudulentos-61970/"
-
-  - fecha: 2010-12-31
-    titulo: "Fin del periodo de pagos irregulares"
-    descripcion: "Finaliza el periodo investigado de pagos irregulares a beneficiarios de la Faja Pirítica. La Guardia Civil acredita posteriormente pagos por al menos 130,84 millones de euros entre septiembre de 2003 y finales de 2010, de un compromiso total de la Administración autonómica de abonar más de 138,23 millones."
-    type: "resumen"
-    urls:
-      - "https://www.eleconomista.es/legislacion/noticias/8684931/10/17/La-juez-Nunez-cita-a-declarar-como-imputado-este-jueves-a-Pastrana-ex-de-UGTApor-el-ERE-de-la-Faja-Piritica-de-Huelva.html"
-
-  - fecha: 2012-03-04
-    titulo: "Sale a la luz el caso del alcalde intruso"
-    descripcion: "Se conoce públicamente que el alcalde socialista de La Zarza, intruso en un ERE, se prejubiló cinco años y medio antes de que le correspondiera. Este caso ejemplifica el tipo de irregularidades masivas detectadas en el sistema de prejubilaciones de la Faja Pirítica."
-    type: "resumen"
-    urls:
-      - "http://huelvaya.es/2012/03/04/el-alcalde-socialista-de-la-zarza-intruso-en-un-ere-se-prejubilo-cinco-anos-y-medio-antes-de-que-le-correspondiera/"
-
-  - fecha: 2013-01-24
-    titulo: "Luciano Gómez declara ante la Guardia Civil"
-    descripcion: "El socialista Luciano Gómez, secretario provincial de FITAG-UGT, declara ante la Guardia Civil por su participación en los ERE de la Faja Pirítica. La investigación policial está recopilando testimonios de los responsables sindicales y administrativos involucrados en la gestión de las ayudas."
-    type: "declaración"
-    urls:
-      - "https://huelvaya.es/2013/01/24/el-socialista-luciano-gomez-secretario-provincial-de-fitag-ugt-declara-ante-la-guardia-civil-por-los-ere-de-la-faja-piritica/"
-
-  - fecha: 2013-04-01
-    titulo: "Revelación de asociación entre UGT y CCOO para cobro ilegal"
-    descripcion: "Se conoce que UGT y CCOO se asociaron específicamente para el cobro ilegal de ayudas de los ERE andaluces, incluyendo las de la Faja Pirítica. Los sindicatos actuaron de forma coordinada en la gestión irregular de las prejubilaciones, beneficiándose del sistema fraudulento."
-    type: "investigación"
-    urls:
-      - "https://www.telemadrid.es/noticias/nacional/UGT-CCOO-asociaron-ERE-andaluces-0-1451554861--20130401025437.html"
-
-  - fecha: 2017-06-29
-    titulo: "Imputación de cargos del Gobierno de Aznar"
-    descripcion: "Son imputados dos altos cargos del Gobierno de José María Aznar por las ayudas sociolaborales concedidas entre 2003 y 2005 durante la crisis de la minería de la Faja Pirítica de Huelva. La investigación judicial se extiende a responsables de la administración central además de la autonómica."
-    type: "imputación"
-    urls:
-      - "https://www.telemadrid.es/noticias/nacional/Imputados-Gobierno-Aznar-ERE-Piritica-0-1916508356--20170629074339.html"
-      - "https://www.eldiario.es/andalucia/Aznar-investigados-ERE-Alaya-ignoro_0_542095936.html"
-
-  - fecha: 2017-10-12
-    titulo: "La jueza Núñez imputa a Manuel Pastrana"
-    descripcion: "La jueza María Núñez Bolaños cita a declarar como imputado al ex secretario general de UGT en Andalucía, Manuel Pastrana, por el ERE de la Faja Pirítica de Huelva. Pastrana era presidente de la Asociación Faja Pirítica de Huelva que gestionó las ayudas irregulares."
-    type: "imputación"
-    urls:
-      - "https://www.eleconomista.es/legislacion/noticias/8684931/10/17/La-juez-Nunez-cita-a-declarar-como-imputado-este-jueves-a-Pastrana-ex-de-UGTApor-el-ERE-de-la-Faja-Piritica-de-Huelva.html"
-
-  - fecha: 2017-10-15
-    titulo: "Exclusión del exviceconsejero Barberá"
-    descripcion: "La jueza María Núñez Bolaños excluye al exviceconsejero de Empleo Agustín Barberá de la pieza por el ERE de la Faja Pirítica de Huelva, reduciendo el número de investigados. No obstante, la investigación continúa contra otros 24 imputados."
-    type: "investigación"
-    urls:
-      - "https://www.eleconomista.es/legislacion/noticias/8686691/10/17/La-juez-Nunez-excluye-al-exviceconsejero-de-Empleo-de-la-pieza-por-el-ERE-de-la-Faja-Piritica-de-Huelva.html"
-
-  - fecha: 2017-12-01
-    titulo: "Informe policial confirma 334 intrusos"
-    descripcion: "La Guardia Civil confirma en su informe que 334 de los 1.169 beneficiarios de ayudas vinculadas al ERE de la Faja Pirítica de Huelva eran intrusos que no reunían los requisitos. El informe constata innumerables irregularidades y concluye que casi un tercio de los prejubilados no debió beneficiarse de esas ayudas."
-    type: "documento"
-    urls:
-      - "https://www.todopolicia.com/la-guardia-civil-halla-334-intrusos-en-el-ere-de-la-mineria-de-huelva/"
-
-  - fecha: 2024-07-01
-    titulo: "Decisiones del Tribunal Constitucional afectan al caso"
-    descripcion: "El Tribunal Constitucional dicta sentencias que anulan o rebajan condenas de la pieza política del macrocaso ERE, lo que tiene influencia sobre las más de cien piezas separadas incluida la de la Faja Pirítica. El Tribunal Supremo analiza posteriormente el impacto de estas decisiones en noviembre de 2024."
-    type: "sentencia"
-    urls:
-      - "https://derechoydemocracia.es/2024/12/el-caso-de-los-ere/"
-      - "https://www.elplural.com/politica/feijoo-sincera-eres-siento-grinan-no-persona-corrupta_228248102"
+- fecha: '2017-06-29'
+  titulo: Se comunica la investigación de la pieza minera
+  descripcion: El CGPJ informó de un auto del Juzgado de Instrucción 6 de Sevilla referido a 25 personas y ayudas
+    de más de 40 millones de euros. La fecha corresponde a la nota oficial y a la notificación recogida por EFE,
+    no se fija como día de firma del auto.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/La-jueza-investiga-a-25-personas-por-malversacion-en-ayudas-de-mas-de-40-millones-a-minerias-de-la-Faja-Piritica-de-Huelva
+  - https://www.diariodenavarra.es/noticias/actualidad/nacional/2017/06/29/imputados-cargos-junta-por-ere-faja-piritica-539417-1031.html
+- fecha: '2017-10-17'
+  titulo: Se informa de declaraciones y de la defensa de las ayudas estatales
+  descripcion: elDiario.es recogió declaraciones de Soledad Córdova, Carmen de Miguel y Francisco Carbonero, así
+    como la comparecencia de Begoña Abdelkader y Manuel Chaves Castilla. Pastrana había pedido suspender la declaración
+    anunciada; no se identifica el anuncio con una comparecencia celebrada.
+  type: declaracion
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/andalucia/directora-trabajo-aznar-investigada-ere_1_3136107.html
+- fecha: '2017-10-19'
+  titulo: Se conoce la exclusión de Barberá
+  descripcion: Europa Press informó de la decisión judicial de excluir a Barberá por hechos comprendidos en la pieza
+    política y para evitar el doble enjuiciamiento. Fecha de publicación; no se inventa el día del auto ni se extiende
+    a los demás afectados.
+  type: resolucion
+  relevancia: alta
+  urls:
+  - https://www.bolsamania.com/noticias/justicia/la-juez-nunez-excluye-al-exviceconsejero-de-empleo-de-la-pieza-por-el-ere-de-la-faja-piritica-de-huelva--2924105.html
 ---
+
+El ámbito de la pieza comunicado por el CGPJ incluía las explotaciones de Almagrera, Navan Resource, Filón Sur, Nueva Tharsis —Bolsa de Tharsis e Insersa— y Minas Río Tinto. La nota oficial menciona ayudas del Ministerio de Trabajo y de la Junta, y distingue a responsables públicos, representantes sindicales, mediadores y beneficiarios investigados. La cifra global anunciada de 25 personas no permite reconstruir su identificación completa: el desglose de categorías de esa misma nota no concuerda aritméticamente con el total, por lo que no se utiliza para deducir nuevos nombres o estados.
+
+Las sospechas sobre edad bonificada, pertenencia a las plantillas y recolocación requieren análisis individual. La etiqueta de intruso empleada en informaciones policiales o periodísticas no equivale a condena y puede agrupar supuestos diferentes. La nota oficial confirma que se investigaban posibles inclusiones de personas ajenas a las minas y alteraciones en coeficientes de edad, pero no acredita una sentencia contra 334 beneficiarios. Los informes policiales y las fuentes originales de esa cifra no se han contrastado aquí.
+
+Se elimina una cuantificación global de daño basada en compromisos de ayudas y pagos a aseguradoras. Las cifras de financiación del programa, las primas, los pagos y las cantidades eventualmente desviadas no son intercambiables. Tampoco se imputa a esta pieza como perjuicio adicional un pago descrito en informaciones de Pickman sin su resolución y liquidación propias. La cofinanciación y las decisiones de la jurisdicción social sobre derechos de trabajadores no resuelven por sí mismas la responsabilidad penal.
+
+La exclusión de Barberá se comunicó por la posible duplicidad con hechos de la causa política; no es una absolución general de los investigados de la Faja Pirítica. La noticia de Europa Press también alude a exclusiones de Fernández y Viera en distintas piezas, pero no basta para fijar cuál fue su alcance específico aquí. Se conservan por ello las referencias históricas verificadas y se declara pendiente su recorrido personal completo, así como el de antiguos responsables de Trabajo y otros nombres que figuraban en la ficha anterior sin respaldo nominal contrastado.
+
+No se incorporan como hitos de esta pieza fechas generales de sentencias constitucionales sobre el procedimiento específico. Cualquier efecto de esas decisiones, de la jurisprudencia del Supremo o de actuaciones europeas requiere comprobar la resolución que lo aplique a las personas y hechos de esta causa. La falta de una actualización localizada tampoco prueba que siga instruyéndose, que se haya archivado o que no haya existido juicio.
