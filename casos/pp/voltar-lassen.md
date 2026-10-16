@@ -1,105 +1,161 @@
 ---
-nombre: "Voltar Lassen"
+nombre: Voltar Lassen — pieza Elecnor
 partido: PP
-completado: true
-año: 2017
-fechaInicio: 2009-01-01
-fechaFin: ""
-estado: "pendiente de juicio"
-descripcion: |
-  El Caso Voltar Lassen es un escándalo de corrupción internacional que implica a dos exdiputados del Partido Popular, Pedro Gómez de la Serna y Gustavo de Arístegui, quienes crearon en 2009 una empresa consultora denominada Voltar Lassen con el fin de obtener contratos públicos en Argelia para el grupo vasco Elecnor a cambio del pago de comisiones ilegales y sobornos a funcionarios argelinos.
+completado: false
+año: 2015
+fechaInicio: '2016-01-12'
+estado: Juicio oral abierto en 2025
+lugar: Madrid y Argelia
+descripcion: 'La pieza Elecnor de la causa sobre el despacho Voltar Lassen investiga presuntos sobornos para obtener
+  contratos públicos en Argelia. En septiembre de 2025 se informó de que el Juzgado Central de Instrucción número
+  5 de la Audiencia Nacional había abierto juicio oral contra 23 personas y cinco empresas. Entre los acusados figuran
+  Pedro Gómez de la Serna y Gustavo de Arístegui, exdiputados del PP, por presunta corrupción en los negocios, cohecho
+  pasivo, falsedad documental y organización criminal. Son acusaciones, no hechos declarados probados ni condenas.
 
-  A través de Voltar Lassen, ambos expolíticos actuaron como intermediarios para que Elecnor obtuviera dos grandes contratos de obra pública en Argelia: la construcción del tranvía de la ciudad de Ouargla, valorado en 230 millones de euros, adjudicado en 2013 tras el pago de 850.000 euros al director del proyecto; y la canalización de agua de Souk Tleta, valorada en 250 millones de euros. Como contraprestación por su labor de intermediación, percibían comisiones fijas y un porcentaje de hasta el 5% de cada contrato adjudicado.
 
-  Los pagos a los funcionarios argelinos no siempre se realizaron en metálico: Elecnor pagó una deuda tributaria de 164.000 euros que Arístegui mantenía con la Agencia Tributaria española, adquirió una vivienda en Francia por 245.000 euros propiedad de un funcionario argelino, y realizó diversos pagos por valor de 300.000 euros a familiares de autoridades argelinas.
+  Las fuentes discrepan sobre la petición fiscal para los dos exdiputados: Público y Cadena SER publicaron 18 años
+  para cada uno, mientras elDiario.es publicó 21. Sin el escrito de acusación y el auto originales no se resuelve
+  esa diferencia. Tampoco se han verificado el señalamiento, la celebración o el resultado del juicio ni los recursos
+  y la situación individual de todos los acusados hasta el 15 de octubre de 2026. El auto de continuación de noviembre
+  de 2020 fue revocado en enero de 2021 para completar diligencias: esa revocación no fue un archivo de la causa.
 
-  La Fiscalía Anticorrupción formuló denuncia ante el juez De la Mata de la Audiencia Nacional por presuntos delitos de corrupción en transacciones económicas internacionales, cohecho, blanqueo de capitales y organización criminal. El fiscal solicitó 18 años de prisión para cada uno de los exdiputados, además de multas de 720.000 euros y el decomiso de 2,64 millones de euros. Otras acusaciones elevaron la petición hasta los 21 años de prisión.
-resumen: "Exdiputados del PP crearon la empresa Voltar Lassen para cobrar comisiones sobornando a funcionarios argelinos a cambio de contratos millonarios para Elecnor"
-coste: 2640000
-lugar: "Madrid / Argelia (operaciones internacionales)"
+
+  Las operaciones examinadas son la desaladora de Souk Tleta, con un contrato de unos 250 millones de euros, y el
+  tranvía de Ouargla, de unos 230 millones. Estos volúmenes contractuales no equivalen al perjuicio público. Los
+  2,64 millones de euros publicados como decomiso solicitado para Scardovi y Karistia tampoco son un daño ni un
+  decomiso ya acordado. La absolución de José Faya por revelación de secretos, conocida en noviembre de 2025 y recurrible
+  entonces, pertenece a un procedimiento distinto: no lo absuelve de la acusación publicada contra él en la pieza
+  Elecnor. Las referencias a otras piezas —Nova Internacional, Panamá y Fertiberia— no permiten trasladar sus estados
+  a esta ficha.'
+resumen: Pieza sobre presuntos sobornos para contratos de Elecnor en Argelia. Apertura de juicio oral conocida en
+  septiembre de 2025; desenlace posterior y peticiones penales exactas pendientes de contraste con los originales.
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 5 - Juez De la Mata"
-numeroSentencia: ""
+- Audiencia Nacional — Juzgado Central de Instrucción número 5
 implicados:
-  - nombre: "Pedro Gómez de la Serna"
-    cargo: "Exdiputado del PP en el Congreso de los Diputados"
-    rol: "Cofundador de Voltar Lassen; acusado de corrupción en transacciones internacionales, cohecho, blanqueo y organización criminal. Petición fiscal: 18 años de prisión"
-
-  - nombre: "Gustavo de Arístegui"
-    cargo: "Exdiputado del PP y exembajador de España en la India"
-    rol: "Cofundador de Voltar Lassen; acusado de corrupción en transacciones internacionales, cohecho, blanqueo y organización criminal. Petición fiscal: 18 años de prisión"
-
+- nombre: Pedro Gómez de la Serna
+  cargo: Exdiputado del PP; funcionario del Cuerpo Superior de Administradores Civiles del Estado
+  rol: Responsable del despacho Voltar Lassen y acusado en la pieza Elecnor por corrupción en los negocios, cohecho
+    pasivo, falsedad documental y organización criminal, según las informaciones de septiembre de 2025. Petición
+    fiscal publicada de 18 o 21 años, con discrepancia no resuelta; sin condena verificada.
+- nombre: Gustavo de Arístegui
+  cargo: Exdiputado del PP y exembajador de España en la India; diplomático de carrera
+  rol: Responsable del despacho Voltar Lassen y acusado en la pieza Elecnor por corrupción en los negocios, cohecho
+    pasivo, falsedad documental y organización criminal, según las informaciones de septiembre de 2025. Petición
+    fiscal publicada de 18 o 21 años, con discrepancia no resuelta; sin condena verificada.
+- nombre: José Faya López
+  cargo: Agente comercial vinculado al despacho y denunciante ante Fiscalía
+  rol: Según Público, acusado en la pieza Elecnor con una petición fiscal de nueve años. Absuelto de revelación
+    de secretos en otro procedimiento en noviembre de 2025, tras anularse una primera absolución de 2023; firmeza
+    posterior no verificada.
+- nombre: Borja Manuel de Arístegui Arroyo
+  cargo: Hijo de Gustavo de Arístegui; vinculado a Arroyo de Lagasca
+  rol: Según Público, acusado por corrupción en los negocios en la pieza Elecnor, con petición fiscal de tres años;
+    sin resultado judicial posterior verificado.
+- nombre: Germán Junquera Palomares
+  cargo: Directivo del grupo Elecnor en las operaciones investigadas
+  rol: Según Público, acusado con petición fiscal de 21 años por corrupción en los negocios, cohecho activo, falsedad
+    documental y organización criminal. Sin condena ni resultado posterior verificados.
+- nombre: Ramón López Lax
+  cargo: Directivo del grupo Elecnor en las operaciones investigadas
+  rol: Según Público, acusado con petición fiscal de 21 años por corrupción en los negocios, cohecho activo, falsedad
+    documental y organización criminal. Sin condena ni resultado posterior verificados.
+- nombre: Electrificaciones del Norte SA (Elecnor)
+  cargo: Persona jurídica acusada en la pieza Elecnor
+  rol: Incluida entre las cinco empresas contra las que se abrió juicio oral, según las informaciones de septiembre
+    de 2025. Se publicaron peticiones fiscales de multas; no se documenta aquí una condena corporativa.
+- nombre: Internacional de Desarrollo Energético SA
+  cargo: Persona jurídica acusada en la pieza Elecnor
+  rol: Incluida entre las cinco empresas contra las que se abrió juicio oral, según las informaciones de septiembre
+    de 2025. Se publicaron peticiones fiscales de multas; no se documenta aquí una condena corporativa.
+- nombre: Rover Alcisa
+  cargo: Persona jurídica acusada en la pieza Elecnor
+  rol: Incluida entre las cinco empresas contra las que se abrió juicio oral, según las informaciones de septiembre
+    de 2025. Se publicaron peticiones fiscales de multas; no se documenta aquí una condena corporativa.
+- nombre: Assignia Infraestructuras
+  cargo: Persona jurídica acusada en la pieza Elecnor
+  rol: Incluida entre las cinco empresas contra las que se abrió juicio oral, según las informaciones de septiembre
+    de 2025. Se publicaron peticiones fiscales de multas; no se documenta aquí una condena corporativa.
+- nombre: AS Auditoría & Consulting Navarra SL
+  cargo: Persona jurídica acusada en la pieza Elecnor
+  rol: Incluida entre las cinco empresas contra las que se abrió juicio oral, según las informaciones de septiembre
+    de 2025. Se publicaron peticiones fiscales de multas; no se documenta aquí una condena corporativa.
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "blanqueo de capitales"
-  - "organización criminal"
-  - "corrupción internacional"
-  - "financiación ilegal"
-impactoSocial: "El caso supuso un grave escándalo para el PP al implicar a dos exdiputados en una trama de sobornos internacionales, dañando la imagen del partido en materia de ética pública. El caso fue el primero de gran envergadura por corrupción internacional en transacciones económicas en España y puso el foco en el uso de cargos políticos como puerta giratoria hacia el lobbismo corrupto."
-documentos: null
+- presunta corrupción internacional
+- cohecho
+- falsedad documental
+- organización criminal
+impactoSocial: El asunto puso bajo investigación la compatibilidad de las funciones públicas de los dos exdiputados
+  con su actividad de intermediación internacional. El denunciante José Faya también fue acusado en la pieza Elecnor
+  y afrontó otro proceso por la documentación aportada a Fiscalía; ambos procedimientos deben distinguirse.
+documentos: []
 cronologia:
-  - fecha: 2009-01-01
-    titulo: "Creación de Voltar Lassen como empresa consultora"
-    descripcion: "Pedro Gómez de la Serna y Gustavo de Arístegui, entonces diputados del PP, crean la empresa Voltar Lassen para asesorar a empresas españolas en su expansión internacional, sirviendo como fachada para cobrar comisiones por facilitar contratos en Argelia."
-    type: "investigación"
-    relevancia: "alta"
-    urls: []
-
-  - fecha: 2013-01-01
-    titulo: "Adjudicación del contrato del tranvía de Ouargla a Elecnor"
-    descripcion: "Elecnor obtiene el contrato para construir el tranvía de Ouargla (Argelia), valorado en 230 millones de euros, tras el pago de 850.000 euros al director del proyecto. Voltar Lassen actúa como intermediario."
-    type: "investigación"
-    relevancia: "alta"
-    urls: []
-
-  - fecha: 2017-01-01
-    titulo: "La Fiscalía Anticorrupción formula denuncia ante la Audiencia Nacional"
-    descripcion: "La Fiscalía Anticorrupción presenta denuncia contra De la Serna, Arístegui y otros seis imputados ante el juez De la Mata de la Audiencia Nacional por corrupción en transacciones internacionales, cohecho, blanqueo y organización criminal."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/politica/exclusiva-fiscal-pide-18-anos-prision-serna-aristegui-sobornar-altos-funcionarios-argelia.html"
-
-  - fecha: 2020-11-16
-    titulo: "El juez procesa a Arístegui y Gómez de la Serna"
-    descripcion: "El juez De la Mata de la Audiencia Nacional acuerda el procesamiento de los dos exdiputados por supuesta corrupción en transacciones económicas internacionales relacionadas con contratos en Argelia."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "https://www.republica.com/2020/11/16/el-juez-procesa-a-aristegui-y-gomez-de-la-serna-por-supuesta-corrupcion-de-contratos-en-argelia/"
-
-  - fecha: 2024-01-01
-    titulo: "Petición fiscal de hasta 21 años de prisión para los acusados"
-    descripcion: "Las acusaciones solicitan penas de hasta 21 años de cárcel para los exdiputados De la Serna y Arístegui por cohecho y pertenencia a organización criminal, a la espera de la fecha de juicio oral."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/politica/exdiputados-pp-serna-aristegui-enfrentan-condena-21-anos-cohecho-organizacion-criminal_1_12640156.html"
-
-  - fecha: 2025-09-01
-    titulo: "La Fiscalía presenta escrito de acusación: 18 años para De la Serna y Arístegui"
-    descripcion: "La Fiscalía Anticorrupción presenta su escrito formal de acusación solicitando 18 años de prisión para Pedro Gómez de la Serna y Gustavo de Arístegui por corrupción en transacciones internacionales, cohecho pasivo, falsedad documental y organización criminal. Se solicitan multas de 720.000 euros y el decomiso de 2,64 millones de euros de las empresas Scardovi y Karistia. El juez Santiago Pedraz abre juicio oral contra 23 acusados y 5 empresas tras 10 años de instrucción."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/politica/exclusiva-fiscal-pide-18-anos-prision-serna-aristegui-sobornar-altos-funcionarios-argelia.html"
-      - "https://www.eldiario.es/politica/exdiputados-pp-serna-aristegui-enfrentan-condena-21-anos-cohecho-organizacion-criminal_1_12640156.html"
-
-  - fecha: 2025-09-26
-    titulo: "El juez Pedraz abre juicio oral contra 23 acusados y 5 empresas"
-    descripcion: "El magistrado de la Audiencia Nacional Santiago Pedraz dicta auto de apertura de juicio oral contra los exdiputados Pedro Gómez de la Serna y Gustavo de Arístegui y otras 21 personas (entre ellas el hijo de Arístegui y directivos de Elecnor) más cinco mercantiles, tras casi diez años de instrucción. Se les imputa corrupción en las transacciones comerciales internacionales, cohecho pasivo, falsedad documental y organización criminal. La Fiscalía Anticorrupción reclama 18 años de prisión para cada exdiputado (21 años según el escrito de acusación previo) y 21 años para dos directivos de Elecnor por cohecho activo; también pide el decomiso de 2,64 millones de euros a las sociedades Scardovi y Karistia. El caso estalló en 2015 tras una denuncia del comercial José Faya."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/politica/exclusiva-fiscal-pide-18-anos-prision-serna-aristegui-sobornar-altos-funcionarios-argelia.html"
-      - "https://cadenaser.com/nacional/2025/09/26/el-juez-envia-al-banquillo-a-los-exdiputados-del-pp-aristegui-y-de-la-serna-por-la-trama-de-sobornos-para-adjudicaciones-en-argelia-cadena-ser/"
-
-  - fecha: 2025-11-25
-    titulo: "Absuelto por segunda vez el comercial que destapó el caso"
-    descripcion: "El Juzgado de lo Penal nº 16 de Madrid absuelve por segunda vez a José Faya López, el agente comercial que denunció el caso ante la Fiscalía Anticorrupción, de un delito de revelación de secretos del que le acusaba Gómez de la Serna. La sentencia concluye que la entrega de documentación a la Fiscalía no constituye delito y que Faya accedió a los documentos en el ejercicio de su actividad profesional."
-    type: "sentencia"
-    relevancia: "media"
-    urls:
-      - "https://www.publico.es/politica/absuelto-segunda-vez-comercial-denuncio-fiscal-exdiputados-pp-serna-aristegui.html"
+- fecha: '2016-01-12'
+  titulo: Apertura de la investigación judicial
+  descripcion: RTVE informa retrospectivamente en abril de que De la Mata abrió la investigación este día, después
+    de una denuncia ante Fiscalía presentada por un comercial en 2015. No se fija un día para esa denuncia por las
+    diferencias entre las fuentes.
+  urls:
+  - https://www.rtve.es/noticias/20160408/juez-imputa-a-aristegui-propone-a-serna-declarar-por-supuestas-comisiones-ilegales/1333744.shtml
+  type: investigacion
+  relevancia: alta
+- fecha: '2016-04-08'
+  titulo: Se conocen citaciones y la ampliación de la investigación
+  descripcion: RTVE publica la citación de Arístegui como investigado y la oferta de declaración voluntaria a Gómez
+    de la Serna, entonces aforado. Son citaciones futuras, no declaraciones realizadas en esta fecha. La noticia
+    identifica las operaciones de Souk Tleta y Ouargla.
+  urls:
+  - https://www.rtve.es/noticias/20160408/juez-imputa-a-aristegui-propone-a-serna-declarar-por-supuestas-comisiones-ilegales/1333744.shtml
+  type: investigacion
+  relevancia: alta
+- fecha: '2021-01-20'
+  titulo: Revocación del auto para completar diligencias
+  descripcion: 'Europa Press informa el 12 de febrero de que Pedraz, mediante auto fechado el 20 de enero, estimó
+    el recurso de Fiscalía contra el cierre prematuro de la instrucción. Ordenó continuar investigando: no fue una
+    absolución ni un sobreseimiento.'
+  urls:
+  - https://www.eldiario.es/sociedad/ultima-hora-coronavirus-actualidad-politica-12-de-febrero_6_7213637_1062718.html
+  type: recurso
+  relevancia: alta
+- fecha: '2025-09-26'
+  titulo: Se conoce la apertura del juicio oral de la pieza Elecnor
+  descripcion: Público y Cadena SER informan del auto de Pedraz contra 23 personas y cinco empresas por las operaciones
+    en Argelia. Publican una petición fiscal de 18 años para cada exdiputado; elDiario.es publica el día 29 una
+    de 21. Sin originales no se resuelve la discrepancia. Se fecha la difusión, no se presupone que el auto se dictara
+    ese día ni que se celebrara el juicio.
+  urls:
+  - https://www.publico.es/politica/exclusiva-fiscal-pide-18-anos-prision-serna-aristegui-sobornar-altos-funcionarios-argelia.html
+  - https://cadenaser.com/nacional/2025/09/26/el-juez-envia-al-banquillo-a-los-exdiputados-del-pp-aristegui-y-de-la-serna-por-la-trama-de-sobornos-para-adjudicaciones-en-argelia-cadena-ser/
+  - https://www.eldiario.es/politica/exdiputados-pp-serna-aristegui-enfrentan-condena-21-anos-cohecho-organizacion-criminal_1_12640156.html
+  type: juicio
+  relevancia: alta
+- fecha: '2025-11-24'
+  titulo: Se conoce una nueva absolución de Faya en otro procedimiento
+  descripcion: Público publica que el Juzgado de lo Penal número 16 de Madrid absuelve a José Faya de revelación
+    de secretos. La primera absolución de 2023 había sido anulada por la Audiencia de Madrid y se repitió el juicio.
+    La noticia fecha la nueva sentencia ese lunes, 24 de noviembre, e indica que era recurrible. Este resultado
+    no resuelve la pieza Elecnor.
+  urls:
+  - https://www.publico.es/politica/absuelto-segunda-vez-comercial-denuncio-fiscal-exdiputados-pp-serna-aristegui.html
+  type: sentencia
+  relevancia: alta
 ---
+
+El alcance de la pieza
+
+Voltar Lassen es el despacho de consultoría internacional creado en 2009 por Gómez de la Serna y Arístegui, según las noticias examinadas. La actividad del despacho, sus sociedades Scardovi y Karistia y las cinco empresas acusadas no son una misma persona jurídica. Esta ficha se centra en la pieza Elecnor y no ofrece un estado común para las restantes ramas de la investigación.
+
+La [información de RTVE de abril de 2016](https://www.rtve.es/noticias/20160408/juez-imputa-a-aristegui-propone-a-serna-declarar-por-supuestas-comisiones-ilegales/1333744.shtml) sitúa la apertura judicial el 12 de enero de ese año y diferencia la citación de Arístegui de la posibilidad de declaración voluntaria de Gómez de la Serna por su aforamiento. La denuncia ante Fiscalía es anterior; las noticias sitúan su presentación en 2015, pero discrepan entre septiembre y noviembre. Por ello no se fija un día para esa actuación.
+
+La [noticia de Europa Press publicada el 12 de febrero de 2021](https://www.eldiario.es/sociedad/ultima-hora-coronavirus-actualidad-politica-12-de-febrero_6_7213637_1062718.html) explica que Pedraz revocó mediante auto de 20 de enero la continuación por procedimiento abreviado acordada por De la Mata en noviembre de 2020. Quedaban diligencias por practicar. La revocación de ese cierre de instrucción no terminó la causa, como muestra la posterior apertura de juicio de la que informaron los medios en 2025.
+
+Acusaciones e importes
+
+[Público](https://www.publico.es/politica/exclusiva-fiscal-pide-18-anos-prision-serna-aristegui-sobornar-altos-funcionarios-argelia.html) y [Cadena SER](https://cadenaser.com/nacional/2025/09/26/el-juez-envia-al-banquillo-a-los-exdiputados-del-pp-aristegui-y-de-la-serna-por-la-trama-de-sobornos-para-adjudicaciones-en-argelia-cadena-ser/) publicaron la apertura de juicio el 26 de septiembre de 2025. [elDiario.es](https://www.eldiario.es/politica/exdiputados-pp-serna-aristegui-enfrentan-condena-21-anos-cohecho-organizacion-criminal_1_12640156.html) informó el día 29. La descripción recoge su discrepancia de 18 frente a 21 años para los exdiputados; no se atribuye una pena impuesta a ninguno. Las informaciones diferencian además el blanqueo atribuido a otros acusados de los delitos que describen para los dos exdiputados. No se incorpora la financiación ilegal del PP como una acusación acreditada en esta pieza.
+
+Según el relato fiscal publicado, el presunto soborno de 850.000 euros se relaciona con el tranvía. La deuda tributaria de 164.000 euros de Arístegui, la compra de una vivienda en Francia por 245.000 y transferencias por 300.000 aparecen como operaciones distintas: no todos sus receptores eran funcionarios argelinos. Se trata de alegaciones de la acusación, no de hechos declarados probados. Tampoco deben sumarse con los contratos de 230 y 250 millones, las multas solicitadas o el decomiso solicitado de 2,64 millones para presentar un daño público.
+
+José Faya y los procedimientos distintos
+
+La [información publicada el 24 de noviembre de 2025](https://www.publico.es/politica/absuelto-segunda-vez-comercial-denuncio-fiscal-exdiputados-pp-serna-aristegui.html), actualizada al día siguiente, describe la nueva absolución de Faya por revelación de secretos. Explica que no se acreditó un apoderamiento ilícito de los documentos y que su entrega a Fiscalía no constituía ese delito. La sentencia era recurrible entonces. Faltan el original, cualquier apelación posterior y la comprobación de su firmeza; la absolución no se extiende a su acusación en la pieza Elecnor, para la que Público publicó una petición de nueve años.
+
+No se han verificado originales judiciales suficientes para precisar el contenido completo del auto de apertura y de los escritos de las partes, la situación de los 23 acusados o un desenlace posterior hasta octubre de 2026. La previsión periodística de juicio para 2026 no acredita que se celebrara. No se ofrecen documentos judiciales ni una fecha de cierre sin esas comprobaciones.
