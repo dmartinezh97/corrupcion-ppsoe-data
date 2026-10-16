@@ -1,86 +1,98 @@
 ---
-nombre: "ERE/Aglomerados Morell"
+nombre: ERE / Aglomerados Morell
 partido: PSOE
-completado: true
-año: 2011
-fechaInicio: 2000-01-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El caso ERE/Aglomerados Morell es una pieza separada del macroescándalo de los Expedientes de Regulación de Empleo (ERE) fraudulentos de Andalucía, el mayor caso de corrupción política de la historia de España. La Junta de Andalucía, gobernada ininterrumpidamente por el PSOE desde 1982 hasta 2018, creó un fondo especial con el que canalizó cientos de millones de euros en ayudas irregulares a empresas, trabajadores y sindicatos afines al partido.
-
-  En el caso concreto de Aglomerados Morell, se investiga la concesión de una ayuda irregular de la Junta de Andalucía a esta empresa para costear un expediente de regulación de empleo. Al igual que en otras piezas del caso ERE, la subvención se otorgó al margen del procedimiento legalmente establecido, a través del llamado "procedimiento específico" diseñado desde la Consejería de Empleo para eludir los controles de la Intervención. El importe de la ayuda irregular asciende a 3.200.000 euros según las fuentes judiciales.
-
-  En el contexto más amplio, el Tribunal Superior de Justicia de Andalucía y posteriormente el Tribunal Supremo condenaron a 19 ex altos cargos de la Junta por el sistema fraudulento de ayudas de los ERE. El ex presidente José Antonio Griñán fue condenado a seis años de prisión y el ex presidente Manuel Chaves a nueve años de inhabilitación. Aunque el Tribunal Constitucional matizó posteriormente algunas condenas en 2023-2024, el daño institucional y económico causado por el sistema de ERE fraudulentos fue reconocido por todos los tribunales.
-resumen: "Subvención irregular de 3,2 millones de euros concedida al margen de la legalidad por la Consejería de Empleo de la Junta de Andalucía (PSOE) a la empresa Aglomerados Morell para financiar un ERE."
-coste: 3200000
-lugar: "Andalucía"
+completado: false
+año: 2008
+estado: Condena contable no firme publicada
+lugar: Villanueva del Río y Minas, Sevilla, Andalucía
+resumen: 'Ayudas a Aglomerados Morell y pólizas de rentas: investigación penal y responsabilidad contable diferenciadas.'
+descripcion: La investigación penal examinó ayudas de al menos 3.288.522,66 euros a Aglomerados Morell entre 2008 y 2010.
+  En diciembre de 2022 se informó de la continuación contra diez investigados, entre ellos Antonio Rivas y Juan Lanzas;
+  no se acredita aquí el desenlace penal posterior ni la situación individual de todos ellos a 15 de octubre de 2026.
+  En una vía distinta, la sentencia 9/2025 del Tribunal de Cuentas, de 22 de diciembre, estimó parcialmente la demanda
+  sobre Morell y Corvillette y fijó un alcance conjunto de 1.268.274,30 euros, con responsabilidades por tramos. La resolución
+  y su catálogo oficial figuran como no firmes. A Morell se le atribuyen 828.274,30 euros y a Corvillette 440.000 euros;
+  no se confunden con todo el volumen de ayudas ni con una condena penal. La copia anonimiza a las personas físicas y
+  no permite atribuir nominalmente cada pronunciamiento. No están documentados posibles recursos posteriores.
 tribunal:
-  - "Juzgado de Instrucción número 6 de Sevilla - Jueza Mercedes Alaya"
-  - "Audiencia Provincial de Sevilla"
-  - "Tribunal Supremo"
-numeroSentencia: ""
-implicados:
-  - nombre: "José Antonio Griñán Martínez"
-    cargo: "Presidente de la Junta de Andalucía (2009-2013) y Consejero de Hacienda (2004-2009)"
-    rol: "Condenado por el TSJA a 6 años de prisión y 15 de inhabilitación por malversación en el sistema de ERE fraudulentos. Pena reducida por el Tribunal Constitucional."
-  - nombre: "Manuel Chaves González"
-    cargo: "Presidente de la Junta de Andalucía (1990-2009)"
-    rol: "Condenado por el TSJA a 9 años de inhabilitación por prevaricación en el sistema de ayudas de los ERE."
-  - nombre: "Antonio Fernández García"
-    cargo: "Consejero de Empleo de la Junta de Andalucía"
-    rol: "Uno de los principales responsables del diseño e implementación del procedimiento específico de ayudas irregulares."
-  - nombre: "Francisco Javier Guerrero Benítez"
-    cargo: "Director General de Trabajo de la Junta de Andalucía"
-    rol: "Conocido como 'El Maquinista', fue el articulador principal del sistema fraudulento de ayudas a través de las pólizas de seguros."
+- Juzgado de Instrucción número 6 de Sevilla (pieza penal)
+- Tribunal de Cuentas, Departamento Segundo de Enjuiciamiento
+numeroSentencia: Sentencia contable 9/2025, de 22 de diciembre; B-137/16-00 (no sentencia penal)
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "ERE"
-  - "fraude de subvenciones"
-  - "fondos públicos"
-  - "organización criminal"
-impactoSocial: "El escándalo de los ERE fue el principal detonante de la pérdida del poder del PSOE en Andalucía después de 37 años de gobierno ininterrumpido. Las condenas a ex presidentes de la Junta supusieron un hito histórico en la lucha contra la corrupción política española. El caso ERE en su conjunto afectó a más de 100 empresas y generó decenas de piezas separadas que siguen tramitándose en los tribunales."
-documentos: null
+- ERE
+- Ayudas sociolaborales
+- Responsabilidad contable
+- Prevaricación
+- Malversación
+- Falsedad documental
+impactoSocial: El caso afecta al control de ayudas para obligaciones laborales y financieras de una empresa. La investigación
+  penal y el reintegro contable tienen sujetos, requisitos y consecuencias diferentes.
+implicados:
+- nombre: Antonio Rivas
+  cargo: Exdelegado provincial de Empleo de la Junta de Andalucía en Sevilla
+  rol: Incluido entre los diez investigados contra los que continuaba la pieza penal según la noticia de diciembre de
+    2022. No se documenta aquí acusación, juicio, condena o archivo posterior individual.
+- nombre: Juan Lanzas Fernández
+  cargo: Exdirigente de UGT e intermediario de ayudas
+  rol: Investigado en la continuación penal divulgada en diciembre de 2022 por sus presuntas gestiones para obtener ayudas.
+    No se le atribuye nominalmente ningún fallo contable anonimizado.
+- nombre: Jorge Andrés M.V.
+  cargo: Administrador mancomunado de Aglomerados Morell, según la información de 2022
+  rol: Investigado en la pieza penal divulgada en 2022. Se conserva la identificación publicada; no se equipara a iniciales
+    repetidas de la sentencia contable.
+- nombre: Luis M.M.
+  cargo: Administrador mancomunado de Aglomerados Morell, según la información de 2022
+  rol: Investigado en la pieza penal divulgada en 2022; desenlace individual posterior no documentado.
+- nombre: Aglomerados Morell, S.A.
+  cargo: Empresa receptora de ayudas y tomadora de la póliza de rentas
+  rol: Responsable contable directa y solidaria en la sentencia 9/2025 por 388.274,30 euros relativos a la póliza y 440.000
+    euros de ayuda directa. Pronunciamiento publicado como no firme; no condena penal.
+- nombre: Corvillette, S.L.
+  cargo: Empresa receptora de una ayuda directa incluida en el proceso contable
+  rol: Responsable contable directa y solidaria en la sentencia 9/2025 por 440.000 euros, repartidos en pagos de 330.000
+    y 110.000. Pronunciamiento publicado como no firme.
+documentos:
+- fecha: '2025-12-22'
+  titulo: 'Sentencia 9/2025 del Tribunal de Cuentas: Morell y Corvillette (publicada como no firme)'
+  filetype: PDF
+  paginas: 48
+  nombre_fichero: https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2025/Sentencia_9_2025-2E.pdf
 cronologia:
-  - fecha: 2000-01-01
-    titulo: "Diseño del procedimiento específico de ayudas irregulares"
-    descripcion: "La Consejería de Empleo de la Junta de Andalucía diseña el llamado 'procedimiento específico' para canalizar ayudas a empresas en crisis al margen de los controles de la Intervención. Este sistema es el que se utiliza para conceder la ayuda irregular a Aglomerados Morell."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_ERE_en_Andaluc%C3%ADa"
-
-  - fecha: 2011-01-01
-    titulo: "La jueza Alaya abre investigación por la pieza de Aglomerados Morell"
-    descripcion: "La jueza Mercedes Alaya, instructora del caso ERE, amplía la investigación a la pieza específica de Aglomerados Morell, investigando la concesión de 3,2 millones de euros en ayudas irregulares a esta empresa."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://okdiario.com/andalucia/procesados-ex-alto-cargo-del-psoe-lider-ugt-cunado-otra-ayuda-ilegal-ere-10094130"
-
-  - fecha: 2019-11-19
-    titulo: "Condena histórica a 19 ex altos cargos de la Junta"
-    descripcion: "La Audiencia Provincial de Sevilla condena a 19 ex funcionarios y cargos de la Junta de Andalucía, incluidos los ex presidentes Griñán y Chaves, por el sistema fraudulento de ERE. Es la sentencia de mayor alcance político de la historia de España."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/politica/fraude-ere-caso-liquido-hegemonia-psoe-andalucia-seis-claves.html"
-
-  - fecha: 2021-01-01
-    titulo: "El Tribunal Supremo ratifica las condenas"
-    descripcion: "El Tribunal Supremo confirma las condenas impuestas por la Audiencia Provincial de Sevilla, incluida la de Griñán a seis años de prisión y la de Chaves a inhabilitación."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://ppandalucia.es/caso-ere-16-anos-del-mayor-escandalo-de-corrupcion-politica-en-espana/"
-
-  - fecha: 2023-07-01
-    titulo: "El Tribunal Constitucional matiza las condenas"
-    descripcion: "El Tribunal Constitucional estima parcialmente los recursos de amparo y modifica algunas de las condenas, reduciendo la pena de prisión de Griñán. La decisión genera controversia al interpretarse como un aval al sistema de ayudas empleado."
-    type: "recurso"
-    relevancia: "alta"
-    urls:
-      - "https://www.elsaltodiario.com/tribunal-constitucional/caso-ere-desbanco-al-psoe-andalucia-se-deshincha-tribunal-constitucional"
+- fecha: '2008-10-27'
+  titulo: Convenio de ayuda directa a Morell
+  descripcion: La sentencia contable recoge un convenio de Trabajo con IDEA por 440.000 euros para Aglomerados Morell,
+    posteriormente pagados el 4 de noviembre. Este importe se distingue de las primas de la póliza y de la ayuda a Corvillette.
+  urls:
+  - https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2025/Sentencia_9_2025-2E.pdf
+  type: judicial
+  relevancia: alta
+- fecha: '2022-12-02'
+  titulo: Se conoce la continuación penal contra diez investigados
+  descripcion: Diario de Sevilla informa del auto que cierra la instrucción y aprecia indicios provisionales de prevaricación,
+    malversación y falsedad documental. Cita a Rivas, Lanzas y dos administradores, entre diez investigados. La fecha
+    es la publicación; no se fija el día del auto sin su original ni se afirma apertura de juicio.
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Vilaplana-ERE-Lanzas-Aglomerados-Morell_0_1744026819.html
+  type: judicial
+  relevancia: alta
+- fecha: '2025-12-22'
+  titulo: Sentencia contable con estimación parcial
+  descripcion: 'El Tribunal de Cuentas fija el alcance conjunto en 1.268.274,30 euros: 388.274,30 por la parte de las
+    primas imputable a beneficiarios cuestionados y 880.000 por ayudas directas a Morell y Corvillette. Ordena reintegros
+    por tramos, intereses y costas según cada parte; desestima la demanda respecto de dos personas anonimizadas. La resolución
+    publicada figura como no firme.'
+  urls:
+  - https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2025/Sentencia_9_2025-2E.pdf
+  type: judicial
+  relevancia: alta
 ---
+
+La pieza penal se refiere a ayudas sociolaborales y excepcionales pagadas entre 2008 y 2010, por al menos 3.288.522,66 euros, para compromisos laborales y financieros de Aglomerados Morell. La información de diciembre de 2022 no describe un ERE autorizado para todos los despidos: recoge expresamente la ausencia de un ERE que los cubriera. Se trata de indicios de instrucción, no de hechos declarados probados por sentencia penal.
+
+El proceso contable B-137/16-00 tiene un alcance distinto. Su sentencia 9/2025 fija 1.268.274,30 euros de menoscabo para el conjunto de operaciones de Morell y Corvillette. La responsabilidad de Morell comprende 388.274,30 euros por la parte de la póliza imputable a beneficiarios cuestionados y 440.000 euros por una ayuda directa. La de Corvillette corresponde a otra ayuda de 440.000 euros. La solidaridad no multiplica el daño: el mismo tramo no se suma una vez por cada responsable.
+
+La sentencia impone responsabilidad a varias personas físicas anonimizadas, incluidas herederas con el límite legal aplicable, y desestima la demanda contra otras dos por falta de legitimación pasiva contable. No se asignan esas iniciales a nombres de la causa penal ni se confunde la desestimación contable con una absolución penal. El fallo admite apelación y la publicación oficial indica que no es firme; no se dispone de resoluciones posteriores sobre recursos.
+
+No se ha acreditado el desenlace penal individual posterior a 2022 ni la lista nominal completa de las diez personas investigadas. Las decisiones sobre la pieza política de los ERE, las condenas de otros expedientes y los amparos de otros encausados no se trasladan automáticamente a Morell.
+
+Fuentes: [continuación penal, Diario de Sevilla](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Vilaplana-ERE-Lanzas-Aglomerados-Morell_0_1744026819.html), [sentencia contable original](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2025/Sentencia_9_2025-2E.pdf), [catálogo oficial del Tribunal de Cuentas](https://www.tcu.es/es/enjuiciamiento/actividad-enjuiciadora/autos-y-sentencias/resultados/?page=3) y [reseña de EFE publicada en febrero de 2026](https://www.larazon.es/andalucia/tribunal-cuentas-condena-exaltos-cargos-junta-ayudas-12-millones_2026022869a294eb2f00a046882cee6f.html?outputType=amp).
