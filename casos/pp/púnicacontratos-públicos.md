@@ -1,91 +1,153 @@
 ---
-nombre: "Púnica/Contratos Públicos"
+nombre: Púnica / Contratos públicos
 partido: PP
-completado: true
+completado: false
 año: 2014
-fechaInicio: 2004-01-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  La pieza de contratos públicos de la Operación Púnica investiga el mecanismo central de la trama: el amaño sistemático de licitaciones y concursos públicos en municipios y organismos autonómicos controlados por el PP. La trama, con Francisco Granados como eje político y David Marjaliza como brazo empresarial, operó durante una década adjudicando servicios de festejos, eventos, eficiencia energética, comunicación y reputación digital a empresas afines.
-
-  El esquema funcionaba a través de la influencia política de Granados —que fue secretario general del PP de Madrid entre 2004 y 2011 y consejero de diversas carteras en la Comunidad— para garantizar que los municipios gobernados por el PP contrataran las empresas de su red. A cambio, los empresarios favorecidos pagaban comisiones, financiaban actos electorales del PP y entregaban regalos a los cargos públicos.
-
-  La trama se articulaba en varias ramas: la de eficiencia energética con Cofely, la de festejos con Waiter Music, la de reputación digital con Eico y Madiva, y la de contratos generales con diversas empresas instrumentales. En total, en solo dos años (2012-2014), la red obtuvo adjudicaciones públicas valoradas en más de 250 millones de euros. Los casos de contratos de fiestas municipales y eventos autonómicos tienen un juicio independiente en el que Granados volvió al banquillo en enero de 2026. La Audiencia Nacional ha ido dictando sentencias: en diciembre de 2025 condenó a 29 acusados en la pieza de Cofely y en julio de 2026 a Granados a dos años y medio en la pieza de Waiter Music, además de abrir juicio oral por las adjudicaciones de Arpegio y Mintra.
-resumen: "Amaño sistemático de contratos públicos en municipios del PP de Madrid durante más de una década, con adjudicaciones fraudulentas superiores a 250 millones de euros."
-coste: 250000000
-lugar: "Comunidad de Madrid y otras comunidades autónomas"
+fechaFin: ''
+estado: resoluciones diversas
+descripcion: Esta ficha reúne las piezas 5 (contratación municipal), 6 (Cofely, eficiencia energética) y 7 (Waiter
+  Music, festejos) de Púnica, con resultados distintos por persona. En Cofely, la sentencia de 19 de diciembre de
+  2025 condenó a 29 de las 37 personas físicas y jurídicas juzgadas y absolvió, entre otros, a José Carlos Boza
+  y José García Lobato. La pena inicial de David Marjaliza fue rectificada en 2026 a cinco años y un mes según Europa
+  Press; falta el auto original. En Waiter Music, la sentencia de 1 de julio de 2026, difundida el día 2, condenó
+  a Francisco Granados a dos años y seis meses de prisión y absolvió a Esteban Parro y Daniel Ortiz, entre otros.
+  Granados había sido excluido de la propuesta de enjuiciamiento de la pieza 5 en 2023. Los 250 millones de euros
+  atribuidos globalmente a adjudicaciones no equivalen a daño público y no se computan como coste. No se han contrastado
+  todos los acusados, archivos y recursos de la pieza 5 ni la evolución y firmeza individual de las sentencias de
+  Cofely y Waiter hasta el 15 de octubre de 2026; ambas resoluciones indicaban que eran recurribles.
+resumen: Contratación municipal, eficiencia energética y festejos investigados en piezas distintas de Púnica; condenas,
+  absoluciones y exclusiones con alcance individual y recursos pendientes de contraste completo.
+lugar: Comunidad de Madrid; contratos de Cofely también en Almendralejo
 tribunal:
-  - "Audiencia Nacional - Sala de lo Penal - Juzgado Central de Instrucción nº 6 - Juez Eloy Velasco - Fiscalía Anticorrupción"
-numeroSentencia: ""
+- Audiencia Nacional — Juzgado Central de Instrucción n.º 6
+- Audiencia Nacional — Sala de lo Penal, Secciones Primera y Cuarta
 implicados:
-  - nombre: "Francisco Granados Lerena"
-    cargo: "Exconsejero de Presidencia, Justicia e Interior y exsecretario general del PP de Madrid"
-    rol: "Principal acusado como eje político que canalizaba la adjudicación de contratos. En juicio desde enero de 2026 por la pieza de festejos y contratos de eventos"
-  - nombre: "David Marjaliza López"
-    cargo: "Empresario, cabecilla empresarial de la trama"
-    rol: "Condenado por organización criminal y blanqueo en la pieza Cofely; pena rebajada a 5 años en 2026"
-  - nombre: "Ignacio González Velayos"
-    cargo: "Expresidente de la Comunidad de Madrid"
-    rol: "Investigado por el uso de fondos del Canal de Isabel II para pagar servicios de reputación online a través de la trama Púnica"
+- nombre: Francisco Granados
+  cargo: Exconsejero de Presidencia, Justicia e Interior y exsecretario general del PP de Madrid
+  rol: Condenado en Waiter Music a dos años y seis meses de prisión; resolución recurrible. Excluido en 2023 de
+    la propuesta de enjuiciamiento de la pieza 5. No se le atribuye la condena de Cofely.
+- nombre: David Marjaliza
+  cargo: Empresario y asesor comercial de Cofely
+  rol: Condenado en Cofely; pena inicial de ocho años y dos meses rectificada a cinco años y un mes según la cobertura
+    de febrero de 2026. También incluido en la propuesta de enjuiciamiento de la pieza 5; situación posterior de
+    esta última no contrastada aquí.
+- nombre: José Carlos Boza
+  cargo: Exalcalde de Valdemoro (PP)
+  rol: Absuelto en Cofely; condenado a cuatro años de prisión en Waiter Music. Resultados correspondientes a procedimientos
+    distintos, sin firmeza posterior verificada.
+- nombre: José Miguel Moreno
+  cargo: Exalcalde de Valdemoro (PP)
+  rol: Condenado a dos años de prisión en Waiter Music; firmeza posterior no verificada.
+- nombre: Daniel Ortiz Espejo
+  cargo: Exalcalde de Móstoles (PP)
+  rol: Condenado en Cofely a tres años de prisión por cohecho y multa por revelación de información reservada; absuelto
+    en Waiter Music. Sin firmeza posterior verificada.
+- nombre: Esteban Parro
+  cargo: Exalcalde de Móstoles (PP)
+  rol: Absuelto en la pieza Waiter Music; firmeza posterior no verificada.
+- nombre: José García Lobato
+  cargo: Exalcalde de Almendralejo (PP)
+  rol: Absuelto en la pieza Cofely; firmeza posterior no verificada.
+- nombre: Carlos Alberto Estrada
+  cargo: Exalcalde de Moraleja de Enmedio (PP)
+  rol: Condenado a cuatro años y seis meses de prisión en Cofely y a dos años en Waiter Music. No se suman como
+    una pena única; firmeza posterior no verificada.
+- nombre: Agustín Juárez
+  cargo: Exalcalde de Collado Villalba (PP)
+  rol: Condenado a cuatro años y seis meses de prisión en Cofely; firmeza posterior no verificada.
+- nombre: Gonzalo Cubas
+  cargo: Exalcalde de Torrejón de Velasco (PP)
+  rol: Condenado en Cofely a tres años de inhabilitación por prevaricación, no a prisión; firmeza posterior no verificada.
+- nombre: José María Fraile
+  cargo: Exalcalde de Parla (PSOE)
+  rol: Condenado en Cofely a dos años de prisión por fraude, prevaricación y cohecho en concurso, y cuatro meses
+    y quince días por tráfico de influencias; firmeza posterior no verificada.
+- nombre: Antonio Sánchez Fernández
+  cargo: Exalcalde de Serranillos del Valle, de una formación independiente
+  rol: Condenado en Cofely por fraude, prevaricación, cohecho y tráfico de influencias; firmeza posterior no verificada.
+- nombre: María Ángeles Herrera
+  cargo: Exalcaldesa de Ciempozuelos (PP)
+  rol: Condenada a dos años de prisión en Waiter Music; firmeza posterior no verificada.
+- nombre: Cofely España, S. A.
+  cargo: Empresa de servicios de eficiencia energética
+  rol: Persona jurídica condenada por cohecho y tráfico de influencias y absuelta de blanqueo. Las multas y la indemnización
+    tienen conceptos propios y no son el volumen de contratos.
 tags:
-  - "contratos públicos"
-  - "corrupción"
-  - "cohecho"
-  - "prevaricación"
-  - "organización criminal"
-  - "financiación ilegal"
-impactoSocial: "La revelación del amaño sistemático de contratos públicos en la Comunidad de Madrid supuso un golpe devastador para el PP regional, que había gobernado la comunidad durante décadas. El caso evidenció la existencia de una corrupción estructural en la contratación municipal y autonómica. Varias investigaciones paralelas aún siguen abiertas más de una década después del estallido del caso, con un nuevo juicio arrancado en enero de 2026."
-documentos: null
+- Operación Púnica
+- contratación pública
+- Cofely
+- Waiter Music
+impactoSocial: Los procedimientos afectan al control de licitaciones municipales y a la eficacia de los mecanismos
+  de prevención de sobornos. Las absoluciones y los resultados diferentes para una misma persona obligan a distinguir
+  cada contrato y pieza, sin atribuir culpabilidad por la mera investigación.
+documentos:
+- fecha: '2025-12-19'
+  titulo: Sentencia 34/2025, pieza Cofely — versión CENDOJ anonimizada
+  filetype: pdf
+  paginas: 312
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=56f33d2896e5f7f4a0a8778d75e36f0d&encode=true&databasematch=AN
+- fecha: '2026-07-01'
+  titulo: Sentencia 15/2026, pieza Waiter Music — versión CENDOJ anonimizada
+  filetype: pdf
+  paginas: 126
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=972b9488259a4566a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: 2004-01-01
-    titulo: "Inicio de la red de contratos fraudulentos"
-    descripcion: "Francisco Granados, como secretario general del PP de Madrid, comienza a tejer la red de influencias que garantiza contratos públicos a empresas afines en municipios gobernados por el partido."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://es.wikipedia.org/wiki/Operaci%C3%B3n_P%C3%BAnica"
-
-  - fecha: 2014-10-27
-    titulo: "Operación Púnica: 51 detenidos y más de 100 empresas investigadas"
-    descripcion: "La UCO de la Guardia Civil despliega la Operación Púnica, con 51 detenidos y más de 100 empresas investigadas. Se intervienen cuentas bancarias y se incauta documentación que revela el alcance del amaño de contratos públicos."
-    type: "detención"
-    relevancia: "alta"
-    urls:
-      - "https://ileon.eldiario.es/actualidad/lista-completa-imputados-empresas-investigadas-trama-corrupta_1_9411387.html"
-
-  - fecha: 2024-04-03
-    titulo: "Granados al banquillo por la caja B del PP de Madrid"
-    descripcion: "La Audiencia Nacional sienta a Francisco Granados en el banquillo por la pieza de la caja B del PP de Madrid, vinculada a la financiación ilegal del partido a través de los contratos amañados."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.ultimahora.es/noticias/nacional/2024/04/03/2136945/audiencia-nacional-sienta-banquillo-mano-derecha-esperanza-aguirre-por-caja-del-madrid.html"
-
-  - fecha: 2025-12-22
-    titulo: "Sentencia de la pieza Cofely: 29 condenados"
-    descripcion: "La Audiencia Nacional condena a 29 de las 37 personas y empresas juzgadas por los contratos de eficiencia energética adjudicados a Cofely. David Marjaliza recibe la mayor condena (8 años y 2 meses, rebajados después a 5), junto a directivos de la multinacional y varios exalcaldes de la Comunidad de Madrid. La empresa Cofely es condenada a más de 3,5 millones de multa."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://cadenaser.com/nacional/2025/12/22/la-audiencia-nacional-condena-a-cinco-exalcaldes-del-pp-de-la-comunidad-de-madrid-y-uno-del-psoe-por-el-caso-punica-cadena-ser/"
-      - "https://www.soydemadrid.com/noticia-comunidad-de-madrid/condenados-seis-exalcaldes-por-el-caso-punica-141556.aspx"
-
-  - fecha: 2026-01-19
-    titulo: "Nuevo juicio a Granados por la pieza de festejos municipales"
-    descripcion: "Arranca el segundo juicio a Granados por la rama de la Púnica que amañaba contratos de festejos y eventos en municipios madrileños del PP. El fiscal solicita seis años de prisión por fraude y prevaricación continuados, mientras otras acusaciones piden hasta 38 años."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.infobae.com/espana/agencias/2026/01/19/arranca-un-nuevo-juicio-de-punica-con-granados-en-el-banquillo-por-presunta-corrupcion/"
-      - "https://www.publico.es/politica/tribunales/segundo-juicio-granados-rama-punica-amanaba-contratos-fiestas-municipios-madrilenos-pp.html"
-
-  - fecha: 2026-07-02
-    titulo: "Granados, condenado a 2 años y medio por los contratos de festejos"
-    descripcion: "La Audiencia Nacional condena a Francisco Granados a 2 años y 6 meses de cárcel por fraude continuado y 8 años y 6 meses de inhabilitación por prevaricación en la pieza Waiter Music, por favorecer la adjudicación de contratos de fiestas populares entre 2007 y 2014. También resultan condenados los exalcaldes de Valdemoro José Carlos Boza (4 años) y José Miguel Moreno (2 años), y son absueltos los de Móstoles Esteban Parro y Daniel Ortiz."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://elpais.com/espana/2026-07-02/la-audiencia-condena-a-francisco-granados-a-dos-anos-y-medio-de-carcel-en-su-primer-gran-juicio-de-punica-por-corrupcion.html"
-      - "https://www.rtve.es/noticias/20260702/audiencia-nacional-condena-francisco-granados-dos-anos-medio-carcel-juicio-punica/17141327.shtml"
+- fecha: '2023-04-12'
+  titulo: Se conoce la propuesta de juzgar a 21 personas en la pieza 5
+  descripcion: El CGPJ comunica el pase a procedimiento abreviado por contratos de Valdemoro, Torrejón de Velasco
+    y Serranillos del Valle. También informa de dos archivos completos y siete parciales; no es todavía sentencia
+    ni apertura de juicio oral.
+  urls:
+  - https://www.poderjudicial.es/portal/site/cgpj/menuitem.65d2c4456b6ddb628e635fc1dc432ea0/?lang_choosen=es&perfil=2&vgnextchannel=4c71939ae5821310VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=es&vgnextoid=a72c709981677810VgnVCM1000004648ac0aRCRD
+  type: imputacion
+  relevancia: alta
+- fecha: '2023-06-16'
+  titulo: Se conoce la exclusión de Granados de la pieza 5
+  descripcion: The Objective informa de que la Sección Cuarta estima su recurso y revoca su inclusión en el pase
+    a procedimiento abreviado, con apoyo de la Fiscalía. Fecha de difusión; no se fija el día del auto ni se extiende
+    el resultado a otras piezas.
+  urls:
+  - https://theobjective.com/espana/madrid/2023-06-16/audiencia-recurso-granados-juicio-punica/
+  type: recurso
+  relevancia: alta
+- fecha: '2025-12-19'
+  titulo: 'Sentencia de Cofely: condenas y absoluciones'
+  descripcion: La sentencia 34/2025 de la Sección Primera corresponde a la pieza 6. El CGPJ la difunde el 22 de
+    diciembre. Condena a 29 de 37 personas físicas y jurídicas y absuelve, entre otros, a los exalcaldes de Valdemoro
+    y Almendralejo. El fallo declara que cabe casación.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=56f33d2896e5f7f4a0a8778d75e36f0d&encode=true&databasematch=AN
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-condena-a-penas-de-hasta-8-anos-carcel-por-la-adjudicacion-de-contratos-de-eficiencia-energetica-en-ayuntamientos-de-la-Comunidad-de-Madrid
+  type: sentencia
+  relevancia: alta
+- fecha: '2026-02-27'
+  titulo: Se conoce la rectificación de la pena de Marjaliza
+  descripcion: Europa Press informa de la reducción de ocho años y dos meses a cinco años y un mes en Cofely. No
+    se dispone del auto original ni se afirma su fecha exacta. No es una resolución de la pieza 5.
+  urls:
+  - https://www.teleprensa.com/nacional-3/an-rebaja-tres-anos-carcel-marjaliza-adjudicaciones-contratos-energeticos-ayuntamientos-madrilenos/202602271127352354077.html
+  type: recurso
+  relevancia: alta
+- fecha: '2026-07-01'
+  titulo: Sentencia de Waiter Music
+  descripcion: La sentencia 15/2026, difundida por el CGPJ el 2 de julio, condena a Granados por fraude continuado
+    y prevaricación y acuerda condenas y absoluciones individuales. Boza recibe cuatro años, Moreno dos; Parro y
+    Ortiz son absueltos. La resolución dice que no es firme y admite casación.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=972b9488259a4566a0a8778d75e36f0d&encode=true&databasematch=AN
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-condena-a-dos-anos-y-seis-meses-de-carcel-al-exconsejero-de-la-Presidencia-de-la-Comunidad-de-Madrid-Francisco-Granados-por-delitos-de-fraude-continuado-y-prevaricacion
+  type: sentencia
+  relevancia: alta
 ---
+
+La contratación pública de Púnica no constituye un único expediente con una sola lista de acusados o una condena común. Esta ficha se limita a las piezas 5, 6 y 7. Las investigaciones sobre suelo de Arpegio y Mintra, financiación electoral y reputación en internet tienen objetos propios; las decisiones allí adoptadas no se trasladan a estos contratos. Se retira por ello la presentación de Ignacio González como investigado actual de esta agrupación.
+
+La pieza 5 comprende, entre otros, estacionamiento regulado, grúa, cafeterías, aparcamientos, instalaciones deportivas y recogida de ropa usada. La propuesta de enjuiciamiento de abril de 2023 describió indicios de trato privilegiado a empresas relacionadas con Marjaliza, así como archivos completos y parciales. La inclusión inicial de Granados fue revocada en apelación, según la información publicada en junio. Esa exclusión no supone absolver al resto ni cerrar toda la pieza. Faltan los originales y el seguimiento completo de acusaciones y recursos posteriores.
+
+En Cofely, el tribunal declaró acreditada una organización para obtener contratos energéticos mediante sobornos y participación en la configuración de las licitaciones. Condenó también a responsables de la compañía y a otros particulares y empleados públicos, además de las personas destacadas en esta ficha. El fallo contiene absoluciones totales y por delitos concretos que impiden atribuir a cada acusado todos los delitos investigados. La lista de implicados presentada aquí no sustituye el fallo completo.
+
+La sentencia de Cofely impuso a la empresa tres años y seis meses de multa a razón de 2.500 euros diarios por cohecho, y seis meses de multa con la misma cuota por tráfico de influencias en Parla; la absolvió de blanqueo. Dispuso además una indemnización de 73.429,95 euros al Ayuntamiento de Parla y distintos decomisos. Cada concepto tiene su alcance: no se suma el valor de los contratos con multas, indemnizaciones o decomisos como si fueran una única pérdida pública. Tampoco se usa como daño la cifra global de 250 millones de la descripción anterior.
+
+La rectificación de Marjaliza está respaldada aquí por prensa que dice haber accedido al auto. Europa Press y El País informan de cinco años y un mes, mientras Cadena SER redondea a cinco años. Falta la resolución original para verificar íntegramente sus pronunciamientos y los recursos posteriores; no se deduce de la rectificación una suspensión de prisión o una firmeza que no se han comprobado.
+
+En Waiter Music, el original anonimizado consta de 126 páginas y está fechado el 1 de julio de 2026, aunque la nota judicial se publicó el día 2. Su parte dispositiva contiene una repetición de seudónimos que no debe usarse para sumar penas de una misma persona. Se toman las correspondencias nominales expresamente comunicadas por el CGPJ: Granados, Boza, Moreno, Herrera y Estrada son condenados; Parro y Ortiz son absueltos. La sentencia no hace pronunciamiento de responsabilidad civil y declara su carácter recurrible. No se da por probada su firmeza posterior ni el resultado de eventuales recursos.
