@@ -67,7 +67,7 @@ cronologia:
   titulo: Se conoce el sobreseimiento
   descripcion: TV Digital Ontinyent publica el archivo para Puchades, Moscardó y Sala y para un empleado sin identificar.
     La publicación no precisa fecha del auto, tipo de sobreseimiento ni firmeza.
-  type: sentencia
+  type: archivo
   urls:
   - https://tvdigitalontinyent.com/vall-dalbaida/beniganim/arxiven-la-causa-contra-lexalcalde-de-beniganim-i-dos-exedils-del-pp-per-la-despesa-en-telefons-mobils/
 ---
