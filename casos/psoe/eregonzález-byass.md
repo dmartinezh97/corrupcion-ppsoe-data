@@ -1,95 +1,121 @@
 ---
-nombre: "ERE/González Byass"
+nombre: ERE / González Byass
 partido: PSOE
-completado: true
-año: 2011
-fechaInicio: 2008-04-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El caso ERE/González Byass es una de las piezas más llamativas del macroescándalo de los Expedientes de Regulación de Empleo fraudulentos de Andalucía. La Junta de Andalucía, gobernada por el PSOE, concedió 19,7 millones de euros a la bodega jerezana González Byass para atenuar las consecuencias del despido de los trabajadores prejubilados afectados por un ERE que la empresa presentó en abril de 2008.
-
-  La Intervención General de la Administración del Estado (IGAE) concluyó que la subvención careció "total y absolutamente" del procedimiento legalmente establecido: González Byass no solicitó la subvención, no consta resolución motivada de concesión por parte de la Consejería de Empleo ni tampoco el cumplimiento de los requisitos exigidos a los beneficiarios. La ayuda se canalizó a través del llamado "procedimiento específico" diseñado para eludir los controles ordinarios.
-
-  Este caso alcanzó especial notoriedad por la supuesta inclusión del entonces consejero de Empleo Antonio Fernández García en el propio ERE de González Byass desde el día de su nacimiento, lo que habría supuesto una flagrante irregularidad. Sin embargo, las investigaciones posteriores determinaron que Fernández García apareció como beneficiario asegurado en la póliza pero que nunca firmó el formulario de adhesión y que, en consecuencia, la póliza no le generó ningún derecho ni se le abonó cantidad alguna. La Audiencia retiró finalmente ese cargo concreto contra él.
-
-  El caso se inscribe en el mayor escándalo de corrupción política de la historia de España, con al menos 679 millones de euros desviados de fondos públicos andaluces.
-resumen: "Subvención de 19,7 millones de euros sin procedimiento legal concedida por la Junta de Andalucía (PSOE) a la bodega González Byass de Jerez para su ERE, con presunta vinculación del consejero de Empleo Antonio Fernández."
-coste: 19700000
-lugar: "Jerez de la Frontera, Andalucía"
-tribunal:
-  - "Juzgado de Instrucción número 6 de Sevilla - Jueza Mercedes Alaya"
-  - "Audiencia Provincial de Sevilla"
-  - "Tribunal Supremo"
-numeroSentencia: ""
+completado: false
+año: 2008
+estado: Demanda contable desestimada; resultado penal parcial
+lugar: Jerez de la Frontera, Cádiz, Andalucía
+resumen: Ayudas a González Byass y su asociación de extrabajadores, con exclusiones penales individuales y desestimación
+  de una demanda contable.
+descripcion: 'La pieza penal examinó ayudas de al menos 19.757.235,14 euros a González Byass y su asociación de extrabajadores
+  entre 2008 y 2010. La Audiencia excluyó a Antonio Fernández en mayo de 2020: no había firmado la adhesión ni cobrado
+  rentas de la póliza. En julio de 2022 se conoció la continuación contra seis investigados, incluido Daniel Alberto
+  Rivera, cuyo desenlace posterior no se acredita a 15 de octubre de 2026. Por separado, la sentencia 9/2024 del Tribunal
+  de Cuentas, de 20 de diciembre, desestimó íntegramente una demanda de 709.450 euros por dos pagos, al no apreciar daño
+  en esas operaciones; la publicación figura como no firme. No se dispone de recursos posteriores ni de todas las resoluciones
+  penales individuales. El volumen de ayudas no se presenta como perjuicio, y la decisión contable no equivale al archivo
+  de toda la causa penal.'
 implicados:
-  - nombre: "Antonio Fernández García"
-    cargo: "Consejero de Empleo de la Junta de Andalucía"
-    rol: "Inicialmente acusado de aparecer como beneficiario del ERE de González Byass desde su nacimiento. La Audiencia retiró este cargo al acreditar que nunca cobró cantidad alguna."
-  - nombre: "Francisco Javier Guerrero Benítez"
-    cargo: "Director General de Trabajo e Inmigración de la Junta de Andalucía"
-    rol: "Articulador del procedimiento específico de ayudas irregulares empleado en la concesión a González Byass."
-  - nombre: "José Antonio Griñán Martínez"
-    cargo: "Consejero de Hacienda (2004-2009) y Presidente de la Junta (2009-2013)"
-    rol: "Condenado en el caso ERE global por malversación. Pena de prisión reducida por el Tribunal Constitucional en 2024."
-  - nombre: "Manuel Chaves González"
-    cargo: "Presidente de la Junta de Andalucía (1990-2009)"
-    rol: "Condenado a 9 años de inhabilitación por prevaricación en el sistema de ayudas ERE."
+- nombre: Antonio Fernández García
+  cargo: Exconsejero de Empleo de la Junta de Andalucía y antiguo trabajador de González Byass
+  rol: 'Excluido de esta pieza por auto de la Audiencia de 7 de mayo de 2020, según la prensa: no firmó adhesión ni cobró
+    rentas. La sentencia contable 9/2024 también desestimó la pretensión contra él; no se extrapola a otros procedimientos.'
+- nombre: Daniel Alberto Rivera
+  cargo: Exdirector general de Trabajo y Seguridad Social de la Junta de Andalucía
+  rol: Entre los seis investigados contra los que se acordó continuar como procedimiento abreviado, según la información
+    de julio de 2022. No se acredita juicio o resultado posterior individual.
+- nombre: Agustín Barberá
+  cargo: Exviceconsejero de Empleo de la Junta de Andalucía
+  rol: La reseña del auto de 2022 explica que no se continuaba contra él por haber sido encausado en el procedimiento
+    específico de los ERE. Es una exclusión de esta pieza que no se confunde con absolución general.
+- nombre: Juan Márquez
+  cargo: Exdirector general de Trabajo y Seguridad Social de la Junta de Andalucía
+  rol: La reseña de 2022 explica su exclusión por el enjuiciamiento del procedimiento específico, con ámbito distinto
+    al de Rivera. No se atribuyen penas de otras piezas.
+- nombre: Francisco Javier Guerrero Benítez
+  cargo: Exdirector general de Trabajo y Seguridad Social de la Junta de Andalucía
+  rol: La reseña de 2022 lo menciona como ya fallecido y excluido por el procedimiento específico. La responsabilidad
+    contable debatida respecto de sus sucesoras se distingue de la penal.
+- nombre: González Byass, S.A.
+  cargo: Empresa bodeguera afectada por el ERE de 2008
+  rol: Mencionada como partícipe a título lucrativo en el procedimiento abreviado reseñado en 2022. La demanda contable
+    contra la sociedad fue desestimada en 2024; no se equiparan ambas vías.
+- nombre: Asociación de Antiguos Trabajadores 11 de Abril de 2008
+  cargo: Asociación de extrabajadores y tomadora de la póliza
+  rol: Mencionada en 2022 como posible responsable civil subsidiaria, junto con Uniter, Cureña y organizaciones de CCOO.
+    Cuatro representantes figuraban entre los investigados; faltan sus resultados individuales.
+tribunal:
+- Juzgado de Instrucción número 6 de Sevilla
+- Audiencia Provincial de Sevilla, Sección Séptima (recursos individuales)
+- Tribunal de Cuentas, Departamento Segundo de Enjuiciamiento
+numeroSentencia: Sentencia contable 9/2024, de 20 de diciembre; B-137/16-5 (publicada como no firme)
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "ERE"
-  - "fraude de subvenciones"
-  - "sector vitivinícola"
-impactoSocial: "El caso González Byass se convirtió en uno de los más mediáticos del escándalo ERE por la supuesta vinculación del propio consejero de Empleo con los beneficiarios de las ayudas. Aunque ese cargo específico no se sostuvo, el caso ilustra la opacidad y la arbitrariedad con que se gestionaron cientos de millones de euros de fondos públicos en la Andalucía gobernada por el PSOE. La Junta dejó de pagar los ERE de González Byass al aflorar el escándalo."
-documentos: null
+- ERE
+- Ayudas sociolaborales
+- Responsabilidad contable
+impactoSocial: El caso afecta a la financiación de rentas de prejubilación. La ausencia de cobros del exconsejero y el
+  resultado de la demanda contable deben reflejarse para no perpetuar acusaciones descartadas ni atribuir irregularidades
+  a todos los extrabajadores.
+documentos:
+- fecha: '2024-12-20'
+  titulo: 'Sentencia contable 9/2024: desestimación íntegra de la demanda; publicación no firme'
+  filetype: PDF
+  paginas: 35
+  nombre_fichero: https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2024/Sentencia_9_2024.pdf
 cronologia:
-  - fecha: 2008-04-01
-    titulo: "González Byass presenta un ERE para sus trabajadores"
-    descripcion: "La bodega jerezana González Byass presenta un Expediente de Regulación de Empleo para prejubilar a parte de su plantilla. La Consejería de Empleo de la Junta comienza a tramitar la concesión de una subvención para atenuar el impacto social."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.lavozdelsur.es/la-junta-obvio-la-legalidad-para-otorgar-casi-20-millones-para-un-ere-en-gonzalez-byass/"
-
-  - fecha: 2008-06-01
-    titulo: "La Junta concede 19,7 millones sin procedimiento legal"
-    descripcion: "La Consejería de Empleo concede 19,7 millones de euros a González Byass sin que la empresa lo haya solicitado, sin resolución motivada de concesión y sin cumplir los requisitos legales exigidos, según determina posteriormente la IGAE."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.lavozdelsur.es/la-junta-obvio-la-legalidad-para-otorgar-casi-20-millones-para-un-ere-en-gonzalez-byass/"
-
-  - fecha: 2011-01-01
-    titulo: "La jueza Alaya investiga el ERE de González Byass"
-    descripcion: "La jueza instructora del caso ERE Mercedes Alaya abre la pieza separada de González Byass e imputa al exconsejero Antonio Fernández García por aparecer supuestamente en la lista de beneficiarios de la póliza del ERE."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "https://www.libertaddigital.com/nacional/un-goteo-corrupto-de-empresas-y-asociaciones-amigas-beneficiadas-1276415802/"
-
-  - fecha: 2012-01-01
-    titulo: "La Junta deja de pagar los ERE de González Byass al aflorar el escándalo"
-    descripcion: "Al conocerse la magnitud del escándalo ERE, la Junta de Andalucía interrumpe los pagos correspondientes al ERE de González Byass, dejando en situación de incertidumbre a los trabajadores prejubilados."
-    type: "resumen"
-    relevancia: "media"
-    urls:
-      - "https://www.publico.es/actualidad/junta-deja-pagar-ere-ruiz.html"
-
-  - fecha: 2019-01-01
-    titulo: "La Audiencia retira el cargo de beneficiario del ERE contra Antonio Fernández"
-    descripcion: "La Audiencia Provincial de Sevilla determina que Antonio Fernández García apareció como asegurado en la póliza pero nunca firmó la adhesión ni cobró cantidad alguna, por lo que retira ese cargo específico en el procedimiento separado de González Byass."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.lavozdelsur.es/actualidad/antonio-fernandez-nunca-se-beneficio-del-ere-de-gonzalez-byass-la-audiencia-retira-el-cargo-contra-el-socialista_176886_102.html"
-
-  - fecha: 2024-07-01
-    titulo: "El Tribunal Constitucional reduce la pena de Griñán"
-    descripcion: "El Tribunal Constitucional estima parcialmente el recurso de Antonio Fernández García y reduce algunas condenas del caso ERE. El alto tribunal cuestiona la calificación de malversación pero no absuelve a los condenados por prevaricación."
-    type: "recurso"
-    relevancia: "alta"
-    urls:
-      - "https://es.wikipedia.org/wiki/Antonio_Fern%C3%A1ndez_Garc%C3%ADa_(pol%C3%ADtico)"
+- fecha: '2008-04-16'
+  titulo: Protocolo de financiación de las rentas
+  descripcion: La sentencia contable recoge un protocolo con la asociación de extrabajadores que comprometía 17.459.092
+    euros para contratar una póliza. Ese compromiso se distingue del volumen total de ayudas investigado penalmente y
+    de los pagos concretos objeto de la demanda contable.
+  urls:
+  - https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2024/Sentencia_9_2024.pdf
+  type: judicial
+  relevancia: alta
+- fecha: '2018-05-22'
+  titulo: Citación de Márquez, Rivera y Barberá
+  descripcion: Europa Press reseñó el 9 de junio un auto de esta fecha ordenando sus declaraciones como investigados.
+    La noticia sitúa la incoación de la pieza en diciembre de 2016, sin precisar día.
+  urls:
+  - https://www.europapress.es/andalucia/noticia-juez-nunez-ordena-marquez-rivera-barbera-declaren-investigados-pieza-gonzalez-byass-20180609142708.html
+  type: judicial
+  relevancia: alta
+- fecha: '2020-05-07'
+  titulo: La Audiencia excluye a Antonio Fernández
+  descripcion: 'Según Diario de Sevilla del 15 de mayo, la Sección Séptima anula parcialmente su decisión de agosto de
+    2019 y determina que no procedía seguir contra Fernández: no había suscrito el boletín de adhesión ni cobrado la
+    póliza. No se presenta como una absolución del resto de investigados.'
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Empleo-Antonio-Fernandez-ERE-Gonzalez_0_1464453926.html
+  type: judicial
+  relevancia: alta
+- fecha: '2022-07-14'
+  titulo: Se conoce la continuación contra seis investigados
+  descripcion: 'Europa Press publica la notificación del auto de procedimiento abreviado contra Rivera, un directivo
+    de Uniter y cuatro representantes de los trabajadores. Da plazo para pedir juicio, archivo o diligencias: no equivale
+    a apertura de juicio oral. La noticia confirma la exclusión de Fernández y distingue la situación de otros altos
+    cargos.'
+  urls:
+  - https://www.europapress.es/andalucia/noticia-juez-excluye-exconsejero-antonio-fernandez-pieza-ere-gonzalez-byass-no-llegar-cobrar-ayudas-20220714095826.html
+  type: judicial
+  relevancia: alta
+- fecha: '2024-12-20'
+  titulo: Desestimación de la demanda contable
+  descripcion: La sentencia 9/2024 desestima íntegramente la reclamación de 709.450 euros e impone las costas a la Junta.
+    Razona que los dos pagos cuestionados quedaron cubiertos por la regularización y novación de la póliza y que no financiaron
+    rentas de beneficiarios irregulares. La copia publicada figura como no firme y admite apelación.
+  urls:
+  - https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2024/Sentencia_9_2024.pdf
+  type: judicial
+  relevancia: alta
 ---
+
+La investigación penal se refiere a la financiación de consecuencias laborales del ERE de 2008 y a pagos posteriores a la asociación de extrabajadores. La cifra de al menos 19.757.235,14 euros es el volumen de ayudas reseñado en el auto de 2022, no un perjuicio declarado por sentencia. Tampoco se suma de nuevo el compromiso de 17.459.092 euros del protocolo como si fuera un daño adicional.
+
+Antonio Fernández no cobró las rentas de la póliza ni firmó la adhesión. La Audiencia rectificó en mayo de 2020 la decisión que había permitido investigarlo como beneficiario en agosto de 2019. La continuación de 2022 mantuvo fuera a Fernández y distinguió los antiguos altos cargos ya encausados en la pieza del procedimiento específico de Daniel Rivera, que no había sido enjuiciado en ella.
+
+La vía contable tiene un objeto concreto: dos pagos por un total de 709.450 euros. El Tribunal de Cuentas desestimó la demanda en diciembre de 2024. Aunque apreció defectos procedimentales, consideró que la regularización del Decreto-ley 4/2012 y la novación habían proporcionado cobertura a esos pagos; además, el ajuste de la prima excluyó la financiación pública de rentas del beneficiario cuestionado. Los gastos de intermediación se remitían a otro procedimiento, B-68/15. La desestimación no se extiende a operaciones que no fueron objeto de esta demanda.
+
+La sentencia contable se publica como no firme y permite apelación. No se dispone del desenlace posterior de los seis investigados, de todas sus identidades ni de eventuales recursos contables. No se deduce de ello que continúe abierta la pieza o que se haya archivado en su totalidad. Las sentencias de otros ERE y los procedimientos laborales recientes de la empresa tienen objetos distintos.
+
+Fuentes: [auto reseñado en 2022, Europa Press](https://www.europapress.es/andalucia/noticia-juez-excluye-exconsejero-antonio-fernandez-pieza-ere-gonzalez-byass-no-llegar-cobrar-ayudas-20220714095826.html), [auto de mayo de 2020, Diario de Sevilla](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Empleo-Antonio-Fernandez-ERE-Gonzalez_0_1464453926.html), [sentencia contable original](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2024/Sentencia_9_2024.pdf), [reseña nominal de diciembre de 2024](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/tribunal-cuentas-exculpa-ex-consejero_0_2003045310.html).
