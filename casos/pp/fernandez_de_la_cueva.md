@@ -27,37 +27,37 @@ tags:
   - "aforamiento"
 documentos: []
 cronologia:
-  - fecha: 2015-07-03
+  - fecha: '2015-07-03'
     titulo: "Se conoce la apertura de causa en el Tribunal Supremo"
     descripcion: "El País informa de la admisión de la querella de la Fiscalía contra la senadora y su teniente de alcalde. José Manuel Maza fue designado instructor. La fecha corresponde a la publicación, sin atribuir ese día al auto."
     type: "investigacion"
     urls:
       - "https://elpais.com/politica/2015/07/03/actualidad/1435926115_587995.html"
-  - fecha: 2015-10-19
+  - fecha: '2015-10-19'
     titulo: "Declaración ante el Tribunal Supremo"
     descripcion: "Juliana Fernández Cueva declaró ante el instructor José Manuel Maza y defendió su inocencia. La información posterior de Europa Press en Cadena SER identifica expresamente el 19 de octubre como fecha de la declaración."
     type: "declaracion"
     urls:
       - "https://cadenaser.com/emisora/2016/02/22/ser_toledo/1456139121_443157.html"
-  - fecha: 2016-02-22
+  - fecha: '2016-02-22'
     titulo: "Se conoce la devolución de la causa a Quintanar de la Orden"
     descripcion: "Europa Press informa de que el Supremo ha dejado de ser competente por la pérdida de la condición de aforada de la exsenadora y remite la causa al juzgado decano de Quintanar de la Orden. Es la fecha de publicación; no se ha verificado la fecha del auto."
     type: "investigacion"
     urls:
       - "https://cadenaser.com/emisora/2016/02/22/ser_toledo/1456139121_443157.html"
-  - fecha: 2020-01-14
+  - fecha: '2020-01-14'
     titulo: "Suspensión del juicio para practicar una prueba"
     descripcion: "La Audiencia Provincial de Toledo suspendió la vista para solicitar al Ayuntamiento una certificación sobre el acceso a los expedientes sancionadores, a petición de las defensas, que cuestionaban la obtención de las pruebas. La Fiscalía rechazó que se hubiera vulnerado la intimidad de los acusados."
     type: "juicio"
     urls:
       - "https://www.eldiario.es/castilla-la-mancha/suspenden-juicio-alcaldesa-quitamultas-defensa_1_1082313.html"
-  - fecha: 2020-12-11
+  - fecha: '2020-12-11'
     titulo: "Se anuncia un nuevo señalamiento para el 15 de diciembre"
     descripcion: "Europa Press publica que la Sección Segunda de la Audiencia Provincial de Toledo prevé juzgar a ambos acusados el 15 de diciembre. La Fiscalía pide diez años de inhabilitación para cada uno por presunta prevaricación administrativa continuada. El anuncio no acredita la celebración de la vista."
     type: "juicio"
     urls:
       - "https://www.lacronica.net/piden-10-anos-de-inhabilitacion-para-la-exalcaldesa-de-corral-de-almaguer-acusada-de-quitar-multas-de-trafico/"
-  - fecha: 2020-12-15
+  - fecha: '2020-12-15'
     titulo: "Se informa de otra suspensión del juicio"
     descripcion: "La Vanguardia informa de que la Sección Segunda de la Audiencia Provincial de Toledo ha suspendido el juicio previsto para ese día. No se ha verificado una resolución posterior ni el desenlace del procedimiento."
     type: "juicio"
