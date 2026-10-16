@@ -45,7 +45,7 @@ implicados:
   cargo: Exconsejero de Innovación, Ciencia y Empresa de la Junta de Andalucía
   rol: Investigado en las ramas TPM y Pickman. La información de septiembre de 2026 lo incluye entre los afectados
     por la continuación por procedimiento abreviado en TPM. Sin condena verificada por estos avales.
-- nombre: Gaspar Llanes Rodríguez
+- nombre: Gaspar Llanes
   cargo: Diputado autonómico del PSOE en la información de enero de 2026; antiguo vocal del Consejo Rector de IDEA
   rol: En Pickman se acordó notificarle el auto e informarle de sus derechos y solicitar certificación de su condición
     de aforado. No fue citado entre los 21 investigados ni se acreditó entonces una exposición razonada al TSJA.
