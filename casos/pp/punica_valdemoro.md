@@ -23,7 +23,7 @@ tribunal:
   - Audiencia Nacional, Sala de lo Penal
 numeroSentencia: 34/2025 (Cofely); 15/2026 (Waiter Music)
 implicados:
-  - nombre: Francisco Granados Lerena
+  - nombre: Francisco José Granados Llerena
     cargo: Exalcalde de Valdemoro y exconsejero de la Comunidad de Madrid (PP)
     rol: Condenado en Waiter Music a dos años y seis meses de prisión por fraude continuado, con inhabilitación
       por prevaricación. Las acusaciones urbanísticas no se consideran probadas por esta sentencia. Firmeza posterior
