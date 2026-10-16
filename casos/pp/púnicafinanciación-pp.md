@@ -1,154 +1,218 @@
 ---
-nombre: "Púnica/Financiación PP"
-partido: "PP"
-completado: true
+nombre: Púnica/Financiación PP
+partido: PP
+completado: false
 año: 2014
-fechaInicio: "2004-01-01"
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  La pieza de financiación ilegal del PP en la Operación Púnica es una de las ramificaciones más graves de la macrocausa iniciada en octubre de 2014. La investigación destapó un sistema de "caja B" con el que el Partido Popular en la Comunidad de Madrid financió sus campañas electorales de 2007, 2008 y 2011 mediante donaciones irregulares de empresarios que, a cambio, recibían contratos públicos adjudicados con irregularidades. La trama fue orquestada por el empresario David Marjaliza —socio oculto de Francisco Granados— y articulada a través de la fundación Fundescam, vinculada al PP madrileño y presidida inicialmente por Pío García Escudero.
-
-  Francisco Granados, secretario general del PP de Madrid entre 2004 y 2011, exconsejero de Presidencia, Justicia e Interior, y exsenador, actuaba como el principal recolector de fondos ilegales para el partido. Según la UCO de la Guardia Civil, el PP de Madrid declaró haber gastado 2.986.624 euros en la campaña electoral autonómica de 2011, cuando en realidad habría gastado 6,2 millones de euros, sufragados en parte con donaciones ilegales de empresarios y con subvenciones públicas desviadas de su finalidad. La constructora OHL, del empresario Javier López Madrid, aportó 1.250.000 euros a la caja B del partido, cantidad que fue registrada por el entonces gerente del PP madrileño, Beltrán Gutiérrez, en documentación interna secreta intervenida por la justicia.
-
-  El dinero se canalizaba a través de Fundescam, que recibía grandes sumas de empresarios investigados en los casos Gürtel y Púnica. La fundación sufragó con fondos públicos —subvenciones destinadas a estudiar los efectos de la crisis en el empleo— gastos de campaña, cenas de Navidad, encuestas de intención de voto y actos del partido y de sus Nuevas Generaciones. Granados y Marjaliza tenían además 19 cuentas bancarias millonarias en Suiza y otros fondos en Singapur, con un patrimonio oculto de al menos 33,5 millones de euros blanqueado a través de un complejo entramado societario con testaferros en varios países.
-
-  Tres presidentes autonómicos —Esperanza Aguirre, Ignacio González y Cristina Cifuentes— fueron investigados en esta pieza y finalmente quedaron fuera de la causa. En abril de 2024, la Audiencia Nacional abrió juicio oral contra ocho acusados, entre ellos Granados y Beltrán Gutiérrez, por delito electoral y, en el caso de Granados, también por prevaricación, tráfico de influencias y malversación. La Fiscalía Anticorrupción solicita para Granados 7 años y 10 meses de prisión y una multa de 284.000 euros. A mediados de 2026 el juicio oral seguía sin fecha fijada, pese a que la instrucción concluyó en enero de 2022, mientras se sucedían las condenas en otras piezas del caso Púnica (Cofely, Waiter Music) y el juez enviaba a juicio la pieza de Arpegio y Mintra contra Granados, López Madrid y Marjaliza.
-
-resumen: "Financiación ilegal del PP de Madrid con caja B de 6,2 millones para campañas electorales de 2007 a 2011 a través de Fundescam y donaciones de empresarios a cambio de contratos públicos"
-coste: 6200000
-lugar: "Comunidad de Madrid, España"
+fechaFin: ''
+estado: desconocido
+descripcion: 'La pieza 9 de Púnica investigó la financiación del PP madrileño y varias contrataciones públicas,
+  pero su alcance se redujo tras archivos y prescripciones. El auto de 3 de abril de 2024 abrió juicio oral contra
+  siete personas: Granados y Beltrán Gutiérrez Moliner por presunto falseamiento de cuentas de las autonómicas de
+  2011, y otros acusados por conductas diferenciadas. La petición fiscal de siete años y diez meses para Granados
+  no es una condena. Aguirre, Jaime Ignacio González, López Madrid y Marjaliza figuran con sobreseimiento provisional
+  en el auto de octubre de 2022; el archivo de Cifuentes se conoció en abril de 2021. No se confunden estos archivos
+  con absoluciones en juicio. La información de mayo de 2026 situaba la vista de esta pieza pendiente de fecha;
+  no se ha verificado un señalamiento, celebración o sentencia posterior hasta el 15 de octubre de 2026. Los gastos
+  electorales investigados, multas solicitadas y fianzas no se presentan como daño público acreditado.'
+resumen: 'Pieza 9 de Púnica: apertura de juicio en 2024 por presunto delito electoral de 2011 y otras conductas
+  concretas, con archivos personales previos; desenlace posterior no verificado.'
+lugar: Comunidad de Madrid, España
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 6 - Juez Eloy Velasco"
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 1 - Juez Manuel García Castellón"
-  - "Audiencia Nacional - Sala de lo Penal (juicio oral pendiente)"
-numeroSentencia: ""
+  - Juzgado Central de Instrucción nº 6 de la Audiencia Nacional
+  - Audiencia Nacional, Sala de lo Penal
+numeroSentencia: ''
 implicados:
-  - nombre: "Francisco Granados Lerena"
-    cargo: "Secretario General del PP de Madrid (2004-2011), Consejero de Presidencia, Justicia e Interior de la Comunidad de Madrid, Senador del PP"
-    rol: "Principal acusado por delito electoral, prevaricación, tráfico de influencias y malversación. La Fiscalía solicita 7 años y 10 meses de prisión. Presunto recolector de fondos ilegales para la caja B del PP de Madrid."
-
-  - nombre: "David Marjaliza López"
-    cargo: "Empresario constructor, socio oculto de Francisco Granados"
-    rol: "Considerado principal conseguidor de la trama; condenado en la pieza Cofely, con pena rebajada a 5 años en 2026"
-
-  - nombre: "Beltrán Gutiérrez Molina"
-    cargo: "Gerente del PP de la Comunidad de Madrid durante el mandato de Esperanza Aguirre"
-    rol: "Acusado por delito electoral. La Fiscalía solicita 3 años y medio de prisión. Supuesto administrador de la caja B que registró en documentación interna los ingresos ilegales al partido."
-
-  - nombre: "Esperanza Aguirre Gil de Biedma"
-    cargo: "Presidenta de la Comunidad de Madrid (2003-2012), Presidenta del PP de Madrid"
-    rol: "Investigada y finalmente archivada su causa. El juez rechazó que tuviera conocimiento de la financiación ilegal de sus campañas electorales."
-
-  - nombre: "Ignacio González González"
-    cargo: "Presidente de la Comunidad de Madrid (2012-2015), Secretario General del PP de Madrid"
-    rol: "Investigado en la pieza de financiación y finalmente archivada su causa. Considerado por la Fiscalía Anticorrupción como posible 'recolector' de fondos irregulares para el PP."
-
-  - nombre: "Cristina Cifuentes Cuencas"
-    cargo: "Presidenta de la Comunidad de Madrid (2015-2018)"
-    rol: "Investigada en la pieza de financiación y finalmente archivada su causa."
-
-  - nombre: "Javier López Madrid"
-    cargo: "Empresario, accionista de OHL"
-    rol: "Investigado por haber presuntamente aportado 1.250.000 euros a la caja B del PP de Madrid a través de la constructora OHL."
-
+  - nombre: Francisco José Granados Lerena
+    cargo: Exsecretario general del PP de Madrid y exconsejero autonómico
+    rol: El auto de 2024 abre juicio por presunto delito electoral de falseamiento de cuentas de 2011 y, por hechos
+      distintos, tráfico de influencias, malversación y prevaricación. La Fiscalía solicitaba siete años y diez
+      meses de prisión, no una pena impuesta. No se ha verificado el resultado posterior del juicio en esta pieza.
+  - nombre: Beltrán Gutiérrez Moliner
+    cargo: Exgerente del PP de Madrid y administrador electoral
+    rol: El auto de 2024 abre juicio por presunto falseamiento de cuentas electorales de 2011. La petición fiscal
+      de tres años y seis meses de prisión es una acusación, no condena. No se ha verificado el resultado posterior
+      del juicio en esta pieza.
+  - nombre: Isabel Gallego Navarrete
+    cargo: Exresponsable de Medios de Comunicación de la Comunidad de Madrid
+    rol: Incluida en la apertura de juicio de 2024 por presunta prevaricación, fraude en la contratación y malversación
+      vinculados a trabajos de reputación en redes. No se ha verificado el resultado posterior del juicio en esta
+      pieza.
+  - nombre: Alejandro de Pedro Llorca
+    cargo: Empresario de comunicación y reputación digital vinculado a EICO y Madiva
+    rol: Incluido en la apertura de juicio de 2024 por presunta prevaricación, fraude en la contratación y malversación
+      en conductas diferenciadas de la contabilidad electoral. No se ha verificado el resultado posterior del juicio
+      en esta pieza.
+  - nombre: Francisco de Borja Sarasola Jáudenes
+    cargo: Exconsejero y antiguo alto cargo de la Comunidad de Madrid
+    rol: Incluido en la apertura de juicio de 2024 por presunta prevaricación, fraude, malversación y tráfico de
+      influencias en los hechos que el auto individualiza. No se ha verificado el resultado posterior del juicio
+      en esta pieza.
+  - nombre: Diego Mora Borobia
+    cargo: Trabajador de Indra en los hechos investigados
+    rol: Incluido en la apertura de juicio de 2024 por presunta prevaricación y fraude en la contratación del servicio
+      Open Government. Su situación personal no se identifica con la de Indra como sociedad. No se ha verificado
+      el resultado posterior del juicio en esta pieza.
+  - nombre: José Martínez Nicolás
+    cargo: Exconsejero delegado de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid (ICM)
+    rol: Incluido en la apertura de juicio de 2024 por presunta prevaricación y fraude en la contratación del servicio
+      Open Government. No se ha verificado el resultado posterior del juicio en esta pieza.
+  - nombre: Esperanza Aguirre Gil de Biedma
+    cargo: Expresidenta de la Comunidad y del PP de Madrid
+    rol: Sobreseimiento provisional en el auto de 14 de octubre de 2022; archivo confirmado por la Sala en noviembre
+      de 2023. El auto de 2024 también rechaza su llamamiento como partícipe a título lucrativo. No es una absolución
+      tras juicio.
+  - nombre: Jaime Ignacio González González
+    cargo: Expresidente de la Comunidad de Madrid
+    rol: Sobreseimiento provisional en octubre de 2022, confirmado en noviembre de 2023. El auto de 2024 rechaza
+      abrirle juicio en esta pieza y su llamamiento como partícipe a título lucrativo. No se extrapola a otras causas.
+  - nombre: Cristina Cifuentes Cuencas
+    cargo: Expresidenta de la Comunidad de Madrid
+    rol: El archivo por falta de indicios se conoció el 20 de abril de 2021. No aparece entre las siete personas
+      contra las que se abre juicio en 2024. No se ha obtenido aquí el auto original de ese archivo ni se afirma
+      su firmeza.
+  - nombre: David Marjaliza Villaseñor
+    cargo: Empresario investigado en distintas ramas de Púnica
+    rol: El auto de 14 de octubre de 2022 decreta sobreseimiento provisional respecto de él en la pieza 9. No figura
+      como acusado en la apertura de juicio de abril de 2024; no se trasladan a esta ficha sus condenas de otras
+      piezas.
+  - nombre: Francisco Javier López Madrid
+    cargo: Empresario vinculado a OHL
+    rol: Sobreseimiento provisional en el auto de 14 de octubre de 2022; la nota judicial de noviembre de 2023 confirma
+      su archivo. No figura entre los siete acusados del auto de apertura de juicio de 2024.
 tags:
-  - "corrupción"
-  - "financiación ilegal"
-  - "caja B"
-  - "organización criminal"
-  - "blanqueo de capitales"
-  - "tráfico de influencias"
-  - "delito electoral"
-  - "malversación"
-
-impactoSocial: "La pieza de financiación de la Operación Púnica supuso un enorme impacto político en la Comunidad de Madrid, al revelar que el PP regional habría doblado su gasto electoral declarado mediante fondos ilegales durante más de una década. La investigación provocó la imputación de tres presidentes autonómicos —Aguirre, González y Cifuentes— y la caída en desgracia del que fue el número dos del PP madrileño, Francisco Granados. El caso puso al descubierto el funcionamiento de Fundescam como instrumento de financiación irregular del partido y demostró la existencia de una caja B sistemática en el PP de Madrid durante los años de mayor hegemonía electoral de Esperanza Aguirre."
-
-documentos: null
-
+  - financiación de partidos
+  - delito electoral
+  - prevaricación
+  - tráfico de influencias
+  - malversación
+  - fraude en contratación
+impactoSocial: La causa examina la transparencia de la contabilidad electoral y la relación entre encargos de comunicación
+  política y contratos públicos. Las hipótesis iniciales de financiación generalizada deben distinguirse del ámbito
+  de la acusación finalmente admitida y de los archivos acordados para personas concretas.
+documentos:
+  - fecha: '2022-10-14'
+    titulo: Auto de continuación y sobreseimientos de la pieza 9 de Púnica
+    filetype: pdf
+    paginas: 257
+    nombre_fichero: https://www.losgenoveses.net/Caso%20Punica/09.%20PS%20Financiacion%20PP%20Madrid/01.%20Punica%20PS9.%20Auto%20de%20procesamiento.14.10.22.pdf
+  - fecha: '2024-04-03'
+    titulo: Auto de apertura de juicio oral de la pieza 9 de Púnica
+    filetype: pdf
+    paginas: 27
+    nombre_fichero: https://www.losgenoveses.net/Caso%20Punica/09.%20PS%20Financiacion%20PP%20Madrid/02.%20Punica%20PS9%20Financiacion%20ilicita%20PP%20Madrid.%20Auto%20apertura%20juicio%20oral.%2003.04.24.pdf
 cronologia:
-  - fecha: "2004-01-01"
-    titulo: "Inicio de la trama de financiación irregular"
-    descripcion: "Francisco Granados, recién nombrado secretario general del PP de Madrid, comienza a articular junto al empresario David Marjaliza un sistema de financiación irregular del partido. Se canalizan donaciones de empresarios del sector de la construcción y los servicios a cambio de adjudicaciones de contratos públicos en municipios madrileños gobernados por el PP."
-    type: "resumen"
+  - fecha: '2014-06-18'
+    titulo: Origen de las diligencias principales de las que deriva la pieza 9
+    descripcion: Los autos posteriores sitúan en esta fecha la admisión de la querella de Anticorrupción y apertura
+      de las diligencias previas 85/2014. Es el origen del procedimiento principal, no una fecha comprobada del
+      comienzo de la supuesta financiación ni de la creación de la pieza separada 9.
+    type: investigación
+    relevancia: alta
     urls:
-      - "https://www.eldiario.es/madrid/caso-punica-corrupcion-madrid-cambio-ladrillo-eficiencia-energetica-mano-pp_1_12867564.html"
-
-  - fecha: "2011-05-22"
-    titulo: "Elecciones autonómicas de Madrid con gasto electoral doblado"
-    descripcion: "El PP de Esperanza Aguirre gana las elecciones autonómicas de Madrid. La UCO de la Guardia Civil determinará posteriormente que el partido declaró haber gastado 2.986.624 euros en la campaña, cuando en realidad el gasto real ascendió a 6,2 millones de euros, financiado en parte con donaciones ilegales de empresarios y subvenciones desviadas a través de Fundescam."
-    type: "resumen"
+      - https://www.losgenoveses.net/Caso%20Punica/09.%20PS%20Financiacion%20PP%20Madrid/01.%20Punica%20PS9.%20Auto%20de%20procesamiento.14.10.22.pdf
+      - https://www.losgenoveses.net/Caso%20Punica/09.%20PS%20Financiacion%20PP%20Madrid/02.%20Punica%20PS9%20Financiacion%20ilicita%20PP%20Madrid.%20Auto%20apertura%20juicio%20oral.%2003.04.24.pdf
+  - fecha: '2019-08-02'
+    titulo: La Fiscalía solicita investigar a Aguirre y Cifuentes
+    descripcion: RTVE informa de la petición fiscal de imputación por las hipótesis de financiación que entonces
+      se investigaban. La solicitud de Fiscalía debe distinguirse de la decisión judicial de citar, de la apertura
+      de juicio y de los archivos posteriores.
+    type: denuncia
+    relevancia: alta
     urls:
-      - "https://eldiario.es/politica/PP-Aguirre-presupuesto-elecciones-autonomicas_0_864763738.html"
-      - "https://www.publico.es/politica/financiacion-ilegal-pp-madrid-aguirre-punica-fundescam-corrupcion.html"
-
-  - fecha: "2014-10-27"
-    titulo: "Operación Púnica: 51 detenidos y registros simultáneos"
-    descripcion: "La Guardia Civil, a instancias del juez Eloy Velasco de la Audiencia Nacional, detiene a 51 políticos, ediles, funcionarios y empresarios en una operación simultánea con registros en ayuntamientos, domicilios y sedes de empresas en Madrid, León, Murcia y la Comunitat Valenciana. Entre los detenidos se encuentran Francisco Granados y David Marjaliza. La operación pone al descubierto una trama que habría adjudicado contratos públicos por valor de 250 millones de euros a cambio de comisiones ilegales y habría financiado irregularmente al PP de Madrid."
-    type: "detención"
+      - https://www.rtve.es/noticias/20190802/fiscalia-pide-imputar-a-esperanza-aguirre-caso-punica-por-financiacion-ilegal-del-pp-madrid/1976509.shtml
+  - fecha: '2019-09-02'
+    titulo: Se conoce la citación como investigadas de Aguirre y Cifuentes
+    descripcion: Público informa de que el instructor acuerda citarlas como investigadas en la pieza sobre financiación.
+      Se trata de una fase de investigación anterior a sus archivos, no de acusación para juicio ni de condena.
+      La fecha corresponde al conocimiento público de la providencia.
+    type: imputación
+    relevancia: alta
     urls:
-      - "https://es.wikipedia.org/wiki/Operaci%C3%B3n_P%C3%BAnica"
-      - "https://www.elespanol.com/espana/20160214/102239939_0.html"
-
-  - fecha: "2014-10-31"
-    titulo: "Granados ingresa en prisión provisional"
-    descripcion: "El juez Eloy Velasco decreta el ingreso en prisión provisional de Francisco Granados por riesgo de fuga y destrucción de pruebas. La justicia ordena el bloqueo de las cuentas de Granados y Marjaliza en Suiza y Singapur, que acumulan alrededor de 11 millones de euros. Mes y medio después, la Audiencia Nacional confirma la prisión provisional al persistir el riesgo de fuga."
-    type: "detención"
+      - https://www.publico.es/politica/expresidentas-madrid-imputadas-juez-imputa-aguirre-cifuentes-trama-corrupta-punica.html
+  - fecha: '2021-04-20'
+    titulo: Se conoce el archivo para Cifuentes
+    descripcion: Cadena SER informa del archivo por falta de indicios en los hechos relativos a contratos de la
+      Asamblea y financiación a través de Fundescam y otras vías. No se ha obtenido el auto original; la fecha es
+      de publicación, no una fecha judicial deducida.
+    type: sobreseimiento
+    relevancia: alta
     urls:
-      - "https://es.blastingnews.com/noticias/2014/10/primeros-ingresos-en-prision-de-los-detenidos-en-la-operacion-punica-00157083.html"
-      - "http://www.diariolanube.com/operacion-punica-granados-y-su-socio-tenian-4-millones-ocultos-en-singapur/2014/11/03/"
-
-  - fecha: "2015-09-01"
-    titulo: "El juez divide la instrucción en 12 piezas separadas"
-    descripcion: "El juez Eloy Velasco determina dividir la instrucción del caso Púnica en 12 piezas separadas para agilizar la investigación de las diferentes ramificaciones de la trama. La pieza 9 quedará centrada específicamente en la financiación irregular del PP de Madrid en las elecciones autonómicas de 2007, 2008 y 2011."
-    type: "investigación"
+      - https://cadenaser.com/ser/2021/04/20/tribunales/1618908710_223857.html
+  - fecha: '2022-01-25'
+    titulo: Terminación de la instrucción, según el auto posterior
+    descripcion: El antecedente segundo del auto de apertura de juicio de 2024 identifica una decisión de esta fecha,
+      rectificada el 27 de enero, que denegó la prórroga y dio por terminada la instrucción. Esta finalización no
+      fue el archivo de todas las personas ni la apertura del juicio oral.
+    type: investigación
+    relevancia: alta
     urls:
-      - "https://www.publico.es/politica/juez-punica-cierra-instruccion-mitad-piezas.html"
-
-  - fecha: "2016-02-11"
-    titulo: "Registro de la sede del PP en Génova 13"
-    descripcion: "La Guardia Civil registra la sede central del Partido Popular en la calle Génova 13 de Madrid, así como el domicilio del yerno del empresario Villar Mir, en el marco de la investigación sobre la financiación ilegal del PP de Madrid. El registro busca documentación sobre la contabilidad paralela y los fondos irregulares captados por la organización."
-    type: "investigación"
+      - https://www.losgenoveses.net/Caso%20Punica/09.%20PS%20Financiacion%20PP%20Madrid/02.%20Punica%20PS9%20Financiacion%20ilicita%20PP%20Madrid.%20Auto%20apertura%20juicio%20oral.%2003.04.24.pdf
+  - fecha: '2022-10-14'
+    titulo: Sobreseimientos y continuación de la pieza 9
+    descripcion: El auto del instructor distingue sobreseimientos provisionales y libres. Entre los provisionales
+      figuran Aguirre, Jaime Ignacio González, López Madrid y Marjaliza. La continuación se acuerda para otras personas
+      y sociedades, dando traslado para acusación o sobreseimiento; no determina culpabilidad ni equivale al censo
+      de acusados del posterior auto de 2024.
+    type: sobreseimiento
+    relevancia: alta
     urls:
-      - "https://www.elespanol.com/espana/20160211/101490121_0.html"
-      - "https://www.libertaddigital.com/espana/2016-02-11/registran-la-casa-de-lopez-madrid-y-el-ex-gerente-del-pp-por-la-operacion-punica-1276567588/"
-
-  - fecha: "2016-02-18"
-    titulo: "Marjaliza acusa a Granados de cobrar comisiones a empresarios"
-    descripcion: "El empresario David Marjaliza, en declaración ante el juez Eloy Velasco, acusa a Francisco Granados de cobrar un 'peaje' a los empresarios que querían acceder a contratos públicos durante los gobiernos de Esperanza Aguirre. Marjaliza comienza a colaborar con la justicia y aporta información sobre el funcionamiento de la trama de financiación ilegal del PP."
-    type: "declaración"
+      - https://www.losgenoveses.net/Caso%20Punica/09.%20PS%20Financiacion%20PP%20Madrid/01.%20Punica%20PS9.%20Auto%20de%20procesamiento.14.10.22.pdf
+  - fecha: '2023-11-20'
+    titulo: Confirmación del archivo recurrido por la acusación
+    descripcion: El auto de apertura de 2024 identifica una resolución de la Sección Cuarta de esta fecha que confirmó
+      el sobreseimiento de González; la nota oficial publicada el 22 de noviembre describe la confirmación para
+      Aguirre y otros investigados, así como la reducción del caso a hechos concretos y aislados. El antecedente
+      de 2024 recoge que una diligencia de 22 de noviembre declaró firme el auto de octubre de 2022. No es una sentencia
+      absolutoria.
+    type: recurso
+    relevancia: alta
     urls:
-      - "https://www.elespanol.com/espana/20160218/103239731_0.html"
-
-  - fecha: "2019-01-01"
-    titulo: "La UCO confirma la caja B del PP de Madrid tras diez años"
-    descripcion: "La Unidad Central Operativa de la Guardia Civil confirma, una década después de que fuera revelada por primera vez, la existencia de una contabilidad paralela en el PP de Madrid. El informe policial acredita que el PP de Madrid ingresó 1.250.000 euros en negro y desvió subvenciones públicas a través de Fundescam para sufragar actos del partido y gastos de campaña en las autonómicas de 2011."
-    type: "investigación"
+      - https://www.losgenoveses.net/Caso%20Punica/09.%20PS%20Financiacion%20PP%20Madrid/02.%20Punica%20PS9%20Financiacion%20ilicita%20PP%20Madrid.%20Auto%20apertura%20juicio%20oral.%2003.04.24.pdf
+      - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-confirma-archivo-de-Esperanza-Aguirre--Ignacio-Gonzalez-y-4-exconsejeros-en-la-pieza-de-Punica-sobre-financiacion-del-PP-de-Madrid
+  - fecha: '2023-12-22'
+    titulo: Entrada del escrito de acusación fiscal
+    descripcion: El auto de apertura de juicio identifica el escrito fiscal recibido este día. Solicita tres años
+      y seis meses para Beltrán Gutiérrez y, sumando hechos diferenciados, siete años y diez meses para Granados,
+      además de multas e inhabilitaciones. Son pretensiones de acusación, no penas impuestas ni daño cuantificado
+      por sentencia.
+    type: acusación
+    relevancia: alta
     urls:
-      - "https://www.publico.es/politica/financiacion-ilegal-pp-madrid-aguirre-punica-fundescam-corrupcion.html"
-
-  - fecha: "2022-01-01"
-    titulo: "Archivo de Esperanza Aguirre, Ignacio González y cuatro exconsejeros"
-    descripcion: "La Audiencia Nacional confirma el archivo de la causa para Esperanza Aguirre, Ignacio González y cuatro exconsejeros de la Comunidad de Madrid en la pieza de Púnica sobre financiación del PP. El tribunal considera que no hay indicios suficientes de que estas personas tuvieran conocimiento directo de la financiación ilegal."
-    type: "sobreseimiento"
+      - https://www.losgenoveses.net/Caso%20Punica/09.%20PS%20Financiacion%20PP%20Madrid/02.%20Punica%20PS9%20Financiacion%20ilicita%20PP%20Madrid.%20Auto%20apertura%20juicio%20oral.%2003.04.24.pdf
+  - fecha: '2024-04-03'
+    titulo: Apertura de juicio oral contra siete personas
+    descripcion: El dispositivo abre juicio contra Granados y Beltrán por posible falseamiento de cuentas electorales
+      de 2011; Isabel Gallego, Alejandro de Pedro y Borja Sarasola por los hechos de contratación y reputación que
+      detalla; y Diego Mora y José Martínez Nicolás por Open Government. Rechaza abrir juicio a González y determinadas
+      pretensiones de responsabilidad lucrativa. Las cantidades a afianzar no son indemnizaciones definitivas. La
+      apertura no significa que la vista se celebrara ese día.
+    type: juicio
+    relevancia: alta
     urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-confirma-archivo-de-Esperanza-Aguirre--Ignacio-Gonzalez-y-4-exconsejeros-en-la-pieza-de-Punica-sobre-financiacion-del-PP-de-Madrid"
-
-  - fecha: "2024-04-03"
-    titulo: "Apertura de juicio oral contra Granados y Beltrán Gutiérrez"
-    descripcion: "La Audiencia Nacional abre juicio oral contra ocho acusados en la pieza 9 de la Operación Púnica sobre financiación irregular del PP de Madrid. Entre los acusados se encuentran Francisco Granados, al que la Fiscalía Anticorrupción reclama 7 años y 10 meses de prisión y una multa de 284.000 euros por delito electoral, prevaricación, tráfico de influencias y malversación, y el exgerente Beltrán Gutiérrez, al que pide 3 años y medio de cárcel. El tribunal rechaza declarar partícipe a título lucrativo al PP y a sus 72 diputados autonómicos electos en 2011."
-    type: "juicio"
+      - https://www.losgenoveses.net/Caso%20Punica/09.%20PS%20Financiacion%20PP%20Madrid/02.%20Punica%20PS9%20Financiacion%20ilicita%20PP%20Madrid.%20Auto%20apertura%20juicio%20oral.%2003.04.24.pdf
+      - https://www.europapress.es/nacional/noticia-an-abre-juicio-contra-francisco-granados-punica-delito-electoral-autonomicas-2011-20240403152515.html
+  - fecha: '2026-05-31'
+    titulo: La información publicada sigue situando esta vista sin fecha
+    descripcion: Público informa, en un artículo publicado el 31 de mayo y actualizado el 1 de junio, de que la
+      vista de la pieza de financiación seguía pendiente de fecha. El artículo trata también la pieza 8 de suelo
+      público y transportes, que es distinta. Esta noticia no acredita por sí sola que no hubiera señalamiento o
+      sentencia después; la evolución posterior hasta el corte no se ha verificado.
+    type: juicio
+    relevancia: media
     urls:
-      - "https://www.eldiario.es/politica/audiencia-nacional-lleva-juicio-mano-derecha-esperanza-aguirre-caja-b-pp-madrid_1_11260696.html"
-      - "https://www.elindependiente.com/espana/2024/04/03/francisco-granados-se-enfrenta-a-una-peticion-de-7-anos-de-carcel-por-delito-electoral/"
-      - "https://www.ultimahora.es/noticias/nacional/2024/04/03/2136945/audiencia-nacional-sienta-banquillo-mano-derecha-esperanza-aguirre-por-caja-del-madrid.html"
-
-  - fecha: "2026-05-26"
-    titulo: "Nueva pieza de Púnica a juicio: Arpegio y Mintra, con López Madrid y Marjaliza"
-    descripcion: "El juez Antonio Piña abre juicio oral contra Francisco Granados y otras 40 personas —entre ellas los empresarios Javier López Madrid (OHL) y David Marjaliza— por las irregularidades entre 2003 y 2011 en la empresa pública Arpegio y en Mintra. La Fiscalía Anticorrupción pide 42 años para Granados; la Comunidad de Madrid, personada como acusación particular, reclama 30. La instrucción de la pieza de financiación del PP (pieza 9) seguía cerrada y sin fecha de juicio."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "https://www.elespanol.com/espana/tribunales/20260526/francisco-granados-lopez-madrid-juicio-supuesto-amano-contratos-publicos-caso-punica/1003744260569_0.html"
-      - "https://www.publico.es/politica/tribunales/granados-le-acumulan-juicios-envian-banquillo-cuarta-vez-plena-recta-final-pieza-punica.html"
+      - https://www.publico.es/politica/tribunales/granados-le-acumulan-juicios-envian-banquillo-cuarta-vez-plena-recta-final-pieza-punica.html
 ---
+
+La pieza 9 investigó distintas vías de financiación y contratación, con referencia inicial a las elecciones autonómicas de **2007 y 2011** y las generales de **2008**. Esa hipótesis inicial no se convirtió íntegramente en acusación para juicio. La [nota judicial de noviembre de 2023](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-confirma-archivo-de-Esperanza-Aguirre--Ignacio-Gonzalez-y-4-exconsejeros-en-la-pieza-de-Punica-sobre-financiacion-del-PP-de-Madrid) explica que los delitos electorales de 2007 y 2008 se consideraron prescritos y que no había respaldo indiciario para una organización jerárquica general dirigida desde la cúpula del PP madrileño. El ámbito que continuó se redujo a conductas concretas. Por ello no se presenta como probado un sistema global por todos los años y personas investigados.
+
+El [auto de 14 de octubre de 2022](https://www.losgenoveses.net/Caso%20Punica/09.%20PS%20Financiacion%20PP%20Madrid/01.%20Punica%20PS9.%20Auto%20de%20procesamiento.14.10.22.pdf) diferencia sobreseimientos **provisionales**, entre ellos los de Aguirre, Jaime Ignacio González, López Madrid y Marjaliza, y sobreseimientos **libres** para otras personas. El [auto de apertura de 2024](https://www.losgenoveses.net/Caso%20Punica/09.%20PS%20Financiacion%20PP%20Madrid/02.%20Punica%20PS9%20Financiacion%20ilicita%20PP%20Madrid.%20Auto%20apertura%20juicio%20oral.%2003.04.24.pdf) recoge expresamente que una diligencia de 22 de noviembre de 2023 declaró firme aquel auto de continuación y archivos. Esa firmeza procesal no transforma los sobreseimientos provisionales en absoluciones tras juicio ni acredita que todas las sospechas iniciales fueran delictivas.
+
+El archivo de **Cristina Cifuentes** se conoció en abril de 2021. La [información de Cadena SER](https://cadenaser.com/ser/2021/04/20/tribunales/1618908710_223857.html) distingue los contratos de la Asamblea de Madrid y las hipótesis sobre Fundescam y SWAT, y recoge la falta de indicios apreciada por el instructor. No se ha obtenido aquí ese auto original y no se atribuye firmeza a partir de la ausencia de noticias.
+
+La apertura de juicio de **3 de abril de 2024** comprende **siete personas**, con atribuciones distintas. Granados y Beltrán Gutiérrez Moliner afrontan el presunto falseamiento de las cuentas de las elecciones de 2011. La misma pieza incluye encargos de reputación en redes, el contrato Open Government y hechos relativos a la Casa de Madrid en Argentina. Diego Mora aparece como trabajador de Indra, mientras José Martínez Nicolás era responsable de ICM; no son el mismo cargo ni su situación determina por sí sola la de las sociedades. El auto rechaza abrir juicio contra González y desestima las pretensiones de responsabilidad lucrativa que examina respecto de los diputados y de Aguirre y González.
+
+La Fiscalía pedía **siete años y diez meses de prisión para Granados** y **tres años y seis meses para Beltrán Gutiérrez**. Son solicitudes, no condenas. El auto fija garantías pecuniarias de 184.600 euros para Granados y 27.596,66 para Sarasola, calculadas sobre cantidades estimadas y un incremento del 30%; no son daño definitivo declarado por sentencia. Tampoco un presupuesto o gasto electoral estimado puede convertirse automáticamente en un coste de corrupción.
+
+Marjaliza y López Madrid no figuran entre las personas contra las que se abrió este juicio en 2024. Los procedimientos sobre Cofely, Waiter Music, suelo público, Arpegio y Mintra son ramas distintas y sus resultados no sustituyen la situación de cada uno en la pieza 9. En particular, la [noticia de mayo de 2026](https://www.publico.es/politica/tribunales/granados-le-acumulan-juicios-envian-banquillo-cuarta-vez-plena-recta-final-pieza-punica.html) diferenciaba la nueva apertura de la pieza 8 de la vista aún sin fecha de la pieza de financiación.
+
+A **15 de octubre de 2026** no se ha verificado un señalamiento, la celebración de la vista ni una sentencia posterior de esta pieza. La última noticia localizada que informa sobre su calendario es de mayo, actualizada en junio de 2026. No se afirma que continuara sin fecha hasta octubre por el mero silencio informativo, ni se extrapolan condenas de otras piezas a estos hechos.
