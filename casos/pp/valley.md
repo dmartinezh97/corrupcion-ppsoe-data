@@ -1,115 +1,96 @@
 ---
-nombre: "Caso Valley"
+nombre: Caso Valley
 partido: PP
-completado: true
+completado: false
 año: 2014
-fechaInicio: 2014-03-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El Caso Valley es una investigación sobre corrupción en la Región de Murcia que afecta principalmente al Ayuntamiento de Villanueva del Río Segura y la Mancomunidad del Valle de Ricote. El principal implicado es José Luis López Ayala, alcalde del PP en Villanueva del Río Segura durante 20 años (1995-2015) y expresidente de la Mancomunidad del Valle de Ricote, acusado de liderar un entramado criminal dedicado a múltiples actividades delictivas que incluyen emisión de facturas falsas, malversación de fondos públicos, prevaricación, fraude fiscal y blanqueo de capitales.
-
-  La trama operaba desde la asesoría Grupo Gescom y la firma Gesaldi Gestiones Contables, donde López Ayala y Brígido Palazón Garrido (entonces concejal de Archena) habrían creado en 2008 un entramado de sociedades ficticias para emitir facturas falsas valoradas en más de 5,5 millones de euros entre 2008 y 2012. Estas sociedades, que incluían Ingermedia SL, Urbagestión 2007 SL, Desagest 2007 SL, Praetermedia SL, Gestionet SL, Obras y Canales de Murcia SL y Estudios Financieros y Obras SL, no contaban con trabajadores dados de alta, tenían domicilios sociales ficticios, no declaraban compras a terceros y carecían de patrimonio real. Las facturas falsas eran adquiridas por clientes reales de la asesoría a cambio del pago del 25% del IVA (aproximadamente 221.000 euros), incorporándolas irregularmente a sus declaraciones tributarias para desgravar impuestos. Además, López Ayala habría adjudicado de forma directa e irregular un contrato de mejora de la instalación eléctrica del centro de mayores a la firma Ingeniería Interior Valle SL, desviando fondos públicos municipales y creando ficticiamente tres presupuestos para simular la legalidad de la adjudicación.
-
-  La investigación judicial desarrollada durante casi seis años en el Juzgado de Instrucción número 4 de Cieza reveló que López Ayala y su esposa contrataron entre 2006 y 2013 varios préstamos por un importe total cercano al millón de euros, que fueron amortizados mediante ingresos en metálico que superaron los 122.000 euros, evidenciando operaciones de blanqueo de capitales. El fiscal Miguel de Mata, especialista en delitos urbanísticos y contra el medio ambiente, solicitó la transformación del procedimiento a fase de juicio oral, acumulando contra el exalcalde imputaciones por falsedad en documento mercantil, dos delitos de falsificación de documentos públicos, negociaciones prohibidas a funcionarios, dos delitos de prevaricación, malversación de fondos públicos, blanqueo de capitales y pertenencia a organización criminal. Tras la detención en marzo de 2014, López Ayala fue expulsado del PP y no volvió a encabezar la candidatura popular en las elecciones municipales de mayo de 2015, perdiendo la alcaldía ante el socialista Jesús Viciana.
-
-resumen: "Entramado de facturas falsas, malversación y blanqueo de capitales liderado por el alcalde del PP de Villanueva del Río Segura"
-coste: 5500000
-lugar: "Villanueva del Río Segura, Valle de Ricote, Archena, Región de Murcia"
+fechaFin: ''
+estado: condenas comunicadas
+descripcion: 'Valley investigó la emisión de facturas falsas desde una asesoría y presuntas irregularidades en la
+  contratación municipal de Villanueva del Río Segura. La causa afecta al exalcalde del PP José Luis López Ayala
+  y al exconcejal de Archena Brígido Palazón, de Unión Independiente del Pueblo, entre otras personas. En mayo de
+  2026, Radio Murcia/EFE informó de condenas tras un acuerdo de conformidad: 19 meses de prisión para López Ayala
+  y cinco meses y nueve días para Palazón. No se ha obtenido la sentencia original para contrastar su fecha, todos
+  los pronunciamientos individuales, firmeza, recursos y condiciones de suspensión hasta el 15 de octubre de 2026.
+  La deducción de testimonio por posible delito electoral comunicada en 2015 debe distinguirse del resultado informado
+  en 2026. Los seis millones aproximados citados por la prensa son el valor de facturas falsas, no una pérdida pública
+  global declarada judicialmente. Faltan también los desenlaces de todas las personas y hechos investigados, por
+  lo que estas condenas no se extienden a todo el expediente.'
+resumen: Investigación sobre facturas falsas y contratación municipal en Murcia; condenas de conformidad comunicadas
+  en mayo de 2026, con fallo completo y firmeza pendientes de contraste.
+lugar: Villanueva del Río Segura y Archena, Región de Murcia
 tribunal:
-  - "Juzgado de Primera Instancia e Instrucción número 4 de Cieza - Juez Carmen de las Nieves Martín - Fiscal Miguel de Mata"
-numeroSentencia: ""
+- Juzgado de Primera Instancia e Instrucción n.º 4 de Cieza
+- Audiencia Provincial de Murcia
 implicados:
-  - nombre: "José Luis López Ayala"
-    cargo: "Alcalde de Villanueva del Río Segura (PP, 1995-2015), expresidente de la Mancomunidad del Valle de Ricote"
-    rol: "Imputado por organización criminal, falsedad documental, prevaricación, malversación, blanqueo de capitales y fraude fiscal"
-
-  - nombre: "Brígido Palazón Garrido"
-    cargo: "Concejal de Archena (UIP)"
-    rol: "Imputado por crear entramado de sociedades ficticias para emitir facturas falsas"
-
-  - nombre: "José Andrés Díaz Marín"
-    cargo: "Empresario, testaferro"
-    rol: "Imputado por constituir sociedades ficticias y colaborar en blanqueo de capitales"
-
-  - nombre: "Antonio Francisco Rojo Campoy"
-    cargo: "Propietario de empresas inmobiliarias"
-    rol: "Imputado por participación en el entramado"
-
-  - nombre: "Elías B.S."
-    cargo: "Administrador de Ingeniería Interior Valle SL"
-    rol: "Receptor de fondos públicos desviados mediante contratos irregulares"
-
+- nombre: José Luis López Ayala
+  cargo: Exalcalde de Villanueva del Río Segura (PP)
+  rol: Condena de 19 meses de prisión comunicada por Radio Murcia/EFE en mayo de 2026 tras conformidad; falta el
+    fallo original para precisar todas las penas, recursos y firmeza.
+- nombre: Brígido Palazón Garrido
+  cargo: Exconcejal de Archena, de Unión Independiente del Pueblo
+  rol: Condena de cinco meses y nueve días por falsedad mercantil comunicada en mayo de 2026; la información recoge
+    retirada de la acusación por negociaciones prohibidas. Firmeza no verificada.
+- nombre: José Andrés Díaz Marín
+  cargo: Empresario vinculado a la asesoría investigada
+  rol: Incluido en el procedimiento abreviado descrito en 2019 y mencionado como tercer acusado en la cobertura
+    de 2026. No se ha verificado su resultado individual.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "fraude fiscal"
-  - "blanqueo de capitales"
-  - "falsedad documental"
-  - "organización criminal"
-  - "facturas falsas"
-  - "contratos públicos"
-
-impactoSocial: "El Caso Valley provocó la expulsión de José Luis López Ayala del PP y su derrota electoral en mayo de 2015, poniendo fin a 20 años de gobierno del PP en Villanueva del Río Segura. El caso evidenció la existencia de un entramado criminal complejo en la administración local murciana dedicado al fraude fiscal sistemático y la malversación de fondos públicos municipales."
-
+- facturas falsas
+- contratación pública
+- falsedad documental
+- conformidad
+impactoSocial: El caso concierne a la relación entre actividad privada de asesoría y responsabilidades municipales.
+  Su larga tramitación y el acuerdo de conformidad de 2026 requieren distinguir las acusaciones iniciales de los
+  delitos y penas finalmente comunicados.
 documentos: []
-
 cronologia:
-  - fecha: 2006-01-01
-    titulo: "Inicio de operaciones de blanqueo de capitales"
-    descripcion: "José Luis López Ayala y su esposa comienzan a contratar préstamos que posteriormente serán amortizados con dinero en metálico de origen irregular. Entre 2006 y 2013 contratarán préstamos por casi un millón de euros que pagarán con ingresos en efectivo superiores a 122.000 euros, evidenciando operaciones de blanqueo de capitales."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Valley&numero=378"
-
-  - fecha: 2008-01-01
-    titulo: "Creación del entramado de sociedades ficticias"
-    descripcion: "Desde la asesoría Grupo Gescom y la firma Gesaldi Gestiones Contables, López Ayala y Brígido Palazón crean un entramado de sociedades ficticias para la emisión de facturas falsas. José Andrés Díaz Marín constituye numerosas empresas instrumentales como Ingermedia SL, Urbagestión 2007 SL, Desagest 2007 SL, Praetermedia SL, Gestionet SL, Obras y Canales de Murcia SL y Estudios Financieros y Obras SL, todas sin trabajadores, con domicilios ficticios y sin patrimonio real."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Valley&numero=378"
-
-  - fecha: 2012-12-31
-    titulo: "Fin de la operación de facturas falsas"
-    descripcion: "Finaliza el periodo de emisión de facturas falsas por parte del entramado criminal. Entre 2008 y 2012, las sociedades ficticias habrían emitido facturas por un valor superior a 5,5 millones de euros. Los clientes de la asesoría adquirían estas facturas falsas pagando el 25% del IVA (aproximadamente 221.000 euros) para incorporarlas irregularmente a sus declaraciones tributarias y desgravar impuestos de forma fraudulenta."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Valley&numero=378"
-
-  - fecha: 2014-03-01
-    titulo: "Detención de José Luis López Ayala y Brígido Palazón"
-    descripcion: "La Policía Nacional de Murcia detiene al alcalde de Villanueva del Río Segura, José Luis López Ayala, y al concejal de Unión Independiente del Pueblo (UIP) de Archena, Brígido Palazón Garrido, en el marco de actuaciones declaradas secretas ordenadas por el Juzgado de Instrucción número 4 de Cieza. Ambos son investigados por presuntos delitos de malversación de caudales públicos, fraude a la Hacienda Pública, falsedad documental, blanqueo de capitales y pertenencia a organización criminal. López Ayala es puesto en libertad tras prestar declaración."
-    type: "detención"
-    urls:
-      - "https://ecodiario.eleconomista.es/politica-eD/noticias/5607798/03/14/Detienen-al-alcalde-de-Villanueva-Murcia-y-a-un-concejal-de-la-oposicion-de-Archena.html"
-      - "https://www.eldiario.es/murcia/politica/alcalde-villanueva-pp-investigado-electoral_1_4290011.html"
-
-  - fecha: 2015-04-01
-    titulo: "Deducción de testimonio por delito electoral"
-    descripcion: "El Juzgado de Instrucción número 4 de Cieza, que investiga la presunta trama de corrupción denominada 'Valley', ordena deducir testimonio contra el alcalde José Luis López Ayala por un supuesto delito electoral adicional a los delitos previamente investigados de malversación, fraude, falsedad documental y blanqueo de capitales."
-    type: "imputación"
-    urls:
-      - "https://www.eldiario.es/murcia/politica/alcalde-villanueva-pp-investigado-electoral_1_4290011.html"
-
-  - fecha: 2015-04-15
-    titulo: "Posible expulsión de López Ayala del PP"
-    descripcion: "La dirección del Partido Popular en la Región de Murcia anuncia que podría expulsar al alcalde de Villanueva del Río Segura, José Luis López Ayala, quien también era presidente del Partido Popular en la localidad del Valle de Ricote. La decisión se produce tras conocerse que fue detenido un año antes y que está acusado de múltiples delitos, incluida pertenencia a organización criminal y fraude electoral."
-    type: "expulsión"
-    urls:
-      - "http://vegamediapress.com/art/10880/el-pp-expulsara-del-partido-al-alcalde-de-villanueva-del-rio-segura"
-
-  - fecha: 2015-05-24
-    titulo: "López Ayala no encabeza la candidatura del PP y pierde la alcaldía"
-    descripcion: "En las elecciones municipales del 24 de mayo de 2015, José Luis López Ayala no encabeza la candidatura del Partido Popular en Villanueva del Río Segura. El PP pierde el gobierno municipal tras 20 años. El 13 de junio de 2015, Jesús Viciana del Partido Socialista se convierte en el nuevo alcalde de Villanueva del Río Segura, poniendo fin a dos décadas de gobierno de López Ayala."
-    type: "elecciones"
-    urls:
-      - "http://vegamediapress.com/not/12175/el-pp-de-villanueva-se-desintegra-mientras-sigue-al-mando-el-presunto-corrupto-jose-luis-lopez-ayala"
-
-  - fecha: 2020-01-01
-    titulo: "Fiscal solicita transformación a procedimiento abreviado"
-    descripcion: "Tras casi seis años de instrucción en el Juzgado de Cieza, el fiscal Miguel de Mata, especialista en delitos urbanísticos y contra el medio ambiente, solicita a la juez Carmen de las Nieves Martín dictar auto de transformación en procedimiento abreviado, paso previo a la apertura de juicio oral. Las imputaciones del Ministerio Público se dividen en cinco bloques: trama de facturas falsas, contratos irregulares con administraciones públicas, prevaricación y falsedad documental en adjudicaciones, malversación de fondos públicos y blanqueo de capitales."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Valley&numero=378"
+- fecha: '2014-03-10'
+  titulo: Detenciones del alcalde y de un concejal de Archena
+  descripcion: La información de agencias comunica las detenciones de López Ayala y Palazón por orden del Juzgado
+    n.º 4 de Cieza, en una causa secreta relacionada con la asesoría. No se utiliza el día 1 de marzo de la ficha
+    anterior.
+  urls:
+  - https://www.libertaddigital.com/espana/2014-03-10/detienen-al-alcalde-de-villanueva-del-segura-y-a-un-edil-de-archena-1276512708/
+  type: detencion
+  relevancia: alta
+- fecha: '2015-04-06'
+  titulo: Se conoce la deducción de testimonio por posible delito electoral
+  descripcion: elDiario.es informa de un auto notificado ese lunes que ordena deducir testimonio a partir de indicios
+    de Valley. No es una condena electoral; el alcalde negó los hechos. Fecha de notificación y publicación, no
+    día de firma verificado.
+  urls:
+  - https://www.eldiario.es/murcia/politica/alcalde-villanueva-pp-investigado-electoral_1_4290011.html
+  type: investigacion
+  relevancia: alta
+- fecha: '2019-12-05'
+  titulo: Se conoce el pase a procedimiento abreviado
+  descripcion: Murcia Plaza/EFE comunica la resolución respecto a López Ayala, Palazón y otras personas. También
+    recoge sobreseimientos para ocho investigados, sin precisar aquí su identidad y modalidad. Se abre el trámite
+    de acusación o petición de archivo, no se dicta sentencia.
+  urls:
+  - https://murciaplaza.com/murciaplaza/procesan-al-exalcalde-de-villanueva-y-a-un-exconcejal-archenero-por-presunta-corrupcion
+  type: imputacion
+  relevancia: alta
+- fecha: '2026-05-05'
+  titulo: Conformidad y condenas comunicadas al inicio del juicio
+  descripcion: Radio Murcia/EFE informa de penas para López Ayala y Palazón; RTVE confirma que reconocieron hechos
+    al inicio de la vista. Se fecha la difusión y la comparecencia, sin atribuir ese día a una sentencia escrita
+    no obtenida. La información no acredita la firmeza de todo el procedimiento.
+  urls:
+  - https://cadenaser.com/murcia/2026/05/05/acuerdo-entre-fiscalia-y-las-defensas-del-caso-valley-acusados-de-crear-sociedades-para-emitir-facturas-falsas-que-llegaron-a-sumar-6-millones-de-euros-radio-murcia/
+  - https://www.rtve.es/play/videos/noticias-murcia/dos-principales-acusados-caso-valley-no-ingresaran-prision-acuerdo-fiscalia/17054780/?outputType=amp
+  type: sentencia
+  relevancia: alta
 ---
+
+El asunto tuvo una vertiente relativa a facturas emitidas desde sociedades vinculadas a una asesoría y otra sobre decisiones y contratos municipales. Las sospechas sobre préstamos, ingresos en efectivo y sociedades interpuestas descritas durante la instrucción no se convierten, por sí solas, en prueba de todos los delitos atribuidos inicialmente.
+
+La cobertura de 2019 describe indicios de facturación ficticia y adjudicación directa de obras, y sitúa el comienzo de la investigación a finales de 2013. No permite fijar un día exacto de apertura. La resolución entonces comunicada era de procedimiento abreviado, con traslado a las acusaciones, y contenía también archivos. Se elimina el hito ficticio del 1 de enero de 2020 que confundía la petición fiscal con una decisión judicial.
+
+La información de mayo de 2026 supone una actualización sustancial respecto a mantener el caso simplemente en investigación. Radio Murcia/EFE comunica penas acordadas, mientras RTVE describe el reconocimiento de hechos al comenzar el juicio. No se dispone del fallo que permita reconciliar de forma completa el acuerdo, la sentencia y su ejecución respecto de todas las personas. Las afirmaciones periodísticas sobre que no habría ingreso en prisión no se sustituyen por una comprobación del auto de suspensión o de sus condiciones.
+
+Se retira el coste de 5,5 millones: la cobertura más reciente habla de alrededor de seis millones en facturas falsas. Ninguna de ambas cantidades equivale automáticamente a deuda tributaria, responsabilidad civil, beneficio de la asesoría o daño municipal. Tampoco el valor de préstamos y los ingresos en efectivo investigados pueden sumarse como un perjuicio público declarado.
+
+La lista de personas identificadas es parcial. No se mantiene a Antonio Francisco Rojo Campoy ni a una persona citada únicamente como Elías B. S. bajo una condición procesal actual que no se ha podido contrastar con fuentes suficientes. Su omisión no afirma que fueran absueltos ni que quedaran al margen de la investigación inicial. Falta el resultado individual de Díaz Marín y de los demás afectados por los archivos y el juicio.
+
+La deducción de testimonio por posible delito electoral de 2015 tiene un objeto que no debe darse por resuelto con las condenas de conformidad comunicadas en 2026. Tampoco se mantienen como hechos acreditados la expulsión del PP o el efecto causal sobre las elecciones de 2015 sin documentación suficiente. Las lagunas pendientes impiden afirmar que todas las vertientes del expediente hayan concluido o que las condenas comunicadas sean firmes.
