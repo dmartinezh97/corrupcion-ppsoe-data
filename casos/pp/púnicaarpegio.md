@@ -1,99 +1,97 @@
 ---
-nombre: "Púnica/Arpegio"
+nombre: Púnica / Arpegio y Mintra
 partido: PP
-completado: true
+completado: false
 año: 2014
-fechaInicio: 2003-01-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  La pieza Arpegio de la Operación Púnica investiga el desfalco de la empresa pública Arpegio —posteriormente Nuevo Arpegio—, dependiente de la Comunidad de Madrid y encargada de la gestión del suelo público regional. Bajo el control de Francisco Granados como consejero de Presidencia y Justicia, Arpegio se convirtió en un instrumento al servicio de los intereses del PP y de la red clientelar de empresas constructoras y promotoras que pagaban comisiones a cambio de ser favorecidas en la adjudicación de suelo público.
-
-  Según el juez Manuel García Castellón, el suelo público de la región se convirtió durante el período investigado en "un botín a repartir y el motor de una red clientelar de empresas promotoras y constructoras que, a cambio del pago de comisiones en efectivo y regalos, fueron favorecidas con las parcelas deseadas, con violación de la legalidad". La empresa ejecutaba además los planes PRISMA de la Comunidad con 300 millones de euros para construir equipamientos públicos en municipios madrileños, ámbito también presuntamente contaminado por las irregularidades.
-
-  La investigación se topó con un grave obstáculo: Nuevo Arpegio reconoció ante el juez que, a pesar de una "intensa búsqueda", no había podido encontrar varios contratos firmados con la empresa DUSA (Análisis y Gestión de Desarrollos Urbanísticos) que podrían implicar directamente a Granados. La desaparición de documentos dificulta la instrucción, aunque el juez García Castellón procesó a Granados y a 42 personas más en la pieza 8 del caso.
-
-resumen: "Uso fraudulento de la empresa pública Arpegio para adjudicar suelo público de la Comunidad de Madrid a promotoras afines al PP a cambio de comisiones, con desaparición de documentos clave"
-coste: 15000000
-lugar: "Comunidad de Madrid"
+fechaFin: ''
+estado: pendiente de juicio
+descripcion: 'La pieza 8 de Púnica aborda presuntas irregularidades entre 2003 y 2011 en adjudicaciones de suelo
+  de Arpegio, actuaciones del Plan Prisma y contratos de infraestructuras de Mintra. En junio de 2024 el instructor
+  propuso juzgar a Francisco Granados y otras 42 personas; no fue una condena. El 26 de mayo de 2026 se difundió
+  la apertura de juicio oral contra Granados y otras 40 personas, entre ellas David Marjaliza y Javier López Madrid.
+  Anticorrupción solicita 42 años de prisión para Granados, 17 años y nueve meses para Marjaliza y 15 para López
+  Madrid: son peticiones, no penas impuestas. No se han verificado los autos originales, el alcance de los recursos
+  de 2025, la lista completa y situación de los acusados ni un señalamiento o resolución posterior hasta el 15 de
+  octubre de 2026. Las condenas de otras piezas de Púnica y las decisiones de Lezo no resuelven esta pieza. No consta
+  aquí un daño total judicialmente fijado; se elimina la cifra de 15 millones que no tenía respaldo suficiente.'
+resumen: Pieza de Púnica sobre suelo público, obras Prisma e infraestructuras de transporte de Madrid; apertura
+  de juicio oral difundida en mayo de 2026, con alcance individual y evolución posterior pendientes de contraste
+  completo.
+lugar: Comunidad de Madrid
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 6 - Juez Eloy Velasco (inicialmente)"
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 6 - Juez Manuel García Castellón"
-numeroSentencia: ""
+- Audiencia Nacional — Juzgado Central de Instrucción n.º 6
 implicados:
-  - nombre: "Francisco Granados Lerena"
-    cargo: "Exsecretario general del PP de Madrid, exconsejero de Presidencia y Justicia de la Comunidad de Madrid"
-    rol: "Principal investigado; habría controlado Arpegio para adjudicar suelo a empresas de la red a cambio de comisiones; procesado junto a 42 personas más en la pieza 8"
-
-  - nombre: "David Marjaliza López"
-    cargo: "Empresario, operador de la trama Púnica"
-    rol: "Actuaba como intermediario entre las empresas constructoras que querían suelo y los cargos del PP que controlaban Arpegio"
-
-  - nombre: "Directivos de Arpegio/Nuevo Arpegio"
-    cargo: "Cargos directivos de la empresa pública"
-    rol: "Varios directivos procesados por su participación en la adjudicación irregular de suelo público y la presunta destrucción de contratos comprometedores"
-
+- nombre: Francisco Granados Lerena
+  cargo: Exconsejero de Transportes y posteriormente de Presidencia, Justicia e Interior; exsecretario general del
+    PP de Madrid
+  rol: Acusado en la pieza 8; apertura de juicio oral difundida en mayo de 2026. Anticorrupción solicita 42 años
+    de prisión, sin condena verificada aquí.
+- nombre: David Marjaliza López
+  cargo: Empresario constructor
+  rol: Acusado en la pieza 8 por su presunta intervención en adjudicaciones y contraprestaciones; Anticorrupción
+    solicita 17 años y nueve meses de prisión.
+- nombre: Javier López Madrid
+  cargo: Empresario y exconsejero de OHL
+  rol: Acusado en la pieza 8; Anticorrupción solicita 15 años de prisión. Su situación en Lezo u otros procedimientos
+    es independiente.
+- nombre: María Nieves Alarcón
+  cargo: Esposa de Francisco Granados
+  rol: Incluida en la propuesta de enjuiciamiento de 2024 por presunto uso de fondos de Arpegio para obsequios privados;
+    la cobertura de 2026 la sitúa entre quienes serán juzgados. Pendiente contraste individual del auto original.
+- nombre: José Luis Ulibarri
+  cargo: Empresario
+  rol: Archivo de esta pieza comunicado en junio de 2024, junto con otros tres investigados no identificados aquí.
+    Tipo de sobreseimiento, recursos y firmeza no verificados.
 tags:
-  - "corrupción"
-  - "urbanismo"
-  - "malversación"
-  - "prevaricación"
-  - "cohecho"
-  - "empresa pública"
-  - "suelo público"
-  - "organización criminal"
-
-impactoSocial: "El caso Arpegio puso de manifiesto cómo el suelo público de la Comunidad de Madrid —un bien escaso y de enorme valor— se distribuyó durante años como un botín político para enriquecer a empresas cercanas al PP. La investigación del juez García Castellón sobre sobrecostes en obras públicas por valor de 1.000 millones de euros adjudicadas en cinco años amplió el escándalo. La desaparición de documentos clave impidió esclarecer la totalidad de las irregularidades."
-
-documentos: null
-
+- Operación Púnica
+- contratación pública
+- suelo público
+- Arpegio
+- Mintra
+impactoSocial: La investigación concierne a la gestión de suelo para vivienda y a obras públicas de transporte y
+  equipamientos municipales. La duración del procedimiento y las dificultades para recuperar documentación tienen
+  relevancia pública; no acreditan por sí solas la culpabilidad de cada investigado.
+documentos: []
 cronologia:
-  - fecha: 2003-01-01
-    titulo: "Arpegio bajo el control de Francisco Granados como consejero"
-    descripcion: "Arpegio, la empresa pública de la Comunidad de Madrid encargada de la gestión del suelo regional, queda bajo la órbita de Francisco Granados cuando éste asume la Consejería de Presidencia y Justicia. La empresa ejecuta los planes PRISMA con 300 millones de euros para construir equipamientos públicos en municipios madrileños."
-    type: "investigación"
-    relevancia: "media"
-    urls: []
-
-  - fecha: 2007-01-01
-    titulo: "El suelo público de la región como 'botín a repartir'"
-    descripcion: "Durante el boom inmobiliario, Arpegio adjudica terrenos públicos de la Comunidad de Madrid a promotoras y constructoras afines al PP a cambio de comisiones en metálico y regalos. Según el auto del juez García Castellón, el suelo se convierte en 'un botín a repartir y el motor de una red clientelar' que viola sistemáticamente la normativa de contratación pública."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.infolibre.es/politica/juez-punica-rastrea-sobrecostes-obras-comunidad-madrid-adjudico-cinco-anos-1-000-millones_1_1127249.html"
-
-  - fecha: 2014-10-27
-    titulo: "Operación Púnica: Arpegio en el foco de la investigación"
-    descripcion: "La macroredada del 27 de octubre de 2014 incluye registros en la sede de Arpegio. Los investigadores buscan documentación sobre la adjudicación de suelo público, contratos con empresas vinculadas a la trama y pagos de comisiones. La pieza Arpegio se convierte en una de las más complejas del caso por el volumen de operaciones irregulares detectadas."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.vozpopuli.com/espana/Punica-investiga-corrupcion-desfalco-Arpegio_0_1037897516.html"
-
-  - fecha: 2015-01-01
-    titulo: "Desaparecen contratos de Arpegio que incriminarían a Granados"
-    descripcion: "Nuevo Arpegio comunica al juez que no ha podido encontrar varios contratos firmados con la empresa DUSA que podrían implicar directamente a Francisco Granados. La empresa pública afirma haber realizado una 'intensa búsqueda' sin resultado. La desaparición de los documentos genera sospechas de destrucción de pruebas."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/politica/desaparecen-varios-contratos-trama-punica-incriminarian-granados.html"
-      - "https://www.eldiario.es/politica/desaparecen-documentos-punica-comunidad-madrid_1_3287085.html"
-
-  - fecha: 2015-09-01
-    titulo: "El juez rastrea sobrecostes por 1.000 millones en obras de la Comunidad"
-    descripcion: "El juez de la Audiencia Nacional abre una investigación sobre los sobrecostes generados en obras públicas adjudicadas por la Comunidad de Madrid en un período de cinco años por valor de 1.000 millones de euros. Los primeros indicios apuntan a que los sobrecostes eran el mecanismo principal para generar las comisiones que financiaban a la red Púnica."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.infolibre.es/politica/juez-punica-rastrea-sobrecostes-obras-comunidad-madrid-adjudico-cinco-anos-1-000-millones_1_1127249.html"
-
-  - fecha: 2019-01-01
-    titulo: "El juez procesa a Granados y 42 personas por la pieza 8 (Arpegio)"
-    descripcion: "El juez Manuel García Castellón dicta auto de procesamiento contra Francisco Granados y otras 42 personas en la pieza 8 del caso Púnica por las presuntas irregularidades en la adjudicación de suelo público de la Comunidad de Madrid y de obras en la red de metro, todo ello bajo el paraguas de Arpegio como instrumento ejecutor."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "https://okdiario.com/investigacion/granados-solo-nombro-1-11-responsables-arpegio-imputados-trama-punica-1171469"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+P%C3%BAnica/Arpegio&numero=484"
+- fecha: '2017-07-11'
+  titulo: Se informa de contratos originales no localizados
+  descripcion: Público, citando a El País, recoge la comunicación de Nuevo Arpegio sobre contratos de DUSA no hallados
+    tras requerimientos de mayo de 2017. La empresa indicaba que había aportado copias parciales y que desconocía
+    si la desaparición fue voluntaria; no se acredita una destrucción delictiva.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://www.publico.es/politica/desaparecen-varios-contratos-trama-punica-incriminarian-granados.html
+- fecha: '2024-06-13'
+  titulo: Se conoce el pase a procedimiento abreviado de la pieza 8
+  descripcion: Europa Press informa de la propuesta de juzgar a Granados y otras 42 personas por suelo e infraestructuras,
+    y del archivo para cuatro investigados, incluido Ulibarri. La Memoria de la Audiencia Nacional de 2024 corrobora
+    este hito. No equivale a apertura de juicio oral ni a condena.
+  type: imputacion
+  relevancia: alta
+  urls:
+  - https://www.europapress.es/nacional/noticia-juez-punica-propone-juzgar-granados-irregularidades-adjudicaciones-etapa-consejero-20240613145146.html
+  - https://www.poderjudicial.es/stfls/AUDIENCIA%20NACIONAL/MEMORIAS/20251008%20Memoria%20AN%202024.pdf
+- fecha: '2026-05-26'
+  titulo: Se conoce la apertura de juicio oral
+  descripcion: 'La información sobre el auto de Antonio Piña sitúa a Granados y otras 40 personas ante juicio por
+    la pieza 8. Se usa la fecha de publicación: las fuentes discrepan sobre el día del auto y no se dispone del
+    original. La apertura no significa que la vista haya comenzado.'
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://www.ondavasca.com/a-juicio-granados-y-otras-40-personas-por-presunta-corrupcion-en-contratos-de-suelo-publico-y-transportes/
+  - https://www.lasexta.com/noticias/nacional/audiencia-nacional-abre-nuevo-juicio-granados-otros-40-acusados-punica_202605266a1602e57e0b46320799faae.html
 ---
+
+La pieza 8 reúne operaciones de la empresa regional de suelo Arpegio y de la entidad de infraestructuras de transporte Mintra. El período material investigado es 2003–2011; no se conoce un día inicial que permita fecharlo el 1 de enero de 2003. La propuesta de enjuiciamiento se difundió en junio de 2024 y la apertura de juicio oral en mayo de 2026. Son fases distintas.
+
+Según la investigación descrita por Europa Press, la operativa habría favorecido a empresas mediante la selección de adjudicatarios y la modificación de contratos. Entre los proyectos se encuentran Ciudad Jardín de Arroyomolinos y actuaciones de Metro Sur, Metro Norte y Metro Ligero a Boadilla. Se trata de atribuciones de la instrucción pendientes de juicio, no de hechos declarados probados en esta ficha.
+
+La propuesta de 2024 atribuyó además al matrimonio Granados-Alarcón obsequios privados navideños de 2006 y 2007 sufragados desde Arpegio, por 100.139,17 euros. Es una partida presuntamente desviada según el instructor, no el daño total de toda la pieza. Los importes presupuestados para Prisma, el valor de las obras, las comisiones investigadas y las responsabilidades civiles solicitadas no se suman como una sola pérdida pública. La cobertura de 2026 contiene cifras de responsabilidad civil con formato discordante, que no se reproducen sin el original.
+
+En 2017 se informó de que faltaban originales de contratos y actas. La empresa también decía disponer de copias parciales y desconocer la causa de la falta de documentos. Esa información no autoriza a imputar a todos los directivos una destrucción de pruebas ni a afirmar que impidió definitivamente esclarecer la causa.
+
+La lista nominal no es exhaustiva. La diferencia entre las 43 personas de la propuesta de 2024 y las 41 de la apertura difundida en 2026 no permite deducir por sí sola quién salió del procedimiento ni por qué. Faltan los autos para precisar todos los acusados, delitos, archivos y recursos individuales, incluidos los recursos reseñados en repertorios durante 2025.
+
+La pieza 9 sobre financiación del PP de Madrid, la pieza de Waiter Music y Lezo tienen objetos y resoluciones propios. La participación de una misma persona o de entidades relacionadas con Arpegio no permite trasladar una condena, absolución, archivo o firmeza de un procedimiento a otro. El último hito contrastado aquí es la apertura difundida en mayo de 2026: no se afirma que el juicio siguiera pendiente en octubre solo por no haber localizado más noticias.
