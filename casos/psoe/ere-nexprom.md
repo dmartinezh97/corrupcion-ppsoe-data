@@ -19,7 +19,7 @@ implicados:
   cargo: Exdirector general de Trabajo y Seguridad Social de la Junta de Andalucía
   rol: Investigado en la apertura de la pieza divulgada en junio de 2017. Falleció en octubre de 2020; no se acredita
     aquí la resolución específica dictada por ese fallecimiento.
-- nombre: Daniel Alberto Rivera Gómez
+- nombre: Daniel Alberto Rivera
   cargo: Exdirector general de Trabajo y Seguridad Social de la Junta de Andalucía
   rol: Investigado en la apertura de la pieza divulgada en junio de 2017; desenlace individual de Nexprom no documentado.
 - nombre: Ángel Quesada del Valle
