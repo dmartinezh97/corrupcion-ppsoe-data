@@ -1,108 +1,142 @@
 ---
-nombre: "ERE/Egmasa"
-partido: "PSOE"
-completado: true
-año: 2021
-fechaInicio: "2003-06-30"
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El caso ERE/Egmasa es una pieza separada del macrocaso de los ERE de Andalucía que investiga ayudas irregulares por más de 21 millones de euros concedidas a la empresa pública Egmasa (Empresa de Gestión Medioambiental S.A.) para financiar un expediente de regulación de empleo. La empresa pública, dependiente de la Consejería de Medio Ambiente de la Junta de Andalucía, presentó en 2003 una solicitud de ERE para extinguir 373 contratos de trabajadores, alegando causas productivas y organizativas vinculadas a la necesidad de renovar la plantilla de personas de mayor edad por su incapacidad física para el desempeño de su trabajo dentro del Plan INFOCA.
+nombre: ERE/Egmasa
+partido: PSOE
+completado: false
+año: 2003
+fechaFin: ''
+estado: archivo parcial
+descripcion: 'Esta pieza de los ERE se refiere a las ayudas para financiar prejubilaciones de trabajadores de la
+  empresa pública Egmasa y a determinadas inclusiones en pólizas. Un auto de 27 de septiembre de 2021 acordó continuar
+  por procedimiento abreviado contra nueve personas por posibles delitos de prevaricación y malversación. No fue
+  el inicio de la investigación ni una condena.
 
-  El juez considera que las ayudas concedidas a Egmasa "carecerían de objeto definido y concreto, se llevaron a efecto de forma injusta y arbitraria prescindiendo del procedimiento legalmente establecido". Además, "se concedieron por el correspondiente director general de Trabajo sin competencia para ello, sin resolución motivada y justificada de concesión, sin acreditación de los requisitos necesarios para su obtención". La investigación judicial determinó que estos hechos podrían ser constitutivos de presuntos delitos de malversación y prevaricación administrativa.
 
-  Esta pieza forma parte de un mastodonte procesal dividido en casi 140 piezas del caso ERE, que incluye ayudas millonarias a empresas afines al PSOE-A, subvenciones dilapidadas y comisiones ilegales a sindicatos. Egmasa fue integrada en 2011 en la Agencia de Medio Ambiente y Agua (Amaya).
+  El auto 85/2025 de la Sección Séptima de la Audiencia Provincial de Sevilla, de 27 de enero, estimó los recursos
+  de cuatro personas y acordó su sobreseimiento provisional y archivo. La prensa identifica entre los beneficiados
+  a Daniel Alberto Rivera y Antonio Perianes; el original anonimiza los cuatro nombres. No se ha contrastado de
+  forma segura la correspondencia nominal de los otros dos ni el desenlace del resto de investigados.
 
-resumen: "Pieza del caso ERE que investiga 21 millones en ayudas irregulares a la empresa pública Egmasa"
-coste: 21600000
-lugar: "Andalucía, España"
+
+  El auto también eliminó la referencia a Egmasa como responsable civil subsidiaria en la resolución de procedimiento
+  abreviado, sin perjuicio de lo que pudieran pedir después las acusaciones. El recurso de CCOO de Industria se
+  desestimó por pérdida de objeto tras el archivo para su representado. Estas decisiones no equivalen a una absolución
+  global ni al cierre definitivo de toda la pieza.
+
+
+  Los 21.673.680,62 euros citados por la investigación corresponden al importe de ayudas examinado; no se incorporan
+  como daño firme. Faltan los desenlaces de todos los afectados y las actuaciones posteriores hasta el 15 de octubre
+  de 2026. El auto no admitía recurso ordinario, pero no se ha verificado el recorrido posterior; el carácter provisional
+  del archivo debe conservarse. No se trasladan a Egmasa automáticamente las decisiones de la pieza política ni
+  la cuestión ante el TJUE.'
+resumen: 'Ayudas a prejubilaciones de Egmasa: archivo provisional para cuatro recurrentes en enero de 2025 y desenlaces
+  restantes no verificados.'
+lugar: Andalucía, España
 tribunal:
-  - "Juzgado de Instrucción - Refuerzo del caso ERE"
-numeroSentencia: ""
+- Juzgado de Instrucción número 6 de Sevilla (DP 2713/2016; PA 170/2021)
+- Audiencia Provincial de Sevilla, Sección Séptima (rollo 716/2022)
+numeroSentencia: Auto 85/2025, de 27 de enero (archivo parcial; no sentencia)
 implicados:
-  - nombre: "Daniel Alberto Rivera"
-    cargo: "Exdirector general de Trabajo y Seguridad Social de la Junta"
-    rol: "Investigado por conceder ayudas sin competencia para ello"
-  - nombre: "Javier Serrano Aguilar"
-    cargo: "Exdirectivo de Egmasa"
-    rol: "Investigado por recibir ayudas irregulares"
-  - nombre: "Juan Jesús Jiménez"
-    cargo: "Exdirectivo de Egmasa"
-    rol: "Investigado por gestión irregular de ayudas"
-  - nombre: "María del Mar Espejo"
-    cargo: "Exdirectiva de Egmasa"
-    rol: "Investigada por gestión irregular de ayudas"
-  - nombre: "Antonio del Valle"
-    cargo: "Exdirectivo de Egmasa"
-    rol: "Investigado por gestión irregular de ayudas"
-  - nombre: "Antonio Perianes"
-    cargo: "Secretario general de la Federación Agroalimentaria de CCOO-Andalucía"
-    rol: "Investigado por participación en el proceso irregular"
-  - nombre: "José Antonio Viera"
-    cargo: "Exconsejero de Empleo de la Junta de Andalucía"
-    rol: "Citado a declarar por la pieza Egmasa"
-  - nombre: "Antonio Fernández"
-    cargo: "Exconsejero de Empleo de la Junta de Andalucía"
-    rol: "Citado a declarar por la pieza Egmasa"
-  - nombre: "Javier Guerrero"
-    cargo: "Exdirector general de Trabajo de la Junta de Andalucía"
-    rol: "Citado a declarar por la pieza Egmasa"
-  - nombre: "Juan Márquez"
-    cargo: "Exdirector general de Trabajo de la Junta de Andalucía"
-    rol: "Citado a declarar por la pieza Egmasa"
-
+- nombre: Daniel Alberto Rivera
+  cargo: Exdirector general de Trabajo y Seguridad Social
+  rol: Sobreseimiento provisional y archivo en enero de 2025 según el auto y la identificación periodística; no
+    se presume archivo definitivo.
+- nombre: Antonio Perianes
+  cargo: Exresponsable de Acción Sindical de la Federación Agroalimentaria de CCOO
+  rol: Sobreseimiento provisional y archivo en enero de 2025, identificado nominalmente por la prensa; no equivale
+    a absolución por sentencia.
+- nombre: Javier Serrano
+  cargo: Exsecretario general y consejero delegado de Egmasa
+  rol: Incluido en la continuación por procedimiento abreviado de 2021; desenlace personal posterior no identificado
+    con seguridad en el original anonimizado de 2025.
+- nombre: Juan Jesús Jiménez Martín
+  cargo: Exdirectivo de Egmasa y exviceconsejero
+  rol: Incluido por su anterior cargo en Egmasa en el auto de 2021; desenlace individual posterior no verificado.
+- nombre: María del Mar Espejo Tudela
+  cargo: Exdirectiva de Egmasa
+  rol: Incluida en el auto de procedimiento abreviado de 2021; desenlace individual posterior no verificado.
+- nombre: Antonio del Valle Jiménez
+  cargo: Exdirectivo de Egmasa
+  rol: Incluido en el auto de procedimiento abreviado de 2021; desenlace individual posterior no verificado.
+- nombre: Pedro García González
+  cargo: Exjefe de división de Recursos Humanos de Egmasa
+  rol: Incluido en el auto de procedimiento abreviado de 2021; desenlace individual posterior no verificado.
+- nombre: Jesús Bordallo
+  cargo: Exdirectivo de la mediadora Vitalia
+  rol: Incluido en el auto de procedimiento abreviado de 2021; no se identifica sin respaldo adicional con uno de
+    los pseudónimos del archivo de 2025.
+- nombre: Antonio Albarracín
+  cargo: Exdirectivo de la mediadora Vitalia
+  rol: Incluido en el auto de procedimiento abreviado de 2021; no se identifica sin respaldo adicional con uno de
+    los pseudónimos del archivo de 2025.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "ayudas públicas irregulares"
-
-impactoSocial: "Esta pieza separada del caso ERE refuerza la dimensión del mayor escándalo de corrupción de la historia de España, afectando a empresas públicas de medio ambiente y evidenciando el sistema de adjudicaciones irregulares de la Junta de Andalucía."
-
-documentos: null
-
+- corrupción
+- malversación
+- prevaricación
+- ayudas públicas irregulares
+impactoSocial: La causa examinó la financiación pública de prejubilaciones y determinadas pólizas de la empresa
+  medioambiental. La Audiencia revisó en 2025 los indicios de varios afectados a la luz de las decisiones constitucionales
+  y de la jurisprudencia del Supremo; el resultado debe precisarse por persona y hecho.
+documentos:
+- fecha: '2025-01-27'
+  titulo: 'Auto 85/2025: recursos de la pieza Egmasa y archivo provisional para cuatro recurrentes (ECLI:ES:APSE:2025:113A)'
+  filetype: pdf
+  paginas: 12
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3b564537ec836103a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2003-06-30"
-    titulo: "Egmasa solicita ERE para 373 trabajadores"
-    descripcion: "La empresa pública Egmasa presenta una solicitud de ERE para la extinción de 373 contratos de trabajadores, alegando causas productivas y organizativas vinculadas con la necesidad de renovar la plantilla de personas de mayor edad por su incapacidad física para el trabajo dentro del Plan INFOCA."
-    type: "resumen"
-    urls:
-      - "https://www.elespanol.com/espana/andalucia/20210929/juez-investiga-implicados-ere-ayudas-millones-egmasa/615439769_0.html"
-  - fecha: "2003-07-01"
-    titulo: "Concesión de ayudas por más de 21 millones de euros"
-    descripcion: "Egmasa recibe 21.673.680,62 euros en ayudas para acometer los despidos del ERE. Según la investigación judicial, estas ayudas fueron concedidas de forma irregular, prescindiendo del procedimiento legalmente establecido y sin competencia por parte del director general de Trabajo."
-    type: "resumen"
-    urls:
-      - "https://www.esdiario.com/andalucia/210928/82631/subvenciones-egmasa-espadas-corrupcion-psoe-andalucia.html"
-  - fecha: "2021-09-29"
-    titulo: "El juez investiga a 9 implicados por ayudas irregulares a Egmasa"
-    descripcion: "El juez de refuerzo del caso ERE abre una investigación sobre las ayudas concedidas a Egmasa, imputando a nueve personas entre exdirectivos de la empresa, ex altos cargos de la Junta de Andalucía y un representante sindical de CCOO. El auto considera que los hechos podrían ser constitutivos de presuntos delitos de malversación y prevaricación administrativa."
-    type: "investigación"
-    urls:
-      - "https://www.elespanol.com/espana/andalucia/20210929/juez-investiga-implicados-ere-ayudas-millones-egmasa/615439769_0.html"
-      - "https://www.libertaddigital.com/andalucia/2021-09-29/la-investigacion-sobre-la-escandalosa-empresa-publica-andaluza-egmasa-debilita-a-juan-espadas-psoe-6822980/"
-  - fecha: "2022-02-10"
-    titulo: "José Antonio Viera citado a declarar"
-    descripcion: "La juez abre una pieza separada contra el exconsejero José Antonio Viera y le cita a declarar por primera vez en relación con las ayudas irregulares a Egmasa. Esta es una de las piezas del macrocaso de los ERE que investigan ayudas a empresas públicas."
-    type: "declaración"
-    urls:
-      - "https://www.vozpopuli.com/espana/Caso_de_los_ERE-Jose_Antonio_Viera-Andalucia_0_884611549.html"
-
-  - fecha: "2025-07-17"
-    titulo: "La Audiencia de Sevilla plantea cuestión prejudicial ante el TJUE sobre el caso ERE"
-    descripcion: "La Audiencia Provincial de Sevilla eleva al Tribunal de Justicia de la UE la cuestión de si el Tribunal Constitucional se extralimitó al anular condenas del caso ERE. Esta decisión podría tener impacto en todas las piezas separadas pendientes del macro-caso ERE, incluida la pieza Egmasa. A fecha de marzo de 2026, el TJUE aún no ha respondido."
-    type: "resumen"
-    urls:
-      - "https://www.elcorreogallego.es/espana/2026/01/07/caso-ere-espera-respuesta-tjue-125437564.html"
-      - "https://elderecho.com/cuestion-prejudicial-ante-el-tjue-sobre-el-caso-ere"
-
-  - fecha: "2026-04-20"
-    titulo: "La Comisión Europea pide al TJUE que se declare incompetente sobre los ERE"
-    descripcion: "La Comisión Europea presenta un escrito ante el Tribunal de Justicia de la UE proponiendo que se declare manifiestamente incompetente para responder a la cuestión prejudicial planteada por la Audiencia de Sevilla sobre la revisión de las condenas anuladas por el Tribunal Constitucional en el caso ERE. La postura del ejecutivo comunitario refuerza la línea de que la cuestión es asunto interno español y debilita la vía abierta por la Audiencia para reconducir las anulaciones del TC, afectando indirectamente a la pieza Egmasa y al resto de causas pendientes del macrocaso."
-    type: "resumen"
-    relevancia: "media"
-    urls:
-      - "https://www.libertaddigital.com/andalucia/2026-04-20/la-comision-europea-esquiva-el-caso-ere-y-pide-a-la-justicia-europea-no-intervenir-7391344/"
-      - "https://theobjective.com/internacional/2026-04-20/comision-europea-tjue-incompetente-caso-ere/"
-      - "https://www.infobae.com/espana/agencias/2026/04/20/la-comision-europea-defiende-que-tjue-es-incompetente-para-pronunciarse-sobre-el-caso-de-los-ere/"
+- fecha: '2003-06-30'
+  titulo: Solicitud del ERE de Egmasa
+  descripcion: La empresa solicitó la extinción de 373 contratos, según los antecedentes judiciales y la información
+    del auto de 2021. No se confunde el número solicitado con las posteriores adhesiones o pólizas.
+  urls:
+  - https://www.elespanol.com/espana/andalucia/20210929/juez-investiga-implicados-ere-ayudas-millones-egmasa/615439769_0.html
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3b564537ec836103a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: resumen
+  relevancia: alta
+- fecha: '2003-09-09'
+  titulo: Acuerdo para la tramitación del ERE
+  descripcion: La información del auto de 2021 recoge un acuerdo entre empresa y trabajadores con indemnizaciones
+    para 348 trabajadores mayores de 55 años. El acuerdo laboral no prueba por sí mismo delito en las ayudas.
+  urls:
+  - https://www.elespanol.com/espana/andalucia/20210929/juez-investiga-implicados-ere-ayudas-millones-egmasa/615439769_0.html
+  type: resumen
+  relevancia: alta
+- fecha: '2021-09-27'
+  titulo: Continuación por procedimiento abreviado para nueve personas
+  descripcion: El instructor trasladó las actuaciones a las acusaciones para solicitar juicio, sobreseimiento o
+    diligencias complementarias. La resolución fue recurrida; no se presenta como una sentencia ni como apertura
+    de juicio oral.
+  urls:
+  - https://www.elespanol.com/espana/andalucia/20210929/juez-investiga-implicados-ere-ayudas-millones-egmasa/615439769_0.html
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3b564537ec836103a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: investigacion
+  relevancia: alta
+- fecha: '2025-01-27'
+  titulo: Archivo provisional para cuatro recurrentes
+  descripcion: El auto 85/2025 revoca el de 2021 respecto de cuatro apelantes. Elimina la mención a Egmasa como
+    responsable civil en esa fase sin perjuicio de pretensiones posteriores y desestima por pérdida de objeto el
+    recurso de CCOO de Industria. No cabe recurso ordinario; no declara el archivo de todos los investigados.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3b564537ec836103a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: recurso
+  relevancia: alta
+- fecha: '2025-02-06'
+  titulo: Se difunden los archivos y se identifica a Rivera y Perianes
+  descripcion: La información periodística sitúa a ambos entre los afectados por el archivo de Egmasa. Los diez
+    investigados mencionados en titulares corresponden al conjunto de Egmasa, A Novo y Siemens, no a diez personas
+    de esta única pieza.
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/audiencia-archiva-causa-diez-investigados_0_2003280896.amp.html
+  - https://www.infobae.com/espana/agencias/2025/02/06/audiencia-materializa-el-archivo-de-causas-contra-investigados-de-los-ere-tras-fallo-de-tc/?outputType=amp-type
+  type: resumen
+  relevancia: alta
 ---
+
+La pieza Egmasa tiene objeto propio. La solicitud laboral de 2003 y las ayudas para financiar sus consecuencias no equivalen a una única transferencia de 21,6 millones en julio de ese año. La información de 2021 diferenciaba ayudas de 21.673.680,62 euros, pagos de IDEA de 16.069.391,88 euros entre 2004 y 2010 y otros 300.000 mediante los denominados pagos cruzados. El auto de apelación reproduce otra formulación de órdenes y pagos; sin una liquidación completa no se suman esos conceptos ni se presenta su total como dinero definitivamente malversado.
+
+La Audiencia analiza separadamente las conductas. Respecto del antiguo director de Trabajo identificado por la prensa como Rivera, explica que no bastaba apoyar la imputación en la irregularidad del procedimiento de concesión sin mencionar falta de fin público o un destino ajeno al programa presupuestario. Respecto del representante sindical, identificado como Perianes, considera insuficientes los indicios de actuaciones distintas de la defensa de trabajadores. En los otros recursos examina la falta de vinculación suficiente de un antiguo consejero delegado y la insuficiencia de los indicios contra un responsable de Vitalia. No se completan sus identidades a partir de esos roles sin una fuente nominal que lo confirme.
+
+El fallo solo acuerda archivo provisional para los cuatro apelantes. La retirada de la mención civil a Egmasa tiene alcance procesal: las acusaciones podían formular sus pretensiones en la fase adecuada. No es una declaración general de inexistencia de responsabilidad civil. La pérdida de objeto del recurso de CCOO de Industria tampoco se describe como una estimación de fondo de todas sus alegaciones.
+
+El auto de 2021, según las fuentes consultadas, dejó fuera de esta continuación a José Antonio Viera, Antonio Fernández, Agustín Barberá, Francisco Javier Guerrero —ya fallecido entonces— y Juan Márquez por su previo encausamiento en el procedimiento específico. No se mantienen como investigados actuales de Egmasa por antiguas citaciones ni se les trasladan aquí condenas, amparos o resultados de otras piezas.
+
+Las referencias a las sentencias constitucionales y a la sentencia del Supremo de Acyco forman parte del razonamiento del auto de 2025. No sustituyen el pronunciamiento personal de esta pieza ni permiten extender su archivo a los demás investigados. Tampoco se atribuye un efecto automático a las cuestiones europeas planteadas en la causa política. Faltan los originales de 2021, las resoluciones relativas a los restantes afectados y el seguimiento posterior al archivo parcial.
