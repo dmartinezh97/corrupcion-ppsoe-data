@@ -1,211 +1,71 @@
 ---
-nombre: "Caso Mercadillos"
+nombre: Caso Mercadillos
 partido: PP
-completado: true
+completado: false
 año: 2013
-fechaInicio: 2013-02-07
-fechaFin: ""
-estado: abierto
-resumen: "Concesión irregular de autorizaciones de mercadillos sin procedimiento legal, con condena revocada en apelación"
-descripcion: "Concesión irregular de autorizaciones para mercadillos ambulantes en Puerto de la Cruz sin procedimiento administrativo legal. Caso con sentencia condenatoria revocada y recurso pendiente en el Tribunal Supremo"
-lugar: "Puerto de la Cruz, Tenerife, Canarias"
+estado: absolución recurrida
+resumen: 'Autorizaciones de mercadillos en Puerto de la Cruz: condena por prevaricación revocada en apelación en 2021.'
+descripcion: La Audiencia Provincial absolvió a Lope Afonso de prevaricación el 30 de abril de 2021 y mantuvo su absolución
+  por malversación, dejando sin efecto los nueve años de inhabilitación impuestos en 2019. Distinguió las infracciones
+  administrativas de una resolución penalmente arbitraria y no consideró probado un perjuicio a las arcas públicas. En
+  junio de 2021 se informó de recursos de casación de Vigía y la Fiscalía; no se ha contrastado su resolución ni la firmeza
+  de la absolución al 15 de octubre de 2026.
+lugar: Puerto de la Cruz, Tenerife, Canarias
 tribunal:
-  - "Juzgado de lo Penal Número 2 de Santa Cruz de Tenerife"
-  - "Audiencia Provincial de Santa Cruz de Tenerife"
-  - "Tribunal Supremo"
-sentencia: ""
+- Juzgado de lo Penal n.º 2 de Santa Cruz de Tenerife
+- Audiencia Provincial de Santa Cruz de Tenerife, Sección Sexta
+numeroSentencia: SAP TF 2550/2021; sentencia 146/2021, de 30 de abril; apelación 206/2020
 implicados:
-  - nombre: "Lope Domingo Afonso Hernández"
-    cargo: "Concejal de Desarrollo Económico, Comercio y Concesiones Administrativas de Puerto de la Cruz (PP) 2011-2015, Alcalde, Número 3 del PP en Canarias"
-    rol: "Condenado a 9 años de inhabilitación en primera instancia (septiembre 2019), absuelto en segunda instancia (mayo 2021), recurso pendiente en el Tribunal Supremo"
-  - nombre: "Álvaro Luis Hernández"
-    cargo: "Representante de Mercadillos del Atlántico S.L."
-    rol: "Beneficiario de las autorizaciones irregulares concedidas por Lope Afonso"
-  - nombre: "David Semelak"
-    cargo: "No especificado"
-    rol: "Mencionado en las investigaciones"
+- nombre: Lope Domingo Afonso Hernández
+  cargo: Concejal de Desarrollo Económico, Comercio y Concesiones Administrativas de Puerto de la Cruz (PP, legislatura
+    2011-2015); posteriormente alcalde
+  rol: Condenado en primera instancia a nueve años de inhabilitación por prevaricación y absuelto de malversación; absuelto
+    también de prevaricación en apelación en 2021. Recursos de casación publicados en junio de 2021, sin resultado ni
+    firmeza contrastados.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "contratación irregular"
-impactoSocial: "El caso evidenció irregularidades en la gestión municipal del PP durante años, con un proceso judicial complejo que culminó en condena, posterior absolución y recurso al Supremo pendiente de resolución"
+- prevaricación
+- mercadillos
+- autorizaciones municipales
+- absolución
+impactoSocial: El procedimiento discutió el control de las autorizaciones de venta ambulante y los límites entre una
+  infracción administrativa y el delito de prevaricación. La condena inicial fue revocada.
 documentos: []
 cronologia:
-  - fecha: 2013-02-07
-    titulo: "Primera autorización irregular"
-    descripcion: "Lope Afonso concede la primera autorización irregular para mercadillo en calle Villanueva del Prado los domingos por la mañana"
-    type: "investigacion"
-  - fecha: 2016-09-01
-    titulo: "Admisión a trámite de la denuncia"
-    descripcion: "El Juzgado de Primera Instancia e Instrucción Número 1 de Puerto de la Cruz admite a trámite la denuncia de la Asociación Vigía"
-    type: "investigacion"
-  - fecha: 2019-09-01
-    titulo: "Sentencia condenatoria en primera instancia"
-    descripcion: "El Juzgado de lo Penal Número 2 de Santa Cruz de Tenerife condena a Lope Afonso a 9 años y 3 meses de inhabilitación especial por prevaricación"
-    type: "sentencia"
-  - fecha: 2021-05-13
-    titulo: "Absolución en segunda instancia"
-    descripcion: "La Audiencia Provincial de Santa Cruz de Tenerife revoca la condena y absuelve a Lope Afonso"
-    type: "sentencia"
-  - fecha: 2021-06-01
-    titulo: "Recurso al Tribunal Supremo"
-    descripcion: "La Asociación Vigía y la Fiscalía recurren la absolución ante el Tribunal Supremo"
-    type: "investigacion"
+- fecha: '2019-08-14'
+  titulo: Condena en primera instancia
+  descripcion: El Juzgado de lo Penal n.º 2 impone nueve años de inhabilitación por prevaricación y absuelve de malversación.
+    Fecha y pena recogidas por la sentencia de apelación.
+  type: sentencia
+  urls:
+  - https://www.iberley.es/jurisprudencia/sentencia-penal-n-146-2021-ap-tenerife-sec-6-rec-206-2020-30-04-2021-48408907
+- fecha: '2021-04-30'
+  titulo: Absolución en apelación
+  descripcion: La Sección Sexta revoca la condena por prevaricación, elimina la inhabilitación y mantiene la absolución
+    por malversación. Costas de oficio. El fallo permite preparar casación.
+  type: sentencia
+  urls:
+  - https://www.iberley.es/jurisprudencia/sentencia-penal-n-146-2021-ap-tenerife-sec-6-rec-206-2020-30-04-2021-48408907
+- fecha: '2021-05-13'
+  titulo: Se conoce la absolución
+  descripcion: La prensa publica la absolución de Lope Afonso; esta es la fecha de difusión, no la del fallo.
+  type: sentencia
+  urls:
+  - https://diariodeavisos.elespanol.com/2021/05/la-audiencia-provincial-absuelve-de-prevaricacion-a-lope-afonso/
+- fecha: '2021-06-08'
+  titulo: Se conocen recursos de casación
+  descripcion: Canarias Ahora informa del recurso presentado por Vigía y, según su presidente, del de la Fiscalía. La
+    noticia no determina el resultado posterior de la casación.
+  type: recurso
+  urls:
+  - https://www.eldiario.es/canariasahora/tenerifeahora/tribunales/asociacion-vigia-recurre-supremo-absolucion-exalcalde-puerto-cruz-lope-afonso-caso-mercadillos_1_8016260.html
 ---
 
-# Caso Mercadillos
+El procedimiento se refiere a las autorizaciones municipales para mercadillos de Puerto de la Cruz, especialmente las de 2013 y 2014, durante la etapa de Lope Afonso como concejal de Comercio. La sentencia de apelación examina también antecedentes de actividad desde 2012. Se discutían los requisitos de publicidad, concurrencia y tramitación para ocupar espacios públicos con puestos de venta ambulante.
 
-## Descripción General
+El Juzgado de lo Penal n.º 2 dictó sentencia el 14 de agosto de 2019, según los antecedentes de la resolución de apelación. Impuso nueve años de inhabilitación por prevaricación y absolvió de malversación. Los nueve años y tres meses citados en algunas informaciones correspondían a la petición fiscal, no a la pena finalmente impuesta.
 
-El Caso Mercadillos investiga la concesión irregular de autorizaciones para la ocupación de espacio público destinado a mercadillos ambulantes en el municipio de Puerto de la Cruz (Tenerife) entre 2013 y 2014. Lope Domingo Afonso Hernández, como Concejal de Desarrollo Económico del PP, otorgó autorizaciones verbales y escritas sin seguir el procedimiento administrativo establecido, vulnerando la normativa de contratación pública. El caso tuvo un recorrido judicial complejo: condena inicial de 9 años de inhabilitación en 2019, absolución por la Audiencia Provincial en 2021, y recurso al Tribunal Supremo pendiente de resolución.
+La [sentencia 146/2021 de la Audiencia Provincial, de 30 de abril](https://www.iberley.es/jurisprudencia/sentencia-penal-n-146-2021-ap-tenerife-sec-6-rec-206-2020-30-04-2021-48408907), sustituyó el relato de hechos probados de primera instancia y absolvió también de prevaricación. Aunque apreció infracciones de la normativa y omisiones de procedimiento, no consideró acreditada una decisión arbitraria adoptada a sabiendas de su injusticia. Valoró que las autorizaciones eran provisionales y en precario, sujetas al cumplimiento de la normativa, que se habían abonado tasas y que no se probó favoritismo frente a otros solicitantes, actividades prohibidas o un dispendio de las arcas públicas. La absolución no equivale a afirmar que toda la tramitación administrativa fuera correcta.
 
-## Hechos Principales
+El fallo mantuvo la absolución por malversación, dejó sin efecto la inhabilitación y declaró las costas de oficio. No se consigna un coste económico: la falta de perjuicio probado no es una valoración contable de cero euros ni permite convertir las tasas discutidas en daño acreditado.
 
-### Modalidad de Corrupción
-- **Tipo**: Prevaricación administrativa (delito continuado)
-- **Método**:
-  - Concesión de autorizaciones verbales y escritas sin tramitación administrativa previa
-  - Omisión del procedimiento de licitación competitiva requerido
-  - Adjudicación directa de espacios públicos sin cumplir requisitos legales
-- **Duración**: Febrero 2013 - 2014
-
-### Instituciones Afectadas
-- Ayuntamiento de Puerto de la Cruz
-- Mercadillos del Atlántico S.L. (empresa beneficiaria)
-- Patrimonio municipal (espacios públicos)
-
-## Cronología del Caso
-
-### 2011-2015
-- Lope Afonso ejerce como Concejal de Desarrollo Económico, Comercio y Concesiones Administrativas
-
-### 2013
-- **7 febrero 2013**: Primera autorización irregular para mercadillo en calle Villanueva del Prado los domingos por la mañana
-- **2013-2014**: Práctica reiterada de autorizaciones irregulares en diversos espacios públicos
-
-### 2016
-- **2016**: La Asociación "Vigía de los Derechos Públicos y Privados" presenta denuncia
-- **Septiembre 2016**: El Juzgado de Primera Instancia e Instrucción Número 1 de Puerto de la Cruz admite a trámite la denuncia
-
-### 2019
-- **18 junio 2019**: Celebración del juicio oral en el Juzgado de lo Penal Número 2 de Santa Cruz de Tenerife
-- **Septiembre 2019**: Sentencia CONDENATORIA - 9 años de inhabilitación por prevaricación, absuelto de malversación
-- **Septiembre 2019**: Lope Afonso abandona todos sus cargos públicos y políticos
-
-### 2021
-- **13 mayo 2021**: La Audiencia Provincial de Santa Cruz de Tenerife REVOCA la sentencia y ABSUELVE a Lope Afonso
-- **2021**: La Asociación Vigía y la Fiscalía recurren la absolución ante el Tribunal Supremo
-
-### 2022
-- **Noviembre 2022**: Fiscalía Anticorrupción presenta nueva denuncia contra Lope Afonso por otro caso (Pamarsa)
-
-## Implicados Principales
-
-### Lope Domingo Afonso Hernández
-- **Cargo durante los hechos**: Concejal de Desarrollo Económico, Comercio y Concesiones Administrativas del Ayuntamiento de Puerto de la Cruz (2011-2015)
-- **Otros cargos**: Alcalde de Puerto de la Cruz, Número 3 del PP en Canarias, Coordinador General del PP en Canarias, Consejero electo del Cabildo de Tenerife
-- **Partido**: PP
-- **Acusación**: Prevaricación administrativa (delito continuado)
-- **Situación actual**: Absuelto en segunda instancia (mayo 2021), recurso de casación pendiente en el Tribunal Supremo
-
-### Álvaro Luis Hernández
-- **Cargo**: Representante de Mercadillos del Atlántico S.L.
-- **Rol**: Beneficiario de las autorizaciones irregulares
-- **Situación**: Mencionado en las investigaciones
-
-### David Semelak
-- **Situación**: Mencionado en las investigaciones
-
-## Procedimiento Judicial
-
-### Fase de Instrucción
-- **Juzgado**: Juzgado de Primera Instancia e Instrucción Número 1 de Puerto de la Cruz
-- **Jueza**: María Antonia Benito Bethencourt
-- **Fecha de admisión**: Septiembre 2016
-- **Denunciante**: Asociación "Vigía de los Derechos Públicos y Privados"
-
-### Primera Instancia
-- **Tribunal**: Juzgado de lo Penal Número 2 de Santa Cruz de Tenerife
-- **Fecha del juicio**: 18 de junio de 2019
-- **Sentencia**: Septiembre 2019
-- **Resultado**: CONDENA de 9 años y 3 meses de inhabilitación especial por prevaricación; ABSOLUCIÓN del delito de malversación
-
-### Segunda Instancia
-- **Tribunal**: Audiencia Provincial de Santa Cruz de Tenerife
-- **Fecha**: 13 de mayo de 2021
-- **Resultado**: ABSOLUCIÓN
-- **Motivo**: El tribunal consideró que las autorizaciones no constituían resoluciones arbitrarias "dictadas a sabiendas de su injusticia"
-
-### Recurso de Casación
-- **Tribunal**: Tribunal Supremo
-- **Recurrentes**: Asociación Vigía de los Derechos Públicos y Privados + Fiscalía Provincial
-- **Estado**: PENDIENTE de resolución (desde 2021)
-
-### Peticiones de Pena
-
-**Por la Fiscalía Provincial**:
-- 9 años y 3 meses de inhabilitación especial para empleo o cargo público
-
-**Por la acusación particular (Asociación Vigía)**:
-- 3 años de prisión por malversación de fondos públicos
-- Inhabilitación
-
-## Impacto Económico
-
-### Perjuicio Causado
-- **Cantidad oficial registrada**: 0 euros
-- **Perjuicio alegado**: Tasas mínimas pagadas al municipio en lugar de las correspondientes por concurso público, causando perjuicio al erario público (argumento de la acusación particular para malversación, de la que fue absuelto)
-
-### Ubicaciones afectadas
-- Plaza de Europa
-- Centro Comercial La Cúpula
-- Estación de Guaguas (autobuses)
-- Calle Villanueva del Prado
-
-## Impacto Político y Social
-
-### Consecuencias Políticas
-- **Dimisiones**: Lope Afonso abandonó la política en septiembre de 2019 tras la primera condena
-- **Declaraciones**: Alegó que pagó el precio por "haber depurado el PP del Puerto de la Cruz"
-- **Retorno**: Descartó regresar a la política activa a corto plazo tras su absolución en 2021
-
-### Repercusión Mediática
-- **Cobertura mediática**: Regional canaria (Diario de Avisos, elDiario.es Canarias Ahora, Mírame TV, Diario16)
-- **Opinión pública**: Caso seguido por asociación ciudadana anticorrupción muy activa
-- **Asociación Vigía**: Papel destacado en la persecución del caso
-
-### Reformas Legales
-- No se implementaron reformas específicas
-
-## Curiosidades y Datos Relevantes
-
-- **Primera condena revocada**: Caso inusual donde una condena firme de primera instancia es completamente revocada en apelación
-- **Asociación Vigía**: Destacada por su activismo en la lucha anticorrupción en Canarias
-- **Múltiples casos**: Lope Afonso fue posteriormente denunciado por la Fiscalía Anticorrupción en noviembre de 2022 en otro caso relacionado con la empresa pública Pamarsa
-- **Puerto de la Cruz**: Municipio turístico de Tenerife con aproximadamente 30.000 habitantes
-- **Proceso largo**: Desde la denuncia en 2016 hasta la resolución final del Supremo (pendiente) han transcurrido más de 7 años
-
-## Estado Actual
-
-El caso permanece ABIERTO con recurso de casación pendiente de resolución en el Tribunal Supremo desde 2021. La Fiscalía y la Asociación Vigía recurren la absolución de segunda instancia. Lope Afonso está fuera de la política activa desde 2019. El desenlace definitivo depende de la resolución del Tribunal Supremo, que determinará si prevalece la condena inicial o la absolución en apelación.
-
-## Fuentes
-
-### Fuentes Judiciales
-- Sentencia del Juzgado de lo Penal Número 2 de Santa Cruz de Tenerife - Septiembre 2019
-- Sentencia de la Audiencia Provincial de Santa Cruz de Tenerife - 13 de mayo de 2021
-- Recurso de casación ante el Tribunal Supremo - 2021
-
-### Fuentes Periodísticas
-- [Casos-aislados.com](https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Mercadillos)
-- [elDiario.es - Canarias Ahora - La asociación Vigía recurre al Supremo]
-- [elDiario.es - Canarias Ahora - Abren causa contra el alcalde de Puerto de la Cruz]
-- [elDiario.es - Canarias Ahora - Lope Afonso descarta regresar a la política - 2021]
-- [Diario de Avisos - Visto para sentencia el juicio contra Lope Afonso - 2019]
-- [Diario de Avisos - Lope Afonso deja la política - 2019]
-- [Mírame TV - La Audiencia Provincial absuelve a Lope Afonso - 2021]
-- [Mírame TV - La Fiscalía apuntala su acusación - 2019]
-
-### Fuentes Oficiales
-- Asociación "Vigía de los Derechos Públicos y Privados" - Denuncia y recursos
-- Fiscalía Provincial de Santa Cruz de Tenerife
+La [información de Canarias Ahora del 8 de junio de 2021](https://www.eldiario.es/canariasahora/tenerifeahora/tribunales/asociacion-vigia-recurre-supremo-absolucion-exalcalde-puerto-cruz-lope-afonso-caso-mercadillos_1_8016260.html) da cuenta del recurso de Vigía y atribuye a su presidente la noticia de que la Fiscalía también había recurrido. No se ha contrastado una resolución posterior del Supremo ni una declaración de firmeza hasta el corte del 15 de octubre de 2026; por ello tampoco se afirma que la casación continúe pendiente en esa fecha. Los nombres de organizadores o solicitantes de mercadillos no permiten atribuirles por sí solos la condición de investigados o acusados. Esta ficha se limita a este procedimiento, sin trasladar a él resultados de otras causas municipales.
