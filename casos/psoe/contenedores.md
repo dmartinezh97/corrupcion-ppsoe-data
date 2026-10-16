@@ -1,87 +1,79 @@
 ---
-nombre: "Caso Contenedores"
-partido: "PSOE"
-completado: true
-año: 2010
-fechaInicio: "2007-01-01"
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El Caso Contenedores destapó un presunto fraude en el municipio de Carboneras (Almería) durante el mandato del alcalde socialista Cristóbal Fernández. Bajo su administración, el Ayuntamiento abonó presuntamente a la empresa Cespa 175.000 euros en concepto de suministro de 153 contenedores de residuos que, según consta en la denuncia municipal, nunca fueron entregados ni suministrados por dicha empresa. La denuncia puso de manifiesto que la competencia para adquirir esos contenedores correspondía al Consorcio de Residuos del Sector II, entidad supramunicipal, y no al propio Ayuntamiento, por lo que la gestión del entonces alcalde habría sido doblemente irregular.
+nombre: Caso Contenedores de Carboneras
+partido: PSOE
+completado: false
+año: 2017
+estado: Investigación documentada en 2017
+lugar: Carboneras, Almería
+descripcion: 'El Juzgado de Instrucción número 2 de Vera investigó las presuntas irregularidades en el abono de
+  175.000 euros a Cespa SL por el suministro de contenedores durante el mandato del exalcalde socialista Cristóbal
+  Fernández. Europa Press informó el 19 de junio de 2017 de la citación de Fernández y del gerente de Cespa, identificado
+  como A.L.S., en calidad de investigados. La denuncia municipal sostenía que los contenedores habían sido adquiridos
+  y suministrados por el Consorcio de Residuos del Sector II, no por Cespa. Esa afirmación de la denuncia no equivale
+  a un hecho declarado probado en sentencia.
 
-  Entre las irregularidades detectadas figuran dos facturas emitidas por Cespa entre noviembre y diciembre de 2009 por un importe total de 175.000 euros sin que constara albarán de entrega ni documento de suministro alguno. El propio documento interno indicaba que la entrega se produciría "durante 2010 a partir de febrero según disponibilidad de fábrica". Además, el Ayuntamiento había recibido previamente en febrero de 2008 una subvención de la Junta de Andalucía por 73.863 euros destinada a financiar parcialmente la compra de los contenedores, solicitada por Fernández pese a carecer de competencia para ello. La denuncia apuntó que Fernández habría ocultado a la Junta esta circunstancia al tramitar la subvención, y que el proceso de contratación carecía de expediente administrativo, contando únicamente con tres ofertas de suministro con asiento de entrada registradas el mismo día, en vulneración de la Ley de Contratos del Sector Público.
 
-  El Juzgado de Instrucción número 2 de Vera (Almería) abrió causa penal y citó a declarar como investigado al exalcalde Cristóbal Fernández por presuntos delitos de prevaricación administrativa y malversación de caudales públicos. En mayo de 2019 el Ayuntamiento de Carboneras, bajo la alcaldía de su sobrino José Luis Amérigo, se personó como acusación en la querella. El caso se enmarca en un patrón más amplio de irregularidades administrativas durante el mandato de Fernández, quien en 2022 fue condenado por separado a siete años de inhabilitación especial por un delito de prevaricación en la adjudicación directa de la obra de alumbrado del Paseo Marítimo por importe de casi 500.000 euros.
+  La denuncia atribuía al exalcalde posibles delitos de prevaricación y malversación, y al gerente una posible intervención
+  delictiva en la emisión de las facturas. No se han recuperado las resoluciones originales ni documentación posterior
+  suficiente para precisar la continuación, un eventual archivo, una acusación, un juicio, una sentencia o la firmeza
+  del resultado individual hasta el 15 de octubre de 2026. El estado indicado refleja la información de 2017 y no
+  afirma que la causa siga abierta en esa última fecha. Tampoco se ha contrastado que Rosario Fernández fuera investigada
+  en este procedimiento.
 
-resumen: "Pago de 175.000 euros a Cespa por contenedores de basura nunca entregados en Carboneras (Almería)"
-coste: 175000
-lugar: "Carboneras, Almería, Andalucía"
+
+  Según la información sobre la denuncia, dos facturas de noviembre y diciembre de 2009 sumaban 175.000 euros y
+  el Ayuntamiento había recibido en febrero de 2008 una subvención de 73.863 euros para la compra de contenedores.
+  Son importes de facturación y financiación vinculados a la misma operación: no deben sumarse como daño ni presentarse
+  como una cuantificación judicial de perjuicio. La personación municipal publicada en mayo de 2019 y la condena
+  conocida en abril de 2022 se referían al alumbrado del Paseo Marítimo, otro procedimiento; no acreditan avances
+  ni una condena por los contenedores.'
+resumen: Investigación conocida en 2017 sobre facturas de Cespa por contenedores que, según la denuncia municipal,
+  suministró el Consorcio de Residuos. No está documentado el desenlace posterior de esta causa.
 tribunal:
-  - "Juzgado de Instrucción nº 2 de Vera (Almería)"
-numeroSentencia: ""
+- Juzgado de Instrucción número 2 de Vera (Almería)
 implicados:
-  - nombre: "Cristóbal Fernández"
-    cargo: "Alcalde de Carboneras (PSOE)"
-    rol: "Investigado por presunta prevaricación administrativa y malversación de caudales públicos por pago irregular de 175.000 euros a Cespa por contenedores no entregados"
-
-  - nombre: "Rosario Fernández"
-    cargo: "Concejala del Ayuntamiento de Carboneras (PSOE)"
-    rol: "Investigada en el mismo caso junto a su hermano Cristóbal; formó parte de la Junta de Gobierno Local que acordó la solicitud de subvención irregular"
-
+- nombre: Cristóbal Fernández
+  cargo: Exalcalde de Carboneras por el PSOE; alcalde durante la operación denunciada
+  rol: Citado como investigado en junio de 2017. La denuncia municipal apuntaba a prevaricación y malversación.
+    Sin acusación vigente ni desenlace individual posterior contrastados.
+- nombre: A.L.S.
+  cargo: Gerente de Cespa identificado por sus iniciales en la información de Europa Press
+  rol: Citado también como investigado en junio de 2017 por su presunta intervención en la facturación del suministro.
+    Identidad completa y resultado individual posterior no verificados.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "malversación"
-  - "contratación irregular"
-  - "fraude administrativo"
-  - "subvención irregular"
-
-impactoSocial: "El caso puso de manifiesto un patrón sistemático de gestión irregular en Carboneras bajo el PSOE, con Cristóbal Fernández acumulando múltiples causas penales: una condena previa por delito electoral (2006, indultado por Zapatero), otra condena por prevaricación en el alumbrado público (2022, siete años de inhabilitación) y la presente investigación por los contenedores. Su sobrino José Luis Amérigo, que le sucedió como alcalde, también fue investigado por presuntos delitos de prevaricación y malversación en el pago de complementos salariales irregulares a funcionarios municipales."
-
-documentos: null
-
+- contratación pública
+- presunta prevaricación
+- presunta malversación
+- contenedores
+impactoSocial: La denuncia del gobierno municipal encabezado entonces por Salvador Hernández cuestionó la facturación
+  del suministro y el uso de una subvención autonómica. La existencia de otros procesos contra responsables de Carboneras
+  no determina el resultado de esta investigación.
+documentos: []
 cronologia:
-  - fecha: "2007-01-01"
-    titulo: "Solicitud irregular de subvención para contenedores"
-    descripcion: "El alcalde de Carboneras, Cristóbal Fernández (PSOE), acuerda con la Junta de Gobierno Local solicitar a la Junta de Andalucía una subvención para la compra de 153 contenedores de residuos, ocultando que la competencia para esa adquisición correspondía al Consorcio de Residuos del Sector II y no al propio municipio."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Contenedores&amp=&numero=338"
-
-  - fecha: "2008-02-01"
-    titulo: "El Ayuntamiento recibe la subvención de la Junta de Andalucía"
-    descripcion: "La Junta de Andalucía ingresa al Ayuntamiento de Carboneras 73.863 euros como subvención parcial para la compra de contenedores de basura. El expediente de contratación carece de procedimiento reglamentario: sólo constan tres ofertas de suministro con entrada registrada el mismo día, vulnerando la Ley de Contratos del Sector Público."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Contenedores&amp=&numero=338"
-
-  - fecha: "2009-12-01"
-    titulo: "Cespa emite dos facturas por contenedores nunca entregados"
-    descripcion: "La empresa Cespa emite dos facturas por importe total de 175.000 euros en concepto de suministro de contenedores entre noviembre y diciembre de 2009, sin que exista albarán de entrega ni justificante de suministro. Los propios documentos internos reflejan que la entrega se produciría en 2010. El Ayuntamiento paga las facturas pese a que los contenedores son finalmente suministrados de forma gratuita por el Consorcio del Sector II."
-    type: "denuncia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Contenedores&amp=&numero=338"
-      - "https://www.almeriahoy.com/2019/05/el-ayuntamiento-de-carboneras-se.html"
-
-  - fecha: "2019-01-01"
-    titulo: "El Ayuntamiento denuncia ante el Juzgado de Instrucción nº 2 de Vera"
-    descripcion: "El nuevo equipo de gobierno del Ayuntamiento de Carboneras presenta denuncia penal ante el Juzgado de Instrucción número 2 de Vera (Almería) contra el exalcalde Cristóbal Fernández. La denuncia detalla el pago de 175.000 euros a Cespa por contenedores nunca entregados y la solicitud de subvención sin competencia para ello, y solicita que se investiguen presuntos delitos de prevaricación y malversación de caudales públicos."
-    type: "denuncia"
-    urls:
-      - "https://www.almeriahoy.com/2019/05/el-ayuntamiento-de-carboneras-se.html"
-
-  - fecha: "2019-05-01"
-    titulo: "El Ayuntamiento se persona como acusación en la querella"
-    descripcion: "El Ayuntamiento de Carboneras, representado por el alcalde José Luis Amérigo (sobrino del investigado), se persona formalmente como acusación particular en la querella por prevaricación y malversación contra el exalcalde Cristóbal Fernández. El Juzgado de Instrucción nº 2 de Vera cita a Fernández a declarar como investigado."
-    type: "imputación"
-    urls:
-      - "https://www.almeriahoy.com/2019/05/el-ayuntamiento-de-carboneras-se.html"
-
-  - fecha: "2022-04-01"
-    titulo: "Condena paralela por prevaricación en el alumbrado público"
-    descripcion: "El Juzgado de lo Penal número 1 de Almería condena a Cristóbal Fernández a siete años de inhabilitación especial por un delito de prevaricación en la adjudicación directa de la obra de sustitución del alumbrado del Paseo Marítimo de Carboneras por casi 500.000 euros, hecha sin licitación pública en septiembre de 2008. La condena evidencia el patrón de contratación irregular durante su mandato, en paralelo al caso de los contenedores aún en investigación."
-    type: "sentencia"
-    urls:
-      - "https://www.lavozdealmeria.com/provincia/213605/siete-anos-inhabilitacion-exalcalde-cristobal-fernandez.html"
-      - "https://okdiario.com/andalucia/psoe-fiel-si-mismo-condenado-nuevo-exalcalde-socialista-carboneras-prevaricacion-8902469"
+- fecha: '2017-06-19'
+  titulo: Se informa de las citaciones como investigados
+  descripcion: 'Europa Press publica que el Juzgado de Instrucción 2 de Vera había citado para ese día a Cristóbal
+    Fernández y al gerente de Cespa A.L.S. como investigados, y al secretario municipal como testigo. La noticia
+    anuncia las comparecencias: no acredita su celebración ni reproduce su resultado. También informa de la solicitud
+    judicial de los expedientes de la subvención al Ayuntamiento y a la Junta de Andalucía.'
+  urls:
+  - https://www.bolsamania.com/noticias/justicia/declara-este-lunes-como-investigado-exalcalde-socialista-de-carboneras-almeria-por-la-compra-de-unos-contenedores--2727570.html
+  type: investigacion
+  relevancia: alta
 ---
+
+La operación denunciada
+
+La [información de Europa Press publicada el 19 de junio de 2017](https://www.bolsamania.com/noticias/justicia/declara-este-lunes-como-investigado-exalcalde-socialista-de-carboneras-almeria-por-la-compra-de-unos-contenedores--2727570.html) describe la denuncia del Ayuntamiento, entonces gobernado por el independiente Salvador Hernández. Cuestionaba la solicitud de una subvención para 153 contenedores, primero soterrados y después de carga lateral, porque la competencia se había delegado en el Consorcio de Residuos del Sector II. Afirmaba que no constaba expediente de contratación, sino tres ofertas registradas el mismo día. Son alegaciones municipales recogidas por la agencia, sin contraste directo aquí con el expediente administrativo.
+
+La denuncia refería dos facturas de Cespa de noviembre y diciembre de 2009 sin albaranes de entrega y un documento que anunciaba el suministro durante 2010, desde febrero, según disponibilidad de fábrica. También decía aportar una certificación del Consorcio sobre la adquisición de los contenedores por acuerdo de su junta general de 18 de diciembre de 2008. Sin las facturas, la certificación y las resoluciones judiciales, no puede darse por probado que Cespa cobrara por un suministro inexistente ni fijarse un perjuicio judicialmente reconocido.
+
+La noticia distingue los 175.000 euros facturados de los 73.863 euros de la subvención ingresada en febrero de 2008. La financiación parcial no constituye un daño adicional que sumar al importe de las facturas. Tampoco se conoce aquí una resolución de reintegro de esa ayuda ni una indemnización impuesta por estos hechos.
+
+Personas y procedimientos
+
+La providencia descrita por Europa Press citaba como investigados a Fernández y al gerente A.L.S., y como testigo al secretario municipal. No se atribuye a este último la condición de investigado. La denuncia invocaba posibles delitos; no se ha verificado un escrito de acusación o una sentencia que permita actualizar la calificación penal de cada persona. La participación en una junta de gobierno no basta para afirmar que una concejala fuera investigada, por lo que no se mantiene esa atribución a Rosario Fernández sin una fuente que la identifique en esta causa.
+
+La [noticia de mayo de 2019](https://www.almeriahoy.com/2019/05/el-ayuntamiento-de-carboneras-se.html) trata de la personación municipal en la causa del alumbrado del Paseo Marítimo. Identifica entonces como alcalde a Felipe Cayuela, no a José Luis Amérigo. La [condena conocida en abril de 2022](https://www.lavozdealmeria.com/provincia/213605/siete-anos-inhabilitacion-exalcalde-cristobal-fernandez.html) también corresponde al alumbrado y era recurrible en ese momento. Ninguna de las dos resuelve el caso Contenedores. Se excluyen igualmente las referencias al delito electoral y a otros familiares porque no acreditan hechos ni culpabilidad en este procedimiento.
+
+Faltan las resoluciones judiciales originales y la comprobación del resultado posterior hasta octubre de 2026. La ausencia de información posterior no permite afirmar continuidad de la investigación, archivo o firmeza. Por esa razón no se fija una fecha de cierre ni se ofrecen documentos judiciales no verificados.
