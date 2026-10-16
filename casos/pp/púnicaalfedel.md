@@ -125,7 +125,7 @@ cronologia:
   type: resumen
 ---
 
-El [auto de 2 de septiembre de 2019](https://www.rtve.es/contenidos/documentos/auto-punica-pieza11.PDF) delimita la pieza 11 dentro de las diligencias previas 85/2014. Su dispositivo incorpora actuaciones previamente reunidas en otras partes de la causa y acuerda continuar investigando; no debe sustituirse por resoluciones de Arpegio, financiación del PP, Cofely o reputación digital. La referencia aislada a la pieza 9 en la motivación no altera la denominación pieza 11 que constan en cabecera y dispositivo.
+El [auto de 2 de septiembre de 2019](https://www.rtve.es/contenidos/documentos/auto-punica-pieza11.PDF) delimita la pieza 11 dentro de las diligencias previas 85/2014. Su dispositivo incorpora actuaciones previamente reunidas en otras partes de la causa y acuerda continuar investigando; no debe sustituirse por resoluciones de Arpegio, financiación del PP, Cofely o reputación digital. La referencia aislada a la pieza 9 en la motivación no altera la denominación pieza 11 que consta en cabecera y dispositivo.
 
 La estimación de unos 15 millones de euros aparece en la página 7 expresamente pendiente de comprobación pericial. No se suma a ingresos de Alfedel, costes de construcción o comisiones. La resolución investiga una posible afectación al patrimonio de cooperativistas y operaciones municipales; no contiene un fallo condenatorio de responsabilidad civil por aquel importe.
 
