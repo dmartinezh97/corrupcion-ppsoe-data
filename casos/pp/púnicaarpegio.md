@@ -21,12 +21,12 @@ lugar: Comunidad de Madrid
 tribunal:
 - Audiencia Nacional — Juzgado Central de Instrucción n.º 6
 implicados:
-- nombre: Francisco Granados Lerena
+- nombre: Francisco José Granados Llerena
   cargo: Exconsejero de Transportes y posteriormente de Presidencia, Justicia e Interior; exsecretario general del
     PP de Madrid
   rol: Acusado en la pieza 8; apertura de juicio oral difundida en mayo de 2026. Anticorrupción solicita 42 años
     de prisión, sin condena verificada aquí.
-- nombre: David Marjaliza López
+- nombre: David Marjaliza Villaseñor
   cargo: Empresario constructor
   rol: Acusado en la pieza 8 por su presunta intervención en adjudicaciones y contraprestaciones; Anticorrupción
     solicita 17 años y nueve meses de prisión.
