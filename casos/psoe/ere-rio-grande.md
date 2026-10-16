@@ -1,144 +1,156 @@
 ---
-nombre: "ERE/Río Grande"
-partido: "PSOE"
-completado: true
+nombre: ERE/Río Grande
+partido: PSOE
+completado: false
 año: 2005
-fechaInicio: 2005-01-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El caso ERE/Río Grande es una pieza separada del macrocaso de los ERE de Andalucía que investiga el desvío de 1,53 millones de euros en fondos públicos destinados a un expediente de regulación de empleo fraudulento del restaurante Río Grande, situado en la emblemática calle Betis de Sevilla. En 2005, la propietaria del restaurante, María del Carmen García, solicitó ayudas públicas para financiar las indemnizaciones por despido de 12 empleados, a pesar de que la empresa acababa de cerrar 2004 con más de 1,2 millones de euros en beneficios y no atravesaba ninguna crisis económica real.
+fechaFin: ''
+estado: desconocido
+descripcion: 'Pieza separada de los ERE de Andalucía sobre las ayudas de 1.531.300 euros destinadas a financiar
+  indemnizaciones mediante seguros de rentas para el restaurante Río Grande de Sevilla en 2005. La acusación atribuye
+  irregularidades en la concesión, intermediación y cobro de las pólizas, incluida la de Carmen Fontela, que no
+  había trabajado en el restaurante. Son imputaciones sometidas a juicio, no hechos establecidos por una condena
+  de esta pieza.
 
-  La trama funcionaba mediante un sistema irregular de "pagos cruzados" gestionado por la Dirección General de Trabajo de la Junta de Andalucía, entonces dirigida por Francisco Javier Guerrero. El exsindicalista de UGT Juan Lanzas actuó como intermediario entre la empresaria y los altos cargos de la Junta socialista, utilizando su empresa Atrado para facturar y canalizar fondos públicos. La consultora Vitalia, dirigida por Antonio Albarracín, se encargó de tramitar las pólizas del ERE e incluyó fraudulentamente a Carmen Fontela, una persona que nunca había trabajado en el restaurante, quien cobró 155.605 euros. La Junta de Andalucía asumió el 90,7% del coste total de las indemnizaciones sin que constaran estudios económicos que avalaran la necesidad del ERE.
 
-  El caso se encuentra actualmente en fase de juicio oral ante la Audiencia de Sevilla, iniciado en junio de 2025, tras la apertura de juicio oral dictada por el juez José Ignacio Vilaplana en octubre de 2021. La Fiscalía Anticorrupción ha rebajado sus peticiones iniciales de 7 años a 3 años de prisión para la mayoría de los acusados, y solicita la devolución de 1.531.299,51 euros a la Junta de Andalucía por los daños causados. El caso forma parte del mayor escándalo de corrupción política de la democracia española, que implicó el desvío de al menos 679 millones de euros durante la gestión del PSOE en Andalucía entre 2000 y 2009.
-
-resumen: "Desvío de 1,53 millones en ayudas fraudulentas a restaurante sin crisis económica"
-coste: 1530000
-lugar: "Sevilla, Andalucía"
+  El juicio comenzó el 12 de junio de 2025 contra ocho personas. Según la información publicada el 20 de noviembre
+  de 2025, un auto de 12 de noviembre ordenó celebrarlo de nuevo desde el principio tras las suspensiones, con sesiones
+  señaladas entre septiembre y octubre de 2026. Una crónica publicada el 2 de octubre de 2026 confirma nuevas declaraciones:
+  Fontela negó haber percibido los 155.000 euros atribuidos y peritos de la defensa discutieron la necesidad económica
+  del ERE y la documentación de las pólizas. No se ha verificado el desenlace, una sentencia ni su eventual firmeza
+  al 17 de octubre de 2026, ni se dispone de los autos originales de apertura y repetición. Las penas y restituciones
+  recogidas son peticiones de la Fiscalía; los resultados de otras piezas de los ERE no se trasladan a esta.'
+resumen: Ayudas al ERE del restaurante Río Grande; juicio repetido y desenlace no verificado
+lugar: Sevilla, Andalucía
 tribunal:
-  - "Audiencia Provincial de Sevilla - Sección Primera"
-  - "Juzgado de Instrucción nº 6 de Sevilla - Juez José Ignacio Vilaplana"
-  - "Fiscalía Especial contra la Corrupción y la Criminalidad Organizada"
-numeroSentencia: ""
+  - Juzgado de Instrucción nº 6 de Sevilla
+  - Audiencia Provincial de Sevilla, Sección Primera
+numeroSentencia: ''
 implicados:
-  - nombre: "Juan Lanzas"
-    cargo: "Exsindicalista de UGT y propietario de Atrado Mensajería"
-    rol: "Intermediario en la trama, enfrenta 3 años de prisión"
-
-  - nombre: "Beatriz N.M."
-    cargo: "Pareja de Juan Lanzas"
-    rol: "Acusada de prevaricación y malversación, 3 años solicitados"
-
-  - nombre: "María del Carmen García Sánchez"
-    cargo: "Propietaria del restaurante Río Grande"
-    rol: "Solicitó ayudas fraudulentas sin crisis real, 3 años solicitados"
-
-  - nombre: "Antonio Albarracín"
-    cargo: "Exdirectivo de la consultora Vitalia"
-    rol: "En prisión por piezas ERE, gestionó pólizas fraudulentas"
-
-  - nombre: "Francisco José González"
-    cargo: "Excomercial de Vitalia"
-    rol: "Tramitó pólizas irregulares, beneficiario de fondos"
-
-  - nombre: "Carmen Fontela"
-    cargo: "Sin relación laboral con Río Grande"
-    rol: "Cobró 155.605 euros sin haber trabajado nunca en el restaurante"
-
-  - nombre: "Eduardo L.D.R."
-    cargo: "Responsable de Atrado Mensajería"
-    rol: "Canalizó fondos públicos, enfrenta 3 años de prisión"
-
-  - nombre: "Carlos L.B."
-    cargo: "Socio de bufete de abogados"
-    rol: "Asesoró en articulación del ERE fraudulento, comiso de 26.054 euros"
-
-  - nombre: "Francisco Javier Guerrero"
-    cargo: "Exdirector General de Trabajo de la Junta de Andalucía (fallecido)"
-    rol: "Autorizó ayudas irregulares sin procedimiento legal establecido"
-
+  - nombre: Juan Lanzas
+    cargo: Exsindicalista de UGT y vinculado a Atrado Mensajería
+    rol: Acusado por su presunta intermediación; la Fiscalía pidió tres años de prisión en junio de 2025.
+  - nombre: Beatriz N.M.
+    cargo: Pareja de Juan Lanzas, vinculada a Atrado
+    rol: Acusada por su presunta participación en la canalización de fondos; petición fiscal de tres años en junio
+      de 2025.
+  - nombre: María del Carmen García Sánchez
+    cargo: Administradora del restaurante Río Grande
+    rol: Acusada por la obtención de las ayudas; petición fiscal de tres años en junio de 2025. Su defensa cuestiona
+      la tesis de la falta de necesidad económica.
+  - nombre: Antonio Albarracín
+    cargo: Exdirectivo de Vitalia
+    rol: Acusado por la gestión de las pólizas; petición fiscal de tres años en junio de 2025. No se atribuyen a
+      esta pieza sus condenas en otras causas.
+  - nombre: Francisco José González
+    cargo: Excomercial de Vitalia
+    rol: Acusado por su intervención en las pólizas; petición fiscal de tres años en junio de 2025. Identificado
+      con nombre completo en la información de apertura de 2021.
+  - nombre: Eduardo L.D.R.
+    cargo: Vinculado a Atrado Mensajería
+    rol: Acusado por su presunta intervención en la canalización de fondos; petición fiscal de tres años en junio
+      de 2025.
+  - nombre: Carlos L.B.
+    cargo: Socio de un despacho de abogados
+    rol: Acusado por el asesoramiento en el ERE; petición fiscal de tres años en junio de 2025. El comiso reclamado
+      no es una decisión judicial verificada.
+  - nombre: Carmen Fontela
+    cargo: Beneficiaria de una póliza, sin relación laboral con Río Grande
+    rol: Acusada; la Fiscalía pidió dos años de prisión en junio de 2025. En la vista de 2026 negó haber percibido
+      los 155.000 euros atribuidos.
+  - nombre: Jesús María Bordallo
+    cargo: Exresponsable de Vitalia
+    rol: Incluido en la apertura de juicio oral de 2021; la información de mayo de 2025 lo señala como posteriormente
+      excluido, sin haberse verificado el auto ni su fundamento.
+  - nombre: Francisco Javier Guerrero
+    cargo: Exdirector general de Trabajo de la Junta de Andalucía, fallecido
+    rol: Las informaciones sobre la instrucción le atribuyen la concesión de las ayudas; no figura entre los ocho
+      acusados del juicio de junio de 2025.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "fraude de subvenciones"
-  - "ERE fraudulentos"
-  - "Junta de Andalucía"
-
-impactoSocial: "Forma parte del macrocaso de los ERE, considerado el mayor escándalo de corrupción política de España. El juicio iniciado en 2025 continúa evidenciando la red de intermediarios que desviaron fondos públicos destinados a trabajadores en crisis hacia beneficiarios fraudulentos durante la gestión socialista en Andalucía."
-
-documentos: null
-
+  - ERE
+  - Junta de Andalucía
+  - ayudas sociolaborales
+  - malversación
+  - prevaricación
+impactoSocial: La causa examina la utilización de fondos autonómicos para financiar indemnizaciones laborales y
+  la intervención de empresas mediadoras. El importe de las ayudas y las reclamaciones económicas de la acusación
+  no equivalen a un perjuicio judicialmente declarado.
+documentos: []
 cronologia:
-  - fecha: 2005-01-01
-    titulo: "Presentación del ERE fraudulento de Río Grande"
-    descripcion: "María del Carmen García, propietaria del restaurante Río Grande en la calle Betis de Sevilla, presenta un expediente de regulación de empleo para 12 trabajadores alegando causas organizativas, a pesar de que la empresa acababa de cerrar 2004 con más de 1,2 millones de euros en beneficios. El ERE incluye fraudulentamente a Carmen Fontela, una persona cercana a la jubilación que había sido contratada solo tres meses antes de cumplir 65 años y nunca trabajó realmente en el restaurante."
-    type: "resumen"
+  - fecha: '2021-05-13'
+    titulo: Escrito fiscal de acusación
+    descripcion: Según la información de Europa Press publicada el 30 de mayo de 2025, el escrito de esta fecha
+      solicitó abrir juicio oral contra nueve personas. Reclamó la restitución de 1.531.299,51 euros para la mayoría
+      y las entidades asociadas, responsabilidad solidaria de Fontela por 155.427,74 euros y comisos separados para
+      Lanzas y Carlos L.B.; son pretensiones de la acusación, sin sumar sus importes como daño probado.
     urls:
-      - "https://www.teleprensa.com/articulo/sevilla/fijado-jueves-inicio-juicio-pieza-ere-restaurante-rio-grande/202506111442322140728.html"
-      - "https://okdiario.com/andalucia/ex-sindicalista-ugt-enfrenta-7-anos-carcel-desviar-mas-15-millones-ere-14390203"
-
-  - fecha: 2005-06-01
-    titulo: "Autorización irregular del ERE sin informes preceptivos"
-    descripcion: "La Delegación Provincial de la Consejería de Empleo autoriza el ERE sin el correspondiente informe del Servicio Público de Empleo Estatal. La Dirección General de Trabajo, dirigida por Francisco Javier Guerrero, concede 1.531.300 euros mediante un sistema irregular de 'pagos cruzados' para financiar un seguro de rentas vitalicias. La Junta de Andalucía asume el 90,7% del coste total de las indemnizaciones (140.700 euros de media por trabajador) sin constar estudios económicos que avalaran la necesidad empresarial."
-    type: "investigación"
+      - https://www.teleprensa.com/articulo/sevilla/fijada-12-junio-nueva-fecha-juicio-pieza-ere-restaurante-rio-grande/202505301142362129738.html
+    type: investigacion
+    relevancia: alta
+  - fecha: '2021-10-13'
+    titulo: Se conoce la apertura de juicio oral
+    descripcion: Europa Press informó de la apertura contra nueve personas en la pieza Río Grande y de la competencia
+      de la Audiencia de Sevilla. La publicación es de 13 de octubre; no se fija esta fecha como la del auto. La
+      noticia también trata Mercasevilla, una pieza distinta.
     urls:
-      - "https://www.eldiario.es/andalucia/juez-abre-juicio-oral-piezas-ere-mercasevilla-rio-grande_1_8391412.html"
-      - "http://bufetediazarias.com/noticias/2021/octubre/14102021.html"
-
-  - fecha: 2005-12-01
-    titulo: "Operación de la trama de intermediarios"
-    descripcion: "Juan Lanzas, exsindicalista de UGT, actúa como intermediario entre la empresaria y la Junta de Andalucía socialista. Utiliza su empresa Atrado Mensajería para facturar y recibir fondos públicos, canalizando efectivo para pagar comisiones encubiertas. La consultora Vitalia, dirigida por Antonio Albarracín, gestiona las pólizas del ERE. Un bufete de abogados asesoró en la negociación y articulación del ERE fraudulento. Carmen Fontela cobra 155.605 euros que se destinan al lucro personal de Lanzas y Francisco González, salvo 1.750 euros que ella utilizó."
-    type: "investigación"
+      - https://www.eldiario.es/andalucia/juez-abre-juicio-oral-piezas-ere-mercasevilla-rio-grande_1_8391412.html
+    type: juicio
+    relevancia: alta
+  - fecha: '2025-03-05'
+    titulo: Suspensión del inicio del juicio
+    descripcion: La agenda oficial había señalado el comienzo para este día, en el rollo 8.033/23. La crónica posterior
+      de Diario de Sevilla describe la suspensión por el cambio de abogado de Juan Lanzas.
     urls:
-      - "https://vivasevilla.es/andalucia/1903263/juicio-por-el-ere-de-rio-grande-niegan-las-comisiones-y-rebajan-las-penas/"
-      - "https://www.teleprensa.com/articulo/sevilla/fijada-12-junio-nueva-fecha-juicio-pieza-ere-restaurante-rio-grande/202505301142362129738.html"
-
-  - fecha: 2021-05-13
-    titulo: "Fiscalía solicita apertura de juicio oral"
-    descripcion: "La Fiscalía Especial contra la Corrupción y la Criminalidad Organizada presenta escrito ante el Juzgado de Instrucción número 6 de Sevilla solicitando la apertura de juicio oral contra 9 procesados por delitos de prevaricación en concurso medial con malversación de caudales públicos. Inicialmente solicita 7 años de prisión para Juan Lanzas, 6 años para su pareja Beatriz N.M., y 7 años para María del Carmen García Sánchez, además de penas para los demás implicados."
-    type: "investigación"
+      - https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Andalucia/AGENDA/Se%C3%B1alamientos%20AP%20Andaluc%C3%ADa%20marzo%202025.pdf
+      - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/juicio-ere-rio-grande-otono-2026_0_2005268546.html
+    type: juicio
+    relevancia: media
+  - fecha: '2025-06-12'
+    titulo: Inicio de la vista y modificación de peticiones fiscales
+    descripcion: Se inició el juicio contra ocho personas. La Fiscalía redujo a tres años de prisión la petición
+      para Lanzas, Beatriz N.M., María del Carmen García Sánchez, Albarracín, González, Eduardo L.D.R. y Carlos
+      L.B.; para Fontela pidió dos años. La aplicación alegada del artículo 65.3 del Código Penal no constituye
+      sentencia.
     urls:
-      - "http://bufetediazarias.com/noticias/2021/octubre/14102021.html"
-
-  - fecha: 2021-10-14
-    titulo: "Auto de apertura de juicio oral"
-    descripcion: "El juez José Ignacio Vilaplana dicta auto de apertura de juicio oral en la pieza separada del caso ERE correspondiente al restaurante Río Grande, declarando a la Audiencia de Sevilla como órgano competente para su enjuiciamiento. En su auto, el instructor aborda 'la presunta ilicitud de las ayudas concedidas por la Consejería de Empleo a la entidad Río Grande sin sujeción al procedimiento legalmente establecido'. La Fiscalía solicita el comiso de 93.090,17 euros a Lanzas y de 26.054,56 euros al abogado Carlos L.B. como ganancias del delito."
-    type: "investigación"
+      - https://www.teleprensa.com/articulo/sevilla/fiscalia-baja-3-anos-peticion-carcel-mayoria-acusados-ere-rio-grande/202506121027332141430.html
+    type: juicio
+    relevancia: alta
+  - fecha: '2025-11-12'
+    titulo: Acuerdo de celebrar de nuevo el juicio
+    descripcion: Según la crónica publicada el 20 de noviembre, la Sección Primera dictó un auto de esta fecha que
+      ordenaba celebrar un nuevo juicio al haberse superado el intervalo legal tras las suspensiones. No se ha obtenido
+      el auto original.
     urls:
-      - "http://bufetediazarias.com/noticias/2021/octubre/14102021.html"
-      - "https://www.eldiario.es/andalucia/juez-abre-juicio-oral-piezas-ere-mercasevilla-rio-grande_1_8391412.html"
-
-  - fecha: 2025-03-05
-    titulo: "Suspensión del juicio por cambio de abogado"
-    descripcion: "El juicio del ERE de Río Grande, inicialmente previsto para principios de marzo de 2025, es suspendido por petición del nuevo abogado defensor de Juan Lanzas, designado el 21 de febrero, quien alega necesitar un 'margen razonable' de tiempo para estudiar la causa. La Audiencia Provincial de Sevilla reprograma la vista oral."
-    type: "resumen"
+      - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/juicio-ere-rio-grande-otono-2026_0_2005268546.html
+    type: juicio
+    relevancia: alta
+  - fecha: '2025-11-13'
+    titulo: Nuevo señalamiento para otoño de 2026
+    descripcion: Según Diario de Sevilla, una diligencia de esta fecha señaló siete sesiones entre el 28 de septiembre
+      y el 7 de octubre de 2026. Se recoge el señalamiento, sin dar por celebradas todas las sesiones ni por concluido
+      el juicio.
     urls:
-      - "https://www.teleprensa.com/articulo/sevilla/suspendido-juicio-ere-rio-grande-designacion-nuevo-abogado-lanzas/202503051022342051020.html"
-      - "https://www.teleprensa.com/articulo/sevilla/previsto-miercoles-juicio-pieza-ere-ayudas-restaurante-rio-grande/202503041502392050452.html"
-
-  - fecha: 2025-05-30
-    titulo: "Nueva fecha fijada para el juicio"
-    descripcion: "La Sección Primera de la Audiencia de Sevilla fija el 12 de junio de 2025 como nueva fecha para el inicio del juicio de la pieza ERE del restaurante Río Grande. Se confirma la acusación contra 8 procesados, tras haberse excluido a Jesús María Bordallo de la causa."
-    type: "resumen"
+      - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/juicio-ere-rio-grande-otono-2026_0_2005268546.html
+    type: juicio
+    relevancia: media
+  - fecha: '2026-10-02'
+    titulo: Se conocen declaraciones del nuevo juicio
+    descripcion: 'La crónica publicada este día relata la declaración de Fontela del jueves anterior: negó haber
+      percibido los 155.000 euros atribuidos y dijo haber abierto una cuenta a petición de González. Un asesor fiscal
+      declaró sobre aquella operación. Juan Márquez compareció como testigo; peritos de la defensa sostuvieron que
+      existían causas económicas y organizativas y cuestionaron documentación de las pólizas. Son versiones y pruebas
+      practicadas, no conclusiones de una sentencia.'
     urls:
-      - "https://www.teleprensa.com/articulo/sevilla/fijada-12-junio-nueva-fecha-juicio-pieza-ere-restaurante-rio-grande/202505301142362129738.html"
-
-  - fecha: 2025-06-12
-    titulo: "Inicio del juicio oral y rebaja de penas solicitadas"
-    descripcion: "Comienza el juicio del ERE de Río Grande ante la Sección Primera de la Audiencia de Sevilla sin la asistencia de Juan Lanzas, que se encuentra siendo operado quirúrgicamente. La Fiscalía modifica su escrito de acusación y rebaja las peticiones de pena aplicando el artículo 65.3 del Código Penal: reduce de 7 a 3 años la prisión solicitada para la mayoría de acusados (Lanzas, Beatriz N.M., María del Carmen García, Antonio Albarracín, Francisco González, Eduardo L.D.R. y Carlos L.B.), y pide 2 años para Carmen Fontela. Solicita que todos excepto Fontela restituyan 1.531.299,51 euros a la Junta de Andalucía."
-    type: "investigación"
-    urls:
-      - "https://www.teleprensa.com/articulo/sevilla/comienza-juicio-ere-rio-grande-asistencia-lanzas-estar-siendo-operado/202506120942342141345.html"
-      - "https://www.teleprensa.com/articulo/sevilla/fiscalia-baja-3-anos-peticion-carcel-mayoria-acusados-ere-rio-grande/202506121027332141430.html"
-
-  - fecha: 2025-06-12
-    titulo: "Albarracín niega comisiones y culpa a Lanzas"
-    descripcion: "Antonio Albarracín, exdirectivo de Vitalia actualmente en prisión por condenas previas en otras piezas de los ERE, declara ante el tribunal negando haber cobrado comisiones por este ERE ni por ningún otro. Asegura que Juan Lanzas era un 'comercial externo' a Vitalia y se desvincula del papel de Carmen Fontela como 'intrusa' en las prejubilaciones del restaurante. Albarracín llega esposado a la sala y responde exclusivamente a su abogado defensor."
-    type: "declaración"
-    urls:
-      - "https://www.teleprensa.com/articulo/sevilla/albarracin-niega-comisiones-ere-rio-grande-dice-que-lanzas-era-comercial-externo/202506121222592141736.html"
-      - "https://vivasevilla.es/andalucia/1903263/juicio-por-el-ere-de-rio-grande-niegan-las-comisiones-y-rebajan-las-penas/"
-
+      - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/primera-intrusa-ere-niega-haber-percibido-155-000-euros-poliza-rio-grande_0_2008121550.html
+    type: declaracion
+    relevancia: alta
 ---
+
+La pieza se refiere al ERE promovido en 2005 por Río Grande y a su financiación mediante seguros de rentas. Las informaciones sobre el auto de procedimiento abreviado atribuyen al instructor la tesis de que las ayudas se concedieron al margen del procedimiento y mediante pagos cruzados. También describen la intervención presunta de Atrado, Vitalia y un despacho de abogados. La Fiscalía sostiene que se incluyó a Fontela pese a no haber trabajado para el restaurante. Estas atribuciones no sustituyen la valoración del tribunal.
+
+El debate económico sigue siendo relevante: mientras la instrucción destacaba los beneficios contables de 2004, la crónica del nuevo juicio de octubre de 2026 recoge peritos de la defensa que alegaron pérdidas operativas y necesidades de reestructuración, además de cuestionar firmas y modificaciones documentales. Fontela negó el cobro que se le atribuye. La trabajadora contratada poco antes de cumplir 65 años mencionada en las noticias de la instrucción no se identifica aquí con Fontela: la fuente las describe por separado.
+
+Las ayudas de 1.531.300 euros, la restitución reclamada de 1.531.299,51 euros, la responsabilidad civil solidaria solicitada para Fontela y los comisos pretendidos tienen naturaleza distinta. No se agregan ni se presentan como daño declarado. Tampoco las fianzas de la apertura de juicio oral constituyen penas o perjuicio probado.
+
+La apertura de 2021 comprendía nueve personas; en mayo de 2025 Europa Press indicaba que Bordallo había sido excluido. Falta la resolución para precisar el motivo y alcance de esa exclusión. Guerrero aparece como antecedente histórico y fallecido, no como acusado presente en la vista. La comparecencia de Márquez en octubre de 2026 fue como testigo. Las condenas de Albarracín u otros participantes en diferentes piezas y los pronunciamientos constitucionales sobre la pieza política de los ERE no resuelven automáticamente esta causa.
+
+El juicio de junio de 2025 fue seguido de suspensiones y, según Diario de Sevilla, de la orden de repetirlo en noviembre. La información de octubre de 2026 acredita actividad de la nueva vista, pero no permite afirmar su conclusión, el resultado individual, posibles recursos ni firmeza. Permanecen pendientes los autos originales y el eventual desenlace posterior a las declaraciones conocidas.
