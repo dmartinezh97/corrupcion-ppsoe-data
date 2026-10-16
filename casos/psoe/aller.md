@@ -14,7 +14,7 @@ descripcion: 'David Moreno Bobela y Gabriel Pérez Villalta fueron absueltos del
 
 
   La controversia se refería a los pagos para las actividades deportivas y los monitores del polideportivo municipal
-  de Sotiello, amparados por convenios de 1996 y sus modificaciones y prórrogas. La sentencia recoge informes favorables
+  de Moreda, amparados por convenios de 1996 y sus modificaciones y prórrogas. La sentencia recoge informes favorables
   de Intervención entre noviembre de 1997 y diciembre de 2004 y reparos posteriores, a partir de 2005. No da por
   probada una concesión delictiva e ininterrumpida durante diecisiete años: concluye que no concurrían todos los
   requisitos de la prevaricación, incluida la arbitrariedad exigida penalmente y la conciencia de actuar injustamente.
