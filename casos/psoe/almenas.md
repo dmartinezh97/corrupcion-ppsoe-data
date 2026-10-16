@@ -1,107 +1,58 @@
 ---
 nombre: "Caso Almenas"
 partido: PSOE
-completado: true
+completado: false
 año: 2014
-fechaInicio: 2014-12-04
 fechaFin: ""
-estado: en investigación
+estado: "desconocido"
 descripcion: |
-  El Caso Almenas, también conocido como Operación Almenas, es una investigación de la Guardia Civil iniciada en diciembre de 2014 que examina presuntos delitos de fraude contra la administración pública, blanqueo de capitales y falsificación de documentos en administraciones locales de Castilla-La Mancha, principalmente en la provincia de Cuenca. La investigación se centra en el Ayuntamiento de Puebla de Almenara y otros consistorios de Cuenca y Albacete.
+  La operación Almenas investigaba en diciembre de 2014 un presunto fraude relacionado con servicios de una empresa de contabilidad contratados por administraciones locales de Cuenca y Albacete. La Guardia Civil actuaba bajo la dirección del Juzgado de Instrucción número 1 de Tarancón. Las informaciones que recogieron una comunicación del Tribunal Superior de Justicia de Castilla-La Mancha mencionaban supuestos delitos contra la Administración Pública, blanqueo de capitales y falsificación de documentos.
 
-  El caso se originó tras detectarse una factura falsificada presentada al Ayuntamiento de Puebla de Almenara. Las pesquisas policiales revelaron una presunta red de empresas ficticias creada para justificar transferencias relacionadas con adjudicaciones de contratos administrativos. El esquema involucró el fraccionamiento de contratos, pagos sin facturas justificativas que posteriormente fueron respaldados con documentación falsa por trabajos posiblemente no realizados, y la contratación de personas sin relación laboral con el ayuntamiento.
+  El 4 de diciembre de 2014 se informó de nueve detenciones, cinco registros —dos en los ayuntamientos de Puebla de Almenara y Villares del Saz— y 37 requerimientos judiciales de información. Entre los detenidos fueron identificados el alcalde socialista de Puebla de Almenara, Luis Miguel Bustos, y Vicente Fernández Carrasco, descrito entonces como secretario municipal. Ser detenido, trabajar para un ayuntamiento requerido o recibir un requerimiento de información no equivale a haber sido acusado o condenado.
 
-  Entre las irregularidades detectadas destaca el nombramiento de un secretario-interventor no habilitado que ejerció funciones durante años, el pago sistemático de sobresueldos en dinero negro a varios empleados municipales, y discrepancias significativas entre los ingresos reales y los declarados ante Hacienda por parte de algunos implicados. En el caso del alcalde Luis Miguel Bustos, se detectó una diferencia de más de 97.000 euros entre sus ingresos reales y los declarados en el IRPF entre 2008 y 2012.
-resumen: "Investigación por fraude administrativo, blanqueo de capitales y falsificación de documentos en ayuntamientos de Cuenca, con pagos de sobresueldos en negro y facturas falsas."
-lugar: "Puebla de Almenara, Cuenca (Castilla-La Mancha)"
+  No se han localizado los autos originales ni un desenlace judicial verificable para cada persona hasta el 15 de octubre de 2026. Tampoco se ha contrastado íntegramente la relación nominal de los nueve detenidos. No se afirma que la instrucción o las medidas cautelares de 2014 sigan vigentes, ni que exista sentencia firme, archivo o absolución. Las alegaciones sobre facturas, sobresueldos y discrepancias tributarias de la ficha anterior no se presentan como hechos probados ni como un daño público cuantificado.
+resumen: "Investigación de 2014 sobre servicios contables y presunto fraude en administraciones locales de Cuenca y Albacete; desenlace judicial individual no verificado."
+lugar: "Puebla de Almenara y otras administraciones locales de Cuenca y Albacete, Castilla-La Mancha"
 tribunal:
-  - "Juzgado de Instrucción nº 1 de Tarancón"
+  - "Juzgado de Instrucción número 1 de Tarancón (instrucción en 2014)"
 numeroSentencia: ""
 implicados:
   - nombre: "Luis Miguel Bustos"
-    cargo: "Alcalde de Puebla de Almenara (PSOE, desde 2007)"
-    rol: "Imputado por prevaricación y malversación; nombró secretario-interventor no habilitado, asignó trabajos arbitrariamente, detectada discrepancia de 97.000 euros en IRPF."
-
+    cargo: "Alcalde del PSOE de Puebla de Almenara en diciembre de 2014"
+    rol: "Identificado como detenido en la operación. La información del 4 de diciembre anunciaba su puesta a disposición judicial ese día; resultado procesal posterior no verificado."
   - nombre: "Vicente Fernández Carrasco"
-    cargo: "Trabajador del Ayuntamiento de Puebla de Almenara (desde 1999)"
-    rol: "Imputado por prevaricación y malversación; ejerció como secretario-interventor sin acreditación, percibió sobresueldos en negro, registró ingresos injustificados mediante técnicas de blanqueo."
-
-  - nombre: "María Carmen Pavón"
-    cargo: "Secretaria-interventora del Ayuntamiento de Puebla de Almenara"
-    rol: "Imputada por prevaricación y malversación; sustituyó a Fernández, mantuvo pagos de sobresueldos en negro, conocía la presentación de facturación falsa."
-
-  - nombre: "Manuel Urbano Montealegre Martínez"
-    cargo: "Concejal del Ayuntamiento de Puebla de Almenara"
-    rol: "Imputado por prevaricación y malversación; utilizó relación personal con el alcalde para realizar trabajos remunerados con medios municipales irregulares."
-
-  - nombre: "María Carmen Sobrino Sánchez"
-    cargo: "Trabajadora del Ayuntamiento de Puebla de Almenara"
-    rol: "Imputada por prevaricación y malversación; esposa de Vicente Fernández Carrasco, presunta perceptora de sobresueldos en negro."
-
-  - nombre: "José Antonio Canorea"
-    cargo: "Empresario"
-    rol: "Imputado por prevaricación y malversación; principal empresario de la trama, presentó factura falsificada que originó la investigación policial, participó en esquema de empresas ficticias."
-
-  - nombre: "María Dolores García Yuste"
-    cargo: "Exsecretaria del Ayuntamiento"
-    rol: "Investigada en relación con irregularidades administrativas durante su gestión en el ayuntamiento."
-
-  - nombre: "Antonia Yuste García"
-    cargo: "Relacionada con la administración municipal"
-    rol: "Investigada por posible participación en el entramado de facturación irregular."
-
-  - nombre: "Cristina Alcocer Jarabo"
-    cargo: "Empresaria"
-    rol: "Investigada por posible colaboración en el esquema de empresas ficticias para justificar transferencias."
+    cargo: "Descrito como secretario del Ayuntamiento de Puebla de Almenara en la información de diciembre de 2014"
+    rol: "Identificado como detenido y puesto a disposición judicial junto al alcalde. No se han verificado su desenlace individual ni las alegaciones sobre su habilitación profesional."
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "malversación"
+  - "administración local"
+  - "contratación pública"
   - "blanqueo de capitales"
   - "falsificación de documentos"
-impactoSocial: "El caso afectó gravemente la imagen del PSOE en Castilla-La Mancha y generó un debate sobre los controles en la contratación de las pequeñas administraciones locales. A pesar de la imputación, Luis Miguel Bustos volvió a encabezar la lista del PSOE en las elecciones municipales de 2015, aunque el escándalo redujo la confianza ciudadana en la gestión municipal."
+impactoSocial: "La investigación motivó registros y requerimientos en numerosas administraciones locales y controversia política sobre los controles de contratación. El PSOE regional planteó que los ayuntamientos afectados pudieran personarse frente a la empresa investigada; esa declaración no acredita que se produjera tal personación ni una responsabilidad penal."
 documentos: []
 cronologia:
-  - fecha: "2008-01-01"
-    titulo: "Inicio del período de irregularidades detectadas"
-    descripcion: "Comienza el período (2008-2012) en el que se detectaron las principales irregularidades administrativas y económicas en el Ayuntamiento de Puebla de Almenara, incluyendo discrepancias entre ingresos reales y declarados, pagos de sobresueldos en negro y facturación irregular."
-    type: "investigacion"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Almenas&numero=267"
-
-  - fecha: "2014-12-04"
-    titulo: "Operación Almenas: 9 detenciones en Cuenca y Albacete"
-    descripcion: "La Guardia Civil practica 9 detenciones en el marco de la Operación Almenas, incluyendo al alcalde de Puebla de Almenara, Luis Miguel Bustos (PSOE), y al secretario-interventor del ayuntamiento. Se investigan presuntos delitos contra la administración pública, blanqueo de capitales y falsificación de documentos. Se realizan registros en cinco ayuntamientos y domicilios particulares en Cuenca y Albacete. De los 9 detenidos, 7 quedan en libertad y 3 con medidas cautelares de comparecencia los días 1 y 15 de cada mes."
+  - fecha: "2014-12-03"
+    titulo: "Libertad con comparecencias para tres detenidos"
+    descripcion: "Según el comunicado del TSJ de Castilla-La Mancha reproducido por Europa Press el 4 de diciembre, tres personas identificadas con iniciales fueron puestas a disposición judicial el miércoles anterior y quedaron libres con obligación de comparecer los días 1 y 15. No se equiparan esas iniciales con nombres completos no contrastados ni se afirma que las medidas continúen vigentes."
     type: "investigacion"
     relevancia: "alta"
     urls:
-      - "https://www.eldiario.es/castilla-la-mancha/operacion-almenas-ayuntamientos-cuenca-albacete_1_4479397.html"
+      - "https://www.20minutos.es/noticia/2315332/0/nueve-detenidos-por-distintos-delitos-operacion-almenas-desarrollada-consistorios-empresas-clm.amp.html"
+  - fecha: "2014-12-04"
+    titulo: "Se informa de nueve detenciones y de la operación en Cuenca y Albacete"
+    descripcion: "Europa Press informó de cinco registros y 37 requerimientos a administraciones locales. La nota judicial anunciaba para ese jueves la puesta a disposición de otros dos detenidos, identificados con iniciales; EFE identificó al alcalde Luis Miguel Bustos y elDiario.es al secretario Vicente Fernández Carrasco. No se sitúan las nueve detenciones en un único día ni se presentan todos los ayuntamientos requeridos como investigados penalmente."
+    type: "detencion"
+    relevancia: "alta"
+    urls:
+      - "https://www.20minutos.es/noticia/2315332/0/nueve-detenidos-por-distintos-delitos-operacion-almenas-desarrollada-consistorios-empresas-clm.amp.html"
       - "https://www.encastillalamancha.es/politica-cat/nueve-detenidos-por-el-supuesto-fraude-empresarial-en-ayuntamientos-de-cuenca/"
-
-  - fecha: "2014-12-05"
-    titulo: "Revelación del origen de la investigación: una factura falsificada"
-    descripcion: "Se hace público que la investigación policial se originó tras detectarse una factura falsificada presentada al Ayuntamiento de Puebla de Almenara. La Guardia Civil descubre un patrón de pagos sin facturas justificativas que posteriormente fueron amparados con facturas falsas por trabajos posiblemente no realizados, emitidas a personas sin relación laboral con el ayuntamiento."
-    type: "investigacion"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Almenas&numero=267"
-
-  - fecha: "2014-12-15"
-    titulo: "Primeras comparecencias judiciales de los imputados"
-    descripcion: "Los tres implicados con medidas cautelares realizan su primera comparecencia obligatoria ante el Juzgado de Instrucción nº 1 de Tarancón, como parte de las medidas impuestas tras las detenciones. La investigación continúa examinando la red de empresas ficticias y las adjudicaciones irregulares."
-    type: "juicio"
-    urls: []
-
-  - fecha: "2015-05-01"
-    titulo: "Luis Miguel Bustos vuelve a encabezar la lista del PSOE"
-    descripcion: "A pesar de estar imputado en la Operación Almenas, Luis Miguel Bustos vuelve a encabezar la lista electoral del PSOE para las elecciones municipales de 2015 en Puebla de Almenara. El Partido Popular local critica esta decisión y exige explicaciones sobre la imputación y el presunto uso de una caja B en el ayuntamiento."
-    type: "resumen"
-    urls:
-      - "https://www.ppcuenca.es/El-PP-de-Puebla-de-Almenara-lamenta-la-cobardia-del-alcalde-Luis-Miguel-Bustos-que-sigue-sin-aclarar-por-que-esta-imputado-en-la-operacion-Almenas_es_1_2058.html"
-
-  - fecha: "2017-06-05"
-    titulo: "Actualización del caso: investigación continúa abierta"
-    descripcion: "Según la base de datos de casos-aislados.com, el caso sigue en estado abierto con 9 personas implicadas. No se ha dictado sentencia firme y la investigación judicial continúa bajo la dirección del Juzgado de Instrucción nº 1 de Tarancón."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Almenas&numero=267"
+      - "https://www.eldiario.es/castilla-la-mancha/operacion-almenas-ayuntamientos-cuenca-albacete_1_4479397.html"
 ---
+
+La operación se conoció públicamente en diciembre de 2014, pero ese dato no determina el día en que comenzó la investigación ni el período completo de los hechos. La información disponible entonces, con la causa bajo secreto, describía una investigación sobre servicios contables prestados a administraciones locales. No permite dar por acreditada una red de empresas ficticias, una malversación consumada o la culpabilidad de empleados y cargos municipales.
+
+Las cifras publicadas deben leerse en su contexto temporal. De los nueve detenidos, tres habían pasado a disposición judicial el 3 de diciembre y quedaron libres con comparecencias periódicas; otros cuatro habían sido liberados tras declarar ante la Guardia Civil, mientras se anunciaba la puesta a disposición de otros dos el día 4. Por ello, las siete personas en libertad incluían a las tres sujetas a medidas: no eran grupos que debieran sumarse. La obligación de comparecer los días 1 y 15 tampoco prueba que hubiera una comparecencia efectiva el 15 de diciembre, ni que fuera una sesión de juicio.
+
+La identificación pública de Bustos y Fernández Carrasco está respaldada por las noticias consultadas. Una nota del PP de Cuenca difundida en abril de 2015 señaló también a la secretaria Carmen Pavón, pero esa afirmación partidista no sustituye una resolución judicial ni permite reconstruir por sí sola su situación procesal. No se ha contrastado con fuentes judiciales o periodísticas independientes la relación completa de otras personas incluida anteriormente en esta ficha.
+
+No se incorpora una cifra de perjuicio: las cantidades atribuidas a ingresos o discrepancias de IRPF no equivalen por sí mismas a fondos municipales sustraídos, y no se dispone del informe policial original ni de una liquidación judicial. La ausencia de resoluciones localizadas sobre acusaciones, archivos, absoluciones, condenas o recursos impide atribuir cualquiera de esos resultados a los afectados y mantener como actual el estado de instrucción descrito en 2014.
