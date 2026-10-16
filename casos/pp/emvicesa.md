@@ -3,7 +3,7 @@ nombre: Emvicesa
 partido: PP
 completado: false
 año: 2015
-fechaInicio: 2015-06-25
+fechaInicio: '2015-06-25'
 estado: condena recurrida
 descripcion: 'El caso Emvicesa se refiere a la pretendida adjudicación irregular de 317 viviendas de protección
   oficial (VPO) de la parcela B4 del Plan Parcial de Loma Colmenar, en Ceuta, gestionadas por la Empresa Municipal
@@ -17,8 +17,7 @@ descripcion: 'El caso Emvicesa se refiere a la pretendida adjudicación irregula
   López Fernández. En febrero de 2017 fue detenido en Marbella y pasó a prisión provisional; otras personas, entre
   ellas las exconsejeras Susana Román Bernet y Rabea Mohamed Tounsi y el exdiputado Mohamed Alí, quedaron investigadas
   y en libertad con cargos. En noviembre de 2018 la jueza instructora acordó continuar el procedimiento por los
-  trámites del procedimiento abreviado contra 60 personas. La apertura de juicio oral en octubre de 2020, citada
-  en la revisión previa, queda pendiente de contraste en el auto original.
+  trámites del procedimiento abreviado contra 60 personas. La fecha exacta del auto de apertura de juicio oral queda pendiente de contraste en su original.
 
 
   El juicio oral se celebró ante la Sección Sexta de la Audiencia Provincial de Cádiz, con sede en Ceuta, entre
@@ -30,8 +29,8 @@ descripcion: 'El caso Emvicesa se refiere a la pretendida adjudicación irregula
 
 
   La sentencia de 2024 se notificó como no firme; no se ha acreditado la firmeza individual actual. La Fiscalía
-  anunció un recurso limitado a la absolución de cinco trabajadores de Emvicesa y la prensa informó posteriormente
-  de su presentación ante el Tribunal Supremo y la defensa de López presentó recurso de casación ante el Supremo.
+  anunció un recurso limitado a la absolución de cinco trabajadores de Emvicesa. La prensa informó posteriormente
+  de su presentación ante el Tribunal Supremo y de otro recurso de casación de la defensa de López.
   A 23 de septiembre de 2026, según la información periodística disponible, la causa central seguía en fase de recurso
   ante el Tribunal Supremo y no se ha localizado resolución posterior del alto tribunal. En una pieza separada del
   caso sobre contratación de ACEMSA, la misma Sección Sexta dictó el 17 de septiembre de 2026 una sentencia, no
@@ -125,8 +124,7 @@ cronologia:
   titulo: Publicación de la 'lista fantasma' de las 317 VPO de Loma Colmenar
   descripcion: 'El Pueblo de Ceuta publica un listado de supuestos adjudicatarios de las 317 viviendas de protección
     oficial de Loma Colmenar antes de que se celebre el sorteo. El Gobierno de la Ciudad niega la existencia de
-    una trama y atribuye la filtración a una deslealtad. La fecha del 25 de junio de 2015 consta en el texto íntegro
-    de El Confidencial y en la hemeroteca de El Pueblo de Ceuta: en su declaración judicial, Susana Román situó
+    una trama y atribuye la filtración a una deslealtad. La fecha del 25 de junio de 2015 consta en la hemeroteca de El Pueblo de Ceuta: en su declaración judicial, Susana Román situó
     el 25 de junio la publicación del listado en EL PUEBLO.'
   type: denuncia
   urls:
