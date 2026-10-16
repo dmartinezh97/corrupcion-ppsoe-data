@@ -10,11 +10,12 @@ resumen: Ayudas a González Byass y su asociación de extrabajadores, con exclus
 descripcion: 'La pieza penal examinó ayudas de al menos 19.757.235,14 euros a González Byass y su asociación de extrabajadores
   entre 2008 y 2010. La Audiencia excluyó a Antonio Fernández en mayo de 2020: no había firmado la adhesión ni cobrado
   rentas de la póliza. En julio de 2022 se conoció la continuación contra seis investigados, incluido Daniel Alberto
-  Rivera, cuyo desenlace posterior no se acredita a 15 de octubre de 2026. Por separado, la sentencia 9/2024 del Tribunal
-  de Cuentas, de 20 de diciembre, desestimó íntegramente una demanda de 709.450 euros por dos pagos, al no apreciar daño
-  en esas operaciones; la publicación figura como no firme. No se dispone de recursos posteriores ni de todas las resoluciones
-  penales individuales. El volumen de ayudas no se presenta como perjuicio, y la decisión contable no equivale al archivo
-  de toda la causa penal.'
+  Rivera. La memoria fiscal de 2026 identifica las DP 2714/16, PA 157/22, con calificación del Ministerio Fiscal de 21
+  de julio de 2022 y juicio pendiente de señalamiento a 7 de abril de 2026. No se acredita el desenlace penal posterior
+  a 15 de octubre de 2026. Por separado, la sentencia 9/2024 del Tribunal de Cuentas, de 20 de diciembre, desestimó íntegramente
+  una demanda de 709.450 euros por dos pagos, al no apreciar daño en esas operaciones; la publicación figura como no
+  firme. No se dispone de recursos posteriores ni de todas las resoluciones penales individuales. El volumen de ayudas
+  no se presenta como perjuicio, y la decisión contable no equivale al archivo de toda la causa penal.'
 implicados:
 - nombre: Antonio Fernández García
   cargo: Exconsejero de Empleo de la Junta de Andalucía y antiguo trabajador de González Byass
@@ -23,7 +24,8 @@ implicados:
 - nombre: Daniel Alberto Rivera
   cargo: Exdirector general de Trabajo y Seguridad Social de la Junta de Andalucía
   rol: Entre los seis investigados contra los que se acordó continuar como procedimiento abreviado, según la información
-    de julio de 2022. No se acredita juicio o resultado posterior individual.
+    de julio de 2022. La Fiscalía registra calificación de esta pieza el 21 de julio de 2022; no se dispone del escrito
+    para individualizar sus peticiones ni de un resultado posterior.
 - nombre: Agustín Barberá
   cargo: Exviceconsejero de Empleo de la Junta de Andalucía
   rol: La reseña del auto de 2022 explica que no se continuaba contra él por haber sido encausado en el procedimiento
@@ -99,6 +101,14 @@ cronologia:
   - https://www.europapress.es/andalucia/noticia-juez-excluye-exconsejero-antonio-fernandez-pieza-ere-gonzalez-byass-no-llegar-cobrar-ayudas-20220714095826.html
   type: judicial
   relevancia: alta
+- fecha: '2022-07-21'
+  titulo: Calificación del Ministerio Fiscal
+  descripcion: La memoria fiscal de 2026 registra esta fecha de calificación en las DP 2714/16, PA 157/22, identificadas
+    como Gonzalez Byass. La tabla no individualiza las peticiones contra cada persona.
+  urls:
+  - https://www.fiscal.es/memorias/memoria2026/FISCALIA_SITE/capitulo_II/cap_II_6_6.html
+  type: judicial
+  relevancia: alta
 - fecha: '2024-12-20'
   titulo: Desestimación de la demanda contable
   descripcion: La sentencia 9/2024 desestima íntegramente la reclamación de 709.450 euros e impone las costas a la Junta.
@@ -106,6 +116,15 @@ cronologia:
     rentas de beneficiarios irregulares. La copia publicada figura como no firme y admite apelación.
   urls:
   - https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2024/Sentencia_9_2024.pdf
+  type: judicial
+  relevancia: alta
+- fecha: '2026-04-07'
+  titulo: La Fiscalía registra el juicio pendiente de señalamiento
+  descripcion: La memoria aclara que esta fecha corresponde a la elaboración de la tabla, cuando todavía no existía señalamiento,
+    y al cómputo de la demora. No acredita una celebración de juicio ni un señalamiento para ese día. No se documenta
+    aquí el estado posterior.
+  urls:
+  - https://www.fiscal.es/memorias/memoria2026/FISCALIA_SITE/capitulo_II/cap_II_6_6.html
   type: judicial
   relevancia: alta
 ---
@@ -116,6 +135,8 @@ Antonio Fernández no cobró las rentas de la póliza ni firmó la adhesión. La
 
 La vía contable tiene un objeto concreto: dos pagos por un total de 709.450 euros. El Tribunal de Cuentas desestimó la demanda en diciembre de 2024. Aunque apreció defectos procedimentales, consideró que la regularización del Decreto-ley 4/2012 y la novación habían proporcionado cobertura a esos pagos; además, el ajuste de la prima excluyó la financiación pública de rentas del beneficiario cuestionado. Los gastos de intermediación se remitían a otro procedimiento, B-68/15. La desestimación no se extiende a operaciones que no fueron objeto de esta demanda.
 
-La sentencia contable se publica como no firme y permite apelación. No se dispone del desenlace posterior de los seis investigados, de todas sus identidades ni de eventuales recursos contables. No se deduce de ello que continúe abierta la pieza o que se haya archivado en su totalidad. Las sentencias de otros ERE y los procedimientos laborales recientes de la empresa tienen objetos distintos.
+La sentencia contable se publica como no firme y permite apelación. La memoria fiscal de 2026 identifica esta pieza como DP 2714/16, PA 157/22, y registra calificación del Ministerio Fiscal el 21 de julio de 2022. A 7 de abril de 2026 figuraba pendiente de señalamiento: la memoria aclara que esa fecha corresponde a la elaboración de la tabla y al cálculo de la demora, no a un juicio celebrado o fijado. No se dispone del desenlace posterior de los seis investigados, de todas sus identidades ni de eventuales recursos contables. No se deduce de ello que continúe abierta la pieza o que se haya archivado en su totalidad. Las sentencias de otros ERE y los procedimientos laborales recientes de la empresa tienen objetos distintos.
 
 Fuentes: [auto reseñado en 2022, Europa Press](https://www.europapress.es/andalucia/noticia-juez-excluye-exconsejero-antonio-fernandez-pieza-ere-gonzalez-byass-no-llegar-cobrar-ayudas-20220714095826.html), [auto de mayo de 2020, Diario de Sevilla](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Empleo-Antonio-Fernandez-ERE-Gonzalez_0_1464453926.html), [sentencia contable original](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2024/Sentencia_9_2024.pdf), [reseña nominal de diciembre de 2024](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/tribunal-cuentas-exculpa-ex-consejero_0_2003045310.html).
+
+Fuente adicional: [memoria fiscal de 2026, dilaciones procesales](https://www.fiscal.es/memorias/memoria2026/FISCALIA_SITE/capitulo_II/cap_II_6_6.html).
