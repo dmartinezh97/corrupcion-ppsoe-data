@@ -1,136 +1,183 @@
 ---
-nombre: "Caso de los Avales"
-partido: "PSOE"
-completado: true
-año: 2012
-fechaInicio: "2005-01-01"
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El Caso de los Avales es una pieza separada de la macrocausa de los ERE de Andalucía que investiga la concesión irregular de avales y garantías públicas millonarias por parte de la Agencia de Innovación y Desarrollo de Andalucía (IDEA), dependiente del Gobierno autonómico del PSOE, a empresas privadas que no cumplían los requisitos legales para recibirlos. Los avales se otorgaron a compañías en situación de quiebra técnica o con dudosa viabilidad económica, sin informes técnicos favorables ni justificación objetiva, como mecanismo encubierto de ayudas a empresas afines al Gobierno socialista andaluz.
+nombre: Caso de los avales de IDEA
+partido: PSOE
+completado: false
+año: 2014
+estado: Piezas con situaciones procesales distintas
+lugar: Andalucía; procedimientos en Sevilla
+descripcion: 'La investigación sobre los avales de la Agencia IDEA se dividió en procedimientos por empresas y modalidades
+  de ayuda. No existe un único resultado aplicable a todas las ramas ni debe identificarse automáticamente con las
+  piezas de ayudas sociolaborales de los ERE. Se examina si se concedieron y ejecutaron garantías públicas sin cumplir
+  los requisitos exigibles, bajo la hipótesis de prevaricación y malversación; no se presenta esa hipótesis como
+  una culpabilidad declarada.
 
-  La Cámara de Cuentas de Andalucía alertó en su informe de fiscalización de 2012 de graves incumplimientos normativos en la gestión de estos fondos por parte de IDEA. Las entidades financieras ejecutaron avales fallidos por los que la Junta de Andalucía tuvo que responder entre 2010 y 2013 por importe de 82,44 millones de euros, de los que la Administración autonómica únicamente logró recuperar 9,11 millones (un 11 por ciento), con pérdidas reales superiores a 73 millones de euros para las arcas públicas.
 
-  La causa judicial se ramificó en diversas piezas separadas que investigan avales concretos concedidos a empresas como Pickman La Cartuja de Sevilla (1,3 millones de euros en 2005), el Grupo TPM -Inversiones Plásticas TPM S.L.- (1,2 millones de euros en 2008, concedidos pese a que la empresa ya estaba en concurso voluntario de acreedores desde enero de 2005), y la empresa Tartessos Car (1,5 millones de euros en avales propios o excepcionales). En todas ellas se investigan presuntos delitos de prevaricación administrativa y malversación de caudales públicos.
+  En la pieza del Grupo TPM, por un aval propio de 1.190.000 euros, en enero de 2026 se anunciaron citaciones de
+  18 investigados. Europa Press informó el 7 de septiembre de 2026 de la continuación por procedimiento abreviado
+  contra 18 ex altos cargos, entre ellos Francisco Vallejo. Ese paso no equivale a una apertura de juicio oral ni
+  a una condena. En Pickman La Cartuja, por un aval de 1.300.000 euros, el Poder Judicial comunicó en enero de 2026
+  citaciones de 21 investigados y una prórroga. Gaspar Llanes no fue citado junto a ellos: se acordó notificarle
+  el auto, informarle de sus derechos y certificar su aforamiento, sin elevar aún una exposición razonada al TSJA.
 
-  En septiembre de 2024 la Sección Primera de la Audiencia Provincial de Sevilla anuló parte de la investigación sobre los avales a Tartessos Car por un error procedimental del juzgado instructor: el Juzgado de Instrucción número 6 de Sevilla había ordenado prorrogar la investigación en junio de 2017 cuando el plazo legal para hacerlo ya había expirado, invalidando así casi siete años de diligencias policiales, periciales y declaraciones. Este mismo tipo de error judicial afectó a otras piezas de la macrocausa de los ERE.
 
-  A comienzos de 2026 el caso sigue activo en su vertiente relativa a los avales a Pickman La Cartuja y al Grupo TPM. El exconsejero de Innovación Francisco Vallejo, el diputado del PSOE andaluz Gaspar Llanes —que fue miembro del consejo de administración de IDEA— y otros dieciocho altos cargos de la Junta socialista han sido citados a declarar como investigados ante el Juzgado de Instrucción número 6 de Sevilla. Las declaraciones se programaron para los meses de febrero, marzo y abril de 2026.
+  En Tartessos Car, la Audiencia de Sevilla limitó la instrucción a junio de 2017 mediante resoluciones de 2023
+  y 2024, invalidando diligencias y prórrogas posteriores. Eso no permite atribuir por sí solo un sobreseimiento
+  individual a todos los afectados. El auto original de 29 de mayo de 2025 se limita a oír a las partes sobre continuar,
+  archivar o plantear una cuestión prejudicial al TJUE. Su firmeza afecta a ese traslado para alegaciones, no acredita
+  el archivo de la causa ni que se enviara la cuestión europea. No se han verificado la decisión posterior de Tartessos,
+  el desarrollo posterior de Pickman ni las acusaciones, recursos o desenlaces individuales posteriores en TPM hasta
+  el 15 de octubre de 2026.
 
-resumen: "Avales millonarios irregulares concedidos por la agencia IDEA de la Junta andaluza del PSOE a empresas afines sin requisitos legales"
-coste: 73330000
-lugar: "Sevilla, Andalucía"
+
+  Los 1,19 millones de TPM, 1,3 millones de Pickman y 1,5 millones del aval propio de Tartessos describen garantías
+  distintas, no un daño que pueda sumarse sin más. El documento de Tartessos también trata otras ayudas y avales
+  reglados. Las cifras globales de avales fallidos y recuperaciones de IDEA no constituyen una cuantificación judicial
+  del perjuicio de estas piezas. Faltan resoluciones y comprobaciones individuales relevantes; se conserva la revisión
+  sin completar.'
+resumen: 'Investigación de avales de IDEA con ramas distintas: TPM pasó a procedimiento abreviado en 2026; Pickman
+  tenía citaciones y Tartessos una controversia sobre plazos. Faltan resoluciones y desenlaces individuales.'
 tribunal:
-  - "Juzgado de Instrucción nº 6 de Sevilla"
-  - "Audiencia Provincial de Sevilla, Sección 1ª"
-numeroSentencia: ""
+- Juzgado de Instrucción número 6 de Sevilla; posteriormente Sección de Instrucción del Tribunal de Instancia de
+  Sevilla, plaza 6
+- Audiencia Provincial de Sevilla — Sección Primera
 implicados:
-  - nombre: "Francisco Vallejo Serrano"
-    cargo: "Exconsejero de Innovación, Ciencia y Empresa de la Junta de Andalucía (PSOE)"
-    rol: "Investigado por presunta prevaricación y malversación en la concesión de avales a Pickman La Cartuja y al Grupo TPM como presidente del consejo de administración de IDEA"
-
-  - nombre: "Gaspar Llanes Rodríguez"
-    cargo: "Diputado del PSOE en el Parlamento de Andalucía; exmiembro del consejo de administración de IDEA"
-    rol: "Investigado por su participación como miembro del consejo de administración de IDEA en la aprobación del aval irregular de 1,3 millones a Pickman La Cartuja"
-
-  - nombre: "Agustín Barberá"
-    cargo: "Exviceconsejero de Innovación de la Junta de Andalucía (PSOE)"
-    rol: "Investigado por presunta prevaricación y malversación en la concesión del aval irregular al Grupo TPM"
-
-  - nombre: "Jesús Rodríguez Román"
-    cargo: "Exviceconsejero de Empleo de la Junta de Andalucía (PSOE)"
-    rol: "Investigado por presunta prevaricación y malversación en la concesión del aval irregular al Grupo TPM"
-
-  - nombre: "Jacinto Cañete"
-    cargo: "Exdirector general de la Agencia IDEA (2008-2009)"
-    rol: "Investigado en la pieza de avales a Tartessos Car; previamente condenado a seis años de prisión y 30 años de inhabilitación por prevaricación y malversación en otros expedientes de IDEA"
-
-  - nombre: "Bienvenido Martínez Martínez"
-    cargo: "Exdirector de Inversiones Estratégicas de la Agencia IDEA; cuñado de la exdirectora de la Guardia Civil María Gámez"
-    rol: "Investigado en la pieza de avales a Tartessos Car por presunta prevaricación y malversación"
-
-  - nombre: "Antonio Diz-Lois Ruiz"
-    cargo: "Exdirector Financiero de la Agencia IDEA"
-    rol: "Investigado en la pieza de avales a Tartessos Car por su participación en la validación y concesión de los avales irregulares"
-
+- nombre: Francisco Vallejo Serrano
+  cargo: Exconsejero de Innovación, Ciencia y Empresa de la Junta de Andalucía
+  rol: Investigado en las ramas TPM y Pickman. La información de septiembre de 2026 lo incluye entre los afectados
+    por la continuación por procedimiento abreviado en TPM. Sin condena verificada por estos avales.
+- nombre: Gaspar Llanes Rodríguez
+  cargo: Diputado autonómico del PSOE en la información de enero de 2026; antiguo vocal del Consejo Rector de IDEA
+  rol: En Pickman se acordó notificarle el auto e informarle de sus derechos y solicitar certificación de su condición
+    de aforado. No fue citado entre los 21 investigados ni se acreditó entonces una exposición razonada al TSJA.
+    Evolución posterior no contrastada.
+- nombre: Agustín Barberá
+  cargo: Exviceconsejero de Empleo de la Junta de Andalucía
+  rol: Citado como investigado en la rama TPM para febrero de 2026, según la información sobre las citaciones. No
+    se ha verificado una acusación o resultado individual posterior mediante su resolución original.
+- nombre: Jesús Rodríguez Román
+  cargo: Exviceconsejero de Innovación de la Junta de Andalucía
+  rol: Citado como investigado en la rama TPM para febrero de 2026. No se ha verificado una acusación o resultado
+    individual posterior mediante su resolución original.
+- nombre: Jacinto Cañete
+  cargo: Exdirector general de IDEA
+  rol: Investigado y recurrente en la rama Tartessos Car, según la información de septiembre de 2024. La limitación
+    de diligencias no acredita por sí sola un sobreseimiento individual. Sin desenlace posterior contrastado.
+- nombre: Bienvenido Martínez Martínez
+  cargo: Exdirector de Inversiones Estratégicas de IDEA
+  rol: Investigado y recurrente en la rama Tartessos Car, según la información de septiembre de 2024. La limitación
+    de diligencias no acredita por sí sola un sobreseimiento individual. Sin desenlace posterior contrastado.
+- nombre: Antonio Diz-Lois Ruiz
+  cargo: Exdirector financiero de IDEA
+  rol: Investigado y recurrente en la rama Tartessos Car, según la información de septiembre de 2024. La limitación
+    de diligencias no acredita por sí sola un sobreseimiento individual. Sin desenlace posterior contrastado.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "avales irregulares"
-  - "fondos públicos"
-  - "Andalucía"
-  - "ERE"
-
-impactoSocial: "El Caso de los Avales forma parte del ecosistema de corrupción de la Junta de Andalucía bajo el PSOE que abarca los ERE, Invercaria y Bahía Competitiva. Las pérdidas para los contribuyentes andaluces superan los 73 millones de euros. Un error procedimental del juzgado instructor permitió que varios de los principales acusados evitaran ser condenados en la pieza de Tartessos Car, lo que generó un intenso debate sobre la impunidad jurídica. El juez instructor llegó a plantear llevar la cuestión de los plazos procesales ante el Tribunal de Justicia de la Unión Europea para evitar que errores similares dejen sin condena otros casos de corrupción del PSOE andaluz."
-
-documentos: null
-
+- avales públicos
+- Agencia IDEA
+- presunta prevaricación
+- presunta malversación
+impactoSocial: Las investigaciones cuestionan el control del riesgo y de las condiciones de las ayudas empresariales.
+  Las decisiones sobre plazos de instrucción y el eventual recurso al TJUE deben distinguirse de una valoración
+  judicial definitiva de la responsabilidad penal o del perjuicio económico.
+documentos:
+- fecha: '2025-05-29'
+  titulo: Auto de traslado para alegaciones en Tartessos Car (DP 3180/2022; ECLI:ES:JI:2025:3A)
+  filetype: pdf
+  paginas: 33
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6e47726df2160088a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2005-01-01"
-    titulo: "Concesión del primer aval irregular: Pickman La Cartuja"
-    descripcion: "La Agencia IDEA, bajo la presidencia de su consejo de administración por el exconsejero Francisco Vallejo, concede un aval de 1,3 millones de euros a la empresa Pickman La Cartuja de Sevilla. Según la investigación judicial posterior, el aval se otorgó sin cumplir los requisitos legales exigibles y sin justificación técnica suficiente."
-    type: "resumen"
-    urls:
-      - "https://www.eleconomista.es/legal/noticias/13736308/01/26/investigan-al-parlamentario-gaspar-llanes-y-al-exconsejero-vallejo-por-avales-de-idea-de-13-millones-a-pickman-la-cartuja-en-2005.html"
-
-  - fecha: "2008-09-30"
-    titulo: "Aval de 1,2 millones al Grupo TPM pese a su situación de quiebra"
-    descripcion: "La Agencia IDEA formaliza un aval de 1.190.000 euros a favor del Grupo TPM (Inversiones Plásticas TPM S.L.). El aval se concede pese a que la empresa había sido declarada en concurso voluntario de acreedores en enero de 2005, lo que evidencia la ausencia de base técnica o jurídica para autorizar la ayuda. Vallejo, Barberá y Rodríguez Román son investigados por este acto."
-    type: "resumen"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-juez-cita-a-declarar-como-investigadas-a-18-personas-en-una-pieza-separada-por-la-ayuda-en-forma-de-aval-concedida-por-la-Junta-de-Andalucia-al-Grupo-TPM"
-
-  - fecha: "2012-11-16"
-    titulo: "La Cámara de Cuentas alerta de pérdidas de 73 millones por avales fallidos"
-    descripcion: "La Cámara de Cuentas de Andalucía aprueba su informe de fiscalización sobre los fondos gestionados por la Agencia IDEA en 2012. El informe revela que las entidades financieras ejecutaron avales fallidos por valor de 82,44 millones de euros entre 2010 y 2013, de los cuales la Junta solo recuperó 9,11 millones (el 11%). El órgano fiscalizador señala graves incumplimientos normativos y alerta de posible menoscabo de caudales públicos y responsabilidad contable."
-    type: "denuncia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+de+los+Avales&numero=164"
-
-  - fecha: "2014-01-01"
-    titulo: "Apertura de la investigación judicial como pieza separada de los ERE"
-    descripcion: "El Juzgado de Instrucción número 6 de Sevilla abre investigación penal sobre los avales irregulares concedidos por IDEA como pieza separada de la macrocausa de los ERE de Andalucía. Se investigan presuntos delitos de prevaricación administrativa y malversación de caudales públicos. Entre los investigados figuran el exdirector general de IDEA Jacinto Cañete, el exdirector de Inversiones Estratégicas Bienvenido Martínez y el exdirector financiero Antonio Diz-Lois."
-    type: "investigación"
-    urls:
-      - "https://www.libertaddigital.com/andalucia/2024-09-26/los-dirigentes-socialistas-de-idea-se-salvan-de-ser-condenados-en-el-caso-avales-por-un-error-judicial-7167590/"
-
-  - fecha: "2017-06-06"
-    titulo: "El juzgado prorroga la investigación fuera de plazo"
-    descripcion: "El Juzgado de Instrucción número 6 de Sevilla ordena prorrogar la investigación del caso de avales a Tartessos Car cuando el plazo legal para hacerlo ya había expirado. Este error procedimental invalidará posteriormente casi siete años de diligencias de investigación —declaraciones, informes periciales y policiales— llevadas a cabo entre 2017 y 2024, al haber sido practicadas fuera del periodo de instrucción válido."
-    type: "investigación"
-    urls:
-      - "https://www.eldebate.com/espana/andalucia/20240925/error-judicial-hace-caer-causa-contra-altos-cargos-junta-socialista-avales-agencia-idea_230344.html"
-
-  - fecha: "2023-10-28"
-    titulo: "Un error judicial anula causas contra excargos del PSOE andaluz"
-    descripcion: "Se conoce que un error judicial reiterado en la solicitud de prórroga de instrucción fuera de plazo afecta a hasta seis causas de corrupción contra exdirigentes del PSOE andaluz, incluidas piezas del caso de los avales. Los investigados presentan recursos alegando la caducidad del proceso, lo que supone que todas las diligencias practicadas tras la expiración del plazo quedan sin efecto legal."
-    type: "investigación"
-    urls:
-      - "https://www.elespanol.com/espana/tribunales/20231028/error-judicial-anula-causas-corrupcion-excargos-psoe-andaluz/805169566_0.amp.html"
-
-  - fecha: "2024-09-25"
-    titulo: "La Audiencia de Sevilla limita la instrucción de la pieza de Tartessos Car a 2017"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Sevilla estima los recursos de los acusados y declara que la instrucción del caso de avales a Tartessos Car concluyó el 6 de junio de 2017, fecha en que expiró el plazo legal de investigación. En la práctica, los investigados —incluidos el exdirector general de IDEA Jacinto Cañete, Bienvenido Martínez y Antonio Diz-Lois— quedan sobreseídos, ya que todos fueron llamados a declarar en fechas posteriores a esa expiración. Las pérdidas para el erario público por este aval superan 1,5 millones de euros."
-    type: "sobreseimiento"
-    urls:
-      - "https://www.teleprensa.com/articulo/sevilla/audiencia-limita-2017-instruccion-causa-avales-propios-idea-tartessos-car/202409251012391903167.html"
-      - "https://www.canalsur.es/noticias/andalucia/sevilla/un-error-judicial-anula-la-causa-contra-excargos-socialistas-por-los-avales-de-idea/2082295.html"
-
-  - fecha: "2026-01-09"
-    titulo: "El juez cita al exconsejero Vallejo y a 18 investigados por el aval al Grupo TPM"
-    descripcion: "El Juzgado de Instrucción número 6 de Sevilla cita a declarar como investigadas a 18 personas, entre ellas el exconsejero Francisco Vallejo (convocado para el 17 de febrero), el exviceconsejero Agustín Barberá (18 de febrero) y el exviceconsejero Jesús Rodríguez Román (25 de febrero), en la pieza separada relativa al aval de 1,2 millones concedido por IDEA al Grupo TPM pese a que la empresa estaba en concurso de acreedores desde 2005. Se investigan presuntos delitos de prevaricación y malversación."
-    type: "imputación"
-    urls:
-      - "https://www.infobae.com/espana/agencias/2026/01/09/el-juez-cita-el-17-de-febrero-al-exconsejero-andaluz-vallejo-por-12-millones-en-avales-publicos-al-grupo-tpm/"
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-juez-cita-a-declarar-como-investigadas-a-18-personas-en-una-pieza-separada-por-la-ayuda-en-forma-de-aval-concedida-por-la-Junta-de-Andalucia-al-Grupo-TPM"
-
-  - fecha: "2026-01-20"
-    titulo: "El juez cita a 21 investigados por el aval de 1,3 millones a Pickman La Cartuja"
-    descripcion: "El Juzgado de Instrucción número 6 de Sevilla cita a declarar como investigadas a 21 personas, entre ellas el exconsejero Francisco Vallejo y el diputado del PSOE andaluz Gaspar Llanes, en la pieza relativa al aval de 1,3 millones concedido por IDEA en 2005 a Pickman La Cartuja. Las declaraciones se programan para los días 18, 24 y 25 de marzo y 7 de abril de 2026. El juez también acuerda prorrogar el plazo de instrucción seis meses adicionales hasta el 21 de junio."
-    type: "imputación"
-    urls:
-      - "https://www.infobae.com/espana/agencias/2026/01/20/un-juez-cita-a-21-personas-investigadas-en-una-pieza-por-el-aval-de-agencia-idea-a-pickman/"
-      - "https://www.eleconomista.es/legal/noticias/13736308/01/26/investigan-al-parlamentario-gaspar-llanes-y-al-exconsejero-vallejo-por-avales-de-idea-de-13-millones-a-pickman-la-cartuja-en-2005.html"
-      - "https://www.eldebate.com/espana/andalucia/20260120/investigan-diputado-psoe-andaluz-papel-aval-irregular-13-millones-junta_376169.html"
+- fecha: '2008-09-30'
+  titulo: Aval propio al Grupo TPM
+  descripcion: La nota judicial de enero de 2026 y la información sobre el auto de septiembre identifican la concesión
+    de un aval de 1.190.000 euros para garantizar un préstamo del mismo importe. La irregularidad es la hipótesis
+    investigada, no una conclusión penal firme.
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-cita-a-declarar-como-investigadas-a-18-personas-en-una-pieza-separada-por-la-ayuda-en-forma-de-aval-concedida-por-la-Junta-de-Andalucia-al-Grupo-TPM
+  - https://www.europapress.es/andalucia/noticia-procesan-exconsejero-andaluz-vallejo-17-ex-altos-cargos-prevaricacion-rescate-empresa-quiebra-20260907173551.html
+  type: resumen
+  relevancia: alta
+- fecha: '2009-02-10'
+  titulo: Resolución del aval propio a Tartessos Car
+  descripcion: El auto de mayo de 2025 describe una resolución que aprobó un aval excepcional de hasta 1.500.000
+    euros, posteriormente formalizado en marzo de 2009. No equivale a una sentencia sobre el daño causado.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6e47726df2160088a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: resumen
+  relevancia: alta
+- fecha: '2022-12-21'
+  titulo: Separación de la pieza Tartessos
+  descripcion: Los antecedentes del auto de 2025 sitúan en esta fecha la incoación de las DP 3180/2022, procedentes
+    de las DP 545/2014. La separación no crea un nuevo plazo independiente si se trata de hechos ya investigados,
+    según las resoluciones posteriores de la Audiencia.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6e47726df2160088a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: investigacion
+  relevancia: alta
+- fecha: '2024-09-18'
+  titulo: La Audiencia limita la instrucción de Tartessos
+  descripcion: El auto 871/2024, reproducido en los antecedentes del original de 2025, invalida una prórroga y declara
+    concluida la instrucción el 6 de junio de 2017. La noticia de septiembre recogía una previsión de sobreseimiento
+    de la defensa, no una absolución ni un auto individual de archivo acreditado.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6e47726df2160088a0a8778d75e36f0d&encode=true&databasematch=AN
+  - https://www.teleprensa.com/articulo/sevilla/audiencia-limita-2017-instruccion-causa-avales-propios-idea-tartessos-car/202409251012391903167.html
+  type: recurso
+  relevancia: alta
+- fecha: '2025-05-29'
+  titulo: Traslado a las partes sobre las alternativas en Tartessos
+  descripcion: 'El auto de las DP 3180/2022 concede siete días para alegar sobre continuación, planteamiento de
+    cuestión prejudicial o archivo. Es firme e irrecurrible como resolución de traslado: no adopta ninguna de esas
+    tres decisiones de fondo.'
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6e47726df2160088a0a8778d75e36f0d&encode=true&databasematch=AN
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/Un-juez-de-Sevilla-pregunta-si-debe-plantear-una-cuestion-prejudicial-ante-el-TJUE-por-la-aplicacion-del-articulo-que-regula-los-plazos-de-instruccion
+  type: investigacion
+  relevancia: alta
+- fecha: '2026-01-09'
+  titulo: Se anuncian citaciones en la rama TPM
+  descripcion: El Poder Judicial comunica citaciones de 18 investigados para febrero y la prórroga hasta el 21 de
+    junio. También solicita documentación y comprobaciones sobre otras ayudas; ni la solicitud ni la citación acreditan
+    que las comparecencias se celebraran o que todos los importes se pagaran.
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-cita-a-declarar-como-investigadas-a-18-personas-en-una-pieza-separada-por-la-ayuda-en-forma-de-aval-concedida-por-la-Junta-de-Andalucia-al-Grupo-TPM
+  type: investigacion
+  relevancia: alta
+- fecha: '2026-01-20'
+  titulo: Se comunican citaciones y notificación al aforado en Pickman
+  descripcion: La nota judicial anuncia citaciones de 21 personas y prórroga. Por separado acuerda notificar al
+    parlamentario e informar de sus derechos y solicitar certificación de su aforamiento. La corrección de EFE aclara
+    que no se cita al diputado junto a los demás.
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-cita-a-declarar-a-21-personas-investigadas-en-una-pieza-separada-por-el-aval-de-1-3-millones-concedido-por-la-Junta-a-Pickman-La-Cartuja
+  - https://www.infobae.com/espana/agencias/2026/01/20/un-juez-cita-a-21-personas-investigadas-en-una-pieza-por-el-aval-de-agencia-idea-a-pickman/
+  type: investigacion
+  relevancia: alta
+- fecha: '2026-09-07'
+  titulo: Se conoce la continuación por procedimiento abreviado en TPM
+  descripcion: Europa Press informa de un auto que continúa el procedimiento contra 18 ex altos cargos y da veinte
+    días a las acusaciones para solicitar juicio oral, sobreseimiento o diligencias complementarias. Se fecha la
+    noticia/notificación conocida, no se afirma juicio abierto ni condena.
+  urls:
+  - https://www.europapress.es/andalucia/noticia-procesan-exconsejero-andaluz-vallejo-17-ex-altos-cargos-prevaricacion-rescate-empresa-quiebra-20260907173551.html
+  type: investigacion
+  relevancia: alta
 ---
+
+Alcance de las ramas
+
+Las notas oficiales de [TPM](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-cita-a-declarar-como-investigadas-a-18-personas-en-una-pieza-separada-por-la-ayuda-en-forma-de-aval-concedida-por-la-Junta-de-Andalucia-al-Grupo-TPM) y [Pickman](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-cita-a-declarar-a-21-personas-investigadas-en-una-pieza-separada-por-el-aval-de-1-3-millones-concedido-por-la-Junta-a-Pickman-La-Cartuja) describen operaciones concretas y la posible concurrencia de avales propios, reglados y ayudas sociolaborales. Compartir empresa beneficiaria o responsables no convierte todas las ayudas en un único expediente ni permite trasladar automáticamente un archivo, una acusación o una condena entre ramas.
+
+La [información de septiembre de 2026](https://www.europapress.es/andalucia/noticia-procesan-exconsejero-andaluz-vallejo-17-ex-altos-cargos-prevaricacion-rescate-empresa-quiebra-20260907173551.html) documenta en TPM la continuación por procedimiento abreviado. Para Pickman, la [corrección de EFE de enero](https://www.infobae.com/espana/agencias/2026/01/20/un-juez-cita-a-21-personas-investigadas-en-una-pieza-por-el-aval-de-agencia-idea-a-pickman/) aclara que Gaspar Llanes no fue citado entre las 21 personas. La nota judicial prevé su notificación y la comprobación de su aforamiento; una posible exposición razonada al TSJA requería concretar antes los indicios. No consta aquí que se haya producido después ese trámite.
+
+Tartessos y la firmeza del auto
+
+El [original de 29 de mayo de 2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6e47726df2160088a0a8778d75e36f0d&encode=true&databasematch=AN), de 33 páginas, corresponde a las DP 3180/2022. Sus antecedentes reproducen las decisiones de la Audiencia sobre la conclusión de la instrucción a 6 de junio de 2017. La declaración de firmeza de alguna de esas decisiones procesales no equivale a un sobreseimiento individual de la causa.
+
+El dispositivo del auto de mayo únicamente ordena el traslado para alegaciones. La última página señala que es firme, y su fundamento sobre recursos explica que ello se debe a que todavía no decide entre continuar, archivar o consultar al TJUE. No cabe presentar esa firmeza como una condena, un archivo firme o una cuestión europea ya planteada. Falta la resolución posterior que eligiera una alternativa.
+
+Importes y límites de la revisión
+
+El valor nominal de un aval no es necesariamente el pago efectuado por su ejecución ni el daño final después de cobros, contragarantías o recuperaciones. Las notas de TPM piden incluso comprobar qué incentivos fueron efectivamente abonados. No se suman esos incentivos con los avales y las ayudas sociolaborales para producir una cifra de perjuicio.
+
+La cifra anterior de 73,33 millones procedía de restar recuperaciones a un agregado de avales fallidos de IDEA entre 2010 y 2013. Ese agregado no es una responsabilidad civil ni un daño fijado para los investigados de TPM, Pickman o Tartessos. Tampoco se fecha una fiscalización en noviembre de 2012 que supuestamente incluyera pagos hasta 2013 sin el informe original que lo acredite.
+
+No se han recuperado los originales completos de los últimos autos de TPM y Pickman, el desenlace posterior de Tartessos ni una comprobación exhaustiva de acusaciones, recursos y resultados por persona hasta el corte de octubre de 2026. Se excluyen condenas ajenas y parentescos sin relevancia para estas operaciones. La ausencia de una noticia posterior no resuelve esas lagunas.
