@@ -24,7 +24,7 @@ descripcion: 'El Juzgado de Instrucción número 2 de Vera investigó las presun
   Según la información sobre la denuncia, dos facturas de noviembre y diciembre de 2009 sumaban 175.000 euros y
   el Ayuntamiento había recibido en febrero de 2008 una subvención de 73.863 euros para la compra de contenedores.
   Son importes de facturación y financiación vinculados a la misma operación: no deben sumarse como daño ni presentarse
-  como una cuantificación judicial de perjuicio. La personación municipal publicada en mayo de 2019 y la condena
+  como una cuantificación judicial de perjuicio. La voluntad de personación municipal publicada en mayo de 2019 y la condena
   conocida en abril de 2022 se referían al alumbrado del Paseo Marítimo, otro procedimiento; no acreditan avances
   ni una condena por los contenedores.'
 resumen: Investigación conocida en 2017 sobre facturas de Cespa por contenedores que, según la denuncia municipal,
@@ -74,6 +74,6 @@ Personas y procedimientos
 
 La providencia descrita por Europa Press citaba como investigados a Fernández y al gerente A.L.S., y como testigo al secretario municipal. No se atribuye a este último la condición de investigado. La denuncia invocaba posibles delitos; no se ha verificado un escrito de acusación o una sentencia que permita actualizar la calificación penal de cada persona. La participación en una junta de gobierno no basta para afirmar que una concejala fuera investigada, por lo que no se mantiene esa atribución a Rosario Fernández sin una fuente que la identifique en esta causa.
 
-La [noticia de mayo de 2019](https://www.almeriahoy.com/2019/05/el-ayuntamiento-de-carboneras-se.html) trata de la personación municipal en la causa del alumbrado del Paseo Marítimo. Identifica entonces como alcalde a Felipe Cayuela, no a José Luis Amérigo. La [condena conocida en abril de 2022](https://www.lavozdealmeria.com/provincia/213605/siete-anos-inhabilitacion-exalcalde-cristobal-fernandez.html) también corresponde al alumbrado y era recurrible en ese momento. Ninguna de las dos resuelve el caso Contenedores. Se excluyen igualmente las referencias al delito electoral y a otros familiares porque no acreditan hechos ni culpabilidad en este procedimiento.
+La [noticia de mayo de 2019](https://www.almeriahoy.com/2019/05/el-ayuntamiento-de-carboneras-se.html) recoge la voluntad municipal de personarse en la causa del alumbrado del Paseo Marítimo. Identifica entonces como alcalde a Felipe Cayuela, no a José Luis Amérigo. La [condena conocida en abril de 2022](https://www.lavozdealmeria.com/provincia/213605/siete-anos-inhabilitacion-exalcalde-cristobal-fernandez.html) también corresponde al alumbrado y era recurrible en ese momento. Ninguna de las dos resuelve el caso Contenedores. Se excluyen igualmente las referencias al delito electoral y a otros familiares porque no acreditan hechos ni culpabilidad en este procedimiento.
 
 Faltan las resoluciones judiciales originales y la comprobación del resultado posterior hasta octubre de 2026. La ausencia de información posterior no permite afirmar continuidad de la investigación, archivo o firmeza. Por esa razón no se fija una fecha de cierre ni se ofrecen documentos judiciales no verificados.
