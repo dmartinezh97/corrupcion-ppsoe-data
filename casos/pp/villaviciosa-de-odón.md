@@ -20,10 +20,10 @@ tribunal:
   - "Audiencia Provincial de Madrid, Sección 23 (bodas civiles)"
 numeroSentencia: ""
 implicados:
-  - nombre: "José Jover Sanz"
+  - nombre: "José Jover"
     cargo: "Alcalde del PP durante los hechos; exalcalde al celebrarse el juicio de 2021"
     rol: "Intervino en la adjudicación taurina cuestionada por Público. Absuelto en el procedimiento por las bodas civiles según EFE; firmeza no verificada."
-  - nombre: "Joaquín Navarro Calero"
+  - nombre: "José Joaquín Navarro Calero"
     cargo: "Exconcejal del PP y posteriormente edil de Vecinos por Villaviciosa"
     rol: "Identificado por Moncloa en noviembre de 2019 como nuevamente investigado en el asunto de las bodas civiles. La noticia de absoluciones de 2021 consultada no permite verificar nominalmente su pronunciamiento; no se afirma que siga investigado."
   - nombre: "Pilar Martínez"
