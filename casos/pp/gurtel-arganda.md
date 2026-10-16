@@ -67,38 +67,38 @@ documentos:
     paginas: 92
     nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d3be7eddac38c567a0a8778d75e36f0d&encode=true&databasematch=AN"
 cronologia:
-  - fecha: 2004-11-25
+  - fecha: '2004-11-25'
     titulo: "Adjudicación de las parcelas UE-124 a Martinsa"
     descripcion: "Según los hechos probados, el Consejo de Administración de la Sociedad de Fomento acordó adjudicar las parcelas a Martinsa. El contrato de compraventa se formalizó el 23 de diciembre de 2004. No se confunde el precio de la operación con la comisión ni con el daño indemnizable."
     type: "adjudicacion"
     urls:
       - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2025:2194"
-  - fecha: 2019-09-16
+  - fecha: '2019-09-16'
     titulo: "Se conoce la apertura de juicio oral de la pieza"
     descripcion: "El CGPJ informa de que el juez José de la Mata ha abierto juicio oral contra 21 investigados y ha fijado fianzas para asegurar responsabilidades pecuniarias. Es la fecha de publicación; las fianzas no son multas ni daños definitivamente declarados."
     type: "juicio"
     urls:
       - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Noticias-Judiciales/El-juez-abre-juicio-oral-a-21-investigados-en-la-pieza-del-caso-Gurtel-por-las-presuntas-irregularidades-en-Arganda-del-Rey"
-  - fecha: 2025-03-03
+  - fecha: '2025-03-03'
     titulo: "Comienzo del juicio oral"
     descripcion: "El juicio de la pieza Arganda comenzó el 3 de marzo. La sentencia registra sesiones los días 3, 4, 10, 18, 24, 26 y 31 de marzo de 2025. El reconocimiento de los hechos se produjo dentro de ese proceso, no el 7 de mayo posterior al fallo."
     type: "juicio"
     urls:
       - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2025:2194"
-  - fecha: 2025-03-31
+  - fecha: '2025-03-31'
     titulo: "Conclusión de la vista"
     descripcion: "El juicio concluyó tras la última sesión. Luis Bremond mantuvo su inocencia; la sentencia apreció confesión en los restantes acusados y dilaciones indebidas muy cualificadas para todos."
     type: "juicio"
     urls:
       - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2025:2194"
-  - fecha: 2025-04-22
+  - fecha: '2025-04-22'
     titulo: "Sentencia de la pieza Arganda"
     descripcion: "La sentencia 12/2025 condenó a 19 personas con penas diferenciadas, indemnizaciones, decomisos, multas e inhabilitaciones. Permitía casación; no acredita por sí sola la firmeza posterior. Correa y Crespo recibieron las mayores penas de prisión de esta pieza: ocho años y diez meses para cada uno."
     type: "sentencia"
     relevancia: "alta"
     urls:
       - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2025:2194"
-  - fecha: 2025-05-07
+  - fecha: '2025-05-07'
     titulo: "Se difunden las condenas"
     descripcion: "El País publica el resultado de la sentencia fechada el 22 de abril, con las condenas de Fernando Martín, los responsables de Gürtel y los antiguos cargos locales. La publicación no es una segunda sentencia dictada en mayo."
     type: "resumen"
