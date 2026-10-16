@@ -1,170 +1,182 @@
 ---
-nombre: "Caso Montoro - Equipo Económico"
+nombre: Caso Montoro - Equipo Económico
 partido: PP
-completado: true
-año: 2024
-fechaInicio: 2018-01-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El Caso Montoro - Equipo Económico es una macrocausa por presunta corrupción política instruida por el Juzgado de Instrucción nº 2 de Tarragona contra el exministro de Hacienda Cristóbal Montoro Romero y otros 27 investigados, entre los que figuran exaltos cargos de su Ministerio y directivos de empresas del sector del gas, las energías renovables y el juego. La causa investiga si, durante las dos etapas en que Montoro dirigió el Ministerio de Hacienda con José María Aznar (2000-2004) y con Mariano Rajoy (2011-2018), se aprobaron reformas legislativas y normativas tributarias a medida de determinadas empresas a cambio de pagos al despacho Equipo Económico, fundado por el propio Montoro en 2006.
-
-  Según el auto del juez instructor Rubén Rus Vela, el bufete Equipo Económico habría facturado un total acumulado de 35,5 millones de euros durante el periodo investigado, y un informe específico de la Agencia Tributaria de febrero de 2026 documenta cómo cobró cerca de un millón de euros por gestionar dos reformas fiscales hechas a medida desde el Ministerio que dirigía Montoro. Los delitos atribuidos abarcan cohecho, fraude contra la administración pública, prevaricación, tráfico de influencias, negociaciones prohibidas a funcionarios, corrupción en los negocios y falsedad documental. La causa tuvo un origen "casual": el juez Rus descubrió en 2018, al investigar otro procedimiento, una serie de correos electrónicos que apuntaban a un nuevo delito y que le llevaron a abrir una pieza separada que se mantuvo bajo secreto durante siete años antes de hacerse pública en julio de 2025.
-
-  En abril de 2026, el juez Rus rechazó la inhibición a los juzgados de Madrid solicitada por las defensas y reafirmó su competencia territorial, aunque Equipo Económico recurrió ante la Audiencia Provincial de Tarragona, que a mediados de 2026 sigue estudiando si asume la causa o la remite a Madrid. Asimismo, autorizó a los Mossos d'Esquadra a investigar todos los movimientos bancarios de los 28 acusados durante los últimos veinte años por presunto blanqueo de capitales. Las primeras declaraciones como investigados se celebraron entre finales de abril y mayo de 2026, comenzando con directivos de las empresas gasistas que habrían contratado los servicios de Equipo Económico. Cristóbal Montoro aún no ha sido citado a declarar como investigado, aunque sus cuentas bancarias y las de su familia están siendo analizadas. El caso se considera distinto y mucho mayor que la causa por la adjudicación irregular de un contrato de 91.000 euros a Equipo Económico de 2012, ya documentada en la causa "Despacho Montoro".
-resumen: "El exministro de Hacienda Cristóbal Montoro y 27 imputados más por presuntos favores fiscales a empresas (gas, energía, juego) a cambio de pagos al despacho Equipo Económico"
-coste: 35500000
-lugar: "Tarragona / Madrid, España"
+completado: false
+año: 2018
+fechaFin: ''
+estado: activo
+descripcion: El Juzgado de Instrucción nº 2 de Tarragona investiga si empresas, principalmente gasistas, pagaron
+  a Equipo Económico para obtener reformas fiscales favorables mediante sus contactos con el Ministerio de Hacienda
+  de Cristóbal Montoro. El exministro, antiguos altos cargos y socios del despacho figuran como investigados, sin
+  que se haya verificado apertura de juicio ni sentencia en esta causa. En julio de 2026 se conoció una nueva prórroga
+  de seis meses desde el 26 de julio. Según la información publicada en octubre, el Supremo devolvió a la Audiencia
+  de Tarragona la decisión sobre la petición de traslado a Madrid; esto no resuelve el fondo penal. No se han obtenido
+  los autos originales ni una decisión posterior sobre esa petición hasta el 15 de octubre de 2026. Los ingresos
+  del despacho y los pagos analizados no equivalen a daño público acreditado.
+resumen: Investigación de presuntos pagos a Equipo Económico para obtener reformas fiscales favorables; en instrucción,
+  con controversia sobre competencia y recursos pendientes de verificar.
+lugar: Tarragona / Madrid, España
 tribunal:
-  - "Juzgado de Instrucción nº 2 de Tarragona - Juez Rubén Rus Vela"
-  - "Audiencia Provincial de Tarragona"
-numeroSentencia: ""
+  - Juzgado de Instrucción nº 2 de Tarragona
+  - Audiencia Provincial de Tarragona, Sección Segunda
+  - Tribunal Supremo, Sala de lo Penal
+numeroSentencia: ''
 implicados:
-  - nombre: "Cristóbal Montoro Romero"
-    cargo: "Exministro de Hacienda (2000-2004 y 2011-2018), fundador del despacho Equipo Económico"
-    rol: "Investigado por cohecho, prevaricación, tráfico de influencias y corrupción en los negocios; sus cuentas bancarias se analizan durante 20 años"
-
-  - nombre: "Felipe Martínez Rico"
-    cargo: "Exsubsecretario de Hacienda con Montoro, socio de Equipo Económico"
-    rol: "Imputado por su papel ejecutivo en la presunta confección a medida de normas tributarias"
-
-  - nombre: "Salvador Ruiz Gallud"
-    cargo: "Exdirector general de la Agencia Tributaria, socio de Equipo Económico"
-    rol: "Imputado por su participación en las gestiones del despacho ante el Ministerio de Hacienda"
-
-  - nombre: "Ricardo Martínez Rico"
-    cargo: "Exsecretario de Estado de Hacienda, socio de Equipo Económico"
-    rol: "Imputado por su papel en la dirección del despacho durante la etapa investigada"
-
-  - nombre: "Manuel de Vicente-Tutor Rodríguez"
-    cargo: "Exdirector general de Tributos, socio de Equipo Económico"
-    rol: "Imputado por su participación en las modificaciones tributarias presuntamente irregulares"
-
+  - nombre: Cristóbal Montoro Romero
+    cargo: Exministro de Hacienda y fundador de Equipo Económico
+    rol: Investigado por su presunta intervención en reformas fiscales favorables a clientes del despacho. Niega
+      las irregularidades y sostiene que abandonó la firma antes de volver al Gobierno; no se ha verificado sentencia
+      en esta causa.
+  - nombre: Felipe Martínez Rico
+    cargo: Exdirector del gabinete de Montoro y exsubsecretario de Hacienda y Función Pública
+    rol: Investigado por su presunta intervención desde Hacienda en las modificaciones normativas; resultado penal
+      no establecido.
+  - nombre: Salvador Ruiz Gallud
+    cargo: Exdirector general de la Agencia Tributaria y socio director de Equipo Económico
+    rol: Investigado por la presunta utilización de influencias del despacho para obtener reformas favorables a
+      sus clientes; resultado penal no establecido.
+  - nombre: Ricardo Martínez Rico
+    cargo: Exsecretario de Estado de Presupuestos y Gastos y presidente de Equipo Económico
+    rol: Investigado como socio y responsable del despacho. La defensa de la firma niega las irregularidades y cuestiona
+      el origen y alcance de las pesquisas; resultado penal no establecido.
+  - nombre: Manuel de Vicente-Tutor Rodríguez
+    cargo: Exjefe del Gabinete Técnico del director general de la Agencia Tributaria y socio director de Equipo
+      Económico
+    rol: Investigado por su presunta intervención a través del despacho en las reformas tributarias; resultado penal
+      no establecido.
+  - nombre: Francisco Piedras Camacho
+    cargo: Exdirector del gabinete de Montoro y socio director de Equipo Económico
+    rol: Investigado por su presunta participación en las gestiones del despacho para obtener modificaciones normativas;
+      resultado penal no establecido.
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "prevaricación"
-  - "tráfico de influencias"
-  - "fraude"
-  - "corrupción en los negocios"
-  - "negociaciones prohibidas"
-  - "falsedad documental"
-  - "puerta giratoria"
-
-impactoSocial: "El caso ha tenido un enorme impacto político al ser la primera vez que un exministro de Hacienda con casi siete años en el cargo es investigado por la confección a medida de leyes tributarias a cambio de pagos a su despacho privado. Las revelaciones sobre los presuntos favores a las grandes gasistas y a empresas del sector del juego han alimentado el debate sobre las puertas giratorias y la influencia de los lobbies en la política fiscal española. El caso también ha puesto en cuestión la actuación del Tribunal de Cuentas y de los órganos de control durante todo el periodo investigado."
-
-documentos: null
-
+  - cohecho
+  - prevaricación
+  - tráfico de influencias
+  - fraude
+  - contratación de asesoramiento
+  - negociaciones prohibidas
+  - falsedad documental
+impactoSocial: La causa plantea el control de los conflictos de interés entre antiguos cargos públicos, despachos
+  de asesoramiento y elaboración de normas tributarias. El debate sobre esos vínculos debe distinguirse de la acreditación
+  judicial de delitos y del legítimo asesoramiento a empresas.
+documentos: []
 cronologia:
-  - fecha: "2008-01-01"
-    titulo: "Equipo Económico inicia su actividad bajo el control de exaltos cargos de Hacienda"
-    descripcion: "El despacho Equipo Económico, fundado por Cristóbal Montoro en 2006 antes de su segunda etapa como ministro, comienza a expandir su actividad de asesoramiento fiscal. Sus socios, entre los que figuran exaltos cargos del Ministerio de Hacienda, ofrecen servicios de lobby tributario a grandes corporaciones del sector energético, gasista y del juego. Según la investigación posterior, durante los siguientes diez años el despacho facturará un total acumulado de 35,5 millones de euros."
-    type: "resumen"
+  - fecha: '2021-12-16'
+    titulo: Auto de imputación de Montoro y otros investigados, según EFE
+    descripcion: EFE informó en julio de 2025 de que un auto de esta fecha había acordado la imputación de Montoro
+      y otras 27 personas, con notificación y citación diferidas hasta el levantamiento del secreto. Se trata de
+      una atribución durante la instrucción, no de apertura de juicio ni condena. El original del auto no se ha
+      verificado.
+    type: imputación
+    relevancia: alta
     urls:
-      - "https://es.wikipedia.org/wiki/Caso_Montoro"
-
-  - fecha: "2011-12-22"
-    titulo: "Montoro asume el Ministerio de Hacienda en el Gobierno de Rajoy"
-    descripcion: "Cristóbal Montoro toma posesión como ministro de Hacienda y Administraciones Públicas en el primer Gobierno de Mariano Rajoy. Permanecerá en el cargo durante toda la legislatura y la siguiente, hasta junio de 2018. Según las pesquisas judiciales, durante este periodo se habrían aprobado las principales reformas tributarias presuntamente confeccionadas a medida de las empresas que contrataban a Equipo Económico."
-    type: "resumen"
-    urls: []
-
-  - fecha: "2018-06-01"
-    titulo: "El juez Rus descubre la trama por casualidad en otro procedimiento"
-    descripcion: "El magistrado Rubén Rus Vela, titular del Juzgado de Instrucción nº 2 de Tarragona, descubre durante la instrucción de otro procedimiento una serie de correos electrónicos que evidencian indicios de favores fiscales a cambio de pagos al despacho Equipo Económico. El juez abre una pieza separada y declara el secreto del sumario, que se prolongará durante siete años hasta julio de 2025."
-    type: "investigación"
-    relevancia: "alta"
+      - https://www.huffingtonpost.es/politica/el-juez-atribuye-montoro-rol-nuclear-abuso-beneficiar-tramabr.html
+  - fecha: '2025-07-20'
+    titulo: Se conoce el contenido del auto y la hipótesis de influencia normativa
+    descripcion: 'La información de EFE describe la hipótesis del instructor: que el exministro y personas vinculadas
+      a Equipo Económico habrían facilitado reformas para clientes del despacho a cambio de pagos. La fecha corresponde
+      a la publicación; la imputación formal descrita era anterior. No se consideran ilícitos todos los ingresos
+      de los clientes por el mero hecho de figurar en los informes.'
+    type: investigación
+    relevancia: alta
     urls:
-      - "https://www.eldebate.com/espana/cataluna/tarragona/20250716/juez-tarragona-imputado-montoro-llevaba-siete-anos-investigandole-secreto_317957.html"
-
-  - fecha: "2025-07-16"
-    titulo: "Se hace pública la imputación de Montoro y otros 27 investigados"
-    descripcion: "El Juzgado de Instrucción nº 2 de Tarragona levanta el secreto del sumario y se conoce públicamente que el juez Rubén Rus ha imputado a Cristóbal Montoro y a otros 27 investigados —entre ellos exaltos cargos de su ministerio y directivos de empresas gasistas— por delitos de cohecho, fraude contra la administración pública, prevaricación, tráfico de influencias, negociaciones prohibidas, corrupción en los negocios y falsedad documental."
-    type: "imputación"
-    relevancia: "alta"
+      - https://www.huffingtonpost.es/politica/el-juez-atribuye-montoro-rol-nuclear-abuso-beneficiar-tramabr.html
+  - fecha: '2025-07-24'
+    titulo: Se conoce el recurso contra los correos que originaron la causa
+    descripcion: RTVE informa de una apelación de Equipo Económico que pide anular los correos obtenidos durante
+      otra investigación y las resoluciones derivadas, alegando extralimitación y vulneración de derechos fundamentales.
+      La interposición del recurso no acredita que la prueba haya sido anulada ni que la causa esté archivada; no
+      se ha verificado aquí su resolución posterior.
+    type: recurso
+    relevancia: alta
     urls:
-      - "https://www.eldebate.com/espana/cataluna/tarragona/20250716/juez-tarragona-imputado-montoro-llevaba-siete-anos-investigandole-secreto_317957.html"
-      - "https://es.wikipedia.org/wiki/Caso_Montoro"
-
-  - fecha: "2025-07-19"
-    titulo: "El juez revela el contexto político de la trama"
-    descripcion: "Trascienden detalles del auto del juez Rus que evidencian el contexto político de la causa: incluye correos sobre maniobras del Ministerio de Hacienda para 'salvar' al PP en momentos de presión judicial y para atacar al partido Podemos durante la legislatura del Gobierno Rajoy. Las revelaciones tensan aún más la dimensión política del caso."
-    type: "investigación"
-    relevancia: "media"
+      - https://www.rtve.es/noticias/20250724/despacho-montoro-recurre-prueba-investigacion/16675754.shtml
+  - fecha: '2025-07-24'
+    titulo: Se conocen límites a las personaciones por supuestos perjuicios políticos
+    descripcion: Según RTVE, el instructor rechazó personaciones particulares al no apreciar indicios suficientes
+      de utilización de la Agencia Tributaria contra rivales políticos ni una relación causal acreditada entre publicaciones
+      de un periodista y su inspección fiscal. Admitió al PSOE como acusación popular. Estas decisiones no equivalen
+      a una absolución ni resuelven la investigación sobre reformas fiscales.
+    type: investigación
+    relevancia: media
     urls:
-      - "https://www.eldiario.es/politica/investigacion-montoro-incluye-correos-maniobras-hacienda-salvar-pp-atacar_1_12473453.html"
-
-  - fecha: "2026-01-27"
-    titulo: "La Fiscalía pide investigar bienes de Montoro y su esposa hasta 2025"
-    descripcion: "La Fiscalía Anticorrupción solicita al juez Rus que se investiguen los bienes patrimoniales del exministro Cristóbal Montoro y de su esposa, así como las cuentas bancarias del despacho Equipo Económico, hasta 2025. La petición busca cuantificar el patrimonio acumulado durante y después del paso de Montoro por el Ministerio de Hacienda."
-    type: "investigación"
-    relevancia: "media"
+      - https://www.rtve.es/noticias/20250724/juez-montoro-no-ve-indicios-utilizacion-agencia-tributaria-perjudicar-rivales/16676569.shtml
+  - fecha: '2026-02-18'
+    titulo: Se conoce la impugnación del informe tributario sobre ingresos del despacho
+    descripcion: EL PAÍS informa del recurso de Equipo Económico contra un informe incorporado el 2 de febrero que
+      analiza 35,5 millones de euros de ingresos de distintos clientes entre 2008 y 2013. La defensa cuestiona su
+      alcance y sostiene que los ingresos fueron declarados. La cifra es volumen de pagos analizado, no perjuicio
+      público ni importe declarado delictivo por sentencia. No se conoce aquí la fecha exacta de presentación del
+      recurso.
+    type: recurso
+    relevancia: media
     urls:
-      - "https://www.elcorreogallego.es/espana/2026/01/27/fiscalia-pide-investigar-bienes-montoro-126155990.html"
-
-  - fecha: "2026-02-16"
-    titulo: "La Agencia Tributaria documenta 35,5 millones de ingresos en Equipo Económico"
-    descripcion: "Un informe pericial de la Agencia Tributaria entregado al juez Rus cuantifica los ingresos totales del despacho Equipo Económico en 35,5 millones de euros durante el periodo investigado. El informe documenta específicamente cómo el despacho cobró cerca de un millón de euros por gestionar dos reformas fiscales que fueron aprobadas por el Ministerio de Hacienda dirigido por Montoro 'hechas a medida' de las empresas clientes."
-    type: "documento"
-    relevancia: "alta"
+      - https://elpais.com/espana/2026-02-18/equipo-economico-recurre-el-informe-de-hacienda-y-acusa-al-juez-del-caso-montoro-de-pasividad-por-alargarlo-ocho-anos.html
+  - fecha: '2026-04-21'
+    titulo: Providencia de citación de ocho investigados, según la información posterior
+    descripcion: Infobae describe una providencia de esta fecha que citaba a ocho empresarios para fechas entre
+      el 30 de abril y el 12 de mayo. Montoro y los antiguos cargos de Hacienda no figuraban en esa ronda. También
+      informa de requerimientos bancarios amplios. Las citas previstas no acreditan por sí mismas que las comparecencias
+      se celebraran; no se ha obtenido la providencia original.
+    type: investigación
+    relevancia: alta
     urls:
-      - "https://www.infobae.com/espana/2026/04/28/el-caso-montoro-se-activa-con-las-primeras-declaraciones-de-investigados-entre-los-que-todavia-no-figura-el-exministro/"
-
-  - fecha: "2026-04-21"
-    titulo: "El juez cita a los primeros 8 investigados a declarar"
-    descripcion: "El juez Rubén Rus dicta auto fijando las primeras citaciones a declarar como investigados, entre el 30 de abril y mayo de 2026, para 8 de los 28 imputados. Comienza por directivos de las empresas gasistas que habrían contratado los servicios de Equipo Económico para gestionar las reformas fiscales. Cristóbal Montoro y los exaltos cargos de su ministerio aún no han sido citados."
-    type: "investigación"
-    relevancia: "alta"
+      - https://www.infobae.com/espana/2026/04/28/el-caso-montoro-se-activa-con-las-primeras-declaraciones-de-investigados-entre-los-que-todavia-no-figura-el-exministro/
+  - fecha: '2026-05-29'
+    titulo: Declaración de la representante de Messer Ibérica, conocida en septiembre
+    descripcion: LaSexta informó el 16 de septiembre de una comparecencia celebrada el 29 de mayo en la que la representante
+      de Messer Ibérica negó pagos por favores legislativos y explicó el asesoramiento recibido de Equipo Económico.
+      Es una declaración de la representación de una empresa investigada, no una condena ni la declaración del exministro.
+      No se ha verificado el acta o grabación original.
+    type: declaración
+    relevancia: media
     urls:
-      - "https://www.infobae.com/espana/2026/04/28/el-caso-montoro-se-activa-con-las-primeras-declaraciones-de-investigados-entre-los-que-todavia-no-figura-el-exministro/"
-
-  - fecha: "2026-04-24"
-    titulo: "Autorizan investigar 20 años de cuentas bancarias del exministro"
-    descripcion: "El juez Rus autoriza a los Mossos d'Esquadra a analizar todos los movimientos bancarios de Cristóbal Montoro, su entorno familiar y los miembros de su antiguo equipo en el Ministerio durante los últimos 20 años, en el marco de la investigación por presunto blanqueo de capitales asociado al cobro de comisiones encubiertas a través de Equipo Económico."
-    type: "investigación"
-    relevancia: "alta"
+      - https://amp.lasexta.com/noticias/nacional/unica-empresa-comparecer-dilatado-caso-montoro-nego-haber-pagado-favores-legislativos-lasexta-accede-declaracion-juez_202609166aaada127486a40f2c9ef6e1.html
+  - fecha: '2026-07-27'
+    titulo: Se conoce una nueva prórroga de la instrucción
+    descripcion: Europa Press informa de un auto que amplía la instrucción seis meses desde el 26 de julio de 2026,
+      por declaraciones e informes pendientes y posibles diligencias derivadas. La fecha del hito es la publicación,
+      pues el texto no identifica el día de firma del auto. La prórroga mantiene abierta la investigación sin decidir
+      la responsabilidad penal.
+    type: investigación
+    relevancia: alta
     urls:
-      - "https://www.diariodeleon.es/economia/260425/2082851/juez-autoriza-investigar-20-anos-cuentas-bancarias-exministro-cristobal-montoro.html"
-      - "https://www.elcorreogallego.es/espana/2026/04/24/juez-caso-montoro-libramientos-cuentas-exministro-hacienda-129485934.html"
-
-  - fecha: "2026-04-27"
-    titulo: "El juez rechaza enviar la causa a Madrid y reafirma su competencia"
-    descripcion: "El juez Rus dicta auto rechazando la solicitud de las defensas de inhibirse a favor de los juzgados centrales de Madrid. El magistrado afirma que su competencia territorial es correcta y niega tener 'un especial interés' personal en investigar los hechos, respondiendo así a las críticas vertidas por algunos investigados sobre su parcialidad."
-    type: "investigación"
-    relevancia: "media"
+      - https://www.europapress.es/nacional/noticia-juez-caso-montoro-acuerda-prorrogar-seis-meses-mas-instruccion-20260727194808.html
+  - fecha: '2026-09-22'
+    titulo: Se conoce la decisión de la Audiencia sobre la reclamación de competencia
+    descripcion: Europa Press informa de que la Sección Segunda de la Audiencia no se considera competente para
+      resolver la reclamación de traslado y remite la cuestión al Supremo. Distingue esta vía de las apelaciones
+      pendientes contra resoluciones del instructor, entre ellas el auto de competencia del 16 de abril de 2026.
+      Se utiliza la fecha de publicación, no una fecha de auto deducida de la noticia.
+    type: recurso
+    relevancia: media
     urls:
-      - "https://www.elcorreogallego.es/espana/2026/04/27/juez-caso-montoro-rechaza-enviar-129582896.html"
-      - "https://www.noticiasdealava.eus/politica/2026/04/27/juez-caso-montoro-rechaza-enviar-10993644.html"
-
-  - fecha: "2026-04-30"
-    titulo: "Inicio de las primeras declaraciones de investigados"
-    descripcion: "Arrancan las primeras declaraciones programadas en el Juzgado de Instrucción nº 2 de Tarragona con directivos de las empresas gasistas que contrataron los servicios de Equipo Económico. Cristóbal Montoro y sus antiguos colaboradores en el Ministerio de Hacienda no figuran todavía entre los citados, lo que sugiere que la instrucción avanzará primero por los pagadores antes de llegar a los presuntos receptores de los favores fiscales."
-    type: "declaración"
-    relevancia: "alta"
+      - https://www.europapress.es/catalunya/noticia-audiencia-deja-manos-ts-decidir-si-juez-tarragona-cede-caso-montoro-madrid-20260922132832.html
+  - fecha: '2026-10-01'
+    titulo: El Supremo devuelve la reclamación de competencia a la Audiencia, según la prensa
+    descripcion: 'Infobae informó el 6 de octubre de un auto fechado el 1 de octubre que rechaza decidir la reclamación
+      al no existir conflicto entre dos órganos judiciales: ningún juzgado madrileño había reclamado la causa. Corresponde
+      a la Audiencia de Tarragona resolver esa petición de las partes. La decisión no traslada la causa a Madrid
+      ni archiva la investigación penal; no se ha obtenido el auto original ni verificado una resolución posterior
+      hasta el corte.'
+    type: recurso
+    relevancia: alta
     urls:
-      - "https://www.infobae.com/espana/2026/04/28/el-caso-montoro-se-activa-con-las-primeras-declaraciones-de-investigados-entre-los-que-todavia-no-figura-el-exministro/"
-
-  - fecha: "2026-05-12"
-    titulo: "Concluye la primera ronda de declaraciones de investigados"
-    descripcion: "Finaliza el primer bloque de comparecencias de investigados en el Juzgado de Instrucción nº 2 de Tarragona, con los directivos de las empresas gasistas y energéticas que habrían pagado a Equipo Económico (Messer Ibérica y otras compañías) declarando entre el 30 de abril y el 12 de mayo. Ni Cristóbal Montoro ni los exaltos cargos de Hacienda han declarado todavía."
-    type: "declaración"
-    relevancia: "media"
-    urls:
-      - "https://www.infobae.com/espana/2026/04/28/el-caso-montoro-se-activa-con-las-primeras-declaraciones-de-investigados-entre-los-que-todavia-no-figura-el-exministro/"
-
-  - fecha: "2026-06-08"
-    titulo: "La Audiencia de Tarragona, a punto de decidir si conserva el caso"
-    descripcion: "La Audiencia Provincial de Tarragona emplaza a las partes para que se pronuncien sobre la cuestión de competencia planteada por Equipo Económico, que reclama que la causa se remita a Madrid. La Fiscalía Anticorrupción defiende que el caso continúe en Tarragona. La decisión del tribunal, que designa ponente a la presidenta de la Sección Segunda, Susana Calvo, es clave para el futuro de la instrucción."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.infolibre.es/politica/audiencia-tarragona-prepara-resolver-asuntos-clave-caso-montoro_1_2203057.html"
-
-  - fecha: "2026-07-27"
-    titulo: "El juez prorroga seis meses más la instrucción"
-    descripcion: "El juez Rubén Rus acuerda prorrogar seis meses la investigación del caso Montoro al considerar que aún faltan declaraciones de investigados e informes por incorporar. En el auto insiste en la existencia de 'una presunta trama en torno a Equipo Económico' que, mediando precio, moldeaba reformas legales (como la normativa del Impuesto Eléctrico) a las necesidades de sus clientes, y señala que fueron las gasísticas quienes acabaron redactando las reformas conforme a sus intereses. La prórroga aleja el final de la instrucción."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.europapress.es/nacional/noticia-juez-caso-montoro-acuerda-prorrogar-seis-meses-mas-instruccion-20260727194808.html"
+      - https://www.infobae.com/espana/2026/10/06/vuelta-a-la-casilla-de-salida-en-el-caso-montoro-el-supremo-devuelve-a-tarragona-la-decision-sobre-si-la-investigacion-debe-trasladarse-a-un-juzgado-de-madrid/
 ---
+
+La investigación comenzó en **2018**, a partir de correos localizados durante las pesquisas sobre una planta de Messer en Tarragona. No se ha establecido el día exacto de apertura. El origen de la prueba está discutido por las defensas: Equipo Económico pidió su nulidad por considerar que se excedió la autorización del registro. Esa petición debe distinguirse de una resolución que efectivamente anule la prueba. [RTVE, recurso sobre los correos](https://www.rtve.es/noticias/20250724/despacho-montoro-recurre-prueba-investigacion/16675754.shtml).
+
+El objeto principal examinado es la posible influencia en reformas tributarias favorables a empresas gasistas durante la etapa de Montoro en el Gobierno de Rajoy. Los cargos públicos, socios y empresas aparecen con papeles distintos; haber contratado asesoramiento, haber trabajado en Hacienda o figurar en un informe no prueba por sí solo un delito. Montoro sostiene que abandonó el despacho antes de volver al Gobierno y niega las irregularidades. La defensa de Equipo Económico cuestiona el origen, duración y alcance de las pesquisas. [Infobae, situación de la causa en octubre de 2026](https://www.infobae.com/espana/2026/10/06/vuelta-a-la-casilla-de-salida-en-el-caso-montoro-el-supremo-devuelve-a-tarragona-la-decision-sobre-si-la-investigacion-debe-trasladarse-a-un-juzgado-de-madrid/).
+
+Entre los investigados descritos por la prensa figuran también antiguos responsables de Hacienda, como Miguel Ferre Navarrete, José María Buenaventura Zabala, Pilar Platero Sanz, los directores de Tributos Diego Martín-Abril y José Alberto García Valera, Óscar del Amo Galán, los hermanos Rogelio y Santiago Menéndez Menéndez, y la trabajadora de administración Covadonga Gómez Garrido. Sus situaciones y atribuciones no se identifican con las de los socios ni con las de las empresas gasistas. No se han verificado resoluciones individuales de archivo, acusación para juicio, condena o absolución de estas personas. [RTVE, personas y funciones descritas en el sumario](https://www.rtve.es/noticias/20250721/quien-caso-montoro-circulo-hacienda/16672427.shtml).
+
+Ricardo Martínez Rico fue secretario de Estado de **Presupuestos y Gastos**; su hermano Felipe fue subsecretario de Hacienda y Función Pública, nombrado por [real decreto de 25 de noviembre de 2016, publicado el 26](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-11147). Para Manuel de Vicente-Tutor Rodríguez, el [nombramiento original de 6 de septiembre de 2001, publicado el 11](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2001-17172) lo identifica como jefe del Gabinete Técnico del director general de la Agencia Tributaria.
+
+Los **35,5 millones de euros** mencionados en el informe tributario corresponden a ingresos de distintos clientes analizados entre 2008 y 2013. No son una cuantificación judicial del daño, ni deben sumarse a las cantidades de contratos, honorarios o transferencias para obtener un coste de corrupción. La defensa impugnó ese análisis. [EL PAÍS, informe y alegaciones de la defensa](https://elpais.com/espana/2026-02-18/equipo-economico-recurre-el-informe-de-hacienda-y-acusa-al-juez-del-caso-montoro-de-pasividad-por-alargarlo-ocho-anos.html).
+
+La información sobre correos relativos a datos fiscales de políticos o periodistas tampoco permite presentar como acreditada una persecución desde Hacienda. En julio de 2025 se conoció que el instructor había rechazado determinadas personaciones por falta de indicios suficientes sobre esos supuestos perjuicios. Esto no equivale al archivo de la causa principal sobre reformas fiscales. [RTVE, límites de las personaciones](https://www.rtve.es/noticias/20250724/juez-montoro-no-ve-indicios-utilizacion-agencia-tributaria-perjudicar-rivales/16676569.shtml).
+
+A 15 de octubre de 2026, la última decisión sobre competencia localizada es el auto del Supremo de **1 de octubre**, conocido por la información del día 6: devuelve a la Audiencia de Tarragona la reclamación de las partes para enviar la causa a Madrid, sin resolver el fondo. La [prórroga conocida en julio](https://www.europapress.es/nacional/noticia-juez-caso-montoro-acuerda-prorrogar-seis-meses-mas-instruccion-20260727194808.html) y las diligencias pendientes sitúan la causa en instrucción. No se ha verificado una decisión posterior sobre el traslado, el resultado de todos los recursos de nulidad ni las comparecencias individuales pendientes. Tampoco se han obtenido los autos judiciales originales para comprobar sus pronunciamientos completos y recursos. No se atribuye firmeza ni una conclusión penal individual.
+
+Esta investigación sobre posibles reformas fiscales a cambio de pagos debe distinguirse de otros procedimientos relativos a contratos concretos de Equipo Económico; sus importes y resultados no se trasladan a esta causa.
