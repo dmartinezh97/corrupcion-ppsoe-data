@@ -9,7 +9,8 @@ descripcion: 'Valley investigó la emisión de facturas falsas desde una asesor�
   contratación municipal de Villanueva del Río Segura. La causa afecta al exalcalde del PP José Luis López Ayala
   y al exconcejal de Archena Brígido Palazón, de Unión Independiente del Pueblo, entre otras personas. En mayo de
   2026, Radio Murcia/EFE informó de condenas tras un acuerdo de conformidad: 19 meses de prisión para López Ayala
-  y cinco meses y nueve días para Palazón. No se ha obtenido la sentencia original para contrastar su fecha, todos
+  y cinco meses y nueve días para Palazón. Para López Ayala también se comunicaron multas y seis años y nueve meses
+  de inhabilitación para empleo o cargo público. No se ha obtenido la sentencia original para contrastar su fecha, todos
   los pronunciamientos individuales, firmeza, recursos y condiciones de suspensión hasta el 15 de octubre de 2026.
   La deducción de testimonio por posible delito electoral comunicada en 2015 debe distinguirse del resultado informado
   en 2026. Los seis millones aproximados citados por la prensa son el valor de facturas falsas, no una pérdida pública
@@ -24,8 +25,9 @@ tribunal:
 implicados:
 - nombre: José Luis López Ayala
   cargo: Exalcalde de Villanueva del Río Segura (PP)
-  rol: Condena de 19 meses de prisión comunicada por Radio Murcia/EFE en mayo de 2026 tras conformidad; falta el
-    fallo original para precisar todas las penas, recursos y firmeza.
+  rol: Condena de 19 meses de prisión, multas y seis años y nueve meses de inhabilitación comunicada por Radio Murcia/EFE
+    en mayo de 2026 tras conformidad por tres delitos de prevaricación, dos de falsedad, negociaciones prohibidas y blanqueo.
+    Falta el fallo original para precisar todos los pronunciamientos, recursos y firmeza.
 - nombre: Brígido Palazón Garrido
   cargo: Exconcejal de Archena, de Unión Independiente del Pueblo
   rol: Condena de cinco meses y nueve días por falsedad mercantil comunicada en mayo de 2026; la información recoge
