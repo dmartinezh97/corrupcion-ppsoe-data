@@ -1,75 +1,140 @@
 ---
-nombre: "Tosca"
+nombre: Operación Tosca
 partido: PP
-completado: true
+completado: false
 año: 2015
-fechaInicio: 2009-01-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  La Operación Tosca fue una investigación de la Unidad Central Operativa (UCO) de la Guardia Civil que desarticuló en 2015 una presunta red de corrupción en la contratación pública de la Ciudad Autónoma de Melilla, gobernada de forma ininterrumpida por el PP bajo la presidencia de Juan José Imbroda. La operación fue una continuación de la anterior Operación Ópera, que en 2013 ya había resultado en la detención de varios cargos del gobierno melillense.
+estado: Sobreseimientos por piezas
+descripcion: 'Tosca investigó posibles irregularidades en contratos públicos de Melilla y tuvo antecedentes en las pesquisas
+  de Ópera. La actuación policial de febrero de 2015 afectó a cargos, funcionarios y empresarios. Las sospechas sobre fraccionamiento,
+  pliegos y contraprestaciones no equivalen a una trama delictiva judicialmente probada: las investigaciones se dividieron
+  y terminaron en sobreseimientos documentados en distintas resoluciones.
 
-  La Tosca supuso la detención de 15 personas —entre políticos, funcionarios y empresarios— y la imputación de otras 20. La investigación se extendía a once años de contratos del gobierno de Imbroda, buscando amaños en la adjudicación de contratos públicos a empresas como Eulen (seguridad), Himosa (electricidad) e Hispanagua SAU (aguas, filial del Canal de Isabel II), así como a la empresa pública Proyectos Melilla SA (Promesa). La UCO identificó la existencia de una trama organizada para el cobro de comisiones ilegales en la adjudicación de contratos.
 
-  El escándalo alcanzó al propio presidente de la Ciudad Autónoma, Juan José Imbroda, al que el Tribunal Supremo investigó por un presunto delito de prevaricación relacionado con la contratación directa de un abogado al que se pagaron 357.000 euros con fondos públicos fuera de cualquier procedimiento administrativo. Pese a las múltiples imputaciones, el gobierno de Imbroda mantuvo en sus puestos a los consejeros investigados, lo que generó una fuerte controversia política. Partidos de la oposición como Coalición por Melilla (CPM) denunciaron presiones políticas para evitar que los casos Tosca y Ópera llegaran a juicio.
-resumen: "La UCO de la Guardia Civil detuvo a 15 personas en Melilla por una trama de corrupción en la contratación pública del gobierno del PP, investigando once años de adjudicaciones irregulares a empresas como Eulen, Himosa e Hispanagua."
-coste: 357000
-lugar: "Melilla"
+  El auto 170/2020, de 6 de octubre, de la Sección Séptima de la Audiencia Provincial de Málaga en Melilla confirmó el sobreseimiento
+  provisional de las diligencias 1315/2012 sobre contratos de Medio Ambiente con Hispanagua, El Porvenir y Labra, entre otras
+  empresas. La Sala consideró insuficientes los indicios y agotado el plazo para nuevas diligencias; el fallo indica que no
+  cabe recurso. El propio auto distingue la pieza 167/2015 relativa a Eulen y Promesa, cuyo archivo había confirmado la Audiencia
+  el 26 de mayo de 2020. Un auto firme de sobreseimiento provisional no es una sentencia absolutoria tras juicio ni una condena.
+
+
+  En mayo de 2023 se informó de una sentencia contencioso-administrativa que ordenaba reanudar una revisión de oficio por
+  servicios contratados verbalmente. Esa noticia no acredita una reapertura penal de Tosca. Faltan los originales de otras
+  piezas y de esa sentencia administrativa, el detalle nominal de los sobreseimientos y posibles actuaciones posteriores a esos archivos hasta el
+  15 de octubre de 2026. No se atribuyen resultados penales individuales sin esa correspondencia ni se presenta la investigación
+  inicial como vigente. La contratación del abogado por 357.000 euros investigada en el Supremo contra Imbroda pertenecía
+  al caso Abogados, no constituye el daño de Tosca.'
+resumen: Investigación de contratos públicos de Melilla con sobreseimientos por piezas y actuaciones administrativas distintas.
+lugar: Melilla
 tribunal:
-  - "Tribunal Supremo (causa contra Juan José Imbroda)"
-  - "Juzgado de Instrucción de Melilla"
-numeroSentencia: ""
+- Juzgado de Primera Instancia e Instrucción n.º 4 de Melilla
+- Audiencia Provincial de Málaga, Sección Séptima, con sede en Melilla
+- Juzgado de lo Contencioso-Administrativo n.º 3 de Melilla (revisión de oficio; vía distinta)
+numeroSentencia: Auto 170/2020, de 6 de octubre (DP 1315/2012; ECLI:ES:APML:2020:148A)
 implicados:
-  - nombre: "Juan José Imbroda"
-    cargo: "Presidente de la Ciudad Autónoma de Melilla (PP) y senador"
-    rol: "Investigado por el Tribunal Supremo por un presunto delito de prevaricación por la contratación directa de un abogado pagado con 357.000 euros de fondos públicos sin seguir ningún procedimiento administrativo."
-  - nombre: "Daniel Conesa"
-    cargo: "Consejero de Economía y Hacienda de la Ciudad Autónoma de Melilla (PP)"
-    rol: "Imputado en la Operación Tosca por presuntas irregularidades en contratos relacionados con empresas de servicios públicos."
-  - nombre: "José Ángel Pérez Calabuig"
-    cargo: "Consejero de Medio Ambiente de la Ciudad Autónoma de Melilla (PP)"
-    rol: "Detenido en la Operación Ópera (2013) e investigado nuevamente en la Operación Tosca por presuntas irregularidades en contratos de servicios."
-  - nombre: "Francisco Calderón"
-    cargo: "Consejero de Seguridad Ciudadana de la Ciudad Autónoma de Melilla (PP)"
-    rol: "Imputado en la Operación Tosca por presuntas irregularidades en contratos de seguridad con la empresa Eulen."
+- nombre: Daniel Conesa Mínguez
+  cargo: Vicepresidente de Economía y Hacienda del Gobierno melillense en 2015
+  rol: La prensa informó de su imputación en Tosca en febrero de 2015. No se traslada automáticamente a su persona el resultado
+    de cada pieza sin verificar su inclusión en las resoluciones.
+- nombre: Francisco Javier Calderón Carrillo
+  cargo: Consejero de Seguridad Ciudadana en 2015
+  rol: La prensa informó de su imputación en Tosca en febrero de 2015. Alcance nominal del archivo de su pieza pendiente de
+    contrastar con el original.
+- nombre: José Ángel Pérez Calabuig
+  cargo: Responsable de Medio Ambiente en la época investigada
+  rol: Vinculado por la prensa a las investigaciones de Ópera y Tosca. El auto de octubre de 2020 sobre Medio Ambiente está
+    anonimizado; no se identifica aquí con un seudónimo ni se le atribuye una condena.
+- nombre: Gregorio Castillo
+  cargo: Director general de Seguridad Ciudadana en 2015
+  rol: Identificado en la información de febrero de 2015 entre los detenidos. No se acredita aquí una condena ni se reconstruye
+    nominalmente su resultado en las distintas piezas.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "contratación irregular"
-  - "cohecho"
-  - "prevaricación"
-  - "organización criminal"
-impactoSocial: "La Operación Tosca destapó que el gobierno del PP en Melilla habría convertido la contratación pública en un mecanismo sistemático de enriquecimiento ilícito durante más de una década. El escándalo fue especialmente grave porque el propio presidente de la ciudad, Juan José Imbroda, fue investigado por el Tribunal Supremo. Pese a ello, el gobierno melillense mantuvo a los consejeros imputados en sus cargos, generando una profunda crisis de credibilidad institucional. La oposición denunció presiones para frenar el proceso judicial."
-documentos: null
+- contratación pública
+- sobreseimiento provisional
+- fraccionamiento de contratos
+- empresas públicas
+impactoSocial: Los registros y las investigaciones generaron debate sobre contratación y control administrativo en Melilla.
+  Los archivos penales y los litigios posteriores de cobro o revisión de oficio requieren explicaciones separadas.
+documentos:
+- fecha: '2020-10-06'
+  titulo: 'Auto 170/2020: confirma el sobreseimiento provisional de las DP 1315/2012'
+  filetype: pdf
+  paginas: 8
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=318b65d0f0de5fc2&encode=true&databasematch=AN
 cronologia:
-  - fecha: 2013-01-01
-    titulo: "Operación Ópera: primeras detenciones en Melilla por contratos públicos"
-    descripcion: "La Guardia Civil detiene a varios cargos del gobierno del PP en Melilla, entre ellos al consejero José Ángel Pérez Calabuig, en el marco de la Operación Ópera, que investiga presuntas irregularidades en la contratación pública. Esta operación es el antecedente directo de la Tosca."
-    type: "detención"
-    relevancia: "alta"
-    urls:
-      - "https://www.vozpopuli.com/espana/uco-guardia_civil-operacion_tosca-melilla-juan_jose_imbroda-operacion_opera-fraude-eulen-hispanagua-hinosa-ciudad_autonoma_0_781121947.html"
-  - fecha: 2015-02-01
-    titulo: "Operación Tosca: 15 detenidos y 20 imputados en Melilla"
-    descripcion: "La UCO de la Guardia Civil detiene a 15 personas —políticos, funcionarios y empresarios— e imputa a otras 20 en el marco de la Operación Tosca. La investigación rastrea once años de contratos del gobierno de Imbroda y se centra en presuntas comisiones ilegales cobradas en adjudicaciones a Eulen, Himosa e Hispanagua."
-    type: "detención"
-    relevancia: "alta"
-    urls:
-      - "https://www.vozpopuli.com/espana/Operacion_Tosca-Melilla-Guardia_Civil-UCO-fraude-Juan_Jose_Imbroda-ciudad_autonoma-Tribunal_Supremo-contrato_publico_0_781121937.html"
-      - "https://www.eleconomista.es/espana/noticias/6490261/02/15/Tres-consejeros-del-Gobierno-de-Melilla-imputados-en-la-llamada-Opera-Tosca.html"
-  - fecha: 2015-06-01
-    titulo: "El Tribunal Supremo investiga al presidente Imbroda por prevaricación"
-    descripcion: "El Tribunal Supremo abre diligencias contra Juan José Imbroda por un presunto delito de prevaricación por la contratación directa de un abogado al que se abonaron 357.000 euros con fondos públicos fuera de cualquier procedimiento administrativo legal."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "https://www.vozpopuli.com/espana/Juan_Jose_Imbroda-Melilla-Operacion_Tosca-Caso_Abogados-PP-Operacion_Opera-Guardia_Civil-UCO_0_782021839.html"
-  - fecha: 2015-09-01
-    titulo: "Imbroda mantiene a los consejeros imputados en sus cargos"
-    descripcion: "El gobierno de Juan José Imbroda en Melilla mantiene en sus puestos a los consejeros imputados en las operaciones Tosca y Ópera, negándose a cesar a los investigados. La oposición (CPM) denuncia presiones políticas para evitar que los casos lleguen a juicio."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/politica/corrupcion-corrupcion-melilla-seis-imputados-gobierno.html"
-      - "https://melillahoy.es/cpm-denuncia-la-presin-de-polticos-para-que-no-se-enjuicien-los-casos-tosca-y-opera/"
+- fecha: '2015-02-13'
+  titulo: Se incoa la pieza separada 167/2015
+  descripcion: El auto de octubre de 2020 identifica esta fecha de incoación por testimonio de las DP 1315/2012. La pieza
+    se refería a contratos de vigilancia con Eulen y a Promesa, distinta de los contratos de Medio Ambiente.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=318b65d0f0de5fc2&encode=true&databasematch=AN
+  type: investigacion
+  relevancia: alta
+- fecha: '2015-02-18'
+  titulo: Se publica la actuación policial de Tosca
+  descripcion: Vozpópuli informa de quince detenidos el martes anterior y de otras personas que declararían como imputadas.
+    Identifica a Eulen, Himosa, Hispanagua y Promesa dentro del ámbito de las pesquisas. Son datos de investigación publicados
+    entonces, no un resultado judicial ni un censo definitivo de acusados.
+  urls:
+  - https://www.vozpopuli.com/espana/uco-guardia_civil-operacion_tosca-melilla-juan_jose_imbroda-operacion_opera-fraude-eulen-hispanagua-hinosa-ciudad_autonoma_0_781121947.html
+  type: detencion
+  relevancia: alta
+- fecha: '2015-02-23'
+  titulo: Se publican las imputaciones de tres miembros del Gobierno
+  descripcion: La información identifica a Conesa, Calderón y Pérez Calabuig en Tosca y distingue otras causas de Imbroda
+    y otros consejeros. La suma de cargos investigados en varios procedimientos no debe atribuirse íntegra a Tosca.
+  urls:
+  - https://www.vozpopuli.com/espana/juan_jose_imbroda-melilla-operacion_tosca-caso_abogados-pp-operacion_opera-guardia_civil-uco_0_782021839.html
+  type: investigacion
+  relevancia: alta
+- fecha: '2019-01-15'
+  titulo: Se conoce la confirmación del archivo de la pieza Himosa
+  descripcion: Melilla Hoy informa del sobreseimiento provisional de esta pieza y del rechazo del recurso fiscal. La noticia
+    alude al agotamiento de los plazos de investigación y a la insuficiencia de acreditación del delito. No se ha verificado
+    el auto original ni su lista nominal.
+  urls:
+  - https://melillahoy.es/la-audiencia-provincial-confirma-el-archivo-de-la-pieza-separada-de-tosca/
+  type: recurso
+  relevancia: alta
+- fecha: '2020-01-13'
+  titulo: Sobreseimiento provisional de las DP 1315/2012
+  descripcion: La fecha y la naturaleza del auto de instrucción constan en los antecedentes del auto de apelación 170/2020.
+    Fiscalía recurrió la negativa a practicar nuevas diligencias y el archivo; la decisión será confirmada en octubre.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=318b65d0f0de5fc2&encode=true&databasematch=AN
+  type: investigacion
+  relevancia: alta
+- fecha: '2020-05-26'
+  titulo: La Audiencia resuelve el recurso de la pieza Eulen
+  descripcion: El auto de octubre confirma que esta fecha corresponde a la desestimación del recurso fiscal en las DP 167/2015.
+    La prensa de junio lo presentó como archivo definitivo de Tosca; aquí se delimita a la pieza identificada judicialmente
+    y no se convierte en absolución tras juicio.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=318b65d0f0de5fc2&encode=true&databasematch=AN
+  - https://melillahoy.es/la-audiencia-archiva-de-forma-definitiva-la-operacin-tosca-tras-desestimar-el-recurso-de-muoz-psoe/
+  type: recurso
+  relevancia: alta
+- fecha: '2020-10-06'
+  titulo: La Audiencia confirma el sobreseimiento de Medio Ambiente
+  descripcion: El auto 170/2020 desestima el recurso fiscal en las DP 1315/2012. Insuficiencia de indicios y preclusión de
+    nuevas diligencias sustentan la decisión. No impone costas y declara que no cabe recurso; mantiene el carácter provisional
+    del sobreseimiento.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=318b65d0f0de5fc2&encode=true&databasematch=AN
+  type: recurso
+  relevancia: alta
+- fecha: '2023-05-22'
+  titulo: Se informa de una revisión de oficio administrativa
+  descripcion: El Faro recoge que el Juzgado contencioso n.º 3 ordenó reanudar la revisión de oficio a raíz de una reclamación
+    de 433.780,27 euros por servicios contratados verbalmente. Es cuantía reclamada por una empresa, no daño penal probado.
+    La noticia recoge posibles remisiones a Fiscalía, sin acreditar una reapertura penal efectiva.
+  urls:
+  - https://elfarodemelilla.es/reabierto-el-expediente-de-la-operacion-tosca-tras-la-denuncia-de-una-empresa/amp/
+  type: resumen
+  relevancia: alta
 ---
+
+Las DP 1315/2012 y la pieza 167/2015 comparten origen, pero su objeto y sus resoluciones son distintos. El auto de octubre de 2020 explica que el atestado inicial necesitaba una instrucción posterior que concretara los delitos. La falta de diligencias y el vencimiento del plazo impedían completar ese material; la Sala confirmó el sobreseimiento por insuficiencia indiciaria. No declaró probada una red de enriquecimiento ilícito.
+
+La denominación periodística de «absolución total» o «archivo definitivo» no modifica la naturaleza del sobreseimiento provisional que consta en el original examinado. La imposibilidad de recurrir el auto tampoco convierte el archivo en una sentencia sobre culpabilidad. Faltan originales para comprobar la correspondencia de todos los nombres y la totalidad de las piezas.
+
+La revisión de oficio y la reclamación de servicios impagados pertenecen al control administrativo de la contratación. Su reanudación no prueba que se reabriera una investigación penal. Las declaraciones sobre el volumen de contratos, así como las cantidades del caso Abogados, no son una liquidación del perjuicio de Tosca. El desenlace posterior de esos expedientes administrativos y cualquier nueva actuación penal no están acreditados al corte de 15 de octubre de 2026.
