@@ -46,7 +46,7 @@ implicados:
   cargo: Exdirectora económico-financiera de la FAFFE
   rol: Condenada en la pieza de tarjetas; pena de prisión rebajada de cinco años y tres meses a cuatro años y seis
     meses por el TSJA según EFE en abril de 2026. Firmeza y recorrido de otras ramas no comprobados.
-- nombre: Antonio Torres García
+- nombre: Antonio Torres
   cargo: Exalcalde socialista de Lebrija y contratado por la FAFFE
   rol: Condenado en abril de 2025 como cooperador necesario de prevaricación y malversación a dos años y tres meses
     de prisión, cuatro años de inhabilitación absoluta y cuatro de especial; indemnización solidaria con Villén.
