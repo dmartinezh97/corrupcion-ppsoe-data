@@ -3,7 +3,7 @@ nombre: Caso Alhama de Granada
 partido: PP
 completado: false
 año: 2014
-fechaInicio: 2014-09-25
+fechaInicio: '2014-09-25'
 estado: Absolución de Ubiña; resultado de Ariza no verificado
 descripcion: 'La investigación urbanística conocida en 2016 afectó a Jesús Ubiña Olmos y Pablo Ariza Rojo, entonces responsables
   municipales del PP en Alhama de Granada. La Fiscalía denunció posibles irregularidades en licencias y proyectos vinculados
@@ -131,7 +131,7 @@ cronologia:
   relevancia: alta
 ---
 
-El [resultado absolutorio comunicado por Europa Press el 9 de abril de 2025](https://www.europapress.es/andalucia/noticia-absuelto-alcalde-alhama-granada-ser-juzgado-negociaciones-prohibidas-funcionarios-20250409150720.html) sucede a la investigación urbanística publicada en 2016 y al juicio del 21 de febrero de 2025. No autoriza a mantener la ficha únicamente como una investigación sin resultado, pero tampoco a presentar todas las imputaciones iniciales como juzgadas ni a extender el fallo a otra persona. El original judicial, el eventual recurso y la situación de Ariza siguen sin verificarse.
+El [resultado absolutorio comunicado por Europa Press el 9 de abril de 2025](https://www.europapress.es/andalucia/noticia-absuelto-alcalde-alhama-granada-ser-juzgado-negociaciones-prohibidas-funcionarios-20250409150720.html) sucede a la investigación urbanística publicada en 2016 y al juicio del 21 de febrero de 2025. La absolución se refiere a Ubiña y al delito juzgado; no acredita el resultado de todas las imputaciones iniciales ni el de Ariza. El original judicial, el eventual recurso y la situación de Ariza siguen sin verificarse.
 
 El [acta municipal de septiembre de 2014](https://news.alhamadegranada.info/wp-content/uploads/2014/05/2014_09_25_PLENO_ORD.pdf) permite distinguir la aprobación por la Junta de Gobierno Local el 19 de agosto de la ratificación por el Pleno el 25 de septiembre. En el [acta de noviembre](https://news.alhamadegranada.info/wp-content/uploads/2014/05/2014_11_06_PLENO_ORD.pdf) figura el Decreto 412 del 30 de septiembre, sobre la parcela 168 del polígono 17. Son documentos administrativos; su contenido no equivale a una declaración judicial de ilegalidad de las licencias.
 
