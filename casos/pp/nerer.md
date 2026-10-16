@@ -1,213 +1,156 @@
 ---
-nombre: "Caso Nerer"
+nombre: Caso Nerer
 partido: PP
-completado: true
+completado: false
 año: 2015
-fechaInicio: 2015-04-15
-fechaFin: ""
-estado: "en investigación pendiente de juicio"
-descripcion: |
-  El Caso Nerer, también conocido como Operación Pomada, investiga el presunto perjuicio económico de 2,3 millones de euros causado a las arcas del Ayuntamiento de Ciutadella (Menorca) mediante dos permutas de terrenos aprobadas durante el mandato 2003-2007 bajo el gobierno del alcalde Llorenç Brondo (PP), con Avel·lí Casasnovas como teniente de alcalde de Urbanismo. La investigación se centra en dos operaciones: la adquisición de Can Saura Morell por 2,8 millones de euros cuando meses antes podría haberse adquirido por 1,9 millones, y la permuta en marzo de 2006 del terreno de s'Hort den Llinyà a la empresa Nerer por 3.009.988 euros, que inmediatamente lo revendió en la misma notaría a Gel-Fux por 3.491.586 euros, ocasionando un perjuicio directo de 481.598 euros al municipio.
-
-  La Fiscalía Anticorrupción acusa a Avel·lí Casasnovas de aprovecharse de su cargo público para promover estas operaciones inmobiliarias favoreciendo secretamente a los empresarios hermanos Cavaller, de quienes habría recibido reformas en su vivienda por valor de 150.000 euros y la compra de una propiedad a través de un testaferro. La trama habría involucrado a funcionarios municipales del área de Urbanismo, administradores de las empresas Nerer Inmobiliaria y Gel-Fux, así como a la hermana del ex concejal, presuntamente utilizada para blanquear capitales obtenidos de forma fraudulenta. El caso se inició tras una comisión de investigación municipal en 2008 que derivó en la apertura de diligencias por parte de la Fiscalía Anticorrupción.
-
-  Tras nueve años de instrucción plagados de incidencias procesales, incluyendo múltiples cambios de jueces y paralizaciones, la instrucción se cerró en febrero de 2025 y la Audiencia Provincial de Baleares desestimó todos los recursos de la defensa en diciembre de 2024, ordenando la apertura de juicio oral para un total de 17 investigados. La Fiscalía solicita 18 años de prisión para Casasnovas por delitos de tráfico de influencias, prevaricación administrativa, fraude, malversación de caudales públicos, cohecho y blanqueo de capitales, además de penas de 4 años para varios empresarios. El juicio está previsto para 2026, lo que supondría más de una década desde el inicio de la Operación Pomada.
-resumen: "Investigación de permutas irregulares en Ciutadella que causaron 2,3 millones de perjuicio al municipio durante el gobierno del PP."
-coste: 2300000
-lugar: "Ciutadella, Menorca (Illes Balears)"
+estado: procedimiento abreviado
+resumen: Investigación de dos permutas municipales en Ciutadella, con acusaciones, archivos parciales y continuación
+  del procedimiento abreviado publicada en 2025.
+descripcion: Nerer investiga las permutas de Can Saura Morell y s’Hort d’en Llinyà, aprobadas en 2005 y formalizadas
+  en 2006. En febrero de 2025 se publicó un nuevo auto de procedimiento abreviado que incorpora la segunda operación
+  y pide escritos de acusación contra Casasnovas y cinco empresarios; no acredita un juicio celebrado ni señalado
+  para 2026. Varias personas inicialmente investigadas obtuvieron archivos parciales, algunos revocados en apelación.
+  No se han contrastado los autos originales, todos los desenlaces individuales ni novedades posteriores al último
+  hito localizado hasta el 15 de octubre de 2026. Los 2,3 millones son una estimación investigada, y la reclamación
+  fiscal de 481.598 euros está discutida por su posible correspondencia con el IVA; no son un daño firme acreditado.
+lugar: Ciutadella de Menorca, Illes Balears
 tribunal:
-  - "Juzgado de Instrucción de Ciutadella"
-  - "Audiencia Provincial de Illes Balears"
-numeroSentencia: ""
+- Juzgado de Primera Instancia e Instrucción n.º 2 de Ciutadella
+- Audiencia Provincial de Illes Balears, Sección Primera
 implicados:
-  - nombre: "Avel·lí Casasnovas Coll"
-    cargo: "Ex concejal de Urbanismo y ex presidente del PP de Ciutadella"
-    rol: "Principal investigado por promover permutas fraudulentas y recibir sobornos"
-
-  - nombre: "Llorenç Brondo"
-    cargo: "Ex alcalde de Ciutadella (PP)"
-    rol: "Aprobó las permutas que causaron el perjuicio económico al municipio"
-
-  - nombre: "Ildefonso Vinent"
-    cargo: "Constructor"
-    rol: "Presunto testaferro de Casasnovas, investigado por blanqueo de capitales"
-
-  - nombre: "Antoni Cavaller"
-    cargo: "Empresario, socio de Gel-Fux"
-    rol: "Investigado por cohecho y beneficiarse de las permutas irregulares"
-
-  - nombre: "Francesc 'Siscu' Cavaller"
-    cargo: "Empresario, socio de Gel-Fux"
-    rol: "Investigado por cohecho y participar en el esquema de permutas"
-
-  - nombre: "José María Gelabert"
-    cargo: "Coadministrador de Gel-Fux"
-    rol: "Investigado por su papel en las operaciones inmobiliarias fraudulentas"
-
-  - nombre: "Joana Casasnovas"
-    cargo: "Hermana de Avel·lí Casasnovas"
-    rol: "Investigada por ayudar a su hermano a blanquear capitales"
-
-  - nombre: "Xavier Quintana"
-    cargo: "Ex gerente de Urbanismo del Ayuntamiento"
-    rol: "Investigado por facilitar las operaciones irregulares desde el área técnica"
-
-  - nombre: "María Antonia Castro"
-    cargo: "Ex técnica municipal de Urbanismo"
-    rol: "Investigada por su participación en la tramitación irregular de las permutas"
-
-  - nombre: "José María de Simón Chueca"
-    cargo: "Ex jefe de Contratación municipal"
-    rol: "Investigado por irregularidades en la contratación de las operaciones"
-
-  - nombre: "Javier Pedret"
-    cargo: "Administrador de Nerer Inmobiliaria"
-    rol: "Investigado por fraude y cohecho en las operaciones de compraventa"
-
-  - nombre: "Carlos José Vives de Arpe"
-    cargo: "Administrador de Nerer Inmobiliaria"
-    rol: "Investigado por participar en el esquema fraudulento de permutas"
-
-  - nombre: "José María Villanova"
-    cargo: "Administrador de Nerer Inmobiliaria"
-    rol: "Investigado por su papel en las sociedades que participaron en las permutas"
-
-  - nombre: "Francesc Cavaller Pons"
-    cargo: "Arquitecto"
-    rol: "Investigado por su participación técnica en las operaciones urbanísticas"
-
+- nombre: Avel·lí Casasnovas Coll
+  cargo: Exconcejal de Urbanismo y Cultura y expresidente del PP de Ciutadella
+  rol: La acusación fiscal publicada en 2024 pide dieciocho años de prisión; en 2025 se acuerda continuar el procedimiento
+    abreviado también por s’Hort d’en Llinyà. Sin sentencia ni juicio celebrado contrastados.
+- nombre: Ildefonso Vinent
+  cargo: Constructor
+  rol: Investigado por supuesto blanqueo como presunto testaferro de Casasnovas. Fiscalía pide cuatro años de prisión
+    según la noticia de 2024. No se ha verificado su desenlace posterior.
+- nombre: Antoni Cavaller Gener
+  cargo: Empresario vinculado a Gel-Fux
+  rol: Fiscalía pide cuatro años por presunto cohecho en la acusación publicada en 2024; incluido en el procedimiento
+    abreviado de 2025 por s’Hort d’en Llinyà. Sin condena contrastada.
+- nombre: Francesc Cavaller Gener (Siscu)
+  cargo: Empresario vinculado a Gel-Fux
+  rol: Fiscalía pide cuatro años por presunto cohecho según la noticia de 2024; incluido en el procedimiento abreviado
+    de 2025 por s’Hort d’en Llinyà. Sin condena contrastada.
+- nombre: José María Gelabert Fuxà
+  cargo: Empresario vinculado a Gel-Fux
+  rol: Fiscalía pide cuatro años por presunto cohecho según la noticia de 2024; incluido en el procedimiento abreviado
+    de 2025 por s’Hort d’en Llinyà. Sin condena contrastada.
+- nombre: Javier Pedret Nadal
+  cargo: Socio de Nerer Inmobiliaria
+  rol: Sobreseimiento provisional parcial publicado en 2021, revocado según la noticia de enero de 2025. Incluido
+    en el procedimiento abreviado de febrero de 2025.
+- nombre: José Villanova Rebollar
+  cargo: Socio de Nerer Inmobiliaria, citado también como José Vilanova
+  rol: Sobreseimiento provisional parcial publicado en 2021, revocado según la noticia de enero de 2025. Incluido
+    en el procedimiento abreviado de febrero de 2025.
+- nombre: Carlos José Vives de Arpe
+  cargo: Socio de Nerer Inmobiliaria
+  rol: Sobreseimiento provisional parcial publicado en julio de 2021. No se le atribuye la revocación que la noticia
+    de 2025 identifica solo para Pedret y Villanova; evolución posterior sin contrastar.
+- nombre: Joana Maria Casasnovas Coll
+  cargo: Hermana de Avel·lí Casasnovas
+  rol: Investigada en 2016; sobreseimiento provisional parcial publicado en 2021. Sin original del auto ni evolución
+    posterior contrastados.
+- nombre: María Antonia Castro Santos
+  cargo: Arquitecta municipal
+  rol: Sobreseimiento provisional parcial publicado en 2021. En enero de 2025 se informa de que la Audiencia rechaza
+    volver a imputar a la arquitecta de las tasaciones por falta de indicios de delito.
+- nombre: Juana Vivó de Salort
+  cargo: Arquitecta municipal, citada también como Joana Vivó
+  rol: Sobreseimiento provisional parcial publicado en julio de 2021. Sin original ni evolución posterior contrastados.
+- nombre: Ramón Bosch Castelló
+  cargo: Adquirente de un inmueble investigado
+  rol: Sobreseimiento provisional parcial publicado en 2021; archivo confirmado según la noticia de enero de 2025,
+    sin original ni firmeza contrastados.
+- nombre: Fernando Orfila Marqués
+  cargo: Empresario
+  rol: 'Incluido entre los seis investigados que permanecían en la causa según las noticias de 2021 y 2023. La acusación
+    publicada en 2024 menciona un empresario fallecido sin identificarlo: no se le atribuye ese dato ni se presume
+    su situación posterior.'
+- nombre: Xavier Quintana
+  cargo: Exgerente municipal de Urbanismo
+  rol: Citado como investigado en 2016. No se ha contrastado el resultado individual posterior; no se presume una
+    investigación vigente.
+- nombre: Llorenç Brondo
+  cargo: Alcalde de Ciutadella durante las operaciones (PP)
+  rol: La información sobre la acusación lo identifica como firmante de la escritura municipal. Ese papel histórico
+    no basta para atribuirle una acusación penal vigente en Nerer; no se trasladan resultados de Citur u otras causas.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "malversación"
-  - "cohecho"
-  - "tráfico de influencias"
-  - "fraude"
-  - "blanqueo de capitales"
-  - "urbanismo"
-  - "PP"
-
-impactoSocial: "El caso ha generado gran malestar en Ciutadella al evidenciar cómo funcionarios públicos del PP utilizaron el Ayuntamiento para enriquecimiento personal, perjudicando las arcas municipales durante casi una década de investigación judicial."
-
+- urbanismo
+- permutas
+- presunta malversación
+- presunto cohecho
+- archivos parciales
+impactoSocial: La investigación sobre el patrimonio municipal ha tenido una larga tramitación. Sus efectos políticos
+  y las peticiones de las acusaciones deben distinguirse de una condena, que no se ha contrastado en esta causa.
 documentos: []
-
 cronologia:
-  - fecha: 2004-01-01
-    titulo: "Inicio del período de los hechos investigados"
-    descripcion: "Comienzan las operaciones inmobiliarias objeto de investigación durante el mandato municipal 2003-2007, bajo el gobierno de Llorenç Brondo (PP) con Avel·lí Casasnovas como concejal de Urbanismo. Las permutas de terrenos que serán posteriormente investigadas se tramitan en este período."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Nerer&numero=543"
-
-  - fecha: 2005-12-01
-    titulo: "Adquisición de Can Saura Morell por sobreprecio"
-    descripcion: "El Ayuntamiento de Ciutadella adquiere Can Saura Morell (Palau Saura) por 2,8 millones de euros, cuando meses antes podría haberlo comprado directamente a La Caixa, anterior propietaria, por 1,9 millones. La Fiscalía considera que esta operación no respondía a un verdadero interés público y ocasionó un perjuicio de 900.000 euros."
-    type: "investigación"
-    urls:
-      - "https://www.menorca.info/menorca/local/2024/02/12/2104173/fiscalia-pide-anos-prision-millones-multa-800000-fianza-avel-casasnovas.html"
-
-  - fecha: 2006-03-01
-    titulo: "Permuta de s'Hort den Llinyà con reventa inmediata"
-    descripcion: "El alcalde Llorenç Brondo formaliza la cesión del terreno de s'Hort den Llinyà, considerado 'la joya de la corona', a la empresa Nerer por 3.009.988 euros. De forma inmediata y en la misma notaría, Nerer revende el terreno a Gel-Fux por 3.491.586 euros, lo que permite al municipio permutar por una propiedad con 481.598 euros menos de su valor real de mercado."
-    type: "investigación"
-    urls:
-      - "https://www.menorca.info/menorca/local/2015/04/28/492764/claves-del-caso-nerer.html"
-
-  - fecha: 2008-01-01
-    titulo: "Comisión de investigación municipal remite el caso a Anticorrupción"
-    descripcion: "Una comisión de investigación constituida en el Ayuntamiento de Ciutadella examina las operaciones urbanísticas del mandato anterior y decide trasladar las actuaciones a la Fiscalía Anticorrupción por presuntas irregularidades en las permutas de terrenos que habrían perjudicado al erario público municipal."
-    type: "denuncia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Nerer&numero=543"
-
-  - fecha: 2015-04-15
-    titulo: "Inicio de la Operación Pomada"
-    descripcion: "El fiscal Pedro Horrach pone en marcha la operación anticorrupción denominada 'Pomada' para investigar en profundidad las permutas irregulares en Ciutadella. Se inician diligencias previas en el Juzgado de Instrucción bajo la dirección del juez Juan Pablo Hidalgo, que investigará las actuaciones del ex concejal Avel·lí Casasnovas y empresarios vinculados a Nerer y Gel-Fux."
-    type: "investigación"
-    urls:
-      - "https://www.menorca.info/menorca/local/2015/04/28/492764/claves-del-caso-nerer.html"
-
-  - fecha: 2016-01-14
-    titulo: "Registros de la Fiscalía Anticorrupción y detenciones"
-    descripcion: "La comisión judicial dirigida por el fiscal Pedro Horrach y el juez Juan Pablo Hidalgo practica registros simultáneos en cuatro domicilios personales de Avel·lí Casasnovas y familiares en Ciutadella. Se detiene al ex concejal del PP y a su presunto testaferro Ildefonso Vinent. Durante los registros se incautan documentos y correos electrónicos que evidencian las relaciones con los beneficiarios de las permutas."
-    type: "detención"
-    urls:
-      - "https://www.menorca.info/menorca/local/2016/01/14/568468/anticorrupcion-inicia-registro-cuatro-registros-domiciliarios.html"
-
-  - fecha: 2016-05-03
-    titulo: "Imputación de gestores de Gel-Fux y Nerer"
-    descripcion: "El juez imputa a los administradores de las empresas Nerer Inmobiliaria (Javier Pedret, Carlos José Vives de Arpe y José María Villanova) y de Gel-Fux (José María Gelabert, Francesc Cavaller, Antoni Cavaller y Fernando Orfila). También se imputa a Joana Casasnovas, hermana del ex concejal, por presunto blanqueo de capitales al ayudar a ocultar el origen fraudulento de los fondos."
-    type: "imputación"
-    urls:
-      - "https://www.menorca.info/menorca/local/2016/05/03/575348/juez-imputa-gestores-gel-fux-nerer-hermana-casasnovas.html"
-
-  - fecha: 2016-06-21
-    titulo: "Suspensión de declaraciones por cambios judiciales"
-    descripcion: "Se suspenden las declaraciones previstas de ocho nuevos imputados ante el juzgado debido a cambios en el tribunal. Esta será la primera de múltiples paralizaciones que sufrirá el caso, que experimentará 19 meses prácticamente sin avances por sucesivos cambios de jueces y solicitudes de inhibición."
-    type: "investigación"
-    urls:
-      - "https://www.menorca.info/menorca/local/2016/06/21/578826/suspenden-declaraciones-imputados-del-caso-nerer.html"
-
-  - fecha: 2016-07-15
-    titulo: "El caso pierde a su fiscal y juez impulsores"
-    descripcion: "El fiscal Pedro Horrach y el juez Juan Pablo Hidalgo, principales impulsores de la Operación Pomada, abandonan el caso por traslados y ceses. Este hecho supone un freno significativo a la investigación que llevaban dirigiendo desde 2015, generando incertidumbre sobre la continuidad del procedimiento."
-    type: "investigación"
-    urls:
-      - "https://www.menorca.info/menorca/local/2016/07/15/580450/caso-nerer-queda-sus-arietes.html"
-
-  - fecha: 2018-06-01
-    titulo: "Daniel García del Mar asume como juez sustituto"
-    descripcion: "El juez Daniel García del Mar toma posesión como juez sustituto en el Juzgado de Instrucción de Ciutadella y se hace cargo del Caso Nerer. Sin embargo, poco después presenta una solicitud de inhibición por amistad personal con uno de los imputados, Santiago Saura, lo que paraliza nuevamente la investigación."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Nerer&numero=543"
-
-  - fecha: 2018-10-01
-    titulo: "María Belén Velázquez Turnes, nueva jueza titular"
-    descripcion: "La magistrada María Belén Velázquez Turnes toma posesión como jueza titular del Juzgado de Instrucción de Ciutadella tras superar el proceso de oposición. Asume la instrucción del Caso Nerer después de meses de parálisis, impulsando la reactivación de las diligencias de investigación."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Nerer&numero=543"
-
-  - fecha: 2021-07-17
-    titulo: "Ayuntamiento apela para ser resarcido del perjuicio"
-    descripcion: "El Ayuntamiento de Ciutadella presenta un recurso de apelación ante la Audiencia Provincial solicitando ser reconocido como acusación particular y reclamar el resarcimiento íntegro del perjuicio económico causado por las permutas irregulares, que cifra en 2,3 millones de euros más intereses."
-    type: "investigación"
-    urls:
-      - "https://www.menorca.info/menorca/local/2021/07/17/1659516/ciutadella-apela-caso-nerer-para-ser-resarcida-del-perjuicio-economico.html"
-
-  - fecha: 2023-12-13
-    titulo: "Hallazgo de documentos comprometedores en caja fuerte"
-    descripcion: "La instrucción revela que Avel·lí Casasnovas guardaba en su caja fuerte documentos y correos electrónicos que demostraban su relación directa con los beneficiados por las permutas. Estos documentos refuerzan la acusación de connivencia entre el ex concejal y los empresarios de Nerer y Gel-Fux para perjudicar al municipio."
-    type: "documento"
-    urls:
-      - "https://www.menorca.info/menorca/local/2023/12/13/2067489/avel-casasnovas-guardaba-caja-fuerte-documentos-correos-los-beneficiados-por-permutas.html"
-
-  - fecha: 2024-02-12
-    titulo: "Fiscalía pide 18 años de prisión para Casasnovas"
-    descripcion: "La Fiscalía Anticorrupción presenta su escrito de acusación solicitando 18 años de cárcel para Avel·lí Casasnovas por delitos de tráfico de influencias, prevaricación administrativa, fraude, malversación de caudales públicos, cohecho y blanqueo de capitales. Además reclama una multa de 1,1 millones de euros y una fianza de 800.000 euros. Para los hermanos Cavaller y José María Gelabert pide 4 años de prisión por cohecho, y para Ildefonso Vinent otros 4 años como cooperador necesario en blanqueo. En total solicita hasta 38 años de prisión sumando todos los acusados."
-    type: "investigación"
-    urls:
-      - "https://www.menorca.info/menorca/local/2024/02/12/2104173/fiscalia-pide-anos-prision-millones-multa-800000-fianza-avel-casasnovas.html"
-
-  - fecha: 2024-12-22
-    titulo: "Audiencia Provincial desestima recursos y ordena juicio"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Baleares desestima los tres recursos de apelación presentados por las defensas de los políticos y empresarios investigados, confirmando la 'apariencia de criminalidad' de las permutas urbanísticas. El tribunal ordena abrir procedimiento abreviado y celebrar juicio oral contra los 17 investigados tras nueve años de instrucción."
-    type: "investigación"
-    urls:
-      - "https://www.menorca.info/menorca/local/2024/12/22/2295395/audiencia-provincial-desestima-todos-recursos-lleva-caso-nerer-juicio.html"
-
-  - fecha: 2025-01-09
-    titulo: "Audiencia admite recurso del Ayuntamiento por s'Hort den Llinyà"
-    descripcion: "La Audiencia Provincial estima parcialmente el recurso presentado por el Ayuntamiento de Ciutadella y acepta enjuiciar también la permuta de s'Hort den Llinyà junto a los cinco empresarios investigados. Esta decisión amplía el objeto del juicio y refuerza la posición acusatoria del municipio como perjudicado."
-    type: "investigación"
-    urls:
-      - "https://menorcaaldia.com/2025/01/09/la-audiencia-estima-el-recurso-del-ajuntament-de-ciutadella-por-el-caso-nerer/"
-
-  - fecha: 2025-02-07
-    titulo: "Cierre de instrucción tras nueve años de investigación"
-    descripcion: "La jueza María del Mar Jaume acuerda el cierre definitivo de la fase de instrucción del Caso Nerer declarando que 'no son necesarias más pruebas'. Tras nueve años de investigación plagados de incidencias procesales, el caso retorna al Juzgado de Ciutadella para decretar la apertura de juicio oral, previsto para 2026. El auto de cierre confirma los indicios de responsabilidad penal de los 17 investigados."
-    type: "investigación"
-    urls:
-      - "https://www.menorca.info/menorca/local/2025/02/07/2321125/jueza-cierra-instruccion-del-caso-nerer-son-necesarias-mas-pruebas.html"
+- fecha: '2015-04-28'
+  titulo: Se conocen registros en Ciutadella
+  descripcion: Europa Press informa de registros municipales y empresariales y tres personas investigadas; precisa
+    que no hubo detenidos en esa operación. Fecha de la noticia.
+  type: registro
+  urls:
+  - https://www.mallorcadiario.com/3-imputados-en-la-operacion-policial-de-ciutadella
+- fecha: '2016-05-03'
+  titulo: Se publican nuevas citaciones como investigados
+  descripcion: Se informa de citaciones de gestores de Nerer y Gel-Fux, técnicos y la hermana de Casasnovas. No se
+    da por celebrada una declaración prevista para junio.
+  type: investigacion
+  urls:
+  - https://www.menorca.info/menorca/local/2016/05/03/1516526/juez-imputa-gestores-gel-fux-nerer-hermana-casasnovas.html
+- fecha: '2021-07-13'
+  titulo: Se conocen siete sobreseimientos parciales
+  descripcion: La noticia describe sobreseimiento provisional parcial para siete personas y continuación respecto
+    de Casasnovas, Vinent y cuatro empresarios. Algunas exclusiones serían recurridas y revocadas después.
+  type: investigacion
+  urls:
+  - https://www.menorca.info/menorca/local/2021/07/13/1659158/juez-resucita-nerer-acota-politico-testaferro-empresarios.html
+- fecha: '2024-02-12'
+  titulo: Se conoce el escrito de acusación fiscal
+  descripcion: 'El diario publica la petición de dieciocho años para Casasnovas y otras penas, multas, fianza, decomiso
+    e indemnización solicitados. El texto indica que el escrito estaba fechado en junio de 2022: publicación no equivale
+    a redacción o presentación.'
+  type: investigacion
+  urls:
+  - https://www.menorca.info/menorca/local/2024/02/12/2104173/fiscalia-pide-anos-prision-millones-multa-800000-fianza-avel-casasnovas.html
+- fecha: '2024-12-11'
+  titulo: La Audiencia desestima recursos de las defensas
+  descripcion: Autos fechados el 11 de diciembre según la noticia del día 22. Confirman la continuación de las actuaciones,
+    sin anticipar culpabilidad ni constituir por sí solos un auto de apertura de juicio oral.
+  type: recurso
+  urls:
+  - https://www.menorca.info/menorca/local/2024/12/22/2295395/audiencia-provincial-desestima-todos-recursos-lleva-caso-nerer-juicio.html
+- fecha: '2025-01-09'
+  titulo: Se conoce la reincorporación de s’Hort d’en Llinyà
+  descripcion: La Audiencia estima parcialmente el recurso municipal, revoca la exclusión de esa permuta y los archivos
+    de Pedret y Villanova; mantiene el de Bosch y rechaza reimputar a la arquitecta. Fecha de publicación, no del
+    auto.
+  type: recurso
+  urls:
+  - https://www.menorca.info/menorca/local/2025/01/09/2302369/audiencia-tambien-acepta-juzgar-permuta-del-canal-salat.html
+  - https://menorcaaldia.com/2025/01/09/la-audiencia-estima-el-recurso-del-ajuntament-de-ciutadella-por-el-caso-nerer/
+- fecha: '2025-02-07'
+  titulo: Se conoce el nuevo procedimiento abreviado
+  descripcion: Se publica el auto que incorpora la permuta y da diez días para nuevos escritos de acusación. Seis
+    personas aparecen en este trámite concreto; no se afirma que diecisiete personas vayan a juicio ni que la vista
+    esté señalada en 2026.
+  type: investigacion
+  urls:
+  - https://www.menorca.info/menorca/local/2025/02/07/2321125/jueza-cierra-instruccion-del-caso-nerer-son-necesarias-mas-pruebas.html
 ---
+
+Nerer se refiere a dos permutas municipales aprobadas en 2005 y formalizadas en 2006: la de Can Saura Morell por la parcela del paseo marítimo conocida como la “joya de la corona”, y la de s’Hort d’en Llinyà, vinculada al Canal Salat, por otros bienes municipales. Las acusaciones sostienen que se favoreció a empresarios mediante las valoraciones y la tramitación, y que Casasnovas recibió compensaciones. Son hipótesis de acusación, sin sentencia contrastada que permita presentarlas como hechos probados.
+
+No debe confundirse el solar del paseo marítimo permutado por Can Saura con los terrenos del Canal Salat. La antigua descripción atribuía a s’Hort d’en Llinyà los precios de la otra operación. También situaba el inicio policial en un día de abril de 2015 no acreditado: [Europa Press publicó registros el 28 de abril de 2015](https://www.mallorcadiario.com/3-imputados-en-la-operacion-policial-de-ciutadella), sin detenidos en aquella operación, mientras las fuentes posteriores sitúan la Operación Pomada y las detenciones en enero de 2016. Sin prueba del día exacto no se completa una fecha de inicio artificial.
+
+El [archivo parcial conocido en julio de 2021](https://www.menorca.info/menorca/local/2021/07/13/1659158/juez-resucita-nerer-acota-politico-testaferro-empresarios.html) excluyó provisionalmente a siete personas y mantuvo la investigación para otras seis. La [resolución de apelación publicada en enero de 2025](https://www.menorca.info/menorca/local/2025/01/09/2302369/audiencia-tambien-acepta-juzgar-permuta-del-canal-salat.html) reincorporó a Pedret y Villanova y la operación de s’Hort d’en Llinyà, pero no reabrió indiscriminadamente las actuaciones para todos. Confirmó el archivo de Bosch y rechazó imputar de nuevo a la arquitecta de las tasaciones. El tipo de archivo y su posterior evolución se explican persona por persona hasta donde alcanzan las fuentes.
+
+La [acusación fiscal difundida en febrero de 2024](https://www.menorca.info/menorca/local/2024/02/12/2104173/fiscalia-pide-anos-prision-millones-multa-800000-fianza-avel-casasnovas.html) pide dieciocho años de prisión para Casasnovas y cuatro años para distintos empresarios y para Vinent. No son condenas. La noticia señala que el escrito está fechado en junio de 2022 y diferencia la petición de multa, la fianza y el decomiso por las supuestas reformas. No se suman esas cantidades como perjuicio municipal. Tampoco se trasladan a Nerer las condenas o peticiones de pena de los asuntos del solar de las ratas o Citur.
+
+Los 2,3 millones citados en las informaciones son una estimación del posible perjuicio investigado, no una liquidación judicial firme. Además, el propio artículo de 2024 advierte de que la diferencia de 481.598 euros que el fiscal reclama como indemnización corresponde, según el diario, al IVA del 16 % sobre los 3.009.988 euros del solar. Sin escrituras e informes originales no se resuelve aquí esa controversia ni se presenta la diferencia de precios como beneficio neto probado. Por eso no se asigna una cifra de coste al caso.
+
+El [auto divulgado el 7 de febrero de 2025](https://www.menorca.info/menorca/local/2025/02/07/2321125/jueza-cierra-instruccion-del-caso-nerer-son-necesarias-mas-pruebas.html) continúa por procedimiento abreviado e incorpora la operación antes excluida, dando traslado para nuevos escritos de acusación. Esa fase no acredita la apertura efectiva del juicio oral, su celebración ni un fallo. Las menciones a un posible juicio en 2026 eran previsiones. Al corte del 15 de octubre de 2026 no se han contrastado resoluciones posteriores, el número definitivo de acusados ni todos los desenlaces individuales; tampoco se presume que no existan por no haberlos localizado. No se dispone de un original judicial verificable para añadir a documentos.
