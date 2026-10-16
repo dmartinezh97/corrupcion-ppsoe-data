@@ -31,8 +31,8 @@ tribunal:
 implicados:
 - nombre: José Antonio Viera
   cargo: Exconsejero de Empleo
-  rol: 'Ayudas sociolaborales: archivo por prescripción anunciado en junio de 2023. La prensa describe una reforma
-    posterior que lo mantuvo investigado junto con Fernández; no se ha acreditado aquí su desenlace individual posterior.'
+  rol: 'Ayudas sociolaborales: archivo por prescripción anunciado en junio de 2023. No se ha acreditado
+    aquí su desenlace individual posterior ni se le extiende la reforma y el recurso relatados para Fernández.'
 - nombre: Antonio Fernández
   cargo: Exconsejero de Empleo
   rol: 'Ayudas sociolaborales: archivo inicial por prescripción en 2023, posteriormente revocado en reforma. La
