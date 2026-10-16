@@ -67,8 +67,8 @@ implicados:
     para esta pieza. Sin comprobación del auto original ni de la firmeza. Absuelto en el procedimiento paralelo Serrallo.
 - nombre: María Paz Spínola
   cargo: Exalto cargo del área de Urbanismo de Granada
-  rol: Identificado en la noticia de Mulhacén de abril de 2026 por sus iniciales; sobreseimiento provisional publicado
-    para esta pieza. Sin comprobación del auto original ni de la firmeza. Absuelto en el procedimiento paralelo Serrallo.
+  rol: Identificada en la noticia de Mulhacén de abril de 2026 por sus iniciales; sobreseimiento provisional publicado
+    para esta pieza. Sin comprobación del auto original ni de la firmeza. Absuelta en el procedimiento paralelo Serrallo.
 tags:
 - urbanismo
 - prevaricación
