@@ -1,210 +1,193 @@
 ---
-nombre: "Caso Umbra"
+nombre: Caso Umbra
 partido: PP
-completado: true
+completado: false
 año: 2010
-fechaInicio: 2010-10-05
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El caso Umbra ("sombra" en italiano) investiga la corrupción urbanística más importante del municipio de Murcia, con cerca de 30 personas implicadas. La investigación, dirigida por el juez David Castillejos del Juzgado nº 8 de Murcia, analiza seis convenios urbanísticos sobre 9.959.946 metros cuadrados para la construcción de 120.000 viviendas en la zona norte de la ciudad, por los que las arcas municipales podrían haber dejado de ingresar aproximadamente 500 millones de euros en presunta malversación de caudales públicos.
+fechaFin: ''
+estado: desconocido
+descripcion: 'Umbra reúne varias investigaciones sobre convenios urbanísticos y actuaciones de la antigua Gerencia
+  de Urbanismo de Murcia. La operación policial se hizo pública en octubre de 2010, aunque las diligencias judiciales
+  tienen antecedentes en 2008. Las sospechas iniciales, los escritos de acusación y los resultados de cada pieza
+  no son equivalentes ni permiten atribuir responsabilidad conjunta a todos los investigados.
 
-  El mecanismo fraudulento consistió en la valoración a la baja de los terrenos por parte de la Concejalía de Urbanismo, que situó el precio en 120 euros por metro cuadrado frente a los 600 euros que fijaba el mercado, beneficiando enormemente a los promotores a costa del erario público. El nombre de la operación se debe a la presencia del ingeniero italiano Renato de Nocce, presente en muchas de las operaciones urbanísticas en Murcia durante la última década. Entre los convenios investigados destaca el de Nueva Condomina (2001), promovido por Jesús Samper, presidente del Real Murcia, que cambió la edificabilidad de 180.000 m² (1.800 viviendas) a más de 500.000 m² (5.000 viviendas) a cambio del estadio Nueva Condomina.
 
-  La Operación Umbra se inició el 5 de octubre de 2010 con registros de la UCO de la Guardia Civil en dependencias municipales, despachos profesionales y domicilios de Murcia y Madrid. En noviembre de 2015, el juez ordenó continuar la tramitación contra 18 imputados por 46 presuntos delitos, decretando el sobreseimiento provisional de la causa respecto a Miguel Ángel Cámara (alcalde de Murcia 1995-2015) y cuatro imputados más. Sin embargo, se abrió una pieza separada denominada "Convenio Nueva Condomina" contra Cámara y Jesús Samper por posibles delitos de uso de información privilegiada y prevaricación. El juicio oral se ha fijado para diciembre de 2027, 19 años después del inicio de la investigación, lo que generará atenuantes por dilaciones indebidas que reducirán las posibles condenas.
+  En Nueva Condomina, el Juzgado de lo Penal 5 absolvió el 8 de junio de 2018 a Miguel Ángel Cámara, Pedro Lorenzo
+  Morillas y Joaquín Peñalver de prevaricación administrativa. La Audiencia Provincial confirmó la absolución el
+  23 de abril de 2021 mediante sentencia que indica que no cabe recurso. Este resultado corresponde a esa pieza,
+  no al conjunto de Umbra. El archivo provisional de Cámara en otras actuaciones comunicado en 2015 también debe
+  distinguirse de aquella absolución.
 
-resumen: "Trama de corrupción urbanística en Murcia que investigó convenios irregulares que causaron pérdidas de 311 millones de euros"
-coste: 311000000
-lugar: "Murcia, Región de Murcia"
+
+  La pieza Teatro Circo pasó a procedimiento abreviado respecto de seis investigados en octubre de 2018. La información
+  publicada en julio de 2025 todavía describía una suspensión del plazo para presentar escritos de calificación.
+  En otra rama, la relativa al Casino, la prensa informó en noviembre de 2024 de un señalamiento para diciembre
+  de 2027. No se ha cotejado la resolución de señalamiento ni su vigencia al 15 de octubre de 2026; las noticias
+  difieren sobre los días y el número de sesiones. Tampoco se ha verificado el desenlace posterior de Teatro Circo,
+  Baños y Mendigo o todos los resultados individuales de la investigación inicial.
+
+
+  No se consigna un daño patrimonial global: las estimaciones iniciales de cientos de millones, los valores de suelo,
+  las compensaciones urbanísticas y las fianzas no equivalen a pérdidas declaradas en sentencia. No procede anticipar
+  condenas ni la aplicación de atenuantes por dilaciones.'
+resumen: Investigaciones urbanísticas en Murcia con absolución confirmada en Nueva Condomina y otras piezas con
+  resultados o señalamientos distintos; situación global y desenlaces posteriores parcialmente verificados.
+lugar: Murcia, Región de Murcia
 tribunal:
-  - "Juzgado nº 8 de Murcia - Juez David Castillejos"
-  - "Audiencia Provincial de Murcia"
-numeroSentencia: ""
+  - Juzgado de Instrucción nº 8 de Murcia (instrucción inicial)
+  - Juzgado de lo Penal nº 5 de Murcia (Nueva Condomina)
+  - Audiencia Provincial de Murcia, Sección Segunda
+numeroSentencia: 'Nueva Condomina: 197/2018, de 8 de junio; apelación 111/2021, de 23 de abril'
 implicados:
-  - nombre: "Miguel Ángel Cámara Botía"
-    cargo: "Alcalde de Murcia (1995-2015)"
-    rol: "Sobreseído provisionalmente en pieza principal, investigado en pieza separada Nueva Condomina por uso de información privilegiada y prevaricación"
-
-  - nombre: "Fernando Berberena Loperena"
-    cargo: "Ex-concejal de Urbanismo de Murcia"
-    rol: "Procesado por prevaricación y fraude. Pendiente de juicio en diciembre 2027 con petición de 2 años y 9 meses de prisión"
-
-  - nombre: "Joaquín Peñalver Motas"
-    cargo: "Ex-jefe de Planeamiento del Ayuntamiento de Murcia"
-    rol: "Procesado por prevaricación. Absuelto en pieza separada Nueva Condomina"
-
-  - nombre: "Alberto Guerra Tschuschke"
-    cargo: "Ex-gerente de Urbanismo del Ayuntamiento de Murcia"
-    rol: "Detenido inicialmente con fianza de 100.000 euros. Investigado en pieza del Teatro Circo desde 2017"
-
-  - nombre: "Jesús Samper Vidal"
-    cargo: "Presidente del Real Murcia CF"
-    rol: "Investigado por delito fiscal, blanqueo de capitales e inducción a la prevaricación en convenio Nueva Condomina"
-
-  - nombre: "Juan Antonio Megías García"
-    cargo: "Ex-consejero del PP, presidente del Casino de Murcia"
-    rol: "Imputado en la pieza Casino del caso Umbra"
-
-  - nombre: "Renato de Nocce"
-    cargo: "Ingeniero italiano"
-    rol: "Detenido con fianza de 120.000 euros. Presente en múltiples operaciones urbanísticas investigadas"
-
-  - nombre: "Higinio Pérez Mateos"
-    cargo: "Abogado urbanista"
-    rol: "Detenido inicialmente con fianza de 70.000 euros, posteriormente levantada"
-
-  - nombre: "Ramón Salvador"
-    cargo: "Promotor inmobiliario de Elche"
-    rol: "Procesado por regalar relojes de lujo al ex-edil de Urbanismo en el marco de la rehabilitación del Teatro Circo"
-
-  - nombre: "Pedro Morillas"
-    cargo: "Técnico municipal"
-    rol: "Absuelto en pieza separada Nueva Condomina"
-
+  - nombre: Miguel Ángel Cámara Botía
+    cargo: Alcalde de Murcia durante los hechos
+    rol: Absuelto en Nueva Condomina en 2018; absolución confirmada en 2021 por sentencia que no admite recurso.
+      Sobreseimiento provisional en otras actuaciones comunicado en 2015; sin desenlace verificado de Baños y Mendigo.
+  - nombre: Fernando Berberena Loperena
+    cargo: Exconcejal de Urbanismo de Murcia
+    rol: Continuación por procedimiento abreviado en Teatro Circo comunicada en 2018; identificado entre los acusados
+      de Casino en noticias de 2024. No se ha verificado una sentencia posterior en esas piezas.
+  - nombre: Joaquín Peñalver Motas
+    cargo: Exjefe de Planeamiento municipal
+    rol: Absuelto en Nueva Condomina, con confirmación en 2021. La nota judicial de Teatro Circo recoge continuación
+      respecto de Joaquín P.M.; aparece entre los acusados de Casino en prensa de 2024. Resultados distintos por
+      pieza.
+  - nombre: Alberto Guerra Tschuschke
+    cargo: Exgerente de Urbanismo de Murcia
+    rol: Detenido en la operación inicial. La nota de Teatro Circo de 2018 recoge continuación respecto de Alberto
+      G.T.; identificado entre los acusados de Casino en 2024. Sin condena posterior verificada.
+  - nombre: Jesús Samper Vidal
+    cargo: Empresario y presidente del Real Murcia durante los hechos
+    rol: Investigado en la pieza Nueva Condomina según la nota judicial de 2015. Falleció en diciembre de 2015;
+      no se le atribuye la absolución de los tres acusados juzgados en 2018.
+  - nombre: Juan Antonio Megías García
+    cargo: Presidente del Real Casino de Murcia en el periodo investigado; exconsejero regional
+    rol: Afectado por la acusación municipal conocida en 2016. En la revista institucional del Casino, número 49,
+      afirmó que su imputación había sido sobreseída. No se ha cotejado el auto ni su firmeza y no se le presenta
+      como acusado actual.
+  - nombre: Renato de Noce
+    cargo: Ingeniero y empresario
+    rol: Detenido en la operación inicial e identificado entre los acusados de Casino en las noticias de 2024. Sin
+      sentencia posterior verificada; peticiones fiscales distintas de condenas.
+  - nombre: Higinio Pérez Mateos
+    cargo: Abogado y empresario
+    rol: Detenido en la operación inicial. No se ha verificado de forma suficiente su situación individual posterior
+      ni se mantiene una fianza o acusación como actuales.
+  - nombre: Ramón Salvador Águeda
+    cargo: Promotor inmobiliario
+    rol: La nota judicial de Teatro Circo recoge continuación por prevaricación y cohecho respecto de Ramón S.A.;
+      no se ha cotejado una acusación o sentencia posterior ni se atribuyen como probados los regalos investigados.
+  - nombre: Pedro Lorenzo Morillas Sánchez
+    cargo: Director de la Gerencia de Urbanismo en el periodo de Nueva Condomina
+    rol: Absuelto de prevaricación en Nueva Condomina en 2018; absolución confirmada el 23 de abril de 2021 por
+      sentencia que indica que no cabe recurso.
+  - nombre: María de la O Chica
+    cargo: Funcionaria municipal
+    rol: Identificada en la información de octubre de 2018 entre las seis personas respecto de las que continúa
+      Teatro Circo por presunta prevaricación. Sin acusación o resultado posterior verificados.
+  - nombre: Miguel Ángel Barroso
+    cargo: Representante de una empresa constructora
+    rol: Identificado en la información de octubre de 2018 entre los afectados por la continuación de Teatro Circo,
+      por cohecho y negociaciones prohibidas. Sin resultado posterior verificado.
+  - nombre: Isabel Fernández
+    cargo: Jefa de la Oficina de Gobierno Local de Murcia durante los hechos
+    rol: Identificada entre los acusados de Casino en la información de noviembre de 2024. Sin escrito de acusación
+      original o resultado posterior cotejados.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "malversación"
-  - "cohecho"
-  - "blanqueo de capitales"
-  - "tráfico de influencias"
-  - "fraude"
-  - "urbanismo"
-  - "información privilegiada"
-
-impactoSocial: "El caso Umbra representa uno de los mayores escándalos de corrupción urbanística en la historia de Murcia. La investigación reveló cómo durante más de una década, altos cargos municipales del PP manipularon convenios urbanísticos para beneficiar a promotores privados en perjuicio de las arcas públicas. El caso afectó la credibilidad del gobierno municipal de Miguel Ángel Cámara, quien dirigió la ciudad durante 20 años. La extrema lentitud de la justicia, con un juicio fijado para 2027 (17 años después del inicio), ha generado indignación ciudadana y críticas al sistema judicial por las dilaciones que beneficiarán a los acusados con atenuantes que reducirán las condenas."
-
-documentos: []
-
+  - urbanismo
+  - prevaricación
+  - cohecho
+  - convenios urbanísticos
+impactoSocial: La división de la causa en piezas y su prolongación durante años han generado debate sobre el control
+  urbanístico y los tiempos judiciales. La absolución de Nueva Condomina y el señalamiento anunciado para Casino
+  deben valorarse separadamente, sin anticipar responsabilidades penales en las demás actuaciones.
+documentos:
+  - fecha: '2018-06-08'
+    titulo: 'Sentencia absolutoria de Nueva Condomina: 197/2018'
+    filetype: pdf
+    paginas: 37
+    nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c2359eed5f643c57&encode=true&databasematch=AN
+  - fecha: '2021-04-23'
+    titulo: 'Confirmación en apelación de la absolución de Nueva Condomina: 111/2021'
+    filetype: pdf
+    paginas: 24
+    nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=86f9708e2ab3b827&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2001-07-17"
-    titulo: "Firma del convenio Nueva Condomina"
-    descripcion: "Se firma el primer convenio investigado, conocido como Nueva Condomina, promovido por Sport Management and Project y Real Murcia SAD. El acuerdo permitió cambiar la edificabilidad de 180.000 m² (1.800 viviendas) a más de 500.000 m² (5.000 viviendas) a cambio de la construcción del estadio Nueva Condomina valorado en 4.000 millones de pesetas. Jesús Samper, presidente del Real Murcia, fue el principal promotor del convenio."
-    type: "investigación"
-    relevancia: "alta"
+  - fecha: '2010-10-07'
+    titulo: Se informa de las detenciones de la operación Umbra
+    descripcion: Público informa de las detenciones del gerente Alberto Guerra, el abogado Higinio Pérez Mateos
+      y el ingeniero Renato de Noce y de su situación bajo fianza. Es un hito informativo inicial; no acredita responsabilidad
+      penal ni el día de incoación judicial.
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Umbra&numero=97"
-
-  - fecha: "2010-10-05"
-    titulo: "Operación Umbra: inicio de la investigación policial"
-    descripcion: "La Unidad Central Operativa (UCO) de la Guardia Civil ejecuta la Operación Umbra en las primeras horas de la mañana, registrando dependencias municipales de la Gerencia de Urbanismo y diversos despachos profesionales y domicilios en Murcia y Madrid. Se investigan seis convenios urbanísticos sobre 9.959.946 metros cuadrados para la construcción de 120.000 viviendas. Se detiene al gerente de Urbanismo Alberto Guerra Tschuschke y al abogado Higinio Pérez Mateos, quienes quedan en libertad con fianzas de 100.000 y 70.000 euros respectivamente. El ingeniero italiano Renato de Nocce enfrenta una fianza de 120.000 euros."
-    type: "detención"
-    relevancia: "alta"
+      - https://www.publico.es/actualidad/caso-umbra-destapa-pelotazo-gerente-urbanismo.amp.html
+    type: detencion
+    relevancia: alta
+  - fecha: '2015-11-27'
+    titulo: Se comunica la continuación contra 18 investigados y archivos parciales
+    descripcion: La nota judicial recoge indicios agrupados en ocho bloques y el archivo provisional para Cámara
+      y otras cuatro personas. También diferencia Nueva Condomina y la creación de Baños y Mendigo. La fecha corresponde
+      a la notificación comunicada; la resolución admitía recursos.
     urls:
-      - "https://zarangollo.com/2011/02/25/las-claves-del-caso-umbra/"
-      - "https://www.eldiario.es/murcia/politica/umbra-imputados-presuntos-relacionados-corrupcion_1_2341884.html"
-
-  - fecha: "2010-10-15"
-    titulo: "Imputación a Jesús Samper por múltiples delitos"
-    descripcion: "El juez David Castillejos imputa a Jesús Samper, presidente del Real Murcia, por delito fiscal, blanqueo de capitales e inducción a la prevaricación relacionados con el convenio urbanístico de Nueva Condomina. La investigación se centra en cómo el club de fútbol obtuvo enormes beneficios urbanísticos a cambio de construir un estadio cuyo coste real fue muy inferior al declarado."
-    type: "investigación"
-    relevancia: "alta"
+      - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juez-ordena-continuar-el-caso-Umbra-contra-18-imputados-por-46-presuntos-delitos-relacionados-con-la-corrupcion
+    type: investigacion
+    relevancia: alta
+  - fecha: '2018-06-08'
+    titulo: Absolución de los tres acusados de Nueva Condomina
+    descripcion: 'Sentencia 197/2018 del Penal 5: absolución de Cámara, Morillas y Peñalver de la acusación de prevaricación.
+      El fallo era recurrible y sería confirmado en 2021.'
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Umbra&numero=97"
-
-  - fecha: "2010-11-18"
-    titulo: "Comisión municipal de análisis del caso"
-    descripcion: "El Ayuntamiento de Murcia y la oposición convocan una comisión especial para analizar el caso Umbra y examinar los convenios urbanísticos bajo investigación judicial. La comisión evidencia la gravedad del escándalo y la presión política sobre el equipo de gobierno de Miguel Ángel Cámara."
-    type: "investigación"
-    relevancia: "media"
+      - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c2359eed5f643c57&encode=true&databasematch=AN
+      - https://www.poderjudicial.es/cgpj/ca/Poder-Judicial/Novetats/Absuelven-al-exalcalde-de-Murcia-de-la-acusacion-de-prevaricacion-continuada-por-Nueva-Condomina
+    type: sentencia
+    relevancia: alta
+  - fecha: '2018-10-10'
+    titulo: Se notifica el paso a procedimiento abreviado de Teatro Circo
+    descripcion: La nota del Poder Judicial recoge continuación respecto de seis investigados por distintos delitos.
+      También informa de archivos de otros hechos inicialmente investigados, como viaje a Estambul y cacerías. No
+      es una sentencia condenatoria.
     urls:
-      - "https://15mpedia.org/wiki/Caso_Umbra"
-
-  - fecha: "2010-12-09"
-    titulo: "Levantamiento de medidas cautelares a Higinio Pérez"
-    descripcion: "El juez David Castillejos levanta las medidas cautelares contra el abogado Higinio Pérez Mateos y ordena la devolución de su fianza de 100.000 euros, considerando que no existe riesgo de fuga ni de destrucción de pruebas."
-    type: "investigación"
-    relevancia: "baja"
+      - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/Concluye-la-instruccion-de-la-pieza-de-Teatro-Circo-del-caso-Umbra-en-Murcia
+    type: investigacion
+    relevancia: alta
+  - fecha: '2021-04-23'
+    titulo: La Audiencia confirma la absolución de Nueva Condomina
+    descripcion: 'Sentencia 111/2021 de la Sección Segunda: desestima el recurso fiscal, al que se había adherido
+      el grupo socialista, confirma la absolución y declara de oficio las costas de apelación. El fallo indica que
+      no cabe recurso alguno.'
     urls:
-      - "https://15mpedia.org/wiki/Caso_Umbra"
-
-  - fecha: "2010-12-22"
-    titulo: "Levantamiento de medidas cautelares a Alberto Guerra"
-    descripcion: "El juez instructor levanta también las medidas cautelares contra Alberto Guerra Tschuschke, ex-gerente de Urbanismo, y ordena la devolución de su fianza de 100.000 euros, permitiéndole mayor libertad durante la instrucción de la causa."
-    type: "investigación"
-    relevancia: "baja"
+      - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=86f9708e2ab3b827&encode=true&databasematch=AN
+      - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-confirma-la-absolucion-del-exalcalde-de-Murcia-en-el-caso-Nueva-Condomina
+    type: sentencia
+    relevancia: alta
+  - fecha: '2024-11-29'
+    titulo: Se informa de un señalamiento para Casino en diciembre de 2027
+    descripcion: SER atribuye el señalamiento a fuentes judiciales. Se limita esta previsión a la pieza Casino;
+      falta la resolución original y las informaciones consultadas discrepan sobre los días y sesiones. No se anuncia
+      un juicio de toda Umbra ni de Nueva Condomina.
     urls:
-      - "https://15mpedia.org/wiki/Caso_Umbra"
-
-  - fecha: "2011-01-27"
-    titulo: "Declaración de testigos clave"
-    descripcion: "El ex-concejal de Urbanismo Ginés Navarro y otros testigos declaran ante el Tribunal Superior de Justicia sobre los convenios urbanísticos investigados. Las declaraciones aportan información clave sobre el funcionamiento interno de la Concejalía de Urbanismo y las presiones recibidas para aprobar convenios irregulares."
-    type: "investigación"
-    relevancia: "media"
+      - https://cadenaser.com/murcia/2024/11/29/casino-una-de-las-piezas-separadas-del-caso-umbra-se-juzgara-a-finales-de-2027-radio-murcia/
+      - https://cadenaser.com/murcia/2024/11/28/fijan-para-diciembre-de-2027-el-juicio-por-la-rehabilitacion-del-real-casino-de-murcia-radio-murcia/
+      - https://www.orm.es/noticias-2024/el-juicio-por-el-caso-umbra-se-celebrara-en-diciembre-de-2027/
+    type: juicio
+    relevancia: alta
+  - fecha: '2025-07-27'
+    titulo: La prensa describe trámites de calificación pendientes en Teatro Circo
+    descripcion: La Verdad informa de que se había suspendido el plazo de escritos de calificación por la baja de
+      una letrada municipal. Es la fecha de publicación; no se conoce aquí la del acuerdo de suspensión ni su evolución
+      posterior.
     urls:
-      - "https://zarangollo.com/2011/02/25/las-claves-del-caso-umbra/"
-
-  - fecha: "2012-06-15"
-    titulo: "Declaración de Miguel Ángel Cámara como imputado"
-    descripcion: "El alcalde de Murcia, Miguel Ángel Cámara Botía, declara ante el juez como imputado en el caso Umbra. Esta declaración será posteriormente incluida en la pieza separada denominada 'Baños y Mendigo'. El alcalde niega cualquier irregularidad y defiende la legalidad de todos los convenios urbanísticos firmados durante su mandato."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juez-ordena-continuar-el-caso-Umbra-contra-18-imputados-por-46-presuntos-delitos-relacionados-con-la-corrupcion"
-
-  - fecha: "2013-11-29"
-    titulo: "Desestimación de recursos de los imputados"
-    descripcion: "El magistrado que investiga el caso Umbra desestima los recursos presentados por tres imputados (Alberto Guerra, Higinio Pérez Mateos y Renato de Nocce) contra sus órdenes de detención, considerando que existen indicios suficientes para mantener la investigación sobre ellos."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.murciaconfidencial.es/2013_11_29_archive.html"
-
-  - fecha: "2015-06-30"
-    titulo: "Orden de continuar contra Cámara en pieza Nueva Condomina"
-    descripcion: "Dentro de la pieza separada denominada 'Convenio Nueva Condomina', se dicta auto de continuación de procedimiento contra Miguel Ángel Cámara Botía y Jesús Samper Vidal por posibles delitos de uso de información privilegiada y prevaricación. Esta pieza se separa del caso principal para investigar específicamente las irregularidades del convenio de 2001."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/murcia/politica/caso-umbra-convierte-nueva-condomina_1_4355195.html"
-
-  - fecha: "2015-11-27"
-    titulo: "Sobreseimiento de Cámara en pieza principal y continuación contra 18 imputados"
-    descripcion: "El juez David Castillejos dicta un auto crucial: ordena continuar la tramitación del caso Umbra contra 18 imputados por 46 presuntos delitos agrupados en ocho bloques, incluyendo prevaricación, negociaciones prohibidas a funcionarios, malversación de caudales públicos y cohecho. Simultáneamente, decreta el sobreseimiento provisional de la causa respecto a Miguel Ángel Cámara Botía y otros cuatro imputados en la pieza principal, aunque Cámara continúa investigado en la pieza separada de Nueva Condomina."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juez-ordena-continuar-el-caso-Umbra-contra-18-imputados-por-46-presuntos-delitos-relacionados-con-la-corrupcion"
-      - "https://www.eldiario.es/murcia/politica/umbra-imputados-presuntos-relacionados-corrupcion_1_2341884.html"
-
-  - fecha: "2016-04-22"
-    titulo: "Revelación del viaje a Estambul pagado por promotor"
-    descripcion: "Los medios revelan que un promotor fletó un avión privado para un viaje de Miguel Ángel Cámara a Estambul dos meses antes de la aprobación definitiva del plan parcial del convenio del Teatro Circo. Esta información forma parte de las evidencias sobre los posibles regalos y dádivas recibidas por cargos municipales de parte de promotores beneficiados por los convenios urbanísticos."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.eldiario.es/murcia/politica/caso-umbra-promotor-camara-estambul_1_4708878.html"
-
-  - fecha: "2017-01-01"
-    titulo: "Inicio de investigación sobre rehabilitación del Teatro Circo"
-    descripcion: "Se abre una nueva pieza separada del caso Umbra para investigar las presuntas irregularidades cometidas por Fernando Berberena y Alberto Guerra durante la rehabilitación del Teatro Circo, aprobada en 2006 por el Ayuntamiento de Murcia. La investigación examina cómo el promotor Ramón Salvador compró el edificio el 22 de abril de 2004 por 5,8 millones de euros, seis días antes de que el Ayuntamiento aprobara que el propietario sería compensado con ventajas en un plan urbanístico a cambio de rehabilitar el teatro y revenderlo al Ayuntamiento, lo que hizo en febrero de 2006 por 6 millones de euros. Se descubre que Salvador regaló relojes de lujo y viajes en yate a Berberena."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://alicanteplaza.es/ElilicitanoRamnSalvadorprocesadoporregalarrelojesdelujoalexedildeUrbanismodeMurcia"
-
-  - fecha: "2018-03-15"
-    titulo: "Absolución de Cámara, Morillas y Peñalver en pieza Nueva Condomina"
-    descripcion: "El juez del Juzgado de lo Penal número 5 de Murcia absuelve a Miguel Ángel Cámara, Pedro Morillas y Joaquín Peñalver del delito de prevaricación administrativa continuada por el que estaban acusados en la pieza separada de Nueva Condomina del caso Umbra. La sentencia considera que no hay pruebas suficientes para acreditar que actuaron con dolo o conocimiento de la ilegalidad en la tramitación del convenio urbanístico."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/ca/Poder-Judicial/Novetats/Absuelven-al-exalcalde-de-Murcia-de-la-acusacion-de-prevaricacion-continuada-por-Nueva-Condomina"
-
-  - fecha: "2020-06-30"
-    titulo: "Conclusión de instrucción de la pieza Teatro Circo"
-    descripcion: "El Juzgado de Instrucción número 8 de Murcia concluye la instrucción de la pieza separada del Teatro Circo del caso Umbra. La Fiscalía ha estado esperando desde junio de 2024 la remisión de documentación del juzgado para poder formular su acusación definitiva contra Fernando Berberena, Alberto Guerra y Ramón Salvador."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/Concluye-la-instruccion-de-la-pieza-de-Teatro-Circo-del-caso-Umbra-en-Murcia"
-
-  - fecha: "2024-09-01"
-    titulo: "Fijación de fecha de juicio para diciembre de 2027"
-    descripcion: "La Audiencia Provincial de Murcia fija las fechas del juicio oral del caso Umbra para diciembre de 2027, programando cuatro sesiones para los días 13, 15, 16 y 17 de ese mes. Esta fecha implica que transcurrirán 19 años desde el inicio de la investigación hasta el juicio, lo que constituye una dilación extraordinaria que, según los expertos jurídicos, generará atenuantes por dilaciones indebidas que reducirán significativamente las posibles condenas. Entre los acusados figura Fernando Berberena, quien enfrenta una petición de 2 años y 9 meses de prisión por delitos de prevaricación y fraude. La tardanza judicial ha generado críticas sobre la efectividad del sistema de justicia español en casos de corrupción."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.orm.es/noticias-2024/el-juicio-por-el-caso-umbra-se-celebrara-en-diciembre-de-2027/"
-
+      - https://storage.googleapis.com/warehouse-europe-west3-prod-assets/8fcd6b59-2d61-4c07-ac79-a178825aac62/kiosko-2284-20250727-cartagena/12fbe05f4ed781c27e9f7bd786f2c88e_sample.pdf
+    type: investigacion
+    relevancia: alta
 ---
+
+Umbra no tiene un resultado penal único. Las diligencias iniciales dieron lugar a ramas con objetos distintos: convenios de la zona norte, Nueva Condomina, Casino, Teatro Circo y Baños y Mendigo. El sobreseimiento provisional comunicado en 2015 respecto de Cámara en unas actuaciones no resolvía entonces Nueva Condomina, ni permite deducir el estado posterior de las restantes piezas.
+
+**Nueva Condomina.** La sentencia 197/2018 del Juzgado de lo Penal 5, de 8 de junio, absolvió a los tres acusados de prevaricación. La identificación nominal procede de las notas judiciales; el PDF público utiliza nombres anonimizados. La Audiencia Provincial confirmó el resultado en la sentencia 111/2021, de 23 de abril, y señaló expresamente que no cabía recurso alguno. La eventual invalidez administrativa de una parte del convenio no bastaba por sí sola para acreditar el delito de prevaricación. Este resultado no se extrapola a Casino o Teatro Circo.
+
+**Casino y Teatro Circo.** La información sobre Casino de noviembre de 2024 sitúa un juicio en diciembre de 2027. SER y ORM coinciden en mes y año, pero discrepan en jornadas y días; sin el señalamiento original no se fija un calendario detallado ni se garantiza que siga vigente al corte de esta ficha. En Teatro Circo, la nota judicial de 10 de octubre de 2018 recoge seis personas respecto de las que continuaban las actuaciones y diferencia los delitos atribuidos. También constata archivos de hechos como el viaje a Estambul y las cacerías: no deben mantenerse como si siguieran siendo acusaciones vigentes. Una noticia de julio de 2025 describe trámites de calificación pendientes, sin aportar un fallo penal posterior.
+
+**Resultados individuales e importes.** La situación de cada persona depende de la pieza. [Samper falleció en diciembre de 2015](https://cadenaser.com/ser/2015/12/18/deportes/1450434389_004522.html), antes del juicio de los tres acusados de Nueva Condomina. Megías afirmó en una carta publicada en la [revista número 49 del Casino](https://casinomurcia.com/pdfs/RC-MAGAZINE-49.pdf) que su imputación había sido sobreseída; se conserva esa afirmación atribuida porque falta el auto que permita precisar el alcance y firmeza. Para los demás investigados o acusados no se presume una condena por haber intervenido en la investigación. Tampoco se anticipa que las dilaciones vayan a producir una determinada atenuante o pena.
+
+Se retira la cifra de 311 millones como coste acreditado del caso. Las estimaciones difundidas en fases iniciales, las plusvalías privadas, el aprovechamiento urbanístico discutido, las compensaciones pactadas y las fianzas son conceptos diferentes. Las sentencias verificadas aquí son absolutorias en Nueva Condomina y no fijan un daño global de Umbra. Faltan originales y resultados posteriores de otras ramas, así como una relación judicial actualizada de sus acusados y archivos. La fecha exacta de incoación no se fija: la operación policial de 2010 es posterior a los antecedentes de las diligencias de 2008.
+
+La [información nominal sobre Teatro Circo de octubre de 2018](https://alicanteplaza.es/ElilicitanoRamnSalvadorprocesadoporregalarrelojesdelujoalexedildeUrbanismodeMurcia) identifica a los seis afectados por la continuación del procedimiento. Se recogen los nombres publicados, sin completar por inferencia los apellidos de quienes no aparecen íntegramente identificados. La relación nominal actual de Casino y de las demás piezas no se ha verificado exhaustivamente.
