@@ -1,194 +1,225 @@
 ---
-nombre: "Caso Púnica/Valdemoro"
+nombre: Caso Púnica/Valdemoro
 partido: PP
-completado: true
+completado: false
 año: 2014
-fechaInicio: 1999-01-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El Caso Púnica/Valdemoro es una de las piezas más lucrativas de la macrotrama de corrupción Púnica, centrada en el saqueo urbanístico del municipio madrileño de Valdemoro entre 1999 y 2014. La trama articulada por Francisco Granados, alcalde de Valdemoro desde 1999 hasta 2003, consistió en un sistema de recalificación masiva de terrenos rústicos a suelo urbano edificable a cambio de comisiones ilegales que alcanzaron entre el 10% y el 20% del valor de las operaciones. Según las investigaciones de la UCO, Granados convocó a los principales constructores del municipio, entre ellos David Marjaliza y Ramiro Cid Sicluna, a una reunión donde les comunicó que solo se recalificarían aquellos terrenos que ellos previamente compraran, estableciendo así un sistema de "peaje urbanístico" que permitió generar plusvalías estimadas en 709 millones de euros mediante la recalificación de 1,12 millones de metros cuadrados de suelo.
-
-  El modus operandi era sencillo pero devastador para el erario público: los empresarios compraban terrenos rústicos a precios bajos tras recibir información privilegiada de Granados sobre las futuras modificaciones del planeamiento urbanístico, el ayuntamiento procedía a recalificar esos terrenos como suelo urbanizable, y posteriormente se vendían o desarrollaban con márgenes de beneficio del 20% que se compartían con los políticos corruptos. El testimonio de Marjaliza reveló que "la única forma de que se recalificara un terreno era que lo compráramos nosotros. Decíamos a los propietarios que si nos vendían, el lápiz iría por ahí, y si no, no iría". La trama controló desarrollos urbanísticos como el barrio de Las Zanjas Norte, con 693 viviendas, donde Marjaliza era propietario del 60% del suelo y triplicó sus beneficios gracias a cambios urbanísticos favorables. Su sucesor en la alcaldía, José Miguel Moreno (2003-2011), continuó el entramado adjudicando ilegalmente contratos de festejos municipales por unos 9 millones de euros a empresas de la trama, por los que cobró comisiones superiores a 200.000 euros.
-
-  Paralelamente a la corrupción urbanística, cuando José Carlos Boza asumió la alcaldía de Valdemoro en 2011, la trama evolucionó hacia la adjudicación irregular de contratos públicos de servicios municipales. El 5 de diciembre de 2013, el ayuntamiento adjudicó a la multinacional Cofely un contrato de eficiencia energética valorado en 60,8 millones de euros con una duración de 15 años. Según la investigación judicial, Boza habría cobrado comisiones de casi 300.000 euros por amañar la licitación. Además, el ayuntamiento destinó el 2% del contrato (81.119 euros) a un estudio de consultoría encargado a Ruta Energética, una empresa de la red de Marjaliza, pese a que los informes fueron realizados por la propia Cofely que subcontrató a otra constructora del entramado. Marjaliza pagaba gastos municipales como las campanas de la iglesia, la cabalgata de reyes e incluso la nevera de la comisaría de Valdemoro, consolidando así el control total de la trama sobre las finanzas municipales.
-
-  Más de diez años después del estallido de la Operación Púnica en octubre de 2014, el caso alcanzó un hito judicial importante. El juicio de la pieza 6 que investigaba los contratos de Cofely en múltiples municipios por un valor total de 224 millones de euros se celebró entre abril y septiembre de 2025 en la Audiencia Nacional. El 22 de diciembre de 2025, la Audiencia Nacional dictó sentencia condenando a 29 de las 37 personas juzgadas, incluyendo seis exalcaldes de la Comunidad de Madrid. José Carlos Boza fue absuelto por falta de pruebas, mientras que David Marjaliza recibió la pena más alta: 8 años y 2 meses de prisión como cabecilla de la trama. El segundo juicio de Granados, por contratos irregulares de festejos municipales adjudicados a Waiter Music entre 2003 y 2013, arrancó en enero de 2026 con Granados, Moreno y Boza entre los catorce acusados. El 2 de julio de 2026 la Audiencia Nacional condenó a Boza a cuatro años de cárcel y a Moreno a dos por esos contratos, al tiempo que absolvía a los exalcaldes de Móstoles Esteban Parro y Daniel Ortiz.
-
-resumen: "Pieza de la trama Púnica que saqueó Valdemoro mediante recalificaciones urbanísticas irregulares que generaron 709 millones en plusvalías y contratos amañados de Cofely por 60 millones"
-coste: 769800000
-lugar: "Valdemoro, Comunidad de Madrid"
+fechaFin: ''
+estado: desconocido
+descripcion: Valdemoro aparece en varias ramas de Púnica con resultados distintos. En Cofely, la sentencia de 19
+  de diciembre de 2025 absolvió al exalcalde José Carlos Boza y a otros responsables locales, mientras condenó a
+  directivos, intermediarios y otros acusados. La pena inicial de David Marjaliza fue rectificada en 2026, sin que
+  se haya obtenido aquí el auto para establecer su alcance exacto. En Waiter Music, la sentencia de 1 de julio de
+  2026 condenó a Boza a cuatro años, a José Miguel Moreno a dos y a Francisco Granados a dos años y seis meses de
+  prisión. Ambos fallos eran recurribles; no se ha verificado la firmeza individual posterior hasta el 15 de octubre
+  de 2026. La exclusión de Boza del cohecho relacionado con parquímetros no supuso el archivo de toda la pieza 5.
+  El archivo de la pieza 10 sobre reputación online tampoco se extiende a las demás ramas. El desenlace de todas
+  las investigaciones urbanísticas y de contratación no ha podido verificarse; no existe aquí una cifra global de
+  daño acreditado.
+resumen: 'Varias ramas de Púnica vinculadas a Valdemoro: absolución de Boza en Cofely, condenas en Waiter Music
+  y decisiones parciales en otras piezas; firmeza y desenlaces restantes no verificados.'
+lugar: Valdemoro, Comunidad de Madrid
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 6 - Juez Eloy Velasco (2014-2017)"
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 6 - Juez Manuel García Castellón (2017-actualidad)"
-  - "Audiencia Nacional - Sala de lo Penal"
-numeroSentencia: ""
+  - Juzgado Central de Instrucción nº 6 de la Audiencia Nacional (origen de las diligencias)
+  - Audiencia Nacional, Sala de lo Penal
+numeroSentencia: 34/2025 (Cofely); 15/2026 (Waiter Music)
 implicados:
-  - nombre: "Francisco Granados Lerena"
-    cargo: "Alcalde de Valdemoro (1999-2003), Consejero de la Comunidad de Madrid"
-    rol: "Cabecilla de la trama; organizó el peaje urbanístico cobrando 10-20% por recalificaciones"
-
-  - nombre: "José Miguel Moreno"
-    cargo: "Alcalde de Valdemoro (2003-2011)"
-    rol: "Confesó y fue condenado a 2 años por los contratos irregulares de festejos (2026)"
-
-  - nombre: "José Carlos Boza Lechuga"
-    cargo: "Alcalde de Valdemoro (2011-2014)"
-    rol: "Absuelto en la pieza Cofely (2025) y condenado a 4 años en la de Waiter Music (2026)"
-
-  - nombre: "David Marjaliza López"
-    cargo: "Empresario constructor"
-    rol: "Condenado por organización criminal y blanqueo; pena rebajada a 5 años en 2026"
-
-  - nombre: "Ramiro Cid Sicluna"
-    cargo: "Empresario constructor"
-    rol: "Socio de Marjaliza; beneficiario de recalificaciones urbanísticas irregulares"
-
-  - nombre: "Alberto Estrada"
-    cargo: "Exalcalde de Moraleja de Enmedio (PP)"
-    rol: "Condenado a 4 años y 6 meses de prisión por cohecho y fraude en pieza 6"
-
-  - nombre: "Agustín Juárez"
-    cargo: "Exalcalde de Collado Villalba (PP)"
-    rol: "Condenado a 4 años y 6 meses de prisión por cohecho y fraude en pieza 6"
-
-  - nombre: "Daniel Ortiz"
-    cargo: "Exalcalde de Móstoles (PP)"
-    rol: "Condenado a 3 años de prisión por cohecho y prevaricación en pieza 6"
-
-  - nombre: "Antonio Sánchez"
-    cargo: "Exalcalde de Serranillos del Valle (PP)"
-    rol: "Condenado a 3 años de prisión por cohecho y prevaricación en pieza 6"
-
-  - nombre: "José María Fraile"
-    cargo: "Exalcalde de Parla (PSOE)"
-    rol: "Condenado a 2 años de prisión por cohecho en pieza 6"
-
-  - nombre: "Gonzalo Cubas"
-    cargo: "Exalcalde de Torrejón de Velasco (PP)"
-    rol: "Condenado a 3 años de inhabilitación especial por prevaricación en pieza 6"
-
-  - nombre: "María Ángeles Herrera"
-    cargo: "Exalcaldesa de Ciempozuelos (PP)"
-    rol: "Acusada en juicio enero 2026 por contratos irregulares de festejos con Waiter Music"
-
+  - nombre: Francisco Granados Lerena
+    cargo: Exalcalde de Valdemoro y exconsejero de la Comunidad de Madrid (PP)
+    rol: Condenado en Waiter Music a dos años y seis meses de prisión por fraude continuado, con inhabilitación
+      por prevaricación. Las acusaciones urbanísticas no se consideran probadas por esta sentencia. Firmeza posterior
+      no verificada.
+  - nombre: José Miguel Moreno Torres
+    cargo: Exalcalde de Valdemoro (PP)
+    rol: Condenado a dos años de prisión en Waiter Music. No se extiende este resultado a todos los contratos o
+      investigaciones de su mandato. Firmeza posterior no verificada.
+  - nombre: José Carlos Boza Lechuga
+    cargo: Exalcalde de Valdemoro (PP)
+    rol: Absuelto en Cofely; condenado a cuatro años de prisión en Waiter Music. Excluido de la atribución de cohecho
+      por los parquímetros según la información de 2023, y afectado por el archivo de la pieza 10 de reputación
+      online, sin archivo global de Púnica. Firmeza posterior no verificada.
+  - nombre: David Marjaliza Villaseñor
+    cargo: Empresario e intermediario
+    rol: Condenado en Cofely; la pena inicial de ocho años y dos meses fue rectificada en 2026 según la prensa.
+      No se ha obtenido el auto de corrección para establecer la pena exacta actual ni verificado firmeza. Su relato
+      sobre negocios urbanísticos no equivale a una sentencia por todos ellos.
+  - nombre: Ramiro Cid Sicluna
+    cargo: Empresario constructor vinculado a operaciones en Valdemoro
+    rol: Señalado en la información de 2016 que recoge el relato de Marjaliza sobre compra y recalificación de suelo.
+      No se ha verificado aquí un desenlace judicial individual de esa investigación.
+  - nombre: Carlos Alberto Estrada Pita
+    cargo: Exalcalde de Moraleja de Enmedio (PP)
+    rol: Condenado a cuatro años y seis meses en Cofely por prevaricación en concurso con cohecho, absuelto del
+      fraude en esa pieza; condenado a dos años en Waiter Music. Son hechos de su municipio, dentro de piezas compartidas
+      con Valdemoro. Firmeza posterior no verificada.
+  - nombre: Agustín Juárez López de Coca
+    cargo: Exalcalde de Collado Villalba (PP)
+    rol: Condenado en Cofely a cuatro años y seis meses por fraude, prevaricación y cohecho, por hechos de Collado
+      Villalba. Firmeza posterior no verificada.
+  - nombre: Daniel Ortiz Espejo
+    cargo: Exalcalde de Móstoles (PP)
+    rol: Condenado en Cofely a tres años de prisión por cohecho y multa por revelación de información reservada;
+      absuelto en Waiter Music. No se confunden ambas piezas. Firmeza posterior no verificada.
+  - nombre: Antonio Sánchez Fernández
+    cargo: Exalcalde de Serranillos del Valle (Unión Democrática Madrileña)
+    rol: 'Condenado en Cofely por hechos de Serranillos: seis meses de prisión por fraude, un año y once meses por
+      cohecho y cinco meses por tráfico de influencias, además de inhabilitación por prevaricación. Firmeza posterior
+      no verificada.'
+  - nombre: José María Fraile Campos
+    cargo: Exalcalde de Parla (PSOE)
+    rol: Condenado en Cofely por hechos de Parla a dos años de prisión por fraude, prevaricación y cohecho en concurso,
+      más cuatro meses y quince días por tráfico de influencias. Firmeza posterior no verificada.
+  - nombre: Gonzalo Cubas Navarro
+    cargo: Exalcalde de Torrejón de Velasco (PP)
+    rol: Condenado en Cofely a tres años de inhabilitación especial por prevaricación y absuelto de fraude y revelación
+      de información reservada. Firmeza posterior no verificada.
+  - nombre: María Ángeles Herrera
+    cargo: Exalcaldesa de Ciempozuelos (PP)
+    rol: Condenada a dos años de prisión en Waiter Music, por hechos de Ciempozuelos. Firmeza posterior no verificada.
+  - nombre: José Javier Hernández Nieto
+    cargo: Exconcejal de Hacienda y teniente de alcalde de Valdemoro
+    rol: Absuelto de todos los delitos por los que fue acusado en Cofely. No se atribuye a esta absolución alcance
+      sobre otras piezas. Firmeza posterior no verificada.
+  - nombre: Juan Luis Aguilera García
+    cargo: Responsable del servicio de contratación de Valdemoro
+    rol: Absuelto de todos los delitos por los que fue acusado en Cofely. Firmeza posterior no verificada.
+  - nombre: José Luis Navarro Soto
+    cargo: Arquitecto municipal de Valdemoro
+    rol: Condenado en Cofely a un año y seis meses de prisión por fraude y a penas de inhabilitación por prevaricación
+      y fraude; absuelto de cohecho, malversación y revelación de información reservada. Firmeza posterior no verificada.
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "prevaricación"
-  - "tráfico de influencias"
-  - "malversación"
-  - "urbanismo"
-  - "organización criminal"
-  - "blanqueo de capitales"
-  - "fraude en contratación"
-
-impactoSocial: "El saqueo urbanístico de Valdemoro ejemplifica el modelo de corrupción municipal del PP basado en el control absoluto del planeamiento urbano para beneficio privado. La recalificación de 1,12 millones de metros cuadrados generó plusvalías de 709 millones de euros que enriquecieron a constructores y políticos mientras hipotecaban el desarrollo sostenible del municipio durante décadas."
-
-documentos: []
-
+  - urbanismo
+  - cohecho
+  - prevaricación
+  - fraude en contratación
+  - organización criminal
+  - blanqueo de capitales
+impactoSocial: El caso afecta al control de la contratación municipal, las relaciones entre empresarios y responsables
+  públicos y el uso de servicios pagados por administraciones. Las condenas de unas ramas conviven con absoluciones
+  y archivos en otras, por lo que la responsabilidad debe atribuirse por hechos y personas concretos.
+documentos:
+  - fecha: '2025-12-19'
+    titulo: 'Sentencia 34/2025: pieza Cofely (SAN 5625/2025)'
+    filetype: pdf
+    paginas: 312
+    nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=56f33d2896e5f7f4a0a8778d75e36f0d&encode=true&databasematch=AN
+  - fecha: '2026-07-01'
+    titulo: 'Sentencia 15/2026: pieza Waiter Music (SAN 2881/2026)'
+    filetype: pdf
+    paginas: 126
+    nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=972b9488259a4566a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: 1999-01-01
-    titulo: "Inicio del saqueo urbanístico de Valdemoro"
-    descripcion: "Entre 1999 y 2011, Francisco Granados y los empresarios David Marjaliza y Ramiro Cid Sicluna ejecutan un plan sistemático de recalificación de terrenos rústicos a suelo urbano edificable. Los empresarios compraban terrenos a precios de suelo rústico tras recibir información privilegiada sobre futuras modificaciones del planeamiento, el ayuntamiento procedía a recalificarlos, y posteriormente se vendían con márgenes de beneficio del 20% que se compartían con los políticos. En total se recalificaron 1,12 millones de metros cuadrados con una plusvalía estimada de 709 millones de euros."
-    type: "investigación"
+  - fecha: '2013-12-05'
+    titulo: Adjudicación del contrato energético de Valdemoro a Cofely
+    descripcion: 'La sentencia posterior sitúa en esta fecha la adjudicación por la Junta de Gobierno Local; el
+      contrato se firmó el 27 de diciembre. La participación en la votación no determinó por sí sola responsabilidad
+      penal: Boza y otros responsables locales fueron absueltos. No se considera todo el valor contractual un perjuicio.'
+    type: investigación
+    relevancia: alta
     urls:
-      - "https://www.eldiario.es/politica/audiencia-nacional-condena-seis-exalcaldes-comunidad-madrid-trama-punica_1_12865351.html"
-
-  - fecha: 1999-06-01
-    titulo: "Francisco Granados asume la alcaldía de Valdemoro"
-    descripcion: "Francisco Granados toma posesión como alcalde de Valdemoro tras las elecciones municipales de 1999. Según el testimonio posterior de David Marjaliza, Granados convocó inmediatamente a los principales constructores del municipio a una reunión donde les comunicó que solo se recalificarían terrenos que ellos previamente compraran, estableciendo así el sistema de 'peaje urbanístico' que funcionaría durante más de una década."
-    type: "investigación"
+      - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=56f33d2896e5f7f4a0a8778d75e36f0d&encode=true&databasematch=AN
+  - fecha: '2014-10-27'
+    titulo: Detenciones y registros de la Operación Púnica en Valdemoro
+    descripcion: La información publicada al día siguiente recoge las detenciones de Granados, Boza, su jefe de
+      gabinete, un concejal y el arquitecto municipal, y registros en el Ayuntamiento. Las detenciones fueron actuaciones
+      de investigación y no condenas. No se fija un total de daño a partir del volumen de contratos de toda la operación.
+    type: detención
+    relevancia: alta
     urls:
-      - "https://www.libertaddigital.com/espana/2016-05-17/granados-se-llevaba-entre-el-10-y-el-20-de-las-adjudicaciones-de-suelo-1276574198/"
-
-  - fecha: 2011-06-01
-    titulo: "José Carlos Boza se convierte en alcalde de Valdemoro"
-    descripcion: "Tras las elecciones municipales de 2011, José Carlos Boza asume la alcaldía de Valdemoro. Durante su mandato, la trama de corrupción evoluciona desde la recalificación urbanística hacia la adjudicación irregular de grandes contratos de servicios municipales, especialmente en eficiencia energética."
-    type: "investigación"
-    urls: []
-
-  - fecha: 2013-12-05
-    titulo: "Adjudicación irregular del contrato de Cofely por 60,8 millones"
-    descripcion: "El Ayuntamiento de Valdemoro adjudica a la multinacional Cofely un contrato de eficiencia energética por 60.839.705 euros con una duración de 15 años. Según la investigación judicial, José Carlos Boza habría cobrado comisiones de casi 300.000 euros por amañar la licitación. Además, el 2% del contrato anual (81.119 euros) fue destinado a un estudio de consultoría a Ruta Energética, empresa de la red de Marjaliza, pese a que los informes fueron realizados por la propia Cofely."
-    type: "investigación"
+      - https://www.eldiario.es/politica/lista-empresarios-detenidos-operacion-punica_1_4556780.html
+  - fecha: '2016-05-17'
+    titulo: Se conoce el relato de Marjaliza sobre negocios urbanísticos
+    descripcion: Libertad Digital publica extractos del relato de Marjaliza ante el instructor sobre sociedades,
+      compras de suelo y posibles beneficios para Granados, con referencia a Ramiro Cid Sicluna. Es una declaración
+      de un investigado conocida a través de la prensa, no un fallo que pruebe todas las acusaciones urbanísticas
+      ni una cuantificación de daño público.
+    type: investigación
+    relevancia: media
     urls:
-      - "https://zigzagdigital.com/art/28085/ya-hay-fecha-para-el-juicio-del-caso-punica-que-investiga-el-contrato-millonario-de-cofely-en-valdemoro"
-
-  - fecha: 2014-10-27
-    titulo: "Operación Púnica: detención de José Carlos Boza"
-    descripcion: "La Guardia Civil ejecuta la Operación Púnica con la detención de 51 políticos, concejales, funcionarios y empresarios en toda España. José Carlos Boza, alcalde de Valdemoro en ese momento, es detenido junto a Francisco Granados, David Marjaliza y otros alcaldes de municipios madrileños acusados de formar parte de la trama de corrupción que adjudicó contratos públicos por 250 millones de euros a cambio de comisiones ilegales."
-    type: "detención"
+      - https://www.libertaddigital.com/espana/2016-05-17/granados-se-llevaba-entre-el-10-y-el-20-de-las-adjudicaciones-de-suelo-1276574198/
+  - fecha: '2023-04-12'
+    titulo: Se conoce el pase a procedimiento abreviado de la pieza 5
+    descripcion: El CGPJ informa de que el instructor propone juzgar a 21 personas por distintos contratos en Valdemoro,
+      Torrejón de Velasco y Serranillos del Valle. También comunica archivos completos para dos personas y parciales
+      para otras siete en determinados expedientes. El pase a abreviado no equivale a condena ni se identifica aquí
+      con un archivo de toda la pieza. Fecha de publicación de la nota; no se ha obtenido el auto original.
+    type: imputación
+    relevancia: alta
     urls:
-      - "https://zigzagdigital.com/art/8727/carlos-boza-entre-los-detenidos-en-la-operacion-punica"
-
-  - fecha: 2014-10-31
-    titulo: "José Carlos Boza ingresa en prisión provisional"
-    descripcion: "El juez Eloy Velasco de la Audiencia Nacional decreta prisión provisional incondicional para José Carlos Boza junto a otros dos detenidos en la Operación Púnica. Boza posteriormente saldrá de prisión tras depositar una fianza de 25.000 euros impuesta por el juez, aunque se ve obligado a dimitir como alcalde de Valdemoro."
-    type: "medidas cautelares"
+      - https://www.poderjudicial.es/portal/site/cgpj/menuitem.65d2c4456b6ddb628e635fc1dc432ea0/?lang_choosen=es&perfil=2&vgnextchannel=4c71939ae5821310VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=es&vgnextoid=a72c709981677810VgnVCM1000004648ac0aRCRD
+  - fecha: '2023-10-12'
+    titulo: Se conoce la exclusión de Boza del cohecho por los parquímetros
+    descripcion: Vozpópuli informa de que la Sala rechaza atribuir a Boza cobro de dádivas por el contrato de estacionamiento
+      regulado al no hallar indicios suficientes. El auto resolvía también otros extremos de la pieza 5 y estimaba
+      parcialmente el recurso fiscal. Esta decisión concreta no acredita que se archivaran todos los contratos ni
+      todas las personas de esa pieza. Se usa la fecha de noticia, no una fecha deducida del auto.
+    type: recurso
+    relevancia: alta
     urls:
-      - "https://www.bolsamania.com/noticias/pulsos/prision-incondicional-para-el-alcalde-de-valdemoro-jose-carlos-boza-implicado-en-la-operacion-punica--615983.html"
-
-  - fecha: 2016-05-17
-    titulo: "Revelación del sistema de comisiones del 10-20% de Granados"
-    descripcion: "Las investigaciones de la Fiscalía Anticorrupción revelan que Francisco Granados se llevaba entre el 10% y el 20% de las adjudicaciones de suelo en Valdemoro. Los informes judiciales documentan cómo Granados organizó un sistema de peaje urbanístico donde los empresarios debían comprar terrenos para que estos fueran posteriormente recalificados, generando plusvalías millonarias que se compartían con la red política corrupta."
-    type: "investigación"
+      - https://www.vozpopuli.com/espana/punica-audiencia-fiscalia-niega-pagos-b-exalcalde-valdemoro.html
+  - fecha: '2024-06-07'
+    titulo: Se conoce la confirmación del archivo de la pieza 10
+    descripcion: EFE, difundida por Cadena SER, informa de la desestimación de recursos y confirmación del archivo
+      sobre reputación online para los 40 investigados, incluido Boza. Es una decisión sobre la pieza 10, no una
+      absolución en juicio ni el archivo de Cofely o Waiter Music. No se ha obtenido aquí el auto original ni verificado
+      su firmeza posterior; fecha de publicación.
+    type: recurso
+    relevancia: alta
     urls:
-      - "https://www.libertaddigital.com/espana/2016-05-17/granados-se-llevaba-entre-el-10-y-el-20-de-las-adjudicaciones-de-suelo-1276574198/"
-
-  - fecha: 2023-10-16
-    titulo: "Archivada la pieza 5 del contrato de parquímetros de Valdemoro"
-    descripcion: "La Audiencia Nacional confirma el archivo de la pieza 5 de la Operación Púnica que investigaba el contrato de zona de estacionamiento regulado (parquímetros) en Valdemoro. El tribunal determina que no existen pruebas suficientes para atribuir a José Carlos Boza el delito de cohecho por presuntos pagos bajo mano en la adjudicación del contrato."
-    type: "investigación"
+      - https://cadenaser.com/cmadrid/2024/06/07/la-audiencia-nacional-ratifica-el-archivo-del-caso-punica-para-el-exalcalde-de-valdemoro-jose-carlos-boza-ser-madrid-sur/
+  - fecha: '2025-12-19'
+    titulo: 'Sentencia de Cofely: absoluciones de Boza y otros responsables locales'
+    descripcion: La sentencia 34/2025 de la Sección Primera absuelve a José Carlos Boza, José Javier Hernández Nieto
+      y Juan Luis Aguilera García, entre otros. Condena a David Marjaliza y otros acusados, incluido el arquitecto
+      José Luis Navarro Soto. El fallo avisa de que no es firme y admite casación. La nota oficial se publicó el
+      22 de diciembre; no se traslada esa publicación a la fecha del acto.
+    type: sentencia
+    relevancia: alta
     urls:
-      - "https://zigzagdigital.com/art/27187/la-punica-en-valdemoro-no-hay-pruebas-de-que-el-exalcalde-jose-carlos-boza-recibiese-pagos-por-el-contrato-de-los-parquimetros"
-
-  - fecha: 2024-06-01
-    titulo: "Archivada la pieza 10 de trabajos de reputación online"
-    descripcion: "La Audiencia Nacional confirma el archivo de la pieza 10 que investigaba contratos para trabajos de mejora de reputación digital de cargos del PP, desestimando los recursos de la Fiscalía Anticorrupción, PSOE y ADADE. Esta decisión exonera a José Carlos Boza de una de las líneas de investigación abiertas contra él en el marco del Caso Púnica."
-    type: "investigación"
+      - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=56f33d2896e5f7f4a0a8778d75e36f0d&encode=true&databasematch=AN
+      - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-condena-a-penas-de-hasta-8-anos-carcel-por-la-adjudicacion-de-contratos-de-eficiencia-energetica-en-ayuntamientos-de-la-Comunidad-de-Madrid
+  - fecha: '2026-03-02'
+    titulo: Se conoce una rectificación de la pena de Marjaliza en Cofely
+    descripcion: EFE/Cadena SER informa de una corrección de error material que rebaja la pena inicial de ocho años
+      y dos meses a cinco años. No se ha obtenido el auto, por lo que la cifra exacta resultante y su alcance quedan
+      pendientes de verificación, sin presentar la sentencia inicial como pena vigente ni dar por acreditada firmeza.
+      Fecha de publicación, no fecha comprobada del auto.
+    type: recurso
+    relevancia: alta
     urls:
-      - "https://zigzagdigital.com/art/28162/confirman-el-archivo-de-una-pieza-de-la-punica-en-la-que-estaba-imputado-jose-carlos-boza-exalcalde-de-valdemoro"
-
-  - fecha: 2025-04-07
-    titulo: "Inicio del juicio de la pieza 6 por los contratos de Cofely"
-    descripcion: "Comienza en la Audiencia Nacional el macrojuicio de la pieza 6 del Caso Púnica que investiga la adjudicación irregular de contratos de eficiencia energética a Cofely por valor de 224 millones de euros en diversos municipios madrileños. José Carlos Boza, acusado por el contrato de Valdemoro de 60,8 millones, es uno de los cinco exalcaldes del PP que no reconocen haber cometido los delitos, a diferencia de trece acusados que confesaron los hechos a cambio de rebajas de pena."
-    type: "juicio"
+      - https://cadenaser.com/cmadrid/2026/03/02/rebajan-de-8-a-5-anos-de-carcel-la-pena-al-conseguidor-de-la-punica-marjaliza-por-los-contratos-con-cofely-ser-madrid-sur/
+  - fecha: '2026-05-19'
+    titulo: Se conocen las declaraciones defensivas de Moreno y Boza en Waiter Music
+    descripcion: RTVE informa de que ambos exalcaldes negaron en el juicio amaños, enriquecimiento y órdenes de
+      Granados; también declaró la exalcaldesa de Ciempozuelos. Se distingue la versión de los acusados del fallo
+      posterior. La noticia se publicó el 19 y describe la sesión del lunes anterior; no se utiliza la publicación
+      como fecha exacta de declaración.
+    type: juicio
+    relevancia: media
     urls:
-      - "https://zigzagdigital.com/art/28085/ya-hay-fecha-para-el-juicio-del-caso-punica-que-investiga-el-contrato-millonario-de-cofely-en-valdemoro"
-      - "https://alcabodelacalle.es/comunidad/arranca-en-la-audiencia-nacional-el-juicio-del-caso-punica-once-anos-despues/"
-
-  - fecha: 2025-09-26
-    titulo: "El juicio de la pieza 6 (Cofely) queda visto para sentencia"
-    descripcion: "La Audiencia Nacional declara visto para sentencia el juicio de la pieza 6 del Caso Púnica sobre los contratos irregulares adjudicados a Cofely tras cinco meses de vista oral. Los magistrados deben ahora deliberar y dictar sentencia sobre las responsabilidades de los 37 acusados, incluido José Carlos Boza."
-    type: "juicio"
+      - https://www.rtve.es/noticias/20260519/exalcaldes-del-pp-valdemoro-niegan-amanaran-contratos-trama-punica-por-orden-francisco-granados/17076063.shtml
+  - fecha: '2026-07-01'
+    titulo: 'Sentencia de Waiter Music: condenas de Granados, Boza y Moreno'
+    descripcion: La sentencia 15/2026 condena a Granados a dos años y seis meses de prisión; la nota oficial identifica
+      las condenas de Boza a cuatro años y de Moreno a dos, así como las absoluciones de Esteban Parro y Daniel
+      Ortiz en esta pieza. El fallo declara que no es firme y admite casación; no establece responsabilidad civil
+      al no quedar probado el sobrecoste municipal. La comunicación oficial es del 2 de julio.
+    type: sentencia
+    relevancia: alta
     urls:
-      - "https://www.teleprensa.com/articulo/nacional-3/an-deja-visto-sentencia-juicio-irregularidades-contratos-punica-224-millones-cofely/202509261337382227103.html"
-
-  - fecha: 2025-12-22
-    titulo: "Sentencia pieza 6: José Carlos Boza absuelto, 29 condenados"
-    descripcion: "La Audiencia Nacional condena a 29 de las 37 personas físicas y jurídicas juzgadas en la pieza 6 del caso Púnica por adjudicaciones millonarias de contratos de eficiencia energética a la empresa Cofely a cambio de comisiones y dádivas entre 2012 y 2014. José Carlos Boza, exalcalde de Valdemoro, es absuelto por falta de pruebas. David Marjaliza recibe la condena más alta: 8 años y 2 meses de prisión por organización criminal, blanqueo de capitales, fraude a la Administración, prevaricación, cohecho y falsedad documental. Se condena a seis exalcaldes de la Comunidad de Madrid: Alberto Estrada (Moraleja de Enmedio) y Agustín Juárez (Collado Villalba) a 4 años y 6 meses; Daniel Ortiz (Móstoles) y Antonio Sánchez (Serranillos) a 3 años; José María Fraile (Parla, PSOE) a 2 años; y Gonzalo Cubas (Torrejón de Velasco) a 3 años de inhabilitación especial."
-    type: "sentencia"
-    urls:
-      - "https://www.infolibre.es/politica/audiencia-nacional-condena-seis-exalcaldes-comunidad-madrid-caso-punica_1_2118568.html"
-      - "https://www.eldiario.es/politica/audiencia-nacional-condena-seis-exalcaldes-comunidad-madrid-trama-punica_1_12865351.html"
-      - "https://www.infobae.com/espana/2025/12/22/la-audiencia-nacional-dicta-sentencia-contra-29-personas-en-el-mayor-pelotazo-de-la-trama-punica-condena-a-cinco-exalcaldes-del-pp-uno-del-psoe-y-otro-de-un-partido-local/"
-
-  - fecha: 2026-01-19
-    titulo: "Arrancan los juicios por contratos de festejos: Granados, Moreno y Boza en el banquillo"
-    descripcion: "La Audiencia Nacional inicia el juicio contra Francisco Granados y otras trece personas, entre ellas los exalcaldes de Valdemoro José Miguel Moreno y José Carlos Boza, por presuntos amaños en contratos adjudicados a Waiter Music para la organización de festejos populares en municipios madrileños del PP entre 2003 y 2013. La Fiscalía pide para Granados seis años de cárcel y 46 años de inhabilitación. José Miguel Moreno confiesa su participación en los hechos y alcanza un acuerdo con la Fiscalía para ver reducida su pena, reconociendo haber cobrado más de 200.000 euros en comisiones."
-    type: "juicio"
-    urls:
-      - "https://zigzagdigital.com/art/30771/continuan-los-juicios-por-la-trama-punica-turno-para-tres-exalcaldes-de-valdemoro-y-una-de-ciempozuelos"
-      - "https://www.infobae.com/espana/agencias/2026/01/19/arranca-un-nuevo-juicio-de-punica-con-granados-en-el-banquillo-por-presunta-corrupcion/"
-      - "https://www.publico.es/politica/tribunales/segundo-juicio-granados-rama-punica-amanaba-contratos-fiestas-municipios-madrilenos-pp.html"
-
-  - fecha: 2026-07-02
-    titulo: "Condena por los contratos de festejos: Boza 4 años y Moreno 2"
-    descripcion: "La Audiencia Nacional condena en la pieza Waiter Music al exalcalde de Valdemoro José Carlos Boza a 4 años de cárcel y a su antecesor José Miguel Moreno a 2 años por los contratos irregulares de festejos. Francisco Granados es condenado a 2 años y 6 meses y absueltos los exalcaldes de Móstoles Esteban Parro y Daniel Ortiz. Para Valdemoro, la trama urbanística investigada en la pieza principal sigue pendiente de enjuiciamiento."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.lavanguardia.com/politica/20260702/11582221/audiencia-nacional-condena-francisco-granados-dos-anos-medio-carcel.html"
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Noticias-Judiciales"
+      - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=972b9488259a4566a0a8778d75e36f0d&encode=true&databasematch=AN
+      - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-condena-a-dos-anos-y-seis-meses-de-carcel-al-exconsejero-de-la-Presidencia-de-la-Comunidad-de-Madrid-Francisco-Granados-por-delitos-de-fraude-continuado-y-prevaricacion
 ---
+
+Valdemoro reúne investigaciones y resultados de distintas piezas de Púnica. El [relato sobre suelo publicado en mayo de 2016](https://www.libertaddigital.com/espana/2016-05-17/granados-se-llevaba-entre-el-10-y-el-20-de-las-adjudicaciones-de-suelo-1276574198/) atribuye a Marjaliza afirmaciones sobre compras, recalificaciones y repartos de beneficios. Su declaración no acredita por sí sola todas esas operaciones ni permite presentar las plusvalías como dinero perdido por el Ayuntamiento. No se ha verificado una sentencia que resuelva de forma completa ese núcleo urbanístico.
+
+La **pieza 5** examina contratos municipales, entre ellos estacionamiento regulado, grúa, concesiones de cafeterías, instalaciones deportivas y recogida de ropa. La [comunicación del CGPJ de abril de 2023](https://www.poderjudicial.es/portal/site/cgpj/menuitem.65d2c4456b6ddb628e635fc1dc432ea0/?lang_choosen=es&perfil=2&vgnextchannel=4c71939ae5821310VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=es&vgnextoid=a72c709981677810VgnVCM1000004648ac0aRCRD) describe un pase a procedimiento abreviado con distintos archivos personales y parciales. La [información de octubre de 2023](https://www.vozpopuli.com/espana/punica-audiencia-fiscalia-niega-pagos-b-exalcalde-valdemoro.html) sobre Boza se limita a la falta de indicios de cohecho en los parquímetros. No equivale al archivo de la pieza completa ni resuelve todos los contratos y acusados. Tampoco se ha verificado aquí un desenlace posterior integral.
+
+En **Cofely, pieza 6**, la [sentencia 34/2025 de 19 de diciembre](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=56f33d2896e5f7f4a0a8778d75e36f0d&encode=true&databasematch=AN) contiene condenas y absoluciones. Boza, Hernández Nieto y Aguilera fueron absueltos; Navarro Soto fue condenado por fraude y prevaricación, pero absuelto de otros delitos. La absolución del alcalde impide mantener como probado que recibiera las comisiones que se le habían atribuido. El nombre del empresario condenado es **David Marjaliza Villaseñor**. La pena inicial fue corregida en 2026 según [EFE/Cadena SER](https://cadenaser.com/cmadrid/2026/03/02/rebajan-de-8-a-5-anos-de-carcel-la-pena-al-conseguidor-de-la-punica-marjaliza-por-los-contratos-con-cofely-ser-madrid-sur/); sin el auto de rectificación no se establece aquí la pena exacta definitiva ni su firmeza.
+
+Los otros alcaldes mencionados en Cofely responden por hechos de sus municipios. No gobernaban Valdemoro: Estrada, Juárez, Ortiz, Sánchez, Fraile y Cubas tuvieron resultados distintos. Sánchez pertenecía a Unión Democrática Madrileña y Fraile al PSOE. Ortiz, condenado por cohecho y revelación de información reservada en Cofely, fue absuelto en Waiter Music. La [nota judicial de Cofely](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-condena-a-penas-de-hasta-8-anos-carcel-por-la-adjudicacion-de-contratos-de-eficiencia-energetica-en-ayuntamientos-de-la-Comunidad-de-Madrid) debe leerse junto con el fallo y las correcciones posteriores, sin convertir las condenas de esta rama en una condena común de todos los investigados.
+
+En **Waiter Music, pieza 7**, la [sentencia 15/2026 de 1 de julio](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=972b9488259a4566a0a8778d75e36f0d&encode=true&databasematch=AN) y la [nota oficial publicada al día siguiente](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-condena-a-dos-anos-y-seis-meses-de-carcel-al-exconsejero-de-la-Presidencia-de-la-Comunidad-de-Madrid-Francisco-Granados-por-delitos-de-fraude-continuado-y-prevaricacion) diferencian las condenas de Granados, Boza y Moreno de las absoluciones de otros acusados. El tribunal considera acreditado el favorecimiento contractual a la empresa de espectáculos, cuyo propietario fallecido no pudo ser juzgado. El fundamento sobre responsabilidad civil y el dispositivo señalan que no quedó probado que los ayuntamientos pagaran por encima de los servicios efectivamente prestados, por lo que no fijan indemnización. Esta conclusión no elimina las condenas por fraude y prevaricación.
+
+La [confirmación del archivo sobre reputación online, pieza 10, conocida el 7 de junio de 2024](https://cadenaser.com/cmadrid/2024/06/07/la-audiencia-nacional-ratifica-el-archivo-del-caso-punica-para-el-exalcalde-de-valdemoro-jose-carlos-boza-ser-madrid-sur/) incluye a Boza y se refiere a ese objeto concreto. No resuelve la pieza de festejos ni la de eficiencia energética. El nombre completo de José Miguel Moreno Torres está corroborado por una [publicación original del BOE](https://boe.es/diario_boe/txt.php?id=BOE-A-2008-11074).
+
+Las sentencias Cofely y Waiter Music advertían expresamente que eran recurribles en casación. A 15 de octubre de 2026 no se ha verificado la firmeza individual de todos sus pronunciamientos ni el desenlace de todas las ramas de Valdemoro. Se mantienen separados los hechos probados, las declaraciones defensivas, las acusaciones pendientes y los archivos parciales. No se suman contratos, plusvalías, multas, decomisos o indemnizaciones de otros municipios para construir un coste del caso.
