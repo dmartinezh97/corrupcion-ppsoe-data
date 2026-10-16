@@ -3,7 +3,7 @@ nombre: ERE/Pieza Política
 partido: PSOE
 completado: false
 año: 2000
-fechaInicio: 2000-04-18
+fechaInicio: '2000-04-18'
 estado: revisión de condenas
 descripcion: 'La pieza del procedimiento específico de los ERE examinó la responsabilidad de veintiún antiguos altos
   cargos de la Junta de Andalucía en el sistema de presupuestación, concesión y pago de ayudas sociolaborales y
@@ -12,7 +12,7 @@ descripcion: 'La pieza del procedimiento específico de los ERE examinó la resp
   procedimientos y fiscalización previa exigibles. La cifra cercana a 680 millones de euros corresponde al montante
   de créditos y ayudas examinado; no se presenta aquí como dinero apropiado personalmente por los acusados ni como
   una responsabilidad civil global fijada y vigente. El alcance penal de las decisiones presupuestarias fue revisado
-  por el Tribunal Constitucional y sigue siendo objeto de la controversia prejudicial.
+  por el Tribunal Constitucional y dio lugar a la cuestión prejudicial planteada en 2025.
 
 
   La Audiencia de Sevilla dictó la sentencia 490/2019 el 19 de noviembre de 2019: diecinueve condenados y dos absueltos,
@@ -154,7 +154,7 @@ implicados:
     le traslada automáticamente el resultado de otros condenados.'
 - nombre: Manuel Gómez Martínez
   cargo: Exinterventor General de la Junta de Andalucía
-  rol: Absuelto. Emitió múltiples informes alertando de las ilegalidades del sistema sin ser escuchado
+  rol: Absuelto de todos los cargos en la sentencia de 2019.
 - nombre: Francisco del Río Muñoz
   cargo: Exjefe del Gabinete Jurídico de la Junta
   rol: Absuelto
@@ -174,7 +174,7 @@ impactoSocial: La causa afectó a antiguos presidentes y altos cargos de la Junt
   de ayudas como enriquecimiento personal.
 documentos:
 - fecha: '2022-09-13'
-  titulo: 'STS 749/2022:pieza específica ERE: casación y segunda sentencia'
+  titulo: 'STS 749/2022: pieza específica ERE: casación y segunda sentencia'
   filetype: pdf
   paginas: 460
   nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=bafd7d40e60d0532a0a8778d75e36f0d&encode=true&databasematch=TS
@@ -290,7 +290,7 @@ cronologia:
   - https://hj.tribunalconstitucional.es/es/Resolucion/Show/30214
   - https://hj.tribunalconstitucional.es/es/Resolucion/Show/30216
 - fecha: '2024-07-16'
-  titulo: Amparos de Chaves y Griñán ydesestimación de Márquez
+  titulo: Amparos de Chaves y Griñán y desestimación de Márquez
   descripcion: 'SSTC 99/100/101: Chaves y Griñán requieren nuevos pronunciamientos delimitados; malversación de
     Griñán anulada sin retroacción. Márquez no obtiene amparo.'
   type: sentencia
