@@ -1,93 +1,83 @@
 ---
-nombre: "Caso Móviles Benigànim"
+nombre: Caso Móviles Benigànim
 partido: PP
-completado: true
-año: 2014
-fechaInicio: 2013-07-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El Caso Móviles Benigànim es una investigación judicial por presunta malversación de caudales públicos que afecta a cuatro cargos del Partido Popular del municipio valenciano de Benigànim. El caso se originó tras descubrirse que el exalcalde Juan Antonio Puchades, dos exconcejales y un exasesor municipal realizaron gastos excesivos con los móviles del ayuntamiento, alcanzando un total de 9.000 euros entre julio y septiembre de 2013.
-
-  Los gastos incluían suscripciones a servicios de descarga de tonos, música, juegos e imágenes a través de portales como Movilisto, así como llamadas a líneas eróticas comerciales como SexyTV y Dindo. El exalcalde Puchades se suscribió al portal Movilisto para descargar tonos y contenido multimedia, mientras que los exconcejales Andrés Moscardó (quien facturó más de 7.600 euros en solo tres meses) y Javier Sala conectaron sus teléfonos municipales a servicios de entretenimiento y contenido pornográfico.
-
-  La denuncia fue presentada por el PSPV (Partido Socialista del País Valenciano) en noviembre de 2014 ante la Fiscalía, después de detectar las irregularidades al revisar las facturas de telefonía móvil del periodo 2013-2014 correspondientes al contrato del ayuntamiento con Vodafone. La Fiscalía de Alzira consideró que los hechos denunciados podían constituir un presunto delito de malversación de caudales públicos y presentó querella ante los juzgados de Ontinyent.
-
-  En octubre de 2017, los cuatro implicados comparecieron ante el juez para declarar como investigados. Desde entonces, no se ha hecho pública información sobre el resultado final del procedimiento judicial. Este caso ejemplifica el uso indebido de recursos públicos para fines personales por parte de representantes políticos locales del PP en la Comunidad Valenciana.
-
-resumen: "Cuatro cargos del PP de Benigànim investigados por gastar 9.000 euros en móviles municipales en líneas eróticas y tonos"
-coste: 9000
-lugar: "Benigànim, Comunidad Valenciana"
+completado: false
+año: 2013
+estado: sobreseimiento
+resumen: Investigación sobre facturas de móviles municipales; archivo publicado en 2023 para el exalcalde y dos
+  exconcejales.
+descripcion: El caso examinó el posible uso privado de teléfonos del Ayuntamiento de Benigànim. En febrero de 2023
+  se publicó el sobreseimiento respecto de Juan Antonio Puchades, Andrés Moscardó y Javier Sala, al no acreditarse
+  delito, así como el archivo para un empleado no identificado. No se ha verificado el auto original, su fecha exacta,
+  si el sobreseimiento fue libre o provisional ni su firmeza o recursos al 15 de octubre de 2026. José Murillo figuraba
+  como investigado en 2017, pero no puede identificarse sin más con ese empleado. Los aproximadamente 9.000 euros
+  denunciados eran consumo facturado con bonificaciones, no daño judicialmente probado.
+lugar: Benigànim, Valencia, Comunitat Valenciana
 tribunal:
-  - "Juzgados de Ontinyent"
-  - "Fiscalía de Alzira"
-numeroSentencia: ""
+- Juzgados de Ontinyent
 implicados:
-  - nombre: "Juan Antonio Puchades"
-    cargo: "Exalcalde de Benigànim (PP)"
-    rol: "Investigado por malversación de caudales públicos por suscribirse a Movilisto (portal de descargas de tonos, música, juegos e imágenes) con el móvil municipal"
-
-  - nombre: "Andrés Moscardó"
-    cargo: "Exconcejal de Fiestas de Benigànim (PP)"
-    rol: "Investigado por malversación de caudales públicos por gastos de más de 7.600 euros en tres meses en servicios como SexyTV (línea erótica)"
-
-  - nombre: "Javier Sala"
-    cargo: "Exconcejal de Benigànim (PP) y último candidato a la alcaldía"
-    rol: "Investigado por malversación de caudales públicos por conectarse a servicios de entretenimiento Dindo y SexyTV (contenido pornográfico)"
-
-  - nombre: "José Murillo"
-    cargo: "Exasesor del Ayuntamiento de Benigànim"
-    rol: "Investigado por malversación de caudales públicos por uso indebido del teléfono móvil municipal"
-
+- nombre: Juan Antonio Puchades
+  cargo: Exalcalde de Benigànim (PP)
+  rol: Investigado en 2017 por posible malversación vinculada a teléfonos municipales. Sobreseimiento publicado
+    en febrero de 2023; tipo de archivo, fecha del auto y firmeza sin contrastar.
+- nombre: Andrés Moscardó
+  cargo: Exconcejal de Benigànim (PP)
+  rol: Investigado en 2017 por posible malversación vinculada a teléfonos municipales. Sobreseimiento publicado
+    en febrero de 2023; tipo de archivo, fecha del auto y firmeza sin contrastar.
+- nombre: Javier Sala
+  cargo: Exconcejal de Benigànim (PP)
+  rol: Investigado en 2017 por posible malversación vinculada a teléfonos municipales. Sobreseimiento publicado
+    en febrero de 2023; tipo de archivo, fecha del auto y firmeza sin contrastar.
+- nombre: José Murillo
+  cargo: Persona vinculada al Ayuntamiento de Benigànim, incluida por la prensa entre los cuatro investigados
+  rol: Identificado como investigado en octubre de 2017. La noticia del archivo de 2023 menciona un empleado sin
+    nombre; no se ha contrastado documentalmente el resultado individual para Murillo ni su condición exacta de
+    asesor o empleado.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "uso indebido recursos públicos"
-  - "ayuntamiento"
-
-impactoSocial: "El caso generó gran escándalo mediático por el tipo de servicios contratados (líneas eróticas) con dinero público municipal. Representó un ejemplo más de la corrupción a nivel local en la Comunidad Valenciana durante la época de gobiernos del PP, dañando la imagen del partido en la comarca de la Vall d'Albaida y evidenciando la falta de control en el gasto público municipal."
-
-documentos: null
-
+- telefonía municipal
+- presunta malversación
+- sobreseimiento
+impactoSocial: El procedimiento examinó el control de las facturas y terminales municipales y la atribución de suscripciones
+  a servicios de pago a sus usuarios. El archivo publicado impide presentar las denuncias iniciales como delitos
+  acreditados.
+documentos: []
 cronologia:
-  - fecha: 2013-07-01
-    titulo: "Inicio de los gastos irregulares en móviles municipales"
-    descripcion: "Entre julio y septiembre de 2013, el exalcalde Juan Antonio Puchades y los exconcejales Andrés Moscardó y Javier Sala, junto al exasesor José Murillo, realizan gastos excesivos con sus teléfonos móviles municipales. Los gastos incluyen suscripciones a portales de descargas de tonos, música y juegos (Movilisto), así como llamadas a líneas de contenido erótico comercial (SexyTV, Dindo). En solo tres meses, Andrés Moscardó factura más de 7.600 euros. El total de gastos alcanza los 9.000 euros en este periodo."
-    type: "investigación"
-    urls:
-      - "https://www.publico.es/politica/fiscal-investiga-gasto-mas-000.html"
-
-  - fecha: 2014-11-01
-    titulo: "El PSPV presenta denuncia ante la Fiscalía"
-    descripcion: "El Partido Socialista del País Valenciano (PSPV) de Benigànim presenta una denuncia formal ante la Fiscalía tras detectar irregularidades en las facturas de telefonía móvil del ayuntamiento correspondientes al periodo 2013-2014. La denuncia se centra en el gasto excesivo realizado con los móviles municipales asignados al entonces alcalde y varios concejales del PP, que incluían llamadas a líneas eróticas y suscripciones a servicios de entretenimiento pagados con fondos públicos."
-    type: "denuncia"
-    urls:
-      - "https://www.elplural.com/politica/tres-concejales-del-pp-en-beniganim-valencia-denunciados-por-gastarse-miles-de-euros-en-lineas-eroticas_26729102"
-
-  - fecha: 2015-02-01
-    titulo: "La Fiscalía de Alzira investiga el caso"
-    descripcion: "La Fiscalía de Alzira inicia la investigación del caso tras analizar la documentación aportada por el PSPV. Los fiscales revisan las facturas del contrato de telefonía móvil del Ayuntamiento de Benigànim con Vodafone correspondientes a los ejercicios 2013 y 2014. Tras el análisis, la Fiscalía considera que los hechos denunciados podrían ser constitutivos de un presunto delito de malversación de caudales públicos, al tratarse de gastos personales realizados con teléfonos pagados por el ayuntamiento."
-    type: "investigación"
-    urls:
-      - "https://www.publico.es/politica/fiscal-investiga-gasto-mas-000.html"
-
-  - fecha: 2015-06-01
-    titulo: "Querella formal ante los juzgados de Ontinyent"
-    descripcion: "La Fiscalía de Alzira presenta querella formal ante los juzgados de Ontinyent contra el exalcalde Juan Antonio Puchades, los exconcejales Andrés Moscardó y Javier Sala, y el exasesor José Murillo por un presunto delito de malversación de caudales públicos. La querella detalla los gastos de 9.000 euros realizados en servicios de entretenimiento y líneas eróticas (SexyTV) cargados a los teléfonos móviles municipales durante el periodo en que el PP gobernaba el municipio de Benigànim."
-    type: "denuncia"
-    urls:
-      - "https://www.eldiario.es/cv/Imputados-PP-Beniganim-gastaron-eroticas_0_675082595.html"
-
-  - fecha: 2016-08-01
-    titulo: "Imputación formal de los cuatro cargos del PP"
-    descripcion: "El juzgado instructor de Ontinyent confirma la imputación formal de los cuatro cargos del PP de Benigànim por presunta malversación de caudales públicos. Juan Antonio Puchades, Andrés Moscardó, Javier Sala y José Murillo quedan oficialmente como investigados en el procedimiento judicial. El auto judicial establece que existen indicios racionales de criminalidad para continuar con la instrucción del caso, al considerar que el uso de los móviles municipales para fines personales y de ocio podría constituir un delito de malversación."
-    type: "imputación"
-    urls: []
-
-  - fecha: 2017-10-23
-    titulo: "Declaración de los cuatro imputados ante el juez"
-    descripcion: "Los cuatro investigados comparecen ante el juez instructor en Ontinyent para prestar declaración. El exalcalde Juan Antonio Puchades, los exconcejales Andrés Moscardó y Javier Sala, y el exasesor José Murillo responden a las preguntas del magistrado sobre los gastos realizados con los teléfonos móviles municipales. En sus declaraciones, los imputados defienden que los gastos fueron error de la compañía telefónica o que desconocían el origen de los cargos en sus facturas."
-    type: "declaración"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/politica/declaran-exalcalde-concejales-pp-beniganim_1_3114405.html"
+- fecha: '2014-04-03'
+  titulo: Se denuncian públicamente las facturas
+  descripcion: La prensa recoge las críticas del PSPV por consumos de julio a septiembre de 2013 y la explicación
+    del PP sobre tarifas y bonificaciones.
+  type: denuncia
+  urls:
+  - https://www.eldiario.es/comunitat-valenciana/politonos-sexytv-eur-concejales-pp_1_4954056.html
+- fecha: '2014-11-11'
+  titulo: Se conoce la investigación de Fiscalía
+  descripcion: elDiario.es informa de diligencias penales de la Fiscalía de Alzira a raíz de la denuncia del PSPV.
+    Es fecha de publicación, no del acuerdo de apertura.
+  type: investigacion
+  urls:
+  - https://www.eldiario.es/comunitat-valenciana/fiscalia-investiga-eur-concejales-pp_1_4526524.html
+- fecha: '2017-10-23'
+  titulo: Comparecencias anunciadas ante el juez
+  descripcion: La noticia de esa mañana identifica a Puchades, Moscardó, Sala y Murillo como investigados y anuncia
+    sus declaraciones para ese lunes; no permite describir el contenido de declaraciones ya prestadas.
+  type: investigacion
+  urls:
+  - https://www.eldiario.es/comunitat-valenciana/politica/declaran-exalcalde-concejales-pp-beniganim_1_3114405.html
+- fecha: '2023-02-14'
+  titulo: Se conoce el sobreseimiento
+  descripcion: TV Digital Ontinyent publica el archivo para Puchades, Moscardó y Sala y para un empleado sin identificar.
+    La publicación no precisa fecha del auto, tipo de sobreseimiento ni firmeza.
+  type: sentencia
+  urls:
+  - https://tvdigitalontinyent.com/vall-dalbaida/beniganim/arxiven-la-causa-contra-lexalcalde-de-beniganim-i-dos-exedils-del-pp-per-la-despesa-en-telefons-mobils/
 ---
+
+La denuncia se centraba en consumos de teléfonos municipales, especialmente entre julio y septiembre de 2013, y en suscripciones a servicios de entretenimiento y mensajes de pago. La [información de abril de 2014](https://www.eldiario.es/comunitat-valenciana/politonos-sexytv-eur-concejales-pp_1_4954056.html) recogía tanto las críticas del PSPV como la explicación del gobierno del PP sobre un problema de tarifas y una bonificación negociada con la operadora. Por ello, la cifra aproximada de 9.000 euros no equivale al coste neto pagado ni a un perjuicio probado. Tampoco se atribuye todo ese consumo a líneas eróticas.
+
+En [noviembre de 2014](https://www.eldiario.es/comunitat-valenciana/fiscalia-investiga-eur-concejales-pp_1_4526524.html) se publicó que la Fiscalía de Alzira había abierto diligencias. La Fiscalía no es un tribunal. La [noticia del 23 de octubre de 2017](https://www.eldiario.es/comunitat-valenciana/politica/declaran-exalcalde-concejales-pp-beniganim_1_3114405.html) identificó a Juan Puchades, Andrés Moscardó, Javier Sala y José Murillo como investigados por posible malversación, al anunciar comparecencias judiciales ese día. No se ha documentado el contenido de esas declaraciones ni un escrito de acusación que permita convertir automáticamente la condición de investigado en acusado para juicio.
+
+El cambio sustancial es el [archivo publicado por TV Digital Ontinyent el 14 de febrero de 2023](https://tvdigitalontinyent.com/vall-dalbaida/beniganim/arxiven-la-causa-contra-lexalcalde-de-beniganim-i-dos-exedils-del-pp-per-la-despesa-en-telefons-mobils/). La información señala que no se acreditó delito y menciona a Puchades, Moscardó y Sala. Respecto de Moscardó, explica las dudas de la prueba pericial sobre firmas de contratos y la posibilidad de que una suscripción a SMS de pago se active sin conocimiento del usuario. También informa de actuaciones archivadas para un empleado de mantenimiento, sin nombre. Ese dato no basta para identificarlo con Murillo.
+
+La noticia sitúa diligencias en 2015, la declaración de complejidad en 2016 y una petición municipal de apertura de juicio contra Moscardó en 2022. Pedir la apertura no equivale a que el órgano judicial la acordara. Sin el auto original no se fija el día del sobreseimiento, su carácter libre o provisional, su firmeza ni eventuales recursos posteriores. Estas cuestiones y el resultado documental individual de Murillo permanecen sin contrastar al 15 de octubre de 2026.
+
+La misma información alude a otros litigios de Moscardó con el Ayuntamiento. Sus sentencias, indemnizaciones y las cantidades de la causa relativa a fiestas no se incorporan como resultado o daño de este procedimiento de telefonía.
