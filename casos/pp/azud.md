@@ -77,8 +77,8 @@ implicados:
     rol: Incluido entre los 38 encausados por el auto de procedimiento abreviado comunicado en septiembre de 2026;
       presuntos 300.000 euros en comisiones por no fiscalizar la «operación colegios»
   - nombre: Jorge Bellver Casaña
-    cargo: Exconcejal de Valencia, con responsabilidades en Urbanismo; exdiputado autonómico y exdirector general
-      de Transparencia del Consell
+    cargo: Exconcejal de Valencia, con responsabilidades en Urbanismo; exdiputado autonómico; director general
+      de Transparencia del Consell cuando puso el cargo a disposición en junio de 2026
     rol: Investigado y encausado en el procedimiento abreviado comunicado en septiembre de 2026 por presuntos cohecho,
       prevaricación y tráfico de influencias. La Audiencia confirmó su condición de investigado, según noticias
       de junio. Puso su cargo a disposición el 10 de junio; no se ha acreditado aquí la fecha del cese formal. Su
