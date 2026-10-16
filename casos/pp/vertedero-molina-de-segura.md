@@ -1,161 +1,105 @@
 ---
-nombre: "Caso Vertedero Molina de Segura"
-partido: "PP"
-completado: true
+nombre: Caso Vertedero de Molina de Segura
+partido: PP
+completado: false
 año: 2011
-fechaInicio: 2011-01-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El Caso Vertedero de Molina de Segura investiga una presunta trama de corrupción urbanística que involucra al exalcalde del PP Eduardo Contreras, el promotor local Juan Manuel Alcañiz y el técnico municipal Antonio Cánovas. Los hechos se remontan a 2004, cuando se gestó una permuta de terrenos públicos por privados destinados a la construcción de una escombrera (Proyecto Escombrera Panderón de los Giles) que habría generado plusvalías millonarias de forma irregular. La operación consistió en intercambiar 15.000 metros cuadrados de terreno rústico propiedad de Alcañiz por 50.385 metros cuadrados (que finalmente resultaron ser 80.000) de suelo urbano residencial municipal, valorándose ambas propiedades en 755.775 euros.
+estado: Instrucción documentada en 2025
+lugar: Molina de Segura (Región de Murcia)
+descripcion: 'La causa examina una permuta de terrenos municipales por una finca privada destinada a una escombrera,
+  promovida desde 2004. Eduardo Contreras, entonces alcalde del PP, fue citado como investigado por presunta prevaricación
+  en las diligencias 17/2011 del Juzgado de Primera Instancia e Instrucción número 3 de Molina de Segura. La información
+  sobre la investigación también identifica al promotor Juan Manuel Alcañiz y al técnico municipal Antonio Cánovas;
+  no se les atribuye aquí una culpabilidad declarada.
 
-  La irregularidad principal radica en que el mismo día de la formalización de la permuta en abril de 2006, Alcañiz vendió el terreno municipal recibido a la promotora Fadesa por casi 9 millones de euros, obteniendo una plusvalía superior a los 8 millones de euros en una operación que la Dirección General de Administración Local de la Comunidad Autónoma había advertido que presentaba defectos graves, como no haber acreditado la necesidad de enajenar un bien público destinado a zonas verdes. La investigación judicial, iniciada en 2011 tras una querella de la Asociación en Defensa de los Intereses de los Miembros del Heredamiento de Regantes, imputa a los tres investigados un delito de prevaricación por haber causado un perjuicio al patrimonio público municipal.
 
-  El caso ha estado atascado durante más de 13 años en el Juzgado de Instrucción nº 2 de Molina de Segura sin que se haya dictado siquiera el auto de diligencias previas, lo que lo convierte en uno de los procedimientos judiciales más dilatados de la Región de Murcia. Eduardo Contreras dimitió como alcalde en marzo de 2016 tras casi 21 años en el cargo, semanas después de declarar como investigado, para evitar una moción de censura del PSOE y Ciudadanos. En noviembre de 2017, la jueza Marta Florenciano dictó auto de procedimiento abreviado contra los tres implicados, equivalente al procesamiento. En octubre de 2020, el PP de Molina celebró públicamente la supuesta exculpación de Contreras, aunque el caso sigue oficialmente abierto y sin resolución en 2025, ejemplificando las dilaciones crónicas de la justicia murciana en casos de corrupción.
+  La memoria de 2025 de la Fiscalía de la Región de Murcia, relativa al ejercicio 2024 y con referencias a actuaciones
+  de 2025, incluye las DP 17/2011 entre los asuntos en instrucción sin auto de procedimiento abreviado. Una información
+  de noviembre de 2025 vuelve a describir las dilaciones. No se ha verificado una resolución posterior que permita
+  establecer el estado individual de los tres afectados al 15 de octubre de 2026. Subsiste una discrepancia con
+  la noticia de 2017, reproducida por un agregador, que anunciaba un auto de procedimiento abreviado; faltan ese
+  auto y las eventuales resoluciones posteriores para explicarla. El comunicado del PP de octubre de 2020 sobre
+  Contreras y Remedios López no identifica esta permuta y no acredita su archivo.
 
-resumen: "Permuta irregular de terrenos municipales que generó 8 millones de euros en plusvalías al promotor"
-coste: 8000000
-lugar: "Molina de Segura, Región de Murcia"
-tribunal:
-  - "Juzgado de Primera Instancia e Instrucción nº 3 de Molina de Segura"
-  - "Jueza instructora: Marta Florenciano Lajusticia"
-numeroSentencia: ""
+
+  La valoración de los terrenos en 755.775 euros y la posterior operación con Fadesa por casi nueve millones son
+  cifras publicadas sobre la operación inmobiliaria, no una cuantificación judicial acreditada del perjuicio público.
+  Tampoco están contrastadas mediante las escrituras las fechas exactas de formalización y transmisión. Contreras
+  presentó su dimisión como alcalde y concejal el 18 de marzo de 2016, después de declarar como investigado; la
+  dimisión no constituye un pronunciamiento penal.'
+resumen: Investigación sobre una permuta de suelo municipal para una escombrera. Fiscalía la situaba en instrucción
+  en su memoria de 2025; faltan resoluciones para determinar su evolución posterior y el resultado individual.
 implicados:
-  - nombre: "Eduardo Contreras Linares"
-    cargo: "Alcalde de Molina de Segura (PP)"
-    rol: "Imputado por prevaricación en permuta irregular de terrenos"
-
-  - nombre: "Juan Manuel Alcañiz"
-    cargo: "Promotor inmobiliario local"
-    rol: "Beneficiario de plusvalías millonarias mediante permuta fraudulenta"
-
-  - nombre: "Antonio Cánovas"
-    cargo: "Técnico municipal de Molina de Segura"
-    rol: "Imputado por validar irregularmente la permuta de terrenos"
-
+- nombre: Eduardo Contreras Linares
+  cargo: Alcalde de Molina de Segura por el PP durante los hechos; presentó su dimisión en marzo de 2016
+  rol: Citado como investigado por presunta prevaricación en las diligencias 17/2011. Sin desenlace individual posterior
+    verificado.
+- nombre: Juan Manuel Alcañiz
+  cargo: Promotor y propietario de los terrenos privados objeto de la permuta
+  rol: Identificado en la información sobre la investigación de la permuta. Sin acusación vigente ni desenlace individual
+    posterior contrastados.
+- nombre: Antonio Cánovas
+  cargo: Técnico municipal de Urbanismo
+  rol: Identificado en la información sobre la investigación por su intervención técnica. Sin acusación vigente
+    ni desenlace individual posterior contrastados.
+tribunal:
+- Juzgado de Primera Instancia e Instrucción número 3 de Molina de Segura
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "urbanismo"
-  - "tráfico de influencias"
-  - "malversación"
-
-impactoSocial: "El caso evidenció el entramado de corrupción urbanística en Molina de Segura y provocó la dimisión del alcalde del PP tras 21 años en el cargo. Ejemplifica las dilaciones extremas de la justicia murciana, permaneciendo atascado más de 13 años sin resolución."
-
-documentos: null
-
+- urbanismo
+- permuta de terrenos
+- presunta prevaricación
+impactoSocial: 'El caso tuvo consecuencias políticas: Contreras presentó su dimisión en marzo de 2016 tras casi
+  veintiún años en la alcaldía. La Fiscalía señaló la prolongación de la instrucción, sin que esa demora determine
+  por sí misma un resultado penal.'
+documentos: []
 cronologia:
-  - fecha: 2004-03-01
-    titulo: "Alcañiz ofrece terreno para escombrera municipal"
-    descripcion: "El promotor local Juan Manuel Alcañiz ofrece al Ayuntamiento de Molina de Segura un terreno de su propiedad para utilizarlo como escombrera municipal. Se inicia así la operación que derivaría en una permuta irregular de terrenos públicos por privados que generaría millonarias plusvalías."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Vertedero&numero=361"
-
-  - fecha: 2004-04-01
-    titulo: "Técnico municipal valida idoneidad del solar"
-    descripcion: "El técnico municipal Antonio Cánovas emite informe validando la idoneidad del solar ofrecido por Alcañiz para ser utilizado como escombrera. Este informe sería clave para justificar posteriormente la permuta de terrenos que se investigaría como irregular."
-    type: "documento"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Vertedero&numero=361"
-
-  - fecha: 2004-05-01
-    titulo: "Acuerdo de arrendamiento por 60.000 euros anuales"
-    descripcion: "Se alcanza un acuerdo entre Juan Manuel Alcañiz y Eduardo Contreras estableciendo un arrendamiento del terreno privado por 60.000 euros al año. Dos días después se redacta el 'Proyecto Escombrera Panderón de los Giles'. Cuando no se abonan las cantidades acordadas, el promotor propondrá más adelante una permuta en lugar del arrendamiento."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Vertedero&numero=361"
-
-  - fecha: 2005-11-01
-    titulo: "Alcañiz propone permuta en lugar de arrendamiento"
-    descripcion: "Ante el impago de las rentas de arrendamiento acordadas, Juan Manuel Alcañiz propone al Ayuntamiento realizar una permuta de terrenos en lugar de continuar con el modelo de arrendamiento. Esta permuta intercambiaría su terreno rústico por suelo urbano municipal de mucho mayor valor."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Vertedero&numero=361"
-
-  - fecha: 2005-12-01
-    titulo: "Técnico aprueba permuta valorando terrenos en 755.775 euros"
-    descripcion: "El técnico municipal Antonio Cánovas elabora informe aprobando la permuta y valorando ambos terrenos (el rústico de Alcañiz de 15.000 m² y el urbano municipal de 50.385 m² que luego serían 80.000 m²) en la misma cantidad: 755.775 euros cada uno, equiparando artificialmente propiedades de valor claramente desigual."
-    type: "documento"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Vertedero&numero=361"
-
-  - fecha: 2006-02-01
-    titulo: "Administración regional advierte de defectos en la operación"
-    descripcion: "La Dirección General de Administración Local de la Comunidad Autónoma de Murcia emite un informe advirtiendo de graves defectos en la permuta proyectada, señalando específicamente que no se había acreditado la necesidad de enajenar un bien público que estaba calificado como zona verde. Esta advertencia fue ignorada por el Ayuntamiento."
-    type: "documento"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Vertedero&numero=361"
-
-  - fecha: 2006-03-01
-    titulo: "Se formaliza escritura de permuta de terrenos"
-    descripcion: "Se otorga formalmente la escritura pública de permuta entre el Ayuntamiento de Molina de Segura y Juan Manuel Alcañiz, intercambiando el terreno rústico privado por el suelo urbano residencial municipal, ambos valorados en 755.775 euros según el informe del técnico municipal."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Vertedero&numero=361"
-
-  - fecha: 2006-04-26
-    titulo: "Alcañiz vende el solar a Fadesa por 9 millones de euros"
-    descripcion: "El mismo día de formalizar la permuta, Juan Manuel Alcañiz escritura la venta del terreno municipal recibido a la promotora Fadesa Inmobiliaria por un importe cercano a los 9 millones de euros. La operación le reporta una plusvalía superior a los 8 millones de euros en un solo día, evidenciando la valoración fraudulenta de la permuta."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Vertedero&numero=361"
-
-  - fecha: 2011-01-01
-    titulo: "Asociación de Regantes presenta querella criminal"
-    descripcion: "La Asociación en Defensa de los Intereses de los Miembros del Heredamiento de Regantes presenta querella criminal ante el juzgado denunciando la permuta irregular de terrenos. Se inicia así la investigación judicial que permanecería abierta durante más de 13 años sin resolución definitiva."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Vertedero&numero=361"
-
-  - fecha: 2016-01-26
-    titulo: "Eduardo Contreras declara como investigado"
-    descripcion: "El alcalde Eduardo Contreras comparece ante el juzgado para declarar como investigado por un presunto delito de prevaricación en el caso de la permuta irregular del vertedero. Días antes había prometido dimitir si continuaba siendo investigado tras su declaración."
-    type: "declaración"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/murcia/politica/Eduardo-Contreras-dimitire-declaracion-investigado_0_461954308.html"
-
-  - fecha: 2016-03-18
-    titulo: "Eduardo Contreras dimite tras 21 años como alcalde"
-    descripcion: "Eduardo Contreras presenta su renuncia al cargo de alcalde de Molina de Segura y al acta de concejal tras casi 21 años en el poder, ante la investigación judicial por prevaricación y para evitar una moción de censura anunciada por PSOE y Ciudadanos. Se celebra pleno extraordinario el 21 de marzo para aceptar su dimisión. Adoración Molina asume provisionalmente la alcaldía."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/politica/Dimite-Molina-Segura-Murcia-prevaricacion_0_495901210.html"
-
-  - fecha: 2016-03-29
-    titulo: "Esther Clavero (PSOE) elegida nueva alcaldesa"
-    descripcion: "La socialista Esther Clavero es investida nueva alcaldesa de Molina de Segura con el apoyo de concejales de Ciudadanos, Cambiemos-Podemos y Ganar-IU-UP, arrebatando la alcaldía al PP tras más de dos décadas. Los cinco concejales de Ciudadanos que apoyaron al PSOE fueron posteriormente expulsados de su partido."
-    type: "resumen"
-    relevancia: "media"
-    urls:
-      - "https://www.publico.es/politica/psoe-arrebata-alcaldia-al-pp.html"
-
-  - fecha: 2017-11-28
-    titulo: "Jueza dicta auto de procedimiento abreviado"
-    descripcion: "La jueza Marta Florenciano Lajusticia del Juzgado de Primera Instancia e Instrucción nº 3 de Molina de Segura dicta auto de procedimiento abreviado (equivalente al procesamiento) contra Eduardo Contreras, Juan Manuel Alcañiz y Antonio Cánovas por un presunto delito de prevaricación, considerando que la operación causó daños al patrimonio público."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.laverdad.es/murcia/juez-procesa-exalcalde-20171128014131-ntvo.html"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Vertedero&numero=361"
-
-  - fecha: 2020-10-25
-    titulo: "PP celebra supuesta exculpación de Contreras"
-    descripcion: "El PP de Molina de Segura emite comunicado celebrando la exculpación de Eduardo Contreras Linares en el caso Vertedero. Sin embargo, el procedimiento judicial continúa abierto y no existe constancia de un archivo o sobreseimiento definitivo del caso, que sigue en fase de investigación."
-    type: "resumen"
-    urls:
-      - "https://www.murcia.com/molina/noticias/2020/10/25-el-pp-de-molina-de-segura-celebra-la-exculpacion-de-eduardo-contreras-linares-exalcalde-popular-de-molina-de-segura.asp"
-      - "https://www.popularesmolinadesegura.com/el-pp-de-molina-de-segura-celebra-la-exculpacion-de-eduardo-contreras-linares-exalcalde-popular-de-molina-de-segura/"
-
-  - fecha: 2025-11-16
-    titulo: "Caso sigue atascado tras 13 años sin resolución"
-    descripcion: "Más de 13 años después del inicio de la investigación judicial en 2011, el Caso Vertedero permanece atascado en el Juzgado de Instrucción nº 2 de Molina de Segura sin que se haya dictado ni siquiera el auto de diligencias previas. El fiscal anticorrupción reconoce la existencia de dilaciones indebidas habituales en los casos de corrupción de la Región de Murcia, convirtiendo este procedimiento en uno de los más dilatados de España."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/murcia/sociedad/tapon-justicia-murcia-libra-carcel-acusados-corrupcion-dilaciones-son-habituales-casos_1_12749305.html"
+- fecha: '2015-12-12'
+  titulo: Se publica la citación de Contreras como investigado
+  descripcion: El alcalde confirma una citación para el 26 de enero de 2016 por presunta prevaricación en el procedimiento
+    17/2011, relativo al Proyecto Escombrera del Panderón de los Giles. La fecha de este hito corresponde a la noticia,
+    no a la emisión de la citación.
+  urls:
+  - https://www.eldiario.es/murcia/politica/eduardo-contreras-dimitire-declaracion-investigado_1_2295809.html
+  type: investigacion
+  relevancia: alta
+- fecha: '2016-03-18'
+  titulo: Contreras presenta su dimisión
+  descripcion: EFE informa de la presentación de su dimisión como alcalde y de la renuncia al acta de concejal,
+    semanas después de declarar como investigado. Es una consecuencia política, no una condena.
+  urls:
+  - https://www.eldiario.es/politica/dimite-molina-segura-murcia-prevaricacion_1_4096501.html
+  type: resumen
+  relevancia: alta
+- fecha: '2016-03-29'
+  titulo: Esther Clavero es elegida alcaldesa
+  descripcion: El pleno elige a la candidata socialista tras la dimisión de Contreras. El relevo de gobierno no
+    resuelve la investigación penal.
+  urls:
+  - https://www.publico.es/politica/psoe-arrebata-alcaldia-pp-molina-murcia-apoyo-podemos-iu-ciudadanos.html
+  type: resumen
+  relevancia: alta
+- fecha: '2025-11-16'
+  titulo: Se informa de la prolongación de la instrucción
+  descripcion: elDiario.es publica que el caso sigue pendiente de avanzar en su instrucción. La memoria oficial
+    de Fiscalía de 2025 identifica las DP 17/2011 en el Juzgado 3 de Molina y precisa que no se había dictado auto
+    de procedimiento abreviado; no debe confundirse con la inexistencia de diligencias previas. Este hito fecha
+    la noticia y no acredita la situación en octubre de 2026.
+  urls:
+  - https://www.eldiario.es/murcia/sociedad/tapon-justicia-murcia-libra-carcel-acusados-corrupcion-dilaciones-son-habituales-casos_1_12749305.html
+  - https://www.fiscal.es/documents/13333297/13809228/Memoria%2B2025.%2BFiscal%C3%ADa%2Bde%2Bla%2BRegi%C3%B3n%2Bde%2BMurcia.pdf/93562759-baf9-bdbd-b163-396c1ea89b6d?download=true%3Fdownload%3Dfalse&t=1766414171730&version=1.2
+  type: investigacion
+  relevancia: alta
 ---
+
+La operación investigada
+
+La información de diciembre de 2015 describe el intercambio de una finca rústica ofrecida para una escombrera por suelo municipal de uso residencial. Publica superficies de 15.000 metros cuadrados frente a 50.385, ampliados a 80.000 por exceso de cabida. Esas superficies y la valoración de 755.775 euros proceden de la noticia: faltan el expediente y las escrituras para contrastarlas directamente. La operación posterior con Fadesa, valorada en casi nueve millones, no acredita por sí sola que el Ayuntamiento sufriera un daño de ocho millones.
+
+La misma información sitúa una denuncia socialista ante Fiscalía en 2008. La identificación judicial DP 17/2011 permite situar el procedimiento en 2011, sin fijar un día de incoación desconocido. Una denuncia ante Fiscalía y la apertura de diligencias judiciales son actuaciones distintas.
+
+Alcance del último estado documentado
+
+La [memoria oficial de Fiscalía de 2025](https://www.fiscal.es/documents/13333297/13809228/Memoria%2B2025.%2BFiscal%C3%ADa%2Bde%2Bla%2BRegi%C3%B3n%2Bde%2BMurcia.pdf/93562759-baf9-bdbd-b163-396c1ea89b6d?download=true%3Fdownload%3Dfalse&t=1766414171730&version=1.2), página 217 de 232, incluye el asunto en el apartado de instrucciones sin auto de procedimiento abreviado. Fiscalía no es el tribunal que debe dictar ese auto. La [información de noviembre de 2025](https://www.eldiario.es/murcia/sociedad/tapon-justicia-murcia-libra-carcel-acusados-corrupcion-dilaciones-son-habituales-casos_1_12749305.html) describe las dilaciones, pero utiliza la expresión «auto de diligencias previas», que no reproduce con precisión la denominación de la memoria.
+
+La [reproducción de una noticia atribuida a La Verdad de 2017](https://casos-aislados.com/caso-de-corrupcion/caso-vertedero-molina-de-segura) afirmaba que se había dictado auto de procedimiento abreviado contra Contreras, Alcañiz y Cánovas. Sin el original judicial ni las resoluciones posteriores, no cabe decidir si hubo revocación, una incidencia procesal o un error en alguna información. Un auto de continuación tampoco equivale a una sentencia ni garantiza la apertura del juicio oral.
+
+El [comunicado partidario publicado en octubre de 2020](https://www.murcia.com/molina/noticias/2020/10/25-el-pp-de-molina-de-segura-celebra-la-exculpacion-de-eduardo-contreras-linares-exalcalde-popular-de-molina-de-segura.asp) habla de Contreras y de Remedios López sin identificar esta permuta. No permite afirmar su archivo ni negar que se produjera una resolución en otro procedimiento. No están documentados aquí un juicio, una sentencia, un archivo ni la firmeza de un desenlace individual en este caso hasta el corte de revisión.
