@@ -4,15 +4,15 @@ partido: "PP"
 completado: false
 año: 2017
 fechaFin: ""
-estado: "archivado"
+estado: "desconocido"
 descripcion: |
-  El "caso de la depuradora de Húmera" se refiere a la investigación abierta por el Juzgado de Primera Instancia e Instrucción nº 1 de Pozuelo de Alarcón a raíz de la denuncia de un vecino (registrada en abril de 2017) por los malos olores y los vertidos de la Estación Depuradora de Aguas Residuales (EDAR) del barrio de Húmera, en Pozuelo de Alarcón (Madrid). Las diligencias se incoaron en junio de 2017, fecha conocida solo por mes y año, sin que conste el día exacto. Según la prensa, la EDAR, dimensionada inicialmente para un barrio de medio centenar de viviendas, quedó muy infradimensionada y debía depurar las aguas de decenas de miles de usuarios (Público, 2018, indica unas 36.000 personas). Las fuentes discrepan sobre su origen: El Confidencial y Público la datan en 1997, mientras Público la describe también como creada en los años setenta; ambas coinciden en que fue reformada en 2006, bajo el mandato del entonces alcalde Jesús Sepúlveda, sin el informe preceptivo de impacto ambiental de la Comunidad de Madrid ni la autorización de la Confederación Hidrográfica del Tajo (CHT), que según El Confidencial impuso al Ayuntamiento al menos seis sanciones (unos 30.000 euros) desde abril de 2015. Jesús Sepúlveda no figura entre los investigados en esta causa y no consta que este asunto se derive del caso Gürtel.
+  El "caso de la depuradora de Húmera" se refiere a la investigación abierta por el Juzgado de Primera Instancia e Instrucción nº 1 de Pozuelo de Alarcón a raíz de una denuncia vecinal por los malos olores y los vertidos de la Estación Depuradora de Aguas Residuales (EDAR) del barrio de Húmera, en Pozuelo de Alarcón (Madrid). Las diligencias se incoaron en junio de 2017, fecha conocida solo por mes y año, sin que conste el día exacto. La denuncia se refería al posible funcionamiento insuficiente de la instalación y a sus vertidos, sin que se haya recuperado una resolución que declare responsabilidad penal por esos hechos. La reforma de 2006 y la falta de autorizaciones ambientales fueron objeto de las informaciones y denuncias de la época; no se presentan como infracciones acreditadas por una sentencia. Jesús Sepúlveda no figura en la relación del fragmento dispositivo consultado y no consta que este asunto se derive del caso Gürtel.
 
-  La Guardia Civil (Seprona) investigó los vertidos y, a petición de la Fiscalía Provincial de Madrid (29 de enero de 2018), el juzgado citó como investigados a cargos públicos del PP con responsabilidades de gestión desde 2005. En febrero de 2018 declararon ante la Guardia Civil (en Tres Cantos) y en septiembre de 2018 ante la jueza. La prensa cifra en diez los investigados (Diario de Pozuelo; El Correo de Pozuelo habla de once personas, incluido un técnico), entre ellos la alcaldesa Susana Pérez Quislant y Mariano Pérez-Hickman, que había accedido al Congreso la semana anterior. Su declaración, prevista para el 19 de septiembre de 2018, quedó suspendida al adquirir la condición de aforado, pero según elDiario.es/Europa Press finalmente compareció ese día pese a ser aforado. El 7 de junio de 2018 el Juzgado nº 1 había admitido la personación de Somos Pozuelo como acusación popular (figura distinta de la acusación particular), según la prensa del 18 de junio de 2018.
+  La Guardia Civil (Seprona) investigó los vertidos y, a petición de la Fiscalía Provincial de Madrid (29 de enero de 2018), el juzgado citó como investigados a cargos públicos del PP con responsabilidades de gestión desde 2005. En febrero de 2018 declararon ante la Guardia Civil (en Tres Cantos) y en septiembre de 2018 ante la jueza. El fragmento publicado de la parte dispositiva distingue diez cargos sobreseídos parcial y provisionalmente y un sobreseimiento libre por prevaricación urbanística para Antonio Núñez Doval; la diferencia de recuentos en prensa no supone que todos tuvieran la misma situación procesal. Entre los primeros figuraban la alcaldesa Susana Pérez Quislant y Mariano Pérez-Hickman, que había accedido al Congreso la semana anterior. Algunas noticias anticiparon la suspensión de su declaración por el aforamiento. La crónica de elDiario.es de 19 de septiembre, que incluye una fe de errores sobre la versión inicial de Europa Press, informa de que declaró ese día; no se ha recuperado el acta para determinar el encaje procesal de esa comparecencia. El 7 de junio de 2018 el Juzgado nº 1 había admitido la personación de Somos Pozuelo como acusación popular (figura distinta de la acusación particular), según la prensa del 18 de junio de 2018.
 
-  A finales de febrero de 2019 el fiscal pidió el sobreseimiento. El 14 de marzo de 2019 la jueza Carolina González dictó un auto de sobreseimiento parcial y provisional por "falta de autor conocido", levantando la imputación a los diez investigados; el auto sostiene que los problemas de depuración no aparecieron realmente hasta septiembre de 2016 y por causas que serían ajenas a la EDAR (vertidos industriales o ganaderos ilícitos). La instrucción continuó contra autores desconocidos. En junio de 2019 la jueza denegó a Yolanda Estrada el sobreseimiento libre que había solicitado, recordando que el sobreseimiento es parcial y que el procedimiento podría reabrirse si aparecen nuevos indicios. En septiembre de 2019 el Juzgado desestimó el recurso de la Asociación de Afectados por la Depuradora de Pozuelo (ADEPO) y la prensa local indicó que contra esa resolución "ya no cabe recurso alguno", sin que se haya localizado el auto original para comprobar su firmeza; su naturaleza es provisional y no de archivo definitivo. No consta sentencia según las fuentes.
+  A finales de febrero de 2019 el fiscal pidió el sobreseimiento. Según las noticias de marzo y septiembre de 2019, el 14 de marzo la jueza Carolina González Pérez dictó un auto de sobreseimiento parcial y provisional por "falta de autor conocido", levantando la imputación a los diez investigados; la noticia de septiembre atribuye al auto la conclusión de que los problemas de depuración no aparecieron realmente hasta septiembre de 2016 y por causas que serían ajenas a la EDAR (vertidos industriales o ganaderos ilícitos). La instrucción continuó contra autores desconocidos. En junio de 2019 la jueza denegó a Yolanda Estrada el sobreseimiento libre que había solicitado, recordando que el sobreseimiento es parcial y que el procedimiento podría reabrirse si aparecen nuevos indicios. En septiembre de 2019 el Juzgado desestimó el recurso de la Asociación de Afectados por la Depuradora de Pozuelo (ADEPO) y la prensa local indicó que contra esa resolución "ya no cabe recurso alguno", sin que se haya localizado el auto original para comprobar su firmeza; su naturaleza es provisional y no de archivo definitivo. El fragmento publicado acuerda además el sobreseimiento libre de Antonio Núñez Doval por prevaricación urbanística; no se ha recuperado su fundamentación ni se declara comprobada su firmeza. No consta sentencia según las fuentes.
 
-  La resolución conocida es un sobreseimiento parcial y provisional, reabrible. La prensa local señala que contra la resolución del recurso no cabía otro recurso; no se ha localizado el auto original para comprobar su firmeza y alcance. No consta la fecha del auto que resolvió el recurso de ADEPO: solo se conoce por la noticia de prensa (3 de septiembre de 2019), por lo que no se fija una fecha de cierre. La prensa de 2018 discrepa sobre el destino del arroyo Antequina (Manzanares o Guadarrama); un informe local de 2026 lo describe como el único arroyo de Madrid capital que desemboca en el Manzanares, pero no se ha confirmado con cartografía oficial municipal. No se han localizado resoluciones judiciales posteriores a 2019, lo que no permite asegurar cuál es el estado actual de la causa. En febrero de 2021 los ayuntamientos de Pozuelo y Madrid firmaron un convenio para derivar las aguas a la ERAR Viveros de la Villa y suprimir la depuradora de Húmera; sin embargo, la Junta de Gobierno Local acordó el 26 de noviembre de 2025 prorrogar el contrato de explotación de la EDAR y el 23 de diciembre de 2025 aprobó el proyecto de la nueva EBAR de Húmera (5.643.747,97 euros, IVA incluido), sin que esos acuerdos acrediten por sí solos el estado físico de la instalación. Una carta de un vecino publicada el 10 de febrero de 2026 alude a una "decisión judicial de cerrar el caso provisionalmente", pero se trata solo de un testimonio particular, no de una resolución. Persisten, por tanto, comprobaciones pendientes.
+  La resolución conocida es un sobreseimiento parcial y provisional, reabrible. La prensa local señala que contra la resolución del recurso no cabía otro recurso; no se ha localizado el auto original para comprobar su firmeza y alcance. No consta la fecha del auto que resolvió el recurso de ADEPO: solo se conoce por la noticia de prensa (3 de septiembre de 2019), por lo que no se fija una fecha de cierre. No se han localizado resoluciones judiciales posteriores a 2019, lo que no permite asegurar cuál es el estado actual de la causa. En febrero de 2021 los ayuntamientos de Pozuelo y Madrid firmaron un convenio para derivar las aguas a la ERAR Viveros de la Villa y suprimir la depuradora de Húmera; sin embargo, la Junta de Gobierno Local acordó el 26 de noviembre de 2025 prorrogar el contrato de explotación de la EDAR y el 23 de diciembre de 2025 aprobó el proyecto de la nueva EBAR de Húmera (5.643.747,97 euros, IVA incluido, según la prensa; importe no cotejado en el proyecto), sin que esos acuerdos acrediten por sí solos el estado físico de la instalación. Persisten, por tanto, comprobaciones pendientes.
 resumen: "Diez cargos del PP de Pozuelo investigados por los vertidos de la depuradora de Húmera y sobreseimiento parcial y provisional en 2019; sin datos judiciales posteriores conocidos"
 lugar: "Pozuelo de Alarcón, Madrid"
 tribunal:
@@ -20,34 +20,34 @@ tribunal:
 numeroSentencia: ""
 implicados:
   - nombre: "Susana Pérez Quislant"
-    cargo: "Alcaldesa de Pozuelo de Alarcón (PP, 2015-2023)"
+    cargo: "Alcaldesa de Pozuelo de Alarcón durante la etapa investigada (PP; cargo histórico)"
     rol: "Investigada por un presunto delito medioambiental; su citación se refería a su etapa como teniente de alcalde; sobreseída parcial y provisionalmente en marzo de 2019"
 
-  - nombre: "Mariano Pérez-Hickman"
-    cargo: "Concejal de Pozuelo (1991-2011); diputado en el Congreso desde septiembre de 2018"
-    rol: "Investigado por un presunto delito medioambiental; su declaración quedó suspendida al adquirir la condición de aforado y, según elDiario.es, compareció igualmente el 19 de septiembre de 2018; sobreseído parcial y provisionalmente en marzo de 2019"
+  - nombre: "Mariano Pérez-Hickman Silván"
+    cargo: "Exconcejal de Pozuelo; adquirió la plena condición de diputado el 11 de septiembre de 2018 (PP; cargos históricos)"
+    rol: "Investigado por un presunto delito medioambiental; la prensa anticipó la suspensión por aforamiento, pero elDiario.es informó, con fe de errores, de que declaró el 19 de septiembre de 2018; sobreseído parcial y provisionalmente en marzo de 2019"
 
-  - nombre: "Yolanda Estrada"
+  - nombre: "Yolanda Estrada Madrid"
     cargo: "Concejala de Obras y Servicios de Pozuelo de Alarcón (PP, julio de 2003-septiembre de 2008)"
     rol: "Investigada; pidió sin éxito el sobreseimiento libre, que le fue denegado en junio de 2019; sobreseída parcial y provisionalmente"
 
-  - nombre: "Gonzalo Aguado"
+  - nombre: "Gonzalo Aguado Aguirre"
     cargo: "Exalcalde de Pozuelo de Alarcón (PP; cargo histórico)"
     rol: "Investigado por la gestión de la depuradora; sobreseído parcial y provisionalmente en marzo de 2019"
 
-  - nombre: "Eduardo Oria"
+  - nombre: "Eduardo Oria de Rueda"
     cargo: "Primer teniente de alcalde de Pozuelo de Alarcón (PP; cargo histórico de la etapa investigada)"
     rol: "Investigado por un presunto delito medioambiental; sobreseído parcial y provisionalmente en marzo de 2019"
 
-  - nombre: "Diego Lozano"
+  - nombre: "Diego Lozano Pérez"
     cargo: "Concejal de Pozuelo de Alarcón (PP; cargo histórico de la etapa investigada)"
     rol: "Investigado por un presunto delito medioambiental; sobreseído parcial y provisionalmente en marzo de 2019"
 
-  - nombre: "Pablo Gil"
+  - nombre: "Pablo Gil Alonso"
     cargo: "Concejal de Pozuelo de Alarcón (PP; cargo histórico de la etapa investigada)"
     rol: "Investigado por un presunto delito medioambiental; sobreseído parcial y provisionalmente en marzo de 2019"
 
-  - nombre: "José Antonio Sáenz"
+  - nombre: "José Antonio Sáenz Jiménez"
     cargo: "Exconcejal de Pozuelo de Alarcón (PP; cargo histórico de la etapa investigada)"
     rol: "Investigado por la gestión de la depuradora; sobreseído parcial y provisionalmente en marzo de 2019"
 
@@ -55,9 +55,13 @@ implicados:
     cargo: "Concejala de Pozuelo de Alarcón (PP; cargo histórico de la etapa investigada)"
     rol: "Investigada por un presunto delito medioambiental; sobreseída parcial y provisionalmente en marzo de 2019"
 
-  - nombre: "Félix Alba"
+  - nombre: "Félix Alba Núñez"
     cargo: "Concejal de Pozuelo de Alarcón (PP; cargo histórico de la etapa investigada)"
     rol: "Investigado por un presunto delito medioambiental; sobreseído parcial y provisionalmente en marzo de 2019"
+
+  - nombre: "Antonio Núñez Doval"
+    cargo: "Cargo o función no contrastados en el fragmento judicial disponible"
+    rol: "El fragmento publicado de la parte dispositiva acuerda su sobreseimiento libre por el delito de prevaricación urbanística que se le imputaba. No se ha recuperado el auto completo ni se ha comprobado la firmeza; su situación es distinta del sobreseimiento parcial y provisional de los otros diez."
 
 documentos:
   - fecha: "2023-12-27"
@@ -65,6 +69,11 @@ documentos:
     filetype: "pdf"
     paginas: 5
     nombre_fichero: "https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?DocumentIdParam=392a0a20-5b98-42e0-b02f-678e553472c2&cmpntname=GetDocumentsById&source=library&srv=cmpnt"
+  - fecha: "2021-02-24"
+    titulo: "Convenio de depuración entre Madrid y Pozuelo (copia del documento administrativo, 10 páginas)"
+    filetype: "pdf"
+    paginas: 10
+    nombre_fichero: "https://elcorreodepozuelo.com/wp-content/uploads/2023/09/Convenio-entre-el-Ayuntamiento-de-Madrid-y-el-de-Pozuelo.pdf"
 
 tags:
   - "corrupción"
@@ -87,11 +96,12 @@ cronologia:
 
   - fecha: "2018-09-11"
     titulo: "Pérez-Hickman toma posesión como diputado y adquiere la condición de aforado"
-    descripcion: "Mariano Pérez-Hickman accede al escaño del Congreso en sustitución de Soraya Sáenz de Santamaría, lo que le otorga la condición de aforado. Su declaración como investigado, prevista para el 19 de septiembre, queda suspendida; según elDiario.es/Europa Press, finalmente compareció ese día pese a ser aforado."
+    descripcion: "Mariano Pérez-Hickman accede al escaño del Congreso en sustitución de Soraya Sáenz de Santamaría, lo que le otorga la condición de aforado. La prensa anticipó que su declaración del 19 de septiembre se suspendería por aforamiento; elDiario.es informó después de que declaró, con una fe de errores sobre la noticia inicial de Europa Press. El BOCG fija el alta parlamentaria el 11 de septiembre y se publicó el 25 de septiembre."
     type: "resumen"
     relevancia: "alta"
     urls:
       - "https://www.madridiario.es/459982/perez-hickman-sustituto-saenz-santamaria-congreso-tambien-imputado"
+      - "https://www.congreso.es/public_oficiales/L12/CONG/BOCG/D/BOCG-12-D-418.PDF"
       - "https://www.diariodepozuelo.es/101200-mariano-perez-hickman-no-podra-comparecer-en-el-caso-de-la-depuradora-por-su-condicion-de-aforado"
       - "https://www.eldiario.es/politica/diputado-pp-posesion-declarar-condicion_1_2752363.html"
 
@@ -106,7 +116,7 @@ cronologia:
 
   - fecha: "2019-03-14"
     titulo: "Auto de sobreseimiento parcial y provisional por falta de autor conocido"
-    descripcion: "La jueza Carolina González dicta auto de sobreseimiento parcial y provisional de las actuaciones y levanta la imputación a los diez investigados, tras haberlo solicitado el fiscal a finales de febrero de 2019. El auto argumenta que los problemas de depuración no aparecieron realmente hasta septiembre de 2016 por causas ajenas a la EDAR (vertidos industriales o ganaderos ilícitos) y la instrucción continúa para identificar a los autores desconocidos. Es un auto, no una sentencia."
+    descripcion: "La jueza Carolina González dicta auto de sobreseimiento parcial y provisional de las actuaciones y levanta la imputación a los diez investigados, tras haberlo solicitado el fiscal a finales de febrero de 2019. El auto argumenta que los problemas de depuración no aparecieron realmente hasta septiembre de 2016 por causas ajenas a la EDAR (vertidos industriales o ganaderos ilícitos) y la instrucción continúa para identificar a los autores desconocidos. El fragmento de la parte dispositiva publicado por El Correo de Pozuelo confirma el sobreseimiento parcial y provisional de diez personas y, separadamente, el sobreseimiento libre de Antonio Núñez Doval por prevaricación urbanística. El fragmento carece de cabecera y fecha; el 14 de marzo se toma de las crónicas. Es un auto, no una sentencia."
     type: "sobreseimiento"
     relevancia: "alta"
     urls:
@@ -131,7 +141,7 @@ cronologia:
 
   - fecha: "2021-02-24"
     titulo: "Convenio para suprimir la depuradora de Húmera"
-    descripcion: "Los ayuntamientos de Pozuelo de Alarcón y de Madrid firman un convenio para que la totalidad de las aguas pluviales y residuales de Pozuelo se depuren en la ERAR Viveros de la Villa, de Madrid, lo que según el Ayuntamiento supone que 'desaparece la depuradora de Húmera' y evita posibles vertidos al arroyo Antequina. La nota oficial no adjunta el texto del convenio como documento descargable."
+    descripcion: "Los ayuntamientos de Pozuelo de Alarcón y de Madrid firman un convenio para que la totalidad de las aguas pluviales y residuales de Pozuelo se depuren en la ERAR Viveros de la Villa, de Madrid, lo que según el Ayuntamiento supone que 'desaparece la depuradora de Húmera' y evita posibles vertidos al arroyo Antequina. Se ha recuperado una copia del convenio fechado el 24 de febrero de 2021, con los nombres de los alcaldes firmantes; el hecho de que un medio lo alojara en una ruta de septiembre de 2023 no cambia la fecha del documento. Su lectura confirma obligaciones para un bombeo futuro, sin acreditar por sí sola la ejecución material."
     type: "resumen"
     relevancia: "media"
     urls:
@@ -149,33 +159,34 @@ cronologia:
 
   - fecha: "2025-12-23"
     titulo: "La Junta de Gobierno aprueba el proyecto de ejecución de la EBAR de Húmera (5.643.747,97 €)"
-    descripcion: "En su sesión del 23 de diciembre de 2025, la Junta de Gobierno Local aprobó, entre siete puntos urgentes, el proyecto de ejecución de la EBAR (estación de bombeo de aguas residuales) de Húmera, con un presupuesto de 5.643.747,97 euros (IVA incluido), destinada a sustituir a la antigua depuradora. La información procede de una crónica local publicada el 14 de enero de 2026; no acredita por sí misma el cierre material de la instalación ni daños probados, y se incorpora solo como contrapunto al anuncio de supresión de 2021."
+    descripcion: "En su sesión del 23 de diciembre de 2025, la Junta de Gobierno Local aprobó, entre siete puntos urgentes, el proyecto de ejecución de la EBAR (estación de bombeo de aguas residuales) de Húmera, con un presupuesto de 5.643.747,97 euros (IVA incluido), destinada a sustituir a la antigua depuradora. La relación oficial de acuerdos confirma la aprobación del proyecto el 23 de diciembre; el importe procede de una crónica local publicada el 14 de enero de 2026 y no se ha contrastado en el proyecto técnico; no acredita por sí misma el cierre material de la instalación ni daños probados, y se incorpora solo como contrapunto al anuncio de supresión de 2021."
     type: "resumen"
     relevancia: "baja"
     urls:
       - "https://elcorreodepozuelo.com/2026/01/14/la-junta-de-gobierno-traicionera-del-23-de-diciembre-de-2025-vispera-de-nochebuena-fue-una-caja-de-sorpresas-con-7-puntos-urgentes-en-los-que-se-aprobaron-casi-10-millones-de-euros/"
+      - "https://www.pozuelodealarcon.org/ayuntamiento/organizacion-municipal/junta-de-gobierno-local/historico-junta-de-gobierno-local/principales-acuerdos-de-la-junta-de-gobierno-diciembre"
 
-  - fecha: "2026-02-10"
-    titulo: "Una carta de un vecino alude a un cierre provisional del caso"
-    descripcion: "En esta fecha El Correo de Pozuelo publica una carta/colaboración firmada por 'Capitán Possuelo' (Juan Pozuelo) en la que un vecino de Húmera recuerda los malos olores de la 'vieja depuradora' y afirma que el asunto 'quedó en nada' tras una 'decisión judicial de cerrar el caso provisionalmente'. Se trata únicamente de un testimonio particular (una carta de lector), no de una resolución judicial: no acredita el cierre definitivo ni aporta fecha formal alguna. El resto del texto trata de una discoteca del barrio, asunto distinto que no se incorpora."
-    type: "resumen"
-    relevancia: "baja"
-    urls:
-      - "https://elcorreodepozuelo.com/2026/02/10/humera-ya-es-el-magaluf-de-madrid-y-el-problema-es-que-tejero-no-tiene-el-valor-para-pararlo-a-base-de-sanciones-porque-no-sabe-si-al-ninato-que-multa-tiene-papa-influyente/"
+
 ---
 
 ## Incertidumbres y limitaciones de esta ficha
 
 - **Sin sentencia.** No consta sentencia según las fuentes: el cierre conocido es un **auto** de sobreseimiento parcial y provisional (14 de marzo de 2019) dictado por "falta de autor conocido". El auto puede ser firme, pero es reabrible: la prensa local indicó que, tras desestimarse el recurso de ADEPO (septiembre de 2019), "ya no cabe recurso alguno", pero el propio auto mantiene su carácter parcial y provisional y la instrucción continuaba contra autores desconocidos. No debe etiquetarse como "sentencia firme".
-- **Fechas no exactas.** Las diligencias se abrieron en junio de 2017, dato conocido solo por mes y año, sin día exacto; la denuncia vecinal se registró en abril de 2017. La última resolución conocida (desestimación del recurso de ADEPO) solo se conoce por la noticia del 3 de septiembre de 2019 y no consta la fecha del auto. Los hitos de junio y septiembre de 2019 y el de finales de 2025 se fechan por la publicación periodística o por el acuerdo administrativo, no por el acto procesal, salvo cuando se indica.
+- **Fechas no exactas.** Las diligencias se abrieron en junio de 2017, dato conocido solo por mes y año, sin día exacto; la fecha exacta de la denuncia no se ha contrastado en su original. La última resolución conocida (desestimación del recurso de ADEPO) solo se conoce por la noticia del 3 de septiembre de 2019 y no consta la fecha del auto. Los hitos de junio y septiembre de 2019 y el de finales de 2025 se fechan por la publicación periodística o por el acuerdo administrativo, no por el acto procesal, salvo cuando se indica.
 - **Naturaleza del recurso.** La fuente local denomina "recurso de apelación" al de Yolanda Estrada, resuelto sin embargo por el mismo Juzgado, lo que plantea dudas sobre si era una reforma ante el propio órgano o una apelación ante la Audiencia Provincial; tampoco se ha aclarado con fuente primaria la naturaleza del recurso de ADEPO.
-- **Número de investigados.** Diario de Pozuelo detalla diez cargos públicos del PP; El Correo de Pozuelo habla de once personas investigadas (incluido un técnico); El Confidencial menciona "nueve ediles" (febrero de 2018). No se ha localizado una resolución oficial que fije el número.
-- **Nombres y cargos.** Todos los cargos recogidos son históricos (etapa investigada, 2003-2019) y no se presentan como vigentes en 2026. Los segundos apellidos no están verificados en fuente oficial: Diario de Pozuelo publica formas más completas (Yolanda Estrada Madrid, Mariano Pérez Hickman, Félix Alba Núñez, Mónica García Molina, Eduardo Oria de Rueda, Diego Lozano Pérez, Gonzalo Aguado Aguirre, José Antonio Sáenz Jiménez, Susana Pérez Quislant y Pablo Gil Alonso), pero aquí se registran como lagunas nominales y no se inventan.
+- **Número y situaciones procesales.** El fragmento dispositivo enumera diez sobreseimientos parciales y provisionales y uno libre para Núñez Doval. La prensa de diferentes momentos daba nueve, diez u once investigados; no se ha recuperado el auto completo para reconstruir todo el perímetro de la instrucción. No se atribuye automáticamente el mismo delito o desenlace a las once personas.
+- **Nombres y cargos.** Los diez nombres del sobreseimiento parcial y provisional se leen en el [fragmento de la parte dispositiva](https://elcorreodepozuelo.com/wp-content/uploads/2019/03/Depuradora.png), reproducido como imagen por El Correo de Pozuelo, y coinciden con la relación nominativa de Diario de Pozuelo de junio de 2019. No es el auto completo ni una certificación oficial. El nombre parlamentario Mariano Pérez-Hickman Silván y su alta de 11 de septiembre se contrastan en el BOCG de 25 de septiembre de 2018. Se añade separadamente Antonio Núñez Doval, con sobreseimiento libre, sin inferir su cargo ni afiliación. Los cargos restantes se presentan como históricos; no se reconstruyen nombres a partir de iniciales o seudónimos.
 - **Acusación popular.** El 7 de junio de 2018 el Juzgado nº 1 admitió la personación de Somos Pozuelo como acusación popular (nota de prensa difundida por los medios el 18 de junio de 2018). Debe distinguirse de la acusación particular: algunos titulares la llamaron "particular", pero el cuerpo de la noticia y la propia formación la describen como popular.
-- **Arroyo Antequina.** La prensa de 2018 discrepa: Europa Press (citando a Somos Pozuelo) lo sitúa desembocando en el Manzanares, mientras El Confidencial y Público lo llevan al Guadarrama (y Público llega a mezclar Manzanares y Guadarrama). Un informe local de 2026 lo describe como el único arroyo de Madrid capital que desemboca en el Manzanares, pero no se ha confirmado con cartografía oficial municipal; se mantiene abierto y no se resuelve con el solo informe local. (El Manzanares es afluente del Jarama, no del Guadarrama.)
-- **Aforamiento.** La toma de posesión de Pérez-Hickman como diputado (11 de septiembre de 2018) suspendió inicialmente su declaración; según elDiario.es/Europa Press, compareció el 19 de septiembre de 2018 pese a ser aforado. No consta que el asunto se derivara al Tribunal Supremo.
+- **Aforamiento y comparecencia.** Las noticias que anticipaban una suspensión no prueban que se acordara o que se mantuviera. Se da prioridad a la crónica posterior de elDiario.es de 19 de septiembre de 2018 y a su fe de errores: informa de la declaración y corrige que se hubiera negado a declarar. No se ha recuperado el acta judicial ni se certifica una remisión al Supremo.
 - **Vigencia de la EDAR y supresión de 2021.** El convenio de 2021 anunció la supresión de la depuradora de Húmera, pero la Junta de Gobierno Local acordó el 26 de noviembre de 2025 prorrogar el contrato de explotación (expediente 2023/PA/024 según la prensa) y el 23 de diciembre de 2025 aprobó el proyecto de la nueva EBAR de Húmera (5.643.747,97 €, IVA incluido). No consta el cierre material de la instalación.
-- **Contrato administrativo.** El expediente 2023/PA/024 consta en el contrato formalizado el 27 de diciembre de 2023 con DRACE GEOCISA, S.A. (importe fijo de explotación de dos años: 501.866,95 €, IVA no incluido). Es un documento administrativo, no un gasto del proceso judicial, y no debe sumarse a las sanciones de la CHT ni al suplemento municipal de 3,5 millones.
-- **Carta de 2026.** La colaboración/carta de un vecino del 10 de febrero de 2026 alude a un cierre provisional del caso, pero es un testimonio particular sin valor de resolución y sin fecha formal; no acredita por sí sola el estado judicial actual.
+- **Contrato administrativo.** El expediente 2023/PA/024 consta en el contrato formalizado el 27 de diciembre de 2023 con DRACE GEOCISA, S.A. (importe fijo de explotación de dos años: 501.866,95 €, IVA no incluido). Es un documento administrativo, no un gasto del proceso judicial, y no debe sumarse a las sanciones de la CHT ni a presupuestos de ampliación o sustitución de la instalación.
 - **Sin novedades judiciales posteriores.** No se han localizado resoluciones o noticias judiciales posteriores a 2019. La ausencia de noticias no confirma ni el cierre definitivo ni la continuidad de la instrucción.
-- **Sin coste judicial documentado.** No consta un coste del caso; las sanciones de la CHT (unos 30.000 euros), el suplemento municipal de 3,5 millones de euros para reacondicionamiento y el contrato administrativo de explotación son conceptos de naturaleza distinta y no se suman como coste judicial.
+- **Sin daño judicial cuantificado.** No se asigna `coste`. Las sanciones de la CHT y el suplemento municipal de 3,5 millones citados en prensa no se han comprobado en expedientes originales y se retiran del relato cuantificado. El contrato de explotación y el presupuesto de la EBAR son gasto o previsión administrativa, no daño penal probado; no se suman entre sí ni a sanciones.
+
+## Alcance de lectura de la revisión (2026-10-17)
+
+Se ha inspeccionado visualmente completo el fragmento publicado de la parte dispositiva de marzo de 2019, que enumera las diez personas sobreseídas provisionalmente, el sobreseimiento libre de Núñez Doval y la posibilidad de reforma o apelación. Carece de cabecera, número y fecha: no equivale a recuperar el auto íntegro, cuya firmeza y recorrido posterior siguen pendientes. Se leyeron los cuerpos de las noticias de marzo, junio y septiembre de 2019; los errores que las llaman «sentencia» o atribuyen a un juzgado la resolución de una «apelación» no se adoptan como identificación procesal confirmada.
+
+Se recuperaron mediante GET el contrato de 2023 (5 páginas) y una copia del convenio de 2021 (10 páginas). La lectura fue selectiva: encabezamiento, adjudicatario, importe fijo, trabajos no programados y duración del contrato; encabezamiento, objeto, obligaciones de bombeo y página de firmas del convenio. No se afirma lectura íntegra de todas sus cláusulas. Se consultaron además la nota municipal de 2021 y los pasajes de acuerdos oficiales de noviembre y diciembre de 2025 relativos a Húmera. No se ha recuperado el proyecto técnico para comprobar los 5.643.747,97 euros publicados en prensa.
+
+Se retiran por falta de contraste primario suficiente las cifras históricas de capacidad, la fecha de origen de la depuradora, el trazado final del arroyo y la carta de lector de 2026 como hito judicial. La revisión de noticias hasta el 17 de octubre de 2026 no ha localizado otra resolución penal; esto no acredita un archivo definitivo ni permite afirmar que continúe abierta. El estado general se deja como desconocido, conservando el sobreseimiento parcial y provisional de 2019 como última situación documentada de los diez cargos.
