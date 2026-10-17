@@ -138,7 +138,7 @@ El acta oficial del TSJA de 14 de marzo de 2023, página 30, identifica el rollo
 
 Una financiación distinta en la causa de los ERE
 
-El préstamo de 384.841,65 euros canalizado por IDEA a EDM-Séneca para nóminas pertenece a otra pieza. En esa causa se informó en julio de 2020 del archivo respecto de cuatro antiguos altos cargos: libre para Antonio Fernández, Jacinto Cañete y Juan Márquez, y provisional para Bienvenido Martínez. Este último archivo no se extiende a la pieza de Invercaria.
+El préstamo de 384.841,65 euros canalizado por IDEA a EDM-Séneca para nóminas pertenece a otra pieza. En esa causa se informó en julio de 2020 del archivo respecto de Antonio Fernández, Jacinto Cañete, Juan Márquez y Bienvenido Martínez; la noticia identifica expresamente como provisional el de este último, sin precisar la modalidad de los otros tres. Este último archivo no se extiende a la pieza de Invercaria.
 
 La información de Diario de Sevilla del 24 de noviembre de 2023 atribuye a una sentencia de 21 de noviembre condenas de dos años y medio y dos años de prisión a dos responsables empresariales, identificados en esa noticia mediante iniciales, por el préstamo de EDM-Séneca. La noticia advierte expresamente que la sentencia no era firme y admitía casación. No se ha recuperado aquí el original ni el resultado de eventuales recursos: esas penas no se atribuyen a los acusados de Invercaria/EDM. Tampoco las condenas de otras piezas de Invercaria o el cierre de su instrucción general determinan el desenlace de esta.
 
