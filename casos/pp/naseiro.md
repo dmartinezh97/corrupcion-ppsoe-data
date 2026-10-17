@@ -1,119 +1,178 @@
 ---
-nombre: "Naseiro"
+nombre: Naseiro
 partido: PP
-completado: true
+completado: false
 año: 1990
-fechaInicio: 1989-11-28
-fechaFin: 1992-07-09
-estado: "sobreseimiento"
-descripcion: |
-  El caso Naseiro fue el primer gran escándalo de financiación ilegal del Partido Popular en la España democrática. El caso estalló en la Semana Santa de 1990, apenas días después de que José María Aznar asumiera la presidencia del partido. Todo comenzó el 28 de noviembre de 1989, cuando la Brigada de Estupefacientes de Valencia obtuvo autorización judicial para intervenir el teléfono de Rafael Palop Argente, padre del concejal del PP Salvador Palop Martínez, en el marco de una investigación por narcotráfico. Las escuchas revelaron conversaciones comprometedoras sobre comisiones que constructores pagaban a políticos del PP a cambio de adjudicaciones urbanísticas, recalificaciones de suelo y contratos de obras municipales en la Comunidad Valenciana.
+fechaInicio: '1989-11-28'
+fechaFin: ''
+estado: Absolución tras retirada de las acusaciones en julio de 1992
+descripcion: 'El caso Naseiro investigó sospechas de cohecho vinculadas a comisiones para financiar al PP y a operaciones
+  urbanísticas en la Comunidad Valenciana. La investigación se hizo pública en abril de 1990, recién elegido José
+  María Aznar presidente del partido. Las acusaciones no desembocaron en condena: el Tribunal Supremo anuló las
+  escuchas y pruebas derivadas en junio de 1992 y después dictó una sentencia absolutoria al retirarse las acusaciones.
 
-  El 10 de abril de 1990, el juez Luis Manglano ordenó la detención del tesorero nacional del PP Rosendo Naseiro, del concejal Salvador Palop Martínez y de varios empresarios y un arquitecto municipal: José Balaguer (director de ETRA), Luis Janini (delegado de Dragados y Construcciones), Carlos Bonet (director de Huarte) y Luis Latorre (arquitecto municipal de Cullera). Las grabaciones también implicaban al diputado nacional y antiguo tesorero del PP Ángel Sanchís Perales, al presidente del PPCV Pedro Agramunt y al entonces aspirante político Eduardo Zaplana. La trama consistía en cobrar comisiones a constructoras a cambio de licencias, modificaciones de planes parciales y adjudicaciones de contratos públicos, con el fin de engrosar las arcas del PP y el enriquecimiento personal de algunos implicados.
 
-  El 18 de junio de 1990, el Tribunal Supremo estimó el recurso de los abogados defensores y anuló las escuchas telefónicas como prueba, al considerar que habían sido obtenidas vulnerando el derecho fundamental a la intimidad: la intervención había sido autorizada exclusivamente para investigar el narcotráfico, no la financiación ilegal. Sin pruebas de cargo válidas, la acusación del fiscal y las acusaciones particulares de Izquierda Unida y Unitat del Poble Valencià se retiraron el 9 de julio de 1990. El caso fue definitivamente archivado en el Tribunal Supremo en 1992. El escándalo supuso un serio golpe a la imagen del PP recién renovado bajo Aznar, aunque éste salió reforzado al promover una investigación interna y distanciarse públicamente de los implicados.
+  La cronología de elDiario.es sitúa el inicio de la intervención telefónica el 28 de noviembre de 1989, en una
+  investigación sobre supuesto tráfico de drogas de Rafael Palop, hermano —no padre— del concejal Salvador Palop.
+  Las conversaciones suscitaron sospechas sobre comisiones relacionadas con negocios urbanísticos. Son sospechas
+  y contenido de pruebas luego anuladas, no una trama declarada probada judicialmente. El 9 de abril de 1990 fueron
+  detenidos Rosendo Naseiro, Salvador Palop, José Balaguer, Luis Janini, Carlos Bonet y Luis Latorre, según la información
+  contemporánea de El País publicada el día 10. El sumario pasó al Supremo por la condición de diputado de Ángel
+  Sanchis; no se atribuye ese traslado al aforamiento de Pedro Agramunt.
 
-resumen: "Primer escándalo de financiación ilegal del PP: comisiones de constructores a cambio de adjudicaciones urbanísticas, sobreseído por nulidad de las escuchas"
-lugar: "Valencia, Comunidad Valenciana"
-coste: 0
+
+  El juicio ante el Supremo comenzó el 10 de junio de 1992 contra Naseiro, Palop, Sanchis y Balaguer. El auto de
+  18 de junio de 1992 declaró nulas las escuchas por vulneración del secreto de las comunicaciones y excluyó también
+  pruebas derivadas, según la crónica contemporánea. La nulidad no se limitó a que la investigación original fuese
+  por drogas: la información recoge falta de control judicial, problemas de proporcionalidad y entrega de copias
+  seleccionadas por la policía. La Circular 1/1999 de la Fiscalía General del Estado, publicada en el BOE, cita
+  posteriormente ese auto sobre el control de las cintas originales. No se ha recuperado el auto original del caso.
+
+
+  La nulidad no cerró automáticamente el procedimiento: la crónica del 19 de junio indicaba que todavía podían existir
+  otras pruebas. El Supremo rechazó los recursos contra la nulidad, según El País del 4 de julio. Tras la retirada
+  de las acusaciones concluyó el juicio el 9 de julio, según Servimedia; la misma agencia informó el 15 de julio
+  de que la sentencia absolutoria había sido notificada ese día. El País del 16 identifica como absueltos a los
+  cuatro acusados. El tribunal rechazó el sobreseimiento provisional solicitado, porque el juicio oral ya estaba
+  abierto y la ausencia de acusación exigía una sentencia absolutoria. No se trata de una condena ni debe describirse
+  el resultado como un mero archivo sin juicio.
+
+
+  En junio se había ordenado destruir las cintas, pero las crónicas de julio explican que se acordó conservarlas
+  ante el propósito de las acusaciones de acudir al Tribunal Constitucional. No se ha verificado el eventual recurso
+  ni su desenlace, ni la ejecución posterior de la destrucción. La STC 85/1994 cita el caso como precedente dentro
+  de un recurso de otra causa: no es la resolución constitucional de Naseiro. A fecha de corte de 17 de octubre
+  de 2026 faltan los originales de la sentencia y los autos, su identificación completa y constancia de firmeza
+  o recursos posteriores. Por eso no se fija fechaFin ni se afirma firmeza. No se consigna coste: no se ha acreditado
+  un perjuicio público cuantificado y las comisiones o penas solicitadas no equivalen a daño judicialmente probado.'
+resumen: 'Investigación sobre supuesto cohecho y financiación del PP: escuchas anuladas en junio de 1992 y sentencia
+  absolutoria tras retirarse las acusaciones en julio'
+lugar: Valencia, Comunidad Valenciana
 tribunal:
-  - "Juzgado de Instrucción de Valencia - Juez Luis Manglano"
-  - "Tribunal Supremo - Sala Segunda"
-numeroSentencia: "Auto del Tribunal Supremo de 18 de junio de 1990 (nulidad de escuchas)"
+- Juzgado de Instrucción nº 2 de Valencia
+- Tribunal Supremo - Sala Segunda
+numeroSentencia: Auto del Tribunal Supremo de 18 de junio de 1992 (nulidad de escuchas); sentencia absolutoria notificada
+  el 15 de julio de 1992, sin número original verificado
 implicados:
-  - nombre: "Rosendo Naseiro"
-    cargo: "Tesorero nacional del Partido Popular"
-    rol: "Detenido e imputado por organizar la trama de comisiones para el PP"
-
-  - nombre: "Ángel Sanchís Perales"
-    cargo: "Diputado nacional por Valencia y ex tesorero del PP"
-    rol: "Imputado por participación en la trama de financiación ilegal"
-
-  - nombre: "Salvador Palop Martínez"
-    cargo: "Concejal del PP en el Ayuntamiento de Valencia"
-    rol: "Detenido e imputado; sus teléfonos originaron las escuchas del caso"
-
-  - nombre: "Pedro Agramunt"
-    cargo: "Presidente del Partido Popular de la Comunitat Valenciana (PPCV)"
-    rol: "Imputado; aforado, lo que motivó la elevación al Tribunal Supremo"
-
-  - nombre: "Eduardo Zaplana"
-    cargo: "Militante y aspirante político del PP en Valencia"
-    rol: "Mencionado en las grabaciones como intermediario de comisiones"
-
-  - nombre: "José Balaguer"
-    cargo: "Director de la empresa ETRA"
-    rol: "Detenido por pago de comisiones a cambio de contratos municipales"
-
-  - nombre: "Luis Janini"
-    cargo: "Delegado de Dragados y Construcciones en Valencia"
-    rol: "Detenido por pago de comisiones a cambio de adjudicaciones de obra"
-
-  - nombre: "Carlos Bonet"
-    cargo: "Director de Huarte en Valencia"
-    rol: "Detenido por pago de comisiones a cambio de contratos públicos"
-
-  - nombre: "Luis Latorre"
-    cargo: "Arquitecto municipal de Cullera"
-    rol: "Detenido por colaboración en la trama de licencias irregulares"
-
+- nombre: Rosendo Naseiro
+  cargo: Responsable de finanzas del PP en 1990
+  rol: Detenido el 9 de abril de 1990. Acusado ante el Supremo y absuelto tras retirarse las acusaciones en julio
+    de 1992, según las crónicas contemporáneas.
+- nombre: Ángel Sanchis
+  cargo: Diputado del PP y antiguo responsable de sus finanzas
+  rol: Su condición de diputado motivó la remisión al Supremo. Acusado y absuelto en julio de 1992 tras la retirada
+    de las acusaciones. Se conserva el nombre tal como figura en las fuentes leídas, sin completar apellidos no
+    cotejados.
+- nombre: Salvador Palop
+  cargo: Concejal del PP en Valencia en 1990
+  rol: Detenido el 9 de abril de 1990. Su hermano Rafael era objeto de la investigación por drogas que dio origen
+    a las escuchas. Fue acusado y absuelto en julio de 1992 tras la retirada de las acusaciones.
+- nombre: José Balaguer
+  cargo: Promotor inmobiliario de Cullera, según la información contemporánea de su detención
+  rol: Detenido el 9 de abril de 1990. Figura entre los cuatro acusados del juicio de junio de 1992 y entre los
+    absueltos identificados por El País en julio.
+- nombre: Luis Janini
+  cargo: Delegado de Dragados y Construcciones en la Comunidad Valenciana
+  rol: Detenido el 9 de abril de 1990 según El País. No figura entre los cuatro acusados del juicio descrito por
+    Servimedia; no se ha verificado la resolución individual que delimitó su salida del procedimiento.
+- nombre: Carlos Bonet
+  cargo: Representante de Huarte, según la información contemporánea
+  rol: Detenido el 9 de abril de 1990 según El País. No figura entre los cuatro acusados del juicio descrito por
+    Servimedia; no se ha verificado la resolución individual que delimitó su salida del procedimiento.
+- nombre: Luis Latorre
+  cargo: Arquitecto empleado por el Ayuntamiento de Cullera
+  rol: Detenido el 9 de abril de 1990 según El País. No figura entre los cuatro acusados del juicio descrito por
+    Servimedia; no se ha verificado la resolución individual que delimitó su salida del procedimiento.
+- nombre: Eduardo Zaplana
+  cargo: Dirigente del PP de Alicante en la época, según elDiario.es
+  rol: Mencionado en las conversaciones reproducidas por la prensa; no figura entre los cuatro acusados del juicio.
+    Esa mención no acredita una acusación formal ni una condena en esta causa.
 tags:
-  - "corrupción"
-  - "financiación ilegal"
-  - "cohecho"
-  - "tráfico de influencias"
-  - "urbanismo"
-  - "comisiones ilegales"
-  - "escuchas telefónicas"
-
-impactoSocial: "El caso Naseiro fue el primer gran escándalo de corrupción que sacudió al PP en su etapa moderna bajo Aznar y marcó el debate sobre la financiación ilegal de los partidos durante años. La anulación de las escuchas como prueba de cargo abrió un debate jurídico sobre los límites de las intervenciones policiales y el derecho a la intimidad que influyó en la legislación posterior. El caso quedó en la memoria colectiva como símbolo de la impunidad política y fue antecedente directo de investigaciones posteriores como el caso Gürtel."
-
-documentos: null
-
+- corrupción
+- financiación ilegal
+- cohecho
+- tráfico de influencias
+- urbanismo
+- comisiones ilegales
+- escuchas telefónicas
+impactoSocial: El caso provocó una crisis política en el PP y un debate sobre financiación de partidos y garantías
+  de las intervenciones telefónicas. El auto de junio de 1992 fue citado posteriormente en doctrina oficial sobre
+  el secreto de las comunicaciones. La absolución no convierte el contenido de las escuchas anuladas en hechos probados.
+documentos: []
 cronologia:
-  - fecha: 1989-11-28
-    titulo: "Intervención telefónica autorizada por investigación de narcotráfico"
-    descripcion: "La Brigada de Estupefacientes de Valencia obtiene autorización judicial para intervenir el teléfono de Rafael Palop Argente, padre del concejal del PP Salvador Palop Martínez, en el marco de una investigación por tráfico de drogas. Las escuchas revelan inesperadamente conversaciones sobre comisiones políticas entre miembros del PP."
-    type: "investigación"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_Naseiro"
-
-  - fecha: 1990-04-10
-    titulo: "Detención de Rosendo Naseiro y otros implicados"
-    descripcion: "El juez Luis Manglano ordena la detención del tesorero nacional del PP Rosendo Naseiro, del concejal Salvador Palop y de varios empresarios y un arquitecto municipal: José Balaguer (ETRA), Luis Janini (Dragados), Carlos Bonet (Huarte) y Luis Latorre (arquitecto de Cullera). Se les imputa organizar una trama de comisiones a constructores a cambio de licencias y adjudicaciones para financiar al PP."
-    type: "detención"
-    urls:
-      - "https://www.teinteresa.es/politica/Caso-Naseiro-escandalo-financiacion-PP_0_1019298857.html"
-      - "https://diarioinformacion.com/politica/2016/02/01/caso---naseiro-primer/1722541.html"
-
-  - fecha: 1990-04-16
-    titulo: "El caso se eleva al Tribunal Supremo por aforamiento"
-    descripcion: "El juez Manglano remite el sumario al Tribunal Supremo al descubrir que entre los implicados figuran el diputado nacional Ángel Sanchís Perales y el presidente del PPCV Pedro Agramunt, quienes gozan de aforamiento. Aznar anuncia una investigación interna en el partido y solicita la apertura de una comisión de investigación en el Congreso."
-    type: "investigación"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_Naseiro"
-      - "https://www.eldiario.es/politica/caso-naseiro-aznar-zaplana-palop_1_2693638.html"
-
-  - fecha: 1990-06-18
-    titulo: "El Tribunal Supremo anula las escuchas telefónicas"
-    descripcion: "La Sala Segunda del Tribunal Supremo estima el recurso de los abogados defensores y declara nulas las escuchas telefónicas como prueba de cargo, al considerar que fueron obtenidas vulnerando el derecho fundamental a la intimidad. La autorización judicial cubría exclusivamente la investigación de narcotráfico, no la de financiación ilegal de partidos políticos."
-    type: "sentencia"
-    urls:
-      - "https://lahemerotecadelbuitre.com/piezas/la-sala-segunda-del-tribunal-supremo-cierra-el-caso-naseiro-en-15-minutos-al-retirarse-las-acusaciones-particulares/"
-      - "https://es.wikipedia.org/wiki/Caso_Naseiro"
-
-  - fecha: 1990-07-09
-    titulo: "Retirada de todas las acusaciones y sobreseimiento"
-    descripcion: "Sin las grabaciones como prueba válida, el fiscal y las acusaciones particulares de Izquierda Unida y Unitat del Poble Valencià se ven obligados a retirar todas las acusaciones. El Tribunal Supremo cierra el caso en apenas quince minutos. Rosendo Naseiro, Ángel Sanchís y Salvador Palop quedan en libertad sin cargos."
-    type: "sentencia"
-    urls:
-      - "https://lahemerotecadelbuitre.com/piezas/la-sala-segunda-del-tribunal-supremo-cierra-el-caso-naseiro-en-15-minutos-al-retirarse-las-acusaciones-particulares/"
-
-  - fecha: 1992-07-09
-    titulo: "Archivo definitivo del caso en el Tribunal Supremo"
-    descripcion: "El Tribunal Supremo archiva definitivamente el caso Naseiro. La causa queda sobreseída al no existir pruebas válidas tras la anulación de las escuchas telefónicas. Ninguno de los implicados es condenado ni juzgado por los hechos denunciados de financiación ilegal del PP."
-    type: "resumen"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_Naseiro"
-      - "https://www.eldiario.es/politica/tesorero-gano-pulso-politico-duro_1_2689064.html"
+- fecha: '1989-11-28'
+  titulo: Inicio de las escuchas según la cronología periodística
+  descripcion: elDiario.es sitúa ese día la intervención judicial del teléfono de Rafael Palop en una investigación
+    por drogas. Era hermano de Salvador Palop. No se ha recuperado el auto de autorización; otra retrospectiva de
+    ese medio menciona noviembre de 1988, por lo que la fecha de inicio conserva ese límite documental.
+  type: investigación
+  urls:
+  - https://www.eldiario.es/politica/tesorero-gano-pulso-politico-duro_1_2689064.html
+  - https://www.eldiario.es/politica/caso-naseiro-aznar-zaplana-palop_1_2693638.html
+- fecha: '1990-04-09'
+  titulo: Detención de Naseiro, Palop y otras cuatro personas
+  descripcion: El País del 10 de abril informa de que el día anterior fueron detenidos Rosendo Naseiro, Salvador
+    Palop, José Balaguer, Luis Janini, Carlos Bonet y Luis Latorre por orden del juez Luis Manglano. Las sospechas
+    eran de cohecho ligado a operaciones urbanísticas, no delitos ya probados.
+  type: detención
+  urls:
+  - https://elpais.com/diario/1990/04/10/espana/639698401_850215.html
+- fecha: '1990-04-16'
+  titulo: Remisión al Supremo por la condición de diputado de Sanchis
+  descripcion: La cronología de elDiario.es sitúa en esta fecha la remisión del sumario por el aforamiento del diputado
+    Ángel Sanchis. No se ha recuperado la resolución original; no se atribuye la remisión a Agramunt.
+  type: investigación
+  urls:
+  - https://www.eldiario.es/politica/tesorero-gano-pulso-politico-duro_1_2689064.html
+- fecha: '1992-06-10'
+  titulo: Comienza el juicio ante el Supremo
+  descripcion: Servimedia informó ese día del inicio de la vista contra Naseiro, Palop, Sanchis y Balaguer y de
+    las peticiones de nulidad y suspensión de las defensas. Hubo juicio, aunque después la retirada de las acusaciones
+    impidió una condena.
+  type: juicio
+  urls:
+  - https://www.servimedia.es/noticias/defensas-losimplicados-caso-naseiro-piden-suspension-juicio/1410799576
+- fecha: '1992-06-18'
+  titulo: Nulidad de las escuchas y pruebas derivadas
+  descripcion: El Supremo anuló las intervenciones por vulneración de derechos fundamentales, según El País del
+    día siguiente. Se señalaron varias deficiencias de autorización y control judicial. La exclusión de las escuchas
+    no suponía por sí sola el cierre automático de la causa. La fecha correcta es 1992, no 1990.
+  type: recurso
+  urls:
+  - https://elpais.com/diario/1992/06/19/espana/708904821_850215.html
+  - https://www.boe.es/buscar/doc.php?id=FIS-C-1999-00001
+- fecha: '1992-07-04'
+  titulo: Se publica el rechazo de los recursos contra la nulidad
+  descripcion: El País informó del rechazo de los recursos del fiscal y las acusaciones y de que el juicio se reanudaría
+    el 9 de julio. La fecha corresponde a la noticia; no se fija aquí la fecha del auto sin su original.
+  type: recurso
+  urls:
+  - https://elpais.com/diario/1992/07/04/espana/710200801_850215.html
+- fecha: '1992-07-09'
+  titulo: Concluye el juicio tras la retirada de las acusaciones
+  descripcion: La noticia contemporánea de Servimedia del 15 de julio sitúa la conclusión del juicio el día 9 tras
+    la retirada de los cargos. Una cronología posterior la sitúa el día 7; se explicita la discrepancia y se prioriza
+    la información contemporánea, a falta del acta original.
+  type: juicio
+  urls:
+  - https://www.servimedia.es/noticias/supremo-absuelve-implicados-caso-naseiro-ordena-conservacion-cintas-magnetofonicas/1410777803
+  - https://www.eldiario.es/politica/tesorero-gano-pulso-politico-duro_1_2689064.html
+- fecha: '1992-07-15'
+  titulo: Se notifica la sentencia absolutoria y se conservan las cintas
+  descripcion: Servimedia informó ese día de la notificación de la absolución, no de la fecha interna de la sentencia.
+    El País del 16 identifica a Naseiro, Palop, Sanchis y Balaguer como absueltos. El tribunal rechazó un archivo
+    provisional y dispuso conservar las grabaciones ante el anunciado amparo. No se ha acreditado la resolución
+    del eventual recurso ni la firmeza.
+  type: sentencia
+  urls:
+  - https://www.servimedia.es/noticias/supremo-absuelve-implicados-caso-naseiro-ordena-conservacion-cintas-magnetofonicas/1410777803
+  - https://elpais.com/diario/1992/07/16/espana/711237605_850215.html
 ---
+
+## Alcance y asuntos pendientes
+
+Revisión con corte de 17 de octubre de 2026. Se cotejaron los cuerpos completos de las informaciones contemporáneas de El País sobre detenciones, nulidad, recursos y absolución y de Servimedia sobre el inicio del juicio y la notificación del fallo. También se leyeron dos retrospectivas de elDiario.es. La diferencia entre fecha de acto y publicación se mantiene visible: el 15 de julio se notificó la sentencia según Servimedia; no se ha cotejado su fecha interna. La divergencia entre 7 y 9 de julio para la retirada de acusaciones no se oculta. Tampoco se presenta la fecha inicial de 1989, procedente de una cronología, como cotejada con el auto original.
+
+La búsqueda de originales no permitió recuperar los autos ni la sentencia de esta causa. `documentos: []` refleja esa ausencia. Se consultaron los pasajes pertinentes de la Circular 1/1999 de la Fiscalía en el BOE y de la STC 85/1994 en el repositorio del TC: esta última corresponde a otra causa y solo menciona Naseiro como precedente invocado. No se atribuye a ella la resolución de un amparo del caso. Tampoco se ha verificado la presentación o resultado del amparo anunciado en julio de 1992, la ejecución de una destrucción posterior de cintas o la firmeza autónoma de la absolución.
+
+Las acusaciones se describen como tales, sin convertir en hechos probados el contenido de grabaciones anuladas. Los seis detenidos de 1990 no equivalen a los cuatro acusados del juicio de 1992: faltan las resoluciones individuales relativas a Janini, Bonet y Latorre. Se retira la atribución heredada de imputación y aforamiento a Pedro Agramunt, que no queda acreditada en las fuentes cotejadas. La mención de Zaplana en grabaciones tampoco acredita su condición de acusado en este juicio. No se añaden cuantías de daño ni se convierten multas o comisiones mencionadas en coste público. Estas lagunas impiden dar la revisión por completa.
