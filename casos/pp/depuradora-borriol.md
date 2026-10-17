@@ -4,16 +4,15 @@ partido: PP
 completado: false
 año: 2014
 fechaFin: ""
-estado: "sentencia firme"
+estado: "condena confirmada por el Tribunal Supremo"
 descripcion: |
-  El caso de la depuradora de Borriol se refiere a la tramitación por la Diputación Provincial de Castellón y el Ayuntamiento de Borriol (Castellón) de la expropiación de terrenos para construir una estación depuradora de aguas residuales (EDAR) que afectaba a una parcela (2.706 m²) vinculada a la familia de Francisco Martínez Capdevila, entonces vicepresidente primero de la Diputación y alcalde de Vall d'Alba, cargos ambos del PP. Según los hechos declarados probados por la Audiencia Provincial de Castellón, esa parcela fue comprada en mayo de 2008 por la hija de Martínez, que en diciembre de 2011 la aportó a la mercantil familiar Franvaltur S.L. en una ampliación de capital. El Ayuntamiento preveía indemnizarla con unos 51.000 euros (18,85 euros por metro cuadrado para 2.706 m²), frente a los 3.000 euros del precio declarado de compraventa de 2008. La indemnización no llegó a pagarse: tras conocerse la vinculación en enero de 2014 la parcela quedó excluida del proyecto y, según los hechos probados de la sentencia de 2016, la depuradora no había llegado a construirse en esos terrenos.
+  El caso de la depuradora de Borriol se refiere a la tramitación por la Diputación Provincial de Castellón y el Ayuntamiento de Borriol (Castellón) de la expropiación de terrenos para construir una estación depuradora de aguas residuales (EDAR) que afectaba a una parcela (2.706 m²) vinculada a la familia de Francisco Martínez Capdevila, entonces vicepresidente primero de la Diputación y alcalde de Vall d'Alba, cargos ambos del PP. Según los hechos declarados probados por la Audiencia Provincial de Castellón, esa parcela fue comprada en mayo de 2008 por la hija de Martínez, que en diciembre de 2011 la aportó a la mercantil familiar Franvaltur S.L. en una ampliación de capital. El Ayuntamiento preveía indemnizarla con unos 51.000 euros (18,85 euros por metro cuadrado para 2.706 m²), frente a los 3.000 euros del precio declarado de compraventa de 2008. No consta pago acreditado de esa indemnización: tras conocerse la vinculación en enero de 2014 la parcela quedó excluida del proyecto y, según los hechos probados de la sentencia de 2016, la depuradora no había llegado a construirse en esos terrenos.
 
-  La Audiencia Provincial de Castellón, en sentencia nº 85/2016 de 15 de abril de 2016, condenó a Francisco Martínez Capdevila a 8 meses de prisión, 12.600 euros de multa y 2 años de inhabilitación especial para empleo o cargo público como autor de un delito de negociaciones prohibidas a los funcionarios (art. 439 del Código Penal), por intervenir en la tramitación del proyecto sin abstenerse pese a su interés patrimonial familiar. El tribunal absolvió a los otros cinco acusados —sus hijos Andrea y Francisco Martínez Tena, el exalcalde de Borriol Adelino Santamaría Blasco, el empresario Raúl Babiloni y el empleado de este Luis García del Campillo— y descartó la prevaricación, el tráfico de influencias y el fraude ilegal. La resolución declaró expresamente no acreditados el concierto entre los acusados, el conocimiento por parte del alcalde de la vinculación de la parcela ni el carácter desproporcionado del precio. El Tribunal Supremo, en sentencia 111/2017 de 22 de febrero de 2017 (ROJ STS 565/2017; ECLI:ES:TS:2017:565), desestimó los recursos de Martínez y de la Fiscalía y confirmó íntegramente el fallo. La fecha de la resolución del Supremo no consta acreditada documentalmente como fecha formal de firmeza ni de cierre de la ejecución de la pena. No se ha verificado si los ocho meses de prisión fueron suspendidos o ejecutados.
+  La Audiencia Provincial de Castellón, en sentencia nº 85/2016 de 15 de abril de 2016, condenó a Francisco Martínez Capdevila a 8 meses de prisión, 12.600 euros de multa y 2 años de inhabilitación especial para empleo o cargo público como autor de un delito de negociaciones prohibidas a los funcionarios (art. 439 del Código Penal), por intervenir en la tramitación del proyecto sin abstenerse pese a su interés patrimonial familiar. El tribunal absolvió a los otros cinco acusados —sus hijos Andrea y Francisco Martínez Tena, el exalcalde de Borriol Adelino Santamaría Blasco, el empresario Raúl Babiloni y el empleado de este Luis García del Campillo— y descartó la prevaricación, el tráfico de influencias y el fraude ilegal. La resolución declaró expresamente no acreditados el concierto entre los acusados, el conocimiento por parte del alcalde de la vinculación de la parcela ni el carácter desproporcionado del precio. El Tribunal Supremo, en sentencia 111/2017 de 22 de febrero de 2017 (ROJ STS 565/2017; ECLI:ES:TS:2017:565), desestimó los recursos de Martínez y de la Fiscalía y confirmó íntegramente el fallo. La fecha de la resolución del Supremo no consta acreditada documentalmente como fecha formal de firmeza ni de cierre de la ejecución de la pena. No se ha verificado si los ocho meses de prisión fueron suspendidos o ejecutados. Al corte del 17 de octubre de 2026 no se ha localizado la liquidación de condena. No se fija coste: los 51.000 euros previstos, el precio de compra, el convenio y la multa son conceptos distintos y no acreditan un daño patrimonial efectivo.
 
   Políticamente, el caso se hizo público en enero de 2014. El presidente de la Diputación, Javier Moliner, destituyó a Martínez como vicepresidente y le retiró las competencias en infraestructuras; Martínez renunció a su acta de diputado provincial y a sus cargos en el PP en septiembre de 2014. Adelino Santamaría renunció a su acta de diputado provincial en febrero de 2014 y días después dejó también la alcaldía de Borriol tras quince años, siendo sustituido por Iván Pauner.
 
 resumen: "Vicepresidente primero de la Diputación de Castellón y alcalde de Vall d'Alba condenado en 2017 por negociaciones prohibidas en la expropiación de terrenos para la depuradora de Borriol que afectaban a una parcela familiar"
-coste: 51000
 lugar: "Borriol, Castellón, Comunidad Valenciana"
 tribunal:
   - "Juzgado de Instrucción nº 2 de Castellón"
@@ -23,7 +22,7 @@ numeroSentencia: "SAP CS 85/2016 de 15 de abril de 2016; STS 111/2017 de 22 de f
 implicados:
   - nombre: "Francisco Martínez Capdevila"
     cargo: "Fue vicepresidente primero de la Diputación Provincial de Castellón (destituido en enero de 2014) y alcalde de Vall d'Alba (PP)"
-    rol: "Condenado por la Audiencia Provincial en 2016 a 8 meses de prisión, 12.600 euros de multa y 2 años de inhabilitación especial por negociaciones prohibidas a funcionarios; condena confirmada por el Tribunal Supremo en 2017 y firme"
+    rol: "Condenado por la Audiencia Provincial en 2016 a 8 meses de prisión, 12.600 euros de multa y 2 años de inhabilitación especial por negociaciones prohibidas a funcionarios; condena confirmada por el Tribunal Supremo en 2017; ejecución no verificada"
 
   - nombre: "Adelino Santamaría Blasco"
     cargo: "Fue alcalde de Borriol (hasta febrero de 2014) y diputado provincial del PP"
@@ -47,11 +46,8 @@ implicados:
 
 tags:
   - "corrupción"
-  - "prevaricación"
   - "negociaciones prohibidas"
-  - "tráfico de influencias"
-  - "fraude"
-  - "expropiación irregular"
+  - "expropiación"
 
 impactoSocial: "El caso se hizo público en enero de 2014 y provocó la destitución de Martínez como vicepresidente de la Diputación y, meses después, su renuncia al acta de diputado provincial y a sus cargos en el PP; el exalcalde de Borriol Adelino Santamaría dimitió como diputado provincial y como alcalde. La condena fue confirmada por el Supremo en 2017, aunque los tribunales absolvieron al resto de acusados y descartaron la prevaricación, el tráfico de influencias y el fraude."
 
@@ -121,7 +117,7 @@ cronologia:
 
   - fecha: "2013-11-05"
     titulo: "Convenio expropiatorio de determinación del justiprecio"
-    descripcion: "El alcalde y el apoderado de Franvaltur, Raúl Babiloni, firman el convenio expropiatorio con un precio total de 193.570,65 euros para el conjunto de parcelas. La indemnización prevista para la parcela familiar (2.706 m²) era de unos 51.000 euros, a razón de 18,85 euros por metro cuadrado. El pago no llegó a ejecutarse."
+    descripcion: "El alcalde y el apoderado de Franvaltur, Raúl Babiloni, firman el convenio expropiatorio con un precio total de 193.570,65 euros para el conjunto de parcelas. La indemnización prevista para la parcela familiar (2.706 m²) era de unos 51.000 euros, a razón de 18,85 euros por metro cuadrado. No se acredita pago de esa indemnización en las fuentes cotejadas."
     type: "investigación"
     relevancia: "media"
     urls:
@@ -232,7 +228,7 @@ cronologia:
     type: "sentencia"
     relevancia: "alta"
     urls:
-      - "https://www.europapress.es/comunitat-valenciana/noticia-ts-ratifica-meses-carcel-exvicepresidente-diputacion-castellon-depuradora-borriol-20170227154425.html"
+      - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1163094"
       - "https://www.levante-emv.com/castello/2017/02/27/supremo-ratifica-condena-numero-2-12222559.html"
 ---
 
@@ -247,8 +243,16 @@ El caso culmina con una única condena en vía de casación. La Audiencia Provin
 - **Fecha formal de firmeza y ejecución de la pena.** La fecha de la sentencia del Supremo (22 de febrero de 2017) no equivale necesariamente a la fecha formal de firmeza de la condena; no se ha localizado la diligencia de firmeza ni resolución posterior. Tampoco se ha verificado si la pena de 8 meses de prisión fue finalmente suspendida o ejecutada: la prensa de 2017 señaló que, por ser inferior a dos años, podía quedar suspendida, pero su situación final no consta.
 - **Fecha de compra de la parcela.** La STS 111/2017 contiene una contradicción interna en los hechos probados: en un apartado fija la compra por la hija de Martínez el 26 de mayo de 2008, mientras que en otro afirma que la segregación se tramitó el 23 de mayo de 2008 y que la venta se produjo «seis días después» de la segregación (lo que situaría la compra el 29 de mayo de 2008). Una crónica jurídica de 2015 (Iustel, a partir del decreto del fiscal) menciona el 29 de mayo de 2008. La ficha mantiene el 26 de mayo atribuyéndolo al primer apartado del relato y deja constancia de la discrepancia sin darla por resuelta.
 - **Anonimización de las parcelas.** La sentencia del Supremo anonimiza las referencias catastrales (polígono NUM010, parcela NUM011, etc.). La ficha no traduce esos códigos a números reales —no se ha verificado en fuentes oficiales la numeración catastral auténtica— y usa denominaciones descriptivas («parcela familiar», «otras parcelas»).
-- **Cifras económicas.** Los 51.000 euros son el importe previsto de indemnización expropiatoria para la parcela familiar (2.706 m² a 18,85 euros/m², aproximadamente 51.008 euros), no un pago realizado: la parcela quedó excluida del proyecto y la expropiación no se ejecutó. Los 3.000 euros corresponden al precio declarado de la compraventa de 2008, no a una tasación de mercado. El total del convenio expropiatorio (193.570,65 euros) correspondía al conjunto de parcelas y nunca se pagó. Los 51.000 euros previstos para la parcela familiar eran un beneficio potencial no materializado; la multa penal de 12.600 euros es una categoría distinta y no se suma.
+- **Cifras económicas.** Los 51.000 euros son el importe previsto de indemnización expropiatoria para la parcela familiar (2.706 m² a 18,85 euros/m², aproximadamente 51.008 euros), sin pago acreditado: la parcela quedó excluida del proyecto y la expropiación no se ejecutó. Los 3.000 euros corresponden al precio declarado de la compraventa de 2008, no a una tasación de mercado. El total del convenio expropiatorio (193.570,65 euros) correspondía al conjunto de parcelas ; no se ha obtenido justificante de pago ni liquidación del expediente completo. Los 51.000 euros previstos para la parcela familiar eran un beneficio potencial no materializado; la multa penal de 12.600 euros es una categoría distinta y no se suma.
 - **Identidad de un acusado.** Una información de prensa de 2014 describió a Luis García del Campillo como técnico de la Diputación, mientras que la sentencia del Supremo y otras fuentes lo describen como empleado de Raúl Babiloni con dependencia laboral respecto a él; en la ficha prevalece la descripción de la resolución judicial.
 - **Segundo apellido de un acusado.** No se ha confirmado el segundo apellido del empresario Raúl Babiloni, que figura en las fuentes judiciales y de prensa solo con el primero; se deja constancia de la laguna nominal.
 - **Solapamiento con otra ficha.** Francisco Martínez Capdevila y varios de sus familiares y socios aparecen también en la ficha del caso del PGOU de Vall d'Alba , una causa distinta (urbanismo en Vall d'Alba, instruida a partir de 2016) que no se modifica aquí.
 - **Novedades posteriores.** No se han localizado resoluciones ni noticias posteriores a 2017 que alteren la situación del caso de la depuradora de Borriol.
+
+## Alcance de la revisión de 17 de octubre de 2026
+
+El PDF oficial del Supremo (13 páginas) se ha obtenido por GET, HTTP200, y extraído a texto. Se han leído cabecera, antecedentes y hechos iniciales (1–4), el pasaje final de hechos y fallo de instancia (7), así como fundamentos finales y fallo de casación (12–13); no se declara una nueva lectura íntegra de todos los fundamentos. No se ha obtenido el archivo independiente de la Audiencia ni un expediente de ejecución. La desestimación de ambos recursos se verifica directamente; la ficha describe ese resultado sin inferir una fecha formal de firmeza, suspensión o cumplimiento por la ausencia de noticias posteriores.
+
+Se han leído los cuerpos de Cadena SER y El Mundo de 15 de abril de 2016 y de la crónica de Europa Press conservada por Iustel (datada en Valencia el 27 de febrero, publicada el 28 de febrero de 2017). Las identidades nominales se contrastan con esas crónicas; no se deducen de los seudónimos judiciales. SER identifica por error la sección primera, mientras el original del Supremo y El Mundo señalan la segunda: se mantiene la fuente judicial. El enlace original de Europa Press respondió HTTP200 pero mostró una noticia ajena sobre Dorantes, por lo que se sustituyó por la reproducción de Iustel realmente leída. Las páginas históricas adicionales descargadas no se presentan como íntegramente leídas; Las Provincias y dos enlaces de Levante devolvieron HTTP406, y la reproducción de iAgua, HTTP429.
+
+La exclusión de la parcela familiar y la ausencia de construcción constatada en 2016 no permiten afirmar por sí solas el estado del saneamiento municipal en 2026. Tampoco se convierte el importe expropiatorio previsto en daño probado. Las búsquedas sobre años posteriores incluyen otra causa de terrenos en Vall d'Alba, que no altera esta condena y no se mezcla con ella.
