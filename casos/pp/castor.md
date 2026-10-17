@@ -359,8 +359,7 @@ cronologia:
   titulo: Se autoriza el sellado y abandono definitivo de los 13 pozos
   descripcion: La Dirección General de Política Energética y Minas dicta resolución de 1 de abril de 2025 (publicada
     en el BOE el 14 de abril) por la que autoriza la ejecución del proyecto de sellado y abandono definitivo de
-    los trece pozos del almacén, con la plataforma jack-up Noble Resolve. La autorización preveía una duración de
-    seis a ocho meses; Enagás comunicó la finalización del sellado de los pozos el 5 de octubre de 2026; la fase
+    los trece pozos del almacén, con la plataforma jack-up Noble Resolve. Enagás comunicó la finalización del sellado de los pozos el 5 de octubre de 2026; la fase
     de superficie es distinta.
   type: documento
   relevancia: alta
