@@ -9,22 +9,21 @@ estado: "pendiente"
 descripcion: |
   El caso Erial es una causa judicial sobre el cobro de comisiones por la adjudicación de contratos públicos durante los gobiernos de Eduardo Zaplana al frente de la Generalitat Valenciana (1995-2002), principalmente la privatización de las estaciones de ITV (1997) y, en la parte investigada, el Plan Eólico de la Comunitat Valenciana (2003). La instrucción correspondió al Juzgado de Instrucción nº 8 de València y a la Fiscalía Anticorrupción; no a la Audiencia Nacional. Las comisiones habrían sido canalizadas a través de una red de sociedades y testaferros y ocultadas en cuentas y sociedades en el extranjero (Suiza, Luxemburgo, Andorra, Panamá).
 
-  Eduardo Zaplana fue detenido el 22 de mayo de 2018 en la operación Erial y permaneció en prisión provisional del 24 de mayo de 2018 al 7 de febrero de 2019 (259 días), fecha en que la jueza instructora acordó su libertad provisional con retirada del pasaporte y comparecencia periódica; no consta que la libertad se condicionara a una fianza de un millón de euros. El 15 de octubre de 2024 la Sección Cuarta de la Audiencia Provincial de València le condenó a 10 años y 5 meses de prisión como autor de prevaricación administrativa, cohecho, falsedad documental y blanqueo de capitales, con 17 años y 10 meses de inhabilitación especial para empleo o cargo público, 3 años de inhabilitación para su profesión y multas que en total superan los 25 millones de euros; fue absuelto del delito de grupo criminal. La sentencia, de 364 páginas, absolvió también del grupo criminal al resto de acusados y absolvió, entre otros, al expresidente valenciano José Luis Olivas y a la secretaria de Zaplana, Mitsouko Henríquez. Otros seis acusados fueron condenados con penas de entre 1 año y 3 meses y 5 años por conformidad con la Fiscalía. La sentencia no es firme: fue recurrida en casación ante el Tribunal Supremo por la defensa de Zaplana (recurso de 190 páginas presentado en marzo de 2025) y, según la última información localizada (prensa de enero-febrero de 2026), la causa seguía pendiente de resolución ante el Supremo, con Zaplana en libertad provisional. No se ha localizado sentencia del Tribunal Supremo ni un cambio de estado a fecha de esta revisión.
+  Eduardo Zaplana fue detenido el 22 de mayo de 2018 en la operación Erial y permaneció en prisión provisional del 24 de mayo de 2018 al 7 de febrero de 2019 (259 días), fecha en que la jueza instructora acordó su libertad provisional con retirada del pasaporte y comparecencia periódica; no consta que la libertad se condicionara a una fianza de un millón de euros. El 15 de octubre de 2024 la Sección Cuarta de la Audiencia Provincial de València le condenó a 10 años y 5 meses de prisión como autor de prevaricación administrativa, cohecho, falsedad documental y blanqueo de capitales, con 17 años y 10 meses de inhabilitación especial para empleo o cargo público, 3 años de inhabilitación para su profesión y multas que en total superan los 25 millones de euros; fue absuelto del delito de grupo criminal. La sentencia, de 364 páginas, absolvió también del grupo criminal al resto de acusados y absolvió, entre otros, al expresidente valenciano José Luis Olivas y a la secretaria de Zaplana, Mitsouko Henríquez. Otros seis acusados fueron condenados con penas de entre 1 año y 3 meses y 5 años; la prensa documenta pactos de conformidad de Barceló, García y los hermanos Cotino, sin que deban extenderse a todos los condenados. La sentencia no es firme: fue recurrida en casación ante el Tribunal Supremo por la defensa de Zaplana (recurso de 190 páginas presentado en marzo de 2025) y, según la última información localizada (EFE, 6 de septiembre de 2026), la causa seguía pendiente de resolución ante el Supremo, con Zaplana en libertad provisional. No se ha localizado sentencia del Tribunal Supremo ni un cambio de estado a fecha de esta revisión.
 
-  Limitaciones de la revisión: existen discrepancias entre fuentes oficiales y de prensa sobre la pena del exjefe de gabinete (2 años y 9 meses o 2 años y 11 meses); no se ha podido descargar el PDF de la sentencia (la ruta oficial de documentos devolvió error de servidor); y el contenido íntegro de las noticias de 2026 no pudo abrirse, por lo que la situación procesal más reciente se apoya en titulares y fechas de publicación verificados mediante agregadores. Las cuantías económicas son estimaciones de la investigación y no un perjuicio declarado judicialmente.
+  Limitaciones de la revisión al 17 de octubre de 2026: no se ha obtenido el texto íntegro de la sentencia. La nota oficial enlaza una resolución identificada como ECLI:ES:APV:2024:1209, pero el acceso final a CENDOJ devuelve HTTP 403. Subsiste la discrepancia sobre la pena de Juan Francisco García (2 años y 9 meses en prensa, 2 años y 11 meses en CGPJ). Además, la defensa de Francisco Pérez López denunció una contradicción entre absolución y condena en el fallo y anunció recurso, sin resolución aclaratoria localizada. La situación de casación se apoya en EFE de septiembre de 2026, leída íntegramente; no se ha localizado sentencia del Supremo posterior. Las comisiones estimadas, comisos y multas no se presentan como un perjuicio económico probado y no se suman.
 
-resumen: "Trama de comisiones por adjudicaciones de ITV y el Plan Eólico valencianos; Zaplana condenado en primera instancia (no firme) y recurso de casación pendiente ante el Supremo"
-coste: 10000000
+resumen: "Zaplana fue condenado en primera instancia a 10 años y 5 meses por la trama de las ITV; no se apreciaron pruebas suficientes sobre las adjudicaciones eólicas. EFE situaba la casación pendiente en septiembre de 2026; sin sentencia posterior localizada ni firmeza acreditada."
 lugar: "València, Comunitat Valenciana, España"
 tribunal:
   - "Juzgado de Instrucción nº 8 de València (instrucción)"
   - "Audiencia Provincial de València - Sección Cuarta (enjuiciamiento)"
   - "Fiscalía Anticorrupción"
   - "Tribunal Supremo - Sala de lo Penal (recurso de casación pendiente)"
-numeroSentencia: ""
+numeroSentencia: "ECLI:ES:APV:2024:1209 (identificador del enlace oficial; texto íntegro no obtenido)"
 implicados:
   - nombre: "Eduardo Zaplana"
-    cargo: "Expresidente de la Generalitat Valenciana (1995-2002) y exministro de Trabajo y Asuntos Sociales (1996-2000)"
+    cargo: "Expresidente de la Generalitat Valenciana (1995-2002) y exministro de Trabajo y Asuntos Sociales (2002-2004)"
     rol: "Condenado en primera instancia (sentencia no firme, recurso de casación pendiente) a 10 años y 5 meses de prisión por prevaricación, cohecho, falsedad documental y blanqueo de capitales; absuelto del delito de grupo criminal"
 
   - nombre: "Francisco Grau Jornet"
@@ -49,7 +48,7 @@ implicados:
 
   - nombre: "Francisco Pérez López"
     cargo: "Empresario"
-    rol: "Condenado en primera instancia a 1 año y 6 meses de prisión por un delito de falsedad"
+    rol: "La nota oficial comunica condena de 1 año y 6 meses por falsedad. Su defensa denunció que el fallo también lo absolvía genéricamente, pidió aclaración y anunció casación en octubre de 2024; no se ha localizado auto aclaratorio ni resultado definitivo"
 
   - nombre: "José Luis Olivas"
     cargo: "Expresidente de la Generalitat Valenciana (2002-2003)"
@@ -147,19 +146,20 @@ cronologia:
       - "https://www.eldiario.es/comunitat-valenciana/zaplana-recurre-supremo-condena-caso-erial-fundarse-conexion-disparatada-pruebas-prefabricadas_1_12124620.html"
       - "https://www.elmundo.es/espana/2025/03/12/67d14b4ae9cf4aa0518b4599.html"
 
-  - fecha: "2026-02-09"
-    titulo: "Se informa de que la causa sigue pendiente ante el Supremo (fecha de publicación)"
-    descripcion: "La fecha corresponde a la publicación de la noticia, no a una resolución judicial. Según la información periodística localizada, Zaplana seguía en libertad provisional a la espera de que el Tribunal Supremo resolviera su recurso de casación, siete años después de su salida de prisión. No se ha localizado sentencia del Supremo ni un cambio de estado a fecha de esta revisión; el contenido íntegro de la noticia no pudo abrirse, por lo que este dato se basa en el titular y la fecha de publicación verificados a través del índice de Google News."
-    type: "resumen"
-    relevancia: "media"
+  - fecha: "2026-09-06"
+    titulo: "EFE informa de que Zaplana aguarda la resolución del Supremo"
+    descripcion: "EFE informa de que Zaplana sigue en libertad provisional y aguarda el pronunciamiento del Supremo sobre su casación, estudiada desde marzo de 2025. Es la fecha de publicación, no la de una resolución judicial. No se ha localizado fallo posterior en la revisión hasta el 17 de octubre de 2026, sin que la ausencia de resultados pruebe su inexistencia."
+    type: "recurso"
+    relevancia: "alta"
     urls:
-      - "https://news.google.com/rss/search?q=Zaplana+cumple+siete+a%C3%B1os+en+libertad+provisional"
+      - "https://www.eldiario.es/comunitat-valenciana/zaplana-rus-aguardan-respuesta-recursos-oltra-fecha-juicio_1_13491123.html"
+
 ---
 
-## Notas de revisión (2026-10-01)
+## Notas de revisión (2026-10-17)
 
 ### Estado procesal
-- La sentencia de 15 de octubre de 2024 de la Sección Cuarta de la Audiencia Provincial de València **no es firme**. La última actuación oficial localizada es el auto de 11 de noviembre de 2024 que mantiene la libertad provisional y el recurso de casación presentado en marzo de 2025. Las noticias de enero y febrero de 2026 sitúan la causa pendiente ante el Tribunal Supremo, sin que se haya localizado resolución alguna del alto tribunal. Por ello el campo `estado` se fija como `pendiente` (de resolución del recurso de casación), y no como `sentencia firme` ni `cerrado con condenas`.
+- La sentencia de 15 de octubre de 2024 de la Sección Cuarta de la Audiencia Provincial de València **no es firme**. La última actuación oficial localizada es el auto de 11 de noviembre de 2024 que mantiene la libertad provisional y el recurso de casación presentado en marzo de 2025. La crónica de EFE de 6 de septiembre de 2026, leída íntegra, sitúa la casación pendiente ante el Tribunal Supremo, sin que se haya localizado resolución alguna del alto tribunal. Por ello el campo `estado` se fija como `pendiente` (de resolución del recurso de casación), y no como `sentencia firme` ni `cerrado con condenas`.
 - No se presume que la situación descrita se mantenga en octubre de 2026: es la última información documentada. Cualquier cambio posterior (señalamiento, vista o sentencia del Supremo) queda pendiente de verificación.
 
 ### Tribunal y origen
@@ -174,7 +174,7 @@ cronologia:
 - Los cargos de los implicados se expresan como históricos o "ex" para no presentarlos como vigentes. Los roles distinguen condenados en primera instancia (no firmes), absueltos y personas fallecidas.
 
 ### Sobre las cuantías (coste)
-- El campo `coste` (10.000.000 €) procede de la estimación de las comisiones investigadas difundida en 2018 y no es un perjuicio declarado judicialmente. El auto de apertura de juicio oral de 2022 cuantificaba en 20 millones de euros el dinero desviado y la Fiscalía solicitaba el decomiso de 20,6 millones; la sentencia impuso multas que superan los 25 millones. Estas cifras responden a conceptos distintos (comisiones, dinero desviado, decomiso y multas) y no deben sumarse entre sí.
+- Se retira el campo `coste`: la cifra de 10.000.000 € procedía de la estimación de las comisiones investigadas difundida en 2018 y no es un perjuicio declarado judicialmente. El auto de apertura de juicio oral de 2022 cuantificaba en 20 millones de euros el dinero desviado y la Fiscalía solicitaba el decomiso de 20,6 millones; la sentencia impuso multas que superan los 25 millones. Estas cifras responden a conceptos distintos (comisiones, dinero desviado, decomiso y multas) y no deben sumarse entre sí.
 
 ### Fechas de cronología retiradas o corregidas
 - Se retira el hito fechado el 01/06/2016 ("inicio de la investigación"): no correspondía a una fecha documentada.
@@ -184,6 +184,16 @@ cronologia:
 - Se retiran los hitos de 30/06/2022 (aplazamiento del juicio) y 15/01/2024 (continuación de la instrucción) porque sus URLs devuelven error 404 o carecían de fuente, y no se ha localizado su contenido íntegro.
 
 ### Documento oficial y limitaciones de fuentes
-- La sentencia de la Audiencia Provincial de València tiene el identificador oficial **ECLI:ES:APV:2024:1209** (enlazado desde la nota del CGPJ). El intento de descargar el PDF por la ruta pública del CGPJ (`/search/contenidos.action?action=accessToPDF...` y `/search/openDocument/...`) devolvió error de servidor (HTTP 500) tanto para esta resolución como para una resolución de control del Tribunal Supremo, por lo que no se ha podido verificar el documento en sí (páginas, fecha interna, fallo). El campo `documentos` se mantiene vacío.
-- Las noticias de enero y febrero de 2026 no pudieron abrirse íntegramente; la situación procesal más reciente se apoya en títulos y fechas de publicación de Levante-EMV (09/02/2026) y El Mundo (23/01/2026) verificados a través de índices de prensa, y debe considerarse pendiente de confirmación documental.
+- La sentencia de la Audiencia Provincial de València tiene el identificador oficial **ECLI:ES:APV:2024:1209** (enlazado desde la nota del CGPJ). El intento de descargar el PDF por la ruta pública del CGPJ (`/search/contenidos.action?action=accessToPDF...` y `/search/openDocument/...`) devolvió HTTP 403 en el destino CENDOJ de esta revisión, por lo que no se ha podido verificar el documento en sí (páginas, fecha interna, fallo). El campo `documentos` se mantiene vacío.
+- Se sustituye el anterior seguimiento basado en índices de prensa de enero-febrero de 2026 por la crónica íntegra de EFE de 6 de septiembre de 2026. Sigue pendiente localizar una resolución original del Supremo.
 - No se ha localizado el número de sentencia (el campo `numeroSentencia` queda vacío); el ECLI es el identificador verificable.
+
+## Comprobaciones y alcance de lectura
+
+Las notas oficiales del CGPJ de octubre y noviembre de 2024 se han leído íntegras. La primera aclara que no hubo pruebas incriminatorias suficientes sobre la participación de Zaplana y García en la adjudicación eólica a cambio de contraprestación; no se presenta la condena como si incluyera ese extremo. El juicio comenzó el 21 de marzo de 2024 y quedó visto para sentencia el 23 de mayo, según las crónicas contemporáneas de elDiario.es y Europa Press publicadas por Cadena SER.
+
+Se ha comprobado el nombramiento ministerial de Zaplana en el [Real Decreto 674/2002, de 9 de julio](https://boe.es/diario_boe/txt.php?id=BOE-A-2002-13577), publicado el 10 de julio, y su cese con continuidad en funciones en el [Real Decreto 449/2004, de 15 de marzo](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2004-4783), publicado el 16 de marzo. Se corrige el intervalo ministerial erróneo de la ficha.
+
+La [crónica de elDiario.es de 25 de octubre de 2024](https://www.eldiario.es/comunitat-valenciana/empresario-paco-gasofa-recurrira-supremo-sentencia-absuelve-condena-vez-caso-erial_1_11760156.html) documenta la solicitud de aclaración y el anuncio de casación de Francisco Pérez López. No se ha localizado respuesta judicial original; su situación no se equipara a una condena firme.
+
+`documentos: []` se mantiene porque el original judicial no ha podido descargarse; la nota del CGPJ no equivale a lectura de sus 364 páginas. Los enlaces de Levante de 2018 y 2019 devuelven HTTP 406 en esta revisión, por lo que los detalles históricos correspondientes no se consideran revalidados íntegramente.
