@@ -21,7 +21,7 @@ descripcion: 'El caso Brugal (acrónimo de "Basuras RUrales Gestión ALicante") 
   sentencia, fechada el 8 de enero de 2026 (SAP A 1/2026; ECLI:ES:APA:2026:1) y notificada a las partes el lunes
   12 de enero, condenó a 9 de los 33 acusados y absolvió a los 24 restantes, entre ellos el exalcalde José Manuel
   Medina. Fueron condenados, entre otros, Mónica Lorente (4 meses de prisión y 20 meses de inhabilitación), los
-  exconcejales Antonio Rodríguez Murcia (4 meses), Manuel Abadía (5 meses) y Ginés Sánchez (1 año), el interventor
+  exconcejales Antonio Rodríguez (4 meses), Manuel Abadía (5 meses) y Ginés Sánchez (1 año), el interventor
   José Manuel Espinosa (8 meses) y el empresario Ángel Fenoll (penas que suman 3 años y 9 meses). Cinco condenados
   deberán indemnizar solidariamente al Ayuntamiento de Orihuela con casi 600.000 euros. La nota del CGPJ que difundió
   el fallo indicó, al notificarlo, que cabía recurso de casación; no consta en fuentes primarias si se interpuso
@@ -31,7 +31,7 @@ descripcion: 'El caso Brugal (acrónimo de "Basuras RUrales Gestión ALicante") 
   Otras piezas con resoluciones documentadas: el PGOU de Alicante (la Audiencia condenó en julio de 2021 a multas
   por cohecho a Luis Díaz Alperi y al empresario Enrique Ortiz y absolvió a Sonia Castedo; el Tribunal Supremo confirmó
   en mayo de 2024 la condena de Ortiz y absolvió a Alperi por prescripción); el Plan Zonal de Residuos de la Vega
-  Baja (la Audiencia absolvió el 15 de octubre de 2024 a los 13 acusados, entre ellos Ripoll, Lorente, Fenoll y
+  Baja (el 15 de octubre de 2024 se publicó la absolución de los 13 acusados, entre ellos Ripoll, Lorente, Fenoll y
   Ortiz); y las basuras de Calp (la Audiencia condenó el 24 de octubre de 2022 al exalcalde Javier Morató, a los
   exediles Fernando Penella y Juan Roselló y a Ángel Fenoll; el Tribunal Supremo anuló esa sentencia por resolución
   156/2026, fechada el 24 de febrero de 2026 (ROJ STS 885/2026; ECLI:ES:TS:2026:885), difundida por el CGPJ el 3
@@ -39,8 +39,7 @@ descripcion: 'El caso Brugal (acrónimo de "Basuras RUrales Gestión ALicante") 
   pendiente de nueva resolución).
 
 
-  Importes documentados y su alcance: en Calp la sentencia de 2022 cifró las mordidas en 745.254 euros, de los que
-  120.202 euros se destinaron al club de fútbol local, pero esa resolución fue anulada por el Tribunal Supremo en
+  Importes documentados y su alcance: en Calp la sentencia de 2022 cifró las mordidas en 745.254 euros según elDiario.es, pero esa resolución fue anulada por el Tribunal Supremo en
   2026, por lo que la cifra no es un pronunciamiento firme. En Orihuela la sentencia de 8 de enero de 2026 fija
   una indemnización de casi 600.000 euros. La indemnización de Orihuela incluye 517.502,73 y 79.379,70 euros (596.882,43
   euros), además de una responsabilidad pendiente de cuantificación vinculada a Urbaser. No se ha localizado una
@@ -55,8 +54,7 @@ descripcion: 'El caso Brugal (acrónimo de "Basuras RUrales Gestión ALicante") 
   en 2026. Las fuentes no ofrecen una fecha única de inicio: distinguen las grabaciones iniciales, las diligencias
   de Fiscalía de noviembre de 2006 y la posterior investigación judicial. Las primeras detenciones constan en mayo
   de 2007, sin día contrastado. La ficha "Aguas de Calpe" de este repositorio documenta un procedimiento distinto
-  —presuntos sobrecostes en obras del agua de Calp, no la pieza de las basuras— y solo coincide en la persona de
-  Juan Roselló, allí citado como antecedente penal: no es la misma causa ni un duplicado de esta ficha.
+  —presuntos sobrecostes en obras del agua de Calp, no la pieza de las basuras— y comparte protagonistas como Juan Roselló y Francisco Artacho: sus resultados no se trasladan de una causa a otra.
 
   '
 resumen: Macrocausa de sobornos en contratos de basuras y residuos en la provincia de Alicante, con varias piezas
@@ -101,7 +99,7 @@ implicados:
   cargo: Interventor accidental del Ayuntamiento de Orihuela (1979-2005)
   rol: Condenado en la pieza matriz de Orihuela (sentencia de 8 de enero de 2026, notificada el 12 de enero) a 8
     meses de prisión por cohecho pasivo; no consta su estado procesal posterior.
-- nombre: Antonio Rodríguez Murcia
+- nombre: Antonio Rodríguez
   cargo: Exconcejal del Ayuntamiento de Orihuela (PP, 2007-2011)
   rol: Condenado en la pieza matriz de Orihuela (sentencia de 8 de enero de 2026, notificada el 12 de enero) a 4
     meses de prisión y 20 meses de inhabilitación por prevaricación en concurso con fraude; no consta su estado
@@ -182,7 +180,7 @@ cronologia:
   titulo: Se conoce la sentencia de la pieza del PGOU de Alicante
   descripcion: La Audiencia de Alicante condena a multas de 6.000 euros a Luis Díaz Alperi y de 18.000 euros al
     empresario Enrique Ortiz por cohecho, y absuelve a Sonia Castedo y al resto de los acusados por falta de pruebas
-    o prescripción. La sentencia es recurrida en casación.
+    o prescripción. La noticia anunciaba la posibilidad de casación; los recursos posteriores se documentan en el hito de 2024.
   type: sentencia
   urls:
   - https://www.rtve.es/noticias/20210714/caso-brugal-alicante-condenas-alperi-ortiz/2129640.shtml
@@ -229,7 +227,7 @@ cronologia:
     de la pieza matriz (SAP A 1/2026; ECLI:ES:APA:2026:1; resolución 1/2026; recurso 228/2017), fechada el 8 de
     enero de 2026 y notificada a las partes el lunes 12 de enero. Condena a 9 de los 33 acusados y absuelve a los
     24 restantes. Ángel Fenoll recibe penas que suman 3 años y 9 meses de prisión; Mónica Lorente y el exconcejal
-    Antonio Rodríguez Murcia, 4 meses de prisión y 20 de inhabilitación cada uno; Manuel Abadía, 5 meses; Ginés
+    Antonio Rodríguez, 4 meses de prisión y 20 de inhabilitación cada uno; Manuel Abadía, 5 meses; Ginés
     Sánchez, 1 año; y el interventor José Manuel Espinosa, 8 meses. Cinco condenados deben indemnizar solidariamente
     al Ayuntamiento de Orihuela con casi 600.000 euros. La versión del CENDOJ consta de 176 páginas. La nota del
     CGPJ recoge que la resolución podía recurrirse en casación; no consta el estado procesal posterior.
@@ -237,6 +235,7 @@ cronologia:
   urls:
   - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/-La-Audiencia-de-Alicante-condena-a-9-de-los-33-a-acusados-en-la-pieza-matriz-del--caso-Brugal---relativa-al-contrato-de-basuras-de-Orihuela
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=25490cd6d4927033a0a8778d75e36f0d&encode=true&databasematch=AN
+  - https://www.lavanguardia.com/local/valencia/20260112/11431377/condenan-exalcaldesa-orihuela-pp-pieza-relativa-basuras-caso-brugal.html
 - fecha: '2026-02-24'
   titulo: El Tribunal Supremo anula la sentencia de la pieza de Calp
   descripcion: La Sala de lo Penal del Tribunal Supremo dicta la sentencia que anula la de la pieza de las basuras
@@ -273,3 +272,5 @@ En las basuras de Calp, las condenas de 2022 quedaron anuladas por el Supremo el
 La sentencia de Orihuela fija 517.502,73 y 79.379,70 euros de responsabilidad civil solidaria, que suman 596.882,43 euros, y otra cantidad pendiente de liquidación vinculada a Urbaser. No se multiplica esa responsabilidad por el número de obligados. Las comisiones descritas en la sentencia de Calp de 2022 pertenecen a un fallo anulado; tampoco constituyen una cuantificación global del perjuicio de Brugal. Multas, comisiones, indemnizaciones y volumen de contratos responden a conceptos diferentes.
 
 La falta de comprobación de los recursos posteriores de Orihuela y del Plan Zonal y del nuevo fallo de Calp impide dar por cerrada la revisión de la macrocausa.
+
+Los nombres de los condenados y del exalcalde absuelto de Orihuela se contrastan con la [información nominal de enero de 2026](https://www.lavanguardia.com/local/valencia/20260112/11431377/condenan-exalcaldesa-orihuela-pp-pieza-relativa-basuras-caso-brugal.html), sin deducir identidades de los seudónimos de CENDOJ. Las fuentes de 2022 discrepan sobre el pago al club de fútbol de Calp; no se fija ese desglose sin el fallo original, posteriormente anulado.
