@@ -1,152 +1,166 @@
 ---
-nombre: "Caso Púnica/Murcia"
+nombre: Caso Púnica/Murcia
 partido: PP
-completado: true
+completado: false
 año: 2014
-fechaInicio: 2014-10-27
-fechaFin: 2025-09-15
-estado: "cerrado con condenas"
-descripcion: |
-  La rama murciana del Caso Púnica investiga el desvío de fondos públicos de la Consejería de Turismo de la Región de Murcia y el Ayuntamiento de Cartagena para financiar servicios de mejora de reputación digital de políticos del PP, especialmente del exconsejero Juan Carlos Ruiz López. Entre 2014 y 2015, altos cargos de la administración regional contrataron irregularmente a empresas vinculadas al empresario Alejandro de Pedro para realizar trabajos destinados a mejorar la imagen personal de responsables políticos en internet, ocultando el verdadero propósito bajo la apariencia de contratos institucionales para promocionar turísticamente la Región de Murcia.
+estado: Condenas de primera instancia y archivos individuales
+descripcion: 'La pieza separada 3 de Púnica, enjuiciada como procedimiento abreviado 6/2022, se centra en la concertación
+  para financiar la reputación digital personal del consejero murciano Juan Carlos Ruiz mediante un contrato institucional
+  del Instituto de Turismo adjudicado a MADIVA. La sentencia 23/2025 de la Sección Primera de la Sala de lo Penal
+  de la Audiencia Nacional, fechada el 1 de septiembre de 2025 y difundida el 8 de septiembre, condenó a nueve personas.
+  El juicio comenzó el 13 de enero de 2025.
 
-  El esquema fraudulento fue diseñado por Alejandro de Pedro y José Antonio Alonso (exalcalde de Cartagena), quienes gestionaron a través de José Fidel Saura (jefe de gabinete) y María Dolores Martínez Robles (directora del Instituto de Turismo) un acuerdo para mejorar la reputación online de Juan Carlos Ruiz antes de las elecciones autonómicas de mayo de 2015. Los contratos simulaban servicios de promoción turística internacional cuando en realidad financiaban informes de análisis de presencia digital, gestión de contenidos favorables en redes sociales y eliminación de información negativa sobre los políticos beneficiarios. Los trabajos se pagaron con dinero público mediante facturas infladas que ocultaban la verdadera naturaleza de los servicios prestados.
 
-  Tras una década de investigación judicial iniciada con la macrooperación Púnica de octubre de 2014, la Audiencia Nacional celebró el juicio en enero de 2025 y dictó sentencia en septiembre de 2025 condenando a nueve personas, entre ellas el exconsejero Juan Carlos Ruiz y el exalcalde José Antonio Alonso, a penas de hasta cuatro años de prisión por delitos de fraude a la administración y cohecho. Pedro Antonio Sánchez, expresidente de la Región de Murcia, fue inicialmente investigado por intentar contratar servicios similares de la trama Púnica para mejorar su imagen antes de las elecciones de 2015, pero finalmente fue sobreseído en julio de 2020 al no llegarse a formalizar el contrato porque la operación policial se adelantó.
+  Ruiz, José Fidel Saura y María Dolores Martínez Robles recibieron cada uno un año de prisión por fraude y tres
+  por cohecho pasivo, además de inhabilitaciones por fraude, prevaricación y cohecho y multa de doce meses a diez
+  euros diarios. Alejandro de Pedro y José Antonio Alonso Conesa, exalcalde de Cartagena por el PSOE, recibieron
+  cada uno un año por fraude y tres por cohecho activo, multa e inhabilitaciones para contratar y recibir ayudas
+  públicas. Jesús Norberto Galindo y Agustín Alonso recibieron un año de prisión cada uno, y Francisco Javier Bueno
+  y Sara Gargallo seis meses cada uno, por fraude con distinta participación. Los cinco particulares fueron absueltos
+  de prevaricación. La sentencia no impone responsabilidad civil porque no se produjo perjuicio económico, ni acuerda
+  comiso; los presupuestos o contratos no equivalen a daño probado.
 
-resumen: "Desvío de fondos públicos en Murcia para financiar mejora de reputación digital de políticos del PP mediante contratos simulados"
-coste: 32200
-lugar: "Región de Murcia, Cartagena"
+
+  La sentencia declara expresamente que no es firme y que cabe casación. No se ha documentado el resultado de eventuales
+  recursos ni su ejecución al 17 de octubre de 2026. Una magistrada discrepó sobre el cohecho, el concurso de delitos
+  y las referencias a personas no acusadas. Los hechos de Educación y Cartagena y parte de los relativos al Instituto
+  de Fomento quedaron fuera del enjuiciamiento: no deben trasladarse las condenas a Pedro Antonio Sánchez, Pilar
+  Barreiro ni otras personas sobreseídas. Barreiro obtuvo sobreseimiento provisional en el Supremo el 25 de octubre
+  de 2018; el archivo de Sánchez fue confirmado según información de octubre de 2020, cuyo original no se ha recuperado.
+  Estos límites impiden considerar cerrada de forma uniforme toda la rama murciana.'
+resumen: Nueve condenados por el contrato de reputación digital de Juan Carlos Ruiz; archivos diferenciados y firmeza
+  posterior no documentada.
+lugar: Región de Murcia
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 6 - Juez Eloy Velasco (2014-2017)"
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 6 - Juez Manuel García Castellón (2017-2025)"
-  - "Audiencia Nacional - Sala de lo Penal - Sentencia septiembre 2025"
-numeroSentencia: ""
+- Juzgado Central de Instrucción nº 6
+- Audiencia Nacional, Sala de lo Penal, Sección Primera
+- Audiencia Nacional, Sala de lo Penal, Sección Cuarta (recursos de instrucción)
+- Tribunal Supremo, Sala Segunda (causa separada de Pilar Barreiro)
+numeroSentencia: 23/2025, de 1 de septiembre (PA 6/2022, pieza separada 3 de DP 85/2014)
 implicados:
-  - nombre: "Juan Carlos Ruiz López"
-    cargo: "Exconsejero de Turismo, Comercio y Consumo de la Región de Murcia (PP)"
-    rol: "Condenado a 4 años de prisión y 7 años inhabilitación"
-
-  - nombre: "José Antonio Alonso Conesa"
-    cargo: "Exalcalde de Cartagena, intermediario de la trama"
-    rol: "Condenado a 4 años de prisión por cohecho y fraude"
-
-  - nombre: "María Dolores Martínez Robles"
-    cargo: "Exdirectora general del Instituto de Turismo de Murcia"
-    rol: "Condenada a 4 años de prisión y 7 años inhabilitación"
-
-  - nombre: "José Fidel Saura"
-    cargo: "Exjefe de gabinete de la Consejería de Turismo"
-    rol: "Condenado a 4 años de prisión y 7 años inhabilitación"
-
-  - nombre: "Alejandro de Pedro"
-    cargo: "Empresario, intermediario de la trama Púnica"
-    rol: "Condenado a 4 años de prisión por cohecho y fraude"
-
-  - nombre: "Jesús Norberto Galindo"
-    cargo: "Ex secretario general del Instituto de Turismo de Murcia"
-    rol: "Condenado a 1 año de prisión y 7 años inhabilitación"
-
-  - nombre: "Agustín Alonso"
-    cargo: "Implicado en la trama"
-    rol: "Condenado a 1 año de prisión"
-
-  - nombre: "Sara Gargallo"
-    cargo: "Empleada de empresas implicadas"
-    rol: "Condenada a 6 meses de prisión"
-
-  - nombre: "Francisco Javier Bueno"
-    cargo: "Empleado de empresas implicadas"
-    rol: "Condenado a 6 meses de prisión"
-
-  - nombre: "Pedro Antonio Sánchez López"
-    cargo: "Expresidente de la Región de Murcia (2014-2017)"
-    rol: "Investigado; sobreseído en julio 2020 al no formalizarse el contrato"
-
-  - nombre: "Pilar Barreiro"
-    cargo: "Exalcaldesa de Cartagena (PP)"
-    rol: "Investigada junto a Pedro Antonio Sánchez; sobreseída"
-
-  - nombre: "David Conesa"
-    cargo: "Asesor de comunicación de Pedro Antonio Sánchez"
-    rol: "Citado en investigación; autorizó inicio de trabajos de reputación"
-
+- nombre: Juan Carlos Ruiz López
+  cargo: Exconsejero de Industria, Turismo, Empresa e Innovación de Murcia (PP)
+  rol: Condenado en sentencia 23/2025; firmeza y ejecución posteriores no documentadas. Un año de prisión por fraude
+    y tres por cohecho pasivo; inhabilitaciones especiales para empleo o cargo público de seis años por fraude,
+    siete por prevaricación y siete por cohecho; multa de doce meses a diez euros diarios.
+- nombre: José Fidel Saura Guerrero
+  cargo: Exjefe de gabinete del consejero Juan Carlos Ruiz
+  rol: Condenado en sentencia 23/2025; firmeza y ejecución posteriores no documentadas. Un año de prisión como cooperador
+    necesario del fraude y tres por cohecho pasivo; inhabilitaciones para empleo o cargo público de seis años por
+    fraude, siete por prevaricación y siete por cohecho; multa de doce meses a diez euros diarios.
+- nombre: María Dolores Martínez Robles
+  cargo: Exdirectora del Instituto de Turismo de Murcia
+  rol: Condenado en sentencia 23/2025; firmeza y ejecución posteriores no documentadas. Un año de prisión por fraude
+    y tres por cohecho pasivo; inhabilitaciones para empleo o cargo público de seis años por fraude, siete por prevaricación
+    y siete por cohecho; multa de doce meses a diez euros diarios.
+- nombre: Alejandro de Pedro Llorca
+  cargo: Empresario de EICO y MADIVA
+  rol: Condenado en sentencia 23/2025; firmeza y ejecución posteriores no documentadas. Un año de prisión por fraude
+    y tres por cohecho activo; multa de doce meses a diez euros diarios e inhabilitaciones para contratar y recibir
+    ayudas públicas de dos y tres años, respectivamente. Absuelto de prevaricación.
+- nombre: José Antonio Alonso Conesa
+  cargo: Exalcalde de Cartagena por el PSOE; empresario
+  rol: Condenado en sentencia 23/2025; firmeza y ejecución posteriores no documentadas. Un año de prisión por fraude
+    y tres por cohecho activo; multa de doce meses a diez euros diarios e inhabilitaciones para contratar y recibir
+    ayudas públicas de dos y tres años, respectivamente. Absuelto de prevaricación.
+- nombre: Jesús Norberto Galindo Sánchez
+  cargo: Exsecretario general del Instituto de Turismo de Murcia
+  rol: Condenado en sentencia 23/2025; firmeza y ejecución posteriores no documentadas. Un año de prisión como cooperador
+    necesario de fraude; seis años de inhabilitación para empleo o cargo público por fraude y siete por prevaricación.
+- nombre: Agustín Alonso Conesa
+  cargo: Empresario
+  rol: Condenado en sentencia 23/2025; firmeza y ejecución posteriores no documentadas. Un año de prisión por fraude
+    e inhabilitación para contratar y recibir ayudas públicas de dos años. Absuelto de prevaricación.
+- nombre: Sara Gargallo Rico
+  cargo: Empleada del entorno empresarial EICO/MADIVA
+  rol: Condenado en sentencia 23/2025; firmeza y ejecución posteriores no documentadas. Seis meses de prisión como
+    cómplice de fraude e inhabilitación para contratar y recibir ayudas públicas de un año. Absuelta de prevaricación.
+- nombre: Francisco Javier Bueno González
+  cargo: Empleado del entorno empresarial EICO/MADIVA
+  rol: Condenado en sentencia 23/2025; firmeza y ejecución posteriores no documentadas. Seis meses de prisión como
+    cómplice de fraude e inhabilitación para contratar y recibir ayudas públicas de un año. Absuelto de prevaricación.
+- nombre: Pedro Antonio Sánchez López
+  cargo: Exconsejero de Educación y expresidente de Murcia (PP)
+  rol: Fuera del juicio de la sentencia 23/2025; archivo confirmado según la información publicada el 27 de octubre
+    de 2020. No se trasladan resultados de Auditorio u otras causas.
+- nombre: Pilar Barreiro
+  cargo: Exalcaldesa de Cartagena y entonces senadora del PP
+  rol: Sobreseimiento provisional por auto del Supremo de 25 de octubre de 2018; no sentencia absolutoria ni condena
+    en esta pieza.
+- nombre: David Conesa
+  cargo: Persona investigada en la rama murciana según información de febrero de 2020
+  rol: La noticia de 20 de febrero de 2020 lo incluye entre los sobreseídos; original y evolución individual posterior
+    no recuperados. No figura entre los nueve condenados de 2025.
 tags:
-  - "corrupción"
-  - "fraude"
-  - "cohecho"
-  - "prevaricación"
-  - "tráfico de influencias"
-  - "malversación"
-  - "contratos públicos"
-  - "reputación digital"
-
-impactoSocial: "La pieza murciana del Caso Púnica provocó la dimisión del presidente regional Pedro Antonio Sánchez en abril de 2017 ante la presión política por las investigaciones judiciales. El escándalo evidenció el uso sistemático de fondos públicos para mejorar la imagen personal de políticos del PP en internet, una práctica que nada tenía que ver con la gestión institucional. Las condenas firmes de 2025 suponen un hito en la lucha contra la corrupción política en la Región de Murcia."
-
-documentos: []
-
+- fraude
+- cohecho
+- prevaricación
+- contratación pública
+- reputación digital
+impactoSocial: La pieza examina la utilización de contratos institucionales para beneficiar la imagen personal de
+  un responsable político. Sus pronunciamientos tienen alcance individual y no resuelven todas las piezas de Púnica.
+documentos:
+- fecha: '2025-09-01'
+  titulo: Sentencia 23/2025 de la Audiencia Nacional, con voto particular; copia judicial alojada en un repositorio
+    externo
+  filetype: pdf
+  paginas: 197
+  nombre_fichero: https://www.losgenoveses.net/Caso%20Punica/03.%20PS3%20Murcia/Punica.%20PS3%20Murcia.%20Sentencia%20condenatoria%20Consejero%20de%20Industria,%20Alex%20de%20Pedro%20y%20otros.%2001.09.25..pdf
+- fecha: '2018-10-25'
+  titulo: 'Auto del Tribunal Supremo: sobreseimiento provisional de la causa relativa a Pilar Barreiro (ECLI:ES:TS:2018:10731A)'
+  filetype: pdf
+  paginas: 8
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=f7f8c5b5b8671a7a&encode=true&databasematch=AN
 cronologia:
-  - fecha: 2014-06-11
-    titulo: "Reunión entre Alejandro de Pedro y Pedro Antonio Sánchez"
-    descripcion: "Alejandro de Pedro presenta a Pedro Antonio Sánchez un informe de 'pre-venta' sobre su reputación digital, revelando que el 70% de la información sobre él en internet es negativa, principalmente relacionada con acusaciones judiciales sobre la compra de su vivienda. La reunión se celebra en Madrid con asistencia de Pilar Barreiro, exalcaldesa de Cartagena."
-    type: "investigación"
-    urls:
-      - "https://es.wikipedia.org/wiki/Operación_Púnica"
-
-  - fecha: 2014-09-01
-    titulo: "David Conesa autoriza el inicio de trabajos de reputación"
-    descripcion: "David Conesa, asesor de comunicación de Pedro Antonio Sánchez, se reúne con Alejandro de Pedro y supuestamente autoriza el inicio de trabajos de mejora de reputación digital para el político murciano a partir del 1 de noviembre de 2014. El acuerdo contemplaba un pago de 32.200 euros con fondos públicos."
-    type: "investigación"
-    urls: []
-
-  - fecha: 2014-10-27
-    titulo: "Operación Púnica: desarticulación de la trama"
-    descripcion: "La Guardia Civil ejecuta la macrooperación Púnica coordinada por el juez Eloy Velasco, deteniendo a 51 personas en Madrid, Murcia, León y Valencia por corrupción urbanística y adjudicación irregular de contratos públicos. La intervención policial se adelanta días antes de que Pedro Antonio Sánchez firmara el contrato con la red de Alejandro de Pedro, impidiendo su formalización."
-    type: "detención"
-    urls:
-      - "https://www.eldiario.es/politica/lista-empresarios-detenidos-operacion-punica_1_4556780.html"
-
-  - fecha: 2016-05-01
-    titulo: "La UCO propone imputar a Pedro Antonio Sánchez y Pilar Barreiro"
-    descripcion: "La Unidad Central Operativa de la Guardia Civil presenta un informe al juez Eloy Velasco solicitando la imputación del presidente de Murcia Pedro Antonio Sánchez y la exalcaldesa de Cartagena Pilar Barreiro por presuntos delitos de malversación de caudales públicos y fraude a la administración, relacionados con el intento de contratar a la red Púnica para mejorar su imagen en internet antes de las elecciones autonómicas de mayo de 2015."
-    type: "imputación"
-    urls:
-      - "https://www.publico.es/politica/guardia-civil-pide-imputar-presidente-murcia-punica.html"
-      - "https://es.wikipedia.org/wiki/Operación_Púnica"
-
-  - fecha: 2017-04-04
-    titulo: "Dimisión de Pedro Antonio Sánchez como presidente de Murcia"
-    descripcion: "Pedro Antonio Sánchez presenta su dimisión como presidente de la Región de Murcia tras semanas de presión política derivada de las investigaciones judiciales sobre su implicación en el Caso Púnica y otros casos de corrupción como el del Auditorio de Puerto Lumbreras. Ciudadanos había condicionado su apoyo al gobierno del PP a su salida. Aunque alega motivos personales, la decisión está directamente vinculada a las acusaciones judiciales."
-    type: "resumen"
-    urls:
-      - "https://www.eleconomista.es/noticias/noticias/8270177/04/17/Dimite-el-presidente-de-Murcia-Pedro-Antonio-Sanchez-investigado-por-corrupcion.html"
-
-  - fecha: 2017-09-01
-    titulo: "Pedro Antonio Sánchez renuncia como diputado regional y presidente del PP"
-    descripcion: "Pedro Antonio Sánchez anuncia su renuncia a su escaño como diputado regional y a la presidencia del Partido Popular de Murcia, alegando razones personales para ayudar a su partido. La decisión se produce después de recibir la acusación formal en el caso del Auditorio de Puerto Lumbreras, aunque no menciona públicamente este hecho."
-    type: "resumen"
-    urls: []
-
-  - fecha: 2020-07-01
-    titulo: "Sobreseimiento de Pedro Antonio Sánchez en el Caso Púnica"
-    descripcion: "La Audiencia Nacional confirma el sobreseimiento y archivo de la investigación contra el expresidente de Murcia Pedro Antonio Sánchez en la pieza murciana del Caso Púnica. La resolución judicial determina que, aunque existieron contactos y negociaciones preliminares con la trama para contratar servicios de reputación digital, el contrato nunca llegó a formalizarse ni ejecutarse debido a que la operación policial se adelantó en octubre de 2014."
-    type: "investigación"
-    urls:
-      - "https://es.wikipedia.org/wiki/Operación_Púnica"
-
-  - fecha: 2025-01-13
-    titulo: "Comienza el juicio de la pieza murciana en la Audiencia Nacional"
-    descripcion: "Arranca en la Audiencia Nacional el juicio oral contra los acusados en la rama murciana del Caso Púnica. El tribunal examina cómo altos cargos del gobierno regional y empresarios desviaron fondos públicos para financiar servicios de mejora de reputación digital de políticos, principalmente del exconsejero de Turismo Juan Carlos Ruiz. La Fiscalía solicita penas de hasta cuatro años de prisión para los principales implicados por delitos de fraude a la administración y cohecho."
-    type: "investigación"
-    urls:
-      - "https://www.noticiasdenavarra.com/politica/2025/01/13/comienza-juicio-rama-murciana-caso-9149118.html"
-      - "https://www.infolibre.es/politica/audiencia-nacional-juzga-lunes-rama-murciana-caso-punica_1_1927587.html"
-
-  - fecha: 2025-09-08
-    titulo: "Sentencia: condenas de hasta cuatro años de prisión"
-    descripcion: "La Audiencia Nacional dicta sentencia en la pieza murciana del Caso Púnica, condenando a nueve personas por delitos de fraude a la administración y cohecho. Juan Carlos Ruiz López (exconsejero de Turismo), José Antonio Alonso (exalcalde de Cartagena), María Dolores Martínez Robles (exdirectora del Instituto de Turismo), José Fidel Saura (exjefe de gabinete) y Alejandro de Pedro (empresario) reciben penas de cuatro años de prisión cada uno. El tribunal considera probado que utilizaron recursos públicos para financiar trabajos de reputación digital personal encubiertos bajo contratos simulados de promoción turística. Otros cuatro implicados reciben condenas menores. La sentencia impone además inhabilitaciones de hasta siete años para desempeñar cargos públicos."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/murcia/politica/trama-murciana-caso-punica-acaba-nueve-condenados-decada-despues_1_12587138.html"
-      - "https://murciaeconomia.com/art/102536/la-audiencia-nacional-dicta-las-primeras-condenas-firmes-en-la-trama-de-la-region-de-murcia-de-la-punica"
-      - "https://lasnoticiasrm.es/2025/09/condenas-prision-cohecho-fraude-punica/"
+- fecha: '2018-10-25'
+  titulo: El Supremo acuerda el archivo provisional respecto de Barreiro
+  descripcion: El auto aplica el artículo 641.1 de la LECrim por insuficiencia de indicios. Previene posible reapertura
+    con nuevos elementos y no extiende el archivo al resto de Púnica.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=f7f8c5b5b8671a7a&encode=true&databasematch=AN
+- fecha: '2020-02-19'
+  titulo: Transformación en procedimiento abreviado y delimitación del juicio
+  descripcion: 'La sentencia de 2025 recoge el auto instructor de esta fecha: la contratación del Instituto de Turismo
+    continúa; los hechos de otras instituciones y personas quedan excluidos con alcance individual. La información
+    del día siguiente incluye a Sánchez y David Conesa entre los sobreseídos.'
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://www.losgenoveses.net/Caso%20Punica/03.%20PS3%20Murcia/Punica.%20PS3%20Murcia.%20Sentencia%20condenatoria%20Consejero%20de%20Industria,%20Alex%20de%20Pedro%20y%20otros.%2001.09.25..pdf
+  - https://cadenaser.com/emisora/2020/02/20/radio_murcia/1582201888_070051.html
+- fecha: '2020-10-27'
+  titulo: Se publica una nueva confirmación del archivo de Sánchez
+  descripcion: 'La crónica informa de la desestimación de la petición de nulidad de la Fiscalía contra el auto de
+    31 de julio de 2020. Es fecha de publicación: no se ha verificado la fecha del nuevo auto ni su original.'
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://el-lorquino.com/region-de-murcia/la-audiencia-nacional-confirma-el-sobreseimiento-de-la-causa-contra-el-expresidente-de-la-region-de-murcia-pedro-antonio-sanchez/102864/
+- fecha: '2025-01-13'
+  titulo: Comienza el juicio de la pieza separada 3
+  descripcion: La fecha de inicio consta en los antecedentes de la sentencia. Las entidades MADIVA y EICO dejaron
+    de ser acusadas por retirada de la acción penal; Duravit fue excluida del enjuiciamiento, según esos antecedentes.
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://www.losgenoveses.net/Caso%20Punica/03.%20PS3%20Murcia/Punica.%20PS3%20Murcia.%20Sentencia%20condenatoria%20Consejero%20de%20Industria,%20Alex%20de%20Pedro%20y%20otros.%2001.09.25..pdf
+- fecha: '2025-09-01'
+  titulo: 'Sentencia 23/2025: nueve condenados y absoluciones parciales'
+  descripcion: Cinco penas de cuatro años de prisión, dos de un año y dos de seis meses; los cinco particulares
+    son absueltos de prevaricación. No procede responsabilidad civil por ausencia de perjuicio económico ni comiso.
+    La resolución es recurrible en casación y contiene voto particular.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.losgenoveses.net/Caso%20Punica/03.%20PS3%20Murcia/Punica.%20PS3%20Murcia.%20Sentencia%20condenatoria%20Consejero%20de%20Industria,%20Alex%20de%20Pedro%20y%20otros.%2001.09.25..pdf
 ---
+
+El objeto juzgado es la pieza separada 3, no la totalidad de las actuaciones murcianas ni la macrocausa Púnica. La contratación del Instituto de Turismo sirvió para encubrir los trabajos reputacionales de Juan Carlos Ruiz. Las referencias de la sentencia a Educación, Cartagena o personas no acusadas no deben convertirse en condenas ni en hechos penales resueltos contra ellas. El voto particular objeta expresamente ese tratamiento del contexto, además de discrepar del cohecho, de la participación de particulares en prevaricación y de la acumulación de penas.
+
+El fallo distingue fraude, prevaricación y cohecho. Para Ruiz, Saura y Martínez impone inhabilitaciones separadas de seis, siete y siete años por esos delitos; no una única inhabilitación de siete años. Para Galindo son seis años por fraude y siete por prevaricación. Los particulares tienen prohibiciones de contratar y recibir ayudas públicas, además de las penas de prisión, multas en los casos de cohecho, sufragio pasivo y costas expresadas en el [fallo de 2025](https://www.losgenoveses.net/Caso%20Punica/03.%20PS3%20Murcia/Punica.%20PS3%20Murcia.%20Sentencia%20condenatoria%20Consejero%20de%20Industria,%20Alex%20de%20Pedro%20y%20otros.%2001.09.25..pdf). No se presenta su duración acumulada como ejecución ya determinada.
+
+El fundamento noveno no declara responsabilidad civil porque no hubo perjuicio económico y el décimo no acuerda comiso. Por ello no se asigna a la causa como daño el presupuesto de 32.200 euros de la ficha anterior ni se suman contratos o multas. La inexistencia de responsabilidad civil en esta sentencia tampoco elimina las condenas por delitos de concertación.
+
+El [auto original del Supremo de 2018](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=f7f8c5b5b8671a7a&encode=true&databasematch=AN), vinculado nominalmente a Barreiro por la [nota oficial](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-archiva-la-causa-contra-la-senadora-del-Partido-Popular-Pilar-Barreiro), dispone sobreseimiento provisional, aunque el voto particular de 2025 lo describa como definitivo. Se conserva la calificación del propio auto. El archivo de Sánchez se sigue mediante la [información de octubre de 2020](https://el-lorquino.com/region-de-murcia/la-audiencia-nacional-confirma-el-sobreseimiento-de-la-causa-contra-el-expresidente-de-la-region-de-murcia-pedro-antonio-sanchez/102864/); faltan sus resoluciones originales. La condena de 2025 dice que cabe casación: sin documentación posterior no se afirma firmeza, recurso actualmente pendiente ni ingreso en prisión. La copia judicial de 197 páginas está alojada fuera del portal judicial; el auto de Barreiro procede de CENDOJ.
