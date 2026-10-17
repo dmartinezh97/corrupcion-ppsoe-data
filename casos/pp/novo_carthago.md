@@ -60,8 +60,9 @@ implicados:
   rol: Incluido por la prensa en los siete acusados por prevaricación absueltos en 2025.
 - nombre: Luis Romera
   cargo: Antiguo asesor jurídico de Urbanismo de Murcia
-  rol: Incluido por SER entre los siete acusados absueltos en 2025. Otras noticias lo denominan Luis María Romero
-    Agulló o Luis María Romera; pendiente cotejo nominal judicial, sin reconstruir la identidad desde los seudónimos
+  rol: SER lo incluyó en marzo de 2023 entre los acusados, con el nombre Luis Manuel Romera. Las crónicas de 2025
+    publicaron las variantes Luis María Romero Agulló y Luis María Romera. La sentencia absolvió a los siete
+    enjuiciados; queda pendiente cotejar el nombre completo en una resolución nominal, sin identificar seudónimos
     del CENDOJ.
 - nombre: Carlos Brugarolas
   cargo: Exdirector general de Medio Natural de Murcia
