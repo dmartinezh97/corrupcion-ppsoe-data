@@ -129,16 +129,16 @@ implicados:
   rol: Absuelto de los delitos por los que venía siendo acusado, según el fallo nominal de la Audiencia; absolución
     no alterada por el Supremo. La inclusión no implica condena ni participación delictiva probada.
 - nombre: Elisa Maldonado Garrido
-  cargo: Acusado en la pieza Nóos
-  rol: Absuelto de los delitos por los que venía siendo acusado, según el fallo nominal de la Audiencia; absolución
+  cargo: Acusada en la pieza Nóos
+  rol: Absuelta de los delitos por los que venía siendo acusada, según el fallo nominal de la Audiencia; absolución
     no alterada por el Supremo. La inclusión no implica condena ni participación delictiva probada.
 - nombre: Alfonso Grau Alonso
   cargo: Acusado en la pieza Nóos
   rol: Absuelto de los delitos por los que venía siendo acusado, según el fallo nominal de la Audiencia; absolución
     no alterada por el Supremo. La inclusión no implica condena ni participación delictiva probada.
 - nombre: Mercedes Coghen Alberdingk-Thijm
-  cargo: Acusado en la pieza Nóos
-  rol: Absuelto de los delitos por los que venía siendo acusado, según el fallo nominal de la Audiencia; absolución
+  cargo: Acusada en la pieza Nóos
+  rol: Absuelta de los delitos por los que venía siendo acusada, según el fallo nominal de la Audiencia; absolución
     no alterada por el Supremo. La inclusión no implica condena ni participación delictiva probada.
 - nombre: Salvador Trinxet Llorca
   cargo: Acusado en la pieza Nóos
