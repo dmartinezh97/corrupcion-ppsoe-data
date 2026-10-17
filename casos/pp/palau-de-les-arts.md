@@ -1,146 +1,160 @@
 ---
-nombre: "Palau de les Arts"
-partido: "PP"
-completado: true
+nombre: Palau de les Arts
+partido: PP
+completado: false
 año: 2013
-fechaInicio: "1997-01-01"
-fechaFin: "2020-03-06"
-estado: "sobreseimiento"
-descripcion: |
-  El Palau de les Arts Reina Sofía de Valencia, diseñado por el arquitecto Santiago Calatrava e impulsado por los gobiernos del PP en la Generalitat Valenciana, se convirtió en uno de los mayores escándalos de corrupción y derroche público de la Comunitat Valenciana. El edificio, construido entre 1997 y 2005 dentro de la Ciudad de las Artes y las Ciencias, multiplicó por más de cuatro su presupuesto inicial: de los 109 millones de euros previstos se llegó a gastar 478 millones. Durante las presidencias de Eduardo Zaplana y Francisco Camps, el arquitecto Calatrava tuvo amplia libertad para introducir modificaciones y cobrar modificados millonarios, acumulando sobrecostes estimados en centenares de millones de euros atribuibles a deficiencias y errores de diseño.
+estado: Absolución en la causa de gestión
+descripcion: 'La causa penal sobre la gestión del Palau de les Arts Reina Sofía de València examinó contratos de
+  patrocinio, organización de eventos y trabajos de diseño e impresión de los años 2008–2011. La Sección Segunda
+  de la Audiencia Provincial de Valencia absolvió a los cuatro enjuiciados: Ernesto Moreno, José Antonio Noguera
+  Puchol, Joaquín Maldonado y Pablo Broseta. La sentencia se notificó y se conoció el 6 de marzo de 2020; no fue
+  un sobreseimiento. Las fuentes de entonces indicaban que cabía recurso de casación. No se ha obtenido el fallo
+  original ni documentación suficiente sobre eventuales recursos posteriores y firmeza individual, por lo que no
+  se presenta esa fecha como cierre definitivo.
 
-  Además del desbordamiento del coste de construcción, el edificio presentó graves problemas técnicos desde el principio. En diciembre de 2013 comenzaron a desprenderse piezas de trencadís (revestimiento cerámico) de su característica cubierta, lo que obligó a cerrar el Palau por razones de seguridad y a suspender representaciones en curso. Se comprobó que el 60% de la superficie de la cubierta estaba suelta, siendo necesario desmontar todo el revestimiento cerámico. El coste de la operación de retirada superó los 3 millones de euros. Tras arduas negociaciones, en septiembre de 2014 se alcanzó un acuerdo por el que Calatrava y la UTE constructora asumían la reposición del trencadís sin coste para la Generalitat.
 
-  En paralelo, una investigación judicial destapó presuntas irregularidades en la gestión interna del Palau entre 2008 y 2011. Un informe de la Intervención de la Generalitat de 2013 concluyó que la intendente Helga Schmidt había adjudicado contratos a empresas vinculadas a ella misma sin seguir los procedimientos legales de publicidad y concurrencia, en especial a través de la empresa Patrocini de Les Arts, de cuyo consejo de administración ella era miembro. La Policía registró las oficinas del Palau en 2014 y en enero de 2015 Helga Schmidt fue detenida e imputada por prevaricación, malversación de caudales públicos y falsedad documental. También fueron procesados el exdirector financiero Ernesto Moreno, el presidente del consejo de Patrocini José Antonio Noguera Puchol, el exconsejero delegado Joaquín Maldonado y el administrador de la sociedad intermediaria Radcliffe, Pablo Broseta.
+  El tribunal examinó los hechos que subsistieron tras la modificación de la acusación fiscal. Aunque señaló falta
+  de transparencia, publicidad y concurrencia en el modelo de patrocinio, no consideró probadas la prevaricación
+  ni la malversación. En el bloque de Viva Europa valoró que las renuncias a cobrar por otros servicios compensaban
+  el sobrecoste discutido; en los trabajos de Radcliffe no apreció facturación por servicios inexistentes ni precios
+  ajenos al mercado. Estas conclusiones no se extienden a todos los contratos o gastos de construcción del edificio.
 
-  Tras más de seis años de procedimiento, la Sección Segunda de la Audiencia Provincial de Valencia absolvió en marzo de 2020 a todos los acusados al considerar que no quedó debidamente acreditada la comisión de delitos de prevaricación ni de malversación, y que las facturas correspondían a trabajos efectivamente realizados a precios de mercado. Helga Schmidt falleció en octubre de 2019, semanas antes de que comenzara el juicio oral, por lo que su posible responsabilidad penal se extinguió con su muerte.
 
-resumen: "Sobrecostes de más de 369 millones en la construcción del Palau de les Arts y adjudicaciones irregulares en su gestión, con todos los acusados absueltos"
-coste: 478000000
-lugar: "Valencia, Comunitat Valenciana"
+  Helga Schmidt fue detenida el 20 de enero de 2015 junto al exgerente Ernesto Moreno y estuvo procesada, pero murió
+  el 25 de septiembre de 2019, antes del juicio: su responsabilidad penal quedó extinguida por fallecimiento, un
+  desenlace diferente de las cuatro absoluciones. Noguera, Maldonado y Broseta ya figuraban como investigados en
+  la información publicada en abril de 2016; no se les atribuye una detención o procesamiento conjunto en enero
+  de 2015.
+
+
+  Los costes de construcción y los desperfectos del trencadís son un ámbito distinto. Las cuentas oficiales de CACSA
+  de 2014, incorporadas al informe de fiscalización, recogen un compromiso formalizado en septiembre de 2014 para
+  que la dirección facultativa y la UTE constructora asumieran conjuntamente los costes de retirada, reposición
+  y costes indirectos. No se dispone del acuerdo íntegro ni de documentación suficiente de su liquidación final;
+  no se atribuye a Calatrava una condena civil o penal por este compromiso. Las cifras de inversión, reparación
+  o acusación no se incorporan como daño penal probado.'
+resumen: Cuatro absoluciones en 2020 por contratos y patrocinios; responsabilidad de Helga Schmidt extinguida por
+  fallecimiento. Los costes y defectos del edificio se distinguen de esta causa.
+lugar: València, Comunitat Valenciana
 tribunal:
-  - "Juzgado de Instrucción nº 15 de Valencia"
-  - "Audiencia Provincial de Valencia, Sección Segunda"
-numeroSentencia: ""
+- Juzgado de Instrucción 15 de Valencia
+- Audiencia Provincial de Valencia, secciones Segunda (juicio) y Cuarta (recurso de instrucción)
 implicados:
-  - nombre: "Helga Schmidt"
-    cargo: "Intendente y directora artística del Palau de les Arts (2005-2014)"
-    rol: "Imputada por prevaricación, malversación y falsedad documental; falleció en octubre de 2019 antes del juicio oral, causa extinguida"
-
-  - nombre: "Ernesto Moreno"
-    cargo: "Director financiero del Palau de les Arts"
-    rol: "Acusado de malversación y prevaricación; absuelto en 2020"
-
-  - nombre: "José Antonio Noguera Puchol"
-    cargo: "Presidente del consejo de administración de Patrocini de Les Arts"
-    rol: "Acusado de malversación; absuelto en 2020"
-
-  - nombre: "Joaquín Maldonado"
-    cargo: "Exconsejero delegado de Patrocini de Les Arts"
-    rol: "Acusado de malversación; absuelto en 2020"
-
-  - nombre: "Pablo Broseta"
-    cargo: "Administrador de la sociedad intermediaria Radcliffe"
-    rol: "Acusado de malversación; absuelto en 2020"
-
-  - nombre: "Santiago Calatrava"
-    cargo: "Arquitecto diseñador del Palau de les Arts"
-    rol: "Responsable civil del defecto del trencadís; acordó asumir los costes de reposición de la cubierta cerámica en 2014"
-
-  - nombre: "Eduardo Zaplana"
-    cargo: "President de la Generalitat Valenciana (PP, 1995-2002)"
-    rol: "Impulsó la Ciudad de las Artes y las Ciencias y los contratos con Calatrava que generaron los sobrecostes iniciales"
-
-  - nombre: "Francisco Camps"
-    cargo: "President de la Generalitat Valenciana (PP, 2003-2011)"
-    rol: "Continuó la política de contratos con Calatrava durante cuya etapa se acumularon la mayor parte de los sobrecostes"
-
+- nombre: Helga Schmidt
+  cargo: Intendente y directora artística del Palau de les Arts hasta su suspensión en 2015
+  rol: Detenida el 20 de enero de 2015 e investigada por prevaricación, malversación y falsedad según la información
+    de la instrucción. Procesada posteriormente; murió el 25 de septiembre de 2019 antes del juicio y su responsabilidad
+    penal quedó extinguida. No se la incluye entre los cuatro absueltos en 2020.
+- nombre: Ernesto Moreno
+  cargo: Exdirector administrativo y exgerente del Palau de les Arts
+  rol: Detenido en enero de 2015. Juzgado y absuelto en 2020 en la causa de contratos y patrocinios. La Fiscalía
+    redujo su petición de ocho a cinco años de prisión; eran peticiones, no penas impuestas. Sin comprobación documental
+    de firmeza posterior.
+- nombre: José Antonio Noguera Puchol
+  cargo: Presidente del consejo de administración de Patrocini de les Arts
+  rol: Investigado según información de abril de 2016 y posteriormente juzgado y absuelto en 2020. La Fiscalía redujo
+    su petición de siete a tres años de prisión. Sin comprobación documental de firmeza posterior.
+- nombre: Joaquín Maldonado
+  cargo: Consejero delegado de Patrocini de les Arts
+  rol: Investigado según información de abril de 2016 y posteriormente juzgado y absuelto en 2020. La Fiscalía redujo
+    su petición de siete a tres años de prisión. Sin comprobación documental de firmeza posterior.
+- nombre: Pablo Broseta
+  cargo: Administrador de Radcliffe y Asociados y excónsul de Francia en Valencia
+  rol: Investigado según información de abril de 2016 y posteriormente juzgado y absuelto en 2020. La Fiscalía redujo
+    su petición de siete a dos años de prisión. Sin comprobación documental de firmeza posterior.
+- nombre: Santiago Calatrava
+  cargo: Arquitecto del edificio; su estudio intervino en la dirección facultativa
+  rol: 'Ámbito constructivo, distinto de las cuatro personas juzgadas por la gestión: compromiso de la dirección
+    facultativa y la UTE de asumir costes del trencadís según las cuentas de CACSA de 2014. No se le atribuye una
+    condena penal ni una declaración judicial de responsabilidad civil en esta ficha.'
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "contratación irregular"
-  - "sobrecostes"
-  - "arquitectura"
-
-impactoSocial: "El caso se convirtió en símbolo del despilfarro del PP valenciano durante la era del ladrillo y los grandes eventos. Los sobrecostes del Palau de les Arts contribuyeron a la deuda desbocada de la Generalitat Valenciana, que fue la comunidad más endeudada de España. La imagen internacional del edificio quedó gravemente dañada por los desprendimientos del trencadís, que obligaron a cancelar representaciones de ópera y cerraron el edificio al público. La absolución final de todos los acusados fue ampliamente criticada como ejemplo de la impunidad de la corrupción de cuello blanco en España."
-
-documentos: null
-
+- contratación pública
+- patrocinios
+- prevaricación
+- malversación
+- absolución
+impactoSocial: La investigación afectó a la gestión de una institución cultural financiada con fondos públicos y
+  patrocinios privados. En paralelo, los desprendimientos de la cubierta obligaron a cerrar temporalmente el edificio
+  y alteraron su programación. La absolución penal se distingue de las críticas políticas al gasto y de las controversias
+  técnicas sobre la construcción.
+documentos: []
 cronologia:
-  - fecha: "1997-01-01"
-    titulo: "Inicio de la construcción del Palau de les Arts"
-    descripcion: "Comienzan las obras del Palau de les Arts Reina Sofía dentro del proyecto de la Ciudad de las Artes y las Ciencias de Valencia, impulsado por el gobierno del PP de Eduardo Zaplana. El presupuesto inicial rondaba los 109 millones de euros. El diseño es encargado al arquitecto valenciano Santiago Calatrava."
-    type: "resumen"
-    urls:
-      - "https://epoca1.valenciaplaza.com/ver/112586/el-palau-de-les-arts-es-una-ruina.html"
-
-  - fecha: "2005-10-08"
-    titulo: "Inauguración del Palau de les Arts"
-    descripcion: "El Palau de les Arts Reina Sofía es inaugurado por la Reina Sofía el 8 de octubre de 2005, bajo el gobierno del PP de Francisco Camps. El coste final de la obra alcanzó los 478 millones de euros, multiplicando por más de cuatro el presupuesto inicial de 109 millones."
-    type: "resumen"
-    urls:
-      - "https://www.elplural.com/politica/inundaciones-hundimientos-goteras-las-pifias-de-calatrava-en-la-ciudad-de-las-artes-de-valencia_58008102"
-      - "https://epoca1.valenciaplaza.com/ver/112586/el-palau-de-les-arts-es-una-ruina.html"
-
-  - fecha: "2013-03-01"
-    titulo: "Informe de la Intervención de la Generalitat sobre irregularidades contractuales"
-    descripcion: "La Intervención de la Generalitat Valenciana emite un informe que concluye que la intendente Helga Schmidt formalizó contratos entre 2008 y 2011 incumpliendo la ley, al adjudicar sin publicidad ni concurrencia contrataciones a empresas vinculadas a ella, especialmente a Patrocini de Les Arts, entidad de cuyo consejo era miembro."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/miembros-burguesia-valenciana-palau-arts_1_4045890.html"
-
-  - fecha: "2013-12-26"
-    titulo: "Desprendimiento masivo del trencadís de la cubierta"
-    descripcion: "Fuertes vientos provocan el desprendimiento de piezas del revestimiento cerámico trencadís de la cubierta del Palau. Se comprueba que el 60% de la superficie está suelta y se procede al cierre preventivo del edificio y a la suspensión de representaciones. La Generalitat asigna 1,1 millones de euros a las primeras reparaciones de emergencia."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/cv/desprendimientos-fuerzan-Palau-Arts-millones_0_211728853.html"
-      - "https://www.publico.es/actualidad/chapuza-calatrava-desmontar-cubierta-palau-les-arts-valencia-costara-3-millones.html"
-
-  - fecha: "2014-01-01"
-    titulo: "Retirada total del trencadís; coste estimado en 3 millones"
-    descripcion: "La Generalitat decide retirar completamente todo el revestimiento cerámico del Palau de les Arts. El coste total de la operación se estima en 3 millones de euros. La Generalitat inicia negociaciones con Santiago Calatrava y la UTE constructora para que asuman la responsabilidad del defecto."
-    type: "investigación"
-    urls:
-      - "https://www.vozpopuli.com/sociedad/palau_de_les_arts-valencia-santiago_calatrava_0_659934027.html"
-      - "https://www.primaveravalenciana.info/2014/01/09/generalitat-quitar-trencadis-millones-euros/"
-
-  - fecha: "2014-07-01"
-    titulo: "Destitución de Helga Schmidt como intendente"
-    descripcion: "El patronato del Palau de les Arts acuerda la salida de Helga Schmidt como intendente con una indemnización de 20.800 euros, en medio de la investigación sobre presuntas irregularidades en la contratación durante su gestión."
-    type: "investigación"
-    urls:
-      - "https://www.diariocritico.com/noticia/471216/noticias/patronato-de-les-arts-de-valencia-acuerda-la-marcha-de-schmidt-con-20.800-euros-de-indemnizacion-.html"
-
-  - fecha: "2014-09-01"
-    titulo: "Acuerdo con Calatrava para reponer el trencadís sin coste para la Generalitat"
-    descripcion: "Se alcanza un acuerdo por el que Santiago Calatrava y la UTE constructora se comprometen a reponer el trencadís del Palau de les Arts sin coste para los valencianos. Las obras comienzan de inmediato con una duración prevista de aproximadamente un año."
-    type: "investigación"
-    urls:
-      - "https://valencianoticias.com/calatrava-y-la-ute-constructora-pagaran-y-garantizaran-el-trencadis-del-palau-de-les-arts-por-diez-anos/"
-
-  - fecha: "2015-01-22"
-    titulo: "Detención de Helga Schmidt e imputación por prevaricación y malversación"
-    descripcion: "La Policía Judicial detiene a Helga Schmidt en el marco de la investigación judicial. El juez del Juzgado de Instrucción nº 15 de Valencia la imputa por prevaricación, malversación de caudales públicos y falsedad documental por las irregularidades en los contratos suscritos entre 2008 y 2011. También son procesados el director financiero Ernesto Moreno y responsables de las empresas Patrocini de Les Arts y Radcliffe."
-    type: "imputación"
-    urls:
-      - "https://www.publico.es/politica/policia-registra-palau-les-arts.html"
-      - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1136369"
-
-  - fecha: "2019-10-01"
-    titulo: "Fallecimiento de Helga Schmidt antes del juicio oral"
-    descripcion: "La exintendente Helga Schmidt fallece en Piamonte (Italia) a los 78 años, pocas semanas antes de que comenzara el juicio oral en su contra. Su fallecimiento extingue su responsabilidad penal. El fiscal había solicitado para ella siete años y un día de prisión y una multa de 6.000 euros."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/fallece-palau-arts-helga-schmidt_1_1330297.html"
-
-  - fecha: "2020-03-06"
-    titulo: "Absolución de todos los acusados por la Audiencia Provincial de Valencia"
-    descripcion: "La Sección Segunda de la Audiencia Provincial de Valencia absuelve a todos los acusados del caso Palau —Ernesto Moreno, José Antonio Noguera Puchol, Joaquín Maldonado y Pablo Broseta— al concluir que no quedó debidamente acreditada la perpetración de delitos de prevaricación ni de malversación. El tribunal considera que las facturas correspondían a trabajos efectivamente realizados y a precios de mercado. Con la absolución se cierra definitivamente el procedimiento penal tras más de seis años de investigación."
-    type: "sentencia"
-    urls:
-      - "https://confilegal.com/20200306-seis-anos-despues-la-justicia-absuelve-a-los-cuatro-acusados-del-caso-del-palau-de-les-arts-de-valencia/"
-      - "https://valenciaplaza.com/valenciaplaza/absueltos-todos-los-acusados-del-caso-palau"
-      - "https://www.publico.es/politica/audiencia-valencia-absuelve-todos-acusados-caso-palau-les-arts.html"
+- fecha: '2014-01-08'
+  titulo: Se anuncia la retirada completa del trencadís
+  descripcion: La información de EFE recogió el anuncio del conseller sobre la retirada del revestimiento tras los
+    desprendimientos de diciembre de 2013. Los tres millones eran una estimación de la intervención, no una indemnización
+    fijada por el tribunal de la causa de gestión.
+  type: investigación
+  relevancia: alta
+  urls:
+  - https://www.publico.es/actualidad/chapuza-calatrava-desmontar-cubierta-palau-les-arts-valencia-costara-3-millones.html
+- fecha: '2015-01-20'
+  titulo: Registro y detenciones en la investigación sobre la gestión
+  descripcion: La Policía registró el Palau y detuvo a Helga Schmidt y Ernesto Moreno. La Generalitat anunció la
+    suspensión cautelar de Schmidt. La información relacionaba la investigación con una denuncia y un informe de
+    Intervención; no acreditaba condenas.
+  type: detención
+  relevancia: alta
+  urls:
+  - https://www.publico.es/politica/policia-registra-palau-les-arts.html
+- fecha: '2015-01-22'
+  titulo: Se publica la atribución de delitos a Schmidt
+  descripcion: Iustel reprodujo una noticia de Europa Press fechada el día anterior sobre la imputación de prevaricación,
+    malversación y falsedad. Se trata de la fecha de publicación, distinta de la detención del 20 de enero; no se
+    verifica aquí la fecha de firma del auto.
+  type: imputación
+  relevancia: media
+  urls:
+  - https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1136369
+- fecha: '2016-04-19'
+  titulo: Se conocen otras tres personas investigadas
+  descripcion: ElDiario.es informó de la investigación de Noguera Puchol, Maldonado y Broseta, junto a Schmidt y
+    Moreno. Las sospechas descritas durante la instrucción no se presentan como hechos delictivos probados.
+  type: imputación
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/comunitat-valenciana/miembros-burguesia-valenciana-palau-arts_1_4045890.html
+- fecha: '2017-04-04'
+  titulo: Se conoce la exclusión de la Generalitat como acusación particular
+  descripcion: Según Europa Press, la Sección Cuarta estimó el recurso de Schmidt frente a la personación acordada
+    por el Juzgado de Instrucción 15. La resolución distinguía la personalidad jurídica de la fundación de la Generalitat;
+    no era una absolución de los investigados. Fecha de publicación, sin auto original.
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://valenciaplaza.com/valenciaplaza/la-audiencia-elimina-a-la-generalitat-como-acusacion-del-caso-palau
+- fecha: '2019-09-25'
+  titulo: Fallecimiento de Helga Schmidt
+  descripcion: EFE comunicó el 1 de octubre que había fallecido el 25 de septiembre en Italia. Su responsabilidad
+    penal quedó extinguida por la muerte, según la información posterior sobre la sentencia.
+  type: resumen
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/comunitat-valenciana/fallece-palau-arts-helga-schmidt_1_1330297.html
+  - https://www.rtve.es/noticias/20200306/absueltos-todos-acusados-por-caso-del-palau-les-arts-valencia/2006280.shtml
+- fecha: '2020-03-06'
+  titulo: Se conoce la absolución de los cuatro enjuiciados
+  descripcion: La Sección Segunda absolvió a Moreno, Noguera, Maldonado y Broseta. La noticia de Valencia Plaza
+    sitúa en este día la notificación a las partes; Confilegal señala que cabía casación ante el Supremo. No se
+    infiere firmeza ni fecha de firma del fallo a partir de la publicación.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://valenciaplaza.com/valenciaplaza/absueltos-todos-los-acusados-del-caso-palau
+  - https://confilegal.com/20200306-seis-anos-despues-la-justicia-absuelve-a-los-cuatro-acusados-del-caso-del-palau-de-les-arts-de-valencia/
+  - https://www.rtve.es/noticias/20200306/absueltos-todos-acusados-por-caso-del-palau-les-arts-valencia/2006280.shtml
 ---
+
+## La causa de gestión
+
+La [información de la absolución](https://valenciaplaza.com/valenciaplaza/absueltos-todos-los-acusados-del-caso-palau) distingue tres bloques: los patrocinios y eventos Viva Europa, los encargos de diseño e impresión a Radcliffe y las postales promocionales distribuidas durante el Gran Premio de Fórmula 1. La Audiencia valoró únicamente lo que seguía siendo objeto de acusación tras la modificación de conclusiones del fiscal. No consideró acreditados los delitos de prevaricación y malversación.
+
+Las peticiones finales de prisión fueron de cinco años para Moreno, tres para Noguera y Maldonado y dos para Broseta. [Confilegal](https://confilegal.com/20200306-seis-anos-despues-la-justicia-absuelve-a-los-cuatro-acusados-del-caso-del-palau-de-les-arts-de-valencia/) recoge las cuatro absoluciones y la posibilidad de casación. No se dispone del fallo original ni de una resolución posterior que permita precisar su firmeza. Schmidt no fue una quinta persona absuelta: su fallecimiento previo extinguió su responsabilidad.
+
+## Construcción y cubierta
+
+El coste de construcción citado en prensa —478 millones de euros frente a un presupuesto inicial de 109 millones— no constituye una cuantificación de malversación en este procedimiento. El [informe oficial de fiscalización de CACSA y cuentas del ejercicio 2014](https://servicios.cac.es/transparencia/documentos/sindicatura_cuentas.pdf) presenta en su página PDF 9 un coste del Palacio, neto de bajas a cierre de 2014, de 447.167.300 euros. La diferencia de magnitudes y fechas impide tratarlas como una misma cifra de perjuicio.
+
+La nota 5.18 de las cuentas anexas, página PDF 64 (página 19 de la memoria), recoge la retirada del revestimiento en el primer trimestre de 2014 y el compromiso formalizado en septiembre para que dirección facultativa y UTE constructora asumieran los costes de demolición, reposición e indirectos; sitúa el inicio de la reposición en noviembre de 2014. Es un compromiso contractual descrito en las cuentas, no una condena civil de Calatrava. El informe de fiscalización cuestiona el tratamiento contable de la pérdida por deterioro y su posterior reversión; tampoco equipara ese ajuste a un daño penal.
+
+Las responsabilidades políticas por el impulso y financiación del edificio no convierten a los presidentes autonómicos de aquellas etapas en acusados de esta causa. No se atribuye a Zaplana o Camps una participación penal por su cargo institucional. Quedan por documentar los originales judiciales, los eventuales recursos posteriores y la liquidación final del acuerdo de reparación.
