@@ -3,7 +3,7 @@ nombre: Acuamed
 partido: PP
 completado: false
 año: 2016
-fechaInicio: 2016-01-18
+fechaInicio: '2016-01-18'
 estado: Procesamiento documentado; fase posterior pendiente de verificar
 descripcion: 'El caso Acuamed u Operación Frontino investiga la adjudicación y ejecución presuntamente irregular
   de obras de la sociedad estatal Aguas de las Cuencas Mediterráneas. La nota oficial del CGPJ de 25 de abril de
@@ -41,7 +41,7 @@ implicados:
     en junio de 2016 tras aval de 300.000 euros. No se acredita desenlace posterior.
 - nombre: María Gabriela Mañueco Pfeiffer
   cargo: Exjefa de Ingeniería y Construcción de Acuamed (cargo en el periodo investigado)
-  rol: Identificado nominalmente por Vozpópuli entre los procesados de 2023. No se acredita su evolución individual
+  rol: Identificada nominalmente por Vozpópuli entre los procesados de 2023. No se acredita su evolución individual
     posterior, juicio o condena.
 - nombre: Francisco Javier Gómez Pastor
   cargo: Ex subdirector de Contratación de Acuamed (cargo en el periodo investigado)
