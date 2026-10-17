@@ -29,7 +29,7 @@ impactoSocial: La investigación afecta al control de ayudas de prejubilación y
   a extrabajadores. La acusación contra determinadas personas no permite atribuir fraude a todos los antiguos empleados.
 documentos: []
 implicados:
-- nombre: Juan Lanzas Fernández
+- nombre: Juan Lanzas
   cargo: Exdirigente de UGT e intermediario de ayudas
   rol: Acusado en la apertura de juicio oral divulgada en 2022; presuntos delitos de prevaricación, malversación, falsedad
     documental y tráfico de influencias. Desenlace individual posterior no documentado.
@@ -106,7 +106,7 @@ El matadero cerró en 1998 y sus antiguos trabajadores constituyeron una asociac
 
 La nota oficial de 2021 distingue doce personas investigadas y varias entidades como posibles responsables civiles subsidiarias. También explica que no continuaba en esta pieza contra tres antiguos altos cargos ya encausados por el procedimiento específico de los ERE, siguiendo autos de la Audiencia de abril de 2018. Esa exclusión procesal no debe confundirse con una absolución sobre los hechos o trasladarse a los restantes acusados.
 
-Los al menos 2.528.258,63 euros representan las ayudas investigadas. No se suman a las fianzas ni a las reclamaciones de reintegro, ni se presentan como perjuicio fijado por condena. Existe asimismo un procedimiento contable relacionado, B-137/16-13, cuyo resultado no se ha acreditado; una reclamación contable y una declaración de rebeldía procesal no equivalen a responsabilidad declarada por sentencia.
+Los al menos 2.528.258,63 euros representan las ayudas investigadas. No se suman a las fianzas ni a las reclamaciones de reintegro, ni se presentan como perjuicio fijado por condena. La referencia localizada a un procedimiento contable relacionado no ha podido cotejarse mediante un PDF original accesible; no se incorpora como una responsabilidad declarada por sentencia.
 
 La última actuación penal contrastada es la suspensión de abril de 2026. Se ha localizado una noticia posterior sobre la localización del acusado, pero no se dispone de su contenido original verificable ni de la resolución correspondiente. No se afirma que el juicio permanezca suspendido a la fecha de corte, que se haya celebrado o que exista sentencia. No consta un desenlace individual documentado ni firmeza.
 
