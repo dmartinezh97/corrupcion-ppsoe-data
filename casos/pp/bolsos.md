@@ -1,144 +1,158 @@
 ---
-nombre: "Caso Bolsos (Caso Taula - Pieza Pitufeo)"
+nombre: Bolsos y pieza A del caso Taula
 partido: PP
 completado: false
 año: 2016
-fechaInicio: "2015-03-23"
-fechaFin: ""
-estado: "desconocido"
-descripcion: |
-  "Caso Bolsos" es el nombre divulgativo con el que se ha conocido el episodio de los bolsos de lujo (Louis Vuitton, Loewe) que distintas tramas de corrupción vinculadas al PP regalaron a la exalcaldesa de Valencia Rita Barberá. Esos obsequios no fueron objeto de una causa judicial propia: se documentan dentro de los casos Gürtel, Emarsa y Azud y aquí se recogen como contexto. El núcleo judicial de esta ficha es la pieza A del caso Taula, conocida como "pitufeo", instruida por el Juzgado de Instrucción nº 18 de Valencia.
+estado: Archivos parciales y sentencia de 2024 recurrida
+descripcion: 'La denominación «Bolsos» reúne referencias periodísticas a regalos recibidos por Rita Barberá en contextos
+  distintos, como Gürtel, Emarsa o Azud; no se ha acreditado una causa autónoma que reúna todos esos obsequios.
+  El núcleo judicial de esta ficha es la pieza A de Taula, sobre el llamado pitufeo de 2015 y la financiación de
+  campañas municipales de 2007 y 2011. Los regalos no deben confundirse con los hechos juzgados en esa pieza ni
+  sus importes con el daño causado por la malversación.
 
-  La pieza A investigó la presunta financiación irregular del PP de Valencia en las campañas municipales de 2007, 2011 y 2015. En la campaña de 2015, según la hipótesis del juez instructor, alrededor de medio centenar de concejales, asesores y personal del grupo municipal del PP realizaron aportaciones de 1.000 euros a una cuenta del grupo y recibieron presuntamente dos billetes de 500 euros procedentes de fondos opacos del partido, en la operación conocida como "pitufeo" o "smurfing"; el importe presuntamente blanqueado se ha cifrado en unos 50.000 euros. La causa se dirigió también contra Barberá, aforada como senadora, y contra el PP como persona jurídica.
 
-  En septiembre de 2016 el Tribunal Supremo abrió causa contra Barberá por presunto blanqueo de capitales, con Cándido Conde-Pumpido como instructor. Barberá declaró el 21 de noviembre de 2016 negando la existencia de una caja B y falleció dos días después, el 23 de noviembre de 2016; con su muerte se extinguió la causa contra ella. En octubre de 2021 el Juzgado de Instrucción nº 18 procesó a 49 exconcejales y asesores de la legislatura 2011-2015, a Alfonso Grau y al PP como persona jurídica por blanqueo. En diciembre de 2021 la Sección Cuarta de la Audiencia Provincial de Valencia acordó el sobreseimiento provisional del "pitufeo" para 13 de ellos y, después, para 39 de los 50 investigados, incluido el PP. En abril de 2022 el Tribunal Supremo desestimó el recurso de queja de la Fiscalía Anticorrupción contra ese archivo, al considerar la resolución no impugnable en casación.
+  En diciembre de 2021 se publicaron sobreseimientos provisionales del pitufeo respecto de antiguos concejales y
+  asesores y del PP como persona jurídica. En abril de 2022 se conoció que el Supremo había rechazado la queja de
+  la Fiscalía por no ser recurribles en casación aquellos archivos. Eso no cerró toda la pieza A ni constituye una
+  absolución tras juicio de todos los investigados. La causa personal contra Barberá, fallecida en noviembre de
+  2016, tampoco equivale a una condena.
 
-  El archivo del "pitufeo" no cerró la pieza A: esta continuó para Alfonso Grau, Mari Carmen García-Fuster y dos responsables de fundaciones municipales por la financiación de las campañas de 2007 y 2011. El 30 de julio de 2024 la Sección Segunda de la Audiencia Provincial de Valencia dictó la sentencia nº 486/2024 (SAP V 826/2024; ECLI:ES:APV:2024:826), que condenó a Grau a cuatro años y medio de prisión, nueve años de inhabilitación para empleo o cargo público, dos años de suspensión de empleo o cargo público y una multa de cinco millones de euros por malversación continuada y cohecho en la campaña de 2007, con una indemnización de 388.150 euros al Ayuntamiento de Valencia; José Salinas fue condenado a cuatro años de prisión y ocho de inhabilitación como cooperador necesario de malversación, respondiendo solidariamente de 210.000 euros; Mari Carmen García-Fuster fue absuelta del delito de cohecho y Juan Eduardo Santón de malversación y falsedad documental. La sentencia, sobre la que consta un auto de aclaración, no era firme y cabía recurso de casación ante el Tribunal Supremo.
 
-  Alcance y límites: esta ficha documenta la pieza A ("pitufeo") y el episodio de los bolsos como contexto. Parte de los hechos e implicados corresponden a otras piezas del caso Taula y a los casos Gürtel, Emarsa y Azud, que cuentan con sus propias fichas (solapamiento documentado, sin editar esas fichas). Los regalos de la trama Azud se vincularon a una presunta comisión cobrada por José María Corbín, cuñado de Barberá, cuya investigación corresponde al caso Azud. Los cargos y las peticiones de pena de la Fiscalía Anticorrupción de 2021 (hasta 15 años para Grau, 7 para García-Fuster y multa de 146.000 euros para el PP) no equivalen a condenas. El coste de 50.000 euros consignado en esta ficha es el importe presuntamente blanqueado en el "pitufeo", no un perjuicio acreditado. No se ha localizado el resultado actual de los recursos ni la firmeza de la sentencia de 2024, por lo que el estado se consigna como desconocido; las fechas de los autos de 2016 y 2021-2022 proceden de fuentes de prensa y no se han verificado en resolución judicial primaria.
-resumen: "Pieza A ('pitufeo') del caso Taula: presunto blanqueo de 50.000 euros en la campaña municipal del PP de 2015 y financiación irregular de las campañas de 2007 y 2011, con condena en 2024 a Alfonso Grau y José Salinas (firmeza actual no localizada)"
-coste: 50000
-lugar: "Valencia, Comunitat Valenciana"
+  La sentencia 486/2024, de 30 de julio, de la Sección Segunda de la Audiencia de Valencia condenó a Alfonso Grau
+  a cuatro años y seis meses de prisión y nueve años de inhabilitación por malversación continuada, y a multa de
+  cinco millones y dos años de suspensión de empleo o cargo público por cohecho continuado. José Salinas recibió
+  cuatro años de prisión y ocho de inhabilitación por cooperación necesaria en malversación. Grau debe indemnizar
+  388.150 euros al Ayuntamiento; de esa cantidad, 210.000 euros son solidarios con Salinas, no una partida adicional.
+  Grau y Salinas fueron absueltos de falsedad documental; María del Carmen García Fuster fue absuelta de cohecho
+  y Juan Eduardo Santón de malversación y falsedad.
+
+
+  El fallo admite casación y una noticia de 3 de junio de 2026 confirma que fue recurrido ante el Supremo. No se
+  ha obtenido el resultado de esos recursos, el alcance individual de todas las resoluciones de archivo ni la firmeza
+  actual hasta el 17 de octubre de 2026. Los 50.000 euros atribuidos al pitufeo son el volumen de una operación
+  investigada y archivada para numerosos afectados, no daño probado. El procedimiento por posible falso testimonio
+  de un testigo, conocido en 2026, es distinto y tampoco modifica por sí solo las condenas o absoluciones.'
+resumen: 'Regalos a Barberá como contexto y pieza A de Taula: archivos del pitufeo, dos condenas y dos absoluciones
+  en 2024; casación sin resultado acreditado.'
+lugar: Valencia, Comunitat Valenciana
 tribunal:
-  - "Audiencia Provincial de Valencia - Sección Segunda (sentencia 486/2024 de la pieza A)"
-  - "Juzgado de Instrucción nº 18 de Valencia (instrucción de la pieza A)"
-  - "Audiencia Provincial de Valencia - Sección Cuarta (sobreseimiento del 'pitufeo')"
-  - "Tribunal Supremo - Sala Segunda (causa contra la aforada Rita Barberá y recurso de queja de 2022)"
-  - "Fiscalía Anticorrupción"
-numeroSentencia: "486/2024"
+- Audiencia Provincial de Valencia - Sección Segunda (sentencia 486/2024 de la pieza A)
+- Juzgado de Instrucción nº 18 de Valencia (instrucción de la pieza A)
+- Audiencia Provincial de Valencia - Sección Cuarta (sobreseimiento del 'pitufeo')
+- Tribunal Supremo - Sala Segunda (causa contra la aforada Rita Barberá y recurso de queja de 2022)
+numeroSentencia: 486/2024
 implicados:
-  - nombre: "Rita Barberá Nolla"
-    cargo: "Alcaldesa de Valencia (1991-2015) y senadora del PP (2015-2016)"
-    rol: "Investigada por blanqueo de capitales en la causa abierta por el Tribunal Supremo (aforamiento); falleció el 23-11-2016 y con su muerte se extinguió la causa contra ella"
-  - nombre: "Alfonso Grau Alonso"
-    cargo: "Concejal de Hacienda y primer teniente de alcalde (vicealcalde) del Ayuntamiento de Valencia con Rita Barberá"
-    rol: "Procesado y condenado en la pieza A (2024) a 4 años y medio de prisión, 9 años de inhabilitación para empleo o cargo público, 2 años de suspensión y multa de 5 millones de euros por malversación continuada y cohecho en la campaña de 2007 (firmeza actual no localizada)"
-  - nombre: "María del Carmen García Fuster"
-    cargo: "Secretaria del Grupo Municipal del PP en el Ayuntamiento de Valencia"
-    rol: "Procesada en la pieza A por la gestión de la cuenta del grupo; absuelta del delito de cohecho en 2024"
-  - nombre: "José Salinas"
-    cargo: "Director gerente de la Fundación Turismo Valencia Convention Bureau (FTVBC)"
-    rol: "Condenado en 2024 a 4 años de prisión y 8 de inhabilitación como cooperador necesario de malversación en la campaña de 2007; responde solidariamente de 210.000 euros (firmeza actual no localizada)"
-  - nombre: "Juan Eduardo Santón"
-    cargo: "Director del Centro de Estrategias y Desarrollo (CEyD)"
-    rol: "Absuelto en 2024 de los delitos de malversación y falsedad documental en la pieza A"
-  - nombre: "Álvaro Pérez 'El Bigotes'"
-    cargo: "Delegado de la trama Gürtel en Valencia"
-    rol: "Según una conversación telefónica intervenida el 2 de enero de 2009, estaba comprando un bolso de Louis Vuitton para Barberá (caso Gürtel; ajeno a la pieza del pitufeo)"
-  - nombre: "Esteban Cuesta"
-    cargo: "Exgerente de la depuradora de Pinedo (Emarsa)"
-    rol: "Reconoció haber regalado a Barberá un bolso Loewe valorado en 990 euros, adquirido en 2007 y pagado por la empresa pública (caso Emarsa)"
+- nombre: Rita Barberá Nolla
+  cargo: Alcaldesa de Valencia (1991-2015) y senadora del PP (2015-2016)
+  rol: Investigada por blanqueo en la causa del Supremo por aforamiento; declaró en noviembre de 2016 y falleció
+    ese mes. No hubo condena contra ella en la sentencia de 2024.
+- nombre: Alfonso Grau Alonso
+  cargo: Concejal de Hacienda y primer teniente de alcalde (vicealcalde) del Ayuntamiento de Valencia con Rita Barberá
+  rol: Condenado en 2024 a 4 años y 6 meses por malversación y multa de 5 millones de euros por cohecho; absuelto
+    de falsedad. responsabilidad civil de 388.150 euros, con 210.000 euros solidarios con Salinas. Sentencia recurrida,
+    resultado/firmeza actuales no acreditados.
+- nombre: María del Carmen García Fuster
+  cargo: Secretaria del Grupo Municipal del PP en el Ayuntamiento de Valencia
+  rol: Procesada en la pieza A por la gestión de la cuenta del grupo; absuelta del delito de cohecho en 2024; no
+    se acredita la evolución individual de posibles recursos ni firmeza actual.
+- nombre: José Salinas
+  cargo: Director gerente de la Fundación Turismo Valencia Convention Bureau (FTVBC)
+  rol: Condenado en 2024 a 4 años por cooperación necesaria en malversación; absuelto de falsedad. responsabilidad
+    civil solidaria de 210.000 euros incluida en el total de Grau. Evolución individual del recurso y firmeza no
+    acreditadas.
+- nombre: Juan Eduardo Santón
+  cargo: Director del Centro de Estrategias y Desarrollo (CEyD)
+  rol: Absuelto en 2024 de los delitos de malversación y falsedad documental en la pieza A; no se acredita la evolución
+    individual de posibles recursos ni firmeza actual.
+- nombre: Partido Popular
+  cargo: Persona jurídica investigada en el pitufeo de 2015
+  rol: Archivo provisional conocido en diciembre de 2021; no condenado por la sentencia de 2024 de la campaña de
+    2007. No se extrapola el archivo a los cuatro acusados que llegaron a juicio.
 tags:
-  - "corrupción"
-  - "blanqueo de capitales"
-  - "financiación ilegal"
-  - "pitufeo"
-  - "caso Taula"
-impactoSocial: "La imputación de Barberá en el caso Taula la llevó a dejar el grupo parlamentario del PP en el Senado y pasar al grupo mixto. Su muerte el 23 de noviembre de 2016, dos días después de declarar ante el Tribunal Supremo, marcó un hito político. El caso Taula se fragmentó en más de una decena de piezas; la sentencia de la pieza A de 2024 condenó a Alfonso Grau y José Salinas y absolvió a Mari Carmen García-Fuster y Juan Eduardo Santón, y el PP expulsó a Grau en agosto de 2024. La firmeza de la sentencia no se ha podido acreditar."
+- corrupción
+- blanqueo de capitales
+- financiación ilegal
+- pitufeo
+- caso Taula
+impactoSocial: La investigación afectó al grupo municipal del PP de Valencia y a su financiación electoral. Los
+  archivos del pitufeo de 2015 se distinguen de las condenas y absoluciones por las campañas anteriores y de la
+  repercusión mediática de regalos vinculados a otras causas.
 documentos:
-  - fecha: "2024-07-30"
-    titulo: "Sentencia nº 486/2024 (copia publicada por Newtral) de la Sección Segunda de la Audiencia Provincial de Valencia (pieza A del caso Taula; SAP V 826/2024)"
-    filetype: "pdf"
-    paginas: 175
-    nombre_fichero: "https://www.newtral.es/wp-content/uploads/2024/11/Pieza-separada-A-del-caso-Taula.-Audiencia-Provincial-de-Valencia.pdf"
+- fecha: '2024-07-30'
+  titulo: SAP V 826/2024, sentencia 486/2024, pieza A de Taula. Original CENDOJ, ECLI:ES:APV:2024:826
+  filetype: pdf
+  paginas: 175
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=217e62ab6e83925ca0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2015-03-23"
-    titulo: "Aportaciones de 1.000 euros al grupo municipal del PP en la campaña de 2015"
-    descripcion: "Según recogió el auto del Juzgado de Instrucción nº 18 de Valencia, unas 50 personas vinculadas al grupo municipal del PP de Valencia realizaron aportaciones de 1.000 euros a una cuenta del grupo (Banco Sabadell) entre el 23 de marzo y el 16 de abril de 2015, en vísperas de las elecciones municipales. La hipótesis del instructor era que el dinero les era devuelto en dos billetes de 500 euros procedentes de fondos opacos del partido, operación conocida como 'pitufeo'. La fecha señala el inicio documentado de las aportaciones, no una resolución judicial."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/politica/supremo-abre-causa-rita-barbera.html"
-      - "https://www.eldiario.es/comunitat-valenciana/caso-taula-desinfla-archivo-blanqueo-equipo-rita-barbera_1_8589984.html"
-  - fecha: "2016-01-26"
-    titulo: "Macrorredada de la Operación Taula"
-    descripcion: "La Unidad Central Operativa (UCO) de la Guardia Civil ejecuta la macrorredada de la Operación Taula, con 24 detenidos y numerosos registros en dependencias públicas y domicilios. Entre los arrestados figuran Alfonso Rus, Máximo Caturla, María José Alcón y Mari Carmen García-Fuster. La investigación partía de la denuncia de Esquerra Unida ante la Fiscalía (2014) y de las grabaciones de Marcos Benavent."
-    type: "registro"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/guia-perderse-operacion-taula_1_4140439.html"
-  - fecha: "2016-09-13"
-    titulo: "Se conoce la apertura de causa del Tribunal Supremo contra Rita Barberá por blanqueo"
-    descripcion: "Se conoce, con fecha 13 de septiembre de 2016 (El Español y otras fuentes citan el 12), el auto por el que la Sala de lo Penal del Tribunal Supremo abre causa contra la senadora Rita Barberá, aforada, por presunto blanqueo de capitales, a partir de la exposición razonada del titular del Juzgado de Instrucción nº 18 de Valencia, Víctor Gómez. El magistrado Cándido Conde-Pumpido es designado instructor; el auto cuenta con ponencia de Manuel Marchena. No se ha verificado la fecha exacta del auto en una resolución judicial primaria."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/politica/supremo-abre-causa-rita-barbera.html"
-      - "https://www.ultimahora.es/noticias/nacional/2016/09/13/220002/supremo-abre-causa-contra-rita-barbera-por-pitufeo-valencia.html"
-  - fecha: "2016-11-21"
-    titulo: "Rita Barberá declara ante el Tribunal Supremo"
-    descripcion: "Rita Barberá comparece ante el magistrado Cándido Conde-Pumpido y niega cualquier relación con el 'pitufeo': 'Desconozco todo absolutamente de las cuentas' del PP de Valencia y 'Niego absolutamente la existencia de una caja B'. Es su única declaración judicial en esta causa."
-    type: "declaración"
-    relevancia: "alta"
-    urls:
-      - "https://www.elespanol.com/espana/tribunales/20161121/172482916_0.html"
-  - fecha: "2016-11-23"
-    titulo: "Fallece Rita Barberá dos días después de declarar"
-    descripcion: "Rita Barberá fallece en Madrid dos días después de su declaración ante el Supremo. Con su fallecimiento se extinguió la causa que se seguía contra ella."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/casos-corrupcion-rita-barbera-campanas-electorales-b-agua-mordidas-basuras-alcantarillas_1_10991747.html"
-      - "https://www.elespanol.com/espana/comunidad-valenciana/20220425/supremo-definitivamente-blanqueo-pp-declaro-rita-barbera/667683620_0.html"
-  - fecha: "2021-10-19"
-    titulo: "El juez procesa a 49 excargos del PP, al partido y a Grau por blanqueo"
-    descripcion: "El Juzgado de Instrucción nº 18 de Valencia dicta auto de procesamiento contra 49 exconcejales y asesores del grupo municipal del PP (legislatura 2011-2015), contra Alfonso Grau y contra el PP como persona jurídica por blanqueo de capitales. El auto apreciaba además indicios en la campaña de 2007 (malversación, Grau) y en la de 2011 (cohecho, Grau, y blanqueo, García-Fuster). La Fiscalía Anticorrupción llegó a pedir hasta 15 años de prisión para Grau, 7 para García-Fuster y una multa de 146.000 euros para el PP."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/valencia/juez-procesa-equipo-municipal-pp-rita-barcera-presunto-blanqueo-capitales_1_8410654.html"
-      - "https://www.publico.es/politica/tribunales/anticorrupcion-pide-15-anos-carcel-grau-mano-derecha-barbera-y-multar-al-pp-delito-blanqueo.html"
-  - fecha: "2021-12-14"
-    titulo: "Se conoce el sobreseimiento provisional del 'pitufeo' para 13 exconcejales y asesores"
-    descripcion: "Se conoce, con fecha 14 de diciembre de 2021 según la prensa, el auto por el que la Sección Cuarta de la Audiencia Provincial de Valencia estima los recursos de 13 exconcejales y asesores y acuerda el sobreseimiento provisional del 'pitufeo' al no apreciar indicios suficientes de que conocieran el origen ilícito del dinero; el auto incluye un voto particular de la magistrada Clara Bayarri. Con posterioridad el archivo se extendió a 39 de los 50 investigados, incluido el PP como persona jurídica, mientras la causa continuaba para Grau, García-Fuster y dos responsables de fundaciones municipales. No se ha verificado la fecha exacta del auto en una resolución judicial primaria."
-    type: "sobreseimiento"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/politica/comunitat-valenciana-audiencia-archiva-causa-pitufeo-13-exconcejales-asesores-etapa-rita-barbera.html"
-      - "https://www.libertaddigital.com/espana/2021-12-15/la-audiencia-de-valencia-archiva-la-causa-del-pitufeo-de-la-etapa-de-rita-barbera-al-no-acreditarse-el-blanqueo-6847274/"
-  - fecha: "2021-12-27"
-    titulo: "Se conoce la denegación del recurso de casación de Anticorrupción"
-    descripcion: "Se conoce, con fecha 27 de diciembre de 2021 según la prensa, la resolución por la que la Sección Cuarta de la Audiencia Provincial de Valencia deniega la preparación del recurso de casación del fiscal anticorrupción Pablo Ponce contra los autos de sobreseimiento y le señala la vía de la queja ante la Sala Segunda del Tribunal Supremo."
-    type: "recurso"
-    relevancia: "media"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/jueces-tumbaron-pitufeo-equipo-rita-barbera-caso-taula-deniegan-recurso-anticorrupcion_1_8614344.html"
-  - fecha: "2022-04-25"
-    titulo: "Se conoce la desestimación por el Supremo del recurso de queja de la Fiscalía"
-    descripcion: "Se conoce, con fecha 25 de abril de 2022 según la prensa, el auto por el que la Sala de lo Penal del Tribunal Supremo desestima el recurso de queja de la Fiscalía Anticorrupción contra el archivo del 'pitufeo' para la mayoría de los encausados, al entender que la resolución de la Audiencia no era impugnable en casación. El auto no puso fin a la pieza A, que continuaba para Grau, García-Fuster y dos responsables de fundaciones por la financiación de las campañas de 2007 y 2011."
-    type: "recurso"
-    relevancia: "alta"
-    urls:
-      - "https://www.elespanol.com/espana/comunidad-valenciana/20220425/supremo-definitivamente-blanqueo-pp-declaro-rita-barbera/667683620_0.html"
-  - fecha: "2024-07-30"
-    titulo: "Sentencia de la pieza A: condenas por la financiación de la campaña de 2007"
-    descripcion: "La Sección Segunda de la Audiencia Provincial de Valencia dicta la sentencia nº 486/2024 (SAP V 826/2024; ECLI:ES:APV:2024:826), que condena a Alfonso Grau a cuatro años y medio de prisión, nueve años de inhabilitación para empleo o cargo público, dos años de suspensión de empleo o cargo público y una multa de cinco millones de euros por malversación continuada y cohecho en la campaña de 2007, con una indemnización de 388.150 euros al Ayuntamiento. José Salinas es condenado a cuatro años de prisión y ocho de inhabilitación como cooperador necesario de malversación, respondiendo solidariamente de 210.000 euros. Mari Carmen García-Fuster es absuelta del delito de cohecho y Juan Eduardo Santón de malversación y falsedad documental. La sentencia, de la que consta un auto de aclaración, no era firme y cabía recurso de casación ante el Tribunal Supremo. El juicio de la pieza A se celebró en 2024."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/condenado-cuatro-anos-medio-prision-numero-rita-barbera-financiacion-campanas-pp_1_11558917.html"
-      - "https://www.elespanol.com/valencia/20240730/vicealcalde-valencia-rita-barbera-alfonso-grau-condenado-anos-prision-malversacion-cohecho/874412820_0.html"
-      - "https://www.abc.es/espana/comunidad-valenciana/condenan-cuatro-anos-medio-prision-alfonso-grau-20240730140154-nt.html"
-      - "https://www.telecinco.es/noticias/valencia/20240730/grau-condenado-prision-malversacion-pp_18_013143451.html"
-      - "https://www.eldiario.es/comunitat-valenciana/casos-corrupcion-rita-barbera-campanas-electorales-b-agua-mordidas-basuras-alcantarillas_1_10991747.html"
+- fecha: '2016-02-15'
+  titulo: Formación de la pieza A
+  descripcion: La sentencia de 2024 identifica el auto de esta fecha de formación de la pieza A a partir de diligencias
+    anteriores. No equivale al inicio de todos los hechos investigados ni de las referencias a bolsos.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=217e62ab6e83925ca0a8778d75e36f0d&encode=true&databasematch=AN
+  type: investigacion
+  relevancia: media
+- fecha: '2016-09-13'
+  titulo: Se conoce la apertura de causa contra Barberá
+  descripcion: Público comunica la apertura en el Supremo por blanqueo. Se usa fecha de publicación, sin fijar el
+    día del auto original no obtenido.
+  urls:
+  - https://www.publico.es/politica/supremo-abre-causa-rita-barbera.html
+  type: investigacion
+  relevancia: media
+- fecha: '2016-11-21'
+  titulo: Declaración de Barberá ante el Supremo
+  descripcion: La crónica de la comparecencia documenta que negó una caja B y la devolución en efectivo de su aportación.
+    Su declaración no determina la veracidad de la hipótesis investigada.
+  urls:
+  - https://www.elespanol.com/espana/tribunales/20161121/172482916_0.html
+  type: investigacion
+  relevancia: media
+- fecha: '2021-12-19'
+  titulo: Se informa de archivos parciales del pitufeo
+  descripcion: La información sitúa entonces archivada provisionalmente la causa para 39 de 50 investigados, incluido
+    el PP. Se conserva como alcance publicado en esa fecha, sin convertirlo en un censo final de todos los archivos.
+  urls:
+  - https://www.eldiario.es/comunitat-valenciana/caso-taula-desinfla-archivo-blanqueo-equipo-rita-barbera_1_8589984.html
+  type: investigacion
+  relevancia: media
+- fecha: '2022-04-25'
+  titulo: Se conoce el rechazo de la queja fiscal
+  descripcion: El Español informa de la desestimación por el Supremo al considerar que el sobreseimiento provisional
+    no era susceptible de casación. No supone el archivo de toda la pieza A.
+  urls:
+  - https://www.elespanol.com/espana/comunidad-valenciana/20220425/supremo-definitivamente-blanqueo-pp-declaro-rita-barbera/667683620_0.html
+  type: recurso
+  relevancia: media
+- fecha: '2023-05-11'
+  titulo: Se informa de regalos en el caso Azud
+  descripcion: Cadena SER reproduce la información sobre un informe UCO que atribuye regalos a Barberá entre 2004
+    y 2008. Es otro procedimiento, no sentencia de la pieza A ni daño adicional acumulable.
+  urls:
+  - https://cadenaser.com/comunitat-valenciana/2023/05/11/la-uco-desvela-que-una-contrata-del-ayuntamiento-regalo-bolsos-y-vinos-a-rita-barbera-por-valor-de-7651-euros-radio-valencia/
+  type: resumen
+  relevancia: media
+- fecha: '2024-07-30'
+  titulo: Sentencia de la pieza A
+  descripcion: 'Original 486/2024: condenas de Grau y Salinas, absoluciones y responsabilidad civil parcialmente
+    solidaria. El fallo prevé casación. No se confunde con las absoluciones o condenas de otras piezas de Taula.'
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=217e62ab6e83925ca0a8778d75e36f0d&encode=true&databasematch=AN
+  type: sentencia
+  relevancia: alta
+- fecha: '2026-06-03'
+  titulo: Se informa de que la sentencia fue recurrida
+  descripcion: La noticia sobre el proceso separado por posible falso testimonio de Jesús Gordillo indica que el
+    fallo de 2024 está recurrido ante el Supremo. No acredita resolución de la casación ni una condena por falso
+    testimonio.
+  urls:
+  - https://www.eldiario.es/comunitat-valenciana/abren-juicio-oral-falso-testimonio-exasesor-pp-trato-reventar-juicio-taula-caja-b-valencia_1_13269327.html
+  type: recurso
+  relevancia: media
 ---
+
+Los regalos de bolsos aparecen en [informaciones de Azud](https://cadenaser.com/comunitat-valenciana/2023/05/11/la-uco-desvela-que-una-contrata-del-ayuntamiento-regalo-bolsos-y-vinos-a-rita-barbera-por-valor-de-7651-euros-radio-valencia/) y en el contexto de otras investigaciones. Su mera agrupación divulgativa no acredita un procedimiento autónomo llamado «Bolsos». Por eso no se atribuyen a Álvaro Pérez o Esteban Cuesta las condenas de la pieza A, ni se trasladan los desenlaces de Gürtel, Emarsa o Azud.
+
+El [original de la sentencia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=217e62ab6e83925ca0a8778d75e36f0d&encode=true&databasematch=AN) permite verificar fecha, número y fallo: 175 páginas en la versión CENDOJ, con cabecera en página 1 y dispositivo en 174–175. La identificación nominal de los cuatro acusados se contrasta con la [prensa contemporánea](https://www.eldiario.es/comunitat-valenciana/condenado-cuatro-anos-medio-prision-numero-rita-barbera-financiacion-campanas-pp_1_11558917.html); no se deducen identidades únicamente de los seudónimos del PDF. Los 210.000 euros de responsabilidad solidaria de Salinas están comprendidos en los 388.150 euros de Grau; la multa de 5 millones es una pena separada.
+
+La [noticia de junio de 2026](https://www.eldiario.es/comunitat-valenciana/abren-juicio-oral-falso-testimonio-exasesor-pp-trato-reventar-juicio-taula-caja-b-valencia_1_13269327.html) confirma la existencia de recurso, pero no su desenlace. Tampoco permite calificar de condenado al testigo investigado por supuesto falso testimonio. Faltan los autos originales de los archivos del pitufeo, los recursos individuales y la situación final de la casación hasta el corte. No se afirma firmeza por ausencia de noticias.
