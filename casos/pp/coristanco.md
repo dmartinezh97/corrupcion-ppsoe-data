@@ -3,8 +3,8 @@ nombre: "Coristanco"
 partido: PP
 completado: false
 año: 2013
-fechaInicio: 2013-08-12
-fechaFin: "2024-05-16"
+fechaInicio: "2013-08-12"
+fechaFin: ""
 estado: "sentencia firme"
 descripcion: |
   El caso Coristanco afecta al exalcalde del PP Antonio Pensado Plágaro, alcalde del municipio coruñés entre 1991 y 2015, y a los tres hermanos José Manuel, Francisco Javier y Juan Martínez Pena, administradores de las empresas del grupo Maracaná (Construcciones Martínez e Hijos S.L., Gesmaga S.L. y otras). El procedimiento se abrió a raíz de la querella de un empresario rival (julio de 2013) por el trato de favor en la concesión de licencias de plantas de compostaje y de la denuncia que la secretaria municipal presentó ante la Fiscalía Provincial de A Coruña el 12 de agosto de 2013 por presiones y por irregularidades en la contratación. La instrucción correspondió al Juzgado de Primera Instancia e Instrucción número 1 de Carballo y se dividió en tres bloques: contratación de obra pública (2009-2013), depósito de residuos de construcción en una finca y licencias para plantas de compostaje y tratamiento de lodos.
@@ -15,9 +15,8 @@ descripcion: |
 
   El Tribunal Supremo desestimó el recurso de casación interpuesto únicamente por la acusación particular (el empresario querellante) mediante sentencia número 401/2024 de 16 de mayo de 2024 (ROJ STS 2729/2024). El Ministerio Fiscal y la defensa de Pensado habían desistido de sus recursos, de modo que la condena quedó firme. La confirmación se conoció el 23 de mayo de 2024.
 
-  La ficha se limita a este procedimiento. La causa relativa a las entregas de hormigón para uso particular y al suministro de gasóleo (malversación, prevaricación y fraude) fue un procedimiento distinto que terminó con la absolución del exalcalde en julio de 2021; se conoce por prensa y no se ha localizado la resolución primaria. La denominación «Operación Pataca» procede de la prensa local y no consta como nombre oficial de la causa. La revisión no ha localizado resoluciones ni noticias posteriores a mayo de 2024 que alteren lo anterior.
+  La ficha se limita a este procedimiento. La causa relativa a las entregas de hormigón para uso particular y al suministro de gasóleo (malversación, prevaricación y fraude) fue un procedimiento distinto que terminó con la absolución del exalcalde en julio de 2021; se conoce por prensa y no se ha localizado la resolución primaria. La denominación «Operación Pataca» procede de la prensa local y no consta como nombre oficial de la causa. La revisión hasta el 17 de octubre de 2026 no ha localizado una resolución posterior que altere este resultado, ni la liquidación, cumplimiento o extinción de la inhabilitación. No se fija coste: la facturación de contratos y la sanción administrativa no son daño patrimonial acreditado en esta causa. La falta de hallazgos no prueba la inexistencia de actuaciones posteriores.
 resumen: "Exalcalde del PP de Coristanco condenado a 7 años de inhabilitación, de forma firme en 2024, por autorizar en 2012 el depósito de residuos sin competencia; absuelto de las demás acusaciones."
-coste: 2368234.89
 lugar: "Coristanco, A Coruña, Galicia"
 tribunal:
   - "Audiencia Provincial de A Coruña - Sección Segunda"
@@ -62,42 +61,42 @@ documentos:
     nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=7479e7717e4d034aa0a8778d75e36f0d&encode=true&databasematch=TS"
 
 cronologia:
-  - fecha: 2012-06-14
+  - fecha: "2012-06-14"
     titulo: "Autorización municipal: fecha que consta en el documento"
     descripcion: "El alcalde Antonio Pensado Plágaro dicta, a petición directa de los administradores de Construcciones Martínez e Hijos S.L. (grupo Maracaná), un escrito sin destinatario por el que autoriza a la empresa a almacenar y triturar de forma temporal residuos de construcción y demolición en una finca. El documento lleva la fecha de 14 de junio de 2012, cinco días antes de la inspección del SEPRONA del 19 de junio. La Audiencia precisa que uno de los empresarios acudió al Ayuntamiento a buscar el papel cuando se realizó la inspección y que de ello «permite inferir que ni siquiera puede deducirse que efectivamente se hubiese realizado en aquella fecha»; la fecha del documento es, por tanto, la que figura en él, y no consta como fecha efectiva de su dictado. La sentencia declaró probado que el alcalde carecía de competencia (correspondía a la Consellería de Medio Ambiente de la Xunta), que no se tramitó expediente ni se evaluó el impacto ambiental y que los acusados actuaron de forma concertada. Es el hecho por el que se produjo la condena firme por prevaricación."
     type: "resumen"
     urls:
       - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=b2c54a588b15226da0a8778d75e36f0d&encode=true&databasematch=AN"
 
-  - fecha: 2013-08-12
+  - fecha: "2013-08-12"
     titulo: "Denuncia de la secretaria municipal ante la Fiscalía Provincial"
     descripcion: "La secretaria municipal del Ayuntamiento de Coristanco presenta ante la Fiscalía Provincial de A Coruña una denuncia en la que manifiesta sentirse presionada por el alcalde y advierte de irregularidades en la contratación de obras y servicios. Tras las diligencias de investigación, la Fiscalía presentó la denuncia, que se incorporó al procedimiento incoado por la querella de un empresario rival (julio de 2013) sobre las licencias de las plantas de compostaje. La instrucción correspondió al Juzgado de Instrucción número 1 de Carballo. La prensa local denominó al conjunto «Operación Pataca», nombre no oficial."
     type: "denuncia"
     urls:
       - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=7479e7717e4d034aa0a8778d75e36f0d&encode=true&databasematch=TS"
 
-  - fecha: 2014-08-06
+  - fecha: "2014-08-06"
     titulo: "Se informa de una denuncia de Terra Galega sobre el uso de medios públicos para la defensa"
     descripcion: "Adiante Galicia publica que el grupo Terra Galega denunció que los concejales imputados del PP, entre ellos el alcalde, empleaban parte de su jornada y las dependencias municipales para preparar su defensa judicial. Se trata de una denuncia política, no de un hecho declarado judicialmente. La fecha es la de publicación de la noticia."
     type: "resumen"
     urls:
       - "https://www.adiantegalicia.es/municipal/2014/08/06/antonio-pensado-usa-medios-publicos-para-su-defensa.html"
 
-  - fecha: 2015-05-24
+  - fecha: "2015-05-24"
     titulo: "Elecciones municipales"
     descripcion: "Se celebran las elecciones municipales de mayo de 2015. No consta que Pensado cesara como alcalde ese mismo día: el Tribunal Supremo sitúa el final de su etapa al frente de la alcaldía en mayo de 2015 y menciona, en relación con otro expediente, una actuación del alcalde «en funciones» el 11 de junio de 2015, después de haberse celebrado ya las elecciones municipales. La prensa lo sitúa después como edil y, más tarde, como teniente de alcalde en un gobierno local del PP, lo que motivó nuevas peticiones de dimisión."
     type: "resumen"
     urls:
       - "https://www.eldiario.es/galicia/siete-anos-inhabilitacion-prevaricacion-exalcalde-pp-coristanco-coruna_1_8646866.html"
 
-  - fecha: 2017-05-10
+  - fecha: "2017-05-10"
     titulo: "Se informa del sobreseimiento provisional de la causa por acoso laboral"
     descripcion: "Se publica que el Juzgado de Instrucción número 2 de Carballo acordó el sobreseimiento provisional y archivo de la causa abierta por la denuncia de la secretaria municipal, María del Carmen Seoane Bouzas, por presuntos delitos de acoso laboral, prevaricación administrativa, lesiones psíquicas y revelación de secretos (hechos de 2013 y 2014). El juez consideró que no aparecía debidamente justificada la perpetración del delito; la información precisa que contra la resolución cabía recurso. Se trata de una causa distinta de la que terminó en la condena por prevaricación. La fecha es la de publicación de la noticia; no consta la fecha exacta del auto."
     type: "investigacion"
     urls:
       - "https://www.adiantegalicia.es/costa-da-morte/2017/05/10/sobreseida-una-causa-contra-el-exalcalde-de-coristanco-antonio-pensado-plagaro.html"
 
-  - fecha: 2018-05-17
+  - fecha: "2018-05-17"
     titulo: "Se informa de la apertura del juicio oral y de peticiones de dimisión"
     descripcion: "Se conoce la apertura del juicio oral contra Pensado por el Juzgado de Instrucción número 1 de Carballo. El BNG (14 de mayo) y En Marea de Coristanco (17 de mayo) piden la dimisión del entonces teniente de alcalde, y la Fiscalía solicita para él cuatro años y medio de prisión y 36 años de inhabilitación. La fecha es la de publicación de la noticia de En Marea; la apertura del juicio oral se había conocido días antes."
     type: "juicio"
@@ -105,14 +104,14 @@ cronologia:
       - "https://www.quepasanacosta.gal/articulo/costa-da-morte/en-marea-de-coristanco-pide-a-dimision-de-antonio-pensado/20180517081044088025.html"
       - "https://www.quepasanacosta.gal/articulo/coristanco/pensado-plagaro-pasou-de-novo-polo-xulgado-de-carballo-no-marco-da-operacion-pataca/20180515114923087994.html"
 
-  - fecha: 2021-10-15
+  - fecha: "2021-10-15"
     titulo: "Inicio del juicio oral en la Audiencia Provincial"
     descripcion: "El juicio oral ante la Sección Segunda de la Audiencia Provincial de A Coruña estaba señalado para los días 15, 25, 26, 27 y 28 de octubre y 16, 17 y 18 de noviembre (antecedente de hecho primero de la sentencia de instancia). La crónica de Galiciapress del 15 de octubre de 2021, que recoge la primera jornada, relata que Pensado negó haber favorecido a las empresas, afirmó que se limitaba a seguir las instrucciones de los técnicos y defendió su gestión."
     type: "juicio"
     urls:
       - "https://www.galiciapress.es/texto-diario/mostrar/3234941/exregidor-coristanco-antonio-pensado-niega-favoreciese-empresa-segui-instrucciones-tecnicos"
 
-  - fecha: 2022-01-10
+  - fecha: "2022-01-10"
     titulo: "Sentencia de la Audiencia Provincial: condena por prevaricación"
     descripcion: "La Sección Segunda de la Audiencia Provincial de A Coruña dicta la sentencia número 14/2022 (ECLI:ES:APC:2022:934), que condena a Pensado y a los tres hermanos Martínez Pena a siete años de inhabilitación especial para empleo o cargo público —incluida la inhabilitación para cualquier puesto electivo local— por un delito de prevaricación, con la atenuante de dilaciones indebidas, por la autorización de residuos de 2012. Les absuelve de los demás delitos de prevaricación y del de tráfico de influencias y a Pensado del de falsedad. La sentencia se hizo pública el 11 de enero. La fecha es la de la resolución."
     type: "sentencia"
@@ -121,7 +120,7 @@ cronologia:
       - "https://www.eldiario.es/galicia/siete-anos-inhabilitacion-prevaricacion-exalcalde-pp-coristanco-coruna_1_8646866.html"
       - "https://www.lavozdegalicia.es/noticia/carballo/coristanco/2022/01/11/antonio-pensadocondenado-7-anos-inhabilitacion-prevaricacion-administrativa/00031641915444298110880.htm"
 
-  - fecha: 2024-05-16
+  - fecha: "2024-05-16"
     titulo: "El Tribunal Supremo confirma la condena (sentencia firme)"
     descripcion: "La Sala de lo Penal del Tribunal Supremo dicta la sentencia número 401/2024 (ROJ STS 2729/2024; recurso de casación 2411/2022), que desestima el recurso de casación de la acusación particular —el empresario querellante— y confirma la sentencia de la Audiencia. El Ministerio Fiscal y la defensa de Pensado habían desistido de sus recursos, por lo que la condena devino firme. La confirmación se conoció el 23 de mayo de 2024. La fecha es la de la resolución."
     type: "sentencia"
@@ -131,9 +130,9 @@ cronologia:
       - "https://www.nosdiario.gal/articulo/politica/supremo-confirma-inhabilitacion-do-exalcalde-coristanco-prevaricacion/20240523084326198464.html"
 ---
 
-## Alcance y límites de la ficha (revisión de 1 de octubre de 2026)
+## Alcance y límites de la ficha (revisión de 17 de octubre de 2026)
 
-- **Fuentes primarias.** Se han comprobado la sentencia de la Audiencia Provincial de A Coruña SAP C 934/2022, de 10 de enero de 2022 (40 págs.), y la sentencia del Tribunal Supremo STS 401/2024, de 16 de mayo de 2024 (21 págs.). Ambas anonimizan a las personas físicas; la sentencia de la Audiencia sí identifica a las sociedades (Gesmaga S.L. y Construcciones Martínez e Hijos S.L.) y al grupo Maracaná.
+- **Fuentes primarias.** Se han descargado completas por GET y cotejado parcialmente la sentencia de la Audiencia Provincial de A Coruña SAP C 934/2022, de 10 de enero de 2022 (40 págs.), y la sentencia del Tribunal Supremo STS 401/2024, de 16 de mayo de 2024 (21 págs.). Ambas anonimizan a las personas físicas; la sentencia de la Audiencia sí identifica a las sociedades (Gesmaga S.L. y Construcciones Martínez e Hijos S.L.) y al grupo Maracaná.
 - **Fecha de la sentencia de instancia.** La cabecera del PDF y la sentencia del Supremo la fechan el 10 de enero de 2022. El cuerpo del PDF contiene un error material: dice «En A Coruña, a 10 de enero de 2021». Se toma como fecha correcta 2022, confirmada por el Supremo. La sentencia se conoció el 11 de enero de 2022.
 - **Autorización de residuos.** El documento lleva la fecha de 14 de junio de 2012, cinco días antes de la inspección del SEPRONA (19 de junio). La Audiencia precisa que uno de los empresarios acudió al Ayuntamiento a buscar el papel durante la inspección y que ello «permite inferir que ni siquiera puede deducirse que efectivamente se hubiese realizado en aquella fecha»: la fecha que figura en el documento no consta como fecha efectiva de su dictado. El Supremo confirma la condena por este hecho.
 - **Autoría.** El fallo de la Audiencia condena a los cuatro acusados como «autores» de un delito de prevaricación (arts. 28 y 65.3 CP). En el fundamento séptimo razona la participación de los tres hermanos como «cooperadores necesarios». Se recoge la calificación del fallo.
@@ -146,3 +145,11 @@ cronologia:
 - **Fecha de inicio.** Se fija `fechaInicio` el 12 de agosto de 2013, fecha documentada de la denuncia de la secretaria ante la Fiscalía. La querella del empresario rival, que originó el procedimiento, es de julio de 2013, sin día exacto documentado.
 - **Firmeza.** La condena es firme: el Supremo desestimó el único recurso pendiente (el de la acusación particular) mediante una resolución contra la que no cabe recurso; la defensa de Pensado y el Ministerio Fiscal habían desistido previamente.
 - **Sin novedades posteriores.** No se han localizado resoluciones ni noticias posteriores a mayo de 2024 que modifiquen lo anterior; la ficha no da por mantenida ninguna situación política o personal posterior a esa fecha.
+
+## Alcance real de lectura y ejecución
+
+Ambos originales CENDOJ se han obtenido con HTTP200. La lectura de esta revisión es parcial: de la Audiencia (40 páginas), cabecera, fragmentos de antecedentes y hechos sobre denuncia, facturación y sanción administrativa (páginas 1–5 y 16), así como el tramo final de penas, costas y fallo (38–40); del Supremo (21 páginas), cabecera, antecedentes iniciales, extractos relativos a la autorización y sanción, transcripción del fallo, desistimientos y razonamiento final con fallo (1–3, extractos de 12–13, 18 y 20–21). No se afirma una nueva lectura íntegra de todos sus fundamentos.
+
+Se han leído los cuerpos de las crónicas de elDiario.es y La Voz de Galicia de 11 de enero de 2022 y de Europa Press de 23 de mayo de 2024. La Voz identifica nominalmente a los tres hermanos; los seudónimos judiciales no se usan para inferir sus identidades. Las otras páginas históricas descargadas no se presentan como leídas íntegramente. La resolución de instancia se fecha el 10 de enero y su publicación periodística el día 11; el Supremo resolvió el 16 de mayo de 2024 y la noticia contrastada se publicó el 23.
+
+El Supremo recoge los decretos de 22 y 26 de mayo de 2022 por los que se tuvo por desistidos al Ministerio Fiscal y al exalcalde, respectivamente. Su fallo desestima la casación de la acusación particular y dice expresamente que no cabe recurso: la firmeza no se deduce del silencio informativo. No se confunde con ejecución: `fechaFin` queda vacía al no haberse comprobado la liquidación o extinción de los siete años de inhabilitación. Los 15.000 euros pagados por la empresa son una sanción administrativa recogida en los hechos, sin sumarse a la facturación ni tratarse como indemnización penal.
