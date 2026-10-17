@@ -1,120 +1,125 @@
 ---
-nombre: "Caso Invercaria/Keepfresh"
+nombre: Caso Invercaria/Keepfresh
 partido: PSOE
-completado: true
-año: 2013
-fechaInicio: 2013-01-01
-fechaFin: ""
-estado: en investigación
-descripcion: |
-  El caso Invercaria/Keepfresh es una pieza separada de la macrocausa judicial sobre irregularidades en la empresa de capital riesgo Invercaria, adscrita a la Agencia de Innovación y Desarrollo (IDEA) de la Junta de Andalucía. La investigación se centra en préstamos concedidos de forma arbitraria y sin control por valor de 2,22 millones de euros a cuatro sociedades vinculadas al proyecto empresarial Keepfresh, en las que figuran como socias la cuñada del expresidente de Invercaria, Tomás Pérez-Sauquillo, y la esposa del ex director financiero de la empresa pública.
+completado: false
+año: 2018
+estado: Juicio oral abierto; desenlace no acreditado
+descripcion: 'Pieza de Invercaria sobre inversiones por 2.222.600 euros en Keepfresh Verde y Natural, Keepfresh
+  Agroandalucía, Desarrollos Industriales Herón y Allfresh Investigación, Desarrollo y Comercialización. El instructor
+  consideró indiciariamente irregulares las inversiones, preferentemente préstamos participativos, que habrían recibido
+  un tratamiento separado pese a responder a un mismo proyecto. La apertura de juicio oral de 22 de octubre de 2018
+  afectó a ocho acusados por presuntos delitos de prevaricación, malversación y gestión interesada; no constituye
+  una condena.
 
-  Entre 2004 y 2010, Invercaria efectuó inversiones con capital público procedente de la agencia IDEA en las sociedades Keepfresh Verde y Natural, Keepfresh Agroandalucía, Desarrollos Industriales Herón y Allfresh Investigación, Desarrollo y Comercialización mediante préstamos participativos que el juez del Juzgado de Instrucción número 16 de Sevilla calificó como de naturaleza irregular. El magistrado Juan Gutiérrez Casillas ha citado como investigados por prevaricación y malversación al expresidente de Invercaria, a su cuñada Cristina Perera, al exdirector financiero Antonio Nieto y a su esposa María Luisa Arcos, entre otras personas.
 
-  El caso forma parte del entramado de corrupción destapado en Andalucía durante los gobiernos del PSOE, vinculado al macrocaso de los ERE. La causa ha sufrido múltiples dilaciones, con suspensiones de juicios por motivos médicos del principal acusado, que ha sido condenado en otras piezas de Invercaria por préstamos irregulares a empresas como Aceitunas Tatis, Fumapa y Cedes Electria. El juicio sobre la pieza de Keepfresh permanece pendiente de celebración, con varias suspensiones desde 2024.
+  La acusación incluía a los antiguos directivos Tomás Pérez-Sauquillo y Antonio Nieto, a representantes de las
+  sociedades receptoras y a Mariano Pérez-Sauquillo, Cristina Perera y María Luisa Arcos, familiares de los dos
+  primeros. Para estos tres últimos la Fiscalía pedía multa e inhabilitación, sin prisión; para los dos exdirectivos
+  solicitaba seis años de prisión, además de otras penas. Son peticiones fiscales, no penas impuestas. Una crónica
+  de enero de 2023 habla de siete acusados, aunque enumera ocho: falta aclarar documentalmente el número definitivo
+  y cualquier cambio individual.
 
-resumen: "Préstamos irregulares por 2,22 millones a empresas vinculadas a familiares de directivos de Invercaria"
-coste: 2220000
-lugar: "Sevilla, Andalucía"
+
+  El inicio previsto para el 1 de febrero de 2023 se suspendió por la huelga de letrados de la Administración de
+  Justicia y la renuncia de una defensa. Europa Press informó el 1 de junio de 2025 de otra suspensión acordada
+  en marzo de 2024 para el juicio previsto en abril, por documentación médica de Pérez-Sauquillo. No se ha acreditado
+  el desenlace de esta pieza ni su situación posterior hasta el 15 de octubre de 2026, y faltan las resoluciones
+  originales. Los 2.222.600 euros describen las inversiones investigadas, no un perjuicio declarado en sentencia;
+  tampoco se suman las distintas peticiones de indemnización. Las condenas o absoluciones de otras piezas de Invercaria
+  no resuelven Keepfresh.'
+resumen: Pieza sobre inversiones de Invercaria en cuatro sociedades de Keepfresh; juicio oral abierto y aplazamientos
+  documentados.
+lugar: Sevilla, Andalucía
 tribunal:
-  - "Juzgado de Instrucción nº 16 de Sevilla - Juez Juan Gutiérrez Casillas"
-  - "Audiencia Provincial de Sevilla"
-numeroSentencia: ""
+- Juzgado de Instrucción nº 16 de Sevilla
+- Audiencia Provincial de Sevilla, Sección Primera
 implicados:
-  - nombre: "Tomás Pérez-Sauquillo"
-    cargo: "Expresidente y exconsejero delegado de Invercaria"
-    rol: "Investigado por prevaricación y malversación en préstamos irregulares a empresas de familiares"
-
-  - nombre: "Antonio Nieto Garrido"
-    cargo: "Exdirector financiero de Invercaria"
-    rol: "Investigado por cooperación en la concesión irregular de préstamos participativos"
-
-  - nombre: "Cristina Perera Briones"
-    cargo: "Cuñada de Tomás Pérez-Sauquillo, socia de Crisopeya Inversiones S.L."
-    rol: "Investigada por recibir préstamos irregulares a través de sociedades vinculadas a Keepfresh"
-
-  - nombre: "María Luisa Arcos Rayos"
-    cargo: "Esposa de Antonio Nieto, socia de Crisopeya Inversiones S.L."
-    rol: "Investigada por recibir fondos públicos irregulares en empresas del grupo Keepfresh"
-
-  - nombre: "Mariano Pérez-Sauquillo"
-    cargo: "Hermano de Tomás Pérez-Sauquillo"
-    rol: "Vinculado a las sociedades beneficiarias de préstamos irregulares de Invercaria"
-
+- nombre: Tomás Pérez-Sauquillo
+  cargo: Expresidente y exconsejero delegado de Invercaria
+  rol: Acusado en la apertura de juicio oral de 2018. La Fiscalía solicitaba seis años de prisión por malversación
+    y otras penas por prevaricación y gestión interesada; desenlace individual no acreditado.
+- nombre: Antonio Nieto Garrido
+  cargo: Exdirector financiero de Invercaria
+  rol: Acusado; la Fiscalía solicitaba seis años de prisión por malversación y otras penas por prevaricación y gestión
+    interesada. Desenlace individual no acreditado.
+- nombre: Mariano Pérez-Sauquillo
+  cargo: Hermano de Tomás Pérez-Sauquillo
+  rol: Acusado; petición fiscal de multa de 3.000 euros y un año de inhabilitación, sin prisión. Desenlace individual
+    no acreditado.
+- nombre: Cristina Perera
+  cargo: Esposa de Mariano Pérez-Sauquillo y cuñada de Tomás
+  rol: Acusada; petición fiscal de multa de 3.000 euros y un año de inhabilitación, sin prisión. Desenlace individual
+    no acreditado.
+- nombre: María Luisa Arcos
+  cargo: Esposa de Antonio Nieto
+  rol: Acusada; petición fiscal de multa de 3.000 euros y un año de inhabilitación, sin prisión. Desenlace individual
+    no acreditado.
+- nombre: Juan Luis Pedro
+  cargo: Representante de sociedades del proyecto Keepfresh
+  rol: Incluido entre los acusados en la crónica de enero de 2023; petición fiscal de dos años y medio de prisión.
+    No se acredita desenlace individual.
+- nombre: Aliana Cobuscean
+  cargo: Presidenta de All Fresh y secretaria de Herón, según la crónica de 2023
+  rol: Incluida entre los acusados; petición fiscal de dos años y medio de prisión. No se acredita desenlace individual.
+- nombre: Antonio Sánchez García
+  cargo: Socio de Keepfresh Verde y Natural y Keepfresh Agroandalucía
+  rol: Incluido entre los acusados en la crónica de enero de 2023; petición fiscal de dos años y medio de prisión.
+    No se acredita desenlace individual.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "tráfico de influencias"
-  - "financiación irregular"
-
-impactoSocial: "El caso forma parte del entramado de corrupción del PSOE andaluz vinculado a los ERE, afectando la confianza en las empresas públicas de capital riesgo y evidenciando la falta de controles en la adjudicación de fondos públicos a empresas vinculadas a familiares de altos cargos."
-
-documentos: null
-
+- Invercaria
+- Keepfresh
+- malversación
+- prevaricación
+- gestión interesada
+impactoSocial: La pieza examina los controles de inversión de una sociedad pública de capital riesgo y los posibles
+  conflictos de intereses por la participación de familiares de sus directivos en sociedades vinculadas al proyecto.
+documentos: []
 cronologia:
-  - fecha: 2004-01-01
-    titulo: "Inicio del periodo de préstamos irregulares"
-    descripcion: "Invercaria comienza a realizar inversiones con capital público en el proyecto empresarial Keepfresh a través de préstamos participativos a cuatro sociedades vinculadas. Estos préstamos se conceden entre 2004 y 2010 por un montante total de 2.222.600 euros, según la investigación judicial posterior."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Invercaria/Keepfresh&numero=443"
-
-  - fecha: 2010-12-31
-    titulo: "Fin del periodo investigado de concesión de préstamos"
-    descripcion: "Concluye el periodo durante el cual Invercaria concedió préstamos participativos irregulares a las sociedades Keepfresh Verde y Natural, Keepfresh Agroandalucía, Desarrollos Industriales Herón y Allfresh Investigación, Desarrollo y Comercialización. El juez posterior señala que todas estas inversiones respondían a un único propósito y proyecto común, aunque tuvieron tratamiento separado en Invercaria."
-    type: "resumen"
-    urls:
-      - "https://okdiario.com/andalucia/ex-alto-cargo-socialista-perez-sauquillo-pide-suspender-otro-juicio-dilapidar-22-millones-14236827"
-
-  - fecha: 2013-01-22
-    titulo: "Inicio de las investigaciones de Invercaria"
-    descripcion: "La juez Mercedes Alaya, que investiga el macrocaso de los ERE de Andalucía, inicia las investigaciones sobre Invercaria como pieza separada. La exdirectora de Invercaria y un sobrino de Felipe González declaran ante la Policía en el marco de las primeras pesquisas sobre irregularidades en la empresa de capital riesgo de la Junta de Andalucía."
-    type: "investigación"
-    urls:
-      - "https://www.libertaddigital.com/espana/2013-01-22/la-exdirectora-de-invercaria-y-un-sobrino-de-felipe-gonzalez-declaran-ante-la-policia-1276480125/"
-      - "https://es.wikipedia.org/wiki/Caso_Invercaria"
-
-  - fecha: 2018-10-22
-    titulo: "Auto de apertura de juicio oral contra ocho acusados"
-    descripcion: "El juez de Instrucción número 16 de Sevilla, Juan Gutiérrez Casillas, dicta auto de apertura de juicio oral contra el expresidente de Invercaria, Tomás Pérez-Sauquillo, y otras siete personas por las ayudas concedidas a las sociedades del grupo Keepfresh. Los acusados son investigados por presuntos delitos de prevaricación en concurso ideal medial con malversación de caudales públicos y un delito de gestión interesada del artículo 439 del Código Penal."
-    type: "investigación"
-    urls:
-      - "http://www.sevillaactualidad.com/sevilla/108881-el-magistrado-abre-juicio-oral-contra-el-presidente-de-ivercaria/"
-
-  - fecha: 2022-10-20
-    titulo: "Tribunal Supremo confirma condena a Pérez-Sauquillo por caso Tatis"
-    descripcion: "El Tribunal Supremo confirma la condena de tres años y medio de prisión a Tomás Pérez-Sauquillo por el préstamo irregular de Invercaria a la empresa Aceitunas Tatis. Esta condena, en una pieza separada del caso Invercaria, evidencia el patrón de irregularidades en la concesión de préstamos participativos durante su gestión al frente de la empresa pública."
-    type: "sentencia"
-    urls:
-      - "https://www.que.es/2022/10/20/ts-confirma-condena-tres-anos-medio-perez-sauquillo-prestamo-invercaria-tatis/"
-
-  - fecha: 2023-03-09
-    titulo: "Absolución en caso FIVA"
-    descripcion: "La Audiencia Provincial de Sevilla absuelve a Tomás Pérez-Sauquillo, su hermano Mariano y los restantes acusados por los préstamos de Invercaria a las Ferias Internacionales Virtuales de Andalucía (FIVA), otra pieza separada del caso. Esta absolución contrasta con otras condenas del expresidente de Invercaria en diferentes piezas judiciales."
-    type: "sentencia"
-    urls:
-      - "https://www.elconfidencialdigital.com/articulo/ultima-hora/absueltos-perez-sauquillo-hermano-restantes-acusados-prestamos-invercaria-fiva/20230309112306534521.html"
-
-  - fecha: 2024-03-15
-    titulo: "Suspensión del juicio previsto para abril de 2024"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Sevilla suspende el juicio previsto para abril de 2024 contra Tomás Pérez-Sauquillo por las irregularidades detectadas en los 2,22 millones de euros concedidos a las sociedades del grupo Keepfresh. La suspensión se produce debido a la documentación médica aportada por la representación del acusado, alegando dolencias relacionadas con el corazón y la próstata por las cuales había sido intervenido quirúrgicamente."
-    type: "resumen"
-    urls:
-      - "https://okdiario.com/andalucia/ex-alto-cargo-socialista-perez-sauquillo-pide-suspender-otro-juicio-dilapidar-22-millones-14236827"
-
-  - fecha: 2024-09-19
-    titulo: "Tribunal Supremo eleva condena por gastos de personal"
-    descripcion: "El Tribunal Supremo revoca la condena inicial y eleva la pena a Tomás Pérez-Sauquillo a cuatro años y seis meses de prisión y ocho años de inhabilitación absoluta por un delito continuado de prevaricación en concurso medial con malversación en la pieza de gastos de personal de Invercaria. También eleva la condena de Antonio Nieto Garrido a dos años y tres meses de prisión. Esta sentencia refuerza los indicios de criminalidad en otras piezas pendientes, incluida la de Keepfresh."
-    type: "sentencia"
-    urls:
-      - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1247799"
-      - "https://www.eldiario.es/andalucia/supremo-eleva-cuatro-anos-medio-condena-expresidente-empresa-capital-riesgo-andalucia_1_11666920.html"
-
-  - fecha: 2025-02-05
-    titulo: "Nuevo juicio pendiente con petición de seis años y medio"
-    descripcion: "La Fiscalía Anticorrupción solicita una pena de seis años y medio de prisión para Tomás Pérez-Sauquillo en un nuevo juicio pendiente por otra pieza del caso Invercaria. Este juicio se suma al pendiente sobre Keepfresh y evidencia la acumulación de causas abiertas contra el expresidente de la empresa pública, que ha logrado dilatar los procedimientos mediante diferentes recursos y alegaciones médicas."
-    type: "resumen"
-    urls:
-      - "https://www.teleprensa.com/articulo/sevilla/nuevo-juicio-invercaria-miercoles-peticion-seis-anos-medio-carcel-perez-sauquillo/202502050452272024397.html"
+- fecha: '2018-09-26'
+  titulo: Transformación en procedimiento abreviado
+  descripcion: Según Europa Press, el auto de esta fecha apreció indicios para continuar contra ocho investigados;
+    no declaró su culpabilidad.
+  urls:
+  - https://www.europapress.es/andalucia/noticia-abren-juicio-oral-contra-expresidente-invercaria-siete-personas-mas-ayudas-22-millones-keepfresh-20181023153037.html
+  type: investigacion
+  relevancia: media
+- fecha: '2018-10-22'
+  titulo: Apertura de juicio oral contra ocho acusados
+  descripcion: El instructor abrió juicio oral y declaró competente a la Audiencia de Sevilla. La noticia de Europa
+    Press de 23 de octubre identifica expresamente la fecha del auto.
+  urls:
+  - https://www.europapress.es/andalucia/noticia-abren-juicio-oral-contra-expresidente-invercaria-siete-personas-mas-ayudas-22-millones-keepfresh-20181023153037.html
+  type: juicio
+  relevancia: alta
+- fecha: '2023-01-29'
+  titulo: Se anuncia el señalamiento de febrero
+  descripcion: Diario de Sevilla anunció el inicio para el 1 de febrero y sesiones hasta el 8 de marzo. El titular
+    y el texto mencionan siete acusados, pero la relación nominal contiene ocho; no permite deducir un archivo individual.
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/secreto_de_sumario/ayuda-fresca-costo-dos-millones-Invercaria-noveno-juicio-Keep-Fresh_0_1760825497.html
+  type: juicio
+  relevancia: media
+- fecha: '2023-02-01'
+  titulo: Suspendido el inicio del juicio
+  descripcion: La crónica de Europa Press publicada por Teleprensa documenta la suspensión del inicio previsto para
+    ese día por la huelga de LAJ y la renuncia reciente de una defensa.
+  urls:
+  - https://www.teleprensa.com/articulo/sevilla/suspendido-juicio-prestamos-22-millones-invercaria-keepfresh-huelga-laj/202302011323071394647.html
+  type: juicio
+  relevancia: media
+- fecha: '2025-06-01'
+  titulo: Se recuerda el aplazamiento acordado en marzo de 2024
+  descripcion: 'En una noticia sobre otra pieza, Europa Press identifica expresamente Keepfresh al recordar que
+    la Sección Primera suspendió en marzo de 2024 su juicio previsto para abril por documentación médica de Pérez-Sauquillo.
+    Esta es la fecha de publicación: no se conoce el día exacto de la resolución de suspensión.'
+  urls:
+  - https://www.europapress.es/andalucia/noticia-nuevo-juicio-lunes-sevilla-expresidente-invercaria-presunta-malversacion-prestamos-bioaveda-20250601132450.html
+  type: juicio
+  relevancia: media
 ---
+
+La investigación de Keepfresh se refiere a la financiación de un proyecto de conservación de productos vegetales a través de cuatro sociedades. El auto de procedimiento abreviado, descrito por [Europa Press](https://www.europapress.es/andalucia/noticia-abren-juicio-oral-contra-expresidente-invercaria-siete-personas-mas-ayudas-22-millones-keepfresh-20181023153037.html), situaba las inversiones investigadas entre 2004 y 2010. La noticia atribuye al instructor la valoración de irregularidad y señala que parte de los préstamos se había capitalizado y que otros se reclamaban judicialmente; ninguna de esas circunstancias sustituye una sentencia sobre la responsabilidad de cada acusado.
+
+La acusación fiscal de 2018 solicitaba una indemnización solidaria de 1.885.066,10 euros a cuatro acusados y otra de 834.640,97 euros a un representante empresarial. La información no permite asignar nominalmente todas esas partidas ni descartar solapamientos; no se suman ni se presentan como daño probado. Las multas solicitadas también se distinguen del volumen de inversión.
+
+La [crónica de enero de 2023](https://www.diariodesevilla.es/juzgado_de_guardia/secreto_de_sumario/ayuda-fresca-costo-dos-millones-Invercaria-noveno-juicio-Keep-Fresh_0_1760825497.html) identifica nominalmente a los ocho relacionados en esta ficha, pero incurre en la discrepancia sobre su número total. La [suspensión de febrero de 2023](https://www.teleprensa.com/articulo/sevilla/suspendido-juicio-prestamos-22-millones-invercaria-keepfresh-huelga-laj/202302011323071394647.html) y la referencia posterior al [aplazamiento de marzo de 2024](https://www.europapress.es/andalucia/noticia-nuevo-juicio-lunes-sevilla-expresidente-invercaria-presunta-malversacion-prestamos-bioaveda-20250601132450.html) no acreditan la celebración o resultado ulterior del juicio. Quedan sin documentar una eventual sentencia, los recursos, la firmeza y cualquier cambio individual hasta el corte de 15 de octubre de 2026. Esta pieza se mantiene separada de los ERE y de los restantes procedimientos de Invercaria.
