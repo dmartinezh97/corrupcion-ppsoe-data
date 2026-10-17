@@ -1,192 +1,243 @@
 ---
-nombre: "Caso Plus Ultra"
+nombre: Caso Plus Ultra
 partido: PSOE
-completado: true
+completado: false
 año: 2021
-fechaInicio: 2021-03-09
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El Caso Plus Ultra es una investigación judicial sobre el rescate público de 53 millones de euros concedido por el Gobierno de Pedro Sánchez a la aerolínea española Plus Ultra Líneas Aéreas el 9 de marzo de 2021, en plena pandemia de COVID-19, con cargo al Fondo de Apoyo a la Solvencia de Empresas Estratégicas gestionado por la SEPI (Sociedad Estatal de Participaciones Industriales). La operación se aprobó pese a que la propia SEPI cuestionaba la viabilidad económica de la compañía y a que Plus Ultra era una aerolínea de tamaño reducido, con cuota de mercado mínima y flota muy limitada, alimentando dudas razonables sobre si cumplía los criterios de "carácter estratégico" exigidos por el fondo.
-
-  La investigación abarca dos fases. La primera, abierta a raíz de denuncias de Vox y de Hazte Oír / Iustitia Europa en 2021-2022, se centró en presuntos delitos de prevaricación y malversación en la concesión del rescate y fue archivada y reabierta parcialmente en distintos momentos. La segunda fase, decisiva, se reactivó en 2024 y, sobre todo, en 2025 cuando la Fiscalía Anticorrupción presentó una nueva denuncia tras recibir solicitudes de cooperación judicial internacional procedentes de Francia y Suiza apuntando a una presunta red de blanqueo de capitales con origen en fondos venezolanos. La causa investiga ahora si parte de los 53 millones del rescate público sirvió para canalizar fondos de origen ilícito, incluidos recursos vinculados a la malversación cometida por funcionarios públicos venezolanos del programa CLAP y a ventas irregulares de oro del Banco Central de Venezuela.
-
-  El 11 de diciembre de 2025, la UDEF de la Policía Nacional registró la sede de Plus Ultra en Madrid en el marco del operativo coordinado por el Juzgado Central de Instrucción nº 4 de la Audiencia Nacional, y detuvo al presidente y principal accionista de la aerolínea Julio Martínez Sola y al consejero delegado Roberto Roselli. El juez Luis Calama acordó la libertad provisional de los detenidos con retirada de pasaporte, prohibición de salida y comparecencias semanales. El 19 de mayo de 2026 el juez imputó al expresidente del Gobierno José Luis Rodríguez Zapatero por tráfico de influencias, organización criminal, blanqueo y falsedad, al considerar que lideró «una red organizada de ejercicio ilícito de influencias»; Zapatero declaró como investigado el 17 de junio, sin que el juez apreciara riesgo de fuga y rechazando las medidas cautelares. En junio el magistrado dedujo testimonio para investigar las filtraciones del sumario, y el 24 de julio rechazó por extemporáneo el incidente de nulidad presentado por la defensa de Zapatero. La instrucción, aún bajo secreto, se sigue en el juzgado del caso Koldo con un segundo magistrado de refuerzo dada la saturación.
-resumen: "Investigación del rescate de 53 millones de euros a la aerolínea Plus Ultra durante la pandemia y presunto blanqueo de capitales con origen en Venezuela"
-coste: 53000000
-lugar: "Madrid, España / Venezuela / Aruba / Suiza / Francia"
+fechaInicio: '2021-03-09'
+fechaFin: ''
+estado: activo
+descripcion: La ayuda pública temporal de 53 millones de euros a Plus Ultra, autorizada el 9 de marzo de 2021, consistió
+  en dos préstamos; su importe no equivale a un perjuicio declarado. La primera investigación sobre su concesión fue
+  sobreseída provisionalmente en enero de 2023, tras agotarse el plazo de instrucción y no quedar justificado delito
+  con lo actuado. Una investigación posterior examina un posible blanqueo internacional y el presunto uso de fondos del
+  rescate para devolver préstamos de sociedades investigadas. En marzo de 2026 asumió las actuaciones la plaza 2 de Instrucción
+  del Tribunal Central de Instancia de la Audiencia Nacional, a cargo de José Luis Calama. El auto de 18 de mayo de 2026
+  atribuyó a José Luis Rodríguez Zapatero la condición de investigado por una presunta red de influencias; tras declarar
+  el 17 de junio no se le impusieron medidas cautelares. Laura y Alba Rodríguez Espinosa están citadas como investigadas
+  para el 30 de noviembre, fecha aún futura al corte de esta ficha. La causa seguía en instrucción el 16 de octubre de
+  2026, cuando declaró Simon Leendert Verhoeven y negó blanqueo. No se ha verificado una sentencia de fondo de esta investigación
+  ni el resultado de todos los recursos; las sospechas y las medidas provisionales no son condenas. La pieza sobre las
+  joyas halladas en el despacho de Zapatero tiene un objeto fiscal y aduanero diferenciado.
+resumen: 'Préstamos públicos de 53 millones a Plus Ultra: archivo provisional de la causa inicial y posterior investigación
+  por presunto blanqueo y tráfico de influencias, sin sentencia de fondo verificada.'
+lugar: Madrid / España, Francia, Suiza y Venezuela
 tribunal:
-  - "Juzgado Central de Instrucción nº 4 de la Audiencia Nacional"
-  - "Audiencia Nacional - Juzgado de refuerzo (Javier Ángel Fernández-Gallardo)"
-  - "Fiscalía Anticorrupción"
-numeroSentencia: ""
+- Juzgado de Instrucción nº 15 de Madrid (actuaciones iniciales)
+- Audiencia Provincial de Madrid (recursos en la investigación inicial)
+- 'Audiencia Nacional: plaza 2 de la Sección de Instrucción del Tribunal Central de Instancia y Sala de lo Penal'
+numeroSentencia: ''
 implicados:
-  - nombre: "José Luis Rodríguez Zapatero"
-    cargo: "Expresidente del Gobierno de España (2004-2011)"
-    rol: "Imputado por tráfico de influencias, organización criminal, blanqueo y falsedad; declaró como investigado en junio de 2026"
-
-  - nombre: "Julio Martínez Sola"
-    cargo: "Presidente y principal accionista de Plus Ultra Líneas Aéreas"
-    rol: "Detenido en diciembre de 2025 por presunto blanqueo de capitales; libertad provisional con retirada de pasaporte"
-
-  - nombre: "Roberto Roselli"
-    cargo: "Consejero delegado (CEO) de Plus Ultra Líneas Aéreas"
-    rol: "Detenido en diciembre de 2025 por presunto blanqueo de capitales; libertad provisional"
-
-  - nombre: "Camilo Ibrahim Issa"
-    cargo: "Empresario venezolano-español, accionista vinculado a Aruba"
-    rol: "Detenido en marzo de 2026 en Aruba por presunto blanqueo y vínculo con fondos venezolanos; obtiene la libertad por decisión judicial en abril de 2026"
-
-  - nombre: "Bartolomé Lora Morán"
-    cargo: "Exdirector general de la SEPI durante el rescate"
-    rol: "Investigado por su papel en la aprobación de la ayuda y en la firma de los informes técnicos"
-
-  - nombre: "Pablo Hernández de Cos"
-    cargo: "Ex mano derecha de la ministra María Jesús Montero, citado en la causa"
-    rol: "Investigado por avalar personalmente los informes técnicos sin firma del rescate"
-
+- nombre: José Luis Rodríguez Zapatero
+  cargo: Expresidente del Gobierno de España (2004–2011)
+  rol: Investigado desde el auto de 18 de mayo de 2026 por su presunta participación en una red de tráfico de influencias
+    y canalización de fondos. Declaró el 17 de junio sin imposición de cautelares. Niega haber intervenido en el rescate.
+    Tiene además una pieza sobre posibles delitos fiscales y de contrabando por las joyas intervenidas, sin condena verificada.
+- nombre: Julio Martínez Sola
+  cargo: Expresidente de Plus Ultra
+  rol: Detenido en diciembre de 2025 y puesto en libertad con medidas cautelares. Investigado por operaciones vinculadas
+    al rescate. Dimitió el 15 de julio de 2026, según la noticia conocida el 25 de julio. Persona distinta de Julio Martínez
+    Martínez.
+- nombre: Roberto Roselli Miele
+  cargo: Exconsejero delegado de Plus Ultra
+  rol: Detenido en diciembre de 2025 y puesto en libertad con medidas cautelares; investigado en la causa. Dimitió junto
+    al presidente en julio de 2026. El auto de mayo utiliza Roselli Miele; otras informaciones lo citan como Roberto
+    Roselli.
+- nombre: Julio Martínez Martínez
+  cargo: Empresario vinculado a Análisis Relevante y al asesoramiento de Plus Ultra
+  rol: Detenido en diciembre de 2025 y puesto en libertad con medidas cautelares. El auto de mayo le atribuye indiciariamente
+    funciones de intermediación y canalización de pagos; no es el expresidente de la aerolínea.
+- nombre: Rodolfo Reyes Rojas
+  cargo: Exdirectivo de Plus Ultra
+  rol: Investigado; el auto de mayo incorpora comunicaciones de su dispositivo y las pesquisas indagan transferencias
+    que habría ordenado a sociedades vinculadas a Verhoeven. Sin resultado penal definitivo verificado.
+- nombre: Simon Leendert Verhoeven
+  cargo: Financiero neerlandés y prestamista vinculado a sociedades que financiaron Plus Ultra
+  rol: Investigado por presunto blanqueo, apropiación indebida, tráfico de influencias y organización criminal. Entregado
+    a España desde Alemania en septiembre de 2026; quedó en libertad con retirada de pasaporte, prohibición de salida
+    y comparecencias cada dos días. Declaró el 16 de octubre y negó el blanqueo y conocer el rescate.
+- nombre: Luis Felipe Baca
+  cargo: Empresario vinculado a la investigación financiera internacional
+  rol: La información de marzo de 2026 le identifica como el detenido en Aruba. Las pesquisas lo relacionan con la supuesta
+    red de blanqueo junto a Verhoeven. No se ha verificado aquí su situación cautelar posterior ni un desenlace penal.
+- nombre: Laura Rodríguez Espinosa
+  cargo: Administradora de Whathefav e hija de José Luis Rodríguez Zapatero
+  rol: Investigada por la operativa de la empresa y citada para declarar el 30 de noviembre de 2026; declaración todavía
+    no celebrada al corte de la ficha.
+- nombre: Alba Rodríguez Espinosa
+  cargo: Administradora de Whathefav e hija de José Luis Rodríguez Zapatero
+  rol: Investigada por la operativa de la empresa y citada para declarar el 30 de noviembre de 2026; declaración todavía
+    no celebrada al corte de la ficha.
+- nombre: María Gertrudis Alcázar Jiménez
+  cargo: Asistente de José Luis Rodríguez Zapatero
+  rol: El auto de mayo la identifica como investigada y acuerda intervenir sus dispositivos en relación con el supuesto
+    soporte administrativo de la operativa. Resultado individual posterior no verificado.
+- nombre: Bartolomé Lora
+  cargo: Vicepresidente de SEPI y presidente en funciones durante la tramitación del rescate
+  rol: Defendió ante el Senado en abril de 2026 la legalidad y el carácter técnico del expediente. No se ha acreditado
+    aquí su condición de investigado en la causa actual de Plus Ultra; no se le traslada la imputación de la investigación
+    distinta de Air Europa.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "blanqueo de capitales"
-  - "fraude"
-  - "ayudas públicas irregulares"
-  - "conexión Venezuela"
-
-impactoSocial: "El rescate de Plus Ultra fue uno de los escándalos más controvertidos del Gobierno Sánchez durante la pandemia, al considerarse desproporcionado el apoyo público a una aerolínea con apenas peso en el mercado español. La reactivación de la causa con la conexión venezolana ha agravado el alcance del escándalo al añadir una dimensión internacional de blanqueo de capitales y al señalar la mediación del expresidente Zapatero ante el Gobierno de Nicolás Maduro. La detención de los principales directivos en diciembre de 2025 puso fin a casi cinco años de denuncias y reabrió el debate sobre los controles del fondo de la SEPI durante la pandemia."
-
-documentos: null
-
+- Plus Ultra
+- SEPI
+- ayudas públicas
+- presunto blanqueo de capitales
+- presunto tráfico de influencias
+impactoSocial: El caso plantea el control de las ayudas de solvencia concedidas durante la pandemia y la trazabilidad
+  de los fondos públicos. Las investigaciones sobre la concesión, los movimientos financieros posteriores y las joyas
+  intervenidas tienen objetos distintos y exigen individualizar las responsabilidades, respetando la presunción de inocencia.
+documentos: []
 cronologia:
-  - fecha: "2021-03-09"
-    titulo: "El Consejo de Ministros aprueba el rescate de 53 millones a Plus Ultra"
-    descripcion: "El Consejo de Ministros aprueba la concesión de un rescate público de 53 millones de euros a la aerolínea Plus Ultra Líneas Aéreas con cargo al Fondo de Apoyo a la Solvencia de Empresas Estratégicas gestionado por la SEPI. El Gobierno justifica la ayuda alegando el carácter estratégico de la compañía para la conectividad entre España y América Latina, pese a que Plus Ultra es una aerolínea de tamaño reducido con flota muy limitada y cuota de mercado mínima."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://www.articulo14.es/politica/caso-plus-ultra-cronologia-y-claves-de-la-investigacion-del-rescate-a-la-aerolinea-20251217.html"
-
-  - fecha: "2021-04-15"
-    titulo: "Vox y Hazte Oír denuncian el rescate ante la Audiencia Nacional"
-    descripcion: "Vox e Iustitia Europa-Hazte Oír presentan denuncias ante la Audiencia Nacional contra el rescate, alegando posibles delitos de prevaricación y malversación en la concesión de la ayuda a una empresa que, según las denunciantes, no cumplía los criterios estratégicos exigidos. Los recurrentes señalan los vínculos de la aerolínea con empresarios venezolanos próximos al chavismo."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://www.airline92.com/noticias/companias-aereas/america-latina/plus-ultra-polemico-rescate-53-millones-euros-bajo-sospecha/"
-
-  - fecha: "2022-06-01"
-    titulo: "Primer archivo provisional de la causa por la Audiencia Nacional"
-    descripcion: "La Audiencia Nacional acuerda archivar provisionalmente la causa al considerar que la ayuda fue concedida conforme a los procedimientos administrativos establecidos. La decisión es recurrida por las acusaciones populares y reabierta parcialmente en fases posteriores ante la aparición de nuevos indicios."
-    type: "investigación"
-    relevancia: "media"
-    urls: []
-
-  - fecha: "2025-09-01"
-    titulo: "La Fiscalía Anticorrupción presenta una nueva denuncia con conexión Venezuela"
-    descripcion: "La Fiscalía Anticorrupción presenta una nueva denuncia ante la Audiencia Nacional tras recibir solicitudes de cooperación judicial internacional procedentes de Francia y Suiza. Los magistrados europeos apuntan a una presunta red de blanqueo de capitales con origen en fondos venezolanos, incluyendo recursos vinculados a la malversación cometida por funcionarios públicos venezolanos del programa CLAP y a ventas irregulares de oro del Banco Central de Venezuela. La causa se reactiva con un alcance mucho mayor."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://www.articulo14.es/politica/caso-plus-ultra-cronologia-y-claves-de-la-investigacion-del-rescate-a-la-aerolinea-20251217.html"
-
-  - fecha: "2025-12-11"
-    titulo: "La UDEF registra la sede de Plus Ultra y detiene al presidente y al CEO"
-    descripcion: "Agentes de la Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional practican un registro en la sede de Plus Ultra en Madrid en el marco del operativo coordinado por el Juzgado Central de Instrucción nº 4 de la Audiencia Nacional. Son detenidos el presidente y principal accionista Julio Martínez Sola y el consejero delegado Roberto Roselli. La operación se ejecuta bajo secreto de sumario por presunto blanqueo de capitales del rescate público."
-    type: "detención"
-    relevancia: "alta"
-    urls:
-      - "https://www.infobae.com/espana/2025/12/11/la-policia-registra-la-sede-de-la-aerolinea-plus-ultra-por-presunto-blanqueo-de-capitales-del-rescate-del-gobierno-de-espana/"
-      - "https://www.infobae.com/espana/2025/12/11/detenido-el-ceo-y-presidente-de-la-aerolinea-plus-ultra-tras-la-redada-en-su-sede-por-presunto-blanqueo-de-capitales-tras-el-rescate/"
-
-  - fecha: "2025-12-13"
-    titulo: "El juez deja en libertad a los detenidos con medidas cautelares"
-    descripcion: "El juez deja en libertad provisional a los detenidos en el operativo de Plus Ultra con medidas cautelares: retirada de pasaporte, prohibición de salida del país y comparecencias semanales en el juzgado. El magistrado considera que existe riesgo de fuga moderado pero no extremo, y prima la presunción de inocencia mientras avanza la instrucción."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.libertaddigital.com/espana/2025-12-13/el-juez-deja-en-libertad-a-los-tres-detenidos-del-caso-plus-ultra-que-acorrala-a-zapatero-7333220/"
-      - "https://www.mundiario.com/articulo/politica/caso-plus-ultra-avanza-prision-decision-juez/20251214005514366856.html"
-
-  - fecha: "2026-02-27"
-    titulo: "La causa Plus Ultra entra en el juzgado del caso Koldo"
-    descripcion: "El Juzgado Central de Instrucción nº 2 de la Audiencia Nacional, que instruye el caso Koldo, recibe la causa Plus Ultra para analizar si asume su jurisdicción dada la posible conexión entre ambas tramas. Días después, el juez José Luis Calama acepta formalmente la acumulación y se asigna como refuerzo al magistrado Javier Ángel Fernández-Gallardo dada la saturación del juzgado."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.infobae.com/america/agencias/2026/02/27/el-juzgado-del-caso-koldo-recibe-el-caso-plus-ultra-en-la-audiencia-nacional-que-analiza-si-asumirlo/"
-      - "https://theobjective.com/espana/tribunales/2026-03-03/audiencia-nacional-rescate-plus-ultra/"
-
-  - fecha: "2026-03-22"
-    titulo: "El sumario apunta a la mediación de Zapatero ante el Gobierno de Maduro"
-    descripcion: "Los medios filtran nuevos detalles del sumario que apuntan al expresidente del Gobierno José Luis Rodríguez Zapatero por su presunta mediación ante el Gobierno de Nicolás Maduro durante la operación. La causa rastrea internacionalmente el dinero del rescate y refuerza la dimensión venezolana del caso."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldebate.com/espana/20260322/sumario-caso-plus-ultra-secreto-judicial-punto-levantarse-rastro-internacional-dinero-complica-zapatero_398735.html"
-
-  - fecha: "2026-03-27"
-    titulo: "Detención en Aruba de un empresario clave de la trama"
-    descripcion: "Cae en Aruba el empresario Camilo Ibrahim Issa, vinculado a la trama venezolana del rescate de Plus Ultra. Las autoridades arubeñas lo detienen tras orden internacional librada por la Audiencia Nacional, y el caso se enmarca en la red de blanqueo de capitales con origen en Venezuela investigada por el Juzgado Central."
-    type: "detención"
-    relevancia: "alta"
-    urls:
-      - "https://www.libertaddigital.com/espana/2026-03-27/la-audiencia-nacional-detiene-a-un-empresario-relacionado-con-venezuela-por-el-caso-plus-ultra-7381198/"
-
-  - fecha: "2026-04-17"
-    titulo: "Los informes técnicos del rescate fueron sin firma y avalados por la mano derecha de Montero"
-    descripcion: "Trasciende que los informes técnicos sobre los que se sustentó la concesión del rescate de Plus Ultra fueron presentados en su día sin la firma de los técnicos competentes. La causa documenta que la decisión fue avalada personalmente por el ex secretario de Estado y mano derecha de la entonces ministra de Hacienda María Jesús Montero, lo que añade nuevas implicaciones políticas a la causa."
-    type: "documento"
-    relevancia: "alta"
-    urls:
-      - "https://www.libertaddigital.com/espana/politica/2026-04-17/los-informes-tecnicos-del-rescate-de-plus-ultra-fueron-sin-firma-y-los-avalo-personalmente-la-mano-derecha-de-montero-7389377/"
-
-  - fecha: "2026-04-23"
-    titulo: "La Audiencia Nacional amplía un mes más el secreto del sumario"
-    descripcion: "La Audiencia Nacional acuerda prorrogar un mes más el secreto del sumario en la causa por el rescate de Plus Ultra ante la complejidad de la investigación internacional sobre el blanqueo de capitales. La medida demora la posibilidad de que las defensas y los medios accedan a la totalidad del expediente."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.libertaddigital.com/espana/2026-04-23/la-audiencia-nacional-amplia-otro-mes-el-secreto-de-la-investigacion-del-caso-plus-ultra-1b-7393496/"
-
-  - fecha: "2026-04-29"
-    titulo: "El empresario detenido en Aruba obtiene la libertad por decisión judicial"
-    descripcion: "Camilo Ibrahim Issa, el empresario vinculado al blanqueo de Plus Ultra detenido en Aruba un mes antes, obtiene la libertad por decisión judicial pese a las solicitudes de prisión preventiva planteadas por las autoridades españolas. La defensa argumenta arraigo y compromiso de comparecencia. La causa principal sigue su curso en la Audiencia Nacional."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.nuevaradio.org/2026/04/29/el-empresario-vinculado-al-blanqueo-de-plus-ultra-en-aruba-obtiene-la-libertad-por-decision-judicial/"
-
-  - fecha: "2026-05-19"
-    titulo: "El juez imputa a Zapatero por tráfico de influencias y organización criminal"
-    descripcion: "El magistrado José Luis Calama imputa al expresidente del Gobierno José Luis Rodríguez Zapatero por presuntos delitos de tráfico de influencias, organización criminal, blanqueo de capitales y falsedad documental. El auto sitúa a Zapatero al frente de 'una trama organizada de ejercicio ilícito de influencias' que, mediante la vía predominante sobre la de Ábalos, habría permitido a Plus Ultra obtener el rescate de 53 millones de la SEPI, apuntando al Consejo de Ministros y a la SEPI."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "https://okdiario.com/espana/juez-apunta-consejo-ministros-sepi-rescate-plus-ultra-gracias-zapatero-16828921"
-
-  - fecha: "2026-06-17"
-    titulo: "Zapatero declara como investigado y el juez rechaza imponerle cautelares"
-    descripcion: "El expresidente José Luis Rodríguez Zapatero declara como investigado ante el juez Calama. Pese a que la Fiscalía y las acusaciones populares solicitan comparecencias quincenales, retirada de pasaporte y prohibición de salida (y, subsidiariamente, prisión provisional), el magistrado rechaza las medidas cautelares al considerar que su notoriedad pública y arraigo excluyen un riesgo de fuga real, y que su declaración no ha desvirtuado los indicios de criminalidad."
-    type: "declaración"
-    relevancia: "alta"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/El-juez-de-la-Audiencia-Nacional-que-instruye-el-caso-Plus-Ultra-rechaza-imponer-medidas-cautelares-al-expresidente-Rodriguez-Zapatero"
-
-  - fecha: "2026-06-25"
-    titulo: "El juez investiga las filtraciones y Zapatero pide la nulidad del caso"
-    descripcion: "El juez Calama acuerda deducir testimonio a la Sección de Instrucción de Madrid para investigar las constantes filtraciones del sumario y forma una pieza de 'información sensible'. Ese mismo día, la defensa de Zapatero presenta un incidente de nulidad de actuaciones en el que pide la 'nulidad general' del caso y la exclusión de todas las evidencias obtenidas, alegando vulneración de derechos fundamentales."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://elpais.com/espana/2026-06-25/zapatero-pide-al-juez-que-declare-la-nulidad-del-caso-plus-ultra.html"
-
-  - fecha: "2026-07-24"
-    titulo: "El juez rechaza la nulidad solicitada por Zapatero por presentarla fuera de plazo"
-    descripcion: "El magistrado José Luis Calama rechaza el incidente de nulidad presentado por la defensa del expresidente Rodríguez Zapatero al considerarlo extemporáneo: el escrito se registró el 25 de junio, fuera del plazo legal de 20 días. El juez acuerda además citar a declarar a los directivos de Plus Ultra y rechaza suspender la inspección de la Agencia Tributaria al expresidente, su mujer e hijas."
-    type: "recurso"
-    relevancia: "media"
-    urls:
-      - "https://www.elmundo.es/espana/2026/07/24/6a6338d6e4d4d8466c8b4583.html"
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa"
+- fecha: '2021-03-09'
+  titulo: Autorización del apoyo financiero de 53 millones
+  descripcion: 'El Consejo de Ministros autoriza la operación del FASEE: préstamo participativo de 34 millones y ordinario
+    de 19 millones, con plazo máximo inicial de siete años. El Gobierno justifica el carácter estratégico por la conectividad
+    con Latinoamérica. Es financiación reembolsable, no daño declarado.'
+  urls:
+  - https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2021/refc20210309.aspx
+  type: resumen
+  relevancia: alta
+- fecha: '2023-01-09'
+  titulo: Se conoce el sobreseimiento provisional de la investigación inicial
+  descripcion: Europa Press informa del auto de la jueza del juzgado 15 de Madrid, dictado días antes, tras agotarse
+    el plazo de instrucción. Con las diligencias disponibles no considera justificada la comisión de delito. No es una
+    absolución en juicio ni un archivo de la posterior investigación internacional. Fecha de publicación; no se fija
+    el día del auto sin original.
+  urls:
+  - https://www.europapress.es/nacional/noticia-jueza-archiva-caso-plus-ultra-no-quedar-justificada-comision-delito-dio-origen-causa-20230109144252.html
+  type: investigacion
+  relevancia: alta
+- fecha: '2025-12-11'
+  titulo: Registros y detenciones en la investigación posterior
+  descripcion: Se practican registros ordenados por el juzgado 15 de Madrid en la investigación sobre presunto blanqueo.
+    La información posterior identifica entre los detenidos a Julio Martínez Sola, Roberto Roselli y Julio Martínez Martínez,
+    personas con funciones diferentes. El auto de mayo de 2026 recoge el antecedente de los registros de esta fecha.
+  urls:
+  - https://www.nuevatribuna.es/media/nuevatribuna/files/2026/05/22/Auto-imputacion-juez-Calama-Zapatero_copia.pdf
+  - https://www.lavanguardia.com/politica/20251213/11359773/otros-dos-detenidos-trama-venezolana-salpica-plus-ultra.html
+  type: detencion
+  relevancia: alta
+- fecha: '2025-12-13'
+  titulo: Libertad con medidas cautelares
+  descripcion: La jueza Esperanza Collazos deja en libertad a los cuatro detenidos, según La Vanguardia, con retirada
+    de pasaporte, prohibición de salida y comparecencias quincenales. No se atribuye esta decisión a Calama ni se convierte
+    la detención en condena.
+  urls:
+  - https://www.lavanguardia.com/politica/20251213/11359773/otros-dos-detenidos-trama-venezolana-salpica-plus-ultra.html
+  type: investigacion
+  relevancia: alta
+- fecha: '2026-03-03'
+  titulo: Aceptación de la inhibición a favor de la Audiencia Nacional
+  descripcion: 'El auto de 18 de mayo identifica la aceptación de la inhibición mediante auto de 3 de marzo: pieza separada
+    62/2025 de Madrid15, dimanante de DP 597/2021, en relación con DP 77/2024 de la plaza 2 central. La resolución madrileña
+    era de 23 de febrero y se recibió el 27; no equivale a una acumulación al caso Koldo.'
+  urls:
+  - https://www.nuevatribuna.es/media/nuevatribuna/files/2026/05/22/Auto-imputacion-juez-Calama-Zapatero_copia.pdf
+  type: investigacion
+  relevancia: alta
+- fecha: '2026-03-27'
+  titulo: Se conoce una detención en Aruba
+  descripcion: Europa Press informa de una detención por orden internacional de la Audiencia Nacional e identifica al
+    empresario como Luis Felipe Baca. No se atribuye a Camilo Ibrahim Issa ni se fija el día material del arresto a partir
+    de la publicación.
+  urls:
+  - https://www.europapress.es/nacional/noticia-audiencia-nacional-ordena-detener-hombre-caso-plus-ultra-isla-caribena-aruba-20260327111221.html
+  type: detencion
+  relevancia: alta
+- fecha: '2026-04-15'
+  titulo: Lora defiende la tramitación ante el Senado
+  descripcion: El vicepresidente de SEPI niega injerencias de Ábalos y Zapatero, defiende el cumplimiento de los requisitos
+    y asume la firma del expediente. Es una comparecencia parlamentaria, no una declaración de investigado ante el juez
+    de Plus Ultra.
+  urls:
+  - https://www.europapress.es/economia/noticia-lora-sepi-niega-injerencias-politicas-rescates-plus-ultra-air-europa-defiende-legalidad-20260415200203.html
+  type: declaracion
+  relevancia: media
+- fecha: '2026-05-18'
+  titulo: Auto que atribuye a Zapatero la condición de investigado
+  descripcion: Calama acuerda comunicar las actuaciones a Zapatero como investigado y autoriza registros desde el 19
+    de mayo en su oficina y sociedades. Expone indicios provisionales sobre tráfico de influencias y canalización de
+    fondos; no contiene una condena ni una calificación definitiva. La citación inicial para el 2 de junio fue anterior
+    a la declaración finalmente celebrada el 17.
+  urls:
+  - https://www.nuevatribuna.es/media/nuevatribuna/files/2026/05/22/Auto-imputacion-juez-Calama-Zapatero_copia.pdf
+  type: imputacion
+  relevancia: alta
+- fecha: '2026-06-17'
+  titulo: Zapatero declara y el juez rechaza las cautelares
+  descripcion: La nota oficial del CGPJ confirma que, tras su declaración, no se imponen las comparecencias, retirada
+    de pasaporte y prohibición de salida solicitadas por Fiscalía y acusaciones. El juez aprecia indicios para investigar,
+    pero no riesgo procesal que justifique restringir sus derechos.
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/El-juez-de-la-Audiencia-Nacional-que-instruye-el-caso-Plus-Ultra-rechaza-imponer-medidas-cautelares-al-expresidente-Rodriguez-Zapatero
+  type: declaracion
+  relevancia: alta
+- fecha: '2026-07-15'
+  titulo: Dimisión de los dos principales directivos
+  descripcion: RTVE informa el 25 de julio de que Martínez Sola y Roselli dimitieron el día 15. La renuncia al cargo
+    no pone fin a su condición de investigados. La noticia recoge sus escritos sobre pagos por intermediación y la negativa
+    de Zapatero a haber participado en el rescate.
+  urls:
+  - https://amp.rtve.es/noticias/20260725/dimiten-presidente-consejero-delegado-plus-ultra/17168839.shtml
+  type: resumen
+  relevancia: media
+- fecha: '2026-09-04'
+  titulo: Se conoce el rechazo de la nulidad tras estudiar el fondo
+  descripcion: El juez desestima el incidente al no apreciar vulneración de derechos, según Europa Press. Antes había
+    rectificado parcialmente la inadmisión inicial por plazo y aceptado examinarlo. Por tanto, el rechazo inicial de
+    julio por extemporaneidad no describe por sí solo el resultado posterior. No se ha recuperado el auto para fijar
+    su fecha exacta ni el resultado de todos los recursos.
+  urls:
+  - https://www.europapress.es/nacional/noticia-juez-desestima-peticion-zapatero-anular-caso-plus-ultra-no-ver-vulnerados-derechos-20260904155105.html
+  type: recurso
+  relevancia: alta
+- fecha: '2026-09-21'
+  titulo: Se conoce la citación de Laura y Alba para noviembre
+  descripcion: El juez cita como investigadas a Laura y Alba Rodríguez Espinosa para el 30 de noviembre, según RTVE.
+    También encarga una nueva pericial de las joyas, en la pieza fiscal y aduanera diferenciada. La citación no es una
+    declaración ya realizada ni un auto de apertura de juicio.
+  urls:
+  - https://www.rtve.es/noticias/20260921/juez-calama-cita-como-investigadas-a-hijas-zapatero-30-noviembre-caso-plus-ultra/17233434.shtml
+  type: imputacion
+  relevancia: alta
+- fecha: '2026-09-25'
+  titulo: Verhoeven queda en libertad con cautelares
+  descripcion: Tras su entrega desde Alemania y una estancia cautelar en prisión, el juez rechaza mantenerlo preso y
+    fija prohibición de salida, entrega del pasaporte y comparecencias cada dos días. El financiero se acoge a su derecho
+    a no declarar por no haber podido estudiar la causa.
+  urls:
+  - https://www.europapress.es/nacional/noticia-juez-deja-libertad-presunto-cerebro-financiero-caso-plus-ultra-le-prohibe-salir-espana-20260925100554.html
+  type: investigacion
+  relevancia: alta
+- fecha: '2026-10-16'
+  titulo: Verhoeven declara y niega el blanqueo
+  descripcion: El investigado niega haber participado en blanqueo y conocer el rescate. Afirma que concedió préstamos
+    a Plus Ultra y cuestiona las firmas de determinados contratos aportados a la causa, según Europa Press. La declaración
+    confirma que la investigación seguía abierta; no resuelve las sospechas ni acredita por sí misma su veracidad.
+  urls:
+  - https://www.europapress.es/nacional/noticia-presunto-cerebro-financiero-caso-plus-ultra-desvincula-blanqueo-asegura-desconocia-rescate-20261016131955.html
+  type: declaracion
+  relevancia: alta
 ---
+El rescate y los procedimientos judiciales
+
+El apoyo aprobado el 9 de marzo de 2021 fue una operación de financiación temporal: 34 millones de euros mediante préstamo participativo y 19 mediante préstamo ordinario. La referencia oficial del Consejo de Ministros justificó su concesión por la conectividad con Latinoamérica y el empleo asociado a la compañía. Los 53 millones no se presentan como un daño probado, ni se suman a pagos por asesoramiento, tasaciones de joyas o cantidades examinadas en operaciones internacionales.
+
+La primera investigación sobre la concesión se tramitó en el Juzgado de Instrucción 15 de Madrid. En enero de 2023 se conoció su sobreseimiento provisional, después de que se agotara el plazo para seguir investigando. Según la información sobre el auto, las diligencias disponibles no justificaban la comisión de delito; la jueza también analizó las competencias del Consejo Gestor y del Consejo de Ministros y las discrepancias periciales. Ese archivo no fue una sentencia absolutoria dictada tras juicio.
+
+La investigación posterior examina movimientos financieros y presuntos contratos de préstamo de sociedades vinculadas a una posible organización de blanqueo en España, Francia y Suiza. La Fiscalía sostiene que los fondos tendrían conexiones con corrupción y oro venezolanos y que parte de la financiación pública recibida por Plus Ultra se habría empleado para devolver esos préstamos. Son hipótesis investigadas, no hechos declarados probados. La noticia de una detención en Aruba se refiere a Luis Felipe Baca; no acredita la detención de otro accionista de la aerolínea.
+
+El auto de 18 de mayo de 2026 permite distinguir los traslados del procedimiento: la plaza 15 de Madrid acordó inhibirse el 23 de febrero, la Audiencia Nacional recibió la resolución el 27 y aceptó la inhibición el 3 de marzo en las DP 77/2024. Que el órgano central haya tramitado también Koldo no convierte ambos asuntos en una sola causa ni permite trasladar sus imputaciones o condenas.
+
+Situaciones individuales y controversias pendientes
+
+El auto de mayo atribuye a Zapatero la condición de investigado y describe indiciariamente una supuesta estructura de intermediación y canalización de pagos. La resolución advierte que esta fase no requiere prueba plena ni una calificación definitiva. Tras su declaración del 17 de junio, Calama mantuvo la investigación, pero rechazó imponerle cautelares por falta de riesgo de fuga o de destrucción de pruebas. Zapatero ha negado su intervención en el rescate. La ausencia de cautelares no equivale a archivo, igual que la existencia de indicios no equivale a condena.
+
+Julio Martínez Sola, expresidente de Plus Ultra, y Julio Martínez Martínez, empresario vinculado al asesoramiento, son personas distintas. Los escritos de los antiguos directivos sobre pagos de intermediación forman parte del debate probatorio; las cantidades que atribuyen a esas gestiones no se convierten aquí en comisiones judicialmente acreditadas ni en perjuicio público. Las dimisiones de Martínez Sola y Roselli en julio tampoco cierran su situación procesal.
+
+El rechazo inicial de la nulidad por extemporaneidad fue parcialmente rectificado. La información de septiembre indica que el juez examinó el incidente y lo desestimó por no apreciar vulneración de derechos. No se ha recuperado el conjunto de resoluciones ni verificado el resultado de todas las apelaciones.
+
+Laura y Alba Rodríguez Espinosa están citadas como investigadas para el 30 de noviembre de 2026; al corte del 17 de octubre esa comparecencia aún no ha tenido lugar. La pericial sobre las joyas incautadas corresponde a una pieza por posibles delitos fiscales y de contrabando. Su valoración preliminar no prueba ni su procedencia ilícita ni que procedan del rescate. Tampoco se atribuye a Bartolomé Lora una imputación en la causa actual de Plus Ultra a partir de su investigación en el procedimiento diferente de Air Europa.
+
+La declaración de Verhoeven el 16 de octubre, en la que negó blanqueo, es el último acto de esta investigación verificado en esta revisión. Permanecen pendientes de comprobación el conjunto de resoluciones originales, la situación cautelar posterior de todos los investigados y los resultados de los recursos. No se ha verificado una sentencia de fondo en la investigación actual.
+
+Fuentes: [autorización del Consejo de Ministros](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2021/refc20210309.aspx), [archivo inicial conocido en 2023](https://www.europapress.es/nacional/noticia-jueza-archiva-caso-plus-ultra-no-quedar-justificada-comision-delito-dio-origen-causa-20230109144252.html), [copia del auto de 18 de mayo de 2026](https://www.nuevatribuna.es/media/nuevatribuna/files/2026/05/22/Auto-imputacion-juez-Calama-Zapatero_copia.pdf), [nota oficial sobre la declaración y cautelares](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/El-juez-de-la-Audiencia-Nacional-que-instruye-el-caso-Plus-Ultra-rechaza-imponer-medidas-cautelares-al-expresidente-Rodriguez-Zapatero), [nulidad examinada en septiembre](https://www.europapress.es/nacional/noticia-juez-desestima-peticion-zapatero-anular-caso-plus-ultra-no-ver-vulnerados-derechos-20260904155105.html), [citación de Laura y Alba](https://www.rtve.es/noticias/20260921/juez-calama-cita-como-investigadas-a-hijas-zapatero-30-noviembre-caso-plus-ultra/17233434.shtml) y [declaración de Verhoeven](https://www.europapress.es/nacional/noticia-presunto-cerebro-financiero-caso-plus-ultra-desvincula-blanqueo-asegura-desconocia-rescate-20261016131955.html).
