@@ -3,7 +3,7 @@ nombre: ERE de Hamsa y Primayor
 partido: PSOE
 completado: false
 fechaFin: ''
-estado: pendiente de juicio
+estado: Pendiente de señalamiento a 7 de abril de 2026; evolución posterior no verificada
 descripcion: 'La pieza de ayudas sociolaborales a Hijos de Andrés Molina (Hamsa) y Primayor examina 19.966.869,95
   euros: al menos 7.788.390,93 euros para Hamsa y aproximadamente 12.178.479,02 para Primayor, según el auto reseñado
   por el CGPJ. Son importes investigados, no un daño establecido por sentencia. El auto de 16 de diciembre de 2022
@@ -14,7 +14,7 @@ descripcion: 'La pieza de ayudas sociolaborales a Hijos de Andrés Molina (Hamsa
 
   En octubre de 2024 la Audiencia pidió alegaciones sobre la posible incidencia de las sentencias del Constitucional
   al resolver recursos contra ese auto: no consta aquí una decisión final de anulación o archivo. La memoria fiscal
-  de 2026 registra DP 275/18–PA 257/22, calificación de 27 de diciembre de 2022 y pendiente de señalamiento. No
+  de 2026 registra DP 275/18–PA 257/22, calificación de 27 de diciembre de 2022 y pendiente de señalamiento a 7 de abril de 2026. No
   se han acreditado sus actuaciones posteriores, las penas solicitadas por persona ni una sentencia hasta el 17
   de octubre de 2026. Debe separarse del préstamo puente de 5,8 millones de 1999, cuya causa fue archivada por prescripción
   en 2020 según Canal Sur; ese archivo no cierra por sí mismo la pieza de ayudas sociolaborales. Tampoco se presume
