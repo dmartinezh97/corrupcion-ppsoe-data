@@ -92,8 +92,7 @@ cronologia:
   titulo: Fianza de un millón de euros para Maribel Martínez Parra
   descripcion: María Isabel (Maribel) Martínez Parra, detenida en Ponferrada el 4 de febrero, declara ante
     el juez Vázquez Taín y queda en libertad con cargos con la misma fianza de un millón de euros que su hermano
-    José Luis, un plazo de quince días para pagarla o ingresar en prisión, retirada del pasaporte y vigilancia
-    policial. Su comparecencia se había retrasado un día porque tuvo que estar presente en el último registro
+    José Luis. Su comparecencia se había retrasado un día porque tuvo que estar presente en el último registro
     practicado en las oficinas del grupo en Ponferrada.
   type: imputación
   relevancia: media
@@ -115,7 +114,7 @@ cronologia:
   titulo: Ángel de Cabo declara ante el juez Taín
   descripcion: El empresario Ángel de Cabo presta declaración ante el juez José Antonio Vázquez Taín en Santiago
     de Compostela y es imputado por falsedad documental, alzamiento de bienes y delito fiscal, según fuentes
-    judiciales. De Cabo, que ya se encontraba en prisión preventiva por la operación Crucero, niega los cargos.
+    judiciales. De Cabo, que ya se encontraba en prisión preventiva por la operación Crucero, es investigado en un procedimiento distinto.
   type: declaración
   relevancia: media
   urls:
