@@ -3,18 +3,17 @@ nombre: "Caso Ambulancias"
 partido: PP
 completado: false
 año: 2016
-fechaInicio: 2016-01-12
-fechaFin: 2020-01-13
+fechaInicio: "2016-01-12"
+fechaFin: ""
 estado: sobreseimiento provisional
 descripcion: |
   El Caso Ambulancias se refiere a la licitación del transporte sanitario urgente en ambulancia del Servicio de Urgencias Médicas de Madrid (SUMMA 112), convocada en 2015 y cuyas ofertas se abrieron el 12 de enero de 2016. Ambulancias Alerta presentó la oferta más económica —72,3 millones de euros, unos cinco millones menos que la segunda— y fue propuesta como adjudicataria, pero la Consejería de Sanidad le atribuyó no haber presentado el plan de viabilidad económica exigido y la descartó.
 
-  La empresa sostiene en su querella que fue sometida a presiones y a una "asfixia económica" —retención de facturas por valor de 2,9 millones de euros entre febrero y mayo de 2016— para que renunciara al contrato. En mayo de 2016 la empresa comunicó su renuncia al contrato —que El Español fecha el 5 de mayo y los registros de la Consejería el 4 de mayo— y el contrato se adjudicó a la UTE de Ferrovial (Ferroser). El Consejo de Gobierno aprobó la propuesta de adjudicación el 10 de mayo de 2016 y El Español situó la concesión definitiva el 26 de mayo; no se ha acreditado documentalmente la fecha de formalización del contrato. El importe de 77,3 millones de euros corresponde al volumen del contrato adjudicado (cuatro años de servicio), no a un daño o perjuicio declarado acreditado. En diciembre de 2017 Ambulancias Alerta presentó una querella por prevaricación administrativa (y, según los medios, también falsedad, malversación, coacciones y cohecho), apoyada en grabaciones de reuniones con cargos de la Consejería.
+  La empresa sostiene en su querella que fue sometida a presiones y a una "asfixia económica" —retención de facturas por valor de 2,9 millones de euros entre febrero y mayo de 2016— para que renunciara al contrato. En mayo de 2016 la empresa comunicó su renuncia al contrato —que El Español fecha el 5 de mayo y los registros de la Consejería el 4 de mayo— y el contrato se adjudicó a la UTE de Ferrovial (Ferroser). El Consejo de Gobierno aprobó la propuesta el 10 de mayo de 2016. El anuncio original del BOCM de 17 de agosto de 2016 acredita la adjudicación el 27 de mayo y la formalización el 30 de junio, por 77.319.962,81 euros, a Ferrovial Servicios y Servicios Auxiliares Sanitarios de Urgencia, UTE «Safe Urgencias 2016». Corrige el 26 de mayo publicado por El Español. El importe es precio de un contrato de servicio y no un perjuicio probado. En diciembre de 2017 Ambulancias Alerta presentó una querella por prevaricación administrativa (y, según los medios, también falsedad, malversación, coacciones y cohecho), apoyada en grabaciones de reuniones con cargos de la Consejería.
 
-  El Juzgado de Instrucción nº 51 de Madrid admitió a trámite la querella el 8 de enero de 2018 y citó como investigados al viceconsejero Manuel Molina Muñoz, al director general César Pascual Fernández, al secretario general técnico Luis Javier Fernández Abad y al director de gestión del SUMMA Santiago Cortés Sánchez. El 16 de enero de 2019 el juzgado dictó un auto de sobreseimiento provisional (art. 641.1 LECrim) y el 13 de enero de 2020 la Sección 23 de la Audiencia Provincial de Madrid desestimó el recurso de Ambulancias Alerta y confirmó el archivo. El sobreseimiento conserva su carácter provisional y estas resoluciones no impusieron condenas. No se ha verificado la firmeza de los autos ni localizado actuaciones posteriores.
+  El Juzgado de Instrucción nº 51 de Madrid admitió a trámite la querella el 8 de enero de 2018 y citó como investigados al viceconsejero Manuel Molina Muñoz, al director general César Pascual Fernández, al secretario general técnico Luis Javier Fernández Abad y al director de gestión del SUMMA Santiago Cortés Sánchez. El 16 de enero de 2019 el juzgado dictó un auto de sobreseimiento provisional (art. 641.1 LECrim) y el 13 de enero de 2020 la Sección 23 de la Audiencia Provincial de Madrid desestimó el recurso de Ambulancias Alerta y confirmó el archivo. El sobreseimiento conserva su carácter provisional y estas resoluciones no impusieron condenas. No se han obtenido los autos originales ni verificado su firmeza o actuaciones posteriores en la revisión hasta el 17 de octubre de 2026. Las fechas y el contenido judicial se atribuyen a prensa que tuvo acceso a ellos, sin afirmar cierre definitivo.
 
 resumen: "Ambulancias Alerta denunció presiones de cargos de Sanidad de Madrid para renunciar a un contrato del SUMMA 112 que acabó en Ferrovial; la causa fue sobreseída provisionalmente en 2019 y el archivo se confirmó en apelación en 2020"
-coste: 77300000
 lugar: "Madrid, Comunidad de Madrid"
 tribunal:
   - "Juzgado de Instrucción nº 51 de Madrid (auto de sobreseimiento provisional de 16 de enero de 2019)"
@@ -41,12 +40,17 @@ tags:
   - "corrupción"
   - "prevaricación"
   - "coacciones"
-  - "contratación pública irregular"
+  - "contratación pública"
 
 impactoSocial: |
   El caso reavivó el debate sobre la contratación pública en la sanidad madrileña y sobre las presiones a empresas licitadoras. La difusión de las grabaciones por El Español en diciembre de 2017 tuvo una notable repercusión mediática y política. El sobreseimiento provisional fue recurrido por la empresa querellante y la Audiencia Provincial de Madrid desestimó el recurso en enero de 2020.
 
-documentos: []
+documentos:
+  - fecha: "2016-08-01"
+    titulo: "Resolución SUMMA 112 de 1 de agosto de 2016: anuncio de formalización del expediente PA/GS/01/15, publicado en BOCM de 17 de agosto (páginas 95-96)"
+    filetype: "pdf"
+    paginas: 2
+    nombre_fichero: "https://www.bocm.es/boletin/CM_Orden_BOCM/2016/08/17/BOCM-20160817-24.PDF"
 
 cronologia:
   - fecha: "2016-01-12"
@@ -93,12 +97,28 @@ cronologia:
 
   - fecha: "2016-05-10"
     titulo: "El Consejo de Gobierno aprueba la propuesta de adjudicación a la UTE de Ferrovial"
-    descripcion: "El Consejo de Gobierno de la Comunidad de Madrid aprueba la propuesta de adjudicación —no la adjudicación formal— del contrato del transporte sanitario urgente a la UTE de Ferrovial (Ferrovial Servicios-Servicios Auxiliares Sanitarios) por 77,3 millones de euros, tras descartar la oferta más baja de Ambulancias Alerta (72,3 millones). El Español dató en cambio el 26 de mayo de 2016 la concesión definitiva del contrato a Ferrovial; no consta acreditado si se trata de un acto distinto ni la fecha de formalización."
+    descripcion: "El Consejo de Gobierno de la Comunidad de Madrid aprueba la propuesta de adjudicación —no la adjudicación formal— del contrato del transporte sanitario urgente a la UTE de Ferrovial (Ferrovial Servicios-Servicios Auxiliares Sanitarios) por 77,3 millones de euros, tras descartar la oferta más baja de Ambulancias Alerta (72,3 millones). El BOCM acredita después actos distintos: adjudicación el 27 de mayo y formalización el 30 de junio de 2016. La fecha de esta propuesta no se confunde con ellos."
     type: "resumen"
     relevancia: "alta"
     urls:
       - "https://www.comunidad.madrid/hospital/summa112/noticia/comunidad-destinara-773-millones-transporte-sanitario-urgente-ambulancia"
       - "https://www.madridiario.es/433839/comunidad-transporte-sanitario-urgente-ambulancia-contrato"
+
+  - fecha: "2016-05-27"
+    titulo: "Adjudicación del contrato a Safe Urgencias 2016 UTE"
+    descripcion: "El anuncio original del BOCM acredita adjudicación el 27 de mayo de 2016 por 77.319.962,81 euros a Ferrovial Servicios y Servicios Auxiliares Sanitarios de Urgencia, UTE Safe Urgencias 2016. El presupuesto base era 82.860.480 euros y el valor estimado 136.719.792 euros; son conceptos distintos, no daño público ni cantidades sumables."
+    type: "documento"
+    relevancia: "alta"
+    urls:
+      - "https://www.bocm.es/boletin/CM_Orden_BOCM/2016/08/17/BOCM-20160817-24.PDF"
+
+  - fecha: "2016-06-30"
+    titulo: "Formalización del contrato de transporte sanitario"
+    descripcion: "Fecha de formalización expresamente recogida en la resolución de 1 de agosto, publicada el 17 de agosto de 2016 en BOCM. Se distingue la firma del contrato de la adjudicación, de la resolución de anuncio y de su publicación."
+    type: "documento"
+    relevancia: "media"
+    urls:
+      - "https://www.bocm.es/boletin/CM_Orden_BOCM/2016/08/17/BOCM-20160817-24.PDF"
 
   - fecha: "2017-12-27"
     titulo: "El Español publica las grabaciones de las reuniones"
@@ -158,7 +178,7 @@ cronologia:
 
 # Caso Ambulancias
 
-## Nota de revisión (2026-10-01)
+## Nota de revisión (2026-10-17)
 
 Revisión de la ficha con fuentes periodísticas y notas oficiales entre 2016 y 2020. No se han localizado resoluciones ni novedades de 2025-2026 para este caso. El denominado "caso ambulancias" de Cataluña (con el exdirigente de CDC David Madí, cuya causa fue archivada por la Audiencia Nacional en marzo de 2026) es un asunto distinto y no debe confundirse con este.
 
@@ -167,13 +187,13 @@ Revisión de la ficha con fuentes periodísticas y notas oficiales entre 2016 y 
 - **Nombres de los investigados**: la ficha usaba "Manuel Molina del Pozo", "César Pascual Cantalapiedra" y "Luis Fernández Abad". Los nombres acreditados son **Manuel Molina Muñoz**, **César Pascual Fernández**, **Luis Javier Fernández Abad** y **Santiago Cortés Sánchez** (Redacción Médica, 17-01-2019; ConSalud; El Mundo, 02-04-2018; Europa Press, 17-01-2020).
 - **Fecha del archivo**: el auto de sobreseimiento provisional está **fechado el 16 de enero de 2019** (art. 641.1 LECrim) y no el 31 de enero. La ficha lo databa el 31-01-2019 (Redacción Médica, 17-01-2019).
 - **Confirmación del sobreseimiento**: se añade el auto de la **Sección 23 de la Audiencia Provincial de Madrid de 13 de enero de 2020**, que desestimó el recurso de Ambulancias Alerta y confirmó el sobreseimiento provisional (Europa Press y El Mundo, 17-01-2020; ConSalud). La ficha terminaba el caso en enero de 2019 y no recogía este trámite. El sobreseimiento conserva su carácter provisional; no se ha verificado la firmeza de los autos ni localizado actuaciones posteriores.
-- **Adjudicación a Ferrovial**: el Consejo de Gobierno de la Comunidad de Madrid aprobó la **propuesta de adjudicación** el **10 de mayo de 2016** (nota oficial de la Comunidad de Madrid y Madridiario del mismo día), no la adjudicación formal. La ficha la situaba el 31-05-2016. El Español (dic. 2017) dató el 26 de mayo de 2016 la concesión definitiva del contrato; se recoge como dato separado, sin darlo por el mismo acto ni dar por verificada la fecha de formalización.
+- **Adjudicación a Ferrovial**: el Consejo de Gobierno de la Comunidad de Madrid aprobó la **propuesta de adjudicación** el **10 de mayo de 2016** (nota oficial de la Comunidad de Madrid y Madridiario del mismo día), no la adjudicación formal. La ficha la situaba el 31-05-2016. El BOCM original acredita adjudicación el 27 de mayo y formalización el 30 de junio de 2016; prevalecen sobre el 26 de mayo publicado por El Español.
 - **Admisión de la querella**: la ficha la databa el 23-01-2018, fecha de la noticia de El Español. El auto de admisión a trámite está **fechado el 8 de enero de 2018** (El País, 20-02-2018; El Mundo, 02-04-2018).
 - **Citación como investigados**: la ficha la databa el 12-03-2018 (fecha de las noticias). La providencia de citación es del **21 de febrero de 2018**, con declaraciones fijadas para el 2 de abril (Telemadrid, 12-03-2018; Europa Press).
-- **Coste**: la ficha usaba 72,5 millones, cifra que no aparece en las fuentes consultadas. Se ha fijado el coste en **77.300.000 euros**, importe del volumen del contrato adjudicado a la UTE de Ferrovial (cuatro años de servicio), frente a la oferta descartada de Ambulancias Alerta de **72,3 millones** (El Español; Comunidad de Madrid; Servicios de Emergencia). La descripción aclara que se trata del volumen del contrato y no de un daño o perjuicio declarado acreditado.
+- **Coste**: se retira el campo numérico. Los 77.319.962,81 euros son el precio de adjudicación acreditado en BOCM, no perjuicio probado; tampoco lo es por sí sola la diferencia con la oferta de Alerta ni la deuda denunciada por la empresa.
 - **numeroSentencia**: se deja **vacío** (`""`), al no existir número de sentencia ni de resolución acreditado; las fechas de los autos (16 de enero de 2019 y 13 de enero de 2020) quedan en `descripcion`, `tribunal` y la cronología. La ficha anterior incluía en este campo un texto descriptivo que podía leerse como identificador inventado.
 - **Firmeza**: no se ha verificado la firmeza de los autos. Su carácter provisional se distingue de la firmeza procesal: no se deduce esta de aquel.
-- **Documentos**: de `null` a `[]`, al no existir documentos judiciales locales verificables.
+- **Documentos**: se incorpora el anuncio original de formalización, de dos páginas; no se añade ningún auto judicial no obtenido.
 - **Tags**: se retira "tráfico de influencias", que no se imputó a los investigados en esta causa (se relacionaba con otros procedimientos referidos a Ferrovial).
 
 ### Incertidumbres y límites
@@ -183,3 +203,9 @@ Revisión de la ficha con fuentes periodísticas y notas oficiales entre 2016 y 
 - **Límite de los 72,5 millones**: la cifra empleada originalmente en la ficha no se ha encontrado en ninguna fuente; las cifras documentadas son 72,3 millones (oferta de Alerta), 77,3 millones (adjudicación a Ferrovial) y unos 82 millones (presupuesto de licitación).
 - **Delitos imputados**: el auto de archivo se refiere a la prevaricación administrativa; otras fuentes aluden a coacciones, falsedad, malversación y cohecho como objeto de la querella. No hubo condena ni resolución que declarara probados los hechos.
 - **Partido**: los cuatro investigados fueron cargos del Gobierno de la Comunidad de Madrid presidido por el PP (Molina ocupó la viceconsejería entre diciembre de 2014 y mayo de 2018, según elDiario.es). No consta condena de ninguna persona.
+
+## Alcance real de lectura y límites
+
+Se han descargado y leído íntegramente las dos páginas del BOCM (95-96), con inspección visual de la primera; el número de expediente, adjudicatarios, importes y fechas constan expresamente. También se han leído la nota oficial de 10 de mayo y las crónicas de Europa Press de 17 de enero de 2019 y 17 de enero de 2020 y de Redacción Médica sobre el archivo. No se han obtenido los autos de admisión, citación, archivo o apelación: no se presenta su contenido como lectura directa.
+
+La fecha final queda vacía: un auto de apelación que confirma un sobreseimiento provisional no acredita una fecha de cierre global. La ausencia de nuevas resoluciones localizadas no prueba su inexistencia. Los antecedentes sobre presiones y facturas proceden de la empresa y de las investigaciones periodísticas; no se convierten en hechos probados, y las crónicas del archivo señalan que no quedó acreditada la intervención de los investigados en el retraso de pagos. Los nombres y cargos se conservan como históricos, sin atribuirles vigencia actual.
