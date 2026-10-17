@@ -17,7 +17,7 @@ descripcion: 'Esta ficha corresponde a la pieza Rosendo-Sayago, sobre ayudas por
   los hechos relativos a la recepción de ayudas y manifestó arrepentimiento, pero negó la estafa atribuida por BBVA.
   La Fiscalía redujo a tres años de prisión su petición en las conclusiones definitivas del 4 de marzo; no es una
   condena. Eduardo Lora y Manuel Valdecantos también fueron enjuiciados; Manuel Robles quedó excluido de la vista
-  por su estado de salud, según la crónica del inicio. Daniel Alberto González Rivera había sido excluido por un
+  por su estado de salud, según la crónica del inicio. Daniel Alberto Rivera había sido excluido por un
   auto de 11 de abril de 2023 relativo a los plazos de instrucción.
 
 
@@ -53,7 +53,7 @@ implicados:
     cargo: Empresario
     rol: Incluido en la apertura de juicio oral de 2021; excluido de la vista de febrero de 2026 por su estado de
       salud, según la crónica. No equivale a absolución y falta el auto que precise su alcance.
-  - nombre: Daniel Alberto González Rivera
+  - nombre: Daniel Alberto Rivera
     cargo: Exdirector general de Trabajo y Seguridad Social de la Junta de Andalucía
     rol: Incluido en la apertura de juicio oral de 2021; excluido por auto de 11 de abril de 2023 por los plazos
       de investigación del artículo 324 de la Ley de Enjuiciamiento Criminal, según prensa. No es uno de los empresarios
@@ -96,7 +96,7 @@ cronologia:
     type: juicio
     relevancia: alta
   - fecha: '2023-04-11'
-    titulo: Exclusión de Daniel Alberto González Rivera
+    titulo: Exclusión de Daniel Alberto Rivera
     descripcion: La crónica publicada el 5 de mayo de 2023 refiere un auto de esta fecha de la Sección Séptima que
       estimó el recurso de Rivera y ordenó el archivo respecto de él por superación de los plazos legales de instrucción.
       No se extiende ese resultado a los demás acusados ni a otras piezas.
