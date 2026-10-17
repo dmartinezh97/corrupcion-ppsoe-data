@@ -1,235 +1,271 @@
 ---
-nombre: "Caso Novo Carthago"
+nombre: Caso Novo Carthago
 partido: PP
-completado: true
+completado: false
 año: 2002
-fechaInicio: 2002-01-01
-fechaFin: "2026-01-01"
-estado: "sobreseimiento"
-descripcion: |
-  El Caso Novo Carthago es una investigación judicial sobre la presunta recalificación ilegal de terrenos protegidos cercanos al Mar Menor en el municipio de Cartagena para permitir la construcción de un megaproyecto urbanístico de aproximadamente 10.000 viviendas, hoteles de lujo y dos campos de golf. La trama se inició en 2002 cuando la empresa Hansa Urbana, propiedad de Rafael Galea Expósito, adquirió cinco fincas rústicas por cerca de 20 millones de euros, sabiendo que parte de esos terrenos se encontraban en zona especialmente protegida donde no se podía edificar. El proyecto afectaba directamente al Saladar de Lo Poyo y otras áreas naturales del entorno del Mar Menor, incluyendo 135 hectáreas de regadío protegido del Trasvase Tajo-Segura.
+estado: Absolución
+descripcion: 'La causa examinó la tramitación del proyecto Novo Carthago de Hansa Urbana, que preveía unas 10.000
+  viviendas, hoteles y campos de golf junto al Mar Menor, en Cartagena. La acusación cuestionó el reinicio del Plan
+  de Ordenación de los Recursos Naturales (PORN) de 2003, los informes ambientales y la modificación puntual 113
+  del PGOU. La compra de terrenos en 2002 estaba sometida a condición resolutoria: la sentencia no consideró que
+  acreditara por sí sola un concierto delictivo con responsables públicos.
 
-  La investigación se centró en cómo altos cargos de la Comunidad Autónoma de Murcia del Partido Popular habrían modificado leyes regionales y eliminado obstáculos legales para facilitar la aprobación del proyecto urbanístico. En junio de 2003, el gobierno regional de Murcia en pleno, presidido por Ramón Luis Valcárcel, asistió a la presentación del modelo Novo Carthago. En septiembre de 2004, las competencias ambientales fueron devueltas a la Consejería de Agricultura dirigida por Antonio Cerdá, y en marzo de 2005 se aprobó la modificación del Plan General de Ordenación Urbana (PGOU) de Cartagena que autorizó el proyecto. El 23 de marzo de 2006, el Ayuntamiento de Cartagena aprobó el Plan Parcial de Novo Carthago con Pilar Barreiro como alcaldesa.
 
-  Tras 23 años de proceso judicial, la Sección Tercera de la Audiencia Provincial de Murcia absolvió el 20 de noviembre de 2025 a todos los acusados en el procedimiento abreviado 81/2019 (sentencia ECLI:ES:APMU:2025:2838). El tribunal determinó que no se acreditó que las resoluciones administrativas fueran arbitrarias ni dictadas "a sabiendas de su injusticia", considerando que las interpretaciones jurídicas de los acusados se situaban dentro del margen de discrecionalidad técnica. La sentencia fue declarada firme en enero de 2026 sin que ninguna de las acusaciones la recurriera en casación.
+  La Sección Tercera de la Audiencia Provincial de Murcia absolvió a los siete acusados mediante sentencia 366/2025,
+  de 20 de noviembre (PA 81/2019). No apreció la arbitrariedad y el conocimiento de la injusticia necesarios para
+  la prevaricación, ni falsedad penal en el instrumento normativo, ni vinculación suficiente entre los ingresos
+  investigados y un delito previo para el blanqueo. Añadió la prescripción respecto de los hechos del PORN atribuidos
+  al entonces consejero. No declaró delictiva la recalificación ni condenó a los promotores.
 
-resumen: "Recalificación ilegal de terrenos protegidos del Mar Menor para 10.000 viviendas; todos los acusados absueltos en 2025"
-coste: 20000000
-lugar: "Cartagena, Región de Murcia"
+
+  La prensa comunicó el 16 de enero de 2026 que la sentencia había sido declarada firme al no recurrir las acusaciones.
+  No se ha obtenido la resolución de firmeza ni su fecha exacta. Esta absolución corresponde a los siete enjuiciados:
+  Carlos Brugarolas falleció en 2019 antes del juicio; Francisco Marqués declaró como testigo en 2025 y Rafael Galea
+  no figura entre esos siete. Sus desenlaces anteriores no se sustituyen por una absolución en esta sentencia. Pilar
+  Barreiro obtuvo un sobreseimiento provisional confirmado por el Supremo, según EFE en diciembre de 2016, y declaró
+  como testigo el 8 de octubre de 2025; no fue absuelta tras juicio por el Supremo. Quedan pendientes originales
+  de esos archivos y el cotejo de las variantes nominales publicadas sobre el asesor jurídico de Urbanismo. La absolución
+  penal tampoco determina por sí sola la situación posterior de convenios, avales o reparcelación.'
+resumen: 'Tramitación urbanística de Novo Carthago: siete acusados absueltos en noviembre de 2025; firmeza comunicada
+  por la prensa en enero de 2026.'
+lugar: Cartagena, Región de Murcia
 tribunal:
-  - "Juzgado de Instrucción nº 2 de Murcia"
-  - "Audiencia Provincial de Murcia - Sección Tercera (PA 81/2019)"
-  - "Tribunal Supremo - Sala Segunda de lo Penal (causa contra Pilar Barreiro)"
-numeroSentencia: "ECLI:ES:APMU:2025:2838"
+- Juzgado de Instrucción número 2 de Murcia
+- Tribunal Superior de Justicia de la Región de Murcia, Sala de lo Civil y Penal (instrucción por aforamiento)
+- Audiencia Provincial de Murcia, Sección 3ª (PA 81/2019)
+- Tribunal Supremo, Sala de lo Penal (actuaciones respecto de Pilar Barreiro)
+numeroSentencia: Sentencia 366/2025, de 20 de noviembre; PA 81/2019, Audiencia Provincial de Murcia, Sección 3ª;
+  ECLI:ES:APMU:2025:2838.
 implicados:
-  - nombre: "Antonio Cerdá Cerdá"
-    cargo: "Exconsejero de Agricultura y Medio Ambiente de la Región de Murcia"
-    rol: "Absuelto de prevaricación; recalificación de terrenos protegidos"
-
-  - nombre: "Joaquín Bascuñana García"
-    cargo: "Exconsejero de Obras Públicas de la Región de Murcia"
-    rol: "Absuelto de prevaricación y falsedad documental"
-
-  - nombre: "Francisco Marqués Fernández"
-    cargo: "Exconsejero de Medio Ambiente de la Región de Murcia"
-    rol: "Absuelto de prevaricación en modificaciones normativas"
-
-  - nombre: "Carlos Brugarolas"
-    cargo: "Exdirector General del Medio Natural de la Región de Murcia"
-    rol: "Absuelto de prevaricación y falsedad documental"
-
-  - nombre: "María Antonieta Fernández Cano"
-    cargo: "Asesora jurídica de Urbanismo de la Región de Murcia"
-    rol: "Absuelta de participación en recalificación irregular"
-
-  - nombre: "Antonio Alvarado Pérez"
-    cargo: "Exdirector General de Calidad Ambiental de la Región de Murcia"
-    rol: "Absuelto de prevaricación por informes favorables irregulares"
-
-  - nombre: "Manuel Alfonso Guerrero Zamora"
-    cargo: "Exdirector General de Vivienda y Urbanismo de la Región de Murcia"
-    rol: "Absuelto de prevaricación en tramitación urbanística"
-
-  - nombre: "José María Ródenas Cañada"
-    cargo: "Exsubdirector General de Urbanismo de la Región de Murcia"
-    rol: "Absuelto de prevaricación en aprobación del proyecto"
-
-  - nombre: "Luis María Romero Agulló"
-    cargo: "Asesor jurídico de Urbanismo de la Región de Murcia"
-    rol: "Absuelto de participación en recalificación irregular"
-
-  - nombre: "Rafael Galea Expósito"
-    cargo: "Propietario y presidente de Hansa Urbana"
-    rol: "Absuelto de cohecho; promotor del megaproyecto"
-
-  - nombre: "Pilar Barreiro Álvarez"
-    cargo: "Exalcaldesa de Cartagena, exsenadora y exdiputada del PP"
-    rol: "Absuelta por el Tribunal Supremo en diciembre de 2016"
-
-  - nombre: "Ramón Luis Valcárcel Siso"
-    cargo: "Expresidente de la Región de Murcia (1995-2014)"
-    rol: "Testigo; asistió a la presentación del proyecto en 2003"
-
+- nombre: Antonio Cerdá Cerdá
+  cargo: Exconsejero de Agricultura, Agua y Medio Ambiente de Murcia
+  rol: Absuelto en la sentencia 366/2025 de las acusaciones de prevaricación y falsedad relativas al PORN. El tribunal
+    añadió la prescripción como fundamento respecto de esos hechos.
+- nombre: Joaquín Bascuñana
+  cargo: Exconsejero de Obras Públicas de Murcia
+  rol: Uno de los siete acusados absueltos en 2025; se le atribuía prevaricación por la aprobación de la modificación
+    del PGOU.
+- nombre: María Antonieta Fernández Cano
+  cargo: Exasesora jurídica eventual del consejero de Medio Ambiente
+  rol: Absuelta en 2025 de prevaricación, falsedad y blanqueo. La absolución por blanqueo se basó en insuficiencia
+    de prueba sobre el origen delictivo de los ingresos, no en la prescripción de ese delito.
+- nombre: Antonio Alvarado
+  cargo: Exdirector general de Calidad Ambiental de Murcia
+  rol: Uno de los siete acusados absueltos en 2025 por su intervención en la tramitación ambiental.
+- nombre: Manuel Alfonso Guerrero
+  cargo: Exdirector general de Administración Local y de Urbanismo de Murcia
+  rol: Incluido por la prensa en los siete acusados por prevaricación absueltos en 2025.
+- nombre: José María Ródenas Cañada
+  cargo: Exsubdirector general de Urbanismo de Murcia
+  rol: Incluido por la prensa en los siete acusados por prevaricación absueltos en 2025.
+- nombre: Luis Romera
+  cargo: Antiguo asesor jurídico de Urbanismo de Murcia
+  rol: Incluido por SER entre los siete acusados absueltos en 2025. Otras noticias lo denominan Luis María Romero
+    Agulló o Luis María Romera; pendiente cotejo nominal judicial, sin reconstruir la identidad desde los seudónimos
+    del CENDOJ.
+- nombre: Carlos Brugarolas
+  cargo: Exdirector general de Medio Natural de Murcia
+  rol: Investigado durante la tramitación; falleció en 2019 antes del juicio. No está entre las siete
+    personas absueltas en la sentencia de 2025.
+- nombre: Francisco Marqués
+  cargo: Exconsejero de Medio Ambiente de Murcia
+  rol: Investigado en fases anteriores, incluido en la resolución de continuación de 2018 y testigo en octubre de
+    2025. No fue uno de los siete acusados absueltos; falta el original que delimite su desenlace previo.
+- nombre: Rafael Galea
+  cargo: Responsable de Hansa Urbana, promotora del proyecto
+  rol: Investigado en fases anteriores e incluido en la continuación de 2018, según EFE. No figura entre los siete
+    acusados juzgados en 2025; no se le atribuye por extensión esa absolución ni un desenlace anterior sin su resolución.
+- nombre: Pilar Barreiro
+  cargo: Exalcaldesa de Cartagena, exdiputada y exsenadora del PP
+  rol: Sobreseimiento provisional confirmado por el Supremo, comunicado por EFE el 16 de diciembre de 2016. Declaró
+    como testigo el 8 de octubre de 2025. No fue absuelta por sentencia del Supremo.
+- nombre: Ramón Luis Valcárcel
+  cargo: Expresidente de la Región de Murcia
+  rol: La información de 2018 relata ausencia de indicios para mantener las actuaciones respecto de él; declaró
+    como testigo el 20 de octubre de 2025. No se le atribuye la absolución de los siete acusados.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "urbanismo"
-  - "cohecho"
-  - "falsedad documental"
-  - "medio ambiente"
-  - "Mar Menor"
-  - "blanqueo de capitales"
-
-impactoSocial: "El Caso Novo Carthago es emblemático de la corrupción urbanística del boom inmobiliario en España y representa uno de los mayores atentados medioambientales contra el Mar Menor. Las dilaciones judiciales de 23 años y la absolución final de todos los acusados generaron críticas sobre la lentitud de la justicia y la impunidad en casos de corrupción política y medioambiental."
-
-documentos: []
-
+- corrupción
+- prevaricación
+- urbanismo
+- cohecho
+- falsedad documental
+- medio ambiente
+- Mar Menor
+- blanqueo de capitales
+impactoSocial: El proyecto suscitó oposición ambiental por su posible incidencia sobre espacios protegidos del Mar
+  Menor. ANSE, IU-Verdes y el Grupo Municipal Socialista de Cartagena ejercieron conjuntamente la acusación popular.
+  Los retrasos llevaron a aplazar el juicio previsto en 2023 hasta 2025; su resultado fue absolutorio. Las críticas
+  políticas y ambientales se distinguen de los delitos examinados por el tribunal.
+documentos:
+- fecha: '2025-11-20'
+  titulo: 'Sentencia 366/2025: absolución de los siete acusados en el PA 81/2019'
+  filetype: PDF
+  paginas: 27
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07ee077d92356272a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: 2002-01-01
-    titulo: "Hansa Urbana adquiere terrenos protegidos"
-    descripcion: "La empresa Hansa Urbana, propiedad de Rafael Galea Expósito, adquiere cinco fincas rústicas en San Ginés de la Jara por aproximadamente 20 millones de euros. Los promotores sabían que gran parte de estos terrenos estaban en zona especialmente protegida del Mar Menor donde no se podía edificar, lo que convierte la adquisición en el inicio de un presunto plan para forzar su recalificación mediante la influencia en las instituciones."
-    type: "resumen"
-    urls: []
-
-  - fecha: 2003-06-12
-    titulo: "Presentación oficial del proyecto con el gobierno regional en pleno"
-    descripcion: "El gobierno de la Región de Murcia en pleno, presidido por Ramón Luis Valcárcel (PP), asiste a la presentación del modelo del proyecto urbanístico Novo Carthago, dos años antes de conceder los permisos urbanísticos necesarios. Este evento evidencia el compromiso político del ejecutivo regional con el megaproyecto antes de iniciar cualquier evaluación técnica o ambiental rigurosa."
-    type: "resumen"
-    urls: []
-
-  - fecha: 2004-09-01
-    titulo: "Competencias ambientales devueltas a la Consejería de Cerdá"
-    descripcion: "Las competencias ambientales son retornadas a la Consejería de Agricultura y Medio Ambiente dirigida por Antonio Cerdá Cerdá, quien presuntamente las utilizará para facilitar la aprobación del proyecto Novo Carthago eliminando obstáculos medioambientales que impedían la construcción en zonas protegidas del Mar Menor."
-    type: "resumen"
-    urls: []
-
-  - fecha: 2005-03-01
-    titulo: "Modificación del PGOU de Cartagena que autoriza Novo Carthago"
-    descripcion: "Se aprueba la modificación del Plan General de Ordenación Urbana (PGOU) de Cartagena que autoriza el proyecto urbanístico Novo Carthago para construir 10.000 viviendas en terrenos que previamente estaban protegidos. Esta modificación es el núcleo de la investigación judicial, al considerar que se realizó de forma irregular mediante prevaricación de los cargos públicos implicados."
-    type: "resumen"
-    urls: []
-
-  - fecha: 2006-03-23
-    titulo: "El Ayuntamiento de Cartagena aprueba el Plan Parcial"
-    descripcion: "El Ayuntamiento de Cartagena, con Pilar Barreiro como alcaldesa, aprueba definitivamente el Plan Parcial de Novo Carthago, que permitiría la construcción de más de 10.000 viviendas, varios hoteles de lujo, dos campos de golf y numerosos centros de ocio en terrenos del entorno del Mar Menor que incluían 135 hectáreas de regadío protegido del Trasvase Tajo-Segura."
-    type: "resumen"
-    urls:
-      - "http://elnaturalistadigital.blogspot.com/2006/03/anse-denuncia-la-destruccin-de-la-zona.html"
-
-  - fecha: 2006-03-23
-    titulo: "ANSE denuncia públicamente la destrucción del Mar Menor"
-    descripcion: "La Asociación de Naturalistas del Sureste (ANSE) denuncia públicamente que el proyecto Novo Carthago destruiría la zona sur del Mar Menor, afectando gravemente al Saladar de Lo Poyo y otros espacios naturales protegidos. ANSE señala que la urbanización de 12.000 viviendas totales en el entorno de la laguna representa un pelotazo urbanístico sin precedentes en la costa murciana."
-    type: "investigación"
-    urls:
-      - "http://elnaturalistadigital.blogspot.com/2006/03/anse-denuncia-la-destruccin-de-la-zona.html"
-
-  - fecha: 2009-01-01
-    titulo: "Inicio de la investigación judicial"
-    descripcion: "El Juzgado de Instrucción nº 2 de Murcia inicia formalmente la investigación judicial del caso Novo Carthago tras las denuncias de organizaciones ecologistas y partidos políticos de la oposición. Se investigan presuntos delitos de prevaricación, falsedad documental y cohecho en la recalificación de terrenos protegidos del Mar Menor para permitir el megaproyecto urbanístico."
-    type: "investigación"
-    urls: []
-
-  - fecha: 2015-05-01
-    titulo: "El Tribunal Supremo archiva la causa contra Pilar Barreiro"
-    descripcion: "El magistrado instructor del Tribunal Supremo dicta un auto de sobreseimiento y archivo de las actuaciones contra Pilar Barreiro, exalcaldesa de Cartagena, al considerar que no existía delito y que no procedía continuar la investigación. La causa se tramitó en el Supremo por el aforamiento de Barreiro como senadora del PP."
-    type: "investigación"
-    urls:
-      - "https://okdiario.com/espana/supremo-ya-archivo-causa-contra-barreiro-caso-novo-carthago-1965561"
-
-  - fecha: 2016-01-01
-    titulo: "El Tribunal Supremo reabre la causa contra Pilar Barreiro"
-    descripcion: "La Sala de lo Penal del Tribunal Supremo estima el recurso presentado por la acusación popular (IU-Verdes y PSOE) y revoca el archivo de la causa contra la senadora Pilar Barreiro, manteniendo su imputación por presunta prevaricación. La decisión obliga a continuar la investigación sobre su papel como alcaldesa en la aprobación del proyecto urbanístico."
-    type: "investigación"
-    urls:
-      - "https://www.vozpopuli.com/espana/pilar_barreiro-senadoras-partido_popular_pp-novo_carthago-pilar_barreiro-novo_carthago-pp-corrupcion-murcia_0_900509958.html"
-
-  - fecha: 2016-12-01
-    titulo: "Absolución definitiva de Pilar Barreiro por el Tribunal Supremo"
-    descripcion: "La Sala Segunda del Tribunal Supremo confirma el sobreseimiento de la causa contra Pilar Barreiro al determinar que no existían indicios suficientes para mantenerla imputada. El alto tribunal considera que las actuaciones de la exalcaldesa durante la tramitación del proyecto urbanístico fueron adecuadas a derecho, cerrando definitivamente el caso contra ella."
-    type: "investigación"
-    urls:
-      - "https://okdiario.com/espana/supremo-ya-archivo-causa-contra-barreiro-caso-novo-carthago-1965561"
-
-  - fecha: 2018-05-22
-    titulo: "Procesamiento de Rafael Galea y siete altos cargos del PP"
-    descripcion: "El Juzgado de Instrucción nº 2 de Murcia procesa a Rafael Galea Expósito, propietario de Hansa Urbana, por presunto cohecho, junto a siete exconsejeros y altos cargos del gobierno regional del PP, incluidos Antonio Cerdá y Joaquín Bascuñana, por delitos de prevaricación y falsedad documental. En total, once personas quedan procesadas en el caso."
-    type: "imputación"
-    urls:
-      - "https://www.diarioinformacion.com/economia/2018/05/22/procesan-dueno-hansa-cohecho-aprobacion/2023343.html"
-
-  - fecha: 2018-12-01
-    titulo: "La Fiscalía pide tres años y medio de cárcel para los principales acusados"
-    descripcion: "La Fiscalía Anticorrupción solicita tres años y medio de prisión para el exconsejero de Agricultura Antonio Cerdá y penas similares para el exconsejero de Obras Públicas Joaquín Bascuñana y otros altos cargos procesados por su presunta responsabilidad en la recalificación irregular de los terrenos de Novo Carthago."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/murcia/politica/piden-exconsejero-cerda-novo-carthago_1_1808679.html"
-
-  - fecha: 2019-03-01
-    titulo: "Apertura de juicio oral"
-    descripcion: "El Juzgado de Instrucción nº 2 de Murcia dicta auto de apertura de juicio oral en el caso Novo Carthago contra los acusados por prevaricación, falsedad documental y blanqueo de capitales. La decisión marca el fin de la fase de instrucción y el inicio del proceso hacia el juicio, aunque este sufrirá múltiples aplazamientos durante los siguientes años."
-    type: "juicio"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juzgado-abre-juicio-oral-por-el-caso-Novo-Carthago"
-
-  - fecha: 2023-09-01
-    titulo: "Huelga de letrados aplaza el juicio hasta 2025"
-    descripcion: "La huelga de letrados de la Administración de Justicia obliga a aplazar el juicio del caso Novo Carthago, programado para septiembre de 2023, hasta el año 2025. Este nuevo retraso añade más dilaciones a un proceso judicial que ya acumula más de 20 años desde los hechos investigados."
-    type: "investigación"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Region-de-Murcia/Oficina-de-Comunicacion/Archivo-de-notas-prensa/La-huelga-de-letrados-de-la-Administracion-de-Justicia-obliga-a-aplazar-el-juicio-de-Novo-Carthago-en-la-Audiencia-Provincial-de-Murcia"
-
-  - fecha: 2025-09-29
-    titulo: "Comienza el juicio oral en la Audiencia Provincial de Murcia"
-    descripcion: "Arranca en la Audiencia Provincial de Murcia el juicio del caso Novo Carthago, 23 años después de que se iniciaran los hechos investigados. Siete acusados se sientan en el banquillo, incluidos los exconsejeros Antonio Cerdá y Joaquín Bascuñana, en un juicio programado para 20 sesiones hasta el 11 de noviembre. Las defensas intentan sin éxito cerrar la causa en la primera sesión alegando prescripción. La Sala está presidida por el magistrado Álvaro Castaño."
-    type: "juicio"
-    urls:
-      - "https://www.orm.es/informativos/arranca-el-juicio-por-novo-carthago-con-intentos-fallidos-de-cerrar-la-causa/"
-      - "https://www.la7tv.es/articulo/actualidad/lunes-comienza-juicio-7-acusados-prevaricacion-novo-carthago/20250929103046060204.html"
-
-  - fecha: 2025-10-01
-    titulo: "La Fiscalía rebaja las peticiones de pena a un año por dilaciones indebidas"
-    descripcion: "La Fiscalía Anticorrupción rebaja sus peticiones de condena de tres años y medio a solo un año de prisión para los principales acusados, aplicando la atenuante de dilaciones indebidas por los 22 años transcurridos desde los hechos. El Ministerio Fiscal reconoce públicamente que ninguno de los acusados ingresará en prisión incluso en caso de condena."
-    type: "juicio"
-    urls:
-      - "https://www.orm.es/informativos/la-fiscalia-rebaja-a-un-ano-la-peticion-de-carcel-para-los-principales-acusados-en-el-caso-novo-carthago/"
-      - "https://murciaplaza.com/murciaplaza/region/los-acusados-del-caso-novo-carthago-no-pisaran-la-carcel-al-rebajar-el-fiscal-su-peticion-de-penas"
-
-  - fecha: 2025-10-15
-    titulo: "Pilar Barreiro declara como testigo"
-    descripcion: "La exalcaldesa de Cartagena Pilar Barreiro comparece ante la Audiencia Provincial como testigo, tras haber sido absuelta por el Tribunal Supremo. En su declaración, Barreiro asegura que hizo lo que la ley establecía que tenía que hacer y que el proyecto Novo Carthago se tramitó conforme a la ley."
-    type: "declaración"
-    urls:
-      - "https://www.orm.es/informativos/barreiro-asegura-que-hizo-lo-que-la-ley-establecia-que-tenia-que-hacer-en-el-caso-novo-carthago/"
-
-  - fecha: 2025-10-20
-    titulo: "Ramón Luis Valcárcel declara como testigo"
-    descripcion: "El expresidente de la Región de Murcia Ramón Luis Valcárcel comparece como testigo y asegura que no tuvo constancia del proyecto Novo Carthago hasta que fue presentado públicamente en sociedad en 2003. Valcárcel niega cualquier implicación en la recalificación de los terrenos y sostiene que desconocía los detalles técnicos del proyecto urbanístico."
-    type: "declaración"
-    urls:
-      - "https://murciaplaza.com/murciaplaza/region/valcarcel-asegura-que-no-tuvo-constancia-de-novo-carthago-hasta-que-el-proyecto-fue-presentado-en-sociedad"
-      - "https://murciaeconomia.com/art/103069/novo-carthago-llega-el-turno-del-expresidente-de-la-region-de-murcia-ramon-luis-valcarcel"
-
-  - fecha: 2025-11-11
-    titulo: "El caso queda visto para sentencia tras 20 sesiones de juicio"
-    descripcion: "Tras veinte sesiones de juicio con más de 50 testificales y periciales practicadas, el caso Novo Carthago queda visto para sentencia en la Audiencia Provincial de Murcia, 23 años después del inicio del proceso judicial. Las defensas de los siete acusados piden la absolución al considerar no probados los delitos de prevaricación, falsedad documental y blanqueo de capitales."
-    type: "juicio"
-    urls:
-      - "https://www.orm.es/informativos/visto-para-sentencia-el-caso-novo-carthago-tras-23-anos-de-proceso-judicial/"
-
-  - fecha: 2025-11-20
-    titulo: "La Audiencia Provincial absuelve a todos los acusados"
-    descripcion: "La Sección Tercera de la Audiencia Provincial de Murcia dicta sentencia absolutoria para todos los acusados (ECLI:ES:APMU:2025:2838) en el procedimiento abreviado 81/2019. El tribunal determina que no se acreditó que las resoluciones administrativas fueran arbitrarias ni dictadas a sabiendas de su injusticia. La sala concluye que las interpretaciones jurídicas de los acusados se sitúan dentro del margen de discrecionalidad técnica, que el control penal debe reservarse para los casos más graves, y que no se estableció vinculación entre los ingresos investigados y ningún delito previo. Respecto al PORN de 2003, aplica la prescripción por haber transcurrido más de diez años."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Murcia-absuelve-a-todos-los-acusados-en-el-caso-Novo-Carthago-"
-      - "https://www.orm.es/informativos/la-audiencia-provincial-absuelve-a-todos-los-acusados-del-caso-novo-carthago/"
-      - "https://murciaplaza.com/murciaplaza/region/la-audiencia-provincial-de-murcia-absuelve-a-todos-los-acusados-en-el-caso-novo-carthago"
-      - "https://www.eldiario.es/murcia/politica/audiencia-absuelve-acusados-caso-novo-carthago_1_12782915.html"
-
-  - fecha: 2026-01-01
-    titulo: "La sentencia absolutoria queda firme sin recurso de casación"
-    descripcion: "La Audiencia Provincial de Murcia declara firme la sentencia que absolvió a todos los acusados del caso Novo Carthago, al no haber sido recurrida en casación ante el Tribunal Supremo por ninguna de las partes acusadoras (ni la Fiscalía Anticorrupción ni la acusación popular) dentro del plazo establecido. Con ello concluye definitivamente uno de los casos de corrupción urbanística más largos de la historia judicial española."
-    type: "sentencia"
-    urls:
-      - "https://murcia.empresas.de/declaran-firme-la-sentencia-que-absolvio-a-los-acusados-de-novo-carthago/"
+- fecha: '2002-07-19'
+  titulo: Compra condicionada de terrenos para el proyecto
+  descripcion: La sentencia identifica escrituras de 19 de julio y 20 de septiembre de 2002 para la adquisición
+    de fincas rústicas. La compra estaba sometida a condición resolutoria vinculada a la aprobación urbanística;
+    el tribunal rechazó que probara por sí sola un acuerdo delictivo.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07ee077d92356272a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: resumen
+- fecha: '2003-06-12'
+  titulo: Orden de reinicio del PORN y presentación pública
+  descripcion: La Orden firmada por Antonio Cerdá reinició la elaboración de varios PORN, incluido el de los Espacios
+    Abiertos e Islas del Mar Menor. Fue publicada el 30 de junio en el BORM. La sentencia sitúa la presentación
+    pública del proyecto el 12 de junio con asistencia de autoridades, sin convertir esa presencia en prueba de
+    delito.
+  urls:
+  - https://www.borm.es/services/boletin/16025/pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07ee077d92356272a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: resumen
+- fecha: '2005-01-20'
+  titulo: Declaración de impacto ambiental favorable con condiciones
+  descripcion: La sentencia sitúa en esta fecha la DIA favorable a la modificación puntual 113, tras el acuerdo
+    de la comisión técnica de evaluación. Las acusaciones y el tribunal valoraron de forma distinta los informes
+    y discrepancias existentes.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07ee077d92356272a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: resumen
+- fecha: '2005-03-31'
+  titulo: Aprobación definitiva de la modificación puntual 113
+  descripcion: La orden del consejero aprobó la modificación del PGOU de Cartagena. La sentencia de 2025 rechazó
+    que fuera arbitraria y dictada a sabiendas de su injusticia.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07ee077d92356272a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: resumen
+- fecha: '2006-03-23'
+  titulo: ANSE publica su oposición al Plan Parcial
+  descripcion: Un comunicado de ANSE reproducido en El Naturalista Digital criticó la aprobación prevista para ese
+    día y la incidencia sobre el entorno protegido. Sus estimaciones sobre viviendas y superficies son alegaciones
+    ambientales de la asociación, no daños declarados judicialmente.
+  urls:
+  - http://elnaturalistadigital.blogspot.com/2006/03/anse-denuncia-la-destruccin-de-la-zona.html
+  type: denuncia
+- fecha: '2016-12-16'
+  titulo: Se conoce la confirmación del archivo respecto de Barreiro
+  descripcion: EFE informó de que el Supremo confirmó el sobreseimiento, pero en su modalidad provisional, frente
+    al libre acordado por el instructor. La fecha corresponde a la información publicada; no se ha recuperado el
+    auto original. El procedimiento continuaba respecto de los no aforados.
+  urls:
+  - https://cadenaser.com/emisora/2016/12/16/radio_murcia/1481890687_976153.html
+  type: sobreseimiento
+- fecha: '2018-05-21'
+  titulo: Continuación por procedimiento abreviado y archivos parciales
+  descripcion: EFE informa de la conclusión de diligencias y continuación respecto de diez investigados, entre ellos
+    Cerdá, Bascuñana, Marqués y Galea, con archivo respecto de otros once. La sentencia identifica el auto de transformación
+    como de esta fecha. Este trámite previo no equivalía a juicio ni condena y admitía recursos.
+  urls:
+  - https://www.eldiario.es/murcia/politica/exconsejeros-valcarcel-banquillo-nova-carthago_1_2106731.html
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07ee077d92356272a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: imputacion
+- fecha: '2018-12-04'
+  titulo: Se conoce el escrito de acusación de la Fiscalía
+  descripcion: EFE informa de una petición de tres años y medio de prisión para Cerdá por falsedad y prevaricación,
+    y de seis años y medio de inhabilitación para Bascuñana. Las solicitudes iniciales fueron modificadas al final
+    del juicio; no son condenas ni una cuantificación del daño.
+  type: acusacion
+  urls:
+  - https://www.eldiario.es/murcia/politica/piden-exconsejero-cerda-novo-carthago_1_1808679.html
+- fecha: '2019-03-15'
+  titulo: Se comunica la apertura de juicio oral contra ocho responsables públicos
+  descripcion: El CGPJ informa de un auto del Juzgado 2 de Murcia que remite el asunto a la Audiencia, con acusaciones
+    de prevaricación y falsedad. La nota no permite identificar el día del auto con el día de publicación ni extenderlo
+    a todos los investigados anteriores.
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juzgado-abre-juicio-oral-por-el-caso-Novo-Carthago
+  type: juicio
+- fecha: '2023-03-07'
+  titulo: Suspensión del juicio por la huelga de letrados
+  descripcion: El CGPJ comunica una providencia notificada ese día que suspende las sesiones pendientes del juicio
+    previsto para febrero–abril de 2023. Fija un nuevo calendario entre el 29 de septiembre y el 11 de noviembre
+    de 2025; se trata de un señalamiento, no de las fechas efectivas de todas las sesiones.
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Region-de-Murcia/Oficina-de-Comunicacion/Archivo-de-notas-prensa/La-huelga-de-letrados-de-la-Administracion-de-Justicia-obliga-a-aplazar-el-juicio-de-Novo-Carthago-en-la-Audiencia-Provincial-de-Murcia
+  type: juicio
+- fecha: '2023-04-04'
+  titulo: Se conoce una resolución contenciosa sobre el convenio
+  descripcion: El Ayuntamiento comunica que el Juzgado de lo Contencioso Administrativo 1 de Cartagena confirmó
+    su negativa a resolver el convenio solicitada por Hansa Urbana mientras pendía la causa penal. La suspensión
+    de la reparcelación había sido acordada el 4 de mayo de 2018. No se acredita aquí el efecto posterior de la
+    absolución sobre este litigio.
+  urls:
+  - https://www.cartagena.es/detalle_noticias_imprimir.asp?id=72829
+  type: sentencia
+- fecha: '2025-09-29'
+  titulo: Comienza el juicio a siete personas
+  descripcion: El juicio en la Sección 3ª comenzó con cuestiones previas. La sentencia documenta que Hansa Urbana
+    intervenía como tercero afectado, no entre las siete personas acusadas, y fue apartada tras retirarse la petición
+    de nulidad de la modificación 113.
+  urls:
+  - https://www.orm.es/informativos/arranca-el-juicio-por-novo-carthago-con-intentos-fallidos-de-cerrar-la-causa/
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07ee077d92356272a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: juicio
+- fecha: '2025-10-08'
+  titulo: Barreiro declara como testigo
+  descripcion: La exalcaldesa defendió la legalidad de la tramitación municipal. Su declaración como testigo y el
+    sobreseimiento anterior se distinguen de una sentencia absolutoria.
+  urls:
+  - https://www.orm.es/informativos/barreiro-asegura-que-hizo-lo-que-la-ley-establecia-que-tenia-que-hacer-en-el-caso-novo-carthago/
+  type: declaracion
+- fecha: '2025-10-20'
+  titulo: Valcárcel y Marqués declaran como testigos
+  descripcion: EFE relata la declaración de ambos antiguos responsables regionales. Las explicaciones de Valcárcel
+    sobre cuándo conoció el proyecto son su testimonio, no una nueva resolución sobre responsabilidad penal.
+  urls:
+  - https://murciaplaza.com/murciaplaza/region/valcarcel-asegura-que-no-tuvo-constancia-de-novo-carthago-hasta-que-el-proyecto-fue-presentado-en-sociedad
+  type: declaracion
+- fecha: '2025-10-28'
+  titulo: Informe fiscal y reducción de las peticiones de pena
+  descripcion: La información de ORM relata la rebaja por dilaciones indebidas. Las conclusiones definitivas reproducidas
+    en la sentencia pidieron un año de prisión por prevaricación y falsedad para el consejero y la asesora, más
+    dos meses por blanqueo para ella, y penas de inhabilitación para los demás. Eran peticiones, no penas impuestas.
+  urls:
+  - https://www.orm.es/informativos/la-fiscalia-rebaja-a-un-ano-la-peticion-de-carcel-para-los-principales-acusados-en-el-caso-novo-carthago/
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07ee077d92356272a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: juicio
+- fecha: '2025-10-29'
+  titulo: Termina el juicio y queda visto para sentencia
+  descripcion: ORM informa de los informes finales y las solicitudes de absolución de las defensas. La sentencia
+    confirma que las sesiones se celebraron del 29 de septiembre al 29 de octubre, antes del final inicialmente
+    señalado para noviembre.
+  urls:
+  - https://www.orm.es/informativos/visto-para-sentencia-el-caso-novo-carthago-tras-23-anos-de-proceso-judicial/
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07ee077d92356272a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: juicio
+- fecha: '2025-11-20'
+  titulo: Absolución de los siete acusados
+  descripcion: La sentencia 366/2025 absuelve de todos los delitos y declara de oficio las costas. Rechaza la arbitrariedad
+    y el dolo de prevaricación, la falsedad imputada al PORN y la prueba del origen delictivo de los ingresos. Añade
+    prescripción para los hechos del PORN atribuidos al consejero. Ofrecía casación en cinco días.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07ee077d92356272a0a8778d75e36f0d&encode=true&databasematch=AN
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Murcia-absuelve-a-todos-los-acusados-en-el-caso-Novo-Carthago-
+  type: sentencia
+- fecha: '2026-01-16'
+  titulo: Se comunica la firmeza de la sentencia
+  descripcion: 'Empresas de Murcia informa, atribuyéndolo a fuentes judiciales, de que la Audiencia declaró firme
+    la absolución al no recurrir fiscal ni acusación popular. Es la fecha de publicación: no se ha obtenido la resolución
+    de firmeza ni su fecha exacta.'
+  urls:
+  - https://murcia.empresas.de/declaran-firme-la-sentencia-que-absolvio-a-los-acusados-de-novo-carthago/
+  type: sentencia
 ---
+
+El proyecto y sus trámites
+
+Novo Carthago afectaba a terrenos de Cartagena con protección urbanística y ambiental. La promoción de Hansa Urbana requería cambios en el PORN, evaluación ambiental y modificación del planeamiento municipal. La sentencia describe compras de 2002 condicionadas a la viabilidad urbanística y rechaza que esas compras demuestren un pacto con los responsables públicos. La oposición ambiental de ANSE constituye un antecedente de la controversia; sus valoraciones no sustituyen el resultado penal.
+
+La absolución de 2025
+
+La Audiencia examinó la actuación de siete personas. No consideró acreditados los elementos de prevaricación y rechazó que una discrepancia interpretativa equivaliera a una resolución penalmente arbitraria. Descartó la falsedad imputada al instrumento normativo y, para el blanqueo, la conexión probada entre los ingresos y un delito previo. La prescripción fue un fundamento añadido respecto de la orden del PORN atribuida al consejero, no una conclusión indiscriminada sobre todos los delitos y acusados. Hansa Urbana no fue una octava persona condenada o absuelta: comparecía como tercero afectado por una petición de nulidad retirada al comienzo del juicio.
+
+Diferencias personales y firmeza
+
+La absolución de los siete no se extiende a quienes tuvieron otro recorrido. Brugarolas había fallecido antes del juicio. Barreiro obtuvo un sobreseimiento provisional confirmado en 2016, según la información de EFE, y compareció después como testigo; Marqués también declaró como testigo en 2025. Falta recuperar las resoluciones que delimitaron el desenlace previo de Marqués y Galea. Las variantes periodísticas del nombre del asesor jurídico de Urbanismo requieren cotejo nominal; no se reconstruye su identidad a partir de los nombres sustituidos del documento del CENDOJ.
+
+La noticia de enero de 2026 comunica firmeza por ausencia de recursos, pero no aporta el original de esa declaración. No se inventa su fecha ni se confunde con el día de publicación. Los litigios sobre convenio, avales o reparcelación pertenecen a otro ámbito: la comunicación municipal de abril de 2023 acredita una controversia contenciosa pendiente entonces de la causa penal, sin demostrar su situación posterior. Las compras, inversiones anunciadas, multas y decomisos solicitados no se suman como un daño público; no se dispone de una cuantificación judicial verificada que permita fijarlo.
+
+Fuentes: [sentencia 366/2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07ee077d92356272a0a8778d75e36f0d&encode=true&databasematch=AN), [Orden de 12 de junio de 2003, BORM de 30 de junio, páginas 12895–12896](https://www.borm.es/services/boletin/16025/pdf), [archivo de Barreiro según EFE](https://cadenaser.com/emisora/2016/12/16/radio_murcia/1481890687_976153.html), [continuación y archivos de 2018](https://www.eldiario.es/murcia/politica/exconsejeros-valcarcel-banquillo-nova-carthago_1_2106731.html), [apertura de juicio comunicada en 2019](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juzgado-abre-juicio-oral-por-el-caso-Novo-Carthago), [suspensión en 2023](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Region-de-Murcia/Oficina-de-Comunicacion/Archivo-de-notas-prensa/La-huelga-de-letrados-de-la-Administracion-de-Justicia-obliga-a-aplazar-el-juicio-de-Novo-Carthago-en-la-Audiencia-Provincial-de-Murcia), [controversia contenciosa comunicada por Cartagena](https://www.cartagena.es/detalle_noticias_imprimir.asp?id=72829), [acusados y testigos de 2025](https://www.eldiario.es/murcia/politica/novo-carthago_1_12640179.html), [fallecimiento previo de Brugarolas según EFE](https://cadenaser.com/murcia/2025/10/21/un-exdirector-general-declaro-que-cerda-le-pidio-visitar-los-terrenos-protegidos-de-novo-carthago-radio-murcia/) y [firmeza comunicada en enero de 2026](https://murcia.empresas.de/declaran-firme-la-sentencia-que-absolvio-a-los-acusados-de-novo-carthago/).
