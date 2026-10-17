@@ -1,108 +1,153 @@
 ---
-nombre: "Cabanes"
+nombre: Cabanes
 partido: PP
 completado: false
-año: 2014
-fechaFin: ""
-estado: "desconocido"
-descripcion: |
-  El caso Cabanes se refiere a la presunta adjudicación irregular de contratos de obras y servicios urbanísticos del Ayuntamiento de Cabanes (Castellón) entre 2008 y 2013. Según el escrito de acusación del Ministerio Fiscal, el arquitecto municipal interino Rubén Bellido Tárrega (nombrado en 2007) se valió de su puesto para conseguir que se adjudicaran al despacho del arquitecto Juan Antonio Juncos Martínez —señalado por la acusación como su compañero de despacho— hasta 28 trabajos —proyectos y direcciones de obra— por un importe total de 211.115,84 euros. Los encargos habrían sido tramitados como contratos menores, sin expediente de contratación y sin los informes preceptivos, y según la acusación se fraccionaron para eludir el procedimiento negociado. La Fiscalía sostuvo que contaron con la firma de los sucesivos alcaldes del PP —Artemio Siurana Gauchia (2008-2011), Francisco Vicente Artola Escuriola (2011-2012) y Estrella Borrás Moreno (2012-2013)— y con el visto bueno del jefe del departamento de Urbanismo y accidental secretario-interventor, José Vicente Guimerá. La sentencia consideró acreditada la necesidad de contratación externa de servicios técnicos y que Bellido y Juncos ejercían su profesión de forma autónoma e independiente.
+fechaFin: ''
+estado: Absolución en 2025; firmeza posterior no documentada
+descripcion: 'La Audiencia Provincial de Castellón absolvió a tres exalcaldes del PP de Cabanes —Artemio Siurana,
+  Francisco Vicente Artola y Estrella Borrás— y a los arquitectos Rubén Bellido y Juan Antonio Juncos en la causa
+  sobre adjudicaciones municipales entre 2008 y 2013. El juicio se celebró los días 10 y 11 de abril de 2025. La
+  absolución fue publicada por El Mundo el 7 de mayo y difundida por EFE, citando al Tribunal Superior de Justicia
+  de la Comunitat Valenciana, el 8 de mayo. Estas fechas de publicación no acreditan el día de firma de la sentencia,
+  cuyo original y número no se han localizado.
 
-  La denuncia partió del entonces concejal de Units pel Poble-Compromís (después senador territorial de Compromís) Carles Mulet, que remitió documentación a la Fiscalía de Castellón entre 2013 y 2014. Según la prensa, el asunto pasó al Juzgado de Instrucción nº 4 de Castellón, que admitió a trámite la querella de la Fiscalía y citó a declarar al arquitecto municipal y a la entonces alcaldesa; una noticia de El Periódic de 9 de enero de 2015 anunciaba la declaración para el 12 de enero siguiente, sin que conste confirmada su celebración, y no se ha verificado el auto de admisión ni su fecha exacta (véanse los límites más abajo). El Ministerio Fiscal y la acusación particular pidieron de 8 años y 6 meses a 10 años de inhabilitación para los tres exalcaldes y el jefe de Urbanismo (10 años para Siurana y Guimerá; 8 años y 6 meses para Artola y Borrás) y 2 años de prisión y multa de 422.231,68 euros para los dos arquitectos, además de inhabilitación. En la causa llegaron a estar acusadas seis personas.
 
-  El juicio oral se celebró los días 10 y 11 de abril de 2025 ante la Sección Segunda de la Audiencia Provincial de Castellón. La sentencia, difundida por el Tribunal Superior de Justicia de la Comunitat Valenciana el 8 de mayo de 2025, absolvió a los acusados. La Sala calificó la imputación fáctica del escrito de acusación de "inadmisiblemente indeterminada", consideró que no se había probado un "fraccionamiento artificioso" de los contratos y señaló que los exalcaldes, sin conocimientos jurídicos, no podían sospechar ilegalidad cuando los técnicos municipales preparaban y tramitaban la documentación. Sobre el tráfico de influencias, no consideró probado que Bellido influyera en la contratación de Juncos. La nota difundida por el TSJCV, recogida por EFE, cifra en cinco las personas absueltas (tres exalcaldes y dos arquitectos); según el diario El Mundo (07/05/2025), la Fiscalía había retirado antes del fallo los cargos contra el jefe de Urbanismo, José Vicente Guimerá, extremo que no se ha podido confirmar por la nota del TSJCV/EFE ni por fuente oficial, y el diario alude además a un sexto absuelto, por lo que el número exacto de acusados y la forma de terminación respecto de Guimerá no quedan acreditados.
+  La Fiscalía sostenía que Bellido, arquitecto municipal interino desde 2007, había favorecido la adjudicación a
+  Juncos de 28 trabajos por 211.115,84 euros, con la participación de los sucesivos alcaldes y del jefe de Urbanismo
+  y secretario-interventor accidental José Vicente Guimerá. Alegaba tramitación irregular como contratos menores
+  y fraccionamiento para eludir otros procedimientos. Los 211.115,84 euros eran el importe de los encargos cuestionados,
+  no un perjuicio declarado judicialmente. Tampoco la multa de 422.231,68 euros solicitada para los arquitectos
+  fue una sanción impuesta. La acusación había solicitado dos años de prisión para cada arquitecto e inhabilitación
+  para los exalcaldes y el jefe de Urbanismo.
 
-  Límites: la sentencia no era firme al ser dictada y cabía recurso de casación ante el Tribunal Supremo, pero no consta si devino firme ni si se interpuso o resolvió algún recurso, de modo que no se afirma que a fecha de hoy siga sin ser firme. Hasta el 1 de octubre de 2026 no se ha localizado ninguna resolución posterior ni noticia sobre la interposición o resolución de un recurso. No se ha localizado el texto íntegro de la sentencia ni su número ni su fecha exacta de firma: el 8 de mayo de 2025 es la fecha de difusión pública por el TSJCV, no necesariamente la de la resolución. La cifra de 211.115,84 euros (redondeada a 211.115 en el campo coste) es el volumen total de los contratos según la Fiscalía; no es una suma de condenas, multas ni indemnizaciones ni un daño declarado judicialmente.
-resumen: "Absolución en primera instancia (2025) de tres exalcaldes del PP de Cabanes y dos arquitectos por la presunta adjudicación irregular de 28 contratos municipales entre 2008 y 2013"
-coste: 211115
-lugar: "Cabanes, Castellón, Comunidad Valenciana"
+
+  Según la información de EFE y la crónica de El Mundo, la Audiencia no consideró probados el fraccionamiento artificioso
+  de los contratos ni las influencias atribuidas a Bellido. Señaló la falta de concreción de hechos esenciales en
+  la acusación y la contratación habitual de servicios técnicos externos conforme surgían las necesidades. La relación
+  previa entre los arquitectos no acreditaba que Bellido hubiera influido en la contratación de Juncos; la sentencia
+  también recoge que ejercían de forma autónoma e independiente. Las irregularidades alegadas por la acusación no
+  se presentan, por tanto, como delitos acreditados.
+
+
+  La documentación sobre las contrataciones fue remitida a la Fiscalía entre 2013 y 2014 por Carles Mulet, entonces
+  concejal de Compromís, que figuraba como acusación en la información de noviembre de 2023. Seis personas llegaron
+  a estar acusadas. El Mundo informa de que la Fiscalía retiró los cargos contra José Vicente Guimerá antes del
+  fallo, pero su artículo contiene referencias discordantes al número de absueltos; EFE identifica cinco, los tres
+  exalcaldes y los dos arquitectos. Sin el fallo original no queda acreditada la concreta terminación procesal respecto
+  de Guimerá ni el alcance de las restantes acusaciones en ese momento.
+
+
+  La sentencia se anunció como recurrible ante el Tribunal Supremo. Hasta el 17 de octubre de 2026 no se ha documentado
+  aquí su firmeza posterior, la interposición o el resultado de un recurso; la falta de noticias no demuestra que
+  la causa continúe abierta ni que el fallo sea firme. Tampoco se ha recuperado el auto inicial de admisión de la
+  querella o una resolución que fije su fecha. Estas lagunas impiden considerar completada la ficha.'
+resumen: Absolución en primera instancia (2025) de tres exalcaldes del PP de Cabanes y dos arquitectos por la presunta
+  adjudicación irregular de 28 contratos municipales entre 2008 y 2013
+lugar: Cabanes, Castellón, Comunidad Valenciana
 tribunal:
-  - "Juzgado de Instrucción nº 4 de Castellón"
-  - "Audiencia Provincial de Castellón - Sección Segunda"
-numeroSentencia: ""
+- Juzgado de Instrucción nº 4 de Castellón
+- Audiencia Provincial de Castellón - Sección Segunda
+numeroSentencia: ''
 implicados:
-  - nombre: "Rubén Bellido Tárrega"
-    cargo: "Arquitecto municipal interino de Cabanes (nombrado en 2007; cargo durante el periodo de los hechos, 2008-2013)"
-    rol: "Acusado por la Fiscalía de valerse de su cargo para favorecer la contratación de su compañero de despacho; absuelto en primera instancia. La sentencia no consideró acreditado que influyera en la contratación de Juncos."
-
-  - nombre: "Juan Antonio Juncos Martínez"
-    cargo: "Arquitecto; señalado por la acusación como compañero de despacho de Rubén Bellido en el periodo de los hechos"
-    rol: "Arquitecto destinatario de los 28 contratos según la Fiscalía; acusado por el Ministerio Fiscal de un delito continuado de tráfico de influencias (pena solicitada: 2 años de prisión y multa); absuelto en primera instancia. El tribunal consideró probado que conocía a Bellido y que habían llegado a compartir determinados gastos de despacho, pero que ambos ejercían su profesión de forma autónoma e independiente, y no apreció que Bellido influyera en su contratación."
-
-  - nombre: "Artemio Siurana Gauchia"
-    cargo: "Alcalde de Cabanes por el PP (2008-2011; periodo de los hechos)"
-    rol: "Acusado de prevaricación por firmar las adjudicaciones (pena solicitada: 10 años de inhabilitación); absuelto en primera instancia."
-
-  - nombre: "Francisco Vicente Artola Escuriola"
-    cargo: "Alcalde de Cabanes por el PP (2011-2012; periodo de los hechos)"
-    rol: "Acusado de prevaricación por firmar las adjudicaciones (pena solicitada: 8 años y 6 meses de inhabilitación); absuelto en primera instancia."
-
-  - nombre: "Estrella Borrás Moreno"
-    cargo: "Alcaldesa de Cabanes por el PP (2012-2016; durante los hechos, 2012-2013)"
-    rol: "Acusada de prevaricación por firmar las adjudicaciones (pena solicitada: 8 años y 6 meses de inhabilitación); absuelta en primera instancia."
-
-  - nombre: "José Vicente Guimerá"
-    cargo: "Jefe del departamento de Urbanismo y accidental secretario-interventor del Ayuntamiento de Cabanes (cargo durante el periodo de los hechos)"
-    rol: "Acusado inicialmente de prevaricación (pena solicitada: 10 años de inhabilitación); según el diario El Mundo, la Fiscalía le retiró los cargos antes del fallo, extremo no confirmado por la nota del TSJCV/EFE ni por fuente oficial; por ello no figura entre los cinco absueltos de esa nota y no consta su forma exacta de terminación."
-
-  - nombre: "Carles Mulet"
-    cargo: "Concejal de Units pel Poble-Compromís en Cabanes y después senador territorial de Compromís"
-    rol: "Denunciante y acusación particular, retirada en 2024; no acusado"
+- nombre: Rubén Bellido
+  cargo: Arquitecto municipal interino de Cabanes (nombrado en 2007; cargo durante el periodo de los hechos, 2008-2013)
+  rol: Acusado por la Fiscalía de valerse de su cargo para favorecer la contratación de su compañero de despacho;
+    absuelto en primera instancia. La sentencia no consideró acreditado que influyera en la contratación de Juncos.
+- nombre: Juan Antonio Juncos
+  cargo: Arquitecto; señalado por la acusación como compañero de despacho de Rubén Bellido en el periodo de los
+    hechos
+  rol: 'Arquitecto destinatario de los 28 contratos según la Fiscalía; acusado por el Ministerio Fiscal de un delito
+    continuado de tráfico de influencias (pena solicitada: 2 años de prisión y multa); absuelto en primera instancia.
+    El tribunal consideró probado que conocía a Bellido y que habían llegado a compartir determinados gastos de
+    despacho, pero que ambos ejercían su profesión de forma autónoma e independiente, y no apreció que Bellido influyera
+    en su contratación.'
+- nombre: Artemio Siurana
+  cargo: Alcalde de Cabanes por el PP (2008-2011; periodo de los hechos)
+  rol: 'Acusado de prevaricación por firmar las adjudicaciones (pena solicitada: 10 años de inhabilitación); absuelto
+    en primera instancia.'
+- nombre: Francisco Vicente Artola
+  cargo: Alcalde de Cabanes por el PP (2011-2012; periodo de los hechos)
+  rol: 'Acusado de prevaricación por firmar las adjudicaciones (pena solicitada: 8 años y 6 meses de inhabilitación);
+    absuelto en primera instancia.'
+- nombre: Estrella Borrás
+  cargo: Alcaldesa de Cabanes por el PP durante parte de los hechos investigados (2012-2013)
+  rol: 'Acusada de prevaricación por firmar las adjudicaciones (pena solicitada: 8 años y 6 meses de inhabilitación);
+    absuelta en primera instancia.'
+- nombre: José Vicente Guimerá
+  cargo: Jefe del departamento de Urbanismo y accidental secretario-interventor del Ayuntamiento de Cabanes (cargo
+    durante el periodo de los hechos)
+  rol: Acusado inicialmente de prevaricación, con petición de diez años de inhabilitación. El Mundo informó el 7
+    de mayo de 2025 de que la Fiscalía había retirado los cargos antes del fallo. No se ha recuperado la resolución
+    que permita precisar la terminación respecto de él y el alcance de las restantes acusaciones.
+- nombre: Carles Mulet
+  cargo: Concejal de Units pel Poble-Compromís en Cabanes y después senador territorial de Compromís
+  rol: 'Denunciante: remitió documentación a la Fiscalía entre 2013 y 2014. Figuraba como acusación en la información
+    publicada en noviembre de 2023; no fue acusado. No se ha acreditado la fecha ni la forma de su eventual retirada
+    posterior.'
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "tráfico de influencias"
-  - "contratos menores"
-  - "fraude en contratación pública"
-
-impactoSocial: "El caso ilustra el recurso a los contratos menores en municipios pequeños y la dificultad probatoria del fraccionamiento y de la prevaricación cuando las adjudicaciones eran tramitadas por los servicios técnicos municipales. La absolución en primera instancia de 2025 fue susceptible de casación ante el Tribunal Supremo."
-
+- corrupción
+- prevaricación
+- tráfico de influencias
+- contratos menores
+impactoSocial: La causa examinó la contratación de servicios de arquitectura en un municipio con medios técnicos
+  limitados. La Audiencia absolvió a los tres exalcaldes y a los dos arquitectos al no apreciar prueba suficiente
+  de prevaricación o tráfico de influencias, según la información publicada en mayo de 2025.
 documentos: []
-
 cronologia:
-  - fecha: "2015-01-09"
-    titulo: "Se anuncia la citación a declarar del arquitecto municipal y la alcaldesa"
-    descripcion: "El Periódic publica el 9 de enero de 2015 que el Juzgado de Instrucción nº 4 de Castellón ha admitido a trámite la querella de la Fiscalía y que el arquitecto municipal Rubén Bellido y la entonces alcaldesa Estrella Borrás tendrán que declarar como querellados (equiparable a investigados) el 12 de enero de 2015, a las 12:00. La fecha de este hito es la de la noticia que anuncia la citación; el 12 de enero es el día previsto para el acto, cuya celebración no consta confirmada, y no se toma como fecha del conocimiento ni como resolución comprobada. No se ha verificado el auto de admisión de la querella ni su fecha exacta. La querella se basaba en la documentación remitida por Carles Mulet a la Fiscalía entre 2013 y 2014."
-    type: "imputación"
-    relevancia: "media"
-    urls:
-      - "https://www.elperiodic.com/cabanes/juzgado-numero-cita-declarar-arquitecto-municipal-alcaldesa-cabanes_347945"
-
-  - fecha: "2023-11-10"
-    titulo: "Se conoce por la prensa el señalamiento de la vista oral (fecha de publicación)"
-    descripcion: "El diario Castellón Plaza publica que el Juzgado de lo Penal nº 3 ha dictado el señalamiento para la vista oral y ha admitido las pruebas propuestas como pertinentes, citando a los seis imputados para una vista fijada inicialmente para el 23 de junio de 2024 a las 10:30, contra los tres exalcaldes del PP y otras tres personas (el arquitecto municipal, el exjefe de Urbanismo y otro arquitecto) por presuntos delitos continuados de prevaricación y tráfico de influencias. Aunque el titular dice que 'el juez abre juicio', el cuerpo describe un señalamiento y una admisión de pruebas, no un auto de apertura de juicio oral; la fecha del auto no consta y la consignada (10/11/2023) es la de publicación de la noticia. El 23 de junio de 2024 cae en domingo, dato que se registra como límite, y la vista se celebró finalmente ante la Sección Segunda de la Audiencia Provincial de Castellón los días 10 y 11 de abril de 2025, por lo que no se toma aquella fecha como la del juicio."
-    type: "juicio"
-    relevancia: "media"
-    urls:
-      - "https://castellonplaza.com/castellonplaza/el-juez-envia-a-juicio-a-tres-exalcaldes-del-pp-de-cabanes-por-contratos-con-el-arquitecto-municipal"
-
-  - fecha: "2025-04-10"
-    titulo: "Celebración del juicio oral en la Audiencia Provincial de Castellón"
-    descripcion: "Se celebran las sesiones del juicio oral ante la Sección Segunda de la Audiencia Provincial de Castellón los días 10 y 11 de abril de 2025. Los acusados niegan las irregularidades. El Ministerio Fiscal mantiene la acusación por delitos continuados de prevaricación y tráfico de influencias: solicita de 8 años y 6 meses a 10 años de inhabilitación para los exalcaldes y el jefe de Urbanismo, y 2 años de prisión y multa de 422.231,68 euros para los dos arquitectos."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://castellonplaza.com/castellonplaza/comarcas/juzgan-a-tres-exalcaldes-del-pp-de-cabanes-por-irregularidades-en-contratos-de-obra"
-      - "https://www.elperiodicomediterraneo.com/comarcas/2025/05/07/audiencia-castellon-absuelve-tres-exalcaldes-cabanes-prevaricacion-trafico-influencias-irregularidades-contratos-obras-arquitectos-117131860.html"
-
-  - fecha: "2025-05-08"
-    titulo: "Se informa de la sentencia absolutoria de la Audiencia Provincial"
-    descripcion: "El Tribunal Superior de Justicia de la Comunitat Valenciana da a conocer la sentencia de la Sección Segunda de la Audiencia Provincial de Castellón, que absuelve a los acusados. La Sala considera la imputación fiscal \"inadmisiblemente indeterminada\", no acreditado el \"fraccionamiento artificioso\" de los contratos y no probado el tráfico de influencias; señala que los exalcaldes no podían sospechar ilegalidad cuando los técnicos tramitaban la documentación. La nota difundida por el TSJCV, recogida por EFE, habla de cinco absueltos (tres exalcaldes y dos arquitectos); según El Mundo, la Fiscalía había retirado antes del fallo los cargos contra el jefe de Urbanismo, José Vicente Guimerá, extremo no confirmado por la nota del TSJCV/EFE, y el diario menciona un sexto absuelto. La sentencia no era firme al ser dictada y cabía casación ante el Tribunal Supremo; no consta su firmeza posterior. La fecha de 8 de mayo de 2025 corresponde a la difusión pública, no necesariamente a la firma de la resolución."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.castelloninformacion.com/audiencia-absuelve-tres-exalcaldes-cabanes-acusados-prevaricacion-trafico-influencias/"
-      - "https://cadenaser.com/comunitat-valenciana/2025/05/08/absueltos-los-tres-exalcaldes-del-pp-de-cabanes-y-los-dos-funcionarios-acusados-de-trafico-de-influencias-y-prevaricacion-radio-castellon/"
-      - "https://castellonplaza.com/castellonplaza/comarcas/absueltos-los-3-exalcaldes-de-cabanes-del-pp-acusados-de-trafico-de-influencias-y-prevaricacion"
-      - "https://castellonaldia.elmundo.es/comarcas/plana-alta/absuelven-a-los-tres-ex-alcaldes-de-cabanes-y-a-otros-dos-acusados-por-contratos-de-obras-supuestamente-irregulares-LA23892933"
-
+- fecha: '2023-11-10'
+  titulo: Se conoce por la prensa el señalamiento de la vista oral (fecha de publicación)
+  descripcion: Castellón Plaza informa de un señalamiento de juicio y de admisión de pruebas contra tres exalcaldes
+    y otras tres personas. La noticia atribuye el trámite al Juzgado de lo Penal número 3 y anuncia una fecha futura
+    de vista; no se ha recuperado esa resolución ni se toma el señalamiento anunciado como juicio celebrado. La
+    vista acreditada posteriormente tuvo lugar en la Audiencia Provincial en abril de 2025. El hito corresponde
+    a la publicación, no a una fecha de auto verificada.
+  type: juicio
+  relevancia: media
+  urls:
+  - https://castellonplaza.com/castellonplaza/el-juez-envia-a-juicio-a-tres-exalcaldes-del-pp-de-cabanes-por-contratos-con-el-arquitecto-municipal
+- fecha: '2025-04-10'
+  titulo: Celebración del juicio oral en la Audiencia Provincial de Castellón
+  descripcion: Según la información posterior de EFE y El Mundo, el juicio se celebró los días 10 y 11 de abril
+    de 2025 ante la Sección Segunda de la Audiencia Provincial de Castellón. Las peticiones iniciales de prisión
+    e inhabilitación no fueron condenas. No se ha recuperado el acta de la vista para precisar las conclusiones
+    definitivas respecto de cada acusado.
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://cadenaser.com/comunitat-valenciana/2025/05/08/absueltos-los-tres-exalcaldes-del-pp-de-cabanes-y-los-dos-funcionarios-acusados-de-trafico-de-influencias-y-prevaricacion-radio-castellon/
+  - https://castellonaldia.elmundo.es/comarcas/plana-alta/absuelven-a-los-tres-ex-alcaldes-de-cabanes-y-a-otros-dos-acusados-por-contratos-de-obras-supuestamente-irregulares-LA23892933
+- fecha: '2025-05-07'
+  titulo: Se publica la absolución y la retirada de cargos contra el jefe de Urbanismo
+  descripcion: El Mundo informa de la absolución de los tres exalcaldes y los dos arquitectos y de la retirada de
+    los cargos fiscales contra José Vicente Guimerá. La noticia contiene referencias discordantes al número de absueltos;
+    no permite sustituir el fallo original respecto de este último.
+  type: sentencia
+  urls:
+  - https://castellonaldia.elmundo.es/comarcas/plana-alta/absuelven-a-los-tres-ex-alcaldes-de-cabanes-y-a-otros-dos-acusados-por-contratos-de-obras-supuestamente-irregulares-LA23892933
+- fecha: '2025-05-08'
+  titulo: Se informa de la sentencia absolutoria de la Audiencia Provincial
+  descripcion: EFE difunde, citando al TSJCV, la absolución de los tres exalcaldes y los dos arquitectos. No se
+    acredita fraccionamiento artificioso ni tráfico de influencias. La resolución era recurrible ante el Supremo.
+    El Mundo había publicado la absolución el día anterior y comunicaba la retirada de la acusación fiscal contra
+    Guimerá; su concreta terminación requiere el fallo original. La fecha de este hito es la de difusión, no la
+    firma de la sentencia.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.castelloninformacion.com/audiencia-absuelve-tres-exalcaldes-cabanes-acusados-prevaricacion-trafico-influencias/
+  - https://cadenaser.com/comunitat-valenciana/2025/05/08/absueltos-los-tres-exalcaldes-del-pp-de-cabanes-y-los-dos-funcionarios-acusados-de-trafico-de-influencias-y-prevaricacion-radio-castellon/
+  - https://castellonplaza.com/castellonplaza/comarcas/absueltos-los-3-exalcaldes-de-cabanes-del-pp-acusados-de-trafico-de-influencias-y-prevaricacion
+  - https://castellonaldia.elmundo.es/comarcas/plana-alta/absuelven-a-los-tres-ex-alcaldes-de-cabanes-y-a-otros-dos-acusados-por-contratos-de-obras-supuestamente-irregulares-LA23892933
 ---
 
-## Límites de la sentencia y del caso (revisión de 1 de octubre de 2026)
+## Acusación y absolución
 
-- **Fecha de la sentencia:** no consta. El 8 de mayo de 2025 es la fecha en que el TSJCV difundió la resolución; no se ha verificado la fecha de firma.
-- **Número de sentencia:** no consta; el campo `numeroSentencia` permanece vacío.
-- **Firmeza:** no consta. Al ser dictada, la sentencia no era firme y cabía casación ante el Tribunal Supremo. No se ha localizado ninguna resolución ni noticia posterior, por lo que no se afirma que a esta fecha siga sin ser firme.
-- **Número de encausados:** seis personas llegaron a estar acusadas (tres exalcaldes del PP, el arquitecto municipal Rubén Bellido, su compañero de despacho según la acusación Juan Antonio Juncos y el jefe de Urbanismo José Vicente Guimerá). Según el diario El Mundo, la Fiscalía retiró los cargos contra Guimerá antes del fallo; este extremo no se ha podido confirmar por la nota del TSJCV/EFE ni por fuente oficial. La nota difundida por el TSJCV —recogida por EFE— cifra en cinco los absueltos (tres exalcaldes y dos arquitectos); El Mundo menciona además a un sexto absuelto.
+La causa examinó 28 encargos de arquitectura realizados entre 2008 y 2013. La acusación sostenía que el arquitecto municipal había favorecido a un profesional con el que había compartido despacho y que los contratos menores se habían fraccionado indebidamente. La Audiencia no consideró probados esos hechos delictivos y absolvió a los tres exalcaldes y a los dos arquitectos, según las noticias de mayo de 2025.
 
-Estas limitaciones se recogen también en el campo `descripcion` de la ficha.
+El importe de los encargos, 211.115,84 euros, describe la contratación cuestionada. No es un daño judicialmente reconocido. La multa solicitada por la acusación tampoco fue una multa impuesta.
+
+## Alcance del desenlace
+
+Seis personas llegaron a estar acusadas, pero EFE describe cinco absueltos. El Mundo comunica la retirada de los cargos fiscales contra el jefe de Urbanismo, José Vicente Guimerá, y presenta referencias discordantes al número de absueltos. La falta del fallo original impide determinar con precisión su concreta terminación y el alcance de las restantes acusaciones.
+
+Las publicaciones de mayo de 2025 anunciaban la posibilidad de recurso. No se ha acreditado una resolución posterior de firmeza o casación, ni se atribuye a la sentencia la fecha de su difusión periodística.
