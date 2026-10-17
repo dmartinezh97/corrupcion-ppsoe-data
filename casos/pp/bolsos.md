@@ -49,7 +49,7 @@ implicados:
 - nombre: Alfonso Grau Alonso
   cargo: Concejal de Hacienda y primer teniente de alcalde (vicealcalde) del Ayuntamiento de Valencia con Rita Barberá
   rol: Condenado en 2024 a 4 años y 6 meses por malversación y multa de 5 millones de euros por cohecho; absuelto
-    de falsedad. responsabilidad civil de 388.150 euros, con 210.000 euros solidarios con Salinas. Sentencia recurrida,
+    de falsedad. Responsabilidad civil de 388.150 euros, con 210.000 euros solidarios con Salinas. Sentencia recurrida,
     resultado/firmeza actuales no acreditados.
 - nombre: María del Carmen García Fuster
   cargo: Secretaria del Grupo Municipal del PP en el Ayuntamiento de Valencia
@@ -57,7 +57,7 @@ implicados:
     se acredita la evolución individual de posibles recursos ni firmeza actual.
 - nombre: José Salinas
   cargo: Director gerente de la Fundación Turismo Valencia Convention Bureau (FTVBC)
-  rol: Condenado en 2024 a 4 años por cooperación necesaria en malversación; absuelto de falsedad. responsabilidad
+  rol: Condenado en 2024 a 4 años por cooperación necesaria en malversación; absuelto de falsedad. Responsabilidad
     civil solidaria de 210.000 euros incluida en el total de Grau. Evolución individual del recurso y firmeza no
     acreditadas.
 - nombre: Juan Eduardo Santón
