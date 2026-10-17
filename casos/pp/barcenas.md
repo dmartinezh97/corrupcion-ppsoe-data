@@ -4,19 +4,19 @@ partido: PP
 completado: false
 año: 2009
 fechaFin: ""
-estado: "sentencia firme"
+estado: "activo"
 descripcion: |
   El "caso Bárcenas" reúne las investigaciones sobre la contabilidad paralela ("caja B") del Partido Popular y sobre el patrimonio oculto de Luis Bárcenas, gerente del partido entre 1990 y 2008 y tesorero desde junio de 2008 hasta abril de 2010, además de senador por Cantabria entre 2004 y 2010. Según las resoluciones judiciales, durante casi dos décadas Bárcenas gestionó donaciones privadas en metálico que no se reflejaron en la contabilidad oficial del partido ni fueron fiscalizadas por el Tribunal de Cuentas y que se destinaron a gastos de la formación —entre ellos parte de la reforma de su sede en la calle Génova de Madrid— y al pago de sobresueldos a dirigentes, con el dinero guardado en una caja fuerte situada en su despacho.
 
   Los "papeles de Bárcenas", publicados por El País el 31 de enero de 2013, recogían anotaciones manuscritas y hojas de cálculo de entradas y salidas entre 1990 y 2009. Las sentencias consideraron acreditada la existencia de la caja B y dieron credibilidad parcial a determinados apuntes, pero precisaron que no podía darse validez al documento en su integridad, al contener errores e incoherencias.
 
-  La causa se desdobló en varias piezas. En la primera época de la trama Gürtel (1999-2005), la Audiencia Nacional (SAN 20/2018, de 17 de mayo) condenó a Bárcenas a 33 años y 4 meses de prisión y declaró al PP partícipe a título lucrativo; el Tribunal Supremo (STS 507/2020, de 14 de octubre) confirmó las condenas y rebajó la pena de Bárcenas a 29 años y un mes. En la pieza sobre la reforma de la sede de Génova (SAN 21/2021, de 28 de octubre), la Audiencia consideró probado que se pagaron 1.072.000 euros en negro a la empresa Unifica entre 2005 y 2010, condenó a Bárcenas a 2 años como cooperador necesario de un delito de falsedad contable en concurso con un delito contra la Hacienda Pública y declaró al PP responsable civil subsidiario, sin condena penal; el Tribunal Supremo (STS 1033/2024, de 14 de noviembre, rec. 1595/2022, ECLI:ES:TS:2024:5577) confirmó en lo sustancial la condena, absolvió del delito de falsedad, rebajó la pena a 8 meses al apreciar dilaciones indebidas y fijó la cuota defraudada en 374.096,826 euros. La pieza sobre las donaciones de empresarios a la caja B a cambio de adjudicaciones públicas fue archivada por el juez Santiago Pedraz en diciembre de 2022, decisión confirmada por la Sala de lo Penal en 2023, al no acreditarse la relación entre las donaciones y los contratos.
+  La causa se desdobló en varias piezas. En la primera época de la trama Gürtel (1999-2005), la Audiencia Nacional (SAN 20/2018, de 17 de mayo) condenó a Bárcenas a 33 años y 4 meses de prisión y declaró al PP partícipe a título lucrativo; el Tribunal Supremo (STS 507/2020, de 14 de octubre) confirmó las condenas y rebajó la pena de Bárcenas a 29 años y un mes. En la pieza sobre la reforma de la sede de Génova (SAN 21/2021, de 28 de octubre), la Audiencia consideró probado que se pagaron 1.072.000 euros en negro a la empresa Unifica entre 2005 y 2010, condenó a Bárcenas a 2 años como cooperador necesario de un delito de falsedad contable en concurso con un delito contra la Hacienda Pública y declaró al PP responsable civil subsidiario, sin condena penal; el Tribunal Supremo (STS 1033/2024, de 14 de noviembre, rec. 1595/2022, ECLI:ES:TS:2024:5577) confirmó en lo sustancial la condena, absolvió del delito de falsedad, rebajó la pena a 8 meses al apreciar dilaciones indebidas y fijó la cuota defraudada en aproximadamente 374.000 euros. La pieza sobre las donaciones de empresarios a la caja B a cambio de adjudicaciones públicas fue archivada por el juez Santiago Pedraz en diciembre de 2022, decisión confirmada por la Sala de lo Penal en 2023, al no acreditarse la relación entre las donaciones y los contratos.
 
-  Bárcenas obtuvo la libertad condicional el 17 de diciembre de 2024, después de cumplir dos tercios de su condena y de abonar 4.535.254,92 euros de responsabilidad civil. La última resolución firme localizada es la STS 1033/2024, de 14 de noviembre de 2024. La operación Kitchen, sobre el presunto espionaje policial a Bárcenas, es una pieza separada de la macrocausa Tándem: su juicio se celebró entre abril y julio de 2026 y, a 1 de octubre de 2026, no se ha localizado sentencia.
+  El CGPJ anunció la libertad condicional de Bárcenas el 17 de diciembre de 2024, después de cumplir dos tercios de su condena y de abonar 4.535.254,92 euros de responsabilidad civil. La libertad condicional forma parte de la ejecución de la pena y no supone su extinción. La STS 1033/2024 resolvió la casación de Génova; la revisión actual no ha recuperado su PDF oficial completo ni una certificación de firmeza individual de cada condenado. La operación Kitchen, sobre el presunto espionaje policial a Bárcenas, es una pieza separada de la macrocausa Tándem: su juicio se celebró entre abril y julio de 2026 y, a 17 de octubre de 2026, no se ha localizado sentencia en las fuentes consultadas. El 5 de octubre la SER aún informaba de una previsión de publicación en noviembre, sin que esa previsión equivalga a una resolución judicial. La lectura de las sentencias anteriores ha sido selectiva, centrada en encabezamientos y pronunciamientos; no se presenta como lectura íntegra de las macrocausas.
 
   Esta ficha comparte el ámbito de la contabilidad paralela y la reforma de Génova con la ficha Papeles Bárcenas; las resoluciones y cuantías de ambas se refieren a los mismos hechos y no deben contarse dos veces. La primera época de Gürtel cuenta también con su propia ficha.
 
-resumen: "Contabilidad paralela del PP ('caja B') gestionada por Luis Bárcenas, papeles publicados en 2013, cuentas en Suiza y condenas penales firmes a Bárcenas y a los administradores de Unifica; el PP fue declarado partícipe a título lucrativo y responsable civil subsidiario, sin condena penal"
+resumen: "Contabilidad paralela del PP ('caja B') gestionada por Luis Bárcenas, papeles publicados en 2013, cuentas en Suiza y condenas penales a Bárcenas y a los administradores de Unifica; el PP fue declarado partícipe a título lucrativo y responsable civil subsidiario, sin condena penal"
 
 lugar: "Madrid, España"
 
@@ -39,7 +39,7 @@ implicados:
 
   - nombre: "Francisco Correa Sánchez"
     cargo: "Empresario, líder de la trama Gürtel"
-    rol: "Condenado a 51 años y 11 meses en la primera época de Gürtel"
+    rol: "Condenado inicialmente a 51 años y 11 meses en la primera época de Gürtel; pena reducida a 51 años por el Supremo en 2020"
 
   - nombre: "Pablo Crespo Sabarís"
     cargo: "Número dos de la trama Gürtel"
@@ -47,11 +47,11 @@ implicados:
 
   - nombre: "Gonzalo Urquijo Fernández de Córdoba"
     cargo: "Arquitecto, socio de Unifica (reforma de Génova)"
-    rol: "Condenado a 9 meses por delito fiscal en la reforma de la sede (firme en 2024)"
+    rol: "Condenado a 9 meses por delito fiscal en la reforma de la sede (casación resuelta en 2024)"
 
-  - nombre: "Belén García"
+  - nombre: "Belén García García"
     cargo: "Socia de Unifica (reforma de Génova)"
-    rol: "Condenada a 9 meses por delito fiscal en la reforma de la sede (firme en 2024)"
+    rol: "Condenada a 9 meses por delito fiscal en la reforma de la sede (casación resuelta en 2024)"
 
   - nombre: "Álvaro de Lapuerta Quintero"
     cargo: "Tesorero del PP (1993-2008)"
@@ -101,12 +101,6 @@ documentos:
     filetype: "pdf"
     paginas: 454
     nombre_fichero: "https://www.docdroid.net/file/download/z32Auar/2021-10-28-sentencia-papeles-de-barcenas-pdf.pdf"
-
-  - fecha: "2024-11-14"
-    titulo: "STS 1033/2024, de 14 de noviembre: casación de la pieza de los papeles de Bárcenas (rec. 1595/2022)"
-    filetype: "pdf"
-    paginas: 75
-    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=9f1b60f805a51e87a0a8778d75e36f0d&encode=true&databasematch=TS"
 
 cronologia:
   - fecha: "2009-06-11"
@@ -233,10 +227,11 @@ cronologia:
 
   - fecha: "2020-10-14"
     titulo: "El Supremo confirma las condenas de Gürtel y rebaja la pena de Bárcenas a 29 años y un mes"
-    descripcion: "La Sala Segunda del Tribunal Supremo dicta la sentencia 507/2020, confirma en lo esencial las condenas de la primera época de Gürtel, mantiene la condena al PP como partícipe a título lucrativo y rebaja la pena de Luis Bárcenas de 33 años y 4 meses a 29 años y un mes. La de Rosalía Iglesias pasa de 15 años y un mes a 12 años y 11 meses. El Supremo precisa que no cabe afirmar que el PP delinquiera, al no haber sido enjuiciado por responsabilidad penal, y que las referencias a la caja B de la sentencia de instancia cumplían una función de contexto."
+    descripcion: "La Sala Segunda del Tribunal Supremo dicta la sentencia 507/2020, confirma en lo esencial las condenas de la primera época de Gürtel, mantiene la condena al PP como partícipe a título lucrativo y rebaja la pena de Luis Bárcenas de 33 años y 4 meses a 29 años y un mes. La de Rosalía Iglesias pasa de 15 años y un mes a 12 años y 11 meses; la de Francisco Correa, de 51 años y 11 meses a 51 años. El Supremo precisa que no cabe afirmar que el PP delinquiera, al no haber sido enjuiciado por responsabilidad penal, y que las referencias a la caja B de la sentencia de instancia cumplían una función de contexto."
     type: "sentencia"
     urls:
       - "https://cincodias.elpais.com/cincodias/2020/10/14/economia/1602692890_198289.html"
+      - "https://elpais.com/espana/2020-10-14/el-supremo-ratifica-las-penas-de-gurtel-con-ligeros-ajustes.html"
 
   - fecha: "2020-11-08"
     titulo: "Rosalía Iglesias ingresa en prisión"
@@ -268,17 +263,24 @@ cronologia:
 
   - fecha: "2024-11-14"
     titulo: "El Supremo confirma la condena por la reforma de Génova y rebaja las penas"
-    descripcion: "El Tribunal Supremo dicta la sentencia 1033/2024 (rec. 1595/2022), que confirma en lo sustancial la condena al PP como responsable civil subsidiario por el pago en negro de la reforma de Génova y la condena por defraudación tributaria, absuelve del delito de falsedad y rebaja las penas por dilaciones indebidas: la de Bárcenas pasa de 2 años a 8 meses y la de los administradores de Unifica, de 2 años y 9 meses a 9 meses. El fallo fija la cuota defraudada en 374.096,826 euros, en sustitución de los 870.000 euros anteriores; la nota informativa del CGPJ y la prensa difundieron la resolución el 15 de noviembre de 2024."
+    descripcion: "El Tribunal Supremo dicta la sentencia 1033/2024 (rec. 1595/2022), que confirma en lo sustancial la condena al PP como responsable civil subsidiario por el pago en negro de la reforma de Génova y la condena por defraudación tributaria, absuelve del delito de falsedad y rebaja las penas por dilaciones indebidas: la de Bárcenas pasa de 2 años a 8 meses y la de los administradores de Unifica, de 2 años y 9 meses a 9 meses. La información publicada sobre el fallo sitúa la cuota defraudada en aproximadamente 374.000 euros, frente a los 870.521,32 euros de la sentencia de instancia; la nota informativa del CGPJ y la prensa difundieron la resolución el 15 de noviembre de 2024."
     type: "sentencia"
     urls:
       - "https://elpais.com/espana/2024-11-15/el-supremo-confirma-la-condena-al-pp-como-responsable-civil-por-el-pago-en-negro-de-la-obra-de-la-sede-de-genova.html"
 
   - fecha: "2024-12-17"
     titulo: "Bárcenas obtiene la libertad condicional"
-    descripcion: "El Juzgado Central de Vigilancia Penitenciaria de la Audiencia Nacional concede la libertad condicional a Luis Bárcenas tras cumplir dos tercios de su condena, haber abonado 4.535.254,92 euros de responsabilidad civil y haberse sometido a programas para condenados por delitos económicos. La Audiencia calculaba entonces que extinguiría la condena previsiblemente en septiembre de 2028."
+    descripcion: "El Juzgado Central de Vigilancia Penitenciaria de la Audiencia Nacional concede la libertad condicional a Luis Bárcenas tras cumplir dos tercios de su condena, haber abonado 4.535.254,92 euros de responsabilidad civil y haberse sometido a programas para condenados por delitos económicos. La Audiencia calculaba entonces que extinguiría la condena previsiblemente en septiembre de 2028. La nota del CGPJ explica que se aplica el régimen anterior a la reforma de 2015: la libertad condicional es cumplimiento de la pena, sujeto a obligaciones, y no suspensión ni extinción de esta. La fecha del hito es la publicación de la nota; no se ha podido leer el auto enlazado para contrastar su fecha de firma."
     type: "resumen"
     urls:
       - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/El-Juzgado-de-Vigilancia-Penitenciaria-concede-la-libertad-condicional-al-extesorero-del-Partido-Popular-Luis-Barcenas"
+  - fecha: "2026-10-05"
+    titulo: "Kitchen seguía pendiente de sentencia según la información de la SER"
+    descripcion: "La SER informa de que la Audiencia Nacional preveía publicar la sentencia de Kitchen en la segunda quincena de noviembre. Es la fecha de publicación de una previsión periodística atribuida a fuentes judiciales, no la fecha de una sentencia ni un señalamiento firme. Kitchen es una pieza separada de Tándem."
+    type: "resumen"
+    urls:
+      - "https://cadenaser.com/nacional/2026/10/05/los-tribunales-en-tiempo-de-elecciones-las-causas-que-marcaran-el-camino-al-29-n-cadena-ser/"
+
 ---
 
 ## Notas sobre el ámbito, la firmeza y las incertidumbres
@@ -289,14 +291,18 @@ cronologia:
 
 - **`fechaInicio` omitida.** No se ha fijado una fecha de inicio porque el "caso Bárcenas" no tiene un arranque único documentado: la trama Gürtel se destapó el 6 de febrero de 2009, la Fiscalía Anticorrupción apreció la implicación de Bárcenas el 11 de junio de 2009 y la pieza separada de los papeles se abrió en marzo de 2013. El campo `año` se mantiene en 2009.
 
-- **`fechaFin`.** El campo se deja en blanco: no existe una única fecha de cierre documentada del conjunto. La última resolución firme localizada es la STS 1033/2024, de 14 de noviembre de 2024, pero no cierra el expediente: la pieza de las donaciones se archivó provisionalmente en 2022 (confirmado en 2023) y la operación Kitchen, pieza separada de la macrocausa Tándem sobre el presunto espionaje a Bárcenas, seguía pendiente de sentencia al cierre de esta revisión.
+- **`fechaFin`.** El campo se deja en blanco: no existe una única fecha de cierre documentada del conjunto. La STS 1033/2024, de 14 de noviembre de 2024, resuelve la casación de Génova, pero no cierra el conjunto: la pieza de las donaciones se archivó provisionalmente en 2022 (confirmado en 2023) y la operación Kitchen, pieza separada de la macrocausa Tándem sobre el presunto espionaje a Bárcenas, seguía pendiente de sentencia al cierre de esta revisión.
 
-- **Magnitudes económicas.** El caso agrupa cantidades de naturaleza distinta que no deben sumarse como si fueran una sola: donaciones opacas registradas en la caja B, el pago en negro de 1.072.000 euros de la reforma de Génova, la cuota defraudada finalmente fijada en 374.096,826 euros, multas e indemnizaciones y el patrimonio oculto en Suiza. Por ese motivo no se ha fijado un valor único en `coste`.
+- **Magnitudes económicas.** El caso agrupa cantidades de naturaleza distinta que no deben sumarse como si fueran una sola: donaciones opacas registradas en la caja B, el pago en negro de 1.072.000 euros de la reforma de Génova, la cuota defraudada finalmente fijada en aproximadamente 374.000 euros, multas e indemnizaciones y el patrimonio oculto en Suiza. Por ese motivo no se ha fijado un valor único en `coste`.
 
-- **Estado.** Las piezas con condena (Gürtel y reforma de Génova) son firmes; la pieza sobre las donaciones a cambio de adjudicaciones quedó archivada sin condena. No consta que el Tribunal Constitucional haya revisado estas resoluciones; tampoco se ha localizado la sentencia de la operación Kitchen.
+- **Estado y recursos.** El estado `activo` se refiere a la ejecución de las penas y a la ausencia de un cierre único de las piezas relacionadas; no significa que Bárcenas carezca de condena. La firmeza de la primera época y de la responsabilidad civil del PP en Génova está expresamente descrita en la prensa judicial citada; no se deduce únicamente de que resolviera el Supremo. No se ha recuperado una certificación individual de firmeza de todos los penados de Génova ni se ha completado una revisión de eventuales incidentes de nulidad o amparos. El sobreseimiento de las donaciones es provisional: no equivale a una absolución tras juicio. La búsqueda hasta el 17 de octubre de 2026 no ha localizado sentencia de Kitchen, lo que no certifica exhaustivamente su inexistencia.
 
 - **Identificadores de sentencia.** Los números consignados se han verificado en fuentes judiciales y en el propio texto de las resoluciones: SAN 20/2018 (17-05-2018) y STS 507/2020 (14-10-2020) en el caso Gürtel, y SAN 21/2021 (28-10-2021, causa 6/2015) en la pieza de los papeles. La sentencia de casación sobre esta última es la STS 1033/2024, de 14 de noviembre (rec. 1595/2022, ECLI:ES:TS:2024:5577); su contenido se difundió el 15 de noviembre de 2024. La SAN 21/2021 tiene ROJ SAN 4424/2021 y ECLI:ES:AN:2021:4424.
 
 - **Credibilidad de los testigos de la caja B.** La SAN 20/2018 puso en cuestión la credibilidad de los testigos del PP que negaban la existencia de la caja B (entre ellos Mariano Rajoy). La STS 507/2020 no asumió esa valoración ni la incluyó entre sus razonamientos: se limitó a declarar que no cabe afirmar que el PP delinquiera —al no haber sido enjuiciado por responsabilidad penal— y que las menciones a la caja B de la sentencia de instancia servían como contexto de los hechos enjuiciados.
 
-- **Documentos.** Se han descargado y verificado las resoluciones judiciales primarias: SAN 20/2018 (1687 páginas), STS 507/2020 (1844 páginas), SAN 21/2021 (454 páginas) y STS 1033/2024 (75 páginas). Sus enlaces figuran en el bloque `documentos`. La SAN 20/2018 y la STS 1033/2024 proceden de repositorios oficiales (Poder Judicial/CENDOJ); la STS 507/2020 y la SAN 21/2021 se han consultado en copias íntegras publicadas por medios (Mediaset y DocDroid), a falta de un enlace oficial directo localizado en CENDOJ para la SAN 21/2021. El enlace de la SAN 21/2021 apunta al PDF de la copia alojada en DocDroid, no a su visor HTML.
+- **Documentos y alcance de lectura.** La STS 507/2020 (1844 páginas) y la SAN 21/2021 (454 páginas) se han descargado mediante GET en copias del documento judicial alojadas en Mediaset y DocDroid. Se han leído selectivamente el encabezamiento y los pronunciamientos relevantes, incluidos los cambios de pena de Bárcenas e Iglesias en la segunda sentencia de 2020 y el fallo de 2021 (páginas 448-453). No se afirma lectura íntegra de sus fundamentos. Una primera descarga de la SAN 20/2018 desde el Poder Judicial sufrió una interrupción; un segundo GET recuperó los 24.146.288 bytes y permitió validar las 1687 páginas y extraer su texto. Se consultaron selectivamente pronunciamientos del tramo 1544-1586, sin leer todo el fallo ni todos los fundamentos. El enlace oficial se mantiene como fuente original.
+
+- **Lagunas de la casación de Génova.** El acceso GET al PDF de la STS 1033/2024 en CENDOJ devolvió 403; las rutas por ECLI solo dieron una redirección HTML y su destino también fue bloqueado. Una copia judicial accesible en el buscador permitió contrastar el encabezamiento, número, fecha y recurso, pero no se ha verificado íntegramente su fallo en esta revisión. Por ello no se presenta como PDF descargado en `documentos`: los ocho y nueve meses y la cuota aproximada se apoyan en la información judicial publicada por [El País el 15 de noviembre de 2024](https://elpais.com/espana/2024-11-15/el-supremo-confirma-la-condena-al-pp-como-responsable-civil-por-el-pago-en-negro-de-la-obra-de-la-sede-de-genova.html). Se retira la precisión anterior a tres decimales al no haber podido contrastarla en el fallo. El importe inicial de 123.669 euros de responsabilidad subsidiaria del PP se identifica como pronunciamiento de 2021; no se afirma que sea un saldo pendiente actual ni se suma a la cuota tributaria.
+
+- **Ejecución.** Se ha leído la [nota del CGPJ de 17 de diciembre de 2024](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/El-Juzgado-de-Vigilancia-Penitenciaria-concede-la-libertad-condicional-al-extesorero-del-Partido-Popular-Luis-Barcenas), pero el auto enlazado (ECLI:ES:AN:2024:9029A) no se ha recuperado. Los 4.535.254,92 euros son responsabilidad civil que la nota afirma abonada, no una valoración del daño total ni una cantidad pendiente. No se suman las penas de piezas distintas para calcular por cuenta propia el cumplimiento efectivo. La previsión de septiembre de 2028 es histórica y condicionada; no se certifica una liquidación actualizada a octubre de 2026.
