@@ -1,142 +1,118 @@
 ---
-nombre: "Caso Porto"
+nombre: Caso Porto
 partido: PP
-completado: true
+completado: false
 año: 2006
-fechaInicio: 2005-02-01
-fechaFin: 2012-12-31
-estado: "archivado"
-descripcion: |
-  El Caso Porto es un escándalo de corrupción urbanística que implicó a Enrique Porto Rey, director general de Urbanismo de la Comunidad de Madrid entre diciembre de 2003 y octubre de 2006, quien fue investigado por utilizar su cargo público para beneficiarse económicamente de la recalificación de terrenos de su propiedad en Villanueva de la Cañada. Porto, junto con varios socios empresariales, adquirió entre 1988 y 1994 terrenos rústicos por un valor total de 87.000 euros a través de la sociedad Elclansol. En 1999, Porto redactó como arquitecto privado el Plan General de Ordenación Urbana del municipio que recalificó estos terrenos como urbanizables, multiplicando exponencialmente su valor. Posteriormente, ya como director general de Urbanismo, autorizó en 2004 la subsanación de deficiencias graves que habían bloqueado el proyecto durante años, permitiendo finalmente su desarrollo urbanístico.
+fechaFin: ''
+estado: Archivado según información periodística; auto y alcance individual pendientes de cotejo
+descripcion: 'El caso Porto investigó posibles irregularidades en la tramitación del sector Los Pocillos de Villanueva
+  de la Cañada y la relación entre las funciones públicas de Enrique Porto Rey y sus intereses urbanísticos privados.
+  Porto fue director general de Urbanismo de la Comunidad de Madrid entre 2003 y 2006, bajo el Gobierno del PP.
+  En octubre de 2007 la prensa informó de la admisión de una querella de Anticorrupción contra él, el alcalde Luis
+  Partida y otros cuatro profesionales o técnicos. Eran imputaciones y sospechas, no hechos declarados probados
+  por una condena.
 
-  La trama operaba mediante un claro conflicto de intereses en el que Porto actuó como arquitecto redactor del plan urbanístico que beneficiaba sus propias inversiones, y posteriormente, desde su cargo institucional, aprobó las correcciones necesarias para desbloquear la urbanización. En enero de 2006, apenas dos años después de autorizar las subsanaciones, Porto y sus socios vendieron los terrenos a la constructora Fadesa por 4,3 millones de euros, obteniendo una ganancia aproximada de 4,6 millones de euros. Entre los socios de Porto se encontraban figuras como José María Fernández del Río, ex consejero de Caja Madrid, y Ricardo Ortega Aranegui, concuñado del alcalde de Villanueva de la Cañada Luis Partida (PP). La investigación también señaló al propio alcalde Partida y a su esposa Juana Manrique, arquitecta municipal, por su presunta participación en facilitar las recalificaciones irregulares.
 
-  La Fiscalía Anticorrupción presentó denuncia en octubre de 2006 por delitos de cohecho, tráfico de influencias, negociaciones prohibidas a funcionarios y falsedad documental, forzando la dimisión inmediata de Enrique Porto de su cargo. El Juzgado de Instrucción nº 2 de Móstoles admitió a trámite la querella en octubre de 2007, acumulando las denuncias presentadas previamente por Ecologistas en Acción en febrero de 2005. Durante la instrucción, el caso experimentó vaivenes judiciales, con un sobreseimiento provisional que fue recurrido por la Fiscalía y posteriormente revocado por otro magistrado que reabrió la investigación. Finalmente, en 2012, siete años después del inicio de las investigaciones, el juez instructor archivó definitivamente el caso, según fuentes consultadas, sin que se produjeran condenas penales. El archivo generó críticas de organizaciones ecologistas y de transparencia que lo consideraron un ejemplo más de impunidad en casos de corrupción urbanística durante el boom inmobiliario español.
+  Informaciones de elDiario.es de 2019 y marzo de 2026 señalan que el caso fue archivado. No se ha recuperado el
+  auto ni comprobado su fecha exacta, carácter libre o provisional, firmeza o alcance para cada persona. Se retira
+  la fecha artificial de cierre del 31 de diciembre de 2012 y la afirmación de archivo definitivo como dato judicial
+  verificado.
 
-resumen: "Trama de enriquecimiento ilícito urbanístico del director de Urbanismo de Madrid que recalificó terrenos propios obteniendo 4,6 millones de beneficio"
-coste: 4600000
-lugar: "Villanueva de la Cañada, Comunidad de Madrid"
+
+  La revisión hasta el 17 de octubre de 2026 es parcial. Las plusvalías difundidas por la prensa no se presentan
+  como enriquecimiento ilícito probado ni daño público. Se distingue de este caso otro procedimiento sobre el palacete
+  El Enebral de El Escorial, cuya reapertura se había trasladado indebidamente a la cronología de Los Pocillos.'
+resumen: Investigación urbanística sobre Los Pocillos y Enrique Porto; archivo informado por la prensa, sin auto
+  original cotejado
+lugar: Villanueva de la Cañada, Comunidad de Madrid
 tribunal:
-  - "Juzgado de Instrucción nº 2 de Móstoles"
-  - "Fiscalía Anticorrupción"
-numeroSentencia: ""
+- Juzgado de Instrucción n.º 2 de Móstoles (admisión comunicada en 2007)
+numeroSentencia: ''
 implicados:
-  - nombre: "Enrique Porto Rey"
-    cargo: "Director General de Urbanismo de la Comunidad de Madrid (2003-2006)"
-    rol: "Aprobó recalificaciones de terrenos propios; beneficio de 4,6 millones de euros"
-
-  - nombre: "Luis Partida Brunete"
-    cargo: "Alcalde de Villanueva de la Cañada (PP) desde 1979"
-    rol: "Imputado por facilitar irregularidades urbanísticas; socio político de Porto"
-
-  - nombre: "Juana Manrique"
-    cargo: "Arquitecta municipal de Villanueva de la Cañada, esposa del alcalde"
-    rol: "Imputada por facilitar técnicamente las recalificaciones irregulares"
-
-  - nombre: "José María Fernández del Río"
-    cargo: "Ex consejero de Caja Madrid, socio de Enrique Porto"
-    rol: "Socio capitalista en la operación urbanística de Los Pocillos"
-
-  - nombre: "Ricardo Ortega Aranegui"
-    cargo: "Empresario, concuñado del alcalde Luis Partida"
-    rol: "Socio de Porto en la compra y venta de terrenos recalificados"
-
+- nombre: Enrique Porto Rey
+  cargo: Exdirector general de Urbanismo de la Comunidad de Madrid
+  rol: Incluido en la querella de Anticorrupción cuya admisión fue comunicada en octubre de 2007. El archivo del
+    caso se conoce por prensa; no se ha cotejado una resolución que precise su alcance individual. No se le atribuye
+    condena.
+- nombre: Luis Manuel Partida Brunete
+  cargo: Alcalde de Villanueva de la Cañada por el PP durante los hechos investigados
+  rol: Incluido en la querella de Anticorrupción cuya admisión fue comunicada en octubre de 2007. El archivo del
+    caso se conoce por prensa; no se ha cotejado una resolución que precise su alcance individual. No se le atribuye
+    condena.
+- nombre: Juana María Manrique Larraza
+  cargo: Arquitecta municipal de Villanueva de la Cañada
+  rol: Incluido en la querella de Anticorrupción cuya admisión fue comunicada en octubre de 2007. El archivo del
+    caso se conoce por prensa; no se ha cotejado una resolución que precise su alcance individual. No se le atribuye
+    condena.
+- nombre: José María Fernández del Río
+  cargo: Arquitecto vinculado profesionalmente a Porto
+  rol: Incluido en la querella de Anticorrupción cuya admisión fue comunicada en octubre de 2007. El archivo del
+    caso se conoce por prensa; no se ha cotejado una resolución que precise su alcance individual. No se le atribuye
+    condena.
+- nombre: José Gil Granizo
+  cargo: Ingeniero técnico municipal de obras públicas
+  rol: Incluido en la querella de Anticorrupción cuya admisión fue comunicada en octubre de 2007. El archivo del
+    caso se conoce por prensa; no se ha cotejado una resolución que precise su alcance individual. No se le atribuye
+    condena.
+- nombre: Luis Francisco Arrabal Villalobos
+  cargo: Ingeniero agrícola
+  rol: Incluido en la querella de Anticorrupción cuya admisión fue comunicada en octubre de 2007. El archivo del
+    caso se conoce por prensa; no se ha cotejado una resolución que precise su alcance individual. No se le atribuye
+    condena.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "tráfico de influencias"
-  - "cohecho"
-  - "urbanismo"
-  - "conflicto de intereses"
-
-impactoSocial: "El Caso Porto ejemplificó el modelo de corrupción urbanística del boom inmobiliario español, donde altos cargos institucionales del PP utilizaban sus posiciones para enriquecerse mediante recalificaciones de terrenos propios. Su archivo sin condenas reforzó la percepción de impunidad en casos de urbanismo corrupto durante el gobierno de Esperanza Aguirre en Madrid."
-
+- urbanismo
+- conflicto de intereses
+- archivo
+impactoSocial: La controversia sobre las funciones públicas y los intereses urbanísticos privados de Porto precedió
+  a su salida del Gobierno regional. El archivo comunicado posteriormente obliga a distinguir las acusaciones iniciales
+  de una responsabilidad penal que esta revisión no acredita.
 documentos: []
-
 cronologia:
-  - fecha: 1988-01-01
-    titulo: "Porto y socios adquieren primera finca rústica"
-    descripcion: "Enrique Porto Rey y sus socios adquieren una finca rústica de aproximadamente 2.000 metros cuadrados en Villanueva de la Cañada por un valor de 24.000 euros. Esta será la base de la futura operación urbanística que les reportaría millones de beneficios una vez recalificados los terrenos."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Porto&numero=86"
-
-  - fecha: 1994-01-01
-    titulo: "Sociedad Elclansol amplía compra de terrenos rústicos"
-    descripcion: "La sociedad Elclansol, controlada por Porto y sus socios, adquiere terrenos adicionales de más de 20.000 metros cuadrados en la misma zona por un valor de 63.000 euros. La inversión total en suelo rústico alcanza los 87.000 euros, una cifra que se multiplicaría exponencialmente tras las recalificaciones posteriores."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Porto&numero=86"
-
-  - fecha: 1999-01-01
-    titulo: "Aprobación del Plan General que recalifica los terrenos"
-    descripcion: "Se aprueba el Plan General de Ordenación Urbana de Villanueva de la Cañada que clasifica los terrenos de Porto como urbanizables. El propio Enrique Porto, actuando como arquitecto privado contratado por el ayuntamiento, fue quien redactó este plan urbanístico que beneficiaba directamente sus inversiones personales, configurando un evidente conflicto de intereses que sería investigado años después."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Porto&numero=86"
-
-  - fecha: 2003-05-01
-    titulo: "Gobierno central rechaza plan parcial Los Pocillos por deficiencias graves"
-    descripcion: "La Administración central rechaza el plan parcial Los Pocillos que desarrollaría la urbanización de los terrenos de Porto, identificando deficiencias graves que bloquean el proyecto. Este rechazo supone un obstáculo importante para la materialización de las plusvalías generadas por la recalificación de 1999."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Porto&numero=86"
-
-  - fecha: 2003-12-01
-    titulo: "Enrique Porto es nombrado director general de Urbanismo"
-    descripcion: "El gobierno de la Comunidad de Madrid, presidido por Esperanza Aguirre, designa a Enrique Porto Rey como director general de Urbanismo, otorgándole competencias sobre la planificación urbanística regional. Porto asume el cargo con intereses económicos pendientes en proyectos urbanísticos que él mismo había diseñado, situación que debería haber generado incompatibilidad pero que no fue detectada o fiscalizada."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Porto&numero=86"
-
-  - fecha: 2004-09-01
-    titulo: "Porto autoriza subsanación de deficiencias del plan parcial"
-    descripcion: "Ya como director general de Urbanismo, Enrique Porto autoriza entre agosto y septiembre de 2004 la subsanación de las deficiencias graves que habían bloqueado el plan parcial Los Pocillos un año antes. Esta autorización, claramente irregular al beneficiar terrenos de su propiedad, permite desbloquear el proyecto urbanístico y proceder finalmente a su desarrollo y venta."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Porto&numero=86"
-
-  - fecha: 2005-02-01
-    titulo: "Ecologistas en Acción presenta primera denuncia"
-    descripcion: "La organización Ecologistas en Acción presenta una denuncia contra Enrique Porto Rey y Luis Partida ante los juzgados, señalando las irregularidades urbanísticas y el conflicto de intereses en la aprobación del plan parcial Los Pocillos. Esta denuncia se produce un año antes de que la Fiscalía Anticorrupción tomara cartas en el asunto, evidenciando que las organizaciones ciudadanas detectaron la trama antes que las instituciones."
-    type: "denuncia"
-    urls:
-      - "https://www.ecologistasenaccion.org/10606/el-juzgado-acumula-las-denuncias-contra-enrique-porto-rey-y-luis-partida/"
-
-  - fecha: 2006-01-01
-    titulo: "Venta de terrenos a Fadesa por 4,3 millones de euros"
-    descripcion: "Enrique Porto y sus socios venden los terrenos recalificados y desbloqueados a la constructora Fadesa por un precio de 4,3 millones de euros. Esta operación supone un beneficio neto aproximado de 4,6 millones de euros sobre la inversión inicial de 87.000 euros realizada entre 1988 y 1994, multiplicando por 50 el valor del suelo gracias a las recalificaciones que el propio Porto diseñó y aprobó desde diferentes posiciones."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Porto&numero=86"
-
-  - fecha: 2006-10-01
-    titulo: "Fiscalía Anticorrupción presenta denuncia y Porto dimite"
-    descripcion: "La Fiscalía Anticorrupción presenta una denuncia oficial contra Enrique Porto Rey, el alcalde de Villanueva de la Cañada Luis Partida y otras cuatro personas por delitos de cohecho, tráfico de influencias, negociaciones prohibidas a funcionarios y falsedad documental. Ante la gravedad de las acusaciones y la presión mediática, Enrique Porto presenta su dimisión como director general de Urbanismo de la Comunidad de Madrid en octubre de 2006, tres años después de su nombramiento."
-    type: "denuncia"
-    urls:
-      - "http://www.losgenoveses.net/Los%20Asuntillos/casosmadrid/casoporto/casoportorenoticias.htm"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Porto&numero=86"
-
-  - fecha: 2007-10-01
-    titulo: "Juzgado de Móstoles admite a trámite la querella"
-    descripcion: "El Juzgado de Instrucción nº 2 de Móstoles admite a trámite la querella presentada por la Fiscalía Anticorrupción contra Enrique Porto Rey, Luis Partida, Juana Manrique y otros implicados. El juzgado acuerda acumular esta denuncia con la presentada previamente por Ecologistas en Acción en febrero de 2005, unificando las investigaciones sobre las irregularidades urbanísticas en Villanueva de la Cañada."
-    type: "investigación"
-    urls:
-      - "https://www.ecologistasenaccion.org/10606/el-juzgado-acumula-las-denuncias-contra-enrique-porto-rey-y-luis-partida/"
-
-  - fecha: 2010-06-01
-    titulo: "Sobreseimiento provisional revocado por otro magistrado"
-    descripcion: "Durante la instrucción del caso, un juez dicta un sobreseimiento provisional de las actuaciones, pero la Fiscalía recurre esta decisión. Otro magistrado revoca el archivo provisional y ordena la reapertura de la investigación, considerando que existen indicios suficientes para continuar con la instrucción de los presuntos delitos urbanísticos y de tráfico de influencias cometidos por los imputados."
-    type: "investigación"
-    urls:
-      - "http://www.losgenoveses.net/Los%20Asuntillos/casosmadrid/casoporto/casoportorenoticias.htm"
-
-  - fecha: 2012-12-31
-    titulo: "Archivo definitivo del caso sin condenas"
-    descripcion: "Tras siete años de investigación judicial, el juez instructor del Juzgado de Móstoles acuerda el archivo definitivo del Caso Porto sin que se produjeran condenas penales para ninguno de los implicados. La decisión genera críticas de organizaciones de transparencia y ecologistas que consideran que el archivo ejemplifica la impunidad habitual en casos de corrupción urbanística durante el boom inmobiliario. Enrique Porto queda exonerado judicialmente de los delitos de prevaricación, cohecho y tráfico de influencias por los que había sido investigado."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Porto&numero=86"
-      - "http://www.losgenoveses.net/Los%20Asuntillos/casosmadrid/casoporto/casoportorenoticias.htm"
+- fecha: '2006-10-03'
+  titulo: Salida de Porto del Gobierno regional
+  descripcion: La prensa fecha en este día la dimisión del director general tras la controversia urbanística. Porto
+    alegó razones de honorabilidad y defensa de su actuación. La admisión judicial de la querella que se describe
+    después fue en 2007, por lo que no se presenta esa querella como causa temporal directa de una dimisión en 2006.
+  type: dimisión
+  urls:
+  - https://elpais.com/elpais/2007/10/01/actualidad/1191226624_850215.html
+  - https://elpais.com/elpais/2006/10/04/actualidad/1159949822_850215.html
+- fecha: '2007-10-01'
+  titulo: Información sobre la admisión de la querella de Anticorrupción
+  descripcion: El País y Europa Press comunicaron la admisión a trámite de la querella sobre Los Pocillos contra
+    Porto y otras cinco personas. Se investigaban presuntas negociaciones prohibidas, cohecho, tráfico de influencias
+    y falsedad, entre otras calificaciones recogidas por la prensa. No se ha cotejado el escrito fiscal ni el auto
+    de admisión.
+  type: investigación
+  urls:
+  - https://elpais.com/elpais/2007/10/01/actualidad/1191226624_850215.html
+  - https://www.europapress.es/madrid/noticia-nota-sustitucion-noticia-investigaran-ex-director-urbanismo-enrique-porto-alcalde-20071001153242.html
+- fecha: '2019-02-27'
+  titulo: La prensa informa de que el caso fue archivado
+  descripcion: elDiario.es recordó el archivo al describir la trayectoria profesional posterior de Porto. Es la
+    fecha de publicación de esta información, no la del auto. No permite precisar modalidad de sobreseimiento, firmeza
+    ni alcance personal.
+  type: resumen
+  urls:
+  - https://www.eldiario.es/sociedad/arquitecto-alto-cargo-esperanza-aguirre_1_1675359.html
+- fecha: '2026-03-29'
+  titulo: Nueva referencia periodística al archivo
+  descripcion: Una información de Somos Madrid/elDiario.es vuelve a señalar que la causa fue archivada. Distingue
+    además el procedimiento de El Enebral, también descrito como archivado. No se trasladan resoluciones de aquel
+    asunto al de Los Pocillos.
+  type: resumen
+  urls:
+  - https://www.eldiario.es/madrid/somos/colegio-arquitectos-madrid-homenajea-ex-alto-cargo-aguirre-dimitio-escandalo-urbanistico_1_13099696.html
 ---
+
+La admisión de una querella abrió una investigación; no acredita por sí misma las acusaciones. La [nota rectificada de Europa Press de octubre de 2007](https://www.europapress.es/madrid/noticia-nota-sustitucion-noticia-investigaran-ex-director-urbanismo-enrique-porto-alcalde-20071001153242.html) identifica seis destinatarios de la querella. Los nombres completos se contrastan con la [información contemporánea de El País](https://elpais.com/elpais/2007/10/01/actualidad/1191226624_850215.html), sin deducir identidades de seudónimos. Se retira a Ricardo Ortega del listado de investigados: las referencias a vínculos societarios no bastan para atribuirle esa condición procesal. También se elimina Fiscalía Anticorrupción de `tribunal`, porque no es un órgano judicial.
+
+El [seguimiento periodístico de 2019](https://www.eldiario.es/sociedad/arquitecto-alto-cargo-esperanza-aguirre_1_1675359.html) y el [de marzo de 2026](https://www.eldiario.es/madrid/somos/colegio-arquitectos-madrid-homenajea-ex-alto-cargo-aguirre-dimitio-escandalo-urbanistico_1_13099696.html) confirman como información periodística el archivo. No se ha localizado el auto. Una referencia secundaria a una noticia impresa de octubre de 2012 no permite fijar el día del acto ni certificar su alcance; tampoco se adopta sin respaldo original el cambio del juzgado 2 al 4 de Móstoles. No se presenta el archivo como sentencia absolutoria ni como condena.
+
+La [noticia económica de octubre de 2007](https://elpais.com/diario/2007/10/02/espana/1191276009_850215.html) distingue una parcela vendida por 400.458 euros y otras tres de Elclansol por 4.371.000 euros. Atribuye a datos de Anticorrupción plusvalías conjuntas superiores a 4,6 millones y una participación del 25% para el entorno patrimonial de Porto. Son cantidades societarias y patrimoniales difundidas durante la investigación, no perjuicio público probado ni beneficio ilícito individual declarado judicialmente. Se retira `coste: 4600000`. La [versión del PP publicada en 2006](https://elpais.com/elpais/2006/10/04/actualidad/1159949822_850215.html) discutía las acusaciones.
+
+Se retiran las fechas de día 1 asignadas sin respaldo a compras, planeamiento, denuncias y subsanaciones. No se ha cotejado el planeamiento original para resolver las referencias divergentes a su fecha de aprobación, ni la documentación registral para certificar participaciones y plusvalías. Se evita presentar como cierta la suma de adquisición y beneficio que figuraba antes.
+
+La reapertura tras un sobreseimiento provisional mencionada en una recopilación de noticias corresponde a **El Enebral, en El Escorial**, según el seguimiento de 2026; no acredita que Los Pocillos se reabriera en junio de 2010. No se reproducen las imputaciones personales de aquel procedimiento como hechos de esta ficha.
+
+Las fuentes judiciales originales siguen pendientes. El enlace al texto de la querella que conserva El País devuelve 404, y el enlace de Ecologistas en Acción sobre acumulación de denuncias devuelve 403. Por eso no se mantienen como revalidados su fecha de acumulación o un expediente judicial concreto. `documentos: []` indica la falta de originales verificables incorporados. La búsqueda hasta17deoctubrede 2026 no permite certificar la inexistencia de recursos o actuaciones posteriores.
