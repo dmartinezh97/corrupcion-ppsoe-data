@@ -1,90 +1,167 @@
 ---
-nombre: "ERE/Hamsa Primayor"
+nombre: ERE de Hamsa y Primayor
 partido: PSOE
-completado: true
-año: 2011
-fechaInicio: 1999-01-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El caso ERE/Hamsa Primayor es una de las piezas fundacionales del macroescándalo de los ERE de Andalucía, pues fue precisamente la crisis de la empresa cárnica Hijos de Andrés Molina S.A. (HAMSA), con sede en Jaén, la que originó el llamado "procedimiento específico" de ayudas, el mecanismo fraudulento que la Junta de Andalucía empleó durante años para desviar fondos públicos.
+completado: false
+fechaFin: ''
+estado: Pendiente de señalamiento a 7 de abril de 2026; evolución posterior no verificada
+descripcion: 'La pieza de ayudas sociolaborales a Hijos de Andrés Molina (Hamsa) y Primayor examina 19.966.869,95
+  euros: al menos 7.788.390,93 euros para Hamsa y aproximadamente 12.178.479,02 para Primayor, según el auto reseñado
+  por el CGPJ. Son importes investigados, no un daño establecido por sentencia. El auto de 16 de diciembre de 2022
+  continuó por procedimiento abreviado contra doce personas por posibles delitos de prevaricación, malversación
+  y falsedad documental, excluyó a seis exaltos cargos ya encausados en el procedimiento específico y acordó el
+  sobreseimiento provisional de un trabajador de Vitalia. No fue una condena ni apertura automática de juicio.
 
-  A finales de los años noventa, HAMSA atravesó una grave crisis empresarial. La Intervención de la Junta de Andalucía puso objeciones a la fórmula prevista para salvar la empresa, por lo que la Consejería de Empleo diseñó un procedimiento alternativo que eludía los controles ordinarios. En este marco, el Instituto de Fomento de Andalucía (IFA) llegó a adquirir los activos de HAMSA para evitar su liquidación, convirtiéndose la Junta en propietaria de hecho de la compañía.
 
-  La empresa fue posteriormente rebautizada como Primayor. Sin embargo, en 2007 también Primayor entró en crisis y solicitó el concurso de acreedores. La jueza Mercedes Alaya ordenó investigar a 14 ex funcionarios de la Junta, agentes de seguros, directivos empresariales y ex trabajadores en relación con las ayudas concedidas, a través de pólizas de seguros, tanto a la antigua HAMSA como a la nueva Primayor.
-
-  La investigación se centró en si las ayudas sociolaborales se utilizaron para beneficiar a personas que no tenían relación laboral real con las empresas o si se infló el número de beneficiarios para desviar fondos. El caso HAMSA-Primayor es especialmente relevante porque su tramitación sentó el precedente del sistema de pólizas de seguros que luego se generalizó en toda la trama ERE.
-resumen: "La crisis de la cárnica HAMSA (Hijos de Andrés Molina) de Jaén dio origen al 'procedimiento específico' de ayudas irregulares de la Junta andaluza (PSOE), el mecanismo que después se extendió al conjunto de los ERE fraudulentos."
-coste: 0
-lugar: "Jaén, Andalucía"
+  En octubre de 2024 la Audiencia pidió alegaciones sobre la posible incidencia de las sentencias del Constitucional
+  al resolver recursos contra ese auto: no consta aquí una decisión final de anulación o archivo. La memoria fiscal
+  de 2026 registra DP 275/18–PA 257/22, calificación de 27 de diciembre de 2022 y pendiente de señalamiento a 7 de abril de 2026. No
+  se han acreditado sus actuaciones posteriores, las penas solicitadas por persona ni una sentencia hasta el 17
+  de octubre de 2026. Debe separarse del préstamo puente de 5,8 millones de 1999, cuya causa fue archivada por prescripción
+  en 2020 según Canal Sur; ese archivo no cierra por sí mismo la pieza de ayudas sociolaborales. Tampoco se presume
+  firmeza individual ni se trasladan los resultados de la pieza política de los ERE.'
+resumen: 'Ayudas sociolaborales a Hamsa y Primayor: doce investigados en 2022 y pendiente de señalamiento según
+  Fiscalía en 2026; préstamo puente separado.'
+lugar: Jaén, Andalucía
 tribunal:
-  - "Juzgado de Instrucción número 6 de Sevilla - Jueza Mercedes Alaya"
-  - "Audiencia Provincial de Sevilla"
-numeroSentencia: ""
+- Juzgado de Instrucción número 6 de Sevilla
+- Audiencia Provincial de Sevilla, Sección Séptima
 implicados:
-  - nombre: "Francisco Javier Guerrero Benítez"
-    cargo: "Director General de Trabajo e Inmigración de la Junta de Andalucía"
-    rol: "Diseñador del procedimiento específico de ayudas que se gestó con motivo de la crisis de HAMSA."
-  - nombre: "Antonio Fernández García"
-    cargo: "Consejero de Empleo de la Junta de Andalucía"
-    rol: "Responsable político de la Consejería que gestionó las ayudas irregulares a HAMSA y posteriormente a Primayor."
-  - nombre: "Ex funcionarios del IFA y la Consejería de Empleo (14)"
-    cargo: "Altos funcionarios y técnicos de la Junta de Andalucía"
-    rol: "Investigados por la jueza Alaya por su participación en la concesión y gestión de las ayudas irregulares."
-  - nombre: "Agentes de seguros y directivos empresariales"
-    cargo: "Mediadores en la gestión de pólizas de seguros"
-    rol: "Investigados por intermediar en las pólizas utilizadas para canalizar las ayudas irregulares."
-  - nombre: "José Antonio Griñán Martínez"
-    cargo: "Presidente de la Junta de Andalucía (2009-2013)"
-    rol: "Condenado en el caso ERE global. Pena reducida por el Tribunal Constitucional en 2024."
+- nombre: Ramón P. D.
+  cargo: Directivo de Primayor
+  rol: Intervención en las ayudas investigadas. Uno de los doce incluidos en el procedimiento abreviado de diciembre
+    de 2022, según Europa Press. No se acredita sentencia ni desenlace individual posterior.
+- nombre: Felipe M. H.
+  cargo: Directivo de Primayor
+  rol: Intervención en las ayudas investigadas. Uno de los doce incluidos en el procedimiento abreviado de diciembre
+    de 2022, según Europa Press. No se acredita sentencia ni desenlace individual posterior.
+- nombre: Luis S. V.
+  cargo: Exconsejero de Hamsa
+  rol: Intervención en las ayudas investigadas. Uno de los doce incluidos en el procedimiento abreviado de diciembre
+    de 2022, según Europa Press. No se acredita sentencia ni desenlace individual posterior.
+- nombre: Antonio José Albarracín
+  cargo: Exdirectivo de la consultora Vitalia
+  rol: Intermediación en las pólizas y ayudas investigadas. Uno de los doce incluidos en el procedimiento abreviado
+    de diciembre de 2022, según Europa Press. No se acredita sentencia ni desenlace individual posterior.
+- nombre: Alfredo P. R.
+  cargo: Beneficiario de una póliza vinculado al ERE de Primayor
+  rol: La investigación le atribuyó inclusión sin haber trabajado en Primayor. Uno de los doce incluidos en el procedimiento
+    abreviado de diciembre de 2022, según Europa Press. No se acredita sentencia ni desenlace individual posterior.
+- nombre: Miguel Ángel M. G.
+  cargo: Beneficiario de una póliza vinculado al ERE de Primayor
+  rol: La investigación le atribuyó inclusión sin haber trabajado en Primayor. Uno de los doce incluidos en el procedimiento
+    abreviado de diciembre de 2022, según Europa Press. No se acredita sentencia ni desenlace individual posterior.
+- nombre: Carlos L. B.
+  cargo: Abogado
+  rol: Intervención en las ayudas investigadas. Uno de los doce incluidos en el procedimiento abreviado de diciembre
+    de 2022, según Europa Press. No se acredita sentencia ni desenlace individual posterior.
+- nombre: Damián J. R.
+  cargo: Sindicalista de CCOO
+  rol: Intervención en las ayudas investigadas. Uno de los doce incluidos en el procedimiento abreviado de diciembre
+    de 2022, según Europa Press. No se acredita sentencia ni desenlace individual posterior.
+- nombre: Luis Javier G. D. L. R.
+  cargo: Expresidente de la asociación de extrabajadores de Hamsa
+  rol: Intervención en las ayudas investigadas. Uno de los doce incluidos en el procedimiento abreviado de diciembre
+    de 2022, según Europa Press. No se acredita sentencia ni desenlace individual posterior.
+- nombre: Juan Lanzas
+  cargo: Exsindicalista de UGT
+  rol: Intermediación investigada para obtener las ayudas. Uno de los doce incluidos en el procedimiento abreviado
+    de diciembre de 2022, según Europa Press. No se acredita sentencia ni desenlace individual posterior.
+- nombre: Manuel José L. B.
+  cargo: Expresidente del comité de Primayor
+  rol: Intervención en las ayudas investigadas. Uno de los doce incluidos en el procedimiento abreviado de diciembre
+    de 2022, según Europa Press. No se acredita sentencia ni desenlace individual posterior.
+- nombre: Francisco Algarín Lamela
+  cargo: Persona considerada presunto testaferro por la investigación
+  rol: Papel de presunto testaferro atribuido por la investigación. Uno de los doce incluidos en el procedimiento
+    abreviado de diciembre de 2022, según Europa Press. No se acredita sentencia ni desenlace individual posterior.
+- nombre: Jesús María Bordallo
+  cargo: Trabajador de Vitalia, responsable de su oficina de Sevilla según la información de 2022
+  rol: Sobreseimiento provisional en el auto de 16 de diciembre de 2022 por falta de indicios sólidos de participación
+    penal relevante. No se acredita firmeza ni resolución posterior.
+- nombre: José Antonio Viera
+  cargo: Exconsejero de Empleo y Desarrollo Tecnológico
+  rol: La instructora acordó no traerlo como investigado en junio de 2018 y rechazó el recurso fiscal el 13 de noviembre,
+    según Europa Press, por el criterio de evitar doble enjuiciamiento.
+- nombre: Antonio Fernández
+  cargo: Exconsejero de Empleo
+  rol: Europa Press lo identifica entre los seis exaltos cargos contra quienes no continúa el procedimiento de ayudas
+    en 2022 por haber sido encausados en el procedimiento específico. No se afirma condena en esta pieza.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "ERE"
-  - "fraude de subvenciones"
-  - "pólizas irregulares"
-  - "sector cárnico"
-impactoSocial: "El caso HAMSA-Primayor tiene una importancia histórica especial porque el intento de salvar esta empresa cárnica jaenense fue el origen del procedimiento específico fraudulento que después se extendió a cientos de ERE en toda Andalucía. La adquisición por el IFA de los activos de HAMSA supuso que los fondos públicos andaluces asumieran los riesgos empresariales privados, un modelo que se repitió sistemáticamente durante años."
-documentos: null
+- ERE
+- ayudas sociolaborales
+- Hamsa
+- Primayor
+- Junta de Andalucía
+- prevaricación
+- malversación
+- falsedad documental
+impactoSocial: La causa examina el control de fondos destinados a prejubilaciones y reestructuración de empresas
+  cárnicas de Jaén. La legalidad de la financiación y la responsabilidad de los intermediarios deben distinguirse
+  de los derechos de los extrabajadores y de los efectos laborales de la crisis empresarial.
+documentos: []
 cronologia:
-  - fecha: 1999-01-01
-    titulo: "Crisis empresarial de HAMSA y diseño del procedimiento específico"
-    descripcion: "Hijos de Andrés Molina S.A. (HAMSA), empresa cárnica de Jaén, entra en crisis. La Intervención de la Junta pone objeciones al método de ayuda previsto, lo que lleva a la Consejería de Empleo a diseñar un procedimiento alternativo que evita los controles ordinarios: el 'procedimiento específico'."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+ERE/Hamsa+Primayor&numero=492"
-
-  - fecha: 2000-01-01
-    titulo: "El IFA adquiere los activos de HAMSA"
-    descripcion: "El Instituto de Fomento de Andalucía (IFA) compra los activos de la empresa HAMSA para evitar su liquidación, asumiendo la Junta la propiedad de facto de la compañía con fondos públicos."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+ERE/Hamsa+Primayor&numero=492"
-
-  - fecha: 2007-01-01
-    titulo: "Primayor entra en concurso de acreedores"
-    descripcion: "La empresa reestructurada, renombrada como Primayor, entra en crisis y solicita el concurso de acreedores. La Junta de Andalucía sigue concediendo ayudas irregulares a través del mismo sistema de pólizas de seguros."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+ERE/Hamsa+Primayor&numero=492"
-
-  - fecha: 2011-01-01
-    titulo: "La jueza Alaya investiga a 14 implicados en el caso HAMSA-Primayor"
-    descripcion: "La jueza Mercedes Alaya ordena la investigación de 14 ex funcionarios de la Junta, agentes de seguros, directivos y ex trabajadores en relación con las ayudas irregulares concedidas tanto a HAMSA como a Primayor."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+ERE/Hamsa+Primayor&numero=492"
-
-  - fecha: 2019-11-19
-    titulo: "Condenas históricas en el caso ERE del que HAMSA es pieza fundacional"
-    descripcion: "La Audiencia Provincial de Sevilla condena a 19 ex altos cargos de la Junta por el sistema de ERE fraudulentos que tuvo su origen en el caso HAMSA."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/politica/fraude-ere-caso-liquido-hegemonia-psoe-andalucia-seis-claves.html"
+- fecha: '2018-06-12'
+  titulo: Decisión de no incluir a Viera
+  descripcion: Europa Press identifica este auto como la decisión de no traer al exconsejero como investigado en
+    la pieza de ayudas, posteriormente recurrida por Fiscalía.
+  urls:
+  - https://www.europapress.es/andalucia/noticia-juez-nunez-desestima-recurso-fiscalia-contra-no-inclusion-viera-pieza-primayor-20181120141116.html
+  type: recurso
+  relevancia: alta
+- fecha: '2018-11-13'
+  titulo: Rechazo del recurso fiscal sobre Viera
+  descripcion: La noticia del 20 de noviembre fecha el auto el día 13. La instructora mantuvo su decisión siguiendo
+    la doctrina de la Audiencia sobre evitar doble enjuiciamiento; no resolvió la culpabilidad de los demás investigados.
+  urls:
+  - https://www.europapress.es/andalucia/noticia-juez-nunez-desestima-recurso-fiscalia-contra-no-inclusion-viera-pieza-primayor-20181120141116.html
+  type: recurso
+  relevancia: alta
+- fecha: '2020-11-18'
+  titulo: Archivo de la causa distinta del préstamo puente
+  descripcion: Canal Sur informa de un auto firme que ejecuta la decisión de la Audiencia de 28 de octubre y archiva
+    por prescripción las actuaciones sobre el préstamo de 5.829.817 euros. Es un objeto diferente de las ayudas
+    sociolaborales y no se extiende este resultado a ellas.
+  urls:
+  - https://www.canalsur.es/noticias/andalucia/jaen/archivada-causa-chaves-zarrias-carnicas_1_1119123.html
+  type: recurso
+  relevancia: alta
+- fecha: '2022-12-16'
+  titulo: Procedimiento abreviado contra doce personas
+  descripcion: 'El CGPJ difundió el auto el 20 de diciembre: continuidad por posibles delitos de prevaricación,
+    malversación y falsedad; traslado de veinte días para acusar, pedir archivo o diligencias; posibles responsables
+    civiles subsidiarios, exclusión de seis exaltos cargos y sobreseimiento provisional de un trabajador de Vitalia.'
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-de-Sevilla-concluye-la-instruccion-y-continua-el-procedimiento-contra-doce-investigados-en-la-pieza-del-caso-ERE-por-las-ayudas-de-19-9-millones-a-Hamsa-y-Primayor
+  - https://www.europapress.es/andalucia/noticia-procesados-lanzas-once-investigados-mas-ayudas-casi-20-millones-hamsa-primayor-20221220120229.html
+  type: investigación
+  relevancia: alta
+- fecha: '2022-12-27'
+  titulo: Calificación fiscal registrada en la memoria oficial
+  descripcion: La memoria de Fiscalía de 2026 fecha ese día la calificación del expediente DP 275/18–PA 257/22,
+    Hijos de Andrés Molina. No se dispone del escrito para comprobar penas y acusaciones por persona.
+  urls:
+  - https://www.fiscal.es/memorias/memoria2026/FISCALIA_SITE/capitulo_II/cap_II_6_6.html
+  type: documento
+  relevancia: alta
+- fecha: '2024-10-16'
+  titulo: La Audiencia pide alegaciones sobre las sentencias del TC
+  descripcion: Diario de Sevilla informa el 23 de octubre de esta providencia en los recursos contra el auto de
+    2022. El trámite permite alegar sobre su posible incidencia; no demuestra anulación del auto, archivo ni absolución
+    de los doce.
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/audiencia-sevilla-analiza-influencia-sentencias_0_2002612304.html
+  type: recurso
+  relevancia: alta
 ---
+
+La ficha se centra en las ayudas para sufragar pólizas y obligaciones sociolaborales de Hamsa, su asociación de extrabajadores y Primayor. La [nota judicial de diciembre de 2022](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-de-Sevilla-concluye-la-instruccion-y-continua-el-procedimiento-contra-doce-investigados-en-la-pieza-del-caso-ERE-por-las-ayudas-de-19-9-millones-a-Hamsa-y-Primayor) identifica el importe investigado y el trámite procesal. Las críticas del instructor al procedimiento de concesión, la justificación de los fondos y las condiciones de las pólizas son valoraciones indiciarias de una instrucción. No se presentan como hechos probados en sentencia ni se identifica el total de las ayudas con un perjuicio firme.
+
+El auto distingue doce personas contra quienes continúa el procedimiento, seis exaltos cargos excluidos y un trabajador de Vitalia respecto al que acuerda sobreseimiento provisional. La [información de Europa Press](https://www.europapress.es/andalucia/noticia-procesados-lanzas-once-investigados-mas-ayudas-casi-20-millones-hamsa-primayor-20221220120229.html) identifica a los doce con nombres o iniciales y a Jesús María Bordallo como beneficiario del sobreseimiento. No se completan apellidos no contrastados ni se convierte la exclusión de los exaltos cargos en una absolución de fondo. La [resolución de 2018 sobre Viera](https://www.europapress.es/andalucia/noticia-juez-nunez-desestima-recurso-fiscalia-contra-no-inclusion-viera-pieza-primayor-20181120141116.html) tiene su propio recorrido procesal y se recoge con fecha de acto separada de la publicación. No se atribuyen a Griñán u otros responsables condenas propias de esta pieza a partir de la sentencia del procedimiento político.
+
+El instructor dirigió asimismo las actuaciones como posibles responsables civiles subsidiarias contra Primayor Alimentación Andalucía, Primayor Foods, Grupo Campofrío, la asociación de extrabajadores de Hamsa, Vitalia, UGT-A, UGT, Confederación Sindical de CCOO y un despacho de abogados no identificado por la nota. Esa inclusión no constituye una condena civil firme ni permite atribuir responsabilidad penal a todas las entidades. Las relaciones societarias históricas requieren sus documentos propios; no se reduce la sucesión empresarial a un simple cambio de nombre.
+
+La [providencia de octubre de 2024](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/audiencia-sevilla-analiza-influencia-sentencias_0_2002612304.html), conocida a través de la prensa, pidió alegaciones en los recursos contra el auto de continuación por procedimiento abreviado. Se refiere a una posible incidencia de las sentencias del Constitucional, no a una decisión final sobre esos recursos. La [memoria oficial de 2026](https://www.fiscal.es/memorias/memoria2026/FISCALIA_SITE/capitulo_II/cap_II_6_6.html) identifica DP 275/18–PA 257/22, calificación fiscal de 27 de diciembre de 2022 y pendiente de señalamiento. La referencia del 7 de abril de 2026 usada para calcular la espera de los expedientes pendientes no es fecha de juicio celebrado. No se inventa un día de publicación de la memoria.
+
+Debe distinguirse la financiación sociolaboral del préstamo puente de 1999. La [información de Canal Sur de noviembre de 2020](https://www.canalsur.es/noticias/andalucia/jaen/archivada-causa-chaves-zarrias-carnicas_1_1119123.html) reseña la prescripción y archivo definitivo de esa causa distinta, en la que se había investigado a Chaves, Zarrías y otros responsables. La noticia califica de firme el auto del instructor de 18 de noviembre; falta su original para comprobar individualmente el dispositivo, por lo que no se hace una declaración autónoma de firmeza para las personas de la pieza sociolaboral. Los 5,8 millones del préstamo tampoco se suman a los 19,9 millones de ayudas como daño.
+
+A 17 de octubre de 2026 quedan sin acreditar los originales de los autos y de la providencia, las penas solicitadas, los nombres de todos los exaltos cargos excluidos, el resultado final de los recursos y cualquier juicio o sentencia posterior. No se presume continuidad ni cierre por silencio informativo. Se omiten las fechas de inicio no verificadas y no se incorporan documentos judiciales en PDF sin original comprobado.
