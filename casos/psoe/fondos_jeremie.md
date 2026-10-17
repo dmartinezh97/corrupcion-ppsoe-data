@@ -1,177 +1,87 @@
 ---
-nombre: "Caso Fondos Jeremie"
+nombre: Caso Fondos Jeremie
 partido: PSOE
-completado: true
+completado: false
 año: 2015
-fechaInicio: 2015-09-28
-fechaFin: ""
-estado: en investigación
-lugar: "Andalucía, España"
-coste: 235000000
-descripcion: |
-  El Caso Fondos Jeremie (Joint European Resources for Micro to Medium Enterprises) investiga la gestión irregular de 235 millones de euros de fondos europeos FEDER canalizados a través de la Junta de Andalucía entre 2007 y 2013. De ese total, 165 millones procedían de la Unión Europea y 70 millones aportó la propia Junta. La Agencia IDEA actuó como gestora del fondo, distribuyendo el dinero mediante dos filiales: Soprea, que administraba 185 millones del instrumento multiproducto, e Invercaria, que gestionaba 50 millones de capital riesgo. El fondo tenía como objetivo declarado facilitar préstamos, avales y participaciones de capital a pymes andaluzas que no podían acceder a financiación convencional.
-
-  En septiembre de 2015 la Unidad contra la Delincuencia Económica y Fiscal (UDEF) entregó al Juzgado de Instrucción número 16 de Sevilla un atestado que denunciaba graves irregularidades en la concesión de las ayudas. El informe policial señalaba que de las 17 operaciones analizadas en un muestreo inicial, la mayoría habían ido a parar a empresas que incumplían los requisitos del fondo: compañías en situación de crisis financiera, empresas de sectores excluidos expresamente por la normativa comunitaria —como la producción audiovisual—, beneficiarios que superaban el límite máximo de cinco millones por empresa, y entidades con vínculos directos con directivos de la propia IDEA o Invercaria. Diez de las diecisiete empresas analizadas acabaron en concurso de acreedores. La Comisión Europea bloqueó 115 millones de euros al detectar que los gastos no habían sido correctamente certificados y que existían posibles irregularidades en los sistemas de gestión y control del fondo.
-
-  En octubre de 2015 la Fiscalía Anticorrupción solicitó separar la investigación de Invercaria para abrir una causa propia sobre los fondos Jeremie, petición que atendió el Juzgado de Instrucción número 5 de Sevilla. En noviembre de 2020, tras cinco años de diligencias e instrucción, la jueza abrió 14 piezas separadas para investigar de forma individualizada cada una de las operaciones con fondos europeos concedidas entre 2007 y 2013 por un importe total de 185 millones de euros. En paralelo, la macrocausa Invercaria, origen del Caso Jeremie, acumuló decenas de piezas con múltiples condenas al expresidente de Invercaria Tomás Pérez-Sauquillo —cuya pena fue elevada por el Tribunal Supremo a cuatro años y medio de prisión en septiembre de 2024— mientras nuevas piezas separadas siguen su curso hacia juicio oral.
-
-resumen: "Investigación sobre el reparto irregular de 235 millones de fondos europeos a empresas sin requisitos en Andalucía."
+estado: Desenlace de las piezas no acreditado
+lugar: Andalucía
+resumen: Investigación de operaciones de financiación empresarial del fondo Jeremie gestionadas a través de Soprea, separada
+  de Invercaria.
+descripcion: La investigación del Juzgado de Instrucción número 5 de Sevilla se abrió en 2015 sobre operaciones del fondo
+  Jeremie gestionadas por Soprea, dentro de un ámbito de financiación de 185 millones de euros. Esa cifra y los 235 millones
+  de dotación global del programa no son perjuicio acreditado. En noviembre de 2020 se informó de la apertura de catorce
+  piezas por operaciones concretas. No se han recuperado sus autos originales ni se documenta el desenlace individual
+  o de cada pieza a 15 de octubre de 2026; tampoco se presume que sigan abiertas por falta de noticias. No se atribuye
+  condición de investigado a personas mencionadas en informes policiales o por vínculos empresariales sin respaldo específico.
+  Las condenas y absoluciones de otras piezas de Invercaria no resuelven esta causa. La morosidad o el concurso de una
+  empresa tampoco equivalen por sí solos a fraude o daño penal.
 tribunal:
-  - "Juzgado de Instrucción nº 16 de Sevilla"
-  - "Juzgado de Instrucción nº 5 de Sevilla"
-  - "Audiencia Provincial de Sevilla"
-  - "Tribunal Supremo"
-numeroSentencia: ""
+- Juzgado de Instrucción número 5 de Sevilla (investigación Jeremie)
+- Juzgado de Instrucción número 16 de Sevilla (remisión desde Invercaria)
+implicados: []
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "fraude"
-  - "fondos europeos"
-impactoSocial: "La Comisión Europea bloqueó 115 millones de euros por las irregularidades detectadas; el caso derivó en decenas de piezas separadas y es uno de los mayores escándalos de gestión de fondos públicos de la Junta de Andalucía socialista."
-implicados:
-  - nombre: "Tomás Pérez-Sauquillo"
-    cargo: "Expresidente de Invercaria (Agencia IDEA)"
-    rol: "Condenado por prevaricación y malversación en múltiples piezas separadas"
-
-  - nombre: "Mariano Sánchez Pobre Bejarano"
-    cargo: "Exdirector de Soprea (Agencia IDEA)"
-    rol: "Investigado por conceder 5 millones a Kandor Graphics y fichado por esta el día siguiente"
-
-  - nombre: "Laura Gómiz Nogales"
-    cargo: "Expresidenta de Invercaria"
-    rol: "Investigada por su relación con Bogaris Retail 5, beneficiaria de 10 millones del fondo"
-
-  - nombre: "Juan Martínez-Barea"
-    cargo: "Exsecretario General de Innovación de la Junta de Andalucía"
-    rol: "Investigado por participar en Universal Diagnostics, que recibió 2,5 millones del fondo"
-
-  - nombre: "Iván Chaves"
-    cargo: "Asesor de Bogaris Retail 5; hijo del expresidente Manuel Chaves"
-    rol: "Investigado por su papel como asesor de empresa beneficiaria de 10 millones del fondo"
-
-  - nombre: "Jacinto Cañete"
-    cargo: "Exdirector General de IDEA"
-    rol: "Procesado por el desvío de fondos públicos en pieza separada del caso Invercaria"
-
-  - nombre: "Antonio Valverde Ramos"
-    cargo: "Exdirector General de IDEA"
-    rol: "Procesado por el desvío de fondos públicos en pieza separada del caso Invercaria"
-
-  - nombre: "Kandor Graphics S.L."
-    cargo: "Productora de animación granadina"
-    rol: "Beneficiaria de 5 millones pese a ser un sector expresamente excluido por la normativa FEDER"
-
-  - nombre: "Bogaris Retail 5 S.L."
-    cargo: "Empresa inmobiliaria"
-    rol: "Recibió 10 millones del fondo en siete días sin cumplir los requisitos exigidos"
-
-  - nombre: "Universal Diagnostics S.L."
-    cargo: "Startup de biomedicina"
-    rol: "Recibió préstamo participativo de 2,5 millones con vínculos a ex alto cargo de la Junta"
-
+- Fondos europeos
+- Financiación empresarial
+- Jeremie
+impactoSocial: La investigación plantea el control de instrumentos europeos de financiación de pymes. Deben distinguirse
+  sus riesgos económicos, los posibles incumplimientos administrativos y las responsabilidades penales que requieren
+  prueba individual.
 documentos: []
 cronologia:
-  - fecha: "2007-01-01"
-    titulo: "Arranque del Fondo Jeremie en Andalucía"
-    descripcion: "La Junta de Andalucía, a través de la Agencia IDEA, pone en marcha el instrumento financiero Jeremie con 235 millones de euros (165 de FEDER y 70 de aportación autonómica) para facilitar financiación a pymes. Invercaria gestiona el tramo de capital riesgo (50 millones) y Soprea el instrumento multiproducto (185 millones). Las ayudas se canalizarán entre 2007 y 2013."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Fondos+Jeremie&numero=165"
-
-  - fecha: "2013-01-01"
-    titulo: "La Cámara de Cuentas detecta graves incumplimientos en Soprea"
-    descripcion: "La Cámara de Cuentas de Andalucía elabora dos informes de auditoría sobre Soprea en los que detecta graves incumplimientos de la normativa aplicable. Como consecuencia de estos hallazgos, la Comisión Europea interrumpe todos los pagos FEDER relacionados con los fondos Jeremie gestionados por IDEA."
-    type: "documento"
-    urls:
-      - "https://www.libremercado.com/2013-06-07/la-junta-exige-a-la-camara-de-cuentas-que-cambie-su-informe-sobre-soprea-1276492273/"
-
-  - fecha: "2015-09-28"
-    titulo: "La UDEF amplía el atestado sobre las ayudas Jeremie"
-    descripcion: "La Unidad contra la Delincuencia Económica y Fiscal entrega al Juzgado de Instrucción nº 16 de Sevilla un atestado ampliatorio que detalla presuntas irregularidades en las ayudas gestionadas por Soprea e Invercaria. El informe señala que de 17 operaciones analizadas, la mayoría fueron a empresas en crisis, en sectores excluidos o con vínculos con directivos de IDEA. Entre los casos destacados figura el de Kandor Graphics, que recibió cinco millones pese a que la producción audiovisual está expresamente excluida por la normativa FEDER, y que contrató al exdirector de Soprea el día después de que este abandonara el cargo público."
-    type: "investigación"
-    urls:
-      - "https://www.elindependientedegranada.es/ciudadania/ayudas-publicas-kandor-graphics-investigacion-judicial"
-      - "https://red.diariocritico.com/mvc/amp/noticia/1504825/"
-
-  - fecha: "2015-10-01"
-    titulo: "La Comisión Europea bloquea 115 millones de euros de fondos Jeremie"
-    descripcion: "La Comisión Europea mantiene bloqueados 115 millones de euros correspondientes a los instrumentos financieros Jeremie concedidos a Andalucía para el periodo 2007-2013 porque entiende que los gastos no han sido correctamente certificados. Bruselas estudia posibles irregularidades en los sistemas de gestión y control establecidos por la Agencia IDEA."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/andalucia/Comision-Europea-millones-Fondos-Jeremie_0_444106941.html"
-
-  - fecha: "2015-10-06"
-    titulo: "Anticorrupción pide separar la causa de Invercaria para investigar los Jeremie"
-    descripcion: "La Fiscalía Anticorrupción solicita al Juzgado de Instrucción nº 16 de Sevilla que eleve escrito al juez para abrir una pieza separada y específica destinada a investigar los 185 millones del fondo Jeremie gestionados por Soprea, independizándola del macrocaso Invercaria."
-    type: "denuncia"
-    urls:
-      - "https://red.diariocritico.com/mvc/amp/noticia/1505180/"
-      - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1145700"
-
-  - fecha: "2015-10-15"
-    titulo: "El Juzgado nº 5 de Sevilla abre diligencias por los fondos Jeremie"
-    descripcion: "La jueza de Instrucción nº 5 de Sevilla admite la petición de la Fiscalía Anticorrupción y activa una investigación propia sobre la gestión de los fondos Jeremie por parte de Soprea y la Agencia IDEA, separándola de la causa Invercaria que instruyó el Juzgado nº 16."
-    type: "investigación"
-    urls:
-      - "https://red.diariocritico.com/mvc/amp/noticia/1505585/"
-
-  - fecha: "2016-09-09"
-    titulo: "El caso Invercaria suma nueve nuevos investigados, tres ex altos cargos de la Junta"
-    descripcion: "Una pieza separada del macrocaso Invercaria incorpora a nueve nuevos investigados, entre ellos tres ex altos cargos de la Junta de Andalucía, en relación con las ayudas concedidas a la empresa Cedes Electria. Esta compañía recibió fondos Jeremie a través de Soprea por importe de 2,94 millones de euros y otros 1,55 millones de Invercaria, fondos que presuntamente se desviaron a nóminas y honorarios de asesoría."
-    type: "imputación"
-    urls:
-      - "https://www.libertaddigital.com/espana/2016-09-09/el-caso-invercaria-aporta-nueve-investigados-mas-tres-de-ellos-ex-altos-cargos-de-la-junta-1276582083/"
-
-  - fecha: "2019-09-16"
-    titulo: "Arranca el primer juicio oral del macrocaso Invercaria"
-    descripcion: "Se celebra el primer juicio oral de las piezas separadas del macrocaso Invercaria en Sevilla. El caso Invercaria, del que deriva el Caso Jeremie, acumula más de treinta piezas separadas en distintas fases de instrucción o enjuiciamiento."
-    type: "sentencia"
-    urls:
-      - "https://www.libertaddigital.com/andalucia/2019-09-16/arranca-el-primer-juicio-del-macrocaso-invercaria-con-el-psoe-al-fondo-1276644798/"
-
-  - fecha: "2020-11-18"
-    titulo: "Reactivación del caso Jeremie: 14 piezas separadas"
-    descripcion: "Tras cinco años de instrucción en los que se digitalizó todo el expediente y se recibieron los informes periciales decisivos, la jueza instructora del Juzgado nº 5 de Sevilla acuerda la apertura de 14 piezas separadas para investigar de forma individualizada cada operación con fondos europeos concedida entre 2007 y 2013, por un importe total de 185 millones de euros. El caso se configura como una macrocausa derivada de Invercaria."
-    type: "investigación"
-    urls:
-      - "https://www.libertaddigital.com/andalucia/2020-11-18/reactivado-al-caso-jeremie-otro-macrocaso-de-corrupcion-de-la-etapa-socialista-en-andalucia-6681687/"
-
-  - fecha: "2021-11-05"
-    titulo: "Nuevas condenas en el caso Invercaria"
-    descripcion: "La Audiencia Provincial de Sevilla dicta nuevas condenas en el macrocaso Invercaria, que incluye piezas separadas relacionadas con fondos Jeremie. Tomás Pérez-Sauquillo, expresidente de Invercaria, acumula ya varias sentencias condenatorias por prevaricación y malversación en distintas piezas."
-    type: "sentencia"
-    urls:
-      - "https://www.libertaddigital.com/andalucia/2021-11-05/mas-condenas-en-el-caso-invercaria-y-16-imputados-en-el-caso-aznalcollar-la-corrupcion-socialista-andalucia-arrecia-6834854/"
-
-  - fecha: "2024-09-19"
-    titulo: "El Tribunal Supremo eleva a cuatro años y medio la condena al expresidente de Invercaria"
-    descripcion: "El Tribunal Supremo estima parcialmente el recurso del Ministerio Fiscal y eleva a cuatro años y medio de prisión la condena a Tomás Pérez-Sauquillo, expresidente de Invercaria, por un delito continuado de prevaricación en concurso medial con malversación, relacionado con la elevación irregular de salarios en la empresa pública más allá de los límites fijados en las leyes de Presupuestos. Se le impone también ocho años de inhabilitación absoluta."
-    type: "sentencia"
-    urls:
-      - "https://www.canalsur.es/noticias/andalucia/sevilla/el-tribunal-supremo-eleva-a-cuatro-anos-y-medio-de-carcel-la-condena-al-expresidente-de-invercaria/2080194.html"
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-al-expresidente-de-Invercaria-por-prevaricacion-y-malversacion-por-la-concesion-irregular-de-un-prestamo-de-100-000-euros"
-
-  - fecha: "2026-02-25"
-    titulo: "El juez cierra la instrucción de Invercaria y procesa a siete exdirigentes del PSOE"
-    descripcion: "El magistrado instructor del Juzgado de Instrucción nº 16 de Sevilla, Juan Gutiérrez Casillas, cierra la instrucción de la última pieza del macrocaso Invercaria y decreta la apertura de juicio oral contra siete exdirigentes del PSOE de Andalucía. Entre los procesados figuran el expresidente de Invercaria Tomás Pérez-Sauquillo, los exdirectores generales de IDEA Jacinto Cañete y Antonio Valverde Ramos, y otros exdirectivos. Se les acusa del presunto desvío de más de seis millones concedidos entre 2008 y 2012 a la mercantil TS Acabados y Encuadernaciones S.L."
-    type: "sentencia"
-    urls:
-      - "https://www.libertaddigital.com/espana/2026-02-25/se-abre-un-nuevo-juicio-contra-exdirigentes-del-psoe-de-andalucia-tras-14-anos-de-instruccion-7365230/"
-
-  - fecha: "2026-03-18"
-    titulo: "La Audiencia de Sevilla condena al expresidente de Invercaria por préstamos a un astillero en Jaén"
-    descripcion: "La Sección Cuarta de la Audiencia Provincial de Sevilla condena a Tomás Pérez-Sauquillo a tres años y seis meses de prisión y ocho años de inhabilitación absoluta por la concesión irregular de préstamos a la empresa Astraea Astilleros, con domicilio en Lopera (Jaén). El tribunal le impone además el pago de 300.000 euros de indemnización a la sociedad por no haber observado las mínimas cautelas en la gestión de los fondos públicos de Invercaria."
-    type: "sentencia"
-    urls:
-      - "https://theobjective.com/espana/tribunales/2026-03-18/condenado-ex-alto-cargo-junta-de-andalucia/"
-      - "https://www.infobae.com/espana/agencias/2026/03/18/condenado-a-tres-anos-de-carcel-el-expresidente-de-invercaria-por-prestamos-a-astraea-astilleros/"
-
-  - fecha: "2026-06-15"
-    titulo: "Séptima absolución del expresidente de Invercaria por el crédito de los badenes inteligentes"
-    descripcion: "La Sección Primera de la Audiencia de Sevilla absuelve a Tomás Pérez-Sauquillo y al administrador de la mercantil Badennova del crédito de 103.000 euros concedido por Invercaria para desarrollar unos 'badenes inteligentes'. El tribunal concluye que el fracaso del proyecto no implica prevaricación y que el préstamo se ajustó a la legalidad y a los objetivos de Invercaria. Con esta son ya siete las absoluciones del expresidente de la empresa pública, frente a las seis condenas que acumula en otras piezas de la macrocausa."
-    type: "sentencia"
-    relevancia: "media"
-    urls:
-      - "https://www.elmundo.es/andalucia/2026/06/15/6a2ff24be9cf4ae4368b4580.html"
+- fecha: '2009-02-24'
+  titulo: Acuerdo de financiación del fondo de cartera
+  descripcion: La reseña de Europa Press de 2016 identifica el acuerdo entre IDEA y la Consejería de Economía y Hacienda
+    de esta fecha, dentro del programa FEDER 2007-2013. No se confunde el periodo del programa con el día de constitución
+    del instrumento ni con el inicio de la causa penal.
+  urls:
+  - https://www.europapress.es/andalucia/sevilla-00357/noticia-juez-jeremie-quiere-evitar-instrumentalice-causa-claras-connotaciones-politicas-20160303115522.html
+  type: judicial
+  relevancia: alta
+- fecha: '2015-10-15'
+  titulo: Se conoce la apertura de diligencias en el Juzgado número 5
+  descripcion: La prensa informa de la apertura de una causa separada de Invercaria tras la petición fiscal y un atestado
+    sobre operaciones financiadas a través de Soprea. Es fecha de publicación; no se ha verificado el día del auto de
+    apertura.
+  urls:
+  - https://www.20minutos.es/noticia/2580160/0/jueza-investigacion/gestion-fondos-jeremie/junta-andalucia/
+  type: judicial
+  relevancia: alta
+- fecha: '2015-12-03'
+  titulo: Resolución sobre personaciones
+  descripcion: Según Europa Press, un auto de esta fecha rechazó la personación solicitada por IDEA y condicionó la de
+    Manos Limpias como acusación popular a una fianza de 1.000 euros. Es una garantía procesal, no daño o multa.
+  urls:
+  - https://www.europapress.es/andalucia/sevilla-00357/noticia-juez-jeremie-quiere-evitar-instrumentalice-causa-claras-connotaciones-politicas-20160303115522.html
+  type: judicial
+  relevancia: alta
+- fecha: '2016-02-25'
+  titulo: Resolución sobre la fianza de la acusación popular
+  descripcion: La noticia de Europa Press del 3 de marzo reseña una resolución de esta fecha que rechazó el recurso contra
+    la fianza. En ese momento, según el auto reseñado, aún no se había dirigido el procedimiento contra persona física
+    o jurídica alguna. Ese dato no se convierte en estado actual.
+  urls:
+  - https://www.europapress.es/andalucia/sevilla-00357/noticia-juez-jeremie-quiere-evitar-instrumentalice-causa-claras-connotaciones-politicas-20160303115522.html
+  type: judicial
+  relevancia: alta
+- fecha: '2020-11-18'
+  titulo: Se conoce la división en catorce piezas
+  descripcion: Diario de Sevilla informa de la apertura de catorce piezas, una por operación investigada, tras la recepción
+    de documentación e informe de OLAF. La noticia describe la futura identificación de posibles responsables; no acredita
+    por sí sola acusaciones o condenas individuales. La fecha del hito es de publicación.
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/juez-abre-14-piezas-separadas-investigar-reparto-millones-185-fondos-Jeremie_0_1520548298.html
+  type: judicial
+  relevancia: alta
 ---
+
+La investigación Jeremie se separó de Invercaria y fue repartida al Juzgado de Instrucción número 5 de Sevilla. La reseña judicial de 2016 señalaba que eran causas distintas e independientes y que, a esa fecha, no se había dirigido el procedimiento contra ninguna persona física o jurídica. En 2020 la prensa informó de catorce piezas para analizar operaciones concretas. No se dispone de sus resultados posteriores.
+
+El ámbito de 185 millones de euros corresponde a financiación examinada mediante Soprea; los 235 millones se citaban como dotación del fondo global. No se presenta ninguno de esos importes como dinero defraudado. El atestado reseñado mencionaba diecisiete proyectos por 62 millones y operaciones como Kandor Graphics, Bogaris y Urende. Sus importes y la existencia de vínculos empresariales son hechos distintos de una imputación judicial y de una condena.
+
+Las observaciones policiales sobre selección de empresas o compatibilidad de ayudas fueron discutidas por la Junta, que defendió su gestión. No se convierten esas posiciones en un fallo judicial. Una actualización de El País de mayo de 2026 aclaró que una persona citada en su información inicial no había sido imputada y anonimizó su identidad; por ello no se reproducen atribuciones nominales de investigado basadas solo en esa información.
+
+La fiscalización de la Cuenta General de 2024 por la Cámara de Cuentas recoge, en su apartado 22.38, veinte operaciones con dificultades de pago por 17,30 millones de euros en el Fondo de Cartera Jeremie. El propio informe advierte que son riesgos máximos teóricos sin descontar garantías y que no pudo contrastar esa información con las cuentas anuales. No se trata de daño penal declarado ni de un resultado de las catorce piezas judiciales.
+
+Las sentencias sobre salarios de Invercaria, préstamos a astilleros, Badennova u otras inversiones requieren delimitar su operación y fuente de financiación. No se trasladan aquí condenas o absoluciones de esos expedientes como resultado general de Jeremie. Tampoco se acredita firmeza, archivo o continuidad actual por falta de noticias.
+
+Fuentes: [apertura de diligencias, 2015](https://www.20minutos.es/noticia/2580160/0/jueza-investigacion/gestion-fondos-jeremie/junta-andalucia/), [reseña judicial de personaciones, 2016](https://www.europapress.es/andalucia/sevilla-00357/noticia-juez-jeremie-quiere-evitar-instrumentalice-causa-claras-connotaciones-politicas-20160303115522.html), [división en piezas, 2020](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/juez-abre-14-piezas-separadas-investigar-reparto-millones-185-fondos-Jeremie_0_1520548298.html), [información de El País con actualización de 2026](https://elpais.com/politica/2015/10/15/actualidad/1444910390_318275.html) y [fiscalización de la Cuenta General de 2024, apartado 22.38](https://www.ccuentas.es/sites/default/files/2025-12/JA-01-2025-DEF.pdf).
