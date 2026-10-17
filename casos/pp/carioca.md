@@ -42,7 +42,7 @@ implicados:
     omisión del deber de perseguir delitos.
 - nombre: José Manuel García Adán
   cargo: Dueño de los clubes de alterne Queens y La Colina (Lugo)
-  rol: Considerado cabecilla de la trama por la Audiencia y la Fiscalía. Condenado en la pieza principal (2024)
+  rol: Descrito como cabecilla de la trama por la prensa. Condenado en la pieza principal (2024)
     por cohecho pasivo mediante conformidad, con pena de multa. Ya había sido condenado en otras piezas de
     la macrocausa por delitos relativos a la prostitución y, en 2022, por blanqueo de capitales y contra la
     Hacienda Pública. Absuelto de falsedad documental por prescripción según noticia del 7 de julio de 2022;
@@ -52,7 +52,7 @@ implicados:
   rol: Condenado en la pieza principal (2024) por cohecho pasivo mediante conformidad, con pena de multa. En
     la pieza del club Eros (2020) había aceptado por conformidad tres años y seis meses de prisión, multa de
     4.000 euros e indemnización de 6.000 euros.
-- nombre: Jesús González Varela
+- nombre: Jesús Varela
   cargo: Dueño del club de alterne Eclipse (Ribadeo, Lugo)
   rol: Conocido como «Suso». Condenado en la pieza principal (2024) por cohecho pasivo mediante conformidad,
     con pena de multa.
@@ -103,8 +103,7 @@ cronologia:
 - fecha: "2009-10-16"
   titulo: Entradas y registros y primeras detenciones
   descripcion: La operación se hace pública con entradas y registros en clubes de alterne y domicilios de la
-    provincia de Lugo, entre ellos el club Eros, donde se intervinieron dos pistolas. La prensa cifra en una
-    veintena las detenciones. Entre los investigados hay agentes de la Guardia Civil destinados al control
+    provincia de Lugo, entre ellos el club Eros, donde se intervinieron dos pistolas.  Entre los investigados hay agentes de la Guardia Civil destinados al control
     de extranjería y dueños de clubes. El cabo Armando Lorenzo ingresó en prisión provisional el 22 de octubre
     de 2009.
   type: detención
@@ -126,8 +125,8 @@ cronologia:
   titulo: Auto de conclusión de la instrucción de la pieza principal
   descripcion: 'La jueza Pilar de Lara firma el auto de conclusión de la instrucción de la pieza principal,
     más de diez años después de su inicio. La pieza queda con cinco investigados: los dueños de los clubes
-    Queens, Eros y Eclipse y dos guardias civiles. El auto suma 274 tomos y 36 tomos de transcripciones de
-    conversaciones telefónicas y atribuye numerosos delitos, entre ellos cohecho, omisión del deber de perseguir
+    Queens, Eros y Eclipse y dos guardias civiles. La causa suma 274 tomos y otros 36 de transcripciones de
+    conversaciones telefónicas; el auto atribuye numerosos delitos, entre ellos cohecho, omisión del deber de perseguir
     delitos, revelación de secretos y agresión y abuso sexual. La resolución no era firme y admitía recurso
     de reforma. La fecha del auto consta en la información de Europa Press/GaliciaPress, que lo cita; no se
     ha consultado el auto original.'
@@ -179,7 +178,7 @@ cronologia:
   descripcion: Arranca en la Audiencia Provincial de Lugo el juicio de la pieza principal, con cinco acusados.
     Cuatro de ellos —el cabo Armando Lorenzo, el proxeneta José Manuel García Adán (que declaró por videoconferencia
     desde la prisión de Mansilla de las Mulas, donde cumplía otra condena) y los dueños de clubes José Marcos
-    Grandío Ascariz y Jesús González Varela— reconocen los hechos y alcanzan acuerdos de conformidad con la
+    Grandío Ascariz y Jesús Varela— reconocen los hechos y alcanzan acuerdos de conformidad con la
     Fiscalía. El brigada Julio Baquero es el único que no pacta y pide la nulidad de las actuaciones. La Fiscalía
     solicitaba inicialmente 21 años de prisión para Armando Lorenzo por una decena de delitos. La sentencia
     original confirma que la vista se celebró los días 4 y 5 de junio.
@@ -200,7 +199,7 @@ cronologia:
     la prostitución, un delito de agresión sexual y un delito de extorsión, con las atenuantes de dilaciones
     indebidas y reparación del daño; le absuelve de la omisión de perseguir delitos en relación con un matrimonio.
     Condena por cohecho pasivo, con penas de multa (2.000 euros a dos de ellos y 1.000 al otro), a los proxenetas
-    José Manuel García Adán, José Marcos Grandío Ascariz y Jesús González Varela, por conformidad. Absuelve
+    José Manuel García Adán, José Marcos Grandío Ascariz y Jesús Varela, por conformidad. Absuelve
     al brigada Julio Baquero. La fecha y el número de la resolución constan en la cabecera del texto publicado
     por el CENDOJ; el TSXG la dio a conocer el 17 de julio de 2024. La firmeza de la sentencia es desconocida
     y la conformidad de los condenados no la presupone. El fallo precisa la sustitución de la pena corta por
