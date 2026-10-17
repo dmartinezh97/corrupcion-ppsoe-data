@@ -83,6 +83,13 @@ cronologia:
   relevancia: alta
   urls:
   - https://www.malagahoy.es/malaga/Nozal-presunto-concejal-Podemos-Mijas_0_1184282200.html
+- fecha: '2018-06-20'
+  titulo: Continuación por procedimiento abreviado, según la noticia que resume el auto de apelación
+  descripcion: Mijas Comunicación relata como antecedente del auto de 2019 que el Juzgado de Instrucción número 2 de Fuengirola acordó el 20 de junio de 2018 continuar las actuaciones contra Nozal y Martín por procedimiento abreviado. No se ha obtenido ese auto original. La posterior resolución de apelación se describe por separado y no se presume su alcance respecto de ambos.
+  type: investigación
+  relevancia: media
+  urls:
+  - https://mijascomunicacion.com/actualidad/16202/la-audiencia-provincial-exculpa-a-nozal-de-un-supuesto-delito-de-cohecho-en-el-caso-mijas/
 - fecha: '2019-03-07'
   titulo: Sobreseimiento provisional respecto de Nozal, según noticia posterior
   descripcion: Mijas Comunicación publica el 14 de marzo que la Audiencia Provincial de Málaga acordó el día 7 el
@@ -99,8 +106,8 @@ cronologia:
 
 Revisión a 17 de octubre de 2026. El resultado judicial descrito procede de una noticia que cita el auto de 2019; no se ha recuperado la resolución original ni una constancia de firmeza o reapertura. Se mantiene `documentos: []` y la revisión documental incompleta. No se generalizan los archivos de otras causas ni se deduce un desenlace del silencio informativo posterior.
 
-La [página y acta municipal de 29 de septiembre de 2016](https://videoacta.mijas.es/VIDEOACTA/Pleno.jsp?fecha=2016-09-29&id=77), consultadas en sus pasajes nominales y de presidencia, recogen a José Ángel Nozal Lajo, Santiago Martín Villamor, Francisco Martínez Ávila y Juan Carlos Maldonado Estévez y sus grupos municipales. Se usan para identificar nombres y cargos, no como prueba del ofrecimiento denunciado. Las fuentes nominales evitan equiparar identidades con seudónimos judiciales.
+La [página y borrador de acta municipal de 29 de septiembre de 2016](https://videoacta.mijas.es/VIDEOACTA/Pleno.jsp?fecha=2016-09-29&id=77), consultados en sus pasajes nominales y de presidencia, recogen a José Ángel Nozal Lajo, Santiago Martín Villamor, Francisco Martínez Ávila y Juan Carlos Maldonado Estévez y sus grupos municipales. Se usan para identificar nombres y cargos, no como prueba del ofrecimiento denunciado. Las fuentes nominales evitan equiparar identidades con seudónimos judiciales.
 
-Se corrige la referencia municipal a una exigencia de dimisión: la nota enlazada estaba fechada el 24 de marzo de 2017, no el 16. Sus juicios políticos y alusiones a otros procedimientos no se trasladan como hechos probados. La noticia de Ciudadanos que figuraba en noviembre de 2017 era del 16 de mayo de 2023 y trataba de Sobresueldos y otra denuncia, por lo que se retira de esta cronología. También se retiran las entradas sin día preciso, la afirmación de archivo general basada en Wikipedia y la causalidad electoral no documentada.
+Se corrige la referencia municipal a una exigencia de dimisión: el cuerpo de la nota enlazada lleva fecha de 24 de marzo de 2017 y su cabecera muestra el 29, sin que respalde el día 16. Sus juicios políticos y alusiones a otros procedimientos no se trasladan como hechos probados. La noticia de Ciudadanos que figuraba en noviembre de 2017 era del 16 de mayo de 2023 y trataba de Sobresueldos y otra denuncia, por lo que se retira de esta cronología. También se retiran las entradas sin día preciso, la afirmación de archivo general basada en Wikipedia y la causalidad electoral no documentada.
 
 Las noticias sobre contratos del restaurante de Martín en Diputación reflejaban denuncias políticas distintas: no acreditan un pago del supuesto soborno ni un perjuicio de este procedimiento y no se agregan a un coste. Quedan pendientes el desenlace individual de Martín, el original del auto y la identificación del procedimiento y de cualquier recurso posterior.
