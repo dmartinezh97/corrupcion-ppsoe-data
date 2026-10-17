@@ -15,7 +15,7 @@ descripcion: 'La investigación penal examinó los acuerdos de 2013 entre Mercam
 
   Los 11 millones difundidos por los denunciantes eran una estimación de alquileres hasta 2032, no un perjuicio
   penal declarado. La deuda de cánones de 698.397,70 euros se reconoció para compensarla con rentas futuras. El
-  alquiler era de 592.208,40 euros ANUALES más IVA durante los dos primeros años y de 623.377,20 euros anuales después;
+  alquiler era de 592.208,40 euros anuales más IVA durante los dos primeros años y de 623.377,20 euros anuales después;
   el supuesto sobreprecio del 81% procedía de un informe invocado por la acusación. La Fiscalía terminó solicitando
   el archivo al no apreciar indicios suficientes.
 
@@ -37,15 +37,15 @@ numeroSentencia: 'Civil: SAP Madrid 17/2025, de 31 de enero (ECLI:ES:APM:2025:16
 implicados:
 - nombre: Concepción Dancausa Treviño
   cargo: Presidenta del Consejo de Administración de Mercamadrid (2013)
-  rol: Investigado en la causa que fue sobreseída provisionalmente en julio de 2018, según la relación publicada
+  rol: Investigada en la causa que fue sobreseída provisionalmente en julio de 2018, según la relación publicada
     por Confilegal; sin condena penal documentada en este procedimiento.
 - nombre: María Jesús Prieto Jiménez
   cargo: Vicepresidenta 1ª del Consejo de Administración de Mercamadrid
-  rol: Investigado en la causa que fue sobreseída provisionalmente en julio de 2018, según la relación publicada
+  rol: Investigada en la causa que fue sobreseída provisionalmente en julio de 2018, según la relación publicada
     por Confilegal; sin condena penal documentada en este procedimiento.
 - nombre: María Dolores Fernández Cerdán
   cargo: Vicepresidenta 2ª del Consejo de Administración de Mercamadrid
-  rol: Investigado en la causa que fue sobreseída provisionalmente en julio de 2018, según la relación publicada
+  rol: Investigada en la causa que fue sobreseída provisionalmente en julio de 2018, según la relación publicada
     por Confilegal; sin condena penal documentada en este procedimiento.
 - nombre: Pablo Manuel González González
   cargo: Vocal del Consejo de Administración de Mercamadrid
@@ -65,11 +65,11 @@ implicados:
     por Confilegal; sin condena penal documentada en este procedimiento.
 - nombre: Marta Fernández-Pirla Martínez
   cargo: Vocal del Consejo de Administración de Mercamadrid
-  rol: Investigado en la causa que fue sobreseída provisionalmente en julio de 2018, según la relación publicada
+  rol: Investigada en la causa que fue sobreseída provisionalmente en julio de 2018, según la relación publicada
     por Confilegal; sin condena penal documentada en este procedimiento.
 - nombre: Silvia Llerena Muñoz
   cargo: Vocal del Consejo de Administración de Mercamadrid
-  rol: Investigado en la causa que fue sobreseída provisionalmente en julio de 2018, según la relación publicada
+  rol: Investigada en la causa que fue sobreseída provisionalmente en julio de 2018, según la relación publicada
     por Confilegal; sin condena penal documentada en este procedimiento.
 - nombre: José Ignacio Ortega Cachón
   cargo: Vocal del Consejo de Administración de Mercamadrid
@@ -101,8 +101,8 @@ implicados:
   rol: Director general mencionado en la denuncia fiscal de 2017 como facultado para negociar; dimitió el 31 de
     octubre de 2013. No se individualiza aquí su situación penal sin resolución nominal.
 - nombre: José Domingo Rodríguez Losada
-  cargo: Propietario de Merca Ocio 22 S.L.
-  rol: Empresario vinculado a Merca Ocio; no se le atribuye una condena penal en esta ficha.
+  cargo: Propietario de Konin 22 según la denuncia municipal de 2016
+  rol: Mencionado en la denuncia municipal como propietario de la adjudicataria inicial. No se determina su situación procesal ni se le atribuye una condena en esta ficha.
 tags:
 - corrupción
 - administración desleal
@@ -128,9 +128,8 @@ cronologia:
   urls:
   - https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/08Viernes/Notasprensa/Fiscalia/ficheros/DenunciaFiscalia.pdf
 - fecha: '2003-05-09'
-  titulo: Cesión de los derechos a Merca Ocio
-  descripcion: Según la documentación municipal de denuncia, la cesión se formalizó en escritura pública en esta
-    fecha.
+  titulo: Escritura de adjudicación de derechos de superficie citada por la denuncia
+  descripcion: La denuncia municipal menciona una escritura pública de esta fecha al relatar la posterior pretensión de resolución parcial. La misma denuncia relata la cesión de Konin 22 a Merca Ocio, pero no permite identificar inequívocamente ambas actuaciones como el mismo acto.
   type: resumen
   urls:
   - https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/08Viernes/Notasprensa/Fiscalia/ficheros/DenunciaFiscalia.pdf
@@ -176,7 +175,7 @@ cronologia:
 - fecha: '2018-04-16'
   titulo: Se conoce la petición fiscal de archivo
   descripcion: Confilegal informa de la solicitud de sobreseimiento por falta de indicios de administración desleal.
-    La Fiscalía valoró el subarrendamiento con Mercasa y no apreció el perjuicio inicialmente denunciado.
+    Según la noticia, la Fiscalía valoró la negociación de un subarrendamiento con Mercasa y no apreció indicios suficientes de administración desleal.
   type: investigación
   urls:
   - https://confilegal.com/20180416-la-fiscalia-pide-el-archivo-del-caso-contra-dancausa-y-el-consejo-de-administracion-de-mercamadrid/
@@ -235,3 +234,5 @@ Los litigios civiles
 La sentencia civil de 2025 reproduce la desestimación de la pretensión de nulidad y los litigios posteriores por rentas e intereses. Identifica como firme el pronunciamiento previo sobre el devengo de intereses, mientras su propio fallo ofrece casación. Son ámbitos distintos de la investigación penal de los antiguos administradores. Los 142.475,93 euros corresponden a intereses por retraso en el pago de alquileres, no a una indemnización por corrupción. Tampoco se identifican estos hechos con las operaciones internacionales de Mercasa ni con el resultado global de Lezo.
 
 Fuentes: [denuncia municipal de 2016](https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/08Viernes/Notasprensa/Fiscalia/ficheros/DenunciaFiscalia.pdf), [nota fiscal de 25 de abril de 2017, página 168 de la recopilación](https://www.fiscal.es/documents/13333297/13855533/2017-NOTICIAS-FGE.pdf/a6f7cb15-3b3e-11e8-dcc5-3fc5117a0b8e?download=true&t=1762781358509&version=1.0), [declaración de Dancausa](https://www.publico.es/politica/dancausa-defiende-juez-operacion-imputada-buena-mercamadrid.html), [petición fiscal de archivo](https://confilegal.com/20180416-la-fiscalia-pide-el-archivo-del-caso-contra-dancausa-y-el-consejo-de-administracion-de-mercamadrid/), [archivo y relación nominal](https://confilegal.com/20180723-archivada-la-causa-contra-dancausa-y-otras-15-personas-investigadas-en-el-caso-mercamadrid/), [fecha del auto según Europa Press](https://www.europapress.es/madrid/noticia-dancausa-ve-victima-denuncia-politica-causa-general-contra-pp-estudia-demandar-higueras-mato-20180722120838.html) y [sentencia civil 17/2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=9cc0bcdc77e5e175a0a8778d75e36f0d&encode=true&databasematch=AN).
+
+La noticia sobre el archivo habla de dieciséis investigados, aunque su enumeración nominal contiene quince nombres. La lista de esta ficha incluye también personas mencionadas como antecedentes contractuales; no equivale a una relación judicial completa de investigados. La nota fiscal de 2017 llama «Flores Cerdán» a quien las dos crónicas de Confilegal identifican como María Dolores Fernández Cerdán; se conserva esta discrepancia sin asignar identidades judiciales por deducción.
