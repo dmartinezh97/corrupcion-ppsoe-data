@@ -31,8 +31,7 @@ descripcion: 'La ficha reúne actuaciones sobre la gestión económica del Ayunt
 
   El relato de la Audiencia, reproducido por el TSJ, se refería a certificados de 2013 y 2014 sobre consignaciones
   en presupuestos aprobados realmente en enero de 2015, fraccionamiento de contratos y transferencias o cheques
-  sin justificación. También fijaba indemnizaciones de 44.394,18 euros, 21.134,24 euros y 602 euros para los tres
-  cargos respectivamente, así como consignaciones previas al juicio. Tras la nulidad no se presentan esas cantidades
+  sin justificación. También fijaba indemnizaciones de 44.394,18 euros para el exsecretario, 21.134,24 euros para el exalcalde y 602 euros para la extesorera, así como consignaciones previas al juicio. Tras la nulidad no se presentan esas cantidades
   como un daño penal definitivamente establecido ni se suman a otros procedimientos contables.
 
 
@@ -87,17 +86,17 @@ impactoSocial: Las actuaciones cuestionaron el control presupuestario y de contr
   de 2024 subraya también las garantías temporales de la instrucción penal. No se atribuye al caso una cifra de
   endeudamiento municipal ni una relación causal global sin soporte específico.
 documentos:
-- fecha: '2024-01-31'
-  titulo: 'TSJCV 29/2024: nulidad de actuaciones, juicio y sentencia y retroacción de la instrucción (ECLI:ES:TSJCV:2024:794)'
-  filetype: pdf
-  paginas: 16
-  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=116fc90f514b6baea0a8778d75e36f0d&encode=true&databasematch=AN
 - fecha: '2018-02-28'
   titulo: 'Edicto del Tribunal de Cuentas: procedimiento A2/18 por gestión económica de Navajas en 2013 y 2014;
     publicado en BOE el 8 de marzo de 2018'
   filetype: pdf
   paginas: 1
   nombre_fichero: https://www.boe.es/boe/dias/2018/03/08/pdfs/BOE-B-2018-14248.pdf
+- fecha: '2024-01-31'
+  titulo: 'TSJCV 29/2024: nulidad de actuaciones, juicio y sentencia y retroacción de la instrucción (ECLI:ES:TSJCV:2024:794)'
+  filetype: pdf
+  paginas: 16
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=116fc90f514b6baea0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
 - fecha: '2014-09-30'
   titulo: Dimisión del alcalde según la información periodística
