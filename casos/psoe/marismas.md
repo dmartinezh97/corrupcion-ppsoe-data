@@ -1,173 +1,168 @@
 ---
-nombre: "Caso Marismas"
-partido: "PSOE"
-completado: true
+nombre: Caso Marismas
+partido: PSOE
+completado: false
 año: 2012
-fechaInicio: 2012-06-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  El caso Marismas investiga el presunto fraude de 40,1 millones de euros en fondos públicos —de los cuales el 60% (24,06 millones) provenían del Fondo Europeo Agrícola de Desarrollo Rural (Feader)— destinados a la modernización de los sistemas de regadío de la Comunidad de Regantes Marismas del Guadalquivir, en la provincia de Sevilla. El proyecto, aprobado mediante resolución del Instituto Andaluz de Reforma Agraria el 13 de octubre de 2004, cubría cerca de 13.000 hectáreas en los municipios de Dos Hermanas, Utrera, Las Cabezas de San Juan, Los Palacios y Villafranca. El contrato se adjudicó a una UTE formada por Befesa —filial de Abengoa— y Construcciones ALPI, cuyo contrato fue rescindido en 2009 tras acumular continuos retrasos y presentar facturas por sobrecoste pese a haberse pactado un precio cerrado.
+estado: desconocido
+descripcion: |-
+  Investigación sobre la concesión, adjudicación y ejecución de una subvención de 40.119.944 euros para modernizar los regadíos de la Comunidad de Regantes Marismas del Guadalquivir, en Sevilla. Esa cantidad es la ayuda concedida, no un perjuicio penal declarado. El presupuesto subvencionable rondaba los 66,6 millones. La denuncia de los regantes se conoció en 2012 y la causa judicial se sitúa en 2013, sin que esté acreditado aquí el día de incoación.
 
-  Las actuaciones judiciales se centran en la presunta simulación de obras para acceder a los fondos europeos, generando una apariencia de ejecución que en realidad era falsa. Un informe pericial encargado por la propia Comunidad de Regantes a la ingeniería Ayesa cifró el nivel de ejecución real en el 60%, detectando una diferencia de casi 3 millones de euros entre lo facturado y lo realmente ejecutado. La Guardia Civil concluyó que altos cargos de la Junta de Andalucía presionaron a la comunidad de regantes para que adjudicara las obras a Befesa pese a no ser la oferta más ventajosa, y que se produjeron irregularidades en la adjudicación, en las certificaciones de obras y en el destino final del dinero público. La Oficina Europea de Lucha contra el Fraude (OLAF) emitió en diciembre de 2014 un informe que constataba que dichas irregularidades "tenían como finalidad favorecer frente a otros competidores a las empresas que resultaron adjudicatarias".
+  En marzo de 2015 se informó de la imputación judicial de 21 personas y del archivo individual de las diligencias contra el ingeniero Jesús León. La investigación alcanzaba a antiguos responsables de Agricultura, representantes de los regantes y empresas. Las sospechas sobre adjudicación, certificaciones y pagos proceden de informes policiales y actuaciones de instrucción, no de hechos declarados probados en sentencia. Las periciales tampoco coincidían: Ayesa estimaba ejecutado un 60% y DAP un 80%; elDiario.es documentó además un posible conflicto de intereses en el contrato de Ayesa.
 
-  El caso se inició en junio de 2012 cuando la propia Comunidad de Regantes denunció a la Guardia Civil la existencia de un tráfico de comisiones entre Befesa y funcionarios de la Junta de Andalucía. Desde julio de 2013, el Juzgado de Instrucción número 16 de Sevilla, bajo el magistrado Juan Gutiérrez Casillas, instruye la causa con más de 21 imputados, entre ellos cinco ex altos cargos socialistas de la Consejería de Agricultura, miembros de la Comunidad de Regantes y empresarios de las UTEs adjudicatarias. En febrero de 2022, el juez citó como nuevo investigado al diputado autonómico del PSOE por Almería José Luis Sánchez Teruel, lo que trasladó la competencia al Tribunal Superior de Justicia de Andalucía (TSJA) por su condición de aforado. El caso permanece en fase de instrucción sin sentencia definitiva.
-
-resumen: "Fraude de 40,1 millones de euros en fondos europeos para regadíos en Sevilla"
-coste: 40100000
-lugar: "Sevilla, Andalucía"
+  Un auto de 15 de febrero de 2022 constituyó como investigado al entonces diputado socialista José Luis Sánchez Teruel, que se personó con abogado en el Juzgado de Instrucción nº 16 de Sevilla el 16 de marzo para ejercer su defensa. No se acredita que declarara ese día ni que el TSJA asumiera efectivamente la investigación. No se han obtenido los autos originales ni una resolución posterior que permita establecer el estado actual y los resultados de cada persona, la naturaleza y firmeza del archivo de Jesús León o el desenlace global. Por ello no se afirma que todos sigan investigados ni que exista condena o cierre del caso.
+resumen: Investigación de una subvención para modernizar regadíos sevillanos, con resultados individuales y estado
+  actual incompletamente acreditados.
+lugar: Sevilla, Andalucía
 tribunal:
-  - "Juzgado de Instrucción nº 16 de Sevilla - Juez Juan Gutiérrez Casillas - Fiscalía Anticorrupción"
-  - "Tribunal Superior de Justicia de Andalucía (TSJA) - Para el aforado Sánchez Teruel"
-numeroSentencia: ""
+- Juzgado de Instrucción nº 16 de Sevilla
 implicados:
-  - nombre: "José Luis Sánchez Teruel"
-    cargo: "Ex Director General de Desarrollo Sostenible del Medio Rural de la Junta de Andalucía; diputado autonómico PSOE Almería"
-    rol: "Investigado por malversación, prevaricación, falsedad y tráfico de influencias"
-
-  - nombre: "Francisco Ruiz Orta"
-    cargo: "Ex Director General de Regadíos de la Junta de Andalucía"
-    rol: "Imputado por prevaricación y malversación de fondos públicos"
-
-  - nombre: "Tomás Martínez Jiménez"
-    cargo: "Ex Director General de Regadíos de la Junta de Andalucía"
-    rol: "Imputado por prevaricación y malversación de fondos públicos"
-
-  - nombre: "Carlos Javier Rodríguez Pérez"
-    cargo: "Ex Jefe del Departamento de Infraestructuras y Actividades Estructurales (Junta de Andalucía)"
-    rol: "Imputado por falsedad, prevaricación y malversación"
-
-  - nombre: "Julián Martín Jorreto"
-    cargo: "Ex Jefe de Servicios de Promoción Rural (Junta de Andalucía)"
-    rol: "Imputado por falsedad, prevaricación y malversación"
-
-  - nombre: "Manuel Antonio Cruz-Guzmán López"
-    cargo: "Ex Jefe de Departamentos de Infraestructuras Agrarias (Junta de Andalucía)"
-    rol: "Imputado por falsedad, prevaricación y malversación"
-
-  - nombre: "Juan Luque"
-    cargo: "Interventor de la Consejería de Hacienda de la Junta de Andalucía"
-    rol: "Investigado por prevaricación"
-
-  - nombre: "Salvador Cejudo"
-    cargo: "Ex Jefe de la Oficina de Supervisión y Proyectos de la Dirección General de Desarrollo Sostenible del Medio Rural (Junta de Andalucía)"
-    rol: "Investigado por falsedad y prevaricación en la supervisión del proyecto"
-
-  - nombre: "Antonio Jesús Viciana"
-    cargo: "Ex gerente de la UTE Riegos Marismas"
-    rol: "Imputado por malversación de fondos públicos"
-
-  - nombre: "Juan Bautista Peña López-Pazo"
-    cargo: "Ex gerente de la UTE Befesa-ALPI"
-    rol: "Imputado por malversación de fondos públicos"
-
-  - nombre: "Joaquín María Sánchez Mancha"
-    cargo: "Director de Obras de la Comunidad de Regantes"
-    rol: "Imputado por malversación de fondos públicos"
-
-  - nombre: "Jesús León López"
-    cargo: "Directivo de Befesa (filial de Abengoa)"
-    rol: "Investigado por adjudicación irregular y tráfico de comisiones"
-
+- nombre: José Luis Sánchez Teruel
+  cargo: Director general de Desarrollo Sostenible del Medio Rural en la época investigada; diputado del PSOE en
+    las noticias de 2022
+  rol: Constituido como investigado por auto de 15 de febrero de 2022; personado con abogado el 16 de marzo. No
+    se acredita aquí un resultado posterior ni su estado procesal actual.
+- nombre: Francisco Ruiz Orta
+  cargo: Ex Director General de Regadíos de la Junta de Andalucía
+  rol: Imputación judicial conocida en marzo de 2015 dentro de la investigación de falsedad, prevaricación y malversación.
+    No consta aquí un resultado posterior individual.
+- nombre: Tomás Martínez Jiménez
+  cargo: Ex Director General de Regadíos de la Junta de Andalucía
+  rol: Imputación judicial conocida en marzo de 2015 dentro de la investigación de falsedad, prevaricación y malversación.
+    No consta aquí un resultado posterior individual.
+- nombre: Carlos Javier Rodríguez Pérez
+  cargo: Ex Jefe del Departamento de Infraestructuras y Actividades Estructurales (Junta de Andalucía)
+  rol: Imputación judicial conocida en marzo de 2015 dentro de la investigación de falsedad, prevaricación y malversación.
+    No consta aquí un resultado posterior individual.
+- nombre: Julián Martín Jorreto
+  cargo: Ex Jefe de Servicios de Promoción Rural (Junta de Andalucía)
+  rol: Imputación judicial conocida en marzo de 2015 dentro de la investigación de falsedad, prevaricación y malversación.
+    No consta aquí un resultado posterior individual.
+- nombre: Manuel Antonio Cruz-Guzmán López
+  cargo: Ex Jefe de Departamentos de Infraestructuras Agrarias (Junta de Andalucía)
+  rol: Imputación judicial conocida en marzo de 2015 dentro de la investigación de falsedad, prevaricación y malversación.
+    No consta aquí un resultado posterior individual.
+- nombre: Juan Luque Alfonso
+  cargo: Interventor delegado en la Consejería de Agricultura y Pesca
+  rol: Declaró como investigado el 2 de marzo de 2016 por su intervención en el pago de la primera certificación;
+    negó irregularidades. Desenlace posterior no acreditado.
+- nombre: Salvador Cejudo
+  cargo: Ex Jefe de la Oficina de Supervisión y Proyectos de la Dirección General de Desarrollo Sostenible del Medio
+    Rural (Junta de Andalucía)
+  rol: Citado como investigado en el auto de 6 de noviembre de 2019, según información de EFE. Sin resultado posterior
+    acreditado.
+- nombre: Jesús León
+  cargo: Ingeniero; consejero del Sevilla FC en la información de marzo de 2015
+  rol: Archivo de las diligencias contra él conocido el 23 de marzo de 2015. Sin auto original no se precisa si
+    fue libre o provisional ni su firmeza.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "fraude"
-  - "falsedad en documento oficial"
-  - "tráfico de influencias"
-  - "fondos europeos"
-  - "Junta de Andalucía"
-
-impactoSocial: "El caso Marismas forma parte de la oleada de escándalos de corrupción que afectaron a la Junta de Andalucía durante los gobiernos del PSOE, junto con los casos ERE, Facturas o EMMA. La implicación de la OLAF y de altos cargos socialistas generó un notable impacto político en Andalucía, contribuyendo al debate sobre la gestión de fondos europeos agrarios y al desgaste electoral del PSOE andaluz."
-
+- subvenciones
+- regadíos
+- fondos europeos
+- presunta malversación
+- prevaricación
+- falsedad documental
+impactoSocial: Las irregularidades denunciadas afectaban al control de subvenciones agrarias cofinanciadas con fondos
+  europeos y a unas obras de modernización de regadíos que generaron controversias técnicas y financieras para los
+  regantes. La responsabilidad penal de cada persona debe distinguirse de los expedientes de reintegro y del conflicto
+  contractual.
 documentos: []
-
 cronologia:
-  - fecha: 2004-10-13
-    titulo: "Aprobación del proyecto de modernización"
-    descripcion: "El Instituto Andaluz de Reforma Agraria aprueba mediante resolución el proyecto de modernización de los regadíos de la Comunidad de Regantes Marismas del Guadalquivir. Se concede una subvención de 40.119.944 euros con un plazo de ejecución de obras de 42 meses. El 60% de esta cantidad (24,06 millones) proviene del Fondo Europeo Agrícola de Desarrollo Rural (Feader). Las obras se adjudican a la UTE formada por Befesa —filial de Abengoa— y Construcciones ALPI."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/andalucia/claves-entender-caso-marismas_1_4272796.html"
-
-  - fecha: 2009-01-01
-    titulo: "Rescisión del contrato con la UTE Befesa-ALPI"
-    descripcion: "Tras acumular continuos retrasos en la ejecución de las obras, que debían haber concluido en mayo de 2008, y presentar facturas por sobrecostes pese a haberse pactado un precio cerrado e invariable, el contrato de la UTE Befesa-ALPI es rescindido. La ingeniería Ayesa, contratada por la comunidad de regantes, elabora un informe pericial que cifra el nivel de ejecución real en el 60%, detectando una diferencia de casi 3 millones de euros entre lo facturado y lo realmente ejecutado."
-    type: "documento"
-    urls:
-      - "https://www.eldiario.es/andalucia/informe-pericial-caso-marismas-entredicho_1_2688533.html"
-      - "https://www.libertaddigital.com/espana/2020-11-24/caso-marismas-otra-modalidad-de-corrupcion-en-la-junta-de-andalucia-gobernada-por-el-psoe-6683467/"
-
-  - fecha: 2012-06-01
-    titulo: "Denuncia de la Comunidad de Regantes"
-    descripcion: "La Comunidad de Regantes Marismas del Guadalquivir presenta denuncia ante la Guardia Civil por la existencia de un tráfico de comisiones entre la filial de Abengoa, Befesa, y funcionarios de la Junta de Andalucía. Esta denuncia marca el inicio de las investigaciones del caso Marismas. La Guardia Civil concluye que altos cargos de la Junta presionaron a los regantes para adjudicar las obras a Befesa pese a no ser la oferta más ventajosa."
-    type: "denuncia"
-    urls:
-      - "https://www.libertaddigital.com/nacional/2012-06-04/la-junta-pago-por-obras-sin-efectuar-en-la-modernizacion-del-regadio-1276460337/"
-      - "https://www.libertaddigital.com/espana/2020-11-24/caso-marismas-otra-modalidad-de-corrupcion-en-la-junta-de-andalucia-gobernada-por-el-psoe-6683467/"
-
-  - fecha: 2012-07-01
-    titulo: "La OLAF recibe la denuncia e inicia investigación"
-    descripcion: "La Oficina Europea de Lucha contra el Fraude (OLAF) recibe la denuncia de los regantes sobre las irregularidades en el proyecto de modernización de las marismas del Guadalquivir. Este organismo de la Unión Europea inicia su propia investigación paralela a la judicial española para determinar si hubo fraude en la utilización de los fondos comunitarios del Feader."
-    type: "investigación"
-    urls:
-      - "https://www.eldemocrataliberal.com/2015/02/caso-marismas.html"
-
-  - fecha: 2013-07-16
-    titulo: "El Juzgado nº 16 de Sevilla asume la instrucción"
-    descripcion: "El Juzgado de Instrucción número 16 de Sevilla, dirigido por el magistrado Juan Gutiérrez Casillas, asume la instrucción del caso Marismas. La OLAF se persona en Sevilla para seguir de cerca las actuaciones judiciales y colaborar con la investigación española. Los investigadores identifican a más de veinte posibles imputados entre funcionarios de la Junta, miembros de la comunidad de regantes y ejecutivos de las empresas adjudicatarias."
-    type: "investigación"
-    urls:
-      - "https://www.eldemocrataliberal.com/2015/02/caso-marismas.html"
-      - "https://www.libertaddigital.com/espana/2020-11-24/caso-marismas-otra-modalidad-de-corrupcion-en-la-junta-de-andalucia-gobernada-por-el-psoe-6683467/"
-
-  - fecha: 2014-12-01
-    titulo: "Informe de la OLAF constata irregularidades en la adjudicación"
-    descripcion: "La Oficina Antifraude de la Unión Europea (OLAF) concluye su informe sobre el caso Marismas. El documento constata diversas irregularidades en la adjudicación del contrato y afirma que estas irregularidades tenían como finalidad favorecer frente a otros competidores a las empresas que resultaron adjudicatarias —la UTE Befesa/ALPI—. El informe es remitido a las autoridades judiciales españolas y se convierte en pieza clave del proceso."
-    type: "documento"
-    urls:
-      - "https://www.eldemocrataliberal.com/2015/02/caso-marismas.html"
-      - "https://www.eldiario.es/andalucia/claves-entender-caso-marismas_1_4272796.html"
-
-  - fecha: 2015-03-25
-    titulo: "La Fiscalía solicita imputar a cinco ex altos cargos"
-    descripcion: "La Fiscalía Anticorrupción solicita al juez de Instrucción número 16 de Sevilla que impute a los ex directores generales de Regadíos Francisco Ruiz Orta y Tomás Martínez Jiménez, así como a otros tres altos cargos de la Consejería de Agricultura. La Fiscalía considera que los hechos podrían ser constitutivos de delitos de falsedad en documento oficial, prevaricación y malversación de caudales públicos. Sánchez Teruel queda inicialmente fuera de las peticiones de imputación."
-    type: "imputación"
-    urls:
-      - "https://www.libertaddigital.com/espana/2015-03-25/otros-cinco-altos-cargos-imputados-en-el-caso-regantes-de-las-marismas-del-guadalquivir-1276543991/"
-      - "https://www.laopiniondealmeria.com/2015/03/la-fiscalia-pide-la-imputacion-de.html"
-
-  - fecha: 2015-05-12
-    titulo: "El secretario general del PSOE de Almería, acusado en el caso"
-    descripcion: "Nuevas diligencias amplían el círculo de investigados en el caso Marismas. El secretario general del PSOE de Almería, José Luis Sánchez Teruel, es formalmente acusado por su papel como ex director general de Desarrollo Sostenible del Medio Rural durante los hechos investigados. La Guardia Civil, en sus informes, le atribuye posibles delitos de tráfico de influencias, negociaciones prohibidas a funcionarios públicos, fraude, coacciones y pertenencia a organización criminal."
-    type: "imputación"
-    urls:
-      - "https://www.libertaddigital.com/espana/2015-05-12/el-secretario-general-del-psoe-de-almeria-acusado-en-el-caso-marismas-1276547774/"
-      - "https://andaluciainformacion.es/almeria/862010/cinco-investigados-mas-en-caso-marismas-entre-ellos-sanchez-teruel/"
-
-  - fecha: 2016-03-01
-    titulo: "El juez cita como investigado al interventor de la Junta"
-    descripcion: "El juez del caso Marismas cita como investigado a Juan Luque, interventor de la Consejería de Hacienda de la Junta de Andalucía. Se le imputa un delito de prevaricación por haber validado pagos presuntamente irregulares. Juan Luque también figuraba como imputado en el caso de los ERE fraudulentos, otro de los grandes escándalos de corrupción de la Junta de Andalucía durante los gobiernos socialistas."
-    type: "imputación"
-    urls:
-      - "https://www.eleconomista.es/espana/noticias/7388980/03/16/Tribunales-El-juez-del-caso-Marismas-cita-este-miercoles-como-investigado-a-un-interventor-de-la-Junta.html"
-
-  - fecha: 2016-06-01
-    titulo: "21 personas imputadas; el juez investiga entrega de regalos"
-    descripcion: "El Juzgado de Instrucción número 16 de Sevilla eleva a 21 el número de personas imputadas en el caso Marismas. Entre los investigados figuran miembros de la Comunidad de Regantes, dos exdirectores generales de regadíos, altos funcionarios de la Junta de Andalucía y empresarios de las UTEs adjudicatarias. El juez amplía la instrucción para investigar también la entrega de regalos y comisiones irregulares a funcionarios como contraprestación por la adjudicación y la validación de certificaciones de obras."
-    type: "imputación"
-    urls:
-      - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1138719"
-      - "https://www.rtvlospalacios.com/noticias-de-los-palacios-y-villafranca/23012/0/EL-JUZGADO-DE-INSTRUCCION-NUMERO-16-DE-SEVILLA-IMPUTA-A-21-PERSONAS-POR-EL-CASO-MARISMAS/"
-
-  - fecha: 2022-02-17
-    titulo: "Imputación del diputado José Luis Sánchez Teruel; el TSJA asume competencia"
-    descripcion: "El Juzgado de Instrucción número 16 de Sevilla ordena tener como investigado al diputado autonómico socialista por Almería José Luis Sánchez Teruel, por su papel como director general de Desarrollo Sostenible del Medio Rural de la Junta de Andalucía durante los hechos investigados. El juez considera que, por acción u omisión, pudo incurrir en delitos de malversación, prevaricación, falsedad, tráfico de influencias o negociación prohibida a funcionarios públicos. Al mismo tiempo se cita a otros cinco nuevos investigados, entre ellos Salvador Cejudo —ex jefe de la Oficina de Supervisión y Proyectos— y tres ejecutivos de Befesa. Por su condición de aforado, el Tribunal Superior de Justicia de Andalucía (TSJA) pasa a ser competente para investigar a Sánchez Teruel."
-    type: "imputación"
-    urls:
-      - "https://www.eldiario.es/andalucia/almeria/imputado-parlamentario-psoe-sanchez-teruel-supuesto-desvio-fondos-zonas-regables_1_8756908.html"
-      - "https://www.elespanol.com/espana/andalucia/20220217/investiga-diputado-psoe-andaluz-supuesto-desvio-regadios/650935187_0.html"
-      - "https://okdiario.com/andalucia/diputado-andaluz-del-psoe-acude-juzgados-5-presuntos-delitos-desvio-40-millones-8746795"
-      - "https://andaluciainformacion.es/almeria/862010/cinco-investigados-mas-en-caso-marismas-entre-ellos-sanchez-teruel/"
+- fecha: "2004-10-13"
+  titulo: Concesión de la subvención para modernizar regadíos
+  descripcion: La resolución del Instituto Andaluz de Reforma Agraria concedía 40.119.944 euros con un plazo de
+    ejecución de 42 meses, según el auto citado por la prensa en 2022. Se trata de financiación concedida, no de
+    daño penal fijado.
+  type: documento
+  relevancia: alta
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/caso-Marismas-juez-imputa-diputado-PSOE-Jose-Sanchez-Teruel_0_1657634902.html
+- fecha: "2012-06-04"
+  titulo: Se conoce la denuncia de los regantes
+  descripcion: Libertad Digital informa de una denuncia trasladada a la Fiscalía el 28 de mayo por presuntas irregularidades.
+    Otros relatos sitúan la denuncia en junio de 2012; sin escrito original no se fija un único día de inicio del
+    caso.
+  type: denuncia
+  relevancia: alta
+  urls:
+  - https://www.libertaddigital.com/nacional/2012-06-04/la-junta-pago-por-obras-sin-efectuar-en-la-modernizacion-del-regadio-1276460337/
+  - https://www.eldiario.es/andalucia/claves-entender-caso-marismas_1_4272796.html
+- fecha: "2015-03-23"
+  titulo: Se conocen imputaciones y un archivo individual
+  descripcion: La prensa informa de la decisión de investigar a 21 personas y del archivo de las diligencias contra
+    Jesús León. Es fecha de publicación; no se dispone del auto original para precisar modalidad y firmeza del archivo.
+  type: imputacion
+  relevancia: alta
+  urls:
+  - https://elpais.com/ccaa/2015/03/23/andalucia/1427142097_715427.html
+  - https://www.andaluciainformacion.es/articulo/sevilla/el-juez-imputa-a-21-personas-en-el-caso-marismas-e-investiga-la-entrega-de-regalos/201503231358111613115.html
+- fecha: "2015-05-12"
+  titulo: Se informa del atestado sobre Sánchez Teruel
+  descripcion: EFE/RTVE recoge atribuciones policiales por tráfico de influencias, negociaciones prohibidas, fraude
+    y coacciones. El atestado no equivale a una acusación formal para juicio ni a una condena; no se le había tomado
+    declaración por su aforamiento.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://www.rtve.es/noticias/20150512/guardia-civil-acusa-cinco-delitos-diputado-andaluz-socialista-sanchez-teruel-caso-marismas/1143421.shtml
+- fecha: "2016-03-02"
+  titulo: Juan Luque declara como investigado
+  descripcion: El interventor delegado niega irregularidades en las órdenes de pago y aporta un informe que avala
+    su actuación, según Diario de Sevilla. Su intervención investigada se refería a la primera certificación de
+    unos 4,2 millones.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://www.diariodesevilla.es/provincia/interventor-Administracion-paralisis-imputaciones-judiciales_0_1004299750.html
+- fecha: "2019-11-06"
+  titulo: Auto con nuevas citaciones
+  descripcion: La noticia de EFE de 21 de noviembre sitúa en este auto las citaciones de Sánchez Teruel, Salvador
+    Cejudo y tres responsables de Befesa. No es un auto de febrero de 2022.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://andaluciainformacion.es/almeria/862010/cinco-investigados-mas-en-caso-marismas-entre-ellos-sanchez-teruel/
+- fecha: "2020-01-13"
+  titulo: Se deja sin efecto la citación de Sánchez Teruel
+  descripcion: Europa Press informó el 5 de octubre de que un auto de 13 de enero había anulado la comparecencia
+    prevista para el 14 de febrero por su aforamiento. No se presenta esta decisión como archivo de las diligencias.
+  type: documento
+  relevancia: alta
+  urls:
+  - https://www.europapress.es/andalucia/sevilla-00357/noticia-pp-pide-vuelva-citar-nuevo-sanchez-teruel-caso-marismas-20201005194853.html
+- fecha: "2022-02-15"
+  titulo: Constitución de Sánchez Teruel como parte investigada
+  descripcion: El juez acuerda darle acceso a las actuaciones y a sus derechos de defensa conforme a los artículos
+    118 y 118 bis. Fija comparecencia para el 16 de marzo; no se acredita una asunción efectiva de la causa por
+    el TSJA.
+  type: imputacion
+  relevancia: alta
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/caso-Marismas-juez-imputa-diputado-PSOE-Jose-Sanchez-Teruel_0_1657634902.html
+  - https://www.eldiario.es/andalucia/almeria/imputado-parlamentario-psoe-sanchez-teruel-supuesto-desvio-fondos-zonas-regables_1_8756908.html
+- fecha: "2022-03-16"
+  titulo: Personación de Sánchez Teruel con abogado
+  descripcion: Diario de Sevilla informa de su personación en el Juzgado nº 16. La información distingue este acceso
+    a la causa de una eventual declaración voluntaria posterior.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/PSOE-Jose-Luis-Sanchez-Teruel-juzgados-caso-marismas_0_1665734262.html
 ---
+
+Las obras y la investigación
+
+La ayuda estaba destinada a modernizar casi 13.000 hectáreas de los municipios de Dos Hermanas, Utrera, Las Cabezas de San Juan y Los Palacios y Villafranca. La adjudicación a Befesa-Alpi, las relaciones con otras empresas participantes, los requisitos de aceptación de la ayuda y las certificaciones de obra fueron objeto de investigación. La denuncia incluía presuntas presiones para favorecer una oferta y pagos por unidades no ejecutadas. Estas son hipótesis policiales y de la Fiscalía, cuya atribución debe mantenerse: [Europa Press, marzo de 2015](https://www.andaluciainformacion.es/articulo/sevilla/el-juez-imputa-a-21-personas-en-el-caso-marismas-e-investiga-la-entrega-de-regalos/201503231358111613115.html).
+
+La financiación y las periciales
+
+Los 40.119.944 euros corresponden a la subvención aprobada, dentro de un presupuesto subvencionable cercano a 66,6 millones. No equivalen por sí mismos a fondos sustraídos. Las fuentes periodísticas contienen diferencias sobre el precio de adjudicación y el reparto entre fondos europeos, Junta y regantes; sin las resoluciones de concesión y liquidación completas no se ofrece un desglose definitivo ni un coste penal global.
+
+El [reportaje de elDiario.es de mayo de 2015](https://www.eldiario.es/andalucia/informe-pericial-caso-marismas-entredicho_1_2688533.html) explica que Ayesa calculó una ejecución del 60% y una diferencia cercana a tres millones entre facturación y obra, mientras DAP la cifraba en un 80%. También examinó el contrato que preveía encargos adicionales para Ayesa sobre las obras pendientes, lo que suscitaba dudas sobre su independencia pericial. La información sobre el informe de la OLAF de diciembre de 2014 se centra en irregularidades de contratación; no permite presentar como verificada por la oficina europea toda la valoración técnica de Ayesa. Los informes originales y su valoración judicial final no se han obtenido.
+
+Resultados y garantías individuales
+
+El archivo conocido en marzo de 2015 favorecía a Jesús León y no a todas las personas investigadas. Se mantiene la limitación sobre su modalidad y firmeza porque no está disponible el auto. Los cinco antiguos responsables de Agricultura identificados en las informaciones de 2015 eran Francisco Ruiz Orta, Tomás Martínez Jiménez, Carlos Javier Rodríguez Pérez, Julián Martín Jorreto y Manuel Antonio Cruz-Guzmán López. No se les atribuyen condenas ni continuidad procesal actual sin una resolución posterior.
+
+El atestado de 2015 relativo a Sánchez Teruel, la citación de 2019 y su constitución como investigado en 2022 son actos diferentes. La [crónica del 16 de marzo de 2022](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/PSOE-Jose-Luis-Sanchez-Teruel-juzgados-caso-marismas_0_1665734262.html) describe la personación con abogado para acceder a la causa y una posible declaración voluntaria posterior. No acredita esa declaración ni una remisión y admisión efectivas ante el TSJA. Tampoco permite concluir que la causa continúe hoy en aquella fase.
+
+El estado actual del conjunto y los desenlaces de cada investigado siguen sin estar acreditados con originales judiciales. No se trasladan al caso los resultados de otros procedimientos sobre regantes, ayudas o fondos europeos.
