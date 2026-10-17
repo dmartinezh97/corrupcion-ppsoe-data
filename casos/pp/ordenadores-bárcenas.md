@@ -64,16 +64,16 @@ documentos:
   filetype: pdf
   paginas: 11
   nombre_fichero: https://e00-elmundo.uecdn.es/documentos/2013/09/19/ruz_ordenadores_barcenas.pdf
-- fecha: '2020-07-13'
-  titulo: SAP Madrid 271/2020, Sección Séptima, ROJ SAP M 5442/2020 (copia CENDOJ alojada por Personas Jurídicas)
-  filetype: pdf
-  paginas: 28
-  nombre_fichero: https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
 - fecha: '2019-09-04'
   titulo: Sentencia 267/2019 del Juzgado de lo Penal 31 de Madrid (copia nominativa publicada por ARA)
   filetype: pdf
   paginas: 74
   nombre_fichero: https://static1.ara.cat/ara/public/content/file/original/2019/0904/11/llegeix-aqui-la-sentencia-del-jutge-sobre-els-ordinadors-de-barcenas-aa05b66.pdf
+- fecha: '2020-07-13'
+  titulo: SAP Madrid 271/2020, Sección Séptima, ROJ SAP M 5442/2020 (CENDOJ)
+  filetype: pdf
+  paginas: 29
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ecc5c7e9650fbb31&encode=true&databasematch=AN
 cronologia:
 - fecha: '2013-07-15'
   titulo: Entrega de un pendrive por Bárcenas
@@ -83,7 +83,7 @@ cronologia:
   type: investigación
   relevancia: alta
   urls:
-  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ecc5c7e9650fbb31&encode=true&databasematch=AN
 - fecha: '2013-08-16'
   titulo: Requerimiento judicial de los dos portátiles
   descripcion: El auto de 19 de septiembre reproduce el requerimiento de 16 de agosto para aportar los equipos en
@@ -100,7 +100,7 @@ cronologia:
   relevancia: alta
   urls:
   - https://e00-elmundo.uecdn.es/documentos/2013/09/19/ruz_ordenadores_barcenas.pdf
-  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ecc5c7e9650fbb31&encode=true&databasematch=AN
 - fecha: '2013-09-19'
   titulo: Inhibición parcial de Ruz a favor de los juzgados de Madrid
   descripcion: El auto deduce testimonio para investigar posibles daños informáticos y encubrimiento en jurisdicción
@@ -110,7 +110,7 @@ cronologia:
   relevancia: alta
   urls:
   - https://e00-elmundo.uecdn.es/documentos/2013/09/19/ruz_ordenadores_barcenas.pdf
-  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ecc5c7e9650fbb31&encode=true&databasematch=AN
 - fecha: '2016-07-26'
   titulo: Transformación a procedimiento abreviado
   descripcion: El auto abre la fase abreviada respecto de las tres personas físicas por daños y encubrimiento y
@@ -118,7 +118,7 @@ cronologia:
   type: investigación
   relevancia: alta
   urls:
-  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ecc5c7e9650fbb31&encode=true&databasematch=AN
 - fecha: '2016-09-14'
   titulo: Desistimiento de Bárcenas
   descripcion: La providencia lo tiene por desistido del ejercicio de la acción penal, con reserva expresa de acciones
@@ -127,7 +127,7 @@ cronologia:
   type: resolución
   relevancia: alta
   urls:
-  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ecc5c7e9650fbb31&encode=true&databasematch=AN
 - fecha: '2017-11-30'
   titulo: Apertura de juicio oral
   descripcion: La resolución abre juicio contra las tres personas físicas por daños y encubrimiento y contra el
@@ -135,7 +135,7 @@ cronologia:
   type: juicio
   relevancia: alta
   urls:
-  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ecc5c7e9650fbb31&encode=true&databasematch=AN
 - fecha: '2018-01-25'
   titulo: Calificación absolutoria de Fiscalía
   descripcion: El informe fiscal solicitó la absolución de los cuatro acusados y fue ratificado en conclusiones
@@ -143,7 +143,7 @@ cronologia:
   type: resolución
   relevancia: alta
   urls:
-  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ecc5c7e9650fbb31&encode=true&databasematch=AN
 - fecha: '2019-06-14'
   titulo: Comienza el juicio
   descripcion: RTVE informa del inicio ante el Penal 31. La sede de celebración y el número total de sesiones no
@@ -159,7 +159,7 @@ cronologia:
   type: sentencia
   relevancia: alta
   urls:
-  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ecc5c7e9650fbb31&encode=true&databasematch=AN
   - https://www.elespanol.com/espana/tribunales/20190904/partido-popular-absuelto-destruccion-ordenadores-barcenas/426207894_0.html
 - fecha: '2020-07-13'
   titulo: Confirmación firme en apelación
@@ -169,13 +169,13 @@ cronologia:
   type: sentencia
   relevancia: alta
   urls:
-  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ecc5c7e9650fbb31&encode=true&databasematch=AN
   - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/La-Audiencia-Provincial-de-Madrid-confirma-la-absolucion-del-PP-en-el-caso-de-los--ordenadores-de-Barcenas-
 ---
 
 ## Alcance de la revisión a 17 de octubre de 2026
 
-Se han descargado el auto de 2013 y la copia CENDOJ de la sentencia de apelación, enlazada por su ECLI desde el CGPJ y recuperada de un repositorio jurídico al bloquear la descarga oficial. La lectura fue selectiva: encabezamiento, hechos probados y antecedentes, pasajes sobre legitimación de las acusaciones populares y fallo; no se declara lectura integral de las 28 páginas ni de los 11 folios del auto. La identificación nominal se apoya también en la copia nominativa de la sentencia 267/2019, de 74 páginas, recuperada de ARA. Se leyeron su encabezamiento, pasajes de hechos probados y no acreditados de las páginas 9-11 y el fallo de las páginas 73-74, sin declarar lectura integral. No se deducen nombres de los seudónimos del PDF de apelación.
+Se han descargado el auto de 2013 y la sentencia de apelación, enlazada por su ECLI desde el CGPJ. Tras recuperar inicialmente una copia de un repositorio jurídico, se ha obtenido también el PDF oficial de CENDOJ, de 29 páginas, que se enlaza en esta ficha. La lectura fue selectiva: encabezamiento, hechos probados y antecedentes, pasajes sobre legitimación de las acusaciones populares y fallo; no se declara lectura integral de las 29 páginas del PDF oficial ni de los 11 folios del auto. La identificación nominal se apoya también en la copia nominativa de la sentencia 267/2019, de 74 páginas, recuperada de ARA. Se leyeron su encabezamiento, pasajes de hechos probados y no acreditados de las páginas 9-11 y el fallo de las páginas 73-74, sin declarar lectura integral. No se deducen nombres de los seudónimos del PDF de apelación.
 
 La firmeza consta expresamente en el fallo de 13 de julio de 2020. Se corrige la sección y la fecha siguiendo esa resolución frente a la nota de prensa. Persisten la diferencia entre entrega del 19 o 20 de agosto de 2013, el cotejo de los documentos originales de registro y la falta de cotejo integral de los documentos de instrucción y de los fundamentos de primera instancia; por eso la revisión documental no se marca completa. La calificación, el resultado y la propiedad de los equipos se explican con los límites de lo probado. Se elimina `coste: 0`: ausencia de daño probado en esta ficha no equivale a medición económica de cero.
 
