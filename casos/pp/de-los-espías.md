@@ -6,9 +6,7 @@ año: 2009
 fechaFin: ''
 estado: Absolución en 2019; recurso sobre costas desestimado por el Supremo en 2021
 descripcion: 'El caso de los Espías, también denominado Gestapillo en la prensa, investigó si personal de Seguridad
-  de la Comunidad de Madrid había empleado medios públicos para vigilar a cargos del PP en 2008. La acusación particular
-  de la Comunidad de Madrid atribuyó seguimientos a Alfredo Prada, Manuel Cobo y María del Carmen Rodríguez Flores
-  entre marzo y mayo de ese año. Esa era su tesis acusatoria: los seis acusados resultaron absueltos.
+  de la Comunidad de Madrid había empleado medios públicos para vigilar a cargos del PP en 2008. El escrito de acusación de la Comunidad de Madrid atribuyó a los encausados vigilancias entre marzo y mayo de ese año. Las crónicas mencionan como supuestos afectados a Alfredo Prada y Manuel Cobo. Los seis acusados resultaron absueltos.
 
 
   La instrucción del Juzgado nº 5 de Madrid tuvo tres archivos y tres reaperturas. Noticias Jurídicas sitúa el primer
@@ -118,12 +116,6 @@ impactoSocial: El juicio hizo públicas acusaciones contrapuestas sobre las luch
   actuación de los investigadores. La absolución y los recursos sobre costas deben distinguirse de los testimonios
   y acusaciones personales, que no constituyen por sí mismos hechos probados.
 documentos:
-- fecha: '2016-06-28'
-  titulo: Escrito de calificaciones provisionales y acusación de la Comunidad de Madrid (Tribunal del Jurado 1/2015-C),
-    fechado y firmado el 28 de junio de 2016
-  filetype: pdf
-  paginas: 7
-  nombre_fichero: https://www.elindependiente.com/wp-content/uploads/2016/11/espias.pdf
 - fecha: '2010-06-24'
   titulo: 'Decreto 33/2010, de 24 de junio, del Consejo de Gobierno de la Comunidad de Madrid: cese, a petición
     propia, de don Manuel Sergio Gamón Serrano como Director de Área de Seguridad (BOCM nº 150, de 25 de junio de
@@ -131,6 +123,12 @@ documentos:
   filetype: pdf
   paginas: 1
   nombre_fichero: https://www.bocm.es/boletin/CM_Orden_BOCM/2010/06/25/BOCM-20100625-2.PDF
+- fecha: '2016-06-28'
+  titulo: Escrito de calificaciones provisionales y acusación de la Comunidad de Madrid (Tribunal del Jurado 1/2015-C),
+    fechado y firmado el 28 de junio de 2016
+  filetype: pdf
+  paginas: 7
+  nombre_fichero: https://www.elindependiente.com/wp-content/uploads/2016/11/espias.pdf
 - fecha: '2021-06-30'
   titulo: 'STS 568/2021: casación sobre costas; reproduce hechos probados y fallo de la absolución de 4 de marzo
     de 2019 (ECLI:ES:TS:2021:2732)'
@@ -159,8 +157,7 @@ cronologia:
 - fecha: '2010-07-15'
   titulo: Primer auto de sobreseimiento provisional y archivo
   descripcion: La jueza instructora del Juzgado de Instrucción nº 5 de Madrid acordó el sobreseimiento provisional
-    y archivo de las diligencias al no acreditarse el uso de fondos públicos en un espionaje ajeno a la función
-    pública. El auto fue recurrido y revocado por la Audiencia Provincial de Madrid. La fecha del auto figura en
+    y archivo de las diligencias. El auto fue recurrido y revocado por la Audiencia Provincial de Madrid. La fecha del auto figura en
     la información de Noticias Jurídicas.
   type: investigación
   urls:
@@ -202,8 +199,8 @@ cronologia:
   - https://www.libertaddigital.com/espana/2016-04-22/una-testigo-del-presunto-espionaje-en-madrid-no-declara-por-miedo-1276572521/
 - fecha: '2016-06-28'
   titulo: La Comunidad de Madrid formula su escrito de acusación
-  descripcion: El letrado de la Comunidad de Madrid fechó y firmó un escrito dirigido a el Juzgado de Instrucción
-    nº 5 (Tribunal del Jurado 1/2015-C) el escrito de calificaciones provisionales en el que, como acusación particular,
+  descripcion: El letrado de la Comunidad de Madrid fechó y firmó el escrito de calificaciones provisionales dirigido al Juzgado de Instrucción
+    nº 5 (Tribunal del Jurado 1/2015-C), en el que, como acusación particular,
     solicitaba la apertura del juicio oral contra Sergio Gamón, Miguel Castaño, José Luis Caro, José Manuel Pinto,
     José Oreja y Antonio Coronado por un delito de malversación de uso de caudales públicos (art. 433 del Código
     Penal), pidiendo multas y suspensión de empleo o cargo. El escrito, fechado y firmado por el letrado el 28 de
