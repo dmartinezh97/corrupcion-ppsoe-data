@@ -84,21 +84,20 @@ implicados:
   rol: Querellado; firmó en 2008 el Real Decreto 855/2008 de concesión del almacén; querella archivada
 - nombre: Joan Clos
   cargo: Ministro de Industria, Turismo y Comercio (PSOE, 2006-2008)
-  rol: Querellado por su participación en la tramitación del proyecto; querella archivada
+  rol: Querellado en 2018; querella archivada según la prensa, sin original ni firmeza comprobados
 - nombre: Magdalena Álvarez
   cargo: Ministra de Fomento (PSOE, 2004-2009)
-  rol: Querellada por el marco concesional y la modificación de los límites marítimos del proyecto; querella archivada
+  rol: Querellada en 2018; querella archivada según la prensa, sin original ni firmeza comprobados
 - nombre: Elena Espinosa
   cargo: Ministra de Agricultura, Pesca y Alimentación (PSOE, 2004-2008) y ministra de Medio Ambiente, y Medio Rural
     y Marino (PSOE, 2008-2010)
-  rol: Querellada por su responsabilidad en la tramitación del proyecto (en la etapa en que ocupaba la cartera de
-    Agricultura); querella archivada
+  rol: Querellada en 2018; querella archivada según la prensa, sin original ni firmeza comprobados
 - nombre: Ignasi Nieto
   cargo: Secretario General de Energía (Ministerio de Industria, 2006-2008)
-  rol: Querellado por la tramitación técnica de la concesión; querella archivada
+  rol: Querellado en 2018; querella archivada según la prensa, sin original ni firmeza comprobados
 - nombre: Juan Cotino
   cargo: Exconseller de Medio Ambiente, Agua, Urbanismo y Vivienda de la Generalitat Valenciana (PP)
-  rol: Querellado por su intervención en la tramitación autonómica; querella archivada
+  rol: Querellado en 2018; querella archivada según la prensa, sin original ni firmeza comprobados
 tags:
 - corrupción
 - prevaricación
@@ -248,8 +247,8 @@ cronologia:
     y declara inconstitucionales y nulos los artículos 4 a 6, el artículo 2.2 y las disposiciones adicional primera
     y transitoria primera del Real Decreto-ley 13/2014, que regulaban la compensación a Escal UGS y el derecho de
     cobro de Enagás con cargo al sistema gasista, por no concurrir el presupuesto de urgente necesidad. La sentencia
-    avala la extinción de la concesión, la hibernación y la asignación de la administración a Enagás (artículos
-    1 a 3). Se publicó en el BOE el 17 de enero de 2018.
+    mantiene la extinción de la concesión, la hibernación y la asignación de la administración a Enagás, sin extender
+    ese rechazo de los recursos al artículo 2.2, expresamente anulado. Se publicó en el BOE el 17 de enero de 2018.
   type: sentencia
   relevancia: alta
   urls:
