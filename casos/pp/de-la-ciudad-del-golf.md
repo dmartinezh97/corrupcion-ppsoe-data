@@ -1,9 +1,8 @@
 ---
-nombre: "de la Ciudad del Golf"
+nombre: "Caso de la Ciudad del Golf"
 partido: "PP"
 completado: false
 año: 2006
-fechaInicio: "2000-05-03"
 fechaFin: ""
 estado: "desconocido"
 descripcion: |
@@ -17,9 +16,8 @@ descripcion: |
 
   Con posterioridad, el Tribunal Supremo (STS 1650/2017, de 31 de octubre de 2017, recurso 315/2016; ROJ STS 3835/2017) desestimó el recurso de casación de Residencial Aguas Nuevas S.L. contra la sentencia del TSJ de Castilla y León (Valladolid) de 5 de noviembre de 2015, confirmando la denegación de su reclamación de indemnización (2.637.575,11 euros) por la anulación de la clasificación. Es la última resolución judicial documentada, pero se refiere al orden contencioso-administrativo y no constituye un cierre del procedimiento penal.
 
-  Situación actual y límites: el resultado penal documentado es de absolución en las dos piezas enjuiciadas (2012 y 2014), sin que se haya localizado resolución primaria que acredite su firmeza, y la pieza de la consejera fue archivada por auto de 2008. Por ello el estado se consigna como "desconocido". No consta ningún condenado. La ausencia de noticias posteriores no permite afirmar ni la continuidad de la investigación ni el cierre definitivo, ni presumir la firmeza. Las fuentes primarias disponibles son resoluciones publicadas por el CGPJ (contencioso y autos/sentencias penales) y prensa; no se ha localizado el texto íntegro de la sentencia de 2014 del Juzgado de lo Penal nº 2 de Valladolid.
+  Situación documentada y límites de la revisión a 17 de octubre de 2026: el resultado penal documentado es de absolución en las dos piezas enjuiciadas (2012 y 2014), sin que se haya localizado resolución primaria que acredite su firmeza, y la pieza de la consejera fue archivada por auto de 2008. Por ello el estado se consigna como "desconocido". No consta ningún condenado. La ausencia de noticias posteriores no permite afirmar ni la continuidad de la investigación ni el cierre definitivo, ni presumir la firmeza. Las fuentes primarias disponibles son resoluciones publicadas por el CGPJ (contencioso y autos/sentencias penales) y prensa; no se ha localizado el texto íntegro de la sentencia de 2014 del Juzgado de lo Penal nº 2 de Valladolid.
 resumen: "Proyecto urbanístico en terrenos protegidos de Las Navas del Marqués: la jurisdicción contenciosa anuló la clasificación y las dos piezas penales enjuiciadas terminaron con absoluciones (2012 y 2014), sin firmeza acreditada; el archivo de la pieza de la consejera (2008) y la desestimación de la indemnización (2017) completan la secuencia"
-coste: 0
 lugar: "Las Navas del Marqués, Ávila, Castilla y León"
 tribunal:
   - "Tribunal Superior de Justicia de Castilla y León - Sala de lo Contencioso-Administrativo (Burgos)"
@@ -240,6 +238,7 @@ cronologia:
     type: "sentencia"
     relevancia: "alta"
     urls:
+      - "https://elpais.com/sociedad/2012/06/07/actualidad/1339088447_534078.html?outputType=amp"
       - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=8f92c3d133c43c20&encode=true&databasematch=AN"
 
   - fecha: "2012-08-04"
@@ -291,7 +290,25 @@ cronologia:
 - **Firmeza**: no se presume. Ni la sentencia de 2012 ni la de 2014 tienen firmeza acreditada en las fuentes consultadas. No consta documentada una decisión de no recurrir "por razones económicas"; la nota de abril de 2014 indica, al contrario, que las organizaciones estudiaban recurrir.
 - **Cierre**: no consta un cierre definitivo del caso. La última resolución documentada es de 2017 y se refiere a una reclamación de indemnización en el orden contencioso-administrativo, no al procedimiento penal.
 - **Naturaleza de la resolución contenciosa de 2006**: no anuló un "Plan Parcial", sino la clasificación como suelo urbanizable delimitado del Sector SUZD-4 y los actos de 30 de abril y 23 de octubre de 2003. El Plan Parcial se aprobó en 2004.
-- **Nombres**: las sentencias penales publicadas por el CGPJ están anonimizadas. La identificación nominal del alcalde, el secretario y el promotor procede de prensa y se corrobora con el BOP de 20 de julio de 2005 y el acta del pleno de 27 de abril de 2010, que recogen sus nombres y cargos durante el periodo de los hechos.
+- **Nombres**: las sentencias penales publicadas por el CGPJ están anonimizadas. La crónica de El País de 7 de junio de 2012 identifica al alcalde Gerardo Pérez, al secretario Carlos de Vega y al promotor Francisco Gómez como absueltos. Los documentos municipales citados en la ficha heredada aportan nombres y cargos, pero no se usan para reconstruir la correspondencia entre personas y seudónimos judiciales.
 - **Nº de resolución y ROJ**: en varias resoluciones el "nº de resolución" de la cabecera y el ROJ son identificadores distintos. La ficha cita ambos cuando constan; cuando la cabecera no asigna número de resolución, no se inventa.
 - **Cifras del proyecto**: las fuentes discrepan (1.500 o 1.600 viviendas; 210 o 215 hectáreas; uno o dos campos de golf); se recogen como aproximadas.
 - **Datos económicos**: no se ha fijado un `coste` público atribuible. Las cifras documentadas (compra de terrenos, venta a la promotora, indemnización reclamada) corresponden a operaciones y reclamaciones distintas y no se suman como si fueran equivalentes.
+
+## Qué acreditan las resoluciones y qué queda pendiente
+
+La anulación urbanística y el resultado penal responden a preguntas distintas. La casación contenciosa de 2010 mantuvo la nulidad de la clasificación del suelo. La sentencia penal de Ávila de 2012 absolvió expresamente de prevaricación, malversación y fraude; por tanto, aquella nulidad administrativa no se presenta como una condena penal ni prueba por sí sola una actuación delictiva. La resolución contenciosa de 2017 rechazó la indemnización solicitada por la promotora, sin resolver recursos penales ni declarar su firmeza.
+
+El archivo de la pieza de la consejera de 2008 tampoco se extiende automáticamente a quienes informaron el expediente ambiental. El auto de Valladolid de mayo de 2011 explica esa diferencia; el de enero de 2012 revoca el sobreseimiento libre y ordena al instructor transformar las diligencias. Son decisiones de continuación procesal, no condenas. La absolución de los cinco cargos y técnicos comunicada en 2014 se mantiene con alcance secundario, porque falta el original de esa sentencia y la comprobación de sus posibles recursos.
+
+### Fechas y magnitudes económicas
+
+Se elimina la fecha de inicio de 3 de mayo de 2000 del campo general: corresponde a la constitución de Montes de las Navas, conservada como antecedente en la cronología, y no a la apertura de la investigación. La fecha de la sentencia de Ávila es 6 de junio de 2012; la crónica nominal consultada se publicó el día 7 y señala su notificación ese día. Publicación, notificación y fecha de resolución no se intercambian.
+
+Se elimina también el coste de cero euros. La falta de una cuantificación global del daño público no acredita que el coste económico o ambiental fuese nulo. Los 2.637.575,11 euros de la casación de 2017 son la indemnización reclamada por la promotora y desestimada, no dinero concedido ni perjuicio público declarado. Las operaciones de compra, venta y permuta no deben sumarse a esa reclamación como un único importe de corrupción.
+
+### Alcance real del cotejo de fuentes
+
+En esta revisión se han descargado los ocho PDF enlazados en documentos: siete desde el CGPJ y una copia del auto de enero de 2012 alojada por Ecologistas en Acción, parte acusadora. Se han comprobado cabeceras, fechas, órganos, paginaciones y metadatos; se han leído parcialmente los dispositivos y pasajes finales de los siete documentos del CGPJ e íntegramente el auto de enero de 2012 (tres páginas). El fallo absolutorio de 2012 se ha inspeccionado también visualmente en su página 13. No se afirma lectura íntegra de todas las resoluciones.
+
+El cuerpo de la noticia de El País de junio de 2012 se ha recuperado y leído. La nota de Ecologistas en Acción de abril de 2014 quedó bloqueada en esta consulta; se conserva como fuente heredada sin atribuirle una nueva lectura. Un enlace localizado a una supuesta noticia de Tribuna sobre la decisión de no recurrir devuelve una portada genérica, por lo que su título no se usa para dar por acreditada esa decisión ni la firmeza. Sin sentencia de 2014, resoluciones de recurso o diligencias de firmeza, la ficha sigue incompleta.
