@@ -4,7 +4,7 @@ partido: PSOE
 completado: false
 año: 2001
 fechaFin: ''
-estado: pendiente de juicio
+estado: Pendiente de señalamiento a 7 de abril de 2026; evolución posterior no verificada
 descripcion: 'La pieza DP 2480/16–PA 51/23 examina ayudas a distintas entidades del grupo Promi entre 2001 y 2010.
   El auto 754/2023 de la Audiencia de Sevilla cifra el conjunto investigado en 12.673.884,23 euros e incluye ayudas
   de 3.825.156,22 euros a Promi Forja y de 2.558.123,94 euros a Muebles de Madera Promi. Son importes de operaciones
