@@ -1,112 +1,106 @@
 ---
-nombre: "Caso Mijas"
+nombre: Caso Mijas
 partido: PP
-completado: true
+completado: false
 año: 2017
-fechaInicio: 2017-03-15
-fechaFin: ""
-estado: archivado
-descripcion: |
-  El caso Mijas es una investigación judicial que gira en torno a Ángel Nozal Lajo, presidente del PP de Mijas y exalcalde del municipio malagueño (2011-2015), acusado de intentar comprar el apoyo de un concejal de la formación Costa del Sol Sí Puede mediante la promesa de un puesto de trabajo a cambio de su voto favorable en una moción de censura contra el entonces alcalde Juan Carlos Maldonado (Ciudadanos). El 15 de marzo de 2017, el concejal Francisco Martínez denunció públicamente que durante una reunión con ediles del PP, Ángel Nozal y el concejal Santiago Martín le ofrecieron un empleo en una urbanización durante cuatro años (tras la legislatura en curso) a cambio de apoyar la moción de censura que devolvería la alcaldía a Nozal.
+fechaInicio: '2017-03-15'
+fechaFin: ''
+estado: sobreseimiento provisional respecto de Nozal; alcance pendiente de cotejo
+descripcion: |-
+  Esta ficha se limita al procedimiento conocido como caso Mijas por el presunto ofrecimiento de un empleo al concejal Francisco Martínez Ávila, de Costa del Sol Sí Puede (CSSP), a cambio de apoyar una moción de censura contra el alcalde Juan Carlos Maldonado. La denuncia pública se conoció el 15 de marzo de 2017 y afectaba al portavoz del PP y exalcalde Ángel Nozal y al entonces concejal del PP Santiago Martín. No se presentan esos ofrecimientos como hechos judicialmente probados: ambos negaron haber comprado el apoyo del edil.
 
-  Según el relato de los hechos, tras la denuncia pública de Francisco Martínez, el Ministerio Fiscal vio indicios de un delito de cohecho en el presunto intento de Nozal y Santiago Martín de comprar la voluntad del edil mediante la promesa de empleo. El concejal Santiago Martín presentó su dimisión inmediatamente tras hacerse públicas las acusaciones. El fiscal solicitó al Juzgado de Instrucción número 2 de Fuengirola la citación como investigados de ambos concejales del PP. En octubre de 2017, Nozal fue citado a declarar como investigado ante dicho juzgado. A pesar de las investigaciones judiciales abiertas, y de que la coalición de gobierno formada por Ciudadanos y PSOE exigió la dimisión de Nozal, éste se mantuvo en su cargo de portavoz del PP y continuó siendo candidato en las elecciones municipales posteriores, incumpliendo el pacto PP-Ciudadanos que establecía "la separación inmediata de los cargos públicos imputados por delitos de corrupción".
+  El último resultado localizado para Nozal es un sobreseimiento provisional acordado por la Audiencia Provincial de Málaga en un auto fechado el 7 de marzo de 2019, según la noticia de Mijas Comunicación del día 14. El medio, que afirma haber consultado el auto, explica que la Sala no apreció una propuesta clara de Nozal para intercambiar empleo por apoyo político ni indicios suficientes de un acuerdo previo con Martín. También recoge objeciones a la transcripción parcial de la grabación aportada por el denunciante y a la falta de una pericial pedida por la defensa. No se afirma que la grabación estuviera manipulada: esa era una alegación defensiva, no una conclusión pericial acreditada en las fuentes leídas.
 
-  El caso Mijas forma parte de un conjunto de investigaciones judiciales que afectaron a Ángel Nozal durante y después de su mandato como alcalde, incluyendo los casos de Sobresueldos (archivado en 2024), Subastas (archivado en 2019) y otras causas por prevaricación administrativa. Todas las denuncias relacionadas con su gestión política han sido archivadas según información actualizada a 2025, manteniendo la presunción de inocencia. Sin embargo, el caso generó un fuerte impacto político en el municipio y contribuyó a la derrota electoral del PP en Mijas en las elecciones de 2023, según declaraciones del propio Nozal, que atribuyó la pérdida de 500 votos a las "causas judiciales" que le afectaron.
+  No se ha recuperado el auto original ni su número, firmeza o posibles resoluciones posteriores. La noticia identifica el sobreseimiento de las actuaciones contra Nozal; sin el fallo no se extiende automáticamente ese pronunciamiento a Santiago Martín ni se transforma un sobreseimiento provisional en absolución de juicio o archivo definitivo. Tampoco se mantiene la afirmación heredada, basada en Wikipedia, de que todas las denuncias contra Nozal estuvieran archivadas en 2025.
 
-resumen: "Exalcalde PP de Mijas investigado por ofrecer empleo a concejal de Podemos a cambio de apoyo en moción de censura"
-lugar: "Mijas, Málaga, Andalucía"
+  La información contemporánea describía una oferta de trabajo durante cuatro años una vez concluido el mandato municipal, extremo denunciado por Martínez y negado por los políticos del PP. Santiago Martín dimitió el 16 de marzo de 2017, según EFE, explicando que quería defenderse sin perjudicar a su partido y negando el intercambio de empleo por voto. El 1 de junio se informó de que la Fiscalía había solicitado que Nozal y Martín fueran citados como investigados por posible cohecho. El 23 de octubre de 2017 Nozal declaró como investigado ante el Juzgado de Instrucción número 2 de Fuengirola y Martínez compareció como testigo, según EFE. Una petición fiscal de investigación no era acusación de juicio ni condena.
+
+  Las causas sobre Subastas, Sobresueldos, el edificio de Mijas Comunicación y otras denuncias son procedimientos diferentes. Sus archivos, acusaciones o noticias electorales no acreditan por sí solos el resultado de este cohecho investigado. Las críticas de PSOE o Ciudadanos y las respuestas del PP se atribuyen a sus autores; no se adopta como conclusión judicial el incumplimiento de un pacto político ni se atribuye una pérdida electoral de 500 votos a esta causa sin fuente verificable. No se ha acreditado aquí daño patrimonial ni entrega de dinero; no se informa un coste de corrupción.
+resumen: Investigación por un presunto ofrecimiento de empleo a un concejal de CSSP para apoyar una moción de censura
+  en Mijas; sobreseimiento provisional respecto de Nozal en marzo de 2019 según prensa. Auto original y alcance
+  respecto de Martín pendientes.
+lugar: Mijas, Málaga, Andalucía
 tribunal:
-  - "Juzgado de Instrucción nº 2 de Fuengirola"
-numeroSentencia: ""
+- Juzgado de Instrucción número 2 de Fuengirola (investigación)
+- Audiencia Provincial de Málaga (auto de sobreseimiento provisional de 07-03-2019, según prensa)
+numeroSentencia: Auto de la Audiencia Provincial de Málaga de 07-03-2019, según Mijas Comunicación; número no localizado
 implicados:
-  - nombre: "Ángel Nozal Lajo"
-    cargo: "Exalcalde de Mijas (2011-2015), presidente y portavoz del PP de Mijas"
-    rol: "Investigado por presunto delito de cohecho. Acusado de ofrecer empleo a cambio de voto en moción de censura"
-
-  - nombre: "Santiago Martín Villamor"
-    cargo: "Exconcejal del PP de Mijas"
-    rol: "Investigado por presunto delito de cohecho. Dimitió tras las acusaciones"
-
-  - nombre: "Francisco Martínez Ávila"
-    cargo: "Concejal de Costa del Sol Sí Puede (Podemos)"
-    rol: "Denunciante. Concejal que recibió la presunta oferta de empleo a cambio de apoyo político"
-
-  - nombre: "Juan Carlos Maldonado"
-    cargo: "Alcalde de Mijas (Ciudadanos)"
-    rol: "Alcalde objetivo de la moción de censura que motivó el presunto intento de cohecho"
-
+- nombre: José Ángel Nozal Lajo (conocido como Ángel Nozal)
+  cargo: Concejal y portavoz del PP de Mijas; exalcalde durante los hechos investigados
+  rol: Declaró como investigado en 2017. Sobreseimiento provisional de las actuaciones contra él por auto de 7 de
+    marzo de 2019, según noticia que cita la resolución. No se ha cotejado el original ni su firmeza.
+- nombre: Santiago Martín Villamor
+  cargo: Exconcejal del PP de Mijas
+  rol: La Fiscalía pidió citarlo como investigado por el presunto ofrecimiento. Dimitió el 16 de marzo de 2017 y
+    negó la compra del apoyo. El alcance personal del auto de 2019 respecto de él no está verificado.
+- nombre: Francisco Martínez Ávila
+  cargo: Concejal de Costa del Sol Sí Puede (Podemos)
+  rol: Denunciante y testigo; no se le atribuye responsabilidad penal por el presunto cohecho. La querella por calumnias
+    anunciada por el PP es un procedimiento distinto, cuyo resultado no se documenta aquí.
+- nombre: Juan Carlos Maldonado Estévez
+  cargo: Alcalde de Mijas por Ciudadanos en el momento de los hechos denunciados
+  rol: Alcalde contra el que se planteaba la moción de censura según la denuncia; no investigado por este ofrecimiento
+    en las fuentes consultadas.
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "tráfico de influencias"
-  - "compra de votos"
-
-impactoSocial: "El caso generó polémica política en Mijas al evidenciar el incumplimiento del pacto PP-Ciudadanos para apartar imputados por corrupción. Según Nozal, las causas judiciales le costaron al PP 500 votos en las elecciones municipales de 2023."
-
-documentos: null
-
+- cohecho investigado
+- moción de censura
+- sobreseimiento provisional
+impactoSocial: La denuncia provocó controversia política y la dimisión de Santiago Martín. Las explicaciones de
+  los partidos y el sobreseimiento provisional respecto de Nozal se distinguen de una condena y de una valoración
+  probada sobre el resultado electoral.
+documentos: []
 cronologia:
-  - fecha: "2017-03-15"
-    titulo: "Denuncia pública del concejal Francisco Martínez"
-    descripcion: "El concejal de Costa del Sol Sí Puede, Francisco Martínez Ávila, denuncia públicamente que Ángel Nozal y Santiago Martín le ofrecieron un puesto de trabajo en una urbanización durante cuatro años a cambio de apoyar una moción de censura contra el alcalde Juan Carlos Maldonado. La noticia es publicada por el diario SUR y genera un escándalo político en el municipio."
-    type: "denuncia"
-    urls:
-      - "https://www.infolibre.es/politica/pp-mijas-ofrece-trabajo-concejal-si-les-apoya-mocion-censura_1_1138054.html"
-
-  - fecha: "2017-03-16"
-    titulo: "Exigencia de dimisión por parte del alcalde Maldonado"
-    descripcion: "El alcalde Juan Carlos Maldonado exige la dimisión inmediata de Ángel Nozal y que entregue su acta de concejal tras conocerse las acusaciones de intento de cohecho. La coalición de gobierno formada por Ciudadanos y PSOE muestra su indignación ante los hechos denunciados."
-    type: "resumen"
-    urls:
-      - "https://www.mijas.es/portal/maldonado-exige-la-dimision-inmediata-de-angel-nozal-y-que-entregue-su-acta-de-concejal/"
-
-  - fecha: "2017-03"
-    titulo: "Dimisión del concejal Santiago Martín"
-    descripcion: "El concejal del PP Santiago Martín Villamor presenta su dimisión tras las acusaciones de haber participado en el intento de compra del voto del concejal de Costa del Sol Sí Puede. Su renuncia se produce pocos días después de hacerse pública la denuncia."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Mijas&numero=349"
-
-  - fecha: "2017-06-01"
-    titulo: "El Ministerio Fiscal solicita citar a Nozal como investigado"
-    descripcion: "La Fiscalía ve indicios de un delito de cohecho en el presunto intento de Ángel Nozal y Santiago Martín de comprar el apoyo del concejal de Costa del Sol Sí Puede mediante la promesa de empleo a cambio de su voto en una moción de censura. El fiscal solicita al Juzgado de Instrucción número 2 de Fuengirola que cite a ambos como investigados."
-    type: "investigación"
-    urls:
-      - "https://mijascomunicacion.com/actualidad/12763/el-fiscal-pide-citar-a-nozal-como-investigado-por-el-caso-mijas/"
-
-  - fecha: "2017-06"
-    titulo: "Diputación de Málaga adjudica contratos al dimisionario Santiago Martín"
-    descripcion: "Se revela que la Diputación de Málaga, presidida por Elías Bendodo (PP), adjudicó once contratos a dedo al restaurante de Santiago Martín entre octubre de 2016 y junio de 2017, por un valor cercano a 5.000 euros. Cinco de estos contratos se produjeron después de su dimisión y mientras estaba siendo investigado por presunto cohecho, lo que generó críticas del PSOE sobre trato de favor."
-    type: "resumen"
-    urls:
-      - "https://www.elplural.com/autonomias/andalucia/la-diputacion-de-malaga-contrato-cinco-veces-a-dedo-al-edil-del-pp-que-quiso-comprar-a-podemos_111802102"
-      - "https://www.psoemalaga.es/actualidad/ver-nota-prensa/id/6213/titular/la-diputacion-adjudico-11-contratos-a-dedo-al-concejal-del-caso-mijas-una-vez-ya-habia-dimitido-y-estaba-siendo-investigado-por-supuesto-cohecho.html"
-
-  - fecha: "2017-10"
-    titulo: "Citación de Ángel Nozal para declarar como investigado"
-    descripcion: "Ángel Nozal es citado a declarar ante el Juzgado de Instrucción número 2 de Fuengirola como investigado por un presunto delito de cohecho. La citación se produce tras la solicitud del Ministerio Fiscal de abrir diligencias preliminares para investigar los hechos denunciados por el concejal Francisco Martínez."
-    type: "declaración"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Mijas&numero=349"
-
-  - fecha: "2017-11"
-    titulo: "Ciudadanos critica que PP mantenga a Nozal como candidato"
-    descripcion: "Ciudadanos Mijas critica públicamente que el PP mantenga a Ángel Nozal como candidato a la alcaldía a pesar de estar investigado por presunto delito de corrupción, evidenciando el incumplimiento del pacto entre PP y Ciudadanos que establecía apartar a los cargos imputados por delitos de corrupción en Andalucía."
-    type: "resumen"
-    urls:
-      - "https://mijascomunicacion.com/actualidad/27492/cs-critica-que-el-pp-mantenga-como-candidato-en-mijas-a-un-investigado-por-corrupcion/"
-      - "https://www.eldiario.es/andalucia/ciudadanos-pp-incumplen-corrupcion-andalucia_1_1715845.html"
-
-  - fecha: "2023-05"
-    titulo: "PP pierde las elecciones municipales en Mijas"
-    descripcion: "El PP pierde las elecciones municipales en Mijas por aproximadamente 500 votos. Según declaraciones posteriores del propio Ángel Nozal, la derrota electoral del PP se debió a las causas judiciales que le afectaron, incluyendo el caso Mijas de cohecho, que aunque no prosperaron judicialmente, tuvieron un impacto político significativo en el electorado."
-    type: "resumen"
-    urls: []
-
-  - fecha: "2025-01"
-    titulo: "Estado de archivación del caso"
-    descripcion: "Según información actualizada a enero de 2025 en Wikipedia, todas las denuncias interpuestas contra Ángel Nozal relacionadas con su gestión política, incluyendo el caso Mijas de cohecho, han sido archivadas, manteniéndose su presunción de inocencia. No se ha encontrado documentación pública sobre sentencia condenatoria ni sobre el archivo formal del procedimiento penal por cohecho."
-    type: "resumen"
-    urls:
-      - "https://es.wikipedia.org/wiki/%C3%81ngel_Nozal"
+- fecha: '2017-03-15'
+  titulo: Se publica la denuncia del presunto ofrecimiento
+  descripcion: La prensa informa de la denuncia pública sobre un empleo a cambio de apoyo a una moción de censura.
+    Nozal lo niega. Esta fecha es de publicación, no la de todas las conversaciones ni la de presentación de una
+    denuncia judicial.
+  type: denuncia
+  relevancia: alta
+  urls:
+  - https://www.infolibre.es/politica/pp-mijas-ofrece-trabajo-concejal-si-les-apoya-mocion-censura_1_1138054.html
+- fecha: '2017-03-16'
+  titulo: Dimisión de Santiago Martín
+  descripcion: EFE informa de que Martín renuncia al acta para defenderse y no perjudicar a su partido, negando
+    que ofreciera empleo a cambio de apoyar una moción. Su dimisión no es reconocimiento judicial de culpabilidad.
+  type: resumen
+  relevancia: alta
+  urls:
+  - https://www.lavanguardia.com/politica/20170316/42928641973/dimite-un-edil-del-pp-de-mijas-tras-denunciarse-intento-de-compra-a-podemos.html
+- fecha: '2017-06-01'
+  titulo: Se informa de la petición fiscal de citación
+  descripcion: Mijas Comunicación informa de que Fiscalía pide citar a Nozal y Martín como investigados por posible
+    cohecho. La fecha es de la noticia; no se dispone del escrito fiscal original ni del día exacto de su presentación.
+  type: investigación
+  relevancia: alta
+  urls:
+  - https://mijascomunicacion.com/actualidad/12763/el-fiscal-pide-citar-a-nozal-como-investigado-por-el-caso-mijas/
+- fecha: '2017-10-23'
+  titulo: Nozal declara como investigado y Martínez como testigo
+  descripcion: EFE informa de las comparecencias ante el Juzgado de Instrucción número 2 de Fuengirola y de que
+    no se adoptaron medidas cautelares contra Nozal. No equivale a condena ni a apertura de juicio oral.
+  type: declaración
+  relevancia: alta
+  urls:
+  - https://www.malagahoy.es/malaga/Nozal-presunto-concejal-Podemos-Mijas_0_1184282200.html
+- fecha: '2019-03-07'
+  titulo: Sobreseimiento provisional respecto de Nozal, según noticia posterior
+  descripcion: Mijas Comunicación publica el 14 de marzo que la Audiencia Provincial de Málaga acordó el día 7 el
+    sobreseimiento provisional de las actuaciones contra Nozal. El medio cita insuficiencia de indicios y problemas
+    de la transcripción de la grabación. Falta el auto original para precisar su número, firmeza y alcance personal
+    respecto de Martín.
+  type: resolución
+  relevancia: alta
+  urls:
+  - https://mijascomunicacion.com/actualidad/16202/la-audiencia-provincial-exculpa-a-nozal-de-un-supuesto-delito-de-cohecho-en-el-caso-mijas/
 ---
+
+## Fuentes y límites de la revisión
+
+Revisión a 17 de octubre de 2026. El resultado judicial descrito procede de una noticia que cita el auto de 2019; no se ha recuperado la resolución original ni una constancia de firmeza o reapertura. Se mantiene `documentos: []` y la revisión documental incompleta. No se generalizan los archivos de otras causas ni se deduce un desenlace del silencio informativo posterior.
+
+La [página y acta municipal de 29 de septiembre de 2016](https://videoacta.mijas.es/VIDEOACTA/Pleno.jsp?fecha=2016-09-29&id=77), consultadas en sus pasajes nominales y de presidencia, recogen a José Ángel Nozal Lajo, Santiago Martín Villamor, Francisco Martínez Ávila y Juan Carlos Maldonado Estévez y sus grupos municipales. Se usan para identificar nombres y cargos, no como prueba del ofrecimiento denunciado. Las fuentes nominales evitan equiparar identidades con seudónimos judiciales.
+
+Se corrige la referencia municipal a una exigencia de dimisión: la nota enlazada estaba fechada el 24 de marzo de 2017, no el 16. Sus juicios políticos y alusiones a otros procedimientos no se trasladan como hechos probados. La noticia de Ciudadanos que figuraba en noviembre de 2017 era del 16 de mayo de 2023 y trataba de Sobresueldos y otra denuncia, por lo que se retira de esta cronología. También se retiran las entradas sin día preciso, la afirmación de archivo general basada en Wikipedia y la causalidad electoral no documentada.
+
+Las noticias sobre contratos del restaurante de Martín en Diputación reflejaban denuncias políticas distintas: no acreditan un pago del supuesto soborno ni un perjuicio de este procedimiento y no se agregan a un coste. Quedan pendientes el desenlace individual de Martín, el original del auto y la identificación del procedimiento y de cualquier recurso posterior.
