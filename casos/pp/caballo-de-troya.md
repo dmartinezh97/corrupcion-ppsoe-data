@@ -36,7 +36,7 @@ implicados:
 - nombre: José Martínez Núñez
   cargo: Empresario berciano, presidente del grupo Martínez Núñez
   rol: Vendió a Ángel de Cabo los hoteles de Lugo, Ourense y Santiago y la constructora Teconsa; falleció en
-    agosto de 2015, antes del juicio
+    2015, antes del juicio
 - nombre: Alfredo Cuevas
   cargo: Hijo del expresidente de la CEOE José María Cuevas
   rol: Detenido en la operación de 2013 y puesto en libertad con cargos tras declarar el 5 de febrero de 2013;
