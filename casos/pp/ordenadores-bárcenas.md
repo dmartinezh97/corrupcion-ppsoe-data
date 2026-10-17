@@ -1,151 +1,182 @@
 ---
-nombre: "Ordenadores Bárcenas"
+nombre: Ordenadores Bárcenas
 partido: PP
-completado: true
+completado: false
 año: 2013
-fechaInicio: 2013-08-16
-fechaFin: 2020-07-20
-estado: "sobreseimiento"
-descripcion: |
-  El caso de los ordenadores de Bárcenas hace referencia a la destrucción de los discos duros de los dos ordenadores portátiles que Luis Bárcenas, extesorero del PP, utilizaba en la sede del partido en la calle Génova 13 de Madrid. En agosto de 2013, el juez Pablo Ruz, titular del Juzgado Central de Instrucción número 5 de la Audiencia Nacional, requirió al PP que le entregara esos equipos para investigar si contenían información relevante sobre la contabilidad paralela (caja B) del partido. Cuando los ordenadores fueron entregados el 19 de agosto de 2013, el secretario judicial constató que uno de ellos, un Toshiba Libretto, carecía de disco duro, y el otro, un MacBook Pro, tenía un disco duro que no era el original. Los datos habían sido borrados aplicando un protocolo de sobreescritura de 35 pasadas y los discos físicamente rallados, entre mayo y julio de 2013, por orden del jefe de la Asesoría Jurídica del PP, Alberto Durán, ejecutado materialmente por el responsable informático José Manuel Moreno.
+fechaInicio: '2013-08-16'
+fechaFin: '2020-07-13'
+estado: absolución firme
+descripcion: |-
+  Esta causa se refiere al borrado y destrucción de los discos duros de dos portátiles usados por Luis Bárcenas en la sede del PP, no a las condenas de Gürtel, la caja B, la reforma de Génova o Kitchen. El resultado es la absolución firme del Partido Popular, Carmen Navarro, Alberto Durán y José Manuel Moreno. El PP fue acusado como persona jurídica exclusivamente por daños informáticos; el encubrimiento se imputaba a las tres personas físicas. Se corrige el estado heredado de sobreseimiento: hubo juicio y sentencia absolutoria.
 
-  La investigación fue asumida por el Juzgado de Instrucción número 32 de Madrid, a cargo de la jueza Rosa María Freire, al considerar el juez Ruz que la causa correspondía a la jurisdicción ordinaria. La jueza procesó en 2016 al Partido Popular como persona jurídica, a la tesorera Carmen Navarro, al abogado Alberto Durán y al técnico informático José Manuel Moreno por un presunto delito de daños informáticos y otro de encubrimiento. La jueza consideró que existían indicios de "un borrado a conciencia, con ánimo de destruir, no solo los archivos existentes, sino cualquier otra información que hubiera existido previamente en los discos duros". El fiscal, sin embargo, se opuso al procesamiento argumentando que la destrucción no era constitutiva de delito al pertenecer los equipos al PP. Luis Bárcenas participó inicialmente como acusación particular pero retiró su acusación en septiembre de 2016.
+  El Juzgado de lo Penal número 31 de Madrid absolvió el 4 de septiembre de 2019. La Sección Séptima de la Audiencia Provincial confirmó el fallo mediante sentencia 271/2020, de 13 de julio, que declara expresamente su firmeza desde esa fecha y que no cabe recurso. El 20 de julio fue la comunicación del CGPJ. Su nota menciona por error la Sección Sexta; el encabezamiento, identificación CENDOJ y firma del PDF judicial indican Séptima y se sigue la resolución.
 
-  El Juzgado de lo Penal número 31 de Madrid, con el juez Eduardo Muñoz de Baena al frente, absolvió a todos los acusados en septiembre de 2019 por falta de pruebas, al no poder establecerse sin duda razonable que los discos duros destruidos contuvieran información relevante para la investigación de la caja B. La Sección Sexta de la Audiencia Provincial de Madrid confirmó la absolución en julio de 2020, al desestimar todos los recursos presentados por las acusaciones populares —Izquierda Unida, el Observatorio de Derechos Humanos, la Confederación de los Verdes y la Asociación Justicia y Sociedad—. La resolución es firme y no cabe recurso alguno contra ella, cerrando definitivamente el procedimiento penal.
+  Los hechos probados reproducidos y aceptados en apelación describen un borrado seguro de 35 sobreescrituras, seguido de rayado y descarte de los dos soportes. El proceso se sitúa en mayo de 2013 o fechas próximas; el nuevo disco del Apple recibió el sistema operativo los días 2 y 3 de julio. Eso ocurrió antes del requerimiento judicial de entrega de 16 de agosto, aunque la investigación sobre Bárcenas ya estaba abierta. Las fuentes nominales contemporáneas identifican a Moreno como ejecutor y a Durán como responsable jurídico que ordenó aplicar el protocolo. No se declara probada una intervención activa de Carmen Navarro en la decisión o ejecución.
 
-resumen: "El PP destruyó los discos duros de los ordenadores de su extesorero Bárcenas en plena investigación judicial, siendo finalmente absuelto por falta de pruebas"
-coste: 0
-lugar: "Madrid, España"
+  La absolución no declara demostrado que los discos estuvieran vacíos: considera no acreditado que contuvieran datos al borrarse, su valor económico y que no existieran copias, así como la intención de perjudicar a Bárcenas o de impedir la acreditación de delitos. Tampoco se probó a quién pertenecía el Apple; el Toshiba era del PP. Por eso no se presenta a Bárcenas como propietario judicialmente reconocido de ambos equipos. Además de la valoración probatoria, la sentencia examinó la falta de legitimación de las acusaciones populares para sostener solas el delito de daños informáticos, tras la retirada de Bárcenas y la postura no acusatoria del fiscal; ese límite no se aplicó al encubrimiento, vinculado a la Administración de Justicia.
+
+  El auto de Pablo Ruz de 19 de septiembre de 2013, que remitió testimonio a los juzgados ordinarios de Madrid, reproduce el requerimiento de 16 de agosto y la diligencia de clonado de 29 de agosto. Se corrige la remisión fechada en octubre que figuraba en la ficha. Ese auto registra la presentación de los equipos el 19 de agosto, mientras los hechos probados posteriores citan el día 20; se conservan ambas referencias como discrepancia pendiente de cotejar con el registro original. La constatación forense del Toshiba sin disco y del Apple con indicios de cambio fue el 29, no el día de la entrega. La sentencia distingue también el disco averiado del Apple que había sido sustituido por encargo de Bárcenas en 2012 de los soportes tratados en 2013.
+
+  El procedimiento abreviado se acordó el 26 de julio de 2016. Bárcenas fue tenido por desistido de la acción penal el 14 de septiembre, con reserva de acciones civiles. El juicio oral se abrió el 30 de noviembre de 2017; Fiscalía formuló calificación absolutoria el 25 de enero de 2018 y la mantuvo en el juicio, según los antecedentes judiciales. No se convierte esa postura fiscal en defensa procesal del partido ni se reduce su razonamiento a la propiedad de los equipos. Las reclamaciones de multa de las acusaciones no son penas impuestas ni un coste patrimonial acreditado.
+resumen: Absolución firme del PP y de tres empleados por la destrucción de los discos duros usados por Bárcenas.
+  La sentencia de apelación es de 13 de julio de 2020; distingue el borrado acreditado de los elementos delictivos
+  no probados.
+lugar: Madrid, España
 tribunal:
-  - "Juzgado Central de Instrucción nº 5 - Audiencia Nacional (Juez Pablo Ruz)"
-  - "Juzgado de Instrucción nº 32 de Madrid (Jueza Rosa María Freire)"
-  - "Juzgado de lo Penal nº 31 de Madrid (Juez Eduardo Muñoz de Baena)"
-  - "Audiencia Provincial de Madrid - Sección Sexta"
-numeroSentencia: ""
+- Juzgado Central de Instrucción número 5 de la Audiencia Nacional (requerimiento y remisión parcial de testimonio)
+- Juzgado de Instrucción número 32 de Madrid (instrucción)
+- Juzgado de lo Penal número 31 de Madrid (sentencia de 04-09-2019, procedimiento 80/2018)
+- Audiencia Provincial de Madrid, Sección Séptima (sentencia firme 271/2020)
+numeroSentencia: SAP Madrid 271/2020, de 13-07-2020, Sección Séptima, apelación 192/2020 (ROJ SAP M 5442/2020; ECLI:ES:APM:2020:5442),
+  confirma sentencia 267/2019 del Penal 31 de Madrid de 04-09-2019, procedimiento 80/2018.
 implicados:
-  - nombre: "Alberto Durán"
-    cargo: "Jefe de la Asesoría Jurídica del PP"
-    rol: "Ordenó el borrado y destrucción de los discos duros. Absuelto"
-
-  - nombre: "José Manuel Moreno"
-    cargo: "Responsable del departamento informático del PP"
-    rol: "Ejecutó materialmente el borrado de 35 pasadas y el rayado de discos. Absuelto"
-
-  - nombre: "Carmen Navarro"
-    cargo: "Tesorera del PP"
-    rol: "Procesada por responsabilidad en la destrucción de los ordenadores. Absuelta"
-
-  - nombre: "Partido Popular (PP)"
-    cargo: "Partido político"
-    rol: "Procesado como persona jurídica por daños informáticos y encubrimiento. Absuelto"
-
-  - nombre: "Luis Bárcenas Gutiérrez"
-    cargo: "Extesorero del PP"
-    rol: "Propietario de los ordenadores; acusación particular retirada en 2016"
-
+- nombre: Alberto Durán Ruiz de Huidobro
+  cargo: Jefe de la Asesoría Jurídica del PP
+  rol: Acusado por daños informáticos y encubrimiento; absuelto con firmeza. Las fuentes nominales atribuyen a su
+    función jurídica la orden de aplicar el protocolo, sin intención delictiva probada.
+- nombre: José Manuel Moreno Alarcón
+  cargo: Responsable del departamento informático del PP
+  rol: Acusado por daños informáticos y encubrimiento; absuelto con firmeza. Identificado por las noticias nominales
+    como ejecutor del borrado y rayado; no se probaron los elementos delictivos atribuidos.
+- nombre: Carmen Navarro Fernández-Rodríguez
+  cargo: Tesorera del PP
+  rol: Acusada por daños informáticos y encubrimiento; absuelta con firmeza. No quedó acreditada su intervención
+    activa en la autorización, decisión o ejecución del borrado.
+- nombre: Partido Popular (PP)
+  cargo: Partido político
+  rol: Acusado como persona jurídica por daños informáticos, no por encubrimiento; absuelto con firmeza.
+- nombre: Luis Bárcenas Gutiérrez
+  cargo: Extesorero del PP
+  rol: Usuario de los equipos y acusación particular inicialmente; desistió de la acción penal en 2016 con reserva
+    de acciones civiles. No acusado en esta causa. La propiedad del Apple no quedó determinada y el Toshiba era
+    del PP.
 tags:
-  - "corrupción"
-  - "destrucción de pruebas"
-  - "obstrucción a la justicia"
-  - "daños informáticos"
-  - "encubrimiento"
-  - "caja B"
-
-impactoSocial: "El caso evidenció la posible voluntad del PP de impedir el acceso judicial a pruebas sobre la caja B en plena investigación del caso Bárcenas. Aunque la absolución fue firme, la destrucción sistemática de los discos duros con un protocolo de 35 pasadas generó una profunda desconfianza ciudadana sobre la transparencia del partido y su actitud ante las investigaciones judiciales."
-
-documentos: []
-
+- daños informáticos investigados
+- encubrimiento investigado
+- absolución firme
+impactoSocial: El procedimiento examinó la responsabilidad penal de un partido como persona jurídica y suscitó debate
+  público sobre el borrado de datos en una investigación judicial. El resultado absolutorio no se sustituye por
+  juicios sobre una supuesta intención probada de destruir pruebas.
+documentos:
+- fecha: '2013-09-19'
+  titulo: 'Auto del Juzgado Central de Instrucción 5: inhibición parcial y remisión de testimonio (copia publicada
+    por El Mundo)'
+  filetype: pdf
+  paginas: 11
+  nombre_fichero: https://e00-elmundo.uecdn.es/documentos/2013/09/19/ruz_ordenadores_barcenas.pdf
+- fecha: '2020-07-13'
+  titulo: SAP Madrid 271/2020, Sección Séptima, ROJ SAP M 5442/2020 (copia CENDOJ alojada por Personas Jurídicas)
+  filetype: pdf
+  paginas: 28
+  nombre_fichero: https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+- fecha: '2019-09-04'
+  titulo: Sentencia 267/2019 del Juzgado de lo Penal 31 de Madrid (copia nominativa publicada por ARA)
+  filetype: pdf
+  paginas: 74
+  nombre_fichero: https://static1.ara.cat/ara/public/content/file/original/2019/0904/11/llegeix-aqui-la-sentencia-del-jutge-sobre-els-ordinadors-de-barcenas-aa05b66.pdf
 cronologia:
-  - fecha: 2013-07-15
-    titulo: "Bárcenas entrega un pendrive al juez Ruz"
-    descripcion: "Luis Bárcenas hace llegar al juez Pablo Ruz del Juzgado Central de Instrucción nº 5 de la Audiencia Nacional un pendrive que, según afirma, contiene una copia de los archivos almacenados en su ordenador Toshiba de la sede del PP. Bárcenas alerta al juez de que el partido no le ha devuelto sus ordenadores, donde habría información relevante sobre la contabilidad paralela del partido. Esta comunicación impulsa al juez a requerir formalmente al PP la entrega de los equipos."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/politica/pp-entrega-ordenador-barcenas-disco_1_5788236.html"
-
-  - fecha: 2013-08-16
-    titulo: "El juez Ruz requiere al PP los ordenadores de Bárcenas"
-    descripcion: "Por auto de 16 de agosto de 2013, el juez Pablo Ruz requiere al Partido Popular que, en el plazo de cinco días, ponga a disposición del juzgado los dos ordenadores portátiles que Luis Bárcenas hubiera utilizado en la sede del partido en la calle Génova de Madrid. El requerimiento se produce en el marco de la investigación de la caja B del PP y tiene como objetivo analizar si los equipos contienen información sobre la contabilidad paralela del partido."
-    type: "investigación"
-    urls:
-      - "https://e00-elmundo.uecdn.es/documentos/2013/09/19/ruz_ordenadores_barcenas.pdf"
-
-  - fecha: 2013-08-19
-    titulo: "El PP entrega los ordenadores sin sus discos duros originales"
-    descripcion: "El PP entrega los dos ordenadores portátiles requeridos por el juez Ruz. Al examinarlos, el secretario judicial constata que el Toshiba Libretto carece de disco duro porque había sido extraído previamente, y que el MacBook Pro contiene un disco duro que no es el original. Los datos habían sido borrados con un protocolo de sobreescritura de 35 pasadas y los discos físicamente rallados entre mayo y julio de 2013. La entrega de los equipos manipulados genera una grave alarma judicial sobre la posible destrucción de pruebas en una investigación en curso."
-    type: "investigación"
-    urls:
-      - "https://www.libertaddigital.com/espana/politica/2013-08-29/el-pp-borro-los-discos-duros-de-los-dos-ordenadores-de-barcenas-1276498164/"
-      - "https://www.eldiario.es/politica/pp-entrega-ordenador-barcenas-disco_1_5788236.html"
-
-  - fecha: 2013-10-15
-    titulo: "El juez Ruz aprecia posibles delitos e inhibe la causa"
-    descripcion: "El juez Pablo Ruz emite un auto en el que aprecia posibles delitos de obstrucción a la justicia y daños informáticos en la destrucción de los discos duros por parte del PP. Al estimar que la competencia corresponde a la jurisdicción ordinaria de Madrid y no a la Audiencia Nacional, el juez Ruz se inhibe de la causa y la remite al Juzgado de Instrucción de turno en Madrid, que resulta ser el número 32 a cargo de la jueza Rosa María Freire."
-    type: "investigación"
-    urls:
-      - "https://www.elespanol.com/espana/20160125/97240323_0.html"
-
-  - fecha: 2016-07-26
-    titulo: "La jueza Freire procesa al PP y a tres empleados"
-    descripcion: "La jueza Rosa María Freire, titular del Juzgado de Instrucción número 32 de Madrid, procesa al Partido Popular como persona jurídica, a la tesorera Carmen Navarro, al jefe de la Asesoría Jurídica Alberto Durán y al responsable informático José Manuel Moreno por un presunto delito de daños informáticos y encubrimiento. La jueza considera que los discos duros fueron borrados a conciencia con ánimo destructor, aplicando un protocolo de sobreescritura de 35 pasadas seguido de rayado físico. El PP recurre el procesamiento."
-    type: "imputación"
-    urls:
-      - "https://www.nuevatribuna.es/articulo/espana/procesado-pp-destruccion-ordenadores-barcenas/20160726181028130414.html"
-      - "https://www.elespanol.com/espana/20160726/142986222_0.html"
-
-  - fecha: 2016-09-14
-    titulo: "Bárcenas retira su acusación particular"
-    descripcion: "El Juzgado de Instrucción número 32 tiene por desistido a Luis Bárcenas del ejercicio de la acción penal, perdiendo su condición de acusación particular aunque con reserva expresa de acciones civiles. La retirada de Bárcenas como acusación deja el proceso exclusivamente en manos de las acusaciones populares: Izquierda Unida, el Observatorio de Derechos Humanos y la Asociación de Abogados Demócratas de Europa."
-    type: "resumen"
-    urls:
-      - "https://www.publico.es/politica/barcenas-retira-acusacion-pp-destruccion.html"
-
-  - fecha: 2016-09-27
-    titulo: "La jueza confirma el procesamiento del PP pese a los recursos"
-    descripcion: "La jueza Rosa María Freire desestima los recursos de reforma presentados por la Fiscalía, el PP y el informático Moreno contra el auto de procesamiento, y ratifica la decisión de sentar en el banquillo al partido y a los tres empleados. El fiscal había argumentado que la destrucción no era delito porque los ordenadores eran propiedad del PP. La jueza replica que los indicios de borrado deliberado en plena investigación son suficientes para sostener el procesamiento."
-    type: "investigación"
-    urls:
-      - "https://publico.es/politica/jueza-confirma-procesamiento-pp-ordenadores.html"
-      - "https://diarioinformacion.com/nacional/2016/09/27/mantiene-procesamiento-pp-destruir-ordenadores/1810356.html"
-
-  - fecha: 2017-11-30
-    titulo: "La jueza abre juicio oral contra el PP"
-    descripcion: "La jueza Rosa María Freire dicta auto de apertura de juicio oral contra el Partido Popular como persona jurídica, Carmen Navarro, Alberto Durán y José Manuel Moreno. La jueza rechaza el intento del PP de acogerse a la doctrina Botín para evitar el banquillo, al considerar que existen acusaciones populares que mantienen viva la acción penal. El auto confirma la existencia de indicios suficientes para juzgar a los acusados por daños informáticos y encubrimiento."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/politica/juicio-PP-destruir-ordenadores-Barcenas_0_713928867.html"
-      - "https://confilegal.com/20171115-pp-considera-error-la-apertura-juicio-oral-caso-los-ordenadores-barcenas/"
-
-  - fecha: 2018-01-29
-    titulo: "El fiscal pide el sobreseimiento del caso"
-    descripcion: "El Ministerio Fiscal solicita que el caso sea sobreseído, argumentando que la destrucción de los discos duros no es constitutiva de ningún delito al ser los ordenadores propiedad del partido. El fiscal considera que no existe base suficiente para sostener los delitos de daños informáticos y encubrimiento que imputan las acusaciones populares. La postura del fiscal contrasta con la de la jueza instructora, que ha insistido en la existencia de indicios claros de borrado deliberado."
-    type: "resumen"
-    urls:
-      - "https://www.elespanol.com/espana/tribunales/20180129/fiscal-exculpa-pp-destruir-ordenadores-barcenas-no/280972395_0.html"
-
-  - fecha: 2019-06-14
-    titulo: "Inicio del juicio oral en el Juzgado de lo Penal nº 31"
-    descripcion: "Arranca el juicio oral ante el Juzgado de lo Penal número 31 de Madrid, con sede en el edificio de la Audiencia Nacional en San Fernando de Henares. El proceso se desarrolla a lo largo de cinco sesiones celebradas entre junio y julio de 2019. En el juicio se debate si la destrucción de los discos duros en plena investigación judicial constituye un delito de daños informáticos y encubrimiento, y si los discos podían contener información relevante sobre la caja B del PP. El fiscal mantiene su postura absolutoria, defendiendo al partido frente a las acusaciones populares."
-    type: "investigación"
-    urls:
-      - "https://www.publico.es/politica/destruccion-ordenadores-barcenas-videos-juicio-ordenadores-barcenas-defendio-fiscalia-pp.html"
-      - "https://www.publico.es/politica/discos-duros-barcenas-juicio-sentencia-absuelve-pp-destruccion-ordenadores-8-claves.html"
-
-  - fecha: 2019-09-04
-    titulo: "El Juzgado de lo Penal nº 31 absuelve al PP"
-    descripcion: "El juez Eduardo Muñoz de Baena, titular del Juzgado de lo Penal número 31 de Madrid, dicta sentencia absolutoria para el Partido Popular, Carmen Navarro, Alberto Durán y José Manuel Moreno. El juez concluye que no es posible establecer sin duda razonable que los discos duros destruidos contuvieran información relevante para la investigación de la caja B del PP. La sentencia otorga escasa fiabilidad al testimonio de Bárcenas, señalando sus numerosas contradicciones a lo largo del proceso, y considera que las acusaciones no han probado suficientemente los elementos del tipo penal."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/politica/ordenadores-barcenas_1_1373334.html"
-      - "https://www.elespanol.com/espana/tribunales/20190904/partido-popular-absuelto-destruccion-ordenadores-barcenas/426207894_0.html"
-      - "https://www.scribd.com/document/424450422/Sentencia-Juzgado-Penal-31-Ordenadores-de-Barcenas"
-
-  - fecha: 2020-07-20
-    titulo: "La Audiencia Provincial de Madrid confirma la absolución"
-    descripcion: "La Sección Sexta de la Audiencia Provincial de Madrid desestima todos los recursos interpuestos por las acusaciones populares —Izquierda Unida, el Observatorio de Derechos Humanos, la Confederación de los Verdes y la Asociación Justicia y Sociedad— y confirma la absolución del PP y de los tres empleados. La sala ratifica que no ha quedado acreditado que los discos duros destruidos contuvieran información comprometedora para el partido. La resolución es firme y contra ella no cabe recurso alguno, cerrando definitivamente el procedimiento penal."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/La-Audiencia-Provincial-de-Madrid-confirma-la-absolucion-del-PP-en-el-caso-de-los--ordenadores-de-Barcenas-"
-      - "https://www.publico.es/politica/audiencia-madrid-confirma-absolucion-pp-destruccion-ordenadores-barcenas.html"
-      - "https://confilegal.com/20200720-la-audiencia-de-madrid-confirma-la-absolucion-del-pp-de-la-destruccion-de-los-ordenadores-de-barcenas/"
+- fecha: '2013-07-15'
+  titulo: Entrega de un pendrive por Bárcenas
+  descripcion: Los hechos probados reproducidos en apelación sitúan en este día la entrega de una memoria con archivos
+    que el usuario decía haber extraído del Toshiba. No se presume la identidad de su contenido con el de los discos
+    destruidos.
+  type: investigación
+  relevancia: alta
+  urls:
+  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+- fecha: '2013-08-16'
+  titulo: Requerimiento judicial de los dos portátiles
+  descripcion: El auto de 19 de septiembre reproduce el requerimiento de 16 de agosto para aportar los equipos en
+    cinco días y practicar pericial. No se confunde con la fecha de destrucción, situada antes.
+  type: investigación
+  relevancia: alta
+  urls:
+  - https://e00-elmundo.uecdn.es/documentos/2013/09/19/ruz_ordenadores_barcenas.pdf
+- fecha: '2013-08-29'
+  titulo: Clonado y examen de los portátiles
+  descripcion: La diligencia reproducida en el auto constata que el Toshiba carece de disco y examina el Apple.
+    El auto cita entrega el 19 y la sentencia posterior el 20 de agosto; el día 29 es el de la diligencia.
+  type: investigación
+  relevancia: alta
+  urls:
+  - https://e00-elmundo.uecdn.es/documentos/2013/09/19/ruz_ordenadores_barcenas.pdf
+  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+- fecha: '2013-09-19'
+  titulo: Inhibición parcial de Ruz a favor de los juzgados de Madrid
+  descripcion: El auto deduce testimonio para investigar posibles daños informáticos y encubrimiento en jurisdicción
+    ordinaria, sin declarar culpabilidad. Los antecedentes de apelación sitúan la incoación en el Juzgado 32 el
+    27 de septiembre.
+  type: investigación
+  relevancia: alta
+  urls:
+  - https://e00-elmundo.uecdn.es/documentos/2013/09/19/ruz_ordenadores_barcenas.pdf
+  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+- fecha: '2016-07-26'
+  titulo: Transformación a procedimiento abreviado
+  descripcion: El auto abre la fase abreviada respecto de las tres personas físicas por daños y encubrimiento y
+    respecto del PP solo por daños informáticos. Es un acto de instrucción, no condena.
+  type: investigación
+  relevancia: alta
+  urls:
+  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+- fecha: '2016-09-14'
+  titulo: Desistimiento de Bárcenas
+  descripcion: La providencia lo tiene por desistido del ejercicio de la acción penal, con reserva expresa de acciones
+    civiles. La fecha corresponde al acto judicial recogido en los antecedentes, no a la noticia del 13 que anunciaba
+    su escrito.
+  type: resolución
+  relevancia: alta
+  urls:
+  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+- fecha: '2017-11-30'
+  titulo: Apertura de juicio oral
+  descripcion: La resolución abre juicio contra las tres personas físicas por daños y encubrimiento y contra el
+    PP solo por daños. La legitimación de la acusación popular quedó para su examen por el órgano de juicio.
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+- fecha: '2018-01-25'
+  titulo: Calificación absolutoria de Fiscalía
+  descripcion: El informe fiscal solicitó la absolución de los cuatro acusados y fue ratificado en conclusiones
+    definitivas, según los antecedentes judiciales. Se corrige el 29 de enero, que era la fecha de la noticia citada.
+  type: resolución
+  relevancia: alta
+  urls:
+  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+- fecha: '2019-06-14'
+  titulo: Comienza el juicio
+  descripcion: RTVE informa del inicio ante el Penal 31. La sede de celebración y el número total de sesiones no
+    se mantienen sin comprobación de las actas.
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://www.rtve.es/noticias/20190614/pp-se-sienta-banquillo-acusados-desde-este-viernes-destruccion-ordenadores-barcenas/1957060.shtml
+- fecha: '2019-09-04'
+  titulo: Absoluciones en primera instancia
+  descripcion: El Penal 31 absuelve al PP por daños informáticos y a Navarro, Durán y Moreno por daños y encubrimiento,
+    con costas de oficio. Su fallo se reproduce en la sentencia de apelación.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+  - https://www.elespanol.com/espana/tribunales/20190904/partido-popular-absuelto-destruccion-ordenadores-barcenas/426207894_0.html
+- fecha: '2020-07-13'
+  titulo: Confirmación firme en apelación
+  descripcion: La Sección Séptima dicta la sentencia 271/2020, desestima los recursos populares y confirma todas
+    las absoluciones. Su fallo declara firmeza desde esa fecha y ausencia de recurso. La comunicación del CGPJ del
+    día 20 menciona erróneamente la Sección Sexta.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://personasjuridicas.es/wp-content/uploads/2020/08/SAP_M_2020.271.pdf
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/La-Audiencia-Provincial-de-Madrid-confirma-la-absolucion-del-PP-en-el-caso-de-los--ordenadores-de-Barcenas-
 ---
+
+## Alcance de la revisión a 17 de octubre de 2026
+
+Se han descargado el auto de 2013 y la copia CENDOJ de la sentencia de apelación, enlazada por su ECLI desde el CGPJ y recuperada de un repositorio jurídico al bloquear la descarga oficial. La lectura fue selectiva: encabezamiento, hechos probados y antecedentes, pasajes sobre legitimación de las acusaciones populares y fallo; no se declara lectura integral de las 28 páginas ni de los 11 folios del auto. La identificación nominal se apoya también en la copia nominativa de la sentencia 267/2019, de 74 páginas, recuperada de ARA. Se leyeron su encabezamiento, pasajes de hechos probados y no acreditados de las páginas 9-11 y el fallo de las páginas 73-74, sin declarar lectura integral. No se deducen nombres de los seudónimos del PDF de apelación.
+
+La firmeza consta expresamente en el fallo de 13 de julio de 2020. Se corrige la sección y la fecha siguiendo esa resolución frente a la nota de prensa. Persisten la diferencia entre entrega del 19 o 20 de agosto de 2013, el cotejo de los documentos originales de registro y la falta de cotejo integral de los documentos de instrucción y de los fundamentos de primera instancia; por eso la revisión documental no se marca completa. La calificación, el resultado y la propiedad de los equipos se explican con los límites de lo probado. Se elimina `coste: 0`: ausencia de daño probado en esta ficha no equivale a medición económica de cero.
+
+Los otros procedimientos de Bárcenas y Kitchen no alteran automáticamente esta absolución. Las declaraciones políticas o noticias posteriores sobre la destrucción de pruebas no sustituyen una resolución que modifique el fallo. No se ha localizado tal modificación hasta la fecha de revisión.
