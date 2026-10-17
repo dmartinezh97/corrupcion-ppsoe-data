@@ -77,8 +77,7 @@ implicados:
     falta resolución nominal.
 - nombre: Juan José Sedano Delgado
   cargo: Excomercial de Sa Nostra Renting
-  rol: Imputado; declaró ante el juez el 24 de junio de 2010, después de que su comparecencia quedara suspendida
-    el día 23, y reconoció que sus clientes disponían de borradores del pliego del parque de bomberos antes
+  rol: Imputado; declaró ante el juez el 24 de junio de 2010, y reconoció que sus clientes disponían de borradores del pliego del parque de bomberos antes
     de su publicación, aunque sostuvo que él solo trabajaba sobre hipótesis de financiación. La prensa informó
     del sobreseimiento de la pieza principal en 2017; falta el auto para confirmar su modalidad y alcance individual
 - nombre: Eduardo José Díaz Hervás
@@ -102,9 +101,7 @@ cronologia:
   titulo: Inicio de la operación Bomsai y primeras detenciones
   descripcion: 'La Fiscalía Anticorrupción abre la operación Bomsai y la Policía Nacional practica las primeras
     detenciones: el exdirector general de Tributos Jorge Sainz de Baranda, el exgerente de CAIB Patrimoni Jaume
-    Vidal, el empresario Miquel Llabrés Feliu, el ejecutivo de Construccions Llabrés Feliu Miguel Ángel Toledo
-    Ferrer y Federico Rodríguez Cerdá, entre otros. Se practican registros en la sede de Llabrés Feliu, en
-    la empresa de Rodríguez y en el despacho de Sainz de Baranda. El procedimiento queda bajo secreto de sumario.'
+    Vidal, el empresario Miquel Llabrés Feliu, el ejecutivo de Construccions Llabrés Feliu Miguel Toledo y Federico Rodríguez Cerdá, entre otros. Se practican registros en la sede de Llabrés Feliu y en el despacho de Sainz de Baranda.'
   type: detención
   relevancia: alta
   urls:
@@ -172,10 +169,9 @@ cronologia:
   - https://www.elmundo.es/elmundo/2010/06/23/baleares/1277279574.html
   - https://www.ultimahora.es/noticias/local/2010/06/22/13455/el-juez-reanuda-manana-los-interrogatorios-del-caso-bomsai-tras-alzarse-el-secreto-de-sumario.html
 - fecha: "2010-06-24"
-  titulo: Declaración de Juan José Sedano tras suspenderse la del día anterior
+  titulo: Declaración de Juan José Sedano
   descripcion: El excomercial de Sa Nostra Renting Juan José Sedano declara durante casi tres horas ante el
-    titular del Juzgado de Instrucción núm. 1 de Palma, Juan Catany, después de que su comparecencia quedara
-    suspendida el 23 de junio. Reconoce ante el juez que trabajó con clientes que disponían de borradores del
+    titular del Juzgado de Instrucción núm. 1 de Palma, Juan Catany. Reconoce ante el juez que trabajó con clientes que disponían de borradores del
     pliego del concurso del parque de bomberos antes de su publicación y sostiene que él solo operaba sobre
     hipótesis de financiación; matiza así su declaración policial de abril, en la que había admitido conocer
     partes del pliego antes del concurso.
@@ -199,8 +195,7 @@ cronologia:
   titulo: La Fiscalía pide la imputación de Dolça Mulet
   descripcion: Al término de las declaraciones de Fluxà y Julián, el fiscal anticorrupción solicita a la jueza
     que cite como imputada a Dolça Mulet, exconsellera insular de Deportes y Promoción Sociocultural del Consell
-    de Mallorca (Unió Mallorquina), por las subvenciones concedidas entre 2004 y 2006 al empresario Jaume Fluxà
-    pese a estar declarado insolvente. La petición fiscal no prueba por sí sola la celebración de la declaración.
+    de Mallorca (Unió Mallorquina), por una subvención de 2004 a una empresa vinculada a Jaume Fluxà. La petición fiscal no prueba por sí sola la celebración de la declaración.
   type: imputación
   relevancia: media
   urls:
