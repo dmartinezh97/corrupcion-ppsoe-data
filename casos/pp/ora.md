@@ -4,8 +4,8 @@ partido: PP
 completado: false
 año: 2016
 fechaFin: ''
-estado: Sobreseimiento provisional del caso ORA conocido en enero de 2020; causa distinta contra sus investigadores
-  recurrida
+estado: Sobreseimiento libre para Álvaro Gijón y su familia conocido en julio de 2021; alcance posterior de los
+  demás investigados pendiente de cotejo
 descripcion: 'El caso ORA investigó sospechas de amaño y cobro de comisiones en la adjudicación del servicio de
   estacionamiento regulado de Palma. Entre los investigados figuraron los excargos del PP Álvaro Gijón y José María
   Rodríguez y el empresario Antoni Roig. Las sospechas no se presentan como hechos probados: el Juzgado de Instrucción
@@ -13,10 +13,12 @@ descripcion: 'El caso ORA investigó sospechas de amaño y cobro de comisiones e
   que sostuviera acusación, según Europa Press y la SER el 15 de enero de 2020.
 
 
-  Ese resultado no fue una sentencia absolutoria ni un sobreseimiento definitivo. La información contemporánea indicaba
-  que la decisión podía recurrirse en reforma y apelación. No se ha recuperado el auto original ni una resolución
-  posterior que permita precisar su fecha interna, número, alcance individual, recursos o firmeza. El 15 de enero
-  se conserva como fecha de publicación de la noticia, no como fecha judicial cotejada.
+  El archivo provisional de 2020 fue modificado respecto de Álvaro Gijón, sus padres y su hermano: Crónica Balear
+  informó el 28 de julio de 2021 de que la Sección Primera de la Audiencia Provincial había acordado su sobreseimiento
+  libre, revocando el provisional para ellos. Es un auto, no una sentencia absolutoria. La noticia indicaba que
+  cabía casación; no se ha verificado su firmeza. No se extiende ese pronunciamiento a otros investigados. Tanto
+  el 15 de enero de 2020 como el 28 de julio de 2021 se conservan como fechas de publicación, sin dar por cotejadas
+  las fechas internas de los autos.
 
 
   La investigación originó detenciones, entre ellas las de Roig y el funcionario Miquel Femenía en octubre de 2016,
@@ -45,16 +47,17 @@ descripcion: 'El caso ORA investigó sospechas de amaño y cobro de comisiones e
   del Supremo para confirmar o modificar las condenas.
 
 
-  Límites al 17 de octubre de 2026: no se han obtenido originales verificables del archivo de ORA, de la sentencia
-  contra los investigadores ni de sus recursos. Los resultados se describen según las fuentes periodísticas leídas,
-  sin inferir firmeza ni identificar seudónimos. La condena de los investigadores no es una condena de los políticos
-  o empresarios investigados, ni convierte el archivo de ORA en una absolución judicial. No se cuantifica coste
-  ni se da por completada la revisión.'
-resumen: Investigación del contrato ORA de Palma sobreseída provisionalmente según noticias de enero de 2020; separada
-  de la causa posterior contra sus investigadores y sus recursos
+  Límites al 17 de octubre de 2026: no se han obtenido originales verificables de los autos de archivo de ORA de
+  2020 y 2021, de la sentencia contra los investigadores ni de sus recursos. Los resultados se describen según las
+  fuentes periodísticas leídas, sin inferir firmeza ni identificar seudónimos. La condena de los investigadores
+  no es una condena de los políticos o empresarios investigados, ni convierte el archivo de ORA en una absolución
+  judicial. No se cuantifica coste ni se da por completada la revisión.'
+resumen: 'Investigación del contrato ORA de Palma: archivo provisional en 2020 y sobreseimiento libre para Álvaro
+  Gijón, sus padres y su hermano conocido en 2021; causa distinta contra los investigadores recurrida'
 lugar: Palma de Mallorca, Baleares
 tribunal:
 - Juzgado de Instrucción nº 12 de Palma - investigación ORA
+- Audiencia Provincial de Illes Balears - Sección Primera - recurso sobre el archivo de ORA
 - Tribunal Superior de Justicia de las Illes Balears - Sala de lo Civil y Penal - procedimiento distinto contra
   investigadores
 - Tribunal Supremo - recursos de la causa contra investigadores, según las crónicas
@@ -62,9 +65,9 @@ numeroSentencia: ''
 implicados:
 - nombre: Álvaro Gijón
   cargo: Exdiputado autonómico y exconcejal del PP en Palma
-  rol: Investigado en ORA por sospechas de amaño y comisiones. La causa fue sobreseída provisionalmente según las
-    noticias de enero de 2020; no se le atribuye condena ni una sentencia absolutoria. Parte afectada en el procedimiento
-    posterior contra investigadores.
+  rol: Investigado en ORA. La Audiencia Provincial acordó el sobreseimiento libre para él, sus padres y su hermano
+    según la noticia de julio de 2021, que modificó el archivo provisional de 2020. Auto recurrible en casación;
+    firmeza no cotejada. Parte afectada en el procedimiento distinto contra investigadores.
 - nombre: José María Rodríguez
   cargo: Expresidente del PP de Palma
   rol: Investigado por supuestas comisiones en ORA. El archivo conocido en enero de 2020 fue provisional, por insuficiencia
@@ -76,9 +79,9 @@ implicados:
     mencionada en la cobertura del juicio contra los investigadores.
 - nombre: Teófilo Gijón
   cargo: Hermano de Álvaro Gijón
-  rol: Detenido con sus padres en junio de 2017 en la investigación ORA. Declaró como testigo en septiembre de 2023
-    en la causa contra los investigadores. Se conserva su nombre tal como figura en la crónica leída, sin completar
-    apellidos no cotejados.
+  rol: Detenido con sus padres en junio de 2017. La noticia de julio de 2021 da cuenta del sobreseimiento libre
+    de ORA para él, sus padres y Álvaro Gijón, sin firmeza cotejada. Testigo en septiembre de 2023 en la causa distinta
+    contra investigadores. Nombre conservado según la crónica, sin completar apellidos.
 - nombre: Gabriel Vallejo
   cargo: Exconcejal de Palma, según la información sobre la causa contra los investigadores
   rol: Figuró entre los detenidos de la investigación ORA. La cobertura de la sentencia de 2023 recoge la absolución
@@ -137,6 +140,15 @@ cronologia:
   type: investigación
   urls:
   - https://www.ultimahora.es/sucesos/ultimas/2020/12/01/1219305/caso-cursach-juez-solo-indicios-para-juzgar-penalva-subiran.html
+- fecha: '2021-07-28'
+  titulo: Se informa del sobreseimiento libre para Gijón y su familia
+  descripcion: Crónica Balear informa de que la Sección Primera de la Audiencia Provincial revoca el archivo provisional
+    de 2020 y acuerda sobreseimiento libre para Álvaro Gijón, sus padres y su hermano. La noticia describe el auto
+    como recurrible en casación. Fecha de publicación, no fecha interna cotejada; no se generaliza el resultado
+    a otros investigados ni se afirma firmeza.
+  type: sobreseimiento
+  urls:
+  - https://www.cronicabalear.es/mallorca/2021-07-28/la-audiencia-archiva-definitivamente-el-caso-ora-para-alvaro-gijon-sus-padres-y-su-hermano/
 - fecha: '2023-07-11'
   titulo: Roig declara como testigo sobre presiones que atribuye a los investigadores
   descripcion: Última Hora recoge las manifestaciones de Roig y otros testigos en el juicio contra los investigadores.
@@ -164,7 +176,6 @@ cronologia:
   - https://www.diariosigloxxi.com/texto-ep/mostrar/20231115124804/juez-fiscal-caso-cursach-condenados-nueve-anos-carcel-cada-obstruccion-justicia-coacciones
   - https://www.mallorcadiario.com/penalva-y-subiran-condenados
   - https://cadenaser.com/baleares/2023/11/16/la-sentencia-del-tsjb-sobre-los-investigadores-del-caso-cursach-perdieron-la-objetividad-radio-mallorca/
-  - https://www.diariosigloxxi.com/texto-ep/mostrar/20231115124804/juez-fiscal-caso-cursach-condenados-nueve-anos-carcel-cada-obstruccion-justicia-coacciones
 - fecha: '2023-11-28'
   titulo: Medidas cautelares mientras se tramitan los recursos
   descripcion: Europa Press informó del rechazo al ingreso preventivo de Penalva y Subirán y de la retirada de pasaporte
@@ -181,15 +192,16 @@ cronologia:
   type: recurso
   urls:
   - https://www.ultimahora.es/sucesos/ultimas/2026/09/22/2713643/ico-afirma-penalva-subiran-dieron-regalos-para-mintiera-caso-cursach.html
-
 ---
 
 ## Alcance y asuntos pendientes
 
-Revisión con corte de 17 de octubre de 2026. La investigación no permitió recuperar el auto original de archivo de ORA ni la sentencia y recursos de la causa contra sus investigadores. `documentos: []` expresa esa ausencia. Se leyeron los cuerpos de las noticias de Europa Press y SER sobre el archivo, las detenciones y testimonios y las crónicas de la sentencia, medidas cautelares y situación de los recursos en 2026. La revisión sigue siendo parcial y no atribuye exactitud judicial a fechas que solo corresponden a publicaciones.
+Revisión con corte de 17 de octubre de 2026. La investigación no permitió recuperar los autos originales de archivo de ORA de 2020 y 2021 ni la sentencia y recursos de la causa contra sus investigadores. `documentos: []` expresa esa ausencia. Se leyeron los cuerpos de las noticias de Europa Press y SER sobre el archivo, las detenciones y testimonios y las crónicas de la sentencia, medidas cautelares y situación de los recursos en 2026. La revisión sigue siendo parcial y no atribuye exactitud judicial a fechas que solo corresponden a publicaciones.
 
-La ficha elimina la contradicción entre archivo definitivo y sobreseimiento provisional, así como la afirmación de que todos los investigados fueron absueltos. Las noticias contemporáneas de enero de 2020 hablan de insuficiencia de prueba y de una decisión recurrible. Una retrospectiva de Majorca Daily Bulletin sitúa el archivo en enero de 2021; se priorizan las dos informaciones contemporáneas de 2020 y se deja pendiente cotejar el auto original. No se afirma que no haya habido recursos o reaperturas.
+Las noticias contemporáneas de enero de 2020 describían el archivo provisional y recurrible. Existe una resolución posterior relevante: [Crónica Balear, 28 de julio de 2021](https://www.cronicabalear.es/mallorca/2021-07-28/la-audiencia-archiva-definitivamente-el-caso-ora-para-alvaro-gijon-sus-padres-y-su-hermano/) informó del sobreseimiento libre para Álvaro Gijón, sus padres y su hermano, acordado por la Sección Primera al revisar aquel archivo. La crónica señala que podía recurrirse en casación. Se corrige la omisión de ese pronunciamiento en la revisión anterior: no procede describir como meramente provisional el resultado conocido para esas cuatro personas ni equiparar el auto con una sentencia absolutoria. No se ha recuperado su original de 15 páginas, su fecha interna o número, una certificación de firmeza ni el resultado individual posterior de los demás investigados. La referencia genérica al archivo en enero de 2021 de Majorca Daily Bulletin no sustituye esta secuencia de resoluciones. Una crónica de Última Hora de 23 de junio de 2023 también menciona el sobreseimiento libre de ORA, pero no permite ampliar el alcance personal especificado por la noticia de 2021.
 
 La información sobre la condena de Penalva y Subirán distingue obstrucción y coacciones de las detenciones ilegales por las que fueron absueltos, según las crónicas leídas. No se presenta la sentencia de noviembre de 2023 como firme: consta casación en la información de 2023 y una mención periodística a recursos pendientes en septiembre de 2026. Faltan su número, fecha interna, fallo íntegro y decisión del Supremo. La petición fiscal de 2024 de la ficha heredada se retira: no puede describirse una solicitud como si fuera una nueva condena.
 
 Se eliminan el inicio artificial de 1 de enero de 2015 y la fecha de detenciones de 1 de octubre de 2016, que no se han acreditado. La referencia general a octubre de 2016 procede de una retrospectiva leída, sin inventar un día. Los segundos apellidos y cargos detallados no revalidados se omiten. Tampoco se conservan cifras de comisiones, presunto blanqueo o el importe del contrato basándose en referencias no cotejadas: no constituyen en ningún caso un daño público probado. No se agrega a esta ficha la indemnización por daño moral fijada en la causa distinta contra investigadores ni se mezcla ORA con IME o con todos los hechos del caso Cursach.
+
+En la corrección se leyó íntegramente el cuerpo de la noticia de Crónica Balear de julio de 2021 mediante la herramienta web; el GET directo devolvió 403 y no se presenta ese HTML bloqueado como prueba del contenido. Se leyó también el cuerpo de Última Hora de junio de 2023. No se localizaron originales verificables del auto de 2021 ni del fallo del TSJIB de 2023 en las búsquedas adicionales. Esta ausencia mantiene `documentos: []` y la revisión pendiente.
