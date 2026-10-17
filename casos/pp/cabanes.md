@@ -16,7 +16,7 @@ descripcion: 'La Audiencia Provincial de Castellón absolvió a tres exalcaldes 
   Juncos de 28 trabajos por 211.115,84 euros, con la participación de los sucesivos alcaldes y del jefe de Urbanismo
   y secretario-interventor accidental José Vicente Guimerá. Alegaba tramitación irregular como contratos menores
   y fraccionamiento para eludir otros procedimientos. Los 211.115,84 euros eran el importe de los encargos cuestionados,
-  no un perjuicio declarado judicialmente. Tampoco la multa de 422.231,68 euros solicitada para los arquitectos
+  no un perjuicio declarado judicialmente. Tampoco la multa de 422.231 euros solicitada para los arquitectos
   fue una sanción impuesta. La acusación había solicitado dos años de prisión para cada arquitecto e inhabilitación
   para los exalcaldes y el jefe de Urbanismo.
 
