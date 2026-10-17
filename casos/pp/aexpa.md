@@ -1,105 +1,148 @@
 ---
-nombre: "Caso AEXPA"
+nombre: Caso AEXPA
 partido: PP
 completado: false
-año: 2015
-fechaFin: ""
-estado: "desconocido"
-descripcion: |
-  El caso AEXPA (Asociación de Alumnos y Exalumnos del centro San Pablo) destapa una trama de fraude en subvenciones públicas para cursos de formación en Ourense. La investigación policial, iniciada en 2015 a partir de una denuncia, concluyó que el responsable del centro de enseñanza San Pablo, Luis Timirao Carrasco, simuló la creación de una asociación sin ánimo de lucro denominada AEXPA, que registró y mantuvo con actividad ficticia entre los años 2005 y 2015 con el único objetivo de obtener subvenciones públicas destinadas a la impartición de cursos de formación. La Tesorería General de la Seguridad Social determinó que esta sociedad nunca tuvo actividad real, siendo su único fin la recepción de ingresos públicos.
-
-  Según la investigación, se falsificaron actas y firmas, incluyendo en el funcionamiento de la asociación a personas que desconocían su supuesta participación. La esposa del principal investigado, Carmen P.A., funcionaria de la Xunta de Galicia que disponía de un sello de compulsa, se encargaba de compulsar la documentación de los cursos. Los investigados aportaron facturas falsificadas de adquisición de material didáctico con cantidades desmesuradas, justificaciones de pagos no realizados a docentes y colaboradores, facturas de alquiler de locales inexistentes y contrataciones fraudulentas de alumnos que solo firmaban contratos y nóminas sin acudir a trabajar. Para dificultar el control bancario, abrieron y cancelaron numerosas cuentas en distintas entidades.
-
-  La operación, cuya investigación policial fue bautizada por la UDEV de Ourense como "Rewin", se saldó en abril de 2017 con cinco detenidos y dos investigados, entre ellos el alcalde de Monterrei y jefe de personal de la Diputación de Ourense, José Luis Suárez Martínez (PP), investigado por un presunto delito de cohecho, y el hijo del matrimonio. La cantidad defraudada en subvenciones entre 2005 y 2012 se cifró en 506.113,60 euros (463.413,60 euros a la Xunta de Galicia, 34.000 euros a la Diputación de Ourense y 8.700 euros al Ayuntamiento de Ourense), además de una deuda declarada de 96.000 euros con la Seguridad Social.
-
-  En julio de 2022, la Audiencia Provincial de Ourense juzgó al matrimonio por un delito continuado de falsedad en documento oficial y un delito continuado de estafa. Según las fuentes periodísticas, ambos se conformaron con una condena de dos años de prisión (en principio sin ingreso en prisión) y el pago de una indemnización de 674.000 euros. La condena por conformidad está documentada, pero no consta acreditada la firmeza de la resolución ni el resultado de la causa respecto de los demás investigados, por lo que el procedimiento no puede darse por cerrado en su conjunto.
-
-resumen: "Fraude de 506.113,60 euros en subvenciones para cursos de formación mediante la asociación ficticia AEXPA en Ourense; el matrimonio responsable se conformó con una condena en 2022 cuya firmeza no está acreditada"
-coste: 506113.6
-lugar: "Ourense, Galicia"
+año: 2005
+fechaFin: ''
+estado: desconocido
+descripcion: 'La operación Rewin investigó en Ourense la obtención presuntamente fraudulenta de subvenciones mediante
+  la Asociación de Alumnos y Exalumnos del centro San Pablo (AEXPA). La Policía comenzó las pesquisas en 2015 y comunicó
+  en abril de 2017 cinco detenciones y dos investigados no detenidos. Entre estos últimos figuraba José Luis Suárez Martínez,
+  entonces alcalde de Monterrei por el PP y jefe de personal de la Diputación, investigado por supuesto cohecho. La información
+  interna de la Diputación no apreció elementos para abrirle expediente disciplinario, decisión administrativa que no
+  equivale a un archivo penal. La investigación cifraba en 506.113,60 euros las subvenciones obtenidas entre 2005 y 2012.
+  Una noticia de julio de 2022 recoge una condena por conformidad de un matrimonio por ese mismo importe y con idéntico
+  desglose y mecanismo de compulsa documental: dos años de prisión y 674.000 euros de indemnización. Sin embargo, no
+  identifica nominalmente al matrimonio ni menciona AEXPA; falta cotejar la sentencia para confirmar esa atribución,
+  sus términos, firmeza y ejecución. Tampoco se ha verificado el desenlace individual del alcalde ni del resto de las
+  personas investigadas hasta el 17 de octubre de 2026.'
+resumen: Investigación del presunto fraude en subvenciones de AEXPA en Ourense; la atribución nominal de la conformidad
+  publicada en 2022 y el desenlace del resto siguen pendientes de verificación.
+lugar: Ourense, Galicia
 tribunal:
-  - "Juzgado de Instrucción nº 1 de Ourense"
-  - "Audiencia Provincial de Ourense"
-numeroSentencia: ""
+- Juzgado de Instrucción nº 1 de Ourense
+- Audiencia Provincial de Ourense (juicio por el fraude coincidente publicado en 2022; vinculación pendiente de cotejo
+  judicial)
+numeroSentencia: ''
 implicados:
-  - nombre: "Luis Timirao Carrasco"
-    cargo: "Responsable del centro de enseñanza San Pablo de Ourense"
-    rol: "Creador de la asociación ficticia AEXPA; condenado por conformidad en 2022 a 2 años de prisión y 674.000 euros de indemnización; la firmeza de la sentencia no está acreditada"
-
-  - nombre: "Carmen P.A."
-    cargo: "Funcionaria de la Xunta de Galicia (jefa de sección)"
-    rol: "Esposa de Timirao; compulsaba la documentación falsa con sello oficial; condenada por conformidad como cooperadora necesaria; la firmeza de la sentencia no está acreditada"
-
-  - nombre: "José Luis Suárez Martínez"
-    cargo: "Alcalde de Monterrei (PP) y jefe de personal de la Diputación de Ourense"
-    rol: "Investigado por un presunto delito de cohecho; se desconoce el resultado de su causa"
-
-  - nombre: "Pedro T.R."
-    cargo: "Hijo del responsable del centro de enseñanza"
-    rol: "Investigado en la fase policial; sin información verificada sobre su resultado procesal"
-
-  - nombre: "José Ramón C.A."
-    cargo: "Industrial de publicidad, informática y material didáctico"
-    rol: "Detenido y liberado en sede policial, sin constancia de imputación judicial posterior"
-
-  - nombre: "Miguel C.A."
-    cargo: "Industrial de publicidad, informática y material didáctico"
-    rol: "Detenido y liberado en sede policial, sin constancia de imputación judicial posterior"
-
-  - nombre: "Ángel G.B."
-    cargo: "Industrial de publicidad, informática y material didáctico"
-    rol: "Detenido y liberado en sede policial, sin constancia de imputación judicial posterior"
-
+- nombre: Luis Timirao Carrasco
+  cargo: Responsable del centro de enseñanza San Pablo de Ourense
+  rol: Detenido e investigado en 2017 como supuesto organizador de la obtención de subvenciones a través de AEXPA. La
+    noticia de conformidad de 2022 no lo identifica nominalmente; no se le atribuye aquí una condena individual sin cotejar
+    la sentencia.
+- nombre: Carmen P.A.
+  cargo: Funcionaria de la Xunta de Galicia, jefa de sección según la información de 2017
+  rol: Detenida e investigada en 2017 por el presunto uso de su sello de compulsa en las justificaciones. La atribución
+    nominal de la conformidad de 2022 y su resultado definitivo no están verificados.
+- nombre: José Luis Suárez Martínez
+  cargo: Alcalde de Monterrei (PP) y jefe de personal de la Diputación de Ourense en 2017
+  rol: Investigado no detenido por supuesto cohecho en la fase policial. Negó implicación. La información interna de
+    mayo de 2017 no apreció elementos para iniciar expediente disciplinario; no acredita archivo judicial ni absolución.
+- nombre: Pedro T.R.
+  cargo: Hijo del responsable del centro de enseñanza
+  rol: Investigado no detenido en la fase policial de 2017. No se ha verificado una acusación judicial, juicio ni desenlace
+    individual posterior.
+- nombre: José Ramón C.A.
+  cargo: Industrial del sector de publicidad, informática y material didáctico
+  rol: Detenido y liberado en sede policial en 2017 según La Región. No se ha verificado su situación judicial posterior;
+    no se le atribuye la conformidad de 2022.
+- nombre: Miguel C.A.
+  cargo: Industrial del sector de publicidad, informática y material didáctico
+  rol: Detenido y liberado en sede policial en 2017 según La Región. No se ha verificado su situación judicial posterior;
+    no se le atribuye la conformidad de 2022.
+- nombre: Ángel G.B.
+  cargo: Industrial del sector de publicidad, informática y material didáctico
+  rol: Detenido y liberado en sede policial en 2017 según La Región. No se ha verificado su situación judicial posterior;
+    no se le atribuye la conformidad de 2022.
 tags:
-  - "corrupción"
-  - "fraude"
-  - "falsedad documental"
-  - "cohecho"
-  - "estafa"
-  - "blanqueo de capitales"
-  - "fraude a la Seguridad Social"
-
-impactoSocial: "El caso evidenció las deficiencias en el control de las subvenciones de la Xunta de Galicia para cursos de formación y la existencia de un entramado que operó durante una década con documentación falsificada. La investigación de 2017 vinculó los hechos con una funcionaria autonómica y con un alcalde del PP investigado por cohecho. En 2022 el matrimonio responsable del fraude se conformó con una condena, pero no consta acreditada la firmeza de la sentencia ni el resultado de la causa para el resto de investigados."
-
+- AEXPA
+- Rewin
+- subvenciones
+- presunta estafa
+- presunta falsedad documental
+- presunto cohecho
+impactoSocial: La investigación planteó el control de las justificaciones de subvenciones y el uso de un sello oficial
+  para validar documentos. Su repercusión institucional alcanzó a la Diputación de Ourense, cuyo jefe de personal y alcalde
+  de Monterrei fue investigado por la Policía. El resultado de una información administrativa y las responsabilidades
+  penales de cada persona deben distinguirse.
 documentos: []
-
 cronologia:
-  - fecha: "2017-04-28"
-    titulo: "Se conoce la operación Rewin: cinco detenidos y dos investigados"
-    descripcion: "La Policía Nacional informa de la operación Rewin, con cinco detenciones practicadas desde el 26 de abril y dos personas investigadas por fraude en subvenciones de cursos de formación. El 28 de abril es la fecha de publicación de esta información, no el día de todas las detenciones. Los detenidos son Luis Timirao Carrasco (60 años), su esposa Carmen P.A. (62 años, funcionaria de la Xunta), y tres industriales del sector de publicidad, informática y material didáctico: José Ramón C.A. (63 años), Miguel C.A. (69 años) y Ángel G.B. (55 años). Los investigados son José Luis Suárez Martínez (50 años), alcalde de Monterrei por el PP y jefe de personal de la Diputación de Ourense, y Pedro T.R. (25 años), hijo del gerente del centro. La Policía atribuye a los implicados delitos de falsedad documental contra la Hacienda y la Administración Pública, fraude a la Seguridad Social, blanqueo de capitales, estafa y cohecho. Se estima que defraudaron 506.113,60 euros en subvenciones entre 2005 y 2012, además de acumular una deuda de 96.000 euros con la Seguridad Social por contrataciones fraudulentas."
-    type: "detención"
-    relevancia: "alta"
-    urls:
-      - "https://www.laregion.es/articulo/ourense/varios-detenidos-fraude-cursos-formacion-ourense/20170428143439704342.html"
-      - "https://esradio.libertaddigital.com/galicia/2017-04-28/cinco-detenidos-y-dos-investigados-en-ourense-por-una-trama-de-cursos-fraudulentos-1276597920/"
-      - "https://www.infolibre.es/politica/alcalde-ourense-investigado-cohecho-operacion-fraude-cursos-formacion_1_1140086.html"
-
-  - fecha: "2017-04-28"
-    titulo: "El matrimonio Timirao pasa a disposición judicial y queda en libertad"
-    descripcion: "Luis Timirao Carrasco y su esposa Carmen P.A. son puestos a disposición del titular del Juzgado de Instrucción número 1 de Ourense, que decide dejarlos en libertad tras negarse ambos cónyuges a declarar. Salen de las dependencias como investigados. El resto de detenidos también queda libre en sede policial, sin que de momento pesara sobre ellos imputación judicial. El juzgado mantiene abiertas las diligencias de investigación para esclarecer el alcance total del fraude, que habría afectado a la Xunta de Galicia, el Concello de Ourense, la Diputación Provincial y fondos europeos durante una década."
-    type: "investigación"
-    urls:
-      - "https://www.laregion.es/articulo/ourense/varios-detenidos-fraude-cursos-formacion-ourense/20170428143439704342.html"
-      - "https://esradio.libertaddigital.com/galicia/2017-04-28/cinco-detenidos-y-dos-investigados-en-ourense-por-una-trama-de-cursos-fraudulentos-1276597920/"
-
-  - fecha: "2022-07-11"
-    titulo: "Condena por conformidad del matrimonio responsable"
-    descripcion: "La Audiencia Provincial de Ourense acoge el juicio contra el matrimonio, acusado de un delito continuado de falsificación de documento oficial y un delito continuado de estafa continuada. Ambos se conforman con una pena de dos años de prisión, que en principio no conllevará ingreso en prisión, y con el pago de una indemnización de 674.000 euros por los delitos más los intereses legales. La cuantía defraudada se fija en 506.113,60 euros: 463.413,60 a la Xunta de Galicia, 34.000 a la Diputación de Ourense y 8.700 al Ayuntamiento de Ourense. La celebración del juicio y la conformidad coinciden con la fecha de publicación de la noticia; la condena por conformidad está documentada por las fuentes periodísticas, pero no consta acreditada la firmeza de la sentencia."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.europapress.es/galicia/noticia-matrimonio-acepta-anos-carcel-674000-euros-multa-estafa-xunta-diputacion-ayuntamiento-ourense-20220711181838.html"
-      - "https://www.europapress.es/galicia/noticia-juzgan-trabajadora-xunta-estafar-mas-500000-administracion-autonomica-local-ourense-20220709155956.html"
-      - "https://www.farodevigo.es/ourense/2022/07/09/piden-pareja-acusada-estafa-abone-68139557.html"
-
+- fecha: '2017-04-28'
+  titulo: Se conoce la operación Rewin
+  descripcion: La información de la Policía, recogida por Europa Press y La Región, comunica cinco detenidos desde el
+    26 de abril y dos investigados no detenidos por el presunto fraude en subvenciones. Se señala a los responsables
+    del centro San Pablo y a AEXPA; la cuantía investigada es de 506.113,60 euros entre 2005 y 2012. El 28 es fecha de
+    difusión, no la fecha de todas las detenciones.
+  urls:
+  - https://www.europapress.es/galicia/noticia-libertad-dos-detenidos-operativo-fraude-cursos-formacion-ourense-20170428182714.html
+  - https://www.laregion.es/articulo/ourense/varios-detenidos-fraude-cursos-formacion-ourense/20170428143439704342.html
+  type: detencion
+  relevancia: alta
+- fecha: '2017-04-28'
+  titulo: Libertad del matrimonio tras comparecer ante el juez
+  descripcion: El juzgado 1 de Ourense deja en libertad al hombre y la mujer que comparecen esa mañana y se acogen a
+    su derecho a no declarar. La Región los identifica como Luis Timirao Carrasco y Carmen P.A. Se mantiene la investigación;
+    la libertad no es una absolución. Las crónicas no permiten reconstruir con precisión todos los turnos de detención
+    y liberación de las otras personas.
+  urls:
+  - https://www.europapress.es/galicia/noticia-libertad-dos-detenidos-operativo-fraude-cursos-formacion-ourense-20170428182714.html
+  - https://www.laregion.es/articulo/ourense/varios-detenidos-fraude-cursos-formacion-ourense/20170428143439704342.html
+  type: investigacion
+  relevancia: alta
+- fecha: '2017-05-05'
+  titulo: La información interna no propone expediente disciplinario
+  descripcion: El informe del vicesecretario de la Diputación, conocido ese día, no encuentra elementos suficientes con
+    la información disponible para abrir expediente a José Luis Suárez. Deja a salvo lo que pudiera resultar del sumario.
+    Suárez niega el soborno. La decisión pertenece al ámbito administrativo, sin acreditar archivo de las diligencias
+    penales.
+  urls:
+  - https://www.elprogreso.es/articulo/galicia/descartan-abrir-un-expediente-disciplinario-al-jefe-de-personal-en-ourense/20170505225114404675.amp.html
+  - https://www.lavozdegalicia.es/noticia/galicia/2017/05/06/diputacion-ourensana-pago-tres-subvenciones-asociacion-investigada-cursos-fraudulentos/0003_201705G6P8992.htm
+  type: resumen
+  relevancia: alta
+- fecha: '2017-05-26'
+  titulo: AEXPA se debate en el Pleno de la Diputación
+  descripcion: El acta oficial recoge una intervención del portavoz del BNG sobre la citación policial de José Luís Suárez
+    Martínez como investigado no detenido y la solicitud de que la Diputación se persone como perjudicada. El acta acredita
+    el debate y lo manifestado por el portavoz, no una resolución judicial ni una declaración de culpabilidad.
+  urls:
+  - https://www.depourense.gal/sites/default/files/2024-10/acta-26-de-maio-de-2017.pdf
+  type: resumen
+  relevancia: media
+- fecha: '2022-07-11'
+  titulo: Se publica una conformidad por el fraude de cuantía coincidente
+  descripcion: Europa Press informa de un matrimonio que acepta dos años de prisión y una indemnización de 674.000 euros
+    por falsificación de documento oficial y estafa continuada, con 506.113,60 euros obtenidos de Xunta, Diputación y
+    Ayuntamiento. La noticia coincide en importe, desglose y mecanismo con AEXPA, pero no nombra a los acusados ni a
+    la asociación. La atribución nominal y los términos del fallo requieren la sentencia original; no se presume firmeza
+    ni suspensión de la pena.
+  urls:
+  - https://www.europapress.es/galicia/noticia-matrimonio-acepta-anos-carcel-674000-euros-multa-estafa-xunta-diputacion-ayuntamiento-ourense-20220711181838.html
+  - https://www.europapress.es/galicia/noticia-juzgan-trabajadora-xunta-estafar-mas-500000-administracion-autonomica-local-ourense-20220709155956.html
+  type: sentencia
+  relevancia: alta
 ---
 
-## Notas de verificación y limitaciones
+La investigación de AEXPA
 
-- **Estado judicial**: la ficha indicaba `estado: "en investigación"`. Las fuentes periodísticas documentan que el 11 de julio de 2022 la Audiencia Provincial de Ourense acogió la conformidad del matrimonio responsable con dos años de prisión (en principio sin ingreso) y 674.000 euros de indemnización. Se trata, por tanto, de una **condena por conformidad documentada**, pero **no de una firmeza acreditada**: no se ha localizado resolución del CGPJ ni el texto de la sentencia que confirme que quedó firme. No se presume la firmeza por el hecho de que ambas partes se conformaran. El `estado` se fija como desconocido porque no se ha acreditado el resultado del conjunto de la causa; la descripción recoge la condena del matrimonio.
-- **Cierre de la causa**: la sentencia de conformidad de 2022 se refiere únicamente al matrimonio. No consta el resultado de la causa respecto del alcalde de Monterrei José Luis Suárez Martínez (investigado por cohecho), del hijo del matrimonio ni de los tres industriales detenidos en 2017. Por ese motivo **no se presenta la causa como cerrada en su conjunto**: `fechaFin` se deja vacía (`""`) y el estado se limita a la condena del matrimonio, documentando la incertidumbre sobre el resto.
-- **Cuantía**: el campo `coste` figuraba como 1.204.226 euros sin respaldo documental localizado. Las fuentes consultadas cifran el fraude en subvenciones en 506.113,60 euros (463.413,60 Xunta + 34.000 Diputación + 8.700 Concello) y la indemnización fijada por conformidad en 674.000 euros; la Seguridad Social declaraba además una deuda de 96.000 euros. Se mantiene `coste` en 506.113,60 (el importe defraudado en subvenciones, que es el que las fuentes consideran probado).
-- **Nombre del principal implicado**: las fuentes no son unánimes. La Región y esRadio escriben "Luis Timirao Carrasco"; La Voz de Galicia cita "Luis Antonio T. C." y Galicia Confidencial escribe "Luis Timiraos Carrasco". Se mantiene la grafía de las fuentes citadas en la cronología y se deja constancia de la variante.
-- **Denominación de la operación**: "Rewin" está confirmada por La Región y esRadio; Europa Press e infoLibre describen la operación sin ese nombre.
-- **Fechas**: se distinguen las fechas de los hechos de las de publicación. Las detenciones se practicaron desde el 26 de abril de 2017 y se difundieron el 28 de abril; la puesta a disposición judicial del matrimonio se produjo el 28 de abril de 2017 (viernes); la ficha fechaba la puesta en libertad el 29 de abril, que se ha corregido al 28 de abril. De los hitos de 2005 (creación de AEXPA e inicio del fraude) y de 2015 (inicio de la investigación) solo consta el año, sin día acreditado; por ello **se han retirado del array `cronologia`** (que exige fecha con día) y sus años se conservan en el cuerpo de la ficha. se omite `fechaInicio` porque solo consta el año de inicio de la investigación (2015), sin día acreditado.
-- **Documentos**: no se han localizado PDFs oficiales descargables (sentencia, auto o nota del CGPJ), por lo que `documentos` se mantiene vacío.
+La Policía situó las primeras pesquisas en 2015, a partir de una denuncia. El operativo difundido el 28 de abril de 2017 recibió el nombre de Rewin. La hipótesis policial era que se utilizaba una asociación sin actividad real para obtener subvenciones de formación mediante actas, facturas, transferencias y contrataciones que no respondían a los gastos o trabajos justificados. El uso del sello de compulsa de una funcionaria de la Xunta habría dado apariencia de autenticidad a esos documentos. Estas afirmaciones describen la investigación de 2017 y no se convierten en condenas de todas las personas incluidas en el operativo.
+
+La Región identificó al responsable del centro San Pablo como Luis Timirao Carrasco y a su esposa mediante las iniciales Carmen P.A. También identificó a su hijo, tres industriales y José Luis Suárez Martínez. Se conservan las iniciales sin completar nombres por inferencia. La condición de investigado en una operación policial no demuestra que se formulara después acusación judicial contra cada persona.
+
+La información policial cifró en 506.113,60 euros las subvenciones obtenidas entre 2005 y 2012, y mencionó por separado una deuda declarada con la Seguridad Social de 96.000 euros, pendiente de actualización. No se suman ambas magnitudes a una supuesta pérdida definitiva. Tampoco se añade la indemnización de 674.000 euros publicada en 2022, cuya composición no se ha podido cotejar con una resolución original.
+
+La Diputación y José Luis Suárez
+
+El jefe de personal y alcalde de Monterrei fue investigado sin detención por supuesto cohecho y negó cualquier participación. La información interna abierta por la Diputación recabó documentación sobre subvenciones y su declaración. El informe conocido el 5 de mayo de 2017 no apreció elementos suficientes para iniciar un expediente disciplinario, expresamente sin perjuicio de lo que se conociera del sumario policial y judicial.
+
+La documentación administrativa descrita por la prensa distinguía tres subvenciones abonadas por un total de 34.000 euros y otra ayuda de 30.000 que no llegó a pagarse. No se añade esta última a los fondos presuntamente obtenidos. El acta del Pleno de 26 de mayo recoge el debate político sobre AEXPA en las páginas 103–105: es una fuente oficial sobre lo manifestado en el Pleno, no un auto penal. Ni el informe interno ni esa intervención acreditan un archivo judicial o una absolución de Suárez.
+
+El juicio publicado en 2022 y los límites del desenlace
+
+Europa Press informó el 11 de julio de 2022 de una condena por conformidad de un matrimonio en la Audiencia de Ourense. El relato coincide con la investigación de AEXPA en el periodo 2005–2012, el uso de una academia y un sello de compulsa, la cuantía exacta de 506.113,60 euros y el reparto de 463.413,60 a la Xunta, 34.000 a la Diputación y 8.700 al Ayuntamiento. Sin embargo, esa noticia no identifica a los cónyuges ni menciona la asociación. Sin la sentencia no queda cotejada de forma directa la atribución nominal de esa condena a los detenidos de Rewin.
+
+La crónica recoge dos años de prisión y 674.000 euros de indemnización más intereses. Su titular llama multa a los 674.000 euros, mientras que el cuerpo los identifica como indemnización. La multa de seis meses a tres euros diarios figuraba en la petición de Fiscalía; no se presenta como una multa adicional impuesta sin comprobar el fallo. La expresión periodística de que la condena en principio no tendría efecto tampoco permite asegurar una suspensión de prisión, sus condiciones ni su ejecución.
+
+No se ha recuperado una sentencia o auto que permita verificar la firmeza, los recursos, la ejecución y el desenlace de las demás personas mencionadas en 2017. Las búsquedas de novedades hasta el 17 de octubre de 2026 no han resuelto esas lagunas. Por ello la situación global se mantiene como desconocida, sin inferir que toda la causa permanezca abierta ni que haya quedado cerrada.
+
+Fuentes: [operativo y libertad en 2017](https://www.europapress.es/galicia/noticia-libertad-dos-detenidos-operativo-fraude-cursos-formacion-ourense-20170428182714.html), [identificaciones en La Región](https://www.laregion.es/articulo/ourense/varios-detenidos-fraude-cursos-formacion-ourense/20170428143439704342.html), [información interna de la Diputación](https://www.elprogreso.es/articulo/galicia/descartan-abrir-un-expediente-disciplinario-al-jefe-de-personal-en-ourense/20170505225114404675.amp.html), [acta oficial del Pleno](https://www.depourense.gal/sites/default/files/2024-10/acta-26-de-maio-de-2017.pdf) y [conformidad publicada en 2022](https://www.europapress.es/galicia/noticia-matrimonio-acepta-anos-carcel-674000-euros-multa-estafa-xunta-diputacion-ayuntamiento-ourense-20220711181838.html).
