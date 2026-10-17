@@ -65,9 +65,8 @@ numeroSentencia: ''
 implicados:
 - nombre: Álvaro Gijón
   cargo: Exdiputado autonómico y exconcejal del PP en Palma
-  rol: Investigado en ORA. La Audiencia Provincial acordó el sobreseimiento libre para él, sus padres y su hermano
-    según la noticia de julio de 2021, que modificó el archivo provisional de 2020. Auto recurrible en casación;
-    firmeza no cotejada. Parte afectada en el procedimiento distinto contra investigadores.
+  rol: Sobreseimiento libre comunicado en 2021, con firmeza pendiente de cotejo. Parte afectada en la causa distinta
+    contra investigadores.
 - nombre: José María Rodríguez
   cargo: Expresidente del PP de Palma
   rol: Investigado por supuestas comisiones en ORA. El archivo conocido en enero de 2020 fue provisional, por insuficiencia
@@ -79,9 +78,8 @@ implicados:
     mencionada en la cobertura del juicio contra los investigadores.
 - nombre: Teófilo Gijón
   cargo: Hermano de Álvaro Gijón
-  rol: Detenido con sus padres en junio de 2017. La noticia de julio de 2021 da cuenta del sobreseimiento libre
-    de ORA para él, sus padres y Álvaro Gijón, sin firmeza cotejada. Testigo en septiembre de 2023 en la causa distinta
-    contra investigadores. Nombre conservado según la crónica, sin completar apellidos.
+  rol: Detenido en junio de 2017; sobreseimiento libre comunicado en 2021, con firmeza pendiente de cotejo. Testigo
+    en septiembre de 2023 en la causa distinta contra investigadores.
 - nombre: Gabriel Vallejo
   cargo: Exconcejal de Palma, según la información sobre la causa contra los investigadores
   rol: Figuró entre los detenidos de la investigación ORA. La cobertura de la sentencia de 2023 recoge la absolución
@@ -198,7 +196,7 @@ cronologia:
 
 Revisión con corte de 17 de octubre de 2026. La investigación no permitió recuperar los autos originales de archivo de ORA de 2020 y 2021 ni la sentencia y recursos de la causa contra sus investigadores. `documentos: []` expresa esa ausencia. Se leyeron los cuerpos de las noticias de Europa Press y SER sobre el archivo, las detenciones y testimonios y las crónicas de la sentencia, medidas cautelares y situación de los recursos en 2026. La revisión sigue siendo parcial y no atribuye exactitud judicial a fechas que solo corresponden a publicaciones.
 
-Las noticias contemporáneas de enero de 2020 describían el archivo provisional y recurrible. Existe una resolución posterior relevante: [Crónica Balear, 28 de julio de 2021](https://www.cronicabalear.es/mallorca/2021-07-28/la-audiencia-archiva-definitivamente-el-caso-ora-para-alvaro-gijon-sus-padres-y-su-hermano/) informó del sobreseimiento libre para Álvaro Gijón, sus padres y su hermano, acordado por la Sección Primera al revisar aquel archivo. La crónica señala que podía recurrirse en casación. Se corrige la omisión de ese pronunciamiento en la revisión anterior: no procede describir como meramente provisional el resultado conocido para esas cuatro personas ni equiparar el auto con una sentencia absolutoria. No se ha recuperado su original de 15 páginas, su fecha interna o número, una certificación de firmeza ni el resultado individual posterior de los demás investigados. La referencia genérica al archivo en enero de 2021 de Majorca Daily Bulletin no sustituye esta secuencia de resoluciones. Una crónica de Última Hora de 23 de junio de 2023 también menciona el sobreseimiento libre de ORA, pero no permite ampliar el alcance personal especificado por la noticia de 2021.
+El archivo de 2021 se describe en la cronología con atribución a [Crónica Balear](https://www.cronicabalear.es/mallorca/2021-07-28/la-audiencia-archiva-definitivamente-el-caso-ora-para-alvaro-gijon-sus-padres-y-su-hermano/). Quedan pendientes los autos, sus fechas internas y la firmeza, además del desenlace individual de los demás investigados. La retrospectiva de Majorca Daily Bulletin fecha el primer archivo en enero de 2021; las fuentes contemporáneas lo sitúan en enero de 2020.
 
 La información sobre la condena de Penalva y Subirán distingue obstrucción y coacciones de las detenciones ilegales por las que fueron absueltos, según las crónicas leídas. No se presenta la sentencia de noviembre de 2023 como firme: consta casación en la información de 2023 y una mención periodística a recursos pendientes en septiembre de 2026. Faltan su número, fecha interna, fallo íntegro y decisión del Supremo. La petición fiscal de 2024 de la ficha heredada se retira: no puede describirse una solicitud como si fuera una nueva condena.
 
