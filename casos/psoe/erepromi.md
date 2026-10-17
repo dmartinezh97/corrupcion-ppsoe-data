@@ -1,81 +1,112 @@
 ---
-nombre: "ERE/Promi"
+nombre: ERE del grupo Promi
 partido: PSOE
-completado: true
-año: 2011
-fechaInicio: 2006-01-01
-fechaFin: ""
-estado: "en investigación"
-descripcion: |
-  La pieza separada Promi investiga las ayudas concedidas por la Junta de Andalucía a la empresa Muebles de Madera Promi a través del sistema fraudulento de la "partida 31L". La Junta otorgó 2,5 millones de euros para financiar el ERE (Expediente de Regulación de Empleo) de esta empresa fabricante de muebles de madera. La concesión de la ayuda se produjo al margen del procedimiento legal establecido y con graves irregularidades en la determinación de los beneficiarios.
+completado: false
+año: 2001
+fechaFin: ''
+estado: Pendiente de señalamiento a 7 de abril de 2026; evolución posterior no verificada
+descripcion: 'La pieza DP 2480/16–PA 51/23 examina ayudas a distintas entidades del grupo Promi entre 2001 y 2010.
+  El auto 754/2023 de la Audiencia de Sevilla cifra el conjunto investigado en 12.673.884,23 euros e incluye ayudas
+  de 3.825.156,22 euros a Promi Forja y de 2.558.123,94 euros a Muebles de Madera Promi. Son importes de operaciones
+  investigadas, no daño fijado por sentencia, y no deben sumarse entre sí como partidas adicionales al total. El
+  original contiene una pequeña discrepancia entre el total y su desglose de subvenciones y préstamo, pendiente
+  de aclarar.
 
-  El fraude en este caso presentaba una doble dimensión: por un lado, el director general de Empleo Francisco Javier Guerrero habría instruido directamente —mediante un correo electrónico enviado el 24 de mayo de 2006— que se tramitara una ayuda directa a favor de un destacado afiliado de UGT. Este sindicalista, a pesar de haber abandonado la empresa años antes para crear su propio negocio de muebles (Don Formón S.L.), fue incluido en la lista de beneficiarios del ERE de Promi. Por otro lado, otros beneficiarios del ERE tampoco acreditarían una relación laboral real y continuada con la empresa.
 
-  El caso Promi es uno de los numerosos ejemplos documentados de cómo el sistema de distribución de los ERE en Andalucía servía también para beneficiar a personas afines al PSOE y a los sindicatos UGT y CCOO, que colaboraban estrechamente con la Junta en la gestión del fondo. La investigación judicial forma parte de la macrocausa ERE, que se desglosa en más de cien piezas separadas, muchas de ellas todavía pendientes de resolución definitiva.
-resumen: "Concesión fraudulenta de 2,5 millones de euros a Muebles de Madera Promi para un ERE, incluyendo como beneficiario a un dirigente de UGT que había abandonado la empresa años antes."
-coste: 2500000
-lugar: "Andalucía"
+  El 21 de junio de 2023 la Audiencia desestimó el recurso del investigado anonimizado como Casiano y acordó el
+  sobreseimiento provisional respecto al representante sindical anonimizado como Cirilo, manteniendo los demás pronunciamientos.
+  No equivale a una condena del primero, absolución definitiva del segundo ni archivo de toda la pieza. La memoria
+  fiscal de 2026 registra calificación de 31 de marzo de 2023 y pendiente de señalamiento, con referencia de espera
+  a 7 de abril de 2026. No se han acreditado actuaciones posteriores ni desenlaces individuales hasta el 17 de octubre
+  de 2026. Faltan la identificación nominal contrastada de los recurrentes y el elenco completo de acusados. No
+  se trasladan aquí las condenas de la pieza política, Saldauto o pólizas individuales.'
+resumen: Ayudas al grupo Promi, con resultados distintos de dos recursos en 2023 y pendiente de señalamiento según
+  la memoria fiscal de 2026.
+lugar: Córdoba, Andalucía
 tribunal:
-  - "Audiencia Provincial de Sevilla - Sección Primera - Fiscalía Anticorrupción"
-numeroSentencia: ""
+- Juzgado de Instrucción número 6 de Sevilla
+- Audiencia Provincial de Sevilla, Sección Séptima
 implicados:
-  - nombre: "Francisco Javier Guerrero Benítez"
-    cargo: "Director General de Empleo de la Junta de Andalucía"
-    rol: "Ordenó directamente por correo electrónico la tramitación de la ayuda al afiliado de UGT beneficiado en el ERE de Promi"
-  - nombre: "Dirigente sindical de UGT (beneficiario)"
-    cargo: "Afiliado y cargo de UGT Andalucía"
-    rol: "Beneficiario de la ayuda pese a no mantener relación laboral vigente con Muebles de Madera Promi, habiendo fundado su propio negocio (Don Formón S.L.) tras abandonar la empresa"
-  - nombre: "José Antonio Griñán Martínez"
-    cargo: "Expresidente de la Junta de Andalucía (PSOE)"
-    rol: "Condenado en la macrocausa ERE por malversación y prevaricación (condena anulada posteriormente por el Tribunal Constitucional)"
+- nombre: Casiano (seudónimo en CENDOJ)
+  cargo: Director general de Trabajo y Seguridad Social desde abril de 2010 hasta junio de 2012, según el auto
+  rol: 'Recurrente en el auto de 21 de junio de 2023: recurso desestimado y continuación del procedimiento mantenida.
+    No es una condena; identidad nominal y desenlace posterior no contrastados.'
+- nombre: Cirilo (seudónimo en CENDOJ)
+  cargo: Representante de MCA-UGT en Córdoba, según el auto
+  rol: La Audiencia estimó su recurso y sobreseyó provisionalmente respecto a él por insuficiencia de indicios de
+    contribución delictiva. No se acredita identidad nominal ni posterior resolución de firmeza o reapertura.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "fraude"
-  - "subvenciones"
-  - "ERE"
-  - "fondos públicos"
-  - "sindicalismo"
-impactoSocial: "El caso Promi ejemplifica uno de los patrones más extendidos del fraude de los ERE en Andalucía: la inclusión como beneficiarios de personas sin relación laboral real con las empresas afectadas, a menudo por vínculos de afinidad política o sindical con el PSOE. La documentación de la instrucción directa por parte del director general de Empleo mediante correo electrónico convirtió este caso en una de las pruebas más claras de la arbitrariedad del sistema. El escándalo contribuyó a erosionar la credibilidad de UGT en Andalucía, organización históricamente ligada al PSOE andaluz."
-documentos: null
+- ERE
+- grupo Promi
+- Muebles de Madera Promi
+- Promi Forja
+- ayudas sociolaborales
+- Junta de Andalucía
+impactoSocial: El procedimiento examina la financiación de la reestructuración laboral de entidades vinculadas a
+  la Asociación para la Promoción del Minusválido. El control del gasto y los indicios sobre cada interviniente
+  deben distinguirse de los derechos de los trabajadores y de los resultados de otros procedimientos.
+documentos:
+- fecha: '2023-06-21'
+  titulo: 'Auto 754/2023: recursos en la pieza Promi (PA 51/2023; apelación 4687/2023)'
+  filetype: pdf
+  paginas: 14
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=955cbb43a8ea48f6a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: 2006-05-24
-    titulo: "Guerrero ordena la ayuda para el afiliado de UGT en Promi"
-    descripcion: "Francisco Javier Guerrero, director general de Empleo de la Junta, envía un correo electrónico instruyendo a sus subordinados que tramiten una ayuda directa a favor de un destacado afiliado de UGT, incluyéndolo en el ERE de Muebles de Madera Promi pese a que el sindicalista había abandonado la empresa años antes."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/politica/fraude-ere-caso-liquido-hegemonia-psoe-andalucia-seis-claves.html"
-
-  - fecha: 2007-01-01
-    titulo: "Tramitación del ERE de Muebles de Madera Promi"
-    descripcion: "La Junta de Andalucía aprueba y tramita el ERE de Muebles de Madera Promi, destinando 2,5 millones de euros para financiar las prejubilaciones de los trabajadores afectados. El proceso se desarrolla sin los controles legales exigibles."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_ERE_en_Andaluc%C3%ADa"
-
-  - fecha: 2011-01-01
-    titulo: "Inicio de la investigación judicial del caso ERE"
-    descripcion: "El Juzgado de Instrucción nº 6 de Sevilla, bajo la magistrada Mercedes Alaya, inicia la investigación de la macrocausa ERE. Las piezas separadas, como la de Promi, se irán desglosando a medida que avanza la instrucción."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_ERE_en_Andaluc%C3%ADa"
-
-  - fecha: 2019-11-19
-    titulo: "Sentencia principal del caso ERE"
-    descripcion: "La Audiencia Provincial de Sevilla condena a 19 cargos de la Junta, entre ellos los expresidentes Griñán y Chaves. La pieza de Promi continúa su tramitación como pieza separada."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/politica/fraude-ere-caso-liquido-hegemonia-psoe-andalucia-seis-claves.html"
-
-  - fecha: 2024-01-01
-    titulo: "Tribunal Constitucional anula las condenas a Chaves y Griñán"
-    descripcion: "El Tribunal Constitucional anula las condenas de los expresidentes de la Junta de Andalucía, aunque las piezas separadas sobre empresas concretas, como la de Promi, mantienen su propia tramitación independiente."
-    type: "recurso"
-    relevancia: "media"
-    urls:
-      - "https://www.eldiario.es/andalucia/constitucional-desinfla-caso-ere-andalucia-15-anos-despues_1_11499350.html"
+- fecha: '2000-12-12'
+  titulo: Acuerdo previo de viabilidad del grupo
+  descripcion: El auto de 2023 reseña un acuerdo entre dirección y representantes laborales para un plan de viabilidad
+    y normalización salarial. Es un antecedente empresarial; no se equipara a la primera concesión de ayuda ni a
+    una conducta delictiva probada.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=955cbb43a8ea48f6a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: documento
+  relevancia: alta
+- fecha: '2007-12-01'
+  titulo: Ayuda a Promi Forja descrita por el auto
+  descripcion: La hipótesis investigadora recogida por la Audiencia sitúa ese día una ayuda de 3.825.156,22 euros
+    para pólizas de prejubilación. Examina posibles beneficiarios no afectados por el ERE de esa sociedad; no se
+    presenta como hecho probado en sentencia.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=955cbb43a8ea48f6a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: documento
+  relevancia: alta
+- fecha: '2008-12-22'
+  titulo: Ayuda a Muebles de Madera Promi
+  descripcion: El auto describe una ayuda de 2.558.123,94 euros para indemnizaciones por despido de doce trabajadores.
+    Es una operación dentro del objeto de la pieza del grupo y no una cuantificación firme de daño.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=955cbb43a8ea48f6a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: documento
+  relevancia: alta
+- fecha: '2023-03-31'
+  titulo: Calificación fiscal registrada oficialmente
+  descripcion: La memoria de Fiscalía de 2026 fecha ese día la calificación de DP 2480/16–PA 51/23, Promi. No se
+    ha obtenido el escrito para comprobar las penas y acusaciones por persona.
+  urls:
+  - https://www.fiscal.es/memorias/memoria2026/FISCALIA_SITE/capitulo_II/cap_II_6_6.html
+  type: documento
+  relevancia: alta
+- fecha: '2023-06-21'
+  titulo: Resultados distintos de dos recursos de apelación
+  descripcion: La Audiencia desestima el recurso de Casiano y estima el de Cirilo, sobreseyendo provisionalmente
+    respecto a este último y manteniendo lo restante. Costas de oficio. El archivo del rollo de apelación no equivale
+    al archivo de la pieza penal completa.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=955cbb43a8ea48f6a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: recurso
+  relevancia: alta
 ---
+
+El [auto original 754/2023](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=955cbb43a8ea48f6a0a8778d75e36f0d&encode=true&databasematch=AN) delimita el objeto en las ayudas otorgadas a entidades y sociedades del grupo Promi, vinculado a la Asociación para la Promoción del Minusválido, entre 2001 y 2010. Muebles de Madera Promi es una de ellas, junto a Promi Forja y otras entidades. No se reduce toda la pieza a una ayuda redondeada de 2,5 millones ni se confunde el conjunto con una única póliza.
+
+La resolución señala un total de 12.673.884,23 euros y, al desglosarlo, menciona subvenciones de 9.067.811,60 euros y un préstamo de 3.606.072 euros. Estas dos cifras suman 63 céntimos menos que el total indicado. Se conserva la discrepancia sin corregir de oficio la resolución. Las ayudas concretas de Promi Forja y Muebles de Madera Promi están dentro del objeto descrito y no se añaden automáticamente al conjunto. Ninguna de esas cifras se presenta como multa, responsabilidad civil impuesta o daño firme.
+
+El auto examina recursos contra la continuación por procedimiento abreviado. Mantiene el procedimiento frente al recurrente anonimizado como Casiano al apreciar indicios suficientes para esa fase, y acuerda sobreseimiento provisional respecto a Cirilo. En el caso sindical considera insuficiente que hubiera intervenido en negociaciones laborales, sin datos concretos que acreditasen una contribución penalmente relevante; también cuestiona que la firma o presencia que se le atribuía estuvieran acreditadas en los términos expuestos por las acusaciones. El estándar de una resolución de instrucción no es el de una condena tras juicio.
+
+No se asignan nombres públicos a los seudónimos solo por sus cargos. El original contiene además una divergencia sobre la fecha del auto recurrido: en los antecedentes figura 1 de marzo de 2023 y en el dispositivo 1 de febrero de 2023. Por ello no se incorpora ese auto de primera instancia como hito fechado sin obtener el original. El archivo del rollo de apelación que dispone la Sala es un trámite de ese recurso, no el archivo global de Promi.
+
+La [memoria oficial de Fiscalía de 2026](https://www.fiscal.es/memorias/memoria2026/FISCALIA_SITE/capitulo_II/cap_II_6_6.html) identifica DP 2480/16–PA 51/23, calificación de 31 de marzo de 2023 y pendiente de señalamiento. El 7 de abril de 2026 aparece como referencia para calcular la espera en las causas pendientes; no es una fecha de juicio. No se da un día ficticio a la publicación de esa memoria ni se presume que nada haya cambiado después.
+
+Hay procedimientos distintos vinculados a personas o trabajadores de Promi. La [información de Cordópolis de septiembre de 2025](https://cordopolis.eldiario.es/cordoba-hoy/tribunales/condenan-cordobes-recibir-ayudas-publicas-pieza-separada-caso-ere_1_12597793.html) se refiere a pólizas individuales y recoge la condena de un hombre y absolución de una gerente; ese resultado no resuelve la causa del grupo. De igual modo, los hechos de Saldauto relativos a antiguos empleados de Promi requieren su expediente propio. No se conserva el correo de 24 de mayo de 2006 como si acreditara por sí solo una inclusión en el ERE de Promi ni se atribuyen a esta ficha condenas de Griñán en la pieza política.
+
+A 17 de octubre de 2026 faltan el auto original de continuación, el escrito de acusación, las identidades nominales contrastadas y el elenco completo de acusados, así como un señalamiento o fallo posterior de esta pieza. Tampoco se ha verificado la firmeza o evolución del sobreseimiento provisional. El estado recoge la referencia fiscal disponible con esas limitaciones, visibles también en la descripción.
