@@ -60,12 +60,12 @@ tribunal:
 - Juzgado de Instrucción nº 3 de Santiago de Compostela (Operación Pokémon)
 numeroSentencia: 135/2014 (siete ediles; condena revocada en 2015)
 implicados:
-- nombre: Gerardo Jesús Conde Roa
+- nombre: Gerardo Conde Roa
   cargo: Alcalde de Santiago de Compostela (PP, 2011-2012)
   rol: 'Condenado por un delito fiscal: la Audiencia redujo prisión y sufragio pasivo a 18 meses en 2014. La prensa
     describe el fallo como firme y el anuncio de amparo, cuyo resultado no se ha recuperado. Investigado en distintas
     piezas de Pokémon con archivos provisionales documentados por prensa en 2020 y 2022.'
-- nombre: Albino Vázquez Aldrey
+- nombre: Albino Vázquez
   cargo: Concejal de Seguridad y Tráfico del PP en Santiago (2011-2014)
   rol: Investigado junto a Conde Roa por ingresos en las cuentas del PP, según la citación publicada en mayo de
     2017. Figuraba entre los investigados de la pieza archivada provisionalmente en 2020, con medidas cautelares
