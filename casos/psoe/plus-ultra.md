@@ -72,7 +72,7 @@ implicados:
   rol: El auto de mayo la identifica como investigada y acuerda intervenir sus dispositivos en relación con el supuesto
     soporte administrativo de la operativa. Resultado individual posterior no verificado.
 - nombre: Bartolomé Lora
-  cargo: Vicepresidente de SEPI y presidente en funciones durante la tramitación del rescate
+  cargo: Vicepresidente de SEPI en la comparecencia parlamentaria reseñada de abril de 2026
   rol: Defendió ante el Senado en abril de 2026 la legalidad y el carácter técnico del expediente. No se ha acreditado
     aquí su condición de investigado en la causa actual de Plus Ultra; no se le traslada la imputación de la investigación
     distinta de Air Europa.
