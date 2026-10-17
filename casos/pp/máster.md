@@ -50,12 +50,12 @@ implicados:
   cargo: Exasesora de la Consejería de Educación de Madrid y profesora de la URJC en excedencia en el momento de
     los hechos
   rol: 'Condenada como inductora de falsedad en documento oficial: tres años de prisión en primera instancia, rebajados
-    a dos en apelación; multa de cuatro meses a cinco euros diarios y sufragio pasivo inhabilitado durante la prisión.
+    a dos en apelación; multa de cuatro meses a cinco euros diarios y inhabilitación especial para el derecho de sufragio pasivo durante la pena de prisión.
     Recurso desestimado por el Supremo el 6 de abril de 2022; ejecución no documentada.'
 - nombre: Cecilia Rosado Villaverde
   cargo: Profesora de la URJC y directora nominal del máster
   rol: 'Autora de la falsificación del acta: condenada inicialmente a un año y seis meses, rebajados a un año en
-    apelación; multa de dos meses a cinco euros diarios y sufragio pasivo inhabilitado durante la prisión. No recurrió
+    apelación; multa de dos meses a cinco euros diarios y inhabilitación especial para el derecho de sufragio pasivo durante la pena de prisión. No recurrió
     en casación, según el CGPJ; ejecución no documentada.'
 - nombre: Alicia López de los Mozos
   cargo: Profesora de la URJC cuya firma figuraba en el acta
