@@ -5,7 +5,7 @@ completado: false
 año: 2007
 fechaInicio: '2007-08-01'
 fechaFin: ''
-estado: desconocido
+estado: Absolución en 2025; firmeza y reintegro pendientes de verificar
 descripcion: 'La pieza Cenforpre de los ERE de Andalucía examinó el pago mediante pólizas de seguros de cursos de
   prevención de riesgos laborales efectivamente impartidos por Centros para la Formación y Prevención Laboral. La
   sentencia 303/2025, de 30 de septiembre de 2025, de la Sección Primera de la Audiencia de Sevilla absolvió a José
