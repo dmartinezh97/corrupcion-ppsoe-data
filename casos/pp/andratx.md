@@ -201,8 +201,8 @@ cronologia:
   urls:
   - https://www.ultimahora.es/noticias/local/2019/01/04/1048685/condena-menor-contra-massot-ultima-sentencia-del-caso-andratx.html
 - fecha: "2024-12-11"
-  titulo: Comienza la demolición de los 12 apartamentos ilegales de Cala Llamp
-  descripcion: Comienza el derribo de los doce apartamentos según Última Hora. El anuncio de formalización de 14 de agosto de 2024
+  titulo: Se informa del inicio de la demolición de Cala Llamp
+  descripcion: Última Hora informa de que el derribo ha comenzado; se usa la fecha de publicación, sin fijar el día exacto de inicio. El anuncio de formalización de 14 de agosto de 2024
     recoge 273.808,95 euros con impuestos y cita como fundamento la sentencia 180/09 de 26 de mayo de 2009, mientras la noticia
     cita septiembre de 2013; sin originales no se concilian esas referencias.
   type: sentencia
