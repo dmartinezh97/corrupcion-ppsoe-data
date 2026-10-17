@@ -8,7 +8,7 @@ estado: "desconocido"
 descripcion: |
   El Campus de la Justicia (también llamado Ciudad de la Justicia) fue un proyecto de la Comunidad de Madrid impulsado durante el primer mandato de Esperanza Aguirre (PP) para concentrar en Valdebebas las sedes judiciales de la región, excepto las de jurisdicción nacional. La sociedad pública Campus de la Justicia de Madrid S.A. se constituyó el 12 de enero de 2005 según el informe de fiscalización de la Cámara de Cuentas de Madrid (ejercicios 2005 a 2015), con la Comunidad como único accionista, y estuvo vinculada a la administración autonómica bajo la presidencia de Alfredo Prada, vicepresidente segundo y consejero de Justicia e Interior durante el Gobierno de Aguirre. Se omiten aquí los recuentos de edificios y presupuestos iniciales difundidos en prensa porque no se ha cotejado el informe original de viabilidad que permitiría precisarlos.
 
-  La sentencia de instancia declara probado que la sociedad y los acusados desplegaron entre 2005 y 2011 una intensa actividad contractual al margen de toda previsión económica y de costes: prescindieron de los Servicios Jurídicos de la Comunidad, fraccionaron pagos, eludieron los umbrales de publicidad y concurrencia y permitieron que empresas adjudicatarias intervinieran en la elaboración de los pliegos. El complejo no llegó a funcionar: solo se construyó parcialmente el edificio del Instituto de Medicina Legal y parte de los túneles de conexión, y la sociedad quedó extinguida en 2015.
+  La sentencia de instancia declaró que los condenados desplegaron en la sociedad entre 2005 y 2011 una intensa actividad contractual al margen de toda previsión económica y de costes: prescindieron de los Servicios Jurídicos de la Comunidad, fraccionaron pagos, eludieron los umbrales de publicidad y concurrencia y permitieron que empresas adjudicatarias intervinieran en la elaboración de los pliegos. El complejo no llegó a funcionar: solo se construyó parcialmente el edificio del Instituto de Medicina Legal y parte de los túneles de conexión, y la sociedad quedó extinguida en 2015.
 
   Sobre las cifras, conviene no sumarlas: la Cámara de Cuentas de Madrid cifró en 80 millones de euros el coste de ejecución de las nuevas sedes judiciales entre 2006 y 2010 (35 millones la urbanización de la fase I, 22 millones el Instituto de Medicina Legal y casi 19 millones en obras de edificios en los que no se había colocado una sola piedra) y señaló que no era posible cuantificar las pérdidas por falta de documentación; esas magnitudes son costes de ejecución y limitaciones de auditoría, no una cuantificación penal del daño total. Las sentencias fijaron responsabilidad civil: la de instancia, 40.482.735,78 euros solidarios para el autor y los tres cooperadores necesarios, con responsabilidad subsidiaria del cómplice; la de apelación, en su fallo, 10.087.479,30 euros indemnizables solidariamente por Prada, De las Heras y García de Castro más otros 310.555 euros solidarios de Prada y García de Castro (10.398.034,30 euros en total), mientras que su fundamentación cifra el perjuicio de la malversación en 10.298.034,30 euros (13 de los 25 contratos analizados). Ambas cifras son las del texto verificado; el CENDOJ vincula a la causa una tercera resolución (AAAN 2553/2025) que no se ha podido consultar.
 
@@ -29,11 +29,11 @@ implicados:
 
   - nombre: "Isabelino Baños Fernández"
     cargo: "Director técnico de Campus de la Justicia de Madrid S.A."
-    rol: "Condenado en primera instancia a 3 años y 6 meses como cooperador necesario; la Sala de Apelación le absolvió de malversación y mantuvo la condena por prevaricación administrativa (4 años, 3 meses y 1 día de inhabilitación especial)"
+    rol: "Condenado en primera instancia a 3 años y 6 meses como cooperador necesario; la Sala de Apelación le absolvió de malversación y mantuvo la condena por prevaricación administrativa (4 años, 3 meses y 1 día de inhabilitación especial para ejercer funciones en sociedades mercantiles de la Administración autonómica)"
 
   - nombre: "Mariano José Sanz Piñar"
     cargo: "Subdirector técnico de Campus de la Justicia de Madrid S.A."
-    rol: "Absuelto en primera instancia (el máster percibido se consideró indemnización por su despido); la absolución fue confirmada en apelación"
+    rol: "Absuelto en primera instancia (el pago del máster se consideró parte de la indemnización por su despido); la absolución fue confirmada en apelación"
 
   - nombre: "Alicio de las Heras Rodríguez"
     cargo: "Director financiero de Campus de la Justicia de Madrid S.A."
@@ -41,14 +41,14 @@ implicados:
 
   - nombre: "Andrés Manuel Gómez Gordo"
     cargo: "Director del área de Seguridad de Campus de la Justicia de Madrid S.A."
-    rol: "Condenado en primera instancia a 3 años y 6 meses como cooperador necesario; la Sala de Apelación le absolvió de malversación y mantuvo la condena por prevaricación administrativa (4 años, 3 meses y 1 día de inhabilitación especial)"
+    rol: "Condenado en primera instancia a 3 años y 6 meses como cooperador necesario; la Sala de Apelación le absolvió de malversación y mantuvo la condena por prevaricación administrativa (4 años, 3 meses y 1 día de inhabilitación especial para ejercer funciones en sociedades mercantiles de la Administración autonómica)"
 
   - nombre: "Félix José García de Castro"
     cargo: "Letrado asesor de Campus de la Justicia de Madrid S.A."
     rol: "Condenado en primera instancia a 3 años y 6 meses como cómplice; la Sala de Apelación rebajó la pena a 1 año, 6 meses y 1 día de prisión por prevaricación en concurso con malversación, manteniendo la condición de cómplice"
 
   - nombre: "Esperanza Aguirre Gil de Biedma"
-    cargo: "Expresidenta de la Comunidad de Madrid (PP, 2003-2012)"
+    cargo: "Expresidenta de la Comunidad de Madrid (PP)"
     rol: "Declaró como testigo el 19 de marzo de 2024, según la crónica de Europa Press de ese mismo día; no fue acusada en esta pieza"
 
 tags:
@@ -167,7 +167,7 @@ La ficha heredada citaba el informe de la Cámara de Cuentas (240 páginas) y la
 
 ### Límites de las fuentes
 
-- **Tercera resolución no consultada.** Las cabeceras del CENDOJ de ambas sentencias listan como resoluciones del caso, además de la SAN 4440/2024 y la SAN 1165/2025, una tercera pieza (AAAN 2553/2025). No se ha podido acceder a su texto: la vista por ECLI no devuelve documento y la variante `ECLI:ES:AN:2025:2553` corresponde a otro asunto (una sentencia de lo contencioso sobre asilo, de 24 de abril de 2025), por lo que no se incorpora. No se formula ninguna afirmación sobre su contenido; solo se deja constancia de su existencia.
+- **Tercera resolución no consultada.** Las cabeceras del CENDOJ de ambas sentencias listan como resoluciones del caso, además de la SAN 4440/2024 y la SAN 1165/2025, una tercera pieza (AAAN 2553/2025). No se ha podido acceder a su texto: la consulta por ECLI no ha permitido recuperar su PDF, por lo que no se incorpora como documento consultado. No se formula ninguna afirmación sobre su contenido; solo se deja constancia de su existencia.
 - **Responsabilidad civil.** La sentencia de instancia fijó 40.482.735,78 euros solidarios para el autor y los tres cooperadores necesarios, con responsabilidad subsidiaria del cómplice; la de apelación, en su fallo, 10.398.034,30 euros (10.087.479,30 solidarios de Prada, De las Heras y García de Castro, más 310.555 solidarios de Prada y García de Castro), mientras que su fundamentación cifra el perjuicio de la malversación en 10.298.034,30 euros. Se reproducen las cifras tal como aparecen en el texto verificado, sin sumarlas a otros datos ni presentarlas como la única responsabilidad civil fijada por un tribunal.
 - **Firmeza y casación.** La sentencia de apelación era recurrible en casación al notificarse en marzo de 2025; elDiario.es informó en octubre de 2025 de recursos de cargos condenados al Supremo sin individualizarlos ni identificar el procedimiento. No se ha localizado la resolución de casación o la diligencia de firmeza, de modo que no se declara firme la condena de ninguna persona a partir de esa noticia.
 - **Cifras de gasto.** Los 80 millones de la Cámara de Cuentas (2006-2010), la responsabilidad civil de las sentencias y la inversión anunciada para el nuevo proyecto son conceptos distintos; no se suman. Se retiran del relato las cifras periodísticas de 98, más de 105 y 350-355 millones al no disponer de una conciliación documental de sus ámbitos ni de los documentos originales que permitirían compararlas.
