@@ -3,7 +3,6 @@ nombre: Naseiro
 partido: PP
 completado: false
 año: 1990
-fechaInicio: '1989-11-28'
 fechaFin: ''
 estado: Absolución tras retirada de las acusaciones en julio de 1992
 descripcion: 'El caso Naseiro investigó sospechas de cohecho vinculadas a comisiones para financiar al PP y a operaciones
@@ -150,9 +149,7 @@ cronologia:
   - https://elpais.com/diario/1992/07/04/espana/710200801_850215.html
 - fecha: '1992-07-09'
   titulo: Concluye el juicio tras la retirada de las acusaciones
-  descripcion: La noticia contemporánea de Servimedia del 15 de julio sitúa la conclusión del juicio el día 9 tras
-    la retirada de los cargos. Una cronología posterior la sitúa el día 7; se explicita la discrepancia y se prioriza
-    la información contemporánea, a falta del acta original.
+  descripcion: La noticia contemporánea de Servimedia del 15 de julio sitúa la conclusión del juicio el día 9, tras la retirada de los cargos. Una cronología posterior fecha la retirada de las acusaciones el día 7. Son actuaciones que no deben identificarse automáticamente; falta el acta original para precisar su secuencia.
   type: juicio
   urls:
   - https://www.servimedia.es/noticias/supremo-absuelve-implicados-caso-naseiro-ordena-conservacion-cintas-magnetofonicas/1410777803
@@ -171,7 +168,7 @@ cronologia:
 
 ## Alcance y asuntos pendientes
 
-Revisión con corte de 17 de octubre de 2026. Se cotejaron los cuerpos completos de las informaciones contemporáneas de El País sobre detenciones, nulidad, recursos y absolución y de Servimedia sobre el inicio del juicio y la notificación del fallo. También se leyeron dos retrospectivas de elDiario.es. La diferencia entre fecha de acto y publicación se mantiene visible: el 15 de julio se notificó la sentencia según Servimedia; no se ha cotejado su fecha interna. La divergencia entre 7 y 9 de julio para la retirada de acusaciones no se oculta. Tampoco se presenta la fecha inicial de 1989, procedente de una cronología, como cotejada con el auto original.
+Revisión con corte de 17 de octubre de 2026. Se cotejaron los cuerpos completos de las informaciones contemporáneas de El País sobre detenciones, nulidad, recursos y absolución y de Servimedia sobre el inicio del juicio y la notificación del fallo. También se leyeron dos retrospectivas de elDiario.es. La diferencia entre fecha de acto y publicación se mantiene visible: el 15 de julio se notificó la sentencia según Servimedia; no se ha cotejado su fecha interna. Se distingue la fecha del 7 de julio atribuida a la retirada de acusaciones por una retrospectiva de la conclusión del juicio el día 9 según Servimedia. Tampoco se presenta la fecha inicial de 1989, procedente de una cronología, como cotejada con el auto original.
 
 La búsqueda de originales no permitió recuperar los autos ni la sentencia de esta causa. `documentos: []` refleja esa ausencia. Se consultaron los pasajes pertinentes de la Circular 1/1999 de la Fiscalía en el BOE y de la STC 85/1994 en el repositorio del TC: esta última corresponde a otra causa y solo menciona Naseiro como precedente invocado. No se atribuye a ella la resolución de un amparo del caso. Tampoco se ha verificado la presentación o resultado del amparo anunciado en julio de 1992, la ejecución de una destrucción posterior de cintas o la firmeza autónoma de la absolución.
 
