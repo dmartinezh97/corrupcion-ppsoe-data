@@ -14,10 +14,9 @@ descripcion: |
 
   La causa de las cuevas es independiente de otros procedimientos seguidos contra Baltasar Santos en Navalcarnero, que no deben atribuirse a este caso. La condena de siete años de inhabilitación especial por prevaricación administrativa, dictada por la Audiencia Provincial de Madrid en 2025 y confirmada por el Tribunal Superior de Justicia de Madrid en noviembre de 2025, corresponde a la adjudicación irregular de las reparaciones de las talanqueras de los encierros de 2014 y afectó también al exconcejal Manuel Jordán Rodríguez, sin relación acreditada con las cuevas. Del mismo modo, la sentencia del Tribunal de Cuentas de 2020 que condenaba a 2,1 millones de euros se refería al polideportivo de La Estación y a la Plaza de Toros y fue anulada por el Tribunal Supremo en 2025. Ninguna de esas resoluciones enjuicia la causa de las cuevas y por eso no se incluyen aquí como resultados de este caso.
 
-  Limitaciones visibles de esta revisión: no se han localizado resoluciones originales de la causa que permitan fijar su estado procesal exacto, de modo que la reconstrucción se apoya en prensa contrastada y en un boletín municipal. El auto de apertura de 2018 consta en prensa fechado el 13 de febrero; un boletín municipal de octubre de 2020 lo fecha el 13 de enero, discrepancia sin resolver. El boletín indica que el juicio señalado para enero de 2020 fue aplazado y devuelto al juzgado, pero no se ha localizado la resolución que lo acordó. No se ha localizado ninguna actuación posterior al 5 de noviembre de 2025: se desconoce si la instrucción sigue abierta, si se ha reabierto el juicio oral o si ha habido archivo.
+  Limitaciones visibles de esta revisión: no se han localizado resoluciones originales de la causa que permitan fijar su estado procesal exacto, de modo que la reconstrucción se apoya en prensa contrastada y en un boletín municipal. El auto de apertura de 2018 consta en prensa fechado el 13 de febrero; un boletín municipal de octubre de 2020 lo fecha el 13 de enero, discrepancia sin resolver. El boletín indica que el juicio señalado para enero de 2020 fue aplazado y devuelto al juzgado, pero no se ha localizado la resolución que lo acordó. En la búsqueda de esta revisión hasta el 17 de octubre de 2026 no se ha localizado ninguna actuación posterior al 5 de noviembre de 2025: se desconoce si la instrucción sigue abierta, si se ha reabierto el juicio oral o si ha habido archivo.
 
 resumen: "Red de galerías bajo el casco histórico de Navalcarnero construida, según la Fiscalía, sin proyecto ni autorización de Patrimonio; causa en fase de instrucción en noviembre de 2025 contra el exalcalde Baltasar Santos y la interventora Teresa Hermida, con situación actual desconocida, con una estimación municipal de desfalco de 30 millones sin resolución judicial"
-coste: 30000000
 lugar: "Navalcarnero, Madrid"
 tribunal:
   - "Juzgado de Primera Instancia e Instrucción nº 4 de Navalcarnero (denominación en la fecha de la instrucción)"
@@ -52,7 +51,7 @@ cronologia:
   - fecha: "2016-01-10"
     titulo: "Nuevo derrumbe parcial de las cuevas"
     descripcion: "En la madrugada del 10 de enero de 2016 se produce un nuevo derrumbe parcial, el quinto desde el inicio de las obras, en la cueva situada bajo la plaza de los Macacos, a unos 500 metros de la plaza principal. El socavón tuvo un metro y medio de diámetro y varios metros de profundidad. El Ayuntamiento atribuyó el derrumbe a las actuaciones clandestinas del anterior equipo de Gobierno."
-    type: "resumen"
+    type: "investigacion"
     urls:
       - "https://www.telemadrid.es/noticias/madrid/cuevas-ilegales-Navalcarnero-derrumbe-parcial-0-1755724431--20160110100937.html"
 
@@ -74,20 +73,20 @@ cronologia:
   - fecha: "2020-01-17"
     titulo: "Se conoce: la Fiscalía mantiene la acusación y el juicio se fija para el 21 de enero"
     descripcion: "Se publica el contenido del escrito de acusación de la Fiscalía Provincial de Madrid, que reclama nueve años de inhabilitación para Baltasar Santos y Teresa de Jesús Hermida por un delito continuado de prevaricación, y que el juicio comenzaría el 21 de enero de 2020 en la Audiencia Provincial de Madrid. Las crónicas describen el proyecto de las cuevas con un presupuesto de alrededor de un millón de euros. La fecha corresponde a la publicación, no a la presentación del escrito ni a una sesión del juicio."
-    type: "declaración"
+    type: "investigacion"
     urls:
       - "https://confilegal.com/20200117-la-fiscalia-pide-9-anos-de-inhabilitacion-para-el-exalcalde-de-navalcarnero-baltasar-santos-gonzalez-pp/"
 
   - fecha: "2025-11-05"
     titulo: "Se informa: la causa seguía en fase de instrucción a 5 de noviembre de 2025"
     descripcion: "Cadena SER Madrid Oeste publica que el Juzgado de Instrucción nº 4 de Navalcarnero continuaba en fase de instrucción la causa de las Cuevas, en la que investiga un sobrecoste del 244 % y obras ejecutadas sin autorización de la Dirección General de Patrimonio Histórico. La noticia aparece en una pieza sobre la confirmación por el TSJM de la condena de siete años de inhabilitación, que corresponde al caso de las talanqueras de 2014 y no a las cuevas. La fecha corresponde a la publicación; no se ha localizado ninguna actuación judicial posterior y se desconoce el estado actual de la causa."
-    type: "investigación"
+    type: "investigacion"
     relevancia: "alta"
     urls:
       - "https://cadenaser.com/cmadrid/2025/11/05/la-justicia-confirma-la-condena-por-prevaricacion-del-exregidor-de-navalcarnero-baltasar-santos-pp-ser-madrid-oeste/"
 ---
 
-## Límites de la revisión (1 de octubre de 2026)
+## Límites de la revisión (17 de octubre de 2026)
 
 La situación actual de la causa no consta acreditada. La última referencia localizada es del 5 de noviembre de 2025 (Cadena SER), que situaba la investigación en fase de instrucción en el Juzgado de Primera Instancia e Instrucción nº 4 de Navalcarnero. No se ha encontrado ninguna sentencia sobre el fondo ni una resolución posterior a esa fecha, ni resoluciones originales de la causa que permitan fijar su estado procesal exacto; la reconstrucción se apoya en prensa contrastada y en un boletín municipal. Se desconoce, por tanto, si la instrucción sigue abierta, si se ha reabierto el juicio oral o si ha habido archivo.
 
@@ -95,7 +94,7 @@ La situación actual de la causa no consta acreditada. La última referencia loc
 
 **Cronología procesal con contradicciones sin resolver.** El auto de apertura de juicio oral consta en prensa fechado el 13 de febrero de 2018 (elDiario.es lo publicó el 15 de febrero de 2018), mientras que un boletín municipal de octubre de 2020 lo fecha el 13 de enero de 2018. Se ha fechado el hito de la cronología el 15 de febrero de 2018, día de la publicación que dio a conocer el auto, y se anota la discrepancia sobre la fecha del propio auto. El juicio fue señalado para los días 22, 23 y 24 de enero de 2020 (Europa Press y Noticias para Municipios, 16 de abril de 2019) y después para el 21 de enero de 2020 (Confilegal, 17 de enero de 2020); el boletín municipal de octubre de 2020 indica que fue aplazado y devuelto al juzgado, lo que enlaza con la instrucción que seguía abierta en 2025. No se ha localizado la resolución que acordó esa devolución ni resolución alguna sobre su celebración.
 
-**Magnitudes económicas.** El presupuesto inicial de 1.053.943 euros y el coste final de 3.630.145 euros (desviación del 244 %) proceden de la cobertura de Noticias para Municipios (2019) y concuerdan con el «sobrecoste del 244 %» que repite Cadena SER en 2025. La cifra de «cerca de 30 millones de euros» de desfalco la atribuyen Europa Press y elDiario.es a la valoración de la actual Corporación, y la repitieron El País y Telemadrid en 2016; ninguna resolución judicial la ha fijado. Esa estimación municipal se ofrece como referencia atribuida a la Corporación y no como perjuicio declarado; el desembolso documentado de la obra es de 3,63 millones. La fianza de 1,5 millones de euros del auto de 2018 es una medida cautelar para asegurar responsabilidades pecuniarias y no una indemnización.
+**Magnitudes económicas.** El presupuesto inicial de 1.053.943 euros y el coste final de 3.630.145 euros (desviación del 244 %) proceden de la cobertura de Noticias para Municipios (2019) y concuerdan con el «sobrecoste del 244 %» que repite Cadena SER en 2025. La cifra de «cerca de 30 millones de euros» de desfalco la atribuyen Europa Press y elDiario.es a la valoración de la actual Corporación, y la repitieron El País y Telemadrid en 2016; ninguna resolución judicial la ha fijado. Esa estimación municipal se ofrece como referencia atribuida a la Corporación y no como perjuicio declarado; el coste de la obra publicado por esa fuente secundaria es de 3,63 millones, sin comprobación en documentación contable original. La fianza de 1,5 millones de euros del auto de 2018 es una medida cautelar para asegurar responsabilidades pecuniarias y no una indemnización.
 
 **Extensión de las galerías.** El País (2016) describe «más de dos kilómetros» de cuevas; no se ha confirmado una extensión mayor ni una cifra de metros cúbicos de tierra extraída. El País (2016) indica además que un fontanero municipal dirigió las obras «entre 2004 y 2015», aunque las obras del proyecto se sitúan entre 2004 y 2011.
 
@@ -104,3 +103,7 @@ La situación actual de la causa no consta acreditada. La última referencia loc
 **Datos de contexto.** El endeudamiento municipal de «más de 200 millones de euros» y el número de prisión e inhabilitación que pedía la acusación particular proceden de declaraciones municipales y de prensa, no de resoluciones judiciales, y se presentan como tales. No se ha podido comprobar el contenido íntegro del reportaje de Noticias para Municipios de 3 de octubre de 2022 sobre las cuevas, que está tras muro de pago.
 
 El [boletín municipal nº 38](https://www.navalcarnero.es/navalcarnero/prensa/files/NAVAL-HOY-38-octubre-2020-web.pdf) se fecha solo en octubre de 2020; no consta el día de publicación. La referencia documental conserva esa precisión mensual. Su información sobre las cuevas figura en la página 7 y no constituye una resolución judicial.
+
+El campo numérico `coste` se omite: no se ha acreditado un perjuicio económico mediante resolución original. No se suman presupuestos, costes publicados, estimaciones municipales ni fianzas. El boletín municipal es una fuente institucional original de lo que afirma el Ayuntamiento, parte acusadora, pero no sustituye a los autos judiciales ni acredita sus conclusiones.
+
+Una crónica de [Telemadrid del 23 de septiembre de 2020](https://www.telemadrid.es/programas/telenoticias-1/Navalcarnero-atribuye-venganza-politica-querella-2-2271092895--20200923033722.html) también informa de la devolución de la instrucción de las cuevas por acusaciones sobre delitos no investigados. Su actualización web de octubre de 2025 no fecha esa decisión judicial. La URL de Noticias para Municipios devuelve 404 y Confilegal devuelve 403 en esta revisión: sus detalles se conservan como referencias heredadas pendientes de comprobación, no como lecturas verificadas.
