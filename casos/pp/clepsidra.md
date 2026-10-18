@@ -51,12 +51,20 @@ descripcion: |
   de admitir dádiva o regalo en consideración al cargo o función) y el de Catalán como cohecho activo del
   art. 424.1 CP (entrega de la dádiva por el particular); el Tribunal Supremo no modificó esa calificación.
 
-  Límites de esta ficha: no se ha localizado un documento oficial que acredite una resolución de ejecución
-  posterior al 24 de mayo de 2022 (por ejemplo, la liquidación de la condena por cohecho). La multa por blanqueo quedó sin efecto con la absolución; el decomiso de instancia se fundó también en
+  SER/Europa Press y Valencia Plaza/EFE informaron el 16 de diciembre de 2022 de dos autos de la Sección
+  Segunda de la Audiencia de Valencia que concedían la suspensión de las penas de prisión por dos años. Para
+  Grau, las condiciones incluían no delinquir durante ese plazo, comunicar cambios de domicilio y abonar una
+  multa de seis meses a 30 euros diarios (5.400 euros); para Catalán, no delinquir, comunicar cambios de
+  domicilio y abonar seis meses de multa a 60 euros diarios (10.800 euros). Las crónicas señalaban que los
+  autos podían recurrirse en súplica. No se han recuperado los autos originales ni su fecha exacta: el 16 de
+  diciembre es la fecha de difusión. No se ha verificado el pago, los recursos ni el cumplimiento o la extinción
+  posterior de las penas.
+
+  Límites de esta ficha: siguen pendientes los originales de esos autos y la liquidación de ejecución. La multa por blanqueo quedó sin efecto con la absolución; el decomiso de instancia se fundó también en
   el artículo 301.5, pero el fallo de casación no lo enumera separadamente. No se afirma un saldo pendiente
   ni una ejecución definitiva del decomiso sin el expediente correspondiente. No consta condena por prevaricación. No se ha localizado confirmación documental del estado
-  de las responsabilidades civiles, si las hubo. No se han localizado noticias ni resoluciones posteriores a
-  2022 sobre esta causa concreta. La ausencia de noticias no permite afirmar que existieran incidencias de
+  de las responsabilidades civiles, si las hubo. No se han verificado actuaciones posteriores a las noticias de
+  diciembre de 2022 sobre esta causa concreta. La ausencia de noticias no permite afirmar que existieran incidencias de
   ejecución, pero tampoco que la misma esté definitivamente cerrada en su fase de ejecución. No se fija coste: los 17.410 euros son efectivo añadido por Grau a los cambios, no un daño público probado;
   tampoco el precio del contrato, los regalos, las multas o el decomiso se suman como perjuicio. No se ha podido precisar la fecha exacta de inicio de la actuación de la
   Agencia Tributaria que originó la causa, por lo que no se fija fechaInicio.
@@ -200,6 +208,14 @@ cronologia:
     urls:
       - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=2e8fc322d1654a6e&encode=true&databasematch=TS"
       - "https://valenciaplaza.com/valenciaplaza/elsupremoabsuelveagraudelblanqueoenelcasodelosrelojes"
+  - fecha: "2022-12-16"
+    titulo: "Se conoce la suspensión condicionada de las penas de prisión"
+    descripcion: "SER/Europa Press y Valencia Plaza/EFE informan de dos autos de la Sección Segunda de la Audiencia de Valencia que suspenden las penas de prisión por dos años. Para Grau se exige no delinquir durante ese plazo, comunicar cambios de domicilio y abonar una multa de seis meses a 30 euros diarios (5.400 euros); para Catalán, no delinquir, comunicar cambios de domicilio y abonar seis meses de multa a 60 euros diarios (10.800 euros). Según las crónicas, los autos eran recurribles en súplica. El día 16 es la fecha de publicación: no se han obtenido los originales ni la fecha exacta de los autos. No se acredita pago, firmeza de los autos, cumplimiento de condiciones ni extinción posterior."
+    type: "recurso"
+    relevancia: "alta"
+    urls:
+      - "https://cadenaser.com/comunitat-valenciana/2022/12/16/alfonso-grau-eludira-la-prision-si-paga-5400-euros-por-aceptar-relojes-de-alta-gama-radio-valencia/?outputType=amp"
+      - "https://valenciaplaza.com/valenciaplaza/alfonso-grau-eludira-entrar-en-prision-por-cohecho-si-paga-5400-euros"
 ---
 
 ## Limitaciones y fuentes
@@ -209,7 +225,7 @@ cronologia:
 - **Día de entrega de los relojes.** Las resoluciones fijan la compra del primer reloj el 29 de diciembre de 2010 y la del segundo el 28 de diciembre de 2011, y la devolución del primero el 30 de diciembre de 2010 y la del segundo el 9 de enero de 2012. No consta un día exacto de entrega de los relojes a Grau, por lo que no se afirma que se produjera el mismo día de la compra; la entrega del primero se sitúa entre el 29 y el 30 de diciembre de 2010. No se fijan días sin corroboración.
 - **Contrato con IVA.** Los hechos probados de la sentencia de instancia, confirmados en apelación y casación, fijan el contrato de Transvia de 652.748,55 euros «IVA incluido». Una cobertura de prensa lo publicó sin IVA; en la ficha se sigue el texto judicial y la discrepancia de prensa se recoge en el informe de revisión, sin tratarla como una incertidumbre de la fuente primaria.
 - **Cargos de Alfonso Grau.** La ficha no sostiene que Grau fuera primer teniente de alcalde desde 1995: según su declaración en el juicio entró en el Ayuntamiento como concejal el 7 de julio de 1995 y dimitió el 16 de marzo de 2015, y durante los años de los hechos (2010-2012) era primer teniente de alcalde y vicealcalde y director y coordinador general del Área de Dinamización Económica y Empleo. La estructura del área municipal cambió a lo largo del periodo, por lo que no se fija un periodo preciso para todos los cargos.
-- **Ejecución y responsabilidad civil.** No se ha localizado documento oficial de ejecución de la condena firme por cohecho (liquidación de condena, cumplimiento o suspensión de la pena). La multa por blanqueo quedó sin efecto con la absolución. El decomiso se había fundado en el art. 301.5 y el Supremo no lo enumera por separado al mantener el resto en cuanto no se oponga a la absolución; no se dispone de liquidación de ejecución para precisar su tratamiento posterior. No consta condena por prevaricación. No se ha verificado si se formularon responsabilidades civiles; el fallo de instancia no las refleja.
+- **Ejecución y responsabilidad civil.** SER/Europa Press y Valencia Plaza/EFE publicaron el 16 de diciembre de 2022 la suspensión de las penas de prisión por dos años, con condiciones individualizadas recogidas en la cronología. Según esas crónicas, los autos eran recurribles en súplica. No se han recuperado sus originales ni la fecha de los actos, ni se han verificado los pagos, los recursos, el cumplimiento o la extinción de las penas. El transcurso del plazo no acredita por sí solo la extinción. La multa por blanqueo quedó sin efecto con la absolución. El decomiso se había fundado en el art. 301.5 y el Supremo no lo enumera por separado al mantener el resto en cuanto no se oponga a la absolución; no se dispone de liquidación de ejecución para precisar su tratamiento posterior. No consta condena por prevaricación. No se ha verificado si se formularon responsabilidades civiles; el fallo de instancia no las refleja.
 - **Fecha de inicio.** No se ha podido precisar la fecha exacta de la actuación de la Agencia Tributaria a la joyería que originó la causa, por lo que no se fija `fechaInicio`.
 
 ## Revisión al 17 de octubre de 2026
@@ -218,4 +234,4 @@ Los tres originales CENDOJ se han descargado por GET (HTTP200), sin confundir ar
 
 La crónica de Valencia Plaza publicada el 30 de mayo de 2022 se ha descargado y leído: identifica nominalmente a Grau y Urbano Catalán y explica la absolución por blanqueo y la subsistencia del cohecho. Su marca de actualización del 30 de abril de 2024 no acredita una nueva resolución en esa fecha. Los seudónimos de los originales no se convierten por sí solos en identidades nominales. La firmeza se apoya en que los dos fallos del Supremo dicen expresamente que no cabe recurso; `fechaFin` no equipara esa fecha con la extinción de las penas.
 
-No se ha obtenido resolución posterior de ejecución de esta causa. Las referencias posteriores a otras causas de Grau no se incorporan como resultados de Clepsidra. No se fija coste ni se suman pagos privados, precio contractual, valor de regalos y consecuencias penales.
+No se han obtenido los originales de los autos de suspensión difundidos en diciembre de 2022 ni resoluciones posteriores de ejecución de esta causa. Las referencias posteriores a otras causas de Grau no se incorporan como resultados de Clepsidra. No se fija coste ni se suman pagos privados, precio contractual, valor de regalos y consecuencias penales.
