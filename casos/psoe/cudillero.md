@@ -1,112 +1,133 @@
 ---
-nombre: "Cudillero"
-partido: PSOE
-completado: true
-año: 2010
-fechaInicio: 2010-05-02
-fechaFin: "2015-03-19"
-estado: "cerrado con condenas"
-descripcion: |
-  El caso Cudillero es un escándalo de corrupción municipal protagonizado por cargos del PSOE en el Ayuntamiento de Cudillero (Asturias) que combinó irregularidades en la gestión económica, cobros ilegales a hosteleros y una crisis de gobernabilidad sin precedentes. El entonces alcalde Francisco González Menéndez mantenía una cuenta de festejos a su nombre exclusivo, fuera del control municipal, de la que retiró al menos 130.000 euros en efectivo durante aproximadamente una década. En paralelo, el jefe de la Policía Local fue investigado en 2010 por la Fiscalía al haber pedido dinero a la Comisión de Festejos de San Pedro, alegando que los agentes debían cobrar un "extra" por trabajar durante las fiestas patronales.
-
-  El escándalo se amplió cuando el propio González, ya convertido en diputado regional del PSOE, acumuló tres imputaciones distintas: cobros a hosteleros a cambio de garantizarles seguridad (exacciones ilegales y cohecho), prevaricación por haber sufragado el sueldo de un funcionario municipal que no prestaba servicios, y perjurio y denuncia falsa relacionados con la querella interpuesta por el sargento de la Policía Local, Prudencia Iván Flores María. La concejala de Comercio e Industria, María Verena Prendes García, también fue procesada y condenada el 19 de marzo de 2015 por el Tribunal Superior de Justicia de Asturias (TSJA) por un delito de exacciones ilegales, con multa de 3.600 euros e inhabilitación de tres años para cargo público.
-
-  La crisis política derivada resultó igualmente llamativa: el PSOE, pese a contar con mayoría absoluta de 8 de 13 concejales, fue incapaz de mantener un alcalde estable. Entre 2011 y 2014 el municipio tuvo cinco alcaldes distintos; el Tribunal Constitucional anuló en dos ocasiones los nombramientos que el grupo municipal socialista intentó hacer recaer en personas fuera de su lista electoral, y el Gobierno del Principado llegó a solicitar al Ejecutivo central la convocatoria de elecciones municipales anticipadas para desbloquear el ayuntamiento.
-
-resumen: "Alcalde y concejales del PSOE de Cudillero condenados por cobros ilegales a hosteleros, fondos de festejos sin control y crisis de gobernabilidad con cinco alcaldes en dos años"
-coste: 130000
-lugar: "Cudillero, Asturias"
-tribunal:
-  - "Tribunal Superior de Justicia de Asturias - Sala de lo Civil y Penal"
-  - "Juzgado de Primera Instancia e Instrucción de Pravia"
-numeroSentencia: ""
-implicados:
-  - nombre: "Francisco González Menéndez"
-    cargo: "Alcalde de Cudillero (2007-2012), Diputado regional del PSOE en Asturias"
-    rol: "Imputado por exacciones ilegales, cohecho y prevaricación; retiró 130.000€ de cuenta de festejos sin control municipal"
-
-  - nombre: "María Verena Prendes García"
-    cargo: "Concejala de Comercio e Industria del Ayuntamiento de Cudillero (PSOE)"
-    rol: "Condenada el 19/03/2015 por exacciones ilegales; multa de 3.600€ e inhabilitación de 3 años"
-
-  - nombre: "Jefe de la Policía Local de Cudillero"
-    cargo: "Jefe de la Policía Municipal de Cudillero"
-    rol: "Investigado por la Fiscalía por solicitar pagos irregulares a la Comisión de Festejos"
-
-tags:
-  - "corrupción"
-  - "exacciones ilegales"
-  - "cohecho"
-  - "prevaricación"
-  - "malversación"
-  - "financiación irregular"
-
-impactoSocial: "El caso Cudillero evidenció cómo la corrupción a escala municipal puede paralizar por completo la gestión de un municipio: Cudillero tuvo cinco alcaldes en dos años y el Tribunal Constitucional anuló dos veces los nombramientos del PSOE, convirtiéndose en símbolo del abuso de poder en la administración local asturiana."
-
-documentos: []
-
-cronologia:
-  - fecha: "2010-05-02"
-    titulo: "El jefe de la Policía Local, investigado por pedir dinero a la Comisión de Festejos"
-    descripcion: "La Fiscalía abre investigación contra el jefe de la Policía Municipal de Cudillero por presuntamente haber solicitado pagos indebidos a la Comisión de Festejos de San Pedro de 2009, argumentando que los agentes necesitaban un complemento económico extra por el trabajo durante las fiestas patronales. Esta investigación es el primer indicio público de las irregularidades que afectan a la administración municipal de Cudillero bajo el gobierno del PSOE."
-    type: "investigación"
-    urls:
-      - "http://www.lne.es/asturias/2010/05/02/jefe-policia-cudillero-investigado-fiscalia-pedir-dinero-vecinos/909329.html"
-
-  - fecha: "2010-08-13"
-    titulo: "El alcalde Francisco González retiró 130.000€ en efectivo de la cuenta de festejos"
-    descripcion: "Se hace público que Francisco González, alcalde de Cudillero, ha retirado al menos 130.000 euros en efectivo a lo largo de aproximadamente una década de una cuenta bancaria de festejos registrada a nombre del municipio pero de la que él era el único titular y autorizante. La cuenta operaba fuera del control de la intervención municipal. González alega tener justificantes de todos los gastos en fiestas y celebraciones, pero la opacidad de la gestión genera una investigación penal."
-    type: "investigación"
-    urls:
-      - "http://www.lne.es/asturias/2010/08/13/alcalde-cudillero-saco-130000-euros-efectivo-polemica-cuenta-festejos/954580.html"
-
-  - fecha: "2013-01-31"
-    titulo: "El TSJA admite querella contra el diputado regional del PSOE Francisco González"
-    descripcion: "La Sala de lo Civil y Penal del Tribunal Superior de Justicia de Asturias admite a trámite una querella interpuesta por el sargento de la Policía Local de Cudillero, Prudencia Iván Flores María, y otras personas, contra el diputado regional del PSOE Francisco González Menéndez por los presuntos delitos de cohecho o exacciones ilegales, acusación y denuncia falsa y falso testimonio. El TSJA es competente al tener González aforamiento como parlamentario autonómico."
-    type: "imputación"
-    urls:
-      - "http://www.lne.es/asturias/2013/01/31/tsja-admite-tramite-querella-diputado-regional-psoe-francisco-gonzalez/1361946.html"
-
-  - fecha: "2013-05-01"
-    titulo: "La Fiscalía denuncia a González por pagar a un funcionario que no trabajaba"
-    descripcion: "La Fiscalía presenta denuncia contra Francisco González por un nuevo caso de prevaricación: le imputa haber pagado el sueldo a un funcionario municipal que, según la acusación, fue apartado de su puesto de trabajo y percibía su nómina sin prestar servicio, presuntamente a cambio de retirar una denuncia laboral. Este tercer procedimiento se tramita ante el Juzgado de Pravia una vez que González pierde su aforamiento al renunciar al escaño en el Parlamento regional."
-    type: "imputación"
-    urls: []
-
-  - fecha: "2013-08-23"
-    titulo: "El TSJA abre procedimiento de jurado contra González por cobros ilegales a hosteleros"
-    descripcion: "El Tribunal Superior de Justicia de Asturias acuerda incoar procedimiento para enjuiciar ante jurado popular al diputado socialista y ex alcalde de Cudillero Francisco González Menéndez por los delitos de cohecho y exacciones ilegales. Según la acusación, González habría cobrado cantidades de dinero a empresarios hosteleros de Cudillero a cambio de garantizarles servicios de seguridad y una actitud favorable de la Policía Local. El caso fue denunciado por el sargento Prudencia Iván Flores María."
-    type: "investigación"
-    urls:
-      - "http://www.abc.es/agencias/noticia.asp?noticia=1368225"
-
-  - fecha: "2013-08-23"
-    titulo: "Cudillero elige a su quinto alcalde en dos años tras dos anulaciones del Tribunal Constitucional"
-    descripcion: "El municipio de Cudillero nombra a su quinto alcalde desde las elecciones de 2011. El PSOE, con mayoría absoluta de 8 de 13 concejales, no ha logrado mantener un gobierno estable: Francisco González dimitió en mayo de 2012, Gabriel López renunció por motivos personales, y los dos siguientes nombramientos —personas no incluidas en la lista electoral— fueron anulados por el Tribunal Constitucional al vulnerar el derecho de acceso en condiciones de igualdad a cargos públicos. El caos político en el consistorio se convirtió en un escándalo de alcance nacional."
-    type: "resumen"
-    urls:
-      - "http://www.huffingtonpost.es/2013/08/23/cudillero-alcaldes_n_3802338.html"
-      - "http://www.lne.es/asturias/2013/08/23/cudillero-elige-quinto-alcalde-amenaza/1459307.html"
-
-  - fecha: "2014-01-01"
-    titulo: "El Principado solicita al Gobierno central elecciones anticipadas en Cudillero"
-    descripcion: "El Gobierno del Principado de Asturias solicita formalmente al Ejecutivo central la disolución del Ayuntamiento de Cudillero y la convocatoria de elecciones municipales anticipadas, considerándolo 'la mejor salida' ante la parálisis institucional del municipio. Cinco alcaldes elegidos en la misma legislatura, dos sentencias del Tribunal Constitucional anulando nombramientos, recursos constantes de PP y Foro, y la sombra de los procesos penales contra varios cargos socialistas han dejado al ayuntamiento sin capacidad de gobierno."
-    type: "resumen"
-    urls:
-      - "http://www.eldiario.es/cronicas-asturias/Principado-Gobierno-anticipadas-ayuntamiento-Cudillero_6_228237203.html"
-
-  - fecha: "2015-03-19"
-    titulo: "El TSJA condena a la exconcejala Verena Prendes por exacciones ilegales"
-    descripcion: "La Sala de lo Civil y Penal del Tribunal Superior de Justicia de Asturias dicta sentencia condenatoria contra María Verena Prendes García, exconcejala de Comercio e Industria del Ayuntamiento de Cudillero (PSOE), por un delito de exacciones ilegales. La sentencia impone una multa de 3.600 euros y tres años de inhabilitación para el ejercicio de empleo o cargo público. A pesar de la condena y la inhabilitación, Prendes logrará posteriormente obtener una plaza en un colegio público de Corvera, lo que generará nueva polémica."
-    type: "sentencia"
-    urls:
-      - "http://www.elcomercio.es/asturias/201608/25/exconcejala-cudillero-inhabilitada-logra-20160825001656-v.html"
-
-  - fecha: "2016-08-25"
-    titulo: "La exconcejala inhabilitada obtiene una plaza en un colegio público pese a la condena"
-    descripcion: "Saltan las alarmas cuando se hace público que María Verena Prendes García, exconcejala del PSOE en Cudillero condenada por exacciones ilegales e inhabilitada tres años para empleo o cargo público, ha obtenido una plaza como docente en el colegio de Las Vegas en Corvera de Asturias. El caso pone de manifiesto las dificultades del sistema para hacer efectivas las inhabilitaciones impuestas judicialmente, y reaviva el debate sobre el caso Cudillero y sus responsables."
-    type: "resumen"
-    urls:
-      - "http://www.elcomercio.es/asturias/201608/25/exconcejala-cudillero-inhabilitada-logra-20160825001656-v.html"
-
+"nombre": "Cudillero"
+"partido": "PSOE"
+"completado": false
+"año": 2010
+"estado": "Condenas en procedimientos distintos; seguimiento pendiente"
+"descripcion": "La ficha reúne procedimientos relacionados con la gestión municipal de Cudillero, que deben distinguirse.\
+  \ Por los cobros ilegales a los chiringuitos del puerto, el Tribunal Supremo desestimó el 31 de marzo de 2016\
+  \ las casaciones del exalcalde Francisco González Méndez y de la exconcejala María Verena Prendes García. Se mantuvieron\
+  \ multas de 14.400 y 3.600 euros y suspensiones de empleo o cargo público de cuatro y tres años, respectivamente;\
+  \ no eran penas de inhabilitación. La condena inicial fue del Tribunal del Jurado de la Audiencia Provincial el\
+  \ 23 de junio de 2014 y fue confirmada en apelación el 19 de marzo de 2015.\n\nLas cantidades se exigían sin procedimiento\
+  \ legal para pagar servicios de vigilancia policial. El Supremo señala que los condenados no se beneficiaron personalmente\
+  \ del dinero. Hay restituciones a hosteleros con distintos regímenes de responsabilidad y responsabilidad subsidiaria\
+  \ municipal; no se identifican con un daño global de 130.000 euros. En otra causa, en julio de 2016 se conoció\
+  \ la condena del exalcalde por prevaricación al expedientar al sargento policial: siete años de inhabilitación\
+  \ local electiva y 9.000 euros por daños morales. La absolución de Gabriel López fue confirmada en ese procedimiento.\n\
+  \nEl jefe policial acusado de cohecho había sido absuelto, según la información de EFE de enero de 2013: no se\
+  \ presenta su investigación inicial como situación actual. Los recursos electorales de 2013 son distintos de las\
+  \ causas penales. Quedan pendientes los originales y posibles recursos de otros procedimientos, la ejecución de\
+  \ las penas y la comprobación de la noticia de absolución del exalcalde por denuncia falsa publicada en julio\
+  \ de 2022. No se presume que esas investigaciones sigan abiertas ni que todas hayan terminado con condenas al\
+  \ corte del 17 de octubre de 2026."
+"resumen": "Cobros ilegales a chiringuitos con condenas confirmadas por el Supremo y otros procedimientos municipales\
+  \ diferenciados."
+"lugar": "Cudillero, Asturias"
+"tribunal":
+- "Tribunal Supremo — Sala de lo Penal"
+- "Tribunal Superior de Justicia de Asturias — Sala de lo Civil y Penal"
+- "Audiencia Provincial de Asturias"
+"numeroSentencia": "STS 255/2016, de 31 de marzo — ECLI:ES:TS:2016:1302 (exacciones ilegales)"
+"implicados":
+- "nombre": "Francisco González Méndez"
+  "cargo": "Exalcalde de Cudillero y exdiputado regional del PSOE"
+  "rol": "Condena por exacciones ilegales confirmada en casación: multa de 14.400 euros y cuatro años de suspensión.\
+    \ En otra causa, condena por prevaricación conocida en julio de 2016: siete años de inhabilitación y 9.000 euros\
+    \ de indemnización; seguimiento posterior pendiente."
+- "nombre": "María Verena Prendes García"
+  "cargo": "Exconcejala de Comercio e Industria de Cudillero (PSOE)"
+  "rol": "Condena por exacciones ilegales confirmada en casación: multa de 3.600 euros y tres años de suspensión\
+    \ de empleo o cargo público. Ejecución no comprobada."
+- "nombre": "Gabriel López"
+  "cargo": "Exconcejal de Cudillero (PSOE)"
+  "rol": "La Audiencia confirmó su absolución en la causa por el expediente disciplinario al jefe policial, según\
+    \ Europa Press en julio de 2016."
+- "nombre": "Prudencio Iván Flórez"
+  "cargo": "Sargento de la Policía Local de Cudillero"
+  "rol": "Absuelto de cohecho; querellante contra el exalcalde. Beneficiario de indemnización por daños morales\
+    \ en la causa por prevaricación. Las fuentes alternan las grafías Flores y Flórez."
+"tags":
+- "exacciones ilegales"
+- "prevaricación"
+- "Cudillero"
+"impactoSocial": "Los procedimientos penales sobre cobros municipales y actuaciones contra el jefe policial coincidieron\
+  \ con una crisis de sucesión en la Alcaldía. Las dos anulaciones electorales del Constitucional en 2013 no son\
+  \ condenas penales ni tienen idéntico fundamento."
+"documentos":
+- "fecha": "2016-03-31"
+  "titulo": "Tribunal Supremo, sentencia 255/2016: casaciones por exacciones ilegales"
+  "filetype": "pdf"
+  "paginas": 10
+  "nombre_fichero": "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=05b71c7f7ccd35e5&encode=true&databasematch=AN"
+"cronologia":
+- "fecha": "2013-01-31"
+  "titulo": "Se conoce la admisión de la querella contra González"
+  "descripcion": "EFE informa de la apertura de instrucción por cohecho o exacciones ilegales, acusación y denuncia\
+    \ falsas y falso testimonio. También recuerda la absolución del sargento. Admisión no equivale a condena."
+  "type": "imputación"
+  "urls":
+  - "https://www.rtpa.es/asturias%3AEl-TSJA-admite-a-tramite-una-querella-contra-el-diputado-del-PSOE-Francisco-Gonzalez_111359650215.html"
+- "fecha": "2013-05-23"
+  "titulo": "El Constitucional anula la elección de Ignacio Fernández Díez"
+  "descripcion": "La STC 125/2013 anula el acuerdo municipal de 27 de marzo y ordena retroacción. El elegido no\
+    \ había formado parte de la lista electoral. Es un amparo electoral, no un fallo penal."
+  "type": "sentencia"
+  "urls":
+  - "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-6655"
+- "fecha": "2013-08-06"
+  "titulo": "Segunda anulación electoral por el Constitucional"
+  "descripcion": "La STC 147/2013 anula la elección de Luis Fernández Garay de 24 de junio. La cuestión era la eficacia\
+    \ de su renuncia previa a la candidatura a alcalde, no su ausencia de la lista electoral."
+  "type": "sentencia"
+  "urls":
+  - "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-8895"
+- "fecha": "2014-06-23"
+  "titulo": "Condena del Tribunal del Jurado por exacciones ilegales"
+  "descripcion": "Fecha y penas reproducidas en los antecedentes de la STS 255/2016. Incluye restituciones, algunas\
+    \ solidarias y otras a determinar en ejecución; no se suman como daño municipal."
+  "type": "sentencia"
+  "urls":
+  - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=05b71c7f7ccd35e5&encode=true&databasematch=AN"
+- "fecha": "2015-03-19"
+  "titulo": "El TSJA confirma en apelación la condena"
+  "descripcion": "La Sala de lo Civil y Penal desestima las apelaciones y confirma los pronunciamientos. La fecha\
+    \ está reiterada en el encabezamiento, fundamentos y fallo del Supremo."
+  "type": "sentencia"
+  "urls":
+  - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=05b71c7f7ccd35e5&encode=true&databasematch=AN"
+- "fecha": "2016-03-31"
+  "titulo": "El Supremo desestima las dos casaciones"
+  "descripcion": "La STS 255/2016 mantiene las condenas por exacciones ilegales del exalcalde y la exconcejala.\
+    \ La información nominal de Europa Press permite identificar a los condenados sin reconstruir los seudónimos\
+    \ judiciales."
+  "type": "sentencia"
+  "urls":
+  - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=05b71c7f7ccd35e5&encode=true&databasematch=AN"
+  - "https://www.europapress.es/asturias/noticia-ts-confirma-condena-exacciones-ilegales-francisco-gonzalez-psoe-20160401150834.html"
+- "fecha": "2016-07-26"
+  "titulo": "Se conoce otra condena por prevaricación y una absolución"
+  "descripcion": "Europa Press informa de la revocación de la absolución del exalcalde por el expediente al sargento\
+    \ y de la confirmación de la absolución de Gabriel López. Fecha de publicación; firmeza y ejecución posteriores\
+    \ no comprobadas."
+  "type": "sentencia"
+  "urls":
+  - "https://www.20minutos.es/noticia/2805533/0/audiencia-revoca-absolucion-ex-alcalde-cudillero-le-impone-siete-anos-inhabilitacion/"
+- "fecha": "2017-04-25"
+  "titulo": "Se conocen condenas a dos policías por falso testimonio"
+  "descripcion": "EFE informa de sendas penas de un año y seis meses de prisión impuestas por el Penal 2 de Oviedo.\
+    \ Se indica que cabía apelación: no se presume su firmeza ni se identifican los agentes por deducción."
+  "type": "sentencia"
+  "urls":
+  - "https://www.rtpa.es/noticias-asturias%3ACondenados-a-un-a%C3%B1o-y-medio-de-prision-los-dos-policias-locales-de-Cudillero_111493121747.html"
 ---
+
+El procedimiento por exacciones ilegales sancionó la exigencia de pagos a hosteleros sin ordenanza ni acuerdo que los habilitara. El destino de lo recaudado eran sobresueldos policiales, inicialmente fuera de nómina. El Supremo descarta el beneficio personal de los recurrentes, pero considera penalmente relevante la imposición arbitraria de esos pagos. La restitución ordenada a los perjudicados no debe confundirse con las multas ni con las retiradas de una cuenta de festejos citadas en noticias antiguas.
+
+La suspensión de empleo o cargo público de este procedimiento es distinta de la inhabilitación impuesta por prevaricación en otra causa. Tampoco puede afirmarse, sin resoluciones de ejecución, cuándo se cumplieron las penas o que una posterior actividad docente vulnerase una prohibición judicial concreta. No se conserva esa conclusión de la ficha anterior.
+
+Las sentencias constitucionales anularon dos elecciones diferentes. En la primera, el candidato no había integrado la lista electoral; en la segunda, se debatía una renuncia previa a la candidatura. No acreditan por sí mismas delitos ni permiten atribuir toda la crisis de gobierno a hechos penales probados.
+
+La noticia de La Nueva España del 27 de julio de 2022 sobre la absolución de González por denuncia falsa sigue pendiente de cotejo del cuerpo y del original penal. Como pista adicional, la STSJ de Asturias 52/2026, ECLI:ES:TSJAS:2026:293, trata una reclamación de honorarios de un exalcalde anonimizado y menciona una absolución penal: no se le asigna identidad nominal por inferencia. Esa resolución contenciosa no es una nueva condena penal; además su referencia a sentencia 235/2022 y fecha de julio de 2023 requiere aclaración documental. No se adopta un día de absolución a partir de esa discordancia.
+
+Fuentes: [sentencia original del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=05b71c7f7ccd35e5&encode=true&databasematch=AN), [Europa Press, identificación y penas](https://www.europapress.es/asturias/noticia-ts-confirma-condena-exacciones-ilegales-francisco-gonzalez-psoe-20160401150834.html), [Europa Press, prevaricación y absolución de Gabriel López](https://www.20minutos.es/noticia/2805533/0/audiencia-revoca-absolucion-ex-alcalde-cudillero-le-impone-siete-anos-inhabilitacion/), [EFE, querella y absolución del jefe policial](https://www.rtpa.es/asturias%3AEl-TSJA-admite-a-tramite-una-querella-contra-el-diputado-del-PSOE-Francisco-Gonzalez_111359650215.html), [EFE, proceso contra dos agentes](https://www.rtpa.es/noticias-asturias%3ACondenados-a-un-a%C3%B1o-y-medio-de-prision-los-dos-policias-locales-de-Cudillero_111493121747.html), [STC 125/2013](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-6655) y [STC 147/2013](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-8895). Referencias pendientes de cotejo nominal: [noticia de 2022](https://www.lne.es/asturias/2022/07/27/quico-gonzalez-exalcalde-cudillero-absuelto-71809561.html) y [copia textual de la STSJ 52/2026](https://www.iberley.es/jurisprudencia/sentencia-contencioso-administrativo-tribunal-superior-justicia-sala-lo-contencioso-administrativo-22-1-26-840742849).
