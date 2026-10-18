@@ -19,8 +19,8 @@ descripcion: 'El caso Tele7 se refiere a los servicios audiovisuales contratados
 
   Separadamente, la jurisdicción contable había impuesto a Torró el reintegro de 283.125 euros más intereses. La
   prensa informó en diciembre de 2023 de la inadmisión de su recurso ante el Supremo. No se ha verificado el estado
-  de ejecución contable ni el eventual efecto de la absolución penal en esa vía. Faltan los originales judiciales
-  completos y comprobar la evolución hasta el 17 de octubre de 2026.'
+  de ejecución contable ni el eventual efecto de la absolución penal en esa vía. Se ha recuperado la STS 437/2026,
+  incluida su segunda sentencia absolutoria; faltan los originales contables y comprobar la evolución hasta el 17 de octubre de 2026.'
 resumen: El Supremo absolvió en junio de 2026 a Torró y Faura en Tele7 y anuló la condena penal de 2023. La responsabilidad
   contable y su ejecución se examinan por separado; faltan originales y seguimiento.
 lugar: Gandia, Valencia, Comunitat Valenciana
@@ -29,7 +29,7 @@ tribunal:
 - Tribunal Supremo, Sala de lo Penal
 - Tribunal de Cuentas
 - Tribunal Supremo, Sala de lo Contencioso-Administrativo
-numeroSentencia: STS 437/2026, de 26 de junio (casación penal 4115/2023)
+numeroSentencia: STS 437/2026, de 26 de junio (casación penal 4115/2023; ECLI:ES:TS:2026:2849)
 implicados:
 - nombre: Arturo Torró
   cargo: Exalcalde de Gandia (PP) y presidente de IPG
@@ -44,7 +44,12 @@ tags:
 - malversación
 - responsabilidad contable
 - absolución
-documentos: []
+documentos:
+- fecha: '2026-06-26'
+  titulo: 'STS 437/2026 y segunda sentencia: absolución y anulación de la responsabilidad civil penal'
+  filetype: pdf
+  paginas: 31
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c98b1d62d25dbc1aa0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
 - fecha: '2021-07-27'
   titulo: Sentencia contable de primera instancia
@@ -74,7 +79,7 @@ cronologia:
   relevancia: alta
   urls:
   - https://valenciaplaza.com/valenciaplaza/audiencia-condena-exalcalde-gandia-caso-tele7
-  - https://www.iberley.es/jurisprudencia/sentencia-penal-tribunal-supremo-sala-lo-penal-26-6-26-1840753989
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c98b1d62d25dbc1aa0a8778d75e36f0d&encode=true&databasematch=AN
 - fecha: '2023-12-20'
   titulo: Inadmisión de la casación en la vía contable
   descripcion: Según Gente de la Safor y Valencia Plaza, el Supremo inadmitió el recurso contra la sentencia contable
@@ -93,7 +98,7 @@ cronologia:
   type: sentencia
   relevancia: alta
   urls:
-  - https://www.iberley.es/jurisprudencia/sentencia-penal-tribunal-supremo-sala-lo-penal-26-6-26-1840753989
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c98b1d62d25dbc1aa0a8778d75e36f0d&encode=true&databasematch=AN
   - https://valenciaplaza.com/valenciaplaza/comarca-y-empresa/el-supremo-absuelve-al-fallecido-alcalde-de-gandia-arturo-torro-de-malversacion-en-el-caso-tele7
   - https://www.europapress.es/comunitat-valenciana/noticia-ts-absuelve-fallecido-arturo-torro-malversacion-caso-tele7-ver-vulnerado-derecho-defensa-20260630192151.html
 ---
@@ -108,6 +113,8 @@ Los más de siete millones de euros mencionados en la información histórica so
 
 ## Límites de la revisión
 
-Se han leído las informaciones completas de Europa Press y Valencia Plaza sobre la absolución y pasajes de reproducciones jurídicas de la STS 437/2026 y de la sentencia contable 9/2022. No se han descargado los originales completos de las resoluciones penales, incluida la segunda sentencia absolutoria, ni la providencia contenciosa de diciembre de 2023. La URL oficial del libro de resoluciones contables redirige a un buscador, no entrega el PDF anunciado; por ello `documentos` permanece vacío.
+La [STS 437/2026 y su segunda sentencia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c98b1d62d25dbc1aa0a8778d75e36f0d&encode=true&databasematch=AN) están disponibles en el original oficial de 31 páginas. La segunda sentencia absuelve a los dos condenados, elimina la responsabilidad civil derivada del delito, mantiene los demás pronunciamientos absolutorios y declara de oficio las costas de primera instancia. Ambas resoluciones indican que no cabe recurso. La revisión ha contrastado la cabecera, los fundamentos 3.4–3.6 y los fallos; no se presenta como lectura íntegra de las 31 páginas.
 
-Quedan pendientes los originales, la ejecución o revisión de la responsabilidad contable y la comprobación de novedades hasta el corte del 17 de octubre de 2026. La referencia periodística a la firmeza contable no sustituye su verificación documental. No se deduce el estado contable de la absolución penal ni se atribuye relación causal entre este caso y el fallecimiento de Torró. Las discrepancias de prensa sobre la inhabilitación de 2023 se omiten mientras no se contraste el fallo original, hoy anulado.
+Faltan la sentencia original de la Audiencia, las resoluciones contables y la providencia contenciosa de diciembre de 2023. La URL antigua del libro de resoluciones contables redirige a un buscador. Las fechas y resultados contables se apoyan en la reproducción jurídica de la sentencia 9/2022 y en la prensa citada, sin inferir su ejecución actual.
+
+Quedan pendientes los originales, la ejecución o revisión de la responsabilidad contable y la comprobación de novedades hasta el corte del 17 de octubre de 2026. La referencia periodística a la firmeza contable no sustituye su verificación documental. No se deduce el estado contable de la absolución penal ni se atribuye relación causal entre este caso y el fallecimiento de Torró. El fallo de la Audiencia reproducido por el Supremo impuso seis años y seis meses de inhabilitación absoluta al autor y tres años y medio al cooperador; esas penas quedaron sin efecto con la absolución, sin que las cifras discrepantes de algunas noticias alteren el original.
