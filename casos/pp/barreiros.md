@@ -1,127 +1,113 @@
 ---
-nombre: "Caso Barreiros"
+nombre: Caso Barreiros
 partido: PP
-completado: true
+completado: false
 año: 2006
-fechaInicio: 2006-09-05
-fechaFin: "2019-02-08"
-estado: "sobreseimiento"
-descripcion: |
-  El caso Barreiros documentó uno de los episodios más descarados de especulación urbanística amparada por el poder municipal del PP en la España de la burbuja inmobiliaria. Alfonso Fuente Parga, alcalde del Partido Popular en el pequeño municipio costero de Barreiros (Lugo), con apenas 3.200 habitantes, autorizó en el año 2006 un total de 2.966 nuevas viviendas en terrenos sin servicios urbanos. Solo el 5 de septiembre de 2006, en un solo día, la junta de gobierno local firmó licencias para 616 viviendas. El objetivo declarado del alcalde era convertir Barreiros en el "Sanxenxo del norte", una segunda residencia de lujo en la costa lucense, pese a que el municipio carecía de infraestructuras básicas de agua y saneamiento para semejante densificación. Fincas que valían tres euros el metro cuadrado se convirtieron en solares de hasta 600 euros, generando una burbuja especulativa de proporciones escandalosas en proporción al tamaño del municipio.
-
-  La Xunta de Galicia, gobernada entonces por el bipartito PSdeG-BNG, advirtió expresamente al ayuntamiento en marzo de 2006 que la ley prohibía conceder licencias en suelo no urbanizable a municipios sin plan urbanístico actualizado. A pesar de esta advertencia formal, el gobierno municipal de Fuente Parga siguió concediendo 45 licencias más en los meses siguientes. La arquitecta municipal Marta Geada Arca firmó los informes técnicos que avalaban las concesiones. En 2010, un promotor entregó a la Fiscalía de Lugo documentos y grabaciones que implicaban a la secretaria municipal en posibles irregularidades adicionales. En 2011, la Fiscalía solicitó al juzgado que investigara el patrimonio de la arquitecta municipal. En 2012, la causa fue inicialmente archivada, pero la acusación particular recurrió y logró reabrirla. El Tribunal Superior de Justicia de Galicia dictaminó que los permisos resultaron ser irregulares y causaron daños urbanísticos irreversibles en el litoral lucense.
-
-  En 2015, cuando se decretó la apertura de juicio oral, Alfonso Fuente y dos de los concejales implicados —José Manuel Gómez Puente y Lorenzo Penabad— causaron baja en el Partido Popular, lo que fue interpretado como un intento de eludir el código ético del partido que les impediría concurrir a elecciones. El juicio oral se celebró finalmente en noviembre y diciembre de 2018 ante el Juzgado de lo Penal número 2 de Lugo. El fiscal solicitó dos años de cárcel y diez de inhabilitación para cada acusado por prevaricación urbanística. El 8 de febrero de 2019, el juez absolvió al alcalde, a los cinco concejales y a la arquitecta municipal, argumentando que no había quedado acreditado que la actuación estuviese "desprovista de toda interpretación razonable del ordenamiento jurídico", aunque reconoció la existencia de "ciertas dudas" sobre la legalidad plena de las licencias. De las casi 3.000 viviendas aprobadas, solo 1.329 llegaron a terminarse; 587 quedaron inconclusas cuando estalló la crisis financiera y las promotoras quebraron.
-
-resumen: "Alcalde del PP autorizó 2.966 viviendas en un día en municipio de 3.200 habitantes; absuelto de prevaricación urbanística en 2019"
-coste: 0
-lugar: "Barreiros, A Mariña, Lugo, Galicia"
+estado: Absolución confirmada en apelación
+resumen: 'Proceso por prevaricación urbanística en licencias de Barreiros: siete absoluciones en 2019, confirmadas en apelación
+  según la prensa.'
+descripcion: El Juzgado de lo Penal n.º 2 de Lugo absolvió el 8 de febrero de 2019 al alcalde, cinco concejales y la arquitecta
+  municipal acusados de prevaricación urbanística. El Progreso informó el 20 de julio de 2019 de la confirmación firme por
+  la Audiencia de Lugo; no se ha obtenido esa resolución original. La absolución penal no declara conformes a derecho todas
+  las licencias ni resuelve los demás litigios urbanísticos del municipio. No se dispone de una cuantificación judicial del
+  perjuicio económico ni de una revisión documental completa de los procedimientos administrativos asociados hasta el 17 de
+  octubre de 2026.
+lugar: Barreiros, Lugo, Galicia
 tribunal:
-  - "Juzgado de lo Penal nº 2 de Lugo"
-  - "Tribunal Superior de Justicia de Galicia"
-numeroSentencia: "Sentencia Juzgado de lo Penal nº 2 de Lugo, 08/02/2019"
+- Juzgado de lo Penal n.º 2 de Lugo
+- Sección Segunda de la Audiencia Provincial de Lugo
+numeroSentencia: 52/2019, de 8 de febrero; PA 252/2017; ECLI:ES:JP:2019:4
 implicados:
-  - nombre: "Alfonso Fuente Parga"
-    cargo: "Alcalde de Barreiros (PP)"
-    rol: "Absuelto de prevaricación urbanística por concesión masiva de licencias ilegales"
-
-  - nombre: "Marta Geada Arca"
-    cargo: "Arquitecta municipal de Barreiros"
-    rol: "Absuelta; firmó informes técnicos que avalaban las licencias irregulares"
-
-  - nombre: "José Manuel Gómez Puente"
-    cargo: "Concejal delegado de Sanidad y Medio Ambiente"
-    rol: "Absuelto; miembro de la junta de gobierno que aprobó las licencias en 2006"
-
-  - nombre: "Lorenzo Penabad"
-    cargo: "Concejal delegado de Obras y Servicios"
-    rol: "Absuelto; miembro de la junta de gobierno que aprobó las licencias en 2006"
-
-  - nombre: "María Alina Rodríguez"
-    cargo: "Concejala de la junta de gobierno local (2006)"
-    rol: "Absuelta; miembro de la junta de gobierno que aprobó las licencias en 2006"
-
-  - nombre: "Eulogio Menéndez López"
-    cargo: "Concejal de la junta de gobierno local (2006)"
-    rol: "Absuelto; miembro de la junta de gobierno que aprobó las licencias en 2006"
-
+- nombre: José Alfonso Fuente Parga
+  cargo: Alcalde de Barreiros durante los hechos, del PP
+  rol: Absuelto de prevaricación urbanística por la sentencia 52/2019; confirmación en apelación comunicada por la prensa
+    en julio de 2019
+- nombre: José Manuel Gómez Puente
+  cargo: Concejal de la Junta de Gobierno Local durante los hechos
+  rol: Absuelto de prevaricación urbanística por la sentencia 52/2019; confirmación en apelación comunicada por la prensa
+    en julio de 2019
+- nombre: Eulogio Menéndez López
+  cargo: Concejal de la Junta de Gobierno Local durante los hechos
+  rol: Absuelto de prevaricación urbanística por la sentencia 52/2019; confirmación en apelación comunicada por la prensa
+    en julio de 2019
+- nombre: María Alina Rodríguez Díaz
+  cargo: Concejal de la Junta de Gobierno Local durante los hechos
+  rol: Absuelto de prevaricación urbanística por la sentencia 52/2019; confirmación en apelación comunicada por la prensa
+    en julio de 2019
+- nombre: Lorenzo Penabad Bolaño
+  cargo: Concejal de la Junta de Gobierno Local durante los hechos
+  rol: Absuelto de prevaricación urbanística por la sentencia 52/2019; confirmación en apelación comunicada por la prensa
+    en julio de 2019
+- nombre: Marta Geada Arca
+  cargo: Arquitecta municipal durante los hechos
+  rol: Absuelto de prevaricación urbanística por la sentencia 52/2019; confirmación en apelación comunicada por la prensa
+    en julio de 2019
+- nombre: José Rojo Blanco
+  cargo: Concejal de la Junta de Gobierno Local durante los hechos
+  rol: Absuelto de prevaricación urbanística por la sentencia 52/2019; confirmación en apelación comunicada por la prensa
+    en julio de 2019
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "urbanismo"
-  - "especulación inmobiliaria"
-  - "burbuja inmobiliaria"
-
-impactoSocial: "El caso Barreiros se convirtió en un símbolo de la especulación urbanística del PP durante la burbuja inmobiliaria: un municipio de 3.200 habitantes con más de 3.500 segundas residencias, cientos de edificios inacabados en el litoral gallego y un daño paisajístico y ambiental irreversible. La absolución de todos los acusados generó una amplia controversia sobre la impunidad de los cargos públicos que ampararon el urbanismo salvaje en la España de los años 2000."
-
-documentos: []
-
+- urbanismo
+- licencias
+- prevaricación urbanística
+impactoSocial: El crecimiento residencial de Barreiros originó controversia política y litigios sobre los servicios urbanísticos
+  y las licencias municipales. Su valoración administrativa debe distinguirse del resultado absolutorio penal.
+documentos:
+- fecha: '2019-02-08'
+  titulo: 'Sentencia 52/2019 del Juzgado de lo Penal n.º 2 de Lugo: absolución de siete acusados'
+  filetype: pdf
+  paginas: 23
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fb201cb4cb5f1bec&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2006-03-01"
-    titulo: "La Xunta advierte al ayuntamiento sobre la ilegalidad de las licencias"
-    descripcion: "La Dirección Xeral de Urbanismo de la Xunta de Galicia, entonces gobernada por el bipartito PSdeG-BNG, comunica formalmente al Concello de Barreiros que la ley prohíbe conceder licencias de obra en suelo no urbanizable a municipios que carecen de plan general de ordenación municipal actualizado. A pesar de esta advertencia explícita, el gobierno municipal de Alfonso Fuente Parga hace caso omiso y continúa tramitando licencias de construcción en los meses siguientes."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/galicia/politica/juicio-alcalde-pp-marbella-lugo_1_3163972.html"
-
-  - fecha: "2006-09-05"
-    titulo: "Concesión de 616 licencias de vivienda en un solo día"
-    descripcion: "En una sesión extraordinaria de la junta de gobierno local del Concello de Barreiros, presidida por el alcalde del PP Alfonso Fuente Parga, se aprueban licencias de construcción para 616 viviendas en un único día. En el conjunto del año 2006, el ayuntamiento llega a autorizar un total de 2.966 nuevas viviendas en terrenos que carecían de los servicios urbanos básicos. Fincas rústicas valoradas en tres euros el metro cuadrado se revalorizaron hasta los 600 euros el metro cuadrado como consecuencia de las recalificaciones implícitas en las licencias. El plan era convertir Barreiros en el 'Sanxenxo del norte', una nueva zona de segundas residencias en la costa lucense."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/galicia/politica/Fincas-especulacion-Marbella-Cantabrico-PP_0_556094768.html"
-      - "https://www.eldiario.es/galicia/politica/juicio-alcalde-pp-marbella-lugo_1_3163972.html"
-
-  - fecha: "2010-12-01"
-    titulo: "Un promotor entrega documentos y grabaciones a la Fiscalía"
-    descripcion: "Un promotor inmobiliario entrega a la Fiscalía de Lugo documentos y grabaciones que supuestamente implican a la secretaria municipal del Concello de Barreiros en irregularidades relacionadas con la concesión de licencias urbanísticas. Las grabaciones y documentos aportados constituyen el primer material probatorio formal que llega a manos del Ministerio Público y dan nuevo impulso a la investigación sobre las licencias masivas concedidas en 2006."
-    type: "denuncia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Barreiros&amp=&numero=535"
-
-  - fecha: "2011-02-04"
-    titulo: "La Fiscalía solicita investigar el patrimonio de la arquitecta municipal"
-    descripcion: "El fiscal jefe de Lugo solicita formalmente al juzgado instructor que ordene la investigación del patrimonio de la arquitecta municipal de Barreiros, Marta Geada Arca, como parte de la investigación por las irregularidades urbanísticas. La petición fiscal apunta a que la arquitecta pudo haberse beneficiado económicamente de las licencias concedidas irregularmente, aunque este extremo no llegaría a probarse en el posterior juicio oral."
-    type: "investigación"
-    urls:
-      - "https://www.elprogreso.es/articulo/noticias/la-fiscalia-investiga-el-patrimonio-de-la-arquitecta-municipal-de-barreiros/20110204230700210152.html"
-
-  - fecha: "2012-10-17"
-    titulo: "Archivo inicial de la causa"
-    descripcion: "El juzgado decreta el archivo de la causa penal contra el alcalde y los demás acusados por las licencias urbanísticas de 2006. Sin embargo, la acusación particular —la Xunta de Galicia— recurre el archivo y consigue que el caso sea reabierto. El Tribunal Superior de Justicia de Galicia señala que los permisos otorgados fueron irregulares y que causaron daños urbanísticos irreversibles en el litoral de la comarca de A Mariña."
-    type: "investigación"
-    urls:
-      - "https://www.nosdiario.gal/articulo/social/arquivan-a-causa-contra-o-alcalde-de-barreiros-por-irregularidades-en-44-licenzas-de-obra/20121017171120006483.html"
-
-  - fecha: "2015-11-01"
-    titulo: "Apertura de juicio oral; alcalde y concejales causan baja en el PP"
-    descripcion: "Al conocerse el auto de apertura de juicio oral dictado por el juzgado de Lugo, el alcalde Alfonso Fuente Parga y los concejales José Manuel Gómez Puente y Lorenzo Penabad causan baja como militantes del Partido Popular. La salida del partido se interpreta como una maniobra para eludir el código ético del PP, que impide a los imputados con juicio oral abierto concurrir como candidatos en procesos electorales. Fuente Parga, no obstante, continuó ejerciendo como alcalde del municipio."
-    type: "imputación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Barreiros&amp=&numero=535"
-
-  - fecha: "2018-11-09"
-    titulo: "Inicio del juicio oral ante el Juzgado de lo Penal nº 2 de Lugo"
-    descripcion: "Doce años después de los hechos, comienza el juicio oral contra el alcalde Alfonso Fuente Parga, los cinco concejales que integraban la junta de gobierno local en 2006 y la arquitecta municipal Marta Geada Arca. La Fiscalía solicita para cada uno de ellos dos años de prisión y diez años de inhabilitación especial para el ejercicio de cargo público por un delito de prevaricación urbanística en la concesión de 45 licencias de construcción. Las sesiones se prolongan durante noviembre y diciembre de 2018. La estrategia de la defensa del alcalde consistió en atribuir la responsabilidad a la secretaria municipal."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/galicia/politica/pp-banquillo-autorizar-viviendas-lugo_1_1859058.html"
-      - "https://www.elcorreogallego.es/galicia/ecg/culpar-secretaria-estrategia-alcalde-barreiros/idEdicion-2018-11-09/idNoticia-1147293"
-
-  - fecha: "2019-02-08"
-    titulo: "Sentencia absolutoria para todos los acusados"
-    descripcion: "El Juzgado de lo Penal número 2 de Lugo absuelve al alcalde Alfonso Fuente Parga, a los cinco concejales y a la arquitecta municipal Marta Geada Arca del delito de prevaricación urbanística. En una sentencia de 37 páginas, el juez concluye que, si bien existen 'ciertas dudas' sobre si la actuación fue 'totalmente legal', no ha quedado acreditado que las licencias estuviesen 'desprovistas de toda interpretación razonable del ordenamiento jurídico'. La absolución genera indignación entre los vecinos y grupos ecologistas, que denuncian el daño permanente causado al litoral gallego. De las 2.966 viviendas aprobadas, solo 1.329 se terminaron; 587 permanecieron inacabadas cuando las promotoras quebraron tras el estallido de la burbuja inmobiliaria."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/galicia/absuelto-prevaricacion-autorizo-viviendas-habitantes_1_1702052.html"
-      - "https://www.poderjudicial.es/cgpj/ca/Poder-Judicial/Tribunals-Superiors-de-Justicia/TSJ-Galicia/Sala-de-premsa/Hemeroteca/El-juzgado-absuelve-al-alcalde-de-Barreiros--Lugo--de-prevaricacion-por-la-concesion-de-44-licencias-urbanisticas"
-
-  - fecha: "2019-04-10"
-    titulo: "Alfonso Fuente anuncia que eliminará edificios inacabados tras la absolución"
-    descripcion: "Tras ser absuelto por el juzgado, el alcalde Alfonso Fuente Parga anuncia su intención de eliminar los numerosos edificios sin terminar que salpican el término municipal como consecuencia del boom urbanístico de 2006. El municipio presenta en ese momento un paisaje desolador: cientos de esqueletos de hormigón abandonados a lo largo de la costa lucense, testimonio del fracaso del proyecto especulativo que pretendía convertir Barreiros en el 'Sanxenxo del norte'. La oposición señala que la responsabilidad de este desastre paisajístico y ambiental recae directamente sobre el gobierno municipal que autorizó el urbanismo desaforado."
-    type: "resumen"
-    urls:
-      - "https://www.galiciapress.es/texto-diario/mostrar/1384363/alcalde-barreiros-lugo-avanza-eliminara-edificios-terminar-absuelto-urbanismo"
-      - "https://www.elprogreso.es/articulo/a-marina/alcalde-barreiros-avanza-eliminara-edificios-terminar-absolucion/201904102246411370235.html"
-
+- fecha: '2015-11-24'
+  titulo: Se comunica la apertura de juicio oral
+  descripcion: Diario de Pontevedra informa de la apertura de juicio oral contra siete personas acordada por el Juzgado de
+    Instrucción n.º 1 de Mondoñedo. El artículo distingue otra causa contra la exsecretaria municipal y atribuye a la defensa
+    el antecedente de archivo y reapertura; no se fijan aquí fechas de esos autos no obtenidos.
+  type: juicio
+  urls:
+  - https://www.diariodepontevedra.es/articulo/noticias/el-alcalde-de-barreiros-dice-que-probara-su-inocencia/20151124195149289082.html
+- fecha: '2018-11-05'
+  titulo: Primera sesión del juicio
+  descripcion: La sentencia recoge sesiones los días 5, 7, 8 y 14 de noviembre de 2018; no comenzó el 9 ni consta en ella
+    una prolongación a diciembre.
+  type: juicio
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fb201cb4cb5f1bec&encode=true&databasematch=AN
+  - https://adega.gal/web/media/documentos/Sentenza_XUIZO_PENAL_BARREIROS.pdf
+- fecha: '2019-02-08'
+  titulo: Sentencia absolutoria
+  descripcion: La sentencia 52/2019 absuelve a los siete acusados de prevaricación urbanística y declara las costas de oficio;
+    permite apelación en diez días. No es un sobreseimiento.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fb201cb4cb5f1bec&encode=true&databasematch=AN
+  - https://adega.gal/web/media/documentos/Sentenza_XUIZO_PENAL_BARREIROS.pdf
+- fecha: '2019-02-11'
+  titulo: Se notifica y difunde la absolución
+  descripcion: El CGPJ comunica el fallo y su notificación ese día; distingue la falta de prueba del delito de las dudas sobre
+    la plena legalidad urbanística.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/cgpj/ca/Poder-Judicial/Tribunals-Superiors-de-Justicia/TSJ-Galicia/Sala-de-premsa/Hemeroteca/El-juzgado-absuelve-al-alcalde-de-Barreiros--Lugo--de-prevaricacion-por-la-concesion-de-44-licencias-urbanisticas
+- fecha: '2019-07-20'
+  titulo: Se conoce la confirmación en apelación
+  descripcion: El Progreso informa de que la Sección Segunda de la Audiencia de Lugo confirmó la absolución frente a los recursos
+    de Fiscalía y Adega, con una discrepancia entre magistrados. El medio califica el resultado de firme; es fecha de publicación,
+    no fecha verificada de la sentencia de apelación.
+  type: recurso
+  urls:
+  - https://www.elprogreso.es/articulo/a-marina/audiencia-provincial-dictamino-absolucion-exregidor-barreiros/201907201326591388192.amp.html
 ---
+
+# Licencias urbanísticas y absolución penal
+
+El procedimiento abreviado 252/2017 del Juzgado de lo Penal n.º 2 de Lugo procedía de la causa 2/2010 del Juzgado de Instrucción n.º 1 de Mondoñedo. La acusación pública fue ejercida por Fiscalía y la particular por Adega, no por la Xunta. La [sentencia 52/2019](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fb201cb4cb5f1bec&encode=true&databasematch=AN), fechada el 8 de febrero, absolvió a las siete personas acusadas. Sus nombres constan directamente en la [copia nominal difundida por Adega](https://adega.gal/web/media/documentos/Sentenza_XUIZO_PENAL_BARREIROS.pdf); no se han reconstruido mediante los seudónimos de la versión CENDOJ.
+
+La acusación fiscal no pidió la misma pena para todos. En las conclusiones recogidas en las páginas 1–2 de la copia nominal, solicitó dos años de prisión y diez de inhabilitación para Fuente Parga, Gómez Puente, Menéndez López y Rodríguez Díaz; para la arquitecta solicitó dos años de prisión y diez de inhabilitación profesional. Para Penabad Bolaño y Rojo Blanco pidió seis meses de prisión y siete años de inhabilitación. Son peticiones de acusación, no penas impuestas. Adega formuló su propia acusación sobre 45 delitos, con distintos alcances individuales.
+
+El [comunicado judicial de 11 de febrero](https://www.poderjudicial.es/cgpj/ca/Poder-Judicial/Tribunals-Superiors-de-Justicia/TSJ-Galicia/Sala-de-premsa/Hemeroteca/El-juzgado-absuelve-al-alcalde-de-Barreiros--Lugo--de-prevaricacion-por-la-concesion-de-44-licencias-urbanisticas) describe el proceso por 44 licencias de 2006 para casi 3.500 viviendas. Las cifras de viviendas y licencias utilizadas en las distintas informaciones no son una cuantificación de daño económico. La sentencia distingue los reproches administrativos de los requisitos del delito y no considera demostrada la actuación consciente de su injusticia. Su absolución no permite presentar como definitivamente ilegales todas las licencias, ni afirmar que todas fueran legalizadas.
+
+[El Progreso, el 20 de julio de 2019](https://www.elprogreso.es/articulo/a-marina/audiencia-provincial-dictamino-absolucion-exregidor-barreiros/201907201326591388192.amp.html), informó de la confirmación de la absolución en apelación tras los recursos de Fiscalía y Adega, calificándola de firme y señalando una discrepancia entre magistrados. Falta cotejar la resolución original de la Audiencia, su fecha exacta y el contenido de esa discrepancia. Por ello la firmeza se atribuye expresamente a esa fuente periodística y no se extrae de la fórmula condicional de la sentencia inicial.
+
+Otros procedimientos del urbanismo de Barreiros, incluidas las actuaciones contra la exsecretaria municipal o los litigios sobre normas y licencias, tienen sujetos y objetos propios. La [información de noviembre de 2015](https://www.diariodepontevedra.es/articulo/noticias/el-alcalde-de-barreiros-dice-que-probara-su-inocencia/20151124195149289082.html) ya los distinguía y recogía que la defensa solicitaba acumulación. Sus resultados no se trasladan a esta absolución ni viceversa. No se conserva un coste cero: la ausencia de una cuantificación judicial revisada no equivale a demostrar ausencia de perjuicios.
