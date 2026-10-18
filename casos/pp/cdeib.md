@@ -1,149 +1,117 @@
 ---
-nombre: "CDEIB"
+nombre: CDEIB
 partido: PP
-completado: true
+completado: false
 año: 2008
-fechaInicio: 2003-01-01
-fechaFin: "2014-10-20"
-estado: "cerrado con condenas"
-descripcion: |
-  El caso CDEIB, también conocido como «caso Scala» o «caso Cola Cao», destapó una trama sistemática de corrupción orquestada por altos cargos del Govern balear del PP durante la legislatura de Jaume Matas (2003-2007). El conseller de Comerç, Indústria i Energia, Josep Juan Cardona, lideró una red de desvío de fondos públicos a través del Consorcio para el Desarrollo Económico de las Islas Baleares (CDEIB), organismo dependiente de su conselleria. La trama causó un perjuicio al erario público de más de 8 millones de euros y se convirtió en uno de los escándalos de corrupción política más graves de la historia de las Islas Baleares.
-
-  Los implicados operaban mediante la creación de empresas pantalla dirigidas por testaferros a las que se adjudicaban contratos públicos de forma irregular, la utilización y control de empresas existentes, la exigencia sistemática de comisiones a los proveedores del CDEIB y el uso irregular de fondos en la organización de ferias. La exgerente del consorcio, Antònia Ordinas, llevaba una contabilidad paralela secreta y ocultó unos 200.000 euros en efectivo junto con un cuaderno manuscrito con los nombres de los pagadores de comisiones, enterrado en una lata de Cola Cao en el jardín de su domicilio en Pórtol. Este singular hallazgo, que dio nombre popular al caso, se produjo en octubre de 2008 durante los registros de la operación policial «Scala» coordinada por la Fiscalía Anticorrupción.
-
-  La Audiencia Provincial de Palma condenó en julio de 2013 a Josep Juan Cardona a 16 años de prisión, la pena más elevada jamás impuesta a un político en Baleares y una de las más altas por corrupción en España. El Tribunal Supremo confirmó íntegramente las condenas en octubre de 2014. El caso tuvo una derivada adicional en 2024, cuando varios implicados se sentaron de nuevo en el banquillo por delito fiscal relacionado con el cruce de facturas falsas entre las empresas de la trama.
-
-resumen: "Trama de desvío de fondos del consorcio económico balear CDEIB durante el gobierno del PP de Matas."
-coste: 8270000
-lugar: "Islas Baleares"
+estado: condenas de causa principal; derivada fiscal con prescripción comunicada en 2024
+descripcion: El caso Scala investigó contratos amañados, comisiones y desvíos de fondos del CDEIB durante la legislatura
+  2003-2007. La Audiencia de Palma dictó la sentencia 73/2013 el 26 de julio, con condena de dieciséis años de prisión
+  al exconseller Josep Juan Cardona. Su recurso fue desestimado por la STS 394/2014, de 7 de mayo. En noviembre de 2023 se comunicó su libertad
+  condicional, sin acreditar la extinción de la pena ni el pago íntegro de responsabilidades. La derivada fiscal
+  que llegó a juicio en 2024 terminó por prescripción, según noticia de noviembre de ese año, y no debe presentarse
+  como investigación aún sin desenlace. Persisten dudas sobre agregados económicos, algunas penas individuales y
+  ejecución.
+resumen: 'Desvíos del CDEIB: condena de Cardona mantenida en casación en 2014 y derivada fiscal prescrita en 2024
+  según la prensa.'
+lugar: Islas Baleares
 tribunal:
-  - "Audiencia Provincial de Palma - Sección Primera - Fiscalía Anticorrupción"
-  - "Tribunal Supremo - Sala de lo Penal"
-numeroSentencia: "73/2013"
+- Audiencia Provincial de Palma, Sección Primera
+- Tribunal Supremo, Sala de lo Penal
+- Juzgado de Instrucción número 4 de Palma (causa principal)
+- Juzgado de lo Penal número 7 de Palma (derivada fiscal)
+numeroSentencia: SAP IB 73/2013, de 26 de julio; STS 394/2014, de 7 de mayo (ECLI:ES:TS:2014:2019)
 implicados:
-  - nombre: "Josep Juan Cardona"
-    cargo: "Conseller de Comerç, Indústria i Energia del Govern Balear (2003-2007)"
-    rol: "Líder de la trama; condenado a 16 años de prisión"
-
-  - nombre: "Kurt Viaene"
-    cargo: "Director General de Promoció Industrial del Govern Balear"
-    rol: "Partícipe en la red de contratos fraudulentos; condenado a 5 años y 5 meses"
-
-  - nombre: "Antònia Ordinas"
-    cargo: "Gerente del CDEIB"
-    rol: "Gestora de la contabilidad opaca; condenada a 4 años y 2 meses"
-
-  - nombre: "Felipe Ferré"
-    cargo: "Empresario, exconcejal del PP en Lloseta y primo político de Jaume Matas"
-    rol: "Proveedor y receptor de contratos irregulares; condenado a 3 años y 9 meses"
-
-  - nombre: "Isabel Rosselló"
-    cargo: "Pareja sentimental de Antònia Ordinas (soprano)"
-    rol: "Investigada por delito fiscal derivado del caso en 2024"
-
-  - nombre: "Joan Rosselló"
-    cargo: "Empresario vinculado a la trama"
-    rol: "Investigado por delito fiscal derivado del caso en 2024"
-
-  - nombre: "Jaume Matas"
-    cargo: "President del Govern Balear (2003-2007)"
-    rol: "Señalado como protector de Ordinas; no fue imputado en este caso"
-
+- nombre: Josep Juan Cardona
+  cargo: Conseller de Comerç, Indústria i Energia del Govern Balear (2003-2007)
+  rol: Condenado a dieciséis años de prisión en 2013; recurso de casación desestimado en mayo de 2014.
+- nombre: Kurt Viaene
+  cargo: Director General de Promoció Industrial del Govern Balear
+  rol: Condenado en la causa principal a cinco años y cinco meses, según nota oficial y prensa.
+- nombre: Antònia Ordinas
+  cargo: Gerente del CDEIB
+  rol: Condenada en la causa principal; las fuentes difieren sobre el agregado de prisión, pendiente de cotejo nominal
+    y ejecución.
+- nombre: Felipe Ferré
+  cargo: Empresario, exconcejal del PP en Lloseta y primo político de Jaume Matas
+  rol: Condenado en la causa principal; agregado de pena pendiente de cotejo. En la derivada fiscal de 2024 se comunicó
+    extinción de responsabilidad por prescripción.
+- nombre: Isabel Rosselló
+  cargo: Pareja sentimental de Antònia Ordinas (soprano)
+  rol: Condenada a dieciocho meses de prisión en la causa principal, según RTVE en 2013. Acusada en la derivada
+    fiscal de 2024, con prescripción comunicada en noviembre; firmeza de esta última resolución no verificada.
+- nombre: Joan Rosselló
+  cargo: Empresario vinculado a la trama
+  rol: Acusado en la derivada fiscal de 2024; la noticia de noviembre comunica prescripción y extinción
+    de responsabilidad penal, sin firmeza verificada.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "cohecho"
-  - "fraude"
-  - "blanqueo de capitales"
-  - "falsedad documental"
-  - "asociación ilícita"
-
-impactoSocial: "El caso supuso la condena más alta jamás impuesta a un político balear y evidenció el saqueo sistemático de fondos públicos durante el gobierno de Jaume Matas. La imagen del dinero enterrado en una lata de Cola Cao se convirtió en símbolo de la corrupción del PP en Baleares."
-
-documentos: []
-
+- corrupción
+- malversación
+- prevaricación
+- cohecho
+- fraude
+- blanqueo de capitales
+- falsedad documental
+- asociación ilícita
+documentos:
+- fecha: '2013-07-26'
+  titulo: Sentencia 73/2013 de la Audiencia Provincial de Palma, Sección Primera
+  filetype: PDF
+  paginas: 351
+  nombre_fichero: https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia%20Scala.pdf
+- fecha: '2014-05-07'
+  titulo: STS 394/2014, recurso 11103/2013
+  filetype: PDF
+  paginas: 169
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1a65443284e49912&encode=true&databasematch=AN
 cronologia:
-  - fecha: 2003-01-01
-    titulo: "Inicio de la trama de corrupción en el CDEIB"
-    descripcion: "Con el inicio de la segunda legislatura de Jaume Matas como president del Govern Balear, Josep Juan Cardona asume la conselleria de Comerç, Indústria i Energia y con ella el control del CDEIB. A partir de este momento se orquesta una red de empresas pantalla, adjudicaciones irregulares y cobro de comisiones que esquilmará el consorcio durante cuatro años."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Scala/Cola+Cao&numero=89"
-
-  - fecha: 2007-05-01
-    titulo: "Fin del mandato de Matas; la trama queda al descubierto"
-    descripcion: "Tras la derrota electoral del PP en las autonómicas de 2007, Jaume Matas abandona el gobierno y los nuevos responsables comienzan a detectar graves irregularidades contables en el CDEIB. Antònia Ordinas, exgerente del consorcio, decide colaborar con la Fiscalía Anticorrupción y revela la existencia de la red."
-    type: "investigación"
-    urls:
-      - "http://www.losgenoveses.net/Los%20Asuntillos/CasoBaleares/casocdeib.htm"
-
-  - fecha: 2008-10-01
-    titulo: "Operación Scala: registros y hallazgo de la lata de Cola Cao"
-    descripcion: "La Fiscalía Anticorrupción coordina la operación policial «Scala». Durante los registros en el domicilio de Antònia Ordinas en Pórtol se encuentra una lata de Cola Cao enterrada en el jardín con aproximadamente 200.000 euros en efectivo y un cuaderno manuscrito con los nombres de los empresarios que pagaron comisiones a cambio de contratos. El hallazgo es la prueba clave del caso y le da su nombre popular."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Scala/Cola+Cao&numero=89"
-      - "http://observatoriodelacorrupcion.blogspot.com/2008/12/caso-cdeib.html"
-
-  - fecha: 2008-12-01
-    titulo: "El juzgado de Palma abre diligencias por el caso CDEIB"
-    descripcion: "La jueza de Primera Instancia e Instrucción de Palma, Piedad Marín, abre formalmente las diligencias previas contra los responsables del CDEIB tras la denuncia de la Fiscalía Anticorrupción. Se acuerda el ingreso provisional en prisión de Antònia Ordinas y Kurt Viaene."
-    type: "investigación"
-    urls:
-      - "http://observatoriodelacorrupcion.blogspot.com/2008/12/caso-cdeib.html"
-
-  - fecha: 2010-11-27
-    titulo: "La Fiscalía Anticorrupción solicita entre 15 y 20 años para los principales acusados"
-    descripcion: "La Fiscalía Anticorrupción presenta su escrito de acusación y solicita penas de entre 15 y 20 años de prisión para Josep Juan Cardona, Antònia Ordinas y Kurt Viaene por los delitos de asociación ilícita, malversación continuada, fraude a la administración, prevaricación, cohecho, falsedad documental y otros cargos."
-    type: "denuncia"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/2010/11/27/26397/el-fiscal-pedira-entre-15-y-20-anos-de-prision-para-cardona-ordinas-y-viaene.html"
-
-  - fecha: 2011-02-23
-    titulo: "La jueza instructora afirma que Cardona «no encontró obstáculo en su camino»"
-    descripcion: "La jueza instructora del caso Scala concluye la fase de instrucción y eleva el caso a juicio oral. En su auto señala que Cardona actuó con total impunidad dentro de su conselleria y que ningún funcionario se opuso a las prácticas irregulares, poniendo de manifiesto la debilidad de los controles internos de la administración balear."
-    type: "investigación"
-    urls:
-      - "https://www.periodicodeibiza.es/pitiusas/ibiza/2011/02/23/33383/la-jueza-del-caso-scala-afirma-que-cardona-no-encontro-obstaculo-en-su-camino.html"
-
-  - fecha: 2013-04-06
-    titulo: "Inicio del juicio oral ante la Audiencia Provincial de Palma"
-    descripcion: "Arranca el juicio oral ante la Sección Primera de la Audiencia Provincial de Palma. El exconseller Josep Juan Cardona se enfrenta a una petición de pena de hasta 21 años de prisión por parte de la Fiscalía Anticorrupción. El juicio se celebra con sesiones intensivas de mañana y tarde durante varios meses."
-    type: "declaración"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/2013/04/06/96121/todos-contra-cardona-1.html"
-      - "https://www.noudiari.es/local-ibiza/arranca-el-juicio-del-caso-scala-en-el-que-el-exconseller-jose-juan-cardona-se-enfrenta-a-una-pena-de-carcel-de-21-anos/"
-
-  - fecha: 2013-07-26
-    titulo: "Sentencia de la Audiencia Provincial: 16 años de prisión para Cardona"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Palma dicta la sentencia número 73/2013 y condena a Josep Juan Cardona a 16 años de prisión por los delitos de asociación ilícita, cohecho, falsedad en documento mercantil, prevaricación, fraude a la administración, falsedad en documento oficial y malversación continuada. También condena a Kurt Viaene a 5 años y 5 meses, a Antònia Ordinas a 4 años y 2 meses, y a Felipe Ferré a 3 años y 9 meses. Es la condena más alta impuesta a un político en Baleares."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder_Judicial/Sala_de_Prensa/Notas_de_prensa/Sentencia__Caso_Scala___la_Audiencia_de_Palma_condena_por_corrupcion_politica_a_un_ex_conseller_y_altos_cargos_de_Baleares_que_malversaron_8_millones"
-      - "https://www.publico.es/politica/audiencia-palma-condena-exconseller-matas.html"
-      - "https://www.libertaddigital.com/espana/2013-07-29/el-exconsejero-balear-cardona-condenado-a-16-anos-de-prision-1276496267/"
-
-  - fecha: 2014-04-30
-    titulo: "Vista oral ante el Tribunal Supremo"
-    descripcion: "El Tribunal Supremo celebra la vista oral para revisar las condenas del caso Scala. La defensa de Cardona solicita su absolución, alegando que las declaraciones de Ordinas estaban motivadas por animadversión personal. La Fiscalía mantiene las penas solicitadas."
-    type: "declaración"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/2014/04/30/123090/tribunal-supremo-revisa-hoy-condenas-del-caso-scala.html"
-
-  - fecha: 2014-10-20
-    titulo: "El Tribunal Supremo confirma íntegramente las condenas"
-    descripcion: "La Sala de lo Penal del Tribunal Supremo ratifica en su totalidad las condenas impuestas por la Audiencia Provincial de Palma. Cardona deberá cumplir los 16 años de prisión. La sentencia pone fin al proceso principal del caso CDEIB y consagra la condena más severa impuesta en Baleares por corrupción política."
-    type: "sentencia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Scala/Cola+Cao&numero=89"
-      - "https://vlex.es/vid/543432894"
-
-  - fecha: 2024-10-22
-    titulo: "Nuevo juicio por delito fiscal: derivada del caso Scala"
-    descripcion: "Dieciocho años después de los hechos, tres de los implicados originales del caso Scala se sientan de nuevo en el banquillo: Felipe Ferré, la soprano Isabel Rosselló (pareja de Ordinas) y el empresario Joan Rosselló. Se les acusa de delito fiscal por el cruce de facturas falsas entre empresas de la trama en 2006 con el fin de eludir el pago de impuestos."
-    type: "declaración"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/2024/10/22/2263343/caso-scala-juicio-por-delito-fiscal.html"
-      - "https://www.ultimahora.es/noticias/local/2024/04/11/2141525/caso-scala-delito-fiscal-anos-despues.html"
+- fecha: '2013-07-26'
+  titulo: Sentencia de la causa principal
+  descripcion: Fecha judicial verificada en el encabezamiento del PDF 73/2013, rollo 107/2011, procedente de las
+    diligencias 2907/2008. Incluye condenas, absoluciones y responsabilidades económicas individualizadas.
+  urls:
+  - https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia%20Scala.pdf
+  type: sentencia
+- fecha: '2013-08-09'
+  titulo: El CGPJ publica la nota y copia judicial
+  descripcion: La nota informa del resultado y enlaza el PDF. Es publicación posterior a la sentencia; no se atribuye
+    esta fecha al fallo.
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder_Judicial/Sala_de_Prensa/Notas_de_prensa/Sentencia__Caso_Scala___la_Audiencia_de_Palma_condena_por_corrupcion_politica_a_un_ex_conseller_y_altos_cargos_de_Baleares_que_malversaron_8_millones
+  type: documento
+- fecha: '2014-05-07'
+  titulo: Desestimación del recurso de Cardona
+  descripcion: La STS 394/2014, recurso 11103/2013, desestima el recurso del condenado y le impone las costas. No
+    confirma recursos de personas que no recurrieron. La fecha de octubre de 2014 de la versión anterior no corresponde
+    a esta casación.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1a65443284e49912&encode=true&databasematch=AN
+  type: sentencia
+- fecha: '2023-11-29'
+  titulo: Se comunica la libertad condicional de Cardona
+  descripcion: Europa Press y Radio Ibiza informan de la concesión por el Juzgado de Vigilancia Penitenciaria 1
+    de Mallorca, tras estimar reforma contra el auto de 18 de julio de 2023. La fecha es la de publicación, no la
+    del auto estimatorio. Se mantienen condiciones de seguimiento y obligaciones económicas; no acredita extinción
+    de la condena ni liquidación íntegra de la responsabilidad civil.
+  urls:
+  - https://www.europapress.es/illes-balears/noticia-libertad-provisional-exconseller-jose-juan-cardona-condenado-caso-scala-20231129144731.html
+  - https://cadenaser.com/baleares/2023/11/29/jose-juan-cardona-expresidente-del-pp-pitiuso-en-libertad-condicional-radio-ibiza/
+  type: auto
+- fecha: '2024-11-14'
+  titulo: Se publica la prescripción de la derivada fiscal
+  descripcion: Última Hora informa de una resolución del Penal 7 de Palma que extingue la responsabilidad de Isabel
+    Rosselló, Felip Ferré y Joan Rosselló por prescripción. La noticia emplea las expresiones auto y absolución;
+    sin original no se fija su fecha judicial ni firmeza.
+  urls:
+  - https://www.ultimahora.es/noticias/local/2024/11/14/2275279/caso-scala-archivado-delito-fiscal-por-prescripcion.html
+  type: auto
 ---
+
+La causa principal y la derivada fiscal tienen resultados distintos. La resolución del Supremo examinada corresponde al recurso de Cardona contra la sentencia de 2013. La noticia de noviembre de 2024 relata la prescripción del supuesto delito fiscal; no borra las condenas anteriores ni permite trasladar a aquella pieza la responsabilidad de personas no acusadas en ella.
+
+Se retira el coste de 8.270.000 euros. La nota del CGPJ habla de ocho millones malversados, indemnizaciones y decomisos con bases diferentes; la prensa ofrece otros agregados. Sin revisar la totalidad de partidas, solidaridades, devoluciones y liquidaciones no se fija un total de daño. Los 10.585 euros atribuidos al PP en instancia corresponden a responsabilidad civil a título lucrativo, según la nota judicial; no constituyen una condena penal al partido.
+
+Las penas resumidas de Ordinas y Ferré requieren cautela. La nota oficial da cuatro años y dos meses y tres años y nueve meses; RTVE recoge tres años y ocho meses y tres años y tres meses. El fallo PDF individualiza prisión, multas y responsabilidades subsidiarias, sin autorizar una conciliación automática de esos agregados ni una identificación por pseudónimos. Se conserva su condición nominal de condenados y se deja pendiente el agregado.
+
+Se retiran los superlativos históricos, la asociación de Matas como implicado sin imputación acreditada y las fechas arbitrarias sobre inicio, descubrimiento o colaboración. El relato de la lata y su contenido tampoco se utiliza para fijar una cifra de daño.
+
+Revisión hasta el 17 de octubre de 2026: PDF oficial de 351 páginas verificado; se leyeron encabezamiento y pasajes iniciales del fallo, no toda la sentencia ni sus anexos gráficos. El coordinador recuperó el PDF oficial del Supremo, de 169 páginas, y leyó encabezamiento y fallo (páginas 1 y 169), sin revisar íntegramente los fundamentos. La vinculación nominal de Cardona procede también de la información judicial y periodística; no se deducen identidades de los pseudónimos del PDF. La libertad condicional comunicada en noviembre de 2023 se incorpora como noticia de ejecución, sin disponer del auto original ni verificar la liquidación de la condena o el pago íntegro de responsabilidades. Falta el original de la resolución fiscal de 2024, sus recursos y firmeza, y la documentación de ejecución de las condenas y responsabilidades civiles.
