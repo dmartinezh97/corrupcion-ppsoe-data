@@ -1,111 +1,118 @@
 ---
 nombre: "Caso Idelpa"
 partido: PSOE
-completado: true
+completado: false
 año: 2012
-fechaInicio: "2010-12-31"
-fechaFin: "2024-07-17"
-estado: "cerrado con condenas"
+estado: "Concurso culpable y causas penales con resultados distintos; firmeza y ejecución pendientes de cotejo"
 descripcion: |
-  El caso Idelpa afecta a la empresa municipal Iniciativas de Desarrollo de los Palacios S.L. (IDELPA), constituida en 1993 por el Ayuntamiento de Los Palacios y Villafranca (Sevilla), gobernado por el PSOE hasta 2011, junto con Prodetur, la sociedad provincial de turismo y desarrollo económico de la Diputación de Sevilla. IDELPA tenía como objeto la construcción de vivienda protegida y el impulso del desarrollo local, pero sus gestores socialistas la llevaron a la insolvencia mediante una gestión irregular que los tribunales mercantiles calificaron expresamente como culpable. La empresa entró en concurso de acreedores en 2012 dejando sin terminar una promoción de 52 viviendas cuyos compradores nunca llegaron a recibir la Licencia de Primera Ocupación.
+  La gestión de Iniciativas de Desarrollo de Los Palacios (Idelpa), sociedad participada por el Ayuntamiento de Los Palacios y Villafranca y Prodetur, dio lugar a procedimientos distintos. Según Europa Press y la información municipal de mayo de 2018, el Juzgado de lo Mercantil número 2 de Sevilla calificó como culpable el concurso de la empresa e impuso inhabilitaciones para administrar bienes ajenos y una obligación de cubrir 80.000 euros de déficit concursal. Esa calificación mercantil no equivale por sí sola a una condena penal.
 
-  El Juzgado de lo Mercantil número 2 de Sevilla declaró culpable el concurso de acreedores de IDELPA mediante sentencia de 9 de mayo de 2018 (procedimiento 179/2012). El tribunal acreditó que los administradores conocían la situación de insolvencia de la empresa al menos desde finales de 2010, pero no solicitaron la declaración de concurso ni presentaron las cuentas anuales de 2010 en plazo. Además, durante mayo y junio de 2011, permitieron que la situación de insolvencia se agravara en unos 80.000 euros mediante un aumento injustificado de la plantilla de trabajadores. La irregularidad más grave detectada fue la omisión en el pasivo contable de deudas superiores a dos millones de euros, lo que distorsionó deliberadamente la imagen financiera de la sociedad. En paralelo, los exconcejales Rosario Gavira y Miguel Troncoso, junto al administrador Rafael Jesús Cortés Corrales, fueron condenados penalmente por proyectos falsos de viviendas tramitados a través de la empresa RODINA GESTIÓN.
+  En la causa penal Rodina, la prensa documenta una conformidad de marzo de 2018 por malversación y falsedad, con penas individualizadas para Miguel Troncoso, Rosario Gavira y Rafael Cortés e indemnización solidaria de 129.154 euros. En septiembre de 2021, otra sentencia condenó a Troncoso y Cortés por prevaricación en la adjudicación de los proyectos. En un asunto diferente relativo a una vivienda de Chapatales, Troncoso fue absuelto en 2019 de apropiación indebida y estafa.
 
-  El exalcalde Antonio Maestre y los concejales socialistas Rosario Gavira y Miguel Troncoso fueron condenados a cinco años de inhabilitación y al pago solidario de 80.000 euros a IDELPA. En el ámbito penal, Gavira y Troncoso recibieron penas de prisión de entre uno y dos años junto a tres años de inhabilitación por los proyectos falsos. Adicionalmente, en el marco de la macrocausa de los ERE de Andalucía, la Audiencia Provincial de Sevilla condenó en julio de 2024 al exalcalde Maestre a 14 meses de cárcel y casi cinco años de inhabilitación como cooperador necesario en delitos de prevaricación y malversación por las ayudas de 750.000 euros concedidas por la Junta de Andalucía para un centro ecuestre que nunca llegó a construirse.
-
-resumen: "Gestión culpable de empresa municipal socialista en Los Palacios (Sevilla) que quebró ocultando más de dos millones en deudas y dejó 52 viviendas sin terminar"
-coste: 2080000
+  No se han recuperado los originales de esas sentencias ni verificado sus recursos, firmeza o ejecución hasta el 17 de octubre de 2026. La evolución de las viviendas tampoco se limita al abandono inicial: la Diputación anunció en septiembre de 2026 la licitación para terminar 50 viviendas en Los Chapatales. El presupuesto de esa obra, los pasivos de Idelpa y las indemnizaciones judiciales son conceptos distintos, sin un daño conjunto cuantificado en esta revisión.
+resumen: "Procedimientos mercantiles y penales sobre Idelpa: concurso culpable, condenas en Rodina y una absolución de Troncoso en otra causa de vivienda. Faltan originales judiciales y comprobación de firmeza y ejecución."
 lugar: "Los Palacios y Villafranca, Sevilla, Andalucía"
 tribunal:
-  - "Juzgado de lo Mercantil número 2 de Sevilla - Procedimiento 179/2012"
-  - "Audiencia Provincial de Sevilla - Sección Primera (Caso ERE)"
-numeroSentencia: "179/2012 (Mercantil) - Sentencia 17 julio 2024 (ERE)"
+  - "Juzgado de lo Mercantil número 2 de Sevilla, procedimiento 179/2012"
+  - "Audiencia Provincial de Sevilla"
+  - "Juzgado de lo Penal número 12 de Sevilla"
 implicados:
-  - nombre: "Antonio Maestre Acosta"
-    cargo: "Alcalde de Los Palacios y Villafranca (2004-2011), PSOE"
-    rol: "Condenado a 5 años inhabilitación (IDELPA) y 14 meses cárcel (ERE)"
-
-  - nombre: "Rosario Gavira Maestre"
-    cargo: "Concejala y administradora delegada de IDELPA"
-    rol: "Condenada a 5 años inhabilitación y prisión por proyectos falsos"
-
+  - nombre: "Antonio Maestre"
+    cargo: "Exalcalde de Los Palacios y Villafranca (PSOE) y antiguo administrador de Idelpa"
+    rol: "Afectado por la calificación culpable del concurso: cinco años de inhabilitación mercantil y pago de déficit concursal según la información de 2018; no se le atribuyen las condenas penales de Rodina de los otros acusados"
+  - nombre: "Rosario Gavira"
+    cargo: "Exconcejala socialista y antigua consejera delegada de Idelpa"
+    rol: "Cinco años de inhabilitación mercantil según la información de 2018; condenada en Rodina a dieciocho meses de prisión y tres años de inhabilitación por malversación, según la prensa de la conformidad"
   - nombre: "Miguel Troncoso Rincón"
-    cargo: "Concejal y administrador de IDELPA"
-    rol: "Condenado a 5 años inhabilitación y prisión por proyectos falsos"
-
-  - nombre: "Enrique González Molina"
-    cargo: "Consejero del Consejo de Administración de IDELPA"
-    rol: "Condenado a 2 años de inhabilitación por concurso culpable"
-
-  - nombre: "José Díaz Ulloa"
-    cargo: "Consejero del Consejo de Administración de IDELPA"
-    rol: "Condenado a 2 años de inhabilitación por concurso culpable"
-
+    cargo: "Exconcejal socialista y antiguo consejero delegado de Idelpa"
+    rol: "Calificación concursal culpable y condenas penales de Rodina de 2018 y 2021, según las fuentes citadas; absuelto en 2019 en otra causa sobre cantidades anticipadas para vivienda. Firmeza y ejecución no cotejadas"
+  - nombre: "Enrique González"
+    cargo: "Antiguo miembro del consejo de administración de Idelpa"
+    rol: "Dos años de inhabilitación mercantil según la nota municipal de mayo de 2018; no se le atribuye condena penal por ese pronunciamiento"
+  - nombre: "José Díaz"
+    cargo: "Antiguo miembro del consejo de administración de Idelpa"
+    rol: "Dos años de inhabilitación mercantil según la nota municipal de mayo de 2018; no se le atribuye condena penal por ese pronunciamiento"
   - nombre: "Rafael Jesús Cortés Corrales"
-    cargo: "Administrador de RODINA GESTIÓN S.L."
-    rol: "Condenado a prisión por proyectos falsos de viviendas"
-
+    cargo: "Arquitecto y administrador de Rodina Gestión"
+    rol: "Condenado en Rodina por malversación y falsedad en 2018 y por prevaricación en 2021, según la cobertura judicial; no se presume afiliación política ni cumplimiento de las penas"
 tags:
-  - "corrupción"
+  - "concurso culpable"
   - "malversación"
   - "prevaricación"
-  - "gestión culpable"
-  - "irregularidades contables"
   - "empresa pública"
   - "vivienda pública"
-
-impactoSocial: "El caso IDELPA dejó a decenas de familias de Los Palacios y Villafranca sin las viviendas protegidas que habían adquirido, sin Licencia de Primera Ocupación y sin posibilidad de recuperar su inversión al estar la empresa en concurso de acreedores. Constituyó uno de los múltiples escándalos de gestión socialista en Andalucía que contribuyeron a la pérdida del gobierno de la Junta en 2012 tras 37 años consecutivos del PSOE."
-
-documentos: []
-
+impactoSocial: "La insolvencia afectó a acreedores y promociones de vivienda pública. En 2026 las administraciones documentan nuevas actuaciones para finalizar viviendas en Chapatales; no se afirma que todas las familias perdieran definitivamente su inversión o que nunca fuera posible terminar la promoción."
+documentos:
+  - fecha: "2026-01-29"
+    titulo: "Anuncio BOP-SE-2026-019022: inicio del expediente de cesión para finalizar 50 viviendas en Chapatales (acuerdo de 22 de enero)"
+    filetype: "pdf"
+    paginas: 2
+    nombre_fichero: "https://admbop.dipusevilla.es/export/sites/bop/.galleries/Documentos-Anuncios-en-PDF/firmado-1769644880087-final-b3e4c09.pdf"
 cronologia:
-  - fecha: "1993-01-01"
-    titulo: "Constitución de IDELPA"
-    descripcion: "El Ayuntamiento de Los Palacios y Villafranca, gobernado por el PSOE, constituye IDELPA (Iniciativas de Desarrollo de los Palacios S.L.) junto con Prodetur, la empresa provincial de la Diputación de Sevilla. La empresa tiene como objeto el desarrollo local, la promoción de vivienda protegida y el fomento del empleo en el municipio sevillano."
-    type: "resumen"
-    urls: []
-
-  - fecha: "2010-12-31"
-    titulo: "IDELPA ya es insolvente según la sentencia"
-    descripcion: "El Juzgado de lo Mercantil de Sevilla acreditó posteriormente que IDELPA se encontraba en situación de insolvencia al menos desde finales del ejercicio 2010, con créditos impagados desde 2009. Los gestores socialistas conocían esta situación pero no solicitaron la declaración de concurso ni presentaron las cuentas anuales de 2010 dentro del plazo legal, incumpliendo sus obligaciones mercantiles."
-    type: "investigación"
+  - fecha: "2012-02-17"
+    titulo: "Declaración del concurso, según la reconstrucción de Europa Press"
+    descripcion: "La información de mayo de 2018 sitúa en este día la declaración del concurso solicitado por los nuevos administradores de Idelpa. No se ha recuperado el auto original."
+    type: "investigacion"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Idelpa&numero=445"
-
-  - fecha: "2011-05-22"
-    titulo: "PSOE pierde la alcaldía de Los Palacios tras las elecciones municipales"
-    descripcion: "En las elecciones municipales del 22 de mayo de 2011, el PSOE pierde la alcaldía de Los Palacios y Villafranca después de gobernar el municipio durante décadas. El cambio de gobierno local se produce mientras IDELPA se encuentra ya en situación de insolvencia. Los gestores salientes agudizan la situación financiera de la empresa durante los últimos meses de mandato."
-    type: "resumen"
-    urls: []
-
-  - fecha: "2011-06-30"
-    titulo: "Agravamiento de la insolvencia y aumento injustificado de plantilla"
-    descripcion: "Durante mayo y junio de 2011, los gestores de IDELPA agravaron deliberadamente la situación de insolvencia de la empresa en aproximadamente 80.000 euros mediante un aumento injustificado de la plantilla de trabajadores. Las cuentas de la empresa ocultaban en el pasivo deudas superiores a dos millones de euros que distorsionaban artificialmente la imagen financiera de la sociedad."
-    type: "investigación"
+      - "https://www.europapress.es/andalucia/sevilla-00357/noticia-condenado-exalcalde-socialista-palacios-sevilla-antonio-maestre-concurso-idelpa-20180515164928.html"
+  - fecha: "2012-09-25"
+    titulo: "Se publica la confirmación de un archivo respecto de Troncoso"
+    descripcion: "Europa Press informa de un auto de la Audiencia fechado el 14 de septiembre que confirmó el sobreseimiento provisional de unas diligencias iniciadas por denuncia del PP. No se identifica ese archivo con el cierre de todas las causas posteriores sobre Idelpa. La fecha de esta entrada es la de publicación."
+    type: "recurso"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Idelpa&numero=445"
-
-  - fecha: "2012-01-01"
-    titulo: "IDELPA entra en concurso de acreedores"
-    descripcion: "IDELPA es declarada en concurso de acreedores, iniciándose el procedimiento 179/2012 ante el Juzgado de lo Mercantil número 2 de Sevilla. La empresa tiene pendiente de entregar una promoción de 52 viviendas de protección oficial en Los Palacios y Villafranca cuyos compradores adquirieron con anterioridad. Las viviendas no llegan a terminarse y nunca obtienen la Licencia de Primera Ocupación, dejando a decenas de familias sin su inversión."
-    type: "investigación"
+      - "https://www.europapress.es/andalucia/sevilla-00357/noticia-audiencia-archiva-definitivamente-denuncia-pp-gestion-idelpa-20120925161934.html"
+  - fecha: "2018-03-08"
+    titulo: "Conformidad penal en el caso Rodina"
+    descripcion: "Diario de Sevilla atribuye a una sentencia de este día dieciocho meses de prisión por malversación para Gavira, Troncoso y Cortés, y otros tres meses por falsedad para los dos últimos. Informa de una indemnización conjunta y solidaria de 129.154 euros a Idelpa. Fecha atribuida al fallo por la noticia; original no recuperado."
+    type: "sentencia"
+    relevancia: "alta"
     urls:
-      - "https://www.eldefensordetuvivienda.com/solucion-para-los-afectados-de-idelpa-en-los-palacios-y-villafranca/"
-
+      - "https://www.diariodesevilla.es/provincia/Condenados-ediles-proyectos-viviendas-Idelpa_0_1226278006.html"
   - fecha: "2018-05-09"
-    titulo: "Sentencia mercantil: concurso culpable y condenas a inhabilitación"
-    descripcion: "El Juzgado de lo Mercantil número 2 de Sevilla dicta sentencia en el procedimiento 179/2012 declarando culpable el concurso de acreedores de IDELPA. El exalcalde socialista Antonio Maestre y los exconcejales Rosario Gavira y Miguel Troncoso son condenados a cinco años de inhabilitación y al pago solidario de 80.000 euros a la empresa. Los exconsejeros Enrique González Molina y José Díaz Ulloa reciben dos años de inhabilitación. El tribunal considera probadas las irregularidades contables (ocultación de más de dos millones en deudas), el incumplimiento del deber de solicitar el concurso y el agravamiento injustificado de la insolvencia."
+    titulo: "Calificación culpable del concurso"
+    descripcion: "Europa Press y el Ayuntamiento sitúan en este día la sentencia mercantil del procedimiento 179/2012. La nota municipal recoge cinco años de inhabilitación mercantil para Maestre, Gavira y Troncoso, dos para Enrique González y José Díaz, y 80.000 euros de déficit concursal. No se acredita aquí su firmeza."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.europapress.es/andalucia/sevilla-00357/noticia-condenado-exalcalde-socialista-palacios-sevilla-antonio-maestre-concurso-idelpa-20180515164928.html"
+      - "https://www.lospalacios.org/Noticia/2208/condenada-la-cupula-del-psoe-de-los-palacios-y-villafranca-por-la-quiebra-de-idelpa"
+  - fecha: "2019-05-30"
+    titulo: "Publicación de la absolución por las cantidades anticipadas de una vivienda"
+    descripcion: "Diario de Sevilla informa de la absolución de Troncoso en una causa diferente sobre una vivienda de Chapatales. Según la crónica, la Audiencia no apreció apropiación ni estafa y consideró que las aportaciones se destinaron a construir las viviendas. Es fecha de noticia, no del fallo original."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.diariodesevilla.es/juzgado_de_guardia/sentencias/apropiacion-viviendas-estafa_0_1359164398.html"
+  - fecha: "2021-09-13"
+    titulo: "Condena por prevaricación en la adjudicación de proyectos"
+    descripcion: "La cobertura de Europa Press atribuye a una sentencia de este día del Penal 12 de Sevilla tres años y seis meses de inhabilitación especial para empleo o cargo público para Troncoso y Cortés. Advierte de que cabía apelación; su desenlace no se ha verificado."
     type: "sentencia"
     urls:
-      - "https://www.sevillaactualidad.com/provincia/94368-maestre-condenado-cinco-anos-inhabilitacion-caso-idelpa/"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Idelpa&numero=445"
-
-  - fecha: "2024-07-17"
-    titulo: "Nueva condena a Maestre por el caso ERE: 14 meses de cárcel"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Sevilla condena al exalcalde socialista Antonio Maestre a 14 meses de prisión, 2 años y 9 meses de inhabilitación absoluta y 1 año y 11 meses de inhabilitación especial como cooperador necesario en delitos de prevaricación y malversación. La condena se enmarca en una pieza separada del caso ERE de Andalucía por las ayudas de 750.000 euros de la Junta concedidas al Ayuntamiento de Los Palacios para un centro ecuestre que nunca llegó a construirse. La sentencia no es firme y cabe recurso ante el Tribunal Supremo."
-    type: "sentencia"
+      - "https://www.teleprensa.com/andalucia/sevilla/condenado-exedil-socialista-palacios-encargo-contrato-ni-publicidad/202110131812541045973.amp.html"
+  - fecha: "2026-01-29"
+    titulo: "Publicación del expediente de cesión de fincas para terminar viviendas"
+    descripcion: "El BOP publica el inicio del expediente de cesión gratuita a Sevilla Activa acordado por el pleno el 22 de enero. Identifica dos fincas con 38 y 12 viviendas sin terminar y abre información pública. No es una sentencia penal ni una entrega de viviendas finalizadas."
+    type: "investigacion"
     urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-condena-a-catorce-meses-de-carcel-a-un-exalcalde-de-Los-Palacios-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-la-Junta-para-la-construccion-de-un-centro-ecuestre"
-      - "https://www.infobae.com/espana/agencias/2024/07/17/condenado-a-carcel-el-exalcalde-de-los-palacios-antonio-maestre-por-750000-euros-de-los-ere/"
-
+      - "https://admbop.dipusevilla.es/export/sites/bop/.galleries/Documentos-Anuncios-en-PDF/firmado-1769644880087-final-b3e4c09.pdf"
+  - fecha: "2026-09-28"
+    titulo: "La Diputación anuncia la licitación para finalizar 50 viviendas"
+    descripcion: "La Diputación comunica la licitación por 3,8 millones de euros para finalizar la promoción de Chapatales y su urbanización, con previsión de iniciar obras en noviembre. Es una actuación de recuperación de vivienda, cuyo presupuesto no se suma al daño judicial."
+    type: "investigacion"
+    urls:
+      - "https://www.dipusevilla.es/comunicacion/noticias/La-Diputacion-de-Sevilla-licita-por-38-millones-de-euros-la-terminacion-de-50-viviendas-protegidas-en-Los-Palacios-y-Villafranca/"
 ---
+
+El concurso mercantil, Rodina y la reclamación de compradores son procedimientos con objetos y resultados distintos. La calificación de concurso culpable comporta consecuencias mercantiles, entre ellas inhabilitación para administrar bienes ajenos; no es una pena general de inhabilitación política ni una condena por malversación del exalcalde. Europa Press añade que Prodetur no fue declarada culpable por haberse apartado de la administración en 2010. Sin el original mercantil no se certifica el alcance individual completo de todas las obligaciones de pago.
+
+En Rodina, la cobertura contemporánea de marzo de 2018 distingue las penas de Gavira de las de Troncoso y Cortés: dieciocho meses por malversación para los tres y otros tres meses por falsedad para los dos últimos, además de las inhabilitaciones y multas descritas en la noticia. La sentencia de 2021 por prevaricación corresponde a la adjudicación de los proyectos. No se computan ambas condenas como si fueran una sola sentencia ni se infiere su cumplimiento. La absolución de 2019 por cantidades anticipadas para una vivienda tampoco anula aquellas condenas sobre otro objeto.
+
+Se elimina el coste de 2.080.000 euros. El pasivo omitido en la contabilidad, el déficit concursal de 80.000 euros, el reconocimiento de deuda de 562.453,50 euros y la indemnización penal de 129.154 euros no son conceptos intercambiables. No se suman ni se multiplican por el número de obligados solidarios. Tampoco se añaden los presupuestos de terminación de las viviendas o las ayudas de otra causa. No se dispone de una cuantificación conjunta verificada ni del saldo pendiente tras pagos y garantías.
+
+La información municipal de 2018 incluye valoraciones políticas del alcalde, que se distinguen de su resumen de la sentencia. La resolución del Consejo Audiovisual de Andalucía de diciembre de 2021, consultada como contexto documental, analiza la atribución de una noticia de RTV Los Palacios sobre Rodina; no sustituye los fallos penales ni declara la culpabilidad de cargos actuales mencionados en aquella noticia.
+
+La promoción de Chapatales documentada oficialmente en 2026 tiene 50 viviendas. Se retira la anterior cifra de 52 sin identificación documental suficiente y la afirmación de que nunca podrían recuperarse las inversiones. El anuncio del BOP acredita un trámite de cesión y la nota provincial una licitación, no una finalización efectiva de obras. Los encargos de 70 y 72 viviendas del asunto Rodina son otro objeto y no se confunden con esta promoción.
+
+Se retira de esta ficha la condena del centro ecuestre de la pieza separada ERE: es otra causa y no permite fechar el cierre de Idelpa ni agregar sus ayudas como daño de esta sociedad. También se elimina la atribución de una pérdida del gobierno andaluz en 2012, que carecía de soporte y no describe un resultado judicial.
+
+Revisión parcial con corte en el 17 de octubre de 2026. Faltan los originales judiciales del concurso y de las causas penales, los resultados de los eventuales recursos y la ejecución de penas y obligaciones económicas. El PDF incluido documenta exclusivamente la actuación administrativa de vivienda de 2026. Se mantiene `completado: false` y no se fija una fecha de cierre definitivo.
