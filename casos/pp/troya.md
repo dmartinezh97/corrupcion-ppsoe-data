@@ -1,97 +1,112 @@
 ---
-nombre: "Caso Troya"
+nombre: Caso Troya
 partido: PP
-completado: true
+completado: false
 año: 2007
-fechaInicio: 2006-01-01
-fechaFin: "2013-10-08"
-estado: "cerrado con condenas"
-descripcion: |
-  El caso Troya destapó una trama de cohecho urbanístico en el municipio malagueño de Alhaurín el Grande, protagonizada por el alcalde del PP Juan Martín Serón y su concejal de Urbanismo, José Gregorio Guerra Gil. Entre 2006 y 2007, ambos cargos públicos exigieron de forma reiterada el pago de 122.000 euros a un promotor inmobiliario local a cambio de otorgarle una licencia de obras, aprovechando la confusión intencionadamente promovida en torno a la normativa urbanística del municipio para ejercer presión sobre los constructores. La operación policial que destapó los hechos fue bautizada precisamente como "Troya", en referencia al engaño y la estratagema utilizados por los implicados.
+estado: cerrado con condenas
+descripcion: 'La Audiencia Provincial de Málaga condenó el 18 de enero de 2012 al alcalde de Alhaurín el Grande,
+  Juan Martín Serón, y al concejal de Urbanismo, José Gregorio Guerra Gil, por un delito de cohecho. Los hechos
+  probados sitúan la exigencia insistente de 122.000 euros desde al menos mayo de 2006 como contrapartida de una
+  licencia ya concedida en abril. La sentencia impuso a cada uno 200.000 euros de multa y un año de suspensión de
+  empleo o cargo público municipal, con responsabilidad personal subsidiaria de seis meses.
 
-  El caso llegó a juicio oral en septiembre de 2010 ante la Sección Octava de la Audiencia Provincial de Málaga con 20 procesados, entre ellos el alcalde, el concejal, dos asesores jurídicos del consistorio y hasta 16 empresarios y promotores. A lo largo del juicio, la Fiscalía fue retirando la acusación contra los asesores y los promotores al no quedar acreditada la ilicitud de las licencias otorgadas, centrándose la causa en los dos cargos municipales. En enero de 2012, el tribunal condenó a Juan Martín Serón y a Gregorio Guerra a un año de suspensión de empleo y cargo público y al pago de una multa de 200.000 euros cada uno como autores de un delito de cohecho impropio.
 
-  El Tribunal Supremo confirmó las condenas en sentencia de 8 de octubre de 2013 (número 684/2013), desestimando los recursos presentados por ambos condenados. Martín Serón cumplió la suspensión de un año y regresó a la alcaldía, presentándose de nuevo a las elecciones y recuperando el cargo con el apoyo de su partido. El caso ilustra la corrupción urbanística de pequeña escala vinculada al PP durante el boom inmobiliario en municipios del sur de España, en los que los cargos locales aprovechaban la ambigüedad normativa del urbanismo para extorsionar a promotores.
+  Ambos fueron absueltos de otros doce delitos de cohecho; los restantes acusados también resultaron absueltos tras
+  retirar la Fiscalía la acusación. La Audiencia no consideró acreditada la trama general de cobros a promotores
+  inicialmente sostenida por la acusación. La STS 684/2013, de 3 de septiembre, desestimó los recursos de los dos
+  condenados; se difundió el 8 de octubre. El Supremo encuadra la conducta en el artículo 425 entonces vigente y
+  la distingue del cohecho impropio del artículo 426.
 
-resumen: "El alcalde y concejal de Urbanismo de Alhaurín el Grande (PP) exigieron 122.000 euros a un constructor a cambio de una licencia de obras"
-coste: 122000
-lugar: "Alhaurín el Grande, Málaga (Andalucía)"
+
+  La prensa documentó el regreso de Martín Serón a la alcaldía en noviembre de 2014, ya fuera del PP. No se ha comprobado
+  la ejecución completa de las multas ni eventuales incidencias posteriores hasta el corte del 17 de octubre de
+  2026.'
+resumen: Condena por cohecho a Martín Serón y Guerra, confirmada por la STS de 3 de septiembre de 2013. Hubo absoluciones
+  de los restantes acusados y de otros doce delitos; ejecución económica pendiente de comprobar.
+lugar: Alhaurín el Grande, Málaga, Andalucía
 tribunal:
-  - "Audiencia Provincial de Málaga - Sección Octava"
-  - "Tribunal Supremo - Sala de lo Penal"
-numeroSentencia: "STS 684/2013"
+- Audiencia Provincial de Málaga, Sección Octava
+- Tribunal Supremo, Sala de lo Penal
+numeroSentencia: STS 684/2013, de 3 de septiembre; casación 785/2012
 implicados:
-  - nombre: "Juan Martín Serón"
-    cargo: "Alcalde de Alhaurín el Grande (PP)"
-    rol: "Condenado por cohecho impropio: exigió 122.000 euros a promotor por licencia de obras"
-
-  - nombre: "José Gregorio Guerra Gil"
-    cargo: "Concejal de Urbanismo de Alhaurín el Grande (PP)"
-    rol: "Condenado por cohecho impropio: coautor de la extorsión al promotor inmobiliario"
-
+- nombre: Juan Martín Serón
+  cargo: Alcalde de Alhaurín el Grande por el PP en el período investigado
+  rol: Condenado por un delito de cohecho a multa de 200.000 euros y un año de suspensión de cargo público municipal;
+    absuelto de otros doce delitos de cohecho.
+- nombre: José Gregorio Guerra Gil
+  cargo: Concejal de Urbanismo de Alhaurín el Grande (PP)
+  rol: Condenado por un delito de cohecho a las mismas penas; absuelto de otros doce delitos de cohecho.
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "corrupción urbanística"
-  - "prevaricación"
-
-impactoSocial: "El caso Troya evidenció la corrupción urbanística de pequeña escala que proliferó en los ayuntamientos del PP durante el boom inmobiliario en Andalucía. Pese a ser condenado por cohecho, Juan Martín Serón regresó a la alcaldía de Alhaurín el Grande tras cumplir el año de suspensión, lo que generó una fuerte controversia sobre la regeneración democrática en el municipio."
-
-documentos: []
-
+- cohecho
+- urbanismo
+- condena
+documentos:
+- fecha: '2012-01-18'
+  titulo: Sentencia de la Audiencia Provincial de Málaga, Sección Octava. Caso Troya, rollo 1011/10
+  filetype: pdf
+  paginas: 25
+  nombre_fichero: https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Andalucia/DOCUMENTOS%20DE%20INTERES/Sentencia-CasoTroya.pdf
+- fecha: '2013-09-03'
+  titulo: STS 684/2013. Caso Troya, recurso de casación 785/2012
+  filetype: pdf
+  paginas: 54
+  nombre_fichero: https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia-Caso%20Troya.pdf
 cronologia:
-  - fecha: "2006-01-01"
-    titulo: "Inicio de la extorsión urbanística"
-    descripcion: "El alcalde de Alhaurín el Grande, Juan Martín Serón, y el concejal de Urbanismo, José Gregorio Guerra Gil, ambos del PP, comienzan a exigir pagos a promotores inmobiliarios a cambio de licencias de obras. La estrategia consistía en crear una confusión deliberada en torno a la normativa urbanística municipal para presionar a los constructores. En concreto, exigen de forma reiterada 122.000 euros a un promotor local a cambio de concederle una licencia de obras."
-    type: "investigación"
-    urls:
-      - "https://casoscorrupcion.wordpress.com/2014/11/23/caso-troya/"
-
-  - fecha: "2007-01-18"
-    titulo: "Detención del alcalde y el concejal de Urbanismo"
-    descripcion: "La Guardia Civil detiene al alcalde Juan Martín Serón y al concejal de Urbanismo Gregorio Guerra en el marco de la Operación Troya, acusados de cohecho pasivo y prevaricación urbanística. En el momento de ser conducido al coche policial, Martín Serón declaró: 'No vienen a por mí, vienen a por el PP'. Junto a ellos son investigadas otras personas, entre ellas dos asesores jurídicos del consistorio y numerosos promotores y constructores locales."
-    type: "detención"
-    urls:
-      - "https://www.libertaddigital.com/sociedad/detienen-al-alcalde-y-al-concejal-de-urbanismo-de-la-localidad-malaguena-de-alhaurin-el-grande-1276297024/"
-      - "https://casoscorrupcion.wordpress.com/2014/11/23/caso-troya/"
-
-  - fecha: "2009-01-01"
-    titulo: "La Fiscalía pide imputar al alcalde y a 24 personas"
-    descripcion: "La Fiscalía solicita formalmente que sean imputados el alcalde Juan Martín Serón y otras veinticuatro personas más en el denominado caso Troya. La instrucción judicial va depurando las responsabilidades de los numerosos investigados iniciales, centrando el núcleo del caso en los dos cargos municipales como presuntos autores del delito de cohecho."
-    type: "investigación"
-    urls:
-      - "https://www.publico.es/actualidad/piden-impute-alcalde-alhaurin-24-personas-caso-troya.html"
-
-  - fecha: "2010-09-01"
-    titulo: "Inicio del juicio oral en la Audiencia Provincial de Málaga"
-    descripcion: "El juicio oral del caso Troya comienza ante la Sección Octava de la Audiencia Provincial de Málaga con veinte procesados: el alcalde, el concejal de Urbanismo, dos asesores jurídicos del consistorio y dieciséis empresarios y promotores. A lo largo de la vista oral, la Fiscalía va retirando la acusación contra los asesores jurídicos y los promotores inmobiliarios al no quedar acreditada la ilicitud de las licencias de obras otorgadas, centrando el juicio en los dos cargos municipales."
-    type: "investigación"
-    urls:
-      - "https://www.elplural.com/autonomias/andalucia/caso-troya-el-fiscal-empeora-el-papel-del-alcalde-de-alhaurin-el-grande-al-final-del-juicio_72124102"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Troya&numero=94"
-
-  - fecha: "2012-01-01"
-    titulo: "Sentencia de la Audiencia Provincial de Málaga: condena por cohecho"
-    descripcion: "La Sección Octava de la Audiencia Provincial de Málaga condena al alcalde Juan Martín Serón y al concejal de Urbanismo José Gregorio Guerra Gil como autores de un delito de cohecho impropio. Ambos son condenados a un año de suspensión de empleo y cargo público y al pago de una multa de 200.000 euros. El tribunal considera probado que ambos actuaron de común acuerdo para exigir de forma reiterada 122.000 euros a un promotor a cambio de otorgarle una licencia de obras, aprovechando la confusión que ellos mismos promovieron sobre la normativa urbanística local."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/Oficina-de-Comunicacion/Caso-Troya--La-Audiencia-condena-al-alcalde-por-cohecho-a-un-ano-de-suspension-y-200-000-euros"
-      - "https://noticias.juridicas.com/actualidad/jurisprudencia/5946-caso-troya:-la-audiencia-condena-al-alcalde-por-cohecho-a-un-ano-de-inhabilitacion-y-200-000-euros/"
-
-  - fecha: "2013-10-08"
-    titulo: "El Tribunal Supremo confirma las condenas"
-    descripcion: "El Tribunal Supremo, en sentencia número 684/2013 de la Sala de lo Penal, desestima los recursos de casación presentados por Juan Martín Serón y Gregorio Guerra y confirma las condenas impuestas por la Audiencia Provincial de Málaga: un año de suspensión de cargo público y 200.000 euros de multa a cada uno por cohecho impropio. El alto tribunal concluye que ambos actuaron de forma coordinada en su plan criminal, aprovechándose de la confusión que ellos mismos provocaron sobre la normativa urbanística para extorsionar al promotor. Tras conocerse la sentencia, Martín Serón abandona la alcaldía para cumplir la suspensión de un año."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/T--Supremo-confirma-la-condena-del-alcalde-y-un-concejal-de-Alhaurin-el-Grande-por-cohecho--exigieron-122-000-euros-a-un-constructor-por-una-licencia"
-      - "http://www.teinteresa.es/tribunales/Supremo-Alhaurin-Grande-Malaga-PP_0_1007300039.html"
-
-  - fecha: "2014-11-10"
-    titulo: "Martín Serón regresa a la alcaldía tras cumplir la suspensión"
-    descripcion: "Juan Martín Serón recupera la alcaldía de Alhaurín el Grande tras cumplir el año de suspensión impuesto por el Tribunal Supremo. Pese a haber sido condenado por cohecho, el PP local lo mantiene como candidato y le da su apoyo para regresar al cargo. El regreso de un alcalde condenado por corrupción al frente del consistorio genera un fuerte debate político en el municipio y en Andalucía sobre la falta de regeneración democrática del Partido Popular."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/andalucia/martin-seron-alhaurin-grande-hoy_1_4527317.html"
-      - "https://www.elplural.com/autonomias/andalucia/el-alcalde-de-alhaurin-deja-el-cargo-y-el-pp-y-abre-la-puerta-a-su-vuelta-en-un-ano_63306102"
-
+- fecha: '2006-04-21'
+  titulo: Concesión de la licencia objeto de la condena
+  descripcion: Los hechos probados sitúan la licencia en el decreto 850/2006. La exigencia insistente del pago se
+    declara probada desde al menos mayo de 2006, sin fijar un día concreto.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Andalucia/DOCUMENTOS%20DE%20INTERES/Sentencia-CasoTroya.pdf
+- fecha: '2011-09-22'
+  titulo: Inicio del juicio oral
+  descripcion: La sentencia de instancia fija el comienzo de las sesiones el 22 de septiembre de 2011 y su final
+    el 16 de diciembre de ese año. Se corrige la referencia anterior a septiembre de 2010.
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Andalucia/DOCUMENTOS%20DE%20INTERES/Sentencia-CasoTroya.pdf
+- fecha: '2012-01-18'
+  titulo: Condena por un delito y absoluciones
+  descripcion: La Audiencia impuso multa y suspensión a Serón y Guerra por un delito de cohecho y los absolvió de
+    otros doce. Absolvió también a los restantes acusados, respecto de quienes la Fiscalía retiró la acusación.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Andalucia/DOCUMENTOS%20DE%20INTERES/Sentencia-CasoTroya.pdf
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/Oficina-de-Comunicacion/Caso-Troya--La-Audiencia-condena-al-alcalde-por-cohecho-a-un-ano-de-suspension-y-200-000-euros
+- fecha: '2013-09-03'
+  titulo: El Supremo desestima los recursos
+  descripcion: La STS 684/2013 confirmó las condenas. Esta es la fecha judicial; la nota del Poder Judicial y la
+    información de Europa Press son de 8 de octubre de 2013.
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia-Caso%20Troya.pdf
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/T--Supremo-confirma-la-condena-del-alcalde-y-un-concejal-de-Alhaurin-el-Grande-por-cohecho--exigieron-122-000-euros-a-un-constructor-por-una-licencia
+  - https://www.europapress.es/andalucia/malaga-00356/noticia-supremo-confirma-condena-alcalde-alhaurin-grande-pp-caso-troya-20131008130901.html
+- fecha: '2014-11-10'
+  titulo: Regreso a la alcaldía documentado por la prensa
+  descripcion: elDiario.es informó del retorno de Martín Serón tras el año de suspensión, ya fuera del PP, y de
+    la petición de baja de sus concejales. No se acredita con esta noticia la ejecución de todas las multas.
+  type: declaracion
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/andalucia/martin-seron-alhaurin-grande-hoy_1_4527317.html
 ---
+
+## Condena y absoluciones
+
+El fallo se refiere a una exigencia concreta de dinero por una licencia ya otorgada. No acredita una trama general de extorsión a todos los promotores: los hechos probados de la Audiencia rechazan expresamente que se demostrase ese sistema entre 2002 y 2006. Los restantes acusados fueron absueltos, no condenados por el hecho de haber figurado inicialmente en la causa. La condena de los dos cargos quedó confirmada en casación, sin que ello acredite por sí solo todos los actos posteriores de ejecución.
+
+La denominación anterior de «cohecho impropio» se retira. La STS diferencia el artículo 425 del Código Penal aplicable a los hechos del artículo 426 invocado por la defensa. Asimismo, la suspensión de cargo público es distinta de una pena de prisión directa: los seis meses del fallo son responsabilidad personal subsidiaria vinculada a la multa.
+
+## Dinero y seguimiento pendiente
+
+Los 122.000 euros son la cantidad exigida; no se presentan como pago efectivamente recibido ni como daño público. Las multas de 200.000 euros por condenado son penas y no se suman a aquella cantidad para calcular un coste. No se fija un perjuicio económico indemnizable en esta ficha.
+
+Se han obtenido dos PDF judiciales originales del Poder Judicial, verificados por contenido, fecha y número de páginas. Se han leído los antecedentes, hechos probados y fallo de instancia, y la portada, pasajes finales sobre tipificación y fallo del Supremo; no toda su fundamentación. Las fechas de creación de los archivos y de las noticias no sustituyen las fechas de las sentencias.
+
+Quedan pendientes los autos de ejecución, el pago completo de las multas y cualquier incidencia o recurso ulterior hasta el 17 de octubre de 2026. La búsqueda realizada no acredita una revocación, pero no demuestra ausencia de novedades. Se retiran la etimología atribuida a la operación policial, las fechas rellenadas de 2006 y 2009 y la afirmación de que el regreso político ocurrió con apoyo del PP, incompatible con la noticia leída.
