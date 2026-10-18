@@ -1,73 +1,108 @@
 ---
-nombre: "Patos/Nigrán"
+nombre: Patos/Nigrán
 partido: PP
-completado: true
+completado: false
 año: 2014
-fechaInicio: 2014-02-18
-fechaFin: "2018-12-01"
-estado: "cerrado con condenas"
-descripcion: |
-  El caso Patos/Nigrán es una pieza separada de la macrooperación Patos que investigó presuntas irregularidades en la contratación de servicios y obras en administraciones públicas gallegas. El caso se centró en el tráfico de influencias entre el exconcejal de Vías y Obras de Nigrán, José Álvarez Valverde (PP), y el empresario Vicente Costas Pumar, administrador de la constructora Coysagrán SL.
+fechaInicio: '2014-02-18'
+fechaFin: ''
+estado: Pieza de obras terminada por conformidad según la prensa; fallo y ejecución pendientes de cotejo
+descripcion: 'La pieza de Nigrán de la operación Patos investigó posibles irregularidades en adjudicaciones de obras
+  municipales. José Álvarez Valverde, concejal de Vías y Obras por el PP hasta su cese y renuncia en febrero de
+  2014, y Vicente Costas Pumar, exconcejal y administrador de Coysagran, fueron los dos acusados para quienes la
+  Fiscalía solicitó juicio por tráfico de influencias en septiembre de 2018. Las sospechas se referían a ventajas
+  en la contratación municipal; no deben confundirse con hechos judicialmente probados sin consultar el fallo.
 
-  La investigación reveló que ambos implicados mantenían una relación de amistad que derivó en prácticas irregulares. El constructor presionaba al edil para obtener adjudicaciones municipales de obra pública utilizando vías irregulares, mientras que el concejal facilitó acceso a información privilegiada sobre licitaciones, datos de competidores y especificaciones técnicas. Esta colaboración permitió a Coysagrán SL obtener ventajas indebidas en varios contratos municipales entre 2013 y 2014, incluyendo la renovación del cierre perimetral en Praza da Carrasca, aceras en viales hacia Praia América, y un proyecto de farolas que finalmente no llegó a adjudicarse.
 
-  El caso se resolvió mediante acuerdo de conformidad con la Fiscalía en la Audiencia Provincial de Pontevedra, con sede en Vigo. Ambos acusados confesaron el delito de tráfico de influencias y aceptaron seis meses de prisión, sustituida por multa de 6 euros diarios. José Álvarez Valverde recibió además inhabilitación especial para empleo público o privado y privación del derecho de sufragio durante cinco años. El caso forma parte del contexto más amplio de la Operación Patos, que investigó tramas de corrupción en múltiples administraciones gallegas.
+  Europa Press informó en octubre de 2019 de que esta pieza ya había tenido una vista de conformidad, resultado
+  que volvió a recoger la información de 2021. La fuente contemporánea enlazada para detallar las penas no ha podido
+  leerse por bloqueo del medio, ni se ha recuperado la sentencia original. Se retiran por ello las penas exactas
+  de prisión, multa e inhabilitación y la fecha artificial de sentencia que contenía la ficha.
 
-resumen: "Tráfico de influencias entre el concejal de Obras de Nigrán y un empresario constructor para adjudicar contratos municipales de forma irregular"
-lugar: "Nigrán, Pontevedra, Galicia"
+
+  Revisión parcial a 17 de octubre de 2026: faltan el fallo, su fecha, la firmeza y la ejecución, así como el resultado
+  documental de los recursos sobre escuchas de la instrucción. No se atribuyen a esta pieza absoluciones, condenas
+  o indemnizaciones de otros procedimientos de Nigrán o de la macrocausa.'
+resumen: Investigación de adjudicaciones de obras en Nigrán terminada por conformidad según la prensa, con el fallo
+  pendiente de cotejo
+lugar: Nigrán, Pontevedra, Galicia
 tribunal:
-  - "Audiencia Provincial de Pontevedra - Sección Quinta (Vigo)"
-numeroSentencia: ""
+- Juzgado de Instrucción n.º 7 de Vigo
+numeroSentencia: ''
 implicados:
-  - nombre: "José Álvarez Valverde (Cacheiro)"
-    cargo: "Concejal de Vías y Obras de Nigrán (PP)"
-    rol: "Condenado por tráfico de influencias a 6 meses de prisión (sustituida por multa) e inhabilitación por 5 años"
-
-  - nombre: "Vicente Costas Pumar"
-    cargo: "Administrador y socio de Coysagrán SL"
-    rol: "Condenado por tráfico de influencias a 6 meses de prisión (sustituida por multa de 6€ diarios)"
-
+- nombre: José Álvarez Valverde
+  cargo: Exconcejal de Vías y Obras de Nigrán (PP)
+  rol: Detenido y puesto en libertad con cargos en febrero de 2014. La Fiscalía solicitó juicio por tráfico de influencias
+    en 2018. La pieza terminó mediante conformidad según información posterior; penas individuales y firmeza no
+    cotejadas.
+- nombre: Vicente Costas Pumar
+  cargo: Exconcejal y administrador de Coysagran
+  rol: Investigado por las adjudicaciones a su empresa y acusado por la Fiscalía de tráfico de influencias en 2018.
+    El procedimiento terminó por conformidad según la prensa, sin que se haya recuperado aquí el fallo individual.
 tags:
-  - "corrupción"
-  - "tráfico de influencias"
-  - "contratos públicos"
-  - "obras municipales"
-  - "prevaricación"
-  - "cohecho"
-
-impactoSocial: "El caso Patos/Nigrán, como pieza separada de la macrooperación Patos, evidenció la existencia de tramas de corrupción en contrataciones públicas en múltiples administraciones gallegas. La detención del concejal del PP José Álvarez Valverde en febrero de 2014 provocó su cese inmediato y renuncia a su acta de concejal. El caso formó parte de un contexto más amplio de investigaciones anticorrupción en Galicia que afectaron a políticos de PP y PSOE, aunque la mayoría de las piezas separadas de la Operación Patos no llegaron a prosperar judicialmente, quedando solo cuatro piezas que llegaron a juicio."
-
+- tráfico de influencias
+- contratos públicos
+- obras municipales
+impactoSocial: La investigación tuvo consecuencias políticas con el cese y renuncia del edil en 2014. Su separación
+  en piezas exige distinguir los resultados de cada procedimiento y las personas que llegaron a juicio de quienes
+  fueron investigadas inicialmente.
 documentos: []
-
 cronologia:
-  - fecha: "2014-02-18"
-    titulo: "Operación Patos: detención de José Álvarez Valverde"
-    descripcion: "La Guardia Civil ejecuta la Operación Patos en Galicia, realizando 17 registros en diversas instalaciones públicas y privadas de Vigo, Pontevedra, Santiago, Ourense, Nigrán y Ponteareas. Entre los cinco detenidos figura José Álvarez Valverde, concejal de Vías y Obras de Nigrán (PP), junto con cuatro empresarios vinculados a las empresas Cespa y Construcciones Eiriña. El concejal es imputado inicialmente por tres delitos: prevaricación, tráfico de influencias y cohecho. La operación investiga presuntas irregularidades en la contratación de servicios y obras en administraciones públicas gallegas, con énfasis en posibles amaños de licitaciones públicas."
-    type: "detención"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Patos/Nigr%C3%A1n&numero=661"
-      - "https://www.atlantico.net/articulo/vigo/instituciones-vigo-y-area-investigadas-corrupcion/20140219072328403350.html"
-
-  - fecha: "2014-02-19"
-    titulo: "Los cinco detenidos quedan en libertad con cargos"
-    descripcion: "José Álvarez Valverde y los otros cuatro detenidos en la Operación Patos comparecen ante la juez y quedan en libertad con cargos tras la declaración judicial. El concejal de Nigrán ejerce su derecho a no declarar alegando estar cansado tras las horas de detención. A pesar de que Álvarez Valverde presenta documentos mostrando solo imputación por tráfico de influencias, fuentes judiciales confirman que se le imputan los tres delitos iniciales: prevaricación, tráfico de influencias y cohecho. La investigación se centra en la relación entre el edil y empresarios constructores para facilitar adjudicaciones irregulares de contratos municipales."
-    type: "investigación"
-    urls:
-      - "https://www.laregion.es/galicia/comienzan-declarar-detenidos-operacion-patos_1_20140219-2673493.html"
-
-  - fecha: "2014-02-24"
-    titulo: "Cese y renuncia de José Álvarez Valverde como concejal"
-    descripcion: "El alcalde de Nigrán, Alberto Valverde (PP), cesa a José Álvarez Valverde de su cargo como concejal de Vías y Obras. Horas después, el edil detenido anuncia su decisión de renunciar a su acta de concejal, declarando haber tomado esta decisión 'con responsabilidad y respeto' y por razones de 'ética política, no porque me sienta culpable'. La renuncia se produce en un contexto de presión política y mediática sobre el caso, que forma parte de la macrooperación Patos que investiga múltiples administraciones gallegas. El PSOE y CxG habían exigido públicamente su destitución tras conocerse su detención."
-    type: "dimisión"
-    urls:
-      - "https://www.atlantico.net/articulo/area-metropolitana/alcalde-nigran-cesa-concejal-detenido-golpe-corrupcion/20140224130123404455.html"
-      - "https://valminor.info/nigran/6189-operacionpatos-psoe-e-cxg-piden-a-destitucion-do-concelleiro-de-vias-e-obras"
-
-  - fecha: "2018-12-01"
-    titulo: "Sentencia de conformidad: condena por tráfico de influencias"
-    descripcion: "La Sección Quinta de la Audiencia Provincial de Pontevedra, con sede en Vigo, concluye la pieza separada del caso Patos relativa a Nigrán mediante acuerdo de conformidad con la Fiscalía. José Álvarez Valverde y Vicente Costas Pumar confiesan el delito de tráfico de influencias y aceptan las condenas propuestas. El exconcejal es condenado a seis meses de prisión (sustituida por multa con cuota diaria de 6 euros), inhabilitación especial para empleo público o privado y privación del derecho de sufragio durante cinco años. El empresario Vicente Costas Pumar recibe seis meses de prisión, igualmente sustituida por multa de 6 euros diarios. La sentencia confirma que ambos se beneficiaron mutuamente mediante el intercambio irregular de información privilegiada sobre licitaciones municipales, datos de competidores y especificaciones técnicas para adjudicar contratos de obra pública a la empresa Coysagrán SL entre 2013 y 2014."
-    type: "sentencia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Patos/Nigr%C3%A1n&numero=661"
-
+- fecha: '2014-02-18'
+  titulo: Detención en la operación Patos
+  descripcion: 'La información publicada al día siguiente sitúa en esta fecha la detención del concejal José Álvarez
+    Valverde, junto a otros cuatro arrestados en la operación. No se atribuye la actuación a la Guardia Civil: la
+    fuente se refiere a la Policía Nacional.'
+  urls:
+  - https://www.laregion.es/galicia/comienzan-declarar-detenidos-operacion-patos_1_20140219-2673493.html
+  type: detención
+- fecha: '2014-02-19'
+  titulo: Libertad con cargos
+  descripcion: La Región informó de la puesta en libertad con cargos y sin medidas cautelares de los cinco detenidos
+    tras comparecer ante la jueza de Instrucción n.º 7 de Vigo. La imputación inicial por prevaricación, tráfico
+    de influencias y cohecho no equivale a condena por todos esos delitos.
+  urls:
+  - https://www.laregion.es/galicia/comienzan-declarar-detenidos-operacion-patos_1_20140219-2673493.html
+  type: investigación
+- fecha: '2014-02-24'
+  titulo: Cese y renuncia del concejal
+  descripcion: Atlántico informó del cese por el alcalde Alberto Valverde y de la posterior renuncia de José Álvarez
+    Valverde al acta. El edil negó su culpabilidad; esta noticia acredita el desarrollo político, no el resultado
+    penal posterior.
+  urls:
+  - https://www.atlantico.net/articulo/area-metropolitana/alcalde-nigran-cesa-concejal-detenido-golpe-corrupcion/20140224130123404455.html
+  type: dimisión
+- fecha: '2016-01-14'
+  titulo: Declaración del constructor investigado
+  descripcion: Europa Press/20minutos informó de que Vicente Costas Pumar se acogió al derecho a no declarar. Las
+    sospechas sobre acuerdos para adjudicar obras se presentan como hipótesis de la investigación, sin extender
+    el resultado a otros citados.
+  urls:
+  - https://www.20minutos.es/noticia/2649000/0/constructor-exedil-nigran-vicente-costas-se-acoge-su-derecho-no-declarar-ante-jueza/
+  type: investigación
+- fecha: '2018-09-04'
+  titulo: Información sobre la petición de juicio para dos acusados
+  descripcion: 'La Voz de Galicia publicó que la Fiscalía solicitó la apertura de juicio por tráfico de influencias
+    para Álvarez Valverde y Costas Pumar. La noticia indica que el juzgado aún debía resolver sobre la apertura:
+    no se presenta esa petición como auto firme ni sentencia.'
+  urls:
+  - https://www.lavozdegalicia.es/noticia/vigo/nigran/2018/09/04/primer-politico-patos-juicio/0003_201809V4C5991.htm
+  type: investigación
+- fecha: '2019-10-03'
+  titulo: La prensa confirma que hubo vista de conformidad
+  descripcion: Europa Press recordó que la pieza de Nigrán ya había celebrado una vista de conformidad. La fecha
+    corresponde a esta noticia sobre otra pieza, no al día de la conformidad de Nigrán. No permite revalidar por
+    sí sola sus penas, firmeza o cumplimiento.
+  urls:
+  - https://www.europapress.es/galicia/noticia-dueno-eirina-muy-tranquilo-niega-amanos-licitaciones-primer-juicio-operacion-patos-20191003190714.html
+  type: resumen
 ---
+
+La ficha se limita a la **pieza sobre obras municipales vinculada a Coysagran**. La [noticia de La Voz de septiembre de 2018](https://www.lavozdegalicia.es/noticia/vigo/nigran/2018/09/04/primer-politico-patos-juicio/0003_201809V4C5991.htm) identifica a los dos acusados para quienes se pidió juicio y distingue esa solicitud de la decisión judicial que aún faltaba. Las [informaciones de Europa Press de 2019](https://www.europapress.es/galicia/noticia-dueno-eirina-muy-tranquilo-niega-amanos-licitaciones-primer-juicio-operacion-patos-20191003190714.html) y [2021](https://www.galiciapress.es/texto-diario/mostrar/2848257/am-multa-10-meses-inhabilitacion-funcionario-vigues-constructor-pago-servicios-prostitucion) confirman que Nigrán terminó por conformidad, pero no detallan en esos pasajes las penas individuales. No se traslada a Nigrán la declaración de firmeza que la noticia de 2021 refiere a la pieza distinta del funcionario de Vigo.
+
+El enlace histórico de [Faro de Vigo de 11 de diciembre de 2018](https://www.farodevigo.es/gran-vigo/2018/12/11/exedil-nigran-imputado-patos-acepta/2014390.html) que sustentaba las penas devuelve un bloqueo HTTP 406. No se ha leído su cuerpo original ni recuperado la sentencia. Por tanto, no se mantienen como hechos revalidados los seis meses de prisión sustituidos por multa diaria ni los cinco años de inhabilitación atribuidos al exedil; tampoco el supuesto alcance a empleo privado o a todo derecho de sufragio. La fecha «1 de diciembre de 2018» carecía de respaldo y se elimina.
+
+Durante la instrucción, la defensa de Álvarez Valverde discutió la validez de las escuchas. Una [información de Europa Press reproducida por 20minutos en 2016](https://www.20minutos.es/noticia/2697734/0/citan-al-exalcalde-nigr-alberto-valverde-como-investigado-operacion-patos/) recoge que se interpuso reforma y apelación subsidiaria contra la negativa a anularlas. Esta revisión no ha recuperado las resoluciones que resolvieron esos recursos. No se deduce de la posterior conformidad cuál fue su motivación o desenlace.
+
+Las adjudicaciones examinadas incluían actuaciones en A Carrasca y Praia América, según las fuentes sobre la investigación. No se reproducen como hechos probados los detalles del intercambio de ofertas, el beneficio personal o empresarial o el intento relativo a farolas sin haber cotejado el relato judicial. No existe en esta revisión una cuantificación de daño público: se omite `coste`, y las eventuales multas no se convierten en perjuicio.
+
+No se mezclan esta pieza, las restantes de Patos ni otro procedimiento sobre la recogida de basuras de Nigrán adjudicada en 2004. Las búsquedas de resoluciones posteriores o indemnizaciones pueden devolver esos otros asuntos; no permiten declarar absueltos a estos acusados ni atribuirles sus importes. A 17 de octubre de 2026 siguen pendientes la sentencia original, el órgano sentenciador cotejado, su firmeza y la ejecutoria. La ausencia de novedades localizadas no acredita cumplimiento ni ausencia de recursos. `documentos: []` señala que no se dispone de originales verificables incorporados.
