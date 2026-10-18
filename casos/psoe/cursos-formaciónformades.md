@@ -3,7 +3,7 @@ nombre: Cursos Formación/Formades
 partido: PSOE
 completado: false
 año: 2014
-estado: activo
+estado: Condenas de primera instancia; recursos y ejecución pendientes de verificar
 descripcion: 'La pieza Formades examina la gestión de tres subvenciones de 2008, 2009 y 2010 concedidas al Consorcio
   Centro Andaluz de Formación Medioambiental para el Desarrollo Sostenible, ubicado en Almonte (Huelva). La sentencia
   233/2022 de la Sección Tercera de la Audiencia de Sevilla, dictada el 7 de junio de 2022, condenó a su exgerente
@@ -146,6 +146,6 @@ Los gastos de regalos y caramelos ligados a Melchor (6.555,15 euros) y el desayu
 
 La página 227 declara expresamente que la sentencia no era firme y permitía apelación ante la Sala de lo Civil y Penal del TSJA. La búsqueda de resoluciones posteriores no ha permitido documentar la interposición o el resultado de esa apelación, una casación o una declaración de firmeza. Tampoco se ha verificado ingreso en prisión, suspensión de penas o cobro de la responsabilidad civil. La ausencia de resultados accesibles no demuestra que no existieran recursos.
 
-Se retira la afirmación heredada de condena firme y la fecha final global de junio de 2022. `estado: activo` refleja el estado final pendiente de cotejo, no acredita por sí solo un recurso vivo. `completado: false` mantiene visible esta limitación. La fecha exacta de los primeros hechos no se fija artificialmente en un 1 de enero; 2014 identifica el año de la investigación general y de las noticias históricas recogidas.
+Se retira la afirmación heredada de condena firme y la fecha final global de junio de 2022. `estado: Condenas de primera instancia; recursos y ejecución pendientes de verificar` refleja el estado final pendiente de cotejo, no acredita por sí solo un recurso vivo. `completado: false` mantiene visible esta limitación. La fecha exacta de los primeros hechos no se fija artificialmente en un 1 de enero; 2014 identifica el año de la investigación general y de las noticias históricas recogidas.
 
 Las controversias laborales de Formades y la evolución de la pieza política general de los cursos son procedimientos diferentes. Sus archivos, recursos o sentencias no sustituyen el resultado de esta pieza penal contra cuatro personas.
