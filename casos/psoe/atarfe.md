@@ -1,208 +1,104 @@
 ---
 nombre: "Caso Atarfe"
 partido: PSOE
-completado: true
+completado: false
 año: 2012
-fechaInicio: 1991-01-01
-fechaFin: 2022-09-29
-estado: sentenciado
-resumen: "Corrupción urbanística en Atarfe (Granada) durante alcaldías del PSOE que generó deudas de 18 millones de euros"
-descripcion: "Múltiples casos de corrupción urbanística y administrativa en el municipio de Atarfe (Granada) durante las alcaldías del PSOE entre 1991 y 2015, incluyendo prevaricación, malversación y deudas judiciales por más de 18 millones de euros"
-coste: 18000000
+estado: "Procedimientos distintos: condena por contratación y absolución en Medina Elvira; revisión parcial"
+resumen: "Actuaciones municipales de Atarfe con resultados distintos: condena de Tomás Ruiz por contratación de personal, absolución en Medina Elvira y una condena urbanística inicial de Víctor Sánchez posteriormente anulada. Las deudas municipales no constituyen un daño penal agregado."
+descripcion: |
+  Esta ficha reúne procedimientos diferentes relacionados con la gestión municipal de Atarfe. Tomás Ruiz Maeso, exalcalde socialista, fue condenado por prevaricación en la contratación de dos trabajadores como relevistas sin expediente y pese a los reparos municipales. La STS 692/2016, de 27 de julio, desestimó su recurso contra la sentencia de la Audiencia de Granada de 2 de diciembre de 2015, que imponía ocho años, seis meses y un día de inhabilitación especial para empleo o cargo público.
+
+  En otra causa, Medina Elvira, el Tribunal Supremo desestimó los recursos contra la absolución dictada el 20 de mayo de 2020. La resolución es la STS 766/2022, de 15 de septiembre, no una sentencia de 29 de septiembre. La identificación nominal de Tomás Ruiz como absuelto procede de la cobertura periodística; los nombres anonimizados del original no se equiparan por inferencia.
+
+  Víctor Sánchez tuvo una condena inicial en 2011 por Balcón de Cubillas, pero Granada Hoy informó en marzo de 2014 de que había sido anulada por falta de competencia del juzgado y se había ordenado repetir el juicio. No se conserva como condena vigente. La revisión hasta el 17 de octubre de 2026 no permite certificar el cierre de todos los procedimientos ni el cumplimiento de las penas.
 lugar: "Atarfe, Granada, Andalucía"
 tribunal:
+  - "Juzgado de lo Penal número 5 de Granada (resolución inicial de Balcón de Cubillas, posteriormente anulada según la prensa)"
   - "Audiencia Provincial de Granada"
-  - "Tribunal Supremo"
-  - "Tribunal Superior de Justicia de Andalucía"
-sentencia: "STS 29/09/2022"
+  - "Tribunal Supremo, Sala de lo Penal"
 implicados:
   - nombre: "Víctor Sánchez"
-    cargo: "Alcalde de Atarfe (PSOE)"
-    rol: "Condenado por prevaricación urbanística y delito contra la ordenación del territorio (1991-2009), falleció en 2018"
+    cargo: "Exalcalde de Atarfe (PSOE)"
+    rol: "Condenado inicialmente en 2011 por Balcón de Cubillas; la prensa de 2014 documenta la anulación y repetición del juicio. Fallecido en agosto de 2018; no se han cotejado los autos finales de cada causa"
   - nombre: "Tomás Ruiz Maeso"
-    cargo: "Alcalde de Atarfe (PSOE)"
-    rol: "Condenado a 8 años, 6 meses y 1 día de inhabilitación por prevaricación administrativa (2009-2015)"
+    cargo: "Exalcalde de Atarfe (PSOE)"
+    rol: "Condenado por contratación irregular: inhabilitación de ocho años, seis meses y un día confirmada en casación en 2016. Absuelto en la causa Medina Elvira, cuya absolución se mantuvo en casación en 2022. No se verifica aquí el cumplimiento de la pena"
 tags:
-  - "corrupción"
   - "prevaricación"
-  - "malversación"
+  - "contratación de personal"
   - "urbanismo"
-  - "deudas municipales"
-impactoSocial: "El caso generó múltiples deudas municipales que ascendieron a más de 18 millones de euros, afectando gravemente las finanzas del municipio de 18.500 habitantes. Provocó dimisiones y condenas firmes del Tribunal Supremo"
-documentos: []
+documentos:
+  - fecha: "2016-07-27"
+    titulo: "STS 692/2016, recurso 271/2016: contratación municipal (ECLI:ES:TS:2016:3893)"
+    filetype: "pdf"
+    paginas: 8
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e2fffc42d4a82be6&encode=true&databasematch=AN"
+  - fecha: "2022-09-15"
+    titulo: "STS 766/2022, recurso 3971/2020: Medina Elvira (ECLI:ES:TS:2022:3320)"
+    filetype: "pdf"
+    paginas: 30
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ff91d0ce6d727356a0a8778d75e36f0d&encode=true&databasematch=AN"
 cronologia:
-  - fecha: 2011-10-01
-    titulo: "Sentencia contra Víctor Sánchez"
-    descripcion: "El Juzgado de lo Penal nº 5 de Granada condena a Víctor Sánchez a 14 años de inhabilitación y 9 meses de prisión por prevaricación"
+  - fecha: "2011-10-20"
+    titulo: "Se publica la condena inicial por Balcón de Cubillas"
+    descripcion: "Europa Press informa de catorce años de inhabilitación y nueve meses de prisión para Víctor Sánchez, con posibilidad de apelación. Es la fecha de la noticia; la posterior anulación impide presentar esa condena como resultado definitivo."
     type: "sentencia"
-  - fecha: 2015-01-01
-    titulo: "Condena a Tomás Ruiz Maeso"
-    descripcion: "La Audiencia Provincial de Granada condena a Tomás Ruiz Maeso por prevaricación administrativa"
+    urls:
+      - "https://www.europapress.es/nacional/noticia-condenado-14-anos-inhabilitacion-meses-carcel-ex-alcalde-socialista-atarfe-granada-20111020153613.html"
+  - fecha: "2014-03-25"
+    titulo: "Se anuncia la repetición del juicio de Balcón de Cubillas"
+    descripcion: "Granada Hoy informa de que el juicio de 2011 y su condena habían sido anulados al estimarse que el juzgado de lo Penal no era competente. La fecha corresponde a la noticia, no a la resolución de anulación, cuyo original no se ha recuperado."
+    type: "juicio"
+    urls:
+      - "https://www.granadahoy.com/granada/alcalde-Atarfe-Victor-Sanchez-banquillo_0_791920992.amp.html"
+  - fecha: "2015-12-02"
+    titulo: "Condena por contratación de personal"
+    descripcion: "La sentencia 698/2015 de la Sección Primera de la Audiencia de Granada condena por prevaricación a ocho años, seis meses y un día de inhabilitación. Fecha y pena cotejadas en los antecedentes de la posterior STS 692/2016; la identificación de Tomás Ruiz procede de Europa Press, publicada por El Independiente de Granada."
     type: "sentencia"
-  - fecha: 2017-01-01
-    titulo: "Sentencia por Servicio de Ayuda a Domicilio"
-    descripcion: "El TSJA condena al Ayuntamiento a pagar 1.421.159 euros a la Seguridad Social por contratación irregular durante 25 años"
+    urls:
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2016:3893"
+      - "https://www.elindependientedegranada.es/politica/supremo-confirma-ocho-anos-inhabilitacion-exalcalde-psoe-atarfe-contrataciones-irregulares"
+  - fecha: "2016-07-27"
+    titulo: "El Supremo desestima la casación de la condena por contratación"
+    descripcion: "La STS 692/2016 mantiene la sentencia de 2 de diciembre de 2015 y condena al recurrente en costas. No se infiere de ello la fecha inicial ni la extinción de la inhabilitación."
     type: "sentencia"
-  - fecha: 2022-09-29
-    titulo: "Tribunal Supremo confirma absolución en caso Medina Elvira"
-    descripcion: "El Tribunal Supremo confirma la absolución de los implicados en el caso de la urbanización Medina Elvira"
+    relevancia: "alta"
+    urls:
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2016:3893"
+  - fecha: "2017-05-19"
+    titulo: "El Ayuntamiento publica una relación de deudas judiciales"
+    descripcion: "La información municipal distingue 14,9 millones de deuda que califica de firme y otros 3,1 millones recurridos por residuos. Incluye obras, financiación, intereses y obligaciones contractuales diferentes; no es una condena penal conjunta ni un cálculo de daño por corrupción."
+    type: "investigacion"
+    urls:
+      - "https://www.atarfe.es/deuda-sentencias-judiciales-ayuntamiento-atarfe"
+  - fecha: "2017-05-21"
+    titulo: "Reclamación de cotizaciones por ayuda a domicilio"
+    descripcion: "EFE informa de una reclamación de Trabajo de unos 1,4 millones de euros por cotizaciones de sesenta empleadas y del recurso anunciado por el Ayuntamiento. Esta fuente no acredita la supuesta sentencia del TSJA de 2017 que figuraba en la ficha."
+    type: "investigacion"
+    urls:
+      - "https://www.lavanguardia.com/politica/20170521/422791152145/sancionan-a-atarfe-con-de-14-millones-por-20-anos-de-contratos-irregulares.html"
+  - fecha: "2020-05-20"
+    titulo: "Absolución en la causa Medina Elvira"
+    descripcion: "La Sección Segunda de la Audiencia de Granada absuelve a cinco acusados de prevaricación continuada y estafa continuada, así como a las entidades y al Ayuntamiento respecto de la responsabilidad civil subsidiaria. Fecha y alcance comprobados en el encabezamiento y fallo de la STS de 2022."
     type: "sentencia"
+    urls:
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2022:3320"
+  - fecha: "2022-09-15"
+    titulo: "El Supremo mantiene la absolución de Medina Elvira"
+    descripcion: "La STS 766/2022 declara no haber lugar a los recursos de casación y condena a los recurrentes en costas. Tomás Ruiz es identificado como absuelto por la cobertura nominal de Ahora Granada del 29 de septiembre, que no es la fecha de la sentencia."
+    type: "sentencia"
+    relevancia: "alta"
+    urls:
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2022:3320"
+      - "https://www.ahoragranada.com/noticias/me-iban-a-destrozar-la-vida-hice-lo-que-en-cada-momento-tenia-que-hacer/"
 ---
 
-# Caso Atarfe
+La condena por contratación y la absolución de Medina Elvira pertenecen a causas diferentes: ninguna de ellas altera automáticamente el resultado de la otra. La primera sentencia de contratación es de diciembre de 2015, no de enero de ese año. En Medina Elvira, el original del Supremo identifica la absolución recurrida como dictada en mayo de 2020; no se conserva la anterior afirmación de una absolución en enero de 2016.
 
-## Descripción General
+En Balcón de Cubillas, las informaciones de 2011 y 2014 deben leerse conjuntamente: la primera anunció una condena recurrible y la segunda documentó su anulación y la repetición del juicio. El fallecimiento de Víctor Sánchez en agosto de 2018 fue publicado por [Granada Hoy](https://www.granadahoy.com/granada/Fallece-Victor-Sanchez-alcalde-Atarfe_0_1271573087.html), pero no se han recuperado los autos finales de cada procedimiento. No se presenta una resolución anulada como condena vigente ni se generaliza un archivo por fallecimiento a todas las causas sin sus originales. La noticia de Europa Press de octubre de 2011 también recogía que Sánchez había sido absuelto en firme por la Audiencia en el asunto distinto de los vertidos de Llanos de Silva; no se traslada aquella condena inicial a este caso urbanístico.
 
-El Caso Atarfe engloba múltiples subcasos de corrupción relacionados con la gestión municipal durante las alcaldías del PSOE entre 1991 y 2015 en Atarfe, municipio de Granada con 18.500 habitantes. Los casos incluyen prevaricación urbanística, contratación irregular, malversación de fondos y una acumulación de deudas judiciales por más de 18 millones de euros. Los principales implicados fueron los alcaldes Víctor Sánchez (PSOE, 1991-2009) y Tomás Ruiz Maeso (PSOE, 2009-2015).
+Se elimina el coste de 18 millones de euros. La relación municipal de mayo de 2017 agrupa obligaciones diversas y distingue parte recurrida; incluye capital, intereses y costas de obras y financiación. El [balance municipal de febrero de 2019](https://www.atarfe.es/evolucion-deuda-ayuntamiento-atarfe) explica además un préstamo de 14,7 millones para afrontar deudas judiciales: refinanciar una obligación no constituye un segundo daño ni demuestra su cancelación económica definitiva. Tampoco la reclamación de cotizaciones laborales equivale por sí sola a una condena penal o a una sentencia del TSJA. No hay una cuantificación verificada y homogénea del perjuicio penal que pueda sumarse en esta ficha.
 
-## Hechos Principales
+Los dos PDF del Supremo proceden de CENDOJ y se han cotejado de manera dirigida: en el de 2016, cabecera, antecedentes relativos a la contratación y pena y fallo; en el de 2022, cabecera y fallo. Los nombres sustituidos por CENDOJ no se identifican por deducción: los nombres reales y su afiliación se contrastan con la prensa nominal citada. Las fechas de creación de las copias descargadas corresponden a la exportación de 2026, no a los actos judiciales de 2016 y 2022.
 
-### Modalidad de Corrupción
-- **Tipo**: Prevaricación urbanística, contratación irregular, malversación de fondos públicos
-- **Método**: Concesión irregular de licencias urbanísticas, modificación ilegal de normas subsidiarias, contratación sin procedimiento administrativo, y gestión negligente que generó deudas millonarias
-- **Duración**: 1991-2015 (24 años durante alcaldías del PSOE)
-
-### Instituciones Afectadas
-- Ayuntamiento de Atarfe
-- Consejería de Fomento de Andalucía
-- Tesorería General de la Seguridad Social
-- Múltiples empresas constructoras y promotoras
-
-## Cronología del Caso
-
-### Caso Balcón de Cubillas (Víctor Sánchez)
-
-#### 2011
-- **Octubre 2011**: Sentencia inicial del Juzgado de lo Penal nº 5 de Granada condenando a Víctor Sánchez a 14 años de inhabilitación y 9 meses de prisión por prevaricación y delito contra la ordenación del territorio
-
-### Caso Prevaricación en Contratación (Tomás Ruiz Maeso)
-
-#### 2012
-- **Diciembre 2012**: El alcalde Tomás Ruiz Maeso dicta resolución irregular sobre jubilación parcial del Director de Contratación
-
-#### 2015
-- **Enero 2015**: Audiencia Provincial de Granada condena a Tomás Ruiz Maeso
-
-#### 2016
-- **Julio 2016**: El Tribunal Supremo confirma la condena de 8 años, 6 meses y 1 día de inhabilitación
-
-### Caso Medina Elvira
-
-#### 2008-2010
-- Se conceden licencias irregulares para la macro-urbanización Medina Elvira sin servicios mínimos
-
-#### 2016
-- **Enero 2016**: Audiencia Provincial de Granada absuelve a Víctor Sánchez y Tomás Ruiz Maeso
-
-#### 2022
-- **29 septiembre 2022**: El Tribunal Supremo confirma la absolución
-
-### Caso Servicio de Ayuda a Domicilio
-
-#### 1992-2017
-- Durante 25 años se presta el servicio mediante contratación irregular
-
-#### 2017
-- **Enero 2017**: Inspección de Trabajo detecta irregularidades
-- **2017**: TSJA condena al Ayuntamiento a pagar 1.421.159 euros a la Seguridad Social
-
-### Deudas Judiciales
-
-#### 2017
-- **Marzo 2017**: Sentencia por 3,1 millones de euros por tratamiento de residuos (periodo 1996-2013)
-
-#### 2018
-- El Ayuntamiento paga 14,7 millones de euros mediante préstamo del Ministerio de Hacienda
-
-## Implicados Principales
-
-### Víctor Sánchez
-- **Cargo**: Alcalde de Atarfe (PSOE)
-- **Periodo**: 1991-2009
-- **Acusación**: Prevaricación urbanística, delito contra la ordenación del territorio
-- **Situación actual**: Falleció el 9 de agosto de 2018. Casos archivados por fallecimiento
-
-### Tomás Ruiz Maeso
-- **Cargo**: Alcalde de Atarfe (PSOE)
-- **Periodo**: 2009-2015
-- **Acusación**: Prevaricación administrativa
-- **Situación actual**: Condenado por el Tribunal Supremo en 2016 a 8 años, 6 meses y 1 día de inhabilitación; absuelto en caso Medina Elvira en 2022
-
-## Procedimiento Judicial
-
-### Fase de Instrucción
-- **Juzgados**: Juzgado de lo Penal nº 5 de Granada, Juzgado de Instrucción
-- **Tribunales**: Audiencia Provincial de Granada, Tribunal Supremo, TSJA
-- **Principales diligencias**: Investigaciones urbanísticas, auditorías, inspecciones laborales
-
-### Sentencias
-- **Caso Balcón de Cubillas**: Sentencia anulada, posteriormente archivado por fallecimiento
-- **Caso Contratación**: STS Tribunal Supremo julio 2016 (8 años, 6 meses y 1 día de inhabilitación)
-- **Caso Medina Elvira**: Absolución confirmada por Tribunal Supremo (29/09/2022)
-- **Caso Servicio Ayuda a Domicilio**: Condena a pagar 1.421.159 euros (TSJA, 2017)
-
-## Impacto Económico
-
-### Perjuicio Causado
-- **Deudas judiciales totales**: Aproximadamente 18 millones de euros
-  - Plaza de Toros: 9,5 millones de euros
-  - Corredor Verde: 4 millones de euros
-  - Tratamiento de Residuos: 3,1 millones de euros
-  - Servicio Ayuda a Domicilio: 1,4 millones de euros
-  - Carretera Tres Juanes: 552.378 euros
-  - Sector Calerines: ~800.000 euros
-- **Fondos públicos afectados**: Municipales y autonómicos
-- **Deuda municipal total**: 60-65 millones de euros
-
-### Recuperación de Fondos
-- **2018**: Ayuntamiento adhiere a fondos del Ministerio de Hacienda
-- **Cantidad**: Préstamo de 14,7 millones de euros en condiciones favorables para saldar deudas judiciales
-
-## Impacto Político y Social
-
-### Consecuencias Políticas
-- **Dimisiones**: Víctor Sánchez no se presentó a la reelección en 2009
-- **Cambios en el partido**: Desgaste del PSOE local
-- **Impacto electoral**: Pérdida de confianza en la gestión municipal
-
-### Repercusión Mediática
-- **Cobertura mediática**: Regional y local (Granada Digital, Ahora Granada, Andalucía Información)
-- **Opinión pública**: Críticas severas a la gestión municipal y demanda de transparencia
-- **Manifestaciones**: No se registraron protestas masivas
-
-### Reformas Legales
-- **Medidas preventivas**: Mayor control en contratación pública y urbanismo municipal
-
-## Curiosidades y Datos Relevantes
-
-- **Deuda per cápita**: Más de 3.200 euros por habitante (60-65 millones para 18.500 habitantes)
-- **Plaza de Toros**: Presupuesto inicial de 2,7 millones, coste real de 7 millones, deuda final de 9,5 millones
-- **Medina Elvira**: De 3.500 viviendas previstas solo se vendieron 49
-- **20 años sin contrato**: El servicio de ayuda a domicilio funcionó durante dos décadas sin contrato formal
-
-## Estado Actual
-
-El caso está cerrado judicialmente con sentencias firmes. Víctor Sánchez falleció en 2018. Tomás Ruiz Maeso cumplió su inhabilitación. El Ayuntamiento ha saldado gran parte de las deudas judiciales mediante préstamos del Ministerio de Hacienda. Las reformas administrativas implementadas buscan evitar la repetición de estas irregularidades.
-
-## Fuentes
-
-### Fuentes Judiciales
-- Sentencia Tribunal Supremo - Julio 2016 (Caso prevaricación contratación)
-- Sentencia Tribunal Supremo - 29 de septiembre de 2022 (Caso Medina Elvira)
-- Sentencia TSJA - 2017 (Caso Servicio Ayuda a Domicilio)
-- Sentencia Juzgado de lo Penal nº 5 de Granada - Octubre 2011 (Caso Balcón de Cubillas)
-
-### Fuentes Periodísticas
-- [Casos-aislados.com - Caso Atarfe](https://casos-aislados.com)
-- [Granada Digital - Múltiples artículos sobre casos de Atarfe]
-- [Ahora Granada - Seguimiento judicial]
-- [Andalucía Información - Cobertura de sentencias]
-- [El Economista - Información sobre deudas]
-- [OKDiario - Deudas con Hacienda]
-- [CTXT - Reportaje sobre urbanizaciones fantasma]
-- [El Independiente de Granada - Seguimiento casos]
-
-### Fuentes Oficiales
-- Ayuntamiento de Atarfe - Información sobre deudas judiciales
-- Tribunal Superior de Justicia de Andalucía - Sentencias
-- Ministerio de Hacienda - Datos sobre préstamos municipales
+La revisión hasta el 17 de octubre de 2026 permanece parcial. Faltan los originales de Balcón de Cubillas y su desenlace posterior, la comprobación completa de otros procedimientos urbanísticos, la evolución de la reclamación de cotizaciones y las resoluciones de ejecución de la inhabilitación. No se afirma que todos los asuntos estén cerrados ni que Tomás Ruiz haya cumplido ya su pena. Las deudas históricas y las valoraciones municipales tampoco acreditan por sí solas malversación; se retira esa calificación general no individualizada.
