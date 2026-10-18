@@ -3,7 +3,6 @@ nombre: "Caso EMVS II - Venta de viviendas a fondos buitre"
 partido: PP
 completado: false
 año: 2013
-fechaInicio: "2013-05-03"
 fechaFin: ""
 estado: "desconocido"
 descripcion: |
