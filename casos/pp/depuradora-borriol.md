@@ -10,7 +10,7 @@ descripcion: |
 
   La Audiencia Provincial de Castellón, en sentencia nº 85/2016 de 15 de abril de 2016, condenó a Francisco Martínez Capdevila a 8 meses de prisión, 12.600 euros de multa y 2 años de inhabilitación especial para empleo o cargo público como autor de un delito de negociaciones prohibidas a los funcionarios (art. 439 del Código Penal), por intervenir en la tramitación del proyecto sin abstenerse pese a su interés patrimonial familiar. El tribunal absolvió a los otros cinco acusados —sus hijos Andrea y Francisco Martínez Tena, el exalcalde de Borriol Adelino Santamaría Blasco, el empresario Raúl Babiloni y el empleado de este Luis García del Campillo— y descartó la prevaricación, el tráfico de influencias y el fraude ilegal. La resolución declaró expresamente no acreditados el concierto entre los acusados, el conocimiento por parte del alcalde de la vinculación de la parcela ni el carácter desproporcionado del precio. El Tribunal Supremo, en sentencia 111/2017 de 22 de febrero de 2017 (ROJ STS 565/2017; ECLI:ES:TS:2017:565), desestimó los recursos de Martínez y de la Fiscalía y confirmó íntegramente el fallo. La fecha de la resolución del Supremo no consta acreditada documentalmente como fecha formal de firmeza ni de cierre de la ejecución de la pena. No se ha verificado si los ocho meses de prisión fueron suspendidos o ejecutados. Al corte del 17 de octubre de 2026 no se ha localizado la liquidación de condena. No se fija coste: los 51.000 euros previstos, el precio de compra, el convenio y la multa son conceptos distintos y no acreditan un daño patrimonial efectivo.
 
-  Políticamente, el caso se hizo público en enero de 2014. El presidente de la Diputación, Javier Moliner, destituyó a Martínez como vicepresidente y le retiró las competencias en infraestructuras; Martínez renunció a su acta de diputado provincial y a sus cargos en el PP en septiembre de 2014. Adelino Santamaría renunció a su acta de diputado provincial en febrero de 2014 y días después dejó también la alcaldía de Borriol tras quince años, siendo sustituido por Iván Pauner.
+  Políticamente, el caso se hizo público en enero de 2014. El presidente de la Diputación, Javier Moliner, destituyó a Martínez como vicepresidente y le retiró las competencias en infraestructuras; Martínez renunció a su acta de diputado provincial y a sus cargos en el PP en septiembre de 2014. COPE informó el 25 de febrero de 2014 de la aprobación de la renuncia de Adelino Santamaría a su acta de diputado provincial y anunció que esa noche renunciaría también a la alcaldía de Borriol, con la sucesión prevista de Iván Pauner. No se ha recuperado el acta que acredite la consumación y fecha exacta del relevo municipal.
 
 resumen: "Vicepresidente primero de la Diputación de Castellón y alcalde de Vall d'Alba condenado en 2017 por negociaciones prohibidas en la expropiación de terrenos para la depuradora de Borriol que afectaban a una parcela familiar"
 lugar: "Borriol, Castellón, Comunidad Valenciana"
@@ -26,7 +26,7 @@ implicados:
 
   - nombre: "Adelino Santamaría Blasco"
     cargo: "Fue alcalde de Borriol (hasta febrero de 2014) y diputado provincial del PP"
-    rol: "Acusado y absuelto; dimitió como diputado provincial en febrero de 2014 y como alcalde el 25 de febrero de 2014"
+    rol: "Acusado y absuelto; COPE informó el 25 de febrero de 2014 de la aprobación de su renuncia como diputado provincial y anunció para esa noche su renuncia como alcalde; consumación y fecha del relevo municipal pendientes de acta"
 
   - nombre: "Andrea Martínez Tena"
     cargo: "Hija de Francisco Martínez Capdevila; socia y primera administradora de Franvaltur S.L."
@@ -49,7 +49,7 @@ tags:
   - "negociaciones prohibidas"
   - "expropiación"
 
-impactoSocial: "El caso se hizo público en enero de 2014 y provocó la destitución de Martínez como vicepresidente de la Diputación y, meses después, su renuncia al acta de diputado provincial y a sus cargos en el PP; el exalcalde de Borriol Adelino Santamaría dimitió como diputado provincial y como alcalde. La condena fue confirmada por el Supremo en 2017, aunque los tribunales absolvieron al resto de acusados y descartaron la prevaricación, el tráfico de influencias y el fraude."
+impactoSocial: "El caso se hizo público en enero de 2014 y provocó la destitución de Martínez como vicepresidente de la Diputación y, meses después, su renuncia al acta de diputado provincial y a sus cargos en el PP; COPE informó de la aprobación de la renuncia del alcalde de Borriol Adelino Santamaría como diputado provincial y anunció su próxima renuncia municipal, cuya consumación exacta no se ha acreditado documentalmente. La condena fue confirmada por el Supremo en 2017, aunque los tribunales absolvieron al resto de acusados y descartaron la prevaricación, el tráfico de influencias y el fraude."
 
 documentos:
   - fecha: "2017-02-22"
@@ -148,8 +148,8 @@ cronologia:
       - "https://www.lasprovincias.es/v/20140220/politica/dimite-diputado-adelino-santamaria-20140220.html"
 
   - fecha: "2014-02-25"
-    titulo: "Santamaría deja también la alcaldía de Borriol; le sucede Iván Pauner"
-    descripcion: "La Diputación aprueba la renuncia de Santamaría a su acta y esa noche el hasta entonces alcalde de Borriol renuncia asimismo a la alcaldía, que pasa a Iván Pauner. Deja el cargo tras quince años al frente del municipio, forzado por el escándalo de la depuradora. La noticia se publica el 25 y el 26 de febrero de 2014."
+    titulo: "COPE anuncia la renuncia de Santamaría a la alcaldía y la sucesión prevista de Pauner"
+    descripcion: "COPE informa el 25 de febrero de la aprobación de la renuncia de Santamaría a su acta provincial y anuncia que esa noche renunciará a la alcaldía y que Pauner será su sucesor. Es un anuncio, no un acta del relevo consumado; su fecha exacta queda pendiente de acreditación."
     type: "resumen"
     relevancia: "media"
     urls:
@@ -224,7 +224,7 @@ cronologia:
 
   - fecha: "2017-02-22"
     titulo: "El Tribunal Supremo confirma la condena (STS 111/2017)"
-    descripcion: "La Sala de lo Penal del Tribunal Supremo dicta la sentencia 111/2017 (ROJ STS 565/2017; ECLI:ES:TS:2017:565), fechada el 22 de febrero de 2017, que desestima los recursos de casación interpuestos por el Ministerio Fiscal y por Martínez y confirma íntegramente la sentencia de la Audiencia. La condena de 8 meses de prisión, 12.600 euros de multa y 2 años de inhabilitación queda firme. La resolución se conoce por los medios el 27 de febrero de 2017."
+    descripcion: "La Sala de lo Penal del Tribunal Supremo dicta la sentencia 111/2017 (ROJ STS 565/2017; ECLI:ES:TS:2017:565), fechada el 22 de febrero de 2017, que desestima los recursos de casación interpuestos por el Ministerio Fiscal y por Martínez y confirma íntegramente la sentencia de la Audiencia. Se mantiene la condena de 8 meses de prisión, 12.600 euros de multa y 2 años de inhabilitación; no se acredita aquí una fecha formal de firmeza ni su ejecución. La resolución se conoce por los medios el 27 de febrero de 2017."
     type: "sentencia"
     relevancia: "alta"
     urls:
@@ -256,3 +256,5 @@ El PDF oficial del Supremo (13 páginas) se ha obtenido por GET, HTTP200, y extr
 Se han leído los cuerpos de Cadena SER y El Mundo de 15 de abril de 2016 y de la crónica de Europa Press conservada por Iustel (datada en Valencia el 27 de febrero, publicada el 28 de febrero de 2017). Las identidades nominales se contrastan con esas crónicas; no se deducen de los seudónimos judiciales. SER identifica por error la sección primera, mientras el original del Supremo y El Mundo señalan la segunda: se mantiene la fuente judicial. El enlace original de Europa Press respondió HTTP200 pero mostró una noticia ajena sobre Dorantes, por lo que se sustituyó por la reproducción de Iustel realmente leída. Las páginas históricas adicionales descargadas no se presentan como íntegramente leídas; Las Provincias y dos enlaces de Levante devolvieron HTTP406, y la reproducción de iAgua, HTTP429.
 
 La exclusión de la parcela familiar y la ausencia de construcción constatada en 2016 no permiten afirmar por sí solas el estado del saneamiento municipal en 2026. Tampoco se convierte el importe expropiatorio previsto en daño probado. Las búsquedas sobre años posteriores incluyen otra causa de terrenos en Vall d'Alba, que no altera esta condena y no se mezcla con ella.
+
+En el segundo control se ha descargado de nuevo la STS 111/2017 oficial (13 páginas, fecha de resolución 22 de febrero de 2017) ya incluida en documentos. Se han leído completas las páginas 1–7 y 13, sin lectura íntegra de los fundamentos de las páginas 8–12. COPE, en su noticia de 25 de febrero de 2014, anticipa la renuncia municipal para esa noche; la página de La Plana al Dia de 26 de febrero se recuperó sin cuerpo informativo, por lo que no acredita su consumación. Permanecen pendientes el original independiente de la Audiencia, el acta del relevo municipal y la documentación de firmeza y ejecución.
