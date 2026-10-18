@@ -3,7 +3,7 @@ nombre: Caso Interligare
 partido: PSOE
 completado: false
 año: 2012
-estado: sobreseimiento
+estado: sobreseimiento provisional de contratos; otras derivadas pendientes de contraste
 descripcion: Investigación sobre supuestas irregularidades en contratos públicos con Interligare. La prensa documenta
   un archivo provisional en 2014, una reapertura ordenada en diciembre de 2015 y un nuevo sobreseimiento provisional
   anunciado en mayo de 2016 respecto al presunto amaño de contratos. La información de 2016 distinguía una derivada por
