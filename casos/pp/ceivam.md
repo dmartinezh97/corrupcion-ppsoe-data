@@ -3,7 +3,6 @@ nombre: Ceivam
 partido: PP
 completado: false
 año: 1999
-fechaInicio: '1999-10-18'
 fechaFin: '2021-10-14'
 estado: absueltos
 descripcion: 'El caso Ceivam examinó ayudas europeas Leader II para una planta de tratamiento de biomasa promovida
@@ -196,7 +195,7 @@ cronologia:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=7f595c7294fc0be9&encode=true&databasematch=AN
 - fecha: '2019-06-19'
   titulo: La Audiencia Provincial absuelve a los once acusados
-  descripcion: 'SAP Ourense191/2019: fallo absolutorio para todos, con distinto alcance de prescripción y examen
+  descripcion: 'SAP Ourense 191/2019: fallo absolutorio para todos, con distinto alcance de prescripción y examen
     de fondo. La resolución entonces era recurrible en casación.'
   type: sentencia
   urls:
@@ -204,7 +203,7 @@ cronologia:
   - https://www.europapress.es/galicia/noticia-absuelto-exdelegado-xunta-ourense-supuesto-fraude-fondos-europeos-destinados-proyectos-arnoia-20190624172206.html
 - fecha: '2021-10-14'
   titulo: El Supremo confirma la absolución
-  descripcion: STS776/2021 desestima el recurso de la acusación popular y le impone las costas. El fallo indica
+  descripcion: STS 776/2021 desestima el recurso de la acusación popular y le impone las costas. El fallo indica
     que no cabe recurso alguno; no se confunde con la votación del 5 de octubre ni con la publicación periodística
     posterior.
   type: sentencia
@@ -219,6 +218,6 @@ La [información nominal de enero de 2018](https://www.laregion.es/comarca-de-ou
 
 La [noticia del reintegro](https://www.laregion.es/comarca-de-ourense/grupo-ceivam-tuvo-devolver-51-000-euros-fondos-deuropeos_1_20120714-2589052.html) distingue planta y orfebrería. Su importe no constituye por sí solo perjuicio penal ni se suma al presupuesto de la obra. La sentencia penal identifica la decisión contenciosa de 11 de febrero de 2009 y explica por qué no tenía carácter sancionador. El Gobierno informó oficialmente al Senado en 2013 y 2014 de un reintegro efectivo el 18 de noviembre de 2009 de 51.963,77 euros, más 13.503,52 euros de intereses. Esa información supera la mera declaración periodística, pero el original contencioso y el justificante contable individual siguen pendientes. Las respuestas oficiales citan recurso 340/2007, desestimación de 15 de abril de 2009 y reposición de 26 de junio de 2007, frente al 11 de febrero de 2009 y 28 de junio de 2007 recogidos en las sentencias penales; la discordancia entre fuentes oficiales no se resuelve aquí. El Diario de 2013 contiene además una mención aislada de 51.973,77 euros, discordante con sus componentes y con la cifra reiterada de 51.963,77 euros; no se adopta ni se suma.
 
-El índice de resoluciones del CENDOJ menciona un auto posterior, AATS15645/2021, que no se ha recuperado. No se presupone su objeto ni se utiliza para alterar el resultado de la sentencia penal verificada.
+El índice de resoluciones del CENDOJ menciona un auto posterior, AATS 15645/2021, que no se ha recuperado. No se presupone su objeto ni se utiliza para alterar el resultado de la sentencia penal verificada.
 
 La nueva lectura de los diarios oficiales fue dirigida: páginas 15–17 del Diario 367 de 23 de octubre de 2014 y pasajes de las páginas 16–18 del Diario 126 de 11 de febrero de 2013, con lectura íntegra de la página 18 de este último. No se declara lectura íntegra de sus 46 y 27 páginas, respectivamente. Las fechas documentales corresponden a las sesiones; los metadatos de creación de los PDF son posteriores.
