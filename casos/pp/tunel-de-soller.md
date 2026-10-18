@@ -127,6 +127,15 @@ cronologia:
   type: sentencia
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a4bef1d40f55fa76a0a8778d75e36f0d&encode=true&databasematch=AN
+- fecha: '2025-01-16'
+  titulo: Reclamación adicional por el rescate, según la prensa
+  descripcion: 'Europa Press informó de una petición de la concesionaria de 11,9 millones adicionales a los 16,3
+    millones abonados en 2017, mientras el Consell proponía una valoración de 13 millones. Son posiciones en el
+    litigio administrativo: no una indemnización adicional concedida ni daño penal del caso histórico. Falta la
+    liquidación judicial final.'
+  type: recurso
+  urls:
+  - https://www.europapress.es/illes-balears/noticia-empresa-tunel-soller-pide-12-millones-euros-mas-rescate-anulado-20250116100818.html
 ---
 
 ## Hechos y decisiones penales
@@ -143,7 +152,7 @@ Las identidades y los resultados individuales se contrastan con las noticias nom
 
 La apertura del túnel el 19 de febrero de 1997 fue un hito de la obra, no una resolución penal. El rescate aprobado por el Consell en 2017 generó un litigio contencioso-administrativo propio. La sentencia 1097/2023 del Supremo, de 25 de julio, confirmó su anulación. En sus antecedentes recoge el importe de 16.288.200,50 euros fijado en el acuerdo de diciembre de 2017: es una indemnización administrativa prevista en el rescate, no el soborno de 1989 ni una responsabilidad civil penal. No se suman ambas cantidades.
 
-La liquidación final y los posibles actos de ejecución posteriores del rescate no se han verificado. Tampoco se dispone del original independiente de la sentencia penal balear de 1997 ni de un testimonio separado de firmeza. Estas lagunas no se cubren suponiendo que no hubo más actuaciones.
+Europa Press informó el 16 de enero de 2025 de que la concesionaria reclamaba 11,9 millones adicionales a los 16,3 millones abonados en 2017, mientras el Consell defendía una valoración de 13 millones. La previsión de 31,5 millones de la noticia era condicional e incluía intereses estimados, no un importe judicialmente concedido. La información sitúa la sentencia del Supremo en septiembre de 2023; se mantiene como fecha del acto el 25 de julio que consta en el original. La liquidación final y los posibles actos de ejecución posteriores del rescate no se han verificado. Tampoco se dispone del original independiente de la sentencia penal balear de 1997 ni de un testimonio separado de firmeza. Estas lagunas no se cubren suponiendo que no hubo más actuaciones.
 
 ## Fuentes
 
