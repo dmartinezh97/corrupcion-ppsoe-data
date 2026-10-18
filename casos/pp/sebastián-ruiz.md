@@ -22,7 +22,7 @@ descripcion: 'El procedimiento se refiere a la contratación en 2014 de la hija 
   El Supremo dejó sin efecto el decomiso solidario de 12.755,15 euros, importe de los salarios percibidos por la
   contratada, que no había sido parte en el procedimiento. Esa cantidad no se presenta como una indemnización definitiva
   ni como daño cero. Un auto de 12 de abril de 2023 desestimó un incidente de nulidad en el mismo recurso y se declaró
-  firme; no alteró los pronunciamientos anteriores.
+  firme; también se refiere expresamente a la sentencia de casación como firme. No alteró los pronunciamientos anteriores.
 
 
   Faltan las resoluciones de ejecución, posible suspensión o cumplimiento de las penas y su evolución hasta el 17
