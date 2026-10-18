@@ -1,79 +1,98 @@
 ---
-nombre: "PP de Valga"
+nombre: PP de Valga
 partido: PP
-completado: true
+completado: false
 año: 2016
-fechaInicio: 2016-07-01
-fechaFin: ""
-estado: "archivado"
-descripcion: |
-  El caso del PP de Valga (Pontevedra) investigó el cobro irregular de dietas por parte del alcalde y varios concejales del Partido Popular en el ayuntamiento de Valga durante más de dos décadas. El Partido Socialista municipal presentó una denuncia en verano de 2016 sobre unas reuniones celebradas por el equipo de gobierno denominadas "comisiones de organización", a las que solo asistían los concejales del PP y en las que cada asistente percibía entre 50 y 60 euros por reunión, celebradas con periodicidad semanal, sin presencia de funcionarios y sin levantamiento de actas.
-
-  Desde 1992, el alcalde consideró que tenía la competencia de convocar reuniones paralelas a la Junta de Gobierno que eran retribuidas con asistencias y dinero público, a las que únicamente invitaba a los concejales del PP. Los partidos de la oposición no solo fueron excluidos de estas reuniones, sino que tampoco tenían conocimiento de su celebración. El Tribunal de Cuentas certificó que el Ayuntamiento de Valga pagó a sus concejales 87.440 euros entre 2017 y 2021, pero que desde 1991 la cantidad superó los 500.000 euros en total.
-
-  Las denuncias presentadas ante la Fiscalía también apuntaron a una presunta trama de corrupción más amplia que incluía al alcalde, al secretario municipal y al interventor habilitado temporal, con presuntas irregularidades en la contratación y colocación de personal afín al partido. El caso tuvo repercusión nacional al ponerse de manifiesto que un ayuntamiento entero del PP llevaba más de 25 años celebrando reuniones opacas y pagadas exclusivamente para los concejales del partido gobernante.
-resumen: "El alcalde del PP en Valga (Pontevedra) y varios concejales son investigados por cobrar dietas ilegales durante más de 25 años en reuniones semanales a las que solo asistían miembros del PP, por un importe superior a 500.000 euros."
-coste: 500000
-lugar: "Valga, Pontevedra, Galicia"
+fechaFin: ''
+estado: archivo penal referido en fuentes oficiales; seguimiento contable pendiente de verificar
+descripcion: La investigación sobre las asistencias a comisiones de coordinación del gobierno de Valga dio lugar
+  a las diligencias 322/2016, cuyo archivo penal recoge el informe del Consello de Contas de Galicia aprobado en
+  marzo de 2023. Ese informe detectó incumplimientos administrativos y registró pagos de 87.440 euros entre junio
+  de 2017 y diciembre de 2021. No declaró una condena penal ni certificó un daño total de 500.000 euros. Otra denuncia
+  relativa al secretario y al interventor tuvo su propio archivo, avalado por la Audiencia de Pontevedra según la
+  prensa de marzo de 2024. Faltan los autos originales y el desenlace de las actuaciones contables hasta el corte
+  de 17 de octubre de 2026.
+resumen: 'Denuncias por dietas en Valga: archivo penal y observaciones fiscalizadoras diferenciados; sin daño global
+  de 500.000 euros judicialmente acreditado.'
+lugar: Valga, Pontevedra, Galicia
 tribunal:
-  - "Juzgado de Primera Instancia e Instrucción de Caldas de Reis"
-  - "Tribunal de Cuentas"
-numeroSentencia: ""
+- Juzgados de Caldas de Reis
+- Audiencia Provincial de Pontevedra
+numeroSentencia: ''
 implicados:
-  - nombre: "José María Bello Maneiro"
-    cargo: "Alcalde de Valga (PP)"
-    rol: "Investigado por prevaricación administrativa por el cobro irregular de dietas en reuniones no reglamentarias y otras presuntas irregularidades"
-  - nombre: "Seis concejales del PP de Valga"
-    cargo: "Concejales del equipo de gobierno del PP en Valga"
-    rol: "Investigados por el cobro de dietas irregulares en las denominadas 'comisiones de organización'"
-  - nombre: "Dos ex concejales del PP de Valga"
-    cargo: "Ex concejales del gobierno del PP en Valga"
-    rol: "Investigados por el mismo concepto de cobro irregular de dietas"
+- nombre: José María Bello Maneiro
+  cargo: Alcalde de Valga (PP) en los procedimientos descritos
+  rol: Investigado en la causa sobre asistencias, posteriormente archivada según el informe de Contas; también afectado
+    por otra denuncia archivada según prensa de 2024. No se acredita condena penal.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "malversación"
-  - "nepotismo"
-  - "dietas irregulares"
-impactoSocial: "El caso generó una gran indignación ciudadana al revelar que el equipo de gobierno del PP en Valga había utilizado fondos públicos durante más de dos décadas para pagar reuniones exclusivas de su partido. El escándalo llevó al PSOE, una vez en el gobierno municipal, a plantearse reclamar judicialmente la devolución del dinero cobrado irregularmente. Se convirtió en un símbolo de la impunidad con la que operaban algunos consistorios con escaso control ciudadano."
-documentos: null
+- dietas
+- fiscalización
+- archivo penal
+documentos:
+- fecha: '2023-03-15'
+  titulo: 'Consello de Contas de Galicia: Informe de fiscalización horizontal sobre percepcións económicas non salariais
+    e indemnización de gastos efectivos en entidades locais: indemnizacións por razón do servizo, asistencias e
+    outros gastos (1702023-10; aprobación del Pleno)'
+  filetype: pdf
+  paginas: 120
+  nombre_fichero: https://www.ccontasgalicia.es/sites/consello_de_contas/files/contents/documents/2023/1702023-10_D_Informe_horizontal_percepcions_economicas_non_salariais_indemnizacion_gastos_EELL_G.pdf
 cronologia:
-  - fecha: 2016-07-01
-    titulo: "Denuncia del PSOE ante la Fiscalía por las dietas irregulares"
-    descripcion: "El grupo socialista municipal de Valga presenta una denuncia ante la Fiscalía Provincial de Pontevedra por las denominadas 'comisiones de organización', reuniones semanales del PP en las que cada concejal cobraba entre 50 y 60 euros de fondos públicos sin que constaran en actas ni fueran conocidas por la oposición."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://www.elcorreogallego.es/galicia/2017/01/19/investigados-alcalde-valga-parte-equipo-110255182.html"
-
-  - fecha: 2017-01-19
-    titulo: "Investigados el alcalde y su equipo de gobierno"
-    descripcion: "El juzgado competente abre investigación formal contra el alcalde de Valga, José María Bello Maneiro, y parte de su equipo de gobierno por la presunta comisión de delitos de prevaricación administrativa derivados del cobro irregular de dietas desde 1992."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.elcorreogallego.es/galicia/2017/01/19/investigados-alcalde-valga-parte-equipo-110255182.html"
-
-  - fecha: 2018-01-18
-    titulo: "En Marea pide la dimisión del alcalde y denuncia una trama más amplia"
-    descripcion: "La portavoz de En Marea pide la dimisión del alcalde de Valga y denuncia ante la Fiscalía una supuesta trama de corrupción en el ayuntamiento que incluiría al secretario municipal y al interventor habilitado temporal, con presuntas irregularidades en la contratación de personal."
-    type: "denuncia"
-    relevancia: "media"
-    urls:
-      - "https://www.diariodepontevedra.es/articulo/caldas-deza/marea-denuncia-supuesta-trama-corrupta-valga-encabezada-alcalde/20180118182952961505.html"
-
-  - fecha: 2023-03-21
-    titulo: "El PSOE de Valga se plantea reclamar el dinero cobrado irregularmente"
-    descripcion: "El Partido Socialista de Valga, ahora en el gobierno, analiza la posibilidad de reclamar judicialmente la devolución de los más de 500.000 euros cobrados irregularmente por el PP en dietas desde 1991, tras la certificación del Tribunal de Cuentas sobre el importe total."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.diariodepontevedra.es/articulo/caldas-deza/psoe-valga-plantea-reclamar-dinero-que-cobro-irregularmente-pp/202303211811351245481.html"
-
-  - fecha: 2024-01-01
-    titulo: "Archivo definitivo de la causa penal"
-    descripcion: "El juzgado competente archiva por segunda vez la causa penal contra el alcalde y los concejales del PP de Valga por las dietas irregulares, tras las denuncias del PSOE. El caso queda cerrado judicialmente sin condenas penales, aunque el Tribunal de Cuentas certificó el cobro irregular de más de 500.000 euros."
-    type: "resumen"
-    relevancia: "alta"
-    urls: []
+- fecha: '2017-01-19'
+  titulo: Publicación de las citaciones como investigados
+  descripcion: Economía Digital informa de citaciones del alcalde, seis concejales y dos exconcejales por presunta
+    prevaricación. Es la fecha de la noticia; la investigación no equivale a una condena.
+  type: investigación
+  urls:
+  - https://www.economiadigital.es/galicia/politica/la-jueza-imputa-al-pp-de-valga-por-cobrar-dietas-irregulares-durante-25-anos_377847_102.html
+- fecha: '2023-03-15'
+  titulo: Aprobación del informe fiscalizador
+  descripcion: El Pleno del Consello de Contas aprueba el informe 1702023-10, firmado el 16 de marzo. Recoge el
+    archivo de las diligencias penales 322/2016 y analiza, de forma diferenciada, las asistencias de concejales
+    y las dietas de funcionarios. El anuncio se publicó en el DOG el 24 de marzo.
+  type: documento
+  urls:
+  - https://www.ccontasgalicia.es/sites/consello_de_contas/files/contents/documents/2023/1702023-10_D_Informe_horizontal_percepcions_economicas_non_salariais_indemnizacion_gastos_EELL_G.pdf
+  - https://www.xunta.gal/dog/Publicados/2023/20230324/AnuncioO10-160323-0001_gl.html
+- fecha: '2023-04-20'
+  titulo: Información sobre posibles responsabilidades contables
+  descripcion: Europa Press informa de un criterio de la Fiscalía del Tribunal de Cuentas sobre posible responsabilidad
+    contable por desplazamientos sin justificar del secretario y el interventor. Es un informe fiscal y una petición
+    de justificación, no una sentencia ni una condena a reintegrar.
+  type: investigación
+  urls:
+  - https://www.europapress.es/galicia/noticia-fiscalia-tribunal-cuentas-ve-posible-responsabilidad-contable-dietas-valga-tres-ayuntamientos-mas-20230420175437.html
+- fecha: '2023-05-16'
+  titulo: Mantenimiento del archivo de otra denuncia
+  descripcion: Auto fechado el 16 de mayo según Europa Press, que publicó la noticia el día 20. El Juzgado de Primera
+    Instancia e Instrucción 2 de Caldas desestima el recurso en la denuncia sobre contratación y dietas del secretario
+    y el interventor. No se confunde con las diligencias 322/2016 de asistencias de concejales.
+  type: recurso
+  urls:
+  - https://www.europapress.es/galicia/noticia-confirman-archivo-denuncia-prevaricacion-pago-dietas-ayuntamiento-valga-pontevedra-20230520193253.html
+- fecha: '2024-03-16'
+  titulo: Publicación del aval de la Audiencia al archivo
+  descripcion: La Voz informa de la confirmación del archivo de la denuncia de Valga Viva de 2019 contra alcalde,
+    secretario e interventor. La noticia recoge explicaciones del gobierno local; sin el auto original no se fija
+    su fecha exacta, modalidad de sobreseimiento o firmeza.
+  type: recurso
+  urls:
+  - https://www.lavozdegalicia.es/noticia/arousa/valga/2024/03/16/audiencia-echa-tierra-denuncia-trama-corrupta-valga/0003_202403A16C7991.htm
 ---
+
+## Archivo penal y fiscalización
+
+El [informe original del Consello de Contas](https://www.ccontasgalicia.es/sites/consello_de_contas/files/contents/documents/2023/1702023-10_D_Informe_horizontal_percepcions_economicas_non_salariais_indemnizacion_gastos_EELL_G.pdf), página física 67 (numerada 65), identifica las diligencias previas 322/2016. Describe un sobreseimiento provisional seguido de un auto de archivo definitivo; no equivale a una sentencia absolutoria. También recoge que la ausencia de delito de prevaricación o malversación no excluía un eventual expediente administrativo sobre la nulidad del gasto. No se transforma ese pasaje en una declaración judicial de plena regularidad administrativa ni se infiere su firmeza sin los autos.
+
+Las conclusiones de fiscalización de las comisiones figuran en las páginas físicas 64–70: falta de cobertura reglamentaria hasta junio de 2017 y deficiencias posteriores en la regulación, la función de secretaría y el control interno. El Concello defendió la legalidad de su actuación; sus alegaciones y las réplicas del Consello se examinan en las páginas 117–120. Es un informe fiscalizador, no una sentencia del Tribunal de Cuentas. Se verificó la portada, las 120 páginas y la aprobación de 15 de marzo de 2023; la firma del 16 de marzo y la publicación del DOG del 24 son fechas distintas. La lectura fue dirigida, no íntegra.
+
+## Cantidades y personas
+
+El cuadro 13, página física 70, registra 87.440 euros de asistencias del 17 de junio de 2017 al 31 de diciembre de 2021, de ellos 18.190 correspondientes a la Alcaldía. Son pagos fiscalizados, no una condena por alcance ni prueba de reintegro. Los 500.000 euros eran una estimación del PSOE recogida en [la noticia de marzo de 2023](https://www.diariodepontevedra.es/articulo/caldas-deza/psoe-valga-plantea-reclamar-dinero-que-cobro-irregularmente-pp/202303211811351245481.html), no un daño certificado judicialmente. Se elimina el coste agregado y no se suman asistencias, dietas de funcionarios y otras estimaciones con periodos solapados.
+
+La [noticia de 2017](https://www.economiadigital.es/galicia/politica/la-jueza-imputa-al-pp-de-valga-por-cobrar-dietas-irregulares-durante-25-anos_377847_102.html) identifica también a Román Castro Castromán, Ramona Otero Tanoira, Begoña Piñeiro Busto, Manuel Ferreiro Maneiro, José Ángel Souto Jamardo, Carmen Gómez Pardal, Juan Bautista Potel Calvo y Peregrina Abril Castromán como citados a declarar. Esa condición era de investigados, no de condenados. No se asignan resultados individuales adicionales sin las resoluciones originales.
+
+## Procedimiento distinto y pendientes
+
+La [información de mayo de 2023](https://www.europapress.es/galicia/noticia-confirman-archivo-denuncia-prevaricacion-pago-dietas-ayuntamiento-valga-pontevedra-20230520193253.html) y la de [marzo de 2024](https://www.lavozdegalicia.es/noticia/arousa/valga/2024/03/16/audiencia-echa-tierra-denuncia-trama-corrupta-valga/0003_202403A16C7991.htm) tratan la denuncia de Valga Viva sobre secretario, interventor y otras actuaciones municipales. Se mantiene separada de las asistencias de concejales. La noticia de abril de 2023 de Canal Rías Baixas presentó como resolución favorable unas declaraciones municipales sobre Cuentas; [Europa Press](https://www.europapress.es/galicia/noticia-fiscalia-tribunal-cuentas-ve-posible-responsabilidad-contable-dietas-valga-tres-ayuntamientos-mas-20230420175437.html) recoge después que la oposición cuestionaba su fecha y objeto y que existía un nuevo informe fiscal. Sin esos documentos no se concilian como una sentencia única ni se afirma el cierre de toda eventual responsabilidad contable.
+
+Se retira el supuesto archivo de 1 de enero de 2024, sin fuente, y la afirmación de que el PSOE gobernaba Valga en 2023. No se acredita una condena penal, pero tampoco una decisión final sobre todas las cuestiones contables. Al corte de 17 de octubre de 2026 siguen pendientes los autos penales originales, sus recursos y la evolución de las actuaciones del Tribunal de Cuentas; la ficha permanece incompleta.
