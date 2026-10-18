@@ -1,124 +1,114 @@
 ---
-nombre: "Caso Pujalte"
+nombre: Caso Pujalte
 partido: PP
-completado: true
+completado: false
 año: 2015
-fechaInicio: 2015-06-15
-fechaFin: 2018-05-28
-estado: sobreseimiento
-descripcion: |
-  El Caso Pujalte es una investigación judicial que afecta al exdiputado del PP Vicente Martínez Pujalte, investigado por presuntos delitos de falsedad documental y cohecho. La investigación se inició tras una denuncia presentada el 15 de junio de 2015 por la exsenadora del PP Ana Torme ante la Fiscalía de Valladolid, en la que acusaba a Martínez Pujalte, junto a Javier Gómez de la Serna, Gustavo de Arístegui y Alejandro Ballestero, de haberla engañado en operaciones comerciales a través de la consultora Sirga Siglo XXI, de la que ambos eran socios hasta 2011.
+fechaInicio: '2015-06-15'
+fechaFin: ''
+estado: Sobreseimiento provisional comunicado en mayo de 2018; firmeza posterior no cotejada
+descripcion: 'La investigación sobre la consultora Sirga XXI examinó si Vicente Martínez Pujalte y Ana Torme habían
+  cobrado por asesorías no realizadas mientras ejercían funciones parlamentarias. Se inició tras una denuncia de
+  Torme ante la Fiscalía de Valladolid en junio de 2015. La investigación pasó de Valladolid al Juzgado de Instrucción
+  n.º 49 de Madrid. Las sospechas de falsedad mercantil y cohecho no deben presentarse como delitos probados.
 
-  Según la denuncia de la Fiscalía de Valladolid presentada en mayo de 2016, Martínez Pujalte habría simulado la realización de trabajos inexistentes para diversas empresas mientras ejercía como diputado del PP, facturando exclusivamente a través de su consultora Sirga Siglo XXI. Entre estas empresas destacaba Collosa (Corporación Llorente), una constructora de Valladolid especializada en obra pública que pagó 75.000 euros a Sirga entre 2008 y 2009 por servicios de "asesoría estratégica empresarial" de los que, según la Fiscalía, no se aportó ningún informe y la asesoría era verbal, concluyendo el "carácter simulado en su integridad de las facturas". Durante ese mismo periodo, Collosa recibió contratos de la Junta de Castilla y León por valor de 134,4 millones de euros. La Agencia Tributaria detectó que Martínez Pujalte ingresó 3,5 millones de euros en 2015 que no correspondían a la facturación de Sirga XXI ni a su salario como diputado, y cuyo destino permanece desconocido. Además, Pujalte se contrató a sí mismo en su consultora para cobrar comisiones de hasta el 85% por los clientes que lograba captar.
 
-  La investigación implicó también a otros destacados miembros del PP: la exsenadora Ana Torme, el diputado Alejandro Llorente Muñoz (vicepresidente de Collosa), el exembajador de España en la India Gustavo de Arístegui, y el exdiputado Pedro Gómez de la Serna. El caso fue instruido por el Juzgado de Instrucción número 49 de Madrid. Finalmente, en mayo de 2018, la jueza archivó la causa al considerar que la Fiscalía solicitó el sobreseimiento por "indicios insuficientes" tras no encontrar pruebas concluyentes del carácter fraudulento de las facturas ni del delito de cohecho. La Fiscalía aceptó la versión de los investigados sobre la naturaleza de los informes y concluyó que no se había establecido la relación causal entre los pagos a Sirga y la obtención de subvenciones públicas por parte de las empresas.
+  En mayo de 2018 se comunicó el sobreseimiento provisional de la causa a petición de la Fiscalía. La información
+  de EFE explica que la instrucción no había aportado indicios suficientes de facturación simulada ni de una relación
+  entre los pagos y la obtención de ayudas públicas. Los servicios podían ser asesorías orales, los pagos estaban
+  documentados y declarados y no se acreditó que no se hubieran realizado. La noticia señalaba expresamente que
+  el auto era recurrible.
 
-resumen: "Exdiputado del PP investigado por facturar trabajos inexistentes a través de su consultora mientras era parlamentario"
-lugar: "Madrid, Valladolid"
+
+  Revisión parcial hasta el 17 de octubre de 2026: no se ha recuperado el auto original ni una resolución posterior
+  que acredite su firmeza. La prensa de 2018 distinguía de este archivo las diligencias de la Audiencia Nacional
+  relacionadas con empresas de Arístegui y Gómez de la Serna. No se extiende a estas el archivo de Madrid ni se
+  afirma que continúen abiertas actualmente sin verificar su evolución.'
+resumen: Investigación de las asesorías de Sirga XXI con sobreseimiento provisional comunicado en 2018; sin condena
+  acreditada
+lugar: Madrid y Valladolid
 tribunal:
-  - "Fiscalía de Valladolid"
-  - "Juzgado de Instrucción nº 49 de Madrid"
-numeroSentencia: ""
+- Juzgado de Instrucción n.º 5 de Valladolid
+- Juzgado de Instrucción n.º 49 de Madrid
+numeroSentencia: ''
 implicados:
-  - nombre: "Vicente Martínez Pujalte"
-    cargo: "Diputado del PP en el Congreso (2000-2015), copropietario de Sirga Siglo XXI"
-    rol: "Investigado por falsedad documental y cohecho por facturar trabajos inexistentes"
-
-  - nombre: "Ana María Torme Pardo"
-    cargo: "Exsenadora del PP, copropietaria de Sirga Siglo XXI hasta 2011"
-    rol: "Denunciante y posteriormente investigada por falsedad documental"
-
-  - nombre: "Alejandro Llorente Muñoz"
-    cargo: "Diputado del PP, vicepresidente de Construcciones Llorente SA (Collosa)"
-    rol: "Investigado por posible vinculación entre pagos a Sirga y contratos públicos"
-
-  - nombre: "Gustavo de Arístegui López-Brea"
-    cargo: "Exdiputado del PP, exembajador de España en la India"
-    rol: "Investigado por cohecho, blanqueo y organización criminal"
-
-  - nombre: "Pedro Gómez de la Serna Fernández"
-    cargo: "Exdiputado del PP"
-    rol: "Investigado por cohecho, blanqueo y organización criminal"
-
-  - nombre: "Alejandro Ballestero Díaz"
-    cargo: "Exdiputado del PP por Toledo"
-    rol: "Investigado como denunciado por Ana Torme en la denuncia inicial"
-
+- nombre: Vicente Martínez Pujalte
+  cargo: Exdiputado del PP y socio de Sirga XXI
+  rol: Investigado por presunta falsedad mercantil y cohecho. La causa del Juzgado n.º 49 fue sobreseída provisionalmente,
+    según EFE en mayo de 2018; firmeza y evolución posterior no cotejadas.
+- nombre: Ana Torme
+  cargo: Exparlamentaria del PP y exsocia de Sirga XXI
+  rol: Denunciante inicial en junio de 2015 y posteriormente investigada. El sobreseimiento provisional comunicado
+    en mayo de 2018 también la afectó, según las fuentes periodísticas.
+- nombre: Jaime Miguel Marín Cózar
+  cargo: Socio y asesor vinculado a Sirga, según la cobertura periodística
+  rol: SER lo identifica en mayo de 2018 como otro investigado y recoge la valoración fiscal de su limitada participación.
+    El auto original y el alcance individual de su sobreseimiento no se han cotejado.
 tags:
-  - "corrupción"
-  - "falsedad documental"
-  - "cohecho"
-  - "tráfico de influencias"
-  - "blanqueo de capitales"
-
-impactoSocial: "El caso reveló la práctica de exdiputados del PP que cobraban millonarias cantidades de empresas beneficiarias de contratos públicos a través de consultoras, facturando trabajos inexistentes o de dudosa justificación. La revelación de que Martínez Pujalte ingresó 3,5 millones de euros sin justificar mientras era diputado generó indignación por la posible incompatibilidad de funciones y el enriquecimiento irregular de un cargo público."
-
-documentos: null
-
+- asesorías
+- falsedad documental
+- cohecho
+- sobreseimiento provisional
+impactoSocial: La investigación suscitó debate sobre la actividad privada de los parlamentarios y la justificación
+  de servicios de asesoría. El resultado comunicado en 2018 obliga a distinguir esas sospechas de una facturación
+  delictiva probada.
+documentos: []
 cronologia:
-  - fecha: 2015-06-15
-    titulo: "Denuncia de Ana Torme ante la Fiscalía de Valladolid"
-    descripcion: "La exsenadora del PP Ana Torme presenta una denuncia ante la Fiscalía de Valladolid contra Vicente Martínez Pujalte, Javier Gómez de la Serna, Gustavo de Arístegui y Alejandro Ballestero, acusándolos de haberla engañado en operaciones comerciales relacionadas con la consultora Sirga Siglo XXI."
-    type: "denuncia"
-    urls:
-      - "https://www.elespanol.com/espana/20160510/123737780_0.html"
-
-  - fecha: 2016-04-22
-    titulo: "Revelación de pagos de constructoras a políticos del PP"
-    descripcion: "Medios de comunicación revelan que la constructora Collosa pagó 354.000 euros a Federico Trillo y 75.000 euros a Vicente Martínez Pujalte mientras ambos eran diputados del PP. Los pagos se realizaron a través de sus respectivas consultoras por servicios de asesoría."
-    type: "resumen"
-    urls:
-      - "https://www.libertaddigital.com/espana/politica/2015-04-22/federico-trillo-y-martinez-pujalte-cobraron-miles-de-euros-de-una-constructora-1276546270/"
-
-  - fecha: 2016-05-10
-    titulo: "La Fiscalía denuncia a Martínez Pujalte por falsedad y cohecho"
-    descripcion: "La Fiscalía de Valladolid presenta una denuncia formal contra Vicente Martínez Pujalte por presuntos delitos de falsedad de documento mercantil y cohecho. La fiscal jefa de Valladolid, Esther Pérez Jerez, acusa a Pujalte de simular pagos de diferentes empresas, entre ellas la vallisoletana Collosa, por trabajos inexistentes mientras ostentaba su escaño en el Congreso. La Fiscalía señala que no se aportaron informes que justificaran las facturas y concluye el carácter simulado de las mismas."
-    type: "denuncia"
-    urls:
-      - "https://www.elespanol.com/espana/20160510/123737780_0.html"
-      - "https://www.pressdigital.es/texto-diario/mostrar/441648/fiscalia-denuncia-ex-diputado-pp-vicente-martinez-pujalte-falsedad-cohecho"
-
-  - fecha: 2016-05-11
-    titulo: "Se revela que Mariano Rajoy conocía los pagos de Collosa a Pujalte"
-    descripcion: "Según información publicada por diversos medios, el entonces presidente del Gobierno Mariano Rajoy tenía conocimiento de que Vicente Martínez Pujalte cobraba de la empresa Collosa. Esta revelación aumenta la presión política sobre el caso."
-    type: "resumen"
-    urls:
-      - "https://prnoticias.com/2016/05/11/mariano-rajoy-conocia-que-martinez-pujalte-cobraba-de-collosa/"
-
-  - fecha: 2016-11-10
-    titulo: "Citación de investigados: Pujalte, Torme y otros"
-    descripcion: "El Juzgado de Instrucción número 49 de Madrid cita como investigados a Vicente Martínez Pujalte y Ana María Torme, así como a Alejandro Llorente Muñoz (diputado del PP y vicepresidente de Collosa), Gustavo de Arístegui, Pedro Gómez de la Serna y Alejandro Ballestero. A Arístegui y Gómez de la Serna se les investiga por delitos de corrupción en transacciones económicas internacionales, cohecho, blanqueo de capitales y organización criminal."
-    type: "imputación"
-    urls:
-      - "https://www.elespanol.com/espana/20160510/123737780_0.html"
-      - "https://ecodiario.eleconomista.es/noticias/noticias/7942705/11/16/La-Justicia-cita-como-investigados-a-Martinez-Pujalte-y-Ana-Torme.html"
-
-  - fecha: 2016-11-16
-    titulo: "Ana Torme acusa a Pujalte y afirma que fue engañada"
-    descripcion: "La exdiputada y exsenadora del PP Ana Torme comparece ante el Juzgado de Instrucción de Madrid y acusa a Vicente Martínez Pujalte de haberla engañado en las operaciones de la consultora Sirga. Torme insiste en que ella no cobraba por los trabajos que realizaba Pujalte y que desconocía la naturaleza real de las facturas."
-    type: "declaración"
-    urls:
-      - "https://www.libertaddigital.com/espana/2016-05-12/la-diputada-ana-torme-acusa-a-pujalte-y-dice-que-fue-enganada-1276573867/"
-      - "https://www.diariodevalladolid.es/castilla-y-leon/161124/123775/torme-insiste-juez-cobraba-pujalte.html"
-
-  - fecha: 2017-03
-    titulo: "Revelación de ingreso de 3,5 millones sin justificar"
-    descripcion: "Medios de comunicación revelan que Martínez Pujalte ingresó 3,5 millones de euros en un solo año mientras era diputado. Esta cantidad no aparecía en sus cuentas declaradas, no correspondía a la facturación de la consultora Sirga XXI ni a su salario como diputado, y la Agencia Tributaria no pudo determinar el destino de estos fondos."
-    type: "resumen"
-    urls:
-      - "https://www.publico.es/politica/martinez-pujalte-ingreso-3-5-millones-ano-era-diputado.html"
-
-  - fecha: 2017-09
-    titulo: "Publicación de autocontratos de Pujalte en su consultora"
-    descripcion: "El Diario publica una investigación revelando que Vicente Martínez Pujalte se contrató a sí mismo en su consultora Sirga para cobrar comisiones de hasta el 85% por los clientes que lograba captar. Esta práctica aumenta las sospechas sobre la legalidad de su actividad empresarial mientras ejercía como diputado."
-    type: "documento"
-    urls:
-      - "https://www.eldiario.es/politica/martinez-contrataba-consultora-contratos-conseguia_1_4001615.html"
-
-  - fecha: 2018-05-28
-    titulo: "Archivo de la causa por parte del Juzgado de Instrucción nº 49 de Madrid"
-    descripcion: "La jueza del Juzgado de Instrucción número 49 de Madrid archiva la causa contra Vicente Martínez Pujalte y el resto de investigados. La decisión se toma después de que la Fiscalía solicitara el sobreseimiento por considerar que no existen indicios suficientes de actividad fraudulenta en las facturas simuladas, no hay pruebas concluyentes del delito de cohecho, y no se estableció la relación causal entre los pagos a Sirga y la obtención de subvenciones públicas. La Fiscalía aceptó la versión de los investigados que defendían que los informes eran documentos de trabajo verbales. El archivo definitivo cierra el caso sin condenas."
-    type: "sentencia"
-    urls:
-      - "https://www.elindependiente.com/politica/2018/05/28/archivada-causa-contra-vicente-martinez-pujalte/"
+- fecha: '2015-06-15'
+  titulo: Denuncia inicial de Ana Torme
+  descripcion: La información de EFE sobre el archivo sitúa en esta fecha la denuncia de la exsocia ante la Fiscalía
+    de Valladolid, en la que sostuvo que había sido engañada. No se ha recuperado el escrito original.
+  urls:
+  - https://www.elindependiente.com/politica/2018/05/28/archivada-causa-contra-vicente-martinez-pujalte/
+  type: denuncia
+- fecha: '2016-05-10'
+  titulo: Información sobre la investigación y su traslado a Madrid
+  descripcion: El Español informó de que el Juzgado de Instrucción n.º 5 de Valladolid se había inhibido a favor
+    de Madrid. La noticia distingue la investigación de Sirga de la ya seguida en la Audiencia Nacional respecto
+    de Arístegui y Gómez de la Serna. La fecha es periodística, no la fecha exacta de la denuncia fiscal ni del
+    auto de inhibición.
+  urls:
+  - https://www.elespanol.com/espana/20160510/123737780_0.html
+  type: investigación
+- fecha: '2016-05-11'
+  titulo: Publicación de las condiciones de retribución en Sirga
+  descripcion: elDiario.es describió un acuerdo societario de noviembre de 2008 que permitía a Pujalte facturar
+    servicios propios con un máximo del 85% de cada factura. Se presenta como información sobre las alegaciones
+    de la denuncia y la actividad societaria, no como prueba de delito. Esta noticia no fue publicada en septiembre
+    de 2017, como figuraba antes.
+  urls:
+  - https://www.eldiario.es/politica/martinez-contrataba-consultora-contratos-conseguia_1_4001615.html
+  type: resumen
+- fecha: '2018-05-28'
+  titulo: Información sobre el sobreseimiento provisional
+  descripcion: EFE/El Independiente informó de que la jueza Josefa Bustos Manjón había acordado el sobreseimiento
+    provisional y archivo a petición fiscal, por insuficiencia de indicios. El auto se describía como no firme y
+    recurrible en reforma y apelación. El día corresponde a la publicación, sin atribuirlo como fecha interna del
+    auto.
+  urls:
+  - https://www.elindependiente.com/politica/2018/05/28/archivada-causa-contra-vicente-martinez-pujalte/
+  - https://cadenaser.com/ser/2018/05/28/tribunales/1527513801_548521.html
+  type: resumen
+- fecha: '2018-05-29'
+  titulo: Seguimiento de los fundamentos del archivo
+  descripcion: 'elDiario.es detalló la valoración fiscal: no se acreditó que las asesorías fueran inexistentes,
+    los pagos estaban declarados y no se estableció la finalidad delictiva atribuida inicialmente. La compatibilidad
+    parlamentaria referida en la noticia se recoge como información periodística, sin haber cotejado el expediente
+    parlamentario concreto.'
+  urls:
+  - https://www.eldiario.es/politica/asesorias-verbales-martinez-pujalte-archiva_1_2098954.html
+  type: resumen
 ---
+
+El [despacho de EFE publicado por El Independiente](https://www.elindependiente.com/politica/2018/05/28/archivada-causa-contra-vicente-martinez-pujalte/) califica el archivo como **sobreseimiento provisional**, y señala expresamente la posibilidad de reforma y apelación. No se sustituye por «archivo definitivo», sentencia absolutoria o declaración general de licitud de toda actividad empresarial. Se ha buscado el auto, pero no se ha obtenido: fecha exacta, número de diligencias, firmeza y recursos posteriores siguen pendientes. Por eso no se fija una fecha de fin judicial.
+
+La [información de elDiario.es sobre el archivo](https://www.eldiario.es/politica/asesorias-verbales-martinez-pujalte-archiva_1_2098954.html) permite corregir el relato anterior: la ausencia de informes escritos no bastaba para concluir que no existieran servicios, y la Fiscalía valoró los contratos, declaraciones y trazabilidad de pagos. No se mantienen en descripción o roles las asesorías inexistentes o el cohecho como hechos acreditados. Tampoco se identifica Fiscalía como un tribunal.
+
+La [noticia de SER de mayo de 2018](https://cadenaser.com/ser/2018/05/28/tribunales/1527513801_548521.html) distinguía el archivo del Juzgado 49 de otras investigaciones relacionadas con las sociedades Scardovi y Karistia, de Pedro Gómez de la Serna y Gustavo de Arístegui. No se traslada aquel estado procesal de 2018 a 2026 ni se atribuyen a esos empresarios o a Alejandro Ballestero delitos de otra causa dentro de esta ficha. Se retiran los roles heredados que mezclaban organización criminal, blanqueo y corrupción internacional con el expediente de Sirga.
+
+Se elimina la afirmación de que Pujalte ingresó 3,5 millones injustificados o de destino desconocido. La [información de Europa Press reproducida por Pressdigital](https://www.pressdigital.es/texto-diario/mostrar/547157/martinez-pujalte-dice-3-millones-ingreso-interpretacion-torticera-hacienda) recogió su impugnación: sostuvo que Hacienda había sumado repetidamente los mismos fondos al renovarse depósitos y transferirse entre sus cuentas. No se ha cotejado el informe tributario, la contestación original ni una resolución que zanje ese punto. La controversia no se convierte en daño público, cuota defraudada ni enriquecimiento probado.
+
+La remuneración por asesorías, el porcentaje máximo del 85% referido en la noticia de 2016 y el volumen de contratos públicos de clientes son conceptos diferentes. No se suman como perjuicio ni justifican incluir `coste`. Se retira asimismo la condición de diputado que se atribuía a un directivo de Collosa sin soporte suficiente en las fuentes cotejadas.
+
+Se suprimen fechas incompletas como «2017-03» y «2017-09» y eventos cuya fecha o alcance no se ha revalidado. El documento societario de 2008, las declaraciones de noviembre de 2016 y las primeras revelaciones de prensa requieren sus propias fechas, sin convertir el día de una noticia en la fecha de un acto judicial. La revisión permanece parcial a 17 de octubre de 2026. `documentos: []` señala la ausencia de originales judiciales verificables incorporados.
+
+La noticia de SER de mayo de 2018 menciona también como investigado a Jaime Miguel Marín Cózar y recoge la valoración fiscal de su limitada participación. Se añade con esa atribución nominal, sin certificar una resolución individual no recuperada. La cronología completa de otros clientes o profesionales que declararon como testigos o fueron investigados requiere sus propios autos; no se deduce de una relación comercial una condición penal.
