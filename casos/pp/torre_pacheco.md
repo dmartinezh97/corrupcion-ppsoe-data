@@ -3,9 +3,8 @@ nombre: Caso Torre Pacheco
 partido: PP
 completado: false
 año: 2005
-fechaInicio: '2014-07-22'
 fechaFin: ''
-estado: cerrado con condenas
+estado: Condenas confirmadas en casación
 descripcion: 'La ficha reúne dos procedimientos sobre adjudicaciones de proyectos técnicos sin tramitar los expedientes de contratación exigidos en Torre Pacheco. En el primero, la Audiencia de Murcia condenó el 22 de julio de 2014 a Daniel García Madrid, José Saura Meroño y Santiago Meroño León a diez años de inhabilitación por prevaricación administrativa continuada. Francisco Cavas García recibió cinco años y seis meses y Miguel Pérez Martínez seis años y seis meses, ambos como cómplices, no como cooperadores necesarios. El Supremo desestimó los recursos el 1 de julio de 2015.
 
 
@@ -14,7 +13,6 @@ descripcion: 'La ficha reúne dos procedimientos sobre adjudicaciones de proyect
 
   Los importes contractuales no se presentan como dinero sustraído ni daño probado. La dimisión se anunció en julio de 2014, no en 2013. Revisión parcial al 17 de octubre de 2026: se han recuperado ambas sentencias del Supremo, con lectura íntegra de la de 2022 y parcial de la de 2015; quedan pendientes la ejecución, eventuales actuaciones posteriores y la comprobación histórica completa. No se extiende este resultado a Camelot o a investigaciones sobre Polaris World.'
 resumen: Condenas por adjudicaciones de proyectos sin expediente, confirmadas por el Supremo en 2015 y 2022; importes contractuales distintos de daño patrimonial.
-coste: 0
 lugar: Torre Pacheco, Región de Murcia
 tribunal:
 - Juzgado de Instrucción n.º 6 de San Javier (procedimiento de 2014)
@@ -58,6 +56,13 @@ documentos:
   paginas: 9
   nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d076077137abb7bfa0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
+- fecha: '2013-03-01'
+  titulo: Apertura del segundo procedimiento
+  descripcion: La STS 630/2022 recoge que este procedimiento se incoó por auto de 1 de marzo de 2013, con aportación de documentos. Se refiere a las adjudicaciones examinadas en 2020, no a la fecha de apertura de la primera causa.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d076077137abb7bfa0a8778d75e36f0d&encode=true&databasematch=AN
 - fecha: '2014-07-22'
   titulo: Primera condena por prevaricación continuada
   descripcion: La Sección Quinta condena al alcalde y dos concejales a diez años de inhabilitación, al arquitecto Cavas a cinco años y seis meses y al interventor Pérez a seis años y seis meses como cómplices. El Supremo reproduce el fallo de esta fecha; la nota judicial identifica nominalmente a los cinco condenados.
@@ -99,13 +104,13 @@ cronologia:
   - https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html
 ---
 
-Esta revisión se centra en las **adjudicaciones de proyectos técnicos**. No mantiene como hechos de estas sentencias las imputaciones urbanísticas de 2008, las permutas con Polaris World ni la prisión provisional de Ramón Cabrera. Esos antecedentes requieren una revisión separada y no permiten presentar como condenado a quien solo figuraba investigado. La referencia inicial de la ficha al año 2008 no se usa para fechar este conjunto de condenas: el año 2005 identifica el comienzo del periodo de adjudicaciones del primer procedimiento, mientras `fechaInicio` señala la primera sentencia aquí cotejada, de 2014, no la apertura de su instrucción.
+Esta revisión se centra en las **adjudicaciones de proyectos técnicos**. No mantiene como hechos de estas sentencias las imputaciones urbanísticas de 2008, las permutas con Polaris World ni la prisión provisional de Ramón Cabrera. Esos antecedentes requieren una revisión separada y no permiten presentar como condenado a quien solo figuraba investigado. La referencia inicial de la ficha al año 2008 no se usa para fechar este conjunto de condenas: el año 2005 identifica el comienzo del periodo de adjudicaciones del primer procedimiento, sin fijar una fecha única de apertura para ambos procedimientos.
 
 Los dos [originales del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=95d9f1a2011a5814&encode=true&databasematch=AN) están anonimizados. Los nombres de los cinco condenados de 2014 proceden de la [nota judicial nominal](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Provincial-de-Murcia-condena-al-alcalde-de-Torre-Pacheco-y-dos-concejales-por-prevaricacion-administrativa-); los de los dos recurrentes de 2022 se contrastan con [elDiario.es](https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html), sin convertir seudónimos en identidades por inferencia. La sentencia de 2022 reproduce también seis absoluciones de instancia, pero esta ficha no les asigna identidades sin una fuente nominal contrastada.
 
 La [STS 630/2022](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d076077137abb7bfa0a8778d75e36f0d&encode=true&databasematch=AN) explica por qué los seis meses se añaden a la pena anterior: trata los hechos susceptibles de continuidad delictiva de manera unitaria y descuenta los diez años ya impuestos. No significa que se impusieran diez años nuevos en cada procedimiento. El fallo de 2022 dice que no cabe recurso; la firmeza de la condena anterior aparece expresamente mencionada en su fundamentación y antecedentes. Eso no equivale a acreditar ejecución, extinción o ausencia de actuaciones constitucionales posteriores.
 
-`coste: 0` indica que no se incorpora un daño patrimonial cuantificado. El primer original recoge **776.522 euros** de contratos, frente a los 776.500 redondeados de la ficha anterior; contiene además una discrepancia interna de transcripción en un pasaje, que no se resuelve convirtiendo ninguna cifra en daño. El segundo recoge **511.355,73 euros**. Son importes contractuales de procedimientos distintos, no indemnizaciones ni dinero declarado sustraído. No se suman entre sí ni a estimaciones de otras causas; tampoco se suman las costas.
+No se incorpora un daño patrimonial cuantificado. El primer original recoge **776.522 euros** de contratos, frente a los 776.500 redondeados de la ficha anterior; contiene además una discrepancia interna de transcripción en un pasaje, que no se resuelve convirtiendo ninguna cifra en daño. El segundo recoge **511.355,73 euros**. Son importes contractuales de procedimientos distintos, no indemnizaciones ni dinero declarado sustraído. No se suman entre sí ni a estimaciones de otras causas; tampoco se suman las costas.
 
 La noticia de [dimisión de julio de 2014](https://www.lasexta.com/noticias/nacional/alcalde-torre-pacheco-dimite-ser-condenado-prevaricacion_20140723572b2a606584a8e744e39e0e.html) corrige la afirmación heredada de 2013. Tampoco se adopta la referencia de otra noticia de 2015 a junio de 2014: la información contemporánea del anuncio es de 23 de julio. Falta cotejar el acta de toma de conocimiento por el pleno.
 
