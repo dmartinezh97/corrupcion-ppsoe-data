@@ -4,30 +4,28 @@ partido: "PP"
 completado: false
 año: 2014
 fechaFin: ""
-estado: "pendiente"
+estado: "Juicio concluido en enero de 2026; fallo posterior no documentado"
 descripcion: |
   La Trama Eólica de Castilla y León es una macrocausa por el presunto amaño de la tramitación de parques eólicos en la comunidad autónoma. Según la acusación recogida en los autos de instrucción, desde la Consejería de Economía se habría obligado a promotoras y eléctricas a dar entrada en el accionariado de los proyectos (una participación próxima al 40 %) a empresarios locales elegidos desde la propia Administración como condición para desbloquear las autorizaciones. La instrucción investigó hechos ocurridos, según las fuentes, entre 2000 y 2015 y llegó a abarcar casi un centenar de parques eólicos. El principal acusado es el exviceconsejero de Economía Rafael Delgado, a quien la acusación atribuye haber centralizado en su persona las autorizaciones mediante una instrucción de avocación.
 
   El origen de la investigación no tiene una fecha única acreditada en las fuentes consultadas: un informe de la Agencia Tributaria que algunas fuentes sitúan en 2012, el destape periodístico que elDiario.es fecha en 2015 y la querella de la Fiscalía Anticorrupción, presentada en 2017. No se ha podido fijar con precisión la fecha de apertura de la instrucción judicial, por lo que esta ficha omite fechaInicio. La instrucción correspondió al Juzgado de Instrucción nº 4 de Valladolid.
 
-  La instrucción se prolongó durante más de una década y sumó unos 11.000 folios. En noviembre de 2021 el instructor decretó la apertura de juicio oral contra 16 personas, con peticiones de pena que sumaban 138 años de cárcel y multas que las fuentes cifran por encima de 600 millones de euros (elDiario.es) o en unos 850 millones (Europa Press). El juicio se celebró en la Sección Cuarta de la Audiencia Provincial de Valladolid: arrancó el 15 de septiembre de 2025 —los dos primeros días se dedicaron a cuestiones previas y la prueba testifical comenzó el 6 de octubre— y quedó visto para sentencia el 21 de enero de 2026. El número de acusados pasó de 16 o 17 personas inicialmente encausadas a 14 o 15 al inicio de la vista, según se cuente o no a Carlos Galdón, apartado el 15 de septiembre al retirar cinco acusaciones particulares, y finalmente a 11, tras retirar la Fiscalía, la Abogacía del Estado y el resto de acusaciones los cargos contra César Hernández, Rafael Icaza y Pedro Barriuso el 7 de enero de 2026. Las fuentes no reconcilian del todo el cómputo.
+  La instrucción se prolongó durante más de una década y sumó unos 11.000 folios. En noviembre de 2021 el instructor decretó la apertura de juicio oral contra 16 personas, con peticiones de pena que sumaban 138 años de cárcel y multas que las fuentes cifran por encima de 600 millones de euros (elDiario.es) o en unos 850 millones (Europa Press). El juicio se celebró en la Sección Cuarta de la Audiencia Provincial de Valladolid: arrancó el 15 de septiembre de 2025 —los dos primeros días se dedicaron a cuestiones previas y la prueba testifical comenzó el 6 de octubre— y quedó visto para sentencia el 21 de enero de 2026. El número de acusados pasó de 16 o 17 personas inicialmente encausadas a 14 o 15 al inicio de la vista, según se cuente o no a Carlos Galdón, apartado el 15 de septiembre al retirar cinco acusaciones particulares, y finalmente a 11, tras retirar la Fiscalía, la Abogacía del Estado y el resto de acusaciones los cargos contra César Hernández, Rafael Icaza y Pedro Barriuso el 7 de enero de 2026. EFE, en su crónica del 21 de enero de 2026, reconcilia la secuencia como quince inicialmente, catorce tras la retirada contra Galdón y once al concluir; otras crónicas usan catorce como cifra inicial.
 
-  Las cantidades que se manejan son estimaciones de la acusación, no importes fijados judicialmente. La Fiscalía y la querella cifran en unos 75 millones de euros las mordidas (un informe de la Agencia Tributaria habló de más de 80 millones) y el destino final de ese dinero no quedó aclarado durante el juicio. La petición inicial para Rafael Delgado era de 42 años de cárcel y 239 millones de multa, reducida en enero de 2026 por la Abogacía del Estado a 36 años y 236 millones. Son peticiones de pena, no condenas.
+  Las cantidades que se manejan son estimaciones de la acusación, no importes fijados judicialmente. Se omite el campo coste porque no se ha localizado un daño patrimonial declarado probado. La Fiscalía y la querella cifran en unos 75 millones de euros las mordidas (un informe de la Agencia Tributaria habló de más de 80 millones) y el destino final de ese dinero no quedó aclarado durante el juicio. Las peticiones de pena requieren distinguir acusaciones y momentos: elDiario.es publicó en julio de 2026 una petición de 42 años de cárcel y 239 millones de multa para Delgado; EFE, al cerrar el juicio el 21 de enero, atribuyó al fiscal 36 años para Delgado y ocho años y medio para Rodríguez Recio. La reducción a 36 años y 236 millones descrita en enero por otras crónicas se atribuye a la Abogacía del Estado. Sin los escritos definitivos originales no se equiparan estas peticiones ni se fija una única suma vigente. Son solicitudes, no condenas.
 
-  Estado a 1 de octubre de 2026: no se ha localizado sentencia. La última información documentada es del 20-21 de julio de 2026 (elDiario.es), cuando, seis meses después de finalizar la vista, la Audiencia Provincial de Valladolid aún no se había pronunciado. La causa sigue pendiente de sentencia. Las cifras de mordidas estimadas, multas solicitadas e indemnizaciones civiles reclamadas corresponden a conceptos distintos y no deben sumarse. Existen otras dos fichas en el repositorio (eolica_valladolid.md y trama-solar.md) que describen el mismo proceso; sus importes no son acumulables.
+  Revisión con corte de 17 de octubre de 2026: no se ha localizado sentencia. La última información documentada es del 20-21 de julio de 2026 (elDiario.es), cuando, seis meses después de finalizar la vista, la Audiencia Provincial de Valladolid aún no se había pronunciado. El último estado acreditado por esa noticia es pendiente de sentencia; no se ha obtenido confirmación judicial de su situación posterior. Las cifras de mordidas estimadas, multas solicitadas e indemnizaciones civiles reclamadas corresponden a conceptos distintos y no deben sumarse. Existen otras dos fichas en el repositorio (eolica_valladolid.md y trama-solar.md) que describen el mismo proceso; sus importes no son acumulables.
 
-resumen: "Macrocausa por presuntas mordidas en la autorización de parques eólicos en Castilla y León; el juicio concluyó en enero de 2026 y sigue pendiente de sentencia."
-coste: 75000000
+resumen: "Macrocausa por presuntas mordidas en la autorización de parques eólicos en Castilla y León; el juicio concluyó en enero de 2026 y el fallo posterior no se ha verificado."
 lugar: "Castilla y León, España"
 tribunal:
   - "Audiencia Provincial de Valladolid (Sección Cuarta)"
   - "Juzgado de Instrucción nº 4 de Valladolid"
-  - "Fiscalía Anticorrupción"
 numeroSentencia: ""
 implicados:
   - nombre: "Rafael Delgado Núñez"
     cargo: "Exviceconsejero de Economía de la Junta de Castilla y León (2003-2007) y secretario general de la Consejería (2007-2011)"
-    rol: "Principal acusado. La Fiscalía pide para él 42 años de cárcel y 239 millones de multa, reducidos por la Abogacía del Estado en enero de 2026 a 36 años y 236 millones. La acusación le atribuye haber centralizado las autorizaciones eólicas mediante una instrucción de avocación. Fue condenado en 2025 en el caso Perla Negra."
+    rol: "Principal acusado. elDiario.es recoge una petición de 42 años y 239 millones; EFE atribuye al fiscal 36 años al terminar el juicio. Otras crónicas atribuyen a la Abogacía del Estado una petición de 36 años y 236 millones. Sin escritos definitivos, no se equiparan estas cifras. La acusación le atribuye haber centralizado las autorizaciones eólicas mediante una instrucción de avocación. Fue condenado en 2025 en el caso Perla Negra."
 
   - nombre: "Tomás Félix Villanueva Rodríguez"
     cargo: "Exconsejero de Economía (2003-2015) y exvicepresidente de la Junta de Castilla y León"
@@ -39,11 +37,11 @@ implicados:
 
   - nombre: "Carlos Galdón"
     cargo: "Empresario, administrador único de Avanzalia System"
-    rol: "Encausado únicamente por acusaciones particulares; quedó fuera del juicio el 15 de septiembre de 2025 al retirar cinco de ellas sus peticiones y declaró como testigo."
+    rol: "Encausado únicamente por acusaciones particulares; quedó fuera del juicio el 15 de septiembre de 2025 al retirar cinco de ellas sus peticiones y se admitió su citación como testigo; no se ha verificado aquí que llegara a declarar."
 
   - nombre: "Jesús Rodríguez Recio"
     cargo: "Abogado, señalado como presunto testaferro de Delgado"
-    rol: "Acusado. La Fiscalía pedía para él 10 años y medio de cárcel y más de 25 millones de multa."
+    rol: "Acusado. elDiario.es recoge diez años y medio y más de 25 millones de multa; EFE atribuye al fiscal ocho años y medio al cierre del juicio. No se han obtenido los escritos definitivos para resolver la diferencia."
 
   - nombre: "Alberto Esgueva Gutiérrez"
     cargo: "Empresario y exconsejero delegado de la sociedad pública de internacionalización de la Junta (2003-2006)"
@@ -62,7 +60,7 @@ implicados:
     rol: "Acusado hasta el 7 de enero de 2026, cuando la Fiscalía y el resto de acusaciones retiraron los cargos. La Fiscalía pedía 7 años de cárcel y unos 1,9 millones de multa."
 
   - nombre: "María del Mar Moreno Fernández"
-    cargo: "Empresaria, esposa de Alberto Esgueva"
+    cargo: "Empresaria; las crónicas la vinculan familiarmente con Alberto Esgueva"
     rol: "Acusada. La Fiscalía pedía 4 años de cárcel y 215.000 euros de multa."
 
   - nombre: "Patricio Llorente Muñoz"
@@ -103,7 +101,7 @@ tags:
   - "extorsión"
   - "organización criminal"
 
-impactoSocial: "Considerada por la Fiscalía y por buena parte de la prensa la mayor causa de corrupción de la historia de Castilla y León, la Trama Eólica afectó a la tramitación de autorizaciones de parques eólicos durante más de una década bajo gobiernos del PP. Comparte acusados con el caso Perla Negra y, a fecha de esta revisión, sigue pendiente de sentencia."
+impactoSocial: "Considerada por la Fiscalía y por buena parte de la prensa la mayor causa de corrupción de la historia de Castilla y León, la Trama Eólica afectó a la tramitación de autorizaciones de parques eólicos durante más de una década bajo gobiernos del PP. Comparte acusados con el caso Perla Negra y la última información verificada, de julio de 2026, señalaba que aún no había sentencia; no se ha comprobado su situación posterior."
 
 documentos:
   - fecha: "2020-11-06"
@@ -155,6 +153,7 @@ cronologia:
     descripcion: "Tras cuatro meses de vista, el juicio concluye con once acusados —frente a los 14 o 15 del inicio— y queda visto para sentencia; los que ejercen el derecho a la última palabra, entre ellos Rafael Delgado y Jesús Rodríguez Recio, piden la absolución. El tribunal no fija fecha para la resolución."
     type: "resumen"
     urls:
+      - "https://efe.com/castilla-y-leon/2026-01-21/visto-sentencia-juicio-eolicas-empezo-15-acusados-acaba-11/"
       - "https://www.eldiario.es/castilla-y-leon/tribunales/visto-sentencia-juicio-trama-eolica-exviceconsejero-junta-castilla-leon-acusado-pide-absolucion_1_12923972.html"
       - "https://www.eldiario.es/castilla-y-leon/tribunales/once-procesados-cuentas-monaco-empresarios-coaccionados-termina-juicio-trama-eolica-castilla-leon_1_12918228.html"
 
@@ -169,15 +168,17 @@ cronologia:
 ## Incertidumbres y límites de esta ficha
 
 ### Estado procesal
-A 1 de octubre de 2026 no se ha localizado sentencia de la Audiencia Provincial de Valladolid. El juicio quedó visto para sentencia el 21 de enero de 2026 y la última noticia documentada, de julio de 2026, indicaba que el tribunal aún no se había pronunciado. La ausencia de noticias posteriores no permite confirmar si la causa continúa en ese estado, si ya existe resolución o si esta es firme: lo único acreditado es que no se ha localizado una sentencia a la fecha de corte.
+A 17 de octubre de 2026 no se ha localizado sentencia de la Audiencia Provincial de Valladolid. El juicio quedó visto para sentencia el 21 de enero de 2026 y la última noticia documentada, de julio de 2026, indicaba que el tribunal aún no se había pronunciado. La ausencia de noticias posteriores no permite confirmar si la causa continúa en ese estado, si ya existe resolución o si esta es firme: lo único acreditado es que no se ha localizado una sentencia a la fecha de corte.
 
 ### Origen y fecha de inicio
 Las fuentes discrepan sobre el arranque de la investigación: informe de la Agencia Tributaria que algunas sitúan en 2012, apertura de la instrucción judicial sin fecha precisa, destape periodístico descrito en 2015 y querella de la Fiscalía Anticorrupción en 2017. No se ha podido fijar un día exacto para ninguno de esos hitos, por lo que el campo `fechaInicio` se ha omitido en lugar de usar una fecha de primer día de mes sin respaldo. La fecha de la instrucción de avocación que centralizó las autorizaciones también aparece con años distintos (2003 en unos relatos y 2004, como instrucción 2/2004, en la declaración judicial de Delgado).
 
 ### Número de acusados
-El cómputo no cuadra entre las fuentes. La causa llegó a tener 16 o 17 encausados; la apertura de juicio oral de noviembre de 2021 se dirigió contra 16. Al inicio de la vista, Europa Press y Cadena SER hablan de 14 acusados, mientras elDiario.es habla de 15. La diferencia parece explicarse porque Carlos Galdón, acusado solo por acusaciones particulares, fue apartado el 15 de septiembre de 2025 y unas fuentes lo cuentan y otras no. Al final quedaron 11. No se ha fijado una lista oficial definitiva de los once en una resolución publicada.
+El cómputo no cuadra entre las fuentes. La causa llegó a tener 16 o 17 encausados; la apertura de juicio oral de noviembre de 2021 se dirigió contra 16. Al inicio de la vista, Europa Press y Cadena SER hablan de 14 acusados, mientras elDiario.es habla de 15. La diferencia parece explicarse porque Carlos Galdón, acusado solo por acusaciones particulares, fue apartado el 15 de septiembre de 2025 y unas fuentes lo cuentan y otras no. Al final quedaron 11. EFE explica el 21 de enero de 2026 la secuencia quince-catorce-once, distinguiendo la exclusión de Galdón del posterior retiro contra tres acusados. No se ha fijado una lista oficial definitiva de los once en una resolución publicada.
 
 ### Cantidades
+Se omite `coste`: ni las presuntas mordidas ni las multas pedidas equivalen a daño patrimonial probado. EFE y elDiario.es difieren al atribuir las peticiones finales de Fiscalía para Delgado (36 frente a 42 años) y Rodríguez Recio (ocho años y medio frente a diez y medio); no se han localizado los escritos definitivos para resolverlo.
+
 Los 75 millones de euros son la estimación de mordidas de la Fiscalía y la querella; un informe de la Agencia Tributaria manejó más de 80 millones. No son un daño declarado judicialmente. Las peticiones de pena (inicialmente 138 años y multas que las fuentes cifran entre más de 600 y 850 millones) y las indemnizaciones civiles reclamadas por particulares —por ejemplo, hasta 184,3 millones reclamados por Augusta Wind— son conceptos distintos entre sí y no deben sumarse.
 
 ### Solapamiento con otras fichas
@@ -185,3 +186,5 @@ Los 75 millones de euros son la estimación de mordidas de la Fiscalía y la que
 
 ### Nombres
 Los nombres completos acreditados por la documentación parlamentaria y la prensa son Tomás Félix Villanueva Rodríguez, Alberto Esgueva Gutiérrez y Ricardo Bravo Sayas (este último figura así en el diario de la Comisión de Investigación de las Cortes de Castilla y León). Conviene no confundirlos con grafías alternativas que han circulado, como «Villanueva Herrero» o «Esgueva Renedo».
+
+El documento de las Cortes es el Diario de Sesiones n.º 225, de 6 de noviembre de 2020, de 17 páginas. Se han leído las páginas 1–3 y 17, no la totalidad de la comparecencia de Andrés Martín de Paz. Su testimonio parlamentario no constituye un fallo judicial ni acredita por sí solo los hechos discutidos en la causa penal.
