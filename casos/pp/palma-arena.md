@@ -57,7 +57,12 @@ tags:
 impactoSocial: La fragmentación de la investigación produjo numerosos juicios y resultados diferentes. El control
   de la contratación pública y la financiación electoral fue objeto de varias piezas, sin que las condenas permitan
   atribuir responsabilidad colectiva a todas las personas investigadas.
-documentos: []
+documentos:
+- fecha: '2013-07-15'
+  titulo: STS 657/2013, casación y segunda sentencia, con voto particular (PDF oficial; lectura parcial)
+  filetype: pdf
+  paginas: 124
+  nombre_fichero: https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia-Jaume%20Matas-Antonio%20Alemany.pdf
 cronologia:
 - fecha: '2012-03-19'
   titulo: Sentencia de instancia posteriormente modificada
@@ -109,7 +114,7 @@ cronologia:
   descripcion: elDiario.es publicó que Matas había salido en tercer grado penitenciario. La fecha corresponde a
     la información periodística y no sustituye una resolución penitenciaria cotejada; no se atribuye este régimen
     a una sola de sus condenas.
-  type: sentencia
+  type: ejecución
   urls:
   - https://www.eldiario.es/politica/jaume-matas-sale-tercer-grado-diez-juicios-anos-medio-rejas-acusacion-pendiente_1_6184207.html
 - fecha: '2022-07-11'
@@ -131,4 +136,4 @@ No se publica un coste global: el aumento del presupuesto de una obra no acredit
 
 La revisión no permite certificar el estado de todas las ejecutorias ni todas las condenas accesorias a 17 de octubre de 2026. Se han suprimido fechas de día exacto sin respaldo, el número de 42 investigados, la inclusión no revalidada de Bartolomé Vicens y las afirmaciones generales sobre siete ingresos en prisión o enriquecimiento personal. La ausencia de novedades localizadas no acredita firmeza ni cumplimiento íntegro de penas.
 
-La STS 657/2013 está disponible en el [PDF oficial del Poder Judicial](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia-Jaume%20Matas-Antonio%20Alemany.pdf); se cotejaron su cabecera y las páginas 91–97 sobre la casación y la segunda sentencia. No se ha leído íntegramente su fundamentación ni el voto particular. No se incorpora un fichero al repositorio: `documentos` permanece vacío.
+La STS 657/2013 está disponible en el [PDF oficial del Poder Judicial](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia-Jaume%20Matas-Antonio%20Alemany.pdf); se cotejaron su cabecera y las páginas 91–97 sobre la casación y la segunda sentencia. No se ha leído íntegramente su fundamentación ni el voto particular. Se enlaza el PDF oficial en `documentos`, con sus 124 páginas verificadas; no se incorpora una copia local al repositorio.
