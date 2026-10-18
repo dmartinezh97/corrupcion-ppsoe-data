@@ -56,6 +56,11 @@ tags:
 - exacciones ilegales
 impactoSocial: El proceso exigió distinguir posibles irregularidades administrativas de los requisitos de responsabilidad penal. Las absoluciones impiden presentar como acreditada la trama de facturas falsas descrita por la acusación.
 documentos:
+- fecha: '2009-06-01'
+  titulo: STS 586/2009 y segunda sentencia; absolución por el pleno urgente
+  filetype: pdf
+  paginas: 4
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=112fcdabe51d3775&encode=true&databasematch=AN
 - fecha: '2018-04-25'
   titulo: 'Tribunal Supremo: sentencia 196/2018 y segunda sentencia absolutoria (ECLI:ES:TS:2018:1614)'
   filetype: pdf
@@ -65,21 +70,22 @@ cronologia:
 - fecha: '2007-10-23'
   titulo: Detenciones de la operación Brisán
   descripcion: La información contemporánea da cuenta de las detenciones de dos exalcaldes, Luis Troya y técnicos municipales, y de la investigación judicial de posibles contrataciones con empresas vinculadas. Las sospechas iniciales no son un resultado judicial.
-  type: detencion
+  type: detención
   urls:
   - https://elpais.com/elpais/2007/10/23/actualidad/1193127421_850215.html
   relevancia: alta
-- fecha: '2009-06-10'
-  titulo: Se publica la absolución de Vega por el pleno urgente
-  descripcion: Europa Press informa de la absolución por el Supremo frente a los siete años de inhabilitación impuestos por la celebración de un pleno en diciembre de 2004. Esta causa es distinta del parterre y de la pieza de facturas. La fecha es la de la noticia; no se ha cotejado el original.
+- fecha: '2009-06-01'
+  titulo: Absolución de Vega por el pleno urgente
+  descripcion: La STS 586/2009 y su segunda sentencia anulan la condena de siete años de inhabilitación y absuelven del delito de prevaricación. Mantienen los hechos probados, pero consideran que la irregularidad formal de celebrar el pleno no basta para el delito. Es una causa distinta del parterre y de la pieza de facturas; Europa Press difundió la absolución el 10 de junio.
   type: sentencia
   urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=112fcdabe51d3775&encode=true&databasematch=AN
   - https://www.europapress.es/nacional/noticia-ts-absuelve-alcalde-santa-brigida-gran-canaria-pena-anos-inhabilitacion-prevaricar-20090610125242.html
   relevancia: alta
 - fecha: '2010-02-05'
   titulo: Se informa de la división de Brisán en cuatro piezas
   descripcion: Europa Press reproduce la división judicial en una pieza principal sobre Troya y Morales y las separadas de falsedades, Carmelo Vega y Saramema. El auto, según la noticia, era del 10 de octubre de 2009 y admitía recursos; el 5 de febrero es la fecha de difusión. No se atribuye a todas las piezas un mismo desenlace.
-  type: investigacion
+  type: investigación
   urls:
   - https://www.europapress.es/nacional/noticia-juez-caso-brisan-santa-brigida-gran-canaria-divide-investigacion-cuatro-piezas-20100205162440.html
   relevancia: alta
@@ -115,6 +121,6 @@ La [sentencia original del Supremo de 25 de abril de 2018](https://www.poderjudi
 
 En la [pieza de facturas de 2019](https://www.eldiario.es/canariasahora/tribunales/caso-brisan-absueltos-corrupcion-pp-santa-brigida-facturas-falsas_1_1330296.html), las cantidades reclamadas o facturadas no constituyen por sí mismas daño probado. La acusación atribuyó falsedades por 40.494,47 euros; la absolución rechazó que se acreditaran esas falsedades o suministros inexistentes. Se retiran los **808.220 euros** del campo de coste: la ficha heredada los presentaba como facturación total, no como pérdida patrimonial declarada judicialmente. `coste: 0` indica que esta revisión no aporta un daño económico cuantificado; no certifica la inexistencia de cualquier perjuicio en otras piezas.
 
-El antecedente del **parterre** necesita una comprobación documental adicional. La [información retrospectiva de 2016](https://www.eldiario.es/canariasahora/sociedad/fallece-carmelo-vega-santa-brigida_1_3950193.html) refiere la condena de Vega y Troya y la pena de nueve años de inhabilitación, pero no permite reconstruir con precisión la fecha ni todos los recursos. La fuente de Soitu heredada para el 25 de abril de 2008 trata realmente de **otra causa**, la del pleno urgente y una pena de siete años a Vega; [Europa Press informó en 2009 de su absolución](https://www.europapress.es/nacional/noticia-ts-absuelve-alcalde-santa-brigida-gran-canaria-pena-anos-inhabilitacion-prevaricar-20090610125242.html). No se confunden ambos resultados.
+El antecedente del **parterre** necesita una comprobación documental adicional. La [información retrospectiva de 2016](https://www.eldiario.es/canariasahora/sociedad/fallece-carmelo-vega-santa-brigida_1_3950193.html) refiere la condena de Vega y Troya y la pena de nueve años de inhabilitación, pero no permite reconstruir con precisión la fecha ni todos los recursos. La fuente de Soitu heredada para el 25 de abril de 2008 trata realmente de **otra causa**, la del pleno urgente y una pena de siete años a Vega; [Europa Press informó en 2009 de su absolución](https://www.europapress.es/nacional/noticia-ts-absuelve-alcalde-santa-brigida-gran-canaria-pena-anos-inhabilitacion-prevaricar-20090610125242.html). Se ha recuperado y leído íntegramente la [sentencia oficial 586/2009, de 1 de junio](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=112fcdabe51d3775&encode=true&databasematch=AN), de cuatro páginas con la segunda sentencia absolutoria. Mantiene el relato probado y considera atípica la decisión de celebrar el pleno, sin negar la irregularidad formal. La identificación nominal de Vega se contrasta con la crónica de Europa Press, sin deducir identidades de los seudónimos judiciales. No se confunden ambos resultados.
 
-La revisión con corte al **17 de octubre de 2026** permanece parcial: falta el original de la sentencia de 2019, comprobar los eventuales recursos de esa absolución y cerrar documentalmente las demás piezas y el antecedente del parterre. No se deduce firmeza por falta de noticias. `fechaFin` queda vacía. El documento remoto enlazado en `documentos` es el PDF judicial de 2018 comprobado mediante GET y lectura; sus metadatos de exportación de mayo no sustituyen la fecha judicial de abril.
+La revisión con corte al **17 de octubre de 2026** permanece parcial: falta el original de la sentencia de 2019, comprobar los eventuales recursos de esa absolución y cerrar documentalmente las demás piezas y el antecedente del parterre. No se deduce firmeza por falta de noticias. `fechaFin` queda vacía. Los documentos remotos enlazados son los PDF judiciales de 2009 y 2018 comprobados mediante GET y lectura; el de 2018 tiene nueve páginas y sus metadatos de exportación de mayo no sustituyen la fecha judicial de abril.
