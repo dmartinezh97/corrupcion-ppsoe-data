@@ -3,7 +3,7 @@ nombre: Caso Torrevieja
 partido: PP
 completado: false
 año: 2007
-estado: cerrado con condenas
+estado: Condena confirmada en casación
 descripcion: 'Pedro Ángel Hernández Mateo, alcalde de Torrevieja por el PP entre 1988 y 2011, fue condenado por
   falsedad en documento oficial y prevaricación continuada en la contratación municipal de recogida de residuos
   y limpieza. La sentencia del TSJCV de 30 de noviembre de 2012 fue confirmada por la STS 743/2013, de 11 de octubre.
@@ -26,7 +26,7 @@ lugar: Torrevieja, Alicante, Comunitat Valenciana
 tribunal:
 - Tribunal Superior de Justicia de la Comunitat Valenciana, Sala de lo Civil y Penal
 - Tribunal Supremo, Sala de lo Penal
-numeroSentencia: STS 743/2013, de 11 de octubre; casación 11/2013
+numeroSentencia: STS 743/2013, de 11 de octubre; casación 11/2013 (ECLI:ES:TS:2013:4949)
 implicados:
 - nombre: Pedro Ángel Hernández Mateo
   cargo: Alcalde de Torrevieja (PP) entre 1988 y 2011; posteriormente exdiputado autonómico
@@ -41,11 +41,10 @@ tags:
 - falsedad documental
 documentos:
 - fecha: '2013-10-11'
-  titulo: STS 743/2013. Casación 11/2013 sobre la contratación municipal de Torrevieja (copia judicial escaneada
-    en repositorio externo)
+  titulo: STS 743/2013. Casación 11/2013 sobre la contratación municipal de Torrevieja (original oficial)
   filetype: pdf
-  paginas: 41
-  nombre_fichero: https://losgenoveses.net/losincunables/Quinta%20entrega/Tribunal%20Supremo.Confirma%20sentencia%20alcalde%20Torrevieja.11.10.13.pdf
+  paginas: 17
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ec3e20fa25275f46&encode=true&databasematch=AN
 cronologia:
 - fecha: '2003-07-11'
   titulo: Convocatoria del concurso municipal
@@ -54,7 +53,7 @@ cronologia:
   type: investigacion
   relevancia: alta
   urls:
-  - https://losgenoveses.net/losincunables/Quinta%20entrega/Tribunal%20Supremo.Confirma%20sentencia%20alcalde%20Torrevieja.11.10.13.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ec3e20fa25275f46&encode=true&databasematch=AN
 - fecha: '2004-05-07'
   titulo: Adjudicación del servicio
   descripcion: La Junta de Gobierno Local acordó adjudicar conjuntamente a Necso y Grupo Generala el contrato. El
@@ -62,7 +61,7 @@ cronologia:
   type: investigacion
   relevancia: alta
   urls:
-  - https://losgenoveses.net/losincunables/Quinta%20entrega/Tribunal%20Supremo.Confirma%20sentencia%20alcalde%20Torrevieja.11.10.13.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ec3e20fa25275f46&encode=true&databasematch=AN
 - fecha: '2012-11-30'
   titulo: Condena del TSJCV
   descripcion: Sentencia condenatoria por falsedad y prevaricación continuada, reproducida en los antecedentes de
@@ -71,7 +70,7 @@ cronologia:
   type: sentencia
   relevancia: alta
   urls:
-  - https://losgenoveses.net/losincunables/Quinta%20entrega/Tribunal%20Supremo.Confirma%20sentencia%20alcalde%20Torrevieja.11.10.13.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ec3e20fa25275f46&encode=true&databasematch=AN
   - https://www.poderjudicial.es/cgpj/gl/Poder-Xudicial/Tribunais-Superiores-de-Xustiza/TSX-Comunidade-Valenciana/Sala-de-prensa/Comunicados-de-prensa/El-TSJCV-aprueba-el-licenciamiento-de-condena-del-exalcalde-de-Torrevieja
 - fecha: '2013-10-11'
   titulo: El Supremo desestima la casación
@@ -80,7 +79,7 @@ cronologia:
   type: recurso
   relevancia: alta
   urls:
-  - https://losgenoveses.net/losincunables/Quinta%20entrega/Tribunal%20Supremo.Confirma%20sentencia%20alcalde%20Torrevieja.11.10.13.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ec3e20fa25275f46&encode=true&databasematch=AN
 - fecha: '2013-12-11'
   titulo: Suspensión de prisión durante la tramitación del indulto
   descripcion: Europa Press informó de que el TSJCV suspendió la ejecución de la pena de cárcel mientras el Gobierno
@@ -126,7 +125,7 @@ La copia de la STS reproduce el fallo inicial con siete años de inhabilitación
 
 ## Alcance de las fuentes
 
-La STS 743/2013 se ha descargado como PDF escaneado de 41 páginas en un repositorio ajeno al Poder Judicial. Se han comprobado visualmente su portada y pasajes del fallo, y leído mediante OCR sus antecedentes y fallo; no se ha leído íntegramente toda su fundamentación. Las identidades de Hernández Mateo y Dolón están expresamente impresas, sin deducirlas de pseudónimos.
+Se ha recuperado el original oficial de la STS 743/2013, de 17 páginas. Se han leído la cabecera, los pasajes sobre convocatoria y adjudicación, el fallo de instancia y su aclaración, y el fallo de casación; no se ha leído íntegramente toda su fundamentación. La [copia judicial escaneada de 41 páginas](https://losgenoveses.net/losincunables/Quinta%20entrega/Tribunal%20Supremo.Confirma%20sentencia%20alcalde%20Torrevieja.11.10.13.pdf) contiene nombres expresos; la identidad de Hernández Mateo se corrobora además en la nota nominal del TSJCV, sin deducirla de pseudónimos.
 
 La nota del TSJCV de 22 de junio de 2017 acredita el anuncio del licenciamiento de prisión para el 28 de julio. Su mención de ingreso en 2013 discrepa de EFE, que señala el 30 de julio de 2014. Se requiere documentación de ejecución para resolverlo. No se conserva una fecha exacta de denuncia en enero de 2007, ni se equipara la fecha anunciada de excarcelación con el cierre de toda ejecución.
 
