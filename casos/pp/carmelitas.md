@@ -1,6 +1,6 @@
 ---
 nombre: "Caso Carmelitas"
-partido: "pp"
+partido: "PP"
 completado: false
 año: 1998
 fechaInicio: "1993-04-07"
