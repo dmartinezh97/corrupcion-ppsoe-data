@@ -1,145 +1,139 @@
 ---
-nombre: "Mar Menor Golf Resort"
+nombre: Mar Menor Golf Resort
 partido: PP
-completado: true
+completado: false
 año: 2008
-fechaInicio: 2007-02-01
-fechaFin: "2022-07-14"
-estado: "cerrado con condenas"
-descripcion: |
-  El caso Mar Menor Golf Resort documenta la permuta irregular de suelo público municipal realizada en febrero de 2007 por Daniel García Madrid, alcalde de Torre Pacheco (Murcia) por el PP, a favor de la promotora Polaris World, propietaria del complejo Mar Menor Golf Resort. García Madrid autorizó mediante decreto la cesión de un solar urbano municipal de 34.834 metros cuadrados, colindante con una urbanización de golf, a cambio de cuatro parcelas rústicas de secano de 52.000 metros cuadrados situadas en la periferia del municipio. La operación se realizó sin expediente administrativo previo, sin informes técnicos, económicos ni jurídicos que justificaran su necesidad por razones de interés público. Según tasaciones independientes encargadas por la Fiscalía, el daño al municipio se estimó entre cinco y seis millones de euros.
+fechaFin: ''
+estado: absolución en apelación; firmeza no verificada
+descripcion: 'Esta ficha se limita a la causa por la permuta de terrenos entre el Ayuntamiento de Torre Pacheco
+  (Murcia) y Mar Menor Golf Resort, sociedad de Polaris World. El resultado conocido es la absolución de Daniel
+  García Madrid en apelación, publicada el 20 de marzo de 2019: la Audiencia Provincial de Murcia, Sección Quinta,
+  con sede en Cartagena, revocó la condena a cinco años de inhabilitación que le había impuesto el Juzgado de lo
+  Penal número 2 de Cartagena en 2018. La noticia identifica expresamente la permuta y la sociedad, y Cadena SER
+  corroboró la revocación en febrero de 2020. No se ha obtenido el original de la apelación ni su fecha exacta o
+  constancia de firmeza; no se presenta la condena revocada como vigente.
 
-  La investigación judicial se inició tras la denuncia presentada por el periodista Chema Gil. El caso se encuadró dentro de una operación policial más amplia denominada "Operación Camelot", que investigaba una red de favoritismo hacia las empresas del constructor Facundo Armero en los municipios de Torre Pacheco y Fuente Álamo. En abril de 2008 García Madrid fue detenido y el juez del Juzgado de Instrucción número 3 de San Javier decretó prisión provisional para él. El arquitecto municipal Ramón Ángel Cabrera Sánchez fue investigado como posible cómplice pero resultó absuelto al no apreciarse connivencia entre ambos. En 2012 el juez sobreseyó las actuaciones contra los ejecutivos de Polaris World por falta de pruebas, manteniendo únicamente la imputación contra el alcalde. El juicio oral por la permuta se celebró ante el Juzgado de lo Penal número 2 de Cartagena, que el 17 de marzo de 2018 condenó a García Madrid a cinco años de inhabilitación especial para cargo o empleo público por prevaricación administrativa en su modalidad muy cualificada, declarando la nulidad absoluta de la escritura de permuta de 23 de mayo de 2007.
 
-  Paralelamente, el mismo alcalde y varios concejales fueron juzgados y condenados por la Audiencia Provincial de Murcia en una causa separada relativa a la adjudicación directa de contratos menores sin concurso público entre 2004 y 2007 por valor de más de 776.500 euros. En la sentencia de 22 de julio de 2014 la Audiencia Provincial de Murcia (Sección 5.ª) condenó a García Madrid, José Saura Meroño y Santiago Meroño León a diez años de inhabilitación especial por delito continuado de prevaricación administrativa. En 2020 una segunda condena añadió seis meses de inhabilitación adicionales por hechos similares, ratificada por el Tribunal Supremo el 14 de julio de 2022 con la calificación de "ilegal, burdo y grosero". García Madrid se vio obligado a dimitir como alcalde en julio de 2014, un año antes de concluir la legislatura, acumulando múltiples condenas firmes por corrupción durante su etapa al frente del consistorio.
-resumen: "Alcalde del PP en Torre Pacheco condenado por ceder suelo municipal a empresa de golf sin expediente administrativo, causando perjuicios de entre 5 y 6 millones de euros."
-coste: 6000000
-lugar: "Torre Pacheco, Región de Murcia"
+  La operación intercambiaba suelo urbano municipal por terrenos rústicos de la promotora. La información de La
+  Verdad de 2019 describe aproximadamente 34.800 m² municipales y 53.000 m² privados, y tasaciones de casi 2,9 y
+  2,4 millones de euros, respectivamente. Son superficies y valoraciones recogidas por la prensa, no un daño judicialmente
+  reconocido. No se ha cotejado la escritura ni las periciales originales, por lo que se retiran la precisión heredada
+  de 52.000 m² y la supuesta pérdida probada de cinco a seis millones. La noticia sitúa una providencia inicial
+  en septiembre de 2006 y la escritura en 2007; la información de ORM sobre la sentencia identifica la escritura
+  como de 23 de mayo de 2007. No se conserva el 1 de febrero de 2007 como fecha exacta de inicio, que no está revalidada.
+
+
+  En abril de 2008 fue detenido García Madrid, entonces alcalde del PP. La información contemporánea sobre su prisión
+  provisional identifica al Juzgado de Primera Instancia e Instrucción número 4 de San Javier, no al número 3 que
+  figuraba en la ficha. El 29 de abril se informó de que la Audiencia ordenó su libertad y la del arquitecto municipal.
+  Estas medidas cautelares no eran condenas. El arquitecto Ramón Ángel Cabrera Sánchez resultó absuelto de prevaricación
+  y fraude en la sentencia de primera instancia de 2018.
+
+
+  ORM informó el 19 de febrero de 2018 de la notificación de la condena no firme al exalcalde por prevaricación
+  y de la nulidad de la escritura. Esa fecha corresponde a la noticia y notificación relatada, no acredita por sí
+  sola el día de la firma de la sentencia; se corrige el 17 de marzo de 2018 heredado. La misma información señalaba
+  que no se había acreditado connivencia con el arquitecto ni perjuicio para los intereses municipales. Según La
+  Verdad, la Audiencia apreció después que el relato de la sentencia no describía una conducta delictiva concreta
+  y contenía contradicciones, y absolvió al exalcalde. Sin el fallo original de apelación no se precisa el alcance
+  de sus pronunciamientos sobre la nulidad de la escritura ni su situación registral posterior.
+
+
+  Las condenas por adjudicaciones de proyectos a profesionales —la causa conocida como Pixel y la posterior de quince
+  contratos— son procedimientos distintos, documentados en Camelot. Sus penas, importes y fechas de casación no
+  se trasladan a esta permuta. La sentencia del Supremo difundida en julio de 2022 no acredita una condena por Mar
+  Menor Golf Resort. No se agregan las penas de causas distintas ni se computan precios contractuales o tasaciones
+  como coste de corrupción.'
+resumen: 'Permuta de terrenos municipales con una sociedad de Polaris World en Torre Pacheco: la condena de 2018
+  al exalcalde fue revocada y sustituida por absolución en apelación, según prensa de marzo de 2019. Original y
+  firmeza pendientes de verificar.'
+lugar: Torre Pacheco, Región de Murcia
 tribunal:
-  - "Juzgado de lo Penal nº 2 de Cartagena (permuta Mar Menor Golf Resort)"
-  - "Audiencia Provincial de Murcia, Sección 5.ª (adjudicaciones a dedo)"
-  - "Tribunal Supremo (ratificación condena adjudicaciones)"
-numeroSentencia: ""
+- Juzgado de Primera Instancia e Instrucción número 4 de San Javier (instrucción, según prensa contemporánea)
+- Juzgado de lo Penal número 2 de Cartagena (primera instancia, 2018)
+- Audiencia Provincial de Murcia, Sección Quinta, sede en Cartagena (absolución en apelación publicada en 2019)
+numeroSentencia: ''
 implicados:
-  - nombre: "Daniel García Madrid"
-    cargo: "Alcalde de Torre Pacheco (PP) 2003-2014"
-    rol: "Condenado por prevaricación; autorizó permuta irregular de suelo municipal"
-
-  - nombre: "Ramón Ángel Cabrera Sánchez"
-    cargo: "Arquitecto municipal de Torre Pacheco"
-    rol: "Investigado como cómplice en la permuta; absuelto por falta de pruebas"
-
-  - nombre: "José Saura Meroño"
-    cargo: "Concejal del Ayuntamiento de Torre Pacheco (PP)"
-    rol: "Condenado a 10 años de inhabilitación por prevaricación continuada"
-
-  - nombre: "Santiago Meroño León"
-    cargo: "Concejal de Urbanismo del Ayuntamiento de Torre Pacheco (PP)"
-    rol: "Condenado a 10 años de inhabilitación por prevaricación y adjudicaciones a dedo"
-
-  - nombre: "Francisco Cavas García"
-    cargo: "Administrador único de empresa contratista P.A. S.L."
-    rol: "Condenado como cómplice de prevaricación; 5 años y 6 meses de inhabilitación"
-
-  - nombre: "Miguel Pérez Martínez"
-    cargo: "Interventor municipal del Ayuntamiento de Torre Pacheco"
-    rol: "Condenado como cómplice; 6 años y 6 meses de inhabilitación, separado del cargo"
-
-  - nombre: "José Luis Hernández de Arce"
-    cargo: "Presidente del grupo empresarial Polaris World"
-    rol: "Investigado por la permuta del solar; sobreseído en 2012 por falta de pruebas"
-
+- nombre: Daniel García Madrid
+  cargo: Alcalde de Torre Pacheco por el PP durante los hechos
+  rol: Condenado inicialmente a cinco años de inhabilitación en 2018; condena revocada y absuelto en apelación según
+    noticia de 20 de marzo de 2019. Firmeza no verificada.
+- nombre: Ramón Ángel Cabrera Sánchez
+  cargo: Arquitecto municipal de Torre Pacheco durante los hechos, según la información judicial reproducida por
+    ORM
+  rol: Acusado y absuelto de prevaricación y fraude en primera instancia en 2018. No se le atribuyen condenas de
+    otras piezas.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "urbanismo"
-  - "malversación"
-  - "adjudicaciones irregulares"
-
-impactoSocial: "El caso evidenció la connivencia entre el gobierno municipal del PP en Torre Pacheco y la promotora Polaris World durante el boom inmobiliario en la costa murciana, con pérdidas millonarias para el erario público y múltiples condenas firmes que obligaron a la dimisión del alcalde."
-
+- urbanismo
+- permuta de terrenos
+- prevaricación
+- absolución
+impactoSocial: La operación fue objeto de investigación y atención periodística. La absolución de 2019 obliga a
+  distinguir esta permuta de otras causas contra responsables municipales; no se acredita aquí pérdida patrimonial
+  ni efecto electoral concreto.
 documentos: []
-
 cronologia:
-  - fecha: 2007-02-01
-    titulo: "Permuta irregular del solar municipal con Mar Menor Golf Resort"
-    descripcion: "El alcalde Daniel García Madrid autoriza mediante decreto la permuta de un solar urbano municipal de 34.834 m² colindante con el complejo Mar Menor Golf Resort de Polaris World por cuatro parcelas rústicas de secano de 52.000 m² situadas en la periferia del municipio. La operación se formaliza sin expediente administrativo previo ni informe técnico, económico o jurídico alguno que acredite el interés público de la misma. Según tasaciones de la Fiscalía, la diferencia de valor entre los terrenos cedidos y los recibidos causó al municipio un perjuicio de entre 5 y 6 millones de euros."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Mar+Menor+Golf+Resort&amp=&numero=409"
-      - "https://www.sduran.es/ultimo-pelotazo-urbanistico-torre-pacheco-por-santiago-duran/"
-
-  - fecha: 2007-05-23
-    titulo: "Firma de la escritura pública de permuta"
-    descripcion: "Se formaliza ante notario la escritura pública de permuta entre el Ayuntamiento de Torre Pacheco y Mar Menor Golf Resort (Polaris World) con fecha de 23 de mayo de 2007. Esta escritura sería declarada nula de pleno derecho por el Juzgado de lo Penal nº 2 de Cartagena en su sentencia de 2018."
-    type: "documento"
-    urls:
-      - "https://www.orm.es/informativos/noticias-2018/condenado-a-5-anos-de-inhabilitacion-el-exalcalde-de-torre-pacheco-daniel-garcia-madrid-por-prevaricacion/"
-
-  - fecha: 2008-04-03
-    titulo: "Detención del alcalde Daniel García Madrid"
-    descripcion: "En el marco de la 'Operación Camelot', agentes detienen al alcalde de Torre Pacheco Daniel García Madrid cuando se dirigía a primera hora de la mañana desde su domicilio al Ayuntamiento. También son investigados José Luis Hernández de Arce, presidente de Polaris World, y Juan Marcos Fernández Ferrugia, exdirector financiero del grupo. García Madrid se niega a declarar ante el juez de instrucción. Los delitos investigados incluían negociaciones prohibidas a funcionarios, fraude, malversación, tráfico de influencias, cohecho, prevaricación y revelación de secretos."
-    type: "detención"
-    urls:
-      - "https://www.publico.es/espana/detenido-alcalde-torre-pacheco-presunta-corrupcion-urbanistica.html"
-      - "https://www.eleconomista.es/legislacion/noticias/453692/04/08/El-alcalde-de-Torre-Pacheco-detenido-por-presunta-corrupcion-urbanistica-se-niega-a-declarar-juez.html"
-
-  - fecha: 2008-04-04
-    titulo: "Prisión provisional para el alcalde de Torre Pacheco"
-    descripcion: "El juez del Juzgado de Instrucción nº 3 de San Javier decreta prisión provisional sin fianza para el alcalde Daniel García Madrid en el marco de la investigación por corrupción urbanística. Esta medida cautelar se adopta durante la instrucción de la causa y García Madrid permanece encarcelado durante la fase de investigación."
-    type: "detención"
-    urls:
-      - "https://www.somosmas-jm.blogspot.com/2008/04/detienen-al-alcalde-de-torre-pacheco.html"
-
-  - fecha: 2012-01-25
-    titulo: "Sobreseimiento para los ejecutivos de Polaris World"
-    descripcion: "El juez del Juzgado de Instrucción nº 4 de San Javier sobresee las actuaciones contra los ejecutivos y empleados de Polaris World por falta de indicios suficientes de participación criminal, manteniendo únicamente la imputación contra el alcalde García Madrid y el arquitecto municipal Cabrera Sánchez, quienes recurren el auto de procesamiento."
-    type: "investigación"
-    urls:
-      - "https://zarangollo.com/2012/01/25/el-alcalde-de-torre-pacheco-aun-imputado-por-la-permuta-con-polaris-world/"
-
-  - fecha: 2014-07-22
-    titulo: "Primera condena: 10 años de inhabilitación por adjudicaciones a dedo"
-    descripcion: "La Audiencia Provincial de Murcia (Sección 5.ª) condena a Daniel García Madrid, José Saura Meroño y Santiago Meroño León a diez años de inhabilitación especial por un delito continuado de prevaricación administrativa, por haber adjudicado directamente proyectos de obras por valor superior a 776.500 euros sin seguir ningún procedimiento de concurrencia competitiva entre 2004 y 2007. También son condenados Francisco Cavas García (5 años y 6 meses como cómplice) y Miguel Pérez Martínez, interventor municipal (6 años y 6 meses como cómplice, con separación definitiva del cargo)."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder_Judicial/Noticias_Judiciales/La_Audiencia_Provincial_de_Murcia_condena_al_alcalde_de_Torre_Pacheco_y_dos_concejales_por_prevaricacion_administrativa_"
-      - "https://www.murciaconfidencial.es/2014/07/blog-post_587.html?m=1"
-
-  - fecha: 2014-07-01
-    titulo: "Dimisión del alcalde García Madrid"
-    descripcion: "Tras hacerse pública la condena y ante la acumulación de causas judiciales, Daniel García Madrid dimite como alcalde de Torre Pacheco, un año antes de que concluyese la legislatura. El PP califica su decisión de 'correcta' y señala que 'peleará por su inocencia'. García Madrid había sido alcalde del municipio desde 2003."
-    type: "resumen"
-    urls:
-      - "https://ecodiario.eleconomista.es/politica-eD/noticias/5962650/07/14/PP-ve-correcta-la-decision-de-dimision-del-alcalde-de-Torre-Pacheco-Murcia-y-ve-bien-que-pelee-por-su-inocencia.html"
-
-  - fecha: 2018-03-17
-    titulo: "Condena por la permuta con Mar Menor Golf Resort: 5 años de inhabilitación"
-    descripcion: "El Juzgado de lo Penal nº 2 de Cartagena condena a Daniel García Madrid a cinco años de inhabilitación especial para cargo o empleo público por prevaricación administrativa en modalidad muy cualificada, por haber autorizado en 2007 la permuta de un solar urbano municipal por cuatro parcelas rústicas de Polaris World sin ningún trámite administrativo previo. El tribunal declara la nulidad absoluta de la escritura de permuta de 23 de mayo de 2007. El arquitecto municipal Ramón Ángel Cabrera Sánchez es absuelto al no apreciarse connivencia. La sentencia no es firme y admite recurso de apelación. La dilación indebida del proceso es apreciada como circunstancia atenuante."
-    type: "sentencia"
-    urls:
-      - "https://www.orm.es/informativos/noticias-2018/condenado-a-5-anos-de-inhabilitacion-el-exalcalde-de-torre-pacheco-daniel-garcia-madrid-por-prevaricacion/"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Mar+Menor+Golf+Resort&amp=&numero=409"
-
-  - fecha: 2020-02-05
-    titulo: "Inicio del juicio oral por segunda causa de adjudicaciones irregulares"
-    descripcion: "Comienza ante la Sección 5.ª de la Audiencia Provincial de Cartagena el juicio oral contra Daniel García Madrid, Santiago Meroño y el interventor Miguel Pérez, junto a cinco arquitectos, por la adjudicación verbal y directa de contratos de redacción de proyectos de obras entre 2004 y 2007. La defensa plantea sin éxito cuestiones previas de cosa juzgada y prescripción. García Madrid traslada la responsabilidad a los funcionarios municipales."
-    type: "declaración"
-    urls:
-      - "https://www.orm.es/informativos/noticias-2020/comienza-el-juicio-contra-el-exalcalde-de-torre-pacheco-daniel-garcia-madrid/"
-
-  - fecha: 2020-02-27
-    titulo: "Segunda condena: 6 meses adicionales de inhabilitación"
-    descripcion: "La Audiencia Provincial de Murcia dicta nueva condena contra Daniel García Madrid y Santiago Meroño León por un segundo delito continuado de prevaricación administrativa, añadiendo seis meses de inhabilitación especial por las adjudicaciones verbales y directas de contratos a arquitectos por valor de más de 511.355 euros. Los arquitectos acusados resultan absueltos al no probarse su connivencia en la irregularidad procedimental."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/murcia/politica/nueva-condena-exalcalde-torre-pacheco-prevaricacion_1_1111923.html"
-
-  - fecha: 2022-07-14
-    titulo: "Tribunal Supremo ratifica la condena por adjudicaciones a dedo"
-    descripcion: "El Tribunal Supremo confirma la sentencia de la Audiencia Provincial contra Daniel García Madrid y Santiago Meroño León, ratificando los seis meses adicionales de inhabilitación por prevaricación administrativa continuada. El Supremo califica el método de adjudicación utilizado como 'ilegal, burdo y grosero', realizado incluso de forma verbal —expresamente prohibida por la ley— y con 'plena conciencia de ilegalidad' por parte de los acusados."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html"
-      - "https://www.poderjudicial.es/cgpj/en/Judiciary/High-Courts-of-Justice/HCJ-Region-of-Murcia/HCJ-Judicial-News-Region-of-Murcia/Condenan-al-exalcalde-y-a-un-exconcejal-de-Torre-Pacheco--Murcia--por-la-adjudicacion-de-contratos-a-dedo"
+- fecha: '2007-05-23'
+  titulo: Escritura de permuta, según la información sobre la sentencia
+  descripcion: ORM identifica esta fecha como la de la escritura cuya nulidad declaró la primera instancia en 2018.
+    La sentencia condenatoria fue revocada en 2019; no se ha cotejado la escritura ni el pronunciamiento civil del
+    fallo de apelación.
+  type: documento
+  relevancia: alta
+  urls:
+  - https://www.orm.es/informativos/noticias-2018/condenado-a-5-anos-de-inhabilitacion-el-exalcalde-de-torre-pacheco-daniel-garcia-madrid-por-prevaricacion/
+- fecha: '2008-04-03'
+  titulo: Detención del alcalde de Torre Pacheco
+  descripcion: Público informa ese día de la detención de Daniel García Madrid en una investigación por presunta
+    corrupción urbanística y trato de favor. No equivale a declaración de culpabilidad.
+  type: detención
+  relevancia: alta
+  urls:
+  - https://www.publico.es/espana/detenido-alcalde-torre-pacheco-presunta-corrupcion-urbanistica.html
+- fecha: '2008-04-04'
+  titulo: Se publica la prisión provisional del alcalde
+  descripcion: La noticia publicada el 4 de abril dice que el juez del número 4 de San Javier ordenó la prisión
+    durante esas diligencias. La fecha de esta entrada es la de publicación, no la del auto original, que no se ha obtenido.
+  type: detención
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/la-rioja/prision-provisional-sin-fianza-para-el-alcalde-de-torre-pacheco_1_11012892.amp.html
+- fecha: '2008-04-29'
+  titulo: La Audiencia ordena la libertad del alcalde y del arquitecto
+  descripcion: El Imparcial informa de que la Audiencia estimó los recursos de Daniel García Madrid y Ramón Cabrera,
+    en prisión desde principios de abril por la investigación de la permuta. La puesta en libertad era una decisión
+    cautelar.
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://www.elimparcial.es/noticia/12071/nacional/el-alcalde-de-torre-pacheco-y-el-arquitecto-municipal-en-libertad.html
+- fecha: '2018-02-19'
+  titulo: Se informa de la condena inicial y de la absolución del arquitecto
+  descripcion: 'ORM informa de la notificación de la sentencia del Penal 2 de Cartagena: cinco años de inhabilitación
+    especial para Daniel García Madrid por prevaricación y absolución de Ramón Ángel Cabrera Sánchez de prevaricación
+    y fraude. La resolución no era firme y declaraba la nulidad de la escritura. La condena al exalcalde fue revocada
+    en apelación en 2019.'
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.orm.es/informativos/noticias-2018/condenado-a-5-anos-de-inhabilitacion-el-exalcalde-de-torre-pacheco-daniel-garcia-madrid-por-prevaricacion/
+- fecha: '2019-03-20'
+  titulo: Se publica la absolución del exalcalde en apelación
+  descripcion: La Verdad informa de que la Sección Quinta de la Audiencia Provincial revoca la condena de cinco
+    años de inhabilitación por la permuta con Mar Menor Golf Resort y absuelve a García Madrid. La fecha es de publicación;
+    faltan el original, número y día exacto de la sentencia y verificación de firmeza. Cadena SER corroboró la revocación
+    en febrero de 2020 al informar de otro juicio.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.laverdad.es/murcia/otros-municipios/audiencia-absuelve-exalcalde-20190320130016-nt.html
+  - https://cadenaser.com/emisora/2020/02/05/radio_murcia/1580897319_632988.html
 ---
+
+## Alcance y pendientes de la revisión
+
+Revisión a 17 de octubre de 2026. Se han leído las informaciones contemporáneas enlazadas sobre la condena de 2018 y su revocación en 2019. El nexo entre ambas se apoya en la identificación expresa de la permuta, sociedad, condenado, juzgado y pena; la corroboración de SER de 2020 no se confunde con una nueva resolución de esta causa. Los nombres proceden de fuentes nominales, no de equivalencias con seudónimos judiciales.
+
+No se han recuperado los originales de las sentencias de esta permuta, de los autos de instrucción ni de las periciales. Por eso se mantiene `documentos: []` y la revisión documental permanece incompleta. Quedan pendientes la fecha y firmeza de la absolución, sus efectos civiles y registrales y cualquier resolución posterior que los modifique; no se infiere su ausencia a partir del silencio de las búsquedas.
+
+Se retiran de esta ficha los implicados, condenas y cronología de Pixel y de los quince contratos. Tampoco se mantienen como hechos acreditados la denuncia nominal atribuida a Chema Gil ni el archivo de 2012 respecto de seis directivos y empleados de Polaris: las referencias heredadas remiten a blogs y no se han revalidado sus autos o una fuente contemporánea suficiente. Esto no afirma que esos actos no existieran. Las fechas exactas y números de juzgado heredados se corrigen o se dejan pendientes donde no se dispone del original.
