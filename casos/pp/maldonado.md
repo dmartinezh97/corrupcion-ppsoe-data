@@ -1,93 +1,98 @@
 ---
 nombre: "Caso Maldonado"
 partido: PP
-completado: true
+completado: false
 año: 2005
-fechaInicio: 2005-08-22
-fechaFin: 2018-12-31
-estado: "archivado"
+fechaFin: ""
+estado: "absolución por el Tribunal Supremo"
 descripcion: |
-  El Caso Maldonado implica al exalcalde de Gójar (Granada), Francisco Javier Maldonado Escobar, del PP, investigado y condenado inicialmente por prevaricación urbanística y tráfico de influencias. Los hechos se remontan a agosto de 2005, cuando Maldonado, como alcalde de Gójar, suscribió un convenio de gestión urbanística con la entidad Cavifer, en la que su hermano Fernando era administrador mancomunado, omitiendo deliberadamente que parte de los terrenos afectados eran suelo urbano no consolidado.
+  La causa examinó el convenio urbanístico de 22 de agosto de 2005 entre el Ayuntamiento de Gójar (Granada) y Cavifer, vinculada a un hermano del entonces alcalde del PP Francisco Javier Maldonado Escobar, y la licencia para construir dos edificios de viviendas, locales y aparcamientos. La Fiscalía sostuvo que se había favorecido a la promotora; esas imputaciones no se presentan como delitos finalmente acreditados.
 
-  La investigación se centró en la construcción de una promoción de viviendas irregular impulsada por una firma participada por el hermano del exalcalde. La Audiencia Provincial de Granada condenó a Francisco Javier Maldonado a un año de prisión y 17 años de inhabilitación para cargo público por delitos de prevaricación continuada, prevaricación urbanística y tráfico de influencias. Tras conocer la sentencia en julio de 2017, Maldonado dimitió como alcalde y solicitó la suspensión cautelar de militancia en el PP. El coste estimado del caso asciende a aproximadamente 321.350 euros en perjuicio al erario público.
+  La Sección Primera de la Audiencia Provincial de Granada dictó sentencia el 6 de julio de 2017: condenó al alcalde a nueve años de inhabilitación por prevaricación administrativa y a ocho años de inhabilitación y un año de prisión por prevaricación urbanística. Lo absolvió ya en instancia del tráfico de influencias. También condenó al hermano, al secretario habilitado y al técnico municipal por distintos delitos. La dimisión del alcalde se produjo el 10 de julio de 2017 según la crónica de Europa Press reproducida el 1 de agosto, día en que José Joaquín Prieto fue elegido nuevo alcalde con apoyo de PSOE, Ciudadanos, IU y Asamblea Ciudadana de Gójar.
 
-  Sin embargo, el Tribunal Supremo revocó en 2018 la condena dictada por la Audiencia de Granada y absolvió a Francisco Javier Maldonado de todos los delitos. El Alto Tribunal consideró que no se había acreditado de forma suficiente cuál fue la resolución prevaricadora ni la intervención directa del exalcalde en los hechos denunciados. Tras la absolución del Supremo, el PP pidió una disculpa pública por el "acoso político" contra Maldonado.
+  El Tribunal Supremo, sentencia 491/2018 de 23 de octubre (ECLI:ES:TS:2018:3689; recurso 2363/2017), estimó los tres recursos de casación y absolvió al exalcalde, a su hermano y al secretario habilitado de los delitos por los que habían sido condenados. Los fallos de casación y segunda sentencia dicen que no cabe recurso. Para la prevaricación faltaba precisar la resolución arbitraria y la intervención del alcalde en los acuerdos; para el tráfico de influencias no constaban actos concretos de presión, y para el delito territorial no se describía la intervención concreta del promotor. La condición de socio o administrador no bastaba para atribuirle toda la actividad de la sociedad. El técnico municipal no figura entre esos tres recurrentes: no se extiende a él automáticamente la absolución.
 
-resumen: "Exalcalde de Gójar absuelto por el Supremo tras condena por prevaricación urbanística"
-coste: 321350
+  Límites al 17 de octubre de 2026: se ha descargado el original del Supremo y leído parcialmente, incluidos los dos fallos, y se ha recuperado la sentencia independiente de la Audiencia, de la que se han cotejado cabecera y fallo (páginas 1 y 23–24 de 24), sin lectura íntegra de sus fundamentos. No se ha obtenido una resolución posterior sobre el técnico. El PSOE anunció el 26 de octubre de 2018 que estudiaba un amparo: no se ha acreditado su presentación ni resultado. No se infiere un cierre global del expediente por falta de noticias. Los 321.350 euros que figuraban como coste eran una estimación de incremento de beneficios por exceso de edificabilidad recogida en el relato de instancia, que además decía que no se había vendido ninguna vivienda o local; no son daño al erario ni una indemnización firme. Se retira el coste. La multa de 400.000 euros impuesta inicialmente al hermano es otra categoría y su condena fue revocada.
+resumen: "El Supremo absolvió en octubre de 2018 al exalcalde de Gójar, a su hermano y al secretario habilitado tras condenas por actuaciones urbanísticas"
 lugar: "Gójar, Granada, Andalucía"
 tribunal:
-  - "Audiencia Provincial de Granada"
-  - "Tribunal Supremo"
-numeroSentencia: ""
+  - "Juzgado de Instrucción nº 1 de Granada"
+  - "Audiencia Provincial de Granada, Sección Primera"
+  - "Tribunal Supremo, Sala de lo Penal"
+numeroSentencia: "STS 491/2018, de 23 de octubre; ROJ STS 3689/2018; recurso 2363/2017"
 implicados:
   - nombre: "Francisco Javier Maldonado Escobar"
-    cargo: "Alcalde de Gójar (PP)"
-    rol: "Condenado por prevaricación urbanística, luego absuelto por el Supremo"
-
-  - nombre: "Fernando Maldonado Escobar"
-    cargo: "Promotor inmobiliario y administrador de Cavifer"
-    rol: "Condenado por tráfico de influencias y ordenación del territorio"
-
+    cargo: "Alcalde de Gójar por el PP cuando se tramitó el convenio; dimitió en julio de 2017"
+    rol: "Condenado en instancia por prevaricación administrativa y urbanística; absuelto de esas condenas por el Supremo en 2018. El tráfico de influencias ya fue objeto de absolución en instancia"
+  - nombre: "Fernando (hermano del exalcalde)"
+    cargo: "Socio y administrador mancomunado de Cavifer según las fuentes de la causa"
+    rol: "Condenado inicialmente por tráfico de influencias y contra la ordenación del territorio; la condena fue revocada por el Supremo. La noticia de Europa Press lo identifica como Fernando, sin apellidos completos cotejados en esta revisión"
 tags:
-  - "corrupción"
-  - "prevaricación"
   - "urbanismo"
-  - "tráfico de influencias"
-  - "conflicto de intereses"
-
-impactoSocial: "El caso generó un intenso debate político en Granada y llevó a la dimisión del alcalde del PP, permitiendo que el PSOE accediera a la alcaldía de Gójar. La posterior absolución del Tribunal Supremo reavivó la polémica sobre la judicialización de la política y el acoso judicial a cargos públicos."
-
-documentos: null
-
+  - "prevaricación"
+  - "absolución"
+  - "Gójar"
+impactoSocial: "La condena de instancia motivó la dimisión del alcalde en julio de 2017 y el relevo municipal del 1 de agosto. La absolución de 2018 generó reacciones políticas y el anuncio socialista de estudiar un amparo, sin resultado posterior comprobado."
+documentos:
+  - fecha: "2017-07-06"
+    titulo: "Audiencia Provincial de Granada, Sección Primera: sentencia 353/2017, ROJ SAP GR 1567/2017, ECLI:ES:APGR:2017:1567; rollo 76/2015"
+    filetype: "pdf"
+    paginas: 24
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fa14165c8b127815&encode=true&databasematch=AN"
+  - fecha: "2018-10-23"
+    titulo: "Tribunal Supremo: sentencia 491/2018 y segunda sentencia absolutoria, ROJ STS 3689/2018, ECLI:ES:TS:2018:3689"
+    filetype: "pdf"
+    paginas: 11
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=8ec89d29804c0613&encode=true&databasematch=TS"
 cronologia:
   - fecha: "2005-08-22"
-    titulo: "Firma del convenio urbanístico con Cavifer"
-    descripcion: "Francisco Javier Maldonado, como alcalde de Gójar, suscribe un convenio de gestión urbanística con la entidad Cavifer, en la que su hermano Fernando era administrador mancomunado. Según la Fiscalía, el convenio omitía deliberadamente que parte de los terrenos afectados eran suelo urbano no consolidado, lo que constituiría una irregularidad urbanística que benefició a la empresa familiar."
+    titulo: "Convenio urbanístico con Cavifer"
+    descripcion: "Se firma el convenio tras un informe del secretario accidental. La ratificación por la Junta de Gobierno Local fue el 25 de agosto. El Supremo estimó después que no se describió suficientemente la resolución arbitraria ni la intervención del alcalde para sostener su condena; la firma del convenio no se presenta como delito firme."
     type: "resumen"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Maldonado&numero=298"
-
-  - fecha: "2015-01"
-    titulo: "Inicio de la investigación judicial"
-    descripcion: "Tras denuncia presentada por irregularidades urbanísticas en Gójar, el Juzgado de Instrucción de Granada abre diligencias previas para investigar los hechos relacionados con el convenio urbanístico firmado en 2005 y la promoción de viviendas impulsada por la empresa en la que participaba el hermano del alcalde."
-    type: "investigación"
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=8ec89d29804c0613&encode=true&databasematch=TS"
+  - fecha: "2017-05-22"
+    titulo: "Se anuncia el juicio para el día siguiente"
+    descripcion: "Europa Press informa de la vista prevista desde el martes 23 de mayo. Recoge una petición fiscal para el alcalde de dos años y tres meses de prisión, 22 años de inhabilitación y multa de 400.000 euros. Son peticiones, no el resultado final. La fecha corresponde a la publicación. La crónica sitúa el inicio de la investigación en 2007, sin día concreto; se retira la fecha de enero de 2015 no acreditada."
+    type: "juicio"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Maldonado&numero=298"
-
-  - fecha: "2017-05"
-    titulo: "Celebración del juicio"
-    descripcion: "Se celebra el juicio en la Audiencia Provincial de Granada contra Francisco Javier Maldonado por delitos de prevaricación continuada, prevaricación urbanística y tráfico de influencias. La Fiscalía solicita una condena inicial que incluía una multa de 400.000 euros y varios años de inhabilitación. El proceso judicial examina el convenio urbanístico de 2005 y la relación del alcalde con la empresa beneficiaria."
-    type: "resumen"
-    urls:
-      - "http://www.elindependientedegranada.es/politica/psoe-accede-alcaldia-gojar-dimision-exregidor-pp-condenado-prevaricacion"
-
-  - fecha: "2017-07-12"
-    titulo: "Sentencia de la Audiencia de Granada"
-    descripcion: "La Audiencia Provincial de Granada condena a Francisco Javier Maldonado a un año de prisión y 17 años de inhabilitación para cargo público por delitos de prevaricación continuada, prevaricación urbanística y tráfico de influencias. Su hermano Fernando Maldonado también resulta condenado por tráfico de influencias y delitos contra la ordenación del territorio. La sentencia considera probado que el alcalde utilizó su cargo para favorecer intereses familiares."
+      - "https://www.20minutos.es/noticia/3043944/0/tribunales-juzgan-desde-este-martes-alcalde-gojar-pp-por-supuesta-prevaricacion/"
+  - fecha: "2017-07-06"
+    titulo: "Condenas de instancia, posteriormente revocadas para los tres recurrentes"
+    descripcion: "La Audiencia condena al alcalde a un año de prisión y 17 años de inhabilitación por prevaricación administrativa y urbanística; lo absuelve de tráfico de influencias. Impone penas distintas al hermano, al secretario habilitado y al técnico municipal. El Supremo reproduce este fallo, que no constituye el resultado final de los tres acusados que recurrieron."
     type: "sentencia"
     urls:
-      - "http://www.elindependientedegranada.es/politica/psoe-accede-alcaldia-gojar-dimision-exregidor-pp-condenado-prevaricacion"
-
-  - fecha: "2017-07-12"
-    titulo: "Dimisión del alcalde Francisco Javier Maldonado"
-    descripcion: "Tras conocer la sentencia condenatoria, Francisco Javier Maldonado presenta su renuncia al acta de concejal y a la alcaldía de Gójar, solicitando además la suspensión cautelar de militancia en el PP. En un comunicado, Maldonado manifiesta su decisión de dimitir para preservar las siglas del Partido Popular, aunque anuncia que recurrirá la sentencia ante el Tribunal Supremo."
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=8ec89d29804c0613&encode=true&databasematch=TS"
+  - fecha: "2017-07-10"
+    titulo: "Dimisión del alcalde"
+    descripcion: "Maldonado dimite y solicita la suspensión cautelar de militancia, según la crónica de Europa Press del 1 de agosto que fecha expresamente la renuncia el 10 de julio. No se ha cotejado el acta municipal de aceptación."
     type: "resumen"
     urls:
-      - "http://www.elindependientedegranada.es/politica/psoe-accede-alcaldia-gojar-dimision-exregidor-pp-condenado-prevaricacion"
-
-  - fecha: "2017-07-13"
-    titulo: "El PSOE accede a la alcaldía de Gójar"
-    descripcion: "Tras la dimisión de Francisco Javier Maldonado, el concejal socialista José Joaquín Prieto es elegido nuevo alcalde de Gójar tras ganar la votación con el apoyo de Ciudadanos, Izquierda Unida y Asamblea Ciudadana de Gójar. El cambio de gobierno municipal marca el fin de la gestión del PP en el municipio tras el escándalo de corrupción urbanística."
+      - "https://www.elindependientedegranada.es/politica/psoe-accede-alcaldia-gojar-dimision-exregidor-pp-condenado-prevaricacion"
+  - fecha: "2017-08-01"
+    titulo: "José Joaquín Prieto es elegido alcalde"
+    descripcion: "La crónica del mismo día informa de su elección en pleno extraordinario con siete votos frente a seis del PP. Corrige el 13 de julio que figuraba antes sin respaldo en esa fuente."
     type: "resumen"
     urls:
-      - "http://www.elindependientedegranada.es/politica/psoe-accede-alcaldia-gojar-dimision-exregidor-pp-condenado-prevaricacion"
-
-  - fecha: "2018-12"
-    titulo: "El Tribunal Supremo absuelve a Maldonado"
-    descripcion: "El Tribunal Supremo revoca la condena de un año de prisión y 17 de inhabilitación dictada por la Audiencia de Granada y absuelve a Francisco Javier Maldonado de todos los delitos. El Alto Tribunal considera que no constaba probado que Maldonado hubiera condicionado las decisiones de la Junta de Gobierno Local ni que existiera una resolución prevaricadora clara. El Supremo señala que en los hechos probados solamente se menciona que el recurrente dictó una providencia solicitando informe, lo cual no es un acto resolutivo sino de trámite. Tras la absolución, el PP exige una disculpa pública por el acoso político contra Maldonado."
+      - "https://www.elindependientedegranada.es/politica/psoe-accede-alcaldia-gojar-dimision-exregidor-pp-condenado-prevaricacion"
+  - fecha: "2018-10-23"
+    titulo: "El Supremo absuelve a los tres recurrentes"
+    descripcion: "La sentencia 491/2018 estima los recursos y su segunda sentencia absuelve al exalcalde, a su hermano y al secretario habilitado. El original declara que no cabe recurso. La noticia de la absolución se publicó el 26 de octubre: no se confunde publicación con resolución ni se mantiene el mes de diciembre no acreditado."
     type: "sentencia"
+    relevancia: "alta"
     urls:
-      - "http://elindependientedegranada.es/politica/supremo-absuelve-exalcalde-gojar-pp-que-audiencia-condeno-17-anos-inhabilitacion"
-
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=8ec89d29804c0613&encode=true&databasematch=TS"
+      - "https://elindependientedegranada.es/politica/supremo-absuelve-exalcalde-gojar-pp-que-audiencia-condeno-17-anos-inhabilitacion"
+  - fecha: "2018-10-26"
+    titulo: "El PSOE anuncia que estudia un amparo"
+    descripcion: "Europa Press recoge que el PSOE de Granada estudia recurrir al Constitucional. El anuncio no acredita que presentara recurso ni su eventual resultado."
+    type: "recurso"
+    urls:
+      - "https://www.europapress.es/andalucia/noticia-psoe-estudia-recurrir-constitucional-sentencia-revoca-condena-exalcalde-gojar-pp-20181026143649.html"
 ---
+
+El original CENDOJ se obtuvo por GET con HTTP200 (11 páginas), siguiendo la redirección HTML del enlace ECLI a la referencia 8ec89d29804c0613. Se cotejaron cabecera, fragmentos de hechos y fallo de instancia (1–4), pasajes de fundamentos sobre las condenas y motivos (5–8) y los fallos de casación y segunda sentencia (10–11). Una salida conjunta quedó parcialmente truncada; no se afirma lectura integral de todos los fundamentos. La reproducción editorial de Civil-Mercantil se descargó antes, pero el documento incorporado es el original judicial posterior.
+
+Se leyeron los cuerpos completos de las dos crónicas de El Independiente de Granada, la noticia de Europa Press reproducida por 20minutos del 22-05-2017 y el cuerpo de Europa Press del 26-10-2018, revisando el texto HTML además de los extractos de buscador. Las fechas actuales de la cabecera del medio y los widgets no se usan como fecha de las noticias históricas. El exalcalde está identificado nominalmente en prensa; los seudónimos judiciales no se traducen a nombres reales. El nombre completo del hermano que figuraba antes no se ha revalidado nominalmente: la noticia lo llama Fernando y el original judicial confirma su posición familiar y societaria, sin revelar la identidad.
+
+La sentencia independiente de la Audiencia 353/2017, de 6 de julio de 2017 (ECLI:ES:APGR:2017:1567), se ha recuperado del CENDOJ mediante GET con HTTP200 y formato PDF verificado (24 páginas). Se han leído íntegramente sus páginas 1 y 23–24, correspondientes a cabecera y fallo; no se afirma lectura de los fundamentos completos. No se han obtenido originales del eventual amparo ni del estado final del técnico no recurrente. El convenio de 22 de agosto de 2005 se conserva como hito contractual; no se fija `fechaInicio` porque no se acredita un día de inicio de la investigación. Tampoco se ha obtenido una resolución posterior que cambie las absoluciones al corte de 17-10-2026; esa búsqueda negativa no acredita inexistencia de actuaciones. La firmeza de los fallos del Supremo se apoya en su advertencia expresa de ausencia de recurso, sin fijar una fecha documental de cierre global. No se cuantifica coste: ni beneficios estimados, presupuestos de obra, tasas ni multas se suman como perjuicio patrimonial acreditado.
