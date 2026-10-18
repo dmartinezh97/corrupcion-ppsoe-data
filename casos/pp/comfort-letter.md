@@ -8,7 +8,7 @@ estado: "Absolución confirmada en apelación; firmeza informada en diciembre de
 descripcion: |
   El procedimiento se refería a tres cartas de conformidad firmadas por el entonces alcalde de Valladolid, Francisco Javier León de la Riva, en relación con la financiación de la Sociedad Valladolid Alta Velocidad. La Audiencia Provincial de Valladolid absolvió el 30 de julio de 2018 al exalcalde de falsedad documental y prevaricación, y a los exconcejales Manuel Sánchez y Alfredo Blanco de prevaricación. La resolución distingue la falta de dolo acreditado de la posible falsedad imprudente, que consideró prescrita; no es un sobreseimiento.
 
-  La confirmación de la absolución por el TSJ de Castilla y León se publicó el 27 de noviembre de 2018, cuando todavía cabía casación. En diciembre, Cadena SER informó de que Fiscalía no recurriría y describió posteriormente la absolución como firme. Falta cotejar la resolución de apelación original y la acreditación judicial de firmeza y de las incidencias posteriores hasta el 17 de octubre de 2026. Los créditos y compromisos financieros no se presentan como daño probado, ni la ausencia de cuantificación como coste cero. La revisión permanece incompleta.
+  El TSJ de Castilla y León confirmó la absolución en la sentencia 44/2018, de 26 de noviembre, publicada por la prensa al día siguiente; todavía cabía casación. En diciembre, Cadena SER informó de que Fiscalía no recurriría y describió posteriormente la absolución como firme. Falta cotejar la acreditación judicial de firmeza y las incidencias posteriores hasta el 17 de octubre de 2026. Los créditos y compromisos financieros no se presentan como daño probado, ni la ausencia de cuantificación como coste cero. La revisión permanece incompleta.
 resumen: "Absolución de León de la Riva y dos exconcejales por las cartas de financiación ferroviaria; confirmada en apelación y descrita como firme por la prensa en diciembre de 2018."
 lugar: "Valladolid, Castilla y León"
 tribunal:
@@ -37,6 +37,11 @@ documentos:
     filetype: "PDF"
     paginas: 20
     nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=bf0af631af990134&encode=true&databasematch=AN"
+  - fecha: "2018-11-26"
+    titulo: "Sentencia 44/2018 del TSJ de Castilla y León: apelación, recurso 37/2018"
+    filetype: "PDF"
+    paginas: 25
+    nombre_fichero: "https://static-cache.elnortedecastilla.es/pdf/visor/web/files/TSJCyLSentencia-RecursoComfort%20Letter.pdf"
 cronologia:
   - fecha: "2008-07-28"
     titulo: "Primera carta de conformidad"
@@ -68,11 +73,12 @@ cronologia:
     type: "sentencia"
     urls:
       - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:APVA:2018:668"
-  - fecha: "2018-11-27"
-    titulo: "Se publica la confirmación de la absolución"
-    descripcion: "ElDiario.es informa de la desestimación del recurso de Fiscalía por el TSJCyL. La noticia indica que todavía cabía casación. La fecha es la de publicación, no la de la resolución original, que falta cotejar."
-    type: "resumen"
+  - fecha: "2018-11-26"
+    titulo: "El TSJ confirma la absolución"
+    descripcion: "La sentencia 44/2018, recurso 37/2018, desestima íntegramente la apelación de Fiscalía y confirma la resolución de 30 de julio. Admitía casación en cinco días desde la última notificación; no se anticipa la firmeza a esta fecha. La noticia se publicó el día 27."
+    type: "sentencia"
     urls:
+      - "https://static-cache.elnortedecastilla.es/pdf/visor/web/files/TSJCyLSentencia-RecursoComfort%20Letter.pdf"
       - "https://www.eldiario.es/politica/tribunal-superior-justicia-castilla-leon_1_1818774.html"
   - fecha: "2018-12-10"
     titulo: "La prensa describe la absolución como firme"
@@ -89,4 +95,4 @@ Las penas de nueve años de prisión y treinta y tres de inhabilitación mencion
 
 Los importes de 200, 70 y 400 millones corresponden a operaciones de financiación de la sociedad. La exposición municipal y su participación no se confunden con el importe íntegro del crédito, ni con un perjuicio indemnizable acreditado. Se elimina `coste: 0`: no se ha determinado aquí un daño cuantificado. El resultado penal tampoco liquida por sí solo toda controversia contractual, administrativa o financiera sobre el proyecto ferroviario.
 
-**Revisión parcial al 17 de octubre de 2026:** se ha descargado el PDF oficial de veinte páginas y cotejado la cabecera, los antecedentes, pasajes de los hechos probados, el fundamento sobre prescripción y el fallo; no se ha leído íntegramente toda la prueba y motivación. Faltan el original de apelación, la acreditación judicial de firmeza y la comprobación de eventuales incidencias posteriores. La firmeza se atribuye a la información de Cadena SER de diciembre de 2018, no se infiere del transcurso del tiempo ni se anticipa a noviembre. La generación del PDF de Cendoj en octubre de 2026 no cambia la fecha del acto judicial de 2018. No se mezclan con este caso otras condenas del exalcalde, como la de desobediencia relativa a su vivienda.
+**Revisión parcial al 17 de octubre de 2026:** se ha descargado el PDF oficial de veinte páginas y cotejado la cabecera, los antecedentes, pasajes de los hechos probados, el fundamento sobre prescripción y el fallo; no se ha leído íntegramente toda la prueba y motivación. Se ha recuperado también una copia nominal de la sentencia de apelación de 25 páginas alojada por El Norte de Castilla, con lectura de la cabecera y de los fundamentos y fallo finales; no de todo el documento. Confirma la fecha de 26 de noviembre de 2018 y la posibilidad de casación. Faltan la acreditación judicial de firmeza y la comprobación de eventuales incidencias posteriores. La firmeza se atribuye a la información de Cadena SER de diciembre de 2018, no se infiere del transcurso del tiempo ni se anticipa a noviembre. La generación del PDF de Cendoj en octubre de 2026 no cambia la fecha del acto judicial de 2018. No se mezclan con este caso otras condenas del exalcalde, como la de desobediencia relativa a su vivienda.
