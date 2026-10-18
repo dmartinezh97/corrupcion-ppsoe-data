@@ -1,82 +1,107 @@
 ---
-nombre: "Caso Vela Mata"
+nombre: Caso Vela Mata
 partido: PP
-completado: true
-año: 2013
-fechaInicio: 2013-01-01
-fechaFin: "2019-02-01"
-estado: sobreseimiento
-descripcion: |
-  El Caso Vela Mata es una investigación judicial sobre presunta prevaricación administrativa en el Ayuntamiento de Torrevieja, iniciada tras la denuncia presentada por vecinos de una urbanización residencial de La Mata y dos agentes de la Policía Local. La denuncia señalaba la supuesta falta de actuación municipal para atajar las molestias causadas por una discoteca situada al sur de la playa de La Mata, a pesar de las reiteradas quejas vecinales sobre ruidos, aglomeraciones y otros problemas de convivencia relacionados con el establecimiento nocturno.
-
-  La investigación, dirigida por el Juzgado de Instrucción número 2 de Torrevieja, se centró en determinar si existió una inacción deliberada por parte de las autoridades municipales y funcionarios públicos para frenar la actividad molesta de la discoteca, lo que podría constituir un delito de prevaricación administrativa. Entre los investigados figuraba Eduardo Dolón Sánchez, destacado político del PP que había sido alcalde de Torrevieja y en el momento de los hechos ejercía como portavoz del partido en la Diputación Provincial de Alicante y vicepresidente de la institución provincial. También fueron investigados tres funcionarios municipales: el comisario jefe de la Policía Local de Torrevieja, un exinspector de la Policía Local y un exfuncionario del departamento de actividades del ayuntamiento.
-
-  En mayo de 2017, Eduardo Dolón compareció ante el juzgado para declarar como investigado, y su defensa solicitó formalmente el archivo de las actuaciones al considerar que no existían indicios suficientes de responsabilidad penal. La situación judicial se prolongó hasta febrero de 2019, cuando la magistrada del Juzgado de Instrucción número 2 de Torrevieja decretó el sobreseimiento provisional del caso. En su resolución judicial, la jueza reconoció que "de las diligencias de investigación se desprende que los hechos pudieran ser constitutivos de delito", pero concluyó que "no existen motivos lógicos para atribuir su perpetración a persona determinada". Esta decisión judicial puso fin al proceso penal sin que se llegara a celebrar juicio oral ni se impusieran condenas a ninguno de los investigados. Mientras tanto, la discoteca causante del conflicto vecinal había sido clausurada definitivamente por orden de la Generalitat Valenciana en 2015, dos años antes de que Dolón declarara como investigado.
-
-resumen: "Investigación por presunta inacción municipal ante las molestias de una discoteca en La Mata, Torrevieja"
-lugar: "Torrevieja, La Mata, Alicante, Comunidad Valenciana"
+completado: false
+fechaFin: ''
+estado: Sobreseimiento provisional de 2019 recurrido; resultado de la apelación no verificado
+descripcion: 'Investigación sobre presuntas irregularidades en las licencias, inspecciones y funcionamiento de la
+  discoteca Vela Beach de La Mata, en Torrevieja. Hubo un archivo provisional en enero de 2016 y una posterior reapertura
+  comunicada en 2017. Eduardo Dolón y Francisco Moreno declararon ante el juzgado en mayo de 2017. El nuevo sobreseimiento
+  provisional se dictó el 13 de febrero de 2019. La sentencia 763/2020 del Juzgado de lo Contencioso-Administrativo
+  n.º 1 de Elche, en un procedimiento distinto, recoge que ese auto penal estaba apelado y pendiente ante la Audiencia
+  Provincial. Hasta el corte de 17 de octubre de 2026 no se ha localizado el resultado del recurso ni cotejado el
+  auto penal original: no se presenta el archivo como definitivo ni como una absolución.'
+resumen: 'Investigación sobre la discoteca Vela Beach: archivos provisionales y apelación cuyo resultado no se ha
+  verificado.'
+lugar: La Mata, Torrevieja, Alicante
 tribunal:
-  - "Juzgado de Instrucción nº 2 de Torrevieja"
-numeroSentencia: ""
+- Juzgado de Instrucción n.º 2 de Torrevieja
+- Audiencia Provincial de Alicante, Sección Séptima (Elche)
+numeroSentencia: ''
 implicados:
-  - nombre: "Eduardo Dolón Sánchez"
-    cargo: "Exalcalde de Torrevieja (PP), portavoz del PP y vicepresidente de la Diputación Provincial de Alicante"
-    rol: "Investigado por presunto delito de prevaricación administrativa. Caso archivado por sobreseimiento provisional"
-
-  - nombre: "Comisario jefe de la Policía Local de Torrevieja"
-    cargo: "Comisario jefe de la Policía Local"
-    rol: "Investigado por presunta prevaricación administrativa. Caso archivado por sobreseimiento provisional"
-
-  - nombre: "Exinspector de la Policía Local"
-    cargo: "Exinspector de la Policía Local de Torrevieja"
-    rol: "Investigado por presunta prevaricación administrativa. Caso archivado por sobreseimiento provisional"
-
-  - nombre: "Exfuncionario del área de actividades"
-    cargo: "Exfuncionario del departamento de actividades del Ayuntamiento de Torrevieja"
-    rol: "Investigado por presunta prevaricación administrativa. Caso archivado por sobreseimiento provisional"
-
+- nombre: Eduardo Dolón Sánchez
+  cargo: Exalcalde de Torrevieja (PP) en las noticias de 2016-2019
+  rol: Declaró como investigado ante el juzgado el 30 de mayo de 2017. El archivo provisional comunicado en 2019
+    afectaba a la causa en la que figuraba. No se ha acreditado una condena ni una absolución en juicio; falta cotejar
+    el alcance personal del auto y el resultado de su apelación.
+- nombre: Francisco Moreno
+  cargo: Exconcejal de Actividades y Urbanismo de Torrevieja (PP)
+  rol: La información contemporánea lo sitúa en la investigación y confirma su declaración ante el juzgado el 30
+    de mayo de 2017. No se ha cotejado una resolución penal individual posterior.
+- nombre: Manuel López Vera
+  cargo: Inspector municipal de la Policía Local, según la noticia de enero de 2016
+  rol: Identificado por Diario de la Vega entre los investigados en las actuaciones archivadas provisionalmente
+    en enero de 2016. No se le atribuye una condena ni se presume su situación individual actual.
+- nombre: Vicente Gutiérrez
+  cargo: Intendente principal de la Policía Local, según la noticia de enero de 2016
+  rol: La noticia lo vincula a las inspecciones examinadas por la investigación. Se conserva solo el nombre que
+    ofrece esa fuente; el alcance de las resoluciones penales respecto de él no ha sido cotejado con sus originales.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "inacción administrativa"
-  - "ayuntamiento"
-
-impactoSocial: "El caso reflejó las tensiones entre vecinos afectados por locales de ocio nocturno y la gestión municipal de estas situaciones. El archivo del caso generó frustración entre los denunciantes, que consideraban evidente la falta de actuación municipal. El sobreseimiento, a pesar de reconocer que podría haber existido delito, ejemplifica las dificultades probatorias para atribuir responsabilidad penal individual en casos de inacción administrativa."
-
-documentos: null
-
+- prevaricación
+- falsedad documental
+- licencias municipales
+- sobreseimiento provisional
+documentos:
+- fecha: '2020-12-14'
+  titulo: 'Sentencia 763/2020 del JCA n.º 1 de Elche: referencia a Vela-Mata en la página 13 (procedimiento distinto)'
+  filetype: pdf
+  paginas: 30
+  nombre_fichero: https://paisvalencia.fsc.ccoo.es/29544579a11d596d1491c0ddbd93ba7f000050.pdf
 cronologia:
-  - fecha: "2013-01-01"
-    titulo: "Denuncia de vecinos y policías locales por inacción municipal"
-    descripcion: "Vecinos de una urbanización residencial de La Mata y dos agentes de la Policía Local de Torrevieja presentan una denuncia formal ante las autoridades judiciales. La denuncia se centra en la supuesta falta de actuación del Ayuntamiento de Torrevieja para frenar las actividades molestas de una discoteca ubicada al sur de la playa de La Mata. Los denunciantes señalan problemas reiterados de ruido excesivo, aglomeraciones de personas, consumo de alcohol en la vía pública y otras molestias que afectaban gravemente la convivencia vecinal, sin que las autoridades municipales tomaran medidas efectivas a pesar de las numerosas quejas presentadas."
-    type: "denuncia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Vela+Mata&numero=343"
-
-  - fecha: "2013-06-01"
-    titulo: "Apertura de investigación judicial"
-    descripcion: "El Juzgado de Instrucción número 2 de Torrevieja abre diligencias de investigación para esclarecer si la falta de actuación municipal ante las molestias de la discoteca de La Mata constituye un delito de prevaricación administrativa. La instrucción se centra en determinar si hubo una inacción deliberada por parte de autoridades y funcionarios del Ayuntamiento de Torrevieja, y si esta omisión del deber fue arbitraria e injustificada, beneficiando indebidamente al establecimiento de ocio nocturno en perjuicio del derecho al descanso de los vecinos."
-    type: "investigación"
-    urls: []
-
-  - fecha: "2015-01-01"
-    titulo: "La Generalitat Valenciana ordena el cierre de la discoteca"
-    descripcion: "La Generalitat Valenciana, gobierno autonómico de la Comunidad Valenciana, ordena oficialmente la clausura definitiva de la discoteca de La Mata que originó las denuncias vecinales y la investigación judicial. Esta decisión administrativa pone fin a la actividad del local de ocio nocturno después de años de conflictos con los residentes de la zona. El cierre del establecimiento se produce mientras aún continúa la investigación judicial sobre la presunta prevaricación administrativa por parte de las autoridades municipales de Torrevieja."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Vela+Mata&numero=343"
-
-  - fecha: "2017-05-30"
-    titulo: "Eduardo Dolón declara como investigado y solicita el archivo"
-    descripcion: "Eduardo Dolón Sánchez, exalcalde de Torrevieja y en ese momento portavoz del PP y vicepresidente de la Diputación Provincial de Alicante, comparece ante el Juzgado de Instrucción número 2 de Torrevieja para declarar en calidad de investigado (anteriormente denominado 'imputado'). Durante su comparecencia, Dolón y su equipo de defensa legal solicitan formalmente el archivo de las actuaciones judiciales, argumentando que no existen indicios suficientes de responsabilidad penal ni pruebas que justifiquen la continuación de la investigación. También están siendo investigados otros tres funcionarios públicos: el comisario jefe de la Policía Local, un exinspector de la Policía Local y un exfuncionario del área de actividades del ayuntamiento."
-    type: "declaración"
-    urls:
-      - "https://www.diarioinformacion.com/vega-baja/2017/05/30/eduardo-dolon-pide-archivo-caso/1900360.html"
-
-  - fecha: "2019-02-01"
-    titulo: "Sobreseimiento provisional del caso por falta de atribución a persona concreta"
-    descripcion: "La magistrada del Juzgado de Instrucción número 2 de Torrevieja dicta auto judicial decretando el sobreseimiento provisional del Caso Vela Mata, poniendo fin a la investigación sin que se celebre juicio oral. En su resolución, la jueza reconoce expresamente que 'de las diligencias de investigación se desprende que los hechos pudieran ser constitutivos de delito', admitiendo así que existe base fáctica para considerar que se cometió una irregularidad penal. Sin embargo, concluye que 'no existen motivos lógicos para atribuir su perpetración a persona determinada', es decir, que no se puede establecer con certeza jurídica qué persona o personas concretas serían responsables del presunto delito de prevaricación. Esta decisión archiva definitivamente el caso sin condenas para Eduardo Dolón ni para los funcionarios investigados. El ayuntamiento considera interponer recurso contra esta decisión."
-    type: "sentencia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Vela+Mata&numero=343"
+- fecha: '2016-01-13'
+  titulo: Primer sobreseimiento provisional conocido
+  descripcion: Diario de la Vega informa el 18 de enero de un auto dictado el día 13 que sobresee provisionalmente
+    las actuaciones sobre falsedad documental y prevaricación por omisión. Se trata de información periodística
+    sobre el auto, no del original recuperado.
+  type: investigacion
+  urls:
+  - https://www.diariodelavega.com/el-caso-de-la-discoteca-que-salpicaba-a-dolon-ha-sido-archivado/
+  relevancia: alta
+- fecha: '2017-03-30'
+  titulo: Se comunica la reapertura y la citación de Dolón
+  descripcion: La información publicada este día recoge declaraciones del alcalde José Manuel Dolón sobre la reapertura
+    acordada por la Audiencia Provincial tras recurrirse el archivo. Es fecha de publicación, no fecha comprobada
+    del auto de la Audiencia; José Manuel Dolón no debe confundirse con Eduardo Dolón, investigado.
+  type: recurso
+  urls:
+  - https://alicantehoy.es/2017/03/30/gobierno-asume-normalidad-las-ultimas-resoluciones-judiciales-no-favorecen-al-pp/
+  relevancia: alta
+- fecha: '2017-05-30'
+  titulo: Dolón y Moreno declaran ante el juzgado
+  descripcion: La información contemporánea confirma que Eduardo Dolón comparece como investigado y anuncia haber
+    solicitado el sobreseimiento libre. También declara Francisco Moreno. Una petición de archivo no equivale a
+    una resolución que lo acuerde.
+  type: investigacion
+  urls:
+  - https://torreviejaip.tv/politica/2017053021821/eduardo-dolon-acude-a-declarar-al-juzgado-en-calidad-de-investigado-por-el-caso-vela-mata.html
+  relevancia: alta
+- fecha: '2019-02-13'
+  titulo: Nuevo sobreseimiento provisional
+  descripcion: La sentencia contenciosa 763/2020 identifica expresamente esta fecha para el auto penal de las diligencias
+    previas 1653/2014 del Juzgado de Instrucción n.º 2 de Torrevieja. La noticia del 15 de febrero comunica un nuevo
+    archivo provisional. No se ha recuperado el auto penal original.
+  type: investigacion
+  urls:
+  - https://paisvalencia.fsc.ccoo.es/29544579a11d596d1491c0ddbd93ba7f000050.pdf
+  - https://torreviejaip.tv/politica/2019021525249/el-juzgado-decreta-el-sobreseimiento-provisional-del-conocido-como-caso-vela-mata.html
+  relevancia: alta
+- fecha: '2020-12-14'
+  titulo: Una sentencia deja constancia de la apelación penal pendiente
+  descripcion: 'El fundamento cuarto, página 13, de la sentencia 763/2020 del JCA n.º 1 de Elche recoge que, según
+    un exhorto, el auto penal de 2019 estaba recurrido en apelación ante la Sección Séptima de la Audiencia de Alicante.
+    La sentencia trata otro procedimiento: su fallo no resuelve el recurso penal de Vela-Mata.'
+  type: recurso
+  urls:
+  - https://paisvalencia.fsc.ccoo.es/29544579a11d596d1491c0ddbd93ba7f000050.pdf
+  relevancia: alta
 ---
+
+La investigación examinó posibles irregularidades en las licencias e inspecciones de la discoteca y la respuesta municipal a las molestias denunciadas. Las noticias de 2016 describen presunta falsedad documental y prevaricación por omisión. Esas sospechas no se presentan como hechos declarados probados en una sentencia condenatoria. La información de 2019 utiliza en algún titular la palabra «absuelto», pero describe un sobreseimiento: se conserva la denominación procesal de archivo provisional y se distingue de una absolución en juicio.
+
+El expediente penal identificado en la referencia judicial de 2020 es el de diligencias previas 1653/2014. No se ha obtenido una fecha exacta y acreditada de presentación de la denuncia o de incoación: se retiran las fechas sintéticas del 1 de enero y 1 de junio de 2013. La referencia a una apertura del local en 2013 no basta para fechar el comienzo judicial. También se retira el 1 de enero de 2015 como fecha de clausura. La noticia de enero de 2016 incluye una fotografía rotulada como cierre del 22 de agosto de 2015, pero no sustituye a la resolución administrativa ni acredita por sí sola que la clausura fuera definitiva.
+
+El nuevo archivo penal no puede describirse como cierre definitivo. La [sentencia 763/2020, página 13](https://paisvalencia.fsc.ccoo.es/29544579a11d596d1491c0ddbd93ba7f000050.pdf) afirma en sus fundamentos, no solo en el resumen de alegaciones de una parte, que un exhorto informa de la apelación del auto de 13 de febrero de 2019 y que estaba pendiente ante la Audiencia. Esta constatación se refiere al momento de aquella sentencia; no permite afirmar que el recurso siga pendiente en octubre de 2026. Tampoco se traslada a esta ficha el resultado del procedimiento contencioso sobre derechos fundamentales en el que se contiene la referencia.
+
+No se ha acreditado en las fuentes cotejadas una cuantificación judicial de daño económico en esta causa. Se elimina la valoración heredada sobre frustración de denunciantes y dificultades probatorias como si fuera una conclusión judicial. Se retiran también las citas literales atribuidas al auto de 2019: su tenor no se ha comprobado en el original. La lista de personas se limita a las identificadas por las noticias leídas, sin inferir nombres a partir de cargos o de seudónimos judiciales.
+
+**Pendientes y alcance de la revisión (17 de octubre de 2026).** No se han recuperado los autos penales de archivo, la resolución de reapertura ni la resolución del recurso posterior al archivo de 2019. El PDF de 2020, copia judicial publicada por CCOO, tiene 30 páginas: se han cotejado la cabecera y fecha, las referencias de antecedentes al asunto y el fundamento cuarto de la página 13, también visualmente; no se declara lectura íntegra del procedimiento distinto ni validación criptográfica de su CSV. El portal oficial de comprobación devolvió un formulario con verificación de seguridad, sin permitir validar el documento en esta revisión. El PDF se aporta únicamente como referencia judicial al estado de la apelación en 2020. Las búsquedas de actualidad no certifican ausencia de incidencias posteriores. La revisión permanece incompleta y no fija fecha de cierre.
