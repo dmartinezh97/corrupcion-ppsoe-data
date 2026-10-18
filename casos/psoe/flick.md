@@ -1,111 +1,70 @@
 ---
-nombre: "Flick"
+nombre: Flick
 partido: PSOE
-completado: true
+completado: false
 año: 1984
-fechaInicio: 1984-11-01
-fechaFin: "1985-03-29"
-estado: "sobreseimiento"
-descripcion: |
-  El caso Flick fue un escándalo de financiación política que estalló en España en noviembre de 1984, cuando se reveló que el consorcio industrial alemán Friedrich Flick Industrieverwaltung había canalizado donaciones millonarias al PSOE a través del Partido Socialdemócrata Alemán (SPD) y su fundación afín, la Fundación Friedrich Ebert. El escándalo tuvo su origen en Alemania, donde el grupo Flick era investigado por haber sobornado a políticos de todos los partidos representados en el Bundestag. Las revelaciones llegaron a España cuando el diputado socialdemócrata alemán Peter Struck declaró que parte de los fondos del consorcio Flick canalizados al SPD en la década de 1970 fueron derivados hacia España y Portugal.
-
-  Según las investigaciones posteriores de la Fiscalía de la República Federal de Alemania (RFA), entre 1978 y 1985 la Fundación Friedrich Ebert destinó aproximadamente 22 millones de marcos (equivalentes a unos 1.400 millones de pesetas) para financiar al PSOE. El intermediario señalado fue Hans-Jürgen Wischnewski, miembro de la ejecutiva del SPD y hombre de confianza del canciller Helmut Schmidt, quien supuestamente entregó personalmente un maletín con 2,7 millones de marcos al propio Felipe González. El 14 de noviembre de 1984, González negó los hechos ante el Parlamento con la célebre frase: "No he recibido ni un marco, ni un duro, ni una peseta, ni de Flick ni de Flock".
-
-  El Congreso de los Diputados creó una comisión de investigación presidida por el diputado socialista Leopoldo Torres, cuya composición garantizaba la mayoría del PSOE. La comisión concluyó el 29 de marzo de 1985 con 263 votos a favor de las conclusiones del Grupo Socialista —202 de ellos del propio PSOE—, que declararon la ausencia de pruebas y la falsedad de las declaraciones contra González. Sin embargo, en 1990 la Fiscalía alemana publicó sus propias investigaciones ratificando la financiación ilegal, sin que el asunto fuera reabierto judicialmente en España.
-
-resumen: "El consorcio industrial alemán Flick financió ilegalmente al PSOE con decenas de millones de marcos canalizados a través del SPD y su fundación."
-coste: 11000000
-lugar: "Madrid, España"
+estado: Conclusiones parlamentarias y archivo de diligencias fiscales; no sentencia acreditada
+descripcion: Controversia sobre supuestos fondos del consorcio alemán Flick destinados al PSOE. El Congreso aprobó el
+  28 de febrero de 1985 conclusiones que descartaban pruebas de recepción de dinero Flick por Felipe González o el PSOE.
+  La prensa informó también del archivo de diligencias fiscales españolas en abril de 1985, instadas por el Gobierno
+  para estudiar posibles acciones penales por las informaciones publicadas. Las informaciones alemanas
+  reseñadas en 1990 no se equiparan aquí a una condena ni prueban que todo el importe investigado llegara al PSOE. Revisión
+  pendiente de originales fiscales y alemanes al corte de 17 de octubre de 2026.
+resumen: Acusaciones de fondos alemanes al PSOE; conclusiones parlamentarias sin pruebas de recepción de dinero Flick
+  y archivo en 1985 de diligencias fiscales sobre las informaciones publicadas.
+lugar: España; antecedentes en la República Federal de Alemania
 tribunal:
-  - "Comisión de Investigación del Congreso de los Diputados"
-numeroSentencia: ""
+- Congreso de los Diputados (investigación parlamentaria, no tribunal)
+- Fiscalía General del Estado (diligencias fiscales)
 implicados:
-  - nombre: "Felipe González Márquez"
-    cargo: "Presidente del Gobierno de España (1982-1996)"
-    rol: "Señalado como receptor del maletín con fondos Flick; negó los hechos"
-
-  - nombre: "Hans-Jürgen Wischnewski"
-    cargo: "Miembro de la ejecutiva del SPD alemán"
-    rol: "Identificado como intermediario que entregó personalmente el maletín al PSOE"
-
-  - nombre: "Peter Struck"
-    cargo: "Diputado del SPD alemán"
-    rol: "Declaró públicamente que fondos Flick fueron canalizados al PSOE"
-
-  - nombre: "Eberhard von Brauchitsch"
-    cargo: "Director general del consorcio Flick"
-    rol: "Responsable de gestionar los fondos del consorcio destinados a partidos políticos"
-
-  - nombre: "Leopoldo Torres"
-    cargo: "Diputado del PSOE por Guadalajara"
-    rol: "Presidente de la comisión de investigación del Congreso, acusada de parcialidad"
-
-  - nombre: "Fundación Friedrich Ebert"
-    cargo: "Fundación vinculada al SPD alemán"
-    rol: "Canal utilizado para trasladar fondos Flick al PSOE entre 1978 y 1985"
-
+- nombre: Felipe González
+  cargo: Presidente del Gobierno de España durante la controversia
+  rol: Señalado en las informaciones investigadas; las conclusiones parlamentarias no encontraron pruebas de recepción
+    de dinero Flick. No condenado acreditado en esta ficha.
+- nombre: Hans-Jürgen Wischnewski
+  cargo: Diputado socialdemócrata alemán
+  rol: La supuesta entrega de una maleta a González fue rechazada por las conclusiones del Congreso; no se presenta como
+    hecho probado.
+- nombre: Peter Struck
+  cargo: Diputado socialdemócrata alemán
+  rol: Las declaraciones sobre la maleta que le atribuía la prensa originaron la controversia y fueron objeto de las
+    conclusiones parlamentarias.
 tags:
-  - "corrupción"
-  - "financiación ilegal"
-  - "fondos extranjeros"
-  - "tráfico de influencias"
-  - "comisión de investigación"
-
-impactoSocial: "El caso Flick fue el primer gran escándalo de financiación ilegal que salpicó directamente al PSOE y a Felipe González en plena consolidación democrática. Aunque la comisión parlamentaria archivó el asunto con la mayoría socialista, las revelaciones posteriores de la Fiscalía alemana en 1990 lo mantuvieron en la memoria colectiva como símbolo de la opacidad en la financiación de los partidos políticos durante la Transición y los primeros años del gobierno socialista."
-
-documentos: null
-
+- financiación de partidos
+- fondos extranjeros
+- comisión de investigación
+documentos: []
 cronologia:
-  - fecha: 1978-01-01
-    titulo: "Inicio de las transferencias de fondos Flick al PSOE"
-    descripcion: "Según las investigaciones posteriores de la Fiscalía de la RFA, la Fundación Friedrich Ebert comienza a canalizar fondos procedentes del consorcio Flick hacia el PSOE. Las transferencias se prolongarán hasta 1985 y alcanzarán los 22 millones de marcos (unos 1.400 millones de pesetas)."
-    type: "resumen"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_Flick"
-
-  - fecha: 1984-09-30
-    titulo: "Peter Struck revela las donaciones al PSOE"
-    descripcion: "El diputado socialdemócrata alemán Peter Struck declara en una reunión de juristas del SPD en Hamburgo que parte de las donaciones del consorcio Flick al SPD a mediados de los años 70 fueron canalizadas hacia España (PSOE) y Portugal. Sus declaraciones serán recogidas días después por el diario alemán Frankfurter Rundschau."
-    type: "denuncia"
-    urls:
-      - "https://lahemerotecadelbuitre.com/piezas/caso-flick-acusan-al-psoe-de-haberse-financiado-ilegalmente-con-dinero-del-spd-aleman-a-traves-de-la-fundacion-ebert/"
-
-  - fecha: 1984-11-01
-    titulo: "El escándalo llega a la prensa española"
-    descripcion: "El diario La Vanguardia y otros medios españoles recogen las declaraciones del diputado alemán Peter Struck. Struck señala que el dinero llegó a España en un maletín transportado por Hans-Jürgen Wischnewski, miembro de la ejecutiva del SPD, y que fue entregado personalmente al propio Felipe González. El escándalo estalla en el debate político español."
-    type: "investigación"
-    urls:
-      - "https://www.lahaine.org/est_espanol.php/el-caso-flick-30-anos-despues"
-      - "https://elcierredigital.com/investigacion/572649019/maletas-psoe-flick-delcygate-abalos.html"
-
-  - fecha: 1984-11-14
-    titulo: "Felipe González niega los hechos ante el Parlamento"
-    descripcion: "El presidente del Gobierno Felipe González comparece ante el Congreso de los Diputados y pronuncia su célebre negación: \"No he recibido ni un marco, ni un duro, ni una peseta, ni de Flick ni de Flock, ni de la Fundación Ebert, ni del Partido Socialdemócrata Alemán\". La frase se convertiría en una de las más recordadas de la política española de los años 80."
-    type: "declaración"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_Flick"
-      - "https://www.semana.com/mundo/articulo/ni-flick-ni-flock/6427-3/"
-
-  - fecha: 1985-01-01
-    titulo: "Creación de la comisión de investigación parlamentaria"
-    descripcion: "El Congreso de los Diputados crea una comisión de investigación para esclarecer las acusaciones de financiación ilegal. Es nombrado presidente el diputado del PSOE por Guadalajara Leopoldo Torres. La oposición denuncia que la composición de la comisión, con mayoría socialista, garantiza de antemano un resultado favorable al Gobierno."
-    type: "investigación"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_Flick"
-
-  - fecha: 1985-03-29
-    titulo: "La comisión archiva el caso con mayoría socialista"
-    descripcion: "La comisión de investigación del Congreso aprueba con 263 votos a favor las conclusiones del Grupo Socialista —202 de ellos del propio PSOE, con el apoyo del Grupo Vasco—, que declaran la ausencia de prueba alguna de que Felipe González o el PSOE hubieran recibido dinero del consorcio Flick. El caso queda cerrado parlamentariamente sin responsabilidades."
-    type: "resumen"
-    urls:
-      - "https://www.lahaine.org/est_espanol.php/el-caso-flick-30-anos-despues"
-      - "https://es.wikipedia.org/wiki/Caso_Flick"
-
-  - fecha: 1990-05-01
-    titulo: "La Fiscalía alemana confirma la financiación ilegal"
-    descripcion: "La Fiscalía de la República Federal de Alemania hace públicas sus investigaciones sobre el escándalo Flick, concluyendo que entre 1978 y 1985 se utilizaron 22 millones de marcos de la Fundación Friedrich Ebert para financiar al PSOE. A pesar de estas revelaciones, el caso no es reabierto en España y queda impune."
-    type: "documento"
-    urls:
-      - "https://lahemerotecadelbuitre.com/piezas/caso-flick-acusan-al-psoe-de-haberse-financiado-ilegalmente-con-dinero-del-spd-aleman-a-traves-de-la-fundacion-ebert/"
-      - "https://www.lahaine.org/est_espanol.php/el-caso-flick-30-anos-despues"
+- fecha: '1985-02-28'
+  titulo: El Pleno aprueba las conclusiones parlamentarias
+  descripcion: El boletín del Congreso de 14 de marzo publica las conclusiones adoptadas en esta fecha. No encontraron
+    pruebas de dinero Flick recibido por González o el PSOE y rechazaron el relato de la maleta; son conclusiones parlamentarias,
+    no una absolución judicial.
+  type: documento
+  urls:
+  - https://www.congreso.es/public_oficiales/L2/CONG/BOCG/E/E_104.PDF
+  - https://elpais.com/diario/1985/03/01/espana/478479610_850215.html
+- fecha: '1985-04-25'
+  titulo: Archivo de diligencias fiscales, según noticia posterior
+  descripcion: El País informó el 23 de mayo de que la Junta de Fiscales de Sala había acordado el archivo en esta fecha
+    por falta de indicios delictivos. Las diligencias habían sido instadas por el Gobierno para examinar posibles acciones
+    por las informaciones publicadas.
+  type: resumen
+  urls:
+  - https://elpais.com/diario/1985/05/23/espana/485647215_850215.html
+- fecha: '1990-05-29'
+  titulo: Información sobre una investigación alemana
+  descripcion: El País reseñó una investigación sobre fondos de la Fundación Ebert y recogió versiones discrepantes sobre
+    sus destinatarios. Es fecha de noticia, no de resolución fiscal alemana verificada.
+  type: investigacion
+  urls:
+  - https://elpais.com/diario/1990/05/29/espana/643932012_850215.html
 ---
+
+El [boletín parlamentario número 104, de 14 de marzo de 1985](https://www.congreso.es/public_oficiales/L2/CONG/BOCG/E/E_104.PDF), distingue las conclusiones aprobadas de los votos particulares rechazados. La fecha de aprobación fue el 28 de febrero, no el 29 de marzo. Tampoco cabe atribuir al conjunto de las conclusiones los 263 votos que la [crónica contemporánea](https://elpais.com/diario/1985/03/01/espana/478479610_850215.html) vincula específicamente al rechazo del relato de la maleta.
+
+Las diligencias fiscales se abrieron a petición del Gobierno para comprobar las noticias y estudiar posibles querellas; su archivo no se equipara a una sentencia sobre financiación del partido. El [archivo fiscal reseñado en mayo de 1985](https://elpais.com/diario/1985/05/23/espana/485647215_850215.html) no se convierte aquí en un auto judicial de sobreseimiento ni en una sentencia absolutoria. Falta el documento fiscal original para precisar todo su alcance.
+
+La [noticia de 1990](https://elpais.com/diario/1990/05/29/espana/643932012_850215.html) hablaba de 22 millones de marcos investigados con posibles destinos españoles y portugueses, y recogía que el abogado del implicado negaba su entrega a partidos o políticos concretos. No permite atribuir ese total al PSOE ni afirmar que una resolución alemana confirmó financiación ilegal. No se fija un coste o daño patrimonial con esas cantidades.
+
+No se ha localizado una resolución posterior verificable que permita completar esos extremos al corte de 17 de octubre de 2026. Faltan los originales fiscales españoles y alemanes, el contraste directo de la investigación alemana y la lectura íntegra de los documentos parlamentarios. El boletín se consultó mediante el extracto indexado del buscador; los intentos de descarga directa devolvieron 403, por lo que no se incorpora como PDF verificado en documentos.
