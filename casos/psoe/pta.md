@@ -2,7 +2,7 @@
 "nombre": "Caso PTA"
 "partido": "PSOE"
 "completado": false
-"año": 2009
+"año": 2008
 "estado": "Condenas confirmadas; seguimiento de ejecución pendiente"
 "lugar": "Jerez de la Frontera, Cádiz, Andalucía"
 "coste": 122360
@@ -135,6 +135,8 @@
   "urls":
   - "https://www.lavozdelsur.es/actualidad/sociedad/las-dos-resurrecciones-de-carmen-martinez-la-politica-ha-sido-mi-mayor-pesadilla_137880_102.html"
 ---
+
+El año de referencia corresponde a la resolución municipal de ayuda de 25 de enero de 2008, no a la denuncia posterior de 2009.
 
 El fallo distingue tres condenados de cuatro personas absueltas. Los consejeros de TISA no fueron condenados por haber solicitado la ayuda. La entidad, posteriormente denominada Sistema de Innovación de Fluidos S.L., fue absuelta de la pretensión civil dirigida contra ella. Las dos condenadas recurrentes también fueron absueltas del delito adicional de fraude a la Administración. Las penas de multa y demás accesorios recogidos en el original no se suman al daño.
 
