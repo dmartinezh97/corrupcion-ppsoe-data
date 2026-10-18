@@ -84,7 +84,7 @@ cronologia:
   - https://www.laregion.es/comarca-de-ourense/audiencia-condena-anos-inhabilitacion-alcalde-melon_1_20101120-2456763.html
   - https://elpais.com/diario/2010/11/20/galicia/1290251892_850215.html
   - https://www.lavozdegalicia.es/amp/noticia/galicia/2010/11/20/inhabilitan-alcalde-melon-construir-pabellon-permiso/0003_8860183.htm
-- fecha: '2013-05-27'
+- fecha: '2013-05-26'
   titulo: Seguimiento de la sanción y del nombramiento municipal
   descripcion: La Región/Europa Press informó de que seguían pendientes los 120.000 euros de sanción y describió
     el cargo de director general que Pardellas había desempeñado después de que su esposa accediese a la alcaldía.
@@ -92,7 +92,7 @@ cronologia:
     judicial de daños.
   type: resumen
   urls:
-  - https://www.laregion.es/articulo/ourense/melon-ourense-debe-120-000-euros-multa-facer-polideportivo-na-zona-proteccion-do-mosteiro/20130527185130008075.html
+  - https://www.laregion.es/comarca-de-ourense/melon-ourense-debe-120-000-euros-multa-facer-polideportivo-na-zona-proteccion-do-mosteiro_1_20130526-2984806.html
 - fecha: '2014-07-23'
   titulo: Información sobre la segunda denegación de indulto
   descripcion: La Voz de Galicia informó de una segunda denegación de indulto, adoptada por el Gobierno el 11 de
