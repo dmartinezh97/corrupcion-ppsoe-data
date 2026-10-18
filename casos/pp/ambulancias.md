@@ -81,15 +81,15 @@ cronologia:
 
   - fecha: "2016-02-27"
     titulo: "Inicio de la retención de facturas a Ambulancias Alerta"
-    descripcion: "Según la investigación de El Español, comienza la retención de facturas de Ambulancias Alerta por parte de Sanidad. La deuda acumulada por cinco facturas alcanzaría los 2,9 millones de euros y la retención se prolongaría hasta el 7 de mayo de 2016."
+    descripcion: "Según la investigación de El Español, comienza la retención de facturas de Ambulancias Alerta por parte de Sanidad. La deuda acumulada por cinco facturas alcanzaría los 2,9 millones de euros y la retención se prolongaría hasta la orden de pago que ese medio fecha el 7 de mayo de 2016, sin fecha efectiva de abono certificada."
     type: "resumen"
     relevancia: "media"
     urls:
       - "https://www.elespanol.com/espana/20171229/sanidad-asfixio-impagos-competidor-ferrovial-presento-renuncia/272973327_0.html"
 
   - fecha: "2016-05-07"
-    titulo: "Pago de las facturas retenidas"
-    descripcion: "La Administración ordena el pago de las cinco facturas retenidas, por 2,9 millones de euros, según los resguardos de pago citados por El Español. Ese diario vinculó el pago a la renuncia de la empresa, que él mismo fecha el 5 de mayo (4 de mayo según los registros de la Consejería)."
+    titulo: "Orden de pago de las facturas retenidas"
+    descripcion: "La Administración ordena el pago de las cinco facturas retenidas, por 2,9 millones de euros, según los resguardos de pago citados por El Español. Ese diario vinculó la orden de pago a la renuncia de la empresa, que él mismo fecha el 5 de mayo (4 de mayo según los registros de la Consejería). No se ha certificado la fecha efectiva del abono."
     type: "resumen"
     relevancia: "media"
     urls:
@@ -209,3 +209,5 @@ Revisión de la ficha con fuentes periodísticas y notas oficiales entre 2016 y 
 Se han descargado y leído íntegramente las dos páginas del BOCM (95-96), con inspección visual de la primera; el número de expediente, adjudicatarios, importes y fechas constan expresamente. También se han leído la nota oficial de 10 de mayo y las crónicas de Europa Press de 17 de enero de 2019 y 17 de enero de 2020 y de Redacción Médica sobre el archivo. No se han obtenido los autos de admisión, citación, archivo o apelación: no se presenta su contenido como lectura directa.
 
 La fecha final queda vacía: un auto de apelación que confirma un sobreseimiento provisional no acredita una fecha de cierre global. La ausencia de nuevas resoluciones localizadas no prueba su inexistencia. Los antecedentes sobre presiones y facturas proceden de la empresa y de las investigaciones periodísticas; no se convierten en hechos probados, y las crónicas del archivo señalan que no quedó acreditada la intervención de los investigados en el retraso de pagos. Los nombres y cargos se conservan como históricos, sin atribuirles vigencia actual.
+
+El hito de 7 de mayo de 2016 corresponde a la orden de pago según El Español, no a una fecha efectiva de abono certificada. No se han recuperado justificantes bancarios originales que permitan fijar esta última.
