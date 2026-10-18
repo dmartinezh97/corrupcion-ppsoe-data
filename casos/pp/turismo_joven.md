@@ -16,10 +16,10 @@ descripcion: 'El caso Turisme Jove investigó la gestión del consorcio público
   civiles: no todos responden por los mismos hechos ni deben sumarse sus inhabilitaciones como períodos sucesivos.
 
 
-  Jaume Matas fue juzgado por separado y absuelto de prevaricación, malversación y falsedad mercantil, según anunció
-  el Poder Judicial el 10 de abril de 2019. En 2025 se documenta además una controversia sobre rehabilitación funcionarial,
-  distinta de la culpabilidad penal. Quedan pendientes los originales completos de la pieza de 2019 y de las revisiones
-  y ejecuciones, así como el seguimiento hasta el 17 de octubre de 2026.'
+  Jaume Matas fue juzgado por separado y absuelto de prevaricación, malversación y falsedad mercantil, por la sentencia
+  170/2019, de 8 de abril, difundida por el Poder Judicial el día 10. En 2025 se documenta además una controversia
+  sobre rehabilitación funcionarial, distinta de la culpabilidad penal. Quedan pendientes los originales completos
+  de las revisiones y ejecuciones, así como el seguimiento hasta el 17 de octubre de 2026.'
 resumen: Condenas por conformidad en enero de 2014 por la gestión de Turisme Jove, con responsabilidades individuales.
   Matas fue absuelto en una pieza posterior en 2019; ejecución y revisiones pendientes de completar.
 lugar: Illes Balears
@@ -44,7 +44,7 @@ implicados:
     meses de prisión según resumen periodístico y multa de 11.000 euros por cohecho.
 - nombre: Jaume Matas
   cargo: Expresidente del Govern balear (PP)
-  rol: Absuelto en la pieza separada anunciada el 10 de abril de 2019. Su presidencia durante los hechos no implica
+  rol: Absuelto por sentencia 170/2019, de 8 de abril, en pieza separada. Su presidencia durante los hechos no implica
     responsabilidad por las condenas de otros.
 tags:
 - malversación
@@ -59,6 +59,12 @@ documentos:
   filetype: pdf
   paginas: 45
   nombre_fichero: https://www.ultimahora.es/sfAttachPlugin/159479.pdf
+- fecha: '2019-04-08'
+  titulo: Sentencia 170/2019, Audiencia Provincial de Balears, Sección Segunda. Absolución en pieza separada de
+    Turisme Jove (ECLI:ES:APIB:2019:487)
+  filetype: pdf
+  paginas: 9
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=067bac97193a6575&encode=true&databasematch=AN
 cronologia:
 - fecha: '2008-08-15'
   titulo: Información sobre medidas cautelares
@@ -77,13 +83,15 @@ cronologia:
   urls:
   - https://www.ultimahora.es/sfAttachPlugin/159479.pdf
   - https://www.lavanguardia.com/local/islas-baleares/20140117/54398218861/la-audiencia-condena-a-los-acusados-de-turisme-jove-a-hasta-3-anos-y-7-meses-de-carcel-por-desviar.html
-- fecha: '2019-04-10'
-  titulo: Anuncio de absolución de Matas en pieza separada
-  descripcion: El Poder Judicial anunció la absolución por dudas sobre su culpabilidad. La nota no es el original
-    de la sentencia ni acredita su fecha exacta o firmeza; la prensa indicó que cabía casación.
+- fecha: '2019-04-08'
+  titulo: Absolución de Matas en pieza separada
+  descripcion: La sentencia 170/2019 absuelve de prevaricación, malversación y falsedad mercantil por dudas razonadas
+    sobre su participación. Se difundió el 10 de abril; el fallo admitía casación en cinco días desde la última
+    notificación. No se ha verificado su firmeza.
   type: sentencia
   relevancia: alta
   urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=067bac97193a6575&encode=true&databasematch=AN
   - https://www.poderjudicial.es/portal/site/cgpj/menuitem.65d2c4456b6ddb628e635fc1dc432ea0/?perfil=1&vgnextchannel=958e825dd79f0310VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=en&vgnextoid=f6ec39782470a610VgnVCM1000006f48ac0aRCRD
   - https://www.ultimahora.es/noticias/local/2019/04/10/1071741/audiencia-absuelve-matas-caso-turisme-jove.html
 - fecha: '2025-04-08'
@@ -114,4 +122,4 @@ La absolución de Matas en 2019 se refiere a su posible intervención en una ord
 
 Se obtuvo una copia escaneada de la sentencia principal alojada en Última Hora, con fecha judicial comprobada visualmente de 13 de enero de 2014. El archivo tiene 45 páginas PDF y su última hoja lleva numeración impresa 46: requiere cotejo con la copia completa de la sede judicial. Se leyeron la identificación y el fallo mediante OCR, no todos los hechos y fundamentos. La fecha de creación del archivo, 17 de enero de 2014, corresponde a su preparación o difusión.
 
-La resolución de absolución de 2019 enlazada por el Poder Judicial redirige a un acceso bloqueado; no se incorpora como PDF. Los originales de ejecución, pagos y eventuales recursos siguen pendientes. La búsqueda hasta el corte del 17 de octubre de 2026 no demuestra ausencia de novedades.
+Se ha recuperado el PDF oficial de la sentencia 170/2019, de 8 de abril, de nueve páginas: se han leído la cabecera, antecedentes y pasajes finales con el fallo, no toda la fundamentación. La referencia nominal a Matas se contrasta con la nota oficial, sin inferirla del seudónimo de CENDOJ. El original califica como firme la sentencia principal de 2014; esto no acredita el pago completo por todos sus responsables ni la firmeza de la absolución de 2019. Los originales de ejecución, pagos y eventuales recursos siguen pendientes. La búsqueda hasta el corte del 17 de octubre de 2026 no demuestra ausencia de novedades.
