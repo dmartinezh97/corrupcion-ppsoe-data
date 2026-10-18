@@ -1,97 +1,61 @@
 ---
 nombre: "Aplauso"
 partido: PP
-completado: true
+completado: false
 año: 2012
-fechaInicio: 2012-01-16
-fechaFin: "2019-08-31"
-estado: "sobreseimiento"
+estado: "Archivo penal informado en 2021; modalidad y firmeza pendientes de cotejo"
 descripcion: |
-  La Operación Aplauso es un caso de presunta prevaricación urbanística e irregularidades en la gestión del patrimonio público municipal ocurrido en Gandía (Comunidad Valenciana) durante el mandato del alcalde popular Arturo Torró. La operación se centra en la compra del complejo de ocio Gandia Palace, propiedad de la empresa Vipei SA, realizada el 16 de enero de 2012 a través de la empresa municipal Iniciatives Públiques de Gandía (IPG) por un importe de 6,7 millones de euros. La decisión se tomó sin respetar los preceptivos informes de legalidad y sin seguir los procedimientos legales de contratación pública, lo que motivó la apertura de diligencias penales por el Juzgado nº 1 de Gandía.
+  La Operación Aplauso se refiere a la compra de la galería comercial y de ocio del Gandia Palace por la empresa municipal Iniciatives Públiques de Gandia (IPG), durante la alcaldía de Arturo Torró (PP). La prensa sitúa el contrato con Vipei en el 16 de enero de 2012, por 6,7 millones de euros, con compensación de una deuda tributaria. En diciembre de 2015 se informó de la citación como investigados de Torró y Javier Reig por presunta prevaricación. La investigación no equivale a una condena.
 
-  El mecanismo utilizado pretendía, de manera encubierta, condonar una deuda de 1,3 millones de euros que Vipei SA mantenía con el Ayuntamiento en concepto de impuesto de bienes inmuebles (IBI). En lugar de reclamar judicialmente ese impago, el exalcalde Torró y el exconcejal y vicepresidente de IPG, Javier Reig, firmaron la adquisición del complejo, integrando la deuda en el precio de compra y reduciendo el coste final a 5,4 millones de euros. El contrato incluía la cesión de las instalaciones —salas de cine CineBox, bolera y otros locales— al propio vendedor, Vipei SA, con objeto de sufragar el coste mediante los alquileres percibidos. Sin embargo, el complejo fue abandonado en septiembre de 2014 dejando las instalaciones destruidas: parqués arrancados, cableado eléctrico cortado, pantallas de cine dañadas y equipos sustraídos.
-
-  El Juzgado de lo Mercantil nº 2 de Valencia declaró en diciembre de 2015 que la compraventa había sido válida y ejecutada, lo que obligó al Ayuntamiento de Gandía a afrontar el pago. El coste total para las arcas públicas se estimó en aproximadamente 7,2 millones de euros, incluyendo la deuda principal y el IBI condonado irregularmente. En mayo de 2017, el gobierno municipal alcanzó un acuerdo extrajudicial con Vipei SA por el que el Ayuntamiento quedó exonerado del pago de 5,36 millones de euros —una quita del 33%— a cambio de restituir el inmueble a su propietario. No obstante, no fue posible recuperar el 1,3 millones de euros en impuestos condonados ni 600.000 euros en impuestos de transmisión patrimonial por la falta de inscripción registral. Tanto Arturo Torró como Javier Reig fueron investigados por prevaricación, pero la causa fue sobreseída provisionalmente por el Juzgado nº 1 de Gandía al no apreciarse indicios suficientes de delito.
-
-resumen: "Compra irregular de un complejo de ocio por 6,7 millones a través de empresa municipal en Gandía"
-coste: 7200000
-lugar: "Gandía, Comunidad Valenciana"
+  Una controversia mercantil sobre el cumplimiento de la compraventa dio lugar, según Valencia Plaza, a una sentencia mercantil informada en diciembre de 2015 y a un acuerdo homologado del que se informó en mayo de 2017: devolución del inmueble y liberación de la deuda pendiente. En mayo de 2021 SaforGuia informó del archivo de la causa penal contra Torró y Reig. No se han obtenido las resoluciones originales para verificar las fechas exactas, modalidad del sobreseimiento, recursos y firmeza. Tampoco se acredita una cuantificación judicial del daño: precio, deuda, tributos y estimaciones políticas no se suman como coste probado. Revisión parcial hasta el 17 de octubre de 2026.
+resumen: "Compra municipal del área de ocio del Gandia Palace, acuerdo patrimonial en 2017 y archivo penal informado en 2021; resoluciones originales pendientes."
+lugar: "Gandia, Comunitat Valenciana"
 tribunal:
-  - "Juzgado de Instrucción nº 1 de Gandía"
+  - "Juzgado de Instrucción nº 1 de Gandia"
   - "Juzgado de lo Mercantil nº 2 de Valencia"
 numeroSentencia: ""
 implicados:
-  - nombre: "Arturo Torró Chisvert"
-    cargo: "Exalcalde de Gandía (PP) y presidente de IPG"
-    rol: "Imputado por prevaricación en compra irregular del Gandia Palace; sobreseído provisionalmente"
-
-  - nombre: "Francisco Javier Reig Garrigues"
-    cargo: "Exconcejal del PP y exvicepresidente de IPG"
-    rol: "Imputado por prevaricación en la firma del contrato de compraventa; sobreseído provisionalmente"
-
-  - nombre: "Gonzalo Morant"
-    cargo: "Exgerente de Iniciatives Públiques de Gandía (IPG)"
-    rol: "Investigado por gestión irregular de la empresa municipal en el período de la compra"
-
+  - nombre: "Arturo Torró"
+    cargo: "Exalcalde de Gandia (PP) y presidente de IPG en la operación"
+    rol: "Citado como investigado por presunta prevaricación; archivo de la causa informado en 2021."
+  - nombre: "Javier Reig"
+    cargo: "Exconcejal del PP y vicepresidente de IPG en la operación"
+    rol: "Citado como investigado por su participación en la compra; archivo de la causa informado en 2021."
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "malversación"
-  - "fraude"
-  - "contratación irregular"
-
-impactoSocial: "El caso expuso las graves consecuencias de una gestión patrimonial irresponsable, dejando al Ayuntamiento de Gandía con una deuda millonaria por un inmueble abandonado y destruido. La operación se convirtió en símbolo del derroche del PP valenciano y contribuyó al cambio de gobierno municipal en las elecciones de 2015."
-
-documentos: null
-
+  - "contratación pública"
+  - "patrimonio municipal"
+  - "sobreseimiento"
+impactoSocial: "La operación generó controversia sobre las decisiones patrimoniales de IPG y las obligaciones económicas que debía afrontar el municipio."
+documentos: []
 cronologia:
-  - fecha: 2012-01-16
-    titulo: "Firma del contrato de compraventa del Gandia Palace"
-    descripcion: "El alcalde de Gandía, Arturo Torró, y el vicepresidente de IPG, Javier Reig, firman el contrato de compraventa de las instalaciones de ocio del Gandia Palace —propiedad de Vipei SA— por 6,7 millones de euros, a través de la empresa municipal IPG. La operación se presenta públicamente como una iniciativa para dinamizar la zona de playa y ampliar el patrimonio municipal, pero el interventor y el tesorero del ayuntamiento emiten informes negativos sobre la legalidad de la operación."
+  - fecha: "2012-01-16"
+    titulo: "Contrato de compraventa mediante IPG"
+    descripcion: "Valencia Plaza sitúa en esta fecha el contrato relativo al área comercial y de ocio del Gandia Palace. El precio anunciado era de 6,7 millones, con descuento de una deuda por IBI. Estas magnitudes contractuales no acreditan por sí solas un daño penal."
     type: "resumen"
     urls:
-      - "https://valenciaplaza.com/la-operacion-aplauso-costara-7-2-millones-al-ayuntamiento-de-gandia"
       - "https://valenciaplaza.com/el-gobierno-de-gandia-pone-fin-a-la-operacion-aplauso"
-
-  - fecha: 2014-09
-    titulo: "Abandono y destrucción del complejo Gandia Palace"
-    descripcion: "Vipei SA abandona las instalaciones del Gandia Palace sin previo aviso en septiembre de 2014, cuando el complejo todavía está arrendado al vendedor para sufragar el coste de la compra. Una inspección posterior del nuevo gobierno municipal revela que el inmueble ha sido saqueado: parqués arrancados, cableado eléctrico cortado, pantallas de cine dañadas y equipamiento diverso sustraído. Las instalaciones quedan en estado ruinoso."
-    type: "resumen"
-    urls:
-      - "https://valenciaplaza.com/el-gobierno-de-gandia-descubre-que-las-instalaciones-del-gandia-palace-estan-destruidas"
-
-  - fecha: 2015-06
-    titulo: "Denuncia del PSPV ante el juzgado"
-    descripcion: "El exconcejal socialista Vicent Mascarell presenta una denuncia formal ante el Juzgado nº 1 de Gandía por las irregularidades en la compra del Gandia Palace a través de IPG. La denuncia alega la existencia de un presunto delito de prevaricación al haberse realizado la adquisición sin cumplir los requisitos legales de contratación pública y con informes negativos de los funcionarios municipales."
-    type: "denuncia"
-    urls:
-      - "https://www.eldiario.es/cv/Operacion-Aplauso-imputa-Arturo-Torro_0_467553498.html"
-
-  - fecha: 2015-12
-    titulo: "Juzgado Mercantil declara válida la compraventa"
-    descripcion: "El Juzgado de lo Mercantil nº 2 de Valencia dicta sentencia en diciembre de 2015 estimando que la compraventa del Gandia Palace fue válida y ejecutada, y que IPG —y por tanto el Ayuntamiento de Gandía— incumplió el contrato al no efectuar el pago. La sentencia obliga al consistorio a afrontar la deuda derivada de la operación, que ya asciende a más de 5,3 millones de euros."
-    type: "sentencia"
-    urls:
-      - "https://valenciaplaza.com/la-operacion-aplauso-costara-7-2-millones-al-ayuntamiento-de-gandia"
-
-  - fecha: 2015-12-28
-    titulo: "El juez imputa a Arturo Torró y a Javier Reig"
-    descripcion: "El Juzgado nº 1 de Gandía cita a declarar como investigados al exalcalde Arturo Torró y al exconcejal Javier Reig por un presunto delito de prevaricación relacionado con la compra del Gandia Palace. La declaración como imputados está programada para el 30 de diciembre de 2015. Ambos reconocen la operación pero niegan la existencia de irregularidades penales."
+  - fecha: "2015-12-28"
+    titulo: "Se informa de la citación de Torró y Reig como investigados"
+    descripcion: "ElDiario.es informa de la citación por presunta prevaricación en la adquisición. La fecha corresponde a la publicación, no al auto de citación. La noticia anuncia una declaración futura, no acredita que se celebrara ese día."
     type: "imputación"
     urls:
-      - "https://www.eldiario.es/cv/Operacion-Aplauso-imputa-Arturo-Torro_0_467553498.html"
-
-  - fecha: 2017-05-12
-    titulo: "Acuerdo extrajudicial con Vipei SA: quita de 5,36 millones"
-    descripcion: "El gobierno municipal de Gandía, presidido por la socialista Diana Morant, anuncia el 12 de mayo de 2017 la conclusión de la Operación Aplauso tras alcanzar un acuerdo extrajudicial con Vipei SA. El Ayuntamiento queda exonerado del pago de 5,364,407 euros a cambio de restituir el inmueble a su propietario. El acuerdo supone una reducción del 33% de la deuda pública generada. El coste total para las arcas municipales ronda los 7,2 millones, contabilizando el IBI condonado (1,3 millones) y los impuestos de transmisión patrimonial no recuperados (600.000 euros)."
+      - "https://www.eldiario.es/comunitat-valenciana/operacion-aplauso-imputa-arturo-torro_1_2275820.html"
+  - fecha: "2017-05-12"
+    titulo: "Se publica el acuerdo para devolver el inmueble"
+    descripcion: "Valencia Plaza informa de un acuerdo con el administrador concursal de Vipei, homologado judicialmente, para devolver el inmueble y eximir del pago de unos 5,36 millones de deuda. Es la fecha de la noticia: la homologación original y su fecha exacta no se han cotejado. La operación patrimonial no es el archivo penal."
     type: "resumen"
     urls:
       - "https://valenciaplaza.com/el-gobierno-de-gandia-pone-fin-a-la-operacion-aplauso"
-
-  - fecha: 2019-08-31
-    titulo: "Sobreseimiento provisional del caso penal"
-    descripcion: "El Juzgado nº 1 de Gandía acuerda el sobreseimiento provisional de las actuaciones penales contra Arturo Torró y Javier Reig al no apreciarse indicios objetivos suficientes de la comisión de un delito de prevaricación. La resolución judicial señala que la documentación aportada no acredita de manera suficiente la perpetración del tipo penal. El caso queda archivado provisionalmente, aunque el sobreseimiento no excluye la posibilidad de reapertura si aparecen nuevos indicios."
-    type: "investigación"
+  - fecha: "2021-05-18"
+    titulo: "SaforGuia informa del archivo de la causa penal"
+    descripcion: "El medio informa de que el Juzgado de Instrucción nº 1 archivó la querella por presunta prevaricación contra Torró y Reig, tras el acuerdo patrimonial y la decisión municipal de no continuar con la querella. La fecha es la de publicación, no la del auto. Sin el original no se precisa si el sobreseimiento fue libre o provisional ni se acredita su firmeza."
+    type: "resumen"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Aplauso&numero=660"
+      - "https://saforguia.com/archive/61522/la-justicia-no-ve-indicios-de-prevaricacion-de-torro-en-la-operacion-aplauso"
 ---
+
+El procedimiento mercantil y el penal tienen objetos distintos. La información publicada en 2017 sitúa en diciembre de 2015 una sentencia mercantil que consideró realizada la compraventa e incumplido el acuerdo por IPG. No es una sentencia penal que declare culpables a los investigados. El acuerdo de devolución del inmueble tampoco debe confundirse con una condena o absolución penal.
+
+Se retira el coste heredado de 7,2 millones: esa cifra aparecía en una previsión periodística anterior al acuerdo patrimonial, mientras que la información de 2017 describe la liberación de la deuda y menciona por separado IBI y transmisiones patrimoniales. No se han cotejado las liquidaciones ni una resolución que fije el perjuicio definitivo. La noticia de 2017 contiene además una errata de unidades al expresar la deuda; no se reproduce literalmente ni se añade a otras cifras como si fueran daños independientes.
+
+**Revisión parcial al 17 de octubre de 2026:** no se han recuperado el contrato, la sentencia mercantil, la homologación ni el auto de archivo penal. La noticia de SaforGuia de 2021 utiliza la expresión archivo definitivo; no se transforma esa expresión periodística en una modalidad jurídica o una certificación de firmeza. Se pudo leer su cuerpo mediante el servicio de consulta web, pero las descargas directas devolvieron HTTP 403. La antigua fecha de archivo del 31 de agosto de 2019 carece de corroboración en las fuentes aquí leídas y se retira. Quedan pendientes la evolución de los recursos y la comprobación documental del estado posterior. No se trasladan a esta ficha resultados de otras causas de Torró o de IPG, como Púnica.
