@@ -7,7 +7,7 @@ fechaInicio: "2013-05-03"
 fechaFin: ""
 estado: "desconocido"
 descripcion: |
-  El Caso EMVS se refiere a la venta de 1.860 viviendas de protección pública —junto con 1.797 plazas de garaje, 1.569 trasteros y 89 inmuebles no vinculados, 5.315 inmuebles en total— de la Empresa Municipal de la Vivienda y Suelo (EMVS) del Ayuntamiento de Madrid a sociedades del fondo Blackstone (Fidere Gestión y Fidere Vivienda), acordada bajo el mandato de la alcaldesa Ana Botella (PP). El anuncio público de la enajenación se publicó el 3 de mayo de 2013 (ofertando 1.862 viviendas como un todo unitario) y la escritura pública de compraventa se formalizó el 31 de octubre de 2013 por 128,5 millones de euros. La Cámara de Cuentas de la Comunidad de Madrid cifró el valor máximo de venta de las 18 promociones como viviendas protegidas en 151.211.518 euros y su valor neto contable en 159.375.025 euros. La EMVS abonó además 2.392.775 euros a la UTE Itaca Desarrollos Urbanos-Promociones y Desarrollos Creaziona (dos facturas de 1.196.387,50 euros, de 10-12-2013 y 31-01-2014), sin que el Tribunal de Cuentas considerara acreditada su intervención, ya que Blackstone trató directamente con la EMVS.
+  El Caso EMVS se refiere a la venta de 1.860 viviendas de protección pública —junto con 1.797 plazas de garaje, 1.569 trasteros y 89 inmuebles no vinculados, 5.315 inmuebles en total— de la Empresa Municipal de la Vivienda y Suelo (EMVS) del Ayuntamiento de Madrid a sociedades del fondo Blackstone (Fidere Gestión y Fidere Vivienda), acordada bajo el mandato de la alcaldesa Ana Botella (PP). El anuncio público de la enajenación se publicó el 3 de mayo de 2013 (ofertando 1.862 viviendas como un todo unitario) y la escritura pública de compraventa se formalizó el 31 de octubre de 2013 por 128,5 millones de euros. La Cámara de Cuentas de la Comunidad de Madrid cifró el valor máximo de venta de las 18 promociones como viviendas protegidas en 151.211.518 euros y su valor neto contable en 159.375.025 euros. La sentencia 11/2018 describe dos facturas de la UTE Itaca Desarrollos Urbanos-Promociones y Desarrollos Creaziona, de 1.196.387,50 euros cada una (10-12-2013 y 31-01-2014), que suman 2.392.775 euros; el informe de la Cámara de Cuentas consigna, en cambio, 2.397.775 euros como importe global. No se han recuperado las facturas originales para conciliar esta discrepancia. La sentencia 11/2018 no consideró acreditada la intervención de la UTE, ya que Blackstone trató directamente con la EMVS.
 
   El eje de la ficha es la vía contable. La sentencia 11/2018, de 27 de diciembre, del Departamento Primero de Enjuiciamiento del Tribunal de Cuentas estimó parcialmente la demanda de la EMVS: cifró los perjuicios ocasionados en los fondos públicos en 25.752.103,63 euros; declaró responsable contable directo por la totalidad a Fermín Oslé Uranga y, solidariamente con él, a Ana Botella y a seis concejales de su equipo (María Concepción Dancausa Treviño, José Enrique Núñez Guijarro, Diego Sanjuanbenito Bonal, María de la Paz González García, María Dolores Navarro Ruiz y Pedro María Corral Corral) hasta 22.711.518 euros, respondiendo Oslé y no los restantes de los 3.040.585,63 euros que completaban el alcance. La sentencia 13/2019, de 17 de julio de 2019, de la Sala de Justicia del Tribunal de Cuentas estimó la falta de legitimación pasiva de los miembros de la Junta de Gobierno, estimó los recursos de los demandados y revocó la 11/2018, desestimando íntegramente la demanda por inexistencia de un perjuicio real, efectivo y evaluable, sin imposición de costas. Las cifras de 22.711.518 y 25.752.103,63 euros son, por tanto, el alcance histórico fijado en una sentencia posteriormente revocada: no constituyen un daño judicial actual ni una responsabilidad exigible. La sentencia 13/2019 incorporó como prueba el auto de archivo penal de 23 de enero de 2019 del Juzgado de Instrucción nº 38 (revocado después por el auto 409/2019 de la Audiencia Provincial, de 27 de mayo de 2019). El Tribunal Supremo (Sala de lo Contencioso-Administrativo) inadmitió en 2020, por falta de legitimación, la queja de la concejala socialista Mercedes González contra el auto del Tribunal de Cuentas de 11-12-2019; fue una inadmisión, sin pronunciamiento de fondo, y no consta documento de firmeza formal de la absolución contable.
 
@@ -90,6 +90,16 @@ documentos:
     filetype: "pdf"
     paginas: 77
     nombre_fichero: "https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2019/Sentencia_13_2019_SJ.pdf"
+  - fecha: "2024-11-28"
+    titulo: "Tribunal Supremo, Sala de lo Civil: STS 1597/2024, retracto arrendaticio, ECLI:ES:TS:2024:5831"
+    filetype: "pdf"
+    paginas: 5
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=4c76631d37fddfc4a0a8778d75e36f0d&encode=true&databasematch=AN"
+  - fecha: "2025-04-21"
+    titulo: "Tribunal Supremo, Sala de lo Civil, Pleno: STS 592/2025, retracto arrendaticio, ECLI:ES:TS:2025:1711"
+    filetype: "pdf"
+    paginas: 8
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=48d5f4346135b706a0a8778d75e36f0d&encode=true&databasematch=AN"
   - fecha: "2026-03-30"
     titulo: "Fidere: contrato de transmisión de filiales operativas a sociedades de Brookfield"
     filetype: "pdf"
@@ -121,7 +131,7 @@ cronologia:
 
   - fecha: "2013-10-31"
     titulo: "Escritura pública de la venta a Fidere (Blackstone)"
-    descripcion: "Se elevan a público los contratos de compraventa de 5.315 inmuebles (1.860 viviendas, 1.797 plazas de garaje, 1.569 trasteros y 89 inmuebles no vinculados) por 128,5 millones de euros. La EMVS abonó además 2.392.775 euros a la UTE Itaca Desarrollos Urbanos-Promociones y Desarrollos Creaziona (dos facturas de 1.196.387,50 euros, de 10-12-2013 y 31-01-2014); el Tribunal de Cuentas concluyó que no hay constancia de sus gestiones porque Blackstone trataba directamente con la EMVS."
+    descripcion: "Se elevan a público los contratos de compraventa de 5.315 inmuebles (1.860 viviendas, 1.797 plazas de garaje, 1.569 trasteros y 89 inmuebles no vinculados) por 128,5 millones de euros. La sentencia 11/2018 describe dos facturas de la UTE Itaca Desarrollos Urbanos-Promociones y Desarrollos Creaziona, de 1.196.387,50 euros cada una (10-12-2013 y 31-01-2014), que suman 2.392.775 euros; el informe de la Cámara de Cuentas consigna, en cambio, 2.397.775 euros como importe global. No se han recuperado las facturas originales para conciliar esta discrepancia; el Tribunal de Cuentas concluyó que no hay constancia de sus gestiones porque Blackstone trataba directamente con la EMVS."
     type: "investigación"
     relevancia: "alta"
     urls:
@@ -212,7 +222,7 @@ cronologia:
     type: "sentencia"
     relevancia: "alta"
     urls:
-      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=4c76631d37fddfc4a0a8778d75e36f0d&encode=true&databasematch=TS"
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=4c76631d37fddfc4a0a8778d75e36f0d&encode=true&databasematch=AN"
       - "https://www.eldiario.es/economia/supremo-obliga-blackstone-vender-viviendas-le-adjudico-ana-botella-precio-saldo-compro_1_11879090.html"
 
   - fecha: "2025-04-21"
@@ -221,7 +231,7 @@ cronologia:
     type: "sentencia"
     relevancia: "alta"
     urls:
-      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=48d5f4346135b706a0a8778d75e36f0d&encode=true&databasematch=TS"
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=48d5f4346135b706a0a8778d75e36f0d&encode=true&databasematch=AN"
       - "https://www.eldiario.es/economia/supremo-libra-blackstone-vender-40-familias-pisos-precio-saldo-compro-ana-botella_1_12244669.html"
 
   - fecha: "2026-02-10"
@@ -276,4 +286,6 @@ La ficha se solapa con "Caso EMVS II" (/casos/pp/emvs_ii/) (vía penal) y, por e
 
 Se retira el campo numérico `coste`: los 25.752.103,63 euros procedían de la sentencia contable revocada, por lo que no representan un perjuicio judicial vigente. Se conserva la secuencia histórica sin sumar importes de distinta naturaleza.
 
-Se han descargado los originales de las dos sentencias contables, comprobando cabecera y fallo, y las conclusiones del informe de fiscalización (páginas impresas 62-64); no se afirma lectura completa de sus extensas motivaciones. Las dos comunicaciones de BME Growth se han leído íntegramente. Los enlaces a los PDF civiles de CENDOJ devolvieron HTTP 403 en esta revisión; sus identificadores y detalles se mantienen como referencias heredadas, contrastadas parcialmente con prensa, sin nueva lectura íntegra de esos originales. La sentencia penal de 2022 se ha contrastado en EFE publicada por Cadena SER y El Mundo, sin localizar su original ni acreditar su firmeza. No se ha localizado una resolución posterior que cambie los resultados contable o penal; la ausencia de resultados no acredita inexistencia.
+Se han descargado los originales de las dos sentencias contables, comprobando cabecera y fallo, y las conclusiones del informe de fiscalización (páginas impresas 62-64); no se afirma lectura completa de sus extensas motivaciones. Las dos comunicaciones de BME Growth se han leído íntegramente. Los dos originales civiles de CENDOJ se han recuperado posteriormente con HTTP 200 y contenido PDF verificado: STS 1597/2024, de 28-11-2024 (5 páginas, leídas íntegramente), y STS 592/2025, de 21-04-2025 (8 páginas; lectura dirigida de las páginas 1 y 5-8, no íntegra). Sus fechas son las de las resoluciones; la fecha de exportación del PDF en octubre de 2026 no es un nuevo acto judicial. La sentencia penal de 2022 se ha contrastado en EFE publicada por Cadena SER y El Mundo, sin localizar su original ni acreditar su firmeza. No se ha localizado una resolución posterior que cambie los resultados contable o penal; la ausencia de resultados no acredita inexistencia.
+
+La intermediación presenta una discordancia documental pendiente: la Cámara de Cuentas consigna 2.397.775 euros en el apartado de contratos relacionados (página impresa 61) y en la conclusión 11 (página impresa 64), mientras que la sentencia 11/2018 reproduce dos facturas de 1.196.387,50 euros cada una (páginas impresas 5 y 62), cuya suma es 2.392.775 euros. Se han leído esos pasajes, pero no las facturas originales independientes. No se elige una cifra para un campo de coste ni se presenta ninguna como daño judicial vigente.
