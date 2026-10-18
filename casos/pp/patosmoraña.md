@@ -60,7 +60,12 @@ tags:
 impactoSocial: Las condenas iniciales tuvieron consecuencias políticas, incluida la dimisión de Luisa Piñeiro como
   delegada de la Xunta en 2021. Las posteriores absoluciones obligan a distinguir esas consecuencias de una responsabilidad
   penal que finalmente no se mantuvo.
-documentos: []
+documentos:
+- fecha: '2025-02-06'
+  titulo: STS 96/2025 y segunda sentencia absolutoria (PDF oficial CENDOJ)
+  filetype: PDF
+  paginas: 20
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a118ce64dcc3541fa0a8778d75e36f0d&encode=true&optimize=20250213&databasematch=AN
 cronologia:
 - fecha: '2011-12-16'
   titulo: Aprobación del convenio para el campo de fútbol
@@ -144,4 +149,4 @@ También se retira el estado de investigada vigente que la ficha atribuía a Beg
 
 Se elimina la fecha 20 de septiembre de 2012 que se presentaba como inicio de Patos y la afirmación de que esta era su única pieza activa: no estaban revalidadas. Los resultados de otros procedimientos de Patos no se trasladan a Moraña.
 
-Revisión parcial hasta 17 de octubre de 2026: no se ha cotejado una ejecutoria ni eventuales actuaciones contables o administrativas posteriores. El propio fallo de casación dice que no cabe recurso, sin que ello permita inventar la inexistencia de cualquier remedio extraordinario posterior. Se enlazan las resoluciones consultadas, pero `documentos: []` permanece vacío al no añadirse archivos locales al repositorio.
+Revisión parcial hasta 17 de octubre de 2026: no se ha cotejado una ejecutoria ni eventuales actuaciones contables o administrativas posteriores. El propio fallo de casación dice que no cabe recurso, sin que ello permita inventar la inexistencia de cualquier remedio extraordinario posterior. Se incorpora a documentos el PDF oficial de la STS 96/2025, de 20 páginas, cuyo enlace y metadatos se han verificado. La copia nominal publicada por La Voz se enlaza como fuente de identificación; su lectura se ha limitado a cabecera, antecedentes seleccionados y fallos.
