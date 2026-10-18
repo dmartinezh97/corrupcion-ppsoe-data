@@ -1,131 +1,120 @@
 ---
-nombre: "PSPV y Bloc"
+nombre: PSPV y Bloc
 partido: PSOE
-completado: true
+completado: false
 año: 2016
-fechaInicio: 2016-12-01
-fechaFin: "2019-06-14"
-estado: "sobreseimiento"
-descripcion: |
-  El caso de la financiación de PSPV y Bloc es una investigación judicial centrada en la presunta financiación ilegal de los partidos PSPV-PSOE y Bloc Nacionalista Valencià (partido integrado posteriormente en la coalición Compromís) durante las campañas electorales de 2007, 2008 y el período 2007-2011. El presunto esquema consistía en que la agencia de comunicación Crespo Gomar organizaba actos y campañas electorales para ambas formaciones políticas, pero las facturas correspondientes no eran pagadas por los partidos sino por empresas privadas —principalmente constructoras y promotoras con intereses en contratos públicos— que a cambio habrían recibido adjudicaciones o comisiones. La trama fue calificada por algunos medios como la "Gürtel del PSOE valenciano" por su similitud estructural con la red de corrupción del PP.
-
-  La investigación se inició en diciembre de 2016 cuando el Juzgado de Instrucción número 21 de Valencia comenzó a practicar diligencias tras recibir un informe de la Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional. La documentación que dio origen al caso había sido llevada a una comisaría de Valencia por representantes del Partido Popular meses antes. El informe policial consideró acreditada la financiación ilegal y señaló como empresas involucradas a Hospimar, Construcciones Blauverd, Quick Meals Ibérica, Metrovacesa, Lubasa, Egevasa y la empresa pública Aquamed. En enero de 2018, el juzgado valenciano se inhibió por razones de competencia territorial y distribuyó la causa entre cuatro juzgados: dos en Madrid (Instrucción 24 y 43), uno en Gandía y otro en Benidorm, donde presuntamente se habrían cometido los delitos. Los delitos investigados incluían prevaricación, malversación de fondos públicos, falsedad documental continuada y financiación electoral ilegal.
-
-  El caso fue archivándose pieza a pieza sin llegar a juicio oral. En julio de 2018 se archivó la causa que implicaba al Ministerio de Sanidad; en junio de 2019 se archivó la última pieza activa —la del Ministerio de Vivienda en el Juzgado de Instrucción número 24 de Madrid— por falta de indicios suficientes. El posible delito de financiación electoral ilegal, que la propia policía consideró acreditado, quedó además afectado por la prescripción. El exlíder del PSPV Joan Ignasi Pla, que ya había dimitido en 2007 por una obra no pagada en su domicilio, y el extesorero del partido José María Cataluña fueron los principales nombres políticos vinculados a la investigación, aunque ninguno fue condenado. Los hechos investigados en este caso coincidían en el tiempo con algunas piezas del posterior caso Azud, que amplió la investigación sobre la financiación irregular del PSPV.
-
-resumen: "Presunta financiación ilegal del PSPV-PSOE y el Bloc mediante facturas falsas de la agencia Crespo Gomar, pagadas por empresas a cambio de contratos públicos en campañas de 2007-2011"
-coste: 0
-lugar: "Comunidad Valenciana, Madrid, España"
+estado: Archivos en las piezas derivadas; recursos y responsabilidad contable pendientes de verificar
+descripcion: Investigación sobre posibles pagos de campañas electorales del PSPV y Bloc a través de Crespo Gomar, de la que
+  derivaron procedimientos sobre contratos o subvenciones en Madrid, Gandia y Benidorm. Las fuentes de 2018-2019 documentan
+  archivos, varios expresamente provisionales. El auto de Vivienda de 13 de junio de 2019 acuerda sobreseimiento provisional
+  y remisión al Tribunal de Cuentas, sin firmeza entonces. No se presenta la hipótesis policial como financiación ilegal judicialmente
+  probada ni se atribuye condición de investigado penal a dirigentes por comparecer en comisiones parlamentarias. Faltan resoluciones
+  de recursos y seguimiento contable hasta el 17 de octubre de 2026.
+resumen: Investigación de financiación electoral y cuatro procedimientos derivados, con archivos diferenciados y alcance posterior
+  pendiente de verificar.
+lugar: Comunitat Valenciana y Madrid
 tribunal:
-  - "Juzgado de Instrucción número 21 de Valencia"
-  - "Juzgado de Instrucción número 24 de Madrid"
-  - "Juzgado de Instrucción número 43 de Madrid"
-  - "Juzgado de Instrucción número 1 de Gandía"
-  - "Juzgado de Instrucción número 1 de Benidorm"
-numeroSentencia: ""
+- Juzgado de Instrucción n.º 21 de Valencia
+- Juzgado de Instrucción n.º 24 de Madrid (Vivienda)
+- Juzgado de Instrucción n.º 43 de Madrid (Sanidad)
+- Juzgado de Instrucción n.º 3 de Gandia
+- Juzgado de Instrucción n.º 1 de Benidorm
+numeroSentencia: Auto 1172/2019, de 13 de junio, JI 24 Madrid, diligencias previas 410/2018
 implicados:
-  - nombre: "Joan Ignasi Pla"
-    cargo: "Secretario general del PSPV-PSOE (2000-2007), Diputado autonómico"
-    rol: "Investigado por presunta financiación ilegal del partido. Dimitió en 2007 por obra no pagada en su domicilio"
-
-  - nombre: "José María Cataluña (Pepe Cataluña)"
-    cargo: "Responsable de finanzas del PSPV-PSOE (1999-2004)"
-    rol: "Principal señalado por la UDEF como articulador de la financiación irregular de campañas electorales"
-
-  - nombre: "Alfred Boix"
-    cargo: "Secretario de organización del PSPV-PSOE (2007-2008)"
-    rol: "Organizó el congreso del PSPV de 2008 en el que intervino Crespo Gomar por más de 800.000 euros"
-
-  - nombre: "Anabel Hallado"
-    cargo: "Exsecretaria de organización del PSOE en Benidorm"
-    rol: "Imputada por presunta participación en la financiación electoral ilegal en Benidorm"
-
-  - nombre: "Etelvina Andreu"
-    cargo: "Directora general de Consumo del Ministerio de Sanidad (Gobierno Zapatero)"
-    rol: "Imputada por adjudicación irregular de contrato publicitario a Crespo Gomar en 2008"
-
-  - nombre: "Consuelo Sánchez Naranjo"
-    cargo: "Subsecretaria de Sanidad y Consumo (Gobierno Zapatero)"
-    rol: "Imputada por adjudicación irregular de contrato publicitario a Crespo Gomar en 2008"
-
-  - nombre: "Enric Morera"
-    cargo: "Líder del Bloc Nacionalista Valencià"
-    rol: "Máximo representante del Bloc, partido investigado por presunta financiación ilegal"
-
-  - nombre: "Crespo Gomar S.L."
-    cargo: "Agencia de comunicación y publicidad"
-    rol: "Empresa central de la trama: organizaba campañas cuyas facturas pagaban terceras empresas"
-
+- nombre: Etelvina Andreu
+  cargo: Exdirectora general de Consumo del Ministerio de Sanidad
+  rol: Investigada en la pieza de Sanidad, archivada provisionalmente en 2018. El recurso del PP fue rechazado por auto de
+    15 de noviembre; apelación y firmeza posteriores pendientes de verificar.
+- nombre: Consuelo Sánchez Naranjo
+  cargo: Exalto cargo del Gobierno de José Luis Rodríguez Zapatero
+  rol: Identificada como investigada en la pieza de Sanidad por la información sobre el recurso de 2018. Procedimiento archivado provisionalmente;
+    resultado de ulteriores recursos pendiente.
+- nombre: Alberto Gomar Pascual
+  cargo: Representante de Crespo Gomar S.L. en la adjudicación de Vivienda
+  rol: Investigado en las diligencias 410/2018, sobreseídas provisionalmente por auto 1172/2019. La remisión al Tribunal de
+    Cuentas no es una condena contable.
+- nombre: Nicolás Mateos Quiroga
+  cargo: Exjefe de Gabinete de la ministra de Vivienda
+  rol: Investigado en la pieza de Vivienda y solicitante de sobreseimiento. El auto de 13 de junio de 2019 archiva provisionalmente
+    el procedimiento.
+- nombre: Crespo Gomar S.L.
+  cargo: Agencia de comunicación y publicidad
+  rol: Empresa relacionada con las campañas y contratos examinados. No se describe como trama condenada ni se atribuye responsabilidad
+    penal a los partidos por su mera relación comercial.
+- nombre: Agustín Navarro Alvado
+  cargo: Exalcalde de Benidorm
+  rol: Investigado en la pieza de los opinómetros. La crónica del archivo provisional de 2019 recoge que no se apreció irregularidad
+    penal en su adjudicación; recursos posteriores pendientes.
+- nombre: Mariola Fluviá Peiró
+  cargo: Exconcejala de Contratación de Benidorm
+  rol: Investigada en la pieza de los opinómetros. La crónica del archivo provisional de 2019 no aprecia responsabilidad penal
+    en su participación en la mesa de contratación.
 tags:
-  - "corrupción"
-  - "financiación ilegal"
-  - "prevaricación"
-  - "malversación"
-  - "falsedad documental"
-  - "financiación electoral"
-
-impactoSocial: "El caso fue bautizado por la prensa como la 'Gürtel del PSOE valenciano' por su esquema similar al de la red de corrupción del PP, y supuso un grave golpe a la imagen del PSPV-PSOE y del Bloc en plena oposición al gobierno de Francisco Camps. La investigación se diluyó al ser troceada en varios juzgados y archivada pieza a pieza, sin llegar a juicio oral, en parte por prescripción del delito electoral. Los hechos reaparecieron años después en el marco del caso Azud."
-
-documentos: []
-
+- financiación electoral
+- contratación pública
+- sobreseimiento provisional
+documentos:
+- fecha: '2019-06-13'
+  titulo: Auto 1172/2019 — JI 24 Madrid, archivo provisional de la pieza de Vivienda
+  filetype: pdf
+  paginas: 6
+  nombre_fichero: https://static.ecestaticos.com/file/296/90b/022/29690b02213551f2e241906347aa7e25.pdf
+- fecha: '2018-05-11'
+  titulo: Diario de Sesiones del Senado 279 — comisión sobre financiación de partidos
+  filetype: pdf
+  paginas: 47
+  nombre_fichero: https://www.senado.es/legis12/publicaciones/pdf/senado/ds/DS_C_12_279.PDF
+- fecha: '2018-05-18'
+  titulo: Diario de Sesiones del Senado 283 — comisión sobre financiación de partidos
+  filetype: pdf
+  paginas: 45
+  nombre_fichero: https://www.senado.es/legis12/publicaciones/pdf/senado/ds/DS_C_12_283.PDF
 cronologia:
-  - fecha: "2007-10-18"
-    titulo: "Dimisión de Joan Ignasi Pla como líder del PSPV"
-    descripcion: "Joan Ignasi Pla presenta su dimisión como secretario general del PSPV-PSOE 24 horas después de conocerse que una empresa constructora le había realizado reformas en su domicilio por valor de 78.000 euros que no había abonado. Pla niega cualquier favor y afirma que dimite en beneficio del partido. El escándalo se produce en plena campaña electoral autonómica y anticipa el clima de sospechas sobre la financiación del PSPV que eclosionaría años después."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/politica/exlider-pspv-dimitir-supuesto-constructora_1_2205332.html"
-
-  - fecha: "2016-06-01"
-    titulo: "El PP lleva documentación a la policía sobre financiación irregular del PSPV y Bloc"
-    descripcion: "Representantes del Partido Popular trasladan a una comisaría de Valencia documentación —facturas y correos electrónicos— que apuntaría a una financiación irregular del PSPV-PSOE y del Bloc durante las campañas electorales de 2007 a 2011. La documentación, según revelaría después el diputado popular José Císcar, le fue entregada al PP por el periódico ABC. Este paso desencadena la investigación policial de la UDEF que posteriormente llegará a los juzgados."
-    type: "denuncia"
-    urls:
-      - "https://www.eldiario.es/cv/politica/Ciscar-PP-PSPV-Bloc-ABC_0_844815751.html"
-
-  - fecha: "2016-12-01"
-    titulo: "El Juzgado de Instrucción 21 de Valencia inicia las diligencias"
-    descripcion: "El Juzgado de Instrucción número 21 de Valencia abre una causa e inicia diligencias tras recibir el informe de la UDEF de la Policía Nacional sobre la presunta financiación ilegal del PSPV y del Bloc-Compromís entre 2007 y 2011. El informe policial considera acreditado que diversas empresas con actividad en Gandía y Benidorm habrían asumido facturas de la agencia Crespo Gomar que deberían haber pagado los propios partidos. Los presuntos delitos investigados incluyen prevaricación, malversación, falsedad documental continuada y financiación electoral ilegal."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/acreditada-financiacion-pspv-bloc-prescripcion_1_2123525.html"
-
-  - fecha: "2018-01-01"
-    titulo: "El juzgado valenciano se inhibe y distribuye el caso en cuatro juzgados"
-    descripcion: "El Juzgado de Instrucción número 21 de Valencia declara su falta de competencia territorial y distribuye la investigación entre cuatro juzgados distintos: el Juzgado de Instrucción número 1 de Gandía, el número 1 de Benidorm, y los juzgados 24 y 43 de Madrid. La jueza aprecia indicios de financiación irregular, falsedad continuada, malversación y prevaricación. La Fiscalía, sin embargo, advierte ya en este momento que el posible delito de financiación electoral ilegal podría estar prescrito. La atomización del caso en cuatro órganos judiciales distintos dificultará una investigación coordinada."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/politica/investiga-gurtel-financiacion-pspv-bloc_1_2205702.html"
-
-  - fecha: "2018-04-13"
-    titulo: "La jueza aprecia cuatro delitos en la financiación del PSOE y el Bloc"
-    descripcion: "La titular del Juzgado de Instrucción 21 de Valencia, al inhibirse, declara haber apreciado indicios de cuatro delitos distintos: financiación electoral ilegal, falsedad documental continuada, prevaricación y malversación de fondos públicos. El informe de la Intervención General del Estado también detecta irregularidades en las adjudicaciones realizadas a Crespo Gomar por el Ministerio de Vivienda. La investigación revela que la empresa Crespo Gomar habría actuado como pieza central de un sistema de financiación en B similar en su estructura a la trama Gürtel del PP."
-    type: "investigación"
-    urls:
-      - "https://www.elindependiente.com/politica/2018/04/13/juez-cuatro-delitos-financiacion-ilegal-psoe-compromis-valencia-2007/"
-      - "https://www.eldiario.es/politica/intervencion-crespo-gomar-pspv-bloc_1_2175912.html"
-
-  - fecha: "2018-05-01"
-    titulo: "Imputadas dos ex altas cargos del Gobierno de Zapatero"
-    descripcion: "El Juzgado de Instrucción número 43 de Madrid cita a declarar como investigadas a Etelvina Andreu, ex directora general de Consumo del Ministerio de Sanidad, y a Consuelo Sánchez Naranjo, ex subsecretaria de Sanidad y Consumo, por un contrato de publicidad de 2008 adjudicado a Crespo Gomar que presuntamente sirvió para financiar irregularmente al PSPV y al Bloc. El Juzgado número 24 de Madrid también cita a tres miembros de la Mesa de Contratación que adjudicó un contrato del Plan Vivienda 2009-2010 al Ministerio de Beatriz Corredor."
-    type: "imputación"
-    urls:
-      - "https://www.publico.es/politica/financiacion-ilegal-imputados-ex-altos-cargos-gobierno-zapatero-financiacion-pspv-bloc-valencia-2008.html"
-      - "https://www.eleconomista.es/legislacion/noticias/9120475/05/18/Imputados-dos-ex-altos-cargos-de-Gobierno-de-Zapatero-por-financiacion-PSPV.html"
-
-  - fecha: "2018-07-01"
-    titulo: "Archivada la causa que implicaba al Ministerio de Sanidad"
-    descripcion: "El juzgado que investigaba la pieza relativa al contrato del Ministerio de Sanidad con Crespo Gomar decide archivar la causa por falta de indicios suficientes para continuar la investigación. Es el primer archivo parcial del caso. La Fiscalía había concluido que no existían elementos probatorios suficientes para sostener los cargos en este tramo de la investigación. La resolución supone el primer retroceso judicial significativo del caso."
-    type: "resumen"
-    urls:
-      - "https://www.eleconomista.es/valenciana/noticias/9255957/07/18/Archivada-la-causa-por-la-presunta-financiacion-ilegal-del-PSPV-que-implicaba-al-Ministerio-de-Sanidad.html"
-
-  - fecha: "2019-06-14"
-    titulo: "Archivada la última pieza: el caso queda cerrado sin condenas"
-    descripcion: "El Juzgado de Instrucción número 24 de Madrid acuerda el sobreseimiento provisional de la última pieza activa del caso, que investigaba las irregularidades en el contrato de publicidad del Plan Vivienda 2009-2012 adjudicado a Crespo Gomar por el Ministerio dirigido entonces por Beatriz Corredor. Con este archivo queda cerrada la última investigación abierta sobre la presunta financiación ilegal del PSPV y Compromís. Ninguno de los implicados llegó a ser juzgado ni condenado. El posible delito de financiación electoral ilegal, que la policía había considerado acreditado, quedó prescrito antes de llegar a los tribunales."
-    type: "resumen"
-    urls:
-      - "https://valenciaplaza.com/el-juzgado-archiva-la-ultima-pieza-por-la-supuesta-financiacion-ilegal-del-pspv-psoe"
-      - "https://www.elespanol.com/espana/tribunales/20190614/archivan-contrato-vivienda-crespo-gomar-financiacion-pspv/406210315_0.html"
-
+- fecha: '2018-07-05'
+  titulo: Noticia del archivo de Sanidad
+  descripcion: El Confidencial informa de un sobreseimiento provisional de la pieza del JI 43 Madrid sobre la campaña de consumo.
+    La resolución era recurrible; esta fecha es la publicación, no una fecha del auto comprobada.
+  urls:
+  - https://www.elconfidencial.com/espana/comunidad-valenciana/2018-07-05/archivo-causa-crespo-gomar-etelvina-andreu-pspv-zapatero_1588423/
+  type: resumen
+- fecha: '2018-11-15'
+  titulo: Se mantiene el archivo de Sanidad al resolver un recurso
+  descripcion: Europa Press, publicada en El Mundo el 21 de noviembre, identifica un auto de 15 de noviembre que rechaza el
+    recurso del PP contra el archivo de julio. Aún cabía apelación; no se extiende su resultado a otras piezas.
+  urls:
+  - https://www.elmundo.es/comunidad-valenciana/2018/11/21/5bf51f62268e3ec97a8b4629.html
+  type: recurso
+- fecha: '2019-03-27'
+  titulo: Noticia del archivo provisional en Gandia
+  descripcion: Cadena SER informa de que el JI 3 de Gandia archiva provisionalmente la investigación sobre la subvención para
+    comprar un inmueble. Cabía recurso. No se toma la publicación como fecha del auto sin su original.
+  urls:
+  - https://cadenaser.com/emisora/2019/03/27/radio_valencia/1553700838_105499.html
+  type: resumen
+- fecha: '2019-05-10'
+  titulo: Noticia del archivo provisional en Benidorm
+  descripcion: Alicante Plaza informa del archivo de los opinómetros adjudicados a Opino Media, por no apreciar reproche penal.
+    Era recurrible en reforma; fecha de publicación, no fecha del auto verificada.
+  urls:
+  - https://alicanteplaza.es/alicanteplaza/la-juez-de-benidorm-no-ve-anomalias-en-la-adjudicacion-de-los-opinometros-a-la-firma-de-gomar
+  type: resumen
+- fecha: '2019-06-13'
+  titulo: Auto de archivo de la pieza de Vivienda
+  descripcion: El auto 1172/2019, DP 410/2018, acuerda sobreseimiento provisional y archivo y deduce testimonio al Tribunal
+    de Cuentas. Advierte expresamente de que no es firme y admite reforma o apelación.
+  urls:
+  - https://static.ecestaticos.com/file/296/90b/022/29690b02213551f2e241906347aa7e25.pdf
+  type: resumen
 ---
+
+La [información sobre el informe policial de 2016](https://www.eldiario.es/comunitat-valenciana/acreditada-financiacion-pspv-bloc-prescripcion_1_2123525.html) describe una hipótesis: terceros habrían pagado servicios electorales prestados por Crespo Gomar. Las conclusiones de la UDEF, los argumentos de las acusaciones y las declaraciones políticas no son un fallo condenatorio. La noticia sitúa la denuncia y la entrega de documentación a la Policía en noviembre de 2016, no permite fijarla el 1 de junio. Tampoco se fija un día artificial de diciembre para la apertura judicial.
+
+El archivo inicial por posible delito electoral y la inhibición territorial dieron paso a investigaciones sobre hechos concretos. No se afirma que las cuatro piezas juzgaran directamente a los partidos como personas jurídicas. Falta contrastar el auto inicial completo y precisar qué pronunciamientos se basaron en prescripción y cuáles en ausencia de indicios. La prescripción de un delito hipotético no demuestra que se cometiera.
+
+La pieza de Sanidad tuvo un archivo provisional en julio de 2018 y una [resolución que lo mantuvo al rechazar el recurso del PP](https://www.elmundo.es/comunidad-valenciana/2018/11/21/5bf51f62268e3ec97a8b4629.html) el 15 de noviembre. Esta última aún admitía apelación. En [Gandia](https://cadenaser.com/emisora/2019/03/27/radio_valencia/1553700838_105499.html), el juzgado citado por la crónica del archivo es el número 3, y en [Benidorm](https://alicanteplaza.es/alicanteplaza/la-juez-de-benidorm-no-ve-anomalias-en-la-adjudicacion-de-los-opinometros-a-la-firma-de-gomar) el número 1. Se conservan los archivos conocidos sin convertirlos en sentencias absolutorias ni afirmar su firmeza actual.
+
+El [auto original de Vivienda](https://static.ecestaticos.com/file/296/90b/022/29690b02213551f2e241906347aa7e25.pdf) es del 13 de junio de 2019, no del 14, fecha de las noticias. Su parte dispositiva archiva provisionalmente y ordena deducir testimonio al Tribunal de Cuentas; no acredita el resultado de esa vía contable. El fundamento tercero recoge 126.208 euros transferidos por el contrato. No son daño judicialmente declarado. Tampoco se suman a los importes de campañas, subvenciones o contratos de las otras piezas, ni se consigna coste cero como si probara ausencia de daño.
+
+Los diarios oficiales del Senado de [11 de mayo](https://www.senado.es/legis12/publicaciones/pdf/senado/ds/DS_C_12_279.PDF) y [18 de mayo de 2018](https://www.senado.es/legis12/publicaciones/pdf/senado/ds/DS_C_12_283.PDF) documentan comparecencias de Enric Morera, José Cataluña y Joan Ignasi Pla y el debate sobre los informes y autos. Se leyeron únicamente encabezados y pasajes seleccionados, no todas las sesiones. Ser compareciente parlamentario, dirigente de un partido o aparecer en un correo no acredita por sí solo ser investigado penal. Se retiran esas atribuciones no verificadas, así como el episodio de la vivienda de Pla de 2007, ajeno al objeto concreto de estas piezas.
+
+No se trasladan a esta ficha sujetos, imputaciones, importes o desenlaces de Azud por coincidencias de nombres, empresas o años. Quedan pendientes los autos originales de las otras piezas, todos los recursos, la situación contable y las resoluciones posteriores hasta el 17 de octubre de 2026. El auto de Vivienda fue leído en encabezado, antecedentes y pasajes de fundamentos y parte dispositiva; no se afirma revisión íntegra de todos los expedientes.
