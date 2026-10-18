@@ -3,8 +3,7 @@ nombre: Mercasevilla / Escuela de Hostelería
 partido: PSOE
 completado: false
 año: 2009
-fechaInicio: '2009-01-16'
-estado: cerrado con condenas
+estado: "Condenas por cohecho confirmadas en 2014; ejecución actual no acreditada"
 lugar: Sevilla, Andalucía
 resumen: 'Solicitud de 450.000 euros por la gestión de una escuela: condenas de Mellet y Ponce confirmadas en 2014
   y absoluciones de Rivas y Pereira.'
