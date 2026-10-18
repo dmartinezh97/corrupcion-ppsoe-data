@@ -1,103 +1,66 @@
 ---
 nombre: "Caso Sogiese"
 partido: PSOE
-completado: true
+completado: false
 año: 2018
-fechaInicio: 2012-01-01
-fechaFin: "2019-01-18"
-estado: "sobreseimiento"
+fechaInicio: "2016-03-17"
+estado: "Sobreseimiento libre comunicado en 2019; firmeza documental pendiente"
 descripcion: |
-  El caso Sogiese es un escándalo de gestión irregular en la empresa pública SOGIESE (Sociedad Gestora Interreg Espacio Sudoeste Europeo), adscrita a la Consejería de Economía y Hacienda del Gobierno de Cantabria, gobernado en coalición por el PSOE y el Partido Regionalista de Cantabria (PRC) bajo la presidencia de Miguel Ángel Revilla. Entre 2012 y 2015, cinco empleados de la empresa —dos de ellos directivos— percibieron retribuciones que superaban los topes salariales fijados por la legislación vigente, acumulando un pago indebido de 90.000 euros en total, sin que existieran informes internos que avalaran las subidas salariales ni se cumplieran los requisitos legales establecidos por tres normas distintas.
+  La causa contra Juan José Sota, consejero socialista de Economía, Hacienda y Empleo de Cantabria, se refería a su presunta inacción para recuperar retribuciones cuestionadas en la sociedad pública SOGIESE. OlaCantabria denunció en septiembre de 2018 pagos supuestamente indebidos de 90.000 euros a cinco empleados entre 2012 y 2015. Sota declaró como investigado. Según la información de Europa Press publicada el 18 de enero de 2019, un auto de 14 de enero acordó el sobreseimiento libre porque los hechos no constituían delito. El 21 de enero se informó de que OlaCantabria no recurriría.
 
-  El bipartito PSOE-PRC aprobó un acuerdo que permitió exceptuar a SOGIESE del límite salarial general aplicable a las empresas públicas de Cantabria. Cuando un informe de la Intervención regional detectó los pagos irregulares, el consejero de Economía, Juan José Sota (PSOE), no adoptó ninguna medida para recuperar las cantidades abonadas de forma improcedente. En septiembre de 2018, la formación política OlaCantabria —liderada por el exdiputado de Ciudadanos Juan Ramón Carrancio— presentó una denuncia ante el Tribunal Superior de Justicia de Cantabria (TSJC) contra Sota, acusándole de prevaricación por omisión al no actuar para subsanar la situación. La denuncia añadía que la inacción del consejero podría estar motivada por un conflicto de intereses familiar, al alegar que una de las personas beneficiarias de los sobresueldos era su propia hija, extremo que Sota negó ante el tribunal.
-
-  Tras abrir diligencias de investigación, la Sala de lo Civil y Penal del TSJC siguió el criterio de la Fiscalía Superior de Cantabria, que en diciembre de 2018 solicitó el archivo por considerar que los hechos no eran constitutivos de delito. Mediante auto de 14 de enero de 2019, el magistrado instructor Juan Piqueras decretó el sobreseimiento libre de la causa. OlaCantabria optó por no recurrir la resolución, cerrando definitivamente el procedimiento judicial sin condenas ni imputaciones formales. El caso quedó así como un episodio de dudosa gestión económica en el sector público cántabro bajo gobiernos del PSOE, sin repercusión penal pero con impacto político en el debate sobre la transparencia y el control de las empresas públicas regionales.
-
-resumen: "Sobresueldos ilegales de 90.000 euros en empresa pública cántabra SOGIESE bajo gestión PSOE-PRC; el consejero Sota fue investigado y el caso archivado sin condenas."
-coste: 90000
+  La documentación de fiscalización publicada en el BOE recoge una propuesta de reintegro de 90.000 euros referida a seis trabajadores, incluido el gerente, y también un acuerdo posterior del Gobierno que declaró subsanadas las irregularidades sin menoscabo de fondos públicos. No se computa esa cifra como daño probado. Falta cotejar el auto judicial original y su firmeza; la revisión hasta el 17 de octubre de 2026 permanece incompleta.
+resumen: "Investigación a Sota por no recuperar retribuciones cuestionadas en SOGIESE; sobreseimiento libre informado en enero de 2019, sin condena."
 lugar: "Cantabria, España"
 tribunal:
-  - "Tribunal Superior de Justicia de Cantabria - Sala de lo Civil y Penal - Magistrado instructor Juan Piqueras"
+  - "Tribunal Superior de Justicia de Cantabria, Sala de lo Civil y Penal"
 numeroSentencia: ""
 implicados:
   - nombre: "Juan José Sota"
-    cargo: "Consejero de Economía, Hacienda y Empleo del Gobierno de Cantabria (PSOE)"
-    rol: "Investigado por presunta prevaricación por omisión al no recuperar pagos irregulares"
-
-  - nombre: "Gobierno de Cantabria (PSOE-PRC)"
-    cargo: "Ejecutivo regional en coalición"
-    rol: "Aprobó acuerdo que permitió superar topes salariales legales en SOGIESE"
-
+    cargo: "Consejero de Economía, Hacienda y Empleo del Gobierno de Cantabria; PSOE"
+    rol: "Declaró como investigado por su presunta omisión ante retribuciones cuestionadas; la causa fue sobreseída libremente según la información judicial publicada en enero de 2019."
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "sobresueldos"
+  - "retribuciones"
   - "empresa pública"
-  - "malversación"
-
-impactoSocial: "El caso generó un debate político en Cantabria sobre el control de las retribuciones en el sector público regional y el posible trato de favor a empleados con vinculaciones familiares con cargos del gobierno, aunque finalmente fue archivado sin responsabilidades penales."
-
-documentos: []
-
+  - "sobreseimiento"
+impactoSocial: "La denuncia suscitó debate político sobre el control salarial de las empresas públicas; el archivo penal debe distinguirse de la controversia administrativa."
+documentos:
+  - fecha: "2019-02-27"
+    titulo: "Resolución de la Comisión Mixta sobre el Informe de fiscalización de Cantabria, ejercicio 2016, e informe publicado en el BOE"
+    filetype: "PDF"
+    paginas: 168
+    nombre_fichero: "https://www.boe.es/boe/dias/2019/04/30/pdfs/BOE-A-2019-6433.pdf"
 cronologia:
-  - fecha: "2012-01-01"
-    titulo: "Inicio de los pagos salariales irregulares en SOGIESE"
-    descripcion: "La empresa pública SOGIESE, creada en 2009 para gestionar fondos europeos del programa Interreg en el espacio sudoeste europeo, comienza a abonar retribuciones a cinco de sus empleados —dos de ellos directivos— que superan los topes salariales fijados por el Gobierno de Cantabria para las empresas públicas. El bipartito PSOE-PRC había aprobado un acuerdo que exceptuaba a SOGIESE de dichos límites, sin que existieran los informes legalmente preceptivos que avalaran las subidas. Los pagos irregulares se prolongarían durante cuatro años, hasta 2015."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Sogiese&numero=564"
-
-  - fecha: "2015-12-31"
-    titulo: "Fin del período de pagos irregulares detectado por la Intervención"
-    descripcion: "Concluye el período de cuatro años (2012-2015) durante el cual cinco empleados de SOGIESE percibieron retribuciones por encima de los límites legales. Un informe de la Intervención del Gobierno de Cantabria detecta que las cantidades pagadas de forma indebida ascienden a un total de 90.000 euros, en incumplimiento de tres normas distintas y sin los correspondientes informes que hubieran podido justificar las subidas salariales. El informe señala la irregularidad y la obligación de reclamar su devolución."
+  - fecha: "2016-03-17"
+    titulo: "Informe de actuación sobre SOGIESE"
+    descripcion: "La fiscalización publicada posteriormente en el BOE reseña un informe de actuación de esta fecha que cuantificaba reintegros por 90.000 euros para seis trabajadores, incluido el gerente. Es una referencia de control financiero, no una condena penal ni una fecha de inicio exacta de los pagos."
     type: "documento"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Sogiese&numero=564"
-
-  - fecha: "2018-09-12"
-    titulo: "OlaCantabria denuncia al consejero Sota ante el TSJC"
-    descripcion: "La formación política OlaCantabria, liderada por el exdiputado de Ciudadanos Juan Ramón Carrancio, presenta una denuncia ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia de Cantabria (TSJC) contra el consejero de Economía, Hacienda y Empleo, Juan José Sota (PSOE). La denuncia le acusa de presunta prevaricación por omisión al no haber adoptado ninguna medida para recuperar los 90.000 euros pagados de forma indebida al personal de SOGIESE. OlaCantabria alega, además, que la inacción de Sota podría estar motivada por un conflicto de intereses, al afirmar que una de las beneficiarias de los sobresueldos era la propia hija del consejero."
-    type: "denuncia"
+      - "https://www.boe.es/boe/dias/2019/04/30/pdfs/BOE-A-2019-6433.pdf"
+  - fecha: "2018-09-27"
+    titulo: "Acuerdo del Gobierno sobre la discrepancia con la Intervención"
+    descripcion: "La nota 5 de la página 45268 del BOE reseña un acuerdo de esta fecha, aportado en alegaciones: el Gobierno declaró justificadas y subsanadas las irregularidades de SOGIESE y que no apreciaba menoscabo de fondos. El acuerdo original no se ha cotejado; no se confunde esta decisión administrativa con el posterior archivo penal."
+    type: "documento"
     urls:
-      - "https://cantabrialiberal.com/cantabria/presunta-imputacion-muy-grave-presentada-ante-el-tsj-contra-el-consejero-de-economia-juanjo-sota,458221.html"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Sogiese&numero=564"
-
-  - fecha: "2018-10-01"
-    titulo: "Sota niega las irregularidades y descarta la dimisión"
-    descripcion: "El consejero Juan José Sota comparece públicamente para negar haber cometido ninguna ilegalidad en relación con la gestión de SOGIESE. Sota desmiente que su hija fuera beneficiaria de los sobresueldos denunciados y defiende que el acuerdo que autorizó las retribuciones en la empresa pública era conforme a derecho. Declara que no tiene intención de dimitir, aunque el presidente regional Miguel Ángel Revilla (PRC) matiza que el cese sería efectivo en caso de que el TSJC acordara la apertura de juicio oral contra el consejero."
-    type: "declaración"
-    urls:
-      - "https://cantabrialiberal.com/nacional/sota-sobre-la-imputacion-en-el-caso-sogiese-no-he-cometido-ninguna-ilegalidad-y-no-dimito,462604.html"
-      - "https://www.cantabriadirecta.es/sota-dice-que-no-ha-hecho-nada-irregular-y-confirma-que-dimitira-si-se-abre-juicio-oral/"
-
-  - fecha: "2018-12-12"
-    titulo: "Revilla condiciona el cese de Sota a la apertura de juicio oral"
-    descripcion: "El presidente de Cantabria, Miguel Ángel Revilla (PRC), declara públicamente que el consejero Sota dimitirá si el TSJC acuerda la apertura de juicio oral en el caso Sogiese. Con esta declaración, Revilla vincula la continuidad del consejero socialista en el cargo a la decisión judicial, mientras el Gobierno de coalición PSOE-PRC mantiene su unidad ante el escándalo político. La posición de Revilla implica de facto que Sota continuará en su puesto mientras la investigación no alcance la fase de juicio."
+      - "https://www.boe.es/boe/dias/2019/04/30/pdfs/BOE-A-2019-6433.pdf"
+  - fecha: "2019-01-14"
+    titulo: "Auto de sobreseimiento libre, según la información publicada"
+    descripcion: "Europa Press informó el 18 de enero de un auto fechado el 14, dictado por el instructor Juan Piqueras. La causa contra Sota se sobreseyó libremente por no constituir delito los hechos; las costas se declararon de oficio. La información indicaba que todavía cabía recurso. No se ha recuperado el auto original."
     type: "resumen"
-    urls:
-      - "https://www.eldiario.es/cantabria/ultimas-noticias/revilla-sota-dimitira-sogiese-acuerda_1_1800445.html"
-      - "https://www.cope.es/emisoras/cantabria/cantabria-provincia/santander/noticias/sota-dimitira-abre-juicio-oral-por-caso-sogiese-20181212_308844"
-
-  - fecha: "2018-12-31"
-    titulo: "La Fiscalía pide el archivo del caso Sogiese"
-    descripcion: "La Fiscalía Superior de Cantabria emite un escrito en el que solicita el archivo de las diligencias abiertas en el TSJC contra el consejero Sota, al considerar que los hechos denunciados por OlaCantabria 'no son constitutivos de delito'. El ministerio fiscal entiende que la inacción del consejero para reclamar los 90.000 euros pagados indebidamente no alcanza el umbral de la prevaricación penal, que exige una resolución arbitraria y manifiestamente contraria al ordenamiento jurídico con plena conciencia de ello por parte del funcionario."
-    type: "resumen"
-    urls:
-      - "https://www.ifomo.es/articulo/cantabria/fiscalia-pide-el-archivo-del--caso-sogiese--abierto-contra-sota-a-raiz-de-la-denuncia-de-olacantabria/20181231151439094182.html"
-
-  - fecha: "2019-01-18"
-    titulo: "El TSJC archiva el caso Sogiese: sobreseimiento libre"
-    descripcion: "La Sala de lo Civil y Penal del Tribunal Superior de Justicia de Cantabria dicta auto de sobreseimiento libre de la causa abierta contra el consejero Juan José Sota por el caso Sogiese. El magistrado instructor Juan Piqueras sigue el criterio de la Fiscalía y declara que los hechos denunciados 'no son constitutivos de delito', cerrando el procedimiento sin imputaciones formales ni apertura de juicio oral. Con el archivo, Sota conserva su cargo en el Gobierno de Cantabria."
-    type: "sentencia"
     urls:
       - "https://eldiariocantabria.publico.es/articulo/cantabria/sobreseida-causa-sota-caso-sogiese-ser-hechos-constitutivos-delit/20190118122515055815.html"
       - "https://www.elfaradio.com/2019/01/18/archivado-el-caso-sogiese/"
-
-  - fecha: "2019-02-01"
-    titulo: "OlaCantabria renuncia a recurrir el archivo"
-    descripcion: "La formación OlaCantabria anuncia que no recurrirá el auto de sobreseimiento dictado por el TSJC en el caso Sogiese, cerrando definitivamente la vía judicial contra el consejero Sota. Con esta decisión, el caso queda archivado sin posibilidad de reapertura, poniendo fin a un episodio que durante meses generó presión política sobre el Gobierno de coalición PSOE-PRC en Cantabria. La polémica sobre los sobresueldos en SOGIESE y la gestión de las empresas públicas regionales permanece como un elemento de crítica política, aunque sin consecuencias penales."
+  - fecha: "2019-01-21"
+    titulo: "Se informa de que OlaCantabria no recurrirá"
+    descripcion: "ElDiario.es publica que OlaCantabria acata el archivo y no recurrirá al no reunir los fondos necesarios. Es la fecha de la noticia y el anuncio de una parte; no sustituye una certificación judicial de firmeza."
     type: "resumen"
     urls:
       - "https://www.eldiario.es/cantabria/ultimas-noticias/olacantabria-desestima-consejero-economia-sogiese_1_1739359.html"
-
 ---
+
+La denuncia atribuía a Sota una omisión para recuperar cantidades, no una apropiación personalmente acreditada. Según la crónica judicial de Europa Press, el instructor consideró que la inacción denunciada no equivalía a una resolución arbitraria y rechazó nuevas diligencias. El Faradio confirma que Sota llegó a declarar como investigado: se elimina por ello la afirmación anterior de que no hubo imputación formal. El sobreseimiento libre comunicado no se presenta como sentencia absolutoria tras juicio.
+
+El informe de fiscalización publicado en el BOE (páginas 45267–45268, páginas 21–22 del PDF) distingue el informe de actuación de marzo de 2016, la falta de constancia de reintegros a 1 de julio de 2018 y el acuerdo gubernamental de 27 de septiembre de 2018 recogido en alegaciones. Este último declaró subsanadas las irregularidades y ausencia de menoscabo. Se retira el coste de 90.000 euros como perjuicio consolidado. Hay además una diferencia de alcance: la denuncia descrita por la prensa se refiere a cinco empleados y 2012–2015; la fiscalización reseña seis trabajadores. No se presupone que ambas delimitaciones sean idénticas.
+
+No se atribuye todo el período 2012–2015 al Gobierno PSOE-PRC a partir de la pertenencia política del consejero investigado en 2018. Tampoco se mantienen imputaciones personales de familiares como hechos acreditados.
+
+**Revisión parcial al 17 de octubre de 2026:** no se han obtenido el auto de 14 de enero, el escrito fiscal de 14 de diciembre de 2018 ni el acuerdo gubernamental original. El PDF adjunto es documentación de fiscalización, no el auto penal; la fecha de su resolución parlamentaria es el 27 de febrero de 2019 y la publicación en el BOE fue el 30 de abril. Solo se han leído su cabecera y los pasajes relevantes, no las 168 páginas completas. Quedan pendientes la comprobación documental de firmeza y la evolución posterior; la búsqueda sin hallazgos no acredita por sí sola ausencia de actuaciones.
