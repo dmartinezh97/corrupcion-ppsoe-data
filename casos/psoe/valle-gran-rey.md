@@ -1,80 +1,81 @@
 ---
 nombre: "Caso Valle Gran Rey"
 partido: PSOE
-completado: true
+completado: false
 año: 2008
-fechaInicio: "2008-02-14"
-fechaFin: "2014-07-02"
-estado: "cerrado con condenas"
+fechaInicio: "2008-01-14"
+estado: "Condena confirmada en 2014; ejecución posterior pendiente de verificar"
 descripcion: |
-  El Caso Valle Gran Rey tiene como protagonista a Ruymán García Marichal, que en 2008 ejercía como primer teniente de alcalde del municipio de Valle Gran Rey, en La Gomera (Canarias), bajo las siglas de Coalición Canaria. García ordenó la contratación irregular de su propia hermana como monitora de la ludoteca municipal, prescindiendo deliberadamente del procedimiento legalmente establecido para cubrir plazas en la Administración Pública. La contratación se formalizó el 14 de febrero de 2008 a través del técnico de la Concejalía de Personal, y supuso el pago de 7.411,96 euros en nóminas entre enero y mayo de ese año por trabajos que la contratada no llegó a realizar en esas fechas.
+  Ruymán García Marichal, exalcalde de Valle Gran Rey, fue condenado por prevaricación en concurso medial con malversación continuada por contratar irregularmente a su hermana para una ludoteca que no prestaba servicio durante el período remunerado. La sentencia de la Audiencia Provincial de Santa Cruz de Tenerife, de 7 de diciembre de 2012, fue confirmada por la STS 18/2014, de 23 de enero. Las penas fueron cuatro años, seis meses y un día de prisión, ocho años y un día de inhabilitación absoluta y siete años de inhabilitación especial. La hermana fue absuelta del delito de tráfico de influencias.
 
-  La Audiencia Provincial de Santa Cruz de Tenerife dictó sentencia condenatoria considerando probados los delitos de prevaricación y malversación continuada de fondos públicos. La hermana del político, identificada como Y.M., fue absuelta de los cargos de tráfico de influencias, aunque el tribunal consideró acreditado que sabía que cobraba sin realizar trabajo alguno. Ruymán García recurrió la sentencia ante el Tribunal Supremo, que en febrero de 2014 ratificó íntegramente la condena impuesta por la Audiencia Provincial.
-
-  Tras la firmeza de la sentencia, García —que había accedido a la alcaldía de Valle Gran Rey mediante una moción de censura apoyada por el PSOE— se negó a ingresar voluntariamente en prisión, lo que motivó que la Audiencia Provincial emitiera una orden de búsqueda y captura el 30 de junio de 2014. Finalmente, el 2 de julio de 2014, ingresó de forma voluntaria en el centro penitenciario Tenerife II para cumplir su condena. Su defensa, encabezada por el exfiscal general del Estado Eligio Hernández, solicitó sin éxito la suspensión de la pena hasta resolver una petición de indulto ante el Ministerio de Justicia.
-
-resumen: "Exalcalde de Valle Gran Rey condenado por contratar irregularmente a su hermana como monitora municipal."
-coste: 7412
+  EFE informó en julio de 2014 de una orden de búsqueda y captura para ejecutar una sentencia que describía expresamente como firme. Europa Press informó del ingreso en Tenerife II el 2 de julio, conducido por agentes de la Policía Canaria. No se ha comprobado la evolución posterior de la ejecución, la petición de indulto ni el amparo. La responsabilidad civil quedó por cuantificar en ejecución; no se equiparan automáticamente los gastos del contrato a una indemnización definitiva. Revisión parcial hasta el 17 de octubre de 2026.
+resumen: "Condena confirmada por contratar irregularmente a su hermana en una ludoteca; ingreso en prisión comunicado en julio de 2014 y ejecución posterior pendiente."
 lugar: "Valle Gran Rey, La Gomera, Canarias"
 tribunal:
-  - "Audiencia Provincial de Santa Cruz de Tenerife"
-  - "Tribunal Supremo - Sala de lo Penal"
-numeroSentencia: ""
+  - "Audiencia Provincial de Santa Cruz de Tenerife, Sección Quinta"
+  - "Tribunal Supremo, Sala de lo Penal"
+numeroSentencia: "STS 18/2014, de 23 de enero; recurso 125/2013"
 implicados:
   - nombre: "Ruymán García Marichal"
-    cargo: "Primer teniente de alcalde y posteriormente alcalde de Valle Gran Rey"
-    rol: "Condenado por prevaricación y malversación continuada de fondos públicos"
-  - nombre: "Y.M. García Marichal"
-    cargo: "Monitora contratada de la ludoteca municipal"
-    rol: "Absuelta de tráfico de influencias; cobró nóminas sin realizar trabajo"
-  - nombre: "Eligio Hernández"
-    cargo: "Abogado defensor (exfiscal general del Estado)"
-    rol: "Defensor de Ruymán García; solicitó indulto y recurso de amparo"
+    cargo: "Primer teniente de alcalde en los hechos y posteriormente alcalde de Valle Gran Rey"
+    rol: "Condenado por prevaricación en concurso medial con malversación continuada; condena confirmada por el Supremo en 2014."
+  - nombre: "Hermana de Ruymán García (identidad no ampliada)"
+    cargo: "Monitora contratada"
+    rol: "Absuelta del delito de tráfico de influencias; no se le atribuye la condena del exalcalde."
 tags:
-  - "corrupción"
   - "prevaricación"
   - "malversación"
-  - "nepotismo"
-  - "contratación irregular"
-impactoSocial: "El caso puso de relieve el nepotismo en la administración local canaria y supuso el ingreso en prisión de un alcalde en ejercicio, generando un amplio debate sobre la impunidad en los municipios pequeños."
-documentos: null
+  - "contratación pública"
+impactoSocial: "La condena y su ejecución suscitaron debate sobre la contratación de familiares y el uso de fondos municipales."
+documentos:
+- fecha: '2014-01-23'
+  titulo: 'STS 18/2014: casación del caso Valle Gran Rey (ECLI:ES:TS:2014:235)'
+  filetype: pdf
+  paginas: 7
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6b9723873b78a4b8&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2008-02-14"
-    titulo: "Contratación irregular de la hermana del teniente de alcalde"
-    descripcion: "Ruymán García Marichal, primer teniente de alcalde de Valle Gran Rey, ordena al técnico de la Concejalía de Personal la contratación de su hermana como monitora de la ludoteca municipal bajo la modalidad de obras y servicios, prescindiendo del procedimiento legalmente establecido. Entre enero y mayo de 2008 se le abonaron 7.411,96 euros en nóminas por trabajo no realizado."
-    type: "investigación"
+  - fecha: "2008-01-14"
+    titulo: "Contrato para la ludoteca municipal"
+    descripcion: "Los hechos probados reproducidos por el Supremo sitúan la formalización y comienzo del contrato en esta fecha, con duración prevista hasta el 3 de julio. Se abonaron cantidades sin prestación laboral; las nóminas de junio y julio quedaron paralizadas por una investigación municipal."
+    type: "resumen"
     relevancia: "alta"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Valle+Gran+Rey&numero=277"
-  - fecha: "2012-01-01"
-    titulo: "Condena de la Audiencia Provincial de Santa Cruz de Tenerife"
-    descripcion: "La Audiencia Provincial de Santa Cruz de Tenerife dicta sentencia condenatoria contra Ruymán García Marichal por prevaricación y malversación continuada de caudales públicos. Le impone 4 años, 6 meses y 1 día de prisión, 8 años y 1 día de inhabilitación absoluta para cargo público y 7 años de inhabilitación especial por prevaricación. Su hermana es absuelta de los cargos de tráfico de influencias."
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6b9723873b78a4b8&encode=true&databasematch=AN"
+  - fecha: "2012-12-07"
+    titulo: "Condena de la Audiencia Provincial"
+    descripcion: "La sentencia de la Sección Quinta impuso prisión de cuatro años, seis meses y un día, inhabilitación absoluta de ocho años y un día e inhabilitación especial de siete años. Absolvió a la otra acusada de tráfico de influencias y remitió la cuantificación de la indemnización municipal a ejecución. Se conoce este fallo por su reproducción en la STS."
     type: "sentencia"
     relevancia: "alta"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Valle+Gran+Rey&numero=277"
-  - fecha: "2014-02-06"
-    titulo: "El Tribunal Supremo ratifica la condena"
-    descripcion: "El Tribunal Supremo confirma íntegramente la sentencia de la Audiencia Provincial. La condena de 4 años, 6 meses y 1 día de prisión queda firme, junto con las inhabilitaciones para el ejercicio de cargo público. García, que ya había accedido a la alcaldía de Valle Gran Rey mediante una moción de censura apoyada por el PSOE, queda sin posibilidad de recurso ordinario."
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6b9723873b78a4b8&encode=true&databasematch=AN"
+  - fecha: "2014-01-23"
+    titulo: "El Supremo desestima la casación"
+    descripcion: "La STS 18/2014 declara no haber lugar al recurso 125/2013 y condena al recurrente a las costas del recurso. Su fecha no debe confundirse con las noticias de febrero que difundieron la decisión."
     type: "sentencia"
     relevancia: "alta"
     urls:
-      - "https://www.eldiario.es/canariasahora/justicia-tribunal-supremo-la-gomera-valle-gran-rey-ruyman-garcia-marichal-prevaricacion-malversacion_1_5036366.html"
-      - "https://www.gomeranoticias.com/2014/02/06/el-ex-alcalde-de-valle-gran-reyruyman-garcia-condenado-a-mas-de-cuatro-anos-de-carcel/"
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6b9723873b78a4b8&encode=true&databasematch=AN"
+      - "https://www.servimedia.es/noticias/366146"
   - fecha: "2014-06-30"
-    titulo: "Orden de búsqueda y captura tras negarse a ingresar en prisión"
-    descripcion: "Tras el requerimiento de la Audiencia Provincial para que ingresara voluntariamente en prisión en un plazo de diez días, Ruymán García no se presenta. El tribunal emite orden de búsqueda, captura e ingreso inmediato en centro penitenciario. Su abogado defensor, el exfiscal general del Estado Eligio Hernández, solicita sin éxito la suspensión de la condena hasta resolver la solicitud de indulto."
-    type: "investigación"
+    titulo: "Orden de búsqueda, captura e ingreso en prisión"
+    descripcion: "Según EFE, el auto de esta fecha ordenó ejecutar una sentencia ya firme, tras vencer el plazo de ingreso voluntario concedido el 13 de junio. EFE publicó la noticia el 2 de julio; el auto admitía recurso de súplica. No se ha recuperado el original."
+    type: "resumen"
     relevancia: "alta"
     urls:
       - "https://www.eldiario.es/canariasahora/lagomeraahora/sociedad/audiencia-ruyman-garcia-cumplir-condena_1_4780147.html"
-      - "https://www.eltambor.es/el-exalcalde-de-valle-gran-rey-ruyman-garcia-tiene-orden-de-busca-y-captura-y-de-ingreso-inmediato-en-prision/"
   - fecha: "2014-07-02"
-    titulo: "Ruymán García ingresa en el centro penitenciario Tenerife II"
-    descripcion: "El exalcalde de Valle Gran Rey ingresa de forma voluntaria en el centro penitenciario Tenerife II para cumplir su condena de más de cuatro años de prisión. La Audiencia Provincial había denegado la petición de su defensa para suspender la ejecución de la sentencia mientras se tramitaba el indulto ante el Ministerio de Justicia. Su abogado anuncia la presentación de un recurso de amparo ante el Tribunal Constitucional."
-    type: "sentencia"
+    titulo: "Ingreso en Tenerife II"
+    descripcion: "Europa Press informó el día 3 de que había ingresado el miércoles 2, llevado por agentes de la Policía Canaria. También recogió la denegación de suspender el ingreso mientras se resolvía el indulto y las declaraciones del abogado sobre un amparo. No se conoce aquí el resultado de esas solicitudes."
+    type: "resumen"
     relevancia: "alta"
     urls:
-      - "https://www.eltambor.es/ruyman-garcia-exalcalde-de-valle-gran-rey-entra-en-prision-sin-que-se-resuelva-sobre-su-indulto/"
-      - "https://www.gomeratoday.com/2014/07/03/ruyman-garcia-finalmente-ingresaba-de-forma-voluntaria-en-tenerife-ii/"
+      - "https://www.europapress.es/nacional/noticia-ingresa-prision-exalcalde-valle-gran-rey-gomera-malversacion-20140703133515.html"
 ---
+
+La copia editorial inicialmente consultada se ha contrastado con el [PDF oficial de la STS 18/2014](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6b9723873b78a4b8&encode=true&databasematch=AN), de siete páginas. Se leyeron las páginas 1–2 y 7, no todos sus fundamentos. Su texto utiliza seudónimos. La identificación nominal del exalcalde y el parentesco proceden de las noticias contrastadas, sin ampliar la identidad de la acusada a partir de esos seudónimos. Se adjunta la versión oficial verificada.
+
+Los hechos probados reproducidos en la sentencia separan 5.700,86 euros de salario bruto y 1.711,10 euros de Seguridad Social: total 7.411,96 euros de gasto. El fallo difiere la indemnización al Ayuntamiento a la ejecución de sentencia. No se mantiene el coste redondeado de 7.412 euros como responsabilidad civil definitiva ni se suman gasto, indemnización y costas. La fuente judicial corrige la fecha de contratación a 14 de enero de 2008; la noticia local que la situaba en febrero no prevalece sobre el texto de la resolución.
+
+La información de Canarias Ahora de febrero de 2014 sitúa los hechos cuando García pertenecía a Coalición Canaria y explica su posterior acceso a la alcaldía con apoyo del PSOE; Servimedia lo identifica como socialista. La clasificación de esta ficha no implica atribuir al PSOE todas las etapas del cargo.
+
+**Límites al 17 de octubre de 2026:** faltan la sentencia de instancia separada y las resoluciones de ejecución, responsabilidad civil, indulto y amparo. La firmeza de la condena se atribuye expresamente a la información de EFE sobre el auto de ejecución, no se infiere del transcurso del tiempo. No se afirma que la pena siga cumpliéndose ni que esté extinguida. La revisión permanece incompleta.
