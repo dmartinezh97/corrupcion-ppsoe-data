@@ -1,110 +1,88 @@
 ---
-nombre: "Caso Púnica/Talamino"
+nombre: Caso Púnica/Talamino
 partido: PP
-completado: true
+completado: false
 año: 2014
-fechaInicio: 2014-09-05
-fechaFin: 2019-03-14
-estado: "cerrado con condenas"
-descripcion: |
-  El Caso Púnica/Talamino, también conocido como Pieza I Talamino, constituye la primera rama judicial de la macrotrama de la Operación Púnica que llegó a juicio y obtuvo condenas firmes. Este caso se centra específicamente en la filtración de información policial confidencial que comprometió gravemente la investigación anticorrupción más importante de la Comunidad de Madrid. El nombre "Talamino" hace referencia al apellido del agente de la Guardia Civil José Manuel Rodríguez Talamino, protagonista del "chivatazo" que permitió a los investigados destruir pruebas y ocultar dinero en efectivo antes de las detenciones masivas de octubre de 2014.
+fechaInicio: '2014-09-05'
+fechaFin: ''
+estado: cerrado con condenas
+descripcion: 'La pieza 1 de Púnica juzgó la filtración de información sobre la vigilancia policial del despacho de David Marjaliza. La Audiencia Nacional condenó el 1 de diciembre de 2017 a Francisco José Granados Lerena y José Manuel Rodríguez Talamino a dos años de prisión, y a José Luis Caro Vinagre a un año y seis meses. El Supremo confirmó las penas en 2019; la prensa consultada las describe expresamente como firmes. La confirmación se publicó el 14 de marzo, fecha que no debe confundirse con la de la sentencia.
 
-  La noche del 5 de septiembre de 2014, durante las fiestas patronales de Valdemoro (Madrid), el agente Rodríguez Talamino, miembro de la Unidad Central Operativa (UCO) de la Guardia Civil, se acercó al exconsejero de Presidencia y Justicia de la Comunidad de Madrid Francisco Granados y le alertó sobre una vigilancia policial activa. Talamino, que había recibido órdenes de instalar una cámara oculta frente a las oficinas del empresario David Marjaliza en Pinto, comentó a Granados que tenían "tanto trabajo que la unidad ha llegado a Valdemoro" y que la UCO estaba monitorizando el edificio Éboli donde Marjaliza operaba sus negocios. Esta información confidencial fue transmitida por José Luis Caro Vinagre, exagente de la Guardia Civil en excedencia que trabajaba como asesor de seguridad contratado por la Comunidad de Madrid durante el mandato de Granados como consejero de Interior.
 
-  Al día siguiente, el 6 de septiembre de 2014, Francisco Granados contactó telefónicamente con David Marjaliza para advertirle de la vigilancia policial. Esta filtración tuvo consecuencias inmediatas y graves para la investigación: Granados ordenó a Marjaliza destruir toda la documentación que le vinculaba con sus empresas, incluyendo albaranes de regalos y organigramas empresariales. Marjaliza encargó a un subordinado la destrucción de estos documentos comprometedores y trasladó información sensible sobre cuentas bancarias en Suiza y Singapur a la vivienda de su secretaria. Por su parte, Granados ocultó casi un millón de euros en efectivo (972.000 euros) en la casa de sus suegros, dinero que la Guardia Civil descubrió posteriormente en diciembre de 2015. Este ocultamiento de pruebas y dinero causó "daños graves" a la investigación policial según determinó el Tribunal Supremo, al permitir que los investigados desarticularan el rastro económico de la trama corrupta y borraran evidencias documentales fundamentales.
+  Los hechos probados describen un aviso inicial de Talamino a Granados durante las fiestas de Valdemoro y una ampliación de información obtenida por Caro Vinagre el 6 de septiembre de 2014. La filtración permitió destruir documentación, ocultar dinero y dificultar las pesquisas. Marjaliza no figura entre los tres acusados de esta pieza. La Audiencia desestimó la responsabilidad civil reclamada por los gastos de una maniobra policial de distracción.
 
-  El 4 de diciembre de 2017, la Sección Primera de la Sala de lo Penal de la Audiencia Nacional dictó la primera sentencia del macrocaso Púnica, condenando a Francisco Granados y José Manuel Rodríguez Talamino a dos años de prisión cada uno, y a José Luis Caro Vinagre a un año y seis meses. Los magistrados declararon probados los delitos de aprovechamiento de secretos revelados por funcionario público (en el caso de Granados y Caro Vinagre) y revelación de secretos agravada (para Talamino), además de imponer a este último cuatro años de inhabilitación especial para empleo o cargo público. El 14 de marzo de 2019, la Sala Segunda del Tribunal Supremo confirmó íntegramente estas condenas mediante la sentencia 138/2019, convirtiéndolas en firmes. El Alto Tribunal subrayó que la filtración proporcionó un "beneficio económico" directo a Granados y Marjaliza al permitirles ocultar efectivo y eliminar pruebas de la investigación específica y avanzada de la que se enteraron que estaban siendo objeto.
 
-  Esta pieza judicial representa un precedente significativo porque establece jurisprudencia sobre la gravedad de las filtraciones policiales en casos de corrupción política y los daños irreparables que causan a las investigaciones. Aunque el Caso Púnica/Talamino es solo una pequeña fracción del macrosumario de la Operación Púnica, su importancia radica en haber sido la primera condena firme obtenida en toda la trama, demostrando la existencia de complicidades entre cargos públicos del PP y fuerzas de seguridad que comprometieron la integridad de las investigaciones anticorrupción en la Comunidad de Madrid.
-
-resumen: "Filtración policial que alertó a Francisco Granados sobre la Operación Púnica, permitiendo destruir pruebas y ocultar dinero"
-lugar: "Comunidad de Madrid (Valdemoro, Pinto)"
+  En diciembre de 2021 se informó de la confirmación de una sanción disciplinaria de dos años de suspensión de empleo a Caro Vinagre, distinta de su condena penal. Revisión parcial al 17 de octubre de 2026: falta cotejar íntegramente la resolución penal del Supremo, la militar y la ejecución de las penas; no se certifica su cumplimiento ni la inexistencia de otras resoluciones.'
+resumen: Filtración policial que alertó a Francisco Granados sobre la Operación Púnica, permitiendo destruir pruebas y ocultar dinero
+lugar: Comunidad de Madrid (Valdemoro, Pinto)
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 6 - Juez Eloy Velasco"
-  - "Audiencia Nacional - Sala de lo Penal - Sección Primera"
-  - "Tribunal Supremo - Sala Segunda de lo Penal"
-numeroSentencia: "Sentencia 138/2019 del Tribunal Supremo (14 de marzo de 2019)"
+- Audiencia Nacional — Juzgado Central de Instrucción n.º 6
+- Audiencia Nacional — Sala de lo Penal, Sección Primera
+- Tribunal Supremo — Sala Segunda
+numeroSentencia: AN 37/2017, de 1 de diciembre; TS 138/2019 (confirmación difundida el 14 de marzo de 2019)
 implicados:
-  - nombre: "Francisco Granados Lerena"
-    cargo: "Exconsejero de Presidencia y Justicia de la Comunidad de Madrid, exsecretario general del PP de Madrid"
-    rol: "Condenado a 2 años de prisión por delito de aprovechamiento de secretos revelados por funcionario público"
-
-  - nombre: "José Manuel Rodríguez Talamino"
-    cargo: "Agente de la Guardia Civil, miembro de la Unidad Central Operativa (UCO)"
-    rol: "Condenado a 2 años de prisión y 4 años de inhabilitación por delito de revelación de secretos agravada"
-
-  - nombre: "José Luis Caro Vinagre"
-    cargo: "Exagente de la Guardia Civil en excedencia, asesor de seguridad de la Comunidad de Madrid"
-    rol: "Condenado a 1 año y 6 meses de prisión por delito de aprovechamiento de secretos revelados por funcionario público"
-
-  - nombre: "David Marjaliza López"
-    cargo: "Empresario y constructor, cerebro operativo de la trama Púnica"
-    rol: "Receptor del chivatazo; destruyó documentación y ocultó pruebas tras la advertencia de Granados"
-
+- nombre: Francisco José Granados Lerena
+  cargo: Exconsejero de Presidencia y Justicia de la Comunidad de Madrid, exsecretario general del PP de Madrid
+  rol: Condenado a dos años de prisión por aprovechamiento agravado de secreto revelado por funcionario público; inhabilitación para sufragio pasivo durante la condena.
+- nombre: José Manuel Rodríguez Talamino
+  cargo: Agente de la Guardia Civil, miembro de la Unidad Central Operativa (UCO)
+  rol: Condenado a dos años de prisión, cuatro de inhabilitación especial para empleo o cargo público e inhabilitación para sufragio pasivo durante la condena, por violación de secreto agravada.
+- nombre: José Luis Caro Vinagre
+  cargo: Guardia civil en excedencia, antiguo asesor técnico de seguridad de la Comunidad de Madrid
+  rol: Condenado a un año y seis meses de prisión por aprovechamiento agravado de secreto; inhabilitación para sufragio pasivo durante la condena. Sanción disciplinaria de dos años de suspensión de empleo confirmada, según la información de diciembre de 2021.
 tags:
-  - "corrupción"
-  - "revelación de secretos"
-  - "obstrucción a la justicia"
-  - "filtración policial"
-  - "destrucción de pruebas"
-  - "tráfico de influencias"
-
-impactoSocial: "El Caso Púnica/Talamino evidenció la existencia de redes de corrupción que involucraban no solo a políticos del PP sino también a miembros de las fuerzas de seguridad del Estado. La filtración comprometió gravemente la Operación Púnica y generó un profundo cuestionamiento sobre la integridad de las investigaciones anticorrupción en España. Fue la primera condena firme del macrocaso Púnica, estableciendo jurisprudencia sobre la gravedad de las filtraciones policiales."
-
+- revelación de secretos
+- filtración policial
+- Púnica
+impactoSocial: La sentencia apreció un grave daño a la investigación penal por la revelación de información reservada y su aprovechamiento para dificultar las pesquisas.
 coste: 0
 documentos: []
-
 cronologia:
-  - fecha: 2014-09-05
-    titulo: "El 'chivatazo' en las fiestas de Valdemoro"
-    descripcion: "Durante la noche de las fiestas patronales de Valdemoro, el agente de la Guardia Civil José Manuel Rodríguez Talamino, miembro de la UCO, se acerca a Francisco Granados y le alerta sobre la vigilancia policial activa. Talamino había recibido órdenes de instalar una cámara oculta frente a las oficinas de David Marjaliza en Pinto y comenta a Granados que la UCO tiene 'tanto trabajo que la unidad ha llegado a Valdemoro' y están monitorizando el edificio Éboli donde opera Marjaliza. La información le fue transmitida a Granados a través de José Luis Caro Vinagre, exagente en excedencia contratado como asesor de seguridad."
-    type: "denuncia"
-    urls:
-      - "https://www.elespanol.com/espana/tribunales/20190314/supremo-confirma-condena-carcel-granados-chivatazo-punica/383212056_0.html"
-      - "https://www.eldiario.es/politica/audiencia-nacional-granados-chivatazo-punica_1_3024194.html"
-    relevancia: "alta"
-
-  - fecha: 2014-09-06
-    titulo: "Granados advierte a Marjaliza y ordenan destruir pruebas"
-    descripcion: "Al día siguiente del chivatazo, Francisco Granados contacta telefónicamente con David Marjaliza para advertirle de la vigilancia policial de la UCO. Granados ordena a Marjaliza destruir toda la documentación que le vincula con sus empresas, incluyendo albaranes de regalos y organigramas empresariales. Marjaliza encarga a un subordinado la destrucción de documentos comprometedores y traslada información sobre cuentas bancarias en Suiza y Singapur a la vivienda de su secretaria. Granados oculta casi un millón de euros en efectivo (972.000 euros) en la casa de sus suegros."
-    type: "investigación"
-    urls:
-      - "https://www.elespanol.com/espana/20151228/90240991_0.html"
-    relevancia: "alta"
-
-  - fecha: 2014-10-27
-    titulo: "Operación Púnica: 51 detenidos en macroredada"
-    descripcion: "La Guardia Civil ejecuta la Operación Púnica con la detención de 51 políticos, concejales, funcionarios y empresarios en una operación coordinada por el juez Eloy Velasco. Entre los detenidos se encuentran Francisco Granados y David Marjaliza. La operación se ve comprometida por el chivatazo previo que permitió destruir pruebas y ocultar dinero en efectivo. El juez decreta prisión provisional sin fianza para Granados cuatro días después."
-    type: "detención"
-    urls:
-      - "https://www.eldiario.es/politica/lista-empresarios-detenidos-operacion-punica_1_4556780.html"
-      - "https://es.wikipedia.org/wiki/Operación_Púnica"
-    relevancia: "alta"
-
-  - fecha: 2015-12-18
-    titulo: "Hallado casi un millón de euros en casa de los suegros de Granados"
-    descripcion: "La Guardia Civil descubre 972.000 euros en efectivo ocultos en la vivienda de los suegros de Francisco Granados. Este dinero fue escondido tras recibir el chivatazo del guardia civil Talamino sobre la inminente operación policial en septiembre de 2014. El hallazgo confirma la hipótesis de la Fiscalía sobre el ocultamiento de pruebas económicas tras la filtración. El juez rechaza la petición de libertad de Granados ante este descubrimiento."
-    type: "investigación"
-    urls:
-      - "https://www.elespanol.com/espana/20151228/90240991_0.html"
-    relevancia: "alta"
-
-  - fecha: 2017-12-04
-    titulo: "La Audiencia Nacional condena a Granados y Talamino por el chivatazo"
-    descripcion: "La Sección Primera de la Sala de lo Penal de la Audiencia Nacional dicta la primera sentencia del macrocaso Púnica. Condena a Francisco Granados y José Manuel Rodríguez Talamino a dos años de prisión cada uno por delitos de aprovechamiento de secretos revelados por funcionario público y revelación de secretos agravada, respectivamente. José Luis Caro Vinagre es condenado a un año y seis meses. Talamino recibe además cuatro años de inhabilitación especial para empleo o cargo público. Los magistrados consideran probado que la filtración causó 'daños graves' a la investigación policial al permitir destruir pruebas y ocultar dinero."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/politica/audiencia-nacional-granados-chivatazo-punica_1_3024194.html"
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-dos-anos-a-Francisco-Granados-por-la-filtracion-de-la-investigacion-de-la--Operacion-Punica-"
-    relevancia: "alta"
-
-  - fecha: 2019-03-14
-    titulo: "El Tribunal Supremo confirma las condenas: sentencia firme"
-    descripcion: "La Sala Segunda del Tribunal Supremo dicta la sentencia 138/2019 confirmando íntegramente las condenas de la Audiencia Nacional: dos años de prisión para Francisco Granados y José Manuel Rodríguez Talamino, y un año y seis meses para José Luis Caro Vinagre. El Alto Tribunal, con ponencia del magistrado Miguel Colmenero, subraya que la filtración causó 'serios daños' a la investigación policial y proporcionó un 'beneficio económico' directo a Granados y Marjaliza mediante el ocultamiento de efectivo y la eliminación de pruebas. Esta sentencia se convierte en la primera condena firme de toda la Operación Púnica."
-    type: "sentencia"
-    urls:
-      - "https://www.elespanol.com/espana/tribunales/20190314/supremo-confirma-condena-carcel-granados-chivatazo-punica/383212056_0.html"
-      - "https://www.publico.es/politica/granados-supremo-confirma-anos-carcel-granados-filtraciones-caso-punica.html"
-      - "https://confilegal.com/20190314-el-supremo-confirma-la-condena-de-dos-anos-de-carcel-para-granados-por-el-chivatazo-de-punica/"
-    relevancia: "alta"
+- fecha: '2014-09-05'
+  titulo: Comienza la filtración sobre la vigilancia en Pinto
+  descripcion: La sentencia sitúa en la noche del 5 de septiembre el contacto de Talamino con Caro y, horas después, de madrugada, el aviso a Granados en Valdemoro. No se trata de una denuncia presentada ese día.
+  type: investigacion
+  urls:
+  - https://casos-aislados.com/storage/documents/Sentencia%20del%20Caso%20P%C3%BAnica%20-%20Pieza%20Talamino.pdf
+  relevancia: alta
+- fecha: '2014-09-06'
+  titulo: Caro obtiene y transmite información adicional
+  descripcion: A requerimiento de Granados, Caro se entrevista con Talamino, confirma el dispositivo de vigilancia del despacho de Marjaliza y transmite la información. Las conversaciones intervenidas permiten detectar la filtración. Los hechos probados vinculan el conocimiento de la pesquisa con la destrucción documental y el ocultamiento de efectivo, sin fechar todos esos actos en este día.
+  type: investigacion
+  urls:
+  - https://casos-aislados.com/storage/documents/Sentencia%20del%20Caso%20P%C3%BAnica%20-%20Pieza%20Talamino.pdf
+  relevancia: alta
+- fecha: '2017-12-01'
+  titulo: Sentencia 37/2017 de la Audiencia Nacional
+  descripcion: Condena a Talamino y Granados a dos años de prisión y a Caro a un año y seis meses. Impone a Talamino cuatro años de inhabilitación especial para empleo o cargo público; a los tres, inhabilitación para sufragio pasivo durante la condena y un tercio de las costas, excluidas las de la acusación popular. Desestima la responsabilidad civil solicitada. La nota del CGPJ se publica el 4 de diciembre; la sentencia admitía casación.
+  type: sentencia
+  urls:
+  - https://casos-aislados.com/storage/documents/Sentencia%20del%20Caso%20P%C3%BAnica%20-%20Pieza%20Talamino.pdf
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-dos-anos-a-Francisco-Granados-por-la-filtracion-de-la-investigacion-de-la--Operacion-Punica-
+  relevancia: alta
+- fecha: '2019-03-14'
+  titulo: Se publica la confirmación de las condenas por el Supremo
+  descripcion: El Español informa de la desestimación de los recursos y confirmación de las penas. Esta es la fecha de la noticia, no la de firma de la resolución. La información de 2021 califica expresamente las condenas penales de firmes; no se deduce su cumplimiento.
+  type: sentencia
+  urls:
+  - https://www.elespanol.com/espana/tribunales/20190314/supremo-confirma-condena-carcel-granados-chivatazo-punica/383212056_0.html
+  - https://www.eldiario.es/politica/anos-sancion-guardia-civil-chivatazo-granados-hizo-peligrar-operacion-punica_1_8573356.html
+  relevancia: alta
+- fecha: '2021-12-14'
+  titulo: Se informa de la sanción disciplinaria de Caro Vinagre
+  descripcion: elDiario.es publica que la Sala de lo Militar del Supremo confirma una sanción firme de dos años de suspensión de empleo. Es una consecuencia disciplinaria distinta de los dieciocho meses de prisión. La fecha corresponde a la publicación, no a la resolución militar, cuyo original no se ha cotejado.
+  type: sentencia
+  urls:
+  - https://www.eldiario.es/politica/anos-sancion-guardia-civil-chivatazo-granados-hizo-peligrar-operacion-punica_1_8573356.html
+  relevancia: alta
 ---
+
+Esta ficha se limita a la pieza del chivatazo. Las condenas de otras piezas de Púnica no modifican por sí mismas este resultado.
+
+La [sentencia 37/2017, copia judicial alojada por un tercero](https://casos-aislados.com/storage/documents/Sentencia%20del%20Caso%20P%C3%BAnica%20-%20Pieza%20Talamino.pdf), identifica nominalmente a los tres acusados y recoge los hechos probados y el fallo. El PDF tiene 33 páginas: la fecha del documento es el 1 de diciembre de 2017, aunque sus metadatos de creación y la [nota oficial del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-dos-anos-a-Francisco-Granados-por-la-filtracion-de-la-investigacion-de-la--Operacion-Punica-) corresponden al día 4. El juicio se celebró los días 14, 15 y 16 de noviembre.
+
+El relato judicial no fija una fecha exacta para cada destrucción u ocultamiento posterior al aviso. Se elimina la atribución automática de todos esos actos al 6 de septiembre y la fecha no revalidada del hallazgo de 972.000 euros. Tampoco se presenta a Marjaliza como condenado en esta pieza ni se conserva su apellido heredado, distinto del que recoge el original.
+
+El valor `coste: 0` significa que esta revisión no incorpora una cuantificación de perjuicio patrimonial indemnizable. No significa ausencia de daño a la investigación: la Audiencia lo apreció como grave. Las acusaciones solicitaron 3.170,30 euros por los gastos de la operación policial de distracción; el tribunal desestimó esa responsabilidad civil al entender que derivaban de decisiones de los investigadores, no directamente del delito. No se suman a un supuesto coste los fondos ocultados, las costas procesales ni las penas.
+
+La [confirmación penal de 2019](https://www.elespanol.com/espana/tribunales/20190314/supremo-confirma-condena-carcel-granados-chivatazo-punica/383212056_0.html) y la [información disciplinaria de 2021](https://www.eldiario.es/politica/anos-sancion-guardia-civil-chivatazo-granados-hizo-peligrar-operacion-punica_1_8573356.html) respaldan los resultados indicados con distinto alcance: la segunda declara expresamente la firmeza penal y la de la sanción militar. No se ha recuperado el texto íntegro de la sentencia penal del Supremo ni la resolución militar. Quedan pendientes la ejecución, eventuales actuaciones constitucionales y una comprobación primaria completa de la evolución hasta el 17 de octubre de 2026. `fechaFin` queda vacía para no convertir la fecha de una noticia en certificación del cierre de la ejecución. `documentos: []` indica que no se añade ningún fichero al repositorio; la copia consultada queda en la evidencia externa de auditoría.
