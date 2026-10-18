@@ -15,7 +15,7 @@ descripcion: 'La investigación examinó la compra de ejemplares de Melilla y su
   El Juzgado de Instrucción número 1 de Melilla la citó como imputada por posible prevaricación administrativa para
   el 4 de marzo de 2013. La crónica retrospectiva de MelillaHoy acredita su comparecencia ese día y distingue la
   declaración de ratificación de Muñoz, de 25 de febrero. El País sitúa una denuncia ante la Fiscalía el 30 de enero;
-  MelillaHoy menciona otra denuncia de 31 de enero. No se confunden esas referencias con una fecha exacta del auto
+  MelillaHoy fecha la denuncia el 31 de enero. No se ha comprobado si son dos registros distintos o una discrepancia de fecha. No se confunden esas referencias con una fecha exacta del auto
   de imputación. La acusación de Muñoz comprendía también malversación, mientras la Fiscalía se centró en prevaricación,
   según la información de 2018.
 
@@ -74,8 +74,8 @@ cronologia:
 - fecha: '2013-01-31'
   titulo: Denuncia judicial del PSOE
   descripcion: MelillaHoy, en su crónica de enero de 2018, fecha la denuncia el 31 de enero de 2013; El País identifica
-    una denuncia ante Fiscalía el día 30. Se mantienen como actuaciones diferenciadas según las fuentes, sin original
-    de registro judicial.
+    una denuncia ante Fiscalía el día 30. Sin los registros originales no se ha comprobado si se trata de dos
+    actuaciones distintas o de una discrepancia de fecha.
   type: denuncia
   relevancia: alta
   urls:
