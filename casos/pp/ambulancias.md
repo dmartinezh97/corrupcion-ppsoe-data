@@ -158,7 +158,7 @@ cronologia:
   - fecha: "2019-01-16"
     titulo: "Auto de sobreseimiento provisional"
     descripcion: "El Juzgado de Instrucción nº 51 dicta un auto (fechado el 16 de enero de 2019) por el que decreta el sobreseimiento provisional y el archivo de las actuaciones al amparo del artículo 641.1 LECrim, asumiendo el criterio de la Fiscalía. El auto concluye que no está acreditada la participación de los investigados en el retraso de pagos ni en dilaciones, y que la empresa fue requerida para presentar un plan de viabilidad tras ser propuesta como adjudicataria y no lo presentó."
-    type: "sentencia"
+    type: "documento"
     relevancia: "alta"
     urls:
       - "https://www.redaccionmedica.com/autonomias/madrid/20190117/archivan-la-querella-contra-pascual-molina-por-el-caso-de-las-ambulancias/114252_0.html"
@@ -168,7 +168,7 @@ cronologia:
   - fecha: "2020-01-13"
     titulo: "La Audiencia Provincial confirma el sobreseimiento provisional"
     descripcion: "La Sección 23 de la Audiencia Provincial de Madrid dicta un auto (fechado el 13 de enero de 2020) que desestima el recurso de Ambulancias Alerta y confirma íntegramente el auto de sobreseimiento provisional, al no apreciar indicios de prevaricación ni de coacciones. El sobreseimiento conserva su carácter provisional; no se ha verificado la firmeza de estos autos ni localizado actuaciones posteriores."
-    type: "sentencia"
+    type: "documento"
     relevancia: "alta"
     urls:
       - "https://www.europapress.es/madrid/noticia-confirman-archivo-causa-contra-excargos-sanidad-concurso-ambulancias-summa-20200117100121.html"
@@ -180,7 +180,7 @@ cronologia:
 
 ## Nota de revisión (2026-10-17)
 
-Revisión de la ficha con fuentes periodísticas y notas oficiales entre 2016 y 2020. No se han localizado resoluciones ni novedades de 2025-2026 para este caso. El denominado "caso ambulancias" de Cataluña (con el exdirigente de CDC David Madí, cuya causa fue archivada por la Audiencia Nacional en marzo de 2026) es un asunto distinto y no debe confundirse con este.
+Revisión de la ficha con fuentes periodísticas y notas oficiales entre 2016 y 2020. No se han localizado resoluciones ni novedades de 2025-2026 para este caso. Los procedimientos sobre ambulancias de otras comunidades son asuntos distintos y sus resultados no se trasladan a esta ficha.
 
 ### Correcciones y precisiones aplicadas
 
