@@ -1,142 +1,132 @@
 ---
-nombre: "Caso Samaniego"
+nombre: Caso Samaniego
 partido: PP
-completado: true
+completado: false
 año: 2014
-fechaInicio: 2014-06-01
-fechaFin: 2021-06-21
-estado: "cerrado con condenas"
-descripcion: |
-  El caso Samaniego destapó una trama de corrupción municipal en Valladolid que duró catorce años, desde 2000 hasta 2014. Luis Alberto Samaniego Conde, jefe de Mantenimiento del Ayuntamiento de Valladolid durante el mandato del popular Javier León de la Riva, diseñó y ejecutó un complejo entramado de empresas familiares para apropiarse de contratos menores de obras municipales mediante adjudicaciones fraudulentas.
+estado: condenas modificadas en casación; ejecución y reclamaciones posteriores pendientes de seguimiento
+descripcion: 'El caso se refiere a la adjudicación irregular de obras menores del Ayuntamiento de Valladolid
+  a empresas vinculadas a Luis Alberto Samaniego, entonces jefe municipal de Mantenimiento, y a su entorno.
+  Los hechos fueron investigados a raíz de una denuncia de Óscar Puente en 2014. La atribución temporal al
+  gobierno municipal del PP no acredita responsabilidad penal de sus cargos políticos.
 
-  La investigación reveló que Samaniego, junto a su hijo Luis Javier, su primo Antonio Bernardo Samaniego Fernández (expresidente de la Asociación de Empresarios de la Construcción de Valladolid) y el contable Miguel Ángel Rodríguez Patín, crearon una red de aproximadamente 30 empresas pantalla que se repartían de forma irregular los contratos de obras menores del consistorio. Actuando de común acuerdo, se aseguraron la adjudicación de una buena parte de las obras menores del Ayuntamiento, aprovechando la posición privilegiada de Luis Alberto como responsable del área.
+  La Audiencia Provincial condenó en mayo de 2019 a cuatro acusados. El Supremo, en sentencia de 16 de junio
+  de 2021, modificó las penas: cinco años de prisión para Luis Alberto Samaniego; tres años, tres meses y un
+  día para Antonio Bernardo Samaniego; y un año, tres meses y un día para Luis Javier Samaniego y Miguel Ángel
+  Rodríguez Patín, cada uno. También existieron absoluciones por acusaciones concretas, por lo que no todas
+  las imputaciones de la instrucción terminaron en condena.
 
-  El esquema funcionaba mediante la autoadjudicación de contratos a empresas del clan familiar, generando facturaciones infladas y sobrecostes injustificados. Durante los 14 años de actividad, se documentaron 1.316 facturas irregulares que causaron un perjuicio de 2,4 millones de euros a las arcas municipales, aunque el volumen total de contratos fraudulentos superó los 10 millones de euros.
+  Los 2,46 millones difundidos durante la instrucción eran una valoración indiciaria, diferente de la responsabilidad
+  civil fijada en sentencia. La documentación consultada contempla además reclamaciones posteriores por trabajos
+  efectivamente realizados. No se suma el volumen contratado, las indemnizaciones y los pagos administrativos
+  como un único daño.
 
-  El caso salió a la luz en 2014 gracias a la denuncia del entonces concejal socialista Óscar Puente, quien alertó de las irregularidades en el departamento de Patrimonio. Una inspección interna dirigida por la funcionaria Ana Isabel Page Polo confirmó las sospechas, destapando la red de empresas vinculadas a Samaniego. Días después de la denuncia, en junio de 2014, Luis Alberto Samaniego se jubiló anticipadamente.
-
-  Tras cinco años de instrucción en el Juzgado nº 4 de Valladolid, el juicio se celebró en marzo de 2019 ante la Audiencia Provincial. El 10 de mayo de 2019, la Audiencia dictó sentencia condenando a Luis Alberto Samaniego a 7 años y 9 meses de prisión por delitos de negociaciones prohibidas a funcionarios, fraude a la administración y falsedad documental. Su primo Antonio Bernardo recibió 4 años y 9 meses, mientras que su hijo Luis Javier y el contable fueron condenados a 2 años cada uno.
-
-  Tanto la Fiscalía como la defensa recurrieron al Tribunal Supremo. Finalmente, en junio de 2021, el Supremo rebajó las penas: Luis Alberto pasó de 7 años y 9 meses a 5 años de prisión, mientras que su hijo y el contable vieron reducidas sus condenas a 1 año, 3 meses y 1 día. Las condenas se hicieron firmes y Samaniego ingresó voluntariamente en la prisión de Puerto de Santa María (Cádiz) en diciembre de 2021 para cumplir condena.
-resumen: "Trama de autoadjudicación fraudulenta de contratos municipales en Valladolid liderada por el jefe de Mantenimiento del Ayuntamiento y su red familiar de empresas durante 14 años."
-coste: 2464647
-lugar: "Valladolid (Castilla y León)"
+  La prensa informó del ingreso de Luis Alberto en prisión en diciembre de 2021. La ejecución completa, posibles
+  rectificaciones económicas y los litigios administrativos posteriores no se han verificado hasta su término
+  al corte de 17 de octubre de 2026. Se ha consultado parcialmente la transcripción del Supremo, cuyo PDF oficial
+  está bloqueado.'
+resumen: Adjudicaciones municipales irregulares a empresas vinculadas al jefe de Mantenimiento de Valladolid.
+  Cuatro condenas modificadas por el Supremo en 2021; importes y ejecución requieren distinguir sus conceptos.
+lugar: Valladolid (Castilla y León)
 tribunal:
-  - "Juzgado de Instrucción nº 4 de Valladolid"
-  - "Audiencia Provincial de Valladolid"
-  - "Tribunal Supremo - Sala Segunda (Sala de lo Penal)"
-numeroSentencia: ""
+- Juzgado de Instrucción nº 4 de Valladolid
+- Audiencia Provincial de Valladolid
+- Tribunal Supremo - Sala Segunda (Sala de lo Penal)
+numeroSentencia: Audiencia Provincial 110/2019, de 10 de mayo; Tribunal Supremo 527/2021, de 16 de junio (ECLI:ES:TS:2021:2382)
 implicados:
-  - nombre: "Luis Alberto Samaniego Conde"
-    cargo: "Jefe de Mantenimiento del Ayuntamiento de Valladolid (2000-2014)"
-    rol: "Principal responsable de la trama; condenado a 5 años de prisión por negociaciones prohibidas a funcionarios, fraude a la administración y falsedad documental"
-
-  - nombre: "Luis Javier Samaniego Miguélez"
-    cargo: "Hijo de Luis Alberto Samaniego, empresario del grupo familiar"
-    rol: "Colaborador en la trama de empresas; condenado a 1 año, 3 meses y 1 día de prisión por fraude a la administración"
-
-  - nombre: "Antonio Bernardo Samaniego Fernández"
-    cargo: "Primo de Luis Alberto, expresidente de la Asociación de Empresarios de la Construcción de Valladolid (Aveco)"
-    rol: "Testaferro del entramado empresarial; condenado a 4 años y 9 meses de prisión por fraude a la administración y falsedad documental"
-
-  - nombre: "Miguel Ángel Rodríguez Patín"
-    cargo: "Contable del grupo empresarial Samaniego"
-    rol: "Responsable de la contabilidad fraudulenta; condenado a 1 año, 3 meses y 1 día de prisión por fraude a la administración"
-
-  - nombre: "Óscar Puente"
-    cargo: "Concejal del PSOE en el Ayuntamiento de Valladolid (posteriormente alcalde)"
-    rol: "Denunciante del caso; presentó la denuncia inicial en 2014 que destapó la trama"
-
+- nombre: Luis Alberto Samaniego Conde
+  cargo: Exjefe de Mantenimiento del Ayuntamiento de Valladolid
+  rol: Condena modificada a cinco años de prisión en 2021 por negociaciones prohibidas, estafa y falsedad,
+    con las reglas de concurso aplicadas por el Supremo.
+- nombre: Antonio Bernardo Samaniego
+  cargo: Primo de Luis Alberto y empresario vinculado a su entorno
+  rol: Pena rebajada en casación a tres años, tres meses y un día; no se mantiene la inicial de cuatro años
+    y nueve meses.
+- nombre: Luis Javier Samaniego
+  cargo: Hijo de Luis Alberto, vinculado al grupo empresarial
+  rol: Pena rebajada a un año, tres meses y un día de prisión. La prensa atribuye la condena a negociaciones
+    prohibidas y fraude, no a todas las acusaciones del proceso.
+- nombre: Miguel Ángel Rodríguez Patín
+  cargo: Contable del grupo empresarial
+  rol: Pena rebajada a un año, tres meses y un día de prisión en 2021. La información de ejecución de diciembre
+    refiere suspensión de su pena; no se certifica su cumplimiento final.
+- nombre: Óscar Puente
+  cargo: Concejal socialista en 2014; posteriormente alcalde
+  rol: Denunciante y portavoz del Ayuntamiento como acusación particular. No acusado en este procedimiento.
 tags:
-  - "corrupción municipal"
-  - "contratos públicos"
-  - "fraude a la administración"
-  - "negociaciones prohibidas"
-  - "PP"
-  - "Castilla y León"
-documentos: []
+- corrupción municipal
+- contratos públicos
+- fraude a la administración
+- negociaciones prohibidas
+- PP
+- Castilla y León
+documentos:
+- fecha: '2024-01-19'
+  titulo: 'El Norte de Castilla: extracto de edición con información sobre pagos a empresas vinculadas a Samaniego
+    (noticia en página 5)'
+  filetype: pdf
+  paginas: 6
+  nombre_fichero: https://storage.googleapis.com/warehouse-europe-west3-prod-assets/8fcd6b59-2d61-4c07-ac79-a178825aac62/kiosko-2206-20240119-valladolid/2d3450b5fa1c80903a206291dc7bd42c_sample.pdf
 cronologia:
-  - fecha: 2014-06-01
-    titulo: "Denuncia inicial de Óscar Puente"
-    descripcion: "El concejal socialista Óscar Puente presenta una denuncia ante el Ayuntamiento de Valladolid alertando de irregularidades en el departamento de Mantenimiento y la existencia de un presunto esquema de corrupción organizado por Luis Alberto Samaniego y su familia, con contratos irregulares que superarían los 11 millones de euros."
-    type: "denuncia"
-    urls:
-      - "https://www.valladolid.es/en/actualidad/noticias/alcalde-valladolid-trasladara-juzgado-nuevos-datos-caso-tra"
-
-  - fecha: 2014-06-15
-    titulo: "Jubilación anticipada de Samaniego"
-    descripcion: "Días después de hacerse pública la denuncia, Luis Alberto Samaniego se jubila anticipadamente de su cargo como jefe de Mantenimiento del Ayuntamiento de Valladolid, puesto que ocupaba desde abril de 2000."
-    type: "investigación"
-    urls: []
-
-  - fecha: 2014-09-30
-    titulo: "Fiscalía investiga destrucción de pruebas"
-    descripcion: "La Fiscalía Anticorrupción abre diligencias para investigar una posible destrucción de pruebas relacionadas con el caso, tras detectarse irregularidades en la documentación del departamento de Mantenimiento."
-    type: "investigación"
-    urls:
-      - "https://www.eldiadevalladolid.com/noticia/Z9C68C077-CFFA-2313-9F1D1B567704D271/20140930/fiscalia/investigara/destruccion/pruebas/caso/samaniego"
-
-  - fecha: 2016-05-30
-    titulo: "Cierre de la instrucción con cinco delitos identificados"
-    descripcion: "El Juzgado de Instrucción nº 4 de Valladolid cierra la fase de instrucción tras identificar cinco delitos: negociaciones prohibidas a funcionarios, fraude a la administración, falsedad documental, estafa y prevaricación. Se establece un perjuicio económico de más de 2,4 millones de euros a partir de 1.316 facturas irregulares emitidas durante 14 años."
-    type: "investigación"
-    urls:
-      - "https://www.valladolid.es/es/actualidad/noticias/juzgado-observa-cinco-delitos-termino-instruccion-caso-sama"
-
-  - fecha: 2018-01-30
-    titulo: "Auto de apertura de juicio oral"
-    descripcion: "El Juzgado de Instrucción nº 4 dicta auto de apertura de juicio oral contra Luis Alberto Samaniego y otros tres acusados, procesándolos por los delitos de negociaciones prohibidas a funcionarios, fraude a la administración y falsedad documental."
-    type: "procesamiento"
-    urls: []
-
-  - fecha: 2018-05-08
-    titulo: "Devolución del caso al juzgado de instrucción"
-    descripcion: "La Audiencia Provincial de Valladolid devuelve el caso al Juzgado de Instrucción nº 4 para que se incluya en la causa la responsabilidad civil subsidiaria del grupo empresarial familiar de los Samaniego, evitando así una posible nulidad procesal."
-    type: "procedimiento"
-    urls:
-      - "http://www.diariodevalladolid.es/noticias/valladolid/caso-samaniego-vuelve-juez-evitar-nulidad-fase-juicio_118833.html"
-
-  - fecha: 2019-03-12
-    titulo: "Inicio del juicio oral"
-    descripcion: "Comienza el juicio oral en la Audiencia Provincial de Valladolid contra los cuatro acusados. La Fiscalía solicita 35 años de cárcel en total (11 para Luis Alberto Samaniego), mientras que el Ayuntamiento eleva la petición a 45 años (15 para el principal acusado)."
-    type: "juicio"
-    urls:
-      - "https://www.noticiascyl.com/valladolid/sociedad-valladolid/2019/03/19/caso-samaniego-peticiones-de-carcel-definitivas-entre-35-y-45-anos"
-
-  - fecha: 2019-05-10
-    titulo: "Sentencia de la Audiencia Provincial"
-    descripcion: "La Audiencia Provincial de Valladolid condena a Luis Alberto Samaniego a 7 años y 9 meses de prisión como autor de delitos de negociaciones prohibidas a funcionarios y falsedad documental. Su primo Antonio Bernardo recibe 4 años y 9 meses, mientras que su hijo Luis Javier y el contable Miguel Ángel Rodríguez son condenados a 2 años cada uno por fraude a la administración."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/castilla-y-leon/prision-funcionario-ayuntamiento-valladolid-autoadjudicaba_1_1560027.html"
-      - "http://ultimocero.com/destacada/2019/05/10/la-audiencia-condena-casi-8-anos-carcel-samaniego-negociaciones-prohibidas-falsedad-documental/"
-
-  - fecha: 2019-05-21
-    titulo: "Recurso de la Fiscalía ante el Tribunal Supremo"
-    descripcion: "La Fiscalía de Valladolid presenta recurso ante el Tribunal Supremo considerando que existen delitos probados que quedaron exentos de pena en la sentencia de la Audiencia Provincial, solicitando una revisión de las condenas."
-    type: "recurso"
-    urls:
-      - "https://www.diariodevalladolid.es/valladolid/190521/88901/fiscalia-recurre-caso-samaniego-ver-delitos-probados-exentos-pena.html"
-
-  - fecha: 2019-09-03
-    titulo: "La Fiscalía renuncia al recurso"
-    descripcion: "En un giro inesperado, la Fiscalía de Valladolid renuncia a seguir adelante con su recurso ante el Tribunal Supremo, aunque finalmente el alto tribunal decide revisar el caso a instancia de las defensas."
-    type: "recurso"
-    urls:
-      - "https://www.diariodevalladolid.es/valladolid/190903/42537/fiscalia-da-sorpresa-renuncia-seguir-recurso-caso-samaniego_amp.html"
-
-  - fecha: 2021-06-21
-    titulo: "El Supremo rebaja las condenas"
-    descripcion: "La Sala Segunda del Tribunal Supremo dicta sentencia rebajando las penas de los condenados. Luis Alberto Samaniego pasa de 7 años y 9 meses a 5 años de prisión. Su hijo Luis Javier y el contable ven reducidas sus condenas a 1 año, 3 meses y 1 día. Las penas totales bajan de 17 a 10 años para el conjunto de los cuatro encausados."
-    type: "sentencia"
-    urls:
-      - "https://www.diariodevalladolid.es/valladolid/210621/90718/supremo-rebaja-pena-samaniego-siete-anos-nueve-meses-carcel-cinco.html"
-      - "https://www.elespanol.com/castilla-y-leon/sociedad/20210621/supremo-rebaja-penas-carcel-encausados-caso-samaniego/590692716_0.html"
-
-  - fecha: 2021-12-19
-    titulo: "Ingreso en prisión"
-    descripcion: "Luis Alberto Samaniego ingresa de forma voluntaria en la prisión de Puerto de Santa María (Cádiz) para cumplir la condena de 5 años de prisión dictada por el Tribunal Supremo."
-    type: "cumplimiento"
-    urls:
-      - "https://www.diariodevalladolid.es/valladolid/211219/41999/samaniego-ingresa-forma-voluntaria-carcel-puerto-santa-maria-cadiz.html"
+- fecha: '2016-01-11'
+  titulo: El Ayuntamiento anuncia nuevos datos para el juzgado
+  descripcion: Nota municipal sobre arrendamientos y antecedentes de la denuncia de 2014. Sus importes y valoraciones
+    corresponden al Ayuntamiento, no a hechos declarados probados en sentencia.
+  type: investigacion
+  urls:
+  - https://www.valladolid.es/en/actualidad/noticias/alcalde-valladolid-trasladara-juzgado-nuevos-datos-caso-tra
+- fecha: '2017-05-30'
+  titulo: Se comunica el pase a procedimiento abreviado
+  descripcion: La nota municipal fecha en 2017, no en 2016, la notificación del auto que apreciaba indicios
+    contra cuatro personas. Cita 13 firmas, 1.316 facturas y una valoración de 2.464.647,95 euros; no son una
+    liquidación de responsabilidad civil definitiva.
+  type: investigacion
+  urls:
+  - https://www.valladolid.es/es/actualidad/noticias/juzgado-observa-cinco-delitos-termino-instruccion-caso-sama
+- fecha: '2019-05-10'
+  titulo: Sentencia de la Audiencia Provincial
+  descripcion: Condenas iniciales de siete años y nueve meses para Luis Alberto, cuatro años y nueve meses
+    para Antonio Bernardo y dos años para hijo y contable. La noticia recoge también absoluciones por prevaricación
+    y tráfico de influencias.
+  type: sentencia
+  urls:
+  - https://www.eldiario.es/castilla-y-leon/prision-funcionario-ayuntamiento-valladolid-autoadjudicaba_1_1560027.html
+- fecha: '2019-07-26'
+  titulo: Se tiene por desistido el recurso del Ministerio Fiscal
+  descripcion: La transcripción del Supremo identifica un decreto de esta fecha tras escrito fiscal del 17
+    de julio. No se fecha el desistimiento en septiembre por ser entonces cuando se publicó una noticia.
+  type: recurso
+  urls:
+  - https://vlex.es/vid/869966647
+- fecha: '2021-06-16'
+  titulo: Resolución de casación
+  descripcion: 'STS 527/2021, recurso 3389/2019: modifica penas y mantiene responsabilidad civil. Se distingue
+    del 21 de junio, fecha de difusión periodística. No se suman penas de los distintos condenados.'
+  type: sentencia
+  urls:
+  - https://vlex.es/vid/869966647
+- fecha: '2021-12-15'
+  titulo: Ingreso en prisión comunicado por la prensa
+  descripcion: Diario de Valladolid del domingo 19 indica que Luis Alberto ingresó voluntariamente el miércoles
+    anterior. La noticia refiere suspensión para hijo y contable. No se ha obtenido la resolución de ejecución.
+  type: cumplimiento
+  urls:
+  - https://www.diariodevalladolid.es/valladolid/211219/41999/samaniego-ingresa-forma-voluntaria-carcel-puerto-santa-maria-cadiz.html
+- fecha: '2024-01-19'
+  titulo: Se publican pagos por trabajos acreditados
+  descripcion: El Norte de Castilla informa de siete facturas por 26.822,42 euros y de un litigio contencioso
+    relativo a otra factura. Es una información de pagos y contratación, no una revocación de las condenas
+    penales. Fecha de publicación.
+  type: resumen
+  urls:
+  - https://storage.googleapis.com/warehouse-europe-west3-prod-assets/8fcd6b59-2d61-4c07-ac79-a178825aac62/kiosko-2206-20240119-valladolid/2d3450b5fa1c80903a206291dc7bd42c_sample.pdf
 ---
+
+La [información municipal de 2017](https://www.valladolid.es/es/actualidad/noticias/juzgado-observa-cinco-delitos-termino-instruccion-caso-sama) describe indicios y la posición de la acusación. Sus cinco calificaciones provisionales, la valoración de 2,46 millones y el volumen de 10,9 millones contratado no se convierten automáticamente en delitos ni daños declarados probados. Tampoco se mantiene la cifra de treinta empresas pantalla como hecho judicial acreditado.
+
+La [crónica de 2019](https://www.eldiario.es/castilla-y-leon/prision-funcionario-ayuntamiento-valladolid-autoadjudicaba_1_1560027.html) recoge condenas y absoluciones. La [información de casación](https://www.eldiario.es/castilla-y-leon/tribunales/supremo-rebaja-penas-carcel-adjudicaciones-irregulares-ayuntamiento-valladolid-empresas-familia-samaniego_1_8060190.html) permite verificar las penas nominales sin identificar a nadie por los seudónimos de la transcripción. Esta última contiene el [fallo del Supremo](https://vlex.es/vid/869966647), con un nuevo título de condena y conservación de la responsabilidad civil. No se ha leído la totalidad de sus extensos fundamentos.
+
+El pronunciamiento civil reproducido contempla 177.955,45 euros solidarios de los cuatro condenados y 49.271,90 euros a cargo de dos, con sociedades responsables subsidiarias. El fundamento quinto advierte un posible error material en esta última partida y menciona 47.197,84 euros, susceptible de corrección en ejecución. Sin resolución posterior no se concilian ni se agregan estas cantidades. Tampoco se adopta como liquidación definitiva el redondeo de 235.000 euros de la noticia de ingreso en prisión.
+
+La [edición de El Norte de Castilla del 19 de enero de 2024](https://storage.googleapis.com/warehouse-europe-west3-prod-assets/8fcd6b59-2d61-4c07-ac79-a178825aac62/kiosko-2206-20240119-valladolid/2d3450b5fa1c80903a206291dc7bd42c_sample.pdf) informa en su página 5 de pagos por obras realizadas, con referencia a la sentencia contenciosa 68/2023 del Juzgado 2. No se han obtenido ese fallo ni el decreto municipal de pago. Esta vertiente administrativa exige seguimiento propio y no exonera los hechos de la causa penal.
+
+Revisión con corte a 17 de octubre de 2026: faltan el PDF oficial de casación, la sentencia original de instancia, resoluciones de ejecución y liquidación civil, y los documentos administrativos de 2023–2024. No se afirma la extinción de penas ni la recuperación íntegra del dinero. Se retiran fechas exactas de denuncia, jubilación, apertura de juicio y otros trámites no revalidados, así como el relato personal de la inspección interna no contrastado. El documento incorporado es prensa original descargable, no una resolución judicial.
