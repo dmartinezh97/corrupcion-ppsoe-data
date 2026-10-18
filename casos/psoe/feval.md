@@ -7,7 +7,7 @@ estado: Condenas y absolución en casación
 descripcion: 'El procedimiento examinó la gestión de fondos, el empleo de trabajadores en actividades privadas y
   varias contrataciones de la Institución Ferial de Extremadura (Feval). El exdirector José Luis Viñuela, exdiputado
   autonómico del PSOE, el exadministrador Juan Francisco Cerrato y el exsubdirector José Villa fueron condenados
-  en primera instancia el 7 de junio de 2017 a ocho años y tres meses de prisión cada uno. Ese resultado fue modificado
+  en primera instancia el 7 de junio de 2017 a ocho años, tres meses y un día de prisión cada uno. Ese resultado fue modificado
   sustancialmente por el Supremo y no describe la situación final de los tres.
 
 
@@ -84,7 +84,7 @@ cronologia:
   - https://www.eldiario.es/extremadura/arranco-feval-vinuela-cerrato-villa_1_3384399.html
 - fecha: '2017-06-07'
   titulo: Condena de primera instancia posteriormente modificada
-  descripcion: La Audiencia condena a los tres a ocho años y tres meses cada uno y fija responsabilidad civil solidaria
+  descripcion: La Audiencia condena a los tres a ocho años, tres meses y un día cada uno y fija responsabilidad civil solidaria
     de 201.644,47 euros, además de otra cuantía por servicios de trabajadores a liquidar. La resolución del Supremo
     reproduce y modifica este fallo.
   type: sentencia
