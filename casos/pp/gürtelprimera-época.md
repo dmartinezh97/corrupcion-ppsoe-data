@@ -70,6 +70,11 @@ documentos:
   filetype: pdf
   paginas: 1844
   nombre_fichero: https://www.antena3.com/documents/2020/10/14/E7E6D342-62D2-4157-BF37-891CE19713F6/sentencia_gurtel.pdf
+- fecha: '2024-12-16'
+  titulo: 'Auto 4490/2024: concesión de libertad condicional a Luis Bárcenas, sujeta a ejecutividad'
+  filetype: pdf
+  paginas: 5
+  nombre_fichero: https://www.elnacional.cat/uploads/s1/50/34/50/14/2024-12-17-auto-libertad-condicional-luis-barcenas.pdf
 cronologia:
 - fecha: '2015-03-05'
   titulo: Se comunica la apertura de juicio oral
@@ -106,7 +111,8 @@ cronologia:
   titulo: Se comunica la libertad condicional de Bárcenas
   descripcion: El CGPJ informa de la concesión tras cumplir dos tercios de su pena y abonar la responsabilidad civil de 4.535.254,92
     euros. El comunicado prevé extinción en septiembre de 2028; es previsión, no pena ya extinguida ni saldo global de Gürtel.
-    Fecha de publicación.
+    Auto 4490/2024 de 16 de diciembre; el 17 es fecha de publicación. El auto exige declaración de firmeza y comunicación
+    expresa al centro penitenciario antes de ser ejecutivo; no se han verificado esos actos posteriores.
   type: investigacion
   urls:
   - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/El-Juzgado-de-Vigilancia-Penitenciaria-concede-la-libertad-condicional-al-extesorero-del-Partido-Popular-Luis-Barcenas
@@ -136,8 +142,10 @@ Las referencias a contabilidad paralela deben respetar ese objeto y el de las pi
 
 ## Ejecución posterior
 
-La [nota judicial de 17 de diciembre de 2024](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/El-Juzgado-de-Vigilancia-Penitenciaria-concede-la-libertad-condicional-al-extesorero-del-Partido-Popular-Luis-Barcenas) comunica la libertad condicional de Luis Bárcenas. Recoge pago íntegro de la responsabilidad civil que se le impuso, 4.535.254,92 euros, y una previsión de extinción en septiembre de 2028. No se extrapola ese pago al resto de condenados o a toda la deuda del caso. Tampoco se convierte la previsión de 2028 en cumplimiento total actual. La libertad condicional mantiene reglas de conducta; no supone absolución.
+La [nota judicial de 17 de diciembre de 2024](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/El-Juzgado-de-Vigilancia-Penitenciaria-concede-la-libertad-condicional-al-extesorero-del-Partido-Popular-Luis-Barcenas) comunica la libertad condicional concedida a Luis Bárcenas por el auto 4490/2024 de 16 de diciembre. El auto advierte que no será ejecutivo hasta que el juzgado declare su firmeza y la comunique expresamente al centro penitenciario; no se han verificado esos actos posteriores. Recoge pago íntegro de la responsabilidad civil que se le impuso, 4.535.254,92 euros, y una previsión de extinción en septiembre de 2028. No se extrapola ese pago al resto de condenados o a toda la deuda del caso. Tampoco se convierte la previsión de 2028 en cumplimiento total actual. La libertad condicional mantiene reglas de conducta; no supone absolución.
 
 [Europa Press, el 27 de marzo de 2026](https://www.europapress.es/nacional/noticia-an-deja-libertad-condicional-crespo-numero-dos-gurtel-cumplir-mas-mitad-pena-20260327224714.html), informa de la libertad condicional de Pablo Crespo y de su obligación de continuar pagando responsabilidad civil. Es una resolución individual de ejecución que tiene en cuenta su trayectoria penitenciaria y otras condenas; no se identifica el tiempo efectivo con los 36 años y ocho meses sumados en esta pieza. Falta el auto original y el seguimiento de su cumplimiento posterior.
 
 No se ha cerrado la revisión individual de incidentes de nulidad, amparos, responsabilidades accesorias, liquidaciones y ejecución de los 29 condenados. La resolución de casación de 2020 no permite por sí sola afirmar el estado actual de cada persona hasta el 17 de octubre de 2026 ni trasladar a esta ficha un nuevo juicio o condena de otra rama.
+
+El auto de libertad condicional, de cinco páginas, se ha leído íntegramente en su versión textual. Su fecha de 16 de diciembre de 2024 se distingue de la difusión del día 17; no acredita por sí solo su ejecutividad posterior.
