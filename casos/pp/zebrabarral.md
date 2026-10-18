@@ -1,93 +1,113 @@
 ---
-nombre: "Zebra/Barral"
+nombre: Zebra/Barral
 partido: PP
-completado: true
-año: 2001
-fechaInicio: 2001-01-01
-fechaFin: 2025-01-30
-estado: "sobreseimiento"
-descripcion: |
-  El Caso Zebra/Barral, también conocido como "caso Nené Barral", es uno de los procedimientos judiciales más longevos de España, con más de 25 años de tramitación. El caso afectó a José Ramón Barral Martínez, conocido como "Nené Barral", exalcalde del Partido Popular de Ribadumia (Pontevedra, Galicia), figura influyente en el PP gallego y padrino político del expresidente de la Real Federación Española de Fútbol Luis Rubiales.
+completado: false
+año: 2016
+estado: Resultados distintos según procedimiento
+descripcion: 'La ficha reúne actuaciones relativas al exalcalde de Ribadumia José Ramón Barral Martínez, Nené Barral,
+  que deben distinguirse. La operación Cebra conocida en octubre de 2016 fue una investigación nueva dirigida desde
+  Lugo, diferente de la antigua causa por contrabando vinculada a su detención en 2001. También fue distinto el
+  proceso fiscal de mayo de 2016, en el que aceptó dos penas de seis meses, sustituidas por una multa, y pagos al
+  Estado.
 
-  La investigación, denominada "Operación Zebra", fue iniciada por la juez Pilar de Lara, quien ordenó a la Agencia Tributaria el registro de varias propiedades de la familia Barral. La causa acusaba al exalcalde y a otros imputados de contrabando de tabaco, blanqueo de capitales y delitos fiscales. En el marco del caso, la juez imputó a Barral por presuntos delitos de blanqueo, contrabando y revelación de secretos oficiales.
 
-  En un procedimiento paralelo por delitos fiscales celebrado en mayo, Barral consiguió exculpar a sus hijas y evitar la pena de prisión, que fue reducida de ocho años a solo uno, con el pago de más de 700.000 euros. Sin embargo, la causa principal por contrabando de tabaco siguió en los tribunales durante más de dos décadas.
-
-  A lo largo del procedimiento, varios de los doce acusados originales fallecieron, incluido el propio Nené Barral, que murió en noviembre de 2023 sin haber sido juzgado en la causa principal. Las escuchas telefónicas que sustentaban parte de la acusación fueron declaradas nulas por la Audiencia Provincial de Pontevedra en 2023. Finalmente, en enero de 2025, tras el juicio oral, la Sección Cuarta de la Audiencia Provincial de Pontevedra absolvió a todos los acusados supervivientes al considerar que no había prueba suficiente de su participación en el contrabando de tabaco.
-resumen: "Exalcalde popular de Ribadumia acusado durante 25 años de contrabando de tabaco y blanqueo de capitales; el caso terminó en absolución general tras la muerte del principal acusado"
-coste: 700000
-lugar: "Ribadumia, Pontevedra, Galicia"
+  En la causa antigua de contrabando, la Audiencia de Pontevedra absolvió en enero de 2025 a los ocho acusados supervivientes
+  por falta de prueba de cargo, después de la nulidad de escuchas. La sentencia era recurrible ante el TSXG. Barral
+  había fallecido en noviembre de 2023 y su responsabilidad se extinguió por fallecimiento: no recibió una absolución
+  por ese juicio. No se han recuperado los originales de las resoluciones ni se ha contrastado la firmeza de la
+  absolución, el desenlace completo de Cebra y sus ramas o la liquidación de la condena fiscal a 17 de octubre de
+  2026. La absolución de una causa no se extiende a las demás.'
+resumen: 'Cebra, conformidad fiscal y antigua causa de contrabando: procedimientos con resultados distintos'
+lugar: Ribadumia y otros municipios; Pontevedra, Lugo y Asturias
 tribunal:
-  - "Juzgado de Instrucción de Cambados"
-  - "Audiencia Provincial de Pontevedra - Sección Cuarta"
-numeroSentencia: ""
+- Juzgado de Instrucción número 1 de Lugo (operación Cebra)
+- Juzgado de Instrucción número 4 de Oviedo (rama competencial descrita en 2022)
+- Audiencia Provincial de Pontevedra, Sección Cuarta (antigua causa de contrabando)
+numeroSentencia: ''
 implicados:
-  - nombre: "José Ramón Barral Martínez (Nené Barral)"
-    cargo: "Exalcalde del PP de Ribadumia (Pontevedra)"
-    rol: "Principal acusado de contrabando de tabaco, blanqueo de capitales y delitos fiscales. Murió en noviembre de 2023 antes del juicio oral en la causa principal. En el caso fiscal fue condenado a 1 año de prisión y al pago de más de 700.000 euros"
-
+- nombre: José Ramón Barral Martínez, Nené Barral
+  cargo: Exalcalde de Ribadumia por el PP
+  rol: Acusado en la antigua causa de contrabando; falleció en noviembre de 2023, con extinción de su responsabilidad
+    por muerte. En mayo de 2016 aceptó condena por dos delitos fiscales en otro proceso. La investigación Cebra
+    de octubre de 2016 era distinta; su resultado completo no está contrastado.
+- nombre: Feliciano Barral
+  cargo: Acusado en la antigua causa de contrabando; hermano de Nené Barral
+  rol: ElDiario.es lo identifica entre los acusados de la operación de tabaco de 2001 que resultaron absueltos en
+    enero de 2025. No se le atribuye la condena fiscal de Nené ni un resultado en Cebra por asociación familiar.
 tags:
-  - "corrupción"
-  - "blanqueo de capitales"
-  - "contrabando"
-  - "fraude fiscal"
-impactoSocial: "El caso fue el procedimiento judicial más largo en la historia reciente de Galicia, y reflejó los problemas sistémicos de la justicia española para resolver casos de corrupción en plazos razonables. La muerte del principal acusado antes del juicio oral impidió conocer la verdad judicial completa. El caso puso de relieve las conexiones del PP gallego con redes de influencia en el mundo del fútbol, dado el rol de Barral como padrino político de Luis Rubiales."
-documentos: null
+- contrabando
+- delitos fiscales
+- blanqueo de capitales
+- absolución
+impactoSocial: La antigua causa de contrabando tuvo una tramitación prolongada y llegó a sentencia cuando varios
+  encausados habían fallecido. La duración del proceso y la nulidad probatoria requieren distinguirse del contenido
+  de la absolución. La relación política citada por las fuentes corresponde a Rafael Louzán; no se atribuye a Luis
+  Rubiales.
+documentos: []
 cronologia:
-  - fecha: 2001-01-01
-    titulo: "Inicio de la Operación Zebra"
-    descripcion: "La juez Pilar de Lara lanza la Operación Zebra e imputa a Nené Barral, exalcalde popular de Ribadumia, por presuntos delitos de contrabando de tabaco, blanqueo de capitales y revelación de secretos oficiales. Se ordenan registros en propiedades de la familia Barral."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "http://web.psoe.es/zaragozalasfuentes/pressnotes/834605/page/imputado-por-blanqueo-contrabando-exalcalde-del.html"
-
-  - fecha: 2001-06-01
-    titulo: "Juicio por delitos fiscales: pena reducida a 1 año y pago de 700.000 euros"
-    descripcion: "En el procedimiento paralelo por delitos fiscales, Nené Barral consigue exculpar a sus hijas y obtiene una reducción de la pena de ocho años a solo un año de prisión, a cambio del pago de más de 700.000 euros."
-    type: "sentencia"
-    relevancia: "media"
-    urls: []
-
-  - fecha: 2022-09-30
-    titulo: "Nené Barral es juzgado por contrabando 21 años después de su detención"
-    descripcion: "Se celebra el juicio oral por contrabando de tabaco contra Nené Barral y otros acusados, 21 años después del inicio de la investigación. El caso se convierte en ejemplo de las dilaciones del sistema judicial español."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.cope.es/actualidad/espana/noticias/exalcalde-nene-barral-juzgado-por-contrabando-anos-despues-arresto-20220930_2318868"
-
-  - fecha: 2023-02-02
-    titulo: "La Audiencia Provincial declara nulas las escuchas telefónicas"
-    descripcion: "La Audiencia Provincial de Pontevedra declara nulas las escuchas telefónicas que formaban parte de la base probatoria del caso, debilitando gravemente la acusación."
-    type: "recurso"
-    relevancia: "alta"
-    urls:
-      - "https://www.galiciapress.es/articulo/politica-galicia/2023-02-02/4162250-audiencia-pontevedra-declara-nulas-escuchas-telefonicas-exalcalde-ribadumia-acusado-contrabando"
-
-  - fecha: 2023-11-01
-    titulo: "Fallece Nené Barral, el principal acusado"
-    descripcion: "José Ramón Barral Martínez 'Nené Barral', principal acusado del caso, fallece en noviembre de 2023 sin haber sido condenado en la causa principal de contrabando, quedando la causa sobreseída respecto a su persona."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/galicia/caso-contrabando-persiguio-muerte-mentor-politico-presidente-federacion-futbol_1_11980353.html"
-
-  - fecha: 2025-01-20
-    titulo: "El juicio oral concluye visto para sentencia tras 25 años"
-    descripcion: "El caso queda visto para sentencia en la Audiencia Provincial de Pontevedra, con solo 8 de los 12 acusados originales todavía vivos, 25 años después del inicio del procedimiento."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.galiciapress.es/articulo/ultima-hora/2025-01-20/5144377-queda-visto-sentencia-juicio-contrabando-conocido-como-caso-nene-barral-tras-25-anos-procedimiento"
-      - "https://www.eleconomista.es/legal/noticias/13179917/01/25/visto-para-sentencia-el-juicio-por-contrabando-conocido-como-caso-nene-barral-tras-25-anos-procedimiento.html"
-
-  - fecha: 2025-01-30
-    titulo: "Absolución general: todos los acusados son declarados inocentes"
-    descripcion: "La Sección Cuarta de la Audiencia Provincial de Pontevedra absuelve a todos los acusados supervivientes al no encontrar prueba suficiente de participación en el contrabando de tabaco. El caso, tras 25 años, concluye sin condenas en la causa principal."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/galicia/absueltos-investigados-caso-contrabando-estuvo-acusado-muerte-nene-barral_1_12007633.html"
-      - "https://www.diariodepontevedra.es/articulo/narcotrafico/absuelven-todos-acusados-contrabando-tabaco-caso-nene-barral/202501301814531373999.html"
+- fecha: '2016-05-04'
+  titulo: Conformidad en el proceso fiscal
+  descripcion: Diario de Pontevedra informa de la aceptación de dos penas de seis meses de cárcel, sustituidas por
+    una multa de unos 4.000 euros, y de pagos cercanos a 700.000 euros al Estado. No es el juicio por contrabando
+    ni una pena de ocho años previamente firme que se redujera.
+  type: sentencia
+  urls:
+  - https://www.diariodepontevedra.es/articulo/galicia/nene-barral-reconoce-que-evadio-impuestos-traves-de-paraisos-fiscales/20160504143554300309.amp.html
+- fecha: '2016-10-06'
+  titulo: Se conoce una nueva operación, Cebra
+  descripcion: El País informa de registros en inmuebles y de una investigación dirigida desde el Juzgado de Instrucción
+    1 de Lugo, distinta de la causa antigua. No se fija como inicio el 1 de enero de 2001.
+  type: investigacion
+  urls:
+  - https://elpais.com/ccaa/2016/10/06/galicia/1475749627_274873.html
+- fecha: '2022-02-15'
+  titulo: Se publica una decisión de competencia sobre una rama de Cebra
+  descripcion: Galiciapress informa de que el Supremo atribuye al Juzgado de Instrucción 4 de Oviedo una pieza separada
+    derivada de Cebra. La fecha es la de publicación; la decisión competencial no supone acusación ni condena de
+    todas las personas citadas en la investigación de origen.
+  type: resumen
+  urls:
+  - https://www.galiciapress.es/texto-diario/mostrar/3444056/ts-otorga-juzgado-oviedo-competencia-investigar-trama-blanqueo-derivada-operacion-cebra
+- fecha: '2023-02-02'
+  titulo: Se conoce la nulidad de las escuchas en la causa antigua
+  descripcion: Europa Press, reproducida por Galiciapress, informa de la nulidad de intervenciones iniciadas en
+    febrero de 1999 y de pruebas derivadas. Describe una primera sesión de cuestiones previas en septiembre de 2022.
+    No es una sentencia absolutoria ni una resolución de toda Cebra.
+  type: resumen
+  urls:
+  - https://www.galiciapress.es/articulo/politica-galicia/2023-02-02/4162250-audiencia-pontevedra-declara-nulas-escuchas-telefonicas-exalcalde-ribadumia-acusado-contrabando
+- fecha: '2025-01-30'
+  titulo: Se publica la absolución de ocho acusados
+  descripcion: La Sección Cuarta absuelve a los ocho acusados supervivientes por falta de prueba en la antigua causa
+    de contrabando. La sentencia declara extinguida la responsabilidad de cuatro fallecidos y era recurrible ante
+    el TSXG. La fecha corresponde a las noticias; falta el original para verificar la fecha del fallo.
+  type: sentencia
+  urls:
+  - https://www.eldiario.es/galicia/absueltos-investigados-caso-contrabando-estuvo-acusado-muerte-nene-barral_1_12007633.html
+  - https://www.diariodepontevedra.es/articulo/narcotrafico/absuelven-todos-acusados-contrabando-tabaco-caso-nene-barral/202501301814531373999.html
 ---
+
+## Tres procedimientos, no un único desenlace
+
+La denominación heredada Zebra/Barral mezclaba la operación Cebra conocida en 2016, un proceso fiscal de ese año y la causa antigua por contrabando relacionada con un alijo descubierto en 2001. Se conserva la ruta de la ficha, con esos ámbitos diferenciados. La información de 2022 describe además una cuestión de competencia sobre una rama de Cebra atribuida a Oviedo; no acredita el desenlace penal de la investigación de origen o de todos sus participantes.
+
+En el proceso fiscal, Barral aceptó en mayo de 2016 dos penas de seis meses, sustituidas por multa. Los aproximadamente 700.000 euros citados en la cobertura reunían pagos relacionados con el procedimiento fiscal; no se presentan como un daño público único ni se suman de nuevo a las multas. La pretensión inicial de ocho años de prisión no era una condena firme anterior. Faltan la sentencia original y su liquidación para separar definitivamente todos los conceptos y efectos de ejecución.
+
+## Nulidad, fallecimiento y absolución
+
+La primera sesión de la antigua causa documentada por Europa Press en septiembre de 2022 trató las cuestiones previas. La Audiencia anuló después las escuchas y la prueba derivada. Por ello se retira la afirmación absoluta de que Barral murió antes de cualquier vista: falleció durante la prolongada tramitación, antes de conocer el resultado final. Su responsabilidad penal se extinguió por fallecimiento, un motivo distinto de la absolución de los supervivientes.
+
+La cobertura de enero de 2025 describe ocho absoluciones por falta de prueba para atribuir a los acusados los delitos enjuiciados. El hallazgo de las cajetillas no bastó para acreditar su participación. No se mantiene el relato de una organización criminal dirigida por ellos como hecho condenado. La sentencia admitía recurso ante el Tribunal Superior de Xustiza de Galicia y falta comprobar su firmeza y cualquier impugnación posterior.
+
+Tampoco se reconstruye la identidad de los restantes acusados mediante seudónimos o funciones genéricas. Feliciano Barral aparece identificado nominalmente en la información sobre la absolución; no se le trasladan delitos o condenas de su hermano. Las fuentes vinculan políticamente a Nené Barral con Rafael Louzán, no con Luis Rubiales; esa relación no convierte a Louzán en acusado de estos procedimientos.
+
+No se han recuperado documentos judiciales originales verificables. El resultado de Cebra y sus piezas permanece sin contrastar; no se deduce un archivo total por la muerte de Barral ni por la ausencia de noticias posteriores.
+
+## Fuentes
+
+- [Diario de Pontevedra, conformidad fiscal, 4 de mayo de 2016](https://www.diariodepontevedra.es/articulo/galicia/nene-barral-reconoce-que-evadio-impuestos-traves-de-paraisos-fiscales/20160504143554300309.amp.html)
+- [El País, nueva operación Cebra, 6 de octubre de 2016](https://elpais.com/ccaa/2016/10/06/galicia/1475749627_274873.html)
+- [Galiciapress, cuestión de competencia, 15 de febrero de 2022](https://www.galiciapress.es/texto-diario/mostrar/3444056/ts-otorga-juzgado-oviedo-competencia-investigar-trama-blanqueo-derivada-operacion-cebra)
+- [Galiciapress / Europa Press, nulidad, 2 de febrero de 2023](https://www.galiciapress.es/articulo/politica-galicia/2023-02-02/4162250-audiencia-pontevedra-declara-nulas-escuchas-telefonicas-exalcalde-ribadumia-acusado-contrabando)
+- [Diario de Pontevedra, absolución y recurso posible, 30 de enero de 2025](https://www.diariodepontevedra.es/articulo/narcotrafico/absuelven-todos-acusados-contrabando-tabaco-caso-nene-barral/202501301814531373999.html)
+- [ElDiario.es, resultado y personas identificadas, 30 de enero de 2025](https://www.eldiario.es/galicia/absueltos-investigados-caso-contrabando-estuvo-acusado-muerte-nene-barral_1_12007633.html)
