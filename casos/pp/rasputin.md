@@ -1,84 +1,87 @@
 ---
-nombre: "Caso Rasputín"
+nombre: Caso Rasputín
 partido: PP
-completado: true
+completado: false
 año: 2004
-fechaInicio: 2004-02-01
-fechaFin: "2004-09-30"
-estado: sobreseimiento
-descripcion: |
-  El Caso Rasputín fue un escándalo político que afectó al Gobierno de las Islas Baleares durante la presidencia de Jaume Matas del Partido Popular. El caso se hizo público en julio de 2004, cuando se descubrió que una delegación oficial del Gobierno Balear, que había viajado a Moscú en febrero de 2004 para promocionar las Islas Baleares como destino turístico, cargó como gastos oficiales siete entradas a un local de alterne llamado "Grigori Rasputín" en la capital rusa. El escándalo estalló cuando estas facturas fueron descubiertas entre los gastos oficiales del Instituto Balear de Turismo (IBATUR).
+fechaFin: '2004-09-01'
+estado: archivo de diligencias informativas de Fiscalía
+descripcion: 'El caso Rasputín se refiere a los justificantes de un club de alterne de Moscú incluidos entre
+  los gastos de una delegación oficial balear que viajó en febrero de 2004 para realizar actividades de promoción
+  turística. Juan Carlos Alía, gerente de Ibatur, reconoció haber acudido al local y atribuyó la presentación
+  de los comprobantes a una equivocación. Dimitió en julio de 2004. Jaume Matas y Joan Flaquer negaron haber
+  asistido; no se identifica a los demás visitantes.
 
-  Juan Carlos Alía, director gerente del IBATUR y único miembro de la delegación que admitió haber acudido al establecimiento, asumió la responsabilidad y presentó su dimisión. Alía alegó que cargó las entradas por error debido a que estaban escritas en ruso y devolvió 129 euros de su propio bolsillo. Jaume Matas, presidente del Gobierno Balear, negó rotundamente haber acudido al club y defendió públicamente a su gobierno, afirmando que "estamos en el siglo XXI y cada uno hace con su vida lo que quiere", aunque reconoció que lo penalizable era imputar gastos privados como oficiales.
+  Tras una denuncia del Lobby de Dones, la Fiscalía abrió diligencias informativas para decidir si remitía
+  el asunto al juzgado. La prensa anunció su archivo el 1 de septiembre de 2004, descartando responsabilidad
+  penal. No fue una sentencia absolutoria ni se ha obtenido un auto judicial de sobreseimiento.
 
-  Tras la denuncia presentada por el grupo feminista Lobby de Dones de Mallorca, la Fiscalía de Baleares abrió diligencias informativas en julio de 2004 para investigar una posible malversación de fondos públicos. Sin embargo, el fiscal Bartomeu Barceló archivó el caso en septiembre de 2004, aceptando la versión de que se trató de un error administrativo debido al idioma ruso de las facturas. El caso quedó archivado sin cargos, aunque causó un importante daño reputacional al Gobierno Balear del PP y se convirtió en uno de los escándalos menores pero mediáticos de la época.
-
-resumen: "Cargos a fondos públicos por visitas a un prostíbulo en Moscú durante viaje oficial"
-coste: 129
-lugar: "Islas Baleares, España (hechos en Moscú, Rusia)"
+  Las informaciones distinguen 129 euros de entradas de otros gastos privados. No se acredita aquí un daño
+  patrimonial definitivo por ese importe. Faltan el expediente contable, los justificantes del reintegro y
+  el decreto fiscal original; la revisión no permite certificar eventuales actuaciones posteriores hasta el
+  17 de octubre de 2026.'
+resumen: Gastos privados de un club de Moscú incluidos en la documentación de un viaje oficial balear. Dimisión
+  del gerente de Ibatur y archivo fiscal, según prensa contemporánea.
+lugar: Islas Baleares, España (hechos en Moscú, Rusia)
 tribunal:
-  - "Fiscalía del Tribunal Superior de Justicia de Baleares"
-numeroSentencia: ""
+- Fiscalía del Tribunal Superior de Justicia de Baleares
+numeroSentencia: ''
 implicados:
-  - nombre: "Juan Carlos Alía"
-    cargo: "Director gerente del Instituto Balear de Turismo (IBATUR)"
-    rol: "Admitió cargar las entradas al club como gasto oficial; dimitió del cargo"
-
-  - nombre: "Jaume Matas"
-    cargo: "Presidente del Gobierno de las Islas Baleares"
-    rol: "Negó haber acudido al club; defendió su gobierno públicamente"
-
-  - nombre: "Joan Flaquer"
-    cargo: "Consejero de Turismo del Gobierno Balear"
-    rol: "Declaró que la apertura de diligencias era lógica pero defendió al gobierno"
-
-  - nombre: "Bartomeu Barceló"
-    cargo: "Fiscal General del Tribunal Superior de Justicia de Baleares"
-    rol: "Abrió y posteriormente archivó las diligencias del caso"
-
+- nombre: Juan Carlos Alía
+  cargo: Entonces gerente del Instituto Balear de Turismo (Ibatur)
+  rol: Reconoció la visita al local y la presentación de los comprobantes, que atribuyó a un error; dimitió
+    en julio de 2004. No se le atribuye condena en este expediente.
+- nombre: Jaume Matas
+  cargo: Entonces presidente del Gobierno de las Islas Baleares (PP)
+  rol: Encabezó la delegación oficial y negó acudir al club. Su pertenencia a la delegación no acredita asistencia
+    ni imputación penal.
+- nombre: Joan Flaquer
+  cargo: Entonces consejero de Turismo y portavoz del Gobierno balear
+  rol: Participó en el viaje y dio explicaciones públicas; negó acudir al local. No se acredita aquí condición
+    de investigado penal.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "gasto público irregular"
-  - "gobierno autonómico"
-
-impactoSocial: "El caso generó un escándalo mediático significativo sobre el uso de fondos públicos y dañó la imagen del Gobierno Balear del PP, aunque su bajo coste económico (129 euros) lo convirtió en un caso menor comparado con otros escándalos de corrupción. El grupo feminista Lobby de Dones de Mallorca fue clave en impulsar la investigación y denunciar el uso de recursos públicos."
-
-documentos: null
-
+- gastos de representación
+- control del gasto público
+- archivo fiscal
+impactoSocial: El episodio provocó una dimisión y un debate sobre el control de los gastos de representación
+  y la responsabilidad política. La denuncia por posible malversación debe distinguirse del resultado de las
+  diligencias fiscales.
+documentos: []
 cronologia:
-  - fecha: 2004-02-01
-    titulo: "Viaje oficial a Moscú para promoción turística"
-    descripcion: "Una delegación del Gobierno de las Islas Baleares, encabezada por el presidente Jaume Matas, viaja a Moscú para promocionar las Islas Baleares como destino turístico. Durante este viaje oficial, se producen visitas al club de alterne Grigori Rasputín que posteriormente serían cargadas como gastos oficiales. Las facturas, escritas en ruso, fueron presentadas para reembolso al Instituto Balear de Turismo (IBATUR)."
-    type: "resumen"
-    urls: []
-
-  - fecha: 2004-07-01
-    titulo: "El escándalo se hace público"
-    descripcion: "Se descubre que siete entradas al club de alterne Grigori Rasputín en Moscú fueron cargadas como gastos oficiales del Gobierno Balear. Juan Carlos Alía, director del IBATUR, admite haber sido el único miembro de la delegación que acudió al establecimiento y presenta su dimisión inmediatamente. Alía alega que cargó las entradas por error debido a que estaban escritas en ruso y devuelve 129 euros de su bolsillo."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Rasput%C3%ADn&numero=87"
-
-  - fecha: 2004-07-09
-    titulo: "Declaraciones públicas de Jaume Matas"
-    descripcion: "El presidente balear Jaume Matas hace declaraciones públicas defendiendo su gobierno y negando haber acudido al club Rasputín. Afirma que 'estamos en el siglo XXI y cada uno hace con su vida lo que quiere' y señala que lo penalizable es que se haga una imputación de gastos que corresponden a la vida privada. Matas indica que la cantidad de 129 euros demuestra clarísimamente que fue una equivocación y se muestra dispuesto a proporcionar documentación."
-    type: "declaración"
-    urls:
-      - "https://www.libertaddigital.com/nacional/matas-sobre-el-caso-rasputin-estamos-en-el-siglo-xxi-y-cada-uno-hace-con-su-vida-lo-que-quiere-1276227437/"
-
-  - fecha: 2004-07-24
-    titulo: "La Fiscalía abre diligencias informativas"
-    descripcion: "La Fiscalía del Tribunal Superior de Justicia de Baleares, a cargo del fiscal Bartomeu Barceló, acuerda abrir diligencias informativas para investigar el caso tras una denuncia presentada por el grupo feminista Lobby de Dones de Mallorca. La denuncia alega una posible malversación de fondos públicos por los gastos realizados en el establecimiento de Moscú durante el viaje oficial. El consejero de Turismo Joan Flaquer declara que la apertura de diligencias es lógica pero no presupone culpabilidad."
-    type: "investigación"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/2004/07/24/651425/la-fiscalia-de-balears-acuerda-abrir-diligencias-por-el-caso-rasputin.html"
-
-  - fecha: 2004-09-30
-    titulo: "El fiscal archiva el caso"
-    descripcion: "El fiscal Bartomeu Barceló archiva definitivamente el caso Rasputín sin presentar cargos. En su resolución, argumenta que Juan Carlos Alía cargó las entradas al club Rasputín al presupuesto de la Comunidad Autónoma por error, dado que las facturas estaban escritas en ruso, y que devolvió los 129 euros de su propio bolsillo. El caso queda cerrado sin consecuencias penales, aunque el daño reputacional al Gobierno Balear del PP ya estaba hecho."
-    type: "sentencia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Rasput%C3%ADn&numero=87"
-
+- fecha: '2004-07-08'
+  titulo: Dimisión de Juan Carlos Alía
+  descripcion: Majorca Daily Bulletin publicó el 9 de julio que Alía había presentado su dimisión el día anterior.
+    Explicó que entregó por error justificantes en ruso entre los gastos del viaje y negó que Matas o Flaquer
+    le acompañaran al club. El día exacto del viaje de febrero no se ha verificado.
+  type: declaracion
+  urls:
+  - https://www.majorcadailybulletin.com/news/local/2004/07/09/9752/balearics-rocked-strip-club-scandal.html
+- fecha: '2004-07-09'
+  titulo: Matas explica su posición
+  descripcion: La crónica de EFE reproducida por Libertad Digital recoge su negativa a asistir al local y la
+    cifra de 129 euros por siete entradas. Se trata de sus declaraciones, no de hechos declarados probados
+    por un tribunal.
+  type: declaracion
+  urls:
+  - https://www.libertaddigital.com/nacional/matas-sobre-el-caso-rasputin-estamos-en-el-siglo-xxi-y-cada-uno-hace-con-su-vida-lo-que-quiere-1276227437/
+- fecha: '2004-07-24'
+  titulo: Se publica la apertura de diligencias fiscales
+  descripcion: Ultima Hora informa de diligencias informativas tras la denuncia del Lobby de Dones por posible
+    malversación, para decidir si se enviaba el caso al juzgado. Es fecha de publicación, sin decreto de apertura
+    obtenido.
+  type: investigacion
+  urls:
+  - https://www.ultimahora.es/noticias/local/2004/07/24/651425/la-fiscalia-de-balears-acuerda-abrir-diligencias-por-el-caso-rasputin.html
+- fecha: '2004-09-01'
+  titulo: Archivo de las diligencias fiscales
+  descripcion: El País del 2 de septiembre sitúa el archivo el día anterior. No se dispone del decreto original;
+    no se equipara a una sentencia ni a sobreseimiento judicial firme.
+  type: investigacion
+  urls:
+  - https://elpais.com/diario/2004/09/02/espana/1094076011_850215.html
 ---
+
+La [crónica de Majorca Daily Bulletin](https://www.majorcadailybulletin.com/news/local/2004/07/09/9752/balearics-rocked-strip-club-scandal.html) permite fechar la dimisión el 8 de julio y atribuye a Alía la explicación del error por el idioma de los comprobantes. No prueba la identidad de todos los asistentes. La [información de EFE reproducida por Libertad Digital](https://www.libertaddigital.com/nacional/matas-sobre-el-caso-rasputin-estamos-en-el-siglo-xxi-y-cada-uno-hace-con-su-vida-lo-que-quiere-1276227437/) recoge las declaraciones de Matas sobre los 129 euros de entradas. [El País del 10 de julio](https://elpais.com/diario/2004/07/10/espana/1089410415_850215.html) publicó un total de 369 euros que incluía otros consumos y señaló que Alía había reintegrado la partida. Son conceptos distintos, no importes que deban sumarse ni daños judicialmente fijados; sin documentación contable no se certifica su liquidación final.
+
+La [noticia de Ultima Hora](https://www.ultimahora.es/noticias/local/2004/07/24/651425/la-fiscalia-de-balears-acuerda-abrir-diligencias-por-el-caso-rasputin.html) explica que la Fiscalía valoraba si llevaba los hechos al juzgado. El [archivo difundido en septiembre](https://elpais.com/diario/2004/09/02/espana/1094076011_850215.html) corresponde a esa fase fiscal. No se conserva la fecha del 30 de septiembre de la versión anterior, carente de respaldo.
+
+Revisión con corte a 17 de octubre de 2026: no se han obtenido los decretos fiscales, los recibos originales ni el reintegro. Las búsquedas de documentación del Parlament localizaron referencias oficiales, pero los PDF devolvieron bloqueos y no se consideran leídos ni verificados. Tampoco se ha localizado un desenlace posterior específico verificable. Las noticias posteriores sobre Alía en el caso Ibatur u otras causas no permiten trasladar sus resultados a Rasputín. Se retira el día 1 de febrero como fecha exacta del viaje y la explicación del archivo basada exclusivamente en el ruso o la devolución, que no puede atribuirse al fiscal sin su resolución.
