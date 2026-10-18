@@ -106,11 +106,12 @@ cronologia:
 
   - fecha: "2012-07-08"
     titulo: "Se informa: sobreseimiento provisional de la pieza sobre trato de favor a empresas de Armero y García Meroño"
-    descripcion: "El Juzgado de Instrucción nº 5 de San Javier acuerda el sobreseimiento provisional de una causa abierta por presunto trato de favor del alcalde de Torre Pacheco y una concejal a empresas de Facundo Armero y Pedro García Meroño. La fecha de esta entrada corresponde a la publicación de la noticia; el auto es anterior y su fecha exacta no consta en la fuente. Que el sobreseimiento fuera provisional no implica que no sea firme ni que la causa haya seguido abierta; el resultado actual de esta pieza no consta. En enero de 2008 el mismo juzgado ya había sobreseído provisionalmente la situación de Pedro García Meroño como socio mayoritario de Polaris."
+    descripcion: "El Juzgado de Instrucción nº 5 de San Javier acuerda el sobreseimiento provisional de una causa abierta por presunto trato de favor del alcalde de Torre Pacheco y una concejal a empresas de Facundo Armero y Pedro García Meroño. La fecha de esta entrada corresponde a la publicación de la noticia; el auto es anterior y su fecha exacta no consta en la fuente. Que el sobreseimiento fuera provisional no implica que no sea firme ni que la causa haya seguido abierta; el resultado actual de esta pieza no consta. Una reproducción de La Verdad publicada por Murcia Confidencial el 8 de febrero de 2008 refiere un auto de 11 de enero que acordó el sobreseimiento provisional y archivo respecto de Pedro García Meroño; no se ha recuperado ese auto ni comprobado su órgano exacto, firmeza o relación procesal con la resolución de 2012."
     type: "investigacion"
     relevancia: "media"
     urls:
       - "https://www.laverdad.es/murcia/v/20120708/region/exculpan-alcalde-torre-pacheco-20120708.html"
+      - "https://www.murciaconfidencial.es/2008/02/la-juez-archiva-la-causa-sobre-garca.html?m=0"
 
   - fecha: "2012-09-24"
     titulo: "Fin de la instrucción y auto de procedimiento abreviado"
