@@ -44,23 +44,23 @@ implicados:
     por Alicante Plaza en julio de 2025.
 - nombre: Víctor Riera Marcos
   cargo: Administrador de Manufacturados Redován SL
-  rol: Acusado o acusada en la pieza Riera; absolución confirmada. Identidad contrastada con noticias nominales,
+  rol: Acusado y absuelto en la pieza Riera; absolución confirmada. Identidad contrastada con noticias nominales,
     sin asignar seudónimos del original judicial.
 - nombre: Rosa María Sánchez Ros
   cargo: Administradora de Unidepol SL
-  rol: Acusado o acusada en la pieza Riera; absolución confirmada. Identidad contrastada con noticias nominales,
+  rol: Acusada y absuelta en la pieza Riera; absolución confirmada. Identidad contrastada con noticias nominales,
     sin asignar seudónimos del original judicial.
 - nombre: Noelia Riera Marcos
   cargo: Administradora de Polmuniform SL
-  rol: Acusado o acusada en la pieza Riera; absolución confirmada. Identidad contrastada con noticias nominales,
+  rol: Acusada y absuelta en la pieza Riera; absolución confirmada. Identidad contrastada con noticias nominales,
     sin asignar seudónimos del original judicial.
 - nombre: José Antonio Riera Marcos
   cargo: Apoderado de las tres mercantiles
-  rol: Acusado o acusada en la pieza Riera; absolución confirmada. Identidad contrastada con noticias nominales,
+  rol: Acusado y absuelto en la pieza Riera; absolución confirmada. Identidad contrastada con noticias nominales,
     sin asignar seudónimos del original judicial.
 - nombre: María Isabel Amorós Poveda
   cargo: Comercial de las tres mercantiles
-  rol: Acusado o acusada en la pieza Riera; absolución confirmada. Identidad contrastada con noticias nominales,
+  rol: Acusada y absuelta en la pieza Riera; absolución confirmada. Identidad contrastada con noticias nominales,
     sin asignar seudónimos del original judicial.
 - nombre: Andrés García Baile
   cargo: Exconcejal del Ayuntamiento de Santa Pola (PP)
@@ -133,10 +133,10 @@ cronologia:
   urls:
   - https://alicanteplaza.es/alicanteplaza/elcheplaza/la-sentencia-del-caso-uniformes-de-santa-pola-ya-es-firme-el-fiscal-no-recurre-ante-el-supremo
 - fecha: '2025-12-18'
-  titulo: El pleno aborda gastos de defensa tras las absoluciones
-  descripcion: El acta de esta sesión identifica las sentencias 42/2025 y 229/2025 y las reclamaciones de minutas.
-    No es una nueva resolución penal ni acredita por sí sola el pago definitivo de todas las cantidades solicitadas.
-    El acta se formalizó en febrero de 2026.
+  titulo: Aprobación municipal de gastos de defensa tras las absoluciones
+  descripcion: El pleno reconoció la obligación y aprobó el gasto y pago de 273.045,55 euros por defensa jurídica
+    del procedimiento 127/2020. El acta se formalizó el 26 de febrero de 2026. Es una aprobación municipal, no constancia
+    de transferencias ejecutadas ni daño penal causado por los absueltos.
   type: resumen
   urls:
   - https://gobiernoabierto.santapola.es/storage/uploads/1772621249ACTA%20PLENO%20ORDINARIA%2018-12-2025._Censurado.pdf
@@ -156,7 +156,7 @@ La fuente nominal de febrero incluye a Andrés García Baile entre los absueltos
 
 ## Cantidades y actuaciones posteriores
 
-No se mantiene el coste cero heredado como afirmación global de ausencia de daño en todas las piezas. En el procedimiento absuelto no quedó acreditado el perjuicio alegado. Las peticiones de indemnización de una acusación, el importe de contratos y las minutas de defensa son magnitudes diferentes. El acta del pleno de 18 de diciembre de 2025, formalizada el 26 de febrero de 2026, aborda solicitudes de gastos de defensa después de las absoluciones; no se contabilizan como daño causado por los acusados ni como pagos finales comprobados.
+No se mantiene el coste cero heredado como afirmación global de ausencia de daño en todas las piezas. En el procedimiento absuelto no quedó acreditado el perjuicio alegado. Las peticiones de indemnización de una acusación, el importe de contratos y las minutas de defensa son magnitudes diferentes. El acta del pleno de 18 de diciembre de 2025, formalizada el 26 de febrero de 2026, recoge en su página 19 el acuerdo unánime de reconocer la obligación y aprobar el gasto y pago de 273.045,55 euros por defensa jurídica del procedimiento 127/2020. Se distingue la aprobación del pago de su ejecución material, que no se ha comprobado. Estas cantidades no se contabilizan como daño penal causado por los absueltos.
 
 No se asignan nombres a los seudónimos empleados en la sentencia. Los nombres incluidos se contrastan con la información periodística nominal. Los procesos relativos a la clínica Gran Alacant y otros asuntos de la familia Zaragoza no constituyen resoluciones de este expediente.
 
@@ -166,4 +166,4 @@ No se asignan nombres a los seudónimos empleados en la sentencia. Los nombres i
 - [Alicante Plaza, absolución, 5 de febrero de 2025](https://alicanteplaza.es/alicanteplaza/elcheplaza/el-caso-de-los-uniformes-de-santa-pola-se-queda-en-nada-la-audiencia-absuelve-a-policias-ex-ediles-y-empresarios)
 - [TSJCV, sentencia 229/2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d35620e8031bddd1a0a8778d75e36f0d&encode=true&databasematch=AN)
 - [Alicante Plaza, diligencia de firmeza, 29 de julio de 2025](https://alicanteplaza.es/alicanteplaza/elcheplaza/la-sentencia-del-caso-uniformes-de-santa-pola-ya-es-firme-el-fiscal-no-recurre-ante-el-supremo)
-- [Ayuntamiento de Santa Pola, acta de 18 de diciembre de 2025, pp.16–17](https://gobiernoabierto.santapola.es/storage/uploads/1772621249ACTA%20PLENO%20ORDINARIA%2018-12-2025._Censurado.pdf)
+- [Ayuntamiento de Santa Pola, acta de 18 de diciembre de 2025, pp.16–19](https://gobiernoabierto.santapola.es/storage/uploads/1772621249ACTA%20PLENO%20ORDINARIA%2018-12-2025._Censurado.pdf)
