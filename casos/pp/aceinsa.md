@@ -48,7 +48,7 @@ tags:
   - "contratación pública"
   - "trato de favor"
 
-impactoSocial: "El caso enfrentó al equipo de gobierno municipal del PP con la oposición y con la agrupación Ganemos, que llevó los contratos a los tribunales. La anulación judicial del contrato de alumbrado y la indemnización derivada tuvieron coste para las arcas municipales, mientras la causa penal fue archivada y criticada por Ganemos como un ejemplo de impunidad. Alfonso Fernández Mañueco, denunciado en la causa, es posteriormente presidente de la Junta de Castilla y León."
+impactoSocial: "El caso enfrentó al equipo de gobierno municipal del PP con la oposición y con la agrupación Ganemos, que llevó los contratos a los tribunales. El Pleno consignó 327.192,96 euros para la indemnización sustitutoria derivada de la anulación del alumbrado, sin que se haya acreditado aquí el pago final; la causa penal fue sobreseída provisionalmente y criticada por Ganemos como un ejemplo de impunidad. Alfonso Fernández Mañueco, denunciado en la causa, es posteriormente presidente de la Junta de Castilla y León."
 
 documentos:
   - fecha: "2018-02-09"
@@ -175,17 +175,8 @@ cronologia:
 - **Alcaldía y contrato de 2010**: el primer contrato con Aceinsa (placas de vado) se adjudicó el 18 de abril de 2010, bajo la alcaldía de Julián Lanzarote (PP), anterior a la de Alfonso Fernández Mañueco (2011-2018); ese contrato no debe situarse durante el mandato de Mañueco. La fecha exacta consta en las fuentes de prensa descargadas (La Crónica de Salamanca y el comunicado de Ganemos), que la sitúan el 18 de abril de 2010.
 - **Solapamiento con Caso Aceinsa II**: esta ficha y `casos/pp/aceinsa-ii.md` describen el mismo litigio contencioso-administrativo del alumbrado público de 2012 (anulación e indemnización a Etralux, 327.192,96 € consignados). Se documenta el solapamiento de forma expresa y no se suman los importes del alumbrado y de la prórroga de señalización como si fueran causas independientes.
 - **Reforma legal**: Ganemos atribuye el archivo al plazo de seis meses de instrucción introducido por la reforma de la Ley de Enjuiciamiento Criminal de 2015, no a una reducción de los plazos de prescripción del Código Penal como indicaba la versión anterior de la ficha.
-- **Fuentes primarias**: no se han localizado notas del CGPJ ni los textos completos de las resoluciones judiciales. La ficha se apoya en prensa (EFE/La Vanguardia, Cadena SER, El Español, El Norte de Castilla, Salamanca RTV al Día y La Crónica de Salamanca), en comunicados del denunciante (Ganemos Salamanca), tratados como parte, y en actas oficiales del Pleno del Ayuntamiento de Salamanca (9 de febrero, 7 de septiembre y 16 de noviembre de 2018) descargadas y verificadas. `documentos:
-  - fecha: "2018-02-09"
-    titulo: "Acta del Pleno de Salamanca: casación contra sentencia 1321/2017 (apartado páginas PDF 32-33)"
-    filetype: "pdf"
-    paginas: 200
-    nombre_fichero: "https://www.aytosalamanca.es/documents/20119/1383370/Acta+N%C2%BA+01.+Sesi%C3%B3n+ordinaria+de+09-02-2018.pdf/da168547-9e43-56ee-8303-22d98630976b?t=1738836706250"
-  - fecha: "2018-11-16"
-    titulo: "Acta del Pleno extraordinario: crédito para indemnización sustitutoria de Etralux (páginas PDF 39-40 y debate posterior)"
-    filetype: "pdf"
-    paginas: 88
-    nombre_fichero: "https://www.aytosalamanca.es/documents/20119/1383370/Acta+N%C2%BA+12.+Sesi%C3%B3n+extraordinaria+de+16-11-2018.pdf/827df943-7df4-b793-d319-337e163231e9?t=1738836469722"` porque no se han verificado documentos oficiales con los metadatos que exige el esquema.
+- **Fuentes primarias**: se han verificado las actas oficiales del Pleno de 9 de febrero y 16 de noviembre de 2018, incorporadas en el apartado de documentos. La lectura se limita a los apartados sobre la sentencia, la casación y la consignación y a extractos del debate; no abarca las 200 y 88 páginas íntegras. No se han recuperado los originales de las resoluciones del TSJ, del Supremo ni del auto penal. Los comunicados de Ganemos se tratan como fuentes de la parte denunciante, no como hechos judicialmente probados.
+
 - **Tramo 2025-2026**: no se han encontrado novedades judiciales sobre el caso Aceinsa hasta el 17 de octubre de 2026. Las menciones recientes a Aceinsa corresponden a la actividad contractual de la empresa y a la trayectoria política de Mañueco, no a resoluciones sobre este caso.
 - **Neutralidad**: se han reformulado las expresiones que daban por probados los hechos denunciados; la anulación del alumbrado se contrasta en EFE y actas; las acusaciones de trato de favor se atribuyen a sus emisores, sin convertirlas en condenas penales, mientras que la prevaricación y la malversación fueron objeto de una denuncia penal archivada.
 - **Inconsistencia de campos**: se mantiene `año: 2017` (año de la denuncia) aunque `fechaInicio` sea 2010-04-18 (primer contrato); ambas referencias están documentadas.
