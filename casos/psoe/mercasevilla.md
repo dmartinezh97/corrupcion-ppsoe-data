@@ -1,181 +1,135 @@
 ---
-nombre: "Mercasevilla"
+nombre: Mercasevilla
 partido: PSOE
-completado: true
+completado: false
 año: 2009
-fechaInicio: 2009-01-27
-fechaFin: "2021-09-30"
-estado: "cerrado con condenas"
-descripcion: |
-  El caso Mercasevilla es el escándalo de corrupción que sirvió de detonante para descubrir el mayor fraude político de la historia democrática española: el macrocaso de los ERE andaluces. Todo comenzó en enero de 2009 cuando dos empresarios del Grupo La Raza grabaron al director general de Mercasevilla, Fernando Mellet, y a su subdirector Daniel Ponce exigiéndoles 450.000 euros en metálico a cambio de adjudicarles la gestión de una escuela de hostelería subvencionada con 900.000 euros por la Junta de Andalucía. La grabación llegó a manos de la jueza Mercedes Alaya, quien abrió diligencias en abril de 2009 e inició una investigación que fue ramificándose hasta revelar una estructura sistémica de corrupción en la administración andaluza controlada por el PSOE.
-
-  La investigación de Mercasevilla destapó múltiples capas de corrupción en la empresa pública: prejubilaciones fraudulentas de militantes del PSOE que nunca habían trabajado en la empresa, becas concedidas de manera arbitraria sin convocatoria pública a personas vinculadas a dirigentes socialistas, contratos simulados y pagos injustificados a asociaciones afines. El descubrimiento de que Antonio Garrido Santoyo, militante del PSOE en Baeza, había cobrado más de 112.000 euros en un ERE de Mercasevilla sin haber pisado jamás la empresa fue el hilo que tiró de todo el ovillo. La jueza Alaya abrió nuevas diligencias (DP 174/2011) que dieron lugar a la investigación del macrocaso ERE, en el que se acreditó el desvío de al menos 679 millones de euros de dinero público de la Junta de Andalucía para beneficiar a empresas, trabajadores y sindicatos afines al PSOE.
-
-  El caso tuvo dos grandes ramas judiciales. La primera, relativa al cohecho de la escuela de hostelería, se resolvió con la condena de Mellet y Ponce a sendas multas de 600.000 euros y 21 meses de suspensión, sentencia que el Tribunal Supremo confirmó. La segunda, por malversación en las prejubilaciones y becas, concluyó en 2019 con la condena de Mellet a dos años de prisión y seis de inhabilitación, ratificada por el Tribunal Supremo en septiembre de 2021. Trece acusados fueron absueltos por insuficiencia de pruebas. El impacto político del caso fue de alcance histórico: la investigación derivada de Mercasevilla acabó sentando en el banquillo a los expresidentes andaluces José Antonio Griñán (condenado a seis años de prisión) y Manuel Chaves (nueve años de inhabilitación).
-
-resumen: "Corrupción en el mercado central de Sevilla: sobornos y malversación que desencadenaron la investigación del macrocaso ERE andaluz."
-lugar: "Sevilla, Andalucía"
-coste: 449164
+estado: condenas y absoluciones
+descripcion: Mercasevilla comprende varios procedimientos con resultados diferentes. En el cohecho de la escuela
+  de hostelería, la STS421/2014, de 16 de mayo, mantuvo para Fernando José Mellet Jiménez y Daniel Ponce Verdugo
+  multas individuales de 600.000 euros y suspensión de empleo y cargo público durante 21 meses; absolvió a Antonio
+  Rivas Sánchez. La petición de 450.000 euros no fue un pago acreditado. En otra pieza, la STS685/2021, de 15 de
+  septiembre, confirmó la condena de Mellet a dos años de prisión y seis de inhabilitación por la beca de estudios,
+  con responsabilidad civil de 16.412,12 euros; la beneficiaria fue absuelta penalmente, aunque responde solidariamente
+  como partícipe a título lucrativo. La venta de suelos terminó con diez absoluciones en 2017, según prensa que
+  las declaró firmes. La guardería tuvo otra condena de conformidad en noviembre de 2021. No se trasladan estos
+  resultados a las piezas ERE. Quedan pendientes originales de suelos y guardería y comprobaciones de ejecución,
+  cobros y eventuales recursos constitucionales hasta el corte del 17 de octubre de 2026; no se da por cerrada toda
+  la causa con una única fecha.
+resumen: Procedimientos distintos sobre cohecho, beca, terrenos y guardería de Mercasevilla, con condenas y absoluciones
+  diferenciadas.
+lugar: Sevilla
 tribunal:
-  - "Juzgado de Instrucción nº 6 de Sevilla - Jueza Mercedes Alaya"
-  - "Audiencia Provincial de Sevilla - Sección Cuarta"
-  - "Tribunal Superior de Justicia de Andalucía"
-  - "Tribunal Supremo - Sala Segunda"
-numeroSentencia: ""
+- Juzgado de Instrucción número 6 de Sevilla
+- Audiencia Provincial de Sevilla, secciones Tercera y Cuarta
+- Tribunal Superior de Justicia de Andalucía
+- Tribunal Supremo, Sala de lo Penal
+- Juzgado de lo Penal número 13 de Sevilla
+numeroSentencia: STS421/2014, de 16 de mayo (cohecho); STS685/2021, de 15 de septiembre (beca)
 implicados:
-  - nombre: "Fernando Mellet Jiménez"
-    cargo: "Ex-director general de Mercasevilla"
-    rol: "Condenado por cohecho (multa 600.000 €) y malversación (2 años de prisión)"
-
-  - nombre: "Daniel Ponce"
-    cargo: "Ex-subdirector de Mercasevilla"
-    rol: "Condenado por cohecho con multa de 600.000 euros"
-
-  - nombre: "Antonio Rivas"
-    cargo: "Ex-delegado provincial de Empleo de la Junta de Andalucía"
-    rol: "Condenado por extorsión; condena anulada posteriormente por el Tribunal Supremo"
-
-  - nombre: "Antonio Garrido Santoyo"
-    cargo: "Militante del PSOE en Baeza"
-    rol: "Prejubilado falso que cobró 112.000 euros sin trabajar en Mercasevilla"
-
-  - nombre: "Juan Lanzas"
-    cargo: "Sindicalista de UGT"
-    rol: "Intermediario para incluir afines al PSOE en ERE fraudulentos"
-
-  - nombre: "Rodrigo Torrijos"
-    cargo: "Ex-vicepresidente de Mercasevilla y teniente de alcalde de Sevilla (PSOE-IU)"
-    rol: "Imputado por venta irregular de suelos; absuelto en 2017"
-
-  - nombre: "Antonio Vela Adame"
-    cargo: "Ex-presidente Asociación de Mayoristas de Pescado"
-    rol: "Acusado de malversación por pagos injustificados"
-
-  - nombre: "Carmen Vela Maldonado"
-    cargo: "Hija del presidente de la Asociación de Mayoristas"
-    rol: "Beneficiaria de beca fraudulenta de 24.000 euros para estudiar en Londres"
-
+- nombre: Fernando José Mellet Jiménez
+  cargo: Exdirector general de Mercasevilla
+  rol: Condenado por cohecho en la pieza de la escuela de hostelería; condenado por malversación en la beca de estudios,
+    con absolución de otras acusaciones de esa pieza. La guardería constituye otra condena independiente.
+- nombre: Daniel Ponce Verdugo
+  cargo: Exsubdirector general de Mercasevilla
+  rol: 'Condena por cohecho confirmada por el Supremo: multa 600.000 euros y suspensión de empleo y cargo público
+    21 meses.'
+- nombre: Antonio Rivas Sánchez
+  cargo: Exdelegado provincial de Empleo de la Junta en Sevilla
+  rol: Absuelto de cohecho por el Supremo el 16 de mayo de 2014, que anuló su condena anterior.
+- nombre: Carmen Vela
+  cargo: Beneficiaria de la beca de estudios examinada en otra pieza
+  rol: Absuelta penalmente; responsabilidad conjunta y solidaria por 16.412,12 euros como partícipe a título lucrativo.
+    Identidad contrastada en prensa nominal, sin reconstruir seudónimos.
+- nombre: Antonio Rodrigo Torrijos
+  cargo: Ex primer teniente de alcalde de Sevilla y representante de IU
+  rol: Absuelto junto con otros nueve acusados en la pieza de los suelos en 2017; firmeza referida por prensa, original
+    pendiente.
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "malversación"
-  - "prevaricación"
-  - "tráfico de influencias"
-  - "ERE fraudulentos"
-  - "empresa pública"
-  - "Junta de Andalucía"
-
-impactoSocial: "El caso Mercasevilla fue el detonante del mayor escándalo de corrupción política de la democracia española. La investigación iniciada en este mercado sevillano derivó en el macrocaso ERE andaluz, que acreditó el desvío de 679 millones de euros y acabó con la condena de los expresidentes de la Junta Griñán y Chaves. Supuso un golpe devastador para el PSOE en Andalucía y puso fin a 37 años de gobierno socialista ininterrumpido en la comunidad."
-
-documentos: null
-
+- Mercasevilla
+- cohecho
+- malversación
+- absolución
+- empresa municipal
+impactoSocial: La investigación dio lugar a procedimientos distintos sobre la gestión de la sociedad y se relacionó
+  con el origen de la investigación de los ERE. Sus resultados penales no son intercambiables.
+documentos:
+- fecha: '2014-05-16'
+  titulo: 'STS421/2014: cohecho, condenas de Mellet y Ponce y absolución de Rivas'
+  filetype: pdf
+  paginas: 77
+  nombre_fichero: https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/sentencia%20Merca%20TS.pdf
+- fecha: '2021-09-15'
+  titulo: 'STS685/2021: recurso sobre la condena por la beca de estudios'
+  filetype: pdf
+  paginas: 23
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=db29a933d3e62465&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2009-01-27"
-    titulo: "Grabación del soborno: 450.000 euros en una maleta"
-    descripcion: "Dos empresarios del Grupo La Raza graban a Fernando Mellet y Daniel Ponce, directivos de Mercasevilla, exigiéndoles 450.000 euros en metálico como condición para adjudicarles la gestión de una escuela de hostelería subvencionada por la Junta de Andalucía con 900.000 euros. La grabación se convierte en la prueba clave del caso."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://www.libertaddigital.com/nacional/el-pp-cree-que-el-caso-podria-salpicar-a-altos-cargos-socialistas-de-madrid-1276407994/"
-
-  - fecha: "2009-04-27"
-    titulo: "La jueza Alaya abre diligencias por el caso Mercasevilla"
-    descripcion: "El Juzgado de Instrucción nº 6 de Sevilla, a cargo de la jueza Mercedes Alaya, abre las Diligencias Previas tras la denuncia presentada por Juan Ignacio Zoido (PP) sobre las irregularidades en Mercasevilla. Comienza la instrucción que, en pocos meses, revelará una estructura de corrupción mucho más amplia."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.publico.es/politica/cronologia-14-anos-caso-ere-investigacion-condena-revision-tribunal-constitucional.html"
-
-  - fecha: "2011-01-01"
-    titulo: "Apertura de Diligencias Previas 174/2011: nace el caso ERE"
-    descripcion: "La jueza Alaya descubre que Antonio Garrido Santoyo, militante del PSOE en Baeza, cobró más de 112.000 euros en un ERE de Mercasevilla sin haber trabajado jamás en la empresa. Este hallazgo le lleva a abrir las DP 174/2011, el expediente que dará lugar al macrocaso de los ERE andaluces y que investigará el desvío de 679 millones de euros de la Junta de Andalucía."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_ERE_en_Andaluc%C3%ADa"
-
-  - fecha: "2011-04-04"
-    titulo: "Imputación de Rodrigo Torrijos por venta irregular de suelos"
-    descripcion: "La jueza Alaya imputa a Rodrigo Torrijos, vicepresidente de Mercasevilla y teniente de alcalde de Sevilla en un gobierno PSOE-IU, por su presunta participación en la adjudicación fraudulenta de terrenos de Mercasevilla. La imputación se produce mes y medio antes de las elecciones municipales del 22 de mayo de 2011."
-    type: "imputación"
-    urls:
-      - "https://www.publico.es/espana/candidato-imputado-iu-alcaldia-sevilla.html"
-
-  - fecha: "2012-03-10"
-    titulo: "La investigación de Mercasevilla lleva a prisión al director de ERE de la Junta"
-    descripcion: "La jueza Alaya ordena el encarcelamiento de Francisco Javier Guerrero, director general de Trabajo de la Junta de Andalucía entre 1999 y 2008, en el marco de la investigación derivada del caso Mercasevilla. Es el primer alto cargo de la Junta detenido en el macrocaso ERE, que ha crecido exponencialmente a partir del mercado sevillano."
-    type: "detención"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/andalucia/jueza-alaya-fallo-supremo-cronologia-trece-anos-caso-ere_1_9179641.html"
-
-  - fecha: "2012-04-02"
-    titulo: "El TSJA avala la grabación del soborno como prueba lícita"
-    descripcion: "El Tribunal Superior de Justicia de Andalucía rechaza los recursos de Mellet y Ponce para anular la grabación del cohecho. El tribunal declara que la prueba es lícita y fue obtenida de buena fe por los empresarios denunciantes, despejando el camino hacia el juicio oral por la pieza del cohecho."
-    type: "sentencia"
-    urls:
-      - "https://www.libertaddigital.com/nacional/2012-04-02/el-tsja-avala-la-grabacion-contra-los-exdirectivos-de-mercasevilla-1276454765/"
-
-  - fecha: "2013-06-01"
-    titulo: "Jurado popular declara culpables a Mellet, Ponce y Rivas por cohecho"
-    descripcion: "Un jurado popular de la Audiencia Provincial de Sevilla declara por unanimidad culpables a Fernando Mellet y Daniel Ponce, y por mayoría de ocho a uno a Antonio Rivas, ex-delegado provincial de Empleo, por el cohecho en la adjudicación de la escuela de hostelería. Es el primer veredicto de culpabilidad del caso Mercasevilla."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://laadministracionaldia.inap.es/noticia.asp?id=1105718"
-      - "https://www.telecinco.es/informativos/nacional/Mercasevilla-exdirectivos-exdelegado-provincial-Empleo_0_1497825600.html"
-
-  - fecha: "2014-08-05"
-    titulo: "Alaya abre juicio oral por malversación contra 14 personas"
-    descripcion: "Tras más de cinco años de instrucción, la jueza Alaya procesa a 14 personas —incluido Mellet— por prevaricación, malversación y falsedad documental relacionadas con los ERE fraudulentos, las becas arbitrarias y los contratos simulados en Mercasevilla. La Fiscalía pide para Mellet 24 años de prisión y 40 de inhabilitación."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/andalucia/Mecasevilla_0_375162869.html"
-
-  - fecha: "2017-06-21"
-    titulo: "Absolución de Torrijos y nueve acusados por la venta de suelos"
-    descripcion: "La Audiencia Provincial de Sevilla absuelve a Rodrigo Torrijos y a otros nueve acusados al no encontrar pruebas de que hubieran actuado para favorecer a la empresa adjudicataria en la venta de terrenos de Mercasevilla. Es un revés para la instrucción de Alaya."
-    type: "sentencia"
-    urls:
-      - "https://www.publico.es/politica/juez-absuelve-acusados-suelos-mercasevilla-caso-origen-ere.html"
-      - "https://www.elespanol.com/espana/20170621/225477684_0.html"
-
-  - fecha: "2019-01-15"
-    titulo: "Comienza el juicio por malversación y ERE fraudulentos"
-    descripcion: "La Audiencia Provincial de Sevilla inicia el juicio oral contra 14 personas por las prejubilaciones excesivas, los ERE fraudulentos y la beca arbitraria de 24.000 euros. Es la segunda y última pieza del caso Mercasevilla en llegar a juicio."
-    type: "investigación"
-    urls:
-      - "https://andaluciainformacion.es/andalucia/799003/comienza-esta-semana-el-juicio-contra-14-personas-por-mercasevilla/"
-
-  - fecha: "2019-03-25"
-    titulo: "Sentencia: Mellet condenado a 2 años; 13 acusados absueltos"
-    descripcion: "La Audiencia Provincial de Sevilla condena a Fernando Mellet a dos años de prisión y seis de inhabilitación por malversación al haber concedido una beca de 24.000 euros a Carmen Vela de forma arbitraria e injustificada. Los 13 restantes acusados, incluidos los prejubilados falsos, son absueltos por falta de pruebas de su participación consciente en el fraude. Mellet debe indemnizar a la Fundación Socio-Asistencial de Mercasevilla con 16.412 euros."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.canalsur.es/noticias/andalucia/la-audiencia-de-sevilla-absuelve-a-13-de-los-14-acusados-del-caso-mercasevilla/1411125.html"
-      - "https://confidencialandaluz.com/caso-mercasevilla-la-sentencia/"
-
-  - fecha: "2020-11-01"
-    titulo: "El Tribunal Supremo anula la condena a Antonio Rivas"
-    descripcion: "El Tribunal Supremo anula la condena contra el ex-delegado provincial de Empleo Antonio Rivas por vulneración de su presunción de inocencia. El Alto Tribunal considera que la principal prueba en su contra —la declaración policial de Mellet— carecía de validez al no haber sido ratificada ante el juez instructor ni en el juicio oral."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-anula-la-condena-a-Antonio-Rivas-por-el-caso-Mercasevilla"
-
-  - fecha: "2021-09-30"
-    titulo: "El Tribunal Supremo ratifica la condena a Mellet"
-    descripcion: "El Tribunal Supremo confirma la condena de dos años de prisión y seis de inhabilitación a Fernando Mellet por malversación. El Alto Tribunal avala que la beca de 24.000 euros para Carmen Vela fue arbitraria: la beneficiaria no pertenecía a ningún colectivo desfavorecido, la formación no guardaba relación con los fines sociales de la fundación y no compensaba ningún trabajo realizado. La condena firme cierra judicialmente el caso Mercasevilla."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/sevilla/supremo-ratifica-condena-mellet-malversacion-mercasevilla-beca-arbitraria_1_8309233.html"
-      - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1215123"
-
-  - fecha: "2023-03-01"
-    titulo: "El CGPJ detecta un funcionamiento anormal de la Justicia en el caso"
-    descripcion: "El Consejo General del Poder Judicial emite un informe en el que advierte de un 'anormal funcionamiento de la Justicia' durante la instrucción del caso Mercasevilla por la jueza Alaya, señalando un exceso de tiempo injustificado que afectó al derecho de los acusados a un juicio dentro de un plazo razonable."
-    type: "documento"
-    urls:
-      - "https://www.infolibre.es/politica/varapalo-jueza-alaya-cgpj-ve-anormal-funcionamiento-justicia-caso-mercasevilla_1_1184252.html"
+- fecha: '2009-01-27'
+  titulo: Reunión en la que se reiteró la petición de dinero
+  descripcion: 'El relato reproducido en la STS421/2014 sitúa una segunda reunión en este día: se solicitaron 300.000
+    euros más 150.000. Los empresarios no entregaron las cantidades. No se contabilizan como dinero efectivamente
+    desviado.'
+  urls:
+  - https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/sentencia%20Merca%20TS.pdf
+  type: investigacion
+  relevancia: alta
+- fecha: '2012-11-06'
+  titulo: Condena inicial del tribunal del jurado
+  descripcion: La sentencia reproducida por el Supremo condenó inicialmente a Mellet, Ponce y Rivas y absolvió a
+    Regla María Pereira. El resultado de Rivas fue modificado en casación.
+  urls:
+  - https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/sentencia%20Merca%20TS.pdf
+  type: sentencia
+  relevancia: alta
+- fecha: '2014-05-16'
+  titulo: El Supremo absuelve a Rivas y mantiene las otras condenas
+  descripcion: 'STS421/2014: anulación de la condena de Rivas por falta de prueba válida; desestimación de los recursos
+    de Mellet y Ponce. La segunda sentencia absuelve expresamente a Rivas y deja sin efecto sus medidas cautelares.'
+  urls:
+  - https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/sentencia%20Merca%20TS.pdf
+  type: sentencia
+  relevancia: alta
+- fecha: '2017-06-21'
+  titulo: Absoluciones en la venta de terrenos
+  descripcion: Diario de Sevilla identifica la sentencia del Juzgado de lo Penal 13 que absolvió a Torrijos y otros
+    nueve acusados. La noticia de 6 de julio afirma su firmeza y recoge que Fiscalía no recurriría. No se dispone
+    del original.
+  urls:
+  - https://www.diariodesevilla.es/sevilla/Fiscalia-recurrira-absolucion-caso-Mercasevilla_0_1151585182.html
+  type: sentencia
+  relevancia: alta
+- fecha: '2019-03-25'
+  titulo: Condena por la beca y absoluciones de otras acusaciones
+  descripcion: La sentencia reproducida en la STS685/2021 impuso dos años de prisión y seis de inhabilitación por
+    la beca; absolvió otras acusaciones sobre Hermes, prejubilaciones y pagos a la asociación. La beneficiaria fue
+    absuelta penalmente, con responsabilidad civil a título lucrativo.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=db29a933d3e62465&encode=true&databasematch=AN
+  type: sentencia
+  relevancia: alta
+- fecha: '2021-09-15'
+  titulo: El Supremo desestima el recurso de la beca
+  descripcion: STS685/2021 confirma la condena y la responsabilidad civil solidaria de 16.412,12 euros, más intereses.
+    El fallo indica que no cabe recurso; no se afirma el cumplimiento de la pena o de la indemnización.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=db29a933d3e62465&encode=true&databasematch=AN
+  type: sentencia
+  relevancia: alta
+- fecha: '2021-11-18'
+  titulo: Conformidad en la pieza independiente de la guardería
+  descripcion: Las cuentas oficiales de 2025 identifican la sentencia de conformidad de esta fecha y 150.252 euros
+    de responsabilidad civil, más intereses y costas. No se suma a otras piezas ni se presenta como cierre global.
+  urls:
+  - https://www.mercasevilla.com/uploads/wysiwyg-editor/informedeauditoriaindependientecuentasanualeseinformedegestion2025.pdf
+  type: sentencia
+  relevancia: alta
 ---
+
+La [sentencia del cohecho](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/sentencia%20Merca%20TS.pdf) distingue entre los 300.000 euros solicitados y otros 150.000 añadidos con la excusa de una acometida eléctrica. Los empresarios se negaron a pagar. La subvención de 900.000 euros para la escuela tampoco equivale a un daño de ese importe. Las multas de 600.000 euros son penas individuales, no responsabilidad civil ni pérdida patrimonial. La absolución de Rivas fue dictada en 2014, no en 2020.
+
+La [sentencia sobre la beca](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=db29a933d3e62465&encode=true&databasematch=AN) confirmó una condena por un pago de 16.412,12 euros. La [prensa nominal](https://www.diariodesevilla.es/juzgado_de_guardia/sentencias/Tribunal-Supremo-confirma-condena-director-Mercasevilla_0_1611439921.html) identifica a Mellet y a Carmen Vela y distingue expresamente su absolución penal de su obligación civil como partícipe a título lucrativo. El texto judicial usa seudónimos; no se reconstruyen identidades de los demás absueltos a partir de ellos. La responsabilidad solidaria constituye una sola obligación, no dos importes sumables. Los 449.164,74 euros eran un perjuicio alegado para un conjunto de acusaciones que no terminó íntegramente en condena, por lo que se elimina esa cifra como coste del caso.
+
+La [pieza de los terrenos](https://www.diariodesevilla.es/sevilla/Fiscalia-recurrira-absolucion-caso-Mercasevilla_0_1151585182.html) terminó con diez absoluciones según la información consultada. El órgano fue el Juzgado de lo Penal 13, no la Audiencia. Faltan el original y la resolución de firmeza para su cotejo primario. Las [cuentas de 2025](https://www.mercasevilla.com/uploads/wysiwyg-editor/informedeauditoriaindependientecuentasanualeseinformedegestion2025.pdf) aportan seguimiento de la guardería: sentencia 401/2021 de la Sección Tercera y 9.000 euros abonados en 2025. Esa pieza tiene ficha propia, mercasevilla-guarderia; su importe no se agrega aquí.
+
+Los procedimientos ERE y los recursos constitucionales de otros responsables requieren comprobaciones individuales. No se atribuyen sus cifras, condenas o revisiones a estas piezas, ni se fija una fecha final para toda Mercasevilla. Queda sin verificar la ejecución penal y el cobro completo de las responsabilidades civiles, además de los originales indicados.
