@@ -10,10 +10,11 @@ descripcion: |
 
   El expresidente de Emarsa Enrique Crespo, exalcalde de Manises (PP) y exvicepresidente de la Diputación de Valencia, fue condenado a 10 años de prisión; el exgerente Esteban Cuesta, a 12 años y 6 meses (la pena más alta). José Juan Morenilla e Ignacio Bernácer eran directivos de la entidad pública EPSAR (no de Emarsa). Los principales condenados ingresaron en prisión en noviembre de 2020. La causa ha tenido piezas separadas: una condena del Juzgado de lo Penal nº 6 de Valencia de 11 de enero de 2021 por delitos fiscales (IVA) a Crespo, Cuesta y el empresario Jorge Ignacio Roca —con EMSHI como responsable civil subsidiaria—, confirmada en apelación el 30 de julio de 2021 por la Sección Segunda de la Audiencia Provincial de Valencia; esa condena quedó subsistente en casación, al desestimarse los recursos por inadmisibilidad (art. 884.2 LECrim) sin examinar el fondo por el Tribunal Supremo en sentencia de 15 de marzo de 2023, conocida el 4 de abril; una sentencia absolutoria de 2016 (pieza de la lotería) para Crespo y sus familiares; y el enjuiciamiento aparte del empresario José Luis Sena, que se conformó en mayo de 2021 con cuatro años de cárcel.
 
-  Alcance y límites: esta ficha se refiere a la pieza principal y a sus resoluciones firmes del Tribunal Supremo de 2020; las piezas separadas tuvieron resultados propios. La cifra penal (23,5 millones) no equivale ni se suma a la fijada por el Tribunal de Cuentas (20.490.817 euros) ni al volumen de facturación investigado (unos 40 millones pagados a unas 35 empresas, cifra no judicial). El inicio de la causa se sitúa en la denuncia del PSPV de octubre de 2010, de la que no consta el día exacto. La información oficial más reciente es de 2025: el acta de la Asamblea de EMSHI de 27 de febrero de 2025 recoge la ejecución de la responsabilidad civil subsidiaria de EMSHI en la pieza del IVA —recurso de revisión desestimado por auto del Juzgado de lo Penal nº 5 de Valencia de 4 de julio de 2024 frente a la liquidación de intereses de 13 de marzo de 2024, declarado firme por providencia de 20 de septiembre de 2024—. No constan resoluciones firmes nuevas de 2025 o 2026 sobre la pieza principal ni sobre el resto de la macrocausa, y la ausencia de noticias posteriores no permite dar el caso por cerrado. La última resolución judicial de la pieza separada del IVA es la sentencia del Tribunal Supremo de 15 de marzo de 2023 (que desestimó los recursos por inadmisibilidad, sin examinar el fondo), conocida el 4 de abril.
+  Alcance al 17 de octubre de 2026: esta ficha distingue la pieza principal, la contable y las piezas separadas. El principal histórico de responsabilidad civil penal (23.501.620,35 euros) se consigna una sola vez como coste, sin sumar las obligaciones solidarias individuales ni la condena contable de 20.490.817,87 euros. No representa el saldo pendiente de cobro. Se han localizado los originales del Tribunal de Cuentas: sentencia 18/2018 de 28 de diciembre, confirmada por la Sala de Justicia en la 14/2020 de 30 de septiembre, cuya cabecera indica situación firme. No se ha verificado su ejecución completa. La referencia heredada a un acta de EMSHI de 27 de febrero de 2025 sobre ejecución del IVA no ha podido revalidarse (GET403); los autos de 2024 que esa referencia describía no se presentan como originales comprobados. El auto del Supremo de 5 de abril de 2021 (ROJ ATS 4579/2021) rechazó los incidentes de nulidad de cuatro representaciones; su texto anonimizado no permite atribuir aquí cada resultado a una persona nominal. Subsiste pendiente el enlace nominal con el incidente de Gimeno referido por la prensa, así como las diferencias entre la crónica penitenciaria de 2024 y las penas del IVA que constan en el original de 2023. No se conoce el estado penitenciario en 2026 ni se infiere cierre o cumplimiento por falta de noticias.
+
 resumen: "Desvío de 23,5 millones de euros de la empresa pública Emarsa, gestora de la depuradora de Pinedo (Valencia)"
 lugar: "Valencia, Comunidad Valenciana"
-coste: 23500000
+coste: 23501620.35
 tribunal:
   - "Juzgado de Instrucción nº 15 de Valencia (instrucción)"
   - "Audiencia Provincial de Valencia, Sección Primera (sentencia nº 349/2018)"
@@ -60,7 +61,7 @@ implicados:
 
   - nombre: "Adolfo Polo Baixauli"
     cargo: "Exjefe de área medioambiental de Emarsa"
-    rol: "Condenado a 2 años y 6 meses de prisión en la instancia; el Tribunal Supremo le apreció las atenuantes de reparación del daño y analógica de confesión y rebajó la pena a 1 año y 4 meses de prisión y multa de 5 meses, como cómplice de malversación y autor de falsedad documental"
+    rol: "Condenado a 2 años y 6 meses de prisión en la instancia; el Tribunal Supremo le apreció las atenuantes de reparación del daño y analógica de confesión y rebajó la pena a 1 año y 4 meses de prisión y multa de 5 meses, como cómplice de malversación y autor de falsedad documental; limitó su indemnización a 205.192,72 euros, sin sumar ese límite a las demás responsabilidades"
 
   - nombre: "Mari Paz García Martínez"
     cargo: "Administradora de empresas; hermana de Sebastián García «Chanín»"
@@ -138,7 +139,7 @@ tags:
   - "EPSAR"
   - "EMSHI"
 
-impactoSocial: "La sentencia declaró probado el desvío de 23,5 millones de euros de la empresa pública que gestionaba la depuradora de Pinedo, lo que precedió a la liquidación de Emarsa en 2010 y a la privatización de la gestión del servicio. La resolución fijó indemnizaciones conjuntas y solidarias de hasta 23.501.620,35 euros. Los principales condenados ingresaron en prisión en noviembre de 2020; según la prensa, a finales de septiembre de 2024 solo tres de ellos seguían privados de libertad. Las administraciones perjudicadas (EMSHI y EPSAR) habían recuperado unos 3,2 millones de euros de las indemnizaciones en febrero de 2023, según fuentes municipales."
+impactoSocial: "La sentencia declaró probado el desvío de 23,5 millones de euros de la empresa pública que gestionó la depuradora de Pinedo hasta su liquidación en 2010. La resolución fijó indemnizaciones conjuntas y solidarias de hasta 23.501.620,35 euros. Los principales condenados ingresaron en prisión en noviembre de 2020; según la prensa, a finales de septiembre de 2024 solo tres de ellos seguían privados de libertad. La crónica de 7 de octubre de 2021 informó de más de 2,1 millones recuperados entre EMSHI y EPSAR; no se dispone de liquidación actual."
 
 documentos:
   - fecha: "2020-09-30"
@@ -146,8 +147,8 @@ documentos:
     filetype: "pdf"
     paginas: 640
     nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=d8235b148aa1a151&encode=true&databasematch=TS"
-  - fecha: "2018-06"
-    titulo: "Tabla de condenas (junio de 2018) de la pieza principal del caso Emarsa, publicada por el CGPJ/TSJCV: 24 condenados, penas y responsabilidades civiles"
+  - fecha: "2018-06-22"
+    titulo: "Tabla de condenas (publicación oficial de 22 de junio de 2018; sin fecha propia en el PDF) de la pieza principal del caso Emarsa, publicada por el CGPJ/TSJCV: 24 condenados, penas y responsabilidades civiles"
     filetype: "pdf"
     paginas: 9
     nombre_fichero: "https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Comunidad%20Valenciana/JURISPRUDENCIA/Tabla%20de%20condenas%20junio%202018.pdf"
@@ -156,11 +157,22 @@ documentos:
     filetype: "pdf"
     paginas: 20
     nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=4ffaa75310f43166a0a8778d75e36f0d&encode=true&databasematch=TS"
-  - fecha: "2025-02-27"
-    titulo: "Acta de la sesión ordinaria de la Asamblea de la Entidad Metropolitana de Servicios Hidráulicos (EMSHI) de 27 de febrero de 2025"
+  - fecha: "2018-12-28"
+    titulo: "Tribunal de Cuentas, Departamento Segundo: sentencia 18/2018, reintegro B-212/11 acumulado 172/13"
     filetype: "pdf"
-    paginas: 240
-    nombre_fichero: "https://www.emshi.gob.es/wp-content/uploads/2025/05/ACTA-1_A_27_02_2025.pdf"
+    paginas: 54
+    nombre_fichero: "https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2018/Sentencia_18_2018_2E.pdf"
+  - fecha: "2020-09-30"
+    titulo: "Tribunal de Cuentas, Sala de Justicia: sentencia 14/2020, apelación 23/19; cabecera con situación firme"
+    filetype: "pdf"
+    paginas: 30
+    nombre_fichero: "https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2020/Sentencia_14_2020_SJ.pdf"
+
+  - fecha: "2021-04-05"
+    titulo: "Tribunal Supremo: auto de 5 de abril de 2021, ROJ ATS 4579/2021, ECLI:ES:TS:2021:4579A; incidentes de nulidad en el recurso 3391/2018"
+    filetype: "pdf"
+    paginas: 6
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=355e266e9b41e097&encode=true&databasematch=TS"
 
 cronologia:
   - fecha: "2011-10-26"
@@ -216,11 +228,12 @@ cronologia:
 
   - fecha: "2019-01-11"
     titulo: "Se conoce la sentencia del Tribunal de Cuentas: 20,49 millones de euros"
-    descripcion: "Se hizo pública la sentencia de la Sala de Justicia del Tribunal de Cuentas que cifró en 20.490.817 euros el perjuicio causado a los fondos públicos entre 2004 y 2010 y declaró responsables contables directos y solidarios, entre otros, a Cuesta, Crespo y Arnal por el importe total y a Morenilla y Bernácer por 12,5 millones. La fecha del hito es la de su comunicación o difusión pública (11 de enero de 2019), no la de la firma de la resolución."
+    descripcion: "Se difundió la sentencia 18/2018, de 28 de diciembre, del Departamento Segundo de Enjuiciamiento del Tribunal de Cuentas que cifró en 20.490.817,87 euros el perjuicio causado a los fondos públicos entre 2004 y 2010 y declaró responsables contables directos y solidarios, entre otros, a Cuesta, Crespo y Arnal por el importe total y a Morenilla y Bernácer por 12,5 millones. La fecha del hito es la de difusión pública (11 de enero de 2019); el original fecha la resolución el 28 de diciembre de 2018."
     type: "sentencia"
     relevancia: "alta"
     urls:
       - "https://www.eldiario.es/comunitat-valenciana/tribunal-cuentas-millones-depuradora-valencia_1_1754075.html"
+      - "https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2018/Sentencia_18_2018_2E.pdf"
 
   - fecha: "2020-09-30"
     titulo: "Sentencia del Tribunal Supremo (nº 482/2020)"
@@ -232,11 +245,12 @@ cronologia:
 
   - fecha: "2020-10-01"
     titulo: "Se conoce la confirmación de la condena contable de 20,5 millones"
-    descripcion: "Se difundió la resolución de la Sala de Justicia del Tribunal de Cuentas que desestimó los recursos de Crespo y Morenilla y confirmó la condena contable de 20,5 millones de euros. La fecha del hito es la de su difusión pública; no consta acreditada la fecha exacta de la resolución."
+    descripcion: "Se difundió la resolución de la Sala de Justicia del Tribunal de Cuentas que desestimó los recursos de Crespo y Morenilla y confirmó la condena contable de 20,5 millones de euros. La fecha del hito es la de difusión pública; el original 14/2020 fecha la resolución el 30 de septiembre de 2020 y su cabecera indica situación firme."
     type: "sentencia"
     relevancia: "media"
     urls:
       - "https://www.eldiario.es/comunitat-valenciana/tribunal-cuentas-confirma-acusados-caso-emarsa-deben-devolver-20-millones-euros-saqueados_1_6261737.html"
+      - "https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2020/Sentencia_14_2020_SJ.pdf"
 
   - fecha: "2020-11-16"
     titulo: "Ingreso en prisión de los principales condenados"
@@ -255,6 +269,15 @@ cronologia:
       - "https://www.eldiario.es/comunitat-valenciana/fraude-iva-caso-emarsa-jefes-nombrados-pp-facturero-condenados-cuatro-anos-pagar-3-3-millones_1_6742975.html"
       - "https://www.emshi.gob.es/wp-content/uploads/2025/05/ACTA-1_A_27_02_2025.pdf"
 
+  - fecha: "2021-04-05"
+    titulo: "El Supremo rechaza los incidentes de nulidad de cuatro representaciones"
+    descripcion: "El auto ROJ ATS 4579/2021, en el recurso 3391/2018, acuerda no haber lugar a los incidentes de cuatro representaciones contra la sentencia 482/2020 y les impone las costas. El dispositivo incluye al solicitante anonimizado junto con Instituto de Empresa del Mediterráneo SL, Dos Grados Network SL, Sanitar SL, Área Este SL, CRM Adecua SL y Asociación Club Excelencia de la Comunidad Valenciana, además de las otras tres representaciones. No se asignan nombres reales a sus seudónimos. La noticia nominal sobre Gimeno acredita la admisión previa de su incidente, pero no se ha obtenido un contraste nominal expreso del desenlace de abril. El auto no acredita ejecución íntegra de las penas ni de las responsabilidades económicas."
+    type: "recurso"
+    relevancia: "media"
+    urls:
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=355e266e9b41e097&encode=true&databasematch=TS"
+      - "https://valenciaplaza.com/valenciaplaza/admiten-a-tramite-el-incidente-de-nulidad-a-la-sentencia-de-emarsa-de-un-condenado"
+
   - fecha: "2021-05-03"
     titulo: "Conformidad de José Luis Sena: 4 años de prisión"
     descripcion: "El empresario José Luis Sena, apartado del juicio de 2017 al renunciar su abogado, aceptó en la Audiencia Provincial de Valencia una pena de 4 años de cárcel como cooperador necesario de malversación y falsedad, con las atenuantes de confesión y reparación del daño."
@@ -265,7 +288,7 @@ cronologia:
 
   - fecha: "2021-10-07"
     titulo: "Las administraciones han recuperado 2,1 millones de los 24 millones defraudados"
-    descripcion: "Según la información publicada, EMSHI y EPSAR habían recuperado hasta esa fecha unos 2,1 millones de euros de las indemnizaciones. Las cifras de recuperación de activos se han ido actualizando (unos 3 millones en 2022 y 3,2 millones en febrero de 2023)."
+    descripcion: "Según la información publicada, EMSHI y EPSAR habían recuperado hasta esa fecha unos 2,1 millones de euros de las indemnizaciones. La fuente cotejada es de 7 de octubre de 2021; no se revalidan aquí actualizaciones posteriores de recuperación."
     type: "resumen"
     relevancia: "media"
     urls:
@@ -280,14 +303,6 @@ cronologia:
       - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=4ffaa75310f43166a0a8778d75e36f0d&encode=true&databasematch=TS"
       - "https://www.levante-emv.com/comunitat-valenciana/2023/04/04/supremo-confirma-4-anos-carcel-85605764.html"
 
-  - fecha: "2024-07-04"
-    titulo: "Desestimado el recurso de revisión de EMSHI en la ejecución de la pieza del IVA"
-    descripcion: "El Juzgado de lo Penal nº 5 de Valencia desestimó por auto de 4 de julio de 2024 el recurso de revisión que EMSHI —responsable civil subsidiaria— había interpuesto el 27 de marzo de 2024 contra el decreto de aprobación de la liquidación de intereses de 13 de marzo de 2024 (ejecutoria 934/2023), confirmándolo y ordenando el cumplimiento de la sentencia nº 5/2021. La providencia de 20 de septiembre de 2024 declaró la inadmisión a trámite del incidente de nulidad posterior y declaró firme el auto de 4 de julio de 2024. Es un incidente de ejecución de la responsabilidad civil subsidiaria de EMSHI, distinto del incidente de nulidad de 2020 de Juan Carlos Gimeno en la pieza principal. El acta de la Asamblea de EMSHI de 27 de febrero de 2025 dio cuenta de estas resoluciones."
-    type: "ejecución"
-    relevancia: "media"
-    urls:
-      - "https://www.emshi.gob.es/wp-content/uploads/2025/05/ACTA-1_A_27_02_2025.pdf"
-
   - fecha: "2024-09-30"
     titulo: "Se informa: solo tres de los principales condenados siguen en prisión"
     descripcion: "Según la información publicada, de los condenados con pena de prisión solo permanecían privados de libertad Enrique Crespo, Esteban Cuesta y Enrique Arnal; el resto disfrutaba de tercer grado o régimen abierto. La fecha es la de publicación de la noticia, no la de una resolución judicial."
@@ -301,7 +316,7 @@ cronologia:
 
 - **Ámbito y solapamiento.** Esta ficha se refiere a la **pieza principal** del caso Emarsa (Rollo de Sala 2/2015 de la Sección Primera de la Audiencia Provincial de Valencia) y a sus resoluciones firmes. La macrocausa tuvo **piezas separadas** con resultados propios: la pieza del **fraude del IVA** (Juzgado de lo Penal nº 6 de Valencia, 2021, confirmada en 2023), la **pieza de la lotería** (absolutoria en 2016 para Crespo y sus familiares) y el **enjuiciamiento aparte** de José Luis Sena (conformidad en 2021). La sentencia del Tribunal Supremo de 2020 cierra la pieza principal, pero no toda la macrocausa.
 
-- **Importes (categorías no sumables).** Conviven cifras de naturaleza distinta que **no deben sumarse**: (1) la declarada en la sentencia penal, **23,5 millones de euros** de desvío (la prensa cita también 23,6 o 24 millones, redondeos de la misma cifra); (2) la **indemnización** conjunta y solidaria fijada en la sentencia, que alcanza **23.501.620,35 euros** para Cuesta, Crespo y Arnal y 13.012.754,53 euros para Morenilla, Bernácer, Roca, Ros y Sena, entre otras; (3) la cifra contable del Tribunal de Cuentas, **20.490.817 euros** (perjuicio declarado en vía contable, jurisdicción distinta); y (4) el volumen de **facturación investigado** —unos 40 millones de euros pagados a unas 35 empresas—, que es una estimación de la instrucción y no una cantidad fijada judicialmente.
+- **Importes (categorías no sumables).** Conviven cifras de naturaleza distinta que **no deben sumarse**: (1) la declarada en la sentencia penal, **23,5 millones de euros** de desvío (la prensa cita también 23,6 o 24 millones, redondeos de la misma cifra); (2) la **indemnización** conjunta y solidaria fijada en la sentencia, que alcanza **23.501.620,35 euros** para Cuesta, Crespo y Arnal y 13.012.754,53 euros para Morenilla, Bernácer, Roca, Ros y Sena, entre otras; (3) la cifra contable del Tribunal de Cuentas, **20.490.817,87 euros** (perjuicio declarado en vía contable, jurisdicción distinta); y (4) el volumen de **facturación investigado** —unos 40 millones de euros pagados a unas 35 empresas—, que es una estimación de la instrucción y no una cantidad fijada judicialmente.
 
 - **Penas.** La instancia impuso a Esteban Cuesta **12 años y 6 meses** de prisión (4 años por cohecho continuado en concurso medial con falsedad en documento mercantil, más 8 años y 6 meses por prevaricación, falsedad y malversación de caudales públicos); el Tribunal Supremo **desestimó su recurso y confirmó** esa pena, la más alta. La inhabilitación de 20 años asociada al segundo bloque consta en el fallo de la sentencia del Supremo nº 482/2020 como **inhabilitación especial**; en cambio, la tabla oficial de condenas de junio de 2018 y el antecedente de la STS 183/2023 (p. 3, que reproduce la sentencia de la Audiencia) la consignan como **inhabilitación absoluta**. Se registran ambas fuentes primarias y se limita la calificación «especial» al texto de 2020, sin resolver la discrepancia con una explicación no acreditada. A Enrique Crespo se le impusieron **10 años** y a José Juan Morenilla, **9 años**. El Tribunal Supremo estimó parcialmente los recursos de cinco condenados y rebajó la pena a cuatro de ellos: Eva Marsal a 2 años y 3 meses, Sebastián García «Chanín» a 7 años, Adolfo Polo a **1 año y 4 meses** (no a 1 año) y Mari Paz García a **2 años** de prisión y multa de 10 meses con cuota diaria de 6 euros, a la que además **cambió la calificación** —de cooperadora necesaria en la instancia a **cómplice de malversación**—. Las cifras de prensa que redondean la pena de Cuesta a 12 años no se han seguido.
 
@@ -311,10 +326,22 @@ cronologia:
 
 - **Fechas.** No consta un día exacto del inicio de la causa: la denuncia del PSPV es de **octubre de 2010** (sin día acreditado) y el caso se hizo público con las imputaciones de **finales de 2011**. El hito de la imputación de Crespo se fecha por su difusión pública (25-26 de octubre de 2011), no por la fecha del auto, que no consta. La sentencia del Tribunal Supremo que cierra la pieza principal es de **30 de septiembre de 2020**, pero no supone que hayan terminado la ejecución ni el conjunto de la macrocausa.
 
-- **Estado y firmeza.** La sentencia del Tribunal Supremo nº 482/2020 declaró que contra ella **no cabe recurso**, por lo que las condenas de la pieza principal son firmes. La sentencia del Tribunal Supremo nº 183/2023, de la pieza del IVA, también declara que contra ella no cabe recurso. La ejecución de las responsabilidades está documentada hasta 2024-2025 (ingreso en prisión en noviembre de 2020, tercer grado y libertad de parte de los condenados, subastas de bienes embargados y, en la pieza del IVA, la responsabilidad civil subsidiaria de EMSHI con el auto de 4 de julio de 2024 y la providencia de 20 de septiembre de 2024 recogidos en el acta de EMSHI de 27 de febrero de 2025); no consta documentada una continuación en 2026 y estas actuaciones no alteran la firmeza de las resoluciones.
+- **Estado y firmeza.** La sentencia del Tribunal Supremo nº 482/2020 declaró que contra ella **no cabe recurso**, por lo que las condenas de la pieza principal son firmes. La sentencia del Tribunal Supremo nº 183/2023, de la pieza del IVA, también declara que contra ella no cabe recurso. La crónica de septiembre de 2024 informa sobre grados penitenciarios y permanencia en prisión; no acredita situación en 2026 ni extinción de penas. El acta EMSHI de 2025 y los autos de 2024 allí referidos no se han revalidado por bloqueo de acceso.
 
 - **Cronología y fechas de publicación.** Varios hitos están fechados por su **difusión pública** y así se indica en la descripción (imputación de Crespo, conocida el 26-10-2011; imputación de Morenilla y Bernácer, conocida el 11-04-2012 aunque el auto estuviera fechado el 9 de abril; sentencia del Tribunal de Cuentas, difundida el 11-01-2019; confirmación contable conocida el 01-10-2020; sentencia del Supremo de la pieza del IVA de 15-03-2023, conocida el 04-04-2023; información sobre libertad de condenados publicada el 30-09-2024). No se confunde la fecha de publicación con la del acto: el hito de la pieza del IVA se fecha el 15-03-2023 (fecha de la sentencia) y recoge que se conoció el 4 de abril. El hito del juicio se fecha el **2-05-2017**, día de la vista de apertura en que se acordó segregar a José Luis Sena; el inicio del juicio contra los 24 restantes quedó **anunciado** para el miércoles 3 de mayo a las 9:45 horas, sin que la fuente permita afirmar que las sesiones de fondo se celebraran ya el día 2. El fin de la vista se fecha el 14-12-2017 con prensa del mismo día (Europa Press/El Mundo, Valencia Plaza y el resumen posterior de ABC-EFE de 10-10-2020), no con la información previa de sesiones anunciadas.
 
-- **Documentos.** Se han verificado cuatro documentos: la sentencia del Tribunal Supremo nº 482/2020 (**640 páginas**; ROJ STS 3893/2020, ECLI:ES:TS:2020:3893, Id Cendoj 28079120012020100642, fecha 30-09-2020); la **tabla de condenas** (9 páginas) publicada por el CGPJ/TSJCV, que detalla los 24 condenados con sus delitos, penas y responsabilidades civiles; la sentencia del Tribunal Supremo nº 183/2023, de la pieza del IVA (**20 páginas**; ROJ STS 1218/2023, ECLI:ES:TS:2023:1218, Id Cendoj 28079120012023100172, recurso 5838/2021, fecha 15-03-2023); y el acta de la Asamblea de EMSHI de 27 de febrero de 2025 (**240 páginas**), que da cuenta de la ejecución de la responsabilidad civil subsidiaria de EMSHI. El PDF de la tabla **no lleva fecha propia** (encabeza «TOTAL PENA DE PRISIÓN...»); su fecha de **junio de 2018** se respalda en la publicación oficial del CGPJ/TSJCV del **22 de junio de 2018**, que enlaza la tabla, y no solo en los metadatos de la URL.
+- **Documentos.** Se han revalidado los originales del Supremo de 2020 y 2023, la tabla oficial de instancia y los dos originales contables. Sus descargas completas no equivalen a lectura íntegra: el alcance actual se detalla debajo. El acta EMSHI de 2025 se retira de documentos al devolver HTTP403. La fecha de la tabla es la publicación oficial de 22 de junio de 2018, no una fecha propia del archivo.
 
-- **Límites de la revisión.** No se ha recuperado el PDF de la sentencia de la Audiencia Provincial (nº 349/2018), por lo que los datos de instancia provienen de la sentencia del Tribunal Supremo (que reproduce el fallo), de la tabla oficial de condenas y de prensa. No consta acreditada la fecha exacta de la resolución del Tribunal de Cuentas que confirmó la condena contable, ni la firmeza de la sentencia absolutoria de la pieza de la lotería. El fallo de la sentencia del Tribunal Supremo nº 482/2020 recoge para Esteban Cuesta «20 años de inhabilitación especial» en el bloque de prevaricación, falsedad y malversación, mientras que la tabla oficial de condenas de junio de 2018 y el antecedente de la STS 183/2023 (p. 3) recogen «20 años de inhabilitación absoluta»; se registran ambas fuentes primarias y no se resuelve la discrepancia con una explicación no acreditada. En la cabecera del Supremo constan los AATS 12817/2020 y 4579/2021; no se ha localizado la resolución que puso fin al incidente de nulidad de Juan Carlos Gimeno, admitido a trámite en noviembre de 2020, por lo que no se presume su resultado y el alcance de la pena de Gimeno queda como laguna. La información periodística de 2024 sobre la pieza del IVA —que cifraba la condena en 3 años para Crespo y 2 para Roca— no queda explicada por el texto original de la sentencia del Tribunal Supremo de 15 de marzo de 2023, que acredita cuatro delitos y cuatro años de prisión para cada condenado; no consta ninguna modificación ni acumulación de condena posterior y la razón del dato posterior queda sin aclarar, por lo que la discrepancia se mantiene como laguna. La información oficial más reciente es el acta de la Asamblea de EMSHI de 27 de febrero de 2025, referida a la ejecución de 2024 de la responsabilidad civil subsidiaria de EMSHI; no constan resoluciones firmes nuevas de 2025 o 2026 sobre la pieza principal ni sobre el resto de la macrocausa, y la ausencia de noticias posteriores no permite dar el caso por cerrado.
+- **Límites de la revisión.** No se ha recuperado el PDF de la sentencia de la Audiencia Provincial (nº 349/2018), por lo que los datos de instancia provienen de la sentencia del Tribunal Supremo (que reproduce el fallo), de la tabla oficial de condenas y de prensa. Se ha comprobado ahora que la confirmación contable es la sentencia 14/2020 de 30 de septiembre. No se ha comprobado la firmeza de la absolución de la pieza de lotería. El fallo de la sentencia del Tribunal Supremo nº 482/2020 recoge para Esteban Cuesta «20 años de inhabilitación especial» en el bloque de prevaricación, falsedad y malversación, mientras que la tabla oficial de condenas de junio de 2018 y el antecedente de la STS 183/2023 (p. 3) recogen «20 años de inhabilitación absoluta»; se registran ambas fuentes primarias y no se resuelve la discrepancia con una explicación no acreditada. Se ha recuperado el auto de 5 de abril de 2021, ROJ ATS 4579/2021, que rechaza los incidentes de nulidad de cuatro representaciones contra la sentencia 482/2020. Se ha leído íntegro (6 páginas). No se asignan los seudónimos judiciales a nombres reales: queda pendiente el contraste nominal expreso con el incidente de Gimeno cuya admisión recogió la prensa, así como cualquier actuación posterior. La resolución de nulidad no equivale a cumplimiento o liquidación de las condenas. La información periodística de 2024 sobre la pieza del IVA —que cifraba la condena en 3 años para Crespo y 2 para Roca— no queda explicada por el texto original de la sentencia del Tribunal Supremo de 15 de marzo de 2023, que acredita cuatro delitos y cuatro años de prisión para cada condenado; no consta ninguna modificación ni acumulación de condena posterior y la razón del dato posterior queda sin aclarar, por lo que la discrepancia se mantiene como laguna. La referencia al acta EMSHI de 2025 y a sus autos de ejecución de 2024 no se ha podido revalidar por HTTP403. Se conserva como antecedente pendiente, sin afirmar lectura actual o estado de ejecución de 2026.
+
+## Lectura y comprobaciones de esta revisión
+
+La tabla oficial nominal (9 páginas) se ha leído completa en extracción textual: permite verificar las identidades y penas de instancia sin traducir seudónimos. La nota CGPJ de 22-06-2018 se ha leído en su cuerpo relevante y confirma 24 condenados y una partícipe lucrativa. Del Supremo de 2020 (640 páginas) se han leído cabecera y fragmentos finales: fallo de casación en la 632 y segunda sentencia, especialmente 638–640; una salida conjunta de 631–640 quedó truncada, por lo que no se declara lectura completa de esas páginas ni de los fundamentos. Los cambios nominales de las cuatro penas se contrastan con el cuerpo de Valencia Plaza de 09-10-2020. La cifra de 12 años abreviada por algunas crónicas no sustituye a los 12 años y seis meses que suman los dos bloques de Cuesta en la tabla oficial.
+
+Del Supremo de 2023 (20 páginas) se han leído cabecera, antecedentes iniciales y tramo final de razonamiento y fallo (18–20), no todos los fundamentos: desestima por inadmisibilidad sin entrar en el fondo. El documento alterna referencias al Juzgado de lo Penal 6 y 5 y a la fecha de apelación 30/31 de julio de 2021; se mantiene la identificación de su encabezamiento, sin resolver esos desajustes sin los originales de instancia y apelación.
+
+Los enlaces iniciales del Tribunal de Cuentas devolvieron HTML de su buscador, aunque con HTTP200. Siguiendo los enlaces de ese HTML se obtuvieron los PDF originales: de 18/2018 (54 páginas) se leyeron cabecera y tramo final 52–54; de 14/2020 (30 páginas), cabecera, síntesis y final 29–30. El primero fija alcance de 20.490.817,87 euros, obligación directa y solidaria de tres responsables y límite conjunto de 12.577.593,06 euros para otros dos. Esas obligaciones no se suman ni se vuelven a agregar a las penales. Ambos pronunciamientos exigen coordinación de ejecución para evitar duplicidades. La fecha de resolución no se deduce de la exportación del archivo en enero de 2019.
+
+Se ha leído la crónica penitenciaria de elDiario.es publicada el 30-09-2024 y actualizada el 01-10-2024. Tercer grado, régimen abierto o control telemático no equivalen a pena extinguida; la ficha no describe a esas personas como libres de condena ni presume su situación en 2026. Las descargas de otros antecedentes no se declaran íntegramente leídas. Quedan pendientes el contraste nominal del incidente de Gimeno con el auto recuperado, los originales de Sena y lotería y la liquidación actual de responsabilidades penales, civiles y contables.
+
+El auto ROJ ATS 4579/2021 se ha descargado del CENDOJ por GET con HTTP200 y formato PDF verificado; se han leído completas sus seis páginas, incluidos antecedentes, fundamentos y dispositivo. La fecha judicial es el 5 de abril de 2021, no la de exportación del archivo. El rechazo de cuatro representaciones se describe con el alcance literal del documento y sin inferir identidades nominales.
