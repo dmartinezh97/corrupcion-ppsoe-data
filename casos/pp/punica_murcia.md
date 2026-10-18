@@ -50,7 +50,7 @@ implicados:
     fraude, siete por prevaricación y siete por cohecho; multa de doce meses a diez euros diarios.
 - nombre: María Dolores Martínez Robles
   cargo: Exdirectora del Instituto de Turismo de Murcia
-  rol: Condenado en sentencia 23/2025; firmeza y ejecución posteriores no documentadas. Un año de prisión por fraude
+  rol: Condenada en sentencia 23/2025; firmeza y ejecución posteriores no documentadas. Un año de prisión por fraude
     y tres por cohecho pasivo; inhabilitaciones para empleo o cargo público de seis años por fraude, siete por prevaricación
     y siete por cohecho; multa de doce meses a diez euros diarios.
 - nombre: Alejandro de Pedro Llorca
@@ -73,7 +73,7 @@ implicados:
     e inhabilitación para contratar y recibir ayudas públicas de dos años. Absuelto de prevaricación.
 - nombre: Sara Gargallo Rico
   cargo: Empleada del entorno empresarial EICO/MADIVA
-  rol: Condenado en sentencia 23/2025; firmeza y ejecución posteriores no documentadas. Seis meses de prisión como
+  rol: Condenada en sentencia 23/2025; firmeza y ejecución posteriores no documentadas. Seis meses de prisión como
     cómplice de fraude e inhabilitación para contratar y recibir ayudas públicas de un año. Absuelta de prevaricación.
 - nombre: Francisco Javier Bueno González
   cargo: Empleado del entorno empresarial EICO/MADIVA
@@ -125,7 +125,7 @@ cronologia:
   descripcion: 'La sentencia de 2025 recoge el auto instructor de esta fecha: la contratación del Instituto de Turismo
     continúa; los hechos de otras instituciones y personas quedan excluidos con alcance individual. La información
     del día siguiente incluye a Sánchez y David Conesa entre los sobreseídos.'
-  type: investigacion
+  type: investigación
   relevancia: alta
   urls:
   - https://www.losgenoveses.net/Caso%20Punica/03.%20PS3%20Murcia/Punica.%20PS3%20Murcia.%20Sentencia%20condenatoria%20Consejero%20de%20Industria,%20Alex%20de%20Pedro%20y%20otros.%2001.09.25..pdf
