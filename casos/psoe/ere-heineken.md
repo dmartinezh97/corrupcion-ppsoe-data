@@ -1,94 +1,101 @@
 ---
-nombre: "ERE/Heineken España"
-partido: "PSOE"
-completado: true
+nombre: ERE/Heineken España
+partido: PSOE
+completado: false
 año: 2017
-fechaInicio: "2004-01-01"
-fechaFin: "2022-12-12"
-estado: "archivado"
-descripcion: |
-  La pieza separada del caso ERE por las ayudas a Heineken España investigó la concesión irregular de 16.484.159,60 euros otorgados por la Junta de Andalucía a Heineken España S.A. entre 2004 y 2008. Estas ayudas, destinadas supuestamente a un ERE que afectó a 223 trabajadores, formaban parte del macrocaso de corrupción de los ERE andaluces, considerado el mayor caso de corrupción política de España por su cuantía y número de implicados.
+estado: Sobreseimiento provisional
+descripcion: 'La pieza separada de los ERE por las ayudas a Heineken España examinó 16.484.159,60 euros concedidos
+  por la Junta de Andalucía entre 2004 y 2008. Figuraban como investigados el presidente y el responsable de Recursos
+  Humanos de la empresa, por posibles delitos de prevaricación, malversación y falsedad documental, según la comunicación
+  oficial del CGPJ. No se ha contrastado su identidad nominal en los documentos de este procedimiento; no basta
+  identificar a quienes ocupaban cargos empresariales en otra fecha.
 
-  La investigación se centró en presuntos delitos de prevaricación administrativa, malversación de caudales públicos y falsedad documental. El presidente de Heineken España, Richard Weissend, y la directora de Recursos Humanos, Amalia Rodríguez Dacal, fueron investigados como responsables de la empresa beneficiaria. El juez reconoció la existencia de "indicios solventes y racionales de criminalidad" que apuntaban a irregularidades en la concesión y gestión de estas ayudas públicas.
 
-  En octubre de 2022, la Audiencia Provincial de Sevilla estimó un recurso de apelación de los investigados, determinando que el plazo de instrucción se había ampliado de forma extemporánea mediante auto del 16 de octubre de 2017. Como consecuencia, el Juzgado de Instrucción número 6 de Sevilla acordó el sobreseimiento provisional y archivo de la causa en diciembre de 2022, dejando abierta la posibilidad de que la Junta de Andalucía ejercitara acciones civiles para reclamar los 16,4 millones de euros.
+  La Sección Séptima de la Audiencia Provincial de Sevilla estimó su recurso mediante auto de 17 de octubre de 2022.
+  Consideró que la instrucción había concluido el 6 de octubre de 2017 y que la declaración de complejidad y las
+  prórrogas posteriores se habían acordado fuera de plazo. El Juzgado de Instrucción número 6 dictó el sobreseimiento
+  provisional el 1 de diciembre de 2022, notificado el día 12, al quedar sin validez las diligencias posteriores
+  afectadas, incluidas las declaraciones como investigados acordadas en agosto de 2018.
 
-resumen: "Archivo por defecto procesal de la investigación por ayudas irregulares de 16,4 millones a Heineken"
-coste: 16399999
-lugar: "Sevilla, Andalucía"
+
+  El archivo es provisional, no una sentencia absolutoria ni un archivo definitivo. El instructor mantuvo su apreciación
+  de indicios, pero explicó que no podían valorarse para continuar el procedimiento en esas condiciones; esa valoración
+  no constituye una condena ni acredita culpabilidad. Dejó a salvo posibles acciones civiles o administrativas de
+  la Junta. No se han recuperado los autos originales ni se acredita su firmeza, un recurso posterior, reapertura
+  o resultado de esas posibles reclamaciones a 17 de octubre de 2026. Los 16,48 millones son el volumen de ayudas
+  y la cuantía que el instructor vinculaba a una eventual reclamación, no una indemnización ya concedida o un reintegro
+  acreditado.'
+resumen: Sobreseimiento provisional de la pieza por ayudas a Heineken al invalidarse diligencias acordadas fuera
+  del plazo de instrucción; evolución posterior no acreditada.
+lugar: Sevilla, Andalucía
 tribunal:
-  - "Juzgado de Instrucción número 6 de Sevilla"
-  - "Sección Séptima de la Audiencia Provincial de Sevilla"
-numeroSentencia: ""
+- Juzgado de Instrucción número 6 de Sevilla
+- Audiencia Provincial de Sevilla, Sección Séptima
 implicados:
-  - nombre: "Richard Weissend"
-    cargo: "Presidente de Heineken España"
-    rol: "Investigado por prevaricación, malversación y falsedad documental"
-
-  - nombre: "Amalia Rodríguez Dacal"
-    cargo: "Directora de Recursos Humanos de Heineken España"
-    rol: "Investigada por prevaricación, malversación y falsedad documental"
-
+- nombre: Presidente de Heineken España investigado en esta pieza
+  cargo: Presidente de la empresa según la nota del CGPJ
+  rol: Investigado; sobreseimiento provisional acordado en diciembre de 2022 por los efectos de la superación del
+    plazo de instrucción. Identidad nominal pendiente de contraste.
+- nombre: Responsable de Recursos Humanos investigado en esta pieza
+  cargo: Responsable de Recursos Humanos según la nota del CGPJ
+  rol: Investigado; mismo sobreseimiento provisional. No se reconstruye su identidad a partir de cargos de la empresa
+    en otras fechas.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "falsedad documental"
-  - "ERE"
-
-impactoSocial: "Esta pieza del caso ERE generó controversia al archivarse por errores procesales pese a reconocerse indicios de criminalidad, evidenciando deficiencias en la gestión judicial de casos de corrupción. Forma parte del macrocaso ERE que liquidó la hegemonía del PSOE en Andalucía tras décadas de gobierno autonómico."
-
-documentos: null
-
+- ERE
+- ayudas públicas
+- plazos de instrucción
+- sobreseimiento provisional
+impactoSocial: La resolución pone de manifiesto los efectos procesales de las prórrogas de instrucción extemporáneas.
+  Debe distinguirse la apreciación de indicios del instructor de una condena y el posible ejercicio de acciones
+  de la existencia de una indemnización concedida.
+documentos: []
 cronologia:
-  - fecha: "2004-01-01"
-    titulo: "Inicio del período de concesión de ayudas a Heineken"
-    descripcion: "La Junta de Andalucía, gobernada por el PSOE, comienza a conceder ayudas públicas a Heineken España S.A. destinadas supuestamente a un ERE que afectaría a 223 trabajadores. Estas ayudas se enmarcan en el sistema irregular de concesión de fondos públicos del caso ERE andaluz."
-    type: "resumen"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-juez-archiva-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-16-millones-a-Heineken-tras-concluir-la-Audiencia-que-se-habian-superado-los-plazos-de-instruccion"
-
-  - fecha: "2008-12-31"
-    titulo: "Fin del período de concesión de ayudas"
-    descripcion: "Finaliza el período durante el cual la Junta de Andalucía concedió ayudas públicas a Heineken España, totalizando 16.484.159,60 euros. El caso forma parte de un fraude sistemático en el que se desviaron al menos 679 millones de euros de dinero público para beneficiar a empresas, trabajadores y organizaciones afines al PSOE."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/andalucia/pieza-separada-caso-ere-ayudas-heineken-archiva-superarse-plazo-legal_1_9786835.html"
-
-  - fecha: "2017-04-16"
-    titulo: "Apertura de la pieza separada"
-    descripcion: "Se abre oficialmente la investigación judicial de la pieza separada del caso ERE centrada en las ayudas concedidas a Heineken España. El plazo inicial de instrucción es de seis meses, que debía expirar en octubre de 2017."
-    type: "investigación"
-    urls:
-      - "https://theobjective.com/espana/tribunales/2022-12-12/archivada-pieza-caso-ere/"
-
-  - fecha: "2017-10-16"
-    titulo: "Ampliación extemporánea del plazo de instrucción"
-    descripcion: "El Juzgado de Instrucción número 6 de Sevilla amplía el plazo de investigación declarando la complejidad de la causa, apenas diez días después de expirar el plazo inicial de seis meses. Este auto será posteriormente considerado extemporáneo por la Audiencia Provincial, invalidando toda la investigación posterior."
-    type: "investigación"
-    urls:
-      - "https://www.sevillaactualidad.com/andalucia/505174-archivada-la-pieza-separada-sobre-heineken-de-los-ere-por-superar-los-plazos-de-instruccion/"
-
-  - fecha: "2017-11-01"
-    titulo: "Comparecencia de investigados de Heineken"
-    descripcion: "Richard Weissend, presidente de Heineken España, y Amalia Rodríguez Dacal, directora de Recursos Humanos, comparecen ante el juez en calidad de investigados por presuntos delitos de prevaricación administrativa, malversación de caudales públicos y falsedad documental."
-    type: "declaración"
-    urls:
-      - "https://www.enandaluz.es/andalucia/politica/24756-archivada-la-pieza-separada-de-heineken-de-los-ere-por-superar-los-plazos-de-instruccion/"
-
-  - fecha: "2022-10-01"
-    titulo: "Audiencia Provincial estima recurso de los investigados"
-    descripcion: "La Sección Séptima de la Audiencia Provincial de Sevilla estima el recurso de apelación presentado por la defensa de los dos investigados de Heineken, considerando que el plazo de instrucción se habría ampliado de forma extemporánea. La resolución determina que toda la investigación policial y judicial posterior al plazo inicial queda inservible."
-    type: "sentencia"
-    urls:
-      - "https://okdiario.com/andalucia/archivada-otra-pieza-del-caso-ere-ayudas-irregulares-16-millones-superarse-plazo-legal-10139067"
-
-  - fecha: "2022-12-12"
-    titulo: "Archivo definitivo de la causa"
-    descripcion: "El magistrado de refuerzo del Juzgado de Instrucción número 6 de Sevilla acuerda el sobreseimiento provisional y archivo de la pieza separada. En su resolución, el juez reconoce la existencia de 'indicios solventes y racionales de criminalidad', pero concluye que debe archivarse por el defecto procesal. Deja abierta la posibilidad de que la Junta de Andalucía ejercite acciones civiles para reclamar los 16,4 millones de euros."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-juez-archiva-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-16-millones-a-Heineken-tras-concluir-la-Audiencia-que-se-habian-superado-los-plazos-de-instruccion"
-      - "https://theobjective.com/espana/tribunales/2022-12-12/archivada-pieza-caso-ere/"
-
+- fecha: '2017-10-06'
+  titulo: Fecha límite de instrucción fijada posteriormente por la Audiencia
+  descripcion: El auto de apelación de 2022 considera conclusa la instrucción en esta fecha. Se dejan sin efecto
+    las diligencias posteriores afectadas, sin excluir las acordadas antes y practicadas después por causa justificada.
+  type: resumen
+  urls:
+  - https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-juez-archiva-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-16-millones-a-Heineken-tras-concluir-la-Audiencia-que-se-habian-superado-los-plazos-de-instruccion
+- fecha: '2017-10-16'
+  titulo: Declaración de complejidad fuera de plazo
+  descripcion: Según la nota oficial sobre el archivo, la complejidad se declaró diez días después del vencimiento
+    inicial; la Audiencia consideró extemporánea esa ampliación.
+  type: investigación
+  urls:
+  - https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-juez-archiva-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-16-millones-a-Heineken-tras-concluir-la-Audiencia-que-se-habian-superado-los-plazos-de-instruccion
+- fecha: '2018-08-04'
+  titulo: Se acuerda citar a dos personas como investigadas
+  descripcion: El auto que acordó las declaraciones figura entre las diligencias posteriores que el juez consideró
+    inválidas al aplicar la resolución de la Audiencia. No es la fecha de comparecencia efectiva.
+  type: investigación
+  urls:
+  - https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-juez-archiva-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-16-millones-a-Heineken-tras-concluir-la-Audiencia-que-se-habian-superado-los-plazos-de-instruccion
+- fecha: '2022-10-17'
+  titulo: La Audiencia estima la apelación sobre los plazos
+  descripcion: La Sección Séptima revoca la prórroga de 27 de julio de 2021 y deja sin efecto las resoluciones posteriores
+    al plazo inicial afectadas por la extemporaneidad.
+  type: recurso
+  urls:
+  - https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-juez-archiva-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-16-millones-a-Heineken-tras-concluir-la-Audiencia-que-se-habian-superado-los-plazos-de-instruccion
+- fecha: '2022-12-01'
+  titulo: Auto de sobreseimiento provisional
+  descripcion: El instructor acuerda el archivo provisional tras aplicar la decisión de la Audiencia, sin perjuicio
+    de posibles acciones civiles o administrativas de la Junta. No es una condena al pago de las ayudas.
+  type: resumen
+  urls:
+  - https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-juez-archiva-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-16-millones-a-Heineken-tras-concluir-la-Audiencia-que-se-habian-superado-los-plazos-de-instruccion
+- fecha: '2022-12-12'
+  titulo: Se notifica y difunde el archivo
+  descripcion: El CGPJ informa de la notificación a las partes del auto de 1 de diciembre. La fecha de publicación
+    no se confunde con la del acto judicial.
+  type: resumen
+  urls:
+  - https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-juez-archiva-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-16-millones-a-Heineken-tras-concluir-la-Audiencia-que-se-habian-superado-los-plazos-de-instruccion
 ---
+
+La [comunicación oficial del CGPJ](https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-juez-archiva-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-16-millones-a-Heineken-tras-concluir-la-Audiencia-que-se-habian-superado-los-plazos-de-instruccion), publicada el 12 de diciembre de 2022, identifica el auto de archivo como una resolución de 1 de diciembre y el de apelación como un auto de 17 de octubre. Las ayudas investigadas se sitúan entre 2004 y 2008, sin que ello permita inventar un día inicial o final de concesión. Tampoco permite deducir por simple resta de seis meses el día exacto en que se abrió esta pieza.
+
+El archivo responde a la invalidez procesal de las diligencias afectadas por las prórrogas extemporáneas. No transforma los indicios en hechos probados ni equivale a un sobreseimiento libre. La nota oficial deja a salvo las diligencias acordadas antes del vencimiento y practicadas después por razones justificadas, por lo que no se afirma una nulidad indiscriminada de todo lo actuado.
+
+[ElDiario.es](https://www.eldiario.es/andalucia/pieza-separada-caso-ere-ayudas-heineken-archiva-superarse-plazo-legal_1_9786835.html) y [The Objective](https://theobjective.com/espana/tribunales/2022-12-12/archivada-pieza-caso-ere/) reproducen el fundamento procesal y la reserva de acciones, pero no acreditan una indemnización ya concedida. El campo de coste no recoge por ello los 16.484.159,60 euros de ayudas como daño firme o recuperado. No se ha podido verificar en los autos originales la identidad de los dos investigados, su firmeza ni las actuaciones posteriores. Las resoluciones del Constitucional sobre otras piezas de los ERE no se trasladan a esta sin una resolución específica.
