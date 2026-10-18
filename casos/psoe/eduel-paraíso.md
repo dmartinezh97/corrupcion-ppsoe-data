@@ -94,7 +94,7 @@ cronologia:
 - fecha: '2018-07-06'
   titulo: Información sobre el archivo de Empleo y la pieza residual
   descripcion: 'La información de Libertad Digital distingue el archivo de la pieza principal relativa a responsables
-    de Empleo y la causa de El Paraíso: señala archivo en lo relativo a fraude de subvenciones y continuación por
+    de Empleo y la causa de El Paraíso: considera necesario archivar lo relativo al fraude de subvenciones y menciona continuación por
     presunta falsedad documental de un sobrino. No permite afirmar cierre íntegro de todas las piezas ni firmeza.'
   type: seguimiento
   relevancia: alta
