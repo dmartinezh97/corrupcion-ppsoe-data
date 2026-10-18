@@ -28,31 +28,40 @@ tags:
 - prevaricación
 - contratación municipal
 - nepotismo
-documentos: []
+documentos:
+- fecha: '2019-06-25'
+  titulo: 'SAP Cáceres 178/2019: condena por prevaricación y absoluciones (ECLI:ES:APCC:2019:599)'
+  filetype: pdf
+  paginas: 17
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=22c1a824ad5f28f2&encode=true&databasematch=AN
+- fecha: '2021-10-04'
+  titulo: 'STS 741/2021: desestimación de la casación (ECLI:ES:TS:2021:3675)'
+  filetype: pdf
+  paginas: 9
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0ae54662629b8e85&encode=true&databasematch=AN
 cronologia:
 - fecha: '2014-09-22'
   titulo: Incoación de las diligencias
-  descripcion: La transcripción de los antecedentes de la sentencia del Supremo sitúa en esta fecha el auto de incoación.
-    El procedimiento de origen fue el abreviado 1050/2014 del Juzgado de Instrucción número 3 de Plasencia.
+  descripcion: Los antecedentes de la sentencia del Supremo sitúan en esta fecha el auto de incoación. El procedimiento
+    de origen fue el abreviado 1050/2014 del Juzgado de Instrucción número 3 de Plasencia.
   type: investigación
   urls:
-  - https://vlex.es/vid/877360821
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0ae54662629b8e85&encode=true&databasematch=AN
 - fecha: '2019-06-25'
   titulo: Condena de la Audiencia Provincial de Cáceres
   descripcion: Sentencia 178/2019 de la Sección Segunda, rollo 9/2019. Condena por prevaricación continuada y absolución
     por malversación y negociaciones prohibidas; los otros dos acusados fueron absueltos de prevaricación y malversación.
-    El fallo está reproducido en los antecedentes de la sentencia del Supremo.
+    El fallo original y su reproducción en los antecedentes del Supremo coinciden.
   type: sentencia
   urls:
-  - https://vlex.es/vid/877360821
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=22c1a824ad5f28f2&encode=true&databasematch=AN
 - fecha: '2021-10-04'
   titulo: Sentencia del Tribunal Supremo
   descripcion: La STS 741/2021 resuelve el recurso de casación 4128/2019. La nota oficial posterior confirma su
     desestimación y el mantenimiento de la condena.
   type: sentencia
   urls:
-  - https://vlex.es/vid/877360821
-  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-de-ocho-anos-y-medio-de-inhabilitacion-al-exalcalde-de-un-pueblo-de-Caceres-por-prevaricacion
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0ae54662629b8e85&encode=true&databasematch=AN
 - fecha: '2021-10-18'
   titulo: El CGPJ comunica la confirmación de la condena
   descripcion: Fecha de publicación de la nota judicial, distinta de la fecha de la sentencia. Explica la condena
@@ -71,4 +80,4 @@ La noticia de Radio Interior citada anteriormente para la apertura de diligencia
 
 La nota judicial identifica a los otros dos acusados por sus cargos: la alguacil y el asesor que posteriormente fue secretario municipal. Ambos resultaron absueltos. Se retiran sus nombres de la lista hasta obtener una fuente nominal contrastada: los pseudónimos de las transcripciones judiciales no permiten establecer identidades.
 
-Revisión hasta el 17 de octubre de 2026: se ha leído la nota oficial completa y los pasajes de encabezamiento, antecedentes, fallo de instancia reproducido y primer fundamento de la transcripción del Supremo. No se ha obtenido un PDF judicial: el enlace oficial de la Audiencia y el destino del enlace del Supremo devolvieron 403. Quedan pendientes los originales, el contraste nominal de los absueltos y la ejecución de la inhabilitación. No se fija fecha de firmeza ni de extinción de la pena, ni se presenta la falta de noticias posteriores como prueba de cierre de la ejecución.
+Revisión hasta el 17 de octubre de 2026: se han recuperado los originales oficiales de [instancia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=22c1a824ad5f28f2&encode=true&databasematch=AN) y [casación](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0ae54662629b8e85&encode=true&databasematch=AN). Se leyeron las páginas 1–3 y 9 del Supremo y 1 y 16–17 de la Audiencia, no los fundamentos íntegros. El Supremo desestima el recurso y advierte que no cabe recurso alguno; ello no documenta por sí solo la ejecución o extinción de la inhabilitación. Permanecen pendientes el contraste nominal de los otros dos absueltos y las actuaciones posteriores de ejecución.
