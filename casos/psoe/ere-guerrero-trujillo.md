@@ -1,138 +1,139 @@
 ---
-nombre: "ERE/Guerrero y Trujillo"
-partido: "PSOE"
-completado: true
-año: 2011
-fechaInicio: "2003-01-01"
-fechaFin: "2024-02-20"
-estado: "cerrado con condenas"
-descripcion: |
-  Pieza separada del macrocaso de los ERE de Andalucía que investiga la concesión fraudulenta de 1,47 millones de euros en subvenciones públicas a empresas controladas por Juan Francisco Trujillo, chófer del exdirector general de Trabajo Francisco Javier Guerrero. La trama se desarrolló entre 2003 y 2008, cuando Guerrero ostentaba altos cargos en la Consejería de Empleo de la Junta de Andalucía gobernada por el PSOE. Las subvenciones se concedieron sin tramitación administrativa alguna a tres sociedades mercantiles: Lógica Estratégica Empresarial, Iniciativas Turísticas Sierra Morena —propiedad de Trujillo— y Ave Nueva S.L., empresa vinculada a un tercero, Isidoro Ruz Espigares, que presentó un proyecto ficticio de granja avícola.
+nombre: ERE/Guerrero y Trujillo
+partido: PSOE
+completado: false
+año: 2003
+fechaInicio: '2003-10-10'
+estado: condenas de la Audiencia de Sevilla de 2024; recursos y ejecución pendientes de verificar
+descripcion: 'Pieza separada de los ERE sobre tres ayudas de 450.000 euros concedidas a sociedades relacionadas
+  con Juan Francisco Trujillo, conductor del entonces director general de Trabajo Francisco Javier Guerrero, y sobre
+  125.028,01 euros de pólizas suscritas fraudulentamente a nombre de la madre del chófer. La sentencia considera
+  probado que los fondos se destinaron a fines particulares, incluidos inmuebles y gastos de Guerrero, entre ellos
+  suministro de cocaína. No se afirma que toda la cuantía fuera gastada en droga.
 
-  El caso reveló que Guerrero ordenó a su chófer destinar los fondos al consumo personal de cocaína —hasta cinco gramos diarios cada uno— y al pago de regalos, fiestas en discotecas y restaurantes de lujo. Trujillo actuaba como "caja pagadora" de su superior, entregándole entre 40.000 y 60.000 euros en efectivo además de sufragar sus gastos de ocio. El propio Trujillo llegó a gastar 25.000 euros mensuales en estupefacientes y en un momento dado propuso a su camello habitual desplazarse a Sudamérica a adquirir cocaína directamente con dinero público, oferta que el traficante rechazó. Los fondos procedían de la partida presupuestaria 31L, conocida internamente como "fondo de reptiles", gestionada de forma discrecional y sin controles por Guerrero.
 
-  La instrucción de la pieza separada corrió a cargo de la jueza Mercedes Alaya y posteriormente de María Núñez Bolaños, quien en 2017 ordenó la apertura de juicio oral. El proceso sufrió sucesivos retrasos —cuatro jueces cambiaron de destino o se jubilaron antes del juicio— y Trujillo llegó a estar en paradero desconocido en 2022 semanas antes de la vista. El juicio oral se celebró finalmente en enero de 2024. La Audiencia Provincial de Sevilla condenó a Trujillo en febrero de 2024 a 4 años y 9 meses de prisión por prevaricación y malversación, siendo absuelto del delito de tráfico de influencias. Francisco Javier Guerrero, principal responsable de la trama, había fallecido el 11 de octubre de 2020 mientras aguardaba juicio por esta pieza, tras haber sido condenado a 7 años y 11 meses en la pieza política principal.
+  La Sección Primera de la Audiencia Provincial de Sevilla condenó el 20 de febrero de 2024 a Trujillo a cuatro
+  años y nueve meses de prisión por los dos bloques de hechos, con delitos de prevaricación, malversación y falsedad
+  e inhabilitaciones y multa diferenciadas. Lo absolvió de tráfico de influencias. También condenó a Isidoro Ruz
+  Espigares y al exdirectivo de Vitalia Antonio José Albarracín; la esposa de Trujillo responde como partícipe a
+  título lucrativo, sin condena penal. Guerrero había fallecido en octubre de 2020 y no fue condenado en este juicio.
 
-resumen: "Chófer de alto cargo del PSOE condenado por malversar 1,47 millones en cocaína y fiestas"
-coste: 1475028
-lugar: "Sevilla, Andalucía"
+
+  La nota oficial cifra el perjuicio de las tres ayudas en 1.350.000 euros y el de las pólizas en 125.028,01 euros,
+  con responsabilidades solidarias que no se duplican. La sentencia era recurrible en casación. No se ha obtenido
+  su texto íntegro ni una resolución posterior individual sobre el recurso, firmeza o ejecución. Tampoco se trasladan
+  automáticamente a esta pieza las decisiones constitucionales sobre el procedimiento específico de los ERE.'
+resumen: 'Condenas de 2024 por tres ayudas y pólizas desviadas a fines particulares: Trujillo, cuatro años y nueve
+  meses; Ruz y Albarracín, penas individuales. Guerrero falleció antes del juicio. Casación, firmeza y ejecución
+  no verificadas.'
+coste: 1475028.01
+lugar: Sevilla, Andalucía
 tribunal:
-  - "Audiencia Provincial de Sevilla - Sección Primera"
-numeroSentencia: ""
+- Juzgado de Instrucción nº 6 de Sevilla
+- Audiencia Provincial de Sevilla, Sección Primera
 implicados:
-  - nombre: "Francisco Javier Guerrero Benítez"
-    cargo: "Director General de Trabajo y Seguridad Social de la Junta de Andalucía (1999-2008)"
-    rol: "Artífice de la trama; falleció en 2020 con juicio pendiente"
-
-  - nombre: "Juan Francisco Trujillo"
-    cargo: "Chófer del Director General de Trabajo de la Junta de Andalucía"
-    rol: "Condenado a 4 años y 9 meses por prevaricación y malversación"
-
-  - nombre: "Isidoro Ruz Espigares"
-    cargo: "Administrador de Ave Nueva S.L."
-    rol: "Acusado de recibir 450.000 euros mediante proyecto ficticio de granja avícola"
-
+- nombre: Francisco Javier Guerrero Benítez
+  cargo: Exdirector general de Trabajo y Seguridad Social de la Junta de Andalucía
+  rol: Inicialmente investigado; falleció el 11 de octubre de 2020 antes del juicio de esta pieza. Su intervención
+    figura en el relato de hechos de la sentencia contra los demás, sin condena penal póstuma.
+- nombre: Juan Francisco Trujillo Blanco
+  cargo: Conductor de Guerrero y administrador de sociedades beneficiarias
+  rol: Condenado en febrero de 2024 a cuatro años y nueve meses de prisión por los bloques de ayudas y pólizas,
+    más multa e inhabilitaciones desglosadas en el cuerpo. Absuelto de tráfico de influencias. Firmeza no documentada.
+- nombre: Isidoro Ruz Espigares
+  cargo: Administrador solidario de Ave Nueva junto con Trujillo
+  rol: 'Condenado por cooperación necesaria en prevaricación y malversación: un año y cuatro meses de prisión, dos
+    años de inhabilitación especial y tres de absoluta. Responde solidariamente con Trujillo por 450.000 euros incluidos
+    en el principal de las ayudas.'
+- nombre: Antonio José Albarracín
+  cargo: Exdirectivo del grupo Vitalia
+  rol: 'Condenado por falsedad, prevaricación y malversación: cuatro meses de prisión y multa de 720 euros por falsedad,
+    dos años de inhabilitación especial por prevaricación, y un año de prisión y dos de inhabilitación absoluta
+    por malversación. Responsabilidad civil solidaria por 125.028,01 euros con Trujillo.'
+- nombre: Juana Gallego
+  cargo: Esposa de Trujillo
+  rol: Responsabilidad civil como partícipe a título lucrativo por 24.000 euros, comprendidos en las ayudas, solidariamente
+    con los condenados indicados en la sentencia. No condenada penalmente.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "fraude"
-  - "subvenciones"
-
-impactoSocial: "El caso del 'chófer de la coca' se convirtió en símbolo del uso personal de fondos públicos en el macrocaso de los ERE, generando gran impacto mediático por la frivolidad del destino dado al dinero defraudado. Reforzó la imagen de corrupción sistémica del PSOE andaluz durante décadas."
-
+- malversación
+- prevaricación
+- falsedad documental
+- subvenciones
+- ERE
 documentos: []
-
 cronologia:
-  - fecha: "2003-01-01"
-    titulo: "Inicio de la trama: creación de empresas ficticias"
-    descripcion: "Francisco Javier Guerrero, Director General de Trabajo de la Junta de Andalucía, se concierta con su chófer Juan Francisco Trujillo para constituir sociedades mercantiles ficticias destinadas a recibir subvenciones públicas. Las empresas creadas son Lógica Estratégica Empresarial e Iniciativas Turísticas Sierra Morena. Ninguna de ellas desarrolla actividad económica real."
-    type: "investigación"
-    urls:
-      - "https://www.elespanol.com/sevilla/20240220/caso-ere-condenan-anos-carcel-chofer-coca-comprar-droga-fincas-dinero-publico/834166889_0.html"
-
-  - fecha: "2004-02-05"
-    titulo: "Guerrero certifica subvenciones sin tramitación administrativa"
-    descripcion: "Francisco Javier Guerrero firma documentos certificando la concesión de subvenciones a las empresas de Trujillo (Lógica Estratégica Empresarial e Iniciativas Turísticas Sierra Morena) y a Ave Nueva S.L. de Isidoro Ruz Espigares —proyecto ficticio de granja avícola— por un total de 1.475.028 euros, sin que exista expediente administrativo ni solicitud previa conforme a derecho. Los fondos proceden de la partida presupuestaria 31L."
-    type: "documento"
-    urls:
-      - "https://www.libertaddigital.com/nacional/2012-01-11/el-chofer-de-guerrero-recibio-otros-450000-euros-para-una-granja-de-pollo-1276446471/"
-
-  - fecha: "2011-12-15"
-    titulo: "Registro policial en el domicilio de Trujillo"
-    descripcion: "La Policía registra el domicilio de Juan Francisco Trujillo en busca de documentación sobre las ayudas fraudulentas. Durante el registro, Trujillo manifiesta a los agentes que, al sentirse abandonado por sus superiores del PSOE, está dispuesto a 'contarlo todo'. Su cooperación posterior resulta determinante para desvelar el destino real de los fondos públicos."
-    type: "investigación"
-    urls:
-      - "https://www.publico.es/politica/fiscal-dice-chofer-era-caja-pagadora-coca-guerrero-baja-peticion-10-anos-prision-ere.html"
-
-  - fecha: "2012-01-11"
-    titulo: "Se conoce la subvención de 450.000 euros para la granja de pollos"
-    descripcion: "Trasciende que Guerrero concedió 450.000 euros a la empresa Ave Nueva S.L. de Isidoro Ruz Espigares para un inexistente proyecto de granja avícola. Trujillo reconoce ante el juzgado haber gastado parte de las ayudas en cocaína y regalos para Guerrero, describiendo los gastos habituales en restaurantes, discotecas y suministro de estupefacientes."
-    type: "declaración"
-    urls:
-      - "https://www.libertaddigital.com/nacional/2012-01-11/el-chofer-de-guerrero-recibio-otros-450000-euros-para-una-granja-de-pollo-1276446471/"
-      - "https://www.canalsur.es/noticias/andalucia/sevilla/trujillo-reconoce-que-gasto-parte-de-las-ayudas-en-cocaina-y-regalos/1999909.html"
-
-  - fecha: "2016-07-01"
-    titulo: "La jueza Núñez Bolaños abre la pieza separada de Guerrero y Trujillo"
-    descripcion: "La jueza María Núñez Bolaños, instructora del macrocaso ERE, abre formalmente la pieza separada correspondiente a las subvenciones concedidas por Guerrero a las empresas de su chófer. La resolución integra esta causa en el centenar de piezas separadas que conforman la macrocausa de los ERE andaluces."
-    type: "investigación"
-    urls:
-      - "https://www.eleconomista.es/legislacion/noticias/7704018/07/16/Nunez-abre-once-nuevas-piezas-en-los-ERE-por-las-ayudas-a-la-Faja-Piritica-o-al-exchofer-de-Guerrero.html"
-
-  - fecha: "2017-04-11"
-    titulo: "Apertura de juicio oral y fianzas millonarias"
-    descripcion: "La jueza Núñez Bolaños ordena la apertura de juicio oral contra Francisco Javier Guerrero y Juan Francisco Trujillo por delitos de prevaricación, malversación, tráfico de influencias, falsedad en documento oficial y asociación ilícita. Les impone fianzas de 1,9 y 2,1 millones de euros respectivamente. La Fiscalía Anticorrupción solicita para Guerrero y su chófer 14 años de prisión, 30 años de inhabilitación y 1.475.028 euros de indemnización."
-    type: "imputación"
-    urls:
-      - "https://www.eleconomista.es/legislacion/noticias/8302071/04/17/El-juez-impone-fianzas-de-19-y-21-millones-a-Guerrero-y-su-chofer-por-gastar-ayudas-de-ERE-en-cocaina.html"
-      - "https://www.eleconomista.es/legislacion/noticias/8302388/04/17/La-juez-de-los-ERE-ordena-apertura-de-juicio-oral-contra-Guerrero-y-su-chofer.html"
-
-  - fecha: "2018-05-22"
-    titulo: "Trujillo declara en el juicio de la pieza política y señala a Zarrías"
-    descripcion: "Juan Francisco Trujillo declara como testigo en el juicio de la pieza política principal del caso ERE ante la Audiencia Provincial de Sevilla. Señala al entonces secretario de organización del PSOE andaluz Gaspar Zarrías, afirmando haber llevado a Guerrero a reunirse con él en San Telmo, sede de la Presidencia de la Junta. Reitera que Guerrero gestionaba las ayudas del fondo 31L sin control alguno."
-    type: "declaración"
-    urls:
-      - "https://www.libertaddigital.com/espana/2018-05-22/el-chofer-de-la-cocaina-senala-a-zarrias-en-el-juicio-de-los-ere-1276619182/"
-
-  - fecha: "2019-11-19"
-    titulo: "Sentencia de la pieza política: Guerrero condenado a 7 años y 11 meses"
-    descripcion: "La Audiencia Provincial de Sevilla dicta sentencia en la pieza política del macrocaso ERE. Francisco Javier Guerrero es condenado a 7 años, 11 meses y 1 día de prisión por delitos continuados de prevaricación y malversación, al haber autorizado 887 subvenciones irregulares. Guerrero ingresa provisionalmente en prisión preventiva mientras la pieza del chófer queda pendiente de señalamiento."
-    type: "sentencia"
-    urls:
-      - "https://www.niusdiario.es/nacional/tribunales/condena-francisco-javier-guerrero-ere_18_2853645345.html"
-      - "https://www.atlantico.net/articulo/espanha/anticorrupcion-pide-ingreso-prision-guerrero-fernandez-viera-marquez-ere/20191120171935740424.html"
-
-  - fecha: "2020-10-11"
-    titulo: "Fallecimiento de Francisco Javier Guerrero"
-    descripcion: "Muere Francisco Javier Guerrero en su domicilio de Sevilla a causa de un paro cardíaco, a los 63 años de edad. Tenía más de veinte juicios pendientes por distintas piezas de los ERE, incluida la pieza de Trujillo que aún no había sido señalada para juicio. Su fallecimiento deja a Trujillo como único acusado vivo en esta pieza separada y extingue la responsabilidad penal de Guerrero."
-    type: "resumen"
-    urls:
-      - "https://www.elespanol.com/espana/andalucia/20201011/muere-javier-guerrero-condenado-ere-mandaba-cocaina/527447529_0.html"
-      - "https://www.eldiario.es/andalucia/muere-francisco-javier-guerrero-principal-imputado-en-el-caso-de-los-ere_1_6285008.html"
-
-  - fecha: "2022-03-29"
-    titulo: "Se señala el juicio para septiembre de 2022, pero Trujillo desaparece"
-    descripcion: "La Audiencia Provincial de Sevilla fija el juicio oral contra Trujillo para septiembre de 2022. Semanas antes de la vista, Trujillo se encuentra en paradero desconocido y su abogado no logra localizarle. La vista es finalmente suspendida por la renuncia del letrado de una de las mercantiles acusadas, acumulando así un nuevo retraso. El caso ya había pasado por cuatro jueces distintos que se jubilaron, trasladaron o apartaron del procedimiento."
-    type: "resumen"
-    urls:
-      - "https://www.elindependiente.com/espana/2022/03/29/caso-ere-la-audiencia-de-sevilla-juzgara-al-chofer-de-la-coca-en-septiembre/"
-      - "https://www.vozpopuli.com/espana/andalucia/chofer-ere-coca.html"
-
-  - fecha: "2024-01-07"
-    titulo: "Inicio del juicio oral contra Trujillo"
-    descripcion: "Arranca el juicio oral contra Juan Francisco Trujillo ante la Sección Primera de la Audiencia Provincial de Sevilla. La Fiscalía Anticorrupción, atendiendo a las dilaciones indebidas sufridas, reduce su petición de pena a 10 años de prisión. Durante las sesiones, Trujillo ratifica íntegramente sus declaraciones previas: reconoce haber entregado a Guerrero entre 40.000 y 60.000 euros en mano, haber enviado a su camello a comprar cocaína con billetes de 500 euros y haber propuesto a ese mismo traficante un viaje a Sudamérica para adquirir droga directamente con dinero público."
-    type: "declaración"
-    urls:
-      - "https://www.elespanol.com/espana/andalucia/20240107/caso-ere-arranca-juicio-chofer-cocaina-comprar-droga-fincas-dinero-publico/823167701_0.html"
-      - "https://www.elespanol.com/sevilla/20240110/caso-ere-chofer-guerrero-mando-camello-sudamerica-comprar-coca-dinero-junta/823917773_0.html"
-
-  - fecha: "2024-02-20"
-    titulo: "Condena a Juan Francisco Trujillo"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Sevilla condena a Juan Francisco Trujillo a 4 años y 9 meses de prisión como cooperador necesario de un delito continuado de prevaricación en concurso con un delito continuado de malversación. La sentencia considera probado que destinó los fondos a consumiciones en restaurantes, establecimientos de ocio y suministro de cocaína para él y para Guerrero, con un perjuicio económico total de 1.350.000 euros. El tribunal le absuelve del delito de tráfico de influencias al no apreciar presión moral sobre su superior jerárquico. Además, debe indemnizar a la Junta con 125.028,01 euros por la póliza de seguros suscrita a nombre de su propia madre."
-    type: "sentencia"
-    urls:
-      - "https://www.telemadrid.es/noticias/nacional/Condenado-a-4-anos-y-9-meses-de-carcel-el-chofer-de-la-coca-en-el-caso-ERE-0-2644535556--20240220051622.html"
-      - "https://www.canalsur.es/noticias/andalucia/el-chofer-de-la-coca-del-caso-ere-condenado-a-casi-5-anos-de-carcel/2015386.html"
-      - "https://www.elespanol.com/sevilla/20240220/caso-ere-condenan-anos-carcel-chofer-coca-comprar-droga-fincas-dinero-publico/834166889_0.html"
+- fecha: '2003-10-10'
+  titulo: Constitución de Iniciativas Turísticas Sierra Morena
+  descripcion: La nota oficial de la sentencia identifica esta fecha de escritura y la participación de Trujillo
+    y su esposa. Es un antecedente societario, no una fecha genérica de inicio del delito.
+  type: resumen
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-condena-a-cuatro-anos-y-nueve-meses-de-carcel-al-exchofer-del-exdirector-general-de-Trabajo-de-la-Junta-en-una-pieza-separada-del-caso-ERE
+- fecha: '2004-02-05'
+  titulo: Documentos que certifican las tres ayudas
+  descripcion: Guerrero certifica tres ayudas de 450.000 euros sin solicitud ni expediente conforme al procedimiento
+    legal. La tercera, inicialmente referida a Isidoro, se formalizó después mediante Ave Nueva, constituida el
+    7 de abril de 2004.
+  type: documento
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-condena-a-cuatro-anos-y-nueve-meses-de-carcel-al-exchofer-del-exdirector-general-de-Trabajo-de-la-Junta-en-una-pieza-separada-del-caso-ERE
+- fecha: '2007-04-18'
+  titulo: Pólizas a nombre de la madre de Trujillo
+  descripcion: Se elaboran pólizas y se firma el certificado con suplantación de la madre, ajena a la maniobra,
+    según el relato judicial difundido por el TSJA. El perjuicio de este bloque se cifra en 125.028,01 euros.
+  type: documento
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-condena-a-cuatro-anos-y-nueve-meses-de-carcel-al-exchofer-del-exdirector-general-de-Trabajo-de-la-Junta-en-una-pieza-separada-del-caso-ERE
+- fecha: '2017-03-10'
+  titulo: Se comunica la conclusión de la instrucción
+  descripcion: La nota oficial informa de indicios contra Guerrero, su conductor, el directivo de Vitalia y el administrador
+    de una sociedad. Recoge sobreseimiento provisional para madre y esposa, manteniendo a esta última como partícipe
+    lucrativa. Se fecha la comunicación, no el auto original no recuperado.
+  type: investigación
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-jueza-aprecia-prevaricacion--malversacion--falsedad-y-trafico-de-influencias-en-las-ayudas-del-exdirector-general-de-Trabajo-de-la-Junta-de-Andalucia-a-su-chofer
+- fecha: '2020-10-11'
+  titulo: Fallecimiento de Guerrero antes del juicio
+  descripcion: Se informa de su muerte. La condena que había recibido en el procedimiento específico de los ERE
+    pertenece a otra pieza y no se suma aquí.
+  type: resumen
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/andalucia/muere-francisco-javier-guerrero-principal-imputado-en-el-caso-de-los-ere_1_6285008.html
+- fecha: '2024-01-08'
+  titulo: Comienza el juicio de esta pieza
+  descripcion: Canal Sur informa del inicio el lunes 8 de enero. Se juzga a Trujillo, Ruz y Albarracín; Juana Gallego
+    interviene exclusivamente como partícipe a título lucrativo. La noticia previa del domingo 7 no era la fecha
+    de inicio.
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://www.canalsur.es/noticias/andalucia/sevilla/trujillo-reconoce-que-gasto-parte-de-las-ayudas-en-cocaina-y-regalos/1999909.html
+- fecha: '2024-02-20'
+  titulo: Condenas por ayudas y pólizas; absolución de tráfico de influencias
+  descripcion: La Audiencia dicta y notifica la sentencia, según la nota oficial. Individualiza penas y responsabilidades
+    civiles de Trujillo, Ruz y Albarracín y la responsabilidad lucrativa de la esposa. Advierte de recurso de casación
+    ante el Supremo.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-condena-a-cuatro-anos-y-nueve-meses-de-carcel-al-exchofer-del-exdirector-general-de-Trabajo-de-la-Junta-en-una-pieza-separada-del-caso-ERE
+  - https://www.diariodesevilla.es/juzgado_de_guardia/sentencias/chofer-coca-condenado-meses-carcel_0_1877513641.html
+  - https://cadenaser.com/andalucia/2024/02/20/la-audiencia-de-sevilla-condena-a-casi-cinco-anos-de-carcel-al-chofer-de-la-coca-radio-sevilla/
 ---
+
+La [comunicación oficial de la sentencia](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-condena-a-cuatro-anos-y-nueve-meses-de-carcel-al-exchofer-del-exdirector-general-de-Trabajo-de-la-Junta-en-una-pieza-separada-del-caso-ERE) distingue dos bloques. Por las ayudas, Trujillo recibe tres años de prisión y siete años y medio de inhabilitación absoluta por malversación, además de cuatro años y tres meses de inhabilitación especial por prevaricación. Por las pólizas recibe tres meses de prisión y multa de 540 euros por falsedad, tres años y seis meses de inhabilitación especial por prevaricación, y un año y medio de prisión y tres años de inhabilitación absoluta por malversación. La nota anuncia un total de cuatro años y nueve meses de prisión. No se convierte la suma de inhabilitaciones en una fecha de rehabilitación sin liquidación judicial.
+
+El principal de las ayudas es **1.350.000 euros**: incluye los **450.000 euros** por los que Ruz responde solidariamente con Trujillo. Los **24.000 euros** de responsabilidad lucrativa de la esposa también proceden de esos fondos y no se añaden al principal. El bloque distinto de las pólizas asciende a **125.028,01 euros**, con solidaridad de Trujillo y Albarracín. El campo coste recoge ambos principales una sola vez: **1.475.028,01 euros**, como perjuicio fijado en la sentencia de instancia comunicada, sin afirmar firmeza ni cobro efectivo. Multas, fianzas e intereses no se agregan.
+
+Los nombres se contrastan con [Diario de Sevilla](https://www.diariodesevilla.es/juzgado_de_guardia/sentencias/chofer-coca-condenado-meses-carcel_0_1877513641.html), [Canal Sur](https://www.canalsur.es/noticias/andalucia/sevilla/trujillo-reconoce-que-gasto-parte-de-las-ayudas-en-cocaina-y-regalos/1999909.html) y [Radio Sevilla](https://cadenaser.com/andalucia/2024/02/20/la-audiencia-de-sevilla-condena-a-casi-cinco-anos-de-carcel-al-chofer-de-la-coca-radio-sevilla/). La nota oficial utiliza iniciales; no se han completado identidades a partir de ellas. Existe una variante «Ruiz» en alguna crónica, mientras otras fuentes nominales identifican a Isidoro como Ruz Espigares; se mantiene esta última forma y queda pendiente el cotejo con el original judicial.
+
+La [resolución de instrucción comunicada en marzo de 2017](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-jueza-aprecia-prevaricacion--malversacion--falsedad-y-trafico-de-influencias-en-las-ayudas-del-exdirector-general-de-Trabajo-de-la-Junta-de-Andalucia-a-su-chofer) trataba indicios, no condenas. La responsabilidad penal de Guerrero no se transforma en condena en esta pieza tras su fallecimiento. Sus resoluciones en el procedimiento específico de los ERE, así como Acyco y otras piezas, son independientes. No se ha recuperado una resolución individual que aplique a este fallo una anulación o retroacción derivada del Tribunal Constitucional; no se presume ni su aplicación ni su inexistencia.
+
+Hay también una [información de diciembre de 2020 sobre una resolución contable relativa a Iniciativas Turísticas Sierra Morena](https://www.diariodesevilla.es/juzgado_de_guardia/sentencias/Tribunal-Cuentas-plantea-actuar-herederos-Javier-Guerrero-director-ERE_0_1532846997.html): relata la revocación de una prescripción y la suspensión por prejudicialidad penal respecto de una ayuda de 450.000 euros. No es una absolución penal ni una nueva cantidad que añadir. Su expediente original y evolución posterior quedan pendientes.
+
+Revisión con corte en el 17 de octubre de 2026. Se han leído los cuerpos completos de las notas oficiales y las crónicas citadas; no se ha obtenido el PDF íntegro de la sentencia de 2024 ni sus identificadores judiciales exactos. La comunicación expresa que cabía casación, pero no se ha documentado el recurso, su resultado o la ejecución. Por ello se retira el cierre definitivo y se mantiene la ficha incompleta. Los detalles sobre consumos diarios, cantidades mensuales o viajes a Sudamérica eran declaraciones o testimonios y no se presentan como íntegro relato probado del destino del dinero.
