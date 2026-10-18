@@ -6,11 +6,12 @@ año: 1984
 estado: Conclusiones parlamentarias y archivo de diligencias fiscales; no sentencia acreditada
 descripcion: Controversia sobre supuestos fondos del consorcio alemán Flick destinados al PSOE. El Congreso aprobó el
   28 de febrero de 1985 conclusiones que descartaban pruebas de recepción de dinero Flick por Felipe González o el PSOE.
-  La prensa informó también del archivo de diligencias fiscales españolas en abril de 1985. Las informaciones alemanas
+  La prensa informó también del archivo de diligencias fiscales españolas en abril de 1985, instadas por el Gobierno
+  para estudiar posibles acciones penales por las informaciones publicadas. Las informaciones alemanas
   reseñadas en 1990 no se equiparan aquí a una condena ni prueban que todo el importe investigado llegara al PSOE. Revisión
   pendiente de originales fiscales y alemanes al corte de 17 de octubre de 2026.
 resumen: Acusaciones de fondos alemanes al PSOE; conclusiones parlamentarias sin pruebas de recepción de dinero Flick
-  y archivo fiscal anunciado en 1985.
+  y archivo en 1985 de diligencias fiscales sobre las informaciones publicadas.
 lugar: España; antecedentes en la República Federal de Alemania
 tribunal:
 - Congreso de los Diputados (investigación parlamentaria, no tribunal)
@@ -62,7 +63,7 @@ cronologia:
 
 El [boletín parlamentario número 104, de 14 de marzo de 1985](https://www.congreso.es/public_oficiales/L2/CONG/BOCG/E/E_104.PDF), distingue las conclusiones aprobadas de los votos particulares rechazados. La fecha de aprobación fue el 28 de febrero, no el 29 de marzo. Tampoco cabe atribuir al conjunto de las conclusiones los 263 votos que la [crónica contemporánea](https://elpais.com/diario/1985/03/01/espana/478479610_850215.html) vincula específicamente al rechazo del relato de la maleta.
 
-El [archivo fiscal reseñado en mayo de 1985](https://elpais.com/diario/1985/05/23/espana/485647215_850215.html) no se convierte aquí en un auto judicial de sobreseimiento ni en una sentencia absolutoria. Falta el documento fiscal original para precisar todo su alcance.
+Las diligencias fiscales se abrieron a petición del Gobierno para comprobar las noticias y estudiar posibles querellas; su archivo no se equipara a una sentencia sobre financiación del partido. El [archivo fiscal reseñado en mayo de 1985](https://elpais.com/diario/1985/05/23/espana/485647215_850215.html) no se convierte aquí en un auto judicial de sobreseimiento ni en una sentencia absolutoria. Falta el documento fiscal original para precisar todo su alcance.
 
 La [noticia de 1990](https://elpais.com/diario/1990/05/29/espana/643932012_850215.html) hablaba de 22 millones de marcos investigados con posibles destinos españoles y portugueses, y recogía que el abogado del implicado negaba su entrega a partidos o políticos concretos. No permite atribuir ese total al PSOE ni afirmar que una resolución alemana confirmó financiación ilegal. No se fija un coste o daño patrimonial con esas cantidades.
 
