@@ -1,82 +1,79 @@
 ---
-nombre: "Caldelas"
+nombre: Caldelas
 partido: PP
-completado: true
+completado: false
 año: 2017
-fechaInicio: 2009-03-24
-fechaFin: "2017-10-30"
-estado: cerrado con condenas
-descripcion: |
-  El caso Caldelas es una condena por falsedad en documento oficial contra María José Caldelas, exdiputada del PP en el Parlamento de Galicia entre 2001 y 2005 y esposa de José Manuel Baltar, presidente de la Diputación Provincial de Ourense y líder del PP en la provincia. El caso se originó en torno a un pub que Caldelas adquirió en la céntrica Praza das Mercedes de Ourense el 1 de octubre de 2008, negocio que regentó hasta 2011. Los anteriores propietarios del local denunciaron que la exdiputada falsificó sus firmas para obtener licencias municipales que le permitieran acometer obras de reforma en el establecimiento.
-
-  Según los hechos probados por la sentencia, el 24 de marzo de 2009 se registró en el Ayuntamiento de Ourense un documento solicitando la instalación de veladores en la Praza das Mercedes, en el que figuraba como firmante uno de los anteriores propietarios sin su conocimiento ni consentimiento. El 11 de abril de 2011 se presentó un segundo documento falsificado en el registro municipal, también supuestamente firmado por el antiguo titular, solicitando una ampliación y acondicionamiento del local. Por estos dos documentos, el Juzgado de lo Penal número 1 de Ourense la condenó el 30 de octubre de 2017 a un año de prisión, una multa de cinco euros diarios durante doce meses y al pago de las costas procesales.
-
-  La condena tuvo un notable impacto político en Galicia dado el vínculo matrimonial de la condenada con Manuel Baltar, figura clave del PP ourensano y presidente de la Diputación Provincial. El caso se enmarca en el contexto más amplio de los escándalos que han rodeado a la familia Baltar en Ourense, documentados extensamente por la prensa gallega. La sentencia fue firme tras el período de apelación ante la Audiencia Provincial de Ourense, aunque al tratarse de una condena de un año de prisión y siendo la primera infracción, la pena quedó suspendida condicionalmente.
-
-resumen: "Exdiputada del PP ourensano condenada a un año de prisión por falsificar firmas de anteriores propietarios para obtener licencias municipales en un pub."
-coste: 0
-lugar: "Ourense, Galicia"
+estado: condena confirmada en apelación según información de 2018
+descripcion: 'La exdiputada del PP gallego María José Caldelas fue condenada por dos falsedades en documentos presentados
+  para la gestión de un pub en Ourense. La condena del Juzgado de lo Penal número 1 se comunicó el 30 de octubre
+  de 2017: seis meses de prisión por cada documento. La Voz de Galicia informó el 29 de junio de 2018 de que la
+  Audiencia había desestimado su recurso y confirmó la condena, calificándola de firme. No se han obtenido las sentencias
+  originales ni la resolución de ejecución. Las noticias discrepan sobre la cuantía de la multa; no se da por acreditada
+  la suspensión de la prisión.'
+resumen: Condena por dos falsedades documentales confirmada en apelación en 2018 según la prensa; multa y ejecución
+  pendientes de cotejo.
+lugar: Ourense, Galicia
 tribunal:
-  - "Juzgado de lo Penal número 1 de Ourense"
-  - "Audiencia Provincial de Ourense (apelación)"
-numeroSentencia: ""
+- Juzgado de lo Penal número 1 de Ourense
+- Audiencia Provincial de Ourense (apelación)
 implicados:
-  - nombre: "María José Caldelas"
-    cargo: "Exdiputada del PP en el Parlamento de Galicia (2001-2005)"
-    rol: "Condenada por dos delitos de falsedad en documento oficial"
-
+- nombre: María José Caldelas
+  cargo: Exdiputada del PP en el Parlamento de Galicia (2001-2005)
+  rol: Condenada a dos penas de seis meses de prisión por falsedad documental; confirmación en apelación comunicada
+    en 2018. Ejecución no verificada.
 tags:
-  - "corrupción"
-  - "falsedad documental"
-  - "falsificación de firmas"
-  - "licencias municipales"
-
-impactoSocial: "El caso generó considerable repercusión mediática en Galicia por el vínculo de la condenada con la dinastía Baltar, familia con gran poder en el PP ourensano. Contribuyó al debate sobre la cultura de impunidad en el entorno político provincial."
-
+- corrupción
+- falsedad documental
+- falsificación de firmas
+- licencias municipales
 documentos: []
-
 cronologia:
-  - fecha: 2008-10-01
-    titulo: "Caldelas adquiere un pub en la Praza das Mercedes de Ourense"
-    descripcion: "María José Caldelas compra un establecimiento de hostelería en la céntrica Praza das Mercedes de Ourense a sus anteriores propietarios. Dos semanas después presenta en el Ayuntamiento una solicitud de apertura y reforma del local, que es denegada a comienzos de marzo de 2009 por no cumplir los requisitos municipales."
-    type: resumen
-    urls: []
-
-  - fecha: 2009-03-24
-    titulo: "Primer documento falsificado presentado en el Ayuntamiento de Ourense"
-    descripcion: "Se registra en el Ayuntamiento de Ourense un documento solicitando la instalación de veladores en la Praza das Mercedes. El documento figura supuestamente firmado por uno de los anteriores propietarios del local, sin que este lo hubiera suscrito ni autorizado. Este acto constituye el primer delito de falsedad en documento oficial por el que será posteriormente condenada."
-    type: denuncia
-    urls:
-      - "https://www.eldiario.es/galicia/exdiputada-pp-condenada-falsedad-documental_1_3096102.html"
-
-  - fecha: 2011-04-11
-    titulo: "Segundo documento falsificado presentado en el Ayuntamiento"
-    descripcion: "Se presenta en el registro del Ayuntamiento de Ourense un segundo documento también con la firma falsificada del antiguo propietario, solicitando esta vez una ampliación y acondicionamiento del local. Este es el segundo de los delitos de falsedad por los que el tribunal la condenará años después."
-    type: denuncia
-    urls:
-      - "https://www.eldiario.es/galicia/exdiputada-pp-condenada-falsedad-documental_1_3096102.html"
-
-  - fecha: 2011-01-01
-    titulo: "Denuncia de los anteriores propietarios del local"
-    descripcion: "Los anteriores propietarios del pub de la Praza das Mercedes denuncian ante la justicia que María José Caldelas había falsificado sus firmas en documentos presentados ante el Ayuntamiento de Ourense para obtener licencias municipales de reforma y ampliación del establecimiento."
-    type: investigación
-    urls:
-      - "https://www.galiciapress.es/texto-diario/mostrar/875775/esposa-manuel-baltar-condenada-falsificar-firmas-licencias-municipales"
-
-  - fecha: 2017-07-06
-    titulo: "Celebración del juicio oral en el Juzgado de lo Penal número 1 de Ourense"
-    descripcion: "Se celebra el juicio oral contra María José Caldelas en el Juzgado de lo Penal número 1 de Ourense, donde se le acusa de dos delitos de falsedad en documento oficial. Durante el juicio se examinan los dos documentos presentados en el Ayuntamiento con firmas falsificadas de los anteriores propietarios del local."
-    type: declaración
-    urls:
-      - "https://www.diariodepontevedra.es/articulo/galicia/juzgan-la-mujer-de-baltar-por-falsedad-documental/20170706160448331893.html"
-
-  - fecha: 2017-10-30
-    titulo: "Condena a un año de prisión por dos delitos de falsedad en documento oficial"
-    descripcion: "El Juzgado de lo Penal número 1 de Ourense dicta sentencia condenando a María José Caldelas a un año de prisión, multa de cinco euros diarios durante doce meses y pago de costas procesales, por dos delitos de falsedad en documento oficial. Por cada uno de los documentos falsificados se imponen seis meses de prisión y seis meses de multa. La sentencia tuvo una amplia cobertura mediática en Galicia dada su condición de esposa de Manuel Baltar, presidente de la Diputación de Ourense y del PP provincial."
-    type: sentencia
-    urls:
-      - "https://www.eldiario.es/galicia/exdiputada-pp-condenada-falsedad-documental_1_3096102.html"
-      - "https://www.laregion.es/comarca-de-ourense/condena-ano-prision-falsedad-documental_1_20171031-2939558.html"
-      - "https://www.infolibre.es/politica/condenan-esposa-presidente-diputacion-ourense-ano-prision-falsedad-documental_1_1146989.html"
-      - "https://www.elprogreso.es/articulo/noticias/condenan-un-ano-de-prision-la-mujer-de-baltar/20171030181654688010.html"
+- fecha: '2009-03-24'
+  titulo: Documento sobre veladores
+  descripcion: Según la información que reseña la sentencia, se presentó un escrito de solicitud de veladores con
+    el nombre de un anterior responsable del negocio, quien negó haberlo firmado.
+  urls:
+  - https://www.galiciapress.es/texto-diario/mostrar/875775/esposa-manuel-baltar-condenada-falsificar-firmas-licencias-municipales
+  type: documento
+- fecha: '2011-04-11'
+  titulo: Segundo documento presentado al Ayuntamiento
+  descripcion: La prensa de 2017 refiere un escrito con la firma atribuida al mismo denunciante para solicitar una
+    prórroga y acondicionar el local. No se fecha la denuncia judicial sin respaldo documental.
+  urls:
+  - https://www.galiciapress.es/texto-diario/mostrar/875775/esposa-manuel-baltar-condenada-falsificar-firmas-licencias-municipales
+  type: documento
+- fecha: '2017-07-06'
+  titulo: Noticia de la celebración del juicio
+  descripcion: Diario de Pontevedra informó de que Caldelas se había sentado esa semana en el banquillo. No se adopta
+    el día de publicación como fecha exacta de la vista.
+  urls:
+  - https://www.diariodepontevedra.es/articulo/galicia/juzgan-la-mujer-de-baltar-por-falsedad-documental/20170706160448331893.html
+  type: juicio
+- fecha: '2017-10-30'
+  titulo: Se comunica la condena de primera instancia
+  descripcion: La noticia informa de dos penas de seis meses de prisión y seis meses de multa cada una, a cinco
+    euros diarios, además de costas. La resolución era apelable. Esta es fecha de publicación, no fecha judicial
+    cotejada.
+  urls:
+  - https://www.eldiario.es/galicia/exdiputada-pp-condenada-falsedad-documental_1_3096102.html
+  - https://www.galiciapress.es/texto-diario/mostrar/875775/esposa-manuel-baltar-condenada-falsificar-firmas-licencias-municipales
+  type: sentencia
+- fecha: '2018-06-29'
+  titulo: Se informa de la confirmación en apelación
+  descripcion: La Voz de Galicia publica que la Audiencia desestima el recurso y confirma las dos condenas, y califica
+    la resolución de firme. La fecha es la que muestra el artículo, aunque su URL contiene 28 de junio. Queda pendiente
+    el fallo original.
+  urls:
+  - https://www.lavozdegalicia.es/amp/noticia/ourense/2018/06/28/audiencia-confirma-condena-exdiputada-pp-dos-delitos-falsedad/00031530215484976425159.htm
+  type: sentencia
 ---
+
+El procedimiento se refiere a documentos vinculados al pub Seven, regentado entre 2008 y 2011. Las noticias reseñan la denuncia de un anterior responsable del negocio, que supo de los documentos tras un embargo por impago de la tasa de veladores. No se extiende esa atribución a otros familiares o a otros procedimientos relacionados con José Manuel Baltar. La condición de exdiputada contextualiza la ficha; los hechos descritos corresponden a una actividad privada.
+
+La primera condena se comunicó en octubre de 2017 y fue recurrida: la noticia contemporánea indicaba expresamente que cabía apelación. La información de junio de 2018 recoge su desestimación por la Audiencia. Por tanto, no se deduce la firmeza del mero paso del plazo para recurrir; se atribuye esa calificación a la noticia sobre la segunda instancia.
+
+Existe una discrepancia económica pendiente: las fuentes de 2017 describen seis meses de multa por cada delito, a cinco euros diarios, mientras que La Voz de Galicia habla de 1.800 euros por cada uno. No se concilian esas cifras sin el fallo. No se consigna coste porque no se ha acreditado un daño patrimonial cuantificado; una multa no es el coste del caso.
+
+La noticia de apelación usa María Josefa Caldelas y las crónicas de 2017 María José Caldelas. Se conserva la forma habitual de estas últimas sin completar apellidos ni establecer identidades a partir de pseudónimos judiciales.
+
+Revisión hasta el 17 de octubre de 2026: se han leído los cuerpos periodísticos de 2017 y la noticia de confirmación de 2018, pero no se han localizado las sentencias originales, sus números ni fechas judiciales exactas. Las búsquedas por nombre, falsedad, apelación, firmeza y suspensión, incluida poderjudicial.es, no han proporcionado una resolución de ejecución. Se retira la afirmación de que la prisión quedó suspendida por carecer de antecedentes: esa conclusión requiere una resolución específica. La ausencia de noticias posteriores no prueba la extinción de la pena. Documentos permanece vacío por falta de originales verificables.
