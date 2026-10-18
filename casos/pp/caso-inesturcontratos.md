@@ -1,16 +1,16 @@
 ---
 nombre: CASO INESTUR/CONTRATOS
-partido: PP
+partido: UM
 completado: false
 año: 2010
 estado: condenas y absoluciones por conformidad comunicadas en 2020
 descripcion: 'La pieza 14 del caso Voltor examinó contrataciones del Inestur. Según las crónicas de la vista de
   28 de julio de 2020, seis acusados fueron condenados por prevaricación continuada y cuatro resultaron absueltos.
-  Los seis condenados debían indemnizar solidariamente a la Comunidad Autónoma con 14.364 euros. Advertencia de
-  clasificación: la ruta y partido PP son heredados; las fuentes identifican a Francesc Buils como exconseller de
-  Unió Mallorquina, no del PP. No se han localizado el fallo íntegro, sus eventuales recursos ni la ejecución.'
-resumen: 'Pieza 14 de Voltor: prevaricación, absoluciones e indemnización solidaria; atribución heredada al PP pendiente
-  de corregir.'
+  Los seis condenados debían indemnizar solidariamente a la Comunidad Autónoma con 14.364 euros. Las fuentes
+  identifican a Francesc Buils como exconseller de Unió Mallorquina. No se han localizado el fallo íntegro, sus
+  eventuales recursos ni la ejecución.'
+resumen: 'Pieza 14 de Voltor: prevaricación, absoluciones e indemnización solidaria; Francesc Buils era exconseller
+  de Unió Mallorquina.'
 lugar: Islas Baleares
 tribunal:
 - Audiencia Provincial de Baleares, Sección Primera
@@ -76,6 +76,6 @@ La indemnización de 14.364 euros se atribuye solidariamente a los seis condenad
 
 Se excluye la condena de 2018 relativa a Porreres: la noticia trataba otro convenio y otras personas, y recogía la absolución de Oliver en aquella pieza. La detención de Joan Sastre y los importes globales de la operación Voltor tampoco se convierten en resultados individuales de la pieza 14.
 
-La atribución al PP de la versión anterior era incorrecta respecto del cargo de Buils. La clasificación del frontmatter y el slug se conservan para revisión del conjunto, sin atribuirle militancia en ese partido.
+La clasificación como UM se apoya en la adscripción de Buils a Unió Mallorquina. No atribuye militancia a los demás acusados ni responsabilidad penal al partido. Se conserva la ruta heredada para mantener estable la ficha.
 
 Revisión hasta el 17 de octubre de 2026. Se han leído íntegramente las dos crónicas de la vista de 2020, que coinciden en las penas y el resultado, sin consultar el texto judicial original. Onda Cero abrevia inicialmente la pena a ocho años, pero concreta después ocho años y cinco meses, como Última Hora. Los nombres completos proceden de esta última noticia, no de pseudónimos judiciales. Quedan pendientes número y fallo íntegro, firmeza, recursos y ejecución. Las búsquedas de resoluciones posteriores no acreditan su inexistencia.
