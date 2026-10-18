@@ -13,7 +13,6 @@ descripcion: La contratación fraccionada de servicios de desratización y desin
   la ejecución de las penas ni la firmeza individual de la condena de Dopico. El original del Supremo contiene fechas
   contradictorias para la sentencia de instancia; falta cotejar esta última.
 resumen: 'Contratación municipal fraccionada: condenas por prevaricación y cohecho, con absoluciones diferenciadas.'
-coste: 0
 lugar: Castro Urdiales, Cantabria
 tribunal:
 - Juzgado de Instrucción n.º 2 de Castro Urdiales
@@ -109,7 +108,7 @@ cronologia:
 
 La sentencia del Supremo reproduce hechos de contratación fraccionada para eludir el procedimiento administrativo: servicios ya realizados antes de su aprobación municipal, primero bajo la responsabilidad de Dopico y después bajo la de Rodríguez López. El tribunal distingue estos hechos del concurso de contratación de 2005: explica que los hechos de ese concurso no son aquellos por los que recayó la condena recurrida. Ambos exconcejales fueron absueltos de tráfico de influencias. No debe transformarse una propuesta económica menos ventajosa en una condena por ese delito.
 
-El fallo de instancia reproducido en el original del Supremo aplica la atenuante muy cualificada de dilaciones indebidas. Incluye, para la pena de prisión de Dopico, la accesoria de inhabilitación para el sufragio pasivo durante la condena. Las multas son penas, no una medición de daño patrimonial. El valor cero del campo coste indica que esta revisión no ha acreditado una cuantificación judicial del perjuicio: no significa que se haya probado su inexistencia. Se retiran las cifras heredadas de facturación y beneficios, que no deben equipararse al daño público.
+El fallo de instancia reproducido en el original del Supremo aplica la atenuante muy cualificada de dilaciones indebidas. Incluye, para la pena de prisión de Dopico, la accesoria de inhabilitación para el sufragio pasivo durante la condena. Las multas son penas, no una medición de daño patrimonial. Esta revisión no ha acreditado una cuantificación judicial del perjuicio: no significa que se haya probado su inexistencia. Se retiran las cifras heredadas de facturación y beneficios, que no deben equipararse al daño público.
 
 La identificación nominal se apoya en las noticias contemporáneas enlazadas; no se deducen identidades de los seudónimos de la resolución judicial anonimizada. La noticia previa al juicio sobre la salida de Muguruza y la prescripción respecto de Llamas no sustituye a los autos originales, que no se han recuperado. Se elimina la antigua inclusión de Pedro Revuelta al no haber sido revalidada su relación procesal con esta causa.
 
