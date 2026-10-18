@@ -4,7 +4,7 @@ partido: PP
 completado: false
 año: 2013
 fechaInicio: '2013-01-31'
-fechaFin: '2024-11-14'
+fechaFin: ''
 estado: condenas en casación y archivo provisional de otra pieza
 descripcion: 'Los papeles de Bárcenas, publicados en enero de 2013, dieron lugar a investigaciones sobre la contabilidad
   paralela del PP. Esta ficha distingue el proceso por el pago opaco de parte de la reforma de la sede de Génova
@@ -91,7 +91,7 @@ cronologia:
   descripcion: El juez Pedraz acuerda el sobreseimiento provisional de la pieza sobre donaciones de empresarios
     a cambio de contratos. La Memoria AN2022 confirma el archivo; la fecha concreta corresponde al auto comunicado
     por prensa. Original no recuperado.
-  type: sentencia
+  type: sobreseimiento
   relevancia: alta
   urls:
   - https://www.elespanol.com/espana/tribunales/20221219/pedraz-archiva-sin-imputaciones-donaciones-pp-aznar/727177441_0.html
@@ -119,12 +119,14 @@ La falsedad documental por la que se condenó en la instancia fue objeto de abso
 
 ## Importes con conceptos distintos
 
-El pago de **1.072.000 euros** al margen de la facturación por obras que recoge la sentencia de 2021 es un flujo de dinero, no una medida del perjuicio público. La cuota tributaria fijada en su fallo fue de **870.521,32 euros**, con responsabilidad directa de los administradores y subsidiaria de Unifica; **123.669 euros** de esa misma cuota correspondían a la responsabilidad directa de Bárcenas y subsidiaria del PP. Son cantidades solapadas y no se suman.
+El pago de **1.072.000 euros** al margen de la facturación por obras es un flujo de dinero, no una medida del perjuicio público. El fallo de 2021 consignaba una cuota tributaria de **870.521,32 euros**, con responsabilidad directa de los administradores y subsidiaria de Unifica; **123.669 euros** eran la parte atribuida directamente a Bárcenas y subsidiariamente al PP. Son responsabilidades solapadas y no se suman.
 
-La nota oficial del Supremo de 2024 informa de que la cuota se redujo de aproximadamente 870.000 a 374.000 euros porque una parte había tributado en el ejercicio siguiente. Mantiene la declaración civil del PP, no impugnada. Sin el fallo íntegro de casación no se fija aquí una cuota definitiva al céntimo ni se concilian cifras de prensa distintas. Las multas penales se separan del principal tributario y de los pagos por obras. Se retiran los 11,5 millones de coste agregado, sin justificación en esta pieza.
+La [transcripción de la STS 1033/2024 en vLex](https://vlex.es/vid/1059871882), consultada parcialmente, reproduce un auto de corrección aritmética de 3 de marzo de 2022: elevó aquellas cantidades a **873.870,42 euros** y **126.918,103 euros**, respectivamente. Esto explica que la cifra de partida de la noticia de 2024 difiera del PDF de 2021 sin corregir. No se ha recuperado el auto original independiente. Se conserva la precisión literal de la transcripción, sin inventar redondeos de ejecución.
+
+La segunda sentencia de casación transcrita fija la cuota total en **374.096,826 euros**, al descontar lo tributado en el ejercicio siguiente, y mantiene los demás pronunciamientos civiles compatibles. No se recalcula por cuenta propia la responsabilidad individual del PP ni se añade a esa cuota. El fallo reduce sus costas a cargo de las acusaciones populares a tres cuartas partes. Para Bárcenas, el fallo y la nota oficial señalan multa de **180.000 euros**, mientras el fundamento cuarto transcrito menciona **190.000**: la discrepancia queda pendiente del original y de posibles aclaraciones; no se presenta la cifra del fundamento como una segunda multa. Las multas se separan de la deuda tributaria y de los pagos por obras. Se retiran los 11,5 millones de coste agregado sin justificación en esta pieza.
 
 ## Alcance de la revisión
 
 Revisión a 17 de octubre de 2026. Se descargó la copia de la sentencia de 2021 y se leyeron su encabezamiento, hechos iniciales sobre la contabilidad y el pago de las obras, y fallo; no sus 454 páginas íntegramente. Se leyó el cuerpo de la nota oficial de 15 de noviembre de 2024 y la información de Europa Press sobre la casación, además del artículo sobre el archivo de diciembre de 2022 y su pasaje en la Memoria de la Audiencia Nacional. La fecha de la STS es 14 de noviembre de 2024, no la fecha de publicación de esa nota ni la STS849/2024 de la ficha anterior.
 
-El enlace oficial del Supremo devolvió un bloqueo y no se obtuvo el original completo de casación ni los autos originales de archivo. Tampoco se revisaron de forma exhaustiva las diligencias históricas previas a 2021, las costas, los intereses ni la liquidación de ejecución. Las búsquedas no localizaron una nueva resolución de esta pieza que alterase lo descrito; esto no certifica la inexistencia de otros incidentes. Se mantiene pendiente de completar. La libertad condicional de Bárcenas y las resoluciones de Gürtel o Kitchen no se utilizan para fechar el cierre de esta pieza.
+El enlace oficial del Supremo devolvió un bloqueo. Se consultó parcialmente su transcripción en vLex: encabezamiento, antecedente cuarto con el auto de corrección, y segunda sentencia con fundamentos y fallo. Esta última indica que no cabe recurso; no se extiende esa cláusula al archivo provisional de otra pieza. No se obtuvo el PDF original de casación ni los autos originales de corrección o archivo. La transcripción llama 18 de octubre a la sentencia de instancia, frente al 28 que consta en su original: se sigue el PDF de la Audiencia. Tampoco se revisaron de forma exhaustiva las diligencias históricas previas a 2021, las costas, los intereses ni la liquidación de ejecución. Las búsquedas no localizaron una nueva resolución de esta pieza que alterase lo descrito; esto no certifica la inexistencia de otros incidentes. Se mantiene pendiente de completar. La libertad condicional de Bárcenas y las resoluciones de Gürtel o Kitchen no se utilizan para fechar el cierre de esta pieza.
