@@ -54,7 +54,7 @@ cronologia:
 
   - fecha: "2016-10-19"
     titulo: "Apertura del juicio oral"
-    descripcion: "El Juzgado de Instrucción número 4 de Navalcarnero comunicó a las partes la apertura del juicio oral contra el exalcalde. La Fiscalía le acusaba de un presunto delito continuado de prevaricación, malversación de caudales públicos y fraude, y sostenía un enriquecimiento de 105.012 euros (369.863 euros recibidos menos 70.008 de nóminas justificadas y 194.842 devueltos al Consistorio)."
+    descripcion: "El Juzgado de Instrucción número 4 de Navalcarnero comunicó a las partes la apertura del juicio oral contra el exalcalde. La Fiscalía le acusaba de un presunto delito continuado de prevaricación, malversación de caudales públicos y fraude, y sostenía un enriquecimiento de 105.012 euros. Las cifras publicadas de ingresos, nóminas y devoluciones están redondeadas y no permiten reconstruir exactamente ese importe."
     type: "juicio"
     relevancia: "alta"
     urls:
