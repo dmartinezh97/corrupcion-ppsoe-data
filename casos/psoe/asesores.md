@@ -1,15 +1,14 @@
 ---
 nombre: Caso Asesores
-partido: PSOE
+partido: PSA
 completado: false
 año: 2005
 fechaInicio: '2005-01-18'
 estado: condenas del Tribunal Supremo; evolución de ejecución y revisión pendiente de documentación
 descripcion: 'Procedimiento por pagos sin contraprestación a dos asesores políticos de Pedro Pacheco mediante Xerez
   21 Speed Festival y la Empresa Municipal del Suelo de Jerez (Emusujesa). Los hechos se sitúan en 2005-2007, cuando
-  Pacheco era teniente de alcalde y dirigente del PSA, formación andalucista distinta del PSOE. La clasificación
-  heredada de esta ficha bajo PSOE queda pendiente de revisión; no atribuye a ese partido la militancia de los tres
-  condenados.
+  Pacheco era teniente de alcalde y dirigente del PSA, formación andalucista distinta del PSOE. El pacto municipal
+  con el PSOE no implica la adscripción de los condenados a ese partido.
 
 
   La Audiencia Provincial de Cádiz dictó sentencia el 13 de mayo de 2013. La sentencia 600/2014 del Tribunal Supremo,
@@ -25,8 +24,7 @@ descripcion: 'Procedimiento por pagos sin contraprestación a dos asesores polí
   las penas. En 2023 se informó de una petición de revisión y en octubre de 2026 seguía publicándose como pendiente
   su petición de indulto. No se han obtenido sus expedientes ni el desenlace judicial de la revisión.'
 resumen: 'Pagos sin servicios a dos asesores del PSA en empresas municipales de Jerez: el Supremo condenó a Pedro
-  Pacheco y a los dos beneficiarios y mantuvo indemnizaciones por 206.833,66 euros. PSA no es PSOE; clasificación
-  heredada pendiente.'
+  Pacheco y a los dos beneficiarios y mantuvo indemnizaciones por 206.833,66 euros. PSA no es PSOE.'
 coste: 206833.66
 lugar: Jerez de la Frontera, Cádiz
 tribunal:
@@ -144,4 +142,4 @@ La [noticia de libertad condicional](https://cadenaser.com/emisora/2019/06/01/ra
 
 La [petición de revisión publicada en 2023](https://www.elconfidencial.com/espana/andalucia/2023-01-30/prision-indulto-rebaja-malversacion-proces-pedro-pacheco-rehabilitarse_3565771/) y las informaciones sobre el indulto son solicitudes distintas. La [noticia de 15 de octubre de 2026](https://www.andaluciainformacion.es/articulo/jerez/atentos-ventana-garcia-ortiz-penultima-oportunidad-indulto-pacheco-antes-29n/202610151840263507882.amp.html) lo presenta todavía como expectativa. No se ha obtenido el expediente de gracia ni una resolución de revisión; tampoco se infiere de su ausencia una denegación o una concesión. La revisión mantiene esas cuestiones pendientes.
 
-Al corte del 17 de octubre de 2026 se ha leído de forma dirigida el PDF oficial de 64 páginas: identificación, hechos probados, fallo de instancia reproducido y segunda sentencia con sus penas e indemnizaciones. La copia nominal tiene 69 páginas y fue contrastada en esos pasajes. No se declara una lectura íntegra de todos los fundamentos de ambas versiones. La fecha de generación del PDF oficial, 22 de septiembre de 2014, no cambia la fecha judicial de 3 de septiembre. La clasificación del fichero en PSOE es heredada y queda pendiente: los condenados pertenecían al PSA andalucista.
+Al corte del 17 de octubre de 2026 se ha leído de forma dirigida el PDF oficial de 64 páginas: identificación, hechos probados, fallo de instancia reproducido y segunda sentencia con sus penas e indemnizaciones. La copia nominal tiene 69 páginas y fue contrastada en esos pasajes. No se declara una lectura íntegra de todos los fundamentos de ambas versiones. La fecha de generación del PDF oficial, 22 de septiembre de 2014, no cambia la fecha judicial de 3 de septiembre. Los condenados pertenecían al PSA andalucista, distinto del PSOE; el pacto municipal no cambia esa adscripción.
