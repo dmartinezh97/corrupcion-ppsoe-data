@@ -73,6 +73,11 @@ documentos:
   filetype: pdf
   paginas: 12
   nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=e30409d8fe62d21c&encode=true&databasematch=TS
+- fecha: '2018-02-12'
+  titulo: Auto 41/2018 de medidas cautelares sobre Fariña (seis páginas de auto y una de notificación)
+  filetype: pdf
+  paginas: 7
+  nombre_fichero: https://assets.documentcloud.org/documents/4383283/Autofarina.pdf
 cronologia:
 - fecha: '1993-11-23'
   titulo: Absolución en una causa por tráfico de drogas
@@ -108,12 +113,14 @@ cronologia:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=e30409d8fe62d21c&encode=true&databasematch=TS
 - fecha: '2018-02-20'
   titulo: Se conoce el secuestro cautelar del libro
-  descripcion: 'elDiario.es informa de la medida y de la caución de 10.000 euros exigida al demandante. Se consigna
-    la publicación: no se ha recuperado el auto original y la noticia no acredita por sí sola el comienzo efectivo
-    de la retirada.'
+  descripcion: 'elDiario.es informa de la medida y de la caución de 10.000 euros exigida al demandante. La copia
+    judicial recuperada contiene el auto 41/2018, encabezado el 12 de febrero, que condiciona la ejecución del secuestro
+    al abono de esa caución y admite apelación sin efectos suspensivos. El 20 de febrero es la fecha de publicación
+    de la noticia, no la del auto ni la del comienzo efectivo de la retirada.'
   type: investigacion
   urls:
   - https://www.eldiario.es/politica/secuestro-cautelar-farina-exalcalde-grove_1_2779135.html
+  - https://assets.documentcloud.org/documents/4383283/Autofarina.pdf
 - fecha: '2018-06-22'
   titulo: Se conoce el levantamiento del secuestro
   descripcion: elDiario.es publica que la Audiencia Provincial estimó el recurso del autor y la editorial contra
@@ -160,4 +167,4 @@ La [sentencia original de 2021](https://www.poderjudicial.es/search/contenidos.a
 
 El proceso civil sobre el honor tampoco debe confundirse con el incidente de indemnización por el secuestro. La demanda se presentó el 27 de febrero de 2017; la desestimación de instancia es de 13 de julio de 2018 y su confirmación en apelación de 31 de julio de 2019, según los antecedentes del Supremo. La indemnización [publicada en junio de 2020](https://www.moncloa.com/2020/06/08/condena-exalcalde-o-grove-secuestro-farina-201616/) requiere aún su resolución original y desglose exacto. No se cuantifica daño a fondos públicos.
 
-La sentencia examina el error sobre pertenencia partidista como una cuestión circunstancial del litigio, no como acreditación de militancia en el PP. Las fechas de la detención de 1991, la candidatura concreta y el cumplimiento de la pena no se presentan como verificados. La retirada cautelar, el levantamiento y la indemnización conservan fechas de publicación cuando no se ha leído el auto correspondiente.
+La sentencia examina el error sobre pertenencia partidista como una cuestión circunstancial del litigio, no como acreditación de militancia en el PP. Las fechas de la detención de 1991, la candidatura concreta y el cumplimiento de la pena no se presentan como verificados. El levantamiento y la indemnización conservan fechas de publicación porque no se han leído sus resoluciones originales. La copia judicial del [auto cautelar 41/2018](https://assets.documentcloud.org/documents/4383283/Autofarina.pdf), difundida en DocumentCloud y recuperada mediante GET, consta de siete páginas: una de notificación y seis del auto, leídas íntegramente. El auto está encabezado el 12 de febrero de 2018; la cubierta menciona una resolución de 13 de febrero y una notificación de 14 de febrero. Se conserva esta discrepancia sin identificar esas fechas como ejecución de la retirada. El auto acuerda el secuestro del libro, deniega la paralización de la serie y fija una caución previa de 10.000 euros; admite apelación sin efectos suspensivos. Su recuperación no acredita cuándo se ejecutó la medida ni subsana la falta de los restantes originales y documentos de ejecución.
