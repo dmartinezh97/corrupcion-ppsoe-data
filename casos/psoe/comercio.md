@@ -1,110 +1,118 @@
 ---
 nombre: Caso Comercio
 partido: PSOE
-completado: true
+completado: false
 año: 2016
-fechaInicio: 2016-11-01
-fechaFin: 2022-05-11
-estado: cerrado con condenas
+estado: condenas y absolución resueltas en casación; ejecución pendiente de comprobar
 lugar: Alicante, Comunidad Valenciana
-coste: 189762
-descripcion: |
-  El Caso Comercio es un caso de corrupción política que afectó al Ayuntamiento de Alicante durante noviembre y diciembre de 2016, cuando el entonces alcalde socialista Gabriel Echávarri, junto con su equipo de asesores, fraccionó irregularmente contratos públicos por un valor total de 189.762,86 euros para eludir los procedimientos de licitación pública obligatorios. Los contratos se adjudicaron de forma directa como contratos menores para cubrir gastos relacionados con la Gala de Premios del Comercio de 2016, la campaña de Navidad y la renovación de la señalética de los mercados municipales de Alicante.
-
-  La investigación judicial determinó que los tres acusados contravinieron conscientemente los principios de contratación relativos a la libertad de acceso a las licitaciones y fraccionaron intencionalmente al menos 14 contratos para adjudicarlos como contratos menores, evitando así los procesos de concurrencia pública exigidos por la ley. El tribunal estableció que esos contratos "debieron tramitarse legalmente mediante licitación pública en lugar de contratos menores, ya que se referían a los mismos objetos y constituían unidades funcionales". El caso representa uno de los primeros episodios de corrupción judicial que afectó directamente a un alcalde de Alicante en ejercicio y contribuyó significativamente a la ruptura del gobierno tripartito municipal.
-
-  El proceso judicial culminó con sentencias condenatorias confirmadas por el Tribunal Supremo en mayo de 2022. Gabriel Echávarri fue condenado a 8 años y 6 meses de inhabilitación para el ejercicio de empleo o cargo público por un delito continuado de prevaricación administrativa. Su asesor de Comercio, Pedro de Gea, recibió la misma pena, mientras que el jefe de Gabinete de Alcaldía, Eduardo Lalo Díez, inicialmente condenado a 7 años de inhabilitación, fue finalmente absuelto por el Tribunal Supremo. Echávarri dimitió como alcalde en abril de 2018 ante la presión de su doble imputación judicial y actualmente se encuentra retirado de la política, dedicándose a su profesión de abogado.
-resumen: Fraccionamiento irregular de contratos públicos por 189.762 euros para eludir licitaciones en el Ayuntamiento de Alicante.
+descripcion: El caso investigó contrataciones de la Concejalía de Comercio de Alicante realizadas en noviembre y
+  diciembre de 2016, bajo la responsabilidad del alcalde socialista Gabriel Echávarri. El Supremo, en su sentencia
+  441/2022 de 4 de mayo, mantuvo la condena de Echávarri como autor y de Pedro de Gea como cooperador necesario
+  de prevaricación continuada, fijando para cada uno ocho años y seis meses de inhabilitación especial con distinto
+  alcance según su cargo. Absolvió al exjefe de Gabinete Eduardo Díez por insuficiencia de prueba. Los 189.762,86
+  euros son el importe acumulado de las 25 operaciones, no un daño público cuantificado. Faltan documentos de ejecución
+  y la comprobación del eventual amparo anunciado en prensa y de novedades posteriores hasta el 17 de octubre de
+  2026.
+resumen: 'Fraccionamiento de contratos de Comercio de Alicante: el Supremo fijó ocho años y seis meses de inhabilitación
+  para Echávarri y De Gea y absolvió a Eduardo Díez.'
 tribunal:
-  - "Juzgado de Instrucción número 9 de Alicante"
-  - "Audiencia Provincial de Alicante - Sección Tercera"
-  - "Tribunal Superior de Justicia de la Comunidad Valenciana - Sala de lo Civil y Penal"
-  - "Tribunal Supremo - Sala de lo Penal"
-numeroSentencia: "STS 441/2022 (Tribunal Supremo, 11 de mayo de 2022); SAP Alicante 431/2019 (28 de octubre de 2019)"
+- Juzgado de Instrucción nº 9 de Alicante
+- Audiencia Provincial de Alicante, Sección Tercera
+- Tribunal Superior de Justicia de la Comunidad Valenciana, Sala de lo Civil y Penal
+- Tribunal Supremo, Sala de lo Penal
+numeroSentencia: STS 441/2022, de 4 de mayo (ECLI:ES:TS:2022:1649; recurso 771/2020); STSJCV 15/2020, de 21 de enero;
+  SAP Alicante 431/2019, de 28 de octubre
 tags:
-  - prevaricación
-  - fraccionamiento de contratos
-  - contratación irregular
-  - licitación pública
-impactoSocial: El caso provocó la dimisión del alcalde socialista en abril de 2018, la ruptura del gobierno tripartito municipal (PSOE-Guanyar-Compromís) y convirtió a Gabriel Echávarri en el primer alcalde de Alicante condenado judicialmente por corrupción.
-
+- prevaricación
+- fraccionamiento de contratos
+- contratación pública
 implicados:
-  - nombre: Gabriel Echávarri Fernández
-    cargo: Alcalde de Alicante (2015-2018) y concejal de Comercio
-    rol: Condenado por prevaricación continuada; 8,5 años de inhabilitación
-
-  - nombre: Pedro de Gea
-    cargo: Asesor de la concejalía de Comercio del Ayuntamiento de Alicante
-    rol: Condenado por prevaricación continuada; 8,5 años de inhabilitación
-
-  - nombre: Eduardo Lalo Díez
-    cargo: Jefe de Gabinete de Alcaldía del Ayuntamiento de Alicante
-    rol: Absuelto por el Tribunal Supremo; condena inicial de 7 años revocada
-
-documentos: []
-
+- nombre: Gabriel Echávarri Fernández
+  cargo: Alcalde de Alicante y responsable de Comercio en los hechos
+  rol: Condenado como autor de prevaricación continuada. El Supremo fija ocho años y seis meses de inhabilitación
+    especial para empleo o cargo público que implique ser alcalde, teniente de alcalde o concejal de cualquier corporación
+    local.
+- nombre: Pedro de Gea Lozano
+  cargo: Asesor del equipo de gobierno municipal y responsable de facto de Comercio
+  rol: Condenado como cooperador necesario de prevaricación continuada. El Supremo fija ocho años y seis meses de
+    inhabilitación especial para empleo o cargo público que implique cargos de asesor o funcionario de cualquier
+    corporación local.
+- nombre: Eduardo Díez Escámez
+  cargo: Jefe de Gabinete de Alcaldía en los hechos, conocido como Lalo Díez
+  rol: Absuelto por el Supremo por insuficiencia de prueba. Sus condenas previas de siete años en la Audiencia y
+    nueve en el TSJ quedan sin efecto.
+documentos:
+- fecha: '2022-05-04'
+  titulo: Tribunal Supremo. Sentencia 441/2022 y segunda sentencia. ECLI:ES:TS:2022:1649
+  filetype: pdf
+  paginas: 42
+  nombre_fichero: https://www.icava.org/public/Attachment/2022/6/sts_1649_2022.pdf
 cronologia:
-  - fecha: "2016-11-01"
-    titulo: Fraccionamiento irregular de contratos en la concejalía de Comercio
-    descripcion: Durante noviembre y diciembre de 2016, por decisión de Gabriel Echávarri, la concejalía de Comercio del Ayuntamiento de Alicante adjudica directamente 25 contratos a diferentes empresas por un importe total de 189.762,86 euros. Al menos 14 de estos contratos fueron fraccionados deliberadamente para tramitarlos como contratos menores y eludir los procedimientos obligatorios de licitación pública. Los contratos se destinaron a publicitar la Gala de Premios del Comercio 2016, la campaña de Navidad y la renovación de la señalética de los mercados municipales.
-    urls:
-      - https://www.eldiario.es/comunitat-valenciana/alicante/alicante-gabriel-echavarri-fraccionamiento-comercio_1_1331844.html
-      - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Comercio&numero=336
-    type: denuncia
-
-  - fecha: "2017-09-01"
-    titulo: El juez cita a declarar al alcalde Gabriel Echávarri como investigado
-    descripcion: El Juzgado de Instrucción número 9 de Alicante cita al alcalde Gabriel Echávarri para que declare como investigado por el presunto fraccionamiento de contratos relacionado con 25 adjudicaciones directas por un total de 189.000 euros durante noviembre y diciembre de 2016. Junto a él son citados como investigados el jefe de Gabinete de Alcaldía, Eduardo Lalo Díez, y el asesor del área de Comercio, Pedro de Gea.
-    urls:
-      - https://alicantepress.com/art/35492/la-juez-del-caso-comercio-propone-juzgar-al-alcalde-y-los-dos-asesores-por-prevaricacion
-      - https://alicanteplaza.es/La-jueza-imputa-a-echavarri-y-sus-dos-asesores-por-los-contratos-del-caso-comercio
-    type: investigación
-
-  - fecha: "2017-11-01"
-    titulo: La jueza propone juzgar al alcalde y sus asesores por prevaricación
-    descripcion: El Juzgado de Instrucción número 9 de Alicante concluye la investigación por el presunto fraccionamiento de facturas en la concejalía de Comercio y propone que el alcalde Gabriel Echávarri sea juzgado por un delito de prevaricación. También propone juzgar al jefe de Gabinete de Alcaldía, Eduardo Lalo Díez, y al asesor Pedro de Gea por delitos de prevaricación y usurpación de funciones. El auto judicial fundamenta la acusación en la fragmentación deliberada de contratos para evitar los procedimientos de licitación pública.
-    urls:
-      - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Noticias-Judiciales-TSJ-Comunidad-Valenciana/La-juez-eleva-a-la-Audiencia-Provincial-el--caso-Comercio--para-juzgar-al-exalcalde-de-Alicante-por-prevaricacion
-      - https://alicantepress.com/art/35492/la-juez-del-caso-comercio-propone-juzgar-al-alcalde-y-los-dos-asesores-por-prevaricacion
-    type: imputación
-
-  - fecha: "2018-04-01"
-    titulo: Gabriel Echávarri dimite como alcalde de Alicante
-    descripcion: Gabriel Echávarri renuncia a su cargo como alcalde de Alicante presionado por su doble imputación judicial (Caso Comercio y caso del despido de una funcionaria interina). Su dimisión marca el fin del gobierno tripartito municipal formado por PSOE, Guanyar y Compromís que había gobernado desde 2015. Echávarri abandona definitivamente la política activa y se dedica a su profesión de abogado.
-    urls:
-      - https://www.eldiario.es/comunitat-valenciana/gabriel-echavarri-pspv-psoe-alicante-dimision_1_2187223.html
-      - https://alicanteplaza.es/echavarri-primer-exalcalde-de-alicante-condenado-a-la-espera-de-brugal
-    type: resumen
-
-  - fecha: "2019-09-01"
-    titulo: Inicio del juicio oral en la Audiencia Provincial de Alicante
-    descripcion: Comienza el juicio oral contra Gabriel Echávarri, Pedro de Gea y Eduardo Lalo Díez en la Sección Tercera de la Audiencia Provincial de Alicante. Durante la vista, el exalcalde niega el fraccionamiento de contratos y defiende la legalidad de las adjudicaciones realizadas. El Ministerio Fiscal solicita penas de inhabilitación para los tres acusados por delito de prevaricación continuada.
-    urls:
-      - https://www.eldiario.es/comunitat-valenciana/alicante/alicante-gabriel-echavarri-fraccionamiento-comercio_1_1331844.html
-      - https://alicanteplaza.es/CasoComercioelprincipiodelfindelaAlcaldasocialistaenAlicantellegaajuicio
-    type: declaración
-
-  - fecha: "2019-10-28"
-    titulo: La Audiencia Provincial condena a Echávarri a 8 años y 6 meses de inhabilitación
-    descripcion: La Audiencia Provincial de Alicante dicta sentencia condenatoria (Sentencia nº 431/2019) contra el exalcalde Gabriel Echávarri por un delito continuado de prevaricación administrativa, imponiéndole una pena de 8 años y 6 meses de inhabilitación para el ejercicio de empleo o cargo público. También condena a Pedro de Gea a 8 años y 6 meses de inhabilitación y a Eduardo Lalo Díez a 7 años de inhabilitación. El tribunal considera probado que los acusados fraccionaron deliberadamente los contratos para evitar los procedimientos de licitación pública.
-    urls:
-      - https://alicanteplaza.es/la-audiencia-condena-a-echavarri-a-8-anos-de-inhabilitacion-por-prevaricacion-en-el-caso-comercio
-      - https://www.publico.es/politica/caso-comercio-exalcalde-socialista-alicante-gabriel-echavarri-condenado-ocho-anos-seis-meses-inhabilitacion-prevaricacion.html
-    type: sentencia
-
-  - fecha: "2020-01-21"
-    titulo: El TSJ aumenta las penas de inhabilitación a 12 años
-    descripcion: El Tribunal Superior de Justicia de la Comunidad Valenciana (TSJCV) aumenta las penas de inhabilitación de Gabriel Echávarri y Pedro de Gea de 8 años y 6 meses a 12 años tras estimar parcialmente el recurso de apelación presentado por la acusación particular. La Sala considera que la gravedad de los hechos y la reiteración en el fraccionamiento justifican un incremento de la pena. Eduardo Lalo Díez mantiene su condena de 7 años de inhabilitación.
-    urls:
-      - https://alicanteplaza.es/el-tsj-ratifica-la-inhabilitacion-a-echavarri-por-el-caso-comercio-y-corrige-la-pena-12-anos
-    type: sentencia
-
-  - fecha: "2022-05-11"
-    titulo: El Tribunal Supremo confirma la condena pero rebaja la pena a 8,5 años
-    descripcion: El Tribunal Supremo dicta sentencia (STS 441/2022) confirmando que Gabriel Echávarri y Pedro de Gea cometieron un delito continuado de prevaricación administrativa en el Caso Comercio. Sin embargo, estima parcialmente sus recursos de casación y reduce la pena de 12 años a 8 años y 6 meses de inhabilitación, al considerar que el aumento de pena realizado por el TSJCV constituía una agravación prohibida por ley cuando no hay recurso del Ministerio Fiscal. El Tribunal Supremo absuelve completamente a Eduardo Lalo Díez, estimando íntegramente su recurso.
-    urls:
-      - https://confilegal.com/20220512-el-ts-confirma-que-el-exalcalde-de-alicante-gabriel-echavarri-prevarico-en-el-caso-comercio-y-en-el-despido-de-una-funcionaria-interina/
-      - https://www.elespanol.com/alicante/20220511/confirman-exalcalde-alicante-psoe-fraccionar-contratos-despedir/671682998_0.html
-      - https://alicanteplaza.es/elsupremoratificalascondenasaechavarriporelcasocomercioyelcasodespidoconpenareducida
-    type: sentencia
+- fecha: '2017-03-06'
+  titulo: Informes municipales sobre las facturas
+  descripcion: Los hechos probados reproducidos por el Supremo recogen tres informes del jefe del Servicio de Comercio
+    a Intervención sobre posibles fraccionamientos de las 25 facturas. Los encargos se realizaron en noviembre y
+    diciembre de 2016; no se asigna un día ficticio al inicio de ese período.
+  type: documento
+  relevancia: media
+  urls:
+  - https://www.icava.org/public/Attachment/2022/6/sts_1649_2022.pdf
+- fecha: '2018-04-09'
+  titulo: Dimisión de Echávarri
+  descripcion: El País fecha la dimisión en el 9 de abril de 2018 y la relaciona con los procedimientos de Comercio
+    y del despido de una funcionaria. Son causas distintas y sus penas no se suman en esta ficha.
+  type: dimisión
+  relevancia: alta
+  urls:
+  - https://elpais.com/ccaa/2018/06/05/valencia/1528221750_076896.html
+- fecha: '2019-10-28'
+  titulo: Sentencia de la Audiencia Provincial
+  descripcion: La sentencia 431/2019 impuso ocho años y seis meses a Echávarri y De Gea y siete a Díez. Se recoge
+    como antecedente en el original del Supremo; no es el resultado definitivo de Díez, posteriormente absuelto.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.icava.org/public/Attachment/2022/6/sts_1649_2022.pdf
+  - https://alicanteplaza.es/la-audiencia-condena-a-echavarri-a-8-anos-de-inhabilitacion-por-prevaricacion-en-el-caso-comercio
+- fecha: '2020-01-21'
+  titulo: El TSJ aumenta las inhabilitaciones
+  descripcion: La sentencia 15/2020 elevó las penas a 12 años para Echávarri y De Gea y a 9 para Díez. La prensa
+    la difundió el 28 de enero. El Supremo posteriormente dejó sin efecto esa agravación, al haber recurrido únicamente
+    los condenados.
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://www.icava.org/public/Attachment/2022/6/sts_1649_2022.pdf
+  - https://alicanteplaza.es/el-tsj-ratifica-la-inhabilitacion-a-echavarri-por-el-caso-comercio-y-corrige-la-pena-12-anos
+- fecha: '2022-05-04'
+  titulo: Resolución de casación y absolución de Díez
+  descripcion: La STS 441/2022 estima parcialmente los recursos de Echávarri y De Gea, repone las penas de ocho
+    años y seis meses y absuelve a Díez. El fallo indica que no cabe recurso. La noticia se difundió el 11 de mayo,
+    fecha distinta de la sentencia.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.icava.org/public/Attachment/2022/6/sts_1649_2022.pdf
+  - https://www.elespanol.com/alicante/20220511/confirman-exalcalde-alicante-psoe-fraccionar-contratos-despedir/671682998_0.html
+  - https://alicanteplaza.es/elsupremoratificalascondenasaechavarriporelcasocomercioyelcasodespidoconpenareducida
 ---
+
+## Hechos y cantidades
+
+Los hechos probados reproducidos en la sentencia del Supremo describen 25 operaciones por 189.762,86 euros. Distinguen nueve contrataciones que excedían la mera irregularidad administrativa, vinculadas a promoción comercial, la Gala de Premios de Comercio y cartelería o señalización de mercados. Se corrige así la referencia anterior a «al menos 14» contratos. La valoración posterior de la prueba y la absolución de Díez impiden seguir atribuyendo a los tres por igual el resultado condenatorio inicial.
+
+El importe global de las operaciones no es una indemnización ni una cuantificación del daño. El relato judicial incluye la memoria municipal que afirmaba que los trabajos y suministros se habían prestado y correspondían a precios de mercado. Se retira el campo coste de 189.762 euros, sin sustituirlo por otro importe ni sumar cifras parciales.
+
+## Evolución de las responsabilidades
+
+La Audiencia condenó a los tres acusados en octubre de 2019. El TSJ elevó las penas en enero de 2020, incluida la de Díez de siete a nueve años. No lo hizo a raíz de una apelación de la acusación particular, como afirmaba la versión anterior. El Supremo anuló la agravación al haber recurrido solo los condenados y repuso ocho años y seis meses para Echávarri y De Gea. La inhabilitación del primero afecta a alcalde, teniente de alcalde o concejal; la del segundo, a asesor o funcionario de una corporación local.
+
+Díez quedó absuelto por insuficiencia de la prueba. El fundamento duodécimo cuestiona la inferencia de culpabilidad respecto a los contratos que se le atribuían: no considera que el mero exceso de un céntimo en una factura baste por sí solo para probar la arbitrariedad penal. La segunda sentencia sustituye expresamente la atribución conjunta de arbitrariedad por la referida a los otros dos condenados.
+
+Esta ficha corresponde al caso Comercio y a la STS 441/2022. La causa del despido de la funcionaria se resolvió separadamente; no se incorpora su pena ni se confunde inhabilitación con prisión. Se retiran las afirmaciones de primacía histórica del caso y de retirada profesional definitiva del exalcalde, que no son necesarias para describir el resultado judicial.
+
+## Documentación y límites
+
+Se ha verificado por GET el PDF de Cendoj alojado por el Colegio de Abogados de Valladolid: 42 páginas, resolución de 4 de mayo de 2022. La creación del archivo el 14 de junio de 2022 no es la fecha judicial. La revisión se centra en el encabezamiento, antecedentes y hechos relevantes, fundamentos sobre la agravación y la absolución y los dos fallos; no se presenta como lectura íntegra de las 42 páginas. El fallo de la segunda sentencia se comprobó también visualmente en la página 41. Las identidades se contrastan en prensa nominal, sin deducir nombres de los pseudónimos del PDF.
+
+El fallo señala que no cabe recurso. La prensa de mayo de 2022 anunciaba que la defensa estudiaría un amparo; ese anuncio no demuestra su presentación o admisión. Faltan documentación de ejecución, liquidación de las inhabilitaciones y comprobación del posible amparo y de novedades hasta el corte del 17 de octubre de 2026. No se inventa una fecha de firmeza ni se equipara la ausencia de resultados de búsqueda con ausencia de actuaciones. La ficha permanece incompleta.
