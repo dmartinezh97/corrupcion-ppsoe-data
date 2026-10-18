@@ -54,7 +54,7 @@ implicados:
     No se atribuye a cada nombre un seudónimo de la copia judicial.
 - nombre: Isabel de Haro
   cargo: Consejera de la agencia IDEA según la información del juicio
-  rol: Absuelto en la sentencia de 16 de enero de 2026. La resolución admitía casación; firmeza posterior no acreditada.
+  rol: Absuelta en la sentencia de 16 de enero de 2026. La resolución admitía casación; firmeza posterior no acreditada.
     No se atribuye a cada nombre un seudónimo de la copia judicial.
 tags:
 - Invercaria
