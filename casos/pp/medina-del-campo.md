@@ -1,84 +1,114 @@
 ---
-nombre: "Medina del Campo"
+nombre: Medina del Campo (caso Rotonda)
 partido: PP
-completado: true
-año: 2010
-fechaInicio: 2008-01-01
-fechaFin: 2015-10-01
-estado: "cerrado con condenas"
-descripcion: |
-  El Caso Medina del Campo, también conocido como el "Caso Rotonda", investigó la adjudicación directa e irregular en 2008 del proyecto de construcción de una rotonda de acceso a la zona industrial de Medina del Campo (Valladolid), por un importe de 324.531 euros, sin haber seguido el preceptivo procedimiento de licitación pública.
+completado: false
+año: 2008
+estado: Condenas y una absolución en 2015
+descripcion: 'El caso Rotonda se refiere a las obras de acceso a la zona industrial de Medina del Campo, cuyo proyecto
+  se aprobó en 2008 y se ejecutó en 2009 sin adjudicación formal pese a haberse iniciado una licitación. El Tribunal
+  Superior de Justicia de Castilla y León intervino por el aforamiento del entonces procurador del PP y exalcalde
+  Crescencio Martín Pascual.
 
-  El exalcalde del PP Crescencio Martín Pascual y el exconcejal de Urbanismo y Obras Javier Rodríguez Herranz fueron investigados por el Tribunal Superior de Justicia de Castilla y León, que asumió la instrucción del caso al ostentar Martín Pascual aforamiento como diputado regional. Según los hechos probados, la rotonda fue ejecutada en 2009 sin completar el procedimiento de licitación obligatorio, y fue adjudicada directamente a la empresa Construcciones Hermanos Sastre, cuyo representante legal, Silicio Sastre, fue también procesado como cooperador necesario.
 
-  En octubre de 2015, Crescencio Martín Pascual llegó a un acuerdo con la Fiscalía del TSJ de Castilla y León y aceptó una condena de un año de prisión por prevaricación administrativa. El exconcejal Javier Rodríguez Herranz fue condenado a ocho meses de inhabilitación por prevaricación y seis meses adicionales por falsificación de documentos. El representante de la constructora fue sancionado con cuatro años y medio de inhabilitación como cooperador necesario. Los tres condenados fueron obligados a abonar conjuntamente una indemnización civil superior a 20.000 euros.
+  Las crónicas del 5 de octubre de 2015 sitúan ese día la sentencia de conformidad: Martín Pascual recibió un año
+  de prisión y ocho de inhabilitación; el exconcejal Francisco Javier Rodríguez Herranz, ocho años de inhabilitación
+  y seis meses de suspensión de cargo público; y el representante de Construcciones Hermanos Sastre, cuatro años
+  y medio de inhabilitación. El director de obra Julián Alonso Chillón fue absuelto tras retirarse la acusación.
+  El acuerdo se había anunciado el 1 de octubre, antes de dictarse la sentencia.
 
-  El caso supuso una condena de la máxima autoridad municipal de uno de los municipios más importantes de Castilla y León, y fue emblema de la corrupción en la contratación de obra pública a nivel local durante los años del ciclo económico expansivo.
-resumen: "El exalcalde del PP de Medina del Campo Crescencio Martín Pascual fue condenado a un año de prisión por adjudicar directamente sin licitación una rotonda de 324.531 euros a una empresa afín en 2008."
-coste: 324531
-lugar: "Medina del Campo, Castilla y León"
+
+  La factura de 324.531,30 euros corresponde al importe de la obra, no al perjuicio acreditado. La prensa informó
+  de una indemnización conjunta de algo menos de 21.000 euros al Ayuntamiento, separada de las costas. No se ha
+  cotejado el fallo original: quedan pendientes su importe exacto, el reparto de responsabilidades, los tipos penales
+  de cada condenado y la firmeza y ejecución individual. Las noticias discrepan en la atribución de los delitos
+  al exalcalde y escriben el nombre del constructor como Siricio o Silicio Sastre. La situación posterior a 2015, hasta el 17 de octubre
+  de 2026, no está documentada suficientemente para dar por cumplidas las penas o pagada la indemnización.'
+resumen: Tres condenas de conformidad y una absolución en 2015 por la ejecución de una rotonda sin adjudicación
+  formal. La firmeza y la ejecución individual siguen pendientes de documentación.
+lugar: Medina del Campo, Valladolid, Castilla y León
 tribunal:
-  - "Tribunal Superior de Justicia de Castilla y León"
-numeroSentencia: ""
+- Tribunal Superior de Justicia de Castilla y León, Sala de lo Civil y Penal
 implicados:
-  - nombre: "Crescencio Martín Pascual"
-    cargo: "Alcalde de Medina del Campo (PP)"
-    rol: "Condenado a un año de prisión por prevaricación administrativa por la adjudicación directa irregular de la rotonda"
-  - nombre: "Javier Rodríguez Herranz"
-    cargo: "Exconcejal de Urbanismo y Obras del Ayuntamiento de Medina del Campo"
-    rol: "Condenado a ocho meses de inhabilitación por prevaricación y seis meses por falsificación de documentos"
-  - nombre: "Silicio Sastre"
-    cargo: "Representante legal de Construcciones Hermanos Sastre"
-    rol: "Condenado a cuatro años y medio de inhabilitación como cooperador necesario en la adjudicación ilegal"
+- nombre: Crescencio Martín Pascual
+  cargo: Alcalde de Medina del Campo entre 1999 y 2011 y posteriormente procurador del PP en las Cortes de Castilla
+    y León
+  rol: Condenado en 2015 a un año de prisión y ocho de inhabilitación, según las crónicas de la conformidad. Europa
+    Press refiere prevaricación y fraude; falta cotejar el fallo y la ejecución.
+- nombre: Francisco Javier Rodríguez Herranz
+  cargo: Exconcejal de Urbanismo y Obras de Medina del Campo
+  rol: Condenado, según EFE el 5 de octubre de 2015, a ocho años de inhabilitación por prevaricación y seis meses
+    de suspensión de cargo público por falsificación de certificado. Ejecución no documentada.
+- nombre: Siricio Sastre
+  cargo: Representante de Construcciones Hermanos Sastre; denominado también Silicio Sastre en las crónicas
+  rol: Condenado a cuatro años y medio de inhabilitación como cooperador necesario en prevaricación, según EFE.
+    Identidad y términos completos pendientes del fallo original.
+- nombre: Julián Alonso Chillón
+  cargo: Ingeniero autor del proyecto y director de la obra
+  rol: Absuelto en la vista del 5 de octubre de 2015, según EFE; las noticias del acuerdo habían informado de la
+    retirada de todos los cargos.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "contratación pública"
-  - "malversación"
-  - "falsificación documental"
-impactoSocial: "La condena del alcalde del municipio cabecera de comarca más importante de la provincia de Valladolid constituyó un fuerte golpe para la imagen del PP en Castilla y León. El caso fue paradigmático de la adjudicación directa de contratos de obra pública sin licitación, práctica habitual en numerosos ayuntamientos durante el boom de la construcción. Los condenados tuvieron que devolver más de 20.000 euros en concepto de responsabilidad civil."
-documentos: null
+- contratación pública
+- prevaricación
+- fraude a la Administración
+- falsificación de certificados
+impactoSocial: El procedimiento examinó las garantías de concurrencia en una obra municipal ejecutada antes de su
+  adjudicación. Las crónicas recogieron condenas para responsables municipales y el constructor, junto con la absolución
+  del director de obra.
+documentos: []
 cronologia:
-  - fecha: 2008-01-01
-    titulo: "Adjudicación directa de la rotonda sin licitación"
-    descripcion: "El Ayuntamiento de Medina del Campo, gobernado por el PP bajo la alcaldía de Crescencio Martín Pascual, adjudica directamente el proyecto de construcción de la rotonda de acceso a la zona industrial a Construcciones Hermanos Sastre por 324.531 euros, sin seguir el preceptivo procedimiento de concurso público."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Medina+del+Campo&numero=168"
-  - fecha: 2009-01-01
-    titulo: "Ejecución de las obras de la rotonda"
-    descripcion: "La empresa Construcciones Hermanos Sastre ejecuta las obras de la rotonda en el kilómetro 2,5 de la carretera C-112 de Olmedo a Medina del Campo, sin que el procedimiento de licitación haya sido completado conforme a la ley."
-    type: "investigación"
-    relevancia: "media"
-    urls: []
-  - fecha: 2010-03-01
-    titulo: "Querella criminal por falsificación, tráfico de influencias y fraude"
-    descripcion: "Se presenta querella criminal contra el alcalde Crescencio Martín Pascual, dos concejales del PP y el secretario del Ayuntamiento por presuntos delitos de falsificación de documento público, tráfico de influencias y fraude en la adjudicación del contrato."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "http://www.lavozdemedinadigital.com/wordpress/2010/03/promueven-una-querella-criminal-contra-el-alcalde-dos-concejales-del-pp-y-el-secretario-del-ayuntamiento-por-presuntos-delitos-de-falsificacion-de-documento-publico-trafico-de-influencias-y-fraude/"
-  - fecha: 2013-05-01
-    titulo: "El juez imputa a Martín Pascual, dos concejales y cinco exediles"
-    descripcion: "El juzgado imputa formalmente al alcalde Crescencio Martín Pascual, al concejal Javier Rodríguez Herranz y a otros cinco exediles del PP por su participación en la adjudicación directa ilegal."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "http://www.lavozdemedinadigital.com/wordpress/2013/05/medina-del-campo-martin-pascual-dos-concejales-y-cinco-ex-ediles-imputados-por-el-juez/"
-  - fecha: 2015-02-01
-    titulo: "El TSJCyL mantiene la imputación"
-    descripcion: "El Tribunal Superior de Justicia de Castilla y León desestima los recursos y mantiene la imputación a Crescencio Martín Pascual, al ostentar aforamiento como diputado regional."
-    type: "juicio"
-    relevancia: "media"
-    urls:
-      - "https://www.eldiadevalladolid.com/Noticia/Z6231A11B-CE9A-921C-996EDE401AE9C4FE/201502/El-TSJCyL-mantiene-la-imputacion-a-Crescencio-Martin-por-el-caso-Rotonda"
-  - fecha: 2015-10-01
-    titulo: "Acuerdo con la Fiscalía y condena aceptada"
-    descripcion: "Crescencio Martín Pascual alcanza un acuerdo con la Fiscalía del TSJ de Castilla y León y acepta una condena de un año de prisión por prevaricación. El exconcejal Javier Rodríguez Herranz es condenado a ocho meses de inhabilitación por prevaricación y seis meses por falsificación de documentos. El representante de la constructora recibe cuatro años y medio de inhabilitación. Los tres condenados deben abonar conjuntamente más de 20.000 euros."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiadevalladolid.com/noticia/Z3CDF2905-A9ED-38C6-DB3FAD5E96950C2B/20151001/crescencio/martin/pascual/acepta/condena/a%C3%B1o/caso/rotonda"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Medina+del+Campo&numero=168"
+- fecha: '2009-12-30'
+  titulo: La Junta de Gobierno autoriza el pago de la obra
+  descripcion: Según el relato de la investigación publicado por Europa Press en enero y marzo de 2015, la Junta
+    de Gobierno presidida por Martín Pascual autorizó el pago de la factura de 324.531,30 euros pese a informes
+    municipales contrarios. La obra se había ejecutado sin adjudicación formal.
+  urls:
+  - https://www.europapress.es/castilla-y-leon/noticia-exalcalde-medina-crescencio-martin-pascual-declara-tscjcyl-prevaricacion-20150121144710.html
+  - https://www.europapress.es/castilla-y-leon/noticia-apertura-juicio-tsjcyl-contra-martin-pascual-otros-tres-adjudicar-dedo-rotona-medina-20150312144511.html
+  type: investigacion
+  relevancia: alta
+- fecha: '2015-01-21'
+  titulo: Martín Pascual declara como imputado ante el TSJ
+  descripcion: Europa Press informa de su declaración ese día y de la del representante de la constructora. El tribunal
+    había asumido la instrucción por su condición de aforado. La imputación no constituye una condena.
+  urls:
+  - https://www.europapress.es/castilla-y-leon/noticia-exalcalde-medina-crescencio-martin-pascual-declara-tscjcyl-prevaricacion-20150121144710.html
+  type: imputacion
+  relevancia: alta
+- fecha: '2015-03-12'
+  titulo: Se conoce un auto que mantiene la tramitación contra cuatro personas
+  descripcion: 'Fecha de publicación de Europa Press: el instructor desestima recursos de reforma contra el auto
+    de 23 de febrero y señala al TSJ como órgano de enjuiciamiento. La apelación directa de Martín Pascual se remite
+    a la Sala; no se presenta como ya resuelta.'
+  urls:
+  - https://www.europapress.es/castilla-y-leon/noticia-apertura-juicio-tsjcyl-contra-martin-pascual-otros-tres-adjudicar-dedo-rotona-medina-20150312144511.html
+  type: recurso
+  relevancia: alta
+- fecha: '2015-10-01'
+  titulo: Se anuncia el acuerdo de conformidad
+  descripcion: La prensa informa del acuerdo con la Fiscalía que debía ratificarse en la vista prevista para el
+    5 de octubre. También anuncia la retirada de cargos contra el director de obra. No es la fecha de la sentencia.
+  urls:
+  - https://www.diariodevalladolid.es/valladolid/provincia/151001/206339/ex-alcalde-medina-acepta-1-ano-carcel-caso-rotonda.html
+  - https://www.cyltv.es/Noticia/3A658074-9F19-F946-DF85EF7294D23531/El-exalcalde-de-Medina-del-Campo-acepta-un-ano-de-carcel-por-el-caso-de-la-rotonda
+  type: juicio
+  relevancia: alta
+- fecha: '2015-10-05'
+  titulo: Tres condenas de conformidad y absolución del director de obra
+  descripcion: Las crónicas de la vista ante el TSJ recogen un año de prisión y ocho de inhabilitación para Martín
+    Pascual; ocho años de inhabilitación y seis meses de suspensión para Rodríguez; cuatro años y medio de inhabilitación
+    para el constructor; y absolución de Julián Alonso. EFE informa de indemnización conjunta de casi 21.000 euros
+    y costas. Falta cotejar el fallo original, firmeza y ejecución.
+  urls:
+  - https://www.europapress.es/castilla-y-leon/noticia-tsjcyl-impone-ano-carcel-ocho-inhabilitacion-excalde-medina-caso-rotonda-20151005124756.html
+  - https://www.lavanguardia.com/politica/20151005/54437887182/condenado-a-un-ano-de-carcel-por-prevaricacion-el-exalcalde-medina-del-campo.html
+  type: sentencia
+  relevancia: alta
 ---
+
+El procedimiento se centra en la rotonda de acceso a la zona industrial, en la carretera entre Medina del Campo y Olmedo. Las informaciones sobre la instrucción distinguen la aprobación del proyecto en noviembre de 2008 del inicio de las obras en 2009. Describen una licitación con varias ofertas que no culminó en adjudicación formal antes de ejecutar y facturar los trabajos. Por ello no corresponde afirmar que nunca se inició procedimiento de licitación.
+
+La conformidad anunciada el 1 de octubre se llevó a la vista del 5 de octubre de 2015. Las noticias posteriores a la vista recogen tres condenas y la absolución del director de obra. La crónica de EFE da ocho años de inhabilitación para Rodríguez, frente a los seis anticipados por Diario de Valladolid antes de la vista. Europa Press vincula la condena del exalcalde a prevaricación y fraude, mientras EFE distribuye las penas entre prevaricación y falsedad. Sin el texto judicial no puede darse por resuelta esa discrepancia ni atribuir prisión exclusivamente a la prevaricación.
+
+El importe de la factura, 324.531,30 euros, se mantiene separado de la indemnización anunciada de casi 21.000 euros. La obligación conjunta no se multiplica por cada condenado, ni equivale a acreditar su pago. Tampoco se convierte una previsión periodística de que el exalcalde evitaría ingresar en prisión en una resolución de suspensión efectivamente dictada. No se dispone de documentación suficiente sobre firmeza, recursos o cumplimiento individual posterior.
+
+Fuentes: [investigación y declaración de enero de 2015](https://www.europapress.es/castilla-y-leon/noticia-exalcalde-medina-crescencio-martin-pascual-declara-tscjcyl-prevaricacion-20150121144710.html), [tramitación conocida en marzo](https://www.europapress.es/castilla-y-leon/noticia-apertura-juicio-tsjcyl-contra-martin-pascual-otros-tres-adjudicar-dedo-rotona-medina-20150312144511.html), [acuerdo anunciado el 1 de octubre](https://www.cyltv.es/Noticia/3A658074-9F19-F946-DF85EF7294D23531/El-exalcalde-de-Medina-del-Campo-acepta-un-ano-de-carcel-por-el-caso-de-la-rotonda), [crónica de Europa Press del 5 de octubre](https://www.europapress.es/castilla-y-leon/noticia-tsjcyl-impone-ano-carcel-ocho-inhabilitacion-excalde-medina-caso-rotonda-20151005124756.html) y [crónica de EFE sobre condenas y absolución](https://www.lavanguardia.com/politica/20151005/54437887182/condenado-a-un-ano-de-carcel-por-prevaricacion-el-exalcalde-medina-del-campo.html).
