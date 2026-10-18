@@ -55,6 +55,8 @@ cronologia:
       - "https://www.publico.es/actualidad/supremo-confirma-absoluciones-caso-seat.html"
 ---
 
+El año de referencia, 1993, corresponde a la difusión de los hechos y su denuncia, según los antecedentes y la prensa; los pagos examinados se produjeron en 1988.
+
 La prensa del 8 de julio de 2009 identifica nominalmente a Álvarez, Mangana y García Barbeira y recoge la prescripción del cohecho, además de la absolución por falsedad y maquinaciones para alterar precios. No se deducen sus identidades de los pseudónimos del PDF de CENDOJ.
 
 El Supremo no consideró probada la ilegalidad del contenido de los informes urbanísticos ni que se hubiese alterado indebidamente su tramitación. Por ello se retira la presentación de una recalificación irregular acreditada como descripción global del caso. La intermediación y distribución de dinero descritas judicialmente tampoco autorizan a afirmar que todo el importe ingresara en el PSOE.
