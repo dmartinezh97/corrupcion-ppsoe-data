@@ -1,103 +1,117 @@
 ---
-nombre: "Caso Turismo Joven"
+nombre: Caso Turismo Joven
 partido: PP
-completado: true
+completado: false
 año: 2008
-fechaInicio: 2003-01-01
-fechaFin: 2011-12-31
-estado: "cerrado con condenas"
-descripcion: |
-  El Caso Turismo Joven, también conocido como Caso Consorcio Turisme Jove, constituye una investigación de corrupción que destapó un desvío de más de un millón de euros en fondos públicos a través del Consorcio de Turismo Joven de las Islas Baleares durante la última legislatura de Jaume Matas como presidente del Govern Balear (2003-2007). La trama de corrupción provocó la quiebra técnica de la institución pública y afectó gravemente al proyecto del albergue juvenil de Sa Vinyeta en Ciutadella (Menorca), presupuestado en 2,3 millones de euros, del que solo se llegaron a pagar unos 500.000 euros, quedando una deuda de 1,8 millones de euros tanto al Consell de Menorca como a las empresas constructoras.
+estado: cerrado con condenas
+descripcion: 'El caso Turisme Jove investigó la gestión del consorcio público juvenil de Baleares durante la etapa
+  2003–2007. La sentencia 8/2014, de 13 de enero, de la Sección Primera de la Audiencia Provincial de Palma impuso
+  condenas por conformidad a doce personas y absolvió a Miguel Rigo Sastre. La causa principal no terminó en 2011,
+  como indicaba la ficha anterior.
 
-  El caso salió a la luz en agosto de 2008 cuando la Conselleria de Juventud y Deportes detectó irregularidades en la gestión del Consorcio durante el segundo mandato de Matas. Los Servicios Jurídicos del Govern iniciaron una investigación que posteriormente fue trasladada a la Fiscalía. La investigación reveló que los responsables del consorcio cobraron comisiones por la adjudicación de contratos y crearon empresas interpuestas expresamente para defraudar a la administración, obteniendo de fondos públicos el reembolso de gastos personales mediante facturas fraudulentas.
 
-  Los doce acusados en el juicio llegaron a un acuerdo de conformidad con la Fiscalía Anticorrupción, aceptando sus responsabilidades penales. Juan Francisco Gálvez, director general del consorcio, y Damián Amengual, gerente de la institución, fueron condenados a 3 años de prisión, mientras que Juan Francisco Gosálbez, jefe de servicios, fue condenado a 3 años y 7 meses. Todos se declararon culpables de delitos de malversación de caudales públicos, fraude a la Administración y prevaricación administrativa. En el caso de Amengual y Gosálbez se añadió además el delito de cohecho. Los otros nueve acusados recibieron penas menores sin ingreso en prisión.
+  Juan Francisco Gálvez Díaz, exdirector general de Juventud, y Damián Amengual Aloy, exgerente del consorcio, recibieron
+  penas de prisión resumidas en tres años cada uno; Juan Francisco Gosálbez Rodríguez, exjefe de Servicios, recibió
+  tres años y siete meses. El fallo distribuye individualmente los delitos, penas, multas, comisos y responsabilidades
+  civiles: no todos responden por los mismos hechos ni deben sumarse sus inhabilitaciones como períodos sucesivos.
 
-resumen: "Desvío de más de un millón de euros en el Consorcio de Turismo Joven de Baleares durante la etapa de Jaume Matas"
-coste: 3000000
-lugar: "Baleares, España"
+
+  Jaume Matas fue juzgado por separado y absuelto de prevaricación, malversación y falsedad mercantil, según anunció
+  el Poder Judicial el 10 de abril de 2019. En 2025 se documenta además una controversia sobre rehabilitación funcionarial,
+  distinta de la culpabilidad penal. Quedan pendientes los originales completos de la pieza de 2019 y de las revisiones
+  y ejecuciones, así como el seguimiento hasta el 17 de octubre de 2026.'
+resumen: Condenas por conformidad en enero de 2014 por la gestión de Turisme Jove, con responsabilidades individuales.
+  Matas fue absuelto en una pieza posterior en 2019; ejecución y revisiones pendientes de completar.
+lugar: Illes Balears
 tribunal:
-  - "Juzgado de Instrucción de Palma de Mallorca"
-  - "Fiscalía Anticorrupción"
-numeroSentencia: ""
+- Audiencia Provincial de Palma, Sección Primera (causa principal)
+- Audiencia Provincial de Balears, Sección Segunda (pieza de Matas)
+- Juzgado de Instrucción número 6 de Palma (instrucción principal)
+numeroSentencia: Sentencia 8/2014, de 13 de enero; rollo 65/2012; origen 2256/2008
 implicados:
-  - nombre: "Juan Francisco Gálvez"
-    cargo: "Director general del Consorcio Turismo Joven"
-    rol: "Condenado a 3 años de prisión por malversación, fraude a la Administración y prevaricación"
-
-  - nombre: "Damián Amengual"
-    cargo: "Gerente del Consorcio Turismo Joven"
-    rol: "Condenado a 3 años de prisión por malversación, fraude, prevaricación y cohecho"
-
-  - nombre: "Juan Francisco Gosálbez"
-    cargo: "Jefe de servicios del Consorcio Turismo Joven"
-    rol: "Condenado a 3 años y 7 meses de prisión por malversación, fraude, prevaricación y cohecho"
-
-  - nombre: "Jaume Matas"
-    cargo: "Presidente del Govern Balear (2003-2007)"
-    rol: "Relacionado con el caso por el período en que ocurrieron los hechos durante su legislatura"
-
+- nombre: Juan Francisco Gálvez Díaz
+  cargo: Exdirector general de Juventud del Govern balear
+  rol: Condenado en la causa principal de 2014 por malversación, prevaricación, falsedad mercantil y fraude. Tres
+    años de prisión según resumen periodístico; revisión posterior de inhabilitación y rehabilitación funcionarial
+    diferenciadas.
+- nombre: Damián Amengual Aloy
+  cargo: Exgerente del Consorcio Turisme Jove
+  rol: Condenado en 2014 por malversación, prevaricación, falsedad mercantil, fraude y cohecho; tres años de prisión
+    según resumen periodístico y multa de 100.000 euros por cohecho.
+- nombre: Juan Francisco Gosálbez Rodríguez
+  cargo: Exjefe de Servicios del Consorcio Turisme Jove
+  rol: Condenado en 2014 por malversación, prevaricación, falsedad mercantil, fraude y cohecho; tres años y siete
+    meses de prisión según resumen periodístico y multa de 11.000 euros por cohecho.
+- nombre: Jaume Matas
+  cargo: Expresidente del Govern balear (PP)
+  rol: Absuelto en la pieza separada anunciada el 10 de abril de 2019. Su presidencia durante los hechos no implica
+    responsabilidad por las condenas de otros.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "fraude"
-  - "prevaricación"
-  - "cohecho"
-  - "tráfico de influencias"
-
-impactoSocial: "El Caso Turismo Joven se suma a la larga lista de casos de corrupción vinculados a la época de Jaume Matas en el Govern Balear, contribuyendo al descrédito del PP en las Islas Baleares. El caso evidenció cómo un consorcio público dedicado a fomentar el turismo juvenil fue utilizado como instrumento para el enriquecimiento personal de sus gestores mediante un sistema de comisiones ilegales y facturas fraudulentas. La quiebra técnica del consorcio y el abandono del proyecto del albergue juvenil de Sa Vinyeta dejaron importantes deudas a empresas constructoras y al Consell de Menorca, afectando a la oferta de alojamiento juvenil en las islas. El acuerdo de conformidad alcanzado permitió reducir significativamente las penas solicitadas inicialmente por la Fiscalía."
-
-documentos: []
-
+- malversación
+- fraude
+- prevaricación
+- cohecho
+- falsedad mercantil
+documentos:
+- fecha: '2014-01-13'
+  titulo: Sentencia 8/2014 de la Audiencia Provincial de Palma. Copia judicial del caso Turisme Jove alojada en
+    Última Hora
+  filetype: pdf
+  paginas: 45
+  nombre_fichero: https://www.ultimahora.es/sfAttachPlugin/159479.pdf
 cronologia:
-  - fecha: 2003-01-01
-    titulo: "Inicio del período de los hechos durante la legislatura de Jaume Matas"
-    descripcion: "Durante la segunda legislatura de Jaume Matas como presidente del Govern Balear (2003-2007), se inicia el período en el que se producen las irregularidades en el Consorcio de Turismo Joven. Los responsables del consorcio comienzan a establecer un sistema de adjudicaciones fraudulentas y cobro de comisiones ilegales a cambio de contratos públicos."
-    type: "investigation"
-    urls: []
-    relevancia: "media"
-
-  - fecha: 2003-06-01
-    titulo: "Inicio del proyecto del albergue juvenil de Sa Vinyeta"
-    descripcion: "Se pone en marcha el proyecto de construcción del albergue juvenil de Sa Vinyeta en Ciutadella (Menorca), presupuestado en 2,3 millones de euros. El proyecto debía ser financiado por el Consorcio de Turismo Joven, pero las irregularidades en la gestión provocarán que solo se paguen unos 500.000 euros del total presupuestado, dejando una deuda de 1,8 millones de euros al Consell de Menorca y a las empresas constructoras."
-    type: "investigation"
-    urls: []
-    relevancia: "media"
-
-  - fecha: 2008-08-01
-    titulo: "Detección de irregularidades por la Conselleria de Juventud"
-    descripcion: "La Conselleria de Juventud y Deportes del Govern Balear detecta graves irregularidades en la gestión del Consorcio de Turismo Joven durante la legislatura de Jaume Matas. Los Servicios Jurídicos del Govern inician una investigación interna que revela un posible desvío de más de un millón de euros en fondos públicos, así como la quiebra técnica de la institución. El caso es trasladado a la Fiscalía para su investigación penal."
-    type: "investigation"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Turismo+Joven&numero=95"
-    relevancia: "alta"
-
-  - fecha: 2009-01-01
-    titulo: "Apertura de diligencias judiciales"
-    descripcion: "La Fiscalía Anticorrupción abre diligencias de investigación sobre las irregularidades detectadas en el Consorcio de Turismo Joven. La investigación se centra en documentar el sistema de comisiones ilegales, la creación de empresas interpuestas para defraudar a la administración, y el reembolso fraudulento de gastos personales mediante fondos públicos. Se investiga a los principales responsables del consorcio y a empresarios beneficiarios de las adjudicaciones irregulares."
-    type: "investigation"
-    urls: []
-    relevancia: "media"
-
-  - fecha: 2010-06-01
-    titulo: "Procesamiento de los doce acusados"
-    descripcion: "El juez instructor procesa a doce personas relacionadas con la trama de corrupción del Consorcio de Turismo Joven. Entre los procesados se encuentran Juan Francisco Gálvez (director general), Damián Amengual (gerente), Juan Francisco Gosálbez (jefe de servicios), y nueve acusados más, incluyendo funcionarios y empresarios. La Fiscalía Anticorrupción solicita penas de hasta 12 años de prisión para los principales responsables por delitos de malversación, fraude, prevaricación y cohecho."
-    type: "investigation"
-    urls: []
-    relevancia: "alta"
-
-  - fecha: 2011-01-01
-    titulo: "Acuerdo de conformidad con la Fiscalía Anticorrupción"
-    descripcion: "Los doce acusados en el caso Turismo Joven alcanzan un acuerdo de conformidad con la Fiscalía Anticorrupción, por el cual aceptan declararse culpables de los delitos de malversación de caudales públicos, fraude a la Administración y prevaricación administrativa. En el caso de Damián Amengual y Juan Francisco Gosálbez se añade el delito de cohecho. El acuerdo permite reducir significativamente las penas solicitadas inicialmente, evitando un juicio largo y complejo."
-    type: "trial"
-    urls: []
-    relevancia: "alta"
-
-  - fecha: 2011-12-31
-    titulo: "Sentencia condenatoria por conformidad"
-    descripcion: "Se dicta sentencia condenatoria en el caso Turismo Joven tras el acuerdo de conformidad alcanzado. Juan Francisco Gálvez, director general del consorcio, y Damián Amengual, gerente, son condenados a 3 años de prisión cada uno. Juan Francisco Gosálbez, jefe de servicios, recibe una condena de 3 años y 7 meses de prisión. Los otros nueve acusados reciben penas menores sin ingreso en prisión. Todos los condenados quedan inhabilitados para el ejercicio de cargos públicos. La sentencia pone fin a uno de los múltiples casos de corrupción vinculados a la etapa de Jaume Matas en el Govern Balear."
-    type: "sentence"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Turismo+Joven&numero=95"
-    relevancia: "alta"
+- fecha: '2008-08-15'
+  titulo: Información sobre medidas cautelares
+  descripcion: RTVE informó de prisión provisional sin fianza para Gosálbez, libertad bajo fianza para Amengual
+    y libertad con cargos para Gálvez. Se trata de medidas de instrucción, no de condenas. Fecha de publicación.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://www.rtve.es/noticias/20080815/el-juez-dicta-prision-incondicional-para-gosalvez-pero-deja-libre-al-ex-director-de-juventud/136570.shtml
+- fecha: '2014-01-13'
+  titulo: Sentencia por conformidad en la causa principal
+  descripcion: La sentencia 8/2014 condenó a doce personas y absolvió a Miguel Rigo Sastre. Incluye penas individualizadas
+    y sustitución de prisión por multa para otros condenados. La prensa la difundió el 17 de enero.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.ultimahora.es/sfAttachPlugin/159479.pdf
+  - https://www.lavanguardia.com/local/islas-baleares/20140117/54398218861/la-audiencia-condena-a-los-acusados-de-turisme-jove-a-hasta-3-anos-y-7-meses-de-carcel-por-desviar.html
+- fecha: '2019-04-10'
+  titulo: Anuncio de absolución de Matas en pieza separada
+  descripcion: El Poder Judicial anunció la absolución por dudas sobre su culpabilidad. La nota no es el original
+    de la sentencia ni acredita su fecha exacta o firmeza; la prensa indicó que cabía casación.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/portal/site/cgpj/menuitem.65d2c4456b6ddb628e635fc1dc432ea0/?perfil=1&vgnextchannel=958e825dd79f0310VgnVCM1000006f48ac0aRCRD&vgnextfmt=default&vgnextlocale=en&vgnextoid=f6ec39782470a610VgnVCM1000006f48ac0aRCRD
+  - https://www.ultimahora.es/noticias/local/2019/04/10/1071741/audiencia-absuelve-matas-caso-turisme-jove.html
+- fecha: '2025-04-08'
+  titulo: Auto sobre rehabilitación funcionarial
+  descripcion: El ATC 32/2025 inadmitió la cuestión 7351-2024 por corresponder al órgano judicial aplicar la norma
+    estatal prevalente. El auto cita la sentencia penal 8/2014 y una revisión de inhabilitación de julio de 2015.
+    No concede automáticamente rehabilitación ni revisa la culpabilidad penal.
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://hj.tribunalconstitucional.es/es/Resolucion/Show/31527
+  - https://www.ultimahora.es/noticias/local/2025/02/08/2321829/corrupcion-balears-decide-rehabilita-funcionario-condenado.html
 ---
+
+## Responsabilidades y cantidades
+
+La sentencia principal contiene condenas individuales y una absolución expresa de Miguel Rigo Sastre. En su fallo figuran, entre otras, indemnizaciones de 18.957,25 euros a la Red Española de Albergues Juveniles y 19.723 euros al consorcio por facturas distintas, con obligados y responsabilidades subsidiarias diferentes. No se agregan estas cantidades ni los comisos y multas como un daño único.
+
+Se retira el coste de tres millones de euros, sin respaldo judicial identificado. También se retiran la supuesta deuda de Sa Vinyeta y su presupuesto: no se han revalidado los expedientes que permitirían distinguir obra, pagos, deuda y perjuicio penal. La referencia histórica a más de un millón investigado no sustituye una liquidación de responsabilidad civil.
+
+## Pieza separada y evolución posterior
+
+La absolución de Matas en 2019 se refiere a su posible intervención en una orden de pago; no anula las condenas de otros acusados. Su firmeza y eventuales recursos no se han comprobado.
+
+Última Hora identificó nominalmente a Gálvez al informar en febrero de 2025 sobre su solicitud de rehabilitación funcionarial. El ATC 32/2025, que anonimiza al interesado y cita la sentencia 8/2014, documenta que un auto del tribunal sentenciador de 17 de julio de 2015 sustituyó la inhabilitación absoluta de diez años por una especial de ocho. No se atribuye esa modificación al Supremo ni se deduce la identidad solo de iniciales. El Constitucional resolvió una cuestión de aplicación de normas sobre rehabilitación, sin ordenar por sí mismo el reingreso. Queda pendiente la resolución contenciosa posterior y el original de revisión penal.
+
+## Límites documentales
+
+Se obtuvo una copia escaneada de la sentencia principal alojada en Última Hora, con fecha judicial comprobada visualmente de 13 de enero de 2014. El archivo tiene 45 páginas PDF y su última hoja lleva numeración impresa 46: requiere cotejo con la copia completa de la sede judicial. Se leyeron la identificación y el fallo mediante OCR, no todos los hechos y fundamentos. La fecha de creación del archivo, 17 de enero de 2014, corresponde a su preparación o difusión.
+
+La resolución de absolución de 2019 enlazada por el Poder Judicial redirige a un acceso bloqueado; no se incorpora como PDF. Los originales de ejecución, pagos y eventuales recursos siguen pendientes. La búsqueda hasta el corte del 17 de octubre de 2026 no demuestra ausencia de novedades.
