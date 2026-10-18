@@ -1,103 +1,145 @@
 ---
-nombre: "Caso Salmón"
+nombre: Caso Salmón
 partido: PP
-completado: true
+completado: false
 año: 2008
-fechaInicio: 2008-08-11
-fechaFin: "2009-05-21"
-estado: "sobreseimiento"
-descripcion: |
-  El Caso Salmón recibe su nombre del viaje de pesca de salmón que el empresario noruego Björn Lyng, dueño del complejo turístico Anfi del Mar en Mogán (Gran Canaria), ofreció en el verano de 2005 a José Manuel Soria López, entonces presidente del Cabildo de Gran Canaria y dirigente del PP en Canarias. El viaje, realizado en el avión privado de Lyng, incluyó una parada en Salzburgo (Austria) para asistir al Festival de Música y otra en Trondheim (Noruega) para la pesca del salmón. El problema político y jurídico radicó en que, en esas mismas fechas, el Cabildo que presidía Soria estaba tramitando a favor de Lyng la declaración de interés general del proyecto urbanístico que su empresa pretendía construir en el barranco de La Verga, en el municipio de Mogán, operación necesaria para que el Parlamento y el Gobierno de Canarias autorizasen el proyecto como excepción a la moratoria turística entonces vigente.
+fechaInicio: '2008-08-11'
+estado: Archivo confirmado en 2009
+descripcion: 'El caso investigó los viajes de José Manuel Soria López y su familia a Austria y Noruega en agosto
+  de 2005, invitados a utilizar el avión arrendado por el empresario Bjorn Lyng, relacionado con el Grupo Anfi.
+  La denuncia vinculaba esa invitación con la tramitación del proyecto turístico Anfi Tauro por el Cabildo de Gran
+  Canaria, que Soria presidía. Esa relación delictiva fue denunciada, pero no quedó acreditada por la instructora.
 
-  El caso fue denunciado formalmente el 11 de agosto de 2008 por el periodista Carlos Sosa Báez, director del medio Canarias Ahora, ante el Tribunal Superior de Justicia de Canarias (TSJC). La Fiscalía Anticorrupción de Las Palmas, en su informe, llegó a apreciar la comisión de un delito de cohecho impropio por parte de Soria, pero consideró que la acción penal había prescrito al haber transcurrido más de tres años desde la realización del viaje. También estaba imputado Manuel Fernández González, diputado regional y secretario general del PP en Canarias, por un presunto delito de negociaciones prohibidas a funcionarios públicos, al haber solicitado compatibilizar su cargo de diputado con funciones de representación y asesoramiento para varias empresas, entre ellas el Grupo Anfi.
 
-  El 21 de mayo de 2009, la magistrada instructora del TSJC, Margarita Varona, decretó el sobreseimiento y archivo de las diligencias previas al considerar que los hechos denunciados no eran constitutivos de delito. Varona argumentó que la aceptación del viaje no podía considerarse cohecho porque la invitación habría surgido de forma espontánea y no premeditada, y que tampoco quedaba acreditado el delito de negociaciones prohibidas imputado a Fernández. La asociación de juristas Justicia y Sociedad, que ejercía la acusación popular, recurrió el auto sin éxito. El caso fue posteriormente utilizado por el propio Mariano Rajoy como ejemplo de "persecución a un inocente", y Soria continuó su carrera política hasta verse forzado a dimitir como ministro de Industria, Energía y Turismo en 2016 por su aparición en los Papeles de Panamá.
+  El auto de 21 de mayo de 2009 decretó el sobreseimiento y archivo por considerar que los hechos no constituían
+  los delitos denunciados. Rechazó que la invitación integrara cohecho y tampoco apreció el delito de negociaciones
+  prohibidas atribuido por la querella a Manuel Fernández González, diputado y asesor de empresas del grupo. Consideró
+  acreditado que Lyng pagaba el uso del avión y que Soria y su esposa abonaron los demás gastos y los vuelos regulares
+  de regreso. No declaró que todo el viaje fuera gratuito ni que Soria hubiera pagado el avión privado.
 
-resumen: "José Manuel Soria, presidente del PP canario, aceptó un viaje en jet privado a Austria y Noruega del empresario Björn Lyng mientras el Cabildo tramitaba proyectos favorables a su empresa"
-coste: 0
-lugar: "Gran Canaria, Canarias"
+
+  Justicia y Sociedad recurrió. El 17 de julio de 2009 Europa Press informó de la confirmación íntegra del archivo
+  por el TSJC y de que la resolución era firme. La crónica extensa de esa fecha distingue el criterio de la Fiscalía,
+  favorable al archivo por prescripción en relación con Soria, del de la Sala, que no apreció delito y consideró
+  que, de haberse cometido, no estaría prescrito. Falta cotejar el texto original de esta resolución de apelación,
+  su fecha exacta y los informes fiscales; la documentación posterior hasta el 17 de octubre de 2026 no está revisada
+  exhaustivamente. No se afirma un procedimiento abierto por esas lagunas ni se atribuye a Lyng, ya fallecido durante
+  la instrucción, condición de imputado.'
+resumen: Investigación sobre viajes de Soria en el avión utilizado por un empresario turístico. El TSJC archivó
+  por inexistencia de delito en 2009 y la prensa informó de la confirmación firme del archivo.
+lugar: Gran Canaria, Canarias
 tribunal:
-  - "Tribunal Superior de Justicia de Canarias (TSJC) - Sala de lo Civil y Penal - Magistrada instructora Margarita Varona"
-numeroSentencia: ""
+- Tribunal Superior de Justicia de Canarias, Sala de lo Civil y Penal
 implicados:
-  - nombre: "José Manuel Soria López"
-    cargo: "Presidente del Cabildo de Gran Canaria (2003-2007), Vicepresidente del Gobierno de Canarias (2007-2010), Ministro de Industria, Energía y Turismo (2011-2016)"
-    rol: "Imputado por cohecho impropio; caso archivado por prescripción del delito"
-
-  - nombre: "Manuel Fernández González"
-    cargo: "Diputado regional del PP en Canarias y Secretario General del PP canario"
-    rol: "Imputado por negociaciones prohibidas a funcionarios; caso archivado por falta de pruebas"
-
-  - nombre: "Björn Lyng"
-    cargo: "Empresario noruego, propietario del complejo turístico Anfi del Mar (Mogán, Gran Canaria)"
-    rol: "Investigado como presunto inductor al cohecho por financiar el viaje a Soria"
-
+- nombre: José Manuel Soria López
+  cargo: Presidente del Cabildo de Gran Canaria durante el viaje; diputado autonómico y vicepresidente del Gobierno
+    canario durante la investigación
+  rol: Denunciado por cohecho en concurso con prevaricación e investigado por el viaje. Sobreseimiento por inexistencia
+    de delito el 21 de mayo de 2009; confirmado en apelación según la prensa de julio. No archivo judicial por prescripción.
+- nombre: Manuel Fernández González
+  cargo: Diputado autonómico del PP y representante y asesor de empresas vinculadas al Grupo Anfi
+  rol: Querellado por negociaciones prohibidas a funcionarios públicos. El auto de mayo rechazó ese delito y archivó
+    las actuaciones; la prensa informó de la confirmación en julio.
+- nombre: Bjorn Lyng
+  cargo: Empresario noruego relacionado con el Grupo Anfi
+  rol: Anfitrión que abonaba el avión arrendado en el que invitó a viajar a Soria. Fallecido antes de concluir la
+    instrucción; no consta en el auto como querellado ni se le atribuye aquí condición de investigado.
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "tráfico de influencias"
-  - "sobreseimiento"
-  - "Canarias"
-
-impactoSocial: "El caso generó una importante controversia política en Canarias al coincidir el viaje con la tramitación de un proyecto urbanístico favorecido por el Cabildo que presidía Soria. Aunque fue archivado, puso de manifiesto la opacidad en las relaciones entre cargos del PP canario y el sector empresarial turístico. El propio Rajoy lo usó como bandera de 'persecución a inocentes', pero el hecho de que el fiscal anticorrupción apreciara el delito —aunque prescrito— alimentó el debate sobre la impunidad de los aforados."
-
-documentos: []
-
+- cohecho
+- negociaciones prohibidas
+- sobreseimiento
+- Canarias
+impactoSocial: El procedimiento suscitó un debate sobre invitaciones de empresarios a responsables públicos y posibles
+  conflictos de intereses. Las valoraciones políticas y las tesis de las acusaciones deben distinguirse del archivo
+  judicial por no apreciar delito.
+documentos:
+- fecha: '2009-05-21'
+  titulo: Auto de la instructora del TSJ de Canarias que decreta el sobreseimiento y archivo del caso Salmón (copia
+    difundida en repositorio privado)
+  filetype: pdf
+  paginas: 15
+  nombre_fichero: https://www.losgenoveses.net/Personajes%20Populares/Jose%20Manuel%20Soria/documentos/Caso%20Salmon.%20Sobreseimiento.21.05.09.pdf
 cronologia:
-  - fecha: "2005-08-01"
-    titulo: "El viaje: Salzburgo y pesca de salmón en Noruega"
-    descripcion: "En el verano de 2005, Björn Lyng, propietario del complejo turístico Anfi del Mar en Mogán (Gran Canaria), invita a José Manuel Soria —presidente del Cabildo de Gran Canaria— a viajar en su avión privado junto a sus respectivas parejas y al hijo mayor de Soria. El itinerario incluye Salzburgo (Austria) para asistir a un concierto del Festival de Música, y Trondheim (Noruega) para practicar la pesca del salmón. En ese mismo período, el Cabildo presidido por Soria está tramitando a favor de Lyng la declaración de interés general de un macroproyecto urbanístico en el barranco de La Verga (Mogán), necesaria para que el proyecto reciba autorización como excepción a la moratoria turística canaria. El viaje no fue declarado ni su coste asumido por las arcas públicas."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/canariasahora/politica/soria-oculto-juez-viajo-noruega_1_5713064.html"
-      - "https://www.eldiario.es/canariasahora/politica/polemicas-vacaciones-jose-manuel-soria_1_2532462.html"
-
-  - fecha: "2008-08-11"
-    titulo: "Denuncia formal ante el TSJC"
-    descripcion: "El periodista Carlos Sosa Báez, director del medio digital Canarias Ahora, presenta una denuncia formal ante el Tribunal Superior de Justicia de Canarias acusando a José Manuel Soria de un presunto delito de cohecho. La denuncia se presenta tres años y pocos días después del viaje, justo antes de que se cumpliera el plazo de prescripción de tres años para el delito de cohecho impropio. La asociación de juristas Justicia y Sociedad presenta poco después una querella criminal complementaria añadiendo a Manuel Fernández González como investigado por negociaciones prohibidas a funcionarios públicos. El TSJC admite a trámite las diligencias en octubre de 2008 y nombra instructora a la magistrada Margarita Varona."
-    type: "denuncia"
-    urls:
-      - "https://vozgrancanaria.blogia.com/2008/120505--justicia-y-sociedad-pone-una-querella-por-delito-de-cohecho-contra-jos-manuel.php"
-      - "https://www.teldeactualidad.com/hemeroteca/noticia/grancanaria/2009/5/21/282.html"
-
-  - fecha: "2008-10-06"
-    titulo: "La Fiscalía Anticorrupción aprecia cohecho pero lo declara prescrito"
-    descripcion: "La Fiscalía Anticorrupción de Las Palmas emite informe en el que aprecia que los hechos denunciados contra José Manuel Soria podrían ser constitutivos de un delito de cohecho impropio. Sin embargo, el fiscal Luis del Río considera que el delito ha prescrito porque, según la doctrina constitucional vigente (STC 29/2008), para interrumpir la prescripción no basta con la presentación de la denuncia o querella, sino que se requiere una resolución judicial que la admita a trámite; como la admisión judicial se produjo en octubre de 2008 —más de tres años después del viaje de 2005—, el fiscal concluye que la acción penal ha prescrito. A pesar de ello, la Fiscalía no pide el archivo y mantiene su acusación respecto de los hechos en sí."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/canariasahora/politica/aprecia-cohecho-Soria-prescrito-delito_0_90641682.html"
-      - "https://www.eldiario.es/canariasahora/argumentos-soria-rechazados-supremo-camps_1_2449883.html"
-
-  - fecha: "2009-05-21"
-    titulo: "El TSJC archiva el Caso Salmón"
-    descripcion: "La magistrada instructora del TSJC, Margarita Varona, dicta auto decretando el sobreseimiento libre y el archivo de las diligencias previas del Caso Salmón. Varona determina que la aceptación del viaje por parte de Soria no puede considerarse cohecho porque la invitación habría surgido de forma espontánea por iniciativa del músico Justus Franz —amigo de Lyng—, sin que existiera una relación de contraprestación probada con la tramitación del proyecto urbanístico. Respecto a Manuel Fernández, la magistrada considera que tampoco quedó acreditado el delito de negociaciones prohibidas a funcionarios públicos, ya que el diputado se abstuvo de participar en la comisión parlamentaria que dictaminó sobre el proyecto de Lyng, cumpliendo así la cláusula ética de su contrato de asesoramiento. La resolución puede ser recurrida."
-    type: "sentencia"
-    urls:
-      - "https://www.teldeactualidad.com/hemeroteca/noticia/grancanaria/2009/5/21/282.html"
-      - "https://www.canarias7.es/hemeroteca/caso_salmon_la_actuacion_de_soria_y_manuel_fernandez_fue_legal-CFCSN129795"
-
-  - fecha: "2009-06-01"
-    titulo: "Justicia y Sociedad anuncia recurso contra el archivo"
-    descripcion: "La asociación de juristas Justicia y Sociedad, que ejercía la acusación popular en el caso, anuncia públicamente su intención de recurrir el auto de archivo dictado por la magistrada Varona. La asociación discrepa con la conclusión sobre la prescripción del cohecho y considera que el archivo es prematuro dado que el fiscal anticorrupción sí había apreciado la existencia del delito en su informe. También discrepan de la interpretación de la magistrada sobre el carácter espontáneo de la invitación al viaje. El recurso es finalmente desestimado y el sobreseimiento queda firme, cerrando definitivamente el caso desde el punto de vista judicial."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/canariasahora/politica/Justicia-Sociedad-discrepa-prescripcion-Soria_0_81192655.html"
-      - "https://www.teldeactualidad.com/hemeroteca/noticia/grancanaria/2009/5/21/282.html"
-
-  - fecha: "2012-12-22"
-    titulo: "Soria nombrado ministro de Industria, Energía y Turismo"
-    descripcion: "A pesar de los antecedentes del Caso Salmón, José Manuel Soria es nombrado ministro de Industria, Energía y Turismo en el Gobierno de Mariano Rajoy, cargo que desempeñará hasta abril de 2016. Su nombramiento se produce sin que exista ningún obstáculo judicial, dado que el caso había sido archivado. Durante su etapa como ministro, el propio Rajoy utilizó el Caso Salmón como ejemplo de la 'persecución política y judicial' que, a su juicio, sufrían los miembros del PP. El nombramiento de Soria como ministro evidenció cómo el sobreseimiento del caso no afectó en absoluto a su carrera política dentro del partido."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/canariasahora/politica/Rajoy-Soria-ejemplo-persecucion-inocente_0_159934900.html"
-      - "https://www.eldiario.es/canariasahora/politica/jose-manuel-soria-papeles-de-panama-caso-salmon-caos-isolux-caso-chalet-caso-eolico_1_4056921.html"
-
-  - fecha: "2016-04-07"
-    titulo: "Soria dimite como ministro por los Papeles de Panamá"
-    descripcion: "José Manuel Soria presenta su dimisión como ministro de Industria, Energía y Turismo tras ser vinculado con sociedades offshore en los Papeles de Panamá. La dimisión se produce después de varios días de contradicciones públicas sobre su relación con una empresa panameña, UK Lines Ltd, en la que su hermano también aparece mencionado. El escándalo de los Papeles de Panamá saca a la luz otros episodios polémicos de la carrera de Soria, entre ellos el Caso Salmón, que vuelve a ser recordado por los medios como parte de un patrón de comportamiento. La dimisión de Soria cierra su carrera política nacional, aunque sigue activo en otros ámbitos institucionales."
-    type: "resumen"
-    urls:
-      - "https://www.elblogsalmon.com/economia/soria-el-escandalo-economico-que-le-obligo-a-dimitir"
-      - "https://www.eldiario.es/canariasahora/politica/jose-manuel-soria-papeles-de-panama-caso-salmon-caos-isolux-caso-chalet-caso-eolico_1_4056921.html"
-
+- fecha: '2008-08-11'
+  titulo: Presentación de la denuncia de Carlos Sosa
+  descripcion: El auto de mayo de 2009 fecha la denuncia de Carlos Sosa Báez contra Soria por supuesto cohecho en
+    concurso con prevaricación. Las imputaciones del denunciante no son hechos delictivos probados.
+  urls:
+  - https://www.losgenoveses.net/Personajes%20Populares/Jose%20Manuel%20Soria/documentos/Caso%20Salmon.%20Sobreseimiento.21.05.09.pdf
+  type: denuncia
+  relevancia: alta
+- fecha: '2008-10-08'
+  titulo: Admisión a trámite de la denuncia
+  descripcion: Tras el registro y la incoación de diligencias el 1 de septiembre y el informe fiscal presentado
+    el 3 de octubre, la instructora declara la competencia de la Sala y admite la denuncia. La providencia del 6
+    de octubre designaba instructora; no declaraba prescrito un delito.
+  urls:
+  - https://www.losgenoveses.net/Personajes%20Populares/Jose%20Manuel%20Soria/documentos/Caso%20Salmon.%20Sobreseimiento.21.05.09.pdf
+  type: investigacion
+  relevancia: alta
+- fecha: '2008-11-26'
+  titulo: Declaraciones de Soria y Fernández
+  descripcion: El auto documenta las declaraciones judiciales de ambos y de la esposa de Lyng. No equivale a apertura
+    de juicio oral ni a condena.
+  urls:
+  - https://www.losgenoveses.net/Personajes%20Populares/Jose%20Manuel%20Soria/documentos/Caso%20Salmon.%20Sobreseimiento.21.05.09.pdf
+  type: imputacion
+  relevancia: alta
+- fecha: '2008-12-05'
+  titulo: Querella de Justicia y Sociedad
+  descripcion: La asociación presenta querella por cohecho contra Soria y por negociaciones prohibidas contra Fernández.
+    Su personación en ejercicio de la acción popular se acuerda el 14 de enero de 2009.
+  urls:
+  - https://www.losgenoveses.net/Personajes%20Populares/Jose%20Manuel%20Soria/documentos/Caso%20Salmon.%20Sobreseimiento.21.05.09.pdf
+  type: denuncia
+  relevancia: alta
+- fecha: '2009-05-21'
+  titulo: Sobreseimiento y archivo por la instructora
+  descripcion: Margarita Varona Faus decreta el sobreseimiento al no apreciar los delitos denunciados. El auto indica
+    expresamente que todavía no es firme y que cabe recurso. Considera acreditados el pago del avión por Lyng y
+    el de los demás gastos por Soria y su esposa.
+  urls:
+  - https://www.losgenoveses.net/Personajes%20Populares/Jose%20Manuel%20Soria/documentos/Caso%20Salmon.%20Sobreseimiento.21.05.09.pdf
+  - https://elpais.com/elpais/2009/05/21/actualidad/1242893830_850215.html
+  type: resolucion
+  relevancia: alta
+- fecha: '2009-05-28'
+  titulo: Justicia y Sociedad recurre el archivo
+  descripcion: La acusación popular solicita nulidad y continuación por los trámites del Tribunal del Jurado, alegando
+    infracciones procesales. Es un recurso de la acusación, no la decisión que lo resuelve.
+  urls:
+  - https://www.eldiario.es/canariasahora/politica/justicia-sociedad-nulidad-archivo-infraccion_1_4496323.html
+  - https://www.europapress.es/islas-canarias/noticia-tribunales-anticorrupcion-pide-confirmar-archivo-caso-salmon-rechaza-recurso-nulidad-20090616154855.html
+  type: recurso
+  relevancia: alta
+- fecha: '2009-06-16'
+  titulo: Se conoce la petición fiscal de confirmar el archivo
+  descripcion: Europa Press informa, citando un comunicado de la Fiscalía General del Estado, de que Anticorrupción
+    pide confirmar el archivo y rechaza la nulidad por no haberse incoado procedimiento de jurado. La Fiscalía no
+    es el órgano que decide el recurso.
+  urls:
+  - https://www.europapress.es/islas-canarias/noticia-tribunales-anticorrupcion-pide-confirmar-archivo-caso-salmon-rechaza-recurso-nulidad-20090616154855.html
+  type: recurso
+  relevancia: alta
+- fecha: '2009-07-17'
+  titulo: Se conoce la confirmación del archivo en apelación
+  descripcion: 'Fecha de publicación: Europa Press informa de la desestimación del recurso y confirmación íntegra
+    del archivo, sin expresa imposición de costas, y afirma que la resolución es firme. Canarias Ahora refiere que
+    la Sala rechazó la prescripción sostenida por el fiscal respecto de Soria. Falta el original de apelación para
+    verificar su fecha de emisión y el texto completo.'
+  urls:
+  - https://www.europapress.es/nacional/noticia-tsjc-archiva-definitivamente-caso-salmon-estaba-imputado-presidente-pp-canarias-20090717162958.html
+  - https://www.eldiario.es/canariasahora/politica/carpetazo-definitivo-caso-salmon_1_5622089.html
+  type: recurso
+  relevancia: alta
 ---
+
+Los desplazamientos ocurrieron en agosto de 2005; no se asigna al inicio del viaje un día que no consta. El auto relata una primera visita a Salzburgo, regreso a Gran Canaria y posterior desplazamiento a Noruega. La familia Soria regresó el 27 de agosto en vuelos regulares. La invitación comprendió el uso del avión que Lyng arrendaba y pagaba; la instructora consideró acreditado que los gastos restantes se abonaron con cargo a Soria y su esposa.
+
+La hipótesis de que el viaje remuneraba un favor urbanístico fue el objeto de la denuncia, no la conclusión judicial. La instructora valoró que Soria no participó en el Consejo de Gobierno del Cabildo del 20 de octubre de 2005 y que no se acreditaron gestiones suyas ante los técnicos. En relación con Fernández, valoró la compatibilidad concedida para sus actividades privadas y su ausencia de las sesiones sobre el proyecto Anfi Tauro. Por esos razonamientos descartó los delitos y archivó; no dictó una sentencia condenatoria ni acordó el archivo por prescripción.
+
+La apelación de Justicia y Sociedad fue desestimada según las crónicas del 17 de julio de 2009. Europa Press informó de la firmeza de esa resolución. La noticia extensa distingue ese pronunciamiento del criterio de la Fiscalía sobre la prescripción; no cabe convertir el informe fiscal en una declaración judicial de culpabilidad. Queda pendiente el texto original de apelación y la comprobación directa de los informes fiscales, sin que ello convierta en provisional el archivo descrito por las fuentes.
+
+No se dispone de una cuantificación de perjuicio público derivada de esta causa. Los gastos privados del viaje, el valor del proyecto turístico y las fianzas procesales no se suman como daño. Los nombramientos y la dimisión ministerial de Soria por asuntos posteriores quedan fuera del objeto de este procedimiento.
+
+Fuentes: [auto de 21 de mayo de 2009, copia PDF](https://www.losgenoveses.net/Personajes%20Populares/Jose%20Manuel%20Soria/documentos/Caso%20Salmon.%20Sobreseimiento.21.05.09.pdf), [crónica de El País sobre el archivo](https://elpais.com/elpais/2009/05/21/actualidad/1242893830_850215.html), [posición fiscal conocida el 16 de junio](https://www.europapress.es/islas-canarias/noticia-tribunales-anticorrupcion-pide-confirmar-archivo-caso-salmon-rechaza-recurso-nulidad-20090616154855.html), [confirmación y firmeza según Europa Press](https://www.europapress.es/nacional/noticia-tsjc-archiva-definitivamente-caso-salmon-estaba-imputado-presidente-pp-canarias-20090717162958.html) y [crónica extensa de la apelación](https://www.eldiario.es/canariasahora/politica/carpetazo-definitivo-caso-salmon_1_5622089.html).
