@@ -3,8 +3,6 @@ nombre: Caso Parking Las Calcosas
 partido: PP
 completado: false
 año: 1999
-fechaInicio: '1999-07-01'
-fechaFin: '2013-07-19'
 estado: condenas confirmadas en casación
 descripcion: 'Compra municipal de una parcela de 5.000 metros cuadrados en el Pozo de Las Calcosas, Valverde, para
   aparcamientos y equipamientos. El TSJC condenó en enero de 2013 a Agustín Padrón Benítez, alcalde y diputado autonómico
@@ -20,8 +18,8 @@ descripcion: 'Compra municipal de una parcela de 5.000 metros cuadrados en el Po
 
   La sentencia de instancia es del 4 de enero de 2013, aunque se difundió el día 15. La renuncia de Padrón como
   diputado consta en el Parlamento el 18 de enero, sin equipararla con el anuncio de su dimisión municipal. La revisión
-  no ha recuperado los originales de ambas sentencias ni una certificación de firmeza o de ejecución; se apoya en
-  una transcripción judicial, prensa contemporánea y el registro parlamentario, con las discrepancias detalladas
+  ha recuperado el original del Supremo, pero no el original separado del TSJC ni una certificación de firmeza
+  o de ejecución. Se apoya además en prensa contemporánea y el registro parlamentario, con las discrepancias detalladas
   en el cuerpo.'
 resumen: Condenas por prevaricación y malversación en la compra del terreno para aparcamientos de Las Calcosas,
   confirmadas por el Supremo en julio de 2013; una concejala absuelta por prescripción.
@@ -56,7 +54,12 @@ tags:
 impactoSocial: La condena afectó a la continuidad política del alcalde y diputado. El caso permite distinguir las
   garantías y la justificación del gasto municipal de la mera necesidad vecinal de disponer de aparcamientos, y
   la responsabilidad de cada acusado de la adscripción política de otros participantes.
-documentos: []
+documentos:
+- fecha: '2013-07-19'
+  titulo: 'STS 629/2013: desestimación de la casación de Las Calcosas (ROJ STS 4108/2013)'
+  filetype: pdf
+  paginas: 14
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6a2a9409ad40e96d&encode=true&databasematch=AN
 cronologia:
 - fecha: '1999-07-01'
   titulo: Formalización de la compra
@@ -107,15 +110,15 @@ cronologia:
 
 ## Cuantías y penas
 
-La tasación y el precio de la compra son datos distintos de la indemnización. El fallo de instancia reproducido en la transcripción del Supremo fija **71.820,945 euros para cada uno** de los dos condenados, con responsabilidad solidaria por el impago de la cuota del otro y un tercio de las costas a cargo de cada uno. La precisión de tres decimales se conserva como figura en esa transcripción, sin inventar un redondeo de ejecución. No son dos condenas adicionales por el precio completo del terreno: se retira el coste heredado de 365.414 euros, que duplicaba aproximadamente ese precio. No se suman costas, precio, subvenciones y responsabilidad civil como daño público.
+La tasación y el precio de la compra son datos distintos de la indemnización. El fallo de instancia reproducido en el original del Supremo fija **71.820,945 euros para cada uno** de los dos condenados, con responsabilidad solidaria por el impago de la cuota del otro y un tercio de las costas a cargo de cada uno. La precisión de tres decimales se conserva como figura en ese original, sin inventar un redondeo de ejecución. No son dos condenas adicionales por el precio completo del terreno: se retira el coste heredado de 365.414 euros, que duplicaba aproximadamente ese precio. No se suman costas, precio, subvenciones y responsabilidad civil como daño público.
 
-El relato publicado en enero de 2013 por Europa Press atribuye a León cuatro años de inhabilitación por prevaricación. La transcripción del fallo de instancia, en cambio, en ese apartado menciona suspensión de empleo o cargo público, y separadamente impone cuatro años y dos meses de inhabilitación absoluta. Se deja visible la diferencia, sin inventar su conciliación ni confundir la suspensión del cargo con la suspensión del ingreso en prisión. Tampoco se suman las distintas inhabilitaciones como si fueran una pena única.
+El relato publicado en enero de 2013 por Europa Press atribuye a León cuatro años de inhabilitación por prevaricación. El fallo de instancia reproducido por el Supremo, en cambio, en ese apartado menciona suspensión de empleo o cargo público, y separadamente impone cuatro años y dos meses de inhabilitación absoluta. Se deja visible la diferencia, sin inventar su conciliación ni confundir la suspensión del cargo con la suspensión del ingreso en prisión. Tampoco se suman las distintas inhabilitaciones como si fueran una pena única.
 
 Las identidades se contrastaron en prensa nominativa contemporánea: Padrón Benítez y la concejala Manuela Padrón Hernández en Gomeranoticias, y León Quintero en Europa Press. La crónica de Diario de Avisos identifica a León con AHI, por lo que no se atribuye al PP a todos los condenados. Los nombres ficticios empleados en la transcripción judicial no se utilizan para completar identidades.
 
 ## Alcance y evolución
 
-Revisión a 17 de octubre de 2026. Se consultaron encabezamiento, antecedentes y fallo de instancia reproducido y parte de los fundamentos y fallo de casación de la transcripción de la STS629/2013 en vLex, no los originales íntegros. El enlace oficial CENDOJ redirigió a un destino que devolvió 403. Se leyeron los cuerpos completos de las noticias contemporáneas de Europa Press, Gomeranoticias y Diario de Avisos y la entrada parlamentaria de renuncia. Se mantiene `documentos: []` porque no se recuperaron originales judiciales verificables.
+Revisión con corte de 17 de octubre de 2026. Se ha recuperado por GET200 el original CENDOJ de la STS 629/2013, de 19 de julio (ROJ STS 4108/2013; recurso 261/2013), de 14 páginas. Se leyeron de forma dirigida las páginas PDF 1–3, 7–8 y 14 completas: identificación, primeros antecedentes, fallo de instancia reproducido y fallo de casación. No se declara lectura íntegra de los fundamentos ni de todos los antecedentes. La generación del PDF el 18 de octubre de 2026 no altera la fecha judicial ni acredita la fecha de publicación. Continúa pendiente el original separado de la sentencia del TSJC. Se leyeron asimismo los cuerpos completos de las noticias contemporáneas de Europa Press, Gomeranoticias y Diario de Avisos y la entrada parlamentaria de renuncia.
 
 Las búsquedas sobre posibles absoluciones, archivos, recursos e indultos posteriores no localizaron una resolución que modificase estas condenas. Esto no acredita su inexistencia ni una ejecución concluida. La ficha no afirma firmeza por el mero silencio informativo ni que el caso estuviera definitivamente cerrado en julio de 2013. No se han comprobado incidentes de nulidad, amparo, liquidación de condena, suspensión de prisión ni pago efectivo de las indemnizaciones.
 
