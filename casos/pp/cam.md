@@ -69,7 +69,7 @@ implicados:
 - nombre: María Dolores Amorós
   cargo: Directora general de la CAM (2011)
   rol: Condenada por falsedad de cuentas a un año y seis meses de prisión y multa de ocho meses a 50 euros/día (STS
-    369/2019). Absuelta en Hansa Urbana según Europa Press, enero de  2021; firmeza de esta última y ejecución penal
+    369/2019). Absuelta en Hansa Urbana según Europa Press, enero de 2021; firmeza de esta última y ejecución penal
     no verificadas.
 - nombre: Teófilo Sogorb
   cargo: Director general del Área de Planificación y Control de la CAM (cargo histórico)
@@ -82,7 +82,7 @@ implicados:
 - nombre: Daniel Gil Mallebrera
   cargo: Exdirector general de Empresas de la CAM
   rol: Condenado en Valfensal-Caribe a dos años de prisión y cinco de inhabilitación bancaria (STS 436/2023). Absuelto
-    en Hansa Urbana según Europa Press, enero de  2021; firmeza de esta última y ejecución penal no verificadas.
+    en Hansa Urbana según Europa Press, enero de 2021; firmeza de esta última y ejecución penal no verificadas.
 - nombre: Antonio Gil-Terrón
   cargo: Vicepresidente de la CAM y miembro de la comisión de retribuciones (cargo histórico)
   rol: 'Condenado por apropiación indebida agravada en dietas: el Supremo rebajó la prisión a un año y fijó multa
@@ -141,7 +141,7 @@ documentos:
   paginas: 77
   nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=d037b03162cca979a0a8778d75e36f0d&encode=true&databasematch=TS
 - fecha: '2025-09-08'
-  titulo: 'Auto443/2025: continuación de las diligencias24/2015'
+  titulo: 'Auto 443/2025: continuación de las diligencias 24/2015'
   filetype: pdf
   paginas: 9
   nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a65eaa56f28cfa75a0a8778d75e36f0d&encode=true&databasematch=AN
@@ -188,7 +188,7 @@ cronologia:
 - fecha: '2021-01-19'
   titulo: Se conoce la absolución de Hansa Urbana
   descripcion: Europa Press informa de la absolución de Amorós, Gil Mallebrera, Vicente Sánchez Asencio y Rafael
-    Galea. Rechazó la reclamación de 35,7 millones delFGD. Fecha de publicación; original y firmeza posterior no
+    Galea. Rechazó la reclamación de 35,7 millones del FGD. Fecha de publicación; original y firmeza posterior no
     comprobados.
   type: sentencia
   urls:
@@ -204,7 +204,7 @@ cronologia:
   - https://cadenaser.com/ser/2021/04/19/tribunales/1618823557_266273.html
 - fecha: '2023-04-24'
   titulo: Apertura de juicio oral en operaciones inmobiliarias
-  descripcion: El auto 443/2025 acredita apertura de juicio oral de 24 abril 2023 enDP 24/2015. ElMundo informó
+  descripcion: El auto 443/2025 acredita apertura de juicio oral de 24 abril 2023 en DP 24/2015. El Mundo informó
     el 25 de fianza 620 millones y Fiscalía favorable a absolución. Sin resultado posterior contrastado.
   type: juicio
   urls:
@@ -228,7 +228,7 @@ cronologia:
   - https://castellonplaza.com/castellonplaza/empresas2/la-audiencia-nacional-anula-sanciones-del-banco-de-espana-a-exdirectivos-de-la-cam-por-haber-prescrito
 - fecha: '2025-09-08'
   titulo: La Audiencia rechaza el recurso contra la continuación de otra pieza
-  descripcion: 'Auto 443/2025,DP 24/2015: confirma la continuación del procedimiento y reserva el fondo para el
+  descripcion: 'Auto 443/2025, DP 24/2015: confirma la continuación del procedimiento y reserva el fondo para el
     juicio. La firmeza y archivo del rollo de apelación no archivan la causa. No se identifica nominalmente al recurrente
     anonimizado.'
   type: recurso
@@ -236,8 +236,8 @@ cronologia:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a65eaa56f28cfa75a0a8778d75e36f0d&encode=true&databasematch=AN
 - fecha: '2026-09-25'
   titulo: Se conoce una nueva restitución civil a la Fundación Mediterráneo
-  descripcion: Expansión/EFE publica una sentencia de 21 septiembre del Tribunal de Instancia de Alicante,plaza
-    14:5.826.899,21 euros más intereses, cifra periodística global de unos 6,5 millones. Era recurrible en 20 días;
+  descripcion: Expansión/EFE publica una sentencia de 21 septiembre del Tribunal de Instancia de Alicante, plaza
+    14, por 5.826.899,21 euros más intereses, cifra periodística global de unos 6,5 millones. Era recurrible en 20 días;
     la intención de no recurrir no acredita firmeza. Se distingue de otra resolución anterior que la noticia describe
     firme el 17 junio.
   type: sentencia
@@ -247,8 +247,8 @@ cronologia:
 
 Los originales del Supremo permiten separar los resultados: [falseo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=b86115ffd4101629&encode=true&databasematch=TS), [dietas](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=c90217857e4a1db9&encode=true&databasematch=TS) y [Valfensal-Caribe](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=d037b03162cca979a0a8778d75e36f0d&encode=true&databasematch=TS). Las absoluciones de unos delitos no eliminan las condenas de otras piezas. La identificación nominal se contrasta con RTVE, SER y Europa Press; no se asignan nombres a seudónimos por semejanza.
 
-En Valfensal-Caribe, el fallo y sus aclaraciones obligan a descontar 12.528.392 euros de los 28 millones de responsabilidad civil. El límite asegurado de Caser forma parte de la cobertura de esa deuda, no se añade como otra pérdida. El informe delFGD 2023, páginas PDF 51 y 53, registra las ayudas financieras y las recuperaciones: no determina un daño penal global.
+En Valfensal-Caribe, el fallo y sus aclaraciones obligan a descontar 12.528.392 euros de los 28 millones de responsabilidad civil. El límite asegurado de Caser forma parte de la cobertura de esa deuda, no se añade como otra pérdida. El informe del FGD 2023, páginas PDF 51 y 53, registra las ayudas financieras y las recuperaciones: no determina un daño penal global.
 
-El [auto de septiembre de 2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a65eaa56f28cfa75a0a8778d75e36f0d&encode=true&databasematch=AN) se refiere aDP 24/2015 y enumera operaciones como NyesaPirineos, Emporio delMediterráneo y Hueznar. Confirma la continuación, con Fiscalía que no se opuso al recurso; no decide culpabilidad. El archivo definitivo del rollo de apelación que ordena su dispositivo se limita a ese recurso. Faltan el resultado posterior de esa causa y la ejecución de las restantes condenas.
+El [auto de septiembre de 2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a65eaa56f28cfa75a0a8778d75e36f0d&encode=true&databasematch=AN) se refiere a DP 24/2015 y enumera operaciones como Nyesa Pirineos, Emporio del Mediterráneo y Hueznar. Confirma la continuación, con Fiscalía que no se opuso al recurso; no decide culpabilidad. El archivo definitivo del rollo de apelación que ordena su dispositivo se limita a ese recurso. Faltan el resultado posterior de esa causa y la ejecución de las restantes condenas.
 
-La [restitución civil publicada en 2026](https://www.expansion.com/empresas/banca/2026/09/25/6ab6b592468aeb117c8b459b.html) distingue principal, intereses y otra resolución anterior. No se transforma el anuncio de acatarla en prueba de firmeza ni se suma a las ayudas de reestructuración. Los originales de esa sentencia, las sanciones administrativas y HansaUrbana siguen pendientes de comprobación.
+La [restitución civil publicada en 2026](https://www.expansion.com/empresas/banca/2026/09/25/6ab6b592468aeb117c8b459b.html) distingue principal, intereses y otra resolución anterior. No se transforma el anuncio de acatarla en prueba de firmeza ni se suma a las ayudas de reestructuración. Los originales de esa sentencia, las sanciones administrativas y Hansa Urbana siguen pendientes de comprobación.
