@@ -18,7 +18,7 @@ descripcion: 'El Hospital Puerta de Hierro de Majadahonda fue objeto de procedim
   en el procedimiento sobre las licencias, cuya firmeza no se ha verificado.
 
   En la vía contenciosa, una sentencia del TSJ de Madrid de 16 de abril de 2026 desestimó el recurso de la
-  concesionaria contra el reequilibrio aprobado en 2022. La transcripción consultada prevé casación. No se
+  concesionaria contra el reequilibrio aprobado en 2022. El original consultado prevé casación. No se
   acredita aquí un daño penal de 30 millones ni el cierre firme de todos los procedimientos. Faltan originales
   judiciales y comprobaciones de recursos posteriores.'
 resumen: 'Procedimientos sobre las 135 camas suprimidas, el contrato y las licencias del Hospital Puerta de
@@ -54,7 +54,12 @@ tags:
 impactoSocial: El caso planteó la fiscalización del contrato hospitalario y las obligaciones municipales de
   control. Las sospechas iniciales deben distinguirse de los hechos penalmente probados y de los resultados
   de cada procedimiento.
-documentos: []
+documentos:
+- fecha: '2026-04-16'
+  titulo: Sentencia 260/2026 del TSJ de Madrid sobre el reequilibrio de la concesión
+  filetype: pdf
+  paginas: 19
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c3e6487b156f1bf3a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
 - fecha: '2005-04-18'
   titulo: Formalización del contrato hospitalario
@@ -62,7 +67,7 @@ cronologia:
     diferencia de la adjudicación.
   type: resumen
   urls:
-  - https://www.iberley.es/jurisprudencia/sentencia-contencioso-administrativo-tribunal-superior-justicia-sala-lo-contencioso-administrativo-seccion-tercera-16-4-26-1840747504
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c3e6487b156f1bf3a0a8778d75e36f0d&encode=true&databasematch=AN
 - fecha: '2008-05-28'
   titulo: Orden de cambio sobre las camas
   descripcion: La información judicial de enero de 2023 identifica la ODC 44 de esta fecha, relativa al cambio
@@ -73,8 +78,8 @@ cronologia:
   - https://www.elconfidencialdigital.com/articulo/ultima-hora/justicia-cierra-caso-puerta-hierro-levantar-acusacion-exalto-cargo-esperanza-aguirre/20230117153257505932.html
 - fecha: '2022-01-13'
   titulo: Se publica una estimación económica de casi 30 millones
-  descripcion: 'elDiario.es atribuyó a fuentes de la Comunidad una estimación de 29.705.262,20 euros: 11.385.672,09
-    por 2013–2021 y 18.319.590,11 proyectados para 2022–2035. No se identifica como daño penal probado ni como
+  descripcion: 'elDiario.es atribuyó a fuentes de la Comunidad una estimación de 29.705.262,20 euros: aproximadamente 11,3 millones
+    por 2013–2021 y 18,3 millones proyectados para 2022–2035. No se identifica como daño penal probado ni como
     suma íntegramente pagada.'
   type: resumen
   urls:
@@ -93,7 +98,7 @@ cronologia:
     de abril de 2026.
   type: resumen
   urls:
-  - https://www.iberley.es/jurisprudencia/sentencia-contencioso-administrativo-tribunal-superior-justicia-sala-lo-contencioso-administrativo-seccion-tercera-16-4-26-1840747504
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c3e6487b156f1bf3a0a8778d75e36f0d&encode=true&databasematch=AN
 - fecha: '2022-04-12'
   titulo: Publicado el archivo provisional respecto de Vidart
   descripcion: The Objective informa del sobreseimiento provisional y archivo parcial acordado por el Juzgado
@@ -121,17 +126,19 @@ cronologia:
 - fecha: '2026-04-16'
   titulo: El TSJ desestima el recurso de la concesionaria
   descripcion: 'Sentencia 260/2026, ECLI:ES:TSJM:2026:4983: declara conforme a derecho el reequilibrio de 2022.
-    Consultada su transcripción en Iberley; original de CENDOJ bloqueado. Prevé recurso de casación, sin firmeza
+    Original de CENDOJ recuperado y contrastados encabezamiento, antecedentes y fallo. Prevé recurso de casación, sin firmeza
     posterior comprobada.'
   type: sentencia
   urls:
-  - https://www.iberley.es/jurisprudencia/sentencia-contencioso-administrativo-tribunal-superior-justicia-sala-lo-contencioso-administrativo-seccion-tercera-16-4-26-1840747504
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c3e6487b156f1bf3a0a8778d75e36f0d&encode=true&databasematch=AN
 ---
 
 La revisión distingue el procedimiento penal sobre el contrato del procedimiento municipal sobre licencias y de los recursos administrativos. [The Objective](https://theobjective.com/espana/tribunales/2022-04-12/esperanza-aguirre-hospital-puerta-hierro/) identifica nominalmente el archivo de Vidart de 2022. La información de [Europa Press de enero de 2023](https://www.elconfidencialdigital.com/articulo/ultima-hora/justicia-cierra-caso-puerta-hierro-levantar-acusacion-exalto-cargo-esperanza-aguirre/20230117153257505932.html) recoge el archivo provisional de De Mingo; su valoración sobre firmeza se atribuye a esa noticia, sin convertir el archivo en absolución.
 
 La [crónica de Europa Press de julio de 2025](https://www.europapress.es/madrid/noticia-absuelto-exalcalde-majadahonda-delito-urbanistico-hospital-puerta-hierro-20250717152228.html), que afirma haber accedido a la sentencia, explica que los indicios de conducta delictiva municipal no quedaron probados en el juicio. No permite afirmar que esta fuese la última causa abierta ni acreditar su firmeza.
 
-Los casi 30 millones publicados en 2022 eran una estimación histórica con pagos futuros, no un daño penal certificado. La [sentencia contenciosa de 2026, transcrita en Iberley](https://www.iberley.es/jurisprudencia/sentencia-contencioso-administrativo-tribunal-superior-justicia-sala-lo-contencioso-administrativo-seccion-tercera-16-4-26-1840747504), añade una resolución posterior sobre el reequilibrio; no se dispone de una liquidación actual completa de la concesión.
+[Majadahonda Magazin](https://majadahondamagazin.es/la-jueza-absuelve-al-ex-alcalde-de-majadahonda-narciso-de-foxa-y-a-los-concejales-carmen-menendez-y-juan-carlos-perez-del-caso-puerta-de-hierro/) identifica como absueltos a los exconcejales Carmen Menéndez Rodríguez y Juan Carlos Pérez González y fecha la sentencia municipal el 15 de julio de 2025. Estos datos se atribuyen a la crónica, que reproduce pasajes de la resolución; no se ha obtenido el original municipal ni verificado sus recursos.
+
+Los casi 30 millones publicados en 2022 eran una estimación histórica con pagos futuros, no un daño penal certificado. La [sentencia contenciosa oficial de 2026](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c3e6487b156f1bf3a0a8778d75e36f0d&encode=true&databasematch=AN), añade una resolución posterior sobre el reequilibrio; no se dispone de una liquidación actual completa de la concesión.
 
 Revisión a 17 de octubre de 2026: quedan pendientes los originales de los archivos y la absolución, la comprobación de recursos posteriores y la lectura integral de los fundamentos de la sentencia contenciosa. No se mantienen como hechos comprobados las fechas exactas de apertura y permisos ambientales de la versión anterior, la composición original de la UTE ni la cifra de 20 millones atribuida a sus cobros. Se requiere documentación contractual y municipal para revalidarlos. Los documentos originales no descargados y verificados no se incorporan al apartado documental.
