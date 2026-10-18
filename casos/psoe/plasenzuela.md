@@ -1,98 +1,96 @@
 ---
-nombre: "Plasenzuela"
+nombre: Plasenzuela
 partido: PSOE
-completado: true
-año: 2009
-fechaInicio: 2009-01-01
-fechaFin: "2016-03-01"
-estado: "sobreseimiento"
-descripcion: |
-  El caso Plasenzuela fue considerado en su momento el mayor proceso de corrupción instruido en Extremadura. El escándalo se destapó en 2009 tras la denuncia presentada por Adrián González, él mismo exalcalde del municipio cacereño de Plasenzuela por el PSOE, contra su sucesor en el cargo, José Villegas, también del PSOE. La denuncia señalaba presuntas irregularidades graves en la gestión municipal, incluyendo malversación de fondos públicos, prevaricación, delitos urbanísticos y estafa a la Seguridad Social, que habrían dejado al pequeño municipio en una situación económica ruinosa.
+completado: false
+año: 2008
+estado: Sobreseimiento provisional referido en fuente secundaria; auto y fecha pendientes de verificación
+lugar: Plasenzuela, Cáceres, Extremadura
+descripcion: 'Investigación del Juzgado nº 2 de Trujillo sobre la gestión municipal de Plasenzuela. La información
+  de octubre de 2009 identifica como denunciante al entonces alcalde Adrián González (PSOE), que había sustituido
+  a José Villegas. Sitúa el inicio de la investigación en julio de 2008 y menciona como investigados a Villegas,
+  un exconcejal, el secretario municipal y Domingo Galán, alcalde de Torremocha por el PP. Las imputaciones
+  y las declaraciones sobre la deuda municipal no son hechos declarados probados en una condena.
 
-  Las acusaciones giraban en torno a la residencia geriátrica "Padre Damián" de Plasenzuela, que contaba con plazas concertadas con la Administración de la Junta de Extremadura. Según la Fiscalía, el exalcalde Villegas se habría apropiado de más de 2 millones de euros en ayudas y subvenciones públicas concedidas a dicha residencia entre los años 2004 y 2008. Asimismo, se le imputaban deudas con la Seguridad Social que superaban los 2,2 millones de euros acumuladas desde 1997, así como la obtención irregular de más de 200.000 euros en fondos públicos mediante la simulación de operaciones de venta. Junto al exalcalde fueron imputados el exsecretario municipal Leopoldo Barrantes, el exconcejal Francisco Crespo y el alcalde del municipio vecino de Torremocha, Domingo Galán.
 
-  Tras más de seis años de instrucción en el Juzgado de Primera Instancia e Instrucción número 2 de Trujillo, la Fiscalía solicitó el sobreseimiento provisional de la causa al concluir que no existían bases suficientes para sostener la acusación penal contra ninguno de los imputados. El juzgado rechazó la solicitud del Ayuntamiento de Plasenzuela de practicar diligencias adicionales y, en marzo de 2016, dictó auto de sobreseimiento provisional. Ninguna de las partes recurrió la decisión, quedando el caso definitivamente archivado sin condenas.
+  La documentación parlamentaria original acredita un debate sobre la residencia Padre Damián el 11 de noviembre
+  de 2010. La oposición cuestionó el uso de los fondos y la consejera defendió la justificación de la financiación
+  y la delimitación de las responsabilidades de gestión. Ese debate no resuelve la responsabilidad penal.
 
-resumen: "Exalcalde socialista de Plasenzuela imputado por malversación de 2 millones en ayudas a una residencia de ancianos; el caso fue sobreseído tras seis años de instrucción"
-coste: 2200000
-lugar: "Plasenzuela, Cáceres, Extremadura"
+
+  Casos Aislados reproduce una información atribuida a El Periódico Extremadura que refiere un sobreseimiento
+  provisional tras la petición fiscal de archivo. No se ha recuperado el auto ni el artículo original, bloqueado
+  en los accesos realizados, y la copia no permite verificar el año ni el día del auto de marzo. Por ello no
+  se mantiene la fecha de marzo de 2016 ni se afirma archivo definitivo, absolución o firmeza. La documentación
+  judicial y una eventual evolución posterior siguen pendientes al corte del 17 de octubre de 2026.'
+resumen: Investigación de la gestión municipal de Plasenzuela; archivo provisional referido en fuente secundaria,
+  pendiente de verificar con el auto.
 tribunal:
-  - "Juzgado de Primera Instancia e Instrucción nº 2 de Trujillo"
-numeroSentencia: ""
+- Juzgado de Primera Instancia e Instrucción nº 2 de Trujillo
 implicados:
-  - nombre: "José Villegas"
-    cargo: "Exalcalde de Plasenzuela (PSOE)"
-    rol: "Imputado por malversación, prevaricación, delitos urbanísticos y estafa a la Seguridad Social"
-
-  - nombre: "Leopoldo Barrantes"
-    cargo: "Exsecretario municipal de Plasenzuela"
-    rol: "Imputado como presunto cómplice en las irregularidades municipales"
-
-  - nombre: "Francisco Crespo"
-    cargo: "Exconcejal del Ayuntamiento de Plasenzuela"
-    rol: "Imputado por su participación en las presuntas irregularidades"
-
-  - nombre: "Domingo Galán"
-    cargo: "Alcalde de Torremocha (municipio vecino)"
-    rol: "Imputado por su presunta vinculación con las irregularidades investigadas"
-
-  - nombre: "Adrián González"
-    cargo: "Exalcalde de Plasenzuela (PSOE)"
-    rol: "Denunciante que destapó el caso contra su sucesor en la alcaldía"
-
+- nombre: José Villegas
+  cargo: Exalcalde de Plasenzuela (PSOE)
+  rol: Investigado según la prensa de 2009; la fuente secundaria sobre el archivo lo incluye entre las personas
+    respecto de las que la Fiscalía no apreciaba base para continuar.
+- nombre: Leopoldo Barrantes
+  cargo: Secretario municipal de Plasenzuela en la investigación
+  rol: Investigado; nombre consignado en la reproducción de la noticia del archivo, cuya resolución original
+    no se ha obtenido.
+- nombre: Francisco Crespo
+  cargo: Exconcejal de Plasenzuela
+  rol: Investigado según prensa de 2009; incluido en la información secundaria del archivo provisional.
+- nombre: Domingo Galán
+  cargo: Alcalde de Torremocha (PP) cuando se publicó la información de 2009
+  rol: Investigado por su actividad empresarial relacionada con obras de Plasenzuela, según prensa; incluido
+    en la información secundaria del archivo provisional.
+- nombre: Adrián González
+  cargo: Alcalde de Plasenzuela (PSOE) cuando denunció la gestión anterior
+  rol: Denunciante. No se le presenta como investigado por esta causa.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "fraude"
-  - "subvenciones"
-
-impactoSocial: "El caso Plasenzuela generó una importante alarma política en Extremadura, siendo utilizado por el PP como ejemplo del nivel de corrupción en el PSOE extremeño. El municipio de Plasenzuela, de escasos centenares de habitantes, quedó en situación económica precaria. El sobreseimiento final sin condenas alimentó la percepción de impunidad en casos de corrupción a nivel local."
-
-documentos: []
-
+- gestión municipal
+- investigación
+- residencia de mayores
+- sobreseimiento provisional
+documentos:
+- fecha: '2010-11-09'
+  titulo: 'BOAE nº 451: publicación de la pregunta PROP-282 sobre la residencia Padre Damián'
+  filetype: pdf
+  paginas: 4
+  nombre_fichero: https://www.asambleaex.es/imagen/07BOAE451.PDF
+- fecha: '2010-11-11'
+  titulo: 'Diario de Sesiones nº 81-P: sesión plenaria nº 70 y debate PROP-282 (páginas PDF 49–51)'
+  filetype: pdf
+  paginas: 68
+  nombre_fichero: https://www.asambleaex.es/imagen/07DSAE81.PDF
 cronologia:
-  - fecha: "2004-01-01"
-    titulo: "Inicio de las presuntas irregularidades en la residencia geriátrica"
-    descripcion: "Según la acusación, el exalcalde José Villegas comenzó a apropiarse de las ayudas y subvenciones públicas concedidas por la Junta de Extremadura a la residencia geriátrica 'Padre Damián' de Plasenzuela, que contaba con plazas concertadas con la Administración autonómica. Las irregularidades se habrían prolongado hasta 2008, acumulándose una deuda con la Seguridad Social que databa desde 1997 y superaba los 2,2 millones de euros."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Plasenzuela&numero=136"
-
-  - fecha: "2009-01-01"
-    titulo: "Denuncia del exalcalde Adrián González y apertura de la investigación"
-    descripcion: "El exalcalde de Plasenzuela Adrián González, militante del PSOE al igual que el denunciado, presenta una denuncia formal contra su sucesor en el cargo, José Villegas, por presuntas irregularidades graves en la gestión municipal. La denuncia pone en marcha la investigación judicial en el Juzgado de Primera Instancia e Instrucción número 2 de Trujillo. El caso es descrito como el mayor proceso de corrupción instruido hasta entonces en Extremadura. Se imputan a Villegas delitos de prevaricación, malversación de fondos públicos, delitos urbanísticos y estafa a la Seguridad Social."
-    type: "denuncia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Plasenzuela&numero=136"
-      - "https://www.libertaddigital.com/nacional/el-mapa-de-la-verguenza-del-psoe-de-extremadura-1276414949/"
-
-  - fecha: "2009-06-01"
-    titulo: "Imputación formal de José Villegas y otros acusados"
-    descripcion: "El Juzgado número 2 de Trujillo acuerda la imputación formal de José Villegas como presunto autor de malversación, prevaricación y delitos urbanísticos. Junto a él son imputados el exsecretario municipal Leopoldo Barrantes, el exconcejal Francisco Crespo y el alcalde del municipio vecino de Torremocha, Domingo Galán. La Fiscalía sostiene que Villegas se habría apropiado de más de 2 millones de euros en ayudas concedidas a la residencia de ancianos 'Padre Damián' entre 2004 y 2008."
-    type: "imputación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Plasenzuela&numero=136"
-
-  - fecha: "2010-11-11"
-    titulo: "Pregunta parlamentaria en la Asamblea de Extremadura sobre la residencia"
-    descripcion: "El Grupo Parlamentario Popular presenta en la Asamblea de Extremadura una pregunta oral en pleno (PROP-282) dirigida a la Junta de Extremadura sobre la situación que atraviesa la residencia geriátrica 'Padre Damián' de Plasenzuela, con plazas concertadas por la Administración autonómica. La pregunta es respondida en la sesión del 11 de noviembre de 2010 por la consejera de Salud y Dependencia, María Jesús Mejuto Carril, evidenciando la dimensión política del caso más allá del ámbito judicial."
-    type: "resumen"
-    urls:
-      - "https://www.asambleaex.es/gdocparlamentario-N3xQUk9QLTI4Mg==-GP"
-
-  - fecha: "2015-08-01"
-    titulo: "La Fiscalía solicita el sobreseimiento provisional"
-    descripcion: "Tras más de seis años de instrucción, la Fiscalía solicita el sobreseimiento provisional de la causa al concluir que no existen bases suficientes para sostener la imputación de delitos penales contra ninguno de los acusados: el exalcalde José Villegas, el exsecretario municipal Leopoldo Barrantes, el exconcejal Francisco Crespo y el alcalde de Torremocha Domingo Galán. El juzgado da traslado de la petición fiscal a las partes acusadoras —el Ayuntamiento de Plasenzuela y la Seguridad Social— para que manifiesten si consideran necesario practicar diligencias adicionales antes de resolver."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Plasenzuela&numero=136"
-
-  - fecha: "2016-03-01"
-    titulo: "Auto de sobreseimiento provisional: el caso queda archivado"
-    descripcion: "El Juzgado de Primera Instancia e Instrucción número 2 de Trujillo dicta auto de sobreseimiento provisional del caso Plasenzuela, rechazando la petición del Ayuntamiento de practicar nuevas diligencias de investigación. La resolución pone fin a un proceso que se había prolongado más de seis años sin llegar a juicio oral. Ninguna de las partes —ni la acusación municipal ni la Seguridad Social— recurre el auto, por lo que la resolución gana firmeza y el caso queda definitivamente archivado sin que ninguno de los imputados sea juzgado ni condenado."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Plasenzuela&numero=136"
-
+- fecha: '2009-10-27'
+  titulo: La prensa informa de los investigados
+  descripcion: Diario de Navarra publica las imputaciones y las declaraciones del alcalde denunciante. La información
+    sitúa el comienzo de la investigación en julio de 2008, sin aportar día exacto; esta entrada corresponde
+    a la fecha de la noticia, no al auto de imputación.
+  type: investigación
+  urls:
+  - https://www.diariodenavarra.es/20091027/nacional/imputados-corrupcion-ex-alcalde-plasenzuela-actual-torremocha-caceres.html
+- fecha: '2010-11-09'
+  titulo: Publicación de la pregunta sobre Padre Damián
+  descripcion: El Boletín Oficial de la Asamblea nº 451 publica la pregunta de Teresa Tortonda Gordillo sobre
+    la residencia y sus plazas concertadas. Es una iniciativa parlamentaria, no una resolución judicial.
+  type: resumen
+  urls:
+  - https://www.asambleaex.es/imagen/07BOAE451.PDF
+- fecha: '2010-11-11'
+  titulo: Debate sobre la financiación y gestión de la residencia
+  descripcion: El Diario de Sesiones documenta la pregunta y respuesta. La diputada cuestiona la gestión de
+    los fondos y la consejera María Jesús Mejuto sostiene que la financiación de las plazas está justificada
+    y que la relación contractual de gestión corresponde a la empresa y al Ayuntamiento.
+  type: resumen
+  urls:
+  - https://www.asambleaex.es/imagen/07DSAE81.PDF
 ---
+
+El último desenlace localizado es la referencia a un **sobreseimiento provisional** en la [reproducción de Casos Aislados](https://casos-aislados.com/caso-de-corrupcion/caso-plasenzuela). La [fuente periodística enlazada](https://www.elperiodicoextremadura.com/noticias/caceres/juez-archiva-caso-plasenzuela-seis-anos-investigacion_889532.html) no ha podido leerse directamente. La copia dice que no se habían presentado recursos, pero no constituye certificación de firmeza ni convierte un archivo provisional en una sentencia absolutoria. La fecha exacta y el alcance individual del auto requieren documentación judicial.
+
+La investigación y las denuncias económicas deben distinguirse del daño probado. La copia menciona más de dos millones de euros en ayudas, 2,2 millones en supuestas cuotas impagadas y más de 200.000 euros por operaciones cuestionadas. La [noticia de 2009](https://www.diariodenavarra.es/20091027/nacional/imputados-corrupcion-ex-alcalde-plasenzuela-actual-torremocha-caceres.html) atribuye al alcalde denunciante una deuda municipal de 5,1 millones. Son conceptos y alegaciones distintos; no se suman ni se publican como coste acreditado de corrupción.
+
+El [Diario de Sesiones de 11 de noviembre de 2010](https://www.asambleaex.es/imagen/07DSAE81.PDF), páginas PDF 49–51 (paginación impresa 4029–4031), permite contrastar el debate sobre la residencia: la diputada citó 1.864.800 euros de financiación hasta 2013 y la consejera explicó el convenio para 42 plazas, defendiendo su justificación y el control autonómico. Esas intervenciones parlamentarias no prueban por sí mismas desvíos ni exoneraciones penales. El [boletín de 9 de noviembre](https://www.asambleaex.es/imagen/07BOAE451.PDF) acredita la publicación de la pregunta. Ambos PDF son documentos parlamentarios, no los autos de la causa.
+
+**Pendientes al 17 de octubre de 2026:** obtener el auto de sobreseimiento, su fecha y alcance, la resolución de la petición de diligencias y los eventuales recursos o reaperturas. Tampoco se ha localizado una resolución que determine daño o responsabilidad civil. La ausencia de noticias posteriores en la búsqueda realizada no acredita que no existan actuaciones.
