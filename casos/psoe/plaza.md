@@ -6,15 +6,15 @@ año: 2013
 fechaInicio: "2013-08-14"
 estado: "condenas y absoluciones"
 descripcion: |
-  Procedimiento sobre irregularidades en las obras de la Plataforma Logística de Zaragoza. La nota judicial del 10 de mayo de 2019 informó de absoluciones y condenas, varias por conformidad. No existe un resultado único aplicable a todos los acusados ni a las distintas piezas de Plaza.
+  Procedimiento sobre irregularidades en las obras de la Plataforma Logística de Zaragoza. La sentencia principal 155/2019, dictada el 6 de mayo de 2019 y difundida judicialmente el día 10, recoge absoluciones y condenas, varias por conformidad. No existe un resultado único aplicable a todos los acusados ni a las distintas piezas de Plaza.
 
-  Se retiran los 147 millones como daño judicialmente probado: la retrospectiva de 2025 los atribuye al cálculo de la Fiscalía. El balance económico incorpora pagos, renuncias de cobro y arbitraje, que no pueden sumarse sin cotejo. Faltan la sentencia íntegra principal y el laudo, así como verificar los recursos y la ejecución al corte del 17 de octubre de 2026.
+  Se retiran los 147 millones como daño judicialmente probado: la retrospectiva de 2025 los atribuye al cálculo de la Fiscalía. El balance económico incorpora pagos, renuncias de cobro y arbitraje, que no pueden sumarse sin cotejo. Se ha recuperado la sentencia principal de 125 páginas, con lectura dirigida de la página 1 y las páginas 109–125. Faltan el laudo y la verificación de los recursos y la ejecución al corte del 17 de octubre de 2026.
 resumen: "Condenas y absoluciones por las obras de Plaza, con resolución del Supremo distinta para Codesport y posterior arbitraje civil. Revisión incompleta de recursos y balance económico."
 lugar: "Zaragoza, Aragón"
 tribunal:
   - "Audiencia Provincial de Zaragoza - Sección Primera (causa principal)"
   - "Tribunal Supremo - Sala de lo Penal (Codesport)"
-numeroSentencia: "Codesport: STS 558/2017, ECLI:ES:TS:2017:2739"
+numeroSentencia: "Principal: SAP Zaragoza, Sección Primera, 155/2019; Codesport: STS 558/2017, ECLI:ES:TS:2017:2739"
 implicados:
   - nombre: "José Ricardo García Becerril"
     cargo: "Exgerente de Plaza"
@@ -47,6 +47,11 @@ tags:
   - "conformidad"
 impactoSocial: "El procedimiento exige distinguir responsabilidad penal, absolución, participación lucrativa y reclamaciones económicas."
 documentos:
+  - fecha: "2019-05-06"
+    titulo: "Sentencia 155/2019 de la Audiencia Provincial de Zaragoza, Sección Primera: causa principal"
+    filetype: "pdf"
+    paginas: 125
+    nombre_fichero: "https://www.heraldo.es/uploads/files/2019/05/10/Sentencia%20de%20plaza%20-si-.pdf"
   - fecha: "2019-05-10"
     titulo: "Cuadro-resumen de acusados, condenas, absoluciones y penas difundido por el TSJ de Aragón"
     filetype: "pdf"
@@ -70,6 +75,12 @@ cronologia:
     type: "sentencia"
     urls:
       - "https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TS%20Penal%2013%20julio%202017.pdf"
+  - fecha: "2019-05-06"
+    titulo: "Sentencia principal 155/2019"
+    descripcion: "Fecha del acto que figura en la cabecera. La Sección Primera resuelve la causa principal con condenas y absoluciones; no se acredita aquí la firmeza posterior."
+    type: "sentencia"
+    urls:
+      - "https://www.heraldo.es/uploads/files/2019/05/10/Sentencia%20de%20plaza%20-si-.pdf"
   - fecha: "2019-05-10"
     titulo: "Difusión judicial del resultado principal"
     descripcion: "Fecha de la nota del CGPJ y su cuadro de penas; no se utiliza el nombre del archivo como fecha de la sentencia."
@@ -83,6 +94,8 @@ cronologia:
     urls:
       - "https://www.heraldo.es/noticias/aragon/2022/03/31/acciona-debera-devolver-otros-2-6-millones-por-sobreprecios-en-las-obras-del-caso-plaza-1563847.html"
 ---
+
+La sentencia principal 155/2019 se ha recuperado en una copia difundida por Heraldo. Se han leído de forma dirigida la página 1 y las páginas 109–125, que incluyen el fallo y las responsabilidades civiles; no se declara lectura íntegra de sus 125 páginas. La cabecera fecha el acto el 6 de mayo de 2019, distinto de la difusión oficial del 10 de mayo y del nombre del archivo. El fallo prevé recurso de casación, sin que esta copia acredite su firmeza posterior.
 
 La nota oficial identifica una responsabilidad civil de 14.848.363,30 euros para un apartado concreto de la sentencia, ya abonada por Acciona, además de otros conceptos individualizados. No es una cuantificación de todos los daños de Plaza. Tampoco se suman comisos, multas, responsabilidades solidarias o recuperaciones para obtener un supuesto agujero pendiente.
 
