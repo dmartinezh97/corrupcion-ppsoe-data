@@ -23,8 +23,8 @@ descripcion: 'Esta pieza de los ERE de Andalucía investigó las ayudas para las
   No se ha recuperado el original del auto de archivo de Mac Puar para precisar su modalidad, alcance personal y
   firmeza. Tampoco queda acreditado aquí el desenlace posterior de los restantes investigados, las eventuales responsabilidades
   civiles o contables, ni efectos individuales de las sentencias constitucionales de los ERE a 17 de octubre de
-  2026. Una referencia periodística de 2024 a la revocación de una reclamación económica de TAMC/Mac Puar permanece
-  sin contrastar en su cuerpo completo y original; no se presenta como reintegro, daño ni absolución penal.'
+  2026. El País informó el 18 de julio de 2024 de la revocación de una reclamación de 8,8 millones en TAMC/Mac Puar.
+  Falta el original para delimitar sus efectos; no acredita daño, cobro ni absolución penal.'
 resumen: Investigación de ayudas para trabajadores de TAMC; confirmación comunicada en 2020 del sobreseimiento respecto
   de empresarios de Mac Puar, sin resultado global acreditado.
 lugar: Sevilla, Andalucía
@@ -44,7 +44,7 @@ implicados:
     Press de julio de 2020. Modalidad y firmeza del auto original pendientes.
 - nombre: Isabel Ríos
   cargo: Consejera delegada solidaria de Mac Puar
-  rol: Investigado en 2018; sobreseimiento respecto de los empresarios confirmado según la información de Europa
+  rol: Investigada en 2018; sobreseimiento respecto de los empresarios confirmado según la información de Europa
     Press de julio de 2020. Modalidad y firmeza del auto original pendientes.
 - nombre: Antonio Rivas
   cargo: Exdelegado de Empleo de la Junta en Sevilla
@@ -113,4 +113,4 @@ La [crónica de Europa Press difundida el 10 de julio de 2020](https://www.moncl
 
 El [auto de Egmasa de 28 de septiembre de 2021 difundido por EFE](https://verifica.efe.com/wp-content/uploads/2022/06/Auto-procedimiento-abreviado-pieza-separada-ERE-Egmasa-28-09-21.pdf) cita expresamente el sobreseimiento de Mac Puar de 1 de julio de 2020, rollo 4810/2019, diligencias previas 2474/2016, y advierte que no es trasladable sin más a otros sindicalistas y empresas. Se utiliza únicamente esa referencia; no se incorpora como si fuera el auto original de Mac Puar.
 
-Permanece pendiente el contraste del alcance y firmeza de esos archivos y de los resultados posteriores para los demás investigados. La [referencia de El País de julio de 2024](https://elpais.com/espana/2024-07-18/la-junta-aparca-en-los-juzgados-su-promesa-de-reclamar-todo-el-dinero-defraudado-en-los-ere.html) sobre reclamaciones económicas de TAMC/Mac Puar requiere el cuerpo completo y la resolución correspondiente antes de concretar sus efectos. No se usa como cuantía de daño, cobro efectivo ni cierre penal global.
+Permanece pendiente el contraste del alcance y firmeza de esos archivos y de los resultados posteriores para los demás investigados. La [información de El País de julio de 2024](https://elpais.com/espana/2024-07-18/la-junta-aparca-en-los-juzgados-su-promesa-de-reclamar-todo-el-dinero-defraudado-en-los-ere.html?outputType=amp) menciona una reclamación revocada de 8,8 millones para TAMC/Mac Puar. Su original sigue pendiente para delimitar alcance personal y procesal. Esa referencia no acredita daño, cobro ni absolución penal.
