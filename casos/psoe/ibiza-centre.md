@@ -19,7 +19,7 @@ descripcion: 'El caso Eivissa Centre investigó las sospechas de comisiones vinc
 
 
   En aquel momento cabían reforma o apelación. No se ha recuperado el auto original ni se ha acreditado aquí la
-  resolución de eventuales recursos, su firmeza o una reapertura posterior a 17 de octubre de 2026. Tampoco se ha
+  resolución de eventuales recursos, su firmeza o una eventual reapertura hasta el 17 de octubre de 2026. Tampoco se ha
   contrastado la afirmación heredada de un archivo definitivo el 4 de junio de 2018: no se presenta como hecho ni
   se equipara el sobreseimiento provisional a una absolución o a la imposibilidad de reabrir. Los roles personales
   se refieren a la investigación documentada de 2014, sin mantener a esas personas como investigadas actuales por
@@ -120,4 +120,4 @@ La [crónica de Europa Press sobre el archivo](https://www.europapress.es/illes-
 
 La [noticia de mayo de 2013](https://www.noudiari.es/local-ibiza/la-fiscalia-reanuda-el-caso-eivissa-centre-seis-anos-despues-de-que-se-pusiera-la-denuncia/) trata del impulso fiscal y menciona denuncias contra el instructor y una letrada. Esas actuaciones relacionadas no se confunden con la prueba del cobro de comisiones ni sus resultados se trasladan a los investigados de Eivissa Centre.
 
-No se ha acreditado el desenlace de un recurso contra el archivo ni el supuesto cierre definitivo de junio de 2018 que recogía la ficha anterior. Esa falta de contraste no significa que el caso siga abierto, que se reabriera o que exista una resolución posterior inexistente: deja pendiente comprobar el estado individual y la firmeza con el expediente judicial.
+No se ha acreditado el desenlace de un recurso contra el archivo ni el supuesto cierre definitivo de junio de 2018 que recogía la ficha anterior. Esa falta de contraste no significa que el caso siga abierto, que se reabriera ni que no exista una resolución posterior: deja pendiente comprobar el estado individual y la firmeza con el expediente judicial.
