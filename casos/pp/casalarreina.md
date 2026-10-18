@@ -1,99 +1,69 @@
 ---
 nombre: "Caso Casalarreina"
 partido: "PP"
-completado: true
+completado: false
 año: 1990
-fechaInicio: 1990-01-01
-fechaFin: "2010-03-17"
-estado: "cerrado con condenas"
+fechaInicio: "2002-09-16"
+estado: "Condena del Supremo en 2010; ejecución y posibles actuaciones posteriores pendientes"
 descripcion: |
-  El Caso Casalarreina destapa la malversación de fondos públicos cometida por Buenaventura Gómez Castrillo, alcalde de esta pequeña localidad riojana por el Partido Popular entre 1987 y 1995. Durante su mandato, aprovechando que el Ayuntamiento no llevaba la contabilidad de manera reglamentaria, Gómez creó una caja con dinero en efectivo que guardaba en su despacho, inicialmente destinada a gastos de fiestas pero que acabó utilizando para sufragar sus propios gastos personales de desplazamiento y dietas.
+  La STS 238/2010, de 17 de marzo, condenó por malversación de caudales públicos al exalcalde de Casalarreina, identificado en las fuentes nominales como Buenaventura Gómez Castrillo. El Supremo anuló la absolución de la Audiencia Provincial de Logroño de 20 de mayo de 2009, al estimar el recurso del Ayuntamiento, apoyado por el Ministerio Fiscal. Impuso dos años de prisión, cuatro de inhabilitación absoluta y responsabilidad civil directa de 4.508,76 euros, con atenuante muy cualificada de dilaciones indebidas.
 
-  Entre 1990 y 1995, el ex-alcalde percibió indebidamente más de 2,2 millones de pesetas (aproximadamente 13.000 euros) de los fondos públicos municipales. Los hechos incluyen el cobro de dietas de desplazamiento a 35 pesetas por kilómetro cuando legalmente correspondían 22 pesetas, justificadas mediante "hojas sueltas, sin sellar ni firmar, hechas a mano". Además, desvió subvenciones estatales y del Gobierno de La Rioja destinadas a diferentes propósitos entre 1991 y 1994, por un valor aproximado de 265.000 euros.
-
-  El caso tuvo un largo recorrido judicial de casi 20 años. El Tribunal de Cuentas determinó en 2002 las cantidades indebidamente cobradas. Aunque la Audiencia Provincial de Logroño absolvió al ex-alcalde en 2009, el Tribunal Supremo casó esta sentencia en marzo de 2010 y condenó a Gómez a dos años de prisión, cuatro años de inhabilitación absoluta y al pago de 4.508,76 euros en responsabilidad civil, aplicando la atenuante muy cualificada de dilaciones indebidas.
-
-resumen: "Alcalde del PP de Casalarreina condenado por malversar 13.000 euros del ayuntamiento"
-coste: 13000
+  La condena se refiere a cantidades indebidamente cobradas por dietas y desplazamientos mediante una caja municipal sin la debida contabilidad. El recurso no abarcaba las subvenciones discutidas en la instancia. La sentencia ya recogía una devolución derivada de la responsabilidad contable antes del juicio; no hubo un reembolso de 2020 aquí acreditado. No se ha comprobado la ejecución, la situación de firmeza mediante resolución posterior ni posibles incidencias hasta el 17 de octubre de 2026. La revisión permanece incompleta.
+resumen: "Condena del Supremo por malversación mediante cobros indebidos de dietas; dos años de prisión y responsabilidad civil de 4.508,76 euros."
 lugar: "Casalarreina, La Rioja"
 tribunal:
-  - "Tribunal Supremo - Sala Segunda de lo Penal"
-  - "Audiencia Provincial de Logroño"
-  - "Tribunal de Cuentas"
-numeroSentencia: "238/2010"
+  - "Tribunal Supremo, Sala de lo Penal"
+  - "Audiencia Provincial de Logroño, Sección Primera"
+  - "Tribunal de Cuentas, procedimiento de reintegro A-23/01"
+numeroSentencia: "STS 238/2010, de 17 de marzo; recurso 1879/2009; ECLI:ES:TS:2010:1674"
 implicados:
   - nombre: "Buenaventura Gómez Castrillo"
-    cargo: "Alcalde de Casalarreina (PP, 1987-1995)"
-    rol: "Condenado a 2 años de prisión por malversación de caudales públicos"
-
+    cargo: "Exalcalde de Casalarreina por el PP; posteriormente concejal del Partido Riojano según la información de 2009"
+    rol: "Condenado por el Supremo por malversación a dos años de prisión y cuatro de inhabilitación absoluta, con responsabilidad civil directa de 4.508,76 euros. Ejecución posterior no verificada."
 tags:
-  - "corrupción"
   - "malversación"
-  - "prevaricación"
-  - "fraude"
-
-impactoSocial: "Caso emblemático de corrupción municipal en pequeñas localidades que evidenció la falta de control contable en ayuntamientos rurales. Las dilaciones indebidas del proceso judicial (casi 20 años) generaron críticas sobre la lentitud de la justicia española."
-
-documentos: null
-
+  - "dietas"
+  - "fondos municipales"
+impactoSocial: "El procedimiento puso de manifiesto deficiencias en el control de los fondos municipales y graves dilaciones judiciales apreciadas por el Supremo."
+documentos:
+  - fecha: "2010-03-17"
+    titulo: "STS 238/2010 y segunda sentencia; ECLI:ES:TS:2010:1674"
+    filetype: "PDF"
+    paginas: 7
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d0048409eafc885e&encode=true&databasematch=AN"
 cronologia:
-  - fecha: "1987-01-01"
-    titulo: "Buenaventura Gómez toma posesión como alcalde"
-    descripcion: "Buenaventura Gómez Castrillo se convierte en alcalde de Casalarreina por el Partido Popular, cargo que ostentará hasta 1995. Durante su mandato, el Ayuntamiento no llevará la contabilidad de manera reglamentaria, lo que facilitará las irregularidades posteriores."
-    type: "resumen"
-    urls: []
-
-  - fecha: "1990-01-01"
-    titulo: "Inicio del periodo de malversación de fondos"
-    descripcion: "Comienza el periodo en el que Gómez malversa fondos públicos municipales. Crea una caja con dinero en efectivo que guarda en su despacho, inicialmente destinada a gastos de fiestas pero que acaba utilizando para sus propios gastos de desplazamiento y dietas. Cobra 35 pesetas por kilómetro cuando legalmente correspondían 22."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Casalarreina&numero=390"
-
-  - fecha: "1991-01-01"
-    titulo: "Desvío de subvenciones estatales y autonómicas"
-    descripcion: "Entre 1991 y 1994, Buenaventura Gómez desvía subvenciones del Estado y del Gobierno de La Rioja destinadas a diferentes propósitos, por un valor aproximado de 265.000 euros. Las cantidades se destinan a fines distintos de aquellos para los que fueron concedidas."
-    type: "investigación"
-    urls: []
-
-  - fecha: "1995-01-01"
-    titulo: "Fin del mandato y del periodo de malversación"
-    descripcion: "Finaliza el periodo como alcalde de Buenaventura Gómez y el periodo en el que cometió los delitos de malversación. Durante estos años (1990-1995), percibió indebidamente 2.278.802 pesetas de los fondos públicos municipales: 621.714 mediante mandamientos de pago presupuestados y 1.675.091 mediante disposiciones de caja en efectivo."
-    type: "resumen"
-    urls: []
-
   - fecha: "2002-09-16"
-    titulo: "Sentencia del Tribunal de Cuentas"
-    descripcion: "El Tribunal de Cuentas dicta sentencia determinando las cantidades indebidamente cobradas por Buenaventura Gómez: 1.492,99 euros más 534,22 euros por intereses legales. Esta sentencia establece la responsabilidad contable del ex-alcalde y marca el inicio del proceso judicial penal."
+    titulo: "Responsabilidad contable referida en la sentencia penal"
+    descripcion: "La STS reproduce que el Tribunal de Cuentas fijó en esta fecha 1.492,99 euros por dietas y desplazamientos indebidamente cobrados, más 534,22 euros de intereses. La devolución ya constaba antes del juicio penal. No se ha obtenido la resolución contable original."
     type: "sentencia"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Casalarreina&numero=390"
-
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2010:1674"
   - fecha: "2009-05-10"
-    titulo: "Fiscal solicita 4 años y 6 meses de prisión"
-    descripcion: "El Ministerio Fiscal solicita para Buenaventura Gómez una condena de 4 años y 6 meses de prisión, además de inhabilitación de 8 años para cargo público e indemnización al Ayuntamiento. El juicio oral se celebra ante la Audiencia Provincial de Logroño por un delito continuado de malversación de caudales públicos."
-    type: "investigación"
+    titulo: "Se publica la petición fiscal, antes del juicio"
+    descripcion: "La noticia informa de una petición de cuatro años y seis meses de prisión y ocho años de inhabilitación, y anuncia el juicio para el martes siguiente. Son pretensiones de la acusación, no la condena finalmente impuesta ni prueba de la celebración del juicio ese día."
+    type: "resumen"
     urls:
       - "https://www.eldiario.es/la-rioja/el-fiscal-pide-4-anos-y-6-meses-de-prision-para-el-ex-alcalde-de-casalarreina_1_11029981.html"
-
   - fecha: "2009-05-20"
-    titulo: "Audiencia Provincial de Logroño absuelve al ex-alcalde"
-    descripcion: "La Audiencia Provincial de Logroño dicta sentencia absolutoria para Buenaventura Gómez, considerando que no existía prueba suficiente del delito de malversación. Esta sentencia será posteriormente recurrida por el Ministerio Fiscal ante el Tribunal Supremo."
+    titulo: "Absolución en la Audiencia Provincial"
+    descripcion: "La Audiencia Provincial de Logroño absolvió al acusado. El Supremo reproduce ese fallo y posteriormente rechaza la argumentación de falta de tipicidad: no se presenta la absolución como mera insuficiencia de pruebas."
     type: "sentencia"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Casalarreina&numero=390"
-
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2010:1674"
   - fecha: "2010-03-17"
-    titulo: "Tribunal Supremo condena al ex-alcalde"
-    descripcion: "La Sala Segunda de lo Penal del Tribunal Supremo casa y anula la sentencia absolutoria de la Audiencia Provincial de Logroño. Condena a Buenaventura Gómez a 2 años de prisión, 4 años de inhabilitación absoluta y al pago de 4.508,76 euros en responsabilidad civil. Se aplica la atenuante muy cualificada de dilaciones indebidas debido a los 20 años transcurridos desde los hechos."
+    titulo: "Casación y segunda sentencia condenatoria"
+    descripcion: "El Supremo estima el recurso del Ayuntamiento, apoyado por Fiscalía, anula la absolución y condena a dos años de prisión, cuatro de inhabilitación absoluta y 4.508,76 euros de responsabilidad civil directa. Aplica dilaciones indebidas muy cualificadas y rechaza la atenuante de reparación del daño por ser la devolución cumplimiento de una obligación contable."
     type: "sentencia"
     urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Casalarreina&numero=390"
-
-  - fecha: "2020-05-01"
-    titulo: "Reembolso del dinero malversado"
-    descripcion: "Buenaventura Gómez reembolsa el dinero defraudado antes del juicio oral, intentando atenuar su responsabilidad penal. A pesar de este reembolso tardío, la sentencia del Tribunal Supremo ya había establecido su culpabilidad y condena firme."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Casalarreina&numero=390"
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2010:1674"
 ---
+
+Los hechos probados describen una caja de efectivo destinada inicialmente a fiestas, con aportaciones particulares y fondos municipales. El acusado dispuso de dinero para dietas y desplazamientos anotados manualmente sin sellar ni firmar. Llegó a cobrar treinta y cinco pesetas por kilómetro frente a las veintidós reglamentarias. El Supremo califica las cantidades indebidamente percibidas como malversación continuada; no sostiene que todos los importes percibidos del Ayuntamiento fueran ilícitos.
+
+La sentencia distingue cantidades percibidas globalmente, 988.125 pesetas cobradas indebidamente, la responsabilidad contable de 1.492,99 euros ya devuelta y la responsabilidad civil penal directa de 4.508,76 euros. El fundamento sexto indica que la devolución contable se descuenta de las responsabilidades civiles. No se suman estas partidas ni se conserva el coste redondeado de 13.000 euros como daño total. El desglose en pesetas del relato presenta además una discordancia aritmética entre el total y sus componentes, por lo que no se reconstruye una suma corregida sin documentación adicional.
+
+El fundamento tercero limita expresamente la casación a los cobros de dietas: no se recurrió la absolución por las subvenciones. Se retira por ello la afirmación de que el Supremo condenó por desviar unos 265.000 euros de subvenciones. El origen público de esas transferencias y su aplicación a otros fines no permiten tratarlas en bloque como apropiación personal acreditada.
+
+Las dilaciones apreciadas no son simplemente veinte años desde los hechos: el Supremo menciona doce años desde la apertura del procedimiento y una paralización de cuatro años y ocho meses esperando una pericial. Esa demora fundamenta la reducción de pena. La devolución contable fue anterior al juicio, sin fecha de pago exacta aquí acreditada; se elimina el hito de mayo de 2020.
+
+**Límites al 17 de octubre de 2026:** se ha descargado y cotejado el PDF oficial de siete páginas, con cabecera, antecedentes y fallos, y lectura de los fundamentos sobre el alcance del recurso, devolución y dilaciones. No se han obtenido la sentencia contable original, el fallo de instancia separado ni resoluciones posteriores de ejecución, suspensión, indulto o amparo. La identidad nominal procede de la noticia de 2009 y de la copia nominal de la resolución localizada mediante consulta web; el PDF de Cendoj emplea un seudónimo, que no se utiliza para inferir identidades. La descarga directa de esa copia nominal devolvió HTTP 403. No se afirma ingreso en prisión, cumplimiento total o extinción de penas, ni firmeza por el mero paso del tiempo. La generación del PDF de Cendoj en octubre de 2026 no cambia la fecha de la sentencia de 2010.
