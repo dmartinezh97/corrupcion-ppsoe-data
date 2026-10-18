@@ -1,97 +1,120 @@
 ---
-nombre: "Caso Santa Brígida (Operación Brisán)"
+nombre: Caso Santa Brígida (Operación Brisán)
 partido: PP
-completado: true
+completado: false
 año: 2007
-fechaInicio: 2007-10-25
-fechaFin: ""
-estado: cerrado con condenas y absoluciones
-resumen: "Trama de corrupción municipal con facturas falsas y prevaricación en Santa Brígida, Gran Canaria"
-descripcion: |
-  El Caso Santa Brígida, conocido como Operación Brisán (nombre formado por las primeras sílabas del municipio al revés), fue una investigación sobre corrupción municipal en el Ayuntamiento de Santa Brígida, Gran Canaria, durante los gobiernos del Partido Popular entre 2000 y 2006. La operación se inició el 25 de octubre de 2007 con la detención de varios exalcaldes y funcionarios municipales.
+fechaInicio: '2007-10-23'
+fechaFin: ''
+estado: absoluciones y condena en causa distinta; revisión parcial
+resumen: Investigaciones municipales con absolución de Antonio Díaz por el Supremo en 2018 y de cuatro acusados por las facturas en 2019; piezas y recursos pendientes de revisión completa.
+descripcion: 'La operación Brisán investigó posibles irregularidades municipales en Santa Brígida y fue dividida en varias piezas. Las detenciones de Carmelo Vega, Antonio Díaz, Luis Troya y técnicos municipales se publicaron el 23 de octubre de 2007, no el día 25. En la pieza de suministros de ferretería, cuatro acusados fueron absueltos en 2019: la noticia del 4 de octubre advertía que aún cabía casación. No se acreditaron las facturas falsas ni los suministros ficticios atribuidos por la Fiscalía.
 
-  La trama principal investigaba un presunto esquema de facturas falsas y contrataciones irregulares. Durante siete años (2000-2006), el Ayuntamiento facturó a la empresa Morales Ravelo 808.220 euros sin que ninguna factura superara los 12.020 euros, lo que la Guardia Civil interpretó como fraccionamiento intencionado para eludir los requisitos legales de contratación pública. El exconcejal Luis Troya autorizó gran cantidad de órdenes de pago para adquirir material en la ferretería, mientras mantenía ocultos sus vínculos con la empresa a través de una sociedad de la que era socio mayoritario.
 
-  El caso tuvo diferentes desenlaces judiciales. Por un lado, los exalcaldes Carmelo Vega y Luis Troya fueron condenados a nueve años de inhabilitación por prevaricación en el "caso del parterre". Antonio Díaz, que fue alcalde entre 2005 y 2007, fue condenado inicialmente a cinco años de cárcel por prevaricación, falsedad y fraude, pero posteriormente fue absuelto por el Tribunal Supremo en mayo de 2018. Doce años después del inicio de la Operación Brisán, los cuatro encausados en la trama de facturas falsas fueron absueltos por la Audiencia Provincial de Las Palmas al no considerarse acreditada la existencia de fraude.
-coste: 808220
-lugar: "Santa Brígida, Gran Canaria, Islas Canarias"
+  En otro procedimiento, Antonio Díaz había sido condenado en abril de 2017 a cinco años de prisión y 21 de inhabilitación. El Supremo lo absolvió de todos los delitos por los que venía acusado mediante la sentencia 196/2018 y su segunda sentencia, ambas del 25 de abril; el fallo declara que no cabe recurso. La fecha de difusión, 14 de mayo, no es la del acto judicial.
+
+
+  La condena de nueve años de inhabilitación de Vega y Troya por el parterre se trata como antecedente separado, documentado por prensa retrospectiva, sin original recuperado. No debe confundirse con otra condena de siete años a Vega por un pleno urgente, de la que el Supremo lo absolvió en 2009. Revisión parcial al 17 de octubre de 2026: faltan los originales de la absolución de 2019 y del parterre, sus eventuales recursos y el desenlace de todas las piezas de Brisán.'
+coste: 0
+lugar: Santa Brígida, Gran Canaria, Islas Canarias
 tribunal:
-  - "Juzgado de Instrucción de Santa Brígida"
-  - "Audiencia Provincial de Las Palmas"
-  - "Tribunal Supremo (Sala de lo Penal)"
-numeroSentencia: ""
+- Juzgado de Instrucción n.º 1 de Las Palmas de Gran Canaria (Brisán)
+- Juzgado de Instrucción n.º 8 de Las Palmas (procedimiento de Antonio Díaz)
+- Audiencia Provincial de Las Palmas — secciones Primera y Sexta
+- Tribunal Supremo — Sala de lo Penal
+numeroSentencia: STS 196/2018, de 25 de abril, y segunda sentencia; ECLI:ES:TS:2018:1614
 implicados:
-  - nombre: "Carmelo Vega Santana"
-    cargo: "Alcalde de Santa Brígida (1983-1991 y 1999-2005)"
-    rol: "Condenado a 9 años de inhabilitación por prevaricación"
-  - nombre: "Antonio Díaz Hernández"
-    cargo: "Alcalde de Santa Brígida (2005-2007)"
-    rol: "Absuelto por el Tribunal Supremo de falsedad y prevaricación"
-  - nombre: "Luis Troya"
-    cargo: "Concejal de Vías y Obras (2005-2006)"
-    rol: "Condenado a 9 años de inhabilitación por prevaricación, absuelto en Operación Brisán"
-  - nombre: "Pedro Morales Déniz"
-    cargo: "Empresario, propietario de Ferretería Morales Ravelo"
-    rol: "Absuelto en Operación Brisán"
-  - nombre: "Jacinto Hernández"
-    cargo: "Interventor municipal"
-    rol: "Absuelto en Operación Brisán"
-  - nombre: "Santiago Hernández"
-    cargo: "Interventor municipal"
-    rol: "Absuelto en Operación Brisán"
-  - nombre: "Carlos Sánchez Ojeda"
-    cargo: "Exconcejal y portavoz del PP en el Cabildo de Gran Canaria"
-    rol: "Absuelto en el caso Antonio Díaz"
-  - nombre: "Adolfo Llamas"
-    cargo: "Exasesor jurídico de la corporación"
-    rol: "Absuelto en el caso Antonio Díaz"
+- nombre: Carmelo Vega Santana
+  cargo: Alcalde de Santa Brígida (1983-1991 y 1999-2005)
+  rol: 'Antecedente separado: condenado junto con Troya por el parterre, según la información retrospectiva de 2016, que menciona nueve años de inhabilitación. Original y fecha exacta pendientes. Absuelto en 2009 en la causa distinta del pleno urgente.'
+- nombre: Antonio Díaz Hernández
+  cargo: Alcalde de Santa Brígida (2005-2007)
+  rol: Absuelto por el Supremo de todos los delitos por los que venía acusado en el procedimiento de 2017, mediante las sentencias de 25 de abril de 2018, cuyo fallo declara que no cabe recurso. No equivale al cierre de cualquier otra pieza.
+- nombre: Luis Troya
+  cargo: Exconcejal municipal de Vías y Obras y Urbanismo
+  rol: Absuelto en 2019 en la pieza de facturas, entonces recurrible; antecedente separado de condena por el parterre junto con Vega, referido por prensa retrospectiva.
+- nombre: Pedro Morales Déniz
+  cargo: Empresario, propietario de Ferretería Morales Ravelo
+  rol: Absuelto en 2019 en la pieza de facturas; la información consultada advertía que la sentencia aún no era firme.
+- nombre: Jacinto Hernández
+  cargo: Interventor accidental municipal
+  rol: Absuelto en 2019 en la pieza de facturas; la información consultada advertía que la sentencia aún no era firme.
+- nombre: Santiago Hernández
+  cargo: Interventor accidental municipal
+  rol: Absuelto en 2019 en la pieza de facturas; la información consultada advertía que la sentencia aún no era firme.
+- nombre: Carlos Sánchez
+  cargo: Exconcejal y portavoz del PP en el Cabildo de Gran Canaria
+  rol: Absuelto en la sentencia de primera instancia de abril de 2017, según la prensa nominal consultada.
+- nombre: Adolfo Llamas
+  cargo: Exasesor jurídico de la corporación
+  rol: Absuelto en la sentencia de primera instancia de abril de 2017, según la prensa nominal consultada.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "falsedad documental"
-  - "malversación"
-  - "fraude"
-  - "exacciones ilegales"
-impactoSocial: "El caso evidenció problemas graves de gestión en el Ayuntamiento de Santa Brígida durante dos mandatos del PP, generando gran desconfianza en la población local y debate sobre el control de la contratación pública municipal en municipios pequeños."
-documentos: []
+- corrupción
+- prevaricación
+- falsedad documental
+- malversación
+- fraude
+- exacciones ilegales
+impactoSocial: El proceso exigió distinguir posibles irregularidades administrativas de los requisitos de responsabilidad penal. Las absoluciones impiden presentar como acreditada la trama de facturas falsas descrita por la acusación.
+documentos:
+- fecha: '2018-04-25'
+  titulo: 'Tribunal Supremo: sentencia 196/2018 y segunda sentencia absolutoria (ECLI:ES:TS:2018:1614)'
+  filetype: pdf
+  paginas: 9
+  nombre_fichero: https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TSupremo%20Penal%2025%20abril%202018.pdf
 cronologia:
-  - fecha: 2004-10-01
-    titulo: "Denuncia inicial ante la Audiencia de Cuentas"
-    descripcion: "Victoria Casas, acompañada de Antonio Ramírez (portavoz socialista) y Amalia Bosch (Los Verdes), denunciaron a la Audiencia de Cuentas a los exalcaldes Carmelo Vega y Antonio Díaz, al exconcejal Luis Troya, a Antonio Ventura (empleado de Vías y Obras), a tres interventores municipales y a un empresario por presuntas irregularidades en la gestión municipal."
-    type: "denuncia"
-    urls:
-      - "https://www.canarias7.es/sociedad/la-denunciante-lo-recuerdo-todo-como-un-verdadero-desproposito-AL7926705"
-  - fecha: 2007-10-25
-    titulo: "Operación Brisán: detención de exalcaldes"
-    descripcion: "La Guardia Civil detiene en la Operación Brisán a los exalcaldes Carmelo Vega y Antonio Díaz, junto a otras cinco personas. Fueron puestos en libertad con cargos y obligados a firmar cada quince días en el juzgado. La operación fue la cuarta anticorrupción en Gran Canaria después del caso Faycán. En total, fueron 12 los detenidos en la operación."
-    type: "detención"
-    urls:
-      - "https://www.publico.es/actualidad/brisan-cuarta-operacion-anticorrupcion-gran.html"
-      - "https://www.publico.es/actualidad/ex-alcalde-santa-brigida-carmelo.html"
-  - fecha: 2008-04-25
-    titulo: "Condena por prevaricación en el 'caso del parterre'"
-    descripcion: "La Audiencia Provincial de Las Palmas confirma la sentencia que condena al exalcalde Carmelo Vega y al exconcejal Luis Troya a nueve años de inhabilitación para cualquier cargo y empleo público como autores de un delito de prevaricación, por derribar el bordillo de un parterre construido por una vecina en septiembre de 2002."
-    type: "sentencia"
-    urls:
-      - "https://www.canarias7.es/hemeroteca/troya_y_vega_inhabilitados_por_el_caso_del_parterre-LCCSN85806"
-      - "http://www.soitu.es/soitu/2008/04/25/info/1209128371_030288.html"
-  - fecha: 2017-05-01
-    titulo: "Condena inicial a Antonio Díaz"
-    descripcion: "La Sección Primera de la Audiencia Provincial de Las Palmas condena a Antonio Díaz a cinco años de cárcel y a 17 años de inhabilitación para el ejercicio de cargo público por los delitos de falsedad en documento oficial y prevaricación en concurso con fraude y exacciones ilegales. Se le acusa de favorecer contrataciones irregulares, dar instrucciones para no cobrar impuestos a una lista de personas incluyéndose a sí mismo, y ocultar que era dueño de una autoescuela. La sentencia absuelve a Carlos Sánchez y Adolfo Llamas."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/canariasahora/tribunales/condenado-carcel-alcalde-Santa_Brigida_0_634836760.html"
-  - fecha: 2018-05-14
-    titulo: "Absolución de Antonio Díaz por el Tribunal Supremo"
-    descripcion: "La Sala de lo Penal del Tribunal Supremo anula la condena a cinco años de prisión y a 21 años de inhabilitación al exalcalde Antonio Díaz. El tribunal estimó el recurso de casación interpuesto contra la sentencia de la Audiencia Provincial de Las Palmas. El Supremo rechazó que se hubiera probado que el exalcalde diera instrucciones verbales a la entidad MUNGEST para retener expedientes en vía ejecutiva, ni consideró acreditado el delito de falsedad en documento oficial."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-absuelve-al-exalcalde-de-Santa-Brigida--Gran-Canaria--de-los-delitos-de-falsedad-y-prevaricacion"
-  - fecha: 2019-01-01
-    titulo: "Absolución de los cuatro acusados del caso Brisán"
-    descripcion: "Doce años después de que diera comienzo la investigación del denominado caso Brisán, la Sección Sexta de la Audiencia Provincial de Las Palmas absuelve a los cuatro encausados (Luis Troya, Pedro Morales y los interventores Jacinto y Santiago Hernández) de los delitos de malversación, falsedad y prevaricación. Para la Sala, de la prueba practicada durante el juicio no se pudo demostrar la confabulación entre concejal y empresario para defraudar y lucrarse de las arcas públicas: ni la falsedad de las facturas, ni que los servicios no se prestaran, ni que las mercancías no se entregaran."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/canariasahora/tribunales/caso-brisan-absueltos-corrupcion-pp-santa-brigida-facturas-falsas_1_1330296.html"
-      - "https://www.canarias7.es/sociedad/la-audiencia-provincial-absuelve-a-los-cuatro-acusados-del-caso-brisan-AD8027046"
+- fecha: '2007-10-23'
+  titulo: Detenciones de la operación Brisán
+  descripcion: La información contemporánea da cuenta de las detenciones de dos exalcaldes, Luis Troya y técnicos municipales, y de la investigación judicial de posibles contrataciones con empresas vinculadas. Las sospechas iniciales no son un resultado judicial.
+  type: detencion
+  urls:
+  - https://elpais.com/elpais/2007/10/23/actualidad/1193127421_850215.html
+  relevancia: alta
+- fecha: '2009-06-10'
+  titulo: Se publica la absolución de Vega por el pleno urgente
+  descripcion: Europa Press informa de la absolución por el Supremo frente a los siete años de inhabilitación impuestos por la celebración de un pleno en diciembre de 2004. Esta causa es distinta del parterre y de la pieza de facturas. La fecha es la de la noticia; no se ha cotejado el original.
+  type: sentencia
+  urls:
+  - https://www.europapress.es/nacional/noticia-ts-absuelve-alcalde-santa-brigida-gran-canaria-pena-anos-inhabilitacion-prevaricar-20090610125242.html
+  relevancia: alta
+- fecha: '2010-02-05'
+  titulo: Se informa de la división de Brisán en cuatro piezas
+  descripcion: Europa Press reproduce la división judicial en una pieza principal sobre Troya y Morales y las separadas de falsedades, Carmelo Vega y Saramema. El auto, según la noticia, era del 10 de octubre de 2009 y admitía recursos; el 5 de febrero es la fecha de difusión. No se atribuye a todas las piezas un mismo desenlace.
+  type: investigacion
+  urls:
+  - https://www.europapress.es/nacional/noticia-juez-caso-brisan-santa-brigida-gran-canaria-divide-investigacion-cuatro-piezas-20100205162440.html
+  relevancia: alta
+- fecha: '2017-04-18'
+  titulo: Condena inicial de Antonio Díaz, posteriormente anulada
+  descripcion: La sentencia de la Sección Primera impuso cinco años de prisión y 21 de inhabilitación (cuatro por falsedad, doce por prevaricación en concurso con fraude y exacciones y cinco por complicidad en otra prevaricación), según reproduce el Supremo. La prensa del día 19 informó de 17 años, cifra que no incluía toda la inhabilitación. Carlos Sánchez y Adolfo Llamas resultaron absueltos según esa noticia.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TSupremo%20Penal%2025%20abril%202018.pdf
+  - https://www.eldiario.es/canariasahora/tribunales/condenado-carcel-alcalde-santa-brigida_1_3456795.html
+  relevancia: alta
+- fecha: '2018-04-25'
+  titulo: El Supremo casa la condena y absuelve a Antonio Díaz
+  descripcion: La STS 196/2018 anula la condena; la segunda sentencia absuelve de todos los delitos por los que venía acusado, deja sin efecto las medidas cautelares y declara de oficio las costas de instancia. El fallo declara que no cabe recurso. La nota oficial y la información nominal de EFE se publicaron el 14 de mayo.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TSupremo%20Penal%2025%20abril%202018.pdf
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-absuelve-al-exalcalde-de-Santa-Brigida--Gran-Canaria--de-los-delitos-de-falsedad-y-prevaricacion
+  - https://www.eldiario.es/canariasahora/tribunales/tsjc-santa-brigida-documental-prevaricacion_1_5868166.html
+  relevancia: alta
+- fecha: '2019-10-04'
+  titulo: Se publica la absolución de los cuatro acusados por las facturas
+  descripcion: 'La Sección Sexta absuelve a Troya, Pedro Morales y los interventores accidentales Santiago y Jacinto Hernández: no se prueba la falsedad de facturas ni que los servicios o suministros no se prestaran. La noticia señala expresamente que la sentencia no era firme y cabía casación. Esta es la fecha de publicación, no la fecha de firma de la sentencia, cuyo original no se ha recuperado.'
+  type: sentencia
+  urls:
+  - https://www.eldiario.es/canariasahora/tribunales/caso-brisan-absueltos-corrupcion-pp-santa-brigida-facturas-falsas_1_1330296.html
+  relevancia: alta
 ---
+
+La [división de Brisán en cuatro piezas](https://www.europapress.es/nacional/noticia-juez-caso-brisan-santa-brigida-gran-canaria-divide-investigacion-cuatro-piezas-20100205162440.html) obliga a no extender una absolución o condena a todo el procedimiento. Quedan pendientes los resultados y recursos de las piezas de falsedades, de Carmelo Vega y de Saramema. La fecha exacta de la denuncia heredada de octubre de 2004 no se conserva porque no se ha revalidado con una fuente leída.
+
+La [sentencia original del Supremo de 25 de abril de 2018](https://www.poderjudicial.es/stfls/TRIBUNAL%20SUPREMO/DOCUMENTOS%20DE%20INTER%C3%89S/TSupremo%20Penal%2025%20abril%202018.pdf) contiene tanto la casación como la segunda sentencia absolutoria, en nueve páginas. El documento está anonimizado: la identificación de Antonio Díaz Hernández procede de la [noticia nominal de EFE](https://www.eldiario.es/canariasahora/tribunales/tsjc-santa-brigida-documental-prevaricacion_1_5868166.html) y de la nota oficial, no de una deducción a partir del seudónimo. El original mantiene íntegro el relato de hechos probados de instancia y concluye que no permiten la calificación penal aplicada. No debe resumirse como una declaración de inexistencia de todos los hechos: por ejemplo, examina el alcance de la orden de retener expedientes y la falta de un resultado de impago acreditado. En la falsedad aprecia que no concurría la condición de funcionario exigida en las declaraciones anteriores a tomar posesión.
+
+En la [pieza de facturas de 2019](https://www.eldiario.es/canariasahora/tribunales/caso-brisan-absueltos-corrupcion-pp-santa-brigida-facturas-falsas_1_1330296.html), las cantidades reclamadas o facturadas no constituyen por sí mismas daño probado. La acusación atribuyó falsedades por 40.494,47 euros; la absolución rechazó que se acreditaran esas falsedades o suministros inexistentes. Se retiran los **808.220 euros** del campo de coste: la ficha heredada los presentaba como facturación total, no como pérdida patrimonial declarada judicialmente. `coste: 0` indica que esta revisión no aporta un daño económico cuantificado; no certifica la inexistencia de cualquier perjuicio en otras piezas.
+
+El antecedente del **parterre** necesita una comprobación documental adicional. La [información retrospectiva de 2016](https://www.eldiario.es/canariasahora/sociedad/fallece-carmelo-vega-santa-brigida_1_3950193.html) refiere la condena de Vega y Troya y la pena de nueve años de inhabilitación, pero no permite reconstruir con precisión la fecha ni todos los recursos. La fuente de Soitu heredada para el 25 de abril de 2008 trata realmente de **otra causa**, la del pleno urgente y una pena de siete años a Vega; [Europa Press informó en 2009 de su absolución](https://www.europapress.es/nacional/noticia-ts-absuelve-alcalde-santa-brigida-gran-canaria-pena-anos-inhabilitacion-prevaricar-20090610125242.html). No se confunden ambos resultados.
+
+La revisión con corte al **17 de octubre de 2026** permanece parcial: falta el original de la sentencia de 2019, comprobar los eventuales recursos de esa absolución y cerrar documentalmente las demás piezas y el antecedente del parterre. No se deduce firmeza por falta de noticias. `fechaFin` queda vacía. El documento remoto enlazado en `documentos` es el PDF judicial de 2018 comprobado mediante GET y lectura; sus metadatos de exportación de mayo no sustituyen la fecha judicial de abril.
