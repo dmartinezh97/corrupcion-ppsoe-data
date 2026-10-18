@@ -1,109 +1,67 @@
 ---
-nombre: "Caso Ana Gago"
+nombre: Caso Ana Gago
 partido: PP
-completado: true
+completado: false
 año: 2015
-fechaInicio: 2014-01-01
-fechaFin: 2019-05-22
-estado: cerrado con condenas
-descripcion: |
-  El caso Ana Gago se refiere a la alcaldesa del Partido Popular en Gatón de Campos, un pequeño municipio de la provincia de Valladolid con aproximadamente 34 habitantes, acusada de alterar maliciosamente el censo electoral para las elecciones municipales de 2015. Ana María Gago, en su calidad de alcaldesa, permitió 13 empadronamientos irregulares entre noviembre y diciembre de 2014, sabiendo que las personas registradas no residían habitualmente en el municipio, sino que solo pasaban allí periodos vacacionales y fines de semana.
-
-  Los hechos investigados se remontan a 2014, cuando Gatón de Campos contaba con solo 29 electores en el censo electoral que cerraría el 31 de diciembre de 2014 para las elecciones municipales de mayo de 2015. Durante ese año se presentaron 16 solicitudes de empadronamiento, de las cuales 13 se tramitaron en los últimos meses del año, generando un incremento poblacional del 40% que alertó a la Oficina del Censo Electoral en febrero de 2015. Según la acusación, Gago conocía personalmente a cada uno de los solicitantes, sabía que no residían de forma habitual en el municipio y consintió las inscripciones sin realizar las verificaciones correspondientes. Varios de los empadronados eran familiares directos o afines de la alcaldesa, y la mayoría se dio de baja del padrón después de las elecciones.
-
-  El Ministerio Fiscal acusó a Ana Gago de dos delitos: alteración maliciosa del censo electoral (artículo 139.1 de la Ley Electoral) y prevaricación administrativa por omisión (artículo 404 del Código Penal). Tras el juicio celebrado en el Juzgado de lo Penal número 4 de Valladolid en mayo de 2019, Ana María Gago fue condenada a 8 años y 5 meses de inhabilitación especial para cargo público y privación del derecho de sufragio pasivo. Aunque el PP ganó los tres escaños del ayuntamiento en 2015, Gago no se presentó a las siguientes elecciones municipales, siendo sustituida en la candidatura por Alfredo Castro.
-
-resumen: "Alcaldesa del PP condenada por alterar el censo electoral empadronando irregularmente a 13 personas en Gatón de Campos"
-lugar: "Gatón de Campos, Valladolid, Castilla y León"
+estado: condena comunicada en 2019; firmeza pendiente de verificar
+descripcion: La alcaldesa del PP de Gatón de Campos, Ana María Gago, fue juzgada en mayo de 2019 por permitir inscripciones
+  de personas que no residían habitualmente en el municipio antes de las elecciones de 2015. Europa Press informó
+  el 11 de junio de 2019 de una condena del Juzgado de lo Penal número 4 de Valladolid a ocho años y cinco meses
+  de inhabilitación para cargo público de concejal y alcalde, por alteración maliciosa del censo electoral en concurso
+  con prevaricación por omisión. No se ha obtenido la sentencia íntegra ni comprobado su fecha exacta, número, firmeza
+  o ejecución.
+resumen: Condena comunicada en junio de 2019 por alterar el censo de Gatón de Campos; recursos y firmeza sin verificar.
+lugar: Gatón de Campos, Valladolid, Castilla y León
 tribunal:
-  - "Juzgado de lo Penal número 4 de Valladolid"
-numeroSentencia: ""
+- Juzgado de lo Penal número 4 de Valladolid
 implicados:
-  - nombre: "Ana María Gago"
-    cargo: "Alcaldesa de Gatón de Campos (PP)"
-    rol: "Condenada por alteración del censo electoral y prevaricación administrativa. Inhabilitada 8 años y 5 meses"
-
+- nombre: Ana María Gago
+  cargo: Alcaldesa de Gatón de Campos (PP)
+  rol: Condena comunicada en 2019 por delito electoral en concurso con prevaricación por omisión; ocho años y cinco
+    meses de inhabilitación. Firmeza y ejecución pendientes de cotejo.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "fraude electoral"
-  - "alteración de censo"
-
-impactoSocial: "El caso evidenció cómo alcaldes de pequeños municipios pueden manipular el censo electoral para garantizar victorias electorales, socavando la integridad democrática del proceso electoral en poblaciones rurales con escasos habitantes."
-
-documentos: null
-
+- corrupción
+- prevaricación
+- fraude electoral
+- alteración de censo
+documentos: []
 cronologia:
-  - fecha: "2014-01"
-    titulo: "Situación inicial del censo electoral"
-    descripcion: "Gatón de Campos, municipio de 34 habitantes en la provincia de Valladolid, cuenta con solo 29 electores registrados en el censo electoral. Con las elecciones municipales de 2015 en el horizonte, el censo cerraría el 31 de diciembre de 2014 para determinar los votantes habilitados."
-    type: "resumen"
-    urls: []
-
-  - fecha: "2014-11-24"
-    titulo: "Inicio del periodo crítico de empadronamientos"
-    descripcion: "Entre el 24 de noviembre y el 31 de diciembre de 2014, se procesan 13 solicitudes de empadronamiento en Gatón de Campos. Según la acusación posterior, Ana María Gago, alcaldesa del PP, conocía personalmente a todos los solicitantes y sabía que no residían habitualmente en el municipio, pero consintió las inscripciones sin objeción alguna."
-    type: "investigación"
-    urls:
-      - "https://www.diariodevalladolid.es/valladolid/provincia/190522/116800/juzgan-alcaldesa-gaton-engordar-censo-ganar.html"
-
-  - fecha: "2014-12-31"
-    titulo: "Cierre del censo electoral para elecciones 2015"
-    descripcion: "Fecha límite para el cierre del censo electoral que se utilizaría en las elecciones municipales de mayo de 2015. El censo de Gatón de Campos muestra un incremento significativo de población, pasando de 29 a más de 40 electores potenciales, lo que representa un aumento del 40%."
-    type: "resumen"
-    urls: []
-
-  - fecha: "2015-02-03"
-    titulo: "Detección de anomalías por la Oficina del Censo Electoral"
-    descripcion: "La Oficina del Censo Electoral detecta un incremento poblacional anómalo del 40% en Gatón de Campos y solicita explicaciones al ayuntamiento sobre las inscripciones realizadas en los últimos meses de 2014. Se inicia así el proceso de verificación que posteriormente derivaría en investigación judicial."
-    type: "investigación"
-    urls:
-      - "https://www.diariodevalladolid.es/valladolid/provincia/190522/116800/juzgan-alcaldesa-gaton-engordar-censo-ganar.html"
-
-  - fecha: "2015-03-04"
-    titulo: "Respuesta deficiente del ayuntamiento"
-    descripcion: "La Oficina del Censo Electoral recibe información calificada como 'errónea o repetitiva' por parte del ayuntamiento de Gatón de Campos en respuesta a sus requerimientos sobre las inscripciones irregulares. Esta respuesta insatisfactoria incrementa las sospechas sobre la manipulación del censo."
-    type: "resumen"
-    urls:
-      - "https://www.diariodevalladolid.es/valladolid/provincia/190522/116800/juzgan-alcaldesa-gaton-engordar-censo-ganar.html"
-
-  - fecha: "2015-03-09"
-    titulo: "Presentación de declaraciones juradas por parte de la alcaldesa"
-    descripcion: "Ana María Gago presenta doce declaraciones juradas intentando justificar los empadronamientos realizados. Sin embargo, estas declaraciones no logran acreditar que las personas empadronadas residieran habitualmente en Gatón de Campos, ya que la mayoría solo pasaba allí vacaciones y fines de semana."
-    type: "documento"
-    urls:
-      - "https://www.diariodevalladolid.es/valladolid/provincia/190522/116800/juzgan-alcaldesa-gaton-engordar-censo-ganar.html"
-
-  - fecha: "2015-05"
-    titulo: "Celebración de elecciones municipales con resultado favorable al PP"
-    descripcion: "Se celebran las elecciones municipales de 2015 en Gatón de Campos. El Partido Popular obtiene los tres escaños del ayuntamiento, aunque según analistas políticos locales, el resultado habría sido el mismo sin los empadronamientos irregulares, lo que evidencia que la manipulación del censo era innecesaria para garantizar la victoria."
-    type: "resumen"
-    urls:
-      - "https://www.diariodevalladolid.es/valladolid/provincia/190522/116800/juzgan-alcaldesa-gaton-engordar-censo-ganar.html"
-
-  - fecha: "2015-06"
-    titulo: "Bajas masivas en el padrón tras las elecciones"
-    descripcion: "La mayoría de las personas que se empadronaron irregularmente en los últimos meses de 2014 se dan de baja del padrón municipal de Gatón de Campos poco después de celebradas las elecciones municipales de mayo de 2015, confirmando que no residían habitualmente en el municipio y que los empadronamientos tenían fines exclusivamente electorales."
-    type: "resumen"
-    urls:
-      - "https://www.diariodevalladolid.es/valladolid/provincia/190522/116800/juzgan-alcaldesa-gaton-engordar-censo-ganar.html"
-
-  - fecha: "2015"
-    titulo: "Apertura de investigación judicial"
-    descripcion: "Ante las evidencias de manipulación del censo electoral, se abre una investigación judicial contra Ana María Gago por presuntos delitos contra el régimen electoral y prevaricación administrativa. El Ministerio Fiscal inicia la instrucción del caso para determinar responsabilidades penales."
-    type: "investigación"
-    urls: []
-
-  - fecha: "2019-05-22"
-    titulo: "Celebración del juicio oral en Valladolid"
-    descripcion: "Se celebra la vista oral contra Ana María Gago en el Juzgado de lo Penal número 4 de Valladolid. El Ministerio Fiscal solicita un año de prisión por delito electoral (con privación de sufragio pasivo durante ese periodo), multa de 9 meses (2.700 euros) y 10 años de inhabilitación especial para cargo público por prevaricación administrativa. La fiscalía argumenta que Gago permitió conscientemente 13 empadronamientos irregulares, conociendo que los solicitantes no residían habitualmente en Gatón de Campos."
-    type: "declaración"
-    urls:
-      - "https://www.diariodevalladolid.es/valladolid/provincia/190522/116800/juzgan-alcaldesa-gaton-engordar-censo-ganar.html"
-
-  - fecha: "2019-05-22"
-    titulo: "Sentencia condenatoria: 8 años y 5 meses de inhabilitación"
-    descripcion: "El Juzgado de lo Penal número 4 de Valladolid condena a Ana María Gago a 8 años y 5 meses de inhabilitación especial para cargo público (concejal y alcalde) y privación del derecho de sufragio pasivo por los delitos de alteración maliciosa del censo electoral en concurso con prevaricación administrativa por omisión. La sentencia considera probado que Gago consintió empadronamientos irregulares sabiendo que las personas no residían habitualmente en el municipio."
-    type: "sentencia"
-    urls: []
+- fecha: '2014-11-24'
+  titulo: Periodo de inscripciones examinado en la causa
+  descripcion: La acusación reseñada en mayo de 2019 situaba entre este día y el 31 de diciembre de 2014 trece de
+    las dieciséis solicitudes de empadronamiento recibidas durante ese año. Se trata del inicio de ese periodo,
+    no de la apertura de diligencias judiciales.
+  type: resumen
+  urls:
+  - https://www.diariodevalladolid.es/valladolid/provincia/190522/116800/juzgan-alcaldesa-gaton-engordar-censo-ganar.html
+- fecha: '2015-02-03'
+  titulo: Primer requerimiento de la Oficina del Censo Electoral
+  descripcion: La información previa al juicio recoge un requerimiento al Ayuntamiento ante el aumento anómalo de
+    empadronamientos, seguido de nuevas peticiones de explicación. No se ha consultado el expediente electoral original.
+  type: documento
+  urls:
+  - https://www.diariodevalladolid.es/valladolid/provincia/190522/116800/juzgan-alcaldesa-gaton-engordar-censo-ganar.html
+- fecha: '2019-05-22'
+  titulo: Noticia sobre la vista oral y la petición fiscal
+  descripcion: Diario de Valladolid anunció la vista en el Juzgado de lo Penal número 4. La Fiscalía pedía un año
+    de prisión y multa de 2.700 euros por delito electoral, y diez años de inhabilitación por prevaricación. Son
+    peticiones, no las penas finalmente comunicadas.
+  type: juicio
+  urls:
+  - https://www.diariodevalladolid.es/valladolid/provincia/190522/116800/juzgan-alcaldesa-gaton-engordar-censo-ganar.html
+- fecha: '2019-06-11'
+  titulo: Se comunica la condena de inhabilitación
+  descripcion: Europa Press publicó la condena a ocho años y cinco meses de inhabilitación. Esta fecha corresponde
+    a la noticia; no se ha verificado que sea la de la sentencia. Quedan pendientes posibles recursos y firmeza.
+  type: sentencia
+  urls:
+  - https://www.europapress.es/castilla-y-leon/noticia-condenada-mas-ocho-anos-inhabilitacion-alcaldesa-gaton-valladolid-alterar-censo-electoral-20190611123739.html
 ---
+
+La noticia previa al juicio de Diario de Valladolid describe trece solicitudes de personas vinculadas al pueblo que, según la Fiscalía, solo lo frecuentaban en vacaciones y fines de semana. También recoge actuaciones de la Oficina del Censo Electoral en febrero y marzo de 2015 y declaraciones juradas remitidas por la alcaldesa. Se atribuye ese relato a la acusación, sin convertir cada detalle en un hecho probado.
+
+La crónica de Europa Press sobre la condena recoge que el juzgador consideró acreditada la finalidad electoral de los empadronamientos y la omisión de actuación ante las advertencias de la Oficina del Censo. No se ha comprobado en el fallo original la extensión exacta de la privación del sufragio pasivo que la versión anterior atribuía a la condena. Tampoco se confunde la petición fiscal de prisión y multa con las penas impuestas.
+
+No se ha acreditado daño económico cuantificado. La multa solicitada no es un coste patrimonial del caso. Se retira el juicio editorial sobre si los empadronamientos eran necesarios para ganar las elecciones: el resultado de la votación no sustituye el examen judicial de las conductas.
+
+Revisión hasta el 17 de octubre de 2026: las búsquedas por persona, municipio, censo, apelación, absolución y Supremo, incluida búsqueda en poderjudicial.es, no han permitido identificar una resolución original o posterior inequívoca. Faltan número de procedimiento, sentencia íntegra, fecha judicial, recursos, firmeza y ejecución. No se deduce el cierre definitivo de la ausencia de noticias. Documentos queda como lista vacía porque no se ha localizado un PDF original verificable, no por falta de un archivo local.
