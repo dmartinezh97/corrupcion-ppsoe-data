@@ -3,7 +3,6 @@ nombre: ERE de Andalucía
 partido: PSOE
 completado: false
 año: 2000
-fechaInicio: '2000-04-18'
 fechaFin: ''
 estado: activo
 descripcion: |-
@@ -299,7 +298,7 @@ cronologia:
 
 Esta ficha describe el procedimiento específico y una selección de novedades de piezas separadas; no es un registro completo de todas las ayudas ni de todas las personas investigadas. Revisión con corte de **17 de octubre de 2026**. La ausencia de noticias o de una resolución localizada no demuestra inexistencia de actuaciones posteriores.
 
-La fecha de inicio estructurada, 18 de abril de 2000, corresponde al primer acto presupuestario aquí documentado. No es la fecha de apertura de diligencias ni de un delito establecido definitivamente para todos los intervinientes. Se han retirado de la cronología días de primer mes sin respaldo documental y afirmaciones globales sobre culpabilidad o firmeza.
+El hito de 18 de abril de 2000 corresponde al primer acto presupuestario aquí documentado. No es la fecha de apertura de diligencias ni de un delito establecido definitivamente para todos los intervinientes. Se han retirado de la cronología días de primer mes sin respaldo documental y afirmaciones globales sobre culpabilidad o firmeza.
 
 ### Responsabilidades individuales
 
@@ -315,7 +314,7 @@ Las cantidades de Autologística, Agrodoñana, Consyproan y Encimeras pertenecen
 
 ### Tramitación europea
 
-El auto original 657/2025 está fechado el **14 de julio**, la difusión fue el 15, la presentación europea el **17 de julio** y la publicación en el DOUE el **15 de diciembre de 2025**. Las alegaciones de la Comisión conocidas en abril de 2026 no son un fallo de inadmisión o de fondo del TJUE. La consulta pública del expediente C-501/25 no se pudo completar y no se ha localizado su resolución final; por ello no se certifica aquí que siga pendiente en todos sus trámites al corte.
+El auto original 657/2025 está fechado el **14 de julio**, la difusión fue el 15, la presentación europea el **17 de julio** y la publicación en el DOUE el **15 de diciembre de 2025**. Las alegaciones de la Comisión conocidas en abril de 2026 no son un fallo de inadmisión o de fondo del TJUE. Se ha leído íntegramente la comunicación oficial del DOUE C/2025/6487, que recoge la presentación de la remisión y sus cuatro preguntas, no una decisión final del TJUE. La consulta pública del expediente C-501/25 no se pudo completar y no se ha localizado su resolución final; por ello no se certifica aquí que siga pendiente en todos sus trámites al corte.
 
 La posible remisión en la pieza del grupo Ruiz-Mateos es un incidente distinto: se ha comprobado la noticia del trámite de audiencia de abril de 2026, no el auto original ni la remisión final. No se generaliza la suspensión del auto de 2025 a toda la macrocausa.
 
