@@ -1,209 +1,160 @@
 ---
-nombre: "Caso Divalterra (Caso Alquería)"
-partido: "PSOE"
-completado: true
-año: 2015
-fechaInicio: "2015-07-24"
-fechaFin: "2023-12-14"
-estado: "Cerrado con absoluciones"
-descripcion: |
-  El caso Divalterra, también conocido como caso Alquería, investiga presuntas irregularidades en la contratación de nueve directivos de alta dirección en la empresa pública Divalterra (antigua Imelsa), dependiente de la Diputación de Valencia, entre noviembre de 2015 y febrero de 2018. Según la acusación, estos puestos fueron creados de manera ficticia y repartidos entre afines y simpatizantes del PSPV-PSOE y Compromís como parte del reparto de poder del gobierno del Botànic en la Comunidad Valenciana.
+nombre: Caso Divalterra (Caso Alquería)
+partido: PSOE
+completado: false
+año: 2018
+estado: Absolución firme
+descripcion: 'El caso Alquería examinó las contrataciones de alta dirección de Divalterra, antigua Imelsa, empresa
+  pública dependiente de la Diputación de Valencia, entre 2015 y 2018. Las acusaciones atribuían a sus responsables
+  la creación de puestos para personas afines al PSPV-PSOE y Compromís y reclamaban penas por prevaricación, malversación
+  y falsedad documental. Esa tesis acusatoria no quedó acreditada en los términos necesarios para una condena: los
+  puestos ficticios y el supuesto perjuicio no se presentan como hechos delictivos probados.
 
-  La investigación se centró en determinar si las contrataciones se realizaron sin observar los requisitos legales ni estatutarios, sin los preceptivos informes jurídicos y de intervención, y si supusieron un perjuicio de 1,12 millones de euros para las arcas públicas. El caso se destapó tras una denuncia de la Fiscalía Anticorrupción presentada en mayo de 2018, basada en información facilitada por dos directivos de Divalterra en febrero de ese año. La Operación Alquería, ejecutada el 27 de junio de 2018 por la UDEF, condujo a la detención del presidente de la Diputación, Jorge Rodríguez, y registros en las sedes de la Diputación, el Ayuntamiento de Ontinyent y Divalterra.
 
-  Tras cinco años de proceso judicial, en mayo de 2023 la Audiencia Provincial de Valencia absolvió a todos los acusados al concluir que no quedó acreditado perjuicio económico para Divalterra y que los contratados desempeñaron trabajo efectivo. El Tribunal Superior de Justicia de la Comunidad Valenciana confirmó la absolución en diciembre de 2023, rechazando el recurso de la Fiscalía Anticorrupción. La sentencia determinó que no se probaron los delitos de prevaricación administrativa, malversación de caudales públicos ni falsedad documental.
+  La Sección Primera de la Audiencia Provincial de Valencia absolvió a los catorce acusados en la sentencia 255/2023,
+  de 30 de mayo. Consideró que los contratados realizaron trabajo efectivo, no tuvo por acreditado un perjuicio
+  económico y apreció dudas razonables sobre la prevaricación. El TSJCV desestimó el recurso de la Fiscalía mediante
+  sentencia 330/2023, de 12 de diciembre, difundida el día 14. Europa Press informó el 15 de enero de 2024, citando
+  fuentes del TSJCV, de la declaración de firmeza por no haberse interpuesto casación. La firmeza se respalda en
+  esa comunicación, aunque no se ha recuperado su resolución original.
 
-resumen: "Contrataciones irregulares en Divalterra repartidas entre PSPV y Compromís entre 2015-2018, absueltos todos los acusados"
-coste: 1120000
-lugar: "Valencia, Comunidad Valenciana"
+
+  Pau Pérez había sido absuelto separadamente al inicio del juicio, el 19 de septiembre de 2022, tras retirarse
+  la acusación que lo mantenía en el banquillo. No se confunde su situación con el fallo posterior sobre los catorce
+  restantes. Los importes salariales y las indemnizaciones solicitadas no equivalen a daño declarado. Quedan pendientes
+  los originales de la absolución inicial de Pérez y de la declaración de firmeza; no se documentan aquí posibles
+  reclamaciones posteriores por el proceso.'
+resumen: Absolución de los acusados por contrataciones de alta dirección en Divalterra, confirmada en apelación
+  y declarada firme según información del TSJCV difundida en enero de 2024.
+lugar: Valencia, Comunidad Valenciana
 tribunal:
-  - "Juzgado de Instrucción nº 9 de Valencia"
-  - "Audiencia Provincial de Valencia - Sección Octava"
-  - "Tribunal Superior de Justicia de la Comunidad Valenciana - Sala Civil y Penal"
-numeroSentencia: ""
+- Audiencia Provincial de Valencia, Sección Primera
+- Tribunal Superior de Justicia de la Comunidad Valenciana, Sala de lo Civil y Penal
+numeroSentencia: SAP Valencia 255/2023, de 30 de mayo, ECLI:ES:APV:2023:737; STSJCV 330/2023, de 12 de diciembre,
+  ECLI:ES:TSJCV:2023:6304
 implicados:
-  - nombre: "Jorge Rodríguez Gramage"
-    cargo: "Presidente de la Diputación de Valencia y alcalde de Ontinyent"
-    rol: "Absuelto de prevaricación y malversación"
-
-  - nombre: "Agustina Brines Siserol"
-    cargo: "Cogerente de Divalterra (Compromís)"
-    rol: "Absuelta de prevaricación y malversación"
-
-  - nombre: "José Ramón Tiller"
-    cargo: "Cogerente de Divalterra (PSPV-PSOE)"
-    rol: "Absuelto de prevaricación y malversación"
-
-  - nombre: "Ricard Gallego Perales"
-    cargo: "Jefe de gabinete de Jorge Rodríguez"
-    rol: "Absuelto de participación en reparto de cargos ficticios"
-
-  - nombre: "Manuel Reguart Serna"
-    cargo: "Asesor de Jorge Rodríguez"
-    rol: "Absuelto de participación en reparto de cargos ficticios"
-
-  - nombre: "José Luis Vera"
-    cargo: "Director Jurídico de Divalterra"
-    rol: "Absuelto de avalar contratos sin informes legales preceptivos"
-
-  - nombre: "Pau Pérez Ledo"
-    cargo: "Director contratado en Divalterra (PSPV)"
-    rol: "Absuelto de malversación y falsedad documental"
-
-  - nombre: "Josep Lluís Melero Martí"
-    cargo: "Director contratado en Divalterra (PSPV)"
-    rol: "Absuelto de malversación y falsedad documental"
-
-  - nombre: "María Soledad Torija Urbano"
-    cargo: "Directora contratada en Divalterra (Compromís)"
-    rol: "Absuelta de malversación y falsedad documental"
-
-  - nombre: "Raúl Ibáñez Fos"
-    cargo: "Director contratado en Divalterra (Compromís)"
-    rol: "Absuelto de malversación y falsedad documental"
-
-  - nombre: "Manuel Carot Martínez"
-    cargo: "Director contratado en Divalterra (PSPV)"
-    rol: "Absuelto de malversación y falsedad documental"
-
-  - nombre: "Miguel Ángel Ferri Llopis"
-    cargo: "Director contratado en Divalterra (PSPV)"
-    rol: "Absuelto de malversación y falsedad documental"
-
-  - nombre: "Salvador Femenía Peiró"
-    cargo: "Director contratado en Divalterra y alcalde de l'Alqueria de la Comtessa (PSPV)"
-    rol: "Absuelto de malversación y falsedad documental"
-
-  - nombre: "Vicente Lucas Ferrando Zapater"
-    cargo: "Director contratado en Divalterra en 2018"
-    rol: "Absuelto de malversación y falsedad documental"
-
+- nombre: Jorge Rodríguez
+  cargo: Expresidente de la Diputación de Valencia por el PSPV
+  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: Agustina Brines
+  cargo: Exgerente de Divalterra por Compromís
+  rol: Absuelta en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: José Ramón Tiller
+  cargo: Exgerente de Divalterra por el PSPV
+  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: Ricard Gallego
+  cargo: Exjefe de gabinete del presidente de la Diputación
+  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: Manuel Reguart
+  cargo: Exasesor del presidente de la Diputación
+  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: Jorge Cuerda
+  cargo: Exsecretario letrado del consejo de administración de Divalterra
+  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: Xavier Simó
+  cargo: Exgerente de Divalterra
+  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: Josep Luis Melero
+  cargo: Directivo contratado por Divalterra
+  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: Soledad Torija
+  cargo: Directiva contratada por Divalterra
+  rol: Absuelta en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: Raúl Ibáñez
+  cargo: Directivo contratado por Divalterra
+  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: Manuel Carot
+  cargo: Directivo contratado por Divalterra
+  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: Miguel Ángel Ferri Llopis
+  cargo: Directivo contratado por Divalterra
+  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: Salvador Femenía
+  cargo: Directivo contratado por Divalterra
+  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: Víctor Jiménez
+  cargo: Directivo contratado por Divalterra
+  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+    de 2024.
+- nombre: Pau Pérez
+  cargo: Exdirectivo de Divalterra
+  rol: Absuelto separadamente al inicio del juicio el 19 de septiembre de 2022 tras retirarse las acusaciones populares;
+    original de ese pronunciamiento pendiente de contraste.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "malversación"
-  - "falsedad documental"
-  - "enchufismo"
-
-impactoSocial: "El caso Alquería fue el primer gran caso de corrupción del gobierno del Botànic en la Comunidad Valenciana, provocando la dimisión del presidente de la Diputación Jorge Rodríguez en julio de 2018 y su posterior salida del PSPV-PSOE. El proceso judicial tuvo un gran impacto mediático y político, especialmente por implicar a ambos socios del gobierno valenciano (PSPV y Compromís) en un presunto reparto de cargos públicos, generando comparaciones con prácticas tradicionales de clientelismo político."
-
-documentos: []
-
+- contratación pública
+- absolución
+- Divalterra
+- Alquería
+impactoSocial: 'El proceso afectó a la presidencia de la Diputación y a los gestores y directivos de su empresa
+  pública. La absolución distingue las controversias sobre selección y contratación de la existencia de delitos:
+  no se declaró acreditado perjuicio económico para Divalterra.'
+documentos:
+- fecha: '2023-05-30'
+  titulo: 'Audiencia Provincial de Valencia: sentencia 255/2023, absolución del caso Alquería'
+  filetype: pdf
+  paginas: 84
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6291cfcf0c123f4ea0a8778d75e36f0d&encode=true&databasematch=AN
+- fecha: '2023-12-12'
+  titulo: 'TSJCV: sentencia 330/2023, confirmación de la absolución'
+  filetype: pdf
+  paginas: 64
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a99bc1e704856f54a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2015-07-24"
-    titulo: "Primer Consejo de Administración de Divalterra (Imelsa)"
-    descripcion: "En el primer Consejo de Administración de Divalterra (todavía llamada Imelsa), el Partido Popular advierte de los problemas legales de contratar directivos sin un proceso de concurrencia pública. A pesar de las advertencias, se continúa con el proceso de contratación de altos cargos sin seguir los procedimientos establecidos."
-    type: "resumen"
-    urls:
-      - "https://valenciaplaza.com/divalterra-recta-final-instruccion"
-
-  - fecha: "2015-11-01"
-    titulo: "Inicio de las contrataciones irregulares en Divalterra"
-    descripcion: "Jorge Rodríguez (PSPV-PSOE) preside la Diputación de Valencia desde julio de 2015 con el apoyo de Compromís, València en Comú y Esquerra Unida. A partir de noviembre de 2015, los cogerentes de la empresa pública Imelsa (que posteriormente se llamaría Divalterra), Agustina Brines (Compromís) y José Ramón Tiller (PSPV), inician la contratación de siete directivos de alta dirección afines a sus formaciones políticas, supuestamente sin los informes jurídicos y de intervención preceptivos."
-    type: "resumen"
-    urls:
-      - "https://valenciaplaza.com/caso-alqueria-un-ano-de-la-operacion-que-fulmino-a-jorge-rodriguez-del-pspv"
-
-  - fecha: "2015-09-01"
-    titulo: "Informes alertan sobre irregularidades en las contrataciones"
-    descripcion: "Entre septiembre de 2015 y junio de 2016 se presentan hasta siete informes que alertan sobre las irregularidades en las contrataciones de directivos en Divalterra. El jefe jurídico José Luis Vera ofrece dos opciones: mantener a los siete directivos contratados o rescindir los contratos y convocar concursos públicos. Finalmente, se decide mantener las contrataciones a pesar de las advertencias legales."
-    type: "documento"
-    urls:
-      - "https://www.eldiario.es/comunitat-valenciana/intervencion-administracion-cuestiona-contratos-alta-direccion-divalterra-quiso-coger-senores-darles-puesto_1_9702704.html"
-
-  - fecha: "2018-02-01"
-    titulo: "Dos directivos de Divalterra alertan a la Fiscalía"
-    descripcion: "Dos directivos de la empresa pública Divalterra proporcionan información a la Fiscalía Anticorrupción sobre las presuntas irregularidades en las contrataciones de altos cargos realizadas entre 2015 y 2018. Esta información se convierte en el origen de la investigación judicial que conduciría a la apertura del caso Alquería."
-    type: "denuncia"
-    urls:
-      - "https://valenciaplaza.com/caso-alqueria-un-ano-de-la-operacion-que-fulmino-a-jorge-rodriguez-del-pspv"
-
-  - fecha: "2018-03-31"
-    titulo: "Cese de los directivos contratados en Divalterra"
-    descripcion: "Los siete directivos contratados irregularmente en Divalterra son cesados en lo que se presenta oficialmente como una reestructuración de la empresa pública. Este movimiento se produce meses antes de que se haga pública la investigación policial y judicial sobre las contrataciones."
-    type: "resumen"
-    urls:
-      - "https://valenciaplaza.com/divalterra-recta-final-instruccion"
-
-  - fecha: "2018-05-01"
-    titulo: "Fiscalía Anticorrupción presenta denuncia formal"
-    descripcion: "La Fiscalía Anticorrupción de Valencia presenta una denuncia formal ante el Juzgado de Instrucción por presuntos delitos de prevaricación administrativa y malversación de caudales públicos en las contrataciones de Divalterra. La denuncia se basa en la información proporcionada por los dos directivos de la empresa en febrero de 2018 y da inicio oficial a la investigación judicial."
-    type: "denuncia"
-    urls:
-      - "https://valenciaplaza.com/caso-alqueria-un-ano-de-la-operacion-que-fulmino-a-jorge-rodriguez-del-pspv"
-
-  - fecha: "2018-06-27"
-    titulo: "Operación Alquería: detención de Jorge Rodríguez"
-    descripcion: "La Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional detiene al presidente de la Diputación de Valencia, Jorge Rodríguez, y realiza registros en la Diputación, el Ayuntamiento de Ontinyent y la sede de Divalterra. La operación investiga presuntos delitos de prevaricación administrativa y malversación de caudales públicos por un importe de 1,12 millones de euros relacionados con contrataciones irregulares en la empresa pública entre 2015 y 2018."
-    type: "detención"
-    urls:
-      - "https://www.publico.es/actualidad/detenido-presidente-diputacion-valencia-operacion-anticorrupcion.html"
-      - "https://www.elespanol.com/espana/20180627/detenido-presidente-diputacion-valencia-irregularidades-contratos-divalterra/318218431_0.html"
-
-  - fecha: "2018-07-02"
-    titulo: "Jorge Rodríguez dimite como presidente de la Diputación"
-    descripcion: "Jorge Rodríguez presenta su dimisión como presidente de la Diputación de Valencia cinco días después de su detención, aunque anuncia su intención de mantenerse al frente de la alcaldía de Ontinyent, delegando temporalmente las funciones para preparar su defensa. El 12 de julio, el pleno de la Diputación acepta oficialmente su renuncia en una sesión urgente y extraordinaria."
-    type: "resumen"
-    urls:
-      - "https://www.cope.es/actualidad/internacional/noticias/jorge-rodriguez-dimite-diputacion-delega-las-funciones-alcalde-20180702_234315"
-
-  - fecha: "2018-07-09"
-    titulo: "Diputación acuerda el cierre de Divalterra"
-    descripcion: "El pleno de la Diputación de Valencia acuerda el cierre ordenado de la empresa pública Divalterra, en medio de la crisis política generada por el caso de corrupción. La decisión busca liquidar la empresa que había sido el centro de las acusaciones de enchufismo y contrataciones irregulares durante el gobierno del Botànic."
-    type: "resumen"
-    urls:
-      - "https://valenciaplaza.com/caso-alqueria-un-ano-de-la-operacion-que-fulmino-a-jorge-rodriguez-del-pspv"
-
-  - fecha: "2018-12-01"
-    titulo: "UDEF recaba más documentación sobre el caso"
-    descripcion: "El Juzgado de Instrucción número 9 de Valencia autoriza a los agentes de la UDEF a continuar recabando información que complete la intervenida en las entradas y registros del mes de junio. La investigación se centra en analizar contratos, nóminas y documentación administrativa de Divalterra para acreditar las presuntas irregularidades en las contrataciones."
-    type: "investigación"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Notas-de-prensa/El-juez-del--caso-Alqueria--autoriza-a-la-Policia-para-que-complete-la-documentacion-intervenida-en-la-operacion-contra-la-corrupcion-de-la-Diputacion-de-Valencia"
-
-  - fecha: "2021-02-04"
-    titulo: "Juez procesa a Jorge Rodríguez y 14 acusados más"
-    descripcion: "El Juzgado de Instrucción número 9 de Valencia procesa a Jorge Rodríguez y otros 14 investigados, entre ellos altos cargos del PSPV-PSOE y Compromís, por presuntos delitos de prevaricación administrativa, malversación de caudales públicos y falsedad documental. El auto judicial concluye que PSOE y Compromís se repartieron cargos ficticios en Divalterra como parte de un reparto pactado de poder, con un perjuicio económico cifrado en 1,12 millones de euros."
-    type: "imputación"
-    urls:
-      - "https://www.elespanol.com/espana/comunidad-valenciana/valencia/20210204/psoe-compromis-repartieron-cargos-ficticios-diputacion-valencia/556196069_0.html"
-      - "https://okdiario.com/espana/juez-procesa-ex-presidente-diputacion-valencia-otros-cargos-del-psoe-corrupcion-6783853"
-
-  - fecha: "2021-02-23"
-    titulo: "Fiscalía pide hasta 8 años de cárcel para los responsables"
-    descripcion: "La Fiscalía Anticorrupción solicita penas de hasta 8 años de prisión para Jorge Rodríguez y los principales responsables del caso (Ricard Gallego, Manuel Reguart, Agustina Brines y José Ramón Tiller), así como 6 años para los siete directivos contratados irregularmente. Las penas incluyen inhabilitación especial para empleo o cargo público durante 20 años por los delitos de prevaricación administrativa, malversación de caudales públicos y falsedad en documento oficial."
-    type: "resumen"
-    urls:
-      - "https://www.elespanol.com/espana/comunidad-valenciana/valencia/20210223/fiscalia-carcel-psoe-compromis-colocar-puestos-ficticios/561194818_0.html"
-
-  - fecha: "2022-11-16"
-    titulo: "Comienza el juicio oral del caso Alquería"
-    descripcion: "Arranca el juicio oral del caso Alquería en la Audiencia Provincial de Valencia con 14 acusados. La Fiscalía mantiene su petición de condena por prevaricación, malversación y falsedad documental, mientras que la defensa argumenta que los contratados realizaron trabajo efectivo y que no hubo perjuicio económico para Divalterra. El juicio se centra en determinar si las contrataciones fueron fraudulentas o respondieron a necesidades legítimas de la empresa pública."
-    type: "resumen"
-    urls:
-      - "https://www.esdiario.com/comunidad-valenciana/valencia/220919/94227/arranca-caso-alqueria-juicio-jorge-rodriguez.html"
-      - "https://www.cope.es/actualidad/espana/noticias/fiscal-del-caso-alqueria-divalterra-sido-siempre-chiringuito-20221116_2401494"
-
-  - fecha: "2023-05-30"
-    titulo: "Audiencia Provincial absuelve a todos los acusados"
-    descripcion: "La Sección Octava de la Audiencia Provincial de Valencia absuelve a Jorge Rodríguez Gramage y a los otros 13 acusados del caso Alquería. El tribunal concluye que no quedó acreditado que Divalterra resultase perjudicada económicamente por las contrataciones de directivos y que los contratados desempeñaron trabajo efectivo. La sentencia descarta los delitos de prevaricación administrativa, malversación de caudales públicos y falsedad documental que les atribuía la Fiscalía."
-    type: "sentencia"
-    urls:
-      - "https://valenciaplaza.com/la-audiencia-de-valencia-absuelve-a-jorge-rodriguez-y-el-resto-de-acusados-del-caso-alqueria"
-      - "https://www.infobae.com/espana/noticias/2023/05/30/absueltos-todos-los-procesados-en-el-caso-alqueria-entre-ellos-el-alcalde-de-ontinyent/"
-
-  - fecha: "2023-07-03"
-    titulo: "Fiscalía recurre la absolución ante el TSJCV"
-    descripcion: "La Fiscalía Anticorrupción presenta recurso de apelación ante el Tribunal Superior de Justicia de la Comunidad Valenciana contra la sentencia absolutoria de la Audiencia Provincial. El Ministerio Fiscal solicita que se repita el juicio, argumentando que sí existió perjuicio económico para las arcas públicas y que las contrataciones fueron irregulares al no seguir los procedimientos legales establecidos."
-    type: "resumen"
-    urls:
-      - "https://www.ultimahora.es/noticias/comunidades/2023/07/03/1968947/fiscalia-pide-tsjcv-repita-juicio-del-caso-alqueria-absolvio-jorge-rodriguez.html"
-
-  - fecha: "2023-12-14"
-    titulo: "TSJCV confirma la absolución definitiva"
-    descripcion: "La Sala Civil y Penal del Tribunal Superior de Justicia de la Comunidad Valenciana confirma la absolución de Jorge Rodríguez y los otros 13 acusados en el caso Alquería. El TSJCV desestima el recurso presentado por la Fiscalía Anticorrupción y ratifica que no se probaron los delitos de prevaricación, malversación ni falsedad documental en las contrataciones de alta dirección en Divalterra entre 2015 y 2018. La decisión puede ser recurrida en casación ante el Tribunal Supremo."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Superior-de-Justicia-de-la-Comunidad-Valenciana-confirma-la-absolucion-de-los-14-acusados-en-el--caso-Alqueria-"
-      - "https://okdiario.com/comunidad-valenciana/tsj-valenciano-confirma-absolucion-todos-imputados-caso-alqueria-12071868"
+- fecha: '2022-09-19'
+  titulo: Inicio del juicio y absolución de Pau Pérez
+  descripcion: SER informa de la primera sesión y de la absolución oral de Pau Pérez tras la retirada de las acusaciones
+    populares, únicas que lo acusaban. Continúa el juicio para otros catorce acusados.
+  type: juicio
+  urls:
+  - https://cadenaser.com/comunitat-valenciana/2022/09/19/comienza-el-juicio-del-caso-alqueria-que-salpica-a-pspv-y-a-compromis-radio-valencia/
+- fecha: '2023-05-30'
+  titulo: La Audiencia absuelve a los catorce acusados
+  descripcion: La Sección Primera dicta la sentencia 255/2023. Absuelve de los delitos atribuidos, declara de oficio
+    las costas y deja sin efecto las medidas cautelares. No aprecia daño económico acreditado por las contrataciones.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6291cfcf0c123f4ea0a8778d75e36f0d&encode=true&databasematch=AN
+  - https://www.europapress.es/comunitat-valenciana/noticia-audiencia-absuelve-jorge-rodriguez-otros-13-acusados-caso-alqueria-20230530141936.html
+- fecha: '2023-06-20'
+  titulo: Se conoce el recurso de la Fiscalía
+  descripcion: Europa Press informa de la apelación de Anticorrupción contra la absolución. PP y Acción Cívica no
+    recurren. Fecha de publicación, sin atribuirla a la presentación del escrito.
+  type: recurso
+  urls:
+  - https://www.europapress.es/comunitat-valenciana/noticia-anticorrupcion-recurre-absolucion-rodriguez-resto-juzgados-caso-alqueria-20230620174256.html
+- fecha: '2023-12-12'
+  titulo: El TSJCV confirma la absolución
+  descripcion: La sentencia 330/2023 desestima la apelación de la Fiscalía y confirma la sentencia. En ese momento
+    cabía preparar casación. La nota del CGPJ se publica dos días después.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a99bc1e704856f54a0a8778d75e36f0d&encode=true&databasematch=AN
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Superior-de-Justicia-de-la-Comunidad-Valenciana-confirma-la-absolucion-de-los-14-acusados-en-el--caso-Alqueria-
+- fecha: '2024-01-15'
+  titulo: Se conoce la declaración de firmeza
+  descripcion: Europa Press informa, citando fuentes del TSJCV, de que se ha declarado firme la absolución de los
+    catorce al no interponerse casación dentro de plazo. No se asigna esta fecha de noticia al acto sin disponer
+    de su resolución.
+  type: resumen
+  urls:
+  - https://www.europapress.es/comunitat-valenciana/noticia-tsjcv-declara-firme-absolucion-rodriguez-otros-13-acusados-caso-alqueria-20240115154838.html
 ---
+
+La [sentencia de primera instancia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6291cfcf0c123f4ea0a8778d75e36f0d&encode=true&databasematch=AN) y la [sentencia de apelación](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a99bc1e704856f54a0a8778d75e36f0d&encode=true&databasematch=AN) corresponden a las contrataciones de alta dirección de Divalterra entre 2015 y 2018. No se trasladan a este procedimiento los resultados de otras investigaciones relativas a Imelsa o Taula. Los hechos y las pretensiones acusatorias deben leerse a la luz del fallo absolutorio: no quedó acreditado un perjuicio económico por el nuevo modelo y los contratados desempeñaron funciones efectivas. No se utiliza como coste el importe de 1,12 millones que recogía la ficha anterior.
+
+La [crónica de la primera sesión](https://cadenaser.com/comunitat-valenciana/2022/09/19/comienza-el-juicio-del-caso-alqueria-que-salpica-a-pspv-y-a-compromis-radio-valencia/) diferencia la absolución oral de Pau Pérez de la continuidad del proceso para catorce personas. Su listado nominal, junto a [Europa Press](https://www.europapress.es/comunitat-valenciana/noticia-audiencia-absuelve-jorge-rodriguez-otros-13-acusados-caso-alqueria-20230530141936.html), permite identificar a los acusados sin reconstruir los seudónimos del PDF judicial. La relación heredada confundía personas y omitía a Jorge Cuerda, Xavier Simó y Víctor Jiménez; no se atribuye a José Luis Vera ni a Lucas Ferrando el fallo de los catorce sin prueba individual.
+
+La apelación se resolvió el 12 de diciembre de 2023; el [CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Superior-de-Justicia-de-la-Comunidad-Valenciana-confirma-la-absolucion-de-los-14-acusados-en-el--caso-Alqueria-) informó el 14. La [declaración de firmeza difundida por Europa Press](https://www.europapress.es/comunitat-valenciana/noticia-tsjcv-declara-firme-absolucion-rodriguez-otros-13-acusados-caso-alqueria-20240115154838.html) es posterior y se apoya en fuentes del TSJCV, no en una deducción por falta de noticias. Falta recuperar su original y el pronunciamiento de septiembre de 2022 sobre Pérez; tampoco se acreditan posibles procedimientos indemnizatorios posteriores.
