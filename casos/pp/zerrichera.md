@@ -1,90 +1,137 @@
 ---
-nombre: "Caso Zerrichera"
+nombre: Caso Zerrichera
 partido: PP
-completado: true
-año: 2004
-fechaInicio: "2004-01-01"
-fechaFin: ""
-estado: "archivado"
-descripcion: |
-  El Caso Zerrichera es una investigación sobre corrupción urbanística relacionada con la recalificación irregular de terrenos protegidos en la finca La Zerrichera, situada en la sierra de la Almenara de Águilas, Región de Murcia. El proyecto urbanístico, promovido por el Grupo Hispania del empresario Trinitario Casanova, pretendía construir 4.000 viviendas, un hotel de lujo y un campo de golf en una finca de 250 hectáreas.
-
-  Los terrenos estaban calificados como ZEPA (Zona de Especial Protección de Aves) y LIC (Lugar de Interés Comunitario), formando parte de la Red Natura 2000. José López Díaz, concejal de Águilas del PP, y varios socios compraron parte de los terrenos de la sierra de la Almenara en acuerdo con el promotor Trinitario Casanova, con la intención de venderlos una vez fueran recalificados. En 2004, el Ayuntamiento de Águilas recalificó la finca declarándola urbanizable, con el posterior visto bueno de las consejerías de Medio Ambiente y de Obras Públicas del gobierno regional del PP.
-
-  La investigación se inició en 2007 tras las denuncias de los grupos ecologistas ANSE y Ecologistas en Acción, junto al PSOE regional. El fiscal superior Manuel López Bernal presentó una querella implicando a ex altos cargos del gobierno regional. Cinco ex altos cargos de la Comunidad Autónoma fueron investigados por su intervención en la recalificación irregular de estos terrenos protegidos. Finalmente, la juez archivó el caso argumentando que las posibles ilegalidades no fueron "flagrantes y arbitrarias", a pesar de tratarse de un claro intento de pelotazo urbanístico sin garantizar los recursos hídricos necesarios.
-
-resumen: "Recalificación irregular de terrenos protegidos en Águilas (Murcia) para pelotazo urbanístico"
-lugar: "Águilas, Región de Murcia"
+completado: false
+año: 2007
+fechaFin: ''
+estado: Condenas por falsedad y absoluciones; casación resuelta en 2019
+descripcion: 'La causa examinó la tramitación urbanística y ambiental de La Zerrichera, en Águilas. La Audiencia
+  de Murcia condenó a tres antiguos responsables autonómicos en diciembre de 2017 y absolvió a otros dos. El Supremo
+  absolvió en julio de 2019 a los tres recurrentes de prevaricación y mantuvo las condenas de Antonio Alvarado y
+  Juan Ignacio Sánchez Gelabert por falsedad: dos años de prisión, multa de 1.350 euros e inhabilitación durante
+  un año y tres meses para cada uno, con distinto alcance. En noviembre rechazó un incidente de nulidad. La revisión
+  hasta el 17 de octubre de 2026 no ha completado el seguimiento de ejecución o de un eventual amparo; no se presenta
+  el caso como archivado en 2008.'
+resumen: 'Tramitación ambiental y urbanística de La Zerrichera: dos condenas por falsedad mantenidas en casación
+  y absoluciones por prevaricación.'
+lugar: Águilas, Región de Murcia
 tribunal:
-  - "Juzgado de Instrucción de Lorca"
-  - "Fiscalía Superior de Murcia - Fiscal Manuel López Bernal"
-numeroSentencia: ""
+- Juzgado de Instrucción n.º 3 de Murcia
+- Audiencia Provincial de Murcia, Sección Tercera
+- Tribunal Supremo, Sala de lo Penal
+- Tribunal Supremo, Sala de lo Contencioso-Administrativo
+numeroSentencia: STS 359/2019, de 15 de julio; ECLI:ES:TS:2019:2355
 implicados:
-  - nombre: "José López Díaz"
-    cargo: "Concejal de Águilas (PP)"
-    rol: "Compra de terrenos protegidos para especulación urbanística"
-
-  - nombre: "Trinitario Casanova"
-    cargo: "Promotor urbanístico - Grupo Hispania"
-    rol: "Impulsor del proyecto de construcción en terrenos protegidos"
-
-  - nombre: "Manuel López Bernal"
-    cargo: "Fiscal Superior de Murcia"
-    rol: "Presentó querella contra ex altos cargos autonómicos"
-
+- nombre: Antonio Alvarado
+  cargo: Exdirector general de Calidad Ambiental
+  rol: 'Condena por falsedad mantenida en casación: dos años de prisión, multa de 1.350 euros e inhabilitación especial
+    durante un año y tres meses. Absuelto por el Supremo de prevaricación.'
+- nombre: Juan Ignacio Sánchez Gelabert
+  cargo: Exjefe del Servicio de Calidad Ambiental
+  rol: 'Condena por falsedad mantenida: dos años de prisión, multa de 1.350 euros e inhabilitación durante un año
+    y tres meses. El Supremo extiende esta última a la privación definitiva de la condición de funcionario y del
+    cargo aprovechado y a la incapacidad para obtenerlos u otros análogos. Absuelto de prevaricación.'
+- nombre: Encarnación Muñoz
+  cargo: Exdirectora general de Medio Natural
+  rol: Condenada en 2017 por prevaricación a cinco años de inhabilitación; absuelta de ese delito por el Supremo
+    en 2019.
+- nombre: Manuel Alfonso Guerrero
+  cargo: Exdirector general de Vivienda y Urbanismo
+  rol: Absuelto de prevaricación en la sentencia de instancia de 2017.
+- nombre: José María Ródenas
+  cargo: Exsubdirector general de Vivienda y Urbanismo
+  rol: Absuelto de prevaricación en la sentencia de instancia de 2017.
 tags:
-  - "corrupción"
-  - "corrupción urbanística"
-  - "prevaricación"
-  - "tráfico de influencias"
-
-impactoSocial: "El caso evidenció la corrupción urbanística en Murcia durante el gobierno de Ramón Luis Valcárcel, afectando espacios naturales protegidos de la Red Natura 2000. El archivo judicial generó críticas de organizaciones ecologistas y oposición política."
-
-documentos: []
-
+- urbanismo
+- falsedad documental
+- absolución
+- medio ambiente
+documentos:
+- fecha: '2019-07-15'
+  titulo: 'STS 359/2019: casación y segunda sentencia'
+  filetype: pdf
+  paginas: 48
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fa5058aa9f71be32&encode=true&databasematch=AN
+- fecha: '2017-12-22'
+  titulo: Sentencia de la Audiencia Provincial de Murcia, ECLI:ES:APMU:2017:2392
+  filetype: pdf
+  paginas: 216
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=29369538a38a9852&encode=true&databasematch=AN
+- fecha: '2019-11-05'
+  titulo: 'Auto del Supremo: incidente de nulidad, ECLI:ES:TS:2019:12541A'
+  filetype: pdf
+  paginas: 4
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=4672a8152dc49a57&encode=true&databasematch=AN
+- fecha: '2018-02-12'
+  titulo: 'STS 203/2018: reclamación patrimonial de las promotoras'
+  filetype: pdf
+  paginas: 12
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=84e7d6ed2e318c20&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2003-01-01"
-    titulo: "Compra de terrenos protegidos"
-    descripcion: "José López Díaz, concejal del PP en Águilas, y varios socios compran parte de los terrenos de la sierra de la Almenara en acuerdo con el promotor Trinitario Casanova. El plan es vender los terrenos una vez sean recalificados como urbanizables."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Zerrichera&numero=369"
-
-  - fecha: "2004-01-01"
-    titulo: "Recalificación urbanística de La Zerrichera"
-    descripcion: "El Ayuntamiento de Águilas, gobernado por el PP, recalifica la finca La Zerrichera declarándola urbanizable, a pesar de estar protegida como ZEPA y LIC dentro de la Red Natura 2000. El proyecto incluía 4.000 viviendas, un hotel de lujo y un campo de golf en 250 hectáreas."
-    type: "resumen"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_Zerrichera"
-
-  - fecha: "2004-06-01"
-    titulo: "Aprobación de las consejerías autonómicas"
-    descripcion: "Las consejerías de Medio Ambiente y de Obras Públicas de la Comunidad Autónoma de Murcia, gobernada por el PP bajo la presidencia de Ramón Luis Valcárcel, dan su visto bueno a la recalificación de los terrenos protegidos sin garantizar los recursos hídricos necesarios para el proyecto urbanístico."
-    type: "resumen"
-    urls:
-      - "https://www.vozpopuli.com/espana/politica/expresidentes-autonomicos-pp-casos-corrupcion_0_1138087412.html"
-
-  - fecha: "2007-02-01"
-    titulo: "Denuncia de ecologistas y querella fiscal"
-    descripcion: "Los grupos ecologistas ANSE y Ecologistas en Acción, junto al PSOE regional, denuncian las irregularidades en la recalificación de La Zerrichera. El fiscal superior de Murcia, Manuel López Bernal, presenta una querella implicando a cinco ex altos cargos del gobierno regional del PP en la operación."
-    type: "denuncia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Zerrichera&numero=369"
-      - "https://es.wikipedia.org/wiki/Caso_Zerrichera"
-
-  - fecha: "2007-03-01"
-    titulo: "Apertura de investigación judicial"
-    descripcion: "Se inicia la investigación judicial sobre las irregularidades en la recalificación de terrenos protegidos de la finca La Zerrichera. Cinco ex altos cargos de la Comunidad Autónoma que intervinieron en la recalificación son investigados por posibles delitos de prevaricación y tráfico de influencias."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Zerrichera&numero=369"
-
-  - fecha: "2008-01-01"
-    titulo: "Archivo del caso por la juez"
-    descripcion: "La juez de instrucción archiva el caso Zerrichera argumentando que las posibles ilegalidades cometidas en la recalificación de terrenos protegidos no fueron 'flagrantes y arbitrarias'. La decisión genera críticas de organizaciones ecologistas que denunciaron el intento de pelotazo urbanístico en la costa murciana sin recursos hídricos garantizados."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Zerrichera&numero=369"
-      - "https://www.vozpopuli.com/espana/politica/expresidentes-autonomicos-pp-casos-corrupcion_0_1138087412.html"
-
+- fecha: '2003-10-01'
+  titulo: Propuesta de convenio urbanístico
+  descripcion: Los hechos reproducidos por el Supremo sitúan en esta fecha la propuesta del Grupo Inversor Hispania
+    para desarrollar suelo residencial y turístico. La propuesta menciona 242 hectáreas; no se identifica esta superficie
+    con la de todas las fincas adquiridas.
+  type: investigacion
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fa5058aa9f71be32&encode=true&databasematch=AN
+  relevancia: alta
+- fecha: '2006-02-13'
+  titulo: Orden autonómica de aprobación definitiva
+  descripcion: El original de instancia identifica la Orden de esta fecha sobre modificación puntual del PGOU, publicada
+    el 6 de marzo de 2006 y posteriormente derogada por el Decreto 299/2010. Se retiran las fechas sintéticas de
+    recalificación en 2004.
+  type: investigacion
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=29369538a38a9852&encode=true&databasematch=AN
+  relevancia: alta
+- fecha: '2017-12-22'
+  titulo: Condenas y absoluciones de instancia
+  descripcion: La Sección Tercera condena por prevaricación a Alvarado, Sánchez Gelabert y Muñoz; a los dos primeros
+    también por falsedad. Absuelve a otros dos responsables de Vivienda. La sentencia admite casación y aplica dilaciones
+    indebidas muy cualificadas.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=29369538a38a9852&encode=true&databasematch=AN
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/La-Audiencia-de-Murcia-condena-a-tres-exaltos-cargos-por-la-recalificacion-de-la-Zerrichera
+  - https://www.revistaquercus.es/noticia/7040/nacional/condena-para-altos-cargos-de-murcia-por-el-caso-zerrichera.html
+  relevancia: alta
+- fecha: '2018-02-12'
+  titulo: Desestimación de la reclamación patrimonial
+  descripcion: La STS 203/2018 desestima la casación de Inverlur Águilas I y II contra la denegación de responsabilidad
+    patrimonial por la derogación urbanística. Es un litigio separado del penal; las cantidades solicitadas no son
+    indemnizaciones concedidas.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=84e7d6ed2e318c20&encode=true&databasematch=AN
+  relevancia: alta
+- fecha: '2019-07-15'
+  titulo: 'Casación: absoluciones y condenas por falsedad'
+  descripcion: El Supremo absuelve a los tres recurrentes de prevaricación y mantiene los demás pronunciamientos
+    no afectados, incluidas las dos condenas por falsedad. Amplía el alcance de la inhabilitación del jefe de servicio
+    a la condición de funcionario. El fallo expresa que no cabe recurso; la noticia nominal se publicó el 19 de
+    julio.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fa5058aa9f71be32&encode=true&databasematch=AN
+  - https://cadenaser.com/emisora/2019/07/19/radio_murcia/1563534573_129606.html
+  relevancia: alta
+- fecha: '2019-11-05'
+  titulo: Desestimado el incidente de nulidad
+  descripcion: El auto oficial rechaza un incidente contra la STS 359/2019, relacionado con la extensión de la inhabilitación
+    y otras alegaciones. El documento anonimizado no se utiliza para inferir el nombre de quien lo promovió. No
+    acredita cumplimiento de las penas.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=4672a8152dc49a57&encode=true&databasematch=AN
+  relevancia: alta
 ---
+
+El Supremo distingue el delito de prevaricación del de falsedad. En este caso considera que la declaración de impacto ambiental no es una resolución a los efectos del artículo 404 del Código Penal. Esa razón de absolución no convierte en verdaderos los datos del documento: mantiene la falsedad por hacer constar un informe favorable inexistente y por otras alteraciones relevantes. La absolución de prevaricación y las dos condenas por falsedad deben leerse por separado.
+
+Los terrenos formaban parte de espacios protegidos como LIC y ZEPA, según los hechos reproducidos en el original. La propuesta de urbanización residencial y turística incluía campo de golf. Se eliminan calificativos como «claro pelotazo» y las atribuciones personales heredadas sobre compras para especular que no se han revalidado. La Fiscalía se retira de la lista de implicados y de órganos judiciales: su papel acusador no equivale a responsabilidad por los hechos. Las identidades se contrastan con la nota del CGPJ, la noticia de SER/EFE y la información nominal de Quercus, sin deducirlas de los seudónimos judiciales. Quercus ofrece una cifra de inhabilitación de instancia discordante para el jefe de servicio; prevalecen los seis años del original y la nota oficial, pena después anulada por el Supremo.
+
+No se incorpora un coste económico: no se ha acreditado aquí una cuantificación del daño público. Las multas penales no son daño; tampoco lo son los importes principal y subsidiario reclamados por las promotoras en el litigio patrimonial desestimado. La ausencia de coste no acredita inexistencia de perjuicio.
+
+**Límites de la revisión (17 de octubre de 2026).** La sentencia de instancia sitúa el inicio de las actuaciones en febrero de 2007, sin día exacto en el pasaje cotejado; se retira la fecha inicial artificial de 2004. Se han cotejado originales oficiales: lectura parcial de las sentencias penal de 2017 (216 páginas), penal de 2019 (48 páginas) y patrimonial de 2018 (12 páginas), centrada en cabeceras, pasajes de hechos y fundamentos y fallos; lectura íntegra del auto de noviembre de 2019 (cuatro páginas). El informe externo detalla los segmentos. El fallo de casación declara que no cabe recurso, pero no se presume por ello el cumplimiento de las penas ni la ausencia de un eventual amparo. Falta seguir la ejecución, los posibles trámites constitucionales y el historial completo de personas que no llegaron a este juicio. No se equipara la cita de esta sentencia como doctrina en otros procesos posteriores con una nueva resolución de Zerrichera. La revisión permanece incompleta.
