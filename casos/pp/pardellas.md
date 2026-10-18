@@ -1,164 +1,130 @@
 ---
-nombre: "Caso Pardellas"
+nombre: Caso Pardellas
 partido: PP
-completado: true
+completado: false
 año: 2004
-fechaInicio: 2004-10-01
-fechaFin: 2015-07-15
-estado: cerrado con condenas
-descripcion: |
-  El Caso Pardellas es una investigación judicial que afectó a Manuel Alberto Pardellas Álvarez, alcalde de Melón (Ourense) por el PP entre 2003 y 2011. El caso se centra en la construcción ilegal de un polideportivo en octubre de 2004 a escasos 75 metros del Monasterio Cisterciense de Santa María de Melón, un templo del siglo XII catalogado como Bien de Interés Cultural (BIC). A pesar de las advertencias del secretario municipal sobre la falta de autorizaciones preceptivas de la Consellería de Política Territorial y del informe vinculante de Patrimonio, Pardellas autorizó el inicio de las obras en suelo rústico, despreciando el asesoramiento técnico y legal que recibió.
+fechaInicio: '2004-10-07'
+fechaFin: ''
+estado: Condena por prevaricación en apelación, descrita como firme por la prensa; ejecución no cotejada
+descripcion: 'Manuel Alberto Pardellas Álvarez, alcalde de Melón por el PP, autorizó las obras de un pabellón deportivo
+  en el entorno protegido del monasterio de Santa María de Melón, sin las autorizaciones autonómicas exigidas. La
+  Voz de Galicia fecha la autorización en el 7 de octubre de 2004. El Juzgado de lo Penal n.º 1 de Ourense lo absolvió
+  inicialmente, pero la Audiencia Provincial revocó ese resultado y lo condenó a ocho años y seis meses de inhabilitación
+  por prevaricación, según las informaciones de noviembre de 2010.
 
-  La actuación de Pardellas fue calificada por el tribunal como "contumaz" al proceder con las obras que dependían de 60.000 euros de financiación (más de 46.000 euros procedentes de fondos europeos, estatales y de la Diputación). En 2008, el Tribunal Superior de Xustiza de Galicia ordenó la demolición del polideportivo e impuso una sanción de 120.000 euros al Ayuntamiento. La Audiencia Provincial de Ourense condenó a Pardellas en noviembre de 2010 a ocho años y medio de inhabilitación para el ejercicio de cargo público por un delito de prevaricación administrativa.
 
-  Tras su inhabilitación, Pardellas cedió la alcaldía a su esposa Cristina Francisco Vílchez, quien gobernó entre 2011 y 2019. En julio de 2011, la nueva alcaldesa nombró a su marido condenado como director general del Ayuntamiento, un cargo creado ad hoc que generó controversia en un municipio de apenas 1.400 habitantes. El polideportivo no fue demolido hasta julio de 2015, siete años después de la orden judicial. En 2023, una vez cumplido su periodo de inhabilitación, Manuel Baltar recuperó a Pardellas como candidato del PP para intentar recuperar la alcaldía de Melón.
+  La Región presentó aquella condena como firme. No se ha recuperado el original judicial ni la liquidación de la
+  pena: el día exacto de la sentencia y del final de la inhabilitación quedan sin cotejar. La prensa informó de
+  la denegación de indultos y de su regreso como candidato del PP en 2023 tras cumplir la pena.
 
-resumen: "Alcalde del PP de Melón condenado por construir ilegalmente un polideportivo junto a un monasterio del siglo XII declarado Bien de Interés Cultural"
-coste: 180000
-lugar: "Melón, Ourense, Galicia"
+
+  El pabellón junto al monasterio debe distinguirse del centro multiusos de Quins/Cruceiro Gordo, relacionado con
+  otra orden de derribo y con la condena por desobediencia de su sucesora, Cristina Francisco, confirmada en apelación
+  según una noticia de febrero de 2025. No se acredita aquí un daño económico global ni el cumplimiento íntegro
+  del derribo del primer pabellón. Revisión parcial a 17 de octubre de 2026.'
+resumen: Condena en apelación a ocho años y seis meses de inhabilitación por autorizar un pabellón junto al monasterio
+  de Melón
+lugar: Melón, Ourense, Galicia
 tribunal:
-  - "Audiencia Provincial de Ourense"
-  - "Tribunal Superior de Xustiza de Galicia"
-numeroSentencia: "Sentencia de la Audiencia Provincial de Ourense de noviembre de 2010"
+- Juzgado de lo Penal n.º 1 de Ourense
+- Audiencia Provincial de Ourense
+- Tribunal Superior de Xustiza de Galicia (controversia urbanística)
+numeroSentencia: Condena de la Audiencia Provincial de Ourense conocida en noviembre de 2010; número y fecha exacta
+  no cotejados
 implicados:
-  - nombre: "Manuel Alberto Pardellas Álvarez"
-    cargo: "Alcalde de Melón (PP) entre 2003 y 2011"
-    rol: "Condenado a 8 años y medio de inhabilitación por delito de prevaricación administrativa al autorizar obras ilegales sin permisos"
-
-  - nombre: "Cristina Francisco Vílchez"
-    cargo: "Alcaldesa de Melón (PP) entre 2011 y 2019, esposa de Alberto Pardellas"
-    rol: "Sucedió a su marido tras su inhabilitación y lo nombró director general del Ayuntamiento pese a estar condenado"
-
+- nombre: Manuel Alberto Pardellas Álvarez
+  cargo: Alcalde de Melón por el PP durante las actuaciones enjuiciadas
+  rol: Absuelto inicialmente por el Juzgado de lo Penal n.º 1; condenado en apelación a ocho años y seis meses de
+    inhabilitación por prevaricación. La prensa de 2010 calificó la condena de firme.
+- nombre: Cristina Francisco Vílchez
+  cargo: Alcaldesa de Melón por el PP entre 2011 y 2019; esposa y sucesora de Pardellas
+  rol: 'Contexto institucional posterior: la prensa informó de la designación de su marido como director general
+    municipal. No se le atribuye la condena de Pardellas; su condena posterior por desobediencia corresponde a otro
+    edificio, el multiusos de Cruceiro Gordo.'
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "urbanismo"
-  - "patrimonio cultural"
-  - "nepotismo"
-
-impactoSocial: "El caso generó indignación por el desprecio de un cargo público hacia la protección del patrimonio cultural y las advertencias técnicas. La posterior contratación del alcalde condenado por su esposa como director general evidenció las prácticas nepotistas en pequeños municipios gallegos bajo el baltarismo."
-
-documentos: null
-
+- prevaricación
+- urbanismo
+- patrimonio cultural
+impactoSocial: La actuación afectó al entorno de un monasterio protegido y dio lugar a procedimientos penales y
+  urbanísticos distintos. La sucesión en la alcaldía y la designación municipal del exalcalde suscitaron controversia,
+  que debe distinguirse de los hechos declarados delictivos.
+documentos: []
 cronologia:
-  - fecha: "2004-10-01"
-    titulo: "Autorización ilegal de inicio de obras del polideportivo"
-    descripcion: "Alberto Pardellas, alcalde de Melón, autoriza el inicio de las obras de construcción de un polideportivo a 75 metros del Monasterio de Santa María de Melón (BIC del siglo XII) en suelo rústico, sin contar con la autorización preceptiva de la Consellería de Política Territorial ni el informe vinculante de Patrimonio."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Pardellas&numero=386"
-
-  - fecha: "2005-01-15"
-    titulo: "Advertencia del secretario municipal sobre falta de autorizaciones"
-    descripcion: "El secretario municipal emite un reparo formal advirtiendo a Pardellas de que las obras carecen de la autorización de la Consellería de Política Territorial. A pesar de recibir el asesoramiento técnico adecuado, el alcalde opta por despreciarlo y continuar con las obras."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Pardellas&numero=386"
-
-  - fecha: "2005-03-01"
-    titulo: "Remisión tardía del proyecto a la Consellería de Cultura"
-    descripcion: "Tres meses después del inicio de las obras, el Ayuntamiento remite finalmente el proyecto a la Consellería de Cultura para obtener los permisos que debían haberse solicitado antes de comenzar la construcción."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Pardellas&numero=386"
-
-  - fecha: "2005-05-01"
-    titulo: "Pardellas admite ante el Valedor do Pobo que las obras están paralizadas"
-    descripcion: "El alcalde Alberto Pardellas reconoce ante el Valedor do Pobo (Defensor del Pueblo gallego) que las obras del polideportivo se encuentran paralizadas, aunque posteriormente las retomará para completar la primera fase."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Pardellas&numero=386"
-
-  - fecha: "2005-08-01"
-    titulo: "Recepción de la primera fase del polideportivo"
-    descripcion: "A pesar de las irregularidades y la falta de autorizaciones, Pardellas recepciona oficialmente la primera fase del proyecto del polideportivo, consolidando la construcción ilegal. Esta recepción permitía acceder a los 60.000 euros de financiación, de los cuales más de 46.000 procedían de fondos europeos, estatales o de la Diputación."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Pardellas&numero=386"
-
-  - fecha: "2006-01-01"
-    titulo: "Imposición de multa de 120.000 euros"
-    descripcion: "La Xunta de Galicia impone al Ayuntamiento de Melón una multa de 120.000 euros por la construcción del polideportivo en la zona de protección del Monasterio de Melón, violando la normativa de protección del patrimonio cultural. Esta deuda quedará pendiente durante años."
-    type: "resumen"
-    urls:
-      - "https://www.laregion.es/articulo/ourense/melon-ourense-debe-120-000-euros-multa-facer-polideportivo-na-zona-proteccion-do-mosteiro/20130527185130008075.html"
-
-  - fecha: "2008-05-20"
-    titulo: "El TSXG ordena la demolición del polideportivo"
-    descripcion: "El Tribunal Superior de Xustiza de Galicia dicta sentencia firme ordenando la demolición del polideportivo de Melón al confirmar que la estructura se construyó ilegalmente en la zona de protección del Monasterio catalogado como BIC. La sentencia establece claramente que no existía desarrollo urbanístico en el área donde se levantó la construcción. Además, ratifica la multa de 120.000 euros."
-    type: "sentencia"
-    urls:
-      - "https://www.laregion.es/articulo/ourense/melon-ourense-debe-120-000-euros-multa-facer-polideportivo-na-zona-proteccion-do-mosteiro/20130527185130008075.html"
-
-  - fecha: "2010-11-01"
-    titulo: "Sentencia de la Audiencia Provincial: condena a Pardellas"
-    descripcion: "La Audiencia Provincial de Ourense condena a Alberto Pardellas a ocho años y seis meses de inhabilitación para empleo o cargo público por un delito de prevaricación administrativa. El tribunal concluye que 'no cabe duda de que recibió el adecuado asesoramiento que optó por despreciar', calificando su actuación de 'contumaz'. La sentencia se notifica al condenado en noviembre de 2010."
-    type: "sentencia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Pardellas&numero=386"
-      - "https://www.galiciapress.es/articulo/ourense/2023-03-02/4197632-baltar-recupera-como-candidato-popular-melon-exalcalde-inhabilitado-alcaldes-historicos-dicen-adios"
-
-  - fecha: "2011-05-01"
-    titulo: "Cristina Francisco, esposa de Pardellas, se convierte en alcaldesa"
-    descripcion: "Tras la inhabilitación de Alberto Pardellas, su esposa Cristina Francisco Vílchez asume la alcaldía de Melón como candidata del PP en las elecciones municipales de 2011, consiguiendo preservar el control del Ayuntamiento para el partido a pesar del escándalo de corrupción."
-    type: "resumen"
-    urls:
-      - "https://www.galiciapress.es/articulo/ourense/2023-03-02/4197632-baltar-recupera-como-candidato-popular-melon-exalcalde-inhabilitado-alcaldes-historicos-dicen-adios"
-
-  - fecha: "2011-07-30"
-    titulo: "La alcaldesa nombra a su marido condenado como director general"
-    descripcion: "Cristina Francisco, nueva alcaldesa de Melón, nombra a su marido Alberto Pardellas como director general del Ayuntamiento, un cargo creado específicamente para él pese a estar condenado por prevaricación. El nombramiento genera polémica en un municipio de apenas 1.400 habitantes donde no existía previamente ese puesto. Los socialistas denuncian que se trata de un subterfugio para que Pardellas siga dirigiendo el partido de forma fraudulenta."
-    type: "resumen"
-    urls:
-      - "https://www.elcorreogallego.es/galicia/2011/07/30/alcaldesa-melon-coloca-marido-pese-110843003.html"
-      - "https://ecodiario.eleconomista.es/politica-eD/noticias/3269611/07/11/Derroches-municipales-tras-las-subidas-de-sueldo-llega-la-recolocacion-por-parentesco.html"
-
-  - fecha: "2012-10-01"
-    titulo: "Inicio efectivo del periodo de inhabilitación"
-    descripcion: "Tras la denegación del indulto solicitado por Pardellas, comienza el cómputo efectivo de su inhabilitación de 8 años y medio para ejercer cargo público, que se extenderá hasta mediados de 2021."
-    type: "resumen"
-    urls:
-      - "https://www.galiciapress.es/articulo/ourense/2023-03-02/4197632-baltar-recupera-como-candidato-popular-melon-exalcalde-inhabilitado-alcaldes-historicos-dicen-adios"
-
-  - fecha: "2015-03-19"
-    titulo: "La alcaldesa inicia la legalización de edificios con orden de derribo"
-    descripcion: "Cristina Francisco, alcaldesa de Melón, anuncia que iniciará los trámites para intentar legalizar dos edificios públicos que cuentan con órdenes judiciales de demolición: el polideportivo construido ilegalmente por su marido y el pabellón multiusos de Quins. Esta maniobra busca evitar cumplir las sentencias de demolición."
-    type: "resumen"
-    urls:
-      - "http://www.laregion.es/articulo/ourense/alcaldesa-melon-inicia-legalizacion-edificios-publicos-ordenes-derribo/20150319222431531950.html"
-
-  - fecha: "2015-05-01"
-    titulo: "Auto judicial urge demolición del polideportivo en un mes"
-    descripcion: "Un auto judicial ordena a los alcaldes de Melón ejecutar la demolición del polideportivo de Quins en el plazo de un mes, ante la persistente negativa del Ayuntamiento a cumplir las sentencias firmes de derribo dictadas años atrás."
-    type: "sentencia"
-    urls:
-      - "https://www.laregion.es/articulo/o-ribeiro/juez-ordena-alcaldes-melon-tirar-polideportivo-quins/20150501141820540988.html"
-
-  - fecha: "2015-07-15"
-    titulo: "Demolición definitiva del polideportivo ilegal"
-    descripcion: "Tras siete años desde la orden judicial del TSXG, el Concello de Melón finalmente desmonta el pabellón deportivo construido ilegalmente por Pardellas junto al Monasterio. Personal de la Diputación Provincial comienza los trabajos de desmantelamiento de la estructura, calculándose que la recuperación se completará en menos de una semana. Se cierra así físicamente el caso, aunque la deuda de la multa persiste."
-    type: "resumen"
-    urls:
-      - "https://topografiarural.wordpress.com/2015/07/22/el-concello-de-melon-desmonta-el-pabellon-obligado-por-una-sentencia/"
-
-  - fecha: "2019-05-01"
-    titulo: "El PSOE gana la alcaldía de Melón"
-    descripcion: "En las elecciones municipales de mayo de 2019, el socialista Emilio Luis Díaz se hace con el bastón de mando de Melón, poniendo fin a casi dos décadas de gobierno del PP protagonizado por el matrimonio Pardellas-Francisco."
-    type: "resumen"
-    urls:
-      - "https://www.galiciapress.es/articulo/ourense/2023-03-02/4197632-baltar-recupera-como-candidato-popular-melon-exalcalde-inhabilitado-alcaldes-historicos-dicen-adios"
-
-  - fecha: "2021-06-01"
-    titulo: "Finalización del periodo de inhabilitación de Pardellas"
-    descripcion: "Alberto Pardellas cumple completamente su periodo de inhabilitación de 8 años y medio, recuperando sus derechos para volver a presentarse a cargos públicos electivos."
-    type: "resumen"
-    urls:
-      - "https://www.galiciapress.es/articulo/ourense/2023-03-02/4197632-baltar-recupera-como-candidato-popular-melon-exalcalde-inhabilitado-alcaldes-historicos-dicen-adios"
-
-  - fecha: "2023-03-02"
-    titulo: "Manuel Baltar recupera a Pardellas como candidato del PP"
-    descripcion: "Manuel Baltar, presidente de la Diputación de Ourense y líder provincial del PP, ficha a Alberto Pardellas, el prevaricador condenado, para que vuelva a ser candidato a alcalde de Melón en las elecciones municipales de 2023. Este nombramiento forma parte de la estrategia de Baltar para recuperar alcaldías y alcanzar la mayoría absoluta en la Diputación Provincial, generando críticas por recuperar a un condenado por corrupción."
-    type: "resumen"
-    urls:
-      - "https://www.galiciapress.es/articulo/ourense/2023-03-02/4197632-baltar-recupera-como-candidato-popular-melon-exalcalde-inhabilitado-alcaldes-historicos-dicen-adios"
+- fecha: '2004-10-07'
+  titulo: Autorización de las obras, según la información de la sentencia
+  descripcion: La Voz de Galicia sitúa en esta fecha la firma de Pardellas que permitió iniciar el pabellón sin
+    los permisos exigidos. La Región recoge que existía una advertencia del secretario de septiembre de 2004; no
+    se mantiene la fecha anterior, sin respaldo, de enero de 2005 para ese reparo.
+  type: investigación
+  urls:
+  - https://www.lavozdegalicia.es/amp/noticia/galicia/2010/11/20/inhabilitan-alcalde-melon-construir-pabellon-permiso/0003_8860183.htm
+  - https://www.laregion.es/comarca-de-ourense/audiencia-condena-anos-inhabilitacion-alcalde-melon_1_20101120-2456763.html
+- fecha: '2006-08-03'
+  titulo: Sanción urbanística al Concello
+  descripcion: La Voz de Galicia informó de que la Dirección Xeral de Urbanismo impuso al Concello una multa de
+    120.000 euros en esta fecha. Es una sanción administrativa, distinta de la pena penal de inhabilitación y de
+    un daño económico probado.
+  type: resumen
+  urls:
+  - https://www.lavozdegalicia.es/amp/noticia/galicia/2010/11/20/inhabilitan-alcalde-melon-construir-pabellon-permiso/0003_8860183.htm
+- fecha: '2010-05-05'
+  titulo: Información sobre la absolución inicial
+  descripcion: El País publicó que el Juzgado de lo Penal n.º 1 había absuelto al alcalde. Esta es la fecha de publicación,
+    no la fecha interna de la resolución. La absolución sería revocada por la Audiencia Provincial.
+  type: sentencia
+  urls:
+  - https://elpais.com/diario/2010/05/05/galicia/1273054689_850215.html
+- fecha: '2010-11-20'
+  titulo: Información sobre la condena en apelación
+  descripcion: La prensa comunicó la condena de la Audiencia Provincial a ocho años y seis meses de inhabilitación
+    por prevaricación, tras revocar la absolución. La Región la describió como firme y El País indicó que no cabía
+    recurso. No se convierte esta fecha periodística en fecha exacta de la sentencia.
+  type: sentencia
+  urls:
+  - https://www.laregion.es/comarca-de-ourense/audiencia-condena-anos-inhabilitacion-alcalde-melon_1_20101120-2456763.html
+  - https://elpais.com/diario/2010/11/20/galicia/1290251892_850215.html
+  - https://www.lavozdegalicia.es/amp/noticia/galicia/2010/11/20/inhabilitan-alcalde-melon-construir-pabellon-permiso/0003_8860183.htm
+- fecha: '2013-05-26'
+  titulo: Seguimiento de la sanción y del nombramiento municipal
+  descripcion: La Región/Europa Press informó de que seguían pendientes los 120.000 euros de sanción y describió
+    el cargo de director general que Pardellas había desempeñado después de que su esposa accediese a la alcaldía.
+    Recogió la versión opositora sobre el paso posterior a asesor; no acredita una nueva condena ni una cuantificación
+    judicial de daños.
+  type: resumen
+  urls:
+  - https://www.laregion.es/comarca-de-ourense/melon-ourense-debe-120-000-euros-multa-facer-polideportivo-na-zona-proteccion-do-mosteiro_1_20130526-2984806.html
+- fecha: '2014-07-23'
+  titulo: Información sobre la segunda denegación de indulto
+  descripcion: La Voz de Galicia informó de una segunda denegación de indulto, adoptada por el Gobierno el 11 de
+    julio de 2014. No se ha cotejado el acuerdo original ni se deduce de esta noticia una fecha exacta de inicio
+    o final de la ejecución.
+  type: indulto
+  urls:
+  - https://www.lavozdegalicia.es/noticia/galicia/2014/07/23/denegado-segunda-vez-indulto-exalcalde-melon-condenado-8-anos-inhabilitacion-prevaricar/0003_201407G23P9992.htm
+- fecha: '2015-09-06'
+  titulo: El desmantelamiento de julio no había completado la reposición
+  descripcion: La Voz de Galicia explicó que en julio se había desmontado la estructura, pero se conservaba la losa
+    de hormigón. A comienzos de septiembre seguían las actuaciones para eliminarla. No queda respaldado el cierre
+    definitivo del derribo el 15 de julio de 2015 que figuraba en la ficha.
+  type: resumen
+  urls:
+  - https://www.lavozdegalicia.es/noticia/ourense/melon/2015/09/06/demolicion-polideportivo-melon-golpe-presion-judicial/0003_201509O6C69912.htm
+- fecha: '2023-03-02'
+  titulo: Regreso como candidato del PP
+  descripcion: Galiciapress informó de la candidatura de Pardellas tras cumplir la inhabilitación. Se conserva este
+    dato político como información periodística y se retira el día exacto de cumplimiento de la pena, para el que
+    no se ha recuperado liquidación judicial.
+  type: resumen
+  urls:
+  - https://www.galiciapress.es/articulo/ourense/2023-03-02/4197632-baltar-recupera-como-candidato-popular-melon-exalcalde-inhabilitado-alcaldes-historicos-dicen-adios
 ---
+
+El caso penal del pabellón del monasterio tuvo **absolución inicial y condena en apelación**. La firmeza se recoge como información expresa de [La Región de 20 de noviembre de 2010](https://www.laregion.es/comarca-de-ourense/audiencia-condena-anos-inhabilitacion-alcalde-melon_1_20101120-2456763.html), no se infiere del tiempo transcurrido. Falta cotejar la sentencia original, los eventuales remedios posteriores y la ejecutoria. Tampoco se ha verificado un documento oficial que liquide la pena hasta una fecha concreta de 2021.
+
+La controversia urbanística y la penal son distintas. La [información contemporánea de La Voz](https://www.lavozdegalicia.es/amp/noticia/galicia/2010/11/20/inhabilitan-alcalde-melon-construir-pabellon-permiso/0003_8860183.htm) sitúa una orden de demolición del TSXG en mayo de 2008, sin que esta revisión haya recuperado ese original o confirmado el día 20 que figuraba antes. El [seguimiento de septiembre de 2015](https://www.lavozdegalicia.es/noticia/ourense/melon/2015/09/06/demolicion-polideportivo-melon-golpe-presion-judicial/0003_201509O6C69912.htm) impide dar por completada en julio la recuperación del terreno: permanecía la losa y la APLU debía completar las actuaciones. No se ha recuperado certificación final de ejecución.
+
+**No deben mezclarse los dos pabellones.** La noticia de [La Región de 1 de mayo de 2015](https://www.laregion.es/articulo/o-ribeiro/juez-ordena-alcaldes-melon-tirar-polideportivo-quins/20150501141820540988.html) trata del multiusos de Quins y menciona aparte el pabellón del monasterio. La condena de Cristina Francisco por desobediencia a la orden de derribo del centro Cruceiro Gordo fue comunicada en octubre de 2024 y [Praza informó el 22 de febrero de 2025 de su confirmación por la Audiencia](https://praza.gal/politica/a-audiencia-de-ourense-ratifica-a-condena-a-ex-alcaldesa-de-melon-do-pp-por-desobediencia-a-xustiza): seis meses de multa a diez euros diarios y un año de inhabilitación. Es otro procedimiento y no permite atribuirle la prevaricación por la que fue condenado Pardellas. La confirmación se conoce por prensa; no se ha cotejado el fallo completo ni se certifica aquí su firmeza.
+
+Se retira el coste de 180.000 euros: sumaba financiación de obra y una multa sin acreditar que el resultado fuera un perjuicio judicialmente fijado. Los 120.000 euros son la sanción administrativa referida por la prensa, no una responsabilidad civil penal cotejada. Tampoco se trasladan a este caso las cuantías o alegaciones de otros procedimientos de la exalcaldesa.
+
+Las fechas de publicación de las noticias se distinguen de los actos judiciales que describen. La revisión hasta el 17 de octubre de 2026 permanece incompleta por la falta de originales y de comprobación de las ejecuciones; la ausencia de novedades localizadas no acredita archivo, absolución, firmeza o cumplimiento. `documentos: []` indica que no se incorporan originales judiciales verificables a la ficha.
