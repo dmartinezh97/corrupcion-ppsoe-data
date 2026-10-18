@@ -1,118 +1,190 @@
 ---
-nombre: "GAL"
+nombre: GAL
 partido: PSOE
-completado: true
+completado: false
 año: 1983
-fechaInicio: 1983-10-01
-fechaFin: 1998-07-29
-estado: "cerrado con condenas"
-descripcion: |
-  Los GAL (Grupos Antiterroristas de Liberación) fueron grupos parapoliciales que practicaron terrorismo de Estado o "guerra sucia" contra la organización terrorista ETA y su entorno. Estuvieron activos entre 1983 y 1987, durante los primeros gobiernos de Felipe González. Los GAL fueron responsables de 27 asesinatos y más de 30 acciones terroristas, la mayoría en el País Vasco francés.
+fechaInicio: '1983-10-16'
+estado: Condenas en distintos procedimientos
+descripcion: 'Los Grupos Antiterroristas de Liberación (GAL) desarrollaron terrorismo parapolicial contra ETA y
+  su entorno, con víctimas también ajenas a esa organización. El recurso educativo del Ministerio de Educación identifica
+  27 asesinatos y la implicación de cargos públicos, policías y guardias civiles. No hubo una única sentencia que
+  resolviera todos los crímenes o atribuyera a todos los condenados la misma responsabilidad: deben distinguirse,
+  entre otros, el secuestro de Segundo Marey y el procedimiento por Lasa y Zabala.
 
-  La investigación judicial, impulsada principalmente por el juez Baltasar Garzón, demostró que los GAL fueron organizados, financiados y dirigidos desde las más altas instancias del Ministerio del Interior español. El caso supuso la condena del ministro del Interior José Barrionuevo y del secretario de Estado de Seguridad Rafael Vera, entre otros altos cargos del PSOE. Se acreditó el uso de fondos reservados del Estado para financiar los asesinatos, secuestros y atentados.
 
-  Las condenas provocaron una profunda crisis política y moral. El PSOE organizó manifestaciones en apoyo a Barrionuevo y Vera ("los nuestros"), y el Gobierno de Aznar les concedió un indulto parcial tras solo tres meses de prisión de los diez años a los que habían sido condenados. El caso de los GAL sigue siendo uno de los capítulos más oscuros de la democracia española.
+  En la causa Marey, la sentencia 2/1998 del Tribunal Supremo, de 29 de julio, condenó a José Barrionuevo, Rafael
+  Vera y Julián Sancristóbal a diez años de prisión y doce de inhabilitación absoluta por secuestro y malversación;
+  a Francisco Álvarez y Miguel Planchuelo a nueve años y seis meses de prisión y once de inhabilitación, y a Ricardo
+  García Damborenea a siete años por secuestro, además de otros policías con penas diferentes. No son condenas por
+  los 27 asesinatos. El propio fallo absolvió a todos los acusados de pertenencia o colaboración con banda armada.
+  El Constitucional desestimó en 2001 los amparos aquí contrastados, sin convertir los votos particulares en el
+  fallo de la mayoría.
 
-resumen: "Terrorismo de Estado financiado con fondos públicos: 27 asesinatos (1983-1987)"
-lugar: "País Vasco, Francia"
-coste: 0
+
+  Los reales decretos de 23 de diciembre de 1998 indultaron a Barrionuevo y Vera dos tercios de la pena de prisión
+  y parcialmente la inhabilitación, con condiciones y exclusión de puestos al servicio o mando de cuerpos policiales;
+  se publicaron el 22 de enero de 1999. El Constitucional acordó después, el 29 de diciembre de 1998, suspender
+  la ejecución de la pena privativa de libertad mientras resolvía sus amparos. No se equiparan indulto, suspensión
+  y extinción completa de la condena ni se reduce su ejecución a la fórmula de que cumplieron solo tres meses.
+
+
+  La sentencia de Marey fijó un reintegro al Estado de 10.350.000 pesetas y una indemnización a la víctima de 30.000.000
+  de pesetas, con distintos obligados, cuotas y reglas de solidaridad y responsabilidad subsidiaria estatal. Son
+  conceptos distintos y no un coste global de los GAL. No queda acreditada aquí su ejecución completa ni el cumplimiento
+  individual de todas las penas, los indultos de los restantes condenados o los desenlaces de todas las causas y
+  recursos posteriores a 17 de octubre de 2026. En Lasa y Zabala se ha contrastado la desestimación de los amparos
+  de cinco condenados en 2002, pero no toda su ejecución posterior.'
+resumen: 'Terrorismo parapolicial con múltiples víctimas y procedimientos: condenas por el secuestro de Marey y
+  por Lasa y Zabala, con responsabilidades y medidas de gracia individualizadas.'
+lugar: España y Francia, especialmente el País Vasco y el suroeste francés
 tribunal:
-  - "Audiencia Nacional"
-  - "Tribunal Supremo"
-numeroSentencia: "STS de 29 de julio de 1998"
+- Audiencia Nacional
+- Tribunal Supremo, Sala de lo Penal
+- Tribunal Constitucional
+numeroSentencia: 'Marey: STS 2/1998, de 29 de julio, ECLI:ES:TS:1998:8421, causa 2530/1995; amparos STC 63, 64,
+  66, 68, 69 y 70/2001. Lasa y Zabala: STC 155/2002.'
 implicados:
-  - nombre: "José Barrionuevo"
-    cargo: "Ministro del Interior (PSOE, 1982-1988)"
-    rol: "Condenado a 10 años de prisión por secuestro y malversación de fondos públicos. Cumplió solo 3 meses tras indulto"
-
-  - nombre: "Rafael Vera"
-    cargo: "Secretario de Estado de Seguridad (1982-1994)"
-    rol: "Condenado a 10 años por secuestro y malversación. Cumplió solo 3 meses tras indulto"
-
-  - nombre: "Julián Sancristóbal"
-    cargo: "Director de la Seguridad del Estado"
-    rol: "Condenado a 71 años de prisión por secuestro, asesinato y otros delitos"
-
-  - nombre: "Ricardo García Damborenea"
-    cargo: "Secretario general del PSOE en Vizcaya"
-    rol: "Condenado a 7 años por secuestro. Acusó a Felipe González de dirigir los GAL"
-
-  - nombre: "Francisco Álvarez"
-    cargo: "Jefe de la lucha antiterrorista de la Policía"
-    rol: "Condenado por su participación en la organización de los GAL"
-
-  - nombre: "Miguel Planchuelo"
-    cargo: "Comisario de Policía en Bilbao"
-    rol: "Condenado por secuestro y otros delitos relacionados con los GAL"
-
+- nombre: José Barrionuevo Peña
+  cargo: Ministro del Interior cuando ocurrió el secuestro de Marey
+  rol: Condenado por secuestro y malversación a diez años de prisión y doce de inhabilitación. Indulto parcial de
+    diciembre de 1998 y amparo desestimado en 2001; ejecución completa posterior no reconstruida.
+- nombre: Rafael Vera Fernández-Huidobro
+  cargo: Alto cargo del Ministerio del Interior en los hechos de Marey
+  rol: Condenado por secuestro y malversación a diez años de prisión y doce de inhabilitación. Indulto parcial de
+    diciembre de 1998 y amparo desestimado en 2001; no se trasladan a esta causa sus condenas en otros procedimientos.
+- nombre: Julián Sancristóbal Iguarán
+  cargo: Alto cargo de Interior implicado en el secuestro de Marey
+  rol: Condenado en Marey a diez años de prisión y doce de inhabilitación, no a 71 años. Amparo desestimado en la
+    STC 64/2001; ejecución e indultos individuales pendientes de contraste.
+- nombre: Ricardo García Damborenea
+  cargo: Dirigente socialista de Vizcaya implicado en Marey
+  rol: Condenado a siete años de prisión y sufragio pasivo por el mismo tiempo por secuestro. Amparo desestimado
+    en la STC 63/2001.
+- nombre: Francisco Álvarez Sánchez
+  cargo: Jefe superior de Policía de Bilbao y delegado de la lucha antiterrorista en los hechos de Marey
+  rol: Condenado en Marey por secuestro y malversación a nueve años y seis meses de prisión y once años de inhabilitación.
+    Amparo desestimado en la STC 70/2001.
+- nombre: Miguel Planchuelo
+  cargo: Mando policial implicado en el secuestro de Marey
+  rol: Condenado en Marey a nueve años y seis meses de prisión y once de inhabilitación por secuestro y malversación.
+    Amparo desestimado en la STC 66/2001.
+- nombre: Enrique Rodríguez Galindo
+  cargo: Mando de la Guardia Civil en el procedimiento de Lasa y Zabala
+  rol: Condenado por las detenciones ilegales y asesinatos de Lasa y Zabala; amparo desestimado en la STC 155/2002.
+    No se confunde el límite máximo de cumplimiento de treinta años allí citado con la suma nominal de penas ni
+    con el tiempo efectivamente cumplido.
+- nombre: José Julián Elgorriaga Goyeneche
+  cargo: Gobernador civil de Guipúzcoa en los hechos de Lasa y Zabala
+  rol: Condenado por las detenciones ilegales y asesinatos de Lasa y Zabala; amparo desestimado en la STC 155/2002.
+    No se confunde el límite máximo de cumplimiento de treinta años allí citado con la suma nominal de penas ni
+    con el tiempo efectivamente cumplido.
+- nombre: Ángel Vaquero Hernández
+  cargo: Guardia civil condenado en el procedimiento de Lasa y Zabala
+  rol: Condenado por las detenciones ilegales y asesinatos de Lasa y Zabala; amparo desestimado en la STC 155/2002.
+    No se confunde el límite máximo de cumplimiento de treinta años allí citado con la suma nominal de penas ni
+    con el tiempo efectivamente cumplido.
+- nombre: Felipe Bayo Leal
+  cargo: Guardia civil condenado en el procedimiento de Lasa y Zabala
+  rol: Condenado por las detenciones ilegales y asesinatos de Lasa y Zabala; amparo desestimado en la STC 155/2002.
+    No se confunde el límite máximo de cumplimiento de treinta años allí citado con la suma nominal de penas ni
+    con el tiempo efectivamente cumplido.
+- nombre: Enrique Dorado Villalobos
+  cargo: Guardia civil condenado en el procedimiento de Lasa y Zabala
+  rol: Condenado por las detenciones ilegales y asesinatos de Lasa y Zabala; amparo desestimado en la STC 155/2002.
+    No se confunde el límite máximo de cumplimiento de treinta años allí citado con la suma nominal de penas ni
+    con el tiempo efectivamente cumplido.
 tags:
-  - "terrorismo de Estado"
-  - "guerra sucia"
-  - "secuestro"
-  - "asesinato"
-  - "malversación"
-  - "fondos reservados"
-  - "ETA"
-
-impactoSocial: "El caso de los GAL supuso la mayor crisis moral de la democracia española. Demostró que el Estado había recurrido al terrorismo para combatir al terrorismo, causando víctimas inocentes y dañando gravemente el Estado de Derecho. La imagen del PSOE manifestándose con el lema 'los nuestros' en apoyo a políticos condenados por terrorismo quedó grabada en la memoria colectiva. El caso contribuyó decisivamente a la derrota electoral del PSOE en 1996."
-
-documentos: null
-
+- terrorismo parapolicial
+- secuestro
+- asesinato
+- malversación
+- fondos reservados
+- GAL
+impactoSocial: Los asesinatos, secuestros y abusos cometidos desde estructuras parapoliciales vulneraron los derechos
+  de las víctimas y el Estado de Derecho. La responsabilidad penal debe atribuirse conforme a cada resolución, sin
+  presentar una condena por secuestro como condena por todos los asesinatos ni confundir indulto con absolución.
+documentos:
+- fecha: '1998-07-29'
+  titulo: 'Tribunal Supremo: sentencia 2/1998, causa del secuestro de Segundo Marey, con votos particulares'
+  filetype: pdf
+  paginas: 67
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=12f3d00cbb31a7d9&encode=true&databasematch=AN
 cronologia:
-  - fecha: 1983-10-16
-    titulo: "Primera acción de los GAL"
-    descripcion: "Los GAL cometen su primera acción: el secuestro de Segundo Marey, un ciudadano español confundido con un etarra. Marey fue retenido 10 días y posteriormente liberado. Este secuestro será clave en las condenas posteriores."
-    type: "resumen"
-    urls:
-      - "https://es.wikipedia.org/wiki/Grupos_Antiterroristas_de_Liberaci%C3%B3n"
-
-  - fecha: 1983-12-01
-    titulo: "Primeros asesinatos"
-    descripcion: "Los GAL inician una campaña de asesinatos en el País Vasco francés contra supuestos miembros o colaboradores de ETA. Entre 1983 y 1987 cometerán 27 asesinatos."
-    type: "resumen"
-    urls:
-      - "https://www.publico.es/politica/gal-guerra-sucia-psoe-eta.html"
-
-  - fecha: 1987-07-01
-    titulo: "Fin de las actividades de los GAL"
-    descripcion: "Los GAL cesan sus actividades tras la firma de los acuerdos de cooperación antiterrorista con Francia, que hacían innecesaria la 'guerra sucia' en territorio francés."
-    type: "resumen"
-    urls:
-      - "https://es.wikipedia.org/wiki/Grupos_Antiterroristas_de_Liberaci%C3%B3n"
-
-  - fecha: 1988-01-01
-    titulo: "Inicio de las investigaciones judiciales"
-    descripcion: "El juez Baltasar Garzón comienza a investigar los GAL en la Audiencia Nacional. Las investigaciones revelarán la implicación de altos cargos del Ministerio del Interior."
-    type: "investigación"
-    urls:
-      - "https://baltasargarzon.org/en/baltasar-garzon-2/judicial-career/terrorism/gal/"
-
-  - fecha: 1995-01-01
-    titulo: "Imputación de Barrionuevo y Vera"
-    descripcion: "El juez Garzón imputa al exministro José Barrionuevo y al exsecretario de Estado Rafael Vera por el secuestro de Segundo Marey. Es la primera vez que se acusa a un ministro por los GAL."
-    type: "imputación"
-    urls:
-      - "https://baltasargarzon.org/en/baltasar-garzon-2/judicial-career/terrorism/gal/"
-
-  - fecha: 1998-07-29
-    titulo: "Sentencia del Tribunal Supremo"
-    descripcion: "El Tribunal Supremo condena a Barrionuevo y Vera a 10 años de prisión por secuestro y malversación de fondos públicos. Julián Sancristóbal recibe 71 años. Se demuestra la financiación de los GAL con fondos reservados del Estado."
-    type: "sentencia"
-    urls:
-      - "https://es.wikipedia.org/wiki/Rafael_Vera"
-      - "http://www1.udel.edu/leipzig/010498/elb25058.htm"
-
-  - fecha: 1998-09-01
-    titulo: "Manifestaciones del PSOE: 'los nuestros'"
-    descripcion: "El PSOE organiza manifestaciones de apoyo a Barrionuevo y Vera con el lema 'los nuestros', generando una enorme controversia política y social."
-    type: "resumen"
-    urls:
-      - "https://www.elsaltodiario.com/regimen-del-78/cuando-el-psoe-se-manifestaba-por-sus-politicos-presos"
-
-  - fecha: 1998-12-01
-    titulo: "Indulto parcial del Gobierno Aznar"
-    descripcion: "Tras solo 3 meses en prisión, el Gobierno de Aznar concede un indulto parcial a Barrionuevo y Vera, siguiendo una recomendación del Tribunal Supremo. La decisión genera polémica pero permite su excarcelación."
-    type: "resumen"
-    urls:
-      - "https://www.publico.es/politica/gal-guerra-sucia-psoe-eta.html"
+- fecha: '1983-10-16'
+  titulo: Secuestro de Lasa y Zabala
+  descripcion: La STC 155/2002 reseña el secuestro en Francia durante la madrugada de este día y su posterior traslado,
+    custodia y asesinato en España. No es la fecha del secuestro de Marey.
+  type: resumen
+  urls:
+  - https://www.boe.es/buscar/doc.php?id=BOE-T-2002-15993
+- fecha: '1983-12-04'
+  titulo: Secuestro de Segundo Marey
+  descripcion: Marey fue secuestrado en Francia al confundirlo con un miembro de ETA y trasladado a Cantabria, según
+    las sentencias constitucionales que examinaron las condenas.
+  type: resumen
+  urls:
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6813
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6809
+- fecha: '1998-07-29'
+  titulo: Sentencia del Supremo por el secuestro de Marey
+  descripcion: Condenas individualizadas por secuestro, detención ilegal y malversación, y absolución de pertenencia
+    o colaboración con banda armada. La responsabilidad civil distingue reintegro al Estado e indemnización a la
+    víctima.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=12f3d00cbb31a7d9&encode=true&databasematch=AN
+- fecha: '1998-12-23'
+  titulo: Indultos parciales de Barrionuevo y Vera
+  descripcion: Los decretos 2838/1998 y 2846/1998 indultan dos tercios de sus penas de prisión y parte de las inhabilitaciones,
+    con condiciones. No constituyen absoluciones.
+  type: indulto
+  urls:
+  - https://www.boe.es/buscar/doc.php?id=BOE-A-1999-1545
+  - https://www.boe.es/buscar/doc.php?id=BOE-A-1999-1553
+- fecha: '1998-12-29'
+  titulo: Suspensión cautelar de la prisión durante los amparos
+  descripcion: Las STC 68 y 69/2001 reseñan los autos de suspensión de la ejecución de las penas privativas de libertad
+    tras el indulto parcial. Se distingue del decreto de indulto y del fallo posterior de amparo.
+  type: recurso
+  urls:
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6813
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6814
+- fecha: '1999-01-22'
+  titulo: Publicación de los dos decretos de indulto
+  descripcion: El BOE publica los decretos de 23 de diciembre de 1998 relativos a Barrionuevo y Vera. Es fecha de
+    publicación, no de concesión.
+  type: documento
+  urls:
+  - https://www.boe.es/buscar/doc.php?id=BOE-A-1999-1545
+  - https://www.boe.es/buscar/doc.php?id=BOE-A-1999-1553
+- fecha: '2001-03-17'
+  titulo: Desestimación de amparos de condenados en Marey
+  descripcion: Las STC 63, 64, 66, 68, 69 y 70/2001 desestiman los recursos contrastados de García Damborenea, Sancristóbal,
+    Planchuelo y otros, Barrionuevo, Vera y Álvarez. No es una nueva condena ni una resolución conjunta sobre todos
+    los crímenes de los GAL.
+  type: recurso
+  urls:
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6808
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6809
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6811
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6813
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6814
+  - https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/4366
+- fecha: '2002-07-22'
+  titulo: Desestimación de los amparos en Lasa y Zabala
+  descripcion: La STC 155/2002 desestima las demandas acumuladas de Vaquero, Bayo, Dorado, Rodríguez Galindo y Elgorriaga
+    frente a sus condenas. Se trata de un procedimiento distinto de Marey.
+  type: recurso
+  urls:
+  - https://www.boe.es/buscar/doc.php?id=BOE-T-2002-15993
 ---
+
+El [recurso educativo del Ministerio de Educación](https://descargas.intef.es/recursos_educativos/ODES_SGOA/VT/Portafolio_victimas_terrorismo/el_terrorismo_de_la_democracia_a_nuestros_das.html) sitúa a los GAL entre las formas de terrorismo parapolicial y recoge 27 asesinatos. Ese total de víctimas no es una condena conjunta de todos los nombres relacionados con el fenómeno. La ficha distingue dos procedimientos judiciales contrastados, sin pretender que agoten todos los atentados, autores o víctimas.
+
+La [sentencia original de Marey](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=12f3d00cbb31a7d9&encode=true&databasematch=AN) impone penas diferentes a doce acusados y absuelve de pertenencia o colaboración con banda armada. Por ello no se sustituye el tipo concreto de condena por una etiqueta penal genérica de terrorismo. La nominalización de los condenados aquí descritos procede de las sentencias constitucionales oficiales, no de reconstruir los seudónimos de la copia CENDOJ. La cifra de 71 años antes atribuida a Sancristóbal no corresponde a su condena de diez años por Marey.
+
+El fallo fija 10.350.000 pesetas de reintegro al Estado a cargo de los seis autores de malversación y 30.000.000 de pesetas para Marey, distribuidas entre los responsables con reglas de solidaridad y subsidiariedad; el Estado responde subsidiariamente de esta indemnización. Son obligaciones diferentes. No se multiplican las cantidades por cada condenado ni se presenta su suma como coste económico global de los GAL. Su pago efectivo y los incidentes de ejecución no han quedado acreditados aquí.
+
+Los [indultos de Barrionuevo](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-1545) y [Vera](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-1553) redujeron parcialmente las penas: no borraron la condena ni toda la inhabilitación. Las [STC 68/2001](https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6813) y [69/2001](https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-6814) distinguen esos indultos de los autos de suspensión durante el amparo y del posterior rechazo de sus demandas. Sigue pendiente reconstruir la ejecución individual completa y las restantes medidas de gracia o recursos posteriores, incluidos los de ámbito europeo.
+
+La [STC 155/2002 sobre Lasa y Zabala](https://www.boe.es/buscar/doc.php?id=BOE-T-2002-15993) desestima los amparos de cinco condenados por dos asesinatos y dos detenciones ilegales. Su referencia a un máximo de cumplimiento de treinta años no equivale a la pena nominal ni al tiempo efectivamente pasado en prisión. No se extrapola ese resultado a Marey ni se afirma que las condenas de Marey resolvieran los asesinatos de Lasa y Zabala.
