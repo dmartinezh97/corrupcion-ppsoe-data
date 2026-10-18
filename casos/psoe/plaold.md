@@ -50,7 +50,7 @@ cronologia:
   relevancia: media
 - fecha: '2009-08-20'
   titulo: Publicación del cambio societario en el BORME
-  descripcion: Se publica el asiento de Plaold en la página43074. La lista de ceses incluye a López Domínguez Orencio,
+  descripcion: Se publica el asiento de Plaold en la página 43074. La lista de ceses incluye a López Domínguez Orencio,
     López Arbeloa Pablo María y Moracho del Río Óscar. El asiento no acredita por sí mismo porcentajes accionariales,
     adjudicaciones ni infracciones.
   urls:
@@ -59,8 +59,8 @@ cronologia:
   relevancia: media
 ---
 
-El [asiento mercantil de Plaold](https://www.boe.es/borme/dias/2009/08/20/pdfs/BORME-A-2009-158-48.pdf), página43074, permite comprobar el cambio de órgano de administración: los tres administradores solidarios cesaron y Orencio López Domínguez fue nombrado administrador único. No permite deducir una venta de participaciones ni su porcentaje. La forma nominal «López Arbeloa Pablo María» del registro no se identifica automáticamente con la variante «Pablo Arbeloa» de las informaciones periodísticas sin un cotejo adicional.
+El [asiento mercantil de Plaold](https://www.boe.es/borme/dias/2009/08/20/pdfs/BORME-A-2009-158-48.pdf), página 43074, permite comprobar el cambio de órgano de administración: los tres administradores solidarios cesaron y Orencio López Domínguez fue nombrado administrador único. No permite deducir una venta de participaciones ni su porcentaje. La forma nominal «López Arbeloa Pablo María» del registro no se identifica automáticamente con la variante «Pablo Arbeloa» de las informaciones periodísticas sin un cotejo adicional.
 
 La [noticia histórica sobre los contratos](https://www.noticiasdegipuzkoa.eus/actualidad/2010/09/10/sanidad-adjudica-contratos-empresas-relacionadas-4537399.html) y las informaciones relacionadas de DEIA permanecen pendientes de lectura completa verificable. No se mantienen como hechos probados los importes desglosados, los porcentajes societarios ni la ilegalidad de las adjudicaciones. Son extremos que requieren los expedientes y las explicaciones administrativas, incluidas las alegaciones sobre compatibilidad, para poder valorarse conjuntamente.
 
-No hay una resolución de archivo acreditada que permita cerrar el episodio en enero de2011, ni prueba suficiente para denominar investigados judiciales a los empresarios. La falta de resolución recuperada no equivale a inexistencia de procedimiento. Tampoco se confunde este asunto con otras controversias sanitarias, como el caso Margüello. El contexto político corresponde al Gobierno de Patxi López y no se describe como un gobierno de coalición PNV-PSE.
+No hay una resolución de archivo acreditada que permita cerrar el episodio en enero de 2011, ni prueba suficiente para denominar investigados judiciales a los empresarios. La falta de resolución recuperada no equivale a inexistencia de procedimiento. Tampoco se confunde este asunto con otras controversias sanitarias, como el caso Margüello. El contexto político corresponde al Gobierno de Patxi López y no se describe como un gobierno de coalición PNV-PSE.
