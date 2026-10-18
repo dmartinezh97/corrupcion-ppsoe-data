@@ -1,104 +1,115 @@
 ---
-nombre: "Invercaria/Aceitunas Tatis"
-partido: PSOE
-completado: true
-año: 2009
-fechaInicio: 2009-01-01
-fechaFin: 2022-10-20
-estado: "cerrado con condenas"
-descripcion: |
-  El caso Invercaria/Aceitunas Tatis es una pieza del macrocaso Invercaria que investiga la concesión irregular de un préstamo participativo de 100.000 euros a la empresa Aceitunas Tatis S.L. por parte de Invercaria, la sociedad pública de capital riesgo de la Junta de Andalucía, durante el gobierno socialista de José Antonio Griñán.
-
-  En 2009, el expresidente de Invercaria Tomás Pérez-Sauquillo otorgó de forma arbitraria el préstamo a Aceitunas Tatis para la comercialización de una supuesta "línea erótica" de aceitunas de mesa gourmet. Los productos de esta línea recibían nombres como "Polvazos Picantes", "Dulces Cuernos", "Polvitos" o "Lengüetazos". El préstamo se concedió sin seguir los procedimientos establecidos y sin evaluar adecuadamente la viabilidad de la empresa ni la solidez del proyecto empresarial.
-
-  El Tribunal Supremo confirmó en octubre de 2022 la condena a tres años y seis meses de prisión y seis años y seis meses de inhabilitación absoluta impuesta al expresidente Tomás Pérez-Sauquillo como autor de delitos de prevaricación en concurso con malversación de caudales públicos. Asimismo, se confirmó la condena de dos años de prisión e inhabilitación a la única administradora de la empresa, Gracia Rodríguez Cortés, como inductora de los mismos delitos.
-
-  El tribunal condenó a ambos al pago solidario de una indemnización de 108.732,22 euros a favor de la sociedad sucesora de Invercaria como responsabilidad civil. La reforma del Código Penal impulsada por el Gobierno de Sánchez para facilitar el indulto a los independentistas catalanes tuvo el efecto colateral de reducir las penas de la malversación en casos como el de Invercaria, beneficiando a condenados como Pérez-Sauquillo.
-resumen: "Invercaria concedió irregularmente 100.000 euros a una empresa de aceitunas 'eróticas' sin cumplir los procedimientos legales. El Tribunal Supremo confirmó condenas de 3,5 años al expresidente de Invercaria y 2 años a la empresaria beneficiaria."
-coste: 108732
-lugar: "Sevilla, Andalucía"
-tribunal:
-  - "Audiencia Provincial de Sevilla"
-  - "Tribunal Supremo - Sala Segunda"
-numeroSentencia: ""
-implicados:
-  - nombre: "Tomás Pérez-Sauquillo"
-    cargo: "Ex presidente de Invercaria (Inversión y Gestión de Capital Riesgo de Andalucía)"
-    rol: "Condenado a 3 años y 6 meses de prisión y 6 años y 6 meses de inhabilitación por prevaricación y malversación"
-
-  - nombre: "Gracia Rodríguez Cortés"
-    cargo: "Única administradora de Aceitunas Tatis S.L."
-    rol: "Condenada a 2 años de prisión e inhabilitación como inductora de los delitos de prevaricación y malversación"
-
-  - nombre: "Isabel de Haro Aramberri"
-    cargo: "Ex secretaria general de Desarrollo Industrial y Energía de la Junta de Andalucía"
-    rol: "Investigada por su papel en la concesión de la ayuda"
-
-  - nombre: "Antonio Nieto Garrido"
-    cargo: "Ex directivo de Invercaria"
-    rol: "Investigado en relación con la tramitación del préstamo irregular"
-
-  - nombre: "Jacinto Cañete Rolloso"
-    cargo: "Ex director general de IDEA"
-    rol: "Investigado por su papel en el sistema de concesión irregular de préstamos de Invercaria"
-
-tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "Invercaria"
-  - "fondos públicos"
-  - "Junta de Andalucía"
-  - "capital riesgo público"
-impactoSocial: "El caso Aceitunas Tatis se convirtió en uno de los más llamativos del macrocaso Invercaria por la naturaleza extravagante del proyecto financiado con dinero público. La confirmación de las condenas por el Tribunal Supremo en 2022 supuso un nuevo varapalo para el PSOE andaluz. La posterior rebaja de las penas gracias a la reforma penal de Sánchez generó una fuerte polémica al evidenciar que cambios legislativos diseñados supuestamente para el proceso independentista catalán beneficiaban también a corruptos de otros ámbitos."
-documentos: null
-cronologia:
-  - fecha: 2009-01-01
-    titulo: "Concesión irregular del préstamo a Aceitunas Tatis"
-    descripcion: "El expresidente de Invercaria Tomás Pérez-Sauquillo concede arbitrariamente un préstamo participativo de 100.000 euros a Aceitunas Tatis S.L. para financiar una 'línea erótica' de aceitunas gourmet, sin seguir los procedimientos legales ni evaluar adecuadamente la viabilidad del proyecto."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Invercaria/Aceitunas+Tatis&numero=441"
-
-  - fecha: 2012-01-01
-    titulo: "Inicio de la investigación del macrocaso Invercaria"
-    descripcion: "El Juzgado de Instrucción nº 16 de Sevilla comienza la investigación del macrocaso Invercaria, que con el tiempo se desglosará en más de 30 piezas judiciales, entre ellas la correspondiente a Aceitunas Tatis."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.libertaddigital.com/andalucia/2019-09-16/arranca-el-primer-juicio-del-macrocaso-invercaria-con-el-psoe-al-fondo-1276644798/"
-
-  - fecha: 2019-09-16
-    titulo: "Arranca el primer juicio del macrocaso Invercaria"
-    descripcion: "Se celebra el primer juicio del macrocaso Invercaria. El caso Aceitunas Tatis es una de las piezas más conocidas del conjunto de irregularidades investigadas en Invercaria."
-    type: "juicio"
-    relevancia: "media"
-    urls:
-      - "https://www.libertaddigital.com/andalucia/2019-09-16/arranca-el-primer-juicio-del-macrocaso-invercaria-con-el-psoe-al-fondo-1276644798/"
-
-  - fecha: 2021-11-01
-    titulo: "Condena en primera instancia al expresidente de Invercaria"
-    descripcion: "La Audiencia Provincial de Sevilla condena a Tomás Pérez-Sauquillo por el caso Aceitunas Tatis. El caso se suma a otras condenas previas del mismo expresidente de Invercaria en distintas piezas del macrocaso."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.libertaddigital.com/andalucia/2021-11-05/mas-condenas-en-el-caso-invercaria-y-16-imputados-en-el-caso-aznalcollar-la-corrupcion-socialista-andaluza-arrecia-6834854/"
-
-  - fecha: 2022-10-20
-    titulo: "El Tribunal Supremo confirma la condena de Pérez-Sauquillo"
-    descripcion: "El Tribunal Supremo confirma la condena de 3 años y 6 meses de prisión al expresidente de Invercaria Tomás Pérez-Sauquillo y la de 2 años a Gracia Rodríguez Cortés. Ambos son condenados a pagar solidariamente 108.732,22 euros de indemnización a la sucesora de Invercaria."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-al-expresidente-de-Invercaria-por-prevaricacion-y-malversacion-por-la-concesion-irregular-de-un-prestamo-de-100-000-euros"
-      - "https://www.elespanol.com/espana/andalucia/20221020/ts-condena-socialista-andaluz-empresa-aceitunas-eroticas/712179092_0.html"
-
-  - fecha: 2024-01-01
-    titulo: "Suspensión del ingreso en prisión por reforma penal de Sánchez"
-    descripcion: "La reforma del Código Penal impulsada por el Gobierno de Sánchez para facilitar el indulto a los independentistas catalanes reduce la pena de Pérez-Sauquillo y suspende su ingreso en prisión, generando polémica política."
-    type: "recurso"
-    relevancia: "media"
-    urls:
-      - "https://okdiario.com/andalucia/suspendido-ingreso-prision-ex-alto-cargo-andaluz-del-psoe-reforma-penal-sanchez-10886526"
+"nombre": "Invercaria/Aceitunas Tatis"
+"partido": "PSOE"
+"completado": false
+"año": 2009
+"fechaInicio": "2009-06-19"
+"estado": "Condenas confirmadas; revisión y ejecución pendientes de comprobar"
+"descripcion": "Esta pieza de Invercaria se refiere al préstamo participativo de 100.000 euros formalizado el 19\
+  \ de junio de 2009 a Aceitunas Tatis S.L., de La Carolina (Jaén). Se concedió por decisión del entonces presidente\
+  \ y consejero delegado Tomás Pérez-Sauquillo sin los análisis ni trámites previos exigibles. Las sentencias declaran\
+  \ que el préstamo no fue devuelto y que no se acreditó el destino del dinero. No se equipara el catálogo comercial\
+  \ de la empresa a un destino de los fondos judicialmente probado.\n\nLa sentencia 82/2020, de 17 de febrero, de\
+  \ la Sección Primera de la Audiencia Provincial de Sevilla condenó a Pérez-Sauquillo a tres años y seis meses\
+  \ de prisión y seis años y seis meses de inhabilitación absoluta por prevaricación en concurso medial con malversación.\
+  \ La administradora Gracia Rodríguez Cortés recibió dos años de prisión y tres años y seis meses de inhabilitación\
+  \ absoluta como inductora. El Supremo desestimó ambas casaciones mediante sentencia 815/2022, de 14 de octubre,\
+  \ difundida el día 20. La indemnización solidaria a Inverseed ascendió a 108.732,22 euros: 100.000 de principal\
+  \ y 8.732,22 de intereses. El coste mostrado recoge únicamente el principal, sin duplicarlo por la solidaridad.\n\
+  \nLa condena confirmada no permite dar por ejecutada la prisión. Según información de Europa Press de mayo de\
+  \ 2023, un auto de 2 de mayo suspendió el requerimiento de ingreso de Pérez-Sauquillo mientras se tramitaban la\
+  \ revisión solicitada por la reforma de la malversación y una petición por enfermedad. Esa decisión no acredita\
+  \ una rebaja definitiva de pena. No se ha comprobado el desenlace de ambas solicitudes, el amparo mencionado por\
+  \ la defensa, la situación de ejecución de cada condenado ni el cobro efectivo de la indemnización al 17 de octubre\
+  \ de 2026. No se trasladan resultados de otras piezas de Invercaria."
+"resumen": "Préstamo irregular de 100.000 euros a Aceitunas Tatis: condenas confirmadas en 2022 y suspensión del\
+  \ requerimiento de ingreso de Pérez-Sauquillo conocida en 2023."
+"coste": 100000
+"lugar": "Sevilla y La Carolina (Jaén), Andalucía"
+"tribunal":
+- "Audiencia Provincial de Sevilla — Sección Primera"
+- "Tribunal Supremo — Sala de lo Penal"
+"numeroSentencia": "SAP 82/2020, de 17 de febrero, ECLI:ES:APSE:2020:5; STS 815/2022, de 14 de octubre, ECLI:ES:TS:2022:3703."
+"implicados":
+- "nombre": "Tomás Pérez-Sauquillo"
+  "cargo": "Expresidente y consejero delegado de Invercaria"
+  "rol": "Condenado como autor de prevaricación y malversación a tres años y seis meses de prisión y seis años y\
+    \ seis meses de inhabilitación absoluta; casación desestimada. Requerimiento de ingreso suspendido en mayo de\
+    \ 2023 mientras se tramitaban solicitudes de revisión y suspensión. Desenlace posterior no comprobado."
+- "nombre": "Gracia Rodríguez Cortés"
+  "cargo": "Administradora única de Aceitunas Tatis S.L. en los hechos"
+  "rol": "Condenada como inductora de prevaricación y malversación a dos años de prisión y tres años y seis meses\
+    \ de inhabilitación absoluta; casación desestimada. Responsable civil solidaria con Pérez-Sauquillo; ejecución\
+    \ individual no comprobada."
+"tags":
+- "Invercaria"
+- "malversación"
+- "prevaricación"
+- "préstamo participativo"
+- "capital riesgo público"
+"impactoSocial": "La causa examinó los controles sobre decisiones de financiación de una sociedad de capital íntegramente\
+  \ público. Su objeto es este préstamo concreto, no todas las inversiones de Invercaria."
+"documentos":
+- "fecha": "2020-02-17"
+  "titulo": "Audiencia Provincial de Sevilla: sentencia 82/2020, préstamo a Aceitunas Tatis"
+  "filetype": "pdf"
+  "paginas": 40
+  "nombre_fichero": "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6ac3d99e824eb67b&encode=true&databasematch=AN"
+- "fecha": "2022-10-14"
+  "titulo": "Tribunal Supremo: sentencia 815/2022, casaciones de Aceitunas Tatis"
+  "filetype": "pdf"
+  "paginas": 38
+  "nombre_fichero": "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=79b035af3303cfcca0a8778d75e36f0d&encode=true&databasematch=AN"
+"cronologia":
+- "fecha": "2009-06-19"
+  "titulo": "Formalización del préstamo participativo"
+  "descripcion": "Se firma el préstamo de 100.000 euros. Los hechos probados distinguen esta operación del aval\
+    \ de 80.000 euros que no se formalizó y de otro préstamo solicitado por 350.000 euros que no se hizo efectivo."
+  "type": "documento"
+  "urls":
+  - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=79b035af3303cfcca0a8778d75e36f0d&encode=true&databasematch=AN"
+- "fecha": "2019-09-16"
+  "titulo": "Inicio del juicio de esta pieza"
+  "descripcion": "Europa Press sitúa el juicio de Aceitunas Tatis entre el 16 de septiembre y el 29 de octubre de\
+    \ 2019. Se juzga a dos personas, sin extender esa condición a todos los investigados de Invercaria."
+  "type": "juicio"
+  "urls":
+  - "https://www.europapress.es/andalucia/noticia-condenado-tres-anos-medio-carcel-expresidente-invercaria-caso-aceitunas-tatis-20200304131201.html"
+- "fecha": "2020-02-17"
+  "titulo": "Condena de la Audiencia Provincial de Sevilla"
+  "descripcion": "La sentencia 82/2020 impone las penas de prisión e inhabilitación y la responsabilidad civil solidaria\
+    \ de 108.732,22 euros a favor de Inverseed. Era recurrible en casación."
+  "type": "sentencia"
+  "urls":
+  - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6ac3d99e824eb67b&encode=true&databasematch=AN"
+- "fecha": "2020-03-04"
+  "titulo": "Se conoce la condena de primera instancia"
+  "descripcion": "Europa Press informa de la notificación de la sentencia a las partes en esta fecha. Se distingue\
+    \ la publicación de la fecha de la resolución."
+  "type": "documento"
+  "urls":
+  - "https://www.europapress.es/andalucia/noticia-condenado-tres-anos-medio-carcel-expresidente-invercaria-caso-aceitunas-tatis-20200304131201.html"
+- "fecha": "2022-10-14"
+  "titulo": "El Supremo desestima las dos casaciones"
+  "descripcion": "La STS 815/2022 confirma la condena y comunica que contra ella no cabe recurso. No se deduce de\
+    \ ello el cumplimiento de prisión o indemnización ni el resultado de solicitudes extraordinarias posteriores."
+  "type": "sentencia"
+  "urls":
+  - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=79b035af3303cfcca0a8778d75e36f0d&encode=true&databasematch=AN"
+- "fecha": "2023-05-02"
+  "titulo": "Suspensión del requerimiento de ingreso, según información posterior"
+  "descripcion": "Europa Press refiere un auto de esta fecha que suspende el ingreso de Pérez-Sauquillo mientras\
+    \ se tramitan la revisión de sentencia y su solicitud de suspensión extraordinaria por enfermedad. El original\
+    \ del auto y su desenlace posterior no se han cotejado."
+  "type": "recurso"
+  "urls":
+  - "https://www.teleprensa.com/andalucia/sevilla/suspenden-ingreso-prision-perez-sauquillo-pedir-revisar-pena-cambio-malversacion/202305091413121468755.html"
 ---
+
+El préstamo concedido fue de 100.000 euros. El aval de 80.000 euros de IDEA no llegó a formalizarse y el préstamo posterior solicitado por 350.000 euros no se hizo efectivo; no son dinero adicional malversado en esta pieza. Los 108.732,22 euros de responsabilidad civil comprenden principal e intereses y no se añaden otra vez al coste. Tampoco se presupone cobro efectivo por la mera imposición del reintegro solidario.
+
+El examen judicial se limitó a esta operación. La referencia comercial a una línea erótica procede del catálogo de la empresa y de argumentos de su defensa sobre la innovación del proyecto. No demuestra que el dinero público se destinara a fabricar esos productos: las sentencias señalan precisamente que no consta su empleo. La responsabilidad de los dos condenados se apoya en las condiciones de concesión y el perjuicio, no en los nombres del catálogo.
+
+La decisión de 2023 paralizó el requerimiento de ingreso mientras se resolvían solicitudes. No equivale a sustituir la pena de prisión, conceder definitivamente una suspensión por enfermedad o estimar un amparo. La información sobre revisiones o rebajas en Fumapa, Cedes Electria u otras piezas no se aplica a Aceitunas Tatis. Tampoco se mantienen como investigados actuales de esta pieza otros directivos que figuraban en la ficha sin un desenlace individual documentado.
+
+Fuentes: [sentencia de instancia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6ac3d99e824eb67b&encode=true&databasematch=AN), [sentencia de casación](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=79b035af3303cfcca0a8778d75e36f0d&encode=true&databasematch=AN), [nota oficial del Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-al-expresidente-de-Invercaria-por-prevaricacion-y-malversacion-por-la-concesion-irregular-de-un-prestamo-de-100-000-euros), [Europa Press, notificación y juicio](https://www.europapress.es/andalucia/noticia-condenado-tres-anos-medio-carcel-expresidente-invercaria-caso-aceitunas-tatis-20200304131201.html), [Servimedia, nombres y condenas](https://www.servimedia.es/noticias/ts-condena-expresidente-invercaria-prevaricacion-malversacion-dar-forma-irregular-prestamo-100000-euros/3474520), [Diario de Sevilla, catálogo y argumentos de la defensa](https://www.diariodesevilla.es/juzgado_de_guardia/sentencias/condena-firme-ayuda-mas-picante-Invercaria_0_1731128252.html) y [Europa Press, suspensión del requerimiento de ingreso](https://www.teleprensa.com/andalucia/sevilla/suspenden-ingreso-prision-perez-sauquillo-pedir-revisar-pena-cambio-malversacion/202305091413121468755.html).
