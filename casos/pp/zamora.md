@@ -1,126 +1,99 @@
 ---
-nombre: "Caso Zamora"
-partido: "PP"
-completado: true
+nombre: Caso Zamora
+partido: PP
+completado: false
 año: 1997
-fechaInicio: 1987-01-01
-fechaFin: "2002-12-31"
-estado: "archivado"
-descripcion: |
-  El Caso Zamora investiga la presunta financiación ilegal del Partido Popular en la provincia de Zamora mediante un sistema de comisiones sobre la adjudicación de obras públicas. Entre 1987 y 1991, se habría establecido un mecanismo por el cual las empresas constructoras debían pagar un "impuesto" de dos millones de pesetas más una comisión del 8% sobre el importe de cada obra pública adjudicada por la Diputación Provincial de Zamora. El caso salió a la luz en 1997 cuando Antolín Martín, entonces presidente de la Diputación y ex-militante del PP, denunció públicamente estas prácticas irregulares.
+estado: archivado
+descripcion: 'Investigación sobre presuntas comisiones en adjudicaciones de la Diputación de Zamora y su posible
+  relación con la financiación del PP, iniciada a raíz de denuncias de Antolín Martín y del constructor Eduardo
+  Corrales en 1997. Las sospechas y los testimonios de los denunciantes no equivalen a hechos penalmente probados.
 
-  La investigación judicial, que fue instruida por el magistrado del Tribunal Supremo José Antonio Martín Pallín bajo la dirección del fiscal anticorrupción Carlos Jiménez Villarejo, se centró en examinar la adjudicación de contratos a constructoras como Inzamac, Tecopysa y Cemosa durante el período comprendido entre 1987 y 1995. El constructor Eduardo Corrales también presentó denuncia, acusando que José María Aznar, entonces candidato a la presidencia de Castilla y León, habría recibido tres millones de pesetas de empresas constructoras de Zamora para financiar su campaña electoral de 1987. El caso alcanzó relevancia nacional cuando en abril de 1999 dos parlamentarios del PP, el senador Dionisio García Carnero (presidente provincial del partido) y el diputado José Manuel Peñalosa, renunciaron a sus escaños tras ser citados a declarar como imputados.
 
-  A pesar de la gravedad de las acusaciones y de que llegaron a ser imputadas 33 personas, entre políticos del PP y empresarios de la construcción, el caso fue finalmente archivado en 2002 sin que se produjeran condenas. El PP negó sistemáticamente las acusaciones mediante un informe interno que calificó las denuncias como "rotundamente falsas y gravemente calumniosas", atribuyéndolas a conflictos internos del partido relacionados con la expulsión de Antolín Martín. El archivo del caso generó críticas por parte de quienes consideraban que existían indicios suficientes para continuar la investigación sobre la financiación irregular del partido en la provincia zamorana.
+  El Juzgado de Instrucción número 4 de Zamora acordó el archivo el 17 de junio de 2002, según las informaciones
+  contemporáneas de El País y EFE. El juez Antonio Francisco Casado consideró que no había fundamento penal suficiente,
+  aunque apreció irregularidades administrativas. El archivo abarcó la causa principal y cuatro piezas separadas,
+  con 33 personas imputadas, y no una sentencia condenatoria.
 
-resumen: "Financiación ilegal del PP en Zamora mediante comisiones del 8% en obras públicas entre 1987 y 1991"
-coste: 12000000
-lugar: "Zamora, Castilla y León"
+
+  Antes de ese archivo, la causa pasó por el Tribunal Supremo debido a la presencia de parlamentarios aforados y
+  posteriormente continuó en Zamora. No se han obtenido los autos originales ni acreditado la clase exacta de sobreseimiento,
+  los eventuales recursos o su firmeza. Esos extremos y la evolución hasta el 17 de octubre de 2026 quedan pendientes.'
+resumen: Investigación de presuntas comisiones en la Diputación de Zamora, archivada en junio de 2002 por falta
+  de fundamento penal según la prensa contemporánea. Originales, recursos y firmeza pendientes de verificar.
+lugar: Zamora, Castilla y León
 tribunal:
-  - "Tribunal Supremo - Magistrado José Antonio Martín Pallín"
-  - "Fiscalía Anticorrupción - Fiscal Carlos Jiménez Villarejo"
-  - "Audiencia Provincial de Zamora"
-numeroSentencia: ""
+- Tribunal Supremo, Sala de lo Penal (fase de aforamiento)
+- Juzgado de Instrucción número 4 de Zamora
 implicados:
-  - nombre: "Antolín Martín Martín"
-    cargo: "Presidente de la Diputación de Zamora, ex-alcalde de Zamora"
-    rol: "Denunciante de la trama de comisiones ilegales"
-
-  - nombre: "Eduardo Corrales"
-    cargo: "Empresario constructor"
-    rol: "Denunciante, acusó a Aznar de recibir comisiones"
-
-  - nombre: "Dionisio García Carnero"
-    cargo: "Senador del PP, presidente provincial del PP en Zamora"
-    rol: "Imputado por recibir comisiones, dimitió de su escaño"
-
-  - nombre: "José Manuel Peñalosa"
-    cargo: "Diputado del PP"
-    rol: "Imputado por recibir comisiones, dimitió de su escaño"
-
-  - nombre: "José María Aznar"
-    cargo: "Candidato a la presidencia de Castilla y León (1987), Presidente del Gobierno"
-    rol: "Acusado de recibir 3 millones de pesetas para su campaña"
-
-  - nombre: "Juan Vicente Herrera"
-    cargo: "Portavoz parlamentario del PP"
-    rol: "Presentó informe interno del PP negando las acusaciones"
-
+- nombre: Antolín Martín
+  cargo: Presidente de la Diputación de Zamora al denunciar los hechos
+  rol: Denunciante; El País también lo identifica como imputado en la investigación posteriormente archivada. No
+    consta condena por estos hechos en las fuentes leídas.
+- nombre: Eduardo Corrales
+  cargo: Empresario constructor
+  rol: Denunciante del presunto pago de comisiones. Sus afirmaciones fueron rechazadas como sustento penal suficiente
+    por el auto de archivo, según la prensa.
+- nombre: Dionisio García Carnero
+  cargo: Senador del PP durante una fase de la investigación
+  rol: Imputado según las fuentes contemporáneas; renunció al escaño. La causa fue archivada en 2002.
+- nombre: José Manuel Peñalosa Ruiz
+  cargo: Diputado del PP durante una fase de la investigación
+  rol: Querellado e imputado según la prensa; renunció al escaño. La causa fue archivada en 2002.
 tags:
-  - "corrupción"
-  - "financiación ilegal"
-  - "cohecho"
-  - "tráfico de influencias"
-  - "prevaricación"
-  - "obras públicas"
-
-impactoSocial: "El caso evidenció un presunto sistema estructural de financiación ilegal del PP mediante comisiones sobre obras públicas en Zamora. Las dimisiones de dos parlamentarios y las acusaciones contra José María Aznar generaron gran repercusión mediática nacional, aunque el posterior archivo sin condenas generó controversia sobre la eficacia de la justicia en casos de corrupción política."
-
-documentos: null
-
+- financiación de partidos
+- adjudicaciones públicas
+- archivo
+documentos: []
 cronologia:
-  - fecha: 1987-01-01
-    titulo: "Inicio del presunto sistema de comisiones ilegales"
-    descripcion: "Comienza el período en que supuestamente se establece un sistema de financiación ilegal del PP en Zamora mediante el cobro de un 'impuesto' de dos millones de pesetas y una comisión del 8% sobre cada obra pública adjudicada por la Diputación Provincial. Según las denuncias posteriores, José María Aznar, entonces candidato a la presidencia de Castilla y León, habría recibido tres millones de pesetas de constructoras zamoranas para financiar su campaña electoral."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Zamora&numero=98"
-
-  - fecha: 1997-02-21
-    titulo: "Antolín Martín denuncia públicamente la corrupción"
-    descripcion: "Antolín Martín, presidente de la Diputación de Zamora y ex-militante del PP, concede una entrevista a La Opinión-El Correo de Zamora en la que denuncia: 'El PP me ha abierto expediente porque no he permitido la corrupción'. Martín revela la existencia de un sistema de comisiones ilegales en la adjudicación de obras públicas durante su etapa como alcalde de Zamora (1987-1991) y como presidente de la Diputación Provincial. Esta declaración pública marca el inicio oficial del Caso Zamora."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://www.zamoranews.com/articulo/zamora/fallece-antolin-martin-martin-quien-fuera-alcalde-y-presidente-de-la-diputacion-de-zamora/20150610200000072223.html"
-      - "https://www.zamora24horas.com/local/recuerdo-caso-zamora-legado-cuartel-viriato_10819829_102.html"
-
-  - fecha: 1997-03-22
-    titulo: "El PP presenta informe interno negando las acusaciones"
-    descripcion: "Juan Vicente Herrera, portavoz parlamentario del Partido Popular, presenta un informe interno que niega categóricamente las acusaciones de corrupción en la Diputación de Zamora. El informe califica como 'rotundamente falso y gravemente calumnioso' que José María Aznar hubiera recibido cheques de comisiones. El PP atribuye las denuncias al conflicto interno con Antolín Martín tras su expulsión del partido, y anuncia que remitirá el informe al fiscal de la Audiencia Provincial de Zamora. Herrera promete dimisiones si la investigación demuestra irregularidades."
-    type: "declaración"
-    relevancia: "media"
-    urls:
-      - "https://www.servimedia.es/noticias/zamora-informe-interno-pp-niega-haya-existido-cobro-comisiones-zamora/1410968780"
-
-  - fecha: 1997-04-26
-    titulo: "Moción de censura derroca a Antolín Martín"
-    descripcion: "El Partido Popular en la Diputación de Zamora presenta y aprueba una moción de censura contra Antolín Martín, que es destituido como presidente de la institución provincial. Esta moción es votada por sus propios ex-compañeros de partido como represalia por haber denunciado públicamente las prácticas de financiación ilegal. Martín, que ya había sido suspendido de militancia del PP, pierde así su cargo institucional apenas dos meses después de hacer públicas sus acusaciones sobre corrupción en el partido."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.zamoranews.com/articulo/zamora/fallece-antolin-martin-martin-quien-fuera-alcalde-y-presidente-de-la-diputacion-de-zamora/20150610200000072223.html"
-
-  - fecha: 1999-04-22
-    titulo: "Dimiten dos parlamentarios del PP imputados en el caso"
-    descripcion: "El senador Dionisio García Carnero, presidente provincial del PP en Zamora, y el diputado José Manuel Peñalosa renuncian a sus escaños parlamentarios tras ser citados a declarar como imputados por el magistrado del Tribunal Supremo José Antonio Martín Pallín. Ambos parlamentarios abandonan sus cargos electos antes de prestar declaración judicial, en un movimiento que busca evitar que el caso continúe siendo instruido por el Tribunal Supremo, ya que al perder su condición de aforados, la competencia pasaría a tribunales ordinarios."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "https://lahemerotecadelbuitre.com/piezas/caso-zamora-dimite-el-diputado-del-pp-jose-manuel-penalosa-y-el-senador-garcia-carnero-ambos-investigados-por-posible-corrupcion/"
-
-  - fecha: 1999-05-12
-    titulo: "El Tribunal Supremo amplía la investigación"
-    descripcion: "El magistrado José Antonio Martín Pallín aprueba nuevas diligencias solicitadas por el fiscal anticorrupción Carlos Jiménez Villarejo para profundizar en la investigación del Caso Zamora. Se ordena recabar listados de personal de la Diputación de Zamora entre 1987 y 1996, documentación sobre adjudicaciones a las constructoras Inzamac, Tecopysa y Cemosa, registros bancarios del PP en sucursales de Zamora, e información sobre cheques emitidos entre febrero y diciembre de 1989. La investigación continúa mientras se decide si la causa permanece en el Tribunal Supremo tras las dimisiones de los aforados."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.servimedia.es/noticias/caso-zamora-supremo-continua-recopilando-datos-sobre-supuesta-financiacion-ilegal-pp/1411009153"
-
-  - fecha: 2000-08-01
-    titulo: "Reapertura de la investigación sobre financiación del PP"
-    descripcion: "La juez instructora ordena investigar la financiación del Partido Popular zamorano entre 1988 y 1995, reabriendo o dando nuevo impulso a la investigación del caso. Se cita nuevamente a declarar como imputados a Dionisio García Carnero y José Manuel Peñalosa. La reapertura del caso coincide con el verano y genera preocupación en el Gobierno de José María Aznar por las implicaciones políticas que podría tener. La investigación se centra en determinar el origen de los fondos del PP en la provincia durante ese período."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://dialnet.unirioja.es/servlet/articulo?codigo=4448627"
-
-  - fecha: 2002-12-31
-    titulo: "Archivo del caso sin condenas"
-    descripcion: "El Caso Zamora es definitivamente archivado sin que se produzcan condenas contra ninguno de los 33 imputados, entre los que figuraban políticos del Partido Popular y empresarios de la construcción. A pesar de las evidencias recopiladas sobre el presunto sistema de comisiones ilegales del 8% sobre obras públicas y el 'impuesto' de dos millones de pesetas por adjudicación, la investigación concluye sin consecuencias penales. El archivo genera críticas de quienes consideraban que existían indicios suficientes para continuar la investigación sobre la financiación irregular del PP en Zamora."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Zamora&numero=98"
+- fecha: '1997-03-22'
+  titulo: El PP presenta un informe de rechazo a las denuncias
+  descripcion: Servimedia informó del informe interno presentado por Juan Vicente Herrera. Es la posición del partido,
+    no una resolución judicial. La fecha corresponde al despacho histórico al pie del texto.
+  type: declaracion
+  relevancia: alta
+  urls:
+  - https://www.servimedia.es/noticias/zamora-informe-interno-pp-niega-haya-existido-cobro-comisiones-zamora/1410968780
+- fecha: '1998-12-12'
+  titulo: Difusión de la asunción de competencia por el Supremo
+  descripcion: El País informó de un auto difundido el día anterior por el que la Sala Penal asumió la investigación
+    por la presencia de aforados. Esta fecha es de publicación; el original está pendiente.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://elpais.com/diario/1998/12/12/espana/913417201_850215.html
+- fecha: '1999-05-12'
+  titulo: Diligencias de investigación en el Supremo
+  descripcion: Servimedia documentó requerimientos de Martín Pallín a la Diputación, entidades bancarias y Tribunal
+    de Cuentas, a petición de Anticorrupción. La práctica de diligencias no acredita la realidad de las comisiones
+    denunciadas.
+  type: investigacion
+  relevancia: alta
+  urls:
+  - https://www.servimedia.es/noticias/caso-zamora-supremo-continua-recopilando-datos-sobre-supuesta-financiacion-ilegal-pp/1411009153
+- fecha: '2002-06-17'
+  titulo: Archivo de la causa principal y piezas separadas
+  descripcion: El juez instructor archivó las diligencias, según la información de ese día y EFE al día siguiente.
+    La prensa señaló que cabía recurso; no se acredita aquí su firmeza ni la modalidad exacta de sobreseimiento.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://elpais.com/elpais/2002/06/17/actualidad/1024301823_850215.html
+  - https://elpais.com/diario/2002/06/18/espana/1024351223_850215.html
+  - https://cincodias.elpais.com/cincodias/2002/06/18/economia/1024379789_850215.html
 ---
+
+## Denuncias y valoración judicial
+
+Las referencias a un porcentaje del 8 %, a pagos fijos y a aportaciones a campañas electorales eran alegaciones de la investigación. Se retiran del resumen como hechos acreditados. La información sobre el archivo recoge que el juez no concedió valor suficiente a los testimonios para sostener los delitos de prevaricación, cohecho y usurpación de funciones. Una irregularidad administrativa no se presenta automáticamente como delito.
+
+La denuncia sobre una supuesta aportación a la campaña de José María Aznar se mantiene únicamente como contexto de las alegaciones históricas; no se le atribuye condición formal de acusado ni recepción probada de dinero. Juan Vicente Herrera aparece en la fuente como portavoz de la posición del PP, no como investigado por presentar el informe.
+
+## Límites y documentos pendientes
+
+Se elimina el coste de doce millones de euros: no se ha localizado una cuantificación judicial de daño que respalde esa cifra. No se sustituyen por daño los importes de obras ni las cantidades alegadas por denunciantes.
+
+Las informaciones contemporáneas sitúan el archivo el 17 de junio de 2002, no el 31 de diciembre. La noticia de El País del día siguiente decía que cabía apelación y que el PSOE no pensaba recurrir; ese anuncio no acredita que ninguna otra parte recurriera ni una posterior declaración de firmeza. Tampoco se equipara el archivo a una sentencia absolutoria. El original descrito por la prensa como auto de 264 páginas no se ha obtenido; `documentos` permanece vacío.
+
+Se han leído los cuerpos informativos completos de las fuentes citadas. En Servimedia, la cabecera de navegación muestra la fecha actual, pero los despachos históricos están fechados al pie en 22 de marzo de 1997 y 12 de mayo de 1999. Quedan pendientes los originales y sus identificadores, recursos, firmeza y seguimiento posterior al archivo hasta el corte del 17 de octubre de 2026. La búsqueda no demuestra ausencia de novedades.
+
+No se trasladan a este procedimiento los resultados de Zamora Limpia, otras causas municipales recientes ni casos homónimos de otros países. Se retiran las fechas rellenadas y la atribución de motivaciones como represalia política en decisiones institucionales sin prueba contrastada.
