@@ -107,12 +107,20 @@ cronologia:
   urls:
   - https://valenciaplaza.com/el-juez-abre-juicio-oral-a-carlos-fabra-y-otros-nueve-acusados-por-ocultacion-de-patrimonio
   type: investigación
+- fecha: '2025-02-11'
+  titulo: La prensa describe recursos y sucesivos autos antes del juicio
+  descripcion: Radio Castellón informa de tres autos de procedimiento abreviado y varios recursos desde 2021,
+    sin señalamiento. Aporta contexto al retraso, pero sin originales no aclara el encaje de las noticias de apertura.
+  urls:
+  - https://cadenaser.com/comunitat-valenciana/2025/02/11/el-caso-en-el-que-se-investiga-una-presunta-ocultacion-de-bienes-de-carlos-fabra-ayudado-por-empresarios-como-fernando-roig-o-enrique-gimeno-lleva-4-anos-a-la-espera-de-juicio-radio-castellon/
+  type: investigación
 - fecha: '2025-03-13'
   titulo: Nueva información sobre apertura de juicio por patrimonio
   descripcion: elDiario.es comunica apertura de juicio oral por el Juzgado 4 de Castellón. Sin ambos autos no se
     determina por qué existe también una noticia de apertura en 2021. Es fase acusatoria, no condena.
   urls:
   - https://www.eldiario.es/comunitat-valenciana/castellon/abren-juicio-oral-expresidente-diputacion-castello-carlos-fabra-presidente-villarreal-cf-fernando-roig_1_12128382.html
+  - https://cadenaser.com/comunitat-valenciana/2025/03/12/el-juez-abre-juicio-contra-carlos-fabra-y-fernando-roig-en-la-causa-abierta-por-la-ocultacion-de-bienes-del-expresidente-de-la-diputacion-de-castellon-radio-castellon/
   type: juicio
 - fecha: '2025-07-02'
   titulo: Firmeza de la absolución de Aerocas comunicada por la prensa
@@ -129,8 +137,8 @@ El recurso de su exesposa cambió el resultado: de dos delitos fiscales pasó a 
 
 La información de 2017 sitúa el ingreso en Aranjuez el 1 de diciembre de 2014 y documenta libertad condicional el 28 de abril de 2017. Se retira la afirmación de libertad definitiva en mayo por cumplir tres cuartas partes: confunde situaciones penitenciarias y no acredita extinción de pena. No se ha cotejado la liquidación final ni el saldo actual de multas, intereses e indemnizaciones.
 
-La causa sobre patrimonio requiere seguimiento propio. Hay noticias de apertura de juicio en 2021 y 2025 cuyo encaje no se ha podido comprobar en los autos. La petición fiscal de doce años comunicada en 2021 no es condena ni se da por actualizada sin el escrito vigente. Las personas identificadas solo con iniciales en 2025 no se completan a partir de la lista anterior; los nombres conservados proceden de las noticias nominales de 2021.
+La causa sobre patrimonio requiere seguimiento propio. Hay noticias de apertura de juicio en 2021 y 2025 cuyo encaje no se ha podido comprobar en los autos. Radio Castellón informó el 11 de febrero de 2025 de sucesivos autos de procedimiento abreviado y recursos; el 12 de marzo volvió a comunicar apertura de juicio y una petición fiscal de doce años para Fabra. Son noticias sobre acusaciones, sin sentencia ni escrito fiscal vigente cotejados. Las personas identificadas solo con iniciales en 2025 no se completan a partir de la lista anterior; los nombres conservados proceden de las noticias nominales de 2021.
 
-Se ha comparado aerocas.md sin modificarla. La absolución de los patrocinios y su firmeza comunicada en 2025 se mencionan solo para evitar trasladar imputaciones de aquella causa a esta. La construcción del aeropuerto no se cuantifica aquí.
+La ficha Aerocas recoge un procedimiento distinto. Su absolución de los patrocinios y su firmeza comunicada en 2025 se mencionan solo para evitar trasladar imputaciones de aquella causa a esta. La construcción del aeropuerto no se cuantifica aquí.
 
 Revisión hasta el 17 de octubre de 2026. El PDF oficial del Supremo se descargó y se verificaron encabezamiento, fecha y 102 páginas; se leyeron los antecedentes relativos a incoación y fallo de instancia, el fallo de casación y la segunda sentencia, sin afirmar lectura completa de sus fundamentos. Quedan pendientes originales de instancia y de la causa patrimonial, su evolución posterior y los documentos de ejecución. Los resultados parciales no justifican declarar cerrado el conjunto.
