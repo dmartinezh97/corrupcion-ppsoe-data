@@ -7,7 +7,7 @@ fechaInicio: "2018-05-22"
 fechaFin: ""
 estado: "pendiente"
 descripcion: |
-  El caso Erial es una causa judicial sobre el cobro de comisiones por la adjudicación de contratos públicos durante los gobiernos de Eduardo Zaplana al frente de la Generalitat Valenciana (1995-2002), principalmente la privatización de las estaciones de ITV (1997) y, en la parte investigada, el Plan Eólico de la Comunitat Valenciana (2003). La instrucción correspondió al Juzgado de Instrucción nº 8 de València y a la Fiscalía Anticorrupción; no a la Audiencia Nacional. Las comisiones habrían sido canalizadas a través de una red de sociedades y testaferros y ocultadas en cuentas y sociedades en el extranjero (Suiza, Luxemburgo, Andorra, Panamá).
+  El caso Erial es una causa judicial sobre el cobro de comisiones por la adjudicación de contratos públicos durante los gobiernos de Eduardo Zaplana al frente de la Generalitat Valenciana (1995-2002), principalmente la privatización de las estaciones de ITV (1997) y, en la parte investigada, el Plan Eólico de la Comunitat Valenciana (2003). La instrucción correspondió al Juzgado de Instrucción nº 8 de València, con intervención de la Fiscalía Anticorrupción; no a la Audiencia Nacional. Las comisiones habrían sido canalizadas a través de una red de sociedades y testaferros y ocultadas en cuentas y sociedades en el extranjero (Suiza, Luxemburgo, Andorra, Panamá).
 
   Eduardo Zaplana fue detenido el 22 de mayo de 2018 en la operación Erial y permaneció en prisión provisional del 24 de mayo de 2018 al 7 de febrero de 2019 (259 días), fecha en que la jueza instructora acordó su libertad provisional con retirada del pasaporte y comparecencia periódica; no consta que la libertad se condicionara a una fianza de un millón de euros. El 15 de octubre de 2024 la Sección Cuarta de la Audiencia Provincial de València le condenó a 10 años y 5 meses de prisión como autor de prevaricación administrativa, cohecho, falsedad documental y blanqueo de capitales, con 17 años y 10 meses de inhabilitación especial para empleo o cargo público, 3 años de inhabilitación para su profesión y multas que en total superan los 25 millones de euros; fue absuelto del delito de grupo criminal. La sentencia, de 364 páginas según la nota del CGPJ y disponible en una versión de CENDOJ de 181 páginas, absolvió también del grupo criminal al resto de acusados y absolvió, entre otros, al expresidente valenciano José Luis Olivas y a la secretaria de Zaplana, Mitsouko Henríquez. Otros seis acusados fueron condenados con penas de entre 1 año y 3 meses y 5 años; la prensa documenta pactos de conformidad de Barceló, García y los hermanos Cotino, sin que deban extenderse a todos los condenados. La sentencia no es firme: fue recurrida en casación ante el Tribunal Supremo por la defensa de Zaplana (recurso de 190 páginas presentado en marzo de 2025) y, según la última información localizada (EFE, 6 de septiembre de 2026), la causa seguía pendiente de resolución ante el Supremo, con Zaplana en libertad provisional. No se ha localizado sentencia del Tribunal Supremo ni un cambio de estado a fecha de esta revisión.
 
@@ -18,7 +18,6 @@ lugar: "València, Comunitat Valenciana, España"
 tribunal:
   - "Juzgado de Instrucción nº 8 de València (instrucción)"
   - "Audiencia Provincial de València - Sección Cuarta (enjuiciamiento)"
-  - "Fiscalía Anticorrupción"
   - "Tribunal Supremo - Sala de lo Penal (recurso de casación pendiente)"
 numeroSentencia: "SAP 560/2024, de 15-10-2024; ECLI:ES:APV:2024:1209"
 implicados:
@@ -168,7 +167,7 @@ cronologia:
 - No se presume que la situación descrita se mantenga en octubre de 2026: es la última información documentada. Cualquier cambio posterior (señalamiento, vista o sentencia del Supremo) queda pendiente de verificación.
 
 ### Tribunal y origen
-- La instrucción correspondió al **Juzgado de Instrucción nº 8 de València** y a la **Fiscalía Anticorrupción**; el enjuiciamiento y la sentencia, a la **Sección Cuarta de la Audiencia Provincial de València**. No consta intervención de la Audiencia Nacional en esta causa.
+- La instrucción correspondió al **Juzgado de Instrucción nº 8 de València**, con intervención de la **Fiscalía Anticorrupción**; el enjuiciamiento y la sentencia, a la **Sección Cuarta de la Audiencia Provincial de València**. No consta intervención de la Audiencia Nacional en esta causa.
 - El origen documental de la investigación está en el hallazgo casual de documentos intervenidos en el registro del despacho del abogado de Marcos Benavent (caso Imelsa); la UCO informó de ello por oficio el 11 de noviembre de 2015. El día exacto en que el juzgado abrió las diligencias de Erial no consta en las fuentes consultadas; por eso el campo `fechaInicio` conserva la fecha de la operación y detenciones (22 de mayo de 2018), que es el primer acto documentado del caso tal y como se conoce públicamente, sin afirmar que sea el inicio procesal exacto.
 
 ### Personas y roles
