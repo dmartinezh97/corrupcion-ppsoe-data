@@ -1,109 +1,100 @@
 ---
-nombre: "Caso Arroyo Encomienda"
+nombre: Caso Arroyo Encomienda
 partido: PP
-completado: true
+completado: false
 año: 2006
-fechaInicio: "2006-05-01"
-fechaFin: "2014-10-01"
-estado: "cerrado con condenas"
-descripcion: |
-  El caso Arroyo Encomienda es el mayor escándalo de corrupción urbanística de Castilla y León. El alcalde de Arroyo de la Encomienda (Valladolid), José Manuel Méndez Freijo, del PP, fue condenado por recibir 30 millones de pesetas (180.000 euros) y un chalé de regalo del dueño de la constructora gallega Mahía, Ramón López Casal, a cambio de favores urbanísticos que permitieron importantes recalificaciones de suelo en el municipio.
-
-  Entre 1999 y 2006, Méndez Freijo aprobó como alcalde recalificaciones urbanísticas masivas que beneficiaron directamente a la constructora Mahía. Los 30 millones de pesetas sirvieron para salvar un descubierto en su empresa Recreativos Dema, cantidad que nunca devolvió. Además, recibió una vivienda en Vilagarcía de Arousa (Pontevedra). La trama implicó también al arquitecto municipal y afectó a cerca del 90% de los terrenos del municipio que fueron recalificados durante ese periodo. El caso fue denunciado por la asociación de vecinos Siglo XXI de Arroyo y la Fiscalía en mayo de 2006.
-
-  El Tribunal Supremo ratificó en octubre de 2014 la condena de la Audiencia Provincial de Valladolid, confirmando tres años de prisión y 16 años de inhabilitación para Méndez Freijo por delitos de cohecho y prevaricación. También fueron condenados el presidente de la constructora Mahía y el arquitecto municipal. El exalcalde se benefició de la amnistía fiscal del PP en 2012 para regularizar 211.485 euros de origen indeterminado. El caso forzó su dimisión y acabó cumpliendo parte de su condena en la cárcel de Teixeiro (A Coruña).
-
-resumen: "Alcalde del PP condenado por recibir sobornos de constructora a cambio de recalificaciones urbanísticas."
-lugar: "Arroyo de la Encomienda, Valladolid"
+estado: condenas firmes; ejecución pendiente de documentar
+descripcion: Causa por cohecho y prevaricación en operaciones urbanísticas de Arroyo de la Encomienda vinculadas
+  al grupo Mahía. La Audiencia de Valladolid condenó a José Manuel Méndez Freijo, Ramón López Casal y Buenaventura
+  Conde Salazar el 22 de noviembre de 2013. El Supremo desestimó los recursos el 28 de octubre de 2014; la nota
+  oficial de 26 de noviembre calificó la sentencia de firme. La condena por cohecho del exalcalde corresponde a
+  la vivienda recibida, mientras que el cargo por la entrega de 30 millones de pesetas terminó en absolución por
+  prescripción. No se presenta la investigación posterior por posible blanqueo como una nueva condena ni se da por
+  extinguida la ejecución de las penas.
+resumen: Condenas por cohecho y prevaricación confirmadas por el Supremo en 2014, con absoluciones diferenciadas.
+lugar: Arroyo de la Encomienda, Valladolid
 tribunal:
-  - "Audiencia Provincial de Valladolid"
-  - "Tribunal Supremo"
-numeroSentencia: ""
+- Audiencia Provincial de Valladolid
+- Tribunal Supremo
+numeroSentencia: SAP Valladolid 411/2013; STS 773/2014, recurso 133/2014
 implicados:
-  - nombre: "José Manuel Méndez Freijo"
-    cargo: "Alcalde de Arroyo de la Encomienda (PP)"
-    rol: "Condenado por cohecho y prevaricación. 3 años de cárcel y 16 de inhabilitación"
-
-  - nombre: "Ramón López Casal"
-    cargo: "Presidente del Grupo Mahía"
-    rol: "Condenado como inductor de prevaricación y autor de cohecho. 3 años de prisión"
-
-  - nombre: "Buenaventura Conde Salazar"
-    cargo: "Arquitecto municipal de Arroyo de la Encomienda"
-    rol: "Condenado como cooperador necesario en prevaricación. 7 años de inhabilitación"
-
-  - nombre: "Jesús García Galván"
-    cargo: "Ex delegado de la Junta en Valladolid, ex diputado provincial y ex concejal del PP"
-    rol: "Absuelto por prescripción del delito de cohecho"
-
+- nombre: José Manuel Méndez Freijo
+  cargo: Alcalde de Arroyo desde 2003, inicialmente por el PP y después por Independientes por Arroyo
+  rol: Tres años de prisión por cohecho; dos penas de ocho años de inhabilitación, una por prevaricación y otra
+    por cohecho; multa de 132.000 euros. Absuelto de malversación, otra prevaricación y cohecho por los 30 millones
+    de pesetas, este último por prescripción.
+- nombre: Ramón López Casal
+  cargo: Presidente del Grupo Mahía
+  rol: Tres años de prisión y multa de 132.000 euros por cohecho; siete años de inhabilitación como inductor de
+    prevaricación. Otras imputaciones terminaron en absolución.
+- nombre: Buenaventura Conde Salazar
+  cargo: Arquitecto municipal de Arroyo de la Encomienda
+  rol: Siete años de inhabilitación como cooperador necesario de prevaricación; absuelto de otra prevaricación.
+- nombre: Jesús García Galván
+  cargo: Ex delegado de la Junta en Valladolid, ex diputado provincial y ex concejal del PP
+  rol: Absuelto de prevaricación y de cohecho por la vivienda de Mugardos, este último por prescripción.
+- nombre: María Iluminada Miguel Fernández
+  cargo: Acusada en el procedimiento
+  rol: Absuelta de prevaricación y cohecho en el fallo de instancia confirmado en casación.
+- nombre: José Presas Zobra
+  cargo: Acusado en el procedimiento
+  rol: Absuelto de cohecho por prescripción.
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "prevaricación"
-  - "corrupción urbanística"
-
-impactoSocial: "El caso Arroyo fue considerado el mayor escándalo de corrupción urbanística en Castilla y León, provocando la dimisión del alcalde tras la ratificación de su condena por el Tribunal Supremo. Generó un intenso debate sobre la especulación urbanística en municipios en expansión y el control de las recalificaciones de suelo."
-
-documentos: []
-
+- corrupción
+- cohecho
+- prevaricación
+- corrupción urbanística
+documentos:
+- fecha: '2013-11-22'
+  titulo: Sentencia 411/2013 de la Audiencia Provincial de Valladolid, Sección Segunda
+  filetype: PDF
+  paginas: 84
+  nombre_fichero: https://i.promecal.es/documentos/FD2AC044-980D-C7ED-B5CD50C2DC7ABFD4.PDF
+- fecha: '2014-10-28'
+  titulo: Sentencia 773/2014 del Tribunal Supremo, Sala de lo Penal
+  filetype: PDF
+  paginas: 93
+  nombre_fichero: https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/TS%20Penal%2028-10-2014.pdf
 cronologia:
-  - fecha: "1999-01-01"
-    titulo: "Inicio de la relación corrupta entre Méndez y Mahía"
-    descripcion: "José Manuel Méndez Freijo, entonces alcalde de Arroyo de la Encomienda, inicia su relación con la constructora gallega Mahía. Recibe un 'préstamo' de 30 millones de pesetas (que nunca devolverá) para salvar un descubierto en su empresa Recreativos Dema, y una casa en Vilagarcía de Arousa (Pontevedra). A cambio, el Ayuntamiento comienza a realizar importantes recalificaciones de suelo que benefician directamente a la constructora."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/economia/exalcalde-condenado-corrupcion-regularizo-pp_1_1893526.html"
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Supremo-confirma-los-tres-anos-de-prision-para-el-alcalde-de-Arroyo-de-la-Encomienda--Valladolid--por-prevaricacion"
-
-  - fecha: "2005-03-15"
-    titulo: "Aprobación del Estudio de Detalle del SAU-13"
-    descripcion: "El pleno municipal aprueba el Estudio de Detalle presentado por Mahía respecto del sector SAU-13. Según los magistrados, esta resolución supone 'una patente, relevante y clamorosa vulneración de la legalidad urbanística'. Se considera el acto más grave de prevaricación del caso, realizado como contraprestación por las dádivas recibidas del constructor."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Arroyo+Encomienda&numero=554"
-
-  - fecha: "2006-05-01"
-    titulo: "Inicio de la investigación judicial"
-    descripcion: "La asociación de vecinos Siglo XXI de Arroyo y la Fiscalía presentan denuncia que da lugar a la apertura de un procedimiento judicial. El caso comienza a instruirse tras años de recalificaciones urbanísticas irregulares que afectaron a cerca del 90% de los terrenos del municipio entre 1999 y 2006."
-    type: "denuncia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Supremo-confirma-los-tres-anos-de-prision-para-el-alcalde-de-Arroyo-de-la-Encomienda--Valladolid--por-prevaricacion"
-      - "https://www.eldiario.es/meseta/Arroyo-Valladolid-beneficios-constructoras-politicos_6_117648264.html"
-
-  - fecha: "2012-01-01"
-    titulo: "Méndez se beneficia de la amnistía fiscal del PP"
-    descripcion: "José Manuel Méndez Freijo aprovecha la amnistía fiscal puesta en marcha por el Gobierno del PP para regularizar 211.485 euros cuyo origen será investigado posteriormente por la Audiencia Provincial de Valladolid por posible blanqueo de capitales. La regularización se produce tras cerrarse la instrucción del caso."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/economia/exalcalde-condenado-corrupcion-regularizo-pp_1_1893526.html"
-
-  - fecha: "2013-06-01"
-    titulo: "Celebración del juicio en la Audiencia de Valladolid"
-    descripcion: "El caso Arroyo es juzgado tras siete años de instrucción que acumularon unos 20 tomos, archivos con planos y acuerdos del Pleno de Arroyo de la Encomienda sobre recalificaciones urbanísticas. Se trata del caso de corrupción urbanística más importante juzgado hasta la fecha en la provincia de Valladolid."
-    type: "declaración"
-    urls:
-      - "http://anterior.ultimocero.com/articulo/caso-arroyo-la-audiencia-condena-al-alcalde-por-cohecho-y-prevaricación-y-absuelve-garcía"
-
-  - fecha: "2013-11-01"
-    titulo: "Sentencia de la Audiencia Provincial de Valladolid"
-    descripcion: "La Audiencia Provincial de Valladolid condena a José Manuel Méndez Freijo a tres años de cárcel por cohecho y ocho años de inhabilitación por prevaricación. También condena a Ramón López Casal, presidente de Mahía, a tres años de prisión y siete de inhabilitación, y al arquitecto municipal Buenaventura Conde Salazar a siete años de inhabilitación. Jesús García Galván es absuelto por prescripción del delito."
-    type: "sentencia"
-    urls:
-      - "http://anterior.ultimocero.com/articulo/caso-arroyo-la-audiencia-condena-al-alcalde-por-cohecho-y-prevaricación-y-absuelve-garcía"
-      - "https://www.elcorreogallego.es/hemeroteca/audiencia-valladolid-condena-alcalde-arroyo-presidente-grupo-mahia-NPCG838577"
-
-  - fecha: "2014-10-01"
-    titulo: "El Tribunal Supremo ratifica la condena"
-    descripcion: "El Tribunal Supremo confirma íntegramente la sentencia de la Audiencia Provincial de Valladolid, ratificando la condena de tres años de prisión y 16 años de inhabilitación total para José Manuel Méndez Freijo por delitos de prevaricación y cohecho. La sentencia es firme y solo cabe recurso de amparo ante el Tribunal Constitucional. La ratificación fuerza la dimisión del alcalde."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Supremo-confirma-los-tres-anos-de-prision-para-el-alcalde-de-Arroyo-de-la-Encomienda--Valladolid--por-prevaricacion"
-      - "https://partidocastellano.org/2017/07/11/caso-arroyo-el-supremo-ratifica-la-condena-al-alcalde-y-fuerza-su-dimision-noviembre-2014/"
-
-  - fecha: "2016-02-01"
-    titulo: "Méndez abandona la cárcel en tercer grado"
-    descripcion: "José Manuel Méndez Freijo sale de la cárcel de Teixeiro (A Coruña) para cumplir el resto de su condena en tercer grado en un centro de inserción social en Valladolid."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/economia/exalcalde-condenado-corrupcion-regularizo-pp_1_1893526.html"
+- fecha: '2013-11-22'
+  titulo: Sentencia de la Audiencia de Valladolid
+  descripcion: La sentencia 411/2013 del rollo 33/2012, procedente de las diligencias 2484/06 del Juzgado de Instrucción 1,
+    dicta condenas y absoluciones individuales. Decreta el decomiso de la vivienda recibida por Méndez; la absolución
+    del cargo por los 30 millones se debe a prescripción.
+  urls:
+  - https://i.promecal.es/documentos/FD2AC044-980D-C7ED-B5CD50C2DC7ABFD4.PDF
+  type: sentencia
+- fecha: '2014-10-28'
+  titulo: El Supremo desestima los recursos
+  descripcion: La STS 773/2014 desestima tanto los recursos de los condenados como el de la Fiscalía, al que se adhirió
+    Arroyo Siglo XXI. Esta es la fecha judicial verificada en el PDF.
+  urls:
+  - https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/TS%20Penal%2028-10-2014.pdf
+  type: sentencia
+- fecha: '2014-11-26'
+  titulo: Publicación de la confirmación y firmeza
+  descripcion: La nota del CGPJ comunica la confirmación íntegra y afirma expresamente la firmeza, con ejecución
+    a cargo de la Audiencia. No se confunde esta publicación con el día de la sentencia ni con la extinción de penas.
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Supremo-confirma-los-tres-anos-de-prision-para-el-alcalde-de-Arroyo-de-la-Encomienda--Valladolid--por-prevaricacion
+  - https://www.europapress.es/castilla-y-leon/noticia-supremo-confirma-condena-alcalde-arroyo-jose-manuel-mendez-prevaricacion-cohecho-20141126140442.html
+  type: documento
+- fecha: '2018-10-12'
+  titulo: Noticia de una investigación distinta por posible blanqueo
+  descripcion: elDiario.es informa de la reapertura, tras recurso fiscal, de una causa sobre 211.485 euros regularizados
+    en 2012. Atribuye al auto de 21 de junio de 2018 la orden de investigar su origen. No se ha obtenido ese auto ni un desenlace
+    posterior.
+  urls:
+  - https://www.eldiario.es/economia/exalcalde-condenado-corrupcion-regularizo-pp_1_1893526.html
+  type: investigación
 ---
+
+El fallo de instancia diferencia las dádivas: la vivienda de Vilagarcía de Arousa sustenta la condena por cohecho y su decomiso; la entrega de treinta millones de pesetas fue objeto de absolución por prescripción. También se absolvieron otros cargos, incluida malversación. Se elimina la presentación conjunta de ambas entregas como objeto de condena.
+
+Las dos penas de ocho años de inhabilitación del exalcalde se consignan por separado, sin deducir su forma de cumplimiento. La multa y el valor del inmueble decomisado no son una cuantificación del daño municipal. No se calcula un coste sumando pagos, sanciones y bienes.
+
+Se retiran el superlativo sobre la importancia del escándalo, el porcentaje del 90% de terrenos recalificados y las fechas arbitrarias de inicio, juicio o salida penitenciaria. La crónica de 2018 sitúa el comienzo de su alcaldía en 2003 y la creación de Independientes por Arroyo en 2007: no fue alcalde del PP durante todo el periodo 1999-2006 como decía la ficha.
+
+La regularización fiscal y las pesquisas de blanqueo comunicadas en 2018 son un procedimiento distinto. Tampoco se trasladan a esta ficha los resultados de la causa Perla Negra por un edificio situado en el mismo municipio. La información de 2018 sitúa el tercer grado en febrero de 2016, pero no se dispone de documentación penitenciaria que permita fijar la liquidación final.
+
+Revisión hasta el 17 de octubre de 2026. Se han descargado los PDFs de instancia y casación, comprobado fechas, encabezamientos y páginas, y leído sus fallos; no se afirma una lectura íntegra de 84 y 93 páginas. La copia de instancia procede de un medio y contiene nombres completos; la del Supremo está alojada en el CGPJ y usa pseudónimos, de los que no se deducen identidades. Quedan pendientes el desenlace de las pesquisas de blanqueo, los documentos de ejecución y la revalidación íntegra de los antecedentes urbanísticos.
