@@ -1,143 +1,118 @@
 ---
-nombre: "Caso Uniformes"
+nombre: Caso Uniformes
 partido: PP
-completado: true
+completado: false
 año: 2014
-fechaInicio: 2004-01-01
-fechaFin: 2020-07-31
-estado: "cerrado con absoluciones"
-descripcion: |
-  El Caso Uniformes de Rota es una trama de corrupción municipal que afectó al ayuntamiento de Rota (Cádiz) entre 2003 y 2012, implicando a políticos del PP, Roteños Unidos y empresarios locales en la adjudicación irregular de contratos de suministro de uniformes y equipamiento para trabajadores municipales. La investigación judicial descubrió que se creó un entramado empresarial compuesto por la cooperativa Coanda Sociedad Cooperativa Andaluza (fundada en 1984), Epis Rotasur S.L. (creada en 1998) y Coanda Costuras S.L.U. (constituida en 2008), diseñado específicamente para eludir las prohibiciones legales de contratación que entraron en vigor en 2008 y conseguir la adjudicación sistemática de contratos menores municipales.
+estado: cerrado con condenas
+descripcion: 'El caso Uniformes de Rota se refiere a la adjudicación de suministros municipales a empresas vinculadas
+  a responsables políticos. La Sección Cuarta de la Audiencia Provincial de Cádiz condenó a ocho de veinte acusados
+  en sentencia de 30 de noviembre de 2016, según Europa Press. El Supremo desestimó los recursos contra ella, como
+  difundieron Europa Press el 6 de febrero de 2018 y Diario de Cádiz al día siguiente.
 
-  La trama operó mediante la fragmentación artificial de contratos que superaban los umbrales legales para evitar los procesos de licitación pública, otorgando 958 contratos menores por un valor total de 816.267,94 euros a empresas controladas por las mismas familias. El caso se complicó cuando se descubrió que algunos de los acusados, como Ismael Puyana (concejal de Fiestas del PP) y Lorenzo Sánchez (exalcalde de Roteños Unidos), utilizaron a sus esposas como testaferros para crear la empresa Pacheco Puyana el 31 de mayo de 2006, con Sonia Rodríguez (esposa de Puyana) y Rosario Pacheco (esposa de Sánchez) como socias al 50%, ocultando así la participación directa de los políticos en las adjudicaciones que ellos mismos autorizaban desde el consistorio.
 
-  El Juzgado de Instrucción número 2 de Rota finalizó la instrucción en febrero de 2015, enviando a juicio a 21 imputados, incluida la entonces alcaldesa Eva Corrales (PP). El juicio se celebró en la Audiencia Provincial de Cádiz entre el 17 y el 31 de mayo de 2016, con la Fiscalía solicitando penas de hasta 15 años de inhabilitación. Finalmente, el 31 de julio de 2020, la Audiencia Provincial de Cádiz dictó sentencia absolutoria para todos los acusados, considerando que aunque existieron irregularidades administrativas, no se cumplían los requisitos del delito de prevaricación ni de negociaciones prohibidas. Esta sentencia absolutoria contrasta con el caso paralelo de "Horas Extras" en el mismo municipio, donde Eva Corrales y otros implicados sí fueron condenados a penas de prisión.
+  Entre los condenados figuran los exalcaldes Lorenzo Sánchez, de Roteños Unidos, y Eva Corrales, del PP, con responsabilidades
+  distintas. Otros acusados, incluidos Antonio Peña y Juan Antonio Liaño, fueron absueltos. Corrales y Jesús María
+  Corrales fueron condenados por prevaricación pero absueltos de negociaciones prohibidas. La falsedad imputada
+  a cuatro acusados se declaró prescrita, según la información del fallo de instancia.
 
-resumen: "Trama de adjudicación irregular de 958 contratos de uniformes municipales en Rota por 816.267 euros"
-coste: 816267
-lugar: "Rota, Cádiz, Andalucía"
+
+  Se corrige la atribución de una absolución general en julio de 2020: el enlace utilizado correspondía a convenios
+  urbanísticos, otro procedimiento. Tampoco debe confundirse este caso con Uniformes de Santa Pola ni con Horas
+  Extra de Rota. Faltan los originales de las sentencias y de ejecución, así como verificar eventuales novedades
+  hasta el 17 de octubre de 2026.'
+resumen: Ocho condenados y doce absueltos en Uniformes de Rota; el Supremo confirmó las condenas según la información
+  publicada en febrero de 2018. La absolución de 2020 citada antes pertenecía a otra causa.
+lugar: Rota, Cádiz, Andalucía
 tribunal:
-  - "Juzgado de Instrucción nº 2 de Rota"
-  - "Audiencia Provincial de Cádiz - Sección Cuarta"
-numeroSentencia: ""
+- Juzgado de Primera Instancia e Instrucción número 2 de Rota
+- Audiencia Provincial de Cádiz, Sección Cuarta
+- Tribunal Supremo, Sala de lo Penal
 implicados:
-  - nombre: "Eva Corrales Caballero"
-    cargo: "Alcaldesa de Rota (PP, 2011-2015)"
-    rol: "Acusada de prevaricación continuada; absueltas en 2020 tras juicio"
-
-  - nombre: "Lorenzo Sánchez Alonso"
-    cargo: "Exalcalde de Rota (Roteños Unidos, 1995-2011)"
-    rol: "Acusado de prevaricación y negociaciones prohibidas; absuelto en 2020"
-
-  - nombre: "Ismael Puyana Román"
-    cargo: "Exconcejal de Fiestas de Rota (PP)"
-    rol: "Acusado de prevaricación continuada; utilizó a su esposa como testaferro; absuelto"
-
-  - nombre: "Antonio Peña"
-    cargo: "Alcalde de Chipiona (PP)"
-    rol: "Implicado en la trama de contratos irregulares; absuelto en 2020"
-
-  - nombre: "Jesús María Corrales"
-    cargo: "Exconcejal de Rota (Roteños Unidos)"
-    rol: "Acusado de prevaricación continuada; absuelto en 2020"
-
-  - nombre: "Sonia Rodríguez"
-    cargo: "Empresaria, esposa de Ismael Puyana"
-    rol: "Socia al 50% de Pacheco Puyana; acusada de cooperadora necesaria; absuelta"
-
-  - nombre: "Rosario Pacheco"
-    cargo: "Empresaria, esposa de Lorenzo Sánchez"
-    rol: "Socia al 50% de Pacheco Puyana; acusada de cooperadora necesaria; absuelta"
-
-  - nombre: "Isidro Martín-Bejarano"
-    cargo: "Empresario"
-    rol: "Acusado como testaferro del entramado empresarial; absuelto en 2020"
-
-  - nombre: "Juan Antonio Liaño"
-    cargo: "Concejal (PP)"
-    rol: "Implicado en la adjudicación de contratos irregulares; absuelto"
-
+- nombre: Eva Corrales
+  cargo: Exalcaldesa de Rota (PP)
+  rol: Condenada a siete años de inhabilitación por prevaricación; absuelta de negociaciones prohibidas. No se le
+    atribuye aquí prisión por otras causas.
+- nombre: Lorenzo Sánchez
+  cargo: Exalcalde de Rota (Roteños Unidos)
+  rol: Condenado a un año y seis meses de prisión y penas de inhabilitación por prevaricación y negociaciones prohibidas.
+    Ejecución pendiente de verificar.
+- nombre: Montemayor Laynez
+  cargo: Exconcejal de Roteños Unidos
+  rol: Condenada por prevaricación y negociaciones prohibidas; las fuentes periodísticas recogen las mismas penas
+    que para Lorenzo Sánchez.
+- nombre: Jesús María Corrales
+  cargo: Exconcejal de Roteños Unidos
+  rol: Condenado a ocho años y seis meses de inhabilitación por prevaricación continuada; absuelto de negociaciones
+    prohibidas.
+- nombre: Ismael Puyana
+  cargo: Exconcejal de Fiestas de Rota (PP)
+  rol: Condenado a seis años de inhabilitación como cooperador necesario de prevaricación continuada.
+- nombre: Sonia Rodríguez
+  cargo: Empresaria
+  rol: Condenada a seis años de inhabilitación como cooperadora necesaria de prevaricación continuada, según Diario
+    de Cádiz.
+- nombre: Rosario Pacheco
+  cargo: Empresaria
+  rol: Condenada a prisión e inhabilitación por su participación en prevaricación y negociaciones prohibidas, según
+    la prensa judicial. El fallo individual original está pendiente.
+- nombre: Isidro Martín Bejarano
+  cargo: Empresario
+  rol: Condenado por su participación en prevaricación y negociaciones prohibidas. La atribución de un papel de
+    testaferro se recoge en las fuentes judiciales periodísticas; original pendiente.
+- nombre: Antonio Peña
+  cargo: Exconcejal de Rota y posteriormente alcalde de Chipiona (PP)
+  rol: Absuelto de prevaricación en esta causa, según la información de la sentencia de 2016.
+- nombre: Juan Antonio Liaño
+  cargo: Concejal del PP en el período investigado
+  rol: Absuelto de prevaricación en esta causa, según la información de la sentencia de 2016.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "negociaciones prohibidas"
-  - "fraude"
-  - "contratos públicos"
-  - "malversación"
-
-impactoSocial: "El Caso Uniformes de Rota generó un notable escándalo local al afectar simultáneamente a representantes del PP y Roteños Unidos, los dos principales partidos municipales. A pesar de la absolución final, el caso contribuyó al desgaste político de Eva Corrales, quien posteriormente fue condenada a prisión en el caso paralelo de Horas Extras del mismo ayuntamiento."
-
+- contratación pública
+- prevaricación
+- negociaciones prohibidas
 documentos: []
-
 cronologia:
-  - fecha: 2004-01-01
-    titulo: "Inicio de la adjudicación irregular de contratos de uniformes"
-    descripcion: "Comienza el periodo investigado en el que el Ayuntamiento de Rota y sus fundaciones municipales adjudican de forma sistemática contratos menores para la adquisición de uniformes y equipos de protección individual (EPIs) para trabajadores municipales. Los contratos se otorgan principalmente a empresas del entramado Coanda (cooperativa fundada en 1984) y Epis Rotasur S.L. (creada en 1998), eludiendo los procedimientos de licitación pública mediante la fragmentación artificial de contratos."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Uniformes&numero=189"
-
-  - fecha: 2006-05-31
-    titulo: "Creación de la empresa Pacheco Puyana como pantalla"
-    descripcion: "Se constituye la empresa Pacheco Puyana con Sonia Rodríguez (esposa del concejal del PP Ismael Puyana) y Rosario Pacheco (esposa del exalcalde Lorenzo Sánchez) como socias al 50% cada una. Esta empresa fue creada específicamente para evitar que los nombres de sus maridos, ambos con responsabilidades políticas en el ayuntamiento, aparecieran vinculados directamente a las adjudicaciones de contratos municipales que ellos mismos autorizaban o supervisaban desde sus cargos públicos."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Uniformes&numero=189"
-
-  - fecha: 2008-04-30
-    titulo: "Entrada en vigor de prohibiciones de contratación"
-    descripcion: "Entra en vigor una modificación legislativa que establece nuevas prohibiciones para contratar con la administración pública, diseñada para evitar conflictos de interés y nepotismo en la adjudicación de contratos. A pesar de estas restricciones legales, el entramado empresarial vinculado a políticos de Rota continúa recibiendo contratos mediante la creación de nuevas sociedades instrumentales."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Uniformes&numero=189"
-
-  - fecha: 2008-05-26
-    titulo: "Constitución de Coanda Costuras S.L. para eludir prohibiciones"
-    descripcion: "Se crea Coanda Costuras S.L.U. como parte del entramado empresarial controlado por las mismas familias que gestionaban la cooperativa Coanda CSCA y Epis Rotasur. Esta nueva sociedad se constituye específicamente para sortear las prohibiciones legales de contratación que habían entrado en vigor semanas antes, permitiendo continuar con la adjudicación sistemática de contratos menores del Ayuntamiento de Rota sin procedimientos competitivos."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Uniformes&numero=189"
-
-  - fecha: 2012-12-31
-    titulo: "Fin del periodo investigado de adjudicaciones irregulares"
-    descripcion: "Concluye el periodo de diez años (2003-2012) durante el cual se adjudicaron irregularmente 958 contratos menores por un valor total de 816.267,94 euros. El último contrato investigado data de marzo de 2014, cuando Eva Corrales del PP ejercía como alcaldesa de Rota. Durante esta década, el ayuntamiento otorgó sistemáticamente contratos de uniformes a empresas vinculadas a políticos locales sin seguir procedimientos de concurrencia competitiva."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Uniformes&numero=189"
-      - "https://ecodiario.eleconomista.es/espana/noticias/6461369/02/15/Finaliza-la-instruccion-del-caso-Uniformes-con-la-alcaldesa-de-Rota-PP-entre-los-21-imputados.html"
-
-  - fecha: 2014-03-01
-    titulo: "Adjudicación del último contrato irregular bajo mandato de Eva Corrales"
-    descripcion: "Se otorga el último contrato investigado en el marco del Caso Uniformes, durante el mandato de Eva Corrales como alcaldesa del PP en Rota. Este contrato, junto con irregularidades detectadas en su etapa anterior como delegada municipal de Turismo, Comercio y Fiestas, fundamenta su posterior imputación en el caso. Las irregularidades incluyen la atribución de responsabilidad por no haber supervisado adecuadamente los procedimientos de contratación."
-    type: "investigación"
-    urls:
-      - "https://ecodiario.eleconomista.es/espana/noticias/6461369/02/15/Finaliza-la-instruccion-del-caso-Uniformes-con-la-alcaldesa-de-Rota-PP-entre-los-21-imputados.html"
-
-  - fecha: 2015-02-09
-    titulo: "Finaliza la instrucción con 21 imputados"
-    descripcion: "El Juzgado de Instrucción número 2 de Rota concluye la fase de instrucción del Caso Uniformes y traslada las actuaciones a la Fiscalía y las acusaciones particulares para que formulen sus escritos de acusación solicitando la apertura de juicio oral o el sobreseimiento. Entre los 21 imputados figuran la alcaldesa Eva Corrales (PP), el exalcalde Lorenzo Sánchez (Roteños Unidos), el alcalde de Chipiona Antonio Peña (PP), el concejal Juan Antonio Liaño (PP), y diversos empresarios vinculados al entramado de Coanda. La investigación documenta contratos superiores a 620.000 euros adjudicados incumpliendo prohibiciones legales."
-    type: "investigación"
-    urls:
-      - "https://ecodiario.eleconomista.es/espana/noticias/6461369/02/15/Finaliza-la-instruccion-del-caso-Uniformes-con-la-alcaldesa-de-Rota-PP-entre-los-21-imputados.html"
-
-  - fecha: 2016-05-17
-    titulo: "Comienza el juicio en la Audiencia Provincial de Cádiz"
-    descripcion: "Arranca en la Sección Cuarta de la Audiencia Provincial de Cádiz el juicio oral del Caso Uniformes contra 20 acusados, incluidas las ex y actual alcaldesas Eva Corrales (PP) y los exalcaldes Lorenzo Sánchez (Roteños Unidos), así como el alcalde de Chipiona Antonio Peña (PP). La Fiscalía solicita para Eva Corrales 15 años de inhabilitación y cinco meses de prisión como autora de un delito de prevaricación continuada y cooperadora necesaria en gestión interesada continuada. El juicio se extiende durante nueve sesiones hasta el 31 de mayo de 2016."
-    type: "juicio"
-    urls:
-      - "https://andaluciainformacion.es/rota/581303/ya-hay-fecha-para-la-celebracion-del-juicio-por-el-caso-uniformes-en-la-audiencia-provincial/"
-
-  - fecha: 2016-05-31
-    titulo: "Finaliza el juicio tras nueve sesiones"
-    descripcion: "Concluyen las vistas orales del juicio del Caso Uniformes en la Audiencia Provincial de Cádiz después de nueve sesiones celebradas entre el 17 y el 31 de mayo de 2016. Durante el proceso judicial se han analizado las 958 adjudicaciones de contratos menores realizadas entre 2003 y 2012 por un valor de 816.267,94 euros, así como el entramado empresarial creado con Coanda CSCA, Epis Rotasur, Coanda Costuras y Pacheco Puyana. El tribunal queda en deliberación para dictar sentencia."
-    type: "juicio"
-    urls:
-      - "https://andaluciainformacion.es/rota/581303/ya-hay-fecha-para-la-celebracion-del-juicio-por-el-caso-uniformes-en-la-audiencia-provincial/"
-
-  - fecha: 2020-07-31
-    titulo: "Sentencia absolutoria para todos los acusados"
-    descripcion: "La Audiencia Provincial de Cádiz dicta sentencia absolutoria para los cinco acusados que finalmente permanecían en el procedimiento, incluyendo a Eva Corrales, Lorenzo Sánchez y los empresarios vinculados. El tribunal considera que, aunque existieron irregularidades administrativas en la gestión de los contratos de uniformes, no se cumplen los requisitos objetivos y subjetivos necesarios para configurar los delitos de prevaricación y negociaciones prohibidas por los que fueron juzgados. La sentencia reconoce deficiencias en los procedimientos de contratación, pero no aprecia ánimo delictivo ni enriquecimiento personal de los acusados."
-    type: "sentencia"
-    urls:
-      - "https://rotaaldia.com/archive/29541/absueltos-lorenzo-sanchez-eva-corrales-y-el-resto-de-imputados-por-el-caso-de-los-convenios-urbanisticos"
+- fecha: '2016-11-30'
+  titulo: Condenas y absoluciones en la Audiencia de Cádiz
+  descripcion: 'La fecha judicial se identifica en la información posterior sobre casación. Europa Press difundió
+    el fallo de instancia el 13 de diciembre: ocho condenados, absolución de los demás y prescripción de la falsedad
+    imputada a cuatro acusados.'
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.europapress.es/andalucia/cadiz-00351/noticia-condenado-13-anos-inhabilitacion-lorenzo-sanchez-caso-uniformes-20161213123359.html
+  - https://www.europapress.es/andalucia/cadiz-00351/noticia-tribunal-supremo-desestima-recursos-presentados-confirma-sentencia-caso-uniformes-rota-20180206111715.html
+- fecha: '2018-02-06'
+  titulo: Difusión de la confirmación del Supremo
+  descripcion: 'Europa Press informó de la desestimación de los recursos de los condenados y del Ministerio Fiscal.
+    Esta fecha es de publicación: falta comprobar el original para fijar la fecha judicial y su identificador.'
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://www.europapress.es/andalucia/cadiz-00351/noticia-tribunal-supremo-desestima-recursos-presentados-confirma-sentencia-caso-uniformes-rota-20180206111715.html
+  - https://www.diariodecadiz.es/noticias-provincia-cadiz/Tribunal-Supremo-confirma-Uniformes-Rota_0_1216378787.html
+- fecha: '2024-12-05'
+  titulo: Información retrospectiva sobre la ejecución
+  descripcion: La Voz del Sur recordó la condena de Lorenzo Sánchez en Uniformes y señaló que no ingresó en prisión
+    por decisión de la Audiencia. La noticia trata principalmente otras causas; no sustituye el auto original de
+    suspensión o ejecución de esta condena.
+  type: declaracion
+  relevancia: alta
+  urls:
+  - https://www.lavozdelsur.es/actualidad/politica/rota-nuevo-en-juzgados_325296_102.html
 ---
+
+## Alcance de las responsabilidades
+
+Las fuentes periodísticas coinciden en la confirmación de ocho condenas y en la absolución de los restantes acusados. No se extienden las conductas de quienes fueron condenados a los absueltos. También se distinguen la prescripción de la falsedad y la absolución por otros delitos. Las penas de inhabilitación publicadas como totales requieren cotejo con el fallo: no se suman aquí como períodos sucesivos ni se calcula su fecha de extinción.
+
+Se retiran las fechas exactas de constitución de sociedades y la afirmación genérica de que las esposas actuaron como testaferros, al no haberse revalidado con originales las actuaciones de cada persona. Las conexiones empresariales investigadas no bastan por sí solas para atribuir responsabilidad penal a todos los titulares o funcionarios.
+
+## Importes y causas distintas
+
+Los 816.267,94 euros y los 958 contratos de la versión anterior quedan pendientes de contraste con las sentencias y expedientes. No se mantienen como daño: un volumen adjudicado no equivale automáticamente al perjuicio indemnizable. Tampoco se incorporan como coste las penas económicas o cantidades de otros procedimientos.
+
+El enlace usado anteriormente para la supuesta absolución de 31 de julio de 2020 menciona expresamente los **convenios urbanísticos**, no Uniformes. Su cuerpo no ha podido recuperarse en esta revisión; no se utiliza para acreditar el resultado de este caso. Las noticias sobre Uniformes de Santa Pola corresponden a otro municipio. La prisión de Corrales por Horas Extra tampoco constituye una pena de Uniformes.
+
+## Límites documentales
+
+Se han leído íntegramente los cuerpos informativos de Europa Press de 2016 y 2018, Diario de Cádiz de 2018 y la información retrospectiva de La Voz del Sur de 2024. No se han localizado originales judiciales verificables para su incorporación a `documentos`. Quedan pendientes su fecha e identificador exactos en casación, los fallos individuales, firmeza documental, recursos extraordinarios y ejecución hasta el corte del 17 de octubre de 2026. La búsqueda no demuestra ausencia de novedades.
