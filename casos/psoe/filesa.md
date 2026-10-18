@@ -3,7 +3,7 @@ nombre: Filesa
 partido: PSOE
 completado: false
 año: 1987
-estado: cerrado con condenas
+estado: Condenas revisadas en amparo e indultos parciales; ejecución y cumplimiento del dictamen de la ONU pendientes de verificar
 descripcion: 'Filesa designa la causa sobre un grupo de sociedades que obtuvo fondos para gastos del PSOE, especialmente
   de las elecciones generales y europeas de 1989, mediante facturas de informes inexistentes o ficticios y pagos
   a proveedores del partido. La sentencia del Tribunal Supremo de 28 de octubre de 1997 describe un entramado iniciado
