@@ -55,18 +55,18 @@ implicados:
   rol: Uno de los cuatro acusados absueltos penalmente. La prensa informó en 2020 de la desestimación de la reclamación
     contable contra el director de obra; falta cotejar nominalmente la situación tras la retroacción de 2025.
 - nombre: Pilar Rodríguez Rodríguez
-  cargo: Exconcejal del PP y miembro de la Junta de Gobierno de Navalcarnero
-  rol: Incluido en la liquidación provisional contable conocida en febrero de 2018, según la prensa. Esa inclusión
+  cargo: Exconcejala del PP y miembro de la Junta de Gobierno de Navalcarnero
+  rol: Incluida en la liquidación provisional contable conocida en febrero de 2018, según la prensa. Esa inclusión
     no es una condena. La noticia de 2020 informa de la desestimación respecto de los cuatro exconcejales; falta
     cotejar el resultado nominal posterior a la retroacción de 2025.
 - nombre: Elena Pérez Gómez
-  cargo: Exconcejal del PP y miembro de la Junta de Gobierno de Navalcarnero
-  rol: Incluido en la liquidación provisional contable conocida en febrero de 2018, según la prensa. Esa inclusión
+  cargo: Exconcejala del PP y miembro de la Junta de Gobierno de Navalcarnero
+  rol: Incluida en la liquidación provisional contable conocida en febrero de 2018, según la prensa. Esa inclusión
     no es una condena. La noticia de 2020 informa de la desestimación respecto de los cuatro exconcejales; falta
     cotejar el resultado nominal posterior a la retroacción de 2025.
 - nombre: María Paz Fraile Garcés
-  cargo: Exconcejal del PP y miembro de la Junta de Gobierno de Navalcarnero
-  rol: Incluido en la liquidación provisional contable conocida en febrero de 2018, según la prensa. Esa inclusión
+  cargo: Exconcejala del PP y miembro de la Junta de Gobierno de Navalcarnero
+  rol: Incluida en la liquidación provisional contable conocida en febrero de 2018, según la prensa. Esa inclusión
     no es una condena. La noticia de 2020 informa de la desestimación respecto de los cuatro exconcejales; falta
     cotejar el resultado nominal posterior a la retroacción de 2025.
 - nombre: Manuel Jordán Rodríguez
