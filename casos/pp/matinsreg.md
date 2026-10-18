@@ -3,7 +3,6 @@ nombre: Matinsreg
 partido: PP
 completado: false
 año: 2017
-fechaInicio: '2012-08-08'
 fechaFin: ''
 estado: condenas firmes según información de ejecutoria; en ejecución
 descripcion: |-
@@ -11,7 +10,7 @@ descripcion: |-
 
   El esquema acreditado consistía en facturar productos, cantidades y horas que no se correspondían con la realidad. Se recogieron 48.236 horas de mano de obra, equivalentes a una plantilla mensual de entre 22 y 29 trabajadores que la empresa no tuvo, sin que ello signifique que no realizara ningún trabajo. El cloro comprado a 0,23 euros por litro se facturó a 69 euros: la relación es de 300 veces, no más de 300. Se retiran expresiones valorativas y comparaciones que no son necesarias para explicar el fraude.
 
-  El daño y la responsabilidad civil no se reducen a los 2.759.045,74 euros heredados. La transcripción de la STS 119/2026 recoge ese perjuicio tras descontar trabajos realmente realizados y añade 582.572,05 euros abonados a la AEAT y 123.755,11 euros a la TGSS por embargos de Matinsreg: el total coincide con la indemnización solidaria de 3.465.372,90 euros. El campo coste recoge una sola vez ese daño indemnizable, sin sumar de nuevo la responsabilidad civil ni los 3.774.956,33 euros de pagos descritos en la resolución. La consignación de un millón de euros antes del juicio fue reparación parcial; no acredita por sí sola cuánto ha recuperado finalmente el Ayuntamiento.
+  El daño y la responsabilidad civil no se reducen a los 2.759.045,74 euros heredados. La STS 119/2026 recoge ese perjuicio tras descontar trabajos realmente realizados y añade 582.572,05 euros abonados a la AEAT y 123.755,11 euros a la TGSS por embargos de Matinsreg: el total coincide con la indemnización solidaria de 3.465.372,90 euros. El campo coste recoge una sola vez ese daño indemnizable, sin sumar de nuevo la responsabilidad civil ni los 3.774.956,33 euros de pagos descritos en la resolución. La consignación de un millón de euros antes del juicio fue reparación parcial; no acredita por sí sola cuánto ha recuperado finalmente el Ayuntamiento. Extra Jaén informó el 30 de septiembre de 2026 de una recuperación previa de alrededor de un millón, atribuida al Ayuntamiento, y de un nuevo ingreso de 1.000 euros por González Valero el 14 de septiembre. La propia crónica advierte que la suma orientativa no es contabilidad municipal exacta. Faltan los justificantes originales; no se afirma cobro íntegro ni se resta esta recuperación al daño histórico.
 
   La Audiencia Provincial de Jaén, Sección Tercera, dictó la sentencia 193/2021 el 28 de junio de 2021, no el 1 de julio. Condenó inicialmente a siete de los nueve acusados y absolvió al exalcalde y a otra acusada. El TSJA, en sentencia 1/2023 de 11 de enero, publicada por la prensa el día 13, absolvió también a Miguel Ángel García Anguita, al técnico municipal y a otro acusado, y modificó las penas de los empresarios. El resultado penal fue cuatro condenados, no siete condenas conservadas íntegramente.
 
@@ -68,7 +67,12 @@ tags:
 impactoSocial: La causa afectó a las cuentas municipales de Jaén. La obligación solidaria de indemnizar no equivale
   a recuperación efectiva del dinero. Las absoluciones del exalcalde, García Anguita y otros acusados deben distinguirse
   de las cuatro condenas subsistentes.
-documentos: []
+documentos:
+- fecha: '2026-02-11'
+  titulo: 'Tribunal Supremo: sentencia 119/2026, ROJ STS 646/2026, ECLI:ES:TS:2026:646; recurso 1687/2023'
+  filetype: pdf
+  paginas: 30
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=2ffc7bbfb0ab04c1a0a8778d75e36f0d&encode=true&databasematch=TS
 cronologia:
 - fecha: '2012-08-08'
   titulo: Encargo de reparaciones a Matinsreg
@@ -143,6 +147,16 @@ cronologia:
   urls:
   - https://www.jaenhoy.es/jaen/condena-firme-matinsreg-prision-responsables-concejal-ayuntamiento-jaen_0_2006350553.html
   - https://www.extrajaen.com/jaen/ordenan-el-ingreso-en-prision-en-10-dias-de-los-condenados-de-matinsreg
+- fecha: '2026-09-30'
+  titulo: Se informa de recuperaciones parciales de la responsabilidad civil
+  descripcion: Extra Jaén atribuye al Ayuntamiento una recuperación previa de alrededor de un millón de euros e
+    informa de un ingreso adicional de 1.000 euros por Luis Gregorio González Valero el 14 de septiembre de 2026.
+    El día 30 es la fecha de publicación. La crónica advierte que la suma orientativa no constituye contabilidad
+    municipal exacta. No se han cotejado justificantes originales ni un saldo contable actualizado; no se afirma
+    recuperación íntegra ni se reduce el daño histórico fijado en sentencia.
+  type: resumen
+  urls:
+  - https://extrajaen.com/jaen/al-ayuntamiento-aun-le-faltan-por-recibir-24-millones-del-caso-matinsreg
 - fecha: '2026-10-12'
   titulo: Se informa del ingreso en prisión de Del Moral
   descripcion: Crónicas de Jaén sitúa el ingreso el 25 de abril de 2026, atribuyendo la información a un escrito
@@ -155,8 +169,10 @@ cronologia:
 
 ## Alcance y límites de la revisión
 
-Revisión a 17 de octubre de 2026. La cronología de resoluciones se ha contrastado con los antecedentes, fallos reproducidos y pasajes económicos de la transcripción de la STS 119/2026 enlazada, sin declarar lectura integral de todos sus fundamentos. No se ha recuperado el PDF judicial original; `documentos: []` conserva ese límite. Los nombres completos y penas se contrastan con noticias nominales de la ejecutoria de marzo de 2026, sin deducir identidades de los seudónimos de la transcripción. No se incorporan nombres completos del técnico y otros absueltos sin revalidación nominal suficiente.
+Revisión a 17 de octubre de 2026. Se ha recuperado el original CENDOJ de la STS 119/2026 mediante GET con HTTP200 y formato PDF verificado (30 páginas). Se han leído íntegramente sus páginas 1–10 y 30: cabecera, antecedentes, hechos y fallos reproducidos de instancia y apelación, pasajes económicos y fallo de casación. No se afirma lectura íntegra de los fundamentos de las páginas 11–29. La fecha del acto es el 11 de febrero de 2026; la fecha de exportación del PDF no se usa como fecha judicial. Los nombres completos y penas se contrastan con noticias nominales de la ejecutoria de marzo de 2026, sin deducir identidades de los seudónimos judiciales. No se incorporan nombres completos del técnico y otros absueltos sin revalidación nominal suficiente.
 
 La querella del grupo municipal socialista se sitúa a finales de 2017 y el auto de apertura de juicio oral en noviembre de 2019 según la prensa histórica leída. Se retiran los días 1 de diciembre y 1 de noviembre que no estaban acreditados. Faltan esos autos y la denuncia original, así como las actas para confirmar todas las sesiones y testigos anunciados. Las sospechas iniciales de cohecho y prevaricación no se presentan como condenas. Las piezas separadas sobre otras empresas necesitan seguimiento propio: el fallo de la causa principal no prueba su cierre.
 
 La declaración de firmeza y el requerimiento de prisión se apoyan en prensa que reproduce una ejecutoria; queda pendiente su original, el cumplimiento individual, las decisiones sobre suspensión y el cobro efectivo de la responsabilidad civil. La noticia de octubre sobre el ingreso de Del Moral se identifica como información pendiente de corroboración documental. No se presume que toda la causa esté materialmente ejecutada ni se fija fecha de fin global.
+
+El encargo del 8 de agosto de 2012 se mantiene como hito de los hechos, sin fijar `fechaInicio` de la investigación. La noticia de Extra Jaén del 30 de septiembre de 2026 sobre recuperaciones parciales se recoge con atribución expresa: no sustituye la contabilidad municipal ni acredita la ejecución completa de la responsabilidad civil.
