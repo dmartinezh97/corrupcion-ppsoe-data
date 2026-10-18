@@ -1,77 +1,90 @@
 ---
-nombre: "Caso Luciano Alonso"
+nombre: Caso Luciano Alonso
 partido: PSOE
-completado: true
-año: 2014
-fechaInicio: 2014-04-15
-fechaFin: ""
-estado: "sobreseimiento"
-descripcion: |
-  Luciano Alonso Alonso fue consejero de Educación, Cultura y Deporte de la Junta de Andalucía entre 2008 y 2013, bajo los gobiernos socialistas de José Antonio Griñán. En abril de 2014, el Juzgado de Instrucción número 4 de Almería le imputó por presuntos delitos de prevaricación administrativa y malversación de caudales públicos relacionados con nombramientos irregulares realizados en la Delegación Provincial de Cultura de Almería durante su etapa al frente de la Consejería.
-
-  Las investigaciones se centraban en el presunto nombramiento irregular de funcionarios y personal de confianza en puestos de la delegación almeriense sin seguir los procedimientos administrativos preceptivos, así como en el uso indebido de recursos públicos para el sostenimiento de esos puestos. La causa también examinó la contratación de asesores y la gestión de determinadas partidas presupuestarias de la Consejería de Educación, Cultura y Deporte. El propio Alonso negó en todo momento haber actuado de forma irregular y compareció voluntariamente ante el juzgado para dar explicaciones.
-
-  Tras la imputación, el PP exigió su dimisión como consejero y la oposición reclamó que la presidenta de la Junta, Susana Díaz, cesara a Alonso de sus funciones mientras durase la investigación judicial. El caso se enmarcó en el contexto más amplio de la crisis de corrupción que afectaba al PSOE andaluz, con el macrocaso de los ERE como telón de fondo. El juzgado de Almería acabó archivando las actuaciones al no apreciar indicios suficientes de delito.
-
-resumen: "Consejero de Cultura de la Junta de Andalucía imputado en 2014 por nombramientos irregulares y uso indebido de recursos públicos en Almería"
-coste: 0
-lugar: "Almería, Andalucía"
+completado: false
+año: 2016
+estado: absolución
+descripcion: Luciano Alonso Alonso, exconsejero de la Junta de Andalucía, fue juzgado por los nombramientos de personal
+  eventual del Centro Andaluz de Documentación del Flamenco y la Filmoteca de Andalucía, que desempeñaba otras funciones
+  de asesoramiento. El TSJA lo absolvió de prevaricación el 10 de febrero de 2017; el Supremo confirmó esa absolución
+  el 27 de octubre, pero ordenó continuar el juicio únicamente por falsedad documental. El TSJA también lo absolvió
+  de falsedad el 11 de diciembre de 2017. La Fiscalía del Supremo desistió de recurrir mediante escrito de 9 de
+  enero de 2018; la información publicada el 28 de enero dejaba pendiente la resolución de la Sala sobre el desistimiento.
+  No se ha verificado esa resolución ni una declaración de firmeza de esta última absolución hasta el corte del
+  17 de octubre de 2026. No se acredita aquí perjuicio económico ni una condena por malversación.
+resumen: Absoluciones por prevaricación y falsedad documental en nombramientos de personal eventual de Cultura.
+lugar: Andalucía
 tribunal:
-  - "Juzgado de Instrucción nº 4 de Almería"
-numeroSentencia: ""
+- Sala de lo Civil y Penal del Tribunal Superior de Justicia de Andalucía
+- Sala de lo Penal del Tribunal Supremo
+numeroSentencia: STS 709/2017, de 27 de octubre; recurso 549/2017
 implicados:
-  - nombre: "Luciano Alonso Alonso"
-    cargo: "Consejero de Educación, Cultura y Deporte de la Junta de Andalucía (2008-2013) - PSOE"
-    rol: "Imputado por prevaricación y malversación en nombramientos irregulares en Almería"
-
-  - nombre: "Antonio Jesús Rueda García"
-    cargo: "Delegado Provincial de Cultura de la Junta de Andalucía en Almería"
-    rol: "Investigado por la gestión irregular de nombramientos en la delegación provincial"
-
-  - nombre: "Susana Díaz Pacheco"
-    cargo: "Presidenta de la Junta de Andalucía (2013-2018) - PSOE"
-    rol: "Presionada por la oposición para cesar a Alonso durante la investigación"
-
+- nombre: Luciano Alonso Alonso
+  cargo: Exconsejero de Cultura y Deporte y de Educación, Cultura y Deporte de la Junta de Andalucía (PSOE)
+  rol: Absuelto de prevaricación; absolución confirmada por el Supremo. Absuelto de falsedad documental por el TSJA;
+    desistimiento del recurso fiscal documentado en prensa, resolución posterior no verificada.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "malversación"
-  - "nombramientos irregulares"
-  - "Junta de Andalucía"
-  - "uso indebido de recursos públicos"
-
-impactoSocial: "El caso añadió presión política sobre el PSOE andaluz, ya sometido al escándalo de los ERE fraudulentos. El PP explotó la imputación para pedir la dimisión del consejero y erosionar la credibilidad del gobierno de Susana Díaz, aunque el juzgado archivó finalmente la causa."
-
-documentos: null
-
+- nombramientos
+- prevaricación
+- falsedad documental
+- absolución
+- Junta de Andalucía
+impactoSocial: El procedimiento examinó la diferencia entre irregularidades administrativas en la asignación de
+  funciones a personal eventual y los requisitos de los delitos de prevaricación y falsedad documental.
+documentos:
+- fecha: '2017-10-27'
+  titulo: 'STS 709/2017: confirmación de la absolución por prevaricación y repetición limitada al delito de falsedad'
+  filetype: pdf
+  paginas: 20
+  nombre_fichero: https://www.elindependiente.com/wp-content/uploads/2017/11/sentencia-exconsejero-Cultura-andaluz.pdf
 cronologia:
-  - fecha: "2013-09-01"
-    titulo: "Luciano Alonso deja la Consejería de Educación, Cultura y Deporte"
-    descripcion: "Luciano Alonso finaliza su etapa como consejero de Educación, Cultura y Deporte de la Junta de Andalucía tras la remodelación del gobierno socialista andaluz. Había ocupado el cargo desde 2008, bajo los presidentes José Antonio Griñán y, brevemente, Susana Díaz. Durante su mandato se habrían producido los nombramientos irregulares que más tarde serían investigados judicialmente."
-    type: "resumen"
-    urls: []
-
-  - fecha: "2014-04-15"
-    titulo: "El Juzgado de Instrucción nº 4 de Almería imputa a Luciano Alonso"
-    descripcion: "El Juzgado de Instrucción número 4 de Almería imputa a Luciano Alonso por presuntos delitos de prevaricación administrativa y malversación de caudales públicos. La imputación deriva de una denuncia sobre nombramientos irregulares realizados en la Delegación Provincial de Cultura de Almería y el presunto uso indebido de recursos públicos durante su etapa como consejero."
-    type: "imputación"
-    urls: []
-
-  - fecha: "2014-04-16"
-    titulo: "El PP exige la dimisión de Luciano Alonso"
-    descripcion: "El Partido Popular exige públicamente la dimisión de Luciano Alonso tras conocerse su imputación, argumentando que un consejero imputado no puede seguir al frente de su cartera. La presidenta Susana Díaz se niega a cesar a Alonso y defiende su gestión, en lo que el PSOE califica como una maniobra política instrumentalizando la justicia."
-    type: "investigación"
-    urls: []
-
-  - fecha: "2014-04-25"
-    titulo: "Luciano Alonso declara voluntariamente ante el juzgado de Almería"
-    descripcion: "Luciano Alonso comparece voluntariamente ante el Juzgado de Instrucción nº 4 de Almería para declarar como investigado. Niega haber actuado de forma irregular en los nombramientos cuestionados y asegura que todos los actos administrativos realizados durante su etapa como consejero se ajustaron a la legalidad vigente."
-    type: "declaración"
-    urls: []
-
-  - fecha: "2015-06-01"
-    titulo: "El juzgado de Almería archiva la causa contra Luciano Alonso"
-    descripcion: "El Juzgado de Instrucción número 4 de Almería acuerda el sobreseimiento provisional de las actuaciones contra Luciano Alonso al no apreciar indicios suficientes de la comisión de los delitos de prevaricación y malversación que se le imputaban. El archivo de la causa cierra la vía penal contra el exConsejero, aunque la polémica política generada por su imputación persistió durante meses en el debate parlamentario andaluz."
-    type: "sentencia"
-    urls: []
+- fecha: '2017-02-10'
+  titulo: Absolución por prevaricación
+  descripcion: El TSJA absuelve a Alonso en el procedimiento abreviado 2/2016, dimanante de las diligencias previas
+    3/2016. La sentencia del Supremo reproduce sus antecedentes y hechos probados.
+  urls:
+  - https://www.elindependiente.com/wp-content/uploads/2017/11/sentencia-exconsejero-Cultura-andaluz.pdf
+  type: sentencia
+  relevancia: alta
+- fecha: '2017-10-27'
+  titulo: El Supremo confirma la absolución por prevaricación
+  descripcion: 'La STS 709/2017 estima parcialmente el recurso fiscal: mantiene la absolución por prevaricación
+    y anula el juicio solamente para aceptar la calificación de falsedad documental y continuar desde las conclusiones
+    definitivas. No condena a Alonso.'
+  urls:
+  - https://www.elindependiente.com/wp-content/uploads/2017/11/sentencia-exconsejero-Cultura-andaluz.pdf
+  type: sentencia
+  relevancia: alta
+- fecha: '2017-11-29'
+  titulo: Continuación del juicio por falsedad
+  descripcion: Según la información de Europa Press del 11 de diciembre, el juicio se celebró el 29 de noviembre
+    exclusivamente por falsedad documental.
+  urls:
+  - https://www.europapress.es/andalucia/noticia-tsja-absuelve-exconsejero-luciano-alonso-supuesta-falsedad-documental-nombramientos-20171211140227.html
+  type: juicio
+  relevancia: alta
+- fecha: '2017-12-11'
+  titulo: Absolución por falsedad documental
+  descripcion: El TSJA absuelve a Alonso de falsedad continuada en documento público. La noticia informa de que
+    cabía recurso de casación; las penas de cinco años de prisión e inhabilitación eran peticiones fiscales, no
+    condenas.
+  urls:
+  - https://www.europapress.es/andalucia/noticia-tsja-absuelve-exconsejero-luciano-alonso-supuesta-falsedad-documental-nombramientos-20171211140227.html
+  type: sentencia
+  relevancia: alta
+- fecha: '2018-01-09'
+  titulo: Desistimiento de la Fiscalía del Supremo
+  descripcion: Europa Press informa el 28 de enero de un escrito fiscal fechado el 9 de enero que desiste de interponer
+    casación. A la publicación permanecía pendiente la resolución de la Sala; el desistimiento no se presenta como
+    declaración judicial de firmeza.
+  urls:
+  - https://www.europapress.es/andalucia/noticia-fiscalia-supremo-desiste-recurrir-absolucion-exconsejero-luciano-alonso-falsedad-nombramientos-20180128103737.html
+  type: recurso
+  relevancia: alta
 ---
+
+Los nombramientos examinados correspondían a Luis Guerrero Jiménez en el Centro Andaluz de Documentación del Flamenco y a Alejandro J. Cárdenas y María Centeno, sucesivamente, en la Filmoteca. Su mención identifica los puestos cuestionados: no se les atribuye aquí la condición de acusados. Los hechos se referían a puestos existentes y dotados presupuestariamente que se utilizaron para otras tareas de asesoramiento. El relato probado reproducido en la sentencia del Supremo sitúa las decisiones entre 2012 y 2015.
+
+La [STS 709/2017](https://www.elindependiente.com/wp-content/uploads/2017/11/sentencia-exconsejero-Cultura-andaluz.pdf) confirmó la absolución por prevaricación y dispuso una repetición limitada al examen de la falsedad documental, sin modificar los hechos objeto de acusación. No ordenó reabrir la prevaricación ni dictó una condena. La posterior [absolución por falsedad](https://www.europapress.es/andalucia/noticia-tsja-absuelve-exconsejero-luciano-alonso-supuesta-falsedad-documental-nombramientos-20171211140227.html) consideró que las irregularidades administrativas no convertían los nombramientos y ceses en documentos falsos.
+
+El [desistimiento fiscal conocido en enero de 2018](https://www.europapress.es/andalucia/noticia-fiscalia-supremo-desiste-recurrir-absolucion-exconsejero-luciano-alonso-falsedad-nombramientos-20180128103737.html) se distingue de la resolución judicial que debía pronunciarse sobre él, no recuperada. Esa laguna impide precisar la fecha de firmeza de la segunda absolución. Tampoco se dispone del texto original de las dos sentencias del TSJA. No se cuantifica daño patrimonial: la existencia de plazas y retribuciones no permite equiparar su gasto a perjuicio acreditado.
