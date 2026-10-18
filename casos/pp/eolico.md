@@ -4,7 +4,7 @@ partido: "PP"
 completado: false
 año: 2014
 fechaFin: ""
-estado: "pendiente"
+estado: "Juicio concluido en enero de 2026; fallo posterior no documentado"
 descripcion: |
   La Trama Eólica de Castilla y León es una macrocausa por el presunto amaño de la tramitación de parques eólicos en la comunidad autónoma. Según la acusación recogida en los autos de instrucción, desde la Consejería de Economía se habría obligado a promotoras y eléctricas a dar entrada en el accionariado de los proyectos (una participación próxima al 40 %) a empresarios locales elegidos desde la propia Administración como condición para desbloquear las autorizaciones. La instrucción investigó hechos ocurridos, según las fuentes, entre 2000 y 2015 y llegó a abarcar casi un centenar de parques eólicos. El principal acusado es el exviceconsejero de Economía Rafael Delgado, a quien la acusación atribuye haber centralizado en su persona las autorizaciones mediante una instrucción de avocación.
 
