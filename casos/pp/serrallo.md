@@ -1,146 +1,123 @@
 ---
-nombre: "Caso Serrallo"
+nombre: Caso Serrallo
 partido: PP
-completado: true
+completado: false
 año: 2013
-fechaInicio: 2006-01-01
-fechaFin: "2022-11-11"
-estado: "cerrado con condenas"
-descripcion: |
-  El caso Serrallo investiga la corrupción urbanística en el Ayuntamiento de Granada durante los mandatos del PP bajo el alcalde José Torres Hurtado. La trama se origina en una concesión administrativa otorgada en 2006 para la construcción de un parque de atracciones infantil en una zona verde junto al centro comercial Serrallo Plaza. Sin embargo, la concesión fue modificada sucesivamente para incorporar varios edificios sin licencia de obra, permitiendo que el promotor Roberto García Arrabal construyera una discoteca, sala de fiestas y pista de patinaje con bar en terrenos que el Plan General de Ordenación Urbana (PGOU) destinaba exclusivamente a uso de parque público infantil.
+fechaFin: ''
+estado: condenas penales confirmadas; indemnización recurrida
+descripcion: 'El caso Serrallo juzgó las licencias concedidas para una sala de fiestas en terrenos destinados a parque infantil junto al centro comercial Serrallo Plaza. La Audiencia de Granada condenó en julio de 2020 a Isabel Nieto, Emilio Martín Herrera y Roberto García Arrabal por prevaricación administrativa común, y absolvió al exalcalde José Torres Hurtado y a los demás acusados en los términos del fallo.
 
-  Los hechos salieron a la luz en julio de 2013 mediante un escrito presentado ante la Junta de Andalucía que llegó a la Fiscalía en septiembre de ese mismo año. La Fiscalía Anticorrupción denunció las irregularidades en febrero de 2014. La instrucción judicial, llevada a cabo por el Juzgado de Instrucción nº 2 de Granada, investigó delitos contra la ordenación del territorio, prevaricación urbanística, prevaricación común, fraude en la contratación y tráfico de influencias. En abril de 2016, en el marco de la llamada Operación Nazarí, la UDEF detuvo al alcalde Torres Hurtado, a la concejala de Urbanismo Isabel Nieto y a otras 14 personas, entre empresarios y funcionarios. Ambos cargos municipales dimitieron días después, poniendo fin a 13 años de gobierno ininterrumpido del PP en Granada.
 
-  El juicio oral, celebrado en la Audiencia Provincial de Granada a lo largo de 2020, concluyó con la absolución del exalcalde Torres Hurtado, ocho exconcejales y cinco funcionarios. La única condena firme recayó sobre Isabel Nieto, condenada a 7 años de inhabilitación especial por prevaricación administrativa, junto al funcionario Emilio Martín Herrera (7 años de inhabilitación) y el empresario Roberto García Arrabal (3 años y 6 meses de inhabilitación), como cooperadores necesarios. El Tribunal Supremo confirmó estas tres condenas en noviembre de 2022, desestimando los recursos de casación presentados por los condenados. El caso obligó al Ayuntamiento de Granada a afrontar un perjuicio económico estimado en torno al millón de euros.
+  La sentencia 859/2022 del Supremo, de 2 de noviembre, confirmó las condenas y desestimó también los recursos de las acusaciones populares sobre las costas. Nieto recibió siete años de inhabilitación para el cargo de concejal; Martín Herrera, siete para empleo de funcionario municipal; y García Arrabal, tres años y seis meses para obtener o desempeñar el cargo de concejal o empleo de funcionario municipal. El fallo declara que no cabe recurso. No se certifica aquí el cumplimiento de las penas.
 
-resumen: "Corrupción urbanística en Granada: concesión de un parque infantil junto al Serrallo Plaza convertido ilegalmente en discoteca bajo el gobierno PP de Torres Hurtado"
-coste: 1000000
-lugar: "Granada, Andalucía"
+
+  El litigio tuvo una consecuencia patrimonial posterior: según Granada Hoy, una sentencia de 7 de enero de 2026 condenó al Ayuntamiento a pagar 435.213 euros más intereses a Abel Pizarro, segundo propietario de la discoteca. El Ayuntamiento recurrió, según la noticia de 28 de enero. El coste recoge únicamente ese principal reconocido en primera instancia, sujeto a apelación, sin sumar peticiones ni estimaciones políticas. Revisión parcial al 17 de octubre de 2026: falta el original contencioso y comprobar el resultado del recurso y la ejecución.'
+resumen: Tres condenas de inhabilitación confirmadas por el Supremo por las licencias del Serrallo; en 2026 se informó de una indemnización municipal recurrida.
+coste: 435213
+lugar: Granada, Andalucía
 tribunal:
-  - "Juzgado de Instrucción nº 2 de Granada"
-  - "Audiencia Provincial de Granada - Sección 1ª"
-  - "Tribunal Supremo - Sala de lo Penal"
-numeroSentencia: ""
+- Juzgado de Instrucción n.º 2 de Granada
+- Audiencia Provincial de Granada — Sección Segunda
+- Tribunal Supremo — Sala de lo Penal
+- Tribunal de Instancia de Granada — Sección de lo Contencioso-Administrativo (responsabilidad patrimonial de 2026)
+numeroSentencia: AP Granada 236/2020, de 21 de julio; STS 859/2022, de 2 de noviembre (ECLI:ES:TS:2022:4105)
 implicados:
-  - nombre: "José Torres Hurtado"
-    cargo: "Alcalde de Granada (PP, 2003-2016)"
-    rol: "Absuelto de prevaricación, fraude y tráfico de influencias"
-
-  - nombre: "Isabel Nieto"
-    cargo: "Concejala delegada de Urbanismo del Ayuntamiento de Granada (PP)"
-    rol: "Condenada a 7 años de inhabilitación por prevaricación"
-
-  - nombre: "Emilio Martín Herrera"
-    cargo: "Funcionario técnico de Urbanismo del Ayuntamiento de Granada"
-    rol: "Condenado a 7 años de inhabilitación por informe ilegal"
-
-  - nombre: "Roberto García Arrabal"
-    cargo: "Empresario promotor de las obras del Serrallo"
-    rol: "Condenado a 3 años y 6 meses de inhabilitación"
-
-  - nombre: "Manuel Lorente"
-    cargo: "Director técnico municipal de Urbanismo"
-    rol: "Acusado de prevaricación y cohecho; absuelto"
-
-  - nombre: "Sebastián Pérez"
-    cargo: "Teniente de alcalde y presidente provincial del PP de Granada"
-    rol: "Investigado por las irregularidades; absuelto"
-
+- nombre: José Torres Hurtado
+  cargo: Alcalde de Granada (PP, 2003-2016)
+  rol: Absuelto de prevaricación, fraude y tráfico de influencias
+- nombre: Isabel María Nieto Pérez
+  cargo: Concejala delegada de Urbanismo del Ayuntamiento de Granada (PP)
+  rol: Condenada como autora de prevaricación administrativa común a siete años de inhabilitación para desempeñar u obtener el cargo de concejal; absuelta de las demás imputaciones recogidas en el fallo. Condena confirmada por el Supremo en 2022.
+- nombre: Emilio Martín Herrera
+  cargo: Funcionario técnico de Urbanismo del Ayuntamiento de Granada
+  rol: Condenado como cooperador necesario de prevaricación administrativa común a siete años de inhabilitación para empleo de funcionario municipal o para obtenerlo; absuelto de las restantes imputaciones del fallo. Condena confirmada en 2022.
+- nombre: Roberto García Arrabal
+  cargo: Empresario promotor de las obras del Serrallo
+  rol: Condenado como cooperador necesario de prevaricación administrativa común a tres años y seis meses de inhabilitación para obtener o desempeñar el cargo de concejal o empleo de funcionario municipal; absuelto de ordenación del territorio y tráfico de influencias. Condena confirmada en 2022.
+- nombre: Manuel Lorente Sánchez-Palencia
+  cargo: Director técnico municipal de Urbanismo
+  rol: 'Absuelto de las imputaciones que enumera el fallo: prevaricación urbanística y común, fraude en la contratación, tráfico de influencias y malversación. No se conserva la imputación heredada de cohecho como condena.'
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "corrupción urbanística"
-  - "tráfico de influencias"
-  - "fraude en contratación"
-
-impactoSocial: "El caso Serrallo acabó con 13 años de gobierno ininterrumpido del PP en Granada al forzar la dimisión del alcalde Torres Hurtado y la concejala de Urbanismo Isabel Nieto en 2016. Fue el primer gran caso de corrupción urbanística que afectó directamente al equipo de gobierno municipal del PP en Granada, generando un amplio debate sobre la gestión del suelo público y los mecanismos de control sobre las concesiones administrativas."
-
-documentos: []
-
+- corrupción
+- prevaricación
+- corrupción urbanística
+- tráfico de influencias
+- fraude en contratación
+impactoSocial: El caso distinguió las responsabilidades individuales en la concesión de licencias, con tres condenas y múltiples absoluciones. La responsabilidad patrimonial municipal conocida en 2026 se tramita en un procedimiento distinto del penal.
+documentos:
+- fecha: '2022-11-02'
+  titulo: Tribunal Supremo, sentencia 859/2022 (ECLI:ES:TS:2022:4105)
+  filetype: pdf
+  paginas: 57
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=979ace6d01072119a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2006-01-01"
-    titulo: "Concesión administrativa para parque infantil junto al Serrallo Plaza"
-    descripcion: "El Ayuntamiento de Granada, gobernado por el PP bajo la alcaldía de José Torres Hurtado, otorga una concesión administrativa para la construcción y explotación de un parque de atracciones infantil en una parcela de uso de zona verde junto al centro comercial Serrallo Plaza. El PGOU determinaba que esa zona debía destinarse exclusivamente a equipamiento público infantil. A partir de este momento, la concesión comenzará a ser modificada sucesivamente para dar cabida a usos no permitidos."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/andalucia/granada/claves-caso-serrallo_1_2798456.html"
-
-  - fecha: "2012-09-13"
-    titulo: "Licencias ilegales para construir la discoteca"
-    descripcion: "La concejala Isabel Nieto firma el decreto de 13 de septiembre de 2012 concediendo licencia de obra para la construcción de los edificios de la discoteca y sala de fiestas en terrenos del parque infantil, contraviniendo el PGOU. El 20 de noviembre de 2012 se otorga también la licencia de apertura y funcionamiento. El funcionario Emilio Martín Herrera emite el informe técnico favorable que sustenta las licencias, pese a la ilegalidad evidente de las actuaciones. El director general de Urbanismo deja constancia por escrito el 29 de enero de 2013 de la ilegalidad de esas actuaciones."
-    type: "documento"
-    urls:
-      - "https://www.eldiario.es/andalucia/granada/claves-caso-serrallo_1_2798456.html"
-
-  - fecha: "2013-07-01"
-    titulo: "Denuncia ante la Junta de Andalucía"
-    descripcion: "Se presenta ante la Junta de Andalucía un escrito denunciando las irregularidades en la concesión del Serrallo. En septiembre de 2013 el escrito llega a manos de la Fiscalía, que inicia las primeras diligencias de investigación. Este es el origen formal del caso judicial que culminará años después en el juicio oral ante la Audiencia Provincial de Granada."
-    type: "denuncia"
-    urls:
-      - "https://www.eldiario.es/andalucia/granada/claves-caso-serrallo_1_2798456.html"
-
-  - fecha: "2014-02-14"
-    titulo: "La Fiscalía denuncia formalmente la discoteca del Serrallo"
-    descripcion: "La Fiscalía presenta denuncia formal por las irregularidades detectadas en la construcción de la discoteca en el solar del Serrallo, que debía ser un parque infantil. La denuncia activa la instrucción judicial en el Juzgado de Instrucción nº 2 de Granada, que comienza a investigar los posibles delitos contra la ordenación del territorio, prevaricación y fraude en la contratación."
-    type: "denuncia"
-    urls:
-      - "https://plenogr.granadaimedia.com/2014/02/14/fiscalia-denuncia-la-discoteca-del-serrallo/"
-
-  - fecha: "2015-12-01"
-    titulo: "Isabel Nieto pasa de testigo a imputada"
-    descripcion: "A finales de 2015, la concejala de Urbanismo Isabel Nieto pasa de la condición de testigo a la de imputada en la investigación judicial del caso Serrallo. Su imputación supone un punto de inflexión político en el Ayuntamiento de Granada, donde el PP de Torres Hurtado aún gobernaba. La instrucción va ampliando el círculo de investigados hacia el equipo de gobierno municipal."
-    type: "imputación"
-    urls:
-      - "https://www.eldiario.es/andalucia/granada/claves-caso-serrallo_1_2798456.html"
-
-  - fecha: "2016-04-12"
-    titulo: "Operación Nazarí: detención del alcalde y 15 personas más"
-    descripcion: "La Unidad de Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional lleva a cabo la Operación Nazarí, deteniendo al alcalde de Granada José Torres Hurtado, a la concejala de Urbanismo Isabel Nieto y a otras 14 personas entre empresarios, constructores y funcionarios municipales, en el marco de la investigación por el caso Serrallo. Es la primera vez en la democracia española que un alcalde en activo es detenido por corrupción urbanística. Todos quedan en libertad con cargos tras declarar ante el juez. La operación paraliza el Ayuntamiento y genera una profunda crisis política en el seno del PP granadino."
-    type: "detención"
-    urls:
-      - "https://www.infolibre.es/politica/policia-detiene-alcalde-granada-operacion-corrupcion-urbanistica_1_1124998.html"
-      - "https://theobjective.com/espana/2018-05-22/detenido-granada-torres-hurtado/"
-
-  - fecha: "2016-04-18"
-    titulo: "Dimisión del alcalde Torres Hurtado y de Isabel Nieto"
-    descripcion: "Bajo la presión del PP nacional para evitar una moción de censura en el Ayuntamiento, el alcalde José Torres Hurtado presenta su dimisión como alcalde de Granada, poniendo fin a 13 años de gobierno municipal ininterrumpido del PP. La concejala Isabel Nieto también dimite de su cargo. Torres Hurtado había resistido inicialmente la presión para dimitir, pero la dirección nacional del partido forzó su salida. El teniente de alcalde Sebastián Pérez, también investigado, igualmente renuncia. El PSOE de Francisco Cuenca asume el gobierno del Ayuntamiento en minoría."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/andalucia/Dimiten-alcalde-concejal-urbanismo-Granada_0_506750218.html"
-      - "https://www.elespanol.com/espana/20160418/118238473_0.html"
-
-  - fecha: "2018-05-22"
-    titulo: "Torres Hurtado es imputado formalmente"
-    descripcion: "El exalcalde de Granada José Torres Hurtado es imputado formalmente por el Juzgado de Instrucción nº 2 de Granada en el caso Serrallo, dos años después de su detención en la Operación Nazarí. El auto de imputación incluye al exalcalde junto a otros exconcejales de su Junta de Gobierno. La Fiscalía solicita para él hasta ocho años de prisión, 36 años y medio de inhabilitación y cuantiosas multas por los delitos de prevaricación, fraude en la contratación y tráfico de influencias."
-    type: "imputación"
-    urls:
-      - "https://theobjective.com/espana/2018-05-22/detenido-granada-torres-hurtado/"
-      - "https://www.eldiario.es/andalucia/granada/Torres-Hurtado-exalcalde-Granada-sienta_0_625737950.html"
-
-  - fecha: "2020-03-02"
-    titulo: "Inicio del juicio oral en la Audiencia Provincial de Granada"
-    descripcion: "Comienza el juicio oral en la Audiencia Provincial de Granada con 17 acusados en el banquillo, entre ellos el exalcalde Torres Hurtado, nueve exconcejales de su Junta de Gobierno y varios funcionarios y empresarios. La Fiscalía mantiene en sus conclusiones definitivas la petición de ocho años de prisión y fuertes multas para Torres Hurtado, Isabel Nieto y el exdirector técnico de Urbanismo Manuel Lorente. El juicio se extiende a lo largo de varios meses con numerosas sesiones de declaraciones de acusados y testigos."
-    type: "investigación"
-    urls:
-      - "https://www.ahoragranada.com/noticias/caso-serrallo-el-gobierno-de-torres-hurtado-se-sienta-en-el-banquillo/"
-      - "https://www.elindependientedegranada.es/politica/corrupcion-urbanistica-etapa-pp-banquillo"
-
-  - fecha: "2020-07-21"
-    titulo: "Sentencia: Torres Hurtado absuelto, Isabel Nieto condenada a 7 años de inhabilitación"
-    descripcion: "La Audiencia Provincial de Granada dicta sentencia en el caso Serrallo absolviendo al exalcalde José Torres Hurtado, ocho exconcejales y cinco funcionarios de todos los cargos que se les imputaban. La condena más significativa recae sobre Isabel Nieto, exdelegada de Urbanismo, condenada a 7 años de inhabilitación especial para el ejercicio de cargo público por un delito de prevaricación administrativa. También son condenados el funcionario Emilio Martín Herrera a 7 años de inhabilitación y el empresario Roberto García Arrabal a 3 años y 6 meses de inhabilitación, ambos como cooperadores necesarios. La Fiscalía decide no recurrir la absolución de Torres Hurtado. El PSOE denuncia que la sentencia acredita las malas prácticas urbanísticas del PP."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/andalucia/granada/absuelto-ex-alcalde-granada-torres-hurtado-caso-serrallo_1_6118131.html"
-      - "https://www.elindependientedegranada.es/politica/sentencia-caso-serrallo-absuelto-torres-hurtado-condena-prevaricacion-isabel-nieto"
-      - "https://www.ahoragranada.com/noticias/caso-serrallo-torres-hurtado-absuelto-y-nieto-condenada-a-siete-anos-de-inhabilitacion/"
-
-  - fecha: "2022-11-11"
-    titulo: "El Tribunal Supremo confirma las condenas de inhabilitación"
-    descripcion: "La Sala de lo Penal del Tribunal Supremo confirma íntegramente las tres condenas de inhabilitación impuestas por la Audiencia Provincial de Granada, desestimando los recursos de casación presentados por Isabel Nieto, Emilio Martín Herrera y Roberto García Arrabal. El Supremo ratifica que Isabel Nieto contravino el PGOU de Granada al conceder en 2012 licencias de obra y de apertura para una sala de fiestas en terrenos destinados a parque infantil, y que tanto el funcionario como el empresario actuaron como cooperadores necesarios de ese delito de prevaricación. Con esta sentencia queda cerrada definitivamente la causa penal del caso Serrallo."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-las-penas-de-inhabilitacion-que-impuso-la-Audiencia-de-Granada-a-tres-condenados-por-el-caso--Serrallo-"
-      - "https://www.cope.es/emisoras/andalucia/granada-provincia/granada/noticias/supremo-confirma-las-penas-inhabilitacion-los-tres-condenados-por-caso-serrallo-20221111_2391819"
-      - "https://www.granadadigital.es/tribunal-supremo-confirma-penas-inhabilitacion-isabel-nieto-roberto-garcia-arrabal-caso-serrallo/"
-
+- fecha: '2012-09-13'
+  titulo: Licencia de adecuación como sala de fiestas
+  descripcion: El fallo posteriormente confirmado declaró nula la licencia de obra menor para adecuar el local como sala de fiestas concedida el 13 de septiembre de 2012, además de las licencias de instalación y apertura y del contrato de arrendamiento que precisa. No se fecha artificialmente el origen de la concesión el 1 de enero de 2006.
+  type: investigacion
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=979ace6d01072119a0a8778d75e36f0d&encode=true&databasematch=AN
+  relevancia: alta
+- fecha: '2018-02-12'
+  titulo: Se informa de la transformación en procedimiento abreviado
+  descripcion: La noticia da cuenta de la conclusión de la instrucción y el procesamiento de 17 personas, entre ellas Torres Hurtado y nueve ediles. La fecha corresponde a la publicación, no a una fecha del auto cotejada en su original. No equivale a una condena.
+  type: investigacion
+  urls:
+  - https://www.eldiario.es/andalucia/granada/torres-hurtado_1_2798511.html
+  relevancia: alta
+- fecha: '2020-02-03'
+  titulo: Comienza el juicio de Serrallo
+  descripcion: Europa Press informa del inicio del juicio ante la Sección Segunda con 17 acusados. La fecha heredada del 2 de marzo era incorrecta. Las peticiones de prisión de la Fiscalía no se presentan como penas finalmente impuestas.
+  type: juicio
+  urls:
+  - https://www.europapress.es/andalucia/noticia-llegan-audiencia-provincial-granada-acusados-juicio-caso-serrallo-20200203101007.html
+  relevancia: alta
+- fecha: '2020-07-21'
+  titulo: Condenas y absoluciones en la sentencia 236/2020
+  descripcion: La Sección Segunda condena a Nieto y Martín Herrera a siete años de inhabilitación, con ámbitos diferentes, y a García Arrabal a tres años y seis meses. Absuelve a Torres Hurtado y a los demás acusados en los términos del fallo, con condenas en costas a determinadas acusaciones populares. También declara nulas las licencias y el arrendamiento precisados en la resolución.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=979ace6d01072119a0a8778d75e36f0d&encode=true&databasematch=AN
+  - https://www.elindependientedegranada.es/politica/sentencia-caso-serrallo-absuelto-torres-hurtado-condena-prevaricacion-isabel-nieto
+  relevancia: alta
+- fecha: '2020-07-29'
+  titulo: Rectificación para incluir la absolución de una sociedad
+  descripcion: El auto reproducido en el Supremo rectifica el fallo para incluir entre las absueltas a Multiaventura Serrallo Plaza S.L. No altera las tres penas personales.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=979ace6d01072119a0a8778d75e36f0d&encode=true&databasematch=AN
+  relevancia: alta
+- fecha: '2022-11-02'
+  titulo: El Supremo confirma la sentencia penal
+  descripcion: La STS 859/2022 desestima los recursos de los tres condenados y de las acusaciones populares, confirma la sentencia de instancia e impone a cada recurrente las costas de su recurso. El fallo declara que no cabe recurso. La nota oficial se publicó el 10 de noviembre, fecha distinta de la sentencia.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=979ace6d01072119a0a8778d75e36f0d&encode=true&databasematch=AN
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-las-penas-de-inhabilitacion-que-impuso-la-Audiencia-de-Granada-a-tres-condenados-por-el-caso--Serrallo-
+  relevancia: alta
+- fecha: '2026-01-07'
+  titulo: Sentencia de responsabilidad patrimonial, según la prensa
+  descripcion: 'Granada Hoy informa el día 9 de una sentencia del 7 de enero que declara la responsabilidad patrimonial exclusiva del Ayuntamiento por 435.213 euros más intereses: 415.000 por inversión, 20.000 por daño moral y 213 por despido. No se ha recuperado el original ni se afirma firmeza.'
+  type: sentencia
+  urls:
+  - https://www.granadahoy.com/granada/ayuntamiento-granada-condenado-pago-empresario-discoteca-serrallo_0_2005591214.html
+  - https://www.granadahoy.com/granada/recurso-ayuntamiento-sentencia-discoteca-serrallo_0_2005741072.html
+  relevancia: alta
+- fecha: '2026-01-28'
+  titulo: Se informa de la presentación del recurso municipal
+  descripcion: Granada Hoy da cuenta del recurso de apelación presentado la semana anterior ante el TSJA. Cuestiona, entre otros aspectos, los conceptos indemnizados y los intereses. Falta comprobar la resolución posterior; la fecha es la de la noticia, no el día de presentación del escrito.
+  type: recurso
+  urls:
+  - https://www.granadahoy.com/granada/recurso-ayuntamiento-sentencia-discoteca-serrallo_0_2005741072.html
+  relevancia: alta
 ---
+
+Esta ficha se limita a **Serrallo** y a la reclamación patrimonial ligada a las licencias anuladas. La operación Nazarí y sus piezas Mulhacén o Ciudad de la Luz son procedimientos diferentes: las actuaciones posteriores contra personas comunes no modifican automáticamente las absoluciones de Serrallo. Se retiran las fechas heredadas no revalidadas de denuncia e imputación y las afirmaciones de una detención sin precedente o de un cierre global de Nazarí. Sebastián Pérez no se mantiene como acusado absuelto de esta causa sin soporte nominal suficiente.
+
+El [PDF oficial del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=979ace6d01072119a0a8778d75e36f0d&encode=true&databasematch=AN), de 57 páginas, identifica la sentencia penal de instancia como la **236/2020 de la Sección Segunda**, de 21 de julio de 2020. Se han cotejado la cabecera, el fallo de instancia reproducido, la rectificación de 29 de julio y el fallo de casación. La fecha judicial es el 2 de noviembre de 2022; el 10 de noviembre corresponde a la [nota de comunicación](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-las-penas-de-inhabilitacion-que-impuso-la-Audiencia-de-Granada-a-tres-condenados-por-el-caso--Serrallo-). La exportación del PDF en octubre de 2026 tampoco es fecha del acto. El documento está anonimizado: las identidades y los fallos nominales se contrastan con la [reproducción periodística de 2020](https://www.elindependientedegranada.es/politica/sentencia-caso-serrallo-absuelto-torres-hurtado-condena-prevaricacion-isabel-nieto), sin deducir nombres de seudónimos.
+
+Las inhabilitaciones tienen ámbitos concretos: concejal para Nieto; funcionario municipal para Martín Herrera; ambos para García Arrabal. También hubo absoluciones parciales de estos tres acusados y absoluciones de los restantes. El Supremo desestimó, además, los recursos de las acusaciones populares sobre las costas de los absueltos. No se confunden dichas costas con indemnizaciones ni con perjuicio municipal. La ejecución de las penas no se ha reconstruido.
+
+El campo `coste: 435213` recoge el principal de la **responsabilidad patrimonial de primera instancia de 2026**, según las noticias de [sentencia](https://www.granadahoy.com/granada/ayuntamiento-granada-condenado-pago-empresario-discoteca-serrallo_0_2005591214.html) y [apelación](https://www.granadahoy.com/granada/recurso-ayuntamiento-sentencia-discoteca-serrallo_0_2005741072.html), no una indemnización penal ni una cantidad ya pagada. Se excluyen los intereses no liquidados y las pretensiones rechazadas. Los 1,9 millones solicitados por el empresario y la estimación política de alrededor de un millón de euros, difundida por el PSOE y recogida en [Ahora Granada](https://www.ahoragranada.com/noticias/el-ayuntamiento-de-granada-recurrira-la-sentencia-que-le-condena-a-pagar-por-el-proyecto-de-la-discoteca-del-serrallo/), son magnitudes distintas que no se suman. Esta última noticia llama firme a la sentencia al reproducir la posición socialista, pero eso no acredita firmeza frente al recurso municipal documentado posteriormente.
+
+Con corte al **17 de octubre de 2026**, quedan pendientes el original contencioso de enero, el resultado de la apelación, el pago efectivo y la ejecución penal, además de la lectura íntegra de toda la fundamentación del Supremo. Por ello `completado` es falso y `fechaFin` queda vacía. El PDF remoto oficial incluido en `documentos` fue descargado mediante GET; no se añade ningún binario al repositorio.
