@@ -1,131 +1,116 @@
 ---
-nombre: "Caso Trapur"
+nombre: Caso Trapur
 partido: PP
-completado: true
+completado: false
 año: 2008
-fechaInicio: 2008-05-21
-fechaFin: 2018-07-17
-estado: cerrado con condenas
-descripcion: |
-  El caso Trapur es una investigación por corrupción municipal en Castro Urdiales (Cantabria) que involucró a concejales del Partido Popular y al gerente de la empresa de desratización y desinfección Trapur S.L. La investigación se centró en la adjudicación irregular de contratos de servicios de control de plagas y desinfección al Ayuntamiento de Castro Urdiales entre 2003 y 2009.
-
-  Según los hechos probados, Elisa Dopico, tras asumir la Concejalía de Sanidad y Asuntos Sociales de Castro Urdiales después de las elecciones de 2003, utilizó su cargo para beneficiar económicamente a Pedro María Llamas, compañero de partido y administrador único de la empresa Trapur. Dopico ordenó a funcionarios municipales que adjudicaran todos los servicios de desratización y desinfección del municipio a Trapur de manera fraccionada, eludiendo así el procedimiento administrativo de contratación que hubiera sido legalmente exigible.
-
-  La empresa Trapur, que en 2002 era deficitaria, pasó a ser extraordinariamente rentable a partir de 2003. Entre agosto de 2003 y diciembre de 2008, Trapur facturó al Ayuntamiento de Castro Urdiales un total de 579.013,73 euros y obtuvo unos beneficios netos de 463.211,73 euros. Entre 2003 y 2009, los beneficios netos totales de la empresa ascendieron a 486.775 euros.
-
-  Como contraprestación por estas adjudicaciones continuadas, en febrero de 2004 el gerente de Trapur extendió a Elisa Dopico un cheque de mil euros con cargo a la empresa. Este pago fue considerado por los tribunales como cohecho (soborno).
-
-  En enero de 2005, José Miguel Rodríguez López, conocido como 'Kyk', sucedió a Dopico al frente de la Concejalía de Sanidad y Servicios Sociales. Según la sentencia de la Audiencia Provincial, Rodríguez López continuó adjudicando contratos de control de plagas a Trapur, fraccionando conscientemente los servicios para evitar el procedimiento legalmente establecido de contratación administrativa. Además, presidió la mesa de contratación que acordó proponer la adjudicación del contrato de control de plagas a Trapur, a pesar de que su propuesta económica no era la más ventajosa para el municipio.
-
-  La investigación judicial comenzó en mayo de 2008, cuando el juez imputó a Fernando Muguruza (alcalde de Castro Urdiales), José Miguel Rodríguez López (primer teniente de alcalde del PP), Pedro Revuelta (exconcejal), Pedro Llamas (gerente de Trapur) y la veterinaria municipal Itziar Muruaga por delitos de prevaricación y tráfico de influencias.
-
-  En noviembre de 2016 se celebró el juicio, y en abril de 2017 la Audiencia Provincial de Cantabria condenó a Elisa Dopico a seis meses de prisión y cinco años de inhabilitación para empleo o cargo público por delitos de cohecho y prevaricación continuada. También impuso multas de 450 y 500 euros y suspensión de empleo público durante tres meses. José Miguel Rodríguez López fue condenado a cinco años de inhabilitación para empleo o cargo público por prevaricación continuada, con la atenuante de dilaciones indebidas.
-
-  La defensa de Rodríguez López recurrió ante el Tribunal Supremo, pero en julio de 2018 el Alto Tribunal rechazó el recurso de casación y confirmó la sentencia de inhabilitación, considerando que las pruebas eran lícitas, suficientes y correctamente motivadas. Con esta resolución, el caso Trapur quedó definitivamente cerrado, convirtiéndose en uno de los múltiples casos de corrupción municipal que han afectado a cargos del Partido Popular en Cantabria.
-
-resumen: "Adjudicación irregular de contratos municipales de desratización en Castro Urdiales a la empresa Trapur a cambio de sobornos"
-coste: 579013
-lugar: "Castro Urdiales, Cantabria"
+fechaInicio: '2008-03-26'
+fechaFin: ''
+estado: Condenas y absoluciones; casación de Rodríguez López desestimada en 2018
+descripcion: La contratación fraccionada de servicios de desratización y desinfección de Castro Urdiales dio lugar
+  a condenas por prevaricación continuada de Elisa Dopico y José Miguel Rodríguez López, y por cohecho de Dopico.
+  Ambos fueron absueltos de tráfico de influencias y la veterinaria municipal, de prevaricación. El Supremo desestimó
+  el recurso de Rodríguez López el 10 de julio de 2018. La revisión hasta el 17 de octubre de 2026 no ha verificado
+  la ejecución de las penas ni la firmeza individual de la condena de Dopico. El original del Supremo contiene fechas
+  contradictorias para la sentencia de instancia; falta cotejar esta última.
+resumen: 'Contratación municipal fraccionada: condenas por prevaricación y cohecho, con absoluciones diferenciadas.'
+coste: 0
+lugar: Castro Urdiales, Cantabria
 tribunal:
-  - "Juzgado de Instrucción de Castro Urdiales"
-  - "Audiencia Provincial de Cantabria"
-  - "Tribunal Supremo"
+- Juzgado de Instrucción n.º 2 de Castro Urdiales
+- Audiencia Provincial de Cantabria
+- Tribunal Supremo
+numeroSentencia: STS 343/2018, de 10 de julio; ECLI:ES:TS:2018:2668
 implicados:
-  - nombre: "Elisa Dopico"
-    cargo: "Concejala de Sanidad y Asuntos Sociales de Castro Urdiales (PP, 2003-2005)"
-    rol: "Condenada a 6 meses de prisión y 5 años de inhabilitación por cohecho y prevaricación continuada por adjudicar irregularmente contratos a Trapur y recibir un soborno de 1.000 €"
-
-  - nombre: "José Miguel Rodríguez López 'Kyk'"
-    cargo: "Concejal de Sanidad y Servicios Sociales, Primer Teniente de Alcalde de Castro Urdiales (PP, 2005-)"
-    rol: "Condenado a 5 años de inhabilitación por prevaricación continuada por continuar adjudicando irregularmente contratos a Trapur. Sentencia confirmada por el Tribunal Supremo en 2018"
-
-  - nombre: "Pedro María Llamas"
-    cargo: "Gerente y administrador único de Trapur S.L."
-    rol: "Imputado por tráfico de influencias. Dio un soborno de 1.000 € a Elisa Dopico en 2004 como contraprestación por las adjudicaciones"
-
-  - nombre: "Fernando Muguruza"
-    cargo: "Alcalde de Castro Urdiales"
-    rol: "Imputado por prevaricación en mayo de 2008 por irregularidades en la adjudicación de contratos a Trapur"
-
-  - nombre: "Pedro Revuelta"
-    cargo: "Exconcejal de Castro Urdiales"
-    rol: "Imputado por prevaricación en mayo de 2008"
-
-  - nombre: "Itziar Muruaga"
-    cargo: "Veterinaria municipal de Castro Urdiales"
-    rol: "Imputada en mayo de 2008"
-
+- nombre: Elisa Dopico
+  cargo: Exconcejala de Sanidad y Asuntos Sociales (PP)
+  rol: Condenada por prevaricación continuada a cinco años de inhabilitación especial para empleo o cargo público;
+    por cohecho, a seis meses de prisión, multa de tres meses a cinco euros diarios, otra multa de 500 euros y suspensión
+    de empleo público durante tres meses. Absuelta de tráfico de influencias. Firmeza y ejecución no comprobadas
+    en esta revisión.
+- nombre: José Miguel Rodríguez López
+  cargo: Exconcejal de Sanidad y Servicios Sociales (PP), conocido como Kyk
+  rol: Condenado a cinco años de inhabilitación especial por prevaricación continuada; absuelto de tráfico de influencias.
+    El Supremo desestimó su recurso de casación en 2018 y expresa que contra su resolución no cabe recurso.
+- nombre: Iciar Muruaga
+  cargo: Veterinaria municipal
+  rol: Absuelta de prevaricación, según la información nominal sobre el fallo publicada en abril de 2017.
+- nombre: Pedro María Llamas
+  cargo: Responsable de Trapur
+  rol: La prensa del juicio de noviembre de 2016 lo identifica como fallecido y señala que la acusación de cohecho
+    contra él había prescrito. No se le atribuye una condena en esta ficha.
+- nombre: Fernando Muguruza
+  cargo: Exalcalde de Castro Urdiales
+  rol: 'La información previa al juicio de noviembre de 2016 señala que quedó fuera de la acusación: la Fiscalía
+    no lo acusó y la acusación particular fue excluida por no prestar fianza. No se ha cotejado el auto original
+    correspondiente.'
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "cohecho"
-  - "soborno"
-  - "tráfico de influencias"
-  - "contratación pública irregular"
-  - "adjudicación fraccionada"
-
-documentos: null
-
+- prevaricación
+- cohecho
+- contratación pública
+- absolución
+documentos:
+- fecha: '2018-07-10'
+  titulo: Sentencia del Tribunal Supremo 343/2018 (ECLI:ES:TS:2018:2668)
+  filetype: pdf
+  paginas: 7
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e36ab52e306046a2&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2003-06-01"
-    titulo: "Elisa Dopico asume la Concejalía de Sanidad"
-    descripcion: "Tras las elecciones municipales de 2003, Elisa Dopico (PP) es nombrada Concejala de Sanidad y Asuntos Sociales de Castro Urdiales. Desde su posición, comienza a ordenar a funcionarios municipales que adjudiquen todos los servicios de desratización y desinfección del municipio a la empresa Trapur, administrada por su compañero de partido Pedro María Llamas, de manera fraccionada para eludir el procedimiento administrativo de contratación."
-    type: "investigación"
-    urls: []
-    relevancia: "alta"
-
-  - fecha: "2004-02-01"
-    titulo: "Soborno de Trapur a Elisa Dopico"
-    descripcion: "El gerente de Trapur, Pedro María Llamas, extiende a Elisa Dopico un cheque de mil euros con cargo a la empresa como contraprestación por las adjudicaciones continuadas de contratos municipales. Este pago será posteriormente considerado por los tribunales como un delito de cohecho (soborno)."
-    type: "denuncia"
-    urls:
-      - "https://eldiariocantabria.publico.es/articulo/cantabria/cheque-trapur-fue-vino-espanol-pp-exconcejala-castro-urdiales-adelanto-dinero/20161128211943022206.html"
-    relevancia: "alta"
-
-  - fecha: "2005-01-01"
-    titulo: "'Kyk' sucede a Dopico en la Concejalía de Sanidad"
-    descripcion: "José Miguel Rodríguez López, conocido como 'Kyk', asume la Concejalía de Sanidad y Servicios Sociales de Castro Urdiales tras el cese de Elisa Dopico. Rodríguez López continúa la práctica de adjudicar contratos de control de plagas a Trapur de manera fraccionada, eludiendo el procedimiento legal de contratación. También preside la mesa de contratación que acuerda proponer la adjudicación del contrato de control de plagas a Trapur, a pesar de que su propuesta económica no era la más ventajosa."
-    type: "investigación"
-    urls: []
-    relevancia: "alta"
-
-  - fecha: "2008-05-21"
-    titulo: "Inicio de la investigación judicial: imputaciones"
-    descripcion: "El juez de instrucción de Castro Urdiales imputa a Fernando Muguruza (alcalde), José Miguel Rodríguez López 'Kyk' (primer teniente de alcalde del PP), Pedro Revuelta (exconcejal), Pedro Llamas (gerente de Trapur) y la veterinaria municipal Itziar Muruaga por presuntos delitos de prevaricación y tráfico de influencias relacionados con irregularidades en la adjudicación de contratos al servicio de control de plagas de la empresa Trapur."
-    type: "investigación"
-    urls:
-      - "https://www.muchocastro.com/noticias/politica/item/67416-cuatro-meses-trece-imputados-y-un-futuro-incierto"
-    relevancia: "alta"
-
-  - fecha: "2009-06-01"
-    titulo: "El caso llega a la Audiencia Provincial"
-    descripcion: "La instrucción del caso Trapur, que consta de once tomos, se completa y es remitida a la Audiencia Provincial de Cantabria para su enjuiciamiento."
-    type: "resumen"
-    urls:
-      - "https://www.muchocastro.com/articulo/politica/el-caso-trapur-once-tomos-ya-esta-en-manos-de-la-audiencia/20090606021654036821.html"
-    relevancia: "media"
-
-  - fecha: "2016-11-28"
-    titulo: "Celebración del juicio oral"
-    descripcion: "Se celebra la primera sesión del juicio oral contra los acusados en el caso Trapur ante la Audiencia Provincial de Cantabria. Durante el proceso se presentan las pruebas sobre el fraccionamiento irregular de contratos, el soborno de 1.000 euros, y los beneficios extraordinarios obtenidos por Trapur gracias a las adjudicaciones municipales."
-    type: "declaración"
-    urls:
-      - "https://eldiariocantabria.publico.es/articulo/cantabria/cheque-trapur-fue-vino-espanol-pp-exconcejala-castro-urdiales-adelanto-dinero/20161128211943022206.html"
-    relevancia: "alta"
-
-  - fecha: "2017-04-01"
-    titulo: "Sentencia de la Audiencia Provincial: condenas"
-    descripcion: "La Audiencia Provincial de Cantabria dicta sentencia condenando a Elisa Dopico a seis meses de prisión y cinco años de inhabilitación para empleo o cargo público por delitos de cohecho y prevaricación continuada. También se le imponen multas de 450 y 500 euros y suspensión de empleo público durante tres meses. José Miguel Rodríguez López 'Kyk' es condenado a cinco años de inhabilitación para empleo o cargo público por prevaricación continuada, con la atenuante de dilaciones indebidas. La sentencia considera probado que ambos favorecieron irregularmente a la empresa Trapur en la adjudicación de contratos municipales."
-    type: "sentencia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Trapur&numero=571"
-    relevancia: "alta"
-
-  - fecha: "2018-07-17"
-    titulo: "El Tribunal Supremo confirma las condenas"
-    descripcion: "El Tribunal Supremo rechaza el recurso de casación presentado por José Miguel Rodríguez López 'Kyk' contra la sentencia de la Audiencia Provincial y confirma su inhabilitación por prevaricación. El Alto Tribunal considera que las pruebas presentadas son lícitas, suficientes y están correctamente motivadas. Con esta resolución, el caso Trapur queda definitivamente cerrado."
-    type: "sentencia"
-    urls:
-      - "http://www.eldiariotorrelavega.es/articulo/cantabria/supremo-rechaza-recurso-kyk-confirma-inhabilitacion-prevaricacion/20180717221524009916.html"
-    relevancia: "alta"
+- fecha: '2004-02-10'
+  titulo: Cheque de 1.000 euros
+  descripcion: Los hechos probados reproducidos por el Supremo sitúan en esta fecha el cheque de 1.000 euros entregado
+    a la entonces concejala como contraprestación por las adjudicaciones. La atribución nominal de la condena de
+    Dopico se contrasta con la prensa del fallo.
+  type: hechos
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e36ab52e306046a2&encode=true&databasematch=AN
+  - https://castropuntoradio.es/condenados-elisa-dopico-jose-miguel-rodriguez-prevaricacion-caso-trapur-absueltos-del-delito-trafico-influencias/
+  relevancia: alta
+- fecha: '2008-03-26'
+  titulo: Auto de incoación de la causa
+  descripcion: El antecedente primero de la sentencia del Supremo identifica un auto de esta fecha que inicia la
+    causa a partir de un testimonio relativo al reparo de Intervención 4/05. No se utiliza la fecha posterior de
+    noticias sobre imputaciones como inicio judicial.
+  type: investigación
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e36ab52e306046a2&encode=true&databasematch=AN
+  relevancia: alta
+- fecha: '2016-11-28'
+  titulo: Comienza el juicio
+  descripcion: El Supremo recoge sesiones los días 28, 29 y 30 de noviembre y 1 de diciembre de 2016. La información
+    contemporánea identifica como acusados a Dopico, Rodríguez López y la veterinaria municipal.
+  type: juicio
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e36ab52e306046a2&encode=true&databasematch=AN
+  - https://eldiariocantabria.publico.es/articulo/cantabria/cheque-trapur-fue-vino-espanol-pp-exconcejala-castro-urdiales-adelanto-dinero/20161128211943022206.html
+  - https://castropuntoradio.es/el-juicio-por-el-caso-trapur-se-celebrara-la-proxima-semana/
+  relevancia: alta
+- fecha: '2017-04-11'
+  titulo: Publicación de las condenas y absoluciones de instancia
+  descripcion: 'La prensa publica las condenas de Dopico y Rodríguez López y las absoluciones de ambos por tráfico
+    de influencias y de Iciar Muruaga por prevaricación. Esta es la fecha de publicación de la noticia, no una fecha
+    acreditada del acto judicial: el original del Supremo menciona tanto 30 de marzo de 2017 como 9 de diciembre
+    de 2016 al referirse a la sentencia de instancia.'
+  type: sentencia
+  urls:
+  - https://castropuntoradio.es/condenados-elisa-dopico-jose-miguel-rodriguez-prevaricacion-caso-trapur-absueltos-del-delito-trafico-influencias/
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e36ab52e306046a2&encode=true&databasematch=AN
+  relevancia: alta
+- fecha: '2018-07-10'
+  titulo: El Supremo desestima el recurso de Rodríguez López
+  descripcion: La STS 343/2018 desestima el recurso de casación del exconcejal, con imposición de las costas de
+    su recurso. El fallo declara que contra esta resolución no cabe recurso. No constituye una resolución sobre
+    un recurso de Dopico ni acredita el cumplimiento de sus penas. La noticia nominal se publicó el 17 de julio.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e36ab52e306046a2&encode=true&databasematch=AN
+  - https://www.eldiariotorrelavega.es/articulo/cantabria/supremo-rechaza-recurso-kyk-confirma-inhabilitacion-prevaricacion/20180717221524009916.html
+  relevancia: alta
 ---
+
+La sentencia del Supremo reproduce hechos de contratación fraccionada para eludir el procedimiento administrativo: servicios ya realizados antes de su aprobación municipal, primero bajo la responsabilidad de Dopico y después bajo la de Rodríguez López. El tribunal distingue estos hechos del concurso de contratación de 2005: explica que los hechos de ese concurso no son aquellos por los que recayó la condena recurrida. Ambos exconcejales fueron absueltos de tráfico de influencias. No debe transformarse una propuesta económica menos ventajosa en una condena por ese delito.
+
+El fallo de instancia reproducido en el original del Supremo aplica la atenuante muy cualificada de dilaciones indebidas. Incluye, para la pena de prisión de Dopico, la accesoria de inhabilitación para el sufragio pasivo durante la condena. Las multas son penas, no una medición de daño patrimonial. El valor cero del campo coste indica que esta revisión no ha acreditado una cuantificación judicial del perjuicio: no significa que se haya probado su inexistencia. Se retiran las cifras heredadas de facturación y beneficios, que no deben equipararse al daño público.
+
+La identificación nominal se apoya en las noticias contemporáneas enlazadas; no se deducen identidades de los seudónimos de la resolución judicial anonimizada. La noticia previa al juicio sobre la salida de Muguruza y la prescripción respecto de Llamas no sustituye a los autos originales, que no se han recuperado. Se elimina la antigua inclusión de Pedro Revuelta al no haber sido revalidada su relación procesal con esta causa.
+
+**Límites de la revisión (corte: 17 de octubre de 2026).** Se ha leído el texto de las siete páginas de la STS 343/2018 y comprobado visualmente su fallo final. No se ha recuperado el PDF de la sentencia de instancia enlazado por Castro Punto Radio: los intentos de descarga fallaron antes de recibir respuesta HTTP. El Supremo contiene una discrepancia interna de fechas de esa sentencia, pendiente de cotejo con el original. Su decisión se limita al recurso de Rodríguez López; no se declara aquí el cierre global del caso, la firmeza individual de la condena de Dopico ni la ejecución de las penas. Las búsquedas de actualidad no permiten certificar la ausencia de otras incidencias posteriores. La revisión permanece incompleta.
