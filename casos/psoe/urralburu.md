@@ -42,7 +42,12 @@ tags:
 - adjudicaciones irregulares
 - obras públicas
 - comisiones ilegales
-documentos: []
+documentos:
+- fecha: '2001-03-28'
+  titulo: 'STS 20/2001 y segunda sentencia: caso Urralburu (ECLI:ES:TS:2001:2582)'
+  filetype: pdf
+  paginas: 43
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3e1d2df395a2ca42&encode=true&databasematch=AN
 cronologia:
 - fecha: '1998-09-07'
   titulo: Sentencia de la Audiencia de Navarra
@@ -50,7 +55,7 @@ cronologia:
     y delitos contra la Hacienda Foral. Fue objeto de recurso; no se presenta como resultado definitivo.
   urls:
   - https://www.eldiario.es/navarra/25-anos-condena-socialista-urralburu-primer-presidente-autonomico-encarcelado-cobro-comisiones_1_10494636.html
-  - https://vlex.es/vid/continuado-cohecho-presuncion-inocencia-fa-18350026
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3e1d2df395a2ca42&encode=true&databasematch=AN
   type: sentencia
 - fecha: '2001-03-28'
   titulo: Revisión del Tribunal Supremo e ingresos en prisión
@@ -60,7 +65,7 @@ cronologia:
   urls:
   - https://elpais.com/elpais/2001/03/28/actualidad/985767419_850215.html
   - https://www.libertaddigital.com/espana/2001-03-28/urralburu-ingresa-en-prision-para-cumplir-la-condena-confirmada-por-el-supremo-24273/
-  - https://vlex.es/vid/continuado-cohecho-presuncion-inocencia-fa-18350026
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3e1d2df395a2ca42&encode=true&databasematch=AN
   type: sentencia
 - fecha: '2001-12-21'
   titulo: Noticia sobre tercer grado y permisos penitenciarios
@@ -80,4 +85,4 @@ Las multas no son el importe de las comisiones ni un perjuicio patrimonial autom
 
 Se conserva la denominación Ana Isabel Romeo, utilizada por la prensa contemporánea, corrigiendo Romero. Las identidades nominales se apoyan en esas informaciones, no en una correspondencia deducida de pseudónimos judiciales. Las condenas aquí descritas de Roldán y Esparza pertenecen a esta causa; no se trasladan sus resultados de otros procesos.
 
-Hasta el corte de 17 de octubre de 2026 no se ha obtenido un PDF judicial verificable: el enlace del CGPJ remite a un documento cuyo acceso PDF devolvió 403. La transcripción consultada es HTML de un proveedor jurídico. Quedan pendientes el original, la cuantificación económica completa y la liquidación de la ejecución. La anterior cronología afirmaba libertad condicional en agosto de 2003 y cierre definitivo sin documentos penitenciarios; no se mantienen como fechas de extinción de la pena. Tampoco se calcula tiempo efectivo de prisión mezclando prisión preventiva, cumplimiento y tercer grado.
+Se ha recuperado el [PDF oficial del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3e1d2df395a2ca42&encode=true&databasematch=AN), de 43 páginas, cuyo acceso inicial había devuelto 403. Se leyeron las páginas 1–3 y 40–43, no la totalidad de fundamentos ni tablas financieras. El fallo confirma la revisión y la segunda sentencia; permanecen pendientes la cuantificación económica completa y la liquidación de la ejecución hasta el corte de 17 de octubre de 2026. La anterior cronología afirmaba libertad condicional en agosto de 2003 y cierre definitivo sin documentos penitenciarios; no se mantienen como fechas de extinción de la pena. Tampoco se calcula tiempo efectivo de prisión mezclando prisión preventiva, cumplimiento y tercer grado.
