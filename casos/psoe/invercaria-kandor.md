@@ -1,147 +1,123 @@
 ---
-nombre: "Caso Invercaria/Kandor"
+nombre: Caso Invercaria/Kandor
 partido: PSOE
-completado: true
+completado: false
 año: 2017
-fechaInicio: 2005-01-01
-fechaFin: "2021-03-15"
-estado: sobreseimiento
-lugar: "Granada / Sevilla, Andalucía"
-coste: 1734485
-descripcion: |
-  El caso Invercaria/Kandor es una pieza separada del macrocaso de corrupción Invercaria que investiga los préstamos concedidos por Invercaria —empresa pública andaluza de capital riesgo participada al 100% por la Agencia IDEA de la Junta de Andalucía— a la productora de animación granadina Kandor Graphics S.L. entre 2005 y 2011. En total se formalizaron cuatro préstamos participativos y cinco préstamos ordinarios por un importe conjunto de 1.498.000 euros, destinados a financiar proyectos cinematográficos como "El lince perdido" (Goya 2009 a mejor película de animación) y "Justin y la espada del valor" (nominada al Goya 2014). El actor Antonio Banderas era accionista de Kandor Graphics con un 20% del capital desde 2010.
+estado: Sobreseimiento libre comunicado en abril de 2021; firmeza no verificada
+lugar: Granada / Sevilla, Andalucía
+descripcion: 'Pieza separada de Invercaria relativa a su financiación de Kandor Graphics. La nota oficial del
+  CGPJ sobre el auto de 5 de septiembre de 2019 describe una inversión de 1.498.000 euros entre participación
+  en capital y préstamos ordinarios y participativos. No es una cifra de daño judicialmente declarado. Las
+  deficiencias documentales y de seguimiento que señaló el instructor eran indicios en fase de investigación,
+  no hechos establecidos en una sentencia condenatoria.
 
-  Las irregularidades detectadas por la UDEF (Unidad de Delincuencia Económica y Fiscal) incluyen la ausencia práctica de documentación justificativa en los expedientes, la concesión de un préstamo en tan solo dos días sin informe técnico previo, y el incumplimiento reiterado del límite cuantitativo de 1.200.000 euros que exigía la aprobación del Consejo Rector y la ratificación del Consejo de Gobierno de la Junta de Andalucía. Los policías también advirtieron de indicios de que las fechas de ciertos documentos podrían haber sido alteradas y de que se habrían utilizado logotipos de otras entidades atribuyendo la autoría a Invercaria. El perjuicio económico total se cifró en 1.734.485,03 euros según pericial de Taxo. Kandor Graphics, que recibió en total más de 9 millones de euros en ayudas públicas de diversas fuentes, entró en concurso de acreedores en 2014 tras el fracaso comercial de "Justin y la espada del valor", película que con un presupuesto de 22 millones de euros apenas recaudó 2,3 millones.
 
-  Tras un primer archivo por el Juzgado de Instrucción nº 16 de Sevilla en septiembre de 2017, la Audiencia Provincial ordenó reabrir la causa en febrero de 2019 a instancias de la acusación popular del PP, y el juez procesó a tres expresidentes de Invercaria y al expresidente de Kandor Graphics en septiembre de ese año. Sin embargo, en marzo de 2021 la Sección Séptima de la Audiencia de Sevilla decretó el sobreseimiento libre al declarar la falta de legitimación del PP como acusación popular, después de que la Fiscalía Anticorrupción, IDEA e Inverseed —la propia administración andaluza, ya gobernada por el PP con Ciudadanos— solicitaran el archivo por inexistencia de indicios de delito. El fiscal calificó la situación de "esquizofrénica": el propio Gobierno del PP pedía el sobreseimiento mientras el PP ejercía simultáneamente como acusación popular reclamando condenas de hasta seis años.
-resumen: "Préstamos irregulares de 1,5 millones de Invercaria a Kandor Graphics sin procedimiento ni informes técnicos."
+  Tras el archivo de septiembre de 2017 y su revocación en febrero de 2019, el procedimiento abreviado alcanzó
+  a tres expresidentes de Invercaria y a Marcelino Almansa. En diciembre de 2019 se informó del archivo respecto
+  de Laura Gómiz y Francisco Álvaro Julio, sin acusación contra ellos, y de la apertura de juicio únicamente
+  contra Tomás Pérez-Sauquillo y Almansa. La Fiscalía defendía que existió valoración técnica del proyecto,
+  frente a la tesis acusatoria del PP.
+
+
+  El 9 de abril de 2021 Europa Press informó de un auto de la Sección Séptima de la Audiencia de Sevilla que
+  acordó el sobreseimiento libre por falta de una acusación pública o particular y falta de legitimación del
+  PP para sostener por sí solo la acusación popular. No fue una sentencia absolutoria. La información advertía
+  que cabía casación: no se ha localizado el auto íntegro, su fecha exacta ni una resolución posterior que
+  permita afirmar su firmeza al corte del 17 de octubre de 2026.'
+resumen: 'Financiación de Kandor por Invercaria: sobreseimiento libre comunicado en abril de 2021; firmeza
+  no documentada.'
 tribunal:
-  - "Juzgado de Instrucción nº 16 de Sevilla - Juez Juan Gutiérrez Casillas"
-  - "Audiencia Provincial de Sevilla - Sección Tercera y Sección Séptima"
-numeroSentencia: ""
+- Juzgado de Instrucción nº 16 de Sevilla
+- Audiencia Provincial de Sevilla, secciones Tercera y Séptima
 implicados:
-  - nombre: "Tomás Pérez-Sauquillo"
-    cargo: "Expresidente de Invercaria"
-    rol: "Procesado por malversación y prevaricación en préstamos a Kandor"
-
-  - nombre: "Laura Gómiz Nogales"
-    cargo: "Expresidenta de Invercaria"
-    rol: "Procesada por irregularidades en concesión de préstamos"
-
-  - nombre: "Francisco Álvaro Julio"
-    cargo: "Expresidente de Invercaria"
-    rol: "Procesado por préstamos irregulares a productora de animación"
-
-  - nombre: "Marcelino Almansa"
-    cargo: "Expresidente de Kandor Graphics"
-    rol: "Procesado por malversación, tráfico de influencias y prevaricación"
-
+- nombre: Tomás Pérez-Sauquillo
+  cargo: Expresidente de Invercaria
+  rol: Acusado por el PP en esta pieza; sobreseimiento libre comunicado en abril de 2021, sin firmeza verificada.
+- nombre: Laura Gómiz
+  cargo: Expresidenta de Invercaria
+  rol: Investigada en esta pieza; archivo respecto de ella comunicado en diciembre de 2019 al no formularse
+    acusación.
+- nombre: Francisco Álvaro Julio
+  cargo: Expresidente de Invercaria
+  rol: Investigado tras la reapertura de 2019; archivo respecto de él comunicado en diciembre de ese año al
+    no formularse acusación.
+- nombre: Marcelino Almansa Ortiz
+  cargo: Presidente y administrador de Kandor Graphics según la información de diciembre de 2019
+  rol: Acusado por el PP junto a Pérez-Sauquillo; sobreseimiento libre comunicado en abril de 2021, sin firmeza
+    verificada.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "tráfico de influencias"
-  - "inversión pública"
-  - "sobreseimiento"
-  - "capital riesgo"
-  - "empresa pública"
-
-impactoSocial: "El caso evidenció las irregularidades sistemáticas en la gestión de fondos públicos por Invercaria durante la etapa socialista en Andalucía. La situación 'esquizofrénica' del PP solicitando simultáneamente el archivo desde el Gobierno y condenas como acusación popular motivó el sobreseimiento definitivo en 2021."
-
+- Invercaria
+- capital riesgo
+- inversión pública
+- sobreseimiento
 documentos: []
-
 cronologia:
-  - fecha: "2005-03-01"
-    titulo: "Creación de Invercaria como empresa pública andaluza"
-    descripcion: "La Junta de Andalucía, bajo presidencia de Manuel Chaves, constituye Invercaria (Inversión y Gestión de Capital Riesgo de Andalucía, S.A.) como sociedad anónima unipersonal participada al 100% por la Agencia IDEA. Su misión es canalizar fondos públicos hacia empresas innovadoras andaluzas mediante préstamos participativos y ordinarios. Desde su fundación comenzará a otorgar ayudas sin verificar adecuadamente la situación económica de las empresas beneficiarias."
-    type: "resumen"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_Invercaria"
-
-  - fecha: "2005-01-01"
-    titulo: "Inicio de los préstamos de Invercaria a Kandor Graphics"
-    descripcion: "Invercaria comienza a conceder préstamos participativos y ordinarios a la productora granadina Kandor Graphics S.L., fundada en 1992 y dedicada a la animación 3D. Entre 2005 y 2011 se formalizarán en total cuatro préstamos participativos y cinco ordinarios por un importe conjunto de 1.498.000 euros. La UDEF detectará posteriormente una ausencia práctica de documentación justificativa en los expedientes, teniendo que reconstruirse los archivos en el momento de la investigación judicial."
-    type: "resumen"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Invercaria/Kandor&numero=675"
-
-  - fecha: "2008-01-01"
-    titulo: "El lince perdido gana el Goya a mejor película de animación"
-    descripcion: "La primera producción de larga duración de Kandor Graphics, 'El lince perdido', estrena con éxito y gana el Goya a mejor película de animación en 2009. La compañía ya había recibido en este periodo varios de los préstamos de Invercaria. Antonio Banderas no entra en el accionariado hasta 2010."
-    type: "resumen"
-    urls:
-      - "https://es.wikipedia.org/wiki/Kandor_Graphics"
-
-  - fecha: "2010-01-01"
-    titulo: "Antonio Banderas entra como accionista con el 20% del capital"
-    descripcion: "El actor malagueño Antonio Banderas adquiere un 20% del capital de Kandor Graphics, convirtiéndose en socio de la productora. Su participación accionarial generará un notable foco mediático sobre las ayudas públicas recibidas por la empresa, especialmente cuando posteriormente se detecten las irregularidades en los préstamos de Invercaria. Banderas nunca será llamado a declarar ante el juez."
-    type: "resumen"
-    urls:
-      - "https://revistaelobservador.com/opinion/50-redaccion/14958-procesan-al-expresidente-de-la-productora-kandor-graphics-marcelino-almansa-por-malversacion-trafico-de-influencias-y-prevaricacion-el-actor-antonio-banderas-era-accionista-de-la-empresa-con-un-20-desde-2010-y-no-lo-llaman-ni-a-declarar"
-
-  - fecha: "2011-11-01"
-    titulo: "Último préstamo concedido en dos días sin informe técnico"
-    descripcion: "Invercaria concede el último préstamo a Kandor Graphics en tan solo dos días desde la solicitud, sin ningún informe técnico que lo justificara, en un momento de grave crisis de financiación de la productora. El importe total acumulado supera el límite de 1.200.000 euros que requería aprobación del Consejo Rector y ratificación del Consejo de Gobierno de la Junta de Andalucía, trámites que no se respetaron. La UDEF señalará además indicios de alteración de fechas en documentos del expediente."
-    type: "resumen"
-    urls:
-      - "https://www.libertaddigital.com/andalucia/2019-09-24/caso-invercaria-tres-presidentes-procesados-por-ayudas-presuntamente-irregulares-a-una-productora-de-cine-1276645215/"
-
-  - fecha: "2012-01-01"
-    titulo: "Primer informe que advierte de malversación en Invercaria"
-    descripcion: "Se conoce el primer informe que advierte de la malversación de fondos en Invercaria. A partir de este momento se irán abriendo más de 30 piezas separadas para investigar el mal uso de los fondos públicos andaluces por parte de la empresa, con un perjuicio total estimado en 28 millones de euros. El Juzgado de Instrucción nº 16 de Sevilla asume la instrucción del macrocaso."
-    type: "investigación"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_Invercaria"
-
-  - fecha: "2013-09-01"
-    titulo: "Fracaso comercial de Justin y la espada del valor"
-    descripcion: "Kandor Graphics estrena 'Justin y la espada del valor', producida con Antonio Banderas como productor ejecutivo y con un presupuesto de 22 millones de euros. La película, distribuida en más de 160 países, recauda apenas 2,3 millones de euros, resultando un fracaso comercial. La deuda acumulada por la compañía, que incluye los préstamos de Invercaria y financiación bancaria superior a 20 millones, precipita su situación de insolvencia."
-    type: "resumen"
-    urls:
-      - "https://revistaelobservador.com/sociedad/12386-dossier-iii-las-irregularidades-en-la-financiacion-de-kandor-graphics-banderas-era-socio-de-la-productora-con-un-20-quebro-despues-de-su-ultimo-proyecto-recibio-ayudas-millonarias-que-no-le-correspondian-legalm"
-
-  - fecha: "2014-01-01"
-    titulo: "Kandor Graphics entra en concurso de acreedores"
-    descripcion: "Tras el fracaso de su última producción y la acumulación de deudas, Kandor Graphics entra en concurso de acreedores en 2014. La empresa había recibido más de 9 millones de euros en ayudas públicas de diversas fuentes, incluyendo los 1.498.000 euros de Invercaria, fondos europeos Jeremie, subvenciones de la Junta de Andalucía y del Ministerio de Industria. Las entidades financieras habían aportado adicionalmente más de 20 millones de euros."
-    type: "resumen"
-    urls:
-      - "https://revistaelobservador.com/sociedad/12386-dossier-iii-las-irregularidades-en-la-financiacion-de-kandor-graphics-banderas-era-socio-de-la-productora-con-un-20-quebro-despues-de-su-ultimo-proyecto-recibio-ayudas-millonarias-que-no-le-correspondian-legalm"
-
-  - fecha: "2017-09-20"
-    titulo: "Primer archivo de la causa por el juez de Sevilla"
-    descripcion: "El juez de Instrucción nº 16 de Sevilla, Juan Gutiérrez Casillas, acuerda el archivo de esta pieza del caso Invercaria tras la solicitud de la Fiscalía Anticorrupción y de la acusación particular ejercida por Invercaria-Inverseed, al considerar que no existían indicios suficientes de delito. La acusación popular del Partido Popular recurre el auto de archivo ante la Audiencia Provincial de Sevilla."
-    type: "procesal"
-    urls:
-      - "https://www.teinteresa.es/tribunales/Invercaria-millones-vinculada-Antoio-Banderas_0_1874212780.html"
-      - "https://www.diariodepontevedra.es/articulo/noticias/alivio-judicial-para-una-empresa-apadrinada-por-banderas/20170922145534499711.html"
-
-  - fecha: "2019-02-22"
-    titulo: "La Audiencia ordena reabrir la causa por recurso del PP"
-    descripcion: "La Sección Tercera de la Audiencia Provincial de Sevilla estima el recurso presentado por la acusación popular del Partido Popular contra el archivo y ordena reabrir la investigación sobre los préstamos concedidos por Invercaria a Kandor Graphics. El tribunal considera que existían indicios suficientes para continuar con la instrucción y que el juez debía profundizar en las irregularidades detectadas por la UDEF."
-    type: "procesal"
-    urls:
-      - "https://www.libertaddigital.com/andalucia/2019-09-24/caso-invercaria-tres-presidentes-procesados-por-ayudas-presuntamente-irregulares-a-una-productora-de-cine-1276645215/"
-
-  - fecha: "2019-09-23"
-    titulo: "Procesamiento de tres expresidentes de Invercaria y el presidente de Kandor"
-    descripcion: "El juez Juan Gutiérrez Casillas dicta auto de procedimiento abreviado contra Tomás Pérez-Sauquillo, Laura Gómiz Nogales y Francisco Álvaro Julio, expresidentes de Invercaria, y contra Marcelino Almansa, expresidente de Kandor Graphics, por presuntos delitos de malversación de caudales públicos, prevaricación administrativa y tráfico de influencias. El juez señala en el auto indicios de falta de seguimiento del plan director, ausencia de información sobre la situación de Kandor y posible alteración de documentos."
-    type: "imputación"
-    urls:
-      - "https://www.teleprensa.com/articulo/sociedad/procesan-a-tres-expresidentes-de-invercaria-por-los-14-millones-en-prestamos-concedidos-a-kandor-graphics/20190923211302137205.html"
-      - "https://revistaelobservador.com/opinion/50-redaccion/14958-procesan-al-expresidente-de-la-productora-kandor-graphics-marcelino-almansa-por-malversacion-trafico-de-influencias-y-prevaricacion-el-actor-antonio-banderas-era-accionista-de-la-empresa-con-un-20-desde-2010-y-no-lo-llaman-ni-a-declarar"
-
-  - fecha: "2019-10-15"
-    titulo: "El PP solicita condenas de hasta seis años de prisión"
-    descripcion: "La acusación popular del Partido Popular presenta su escrito de acusación solicitando para Tomás Pérez-Sauquillo seis años de prisión por malversación y diez años de inhabilitación por prevaricación, y para Marcelino Almansa dos años y medio de cárcel y seis de inhabilitación. Al mismo tiempo, la Junta de Andalucía —gobernada ya por PP y Ciudadanos— a través de IDEA e Inverseed sostiene una posición opuesta y pide el archivo del caso."
-    type: "procesal"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Invercaria/Kandor&numero=675"
-
-  - fecha: "2021-03-15"
-    titulo: "Sobreseimiento libre por falta de legitimación del PP como acusación popular"
-    descripcion: "La Sección Séptima de la Audiencia Provincial de Sevilla decreta el sobreseimiento libre de la causa al declarar la falta de legitimación activa del PP andaluz para formular acusación popular, invocando la llamada 'doctrina Botín'. La Fiscalía Anticorrupción, IDEA e Inverseed —la propia administración pública, controlada por el PP— habían solicitado el archivo por 'inexistencia de indicios de delito'. El fiscal Fernando Soto calificó de 'esquizofrénica' la situación en que el mismo partido que gobernaba Andalucía pedía el sobreseimiento mientras ejercía la acusación popular. La causa queda archivada definitivamente."
-    type: "sentencia"
-    urls:
-      - "https://elindependientedegranada.es/politica/archivada-causa-que-investigo-irregularidades-ayudas-kandor-graphics"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Invercaria/Kandor&numero=675"
+- fecha: '2017-09-20'
+  titulo: Primer archivo de la pieza Kandor
+  descripcion: El instructor acuerda el archivo al no apreciar indicios suficientes de delito. EFE informó
+    el 22 de septiembre de un auto fechado el día 20 y de la existencia de un análisis previo del proyecto.
+    Este archivo sería revocado en apelación.
+  type: procesal
+  urls:
+  - https://www.diariodepontevedra.es/articulo/noticias/alivio-judicial-para-una-empresa-apadrinada-por-banderas/20170922145534499711.html
+- fecha: '2019-02-22'
+  titulo: La Audiencia revoca el archivo
+  descripcion: La Sección Tercera estima parcialmente el recurso del PP y ordena continuar la investigación,
+    incluida la declaración como investigado de Francisco Álvaro Julio. Europa Press publicó el auto fechado
+    el 22 de febrero el 1 de marzo. La resolución recoge indicios, no una condena.
+  type: procesal
+  urls:
+  - https://www.europapress.es/andalucia/noticia-audiencia-sevilla-revoca-archivo-pieza-invercaria-ordena-investigar-expresidente-alvaro-julio-20190301144605.html
+- fecha: '2019-09-05'
+  titulo: Continuación por procedimiento abreviado
+  descripcion: El auto fechado el 5 de septiembre, divulgado por el CGPJ el día 23, continúa contra los tres
+    expresidentes y un responsable de Kandor por indicios de prevaricación, malversación y tráfico de influencias.
+    También acuerda el sobreseimiento provisional parcial respecto de una quinta persona, cuya identidad no
+    se deduce aquí de iniciales.
+  type: procesal
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juez-continua-el-procedimiento-contra-tres-expresidentes-de-Invercaria-y-una-cuarta-persona-por-los-1-4-millones-en-prestamos-concedidos-a-Kandor-Graphics
+- fecha: '2019-11-29'
+  titulo: La Fiscalía reitera su petición de archivo
+  descripcion: 'Diario de Sevilla informa de la oposición de la Fiscalía a abrir juicio: había un proyecto
+    cinematográfico realizado e informes de valoración técnica. El PP pedía penas para Pérez-Sauquillo y Almansa,
+    pero el archivo para Gómiz y Álvaro Julio. Esta fecha corresponde a la publicación, no al escrito fiscal.'
+  type: procesal
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Fiscalia-presidente-Invercaria-doctrina-Botin_0_1413759007.html
+- fecha: '2019-12-12'
+  titulo: Apertura de juicio oral contra dos personas
+  descripcion: Diario de Sevilla publicó el 16 de diciembre que un auto del día 12 abrió juicio únicamente
+    contra Pérez-Sauquillo y Marcelino Almansa Ortiz, acusados por el PP de prevaricación y malversación. La
+    misma noticia informa de otro auto de archivo para Laura Gómiz y Francisco Álvaro Julio por ausencia de
+    acusación, sin precisar la fecha de ese otro auto.
+  type: procesal
+  urls:
+  - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/exculpa-presidentes-Invercaria-ayuda-Kandor_0_1419158388.html
+- fecha: '2021-03-24'
+  titulo: Vista sobre la continuidad de la acusación popular
+  descripcion: La Audiencia celebra una vista para resolver si la causa podía seguir con la sola acusación
+    del PP, mientras Fiscalía, IDEA e Inverseed solicitaban el archivo. No se trata de una sentencia sobre
+    el fondo.
+  type: procesal
+  urls:
+  - https://www.europapress.es/andalucia/noticia-fiscal-ve-esquizofrenia-pieza-invercaria-pedir-junta-archivo-seguir-acusando-pp-20210324161638.html
+- fecha: '2021-04-09'
+  titulo: Se publica el sobreseimiento libre
+  descripcion: Europa Press comunica que la Sección Séptima acordó el sobreseimiento libre sin anular la apertura
+    de juicio oral. La noticia no precisa la fecha del auto y advierte que admite casación. No acredita su
+    firmeza.
+  type: procesal
+  urls:
+  - https://www.europapress.es/andalucia/noticia-audiencia-sevilla-declara-falta-legitimacion-pp-pieza-kandor-invercaria-ordena-archivarla-20210409162625.html
 ---
+
+La ficha se limita a la financiación de **Kandor Graphics**. Los archivos, condenas, absoluciones y recursos de las restantes piezas de Invercaria no se trasladan a este procedimiento.
+
+La [nota oficial del CGPJ de 23 de septiembre de 2019](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juez-continua-el-procedimiento-contra-tres-expresidentes-de-Invercaria-y-una-cuarta-persona-por-los-1-4-millones-en-prestamos-concedidos-a-Kandor-Graphics) identifica el auto de procedimiento abreviado como fechado el **5 de septiembre**. El instructor apreciaba indicios de falta de seguimiento y documentación, posibles alteraciones documentales y superación del umbral de 1.200.000 euros previsto en el plan director. La nota atribuye a una pericial de Taxo la existencia de cuatro préstamos participativos y cinco ordinarios entre 2005 y 2011 y una estimación de perjuicio de **1.734.485,03 euros**. Esta estimación pericial de la instrucción no equivale a daño probado ni a responsabilidad civil declarada. Tampoco se suma a los **1.498.000 euros**, que la propia nota describe como inversión total incluyendo capital y préstamos. Por ello se omite el campo de coste.
+
+La valoración penal fue discutida. [La Fiscalía sostenía en noviembre de 2019](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Fiscalia-presidente-Invercaria-doctrina-Botin_0_1413759007.html) que el proyecto se había realizado y que constaban análisis e informes técnicos, por lo que rechazaba considerar arbitraria la inversión. La afirmación general de que toda la financiación careció de informes no refleja esa discrepancia. Las penas solicitadas por el PP eran peticiones acusatorias, no penas impuestas.
+
+El archivo individual de Gómiz y Álvaro Julio de 2019 se distingue del sobreseimiento libre comunicado en 2021 para la causa que seguía contra Pérez-Sauquillo y Almansa. El último pronunciamiento contrastado es el [auto referido por Europa Press el 9 de abril de 2021](https://www.europapress.es/andalucia/noticia-audiencia-sevilla-declara-falta-legitimacion-pp-pieza-kandor-invercaria-ordena-archivarla-20210409162625.html). Falta obtener su texto íntegro, comprobar su fecha y el eventual recurso de casación. No se presenta como una absolución ni como una resolución cuya firmeza haya quedado acreditada.
+
+**Alcance y pendientes (17 de octubre de 2026):** no se ha verificado un PDF original de los autos ni un pronunciamiento contable específico sobre Kandor. `documentos: []` expresa esa carencia, no la inexistencia de resoluciones. Una [retrospectiva de diciembre de 2025](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/finaliza-instruccion-macrocausa-invercaria-14-anos-investigacion_0_2005511832.html) menciona Kandor entre las piezas que tuvieron auto de procedimiento abreviado; ese recuento histórico no acredita que esta causa continuase abierta. La búsqueda posterior no ha aportado una resolución que modifique el archivo de 2021, pero tampoco permite certificar su firmeza.
