@@ -27,7 +27,12 @@ tags:
   - "malversación"
   - "contratación pública"
 impactoSocial: "La condena y su ejecución suscitaron debate sobre la contratación de familiares y el uso de fondos municipales."
-documentos: []
+documentos:
+- fecha: '2014-01-23'
+  titulo: 'STS 18/2014: casación del caso Valle Gran Rey (ECLI:ES:TS:2014:235)'
+  filetype: pdf
+  paginas: 7
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6b9723873b78a4b8&encode=true&databasematch=AN
 cronologia:
   - fecha: "2008-01-14"
     titulo: "Contrato para la ludoteca municipal"
@@ -35,21 +40,21 @@ cronologia:
     type: "resumen"
     relevancia: "alta"
     urls:
-      - "https://www.acalsl.com/wp-content/uploads/2015/06/Jur_TS-Sala-de-lo-Penal-Seccion-1a-Sentencia-num.-18-2014-de-23-enero_RJ_2014_1002.pdf"
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6b9723873b78a4b8&encode=true&databasematch=AN"
   - fecha: "2012-12-07"
     titulo: "Condena de la Audiencia Provincial"
     descripcion: "La sentencia de la Sección Quinta impuso prisión de cuatro años, seis meses y un día, inhabilitación absoluta de ocho años y un día e inhabilitación especial de siete años. Absolvió a la otra acusada de tráfico de influencias y remitió la cuantificación de la indemnización municipal a ejecución. Se conoce este fallo por su reproducción en la STS."
     type: "sentencia"
     relevancia: "alta"
     urls:
-      - "https://www.acalsl.com/wp-content/uploads/2015/06/Jur_TS-Sala-de-lo-Penal-Seccion-1a-Sentencia-num.-18-2014-de-23-enero_RJ_2014_1002.pdf"
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6b9723873b78a4b8&encode=true&databasematch=AN"
   - fecha: "2014-01-23"
     titulo: "El Supremo desestima la casación"
     descripcion: "La STS 18/2014 declara no haber lugar al recurso 125/2013 y condena al recurrente a las costas del recurso. Su fecha no debe confundirse con las noticias de febrero que difundieron la decisión."
     type: "sentencia"
     relevancia: "alta"
     urls:
-      - "https://www.acalsl.com/wp-content/uploads/2015/06/Jur_TS-Sala-de-lo-Penal-Seccion-1a-Sentencia-num.-18-2014-de-23-enero_RJ_2014_1002.pdf"
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6b9723873b78a4b8&encode=true&databasematch=AN"
       - "https://www.servimedia.es/noticias/366146"
   - fecha: "2014-06-30"
     titulo: "Orden de búsqueda, captura e ingreso en prisión"
@@ -67,10 +72,10 @@ cronologia:
       - "https://www.europapress.es/nacional/noticia-ingresa-prision-exalcalde-valle-gran-rey-gomera-malversacion-20140703133515.html"
 ---
 
-La copia de la STS 18/2014 consultada está alojada por un despacho y lleva formato editorial Thomson Reuters; no se ha recuperado una descarga oficial del órgano judicial. Su texto utiliza seudónimos. La identificación nominal del exalcalde y el parentesco proceden de las noticias contrastadas, sin ampliar la identidad de la acusada a partir de esos seudónimos. Se conserva `documentos: []` mientras no se adjunte una versión oficial verificada.
+La copia editorial inicialmente consultada se ha contrastado con el [PDF oficial de la STS 18/2014](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6b9723873b78a4b8&encode=true&databasematch=AN), de siete páginas. Se leyeron las páginas 1–2 y 7, no todos sus fundamentos. Su texto utiliza seudónimos. La identificación nominal del exalcalde y el parentesco proceden de las noticias contrastadas, sin ampliar la identidad de la acusada a partir de esos seudónimos. Se adjunta la versión oficial verificada.
 
 Los hechos probados reproducidos en la sentencia separan 5.700,86 euros de salario bruto y 1.711,10 euros de Seguridad Social: total 7.411,96 euros de gasto. El fallo difiere la indemnización al Ayuntamiento a la ejecución de sentencia. No se mantiene el coste redondeado de 7.412 euros como responsabilidad civil definitiva ni se suman gasto, indemnización y costas. La fuente judicial corrige la fecha de contratación a 14 de enero de 2008; la noticia local que la situaba en febrero no prevalece sobre el texto de la resolución.
 
 La información de Canarias Ahora de febrero de 2014 sitúa los hechos cuando García pertenecía a Coalición Canaria y explica su posterior acceso a la alcaldía con apoyo del PSOE; Servimedia lo identifica como socialista. La clasificación de esta ficha no implica atribuir al PSOE todas las etapas del cargo.
 
-**Límites al 17 de octubre de 2026:** faltan la sentencia de instancia original, la versión oficial de la STS y las resoluciones de ejecución, responsabilidad civil, indulto y amparo. La firmeza de la condena se atribuye expresamente a la información de EFE sobre el auto de ejecución, no se infiere del transcurso del tiempo. No se afirma que la pena siga cumpliéndose ni que esté extinguida. La revisión permanece incompleta.
+**Límites al 17 de octubre de 2026:** faltan la sentencia de instancia separada y las resoluciones de ejecución, responsabilidad civil, indulto y amparo. La firmeza de la condena se atribuye expresamente a la información de EFE sobre el auto de ejecución, no se infiere del transcurso del tiempo. No se afirma que la pena siga cumpliéndose ni que esté extinguida. La revisión permanece incompleta.
