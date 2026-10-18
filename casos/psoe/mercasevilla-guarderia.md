@@ -3,7 +3,7 @@ nombre: 'Caso Mercasevilla: guardería'
 partido: PSOE
 completado: false
 año: 2004
-estado: cerrado con condenas
+estado: Condena de conformidad; pagos parciales documentados en cuentas de 2025
 descripcion: Pieza sobre la adjudicación de la gestión de la guardería de Mercasevilla y la compensación pagada
   a Gestión Mohefa, distinta del cohecho de la escuela de hostelería, la beca de estudios, los suelos y los ERE.
   Fernando Mellet, exdirector general, aceptó una condena por prevaricación y malversación el 18 de noviembre de
@@ -34,7 +34,12 @@ tags:
 - conformidad
 impactoSocial: La pieza examinó las obligaciones asumidas por un directivo sin comunicar el contrato a los órganos
   de la sociedad y la posterior compensación a la empresa gestora.
-documentos: []
+documentos:
+- fecha: '2026-02-24'
+  titulo: 'Cuentas de Mercasevilla de 2025: firma visible de 24 de febrero de 2026; notas 11.4 y 14.5'
+  filetype: PDF
+  paginas: 56
+  nombre_fichero: https://www.mercasevilla.com/uploads/wysiwyg-editor/informedeauditoriaindependientecuentasanualeseinformedegestion2025.pdf
 cronologia:
 - fecha: '2021-01-14'
   titulo: Se conoce el nuevo señalamiento del juicio
@@ -64,3 +69,5 @@ La [noticia de la conformidad](https://www.diariodesevilla.es/juzgado_de_guardia
 Las [cuentas de 2021](https://www.mercasevilla.com/uploads/Inf.%20de%20Auditoria%20yCCAAMERCASEVILLA31122021.pdf) reconocieron una deuda de 150.252 euros, con 6.000 euros inicialmente consignados y cobrados y previsión de cuotas de 1.000 euros mensuales para el resto. Las de 2025 indican pagos de 9.000 euros durante ese ejercicio y de 11.264,61 en 2024. Son pagos de una misma obligación: no se suman al principal como nuevo daño ni permiten concluir que esté totalmente satisfecha. Se omite un coste agregado porque la responsabilidad civil no se equipara automáticamente a pérdida neta pendiente.
 
 Los sobornos de la escuela de hostelería, la beca de estudios en Londres, la venta de terrenos y las prejubilaciones pertenecen a otros procedimientos. No se atribuyen a esta pieza sus condenas, absoluciones, personas, cifras ni recursos ante el Supremo o el Constitucional.
+
+Se adjuntan las cuentas de 2025 como documento societario, con lectura dirigida a las páginas físicas 37 y 44. La fecha de la ficha documental corresponde a una firma visible de 24 de febrero de 2026, no a una fecha acreditada de publicación ni al fallo judicial. No se sustituye con ellas la sentencia pendiente de recuperar.
