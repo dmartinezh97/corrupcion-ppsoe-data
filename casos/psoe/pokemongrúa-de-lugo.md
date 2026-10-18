@@ -1,89 +1,91 @@
 ---
-nombre: "Pokemon/Grúa de Lugo"
+nombre: 'Pokémon: grúa de Lugo'
 partido: PSOE
-completado: true
+completado: false
 año: 2012
-fechaInicio: 2004-01-01
-fechaFin: "2024-06-25"
-estado: "cerrado con condenas"
-lugar: "Lugo, Galicia"
-coste: 500000
-descripcion: |
-  El caso Pokemon/Grúa de Lugo es la pieza original y central de la Operación Pokémon, la mayor trama de corrupción política investigada en Galicia, instruida desde el Juzgado de Instrucción nº 1 de Lugo por la jueza Pilar de Lara a partir de septiembre de 2012. Esta pieza investiga la adjudicación fraudulenta del servicio municipal de grúa del Concello de Lugo a la empresa Cechalva entre 2004 y 2006, período en que Francisco Fernández Liñares ocupaba la concejalía del Área de Economía del Ayuntamiento de Lugo bajo el mandato del alcalde socialista José López Orozco.
-
-  Liñares, que actuaba simultáneamente como teniente de alcalde, aprovechó su posición de poder para favorecer la concesión a Cechalva en el proceso de adjudicación, obteniendo a cambio beneficios económicos. Según la Fiscalía, la trama funcionó durante al menos siete años: la concesión del servicio de grúa a Cechalva estuvo viciada de irregularidades desde su origen y la empresa operó con una concesión corrupta durante todo ese período. El Ministerio Fiscal solicitó inicialmente para Liñares nueve años y medio de prisión, aunque al llegar al juicio oral en 2024 el acusado llegó a un acuerdo de conformidad con la Fiscalía que redujo su pena notablemente.
-
-  En junio de 2024, la Audiencia Provincial de Lugo cerró la pieza original de la Operación Pokémon con condenas inferiores a tres años de prisión para los once acusados, todos ellos fruto de acuerdos de conformidad con la Fiscalía. Fernández Liñares, quien también reconoció los hechos, fue condenado a dos años y medio de prisión —frente a los nueve y medio pedidos inicialmente— y a una multa de algo más de 100.000 euros. Los delitos reconocidos incluyeron violación de secretos por funcionario público, cohecho, prevaricación y blanqueo de capitales.
-
-resumen: "Adjudicación fraudulenta del servicio de grúa municipal de Lugo a Cechalva entre 2004 y 2006 por el entonces concejal y teniente de alcalde socialista Fernández Liñares, pieza nuclear de la Operación Pokémon."
+estado: condenas y archivo parcial
+lugar: Lugo, Galicia
+descripcion: Pieza de Pokémon sobre la adjudicación del servicio municipal de grúa a Cechalva. El 24 de junio de
+  2024 los once acusados ratificaron una conformidad ante la Audiencia de Lugo. Según EFE y Europa Press, Francisco
+  Fernández Liñares aceptó dos años y seis meses de prisión y 105.000 euros de multa por delitos de violación de
+  secretos, cohecho, prevaricación y blanqueo; las penas de los restantes acusados fueron distintas. José López
+  Orozco había obtenido el sobreseimiento provisional en esta pieza, conocido en septiembre de 2018, y no forma
+  parte de esas condenas. No se han recuperado los originales de la sentencia de conformidad y del archivo para
+  cotejar íntegramente penas, firmeza, responsabilidades civiles o ejecución hasta el corte del 17 de octubre de
+  2026. La presencia de Liñares en prisión al celebrarse la vista respondía a otra causa; no acredita por sí misma
+  el cumplimiento de esta condena. No hay daño global cuantificado verificado.
+resumen: Conformidad de 2024 por la grúa de Lugo; sobreseimiento provisional previo para Orozco, con resultados
+  individuales diferenciados.
 tribunal:
-  - "Juzgado de Instrucción nº 1 de Lugo - Jueza Pilar de Lara"
-  - "Audiencia Provincial de Lugo"
-numeroSentencia: ""
+- Juzgado de Instrucción número 1 de Lugo
+- Audiencia Provincial de Lugo
 implicados:
-  - nombre: "Francisco Fernández Liñares"
-    cargo: "Exconcejal del Área de Economía y teniente de alcalde del Concello de Lugo (PSOE)"
-    rol: "Principal condenado: acordó a dos años y medio de cárcel y multa de 100.000 euros por cohecho, prevaricación, violación de secretos y blanqueo de capitales"
-
-  - nombre: "José López Orozco"
-    cargo: "Exalcalde de Lugo (PSOE)"
-    rol: "Investigado como alcalde durante el período de las adjudicaciones irregulares; no constan cargos por los pagos de la concesión de grúa"
-
+- nombre: Francisco Fernández Liñares
+  cargo: Exconcejal y exteniente de alcalde de Lugo (PSOE)
+  rol: 'Conformidad ratificada el 24 de junio de 2024: dos años y seis meses de prisión y 105.000 euros de multa
+    según EFE; términos completos, firmeza y ejecución pendientes de original.'
+- nombre: José López Orozco
+  cargo: Exalcalde de Lugo (PSOE)
+  rol: Sobreseimiento provisional en la pieza de la grúa, conocido el 27 de septiembre de 2018. No condenado en
+    la conformidad de 2024.
+- nombre: Javier Reguera
+  cargo: Vinculado al accionariado y gestión de Cechalva según la información del juicio
+  rol: Condena de conformidad de dos años y cinco meses por aprovechamiento de información privilegiada, cohecho,
+    falsedad mercantil y delito contable, según Europa Press reproducida por Lugo Xornal.
+- nombre: Manuel Santiso
+  cargo: Vinculado al accionariado de Cechalva según la información del juicio
+  rol: Condena de conformidad de dos años y un mes por aprovechamiento de información privilegiada, cohecho, falsedad
+    mercantil y delito contable, según la misma fuente.
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "prevaricación"
-  - "blanqueo de capitales"
-  - "contratación irregular"
-  - "servicios municipales"
-  - "Galicia"
-
-impactoSocial: "La Operación Pokémon fue la mayor investigación por corrupción política destapada en Galicia, con un centenar de personas imputadas entre directivos empresariales, políticos y funcionarios. La pieza de la grúa de Lugo, su núcleo original, demostró el funcionamiento de una red de corrupción municipal sistemática en el Ayuntamiento de Lugo bajo gobierno socialista. Las condenas finales, muy inferiores a las solicitadas inicialmente por la Fiscalía, generaron una amplia controversia sobre la eficacia del sistema judicial en casos de corrupción política."
-
-documentos: null
-
+- Pokémon
+- grúa municipal
+- cohecho
+- prevaricación
+- blanqueo
+- conformidad
+impactoSocial: La larga instrucción llevó a aplicar una atenuante muy cualificada de dilaciones indebidas en la
+  conformidad. La pieza no representa por sí sola el desenlace de toda la macrocausa Pokémon.
+documentos: []
 cronologia:
-  - fecha: "2004-01-01"
-    titulo: "Adjudicación fraudulenta del servicio de grúa municipal a Cechalva"
-    descripcion: "Francisco Fernández Liñares, como concejal del Área de Economía del Ayuntamiento de Lugo, favorece la adjudicación del servicio de grúa municipal a la empresa Cechalva, aprovechando su posición de poder e influencia sobre el proceso de licitación. A cambio obtiene beneficios económicos. La concesión se extenderá durante al menos siete años bajo este acuerdo corrupto."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://www.elprogreso.es/articulo/lugo/acuerdo-que-multas-pesan-mas-que-carcel-cierra-caso-pokemon/202406251235571769054.html"
-
-  - fecha: "2009-01-01"
-    titulo: "Liñares asume la presidencia de la Confederación Hidrográfica Miño-Sil"
-    descripcion: "Francisco Fernández Liñares abandona la concejalía de Lugo para asumir la presidencia de la Confederación Hidrográfica Miño-Sil, un organismo estatal dependiente del Ministerio de Medio Ambiente. Desde este nuevo cargo continuará con prácticas corruptas de adjudicación de contratos, que serán investigadas en la pieza separada Pokemon/Miño-Sil."
-    type: "resumen"
-    relevancia: "media"
-    urls:
-      - "https://es.wikipedia.org/wiki/Operaci%C3%B3n_Pok%C3%A9mon"
-
-  - fecha: "2012-09-20"
-    titulo: "La jueza Pilar de Lara destapa la Operación Pokémon"
-    descripcion: "El Juzgado de Instrucción nº 1 de Lugo, a cargo de la jueza Pilar de Lara, hace pública la denominada Operación Pokémon, una macrocausa contra la presunta corrupción en distintos ayuntamientos gallegos. Las escuchas telefónicas y las investigaciones apuntan a Francisco Fernández Liñares como principal acusado. La operación acumula cerca de un centenar de imputados entre políticos, funcionarios y empresarios."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://es.wikipedia.org/wiki/Operaci%C3%B3n_Pok%C3%A9mon"
-      - "https://www.elprogreso.es/articulo/lugo/decada-operacion-pokemon/202209201633581601582.html"
-
-  - fecha: "2021-02-01"
-    titulo: "Primer juicio derivado de la Operación Pokémon: pieza de la grúa"
-    descripcion: "Comienza en la Audiencia Provincial de Lugo el primer juicio derivado de la macrocausa Operación Pokémon, centrado en la pieza de la adjudicación fraudulenta del servicio de grúa municipal. El fiscal mantiene la petición de nueve años y medio de cárcel para Liñares y penas para los demás diez acusados. El proceso se desarrolla a lo largo de varias sesiones."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.elcorreogallego.es/galicia/2021/02/19/llega-juicio-piezas-operacion-pokemon-109801566.html"
-      - "https://www.cope.es/emisoras/galicia/lugo-provincia/lugo/lugo-provincia/noticias/finaliza-instruccion-operacion-pokemon-con-investigados-entre-ellos-fernandez-linares-20211008_1546741"
-
-  - fecha: "2024-06-25"
-    titulo: "Cierre del caso con condenas inferiores a tres años para los once acusados"
-    descripcion: "La Audiencia Provincial de Lugo cierra la pieza original de la Operación Pokémon con condenas de prisión inferiores a tres años para cada uno de los once acusados, todos ellos fruto de acuerdos de conformidad con la Fiscalía. Francisco Fernández Liñares, quien ya cumplía condena por la pieza Miño-Sil, es condenado a dos años y medio de prisión y a una multa de algo más de 100.000 euros por cohecho, prevaricación, violación de secretos y blanqueo. La grúa municipal de Lugo había funcionado durante al menos siete años con una concesión corrupta."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.elprogreso.es/articulo/lugo/acuerdo-que-multas-pesan-mas-que-carcel-cierra-caso-pokemon/202406251235571769054.html"
-      - "https://www.infolibre.es/politica/operacion-pokemon-llega-acuerdo-confirmidad-ministerio-fiscal-acusados_1_1825563.html"
-      - "https://www.eldiario.es/galicia/11-acusados-pieza-inicial-pokemon-llegan-acuerdo-fiscalia-rebaja-penas_1_10674911.html"
+- fecha: '2018-09-27'
+  titulo: Se conoce el archivo provisional para Orozco
+  descripcion: El País informa del sobreseimiento provisional acordado por la Audiencia en la pieza de la grúa por
+    falta de corroboración de la imputación. La fecha es de publicación; falta el auto original.
+  urls:
+  - https://elpais.com/ccaa/2018/09/27/galicia/1538071472_147503.html
+  type: resolucion
+  relevancia: alta
+- fecha: '2021-09-30'
+  titulo: Auto de continuación para trece investigados
+  descripcion: Europa Press identifica un auto de esta fecha que concluye la instrucción y continúa las actuaciones
+    de la grúa contra trece personas. Los hechos se presentan entonces como indicios, no como condenas.
+  urls:
+  - https://www.europapress.es/galicia/noticia-concluye-investigacion-pieza-principal-pokemon-causa-cuenta-13-sospechosos-ellos-linares-20211007164017.html
+  type: investigacion
+  relevancia: alta
+- fecha: '2023-11-10'
+  titulo: Se conoce el acuerdo previo con Fiscalía
+  descripcion: Europa Press informa de un pacto de los once acusados pendiente de ratificación en una vista. No
+    se equipara ese acuerdo previo a la sentencia posterior.
+  urls:
+  - https://www.europapress.es/galicia/noticia-11-acusados-pieza-principal-pokemon-llegan-acuerdo-fiscalia-rebaja-penas-20231110160321.html
+  type: juicio
+  relevancia: alta
+- fecha: '2024-06-24'
+  titulo: Ratificación de la conformidad ante la Audiencia
+  descripcion: EFE y Europa Press relatan el reconocimiento de los hechos y las penas aceptadas. Liñares compareció
+    por videoconferencia desde prisión por otra causa. La fecha de la vista no sustituye una fecha de firma de sentencia
+    no comprobada.
+  urls:
+  - https://cadenaser.com/galicia/2024/06/24/linares-y-otros-diez-procesados-en-la-pokemon-reconocen-hechos-a-cambio-de-rebajas-de-pena-radio-lugo/
+  type: juicio
+  relevancia: alta
 ---
+
+La [información de 2021](https://www.europapress.es/galicia/noticia-concluye-investigacion-pieza-principal-pokemon-causa-cuenta-13-sospechosos-ellos-linares-20211007164017.html) sitúa la adjudicación en 2005 y describe indicios de acceso anticipado a información, pagos y una contabilidad B. Las cifras de comisiones recogidas en aquel auto de instrucción no equivalen a un daño patrimonial declarado en sentencia. Se retira el coste de 500.000 euros sin respaldo verificable. Los períodos 2004–2006 se mantienen como marco referido en prensa del juicio, sin inventar un día inicial.
+
+La [noticia del acuerdo de 2023](https://www.europapress.es/galicia/noticia-11-acusados-pieza-principal-pokemon-llegan-acuerdo-fiscalia-rebaja-penas-20231110160321.html) y la [ratificación de 2024](https://cadenaser.com/galicia/2024/06/24/linares-y-otros-diez-procesados-en-la-pokemon-reconocen-hechos-a-cambio-de-rebajas-de-pena-radio-lugo/) son actos distintos. La [crónica de Europa Press](https://lugoxornal.gal/lugo-contorna/65280-penas-de-prision-inferiores-a-tres-anos-para-os-imputados-na-peza-orixinal-da-operacion-pokemon/) identifica condenas diferentes para Liñares, Reguera, Santiso y los restantes acusados. No se reconstruyen nombres a partir de iniciales de otros implicados. Tampoco se asigna automáticamente a cada persona el conjunto de delitos de todos los acusados. El original judicial sigue siendo necesario para verificar el desglose completo, las inhabilitaciones y las personas jurídicas.
+
+El [archivo provisional de Orozco](https://elpais.com/ccaa/2018/09/27/galicia/1538071472_147503.html) no es una absolución tras juicio ni una condena. La falta de corroboración de una declaración de referencia fue central en la resolución descrita por el periódico. Sus otras investigaciones no se trasladan a la grúa.
+
+La [información de septiembre de 2026](https://galego.lavozdegalicia.es/noticia/lugo/2026/09/02/fernandez-linares-unico-politico-encarcelado-operacion-pokemon-disfruta-permisos-pese-rechazo-fiscalia/00031788355382068357769.htm) sobre permisos de Liñares solo ofrece acceso al encabezamiento y comienzo del texto, con el resto bajo suscripción. No permite documentar aquí la liquidación de condenas de esta pieza, su acumulación o suspensión individual. Las condenas por la Confederación Hidrográfica Miño-Sil y otras ramas de Pokémon son distintas. Las previsiones de las defensas sobre suspensiones no se presentan como decisiones judiciales ya adoptadas.
