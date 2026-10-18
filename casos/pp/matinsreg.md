@@ -1,130 +1,178 @@
 ---
-nombre: "Matinsreg"
+nombre: Matinsreg
 partido: PP
-completado: true
+completado: false
 año: 2017
-fechaInicio: 2012-08-08
-fechaFin: "2026-02-11"
-estado: "cerrado con condenas"
-descripcion: |
-  El caso Matinsreg destapó una trama de sobrefacturación masiva de servicios municipales de mantenimiento en el Ayuntamiento de Jaén durante los años 2012 y 2013, bajo el mandato del entonces alcalde del PP José Enrique Fernández de Moya. La empresa Matinsreg SLU, con sede en Toro (Zamora), fue adjudicada de forma irregular —mediante procedimiento de emergencia y sin soporte contractual— para hacerse cargo del servicio de fuentes ornamentales y alumbrado de la ciudad. El exconcejal de Mantenimiento Urbano Manuel del Moral (PP) se concertó con los empresarios de Matinsreg para que la compañía emitiera facturas con conceptos irreales y precios absolutamente desorbitados.
+fechaFin: ''
+estado: condenas firmes según información de ejecutoria; en ejecución
+descripcion: |-
+  La causa principal Matinsreg trata de la facturación falsa o inflada de servicios municipales de Jaén entre el 8 de agosto de 2012 y el 15 de septiembre de 2013. Tras el abandono de la anterior prestadora, se encargaron reparaciones de alumbrado, semáforos y fuentes a Matinsreg SLU. La sentencia de casación describe documentos de encargo y un informe municipal sobre tramitación de emergencia, aunque no hubo contrato administrativo formal y la Intervención formuló reparos. No se confunde esa ausencia de contrato con ausencia de todo documento ni se atribuye culpabilidad al exalcalde José Enrique Fernández de Moya, que fue absuelto.
 
-  El fraude alcanzó cotas escandalosas en la valoración de los suministros y la mano de obra. El cloro se facturó al Ayuntamiento a 69 euros por litro cuando su precio real de adquisición era de apenas 0,23 euros por litro —más de 300 veces su valor real—, en expresión del Tribunal Supremo, "a precio de champán francés". El cemento fue igualmente inflado, a lo que el Supremo calificó como "precio del caviar". Además, se facturaron 48.236 horas de mano de obra correspondientes a una plantilla de entre 22 y 29 trabajadores que la empresa jamás tuvo contratados. El perjuicio económico neto causado al Ayuntamiento de Jaén, descontando los trabajos efectivamente realizados, fue estimado en 2.759.045,74 euros.
+  El esquema acreditado consistía en facturar productos, cantidades y horas que no se correspondían con la realidad. Se recogieron 48.236 horas de mano de obra, equivalentes a una plantilla mensual de entre 22 y 29 trabajadores que la empresa no tuvo, sin que ello signifique que no realizara ningún trabajo. El cloro comprado a 0,23 euros por litro se facturó a 69 euros: la relación es de 300 veces, no más de 300. Se retiran expresiones valorativas y comparaciones que no son necesarias para explicar el fraude.
 
-  La causa fue iniciada por una querella presentada por el grupo municipal socialista a finales de 2017. Tras años de instrucción, el juicio oral se celebró en abril de 2021 ante la Sección Tercera de la Audiencia de Jaén, que condenó a siete de los nueve acusados y absolvió al exalcalde Fernández de Moya. Tras el recurso al Tribunal Superior de Justicia de Andalucía (TSJA), que en enero de 2023 absolvió al exconcejal García Anguita, el Tribunal Supremo confirmó en febrero de 2026 la condena definitiva de Manuel del Moral a cuatro años de prisión y la de los empresarios implicados, dando por cerrada la causa con una indemnización solidaria al Ayuntamiento de 3.465.372,90 euros.
+  El daño y la responsabilidad civil no se reducen a los 2.759.045,74 euros heredados. La STS 119/2026 recoge ese perjuicio tras descontar trabajos realmente realizados y añade 582.572,05 euros abonados a la AEAT y 123.755,11 euros a la TGSS por embargos de Matinsreg: el total coincide con la indemnización solidaria de 3.465.372,90 euros. El campo coste recoge una sola vez ese daño indemnizable, sin sumar de nuevo la responsabilidad civil ni los 3.774.956,33 euros de pagos descritos en la resolución. La consignación de un millón de euros antes del juicio fue reparación parcial; no acredita por sí sola cuánto ha recuperado finalmente el Ayuntamiento. Extra Jaén informó el 30 de septiembre de 2026 de una recuperación previa de alrededor de un millón, atribuida al Ayuntamiento, y de un nuevo ingreso de 1.000 euros por González Valero el 14 de septiembre. La propia crónica advierte que la suma orientativa no es contabilidad municipal exacta. Faltan los justificantes originales; no se afirma cobro íntegro ni se resta esta recuperación al daño histórico.
 
-resumen: "Sobrefacturación fraudulenta de servicios municipales en Jaén que estafó 2,7 millones al Ayuntamiento mediante facturas falsas"
-coste: 2759045
-lugar: "Jaén, Andalucía"
+  La Audiencia Provincial de Jaén, Sección Tercera, dictó la sentencia 193/2021 el 28 de junio de 2021, no el 1 de julio. Condenó inicialmente a siete de los nueve acusados y absolvió al exalcalde y a otra acusada. El TSJA, en sentencia 1/2023 de 11 de enero, publicada por la prensa el día 13, absolvió también a Miguel Ángel García Anguita, al técnico municipal y a otro acusado, y modificó las penas de los empresarios. El resultado penal fue cuatro condenados, no siete condenas conservadas íntegramente.
+
+  El Supremo desestimó las casaciones en la sentencia 119/2026, de 11 de febrero, difundida el 24 de febrero. Manuel del Moral Negrillo quedó condenado por malversación continuada a cuatro años de prisión y ocho años y un día de inhabilitación absoluta; fue absuelto de falsedad, cohecho y prevaricación. José Merino Acero e Isidoro Hipólito Cobo Sáiz recibieron cinco años de prisión por falsedad mercantil continuada en concurso medial con malversación continuada, y Luis Gregorio González Valero un año y diez meses, con las penas de inhabilitación que se detallan abajo. No se atribuye a Del Moral una condena por cohecho ni se describe toda la contratación como prevaricación probada.
+
+  Jaén Hoy informó el 31 de marzo de 2026 de la declaración de firmeza de 19 de marzo, en la ejecutoria penal 12/2026; Extra Jaén publicó el requerimiento de ingreso voluntario para los tres condenados con penas superiores a dos años y el trámite para estudiar la suspensión de la pena de González Valero. No se ha recuperado el auto original. Una noticia de Crónicas de Jaén de 12 de octubre sitúa el ingreso de Del Moral el 25 de abril, atribuyéndolo a un escrito judicial facilitado a ABC: se recoge como información periodística pendiente de corroboración documental, sin dar por verificado un calendario futuro de excarcelación. No constan aquí comprobados el ingreso de los demás, la decisión final sobre suspensión ni la recuperación íntegra de la indemnización. Las piezas separadas sobre otras empresas no se consideran cerradas por estas sentencias de la causa principal.
+resumen: 'Facturas falsas o infladas de servicios municipales de Jaén: cuatro condenados tras apelación y casación,
+  absoluciones individuales y responsabilidad civil solidaria de 3.465.372,90 euros; ejecución iniciada en 2026
+  según prensa.'
+coste: 3465372.9
+lugar: Jaén, Andalucía
 tribunal:
-  - "Audiencia Provincial de Jaén - Sección Tercera"
-  - "Tribunal Superior de Justicia de Andalucía (TSJA)"
-  - "Tribunal Supremo - Sala de lo Penal"
-numeroSentencia: ""
+- Juzgado de Instrucción número 2 de Jaén (instrucción; procedimiento abreviado 33/2019)
+- Audiencia Provincial de Jaén - Sección Tercera
+- Tribunal Superior de Justicia de Andalucía (TSJA)
+- Tribunal Supremo - Sala de lo Penal
+numeroSentencia: AP Jaén 193/2021, de 28-06-2021; TSJA 1/2023, de 11-01-2023; STS 119/2026, de 11-02-2026 (ROJ STS
+  646/2026; ECLI:ES:TS:2026:646)
 implicados:
-  - nombre: "Manuel del Moral"
-    cargo: "Exconcejal de Mantenimiento Urbano del Ayuntamiento de Jaén (PP)"
-    rol: "Condenado a 4 años por malversación y cohecho; coordinador de la trama"
-
-  - nombre: "José Enrique Fernández de Moya"
-    cargo: "Exalcalde de Jaén y exsecretario de Estado de Hacienda (PP)"
-    rol: "Absuelto por falta de pruebas suficientes de participación directa"
-
-  - nombre: "Miguel Ángel García Anguita"
-    cargo: "Exconcejal del Ayuntamiento de Jaén (PP)"
-    rol: "Condenado por la Audiencia; absuelto en apelación por el TSJA"
-
-  - nombre: "José Merino"
-    cargo: "Empresario vinculado a Matinsreg SLU"
-    rol: "Condenado a 5 años de prisión por fraude y falsedad documental"
-
-  - nombre: "Isidoro Hipólito Cobo"
-    cargo: "Empresario vinculado a Matinsreg SLU"
-    rol: "Condenado a 5 años de prisión por fraude y falsedad documental"
-
-  - nombre: "Luis Gregorio González Valero"
-    cargo: "Empresario vinculado a Matinsreg SLU"
-    rol: "Condenado a 1 año y 10 meses de prisión por participación en el fraude"
-
+- nombre: Manuel del Moral Negrillo
+  cargo: Exconcejal de Mantenimiento Urbano del Ayuntamiento de Jaén (PP)
+  rol: Cuatro años de prisión por malversación continuada; ocho años y un día de inhabilitación absoluta y sufragio
+    pasivo durante la prisión. Absuelto de falsedad, cohecho y prevaricación. Casación desestimada en 2026.
+- nombre: José Enrique Fernández de Moya
+  cargo: Exalcalde de Jaén y exsecretario de Estado de Hacienda (PP)
+  rol: Absuelto en primera instancia de malversación y prevaricación; absolución confirmada en apelación. La Fiscalía
+    no pidió condenarlo, a diferencia de las acusaciones municipal y popular.
+- nombre: Miguel Ángel García Anguita
+  cargo: Exconcejal del Ayuntamiento de Jaén (PP)
+  rol: Condenado inicialmente a cuatro años por malversación; absuelto de ese delito por el TSJA en 2023, que confirmó
+    sus absoluciones por los demás delitos.
+- nombre: José Merino Acero
+  cargo: Empresario vinculado a la causa principal Matinsreg; identificación nominal recogida en la prensa sobre
+    la ejecutoria
+  rol: Cinco años de prisión por falsedad mercantil continuada en concurso medial con malversación continuada; ocho
+    años y un día de inhabilitación absoluta y sufragio pasivo durante la prisión. Casación desestimada.
+- nombre: Isidoro Hipólito Cobo Sáiz
+  cargo: Empresario vinculado a la causa principal Matinsreg; identificación nominal recogida en la prensa sobre
+    la ejecutoria
+  rol: Cinco años de prisión y las mismas inhabilitaciones que José Merino por los mismos delitos; casación desestimada.
+    No condenado por prevaricación.
+- nombre: Luis Gregorio González Valero
+  cargo: Empresario vinculado a la causa principal Matinsreg; identificación nominal recogida en la prensa sobre
+    la ejecutoria
+  rol: Un año y diez meses de prisión por falsedad mercantil continuada en concurso medial con malversación continuada;
+    tres años de inhabilitación absoluta y sufragio pasivo durante la prisión. Atenuantes muy cualificadas de confesión
+    tardía y reparación del daño. Suspensión de prisión sometida a trámite en marzo de 2026; desenlace no verificado.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "cohecho"
-  - "fraude"
-  - "prevaricación"
-  - "falsedad documental"
-
-impactoSocial: "El caso generó gran indignación ciudadana en Jaén por la magnitud de la sobrefacturación y la implicación de cargos municipales del PP. El Tribunal Supremo lo cerró en febrero de 2026 con condenas firmes y una indemnización de 3,46 millones al Ayuntamiento."
-
-documentos: []
-
+- malversación
+- falsedad documental
+- facturación municipal
+- absoluciones
+- ejecución penal
+impactoSocial: La causa afectó a las cuentas municipales de Jaén. La obligación solidaria de indemnizar no equivale
+  a recuperación efectiva del dinero. Las absoluciones del exalcalde, García Anguita y otros acusados deben distinguirse
+  de las cuatro condenas subsistentes.
+documentos:
+- fecha: '2026-02-11'
+  titulo: 'Tribunal Supremo: sentencia 119/2026, ROJ STS 646/2026, ECLI:ES:TS:2026:646; recurso 1687/2023'
+  filetype: pdf
+  paginas: 30
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=2ffc7bbfb0ab04c1a0a8778d75e36f0d&encode=true&databasematch=TS
 cronologia:
-  - fecha: 2012-08-08
-    titulo: "Adjudicación irregular del servicio de fuentes ornamentales a Matinsreg"
-    descripcion: "El Ayuntamiento de Jaén, bajo el mandato del alcalde del PP José Enrique Fernández de Moya, adjudica de forma irregular el servicio de mantenimiento de fuentes ornamentales y alumbrado a la empresa Matinsreg SLU, con sede en Toro (Zamora), mediante procedimiento de emergencia y sin soporte contractual. El exconcejal Manuel del Moral (PP) actúa como nexo entre el consistorio y la empresa."
-    type: "resumen"
-    urls:
-      - "https://www.publico.es/politica/exalcalde-jaen-enfrenta-juicio-presunto-fraude-ayuntamiento-cuatro-millones-euros.html"
-
-  - fecha: 2013-09-15
-    titulo: "Fin del periodo de facturación fraudulenta"
-    descripcion: "Concluye el período de prestación del servicio por parte de Matinsreg SLU, durante el cual la empresa emitió facturas con conceptos irreales y precios desorbitados. Se facturaron productos como cloro a 69 euros por litro (coste real: 0,23 €/litro) y 48.236 horas de mano de obra de trabajadores que nunca existieron. El quebranto económico neto para el Ayuntamiento asciende a 2.759.045,74 euros."
-    type: "resumen"
-    urls:
-      - "https://www.lavozdelsur.es/ediciones/jaen/caso-matinsreg-ex-edil-pp-jaen-condenado-trama-fantasma-estafo-ayuntamiento_352352_102.html"
-
-  - fecha: 2017-12-01
-    titulo: "Querella del PSOE ante el Juzgado de Instrucción nº 2 de Jaén"
-    descripcion: "El grupo municipal socialista del Ayuntamiento de Jaén presenta una querella denunciando los pagos inflados a Matinsreg. La querella señala que la empresa fue adjudicada sin soporte contractual mediante procedimiento de emergencia y que las facturas abonadas por el consistorio responden a conceptos irreales. El Juzgado de Instrucción nº 2 de Jaén abre diligencias."
-    type: "denuncia"
-    urls:
-      - "https://lacontradejaen.eldiario.es/sentencia-matinsreg/"
-
-  - fecha: 2018-06-18
-    titulo: "Manuel del Moral es señalado como investigado por el juez"
-    descripcion: "El juez instructor del Juzgado de Instrucción nº 2 de Jaén señala formalmente al exconcejal de Mantenimiento Urbano Manuel del Moral como investigado en la causa por el caso Matinsreg, al acreditarse que aprobó 99 facturas presuntamente falsas emitidas por Matinsreg."
-    type: "investigación"
-    urls:
-      - "https://www.andaluciainformacion.es/articulo/jaen/el-juez-senala-al-exedil-manuel-del-moral-en-el-caso-matinsreg/201806181941012018110.html"
-      - "https://www.cope.es/emisoras/andalucia/jaen-provincia/jaen/noticias/concejal-del-manuel-del-moral-suma-lista-investigados-causa-abierta-por-presuntos-pagos-inflados-por-mantenimiento-las-fuentes-20180619_228983"
-
-  - fecha: 2019-11-01
-    titulo: "Auto de apertura del juicio oral"
-    descripcion: "El juzgado instructor dicta auto de apertura del juicio oral contra los nueve acusados, entre ellos el exalcalde Fernández de Moya, los exconcejales Manuel del Moral y Miguel Ángel García Anguita, un técnico municipal y los empresarios vinculados a Matinsreg. La Sección Tercera de la Audiencia Provincial de Jaén queda como tribunal competente para el juicio."
-    type: "investigación"
-    urls:
-      - "https://www.andaluciainformacion.es/articulo/jaen/la-audiencia-de-jaen-senala-para-abril-el-juicio-del-caso-matinsreg/202010131820372299593.html"
-
-  - fecha: 2021-04-05
-    titulo: "Inicio del juicio oral en la Audiencia Provincial de Jaén"
-    descripcion: "Comienza el juicio oral ante la Sección Tercera de la Audiencia Provincial de Jaén contra los nueve acusados. Las sesiones se prolongan a lo largo de 12 días en abril de 2021. El PSOE como acusación particular solicitó para el exalcalde Fernández de Moya penas de hasta 11 años de cárcel por prevaricación, malversación y cohecho. Se llamaron 36 testigos para declarar sobre los hechos."
-    type: "declaración"
-    urls:
-      - "https://www.horajaen.com/2021/04/05/comienza-el-juicio-contra-el-ex-alcalde-fernandez-de-moya-por-prevaricacion-y-malversacion/"
-      - "https://lacontradejaen.eldiario.es/testigos-en-el-caso-matinsreg-jaen/"
-
-  - fecha: 2021-07-01
-    titulo: "Sentencia de la Audiencia Provincial de Jaén: condenas a siete acusados"
-    descripcion: "La Sección Tercera de la Audiencia Provincial de Jaén dicta sentencia condenando a siete de los nueve acusados. El exalcalde Fernández de Moya es absuelto por falta de pruebas suficientes. Los exconcejales Manuel del Moral y Miguel Ángel García Anguita reciben cuatro años de prisión cada uno. Los empresarios José Merino e Isidoro Cobo son condenados a cinco años. Luis Gregorio González, a un año y diez meses. Los siete condenados deberán indemnizar solidariamente al Ayuntamiento en 3.465.372,90 euros."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/andalucia/jaen/caso-matinsreg-audiencia-condena-exconcejales-ayuntamiento-jaen-absuelve-exalcalde-fernandez-moya_1_8138833.html"
-      - "https://lacontradejaen.eldiario.es/sentencia-matinsreg/"
-
-  - fecha: 2023-01-13
-    titulo: "El TSJA absuelve al exconcejal García Anguita en apelación"
-    descripcion: "El Tribunal Superior de Justicia de Andalucía (TSJA) estima el recurso de apelación del exconcejal Miguel Ángel García Anguita y lo absuelve, al considerar que la sentencia de la Audiencia de Jaén no ofrecía base probatoria suficiente para sustentar su condena por malversación. El resto de condenas se mantienen."
-    type: "sentencia"
-    urls:
-      - "https://www.horajaen.com/2023/01/13/el-tsja-absuelve-al-exconcejal-garcia-anguita-en-el-caso-matinsreg/"
-      - "https://www.diariojaen.es/jaen/el-tsja-absuelve-a-miguel-angel-garcia-anguita-en-el-caso-matinsreg-HA8839889"
-
-  - fecha: 2026-02-11
-    titulo: "El Tribunal Supremo confirma las condenas y cierra definitivamente el caso"
-    descripcion: "La Sala de lo Penal del Tribunal Supremo desestima los recursos de casación interpuestos por el exconcejal Manuel del Moral y los empresarios José Merino, Isidoro Cobo y Luis Gregorio González, ratificando las penas de prisión de entre uno y cinco años. El Supremo confirma la condena de cuatro años a Del Moral y califica el fraude con la expresión de que el cloro se facturó \"a precio de champán francés\" y el cemento \"al del caviar\". Los condenados deben indemnizar solidariamente al Ayuntamiento de Jaén con 3.465.372,90 euros."
-    type: "sentencia"
-    urls:
-      - "https://www.infobae.com/espana/agencias/2026/02/24/el-tribunal-supremo-confirma-la-condena-del-exconcejal-de-jaen-manuel-del-moral-pp-en-el-caso-matinsreg/"
-      - "https://www.horajaen.com/2026/02/24/el-supremo-ratifica-las-penas-del-caso-matinsreg-y-da-por-cerrada-la-causa-por-fraude-en-servicios-municipales-de-jaen/"
-      - "https://www.elplural.com/autonomias/andalucia/cloro-precio-champan-frances-cemento-caviar-supremo-condena-exconcejal-pp-jaen-caso-matinsreg_382425102"
+- fecha: '2012-08-08'
+  titulo: Encargo de reparaciones a Matinsreg
+  descripcion: La transcripción de la STS recoge un documento de encargo firmado por la alcaldesa accidental el
+    8 de agosto de 2012 para reparaciones de alumbrado, semáforos y fuentes. Hubo documentos e informe sobre emergencia,
+    aunque no contrato formal. No se identifica a la firmante mediante equivalencias con el seudónimo judicial.
+  type: resumen
+  urls:
+  - https://www.iberley.es/jurisprudencia/sentencia-penal-tribunal-supremo-sala-lo-penal-11-2-26-1840743814
+- fecha: '2013-09-15'
+  titulo: Fin del periodo de facturación fraudulenta
+  descripcion: La sentencia sitúa aquí el fin de los servicios y del período de facturación examinado. El daño indemnizable
+    total asciende a 3.465.372,90 euros conforme al desglose de la descripción; no todo lo facturado era trabajo
+    inexistente.
+  type: resumen
+  urls:
+  - https://www.iberley.es/jurisprudencia/sentencia-penal-tribunal-supremo-sala-lo-penal-11-2-26-1840743814
+- fecha: '2018-06-18'
+  titulo: Se publica la citación de Del Moral como investigado
+  descripcion: Andalucía Información publica la citación para declarar el 25 de junio y los indicios relativos a
+    99 facturas. La fecha es de la noticia, no del auto original; la investigación no equivalía a condena.
+  type: investigación
+  urls:
+  - https://www.andaluciainformacion.es/articulo/jaen/el-juez-senala-al-exedil-manuel-del-moral-en-el-caso-matinsreg/201806181941012018110.html
+  - https://www.cope.es/emisoras/andalucia/jaen-provincia/jaen/noticias/concejal-del-manuel-del-moral-suma-lista-investigados-causa-abierta-por-presuntos-pagos-inflados-por-mantenimiento-las-fuentes-20180619_228983
+- fecha: '2021-04-05'
+  titulo: Comienza el juicio de la causa principal
+  descripcion: La Sección Tercera de la Audiencia de Jaén inicia el juicio contra nueve acusados. La Fiscalía no
+    acusaba al exalcalde, mientras las acusaciones municipal y popular pedían condena. Los doce días indicados en
+    la noticia de señalamiento eran sesiones previstas; no se afirma que se celebraran todas ni se fija un total
+    de testigos sin actas.
+  type: declaración
+  urls:
+  - https://www.horajaen.com/2021/04/05/comienza-el-juicio-contra-el-ex-alcalde-fernandez-de-moya-por-prevaricacion-y-malversacion/
+  - https://lacontradejaen.eldiario.es/testigos-en-el-caso-matinsreg-jaen/
+- fecha: '2021-06-28'
+  titulo: Sentencia 193/2021 de la Audiencia Provincial
+  descripcion: Siete condenas iniciales y absoluciones del exalcalde y de otra acusada. La apelación posterior absolvió
+    a tres de los condenados y modificó penas y calificaciones. No se trasladan retroactivamente a 2021 las penas
+    definitivas de 2023.
+  type: sentencia
+  urls:
+  - https://www.iberley.es/jurisprudencia/sentencia-penal-tribunal-supremo-sala-lo-penal-11-2-26-1840743814
+  - https://www.eldiario.es/andalucia/jaen/caso-matinsreg-audiencia-condena-exconcejales-ayuntamiento-jaen-absuelve-exalcalde-fernandez-moya_1_8138833.html
+  - https://lacontradejaen.eldiario.es/sentencia-matinsreg/
+- fecha: '2023-01-11'
+  titulo: 'Sentencia 1/2023 del TSJA: absoluciones y modificación de penas'
+  descripcion: El TSJA absuelve a García Anguita, al técnico municipal y a otro acusado, mantiene las dos absoluciones
+    iniciales y deja cuatro condenados, con penas individuales descritas en esta ficha. La noticia es del día 13,
+    pero la sentencia es del 11. Confirma responsabilidad civil solidaria de 3.465.372,90 euros.
+  type: sentencia
+  urls:
+  - https://www.iberley.es/jurisprudencia/sentencia-penal-tribunal-supremo-sala-lo-penal-11-2-26-1840743814
+  - https://www.horajaen.com/2023/01/13/el-tsja-absuelve-al-exconcejal-garcia-anguita-en-el-caso-matinsreg/
+  - https://www.diariojaen.es/jaen/el-tsja-absuelve-a-miguel-angel-garcia-anguita-en-el-caso-matinsreg-HA8839889
+- fecha: '2026-02-11'
+  titulo: 'STS 119/2026: desestimación de las casaciones'
+  descripcion: El Supremo desestima los recursos contra la sentencia del TSJA de 11 de enero de 2023 y mantiene
+    cuatro condenas. El fallo declara que no cabe recurso; la información sobre firmeza y ejecutoria de marzo se
+    recoge aparte. La noticia se difundió el 24 de febrero, no el día de la sentencia.
+  type: sentencia
+  urls:
+  - https://www.iberley.es/jurisprudencia/sentencia-penal-tribunal-supremo-sala-lo-penal-11-2-26-1840743814
+  - https://www.horajaen.com/2026/02/24/el-supremo-ratifica-las-penas-del-caso-matinsreg-y-da-por-cerrada-la-causa-por-fraude-en-servicios-municipales-de-jaen/
+- fecha: '2026-03-19'
+  titulo: Declaración de firmeza y apertura de ejecución, según prensa
+  descripcion: Jaén Hoy atribuye al 19 de marzo la resolución de la Sección Tercera en la ejecutoria 12/2026. Extra
+    Jaén informa del requerimiento de ingreso para Del Moral, Merino y Cobo y del trámite de posible suspensión
+    para González Valero. El auto original y el resultado de este último trámite no se han recuperado; requerimiento
+    no equivale a ingreso efectivo.
+  type: sentencia
+  urls:
+  - https://www.jaenhoy.es/jaen/condena-firme-matinsreg-prision-responsables-concejal-ayuntamiento-jaen_0_2006350553.html
+  - https://www.extrajaen.com/jaen/ordenan-el-ingreso-en-prision-en-10-dias-de-los-condenados-de-matinsreg
+- fecha: '2026-09-30'
+  titulo: Se informa de recuperaciones parciales de la responsabilidad civil
+  descripcion: Extra Jaén atribuye al Ayuntamiento una recuperación previa de alrededor de un millón de euros e
+    informa de un ingreso adicional de 1.000 euros por Luis Gregorio González Valero el 14 de septiembre de 2026.
+    El día 30 es la fecha de publicación. La crónica advierte que la suma orientativa no constituye contabilidad
+    municipal exacta. No se han cotejado justificantes originales ni un saldo contable actualizado; no se afirma
+    recuperación íntegra ni se reduce el daño histórico fijado en sentencia.
+  type: resumen
+  urls:
+  - https://extrajaen.com/jaen/al-ayuntamiento-aun-le-faltan-por-recibir-24-millones-del-caso-matinsreg
+- fecha: '2026-10-12'
+  titulo: Se informa del ingreso en prisión de Del Moral
+  descripcion: Crónicas de Jaén sitúa el ingreso el 25 de abril de 2026, atribuyendo la información a un escrito
+    judicial facilitado a ABC. Esta fecha es la de publicación; falta cotejar el escrito y corroborar el ingreso.
+    No se incorpora como acreditada una fecha futura de excarcelación.
+  type: resumen
+  urls:
+  - https://cronicasdejaen.com/el-exconcejal-del-pp-condenado-por-la-red-de-facturas-infladas-en-el-ayuntamiento-de-jaen-ya-duerme-en-prision/
 ---
+
+## Alcance y límites de la revisión
+
+Revisión a 17 de octubre de 2026. Se ha recuperado el original CENDOJ de la STS 119/2026 mediante GET con HTTP200 y formato PDF verificado (30 páginas). Se han leído íntegramente sus páginas 1–10 y 30: cabecera, antecedentes, hechos y fallos reproducidos de instancia y apelación, pasajes económicos y fallo de casación. No se afirma lectura íntegra de los fundamentos de las páginas 11–29. La fecha del acto es el 11 de febrero de 2026; la fecha de exportación del PDF no se usa como fecha judicial. Los nombres completos y penas se contrastan con noticias nominales de la ejecutoria de marzo de 2026, sin deducir identidades de los seudónimos judiciales. No se incorporan nombres completos del técnico y otros absueltos sin revalidación nominal suficiente.
+
+La querella del grupo municipal socialista se sitúa a finales de 2017 y el auto de apertura de juicio oral en noviembre de 2019 según la prensa histórica leída. Se retiran los días 1 de diciembre y 1 de noviembre que no estaban acreditados. Faltan esos autos y la denuncia original, así como las actas para confirmar todas las sesiones y testigos anunciados. Las sospechas iniciales de cohecho y prevaricación no se presentan como condenas. Las piezas separadas sobre otras empresas necesitan seguimiento propio: el fallo de la causa principal no prueba su cierre.
+
+La declaración de firmeza y el requerimiento de prisión se apoyan en prensa que reproduce una ejecutoria; queda pendiente su original, el cumplimiento individual, las decisiones sobre suspensión y el cobro efectivo de la responsabilidad civil. La noticia de octubre sobre el ingreso de Del Moral se identifica como información pendiente de corroboración documental. No se presume que toda la causa esté materialmente ejecutada ni se fija fecha de fin global.
+
+El encargo del 8 de agosto de 2012 se mantiene como hito de los hechos, sin fijar `fechaInicio` de la investigación. La noticia de Extra Jaén del 30 de septiembre de 2026 sobre recuperaciones parciales se recoge con atribución expresa: no sustituye la contabilidad municipal ni acredita la ejecución completa de la responsabilidad civil.
