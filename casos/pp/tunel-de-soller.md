@@ -1,117 +1,156 @@
 ---
-nombre: "Caso Túnel de Sóller"
+nombre: Caso Túnel de Sóller
 partido: PP
-completado: true
+completado: false
 año: 1995
-fechaInicio: 1995-04-07
-fechaFin: 1998-12-15
-estado: "cerrado con absolución por prescripción"
-descripcion: |
-  El Caso Túnel de Sóller fue un escándalo de corrupción que provocó la dimisión forzosa del presidente de las Islas Baleares Gabriel Cañellas en julio de 1995. Los hechos consistieron en la adjudicación irregular de las obras de construcción del Túnel de Sóller al empresario Antoni Cuart, socio del propio presidente, y el pago por parte de éste de 50 millones de pesetas (unos 300.000 euros) a la Fundació Illes Balears —presidida por Cañellas— y al Partido Popular balear para financiar las campañas electorales de 1989 y 1991. El 30 de enero de 1989, Cuart giró un cheque que fue redistribuido en diez transferencias de cinco millones de pesetas cada una entre proveedores de la campaña electoral del PP previa a los comicios europeos.
+fechaInicio: '1995-04-07'
+estado: Absoluciones; cohecho prescrito
+descripcion: 'La causa penal examinó la concesión del túnel de Sóller y la entrega de 50 millones de pesetas por
+  su adjudicatario, Antoni Cuart, con fondos destinados a pagos del PP balear. Gabriel Cañellas y José Antonio Berastáin
+  fueron absueltos por prescripción del cohecho; la prevaricación no quedó establecida. Jeroni Saiz fue absuelto
+  de prevaricación. La sentencia 1417/1998 del Supremo, de 16 de diciembre, estimó parcialmente el recurso de Izquierda
+  Unida respecto de Cuart, apreció también en su conducta cohecho y lo absolvió por prescripción en una segunda
+  sentencia. No hubo condena penal ejecutable por esos hechos. Los 50 millones de pesetas son la dádiva examinada,
+  no un perjuicio patrimonial público cuantificado.
 
-  El proceso judicial comenzó el 7 de abril de 1995 cuando Eberhard Grosske, diputado de Izquierda Unida, denunció al presidente Gabriel Cañellas, al consejero de Obras Públicas Bartomeu Reus y al exconsejero Jeroni Saiz por presunta prevaricación continuada en la adjudicación del túnel. La investigación reveló que la empresa de Cuart no presentaba la mejor oferta técnica, pero resultó adjudicataria tras el soborno. José María Aznar, entonces candidato del PP a la presidencia del Gobierno, obligó a Cañellas a dimitir el 13 de julio de 1995, declarando públicamente que "no hay cabida para corruptos en el Partido Popular".
 
-  Pese a que el Tribunal Superior de Justicia de Baleares declaró en julio de 1997 acreditado el delito de cohecho, todos los acusados fueron absueltos por prescripción del delito. El Tribunal Supremo confirmó esta absolución en diciembre de 1998. La sentencia consideró que, aunque la adjudicación del túnel fue legal desde el punto de vista administrativo, Cañellas cometió un delito de cohecho que había prescrito penalmente. El túnel fue inaugurado el 19 de febrero de 1997, en pleno proceso judicial, y la concesión administrativa se mantuvo vigente durante 33 años.
-resumen: "Soborno de 50 millones de pesetas para adjudicar el Túnel de Sóller y financiar campañas del PP balear"
-coste: 300000
-lugar: "Sóller, Mallorca (Illes Balears)"
+  Debe distinguirse ese proceso del litigio contencioso sobre el rescate de la concesión acordado en 2017: el Supremo
+  confirmó su anulación en julio de 2023. Se han verificado ambas sentencias del Supremo, pero falta el original
+  autónomo de la sentencia penal balear de 1997, el testimonio de firmeza y la liquidación económica final del rescate.
+  Las búsquedas posteriores no permiten dar por comprobada su ejecución a 17 de octubre de 2026.'
+resumen: Absoluciones y prescripción del cohecho en la concesión del túnel de Sóller
+lugar: Sóller, Mallorca (Illes Balears)
 tribunal:
-  - "Tribunal Superior de Justicia de Baleares"
-  - "Tribunal Supremo"
-numeroSentencia: ""
+- Tribunal Superior de Justicia de las Islas Baleares
+- Tribunal Supremo, Sala de lo Penal
+- Tribunal Supremo, Sala de lo Contencioso-Administrativo (litigio separado sobre rescate)
+numeroSentencia: 'STS 1417/1998, de 16 de diciembre (ECLI:ES:TS:1998:7651); rescate: STS 1097/2023, de 25 de julio
+  (ECLI:ES:TS:2023:3592)'
 implicados:
-  - nombre: "Gabriel Cañellas Fons"
-    cargo: "Presidente del Gobierno Balear (1983-1995) y presidente del PP balear"
-    rol: "Recibió soborno de 50 millones de pesetas para adjudicar irregularmente el túnel; absuelto por prescripción"
-
-  - nombre: "Antoni Cuart"
-    cargo: "Empresario financiero mallorquín"
-    rol: "Entregó el soborno a Cañellas a cambio de la adjudicación de la concesión del túnel"
-
-  - nombre: "Bartomeu Reus"
-    cargo: "Consejero de Obras Públicas del Gobierno Balear"
-    rol: "Denunciado por prevaricación en la adjudicación; investigado en el proceso judicial"
-
-  - nombre: "Jeroni Saiz"
-    cargo: "Ex consejero del Gobierno Balear"
-    rol: "Denunciado por presunta participación en la adjudicación irregular del túnel"
-
-  - nombre: "Eberhard Grosske"
-    cargo: "Diputado de Izquierda Unida en el Parlament balear"
-    rol: "Denunciante que destapó el caso presentando querella el 7 de abril de 1995"
-
-  - nombre: "José María Aznar"
-    cargo: "Presidente del PP nacional y candidato a la presidencia del Gobierno"
-    rol: "Forzó la dimisión de Cañellas en julio de 1995 para limpiar la imagen del partido"
-
+- nombre: Gabriel Cañellas
+  cargo: Expresidente del Gobierno balear y del PP balear
+  rol: Absuelto de prevaricación y por prescripción del cohecho; el Supremo desestimó su recurso, que pretendía
+    una exoneración distinta de la prescripción.
+- nombre: Antoni Cuart
+  cargo: Empresario adjudicatario de la concesión
+  rol: 'El Supremo modificó su absolución inicial por cohecho: apreció el delito, pero lo absolvió por prescripción.
+    Se mantuvo su absolución de prevaricación.'
+- nombre: José Antonio Berastáin
+  cargo: Exsecretario general del PP balear y exconseller de Función Pública
+  rol: Absuelto por prescripción del cohecho en relación con el manejo de los fondos; el Supremo desestimó su recurso.
+    La identificación nominal se contrasta en prensa, sin reconstruir el seudónimo judicial.
+- nombre: Jeroni Saiz
+  cargo: Exconseller de Obras Públicas
+  rol: Acusado y absuelto de prevaricación. No se le atribuye una absolución por prescripción de cohecho.
+- nombre: Eberhard Grosske
+  cargo: Dirigente de Izquierda Unida en Baleares
+  rol: Representante político de la formación que ejerció la acusación popular y recurrió. La documentación leída
+    no acredita que firmase personalmente la denuncia inicial.
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "prevaricación"
-  - "financiación irregular"
-  - "adjudicación irregular"
-  - "tráfico de influencias"
-
-impactoSocial: "El caso provocó un terremoto político en Baleares y marcó el primer gran escándalo de corrupción del PP en democracia. La dimisión forzada de Cañellas por Aznar estableció un precedente simbólico sobre tolerancia cero a la corrupción, aunque la posterior absolución por prescripción generó frustración ciudadana y reforzó la percepción de impunidad judicial en casos de corrupción política."
-
-documentos: []
-
+- cohecho
+- prescripción
+- concesión de obra pública
+- financiación de partidos
+impactoSocial: El caso tuvo consecuencias políticas para Cañellas, que dejó la presidencia en 1995 tras la presión
+  de la dirección nacional del PP. El túnel abrió en 1997. La posterior controversia sobre el peaje y el rescate
+  de su explotación dio lugar a un proceso administrativo distinto del penal.
+documentos:
+- fecha: '1998-12-16'
+  titulo: 'STS 1417/1998: casación y segunda sentencia del caso Sóller'
+  filetype: pdf
+  paginas: 33
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3f9703885ae4376d&encode=true&databasematch=AN
+- fecha: '2023-07-25'
+  titulo: 'STS 1097/2023: rescate de la concesión del túnel de Sóller'
+  filetype: pdf
+  paginas: 12
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a4bef1d40f55fa76a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: 1988-01-01
-    titulo: "Adjudicación inicial de la concesión a Antoni Cuart"
-    descripcion: "El Gobierno Balear, presidido por Gabriel Cañellas, adjudica la concesión administrativa para la construcción y explotación del Túnel de Sóller al empresario Antoni Cuart. La concesión tiene una duración de 33 años. Posteriormente se demostraría que Cuart no presentaba la mejor oferta técnica pero ganó la adjudicación tras el pago de un soborno."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/soborno-millonario-repartido-cuentas-pp-origen-obra-polemica-ultimos-30-anos-baleares_1_7236054.html"
-
-  - fecha: 1989-01-30
-    titulo: "Antoni Cuart gira el cheque de 50 millones de pesetas"
-    descripcion: "El empresario Antoni Cuart, adjudicatario del Túnel de Sóller, gira un cheque por 50 millones de pesetas dirigido a Gabriel Cañellas. Este dinero se destinó a la Fundació Illes Balears, presidida por el propio Cañellas, y fue redistribuido en diez cheques de cinco millones de pesetas cada uno para financiar la campaña electoral del PP de cara a las elecciones europeas de 1989."
-    type: "documento"
-    urls:
-      - "https://www.eldiario.es/politica/soborno-millonario-repartido-cuentas-pp-origen-obra-polemica-ultimos-30-anos-baleares_1_7236054.html"
-
-  - fecha: 1989-02-23
-    titulo: "Formalización de la concesión administrativa"
-    descripcion: "Apenas 24 días después del pago del soborno, se formaliza oficialmente la concesión administrativa del Túnel de Sóller a favor de la empresa de Antoni Cuart. La cronología entre el pago y la formalización resultaría clave en la investigación judicial posterior para acreditar el delito de cohecho."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/soborno-millonario-repartido-cuentas-pp-origen-obra-polemica-ultimos-30-anos-baleares_1_7236054.html"
-
-  - fecha: 1995-04-07
-    titulo: "Eberhard Grosske denuncia el caso ante la justicia"
-    descripcion: "El diputado de Izquierda Unida Eberhard Grosske presenta una querella formal ante los tribunales contra Gabriel Cañellas (presidente balear), Bartomeu Reus (consejero de Obras Públicas) y Jeroni Saiz (exconsejero) por presunta prevaricación continuada en la adjudicación irregular de las obras del Túnel de Sóller. La denuncia activa la investigación judicial que acabaría sacando a la luz el soborno de 50 millones de pesetas."
-    type: "denuncia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+T%C3%BAnel+de+S%C3%B3ller&numero=96"
-
-  - fecha: 1995-07-13
-    titulo: "Gabriel Cañellas dimite forzado por José María Aznar"
-    descripcion: "Tras estallar el escándalo, el presidente nacional del PP José María Aznar, entonces candidato a la presidencia del Gobierno, obliga a Gabriel Cañellas a dimitir como presidente del Gobierno Balear y como presidente del PP balear. Aznar declara públicamente que 'no hay cabida para corruptos en el Partido Popular', en un intento de blindar la imagen del partido de cara a las elecciones generales de 1996. La dimisión marca un punto de inflexión en la carrera política de Cañellas."
-    type: "declaración"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+T%C3%BAnel+de+S%C3%B3ller&numero=96"
-      - "https://www.elplural.com/autonomias/corrupcion-popular-en-baleares-de-canellas-a-matas_82814102"
-
-  - fecha: 1997-02-19
-    titulo: "Inauguración del Túnel de Sóller"
-    descripcion: "Pese al escándalo judicial en curso, el Túnel de Sóller es inaugurado oficialmente y entra en funcionamiento. La infraestructura comunica Palma con Sóller y se convierte en una de las obras públicas más importantes de Baleares en los últimos 30 años, aunque su origen esté manchado por la corrupción. La concesión administrativa se mantiene vigente durante el proceso judicial."
-    type: "resumen"
-    urls:
-      - "https://www.ultimahora.es/noticias/part-forana/2022/02/19/1701509/anos-cruzando-tunel.html"
-
-  - fecha: 1997-07-01
-    titulo: "El TSJB declara probado el cohecho pero absuelve por prescripción"
-    descripcion: "El Tribunal Superior de Justicia de Baleares dicta sentencia en el caso. Los magistrados consideran acreditado que Gabriel Cañellas cometió un delito de cohecho al recibir 50 millones de pesetas de Antoni Cuart a cambio de adjudicarle irregularmente la concesión del túnel, alterando los resultados de la licitación. Sin embargo, todos los acusados son absueltos porque el delito había prescrito legalmente. La sentencia genera indignación ciudadana al confirmar la corrupción pero declarar la impunidad."
-    type: "sentencia"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/1998/12/15/979597/supremo-confirma-absolucion-canellas-por-prescripcion-caso-tunel-soller.html"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+T%C3%BAnel+de+S%C3%B3ller&numero=96"
-
-  - fecha: 1998-12-15
-    titulo: "El Tribunal Supremo confirma la absolución por prescripción"
-    descripcion: "El Tribunal Supremo ratifica la sentencia del TSJB y confirma la absolución de Gabriel Cañellas y los demás implicados por prescripción del delito de cohecho. El alto tribunal valida que, aunque la adjudicación del túnel fue formalmente legal desde el punto de vista administrativo, el ex presidente cometió un delito de cohecho que quedó impune por el paso del tiempo. La confirmación judicial cierra definitivamente el caso tres años y medio después de la denuncia inicial."
-    type: "sentencia"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/1998/12/15/979597/supremo-confirma-absolucion-canellas-por-prescripcion-caso-tunel-soller.html"
+- fecha: '1989-01-30'
+  titulo: Entrega del cheque de 50 millones de pesetas
+  descripcion: La sentencia del Supremo toma como fecha del cohecho la entrega del cheque de 50 millones de pesetas.
+    Describe su fraccionamiento en diez talones y el uso de fondos en pagos vinculados al PP. No es una cuantificación
+    de daño público.
+  type: resumen
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3f9703885ae4376d&encode=true&databasematch=AN
+- fecha: '1995-04-07'
+  titulo: Inicio del procedimiento por denuncia
+  descripcion: La sentencia original del Supremo fecha en este día la denuncia que inició el procedimiento penal.
+    No identifica aquí al firmante nominal de esa denuncia.
+  type: denuncia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3f9703885ae4376d&encode=true&databasematch=AN
+- fecha: '1997-02-19'
+  titulo: Inauguración del túnel
+  descripcion: La infraestructura entra en servicio, según el balance de su vigesimoquinto aniversario. Su apertura
+    no equivale al cierre de la causa penal.
+  type: resumen
+  urls:
+  - https://www.ultimahora.es/noticias/part-forana/2022/02/19/1701509/anos-cruzando-tunel.html
+- fecha: '1997-07-24'
+  titulo: Sentencia del tribunal balear
+  descripcion: 'La STS reproduce el fallo de instancia: absoluciones de prevaricación, absolución inicial del adjudicatario
+    por cohecho y absoluciones por prescripción del cohecho de otros dos acusados. No todas las absoluciones obedecían
+    al mismo motivo.'
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3f9703885ae4376d&encode=true&databasematch=AN
+  - https://elpais.com/diario/1997/07/29/espana/870127211_850215.html
+- fecha: '1998-11-10'
+  titulo: Vista de los recursos de casación
+  descripcion: Servimedia informa de la vista sobre los recursos de la acusación y de las defensas. La pretensión
+    de condena no debe confundirse con el posterior fallo.
+  type: recurso
+  urls:
+  - https://www.servimedia.es/noticias/tunel-soller-supremo-decidira-dos-semanas-si-ratifica-sentencia-canellas-delito-cohecho-------alto-tribunal-celebro-hoy-vista-recursos------resolucion-costo-cargo-ex-presidente-balear/1410993623
+- fecha: '1998-12-16'
+  titulo: Sentencia del Supremo y segunda sentencia
+  descripcion: El Supremo mantiene las absoluciones y estima parcialmente el recurso de Izquierda Unida respecto
+    del cohecho del adjudicatario, a quien absuelve por prescripción. Se utiliza la fecha del original, frente a
+    una noticia fechada el día 15.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3f9703885ae4376d&encode=true&databasematch=AN
+  - https://www.dbalears.cat/balears/balears/1998/12/16/37602/el-suprem-ratifica-que-canellas-va-cometre-suborn-en-el-cas-tunel.html
+- fecha: '2017-08-02'
+  titulo: Acuerdo de rescate de la concesión
+  descripcion: El Consell de Mallorca acuerda el rescate; el acuerdo de diciembre actualizó la indemnización a 16.288.200,50
+    euros. Este importe pertenece al expediente administrativo y no es daño declarado en la causa penal histórica.
+  type: resumen
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a4bef1d40f55fa76a0a8778d75e36f0d&encode=true&databasematch=AN
+- fecha: '2023-07-25'
+  titulo: El Supremo confirma la anulación del rescate
+  descripcion: La Sala de lo Contencioso-Administrativo desestima la casación del Consell contra la sentencia balear
+    de 15 de febrero de 2021. Es un procedimiento diferente del penal de 1995–1998.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a4bef1d40f55fa76a0a8778d75e36f0d&encode=true&databasematch=AN
 ---
+
+## Hechos y decisiones penales
+
+El procedimiento se inició por una denuncia de 7 de abril de 1995. La sentencia del Supremo describe una entrega de 50 millones de pesetas el 30 de enero de 1989 y el fraccionamiento posterior del dinero en diez cheques, con pagos al partido y a proveedores. El destino político del dinero no excluyó la apreciación del cohecho. El pago no se transforma por ello en un daño público de 300.000 euros.
+
+La sentencia balear de 24 de julio de 1997, reproducida en la casación, distinguió las absoluciones de prevaricación de las derivadas de la prescripción del cohecho. El Supremo descartó que el relato probado permitiera apreciar la prevaricación solicitada por la acusación. Por tanto, se retira la afirmación de que se hubiera probado judicialmente una adjudicación prevaricadora por alteración de la licitación.
+
+El Supremo desestimó los recursos de las defensas, pero estimó parcialmente el de Izquierda Unida en relación con Cuart: apreció el cohecho del particular y, en su segunda sentencia de la misma fecha, lo absolvió al estar prescrito. Esta modificación no supuso imponerle una pena. La prescripción extingue la responsabilidad criminal y no equivale a declarar inexistentes todos los hechos descritos.
+
+Las identidades y los resultados individuales se contrastan con las noticias nominales de El País, Diari de Balears y Servimedia. No se asignan nombres a los seudónimos de CENDOJ. El original de 1998 tiene fecha de 16 de diciembre; la fecha 15 que figura en una noticia de Última Hora no sustituye la fecha judicial.
+
+## Concesión y rescate: otro procedimiento
+
+La apertura del túnel el 19 de febrero de 1997 fue un hito de la obra, no una resolución penal. El rescate aprobado por el Consell en 2017 generó un litigio contencioso-administrativo propio. La sentencia 1097/2023 del Supremo, de 25 de julio, confirmó su anulación. En sus antecedentes recoge el importe de 16.288.200,50 euros fijado en el acuerdo de diciembre de 2017: es una indemnización administrativa prevista en el rescate, no el soborno de 1989 ni una responsabilidad civil penal. No se suman ambas cantidades.
+
+La liquidación final y los posibles actos de ejecución posteriores del rescate no se han verificado. Tampoco se dispone del original independiente de la sentencia penal balear de 1997 ni de un testimonio separado de firmeza. Estas lagunas no se cubren suponiendo que no hubo más actuaciones.
+
+## Fuentes
+
+- [Tribunal Supremo, sentencia 1417/1998 y segunda sentencia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3f9703885ae4376d&encode=true&databasematch=AN)
+- [El País, resultados de instancia, 29 de julio de 1997](https://elpais.com/diario/1997/07/29/espana/870127211_850215.html)
+- [Diari de Balears, casación, 16 de diciembre de 1998](https://www.dbalears.cat/balears/balears/1998/12/16/37602/el-suprem-ratifica-que-canellas-va-cometre-suborn-en-el-cas-tunel.html)
+- [El País, identificación y resultado de Berastáin, 6 de abril de 2007](https://elpais.com/diario/2007/04/06/espana/1175810409_850215.html)
+- [Servimedia, vista de casación, 10 de noviembre de 1998](https://www.servimedia.es/noticias/tunel-soller-supremo-decidira-dos-semanas-si-ratifica-sentencia-canellas-delito-cohecho-------alto-tribunal-celebro-hoy-vista-recursos------resolucion-costo-cargo-ex-presidente-balear/1410993623)
+- [Última Hora, aniversario de la apertura, 19 de febrero de 2022](https://www.ultimahora.es/noticias/part-forana/2022/02/19/1701509/anos-cruzando-tunel.html)
+- [Tribunal Supremo, sentencia 1097/2023 sobre rescate](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a4bef1d40f55fa76a0a8778d75e36f0d&encode=true&databasematch=AN)
