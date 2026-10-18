@@ -32,7 +32,6 @@ descripcion: 'La investigación Edu en Huelva examinó la gestión de subvencion
   firmeza quedan pendientes de cotejo documental; por ello no se fija un cierre global y la revisión permanece incompleta.'
 resumen: Archivo de la pieza principal sobre cargos de Empleo comunicado en julio de 2018; piezas empresariales
   y firmeza pendientes de comprobación completa.
-coste: 0
 lugar: Huelva, Andalucía
 tribunal:
 - Juzgado de Instrucción número 5 de Huelva
@@ -132,7 +131,7 @@ Los hechos relativos a Formades, Punta Umbría, otras provincias o la pieza pol�
 
 ## Importes y límites de revisión
 
-Europa Press sitúa el ámbito investigado en subvenciones de la convocatoria de 2011 y refiere cerca de 12 millones de euros para 129 entidades. Es volumen examinado, no daño declarado. El umbral de 120.000 euros mencionado al separar piezas empresariales tampoco cuantifica un perjuicio probado. `coste: 0` indica que esta revisión no dispone de una cuantificación judicial de daño para esta ficha; no significa que se haya demostrado la inexistencia de cualquier perjuicio administrativo.
+Europa Press sitúa el ámbito investigado en subvenciones de la convocatoria de 2011 y refiere cerca de 12 millones de euros para 129 entidades. Es volumen examinado, no daño declarado. El umbral de 120.000 euros mencionado al separar piezas empresariales tampoco cuantifica un perjuicio probado. Se omite el campo `coste` porque no se dispone de una cuantificación judicial de daño; esa falta de cuantificación no demuestra la inexistencia de perjuicio administrativo.
 
 No se han obtenido originales verificables del auto principal de archivo, de los recursos o de las resoluciones individuales empresariales. El enlace judicial heredado devuelve una página de mantenimiento pese a un HTTP 200; no acredita lectura de una resolución. Una memoria de Fiscalía localizada en búsquedas redirige a autenticación y tampoco se presenta como PDF leído. Se mantiene `documentos: []`.
 
