@@ -22,8 +22,6 @@ descripcion: 'El caso Rasputín se refiere a los justificantes de un club de alt
 resumen: Gastos privados de un club de Moscú incluidos en la documentación de un viaje oficial balear. Dimisión
   del gerente de Ibatur y archivo fiscal, según prensa contemporánea.
 lugar: Islas Baleares, España (hechos en Moscú, Rusia)
-tribunal:
-- Fiscalía del Tribunal Superior de Justicia de Baleares
 numeroSentencia: ''
 implicados:
 - nombre: Juan Carlos Alía
@@ -45,14 +43,19 @@ tags:
 impactoSocial: El episodio provocó una dimisión y un debate sobre el control de los gastos de representación
   y la responsabilidad política. La denuncia por posible malversación debe distinguirse del resultado de las
   diligencias fiscales.
-documentos: []
+documentos:
+- fecha: '2004-11-12'
+  titulo: BOPIB 62; respuestas de Turismo de 23 de septiembre sobre el viaje y Rasputín (PDF páginas 49–51)
+  filetype: pdf
+  paginas: 59
+  nombre_fichero: https://web.parlamentib.es/repositori/PUBLICACIONS/6/bopibs/bopib-06-062.pdf
 cronologia:
 - fecha: '2004-07-08'
   titulo: Dimisión de Juan Carlos Alía
   descripcion: Majorca Daily Bulletin publicó el 9 de julio que Alía había presentado su dimisión el día anterior.
     Explicó que entregó por error justificantes en ruso entre los gastos del viaje y negó que Matas o Flaquer
     le acompañaran al club. El día exacto del viaje de febrero no se ha verificado.
-  type: declaracion
+  type: declaración
   urls:
   - https://www.majorcadailybulletin.com/news/local/2004/07/09/9752/balearics-rocked-strip-club-scandal.html
 - fecha: '2004-07-09'
@@ -60,7 +63,7 @@ cronologia:
   descripcion: La crónica de EFE reproducida por Libertad Digital recoge su negativa a asistir al local y la
     cifra de 129 euros por siete entradas. Se trata de sus declaraciones, no de hechos declarados probados
     por un tribunal.
-  type: declaracion
+  type: declaración
   urls:
   - https://www.libertaddigital.com/nacional/matas-sobre-el-caso-rasputin-estamos-en-el-siglo-xxi-y-cada-uno-hace-con-su-vida-lo-que-quiere-1276227437/
 - fecha: '2004-07-24'
@@ -68,20 +71,26 @@ cronologia:
   descripcion: Ultima Hora informa de diligencias informativas tras la denuncia del Lobby de Dones por posible
     malversación, para decidir si se enviaba el caso al juzgado. Es fecha de publicación, sin decreto de apertura
     obtenido.
-  type: investigacion
+  type: investigación
   urls:
   - https://www.ultimahora.es/noticias/local/2004/07/24/651425/la-fiscalia-de-balears-acuerda-abrir-diligencias-por-el-caso-rasputin.html
 - fecha: '2004-09-01'
   titulo: Archivo de las diligencias fiscales
   descripcion: El País del 2 de septiembre sitúa el archivo el día anterior. No se dispone del decreto original;
     no se equipara a una sentencia ni a sobreseimiento judicial firme.
-  type: investigacion
+  type: investigación
   urls:
   - https://elpais.com/diario/2004/09/02/espana/1094076011_850215.html
+- fecha: '2004-09-23'
+  titulo: Respuestas parlamentarias sobre el viaje y el reintegro
+  descripcion: Joan Flaquer afirmó que al Govern solo le constaba la asistencia de Alía al local y que este había reintegrado los gastos. Son respuestas del conseller publicadas en el BOPIB de 12 de noviembre, no una resolución fiscal ni justificantes contables.
+  type: declaración
+  urls:
+  - https://web.parlamentib.es/repositori/PUBLICACIONS/6/bopibs/bopib-06-062.pdf
 ---
 
 La [crónica de Majorca Daily Bulletin](https://www.majorcadailybulletin.com/news/local/2004/07/09/9752/balearics-rocked-strip-club-scandal.html) permite fechar la dimisión el 8 de julio y atribuye a Alía la explicación del error por el idioma de los comprobantes. No prueba la identidad de todos los asistentes. La [información de EFE reproducida por Libertad Digital](https://www.libertaddigital.com/nacional/matas-sobre-el-caso-rasputin-estamos-en-el-siglo-xxi-y-cada-uno-hace-con-su-vida-lo-que-quiere-1276227437/) recoge las declaraciones de Matas sobre los 129 euros de entradas. [El País del 10 de julio](https://elpais.com/diario/2004/07/10/espana/1089410415_850215.html) publicó un total de 369 euros que incluía otros consumos y señaló que Alía había reintegrado la partida. Son conceptos distintos, no importes que deban sumarse ni daños judicialmente fijados; sin documentación contable no se certifica su liquidación final.
 
 La [noticia de Ultima Hora](https://www.ultimahora.es/noticias/local/2004/07/24/651425/la-fiscalia-de-balears-acuerda-abrir-diligencias-por-el-caso-rasputin.html) explica que la Fiscalía valoraba si llevaba los hechos al juzgado. El [archivo difundido en septiembre](https://elpais.com/diario/2004/09/02/espana/1094076011_850215.html) corresponde a esa fase fiscal. No se conserva la fecha del 30 de septiembre de la versión anterior, carente de respaldo.
 
-Revisión con corte a 17 de octubre de 2026: no se han obtenido los decretos fiscales, los recibos originales ni el reintegro. Las búsquedas de documentación del Parlament localizaron referencias oficiales, pero los PDF devolvieron bloqueos y no se consideran leídos ni verificados. Tampoco se ha localizado un desenlace posterior específico verificable. Las noticias posteriores sobre Alía en el caso Ibatur u otras causas no permiten trasladar sus resultados a Rasputín. Se retira el día 1 de febrero como fecha exacta del viaje y la explicación del archivo basada exclusivamente en el ruso o la devolución, que no puede atribuirse al fiscal sin su resolución.
+Revisión con corte a 17 de octubre de 2026: no se han obtenido los decretos fiscales, los recibos originales ni el reintegro. Se ha recuperado el [BOPIB 62, de 12 de noviembre de 2004](https://web.parlamentib.es/repositori/PUBLICACIONS/6/bopibs/bopib-06-062.pdf), de 59 páginas. En las páginas 49–51 del PDF constan respuestas firmadas por Joan Flaquer el 23 de septiembre: atribuye el error a Alía, afirma el reintegro y declara desconocer la asistencia de otros miembros de la delegación. Estas respuestas documentan la versión institucional; no sustituyen los recibos ni el decreto fiscal. Se han leído esos pasajes y la portada, sin afirmar lectura de todo el boletín. Tampoco se ha localizado un desenlace posterior específico verificable. Las noticias posteriores sobre Alía en el caso Ibatur u otras causas no permiten trasladar sus resultados a Rasputín. Se retira el día 1 de febrero como fecha exacta del viaje y la explicación del archivo basada exclusivamente en el ruso o la devolución, que no puede atribuirse al fiscal sin su resolución.
