@@ -3,7 +3,6 @@ nombre: "Caso Maldonado"
 partido: PP
 completado: false
 año: 2005
-fechaInicio: "2005-08-22"
 fechaFin: ""
 estado: "absolución por el Tribunal Supremo"
 descripcion: |
@@ -13,7 +12,7 @@ descripcion: |
 
   El Tribunal Supremo, sentencia 491/2018 de 23 de octubre (ECLI:ES:TS:2018:3689; recurso 2363/2017), estimó los tres recursos de casación y absolvió al exalcalde, a su hermano y al secretario habilitado de los delitos por los que habían sido condenados. Los fallos de casación y segunda sentencia dicen que no cabe recurso. Para la prevaricación faltaba precisar la resolución arbitraria y la intervención del alcalde en los acuerdos; para el tráfico de influencias no constaban actos concretos de presión, y para el delito territorial no se describía la intervención concreta del promotor. La condición de socio o administrador no bastaba para atribuirle toda la actividad de la sociedad. El técnico municipal no figura entre esos tres recurrentes: no se extiende a él automáticamente la absolución.
 
-  Límites al 17 de octubre de 2026: se ha descargado el original del Supremo y leído parcialmente, incluidos los dos fallos, pero no la sentencia independiente de la Audiencia ni una resolución posterior sobre el técnico. El PSOE anunció el 26 de octubre de 2018 que estudiaba un amparo: no se ha acreditado su presentación ni resultado. No se infiere un cierre global del expediente por falta de noticias. Los 321.350 euros que figuraban como coste eran una estimación de incremento de beneficios por exceso de edificabilidad recogida en el relato de instancia, que además decía que no se había vendido ninguna vivienda o local; no son daño al erario ni una indemnización firme. Se retira el coste. La multa de 400.000 euros impuesta inicialmente al hermano es otra categoría y su condena fue revocada.
+  Límites al 17 de octubre de 2026: se ha descargado el original del Supremo y leído parcialmente, incluidos los dos fallos, y se ha recuperado la sentencia independiente de la Audiencia, de la que se han cotejado cabecera y fallo (páginas 1 y 23–24 de 24), sin lectura íntegra de sus fundamentos. No se ha obtenido una resolución posterior sobre el técnico. El PSOE anunció el 26 de octubre de 2018 que estudiaba un amparo: no se ha acreditado su presentación ni resultado. No se infiere un cierre global del expediente por falta de noticias. Los 321.350 euros que figuraban como coste eran una estimación de incremento de beneficios por exceso de edificabilidad recogida en el relato de instancia, que además decía que no se había vendido ninguna vivienda o local; no son daño al erario ni una indemnización firme. Se retira el coste. La multa de 400.000 euros impuesta inicialmente al hermano es otra categoría y su condena fue revocada.
 resumen: "El Supremo absolvió en octubre de 2018 al exalcalde de Gójar, a su hermano y al secretario habilitado tras condenas por actuaciones urbanísticas"
 lugar: "Gójar, Granada, Andalucía"
 tribunal:
@@ -35,6 +34,11 @@ tags:
   - "Gójar"
 impactoSocial: "La condena de instancia motivó la dimisión del alcalde en julio de 2017 y el relevo municipal del 1 de agosto. La absolución de 2018 generó reacciones políticas y el anuncio socialista de estudiar un amparo, sin resultado posterior comprobado."
 documentos:
+  - fecha: "2017-07-06"
+    titulo: "Audiencia Provincial de Granada, Sección Primera: sentencia 353/2017, ROJ SAP GR 1567/2017, ECLI:ES:APGR:2017:1567; rollo 76/2015"
+    filetype: "pdf"
+    paginas: 24
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fa14165c8b127815&encode=true&databasematch=AN"
   - fecha: "2018-10-23"
     titulo: "Tribunal Supremo: sentencia 491/2018 y segunda sentencia absolutoria, ROJ STS 3689/2018, ECLI:ES:TS:2018:3689"
     filetype: "pdf"
@@ -91,4 +95,4 @@ El original CENDOJ se obtuvo por GET con HTTP200 (11 páginas), siguiendo la red
 
 Se leyeron los cuerpos completos de las dos crónicas de El Independiente de Granada, la noticia de Europa Press reproducida por 20minutos del 22-05-2017 y el cuerpo de Europa Press del 26-10-2018, revisando el texto HTML además de los extractos de buscador. Las fechas actuales de la cabecera del medio y los widgets no se usan como fecha de las noticias históricas. El exalcalde está identificado nominalmente en prensa; los seudónimos judiciales no se traducen a nombres reales. El nombre completo del hermano que figuraba antes no se ha revalidado nominalmente: la noticia lo llama Fernando y el original judicial confirma su posición familiar y societaria, sin revelar la identidad.
 
-No se han obtenido originales de la sentencia de la Audiencia, del eventual amparo ni del estado final del técnico no recurrente. Tampoco una resolución posterior que cambie las absoluciones al corte de 17-10-2026; esa búsqueda negativa no acredita inexistencia de actuaciones. La firmeza de los fallos del Supremo se apoya en su advertencia expresa de ausencia de recurso, sin fijar una fecha documental de cierre global. No se cuantifica coste: ni beneficios estimados, presupuestos de obra, tasas ni multas se suman como perjuicio patrimonial acreditado.
+La sentencia independiente de la Audiencia 353/2017, de 6 de julio de 2017 (ECLI:ES:APGR:2017:1567), se ha recuperado del CENDOJ mediante GET con HTTP200 y formato PDF verificado (24 páginas). Se han leído íntegramente sus páginas 1 y 23–24, correspondientes a cabecera y fallo; no se afirma lectura de los fundamentos completos. No se han obtenido originales del eventual amparo ni del estado final del técnico no recurrente. El convenio de 22 de agosto de 2005 se conserva como hito contractual; no se fija `fechaInicio` porque no se acredita un día de inicio de la investigación. Tampoco se ha obtenido una resolución posterior que cambie las absoluciones al corte de 17-10-2026; esa búsqueda negativa no acredita inexistencia de actuaciones. La firmeza de los fallos del Supremo se apoya en su advertencia expresa de ausencia de recurso, sin fijar una fecha documental de cierre global. No se cuantifica coste: ni beneficios estimados, presupuestos de obra, tasas ni multas se suman como perjuicio patrimonial acreditado.
