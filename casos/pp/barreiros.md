@@ -31,8 +31,8 @@ implicados:
   rol: Absuelto de prevaricación urbanística por la sentencia 52/2019; confirmación en apelación comunicada por la prensa
     en julio de 2019
 - nombre: María Alina Rodríguez Díaz
-  cargo: Concejal de la Junta de Gobierno Local durante los hechos
-  rol: Absuelto de prevaricación urbanística por la sentencia 52/2019; confirmación en apelación comunicada por la prensa
+  cargo: Concejala de la Junta de Gobierno Local durante los hechos
+  rol: Absuelta de prevaricación urbanística por la sentencia 52/2019; confirmación en apelación comunicada por la prensa
     en julio de 2019
 - nombre: Lorenzo Penabad Bolaño
   cargo: Concejal de la Junta de Gobierno Local durante los hechos
@@ -40,7 +40,7 @@ implicados:
     en julio de 2019
 - nombre: Marta Geada Arca
   cargo: Arquitecta municipal durante los hechos
-  rol: Absuelto de prevaricación urbanística por la sentencia 52/2019; confirmación en apelación comunicada por la prensa
+  rol: Absuelta de prevaricación urbanística por la sentencia 52/2019; confirmación en apelación comunicada por la prensa
     en julio de 2019
 - nombre: José Rojo Blanco
   cargo: Concejal de la Junta de Gobierno Local durante los hechos
