@@ -16,7 +16,7 @@ descripcion: |
 
   Revisión con corte de 17 de octubre de 2026: no se ha localizado sentencia. La última información documentada es del 20-21 de julio de 2026 (elDiario.es), cuando, seis meses después de finalizar la vista, la Audiencia Provincial de Valladolid aún no se había pronunciado. El último estado acreditado por esa noticia es pendiente de sentencia; no se ha obtenido confirmación judicial de su situación posterior. Las cifras de mordidas estimadas, multas solicitadas e indemnizaciones civiles reclamadas corresponden a conceptos distintos y no deben sumarse. Existen otras dos fichas en el repositorio (eolica_valladolid.md y trama-solar.md) que describen el mismo proceso; sus importes no son acumulables.
 
-resumen: "Macrocausa por presuntas mordidas en la autorización de parques eólicos en Castilla y León; el juicio concluyó en enero de 2026 y sigue pendiente de sentencia."
+resumen: "Macrocausa por presuntas mordidas en la autorización de parques eólicos en Castilla y León; el juicio concluyó en enero de 2026 y el fallo posterior no se ha verificado."
 lugar: "Castilla y León, España"
 tribunal:
   - "Audiencia Provincial de Valladolid (Sección Cuarta)"
@@ -37,7 +37,7 @@ implicados:
 
   - nombre: "Carlos Galdón"
     cargo: "Empresario, administrador único de Avanzalia System"
-    rol: "Encausado únicamente por acusaciones particulares; quedó fuera del juicio el 15 de septiembre de 2025 al retirar cinco de ellas sus peticiones y declaró como testigo."
+    rol: "Encausado únicamente por acusaciones particulares; quedó fuera del juicio el 15 de septiembre de 2025 al retirar cinco de ellas sus peticiones y se admitió su citación como testigo; no se ha verificado aquí que llegara a declarar."
 
   - nombre: "Jesús Rodríguez Recio"
     cargo: "Abogado, señalado como presunto testaferro de Delgado"
@@ -60,7 +60,7 @@ implicados:
     rol: "Acusado hasta el 7 de enero de 2026, cuando la Fiscalía y el resto de acusaciones retiraron los cargos. La Fiscalía pedía 7 años de cárcel y unos 1,9 millones de multa."
 
   - nombre: "María del Mar Moreno Fernández"
-    cargo: "Empresaria, esposa de Alberto Esgueva"
+    cargo: "Empresaria; las crónicas la vinculan familiarmente con Alberto Esgueva"
     rol: "Acusada. La Fiscalía pedía 4 años de cárcel y 215.000 euros de multa."
 
   - nombre: "Patricio Llorente Muñoz"
@@ -101,7 +101,7 @@ tags:
   - "extorsión"
   - "organización criminal"
 
-impactoSocial: "Considerada por la Fiscalía y por buena parte de la prensa la mayor causa de corrupción de la historia de Castilla y León, la Trama Eólica afectó a la tramitación de autorizaciones de parques eólicos durante más de una década bajo gobiernos del PP. Comparte acusados con el caso Perla Negra y, a fecha de esta revisión, sigue pendiente de sentencia."
+impactoSocial: "Considerada por la Fiscalía y por buena parte de la prensa la mayor causa de corrupción de la historia de Castilla y León, la Trama Eólica afectó a la tramitación de autorizaciones de parques eólicos durante más de una década bajo gobiernos del PP. Comparte acusados con el caso Perla Negra y la última información verificada, de julio de 2026, señalaba que aún no había sentencia; no se ha comprobado su situación posterior."
 
 documentos:
   - fecha: "2020-11-06"
@@ -186,3 +186,5 @@ Los 75 millones de euros son la estimación de mordidas de la Fiscalía y la que
 
 ### Nombres
 Los nombres completos acreditados por la documentación parlamentaria y la prensa son Tomás Félix Villanueva Rodríguez, Alberto Esgueva Gutiérrez y Ricardo Bravo Sayas (este último figura así en el diario de la Comisión de Investigación de las Cortes de Castilla y León). Conviene no confundirlos con grafías alternativas que han circulado, como «Villanueva Herrero» o «Esgueva Renedo».
+
+El documento de las Cortes es el Diario de Sesiones n.º 225, de 6 de noviembre de 2020, de 17 páginas. Se han leído las páginas 1–3 y 17, no la totalidad de la comparecencia de Andrés Martín de Paz. Su testimonio parlamentario no constituye un fallo judicial ni acredita por sí solo los hechos discutidos en la causa penal.
