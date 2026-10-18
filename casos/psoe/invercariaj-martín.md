@@ -1,97 +1,107 @@
 ---
-nombre: "Invercaria/J. Martín"
-partido: PSOE
-completado: true
-año: 2006
-fechaInicio: 2006-01-01
-fechaFin: 2021-07-21
-estado: "sobreseimiento"
-descripcion: |
-  El caso Invercaria/J. Martín investiga los préstamos participativos concedidos por Invercaria, la sociedad pública de capital riesgo de la Junta de Andalucía, a la diseñadora de moda cordobesa Juana Martín entre 2006 y 2011. La diseñadora, conocida por sus colecciones en la Pasarela Cibeles y su trabajo en el mundo de la alta costura, recibió un total de 850.000 euros de la administración andaluza mientras Invercaria estuvo bajo gestión socialista.
-
-  Las operaciones comenzaron en enero de 2006 con un préstamo participativo de 120.000 euros concedido tan solo cinco días después de la constitución de la empresa de la diseñadora. Posteriormente se sucedieron nuevas concesiones hasta acumular 850.000 euros en financiación pública. El expresidente de Invercaria Tomás Pérez-Sauquillo declaró en el juicio que la idea de dar las ayudas a Juana Martín no fue suya, sino que vino impulsada directamente por el entonces consejero de Innovación Francisco Vallejo.
-
-  La diseñadora declaró que los préstamos se destinaron a diseño, confección, apertura de tiendas, talleres, contratación de personal y gastos de gestión de una línea "pret-a-porter", pero que la crisis económica la obligó a cerrar sus tiendas entre 2010 y 2011. Invercaria reclamó sin éxito en 2011 la devolución de un préstamo de 200.000 euros.
-
-  La Audiencia Provincial de Sevilla absolvió a Juana Martín en julio de 2021 de los supuestos delitos continuados de prevaricación y malversación de caudales públicos, rechazando la petición fiscal de 11 años de prisión. El tribunal también absolvió al expresidente de Invercaria Tomás Pérez-Sauquillo, al ex director financiero Antonio Nieto y al ex director de Promoción Cristóbal Cantos. Sin embargo, Juana Martín continuó enfrentando cargos en otro procedimiento por un presunto delito de alzamiento de bienes ante el Juzgado de lo Penal nº 2 de Córdoba.
-resumen: "La diseñadora cordobesa Juana Martín recibió 850.000 euros de Invercaria a partir de 2006, cinco días después de constituir su empresa. La Audiencia de Sevilla absolvió a todos los acusados en 2021, aunque la diseñadora afrontó cargos adicionales por alzamiento de bienes."
-coste: 850000
-lugar: "Córdoba / Sevilla, Andalucía"
-tribunal:
-  - "Audiencia Provincial de Sevilla"
-  - "Juzgado de lo Penal nº 2 de Córdoba"
-numeroSentencia: ""
-implicados:
-  - nombre: "Juana Martín"
-    cargo: "Diseñadora de moda, administradora de la empresa beneficiaria"
-    rol: "Absuelta de prevaricación y malversación en la Audiencia de Sevilla. Acusada de alzamiento de bienes ante el Juzgado de lo Penal nº 2 de Córdoba"
-
-  - nombre: "Tomás Pérez-Sauquillo"
-    cargo: "Ex presidente de Invercaria (Inversión y Gestión de Capital Riesgo de Andalucía)"
-    rol: "Absuelto de los delitos de prevaricación y malversación relacionados con los préstamos a Juana Martín. Declaró que la idea vino del consejero Vallejo"
-
-  - nombre: "Francisco Vallejo Serrano"
-    cargo: "Ex consejero de Innovación de la Junta de Andalucía"
-    rol: "Señalado por Pérez-Sauquillo como el impulsor de las ayudas a Juana Martín desde la Consejería de Innovación"
-
-  - nombre: "Antonio Nieto"
-    cargo: "Ex director financiero de Invercaria"
-    rol: "Absuelto de los cargos relacionados con la concesión de los préstamos a Juana Martín"
-
-  - nombre: "Cristóbal Cantos"
-    cargo: "Ex director de Promoción de Invercaria"
-    rol: "Absuelto de los cargos relacionados con la concesión de los préstamos a Juana Martín"
-
-tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "Invercaria"
-  - "fondos públicos"
-  - "Junta de Andalucía"
-  - "capital riesgo público"
-  - "alzamiento de bienes"
-  - "sobreseimiento"
-impactoSocial: "El caso Juana Martín fue uno de los más mediáticos del macrocaso Invercaria por la notoriedad pública de la diseñadora, que durante la instrucción llegó a desfilar en la Pasarela Cibeles mientras estaba imputada. El caso ilustró la práctica de conceder financiación pública a personas de perfil cultural con vínculos con el entorno socialista andaluz, y generó debate sobre la gestión del capital riesgo público. La absolución final no cerró la controversia, ya que la diseñadora afrontó cargos adicionales por alzamiento de bienes."
-documentos: null
-cronologia:
-  - fecha: 2006-01-01
-    titulo: "Primer préstamo participativo a Juana Martín"
-    descripcion: "Invercaria concede a la empresa de la diseñadora cordobesa Juana Martín un préstamo participativo de 120.000 euros tan solo cinco días después de la constitución de la sociedad. El ex consejero Francisco Vallejo habría impulsado la concesión desde la Consejería de Innovación."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Invercaria/J.+Mart%C3%ADn&numero=440"
-
-  - fecha: 2011-01-01
-    titulo: "Invercaria reclama sin éxito la devolución del préstamo"
-    descripcion: "Invercaria intenta recuperar sin éxito un préstamo de 200.000 euros concedido a Juana Martín. Entre 2010 y 2011, la diseñadora había cerrado todas sus tiendas alegando la crisis económica. El total de ayudas recibidas asciende a 850.000 euros."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://okdiario.com/andalucia/juana-martin-disenadora-que-recibio-850-000-del-psoe-abrir-taller-marruecos-7179978"
-
-  - fecha: 2012-01-01
-    titulo: "Inicio de la investigación del macrocaso Invercaria"
-    descripcion: "El Juzgado de Instrucción nº 16 de Sevilla inicia la investigación del macrocaso Invercaria. El caso de Juana Martín queda incorporado como una de las piezas separadas."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://www.sitiosespana.com/juez-cierra-14-anos-de-investigacion-a-invercaria-con-el-procesamiento-de-siete-ex-altos-cargos-del-psoe/"
-
-  - fecha: 2021-01-01
-    titulo: "Juicio oral por la pieza Invercaria/J. Martín"
-    descripcion: "Se celebra el juicio oral en la Audiencia Provincial de Sevilla por la pieza Invercaria/J. Martín. La Fiscalía solicita 11 años de prisión para la diseñadora. Pérez-Sauquillo declara que la idea de conceder las ayudas vino del consejero Vallejo."
-    type: "juicio"
-    relevancia: "media"
-    urls:
-      - "https://cordopolis.eldiario.es/cordoba-hoy/tribunales/comienza-martes-juicio-pieza-invercaria-disenadora-cordobesa-juana-martin_1_7867659.html"
-
-  - fecha: 2021-07-21
-    titulo: "Absolución de todos los acusados"
-    descripcion: "La Audiencia Provincial de Sevilla absuelve a Juana Martín, a Tomás Pérez-Sauquillo y a otros dos directivos de Invercaria de los delitos de prevaricación y malversación, rechazando la petición fiscal de 11 años para la diseñadora."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.elespanol.com/espana/andalucia/20210721/audiencia-sevilla-absuelve-disenadora-juana-martin-subvenciones/598190857_0.html"
+"nombre": "Invercaria/J. Martín"
+"partido": "PSOE"
+"completado": false
+"año": 2006
+"fechaInicio": "2006-01-16"
+"estado": "Absolución; firmeza de la pieza principal pendiente de comprobar"
+"descripcion": "La pieza de Invercaria sobre la financiación del proyecto de Juana Martín terminó en primera instancia\
+  \ con la absolución de los cuatro acusados: la diseñadora, Tomás Pérez-Sauquillo, Antonio Nieto y Cristóbal Cantos.\
+  \ La resolución de la Sección Primera de la Audiencia Provincial de Sevilla se dio a conocer el 21 de julio de\
+  \ 2021. Según las informaciones sobre su contenido, el tribunal no apreció una resolución injusta ni una desviación\
+  \ o menoscabo de fondos públicos, y consideró realizados los estudios técnicos y de viabilidad. El fracaso económico\
+  \ del proyecto no bastaba para acreditar prevaricación o malversación.\n\nLa financiación examinada se cifra en\
+  \ 850.000 euros en las crónicas de la pieza, correspondientes a operaciones entre 2006 y 2011. Esa cifra no se\
+  \ presenta como daño probado ni se confunde con la deuda reclamada o con intereses y costas. El primer préstamo\
+  \ de 120.000 euros se formalizó el 16 de enero de 2006, según la información que reproduce el auto de instrucción.\
+  \ No se da por acreditado que todas las operaciones fueran préstamos idénticos ni que se cometiera un delito por\
+  \ su concesión.\n\nEl procedimiento de Córdoba por alzamiento de bienes era distinto: Juana Martín fue absuelta\
+  \ en 2017 y la absolución se confirmó en apelación en 2018, descrita como firme por Europa Press. No se mantiene\
+  \ aquella acusación como pendiente. Respecto de la absolución sevillana de 2021 faltan el original y el seguimiento\
+  \ de los posibles recursos para precisar su firmeza al 17 de octubre de 2026. No se deduce una confirmación por\
+  \ el Supremo de noticias relativas a otras piezas de Invercaria."
+"resumen": "Absolución de Juana Martín y tres exdirectivos de Invercaria por su financiación; también absuelta en\
+  \ el proceso separado por alzamiento de bienes."
+"lugar": "Córdoba y Sevilla, Andalucía"
+"tribunal":
+- "Audiencia Provincial de Sevilla — Sección Primera"
+- "Juzgado de lo Penal número 2 de Córdoba — procedimiento separado"
+- "Audiencia Provincial de Córdoba — Sección Segunda, apelación del procedimiento separado"
+"implicados":
+- "nombre": "Juana Martín"
+  "cargo": "Diseñadora y representante de las sociedades financiadas"
+  "rol": "Absuelta de prevaricación y malversación en la pieza de financiación, según información de julio de 2021;\
+    \ firmeza posterior pendiente de cotejo. También absuelta de alzamiento de bienes, con confirmación en apelación\
+    \ conocida en marzo de 2018."
+- "nombre": "Tomás Pérez-Sauquillo"
+  "cargo": "Expresidente de Invercaria"
+  "rol": "Absuelto en la pieza de financiación de Juana Martín junto a los otros tres acusados. No se trasladan\
+    \ aquí condenas de otras piezas; seguimiento de recursos pendiente."
+- "nombre": "Antonio Nieto"
+  "cargo": "Exdirector financiero de Invercaria"
+  "rol": "Absuelto de los delitos de prevaricación y malversación de esta pieza, según las informaciones sobre la\
+    \ sentencia de 2021. Firmeza posterior no cotejada."
+- "nombre": "Cristóbal Cantos"
+  "cargo": "Exdirector de Promoción de Invercaria"
+  "rol": "Absuelto de los delitos de prevaricación y malversación de esta pieza, según las informaciones sobre la\
+    \ sentencia de 2021. Firmeza posterior no cotejada."
+"tags":
+- "Invercaria"
+- "absolución"
+- "financiación empresarial"
+- "capital riesgo público"
+"impactoSocial": "El tribunal distinguió entre las pérdidas de un proyecto empresarial financiado con capital público\
+  \ y la comisión de delitos. La difusión de las acusaciones requiere acompañarse de las absoluciones de cada procedimiento."
+"documentos": []
+"cronologia":
+- "fecha": "2006-01-16"
+  "titulo": "Primer préstamo referido en la instrucción"
+  "descripcion": "La información de Cordópolis que reproduce el auto de instrucción sitúa en esta fecha la póliza\
+    \ de 120.000 euros. La imputación de irregularidades de aquel auto no se convierte en hecho probado tras la\
+    \ posterior absolución."
+  "type": "documento"
+  "urls":
+  - "https://cordopolis.eldiario.es/cordoba-hoy/tribunales/comienza-martes-juicio-pieza-invercaria-disenadora-cordobesa-juana-martin_1_7867659.html"
+- "fecha": "2017-12-01"
+  "titulo": "Se conoce la absolución por alzamiento de bienes"
+  "descripcion": "Europa Press informa de la absolución de la diseñadora, su padre, su hermano y dos sociedades\
+    \ por el Penal 2 de Córdoba. La sentencia era apelable; esta fecha es la de la noticia, no la de la resolución\
+    \ cotejada."
+  "type": "sentencia"
+  "urls":
+  - "https://www.europapress.es/andalucia/noticia-absuelven-disenadora-juana-martin-alzamiento-bienes-embargo-invercaria-20171201132620.html"
+- "fecha": "2018-03-01"
+  "titulo": "Se conoce la confirmación en apelación de la absolución de Córdoba"
+  "descripcion": "Europa Press informa de que la Sección Segunda desestima el recurso de Inverseed y confirma íntegramente\
+    \ la absolución, que describe como firme. No es la sentencia de la pieza sevillana de financiación."
+  "type": "sentencia"
+  "urls":
+  - "https://cadenaser.com/emisora/2018/03/01/radio_cordoba/1519925092_094598.html"
+- "fecha": "2021-07-21"
+  "titulo": "Se conoce la absolución de los cuatro acusados en Sevilla"
+  "descripcion": "Las crónicas del fallo señalan que no se acreditó prevaricación ni malversación y que no hubo\
+    \ menoscabo penalmente probado. Se anunciaba la posibilidad de casación. Fecha de publicación y conocimiento,\
+    \ sin atribuirla a la firma del original no recuperado."
+  "type": "sentencia"
+  "urls":
+  - "https://www.diariodesevilla.es/juzgado_de_guardia/sentencias/Juana-Martin-absuelta_0_1594341250.html"
+  - "https://www.elespanol.com/espana/andalucia/20210721/audiencia-sevilla-absuelve-disenadora-juana-martin-subvenciones/598190857_0.html"
+- "fecha": "2021-09-27"
+  "titulo": "Se conoce la decisión sobre el cauce del posible recurso"
+  "descripcion": "Diario de Sevilla informa del rechazo de la rectificación solicitada por Fiscalía: la Audiencia\
+    \ mantiene la casación ante el Supremo como vía de recurso. La noticia no acredita que se interpusiera ni resolviera\
+    \ finalmente una casación."
+  "type": "recurso"
+  "urls":
+  - "https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Supremo-resolvera-recursos-sentencias-Invercaria_0_1613840744.html"
 ---
+
+La absolución sevillana se apoya, según las informaciones que reproducen su motivación, en la realización de estudios y análisis del proyecto y en la falta de prueba de una resolución injusta o desviación de fondos. No se mantiene la caracterización de las operaciones como ayudas delictivas por el hecho de haber sido investigadas. Tampoco se incluye a Francisco Vallejo como acusado o responsable a partir de lo que otro interviniente declaró sobre el impulso del proyecto.
+
+Los 850.000 euros describen financiación, no una condena indemnizatoria. Las aportaciones de capital, préstamos y reclamaciones por deuda corresponden a conceptos distintos y no se suman como perjuicio. El desenlace de las reclamaciones civiles y la recuperación de cantidades no se han comprobado; la absolución penal no acredita automáticamente la extinción de toda deuda.
+
+La causa por alzamiento de bienes de Córdoba terminó con absolución, confirmada en 2018. La noticia de 2017 distingue las alegaciones de las partes del motivo absolutorio: no se acreditó una operación fraudulenta para impedir el cobro. Los familiares y sociedades absueltos en esa causa no se incorporan como acusados de la pieza sevillana.
+
+La noticia de septiembre de 2021 discute la competencia para un eventual recurso; no equivale a una resolución de fondo del Supremo ni a certificación de firmeza de la absolución. Las informaciones posteriores sobre Cedes, Aceitunas Tatis, Surgenia u otros procedimientos no cambian por sí mismas el resultado de esta pieza. Quedan pendientes los originales y el seguimiento procesal posterior; por ello la revisión no se considera completa.
+
+Fuentes: [Diario de Sevilla, absolución de 2021](https://www.diariodesevilla.es/juzgado_de_guardia/sentencias/Juana-Martin-absuelta_0_1594341250.html), [El Español, resultado y posibilidad de casación](https://www.elespanol.com/espana/andalucia/20210721/audiencia-sevilla-absuelve-disenadora-juana-martin-subvenciones/598190857_0.html), [Diario de Sevilla, cauce del recurso](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Supremo-resolvera-recursos-sentencias-Invercaria_0_1613840744.html), [Europa Press, absolución de Córdoba](https://www.europapress.es/andalucia/noticia-absuelven-disenadora-juana-martin-alzamiento-bienes-embargo-invercaria-20171201132620.html), [Europa Press/SER, confirmación de 2018](https://cadenaser.com/emisora/2018/03/01/radio_cordoba/1519925092_094598.html) y [Cordópolis, antecedentes de financiación](https://cordopolis.eldiario.es/cordoba-hoy/tribunales/comienza-martes-juicio-pieza-invercaria-disenadora-cordobesa-juana-martin_1_7867659.html).
