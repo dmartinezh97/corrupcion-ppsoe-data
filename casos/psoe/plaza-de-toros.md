@@ -1,107 +1,125 @@
 ---
-nombre: "Caso Plaza de Toros de Calasparra"
+nombre: Caso Plaza de Toros de Calasparra
 partido: PSOE
-completado: true
-año: 2021
-fechaInicio: "2017-01-01"
-fechaFin: "2025-11-27"
-estado: "sobreseimiento"
-descripcion: |
-  El Caso Plaza de Toros de Calasparra investiga las presuntas irregularidades cometidas durante la organización de la Feria Taurina del Arroz en el municipio murciano de Calasparra entre 2017 y 2019, cuando José Vélez Fernández ejercía como alcalde por el PSOE. La causa judicial se centró en la relación contractual entre el Ayuntamiento de Calasparra y la empresa Chipé Producciones SL, administrada por Pedro Pérez Roldán, para la provisión de ganado en los encierros matutinos de las fiestas patronales.
-
-  La investigación, iniciada mediante providencia del Juzgado de Primera Instancia e Instrucción número 3 de Caravaca de la Cruz en marzo de 2021, determinó que el consistorio habría asumido y abonado con fondos públicos determinados gastos cuyo beneficiario directo o indirecto era el empresario investigado. Las irregularidades incluirían facturas relacionadas con la adaptación y mejoras de accesibilidad en la plaza de toros, su limpieza, el coste de los toros para los encierros y la publicidad de los festejos taurinos correspondientes a 2017 y 2018. El desembolso real efectuado por el Ayuntamiento excedió ampliamente los precios pactados tanto en los convenios de 2017 y 2018 como en el contrato menor de 2019.
-
-  Junto al alcalde Vélez, estaban investigados los dos concejales de Festejos que se sucedieron durante ese periodo, Jordi Arce Corbalán y Antonio José Merino Moreno, así como el administrador de Chipé Producciones. La Fiscalía Anticorrupción y la acusación particular les imputaron delitos de prevaricación administrativa, malversación de caudales públicos y falsedad documental. El ministerio público cifró el perjuicio económico para las arcas municipales en 249.630 euros, mientras que la acusación particular lo elevó a 367.096 euros.
-
-  El caso fue sobreseído provisionalmente por la Sección Segunda de la Audiencia Provincial de Murcia en noviembre de 2025, al estimar el tribunal que ninguno de los cuatro investigados había sido citado a declarar dentro del plazo legal de doce meses desde la incoación del procedimiento en marzo de 2021. La resolución fue declarada firme y sin posibilidad de recurso ordinario. La Fiscalía anunció que recurriría la decisión ante el Tribunal Supremo. Vélez, que había llegado a ser secretario general del PSRM-PSOE entre 2021 y 2025 y delegado del Gobierno en la Región de Murcia, mantuvo durante todo el proceso que no dimitiría hasta que hubiera una condena firme.
-
-resumen: "Irregularidades en la contratación de festejos taurinos en Calasparra por el alcalde socialista José Vélez, sobreseída por motivos procesales"
-coste: 249630
-lugar: "Calasparra, Región de Murcia"
+completado: false
+año: 2017
+estado: sobreseimiento recurrido
+lugar: Calasparra, Región de Murcia
+resumen: Investigación sobre los festejos taurinos de 2017–2019; archivo de noviembre de 2025 y recurso fiscal ante
+  el Supremo informado en 2026.
+descripcion: 'La causa examinó los convenios y pagos municipales relacionados con Chipé Producciones y los encierros
+  de la Feria Taurina del Arroz de 2017 a 2019. Hubo apertura de juicio oral en 2024, sin condena acreditada. El
+  auto 1103/2025 de la Audiencia de Murcia, de 25 de noviembre, acordó sobreseimiento provisional y archivo sin
+  posibilidad de reapertura por el plazo de instrucción; indicó que no cabía recurso ordinario. En mayo de 2026
+  se informó del recurso de casación de Fiscalía. Revisión parcial a 17 de octubre de 2026: no se ha recuperado
+  ese recurso ni verificado su admisión o resolución; no se afirma cierre inatacable. Las indemnizaciones solicitadas
+  no se presentan como daños probados.'
 tribunal:
-  - "Juzgado de Primera Instancia e Instrucción nº 3 de Caravaca de la Cruz"
-  - "Audiencia Provincial de Murcia, Sección Segunda"
-numeroSentencia: ""
+- Juzgado de Primera Instancia e Instrucción n.º 3 de Caravaca de la Cruz
+- Audiencia Provincial de Murcia, Sección Segunda
+numeroSentencia: Auto 1103/2025, de 25 de noviembre; AAP MU 2038/2025, ECLI:ES:APMU:2025:2038A
 implicados:
-  - nombre: "José Vélez Fernández"
-    cargo: "Alcalde de Calasparra (PSOE, 2014-2020) y Secretario General del PSRM-PSOE (2021-2025)"
-    rol: "Investigado por prevaricación administrativa, malversación de caudales públicos y falsedad documental como máximo responsable de los contratos con Chipé Producciones"
-
-  - nombre: "Jordi Arce Corbalán"
-    cargo: "Concejal de Festejos del Ayuntamiento de Calasparra (PSOE)"
-    rol: "Investigado por prevaricación y malversación en la firma de los convenios irregulares de 2017 y 2018 con la empresa taurina"
-
-  - nombre: "Antonio José Merino Moreno"
-    cargo: "Concejal de Festejos del Ayuntamiento de Calasparra (PSOE)"
-    rol: "Investigado por prevaricación y malversación en la gestión del contrato menor de 2019 con la empresa taurina"
-
-  - nombre: "Pedro Pérez Roldán"
-    cargo: "Administrador de Chipé Producciones SL"
-    rol: "Investigado como beneficiario de los pagos irregulares de fondos públicos municipales a través de su empresa taurina"
-
+- nombre: José Vélez Fernández
+  cargo: Exalcalde de Calasparra (PSOE)
+  rol: Investigado y destinatario de la apertura de juicio oral de 2024. La causa se archivó para los cuatro investigados
+    en 2025; Fiscalía recurrió según las noticias de 2026. Sin condena acreditada.
+- nombre: Jordi Arce Corbalán
+  cargo: Concejal de Festejos de Calasparra durante parte del periodo investigado
+  rol: Investigado y acusado en 2024; beneficiado por el archivo de 2025, objeto del recurso fiscal informado. Las
+    irregularidades atribuidas no son hechos declarados probados.
+- nombre: Antonio José Merino Moreno
+  cargo: Concejal de Festejos de Calasparra durante parte del periodo investigado
+  rol: Investigado y acusado en 2024; beneficiado por el archivo de 2025, objeto del recurso fiscal informado. Sin
+    condena acreditada.
+- nombre: Pedro Pérez Roldán
+  cargo: Administrador de Chipé Producciones S.L.
+  rol: Identificado nominalmente en la noticia de admisión de la querella. Investigado junto a los tres responsables
+    municipales y alcanzado por el archivo; no se infiere su identidad de los pseudónimos del auto.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "contratación irregular"
-  - "festejos taurinos"
-  - "sobreseimiento"
-
-impactoSocial: "El caso generó una notable controversia política en la Región de Murcia al afectar al secretario general del PSRM-PSOE y ex delegado del Gobierno, figura muy próxima a Pedro Sánchez. A pesar del sobreseimiento por razones procesales, el caso marcó la trayectoria política de Vélez, que perdió la secretaría general del partido regional en marzo de 2025. El PSOE exigió al PP que pidiera perdón públicamente a Vélez tras el archivo de la causa, mientras la Fiscalía anunció recurso ante el Tribunal Supremo."
-
-documentos: null
-
+- contratación pública
+- festejos taurinos
+- sobreseimiento
+- recurso de casación
+impactoSocial: La controversia afectó a la financiación municipal de encierros vinculados a festejos de una plaza
+  privada. El archivo se fundamentó en una cuestión procesal y el auto no examinó el fondo; no constituye una condena
+  ni se confunde con otras causas de Calasparra.
+documentos:
+- fecha: '2025-11-25'
+  titulo: 'Auto 1103/2025 de la Audiencia de Murcia: archivo de DP 110/2021 (AAP MU 2038/2025)'
+  filetype: pdf
+  paginas: 13
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d501c199c1578681a0a8778d75e36f0d&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2017-01-01"
-    titulo: "Inicio de los contratos irregulares con Chipé Producciones"
-    descripcion: "El Ayuntamiento de Calasparra, bajo el mandato del alcalde socialista José Vélez, suscribe los primeros convenios con la empresa Chipé Producciones SL para la organización de los encierros de la Feria Taurina del Arroz. La fiscalía sostiene que el consistorio asumió gastos que no le correspondían y que beneficiaron directamente al administrador de la empresa."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/murcia/politica/fiscalia-pide-apertura-juicio-jose-velez-caso-plaza-toros-calasparra_1_11514477.html"
-
-  - fecha: "2019-12-31"
-    titulo: "Fin del periodo de irregularidades investigadas"
-    descripcion: "Concluye el periodo de tres años investigado. Las irregularidades afectaron a los convenios de 2017 y 2018 y al contrato menor de 2019. Los desembolsos reales del Ayuntamiento excedieron ampliamente los precios pactados. Ese mismo año Vélez es reelegido alcalde en las elecciones municipales de mayo de 2019."
-    type: "resumen"
-    urls:
-      - "https://www.elespanol.com/espana/murcia/20241105/lider-psoe-murcia-juzgado-corrupcion-organizacion-festejos-taurinos-piden-anos-carcel/898910406_0.html"
-
-  - fecha: "2021-03-24"
-    titulo: "Incoación del procedimiento judicial"
-    descripcion: "El Juzgado de Primera Instancia e Instrucción número 3 de Caravaca de la Cruz inicia mediante providencia la instrucción judicial del caso, tras la querella presentada por los concejales Carlos Alajarín Cascales (Ciudadanos) y Alonso Torrente Rodríguez (Calasparra Viva). Se admiten a trámite las investigaciones por presunta prevaricación, malversación y falsedad documental."
-    type: "denuncia"
-    urls:
-      - "https://www.orm.es/informativos/noticias-2021/admitida-a-tramite-la-querella-contra-jose-velez-por-presunta-prevaricacion/"
-
-  - fecha: "2022-11-24"
-    titulo: "Citación judicial al líder del PSOE murciano"
-    descripcion: "José Vélez, candidato del PSOE a las elecciones autonómicas murcianas y ex delegado del Gobierno, es citado a declarar por el juez instructor en relación con los presuntos delitos de malversación cometidos durante su etapa como alcalde de Calasparra. La citación genera gran repercusión mediática al producirse a solo meses de las elecciones."
-    type: "investigación"
-    urls:
-      - "https://www.elespanol.com/espana/murcia/20221124/cabeza-lista-psoe-autonomicas-murcia-citado-malversacion/720927993_0.html"
-
-  - fecha: "2024-09-12"
-    titulo: "Auto de procesamiento contra Vélez y los concejales"
-    descripcion: "El juez del Juzgado de Instrucción número 3 de Caravaca de la Cruz dicta auto de procesamiento contra José Vélez, los dos concejales de Festejos y el administrador de Chipé Producciones, al apreciar indicios suficientes de prevaricación administrativa y malversación de caudales públicos. Vélez, ya secretario general del PSRM-PSOE, declara públicamente que no dimitirá."
-    type: "imputación"
-    urls:
-      - "https://www.elespanol.com/espana/murcia/20240912/velez-lider-psoe-murcia-auto-quieren-juzgar-malversacion-no-dimito/885411821_0.html"
-      - "https://www.eldiario.es/murcia/politica/procesan-secretario-general-socialistas-murcianos-caso-plaza-toros-calasparra_1_11649023.html"
-
-  - fecha: "2024-11-05"
-    titulo: "Apertura de juicio oral"
-    descripcion: "El Juzgado de Instrucción número 3 de Caravaca de la Cruz ordena la apertura de juicio oral contra José Vélez y los demás acusados. La Fiscalía solicita ocho años y seis meses de prisión e inhabilitación para empleo o cargo público. La acusación particular eleva su petición hasta doce años de cárcel para Vélez y cifra el perjuicio en 367.096 euros."
-    type: "investigación"
-    urls:
-      - "https://www.la7tv.es/articulo/politica/jose-valez/20241105134028047459.html"
-      - "https://www.eldiario.es/murcia/politica/juez-ordena-apertura-juicio-oral-secretario-general-psoe-region-murcia-prevaricacion-malversacion_1_11793393.html"
-
-  - fecha: "2025-11-27"
-    titulo: "Sobreseimiento provisional por la Audiencia Provincial de Murcia"
-    descripcion: "La Sección Segunda de la Audiencia Provincial de Murcia acuerda el sobreseimiento provisional y archivo de la causa contra José Vélez, los dos concejales y el administrador de Chipé Producciones. El tribunal estima el recurso de la defensa al constatar que ninguno de los investigados fue citado a declarar dentro del plazo legal de doce meses desde la incoación del procedimiento en marzo de 2021. La resolución es firme y sin recurso ordinario posible."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/murcia/politica/audiencia-archiva-caso-exlider-psoe-murciano-plaza-toros-calasparra_1_12801884.html"
-      - "https://murciaplaza.com/murciaplaza/region/la-audiencia-archiva-la-causa-contra-jose-velez-y-dos-ediles-de-calasparra-por-el-caso-feria-taurina-del-arroz"
-      - "https://www.la7tv.es/articulo/politica/audiencia-archiva-causa-jose-velez-psoe-vencerse-plazo-legal-citarle-declarar/20251127123830062254.html"
+- fecha: '2021-03-24'
+  titulo: Providencia que la Audiencia toma como inicio del plazo
+  descripcion: El auto de 2025 fija el inicio del cómputo en esta providencia. Es una conclusión discutida por Fiscalía
+    en el recurso posterior; no se equipara a la fecha de admisión de la querella.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d501c199c1578681a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: investigacion
+- fecha: '2021-05-26'
+  titulo: Admisión de la querella
+  descripcion: Fecha identificada en el auto de 2025. La distinción entre esta admisión y la providencia de marzo
+    es central para el cómputo del plazo de instrucción.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d501c199c1578681a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: denuncia
+- fecha: '2024-09-12'
+  titulo: Continuación por procedimiento abreviado
+  descripcion: El auto original de apelación identifica esta fecha del auto instructor y la desestimación de la
+    reforma de 15 de octubre de 2024. Su apreciación de indicios no fue condena.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d501c199c1578681a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: investigacion
+- fecha: '2024-11-05'
+  titulo: Comunicación de apertura de juicio oral
+  descripcion: Fecha de publicación de elDiario.es sobre el auto notificado ese día. Las penas y responsabilidades
+    civiles eran solicitudes de las acusaciones, no pronunciamientos condenatorios.
+  urls:
+  - https://www.eldiario.es/murcia/politica/juez-ordena-apertura-juicio-oral-secretario-general-psoe-region-murcia-prevaricacion-malversacion_1_11793393.html
+  type: juicio
+- fecha: '2025-11-25'
+  titulo: Sobreseimiento provisional sin posibilidad de reapertura
+  descripcion: 'Auto 1103/2025: estima la apelación, deja sin efecto los autos de procedimiento abreviado y reforma
+    y archiva para los cuatro investigados. Indica que no cabe recurso ordinario. Fue notificado y comunicado el
+    27 de noviembre.'
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d501c199c1578681a0a8778d75e36f0d&encode=true&databasematch=AN
+  type: recurso
+- fecha: '2025-12-11'
+  titulo: Información sobre preparación del recurso fiscal
+  descripcion: SER informa de que Fiscalía solicita admitir casación y expedir testimonios. No se convierte la noticia
+    en resolución de admisión del Supremo.
+  urls:
+  - https://cadenaser.com/murcia/2025/12/11/la-fiscalia-recurre-ante-el-supremo-el-archivo-de-la-causa-contra-velez-por-los-encierros-de-la-feria-taurina-de-calasparra-radio-murcia/
+  type: recurso
+- fecha: '2026-05-27'
+  titulo: Información sobre casación formalizada
+  descripcion: SER informa de que Fiscalía del Supremo formalizó el recurso en febrero de 2026. La fecha de este
+    hito es la publicación; falta cotejar el escrito y su resultado.
+  urls:
+  - https://cadenaser.com/murcia/2026/05/27/la-fiscalia-del-supremo-pide-revocar-la-decision-de-la-audiencia-de-archivar-el-caso-contra-velez-por-la-feria-taurina-del-arroz-de-calasparra-radio-murcia/
+  type: recurso
 ---
+
+# Contratación de los encierros de Calasparra
+
+La investigación se refería a los festejos de 2017–2019 y a los convenios y pagos entre el Ayuntamiento y Chipé Producciones. Los indicios sobre facturas, gastos de la plaza privada y desembolsos superiores a lo convenido eran la tesis del instructor, no hechos probados en una sentencia condenatoria. Los nombres completos se contrastan con las noticias de admisión y de apertura de juicio oral, sin identificar por conjetura los pseudónimos de CENDOJ. [ORM/Europa Press, admisión de la querella](https://www.orm.es/informativos/noticias-2021/admitida-a-tramite-la-querella-contra-jose-velez-por-presunta-prevaricacion/); [elDiario.es, apertura de juicio oral](https://www.eldiario.es/murcia/politica/juez-ordena-apertura-juicio-oral-secretario-general-psoe-region-murcia-prevaricacion-malversacion_1_11793393.html).
+
+## Archivo de 2025 y recurso de casación
+
+El original recuperado es el auto 1103/2025, de 25 de noviembre, de la Sección Segunda de la Audiencia Provincial de Murcia, relativo a DP 110/2021 y apelación 969/2024. Sus páginas 12–13 acuerdan el sobreseimiento provisional y archivo sin posibilidad de reapertura para los cuatro investigados y advierten que no cabe recurso ordinario. El fundamento octavo explica que, al estimar el motivo procesal, no era necesario examinar el fondo. Se han leído cabecera, antecedentes y tramos finales, no íntegramente sus 13 páginas. [Auto original](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d501c199c1578681a0a8778d75e36f0d&encode=true&databasematch=AN).
+
+La nota judicial del 27 de noviembre identifica esa fecha como notificación. El tribunal computó los doce meses desde la providencia del 24 de marzo de 2021, no desde el auto de admisión de querella del 26 de mayo; consideró tardía la primera citación de 23 de noviembre de 2022. Se atribuye esta interpretación a la Audiencia, porque es precisamente el extremo discutido por Fiscalía. [Comunicación oficial](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Murcia-archiva-el-caso-por-prevaricacion-y-malversacion-en-los-encierros-taurinos-de-Calasparra).
+
+El 11 de diciembre de 2025, SER informó de la preparación de casación y de que Fiscalía consideraba el archivo materialmente equivalente a un sobreseimiento libre. La noticia cita el auto 1121/2025; no se sustituye por ese número el 1103/2025 del original cotejado ni se presume que todas las resoluciones sean idénticas. [SER, diciembre de 2025](https://cadenaser.com/murcia/2025/12/11/la-fiscalia-recurre-ante-el-supremo-el-archivo-de-la-causa-contra-velez-por-los-encierros-de-la-feria-taurina-de-calasparra-radio-murcia/).
+
+En mayo de 2026, SER informó de un recurso formalizado por la Fiscalía del Supremo en febrero. Esto no acredita que el Supremo lo haya admitido o resuelto, ni que la investigación haya sido reabierta. Se conserva la advertencia literal de falta de recurso ordinario del auto y no se presenta como una prohibición absoluta de la casación intentada. [SER, mayo de 2026](https://cadenaser.com/murcia/2026/05/27/la-fiscalia-del-supremo-pide-revocar-la-decision-de-la-audiencia-de-archivar-el-caso-contra-velez-por-la-feria-taurina-del-arroz-de-calasparra-radio-murcia/).
+
+## Importes y procedimientos distintos
+
+La acusación pública solicitaba en 2024 una indemnización conjunta y solidaria de 249.630 euros; la popular la cifraba en 367.096 euros. Son pretensiones alternativas sobre el perjuicio alegado, no daños fijados judicialmente ni cantidades que puedan sumarse o multiplicarse por los acusados. Tampoco las penas solicitadas —incluidos ocho años y seis meses de prisión para los responsables municipales según la noticia— fueron condenas. Por ello se elimina la cuantificación del coste. [Peticiones de las acusaciones](https://www.eldiario.es/murcia/politica/juez-ordena-apertura-juicio-oral-secretario-general-psoe-region-murcia-prevaricacion-malversacion_1_11793393.html).
+
+ORM informó en julio de 2026 de la reapertura de otra investigación, sobre contratación de actos culturales de 2010–2020 y resuelta por la Sección Tercera. La propia noticia distingue esa causa del archivo de la Feria Taurina del Arroz y su recurso fiscal. No se traslada aquella reapertura a este procedimiento. [ORM, julio de 2026](https://www.orm.es/informativos/reabren-la-investigacion-sobre-jose-velez-en-su-etapa-como-alcalde-de-calasparra/).
+
+Corte:17 de octubre de 2026. No se han recuperado el escrito de casación, el auto 1121/2025 mencionado por SER ni una resolución posterior del Supremo que determine la admisión o el resultado del recurso. Tampoco se ha verificado una condena, una indemnización impuesta o ejecución patrimonial en esta causa. La revisión permanece incompleta. La creación técnica del PDF en octubre de 2026 no es la fecha del auto.
