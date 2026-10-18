@@ -30,7 +30,7 @@ implicados:
 - nombre: Luisa Tortella Estrany
   cargo: Jefa de área del CITIB del Inestur
   rol: 'Condena comunicada por prevaricación continuada: ocho años y cinco meses de inhabilitación; responsabilidad
-    civil solidaria. Absuelto de malversación, fraude y tráfico de influencias.'
+    civil solidaria. Absuelta de malversación, fraude y tráfico de influencias.'
 - nombre: Roger Goterrodona Fiol
   cargo: Empresario
   rol: Condenado por prevaricación continuada a tres años y seis meses de inhabilitación; responsabilidad civil
