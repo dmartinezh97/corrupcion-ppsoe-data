@@ -81,6 +81,16 @@ documentos:
     filetype: "pdf"
     paginas: 27
     nombre_fichero: "https://www.civil-mercantil.com/sites/civil-mercantil.com/files/NCJ060352.pdf"
+  - fecha: "2015-07-01"
+    titulo: "STS 512/2015: casación de Pixel Arquitectura (original oficial CENDOJ, 19 páginas; distinto de la reproducción CEF de 27)"
+    filetype: "pdf"
+    paginas: 19
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=95d9f1a2011a5814&encode=true&databasematch=AN"
+  - fecha: "2022-06-23"
+    titulo: "STS 630/2022: casación de las otras adjudicaciones (original oficial, ECLI:ES:TS:2022:2622)"
+    filetype: "pdf"
+    paginas: 9
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d076077137abb7bfa0a8778d75e36f0d&encode=true&databasematch=AN"
 
 cronologia:
   - fecha: "2008-04-03"
@@ -126,6 +136,7 @@ cronologia:
     type: "sentencia"
     relevancia: "alta"
     urls:
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=95d9f1a2011a5814&encode=true&databasematch=AN"
       - "https://www.civil-mercantil.com/sites/civil-mercantil.com/files/NCJ060352.pdf"
       - "https://cadenaser.com/emisora/2015/08/06/radio_murcia/1438858454_741680.html"
 
@@ -157,10 +168,11 @@ cronologia:
 
   - fecha: "2022-06-23"
     titulo: "La STS 630/2022 confirma la condena por las otras adjudicaciones"
-    descripcion: "La Sala de lo Penal del Tribunal Supremo desestima el recurso de los condenados y confirma la sentencia de la Audiencia Provincial de Murcia de febrero de 2020, que añadía 6 meses de inhabilitación a los 10 años de 2014. El alto tribunal señala que las adjudicaciones se hicieron sin expediente previo y «de forma verbal, expresamente prohibida», y califica el método de «burda ilegalidad» y «grosero». Contra el fallo no cabía recurso. La sentencia 630/2022 está fechada el 23 de junio; la votación se celebró el 22 y elDiario.es publicó su información el 14 de julio. La transcripción judicial consultada en vLex permite distinguir estas fechas."
+    descripcion: "La Sala de lo Penal del Tribunal Supremo desestima el recurso de los condenados y confirma la sentencia de la Audiencia Provincial de Murcia de febrero de 2020, que añadía 6 meses de inhabilitación a los 10 años de 2014. El alto tribunal señala que las adjudicaciones se hicieron sin expediente previo y «de forma verbal, expresamente prohibida», y califica el método de «burda ilegalidad» y «grosero». Contra el fallo no cabía recurso. La sentencia 630/2022 está fechada el 23 de junio; la votación se celebró el 22 y elDiario.es publicó su información el 14 de julio. El original oficial de nueve páginas permite distinguir estas fechas."
     type: "sentencia"
     relevancia: "alta"
     urls:
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d076077137abb7bfa0a8778d75e36f0d&encode=true&databasematch=AN"
       - "https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html"
       - "https://vlex.es/vid/907304092"
 
@@ -178,9 +190,10 @@ cronologia:
 
 El nombre Camelot agrupa investigaciones relacionadas, sin un cierre único acreditado. Las condenas de Pixel y de las otras adjudicaciones son procedimientos distintos de la permuta y de Pagamenta. El estado de condena firme se limita a las primeras; no atribuye condena a Conesa ni a Armero y no acredita el cumplimiento o extinción de las inhabilitaciones.
 
-- **Fechas contrastadas.** El PDF oficial de la SAP 272/2014 fija el 22 de julio de 2014 como fecha de resolución; la referencia a junio en la nota del CGPJ de 2020 no prevalece sobre el original. La STS 512/2015 se dictó el 1 de julio de 2015. La transcripción de la STS 630/2022 fecha esta el 23 de junio de 2022 e identifica la sentencia recurrida como 29/2020, de 20 de febrero. La cronología usa esas fechas de acto. La entrada de la condena inicial por la permuta mantiene el 19 de febrero de 2018 como notificación publicada; el hito del 20 de marzo de 2019 es la publicación de su revocación y absolución, sin deducir de ella la fecha de la sentencia de apelación. Los originales de ambas no se han recuperado. Las fechas de creación de los PDF de 2014 (24 de julio) y de la reproducción de 2015 (15 de octubre) son metadatos de exportación, no fechas de resolución.
+- **Fechas contrastadas.** El PDF oficial de la SAP 272/2014 fija el 22 de julio de 2014 como fecha de resolución; la referencia a junio en la nota del CGPJ de 2020 no prevalece sobre el original. La STS 512/2015 se dictó el 1 de julio de 2015. El original oficial de la STS 630/2022 fecha esta el 23 de junio de 2022 e identifica la sentencia recurrida como 29/2020, de 20 de febrero. La cronología usa esas fechas de acto. La entrada de la condena inicial por la permuta mantiene el 19 de febrero de 2018 como notificación publicada; el hito del 20 de marzo de 2019 es la publicación de su revocación y absolución, sin deducir de ella la fecha de la sentencia de apelación. Los originales de ambas no se han recuperado. Las fechas de creación de los PDF de 2014 (24 de julio) y de la reproducción de 2015 (15 de octubre) son metadatos de exportación, no fechas de resolución.
 - **Condenas y absoluciones.** Pixel: tres autores condenados y dos cómplices, con casación desestimada en 2015. Otras adjudicaciones: alcalde y concejal condenados; seis acusados absueltos en la instancia según los antecedentes de la STS 630/2022. No se trasladan a esos profesionales las condenas del arquitecto de Pixel. La referencia expresa a firmeza del 16 de septiembre de 2015 procede de los antecedentes de 2022; no se deduce solo de que interviniera el Supremo. La sentencia de 2022 dice que no cabe recurso. No se ha completado una revisión de posibles incidentes de nulidad o amparos posteriores.
 - **Importes.** Los 776.522 euros de Pixel y los 511.355,73 euros de otras adjudicaciones son importes de contratos, no daño patrimonial probado. El texto de 2015 contiene una discordancia de 776.552 euros en un fundamento, frente a los 776.522 de sus hechos y de la sentencia de 2014; se conserva esta última cifra. Se retira la cifra heredada de 3,5 millones de supuesto perjuicio por la permuta al no haberla contrastado en su fuente original; ORM informa de que la sentencia no acreditó perjuicio municipal, y la condena fue revocada en 2019. Los 12.000 euros de Pagamenta son el presunto cohecho, no una cantidad declarada probada en condena localizada. No se suman conceptos ni penas y no se asigna `coste`.
 - **Conesa, Armero y sobreseimientos.** Se mantiene visible la laguna del desenlace de Pagamenta: la información de La Verdad del 7 de noviembre de 2024 la situaba pendiente de señalamiento. No se transforma ese dato histórico en estado actual. Tampoco se ha recuperado el auto original del sobreseimiento provisional de julio de 2012 ni su evolución. Provisional no significa necesariamente no firme y no equivale a absolución tras juicio.
-- **Lectura documental.** Se han recuperado mediante GET el PDF oficial de 2014 (34 páginas) y la reproducción editorial CEF de la STS 512/2015 (27 páginas, con sumario añadido identificable). Se han leído selectivamente sus encabezamientos, hechos relativos a la contratación y fallos, sin afirmar lectura íntegra de todos sus fundamentos. Los nombres de los PDFs están anonimizados y se han contrastado con la nota nominativa del CGPJ de 2014 y la información periodística. La STS 630/2022 se ha consultado como transcripción HTML en vLex: encabezamiento, antecedentes, pasajes sobre profesionales distintos, individualización y fallo; no como PDF oficial descargado. Los accesos oficiales por ECLI no han proporcionado el PDF. Las notas CGPJ de 2014 y 2020 y la noticia ORM de 2018 se han leído en su cuerpo completo; el PDF de La Verdad de 2024 se ha leído en el pasaje de Pagamenta, sin lectura íntegra de la edición.
+- **Lectura documental.** Se han recuperado mediante GET los originales oficiales de la SAP 272/2014 (34 páginas), STS 512/2015 (19 páginas) y STS 630/2022 (9 páginas). La reproducción editorial CEF de la STS 512/2015, de 27 páginas y con sumario añadido, es una versión distinta y se conserva identificada como tal. Del original de 2015 se han leído las páginas 1–2, 5–6 y 19 y el fallo de la página 18; del de 2022, las páginas 1–5 y 8–9. La lectura es dirigida, no íntegra de todos los fundamentos o contratos. Los encabezamientos y fallos confirman fechas, recursos y pronunciamientos; la página 2 de la STS de 2022 recoge la firmeza de 2015 y la página 5 distingue los profesionales de ambas causas. Los nombres anonimizados no se convierten en identidades por inferencia. Las notas nominativas y la prensa complementan la identificación; el original de 2022 sustituye la dependencia documental de la transcripción vLex. El PDF periodístico de La Verdad de 2024 solo se ha leído en el pasaje de Pagamenta, no como edición íntegra. Estos documentos no acreditan el cumplimiento, suspensión o extinción actual de las inhabilitaciones.
+
 - **Lagunas.** No se han recuperado las sentencias originales de la permuta de 2018 y de la instancia de 2020, ni el original y la firmeza de la absolución en apelación por la permuta ni el desenlace posterior de Pagamenta hasta el 17 de octubre de 2026. La ausencia de noticias no acredita ni continuidad ni cierre. La absolución de Antonio León Garre y su equipo por los presupuestos de 2016, publicada en 2023, corresponde a otros hechos y no se atribuye a García Madrid.
