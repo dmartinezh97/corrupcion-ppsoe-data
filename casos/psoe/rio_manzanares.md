@@ -25,20 +25,16 @@ implicados:
   rol: Investigada en 2019; archivo anunciado para la alcaldesa en 2022, sin firmeza comprobada
 - nombre: Jorge Juan Rodríguez
   cargo: Concejal de Urbanismo de Getafe (PSOE)
-  rol: Investigado o investigada en 2019; situación individual tras el archivo de 2022 pendiente de cotejar con
-    el auto
+  rol: Investigado en 2019; situación individual tras el archivo de 2022 pendiente de cotejar con el auto
 - nombre: María Teresa Mellado
-  cargo: Concejal de Mantenimiento de Getafe (PSOE)
-  rol: Investigado o investigada en 2019; situación individual tras el archivo de 2022 pendiente de cotejar con
-    el auto
+  cargo: Concejala de Mantenimiento de Getafe (PSOE)
+  rol: Investigada en 2019; situación individual tras el archivo de 2022 pendiente de cotejar con el auto
 - nombre: Ángel Muñoz
   cargo: Concejal de Mantenimiento de Getafe (PSOE)
-  rol: Investigado o investigada en 2019; situación individual tras el archivo de 2022 pendiente de cotejar con
-    el auto
+  rol: Investigado en 2019; situación individual tras el archivo de 2022 pendiente de cotejar con el auto
 - nombre: Raquel Alcázar
   cargo: Exconcejala de Mantenimiento de Getafe (PSOE)
-  rol: Investigado o investigada en 2019; situación individual tras el archivo de 2022 pendiente de cotejar con
-    el auto
+  rol: Investigada en 2019; situación individual tras el archivo de 2022 pendiente de cotejar con el auto
 documentos: []
 cronologia:
 - fecha: '2019-01-09'
