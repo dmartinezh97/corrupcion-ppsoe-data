@@ -1,67 +1,113 @@
 ---
-nombre: "Tele7"
+nombre: Tele7
 partido: PP
-completado: true
+completado: false
 año: 2012
-fechaInicio: 2011-07-01
-fechaFin: 2023-04-13
-estado: "cerrado con condenas"
-descripcion: |
-  El caso Tele7 se origina en julio de 2011, cuando el Ayuntamiento de Gandía (Valencia), gobernado por el PP bajo la alcaldía de Arturo Torró, cerró la televisión municipal Gandía TV. La gestión de los servicios de comunicación audiovisual pasó entonces a la empresa pública Iniciatives Públiques de Gandía (IPG). En 2012, IPG adjudicó dos contratos para la prestación de servicios de comunicación audiovisual a dos empresas privadas: Comarques Central Televisió SL (CCTV) y la empresa Inversiones Especiales del Mediterráneo SL, conocida comercialmente como Tele 7.
+estado: absuelto
+descripcion: 'El caso Tele7 se refiere a los servicios audiovisuales contratados por la empresa municipal Iniciatives
+  Públiques de Gandia (IPG) con Comarques Centrals Televisió e Inversiones Especiales del Mediterráneo (Tele7) y
+  a la posterior resolución del contrato con la primera. La condena penal de 2023 a Arturo Torró y Ricardo Manuel
+  Faura fue anulada por el Tribunal Supremo en junio de 2026, que acordó su absolución por vulneración del principio
+  acusatorio y del derecho de defensa.
 
-  El importe total abonado a ambas empresas por producciones audiovisuales y reemisiones superó los siete millones de euros durante la vigencia de los contratos y sus prórrogas entre 2012 y 2015. La investigación judicial determinó que los contratos fueron adjudicados de forma irregular, sin seguir los procedimientos legales de contratación pública, y con beneficio personal para el alcalde.
 
-  En abril de 2023, la Audiencia Provincial de Valencia condenó al exalcalde Arturo Torró a tres años y medio de prisión como autor de un delito de malversación de caudales públicos, con inhabilitación absoluta por seis años y seis meses. Junto a él fue condenado Ricardo Manuel Faura, exadministrador de Comarques Central Televisió, a un año y nueve meses de prisión como cooperador necesario en la malversación. Ambos fueron condenados solidariamente a indemnizar al Ayuntamiento de Gandía con 135.812,50 euros. Posteriormente, el Tribunal de Cuentas también condenó a Torró a pagar 283.000 euros adicionales. Arturo Torró fue asesinado a tiros en febrero de 2025 en circunstancias que no están relacionadas con este caso.
-resumen: "El exalcalde de Gandía Arturo Torró (PP) fue condenado a tres años y medio de prisión por malversación en la adjudicación irregular de contratos audiovisuales a Tele7 y otras empresas por valor de más de 7 millones de euros."
-coste: 7000000
-lugar: "Gandía, Comunidad Valenciana"
+  El Supremo estimó los recursos de los herederos de Faura y de Comarques Centrals Televisió, responsable civil
+  subsidiaria, y extendió el resultado a Torró. Ambos habían fallecido durante la tramitación. Quedaron sin efecto
+  las penas y la indemnización penal solidaria de 135.812,50 euros. La absolución no debe confundirse con una declaración
+  de legalidad de toda la gestión municipal.
+
+
+  Separadamente, la jurisdicción contable había impuesto a Torró el reintegro de 283.125 euros más intereses. La
+  prensa informó en diciembre de 2023 de la inadmisión de su recurso ante el Supremo. No se ha verificado el estado
+  de ejecución contable ni el eventual efecto de la absolución penal en esa vía. Faltan los originales judiciales
+  completos y comprobar la evolución hasta el 17 de octubre de 2026.'
+resumen: El Supremo absolvió en junio de 2026 a Torró y Faura en Tele7 y anuló la condena penal de 2023. La responsabilidad
+  contable y su ejecución se examinan por separado; faltan originales y seguimiento.
+lugar: Gandia, Valencia, Comunitat Valenciana
 tribunal:
-  - "Audiencia Provincial de Valencia"
-  - "Tribunal de Cuentas"
-numeroSentencia: ""
+- Audiencia Provincial de Valencia, Sección Segunda
+- Tribunal Supremo, Sala de lo Penal
+- Tribunal de Cuentas
+- Tribunal Supremo, Sala de lo Contencioso-Administrativo
+numeroSentencia: STS 437/2026, de 26 de junio (casación penal 4115/2023)
 implicados:
-  - nombre: "Arturo Torró"
-    cargo: "Exalcalde de Gandía (PP)"
-    rol: "Condenado a tres años y medio de prisión y seis años y medio de inhabilitación absoluta por malversación de caudales públicos. Condenado solidariamente a devolver 135.812,50 euros al Ayuntamiento. El Tribunal de Cuentas le condenó adicionalmente a pagar 283.000 euros. Fue asesinado en febrero de 2025."
-  - nombre: "Ricardo Manuel Faura"
-    cargo: "Exadministrador de Comarques Central Televisió SL"
-    rol: "Condenado a un año y nueve meses de prisión como cooperador necesario en la malversación. Condenado solidariamente con Torró a devolver 135.812,50 euros al Ayuntamiento de Gandía."
+- nombre: Arturo Torró
+  cargo: Exalcalde de Gandia (PP) y presidente de IPG
+  rol: Condenado penalmente en 2023 y absuelto por el Supremo en 2026. Fallecido durante el recurso. Responsabilidad
+    contable de 283.125 euros más intereses en procedimiento separado, con ejecución pendiente de verificar.
+- nombre: Ricardo Manuel Faura
+  cargo: Exadministrador de Comarques Centrals Televisió
+  rol: Condenado como cooperador en 2023; absuelto por el Supremo en 2026 tras continuar sus herederos el recurso.
+    Fallecido durante la tramitación.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "contratación irregular"
-  - "medios de comunicación"
-  - "administración pública"
-impactoSocial: "El caso Tele7 mostró cómo los contratos de servicios audiovisuales municipales podían convertirse en un mecanismo de corrupción para desviar fondos públicos hacia empresas privadas afines. La condena del exalcalde Arturo Torró fue uno de los ejemplos más claros de corrupción en la gestión de medios de comunicación local durante los años de gobierno del PP en la Comunitat Valenciana. El caso adquirió una dimensión trágica cuando Torró fue asesinado en 2025, antes de cumplir su condena definitivamente."
-documentos: null
+- servicios audiovisuales
+- malversación
+- responsabilidad contable
+- absolución
+documentos: []
 cronologia:
-  - fecha: 2011-07-01
-    titulo: "Cierre de Gandía TV y traspaso de competencias a IPG"
-    descripcion: "El Ayuntamiento de Gandía, gobernado por Arturo Torró (PP), cierra la televisión municipal Gandía TV. La gestión de los servicios de comunicación pasa a Iniciatives Públiques de Gandía (IPG), empresa pública municipal."
-    type: "investigación"
-    relevancia: "media"
-    urls: []
-  - fecha: 2012-01-01
-    titulo: "Adjudicación irregular de contratos audiovisuales"
-    descripcion: "IPG adjudica dos contratos para servicios de comunicación audiovisual a Comarques Central Televisió SL (CCTV) y a Inversiones Especiales del Mediterráneo SL (Tele 7), sin seguir los procedimientos legales de licitación pública. El importe de ambos contratos y sus prórrogas superará los siete millones de euros."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://valenciaplaza.com/tag/caso+tele+7"
-  - fecha: 2023-04-13
-    titulo: "Condena del exalcalde Arturo Torró a tres años y medio de prisión"
-    descripcion: "La Audiencia Provincial de Valencia condena a Arturo Torró (PP) a tres años y medio de prisión y seis años y medio de inhabilitación absoluta por malversación. Ricardo Manuel Faura es condenado a un año y nueve meses como cooperador. Ambos deben devolver solidariamente 135.812,50 euros al Ayuntamiento de Gandía."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.moncloa.com/2023/04/13/audiencia-condena-tres-anos-medio-prision-exalcalde-gandia-caso-tele7-1939179/"
-      - "https://valenciaplaza.com/valenciaplaza/audiencia-condena-exalcalde-gandia-caso-tele7"
-      - "https://www.eldiario.es/comunitat-valenciana/comarcas/exalcalde-gandia-arturo-torro-pp-condenado-devolver-ayuntamiento-283-000-euros-caso-tele7_1_8176166.html"
-  - fecha: 2025-02-20
-    titulo: "Asesinato de Arturo Torró"
-    descripcion: "Arturo Torró, exalcalde de Gandía y condenado en el caso Tele7, es asesinado a tiros en una carretera. Su muerte no está relacionada con el caso de corrupción."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://www.newtral.es/arturo-torro-muerto/20250220/"
+- fecha: '2021-07-27'
+  titulo: Sentencia contable de primera instancia
+  descripcion: La sentencia 3/2021 del Tribunal de Cuentas fijó un alcance de 283.125 euros y responsabilidad contable
+    directa, más intereses. La fecha se comprueba en la reproducción de la sentencia de apelación; no es la fecha
+    de publicación de la noticia.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.iberley.es/resoluciones/resolucion-tc-9-2022-2530363
+  - https://www.eldiario.es/comunitat-valenciana/comarcas/exalcalde-gandia-arturo-torro-pp-condenado-devolver-ayuntamiento-283-000-euros-caso-tele7_1_8176166.html
+- fecha: '2022-09-21'
+  titulo: Desestimación de las apelaciones contables
+  descripcion: La sentencia 9/2022 de la Sala de Justicia del Tribunal de Cuentas desestimó los recursos contra
+    la sentencia 3/2021, según su reproducción jurídica. No confundir la fecha de la resolución con el metadato
+    genérico 01/01/2022 del portal.
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://www.iberley.es/resoluciones/resolucion-tc-9-2022-2530363
+- fecha: '2023-04-11'
+  titulo: Condena penal posteriormente anulada
+  descripcion: La sentencia 212/2023 de la Audiencia de Valencia condenó a Torró a tres años y seis meses de prisión
+    y a Faura a un año y nueve meses, con indemnización solidaria de 135.812,50 euros. Estas condenas fueron anuladas
+    en 2026. La noticia inicial se publicó el 13 de abril.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://valenciaplaza.com/valenciaplaza/audiencia-condena-exalcalde-gandia-caso-tele7
+  - https://www.iberley.es/jurisprudencia/sentencia-penal-tribunal-supremo-sala-lo-penal-26-6-26-1840753989
+- fecha: '2023-12-20'
+  titulo: Inadmisión de la casación en la vía contable
+  descripcion: Según Gente de la Safor y Valencia Plaza, el Supremo inadmitió el recurso contra la sentencia contable
+    de 21 de septiembre de 2022. No es una resolución sobre el recurso penal. Original y ejecución pendientes de
+    comprobar.
+  type: recurso
+  relevancia: alta
+  urls:
+  - https://gentedelasafor.es/el-tribunal-supremo-confirma-que-arturo-torro-debe-devolver-mas-de-350-000-e-por-el-caso-tele-7
+  - https://valenciaplaza.com/valenciaplaza/el-tribunal-supremo-ratifica-que-arturo-torro-debe-devolver-mas-de-350000-euros-por-el-caso-tele7
+- fecha: '2026-06-26'
+  titulo: Absolución penal por el Tribunal Supremo
+  descripcion: La STS 437/2026 anuló la sentencia de 2023 por vulneración del principio acusatorio. La absolución
+    de Torró y Faura y la eliminación de la indemnización penal fueron difundidas por Europa Press y Valencia Plaza
+    el 30 de junio.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.iberley.es/jurisprudencia/sentencia-penal-tribunal-supremo-sala-lo-penal-26-6-26-1840753989
+  - https://valenciaplaza.com/valenciaplaza/comarca-y-empresa/el-supremo-absuelve-al-fallecido-alcalde-de-gandia-arturo-torro-de-malversacion-en-el-caso-tele7
+  - https://www.europapress.es/comunitat-valenciana/noticia-ts-absuelve-fallecido-arturo-torro-malversacion-caso-tele7-ver-vulnerado-derecho-defensa-20260630192151.html
 ---
+
+## Hechos y resultado penal
+
+Tras el cierre de Gandia TV en julio de 2011, IPG contrató servicios audiovisuales en 2012. El litigio penal terminó centrado en el convenio de resolución de 2013 con Comarques Centrals Televisió. La Audiencia calculó un exceso indemnizable que no había constituido la base de las acusaciones. El Supremo consideró vulnerado el derecho de defensa y anuló la condena, extendiendo el resultado a Torró aunque su propio recurso había quedado desierto. No se atribuye a los acusados un beneficio personal como hecho penalmente acreditado.
+
+## Importes y vía contable
+
+Los más de siete millones de euros mencionados en la información histórica son volumen de servicios y prórrogas, **no daño probado**. La indemnización penal de 135.812,50 euros quedó sin efecto con la absolución. El reintegro contable de 283.125 euros más intereses procede de otra jurisdicción: no se suma a aquella indemnización ni al volumen contractual. La prensa calculaba unos 350.000 euros con intereses en diciembre de 2023; esa cifra no se presenta como principal ni como liquidación actual verificada.
+
+## Límites de la revisión
+
+Se han leído las informaciones completas de Europa Press y Valencia Plaza sobre la absolución y pasajes de reproducciones jurídicas de la STS 437/2026 y de la sentencia contable 9/2022. No se han descargado los originales completos de las resoluciones penales, incluida la segunda sentencia absolutoria, ni la providencia contenciosa de diciembre de 2023. La URL oficial del libro de resoluciones contables redirige a un buscador, no entrega el PDF anunciado; por ello `documentos` permanece vacío.
+
+Quedan pendientes los originales, la ejecución o revisión de la responsabilidad contable y la comprobación de novedades hasta el corte del 17 de octubre de 2026. La referencia periodística a la firmeza contable no sustituye su verificación documental. No se deduce el estado contable de la absolución penal ni se atribuye relación causal entre este caso y el fallecimiento de Torró. Las discrepancias de prensa sobre la inhabilitación de 2023 se omiten mientras no se contraste el fallo original, hoy anulado.
