@@ -21,7 +21,7 @@ tribunal:
 - Sala Segunda del Tribunal Supremo
 numeroSentencia: 'Cohecho: 41/2010, de 7 de septiembre; TSXG 8/2011, de 21 de julio; STS 474/2012, de 6 de junio, ECLI:ES:TS:2012:4446'
 implicados:
-- nombre: José Luis Mosquera Veleiro
+- nombre: José Luis Mosquera
   cargo: Concejal de Cultura y portavoz del gobierno local; independiente en la candidatura del PP
   rol: Condenado por tres cohechos, multa total de 135.000 euros según Servimedia. También aparece entre los condenados por
     licencias urbanísticas en la prensa de 2010
@@ -29,7 +29,7 @@ implicados:
   cargo: Exconcejal de Urbanismo del PP
   rol: Condenado por tres cohechos a multas que suman 540.000 euros; apelación desestimada en 2011 según Europa Press. La
     causa tuvo casación y nulidad resueltas en 2012
-- nombre: Francisco Javier Borja Ramilo
+- nombre: Francisco Borja Ramilo
   cargo: Arquitecto que intervino como intermediario
   rol: Condenado como cooperador necesario de tres cohechos; multa total de 67.500 euros según la prensa
 - nombre: Belén Fernández
