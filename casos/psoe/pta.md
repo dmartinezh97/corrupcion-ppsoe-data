@@ -1,125 +1,147 @@
 ---
-nombre: Caso PTA
-partido: PSOE
-completado: true
-año: 2009
-fechaInicio: 2007-01-01
-fechaFin: 2017-09-15
-estado: cerrado con condenas
-lugar: Jerez de la Frontera, Cádiz, Andalucía
-coste: 244000
-descripcion: |
-  El Caso PTA es un caso de corrupción política que afectó al Ayuntamiento de Jerez de la Frontera en 2007, cuando la alcaldesa socialista Pilar Sánchez Muñoz cometió irregularidades en la concesión de una ayuda municipal de 244.000 euros a la empresa Tecnología e Innovación Sanitaria (TISA) para instalarse en el Parque Tecnológico Agroindustrial (PTA) de Jerez. La Audiencia Provincial de Cádiz consideró probado que Sánchez presionó al técnico municipal encargado de evaluar la solicitud para que "tratase con cariño" a la empresa, logrando que se manipulara la puntuación técnica del proyecto.
-
-  El mecanismo del fraude consistió en inflar artificialmente la valoración de TISA para justificar una subvención del 40% del precio de instalación, cuando la puntuación real solo daba derecho a una ayuda del 20%. Inicialmente, el técnico asignó 9 puntos sobre 14 a la solicitud, pero tras las presiones de la alcaldesa y ante la negativa del técnico a modificar su informe, la entonces delegada de Medio Rural, Carmen Martínez, ordenó al capataz municipal Salvador Rubio —sin competencia administrativa para ello— que firmara un nuevo informe elevando la puntuación a 14 puntos. Esta falsificación documental permitió duplicar el importe de la subvención municipal, causando un perjuicio patrimonial al Ayuntamiento de Jerez y desviando fondos públicos en beneficio de una empresa privada.
-
-  El caso fue denunciado por el Partido Andalucista (PA) en 2009 y tras años de instrucción judicial, la Audiencia Provincial de Cádiz condenó en febrero de 2015 a Pilar Sánchez a 4 años y 6 meses de prisión por los delitos de falsedad en documento oficial, prevaricación y malversación de caudales públicos. El Tribunal Supremo confirmó la sentencia en diciembre de 2015, ordenando además el pago solidario de 122.360 euros al Ayuntamiento. Sánchez ingresó en prisión el 31 de enero de 2016 en el centro penitenciario de Alcalá de Guadaíra, convirtiéndose en la segunda alcaldesa de Jerez en ser encarcelada por corrupción después de Pedro Pacheco. Tras cumplir más de un tercio de la condena y demostrar un comportamiento ejemplar en prisión (donde impartió clases de inglés a otras reclusas), obtuvo el tercer grado penitenciario en septiembre de 2017.
-resumen: Manipulación de informes técnicos para inflar una subvención municipal a empresa del Parque Tecnológico Agroindustrial de Jerez.
-tribunal:
-  - "Audiencia Provincial de Cádiz - Sección Octava"
-  - "Tribunal Supremo - Sala Segunda"
-  - "Juzgado de Instrucción número 3 de Jerez"
-numeroSentencia: ""
-tags:
-  - corrupción
-  - falsedad documental
-  - prevaricación
-  - malversación
-  - subvenciones irregulares
-impactoSocial: El caso evidenció las prácticas de clientelismo en la gestión municipal andaluza y convirtió a Pilar Sánchez en la segunda alcaldesa de Jerez en ser encarcelada por corrupción, generando un fuerte impacto mediático en la provincia de Cádiz.
-
-implicados:
-  - nombre: Pilar Sánchez Muñoz
-    cargo: Alcaldesa de Jerez de la Frontera (PSOE, 2005-2011)
-    rol: Condenada a 4 años y 6 meses por falsedad, prevaricación y malversación
-
-  - nombre: María del Carmen Martínez Martínez
-    cargo: Delegada de Medio Rural del Ayuntamiento de Jerez
-    rol: Condenada a 2 años, 6 meses y 15 días por falsedad, prevaricación y malversación
-
-  - nombre: Salvador Rubio
-    cargo: Capataz municipal del Ayuntamiento de Jerez
-    rol: Condenado a 1 año y 9 meses por falsedad documental
-
-  - nombre: Francisco Lebrero
-    cargo: Delegado de Fomento del Ayuntamiento de Jerez
-    rol: Absuelto por falta de pruebas
-
-documentos: []
-
-cronologia:
-  - fecha: 2007-01-01
-    titulo: Concesión irregular de subvención a TISA
-    descripcion: La alcaldesa Pilar Sánchez presiona al técnico municipal para que valore favorablemente la solicitud de TISA, empresa dedicada a fabricar generadores de oxígeno. Ante la negativa del técnico, la delegada Carmen Martínez hace firmar al capataz Salvador Rubio un informe que eleva la puntuación de 9 a 14 puntos, permitiendo duplicar la subvención del 20% al 40% del precio (244.000 euros) para instalarse en el Parque Tecnológico Agroindustrial.
-    urls:
-      - https://www.andaluciainformacion.es/articulo/jerez/pilar-sanchez-condenada-a-cuatro-anos-y-medio-por-el-caso-pta/201502231311501604561.html
-    type: resumen
-
-  - fecha: 2009-01-01
-    titulo: Denuncia del Partido Andalucista
-    descripcion: El Partido Andalucista (PA), entonces socio de gobierno del PSOE en Jerez, presenta una denuncia ante la justicia por las irregularidades cometidas en la concesión de la subvención a TISA. La denuncia se produce en el contexto de una ruptura política entre ambas formaciones y marca el inicio del proceso judicial.
-    urls:
-      - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+PTA&numero=318
-    type: denuncia
-
-  - fecha: 2012-01-02
-    titulo: Pilar Sánchez nombrada alto cargo de la Junta estando imputada
-    descripcion: El Gobierno de la Junta de Andalucía del PSOE nombra a Pilar Sánchez directora del Instituto Andaluz de Cualificaciones Profesionales, dependiente de la Consejería de Educación, con el nombramiento publicado en el BOJA del 2 de enero. El nombramiento genera una fuerte polémica porque Sánchez ya se encontraba imputada judicialmente por el caso PTA, lo que evidencia la protección institucional que recibió del partido pese a estar investigada.
-    urls:
-      - http://canarias-semanal.org/art/6701/_el_gobierno_andaluz_nombra_alto_cargo_de_la_junta_a_ex_alcaldesa_de_jerez_imputada_por_presunta_corrupcion_
-      - https://andaluciainformacion.es/jerez/365285/el-pa-pide-el-cese-de-pilar-sanchez-en-su-cargo-en-la-consejeria-de-educacion/
-    type: resumen
-
-  - fecha: 2012-12-05
-    titulo: Apertura de juicio oral
-    descripcion: El Juzgado de Instrucción número 3 de Jerez dicta auto ordenando la apertura de juicio oral contra Pilar Sánchez y otros acusados, tras considerar que existen suficientes indicios de que cometieron delitos de prevaricación, malversación de caudales públicos y falsedad documental. El juicio se prevé para mayo de 2013.
-    urls:
-      - https://www.andaluciainformacion.es/articulo/jerez/ordenan-abrir-juicio-oral-contra-la-exalcaldesa-socialista-pilar-sanchez/201212051833161319939.html
-    type: investigación
-
-  - fecha: 2013-09-01
-    titulo: La Audiencia Provincial desestima todos los recursos y confirma el juicio oral
-    descripcion: La Audiencia Provincial de Cádiz desestima todos los recursos de apelación interpuestos por los abogados de Pilar Sánchez y del resto de los seis acusados contra el procedimiento abreviado. Tras rechazar todos los escritos, la Sala solicita la presentación de los escritos de acusación, confirmando que el caso irá a juicio oral. Las acusaciones incluyen los delitos de prevaricación, tráfico de influencias, malversación de caudales públicos y falsedad documental.
-    urls:
-      - https://informacionsanfernando.es/san-fernando/340217/pilar-sanchez-ira-a-juicio-por-el-caso-pta-al-desestimarse-sus-recursos/
-    type: investigación
-
-  - fecha: 2015-01-29
-    titulo: Juicio visto para sentencia en la Audiencia Provincial
-    descripcion: Tras la celebración del juicio oral en la Sección Octava de la Audiencia Provincial de Cádiz, el tribunal da por finalizada la vista y anuncia que dictará sentencia en las próximas semanas. Durante el juicio se analizaron las grabaciones, documentos y testimonios sobre la manipulación de los informes técnicos.
-    urls:
-      - https://www.andaluciainformacion.es/articulo/jerez/pilar-sanchez-condenada-a-cuatro-anos-y-medio-por-el-caso-pta/201502231311501604561.html
-    type: declaración
-
-  - fecha: 2015-02-23
-    titulo: Sentencia de la Audiencia Provincial de Cádiz
-    descripcion: La Audiencia Provincial de Cádiz condena a Pilar Sánchez a 4 años y 6 meses de prisión y 8 años de inhabilitación absoluta por los delitos de falsedad en documento oficial con agravante de prevalerse de su carácter público, prevaricación y malversación. También condena a Carmen Martínez a 2 años, 6 meses y 15 días, a Salvador Rubio a 1 año y 9 meses, y absuelve a Francisco Lebrero. Ordena el pago solidario de 122.360 euros al Ayuntamiento.
-    urls:
-      - https://www.andaluciainformacion.es/articulo/jerez/pilar-sanchez-condenada-a-cuatro-anos-y-medio-por-el-caso-pta/201502231311501604561.html
-      - https://confilegal.com/20151221-supremo-confirma-condena-4-anos-exalcaldesa-jerez-pilar-sanchez-21122015-1612/
-    type: sentencia
-
-  - fecha: 2015-12-21
-    titulo: El Tribunal Supremo confirma la condena
-    descripcion: La Sala Segunda del Tribunal Supremo desestima el recurso de casación interpuesto por Pilar Sánchez y Carmen Martínez y confirma íntegramente la sentencia de la Audiencia Provincial de Cádiz. El alto tribunal ratifica las penas de prisión e inhabilitación y valida todos los razonamientos jurídicos de la sentencia condenatoria, cerrando la vía judicial ordinaria.
-    urls:
-      - https://confilegal.com/20151221-supremo-confirma-condena-4-anos-exalcaldesa-jerez-pilar-sanchez-21122015-1612/
-      - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Tribunal-Supremo-confirma-la-condena-a-4-anos-y-6-meses-de-prision-a-la-exalcaldesa-de-Jerez-de-la-Frontera-Pilar-Sanchez
-    type: sentencia
-
-  - fecha: 2016-01-31
-    titulo: Pilar Sánchez ingresa en prisión
-    descripcion: La exalcaldesa socialista ingresa en el centro penitenciario de mujeres de Alcalá de Guadaíra (Sevilla) para cumplir la condena de 4 años y 6 meses de prisión. Se convierte así en la segunda regidora de Jerez que es encarcelada por corrupción, después de Pedro Pacheco, su antiguo socio de gobierno en el Partido Andalucista.
-    urls:
-      - https://www.publico.es/politica/exalcaldesa-jerez-ingresa-prision-conceder-subvencion-empresa.html
-      - https://www.elplural.com/autonomias/andalucia/la-exalcaldesa-socialista-de-jerez-pilar-sanchez-ingresa-en-prision_89846102
-    type: resumen
-
-  - fecha: 2017-09-15
-    titulo: Concesión del tercer grado penitenciario
-    descripcion: El Juzgado de Vigilancia Penitenciaria número 2 de Andalucía concede a Pilar Sánchez el tercer grado penitenciario tras cumplir más de un tercio de la condena. La decisión se basa en los informes favorables de la junta de tratamiento del centro penitenciario, que destacan su comportamiento ejemplar y su labor impartiendo clases de inglés a otras internas. Sale del centro penitenciario en régimen de semilibertad con control telemático.
-    urls:
-      - https://www.elmira.es/articulo/jerez/pilar-sanchez-obtiene-el-tercer-grado-y-sale-de-prision/20170915073304208352.html
-      - https://andaluciainformacion.es/andalucia/701341/la-mejor-semana-para-pilar-sanchez-y-pedro-pacheco-en-mucho-tiempo/
-    type: resumen
+"nombre": "Caso PTA"
+"partido": "PSOE"
+"completado": false
+"año": 2008
+"estado": "Condenas confirmadas; seguimiento de ejecución pendiente"
+"lugar": "Jerez de la Frontera, Cádiz, Andalucía"
+"coste": 122360
+"descripcion": "El caso afecta a la ayuda municipal a Tecnología Innovación Sanitaria S.L. (TISA) para adquirir\
+  \ suelo en el Parque Tecnológico Agroindustrial de Jerez, distinto del parque tecnológico malagueño. La manipulación\
+  \ de la valoración técnica permitió elevar la ayuda del 20 al 40 por ciento. El original judicial cifra la ayuda\
+  \ aplicada en 244.720 euros y la responsabilidad civil en 122.360 euros, cantidad que se muestra como coste, sin\
+  \ duplicarla por la solidaridad entre las dos condenadas.\n\nLa Audiencia Provincial de Cádiz dictó sentencia\
+  \ el 20 de febrero de 2015. Condenó a Pilar Sánchez Muñoz a cuatro años y seis meses de prisión y ocho años de\
+  \ inhabilitación absoluta por falsedad, prevaricación y malversación; a María del Carmen Martínez Martínez a dos\
+  \ años, seis meses y quince días de prisión por esos delitos, y al capataz Salvador Rubio a un año y nueve meses\
+  \ por falsedad documental. Francisco Lebrero y tres consejeros de TISA fueron absueltos. El Supremo desestimó\
+  \ las casaciones de las dos condenadas y de la Fiscalía mediante sentencia 797/2015, de 24 de noviembre, difundida\
+  \ el 21 de diciembre; ambas fechas son distintas.\n\nEFE documentó el ingreso de Pilar Sánchez el 31 de enero\
+  \ de 2016 y la prensa informó de su tercer grado en septiembre de 2017. En el caso de Carmen Martínez, las fuentes\
+  \ documentan la denegación del indulto, su ingreso en prisión conocido en febrero de 2019 y un tercer grado referido\
+  \ en octubre de ese año. No se han recuperado las resoluciones penitenciarias, el desenlace del amparo de Sánchez\
+  \ ni las declaraciones de extinción de penas o el pago efectivo de la indemnización hasta el 17 de octubre de\
+  \ 2026. Tampoco se ha comprobado la ejecución individual de Salvador Rubio; no se considera cerrado el seguimiento\
+  \ por el mero transcurso del tiempo."
+"resumen": "Manipulación de informes para elevar una ayuda a TISA: tres condenas, cuatro absoluciones personales\
+  \ y responsabilidad civil de 122.360 euros."
+"tribunal":
+- "Audiencia Provincial de Cádiz — Sección Octava, sede en Jerez"
+- "Tribunal Supremo — Sala de lo Penal"
+"numeroSentencia": "STS 797/2015, de 24 de noviembre, ECLI:ES:TS:2015:5212; confirma sentencia de la Audiencia de\
+  \ 20 de febrero de 2015."
+"implicados":
+- "nombre": "Pilar Sánchez Muñoz"
+  "cargo": "Exalcaldesa de Jerez de la Frontera (PSOE)"
+  "rol": "Condena de cuatro años y seis meses de prisión y ocho años de inhabilitación absoluta por falsedad, prevaricación\
+    \ y malversación, mantenida en casación. Ingreso documentado en enero de 2016 y tercer grado conocido en 2017;\
+    \ amparo y ejecución final pendientes de cotejo."
+- "nombre": "María del Carmen Martínez Martínez"
+  "cargo": "Exdelegada municipal de Medio Rural"
+  "rol": "Condena de dos años, seis meses y quince días de prisión por falsedad, prevaricación y cooperación necesaria\
+    \ en malversación, mantenida en casación. Indulto denegado e ingreso documentados en 2019, con posterior referencia\
+    \ a tercer grado. Ejecución final no comprobada."
+- "nombre": "Salvador Rubio"
+  "cargo": "Capataz municipal"
+  "rol": "Condenado en primera instancia a un año y nueve meses de prisión por falsedad en documento oficial. No\
+    \ se ha verificado su ejecución individual ni se le atribuye malversación o responsabilidad civil de las otras\
+    \ condenadas."
+- "nombre": "Francisco Lebrero"
+  "cargo": "Exdelegado municipal de Fomento"
+  "rol": "Absuelto; las informaciones sobre la sentencia no acreditan intervención en el expediente o en el informe\
+    \ manipulado."
+- "nombre": "José Manuel Caro"
+  "cargo": "Consejero de TISA en el proceso"
+  "rol": "Absuelto según EFE; no se acreditaron contactos con las responsables municipales para manipular la ayuda."
+- "nombre": "José María César"
+  "cargo": "Consejero de TISA en el proceso"
+  "rol": "Absuelto según EFE; no se acreditaron contactos con las responsables municipales para manipular la ayuda."
+- "nombre": "José María Rivera"
+  "cargo": "Consejero de TISA en el proceso"
+  "rol": "Absuelto según EFE; no se acreditaron contactos con las responsables municipales para manipular la ayuda."
+"tags":
+- "falsedad documental"
+- "prevaricación"
+- "malversación"
+- "subvenciones"
+- "Jerez"
+"impactoSocial": "La sentencia examina cómo la manipulación del informe técnico permitió superar los controles del\
+  \ expediente de ayuda. La responsabilidad penal de las autoridades y del firmante se distingue de las absoluciones\
+  \ de otros cargos y representantes empresariales."
+"documentos":
+- "fecha": "2015-11-24"
+  "titulo": "Tribunal Supremo: sentencia 797/2015, caso PTA de Jerez"
+  "filetype": "pdf"
+  "paginas": 49
+  "nombre_fichero": "https://www.poderjudicial.es/stfls/SALA DE PRENSA/NOTAS DE PRENSA/TS Sala II 24 novi. 2015.pdf"
+"cronologia":
+- "fecha": "2008-01-25"
+  "titulo": "Resolución municipal de ayuda posteriormente anulada"
+  "descripcion": "El fallo reproducido por el Supremo declara nula la resolución de esta fecha que fijó para TISA\
+    \ una ayuda del 40 por ciento del precio del suelo. No se convierte el total de esa ayuda en el daño indemnizable."
+  "type": "documento"
+  "urls":
+  - "https://www.poderjudicial.es/stfls/SALA DE PRENSA/NOTAS DE PRENSA/TS Sala II 24 novi. 2015.pdf"
+- "fecha": "2015-02-20"
+  "titulo": "Sentencia de la Audiencia Provincial de Cádiz"
+  "descripcion": "Impone tres condenas, absuelve a cuatro acusados y a TISA de la pretensión de responsabilidad\
+    \ civil. Fija 122.360 euros solidarios para las dos condenadas. Las dos también fueron absueltas del delito\
+    \ de fraude a la Administración."
+  "type": "sentencia"
+  "urls":
+  - "https://www.poderjudicial.es/stfls/SALA DE PRENSA/NOTAS DE PRENSA/TS Sala II 24 novi. 2015.pdf"
+  - "https://www.andaluciainformacion.es/articulo/jerez/pilar-sanchez-condenada-a-cuatro-anos-y-medio-por-el-caso-pta/201502231311501604561.html"
+- "fecha": "2015-11-24"
+  "titulo": "El Supremo desestima las casaciones"
+  "descripcion": "La STS 797/2015 rechaza los recursos de las dos condenadas y de la Fiscalía. No equivale a acreditar\
+    \ el cumplimiento posterior de penas o indemnizaciones."
+  "type": "sentencia"
+  "urls":
+  - "https://www.poderjudicial.es/stfls/SALA DE PRENSA/NOTAS DE PRENSA/TS Sala II 24 novi. 2015.pdf"
+- "fecha": "2015-12-21"
+  "titulo": "Publicación de la confirmación por el Supremo"
+  "descripcion": "La nota oficial comunica las penas y la responsabilidad civil solidaria. Fecha de la nota, no\
+    \ del acto judicial."
+  "type": "documento"
+  "urls":
+  - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Tribunal-Supremo-confirma-la-condena-a-4-anos-y-6-meses-de-prision-a-la-exalcaldesa-de-Jerez-de-la-Frontera-Pilar-Sanchez"
+- "fecha": "2016-01-31"
+  "titulo": "Ingreso de Pilar Sánchez en prisión"
+  "descripcion": "EFE informa al día siguiente del ingreso ocurrido la tarde anterior en Alcalá de Guadaíra. No\
+    \ se traslada esa fecha a los demás condenados."
+  "type": "resumen"
+  "urls":
+  - "https://www.publico.es/politica/exalcaldesa-jerez-ingresa-prision-conceder-subvencion-empresa.html"
+- "fecha": "2017-09-16"
+  "titulo": "Se conoce el tercer grado de Pilar Sánchez"
+  "descripcion": "Andalucía Información refiere la concesión por el Juzgado de Vigilancia Penitenciaria número 2\
+    \ de Andalucía y el régimen de semilibertad con control telemático. Se usa la fecha de publicación, sin fijar\
+    \ la de la resolución no recuperada."
+  "type": "resumen"
+  "urls":
+  - "https://andaluciainformacion.es/andalucia/701341/la-mejor-semana-para-pilar-sanchez-y-pedro-pacheco-en-mucho-tiempo/"
+- "fecha": "2019-02-05"
+  "titulo": "Se conoce el ingreso de Carmen Martínez tras denegarse el indulto"
+  "descripcion": "La Voz del Sur informa de la denegación y del ingreso en Puerto III. No se aplica a ella el calendario\
+    \ de ejecución de Pilar Sánchez."
+  "type": "resumen"
+  "urls":
+  - "https://www.lavozdelsur.es/actualidad/politica/la-ex-delegada-carmen-martinez-no-logra-el-indulto-por-una-grave-enfermedad-e-ingresa-en-puerto-iii-por-el-caso-pta_100561_102.html"
+- "fecha": "2019-10-21"
+  "titulo": "Se documenta el tercer grado de Carmen Martínez"
+  "descripcion": "Un reportaje de La Voz del Sur refiere tres meses en prisión durante ese año y su tercer grado.\
+    \ No acredita la fecha exacta de clasificación ni la extinción de la pena."
+  "type": "resumen"
+  "urls":
+  - "https://www.lavozdelsur.es/actualidad/sociedad/las-dos-resurrecciones-de-carmen-martinez-la-politica-ha-sido-mi-mayor-pesadilla_137880_102.html"
 ---
+
+El año de referencia corresponde a la resolución municipal de ayuda de 25 de enero de 2008, no a la denuncia posterior de 2009.
+
+El fallo distingue tres condenados de cuatro personas absueltas. Los consejeros de TISA no fueron condenados por haber solicitado la ayuda. La entidad, posteriormente denominada Sistema de Innovación de Fluidos S.L., fue absuelta de la pretensión civil dirigida contra ella. Las dos condenadas recurrentes también fueron absueltas del delito adicional de fraude a la Administración. Las penas de multa y demás accesorios recogidos en el original no se suman al daño.
+
+La ayuda alcanzó 244.720 euros, mientras que el exceso objeto de restitución solidaria es de 122.360 euros. No se multiplica ese principal por cada responsable ni se añaden intereses procesales sin liquidación. La condena tampoco significa que se probara una apropiación personal de todo el importe por la alcaldesa. El destino era la adquisición de suelo y el mecanismo de aplicación incluyó una compensación contable; no se describe como una simple transferencia de efectivo.
+
+El tercer grado es un modo de cumplimiento, no una declaración de extinción. Los datos penitenciarios de Pilar Sánchez en 2016–2017 y de Carmen Martínez en 2019 son individuales. Falta el seguimiento de Salvador Rubio y de los pagos civiles. La noticia de un amparo formalizado por Sánchez en enero de 2016 no demuestra su admisión o resolución favorable. Tampoco se incorporan a este caso las resoluciones del Plan E u otras causas de los antiguos alcaldes de Jerez.
+
+Fuentes: [sentencia original del Supremo](https://www.poderjudicial.es/stfls/SALA DE PRENSA/NOTAS DE PRENSA/TS Sala II 24 novi. 2015.pdf), [nota oficial](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Tribunal-Supremo-confirma-la-condena-a-4-anos-y-6-meses-de-prision-a-la-exalcaldesa-de-Jerez-de-la-Frontera-Pilar-Sanchez), [EFE, sentencia y nombres de los absueltos](https://www.andaluciainformacion.es/articulo/jerez/pilar-sanchez-condenada-a-cuatro-anos-y-medio-por-el-caso-pta/201502231311501604561.html), [EFE/Público, ingreso de Sánchez](https://www.publico.es/politica/exalcaldesa-jerez-ingresa-prision-conceder-subvencion-empresa.html), [Andalucía Información, tercer grado de Sánchez](https://andaluciainformacion.es/andalucia/701341/la-mejor-semana-para-pilar-sanchez-y-pedro-pacheco-en-mucho-tiempo/), [La Voz del Sur, ingreso de Martínez](https://www.lavozdelsur.es/actualidad/politica/la-ex-delegada-carmen-martinez-no-logra-el-indulto-por-una-grave-enfermedad-e-ingresa-en-puerto-iii-por-el-caso-pta_100561_102.html), [La Voz del Sur, situación penitenciaria referida en octubre de 2019](https://www.lavozdelsur.es/actualidad/sociedad/las-dos-resurrecciones-de-carmen-martinez-la-politica-ha-sido-mi-mayor-pesadilla_137880_102.html) y [Diario de Jerez, amparo anunciado](https://www.diariodejerez.es/jerez/Pilar-Sanchez-formaliza-Tribunal-Constitucional_0_989601335.html).
