@@ -15,7 +15,6 @@ descripcion: 'Investigación sobre la gestión de Alcalá Comunicación Municipa
   octubre de 2026 no acredita el cierre global del caso.'
 resumen: Investigación de la empresa municipal ACM, con archivos personales diferenciados y estado de la causa restante
   pendiente de verificación.
-coste: 0
 lugar: Alcalá de Guadaíra, Sevilla, Andalucía
 tribunal:
 - Tribunal Supremo, Sala de lo Penal
@@ -135,6 +134,6 @@ La resolución de abril de 2018 examina una facturación de 976,15 euros relacio
 
 La resolución se limita a la causa especial del aforado. Las noticias de 2020 describen archivos posteriores respecto de los exconcejales, aplicando criterios del Supremo; en el caso de Miriam Burgos también recogen un justificante de pago personal del viaje a Puerto Rico. Esos originales no se han recuperado y no se atribuye al archivo de todos ellos la misma causa de prescripción. La noticia de julio de 2020 dice expresamente que otras actuaciones continuaban. La información de septiembre de 2023 sobre la petición fiscal no permite convertirla en un auto de archivo ni afirmar que la investigación continúe actualmente.
 
-El coste cero indica ausencia de una cuantificación judicial de daño acreditada en esta revisión, no prueba de inexistencia de perjuicio. Se retira el medio millón heredado como daño: un déficit de liquidación no equivale por sí solo a dinero malversado. Tampoco se presentan los más de trece millones de transferencias municipales mencionados en la exposición razonada inicial como fondos íntegramente desviados. Se eliminan calificativos acusatorios, la atribución genérica de financiación encubierta al PSOE y la valoración heredada del impacto social como si fueran conclusiones probadas.
+No se asigna coste: no se ha acreditado una cuantificación judicial del daño, lo que tampoco prueba la inexistencia de perjuicio. Se retira el medio millón heredado como daño: un déficit de liquidación no equivale por sí solo a dinero malversado. Tampoco se presentan los más de trece millones de transferencias municipales mencionados en la exposición razonada inicial como fondos íntegramente desviados. Se eliminan calificativos acusatorios, la atribución genérica de financiación encubierta al PSOE y la valoración heredada del impacto social como si fueran conclusiones probadas.
 
 **Pendientes y alcance (17 de octubre de 2026).** Se ha leído íntegramente el auto oficial de 2018, de seis páginas, y comprobado visualmente su parte dispositiva. La identidad del aforado se contrasta con la nota nominal del CGPJ y prensa; no se infiere del seudónimo judicial. Faltan los autos de 2020 y su firmeza, el escrito fiscal de 2023 y una decisión judicial posterior sobre la causa restante. De La Voz de Alcalá solo se ha podido leer la entradilla pública: el resto está bajo suscripción; su editorial tampoco sustituye una resolución. Se excluyen los casos homónimos de la Asociación Catalana de Municipios y otras entidades ACM. No se fija fecha de cierre y la revisión permanece incompleta.
