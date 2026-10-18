@@ -1,221 +1,249 @@
 ---
-nombre: "De Santos"
+nombre: De Santos
 partido: PP
 completado: false
 año: 2008
-fechaInicio: "2008-03-12"
-fechaFin: ""
-estado: "sentencia firme"
-descripcion: |
-  El caso De Santos se refiere a Javier Rodrigo de Santos López, teniente de alcalde y concejal de Urbanismo del Ayuntamiento de Palma de Mallorca por el PP entre 2003 y 2007, y responsable de la campaña electoral de Jaume Matas en 2003 (la prensa lo cita como director, gerente o coordinador). Además del cargo municipal, era funcionario del Cuerpo Superior de Administradores Civiles del Estado y presidió la Empresa Municipal de Obras y Proyectos (EMOP) del Ayuntamiento, a la que estaba vinculada la tarjeta de gastos.
+fechaInicio: '2008-03-12'
+fechaFin: ''
+estado: Condenas en procedimientos distintos
+descripcion: 'Javier Rodrigo de Santos López fue concejal de Urbanismo y teniente de alcalde de Palma por el PP
+  y presidente de la Empresa Municipal de Obras y Proyectos Urbanos (EMOP). La ficha distingue la malversación mediante
+  la tarjeta municipal, los abusos sexuales juzgados en Palma y los posteriores abusos en Madrid: son procedimientos
+  distintos, con penas y absoluciones propias.
 
-  En marzo de 2008 se conoció que había utilizado la tarjeta Visa de la EMOP para pagar gastos personales en clubes de alterne masculinos y en consumo de drogas. La Fiscalía presentó una querella por malversación de caudales públicos el 12 de marzo de 2008 (El Mundo, 14 de septiembre de 2009); según ese relato del juicio, De Santos había devuelto el importe el 10 de marzo y la Fiscalía aceptó el atenuante de reparación del daño. El PP le suspendió de militancia el 14 de marzo de 2008 y él se dio de baja del partido. La causa se juzgó por el Tribunal del Jurado en la Audiencia Provincial de Baleares en septiembre de 2009 y fue condenado a dos años de prisión y cuatro años de inhabilitación absoluta; el día exacto de esa sentencia no consta en una resolución primaria (la prensa y fuentes terciarias citan el 23 de septiembre de 2009 y una sentencia 66/2009, mientras que la Orden HAP/1360/2013 del BOE cita una sentencia 63/2010), por lo que no se fecha con un día concreto. El Tribunal Superior de Justicia de Baleares confirmó la condena en apelación (16 de febrero de 2010) y la firmeza se declaró con efectos de 27 de abril de 2010. La Orden HAP/1360/2013, firmada el 25 de junio y publicada en el BOE el 16 de julio de 2013, declaró la pérdida de su condición de funcionario; según esa orden, había sido suspendido de funciones y cesado el 9 de julio de 2010. La orden acredita la pena de cuatro años de inhabilitación absoluta, pero no la pena de dos años de prisión, que consta por la prensa. La cifra del desvío varía según la fuente: la acusación manejó 50.804 euros, las crónicas de la sentencia hablan de 51.377 euros y alguna citó 52.583. El importe se restituyó en 2008, por lo que no representa dinero público pendiente de recuperación.
 
-  En paralelo, la Fiscalía de Baleares había denunciado los abusos sexuales el 18 de junio de 2008 (origen del sumario 23/08 del Juzgado de Instrucción nº 8 de Palma). De Santos fue detenido el 26 de junio de 2008 y el 27 de junio el juzgado decretó su prisión provisional, que se prolongó hasta el 27 de marzo de 2009. La Sección Segunda de la Audiencia Provincial de Baleares lo juzgó en octubre de 2009 y lo condenó por sentencia 109/2009, de 28 de octubre, a trece años y seis meses de prisión: siete años por un delito de abuso sexual a un menor de catorce años, cinco años por otro abuso sexual a un adolescente de dieciséis y un año y seis meses por un delito contra la salud pública, además de multas de veinte y doce meses con cuota diaria de seis euros por un abuso del artículo 181.1 y su tentativa; fue absuelto del delito de corrupción de menores. Los hechos se referían a tres hermanos vinculados al entorno parroquial neocatecumenal de la familia. Diversos medios atribuyeron erróneamente la condena al Tribunal Superior de Justicia de Baleares, cuando el órgano sentenciador fue la Audiencia Provincial. El Tribunal Supremo estimó su recurso, lo absolvió de dos de los abusos sexuales y del delito contra la salud pública y rebajó la pena a cinco años, según RTVE; el hecho se conoció el 5 de julio de 2010 y la fecha exacta de la resolución no consta. Pasó por el tercer grado y obtuvo la libertad condicional en 2014.
+  Por la tarjeta de la EMOP fue condenado a dos años de prisión y cuatro de inhabilitación absoluta. Europa Press
+  informó el 16 de febrero de 2010 de la desestimación de los recursos de defensa y Fiscalía contra la sentencia
+  del jurado de 23 de septiembre de 2009. La Orden HAP/1360/2013, firmada el 25 de junio y publicada el 16 de julio,
+  acredita la inhabilitación y la firmeza con efectos de 27 de abril de 2010, declarada por auto de 8 de julio,
+  y acuerda la pérdida de la condición de funcionario. No obstante, el BOE cita una sentencia 63/2010 y no se han
+  recuperado las resoluciones penales de malversación para conciliar esa referencia con la sentencia de 2009 citada
+  por la prensa. La devolución también presenta discrepancias: De Santos declaró en el juicio que había reintegrado
+  el dinero el 10 de marzo de 2008; la crónica de apelación recoge 50.804 euros reintegrados el 13 de marzo. Otras
+  noticias citan 51.377 euros. No se fija una cifra única de perjuicio pendiente ni se suman esos importes.
 
-  Años después, ya en Madrid, trabajó como voluntario y luego como coordinador de un programa de reinserción de presos de la Fundación Padre Garralda-Horizontes Abiertos, que avalaba ante Instituciones Penitenciarias a internos sin arraigo (la prensa de eldiario.es ha descrito la entidad como próxima al PP). Fue detenido el 5 de diciembre de 2017 por abusos sexuales a internos y el Juzgado de Instrucción nº 42 de Madrid lo procesó por auto de 6 de mayo de 2019. La Audiencia Provincial de Madrid lo condenó por un delito de abuso sexual del artículo 181.1 del Código Penal, con la agravante de reincidencia, a dos años de prisión, 3.000 euros de indemnización y prohibición de aproximación y comunicación durante cinco años, y lo absolvió de los hechos denunciados por otro interno (la Cadena SER informó de la absolución de dos internos y elDiario.es y Diario de Mallorca, de uno); la prensa dio cuenta de la sentencia el 28 de octubre de 2021 (Cadena SER y El País) y el 29 (El Mundo), sin que se haya localizado el texto ni la fecha exacta de la resolución. El Tribunal Superior de Justicia de Madrid confirmó la condena en 2022 y el Tribunal Supremo desestimó el recurso de casación, confirmación hecha pública por la prensa el 14 de enero de 2025; no se ha localizado la fecha exacta de esa resolución.
 
-  Límites: no se han localizado el texto de la sentencia del Tribunal Supremo de 2010 ni el de la resolución de 2025 ni el de la sentencia de malversación ni el de la sentencia de la Audiencia Provincial de Madrid de 2021 (cuyas fechas exactas se desconocen). La sentencia de abusos a menores se ha recuperado como reproducción archivada en Internet Archive del documento difundido por dbalears.cat (no procedente del repositorio del CGPJ). No consta documentación posterior a enero de 2025 que permita afirmar si la pena de dos años de prisión se ha ejecutado o suspendido.
-resumen: "Exconcejal de Urbanismo de Palma (PP, 2003-2007) condenado por malversación de fondos públicos y por abusos sexuales a menores y a un preso"
-coste: 51377
-lugar: "Palma de Mallorca, Islas Baleares; Madrid"
+  En la causa de Palma por abusos, la Sección Segunda de la Audiencia Provincial dictó la sentencia 109/2009 el
+  28 de octubre: trece años y seis meses de prisión, además de multas, y absolución por corrupción de menores. La
+  sentencia se conserva como copia judicial difundida por un medio y archivada, no como descarga del CGPJ. RTVE
+  informó el 5 de julio de 2010 de que el Supremo absolvió de dos abusos y del delito contra la salud pública y
+  mantuvo cinco años de prisión y una multa de 3.600 euros por los otros hechos. El original de esa casación sigue
+  pendiente. Última Hora informó el 10 de mayo de 2014 de la libertad condicional concedida el día anterior, tras
+  cumplimiento conjunto de penas. La sentencia posterior de Madrid recoge que la pena anterior de cinco años quedó
+  cumplida el 6 de febrero de 2016: libertad condicional y extinción de la pena no son la misma fecha.
+
+
+  En Madrid empezó como voluntario en 2014 en la Fundación Padre Garralda-Horizontes Abiertos, fue contratado como
+  educador en 2015 y pasó a coordinar viviendas y después el programa de reinserción. El fallo declara que no se
+  acreditó que la Fundación conociera su condena sexual al contratarlo. Fue detenido el 4 de diciembre de 2017 y
+  quedó en libertad provisional sin fianza por auto del día 5. La sentencia 506/2021, de 6 de octubre, de la Sección
+  29ª de la Audiencia Provincial de Madrid lo condenó por abuso sexual, con reincidencia, a dos años de prisión,
+  3.000 euros por daño moral, prohibición de aproximación y comunicación durante cinco años y libertad vigilada
+  durante tres años después de prisión; declaró la responsabilidad civil subsidiaria de la Fundación. Lo absolvió
+  de los hechos relativos a otro interno y de la acusación por agresión sexual respecto de la víctima del abuso.
+  No fueron dos internos adicionales absueltos, como indicaron algunas crónicas.
+
+
+  El TSJ de Madrid confirmó lo sustancial mediante sentencia 87/2022, de 3 de marzo, y estimó parcialmente el recurso
+  de la víctima únicamente sobre costas. La STS 1129/2024, de 11 de diciembre, desestimó la casación de De Santos
+  e indicó que no cabía recurso; la noticia se publicó el 14 de enero de 2025, que no es la fecha de sentencia.
+  No se ha documentado si la pena se ejecutó o suspendió ni el pago de la indemnización. El CENDOJ relaciona un
+  AATS 2915/2025 cuyo texto no se ha recuperado y cuyo objeto y efectos no se presuponen. También queda sin acreditar
+  el desenlace de la investigación por el castillo infantil de Sa Riera, diferenciada de la tarjeta. Estas lagunas
+  impiden considerar completa la revisión o fijar una fecha global de cierre.'
+resumen: Exconcejal de Urbanismo de Palma (PP, 2003-2007) condenado por malversación de fondos públicos y por abusos
+  sexuales a menores y a un preso
+lugar: Palma de Mallorca, Islas Baleares; Madrid
 tribunal:
-  - "Audiencia Provincial de Baleares (Tribunal del Jurado) - malversación de caudales públicos"
-  - "Tribunal Superior de Justicia de Baleares (Sala de lo Civil y Penal) - apelación de la malversación"
-  - "Audiencia Provincial de Baleares, Sección Segunda - abusos sexuales a menores"
-  - "Audiencia Provincial de Madrid - abusos sexuales a un preso"
-  - "Tribunal Superior de Justicia de Madrid (Sala de lo Civil y Penal) - apelación de los abusos a un preso"
-  - "Tribunal Supremo, Sala de lo Penal - casación de los abusos a menores (2010) y de los abusos a un preso (confirmación conocida en 2025)"
-numeroSentencia: "109/2009"
+- Audiencia Provincial de Baleares (Tribunal del Jurado) - malversación de caudales públicos
+- Tribunal Superior de Justicia de Baleares (Sala de lo Civil y Penal) - apelación de la malversación
+- Audiencia Provincial de Baleares, Sección Segunda - abusos sexuales a menores
+- Audiencia Provincial de Madrid - abusos sexuales a un preso
+- Tribunal Superior de Justicia de Madrid (Sala de lo Civil y Penal) - apelación de los abusos a un preso
+- Tribunal Supremo, Sala de lo Penal - casación de los abusos a menores (2010) y de los abusos a un preso (confirmación
+  conocida en 2025)
+numeroSentencia: 'Abusos en Palma: SAP 109/2009, de 28 de octubre. Abusos en Madrid: SAP 506/2021, de 6 de octubre,
+  Sección 29ª; STSJ Madrid 87/2022, de 3 de marzo; STS 1129/2024, de 11 de diciembre, ECLI:ES:TS:2024:6209, recurso
+  3903/2022. Malversación: el BOE cita sentencia 63/2010; original pendiente de contraste.'
 implicados:
-  - nombre: "Javier Rodrigo de Santos López"
-    cargo: "Teniente de alcalde y concejal de Urbanismo del Ayuntamiento de Palma (PP, 2003-2007); responsable de la campaña electoral de Jaume Matas (2003); funcionario del Cuerpo Superior de Administradores Civiles del Estado"
-    rol: "Condenado en firme por malversación de caudales públicos (2 años de prisión y 4 años de inhabilitación absoluta), por abusos sexuales a menores (5 años de prisión tras la rebaja del Tribunal Supremo) y por abusos sexuales a un preso (2 años de prisión, confirmados por el Tribunal Supremo)"
-
+- nombre: Javier Rodrigo de Santos López
+  cargo: Exconcejal de Urbanismo y teniente de alcalde de Palma (PP); expresidente de EMOP y funcionario del Cuerpo
+    Superior de Administradores Civiles del Estado cuya pérdida de condición fue declarada en 2013.
+  rol: Condenado por malversación a dos años de prisión según Europa Press; el BOE acredita cuatro años de inhabilitación
+    y firmeza con efectos de 27 de abril de 2010. Por abusos en Palma, la casación dejó cinco años de prisión y
+    multa según RTVE. En Madrid, condenado por abuso sexual a dos años y 3.000 euros, con absoluciones por otros
+    hechos; la STS 1129/2024 desestima su casación. Ejecución posterior no acreditada.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "abuso sexual"
-  - "Baleares"
-
-impactoSocial: "El caso combina una condena por malversación de fondos municipales con varias condenas posteriores por delitos sexuales. En 2015 De Santos compareció en la comisión de investigación del Parlament balear y declaró como testigo ante el juez que instruía el caso del Hospital Son Espases; sus manifestaciones sobre el supuesto cobro de comisiones del 3% por el PP balear son afirmaciones testificales, no hechos declarados probados, y el ámbito de esa causa se documenta en la ficha del caso del Hospital Son Espases."
-
+- corrupción
+- malversación
+- abuso sexual
+- Baleares
+impactoSocial: 'El uso particular de fondos municipales motivó una condena por malversación. Los delitos sexuales
+  posteriores y anteriores a su actividad en una entidad de reinserción tuvieron procedimientos propios: las absoluciones
+  y la ausencia de prueba de que la Fundación conociera sus antecedentes deben diferenciarse de los hechos que sí
+  dieron lugar a condena.'
 documentos:
-  - fecha: "2009-10-28"
-    titulo: "Sentencia 109/2009 de la Sección Segunda de la Audiencia Provincial de Baleares (rollo 20/09; sumario 23/08 del Juzgado de Instrucción nº 8 de Palma), sobre abusos sexuales a menores y un delito contra la salud pública, con absolución por corrupción de menores"
-    filetype: "pdf"
-    paginas: 30
-    nombre_fichero: "https://web.archive.org/web/20131204044857id_/http://dbalears.cat/uploads/arxiu/altres/sentencia_Santos_abusos.pdf"
-  - fecha: "2013-06-25"
-    titulo: "Orden HAP/1360/2013, de 25 de junio, por la que se declara la pérdida de la condición de funcionario del Cuerpo Superior de Administradores Civiles del Estado de don Javier Rodrigo de Santos López (BOE núm. 169, de 16 de julio de 2013)"
-    filetype: "pdf"
-    paginas: 1
-    nombre_fichero: "https://www.boe.es/boe/dias/2013/07/16/pdfs/BOE-A-2013-7818.pdf"
-
+- fecha: '2009-10-28'
+  titulo: 'SAP Palma 109/2009: copia archivada del documento difundido por dbalears.cat, anterior a la casación'
+  filetype: pdf
+  paginas: 30
+  nombre_fichero: https://web.archive.org/web/20131204044857id_/http://dbalears.cat/uploads/arxiu/altres/sentencia_Santos_abusos.pdf
+- fecha: '2013-06-25'
+  titulo: 'Orden HAP/1360/2013: pérdida de condición de funcionario; publicación 16 de julio de 2013'
+  filetype: pdf
+  paginas: 1
+  nombre_fichero: https://www.boe.es/boe/dias/2013/07/16/pdfs/BOE-A-2013-7818.pdf
+- fecha: '2021-10-06'
+  titulo: 'SAP Madrid 506/2021, Sección 29ª: copia judicial difundida por Prensa Ibérica'
+  filetype: pdf
+  paginas: 42
+  nombre_fichero: https://estaticos-cdn.prensaiberica.es/epi/public/content/file/original/2021/1028/12/lea-aqui-la-sentencia-de-la-audiencia-de-madrid-que-condena-a-rodrigo-de-santos-a-dos-anos-de-prisio-51913dc.pdf
+- fecha: '2021-10-06'
+  titulo: 'SAP Madrid 506/2021, Sección 29ª: versión oficial CENDOJ, ECLI:ES:APM:2021:13010'
+  filetype: pdf
+  paginas: 20
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=bc8e67864519e496&encode=true&databasematch=AN
+- fecha: '2022-03-03'
+  titulo: 'STSJ Madrid 87/2022: versión oficial CENDOJ, ECLI:ES:TSJM:2022:2708'
+  filetype: pdf
+  paginas: 13
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=91b7f091468fd17e&encode=true&databasematch=AN
+- fecha: '2024-12-11'
+  titulo: 'STS 1129/2024: casación de la condena por abuso sexual en Madrid'
+  filetype: pdf
+  paginas: 8
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=ad9f4c0622ce7774a0a8778d75e36f0d&encode=true&databasematch=TS
 cronologia:
-  - fecha: "2008-03-12"
-    titulo: "La Fiscalía presenta la querella por el uso de la tarjeta de la EMOP"
-    descripcion: "En marzo de 2008 se conoce públicamente que De Santos había utilizado la tarjeta Visa de la Empresa Municipal de Obras y Proyectos (EMOP), vinculada a su cargo, para gastos personales en clubes de alterne y en drogas. La Fiscalía presentó la querella por malversación el 12 de marzo de 2008 y, según el relato del juicio recogido por El Mundo (14 de septiembre de 2009), De Santos había devuelto el importe el 10 de marzo. El PP le suspendió de militancia el 14 de marzo de 2008 (Ultima Hora) y él se dio de baja del partido."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://www.elmundo.es/elmundo/2009/09/14/baleares/1252940793.html"
-      - "https://www.ultimahora.es/sucesos/ultimas/2008/03/14/444647/suspende-militancia-rodrigo-santos-por-caso-clubes-alterne.html"
-
-  - fecha: "2008-06-18"
-    titulo: "Denuncia de la Fiscalía de Baleares que origina el sumario por abusos sexuales"
-    descripcion: "La sentencia 109/2009 de la Audiencia Provincial de Baleares sitúa el origen del sumario 23/08 del Juzgado de Instrucción nº 8 de Palma en la denuncia de la Fiscalía de les Illes Balears de 18 de junio de 2008. Es la fecha documentada más temprana de la investigación por los abusos a menores."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://web.archive.org/web/20131204044857id_/http://dbalears.cat/uploads/arxiu/altres/sentencia_Santos_abusos.pdf"
-
-  - fecha: "2008-06-26"
-    titulo: "Detención por presuntos abusos sexuales a menores"
-    descripcion: "De Santos es detenido el 26 de junio de 2008 por presuntos abusos sexuales a menores. El 27 de junio el Juzgado de Instrucción nº 8 de Palma decreta su prisión provisional, que según la sentencia se prolongó hasta el 27 de marzo de 2009. Los hechos se referían a amigos de sus hijos vinculados a la comunidad neocatecumenal de la parroquia de San Sebastián."
-    type: "detencion"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/politica/imputado-agresion-excluidos-politico-pp_1_2029442.html"
-      - "https://www.rtve.es/noticias/20091001/la-fiscalia-pide-25-anos-de-prision-para-un-ex-concejal-del-pp-de-palma-por-abuso-de-menores/294715.shtml"
-
-  - fecha: "2009-10-28"
-    titulo: "Condena a 13 años y seis meses por abusos sexuales a menores (sentencia 109/2009)"
-    descripcion: "La Sección Segunda de la Audiencia Provincial de Baleares dicta la sentencia 109/2009, que condena a De Santos a trece años y seis meses de prisión: siete años por un delito de abuso sexual a un menor de catorce años, cinco años por otro abuso sexual a un adolescente de dieciséis y un año y seis meses por un delito contra la salud pública. Le impone además multas de veinte y doce meses, con cuota diaria de seis euros, por un abuso del artículo 181.1 y su tentativa, y lo absuelve del delito de corrupción de menores. Los hechos afectaron a tres hermanos del entorno parroquial neocatecumenal de la familia. Diversos medios atribuyeron la condena al Tribunal Superior de Justicia de Baleares, pero el órgano sentenciador fue la Audiencia Provincial."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://web.archive.org/web/20131204044857id_/http://dbalears.cat/uploads/arxiu/altres/sentencia_Santos_abusos.pdf"
-      - "https://www.rtve.es/noticias/20100705/supremo-rebaja-13-a-5-anos-condena-por-abusos-ex-concejal-balear-santos/338472.shtml"
-      - "https://www.eldiario.es/politica/imputado-agresion-excluidos-politico-pp_1_2029442.html"
-
-  - fecha: "2010-02-16"
-    titulo: "El TSJIB confirma en apelación la condena por malversación"
-    descripcion: "El Tribunal Superior de Justicia de Baleares confirma la condena por malversación dictada por el Tribunal del Jurado de la Audiencia Provincial. La fecha consta por la sentencia del TSJIB citada en la prensa."
-    type: "recurso"
-    relevancia: "media"
-    urls:
-      - "https://www.diariodemallorca.es/mallorca/2025/07/12/exconcejal-pp-palma-javier-rodrigo-santos-malverso-dinero-publico-saunas-suegro-pedro-sanchez-119635940.html"
-
-  - fecha: "2010-04-27"
-    titulo: "La condena por malversación queda firme"
-    descripcion: "La firmeza de la condena por malversación se declara con efectos de 27 de abril de 2010, mediante auto de 8 de julio de 2010, según la Orden HAP/1360/2013 del BOE. Con fecha 9 de julio de 2010 fue suspendido de funciones y cesado en su puesto de trabajo. El BOE solo menciona la pena de cuatro años de inhabilitación absoluta; la pena de dos años de prisión consta por la prensa."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-7818"
-      - "https://civio.es/el-boe-nuestro-de-cada-dia/2013/07/16/retiran-la-condicion-de-funcionario-dos-anos-despues-al-exconcejal-de-palma-de-mallorca-que-gasto-50-000-euros-de-dinero-publico-en-prostibulos/"
-
-  - fecha: "2010-07-05"
-    titulo: "Se conoce la rebaja del Tribunal Supremo de la condena por abusos a menores"
-    descripcion: "RTVE informa el 5 de julio de 2010 de que el Tribunal Supremo ha estimado el recurso de casación de De Santos, lo ha absuelto de dos de los abusos sexuales y del delito contra la salud pública y ha fijado la pena en cinco años de prisión; la crónica de RTVE atribuye la ponencia al magistrado Adolfo Prego. La fecha exacta de la resolución del Supremo no se ha localizado y el 5 de julio es la fecha de la noticia."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.rtve.es/noticias/20100705/supremo-rebaja-13-a-5-anos-condena-por-abusos-ex-concejal-balear-santos/338472.shtml"
-      - "https://web.archive.org/web/20251013053955/https://www.rtve.es/noticias/20100705/supremo-rebaja-13-a-5-anos-condena-por-abusos-ex-concejal-balear-santos/338472.shtml"
-
-  - fecha: "2013-07-16"
-    titulo: "El BOE publica la pérdida de la condición de funcionario"
-    descripcion: "La Orden HAP/1360/2013, de 25 de junio, publicada en el BOE el 16 de julio de 2013, declara la pérdida de la condición de funcionario del Cuerpo Superior de Administradores Civiles del Estado de Javier Rodrigo de Santos López como consecuencia de la pena de cuatro años de inhabilitación absoluta."
-    type: "resolución administrativa"
-    relevancia: "media"
-    urls:
-      - "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-7818"
-
-  - fecha: "2014-05-10"
-    titulo: "Se informa de que obtiene la libertad condicional"
-    descripcion: "Ultima Hora publica el 10 de mayo de 2014 que el exconcejal obtuvo la libertad condicional el día anterior (9 de mayo), tras cumplir en Burgos las tres cuartas partes de la condena. La información sitúa la decisión en el Juzgado de Vigilancia Penitenciaria de Burgos, a propuesta del Centro de Inserción Social."
-    type: "resumen"
-    relevancia: "baja"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/2014/05/10/123805/exconcejal-javier-rodrigo-santos-obtiene-libertad-condicional.html"
-
-  - fecha: "2015-01-14"
-    titulo: "Pide perdón en la comisión de investigación del Parlament sobre Son Espases"
-    descripcion: "De Santos comparece en la comisión de investigación del Parlament balear sobre la construcción del Hospital Son Espases y pide perdón por sus hechos. La fecha es la de la comparecencia, recogida por la prensa al día siguiente."
-    type: "declaración"
-    relevancia: "media"
-    urls:
-      - "https://elpais.com/politica/2015/01/15/actualidad/1421313665_820338.html"
-
-  - fecha: "2015-09-23"
-    titulo: "Declara como testigo ante el juez Castro por el caso Son Espases"
-    descripcion: "De Santos declara como testigo ante el juez José Castro en la investigación del Hospital Son Espases y ratifica su versión de que el PP balear, bajo la presidencia de Jaume Matas, exigía un 3% de comisión sobre los contratos públicos, con nueve millones de euros pedidos a cada una de las UTEs de OHL y Dragados. Se trata de manifestaciones testificales: no constan como hechos probados y el ámbito de esa causa se documenta en la ficha del caso del Hospital Son Espases."
-    type: "declaración"
-    relevancia: "media"
-    urls:
-      - "https://cronicaglobal.elespanol.com/politica/20150923/el-palma-rodrigo-santos-pp-son-espases/66243378_0.html"
-      - "https://www.ultimahora.es/noticias/local/2015/11/09/166516/rodrigo-santos-animo-matas-era-facilitar-financiacion-ilegal-del.html"
-
-  - fecha: "2017-12-05"
-    titulo: "Detención por presuntos abusos sexuales a presos en una fundación"
-    descripcion: "De Santos es detenido en Madrid por presuntos abusos sexuales a internos que la Fundación Padre Garralda-Horizontes Abiertos avalaba ante Instituciones Penitenciarias. La investigación se sigue en el Juzgado de Instrucción nº 42 de Madrid. El juez descarta la prisión y le impone medidas cautelares de alejamiento. La fecha de la detención (5 de diciembre de 2017) consta en la prensa que desveló el caso."
-    type: "detencion"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/politica/expolitico-pp-rodrigo-santos-ong_1_1552820.html"
-
-  - fecha: "2019-05-06"
-    titulo: "Auto de procesamiento del Juzgado de Instrucción nº 42 de Madrid"
-    descripcion: "El magistrado Juan José Escalonilla dicta auto de procesamiento contra De Santos por hechos ocurridos mientras coordinaba el programa de reinserción de presos de la Fundación Padre Garralda-Horizontes Abiertos. La fuente (eldiario.es, 13 de mayo de 2019) precisa que el auto está fechado el 6 de mayo; el 13 de mayo es la fecha de la noticia."
-    type: "imputacion"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/politica/expolitico-pp-rodrigo-santos-ong_1_1552820.html"
-
-  - fecha: "2021-10-28"
-    titulo: "Se conoce la condena de la Audiencia Provincial de Madrid por abusos a un preso"
-    descripcion: "La Audiencia Provincial de Madrid condena a De Santos por un delito de abuso sexual del artículo 181.1 del Código Penal, con la agravante de reincidencia, a dos años de prisión, 3.000 euros de indemnización y prohibición de aproximarse y comunicarse con la víctima durante cinco años. Lo absuelve de los hechos denunciados por un segundo interno. El tribunal considera probados unos tocamientos sin violencia ni intimidación pero sin consentimiento, ocurridos el 8 de noviembre de 2016 en su domicilio de Alcobendas. La noticia se publica el 28 de octubre de 2021 (Cadena SER y El País) y el 29 (El Mundo); no se ha localizado el texto ni la fecha exacta de la resolución."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.elmundo.es/baleares/2021/10/29/617b8b06fc6c83ab088b4602.html"
-      - "https://elpais.com/espana/madrid/2021-10-28/el-exconcejal-del-pp-javier-rodrigo-de-santos-condenado-a-prision-por-abusos-a-un-preso-al-que-debia-tutelar.html"
-      - "https://cadenaser.com/emisora/2021/10/28/radio_mallorca/1635429568_107432.html"
-
-  - fecha: "2022-03-27"
-    titulo: "Se conoce la confirmación de la condena por el Tribunal Superior de Justicia de Madrid"
-    descripcion: "La prensa informa de que la Sala de lo Civil y Penal del Tribunal Superior de Justicia de Madrid ha desestimado los recursos de la defensa, de la Fiscalía y de una acusación particular y ha confirmado la condena de dos años de prisión. El 27 de marzo de 2022 es la fecha de la noticia; no se ha localizado la fecha exacta de la resolución."
-    type: "recurso"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/politica/justicia-confirma-condena-rodrigo-santos-abusos-sexuales-ong-proxima-pp_1_8863273.html"
-
-  - fecha: "2025-01-14"
-    titulo: "Se conoce la confirmación del Tribunal Supremo de la segunda condena por abusos"
-    descripcion: "La prensa informa el 14 de enero de 2025 de que el Tribunal Supremo ha desestimado el recurso de casación de De Santos y ha confirmado la condena de dos años de prisión por abusos sexuales a un preso, que queda firme. El hito está fechado por la publicación de la noticia: no se ha localizado la fecha exacta de la resolución ni el texto de la sentencia. Sobre las absoluciones, elDiario.es y Diario de Mallorca mencionan a un segundo interno absuelto y la Cadena SER, a dos."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/politica/supremo-confirma-anos-carcel-rodrigo-santos-exconcejal-pp-abusos-sexuales-preso_1_11962124.html"
-      - "https://cadenaser.com/baleares/2025/01/14/el-ts-confirma-la-segunda-condena-por-abusos-sexuales-al-exregidor-de-cort-rodrigo-de-santos-radio-mallorca/"
-      - "https://www.diariodemallorca.es/mallorca/2025/01/14/supremo-ratifica-condena-anos-carcel-113378307.html"
-
+- fecha: '2008-03-12'
+  titulo: Querella por el uso de la tarjeta municipal
+  descripcion: El Mundo sitúa la querella de Fiscalía en esta fecha. La fecha e importe del reintegro presentan
+    discrepancias entre la declaración de De Santos en el juicio y la crónica de apelación; no se identifica su
+    versión con un hecho judicial acreditado.
+  urls:
+  - https://www.elmundo.es/elmundo/2009/09/14/baleares/1252940793.html
+  - https://www.europapress.es/illes-balears/noticia-tsjib-rechaza-recursos-santos-fiscalia-contra-condena-malversacion-clubes-alterne-20100216175542.html
+  type: denuncia
+  relevancia: alta
+- fecha: '2008-06-18'
+  titulo: Denuncia de Fiscalía por abusos en Palma
+  descripcion: La sentencia 109/2009 fecha la denuncia que originó el sumario 23/08 del Juzgado de Instrucción 8
+    de Palma.
+  urls:
+  - https://web.archive.org/web/20131204044857id_/http://dbalears.cat/uploads/arxiu/altres/sentencia_Santos_abusos.pdf
+  type: denuncia
+  relevancia: alta
+- fecha: '2008-10-02'
+  titulo: Declaración en la causa del castillo de Sa Riera
+  descripcion: Europa Press informa de su declaración ante el Juzgado de Instrucción 7 de Palma por la adquisición
+    del juego infantil. Investigación distinta de la tarjeta municipal; su desenlace no está acreditado.
+  urls:
+  - https://www.europapress.es/illes-balears/noticia-rodrigo-santos-acude-juzgados-declarar-juego-castillo-sa-riera-20081002110531.html
+  type: investigacion
+  relevancia: alta
+- fecha: '2009-09-23'
+  titulo: Condena del jurado por malversación, según la crónica de apelación
+  descripcion: Europa Press, el 16 de febrero de 2010, fecha la sentencia del jurado el 23 de septiembre anterior
+    y recoge dos años de prisión. La referencia 63/2010 del BOE no se ha conciliado con el original penal.
+  urls:
+  - https://www.europapress.es/illes-balears/noticia-tsjib-rechaza-recursos-santos-fiscalia-contra-condena-malversacion-clubes-alterne-20100216175542.html
+  type: sentencia
+  relevancia: alta
+- fecha: '2009-10-28'
+  titulo: Sentencia 109/2009 por abusos en Palma
+  descripcion: La Sección Segunda de la Audiencia Provincial impone trece años y seis meses de prisión y multas
+    por abusos y un delito contra la salud pública; absuelve de corrupción de menores. La casación posterior modificó
+    estos pronunciamientos.
+  urls:
+  - https://web.archive.org/web/20131204044857id_/http://dbalears.cat/uploads/arxiu/altres/sentencia_Santos_abusos.pdf
+  type: sentencia
+  relevancia: alta
+- fecha: '2010-02-16'
+  titulo: Se confirma en apelación la condena por malversación
+  descripcion: Europa Press informa de la desestimación de los recursos de defensa y Fiscalía por el TSJ de Baleares.
+    La firmeza con efectos 27 de abril de 2010 consta posteriormente en el BOE.
+  urls:
+  - https://www.europapress.es/illes-balears/noticia-tsjib-rechaza-recursos-santos-fiscalia-contra-condena-malversacion-clubes-alterne-20100216175542.html
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-7818
+  type: recurso
+  relevancia: alta
+- fecha: '2010-07-05'
+  titulo: Se conoce la reducción de la condena por abusos en Palma
+  descripcion: RTVE informa de absolución por dos abusos y por el delito contra la salud pública; permanecen cinco
+    años de prisión y 3.600 euros de multa. Fecha de publicación; no fecha acreditada del original del Supremo.
+  urls:
+  - https://www.rtve.es/noticias/20100705/supremo-rebaja-13-a-5-anos-condena-por-abusos-ex-concejal-balear-santos/338472.shtml
+  type: recurso
+  relevancia: alta
+- fecha: '2013-06-25'
+  titulo: Orden que declara la pérdida de condición de funcionario
+  descripcion: 'Orden HAP/1360/2013, publicada 16 de julio: acredita inhabilitación absoluta de cuatro años, firmeza
+    con efectos 27 de abril de 2010 y suspensión y cese 9 de julio de 2010.'
+  urls:
+  - https://www.boe.es/boe/dias/2013/07/16/pdfs/BOE-A-2013-7818.pdf
+  type: ejecución
+  relevancia: alta
+- fecha: '2014-05-09'
+  titulo: Libertad condicional comunicada por Última Hora
+  descripcion: La noticia del 10 de mayo informa de que fue concedida el día anterior por Vigilancia Penitenciaria
+    de Burgos. No equivale a la extinción de la pena; la sentencia posterior de Madrid recoge cumplimiento de la
+    pena anterior de cinco años el 6 de febrero de 2016.
+  urls:
+  - https://www.ultimahora.es/noticias/local/2014/05/10/123805/exconcejal-javier-rodrigo-santos-obtiene-libertad-condicional.html
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=ad9f4c0622ce7774a0a8778d75e36f0d&encode=true&databasematch=TS
+  type: cumplimiento
+  relevancia: alta
+- fecha: '2017-12-04'
+  titulo: Detención en la causa de Madrid
+  descripcion: Los hechos probados reproducidos por el Supremo sitúan la detención el 4 de diciembre y el auto de
+    libertad provisional sin fianza el 5. Se corrige el día 5 atribuido a la detención en noticias anteriores.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=ad9f4c0622ce7774a0a8778d75e36f0d&encode=true&databasematch=TS
+  type: detencion
+  relevancia: alta
+- fecha: '2019-05-06'
+  titulo: Procesamiento en Madrid, según la crónica judicial
+  descripcion: 'elDiario.es publica el 13 de mayo el auto de procesamiento de 6 de mayo del Juzgado de Instrucción
+    42 por presuntas agresiones. Eran imputaciones provisionales: el posterior fallo condenó por abuso y absolvió
+    de otras acusaciones.'
+  urls:
+  - https://www.eldiario.es/politica/expolitico-pp-rodrigo-santos-ong_1_1552820.html
+  type: imputacion
+  relevancia: alta
+- fecha: '2021-10-06'
+  titulo: Condena por abuso sexual y absoluciones en Madrid
+  descripcion: 'SAP 506/2021: dos años de prisión, 3.000 euros por daño moral, cinco años de alejamiento y comunicación
+    y tres de libertad vigilada tras prisión. Responsabilidad civil subsidiaria de la Fundación. Absuelve respecto
+    de otro interno y de agresión sexual respecto de la víctima del abuso.'
+  urls:
+  - https://estaticos-cdn.prensaiberica.es/epi/public/content/file/original/2021/1028/12/lea-aqui-la-sentencia-de-la-audiencia-de-madrid-que-condena-a-rodrigo-de-santos-a-dos-anos-de-prisio-51913dc.pdf
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=ad9f4c0622ce7774a0a8778d75e36f0d&encode=true&databasematch=TS
+  type: sentencia
+  relevancia: alta
+- fecha: '2022-03-03'
+  titulo: El TSJ de Madrid confirma lo sustancial y modifica las costas
+  descripcion: 'STSJ 87/2022: desestima defensa, Fiscalía y adhesión del otro denunciante; estima parcialmente el
+    recurso de la víctima para incluir sus costas de acusación particular en la proporción fijada. Fallo reproducido
+    en STS 1129/2024.'
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=ad9f4c0622ce7774a0a8778d75e36f0d&encode=true&databasematch=TS
+  type: recurso
+  relevancia: alta
+- fecha: '2024-12-11'
+  titulo: El Supremo desestima la casación de De Santos
+  descripcion: 'STS 1129/2024, recurso 3903/2022: desestima el recurso e impone las costas; indica que no existe
+    recurso. La prensa lo comunica 14 de enero de 2025. No acredita por sí sola ingreso en prisión, suspensión ni
+    pago.'
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=ad9f4c0622ce7774a0a8778d75e36f0d&encode=true&databasematch=TS
+  - https://www.eldiario.es/politica/supremo-confirma-anos-carcel-rodrigo-santos-exconcejal-pp-abusos-sexuales-preso_1_11962124.html
+  type: recurso
+  relevancia: alta
 ---
 
-## Notas y limitaciones
+La malversación mediante la tarjeta de EMOP, los abusos juzgados en Palma y la causa de Madrid tienen objetos y resultados diferentes. La restitución de fondos municipales no se suma a las multas penales ni a la indemnización por daño moral de la causa de Madrid. Las cifras y fecha del reintegro municipal presentan diferencias entre las fuentes; falta la resolución penal original para conciliarlas.
 
-- **Documentación primaria.** Se han recuperado dos resoluciones como reproducciones de los documentos originales: la sentencia 109/2009 de la Sección Segunda de la Audiencia Provincial de Baleares, de 28 de octubre de 2009 (30 páginas), conservada como copia archivada en Internet Archive (captura de 2013) del documento difundido por dbalears.cat (el enlace original devuelve un error y la reproducción no procede del repositorio del CGPJ; no consta la fecha de publicación original del documento); y la Orden HAP/1360/2013, firmada el 25 de junio de 2013 y publicada en el BOE el 16 de julio de 2013, que acredita la pena de cuatro años de inhabilitación absoluta, la numeración de la sentencia de malversación (63/2010), la firmeza con efectos de 27 de abril de 2010 y el cese del funcionario el 9 de julio de 2010. El BOE no menciona la pena de dos años de prisión por malversación, que consta por la prensa. No se han localizado los textos de la sentencia de malversación, del Supremo de 2010, de la sentencia de la Audiencia Provincial de Madrid de 2021 ni de la resolución de 2025.
+La [sentencia de Madrid de 6 de octubre de 2021](https://estaticos-cdn.prensaiberica.es/epi/public/content/file/original/2021/1028/12/lea-aqui-la-sentencia-de-la-audiencia-de-madrid-que-condena-a-rodrigo-de-santos-a-dos-anos-de-prisio-51913dc.pdf) y la [STS 1129/2024](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=ad9f4c0622ce7774a0a8778d75e36f0d&encode=true&databasematch=TS) permiten distinguir la condena por abuso de las absoluciones por otros hechos. La confirmación penal no acredita su ejecución. La condena anterior de Palma fue parcialmente revocada: la sentencia inicial de 2009 no describe por sí sola el resultado definitivo.
 
-- **Número y fecha de la sentencia de malversación.** La Orden HAP/1360/2013 cita una «sentencia número 63/2010 de la Sección N.1 de la Audiencia Provincial de Palma de Mallorca», mientras que fuentes terciarias (Wikipedia) citan una sentencia 66/2009 de 23 de septiembre de 2009 del Tribunal del Jurado y las crónicas periodísticas de 2009 no precisan ni el número ni el día. La ficha registra la discrepancia y no da por cierta ninguna de las dos numeraciones; por ese motivo la condena por malversación se sitúa en septiembre de 2009 sin día exacto en la cronología.
+La orden del BOE acredita las consecuencias funcionariales de la inhabilitación. Siguen sin documentarse la casación original de 2010, la conciliación de las referencias de la malversación, el objeto del auto relacionado AATS 2915/2025, la ejecución posterior de Madrid y el desenlace de Sa Riera. No se presume continuidad ni cierre por ausencia de noticias.
 
-- **Fecha del inicio del escándalo.** La Fiscalía presentó la querella el 12 de marzo de 2008 y De Santos declaró en el juicio que había devuelto el dinero el 10 de marzo. La prensa recoge la suspensión de militancia el 14 de marzo de 2008. No consta con precisión el día exacto en que el caso trascendió a la opinión pública; el inicio se sitúa en la fecha documentada de la querella.
-
-- **Cuantía del desvío.** La acusación cifró el desvío en 50.804 euros; las crónicas de la sentencia (RTVE, 1 de octubre de 2009) hablan de 51.377 euros y otra información de la misma fecha citó 52.583 euros. La ficha usa 51.377 euros como referencia, sin equipararla a las restantes ni sumarlas. Ese importe se restituyó en 2008 y la Fiscalía aceptó el atenuante de reparación del daño, por lo que no representa un dinero público actualmente irrecuperado.
-
-- **Órgano sentenciador de los abusos a menores.** Diversos medios (Diario de Mallorca, eldiario.es) atribuyen la condena de 28 de octubre de 2009 al Tribunal Superior de Justicia de Baleares, pero la sentencia recuperada (109/2009) acredita que el órgano sentenciador fue la Sección Segunda de la Audiencia Provincial de Baleares.
-
-- **Resolución del Tribunal Supremo de 2025.** El 14 de enero de 2025 la prensa informó de que el Tribunal Supremo había desestimado el recurso de casación y confirmado la condena de dos años por abusos a un preso, que quedó firme. No se ha localizado la fecha exacta de la resolución (el 14 de enero es la fecha de publicación de la noticia) ni el texto de la sentencia; la fecha de la resolución es simplemente desconocida. No permite fijar una fecha de cierre del procedimiento.
-
-- **Discrepancia sobre las absoluciones de 2025.** La Cadena SER informó de que De Santos había sido absuelto de las acusaciones de otros dos internos; elDiario.es y Diario de Mallorca, de las de un único interno. La ficha recoge ambas versiones sin dar por resuelta la discrepancia, que exigiría el texto de la resolución.
-
-- **Fuentes y atribuciones.** Los cargos de teniente de alcalde y concejal de Urbanismo del Ayuntamiento de Palma (2003-2007) constan en El País (28-10-2021), eldiario.es (27-03-2022) y RTVE (01-10-2009); el periodo 2003-2007, en El Mundo (29-10-2021). La campaña electoral de Jaume Matas de 2003 la describen como dirección, gerencia o coordinación El País (15-01-2015 y 28-10-2021). La condición de funcionario del Cuerpo Superior de Administradores Civiles del Estado la acredita la Orden HAP/1360/2013 (BOE). La presidencia de la EMOP consta en Ultima Hora (14-03-2008) y El Mundo (14-09-2009), que también sostienen la querella del 12-03-2008 y la devolución del 10-03-2008. El auto de procesamiento del Juzgado de Instrucción nº 42 consta en eldiario.es (13-05-2019); la sentencia de la Audiencia Provincial de Madrid, en Cadena SER y El País (28-10-2021) y El Mundo (29-10-2021); la confirmación del TSJ de Madrid, en eldiario.es (27-03-2022); y el testimonio ante el juez Castro, en Crónica Global (23-09-2015).
-
-- **Contexto religioso.** La sentencia recuperada sitúa a las víctimas de los abusos a menores en la comunidad neocatecumenal de la parroquia de San Sebastián, en la que también participaba la familia del condenado. Se recoge como dato de contexto aportado por la resolución, sin atribuir a la adscripción religiosa la comisión de los delitos.
-
-- **Testimonio sobre Son Espases.** Las afirmaciones de De Santos en 2015 sobre el cobro de comisiones del 3% por el PP balear son manifestaciones testificales, no hechos declarados probados en una sentencia. El ámbito de esa causa se documenta en la ficha del caso del Hospital Son Espases, que no se ha editado.
-
-- **Otra causa mencionada en 2009.** La prensa de octubre de 2009 aludió a una tercera causa contra De Santos por malversación, fraude, falsedad documental y cohecho en relación con la construcción de un castillo infantil en el Parque de Sa Riera. No se ha verificado su tramitación ni su resultado.
-
-- **Estado de la ejecución.** La condena por malversación es firme y la confirmación de la condena por abusos a un preso quedó firme en 2025, pero no consta documentación sobre si la pena de dos años de prisión se ha ejecutado o suspendido.
+Se han recuperado también las versiones oficiales del CENDOJ de la SAP Madrid 506/2021 (20 páginas) y la STSJ Madrid 87/2022 (13 páginas). La lectura dirigida de este segundo control abarcó las páginas 1 y 20 de la SAP y 1 y 13 de la STSJ: cabeceras, fechas y fallos, sin lectura íntegra de sus fundamentos. La copia de la SAP difundida por Prensa Ibérica tiene 42 páginas y una paginación distinta; no se equiparan ambas versiones. En la STS 1129/2024, de ocho páginas, este control leyó completas las páginas 1–4 y 8. Estos originales corroboran los pronunciamientos de Madrid descritos, pero no acreditan por sí solos su ejecución posterior.
