@@ -6,7 +6,8 @@ año: 2008
 estado: condenas de causa principal; derivada fiscal con prescripción comunicada en 2024
 descripcion: El caso Scala investigó contratos amañados, comisiones y desvíos de fondos del CDEIB durante la legislatura
   2003-2007. La Audiencia de Palma dictó la sentencia 73/2013 el 26 de julio, con condena de dieciséis años de prisión
-  al exconseller Josep Juan Cardona. Su recurso fue desestimado por la STS 394/2014, de 7 de mayo. La derivada fiscal
+  al exconseller Josep Juan Cardona. Su recurso fue desestimado por la STS 394/2014, de 7 de mayo. En noviembre de 2023 se comunicó su libertad
+  condicional, sin acreditar la extinción de la pena ni el pago íntegro de responsabilidades. La derivada fiscal
   que llegó a juicio en 2024 terminó por prescripción, según noticia de noviembre de ese año, y no debe presentarse
   como investigación aún sin desenlace. Persisten dudas sobre agregados económicos, algunas penas individuales y
   ejecución.
@@ -36,11 +37,11 @@ implicados:
     extinción de responsabilidad por prescripción.
 - nombre: Isabel Rosselló
   cargo: Pareja sentimental de Antònia Ordinas (soprano)
-  rol: Acusado o acusada en la derivada fiscal de 2024; la noticia de noviembre comunica prescripción y extinción
-    de responsabilidad penal, sin firmeza verificada.
+  rol: Condenada a dieciocho meses de prisión en la causa principal, según RTVE en 2013. Acusada en la derivada
+    fiscal de 2024, con prescripción comunicada en noviembre; firmeza de esta última resolución no verificada.
 - nombre: Joan Rosselló
   cargo: Empresario vinculado a la trama
-  rol: Acusado o acusada en la derivada fiscal de 2024; la noticia de noviembre comunica prescripción y extinción
+  rol: Acusado en la derivada fiscal de 2024; la noticia de noviembre comunica prescripción y extinción
     de responsabilidad penal, sin firmeza verificada.
 tags:
 - corrupción
@@ -57,6 +58,11 @@ documentos:
   filetype: PDF
   paginas: 351
   nombre_fichero: https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia%20Scala.pdf
+- fecha: '2014-05-07'
+  titulo: STS 394/2014, recurso 11103/2013
+  filetype: PDF
+  paginas: 169
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1a65443284e49912&encode=true&databasematch=AN
 cronologia:
 - fecha: '2013-07-26'
   titulo: Sentencia de la causa principal
@@ -78,8 +84,18 @@ cronologia:
     confirma recursos de personas que no recurrieron. La fecha de octubre de 2014 de la versión anterior no corresponde
     a esta casación.
   urls:
-  - https://vlex.es/vid/514867490
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1a65443284e49912&encode=true&databasematch=AN
   type: sentencia
+- fecha: '2023-11-29'
+  titulo: Se comunica la libertad condicional de Cardona
+  descripcion: Europa Press y Radio Ibiza informan de la concesión por el Juzgado de Vigilancia Penitenciaria 1
+    de Mallorca, tras estimar reforma contra el auto de 18 de julio de 2023. La fecha es la de publicación, no la
+    del auto estimatorio. Se mantienen condiciones de seguimiento y obligaciones económicas; no acredita extinción
+    de la condena ni liquidación íntegra de la responsabilidad civil.
+  urls:
+  - https://www.europapress.es/illes-balears/noticia-libertad-provisional-exconseller-jose-juan-cardona-condenado-caso-scala-20231129144731.html
+  - https://cadenaser.com/baleares/2023/11/29/jose-juan-cardona-expresidente-del-pp-pitiuso-en-libertad-condicional-radio-ibiza/
+  type: auto
 - fecha: '2024-11-14'
   titulo: Se publica la prescripción de la derivada fiscal
   descripcion: Última Hora informa de una resolución del Penal 7 de Palma que extingue la responsabilidad de Isabel
@@ -98,4 +114,4 @@ Las penas resumidas de Ordinas y Ferré requieren cautela. La nota oficial da cu
 
 Se retiran los superlativos históricos, la asociación de Matas como implicado sin imputación acreditada y las fechas arbitrarias sobre inicio, descubrimiento o colaboración. El relato de la lata y su contenido tampoco se utiliza para fijar una cifra de daño.
 
-Revisión hasta el 17 de octubre de 2026: PDF oficial de 351 páginas verificado; se leyeron encabezamiento y pasajes iniciales del fallo, no toda la sentencia ni sus anexos gráficos. El original del Supremo devolvió 403 al intentar la descarga por referencia CENDOJ; se consultó su encabezamiento y fallo en una transcripción HTML. Falta el original de la resolución fiscal de 2024, sus recursos y firmeza, y la documentación de ejecución de las condenas y responsabilidades civiles.
+Revisión hasta el 17 de octubre de 2026: PDF oficial de 351 páginas verificado; se leyeron encabezamiento y pasajes iniciales del fallo, no toda la sentencia ni sus anexos gráficos. El coordinador recuperó el PDF oficial del Supremo, de 169 páginas, y leyó encabezamiento y fallo (páginas 1 y 169), sin revisar íntegramente los fundamentos. La vinculación nominal de Cardona procede también de la información judicial y periodística; no se deducen identidades de los pseudónimos del PDF. La libertad condicional comunicada en noviembre de 2023 se incorpora como noticia de ejecución, sin disponer del auto original ni verificar la liquidación de la condena o el pago íntegro de responsabilidades. Falta el original de la resolución fiscal de 2024, sus recursos y firmeza, y la documentación de ejecución de las condenas y responsabilidades civiles.
