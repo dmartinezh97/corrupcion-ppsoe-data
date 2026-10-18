@@ -1,90 +1,78 @@
 ---
 nombre: Caso Terán
 partido: PSOE
-completado: true
+completado: false
 año: 1998
-fechaInicio: 1991-01-01
-fechaFin: 2008-07-07
-estado: cerrado con condenas
+fechaInicio: "1998-07-07"
+estado: "condenas por conformidad"
 lugar: Sanlúcar de Barrameda, Cádiz, Andalucía
-coste: 56000
 descripcion: |
-  El Caso Terán fue un escándalo de corrupción política en el municipio de Sanlúcar de Barrameda que salió a la luz el 7 de julio de 1998, cuando el funcionario municipal Rafael Terán Hidalgo denunció irregularidades cometidas por miembros del Ayuntamiento y sus familiares durante el periodo 1991-1993, bajo el mandato del alcalde socialista Manuel Vital Gordillo. Los delitos investigados incluyeron falsificación de documentos oficiales y malversación de caudales públicos, afectando gravemente a las arcas municipales durante varios años.
+  Procedimiento sobre pagos municipales denunciados por Rafael Terán. La crónica del 8 de julio de 2008 informó de que cinco acusados aceptaron el día anterior una conformidad por malversación y falsedad documental ante la Sección Cuarta de la Audiencia de Cádiz. La noticia aún anunciaba la redacción de la sentencia.
 
-  El mecanismo de la trama consistía en la realización de pagos ficticios del Ayuntamiento a familiares de funcionarios municipales por la compra de materiales y la prestación de servicios inexistentes. El interventor municipal Juan Manuel Castillo Fagúndez firmaba pagos a sus propios familiares que posteriormente embolsaba, apropiándose de más de 47.000 euros. Por su parte, el concejal de Fomento Agustín Cuevas Batista cobró algo más de 9.000 euros destinados a una escuela taller justificándolos con un convenio ficticio. Además, se detectaron otras irregularidades como el IVA cobrado por el Ayuntamiento a particulares que no se declaraba ni ingresaba en Hacienda, presupuestos anuales ficticios con superávits inexistentes entre 1988 y 1991, y pagos por materiales y servicios que nunca se ejecutaron.
-
-  El proceso judicial se prolongó durante una década desde la denuncia hasta la resolución, concluyendo en la Audiencia Provincial de Cádiz el 7 de julio de 2008, exactamente diez años después de la denuncia inicial. El juicio oral nunca llegó a celebrarse porque los abogados defensores alcanzaron un acuerdo con la Fiscalía por el cual todos los acusados aceptaron su culpabilidad por haberse apropiado de fondos públicos. La sentencia condenó a cinco personas a penas de un año y diez meses de prisión, con inhabilitación de 2 a 3 años según el acusado, y a indemnizar al Ayuntamiento con cerca de 60.000 euros. Las dilaciones indebidas del proceso permitieron aplicar una atenuante muy cualificada que redujo sustancialmente las penas finales, lo que permitió que cuatro de los cinco condenados evitaran el ingreso en prisión al no superar los dos años de condena y no tener antecedentes penales.
-resumen: Malversación de fondos públicos y falsificación de documentos en el Ayuntamiento de Sanlúcar de Barrameda.
+  No se ha recuperado la resolución original ni verificado su fecha, número, firmeza y ejecución al corte del 17 de octubre de 2026. La información posterior sobre Agustín Cuevas distingue Terán del caso Sanlúcar, por el que ingresó en prisión. La revisión permanece incompleta y no presenta las previsiones de suspensión como decisiones judiciales acreditadas.
+resumen: "Conformidad de cinco acusados por pagos del Ayuntamiento de Sanlúcar, aceptada en julio de 2008 según la prensa. Original y ejecución pendientes de cotejo."
 tribunal:
   - "Audiencia Provincial de Cádiz - Sección Cuarta"
-sentencia: Conformidad judicial
+numeroSentencia: ""
 tags:
   - malversación
-  - falsificación de documentos
-  - cohecho
-  - apropiación indebida
-impactoSocial: El caso evidenció la corrupción en la gestión municipal de Sanlúcar de Barrameda durante los años 90 y la lentitud de la justicia española, ya que el proceso duró exactamente una década desde la denuncia hasta la sentencia.
-
+  - falsedad documental
+  - conformidad
+impactoSocial: "El asunto tuvo una tramitación prolongada; la noticia de la conformidad recogía una atenuante muy cualificada de dilaciones indebidas."
 implicados:
-  - nombre: Rafael Terán Hidalgo
-    cargo: Funcionario del Ayuntamiento de Sanlúcar de Barrameda
-    rol: Denunciante que reveló las irregularidades contables del municipio
-
-  - nombre: Juan Manuel Castillo Fagúndez
-    cargo: Interventor municipal de Sanlúcar de Barrameda
-    rol: Condenado por apropiarse de 47.000 euros mediante pagos ficticios a familiares
-
+  - nombre: Rafael Terán
+    cargo: Funcionario municipal
+    rol: "Denunciante; no acusado por los hechos que reveló"
+  - nombre: Juan Manuel Castillo
+    cargo: Exinterventor municipal
+    rol: "Aceptó la conformidad según la crónica de julio de 2008"
   - nombre: Agustín Cuevas Batista
-    cargo: Concejal de Fomento del Ayuntamiento de Sanlúcar de Barrameda (PSOE)
-    rol: Condenado por malversar 9.000 euros de fondos para escuela taller
-
-  - nombre: Eusebio Moreira Díaz
-    cargo: Técnico auxiliar de informática del Ayuntamiento
-    rol: Condenado por participación en falsificación de documentos oficiales
-
-  - nombre: Manuel Vital Gordillo
-    cargo: Alcalde de Sanlúcar de Barrameda (PSOE)
-    rol: Exculpado tras demostrar que su firma fue falsificada en documentos
-
-  - nombre: Ángel Mora Bayón
-    cargo: Primer teniente de alcalde de Sanlúcar de Barrameda
-    rol: Investigado por su posible implicación en las irregularidades
-
+    cargo: "Concejal de Fomento cuando ocurrieron los hechos; posteriormente alcalde del PSOE"
+    rol: "Aceptó la conformidad; su prisión por el caso Sanlúcar corresponde a otro procedimiento"
+  - nombre: Eusebio Moreira
+    cargo: Funcionario municipal
+    rol: "Aceptó la conformidad según la crónica de julio de 2008"
+  - nombre: Manuel Vital
+    cargo: "Alcalde del PSOE durante los hechos"
+    rol: "Exonerado de cargos según la información contemporánea; no incluido entre los cinco que aceptaron la conformidad"
 documentos: []
-
 cronologia:
-  - fecha: 1991-01-01
-    titulo: Inicio del periodo de las irregularidades
-    descripcion: Comienza el periodo de tres años (1991-1993) durante el cual se cometen los delitos de malversación de fondos públicos y falsificación de documentos oficiales en el Ayuntamiento de Sanlúcar de Barrameda. Los hechos incluyen pagos ficticios a familiares de funcionarios, apropiación de fondos destinados a programas sociales, y manipulación de presupuestos municipales.
+  - fecha: "1998-07-07"
+    titulo: "Denuncia según la crónica contemporánea"
+    descripcion: "La información de julio de 2008 sitúa en esta fecha la denuncia del funcionario Rafael Terán. El escrito original no ha sido cotejado."
     urls:
-      - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Ter%C3%A1n&numero=146
-      - https://es.wikipedia.org/wiki/Caso_Ter%C3%A1n
-    type: resumen
-    relevancia: alta
-
-  - fecha: 1998-07-07
-    titulo: Rafael Terán presenta denuncia formal
-    descripcion: El funcionario municipal Rafael Terán Hidalgo presenta una denuncia formal ante las autoridades judiciales revelando las irregularidades contables detectadas en el Ayuntamiento durante el periodo 1991-1993. La denuncia incluye documentación detallada sobre pagos ficticios, malversación de fondos públicos, manipulación de presupuestos y falsificación de documentos oficiales. Este acto de valentía da nombre al caso.
-    urls:
-      - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Ter%C3%A1n&numero=146
-      - https://es.wikipedia.org/wiki/Caso_Ter%C3%A1n
+      - "https://www.diariodecadiz.es/noticias-provincia-cadiz/Penas-minimas-cierran-Teran-denuncia_0_166183913.html"
     type: denuncia
-    relevancia: alta
-
-  - fecha: 2005-02-01
-    titulo: Auto de la Audiencia Provincial de Cádiz
-    descripcion: La Audiencia Provincial de Cádiz dicta un auto en el que ratifica la continuación de las investigaciones y rechaza los recursos presentados por varios de los investigados. El tribunal considera que existen indicios suficientes de la comisión de delitos de malversación de caudales públicos y falsificación de documentos oficiales para continuar con el proceso judicial.
-    urls:
-      - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Ter%C3%A1n&numero=146
-    type: investigación
     relevancia: media
-
-  - fecha: 2008-07-07
-    titulo: Sentencia y conformidad judicial tras 10 años de proceso
-    descripcion: Exactamente diez años después de la denuncia inicial, el caso concluye en la Audiencia Provincial de Cádiz mediante un acuerdo de conformidad que evita la celebración del juicio oral. Los cinco acusados aceptan su culpabilidad por haberse apropiado de fondos públicos. Juan Manuel Castillo, Agustín Cuevas y Eusebio Moreira, junto a dos familiares de Castillo, son condenados a un año y diez meses de prisión por delitos de malversación y falsificación de documentos oficiales. Las dilaciones indebidas permiten aplicar una atenuante muy cualificada que reduce las penas. Cuatro de los cinco condenados evitan prisión al no superar dos años de condena. Se ordena la indemnización de cerca de 60.000 euros al Ayuntamiento.
+  - fecha: "2008-04-22"
+    titulo: "Información sobre el juicio previsto y las peticiones fiscales"
+    descripcion: "Diario de Cádiz publicó el señalamiento para julio y las penas solicitadas. No eran condenas."
     urls:
-      - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Ter%C3%A1n&numero=146
-      - https://es.wikipedia.org/wiki/Caso_Ter%C3%A1n
+      - "https://www.diariodecadiz.es/noticias-provincia-cadiz/juicio-Teran-comenzara-Audiencia-Provincial_0_143086144.html"
+    type: juicio
+    relevancia: media
+  - fecha: "2008-07-07"
+    titulo: "Aceptación de la conformidad"
+    descripcion: "La crónica del día siguiente informó del acuerdo aceptado por cinco acusados y de una sentencia aún por elaborar. No se fija esta fecha como la de su firma."
+    urls:
+      - "https://www.diariodecadiz.es/noticias-provincia-cadiz/Penas-minimas-cierran-Teran-denuncia_0_166183913.html"
     type: sentencia
     relevancia: alta
+  - fecha: "2009-11-09"
+    titulo: "Noticia que distingue Terán del caso Sanlúcar"
+    descripcion: "Andalucía Información atribuyó el ingreso de Cuevas en prisión al caso Sanlúcar y refirió una suspensión en Terán, pendiente aquí de cotejar con el auto correspondiente."
+    urls:
+      - "https://www.andaluciainformacion.es/articulo/sin-categoria/ingresa-en-prision-agustin-cuevas-por-el-caso-sanlucar/200911092137001072419.html"
+    type: resumen
+    relevancia: media
 ---
+
+La información previa al juicio describía las acusaciones sobre pagos a familiares y fondos de una escuela taller. También indicaba que Manuel Vital había quedado exonerado tras pericias sobre firmas falsificadas. No se conservan otros cargos heredados —IVA, presupuestos ficticios o implicación de Ángel Mora— sin fuentes específicas revalidadas.
+
+La crónica del 8 de julio resumió las penas aceptadas como un año y diez meses de prisión por acusado y una indemnización cercana a 60.000 euros. La de noviembre de 2009 desglosó para Cuevas un año, un mes y siete días por falsedad y nueve meses por malversación. Sin la sentencia no se resuelve la diferencia ni se fija una pena exacta única. Los dos familiares presentes en la conformidad no se identifican nominalmente en las fuentes leídas.
+
+No se mantiene el coste de 56.000 euros: las cantidades inicialmente atribuidas a las operaciones y la indemnización aproximada no permiten establecer un daño judicial exacto ni un saldo pendiente de reintegro. No se suman ambas magnitudes.
+
+La noticia de julio preveía que cuatro acusados evitarían prisión; esa previsión no sustituye los autos de suspensión. La información posterior de Cuevas contiene además referencias temporales discordantes sobre los hechos, por lo que se utiliza con atribución expresa, sin trasladar penas, multas ni responsabilidades del caso Sanlúcar a Terán.
+
+Diario de Cádiz también mencionó un archivo por prescripción en la vía contable ante el Tribunal de Cuentas. Esa resolución no ha sido recuperada y no acredita por sí misma el cierre o la firmeza de la causa penal. Faltan los originales judiciales y comprobar los efectos posteriores.
