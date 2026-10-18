@@ -1,100 +1,75 @@
 ---
-nombre: "Caso Facturas Baena"
+nombre: Caso Facturas Baena
 partido: PSOE
-completado: true
+completado: false
 año: 2007
-fechaInicio: 2005-01-01
-fechaFin: 2016-10-04
 estado: cerrado con condenas
-descripcion: |
-  El caso Facturas Baena es un escándalo de corrupción municipal destapado en el verano de 2007 en el Ayuntamiento de Baena (Córdoba), entonces gobernado por el socialista Luis Moreno Castro. La trama consistió en la elaboración y tramitación de facturas falsas por trabajos menores y suministros de material que nunca se realizaron, con un valor aproximado de 38.000 euros entre los años 2005 y 2007. Unas escuchas telefónicas practicadas por la Policía Judicial en 2007 destaparon el escándalo.
-
-  La investigación reveló que Antonio Jesús Gómez Rosa, propietario de una empresa de carpintería metálica (HAGOSAN), concertó con dos funcionarios administrativos del Ayuntamiento la elaboración de facturas de obras por contratos menores que no se habían realizado. Rafael Santano Cañete, secretario del alcalde Luis Moreno, se ofreció a dar un trato de favor al empresario para agilizar el cobro de las facturas, siempre que este las emitiera por las cantidades indicadas por los funcionarios, a nombre del Ayuntamiento, por trabajos que no iba a realizar y materiales que no iba a usar. Las facturas se referían a obras menores o de urgencia, o suministro de materiales de escasa cuantía, con el fin de obviar el correspondiente expediente de contratación. Tras cobrar, el empresario deducía el IVA y entregaba el resto directamente a los funcionarios procesados.
-
-  El caso tuvo consecuencias políticas inmediatas: el escándalo le costó el cargo a Luis Moreno, al que el PSOE impidió repetir como candidato al Senado por Córdoba. El proceso judicial se prolongó durante nueve años, hasta que en octubre de 2016 la Audiencia Provincial de Córdoba condenó a los tres acusados tras alcanzar un pacto con la Fiscalía. Los magistrados aplicaron una atenuante por dilaciones indebidas achacables a la administración de justicia, rebajando las penas de seis años inicialmente solicitados a entre ocho meses y un año de prisión. Los condenados evitaron finalmente el ingreso en prisión.
-
-resumen: "Trama de facturas falsas en el Ayuntamiento de Baena por 38.000 euros entre 2005 y 2007."
-coste: 38000
-lugar: "Baena, Córdoba, España"
+descripcion: 'Facturas por trabajos y materiales inexistentes cargadas al Ayuntamiento de Baena entre 2005 y 2007. La
+  prensa identificó tres condenados en 2016: dos empleados municipales y un empresario. En mayo de 2017 se informó de
+  una resolución del TSJA que mantenía las penas. No se han obtenido las sentencias originales ni acreditado su firmeza
+  o ejecución al corte de 17 de octubre de 2026. Las cuantías de acusación, beneficio e indemnización se distinguen en
+  el cuerpo.'
+resumen: Condenas por facturas falsas en Baena, mantenidas según la prensa en 2017; originales, firmeza y ejecución pendientes
+  de verificar.
+lugar: Baena, Córdoba, Andalucía
 tribunal:
-  - "Audiencia Provincial de Córdoba - Sección Tercera"
-numeroSentencia: ""
+- Juzgado de Primera Instancia e Instrucción único de Baena
+- Audiencia Provincial de Córdoba - Sección Tercera
+- Tribunal Superior de Justicia de Andalucía - Sala de lo Civil y Penal
 implicados:
-  - nombre: "Rafael Santano Cañete"
-    cargo: "Secretario del alcalde y funcionario administrativo del Ayuntamiento de Baena"
-    rol: "Condenado a 1 año de prisión por estafa y falsificación de documento mercantil"
-
-  - nombre: "Juan Díaz Pérez"
-    cargo: "Funcionario administrativo del Ayuntamiento de Baena"
-    rol: "Condenado a 1 año de prisión por estafa y falsificación de documento mercantil"
-
-  - nombre: "Antonio Jesús Gómez Rosa"
-    cargo: "Empresario, propietario de carpintería metálica HAGOSAN"
-    rol: "Condenado a 8 meses de prisión por falsificación continuada de documento mercantil"
-
-  - nombre: "Luis Moreno Castro"
-    cargo: "Alcalde de Baena (PSOE, 1995-2011) y senador por Córdoba"
-    rol: "Alcalde durante la trama, inhabilitado por el PSOE para repetir como senador"
-
+- nombre: Rafael Santano Cañete
+  cargo: Funcionario administrativo y secretario personal del entonces alcalde de Baena
+  rol: Condenado a un año de prisión por estafa y falsificación documental según Cordópolis; firmeza no acreditada.
+- nombre: Juan Díaz Pérez
+  cargo: Funcionario administrativo del Ayuntamiento de Baena
+  rol: Condenado a un año de prisión por estafa y falsificación documental según Cordópolis; firmeza no acreditada.
+- nombre: Antonio Jesús Gómez Rosa
+  cargo: Empresario de carpintería metálica
+  rol: Condenado a ocho meses de prisión por falsificación continuada de documento mercantil según Cordópolis; firmeza
+    no acreditada.
 tags:
-  - "corrupción"
-  - "estafa"
-  - "falsificación documental"
-  - "prevaricación"
-
-impactoSocial: "El escándalo tuvo un fuerte impacto local, provocando la salida política de Luis Moreno del Senado y su posterior baja del PSOE en 2018 tras 40 años de militancia. En 2019 fundó un partido independiente que facilitó que el PP y Ciudadanos arrebataran la alcaldía al PSOE tras 36 años de gobierno socialista."
-
-documentos: null
-
+- estafa
+- falsificación documental
+- facturas falsas
+documentos: []
 cronologia:
-  - fecha: 2005-01-01
-    titulo: "Inicio de la trama de facturas falsas"
-    descripcion: "Entre 2005 y 2007, Antonio Jesús Gómez Rosa, propietario de la empresa de carpintería metálica HAGOSAN, comienza a elaborar facturas falsas por trabajos y materiales que nunca se realizaron en obras del Ayuntamiento de Baena. Rafael Santano Cañete, secretario del alcalde Luis Moreno, y Juan Díaz Pérez, funcionario administrativo, aprueban estas facturas por un valor total aproximado de 38.000 euros. El empresario cobraba las facturas, deducía el IVA y entregaba el resto del dinero directamente a los dos funcionarios."
-    type: "resumen"
-    urls:
-      - "https://cordopolis.eldiario.es/cordoba-hoy/condenados-facturas-falsas-baena-evitaran-carcel_1_7007569.html"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Facturas+Baena&numero=315"
-
-  - fecha: 2007-07-01
-    titulo: "Denuncia del ex alcalde Carlos Arenas"
-    descripcion: "En el verano de 2007, el ex alcalde de Baena Carlos Arenas, su esposa María Jesús Muñoz y el particular Manuel Luque presentan una denuncia ante el juzgado de Baena. La denuncia da inicio a la investigación judicial sobre la presunta trama de facturas falsas en el Ayuntamiento. Unas escuchas telefónicas practicadas por la Policía Judicial confirman las irregularidades y destapan públicamente el escándalo."
-    type: "denuncia"
-    urls:
-      - "https://cordopolis.eldiario.es/cordoba-hoy/condenados-facturas-falsas-baena-evitaran-carcel_1_7007569.html"
-
-  - fecha: 2007-08-01
-    titulo: "Luis Moreno no repite como candidato al Senado"
-    descripcion: "Como consecuencia del escándalo de las facturas falsas, el PSOE de Córdoba decide impedir que Luis Moreno Castro repita como candidato al Senado por Córdoba, cargo que había ocupado en las dos últimas legislaturas. Esta decisión marca el inicio del declive político de Moreno dentro del partido socialista, aunque continuará como alcalde de Baena hasta 2011."
-    type: "resumen"
-    urls:
-      - "https://cordopolis.eldiario.es/cordoba-hoy/condenados-facturas-falsas-baena-evitaran-carcel_1_7007569.html"
-
-  - fecha: 2016-09-12
-    titulo: "Comienza el juicio en la Audiencia Provincial de Córdoba"
-    descripcion: "Nueve años después del inicio de la investigación, comienza el juicio por el caso de las facturas falsas del Ayuntamiento de Baena en la Audiencia Provincial de Córdoba. La Fiscalía solicita inicialmente seis años de cárcel para cada uno de los tres implicados por delitos de estafa, falsificación continuada y malversación de caudales públicos. El procedimiento consta de más de 16 tomos de instrucción."
-    type: "resumen"
-    urls:
-      - "https://andaluciainformacion.es/andalucia/105416/piden-seis-anos-de-carcel-para-los-tres-implicados-en-las-facturas-falsas-de-baena/"
-
-  - fecha: 2016-10-04
-    titulo: "Sentencia condenatoria de la Audiencia Provincial"
-    descripcion: "La Sección Tercera de la Audiencia Provincial de Córdoba condena a los tres procesados tras alcanzar un pacto con la Fiscalía. Antonio Jesús Gómez Rosa es condenado a ocho meses de prisión por falsificación continuada de documento mercantil. Rafael Santano Cañete y Juan Díaz Pérez son condenados cada uno a un año de prisión por estafa y falsificación de documento mercantil. Los magistrados aplican una atenuante por dilaciones indebidas achacables a la administración de justicia, lo que permite rebajar las penas de los seis años inicialmente solicitados. Los tres condenados evitan finalmente el ingreso en prisión."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://cordopolis.eldiario.es/cordoba-hoy/condenados-facturas-falsas-baena-evitaran-carcel_1_7007569.html"
-
-  - fecha: 2018-12-28
-    titulo: "Luis Moreno se da de baja del PSOE"
-    descripcion: "Luis Moreno Castro solicita la baja en el PSOE tras casi 40 años de militancia. En su comunicado, Moreno declara: 'Después de casi 40 años de militancia en el PSOE-A, he decidido causar baja en esta organización, a la que agradezco su confianza y a la que he servido con lealtad y probidad'. El histórico dirigente socialista había sido alcalde de Baena durante 16 años, senador por Córdoba, diputado provincial y secretario general del PSOE-A de Baena durante 22 años."
-    type: "resumen"
-    urls:
-      - "https://cordopolis.eldiario.es/cordoba-hoy/luis-moreno-historico-exalcalde-baena-pide-baja-psoe_1_7083811.html"
-
-  - fecha: 2019-05-26
-    titulo: "Moreno funda partido independiente y facilita gobierno PP-Ciudadanos"
-    descripcion: "Luis Moreno crea el partido Independientes por Baena (IPORBA) y se presenta a las elecciones municipales de 2019, obteniendo dos concejales. Tras las elecciones, Moreno facilita la formación de un gobierno municipal de PP y Ciudadanos, arrebatando así la alcaldía al PSOE tras 36 años ininterrumpidos de gobierno socialista en Baena. Esta decisión confirma la ruptura definitiva entre Moreno y el partido socialista."
-    type: "resumen"
-    urls:
-      - "https://cordopolis.eldiario.es/especiales/exsenador-exalcalde-psoe-llave-acabar-36-anos-gobiernos-socialistas-baena_1_7072228.html"
+- fecha: '2015-04-13'
+  titulo: Auto de apertura de juicio oral
+  descripcion: LegalToday reproduce un auto de esta fecha del procedimiento del Tribunal del Jurado 1/2012, registro
+    general 1106/2007. Abre juicio contra tres acusados y fija garantías para eventuales responsabilidades civiles; no
+    es sentencia condenatoria.
+  type: juicio
+  urls:
+  - https://www.legaltoday.com/historico/jurisprudencia/jurisprudencia-penal/auto-juzgado-de-primera-instancia-e-instruccion-provincia-de-cordoba-num-12012-13042015-2015-05-11/
+- fecha: '2016-09-26'
+  titulo: Juicio visto para sentencia
+  descripcion: 'Europa Press informó del reconocimiento de hechos y un acuerdo entre Fiscalía y defensas: petición de
+    seis meses de prisión y unos 10.000 euros de responsabilidad civil conjunta y solidaria. La acusación se opuso a
+    la rebaja.'
+  type: juicio
+  urls:
+  - https://www.europapress.es/andalucia/noticia-acuerdo-fiscal-acusados-caso-facturas-falsas-baena-20160926154048.html
+- fecha: '2016-10-04'
+  titulo: Publicación de las condenas de la Audiencia
+  descripcion: 'Cordópolis comunicó ocho meses de prisión para el empresario y un año para cada funcionario, penas superiores
+    a las pactadas con Fiscalía. Es fecha de publicación: no se ha comprobado el día exacto de la sentencia.'
+  type: sentencia
+  urls:
+  - https://cordopolis.eldiario.es/cordoba-hoy/condenados-facturas-falsas-baena-evitaran-carcel_1_7007569.html
+- fecha: '2017-05-12'
+  titulo: Noticia del recurso resuelto por el TSJA
+  descripcion: EFE informó de la desestimación del recurso y de la aplicación de las atenuantes de confesión y dilaciones
+    indebidas. La noticia atribuye el recurso a los condenados y también describe la impugnación de la acusación; sin
+    el original no se resuelve esa ambigüedad.
+  type: recurso
+  urls:
+  - https://www.eldiadecordoba.es/provincia/TSJA-rechaza-funcionarios-condenados-facturas_0_1135086539.html
 ---
+
+El mecanismo descrito consistía en facturar al Ayuntamiento trabajos o materiales inexistentes y entregar a los empleados municipales el dinero cobrado, descontado el IVA. Los nombres completos proceden de la [noticia de Cordópolis](https://cordopolis.eldiario.es/cordoba-hoy/condenados-facturas-falsas-baena-evitaran-carcel_1_7007569.html), no de identificar las iniciales del auto reproducido. Luis Moreno era el alcalde durante los hechos; las fuentes utilizadas no lo incluyen entre estos tres condenados.
+
+La [reproducción del auto de 13 de abril de 2015](https://www.legaltoday.com/historico/jurisprudencia/jurisprudencia-penal/auto-juzgado-de-primera-instancia-e-instruccion-provincia-de-cordoba-num-12012-13042015-2015-05-11/), publicada el 11 de mayo, permite distinguir la apertura del juicio de la condena posterior. Su contenido sobre hechos e importes pertenece a esa fase procesal. El [acuerdo anunciado en septiembre de 2016](https://www.europapress.es/andalucia/noticia-acuerdo-fiscal-acusados-caso-facturas-falsas-baena-20160926154048.html) tampoco equivale a la pena finalmente impuesta.
+
+Los aproximadamente 38.000 euros eran la estimación de la acusación reseñada por la prensa. Cordópolis informó de una indemnización de 10.000 euros aceptada por el tribunal. La [noticia de EFE de mayo de 2017](https://www.eldiadecordoba.es/provincia/TSJA-rechaza-funcionarios-condenados-facturas_0_1135086539.html) atribuye a la sentencia un beneficio obtenido de 24.549 euros. No se suman estos conceptos ni se fija un coste único sin los fallos originales; tampoco se acredita el pago efectivo de la indemnización.
+
+Aunque la información de 2016 anunciaba que evitarían la cárcel, no se ha obtenido una resolución de suspensión o ejecución. No se deduce firmeza del transcurso del tiempo ni de la noticia del recurso de 2017. Quedan pendientes los originales de ambas sentencias, la identificación exacta de recursos y sus resultados posteriores, las penas accesorias y el estado de ejecución al corte de 17 de octubre de 2026. No se incluyen aquí otros procedimientos urbanísticos de Baena ni la evolución partidaria posterior del alcalde.
