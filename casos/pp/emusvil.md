@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2009
 fechaFin: ''
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Causa por presunta doble venta; desenlace no documentado
 descripcion: 'El caso se refiere a la presunta doble venta del local número 3 de la promoción Reina Sofía por la
   Empresa Municipal de Suelo y Vivienda de La Línea de la Concepción (Emusvil), en Cádiz. La información de enero

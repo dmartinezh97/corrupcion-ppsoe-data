@@ -3,6 +3,9 @@ nombre: Caso Zamora
 partido: PP
 completado: false
 año: 1997
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: archivado
 descripcion: 'Investigación sobre presuntas comisiones en adjudicaciones de la Diputación de Zamora y su posible
   relación con la financiación del PP, iniciada a raíz de denuncias de Antolín Martín y del constructor Eduardo

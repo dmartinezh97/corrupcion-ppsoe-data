@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2001
 fechaFin: '2024-02-06'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sentencia firme
 descripcion: Pieza sobre contratos del Ayuntamiento de Boadilla del Monte y su Empresa Municipal del Suelo y la
   Vivienda entre 2001 y 2009. La sentencia 8/2022 de la Audiencia Nacional condenó a 23 de 25 acusados. El Supremo

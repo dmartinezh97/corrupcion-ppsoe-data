@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2014
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: Valdemoro aparece en varias ramas de Púnica con resultados distintos. En Cofely, la sentencia de 19
   de diciembre de 2025 absolvió al exalcalde José Carlos Boza y a otros responsables locales, mientras condenó a

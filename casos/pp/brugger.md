@@ -5,6 +5,9 @@ completado: false
 año: 2018
 fechaInicio: "2018-03-10"
 fechaFin: ""
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "absolución penal; sanción administrativa sin firmeza comprobada"
 descripcion: |
   El caso se refiere a la entrega de respuestas de un examen de oposición por parte de Ana María Brugger Navarro, exdirectora general de Función Pública de la Generalitat Valenciana entre 2012 y 2015, a María Gonzálbez Bernad, candidata de la misma prueba y, según fuentes de 2021, asesora del grupo parlamentario de Vox en Les Corts Valencianes. En el momento de los hechos Brugger no ocupaba un cargo político: era funcionaria de carrera adscrita a la Dirección General de Función Pública y formaba parte del grupo de funcionarios designados para vigilar la prueba.

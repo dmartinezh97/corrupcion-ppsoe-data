@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2009
 fechaInicio: "2008-12-24"
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: |-
   Carioca es una macrocausa de Lugo sobre explotación sexual y corrupción policial, dividida en numerosas piezas con resultados diferentes. Europa Press sitúa la incoación el 24 de diciembre de 2008; la sentencia de la pieza policial cita como origen un atestado de 4 de diciembre de ese año. Son actos distintos. Las entradas y registros hicieron pública la operación en octubre de 2009. La investigación no permite atribuir a cada persona todos los delitos examinados en la macrocausa.

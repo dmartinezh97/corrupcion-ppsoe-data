@@ -3,6 +3,9 @@ nombre: Caso Lezo - Inassa y Emissao
 partido: PP
 completado: false
 año: 2001
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: 'Inassa: vista celebrada; Emissao: pendiente de juicio'
 resumen: 'Dos piezas distintas sobre las compras latinoamericanas del Canal: Inassa llegó a juicio en 2026 y Emissao
   tiene apertura de juicio oral, con vista prevista para 2027 según la prensa.'

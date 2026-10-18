@@ -4,6 +4,9 @@ partido: "PP"
 completado: false
 año: 2003
 fechaFin: ""
+estadoPrincipal: Condenado
+recursoPendiente: Sin recurso pendiente
+firmeza: Firme
 estado: "sentencia firme"
 descripcion: |
   El caso Cendán se refiere a la manipulación del padrón municipal y del censo electoral de Ares (A Coruña) en los meses previos a las elecciones municipales del 25 de mayo de 2003. José Manuel Cendán Fernández fue alcalde de Ares entre 1999 y 2007 por el Partido Popular y en 2003 era también líder y portavoz del PP local. Según las crónicas del juicio, entre septiembre de 2002 y marzo de 2003 se produjeron altas irregulares en el padrón de personas que no residían en el municipio; el Instituto Nacional de Estadística (INE) las cifró en 73. La mayoría se inscribieron en inmuebles vinculados a los acusados: en torno a 32 personas en tres pisos de un edificio propiedad de Cendán (las crónicas de la condena señalan 32 y algunas de 2011 señalaban 31) y 12 personas en el piso de la secretaria personal del alcalde y entonces pareja de este, Montserrat Rodríguez Sánchez (otras crónicas indican 13). El resto se repartió entre una casa en ruinas, un garaje propiedad de un empresario vinculado al PP ya fallecido (Antonio Castro Pereira, número 10 de la lista popular en 2003) y domicilios inexistentes.

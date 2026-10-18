@@ -5,6 +5,9 @@ completado: false
 año: 2005
 fechaInicio: '2005-07-18'
 fechaFin: ''
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: absueltos
 descripcion: 'La sentencia 103/2026 de la Sección Tercera de la Audiencia de Sevilla, de 11 de marzo de 2026 y notificada
   el día 12, absolvió a Daniel Alberto Rivera de prevaricación, malversación y falsedad documental, y al representante

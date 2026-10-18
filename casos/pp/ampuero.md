@@ -4,6 +4,9 @@ partido: "PP"
 completado: false
 año: 2012
 fechaFin: ""
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "desconocido"
 descripcion: |
   El Caso Ampuero se centra en Jesús Manuel Ampuero Pérez —citado como José Manuel Ampuero en algunas fuentes—, alcalde de Cenicientos (Comunidad de Madrid) por el Partido Popular entre el 15 de junio de 1991 y el 23 de julio de 2010, cuando dimitió alegando problemas de salud. Según las crónicas que describen los hechos probados de la sentencia, entre 2004 y 2010 recibió en su cuenta corriente diversos importes procedentes de la cuenta del Ayuntamiento por un total de 369.863 euros, de los que 70.008 euros correspondían a sus nóminas y 194.842 euros fueron transferencias de vuelta al Consistorio; las crónicas cuantifican en 105.012 euros el enriquecimiento ilícito sin justificación documental, con importes parciales publicados de forma redondeada. La sentencia declaró también un desfase en la Casa Rural Municipal de la Corredera: las facturas emitidas sumaban 175.738 euros, pero solo constaba el ingreso de 35.311 euros, de modo que faltaban 140.427 euros entregados en mano. La querella de 2012 cifró en 140.749 euros el dinero de la casa rural no ingresado entre 2000 y 2010.

@@ -5,6 +5,9 @@ completado: false
 año: 2012
 fechaInicio: '2012-03-30'
 fechaFin: ''
+estadoPrincipal: Resolución no penal
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: anulado
 resumen: La Declaración Tributaria Especial de 2012 fue anulada por la STC 73/2017, sin revisión de las situaciones tributarias
   firmes; esa nulidad normativa no es una condena penal de sus impulsores o declarantes.

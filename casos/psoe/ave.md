@@ -3,6 +3,9 @@ nombre: Caso AVE
 partido: PSOE
 completado: false
 año: 1994
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas por falsedad y absoluciones en casación
 descripcion: 'Procedimiento sobre facturas y pagos relacionados con las adjudicaciones del AVE Madrid-Sevilla, desglosado
   de Filesa. La investigación examinó sospechas de comisiones y financiación irregular del PSOE, pero esas acusaciones

@@ -3,6 +3,9 @@ nombre: Caso Aller — subvenciones del polideportivo
 partido: PSOE
 completado: false
 año: 2014
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución en primera instancia
 lugar: Aller, Asturias
 descripcion: 'David Moreno Bobela y Gabriel Pérez Villalta fueron absueltos del delito continuado de prevaricación

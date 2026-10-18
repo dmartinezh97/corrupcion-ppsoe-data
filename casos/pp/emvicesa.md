@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2015
 fechaInicio: '2015-06-25'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: En casación
+firmeza: No firme
 estado: condena recurrida
 descripcion: 'El caso Emvicesa se refiere a la pretendida adjudicación irregular de 317 viviendas de protección
   oficial (VPO) de la parcela B4 del Plan Parcial de Loma Colmenar, en Ceuta, gestionadas por la Empresa Municipal

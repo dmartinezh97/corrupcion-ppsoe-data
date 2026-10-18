@@ -3,6 +3,9 @@ nombre: Caso Marismas
 partido: PSOE
 completado: false
 año: 2012
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: |-
   Investigación sobre la concesión, adjudicación y ejecución de una subvención de 40.119.944 euros para modernizar los regadíos de la Comunidad de Regantes Marismas del Guadalquivir, en Sevilla. Esa cantidad es la ayuda concedida, no un perjuicio penal declarado. El presupuesto subvencionable rondaba los 66,6 millones. La denuncia de los regantes se conoció en 2012 y la causa judicial se sitúa en 2013, sin que esté acreditado aquí el día de incoación.

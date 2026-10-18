@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2007
 fechaInicio: '2007-07-23'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas y absolución en causas distintas
 descripcion: 'Las Alondras y la compra de un solar para ampliar el Ayuntamiento de Otura fueron procedimientos distintos.
   Por Las Alondras, la Sección Segunda de la Audiencia de Granada impuso en 2015, tras la conformidad alcanzada

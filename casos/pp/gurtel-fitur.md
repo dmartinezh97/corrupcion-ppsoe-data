@@ -3,6 +3,9 @@ nombre: Caso Gürtel - Pieza Fitur
 partido: PP
 completado: false
 año: 2005
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: cerrado con condenas
 descripcion: La pieza valenciana de Gürtel sobre los contratos de Fitur de 2005 a 2009 terminó con once condenas
   y dos absoluciones. La sentencia 2/2017 del TSJ de la Comunitat Valenciana, de 8 de febrero, fue confirmada íntegramente

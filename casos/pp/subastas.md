@@ -3,6 +3,9 @@ nombre: Subastas
 partido: PP
 completado: false
 año: 2014
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento
 descripcion: 'Investigación penal sobre embargos y adjudicaciones directas de inmuebles por deudas tributarias del
   Ayuntamiento de Mijas. Fueron investigados el exalcalde Ángel Nozal y funcionarios municipales. Las sospechas

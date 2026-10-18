@@ -3,6 +3,9 @@ nombre: Caso Turismo Joven
 partido: PP
 completado: false
 año: 2008
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: cerrado con condenas
 descripcion: 'El caso Turisme Jove investigó la gestión del consorcio público juvenil de Baleares durante la etapa
   2003–2007. La sentencia 8/2014, de 13 de enero, de la Sección Primera de la Audiencia Provincial de Palma impuso

@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2015
 fechaInicio: '2015-07-20'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condena y absolución en piezas distintas
 descripcion: 'La investigación sobre la gestión del Institut Valencià d’Art Modern por Consuelo Císcar, directora
   entre 2004 y su cese del 29 de abril de 2014, dio lugar a procedimientos distintos. No se atribuye un resultado

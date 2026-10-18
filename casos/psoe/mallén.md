@@ -3,6 +3,9 @@ nombre: Caso Mallén
 partido: PSOE
 completado: false
 año: 2009
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas con casaciones desestimadas; ejecución pendiente de verificar
 descripcion: Procedimientos sobre el Ayuntamiento de Mallén y la Sociedad Urbanística Municipal de Mallén (SUMM).
   Antonio Asín fue condenado a siete años de inhabilitación especial por dos órdenes de pago sin expediente; la

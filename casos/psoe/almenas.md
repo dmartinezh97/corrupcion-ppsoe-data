@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2014
 fechaFin: ""
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: "desconocido"
 descripcion: |
   La operación Almenas investigaba en diciembre de 2014 un presunto fraude relacionado con servicios de una empresa de contabilidad contratados por administraciones locales de Cuenca y Albacete. La Guardia Civil actuaba bajo la dirección del Juzgado de Instrucción número 1 de Tarancón. Las informaciones que recogieron una comunicación del Tribunal Superior de Justicia de Castilla-La Mancha mencionaban supuestos delitos contra la Administración Pública, blanqueo de capitales y falsificación de documentos.

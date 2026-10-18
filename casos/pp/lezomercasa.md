@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2017
 fechaFin: ''
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución en Mercasa-Angola
 descripcion: 'La denominación Mercasa reúne investigaciones sobre operaciones internacionales con conexiones personales
   y documentales con Lezo y Defex. Deben distinguirse la empresa pública Mercasa y el Consorcio Mercasa Incatema

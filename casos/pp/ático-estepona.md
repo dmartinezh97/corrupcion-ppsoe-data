@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2012
 fechaInicio: '2012-10-22'
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento provisional confirmado en apelación
 descripcion: La causa investigó posibles delitos de cohecho y blanqueo relacionados con el alquiler desde 2008 y
   la compra en 2012 de una vivienda en Estepona por Ignacio González y Lourdes Cavero a Coast Investors. También

@@ -3,6 +3,9 @@ nombre: "Caso Auditorio Puerto Lumbreras"
 partido: PP
 completado: false
 año: 2016
+estadoPrincipal: Condenado
+recursoPendiente: Otro recurso
+firmeza: Firme
 estado: "Condena confirmada por el Supremo en 2026; incidente de nulidad y ejecución pendientes de comprobar"
 descripcion: |
   El procedimiento penal se refiere a la contratación y justificación de la subvención del teatro-auditorio de Puerto Lumbreras, cuando Pedro Antonio Sánchez era alcalde. La Audiencia Provincial de Murcia dictó la sentencia 77/2023 el 6 de marzo de 2023, condenándolo por prevaricación y falsedad a tres años de prisión, multa de 3.600 euros e inhabilitaciones. También condenó al arquitecto y a la secretaria accidental por cooperación necesaria en prevaricación, con absoluciones por otros delitos. La subvención de seis millones de euros no se equipara a daño patrimonial probado.

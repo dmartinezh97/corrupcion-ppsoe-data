@@ -3,6 +3,9 @@ nombre: Caso Sporting
 partido: PP
 completado: false
 año: 2013
+estadoPrincipal: Condenado
+recursoPendiente: En apelación
+firmeza: No firme
 estado: Condenas de primera instancia
 descripcion: 'El caso se refiere a la gestión de las escuelas deportivas municipales de San Fulgencio mediante el
   Club de Fútbol Sporting San Fulgencio entre 2011 y 2014. Las crónicas de noviembre de 2017 describen 48 subvenciones

@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2001
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Pendiente de señalamiento a 7 de abril de 2026; evolución posterior no verificada
 descripcion: 'La pieza DP 2480/16–PA 51/23 examina ayudas a distintas entidades del grupo Promi entre 2001 y 2010.
   El auto 754/2023 de la Audiencia de Sevilla cifra el conjunto investigado en 12.673.884,23 euros e incluye ayudas

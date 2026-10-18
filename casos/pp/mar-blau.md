@@ -4,6 +4,9 @@ partido: "PP"
 completado: false
 año: 2010
 fechaFin: ""
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "condenas de conformidad y absoluciones en 2019; ejecución no comprobada"
 descripcion: |
   Mar Blau investigó irregularidades en concursos y concesiones de la Autoridad Portuaria de Baleares (APB), entre ellos los amarres del Club Marítimo de Mahón y actuaciones relacionadas con Ibiza y La Savina. La causa fue instruida por el Juzgado de Instrucción nº 8 de Palma, con Antoni Rotger como instructor. La prensa de diciembre de 2010 situaba las pesquisas judiciales dos años antes: no se fija un día artificial de inicio de los hechos ni se afirma que la investigación comenzara al publicarse el registro.

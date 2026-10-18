@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2016
 fechaFin: ""
+estadoPrincipal: Absuelto
+recursoPendiente: Sin recurso pendiente
+firmeza: Firme
 estado: "sentencia firme"
 descripcion: |
   El caso Colmenar Viejo documenta la causa seguida por la concesión de 16 licencias de primera ocupación por parte de las sucesivas Juntas de Gobierno del Ayuntamiento de Colmenar Viejo (PP) a partir de 2006. La investigación partió de una denuncia anónima asumida por la Fiscalía de Medio Ambiente de Madrid, que presentó querellas en dos juzgados del municipio, y fue instruida por el Juzgado de Instrucción nº 3 de Colmenar Viejo.

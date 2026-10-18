@@ -3,6 +3,9 @@ nombre: Gürtel/Ayto. de Jerez
 partido: PP
 completado: false
 año: 2004
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: cerrado con condenas
 descripcion: Pieza de Gürtel sobre tres contratos para promocionar Jerez en Fitur 2004, adjudicados a empresas de
   Correa y encubiertos mediante expedientes antedatados. La casación resuelta en 2022 mantuvo las penas de prisión

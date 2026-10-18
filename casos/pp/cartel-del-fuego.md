@@ -3,6 +3,9 @@ nombre: Cártel del fuego
 partido: PP
 completado: false
 año: 2014
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas recurridas
 descripcion: 'El "cártel del fuego" es la macrocausa sobre la concertación de empresas de navegación aérea dedicadas
   a la extinción de incendios forestales para repartirse concursos públicos y alterar precios, con sobornos a cargos

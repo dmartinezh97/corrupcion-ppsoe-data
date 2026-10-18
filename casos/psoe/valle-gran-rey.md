@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2008
 fechaInicio: "2008-01-14"
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Condena confirmada en 2014; ejecución posterior pendiente de verificar"
 descripcion: |
   Ruymán García Marichal, exalcalde de Valle Gran Rey, fue condenado por prevaricación en concurso medial con malversación continuada por contratar irregularmente a su hermana para una ludoteca que no prestaba servicio durante el período remunerado. La sentencia de la Audiencia Provincial de Santa Cruz de Tenerife, de 7 de diciembre de 2012, fue confirmada por la STS 18/2014, de 23 de enero. Las penas fueron cuatro años, seis meses y un día de prisión, ocho años y un día de inhabilitación absoluta y siete años de inhabilitación especial. La hermana fue absuelta del delito de tráfico de influencias.

@@ -5,6 +5,9 @@ completado: false
 año: 2010
 fechaInicio: "2010-01-15"
 fechaFin: ""
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "sentencia firme"
 descripcion: |
   El "caso Baltar" reúne varias actuaciones judiciales y periodísticas relacionadas con la Diputación de Ourense durante las presidencias de José Luis Baltar Pumar y Manuel Baltar. La causa con resolución firme se centra en la contratación temporal irregular de 104 personas en el primer trimestre de 2010 por el entonces presidente de la Diputación, José Luis Baltar Pumar (en el cargo entre 1990 y el 27 de enero de 2012). La sentencia 273/2014, de 16 de julio de 2014, del Juzgado de lo Penal nº 1 de Ourense (Juicio Oral 478/2013, Diligencias Previas 34/2013) le condenó por un delito continuado de prevaricación (art. 404 CP) a nueve años de inhabilitación especial para empleo o cargo público y al pago de las costas, sin fijar responsabilidad civil. La sentencia declaró probado que firmó ocho decretos entre el 15 de enero y el 17 de marzo de 2010 para formalizar 104 contratos temporales por el procedimiento de urgencia, sin publicidad de las plazas, sin fiscalización previa y sin respetar los principios de mérito y capacidad. La Audiencia no consideró demostrado un perjuicio económico indemnizable: los salarios y cuotas de Seguridad Social eran contraprestación del trabajo efectivamente realizado. La Sección Segunda de la Audiencia Provincial de Ourense desestimó los recursos y confirmó la condena mediante la sentencia 83/2015, de 11 de marzo de 2015 (rollo de apelación 48/2015), que declara la resolución firme y contra la que no cabe recurso. Baltar Pumar había dejado la Presidencia de la Diputación el 27 de enero de 2012.

@@ -3,6 +3,9 @@ nombre: Xinzo de Limia
 partido: PP
 completado: false
 año: 2016
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condena confirmada en apelación
 descripcion: 'Antonio Pérez Rodríguez, alcalde de Xinzo de Limia elegido por el PP, fue condenado por el Juzgado
   de lo Penal número 1 de Ourense a ocho años y seis meses de inhabilitación especial por prevaricación administrativa

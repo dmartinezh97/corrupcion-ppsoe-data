@@ -5,6 +5,9 @@ completado: false
 año: 2015
 fechaInicio: '2015-06-15'
 fechaFin: ''
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sobreseimiento provisional comunicado en mayo de 2018; firmeza posterior no cotejada
 descripcion: 'La investigación sobre la consultora Sirga XXI examinó si Vicente Martínez Pujalte y Ana Torme habían
   cobrado por asesorías no realizadas mientras ejercían funciones parlamentarias. Se inició tras una denuncia de

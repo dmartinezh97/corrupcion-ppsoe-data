@@ -3,6 +3,9 @@ nombre: Caso Paraíso
 partido: PSOE
 completado: false
 año: 2006
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas confirmadas en casación; ejecución individual pendiente de verificar
 descripcion: Procedimiento de San Bartolomé de Tirajana sobre sobornos y alteración de expedientes municipales, distinto de
   EDU/El Paraíso de Huelva. La Audiencia de Las Palmas condenó a siete acusados el 21 de marzo de 2017 y absolvió a Jonás

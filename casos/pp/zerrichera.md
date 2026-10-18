@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2007
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas por falsedad y absoluciones; casación resuelta en 2019
 descripcion: 'La causa examinó la tramitación urbanística y ambiental de La Zerrichera, en Águilas. La Audiencia
   de Murcia condenó a tres antiguos responsables autonómicos en diciembre de 2017 y absolvió a otros dos. El Supremo

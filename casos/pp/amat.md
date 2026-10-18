@@ -3,6 +3,9 @@ nombre: Caso Amat
 partido: PP
 completado: false
 año: 2013
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Archivos por causas; alcance y firmeza pendientes de verificar
 descripcion: 'Esta ficha reúne procedimientos distintos relacionados con Gabriel Amat Ayllón, alcalde de Roquetas
   de Mar y expresidente de la Diputación de Almería: Hispano Almería (Halsa), Palmeras y La Fabriquilla, además

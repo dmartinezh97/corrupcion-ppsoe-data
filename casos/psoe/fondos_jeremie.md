@@ -3,6 +3,9 @@ nombre: Caso Fondos Jeremie
 partido: PSOE
 completado: false
 año: 2015
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Desenlace de las piezas no acreditado
 lugar: Andalucía
 resumen: Investigación de operaciones de financiación empresarial del fondo Jeremie gestionadas a través de Soprea, separada

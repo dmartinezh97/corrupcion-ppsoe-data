@@ -3,6 +3,9 @@ nombre: Caso Puerto Gallego
 partido: PSOE
 completado: false
 año: 2009
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena confirmada en apelación
 lugar: Santoña, Cantabria
 descripcion: 'Procedimiento por el fraccionamiento de contratos y la aprobación de facturas municipales entre 2003

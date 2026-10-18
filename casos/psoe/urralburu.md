@@ -3,6 +3,9 @@ nombre: Caso Urralburu
 partido: PSOE
 completado: false
 año: 1994
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas revisadas en casación
 descripcion: Causa por comisiones ilegales ligadas a adjudicaciones de obras públicas en Navarra durante la presidencia
   socialista de Gabriel Urralburu. La Audiencia de Navarra lo condenó en septiembre de 1998 a once años de prisión

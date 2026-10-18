@@ -3,6 +3,9 @@ nombre: Caso Pasarelas
 partido: PP
 completado: false
 año: 2006
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución confirmada por el Supremo
 descripcion: 'El caso Pasarelas examinó la contratación de trabajos técnicos para acondicionar espacios públicos,
   pasarelas y áreas próximas a la rambla de Nogalte, en Puerto Lumbreras, durante la alcaldía de Pedro Antonio Sánchez.

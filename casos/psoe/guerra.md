@@ -3,6 +3,9 @@ nombre: Caso Guerra
 partido: PSOE
 completado: false
 año: 1989
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas y absoluciones en procedimientos distintos
 descripcion: 'Conjunto de procedimientos relacionados con Juan Guerra, hermano del entonces vicepresidente Alfonso Guerra.
   Las resoluciones consultadas documentan condenas por prevaricación en Fridex y por dos delitos fiscales, así como absoluciones

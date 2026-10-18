@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2014
 fechaInicio: '2014-06-18'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas de primera instancia y rectificación parcial
 descripcion: 'La pieza separada 6 de Púnica examina las prácticas corruptas desarrolladas entre marzo de 2012 y
   octubre de 2014 para adjudicar contratos municipales de eficiencia energética a Cofely. La Audiencia Nacional

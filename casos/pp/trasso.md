@@ -3,6 +3,9 @@ nombre: Operación Trasso
 partido: PP
 completado: false
 año: 2015
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Desenlace judicial no documentado
 descripcion: 'Trasso investigó el presunto uso irregular de personas condenadas a trabajos en beneficio de la comunidad a
   través de la Fundación Vecinal Blasco Ibáñez, con sede en Loriguilla. La prensa informó el 1 de septiembre de 2015 de catorce

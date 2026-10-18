@@ -3,6 +3,9 @@ nombre: Caso Vícar
 partido: PP
 completado: false
 año: 1997
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena por prevaricación confirmada en apelación, según la prensa
 descripcion: 'Antonio Jesús Rodríguez Ruiz, alcalde de Vícar por el PP en 1997, fue condenado por prevaricación
   por impedir una moción de censura mediante la declaración de incompatibilidad de dos concejales de la oposición.

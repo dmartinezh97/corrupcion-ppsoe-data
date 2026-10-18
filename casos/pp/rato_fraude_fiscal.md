@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2015
 fechaInicio: '2015-04-16'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: En casación
+firmeza: No firme
 estado: Condena recurrida
 descripcion: 'La causa sobre el patrimonio de Rodrigo Rato y determinadas comisiones publicitarias de Bankia dio lugar a una
   condena de la Sección Séptima de la Audiencia Provincial de Madrid, comunicada el 20 de diciembre de 2024. Rato fue condenado

@@ -3,6 +3,9 @@ nombre: Caso Someso
 partido: PSOE
 completado: false
 año: 1989
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: En apelación
+firmeza: No firme
 estado: Archivo penal provisional y controversia urbanística
 descripcion: 'Someso o caso Relámpago se refiere a la adquisición municipal de terrenos en A Coruña desde 1989 para
   equipamientos y a su posterior transformación urbanística, con viviendas y un centro comercial. Las reclamaciones

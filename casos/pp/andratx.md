@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2006
 fechaInicio: "2006-07-05"
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: |-
   El caso Andratx u operación Voramar comprende decenas de piezas sobre actuaciones urbanísticas y responsabilidades individuales diferentes. La sentencia de la primera pieza recoge como antecedente una denuncia de la Fiscalía de 5 de julio de 2006; las detenciones del alcalde Eugenio Hidalgo y de otros responsables se produjeron el 27 de noviembre. Esta última fecha no es el inicio de todas las diligencias.

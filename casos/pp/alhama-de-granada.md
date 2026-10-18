@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2014
 fechaInicio: '2014-09-25'
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución de Ubiña; resultado de Ariza no verificado
 descripcion: 'La investigación urbanística conocida en 2016 afectó a Jesús Ubiña Olmos y Pablo Ariza Rojo, entonces responsables
   municipales del PP en Alhama de Granada. La Fiscalía denunció posibles irregularidades en licencias y proyectos vinculados

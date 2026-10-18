@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2010
 fechaFin: ''
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'El ''caso Catis'' (u ''operación Catis'') investigó una presunta trama que, según las pesquisas policiales,
   expedía diplomas y certificados oficiales de formación sanitaria y de riesgos laborales sin impartir formación

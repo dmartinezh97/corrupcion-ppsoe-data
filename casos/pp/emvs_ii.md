@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2013
 fechaFin: ""
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "desconocido"
 descripcion: |
   Respuesta judicial a la venta en bloque de 1.860 viviendas de protección pública (con 1.797 plazas de garaje y 1.569 trasteros, en 18 promociones) de la Empresa Municipal de la Vivienda y Suelo (EMVS) de Madrid a Fidere Vivienda S.L.U. y Fidere Gestión S.L.U., sociedades instrumentales de Magic Real Estate (grupo Blackstone). El anuncio de venta se publicó el 3 de mayo de 2013 y la operación se formalizó el 31 de octubre de 2013, durante el mandato de Ana Botella (PP) como alcaldesa de Madrid.

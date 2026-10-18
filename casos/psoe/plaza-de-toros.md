@@ -3,6 +3,9 @@ nombre: Caso Plaza de Toros de Calasparra
 partido: PSOE
 completado: false
 año: 2017
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: En casación
+firmeza: No firme
 estado: sobreseimiento recurrido
 lugar: Calasparra, Región de Murcia
 resumen: Investigación sobre los festejos taurinos de 2017–2019; archivo de noviembre de 2025 y recurso fiscal ante

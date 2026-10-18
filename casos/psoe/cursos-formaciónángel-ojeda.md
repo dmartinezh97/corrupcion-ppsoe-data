@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2014
 fechaFin: ''
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: 'La ficha se centra en las ayudas a entidades vinculadas al grupo Prescal de Ángel Ojeda Avilés para
   formación y contratación de extrabajadores de Delphi en la Bahía de Cádiz. Ojeda fue consejero de Hacienda de

@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2010
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: 'La pieza se refiere al alquiler municipal de un local en Cas Serres y a su prevista cesión a la Iglesia
   Evangélica Filadelfia. La prensa sitúa pagos desde junio de 2008 y recoge en marzo de 2010 el anuncio del PP de

@@ -3,6 +3,9 @@ nombre: Caso ERE / Nexprom
 partido: PSOE
 completado: false
 año: 2004
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Desenlace penal no acreditado
 lugar: Torremolinos, Málaga, Andalucía
 resumen: Pieza sobre la financiación pública de las prejubilaciones de Nexprom, propietaria de los hoteles Don Pedro

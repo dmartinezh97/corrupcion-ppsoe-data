@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2008
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Macrocausa con condenas y absoluciones; archivo provisional de la pieza principal comunicado por Fiscalía
 descripcion: 'La causa Palma Arena (DP 2677/2008) se fragmentó en 28 piezas, según las memorias de la Fiscalía Anticorrupción.
   Su objeto inicial fueron las irregularidades en la construcción del velódromo; las piezas abarcaron también contratos,

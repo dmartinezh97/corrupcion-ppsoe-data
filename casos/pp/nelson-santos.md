@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2014
 fechaFin: ''
+estadoPrincipal: Absuelto
+recursoPendiente: Sin recurso pendiente
+firmeza: Firme
 estado: absolución confirmada en apelación; firme según prensa
 descripcion: |-
   Esta ficha documenta la causa por contratación municipal en O Porriño contra José Nelson Santos Argibay, conocido como Nelson Santos, y José Manuel Jacobo Vázquez. Se corrige el nombre heredado Santos López: el BOE identifica expresamente al alcalde como José Nelson Santos Argibay. El resultado fue la absolución de ambos por prevaricación administrativa continuada en el Juzgado de lo Penal número 2 de Pontevedra en junio de 2018 y su confirmación por la Sección Cuarta de la Audiencia Provincial, publicada el 2 de mayo de 2019. Europa Press calificó la resolución de firme y Atlántico corroboró al día siguiente que no admitía recurso; falta recuperar el original para cotejar su número, fecha exacta y notificación de firmeza.

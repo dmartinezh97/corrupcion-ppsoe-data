@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2018
 fechaFin: ''
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sobreseimiento provisional por auto de 9 de octubre de 2020; firmeza y recursos no verificados
 descripcion: 'La investigación penal sobre las obras del pabellón Andrés Torrejón de Móstoles se originó en una
   denuncia de UCIN apoyada en una auditoría técnico-económica encargada por el Instituto Municipal del Suelo (IMS).

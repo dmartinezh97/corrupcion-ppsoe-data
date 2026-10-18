@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2007
 fechaInicio: '2007-09-20'
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Exclusiones individuales; desenlace restante no acreditado
 lugar: Sevilla, Andalucía
 resumen: Investigación de una ayuda de 30.000 euros para actividades de formación de un máster, con exclusiones procesales

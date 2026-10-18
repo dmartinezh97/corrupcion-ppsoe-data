@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2009
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: 'El procedimiento Eivissa Crea investigó presuntas irregularidades en la contratación de personas y
   servicios alrededor del programa municipal de emprendimiento y su vivero de empresas. Las noticias identificaron

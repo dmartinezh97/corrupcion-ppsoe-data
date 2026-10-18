@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2008
 fechaInicio: '2008-11-03'
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución
 descripcion: 'Esta pieza de Invercaria examinó la financiación de Operador Aéreo Andalus, una compañía aérea constituida
   en noviembre de 2007. Los hechos probados sitúan el 3 de noviembre de 2008 un préstamo participativo de Invercaria

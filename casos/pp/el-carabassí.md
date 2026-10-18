@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2008
 fechaFin: ''
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: absolución en primera instancia; firmeza no verificada
 descripcion: La causa penal de El Carabassí investigó si responsables de Elche y Santa Pola habían permitido irregularidades
   en chiringuitos y excesos de ruido entre 2008 y 2014. En marzo de 2026 se publicó la absolución de los acusados,

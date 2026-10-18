@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2001
 fechaFin: ''
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: pendiente de juicio
 descripcion: 'La pieza de ayudas sociolaborales a Santana Motor examina 100.660.167,79 euros concedidos entre 2001
   y 2010, principalmente para obligaciones laborales y pólizas de prejubilación. La nota del CGPJ de 29 de junio

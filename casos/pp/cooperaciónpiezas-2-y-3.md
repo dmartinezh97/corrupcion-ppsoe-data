@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2009
 fechaFin: ''
+estadoPrincipal: Condenado
+recursoPendiente: En casación
+firmeza: Sin determinar
 estado: Condenas y recursos sobre responsabilidad civil
 descripcion: 'Las piezas 2 y 3 del caso Cooperación juzgaron las subvenciones de la Generalitat Valenciana a proyectos
   de cooperación de 2009–2011 y la oficina técnica y el proyecto de hospital en Haití. Son distintas de la primera

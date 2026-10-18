@@ -2,6 +2,9 @@
 nombre: ERE / Matadero de Fuente Obejuna
 partido: PSOE
 completado: false
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Juicio suspendido en abril de 2026
 lugar: Fuente Obejuna, Córdoba, Andalucía
 resumen: Pieza sobre ayudas para pólizas de extrabajadores del matadero y la presunta inclusión de beneficiarios ajenos

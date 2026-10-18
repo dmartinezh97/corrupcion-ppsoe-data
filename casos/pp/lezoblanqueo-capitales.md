@@ -5,6 +5,9 @@ completado: false
 año: 2017
 fechaInicio: '2017-05-11'
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'La pieza separada nº 5 de Lezo investiga la posible ocultación y posterior afloramiento de fondos
   de procedencia ilícita. Se formó por auto de 11 de mayo de 2017 dentro de las diligencias previas 91/2016 del

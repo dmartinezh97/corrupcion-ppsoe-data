@@ -5,6 +5,9 @@ completado: false
 año: 2013
 fechaInicio: '2013-01-31'
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas en casación y archivo provisional de otra pieza
 descripcion: 'Los papeles de Bárcenas, publicados en enero de 2013, dieron lugar a investigaciones sobre la contabilidad
   paralela del PP. Esta ficha distingue el proceso por el pago opaco de parte de la reforma de la sede de Génova

@@ -3,6 +3,9 @@ nombre: Caso Rototom
 partido: PP
 completado: false
 año: 2015
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Investigación documentada en 2016; desenlace no verificado
 descripcion: 'El asunto se refiere a la gestión del aparcamiento y terrenos vinculados al festival Rototom Sunsplash
   de Benicàssim en las ediciones de 2015 y 2016. Europa Press informó en noviembre de 2016, citando al TSJ valenciano,

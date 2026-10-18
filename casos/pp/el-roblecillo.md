@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2013
 fechaFin: ''
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sobreseimiento provisional y archivo de pieza derivada
 resumen: 'Investigación de la tramitación urbanística de El Roblecillo: sobreseimiento provisional en 2017. La pieza
   derivada sobre informes jurídicos fue presentada como archivada en una comunicación de 2019; faltan sus autos

@@ -3,6 +3,9 @@ nombre: Caso Nerer
 partido: PP
 completado: false
 año: 2015
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: procedimiento abreviado
 resumen: Investigación de dos permutas municipales en Ciutadella, con acusaciones, archivos parciales y continuación
   del procedimiento abreviado publicada en 2025.

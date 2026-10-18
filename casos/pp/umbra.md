@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2010
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'Umbra reúne varias investigaciones sobre convenios urbanísticos y actuaciones de la antigua Gerencia
   de Urbanismo de Murcia. La operación policial se hizo pública en octubre de 2010, aunque las diligencias judiciales

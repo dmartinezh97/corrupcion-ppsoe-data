@@ -3,6 +3,9 @@ nombre: Caso Ana Gago
 partido: PP
 completado: false
 año: 2015
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena comunicada en 2019; firmeza pendiente de verificar
 descripcion: La alcaldesa del PP de Gatón de Campos, Ana María Gago, fue juzgada en mayo de 2019 por permitir inscripciones
   de personas que no residían habitualmente en el municipio antes de las elecciones de 2015. Europa Press informó

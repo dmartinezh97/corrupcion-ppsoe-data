@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2009
 fechaFin: ""
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "activo"
 descripcion: |
   El "caso Bárcenas" reúne las investigaciones sobre la contabilidad paralela ("caja B") del Partido Popular y sobre el patrimonio oculto de Luis Bárcenas, gerente del partido entre 1990 y 2008 y tesorero desde junio de 2008 hasta abril de 2010, además de senador por Cantabria entre 2004 y 2010. Según las resoluciones judiciales, durante casi dos décadas Bárcenas gestionó donaciones privadas en metálico que no se reflejaron en la contabilidad oficial del partido ni fueron fiscalizadas por el Tribunal de Cuentas y que se destinaron a gastos de la formación —entre ellos parte de la reforma de su sede en la calle Génova de Madrid— y al pago de sobresueldos a dirigentes, con el dinero guardado en una caja fuerte situada en su despacho.

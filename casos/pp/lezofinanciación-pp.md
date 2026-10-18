@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2017
 fechaInicio: '2017-05-11'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Remitida a Púnica; archivos y juicio oral
 descripcion: 'Esta ficha se refiere a la antigua pieza 4 de Lezo sobre la posible financiación de la campaña autonómica del
   PP de Madrid de 2011. No siguió como una investigación independiente: por auto de 2 enero 2018 se remitió a la pieza 9 de

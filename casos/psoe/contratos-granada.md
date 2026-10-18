@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2010
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: resultados diversos
 descripcion: 'El asunto se refiere a contratos de la Junta de Andalucía para el seguimiento, control e inspección
   de cursos de Formación Ocupacional en Economía Social de 2010 a 2012. No es una causa genérica sobre contratos

@@ -3,6 +3,9 @@ nombre: Terra Natura Benidorm
 partido: PP
 completado: false
 año: 2011
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Controversia económica; vía judicial no acreditada
 descripcion: 'La controversia se refiere al pago en entradas de obligaciones de Terra Natura con la Sociedad Proyectos Temáticos
   de la Comunidad Valenciana (SPTCV) por terrenos públicos en Benidorm. En septiembre de 2011, Eva Martínez, portavoz socialista

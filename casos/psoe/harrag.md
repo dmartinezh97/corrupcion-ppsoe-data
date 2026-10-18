@@ -3,6 +3,9 @@ nombre: Caso Harrag
 partido: PSOE
 completado: false
 año: 2010
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: |-
   Operación de la Guardia Civil conocida públicamente en 2010 por la falsificación de documentación para regularizar a extranjeros. Diario de Navarra informó el 10 de mayo de 2010 de 23 detenidos durante febrero en Navarra, Murcia, La Rioja y Cáceres. No se ha acreditado el día de inicio de la investigación ni un estado judicial único y actualizado para todos los afectados.

@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2000
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: activo
 descripcion: |-
   Macrocausa sobre ayudas sociolaborales y a empresas en crisis de la Junta de Andalucía, tramitadas principalmente entre 2000 y 2009 mediante transferencias al IFA, después agencia IDEA. La investigación dio lugar a una pieza sobre el procedimiento de concesión y a numerosas piezas por ayudas concretas. La sentencia 490/2019 de la Audiencia de Sevilla consideró que se había establecido un sistema que eludía los controles propios de las subvenciones. Esa valoración penal fue revisada en casación y, para determinados condenados y conductas, anulada por el Tribunal Constitucional. No se presenta como delito todo acto presupuestario ni toda ayuda pagada.

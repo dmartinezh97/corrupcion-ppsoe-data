@@ -3,6 +3,9 @@ nombre: 'Jadraque: suministro municipal de gasóleo'
 partido: PP
 completado: false
 año: 2014
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento
 descripcion: Una denuncia de un vecino originó la investigación del entonces alcalde de Jadraque, Alberto Domínguez
   Luis (PP), y familiares por el suministro municipal de gasóleo a través de una empresa de su familia. El alcalde

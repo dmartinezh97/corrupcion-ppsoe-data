@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2014
 fechaFin: ''
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas comunicadas
 descripcion: 'Valley investigó la emisión de facturas falsas desde una asesoría y presuntas irregularidades en la
   contratación municipal de Villanueva del Río Segura. La causa afecta al exalcalde del PP José Luis López Ayala

@@ -3,6 +3,9 @@ nombre: Cursos de formación — José María Pérez González
 partido: PSOE
 completado: false
 año: 2016
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Procedimiento abreviado conocido en 2023
 lugar: Andalucía; instrucción en Sevilla
 descripcion: 'La pieza relativa a José María Pérez González, empresario vinculado a entidades de formación del sector

@@ -5,6 +5,9 @@ completado: false
 año: 2013
 fechaInicio: '2013-07-01'
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: |-
   La Operación Madeja, ampliada en la fase Enredadera, investigó pagos de la empresa sevillana Fitonovo a responsables de distintas administraciones para favorecer adjudicaciones o la ejecución de contratos. Las sentencias describen una caja B alimentada con facturas falsas y prácticas desarrolladas entre 1995 y 2013. La causa se dividió en varias piezas, con condenas y absoluciones que deben distinguirse por persona y procedimiento.

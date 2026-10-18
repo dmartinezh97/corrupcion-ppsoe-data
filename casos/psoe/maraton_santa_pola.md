@@ -3,6 +3,9 @@ nombre: Caso Media Maratón de Santa Pola
 partido: PSOE
 completado: false
 año: 2018
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: archivado
 descripcion: Investigación sobre la organización privada de la Media Maratón de Santa Pola de 2018, denunciada por
   el PP. Yolanda Seva, entonces alcaldesa, María Dolores Tomás, concejala de Deportes, ambas del PSPV-PSOE, y el

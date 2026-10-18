@@ -3,6 +3,9 @@ nombre: "Caso Depuradora Pinedo (Emarsa)"
 partido: PP
 completado: false
 año: 2011
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Condenas de Emarsa confirmadas parcialmente en casación; revisión de piezas y ejecución incompleta"
 descripcion: |
   Esta denominación se refiere al mismo caso recogido en la ficha Emarsa: la empresa pública que gestionaba la depuradora de Pinedo y el sistema fraudulento de facturación que desvió fondos públicos. No se identifica aquí una causa independiente ni un perjuicio adicional. La Audiencia Provincial de Valencia dictó sentencia en la pieza principal el 19 de junio de 2018; la comunicación judicial del día 22 informó de condenas a los 24 acusados y de un desvío de 23,5 millones de euros.

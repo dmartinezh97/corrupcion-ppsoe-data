@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2011
 fechaFin: ""
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "sentencia firme"
 descripcion: |
   Emarsa (Empresa Metropolitana de Aguas Residuales de Valencia, S.A.) fue una sociedad pública participada por el Ayuntamiento de Valencia y municipios de su área metropolitana que gestionaba la depuradora de Pinedo. La sentencia de la Audiencia Provincial de Valencia nº 349/2018, de 19 de junio (rollo de sala 2/2015), declaró probado que entre 2004 y 2010 sus responsables articularon un sistema de facturación fraudulenta —servicios no prestados o sobrevalorados y un incremento injustificado del precio que la entidad pública EPSAR pagaba a Emarsa por la gestión de lodos y desbaste— que desvió 23,5 millones de euros de fondos públicos. La sentencia condenó a las 24 personas acusadas en la pieza principal, con penas de entre 9 meses y 12 años y seis meses de prisión, y fijó indemnizaciones conjuntas y solidarias de hasta 23.501.620,35 euros para los principales responsables. La sentencia del Tribunal Supremo nº 482/2020, de 30 de septiembre (ROJ STS 3893/2020, ECLI:ES:TS:2020:3893; recurso 3391/2018), confirmó el grueso de las condenas —Esteban Cuesta 12 años y 6 meses, Enrique Crespo 10 años y José Juan Morenilla 9 años— y estimó parcialmente los recursos de cinco condenados, rebajando la pena a cuatro de ellos (el informático Sebastián García «Chanín», Eva Marsal, Adolfo Polo y Mari Paz García, a quien además cambió la calificación de cooperadora necesaria por la de cómplice de malversación).

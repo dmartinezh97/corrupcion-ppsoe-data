@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2022
 fechaFin: ''
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'La ficha reúne tres ámbitos distintos: las adjudicaciones del Ayuntamiento de Marbella a Codecosol
   y otras sociedades de Nils Anders Fischer; el litigio sobre el acceso de la oposición a esos expedientes; y la

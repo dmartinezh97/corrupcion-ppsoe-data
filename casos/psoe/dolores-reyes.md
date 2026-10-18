@@ -3,6 +3,9 @@ nombre: "Dolores Reyes"
 partido: PSOE
 completado: false
 año: 2000
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Condena y absolución publicadas en enero de 2013; firmeza y ejecución no verificadas"
 descripcion: |
   La Audiencia Provincial de Cádiz condenó a la exalcaldesa socialista de Chipiona Dolores Reyes Ramos por un delito continuado de prevaricación en la contratación de personal laboral eventual. Diario de Cádiz publicó el 29 de enero de 2013 una pena de siete años de inhabilitación especial para cualquier cargo de naturaleza electiva de ámbito local, por hasta 345 contrataciones realizadas entre octubre de 2000 y octubre de 2004. La información de Europa Press reproducida por Iustel coincide en la pena y el número de contratos.

@@ -4,6 +4,9 @@ partido: "PP"
 completado: false
 año: 1992
 fechaInicio: "1992-12-22"
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "cerrado con condenas"
 descripcion: |
   Procedimiento por la privatización parcial de la funeraria municipal de Madrid, cuyo 49% se adjudicó a Funespaña en diciembre de 1992 por un precio nominal de 100 pesetas. La operación incluía otras obligaciones y una posterior condonación de deuda municipal: ese precio no representa por sí solo el importe invertido ni el daño económico del caso.

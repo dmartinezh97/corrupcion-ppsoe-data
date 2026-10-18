@@ -3,6 +3,9 @@ nombre: Caso Móviles Benigànim
 partido: PP
 completado: false
 año: 2013
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento
 resumen: Investigación sobre facturas de móviles municipales; archivo publicado en 2023 para el exalcalde y dos
   exconcejales.

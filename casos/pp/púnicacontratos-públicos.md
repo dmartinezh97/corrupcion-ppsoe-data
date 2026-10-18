@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2014
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: resoluciones diversas
 descripcion: Esta ficha reúne las piezas 5 (contratación municipal), 6 (Cofely, eficiencia energética) y 7 (Waiter
   Music, festejos) de Púnica, con resultados distintos por persona. En Cofely, la sentencia de 19 de diciembre de

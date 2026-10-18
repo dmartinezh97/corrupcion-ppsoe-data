@@ -3,6 +3,9 @@ nombre: Caso Polideportivo Ibi
 partido: PP
 completado: false
 año: 2009
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sarabia absuelta; acuerdo del exgerente sin sentencia verificada
 descripcion: 'El asunto reúne dos procedimientos diferentes relacionados con el polideportivo municipal de Ibi. Ana Sarabia,
   exconcejala de Deportes y Servicios Públicos del PP, fue juzgada por actividades organizadas en 2005 y 2006. La Sección

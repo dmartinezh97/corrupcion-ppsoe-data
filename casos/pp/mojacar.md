@@ -3,6 +3,9 @@ nombre: Caso Mojácar
 partido: PP
 completado: false
 año: 2007
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Fiscalización y litigios distintos; desenlaces incompletos
 descripcion: 'Esta ficha reúne asuntos municipales diferentes, no una única causa penal acreditada. La fiscalización
   de la Cámara de Cuentas sobre el ejercicio 2007 fue aprobada el 17 de febrero de 2010 y publicada el 17 de junio

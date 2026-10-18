@@ -5,6 +5,9 @@ completado: false
 año: 2012
 fechaInicio: '2012-12-17'
 fechaFin: ''
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena publicada en 2018; firmeza no verificada
 resumen: Condena por autorizar extracción de zahorra de Los Bonales sin el procedimiento exigido; firmeza pendiente
   de comprobar.

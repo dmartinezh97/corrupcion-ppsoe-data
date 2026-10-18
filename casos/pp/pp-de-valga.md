@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2016
 fechaFin: ''
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: archivo penal referido en fuentes oficiales; seguimiento contable pendiente de verificar
 descripcion: La investigación sobre las asistencias a comisiones de coordinación del gobierno de Valga dio lugar
   a las diligencias 322/2016, cuyo archivo penal recoge el informe del Consello de Contas de Galicia aprobado en

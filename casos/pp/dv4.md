@@ -5,6 +5,9 @@ completado: false
 año: 2015
 fechaInicio: "2015-04-16"
 fechaFin: ""
+estadoPrincipal: Resultados mixtos
+recursoPendiente: En casación
+firmeza: No firme
 estado: "desconocido"
 descripcion: |
   Esta ficha describe el procedimiento penal por el origen de la fortuna de Rodrigo Rato Figaredo, exvicepresidente del Gobierno y exministro de Economía y Hacienda (PP, 1996-2004), exdirector gerente del Fondo Monetario Internacional (2004-2007) y expresidente de Caja Madrid y Bankia, seguido como diligencias previas 2310/2015 del Juzgado de Instrucción nº 31 de Madrid. Los vehículos societarios documentados en la causa son, entre otros, Kradonara, Arada, Red Rose Financial Enterprise, Westcastle, Vivaway y Cor Comunicación, además del uso de cuentas en el extranjero.

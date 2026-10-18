@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2017
 fechaFin: ''
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: Investigación de presuntos viajes pagados por Aquagest, hoy Hidrogea, a responsables municipales del
   PP y de su posible relación con decisiones sobre el servicio de agua de Cartagena. Las citaciones de 2018 quedaron

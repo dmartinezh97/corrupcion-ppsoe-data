@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2018
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'El caso TG7 se refiere a la contratación de servicios extraordinarios de la televisión municipal de
   Granada. Juan Antonio Fuentes Gálvez, concejal del PP responsable del servicio, suscribió el 1 de julio de 2015

@@ -3,6 +3,9 @@ nombre: "Caso Gürtel - Pieza Arganda"
 partido: PP
 completado: false
 año: 1998
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "desconocido"
 descripcion: |
   Pieza de Gürtel sobre contratación del Ayuntamiento de Arganda del Rey y su Sociedad de Fomento, con hechos situados desde al menos 1998 hasta 2009. Incluye contratos con empresas de Francisco Correa y con Teconsa, Constructora Hispánica y Martinsa; entre ellos, la adjudicación de las parcelas UE-124. La sentencia describe comisiones de 25 millones de euros vinculadas a esta operación, una cifra que no equivale al perjuicio público total ni al importe de las indemnizaciones.

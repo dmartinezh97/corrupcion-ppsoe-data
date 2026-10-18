@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2008
 fechaInicio: '2008-11-18'
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: 'La operación Biblioteca investigó presuntas irregularidades en contratos municipales y urbanismo en
   Librilla (Murcia), gobernada por el PP. La Guardia Civil practicó detenciones y registros el 18 de noviembre de

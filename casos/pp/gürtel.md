@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2009
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: macrocausa con condenas y piezas de evolución diferenciada
 descripcion: 'Gürtel agrupa procedimientos sobre la red de Francisco Correa y la manipulación de contratación pública
   mediante relaciones con cargos del PP. Esta ficha ofrece una visión general limitada: no representa una única

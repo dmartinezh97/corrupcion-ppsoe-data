@@ -3,6 +3,9 @@ nombre: "Caso Imarol"
 partido: "PP"
 completado: false
 año: 2014
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Condenas confirmadas en apelación; firmeza expresamente citada en la sentencia de Erial de 2024"
 descripcion: |
   José Luis Olivas, expresidente de la Generalitat Valenciana y de Bancaja, y el empresario Vicente Cotino fueron condenados por falsedad en documento mercantil y delito contra la Hacienda Pública en relación con una factura de Imarol a Sedesa Inversiones por 500.000 euros más 80.000 euros de IVA. La factura aparentaba retribuir servicios empresariales que no se habían prestado y se dedujo como gasto en el Impuesto de Sociedades de 2008 del Grupo Fiscal Asedes Capital. El perjuicio tributario recogido por la información judicial fue de 150.000 euros.

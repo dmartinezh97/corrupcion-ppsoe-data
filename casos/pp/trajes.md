@@ -3,6 +3,9 @@ nombre: Caso Trajes
 partido: PP
 completado: false
 año: 2009
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absoluciones y condenas
 descripcion: 'Pieza de Gürtel sobre la aceptación de prendas de vestir por cargos públicos valencianos, acusados
   de cohecho pasivo impropio. Francisco Camps y Ricardo Costa fueron declarados no culpables por el jurado el 25

@@ -3,6 +3,9 @@ nombre: Ponteceso
 partido: PP
 completado: false
 año: 2017
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condena confirmada en apelación
 descripcion: 'José Luis Fondo Aguiar, alcalde de Ponteceso por el PP entre 1993 y 2015, fue condenado por prevaricación
   administrativa continuada a ocho años, seis meses y un día de inhabilitación especial para empleo o cargo público,

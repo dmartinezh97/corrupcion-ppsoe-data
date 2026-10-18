@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2010
 fechaInicio: "2010-08-03"
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Archivo de diligencias de Fiscalía informado en 2011; evolución judicial posterior pendiente"
 descripcion: |
   El llamado Bragasgate o caso Facturas se refiere a la justificación de las asignaciones del grupo municipal del PP en Santa Cruz de Tenerife durante 2003-2007. En el verano de 2010 se difundió un informe de la Intervención municipal que cuestionaba facturas personales y deficiencias formales. El colectivo de juristas Justicia y Sociedad denunció los hechos ante Anticorrupción. No se presenta la denuncia como una declaración judicial de culpabilidad.

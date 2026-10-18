@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2015
 fechaInicio: '2015-05-22'
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Firme
 estado: cerrado con condenas
 descripcion: Pedro González Magaña, exalcalde del PP de Iznatoraf, aceptó el 30 de mayo de 2018 una condena de siete
   años de inhabilitación especial por prevaricación administrativa por condonar sin el procedimiento exigible la

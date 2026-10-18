@@ -3,6 +3,9 @@ nombre: Caso Umax
 partido: PSOE
 completado: false
 año: 2011
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas y absoluciones
 lugar: Andalucía
 descripcion: 'Contratación de personal mediante Umax y otras sociedades para trabajar en la Consejería de Empleo

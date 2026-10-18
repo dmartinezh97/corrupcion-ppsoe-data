@@ -3,6 +3,9 @@ nombre: 'Caso Mercasevilla: guardería'
 partido: PSOE
 completado: false
 año: 2004
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condena de conformidad; pagos parciales documentados en cuentas de 2025
 descripcion: Pieza sobre la adjudicación de la gestión de la guardería de Mercasevilla y la compensación pagada
   a Gestión Mohefa, distinta del cohecho de la escuela de hostelería, la beca de estudios, los suelos y los ERE.

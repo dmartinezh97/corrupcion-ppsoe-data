@@ -3,6 +3,9 @@ nombre: ERE/Heineken España
 partido: PSOE
 completado: false
 año: 2017
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sobreseimiento provisional
 descripcion: 'La pieza separada de los ERE por las ayudas a Heineken España examinó 16.484.159,60 euros concedidos
   por la Junta de Andalucía entre 2004 y 2008. Figuraban como investigados el presidente y el responsable de Recursos

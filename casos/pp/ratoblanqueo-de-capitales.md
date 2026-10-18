@@ -5,6 +5,9 @@ completado: false
 año: 2015
 fechaInicio: '2015-04-16'
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: En casación
+firmeza: No firme
 estado: activo
 descripcion: 'La causa sobre el patrimonio de Rodrigo Rato, distinta de las tarjetas black y de la salida a bolsa de Bankia, desembocó en una condena de la Audiencia Provincial de Madrid difundida el 20 de diciembre de 2024: cuatro años, nueve meses y un día de prisión por tres delitos fiscales, blanqueo de capitales y corrupción entre particulares. La Audiencia también dictó absoluciones, incluidas las correspondientes a ocho de los once ejercicios fiscales imputados a Rato.
 

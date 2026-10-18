@@ -5,6 +5,9 @@ completado: false
 año: 2011
 fechaInicio: '2011-12-16'
 fechaFin: '2025-02-06'
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absoluciones en apelación y casación; condenas penales iniciales revocadas
 descripcion: 'Esta pieza de la operación Patos examinó la contratación y financiación de obras en el campo de fútbol
   O Buelo de Moraña, realizadas por Construcciones Eiriña. El Juzgado de lo Penal n.º 3 de Pontevedra condenó en

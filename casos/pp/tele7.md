@@ -3,6 +3,9 @@ nombre: Tele7
 partido: PP
 completado: false
 año: 2012
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: absuelto
 descripcion: 'El caso Tele7 se refiere a los servicios audiovisuales contratados por la empresa municipal Iniciatives
   Públiques de Gandia (IPG) con Comarques Centrals Televisió e Inversiones Especiales del Mediterráneo (Tele7) y

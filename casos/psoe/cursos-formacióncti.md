@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2016
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: 'Esta pieza se refiere a la concesión, gestión y justificación de subvenciones del Servicio Andaluz
   de Empleo al Consorcio Centro de Formación en Técnicas Industriales (CTI) de San Fernando y a su ejecución a través

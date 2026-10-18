@@ -5,6 +5,9 @@ completado: false
 año: 2017
 fechaInicio: '2017-03-15'
 fechaFin: ''
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento provisional respecto de Nozal; alcance pendiente de cotejo
 descripcion: |-
   Esta ficha se limita al procedimiento conocido como caso Mijas por el presunto ofrecimiento de un empleo al concejal Francisco Martínez Ávila, de Costa del Sol Sí Puede (CSSP), a cambio de apoyar una moción de censura contra el alcalde Juan Carlos Maldonado. La denuncia pública se conoció el 15 de marzo de 2017 y afectaba al portavoz del PP y exalcalde Ángel Nozal y al entonces concejal del PP Santiago Martín. No se presentan esos ofrecimientos como hechos judicialmente probados: ambos negaron haber comprado el apoyo del edil.

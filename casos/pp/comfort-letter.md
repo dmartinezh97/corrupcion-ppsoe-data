@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2016
 fechaInicio: "2008-07-28"
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Firme
 estado: "Absolución confirmada en apelación; firmeza informada en diciembre de 2018, documentación posterior pendiente"
 descripcion: |
   El procedimiento se refería a tres cartas de conformidad firmadas por el entonces alcalde de Valladolid, Francisco Javier León de la Riva, en relación con la financiación de la Sociedad Valladolid Alta Velocidad. La Audiencia Provincial de Valladolid absolvió el 30 de julio de 2018 al exalcalde de falsedad documental y prevaricación, y a los exconcejales Manuel Sánchez y Alfredo Blanco de prevaricación. La resolución distingue la falta de dolo acreditado de la posible falsedad imprudente, que consideró prescrita; no es un sobreseimiento.

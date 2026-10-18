@@ -3,6 +3,9 @@ nombre: Caso Sanlúcar
 partido: PSOE
 completado: false
 año: 1999
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: cerrado con condenas
 lugar: Sanlúcar de Barrameda y Chipiona, Cádiz
 descripcion: 'Procedimiento por el soborno a Manuel Ramírez, concejal del PP, para que no apoyara la moción de censura

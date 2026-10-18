@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2008
 fechaFin: ''
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: absolución en apelación; firmeza no verificada
 descripcion: 'Esta ficha se limita a la causa por la permuta de terrenos entre el Ayuntamiento de Torre Pacheco
   (Murcia) y Mar Menor Golf Resort, sociedad de Polaris World. El resultado conocido es la absolución de Daniel

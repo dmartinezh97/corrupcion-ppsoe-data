@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2003
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: resultados diversos
 descripcion: 'La Fundación Andaluza Fondo de Formación y Empleo (FAFFE), integrada en el Servicio Andaluz de Empleo
   en 2011, aparece en procedimientos distintos sobre tarjetas, contratación de personal, proveedores y subvenciones.

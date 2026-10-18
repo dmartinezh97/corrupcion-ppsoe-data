@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2016
 fechaInicio: '2016-01-18'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Procesamiento documentado; fase posterior pendiente de verificar
 descripcion: 'El caso Acuamed u Operación Frontino investiga la adjudicación y ejecución presuntamente irregular
   de obras de la sociedad estatal Aguas de las Cuencas Mediterráneas. La nota oficial del CGPJ de 25 de abril de

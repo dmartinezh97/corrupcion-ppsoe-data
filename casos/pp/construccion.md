@@ -3,6 +3,9 @@ nombre: Caso de la Construcción de Burgos
 partido: PP
 completado: false
 año: 1988
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas con revisiones posteriores
 resumen: 'Irregularidades en licencias urbanísticas de Burgos: condenas al alcalde José María Peña, al constructor Méndez
   Pozo y otros responsables, con revisión e indulto parcial posteriores.'

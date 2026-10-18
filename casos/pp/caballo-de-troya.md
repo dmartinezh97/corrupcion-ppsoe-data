@@ -3,6 +3,9 @@ nombre: Caballo de Troya
 partido: PP
 completado: false
 año: 2013
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: |-
   Caballo de Troya investigó operaciones empresariales presuntamente dirigidas a ocultar activos y perjudicar a acreedores mediante ventas de sociedades en dificultades y deudas ficticias. La investigación se originó en febrero de 2012, según Europa Press, tras la venta del Gran Hotel de Santiago a Ángel de Cabo; el operativo de detenciones y registros comenzó el 4 de febrero de 2013. El balance policial posterior, publicado por El País, fue de quince detenidos, diecisiete registros, 440.000 euros intervenidos y más de cuatrocientos inmuebles y ochenta vehículos bloqueados. Esas medidas no equivalen a daño declarado ni a condenas.

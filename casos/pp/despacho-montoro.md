@@ -3,6 +3,9 @@ nombre: Caso Despacho Montoro
 partido: PP
 completado: false
 año: 2012
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento
 resumen: Contratación de Equipo Económico por el Consejo Superior de Cámaras en 2012; sobreseimiento provisional
   confirmado en 2019.

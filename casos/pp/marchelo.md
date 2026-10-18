@@ -3,6 +3,9 @@ nombre: "Caso Marchelo"
 partido: "PP"
 completado: false
 año: 2006
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Condenas de conformidad en dos piezas en 2025; juicio de la gasolinera pendiente de concluir al corte"
 descripcion: |
   El caso Marchelo investiga operaciones urbanísticas en Alhendín (Granada), durante la etapa del PP en el Ayuntamiento. La causa se dividió en tres piezas: el polígono Marchalhendín, la promoción Novosur y una gasolinera. La sentencia de la Sección Primera de la Audiencia Provincial de Granada del 23 de mayo de 2025 resolvió por conformidad las dos primeras, según la información de Europa Press y de medios que consultaron el fallo.

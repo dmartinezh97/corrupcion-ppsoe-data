@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2013
 fechaInicio: '2013-09-12'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absoluciones en la pieza principal; procedimientos derivados
 descripcion: 'El caso Cursach reúne investigaciones distintas surgidas de pesquisas sobre la Policía Local de Palma. La pieza
   principal contra el empresario Bartolomé Cursach y otros acusados terminó sin condenados: el CGPJ comunicó el 22 de diciembre

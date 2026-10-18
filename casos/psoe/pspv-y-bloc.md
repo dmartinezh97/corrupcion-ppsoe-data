@@ -3,6 +3,9 @@ nombre: PSPV y Bloc
 partido: PSOE
 completado: false
 año: 2016
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Archivos en las piezas derivadas; recursos y responsabilidad contable pendientes de verificar
 descripcion: Investigación sobre posibles pagos de campañas electorales del PSPV y Bloc a través de Crespo Gomar, de la que
   derivaron procedimientos sobre contratos o subvenciones en Madrid, Gandia y Benidorm. Las fuentes de 2018-2019 documentan

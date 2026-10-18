@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2015
 fechaFin: ""
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "resultados diversos"
 descripcion: |
   Esta ficha reúne asuntos distintos de Villaviciosa de Odón: la contratación de los festejos taurinos de septiembre de 2015, el procedimiento por bodas civiles en una finca de Pescaderías Coruñesas y las denuncias urbanísticas anunciadas por Pilar Martínez en 2020. No constituyen una única causa con un desenlace común.

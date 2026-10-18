@@ -3,6 +3,9 @@ nombre: Caso Halsa
 partido: PP
 completado: false
 año: 2013
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: En apelación
+firmeza: No firme
 estado: sobreseimiento provisional
 descripcion: 'El caso Halsa o Hispano Almería, también denominado Operación Terminus, investigó presuntos pagos
   vinculados a adjudicaciones de obras y a la financiación del PP almeriense. La denuncia de 2013 se apoyó en documentos

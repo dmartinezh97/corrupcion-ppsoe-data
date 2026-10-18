@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2016
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: 'El caso Zahorras se refiere a presuntas irregularidades en la contratación, ejecución y certificación
   de obras de caminos rurales del programa Habitania de 2012 en Villarrobledo. Las informaciones municipales señalan

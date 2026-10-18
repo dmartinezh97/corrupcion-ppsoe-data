@@ -5,6 +5,9 @@ completado: false
 año: 2008
 fechaInicio: "2008-04-03"
 fechaFin: ""
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "sentencia firme"
 descripcion: |
   El caso Camelot es la denominación de la operación judicial abierta en 2008 en torno a la corrupción urbanística en los municipios murcianos de Torre Pacheco y Fuente Álamo, gobernados por el PP. La investigación principal correspondió al Juzgado de Instrucción nº 4 de San Javier; las piezas de adjudicaciones tuvieron otros juzgados instructores. Las diligencias tenían antecedentes en 2007, por lo que la fecha de inicio consignada identifica la detención pública de 2008, no el comienzo de toda investigación. El detonante público fue la detención, el 3 de abril de 2008, del entonces alcalde de Torre Pacheco, Daniel García Madrid (PP, 2003-2014), por agentes de la Guardia Civil. En la misma causa fue investigado el arquitecto técnico municipal Ramón Ángel Cabrera Sánchez, enviado a prisión provisional el 1 de abril de 2008.

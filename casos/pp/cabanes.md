@@ -3,6 +3,9 @@ nombre: Cabanes
 partido: PP
 completado: false
 fechaFin: ''
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución en 2025; firmeza posterior no documentada
 descripcion: 'La Audiencia Provincial de Castellón absolvió a tres exalcaldes del PP de Cabanes —Artemio Siurana,
   Francisco Vicente Artola y Estrella Borrás— y a los arquitectos Rubén Bellido y Juan Antonio Juncos en la causa

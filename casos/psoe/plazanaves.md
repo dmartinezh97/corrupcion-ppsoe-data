@@ -3,6 +3,9 @@ nombre: 'Plaza/Naves: pieza Codesport'
 partido: PSOE
 completado: false
 año: 2013
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: absolución
 lugar: Zaragoza, Aragón
 descripcion: Pieza sobre pagos a Codesport por obras en 119 naves de la Plataforma Logística de Zaragoza, distinta

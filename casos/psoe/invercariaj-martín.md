@@ -1,4 +1,7 @@
 ---
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 "nombre": "Invercaria/J. Martín"
 "partido": "PSOE"
 "completado": false

@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2006
 fechaInicio: "2006-06-29"
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "absuelto"
 descripcion: |
   Pieza de Invercaria relativa a la financiación de Ferias Virtuales de Andalucía (FIVA), una plataforma tecnológica impulsada con participación de la sociedad pública de capital riesgo de la Junta de Andalucía y socios privados. La sentencia 103/2023, de 7 de marzo, de la Sección Cuarta de la Audiencia de Sevilla absolvió a los doce acusados de prevaricación y malversación; no se trató de un sobreseimiento.

@@ -5,6 +5,9 @@ completado: false
 año: 2011
 fechaInicio: '2010-07-21'
 fechaFin: ''
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución mantenida por el Tribunal Constitucional
 descripcion: 'María Casado Nieto, conocida como Marisol, fue alcaldesa de Alpedrete por el PP entre 2003 y 2015.
   El procedimiento penal se refirió al Decreto 355/2010, que firmó el 21 de julio de 2010 para contratar a dos oficiales

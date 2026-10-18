@@ -3,6 +3,9 @@ nombre: Caso Lan Party
 partido: PSOE
 completado: false
 año: 2010
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Acusación fiscal documentada; desenlace no acreditado
 descripcion: 'Investigación sobre la justificación de una subvención de 3.500 euros de la FEMP para la Lan Party
   Chipiona 2010, un encuentro informático que, según las pesquisas, no se celebró. En octubre de 2016 se conocieron

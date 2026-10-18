@@ -3,6 +3,9 @@ nombre: Caso Góndola
 partido: PP
 completado: false
 año: 2006
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento
 descripcion: Investigación abierta en 2006 sobre actuaciones del gobierno municipal del PP en Mogán, dividida en
   distintas piezas urbanísticas, económicas y electorales. La pieza de Grupo Europa fue sobreseída provisionalmente

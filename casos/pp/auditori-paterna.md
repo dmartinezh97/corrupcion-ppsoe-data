@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2013
 fechaInicio: '2013-06-07'
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena confirmada en apelación
 descripcion: 'El caso se refiere a la contratación del proyecto del centro musical Auditori Antonio Cabeza de Paterna,
   no al Auditorio de Puerto Lumbreras. Según las crónicas de la sentencia, la empresa municipal SUMPA convocó en

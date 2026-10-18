@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2010
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas y absoluciones resueltas por el Supremo en 2018; ejecución individual posterior
 descripcion: 'El caso Nóos, pieza separada del caso Palma Arena, investigó la contratación pública con la Asociación
   Instituto Nóos, vinculada a Iñaki Urdangarin y Diego Torres. Afectó a convenios y actividades en Baleares, Valencia

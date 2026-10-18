@@ -3,6 +3,9 @@ nombre: Caso Novo Carthago
 partido: PP
 completado: false
 año: 2002
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución
 descripcion: 'La causa examinó la tramitación del proyecto Novo Carthago de Hansa Urbana, que preveía unas 10.000
   viviendas, hoteles y campos de golf junto al Mar Menor, en Cartagena. La acusación cuestionó el reinicio del Plan

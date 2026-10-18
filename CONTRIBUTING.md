@@ -60,15 +60,33 @@ coste: 1500000  # 1.5 millones de euros
 
 ### Estados del caso
 
-Usa uno de estos valores:
+Cada caso declara tres campos estructurados, además del detalle libre `estado`.
+No uses explicaciones largas como etiquetas ni deduzcas el resultado por palabras.
 
-- `en investigacion`
-- `cerrado con condenas`
-- `sobreseimiento`
-- `prescrito`
-- `activo`
-- `archivado`
-- `pendiente de juicio`
+- `estadoPrincipal`: En investigación · Pendiente de juicio · En juicio · Pendiente de sentencia · Condenado · Absuelto · Sobreseído / archivado · Resultados mixtos · Resolución no penal · Sin procedimiento judicial · Sin determinar.
+- `recursoPendiente`: Sin recurso pendiente · En apelación · En casación · Otro recurso · Varios recursos · Sin determinar.
+- `firmeza`: Firme · No firme · Parcial · Sin determinar · No procede.
+
+Usa el resultado vigente documentado. Una condena revocada no permanece como
+`Condenado`; una retroacción usa la fase de retorno, o `Sin determinar` si no consta.
+Diferencias entre personas o piezas van a `Resultados mixtos`, contando el caso una
+sola vez. Absolver de algún delito a alguien que mantiene una condena por otro no
+basta por sí solo para clasificarlo como resultado mixto.
+
+La firmeza se refiere a la resolución que sustenta el estado principal. Usa
+`No procede` cuando aún no hay una resolución cuya firmeza se clasifique y
+`Parcial` solo si constan diferencias entre personas o piezas. No deduzcas firmeza
+ni ausencia de recursos por antigüedad o falta de noticias. Confirmaciones en
+apelación o casación son antecedentes, no recursos pendientes. Los recursos
+anunciados no equivalen a recursos presentados.
+
+`Resolución no penal` recoge un resultado civil, contable o administrativo sin
+resultado penal aplicable; `Sin procedimiento judicial` requiere documentación
+expresa. Las lagunas van a `Sin determinar` y se explican en el detalle.
+
+La clasificación inicial según el contenido existente se registra en
+`REVISION_ESTADOS.tsv`. No acredita una nueva comprobación de las fuentes ni el
+estado de hoy: conserva los límites y fechas documentados en cada ficha.
 
 ### Tipos de eventos (cronologia)
 

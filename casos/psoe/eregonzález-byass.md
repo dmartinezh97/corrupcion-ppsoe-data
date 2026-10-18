@@ -3,6 +3,9 @@ nombre: ERE / González Byass
 partido: PSOE
 completado: false
 año: 2008
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Demanda contable desestimada; resultado penal parcial
 lugar: Jerez de la Frontera, Cádiz, Andalucía
 resumen: Ayudas a González Byass y su asociación de extrabajadores, con exclusiones penales individuales y desestimación

@@ -1,4 +1,7 @@
 ---
+estadoPrincipal: Resultados mixtos
+recursoPendiente: En casación
+firmeza: Parcial
 "nombre": "Astapa"
 "partido": "PSOE"
 "completado": false

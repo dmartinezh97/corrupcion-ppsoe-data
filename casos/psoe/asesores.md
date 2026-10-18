@@ -4,6 +4,9 @@ partido: PSA
 completado: false
 año: 2005
 fechaInicio: '2005-01-18'
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas del Tribunal Supremo; evolución de ejecución y revisión pendiente de documentación
 descripcion: 'Procedimiento por pagos sin contraprestación a dos asesores políticos de Pedro Pacheco mediante Xerez
   21 Speed Festival y la Empresa Municipal del Suelo de Jerez (Emusujesa). Los hechos se sitúan en 2005-2007, cuando

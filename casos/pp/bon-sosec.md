@@ -3,6 +3,9 @@ nombre: Caso Bon Sosec
 partido: PP
 completado: false
 año: 1992
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'Bon Sosec fue un proyecto privado de cementerio en Marratxí, inaugurado el 1 de febrero de 1993 según
   la crónica de Última Hora. En 1992 el Govern de Gabriel Cañellas (PP) autorizó una inversión de 425 millones de

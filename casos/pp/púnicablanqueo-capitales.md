@@ -3,6 +3,9 @@ nombre: Púnica/Blanqueo capitales
 partido: PP
 completado: false
 año: 2014
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: en investigacion
 descripcion: 'La pieza separada 12 de Púnica se dedica al presunto blanqueo y la recuperación de activos. La
   Memoria de la Fiscalía publicada en 2022 la diferencia expresamente de la pieza 6, relativa a Cofely, y describe

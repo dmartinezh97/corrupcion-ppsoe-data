@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 1986
 fechaInicio: '1986-10-31'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas modificadas en casación en 1999; libertad definitiva comunicada en 2010; responsabilidades
   económicas pendientes de seguimiento
 lugar: Madrid / Zaragoza, España

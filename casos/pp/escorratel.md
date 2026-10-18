@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2010
 fechaFin: ""
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "condena confirmada en apelación; firmeza no verificada"
 descripcion: |
   El caso Escorratel se refiere a la adjudicación de las obras de reforma de la plaza situada junto al centro social de la pedanía de El Escorratel, en Orihuela (Alicante). Los hechos probados sitúan en diciembre de 2007 la aprobación de la memoria valorada (34.380,14 euros, IVA incluido) y del pliego para contratar la obra por procedimiento negociado sin publicidad, facultando al concejal delegado de Servicios e Infraestructuras de Pedanías para invitar a tres empresas. Según los hechos probados de la sentencia, las obras ya habían sido ejecutadas por la empresa Ronis'2 Construcciones y Reformas S.L. —que había ofertado 34.380,13 euros— antes de que existiera adjudicación o contrato, y la plaza fue inaugurada por la entonces alcaldesa Mónica Lorente antes de la adjudicación. Los propios hechos probados citan tanto el 3 como el 4 de julio de 2008; la relación documental distingue el acto del día 3 de su publicación en prensa el día 4, mientras la nota del CGPJ lo fecha el día 4. No se fija un día único de inicio por esa discrepancia. La relación documental, sin embargo, cita el 31 de marzo de 2008 como fecha de aprobación de la memoria. La Junta de Gobierno adjudicó la obra el 25 de julio de 2008 y el contrato administrativo se formalizó después: los propios hechos probados citan tanto el 26 de julio como el 26 de septiembre de 2008, y la relación documental y la estipulación cuarta citada lo sitúan el 26 de septiembre, por lo que la fecha exacta del contrato no está fijada de forma unívoca.

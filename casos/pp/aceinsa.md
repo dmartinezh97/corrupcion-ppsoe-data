@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2017
 fechaFin: ""
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "sobreseimiento provisional"
 descripcion: |
   El caso Aceinsa se refiere a varios contratos del Ayuntamiento de Salamanca con la empresa Aceinsa Movilidad S.A. (vado, señalización y alumbrado público) y a las denuncias por presunta prevaricación y malversación presentadas por la agrupación Ganemos Salamanca. Ganemos y la prensa que reproduce su relato sitúan el comienzo de la relación contractual el 18 de abril de 2010, durante la alcaldía de Julián Lanzarote (PP, hasta 2011), con un contrato menor de suministro e instalación de placas de vado; Alfonso Fernández Mañueco no fue alcalde hasta 2011, sin que se atribuya aquella adjudicación a su mandato. Ya bajo el mandato de Mañueco (2011-2018), Aceinsa obtuvo en 2011 el contrato de señalización de vías públicas y eventos (915.517,24 euros anuales, IVA incluido; duración máxima de cuatro años), y en 2012 el contrato de mantenimiento y mejora del alumbrado público, por 12 millones de euros en cuatro años más dos de prórroga.

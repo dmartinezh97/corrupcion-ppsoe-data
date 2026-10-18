@@ -3,6 +3,9 @@ nombre: Caso Torres de Calatrava
 partido: PP
 completado: false
 año: 2004
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Archivo de diligencias de Fiscalía
 descripcion: 'La Fiscalía de Valencia investigó la contratación del proyecto de las Torres de Calatrava en la parcela
   M3 de la Ciudad de las Artes y las Ciencias, tras una denuncia de EUPV. El diseño, presentado inicialmente con

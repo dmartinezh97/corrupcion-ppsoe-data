@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2016
 fechaInicio: '2016-10-05'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Procedimiento abreviado en 2026
 lugar: Córdoba; procedimiento judicial en Sevilla
 descripcion: 'La pieza examina las ayudas sociolaborales vinculadas a la reestructuración laboral del Grupo ABB.

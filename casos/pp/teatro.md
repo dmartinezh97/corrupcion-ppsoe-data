@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2015
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'El caso Teatro de Getafe investigó la contratación del proyecto del Centro Europeo de Producción de
   Artes Audiovisuales y Escénicas en el antiguo teatro de la calle Madrid durante el gobierno municipal del PP (2011–2015),

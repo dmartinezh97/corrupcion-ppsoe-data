@@ -3,6 +3,9 @@ nombre: Caso Benferri
 partido: PSOE
 completado: false
 año: 2011
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución por prevaricación; condena por acoso firme según Europa Press; ejecución pendiente de verificar
 lugar: Benferri, Vega Baja del Segura (Comunidad Valenciana)
 coste: 42575.54

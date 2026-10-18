@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2009
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: 'La pieza se refiere a una ayuda a Ubago Group Mare, empresa de conservas y productos pesqueros de
   Málaga. La información de La Razón de 2017, basada en un atestado policial, describe una ayuda de 60.000 euros

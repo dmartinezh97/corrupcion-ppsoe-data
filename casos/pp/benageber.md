@@ -3,6 +3,9 @@ nombre: Caso Benagéber
 partido: PP
 completado: false
 año: 2012
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: resultados distintos por procedimiento
 resumen: 'Sabfes: condena mantenida en casación en 2025; abogado: absolución en 2024; libros: desenlace pendiente.'
 descripcion: 'La ficha reúne procedimientos distintos de San Antonio de Benagéber: la gestión de Sabfes, las facturas

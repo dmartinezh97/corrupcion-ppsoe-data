@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2008
 fechaInicio: '2008-07-23'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: En apelación
+firmeza: No firme
 estado: Condena recurrida
 lugar: Málaga / Sevilla, Andalucía
 coste: 1180000

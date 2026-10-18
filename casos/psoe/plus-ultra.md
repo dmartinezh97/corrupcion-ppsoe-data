@@ -5,6 +5,9 @@ completado: false
 año: 2021
 fechaInicio: '2021-03-09'
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: activo
 descripcion: La ayuda pública temporal de 53 millones de euros a Plus Ultra, autorizada el 9 de marzo de 2021, consistió
   en dos préstamos; su importe no equivale a un perjuicio declarado. La primera investigación sobre su concesión fue

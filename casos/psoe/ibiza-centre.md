@@ -3,6 +3,9 @@ nombre: Caso Ibiza Centre
 partido: PSOE
 completado: false
 año: 2007
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sobreseimiento provisional
 descripcion: 'El caso Eivissa Centre investigó las sospechas de comisiones vinculadas a un proyecto urbanístico
   de la ciudad de Eivissa y a la adjudicataria Bruesa, a partir de grabaciones relacionadas con Roque López, antiguo

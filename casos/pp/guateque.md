@@ -5,6 +5,9 @@ completado: false
 año: 2007
 fechaInicio: '2007-04-02'
 fechaFin: '2018-06-28'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sentencia firme
 descripcion: |-
   El caso Guateque investigó supuestas comisiones a funcionarios del Ayuntamiento de Madrid para acelerar licencias municipales durante la alcaldía de Alberto Ruiz-Gallardón (PP). La causa penal terminó con la absolución de treinta acusados por nulidad de la prueba. La Audiencia Provincial de Madrid dictó la sentencia 408/2017 el 19 de junio de 2017 y el Tribunal Supremo la confirmó mediante la sentencia 311/2018, de 27 de junio. El Consejo de Estado documenta su firmeza y notificación el 28 de junio de 2018. No hubo condenas en ese procedimiento ni una sentencia que declarara probada la red de sobornos investigada.

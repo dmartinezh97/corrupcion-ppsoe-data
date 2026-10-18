@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2003
 fechaFin: ''
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: archivo parcial
 descripcion: 'Esta pieza de los ERE se refiere a las ayudas para financiar prejubilaciones de trabajadores de la
   empresa pública Egmasa y a determinadas inclusiones en pólizas. Un auto de 27 de septiembre de 2021 acordó continuar

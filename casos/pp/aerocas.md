@@ -3,6 +3,9 @@ nombre: Aerocas
 partido: PP
 completado: false
 año: 2009
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: absueltos
 descripcion: 'Esta ficha se refiere a los patrocinios deportivos de Aerocas, empresa pública gestora del aeropuerto
   de Castellón, a Álex Debón y su empresa. La acusación sostuvo que, como contrapartida a los 3.653.000 euros recibidos

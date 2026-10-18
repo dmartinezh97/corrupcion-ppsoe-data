@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2010
 fechaFin: ""
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: "desconocido"
 descripcion: |
   El caso Citur (Ciutadella Turisme) se refiere al presunto amaño de contratos del área de Turismo del Ayuntamiento de Ciutadella, en Menorca, durante el mandato del PP presidido por el alcalde Llorenç Brondo (2003-febrero de 2009). Una comisión municipal de investigación, conocida como comisión Citur y presidida por el concejal Joan Triay (UPCM), aprobó 51 conclusiones con irregularidades en la gestión del ente Ciutadella Turisme (Citur). El pleno del Ayuntamiento acordó el 11 de febrero de 2010 remitir esas conclusiones, avaladas por 101 documentos, a la Fiscalía Anticorrupción, con el voto favorable del resto de grupos y la abstención del concejal Gabriel Cardona; en julio de 2010 UPCM presentó además una querella ante el Juzgado de Instrucción nº 2 de Ciutadella.

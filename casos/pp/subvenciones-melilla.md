@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2007
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: resultado judicial no verificado
 descripcion: 'Una noticia de Melilla Hoy del 10 de marzo de 2014 informó de la imputación del consejero de Educación Antonio Miranda, del exconsejero de Deportes Francisco Robles y de un funcionario por una convocatoria de subvenciones de 2007. Es una referencia histórica a una investigación, no una condena ni prueba de su situación procesal actual.
 

@@ -3,6 +3,9 @@ nombre: Caso Río Manzanares
 partido: PSOE
 completado: false
 año: 2018
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento
 lugar: Getafe, Comunidad de Madrid
 descripcion: Investigación por vertidos de aguas residuales de Perales del Río al Manzanares, a raíz de una querella

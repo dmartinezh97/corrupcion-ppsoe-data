@@ -3,6 +3,9 @@ nombre: PP alcazareño
 partido: PP
 completado: false
 fechaFin: ''
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento provisional comunicado en abril de 2018
 descripcion: 'Denuncia del exconcejal del PP de Alcázar de San Juan Ángel Puente contra Diego Ortega Abengózar y
   Jesús Teodoro Octavio Carpio, entonces presidente local y secretario general del partido. En enero de 2017, una

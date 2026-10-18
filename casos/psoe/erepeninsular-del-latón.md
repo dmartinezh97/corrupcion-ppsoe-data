@@ -3,6 +3,9 @@ nombre: ERE / Peninsular del Latón
 partido: PSOE
 completado: false
 año: 2007
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Pendiente de señalamiento en abril de 2026
 lugar: Córdoba, Andalucía
 resumen: Pieza sobre ayudas para la reestructuración laboral de Peninsular del Latón, con acusaciones contra tres personas

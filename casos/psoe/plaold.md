@@ -3,6 +3,9 @@ nombre: Plaold
 partido: PSOE
 completado: false
 año: 2010
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: situación judicial no verificada
 lugar: País Vasco
 descripcion: Controversia sobre contrataciones de consultoría sanitaria con Plaold e Indesis y posibles conflictos

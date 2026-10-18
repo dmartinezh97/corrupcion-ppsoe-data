@@ -3,6 +3,9 @@ nombre: Caso Imelsa (Taula)
 partido: PP
 completado: false
 año: 2014
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: Imelsa-Taula es una macrocausa dividida en procedimientos con resultados distintos. La condena de Marcos
   Benavent a 7 años y 10 meses en Thematica fue mantenida por el Supremo el 19 de junio de 2026, con cambios en

@@ -3,6 +3,9 @@ nombre: Caso Massamagrell
 partido: PSOE
 completado: false
 año: 2019
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sobreseimiento provisional documentado en 2019
 lugar: Massamagrell, Valencia, Comunitat Valenciana
 descripcion: 'Denuncia sobre el destino de la colaboración económica de feriantes en las fiestas fundacionales de

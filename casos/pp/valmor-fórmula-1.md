@@ -3,6 +3,9 @@ nombre: Valmor Fórmula 1
 partido: PP
 completado: false
 año: 2008
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Archivos penales y demanda contable desestimada
 descripcion: 'Las investigaciones sobre el Gran Premio de Fórmula 1 de Valencia, celebrado entre 2008 y 2012, abarcaron
   la organización mediante Valmor Sports, el aval público, los contratos de proveedores, la compra y absorción de

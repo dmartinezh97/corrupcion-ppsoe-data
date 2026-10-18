@@ -3,6 +3,9 @@ nombre: Caso Barreiros
 partido: PP
 completado: false
 año: 2006
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución confirmada en apelación
 resumen: 'Proceso por prevaricación urbanística en licencias de Barreiros: siete absoluciones en 2019, confirmadas en apelación
   según la prensa.'

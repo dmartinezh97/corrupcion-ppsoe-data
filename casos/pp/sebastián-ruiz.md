@@ -3,6 +3,9 @@ nombre: Sebastián Ruiz
 partido: PP
 completado: false
 año: 2014
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas modificadas en casación
 descripcion: 'El procedimiento se refiere a la contratación en 2014 de la hija del interventor accidental de Arcos
   de la Frontera a cambio de cambiar el sentido de informes sobre nuevas obras e inversiones. La Audiencia Provincial

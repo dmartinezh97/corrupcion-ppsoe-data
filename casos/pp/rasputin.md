@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2004
 fechaFin: '2004-09-01'
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: archivo de diligencias informativas de Fiscalía
 descripcion: 'El caso Rasputín se refiere a los justificantes de un club de alterne de Moscú incluidos entre
   los gastos de una delegación oficial balear que viajó en febrero de 2004 para realizar actividades de promoción

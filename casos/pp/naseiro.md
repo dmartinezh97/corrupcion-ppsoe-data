@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 1990
 fechaFin: ''
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución tras retirada de las acusaciones en julio de 1992
 descripcion: 'El caso Naseiro investigó sospechas de cohecho vinculadas a comisiones para financiar al PP y a operaciones
   urbanísticas en la Comunidad Valenciana. La investigación se hizo pública en abril de 1990, recién elegido José

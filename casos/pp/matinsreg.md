@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2017
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas firmes según información de ejecutoria; en ejecución
 descripcion: |-
   La causa principal Matinsreg trata de la facturación falsa o inflada de servicios municipales de Jaén entre el 8 de agosto de 2012 y el 15 de septiembre de 2013. Tras el abandono de la anterior prestadora, se encargaron reparaciones de alumbrado, semáforos y fuentes a Matinsreg SLU. La sentencia de casación describe documentos de encargo y un informe municipal sobre tramitación de emergencia, aunque no hubo contrato administrativo formal y la Intervención formuló reparos. No se confunde esa ausencia de contrato con ausencia de todo documento ni se atribuye culpabilidad al exalcalde José Enrique Fernández de Moya, que fue absuelto.

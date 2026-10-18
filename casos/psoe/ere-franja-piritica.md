@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2003
 fechaFin: ''
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'La pieza de los ERE sobre la Faja Pirítica de Huelva investigó ayudas sociolaborales para prejubilaciones
   mineras cofinanciadas por el Estado y la Junta. La nota del CGPJ de 29 de junio de 2017 informó de 25 personas

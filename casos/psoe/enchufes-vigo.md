@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2008
 fechaInicio: "2008-06-23"
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Condenas confirmadas en casación; rebaja e ingreso en prisión publicados en 2023; ejecución posterior pendiente"
 descripcion: |
   La causa examinó nueve contratos menores del Ayuntamiento de Vigo con Imesapi utilizados para financiar una contratación al margen de los sistemas legales de empleo público. Los hechos probados describen trabajos facturados que no fueron realizados y fijan en 108.147,22 euros, sin IVA, el importe cobrado indebidamente por la empresa. Las fuentes nominales identifican a la trabajadora como Vanesa Falque Barral, cuñada de la entonces teniente de alcalde Carmela Silva; ese parentesco no equivale a una condena de Silva.

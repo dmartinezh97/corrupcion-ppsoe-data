@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2003
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas de la pieza balear y casación resuelta; ejecución actual pendiente de verificar
 resumen: Contratos públicos para compensar gastos electorales del PP balear; pieza 27 de Palma Arena, con casación
   de Rodríguez desestimada en 2022.

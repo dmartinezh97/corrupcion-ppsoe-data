@@ -3,6 +3,9 @@ nombre: "Caso Fernández de la Cueva"
 partido: PP
 completado: false
 año: 2013
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: "desconocido"
 descripcion: |
   Procedimiento por presunta prevaricación administrativa contra Juliana Fernández Cueva Lominchar, exalcaldesa de Corral de Almaguer (Toledo) y exsenadora del PP, y Vicente González Ramírez, primer teniente de alcalde en la época de los hechos. La acusación sostenía que habían dejado sin efecto cuatro expedientes de tráfico de 2013 para evitar la pérdida de puntos de los conductores. El País informó de que los conductores habían pagado las sanciones con reducción: la controversia incluía la retirada de puntos, no simplemente multas impagadas. La Fiscalía solicitaba diez años de inhabilitación para cada acusado, una petición de pena que no equivale a una condena.

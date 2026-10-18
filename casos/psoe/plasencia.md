@@ -3,6 +3,9 @@ nombre: Caso Plasencia
 partido: PSOE
 completado: false
 año: 2010
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas y absolución
 lugar: Plasencia, Cáceres
 descripcion: 'Procedimiento por adjudicaciones municipales de obras, con condenas por prevaricación y fraude modificadas

@@ -5,6 +5,9 @@ completado: false
 año: 2014
 fechaInicio: '2014-09-05'
 fechaFin: ''
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: cerrado con condenas
 descripcion: 'La pieza 1 de Púnica juzgó la filtración de información sobre la vigilancia policial del despacho de David Marjaliza. La Audiencia Nacional condenó el 1 de diciembre de 2017 a Francisco José Granados Lerena y José Manuel Rodríguez Talamino a dos años de prisión, y a José Luis Caro Vinagre a un año y seis meses. El Supremo confirmó las penas el 13 de marzo de 2019; el fallo no prevé recurso y la Fiscalía las recoge como firmes en su memoria. La confirmación se publicó el 14 de marzo, fecha que no debe confundirse con la de la sentencia.
 

@@ -5,6 +5,9 @@ completado: false
 año: 2018
 fechaInicio: "2018-05-22"
 fechaFin: ""
+estadoPrincipal: Resultados mixtos
+recursoPendiente: En casación
+firmeza: No firme
 estado: "pendiente"
 descripcion: |
   El caso Erial es una causa judicial sobre el cobro de comisiones por la adjudicación de contratos públicos durante los gobiernos de Eduardo Zaplana al frente de la Generalitat Valenciana (1995-2002), principalmente la privatización de las estaciones de ITV (1997) y, en la parte investigada, el Plan Eólico de la Comunitat Valenciana (2003). La instrucción correspondió al Juzgado de Instrucción nº 8 de València, con intervención de la Fiscalía Anticorrupción; no a la Audiencia Nacional. Las comisiones habrían sido canalizadas a través de una red de sociedades y testaferros y ocultadas en cuentas y sociedades en el extranjero (Suiza, Luxemburgo, Andorra, Panamá).

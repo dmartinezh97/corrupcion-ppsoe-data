@@ -3,6 +3,9 @@ nombre: Residencia El Gordo
 partido: PP
 completado: false
 año: 2013
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Juicio anunciado; desenlace no verificado
 descripcion: 'El procedimiento se refiere a presuntas irregularidades en la contratación y ejecución de una residencia
   municipal de mayores de El Gordo (Cáceres). El constructor Claudio Jiménez Guinea denunció los hechos en 2013, según

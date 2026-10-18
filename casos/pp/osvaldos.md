@@ -3,6 +3,9 @@ nombre: Caso Osvaldos
 partido: PP
 completado: false
 año: 2014
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas y absoluciones
 resumen: 'Contratos del Hospital General de Valencia: seis condenados y cinco absueltos en la sentencia notificada
   en junio de 2026.'

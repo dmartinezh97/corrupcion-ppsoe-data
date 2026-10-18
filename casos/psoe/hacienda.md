@@ -3,6 +3,9 @@ nombre: Caso Hacienda
 partido: PSOE
 completado: false
 año: 1999
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas modificadas en casación; ejecución individual pendiente de verificar
 descripcion: Causa sobre dádivas de empresarios a funcionarios de la inspección de Hacienda en Cataluña a cambio de actuaciones
   favorables. La STS 990/2013, de 30 de diciembre, modificó las condenas de la Audiencia de Barcelona; fue difundida

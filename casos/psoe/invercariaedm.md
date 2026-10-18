@@ -5,6 +5,9 @@ completado: false
 año: 2008
 fechaInicio: '2008-07-23'
 fechaFin: ''
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: La pieza de Invercaria relativa a Electronics Devices Manufacturer (EDM), empresa de componentes electrónicos
   de Mancha Real (Jaén), versa sobre dos préstamos participativos de 450.000 y 730.000 euros concedidos en julio

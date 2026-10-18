@@ -3,6 +3,9 @@ nombre: Marea
 partido: PSOE
 completado: false
 año: 2010
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: cerrado con condenas
 resumen: 'Contratación pública y dádivas en Asturias: condenas modificadas por el Supremo en 2019; pieza Mareína
   archivada en 2026.'

@@ -3,6 +3,9 @@ nombre: Uniformes Santa Pola
 partido: PP
 completado: false
 año: 2017
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución firme en la pieza Riera
 descripcion: 'Investigación sobre suministros de uniformidad de la Policía Local y Protección Civil de Santa Pola,
   con ámbitos relativos a empresas Riera y a Gil de los Ríos que deben distinguirse. En el procedimiento 127/2020,

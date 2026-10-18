@@ -3,6 +3,9 @@ nombre: Caso Arena
 partido: PP
 completado: false
 año: 2011
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Archivo político y condena ambiental; ejecución no verificada
 descripcion: 'La Operación Arena partió de la investigación sobre áridos importados por Manmer, empresa administrada
   por Fermín Duarte Rodríguez, a través del puerto de Ferrol. De las escuchas surgió una vertiente por presunto

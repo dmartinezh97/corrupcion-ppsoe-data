@@ -3,6 +3,9 @@ nombre: Caso Hoyo de Manzanares
 partido: PP
 completado: false
 año: 2017
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: denuncia presentada
 descripcion: 'La controversia se centra en la contratación energética municipal de 2014, cuya propuesta a favor
   de Dalkia no prosperó, y en las relaciones entre sus asesores y un estudio previo sobre el tanatorio. El presupuesto

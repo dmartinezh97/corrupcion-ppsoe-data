@@ -3,6 +3,9 @@ nombre: Eólica Valladolid
 partido: PP
 completado: false
 fechaFin: ''
+estadoPrincipal: Pendiente de sentencia
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Juicio concluido en enero de 2026; fallo posterior no documentado
 descripcion: 'La trama eólica de Castilla y León examinó el presunto condicionamiento de autorizaciones de parques
   eólicos a la entrada de empresarios locales designados desde la Consejería de Economía de la Junta, gobernada

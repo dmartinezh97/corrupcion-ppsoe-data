@@ -3,6 +3,9 @@ nombre: Caso ERE/Alcolea del Río
 partido: PSOE
 completado: false
 año: 2003
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Archivo respecto al alcalde; desenlace de la pieza pendiente de verificar
 descripcion: Investigación de dos ayudas de 60.000 euros al Ayuntamiento de Alcolea del Río para las ferias Equivir,
   con cargo a la partida 31.L de la Junta de Andalucía. La prensa informó de un sobreseimiento provisional por prescripción

@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2010
 fechaFin: ""
+estadoPrincipal: Condenado
+recursoPendiente: Sin recurso pendiente
+firmeza: Firme
 estado: "sentencia firme"
 descripcion: |
   El «caso Clepsidra» (también conocido como el «caso de los relojes») es la investigación penal que

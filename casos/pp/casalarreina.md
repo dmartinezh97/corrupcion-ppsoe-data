@@ -4,6 +4,9 @@ partido: "PP"
 completado: false
 año: 1990
 fechaInicio: "2002-09-16"
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Condena del Supremo en 2010; ejecución y posibles actuaciones posteriores pendientes"
 descripcion: |
   La STS 238/2010, de 17 de marzo, condenó por malversación de caudales públicos al exalcalde de Casalarreina, identificado en las fuentes nominales como Buenaventura Gómez Castrillo. El Supremo anuló la absolución de la Audiencia Provincial de Logroño de 20 de mayo de 2009, al estimar el recurso del Ayuntamiento, apoyado por el Ministerio Fiscal. Impuso dos años de prisión, cuatro de inhabilitación absoluta y responsabilidad civil directa de 4.508,76 euros, con atenuante muy cualificada de dilaciones indebidas.

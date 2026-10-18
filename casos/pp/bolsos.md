@@ -3,6 +3,9 @@ nombre: Bolsos y pieza A del caso Taula
 partido: PP
 completado: false
 año: 2016
+estadoPrincipal: Resultados mixtos
+recursoPendiente: En casación
+firmeza: No firme
 estado: Archivos parciales y sentencia de 2024 recurrida
 descripcion: 'La denominación «Bolsos» reúne referencias periodísticas a regalos recibidos por Rita Barberá en contextos
   distintos, como Gürtel, Emarsa o Azud; no se ha acreditado una causa autónoma que reúna todos esos obsequios.

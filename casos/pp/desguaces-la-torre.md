@@ -3,6 +3,9 @@ nombre: Desguaces La Torre
 partido: PP
 completado: false
 año: 2011
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas y ejecución urbanística pendiente de verificar
 resumen: Obras sin licencia en la ampliación de Desguaces La Torre y condena del exalcalde de Torrejón de la Calzada por prevaricación
   urbanística omisiva.

@@ -3,6 +3,9 @@ nombre: Caso Bitel
 partido: PP
 completado: false
 año: 2008
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas; casación resuelta en 2014
 resumen: Desvío de fondos de la empresa pública Bitel durante la gerencia de Damià Vidal; el Supremo mantuvo cinco años de
   prisión y lo absolvió de prevaricación.

@@ -3,6 +3,9 @@ nombre: Filesa
 partido: PSOE
 completado: false
 año: 1987
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas revisadas en amparo e indultos parciales; ejecución y cumplimiento del dictamen de la ONU pendientes de verificar
 descripcion: 'Filesa designa la causa sobre un grupo de sociedades que obtuvo fondos para gastos del PSOE, especialmente
   de las elecciones generales y europeas de 1989, mediante facturas de informes inexistentes o ficticios y pagos

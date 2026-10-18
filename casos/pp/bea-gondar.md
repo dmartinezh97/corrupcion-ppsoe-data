@@ -3,6 +3,9 @@ nombre: Bea Gondar
 partido: AP
 completado: false
 año: 1991
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena por blanqueo; demanda civil desestimada
 descripcion: 'José Alfredo Bea Gondar, exalcalde de O Grove, protagonizó varios procedimientos distintos. La sentencia
   civil del Supremo 29/2021 reconstruye dos causas por tráfico de drogas en las que terminó absuelto: la Audiencia

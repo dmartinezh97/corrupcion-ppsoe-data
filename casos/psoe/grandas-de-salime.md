@@ -3,6 +3,9 @@ nombre: 'Caso Grandas de Salime: maquinaria de la patata y gestión municipal'
 partido: PSOE
 completado: false
 fechaFin: ''
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento
 descripcion: 'El expediente DP 133/14 del Juzgado de Instrucción de Castropol examinó una denuncia contra Eustaquio
   Revilla, Julia Pládano y la secretaria municipal Ana Isabel González Iglesias sobre la maquinaria municipal de

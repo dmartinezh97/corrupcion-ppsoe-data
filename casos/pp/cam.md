@@ -3,6 +3,9 @@ nombre: CAM
 partido: PP
 completado: false
 año: 2011
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas y absoluciones en distintas piezas
 descripcion: 'La crisis de la Caja de Ahorros del Mediterráneo dio lugar a varias causas, con resultados diferentes.
   En el falseo de cuentas, la STS 369/2019, de 22 de julio, absolvió a Roberto López Abad y Francisco José Martínez

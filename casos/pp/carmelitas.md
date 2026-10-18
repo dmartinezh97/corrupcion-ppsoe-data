@@ -5,6 +5,9 @@ completado: false
 año: 1998
 fechaInicio: "1993-04-07"
 fechaFin: ""
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "sentencia firme"
 descripcion: |
   El Caso Carmelitas, conocido como "Caso de las Monjas de Orihuela", parte de la entrega, en abril de 1993, del superávit de la gestión del Hospital Municipal San Juan de Dios por parte de las Hermanas Carmelitas al Ayuntamiento de Orihuela. El entonces alcalde, Luis Fernando Cartagena Travesedo (PP), recibió el dinero en dos pagos —6.166.426 pesetas (unos 37.061 euros) en abril de 1993 y otros 2.000.000 de pesetas (unos 12.020 euros) el 11 de mayo de ese año, 8.166.426 pesetas en total (49.081 euros)— y, en lugar de tramitar su ingreso en las arcas municipales, lo retuvo. La sentencia consideró probado que se apropió de los caudales con ánimo de lucro.

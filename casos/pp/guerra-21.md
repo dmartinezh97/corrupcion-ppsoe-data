@@ -2,6 +2,9 @@
 nombre: Guerra 21
 partido: PP
 completado: false
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento
 descripcion: Investigación sobre contratos de servicios del Ayuntamiento de Tomares con Guerra 21 y sociedades vinculadas
   durante el periodo 2007-2014. La Fiscalía apreció inicialmente posibles adjudicaciones directas y fraccionamientos

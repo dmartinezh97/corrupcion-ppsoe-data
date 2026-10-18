@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2012
 fechaInicio: '2012-07-20'
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Archivo penal provisional comunicado
 resumen: Anulación de la adjudicación del alumbrado de Salamanca a Aceinsa y denuncias penales relacionadas.
 descripcion: 'La adjudicación del alumbrado de Salamanca a Aceinsa fue anulada en vía contencioso-administrativa por la sentencia

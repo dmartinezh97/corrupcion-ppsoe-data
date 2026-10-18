@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2014
 fechaFin: ''
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Archivo respecto de Limones y exediles; resultado posterior de la causa restante no verificado
 descripcion: 'Investigación sobre la gestión de Alcalá Comunicación Municipal S.A., empresa del Ayuntamiento de
   Alcalá de Guadaíra. El Supremo asumió en noviembre de 2017 la causa relativa al diputado Antonio Gutiérrez Limones,

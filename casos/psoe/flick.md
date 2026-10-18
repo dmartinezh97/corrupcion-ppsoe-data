@@ -3,6 +3,9 @@ nombre: Flick
 partido: PSOE
 completado: false
 año: 1984
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Conclusiones parlamentarias y archivo de diligencias fiscales; no sentencia acreditada
 descripcion: Controversia sobre supuestos fondos del consorcio alemán Flick destinados al PSOE. El Congreso aprobó el
   28 de febrero de 1985 conclusiones que descartaban pruebas de recepción de dinero Flick por Felipe González o el PSOE.

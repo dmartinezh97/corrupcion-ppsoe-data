@@ -3,6 +3,9 @@ nombre: "Caso Idelpa"
 partido: PSOE
 completado: false
 año: 2012
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Concurso culpable y causas penales con resultados distintos; firmeza y ejecución pendientes de cotejo"
 descripcion: |
   La gestión de Iniciativas de Desarrollo de Los Palacios (Idelpa), sociedad participada por el Ayuntamiento de Los Palacios y Villafranca y Prodetur, dio lugar a procedimientos distintos. Según Europa Press y la información municipal de mayo de 2018, el Juzgado de lo Mercantil número 2 de Sevilla calificó como culpable el concurso de la empresa e impuso inhabilitaciones para administrar bienes ajenos y una obligación de cubrir 80.000 euros de déficit concursal. Esa calificación mercantil no equivale por sí sola a una condena penal.

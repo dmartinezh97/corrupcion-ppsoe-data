@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2018
 fechaFin: ''
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Juicio de juegos interescolares anulado; otras piezas sin desenlace comprobado
 descripcion: 'El caso Deportes de Crevillent reúne investigaciones distintas sobre contratos municipales con Tot
   Sport Crevi y otras entidades relacionadas con los hijos del coordinador de Deportes, Francisco Manuel Serna González.

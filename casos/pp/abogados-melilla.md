@@ -3,6 +3,9 @@ nombre: Caso Abogados Melilla
 partido: PP
 completado: false
 año: 2015
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena y absoluciones en apelación; piezas separadas
 descripcion: 'La contratación de abogados externos de Melilla dio lugar a procedimientos con resultados distintos.
   En la rama de Bienestar Social, el Juzgado de lo Penal número 1 condenó en 2017 a María Antonia Garbín a diez

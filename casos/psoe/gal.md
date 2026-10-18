@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 1983
 fechaInicio: '1983-10-16'
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas en distintos procedimientos
 descripcion: 'Los Grupos Antiterroristas de Liberación (GAL) desarrollaron terrorismo parapolicial contra ETA y
   su entorno, con víctimas también ajenas a esa organización. El recurso educativo del Ministerio de Educación identifica

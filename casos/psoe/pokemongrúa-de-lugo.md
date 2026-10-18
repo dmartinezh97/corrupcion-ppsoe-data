@@ -3,6 +3,9 @@ nombre: 'Pokémon: grúa de Lugo'
 partido: PSOE
 completado: false
 año: 2012
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas y archivo parcial
 lugar: Lugo, Galicia
 descripcion: Pieza de Pokémon sobre la adjudicación del servicio municipal de grúa a Cechalva. El 24 de junio de

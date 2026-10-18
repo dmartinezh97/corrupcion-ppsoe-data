@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2008
 fechaInicio: '2008-08-11'
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Archivo confirmado en 2009
 descripcion: 'El caso investigó los viajes de José Manuel Soria López y su familia a Austria y Noruega en agosto
   de 2005, invitados a utilizar el avión arrendado por el empresario Bjorn Lyng, relacionado con el Grupo Anfi.

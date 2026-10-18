@@ -5,6 +5,9 @@ completado: false
 año: 2024
 fechaInicio: '2024-05-30'
 fechaFin: ''
+estadoPrincipal: Condenado
+recursoPendiente: En apelación
+firmeza: No firme
 estado: activo
 descripcion: 'Procedimiento sobre la creación y adjudicación en 2016-2017 de un puesto de alta dirección a David
   Sánchez Pérez-Castejón en la Diputación de Badajoz, su modificación en 2022 y la provisión de otra plaza para

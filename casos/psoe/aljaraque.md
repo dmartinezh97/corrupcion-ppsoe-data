@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2017
 fechaInicio: "2017-02-09"
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Conformidad por cohecho en 2024; sentencia original, firmeza y ejecución pendientes de cotejo"
 lugar: "Aljaraque, Huelva, Andalucía"
 descripcion: |

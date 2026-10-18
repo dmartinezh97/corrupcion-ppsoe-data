@@ -3,6 +3,9 @@ nombre: Palau de les Arts
 partido: PP
 completado: false
 año: 2013
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución en la causa de gestión
 descripcion: 'La causa penal sobre la gestión del Palau de les Arts Reina Sofía de València examinó contratos de
   patrocinio, organización de eventos y trabajos de diseño e impresión de los años 2008–2011. La Sección Segunda

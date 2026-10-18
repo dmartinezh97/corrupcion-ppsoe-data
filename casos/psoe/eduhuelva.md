@@ -3,6 +3,9 @@ nombre: Edu/Huelva
 partido: PSOE
 completado: false
 año: 2014
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento
 descripcion: 'La investigación Edu en Huelva examinó la gestión de subvenciones de formación por personal de la
   Delegación de Empleo y, en piezas separadas, la actuación de empresas beneficiarias. Diario de Huelva informó

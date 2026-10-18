@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2003
 fechaInicio: '2003-02-05'
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Desenlace de la pieza no acreditado
 lugar: San Nicolás del Puerto, Sevilla, Andalucía
 resumen: Investigación de una ayuda de 871.467,50 euros para adquirir terrenos del Cerro del Hierro y promover el empleo.

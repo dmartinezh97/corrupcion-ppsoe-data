@@ -3,6 +3,9 @@ nombre: ERE/A-Novo
 partido: PSOE
 completado: false
 año: 2022
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Archivos parciales y responsabilidad contable
 descripcion: 'Esta pieza separada de los ERE de Andalucía examinó las ayudas sociolaborales y excepcionales
   concedidas a A-Novo Comlink España entre 2005 y 2010. El auto de 18 de abril de 2022 continuó el procedimiento

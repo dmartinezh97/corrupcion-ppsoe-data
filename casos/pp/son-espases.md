@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2009
 fechaInicio: '2005-05-30'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas por la contratación; casación de Matas desestimada y archivo provisional para otros investigados
 descripcion: 'El procedimiento Son Espases examinó las actuaciones dirigidas a controlar el concurso de construcción
   y explotación del hospital de Palma, entre ellas la contratación de Global PM para valorar ofertas y favorecer

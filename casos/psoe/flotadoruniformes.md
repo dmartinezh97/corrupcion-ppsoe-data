@@ -3,6 +3,9 @@ nombre: Flotador/Uniformes
 partido: PSOE
 completado: false
 año: 2016
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: absolución de instancia; firmeza pendiente de verificar
 descripcion: Pieza separada de la Operación Flotador relativa a las compras realizadas por cinco empleados del Ayuntamiento
   de Sagunto con una dotación bienal de 300 euros por desgaste de ropa y calzado. La Sección Tercera de la Audiencia de Valencia absolvió a

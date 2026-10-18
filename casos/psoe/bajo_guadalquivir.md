@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2012
 fechaFin: ''
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: resultados diversos
 lugar: Bajo Guadalquivir, Sevilla y Cádiz, Andalucía
 descripcion: 'Esta ficha distingue la investigación de subvenciones de la Mancomunidad del Bajo Guadalquivir del

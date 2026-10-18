@@ -3,6 +3,9 @@ nombre: "Caso SEAT"
 partido: PSOE
 completado: false
 año: 1993
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "absuelto"
 descripcion: |
   Procedimiento sobre pagos vinculados a licencias de obras de SEAT en Madrid. La STS 719/2009, de 30 de junio, desestimó los recursos contra las absoluciones de la Audiencia Provincial de Madrid. El cohecho se consideró prescrito; otros cargos recibieron pronunciamientos absolutorios por razones diferentes. No se trató de un sobreseimiento ni de condenas por financiación ilegal del PSOE.

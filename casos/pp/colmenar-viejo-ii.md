@@ -3,6 +3,9 @@ nombre: Colmenar Viejo II
 partido: PP
 completado: false
 fechaFin: ''
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución en 2023; firmeza posterior no documentada
 descripcion: 'Esta ficha recoge el juicio celebrado en 2023 ante la Sección Segunda de la Audiencia Provincial de
   Madrid sobre licencias urbanísticas de Colmenar Viejo concedidas entre 2006 y 2012. La información del juicio

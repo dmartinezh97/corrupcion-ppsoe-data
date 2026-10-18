@@ -1,4 +1,7 @@
 ---
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 "nombre": "ERE/Surcolor"
 "partido": "PSOE"
 "completado": false

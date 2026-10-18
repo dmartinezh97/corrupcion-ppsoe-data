@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2024
 fechaInicio: '2024-04-16'
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: pendiente de juicio
 descripcion: 'La causa investiga la actividad profesional de María Begoña Gómez Fernández, esposa del presidente
   del Gobierno Pedro Sánchez, en la cátedra extraordinaria de Transformación Social Competitiva de la Universidad

@@ -3,6 +3,9 @@ nombre: Caso Avialsa
 partido: PP
 completado: false
 año: 2013
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas recurribles
 descripcion: 'El caso Avialsa reúne el núcleo valenciano de adjudicaciones y dádivas examinado en la sentencia del
   Cártel del Fuego y otras ramas judiciales que deben distinguirse. En la sentencia 4/2025 de la Audiencia Nacional,

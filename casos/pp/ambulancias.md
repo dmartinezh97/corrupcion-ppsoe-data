@@ -5,6 +5,9 @@ completado: false
 año: 2016
 fechaInicio: "2016-01-12"
 fechaFin: ""
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento provisional
 descripcion: |
   El Caso Ambulancias se refiere a la licitación del transporte sanitario urgente en ambulancia del Servicio de Urgencias Médicas de Madrid (SUMMA 112), convocada en 2015 y cuyas ofertas se abrieron el 12 de enero de 2016. Ambulancias Alerta presentó la oferta más económica —72,3 millones de euros, unos cinco millones menos que la segunda— y fue propuesta como adjudicataria, pero la Consejería de Sanidad le atribuyó no haber presentado el plan de viabilidad económica exigido y la descartó.

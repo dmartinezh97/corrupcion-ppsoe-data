@@ -3,6 +3,9 @@ nombre: Púnica/Eico y Madiva
 partido: PP
 completado: false
 año: 2014
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento provisional en pieza 10; condenas y absoluciones en pieza de León
 descripcion: 'Las empresas Eico y Madiva, vinculadas al consultor Alejandro de Pedro, aparecen en distintas
   piezas de Púnica sobre contratación de publicidad institucional y reputación en internet. No existe un único

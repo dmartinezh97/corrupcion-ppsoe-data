@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2018
 fechaFin: ''
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento
 descripcion: 'El caso investigó posibles injerencias en los expedientes por infracciones urbanísticas de Villas
   del Arenal, en Málaga. Teresa Porras, Francisco Pomares y José Cardador fueron llamados a declarar como investigados

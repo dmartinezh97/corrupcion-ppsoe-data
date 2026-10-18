@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2006
 fechaInicio: '2006-05-12'
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución penal; retroacción contable en 2025
 descripcion: 'La construcción del polideportivo del barrio de la Estación de Navalcarnero fue adjudicada en mayo
   de 2006 a Constructora Hispánica, posteriormente Assignia Infraestructuras, por 14.837.273 euros, IVA incluido.

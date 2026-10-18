@@ -5,6 +5,9 @@ completado: false
 año: 2007
 fechaInicio: '2007-02-16'
 fechaFin: '2016-12-14'
+estadoPrincipal: Resolución no penal
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: absolución en apelación contable
 descripcion: 'El caso se refiere al arrendamiento de oficinas de la calle San Antonio de Vitoria-Gasteiz, contratado
   en 2007 durante el gobierno municipal de Alfonso Alonso, con Javier Maroto como concejal de Hacienda. La controversia

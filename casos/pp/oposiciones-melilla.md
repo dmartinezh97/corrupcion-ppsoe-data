@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2018
 fechaInicio: '2017-08-25'
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Anulación contenciosa y nueva investigación penal
 descripcion: 'El asunto se refiere a la convocatoria de diez plazas de bombero-conductor de Melilla publicada en agosto
   de 2017 y a las pruebas celebradas en 2018. Cinco aspirantes cuestionaron la evaluación psicotécnica y de personalidad

@@ -3,6 +3,9 @@ nombre: Caso Samaniego
 partido: PP
 completado: false
 año: 2014
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas modificadas en casación; ejecución y reclamaciones posteriores pendientes de seguimiento
 descripcion: 'El caso se refiere a la adjudicación irregular de obras menores del Ayuntamiento de Valladolid
   a empresas vinculadas a Luis Alberto Samaniego, entonces jefe municipal de Mantenimiento, y a su entorno.

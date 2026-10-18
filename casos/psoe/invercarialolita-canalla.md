@@ -3,6 +3,9 @@ nombre: "Invercaria/Lolita Canalla"
 partido: PSOE
 completado: false
 año: 2009
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "absuelto"
 lugar: "Tarifa, Cádiz / Sevilla, Andalucía"
 descripcion: |

@@ -3,6 +3,9 @@ nombre: Caso Horas Extras de Rota
 partido: PP
 completado: false
 año: 2004
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: cerrado con condenas
 descripcion: El caso examinó contratos de confección y bordado encargados a un funcionario del Ayuntamiento de Rota
   entre 2004 y 2010, ocultados mediante facturas de su esposa y, desde 2007, pagos en nómina como horas extraordinarias.

@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2009
 fechaFin: ''
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución en 2019; recurso sobre costas desestimado por el Supremo en 2021
 descripcion: 'El caso de los Espías, también denominado Gestapillo en la prensa, investigó si personal de Seguridad
   de la Comunidad de Madrid había empleado medios públicos para vigilar a cargos del PP en 2008. El escrito de acusación de la Comunidad de Madrid atribuyó a los encausados vigilancias entre marzo y mayo de ese año. Las crónicas mencionan como supuestos afectados a Alfredo Prada y Manuel Cobo. Los seis acusados resultaron absueltos.

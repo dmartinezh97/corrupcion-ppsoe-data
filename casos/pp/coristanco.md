@@ -5,6 +5,9 @@ completado: false
 año: 2013
 fechaInicio: "2013-08-12"
 fechaFin: ""
+estadoPrincipal: Condenado
+recursoPendiente: Sin recurso pendiente
+firmeza: Firme
 estado: "sentencia firme"
 descripcion: |
   El caso Coristanco afecta al exalcalde del PP Antonio Pensado Plágaro, alcalde del municipio coruñés entre 1991 y 2015, y a los tres hermanos José Manuel, Francisco Javier y Juan Martínez Pena, administradores de las empresas del grupo Maracaná (Construcciones Martínez e Hijos S.L., Gesmaga S.L. y otras). El procedimiento se abrió a raíz de la querella de un empresario rival (julio de 2013) por el trato de favor en la concesión de licencias de plantas de compostaje y de la denuncia que la secretaria municipal presentó ante la Fiscalía Provincial de A Coruña el 12 de agosto de 2013 por presiones y por irregularidades en la contratación. La instrucción correspondió al Juzgado de Primera Instancia e Instrucción número 1 de Carballo y se dividió en tres bloques: contratación de obra pública (2009-2013), depósito de residuos de construcción en una finca y licencias para plantas de compostaje y tratamiento de lodos.

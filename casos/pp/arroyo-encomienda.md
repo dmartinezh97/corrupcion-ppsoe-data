@@ -3,6 +3,9 @@ nombre: Caso Arroyo Encomienda
 partido: PP
 completado: false
 año: 2006
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas firmes; ejecución pendiente de documentar
 descripcion: Causa por cohecho y prevaricación en operaciones urbanísticas de Arroyo de la Encomienda vinculadas
   al grupo Mahía. La Audiencia de Valladolid condenó a José Manuel Méndez Freijo, Ramón López Casal y Buenaventura

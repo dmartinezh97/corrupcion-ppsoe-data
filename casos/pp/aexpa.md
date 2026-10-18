@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2005
 fechaFin: ''
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'La operación Rewin investigó en Ourense la obtención presuntamente fraudulenta de subvenciones mediante
   la Asociación de Alumnos y Exalumnos del centro San Pablo (AEXPA). La Policía comenzó las pesquisas en 2015 y comunicó

@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2006
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Resoluciones distintas por piezas; Calp pendiente de nueva sentencia
 descripcion: 'El caso Brugal (acrónimo de "Basuras RUrales Gestión ALicante") es una macrocausa de corrupción iniciada
   en 2006 a partir de grabaciones del empresario Ángel Fenoll sobre la adjudicación del contrato de basuras de Orihuela.

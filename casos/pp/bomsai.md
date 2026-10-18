@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2010
 fechaInicio: "2010-04-13"
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: |-
   Bomsai investigó la contratación de Atlas Capital por CAIB Patrimoni para asesorar en proyectos de edificios públicos durante el Govern de Jaume Matas (PP). La investigación cuestionó el procedimiento negociado sin publicidad y los honorarios de éxito vinculados a las adjudicaciones. Las cifras publicadas sobre los pagos a la consultora oscilan entre unos 550.000 y 610.000 euros; representan remuneraciones investigadas, no un perjuicio patrimonial declarado. Las primeras detenciones se produjeron el 13 de abril de 2010 y afectaron a antiguos altos cargos, empresarios y responsables de la entidad pública.

@@ -5,6 +5,9 @@ completado: false
 año: 2007
 fechaInicio: '2007-12-28'
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: 'La operación Hulla investiga presuntas irregularidades en la adjudicación, construcción y financiación
   de la residencia La Minería del Montepío en Felechosa (Aller), así como operaciones patrimoniales y de blanqueo

@@ -2,6 +2,9 @@
 nombre: Gürtel/Caja B PP Valencia
 partido: PP
 completado: false
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sentencia firme
 descripcion: 'Las piezas valencianas 1, 2 y 6 de Gürtel juzgaron la financiación de las campañas autonómicas y municipales
   de 2007 y generales de 2008 del PPCV, la falsedad documental y los delitos tributarios relacionados con Orange

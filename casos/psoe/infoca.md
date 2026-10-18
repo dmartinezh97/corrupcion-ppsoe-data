@@ -3,6 +3,9 @@ nombre: 'Infoca: investigación andaluza del cártel del fuego'
 partido: PSOE
 completado: false
 año: 2015
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Archivo parcial para cinco funcionarios en 2022, según prensa; modalidad y firmeza pendientes de verificar"
 resumen: Investigación de la contratación aérea del Infoca; archivo para cinco funcionarios en 2022 y sentencia nacional
   distinta en 2025.

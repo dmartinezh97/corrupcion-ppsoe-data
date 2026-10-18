@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2014
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'La pieza 9 de Púnica investigó la financiación del PP madrileño y varias contrataciones públicas,
   pero su alcance se redujo tras archivos y prescripciones. El auto de 3 de abril de 2024 abrió juicio oral contra

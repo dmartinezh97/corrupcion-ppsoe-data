@@ -3,6 +3,9 @@ nombre: Plasenzuela
 partido: PSOE
 completado: false
 año: 2008
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sobreseimiento provisional referido en fuente secundaria; auto y fecha pendientes de verificación
 lugar: Plasenzuela, Cáceres, Extremadura
 descripcion: 'Investigación del Juzgado nº 2 de Trujillo sobre la gestión municipal de Plasenzuela. La información

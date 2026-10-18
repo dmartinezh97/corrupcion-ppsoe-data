@@ -3,6 +3,9 @@ nombre: CDEIB
 partido: PP
 completado: false
 año: 2008
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas de causa principal; derivada fiscal con prescripción comunicada en 2024
 descripcion: El caso Scala investigó contratos amañados, comisiones y desvíos de fondos del CDEIB durante la legislatura
   2003-2007. La Audiencia de Palma dictó la sentencia 73/2013 el 26 de julio, con condena de dieciséis años de prisión

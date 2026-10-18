@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2006
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'El caso de la Ciudad del Golf se refiere a un proyecto urbanístico sobre terrenos de alto valor ambiental
   en Las Navas del Marqués (Ávila), promovido por Residencial Aguas Nuevas S.L. (RAN). Las fuentes discrepan en

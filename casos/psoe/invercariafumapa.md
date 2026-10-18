@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2008
 fechaInicio: '2008-07-23'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas modificadas en casación el 22 de octubre de 2024; ejecución no verificada
 descripcion: 'Pieza de Invercaria sobre el préstamo participativo de 300.000 euros concedido a Fumapa, empresa
   de La Carolina (Jaén). El Consejo de Administración aprobó la operación el 1 de julio de 2008 y la póliza

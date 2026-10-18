@@ -3,6 +3,9 @@ nombre: Caso Facturas Baena
 partido: PSOE
 completado: false
 año: 2007
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas mantenidas según prensa de 2017; firmeza y ejecución pendientes
 descripcion: 'Facturas por trabajos y materiales inexistentes cargadas al Ayuntamiento de Baena entre 2005 y 2007. La
   prensa identificó tres condenados en 2016: dos empleados municipales y un empresario. En mayo de 2017 se informó de

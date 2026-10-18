@@ -3,6 +3,9 @@ nombre: Mercasevilla
 partido: PSOE
 completado: false
 año: 2009
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas y absoluciones
 descripcion: Mercasevilla comprende varios procedimientos con resultados diferentes. En el cohecho de la escuela
   de hostelería, la STS421/2014, de 16 de mayo, mantuvo para Fernando José Mellet Jiménez y Daniel Ponce Verdugo

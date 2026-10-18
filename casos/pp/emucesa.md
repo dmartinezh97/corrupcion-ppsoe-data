@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2018
 fechaFin: ""
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Conformidad en 2021; sentencia y ejecución referidas en 2023, originales pendientes"
 descripcion: |
   El caso Emucesa se refiere a la contratación de personal de alta dirección en la Empresa Municipal de Cementerio y Servicios Funerarios de Granada S.A. (Emucesa), sociedad íntegramente municipal hasta 2013 (después mixta, con el 51% del Ayuntamiento). Según los informes que originaron la causa, los contratos se firmaron entre 2005 y 2012 (la primera información publicada, de diciembre de 2017, sitúa el inicio ya en 2003); los consejeros delegados del PP Eduardo Moral García-Triviño (hasta 2011) y María Francés Barrientos (desde el relevo de 2011, según la prensa) firmaron contratos de alta dirección con personas afines al partido. Los informes señalan que, salvo una, las personas contratadas no consta que acudieran a la sede ni realizaran trabajo documentado; la causa se dirigió finalmente contra cinco de los contratados. Los contratos se referían a asesoramiento en relaciones institucionales, protocolo, medios de comunicación y proyectos, con retribuciones de entre 34.000 y 36.900 euros brutos anuales pagadas en 16 mensualidades. El informe jurídico de Emucesa cifró el coste de los contratos en unos 335.695 euros; otras fuentes hablan de siete contratos a seis personas y la Fiscalía reclamó después 309.831 euros de indemnización. Son cifras de conceptos distintos (coste de los contratos, indemnización solicitada, restitución acordada y prestaciones de desempleo) y no deben sumarse.

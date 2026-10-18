@@ -5,6 +5,9 @@ completado: false
 año: 2022
 fechaInicio: '2022-03-10'
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Parcial
 estado: activo
 descripcion: 'El caso Koldo comprende la investigación de contratos de mascarillas y otras actuaciones relacionadas
   con el exasesor ministerial Koldo García Izaguirre y el exministro José Luis Ábalos Meco. La querella fiscal de

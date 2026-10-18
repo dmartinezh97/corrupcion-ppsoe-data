@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2014
 fechaInicio: '2014-06-18'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: activo
 descripcion: 'Púnica es una macrocausa de la Audiencia Nacional, iniciada el 18 de junio de 2014 y dividida en piezas
   con personas y resultados distintos. La operación policial del 27 de octubre de 2014 detuvo a decenas de cargos

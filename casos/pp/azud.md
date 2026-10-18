@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2017
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: activo
 descripcion: 'Azud investiga presuntas comisiones, regalos y contratos simulados a cambio de adjudicaciones y decisiones
   urbanísticas en Valencia y otros municipios de la Comunitat Valenciana. La causa, abierta judicialmente en 2017,

@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2006
 fechaInicio: "2006-08-28"
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: |-
   El caso Arquitecto se refiere a la contratación laboral temporal de un arquitecto por la Ciudad Autónoma de Melilla cuando Miguel Marín Cobos (PP) era consejero de Administraciones Públicas. El dictamen 539/2012 del Consejo de Estado documenta un primer contrato de sustitución firmado el 28 de agosto de 2006, tras un proceso selectivo, la reincorporación del titular el 31 de mayo de 2007 y la continuación del sustituto hasta extinguirse su contrato de mutuo acuerdo el 31 de julio. El 1 de agosto de 2007 se dispuso una nueva contratación por vacante. El dictamen advierte que el expediente describe esa vacante unas veces por jubilación y otras por incapacidad permanente.

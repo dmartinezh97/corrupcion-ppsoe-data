@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2018
 fechaInicio: '2007-10-16'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena no firme
 descripcion: 'El Caso Cerrú se refiere a la contratación de la construcción del estadio municipal de Puertollano
   mediante una permuta de terrenos con Promociones Inmobiliarias del Pisuerga (Proinsa), vinculada a Teconsa. Según

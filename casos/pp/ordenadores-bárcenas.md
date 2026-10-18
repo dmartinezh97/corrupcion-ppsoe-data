@@ -5,6 +5,9 @@ completado: false
 año: 2013
 fechaInicio: '2013-08-16'
 fechaFin: '2020-07-13'
+estadoPrincipal: Absuelto
+recursoPendiente: Sin recurso pendiente
+firmeza: Firme
 estado: absolución firme
 descripcion: |-
   Esta causa se refiere al borrado y destrucción de los discos duros de dos portátiles usados por Luis Bárcenas en la sede del PP, no a las condenas de Gürtel, la caja B, la reforma de Génova o Kitchen. El resultado es la absolución firme del Partido Popular, Carmen Navarro, Alberto Durán y José Manuel Moreno. El PP fue acusado como persona jurídica exclusivamente por daños informáticos; el encubrimiento se imputaba a las tres personas físicas. Se corrige el estado heredado de sobreseimiento: hubo juicio y sentencia absolutoria.

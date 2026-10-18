@@ -3,6 +3,9 @@ nombre: "Subvención PP"
 partido: PP
 completado: false
 año: 2007
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Condena electoral de Areal y reintegro administrativo; evolución posterior del recurso no verificada"
 descripcion: |
   Fernando Areal, extesorero del PP balear, fue condenado por conformidad el 8 de octubre de 2015 por un delito electoral relacionado con pagos no contabilizados a Nimbus durante la campaña autonómica de 2007. Según Europa Press y Público, aceptó un año y medio de prisión y una multa de 15.000 euros por pagos en negro de 71.958 euros. La información de la vista recoge la suspensión de la pena de prisión.

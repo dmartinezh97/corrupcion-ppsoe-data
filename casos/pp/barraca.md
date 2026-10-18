@@ -3,6 +3,9 @@ nombre: Caso Barraca
 partido: PP
 completado: false
 año: 2007
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Instrucción por jurado documentada; evolución posterior no acreditada
 descripcion: 'Investigación por posibles incompatibilidades y negocios privados del antiguo jefe de Planeamiento
   urbanístico de Murcia, Joaquín Peñalver, y su entorno. La nota oficial del CGPJ de 29 de marzo de 2022 describe

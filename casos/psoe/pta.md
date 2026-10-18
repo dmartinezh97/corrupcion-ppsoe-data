@@ -1,4 +1,7 @@
 ---
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 "nombre": "Caso PTA"
 "partido": "PSOE"
 "completado": false

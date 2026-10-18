@@ -3,6 +3,9 @@ nombre: "Caso Atarfe"
 partido: PSOE
 completado: false
 año: 2012
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Procedimientos distintos: condena por contratación y absolución en Medina Elvira; revisión parcial"
 resumen: "Actuaciones municipales de Atarfe con resultados distintos: condena de Tomás Ruiz por contratación de personal, absolución en Medina Elvira y una condena urbanística inicial de Víctor Sánchez posteriormente anulada. Las deudas municipales no constituyen un daño penal agregado."
 descripcion: |

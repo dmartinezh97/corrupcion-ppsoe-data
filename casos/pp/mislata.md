@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2013
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: La investigación sobre pagos municipales por obras presuntamente no ejecutadas, facturas duplicadas
   y mobiliario urbano no localizado afectó a Vicente Enrique López Sinisterra, exconcejal de Obras y Servicios,

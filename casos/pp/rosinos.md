@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2011
 fechaInicio: '2005-11-22'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena por prevaricación y absolución confirmadas en apelación
 descripcion: 'Ángel Prada, alcalde de Rosinos de la Requejada y diputado provincial elegido por el PP, fue
   condenado por prevaricación administrativa a siete años de inhabilitación especial. La Audiencia Provincial

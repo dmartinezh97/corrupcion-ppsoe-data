@@ -3,6 +3,9 @@ nombre: Caso Chocrón
 partido: PP
 completado: false
 año: 2012
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: archivado
 descripcion: 'La investigación examinó la compra de ejemplares de Melilla y su Judaísmo durante la etapa de Simi
   Chocrón como consejera de Cultura y Festejos de Melilla. El diputado socialista Dionisio Muñoz denunció públicamente

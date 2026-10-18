@@ -5,6 +5,9 @@ completado: false
 año: 2006
 fechaInicio: '2006-05-04'
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: 'La investigación se refiere a la financiación pública del ERE de Europa Center, S.A., empresa del
   Hotel Cervantes de Torremolinos, autorizado el 4 de mayo de 2006. Deben distinguirse la vía penal, integrada en

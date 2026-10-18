@@ -2,6 +2,9 @@
 nombre: Suma Chiva
 partido: PP
 completado: false
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas de conformidad y una absolución en 2023
 descripcion: 'La causa se refiere a pagos del Ayuntamiento de Chiva a su empresa municipal Suma Chiva SA por servicios
   que, según la acusación, no se realizaron entre 2008 y 2012. El señalamiento oficial de septiembre de 2023 recogía

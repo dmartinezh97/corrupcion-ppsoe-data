@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2011
 fechaInicio: '2011-10-18'
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Resultado judicial no verificado
 descripcion: 'El caso Líber se refiere a una investigación sobre posibles irregularidades en la contratación y el urbanismo
   del Ayuntamiento de Aledo (Murcia), surgida como una derivación de la operación Biblioteca. El 18 octubre 2011 la UCO detuvo

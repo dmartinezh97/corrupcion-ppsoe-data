@@ -3,6 +3,9 @@ nombre: Caso Vela Mata
 partido: PP
 completado: false
 fechaFin: ''
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: En apelación
+firmeza: No firme
 estado: Sobreseimiento provisional de 2019 recurrido; resultado de la apelación no verificado
 descripcion: 'Investigación sobre presuntas irregularidades en las licencias, inspecciones y funcionamiento de la
   discoteca Vela Beach de La Mata, en Torrevieja. Hubo un archivo provisional en enero de 2016 y una posterior reapertura

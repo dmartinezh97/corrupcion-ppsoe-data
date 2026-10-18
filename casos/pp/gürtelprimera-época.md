@@ -3,6 +3,9 @@ nombre: Gürtel — Primera época
 partido: PP
 completado: false
 año: 2009
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas en casación; ejecución individual
 resumen: 'Primera pieza de Gürtel, principalmente hechos de 1999–2005: 29 condenados y responsabilidad civil del PP como partícipe
   a título lucrativo.'

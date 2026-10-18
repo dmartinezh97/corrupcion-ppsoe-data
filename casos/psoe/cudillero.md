@@ -1,4 +1,7 @@
 ---
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 "nombre": "Cudillero"
 "partido": "PSOE"
 "completado": false

@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2005
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas confirmadas en casación
 descripcion: 'La ficha reúne dos procedimientos sobre adjudicaciones de proyectos técnicos sin tramitar los expedientes de contratación exigidos en Torre Pacheco. En el primero, la Audiencia de Murcia condenó el 22 de julio de 2014 a Daniel García Madrid, José Saura Meroño y Santiago Meroño León a diez años de inhabilitación por prevaricación administrativa continuada. Francisco Cavas García recibió cinco años y seis meses y Miguel Pérez Martínez seis años y seis meses, ambos como cómplices, no como cooperadores necesarios. El Supremo desestimó los recursos el 1 de julio de 2015.
 

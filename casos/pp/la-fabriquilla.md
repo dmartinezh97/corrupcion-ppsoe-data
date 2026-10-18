@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2007
 fechaInicio: '2007-05-14'
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento
 descripcion: 'La investigación por presunta prevaricación se refería a la licencia municipal concedida el 14 de
   mayo de 2007 a Hortiagrícola para diez viviendas unifamiliares pareadas en la parcela 11 de la UE-109 de Roquetas

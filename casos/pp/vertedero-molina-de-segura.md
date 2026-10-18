@@ -3,6 +3,9 @@ nombre: Caso Vertedero de Molina de Segura
 partido: PP
 completado: false
 año: 2011
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Instrucción documentada en 2025
 lugar: Molina de Segura (Región de Murcia)
 descripcion: 'La causa examina una permuta de terrenos municipales por una finca privada destinada a una escombrera,

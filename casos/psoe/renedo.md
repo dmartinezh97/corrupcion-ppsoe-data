@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2023
 fechaInicio: "2023-01-13"
+estadoPrincipal: Resolución no penal
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Sanción administrativa comunicada; revisión documental pendiente"
 lugar: "Cantabria"
 descripcion: |

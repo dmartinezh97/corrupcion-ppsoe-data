@@ -3,6 +3,9 @@ nombre: Cursos de formación — CIOMijas
 partido: PSOE
 completado: false
 año: 2015
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Archivo referido en 2021; alcance no verificado
 lugar: Mijas (Málaga); investigación en Sevilla
 descripcion: 'La investigación sobre CIOMijas examinó el destino y la justificación de subvenciones para formación

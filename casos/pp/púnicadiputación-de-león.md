@@ -3,6 +3,9 @@ nombre: "Púnica/Diputación de León"
 partido: "PP"
 completado: false
 año: 2014
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Condenas por prevaricación y absoluciones confirmadas en casación el 16 de septiembre de 2026"
 descripcion: |
   La pieza separada 2 de Púnica en León examinó los contratos de publicidad institucional y los servicios de reputación online de Eico y Madiva relacionados con la Diputación. La Audiencia Nacional dictó sentencia el 29 de mayo de 2023 y el Supremo confirmó su resultado el 16 de septiembre de 2026. Las noticias se difundieron, respectivamente, el 30 de mayo de 2023 y el 24 de septiembre de 2026.

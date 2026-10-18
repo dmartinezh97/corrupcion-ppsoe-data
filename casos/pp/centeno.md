@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2006
 fechaInicio: '2006-07-13'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'El caso Centeno reúne dos procedimientos distintos: las decisiones de contratación del proyecto
   Meseta Ski, promovido por la sociedad pública Sodeva de la Diputación de Valladolid, y la investigación sobre

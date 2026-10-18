@@ -3,6 +3,9 @@ nombre: Caso Feval
 partido: PSOE
 completado: false
 año: 2013
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas y absolución en casación
 descripcion: 'El procedimiento examinó la gestión de fondos, el empleo de trabajadores en actividades privadas y
   varias contrataciones de la Institución Ferial de Extremadura (Feval). El exdirector José Luis Viñuela, exdiputado

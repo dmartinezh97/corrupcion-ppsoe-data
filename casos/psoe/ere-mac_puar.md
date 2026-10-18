@@ -3,6 +3,9 @@ nombre: ERE/Mac Puar-TAMC
 partido: PSOE
 completado: false
 año: 2018
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sobreseimientos individuales
 descripcion: 'Esta pieza de los ERE de Andalucía investigó las ayudas para las prejubilaciones e indemnizaciones
   de trabajadores de Tecnología Andaluza de Mecanizados y Componentes (TAMC), adquirida por el grupo Mac Puar. El

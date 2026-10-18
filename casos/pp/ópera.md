@@ -3,6 +3,9 @@ nombre: Caso Ópera
 partido: PP
 completado: false
 año: 2013
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Archivo confirmado según información de 2020
 descripcion: 'Investigación sobre posibles fraccionamientos e irregularidades en la contratación de distintas consejerías
   de Melilla. La memoria oficial de Fiscalía identifica Ópera como las diligencias 1315/2012 del Juzgado de Instrucción

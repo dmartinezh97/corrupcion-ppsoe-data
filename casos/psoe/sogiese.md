@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2018
 fechaInicio: "2016-03-17"
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Sobreseimiento libre comunicado en 2019; firmeza documental pendiente"
 descripcion: |
   La causa contra Juan José Sota, consejero socialista de Economía, Hacienda y Empleo de Cantabria, se refería a su presunta inacción para recuperar retribuciones cuestionadas en la sociedad pública SOGIESE. OlaCantabria denunció en septiembre de 2018 pagos supuestamente indebidos de 90.000 euros a cinco empleados entre 2012 y 2015. Sota declaró como investigado. Según la información de Europa Press publicada el 18 de enero de 2019, un auto de 14 de enero acordó el sobreseimiento libre porque los hechos no constituían delito. El 21 de enero se informó de que OlaCantabria no recurriría.

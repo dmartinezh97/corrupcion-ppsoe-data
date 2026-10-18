@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2018
 fechaInicio: '2018-03-21'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución y condenas
 descripcion: 'El caso se originó en las informaciones publicadas por elDiario.es el 21 de marzo de 2018 sobre el
   máster de Cristina Cifuentes en la Universidad Rey Juan Carlos, correspondiente al curso 2011–2012. La causa que

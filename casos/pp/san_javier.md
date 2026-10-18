@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2023
 fechaFin: ''
+estadoPrincipal: Resolución no penal
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: La adjudicación a FCC Aqualia del servicio de agua y alcantarillado de San Javier fue anulada por el
   TACRC el 14 de diciembre de 2023 por defectos del procedimiento, entre ellos la falta de autorización e identificación

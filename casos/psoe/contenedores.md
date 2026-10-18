@@ -3,6 +3,9 @@ nombre: Caso Contenedores de Carboneras
 partido: PSOE
 completado: false
 año: 2017
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Investigación documentada en 2017
 lugar: Carboneras, Almería
 descripcion: 'El Juzgado de Instrucción número 2 de Vera investigó las presuntas irregularidades en el abono de

@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2005
 fechaFin: ''
+estadoPrincipal: En juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: 'Pieza separada de los ERE de Andalucía sobre las ayudas de 1.531.300 euros destinadas a financiar
   indemnizaciones mediante seguros de rentas para el restaurante Río Grande de Sevilla en 2005. La acusación atribuye

@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2015
 fechaFin: ''
+estadoPrincipal: Pendiente de sentencia
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: visto para sentencia
 descripcion: 'La causa investiga presuntas presiones para que promotores de parques eólicos aceptaran socios locales
   elegidos desde la Consejería de Economía de Castilla y León, mediante el bloqueo o desbloqueo de autorizaciones.

@@ -5,7 +5,10 @@ completado: false
 año: 2024
 fechaInicio: 2024-01-01
 fechaFin: ""  # Dejar vacío si el caso sigue activo
-estado: "en investigación"  # Valores: activo, en investigación, cerrado con condenas, sobreseimiento, archivado, prescrito, pendiente de juicio
+estadoPrincipal: "Sin determinar"  # Una etiqueta del catálogo de CONTRIBUTING.md
+recursoPendiente: "Sin determinar"  # No deducir ausencia de recursos
+firmeza: "Sin determinar"  # No procede si aún no hay resolución que clasificar
+estado: "Detalle documentado de la fase o resolución, con sus límites y antecedentes"
 descripcion: |
   Descripción detallada del caso de corrupción. Esta sección debe explicar:
   - Qué ocurrió y cómo se descubrió
@@ -36,7 +39,7 @@ tags:
   - "prevaricación"
   # Otros: cohecho, tráfico de influencias, blanqueo de capitales, urbanismo, financiación ilegal, organización criminal
 impactoSocial: "Descripción del impacto que tuvo el caso en la sociedad: repercusión mediática, dimisiones, cambios legislativos, efecto electoral, etc."
-documentos: null
+documentos: []
 # Si hay documentos PDF, usar este formato:
 # documentos:
 #   - fecha: "2024-01-15"

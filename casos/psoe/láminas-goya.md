@@ -3,6 +3,9 @@ nombre: Caso Láminas de Goya
 partido: PSOE
 completado: false
 año: 2009
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: absuelta
 resumen: Josefa Cruz fue absuelta en 2022 por la compra y posterior desaparición de 80 facsímiles de Goya en Carboneras.
 descripcion: 'La investigación examinó la compra municipal de 80 facsímiles de Los Desastres de la Guerra por 3.250

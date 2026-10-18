@@ -3,6 +3,9 @@ nombre: Operación Tosca
 partido: PP
 completado: false
 año: 2015
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sobreseimientos por piezas
 descripcion: 'Tosca investigó posibles irregularidades en contratos públicos de Melilla y tuvo antecedentes en las pesquisas
   de Ópera. La actuación policial de febrero de 2015 afectó a cargos, funcionarios y empresarios. Las sospechas sobre fraccionamiento,

@@ -3,6 +3,9 @@ nombre: "Aplauso"
 partido: PP
 completado: false
 año: 2012
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Archivo penal informado en 2021; modalidad y firmeza pendientes de cotejo"
 descripcion: |
   La Operación Aplauso se refiere a la compra de la galería comercial y de ocio del Gandia Palace por la empresa municipal Iniciatives Públiques de Gandia (IPG), durante la alcaldía de Arturo Torró (PP). La prensa sitúa el contrato con Vipei en el 16 de enero de 2012, por 6,7 millones de euros, con compensación de una deuda tributaria. En diciembre de 2015 se informó de la citación como investigados de Torró y Javier Reig por presunta prevaricación. La investigación no equivale a una condena.

@@ -3,6 +3,9 @@ nombre: Caso Divalterra (Caso Alquería)
 partido: PSOE
 completado: false
 año: 2018
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Firme
 estado: Absolución firme
 descripcion: 'El caso Alquería examinó las contrataciones de alta dirección de Divalterra, antigua Imelsa, empresa
   pública dependiente de la Diputación de Valencia, entre 2015 y 2018. Las acusaciones atribuían a sus responsables

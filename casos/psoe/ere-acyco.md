@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2003
 fechaInicio: '2003-07-02'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas y absoluciones tras casación; nulidades resueltas y ejecución pendiente
 descripcion: 'La pieza Acyco de los ERE se refiere a las ayudas relacionadas con la reestructuración de Aceitunas
   y Conservas SAL, de Dos Hermanas. El acuerdo laboral es de 2 de julio de 2003; la solicitud del ERE se presentó

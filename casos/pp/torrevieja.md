@@ -3,6 +3,9 @@ nombre: Caso Torrevieja
 partido: PP
 completado: false
 año: 2007
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condena confirmada en casación
 descripcion: 'Pedro Ángel Hernández Mateo, alcalde de Torrevieja por el PP entre 1988 y 2011, fue condenado por
   falsedad en documento oficial y prevaricación continuada en la contratación municipal de recogida de residuos

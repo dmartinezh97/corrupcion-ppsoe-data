@@ -3,6 +3,9 @@ nombre: Cursos Formación/Formades
 partido: PSOE
 completado: false
 año: 2014
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas de primera instancia; recursos y ejecución pendientes de verificar
 descripcion: 'La pieza Formades examina la gestión de tres subvenciones de 2008, 2009 y 2010 concedidas al Consorcio
   Centro Andaluz de Formación Medioambiental para el Desarrollo Sostenible, ubicado en Almonte (Huelva). La sentencia

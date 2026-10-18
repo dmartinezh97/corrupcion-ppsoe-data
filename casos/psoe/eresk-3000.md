@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2008
 fechaInicio: '2008-06-30'
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Desenlace judicial no acreditado
 lugar: Andalucía
 resumen: Investigación de ayudas de 2008 a SK 3000 Aeronáutica y SK 10 Andalucía, con situaciones posteriores no documentadas.

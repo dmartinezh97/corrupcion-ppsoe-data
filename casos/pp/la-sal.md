@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2016
 fechaInicio: '2016-04-28'
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: pendiente de juicio
 descripcion: 'El caso La Sal examina presuntas irregularidades en la adquisición mediante arrendamiento y la financiación
   pública de la desaladora de Escombreras, en Cartagena. La Sal I comprende a antiguos responsables del Ente Público

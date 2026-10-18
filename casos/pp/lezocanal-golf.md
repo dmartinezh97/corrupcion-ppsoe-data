@@ -3,6 +3,9 @@ nombre: Lezo/Canal Golf
 partido: PP
 completado: false
 año: 2004
+estadoPrincipal: En juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: en juicio oral
 descripcion: 'La pieza 2 del caso Lezo examina dos contrataciones relacionadas con las instalaciones deportivas
   del tercer depósito del Canal de Isabel II, en Chamberí (Madrid). Según la acusación, Ignacio González e Ildefonso

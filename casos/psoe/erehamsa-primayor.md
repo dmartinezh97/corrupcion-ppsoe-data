@@ -3,6 +3,9 @@ nombre: ERE de Hamsa y Primayor
 partido: PSOE
 completado: false
 fechaFin: ''
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Pendiente de señalamiento a 7 de abril de 2026; evolución posterior no verificada
 descripcion: 'La pieza de ayudas sociolaborales a Hijos de Andrés Molina (Hamsa) y Primayor examina 19.966.869,95
   euros: al menos 7.788.390,93 euros para Hamsa y aproximadamente 12.178.479,02 para Primayor, según el auto reseñado

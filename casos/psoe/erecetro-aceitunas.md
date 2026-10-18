@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2009
 fechaFin: ''
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'La pieza de Cetro Aceitunas investiga las ayudas para un expediente de regulación de empleo de la
   empresa. Diario de Sevilla cifra en 358.015,18 euros las cantidades recibidas entre 2009 y 2010; se trata del

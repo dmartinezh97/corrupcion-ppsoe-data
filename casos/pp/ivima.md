@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2013
 fechaInicio: '2013-06-06'
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: venta anulada
 descripcion: 'En 2013 el IVIMA adjudicó la venta de 32 promociones, con 2.935 viviendas y otros inmuebles, a Azora
   Gestión por 201.000.007 euros sin IVA; la transmisión se formalizó con Encasa Cibeles. La nulidad de la operación

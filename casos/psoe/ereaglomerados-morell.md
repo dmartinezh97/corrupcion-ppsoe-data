@@ -3,6 +3,9 @@ nombre: ERE / Aglomerados Morell
 partido: PSOE
 completado: false
 año: 2008
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Condena contable no firme publicada
 lugar: Villanueva del Río y Minas, Sevilla, Andalucía
 resumen: 'Ayudas a Aglomerados Morell y pólizas de rentas: investigación penal y responsabilidad contable diferenciadas.'

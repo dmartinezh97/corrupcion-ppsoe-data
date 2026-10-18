@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2013
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: En casación
+firmeza: No firme
 estado: condenas recurridas ante el Tribunal Supremo
 descripcion: 'Proceso sobre irregularidades en el arrendamiento y compra del Edificio de Soluciones Empresariales
   de Arroyo de la Encomienda, conocido como Perla Negra, y en la adquisición de terrenos para el polígono de Portillo.

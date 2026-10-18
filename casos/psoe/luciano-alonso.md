@@ -3,6 +3,9 @@ nombre: Caso Luciano Alonso
 partido: PSOE
 completado: false
 año: 2016
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: absolución
 descripcion: Luciano Alonso Alonso, exconsejero de la Junta de Andalucía, fue juzgado por los nombramientos de personal
   eventual del Centro Andaluz de Documentación del Flamenco y la Filmoteca de Andalucía, que desempeñaba otras funciones

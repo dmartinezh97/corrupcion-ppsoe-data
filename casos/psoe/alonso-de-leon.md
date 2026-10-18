@@ -3,6 +3,9 @@ nombre: Caso Alonso de León
 partido: PSOE
 completado: false
 año: 2012
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena confirmada en apelación; revisión documental pendiente
 lugar: Camariñas, A Coruña, Galicia
 descripcion: Manuel Valeriano Alonso de León, alcalde de Camariñas por el PSOE, fue condenado a cuatro años

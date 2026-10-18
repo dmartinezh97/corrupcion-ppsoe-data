@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2025
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 resumen: Presuntas irregularidades en una oposición municipal de Arcos de la Frontera y un supuesto intercambio
   de empleo por votos; continuación por procedimiento abreviado comunicada en 2025, sin desenlace individual verificado.

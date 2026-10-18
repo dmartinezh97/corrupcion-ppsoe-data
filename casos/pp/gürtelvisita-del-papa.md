@@ -3,6 +3,9 @@ nombre: Gürtel / Visita del Papa
 partido: PP
 completado: false
 año: 2005
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: cerrado con condenas
 descripcion: La pieza examinó la adjudicación de RTVV a Teconsa del suministro de pantallas, sonido y megafonía
   para el encuentro de las familias de julio de 2006 en Valencia. El contrato ascendió a 7.493.600 euros con IVA

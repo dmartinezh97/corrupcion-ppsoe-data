@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2013
 fechaInicio: "2013-08-14"
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "condenas y absoluciones"
 descripcion: |
   Procedimiento sobre irregularidades en las obras de la Plataforma Logística de Zaragoza. La sentencia principal 155/2019, dictada el 6 de mayo de 2019 y difundida judicialmente el día 10, recoge absoluciones y condenas, varias por conformidad. No existe un resultado único aplicable a todos los acusados ni a las distintas piezas de Plaza.

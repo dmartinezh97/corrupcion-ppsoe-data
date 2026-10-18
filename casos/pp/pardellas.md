@@ -5,6 +5,9 @@ completado: false
 año: 2004
 fechaInicio: '2004-10-07'
 fechaFin: ''
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condena por prevaricación en apelación, descrita como firme por la prensa; ejecución no cotejada
 descripcion: 'Manuel Alberto Pardellas Álvarez, alcalde de Melón por el PP, autorizó las obras de un pabellón deportivo
   en el entorno protegido del monasterio de Santa María de Melón, sin las autorizaciones autonómicas exigidas. La

@@ -3,6 +3,9 @@ nombre: Caso Tomé
 partido: PSOE
 completado: false
 año: 2025
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: En instrucción
 descripcion: 'Investigación penal contra José Tomé Roca, alcalde de Monforte de Lemos y expresidente de la Diputación
   de Lugo, a raíz de una denuncia por presuntos hechos de carácter sexual. La Fiscalía anunció el 2 de marzo de

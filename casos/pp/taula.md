@@ -3,6 +3,9 @@ nombre: Caso Taula
 partido: PP
 completado: false
 año: 2016
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas, absoluciones y archivos por piezas
 descripcion: 'Taula o Imelsa reúne investigaciones separadas sobre contratación pública, empleados que cobraban sin realizar
   el trabajo contratado y financiación del PP valenciano. Su origen se sitúa en la denuncia de Esquerra Unida de julio de

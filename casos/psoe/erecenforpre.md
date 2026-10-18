@@ -5,6 +5,9 @@ completado: false
 año: 2007
 fechaInicio: '2007-08-01'
 fechaFin: ''
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución en 2025; firmeza y reintegro pendientes de verificar
 descripcion: 'La pieza Cenforpre de los ERE de Andalucía examinó el pago mediante pólizas de seguros de cursos de
   prevención de riesgos laborales efectivamente impartidos por Centros para la Formación y Prevención Laboral. La

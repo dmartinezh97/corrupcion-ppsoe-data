@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2010
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: procedimiento abreviado
 descripcion: 'La pieza se refiere a cuatro expedientes de subvenciones del Servicio Andaluz de Empleo a Aulacen
   Cinco SL, administrada por la esposa del exvicesecretario general del PSOE-A Rafael Velasco Sierra. Las ayudas

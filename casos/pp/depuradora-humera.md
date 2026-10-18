@@ -4,6 +4,9 @@ partido: "PP"
 completado: false
 año: 2017
 fechaFin: ""
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "desconocido"
 descripcion: |
   El "caso de la depuradora de Húmera" se refiere a la investigación abierta por el Juzgado de Primera Instancia e Instrucción nº 1 de Pozuelo de Alarcón a raíz de una denuncia vecinal por los malos olores y los vertidos de la Estación Depuradora de Aguas Residuales (EDAR) del barrio de Húmera, en Pozuelo de Alarcón (Madrid). Las diligencias se incoaron en junio de 2017, fecha conocida solo por mes y año, sin que conste el día exacto. La denuncia se refería al posible funcionamiento insuficiente de la instalación y a sus vertidos, sin que se haya recuperado una resolución que declare responsabilidad penal por esos hechos. La reforma de 2006 y la falta de autorizaciones ambientales fueron objeto de las informaciones y denuncias de la época; no se presentan como infracciones acreditadas por una sentencia. Jesús Sepúlveda no figura en la relación del fragmento dispositivo consultado y no consta que este asunto se derive del caso Gürtel.

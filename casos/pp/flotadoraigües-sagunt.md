@@ -3,6 +3,9 @@ nombre: Flotador/Aigües Sagunt
 partido: PP
 completado: false
 año: 2016
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento
 descripcion: 'Investigación sobre la selección de Aguas de Valencia como socio privado de Aigües de Sagunt, sociedad
   mixta municipal constituida en 2009. En febrero de 2020 se publicó el archivo de la causa del agua: la instructora

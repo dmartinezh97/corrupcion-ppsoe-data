@@ -3,6 +3,9 @@ nombre: Caso RTVV
 partido: PP
 completado: false
 año: 2014
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución en gestión y condenas en causas separadas
 descripcion: 'El denominado caso RTVV reúne procedimientos distintos que no comparten un único desenlace. La denuncia
   de 2014 sobre la gestión económica y patrimonial del ente derivó finalmente en el juicio a José López Jaraba por

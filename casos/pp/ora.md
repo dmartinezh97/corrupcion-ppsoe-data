@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2016
 fechaFin: ''
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sobreseimiento libre para Álvaro Gijón y su familia conocido en julio de 2021; alcance posterior de los
   demás investigados pendiente de cotejo
 descripcion: 'El caso ORA investigó sospechas de amaño y cobro de comisiones en la adjudicación del servicio de

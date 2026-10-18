@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 1995
 fechaInicio: '1995-04-07'
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absoluciones; cohecho prescrito
 descripcion: 'La causa penal examinó la concesión del túnel de Sóller y la entrega de 50 millones de pesetas por
   su adjudicatario, Antoni Cuart, con fondos destinados a pagos del PP balear. Gabriel Cañellas y José Antonio Berastáin

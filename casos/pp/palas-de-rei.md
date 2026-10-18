@@ -5,6 +5,9 @@ completado: false
 año: 2014
 fechaInicio: '2007-12-05'
 fechaFin: '2018-12-21'
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: absuelto
 descripcion: 'Proceso por presunto acoso laboral y prevaricación en el Ayuntamiento de Palas de Rei (Lugo), a raíz
   del conflicto con la secretaria-interventora Celia González Vázquez. La Audiencia Provincial de Lugo condenó en

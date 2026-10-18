@@ -3,6 +3,9 @@ nombre: Caso Cooperación — pieza 1
 partido: PP
 completado: false
 año: 2008
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas en ejecución económica
 resumen: 'Ayudas de 2008 a Cyes para dos proyectos en Nicaragua: siete condenas y dos absoluciones en casación; recuperación
   de activos de Miami comunicada en 2026.'

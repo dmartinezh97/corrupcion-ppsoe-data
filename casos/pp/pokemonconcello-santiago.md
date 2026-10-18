@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2012
 fechaFin: ''
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento
 descripcion: 'La rama compostelana de Pokémon investigó posibles irregularidades en contratos, contratación de personal,
   retirada de multas y financiación del PP. La pieza general sobre el Concello fue sobreseída provisionalmente en

@@ -3,6 +3,9 @@ nombre: Caso Santa Cruz de Paniagua
 partido: PSOE
 completado: false
 año: 2014
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena confirmada en casación
 descripcion: El exalcalde socialista Ángel Cervigón Mota fue condenado por prevaricación continuada en contrataciones
   municipales de familiares y allegados, incluida su empresa de autobuses. La Audiencia de Cáceres dictó la sentencia

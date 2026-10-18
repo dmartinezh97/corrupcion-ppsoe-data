@@ -1,4 +1,7 @@
 ---
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 "nombre": "J. Pérez/Oria"
 "partido": "PSOE"
 "completado": false

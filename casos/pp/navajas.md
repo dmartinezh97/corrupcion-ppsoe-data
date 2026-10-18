@@ -5,6 +5,9 @@ completado: false
 año: 2014
 fechaInicio: '2014-11-14'
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Juicio y sentencia de 2023 anulados; retroacción de la instrucción acordada en enero de 2024
 descripcion: 'La ficha reúne actuaciones sobre la gestión económica del Ayuntamiento de Navajas (Castellón) durante
   gobiernos del PP. Deben distinguirse la denuncia sobre las cuentas de 2006, las diligencias penales de 2016 relativas

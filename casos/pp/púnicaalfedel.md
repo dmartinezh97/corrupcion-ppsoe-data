@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2014
 fechaInicio: '2014-06-18'
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: En instrucción según información de 2026
 descripcion: 'La pieza 11 de Púnica investiga presuntas irregularidades en la promoción de cooperativas de profesores
   y colegios concertados mediante Alfedel. El auto de 2 de septiembre de 2019 del Juzgado Central de Instrucción nº 6

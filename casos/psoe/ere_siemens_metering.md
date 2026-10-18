@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2002
 fechaInicio: '2002-03-26'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Dos absoluciones y tres exclusiones previas al juicio
 lugar: Sevilla, Andalucía
 descripcion: 'Esta pieza de los ERE examinó la ayuda de 1.524.718,97 euros de la Junta de Andalucía para financiar

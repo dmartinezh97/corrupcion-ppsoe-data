@@ -5,6 +5,9 @@ completado: false
 año: 2007
 fechaInicio: '2007-05-07'
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas y absoluciones en dos piezas; firmeza de la sentencia de 2012 acreditada
 descripcion: La operación Tótem investigó comisiones y otras irregularidades municipales en Totana. La pieza del
   exalcalde y exdiputado Juan Morales terminó con una sentencia de conformidad del TSJ de Murcia de 1 de marzo de

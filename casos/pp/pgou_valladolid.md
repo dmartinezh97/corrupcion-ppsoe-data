@@ -5,6 +5,9 @@ completado: false
 año: 2008
 fechaInicio: '2003-03-07'
 fechaFin: '2022-02-10'
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas confirmadas en casación para dos recurrentes
 descripcion: 'Proceso por la alteración consciente de planos y normas del PGOU de Valladolid durante su tramitación
   y publicación en 2003-2004. La Audiencia Provincial declaró que las modificaciones no correspondían a lo aprobado

@@ -3,6 +3,9 @@ nombre: "Caso Góngora"
 partido: "PP"
 completado: false
 año: 2011
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Absolución penal en 2021; responsabilidad civil de Góngora retirada en casación en 2024"
 descripcion: |
   Francisco Góngora Cara, alcalde de El Ejido por el PP durante el proceso, fue absuelto por la Audiencia Provincial de Almería de las acusaciones relacionadas con la compraventa de terrenos de la sociedad familiar Agrícola Euro Alpujarra. La sentencia de instancia es del 30 de septiembre de 2021, aunque la noticia de su absolución se publicó el 19 de octubre. No se acreditó su concierto con quienes realizaron las operaciones defraudatorias.

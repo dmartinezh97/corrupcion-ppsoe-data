@@ -3,6 +3,9 @@ nombre: Plaza/Kartódromo
 partido: PSOE
 completado: false
 año: 2004
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución de los tres acusados; firmeza pendiente de verificar
 descripcion: Procedimiento por la compra de los terrenos del antiguo kartódromo de Zaragoza por Plaza en 2004. La instrucción
   examinó una presunta comisión de 661.110 euros y una discrepancia sobre el valor del inmueble. El jurado declaró no culpables

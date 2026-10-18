@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2007
 fechaInicio: "2007-02-26"
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "absuelto"
 lugar: "Sevilla / Cádiz, Andalucía"
 descripcion: |

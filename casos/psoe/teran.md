@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 1998
 fechaInicio: "1998-07-07"
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "condenas por conformidad"
 lugar: Sanlúcar de Barrameda, Cádiz, Andalucía
 descripcion: |

@@ -3,6 +3,9 @@ nombre: Caso Faycán
 partido: PP
 completado: false
 año: 2006
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: cerrado con condenas
 descripcion: Trama de comisiones en la contratación del Ayuntamiento de Telde durante el gobierno PP-Ciuca de 2003-2007.
   La causa principal desembocó en 21 condenas tras confesiones y siete absoluciones en 2018, entre ellas las de

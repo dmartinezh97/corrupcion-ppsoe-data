@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2013
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: En apelación
+firmeza: Sin determinar
 estado: condenas penales confirmadas; indemnización recurrida
 descripcion: 'El caso Serrallo juzgó las licencias concedidas para una sala de fiestas en terrenos destinados a parque infantil junto al centro comercial Serrallo Plaza. La Audiencia de Granada condenó en julio de 2020 a Isabel Nieto, Emilio Martín Herrera y Roberto García Arrabal por prevaricación administrativa común, y absolvió al exalcalde José Torres Hurtado y a los demás acusados en los términos del fallo.
 

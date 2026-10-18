@@ -5,6 +5,9 @@ completado: false
 año: 2008
 fechaInicio: '2008-03-26'
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas y absoluciones; casación de Rodríguez López desestimada en 2018
 descripcion: La contratación fraccionada de servicios de desratización y desinfección de Castro Urdiales dio lugar
   a condenas por prevaricación continuada de Elisa Dopico y José Miguel Rodríguez López, y por cohecho de Dopico.

@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2018
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: En apelación
+firmeza: No procede
 estado: activo
 descripcion: El Juzgado de Instrucción nº 2 de Tarragona investiga si empresas, principalmente gasistas, pagaron
   a Equipo Económico para obtener reformas fiscales favorables mediante sus contactos con el Ministerio de Hacienda

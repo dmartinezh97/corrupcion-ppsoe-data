@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2005
 fechaFin: ""
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "absolución por el Tribunal Supremo"
 descripcion: |
   La causa examinó el convenio urbanístico de 22 de agosto de 2005 entre el Ayuntamiento de Gójar (Granada) y Cavifer, vinculada a un hermano del entonces alcalde del PP Francisco Javier Maldonado Escobar, y la licencia para construir dos edificios de viviendas, locales y aparcamientos. La Fiscalía sostuvo que se había favorecido a la promotora; esas imputaciones no se presentan como delitos finalmente acreditados.

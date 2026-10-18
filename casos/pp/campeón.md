@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2011
 fechaInicio: "2017-11-20"
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Condenas en 2017 y casación desestimada según noticia de 2019; ejecución y piezas separadas pendientes"
 descripcion: |
   La causa principal de Campeón investigó la obtención fraudulenta de financiación pública por Laboratorios Nupel y las gestiones de cargos públicos vinculados al Igape. La Audiencia Provincial de Lugo dictó la sentencia 199/2017, de 20 de noviembre, que recogió conformidades y condenó también al acusado que mantuvo su defensa en juicio. La nota judicial atribuye a Jorge Dorribo cinco años y once meses de prisión. Pablo Cobián fue condenado por tráfico de influencias, y los exdirectivos Joaquín Varela de Limia y Carlos Silva por negociaciones prohibidas a funcionarios. También hubo una absolución; no se atribuye condena a todos los investigados.

@@ -5,6 +5,9 @@ completado: false
 año: 2007
 fechaInicio: '2007-10-23'
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: absoluciones y condena en causa distinta; revisión parcial
 resumen: Investigaciones municipales con absolución de Antonio Díaz por el Supremo en 2018 y de cuatro acusados por las facturas en 2019; piezas y recursos pendientes de revisión completa.
 descripcion: 'La operación Brisán investigó posibles irregularidades municipales en Santa Brígida y fue dividida en varias piezas. Las detenciones de Carmelo Vega, Antonio Díaz, Luis Troya y técnicos municipales se publicaron el 23 de octubre de 2007, no el día 25. En la pieza de suministros de ferretería, cuatro acusados fueron absueltos en 2019: la noticia del 4 de octubre advertía que aún cabía casación. No se acreditaron las facturas falsas ni los suministros ficticios atribuidos por la Fiscalía.

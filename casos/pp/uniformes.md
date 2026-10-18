@@ -3,6 +3,9 @@ nombre: Caso Uniformes
 partido: PP
 completado: false
 año: 2014
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: cerrado con condenas
 descripcion: 'El caso Uniformes de Rota se refiere a la adjudicación de suministros municipales a empresas vinculadas
   a responsables políticos. La Sección Cuarta de la Audiencia Provincial de Cádiz condenó a ocho de veinte acusados

@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2007
 fechaInicio: "2007-01-26"
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "condenado"
 descripcion: |
   Procedimiento por la aprobación de la urbanización El Tomillar junto al arroyo El Carrascal, en Miraflores de la Sierra. Las noticias de septiembre de 2014 informaron de la condena del exalcalde socialista José Esteban Esteban a nueve años de inhabilitación por prevaricación administrativa continuada. Europa Press recogió también la atenuante de reparación del daño.

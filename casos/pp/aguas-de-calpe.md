@@ -3,6 +3,9 @@ nombre: Aguas de Calpe
 partido: PP
 completado: false
 año: 2004
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena no firme
 descripcion: |-
   La Audiencia de Alicante dictó el 30 de septiembre de 2026 una sentencia que condena a cinco personas por la subcontratación de las obras de renovación de la red de agua de Calp. Juan Roselló, Francisco Zorrilla y José Alberto Mut reciben once meses de prisión y cinco años de inhabilitación por prevaricación en concurso con fraude; Francisco Artacho, once meses y cinco años por fraude; y Jesús Lara Santamaría, siete meses y cuatro años por fraude. El fallo absuelve de estafa a los cinco condenados. La sentencia admite casación y no se acredita aquí su firmeza ni la presentación de recursos.

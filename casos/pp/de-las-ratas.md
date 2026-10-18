@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2005
 fechaInicio: '2010-06-22'
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas de conformidad en 2012; ejecución individual pendiente
 descripcion: La causa del solar de Ses Rates, en Ciutadella, dio lugar a condenas en 2012, no en octubre de 2018.
   Llorenç Casasnovas, exconcejal de Urbanismo y expresidente del Partit Menorquí (PMQ), fue condenado a un año de

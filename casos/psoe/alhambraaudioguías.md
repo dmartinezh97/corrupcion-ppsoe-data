@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2015
 fechaInicio: '2007-09-03'
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución penal y responsabilidad contable
 descripcion: 'El procedimiento penal examinó la adjudicación y gestión del servicio de audioguías del Patronato
   de la Alhambra y Generalife a GTP Museum Solutions, posteriormente Stendhal Museum Solutions. La Audiencia Provincial

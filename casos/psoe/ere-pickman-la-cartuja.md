@@ -5,6 +5,9 @@ completado: false
 año: 2003
 fechaInicio: '2003-05-27'
 fechaFin: ''
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'La pieza del ERE de Pickman La Cartuja investigó las ayudas concedidas a la empresa entre 2003 y 2010.
   Según el escrito de Anticorrupción de noviembre de 2018, se concedieron 11.421.933,37 euros y se pagaron 8.868.914,09

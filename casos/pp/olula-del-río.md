@@ -3,6 +3,9 @@ nombre: Olula del Río
 partido: PP
 completado: false
 año: 2017
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: archivos parciales
 resumen: Investigaciones sobre rotonda, eficiencia energética y arrendamiento del Pinatar, con archivos documentados;
   denuncia distinta sobre una pizzería en 2024.

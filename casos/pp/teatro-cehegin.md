@@ -3,6 +3,9 @@ nombre: Caso Teatro de Cehegín
 partido: PP
 completado: false
 año: 2016
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Desenlace judicial no documentado
 descripcion: 'La investigación sobre el Teatro Polivalente de Cehegín se centró en la contratación del proyecto arquitectónico
   y en el destino de la financiación de una obra que quedó inacabada. Las noticias recogieron dudas de Fiscalía sobre el procedimiento

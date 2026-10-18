@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2016
 fechaInicio: '2016-04-08'
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sobreseimiento provisional
 descripcion: 'La investigación penal examinó los acuerdos de 2013 entre Mercamadrid y Merca Ocio Hoteles 22 sobre
   derechos de superficie y alquiler de dos salas. La denuncia municipal de abril de 2016 fue seguida por una denuncia

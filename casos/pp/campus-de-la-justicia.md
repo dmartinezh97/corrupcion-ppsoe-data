@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2005
 fechaFin: ""
+estadoPrincipal: Resultados mixtos
+recursoPendiente: En casación
+firmeza: No firme
 estado: "desconocido"
 descripcion: |
   El Campus de la Justicia (también llamado Ciudad de la Justicia) fue un proyecto de la Comunidad de Madrid impulsado durante el primer mandato de Esperanza Aguirre (PP) para concentrar en Valdebebas las sedes judiciales de la región, excepto las de jurisdicción nacional. La sociedad pública Campus de la Justicia de Madrid S.A. se constituyó el 12 de enero de 2005 según el informe de fiscalización de la Cámara de Cuentas de Madrid (ejercicios 2005 a 2015), con la Comunidad como único accionista, y estuvo vinculada a la administración autonómica bajo la presidencia de Alfredo Prada, vicepresidente segundo y consejero de Justicia e Interior durante el Gobierno de Aguirre. Se omiten aquí los recuentos de edificios y presupuestos iniciales difundidos en prensa porque no se ha cotejado el informe original de viabilidad que permitiría precisarlos.

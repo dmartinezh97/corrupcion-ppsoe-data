@@ -3,6 +3,9 @@ nombre: Caso Gondomar
 partido: PP
 completado: false
 año: 2007
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas en causas diferenciadas
 resumen: Procedimientos distintos por licencias urbanísticas y por petición de comisiones a promotores en Gondomar, con condenas
   y una absolución en la causa de cohecho.

@@ -3,6 +3,9 @@ nombre: Caldelas
 partido: PP
 completado: false
 año: 2017
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena confirmada en apelación según información de 2018
 descripcion: 'La exdiputada del PP gallego María José Caldelas fue condenada por dos falsedades en documentos presentados
   para la gestión de un pub en Ourense. La condena del Juzgado de lo Penal número 1 se comunicó el 30 de octubre

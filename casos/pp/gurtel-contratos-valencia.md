@@ -15,6 +15,9 @@ fechaInicio: '2013-02-04'
 año: 2004
 fechaFin: ''
 lugar: Comunitat Valenciana
+estadoPrincipal: Resultados mixtos
+recursoPendiente: En casación
+firmeza: No firme
 estado: activo
 tribunal:
   - Tribunal Superior de Justicia de la Comunitat Valenciana (instrucción inicial de la pieza)

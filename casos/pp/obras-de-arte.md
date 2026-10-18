@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2015
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena en la pieza de promoción del hijo y absolución en la de Rueda; seguimiento pendiente
 descripcion: |-
   Esta ficha recoge dos resultados diferentes de la investigación sobre la gestión del Institut Valencià d’Art Modern (IVAM) por Consuelo Císcar. En la pieza sobre promoción artística de su hijo hubo una condena de conformidad en julio de 2021; en la de adquisiciones de Gerardo Rueda fueron absueltos los tres acusados en diciembre de 2021. No se presentan las compras de Rueda como fraude o sobreprecio probado. Císcar dirigió el museo entre 2004 y 2014, no hasta 2015: el informe de gestión del propio IVAM sitúa su cese el 29 de abril de 2014. No se atribuye su nombramiento de 2004 al Gobierno de Zaplana sin revalidación documental.

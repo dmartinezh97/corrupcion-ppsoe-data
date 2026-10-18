@@ -3,6 +3,9 @@ nombre: Caso Limusa
 partido: PSOE
 completado: false
 año: 2009
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas en la causa principal; otras piezas pendientes de verificar
 descripcion: |-
   Procedimiento sobre la gestión de Limpieza Municipal de Lorca S.A. La sentencia del TSJ de Murcia de 26 de septiembre de 2011 condenó a Francisco Gil Eguino, mientras que Miguel Navarro resultó absuelto según la prensa. La STS 784/2012, de 5 de octubre, desestimó la casación examinada. No se presenta julio de 2014 como ratificación ni cierre de todo el caso.

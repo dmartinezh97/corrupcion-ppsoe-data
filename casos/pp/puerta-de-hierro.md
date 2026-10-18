@@ -5,6 +5,9 @@ completado: false
 año: 2020
 fechaInicio: '2005-04-18'
 fechaFin: '2026-04-16'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento provisional y absolución en vías penales; sentencia contenciosa recurrible
 descripcion: 'El Hospital Puerta de Hierro de Majadahonda fue objeto de procedimientos distintos: la investigación
   penal sobre la supresión de 135 camas y la modificación de su contrato, el proceso municipal por el funcionamiento

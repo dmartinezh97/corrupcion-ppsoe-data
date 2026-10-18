@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2015
 fechaInicio: '2015-06-15'
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: archivo provisional comunicado en 2017; evolución posterior pendiente de verificar
 lugar: Punta Umbría y Aljaraque, Huelva, Andalucía
 descripcion: Esta ficha se refiere a la investigación de ayudas de formación de la empresa El Paraíso de la Dehesa,

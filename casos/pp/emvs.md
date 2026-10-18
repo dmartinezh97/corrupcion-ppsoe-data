@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2013
 fechaFin: ""
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "desconocido"
 descripcion: |
   El Caso EMVS se refiere a la venta de 1.860 viviendas de protección pública —junto con 1.797 plazas de garaje, 1.569 trasteros y 89 inmuebles no vinculados, 5.315 inmuebles en total— de la Empresa Municipal de la Vivienda y Suelo (EMVS) del Ayuntamiento de Madrid a sociedades del fondo Blackstone (Fidere Gestión y Fidere Vivienda), acordada bajo el mandato de la alcaldesa Ana Botella (PP). El anuncio público de la enajenación se publicó el 3 de mayo de 2013 (ofertando 1.862 viviendas como un todo unitario) y la escritura pública de compraventa se formalizó el 31 de octubre de 2013 por 128,5 millones de euros. La Cámara de Cuentas de la Comunidad de Madrid cifró el valor máximo de venta de las 18 promociones como viviendas protegidas en 151.211.518 euros y su valor neto contable en 159.375.025 euros. La sentencia 11/2018 describe dos facturas de la UTE Itaca Desarrollos Urbanos-Promociones y Desarrollos Creaziona, de 1.196.387,50 euros cada una (10-12-2013 y 31-01-2014), que suman 2.392.775 euros; el informe de la Cámara de Cuentas consigna, en cambio, 2.397.775 euros como importe global. No se han recuperado las facturas originales para conciliar esta discrepancia. La sentencia 11/2018 no consideró acreditada la intervención de la UTE, ya que Blackstone trató directamente con la EMVS.

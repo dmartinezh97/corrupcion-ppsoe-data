@@ -3,6 +3,9 @@ nombre: Patos/Fornelos
 partido: PP
 completado: false
 fechaFin: ''
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: archivo referido por una fuente secundaria; auto y recursos pendientes de cotejo
 descripcion: 'La denominación Patos/Fornelos se refiere a una pieza sobre obras dependientes de la Diputación de
   Pontevedra en Fornelos de Montes y Bembrive (Vigo), según la referencia documental heredada. La revisión ha detectado

@@ -5,6 +5,9 @@ completado: false
 año: 2014
 fechaInicio: '2014-02-18'
 fechaFin: ''
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Pieza de obras terminada por conformidad según la prensa; fallo y ejecución pendientes de cotejo
 descripcion: 'La pieza de Nigrán de la operación Patos investigó posibles irregularidades en adjudicaciones de obras
   municipales. José Álvarez Valverde, concejal de Vías y Obras por el PP hasta su cese y renuncia en febrero de

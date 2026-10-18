@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2012
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condena fiscal en apelación y archivos de otras piezas
 descripcion: 'Gerardo Conde Roa, alcalde del PP de Santiago de Compostela en 2011-2012, fue condenado por el impago
   del IVA de 61 viviendas vendidas en 2010 por Geslander, promotora de la que era administrador. La querella fiscal

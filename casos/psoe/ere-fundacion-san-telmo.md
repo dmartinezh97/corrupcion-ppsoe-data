@@ -1,4 +1,7 @@
 ---
+estadoPrincipal: Resolución no penal
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 "nombre": "ERE/Fundación San Telmo"
 "partido": "PSOE"
 "completado": false

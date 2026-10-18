@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 1999
 fechaFin: '2021-10-14'
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: absueltos
 descripcion: 'El caso Ceivam examinó ayudas europeas Leader II para una planta de tratamiento de biomasa promovida
   por Actuar y cinco talleres artesanales en Arnoia (Ourense). Rogelio Martínez presidía el grupo de acción local;

@@ -3,6 +3,9 @@ nombre: Caso Monroy
 partido: PP
 completado: false
 año: 2012
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 resumen: Investigación publicada en 2017 sobre un préstamo de 400.000 euros de la Mancomunidad Riberos del Tajo.
 descripcion: En junio de 2017 se informó de una investigación a Amparo Monroy y al secretario de la Mancomunidad

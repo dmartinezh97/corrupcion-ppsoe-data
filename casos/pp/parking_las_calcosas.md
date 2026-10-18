@@ -3,6 +3,9 @@ nombre: Caso Parking Las Calcosas
 partido: PP
 completado: false
 año: 1999
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas confirmadas en casación
 descripcion: 'Compra municipal de una parcela de 5.000 metros cuadrados en el Pozo de Las Calcosas, Valverde, para
   aparcamientos y equipamientos. El TSJC condenó en enero de 2013 a Agustín Padrón Benítez, alcalde y diputado autonómico

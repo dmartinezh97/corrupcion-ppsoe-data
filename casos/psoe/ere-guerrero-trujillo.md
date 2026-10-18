@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2003
 fechaInicio: '2003-10-10'
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas de la Audiencia de Sevilla de 2024; recursos y ejecución pendientes de verificar
 descripcion: 'Pieza separada de los ERE sobre tres ayudas de 450.000 euros concedidas a sociedades relacionadas
   con Juan Francisco Trujillo, conductor del entonces director general de Trabajo Francisco Javier Guerrero, y sobre

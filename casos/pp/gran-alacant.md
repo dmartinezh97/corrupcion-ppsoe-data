@@ -3,6 +3,9 @@ nombre: "Gran Alacant"
 partido: "PP"
 completado: false
 año: 2016
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "desconocido"
 descripcion: |
   Procedimiento por la gestión de una clínica privada en dependencias municipales de Gran Alacant, en Santa Pola (Alicante). La sentencia 192/2025 de la Audiencia Provincial de Alicante, de 13 de mayo, consideró probado que el entonces alcalde del PP Miguel Zaragoza y el concejal de Personal Jorge Perelló toleraron incumplimientos de la concesionaria a cambio de contratar a personas de su entorno. El contrato de concesión se firmó el 13 de marzo de 2006; preveía un canon anual de 10.920 euros y diversas prestaciones, entre ellas el seguimiento de bajas del personal municipal.

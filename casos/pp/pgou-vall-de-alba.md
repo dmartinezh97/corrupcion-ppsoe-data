@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2016
 fechaInicio: '2016-01-12'
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sobreseimiento provisional confirmado
 descripcion: 'La causa examinó si el exalcalde de Vall d’Alba Francisco Martínez Capdevila, su hija Andrea Martínez
   y el empresario Raúl Babiloni habían aprovechado información urbanística reservada para adquirir y revender terrenos.

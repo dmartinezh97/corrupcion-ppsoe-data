@@ -3,6 +3,9 @@ nombre: Caso Púnica/Murcia
 partido: PP
 completado: false
 año: 2014
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas de primera instancia y archivos individuales
 descripcion: 'La pieza separada 3 de Púnica, enjuiciada como procedimiento abreviado 6/2022, se centra en la concertación
   para financiar la reputación digital personal del consejero murciano Juan Carlos Ruiz mediante un contrato institucional

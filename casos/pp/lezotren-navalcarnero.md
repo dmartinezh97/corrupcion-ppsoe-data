@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2017
 fechaInicio: '2007-10-22'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: pendiente de juicio
 descripcion: 'La pieza separada número 3 de Lezo examina la presunta comisión destinada a obtener para una UTE de
   OHL la concesión de la línea ferroviaria Móstoles Central–Navalcarnero y una posterior modificación del contrato.

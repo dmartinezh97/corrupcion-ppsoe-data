@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2015
 fechaInicio: '2016-01-12'
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Juicio oral abierto en 2025
 lugar: Madrid y Argelia
 descripcion: 'La pieza Elecnor de la causa sobre el despacho Voltar Lassen investiga presuntos sobornos para obtener

@@ -4,6 +4,9 @@ partido: "PP"
 completado: false
 año: 2002
 fechaInicio: "2002-07-29"
+estadoPrincipal: Absuelto
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "Absolución comunicada en 2014; firmeza y eventuales recursos no verificados"
 descripcion: |
   El caso Piscina se refiere a la adquisición de terrenos en Asabanos por el Ayuntamiento de Valverde (El Hierro), destinada a equipamiento municipal. El acta municipal de 27 de marzo de 2013 identifica el acuerdo de compra del 29 de julio de 2002 y las diligencias previas 417/2006 contra Agustín Padrón Benítez, Ana María Guadarrama Padrón y Fernando Juan Padrón Armas.

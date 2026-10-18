@@ -3,6 +3,9 @@ nombre: Pokémon / Miño-Sil
 partido: PSOE
 completado: false
 año: 2009
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: cerrado con condenas
 lugar: Galicia; Confederación Hidrográfica Miño-Sil
 resumen: 'Contratos de la CHMS a cambio de dádivas: pena de cuatro años y seis meses para Fernández Liñares tras

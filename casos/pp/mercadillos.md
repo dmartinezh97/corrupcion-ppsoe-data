@@ -3,6 +3,9 @@ nombre: Caso Mercadillos
 partido: PP
 completado: false
 año: 2013
+estadoPrincipal: Absuelto
+recursoPendiente: En casación
+firmeza: No firme
 estado: absolución recurrida
 resumen: 'Autorizaciones de mercadillos en Puerto de la Cruz: condena por prevaricación revocada en apelación en 2021.'
 descripcion: La Audiencia Provincial absolvió a Lope Afonso de prevaricación el 30 de abril de 2021 y mantuvo su absolución

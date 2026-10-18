@@ -3,6 +3,9 @@ nombre: Púnica/Waiter Music
 partido: PP
 completado: false
 año: 2014
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas recurribles
 descripcion: 'La pieza 7 de Púnica examina la contratación de festejos y espectáculos a Waiter Music y sociedades
   vinculadas a su propietario, José Luis Huerta, por ayuntamientos y entidades de la Comunidad de Madrid. La sentencia

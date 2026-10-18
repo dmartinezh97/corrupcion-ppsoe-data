@@ -3,6 +3,9 @@ nombre: Caso de los avales de IDEA
 partido: PSOE
 completado: false
 año: 2014
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Piezas con situaciones procesales distintas
 lugar: Andalucía; procedimientos en Sevilla
 descripcion: 'La investigación sobre los avales de la Agencia IDEA se dividió en procedimientos por empresas y modalidades

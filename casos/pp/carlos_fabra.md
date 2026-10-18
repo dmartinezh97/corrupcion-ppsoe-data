@@ -3,6 +3,9 @@ nombre: Caso Carlos Fabra
 partido: PP
 completado: false
 año: 2003
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena fiscal y procedimientos distintos con estados propios
 descripcion: 'La causa Naranjax terminó con la condena de Carlos Fabra por cuatro delitos fiscales y su absolución
   de cohecho y tráfico de influencias. La STS 586/2014, de 23 de julio, mantuvo su condena de cuatro años de prisión

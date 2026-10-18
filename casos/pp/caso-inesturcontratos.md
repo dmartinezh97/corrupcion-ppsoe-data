@@ -3,6 +3,9 @@ nombre: CASO INESTUR/CONTRATOS
 partido: UM
 completado: false
 año: 2010
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas y absoluciones por conformidad comunicadas en 2020
 descripcion: 'La pieza 14 del caso Voltor examinó contrataciones del Inestur. Según las crónicas de la vista de
   28 de julio de 2020, seis acusados fueron condenados por prevaricación continuada y cuatro resultaron absueltos.

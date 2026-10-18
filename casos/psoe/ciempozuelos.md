@@ -3,6 +3,9 @@ nombre: Caso Ciempozuelos
 partido: PSOE
 completado: false
 año: 2006
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas por falsedad documental
 descripcion: 'El caso investigó presuntas comisiones urbanísticas y operaciones económicas relacionadas con dos
   exalcaldes socialistas de Ciempozuelos, Pedro Torrejón y Joaquín Tejeiro. La Audiencia Provincial de Madrid, Sección

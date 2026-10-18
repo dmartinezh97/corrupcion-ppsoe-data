@@ -3,6 +3,9 @@ nombre: Caso Invercaria/Keepfresh
 partido: PSOE
 completado: false
 año: 2018
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: Juicio oral abierto; desenlace no acreditado
 descripcion: 'Pieza de Invercaria sobre inversiones por 2.222.600 euros en Keepfresh Verde y Natural, Keepfresh
   Agroandalucía, Desarrollos Industriales Herón y Allfresh Investigación, Desarrollo y Comercialización. El instructor

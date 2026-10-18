@@ -3,6 +3,9 @@ nombre: Caso Troya
 partido: PP
 completado: false
 año: 2007
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: cerrado con condenas
 descripcion: 'La Audiencia Provincial de Málaga condenó el 18 de enero de 2012 al alcalde de Alhaurín el Grande,
   Juan Martín Serón, y al concejal de Urbanismo, José Gregorio Guerra Gil, por un delito de cohecho. Los hechos

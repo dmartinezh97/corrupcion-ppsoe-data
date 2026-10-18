@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2003
 fechaFin: ''
+estadoPrincipal: Pendiente de sentencia
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: 'Esta ficha corresponde a la pieza Rosendo-Sayago, sobre ayudas por un importe investigado de 34.264.273
   euros concedidas a empresas vinculadas a José Enrique Rosendo Ríos y José María Sayago Lozano. Entre las entidades

@@ -5,6 +5,9 @@ completado: false
 año: 2008
 fechaInicio: '2008-03-12'
 fechaFin: ''
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas en procedimientos distintos
 descripcion: 'Javier Rodrigo de Santos López fue concejal de Urbanismo y teniente de alcalde de Palma por el PP
   y presidente de la Empresa Municipal de Obras y Proyectos Urbanos (EMOP). La ficha distingue la malversación mediante

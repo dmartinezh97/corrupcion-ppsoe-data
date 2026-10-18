@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2014
 fechaFin: ""
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "condena confirmada por el Tribunal Supremo"
 descripcion: |
   El caso de la depuradora de Borriol se refiere a la tramitación por la Diputación Provincial de Castellón y el Ayuntamiento de Borriol (Castellón) de la expropiación de terrenos para construir una estación depuradora de aguas residuales (EDAR) que afectaba a una parcela (2.706 m²) vinculada a la familia de Francisco Martínez Capdevila, entonces vicepresidente primero de la Diputación y alcalde de Vall d'Alba, cargos ambos del PP. Según los hechos declarados probados por la Audiencia Provincial de Castellón, esa parcela fue comprada en mayo de 2008 por la hija de Martínez, que en diciembre de 2011 la aportó a la mercantil familiar Franvaltur S.L. en una ampliación de capital. El Ayuntamiento preveía indemnizarla con unos 51.000 euros (18,85 euros por metro cuadrado para 2.706 m²), frente a los 3.000 euros del precio declarado de compraventa de 2008. No consta pago acreditado de esa indemnización: tras conocerse la vinculación en enero de 2014 la parcela quedó excluida del proyecto y, según los hechos probados de la sentencia de 2016, la depuradora no había llegado a construirse en esos terrenos.

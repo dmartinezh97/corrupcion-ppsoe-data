@@ -3,6 +3,9 @@ nombre: Caso Comercio
 partido: PSOE
 completado: false
 año: 2016
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condenas y absolución resueltas en casación; ejecución pendiente de comprobar
 lugar: Alicante, Comunidad Valenciana
 descripcion: El caso investigó contrataciones de la Concejalía de Comercio de Alicante realizadas en noviembre y

@@ -3,6 +3,9 @@ nombre: Vilariño
 partido: PP
 completado: false
 año: 2017
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condena de instancia; firmeza no verificada
 descripcion: 'La Sección Segunda de la Audiencia Provincial de Ourense condenó a Ventura Sierra Vázquez, entonces
   alcalde de Vilariño de Conso por el PP, a siete años de inhabilitación especial para empleo o cargo público por

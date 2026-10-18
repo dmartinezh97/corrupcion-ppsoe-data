@@ -3,6 +3,9 @@ nombre: Medina del Campo (caso Rotonda)
 partido: PP
 completado: false
 año: 2008
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas y una absolución en 2015
 descripcion: 'El caso Rotonda se refiere a las obras de acceso a la zona industrial de Medina del Campo, cuyo proyecto
   se aprobó en 2008 y se ejecutó en 2009 sin adjudicación formal pese a haberse iniciado una licitación. El Tribunal

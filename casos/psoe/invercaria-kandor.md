@@ -3,6 +3,9 @@ nombre: Caso Invercaria/Kandor
 partido: PSOE
 completado: false
 año: 2017
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Sobreseimiento libre comunicado en abril de 2021; firmeza no verificada
 lugar: Granada / Sevilla, Andalucía
 descripcion: 'Pieza separada de Invercaria relativa a su financiación de Kandor Graphics. La nota oficial del

@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2016
 fechaInicio: '2016-04-13'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: pendiente de juicio
 resumen: Macrocausa urbanística de Granada con archivos, absoluciones y dos piezas encaminadas a juicio; Serrallo
   fue un procedimiento paralelo.

@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2013
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Absolución penal y litigios económicos diferenciados
 descripcion: 'Castor fue un proyecto de almacenamiento subterráneo de gas frente a Vinaròs (Castellón), cuya concesión
   se otorgó a Escal UGS por Real Decreto 855/2008, de 16 de mayo, firmado por Miguel Sebastián, ministro de un Gobierno

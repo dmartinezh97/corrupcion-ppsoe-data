@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2013
 fechaFin: ""
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "desconocido"
 descripcion: |
   El nombre «caso Asesorías» agrupa procedimientos relacionados con la contratación de servicios jurídicos y técnicos por administraciones valencianas y con la Academia Valenciana de Juristas (AVJ). Esta ficha documenta únicamente los resultados contrastados de algunas piezas; no acredita el resultado del conjunto de la causa ni permite atribuir a todas las personas las conductas enjuiciadas en una pieza concreta.

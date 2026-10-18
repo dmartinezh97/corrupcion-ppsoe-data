@@ -3,6 +3,9 @@ nombre: Caso Pulpo
 partido: PSOE
 completado: false
 año: 2013
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: sobreseimiento provisional
 lugar: Lugo, Galicia
 descripcion: Investigación sobre el programa turístico KM0 y otros aspectos de la gestión de la Diputación de Lugo,

@@ -3,6 +3,9 @@ nombre: Caso Isjoma
 partido: PP
 completado: false
 año: 2009
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'Investigación sobre los contratos de montaje de escenarios e infraestructuras festivas del Ayuntamiento
   de Alicante con Isjoma. La Sección Primera de la Audiencia Provincial absolvió el 22 de septiembre de 2023 a los

@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2000
 fechaFin: ''
+estadoPrincipal: Pendiente de juicio
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: pendiente de juicio
 descripcion: 'Esta pieza investiga la financiación pública del ERE de Yogures Andaluces mediante ayudas por 6.379.142,48
   euros para un seguro de rentas. El auto de 1 de octubre de 2021, difundido por el CGPJ el día 5, acordó continuar

@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2000
 fechaInicio: '2000-04-18'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: revisión de condenas
 descripcion: 'La pieza del procedimiento específico de los ERE examinó la responsabilidad de veintiún antiguos altos
   cargos de la Junta de Andalucía en el sistema de presupuestación, concesión y pago de ayudas sociolaborales y

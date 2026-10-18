@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2006
 fechaFin: ''
+estadoPrincipal: Sobreseído / archivado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Archivado según información periodística; auto y alcance individual pendientes de cotejo
 descripcion: 'El caso Porto investigó posibles irregularidades en la tramitación del sector Los Pocillos de Villanueva
   de la Cañada y la relación entre las funciones públicas de Enrique Porto Rey y sus intereses urbanísticos privados.

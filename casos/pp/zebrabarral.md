@@ -3,6 +3,9 @@ nombre: Zebra/Barral
 partido: PP
 completado: false
 año: 2016
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Resultados distintos según procedimiento
 descripcion: 'La ficha reúne actuaciones relativas al exalcalde de Ribadumia José Ramón Barral Martínez, Nené Barral,
   que deben distinguirse. La operación Cebra conocida en octubre de 2016 fue una investigación nueva dirigida desde

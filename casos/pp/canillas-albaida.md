@@ -3,6 +3,9 @@ nombre: Caso Canillas de Albaida
 partido: PP
 completado: false
 año: 2004
+estadoPrincipal: Condenado
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: Condenas en dos procedimientos
 resumen: Dos causas por licencias urbanísticas concedidas por Antonio Gregorio Díaz Navas, con condenas difundidas en 2010
   y 2015.

@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2014
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: pendiente de juicio
 descripcion: 'La pieza 8 de Púnica aborda presuntas irregularidades entre 2003 y 2011 en adjudicaciones de suelo
   de Arpegio, actuaciones del Plan Prisma y contratos de infraestructuras de Mintra. En junio de 2024 el instructor

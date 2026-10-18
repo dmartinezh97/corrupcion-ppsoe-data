@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2003
 fechaFin: ''
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: desconocido
 descripcion: 'Esta pieza investiga las ayudas sociolaborales a la textil Intesur S.A.U., de Morón de la Frontera,
   denominada también Intersur en noticias antiguas. La información del auto de 16 de diciembre de 2022 cifra en

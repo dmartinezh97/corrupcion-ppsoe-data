@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2011
 fechaFin: ''
+estadoPrincipal: En investigación
+recursoPendiente: Sin determinar
+firmeza: No procede
 estado: desconocido
 descripcion: 'La causa de las Cuevas del Concejo examina las obras de una red de galerías bajo el casco histórico
   de Navalcarnero durante el mandato de Baltasar Santos González. Telemadrid/EFE situó las actuaciones entre 2004

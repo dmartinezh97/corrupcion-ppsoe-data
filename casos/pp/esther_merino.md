@@ -4,6 +4,9 @@ partido: PP
 completado: false
 año: 2016
 fechaFin: ""
+estadoPrincipal: Sin determinar
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: "desconocido"
 descripcion: |
   En junio de 2016 se hicieron públicos requerimientos del Tribunal de Cuentas sobre seis expedientes de gasto del Ayuntamiento de Cabezón de la Sal correspondientes a 2013, durante la alcaldía de María Esther Merino Portugal (PP, 2011-2015). Según explicó la alcaldesa Isabel Fernández (PSOE), faltaba documentación justificativa de un expediente de 1,6 millones de euros y otros cinco por 90.000 euros. La información publicada situaba un requerimiento anterior en 2014, sin precisar el día.

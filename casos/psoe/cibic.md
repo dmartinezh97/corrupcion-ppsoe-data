@@ -4,6 +4,9 @@ partido: PSOE
 completado: false
 año: 2012
 fechaInicio: '2012-07-20'
+estadoPrincipal: Resultados mixtos
+recursoPendiente: Sin determinar
+firmeza: Sin determinar
 estado: condena en primera instancia; recursos y firmeza pendientes de verificar
 descripcion: El caso se refiere a las ayudas para construir el CIBIC de la Fundación Instituto de Innovación para
   el Bienestar Ciudadano (FIBIC) en el Parque Tecnológico de Andalucía, Málaga. Una resolución de 20 de julio de
