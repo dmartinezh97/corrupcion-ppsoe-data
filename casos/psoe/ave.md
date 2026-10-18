@@ -1,130 +1,124 @@
 ---
-nombre: "Caso AVE"
-partido: "PSOE"
-completado: true
+nombre: Caso AVE
+partido: PSOE
+completado: false
 año: 1994
-fechaInicio: "1988-01-01"
-fechaFin: "2008-11-13"
-estado: "cerrado con condenas"
-descripcion: |
-  El Caso AVE, también conocido como el Caso de las Comisiones del AVE, es un escándalo de corrupción que investigó el pago de comisiones ilegales por parte de la multinacional alemana Siemens a sociedades vinculadas al PSOE con motivo de las adjudicaciones de contratos para la construcción de la línea de alta velocidad Madrid-Sevilla, inaugurada en 1992 con motivo de la Exposición Universal. El caso se desglosó del Caso Filesa en 1994 por el instructor del Tribunal Supremo Marino Barbero, tras el descubrimiento de documentos que apuntaban al pago de más de 1.000 millones de pesetas (unos 6 millones de euros) por parte de Siemens a tres sociedades dirigidas por personas vinculadas al partido socialista.
+estado: condenas por falsedad y absoluciones en casación
+descripcion: 'Procedimiento sobre facturas y pagos relacionados con las adjudicaciones del AVE Madrid-Sevilla, desglosado
+  de Filesa. La investigación examinó sospechas de comisiones y financiación irregular del PSOE, pero esas acusaciones
+  deben distinguirse de los concretos delitos por los que hubo condena. El procedimiento abreviado 3037/1994 fue
+  instruido por el Juzgado de Instrucción número 39 de Madrid y juzgado por la Sección 17ª de su Audiencia Provincial.
 
-  La trama giraba en torno a Florencio Ornia, ex director general de la Presidencia del Gobierno durante los ejecutivos de Felipe González, quien creó la sociedad Atacir, S.A. para canalizar las comisiones. Siemens acordó abonarle un 2% del valor del contrato de adjudicación de las subestaciones eléctricas de la línea, contrato valorado en torno a 5.000 millones de pesetas. También estuvieron implicados Juan Carlos Mangana, Sotero Jiménez y Valentín Medel, quienes ocuparon distintos cargos en los gobiernos socialistas y en la organización interna del PSOE. Entre los investigados figuró el entonces ministro de Sanidad y ex presidente de Renfe, Julián García Valverde, quien dimitió del Gobierno en enero de 1992 por las sospechas de irregularidades durante su etapa al frente de la compañía ferroviaria.
 
-  El juicio oral comenzó el 16 de febrero de 2005 ante la Sección 17 de la Audiencia Provincial de Madrid, presidida entre otros por la magistrada Manuela Carmena. La sentencia de junio de 2006 condenó a un año de prisión y una multa de 18.000 euros a los directivos de Siemens Francisco Francés y Mario Huete, así como a Florencio Ornia, Juan Carlos Mangana, Sotero Jiménez y Valentín Medel por un delito continuado de falsedad en documento mercantil, absolviéndoles del delito de cohecho. El ex ministro Julián García Valverde fue absuelto. La ex coordinadora de finanzas del PSOE Aída Álvarez y su marido Miguel Molledo también fueron inicialmente absueltos, pero el Tribunal Supremo revocó esa absolución en noviembre de 2008 y los condenó a seis meses y un día de prisión y una multa de 1.200 euros, cerrando definitivamente el caso.
+  La sentencia de la Audiencia de 22 de junio de 2006 fue modificada por la STS 692/2008, de 4 de noviembre, difundida
+  el día 13. El Supremo condenó a Aída Álvarez y Miguel Molledo a seis meses y un día de prisión menor y 1.200 euros
+  de multa cada uno por falsedad continuada en documento mercantil. Absolvió por prescripción a los directivos de
+  Siemens Francisco Francés y Mario Huete, inicialmente condenados, y mantuvo la absolución de Julián García Valverde.
+  Subsistieron las condenas por falsedad de Florencio Ornia, Juan Carlos Mangana, Sotero Jiménez y Valentín Medel.
 
-resumen: "Pago de comisiones ilegales por Siemens a personas vinculadas al PSOE por contratos de la línea AVE Madrid-Sevilla, con comisiones de hasta 1.000 millones de pesetas canalizadas a través de sociedades interpuestas"
-coste: 6000000
-lugar: "Madrid, España"
+
+  El texto judicial recoge para las condenas de un año una multa de 1.800 euros, aunque varias crónicas publicaron
+  18.000. Se sigue el fallo reproducido en el PDF oficial. No se presenta el volumen de comisiones investigado como
+  daño patrimonial probado. La ejecución individual, posibles incidencias posteriores y una diligencia específica
+  de firmeza no han sido documentadas en esta revisión.'
+resumen: El Supremo condenó por falsedad a Aída Álvarez y Miguel Molledo, mantuvo cuatro condenas documentales y
+  absolvió por prescripción a dos directivos de Siemens. García Valverde quedó absuelto. No se equiparan sospechas
+  de financiación con condenas por cohecho.
+lugar: Madrid
 tribunal:
-  - "Tribunal Supremo - Sala de lo Penal"
-  - "Audiencia Provincial de Madrid, Sección 17ª"
-  - "Audiencia Nacional - Juzgado Central de Instrucción (instrucción inicial)"
-numeroSentencia: ""
+- Juzgado de Instrucción nº 39 de Madrid
+- Audiencia Provincial de Madrid, Sección 17ª
+- Tribunal Supremo, Sala de lo Penal
+numeroSentencia: STS 692/2008, de 4 de noviembre; ROJ STS 6941/2008; ECLI:ES:TS:2008:6941; recurso 1639/2007
 implicados:
-  - nombre: "Florencio Ornia"
-    cargo: "Ex director general de la Presidencia del Gobierno (PSOE)"
-    rol: "Condenado a 1 año de prisión y 18.000 euros de multa por falsedad en documento mercantil. Creó la sociedad Atacir, S.A. para canalizar las comisiones de Siemens"
-
-  - nombre: "Juan Carlos Mangana"
-    cargo: "Ex cargo en los gobiernos socialistas y en el PSOE"
-    rol: "Condenado a 1 año de prisión y 18.000 euros de multa por delito continuado de falsedad en documento mercantil"
-
-  - nombre: "Sotero Jiménez"
-    cargo: "Ex cargo en los gobiernos socialistas y en el PSOE"
-    rol: "Condenado a 1 año de prisión y 18.000 euros de multa por delito continuado de falsedad en documento mercantil"
-
-  - nombre: "Valentín Medel"
-    cargo: "Ex cargo en los gobiernos socialistas y en el PSOE"
-    rol: "Condenado a 1 año de prisión y 18.000 euros de multa por delito continuado de falsedad en documento mercantil"
-
-  - nombre: "Francisco Francés"
-    cargo: "Directivo de Siemens España"
-    rol: "Condenado a 1 año de prisión y 18.000 euros de multa por falsedad en documento mercantil por el pago de comisiones ilegales"
-
-  - nombre: "Mario Huete"
-    cargo: "Directivo de Siemens España"
-    rol: "Condenado a 1 año de prisión y 18.000 euros de multa por falsedad en documento mercantil por el pago de comisiones ilegales"
-
-  - nombre: "Aída Álvarez Álvarez"
-    cargo: "Ex coordinadora de finanzas del PSOE"
-    rol: "Absuelta en primera instancia (2006) y posteriormente condenada por el Tribunal Supremo (2008) a 6 meses y 1 día de prisión por falsedad en documento mercantil"
-
-  - nombre: "Miguel Molledo"
-    cargo: "Esposo de Aída Álvarez, vinculado al PSOE"
-    rol: "Absuelto en primera instancia (2006) y posteriormente condenado por el Tribunal Supremo (2008) a 6 meses y 1 día de prisión por falsedad en documento mercantil"
-
-  - nombre: "Julián García Valverde"
-    cargo: "Ex ministro de Sanidad y ex presidente de Renfe (PSOE)"
-    rol: "Investigado por irregularidades durante su etapa en Renfe; dimitió como ministro en enero de 1992. Absuelto por la Audiencia Provincial en 2006"
-
+- nombre: Florencio Ornia
+  cargo: Exdirector del Gabinete de Infraestructura y Seguimiento para Situaciones de Crisis de La Moncloa
+  rol: 'Condena por falsedad documental mantenida en casación: un año de prisión menor y multa de 1.800 euros según
+    el fallo de instancia reproducido; absuelto de cohecho.'
+- nombre: Juan Carlos Mangana
+  cargo: Responsable de GMP Consultores y antiguo miembro del comité electoral del PSOE
+  rol: 'Condena por falsedad documental mantenida: un año de prisión menor y multa de 1.800 euros; absuelto de cohecho.'
+- nombre: Sotero Jiménez
+  cargo: Responsable de GMP Consultores; antiguo secretario de Guillermo Galeote
+  rol: 'Condena por falsedad documental mantenida: un año de prisión menor y multa de 1.800 euros; absuelto de cohecho.'
+- nombre: Valentín Medel
+  cargo: Exconcejal socialista de Madrid
+  rol: 'Condena por falsedad documental mantenida: un año de prisión menor y multa de 1.800 euros; absuelto de cohecho.'
+- nombre: Francisco Francés
+  cargo: Exdirectivo de Siemens en España
+  rol: Condenado por falsedad en primera instancia y absuelto por prescripción por el Supremo en 2008. No se conserva
+    la condena revocada como estado final.
+- nombre: Mario Huete
+  cargo: Exdirectivo de Siemens en España
+  rol: Condenado por falsedad en primera instancia y absuelto por prescripción por el Supremo en 2008.
+- nombre: Aída Álvarez
+  cargo: Exresponsable de Finanzas del PSOE
+  rol: Absuelta en primera instancia por apreciación de cosa juzgada; el Supremo revocó ese pronunciamiento y le
+    impuso seis meses y un día de prisión menor y 1.200 euros de multa por falsedad continuada en documento mercantil.
+- nombre: Miguel Molledo
+  cargo: Empresario y esposo de Aída Álvarez
+  rol: Absuelto en primera instancia por cosa juzgada; condenado por el Supremo a seis meses y un día de prisión
+    menor y 1.200 euros de multa por falsedad continuada en documento mercantil.
+- nombre: Julián García Valverde
+  cargo: Exministro de Sanidad y expresidente de Renfe
+  rol: Absuelto por la Audiencia Provincial; absolución mantenida por el Supremo. No se le atribuye una condena
+    por este caso.
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "falsedad documental"
-  - "financiación ilegal"
-  - "contratos públicos"
-  - "alta velocidad"
-  - "infraestructuras"
-
-impactoSocial: "El caso provocó la dimisión del ministro de Sanidad Julián García Valverde en enero de 1992 en plena euforia de los preparativos de la Expo de Sevilla y los Juegos Olímpicos de Barcelona. Evidenció la existencia de un sistema de comisiones ilegales vinculado a las grandes adjudicaciones públicas de la era socialista y contribuyó al clima de descrédito político que acompañó al final del gobierno de Felipe González. El caso quedó como referencia histórica de la corrupción en las grandes obras de infraestructura del país."
-
-documentos: null
-
+- falsedad documental
+- contratos públicos
+- alta velocidad
+- absoluciones
+- prescripción
+documentos:
+- fecha: '2008-11-04'
+  titulo: 'STS 692/2008: casación y segunda sentencia del caso AVE'
+  filetype: pdf
+  paginas: 60
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1dc5042a9c4cf92a&encode=true&databasematch=AN
 cronologia:
-  - fecha: "1988-01-01"
-    titulo: "Adjudicación de contratos del AVE Madrid-Sevilla a Siemens"
-    descripcion: "El Gobierno de Felipe González adjudica a la multinacional alemana Siemens contratos para la electrificación y suministro de señalización de la línea AVE Madrid-Sevilla. En paralelo, Siemens acuerda con Florencio Ornia, ex director general de la Presidencia del Gobierno, el pago de un 2% de comisión por la adjudicación de las subestaciones eléctricas, canalizando los pagos a través de la sociedad Atacir, S.A. creada por Ornia. El contrato está valorado en torno a 5.000 millones de pesetas."
-    type: "resumen"
-    urls:
-      - "https://15mpedia.org/wiki/Caso_AVE"
-
-  - fecha: "1992-01-13"
-    titulo: "Dimisión del ministro Julián García Valverde"
-    descripcion: "El ministro de Sanidad y Consumo, Julián García Valverde, dimite de su cargo al conocerse su implicación en presuntas irregularidades cometidas durante su etapa como presidente de Renfe (1985-1991), relacionadas con la adjudicación de terrenos y contratos en el entorno del AVE. La dimisión se produce en plena cuenta atrás para la Expo de Sevilla y los Juegos Olímpicos de Barcelona de 1992."
-    type: "denuncia"
-    urls:
-      - "https://lahemerotecadelbuitre.com/piezas/dimite-el-ministro-de-sanidad-julian-garcia-valverde-salpicado-en-el-escandalos-del-caso-ave/"
-      - "https://www.eleconomista.es/espana/noticias/36049/06/06/El-ex-ministro-Julian-Garcia-Valverde-absuelto-en-el-caso-AVE.html"
-
-  - fecha: "1994-01-01"
-    titulo: "Apertura de la instrucción del Caso AVE"
-    descripcion: "El magistrado Marino Barbero, instructor del Caso Filesa en el Tribunal Supremo, descubre documentos que apuntan al pago de más de 1.000 millones de pesetas por parte de Siemens a tres sociedades vinculadas al PSOE. El Tribunal Supremo desgaja el Caso AVE del Caso Filesa para investigar de forma independiente las comisiones ilegales en las adjudicaciones del AVE Madrid-Sevilla."
-    type: "investigación"
-    urls:
-      - "https://15mpedia.org/wiki/Caso_AVE"
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+AVE&numero=103"
-
-  - fecha: "2003-11-20"
-    titulo: "Apertura del juicio oral por la juez Teresa Chacón"
-    descripcion: "La juez de la Audiencia de Madrid Teresa Chacón ordena la apertura del juicio oral para trece imputados por su supuesta implicación en delitos de cohecho y falsedad continuada, relacionados con el pago de comisiones ilegales por las adjudicaciones de contratos del AVE Madrid-Sevilla."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+AVE&numero=103"
-
-  - fecha: "2005-02-16"
-    titulo: "Inicio del juicio oral en la Audiencia Provincial de Madrid"
-    descripcion: "Comienza el juicio oral en la Sección 17 de la Audiencia Provincial de Madrid, presidida por Jesús Fernández Entralgo y con la magistrada Manuela Carmena en el tribunal. Los acusados incluyen a Florencio Ornia, Juan Carlos Mangana, Sotero Jiménez, Valentín Medel, los directivos de Siemens Francisco Francés y Mario Huete, Aída Álvarez, Miguel Molledo y Julián García Valverde, entre otros."
-    type: "juicio"
-    urls:
-      - "https://15mpedia.org/wiki/Caso_AVE"
-
-  - fecha: "2006-06-22"
-    titulo: "Sentencia de la Audiencia Provincial de Madrid"
-    descripcion: "La Audiencia Provincial de Madrid condena a un año de prisión y 18.000 euros de multa a los directivos de Siemens Francisco Francés y Mario Huete, y a Florencio Ornia, Juan Carlos Mangana, Sotero Jiménez y Valentín Medel por un delito continuado de falsedad en documento mercantil. El tribunal los absuelve del delito de cohecho. El ex ministro Julián García Valverde y la ex coordinadora de finanzas del PSOE Aída Álvarez son absueltos."
-    type: "sentencia"
-    urls:
-      - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1018024"
-      - "https://www.eleconomista.es/espana/noticias/36049/06/06/El-ex-ministro-Julian-Garcia-Valverde-absuelto-en-el-caso-AVE.html"
-      - "https://www.libertaddigital.com/nacional/absuelven-al-ex-ministro-garcia-valverde-por-el-caso-ave-sobre-financiacion-ilegal-del-psoe-1276282392/"
-
-  - fecha: "2008-11-13"
-    titulo: "Sentencia definitiva del Tribunal Supremo: condena a Aída Álvarez"
-    descripcion: "El Tribunal Supremo estima los recursos del PP y la Fiscalía Anticorrupción contra la absolución dictada por la Audiencia Provincial y condena a la ex coordinadora de finanzas del PSOE Aída Álvarez y a su marido Miguel Molledo a seis meses y un día de prisión y una multa de 1.200 euros cada uno por un delito continuado de falsedad en documento mercantil. La Sala mantiene las condenas por falsedad y la absolución por cohecho para el resto. Esta sentencia cierra definitivamente el Caso AVE."
-    type: "sentencia"
-    urls:
-      - "https://www.publico.es/actualidad/condena-6-meses-carcel-aida-alvarez-caso-ave.html"
-      - "https://www.ultimahora.es/noticias/nacional/2008/11/14/403517/supremo-cierra-caso-ave-condena-aida-alvarez.html"
-      - "https://www.que.es/ultimas-noticias/200811131454-cierra-caso-ave-condena-dirigente.html"
-      - "https://www.diariocritico.com/noticia/110381/noticias/aida-alvarez-condenada-por-el-caso-ave.html"
+- fecha: '2005-02-16'
+  titulo: Comienza el juicio del caso AVE
+  descripcion: Europa Press sitúa en esta fecha el inicio del juicio ante la Audiencia Provincial de Madrid. Las
+    peticiones de condena de las acusaciones no equivalen a los posteriores fallos.
+  type: juicio
+  relevancia: alta
+  urls:
+  - https://www.europapress.es/nacional/noticia-ave-hoy-comienza-recta-final-juicio-peticion-definitiva-fiscalia-anticorrupcion-20060213084610.html
+- fecha: '2006-06-22'
+  titulo: Sentencia de la Audiencia Provincial
+  descripcion: Condena a seis acusados por falsedad documental, con un año de prisión menor y multa de 1.800 euros
+    según el fallo reproducido por el Supremo. Absuelve a Álvarez y Molledo por cosa juzgada y dicta las absoluciones
+    por cohecho; el resultado será modificado en casación.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1dc5042a9c4cf92a&encode=true&databasematch=AN
+- fecha: '2008-11-04'
+  titulo: Sentencia de casación y segunda sentencia del Supremo
+  descripcion: Revoca la absolución de Álvarez y Molledo y les impone seis meses y un día y multa de 1.200 euros
+    a cada uno. Absuelve a Francés y Huete por prescripción y mantiene los restantes pronunciamientos no modificados.
+    La fecha es la de la resolución.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1dc5042a9c4cf92a&encode=true&databasematch=AN
+- fecha: '2008-11-13'
+  titulo: Difusión pública del desenlace de casación
+  descripcion: Europa Press y RTVE informan de la condena de Álvarez y Molledo y de las absoluciones de los dos
+    directivos de Siemens. Es fecha informativa, no la de una nueva sentencia.
+  type: resumen
+  relevancia: alta
+  urls:
+  - https://www.europapress.es/nacional/noticia-ave-ts-condena-aida-alvarez-miguel-molledo-seis-meses-falsedad-absuelve-dos-directivos-siemens-20081113110518.html
+  - https://www.rtve.es/noticias/20081113/el-supremo-condena-a-seis-meses-de-prision-a-aida-alvarez-por-el-caso-ave/193715.shtml
 ---
+
+La [STS 692/2008](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1dc5042a9c4cf92a&encode=true&databasematch=AN) permite separar las acusaciones de las conclusiones judiciales. En sus fundamentos quinto y sexto trata la legalidad de las adjudicaciones y la falta de soporte para imputar a los responsables de Renfe las conductas de cohecho que sostenía el recurso. El fallo conserva las absoluciones por ese delito. No se describe a los absueltos como condenados por un sistema de sobornos.
+
+La relación con **Filesa** es procesal y documental. El fundamento vigésimo cuarto explica por qué las facturas examinadas aquí eran hechos distintos de los ya enjuiciados: por ello revocó la apreciación de cosa juzgada respecto de Álvarez y Molledo. No se suman aquí las penas o cantidades de Filesa ni se trasladan los resultados de Ceres o del procedimiento separado del cheque de SEAT. Los nombres y cargos se han contrastado en las [crónicas nominales](https://www.europapress.es/nacional/noticia-ave-hoy-comienza-recta-final-juicio-peticion-definitiva-fiscalia-anticorrupcion-20060213084610.html) y en [RTVE](https://www.rtve.es/noticias/20081113/el-supremo-condena-a-seis-meses-de-prision-a-aida-alvarez-por-el-caso-ave/193715.shtml), sin deducir identidades de los pseudónimos de CENDOJ.
+
+La página 23 del PDF reproduce una multa de **1.800 euros**, cifra reiterada en el fundamento vigésimo tercero, página 56. Varias noticias hablan de 18.000 euros; se prioriza el documento judicial. Para Álvarez y Molledo, la segunda sentencia fija **1.200 euros por persona**, con responsabilidad personal subsidiaria en caso de impago según el fallo. Las multas penales no son una valoración del daño público.
+
+Se retira el coste de seis millones de euros: la cifra heredada procedía del volumen atribuido a comisiones investigadas, sin una liquidación judicial de perjuicio que permita usarla como daño probado. Tampoco se calcula pérdida pública a partir del precio de las adjudicaciones o del porcentaje pactado con intermediarios.
+
+Revisión con corte en el 17 de octubre de 2026. Se ha recuperado el PDF oficial de 60 páginas y leído de forma dirigida su identificación, fallo de instancia, fundamentos sobre cohecho, prescripción y cosa juzgada, y los dos fallos del Supremo. El PDF se generó al descargarlo en octubre de 2026: esa fecha técnica no altera la resolución de 4 de noviembre de 2008. No se ha leído íntegramente cada hecho y fundamento ni se han obtenido los expedientes individuales de ejecución o una certificación separada de firmeza. Se retiran las fechas genéricas de primero de enero y detalles históricos no revalidados; la ficha permanece incompleta por esas limitaciones.
