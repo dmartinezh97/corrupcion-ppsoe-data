@@ -3,7 +3,6 @@ nombre: Caso Serrallo
 partido: PP
 completado: false
 año: 2013
-fechaInicio: '2012-09-13'
 fechaFin: ''
 estado: condenas penales confirmadas; indemnización recurrida
 descripcion: 'El caso Serrallo juzgó las licencias concedidas para una sala de fiestas en terrenos destinados a parque infantil junto al centro comercial Serrallo Plaza. La Audiencia de Granada condenó en julio de 2020 a Isabel Nieto, Emilio Martín Herrera y Roberto García Arrabal por prevaricación administrativa común, y absolvió al exalcalde José Torres Hurtado y a los demás acusados en los términos del fallo.
@@ -90,7 +89,7 @@ cronologia:
   relevancia: alta
 - fecha: '2022-11-02'
   titulo: El Supremo confirma la sentencia penal
-  descripcion: La STS 859/2022 desestima los recursos de los tres condenados y de las acusaciones populares, confirma la sentencia de instancia e impone a cada recurrente las costas de su recurso. El fallo declara que no cabe recurso. La nota oficial se publicó el 11 de noviembre, fecha distinta de la sentencia.
+  descripcion: La STS 859/2022 desestima los recursos de los tres condenados y de las acusaciones populares, confirma la sentencia de instancia e impone a cada recurrente las costas de su recurso. El fallo declara que no cabe recurso. La nota oficial se publicó el 10 de noviembre, fecha distinta de la sentencia.
   type: sentencia
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=979ace6d01072119a0a8778d75e36f0d&encode=true&databasematch=AN
@@ -115,7 +114,7 @@ cronologia:
 
 Esta ficha se limita a **Serrallo** y a la reclamación patrimonial ligada a las licencias anuladas. La operación Nazarí y sus piezas Mulhacén o Ciudad de la Luz son procedimientos diferentes: las actuaciones posteriores contra personas comunes no modifican automáticamente las absoluciones de Serrallo. Se retiran las fechas heredadas no revalidadas de denuncia e imputación y las afirmaciones de una detención sin precedente o de un cierre global de Nazarí. Sebastián Pérez no se mantiene como acusado absuelto de esta causa sin soporte nominal suficiente.
 
-El [PDF oficial del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=979ace6d01072119a0a8778d75e36f0d&encode=true&databasematch=AN), de 57 páginas, identifica la sentencia penal de instancia como la **236/2020 de la Sección Segunda**, de 21 de julio de 2020. Se han cotejado la cabecera, el fallo de instancia reproducido, la rectificación de 29 de julio y el fallo de casación. La fecha judicial es el 2 de noviembre de 2022; el 11 de noviembre corresponde a la [nota de comunicación](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-las-penas-de-inhabilitacion-que-impuso-la-Audiencia-de-Granada-a-tres-condenados-por-el-caso--Serrallo-). La exportación del PDF en octubre de 2026 tampoco es fecha del acto. El documento está anonimizado: las identidades y los fallos nominales se contrastan con la [reproducción periodística de 2020](https://www.elindependientedegranada.es/politica/sentencia-caso-serrallo-absuelto-torres-hurtado-condena-prevaricacion-isabel-nieto), sin deducir nombres de seudónimos.
+El [PDF oficial del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=979ace6d01072119a0a8778d75e36f0d&encode=true&databasematch=AN), de 57 páginas, identifica la sentencia penal de instancia como la **236/2020 de la Sección Segunda**, de 21 de julio de 2020. Se han cotejado la cabecera, el fallo de instancia reproducido, la rectificación de 29 de julio y el fallo de casación. La fecha judicial es el 2 de noviembre de 2022; el 10 de noviembre corresponde a la [nota de comunicación](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-las-penas-de-inhabilitacion-que-impuso-la-Audiencia-de-Granada-a-tres-condenados-por-el-caso--Serrallo-). La exportación del PDF en octubre de 2026 tampoco es fecha del acto. El documento está anonimizado: las identidades y los fallos nominales se contrastan con la [reproducción periodística de 2020](https://www.elindependientedegranada.es/politica/sentencia-caso-serrallo-absuelto-torres-hurtado-condena-prevaricacion-isabel-nieto), sin deducir nombres de seudónimos.
 
 Las inhabilitaciones tienen ámbitos concretos: concejal para Nieto; funcionario municipal para Martín Herrera; ambos para García Arrabal. También hubo absoluciones parciales de estos tres acusados y absoluciones de los restantes. El Supremo desestimó, además, los recursos de las acusaciones populares sobre las costas de los absueltos. No se confunden dichas costas con indemnizaciones ni con perjuicio municipal. La ejecución de las penas no se ha reconstruido.
 
