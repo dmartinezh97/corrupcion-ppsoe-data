@@ -42,8 +42,9 @@ descripcion: 'Las piezas 2 y 3 del caso Cooperación juzgaron las subvenciones d
   auto como irrecurrible, el 3 de septiembre de 2026 el mismo medio informó de que el Supremo había estimado las
   quejas de Fiscalía y Generalitat y ordenado tener preparados y tramitar sus recursos de casación. Es una decisión
   de acceso al recurso, no una resolución sobre el importe ni una nueva condena. La noticia también informa del
-  desembargo y recuperación del yate de Tauroni; no acredita la devolución de los fondos de los apartamentos de
-  Miami. Faltan los originales de estos autos, el resultado posterior de la casación civil, las liquidaciones contables
+  desembargo y recuperación del yate de Tauroni; no acredita la devolución a Tauroni de los fondos de los apartamentos de
+  Miami. La recuperación pública de 878.735,85 euros comunicada por el TSJCV el 10 de marzo de 2026 corresponde
+  a la ejecutoria de la pieza 1: no se suma ni se imputa a la responsabilidad civil de estas piezas. Faltan los originales de estos autos, el resultado posterior de la casación civil, las liquidaciones contables
   y la ejecución individual completa. Por ello la revisión sigue incompleta: la firmeza del pronunciamiento penal
   del Supremo no significa que se hayan recuperado todos los fondos o terminado todos los procedimientos.'
 resumen: Condenas por el desvío de ayudas de cooperación de 2009–2011 y el proyecto de hospital en Haití. El Supremo
@@ -158,7 +159,8 @@ cronologia:
   descripcion: 'elDiario.es informa de la estimación de las quejas de Fiscalía y Generalitat: el Supremo ordena
     tener preparado el recurso y continuar su tramitación. La noticia no fecha el auto ni acredita una decisión
     sobre el fondo o la cuantía. También informa de la recuperación del yate de Tauroni, sin acreditar devolución
-    de los fondos de Miami. Faltan los autos originales y el desenlace del recurso.'
+    de los fondos de Miami a Tauroni. La recuperación pública comunicada por el TSJCV corresponde a la ejecutoria
+    de la pieza 1 y no se imputa a estas piezas. Faltan los autos originales y el desenlace del recurso.'
   type: recurso
   relevancia: alta
   urls:
@@ -170,3 +172,5 @@ Las piezas segunda y tercera abarcan las convocatorias de cooperación de 2009�
 La [STS 948/2022](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=8a6aa11dee12186ea0a8778d75e36f0d&encode=true&databasematch=TS) reproduce el fallo de la Audiencia y su aclaración y contiene una segunda sentencia. Distingue el reconocimiento de la confesión tardía del recálculo pendiente en ejecución. Las absoluciones de Castel y Escandell no equivalen a las absoluciones parciales por asociación ilícita de otros condenados.
 
 El fallo recoge cantidades individuales consignadas y deja otras responsabilidades para ejecución. El volumen de subvenciones no permite fijar un perjuicio neto global ni sumar comisos, multas y reclamaciones como si fueran cantidades independientes recuperadas. La noticia de [4 de diciembre de 2025](https://www.eldiario.es/comunitat-valenciana/audiencia-valencia-salva-empresarios-trama-saqueo-cooperacion-pagar-millones-euros_1_12818289.amp.html) debe completarse con la de [3 de septiembre de 2026](https://www.eldiario.es/comunitat-valenciana/politica/supremo-ultima-bala-evitar-jefe-trama-blasco-recupere-parte-botin-robado_1_13485595.html): el acceso al Supremo fue desbloqueado, pero no queda documentada una decisión final sobre responsabilidad civil. Tampoco se acredita la ejecución penitenciaria posterior de cada condenado ni la liquidación final del procedimiento contable.
+
+La [recuperación pública comunicada por el TSJCV el 10 de marzo de 2026](https://www.poderjudicial.es/cgpj/eu/Botere-Judiziala/Berriak/El-Tribunal-Superior-de-Justicia-de-la-Comunidad-Valenciana-recupera-casi-900-000-euros-tras-la-subasta-de-los-dos-apartamentos-de-Miami-embargados-en-el--Caso-Cooperacion-) se produjo en la ejecutoria de la pieza 1. Es distinta de una devolución de fondos a Tauroni y no se añade a la responsabilidad civil de las piezas 2 y 3.
