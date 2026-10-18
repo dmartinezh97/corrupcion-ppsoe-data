@@ -3,14 +3,14 @@ nombre: Caso Pasarelas
 partido: PP
 completado: false
 año: 2006
-fechaInicio: '2006-07-03'
 estado: Absolución confirmada por el Supremo
 descripcion: 'El caso Pasarelas examinó la contratación de trabajos técnicos para acondicionar espacios públicos,
   pasarelas y áreas próximas a la rambla de Nogalte, en Puerto Lumbreras, durante la alcaldía de Pedro Antonio Sánchez.
   Las acusaciones sostenían que los encargos al arquitecto Martín Lejarraga se habían fraccionado para evitar la
-  concurrencia pública. La sentencia de instancia sitúa los hechos alegados entre el 3 de julio de 2006 y el 10
-  de abril de 2008. No los declara probados: el procedimiento terminó por una cuestión procesal previa, sin practicar
-  la prueba sobre el fondo.
+  concurrencia pública. El 3 de julio de 2006 corresponde a una resolución municipal de avocación de competencias,
+  no al inicio de la investigación penal: las diligencias previas se incoaron el 14 de julio de 2016. La sentencia
+  de instancia sitúa los hechos alegados entre el 3 de julio de 2006 y el 10 de abril de 2008. No los declara
+  probados: el procedimiento terminó por una cuestión procesal previa, sin practicar la prueba sobre el fondo.
 
 
   La Sección Tercera de la Audiencia Provincial de Murcia absolvió a ambos acusados mediante la sentencia 520/2018,
