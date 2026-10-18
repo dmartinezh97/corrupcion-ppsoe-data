@@ -87,6 +87,15 @@ cronologia:
   - https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia-Caso%20Troya.pdf
   - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/T--Supremo-confirma-la-condena-del-alcalde-y-un-concejal-de-Alhaurin-el-Grande-por-cohecho--exigieron-122-000-euros-a-un-constructor-por-una-licencia
   - https://www.europapress.es/andalucia/malaga-00356/noticia-supremo-confirma-condena-alcalde-alhaurin-grande-pp-caso-troya-20131008130901.html
+- fecha: '2013-11-08'
+  titulo: Firmeza e inicio de la suspensión comunicados según la prensa
+  descripcion: Cadena SER informó de la comparecencia de ambos condenados ante la Audiencia, donde se les comunicó
+    la firmeza y el inicio de la suspensión. La noticia menciona un plazo de diez días para la multa; no acredita
+    su pago íntegro. Falta el auto original de ejecución.
+  type: sentencia
+  relevancia: alta
+  urls:
+  - https://cadenaser.com/emisora/2013/11/08/ser_malaga/1383871831_850215.html
 - fecha: '2014-11-10'
   titulo: Regreso a la alcaldía documentado por la prensa
   descripcion: elDiario.es informó del retorno de Martín Serón tras el año de suspensión, ya fuera del PP, y de
@@ -101,12 +110,14 @@ cronologia:
 
 El fallo se refiere a una exigencia concreta de dinero por una licencia ya otorgada. No acredita una trama general de extorsión a todos los promotores: los hechos probados de la Audiencia rechazan expresamente que se demostrase ese sistema entre 2002 y 2006. Los restantes acusados fueron absueltos, no condenados por el hecho de haber figurado inicialmente en la causa. La condena de los dos cargos quedó confirmada en casación, sin que ello acredite por sí solo todos los actos posteriores de ejecución.
 
-La denominación anterior de «cohecho impropio» se retira. La STS diferencia el artículo 425 del Código Penal aplicable a los hechos del artículo 426 invocado por la defensa. Asimismo, la suspensión de cargo público es distinta de una pena de prisión directa: los seis meses del fallo son responsabilidad personal subsidiaria vinculada a la multa.
+La ficha precisa la condena como cohecho del artículo 425 del Código Penal aplicable a los hechos, denominado subsiguiente en la portada del Supremo. La STS lo diferencia del artículo 426 invocado por la defensa; su fundamentación también utiliza «cohecho pasivo impropio» al explicar la evolución de estos tipos, por lo que esa expresión no debe confundirse por sí sola con una absolución o una tipificación distinta. Asimismo, la suspensión de cargo público es distinta de una pena de prisión directa: los seis meses del fallo son responsabilidad personal subsidiaria vinculada a la multa.
 
 ## Dinero y seguimiento pendiente
 
 Los 122.000 euros son la cantidad exigida; no se presentan como pago efectivamente recibido ni como daño público. Las multas de 200.000 euros por condenado son penas y no se suman a aquella cantidad para calcular un coste. No se fija un perjuicio económico indemnizable en esta ficha.
 
 Se han obtenido dos PDF judiciales originales del Poder Judicial, verificados por contenido, fecha y número de páginas. Se han leído los antecedentes, hechos probados y fallo de instancia, y la portada, pasajes finales sobre tipificación y fallo del Supremo; no toda su fundamentación. Las fechas de creación de los archivos y de las noticias no sustituyen las fechas de las sentencias.
+
+Cadena SER documentó el 8 de noviembre de 2013 la comunicación de firmeza a ambos condenados y el comienzo de la suspensión. Se atribuye esta información a la noticia: no se ha obtenido el auto original ni se acredita con ella el pago de la multa.
 
 Quedan pendientes los autos de ejecución, el pago completo de las multas y cualquier incidencia o recurso ulterior hasta el 17 de octubre de 2026. La búsqueda realizada no acredita una revocación, pero no demuestra ausencia de novedades. Se retiran la etimología atribuida a la operación policial, las fechas rellenadas de 2006 y 2009 y la afirmación de que el regreso político ocurrió con apoyo del PP, incompatible con la noticia leída.
