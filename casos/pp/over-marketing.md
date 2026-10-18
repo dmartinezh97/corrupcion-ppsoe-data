@@ -55,6 +55,11 @@ tags:
 - financiación ilegal
 documentos:
 - fecha: '2022-07-07'
+  titulo: 'Tribunal Supremo, sentencia 690/2022, ECLI:ES:TS:2022:2700 (versión oficial CENDOJ)'
+  filetype: pdf
+  paginas: 47
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=bc4d8eb128d2d5c3a0a8778d75e36f0d&encode=true&databasematch=AN
+- fecha: '2022-07-07'
   titulo: 'Tribunal Supremo, sentencia 690/2022: recurso de José María Rodríguez en la pieza Over Marketing (facsímil
     judicial difundido por Prensa Ibérica)'
   filetype: pdf
@@ -92,7 +97,7 @@ numeroSentencia: AP Palma, Sección Segunda, 373/2019, de 14 de junio; TS 690/20
 
 ## Alcance de la causa
 
-El [original del Supremo](https://estaticos-cdn.prensaiberica.es/epi/public/content/file/original/2022/0711/10/lea-aqui-la-sentencia-del-caso-over-marketing-que-condena-a-3-5-a-jose-maria-rodriguiez-exlider-del--c472f6c.pdf), páginas físicas 2–3, identifica las diligencias 2677/2008, pieza separada 27, subpiezas 1, 2 y 3, y la sentencia recurrida. El fallo final resuelve la casación de Rodríguez. No es una condena general de todas las actividades nacionales del grupo Over.
+El [facsímil nominal del Supremo](https://estaticos-cdn.prensaiberica.es/epi/public/content/file/original/2022/0711/10/lea-aqui-la-sentencia-del-caso-over-marketing-que-condena-a-3-5-a-jose-maria-rodriguiez-exlider-del--c472f6c.pdf), páginas físicas 2–3, identifica las diligencias 2677/2008, pieza separada 27, subpiezas 1, 2 y 3, y la sentencia recurrida. El fallo final resuelve la casación de Rodríguez. No es una condena general de todas las actividades nacionales del grupo Over.
 
 En las páginas físicas 85–88 se examinan la campaña balear de 2003, pagos opacos y una deuda electoral pendiente de 80.000 euros. Esa deuda privada no es por sí sola la cuantificación del perjuicio público. Se retira el agregado de 60 millones, que mezclaba volúmenes de contratos, hipótesis y ámbitos territoriales sin un daño judicial total verificado. También se retiran las fechas iniciales rellenadas con el día 1.
 
@@ -100,7 +105,7 @@ Los procedimientos de Madrid/Púnica y Valencia no se presentan aquí como una m
 
 ## Penas y responsabilidades civiles
 
-El pronunciamiento de instancia reproducido en el PDF, páginas físicas 54–59, distingue:
+El pronunciamiento de instancia reproducido en el facsímil nominal, páginas físicas 54–59, distingue:
 
 - Matas: sustitución del año de prisión por 24 meses de multa y del año y seis meses por 36 meses, ambas a diez euros diarios. La equivalencia global de 18.000 euros no acredita pago efectivo.
 - Mercado: sustitución de tres meses de prisión por 180 días de multa a seis euros y de un año por 720 días a seis euros. Son 1.080 y 4.320 euros respectivamente; la ficha anterior omitía la primera pena. No se suman con responsabilidades civiles.
@@ -112,6 +117,6 @@ Las penas del listado son de esta pieza. No se acumulan aritméticamente con otr
 
 ## Documentación y actualización pendientes
 
-La fecha de la sentencia del Supremo es 7 de julio de 2022; el PDF fue generado el 11 de julio, fecha que también corresponde a las noticias sobre ella. Son datos distintos. Se verificaron sus 106 páginas físicas, portada, procedimiento y fallo, y se leyeron los pasajes indicados; no se leyó íntegramente el documento. El enlace es un facsímil judicial nominal publicado por un medio: no se reconstruyeron identidades a partir de pseudónimos. El intento de descarga oficial de CENDOJ devolvió 403.
+La fecha de la sentencia del Supremo es 7 de julio de 2022; el PDF fue generado el 11 de julio, fecha que también corresponde a las noticias sobre ella. Son datos distintos. Se verificaron sus 106 páginas físicas, portada, procedimiento y fallo, y se leyeron los pasajes indicados; no se leyó íntegramente el documento. El enlace es un facsímil judicial nominal publicado por un medio: no se reconstruyeron identidades a partir de pseudónimos. También se dispone de la [versión oficial de CENDOJ](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=bc4d8eb128d2d5c3a0a8778d75e36f0d&encode=true&databasematch=AN), de 47 páginas, con la misma sentencia 690/2022, fecha y recurso. De esta versión se cotejaron la cabecera de la página 1 y el fallo de la página 47; tampoco se afirma su lectura íntegra. Las referencias anteriores a páginas físicas corresponden al facsímil nominal de 106 páginas.
 
 La [noticia de octubre de 2022](https://www.eldiario.es/illes-balears/politica/jose-maria-rodriguez-logra-tercer-grado-penitenciario-doce-dias-despues-ingreso_1_9647847.amp.html) documenta a través de prensa el ingreso y el tercer grado de Rodríguez. No acredita libertad condicional, cumplimiento completo ni situación penitenciaria actual. No se ha obtenido el acuerdo penitenciario ni una resolución posterior del amparo citado. La ausencia de una novedad localizada hasta el corte de 17 de octubre de 2026 no demuestra su inexistencia. Se mantiene la ficha incompleta y sin fecha final de ejecución.
