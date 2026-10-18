@@ -1,96 +1,139 @@
 ---
-nombre: "Palma Arena"
+nombre: Palma Arena
 partido: PP
-completado: true
-año: 2003
-fechaInicio: 2003-01-01
-fechaFin: ""
-estado: "cerrado con condenas"
-descripcion: |
-  El caso Palma Arena es una macrocausa de corrupción que investiga los sobrecostes en la construcción del velódromo Palma Arena en Mallorca, una instalación deportiva que fue la sede del Campeonato Mundial de Ciclismo en Pista de 2007. La investigación reveló que los costes de construcción se dispararon aproximadamente 60 millones de euros por encima de lo presupuestado, sin que existiera documentación que justificara este incremento.
+completado: false
+año: 2008
+fechaFin: ''
+estado: Macrocausa con condenas y absoluciones; archivo provisional de la pieza principal comunicado por Fiscalía
+descripcion: 'La causa Palma Arena (DP 2677/2008) se fragmentó en 28 piezas, según las memorias de la Fiscalía Anticorrupción.
+  Su objeto inicial fueron las irregularidades en la construcción del velódromo; las piezas abarcaron también contratos,
+  publicidad y financiación electoral. No existe un único resultado penal aplicable a todas las personas y actuaciones.
 
-  El caso se convirtió en la "macrocausa matriz" que destapó una extensa red de corrupción durante los gobiernos de Jaume Matas (1996-1999 y 2003-2007). La investigación se ramificó en 26 piezas separadas que incluyen desde el desvío de fondos del Instituto Balear de Turismo (caso Ibatur) hasta la financiación ilegal del PP balear, pasando por el famoso caso Nóos. En total, 42 personas fueron investigadas, la mayoría vinculadas al PP y a Unió Mallorquina.
 
-  El expresidente Matas fue condenado en múltiples ocasiones: por pagar con dinero público al periodista Antonio Alemany para que escribiera artículos favorables (9 meses de prisión), por el caso Son Espases relacionado con la construcción del hospital (3 años y 8 meses), y por el caso Nóos (3 años y 8 meses). Siete altos cargos del PP balear llegaron a ingresar en prisión por delitos de corrupción derivados de esta era.
+  La sentencia del Supremo de 15 de julio de 2013 mantuvo a Jaume Matas nueve meses y un día de prisión por tráfico
+  de influencias, pero lo absolvió de otros delitos. Hubo además condenas y absoluciones en otras piezas. La Fiscalía
+  informó del archivo provisional de la pieza principal en enero de 2020, al quedar sin objeto tras la fragmentación.
+  No equivale a una absolución global ni acredita la extinción de todas las penas.
 
-resumen: "Sobrecostes de 60 millones de euros en la construcción del velódromo Palma Arena"
-lugar: "Palma de Mallorca, Islas Baleares"
-coste: 60000000
+
+  Revisión parcial a 17 de octubre de 2026: no se han cotejado todas las resoluciones, recursos y ejecutorias de
+  las 28 piezas. No se atribuye un daño económico global al sobrecoste difundido sobre el velódromo. Son Espases
+  es otro procedimiento, y las penas de Nóos deben examinarse separadamente.'
+resumen: Investigación del velódromo y 28 piezas con resultados judiciales distintos
+lugar: Palma, Illes Balears
 tribunal:
-  - "Juzgado de Instrucción nº 3 de Palma"
-  - "Audiencia Provincial de Palma de Mallorca"
-  - "Tribunal Supremo"
-numeroSentencia: ""
+- Juzgado de Instrucción n.º 3 de Palma
+- Audiencia Provincial de Illes Balears
+- Tribunal Supremo
+numeroSentencia: STS 657/2013, de 15 de julio (una de las piezas)
 implicados:
-  - nombre: "Jaume Matas"
-    cargo: "Expresidente del Govern Balear (PP)"
-    rol: "Condenado en múltiples causas: 9 meses (pago a periodista), 3 años y 8 meses (Son Espases), 3 años y 8 meses (Nóos)"
-
-  - nombre: "Bartolomé Vicens"
-    cargo: "Exconsejero de Obras Públicas del Govern Balear"
-    rol: "Imputado por los sobrecostes de Palma Arena, prevaricación y malversación"
-
-  - nombre: "Antonio Alemany"
-    cargo: "Periodista y columnista"
-    rol: "Beneficiario de pagos públicos por escribir artículos favorables a Matas"
-
-  - nombre: "Pepote Ballester"
-    cargo: "Exdirector general de Deportes del Govern Balear"
-    rol: "Condenado por el caso Nóos, vinculado a la adjudicación de contratos de Palma Arena"
-
+- nombre: Jaume Matas Palou
+  cargo: Expresidente del Govern de les Illes Balears (PP)
+  rol: Condenado por tráfico de influencias en la STS 657/2013 a nueve meses y un día de prisión; absuelto de otros
+    delitos. Condenado por prevaricación en las piezas 8 y 9 y absuelto de fraude; absuelto en el juicio de las
+    piezas 16 y 17 tras retirarse las acusaciones.
+- nombre: Antonio de Padua Alemany Dezcallar
+  cargo: Periodista
+  rol: El Supremo mantuvo condenas por prevaricación, malversación y falsedad mercantil y redujo su pena a dos años,
+    tres meses y un día de prisión; lo absolvió de otros delitos.
+- nombre: Joan Martorell Bonet
+  cargo: Exdirector general de Comunicación del Govern
+  rol: El Supremo mantuvo la condena por prevaricación y malversación del Contrato Menor, con siete meses y un día
+    de prisión, y lo absolvió por el Caso Concurso.
+- nombre: Miguel Romero de la Cerda
+  cargo: Acusado en el Caso Concurso de la pieza sobre contratación de servicios de comunicación
+  rol: Absuelto de todos los delitos por el Supremo, que extendió a este acusado no recurrente los efectos favorables
+    de la casación.
+- nombre: José Luis (Pepote) Ballester
+  cargo: Exdirector general de Deportes del Govern
+  rol: Condenado a cuatro años de inhabilitación por prevaricación en las piezas 8 y 9; absuelto de fraude en ellas,
+    según la comunicación del CGPJ.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "tráfico de influencias"
-  - "sobrecostes"
-  - "obra pública"
-  - "financiación ilegal"
-
-impactoSocial: "El caso Palma Arena destapó la corrupción sistémica del PP balear durante la era Matas, provocando la caída política del expresidente y la condena de múltiples altos cargos. Sirvió como caso matriz que derivó en otras investigaciones como el caso Nóos, evidenciando cómo las instituciones baleares fueron utilizadas para el enriquecimiento personal de políticos y empresarios afines."
-
-documentos: null
-
+- prevaricación
+- malversación
+- tráfico de influencias
+- obra pública
+- financiación irregular
+impactoSocial: La fragmentación de la investigación produjo numerosos juicios y resultados diferentes. El control
+  de la contratación pública y la financiación electoral fue objeto de varias piezas, sin que las condenas permitan
+  atribuir responsabilidad colectiva a todas las personas investigadas.
+documentos:
+- fecha: '2013-07-15'
+  titulo: STS 657/2013, casación y segunda sentencia, con voto particular (PDF oficial; lectura parcial)
+  filetype: pdf
+  paginas: 124
+  nombre_fichero: https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia-Jaume%20Matas-Antonio%20Alemany.pdf
 cronologia:
-  - fecha: 2007-03-01
-    titulo: "Inauguración de Palma Arena"
-    descripcion: "Se inaugura el velódromo Palma Arena como sede del Campeonato Mundial de Ciclismo en Pista. El coste final de la obra supera en unos 60 millones de euros el presupuesto inicial sin justificación documental."
-    type: "resumen"
-    urls:
-      - "https://www.losgenoveses.net/Personajes%20Populares/Matas/casopalmaarena/casopalmaarenanoticias.htm"
-
-  - fecha: 2007-07-01
-    titulo: "El nuevo gobierno encarga una auditoría"
-    descripcion: "El nuevo gobierno del PSIB-PSOE de Francesc Antich encarga una auditoría sobre los sobrecostes de Palma Arena, que destapa las irregularidades y da origen a la investigación judicial."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Palma+Arena&numero=80"
-
-  - fecha: 2010-02-01
-    titulo: "Imputación de Jaume Matas"
-    descripcion: "El juez José Castro imputa formalmente a Jaume Matas por los sobrecostes de Palma Arena. La investigación se amplía a múltiples piezas que incluyen el caso Ibatur, Son Espases y lo que derivará en el caso Nóos."
-    type: "imputación"
-    urls:
-      - "https://www.elsaltodiario.com/corrupcion/jaume-matas-la-caida-al-infierno-del-presidente-todopoderoso"
-
-  - fecha: 2012-03-20
-    titulo: "Primera condena a Matas: 9 meses de prisión"
-    descripcion: "Jaume Matas es condenado a 9 meses de prisión por un delito de tráfico de influencias, al pagar con fondos públicos al periodista Antonio Alemany para que escribiera artículos favorables en prensa."
-    type: "sentencia"
-    urls:
-      - "https://www.periodicodeibiza.es/historia/primera-sentencia-del-caso-palma-arena-para-matas.html"
-
-  - fecha: 2017-02-17
-    titulo: "Condena en el caso Nóos"
-    descripcion: "Jaume Matas es condenado a 3 años y 8 meses de prisión en el caso Nóos, derivado de la macrocausa Palma Arena, por contratar con el Instituto Nóos de Urdangarin eventos turísticos sin control."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/politica/jaume-matas-sale-tercer-grado-diez-juicios-anos-medio-rejas-acusacion-pendiente_1_6184207.html"
-
-  - fecha: 2019-05-01
-    titulo: "Matas obtiene tercer grado"
-    descripcion: "Tras cumplir aproximadamente dos años y medio entre rejas sumando todas sus condenas, Jaume Matas obtiene el tercer grado penitenciario. Ha afrontado diez juicios derivados de la macrocausa Palma Arena."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/jaume-matas-sale-tercer-grado-diez-juicios-anos-medio-rejas-acusacion-pendiente_1_6184207.html"
+- fecha: '2012-03-19'
+  titulo: Sentencia de instancia posteriormente modificada
+  descripcion: La Audiencia dictó la sentencia sobre contratación de servicios de comunicación que sería parcialmente
+    casada por el Supremo en 2013. Los nueve meses y un día corresponden al resultado de la casación, no a la pena
+    total inicial de Matas.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia-Jaume%20Matas-Antonio%20Alemany.pdf
+- fecha: '2013-07-15'
+  titulo: El Supremo reduce condenas y acuerda absoluciones
+  descripcion: La STS 657/2013 mantiene a Matas nueve meses y un día por tráfico de influencias, multa de 6.000
+    euros e inhabilitación especial de cuatro años, seis meses y un día. Reduce las penas de Alemany y Martorell
+    y absuelve a Romero. Mantiene una responsabilidad civil solidaria de Alemany y Martorell de 11.550 euros por
+    el Contrato Menor; deja sin efecto los 13.316,64 euros del Caso Concurso.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia-Jaume%20Matas-Antonio%20Alemany.pdf
+  - https://www.poderjudicial.es/cgpj/fr/Pouvoir-Judiciaire/Nouveautes/El-Tribunal-Supremo-condena-por-trafico-de-influencias-al-ex-presidente-de-Baleares-Jaume-Matas-a-la-pena-de-9-meses-de-prision
+- fecha: '2017-10-16'
+  titulo: 'Piezas 8 y 9: condenas por prevaricación y absolución por fraude'
+  descripcion: La memoria fiscal fecha esta sentencia sobre constitución del Consorcio y contratación de arquitectos.
+    El CGPJ comunica ocho años de inhabilitación para Matas y cuatro para Ballester por prevaricación y absolución
+    de fraude al no acreditarse finalidad defraudatoria ni perjuicio patrimonial.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/portal/site/cgpj/menuitem.65d2c4456b6ddb628e635fc1dc432ea0/?vgnextoid=33d254975252f510VgnVCM1000006f48ac0aRCRD
+  - https://www.fiscal.es/memorias/memoria2019/FISCALIA_SITE/capitulo_II/cap_II_6_5.html
+- fecha: '2019-06-14'
+  titulo: 'Pieza Calatrava: resolución del Supremo'
+  descripcion: La memoria de Fiscalía identifica la STS 311/2019, que estima el recurso fiscal y condena por tráfico
+    de influencias con atenuante de dilaciones indebidas, manteniendo los restantes pronunciamientos de la sentencia
+    de la Audiencia de 25 de octubre de 2017. No se ha cotejado aquí el texto judicial completo de esta pieza.
+  type: sentencia
+  urls:
+  - https://www.fiscal.es/memorias/memoria2020/FISCALIA_SITE/capitulo_II/cap_II_6_5.html
+- fecha: '2019-11-15'
+  titulo: 'Piezas 16 y 17: absolución de Matas y otras condenas'
+  descripcion: 'Europa Press informó del juicio sobre contratos publicitarios con Nimbus: Matas fue absuelto tras
+    retirar Fiscalía y Abogacía autonómica sus acusaciones; Jorge Moisés aceptó dos años de prisión por cohecho
+    y hubo penas de inhabilitación por prevaricación para Moisés, Ballester y Jane King. La petición de suspensión
+    de prisión no acredita su concesión.'
+  type: sentencia
+  urls:
+  - https://www.europapress.es/illes-balears/noticia-ultimo-juicio-palma-arena-salda-absolucion-matas-dos-anos-carcel-gerente-consorcio-20191115132541.html
+  - https://www.fiscal.es/memorias/memoria2020/FISCALIA_SITE/capitulo_II/cap_II_6_5.html
+- fecha: '2020-08-26'
+  titulo: Información sobre el tercer grado de Matas
+  descripcion: elDiario.es publicó que Matas había salido en tercer grado penitenciario. La fecha corresponde a
+    la información periodística y no sustituye una resolución penitenciaria cotejada; no se atribuye este régimen
+    a una sola de sus condenas.
+  type: ejecución
+  urls:
+  - https://www.eldiario.es/politica/jaume-matas-sale-tercer-grado-diez-juicios-anos-medio-rejas-acusacion-pendiente_1_6184207.html
+- fecha: '2022-07-11'
+  titulo: Información sobre la confirmación de la condena del caso Over
+  descripcion: elDiario.es informó de que el Supremo había rechazado el recurso de José María Rodríguez contra tres
+    años y medio de prisión y de la responsabilidad civil directa del PP por una factura de 9.048 euros. Es una
+    actualización periodística de la pieza 27, no la fecha judicial interna de la resolución ni una cuantificación
+    del daño global de Palma Arena.
+  type: sentencia
+  urls:
+  - https://www.eldiario.es/illes-balears/supremo-confirma-condena-exsecretario-general-pp-balears-financiacion-irregular-partido-2003_1_9160692.html
 ---
+
+La memoria de Fiscalía de 2020 sitúa el **archivo provisional de la pieza principal en enero de 2020**, después de su fragmentación en 28 piezas. La de 2022 aún describía el recurso de la pieza Over como pendiente; la noticia de julio de 2022 actualiza ese extremo. Las memorias son fuentes oficiales de seguimiento, pero no sustituyen los autos, sentencias o ejecutorias de cada pieza. No se ha recuperado el auto original de ese archivo.
+
+Nóos figura como pieza 25 en las memorias: tuvo sentencia de la Audiencia el 17 de febrero de 2017 y del Supremo el 8 de junio de 2018. Sus condenas, absoluciones y responsabilidades civiles requieren tratamiento separado. **Son Espases no debe confundirse con Nóos**: la Fiscalía lo relaciona en un epígrafe propio, como DP 2579/2015. Se retira la atribución errónea de tres años y ocho meses de prisión por Son Espases.
+
+No se publica un coste global: el aumento del presupuesto de una obra no acredita por sí solo daño penal o contable. Los 11.550 euros de responsabilidad civil solidaria del Contrato Menor se cuentan una sola vez, no por cada obligado; tampoco se suman automáticamente a otras piezas. Los 6.000 euros impuestos a Matas son una multa, no daño público.
+
+La revisión no permite certificar el estado de todas las ejecutorias ni todas las condenas accesorias a 17 de octubre de 2026. Se han suprimido fechas de día exacto sin respaldo, el número de 42 investigados, la inclusión no revalidada de Bartolomé Vicens y las afirmaciones generales sobre siete ingresos en prisión o enriquecimiento personal. La ausencia de novedades localizadas no acredita firmeza ni cumplimiento íntegro de penas.
+
+La STS 657/2013 está disponible en el [PDF oficial del Poder Judicial](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia-Jaume%20Matas-Antonio%20Alemany.pdf); se cotejaron su cabecera y las páginas 91–97 sobre la casación y la segunda sentencia. No se ha leído íntegramente su fundamentación ni el voto particular. Se enlaza el PDF oficial en `documentos`, con sus 124 páginas verificadas; no se incorpora una copia local al repositorio.
