@@ -89,6 +89,13 @@ cronologia:
   relevancia: alta
   urls:
   - https://www.eldiario.es/euskadi/euskadi/san-antonio-vitoria-maroto-alonso_1_3616407.html
+- fecha: '2026-04-22'
+  titulo: Se anuncia la no renovación del alquiler para 2027
+  descripcion: elDiario.es recoge la intención municipal de abandonar el local al expirar el contrato en febrero de 2027.
+    Es una previsión administrativa, no la terminación ya ejecutada ni una nueva resolución judicial.
+  type: resumen
+  urls:
+  - https://www.eldiario.es/euskadi/vitoria-enterrara-2027-ultima-herencia-alfonso-alonso-alcalde-alquiler-leonino-veinte-anos_1_13164391.html
 ---
 
 La [sentencia de apelación del Tribunal de Cuentas](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2016/SENTENCIA-18_2016_SJ_VP.pdf) distingue el control de legalidad de las valoraciones sobre oportunidad o eficiencia del gasto. La mayoría consideró que la actuación examinada no infringía la normativa económico-financiera necesaria para exigir responsabilidad contable. Revocó la condena relativa a renta, actualizaciones y gastos de comunidad, manteniendo el pronunciamiento absolutorio que ya contenía la primera instancia respecto de otra pretensión de actualización de rentas.
