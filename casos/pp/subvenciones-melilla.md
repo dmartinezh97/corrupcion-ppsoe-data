@@ -3,7 +3,6 @@ nombre: Subvenciones Melilla
 partido: PP
 completado: false
 año: 2007
-fechaInicio: '2014-03-10'
 fechaFin: ''
 estado: resultado judicial no verificado
 descripcion: 'Una noticia de Melilla Hoy del 10 de marzo de 2014 informó de la imputación del consejero de Educación Antonio Miranda, del exconsejero de Deportes Francisco Robles y de un funcionario por una convocatoria de subvenciones de 2007. Es una referencia histórica a una investigación, no una condena ni prueba de su situación procesal actual.
@@ -14,7 +13,6 @@ descripcion: 'Una noticia de Melilla Hoy del 10 de marzo de 2014 informó de la 
 
   Revisión parcial al 17 de octubre de 2026: no se ha localizado una resolución que acredite el sobreseimiento consignado en la ficha anterior, ni una sentencia o recurso posterior que cierre documentalmente esta causa. Se retira ese estado y no se afirma que la investigación siga abierta hoy. Las fechas exactas heredadas de convocatoria, denuncia e imputación en 2007 carecían de soporte cotejado.'
 resumen: Investigación histórica sobre subvenciones juveniles de Melilla de 2007; imputaciones publicadas en 2014 y resultado judicial pendiente de verificar.
-coste: 0
 lugar: Melilla
 tribunal:
 - Juzgado de instrucción de Melilla (número y procedimiento no verificados)
@@ -60,11 +58,11 @@ cronologia:
   - https://www.elconfidencial.com/espana/2019-05-06/melilla-vice-imbroda-corrupcion-partido-popular_1976134/
 ---
 
-El año **2007** identifica la convocatoria mencionada por las fuentes, no una fecha exacta de denuncia o resolución judicial. `fechaInicio` usa el primer hito publicado y cotejado de esta revisión, el [10 de marzo de 2014](https://melillahoy.es/antonio-miranda-y-francisco-robles-imputados-por-concesin-de-ayudas/), sin afirmar que el procedimiento empezase ese día. Se eliminan las fechas artificiales del 1 de enero, 1 de junio y 1 de septiembre de 2007.
+El año **2007** identifica la convocatoria mencionada por las fuentes, no una fecha exacta de denuncia o resolución judicial. El primer hito publicado y cotejado de esta revisión es el [10 de marzo de 2014](https://melillahoy.es/antonio-miranda-y-francisco-robles-imputados-por-concesin-de-ayudas/), sin afirmar que el procedimiento empezase ese día. Se eliminan las fechas artificiales del 1 de enero, 1 de junio y 1 de septiembre de 2007.
 
 La [información de Vozpópuli de 23 de febrero de 2015](https://www.vozpopuli.com/espana/juan_jose_imbroda-melilla-operacion_tosca-caso_abogados-pp-operacion_opera-guardia_civil-uco_0_782021839.html) aporta el relato de la denuncia y los indicios atribuidos al juez. Se conserva como información periodística sobre una **sospecha**, no como hecho judicialmente declarado probado. Además, el medio habla de una imputación en el pasado octubre, mientras la noticia local ya informó de imputaciones en marzo de 2014. Sin los autos no se puede resolver si se trataba de actos diferentes ni reconstruir su calendario exacto.
 
-Los **50.000 euros anuales** citados por el medio no se convierten en perjuicio patrimonial. No se ha verificado si el importe corresponde a cada entidad, al conjunto o a una partida concreta, ni un reintegro, indemnización o desvío probado. `coste: 0` significa que no se incorpora una cuantificación de daño acreditado; no certifica que no pudiera existir alguno. Tampoco se identifican por conjetura las dos entidades o el funcionario.
+Los **50.000 euros anuales** citados por el medio no se convierten en perjuicio patrimonial. No se ha verificado si el importe corresponde a cada entidad, al conjunto o a una partida concreta, ni un reintegro, indemnización o desvío probado. No se incorpora una cuantificación de daño acreditado; ello no certifica que no pudiera existir alguno. Tampoco se identifican por conjetura las dos entidades o el funcionario.
 
 El [reportaje de El Confidencial de 2019](https://www.elconfidencial.com/espana/2019-05-06/melilla-vice-imbroda-corrupcion-partido-popular_1976134/) vuelve a mencionar la investigación de estas subvenciones. Sus referencias a sobreseimientos de piezas de **Tosca** y su fe de errores sobre absoluciones de otras personas no prueban un archivo de esta causa. Del mismo modo, la referencia heredada de Público trata de otras investigaciones de contratación. No se trasladan a esta ficha resultados de Ópera, Tosca, la causa Abogados, las ayudas de Promesa o la posterior investigación sobre libros escolares.
 
