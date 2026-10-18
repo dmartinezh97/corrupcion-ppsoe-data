@@ -39,6 +39,10 @@ implicados:
   cargo: Exparlamentaria del PP y exsocia de Sirga XXI
   rol: Denunciante inicial en junio de 2015 y posteriormente investigada. El sobreseimiento provisional comunicado
     en mayo de 2018 también la afectó, según las fuentes periodísticas.
+- nombre: Jaime Miguel Marín Cózar
+  cargo: Socio y asesor vinculado a Sirga, según la cobertura periodística
+  rol: SER lo identifica en mayo de 2018 como otro investigado y recoge la valoración fiscal de su limitada participación.
+    El auto original y el alcance individual de su sobreseimiento no se han cotejado.
 tags:
 - asesorías
 - falsedad documental
@@ -106,3 +110,5 @@ Se elimina la afirmación de que Pujalte ingresó 3,5 millones injustificados o 
 La remuneración por asesorías, el porcentaje máximo del 85% referido en la noticia de 2016 y el volumen de contratos públicos de clientes son conceptos diferentes. No se suman como perjuicio ni justifican incluir `coste`. Se retira asimismo la condición de diputado que se atribuía a un directivo de Collosa sin soporte suficiente en las fuentes cotejadas.
 
 Se suprimen fechas incompletas como «2017-03» y «2017-09» y eventos cuya fecha o alcance no se ha revalidado. El documento societario de 2008, las declaraciones de noviembre de 2016 y las primeras revelaciones de prensa requieren sus propias fechas, sin convertir el día de una noticia en la fecha de un acto judicial. La revisión permanece parcial a 17 de octubre de 2026. `documentos: []` señala la ausencia de originales judiciales verificables incorporados.
+
+La noticia de SER de mayo de 2018 menciona también como investigado a Jaime Miguel Marín Cózar y recoge la valoración fiscal de su limitada participación. Se añade con esa atribución nominal, sin certificar una resolución individual no recuperada. La cronología completa de otros clientes o profesionales que declararon como testigos o fueron investigados requiere sus propios autos; no se deduce de una relación comercial una condición penal.
