@@ -1,103 +1,124 @@
 ---
-nombre: "Edu/El Paraíso"
+nombre: Edu/El Paraíso
 partido: PSOE
-completado: true
+completado: false
 año: 2015
-fechaInicio: 2007-01-01
-fechaFin: "2018-07-06"
-estado: "sobreseimiento"
-descripcion: |
-  El caso Edu/El Paraíso es una rama de la macrocausa conocida como Caso EDU, que investiga el presunto fraude masivo en subvenciones para cursos de formación de desempleados gestionadas por la Junta de Andalucía durante los gobiernos del PSOE. En concreto, la pieza El Paraíso se centró en la empresa hostelera El Paraíso de la Dehesa S.L., vinculada a Gonzalo Rodríguez Nevado, alcalde socialista de Punta Umbría (Huelva), quien ejerció como administrador único de la sociedad hasta enero de 2012. Dicha empresa recibió entre 2007 y 2011 más de un millón de euros en subvenciones del Servicio Andaluz de Empleo para impartir cursos de hostelería a trabajadores desempleados.
-
-  La investigación policial, llevada a cabo por la Unidad Central contra la Delincuencia Económica y Fiscal (UDEF) de la Policía Nacional, concluyó que El Paraíso de la Dehesa utilizaba las subvenciones para sufragar gastos propios de su actividad como restaurante, sin relación real con la formación de parados. Entre las facturas presentadas para justificar los fondos aparecían compras de ochenta kilos de pez espada, veinte figuras de comunión de lujo, botellas de ron Legendario de siete años, cerveza y jamón ibérico. La Policía también detectó que los alumnos de los cursos habrían trabajado como mano de obra gratuita en los establecimientos del ex alcalde. El 15 de junio de 2015, en el marco de la Operación Eduende —tercera fase del Caso EDU—, Rodríguez Nevado fue detenido apenas 48 horas después de tomar posesión como alcalde reelecto, junto a su hermana y dos sobrinos que figuraban al frente de la empresa. Todos quedaron en libertad tras declarar ante el Juzgado de Instrucción número 5 de Huelva.
-
-  Pese a la aparatosidad de la detención, la causa fue perdiendo fuerza en los tribunales. El juzgado archivó la mayoría de las piezas separadas relacionadas con El Paraíso por no apreciar indicios suficientes de prevaricación ni malversación, y mantuvo abierto únicamente un procedimiento abreviado por falsedad documental contra uno de los sobrinos, acusado de haber simulado la firma del ex alcalde en determinados documentos. Rodríguez Nevado dimitió de la alcaldía de Punta Umbría en el verano de 2015 como consecuencia de la investigación. El sobreseimiento definitivo de la rama principal del caso se produjo en el contexto del archivo general de la macrocausa EDU, consumado en julio de 2018, cuando la fiscalía concluía que los hechos investigados no llegaban a constituir delito penal.
-
-resumen: "Fraude en subvenciones de formación de la Junta de Andalucía: el restaurante del alcalde socialista de Punta Umbría cobró más de un millón de euros justificando gastos ajenos a la formación."
-coste: 1053434
-lugar: "Punta Umbría, Huelva, Andalucía"
+fechaInicio: '2015-06-15'
+estado: archivo provisional comunicado en 2017; evolución posterior pendiente de verificar
+lugar: Punta Umbría y Aljaraque, Huelva, Andalucía
+descripcion: Esta ficha se refiere a la investigación de ayudas de formación de la empresa El Paraíso de la Dehesa,
+  vinculada a Gonzalo Rodríguez Nevado, alcalde socialista de Punta Umbría. Fue detenido, declaró ante la Policía
+  y quedó en libertad el 15 de junio de 2015; formalizó su renuncia municipal el 12 de febrero de 2016. Europa Press
+  informó en marzo de 2017 de un archivo provisional condicionado a la resolución de recursos en el procedimiento
+  principal. La prensa de julio de 2018 distinguía el archivo de la pieza principal de Empleo de una continuación
+  por falsedad documental vinculada a El Paraíso. Faltan los autos originales, la delimitación final de las piezas
+  y el desenlace de esa falsedad y de eventuales recursos hasta el 17 de octubre de 2026. No se acredita un cierre
+  global firme ni una condena por el total de las ayudas.
+resumen: 'Investigación de ayudas de formación a El Paraíso de la Dehesa: archivo provisional comunicado en 2017
+  y evolución de las piezas pendientes de documentación original.'
 tribunal:
-  - "Juzgado de Instrucción nº 5 de Huelva"
-numeroSentencia: ""
+- Juzgado de Instrucción nº 5 de Huelva
 implicados:
-  - nombre: "Gonzalo Rodríguez Nevado"
-    cargo: "Alcalde de Punta Umbría (PSOE), administrador de El Paraíso de la Dehesa S.L."
-    rol: "Investigado por fraude en subvenciones de formación; dimitió como alcalde en 2015"
-
-  - nombre: "Hermana de Rodríguez Nevado"
-    cargo: "Administradora de El Paraíso de la Dehesa S.L. (desde enero 2012)"
-    rol: "Detenida en Operación Eduende por irregularidades en subvenciones de formación"
-
-  - nombre: "Sobrino de Rodríguez Nevado (1)"
-    cargo: "Administrador de El Paraíso de la Dehesa S.L. (desde enero 2012)"
-    rol: "Investigado por falsedad documental al simular la firma del ex alcalde"
-
-  - nombre: "Sobrino de Rodríguez Nevado (2)"
-    cargo: "Administrador de El Paraíso de la Dehesa S.L. (desde enero 2012)"
-    rol: "Detenido en Operación Eduende por irregularidades en subvenciones de formación"
-
+- nombre: Gonzalo Rodríguez Nevado
+  cargo: Alcalde de Punta Umbría por el PSOE hasta febrero de 2016; anterior administrador único de El Paraíso de
+    la Dehesa
+  rol: Investigado en la causa de formación; archivo provisional comunicado por Europa Press en marzo de 2017. No
+    se le atribuye condena ni falsedad documental.
+- nombre: María del Carmen Rodríguez Nevado
+  cargo: Administradora única de El Paraíso de la Dehesa, según inscripción mercantil de enero de 2012
+  rol: Identificada como investigada por Europa Press en marzo de 2017, al informar del archivo provisional. Desenlace
+    individual pendiente de autos originales.
+- nombre: Gonzalo Domínguez Rodríguez
+  cargo: Apoderado solidario de El Paraíso de la Dehesa, según inscripción mercantil de enero de 2012
+  rol: Identificado como investigado por Europa Press en marzo de 2017. No se determina a partir de esas fuentes
+    a cuál de los sobrinos se atribuyó la falsedad documental.
+- nombre: Carlos Javier Domínguez Rodríguez
+  cargo: Apoderado solidario de El Paraíso de la Dehesa, según inscripción mercantil de enero de 2012
+  rol: Identificado como investigado por Europa Press en marzo de 2017. No se determina a partir de esas fuentes
+    a cuál de los sobrinos se atribuyó la falsedad documental.
 tags:
-  - "corrupción"
-  - "fraude"
-  - "malversación"
-  - "falsedad documental"
-  - "subvenciones"
-  - "formación profesional"
-
-impactoSocial: "El caso ilustra el abuso sistemático de las subvenciones para formación de desempleados en Andalucía durante los gobiernos socialistas y tuvo gran repercusión mediática al producirse la detención del alcalde apenas dos días después de su toma de posesión, aunque la causa fue finalmente archivada sin condenas penales."
-
-documentos: []
-
+- subvenciones
+- formación profesional
+- investigación judicial
+documentos:
+- fecha: '2012-01-20'
+  titulo: 'BORME de Huelva: actos 28081 y 28082 de El Paraíso de la Dehesa (inscripciones de 5 de enero de 2012)'
+  filetype: pdf
+  paginas: 8
+  nombre_fichero: https://www.boe.es/borme/dias/2012/01/20/pdfs/BORME-A-2012-14-21.pdf
 cronologia:
-  - fecha: "2007-01-01"
-    titulo: "El Paraíso de la Dehesa comienza a cobrar subvenciones de formación"
-    descripcion: "La empresa hostelera El Paraíso de la Dehesa S.L., administrada por el alcalde socialista de Punta Umbría Gonzalo Rodríguez Nevado, empieza a recibir subvenciones del Servicio Andaluz de Empleo para impartir cursos de hostelería a trabajadores desempleados. Entre 2007 y 2011 cobrará más de un millón de euros, una cantidad superior a la que el propio Ayuntamiento de Punta Umbría recibió en el mismo período para sus programas de formación."
-    type: "investigación"
-    urls:
-      - "https://www.libremercado.com/2015-02-19/el-dueno-del-restaurante-donde-jimenez-uso-la-black-recibio-un-millon-para-cursos-de-formacion-1276541111/"
-
-  - fecha: "2012-01-05"
-    titulo: "Rodríguez Nevado cede la administración de la empresa a familiares"
-    descripcion: "Gonzalo Rodríguez Nevado traspasa la administración de El Paraíso de la Dehesa S.L. a su hermana y dos sobrinos, probablemente para separar formalmente su cargo de alcalde de la gestión de la empresa investigada. La UDEF detectará posteriormente esta maniobra durante el análisis de la documentación societaria."
-    type: "investigación"
-    urls: []
-
-  - fecha: "2015-02-19"
-    titulo: "Saltan a la prensa los gastos irregulares del restaurante con fondos de formación"
-    descripcion: "Medios de comunicación publican los detalles de las facturas presentadas por El Paraíso de la Dehesa para justificar las subvenciones de formación: ochenta kilos de pez espada, veinte figuras de comunión de lujo, botellas de ron Legendario de siete años y otras compras propias de un restaurante sin relación alguna con la formación de desempleados. Las informaciones generan un gran impacto mediático y señalan directamente al alcalde de Punta Umbría."
-    type: "denuncia"
-    urls:
-      - "https://www.libremercado.com/2015-02-19/el-dueno-del-restaurante-donde-jimenez-uso-la-black-recibio-un-millon-para-cursos-de-formacion-1276541111/"
-      - "https://www.periodistadigital.com/andalucia/huelva/2016/04/07/rico-whisky-cervecita-jamoncito-gasto-socialista-fondos-formacion-punta-umbria-restaurante-gonzalo-rodriguez-nevado.shtml"
-
-  - fecha: "2015-06-15"
-    titulo: "Operación Eduende: detención del alcalde de Punta Umbría"
-    descripcion: "En el marco de la Operación Eduende, tercera fase del Caso EDU, la Policía Nacional detiene a Gonzalo Rodríguez Nevado, alcalde de Punta Umbría, junto a su hermana y dos sobrinos. La detención se produce apenas 48 horas después de que Rodríguez Nevado tomara posesión como alcalde reelecto y un día después de que Susana Díaz asumiera la presidencia de la Junta de Andalucía. Los detenidos quedan en libertad tras prestar declaración ante el Juzgado de Instrucción número 5 de Huelva, con cargos por fraude en subvenciones, falsificación de documentos y desobediencia grave."
-    type: "detención"
-    urls:
-      - "https://www.libertaddigital.com/espana/2015-06-15/el-alcalde-de-punta-umbria-detenido-y-puesto-en-libertad-en-la-operacion-eduende-1276550576/"
-      - "https://www.vozpopuli.com/espana/Caso_Edu-UDEF-Junta_de_Andalucia-Punta_Umbria-Partido_Socialista_Obrero_Espanol_PSOE-Huelva-Operacion_Eduende-Operacion_Edu_0_815618477.html"
-
-  - fecha: "2015-07-01"
-    titulo: "Rodríguez Nevado dimite como alcalde de Punta Umbría"
-    descripcion: "Gonzalo Rodríguez Nevado presenta su dimisión como alcalde de Punta Umbría como consecuencia directa de su implicación en la investigación sobre los cursos de formación. El PSOE-A califica la decisión de «personal». La dimisión pone fin a su mandato recién iniciado y supone uno de los episodios más llamativos del Caso EDU, dado que la detención se había producido apenas dos días después de tomar posesión."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/andalucia/PSOE-A-dimision-Punta-Umbria-personal_0_480502407.html"
-
-  - fecha: "2016-04-07"
-    titulo: "El juzgado archiva las piezas principales contra El Paraíso"
-    descripcion: "El juzgado de instrucción acuerda el sobreseimiento y archivo de las diez piezas separadas relativas al caso El Paraíso, al no apreciar indicios suficientes de prevaricación ni malversación de fondos públicos. Se mantiene abierto únicamente el procedimiento abreviado por falsedad documental contra uno de los sobrinos del ex alcalde, acusado de haber simulado la firma de Rodríguez Nevado en documentos de la empresa. El archivo desinfla la causa y contradice las expectativas generadas por la sonada detención del alcalde meses antes."
-    type: "investigación"
-    urls:
-      - "https://www.elplural.com/autonomias/andalucia/el-fraude-de-los-cursos-de-punta-umbria-otro-bluf_101022102"
-
-  - fecha: "2018-07-06"
-    titulo: "Se consuma el archivo del Caso EDU en Huelva"
-    descripcion: "La macrocausa EDU en la provincia de Huelva se archiva definitivamente, consumando el fracaso judicial de la investigación más mediática sobre el fraude en cursos de formación de la Junta de Andalucía. La fiscalía concluye que los hechos investigados no alcanzan el umbral del delito penal, aunque reconoce irregularidades administrativas. El caso El Paraíso, rama de esta macrocausa, queda igualmente cerrado en su parte principal, con la única excepción del procedimiento por falsedad documental que continúa de forma residual."
-    type: "resumen"
-    urls:
-      - "https://www.libertaddigital.com/espana/2018-07-06/se-consuma-el-escandalo-judicial-del-caso-edu-del-fraude-de-la-formacion-en-huelva-1276621628/"
-      - "https://www.libertaddigital.com/espana/2018-04-25/perplejidad-judicial-la-fiscalia-dice-ahora-que-no-hubo-delito-en-los-cursos-de-formacion-de-huelva-1276617679/"
-
+- fecha: '2012-01-05'
+  titulo: Inscripción de los cambios de administración y apoderamiento
+  descripcion: El BORME publicado el 20 de enero recoge el cese de Gonzalo Rodríguez Nevado, el nombramiento de
+    María del Carmen Rodríguez Nevado como administradora única y el de Gonzalo y Carlos Javier Domínguez Rodríguez
+    como apoderados solidarios. No acredita un motivo de ocultación ni que todos fueran administradores.
+  type: documento
+  relevancia: media
+  urls:
+  - https://www.boe.es/borme/dias/2012/01/20/pdfs/BORME-A-2012-14-21.pdf
+- fecha: '2015-06-15'
+  titulo: Declaración policial y puesta en libertad
+  descripcion: Rodríguez Nevado declaró ante la Policía y quedó en libertad en la operación Eduende. La noticia
+    de Libertad Digital informa de detención; no se presenta esa declaración como comparecencia ante el juzgado.
+  type: detención
+  relevancia: alta
+  urls:
+  - https://www.libertaddigital.com/espana/2015-06-15/el-alcalde-de-punta-umbria-detenido-y-puesto-en-libertad-en-la-operacion-eduende-1276550576/
+  - https://elpais.com/politica/2015/06/15/actualidad/1434357269_748817.html
+- fecha: '2016-02-03'
+  titulo: Anuncio de dimisión
+  descripcion: El teletipo de Europa Press recoge el anuncio de que dejaría la alcaldía para defenderse y evitar
+    perjuicios al Ayuntamiento. La fecha es de 2016, no del verano de 2015.
+  type: dimisión
+  relevancia: alta
+  urls:
+  - https://www.eldiario.es/andalucia/PSOE-A-dimision-Punta-Umbria-personal_0_480502407.html
+- fecha: '2016-02-12'
+  titulo: Renuncia a la alcaldía y al acta de concejal
+  descripcion: SER informa de la formalización de la renuncia en pleno extraordinario. Aurora Águedo quedó como
+    alcaldesa en funciones, pendiente de investidura.
+  type: dimisión
+  relevancia: alta
+  urls:
+  - https://cadenaser.com/emisora/2016/02/12/radio_huelva/1455284935_340961.html
+- fecha: '2017-03-17'
+  titulo: Comunicación del archivo provisional
+  descripcion: Europa Press informa de archivo provisional respecto a Rodríguez Nevado y los otros investigados
+    hasta resolver los recursos del procedimiento del que la causa era pieza separada. La fecha es la de la noticia;
+    el auto original y su fecha exacta no se han recuperado.
+  type: auto
+  relevancia: alta
+  urls:
+  - https://www.europapress.es/andalucia/huelva-00354/noticia-archivan-provisionalmente-causa-cursos-formacion-contra-exalcalde-punta-umbria-huelva-20170317133026.html
+  - https://www.elplural.com/autonomias/andalucia/el-fraude-de-los-cursos-de-punta-umbria-otro-bluf_101022102
+- fecha: '2018-07-06'
+  titulo: Información sobre el archivo de Empleo y la pieza residual
+  descripcion: 'La información de Libertad Digital distingue el archivo de la pieza principal relativa a responsables
+    de Empleo y la causa de El Paraíso: señala archivo en lo relativo a fraude de subvenciones y continuación por
+    presunta falsedad documental de un sobrino. No permite afirmar cierre íntegro de todas las piezas ni firmeza.'
+  type: seguimiento
+  relevancia: alta
+  urls:
+  - https://www.libertaddigital.com/espana/2018-07-06/se-consuma-el-escandalo-judicial-del-caso-edu-del-fraude-de-la-formacion-en-huelva-1276621628/
+  - https://www.andaluciainformacion.es/articulo/huelva/archivan-la-pieza-de-los-cursos-de-formacion-en-huelva/201807051640382021382.html
 ---
+
+## Objeto de la investigación y límites de las cantidades
+
+La investigación se refería a ayudas para formación concedidas a la empresa hostelera El Paraíso de la Dehesa. Las noticias iniciales atribuyeron a la Policía sospechas sobre los requisitos de las ayudas y su justificación. No se presentan esas sospechas como hechos probados por una sentencia. La declaración del alcalde de junio de 2015 fue ante la Policía; el archivo provisional comunicado en marzo de 2017 es una decisión procesal distinta de una absolución.
+
+Se retira el coste de 1.053.434 euros: la prensa lo ofrecía como volumen acumulado de subvenciones, no como perjuicio declarado judicialmente. Las referencias al conjunto de empresas, a diferentes convocatorias y a una ayuda concreta de 2011 tampoco son cantidades intercambiables. Falta cotejar todas las concesiones, pagos, renuncias y reintegros con los expedientes originales. Se omiten las marcas y compras alimentarias concretas de la versión anterior, cuya atribución y relevancia penal no se han revalidado mediante atestado o resolución original.
+
+## Archivos y piezas diferentes
+
+Europa Press informó el 17 de marzo de 2017 de un **archivo provisional** para Rodríguez Nevado, María del Carmen Rodríguez Nevado, Gonzalo Domínguez Rodríguez y Carlos Javier Domínguez Rodríguez, hasta la resolución de recursos del procedimiento principal. El artículo de ElPlural que antes sustentaba un supuesto archivo de abril de 2016 fue publicado en marzo de 2017. No acredita el cierre definitivo que se le atribuía.
+
+La información de Efe difundida el 5 de julio de 2018 se refiere al archivo de la pieza principal de Huelva, en la que estaban investigados el exdelegado de Empleo y otras seis personas. Distingue el criterio del juez —que veía indicios— de la petición de archivo de Fiscalía y Junta, necesaria para explicar por qué no continuó el procedimiento. No equivale a una sentencia absolutoria ni demuestra por sí sola el resultado de El Paraíso. La información de Libertad Digital del día 6 aún menciona la continuación por falsedad documental contra uno de los sobrinos. Sin el auto original no se identifica al afectado ni se afirma que esa pieza siga abierta actualmente: su desenlace está pendiente de verificación.
+
+La ficha no extiende a toda la macrocausa EDU los archivos de Huelva ni traslada a esta empresa decisiones dictadas en otras provincias o en la pieza política de Sevilla.
+
+## Documentos y revisión pendiente
+
+El BORME permite corregir los cargos societarios: María del Carmen fue nombrada administradora única y los dos Domínguez Rodríguez apoderados solidarios. La inscripción es de 5 de enero de 2012 y la publicación de 20 de enero. No se deduce de esos actos una intención de separar u ocultar responsabilidades. Se han leído los asientos 28081 y 28082 de la página 2 del PDF de ocho páginas y se han comprobado visualmente; no se afirma lectura de los demás asientos.
+
+No se han localizado los autos judiciales originales que delimiten los archivos de 2017 y 2018, sus recursos, su firmeza o la pieza por falsedad documental. El documento incorporado es mercantil, no una resolución penal. Quedan pendientes esos extremos, la conciliación documental de las ayudas y las posibles novedades hasta el 17 de octubre de 2026. Por ello no se fija fecha de cierre y la revisión permanece incompleta.
