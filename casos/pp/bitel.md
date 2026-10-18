@@ -1,118 +1,106 @@
 ---
-nombre: "Caso Bitel"
+nombre: Caso Bitel
 partido: PP
-completado: true
+completado: false
 año: 2008
-fechaInicio: 2003-09-01
-fechaFin: 2012-12-21
-estado: "cerrado con condenas"
-descripcion: |
-  El Caso Bitel fue un escándalo de malversación de fondos públicos en las Islas Baleares protagonizado por Damià Vidal, director gerente de la empresa pública Balears Innovació Telemàtica S.A. (Bitel) entre septiembre de 2003 y julio de 2007, cargo para el que fue designado personalmente por el entonces president del Govern del PP, Jaume Matas. Bitel era una sociedad pública participada por el Govern que gestionaba las infraestructuras de telecomunicaciones e informática de la administración autonómica balear.
-
-  Entre 2003 y 2007, Vidal desvió aproximadamente 700.000 euros de las arcas de la empresa mediante múltiples vías: incrementos de nómina no autorizados, uso de la tarjeta de crédito corporativa para gastos personales, transferencias bancarias no justificadas, cobro de comisiones de proveedores (sobornos de entre el 16,5% y el 22,5%), y contratación con Hélix Infocom S.L., empresa de la que era socio, para desviar fondos. También manipuló concursos para adjudicar contratos a empresas amigas a cambio de comisiones de hasta 30.000 euros. Los hechos salieron a la luz en abril de 2008, cuando la Fiscalía Anticorrupción impulsó la detención de Vidal y otros tres implicados.
-
-  La Sección 2ª de la Audiencia Provincial de Palma de Mallorca dictó sentencia el 21 de diciembre de 2012, condenando a Damià Vidal a cinco años de prisión, quince años de inhabilitación para cargos públicos, multa de 60.000 euros e indemnización al Govern de casi 700.000 euros por los delitos de malversación de caudales públicos, fraude a la Administración, prevaricación y cohecho. Otros tres acusados recibieron penas menores y el exadministrador Miquel Simonet fue absuelto.
-resumen: "El gerente de la empresa pública Bitel malversó 700.000 euros en Baleares entre 2003 y 2007, designado directamente por Jaume Matas (PP)."
-coste: 700000
-lugar: "Palma de Mallorca, Illes Balears"
+estado: Condenas; casación resuelta en 2014
+resumen: Desvío de fondos de la empresa pública Bitel durante la gerencia de Damià Vidal; el Supremo mantuvo cinco años de
+  prisión y lo absolvió de prevaricación.
+descripcion: 'La STS 166/2014, de 28 de febrero, estimó parcialmente el recurso del gerente de Bitel y anuló su condena por
+  prevaricación, manteniendo los demás pronunciamientos: cinco años de prisión por malversación, fraude y cohecho. La responsabilidad
+  civil fijada a favor de Bitel fue de 565.961,38 euros, con responsabilidades compartidas que no deben sumarse otra vez.
+  La prensa documenta el ingreso de Damià Vidal en prisión el 14 de marzo de 2014. Falta verificar la ejecución económica
+  y penitenciaria posterior y el detalle nominal de todas las penas accesorias de los demás condenados hasta el 17 de octubre
+  de 2026. Este procedimiento es distinto del primer caso Bitel sobre correo electrónico.'
+lugar: Palma, Illes Balears
 tribunal:
-  - "Audiencia Provincial de Palma de Mallorca - Sección 2ª"
-  - "Juzgado de Instrucción nº 10 de Palma de Mallorca"
-numeroSentencia: ""
+- Sección Segunda de la Audiencia Provincial de Palma de Mallorca
+- Sala Segunda del Tribunal Supremo
+- Juzgado de Instrucción n.º 10 de Palma
+numeroSentencia: STS 166/2014, de 28 de febrero; ECLI:ES:TS:2014:974; recurso 748/2013
 implicados:
-  - nombre: "Damià Vidal"
-    cargo: "Director gerente de Bitel (sept. 2003 - jul. 2007)"
-    rol: "Condenado a 5 años de prisión por malversación, fraude, prevaricación y cohecho"
-
-  - nombre: "Jaume Matas Palou"
-    cargo: "President del Govern de les Illes Balears (2003-2007)"
-    rol: "Designó personalmente a Damià Vidal como gerente de Bitel sin ser imputado en esta causa"
-
-  - nombre: "Iván Guardia"
-    cargo: "Ingeniero informático de Bitel"
-    rol: "Condenado a seis meses de prisión como beneficiario de la trama"
-
-  - nombre: "Ramón de la Iglesia"
-    cargo: "Exdirigente de Nuevas Generaciones del PP Baleares"
-    rol: "Condenado a seis meses de prisión como beneficiario de la trama"
-
-  - nombre: "Sebastián Romaguera"
-    cargo: "Exsecretario de Bitel"
-    rol: "Condenado a nueve meses de multa como cooperador necesario"
-
-  - nombre: "Miquel Simonet"
-    cargo: "Exadministrador de Bitel"
-    rol: "Absuelto por insuficiencia de pruebas"
-
+- nombre: Damià Vidal
+  cargo: Gerente de Bitel durante el gobierno de Jaume Matas, entre 2003 y 2007
+  rol: Condenado a cinco años de prisión por malversación, fraude y cohecho; absuelto de prevaricación en casación. Ingreso
+    en prisión documentado en marzo de 2014
+- nombre: Iván Guardia
+  cargo: Ingeniero informático
+  rol: Condenado en primera instancia según Europa Press; detalle nominal de penas, sustituciones y ejecución pendiente de
+    cotejo
+- nombre: Ramón de la Iglesia
+  cargo: Ingeniero informático y exdirigente de Nuevas Generaciones según Europa Press
+  rol: Condenado en primera instancia según Europa Press; detalle nominal de penas, sustituciones y ejecución pendiente de
+    cotejo
+- nombre: Sebastián Romaguera
+  cargo: Exsecretario de Bitel
+  rol: Condenado al pago de una multa de 5.400 euros según Europa Press; no se atribuye una pena de prisión
+- nombre: Miquel Simonet
+  cargo: Exjefe financiero de Bitel
+  rol: Absuelto tras la retirada de las acusaciones según Europa Press
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "cohecho"
-  - "fraude a la administración"
-  - "empresa pública"
-  - "PP"
-  - "Baleares"
-
-impactoSocial: "El caso Bitel fue uno de los múltiples escándalos de corrupción que sepultaron la imagen del PP balear durante los gobiernos de Jaume Matas. La condena en 2012 confirmó que un cargo designado directamente por Matas saqueó durante cuatro años una empresa pública, contribuyendo al hundimiento electoral del PP en Baleares en 2007."
-
-documentos: []
-
+- empresa pública
+- malversación
+- fraude
+- cohecho
+- Baleares
+impactoSocial: La causa examinó el control de los fondos y de la contratación de una empresa pública de telecomunicaciones.
+  No se atribuyen a esta sentencia efectos electorales no acreditados.
+documentos:
+- fecha: '2014-02-28'
+  titulo: 'STS 166/2014: casación y segunda sentencia, absolución por prevaricación'
+  filetype: pdf
+  paginas: 35
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=7ec5799fc3fb4053&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2003-09-01"
-    titulo: "Jaume Matas designa a Damià Vidal como gerente de Bitel"
-    descripcion: "El president del Govern del PP, Jaume Matas, designa personalmente a Damià Vidal como director gerente de Balears Innovació Telemàtica S.A. (Bitel), empresa pública dependiente del Govern Balear. Vidal comenzará inmediatamente a desviar fondos de la sociedad pública mediante distintos mecanismos fraudulentos."
-    type: "resumen"
-    relevancia: "alta"
-    urls: []
-
-  - fecha: "2007-07-31"
-    titulo: "Damià Vidal cesa como gerente de Bitel"
-    descripcion: "Damià Vidal abandona el cargo de director gerente de Bitel tras el cambio de gobierno en Baleares. Según la acusación, realizó una transferencia no autorizada de fondos de la empresa el mismo día siguiente a su cese. Durante sus cuatro años al frente de la empresa, habría desviado aproximadamente 700.000 euros."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://laadministracionaldia.inap.es/noticia.asp?id=1057268"
-
-  - fecha: "2008-04-19"
-    titulo: "Detención de Damià Vidal y tres personas más"
-    descripcion: "La Fiscalía Anticorrupción impulsa la detención de Damià Vidal, exgerente de Bitel, junto a otras tres personas. Se le acusa de haber malversado presuntamente 700.000 euros de la empresa pública mediante incrementos de nómina no autorizados, uso indebido de tarjeta de crédito corporativa, transferencias irregulares y cobro de comisiones de proveedores. El caso queda bajo instrucción del Juzgado de Instrucción nº 10 de Palma de Mallorca."
-    type: "detención"
-    relevancia: "alta"
-    urls:
-      - "https://casoscorrupcion.wordpress.com/2014/11/23/caso-bitel/"
-      - "https://ca.wikipedia.org/wiki/Cas_Bitel_2"
-
-  - fecha: "2010-09-04"
-    titulo: "El juzgado abre juicio oral y exige fianza de 700.000 euros a Vidal"
-    descripcion: "La juez instructora del caso Bitel decreta la apertura del juicio oral contra Damià Vidal y el resto de acusados, y exige a Vidal una fianza civil de 700.000 euros para responder de las responsabilidades civiles derivadas de los delitos investigados. Los cargos incluyen malversación de caudales públicos, fraude a la Administración, falsificación documental y revelación de secretos."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/2010/09/04/19253/la-juez-del-caso-bitel-abre-juicio-oral-y-exige-a-damia-vidal-una-fianza-civil-de-700-000-euros.html"
-
-  - fecha: "2012-02-20"
-    titulo: "Inicio del juicio oral ante la Audiencia Provincial de Palma"
-    descripcion: "Comienza el juicio oral en la Sección 2ª de la Audiencia Provincial de Palma de Mallorca. La Fiscalía Anticorrupción pide doce años de prisión para Damià Vidal. La vista se desarrolla en varias sesiones durante los meses de febrero y marzo de 2012. La primera sesión sufre una suspensión por falta de notificación a las empresas Hélix Infocom y Informatic Auditing Balear, citadas como responsables civiles subsidiarias."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://www.vilaweb.cat/noticia/3999773/20120402/cas-bitel-anticorrupcio-demana-12-anys-preso-damia-vidal.html"
-
-  - fecha: "2012-04-02"
-    titulo: "Fiscalía Anticorrupción pide 12 años de prisión para Vidal"
-    descripcion: "Al concluir la fase de informes del juicio oral, la Fiscalía Anticorrupción mantiene su petición de doce años de prisión para el exgerente de Bitel, Damià Vidal, por los delitos de malversación de caudales públicos, fraude a la Administración, prevaricación y cohecho. La defensa solicita la absolución alegando un trastorno bipolar que habría condicionado su conducta."
-    type: "declaración"
-    relevancia: "media"
-    urls:
-      - "https://www.vilaweb.cat/noticia/3999773/20120402/cas-bitel-anticorrupcio-demana-12-anys-preso-damia-vidal.html"
-
-  - fecha: "2012-12-21"
-    titulo: "Sentencia: Vidal condenado a 5 años de prisión; tres acusados más condenados, uno absuelto"
-    descripcion: "La Sección 2ª de la Audiencia Provincial de Palma dicta sentencia condenando a Damià Vidal a cinco años de prisión, quince años de inhabilitación para ejercer cargos públicos, multa de 60.000 euros e indemnización al Govern de casi 700.000 euros. Los magistrados reducen la pena solicitada por la Fiscalía al apreciar circunstancias atenuantes. También son condenados el ingeniero Iván Guardia y el exdirigente de NNGG del PP Ramón de la Iglesia a seis meses de prisión, y el exsecretario Sebastián Romaguera a nueve meses de multa. El exadministrador Miquel Simonet es absuelto."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/2012/12/21/88393/audiencia-condena-damia-vidal-cinco-anos-carcel-por-caso-bitel.html"
-      - "https://diariolaley.laleynext.es/Content/DocumentoRelacionado.aspx?params=H4sIAAAAAAAEAC1Oyw6CMBD8Gns0CBq87AX1ZoxRYrwuZQNNaovtFuHvLY9NJpvJzs7MN5AbSxoYOnLeGtQfMkzCj8aa8QOlCyQYKw_JJpe7iFSg5ID6bCXss_3EVE8lVpAK62pyxQiJYMuoH-Qhy3PhW_u7Ya8aZGVNgW6xVXUNl3cyzTE9pInoY4UogJdq5hKtatprBC96T-hke8eGIIaHqajdou-G9VIE5vhdsXnOXEgd9xmZTqjJ1GvuH3US9qXzAAAAWKE"
+- fecha: '2012-12-14'
+  titulo: Sentencia de la Audiencia de Palma
+  descripcion: La STS identifica la sentencia de instancia de 14 de diciembre de 2012; su aclaración posterior cita el número
+    117/12. El Supremo transcribe las condenas y la absolución, sin que se haya obtenido aquí esa sentencia por separado.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=7ec5799fc3fb4053&encode=true&databasematch=AN
+- fecha: '2012-12-21'
+  titulo: Se difunden las condenas de primera instancia
+  descripcion: Europa Press comunica las condenas a Vidal, Guardia, De la Iglesia y Romaguera y la absolución de Simonet.
+    El 21 es fecha de publicación; no sustituye al 14 de diciembre identificado por el Supremo.
+  type: sentencia
+  urls:
+  - https://www.europapress.es/nacional/noticia-condenado-cinco-anos-prision-exgerente-bitel-ultimo-mandato-matas-20121221174537.html
+- fecha: '2013-02-12'
+  titulo: Auto aclaratorio
+  descripcion: La STS transcribe la aclaración de un error sobre la adquisición de participaciones de una sociedad. Rechaza
+    además la aclaración solicitada sobre dilaciones indebidas. No se ha obtenido el auto por separado.
+  type: recurso
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=7ec5799fc3fb4053&encode=true&databasematch=AN
+- fecha: '2014-02-28'
+  titulo: El Supremo absuelve de prevaricación
+  descripcion: La STS 166/2014 estima parcialmente el recurso, dicta segunda sentencia absolutoria por prevaricación y mantiene
+    todos los demás pronunciamientos no incompatibles. No reduce los cinco años de prisión.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=7ec5799fc3fb4053&encode=true&databasematch=AN
+  - https://www.europapress.es/illes-balears/noticia-supremo-confirma-cinco-anos-prision-exgerente-bitel-ultimo-mandato-matas-20140314134712.html
+- fecha: '2014-03-14'
+  titulo: Ingreso en prisión de Vidal
+  descripcion: Mallorcadiario informa del ingreso ese día por orden de la Audiencia tras la comunicación del Supremo; Europa
+    Press detalla la confirmación y la absolución por prevaricación. No acredita la situación penitenciaria actual.
+  type: sentencia
+  urls:
+  - https://www.mallorcadiario.com/damia-vidal-ingresa-en-prision-por-apropiacion-de-medio-millon-de-euros
+  - https://www.europapress.es/illes-balears/noticia-supremo-confirma-cinco-anos-prision-exgerente-bitel-ultimo-mandato-matas-20140314134712.html
 ---
+
+# Gestión de fondos de Bitel
+
+Este procedimiento se refiere a la gestión de la empresa pública de telecomunicaciones durante la etapa de Damià Vidal, entre 2003 y 2007. No se confunde con el anterior asunto de acceso al correo electrónico de Francesc Quetglas: [Europa Press](https://www.europapress.es/illes-balears/noticia-supremo-confirma-cinco-anos-prision-exgerente-bitel-ultimo-mandato-matas-20140314134712.html) los distingue expresamente y sitúa a Vidal como perito de la defensa en aquel primer sumario, sin trasladar sus resultados a esta causa. Jaume Matas aparece como presidente del Govern durante el período de la gerencia; no se le atribuye una condena en este procedimiento.
+
+La [STS 166/2014](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=7ec5799fc3fb4053&encode=true&databasematch=AN) identifica el procedimiento abreviado 1355/2008, instruido por el Juzgado n.º 10 de Palma, y la sentencia de la Audiencia de 14 de diciembre de 2012. Su contenido se difundió en prensa el 21 de diciembre, fecha que no debe confundirse con el acto judicial. La resolución del Supremo incluye el fallo de instancia y el auto aclaratorio de 12 de febrero de 2013.
+
+La [información de primera instancia](https://www.europapress.es/nacional/noticia-condenado-cinco-anos-prision-exgerente-bitel-ultimo-mandato-matas-20121221174537.html) describe incrementos de retribución no autorizados, gastos particulares cargados a la tarjeta, transferencias y contrataciones simuladas o remuneradas mediante comisiones. El Supremo mantuvo la condena por malversación, fraude y cohecho, pero su segunda sentencia absolvió por prevaricación. En consecuencia no se conserva ese delito entre las condenas definitivas de Vidal. Las penas de prisión mantenidas son tres años por malversación y fraude y dos por cohecho. Del fallo de instancia permanecen cinco años de inhabilitación absoluta, cinco de inhabilitación especial por cohecho, las accesorias de sufragio pasivo y multa de 60.000 euros; desaparece la inhabilitación de cinco años ligada exclusivamente a prevaricación. No se conserva por tanto el total anterior de quince años como si siguiera intacto.
+
+El fallo transcrito fija 565.961,38 euros de responsabilidad civil a favor de Bitel e identifica obligaciones solidarias y subsidiarias sobre partes de esa suma. No se acumulan a esa cifra ni la multa de 60.000 euros ni las consignaciones o avales. La consignación de 100.000 euros recogida en la sentencia no acredita por sí sola la liquidación total de la deuda. Se omite el anterior coste de 700.000 euros, empleado en fases de acusación, sin equipararlo a daño final ni a responsabilidad civil efectivamente cobrada.
+
+Europa Press identifica nominalmente a Guardia y De la Iglesia como condenados, a Romaguera como sancionado con multa y a Simonet como absuelto tras retirarse las acusaciones. La transcripción judicial utiliza seudónimos: contiene para dos acusados penas de seis meses por cada uno de dos delitos, sustituidas por multas, por lo que la síntesis de prensa de «seis meses» no permite afirmar que cumplieran prisión. No se emparejan los seudónimos con personas para asignarles multas adicionales o cuotas civiles concretas. El detalle nominal completo y su ejecución quedan pendientes.
+
+El [ingreso de Vidal en prisión el 14 de marzo de 2014](https://www.mallorcadiario.com/damia-vidal-ingresa-en-prision-por-apropiacion-de-medio-millon-de-euros) está documentado. No se deducen de él fechas de excarcelación, cumplimiento total, cobro de responsabilidades civiles o resultados de posibles incidentes posteriores. La revisión no ha obtenido esas actuaciones hasta el corte de 17 de octubre de 2026.
