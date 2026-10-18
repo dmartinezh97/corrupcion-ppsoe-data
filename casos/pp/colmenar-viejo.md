@@ -12,7 +12,7 @@ descripcion: |
 
   La apertura del juicio oral en noviembre de 2016 provocó la dimisión del alcalde Miguel Ángel Santamaría, presentada el 10 de noviembre. El 22 de noviembre de 2016 el Pleno municipal eligió nuevo alcalde a Jorge García Díaz, también procesado en la misma causa. El juicio oral se señaló para el 22 de junio de 2021 ante el Juzgado de lo Penal nº 11 de Madrid, por un delito continuado de prevaricación urbanística (artículo 320 del Código Penal y, alternativamente, artículo 404), con peticiones de pena de entre dos años y tres años y medio de prisión y hasta diez años de inhabilitación.
 
-  El 23 de diciembre de 2021 el Juzgado de lo Penal nº 11 dictó sentencia absolutoria para los doce acusados. El tribunal consideró que no se había acreditado que actuaran «con ánimo de actuar de forma ilegal» ni que las decisiones de la Junta de Gobierno fueran arbitrarias o injustas: calificó las deficiencias detectadas como de muy escasa importancia, apreció que los informes técnicos eran preceptivos pero no vinculantes y que no constaba beneficio ilícito alguno. La sentencia se dio a conocer el 12 de enero de 2022 a través de una nota del CGPJ y de su difusión en prensa. La Fiscalía de Madrid recurrió en apelación y la Sección Tercera de la Audiencia Provincial de Madrid lo desestimó mediante sentencia 380/2022, de 13 de julio de 2022, confirmando la absolución e indicando que no cabía recurso alguno; la prensa dio cuenta de la resolución el 18 de julio de 2022, señalando que contra ella no cabía recurso.
+  La acusación definitiva distinguió una modalidad continuada para nueve acusados y una no continuada para tres; los originales anonimizados no permiten trasladar esa distribución a los nombres sin otra comprobación nominal. El 23 de diciembre de 2021 el Juzgado de lo Penal nº 11 dictó sentencia absolutoria para los doce acusados. El tribunal consideró que no se había acreditado que actuaran «con ánimo de actuar de forma ilegal» ni que las decisiones de la Junta de Gobierno fueran arbitrarias o injustas: calificó las deficiencias detectadas como de muy escasa importancia, apreció que los informes técnicos eran preceptivos pero no vinculantes y que no constaba beneficio ilícito alguno. La sentencia se dio a conocer el 12 de enero de 2022 a través de una nota del CGPJ y de su difusión en prensa. La Fiscalía de Madrid recurrió en apelación y la Sección Tercera de la Audiencia Provincial de Madrid lo desestimó mediante sentencia 380/2022, de 13 de julio de 2022, confirmando la absolución e indicando que no cabía recurso alguno; la prensa dio cuenta de la resolución el 18 de julio de 2022, señalando que contra ella no cabía recurso.
 
   Límites de la información: se han recuperado los originales oficiales de instancia y apelación. La sentencia 5/2022 del Juzgado de lo Penal nº 11 está fechada el 23 de diciembre de 2021 (PA 170/2017, ECLI:ES:JP:2021:86); su número anual 2022 y fecha de 2021 constan así tanto en cabecera como en texto y se conservan sin corregirlos por inferencia. Del original de 30 páginas se han leído las páginas 1–3 y 29–30, incluidos antecedentes y fallo, sin examen íntegro de los dieciséis expedientes. La sentencia de apelación 380/2022, de 13 de julio de 2022 (recurso 925/2022, ECLI:ES:APM:2022:10358), se ha leído íntegramente en sus seis páginas: confirma la absolución y declara que no cabe recurso alguno. El 18 de julio de 2022 es la difusión periodística, no la fecha de la resolución. No se ha comprobado exhaustivamente la existencia de eventuales incidentes de nulidad o amparos posteriores ni otras actuaciones de ejecución. Las fuentes discrepan en el número de procesados (doce según la nota del CGPJ y el escrito de la Fiscalía; once en algunas crónicas; y trece en el anuncio del juicio de Telemadrid, que sumaba un alcalde, dos exalcaldes y diez ediles) y en el alcance temporal de los hechos (a partir de 2006; en torno a 2008 según Telemadrid). El despacho defensor Dikei habla de quince licencias, frente a las dieciséis de la acusación y de la prensa, discordancia que permanece sin un cotejo íntegro de los expedientes. No consta perjuicio económico cuantificado. El Confidencial identificó en noviembre de 2015 a Pedro Gómez Aparicio entre los doce querellados; no se ha confirmado su periodo como concejal. Esta ficha se refiere exclusivamente a la causa de las 16 licencias, resuelta en 2022; debe distinguirse de otras actuaciones sobre el urbanismo del mismo municipio, en particular de la resolución de 2023 recogida en la ficha «Colmenar Viejo II», que es un procedimiento distinto.
 resumen: "Tres alcaldes y nueve concejales del PP de Colmenar Viejo, absueltos en firme en 2022 del delito de prevaricación urbanística por las 16 licencias de primera ocupación."
@@ -25,51 +25,51 @@ numeroSentencia: "SJP 5/2022, de 23-12-2021 (PA 170/2017, ECLI:ES:JP:2021:86); S
 implicados:
   - nombre: "Miguel Ángel Santamaría Novoa"
     cargo: "Alcalde de Colmenar Viejo (PP) entre 2011 y 2016"
-    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias; dimitió el 10 de noviembre de 2016 tras conocerse su procesamiento. Absuelto con sentencia firme en 2022."
+    rol: "Procesado por prevaricación urbanística en la causa de las 16 licencias; dimitió el 10 de noviembre de 2016 tras conocerse su procesamiento. Absuelto con sentencia firme en 2022."
 
   - nombre: "José María de Federico Corral"
     cargo: "Alcalde de Colmenar Viejo (PP) entre 1995 y 2011"
-    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias. Absuelto con sentencia firme en 2022."
+    rol: "Procesado por prevaricación urbanística en la causa de las 16 licencias. Absuelto con sentencia firme en 2022."
 
   - nombre: "Jorge García Díaz"
     cargo: "Alcalde de Colmenar Viejo (PP) del 22 de noviembre de 2016 a junio de 2023; concejal de Cultura en 2012"
-    rol: "Procesado por prevaricación urbanística continuada; según su defensa, solo participó en la decisión de una de las licencias (2012). Absuelto con sentencia firme en 2022. Falleció el 12 de octubre de 2023, siendo diputado en la Asamblea de Madrid."
+    rol: "Procesado por prevaricación urbanística; según su defensa, solo participó en la decisión de una de las licencias (2012). Absuelto con sentencia firme en 2022. Falleció el 12 de octubre de 2023, siendo diputado en la Asamblea de Madrid."
 
   - nombre: "Ana Belén Colmenarejo Collado"
     cargo: "Concejala del PP en Colmenar Viejo (Deportes, Sanidad y Medio Ambiente) en 2016"
-    rol: "Procesada por prevaricación urbanística continuada por las 16 licencias. Absuelta con sentencia firme en 2022."
+    rol: "Procesada por prevaricación urbanística en la causa de las 16 licencias. Absuelta con sentencia firme en 2022."
 
   - nombre: "César de la Serna Moscol"
     cargo: "Concejal del PP en Colmenar Viejo (Turismo) en 2016"
-    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias. Absuelto con sentencia firme en 2022."
+    rol: "Procesado por prevaricación urbanística en la causa de las 16 licencias. Absuelto con sentencia firme en 2022."
 
   - nombre: "Carlos Blázquez Rodríguez"
     cargo: "Concejal del PP en Colmenar Viejo (Obras, Contratación y Transparencia) en 2016"
-    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias. Absuelto con sentencia firme en 2022."
+    rol: "Procesado por prevaricación urbanística en la causa de las 16 licencias. Absuelto con sentencia firme en 2022."
 
   - nombre: "Juan José Serrano Cadahía"
     cargo: "Concejal del PP en Colmenar Viejo (Seguridad y Transportes) en 2016"
-    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias. Absuelto con sentencia firme en 2022."
+    rol: "Procesado por prevaricación urbanística en la causa de las 16 licencias. Absuelto con sentencia firme en 2022."
 
   - nombre: "Antonia García Santos"
     cargo: "Exconcejal del PP en Colmenar Viejo"
-    rol: "Procesada por prevaricación urbanística continuada por las 16 licencias. Absuelta con sentencia firme en 2022."
+    rol: "Procesada por prevaricación urbanística en la causa de las 16 licencias. Absuelta con sentencia firme en 2022."
 
   - nombre: "Inmaculada Viñoles Riera"
     cargo: "Exconcejal del PP en Colmenar Viejo"
-    rol: "Procesada por prevaricación urbanística continuada por las 16 licencias. Absuelta con sentencia firme en 2022."
+    rol: "Procesada por prevaricación urbanística en la causa de las 16 licencias. Absuelta con sentencia firme en 2022."
 
   - nombre: "Justo García Froilán"
     cargo: "Exconcejal del PP en Colmenar Viejo"
-    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias. Absuelto con sentencia firme en 2022."
+    rol: "Procesado por prevaricación urbanística en la causa de las 16 licencias. Absuelto con sentencia firme en 2022."
 
   - nombre: "Pablo Colmenarejo Cobeña"
     cargo: "Exconcejal del PP en Colmenar Viejo"
-    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias. Absuelto con sentencia firme en 2022. Su presencia entre los doce procesados consta en el escrito de acusación recogido por la prensa especializada."
+    rol: "Procesado por prevaricación urbanística en la causa de las 16 licencias. Absuelto con sentencia firme en 2022. Su presencia entre los doce procesados consta en el escrito de acusación recogido por la prensa especializada."
 
   - nombre: "Pedro Gómez Aparicio"
     cargo: "Exconcejal del PP en Colmenar Viejo (periodo en el cargo sin confirmar)"
-    rol: "Procesado por prevaricación urbanística continuada por las 16 licencias y absuelto en 2022, según el escrito de acusación recogido por la prensa especializada. El Confidencial lo identifica como Pedro Gómez Aparicio entre los doce querellados en noviembre de 2015; las fuentes posteriores discrepan sobre el número total de procesados."
+    rol: "Procesado por prevaricación urbanística en la causa de las 16 licencias y absuelto en 2022, según el escrito de acusación recogido por la prensa especializada. El Confidencial lo identifica como Pedro Gómez Aparicio entre los doce querellados en noviembre de 2015; las fuentes posteriores discrepan sobre el número total de procesados."
 tags:
   - "corrupción"
   - "prevaricación"
@@ -133,6 +133,7 @@ cronologia:
     type: "sentencia"
     relevancia: "alta"
     urls:
+      - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=7d8af4730475b6f0&encode=true&databasematch=AN"
       - "https://dikeiabogados.com/absueltos-los-ex-alcaldes-de-colmenar-viejo-madrid-acusados-de-prevaricacion/"
       - "https://www.iberley.es/jurisprudencia/sentencia-penal-n-5-2022-jp-madrid-sec-11-rec-170-2017-23-12-2021-48411164"
       - "https://www.europapress.es/madrid/noticia-audiencia-madrid-confirma-firme-absolucion-alcalde-colmenar-dos-ediles-20220718144445.html"
