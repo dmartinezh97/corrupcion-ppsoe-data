@@ -1,88 +1,147 @@
 ---
-nombre: "ERE/Surcolor"
-partido: PSOE
-completado: true
-año: 2009
-fechaInicio: 2003-01-01
-fechaFin: 2025-01-09
-estado: "cerrado con condenas"
-descripcion: |
-  El caso ERE/Surcolor es una pieza separada del macrocaso de los ERE de Andalucía que investiga las ayudas irregulares concedidas por la Junta de Andalucía a las empresas Surcolor S.L. y Surcolor Óptica S.L. mediante el sistema fraudulento de Expedientes de Regulación de Empleo diseñado por el gobierno socialista andaluz.
-
-  Las ayudas concedidas a Surcolor ascendieron a 2.793.651,61 euros, de los cuales la Junta de Andalucía financió el 90 por ciento —2.516.135,77 euros— sin justificación legal alguna. Este sistema permitió que las empresas beneficiarias pudieran asumir los costes de los EREs sin afrontar las consecuencias económicas reales, mientras el dinero público se desviaba sin los controles exigibles.
-
-  La Sección Tercera de la Audiencia Provincial de Sevilla dictó sentencia condenando al ex delegado de Empleo de la Junta de Andalucía en Sevilla, Antonio Rivas, a tres años y medio de prisión, y al ex director general de Trabajo y Seguridad Social, Daniel Rivero, a tres años de prisión. Otros nueve acusados —entre ellos representantes de las empresas Surcolor y Surcolor Óptica, un representante sindical de CCOO y empleados de la gestora Vitalia— recibieron condenas de entre uno y tres años y dos meses por delitos de prevaricación, malversación y falsedad en documentos mercantiles.
-
-  Los condenados fueron obligados a indemnizar solidariamente a la Junta de Andalucía por la totalidad de los fondos defraudados. La sentencia de enero de 2025 se produjo en pleno debate político sobre la naturaleza del escándalo, cuando la ministra de Hacienda María Jesús Montero afirmaba que los ERE habían sido "bulos".
-resumen: "Pieza separada de los ERE de Andalucía: ayudas irregulares de 2,79 millones de euros a las empresas Surcolor y Surcolor Óptica. Condenas de 3,5 y 3 años a dos ex altos cargos de la Junta del PSOE."
-coste: 2793651
-lugar: "Sevilla, Andalucía"
-tribunal:
-  - "Audiencia Provincial de Sevilla - Sección Tercera"
-  - "Juzgado de Instrucción nº 6 de Sevilla - Fiscalía Anticorrupción"
-numeroSentencia: ""
-implicados:
-  - nombre: "Antonio Rivas"
-    cargo: "Ex delegado de Empleo de la Junta de Andalucía en Sevilla"
-    rol: "Condenado a 3 años y medio de prisión por prevaricación y malversación"
-
-  - nombre: "Daniel Rivero"
-    cargo: "Ex director general de Trabajo y Seguridad Social de la Junta de Andalucía"
-    rol: "Condenado a 3 años de prisión por prevaricación y malversación"
-
-  - nombre: "Representantes de Surcolor S.L."
-    cargo: "Directivos de la empresa beneficiaria"
-    rol: "Condenados por su participación en la obtención irregular de las ayudas"
-
-  - nombre: "Representante de CCOO"
-    cargo: "Delegado sindical de Comisiones Obreras"
-    rol: "Condenado por participación en el sistema de EREs fraudulentos"
-
-  - nombre: "Empleados de Vitalia"
-    cargo: "Empleados de la gestora intermediaria de EREs"
-    rol: "Condenados por su papel de intermediación en la tramitación fraudulenta"
-
-tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "ERE"
-  - "fondos públicos"
-  - "Junta de Andalucía"
-  - "falsedad documental"
-impactoSocial: "La sentencia del caso Surcolor, dictada en enero de 2025, se produjo en plena ofensiva del PSOE nacional para minimizar el escándalo de los ERE, con la ministra Montero hablando de 'bulos'. La condena reforzó la credibilidad de las acusaciones y evidenció la realidad del entramado corrupto. El caso forma parte del mayor escándalo de corrupción política de la democracia española, que provocó el fin del gobierno socialista en Andalucía tras 37 años ininterrumpidos de poder."
-documentos: null
-cronologia:
-  - fecha: 2003-01-01
-    titulo: "Concesión de ayudas irregulares a Surcolor"
-    descripcion: "La Junta de Andalucía comienza a conceder ayudas irregulares a las empresas Surcolor S.L. y Surcolor Óptica S.L. a través del sistema de EREs fraudulentos. El total de las pólizas para Surcolor alcanza 2.793.651,61 euros, financiados en un 90% con dinero público sin justificación."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/en/Judiciary/Pressroom/News-archive/La-Audiencia-de-Sevilla-impone-condenas-de-tres-anos-y-medio-y-tres-anos-de-carcel-a-dos-exaltos-cargos-de-la-Junta-de-Andalucia-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-a-Surcolor"
-
-  - fecha: 2011-03-01
-    titulo: "Inicio de la investigación judicial de los ERE"
-    descripcion: "El Juzgado de Instrucción nº 6 de Sevilla inicia la macrocausa de los ERE de Andalucía. La pieza de Surcolor queda incorporada como una de las más de 200 piezas separadas de la investigación."
-    type: "investigación"
-    relevancia: "media"
-    urls:
-      - "https://es.wikipedia.org/wiki/Caso_ERE_en_Andaluc%C3%ADa"
-
-  - fecha: 2023-01-01
-    titulo: "Juicio oral de la pieza Surcolor"
-    descripcion: "Los acusados del caso Surcolor comparecen ante la Audiencia Provincial de Sevilla en juicio oral. Algunos de los acusados se encontraban ya en prisión preventiva por otras causas relacionadas con los ERE."
-    type: "juicio"
-    relevancia: "media"
-    urls:
-      - "https://okdiario.com/andalucia/socialistas-acusados-del-ere-surcolor-comparecen-desde-carcel-ultima-sesion-del-juicio-11860206"
-
-  - fecha: 2025-01-09
-    titulo: "Condena a los ex altos cargos de la Junta por las ayudas a Surcolor"
-    descripcion: "La Audiencia Provincial de Sevilla condena al ex delegado de Empleo Antonio Rivas a 3 años y medio de prisión y al ex director general Daniel Rivero a 3 años de prisión, junto a otros nueve acusados. La sentencia llega el mismo día en que la ministra Montero defiende que los ERE fueron 'bulos'."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.elespanol.com/espana/andalucia/20250109/nueva-condena-exaltos-cargos-psoe-junta-caso-ere-justo-montero-defiende-trato-bulos/915158699_0.html"
-      - "https://www.poderjudicial.es/cgpj/en/Judiciary/Pressroom/News-archive/La-Audiencia-de-Sevilla-impone-condenas-de-tres-anos-y-medio-y-tres-anos-de-carcel-a-dos-exaltos-cargos-de-la-Junta-de-Andalucia-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-a-Surcolor"
+"nombre": "ERE/Surcolor"
+"partido": "PSOE"
+"completado": false
+"fechaInicio": "2015-09-30"
+"estado": "Condenas y absoluciones; recursos y ejecución pendientes de comprobar"
+"descripcion": "Pieza de las ayudas a Surcolor S.A. y Surcolor Óptica S.A., separada del procedimiento general de\
+  \ los ERE. La sentencia penal 3/2025, de 7 de enero, notificada el día 9, condenó a once personas y absolvió a\
+  \ cinco. Antonio Rivas recibió tres años y seis meses de prisión y siete años de inhabilitación absoluta, y fue\
+  \ absuelto de tráfico de influencias. Daniel Alberto Rivera —no Daniel Rivero— recibió tres años de prisión, 452\
+  \ euros de multa y 24 meses de inhabilitación especial por prevaricación, falsedad oficial y malversación. Antonio\
+  \ Fernández, Agustín Barberá y Juan Márquez fueron absueltos por cosa juzgada; otras dos absoluciones respondieron\
+  \ al fallecimiento de los acusados.\n\nEl volumen final de las pólizas fue de 2.793.651,61 euros, distinto del\
+  \ quebranto penal fijado en 984.921,23 euros. Este último es el importe mostrado como coste, declarado por la\
+  \ sentencia penal, entonces recurrible, y no se multiplica por los responsables solidarios. En otro procedimiento,\
+  \ la sentencia contable 4/2025, de 8 de septiembre, declaró un alcance de 68.058,05 euros por la financiación\
+  \ de dos personas ajenas a la plantilla y desestimó la demanda contra otros cinco demandados. Ese alcance representa\
+  \ una parte de los mismos pagos y no se añade al penal.\n\nNo se han comprobado las casaciones, apelaciones, firmeza\
+  \ ni ejecución posteriores de ambas resoluciones hasta el 17 de octubre de 2026. La copia contable está identificada\
+  \ como no firme. Las absoluciones por cosa juzgada en esta pieza no equivalen a un pronunciamiento general sobre\
+  \ todas las ayudas: los efectos de las resoluciones del Constitucional y de otras piezas deben aplicarse individualmente.\
+  \ Falta completar el seguimiento nominal y las posibles resoluciones posteriores."
+"resumen": "Ayudas a Surcolor: once condenas y cinco absoluciones en enero de 2025; procedimiento contable distinto\
+  \ en septiembre."
+"coste": 984921.23
+"lugar": "Sevilla, Andalucía"
+"tribunal":
+- "Audiencia Provincial de Sevilla — Sección Tercera"
+- "Tribunal de Cuentas — Departamento Segundo de Enjuiciamiento"
+"numeroSentencia": "Penal: SAP 3/2025, de 7 de enero, ECLI:ES:APSE:2025:317. Contable: sentencia 4/2025, de 8 de\
+  \ septiembre, B-137/16-15."
+"implicados":
+- "nombre": "Antonio Rivas"
+  "cargo": "Exdelegado de Empleo de la Junta en Sevilla"
+  "rol": "Condenado penalmente a tres años y seis meses de prisión y siete años de inhabilitación absoluta por cooperación\
+    \ necesaria en prevaricación y malversación; absuelto de tráfico de influencias. La demanda contable fue desestimada\
+    \ respecto de él, según Diario de Sevilla. Recursos pendientes de comprobar."
+- "nombre": "Daniel Alberto Rivera"
+  "cargo": "Exdirector general de Trabajo y Seguridad Social de la Junta"
+  "rol": "Condenado a tres años de prisión, multa de 452 euros y 24 meses de inhabilitación especial por prevaricación,\
+    \ falsedad en documento oficial y malversación. No se presume firmeza ni ingreso en prisión."
+- "nombre": "Antonio Fernández"
+  "cargo": "Exconsejero de Empleo"
+  "rol": "Absuelto en la sentencia penal de Surcolor por concurrencia de cosa juzgada, al haber sido enjuiciado\
+    \ en el procedimiento específico. No se atribuye aquí el desenlace de otros procedimientos o de sus retroacciones."
+- "nombre": "Agustín Barberá"
+  "cargo": "Exviceconsejero de Empleo"
+  "rol": "Absuelto en la sentencia penal de Surcolor por concurrencia de cosa juzgada, al haber sido enjuiciado\
+    \ en el procedimiento específico. No se atribuye aquí el desenlace de otros procedimientos o de sus retroacciones."
+- "nombre": "Juan Márquez"
+  "cargo": "Exdirector general de Trabajo"
+  "rol": "Absuelto en la sentencia penal de Surcolor por concurrencia de cosa juzgada, al haber sido enjuiciado\
+    \ en el procedimiento específico. No se atribuye aquí el desenlace de otros procedimientos o de sus retroacciones."
+- "nombre": "Francisco Javier Guerrero"
+  "cargo": "Exdirector general de Trabajo"
+  "rol": "La sentencia penal lo absolvió por extinción de responsabilidad por fallecimiento. En la jurisdicción\
+    \ contable se declaró responsabilidad de sus herederas, limitada en los términos del artículo 38.5 de la Ley\
+    \ Orgánica del Tribunal de Cuentas; no es condena penal de las herederas."
+- "nombre": "Juan Lanzas"
+  "cargo": "Exsindicalista de UGT e intermediario"
+  "rol": "Tres años y dos meses de prisión y siete años y seis meses de inhabilitación absoluta; demanda contable\
+    \ desestimada respecto de él, según prensa. Firmeza y ejecución posteriores no comprobadas."
+- "nombre": "Juan Francisco Algarín"
+  "cargo": "Interviniente en la facturación de servicios"
+  "rol": "Un año de prisión y multa, según Europa Press; no se presume responsabilidad penal\
+    \ por todos los delitos de los demás. Firmeza y ejecución posteriores no comprobadas."
+- "nombre": "Antonio Albarracín"
+  "cargo": "Exdirectivo de Vitalia"
+  "rol": "Tres años de prisión y 96 meses de inhabilitación absoluta, según Europa Press. Firmeza y ejecución posteriores\
+    \ no comprobadas."
+- "nombre": "Jesús Bordallo"
+  "cargo": "Comercial de Vitalia"
+  "rol": "Condena de prisión e inhabilitación, según Europa Press; la noticia redondea la duración y no se asignan\
+    \ por inferencia los días del fallo anonimizado. Firmeza y ejecución posteriores no comprobadas."
+- "nombre": "José Hurtado"
+  "cargo": "Exresponsable de Fiteqa-CCOO en Sevilla"
+  "rol": "Tres años de prisión y siete años de inhabilitación absoluta, según Europa Press. Fiteqa-CCOO tiene responsabilidad\
+    \ civil subsidiaria respecto del representante sindical, no una pena de prisión. Firmeza y ejecución posteriores\
+    \ no comprobadas."
+"tags":
+- "ERE"
+- "malversación"
+- "prevaricación"
+- "falsedad documental"
+- "responsabilidad contable"
+"impactoSocial": "La causa examinó despidos, financiación pública de pólizas y la inclusión de dos personas que\
+  \ no habían trabajado en las empresas. La existencia de trabajadores con derechos indemnizatorios no convierte\
+  \ todo el coste de las pólizas en daño probado."
+"documentos":
+- "fecha": "2025-01-07"
+  "titulo": "Audiencia Provincial de Sevilla: sentencia penal 3/2025 sobre Surcolor"
+  "filetype": "pdf"
+  "paginas": 97
+  "nombre_fichero": "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=501c5df7f166faf3a0a8778d75e36f0d&encode=true&databasematch=AN"
+- "fecha": "2025-09-08"
+  "titulo": "Tribunal de Cuentas: sentencia 4/2025, reintegro por alcance relativo a Surcolor"
+  "filetype": "pdf"
+  "paginas": 44
+  "nombre_fichero": "https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2025/Sentencia_4_2025.pdf"
+"cronologia":
+- "fecha": "2015-09-30"
+  "titulo": "Formación de la pieza de Surcolor"
+  "descripcion": "La sentencia penal sitúa en esta fecha el auto de apertura de diligencias de la pieza, derivada\
+    \ de la división de la macrocausa acordada el 30 de julio de 2015. No se confunde con la concesión de ayudas."
+  "type": "investigación"
+  "urls":
+  - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=501c5df7f166faf3a0a8778d75e36f0d&encode=true&databasematch=AN"
+- "fecha": "2023-07-10"
+  "titulo": "Comienza el juicio penal"
+  "descripcion": "La vista se desarrolló en 21 sesiones hasta el 13 de noviembre de 2023, según los antecedentes\
+    \ del original penal."
+  "type": "juicio"
+  "urls":
+  - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=501c5df7f166faf3a0a8778d75e36f0d&encode=true&databasematch=AN"
+- "fecha": "2025-01-07"
+  "titulo": "Sentencia penal: once condenados y cinco absueltos"
+  "descripcion": "La SAP 3/2025 fija el quebranto en 984.921,23 euros y distintas responsabilidades solidarias,\
+    \ algunas limitadas. Admite casación y no acredita por sí sola ejecución o firmeza posterior."
+  "type": "sentencia"
+  "urls":
+  - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=501c5df7f166faf3a0a8778d75e36f0d&encode=true&databasematch=AN"
+- "fecha": "2025-01-09"
+  "titulo": "Notificación y publicación del resultado penal"
+  "descripcion": "El CGPJ comunica las condenas, las tres absoluciones por cosa juzgada y las dos por fallecimiento.\
+    \ Distingue la doctrina constitucional del procedimiento específico y los hechos concretos de Surcolor."
+  "type": "documento"
+  "urls":
+  - "https://www.poderjudicial.es/cgpj/en/Judiciary/Pressroom/News-archive/La-Audiencia-de-Sevilla-impone-condenas-de-tres-anos-y-medio-y-tres-anos-de-carcel-a-dos-exaltos-cargos-de-la-Junta-de-Andalucia-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-a-Surcolor"
+  - "https://www.diariosigloxxi.com/texto-ep/mostrar/20250109142904/absueltos-tres-ex-altos-cargos-pieza-ere-surcolor-condenados-carcel-otros-exsindicalista-ugt"
+- "fecha": "2025-09-08"
+  "titulo": "Sentencia contable por 68.058,05 euros"
+  "descripcion": "La sentencia 4/2025 estima parcialmente la demanda y declara responsabilidad solidaria de dos\
+    \ herederas y otros dos demandados; desestima las pretensiones contra cinco personas. Prevé apelación; no se\
+    \ confunde con la sentencia penal ni se suman sus importes."
+  "type": "sentencia"
+  "urls":
+  - "https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2025/Sentencia_4_2025.pdf"
+  - "https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/condena-herederos-guerrero-devolver-68000-euros_0_2004730194.html"
 ---
+
+El coste de las pólizas, la financiación comprometida y los pagos efectivamente malversados son magnitudes diferentes. La sentencia penal ordena resarcir 984.921,23 euros, con un grupo de responsables solidarios y otros obligados hasta importes menores. Esos límites no son cantidades adicionales. La responsabilidad subsidiaria de Fiteqa-CCOO también depende de la atribuida al representante sindical. El fallo difiere a ejecución el pronunciamiento sobre el comiso solicitado por la Fiscalía: no se presenta como decomiso ya acordado.
+
+La sentencia contable de septiembre de 2025 parte de los mismos pagos y limita el alcance a la fracción imputable a los dos beneficiarios ajenos a la plantilla. Declara responsabilidad solidaria de las herederas de Guerrero y de otros dos demandados, con límite sucesorio para las primeras. La prensa identifica a estos últimos como responsables empresariales de Surcolor; el documento emplea iniciales y no se reconstruye por ellas una identidad. La desestimación de la demanda contable contra Antonio Rivas y Juan Lanzas no revoca sus condenas penales: son jurisdicciones y presupuestos de responsabilidad distintos.
+
+La protección frente al doble enjuiciamiento explica las absoluciones de Fernández, Barberá y Márquez en esta pieza. No se deduce de ellas el resultado final del procedimiento específico tras los amparos constitucionales, ni se anulan automáticamente las condenas de los demás. Faltan las resoluciones sobre posibles recursos y ejecución y parte del detalle nominal de los once condenados; no se considera cerrado el caso por falta de nuevas noticias.
+
+Fuentes: [sentencia penal original](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=501c5df7f166faf3a0a8778d75e36f0d&encode=true&databasematch=AN), [nota oficial del CGPJ de 9 de enero de 2025](https://www.poderjudicial.es/cgpj/en/Judiciary/Pressroom/News-archive/La-Audiencia-de-Sevilla-impone-condenas-de-tres-anos-y-medio-y-tres-anos-de-carcel-a-dos-exaltos-cargos-de-la-Junta-de-Andalucia-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-a-Surcolor), [Europa Press, reproducción con resultados nominales](https://www.diariosigloxxi.com/texto-ep/mostrar/20250109142904/absueltos-tres-ex-altos-cargos-pieza-ere-surcolor-condenados-carcel-otros-exsindicalista-ugt), [sentencia contable original](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2025/Sentencia_4_2025.pdf) y [Diario de Sevilla, resultado contable y personas identificadas](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/condena-herederos-guerrero-devolver-68000-euros_0_2004730194.html).
