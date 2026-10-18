@@ -83,9 +83,9 @@ cronologia:
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fb201cb4cb5f1bec&encode=true&databasematch=AN
   - https://adega.gal/web/media/documentos/Sentenza_XUIZO_PENAL_BARREIROS.pdf
-- fecha: '2019-02-11'
-  titulo: Se notifica y difunde la absolución
-  descripcion: El CGPJ comunica el fallo y su notificación ese día; distingue la falta de prueba del delito de las dudas sobre
+- fecha: '2019-02-12'
+  titulo: El CGPJ difunde la absolución
+  descripcion: La nota del CGPJ está fechada el 12 de febrero y comunica el fallo; distingue la falta de prueba del delito de las dudas sobre
     la plena legalidad urbanística.
   type: sentencia
   urls:
@@ -106,7 +106,7 @@ El procedimiento abreviado 252/2017 del Juzgado de lo Penal n.º 2 de Lugo proce
 
 La acusación fiscal no pidió la misma pena para todos. En las conclusiones recogidas en las páginas 1–2 de la copia nominal, solicitó dos años de prisión y diez de inhabilitación para Fuente Parga, Gómez Puente, Menéndez López y Rodríguez Díaz; para la arquitecta solicitó dos años de prisión y diez de inhabilitación profesional. Para Penabad Bolaño y Rojo Blanco pidió seis meses de prisión y siete años de inhabilitación. Son peticiones de acusación, no penas impuestas. Adega formuló su propia acusación sobre 45 delitos, con distintos alcances individuales.
 
-El [comunicado judicial de 11 de febrero](https://www.poderjudicial.es/cgpj/ca/Poder-Judicial/Tribunals-Superiors-de-Justicia/TSJ-Galicia/Sala-de-premsa/Hemeroteca/El-juzgado-absuelve-al-alcalde-de-Barreiros--Lugo--de-prevaricacion-por-la-concesion-de-44-licencias-urbanisticas) describe el proceso por 44 licencias de 2006 para casi 3.500 viviendas. Las cifras de viviendas y licencias utilizadas en las distintas informaciones no son una cuantificación de daño económico. La sentencia distingue los reproches administrativos de los requisitos del delito y no considera demostrada la actuación consciente de su injusticia. Su absolución no permite presentar como definitivamente ilegales todas las licencias, ni afirmar que todas fueran legalizadas.
+El [comunicado judicial de 12 de febrero](https://www.poderjudicial.es/cgpj/ca/Poder-Judicial/Tribunals-Superiors-de-Justicia/TSJ-Galicia/Sala-de-premsa/Hemeroteca/El-juzgado-absuelve-al-alcalde-de-Barreiros--Lugo--de-prevaricacion-por-la-concesion-de-44-licencias-urbanisticas) describe el proceso por 44 licencias de 2006 para casi 3.500 viviendas. Las cifras de viviendas y licencias utilizadas en las distintas informaciones no son una cuantificación de daño económico. La sentencia distingue los reproches administrativos de los requisitos del delito y no considera demostrada la actuación consciente de su injusticia. Su absolución no permite presentar como definitivamente ilegales todas las licencias, ni afirmar que todas fueran legalizadas.
 
 [El Progreso, el 20 de julio de 2019](https://www.elprogreso.es/articulo/a-marina/audiencia-provincial-dictamino-absolucion-exregidor-barreiros/201907201326591388192.amp.html), informó de la confirmación de la absolución en apelación tras los recursos de Fiscalía y Adega, calificándola de firme y señalando una discrepancia entre magistrados. Falta cotejar la resolución original de la Audiencia, su fecha exacta y el contenido de esa discrepancia. Por ello la firmeza se atribuye expresamente a esa fuente periodística y no se extrae de la fórmula condicional de la sentencia inicial.
 
