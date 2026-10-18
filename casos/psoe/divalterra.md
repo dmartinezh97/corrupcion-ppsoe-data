@@ -39,7 +39,7 @@ implicados:
     de 2024.
 - nombre: Agustina Brines
   cargo: Exgerente de Divalterra por Compromís
-  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+  rol: Absuelta en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
     de 2024.
 - nombre: José Ramón Tiller
   cargo: Exgerente de Divalterra por el PSPV
@@ -67,7 +67,7 @@ implicados:
     de 2024.
 - nombre: Soledad Torija
   cargo: Directiva contratada por Divalterra
-  rol: Absuelto en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
+  rol: Absuelta en mayo de 2023; absolución confirmada en apelación. Declaración de firmeza comunicada en enero
     de 2024.
 - nombre: Raúl Ibáñez
   cargo: Directivo contratado por Divalterra
