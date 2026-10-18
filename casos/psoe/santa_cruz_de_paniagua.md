@@ -1,111 +1,83 @@
 ---
-nombre: "Caso Santa Cruz de Paniagua"
+nombre: Caso Santa Cruz de Paniagua
 partido: PSOE
-completado: true
+completado: false
 año: 2014
-fechaInicio: 2014-01-01
-fechaFin: 2021-10-18
-estado: cerrado con condenas
-descripcion: |
-  El Caso Santa Cruz de Paniagua se refiere a un escándalo de corrupción municipal protagonizado por el exalcalde socialista Ángel Cervigón Mota, quien durante su mandato entre 2003 y 2011 cometió irregularidades graves en la gestión del Ayuntamiento de Santa Cruz de Paniagua (Cáceres). El caso salió a la luz en 2014 tras una auditoría interna que reveló la contratación irregular de sus cuatro hijos en el ayuntamiento sin seguir procedimientos legales, el cobro de dietas injustificadas superiores a 8.000 euros, y la desaparición de la contabilidad digital del consistorio entre 2005 y 2010.
-
-  La investigación del Ministerio Fiscal encontró "evidencias de irregularidades significativas", así como "discrecionalidad absoluta en nombramientos y ausencia de expedientes de contratación". En 2019, la Audiencia Provincial de Cáceres condenó a Cervigón a 8 años, 6 meses y 1 día de inhabilitación especial por un delito continuado de prevaricación, aunque fue absuelto de malversación y negociaciones prohibidas. El Tribunal Supremo ratificó la sentencia en octubre de 2021, rechazando el recurso de casación presentado por el exalcalde y cerrando definitivamente el caso.
-resumen: "Condena al exalcalde socialista de Santa Cruz de Paniagua por contratar a sus cuatro hijos irregularmente y cobrar dietas injustificadas."
-coste: 8000
-lugar: "Santa Cruz de Paniagua, Cáceres (Extremadura)"
+estado: condena confirmada en casación
+descripcion: El exalcalde socialista Ángel Cervigón Mota fue condenado por prevaricación continuada en contrataciones
+  municipales de familiares y allegados, incluida su empresa de autobuses. La Audiencia de Cáceres dictó la sentencia
+  178/2019 el 25 de junio de 2019. El Supremo confirmó la condena mediante la sentencia 741/2021, de 4 de octubre,
+  divulgada por el CGPJ el 18 de octubre. La pena recogida en el fallo de instancia reproducido por el Supremo es
+  de ocho años, seis meses y un día de inhabilitación especial para cargo público y sufragio pasivo, con dilaciones
+  indebidas. Fue absuelto de malversación y negociaciones prohibidas. Los otros dos acusados también fueron absueltos.
+  La ejecución y las identidades completas de estos últimos quedan pendientes de contraste nominal.
+resumen: Condena por contrataciones municipales irregulares confirmada por el Supremo; absolución por malversación
+  y negociaciones prohibidas.
+lugar: Santa Cruz de Paniagua, Cáceres (Extremadura)
 tribunal:
-  - "Juzgado de Instrucción nº 3 de Plasencia"
-  - "Audiencia Provincial de Cáceres"
-  - "Tribunal Supremo"
-numeroSentencia: "Sentencia 00178/2019 (Audiencia Provincial de Cáceres)"
+- Juzgado de Instrucción nº 3 de Plasencia
+- Audiencia Provincial de Cáceres
+- Tribunal Supremo
+numeroSentencia: SAP Cáceres 178/2019; STS 741/2021 (ECLI:ES:TS:2021:3675)
 implicados:
-  - nombre: "Ángel Cervigón Mota"
-    cargo: "Exalcalde de Santa Cruz de Paniagua (PSOE)"
-    rol: "Responsable de la contratación irregular de sus cuatro hijos en el ayuntamiento, cobro de dietas injustificadas y desaparición de documentación contable; condenado a 8 años y 6 meses de inhabilitación por prevaricación continuada."
-
-  - nombre: "María Lola López Morán"
-    cargo: "Funcionaria municipal"
-    rol: "Investigada en el procedimiento judicial; finalmente absuelta de todos los cargos."
-
-  - nombre: "Antonio Jesús Santibáñez Fernández"
-    cargo: "Funcionario municipal"
-    rol: "Investigado en el procedimiento judicial; finalmente absuelto de todos los cargos."
+- nombre: Ángel Cervigón Mota
+  cargo: Exalcalde de Santa Cruz de Paniagua (PSOE), 2003-2011
+  rol: Condenado por prevaricación continuada; condena confirmada en casación. Absuelto de malversación y negociaciones
+    prohibidas.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "enchufismo"
-  - "nepotismo"
-  - "dietas irregulares"
-impactoSocial: "El caso evidenció prácticas de nepotismo y gestión irregular en pequeños municipios rurales, generando un fuerte impacto en la comarca y debilitando la imagen del PSOE extremeño. La denuncia presentada por el alcalde del PP que sucedió a Cervigón marcó un cambio político en el municipio y reforzó el debate sobre los controles en ayuntamientos pequeños."
-documentos: []
+- prevaricación
+- contratación municipal
+- nepotismo
+documentos:
+- fecha: '2019-06-25'
+  titulo: 'SAP Cáceres 178/2019: condena por prevaricación y absoluciones (ECLI:ES:APCC:2019:599)'
+  filetype: pdf
+  paginas: 17
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=22c1a824ad5f28f2&encode=true&databasematch=AN
+- fecha: '2021-10-04'
+  titulo: 'STS 741/2021: desestimación de la casación (ECLI:ES:TS:2021:3675)'
+  filetype: pdf
+  paginas: 9
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0ae54662629b8e85&encode=true&databasematch=AN
 cronologia:
-  - fecha: "2003-01-01"
-    titulo: "Ángel Cervigón Mota inicia su mandato como alcalde"
-    descripcion: "Cervigón comienza su gestión al frente del Ayuntamiento de Santa Cruz de Paniagua, período durante el cual se producirán las irregularidades investigadas."
-    type: "resumen"
-    urls: []
-
-  - fecha: "2009-06-01"
-    titulo: "Contratación irregular de los hijos del alcalde"
-    descripcion: "Durante 2009 y 2010, Cervigón contrata a sus cuatro hijos para realizar trabajos en el ayuntamiento sin seguir procedimientos de contratación legal, sin evidencia de bolsa de empleo, y realizando pagos sin la documentación correspondiente. Entre las contrataciones destaca la de su hija por 14 días en la oficina municipal sin alta en la Seguridad Social, y la de su hijo como socorrista de la piscina municipal durante dos veranos por 1.150 euros."
-    type: "resumen"
-    relevancia: "alta"
-    urls: []
-
-  - fecha: "2010-01-01"
-    titulo: "Cobro de dietas injustificadas"
-    descripcion: "Entre 2010 y 2011, el exalcalde cobra dietas por kilometraje superiores a 8.000 euros sin aportar justificantes ni recibos que acrediten los desplazamientos, cobrando entre 400 y 500 euros mensuales de forma irregular."
-    type: "resumen"
-    relevancia: "alta"
-    urls: []
-
-  - fecha: "2011-12-31"
-    titulo: "Finaliza el mandato de Ángel Cervigón"
-    descripcion: "Cervigón deja la alcaldía de Santa Cruz de Paniagua tras ocho años de gestión municipal, siendo sucedido por Miguel Carlos González del PP."
-    type: "resumen"
-    urls: []
-
-  - fecha: "2014-01-01"
-    titulo: "Auditoría interna detecta irregularidades graves"
-    descripcion: "Una auditoría interna realizada en el ayuntamiento revela múltiples irregularidades en la gestión de Cervigón, incluyendo la desaparición de la contabilidad digital del consistorio entre 2005 y 2010, contrataciones sin expedientes, y cobros de dietas sin justificar."
-    type: "investigacion"
-    relevancia: "alta"
-    urls: []
-
-  - fecha: "2014-03-01"
-    titulo: "Denuncia ante la Fiscalía"
-    descripcion: "El nuevo alcalde Miguel Carlos González (PP) y otras dos personas presentan una denuncia ante la Fiscalía de Plasencia detallando las irregularidades encontradas en la gestión de Cervigón, incluyendo el cobro de dietas superiores a 8.000 euros durante 2010 y 2011 con irregularidades en su justificación."
-    type: "investigacion"
-    relevancia: "alta"
-    urls: []
-
-  - fecha: "2014-06-01"
-    titulo: "Apertura de diligencias previas"
-    descripcion: "El Juzgado de Instrucción nº 3 de Plasencia abre diligencias previas contra el exalcalde socialista Ángel Cervigón por presuntos delitos de prevaricación, malversación de caudales públicos, tráfico de influencias y negociaciones prohibidas a funcionarios públicos."
-    type: "investigacion"
-    relevancia: "alta"
-    urls:
-      - "https://www.radiointerior.es/texto-diario/mostrar/4612275/citan-a-declarar-al-alcalde-de-santa-cruz-de-paniagua-por-presunta-prevaricacion"
-
-  - fecha: "2014-08-01"
-    titulo: "La Fiscalía Anticorrupción inicia investigación exhaustiva"
-    descripcion: "El Ministerio Fiscal, en funciones anticorrupción, inicia una investigación minuciosa en la que encuentra 'evidencias de irregularidades significativas', así como 'discrecionalidad absoluta en nombramientos y ausencia de expedientes de contratación'."
-    type: "investigacion"
-    relevancia: "alta"
-    urls: []
-
-  - fecha: "2019-10-01"
-    titulo: "Sentencia de la Audiencia Provincial de Cáceres"
-    descripcion: "La Audiencia Provincial de Cáceres dicta sentencia 00178/2019 condenando a Ángel Cervigón Mota como autor responsable de un delito continuado de prevaricación a la pena de 8 años, 6 meses y 1 día de inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo durante el tiempo de la condena, con la atenuante de dilaciones indebidas. Es absuelto de los delitos de malversación de caudales públicos y negociaciones prohibidas a funcionarios públicos. Los otros dos acusados, María Lola López Morán y Antonio Jesús Santibáñez Fernández, son completamente absueltos. Se le impone el pago de una séptima parte de las costas procesales."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Santa+Cruz+de+Paniagua&numero=143"
-
-  - fecha: "2021-10-18"
-    titulo: "El Tribunal Supremo ratifica la condena"
-    descripcion: "El Tribunal Supremo desestima el recurso de casación presentado por Ángel Cervigón y confirma definitivamente la sentencia de la Audiencia Provincial de Cáceres, ratificando la condena de 8 años y 6 meses de inhabilitación especial. Con esta resolución, el caso queda cerrado judicialmente y la sentencia adquiere firmeza."
-    type: "sentencia"
-    relevancia: "alta"
-    urls: []
+- fecha: '2014-09-22'
+  titulo: Incoación de las diligencias
+  descripcion: Los antecedentes de la sentencia del Supremo sitúan en esta fecha el auto de incoación. El procedimiento
+    de origen fue el abreviado 1050/2014 del Juzgado de Instrucción número 3 de Plasencia.
+  type: investigación
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0ae54662629b8e85&encode=true&databasematch=AN
+- fecha: '2019-06-25'
+  titulo: Condena de la Audiencia Provincial de Cáceres
+  descripcion: Sentencia 178/2019 de la Sección Segunda, rollo 9/2019. Condena por prevaricación continuada y absolución
+    por malversación y negociaciones prohibidas; los otros dos acusados fueron absueltos de prevaricación y malversación.
+    El fallo original y su reproducción en los antecedentes del Supremo coinciden.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=22c1a824ad5f28f2&encode=true&databasematch=AN
+- fecha: '2021-10-04'
+  titulo: Sentencia del Tribunal Supremo
+  descripcion: La STS 741/2021 resuelve el recurso de casación 4128/2019. La nota oficial posterior confirma su
+    desestimación y el mantenimiento de la condena.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0ae54662629b8e85&encode=true&databasematch=AN
+- fecha: '2021-10-18'
+  titulo: El CGPJ comunica la confirmación de la condena
+  descripcion: Fecha de publicación de la nota judicial, distinta de la fecha de la sentencia. Explica la condena
+    por decisiones de contratación y las absoluciones de los otros dos acusados.
+  type: documento
+  urls:
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-de-ocho-anos-y-medio-de-inhabilitacion-al-exalcalde-de-un-pueblo-de-Caceres-por-prevaricacion
+  - https://www.canalextremadura.es/noticias/extremadura/el-exalcalde-de-santa-cruz-de-paniagua-condenado-por-enchufar-familiares
 ---
+
+La nota oficial distingue a dos hijos del alcalde de dos hijos y el marido de la alguacil municipal. La afirmación anterior de que había contratado a sus cuatro hijos mezclaba ambas familias. También recoge contratos con su empresa de autobuses. Los pagos por servicios no se equiparan a dinero sustraído: el Supremo explica que los trabajos se prestaron efectivamente.
+
+La condena se refiere a decisiones de contratación, no a una condena por cobrar dietas. Se retira el coste de 8.000 euros: no se ha verificado como perjuicio declarado por el tribunal. Tampoco se mantienen como hechos probados la desaparición de la contabilidad digital ni las citas atribuidas a la Fiscalía sin documento contrastado.
+
+La noticia de Radio Interior citada anteriormente para la apertura de diligencias trata de una investigación distinta, anunciada en noviembre de 2021, contra el sucesor de Cervigón, Miguel Carlos González. Se elimina de esta cronología. El reportaje de El Español de noviembre de 2021 describe la auditoría y la denuncia de 2014, pero confunde el 18 de octubre, fecha de la comunicación oficial, con la fecha de la sentencia.
+
+La nota judicial identifica a los otros dos acusados por sus cargos: la alguacil y el asesor que posteriormente fue secretario municipal. Ambos resultaron absueltos. Se retiran sus nombres de la lista hasta obtener una fuente nominal contrastada: los pseudónimos de las transcripciones judiciales no permiten establecer identidades.
+
+Revisión hasta el 17 de octubre de 2026: se han recuperado los originales oficiales de [instancia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=22c1a824ad5f28f2&encode=true&databasematch=AN) y [casación](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0ae54662629b8e85&encode=true&databasematch=AN). Se leyeron las páginas 1–3 y 9 del Supremo y 1 y 16–17 de la Audiencia, no los fundamentos íntegros. El Supremo desestima el recurso y advierte que no cabe recurso alguno; ello no documenta por sí solo la ejecución o extinción de la inhabilitación. Permanecen pendientes el contraste nominal de los otros dos absueltos y las actuaciones posteriores de ejecución.
