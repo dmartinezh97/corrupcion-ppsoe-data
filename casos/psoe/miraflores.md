@@ -1,70 +1,68 @@
 ---
 nombre: "Caso Miraflores"
 partido: PSOE
-completado: true
+completado: false
 año: 2007
 fechaInicio: "2007-01-26"
-fechaFin: "2014-09-10"
-estado: "cerrado con condenas"
+estado: "condenado"
 descripcion: |
-  El Caso Miraflores es un caso de prevaricación urbanística protagonizado por José Esteban Esteban, alcalde socialista de Miraflores de la Sierra (Madrid). El 26 de enero de 2007, mediante decreto, aprobó definitivamente el proyecto de urbanización "El Tomillar", que proyectaba la construcción de viviendas en el cauce del arroyo El Carrascal. Tres parcelas residenciales y los muros de contención del proyecto invadían directamente el cauce del arroyo, y la aprobación se realizó sin contar con la autorización preceptiva de la Confederación Hidrográfica del Tajo (CHT).
+  Procedimiento por la aprobación de la urbanización El Tomillar junto al arroyo El Carrascal, en Miraflores de la Sierra. Las noticias de septiembre de 2014 informaron de la condena del exalcalde socialista José Esteban Esteban a nueve años de inhabilitación por prevaricación administrativa continuada. Europa Press recogió también la atenuante de reparación del daño.
 
-  El alcalde ignoró deliberadamente el informe del propio servicio técnico municipal, que había recomendado expresamente remitir el proyecto a la CHT antes de su aprobación. Pese a la oposición del movimiento vecinal organizado en la plataforma SOS Miraflores y la Asociación Ecologista Peñalosa-Ecologistas en Acción, que aportaron informes geológicos que desaconsejaban la urbanización, las obras comenzaron en 2007. En mayo de 2008, la CHT emitió un informe denegando formalmente la autorización. La plataforma SOS Miraflores presentó denuncia ante los juzgados de Colmenar Viejo, que paralizaron cautelarmente las obras, las cuales nunca se reanudaron.
-
-  El Juzgado de lo Penal número 31 de Madrid dictó sentencia el 22 de julio de 2014, comunicada a las partes en septiembre de ese año, condenando a José Esteban Esteban a nueve años de inhabilitación para ejercer cargo público por un delito continuado de prevaricación administrativa. La sentencia calificó la actuación del alcalde como "evidentemente arbitraria, contraria a la legalidad" y determinó que el imputado "era consciente de dicha arbitrariedad". La pena se aproximó al máximo legal de diez años debido a la persistencia en las decisiones ilegales. La sentencia también ordenó la demolición de los cuatro muros de contención ya construidos y la restauración ambiental de la zona.
-resumen: "Alcalde socialista de Miraflores de la Sierra condenado a 9 años de inhabilitación por aprobar ilegalmente una urbanización en el cauce de un arroyo."
-coste: 0
+  No se ha recuperado la sentencia original ni se ha verificado su firmeza o el resultado de recursos al corte del 17 de octubre de 2026. El acta municipal de septiembre de 2014 recogía expresamente que se desconocía entonces si era firme. No se afirma el cierre definitivo ni la ejecución de la pena o de una demolición.
+resumen: "Condena de nueve años de inhabilitación por la aprobación urbanística de El Tomillar, según las noticias de 2014. Original, recursos y firmeza pendientes de verificar."
 lugar: "Miraflores de la Sierra, Comunidad de Madrid"
 tribunal:
-  - "Juzgado de lo Penal número 31 de Madrid"
+  - "Juzgado de lo Penal número 31 de Madrid (según la prensa local)"
 numeroSentencia: ""
 implicados:
   - nombre: "José Esteban Esteban"
-    cargo: "Alcalde de Miraflores de la Sierra (PSOE)"
-    rol: "Condenado a 9 años de inhabilitación por prevaricación continuada"
+    cargo: "Exalcalde de Miraflores de la Sierra (PSOE)"
+    rol: "Condenado a nueve años de inhabilitación por prevaricación continuada según las crónicas; firmeza no verificada"
 tags:
-  - "corrupción"
   - "prevaricación"
-  - "corrupción urbanística"
-impactoSocial: "El caso supuso la paralización definitiva de una urbanización ilegal en zona fluvial protegida y consolidó la capacidad de las organizaciones ecologistas para ejercer la acusación particular en delitos urbanísticos. La condena fue un precedente relevante en la lucha contra la corrupción urbanística municipal en España."
-documentos: null
+  - "urbanismo"
+impactoSocial: "El procedimiento dio lugar a debate municipal sobre la situación de los muros construidos y su posible retirada."
+documentos:
+  - fecha: "2014-09-26"
+    titulo: "Acta del pleno municipal de Miraflores de la Sierra: sesión de 26 de septiembre de 2014"
+    filetype: "pdf"
+    paginas: 16
+    nombre_fichero: "https://www.mirafloresdelasierra.es/wp-content/uploads/2011/10/acta26-09-2014.pdf"
 cronologia:
   - fecha: "2007-01-26"
-    titulo: "El alcalde aprueba por decreto la urbanización El Tomillar"
-    descripcion: "José Esteban Esteban, alcalde socialista de Miraflores de la Sierra, aprueba definitivamente por decreto el proyecto de urbanización El Tomillar, que contempla la construcción de viviendas en el cauce del arroyo El Carrascal. La aprobación se realiza sin las autorizaciones preceptivas de la Confederación Hidrográfica del Tajo y contra el criterio del propio servicio técnico municipal, que había recomendado obtener dicha autorización antes de proceder."
+    titulo: "Aprobación del proyecto El Tomillar según la información contemporánea"
+    descripcion: "La noticia local, que recoge la versión de Ecologistas en Acción, sitúa en esta fecha el decreto de aprobación. El decreto original no ha sido cotejado."
     type: "resumen"
-    relevancia: "alta"
+    relevancia: "media"
     urls:
-      - "https://www.ecologistasenaccion.org/28532/inhabilitado-durante-nueve-anos-el-exalcalde-de-miraflores-de-la-sierra/"
-  - fecha: "2007-03-01"
-    titulo: "Inicio de las obras y denuncia vecinal"
-    descripcion: "Comienzan las obras de construcción de la urbanización El Tomillar. La plataforma vecinal SOS Miraflores, junto con la Asociación Ecologista Peñalosa-Ecologistas en Acción, presenta denuncia ante los juzgados de Colmenar Viejo, oponiéndose a la urbanización con base en informes geológicos que la desaconsejan. Los juzgados de Colmenar Viejo acuerdan la paralización cautelar de las obras."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://www.ecologistasenaccion.org/28532/inhabilitado-durante-nueve-anos-el-exalcalde-de-miraflores-de-la-sierra/"
-      - "https://www.madridnorte24horas.com/articulo/miraflores-sierra/ecologistas-en-accion-explica-los-motivos-de-la-sentencia-que-inhabilita-al-excalde-de-miraflores-francisco-esteban-durante-9-anos/20140915112900059781.html"
-  - fecha: "2008-05-01"
-    titulo: "La Confederación Hidrográfica del Tajo deniega la autorización"
-    descripcion: "La Confederación Hidrográfica del Tajo (CHT) emite informe formal denegando la autorización para la urbanización El Tomillar. El informe confirma que tres de las parcelas residenciales y los muros de contención invaden el cauce del arroyo El Carrascal. Las obras permanecen paralizadas y no se reanudarán."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://www.ecologistasenaccion.org/28532/inhabilitado-durante-nueve-anos-el-exalcalde-de-miraflores-de-la-sierra/"
+      - "https://www.cronicanorte.es/el-ex-alcalde-de-miraflores-inhabilitado-por-un-delito-de-prevaricacion/68601"
   - fecha: "2014-07-22"
-    titulo: "Sentencia condenatoria del Juzgado de lo Penal número 31 de Madrid"
-    descripcion: "El Juzgado de lo Penal número 31 de Madrid dicta sentencia condenando a José Esteban Esteban a nueve años de inhabilitación para ejercer cargo público por un delito continuado de prevaricación administrativa (artículo 404 del Código Penal). La resolución califica la actuación del alcalde de \"evidentemente arbitraria, contraria a la legalidad\" y señala que el condenado \"era consciente de dicha arbitrariedad\". La pena se aproxima al máximo legal de diez años por la persistencia en las decisiones ilegales."
+    titulo: "Fecha de la sentencia según la prensa local"
+    descripcion: "Crónica Norte atribuye al 22 de julio la sentencia condenatoria. Fecha y número pendientes de cotejar con el original."
     type: "sentencia"
     relevancia: "alta"
     urls:
-      - "https://confilegal.com/20140910-nueve-anos-inhabilitacion-ex-alcalde-miraflores-sierra-prevaricacion-10092014-1814/"
-      - "https://www.madridiario.es/noticia/415270/municipios/el-exalcalde-de-miraflores-de-la-sierra-inhabilitado-nueve-anos-por-un-delito-de-prevaricacion.html"
+      - "https://www.cronicanorte.es/el-ex-alcalde-de-miraflores-inhabilitado-por-un-delito-de-prevaricacion/68601"
   - fecha: "2014-09-10"
-    titulo: "La sentencia es comunicada a las partes y se valora públicamente"
-    descripcion: "La sentencia dictada en julio es notificada formalmente a las partes en septiembre de 2014. Ecologistas en Acción, que actuó como acusación particular, valora positivamente el resultado y explica públicamente los motivos de la condena. La sentencia también ordena la demolición de los cuatro muros de contención ya construidos y la restauración medioambiental de la zona afectada."
-    type: "sentencia"
-    relevancia: "alta"
+    titulo: "Publicación de la condena"
+    descripcion: "Europa Press informó de nueve años de inhabilitación y de la atenuante de reparación del daño. La publicación no acredita una fecha exacta de notificación ni firmeza."
+    type: "resumen"
+    relevancia: "media"
     urls:
-      - "https://www.madridnorte24horas.com/articulo/miraflores-sierra/ecologistas-en-accion-explica-los-motivos-de-la-sentencia-que-inhabilita-al-excalde-de-miraflores-francisco-esteban-durante-9-anos/20140915112900059781.html"
-      - "https://www.ecologistasenaccion.org/28532/inhabilitado-durante-nueve-anos-el-exalcalde-de-miraflores-de-la-sierra/"
+      - "https://www.europapress.es/madrid/noticia-inhabilitado-nueve-anos-exalcalde-miraflores-sierra-prevaricacion-20140910164410.html"
+  - fecha: "2014-09-26"
+    titulo: "El pleno aborda la situación de los muros y la sentencia"
+    descripcion: "IU preguntó por la demolición. El alcalde respondió que un informe de Secretaría advertía de la falta de comunicación oficial de la sentencia al Ayuntamiento y de que se desconocía si era firme."
+    type: "resumen"
+    relevancia: "media"
+    urls:
+      - "https://www.mirafloresdelasierra.es/wp-content/uploads/2011/10/acta26-09-2014.pdf"
 ---
+
+La información de 2014 relaciona la condena con una aprobación sin los informes y autorizaciones necesarios. La prensa local recoge, a partir del comunicado de la acusación ecologista, la invasión del cauce por parcelas y muros y la paralización cautelar de las obras. Esas referencias no sustituyen la lectura de los informes hidrológicos ni de la sentencia.
+
+Se retira la afirmación de que el fallo ordenó derribar cuatro muros: Madrid Norte 24 horas reproducía una valoración ecologista sobre lo que quedaba por hacer, mientras que el acta municipal recoge una pregunta sobre iniciar su demolición. Ninguna de esas fuentes permite certificar la ejecución ni una paralización definitiva hasta la actualidad.
+
+Hay discrepancias editoriales: Europa Press denomina al órgano «Juzgado de Instrucción número 31», frente a «Juzgado de lo Penal número 31» en las crónicas locales. Madrid Norte 24 horas introduce además variantes del nombre en título y apertura; se mantiene José Esteban Esteban, coincidente en Europa Press y Crónica Norte, sin deducir otras identidades. El original judicial sigue pendiente.
+
+No se conserva coste cero: falta una cuantificación contrastada del perjuicio. La fecha de sesión del acta es septiembre de 2014, aunque el PDF se generó en febrero de 2015 y su ruta contiene 2011; estos datos técnicos no cambian la fecha del pleno. La revisión permanece incompleta por las lagunas judiciales y de ejecución.
