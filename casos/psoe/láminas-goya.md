@@ -1,95 +1,96 @@
 ---
-nombre: "Caso Láminas de Goya"
+nombre: Caso Láminas de Goya
 partido: PSOE
-completado: true
-año: 2017
-fechaInicio: "2009-08-31"
-fechaFin: "2022-10-17"
-estado: "sobreseimiento"
-descripcion: |
-  El caso de las Láminas de Goya tiene su origen en agosto de 2009, cuando Josefa Cruz Orta, entonces concejala de Cultura del Ayuntamiento de Carboneras (Almería), adquirió con fondos públicos municipales 80 estampas de Francisco de Goya pertenecientes a la colección "Los Desastres de la Guerra" por un importe de 3.250 euros, pagados de forma aplazada. La compra se realizó sin tramitar expediente alguno y sin acuerdo de los órganos de gobierno municipales.
-
-  El escándalo estalló cuando las láminas nunca fueron expuestas al público y, con el cambio de gobierno municipal en 2011, el nuevo alcalde Salvador Hernández denunció que las obras no aparecían en ninguna dependencia municipal. En 2019 el consistorio las valoró en aproximadamente 8.000 euros. La Fiscalía abrió diligencias considerando que la compra había sido "un gasto innecesario y superfluo para el erario público" y que la decisión fue "personal y arbitraria en su esencia y alejada del interés público".
-
-  Tras años de investigación judicial, el Juzgado de Instrucción 2 de Vera instruyó la causa y el caso fue elevado a juicio oral ante el Juzgado de lo Penal 3 de Almería. La acusación particular solicitaba un año de prisión, ocho años de inhabilitación especial para empleo o cargo público y una multa de cuatro meses a razón de diez euros diarios. El 17 de octubre de 2022, la magistrada María del Mar Alejo absolvió a Josefa Cruz al considerar que la exconcejal no adquirió las estampas fuera del ámbito de sus competencias ni sin observar el procedimiento establecido, y que tampoco se acreditó su participación en la desaparición de las láminas.
-resumen: "La exconcejala de Cultura socialista de Carboneras (Almería) adquirió con fondos públicos 80 estampas de Goya en 2009 que desaparecieron sin ser expuestas. Fue absuelta en 2022 por el Juzgado de lo Penal 3 de Almería."
-coste: 3250
-lugar: "Carboneras, Andalucía"
+completado: false
+año: 2009
+estado: absuelta
+resumen: Josefa Cruz fue absuelta en 2022 por la compra y posterior desaparición de 80 facsímiles de Goya en Carboneras.
+descripcion: 'La investigación examinó la compra municipal de 80 facsímiles de Los Desastres de la Guerra por 3.250
+  euros y su desaparición. El Juzgado de lo Penal 3 de Almería absolvió a Josefa Cruz de prevaricación y malversación
+  en octubre de 2022; la prensa que recoge la sentencia señala que la compra se ajustó al procedimiento aplicable
+  y que no se acreditó su responsabilidad en la pérdida. Revisión parcial a 17 de octubre de 2026: no se ha recuperado
+  la sentencia original ni acreditado su firmeza o eventuales recursos.'
+lugar: Carboneras, Almería
 tribunal:
-  - "Juzgado de Instrucción 2 de Vera (instrucción)"
-  - "Juzgado de lo Penal 3 de Almería (juicio oral)"
-numeroSentencia: ""
+- Juzgado de Instrucción n.º 2 de Vera
+- Juzgado de lo Penal n.º 3 de Almería
 implicados:
-  - nombre: "Josefa Cruz Orta"
-    cargo: "Exconcejala de Cultura del Ayuntamiento de Carboneras (PSOE)"
-    rol: "Acusada principal. Adquirió las 80 láminas sin expediente administrativo. Absuelta en 2022."
-  - nombre: "Cristóbal Fernández Fernández"
-    cargo: "Exalcalde de Carboneras (PSOE)"
-    rol: "Investigado por prevaricación en relación con la adquisición. La causa contra él fue sobreseída."
-  - nombre: "Salvador Hernández"
-    cargo: "Alcalde de Carboneras (PP, sucesor)"
-    rol: "Denunciante. Alertó de la desaparición de las láminas al no localizarlas tras asumir el gobierno municipal en 2011."
-  - nombre: "María del Mar Alejo"
-    cargo: "Magistrada del Juzgado de lo Penal 3 de Almería"
-    rol: "Emitió la sentencia absolutoria el 17 de octubre de 2022."
+- nombre: Josefa Cruz Orta
+  cargo: Exconcejala de Cultura de Carboneras (PSOE)
+  rol: Acusada de prevaricación y malversación; absuelta en octubre de 2022. Firmeza no verificada.
+- nombre: Cristóbal Fernández
+  cargo: Exalcalde de Carboneras (PSOE)
+  rol: Investigado en esta causa; Europa Press informó en mayo de 2019 de su sobreseimiento. Modalidad y firmeza
+    pendientes del auto original.
+- nombre: Salvador Hernández
+  cargo: Alcalde de Carboneras por Gicar en la etapa de la denuncia
+  rol: Denunciante y testigo. No se le atribuye pertenencia al PP por el pacto de gobierno entre Gicar y PP.
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-  - "patrimonio público"
-  - "Andalucía"
-  - "ayuntamiento"
-impactoSocial: "Pérdida o extravío de bienes culturales adquiridos con fondos públicos municipales. Las 80 estampas originales de Goya nunca fueron expuestas al público ni recuperadas. El caso generó desconfianza en la gestión del patrimonio cultural del municipio de Carboneras."
-documentos: null
+- patrimonio municipal
+- absolución
+- Carboneras
+impactoSocial: La controversia afectó a la localización y custodia de una colección municipal. La absolución impide
+  presentar como probada una apropiación de las láminas por la acusada. El paradero descrito por las noticias de
+  2022 no se ha actualizado documentalmente.
+documentos: []
 cronologia:
-  - fecha: "2009-08-31"
-    titulo: "Compra de las 80 láminas de Goya"
-    descripcion: "Josefa Cruz Orta, concejala de Cultura, adquiere 80 estampas de la colección 'Los Desastres de la Guerra' de Francisco de Goya por 3.250 euros con fondos municipales, sin expediente administrativo ni acuerdo de órganos de gobierno."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://andaluciainformacion.es/almeria/980323/la-presunta-compra-ilegal-de-laminas-de-goya-en-consistorio-de-carboneras-a-juicio/"
-  - fecha: "2011-01-01"
-    titulo: "Cambio de gobierno y desaparición de las láminas"
-    descripcion: "El nuevo alcalde de Carboneras, Salvador Hernández, denuncia que las 80 láminas de Goya no aparecen en ninguna dependencia municipal. Las obras nunca llegaron a ser expuestas al público durante el mandato de Josefa Cruz."
-    type: "denuncia"
-    relevancia: "alta"
-    urls:
-      - "https://www.lavozdealmeria.com/noticia/3/provincia/123993/las-laminas-de-goya-estaban-en-el-archivo-municipal"
-  - fecha: "2017-10-10"
-    titulo: "Apertura de investigación judicial"
-    descripcion: "El Juzgado de Instrucción 2 de Vera inicia la investigación sobre la adquisición irregular de las láminas y su posterior desaparición, a instancias de la Fiscalía. La Vanguardia informa sobre el caso."
-    type: "investigación"
-    relevancia: "alta"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+L%C3%A1minas+Goya&numero=337"
-  - fecha: "2018-10-10"
-    titulo: "Fiscalía pide cárcel e inhabilitación"
-    descripcion: "La acusación particular solicita un año de prisión y ocho años de inhabilitación especial para empleo o cargo público para Josefa Cruz Orta, además de una multa de cuatro meses a razón de diez euros diarios por los delitos de prevaricación y malversación de caudales públicos."
-    type: "imputación"
-    relevancia: "alta"
-    urls:
-      - "https://www.almerianoticias.es/piden-carcel-e-inhabilitacion-a-concejal-de-carboneras-que-compro-laminas-de-goya-desaparecidas/"
-  - fecha: "2021-07-01"
-    titulo: "Celebración del juicio oral"
-    descripcion: "Se celebra el juicio oral en el Juzgado de lo Penal 3 de Almería. Josefa Cruz declara que depositó las láminas en el archivo municipal. El caso versa sobre los delitos de prevaricación y malversación de caudales públicos."
-    type: "juicio"
-    relevancia: "alta"
-    urls:
-      - "https://andaluciainformacion.es/almeria/980323/la-presunta-compra-ilegal-de-laminas-de-goya-en-consistorio-de-carboneras-a-juicio/"
-  - fecha: "2022-09-20"
-    titulo: "Segunda vista oral del caso"
-    descripcion: "El Juzgado de lo Penal 3 de Almería celebra una segunda sesión del juicio oral. La acusación mantiene las penas solicitadas y la defensa pide la absolución al considerar que la concejal actuó dentro de sus competencias."
-    type: "juicio"
-    relevancia: "media"
-    urls:
-      - "https://www.almeriahoy.com/2022/07/exconcejal-de-carboneras-sera-juzgada.html"
-  - fecha: "2022-10-17"
-    titulo: "Sentencia absolutoria"
-    descripcion: "La magistrada María del Mar Alejo del Juzgado de lo Penal 3 de Almería absuelve a Josefa Cruz Orta. El tribunal considera que la exconcejal no adquirió las estampas fuera del ámbito de sus competencias ni sin observar el procedimiento legal, y que no se acreditó su participación en la desaparición de las láminas."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.lavozdealmeria.com/noticia/3/provincia/246177/la-justicia-no-ve-delito-en-la-compra-de-laminas-de-goya-y-absuelve-a-la-acusada"
-      - "https://okdiario.com/andalucia/absuelta-socialista-que-compro-unas-laminas-goya-ahora-desaparecidas-porque-lo-hizo-sin-observar-9853310"
+- fecha: '2017-02-22'
+  titulo: Información sobre las diligencias de Fiscalía
+  descripcion: 'Fecha de publicación, no de apertura de la causa: se informa de la investigación fiscal tras la
+    denuncia municipal y se recogen versiones contrapuestas sobre la ubicación de los facsímiles.'
+  urls:
+  - https://www.lavozdealmeria.com/provincia/105056/laminas-goya-estaban-archivo-municipal.html
+  type: investigacion
+- fecha: '2019-05-18'
+  titulo: Apertura de juicio oral y sobreseimiento del exalcalde
+  descripcion: Fecha de la noticia de Europa Press sobre la apertura de juicio oral contra Josefa Cruz y el sobreseimiento
+    respecto de Cristóbal Fernández. No se ha recuperado el auto. Prisión, multa e inhabilitación eran peticiones,
+    no condenas.
+  urls:
+  - https://www.europapress.es/andalucia/almeria-00350/noticia-abren-juicio-oral-concejal-psoe-carboneras-almeria-acusada-comprar-laminas-goya-desaparecidas-20190518105934.html
+  type: juicio
+- fecha: '2021-07-01'
+  titulo: Señalamiento de juicio posteriormente suspendido
+  descripcion: La noticia de junio de 2021 anunciaba la vista para este día; las noticias de 2022 indican que se
+    suspendió en julio de 2021. No se registra como juicio celebrado.
+  urls:
+  - https://www.andaluciainformacion.es/articulo/almeria/la-presunta-compra-ilegal-de-laminas-de-goya-en-consistorio-de-carboneras-a-juicio/202106221316552413972.html
+  - https://www.europapress.es/andalucia/almeria-00350/noticia-juicio-martes-presunta-compra-irregular-laminas-goya-ayuntamiento-carboneras-almeria-20220919174800.html
+  type: juicio
+- fecha: '2022-09-20'
+  titulo: Juicio celebrado y visto para sentencia
+  descripcion: IDEAL relata la vista ante el Juzgado de lo Penal 3. La Fiscalía mantuvo la acusación; el Ayuntamiento
+    no envió abogado según esa crónica. No se acredita una segunda vista distinta.
+  urls:
+  - https://levante.ideal.es/actualidad/exconcejal-carboneras-defiende-20220920165441-nt.html
+  type: juicio
+- fecha: '2022-10-17'
+  titulo: Absolución de Josefa Cruz
+  descripcion: Fecha de sentencia que identifica La Voz de Almería en su información del 20 de octubre. Absolución
+    por prevaricación y malversación; el original y la firmeza no se han verificado.
+  urls:
+  - https://www.lavozdealmeria.com/provincia/223810/justicia-ve-delito-compra-laminas-goya-absuelve-acusada.html
+  type: sentencia
 ---
+
+# Compra municipal y absolución
+
+La colección era una edición facsímil de 80 estampas de *Los Desastres de la Guerra*, no una adquisición de originales de Goya. La información de febrero de 2017 sitúa la factura de compra en el 31 de agosto de 2009. Las manifestaciones de Cristóbal Fernández sobre su depósito en el archivo eran entonces su versión, no una noticia de recuperación de la colección. [La Voz de Almería, 22 de febrero de 2017](https://www.lavozdealmeria.com/provincia/105056/laminas-goya-estaban-archivo-municipal.html).
+
+## Evolución del procedimiento
+
+Europa Press informó en mayo de 2019 de la apertura de juicio oral contra Josefa Cruz y del sobreseimiento respecto del exalcalde Cristóbal Fernández. El escrito de acusación pedía un año de prisión, ocho de inhabilitación y multa; estas solicitudes no fueron condenas. No se ha obtenido el auto de sobreseimiento para determinar su modalidad o firmeza. [Europa Press, 18 de mayo de 2019](https://www.europapress.es/andalucia/almeria-00350/noticia-abren-juicio-oral-concejal-psoe-carboneras-almeria-acusada-comprar-laminas-goya-desaparecidas-20190518105934.html).
+
+El señalamiento de julio de 2021 fue suspendido, según la información de septiembre de 2022. IDEAL relató la celebración de la vista el 20 de septiembre de 2022 y que quedó vista para sentencia. Por tanto, no se mantienen como dos juicios celebrados las fechas de julio de 2021 y septiembre de 2022. [Europa Press, septiembre de 2022](https://www.europapress.es/andalucia/almeria-00350/noticia-juicio-martes-presunta-compra-irregular-laminas-goya-ayuntamiento-carboneras-almeria-20220919174800.html); [crónica de la vista](https://levante.ideal.es/actualidad/exconcejal-carboneras-defiende-20220920165441-nt.html).
+
+La Voz de Almería, que declaró haber accedido al fallo, fecha la absolución el 17 de octubre de 2022; publicó la noticia el día 20. No se confunde fecha de sentencia con publicación. [La Voz de Almería](https://www.lavozdealmeria.com/provincia/223810/justicia-ve-delito-compra-laminas-goya-absuelve-acusada.html).
+
+La información de Europa Press reproducida por Teleprensa explica que el juzgado consideró la adquisición un contrato menor tramitado conforme a las reglas aplicables y dentro de las competencias de la concejala. Sobre la desaparición, no consideró acreditada una apropiación ni una pérdida atribuible a ella; tuvo en cuenta documentación sobre el depósito en el archivo y su falta de obligación de custodia. Las imputaciones iniciales sobre arbitrariedad o ausencia de expediente no se presentan como hechos probados tras la absolución. [Teleprensa/Europa Press, 20 de octubre de 2022](https://www.teleprensa.com/almeria/provincia/andalucia-almeria-tribunales-absuelta-exedil-socialista-carboneras-compra-desaparicion-laminas-goya/202210201716131321341.html).
+
+## Importes y límites
+
+Los 3.250 euros son el precio de adquisición, no un daño penalmente atribuido a la acusada. La valoración próxima a 8.000 euros comunicada por el Ayuntamiento y la fianza de 5.933 euros reseñada en 2019 tampoco son una indemnización impuesta. No se suman esas cantidades. [Información económica y procesal de 2019](https://www.europapress.es/andalucia/almeria-00350/noticia-abren-juicio-oral-concejal-psoe-carboneras-almeria-acusada-comprar-laminas-goya-desaparecidas-20190518105934.html).
+
+Salvador Hernández pertenecía a Gicar en la etapa de la denuncia; el gobierno municipal era de Gicar y PP, lo que no lo convierte en edil del PP. La magistrada no se incluye entre los implicados. Tampoco se trasladan a esta ficha otros procedimientos electorales o de contratación de Carboneras.
+
+Corte de revisión: 17 de octubre de 2026. La sentencia y el auto originales no han sido recuperados; no se conoce aquí su número, modalidad de sobreseimiento, recursos o firmeza. Las noticias de 2022 describían los facsímiles como no localizados, pero no se ha verificado documentalmente su paradero posterior. Por estas lagunas la ficha permanece incompleta y sin documentos judiciales adjuntos.
