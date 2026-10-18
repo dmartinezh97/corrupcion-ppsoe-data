@@ -28,8 +28,13 @@ descripcion: 'El caso Ceivam examinó ayudas europeas Leader II para una planta 
   En vía administrativa, la sentencia penal recoge una orden de reintegro de 8 de marzo de 2007 y su confirmación
   contenciosa el 11 de febrero de 2009. La Región informó en julio de 2012, citando una respuesta ministerial, de
   39.065,79 euros por la planta y 12.897,98 euros por un taller de orfebrería; Rogelio Martínez afirmó entonces
-  que ya habían sido devueltos. No se ha recuperado el original contencioso ni una liquidación administrativa que
-  permita comprobar individualmente su ejecución. La Audiencia penal explica que el procedimiento de reintegro no
+  que ya habían sido devueltos. En respuestas oficiales ante el Senado de 11 de febrero de 2013 y 23 de octubre de 2014, el Gobierno
+  informó de que Ceivam había hecho efectivo el reintegro de 51.963,77 euros el 18 de noviembre de 2009, más
+  13.503,52 euros de intereses. Es una declaración gubernamental recogida en el diario oficial, no un justificante
+  contable individual. No se han recuperado el original contencioso ni la liquidación que permita comprobar ese
+  detalle. Los diarios del Senado sitúan la desestimación contenciosa el 15 de abril de 2009 y la reposición el
+  26 de junio de 2007, mientras las sentencias penales citan el 11 de febrero de 2009 y el 28 de junio de 2007:
+  no se concilian esas fechas sin los originales. La Audiencia penal explica que el procedimiento de reintegro no
   era sancionador: no equivale a una condena penal.
 
 
@@ -128,6 +133,16 @@ documentos:
   filetype: pdf
   paginas: 10
   nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=ff0cbff351b34052&encode=true&databasematch=TS
+- fecha: '2013-02-11'
+  titulo: 'Diario de Sesiones del Senado 126: respuesta del Gobierno sobre el reintegro de Ceivam'
+  filetype: pdf
+  paginas: 27
+  nombre_fichero: https://www.senado.es/legis10/publicaciones/pdf/senado/ds/DS_C_10_126.PDF
+- fecha: '2014-10-23'
+  titulo: 'Diario de Sesiones del Senado 367: respuesta del Gobierno sobre el reintegro de Ceivam'
+  filetype: pdf
+  paginas: 46
+  nombre_fichero: https://www.senado.es/legis10/publicaciones/pdf/senado/ds/DS_C_10_367.PDF
 cronologia:
 - fecha: '1999-10-18'
   titulo: Solicitudes de ayuda para biomasa y talleres
@@ -165,6 +180,13 @@ cronologia:
   type: documento
   urls:
   - https://www.laregion.es/comarca-de-ourense/grupo-ceivam-tuvo-devolver-51-000-euros-fondos-deuropeos_1_20120714-2589052.html
+- fecha: '2013-02-11'
+  titulo: El Gobierno informa al Senado del reintegro efectivo en 2009
+  descripcion: 'El ministro Arias Cañete declara que Ceivam hizo efectivo el reintegro de 51.963,77 euros el 18 de noviembre de 2009, más 13.503,52 euros de intereses. El secretario de Estado Ramos de Armas reitera esos datos el 23 de octubre de 2014. Son declaraciones gubernamentales oficiales, no justificantes contables individuales ni pronunciamientos penales. Las fechas de las entradas documentales son las sesiones, no la creación posterior de los PDF.'
+  type: documento
+  urls:
+  - https://www.senado.es/legis10/publicaciones/pdf/senado/ds/DS_C_10_126.PDF
+  - https://www.senado.es/legis10/publicaciones/pdf/senado/ds/DS_C_10_367.PDF
 - fecha: '2019-06-03'
   titulo: Comienza el juicio oral
   descripcion: Los antecedentes de la sentencia acreditan sesiones los días 3, 5, 6 y 10 de junio de 2019. Fiscalía
@@ -195,6 +217,8 @@ Los [hechos probados y fallo de la Audiencia](https://www.poderjudicial.es/searc
 
 La [información nominal de enero de 2018](https://www.laregion.es/comarca-de-ourense/instruccion-caso-rogelio-martinez-llega-final_1_20180105-2950346.html) sitúa a Gumersindo Álvarez Martínez en la constructora y a cinco particulares en las ayudas a talleres. No se le confunde con Gumersindo Álvarez Rodríguez, representante de Actuar. Los nombres periodísticos no autorizan a asignar seudónimos judiciales ni responsabilidades adicionales.
 
-La [noticia del reintegro](https://www.laregion.es/comarca-de-ourense/grupo-ceivam-tuvo-devolver-51-000-euros-fondos-deuropeos_1_20120714-2589052.html) distingue planta y orfebrería. Su importe no constituye por sí solo perjuicio penal ni se suma al presupuesto de la obra. La sentencia penal identifica la decisión contenciosa de 11 de febrero de 2009 y explica por qué no tenía carácter sancionador. El original contencioso y el comprobante de reintegro permanecen pendientes; la declaración periodística de devolución no sustituye esos documentos.
+La [noticia del reintegro](https://www.laregion.es/comarca-de-ourense/grupo-ceivam-tuvo-devolver-51-000-euros-fondos-deuropeos_1_20120714-2589052.html) distingue planta y orfebrería. Su importe no constituye por sí solo perjuicio penal ni se suma al presupuesto de la obra. La sentencia penal identifica la decisión contenciosa de 11 de febrero de 2009 y explica por qué no tenía carácter sancionador. El Gobierno informó oficialmente al Senado en 2013 y 2014 de un reintegro efectivo el 18 de noviembre de 2009 de 51.963,77 euros, más 13.503,52 euros de intereses. Esa información supera la mera declaración periodística, pero el original contencioso y el justificante contable individual siguen pendientes. Las respuestas oficiales citan recurso 340/2007, desestimación de 15 de abril de 2009 y reposición de 26 de junio de 2007, frente al 11 de febrero de 2009 y 28 de junio de 2007 recogidos en las sentencias penales; la discordancia entre fuentes oficiales no se resuelve aquí. El Diario de 2013 contiene además una mención aislada de 51.973,77 euros, discordante con sus componentes y con la cifra reiterada de 51.963,77 euros; no se adopta ni se suma.
 
 El índice de resoluciones del CENDOJ menciona un auto posterior, AATS15645/2021, que no se ha recuperado. No se presupone su objeto ni se utiliza para alterar el resultado de la sentencia penal verificada.
+
+La nueva lectura de los diarios oficiales fue dirigida: páginas 15–17 del Diario 367 de 23 de octubre de 2014 y pasajes de las páginas 16–18 del Diario 126 de 11 de febrero de 2013, con lectura íntegra de la página 18 de este último. No se declara lectura íntegra de sus 46 y 27 páginas, respectivamente. Las fechas documentales corresponden a las sesiones; los metadatos de creación de los PDF son posteriores.
