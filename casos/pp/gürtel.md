@@ -1,170 +1,131 @@
 ---
-nombre: "Gürtel"
+nombre: Gürtel
 partido: PP
-completado: true
+completado: false
 año: 2009
-fechaInicio: 1999-01-01
-fechaFin: 2018-05-24
-estado: "cerrado con condenas"
-descripcion: |
-  La trama Gürtel fue una red de corrupción organizada por Francisco Correa (cuyo apellido significa "cinturón" en alemán, de ahí el nombre de la operación) que operó durante más de una década adjudicando contratos públicos de forma fraudulenta a cambio de comisiones y sobornos. La trama tenía ramificaciones en los ayuntamientos y comunidades autónomas gobernados por el PP, especialmente en Madrid, Valencia y Castilla-La Mancha, y su actividad abarcó desde finales de los años noventa hasta su desarticulación en 2009. Correa actuó como intermediario entre empresas privadas y cargos del PP, ofreciendo servicios de organización de eventos, publicidad institucional y obras públicas a cambio de comisiones ilegales.
-
-  El entramado empresarial de Correa incluía sociedades como Special Events, Easy Concept, Orange Market y otras, que facturaban servicios a administraciones públicas a precios inflados o por trabajos inexistentes. Los cargos del PP en municipios como Pozuelo de Alarcón, Boadilla del Monte, Majadahonda, Arganda del Rey y municipios valencianos recibían dádivas, regalos y dinero en metálico a cambio de adjudicar contratos a las empresas de la trama. Entre los principales implicados figuraron el jefe de la red Francisco Correa, su socio Pablo Crespo, el apodado "El Bigotes" Álvaro Pérez, y múltiples cargos del PP, incluyendo al extesorero del partido Luis Bárcenas, cuya participación dio lugar al caso paralelo conocido como "Papeles de Bárcenas".
-
-  La Audiencia Nacional dictó sentencia el 17 de mayo de 2017 en la primera pieza del caso, condenando a Francisco Correa a 51 años y 11 meses de prisión. El Tribunal Supremo confirmó y amplió algunas condenas en 2021. La sentencia de la primera pieza de la Gürtel tuvo consecuencias políticas directas de enorme trascendencia: el Tribunal Supremo, en sentencia del 24 de mayo de 2018, declaró probado que el PP se había beneficiado económicamente de la trama, lo que sirvió de base para que el Congreso de los Diputados aprobara una moción de censura contra el gobierno de Mariano Rajoy, que fue sustituido por Pedro Sánchez el 1 de junio de 2018.
-
-resumen: "Red de contratos públicos amañados a cambio de comisiones con ramificaciones en Madrid, Valencia y Castilla-La Mancha"
-lugar: "Madrid, Valencia, Castilla-La Mancha"
-coste: 120000000
+fechaFin: ''
+estado: macrocausa con condenas y piezas de evolución diferenciada
+descripcion: 'Gürtel agrupa procedimientos sobre la red de Francisco Correa y la manipulación de contratación pública
+  mediante relaciones con cargos del PP. Esta ficha ofrece una visión general limitada: no representa una única
+  sentencia ni un cierre conjunto. La primera época (1999–2005) fue resuelta por la Audiencia Nacional en la sentencia
+  20/2018, de 17 de mayo, y revisada por el Tribunal Supremo en la sentencia 507/2020, de 14 de octubre. El PP respondió
+  civilmente como partícipe a título lucrativo; no fue condenado penalmente en ese procedimiento. Otras piezas tienen
+  acusados, fallos y recursos propios. Al corte de 17 de octubre de 2026, queda pendiente comprobar la resolución
+  de la última pieza fiscal y de blanqueo, cuyo fallo aún no se había publicado según la información de 5 de octubre.
+  La revisión no abarca íntegramente todas las piezas ni todas las ejecuciones.'
+resumen: 'Macrocausa de contratación corrupta: primera época revisada por el Supremo en 2020 y otras piezas con
+  resultados propios.'
+lugar: Principalmente Comunidad de Madrid y Comunitat Valenciana
 tribunal:
-  - "Audiencia Nacional - Juzgado Central de Instrucción nº 5 - Juez Pablo Ruz"
-  - "Tribunal Supremo - Sala de lo Penal"
-numeroSentencia: "SAN 29/2017 (primera pieza); STS 3289/2021"
+- Audiencia Nacional, Sala de lo Penal
+- Tribunal Supremo, Sala de lo Penal
+numeroSentencia: 'Primera época: AN 20/2018, de 17 de mayo; TS 507/2020, de 14 de octubre (recurso 10575/2018).'
 implicados:
-  - nombre: "Francisco Correa"
-    cargo: "Empresario, cabeza de la trama"
-    rol: "Condenado a 51 años y 11 meses por organización criminal, cohecho y blanqueo"
-
-  - nombre: "Pablo Crespo"
-    cargo: "Socio y colaborador principal de Correa"
-    rol: "Condenado a 37 años y 6 meses por organización criminal y cohecho"
-
-  - nombre: "Álvaro Pérez Alonso ('El Bigotes')"
-    cargo: "Representante de la trama en Valencia"
-    rol: "Condenado a 19 años y 6 meses por cohecho y organización criminal"
-
-  - nombre: "Luis Bárcenas"
-    cargo: "Extesorero del PP"
-    rol: "Condenado en causa paralela por gestionar la contabilidad B del PP"
-
-  - nombre: "Jesús Sepúlveda"
-    cargo: "Exalcalde de Pozuelo de Alarcón (PP)"
-    rol: "Condenado a 6 años de prisión por cohecho"
-
-  - nombre: "Felipe Izquierdo"
-    cargo: "Exalcalde de Boadilla del Monte (PP)"
-    rol: "Condenado por cohecho pasivo y blanqueo de capitales"
-
-  - nombre: "Guillermo Ortega"
-    cargo: "Exalcalde de Majadahonda (PP)"
-    rol: "Condenado por cohecho y tráfico de influencias"
-
-  - nombre: "Alberto López Viejo"
-    cargo: "Exdiputado de la Asamblea de Madrid (PP)"
-    rol: "Condenado por cohecho y blanqueo de capitales"
-
-  - nombre: "Ricardo Costa"
-    cargo: "Exsecretario general del PP valenciano"
-    rol: "Absuelto en primera instancia, condenado posteriormente por el TS"
-
-  - nombre: "Álvaro Pérez Giménez"
-    cargo: "Exconseller de la Generalitat Valenciana (PP)"
-    rol: "Investigado por adjudicaciones irregulares a empresas de la trama"
-
-  - nombre: "Isabel Jordán"
-    cargo: "Exalcaldesa de Arganda del Rey (PP)"
-    rol: "Condenada por cohecho en el ámbito de la trama"
-
+- nombre: Francisco Correa Sánchez
+  cargo: Empresario; dirigente del grupo Correa
+  rol: 'Primera época: pena de prisión resultante de la casación de 2020, 51 años. No equivale al tiempo máximo
+    de cumplimiento ni incorpora otras piezas.'
+- nombre: Pablo Crespo Sabaris
+  cargo: Colaborador principal de Correa; exdirigente del PP gallego
+  rol: 'Primera época: pena de prisión resultante de la casación de 2020, 36 años y 8 meses. No equivale al tiempo
+    máximo de cumplimiento ni incorpora otras piezas.'
+- nombre: Luis Bárcenas Gutiérrez
+  cargo: Extesorero del PP
+  rol: 'Primera época: pena de prisión resultante de la casación de 2020, 29 años y 1 mes. No equivale al tiempo
+    máximo de cumplimiento ni incorpora otras piezas.'
+- nombre: Jesús Sepúlveda Recio
+  cargo: Exalcalde de Pozuelo de Alarcón (PP)
+  rol: 'Primera época: pena de prisión resultante de la casación de 2020, 14 años y 4 meses. No equivale al tiempo
+    máximo de cumplimiento ni incorpora otras piezas.'
+- nombre: Guillermo Ortega Alonso
+  cargo: Exalcalde de Majadahonda (PP)
+  rol: 'Primera época: pena de prisión resultante de la casación de 2020, 40 años y 3 meses. No equivale al tiempo
+    máximo de cumplimiento ni incorpora otras piezas.'
+- nombre: Alberto López Viejo
+  cargo: Exconsejero de la Comunidad de Madrid (PP)
+  rol: 'Primera época: pena de prisión resultante de la casación de 2020, 27 años y 10 meses. No equivale al tiempo
+    máximo de cumplimiento ni incorpora otras piezas.'
+- nombre: Partido Popular
+  cargo: Formación política
+  rol: 'Primera época: responsable civil como partícipe a título lucrativo; sin condena penal al partido en ese
+    procedimiento.'
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "organización criminal"
-  - "blanqueo de capitales"
-  - "contratos públicos"
-  - "malversación"
-  - "tráfico de influencias"
-  - "financiación ilegal"
-
-impactoSocial: "La trama Gürtel fue el mayor escándalo de corrupción sistémica del PP y tuvo consecuencias históricas: la sentencia del Tribunal Supremo de mayo de 2018, que declaró al PP beneficiario de la trama, provocó directamente la moción de censura que destituyó al presidente Mariano Rajoy y llevó a Pedro Sánchez al gobierno. El caso demostró que la corrupción no era obra de individuos aislados sino de una red organizada vinculada a las estructuras del partido."
-
-documentos: null
-
+- corrupción
+- cohecho
+- organización criminal
+- blanqueo de capitales
+- contratos públicos
+- malversación
+- tráfico de influencias
+- financiación ilegal
+documentos:
+- fecha: '2020-10-14'
+  titulo: 'Tribunal Supremo, Sala de lo Penal: sentencia 507/2020 y segunda sentencia, primera época Gürtel (facsímil
+    difundido por Antena 3)'
+  filetype: pdf
+  paginas: 1844
+  nombre_fichero: https://www.antena3.com/documents/2020/10/14/E7E6D342-62D2-4157-BF37-891CE19713F6/sentencia_gurtel.pdf
 cronologia:
-  - fecha: 1999-01-01
-    titulo: "Inicio de la actividad de la trama"
-    descripcion: "Francisco Correa comienza a operar en municipios del PP de la Comunidad de Madrid, adjudicando contratos de organización de eventos y publicidad institucional mediante sobornos a cargos del partido. Las empresas de su entramado (Special Events, Easy Concept, Orange Market) facturan servicios a administraciones locales gobernadas por el PP."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/gurtel-cronologia_1_4573562.html"
-
-  - fecha: 2004-01-01
-    titulo: "Expansión de la trama a Valencia"
-    descripcion: "La red de Correa se extiende a la Comunidad Valenciana, donde Álvaro Pérez 'El Bigotes' actúa como representante local. La trama obtiene contratos de la Generalitat Valenciana y del Ayuntamiento de Valencia para eventos institucionales, incluyendo la visita del Papa Benedicto XVI y la Copa del América."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/gurtel-cronologia_1_4573562.html"
-
-  - fecha: 2007-12-01
-    titulo: "Inicio de la investigación judicial"
-    descripcion: "El Juzgado Central de Instrucción nº 5 de la Audiencia Nacional, a cargo del juez Baltasar Garzón, abre diligencias tras recibir informes de la Agencia Tributaria sobre movimientos financieros sospechosos relacionados con Francisco Correa y su entramado empresarial."
-    type: "investigación"
-    urls:
-      - "https://www.publico.es/politica/claves-caso-gurtel.html"
-
-  - fecha: 2009-02-06
-    titulo: "Operación Gürtel: detenciones masivas"
-    descripcion: "La Guardia Civil detiene a Francisco Correa, Pablo Crespo y otras 13 personas en una operación coordinada. Se registran empresas y domicilios en Madrid, Valencia y otros puntos del país. El juez Baltasar Garzón dirige la operación y decreta prisión provisional para los principales implicados."
-    type: "detención"
-    urls:
-      - "https://elpais.com/politica/2009/02/06/actualidad/1233913740_850215.html"
-      - "https://www.elmundo.es/elmundo/2009/02/06/espana/1234000000.html"
-
-  - fecha: 2009-04-07
-    titulo: "Garzón aparta de la instrucción del caso"
-    descripcion: "El juez Baltasar Garzón es apartado de la instrucción del caso Gürtel mediante una decisión polémica. El caso pasa al juez Pablo Ruz, del Juzgado Central de Instrucción nº 5, quien continúa la investigación durante los años siguientes."
-    type: "investigación"
-    urls:
-      - "https://elpais.com/politica/2009/04/07/actualidad/1239100800_850215.html"
-
-  - fecha: 2009-06-01
-    titulo: "El PP reconoce financiación irregular en municipios"
-    descripcion: "Ante la magnitud de las pruebas reunidas, el Partido Popular admite que algunos de sus cargos municipales aceptaron pagos irregulares de la trama. Varios alcaldes y concejales del PP son expulsados o dimiten a lo largo de los meses siguientes. Génova adopta una postura de distancia formal con los imputados."
-    type: "declaración"
-    urls:
-      - "https://www.publico.es/politica/claves-caso-gurtel.html"
-
-  - fecha: 2013-01-31
-    titulo: "Los Papeles de Bárcenas desatan la crisis"
-    descripcion: "El diario El País publica los 'Papeles de Bárcenas', documentos contables manuscritos por el extesorero del PP Luis Bárcenas que revelan una caja B del partido con pagos a dirigentes. El caso Gürtel y el caso Bárcenas se entrelazan al quedar demostrada la financiación ilegal del PP por parte de la trama de Correa."
-    type: "documento"
-    urls:
-      - "https://elpais.com/politica/2013/01/30/actualidad/1359589204_165174.html"
-
-  - fecha: 2016-11-28
-    titulo: "Inicio del juicio oral de la primera pieza"
-    descripcion: "Comienza el juicio oral de la primera pieza del caso Gürtel en la Audiencia Nacional. El juicio se extiende durante varios meses y supone la vista de cientos de horas de grabaciones, documentos contables y declaraciones de testigos y acusados."
-    type: "juicio"
-    urls:
-      - "https://www.eldiario.es/politica/gurtel-juicio_1_4573562.html"
-
-  - fecha: 2017-05-17
-    titulo: "Sentencia de la Audiencia Nacional: primera pieza"
-    descripcion: "La Audiencia Nacional dicta sentencia en la primera pieza del caso Gürtel. Francisco Correa es condenado a 51 años y 11 meses de prisión; Pablo Crespo a 37 años y 6 meses; Álvaro Pérez 'El Bigotes' a 19 años y 6 meses. Varios alcaldes y cargos del PP también son condenados. El tribunal declara probado que el PP obtuvo beneficios de la trama aunque no lo condena como partido."
-    type: "sentencia"
-    urls:
-      - "https://elpais.com/politica/2017/05/17/actualidad/1495019498_308065.html"
-      - "https://www.eldiario.es/politica/sentencia-gurtel_1_4573562.html"
-
-  - fecha: 2018-05-24
-    titulo: "Sentencia del Tribunal Supremo: el PP se benefició de la trama"
-    descripcion: "El Tribunal Supremo confirma la condena al PP como partícipe a título lucrativo y declara probado que la organización se benefició económicamente de la trama Gürtel. La sentencia incluye la afirmación de que 'la financiación ilegal del PP estaba normalizada'. Esta resolución sirvió de fundamento jurídico y político para la moción de censura presentada por el PSOE contra Mariano Rajoy."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/"
-      - "https://elpais.com/politica/2018/05/24/actualidad/1527164752_028874.html"
-
-  - fecha: 2018-06-01
-    titulo: "Moción de censura y caída del gobierno Rajoy"
-    descripcion: "El Congreso de los Diputados aprueba la moción de censura presentada por Pedro Sánchez contra Mariano Rajoy, citando expresamente la sentencia de la Gürtel como motivación principal. Rajoy es destituido y Sánchez asume la presidencia del Gobierno. Es la primera moción de censura exitosa en la democracia española desde 1979."
-    type: "resumen"
-    urls:
-      - "https://elpais.com/politica/2018/06/01/actualidad/1527842175_782338.html"
-
-  - fecha: 2021-07-01
-    titulo: "Sentencia del Tribunal Supremo: confirma y amplía condenas"
-    descripcion: "El Tribunal Supremo dicta sentencia en el recurso de casación del caso Gürtel, confirmando y en algunos casos ampliando las condenas de la Audiencia Nacional. Francisco Correa ve aumentada su condena total. Ricardo Costa, exsecretario general del PP valenciano, que había sido absuelto en primera instancia, es condenado por el Supremo."
-    type: "sentencia"
-    urls:
-      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/"
-      - "https://www.eldiario.es/politica/tribunal-supremo-gurtel_1_8143562.html"
+- fecha: '2018-05-17'
+  titulo: Sentencia de la primera época en la Audiencia Nacional
+  descripcion: La sentencia 20/2018 de la Sección Segunda de la Sala de lo Penal es la resolución recurrida identificada
+    en las páginas 3 y 1804 del facsímil del Supremo. Se corrige la anterior atribución de este fallo a 2017 y la
+    confusión con el Supremo en mayo de 2018.
+  type: sentencia
+  urls:
+  - https://www.antena3.com/documents/2020/10/14/E7E6D342-62D2-4157-BF37-891CE19713F6/sentencia_gurtel.pdf
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-penas-de-hasta-51-anos-de-prision-para-los-procesados-en-el--caso-Gurtel-
+- fecha: '2020-10-14'
+  titulo: El Supremo resuelve la casación de la primera época
+  descripcion: La sentencia 507/2020 estima parcialmente varios recursos y mantiene otros pronunciamientos. Las
+    penas individuales se recogen en la tabla oficial del CGPJ. Subsiste la responsabilidad civil del PP como partícipe
+    a título lucrativo, diferenciada de una condena penal.
+  type: sentencia
+  urls:
+  - https://www.antena3.com/documents/2020/10/14/E7E6D342-62D2-4157-BF37-891CE19713F6/sentencia_gurtel.pdf
+  - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-penas-de-hasta-51-anos-de-prision-para-los-procesados-en-el--caso-Gurtel-
+- fecha: '2025-10-20'
+  titulo: Inicio del juicio de la última pieza fiscal y de blanqueo
+  descripcion: RTVE informa de la apertura del juicio relativo a las estructuras societarias y fondos de la red.
+    Es una pieza distinta de la primera época ya sentenciada; las peticiones fiscales y posibles conformidades no
+    son todavía su fallo.
+  type: juicio
+  urls:
+  - https://www.rtve.es/noticias/20251020/ultimo-capitulo-gurtel-pieza-principal-llega-audiencia-nacional/16773859.shtml
+- fecha: '2026-03-27'
+  titulo: Información sobre la libertad condicional de Pablo Crespo
+  descripcion: La Cadena SER informa de un auto de vigilancia penitenciaria que concede libertad condicional a Crespo
+    con reglas de conducta. Es una medida individual de ejecución, no la anulación de sus condenas ni la extinción
+    de todas las penas. No se ha obtenido el auto original.
+  type: resumen
+  urls:
+  - https://cadenaser.com/nacional/2026/03/27/el-juez-pone-en-libertad-a-pablo-crespo-numero-dos-de-la-trama-gurtel-cadena-ser/
+- fecha: '2026-10-05'
+  titulo: Última pieza todavía pendiente de sentencia según la prensa
+  descripcion: La Cadena SER informa de que el juicio terminó el 12 de noviembre de 2025 y de que su fallo aún no
+    se había emitido. Se fecha la publicación, no una resolución judicial. La evolución hasta el corte de 17 de
+    octubre permanece pendiente de confirmación oficial.
+  type: resumen
+  urls:
+  - https://cadenaser.com/nacional/2026/10/05/los-tribunales-en-tiempo-de-elecciones-las-causas-que-marcaran-el-camino-al-29-n-cadena-ser/
 ---
+
+## Alcance de la ficha y de las penas
+
+La primera época no agota Gürtel. Las penas del listado corresponden únicamente al resultado de su casación, recogido en la [tabla oficial del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-penas-de-hasta-51-anos-de-prision-para-los-procesados-en-el--caso-Gurtel-). No se suman con las de Fitur, AENA, Jerez, Boadilla, Arganda, financiación electoral valenciana u otras piezas. Tampoco expresan años efectivos de prisión. La [noticia de marzo de 2026 sobre Crespo](https://cadenaser.com/nacional/2026/03/27/el-juez-pone-en-libertad-a-pablo-crespo-numero-dos-de-la-trama-gurtel-cadena-ser/) acredita una evolución individual de ejecución a través de prensa; no se extiende a Correa, Bárcenas ni a los demás condenados.
+
+Se retiran de la ficha anterior nombres, cargos y resultados que confundían personas o procedimientos: Isabel Jordán aparece en el original como Felisa Isabel Jordán Goncet y en la información de la última pieza como administradora de empresas, no alcaldesa de Arganda. No se conserva la identificación de un supuesto exalcalde de Boadilla llamado Felipe Izquierdo ni de un exconseller Álvaro Pérez Giménez sin respaldo verificado. Las penas de Álvaro Pérez y Ricardo Costa requieren citar sus piezas propias; no se trasladan a la primera época ni se afirma una condena sobrevenida de Costa a partir de una absolución sin resolución precisa.
+
+## Responsabilidad civil del PP e importes
+
+El [original del Supremo](https://www.antena3.com/documents/2020/10/14/E7E6D342-62D2-4157-BF37-891CE19713F6/sentencia_gurtel.pdf), páginas 1607–1608, distingue la restitución civil del artículo 122 del Código Penal de la culpabilidad penal. En esta causa no se enjuició penalmente al PP. Las cantidades de 133.628,48 euros por Majadahonda y 111.864,32 por Pozuelo se examinan en las páginas 1596, 1628 y 1634: son obligaciones de restitución, con el régimen de solidaridad que corresponde, y no multas penales al partido. No se convierten en un coste global ni se duplican con las fichas de la primera época o de Bárcenas.
+
+Se elimina el agregado de 120 millones de euros: no se ha localizado una cuantificación judicial que lo respalde como daño total sin solapamientos. Las comisiones, importes de contratos, cuotas tributarias, multas, decomisos y responsabilidades civiles son conceptos distintos. Caja B, papeles de Bárcenas y Kitchen conservan sus propios procedimientos; su relación histórica no permite transferir condenas ni sumar dinero automáticamente.
+
+## Recursos y documentación pendiente
+
+El [voto particular conjunto incluido en el ATC 293/2023](https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/29550), apartado c), recuerda la inadmisión en 2021 de seis recursos de amparo vinculados a Gürtel por falta de especial trascendencia constitucional. Es una referencia retrospectiva en un voto sobre los ERE, no una nueva sentencia de fondo de Gürtel. No se han obtenido aquí las seis providencias originales ni se asignan sus números a personas sin verificarlo; tampoco se trasladan a Gürtel los efectos de resoluciones del caso ERE.
+
+El documento adjunto es un facsímil judicial de 1.844 páginas físicas, incluida una última casi vacía; la nota oficial habla de 1.843 folios. Se comprobaron portada, fecha de resolución e identidad del procedimiento y se leyeron pasajes concretos, no el documento íntegro. La fecha del documento es la de la sentencia, no la de su descarga. La descarga oficial de CENDOJ quedó bloqueada, pero el facsímil enlazado fue recuperado y verificado como PDF.
+
+La actualización de [Arganda publicada en mayo de 2025](https://elpais.com/espana/2025-05-07/condenado-a-carcel-fernando-martin-constructor-y-expresidente-del-real-madrid-por-el-mayor-pelotazo-de-gurtel.html) corresponde a otra pieza y no modifica las penas del listado. Quedan pendientes sus recursos y una revisión exhaustiva de los restantes fallos. Las noticias de [octubre de 2025](https://www.rtve.es/noticias/20251020/ultimo-capitulo-gurtel-pieza-principal-llega-audiencia-nacional/16773859.shtml) y [octubre de 2026](https://cadenaser.com/nacional/2026/10/05/los-tribunales-en-tiempo-de-elecciones-las-causas-que-marcaran-el-camino-al-29-n-cadena-ser/) muestran que la macrocausa no terminó con la sentencia de 2018. La ausencia de un fallo posterior localizado en esta revisión no prueba que no exista. Por estas lagunas, la ficha permanece incompleta al corte de 17 de octubre de 2026.
