@@ -22,8 +22,7 @@ descripcion: 'El caso se refiere a la adjudicación irregular de obras menores d
 
   La prensa informó del ingreso de Luis Alberto en prisión en diciembre de 2021. La ejecución completa, posibles
   rectificaciones económicas y los litigios administrativos posteriores no se han verificado hasta su término
-  al corte de 17 de octubre de 2026. Se ha consultado parcialmente la transcripción del Supremo, cuyo PDF oficial
-  está bloqueado.'
+  al corte de 17 de octubre de 2026. Se ha recuperado el PDF oficial del Supremo y contrastado su encabezamiento, los fallos y pasajes sobre responsabilidad civil; no se ha leído íntegramente.'
 resumen: Adjudicaciones municipales irregulares a empresas vinculadas al jefe de Mantenimiento de Valladolid.
   Cuatro condenas modificadas por el Supremo en 2021; importes y ejecución requieren distinguir sus conceptos.
 lugar: Valladolid (Castilla y León)
@@ -60,6 +59,11 @@ tags:
 - PP
 - Castilla y León
 documentos:
+- fecha: '2021-06-16'
+  titulo: Sentencia 527/2021 del Tribunal Supremo; casación y segunda sentencia
+  filetype: pdf
+  paginas: 41
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e558c00d8f6bd3f9&encode=true&databasematch=AN
 - fecha: '2024-01-19'
   titulo: 'El Norte de Castilla: extracto de edición con información sobre pagos a empresas vinculadas a Samaniego
     (noticia en página 5)'
@@ -71,7 +75,7 @@ cronologia:
   titulo: El Ayuntamiento anuncia nuevos datos para el juzgado
   descripcion: Nota municipal sobre arrendamientos y antecedentes de la denuncia de 2014. Sus importes y valoraciones
     corresponden al Ayuntamiento, no a hechos declarados probados en sentencia.
-  type: investigacion
+  type: investigación
   urls:
   - https://www.valladolid.es/en/actualidad/noticias/alcalde-valladolid-trasladara-juzgado-nuevos-datos-caso-tra
 - fecha: '2017-05-30'
@@ -79,7 +83,7 @@ cronologia:
   descripcion: La nota municipal fecha en 2017, no en 2016, la notificación del auto que apreciaba indicios
     contra cuatro personas. Cita 13 firmas, 1.316 facturas y una valoración de 2.464.647,95 euros; no son una
     liquidación de responsabilidad civil definitiva.
-  type: investigacion
+  type: investigación
   urls:
   - https://www.valladolid.es/es/actualidad/noticias/juzgado-observa-cinco-delitos-termino-instruccion-caso-sama
 - fecha: '2019-05-10'
@@ -92,18 +96,18 @@ cronologia:
   - https://www.eldiario.es/castilla-y-leon/prision-funcionario-ayuntamiento-valladolid-autoadjudicaba_1_1560027.html
 - fecha: '2019-07-26'
   titulo: Se tiene por desistido el recurso del Ministerio Fiscal
-  descripcion: La transcripción del Supremo identifica un decreto de esta fecha tras escrito fiscal del 17
+  descripcion: El original del Supremo identifica un decreto de esta fecha tras escrito fiscal del 17
     de julio. No se fecha el desistimiento en septiembre por ser entonces cuando se publicó una noticia.
   type: recurso
   urls:
-  - https://vlex.es/vid/869966647
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e558c00d8f6bd3f9&encode=true&databasematch=AN
 - fecha: '2021-06-16'
   titulo: Resolución de casación
   descripcion: 'STS 527/2021, recurso 3389/2019: modifica penas y mantiene responsabilidad civil. Se distingue
     del 21 de junio, fecha de difusión periodística. No se suman penas de los distintos condenados.'
   type: sentencia
   urls:
-  - https://vlex.es/vid/869966647
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e558c00d8f6bd3f9&encode=true&databasematch=AN
 - fecha: '2021-12-15'
   titulo: Ingreso en prisión comunicado por la prensa
   descripcion: Diario de Valladolid del domingo 19 indica que Luis Alberto ingresó voluntariamente el miércoles
@@ -123,10 +127,10 @@ cronologia:
 
 La [información municipal de 2017](https://www.valladolid.es/es/actualidad/noticias/juzgado-observa-cinco-delitos-termino-instruccion-caso-sama) describe indicios y la posición de la acusación. Sus cinco calificaciones provisionales, la valoración de 2,46 millones y el volumen de 10,9 millones contratado no se convierten automáticamente en delitos ni daños declarados probados. Tampoco se mantiene la cifra de treinta empresas pantalla como hecho judicial acreditado.
 
-La [crónica de 2019](https://www.eldiario.es/castilla-y-leon/prision-funcionario-ayuntamiento-valladolid-autoadjudicaba_1_1560027.html) recoge condenas y absoluciones. La [información de casación](https://www.eldiario.es/castilla-y-leon/tribunales/supremo-rebaja-penas-carcel-adjudicaciones-irregulares-ayuntamiento-valladolid-empresas-familia-samaniego_1_8060190.html) permite verificar las penas nominales sin identificar a nadie por los seudónimos de la transcripción. Esta última contiene el [fallo del Supremo](https://vlex.es/vid/869966647), con un nuevo título de condena y conservación de la responsabilidad civil. No se ha leído la totalidad de sus extensos fundamentos.
+La [crónica de 2019](https://www.eldiario.es/castilla-y-leon/prision-funcionario-ayuntamiento-valladolid-autoadjudicaba_1_1560027.html) recoge condenas y absoluciones. La [información de casación](https://www.eldiario.es/castilla-y-leon/tribunales/supremo-rebaja-penas-carcel-adjudicaciones-irregulares-ayuntamiento-valladolid-empresas-familia-samaniego_1_8060190.html) permite verificar las penas nominales sin identificar a nadie por los seudónimos de la transcripción. El original judicial contiene el [fallo del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e558c00d8f6bd3f9&encode=true&databasematch=AN), con un nuevo título de condena y conservación de la responsabilidad civil. No se ha leído la totalidad de sus extensos fundamentos.
 
 El pronunciamiento civil reproducido contempla 177.955,45 euros solidarios de los cuatro condenados y 49.271,90 euros a cargo de dos, con sociedades responsables subsidiarias. El fundamento quinto advierte un posible error material en esta última partida y menciona 47.197,84 euros, susceptible de corrección en ejecución. Sin resolución posterior no se concilian ni se agregan estas cantidades. Tampoco se adopta como liquidación definitiva el redondeo de 235.000 euros de la noticia de ingreso en prisión.
 
 La [edición de El Norte de Castilla del 19 de enero de 2024](https://storage.googleapis.com/warehouse-europe-west3-prod-assets/8fcd6b59-2d61-4c07-ac79-a178825aac62/kiosko-2206-20240119-valladolid/2d3450b5fa1c80903a206291dc7bd42c_sample.pdf) informa en su página 5 de pagos por obras realizadas, con referencia a la sentencia contenciosa 68/2023 del Juzgado 2. No se han obtenido ese fallo ni el decreto municipal de pago. Esta vertiente administrativa exige seguimiento propio y no exonera los hechos de la causa penal.
 
-Revisión con corte a 17 de octubre de 2026: faltan el PDF oficial de casación, la sentencia original de instancia, resoluciones de ejecución y liquidación civil, y los documentos administrativos de 2023–2024. No se afirma la extinción de penas ni la recuperación íntegra del dinero. Se retiran fechas exactas de denuncia, jubilación, apertura de juicio y otros trámites no revalidados, así como el relato personal de la inspección interna no contrastado. El documento incorporado es prensa original descargable, no una resolución judicial.
+Revisión con corte a 17 de octubre de 2026: faltan la lectura completa de casación, la sentencia original de instancia, resoluciones de ejecución y liquidación civil, y los documentos administrativos de 2023–2024. No se afirma la extinción de penas ni la recuperación íntegra del dinero. Se retiran fechas exactas de denuncia, jubilación, apertura de juicio y otros trámites no revalidados, así como el relato personal de la inspección interna no contrastado. Se incorporan la sentencia oficial de casación de 41 páginas y una edición periodística de seis páginas, claramente diferenciadas.
