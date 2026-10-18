@@ -94,18 +94,21 @@ implicados:
     no se le atribuye el resultado de la pieza distinta de juegos interescolares.
 - nombre: Olga Pino Díez
   cargo: Secretaria general del Ayuntamiento (en el periodo de los hechos)
-  rol: Identificada en la acusación sobre conserjería y mantenimiento y entre las personas remitidas a juicio en
-    2022, según la prensa. No se ha recuperado el auto ni una resolución posterior sobre el fondo o sus recursos;
+  rol: Identificada por elDiario.es en 2021 entre las acusadas por conserjería y mantenimiento. EFE informó
+    en 2022 de la apertura de juicio contra nueve personas, incluidas tres funcionarias sin nombrarlas. No se
+    ha cotejado su inclusión nominal en el auto original ni una resolución posterior sobre el fondo o sus recursos;
     no se le atribuye el resultado de la pieza distinta de juegos interescolares.
 - nombre: Siria Pérez Ortuño
   cargo: Interventora municipal (en el periodo de los hechos)
-  rol: Identificada en la acusación sobre conserjería y mantenimiento y entre las personas remitidas a juicio en
-    2022, según la prensa. No se ha recuperado el auto ni una resolución posterior sobre el fondo o sus recursos;
+  rol: Identificada por elDiario.es en 2021 entre las acusadas por conserjería y mantenimiento. EFE informó
+    en 2022 de la apertura de juicio contra nueve personas, incluidas tres funcionarias sin nombrarlas. No se
+    ha cotejado su inclusión nominal en el auto original ni una resolución posterior sobre el fondo o sus recursos;
     no se le atribuye el resultado de la pieza distinta de juegos interescolares.
 - nombre: Rosa Ana Narejos
   cargo: Secretaria de la mesa de contratación (en el periodo de los hechos)
-  rol: Identificada en la acusación sobre conserjería y mantenimiento y entre las personas remitidas a juicio en
-    2022, según la prensa. No se ha recuperado el auto ni una resolución posterior sobre el fondo o sus recursos;
+  rol: Identificada por elDiario.es en 2021 entre las acusadas por conserjería y mantenimiento. EFE informó
+    en 2022 de la apertura de juicio contra nueve personas, incluidas tres funcionarias sin nombrarlas. No se
+    ha cotejado su inclusión nominal en el auto original ni una resolución posterior sobre el fondo o sus recursos;
     no se le atribuye el resultado de la pieza distinta de juegos interescolares.
 tags:
 - corrupción
@@ -128,7 +131,7 @@ documentos:
 cronologia:
 - fecha: '2018-02-08'
   titulo: Decreto fiscal que acuerda la denuncia
-  descripcion: La sentencia del TSJCV transcribe que el Decreto fiscal de 8 de febrero de 2018 concluyó las diligencias
+  descripcion: Al reproducir el recurso fiscal, la sentencia del TSJCV recoge que el Decreto de 8 de febrero de 2018 concluyó las diligencias
     de investigación penal 52/2017 y acordó la denuncia relativa al servicio de conserjes y otras irregularidades
     vinculadas. El decreto original no se ha recuperado.
   type: investigacion
@@ -136,7 +139,7 @@ cronologia:
   - https://www.poderjudicial.es/search/contenidos.action?action=getdocumentpdf&databasematch=*&idcendoj=46250312012025100028
 - fecha: '2018-03-07'
   titulo: Inicio de las diligencias previas425/2018 según la resolución posterior
-  descripcion: La sentencia del TSJCV transcribe que las diligencias previas 425/2018 se iniciaron por auto de 7
+  descripcion: Al reproducir el recurso fiscal, la sentencia del TSJCV recoge que las diligencias previas 425/2018 se iniciaron por auto de 7
     de marzo de 2018. Se diferencia ese procedimiento de la pieza de juegos interescolares que identifica su cabecera;
     no se ha recuperado el auto inicial.
   type: investigacion
