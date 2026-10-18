@@ -1,123 +1,121 @@
 ---
-nombre: "Caso de la Construcción"
-partido: "PP"
-completado: true
+nombre: Caso de la Construcción de Burgos
+partido: PP
+completado: false
 año: 1988
-fechaInicio: 1988-02-01
-fechaFin: 2000-12-31
-estado: "cerrado con condenas"
-descripcion: |
-  El Caso de la Construcción de Burgos fue un escándalo de corrupción urbanística que sacudió los cimientos del Ayuntamiento de Burgos en la década de los 90. La trama giraba en torno a la relación irregular entre el alcalde José María Peña San Martín (PP) y el empresario constructor Antonio Miguel Méndez Pozo, quien obtenía licencias de construcción irregulares y recalificaciones urbanísticas favorables gracias a su influencia sobre el gobierno municipal. La sentencia judicial estableció que "no había obstáculo por importante que fuese que pudiese impedir al señor Méndez Pozo convencer" a concejales y autoridades para actuar conforme a sus intereses, contraviniendo la legalidad vigente. Este caso marcó un hito histórico al convertir a José María Peña en el primer alcalde de una capital española condenado por corrupción.
-
-  La trama operaba mediante un sistema de favores en el que Méndez Pozo conseguía licencias para construir en zonas no autorizadas y superar los límites de altura permitidos, obteniendo según peritos judiciales hasta 4.000 millones de pesetas (aproximadamente 24 millones de euros) en sobrebeneficios. El alcalde Peña y sus tenientes de alcalde aprobaban sistemáticamente los proyectos urbanísticos del constructor, ignorando los informes contrarios de los técnicos municipales. La sentencia documentó operaciones inmobiliarias con conventos de monjas, compra de terrenos a precios no declarados y posterior recalificación urbanística facilitada por el consistorio. La denuncia partió en 1988 de la Federación de Empresarios de la Construcción de Burgos y la Asociación de Promotores-Constructores, hartos de la competencia desleal.
-
-  El caso tuvo un enorme impacto político al revelar las conexiones de los condenados con la cúpula del PP. Méndez Pozo fue descrito como "amigo y asesor" del entonces joven José María Aznar, presidente de Castilla y León, cuyo ascenso político se debió en parte al apoyo del partido de Peña. Tras las condenas en 1994, el gobierno de Aznar concedió el indulto a ambos en el año 2000. Posteriormente, el extesorero Luis Bárcenas reveló ante el juez Ruz que el PP pagó desde su caja B un total de 188.000 euros a José María Peña tras su condena. A pesar de su paso por prisión, Méndez Pozo expandió notablemente su imperio empresarial, llegando a controlar 62 sociedades, 7 periódicos y el 50% de un canal de televisión autonómico.
-
-resumen: "Trama de corrupción urbanística en Burgos entre el alcalde del PP y un constructor influyente"
-coste: 24000000
-lugar: "Burgos, Castilla y León"
+estado: Condenas con revisiones posteriores
+resumen: 'Irregularidades en licencias urbanísticas de Burgos: condenas al alcalde José María Peña, al constructor Méndez
+  Pozo y otros responsables, con revisión e indulto parcial posteriores.'
+descripcion: El BOE identifica las sentencias de la Audiencia de Burgos de 7 de mayo de 1992 y del Supremo de 18 de enero
+  de 1994 respecto de José María Peña, sus penas y una revisión de 11 de febrero de 1997. El indulto de 1 de diciembre de
+  2000 solo le perdonó dos tercios de las penas de suspensión e inhabilitación pendientes; no acredita un indulto a Méndez
+  Pozo. La prensa documenta la prisión de este empresario y una posterior revisión de sus condenas tras el cambio del Código
+  Penal, pero faltan los autos y las liquidaciones individuales para precisar su alcance. Peña falleció el 23 de julio de
+  2024. No se ha verificado un daño público de 24 millones de euros ni la ejecución completa de todos los condenados hasta
+  el 17 de octubre de 2026.
+lugar: Burgos, Castilla y León
 tribunal:
-  - "Audiencia Provincial de Burgos"
-  - "Tribunal Supremo"
-numeroSentencia: ""
+- Sección Primera de la Audiencia Provincial de Burgos
+- Sala Segunda del Tribunal Supremo
+numeroSentencia: Sentencias de 7 de mayo de 1992 y 18 de enero de 1994 identificadas en el RD 2954/2000; originales pendientes
 implicados:
-  - nombre: "Antonio Miguel Méndez Pozo"
-    cargo: "Empresario constructor"
-    rol: "Condenado a 7 años de prisión por falsificación documental y desacato"
-
-  - nombre: "José María Peña San Martín"
-    cargo: "Alcalde de Burgos (PP, 1979-1992)"
-    rol: "Condenado a 12 años de inhabilitación por prevaricación continuada"
-
-  - nombre: "Esteban Corral"
-    cargo: "Secretario del Ayuntamiento de Burgos"
-    rol: "Suspendido 3 años de empleo público por complicidad en prevaricación"
-
-  - nombre: "Manuel Muñoz Guillén"
-    cargo: "Teniente de alcalde de Burgos"
-    rol: "Facilitador de licencias irregulares a favor de Méndez Pozo"
-
-  - nombre: "Víctor Martínez Llorante"
-    cargo: "Teniente de alcalde de Burgos"
-    rol: "Aprobación de proyectos urbanísticos irregulares"
-
-  - nombre: "José María Codón"
-    cargo: "Exteniente de alcalde de Burgos"
-    rol: "Implicado en aprobaciones urbanísticas contrarias a informes técnicos"
-
+- nombre: José María Peña San Martín
+  cargo: Alcalde de Burgos entre 1979 y 1992; candidaturas de UCD, AP, Solución Independiente y PP
+  rol: Condenado por prevaricación, revelación de secretos y denegación de auxilio; revisión en 1997 e indulto parcial en
+    2000 documentados en BOE. Fallecido en julio de 2024
+- nombre: Antonio Miguel Méndez Pozo
+  cargo: Empresario constructor
+  rol: Condenado a siete años de prisión por falsedad documental y tres meses de arresto por desacato según la prensa; prisión
+    y revisión posterior referidas por elDiario.es, sin autos cotejados
+- nombre: Esteban Corral
+  cargo: Secretario municipal durante los hechos
+  rol: Condenado a tres años de suspensión de cargo público por complicidad en prevaricación según la crónica de elDiario.es;
+    resolución y evolución individual pendientes
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "falsificación documental"
-  - "urbanismo"
-  - "tráfico de influencias"
-
-impactoSocial: "Primer alcalde de capital española condenado por corrupción, sentó un precedente judicial histórico. Las revelaciones posteriores de Luis Bárcenas sobre pagos de la caja B del PP a Peña demostraron la protección del partido a condenados por corrupción."
-
-documentos: null
-
+- urbanismo
+- prevaricación
+- falsedad documental
+- Burgos
+impactoSocial: La causa provocó debate sobre las relaciones entre promotores, autoridades y funcionarios municipales y sobre
+  los efectos de las condenas y las medidas de gracia.
+documentos:
+- fecha: '2000-12-01'
+  titulo: 'Real Decreto 2954/2000: indulto parcial de José María Peña; publicado el 2 de enero de 2001, BOE p. 106'
+  filetype: pdf
+  paginas: 1
+  nombre_fichero: https://www.boe.es/boe/dias/2001/01/02/pdfs/A00106-00106.pdf
 cronologia:
-  - fecha: 1987-01-01
-    titulo: "Méndez Pozo actúa como mediador político para Aznar"
-    descripcion: "El constructor Antonio Miguel Méndez Pozo actúa como mediador en los conflictos internos de la derecha burgalesa, ganándose la confianza de José María Aznar, entonces presidente de Castilla y León. Su partido proporcionó el voto decisivo que permitió a Aznar acceder a la presidencia regional, rompiendo el empate entre PP y PSOE en las Cortes de Castilla y León."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/politico-servicio-intereses-mendez-pozo_1_5059708.html"
-
-  - fecha: 1988-02-01
-    titulo: "Denuncia de los empresarios de la construcción"
-    descripcion: "La Federación de Empresarios de la Construcción de Burgos y la Asociación de Promotores-Constructores presentan una denuncia formal ante la Fiscalía de Burgos contra el alcalde José María Peña San Martín, varios funcionarios municipales y el promotor Antonio Miguel Méndez Pozo. La denuncia enumera múltiples casos de irregularidades en la concesión de licencias de obras y autorizaciones para desarrollos urbanísticos, denunciando un sistema de favoritismo y competencia desleal."
-    type: "denuncia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+de+la+Construcci%C3%B3n&numero=59"
-
-  - fecha: 1992-05-25
-    titulo: "Dimisión del alcalde José María Peña"
-    descripcion: "José María Peña San Martín presenta su dimisión como alcalde de Burgos tras la sentencia condenatoria de la Audiencia Provincial. Peña había ocupado el cargo desde 1979, convirtiéndose en el alcalde que más tiempo estuvo al frente del consistorio burgalés. Su dimisión marca el final de una era de 13 años de gobierno municipal marcados por las acusaciones de corrupción urbanística."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/castilla-y-leon/provincias/burgos/fallece-exalcalde-jose-maria-pena-burgos-primer-gran-regidor-espana-condenado-corrupcion_1_11544222.html"
-
-  - fecha: 1992-06-01
-    titulo: "Sentencia de la Audiencia Provincial de Burgos"
-    descripcion: "La Audiencia Provincial de Burgos dicta sentencia condenando al alcalde José María Peña a 12 años de inhabilitación especial por un delito continuado de prevaricación en la concesión irregular de licencias municipales. Antonio Miguel Méndez Pozo es condenado a 7 años de prisión por falsificación de documentos públicos y privados, más 3 meses de arresto por desacato. El secretario municipal Esteban Corral recibe 3 años de suspensión de empleo público por complicidad. Los peritos judiciales calculan que Méndez Pozo obtuvo hasta 4.000 millones de pesetas en sobrebeneficios gracias a las licencias irregulares."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/politica/barcenas-descubierto-pp-corruptos-burgos_1_5076199.html"
-
-  - fecha: 1994-09-23
-    titulo: "Méndez Pozo ingresa en prisión"
-    descripcion: "Por mandato de la Audiencia Provincial de Burgos, Antonio Miguel Méndez Pozo es detenido y trasladado a la prisión provincial para cumplir su condena de 7 años de cárcel. Este hecho convierte a Méndez Pozo en el primer constructor español condenado por corrupción política en entrar efectivamente en prisión. El gobierno del PSOE había rechazado previamente concederle el indulto, y el Tribunal Constitucional había desestimado su recurso de amparo."
-    type: "detención"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+de+la+Construcci%C3%B3n&numero=59"
-
-  - fecha: 1994-11-01
-    titulo: "El Tribunal Supremo ratifica las condenas"
-    descripcion: "El Tribunal Supremo ratifica íntegramente la sentencia de la Audiencia Provincial de Burgos, confirmando las condenas tanto para José María Peña como para Antonio Miguel Méndez Pozo. Esta ratificación cierra la vía judicial ordinaria y consolida el precedente histórico de ser el primer alcalde de una capital española condenado por corrupción. La sentencia establece que el poder político estuvo al servicio de los intereses del señor Méndez Pozo."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/politica/politico-servicio-intereses-mendez-pozo_1_5059708.html"
-
-  - fecha: 1995-01-01
-    titulo: "Anulación de condenas de Méndez Pozo por nuevo Código Penal"
-    descripcion: "Tras la aprobación del nuevo Código Penal, que entró en vigor el 24 de mayo de 1995, la Audiencia de Burgos anula las condenas contra el empresario Méndez Pozo, ya que el nuevo código eliminó las figuras delictivas por las que había sido condenado. Méndez Pozo había cumplido solo 9 meses en prisión de los 7 años a los que fue condenado, tras obtener el tercer grado penitenciario. Esta anulación generó una fuerte controversia sobre la retroactividad de las normas penales más favorables."
-    type: "sentencia"
-    urls:
-      - "https://www.eldiario.es/politica/politico-servicio-intereses-mendez-pozo_1_5059708.html"
-
-  - fecha: 2000-12-31
-    titulo: "Indulto del gobierno de Aznar a los condenados"
-    descripcion: "El gobierno del Partido Popular presidido por José María Aznar concede el indulto tanto a José María Peña San Martín como a Antonio Miguel Méndez Pozo, eliminando las penas restantes. Este indulto genera una intensa polémica por la relación histórica entre Aznar y los beneficiarios del indulto, especialmente considerando que Méndez Pozo fue descrito como 'amigo y asesor' de Aznar y que el partido de Peña fue decisivo para el ascenso político de Aznar en Castilla y León."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/castilla-y-leon/provincias/burgos/fallece-exalcalde-jose-maria-pena-burgos-primer-gran-regidor-espana-condenado-corrupcion_1_11544222.html"
-
-  - fecha: 2013-07-01
-    titulo: "Bárcenas revela pagos de la caja B del PP a Peña"
-    descripcion: "El extesorero del PP Luis Bárcenas declara ante el juez Pablo Ruz en la Audiencia Nacional que el Partido Popular pagó desde su contabilidad paralela (caja B) un total de 31 millones de pesetas (equivalentes a 188.000 euros) al exalcalde José María Peña tras su condena por corrupción. Bárcenas aporta anotaciones manuscritas que documentan tres entregas realizadas al condenado, revelando cómo el partido protegía económicamente a sus cargos condenados por corrupción."
-    type: "declaración"
-    urls:
-      - "https://www.eldiario.es/politica/barcenas-descubierto-pp-corruptos-burgos_1_5076199.html"
-
+- fecha: '1992-05-07'
+  titulo: Sentencia de la Audiencia de Burgos
+  descripcion: El BOE identifica la sentencia de la Sección Primera recurrida después ante el Supremo. No se ha obtenido el
+    original ni se asigna su contenido íntegro a cada procesado.
+  type: sentencia
+  urls:
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2001-115
+- fecha: '1992-05-25'
+  titulo: Dimisión de Peña
+  descripcion: La crónica de elDiario.es de enero de 2014 sitúa la dimisión en esta fecha, tras la condena de mayo.
+  type: investigacion
+  urls:
+  - https://www.eldiario.es/politica/barcenas-descubierto-pp-corruptos-burgos_1_5076199.html
+- fecha: '1994-01-18'
+  titulo: Sentencia del Supremo
+  descripcion: El BOE recoge para Peña doce años de inhabilitación por prevaricación, seis años de suspensión y multa por
+    revelación de secretos y un año de suspensión y multa por denegación de auxilio. No se afirma ratificación íntegra para
+    todos los acusados.
+  type: sentencia
+  urls:
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2001-115
+- fecha: '1997-02-11'
+  titulo: Auto de revisión de la pena de Peña
+  descripcion: El decreto de indulto identifica un auto de revisión de esta fecha y una pena fijada en diez años de inhabilitación
+    especial; no se dispone del auto para desarrollar otros extremos.
+  type: recurso
+  urls:
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2001-115
+- fecha: '2000-12-01'
+  titulo: Indulto parcial a Peña
+  descripcion: El RD 2954/2000 perdona dos tercios de las penas de suspensión e inhabilitación pendientes, condicionado a
+    no cometer delito doloso durante el tiempo de cumplimiento normal. No es una absolución ni indulto total.
+  type: indulto
+  urls:
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2001-115
+  - https://www.boe.es/boe/dias/2001/01/02/pdfs/A00106-00106.pdf
+- fecha: '2001-01-02'
+  titulo: Publicación del indulto
+  descripcion: El BOE publica el decreto de 1 de diciembre de 2000; la publicación no convierte el 31 de diciembre en fecha
+    del acto ni cierra por sí toda la ejecución.
+  type: indulto
+  urls:
+  - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2001-115
+  - https://www.boe.es/boe/dias/2001/01/02/pdfs/A00106-00106.pdf
+- fecha: '2014-01-15'
+  titulo: Se informa de la declaración de Bárcenas
+  descripcion: elDiario.es recoge que Bárcenas atribuyó ante el juez Ruz pagos al exalcalde desde la contabilidad paralela
+    del PP. Se presenta como declaración relatada por la prensa, sin atribuirle aquí valor de sentencia probatoria de esos
+    pagos.
+  type: investigacion
+  urls:
+  - https://www.eldiario.es/politica/barcenas-descubierto-pp-corruptos-burgos_1_5076199.html
+- fecha: '2024-07-23'
+  titulo: Fallecimiento de Peña
+  descripcion: elDiario.es informa de su fallecimiento ese día en Burgos. El desenlace personal no determina el estado de
+    las responsabilidades de otros condenados.
+  type: investigacion
+  urls:
+  - https://www.eldiario.es/castilla-y-leon/provincias/burgos/fallece-exalcalde-jose-maria-pena-burgos-primer-gran-regidor-espana-condenado-corrupcion_1_11544222.html
 ---
+
+# Licencias y responsabilidades en Burgos
+
+La causa surgió de las denuncias de empresarios de la construcción en 1988 sobre el trato municipal a proyectos del constructor Antonio Miguel Méndez Pozo. Las [crónicas de elDiario.es](https://www.eldiario.es/politica/politico-servicio-intereses-mendez-pozo_1_5059708.html) describen la influencia del promotor sobre la concesión de licencias y la actuación de autoridades municipales. No se conserva un día concreto de febrero para la denuncia porque no se ha cotejado el escrito original. La trayectoria política del alcalde pasó por distintas candidaturas, incluida Solución Independiente: no se presenta todo su mandato como una afiliación invariable al PP.
+
+El [Real Decreto 2954/2000](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2001-115) permite precisar la secuencia judicial de José María Peña: Audiencia de Burgos, Sección Primera, 7 de mayo de 1992; Supremo, 18 de enero de 1994; auto de revisión, 11 de febrero de 1997. El decreto recoge doce años de inhabilitación especial por prevaricación continuada, seis años de suspensión y multa de 60.000 pesetas por revelación de secretos continuada, y un año de suspensión y multa de 30.000 pesetas por denegación de auxilio. Añade que la revisión fijó diez años de inhabilitación especial, sin que se disponga de ese auto para reconstruir su razonamiento completo.
+
+La medida de gracia se acordó el 1 de diciembre de 2000 y se publicó el 2 de enero de 2001. Afectaba a dos tercios de las penas de suspensión e inhabilitación que aún quedaban por cumplir y contenía una condición de no reiteración delictiva. No borraba la condena ni acredita que se perdonaran todas las penas. El decreto identifica solo a Peña: no se extiende a Méndez Pozo la afirmación retrospectiva de que ambos fueron indultados.
+
+La prensa refiere para Méndez Pozo siete años de prisión por falsedad documental y tres meses de arresto por desacato, su ingreso en prisión y posterior tercer grado. El [reportaje de enero de 2014](https://www.eldiario.es/politica/politico-servicio-intereses-mendez-pozo_1_5059708.html) también relata que la Audiencia dejó sin efecto condenas tras el nuevo Código Penal. Sin la resolución de revisión no se establece aquí qué delitos y penas quedaron extinguidos ni un día de excarcelación, y no se identifica esa revisión con un indulto. Tampoco se conserva la fecha errónea de entrada en vigor del Código Penal que figuraba en la ficha. La crónica de 2024 atribuye a Esteban Corral tres años de suspensión por complicidad; falta comprobar su resolución y evolución individual. Las anteriores atribuciones a otros ediles no se mantienen sin una fuente nominal contrastada de su resultado.
+
+Los 4.000 millones de pesetas de beneficios extraordinarios que la [crónica retrospectiva](https://www.eldiario.es/castilla-y-leon/provincias/burgos/fallece-exalcalde-jose-maria-pena-burgos-primer-gran-regidor-espana-condenado-corrupcion_1_11544222.html) atribuye a una estimación pericial no constituyen por sí un perjuicio patrimonial público declarado ni una responsabilidad civil cobrada. Se retira por ello el coste de 24 millones de euros. Las multas son penas y los posibles pagos privados al exalcalde constituyen una cuestión distinta, sin agregación.
+
+La [noticia de 15 de enero de 2014](https://www.eldiario.es/politica/barcenas-descubierto-pp-corruptos-burgos_1_5076199.html) atribuye a la declaración de Bárcenas del 15 de julio anterior la identificación de pagos de la caja B a Peña. No acredita por sí sola su realidad judicialmente declarada y presenta equivalencias monetarias redondeadas; no se usa como cuantificación de este caso. [Peña falleció el 23 de julio de 2024](https://www.eldiario.es/castilla-y-leon/provincias/burgos/fallece-exalcalde-jose-maria-pena-burgos-primer-gran-regidor-espana-condenado-corrupcion_1_11544222.html). Quedan pendientes los originales judiciales y las liquidaciones para cerrar el alcance individual de condenas, revisiones y ejecución de esta causa.
