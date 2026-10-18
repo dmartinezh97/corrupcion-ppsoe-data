@@ -1,115 +1,116 @@
 ---
 nombre: Caso Sanlúcar
 partido: PSOE
-completado: true
+completado: false
 año: 1999
-fechaInicio: 1999-10-18
-fechaFin: "2009-11-01"
 estado: cerrado con condenas
-lugar: Sanlúcar de Barrameda, Cádiz, Andalucía
-coste: 300506
-descripcion: |
-  El Caso Sanlúcar es un escándalo de corrupción política ocurrido en Sanlúcar de Barrameda (Cádiz) en octubre de 1999, cuando dirigentes del PSOE local y provincial intentaron sobornar a un concejal del PP para impedir su voto en una moción de censura que amenazaba con derribar al alcalde socialista Agustín Cuevas Batista. El caso representa uno de los primeros ejemplos documentados de compra de votos en la democracia española y evidenció las prácticas de corrupción política a nivel municipal en Andalucía.
-
-  El intento de soborno consistió en ofrecer al concejal del PP Manuel Ramírez Rodríguez (conocido como "Cunete") una suma de 50 millones de pesetas (aproximadamente 300.506 euros), dos billetes de avión a Lisboa para que se ausentara del pleno donde se votaría la moción de censura, y un contrato laboral en el Ayuntamiento de Chipiona, municipio gobernado también por el PSOE. La moción había sido presentada conjuntamente por el PP y el PA (Partido Andalucista) contra el gobierno socialista liderado por Cuevas, y el voto del concejal Ramírez era determinante para su éxito. Lejos de aceptar el soborno, el concejal lo denunció ante su partido y ante los tribunales el 18 de octubre de 1999.
-
-  El caso judicial se prolongó durante casi una década. Un jurado popular declaró culpables en 2006 a los tres implicados. El Tribunal Superior de Justicia de Andalucía modificó la sentencia en 2008, absolviendo del delito de tráfico de influencias pero manteniendo el cohecho. El Tribunal Supremo rechazó los recursos de casación en abril de 2008. El ex alcalde Agustín Cuevas ingresó en la prisión de Huelva en noviembre de 2009 para cumplir su condena de un año y medio de prisión, cerrando un caso que marcó un precedente jurídico en la tipificación del cohecho vinculado a mociones de censura.
-resumen: Intento de soborno con 50 millones de pesetas a un concejal del PP para evitar una moción de censura contra el alcalde socialista.
+lugar: Sanlúcar de Barrameda y Chipiona, Cádiz
+descripcion: 'Procedimiento por el soborno a Manuel Ramírez, concejal del PP, para que no apoyara la moción de censura
+  contra el alcalde socialista Agustín Cuevas en octubre de 1999. Hubo seis condenados por cohecho y Ramírez fue
+  absuelto. La sentencia de la Audiencia de Cádiz es de 16 de mayo de 2006; el TSJA modificó penas y absolvió del
+  tráfico de influencias el 23 de febrero de 2007. La STS1125/2007, de 12 de diciembre, desestimó los cuatro recursos
+  de casación; abril de 2008 es fecha de difusión periodística, no del fallo. La prensa documenta el ingreso de
+  Cuevas en Huelva en noviembre de 2009. No se ha comprobado íntegramente la firmeza individual posterior, el cumplimiento
+  de penas, pagos o eventuales indultos hasta 17 de octubre de 2026. Los 50 millones de pesetas ofrecidos no se
+  equiparan a un daño público de 300.506 euros: hubo dinero y efectos entregados e intervenidos, multas y una indemnización
+  diferenciados.'
+resumen: Condenas por cohecho para impedir una moción de censura; penas modificadas por el TSJA y casación desestimada
+  en 2007.
 tribunal:
-  - "Audiencia Provincial de Cádiz - Sección Primera con jurado popular"
-  - "Tribunal Superior de Justicia de Andalucía - Sala de lo Civil y Penal"
-  - "Tribunal Supremo - Sala de lo Penal"
-numeroSentencia: ""
-tags:
-  - cohecho
-  - tráfico de influencias
-  - compra de votos
-  - soborno
-impactoSocial: El caso evidenció las prácticas de compra de votos en la política municipal andaluza y marcó un precedente jurídico en delitos de cohecho relacionados con mociones de censura.
-
+- Juzgado de Instrucción número 2 de Sanlúcar de Barrameda
+- Audiencia Provincial de Cádiz, Sección Cuarta, Tribunal del Jurado
+- Tribunal Superior de Justicia de Andalucía, Sala de lo Civil y Penal
+- Tribunal Supremo, Sala de lo Penal
+numeroSentencia: STS1125/2007, de 12 de diciembre; recurso 752/2007; ECLI:ES:TS:2007:8991
 implicados:
-  - nombre: Agustín Cuevas Batista
-    cargo: Alcalde de Sanlúcar de Barrameda (PSOE) hasta 1999
-    rol: Condenado por cohecho; 1 año y 6 meses de prisión y multa de 360.000 euros
-
-  - nombre: Luis Mario Aparcero Fernández de Retana
-    cargo: Alcalde de Chipiona (PSOE)
-    rol: Condenado por cohecho; 1 año y 6 meses de prisión y multa de 360.000 euros
-
-  - nombre: Rafael García Raposo
-    cargo: Secretario de Organización del PSOE de Sanlúcar
-    rol: Condenado por cohecho; 1 año y 2 meses de prisión e inhabilitación
-
-  - nombre: Manuel Ramírez Rodríguez (Cunete)
-    cargo: Concejal del PP en Sanlúcar de Barrameda
-    rol: Denunciante del intento de soborno; su voto aprobó la moción de censura
-
-documentos: []
-
+- nombre: Agustín Cuevas
+  cargo: Exalcalde de Sanlúcar de Barrameda (PSOE)
+  rol: Condenado por cohecho a un año y seis meses de prisión, inhabilitación por ese tiempo y multa 360.000 euros;
+    absuelto de tráfico de influencias en apelación.
+- nombre: Luis Mario Aparcero
+  cargo: Exalcalde de Chipiona (PSOE)
+  rol: Condenado por cohecho a un año y seis meses de prisión, inhabilitación por ese tiempo y multa 360.000 euros.
+- nombre: Rafael García Raposo
+  cargo: Exsecretario de Organización del PSOE de Sanlúcar
+  rol: Condenado por cohecho a un año y dos meses de prisión e inhabilitación por ese tiempo y multa 360.000 euros;
+    absuelto de tráfico de influencias en apelación.
+- nombre: Fernando Moreno Rodríguez
+  cargo: Empresario
+  rol: Condenado como cómplice de cohecho a seis meses de prisión e inhabilitación y multa 180.000 euros según noticia
+    nominal del TSJA.
+- nombre: Fernando Moreno Ollero
+  cargo: Empresario
+  rol: Condenado por cohecho a un año de prisión e inhabilitación y multa 30.000 euros según noticia nominal del
+    TSJA; sin reconstruir alias judiciales.
+- nombre: Manuel Rodríguez Gálvez
+  cargo: Empresario
+  rol: Condenado por cohecho a un año de prisión e inhabilitación y multa 30.000 euros según noticia nominal del
+    TSJA.
+- nombre: Manuel Ramírez Rodríguez
+  cargo: Concejal del PP en los hechos
+  rol: Denunciante; también acusado por particulares y absuelto de cohecho. Beneficiario de una indemnización solidaria
+    de 9.000 euros según fuentes, sin afirmar su cobro.
+tags:
+- cohecho
+- moción de censura
+- soborno
+- condena
+impactoSocial: El Supremo consideró injusta la conducta de ausentarse de la votación a cambio de contraprestaciones
+  económicas, diferenciándola de un cambio de voto político legítimo.
+documentos:
+- fecha: '2007-12-12'
+  titulo: 'STS1125/2007: recursos del caso Sanlúcar, con fallo del TSJA reproducido'
+  filetype: pdf
+  paginas: 15
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ff0b84eee4488cb5&encode=true&databasematch=AN
 cronologia:
-  - fecha: "1999-10-15"
-    titulo: Ofrecimiento del soborno al concejal del PP
-    descripcion: Agustín Cuevas Batista (alcalde de Sanlúcar), Luis Mario Aparcero (alcalde de Chipiona) y Rafael García Raposo (secretario de Organización del PSOE de Sanlúcar) se reúnen con el concejal del PP Manuel Ramírez Rodríguez para ofrecerle 50 millones de pesetas, dos billetes de avión a Lisboa y un contrato laboral en el Ayuntamiento de Chipiona. El objetivo era lograr que se ausentara del pleno donde se votaría la moción de censura contra el gobierno socialista, presentada conjuntamente por PP y PA.
-    urls:
-      - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Sanl%C3%BAcar&numero=142
-    type: investigación
-
-  - fecha: "1999-10-18"
-    titulo: Denuncia judicial del concejal Manuel Ramírez
-    descripcion: El concejal del PP Manuel Ramírez Rodríguez presenta una denuncia formal ante los tribunales informando del intento de soborno. La denuncia incluye detalles precisos sobre la cantidad ofrecida, los billetes de avión a Lisboa y el puesto de trabajo prometido en el Ayuntamiento de Chipiona. Simultáneamente informa a su partido sobre los hechos.
-    urls:
-      - https://es.wikipedia.org/wiki/Caso_Sanl%C3%BAcar
-    type: denuncia
-
-  - fecha: "1999-10-19"
-    titulo: Éxito de la moción de censura y cambio de alcaldía
-    descripcion: La moción de censura presentada por PP y PA prospera en el pleno del Ayuntamiento de Sanlúcar de Barrameda. El concejal Manuel Ramírez vota a favor de la moción, provocando la caída del gobierno socialista de Agustín Cuevas. Juan Rodríguez Romero, del PP, asume la alcaldía de Sanlúcar de Barrameda.
-    urls:
-      - https://lahemerotecadelbuitre.com/piezas/caso-sanlucar-el-alcalde-agustin-cuevas-psoe-es-derribado-tras-un-intento-de-soborno-un-concejal-del-pp/
-    type: resumen
-
-  - fecha: "1999-11-01"
-    titulo: Apertura de la investigación judicial
-    descripcion: Los juzgados de Sanlúcar de Barrameda abren diligencias previas para investigar el intento de soborno denunciado por el concejal Manuel Ramírez. Se inicia la instrucción del caso con la toma de declaraciones a los implicados y testigos. Es el arranque de un proceso judicial que se prolongará casi diez años.
-    urls:
-      - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Sanl%C3%BAcar&numero=142
-    type: investigación
-
-  - fecha: "2006-05-15"
-    titulo: Sentencia del jurado popular en la Audiencia Provincial de Cádiz
-    descripcion: Un jurado popular declara culpables a Agustín Cuevas, Luis Mario Aparcero y Rafael García Raposo de delitos de cohecho y tráfico de influencias. Las condenas incluyen penas de prisión y multas de 360.000 euros para los tres condenados. Cuevas y García también reciben condena adicional por tráfico de influencias.
-    urls:
-      - https://andaluciainformacion.es/sanlucar/860988/veinte-anos-del-caso-sanlucar-no-hemos-aprendido-nada/
-    type: sentencia
-    relevancia: alta
-
-  - fecha: "2007-01-01"
-    titulo: Suspensión de militancia en el PSOE
-    descripcion: Todos los implicados en el Caso Sanlúcar son suspendidos de militancia en el PSOE. El partido inicia un proceso de renovación en la agrupación local de Sanlúcar, marcando el inicio de una nueva etapa para el PSOE sanluqueño tras el escándalo.
-    urls:
-      - https://noticiasciudadanas.com/historico-de-casos-de-corrupcion-y-procesos-judiciales-relacionados-con-el-psoe-en-espana/
-    type: resumen
-
-  - fecha: "2008-02-01"
-    titulo: El TSJA modifica la sentencia y absuelve del tráfico de influencias
-    descripcion: La Sala de lo Civil y Penal del Tribunal Superior de Justicia de Andalucía modifica la sentencia del jurado popular de 2006. Confirma la culpabilidad de los condenados por cohecho, pero los absuelve del delito de tráfico de influencias. Se mantienen las penas de prisión y las multas de 360.000 euros, pero se eliminan los meses adicionales y la inhabilitación asociada al tráfico de influencias.
-    urls:
-      - https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Sanl%C3%BAcar&numero=142
-    type: sentencia
-
-  - fecha: "2008-04-15"
-    titulo: El Tribunal Supremo rechaza los recursos de casación
-    descripcion: El Tribunal Supremo rechaza los recursos de casación presentados por los condenados, confirmando definitivamente la sentencia modificada por el TSJA. Esta resolución cierra la vía judicial ordinaria y consolida las condenas de prisión e inhabilitación para Cuevas, Aparcero y García Raposo por delito de cohecho.
-    urls:
-      - https://es.wikipedia.org/wiki/Caso_Sanl%C3%BAcar
-    type: sentencia
-    relevancia: alta
-
-  - fecha: "2009-11-01"
-    titulo: Ingreso en prisión del ex alcalde Agustín Cuevas
-    descripcion: El ex alcalde de Sanlúcar Agustín Cuevas Batista ingresa en la prisión de Huelva para cumplir su condena de un año y medio de prisión por el delito de cohecho. Este ingreso marca el cierre definitivo del caso tras casi una década de procedimientos judiciales.
-    urls:
-      - https://andaluciainformacion.es/sanlucar/91564/ingresa-en-prision-agustin-cuevas-por-el-caso-sanlucar/
-    type: sentencia
-    relevancia: alta
+- fecha: '2006-05-16'
+  titulo: Sentencia del tribunal del jurado
+  descripcion: 'Fecha identificada en los antecedentes de la STS. La condena inicial fue modificada en apelación;
+    órgano correcto: Sección Cuarta de la Audiencia de Cádiz.'
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ff0b84eee4488cb5&encode=true&databasematch=AN
+  type: sentencia
+  relevancia: alta
+- fecha: '2007-02-23'
+  titulo: El TSJA modifica penas y mantiene el cohecho
+  descripcion: El fallo reproducido en la STS absuelve del tráfico de influencias a dos acusados, ajusta penas y
+    mantiene las condenas por cohecho y la absolución del concejal denunciante. La prensa nominal de 27 feb identifica
+    a los afectados.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ff0b84eee4488cb5&encode=true&databasematch=AN
+  type: sentencia
+  relevancia: alta
+- fecha: '2007-12-12'
+  titulo: El Supremo desestima los cuatro recursos
+  descripcion: STS1125/2007, recurso 752/2007. Mantiene el fallo del TSJA e impone costas de casación a los recurrentes;
+    no equivale a una decisión de ejecución individual.
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ff0b84eee4488cb5&encode=true&databasematch=AN
+  type: sentencia
+  relevancia: alta
+- fecha: '2008-04-14'
+  titulo: Se conoce en prensa la desestimación de los recursos
+  descripcion: Europa Press difunde el resultado de la casación. No se usa esta fecha como la del acto judicial,
+    fijada por el original en diciembre de 2007.
+  urls:
+  - https://www.europapress.es/nacional/noticia-tribunal-supremo-desestima-recursos-ex-alcaldes-sanlucar-chipiona-caso-sanlucar-20080414182514.html
+  type: recurso
+  relevancia: alta
+- fecha: '2009-11-09'
+  titulo: Se informa del ingreso de Cuevas en Huelva
+  descripcion: Andalucía Información sitúa el ingreso este lunes 9 nov 2009. Se documenta el ingreso de esta persona,
+    sin afirmar el cierre de todas las ejecutorias ni confundir el caso con Terán.
+  urls:
+  - https://andaluciainformacion.es/sanlucar/91564/ingresa-en-prision-agustin-cuevas-por-el-caso-sanlucar/
+  type: ejecucion
+  relevancia: alta
 ---
+
+El [original del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ff0b84eee4488cb5&encode=true&databasematch=AN) reproduce una secuencia de ofertas, entregas y documentos en octubre de 1999. El pacto llegó a 50 millones de pesetas, con dinero, efectos y promesas laborales para lograr la ausencia en la votación. No fue una única reunión fechable el 15 ni una entrega íntegra del total prometido. El concejal denunciante fue acusado por particulares y absuelto: no se oculta esa diferencia de roles.
+
+La [información nominal de la apelación](https://www.europapress.es/andalucia/cadiz-00351/noticia-cadiz-tribunales-tsja-rebaja-dos-15-anos-carcel-pena-ex-alcalde-agustin-cuevas-caso-sanlucar-20070227183831.html) permite identificar las penas sin reconstruir nombres a partir de seudónimos del texto judicial. El fallo mantuvo una indemnización solidaria de 9.000 euros y un decomiso de 92.555,86 euros más un cheque de 30.050,61 euros. Son conceptos distintos de las multas y del total prometido, y no se suman como daño público. El texto reproducido contiene un error aparente de «treinta euros» en una multa de empresario, mientras su propio fundamento y la prensa indican 30.000; no se concilia atribuyendo identidades por alias.
+
+La copia judicial distingue las fechas de 16 may 2006,23 feb 2007 y 12 dic 2007. La [noticia de abril de 2008](https://www.europapress.es/nacional/noticia-tribunal-supremo-desestima-recursos-ex-alcaldes-sanlucar-chipiona-caso-sanlucar-20080414182514.html) es una publicación posterior. La [información de ingreso en prisión](https://andaluciainformacion.es/sanlucar/91564/ingresa-en-prision-agustin-cuevas-por-el-caso-sanlucar/) concierne a Cuevas y describe otro procedimiento, Terán, que no se integra aquí. No se deduce de ella el pago completo de multas o indemnización ni la extinción de todas las penas.
+
+Faltan el seguimiento de ejecución por persona y la comprobación de posibles decisiones posteriores de firmeza, amparo o indulto. El rechazo a proponer un indulto recogido en el fallo de apelación no es una resolución del Gobierno sobre toda eventual petición de gracia.
