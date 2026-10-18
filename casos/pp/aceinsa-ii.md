@@ -3,9 +3,8 @@ nombre: "Caso Aceinsa II"
 partido: PP
 completado: false
 año: 2012
-fechaInicio: "2012-07-20"
 fechaFin: ""
-estado: "sobreseimiento"
+estado: "sobreseimiento provisional"
 descripcion: |
   El Caso Aceinsa II se refiere a la adjudicación del contrato de "mantenimiento y mejora de las instalaciones de alumbrado público" del Ayuntamiento de Salamanca a la empresa Aceinsa Movilidad, S.A., acordada por la Junta de Gobierno Local el 20 de julio de 2012. El contrato, de cuatro años prorrogables dos más, se estimó en 12 millones de euros. La empresa competidora Etralux había obtenido la propuesta inicial de la mesa de contratación, pero el Ayuntamiento revocó esa decisión; según la sentencia difundida por EFE, el consistorio requirió un informe al área de Medio Ambiente y le dio más valor que al emitido por el servicio técnico correspondiente, y la oferta de Aceinsa incurría en una baja desproporcionada que no quedó justificada.
 
