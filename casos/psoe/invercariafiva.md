@@ -22,10 +22,10 @@ implicados:
 
   - nombre: "Laura Gómiz Nogales"
     cargo: "Ex presidenta de Invercaria"
-    rol: "Absolta de los delitos de prevaricación y malversación"
+    rol: "Absuelta de los delitos de prevaricación y malversación"
 
   - nombre: "Francisco José Barrionuevo"
-    cargo: "Consejero delegado del grupo Novasoft-Novaschool"
+    cargo: "Representante de Novasoft en FIVA"
     rol: "Absuelto de los cargos por su relación con la empresa FIVA"
 
   - nombre: "Juan Vela Quiroga"
@@ -33,12 +33,12 @@ implicados:
     rol: "Absuelto de los cargos relacionados con la tramitación de los préstamos a FIVA"
 
   - nombre: "Ramón Martín López"
-    cargo: "Ex asesor de Invercaria"
+    cargo: "Exconsejero de Invercaria"
     rol: "Absuelto de los delitos de prevaricación y malversación"
 
   - nombre: "Isabel Elena Susana de Haro Arramberri"
     cargo: "Ex secretaria general de Desarrollo Industrial y Energía de la Junta de Andalucía"
-    rol: "Absolta de los cargos relacionados con FIVA"
+    rol: "Absuelta de los cargos relacionados con FIVA"
 
   - nombre: "Bienvenido Martínez"
     cargo: "Ex director de Inversiones Estratégicas de IDEA"
