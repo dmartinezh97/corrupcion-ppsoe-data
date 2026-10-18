@@ -1,144 +1,109 @@
 ---
-nombre: "Caso Hacienda"
+nombre: Caso Hacienda
 partido: PSOE
-completado: true
+completado: false
 año: 1999
-fechaInicio: 1991-01-01
-fechaFin: "2014-03-31"
-estado: cerrado con condenas
-descripcion: |
-  El Caso Hacienda es una trama de corrupción descubierta en 1999 que involucraba a altos cargos de la Agencia Tributaria de Cataluña durante los años 90. El cabecilla, Josep Maria Huguet, jefe de Inspección Fiscal de Cataluña, recibió sobornos millonarios de empresarios catalanes a cambio de hacer la vista gorda durante las inspecciones fiscales de sus empresas. La investigación reveló que Huguet recibió 1,5 millones de euros y 800.000 dólares en una cuenta del banco Paribas en Ginebra, Suiza, del abogado Juan José Folchi, asesor fiscal del grupo Torras. Junto a Huguet, otros tres inspectores de Hacienda también aceptaron sobornos, creando una red corrupta que permitió a grandes empresas evadir impuestos.
-
-  La trama operó entre 1991 y 1994, durante la cual existió una alianza corrupta en la cúpula de la delegación catalana de Hacienda diseñada para enriquecerse a cambio de permitir que cuatro grandes empresas defraudaran a la Hacienda Pública. Entre los empresarios implicados se encontraba el expresidente del FC Barcelona, José Luis Núñez, y su hijo Josep Lluís Núñez Navarro, quienes pagaron sobornos para evitar inspecciones rigurosas. En total, se calcula que los inspectores corruptos recibieron alrededor de 5 millones de euros en sobornos. El caso salió a la luz cuando la magistrada Teresa Palacios, durante la investigación del caso Torras, descubrió que Huguet y Aguiar tenían cuentas suizas con más de 1.000 millones de pesetas recibidos entre 1990 y 1992.
-
-  El impacto político fue devastador para el PSOE. El 17 de abril de 1999, Josep Maria Huguet y Ernesto de Aguiar, Director de Coordinación con Haciendas Territoriales, tuvieron que emitir un comunicado reconociendo que poseían 470 millones de pesetas en dinero negro no declarado en cuentas suizas. Ambos habían sido los principales colaboradores de Josep Borrell durante su etapa como Secretario de Estado de Hacienda. El escándalo forzó a Borrell a dimitir como candidato del PSOE a la presidencia del Gobierno el 14 de mayo de 1999, apenas unas semanas antes de las elecciones generales. El caso tardó más de 22 años en resolverse completamente: la Audiencia de Barcelona condenó en 2011 a Huguet a 13 años de prisión, sentencia que el Tribunal Supremo rebajó en enero de 2014 a 6 años y 10 meses. Huguet ingresó en prisión en marzo de 2014.
-
-resumen: "Red corrupta en Hacienda catalana que aceptó sobornos millonarios para permitir evasión fiscal de grandes empresas."
-coste: 13000000
-lugar: "Cataluña, España"
+estado: Condenas modificadas en casación; ejecución individual pendiente de verificar
+descripcion: Causa sobre dádivas de empresarios a funcionarios de la inspección de Hacienda en Cataluña a cambio de actuaciones
+  favorables. La STS 990/2013, de 30 de diciembre, modificó las condenas de la Audiencia de Barcelona; fue difundida
+  en enero de 2014. No se confunden penas, comiso y responsabilidad civil. La revisión al 17 de octubre de 2026 sigue
+  pendiente del original de instancia, de resoluciones posteriores de 2014 y de la ejecución individual. Se ha recuperado
+  la STS original, cotejada de forma dirigida. Aguiar tuvo un sobreseimiento provisional,
+  no una sentencia absolutoria acreditada.
+resumen: Condenas por corrupción de inspectores de Hacienda y empresarios en Cataluña; casación de diciembre de 2013
+  y ejecución individual parcialmente documentada.
+lugar: Cataluña, España
 tribunal:
-  - "Audiencia Provincial de Barcelona (sentencia 2011)"
-  - "Tribunal Supremo - Sala Segunda (sentencia 2014)"
-numeroSentencia: ""
+- Juzgado de Instrucción n.º 33 de Barcelona
+- Audiencia Provincial de Barcelona - Sección Novena
+- Tribunal Supremo - Sala Segunda
+numeroSentencia: STS 990/2013, de 30 de diciembre; recurso 434/2012
 implicados:
-  - nombre: "Josep Maria Huguet Torremadé"
-    cargo: "Jefe de Inspección Fiscal de Cataluña"
-    rol: "Cabecilla que aceptó 1,5 millones € y 800.000 $ en sobornos"
-
-  - nombre: "Juan José Folchi Bonafonte"
-    cargo: "Abogado y asesor fiscal del grupo Torras"
-    rol: "Pagó sobornos a Huguet a cambio de trato favorable en inspecciones"
-
-  - nombre: "Manuel Abella Zarraluqui"
-    cargo: "Inspector de Hacienda de Cataluña"
-    rol: "Miembro de la red corrupta que aceptó sobornos de empresarios"
-
-  - nombre: "Roger Bergua Cañelles"
-    cargo: "Inspector de Hacienda de Cataluña"
-    rol: "Participó en la trama de corrupción aceptando pagos irregulares"
-
-  - nombre: "Álvaro Pernas Barro"
-    cargo: "Inspector de Hacienda de Cataluña"
-    rol: "Implicado en cohecho y favorecimiento de evasión fiscal"
-
-  - nombre: "José Luis Núñez Clemente"
-    cargo: "Expresidente del FC Barcelona y empresario inmobiliario"
-    rol: "Pagó sobornos a inspectores para evitar fiscalización rigurosa"
-
-  - nombre: "Josep Lluís Núñez Navarro"
-    cargo: "Hijo de José Luis Núñez y empresario"
-    rol: "Colaboró en el pago de sobornos a la red corrupta de Hacienda"
-
-  - nombre: "Josep Borrell Fontelles"
-    cargo: "Secretario de Estado de Hacienda (1991-1996), candidato PSOE"
-    rol: "Dimitió como candidato por amistad con Huguet y Aguiar"
-
-  - nombre: "Ernesto de Aguiar"
-    cargo: "Director de Coordinación con Haciendas Territoriales"
-    rol: "Investigado por cuentas en Suiza, finalmente exculpado"
-
+- nombre: José María Huguet
+  cargo: Exjefe regional de Inspección de Hacienda en Cataluña
+  rol: Condena reducida a seis años y diez meses de prisión, según Europa Press; ingreso anunciado en marzo de 2014.
+- nombre: Manuel Abella
+  cargo: Inspector de Hacienda
+  rol: Seis años y seis meses de prisión tras la casación, según la información nominal de Europa Press.
+- nombre: Roger Bergua
+  cargo: Inspector de Hacienda
+  rol: Dos años de prisión tras la casación, según Europa Press.
+- nombre: Álvaro Pernas
+  cargo: Inspector de Hacienda
+  rol: Dos años de prisión tras la casación, según Europa Press.
+- nombre: José Luis Núñez Clemente
+  cargo: Empresario y expresidente del FC Barcelona
+  rol: Dos años y dos meses de prisión tras la casación; información posterior sobre ejecución e indulto, sin equiparar
+    sus situaciones con las de su hijo.
+- nombre: José Luis Núñez Navarro
+  cargo: Empresario, hijo de José Luis Núñez Clemente
+  rol: Dos años y dos meses de prisión tras la casación; ejecución individual no reconstruida íntegramente.
+- nombre: Ernesto Aguiar
+  cargo: Exdirector general de Coordinación de Haciendas Territoriales
+  rol: Sobreseimiento parcial provisional comunicado en diciembre de 2004; no incluido como condenado.
 tags:
-  - "corrupción"
-  - "cohecho"
-  - "fraude fiscal"
-  - "tráfico de influencias"
-
-impactoSocial: "El caso provocó la dimisión del candidato del PSOE Josep Borrell en plena campaña electoral de 1999, marcando un punto de inflexión político. Fue el caso más largo juzgado por la Audiencia de Barcelona, con una sentencia de 730 páginas, y tardó más de 22 años en resolverse completamente desde los hechos hasta la sentencia firme del Supremo."
-
-documentos: null
-
+- cohecho
+- prevaricación
+- inspección tributaria
+documentos:
+- fecha: '2013-12-30'
+  titulo: 'STS 990/2013: casación y segunda sentencia del caso Hacienda'
+  filetype: pdf
+  paginas: 185
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0f2637125c0cd53c&encode=true&databasematch=AN
 cronologia:
-  - fecha: "1991-01-01"
-    titulo: "Inicio del período de corrupción en Hacienda catalana"
-    descripcion: "Comienza el período durante el cual existe una alianza corrupta en la cúpula de la delegación catalana de Hacienda. Josep Maria Huguet, como jefe de Inspección Fiscal, establece junto a otros inspectores un sistema de cobro de sobornos a cambio de permitir que grandes empresas evadan impuestos. El esquema incluye el uso de cuentas bancarias en Suiza para recibir los pagos de empresarios y asesores fiscales."
-    type: "resumen"
-    urls: []
-
-  - fecha: "1990-08"
-    titulo: "Inicio de pagos en cuentas suizas"
-    descripcion: "Entre agosto de 1990 y septiembre de 1992, Josep Maria Huguet y Ernesto Aguiar reciben más de 1.000 millones de pesetas (aproximadamente 6 millones de euros) en dos cuentas del banco Paribas en Ginebra, Suiza. Los pagos provienen de empresarios vinculados al grupo Torras y otros que buscan evitar inspecciones fiscales rigurosas. Estas cuentas secretas no son declaradas a las autoridades españolas."
-    type: "resumen"
-    urls: []
-
-  - fecha: "1994-12-31"
-    titulo: "Fin del período principal de actividad corrupta"
-    descripcion: "Concluye el período de mayor actividad de la red corrupta en Hacienda catalana. Durante estos cuatro años (1991-1994), se estima que los inspectores corruptos recibieron alrededor de 5 millones de euros en sobornos. Juan José Folchi, abogado asesor fiscal del grupo Torras, depositó 1,5 millones de euros y 800.000 dólares en la cuenta suiza de Huguet a cambio de trato favorable en inspecciones fiscales."
-    type: "resumen"
-    urls: []
-
-  - fecha: "1999-04"
-    titulo: "Descubrimiento del caso durante investigación Torras"
-    descripcion: "La magistrada Teresa Palacios, durante la investigación del caso Torras (caso de corrupción empresarial), descubre que Josep Maria Huguet y Ernesto de Aguiar, dos altos cargos de los servicios fiscales de Barcelona, tienen cuentas bancarias en Suiza con pagos realizados por Javier de la Rosa, vinculado al grupo Torras. Este hallazgo inicia la investigación formal del Caso Hacienda y pone en alerta a las autoridades sobre la posible corrupción en la Agencia Tributaria catalana."
-    type: "investigación"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+Hacienda&numero=194"
-
-  - fecha: "1999-04-17"
-    titulo: "Huguet y Aguiar reconocen dinero negro en Suiza"
-    descripcion: "Josep Maria Huguet y Ernesto de Aguiar emiten un comunicado público reconociendo que poseían 470 millones de pesetas en dinero negro no declarado en cuentas suizas. Ambos alegan que no lo declararon debido a 'un error de apreciación'. El reconocimiento causa un terremoto político, ya que ambos habían sido los principales colaboradores de Josep Borrell cuando este era Secretario de Estado de Hacienda entre 1991 y 1996."
-    type: "declaración"
-    urls:
-      - "https://lahemerotecadelbuitre.com/piezas/el-escandalo-de-huguet-y-aguiar-provoca-la-dimision-del-lider-del-psoe-josep-borrell/"
-
-  - fecha: "1999-05-10"
-    titulo: "Ejecutiva del PSOE apoya a Borrell con reservas"
-    descripcion: "La ejecutiva del PSOE, liderada por Joaquín Almunia, emite un comunicado de apoyo a Josep Borrell como candidato a la presidencia del Gobierno, pero con una frase ambigua que genera incertidumbre: 'Borrell es nuestro candidato y lo será, salvo caso de fuerza mayor'. Esta declaración refleja las tensiones internas en el partido debido al escándalo de Huguet y Aguiar, y anticipa la posible dimisión de Borrell."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/josep-borrell-ultimo-tumbado-psoe_1_3811155.html"
-
-  - fecha: "1999-05-14"
-    titulo: "Dimisión de Josep Borrell como candidato del PSOE"
-    descripcion: "Josep Borrell anuncia su renuncia como candidato del PSOE a la presidencia del Gobierno, a pocas semanas de las elecciones generales. La dimisión se produce tras conocerse la investigación judicial sobre presunto fraude fiscal de sus dos antiguos colaboradores en el Ministerio de Hacienda: Josep María Huguet (jefe de Inspección Fiscal) y Ernesto de Aguiar (director de Coordinación con Haciendas Territoriales). Aunque Borrell no está implicado directamente en los delitos, su cercanía con los investigados hace insostenible su candidatura. Esta dimisión marca el fin de su aspiración a liderar el Gobierno español."
-    type: "resumen"
-    relevancia: "alta"
-    urls:
-      - "https://www.eldiario.es/politica/josep-borrell-ultimo-tumbado-psoe_1_3811155.html"
-      - "https://lahemerotecadelbuitre.com/piezas/el-escandalo-de-huguet-y-aguiar-provoca-la-dimision-del-lider-del-psoe-josep-borrell/"
-
-  - fecha: "2011-08-29"
-    titulo: "Sentencia de la Audiencia Provincial de Barcelona"
-    descripcion: "La Audiencia Provincial de Barcelona dicta sentencia en el caso más largo juzgado por este tribunal, con un documento de 730 páginas. Josep Maria Huguet es condenado a 13 años de prisión, Juan José Folchi a 7 años y 6 meses más multa de 6 millones de euros, Manuel Abella a 11 años, Álvaro Pernas a 12 años, y Roger Bergua a 9 años. José Luis Núñez y su hijo Josep Lluís Núñez Navarro son condenados a 6 años de prisión cada uno por cohecho activo. La sentencia reconoce la existencia de una red corrupta que operó entre 1991 y 1994 permitiendo evasión fiscal a cambio de sobornos millonarios."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.legaltoday.com/practica-juridica/derecho-fiscal/fiscal/la-audiencia-condena-a-nunez-a-6-anos-y-a-huguet-a-13-por-el-caso-hacienda-2011-08-29/"
-      - "https://www.publico.es/actualidad/caso-hacienda-condena-nunez-seis-anos-prision.html"
-
-  - fecha: "2014-01-29"
-    titulo: "Tribunal Supremo reduce las penas en sentencia firme"
-    descripcion: "El Tribunal Supremo dicta sentencia definitiva reduciendo significativamente las condenas de la Audiencia de Barcelona. Josep Maria Huguet ve su pena reducida de 13 años a 6 años y 10 meses de prisión. José Luis Núñez y su hijo Josep Lluís Núñez Navarro ven sus condenas reducidas de 6 años a 2 años y 2 meses cada uno. El Supremo toma en cuenta el 'inusual' hecho de que en ningún caso se acusó a los imputados de delito fiscal, así como las dilaciones indebidas que sufrió el proceso: los hechos ocurrieron en 1991, la primera sentencia no llegó hasta 12 años y medio después, y la ratificación definitiva del Supremo tardó más de 22 años."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.ultimahora.es/deportes/noticias/2014/01/29/117071/supremo-rebaja-dos-anos-pena-expresidente-del-barcelona-jose-luis-nunez.html"
-      - "https://cronicaglobal.elespanol.com/politica/20140129/josep-lluis-nunez-por-el-supremo-hacienda/17248374_0.html"
-
-  - fecha: "2014-03-15"
-    titulo: "Josep Maria Huguet ingresa en prisión"
-    descripcion: "El exinspector jefe de Hacienda de Cataluña, Josep Maria Huguet, ingresa en un centro penitenciario para cumplir la condena de 6 años y 10 meses impuesta por el Tribunal Supremo por aceptar sobornos millonarios de empresarios. Con su ingreso en prisión, se cierra un caso que tardó más de dos décadas en resolverse desde que se cometieron los hechos en los años 90. Ernesto de Aguiar, por su parte, logró evitar ir a juicio al ser finalmente exculpado durante la investigación."
-    type: "sentencia"
-    relevancia: "alta"
-    urls:
-      - "https://www.eleconomista.es/legislacion/noticias/5635225/03/14/El-exinspector-Josep-Maria-Huguet-entra-en-prision-por-el-caso-Hacienda.html"
+- fecha: '2004-12-18'
+  titulo: Noticia del sobreseimiento provisional de Aguiar
+  descripcion: El País informó del archivo parcial provisional solicitado por Fiscalía por insuficiencia de indicios
+    para acusarlo. Fecha de publicación, no día del auto original verificado.
+  type: resumen
+  urls:
+  - https://elpais.com/diario/2004/12/18/economia/1103324414_850215.html
+- fecha: '2013-12-30'
+  titulo: Sentencia de casación del Supremo
+  descripcion: El original de la STS 990/2013 identifica esta fecha y la sentencia de instancia de 27 de julio de
+    2011. La difusión periodística fue el 29 de enero de 2014. El fallo distingue condenas, absoluciones parciales, comiso
+    y exclusión de la responsabilidad civil penal.
+  type: sentencia
+  urls:
+  - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0f2637125c0cd53c&encode=true&databasematch=AN
+  - https://www.europapress.es/nacional/noticia-supremo-rebaja-anos-condena-impuesta-expresidente-barcelona-nunez-caso-hacienda-20140129122549.html
+- fecha: '2014-03-19'
+  titulo: Se anuncia el ingreso de Huguet en prisión
+  descripcion: Europa Press informó de su ingreso en los días anteriores. La fuente no fija el día exacto de entrada;
+    no se conserva el 15 de marzo como fecha acreditada.
+  type: resumen
+  urls:
+  - https://www.europapress.es/nacional/noticia-exjefe-hacienda-cataluna-josep-maria-huguet-entra-carcel-20140319203848.html
+- fecha: '2015-01-16'
+  titulo: Recurso fiscal sobre el tercer grado de los Núñez
+  descripcion: La prensa informó del recurso y de su previo ingreso el 16 de noviembre de 2014. No se confunde la impugnación
+    con su resolución.
+  type: recurso
+  urls:
+  - https://elpais.com/ccaa/2015/01/16/catalunya/1421418613_848035.html
+- fecha: '2015-09-14'
+  titulo: Nueva información sobre el tercer grado del padre
+  descripcion: Economía Digital informó de una nueva concesión a Núñez padre tras su revocación por la Audiencia. Distinguió
+    el recurso relativo al hijo. Fecha periodística; faltan los originales penitenciarios.
+  type: resumen
+  urls:
+  - https://www.economiadigital.es/politica/nunez-consigue-de-nuevo-el-tercer-grado_176288_102.html
+- fecha: '2017-03-22'
+  titulo: Noticia de denegación del indulto a Núñez
+  descripcion: Cadena SER informó de la negativa del Gobierno respecto a Núñez padre. No se dispone del acuerdo original
+    ni se extiende ese resultado a otros condenados.
+  type: resumen
+  urls:
+  - https://cadenaser.com/ser/2017/03/20/tribunales/1490031796_406656.html
 ---
+
+La [información nominal de Europa Press](https://www.europapress.es/nacional/noticia-supremo-rebaja-anos-condena-impuesta-expresidente-barcelona-nunez-caso-hacienda-20140129122549.html) permite distinguir las penas de funcionarios y empresarios. No se convierten los pseudónimos de la [sentencia oficial](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0f2637125c0cd53c&encode=true&databasematch=AN) en nombres reales. La lista de implicados es parcial: quedan pendientes otros sujetos y el resultado individual de sus recursos.
+
+El fallo original distingue comiso de dádivas y beneficios de la responsabilidad civil penal, de la que absuelve a quienes venían obligados a indemnizar. Esto no equivale a absolución de todos los delitos ni permite sumar sobornos, cuotas fiscales, multas y responsabilidad civil como daño único. Se elimina el coste de 13 millones sin sustituirlo por cero. Tampoco se traslada a esta causa el resultado del caso Torras.
+
+El [archivo de Aguiar](https://elpais.com/diario/2004/12/18/economia/1103324414_850215.html) fue provisional por insuficiencia de indicios. No se presenta a Josep Borrell como condenado o acusado por sus vínculos con los investigados. Las cifras sobre cuentas suizas y las consecuencias políticas de 1999 requieren revalidación adicional y no se afirman aquí como hechos probados.
+
+Los ingresos en prisión, las decisiones de tercer grado y los indultos son actuaciones individuales. Las noticias citadas no bastan para reconstruir toda la ejecución, pagos, extinción de penas o recursos constitucionales hasta el 17 de octubre de 2026. La ausencia de nuevas resoluciones en la búsqueda no acredita que no existan.
+
+Se ha recuperado el PDF oficial de la STS 990/2013, de 30 de diciembre, con 185 páginas. Se cotejaron de forma dirigida la portada, el fallo de casación y el de la segunda sentencia, especialmente las páginas 181–185; no se ha leído íntegramente su extensa fundamentación. La fecha informática de exportación, de octubre de 2026, no sustituye la fecha judicial. La cabecera relaciona también AATS 2807/2014 y STS 3085/2014, cuyos textos y efectos individuales siguen pendientes de examen: no se les atribuye aquí ningún resultado. Faltan asimismo el original de instancia, el auto relativo a Aguiar y la documentación completa de ejecución para marcar la revisión completa.
