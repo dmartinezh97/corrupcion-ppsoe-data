@@ -4,7 +4,7 @@ partido: PSOE
 completado: false
 año: 2002
 fechaInicio: '2002-03-26'
-estado: Absoluciones y archivos individuales
+estado: Dos absoluciones y tres exclusiones previas al juicio
 lugar: Sevilla, Andalucía
 descripcion: 'Esta pieza de los ERE examinó la ayuda de 1.524.718,97 euros de la Junta de Andalucía para financiar
   parte de las prejubilaciones de 36 trabajadores de Siemens Metering. La empresa asumió otra aportación de 2.939.043
