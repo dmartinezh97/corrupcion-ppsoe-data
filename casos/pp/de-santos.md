@@ -98,6 +98,16 @@ documentos:
   filetype: pdf
   paginas: 42
   nombre_fichero: https://estaticos-cdn.prensaiberica.es/epi/public/content/file/original/2021/1028/12/lea-aqui-la-sentencia-de-la-audiencia-de-madrid-que-condena-a-rodrigo-de-santos-a-dos-anos-de-prisio-51913dc.pdf
+- fecha: '2021-10-06'
+  titulo: 'SAP Madrid 506/2021, Sección 29ª: versión oficial CENDOJ, ECLI:ES:APM:2021:13010'
+  filetype: pdf
+  paginas: 20
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=bc8e67864519e496&encode=true&databasematch=AN
+- fecha: '2022-03-03'
+  titulo: 'STSJ Madrid 87/2022: versión oficial CENDOJ, ECLI:ES:TSJM:2022:2708'
+  filetype: pdf
+  paginas: 13
+  nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=91b7f091468fd17e&encode=true&databasematch=AN
 - fecha: '2024-12-11'
   titulo: 'STS 1129/2024: casación de la condena por abuso sexual en Madrid'
   filetype: pdf
@@ -235,3 +245,5 @@ La malversación mediante la tarjeta de EMOP, los abusos juzgados en Palma y la 
 La [sentencia de Madrid de 6 de octubre de 2021](https://estaticos-cdn.prensaiberica.es/epi/public/content/file/original/2021/1028/12/lea-aqui-la-sentencia-de-la-audiencia-de-madrid-que-condena-a-rodrigo-de-santos-a-dos-anos-de-prisio-51913dc.pdf) y la [STS 1129/2024](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=ad9f4c0622ce7774a0a8778d75e36f0d&encode=true&databasematch=TS) permiten distinguir la condena por abuso de las absoluciones por otros hechos. La confirmación penal no acredita su ejecución. La condena anterior de Palma fue parcialmente revocada: la sentencia inicial de 2009 no describe por sí sola el resultado definitivo.
 
 La orden del BOE acredita las consecuencias funcionariales de la inhabilitación. Siguen sin documentarse la casación original de 2010, la conciliación de las referencias de la malversación, el objeto del auto relacionado AATS 2915/2025, la ejecución posterior de Madrid y el desenlace de Sa Riera. No se presume continuidad ni cierre por ausencia de noticias.
+
+Se han recuperado también las versiones oficiales del CENDOJ de la SAP Madrid 506/2021 (20 páginas) y la STSJ Madrid 87/2022 (13 páginas). La lectura dirigida de este segundo control abarcó las páginas 1 y 20 de la SAP y 1 y 13 de la STSJ: cabeceras, fechas y fallos, sin lectura íntegra de sus fundamentos. La copia de la SAP difundida por Prensa Ibérica tiene 42 páginas y una paginación distinta; no se equiparan ambas versiones. En la STS 1129/2024, de ocho páginas, este control leyó completas las páginas 1–4 y 8. Estos originales corroboran los pronunciamientos de Madrid descritos, pero no acreditan por sí solos su ejecución posterior.
