@@ -1,90 +1,90 @@
 ---
 nombre: "Caso Imarol"
-partido: PP
-completado: true
+partido: "PP"
+completado: false
 año: 2014
-fechaInicio: 2008-01-01
-fechaFin: "2017-01-13"
-estado: "cerrado con condenas"
+estado: "Condenas confirmadas en apelación; firmeza expresamente citada en la sentencia de Erial de 2024"
 descripcion: |
-  El caso Imarol es un caso de fraude fiscal y falsedad documental que implica a José Luis Olivas, expresidente de la Generalitat Valenciana (2002-2003) y expresidente de Bancaja, y al empresario Vicente Cotino, sobrino del expresident del Parlament Juan Cotino. El caso gira en torno a la empresa Imarol S.L., sociedad de la que Olivas era administrador y socio al 50% junto a su esposa, dedicada supuestamente al asesoramiento empresarial y la inversión patrimonial. En 2008, la empresa Sedesa Inversiones, de Vicente Cotino, transfirió 500.000 euros más 80.000 euros de IVA a Imarol a cambio de unos servicios de asesoramiento que nunca llegaron a prestarse, contabilizando ese gasto como deducible en el Impuesto de Sociedades de 2008.
+  José Luis Olivas, expresidente de la Generalitat Valenciana y de Bancaja, y el empresario Vicente Cotino fueron condenados por falsedad en documento mercantil y delito contra la Hacienda Pública en relación con una factura de Imarol a Sedesa Inversiones por 500.000 euros más 80.000 euros de IVA. La factura aparentaba retribuir servicios empresariales que no se habían prestado y se dedujo como gasto en el Impuesto de Sociedades de 2008 del Grupo Fiscal Asedes Capital. El perjuicio tributario recogido por la información judicial fue de 150.000 euros.
 
-  La factura emitida por Imarol era falsa: no existía contrato alguno, ni correos electrónicos, ni directrices de trabajo, ni documentación que relacionara el pago con ningún servicio real. El informe de tres páginas que Olivas aportó para justificar el cobro resultó ser documentación a la que había tenido acceso en su condición de presidente de Bancaja, no fruto de ningún asesoramiento independiente. La propia empresa Imarol carecía de personal y de infraestructura, y desde su constitución había tenido prácticamente ninguna actividad. La operación permitió a Cotino reducir fraudulentamente su base imponible, causando un perjuicio a la Hacienda Pública de aproximadamente 150.000 euros.
+  La sentencia 7/2017 del Juzgado de lo Penal nº 6 de Valencia es del 12 de enero de 2017; se notificó y difundió el día 13. Impuso a cada acusado un año y medio de prisión y una multa de 151.800 euros. Mercedes Álvarez, esposa de Olivas y socia de Imarol, fue absuelta al no acreditarse su participación en la factura irregular. La Audiencia Provincial confirmó las condenas el 24 de marzo de 2017. La sentencia de Erial de 2024 cita expresamente la condena de Imarol como firme, sin que esta revisión haya obtenido las resoluciones separadas de 2017 ni documentación de ejecución.
 
-  El caso se hizo público en junio de 2014 cuando el Juzgado de Instrucción nº 14 de Valencia imputó a Olivas por delito fiscal. Tras la apertura de juicio oral, el Juzgado de lo Penal nº 6 de Valencia dictó sentencia condenatoria el 13 de enero de 2017, imponiendo a ambos acusados un año y medio de prisión y una multa de 151.800 euros por sendos delitos de falsedad en documento mercantil y delito contra la Hacienda Pública. Olivas recurrió la condena ante la Audiencia Provincial de Valencia, aunque la sentencia fue confirmada. José Luis Olivas falleció el 29 de noviembre de 2025 a los 73 años, siendo el primer expresidente de la Generalitat Valenciana condenado por corrupción.
-
-resumen: "Factura falsa de 500.000 € entre el expresident Olivas y el empresario Cotino"
+  Imarol y Erial son procesos distintos: en Erial, Olivas fue absuelto en 2024 al no acreditarse que ese pago fuera una comisión por favorecer la adjudicación de parques eólicos. Esa absolución no revoca la condena fiscal y documental previa. La revisión hasta el 17 de octubre de 2026 mantiene pendientes la ejecución de las penas y la recuperación efectiva del perjuicio.
+resumen: "Condena de Olivas y Vicente Cotino por una factura falsa deducida como gasto fiscal"
 coste: 150000
 lugar: "Valencia, Comunidad Valenciana"
 tribunal:
   - "Juzgado de Instrucción nº 14 de Valencia"
   - "Juzgado de lo Penal nº 6 de Valencia"
-  - "Audiencia Provincial de Valencia"
-numeroSentencia: ""
+  - "Audiencia Provincial de Valencia - Sección Cuarta"
+numeroSentencia: "Sentencia 7/2017, de 12 de enero; apelación 432/2017, resuelta el 24 de marzo"
 implicados:
   - nombre: "José Luis Olivas"
-    cargo: "Expresidente de la Generalitat Valenciana y expresidente de Bancaja"
-    rol: "Condenado a 18 meses por falsedad documental y delito fiscal con factura falsa"
-
+    cargo: "Expresidente de la Generalitat Valenciana y de Bancaja; gestor de Imarol"
+    rol: "Condenado por falsedad mercantil y delito fiscal a un año y medio de prisión y multa de 151.800 euros; fallecido en 2025"
   - nombre: "Vicente Cotino"
-    cargo: "Empresario, administrador de Sedesa Inversiones y Asedes Capital"
-    rol: "Condenado a 18 meses por deducir fraudulentamente factura falsa en Impuesto de Sociedades"
-
+    cargo: "Empresario del grupo Sedesa-Asedes"
+    rol: "Condenado por falsedad mercantil y delito fiscal a un año y medio de prisión y multa de 151.800 euros"
+  - nombre: "Mercedes Álvarez"
+    cargo: "Esposa de Olivas y socia y administradora de Imarol"
+    rol: "Absuelta por falta de prueba suficiente de su participación en la emisión de la factura irregular"
 tags:
-  - "corrupción"
   - "fraude fiscal"
   - "falsedad documental"
   - "delito contra la Hacienda Pública"
-
-impactoSocial: "El caso Imarol convirtió a José Luis Olivas en el primer expresidente de la Generalitat Valenciana condenado por corrupción, agravando el deterioro de la imagen del PP valenciano en un contexto de múltiples escándalos como el caso Gürtel o el caso Erial."
-
-documentos: null
-
+documentos:
+  - fecha: "2024-10-15"
+    titulo: "Sentencia 560/2024 de Erial: antecedentes de Imarol, páginas 15–16 y 83–86"
+    filetype: "pdf"
+    paginas: 181
+    nombre_fichero: "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=962ae57e61baedc8a0a8778d75e36f0d&encode=true&databasematch=AN"
 cronologia:
-  - fecha: 2008-01-01
-    titulo: "Transferencia de 580.000 euros de Sedesa Inversiones a Imarol S.L."
-    descripcion: "La empresa Sedesa Inversiones, de Vicente Cotino, transfiere 500.000 euros más 80.000 euros de IVA a la empresa Imarol S.L. de José Luis Olivas, supuestamente como pago por servicios de asesoramiento y gestión en relación con la venta de acciones en Proyectos Eólicos Valencianos. Sedesa registra el gasto como deducible en su liquidación del Impuesto de Sociedades del ejercicio fiscal 2008. No existe ningún contrato, ni documentación que acredite la prestación de ningún servicio real."
+  - fecha: "2008-08-04"
+    titulo: "Primer pago a Imarol"
+    descripcion: "La sentencia de Erial sitúa en esta fecha el primer pago de 290.000 euros y el segundo, por igual importe, el 15 de septiembre de 2008. Los vencimientos de los pagarés eran 31 de julio y 15 de septiembre; vencimiento y pago no son fechas equivalentes. El total era 500.000 euros más 80.000 de IVA."
     type: "resumen"
     urls:
-      - "https://www.eleconomista.es/empresas-finanzas/noticias/8081172/01/17/Jose-Luis-Olivas-expresidente-de-la-Generalitat-y-de-Bancaja-condenado-a-ano-y-medio-de-carcel.html"
-
-  - fecha: 2014-06-02
-    titulo: "Imputación de José Luis Olivas por delito fiscal"
-    descripcion: "El magistrado del Juzgado de Instrucción nº 14 de Valencia imputa formalmente a José Luis Olivas por un presunto delito contra la Hacienda Pública en relación con el asesoramiento ficticio prestado a Sedesa Inversiones. Es la primera vez que un expresidente de la Generalitat Valenciana es imputado por un delito de este tipo. La investigación pone el foco en la empresa Imarol S.L. y en la factura emitida sin contraprestación real alguna."
-    type: "imputación"
-    urls:
-      - "https://www.diarioinformacion.com/politica/2014/06/02/jose-luis-olivas-imputado-delito/1509188.html"
-
-  - fecha: 2016-10-01
-    titulo: "Apertura de juicio oral y celebración del juicio"
-    descripcion: "El juzgado abre juicio oral contra José Luis Olivas y Vicente Cotino por fraude fiscal y falsedad en documento mercantil. Ambos acusados se sientan en el banquillo del Juzgado de lo Penal nº 6 de Valencia. La Fiscalía fundamenta la acusación en un detallado informe de técnicos de Hacienda que acredita el carácter ficticio del servicio facturado. Olivas alega que sí prestó asesoramiento, pero no puede aportar ninguna evidencia documental que lo corrobore."
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:APV:2024:1209"
+  - fecha: "2014-06-02"
+    titulo: "Se informa de las diligencias y declaraciones como imputados"
+    descripcion: "Europa Press, citando al TSJCV, informa de que Olivas, su esposa y Vicente Cotino ya habían declarado como imputados ante Instrucción nº 14. La causa nació de una querella de la Fiscalía tras información de la Agencia Tributaria. La fecha es de publicación, no de una nueva imputación dictada ese día."
     type: "investigación"
     urls:
-      - "https://www.eleconomista.es/valenciana/noticias/7892010/10/16/Jose-Luis-Olivas-y-Vicente-Cotino-se-sientan-en-el-banquillo-el-martes-por-fraude-fiscal.html"
-      - "https://www.publico.es/actualidad/abren-juicio-oral-expresident-valenciano.html"
-
-  - fecha: 2017-01-13
-    titulo: "Sentencia condenatoria: 18 meses de prisión para Olivas y Cotino"
-    descripcion: "El Juzgado de lo Penal nº 6 de Valencia condena a José Luis Olivas y Vicente Cotino a un año y medio de prisión y a una multa de 151.800 euros a cada uno por sendos delitos de falsedad en documento mercantil y delito contra la Hacienda Pública. La jueza concluye que la factura es falsa, que el servicio fue 'inexistente' y que el informe de tres páginas que Olivas presentó como justificación es documentación a la que accedió en su calidad de presidente de Bancaja. Olivas se convierte en el primer expresidente de la Generalitat Valenciana condenado por corrupción."
+      - "https://www.europapress.es/comunitat-valenciana/noticia-juez-imputa-olivas-presunto-delito-contra-hacienda-relacionado-asesoramiento-sedesa-20140602130755.html"
+  - fecha: "2017-01-12"
+    titulo: "Condenas de Olivas y Cotino; absolución de Mercedes Álvarez"
+    descripcion: "Sentencia 7/2017 del Juzgado de lo Penal nº 6: un año y medio de prisión y multa de 151.800 euros para cada condenado. La información publicada al día siguiente recoge además una indemnización conjunta y solidaria de 150.000 euros a la AEAT y la absolución de la esposa de Olivas."
     type: "sentencia"
     urls:
-      - "https://www.eldiario.es/comunitat-valenciana/politica/condenado-generalitat-jose-luis-olivas_1_3646306.html"
-      - "https://www.eleconomista.es/empresas-finanzas/noticias/8081172/01/17/Jose-Luis-Olivas-expresidente-de-la-Generalitat-y-de-Bancaja-condenado-a-ano-y-medio-de-carcel.html"
-      - "https://www.elindependiente.com/economia/2017/01/13/olivas-expresidente-bancaja-condenado-18-meses-carcel-falsificar-una-factura/"
-
-  - fecha: 2017-02-01
-    titulo: "Olivas recurre la condena ante la Audiencia Provincial"
-    descripcion: "Tras conocerse la sentencia condenatoria, José Luis Olivas interpone recurso de apelación ante la Audiencia Provincial de Valencia para intentar revocar la pena de año y medio de prisión. El recurso no logra cambiar el fallo. La condena supone que Olivas entra en la historia de la política valenciana como el primer expresidente de la Generalitat condenado por un delito de corrupción."
-    type: "declaración"
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:APV:2024:1209"
+      - "https://valenciaplaza.com/valenciaplaza/el-expresidente-de-la-generalitat-jose-luis-olivas-condenado-a-ano-y-medio-de-prision-por-fraude"
+      - "https://www.europapress.es/comunitat-valenciana/noticia-olivas-condenado-ano-medio-prision-falsificar-factura-vicente-cotino-20170113120428.html"
+  - fecha: "2017-03-24"
+    titulo: "Confirmación de las condenas en apelación"
+    descripcion: "La Sección Cuarta de la Audiencia Provincial de Valencia confirmó la sentencia en el rollo de apelación 432/2017, según los antecedentes judiciales reproducidos en Erial. La información de EFE del 4 de abril explica que se mantuvo la pena aunque se corrigió la aplicación de la atenuante de dilaciones indebidas."
+    type: "recurso"
     urls:
-      - "https://valenciaplaza.com/olivas-recurre-al-supremo-su-condena-a-ano-y-medio-de-carcel-por-fraude-fiscal"
-
-  - fecha: 2025-11-29
-    titulo: "Fallecimiento de José Luis Olivas a los 73 años"
-    descripcion: "José Luis Olivas fallece a los 73 años. La Generalitat Valenciana decreta luto oficial con banderas a media asta en todos los edificios públicos autonómicos. Su muerte se produce después de haber sido absuelto en otros procesos judiciales de mayor envergadura (caso Bankia y caso Banco de Valencia), pero manteniendo la condena firme del caso Imarol como único hito judicial en su contra. Olivas pasó a la historia como el primer expresident de la Generalitat Valenciana condenado por corrupción."
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:APV:2024:1209"
+      - "https://elpais.com/ccaa/2017/04/04/valencia/1491323263_373439.html"
+  - fecha: "2024-10-15"
+    titulo: "Erial cita la condena firme de Imarol y absuelve a Olivas del cohecho allí juzgado"
+    descripcion: "La sentencia 560/2024 reconoce la firmeza de la condena fiscal y documental de 2017. En el proceso distinto de Erial, no considera probado que los 580.000 euros retribuyeran una intervención en la adjudicación de parques eólicos y absuelve a Olivas. No se presenta la sentencia de Erial como firme en esa fecha."
+    type: "sentencia"
+    urls:
+      - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:APV:2024:1209"
+      - "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Valencia-condena-a-10-anos-y-5-meses-de-prision-al-expresidente-de-la-Generalitat-Eduardo-Zaplana-por-el--caso-Erial-"
+  - fecha: "2025-11-29"
+    titulo: "Fallecimiento de José Luis Olivas"
+    descripcion: "ElDiario.es informa, con confirmación de la Generalitat, de su fallecimiento a los 73 años. Este hecho no permite deducir cómo se habían ejecutado la pena, la multa o la indemnización del caso Imarol."
     type: "resumen"
     urls:
       - "https://www.eldiario.es/comunitat-valenciana/muere-jose-luis-olivas-expresidente-generalitat-valenciana-73-anos_1_12807914.html"
-      - "https://www.publico.es/sociedad/sucesos/muere-jose-luis-olivas-primer-expresident-generalitat-valenciana-condenado-corrupcion.html"
-
 ---
+
+La factura de **580.000 euros, IVA incluido**, y el perjuicio fiscal de **150.000 euros** son magnitudes distintas. El coste recoge únicamente este último importe, que la información sobre la sentencia identifica también como indemnización solidaria a la AEAT. No se multiplica por el número de condenados ni se suman las multas de 151.800 euros de cada uno. No se ha comprobado la cantidad efectivamente cobrada por Hacienda.
+
+La [sentencia oficial de Erial, ECLI:ES:APV:2024:1209](https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:APV:2024:1209) reproduce los antecedentes de Imarol y cita expresamente su firmeza (páginas 15–16 y 83). Su valoración del pago y la insuficiencia de prueba de cohecho aparecen en las páginas 83–86. La [nota nominal del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Valencia-condena-a-10-anos-y-5-meses-de-prision-al-expresidente-de-la-Generalitat-Eduardo-Zaplana-por-el--caso-Erial-) identifica a Olivas entre los absueltos de ese otro proceso. No se deducen identidades de los seudónimos del PDF. La absolución por cohecho en [Erial](/casos/pp/erial/) no elimina la condena fiscal anterior ni autoriza a sumar otra vez los mismos pagos como un daño adicional.
+
+Las fuentes periodísticas de febrero de 2017 contienen una discrepancia: una versión de Europa Press hablaba de recurso ante el Supremo, mientras que el cuerpo actual de Valencia Plaza lo identifica como apelación ante la Audiencia. Los antecedentes judiciales de 2024 acreditan esta última vía y su resolución el 24 de marzo. No se incorpora una casación no comprobada.
+
+La fecha de creación informática del PDF oficial es de marzo de 2026 y no altera la fecha del acto judicial, 15 de octubre de 2024. El documento publicado en CENDOJ tiene 181 páginas; su formato es distinto de la versión de 364 páginas mencionada por la nota de prensa y del extracto de 75 páginas difundido en otro alojamiento. No se afirma una lectura integral de esos documentos. Faltan las resoluciones separadas de 2017 y actuaciones de ejecución: no se afirma ingreso en prisión, suspensión, cumplimiento ni pago efectivo de multa o indemnización. Por esas lagunas, la ficha permanece incompleta.
