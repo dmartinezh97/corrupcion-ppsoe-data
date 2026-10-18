@@ -3,7 +3,7 @@ nombre: Caso ERE - Sobrecomisiones de Seguros
 partido: PSOE
 completado: false
 año: 2011
-estado: pendiente de juicio
+estado: Sin señalamiento según Fiscalía en abril de 2025; evolución posterior pendiente
 descripcion: Pieza de los ERE sobre presuntas comisiones excesivas en la mediación de pólizas de prejubilación, distinta
   del procedimiento específico o pieza política. La información judicial publicada en 2021 cifró el exceso investigado
   en 66.033.237,30 euros, sin equivaler a daño establecido por sentencia. Fiscalía la registraba sin señalamiento a 4
