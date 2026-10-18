@@ -95,7 +95,7 @@ documentos:
   nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=8a6aa11dee12186ea0a8778d75e36f0d&encode=true&databasematch=TS
 cronologia:
 - fecha: '2019-05-06'
-  titulo: Se reanuda el segundo juicio del caso Cooperación (piezas 2 y 3) tras el aplazamiento del 15 de abril
+  titulo: Comienza el segundo juicio del caso Cooperación (piezas 2 y 3)
   descripcion: El balance posterior del Observatori sitúa el juicio entre el 6 de mayo y el 26 de julio de 2019.
     Las piezas trataron las ayudas a ONGD y el proyecto de hospital en Haití.
   type: juicio
