@@ -1,89 +1,92 @@
 ---
-nombre: "Caso de las Ratas"
+nombre: Caso de las Ratas
 partido: PP
-completado: true
+completado: false
 año: 2005
-fechaInicio: 2005-01-19
-fechaFin: "2018-10-30"
-estado: "cerrado con condenas"
-descripcion: |
-  El Caso de las Ratas es un caso de corrupción urbanística que tuvo lugar en Ciutadella, Menorca (Islas Baleares), y que involucró a varios concejales y técnicos del Partido Popular. El caso recibe su nombre por la estratagema utilizada: se alegó la existencia de una plaga de ratas en una propiedad municipal para justificar una permuta de terrenos que causó un grave perjuicio económico al Ayuntamiento.
-
-  El modus operandi consistió en que el concejal de Urbanismo Llorenç Casasnovas facilitó la compra de una propiedad por parte de un empresario asociado, Antonio Picó Ginard, por 24.040 euros. Posteriormente, se inició un procedimiento de permuta de terrenos bajo el pretexto de una infestación de ratas que supuestamente beneficiaría las arcas públicas, cuando en realidad causó un perjuicio económico al municipio estimado entre 288.513 euros (según la valoración judicial) y 40.511 euros (según la defensa). El fraude incluyó la falsificación de documentos y el aprovechamiento del cargo público para favorecer intereses privados.
-
-  En octubre de 2018, tras alcanzarse un acuerdo de conformidad en abril del mismo año, se dictaron las sentencias condenatorias. Llorenç Casasnovas fue condenado a un año de prisión por falsificación documental y fraude, mientras que Avel·lí Casasnovas (también exconcejal de Urbanismo y expresidente del PP de Ciutadella), el empresario Antonio Picó, el exgerente de Urbanismo Xavier Quintana y la extécnica Filomena Salord recibieron penas de multa por su participación como cooperadores necesarios del fraude. Este caso forma parte de una serie de tramas de corrupción urbanística que afectaron a Ciutadella durante el periodo de gobierno del PP.
-
-resumen: "Permuta fraudulenta de terrenos en Ciutadella alegando plaga de ratas, perjudicando al municipio 288.513 euros"
-coste: 288513
-lugar: "Ciutadella, Menorca, Islas Baleares, España"
+fechaInicio: '2010-06-22'
+estado: Condenas de conformidad en 2012; ejecución individual pendiente
+descripcion: La causa del solar de Ses Rates, en Ciutadella, dio lugar a condenas en 2012, no en octubre de 2018.
+  Llorenç Casasnovas, exconcejal de Urbanismo y expresidente del Partit Menorquí (PMQ), fue condenado a un año de
+  prisión por fraude y falsedad documental. La prensa documentó su ingreso en prisión en septiembre de 2013 tras
+  la denegación del indulto. Avel·lí Casasnovas, expresidente del PP local, también fue condenado por cooperación
+  necesaria en fraude. La clasificación PP de esta ficha no atribuye esa militancia a Llorenç ni a los técnicos.
+  Las crónicas contemporáneas sitúan la conformidad el 23 de abril de 2012 y describen seis condenados.
+  Faltan la sentencia original y las resoluciones de ejecución; las fuentes discrepan sobre las multas. No se acredita aquí un daño municipal consumado de 288.513 euros.
+resumen: Condenas en 2012 por la operación del solar de Ses Rates; ingreso en prisión de Llorenç Casasnovas documentado
+  en 2013.
+lugar: Ciutadella, Menorca, Islas Baleares, España
 tribunal:
-  - "Juzgado de lo Penal de Ciutadella"
-numeroSentencia: ""
+- Audiencia Provincial de Illes Balears
+numeroSentencia: ''
 implicados:
-  - nombre: "Llorenç Casasnovas Pons"
-    cargo: "Exconcejal de Urbanismo de Ciutadella (PP)"
-    rol: "Condenado a 1 año de prisión por falsificación documental y fraude"
-
-  - nombre: "Avel·lí Casasnovas Coll"
-    cargo: "Exconcejal de Urbanismo y expresidente del PP de Ciutadella"
-    rol: "Condenado a 6 meses de multa por cooperación necesaria en fraude"
-
-  - nombre: "Antonio Picó Ginard"
-    cargo: "Empresario"
-    rol: "Condenado a 4 meses de multa por cooperación necesaria en fraude"
-
-  - nombre: "Xavier Quintana Martínez"
-    cargo: "Exgerente de Urbanismo del Ayuntamiento de Ciutadella"
-    rol: "Condenado a 6 meses de multa por cooperación necesaria en fraude"
-
-  - nombre: "Filomena Salord Gener"
-    cargo: "Extécnica de Urbanismo del Ayuntamiento de Ciutadella"
-    rol: "Condenada a 6 meses de multa por cooperación necesaria en fraude"
-
+- nombre: Llorenç Casasnovas Pons
+  cargo: Exconcejal de Urbanismo de Ciutadella; expresidente del Partit Menorquí (PMQ)
+  rol: Condenado a un año de prisión por fraude y falsedad documental; ingreso en prisión documentado en septiembre
+    de 2013.
+- nombre: Avel·lí Casasnovas Coll
+  cargo: Exconcejal de Urbanismo y expresidente del PP de Ciutadella
+  rol: Condenado a tres meses de prisión por cooperación necesaria en fraude en grado de tentativa según las crónicas de abril de 2012; sustitución y multa pendientes de resolución original.
+- nombre: Antoni Picó Ginard
+  cargo: Empresario
+  rol: La prensa de abril de 2012 le atribuye dos meses de prisión por fraude, sustituidos por multa de 720 euros; ejecución no verificada.
+- nombre: Maria Antonia Castro
+  cargo: Empleada municipal encargada de las tasaciones según la crónica
+  rol: Condenada a nueve meses de prisión por falsedad documental según la prensa de abril de 2012; ejecución no verificada.
+- nombre: Xavier Quintana
+  cargo: Exdirector de Urbanismo
+  rol: Condenado a tres meses de prisión por fraude según la prensa de abril de 2012; ejecución no verificada.
+- nombre: Filomena Salord
+  cargo: Empleada municipal autora del informe jurídico según la crónica
+  rol: Condenada a tres meses de prisión por fraude según la prensa de abril de 2012; ejecución no verificada.
 tags:
-  - "corrupción"
-  - "fraude"
-  - "prevaricación"
-  - "falsificación documental"
-  - "urbanismo"
-  - "malversación"
-
-impactoSocial: "El caso evidenció prácticas irregulares en la gestión urbanística de Ciutadella durante el gobierno del PP y contribuyó a erosionar la confianza ciudadana en las instituciones locales. Forma parte de una serie de casos de corrupción urbanística en las Islas Baleares que afectaron especialmente a Menorca."
-
-documentos: null
-
+- fraude
+- falsedad documental
+- urbanismo
+documentos: []
 cronologia:
-  - fecha: 2005-01-19
-    titulo: "Venta de la propiedad"
-    descripcion: "El empresario Antonio Picó Ginard compra la propiedad por 24.040 euros, facilitado por el concejal Llorenç Casasnovas. Esta compra inicia la operación que posteriormente derivaría en la permuta fraudulenta que causó perjuicio al Ayuntamiento."
-    type: "resumen"
-    urls: []
-
-  - fecha: 2005-12-01
-    titulo: "Inicio del procedimiento de permuta"
-    descripcion: "Se inicia el procedimiento administrativo de permuta de terrenos alegando problemas de plaga de ratas en la propiedad municipal. El concejal de Urbanismo Llorenç Casasnovas impulsa el procedimiento que aparentemente beneficiaría las arcas públicas pero que en realidad causó un perjuicio económico al municipio."
-    type: "investigación"
-    urls: []
-
-  - fecha: 2012-01-01
-    titulo: "Primera condena de Avel·lí Casasnovas"
-    descripcion: "Avel·lí Casasnovas es condenado por primera vez como colaborador necesario de un fraude a la administración en el llamado caso de las ratas. Esta condena, aunque posterior a los hechos iniciales, marca el primer reconocimiento judicial de las irregularidades cometidas en la permuta."
-    type: "sentencia"
-    urls:
-      - "https://www.menorca.info/menorca/local/2024/02/12/2104173/fiscalia-pide-anos-prision-millones-multa-800000-fianza-avel-casasnovas.html"
-
-  - fecha: 2018-04-23
-    titulo: "Acuerdo de conformidad"
-    descripcion: "Los implicados en el caso alcanzan un acuerdo de conformidad con la Fiscalía, aceptando las penas propuestas. Este acuerdo permite cerrar el procedimiento judicial de manera más rápida, evitando un juicio oral prolongado."
-    type: "resumen"
-    urls: []
-
-  - fecha: 2018-10-30
-    titulo: "Sentencias condenatorias"
-    descripcion: "El Juzgado de lo Penal de Ciutadella dicta las sentencias condenatorias. Llorenç Casasnovas recibe 1 año de prisión por falsificación documental y fraude. Avel·lí Casasnovas, Antonio Picó, Xavier Quintana y Filomena Salord son condenados a penas de multa (entre 4 y 6 meses de multa) por su participación como cooperadores necesarios en el fraude a la administración. El perjuicio económico causado al municipio se estima en 288.513 euros."
-    type: "sentencia"
-    urls:
-      - "https://casos-aislados.com/Caso-Aislado.php?Caso=Caso+de+las+Ratas&numero=544"
-      - "https://casos-aislados.com/Caso-por-comunidad.php?Comunidad=Baleares"
-
+- fecha: '2010-06-22'
+  titulo: Publicación sobre la ampliación de la acusación
+  descripcion: Menorca informa de un auto de la Audiencia que admite incluir estafa entre las acusaciones contra
+    Llorenç Casasnovas, sin las agravantes solicitadas. Es una decisión de la fase previa al juicio, no el fallo
+    definitivo; la fecha corresponde a la noticia.
+  type: recurso
+  urls:
+  - https://www.menorca.info/menorca/local/2010/06/22/1377994/audiencia-admite-delito-estafa-entre-acusaciones-contra-casasnovas.html
+- fecha: '2012-04-23'
+  titulo: Conformidad y condenas difundidas el día del juicio
+  descripcion: Menorca informa ese día de seis condenados tras una conformidad. Llorenç recibió doce meses por fraude y falsedad; Avel·lí tres meses por cooperación en fraude intentado. La crónica del día siguiente amplía las penas. La previsión inicial de que ninguno ingresaría en prisión no se cumplió para Llorenç en 2013; no acredita ejecución para los demás.
+  type: sentencia
+  urls:
+  - https://www.menorca.info/menorca/local/2012/04/23/1425116/acuerdo-entre-partes-rebaja-condenas-juicio-ses-rates.html
+  - https://www.menorca.info/menorca/local/2012/04/24/1425158/caso-ses-rates-acaba-condenas-minimas-tras-pacto-entre-partes.html
+- fecha: '2013-09-23'
+  titulo: La prensa documenta el ingreso en prisión
+  descripcion: Menorca informa de que Llorenç Casasnovas ya ha ingresado voluntariamente en Maó tras denegarse su
+    indulto. Sitúa la condena de un año en 2012. La fecha es de publicación y no fija el día exacto de ingreso ni
+    acredita la posterior extinción de la pena.
+  type: sentencia
+  urls:
+  - https://www.menorca.info/menorca/local/2013/09/23/1458310/lloren-casasnovas-esta-prision.html
+  - https://elpais.com/ccaa/2013/09/21/catalunya/1379788436_883183.html
+- fecha: '2024-02-12'
+  titulo: Referencia retrospectiva en una noticia sobre Nerer
+  descripcion: Menorca recuerda la condena de Avel·lí Casasnovas en 2012 por el caso de las ratas. Las nuevas peticiones
+    de pena y cantidades de esa noticia corresponden a Nerer, una causa distinta, y no se trasladan a esta ficha.
+  type: resumen
+  urls:
+  - https://www.menorca.info/menorca/local/2024/02/12/2104173/fiscalia-pide-anos-prision-millones-multa-800000-fianza-avel-casasnovas.html
 ---
+
+## Operación y cuantías pendientes de comprobación
+
+La recopilación [Casos Aislados](https://casos-aislados.com/caso-de-corrupcion/caso-de-las-ratas), que remite a una antigua noticia de agencia hoy no recuperada, sitúa la compra del solar privado el 19 de enero de 2005 por 24.040 euros. Describe una propuesta de intercambio con suelo municipal para un local de Cruz Roja que no llegó a ejecutarse. Sus valoraciones periciales de 288.513,17 y 40.511,18 euros son alternativas, no sumables ni un daño efectivamente pagado. Esta reconstrucción queda pendiente del original judicial; se elimina el coste agregado.
+
+Las [crónicas de Menorca del 23 de abril de 2012](https://www.menorca.info/menorca/local/2012/04/23/1425116/acuerdo-entre-partes-rebaja-condenas-juicio-ses-rates.html) y [del día siguiente](https://www.menorca.info/menorca/local/2012/04/24/1425158/caso-ses-rates-acaba-condenas-minimas-tras-pacto-entre-partes.html) identifican seis condenados: Llorenç y Avel·lí Casasnovas, Antoni Picó Ginard, Maria Antonia Castro, Xavier Quintana y Filomena Salord. Describen un año de prisión para Llorenç, tres meses para Avel·lí, dos meses para Picó, nueve meses por falsedad para Castro y tres meses por fraude para Quintana y Salord. No se amplían apellidos que estas fuentes no ofrecen. Las peticiones de sustitución de las penas y la previsión periodística inicial de que nadie ingresaría no sustituyen las resoluciones de ejecución; Llorenç ingresó en 2013.
+
+## Fechas, firmeza y límites
+
+[Menorca, 23 de septiembre de 2013](https://www.menorca.info/menorca/local/2013/09/23/1458310/lloren-casasnovas-esta-prision.html), sitúa la condena en abril de 2012. Mallorcadiario, en una noticia fechada el 29 de septiembre de 2013 cuyo GET quedó bloqueado, la sitúa en mayo y refiere firmeza en julio; esos extremos no se dan por verificados mediante el original. Se retiran las fechas judiciales de 2018 y el 1 de enero de 2012, que carecían de respaldo. Tampoco se fija fecha final de ejecución.
+
+[El País, con fecha visible de 22 de septiembre de 2013](https://elpais.com/ccaa/2013/09/21/catalunya/1379788436_883183.html), confirma la condena firme y el ingreso de Llorenç, y distingue su partido, PMQ, del PP. Para Avel·lí refiere multa de 540 euros, mientras Menorca menciona una multa de 270 euros y una petición de sustitución a seis euros diarios; la recopilación cita 1.080 euros. No se equiparan la multa autónoma y la sustitutoria ni se escoge una suma definitiva sin sentencia. No se extiende la firmeza ni la ejecución a otras personas.
+
+Revisión con corte de 17 de octubre de 2026: no se ha localizado una resolución judicial original ni una actualización verificable que permita cerrar los puntos anteriores. Nerer y otras causas urbanísticas de Ciutadella conservan sus propios procedimientos, acusaciones e importes. La ficha permanece incompleta.
