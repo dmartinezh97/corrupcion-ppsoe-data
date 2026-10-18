@@ -1,182 +1,92 @@
 ---
-nombre: "Caso Aceinsa II"
+nombre: Caso Aceinsa II
 partido: PP
-completado: true
+completado: false
 año: 2012
-fechaInicio: 2012-01-01
-fechaFin: 2019-11-15
-estado: sentenciado
-resumen: "Adjudicaciones irregulares en obras públicas en Castilla y León bajo gestores del PP"
-descripcion: "Caso de corrupción relacionado con adjudicaciones irregulares en obras públicas en Castilla y León bajo gestores del PP."
-coste: 700000
-lugar: "Castilla y León, España"
+fechaInicio: '2012-07-20'
+estado: Archivo penal provisional comunicado
+resumen: Anulación de la adjudicación del alumbrado de Salamanca a Aceinsa y denuncias penales relacionadas.
+descripcion: 'La adjudicación del alumbrado de Salamanca a Aceinsa fue anulada en vía contencioso-administrativa por la sentencia
+  1321/2017. En octubre de 2018 se comunicó el archivo penal provisional y Ganemos anunció recurso: no se ha verificado su
+  desenlace ni una resolución penal firme posterior hasta el 17 de octubre de 2026. La anulación del contrato no equivale
+  a condena penal. Este asunto coincide con la ficha Aceinsa II (aceinsa-ii); no constituye otro perjuicio acumulable. No
+  están acreditadas las condenas atribuidas anteriormente a Alfonso Rodríguez, María Fernández y Carlos Martínez.'
+lugar: Salamanca
 tribunal:
-  - "Audiencia Provincial de León"
-sentencia: "STS 456/2019"
+- Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Castilla y León
+- Juzgado de instrucción de Salamanca (identificación pendiente de resolución original)
+numeroSentencia: 1321/2017, de 27 de noviembre (contencioso-administrativa; identificada en acta municipal)
 implicados:
-  - nombre: "Alfonso Rodríguez"
-    cargo: "Exdirector de Infraestructuras de la Consejería de Fomento"
-    rol: "Condenado por malversación de fondos públicos y prevaricación"
-  - nombre: "María Fernández"
-    cargo: "Responsable de Contratación en la Junta de Castilla y León"
-    rol: "Condenada por prevaricación"
-  - nombre: "Carlos Martínez"
-    cargo: "Empresario vinculado a empresas adjudicatarias"
-    rol: "Condenado por colaboración en delitos de malversación"
+- nombre: Aceinsa Movilidad, S.A.
+  cargo: Empresa adjudicataria del alumbrado municipal
+  rol: Adjudicación anulada en vía administrativa; no se atribuye condena penal
 tags:
-  - "corrupción"
-  - "malversación"
-  - "prevaricación"
-impactoSocial: "El caso generó impacto en Castilla y León con críticas a la gestión pública del PP y demandas de mayor transparencia, aunque sin afectar decisivamente a elecciones posteriores."
-documentos: []
+- contratación pública
+- alumbrado
+- Salamanca
+impactoSocial: El litigio provocó debate municipal sobre la contratación del alumbrado y la financiación de una indemnización
+  sustitutoria.
+documentos:
+- fecha: '2018-02-09'
+  titulo: 'Acta del Pleno de Salamanca: identificación de sentencia y preparación de casación, pp. 32–33'
+  filetype: pdf
+  paginas: 200
+  nombre_fichero: https://www.aytosalamanca.es/documents/20119/1383370/Acta+N%C2%BA+01.+Sesi%C3%B3n+ordinaria+de+09-02-2018.pdf/da168547-9e43-56ee-8303-22d98630976b?t=1738836706250
+- fecha: '2018-11-16'
+  titulo: 'Acta del Pleno de Salamanca: crédito para ejecución de sentencia, pp. 39–40'
+  filetype: pdf
+  paginas: 88
+  nombre_fichero: https://www.aytosalamanca.es/documents/20119/1383370/Acta+N%C2%BA+12.+Sesi%C3%B3n+extraordinaria+de+16-11-2018.pdf/827df943-7df4-b793-d319-337e163231e9
 cronologia:
-  - fecha: 2012-06-01
-    titulo: "Ejecución de adjudicaciones irregulares"
-    descripcion: "Se ejecutan adjudicaciones irregulares en obras públicas de Castilla y León"
-    type: "investigación"
-  - fecha: 2014-09-01
-    titulo: "Apertura de diligencias judiciales"
-    descripcion: "Apertura formal de diligencias judiciales por la Audiencia Provincial de León"
-    type: "denuncia"
-  - fecha: 2016-03-01
-    titulo: "Detenciones y registros"
-    descripcion: "Detención de varios altos cargos y registro de oficinas de la Consejería de Fomento"
-    type: "detención"
-  - fecha: 2019-11-15
-    titulo: "Sentencia condenatoria"
-    descripcion: "La Audiencia Provincial de León dicta sentencia condenatoria con penas de inhabilitación para los acusados principales"
-    type: "sentencia"
+- fecha: '2012-07-20'
+  titulo: Adjudicación del alumbrado
+  descripcion: La Junta de Gobierno Local adjudicó el servicio a Aceinsa Movilidad; fecha recogida por EFE y el debate municipal.
+  type: investigacion
+  urls:
+  - https://www.lavanguardia.com/politica/20171201/433325782105/tsjcyl-anula-la-adjudicacion-del-servicio-de-alumbrado-publico-de-salamanca.html
+  - https://www.aytosalamanca.es/documents/20119/1383370/Acta+N%C2%BA+01.+Sesi%C3%B3n+ordinaria+de+09-02-2018.pdf/da168547-9e43-56ee-8303-22d98630976b?t=1738836706250
+- fecha: '2017-11-27'
+  titulo: Sentencia que anula la adjudicación
+  descripcion: La sentencia 1321/2017 estimó la apelación de Etralux contra la sentencia 139/2017, de 28 de abril, del Juzgado
+    de lo Contencioso-Administrativo n.º 1 de Salamanca. Fecha y referencias transcritas en el acta municipal; no se ha obtenido
+    la sentencia original.
+  type: sentencia
+  urls:
+  - https://www.aytosalamanca.es/documents/20119/1383370/Acta+N%C2%BA+01.+Sesi%C3%B3n+ordinaria+de+09-02-2018.pdf/da168547-9e43-56ee-8303-22d98630976b?t=1738836706250
+  - https://www.lavanguardia.com/politica/20171201/433325782105/tsjcyl-anula-la-adjudicacion-del-servicio-de-alumbrado-publico-de-salamanca.html
+- fecha: '2018-02-09'
+  titulo: El Pleno trata la preparación de casación
+  descripcion: El acta recoge la propuesta de ratificación de la resolución de Alcaldía de 11 de enero para preparar e interponer
+    casación. No acredita por sí misma el posterior resultado del recurso.
+  type: recurso
+  urls:
+  - https://www.aytosalamanca.es/documents/20119/1383370/Acta+N%C2%BA+01.+Sesi%C3%B3n+ordinaria+de+09-02-2018.pdf/da168547-9e43-56ee-8303-22d98630976b?t=1738836706250
+- fecha: '2018-10-17'
+  titulo: Se comunica el archivo penal
+  descripcion: SER y Noticias Castilla y León informan del archivo de las denuncias sobre señalización y alumbrado, según
+    el portavoz municipal. Ganemos precisa que el sobreseimiento es provisional y anuncia recurso. Es fecha de publicación,
+    no fecha verificada del auto.
+  type: investigacion
+  urls:
+  - https://cadenaser.com/emisora/2018/10/17/radio_salamanca/1539771399_513218.html
+  - https://www.elespanol.com/castilla-y-leon/region/salamanca/20181017/no-caso-aceinsa-juzgado-desestima-denuncias-ganemos/346217097_0.html
+- fecha: '2018-11-16'
+  titulo: Crédito para la ejecución de la sentencia
+  descripcion: El acta incorpora la necesidad de incrementar en 327.192,96 euros una partida para atender la indemnización
+    sustitutoria. Es un crédito presupuestario, no prueba del pago final ni de daño penal.
+  type: investigacion
+  urls:
+  - https://www.aytosalamanca.es/documents/20119/1383370/Acta+N%C2%BA+12.+Sesi%C3%B3n+extraordinaria+de+16-11-2018.pdf/827df943-7df4-b793-d319-337e163231e9
 ---
 
-# Caso Aceinsa II
+# Adjudicación del alumbrado de Salamanca
 
-## Descripción General
+Esta ficha conserva su ruta y describe el mismo contrato que [Aceinsa II](../aceinsa-ii/), con antecedentes compartidos con Aceinsa. No documenta un procedimiento distinto de la Junta de Castilla y León o de la Audiencia de León. Los importes de estas fichas no deben sumarse como perjuicios independientes.
 
-El Caso Aceinsa II es una investigación de corrupción centrada en la adjudicación irregular de contratos y obras públicas en Castilla y León durante 2012, bajo la gestión de cargos del Partido Popular. Fue destapado mediante denuncias internas y seguimientos judiciales que revelaron desviación de fondos públicos y abuso de poder en la concesión de contratos a empresas vinculadas a miembros del partido. La investigación evidenció prácticas de malversación y prevaricación en la administración autonómica.
+La adjudicación municipal de 20 de julio de 2012 fue recurrida por Etralux. Según [EFE, publicado el 1 de diciembre de 2017](https://www.lavanguardia.com/politica/20171201/433325782105/tsjcyl-anula-la-adjudicacion-del-servicio-de-alumbrado-publico-de-salamanca.html), el TSJ anuló la adjudicación porque Aceinsa no justificó suficientemente su oferta incursa en baja temeraria. La noticia cifra el contrato en doce millones de euros, para cuatro años prorrogables por otros dos: se trata de volumen contractual, no de dinero defraudado. La ejecución debía determinar si procedía adjudicar el servicio a Etralux o una indemnización sustitutoria. El acta de febrero de 2018 identifica la sentencia y la preparación de casación; no se dispone de la resolución judicial original ni del posterior auto del Supremo.
 
-## Hechos Principales
+En paralelo se formularon denuncias penales relacionadas con señalización y alumbrado. [Radio Salamanca](https://cadenaser.com/emisora/2018/10/17/radio_salamanca/1539771399_513218.html) y [Noticias Castilla y León](https://www.elespanol.com/castilla-y-leon/region/salamanca/20181017/no-caso-aceinsa-juzgado-desestima-denuncias-ganemos/346217097_0.html) comunicaron el archivo el 17 de octubre de 2018, recogiendo las explicaciones del portavoz Fernando Rodríguez. Ganemos lo calificó de provisional y anunció recurso. Las noticias discrepan sobre el número del juzgado instructor; sin el auto no se fija aquí. No debe confundirse el archivo de la denuncia con una sentencia absolutoria ni la anulación administrativa con una condena. No se ha documentado el desenlace del recurso penal ni la situación individual posterior al cierre de la revisión, 17 de octubre de 2026.
 
-### Modalidad de Corrupción
-- **Tipo**: Malversación, prevaricación
-- **Método**: Se favorecieron adjudicaciones de contratos públicos a empresas vinculadas mediante manipulación de pliegos y omisión de procesos de licitación competitiva.
-- **Duración**: Año 2012, periodo en que se ejecutaron y adjudicaron obras públicas.
+El acta de noviembre de 2018 recoge un incremento de crédito de 327.192,96 euros para atender la ejecución de la sentencia. No acredita por sí sola el importe efectivamente abonado, su fecha ni una responsabilidad penal individual. Por ello no se asigna un coste de corrupción ni se conserva la cifra anterior de 700.000 euros como daño probado.
 
-### Instituciones Afectadas
-- Consejería de Fomento de Castilla y León
-- Empresas constructoras relacionadas con los implicados
-- Entidades locales beneficiadas indirectamente
-
-## Cronología del Caso
-
-### 2012
-- **Mediados de 2012**: Se ejecutan adjudicaciones irregulares.
-- **Finales de 2012**: Primeras quejas internas y auditorías que detectan anomalías.
-
-### 2014
-- **Septiembre 2014**: Apertura formal de diligencias judiciales.
-
-### 2016
-- **Marzo 2016**: Detenciones de varios altos cargos y registro de oficinas.
-
-### 2019
-- **Noviembre 2019**: Sentencia condenatoria dictada por la Audiencia Provincial de León.
-
-## Implicados Principales
-
-### Alfonso Rodríguez
-- **Cargo**: Exdirector de Infraestructuras de la Consejería de Fomento
-- **Partido**: PP
-- **Acusación**: Malversación de fondos públicos y prevaricación
-- **Situación actual**: Condenado
-
-### María Fernández
-- **Cargo**: Responsable de Contratación en la Junta de Castilla y León
-- **Partido**: PP
-- **Acusación**: Prevaricación
-- **Situación actual**: Condenada
-
-### Carlos Martínez
-- **Cargo**: Empresario vinculado a empresas adjudicatarias
-- **Partido**: No afiliado políticamente
-- **Acusación**: Colaboración en delitos de malversación
-- **Situación actual**: Condenado
-
-## Procedimiento Judicial
-
-### Fase de Instrucción
-- **Juez instructor**: D. José Luis Martín
-- **Tribunal**: Audiencia Provincial de León
-- **Número de procedimiento**: 2014/145
-- **Principales diligencias**: Registros en sedes administrativas, declaración de funcionarios y empresarios, análisis documental.
-
-### Fase de Juicio Oral
-- **Fecha de inicio**: 2019-07-10
-- **Tribunal**: Audiencia Provincial de León
-- **Acusaciones**: Fiscalía de Castilla y León y acusación particular ejercida por la Junta
-- **Principales testigos**: Auditores, técnicos de contratación, denunciantes internos
-
-### Sentencia
-- **Fecha**: 2019-11-15
-- **Tribunal**: Audiencia Provincial de León
-- **Número**: STS 456/2019
-- **Condenas**: Condenas de penas de prisión menores y multa económica para los acusados principales
-- **Absoluciones**: No hubo absueltos en el núcleo principal del caso
-
-## Impacto Económico
-
-### Perjuicio Causado
-- **Cantidad defraudada**: 700,000 euros
-- **Fondos públicos afectados**: Autonómicos de Castilla y León
-- **Responsabilidad civil**: Imposición de reintegro de fondos a los condenados
-
-### Recuperación de Fondos
-- **Cantidad recuperada**: Parcial, entorno al 50%
-- **Bienes embargados**: Inmuebles y cuentas bancarias de responsables
-- **Procedimientos de embargo**: Ejecutados en fase post-sentencia
-
-## Impacto Político y Social
-
-### Consecuencias Políticas
-- **Dimisiones**: Algunos cargos intermedios presentaron dimisión tras la operación judicial
-- **Cambios en el partido**: Presión interna para auditorías y revisión de procesos de contratación
-- **Impacto electoral**: Limitado a la región, sin afectar elecciones nacionales
-
-### Repercusión Mediática
-- **Cobertura mediática**: Local y regional, con seguimiento en medios especializados
-- **Opinión pública**: Exigencia de transparencia y control en la gestión pública
-- **Manifestaciones**: No se registraron protestas significativas
-
-### Reformas Legales
-- **Cambios normativos**: Reforzamiento de controles en contratación pública autonómica
-- **Medidas preventivas**: Implantación de auditorías periódicas y sistemas de transparencia mejorados
-
-## Curiosidades y Datos Relevantes
-
-- **Nombre en clave**: No hubo nombre operativo conocido
-- **Apodos**: "La trama Aceinsa" en medios locales
-- **Interceptaciones**: No trascendieron escuchas telefónicas relevantes
-- **Documentos clave**: Informes periciales sobre contratos y auditorías internas
-
-## Estado Actual
-
-El caso se encuentra cerrado tras la sentencia de 2019 con condenas firmes y ejecución parcial de medidas económicas. La administración ha implementado reformas para impedir hechos similares.
-
-## Fuentes
-
-### Fuentes Judiciales
-- Sentencia de la Audiencia Provincial de León - STS 456/2019, 15-11-2019
-- Auto de apertura de procedimiento 2014/145, 2014
-
-### Fuentes Periodísticas
-- [Noticia de El Diario de León - 16-11-2019](https://www.diariodeleon.es/2019/11/16/aceinsa-ii-condenas)
-- [Investigación de Castilla y León Diario - 2019](https://cyl-diario.es/caso-aceinsa-ii)
-- [Reportaje de La Ser Castilla y León - 2019](https://cyl.ser.es/corrupcion-aceinsa-ii)
-
-### Fuentes Oficiales
-- Comunicado Junta de Castilla y León - 2019, URL https://www.jcyl.es/comunicado-aceinsa
-- Informe Tribunal de Cuentas Castilla y León 2013-2015
-
-### Documentación Adicional
-- Informes de transparencia de la Junta de Castilla y León
-- Estudios académicos sobre corrupción regional en España
-- Documentales de análisis político-autonómico (varios)
+Las fuentes contrastadas no respaldan las anteriores atribuciones de condenas a Alfonso Rodríguez, María Fernández y Carlos Martínez, ni las detenciones, juicio, recuperación de fondos y reformas que se les asociaban. La documentación disponible acredita el litigio municipal y la comunicación del archivo provisional, sin permitir afirmar un cierre penal firme o una causa todavía abierta por mera ausencia de noticias.
