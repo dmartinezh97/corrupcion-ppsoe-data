@@ -1,177 +1,117 @@
 ---
-nombre: "Caso Son Espases"
+nombre: Caso Son Espases
 partido: PP
-completado: true
+completado: false
 año: 2009
-fechaInicio: 2005-11-01
-fechaFin: "2021-11-02"
-estado: "cerrado con condenas"
-descripcion: |
-  El caso Son Espases investiga el presunto amaño por parte del Govern de Jaume Matas del concurso de adjudicación del Hospital Son Espases de Palma de Mallorca, la mayor obra pública de las Islas Baleares, licitada en 2006 por 778,4 millones de euros. La exconsellera de Salud Aina Castillo confesó durante la investigación judicial que el entonces presidente autonómico Jaume Matas le dio instrucciones en 2006 para que la oferta liderada por OHL ganara el concurso público, orden que finalmente se frustró cuando la adjudicación recayó en Dragados.
+fechaInicio: '2005-05-30'
+estado: condenas por la contratación; casación de Matas desestimada y archivo provisional para otros investigados
+descripcion: 'El procedimiento Son Espases examinó las actuaciones dirigidas a controlar el concurso de construcción
+  y explotación del hospital de Palma, entre ellas la contratación de Global PM para valorar ofertas y favorecer
+  a OHL. La adjudicación final a una UTE encabezada por Dragados y las pesquisas sobre posibles comisiones
+  deben distinguirse de los hechos y sujetos efectivamente condenados.
 
-  Según el fiscal Pedro Horrach, el expresidente Matas manipuló el concurso iniciado en 2005 mediante la exconsellera Castillo, el exdirector general del Ib-Salut Sergio Beltrán y el presidente de la mesa de contratación, determinando la contratación de la consultora Global PM para valorar fraudulentamente las ofertas. La secretaria de la mesa de contratación denunció numerosas irregularidades durante el proceso, llegando a dimitir cuando se topó en su despacho con un acta ya redactada antes de que la reunión se hubiera celebrado. El exconcejal Rodrigo de Santos declaró que el PP balear, bajo el mandato de Matas y con la connivencia del partido a nivel nacional, exigía un 3% en comisiones con cada adjudicación pública, solicitando en el caso de Son Espases nueve millones de euros tanto a la UTE formada por OHL como a la integrada por Dragados.
+  La Audiencia Provincial de Baleares dictó la sentencia 74/2019 el 10 de julio. Condenó a Jaume Matas por
+  tráfico de influencias y como inductor de prevaricación continuada y fraude; a Aina Castillo como inductora
+  de estos dos últimos delitos; a Joaquín Sergio Beltrán Damián como autor, y a Jesús Peinado Ruiz como cooperador
+  necesario. Se corrigen así los apellidos erróneos de Beltrán y Peinado de la versión anterior. Sus penas
+  y sustituciones fueron diferentes.
 
-  La Audiencia Provincial de Baleares condenó en julio de 2019 a Jaume Matas a 10 meses de prisión y 10 años de inhabilitación por tráfico de influencias, prevaricación continuada y fraude a la administración. Aina Castillo fue condenada a 8 meses de prisión (sustituidos por multa) y 10 años de inhabilitación, Sergio Beltrán a 12 meses de prisión (sustituidos por multa) y 13 años de inhabilitación, y el empresario Jesús Peinado a 12 meses de prisión (sustituidos por multa) y 10 años de inhabilitación. El Tribunal Supremo confirmó la sentencia en noviembre de 2021. La investigación reveló conexiones con la financiación ilegal del PP nacional, apareciendo en el sumario nombres como Luis Bárcenas, Florentino Pérez y Juan Miguel Villar Mir.
+  El Supremo desestimó el recurso de Matas mediante la sentencia 792/2021, de 20 de octubre, difundida el 2
+  de noviembre. La nota judicial indica que los otros tres condenados no recurrieron al Supremo. En cambio,
+  Villar Mir había obtenido sobreseimiento provisional en 2017. No se atribuye una condena por financiación
+  ilegal del PP a quienes aparecieron mencionados en las pesquisas.
 
-resumen: "Amaño del concurso del Hospital Son Espases por Jaume Matas para beneficiar a OHL"
-coste: 9000000
-lugar: "Palma de Mallorca, Islas Baleares"
+  La responsabilidad civil solidaria fue rectificada a 2.950 euros, distinta de los 29.500 euros ofrecidos
+  y consignados por Matas como reparación. Los nueve millones alegados durante la investigación no se acreditan
+  como daño de esta causa. Quedan pendientes el auto original de archivo de 2017, la comprobación integral
+  de la cronología histórica y el seguimiento de ejecución hasta el 17 de octubre de 2026.'
+resumen: 'Contratación y manipulación del concurso de Son Espases: condenas de cuatro acusados, casación de
+  Matas desestimada en 2021 y archivos provisionales para otros investigados.'
+lugar: Palma de Mallorca, Islas Baleares
 tribunal:
-  - "Juzgado de Instrucción nº 3 de Palma - Juez José Castro"
-  - "Audiencia Provincial de Baleares - Sección Primera"
-  - "Tribunal Supremo - Sala II"
-numeroSentencia: "Sentencia AP Baleares 10/07/2019 - Sentencia TS 02/11/2021"
+- Juzgado de Instrucción nº 3 de Palma de Mallorca (procedimiento 2579/2015)
+- Audiencia Provincial de Baleares, Sección Primera (rollo 55/2018)
+- Tribunal Supremo, Sala de lo Penal (casación 4613/2019)
+numeroSentencia: AP Baleares 74/2019, de 10 de julio; TS 792/2021, de 20 de octubre (ECLI:ES:TS:2021:3923)
 implicados:
-  - nombre: "Jaume Matas Palou"
-    cargo: "Expresidente del Govern de Baleares (PP, 2003-2007)"
-    rol: "Condenado por tráfico de influencias, prevaricación continuada y fraude"
-
-  - nombre: "Aina Castillo Ferrer"
-    cargo: "Exconsellera de Salud del Govern balear (PP, 2003-2007)"
-    rol: "Condenada por prevaricación y fraude, colaboró con la investigación"
-
-  - nombre: "Sergio Beltrán Pérez"
-    cargo: "Exdirector general del Ib-Salut (Servicio de Salud de Baleares)"
-    rol: "Condenado por prevaricación y fraude a la administración"
-
-  - nombre: "Jesús Peinado Rodríguez"
-    cargo: "Propietario de la consultora Global PM"
-    rol: "Condenado como cooperador necesario de prevaricación y fraude"
-
-  - nombre: "Juan Miguel Villar Mir"
-    cargo: "Presidente de OHL (empresa constructora)"
-    rol: "Investigado por presuntos pagos ilegales al PP"
-
-  - nombre: "Rodrigo de Santos"
-    cargo: "Exconcejal de Urbanismo de Palma"
-    rol: "Testigo clave, declaró sobre el 3% de comisiones del PP"
-
-  - nombre: "Luis Bárcenas"
-    cargo: "Extesorero del PP nacional"
-    rol: "Investigado por conexión con financiación ilegal del PP"
-
+- nombre: Jaume Matas Palou
+  cargo: Expresidente del Govern balear (PP)
+  rol: 'Condenado: tráfico de influencias, seis meses de prisión y tres años de inhabilitación; inducción a
+    fraude, cuatro meses y tres años; inducción a prevaricación continuada, cuatro años y dos meses de inhabilitación.
+    Recurso desestimado.'
+- nombre: Aina Castillo Ferrer
+  cargo: Exconsellera de Salud; también denominada Ana María Castillo Ferrer en la sentencia
+  rol: Inductora de prevaricación continuada y fraude. Ocho meses de prisión sustituidos por multa de 4.800
+    euros; inhabilitación de cinco años por cada delito. No recurrió al Supremo, según la nota judicial.
+- nombre: Joaquín Sergio Beltrán Damián
+  cargo: Exdirector del IB-Salut
+  rol: Autor de prevaricación continuada y fraude. Doce meses de prisión sustituidos por multa de 5.760 euros;
+    inhabilitación de siete años por prevaricación y seis por fraude. No recurrió al Supremo.
+- nombre: Jesús Peinado Ruiz
+  cargo: Responsable de Global PM Consultores
+  rol: Cooperador necesario de prevaricación continuada y fraude. Doce meses de prisión sustituidos por multa
+    de 5.760 euros; inhabilitación de cinco años por cada delito. No recurrió al Supremo.
+- nombre: Juan Miguel Villar Mir
+  cargo: Empresario de OHL investigado durante la instrucción
+  rol: Sobreseimiento provisional comunicado en junio de 2017. No fue uno de los cuatro condenados de la sentencia
+    74/2019; no se equipara el archivo provisional a absolución tras juicio.
 tags:
-  - "corrupción"
-  - "prevaricación"
-  - "fraude"
-  - "tráfico de influencias"
-  - "financiación ilegal"
-  - "sanidad"
-  - "obra pública"
-
-impactoSocial: "El caso Son Espases se convirtió en el paradigma de la gestión corrupta del PP en Baleares durante la era Matas, vinculando la corrupción local con la trama de financiación ilegal del PP nacional y los papeles de Bárcenas. Fue una de las aproximadamente quince causas abiertas contra Jaume Matas por su gestión durante 2003-2007."
-
-documentos: null
-
+- contratación pública
+- sanidad
+- prevaricación
+- fraude a la administración
+- tráfico de influencias
+impactoSocial: El caso permite examinar la integridad de la contratación sanitaria y el uso de consultoras
+  en concursos públicos. El volumen de una concesión y las sospechas de comisiones no equivalen a daño probado
+  ni a condena por financiación de partidos.
+documentos:
+- fecha: '2021-10-20'
+  titulo: 'Sentencia 792/2021 del Tribunal Supremo: recurso de Matas en Son Espases (copia judicial difundida
+    por Economist & Jurist)'
+  filetype: pdf
+  paginas: 51
+  nombre_fichero: https://www.economistjurist.es/wp-content/uploads/sites/2/2021/11/sentencia-caso-Son-Espases.pdf
 cronologia:
-  - fecha: 2005-11-01
-    titulo: "Inicio del proceso de licitación del Hospital Son Espases"
-    descripcion: "El Govern balear de Jaume Matas inicia el proceso de licitación del Hospital Son Espases, la mayor obra pública de las Islas Baleares, con un presupuesto inicial de 778,4 millones de euros. Según las investigaciones posteriores, desde este momento Matas comienza a manipular el proceso para favorecer a OHL."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/son-espases-macroinvestigacion-vinculo-baleares-financiacion-ilegal-pp_1_8462323.html"
-
-  - fecha: 2006-03-29
-    titulo: "El PP adquiere su sede de la calle Génova en Madrid"
-    descripcion: "El inmueble de la sede del PP en Madrid (calle Génova) es adquirido mediante compraventa ante notario. Esta adquisición quedará posteriormente vinculada con la investigación de Son Espases por presuntas irregularidades en su financiación con dinero procedente de comisiones ilegales."
-    type: "resumen"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/2015/12/31/170983/investigacion-son-espases-revela-reformo-sede-genova-licencia.html"
-
-  - fecha: 2006-07-21
-    titulo: "Citación de concursantes en sede del Ib-Salut"
-    descripcion: "Se cita por escrito a los cuatro concursantes para la adjudicación del Hospital Son Espases en la sede del Ib-Salut. En ese momento, según la documentación, la oferta de OHL liderada por Villar Mir ganaba ampliamente el concurso. Aina Castillo posteriormente confesaría que Matas le ordenó manipular el proceso para favorecer a OHL."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/son-espases-macroinvestigacion-vinculo-baleares-financiacion-ilegal-pp_1_8462323.html"
-
-  - fecha: 2006-12-01
-    titulo: "Adjudicación final a Dragados pese a presiones de Matas"
-    descripcion: "A pesar de los intentos de manipulación del expresidente Matas para favorecer a OHL, la adjudicación del Hospital Son Espases finalmente recae en la constructora Dragados. Un juez del TSJB, Gabriel Fiol, expresa sus dudas sobre el obscurantismo y las presiones políticas en este concurso, abogando por la suspensión cautelar de las obras."
-    type: "resumen"
-    urls:
-      - "https://www.consalud.es/autonomias/baleares/jaume-matas-y-aina-castillo-condenados-por-el-caso-del-hospital-son-espases_66406_102.html"
-
-  - fecha: 2007-09-27
-    titulo: "TSJB rechaza suspensión de las obras"
-    descripcion: "La sala contenciosa del Tribunal Superior de Justicia de Baleares, con el voto en contra del magistrado Gabriel Fiol, se opone a la paralización de los trabajos del Hospital Son Espases, denegando la suspensión cautelar al considerar que no hay indicios suficientes de irregularidades en el concurso."
-    type: "resumen"
-    urls:
-      - "https://www.eldiario.es/politica/son-espases-macroinvestigacion-vinculo-baleares-financiacion-ilegal-pp_1_8462323.html"
-
-  - fecha: 2009-01-01
-    titulo: "Denuncia del Govern del Pacte de Progrés"
-    descripcion: "El Govern del Pacte de Progrés presenta denuncia ante la Fiscalía contra la consultora Global PM Consultores por, presuntamente, desviar 1,3 millones de euros de fondos públicos en relación con el proceso de adjudicación del Hospital Son Espases."
-    type: "denuncia"
-    urls:
-      - "https://www.eldiario.es/politica/son-espases-macroinvestigacion-vinculo-baleares-financiacion-ilegal-pp_1_8462323.html"
-
-  - fecha: 2013-01-01
-    titulo: "Fiscalía Anticorrupción abre diligencias informativas"
-    descripcion: "La Fiscalía Anticorrupción abre diligencias informativas (investigación no judicial) para aclarar si en la adjudicación de Son Espases se cometieron delitos de prevaricación, fraude a la administración y tráfico de influencias. El fiscal Pedro Horrach lidera la investigación."
-    type: "investigación"
-    urls:
-      - "https://www.eldiario.es/politica/son-espases-macroinvestigacion-vinculo-baleares-financiacion-ilegal-pp_1_8462323.html"
-
-  - fecha: 2015-02-24
-    titulo: "Rodrigo de Santos declara sobre el 3% de comisiones del PP"
-    descripcion: "El exconcejal de Urbanismo de Palma, Rodrigo de Santos, declara ante el juez José Castro que el PP balear, bajo el mandato de Jaume Matas y con la connivencia del partido a nivel nacional, exigía un 3% en comisiones con cada adjudicación pública. Detalla que en el caso de Son Espases, Matas exigió nueve millones de euros tanto a la UTE de OHL como a la de Dragados."
-    type: "declaración"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/2015/02/24/145374/rodrigo-santos-abandona-juzgados-hacer-declaraciones.html"
-      - "https://cronicaglobal.elespanol.com/politica/20150923/el-palma-rodrigo-santos-pp-son-espases/66243378_0.html"
-
-  - fecha: 2015-07-01
-    titulo: "Fiscalía interpone querella ante el juez Castro"
-    descripcion: "El fiscal anticorrupción Pedro Horrach interpone querella ante el Juzgado de Instrucción nº 3 de Palma, dirigido por el juez José Castro, acusando a ocho exresponsables públicos y gestores empresariales del supuesto amaño de la adjudicación de Son Espases. Se atribuyen delitos de prevaricación continuada, falsedad documental y fraude a la administración pública."
-    type: "denuncia"
-    urls:
-      - "https://www.publico.es/politica/castro-cita-imputados-jaume-matas.html"
-
-  - fecha: 2015-09-23
-    titulo: "Jaume Matas y Villar Mir citados como imputados"
-    descripcion: "El juez José Castro cita a declarar como imputados al expresidente balear Jaume Matas y al presidente de la constructora OHL, Juan Miguel Villar Mir, por el supuesto amaño en la adjudicación del Hospital Son Espases. También cita a otros 22 testigos para septiembre."
-    type: "imputación"
-    urls:
-      - "https://www.publico.es/politica/castro-cita-imputados-jaume-matas.html"
-      - "https://www.eleconomista.es/legislacion/noticias/6928827/08/15/Castro-cita-a-declarar-a-22-testigos-en-septiembre-por-el-caso-Son-Espases.html"
-
-  - fecha: 2015-10-13
-    titulo: "Citación del abogado de Matas, Rafael Perera"
-    descripcion: "El juez José Castro reactiva la investigación del caso Son Espases citando como testigo al histórico abogado de Jaume Matas, Rafael Perera, para recabar más información sobre las maniobras del expresidente en la adjudicación del hospital."
-    type: "investigación"
-    urls:
-      - "https://cronicaglobal.elespanol.com/politica/20151013/el-castro-son-espases-matas-rafael-perera/71242877_0.html"
-
-  - fecha: 2015-12-31
-    titulo: "Investigación revela reforma ilegal de sede del PP en Génova"
-    descripcion: "La investigación del caso Son Espases desvela que el PP reformó su sede nacional de la calle Génova sin licencia municipal, ampliando las pesquisas sobre el uso de fondos procedentes de comisiones ilegales para financiar el partido."
-    type: "documento"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/2015/12/31/170983/investigacion-son-espases-revela-reformo-sede-genova-licencia.html"
-
-  - fecha: 2019-06-10
-    titulo: "Inicio del juicio oral contra Matas y otros acusados"
-    descripcion: "Arranca el juicio oral ante la Audiencia Provincial de Baleares contra Jaume Matas, Aina Castillo, Sergio Beltrán y Jesús Peinado por el caso Son Espases. Es el octavo juicio al que se enfrenta Matas. La Fiscalía solicita para el expresidente condenas que suman 4 años y 6 meses de prisión y 16 años de inhabilitación."
-    type: "resumen"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/2019/06/10/1086551/matas-arranca-este-lunes-juicio-por-son-espases-espera-pacto-ultima-hora.html"
-
-  - fecha: 2019-07-10
-    titulo: "Sentencia condenatoria de la Audiencia Provincial de Baleares"
-    descripcion: "La sección primera de la Audiencia Provincial de Baleares condena a Jaume Matas a 10 meses de prisión y 10 años y 2 meses de inhabilitación por tráfico de influencias, prevaricación continuada y fraude a la administración. También condena a Aina Castillo a 8 meses de prisión (sustituidos por multa de 4.800 euros) y 10 años de inhabilitación; a Sergio Beltrán a 12 meses de prisión (sustituidos por multa) y 13 años de inhabilitación; y a Jesús Peinado a 12 meses de prisión (sustituidos por multa) y 10 años de inhabilitación."
-    type: "sentencia"
-    urls:
-      - "https://www.consalud.es/autonomias/baleares/jaume-matas-y-aina-castillo-condenados-por-el-caso-del-hospital-son-espases_66406_102.html"
-      - "https://www.poderjudicial.es/cgpj/en/Judiciary/High-Courts-of-Justice/HCJ-Balearic-Islands/Pressroom/Press-Archive/El-Tribunal-Supremo-confirma-la-condena-por-trafico-de-influencias-al-expresidente-del-Gobierno-balear-por-el-caso--Son-Espases-"
-
-  - fecha: 2021-11-02
-    titulo: "El Tribunal Supremo confirma la condena a Jaume Matas"
-    descripcion: "La Sala II del Tribunal Supremo confirma la sentencia de la Audiencia Provincial de Baleares, ratificando la condena de 10 meses de prisión y 10 años de inhabilitación especial para cargo público contra Jaume Matas por delito de tráfico de influencias, prevaricación continuada y fraude a la administración. El Supremo destaca la presión moral y jerárquica que Matas ejerció sobre sus subordinados. Esta es la última condena confirmada para el expresidente balear."
-    type: "sentencia"
-    urls:
-      - "https://www.ultimahora.es/noticias/local/2021/11/02/1314933/jaume-matas-meses-carcel-por-son-espases.html"
-      - "https://www.elindependiente.com/espana/tribunales/2021/11/02/el-supremo-confirma-la-condena-por-trafico-de-influencias-a-jaume-matas-por-el-caso-son-espases/"
-      - "https://www.infolibre.es/politica/supremo-confirma-condena-diez-meses-carcel-jaume-matas-caso-son-espases_1_1212484.html"
-
+- fecha: '2005-05-30'
+  titulo: Resolución sobre el modelo de concesión
+  descripcion: Los hechos probados reproducidos por el Supremo sitúan en esta fecha la decisión del director
+    del IB-Salut de utilizar la concesión de obra pública para la construcción, explotación y mantenimiento.
+    No se conserva el 1 de noviembre como fecha exacta de inicio.
+  type: resumen
+  urls:
+  - https://www.economistjurist.es/wp-content/uploads/sites/2/2021/11/sentencia-caso-Son-Espases.pdf
+- fecha: '2017-06-29'
+  titulo: Se comunica el archivo provisional para Villar Mir y otros investigados
+  descripcion: El Español informa del sobreseimiento provisional para Villar Mir, José Magán, Fernando Areal
+    y Luis Francisco Piña, mientras el procedimiento continuaba contra cuatro personas. Fecha de difusión,
+    sin auto original obtenido para precisar su fecha y recursos.
+  type: investigacion
+  urls:
+  - https://www.elespanol.com/espana/tribunales/20170629/227477794_0.html
+- fecha: '2019-07-10'
+  titulo: Sentencia de la Audiencia Provincial
+  descripcion: 'Sentencia 74/2019: condenas individualizadas de Matas, Castillo, Beltrán y Peinado por la contratación
+    y las influencias. La resolución fue aclarada posteriormente en cuanto a responsabilidad civil; no se trasladan
+    las condenas de otras causas de Matas.'
+  type: sentencia
+  urls:
+  - https://www.economistjurist.es/wp-content/uploads/sites/2/2021/11/sentencia-caso-Son-Espases.pdf
+- fecha: '2021-10-20'
+  titulo: El Supremo desestima el recurso de Matas
+  descripcion: Sentencia 792/2021, casación 4613/2019. Desestima las objeciones sobre tráfico de influencias
+    y responsabilidad civil. El pie indica que no cabe recurso contra la sentencia. La nota del CGPJ que la
+    difunde está fechada el 2 de noviembre, fecha distinta de la resolución.
+  type: sentencia
+  urls:
+  - https://www.economistjurist.es/wp-content/uploads/sites/2/2021/11/sentencia-caso-Son-Espases.pdf
 ---
+
+La [nota oficial del CGPJ](https://www.poderjudicial.es/cgpj/en/Judiciary/High-Courts-of-Justice/HCJ-Balearic-Islands/Pressroom/Press-Archive/El-Tribunal-Supremo-confirma-la-condena-por-trafico-de-influencias-al-expresidente-del-Gobierno-balear-por-el-caso--Son-Espases-) explica que los otros tres condenados no recurrieron al Supremo. No debe presentarse la casación de Matas como recurso de todos ni equiparar la mención de un empresario o un testigo en el sumario a condena. El [archivo provisional comunicado en 2017](https://www.elespanol.com/espana/tribunales/20170629/227477794_0.html) cambia el estado de Villar Mir, que la versión anterior dejaba como investigado sin desenlace.
+
+El PDF judicial del Supremo permite verificar los nombres completos y las penas sin recurrir a seudónimos. Se ha leído su encabezamiento, diversos pasajes históricos, los pronunciamientos individualizados y civiles, el fundamento tercero y el fallo; no las 51 páginas íntegramente. El documento contiene erratas en algunas referencias al año del auto aclaratorio (incluso «2919»); no se inventa una fecha para conciliarlas. El fundamento primero y el tercero lo identifican como auto de 29 de julio de 2019.
+
+El fundamento tercero aclara que la responsabilidad civil solidaria de los cuatro acusados es de 2.950 euros, con Global PM responsable subsidiaria. Aparte, mantiene la entrega de los 29.500 euros ofrecidos por Matas como reparación del daño, correspondientes al precio de un trabajo que duplicaba servicios previamente contratados. No se suman como daño global ni se sustituyen por los nueve millones de una declaración sobre presuntas comisiones. Tampoco los 778,4 millones del presupuesto de la infraestructura son un perjuicio acreditado.
+
+Las [pesquisas sobre comisiones y financiación](https://www.eldiario.es/politica/son-espases-macroinvestigacion-vinculo-baleares-financiacion-ilegal-pp_1_8462323.html) no consiguieron acreditar la motivación económica que se investigaba. Las menciones de Bárcenas, Pérez o Villar Mir y las declaraciones de Rodrigo de Santos deben conservar su carácter procesal específico. Se retiran las afirmaciones categóricas de financiación ilegal nacional y el rol de Bárcenas como investigado en esta ficha, no revalidado.
+
+Revisión con corte a 17 de octubre de 2026: faltan el auto original de archivo y su seguimiento, el original separado de instancia y aclaración y las resoluciones de ejecución. Se han retirado fechas artificiales de denuncia y diligencias, citas y trámites históricos no contrastados integralmente. La causa aquí identificada es el procedimiento 2579/2015 y el rollo 55/2018; no se atribuyen sus penas a Nóos ni a otras piezas de Palma Arena, ni se certifica el cumplimiento íntegro de las condenas.
