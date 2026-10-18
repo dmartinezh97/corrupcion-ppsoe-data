@@ -53,7 +53,12 @@ tags:
 - paraísos fiscales
 - evasión fiscal
 impactoSocial: La causa examinó la tributación del patrimonio y los servicios profesionales de un antiguo vicepresidente del Gobierno, así como comisiones vinculadas a contratos de publicidad de Bankia. La condena de primera instancia y las absoluciones deben distinguirse de las acusaciones iniciales.
-documentos: []
+documentos:
+- fecha: '2017-05-24'
+  titulo: 'Auto del Juzgado de Instrucción n.º 31 de Madrid: pieza COR Comunicación, diligencias previas 2310/2015'
+  filetype: pdf
+  paginas: 14
+  nombre_fichero: https://ep00.epimg.net/descargables/2017/05/29/fdd0a5dff2351094d8b7a70a2b53aec2.pdf
 cronologia:
 - fecha: '2015-04-16'
   titulo: Registro y detención de Rodrigo Rato
@@ -110,4 +115,4 @@ La [nota oficial del 20 de diciembre de 2024](https://www.poderjudicial.es/cgpj/
 
 La causa de las **tarjetas black** es independiente: la [confirmación de sus cuatro años y medio de prisión por el Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-de-Rodrigo-Rato-a-cuatro-anos-y-medio-de-prision-por-las--tarjetas-black-) se publicó el 3 de octubre de 2018, no el 23 de febrero de 2017. Su firmeza o su ejecución no se trasladan a la condena patrimonial de 2024. También es distinto el proceso por la salida a bolsa de Bankia.
 
-La [presentación del recurso en mayo de 2025](https://rtvc.es/rato-recurre-tribunal-supremo-2-mayo-2025/) y la [información de enero de 2026](https://www.eldiario.es/politica/tribunales-deciden-2026-si-ingresan-carcel-tres-exministros-pp-psoe_1_12879009.html) son los últimos hitos aquí cotejados del recurso. Falta recuperar el original de la sentencia de 2024 y una comprobación primaria completa de la casación y eventual ejecución hasta el **17 de octubre de 2026**. Por ello la revisión permanece incompleta, `fechaFin` vacía y `documentos: []`: las pruebas descargadas se conservan externamente, sin añadir ficheros documentales al repositorio.
+La [presentación del recurso en mayo de 2025](https://rtvc.es/rato-recurre-tribunal-supremo-2-mayo-2025/) y la [información de enero de 2026](https://www.eldiario.es/politica/tribunales-deciden-2026-si-ingresan-carcel-tres-exministros-pp-psoe_1_12879009.html) son los últimos hitos aquí cotejados del recurso. Falta recuperar el original de la sentencia de 2024 y una comprobación primaria completa de la casación y eventual ejecución hasta el **17 de octubre de 2026**. Por ello la revisión permanece incompleta y `fechaFin` vacía. El documento incorporado es únicamente el auto de la pieza COR Comunicación de 2017, no la sentencia de 2024. Se han leído su cabecera y las páginas 13–14, incluido el dispositivo; no se ha leído íntegramente el auto de 14 páginas. El original íntegro de la sentencia de 2024 continúa pendiente.
