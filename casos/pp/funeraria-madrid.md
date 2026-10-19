@@ -1,4 +1,5 @@
 ---
+coste: 63800000
 nombre: "Caso Funeraria Madrid"
 partido: "PP"
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 1500000
 nombre: Caso Ibiza Centre
 partido: PSOE
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 11000000
 nombre: Caso Mercamadrid
 partido: PP
 completado: false

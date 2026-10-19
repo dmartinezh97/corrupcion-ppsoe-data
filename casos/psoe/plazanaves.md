@@ -1,4 +1,5 @@
 ---
+coste: 8710140
 nombre: 'Plaza/Naves: pieza Codesport'
 partido: PSOE
 completado: false

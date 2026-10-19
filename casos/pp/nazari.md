@@ -1,4 +1,5 @@
 ---
+coste: 20000000
 nombre: Caso Nazarí
 partido: PP
 completado: false

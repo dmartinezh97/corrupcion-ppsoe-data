@@ -1,4 +1,5 @@
 ---
+coste: 212941
 nombre: "Subvención PP"
 partido: PP
 completado: false

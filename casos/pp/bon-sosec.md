@@ -1,4 +1,5 @@
 ---
+coste: 6400000
 nombre: Caso Bon Sosec
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 8000000
 nombre: Lezo/Mercasa
 partido: PP
 completado: false

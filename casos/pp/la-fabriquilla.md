@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: La Fabriquilla
 partido: PP
 completado: false

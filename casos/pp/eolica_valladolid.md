@@ -1,4 +1,5 @@
 ---
+coste: 80000000
 nombre: Eólica Valladolid
 partido: PP
 completado: false

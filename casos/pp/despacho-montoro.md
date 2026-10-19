@@ -1,4 +1,5 @@
 ---
+coste: 91000
 nombre: Caso Despacho Montoro
 partido: PP
 completado: false

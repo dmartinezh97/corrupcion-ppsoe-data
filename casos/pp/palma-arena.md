@@ -1,4 +1,5 @@
 ---
+coste: 60000000
 nombre: Palma Arena
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 540000
 nombre: Caso Gondomar
 partido: PP
 completado: false

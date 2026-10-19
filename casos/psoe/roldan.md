@@ -1,4 +1,5 @@
 ---
+coste: 13600000
 nombre: Roldán
 partido: PSOE
 completado: false

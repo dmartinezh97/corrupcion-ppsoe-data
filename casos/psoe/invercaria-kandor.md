@@ -1,4 +1,5 @@
 ---
+coste: 1734485
 nombre: Caso Invercaria/Kandor
 partido: PSOE
 completado: false

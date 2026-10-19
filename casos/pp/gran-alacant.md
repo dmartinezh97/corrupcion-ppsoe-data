@@ -1,4 +1,5 @@
 ---
+coste: 109371
 nombre: "Gran Alacant"
 partido: "PP"
 completado: false

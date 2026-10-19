@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Otura
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 700000
 nombre: Caso Aceinsa II
 partido: PP
 completado: false

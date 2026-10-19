@@ -1,4 +1,5 @@
 ---
+coste: 45000
 nombre: Caso Navajas
 partido: PP
 completado: false

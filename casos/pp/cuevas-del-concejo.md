@@ -1,4 +1,5 @@
 ---
+coste: 30000000
 nombre: Cuevas del Concejo
 partido: PP
 completado: false

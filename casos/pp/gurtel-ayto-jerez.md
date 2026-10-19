@@ -1,4 +1,5 @@
 ---
+coste: 355391
 nombre: Gürtel/Ayto. de Jerez
 partido: PP
 completado: false

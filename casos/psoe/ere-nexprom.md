@@ -1,4 +1,5 @@
 ---
+coste: 8300000
 nombre: Caso ERE / Nexprom
 partido: PSOE
 completado: false

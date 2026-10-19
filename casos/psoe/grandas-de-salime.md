@@ -1,4 +1,5 @@
 ---
+coste: 60000
 nombre: 'Caso Grandas de Salime: maquinaria de la patata y gestión municipal'
 partido: PSOE
 completado: false

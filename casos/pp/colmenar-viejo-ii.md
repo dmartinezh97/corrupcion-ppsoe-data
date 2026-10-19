@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Colmenar Viejo II
 partido: PP
 completado: false

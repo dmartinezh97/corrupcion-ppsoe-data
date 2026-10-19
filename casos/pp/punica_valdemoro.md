@@ -1,4 +1,5 @@
 ---
+coste: 769800000
 nombre: Caso Púnica/Valdemoro
 partido: PP
 completado: false

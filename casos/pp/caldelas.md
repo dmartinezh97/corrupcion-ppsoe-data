@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caldelas
 partido: PP
 completado: false

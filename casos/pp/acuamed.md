@@ -1,4 +1,5 @@
 ---
+coste: 20000000
 nombre: Acuamed
 partido: PP
 completado: false

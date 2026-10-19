@@ -1,4 +1,5 @@
 ---
+coste: 122000
 nombre: Caso Troya
 partido: PP
 completado: false

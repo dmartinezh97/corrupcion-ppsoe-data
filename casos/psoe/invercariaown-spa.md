@@ -1,4 +1,5 @@
 ---
+coste: 304044
 nombre: "Invercaria/Own Spa"
 partido: PSOE
 completado: false

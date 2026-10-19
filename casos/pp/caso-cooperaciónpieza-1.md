@@ -1,4 +1,5 @@
 ---
+coste: 1600000
 nombre: Caso Cooperación — pieza 1
 partido: PP
 completado: false

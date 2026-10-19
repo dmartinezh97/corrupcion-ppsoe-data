@@ -1,4 +1,5 @@
 ---
+coste: 235000000
 nombre: Caso Fondos Jeremie
 partido: PSOE
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 3200000
 nombre: ERE / Aglomerados Morell
 partido: PSOE
 completado: false

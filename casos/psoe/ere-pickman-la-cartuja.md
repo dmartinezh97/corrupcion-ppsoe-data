@@ -1,4 +1,5 @@
 ---
+coste: 10168914
 nombre: ERE de Pickman La Cartuja
 partido: PSOE
 completado: false

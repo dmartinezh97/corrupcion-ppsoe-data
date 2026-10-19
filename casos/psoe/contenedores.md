@@ -1,4 +1,5 @@
 ---
+coste: 175000
 nombre: Caso Contenedores de Carboneras
 partido: PSOE
 completado: false

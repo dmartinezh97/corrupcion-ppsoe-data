@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: "Caso Aljaraque"
 partido: PSOE
 completado: false

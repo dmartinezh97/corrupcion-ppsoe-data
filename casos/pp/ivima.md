@@ -1,4 +1,5 @@
 ---
+coste: 98000000
 nombre: Caso IVIMA
 partido: PP
 completado: false

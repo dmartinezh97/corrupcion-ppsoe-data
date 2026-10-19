@@ -1,4 +1,5 @@
 ---
+coste: 358644
 nombre: Suma Chiva
 partido: PP
 completado: false

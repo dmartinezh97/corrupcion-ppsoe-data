@@ -1,4 +1,5 @@
 ---
+coste: 52200000
 nombre: Caso Bajo Guadalquivir
 partido: PSOE
 completado: false

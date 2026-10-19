@@ -1,4 +1,5 @@
 ---
+coste: 100660000
 nombre: ERE de Santana Motor y procedimientos relacionados
 partido: PSOE
 completado: false

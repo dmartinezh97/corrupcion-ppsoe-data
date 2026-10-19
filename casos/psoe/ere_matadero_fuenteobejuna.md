@@ -1,4 +1,5 @@
 ---
+coste: 2528258
 nombre: ERE / Matadero de Fuente Obejuna
 partido: PSOE
 completado: false

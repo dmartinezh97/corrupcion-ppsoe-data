@@ -1,4 +1,5 @@
 ---
+coste: 19700000
 nombre: ERE / González Byass
 partido: PSOE
 completado: false

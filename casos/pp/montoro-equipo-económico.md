@@ -1,4 +1,5 @@
 ---
+coste: 35500000
 nombre: Caso Montoro - Equipo Económico
 partido: PP
 completado: false

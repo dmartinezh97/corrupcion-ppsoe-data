@@ -1,4 +1,5 @@
 ---
+coste: 8500000
 nombre: "Caso Rato: origen de su fortuna"
 partido: PP
 completado: false

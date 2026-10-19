@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: "Caso Miraflores"
 partido: PSOE
 completado: false

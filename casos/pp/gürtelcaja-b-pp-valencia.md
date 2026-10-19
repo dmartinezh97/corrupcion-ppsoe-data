@@ -1,4 +1,5 @@
 ---
+coste: 3400000
 nombre: Gürtel/Caja B PP Valencia
 partido: PP
 completado: false

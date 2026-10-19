@@ -1,4 +1,5 @@
 ---
+coste: 30000000
 nombre: Gürtel — Primera época
 partido: PP
 completado: false

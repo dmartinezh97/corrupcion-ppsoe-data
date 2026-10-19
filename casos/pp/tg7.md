@@ -1,4 +1,5 @@
 ---
+coste: 864121
 nombre: Caso TG7
 partido: PP
 completado: false

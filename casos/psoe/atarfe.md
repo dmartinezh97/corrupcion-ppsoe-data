@@ -1,4 +1,5 @@
 ---
+coste: 18000000
 nombre: "Caso Atarfe"
 partido: PSOE
 completado: false

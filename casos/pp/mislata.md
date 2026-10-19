@@ -1,4 +1,5 @@
 ---
+coste: 168830
 nombre: Mislata
 partido: PP
 completado: false

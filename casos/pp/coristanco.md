@@ -1,4 +1,5 @@
 ---
+coste: 2368234.89
 nombre: "Coristanco"
 partido: PP
 completado: false

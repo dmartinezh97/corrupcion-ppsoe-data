@@ -1,4 +1,5 @@
 ---
+coste: 17410
 nombre: "Caso Clepsidra"
 partido: PP
 completado: false

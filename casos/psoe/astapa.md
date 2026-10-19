@@ -1,4 +1,5 @@
 ---
+coste: 28000000
 estadoPrincipal: Resultados mixtos
 recursoPendiente: En casación
 firmeza: Parcial

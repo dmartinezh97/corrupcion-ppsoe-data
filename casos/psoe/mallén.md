@@ -1,4 +1,5 @@
 ---
+coste: 811512
 nombre: Caso Mallén
 partido: PSOE
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 50000
 nombre: Bolsos y pieza A del caso Taula
 partido: PP
 completado: false

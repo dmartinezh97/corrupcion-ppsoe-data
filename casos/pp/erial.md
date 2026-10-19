@@ -1,4 +1,5 @@
 ---
+coste: 10000000
 nombre: "Caso Erial"
 partido: "PP"
 completado: false

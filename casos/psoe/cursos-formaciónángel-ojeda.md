@@ -1,4 +1,5 @@
 ---
+coste: 33000000
 nombre: Cursos Formación/Ángel Ojeda
 partido: PSOE
 completado: false

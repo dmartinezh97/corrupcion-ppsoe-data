@@ -1,4 +1,5 @@
 ---
+coste: 2220000
 nombre: Caso Invercaria/Keepfresh
 partido: PSOE
 completado: false

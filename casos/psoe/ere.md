@@ -1,4 +1,5 @@
 ---
+coste: 679430000
 nombre: ERE de Andalucía
 partido: PSOE
 completado: false

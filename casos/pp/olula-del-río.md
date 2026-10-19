@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Olula del Río
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 7000000
 nombre: Caso Azud
 partido: PP
 completado: false

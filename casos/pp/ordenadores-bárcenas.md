@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Ordenadores Bárcenas
 partido: PP
 completado: false

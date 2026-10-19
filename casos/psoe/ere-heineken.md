@@ -1,4 +1,5 @@
 ---
+coste: 16399999
 nombre: ERE/Heineken España
 partido: PSOE
 completado: false

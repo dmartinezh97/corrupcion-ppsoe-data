@@ -1,4 +1,5 @@
 ---
+coste: 449164
 nombre: 'Caso Mercasevilla: guardería'
 partido: PSOE
 completado: false

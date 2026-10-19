@@ -1,4 +1,5 @@
 ---
+coste: 23500000
 nombre: "Caso Depuradora Pinedo (Emarsa)"
 partido: PP
 completado: false

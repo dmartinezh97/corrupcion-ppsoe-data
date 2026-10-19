@@ -1,4 +1,5 @@
 ---
+coste: 77300000
 nombre: "Caso Ambulancias"
 partido: PP
 completado: false

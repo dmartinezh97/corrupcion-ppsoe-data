@@ -1,4 +1,5 @@
 ---
+coste: 6600000
 nombre: Caso Fitonovo
 partido: PP
 completado: false

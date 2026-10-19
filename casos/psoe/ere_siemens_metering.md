@@ -1,4 +1,5 @@
 ---
+coste: 1670000
 nombre: ERE/Siemens Metering
 partido: PSOE
 completado: false

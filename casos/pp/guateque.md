@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Guateque
 partido: PP
 completado: false

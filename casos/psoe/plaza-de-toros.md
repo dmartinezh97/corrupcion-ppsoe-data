@@ -1,4 +1,5 @@
 ---
+coste: 249630
 nombre: Caso Plaza de Toros de Calasparra
 partido: PSOE
 completado: false

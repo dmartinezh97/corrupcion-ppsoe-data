@@ -1,4 +1,5 @@
 ---
+coste: 129
 nombre: Caso Rasputín
 partido: PP
 completado: false

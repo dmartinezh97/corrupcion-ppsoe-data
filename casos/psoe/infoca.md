@@ -1,4 +1,5 @@
 ---
+coste: 277000000
 nombre: 'Infoca: investigación andaluza del cártel del fuego'
 partido: PSOE
 completado: false

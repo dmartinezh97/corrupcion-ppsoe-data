@@ -1,4 +1,5 @@
 ---
+coste: 296072
 nombre: "Caso Góngora"
 partido: "PP"
 completado: false

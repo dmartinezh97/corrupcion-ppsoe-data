@@ -1,4 +1,5 @@
 ---
+coste: 4337745
 nombre: Invercaria/EDM
 partido: PSOE
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Arena
 partido: PP
 completado: false

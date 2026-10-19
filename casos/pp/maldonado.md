@@ -1,4 +1,5 @@
 ---
+coste: 321350
 nombre: "Caso Maldonado"
 partido: PP
 completado: false

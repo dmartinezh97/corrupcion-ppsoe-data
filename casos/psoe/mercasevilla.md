@@ -1,4 +1,5 @@
 ---
+coste: 449164
 nombre: Mercasevilla
 partido: PSOE
 completado: false

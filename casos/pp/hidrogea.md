@@ -1,4 +1,5 @@
 ---
+coste: 45000000
 nombre: Caso Hidrogea - Cartagena
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 100000000
 nombre: Caso Gürtel - Boadilla del Monte
 partido: PP
 completado: false

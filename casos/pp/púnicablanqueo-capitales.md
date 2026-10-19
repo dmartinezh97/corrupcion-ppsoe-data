@@ -1,4 +1,5 @@
 ---
+coste: 250000000
 nombre: Púnica/Blanqueo capitales
 partido: PP
 completado: false

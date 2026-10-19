@@ -1,4 +1,5 @@
 ---
+coste: 4300000
 nombre: "Caso Campeón"
 partido: PP
 completado: false

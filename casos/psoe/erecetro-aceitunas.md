@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: ERE de Cetro Aceitunas
 partido: PSOE
 completado: false

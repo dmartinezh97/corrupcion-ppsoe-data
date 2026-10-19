@@ -1,4 +1,5 @@
 ---
+coste: 1101000
 nombre: Caso Pulpo
 partido: PSOE
 completado: false

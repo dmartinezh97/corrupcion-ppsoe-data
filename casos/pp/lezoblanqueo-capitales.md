@@ -1,4 +1,5 @@
 ---
+coste: 23300000
 nombre: Lezo/Blanqueo capitales
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 2000000
 nombre: Caso Góndola
 partido: PP
 completado: false

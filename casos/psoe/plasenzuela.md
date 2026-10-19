@@ -1,4 +1,5 @@
 ---
+coste: 2200000
 nombre: Plasenzuela
 partido: PSOE
 completado: false

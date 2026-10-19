@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Vilariño
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: ERE / Peninsular del Latón
 partido: PSOE
 completado: false

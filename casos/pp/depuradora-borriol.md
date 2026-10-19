@@ -1,4 +1,5 @@
 ---
+coste: 51000
 nombre: "Depuradora Borriol"
 partido: PP
 completado: false

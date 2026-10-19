@@ -1,4 +1,5 @@
 ---
+coste: 90000
 nombre: "Caso Sogiese"
 partido: PSOE
 completado: false

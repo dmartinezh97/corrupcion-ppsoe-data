@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: "Colmenar Viejo"
 partido: PP
 completado: false

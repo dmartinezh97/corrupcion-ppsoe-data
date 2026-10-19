@@ -1,4 +1,5 @@
 ---
+coste: 30000000
 nombre: Caso Osvaldos
 partido: PP
 completado: false

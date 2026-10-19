@@ -1,4 +1,5 @@
 ---
+coste: 4170000
 nombre: Caso Barraca
 partido: PP
 completado: false

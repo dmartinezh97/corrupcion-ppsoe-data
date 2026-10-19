@@ -1,4 +1,5 @@
 ---
+coste: 841000
 nombre: Caso Isjoma
 partido: PP
 completado: false

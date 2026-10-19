@@ -1,4 +1,5 @@
 ---
+coste: 335695
 nombre: "Caso Emucesa"
 partido: PP
 completado: false

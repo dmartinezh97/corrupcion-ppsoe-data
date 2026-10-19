@@ -1,4 +1,5 @@
 ---
+coste: 3192855
 nombre: Cursos de formación — CIOMijas
 partido: PSOE
 completado: false

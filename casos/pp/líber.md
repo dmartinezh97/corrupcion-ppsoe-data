@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Líber
 partido: PP
 completado: false

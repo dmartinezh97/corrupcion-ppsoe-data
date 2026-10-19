@@ -1,4 +1,5 @@
 ---
+coste: 5500000
 nombre: Caso Valley
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Faycán
 partido: PP
 completado: false

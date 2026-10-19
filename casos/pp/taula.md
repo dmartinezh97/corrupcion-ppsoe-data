@@ -1,4 +1,5 @@
 ---
+coste: 1300000000
 nombre: Caso Taula
 partido: PP
 completado: false

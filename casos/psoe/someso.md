@@ -1,4 +1,5 @@
 ---
+coste: 40000000
 nombre: Caso Someso
 partido: PSOE
 completado: false

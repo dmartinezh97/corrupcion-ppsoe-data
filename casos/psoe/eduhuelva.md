@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Edu/Huelva
 partido: PSOE
 completado: false

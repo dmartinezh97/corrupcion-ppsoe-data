@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: GAL
 partido: PSOE
 completado: false

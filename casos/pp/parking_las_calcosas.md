@@ -1,4 +1,5 @@
 ---
+coste: 365414
 nombre: Caso Parking Las Calcosas
 partido: PP
 completado: false

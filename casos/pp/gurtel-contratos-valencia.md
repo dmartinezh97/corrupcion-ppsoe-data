@@ -1,4 +1,5 @@
 ---
+coste: 30000000
 nombre: Caso Gürtel - Contratos de la Generalitat Valenciana (pieza 5ª)
 partido: PP
 completado: false

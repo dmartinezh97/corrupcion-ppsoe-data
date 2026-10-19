@@ -1,4 +1,5 @@
 ---
+coste: 32200
 nombre: Caso Púnica/Murcia
 partido: PP
 completado: false

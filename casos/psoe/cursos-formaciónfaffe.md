@@ -1,4 +1,5 @@
 ---
+coste: 9460000
 nombre: Caso FAFFE
 partido: PSOE
 completado: false

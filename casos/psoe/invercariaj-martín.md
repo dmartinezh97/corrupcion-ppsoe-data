@@ -1,4 +1,5 @@
 ---
+coste: 850000
 estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar

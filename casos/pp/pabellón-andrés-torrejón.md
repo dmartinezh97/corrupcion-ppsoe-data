@@ -1,4 +1,5 @@
 ---
+coste: 4200000
 nombre: Pabellón Andrés Torrejón
 partido: PP
 completado: false

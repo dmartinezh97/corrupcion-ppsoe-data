@@ -1,4 +1,5 @@
 ---
+coste: 1700000
 nombre: "Caso Asesorías"
 partido: PP
 completado: false

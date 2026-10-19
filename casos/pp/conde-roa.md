@@ -1,4 +1,5 @@
 ---
+coste: 291289.43
 nombre: Caso Conde Roa
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 600000
 nombre: Caso Bomsai
 partido: PP
 completado: false

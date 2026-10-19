@@ -1,4 +1,5 @@
 ---
+coste: 21600000
 nombre: ERE/Egmasa
 partido: PSOE
 completado: false

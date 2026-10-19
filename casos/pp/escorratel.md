@@ -1,4 +1,5 @@
 ---
+coste: 34380
 nombre: "Escorratel"
 partido: PP
 completado: false

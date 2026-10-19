@@ -1,4 +1,5 @@
 ---
+coste: 73330000
 nombre: Caso de los avales de IDEA
 partido: PSOE
 completado: false

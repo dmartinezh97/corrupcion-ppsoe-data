@@ -1,4 +1,5 @@
 ---
+coste: 4600000
 nombre: Caso Urralburu
 partido: PSOE
 completado: false

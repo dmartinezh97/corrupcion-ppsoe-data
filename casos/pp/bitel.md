@@ -1,4 +1,5 @@
 ---
+coste: 700000
 nombre: Caso Bitel
 partido: PP
 completado: false

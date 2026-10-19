@@ -1,4 +1,5 @@
 ---
+coste: 180000
 nombre: Caso Aller — subvenciones del polideportivo
 partido: PSOE
 completado: false

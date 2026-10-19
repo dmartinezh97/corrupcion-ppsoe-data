@@ -1,4 +1,5 @@
 ---
+coste: 11500000
 nombre: Caso CIBIC
 partido: PSOE
 completado: false

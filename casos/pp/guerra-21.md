@@ -1,4 +1,5 @@
 ---
+coste: 800000
 nombre: Guerra 21
 partido: PP
 completado: false

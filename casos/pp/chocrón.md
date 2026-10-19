@@ -1,4 +1,5 @@
 ---
+coste: 70000
 nombre: Caso Chocrón
 partido: PP
 completado: false

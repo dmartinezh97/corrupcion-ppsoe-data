@@ -1,4 +1,5 @@
 ---
+coste: 4800000
 nombre: Cursos Formación/CTI
 partido: PSOE
 completado: false

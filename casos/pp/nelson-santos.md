@@ -1,4 +1,5 @@
 ---
+coste: 1600000
 nombre: Nelson Santos
 partido: PP
 completado: false

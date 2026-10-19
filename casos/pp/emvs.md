@@ -1,4 +1,5 @@
 ---
+coste: 25752103.63
 nombre: "Caso EMVS"
 partido: PP
 completado: false

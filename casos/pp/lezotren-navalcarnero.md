@@ -1,4 +1,5 @@
 ---
+coste: 1800000
 nombre: Lezo/Tren Navalcarnero
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 700000000
 nombre: Caso ERE - Sobrecomisiones de Seguros
 partido: PSOE
 completado: false

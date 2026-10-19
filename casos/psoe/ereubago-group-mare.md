@@ -1,4 +1,5 @@
 ---
+coste: 2300000
 nombre: Ayudas de los ERE a Ubago Group Mare
 partido: PSOE
 completado: false

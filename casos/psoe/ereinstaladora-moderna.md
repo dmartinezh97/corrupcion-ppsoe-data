@@ -1,4 +1,5 @@
 ---
+coste: 584486
 nombre: ERE de Instaladora Moderna de Electricidad
 partido: PSOE
 completado: false

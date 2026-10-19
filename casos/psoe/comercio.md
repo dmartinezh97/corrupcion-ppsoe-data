@@ -1,4 +1,5 @@
 ---
+coste: 189762
 nombre: Caso Comercio
 partido: PSOE
 completado: false

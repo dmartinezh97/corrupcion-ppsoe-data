@@ -1,4 +1,5 @@
 ---
+coste: 250000000
 nombre: Púnica / Contratos públicos
 partido: PP
 completado: false

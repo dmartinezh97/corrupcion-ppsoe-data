@@ -1,4 +1,5 @@
 ---
+coste: 2000000
 nombre: Caso Gürtel - Pieza Fitur
 partido: PP
 completado: false

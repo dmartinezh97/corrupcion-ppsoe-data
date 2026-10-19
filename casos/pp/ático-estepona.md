@@ -1,4 +1,5 @@
 ---
+coste: 770000
 nombre: Ático Estepona
 partido: PP
 completado: false

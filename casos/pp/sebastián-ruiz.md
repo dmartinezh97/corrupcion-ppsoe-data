@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Sebastián Ruiz
 partido: PP
 completado: false

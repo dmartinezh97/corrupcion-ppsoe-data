@@ -1,4 +1,5 @@
 ---
+coste: 100000
 nombre: Caso Media Maratón de Santa Pola
 partido: PSOE
 completado: false

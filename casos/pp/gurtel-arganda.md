@@ -1,4 +1,5 @@
 ---
+coste: 25000000
 nombre: "Caso Gürtel - Pieza Arganda"
 partido: PP
 completado: false

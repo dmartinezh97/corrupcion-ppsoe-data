@@ -1,4 +1,5 @@
 ---
+coste: 5000000
 nombre: Lezo/Canal Golf
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 8000
 nombre: Caso Santa Cruz de Paniagua
 partido: PSOE
 completado: false

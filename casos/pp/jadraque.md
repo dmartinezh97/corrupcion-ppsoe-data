@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: 'Jadraque: suministro municipal de gasóleo'
 partido: PP
 completado: false

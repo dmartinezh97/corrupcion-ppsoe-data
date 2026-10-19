@@ -1,4 +1,5 @@
 ---
+coste: 180000
 nombre: Caso Pardellas
 partido: PP
 completado: false

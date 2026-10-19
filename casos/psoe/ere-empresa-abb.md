@@ -1,4 +1,5 @@
 ---
+coste: 77942
 nombre: ERE — ayudas al Grupo ABB
 partido: PSOE
 completado: false

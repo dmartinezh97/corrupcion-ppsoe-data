@@ -1,4 +1,5 @@
 ---
+coste: 11500000
 nombre: Papeles de Bárcenas
 partido: PP
 completado: false

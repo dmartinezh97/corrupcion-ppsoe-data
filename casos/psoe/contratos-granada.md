@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Contratos Granada
 partido: PSOE
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Salmón
 partido: PP
 completado: false

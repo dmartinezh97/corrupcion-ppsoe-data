@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: ERE/Hotel Cervantes
 partido: PSOE
 completado: false

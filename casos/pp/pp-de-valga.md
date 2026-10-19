@@ -1,4 +1,5 @@
 ---
+coste: 500000
 nombre: PP de Valga
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 871467
 nombre: Caso ERE / Ayuntamiento de San Nicolás del Puerto
 partido: PSOE
 completado: false

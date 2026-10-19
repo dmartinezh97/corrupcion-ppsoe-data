@@ -1,4 +1,5 @@
 ---
+coste: 300000
 nombre: Caso Túnel de Sóller
 partido: PP
 completado: false

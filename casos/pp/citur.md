@@ -1,4 +1,5 @@
 ---
+coste: 522000
 nombre: "Caso Citur"
 partido: PP
 completado: false

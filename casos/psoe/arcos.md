@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: 'Caso Arcos: oposición municipal'
 partido: PSOE
 completado: false

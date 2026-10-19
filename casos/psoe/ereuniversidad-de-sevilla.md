@@ -1,4 +1,5 @@
 ---
+coste: 30000
 nombre: ERE / Universidad de Sevilla
 partido: PSOE
 completado: false

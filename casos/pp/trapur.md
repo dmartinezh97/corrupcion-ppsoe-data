@@ -1,4 +1,5 @@
 ---
+coste: 579013
 nombre: Caso Trapur
 partido: PP
 completado: false

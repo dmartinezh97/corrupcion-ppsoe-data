@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Cerrú
 partido: PSOE
 completado: false

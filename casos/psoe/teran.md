@@ -1,4 +1,5 @@
 ---
+coste: 56000
 nombre: Caso Terán
 partido: PSOE
 completado: false

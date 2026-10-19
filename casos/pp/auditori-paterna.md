@@ -1,4 +1,5 @@
 ---
+coste: 529506.19
 nombre: Auditori Paterna
 partido: PP
 completado: false

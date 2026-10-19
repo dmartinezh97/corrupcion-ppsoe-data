@@ -1,4 +1,5 @@
 ---
+coste: 124000
 nombre: El Carabassí
 partido: PP
 completado: false

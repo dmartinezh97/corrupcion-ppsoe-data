@@ -1,4 +1,5 @@
 ---
+coste: 6400000
 nombre: ERE de Yogures Andaluces (Yogan)
 partido: PSOE
 completado: false

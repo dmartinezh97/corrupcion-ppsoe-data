@@ -1,4 +1,5 @@
 ---
+coste: 35950000
 nombre: ERE/A-Novo
 partido: PSOE
 completado: false

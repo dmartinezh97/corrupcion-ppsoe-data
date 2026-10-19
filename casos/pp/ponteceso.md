@@ -1,4 +1,5 @@
 ---
+coste: 450000
 nombre: Ponteceso
 partido: PP
 completado: false

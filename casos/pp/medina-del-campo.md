@@ -1,4 +1,5 @@
 ---
+coste: 324531
 nombre: Medina del Campo (caso Rotonda)
 partido: PP
 completado: false

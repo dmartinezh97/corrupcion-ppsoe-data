@@ -1,4 +1,5 @@
 ---
+coste: 114754
 nombre: Zahorras
 partido: PP
 completado: false

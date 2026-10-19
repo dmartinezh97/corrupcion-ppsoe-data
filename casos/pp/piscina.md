@@ -1,4 +1,5 @@
 ---
+coste: 143642
 nombre: "Caso Piscina"
 partido: "PP"
 completado: false

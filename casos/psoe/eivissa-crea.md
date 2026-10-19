@@ -1,4 +1,5 @@
 ---
+coste: 566000
 nombre: Caso Eivissa Crea
 partido: PSOE
 completado: false

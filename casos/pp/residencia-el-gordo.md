@@ -1,4 +1,5 @@
 ---
+coste: 820000
 nombre: Residencia El Gordo
 partido: PP
 completado: false

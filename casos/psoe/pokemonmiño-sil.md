@@ -1,4 +1,5 @@
 ---
+coste: 3000000
 nombre: Pokémon / Miño-Sil
 partido: PSOE
 completado: false

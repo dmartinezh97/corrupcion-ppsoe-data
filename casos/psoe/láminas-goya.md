@@ -1,4 +1,5 @@
 ---
+coste: 3250
 nombre: Caso Láminas de Goya
 partido: PSOE
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 311000000
 nombre: Caso Umbra
 partido: PP
 completado: false

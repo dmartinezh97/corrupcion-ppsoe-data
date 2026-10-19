@@ -1,4 +1,5 @@
 ---
+coste: 4310628
 nombre: Plaza/Kartódromo
 partido: PSOE
 completado: false

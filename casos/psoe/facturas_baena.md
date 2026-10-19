@@ -1,4 +1,5 @@
 ---
+coste: 38000
 nombre: Caso Facturas Baena
 partido: PSOE
 completado: false

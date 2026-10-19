@@ -1,4 +1,5 @@
 ---
+coste: 2000000
 nombre: Púnica/Eico y Madiva
 partido: PP
 completado: false

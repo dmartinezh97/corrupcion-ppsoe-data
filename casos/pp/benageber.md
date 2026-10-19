@@ -1,4 +1,5 @@
 ---
+coste: 300000
 nombre: Caso Benagéber
 partido: PP
 completado: false

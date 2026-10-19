@@ -1,4 +1,5 @@
 ---
+coste: 5000000
 nombre: Caso Teatro de Cehegín
 partido: PP
 completado: false

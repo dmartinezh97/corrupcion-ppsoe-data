@@ -1,4 +1,5 @@
 ---
+coste: 8000000
 nombre: Fraude fiscal de Rodrigo Rato
 partido: PP
 completado: false

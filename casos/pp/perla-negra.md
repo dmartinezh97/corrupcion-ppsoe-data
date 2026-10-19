@@ -1,4 +1,5 @@
 ---
+coste: 38000000
 nombre: Caso Perla Negra
 partido: PP
 completado: false

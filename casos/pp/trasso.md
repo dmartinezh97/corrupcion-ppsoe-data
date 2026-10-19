@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Operación Trasso
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 399802
 nombre: ERE/Intesur
 partido: PSOE
 completado: false

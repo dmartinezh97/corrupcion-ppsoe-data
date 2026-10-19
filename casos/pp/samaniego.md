@@ -1,4 +1,5 @@
 ---
+coste: 2464647
 nombre: Caso Samaniego
 partido: PP
 completado: false

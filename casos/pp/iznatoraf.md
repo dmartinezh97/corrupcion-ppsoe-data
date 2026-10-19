@@ -1,4 +1,5 @@
 ---
+coste: 72000
 nombre: Caso Iznatoraf
 partido: PP
 completado: false

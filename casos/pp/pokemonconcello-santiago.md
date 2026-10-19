@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Pokémon / Concello de Santiago
 partido: PP
 completado: false

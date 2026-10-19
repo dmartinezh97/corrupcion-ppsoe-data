@@ -1,4 +1,5 @@
 ---
+coste: 146140
 nombre: Plaold
 partido: PSOE
 completado: false

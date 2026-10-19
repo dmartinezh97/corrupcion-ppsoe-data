@@ -1,4 +1,5 @@
 ---
+coste: 1530000
 nombre: ERE/Río Grande
 partido: PSOE
 completado: false

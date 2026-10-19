@@ -1,4 +1,5 @@
 ---
+coste: 16311
 nombre: Caso Lan Party
 partido: PSOE
 completado: false

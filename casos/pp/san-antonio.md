@@ -1,4 +1,5 @@
 ---
+coste: 393000
 nombre: San Antonio
 partido: PP
 completado: false

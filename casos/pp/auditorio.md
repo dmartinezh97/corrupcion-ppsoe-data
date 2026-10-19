@@ -1,4 +1,5 @@
 ---
+coste: 6000000
 nombre: "Caso Auditorio Puerto Lumbreras"
 partido: PP
 completado: false

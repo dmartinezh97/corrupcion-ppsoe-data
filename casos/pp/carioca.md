@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Carioca
 partido: PP
 completado: false

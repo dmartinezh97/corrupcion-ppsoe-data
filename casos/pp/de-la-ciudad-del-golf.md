@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso de la Ciudad del Golf
 partido: PP
 completado: false

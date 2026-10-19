@@ -1,4 +1,5 @@
 ---
+coste: 75000000
 nombre: "Trama Eólica de Castilla y León"
 partido: "PP"
 completado: false

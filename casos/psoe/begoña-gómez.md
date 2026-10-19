@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Begoña Gómez
 partido: PSOE
 completado: false

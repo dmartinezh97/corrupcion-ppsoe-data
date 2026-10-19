@@ -1,4 +1,5 @@
 ---
+coste: 4290000
 nombre: ERE/Mac Puar-TAMC
 partido: PSOE
 completado: false

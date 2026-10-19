@@ -1,4 +1,5 @@
 ---
+coste: 7000000
 nombre: Caso Biblioteca
 partido: PP
 completado: false

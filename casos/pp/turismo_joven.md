@@ -1,4 +1,5 @@
 ---
+coste: 3000000
 nombre: Caso Turismo Joven
 partido: PP
 completado: false

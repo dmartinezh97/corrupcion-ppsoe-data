@@ -1,4 +1,5 @@
 ---
+coste: 355000000
 nombre: "Campus de la Justicia"
 partido: PP
 completado: false

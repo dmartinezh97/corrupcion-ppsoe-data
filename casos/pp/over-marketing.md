@@ -1,4 +1,5 @@
 ---
+coste: 60000000
 nombre: Caso Over Marketing
 partido: PP
 completado: false

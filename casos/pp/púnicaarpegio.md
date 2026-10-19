@@ -1,4 +1,5 @@
 ---
+coste: 15000000
 nombre: Púnica / Arpegio y Mintra
 partido: PP
 completado: false

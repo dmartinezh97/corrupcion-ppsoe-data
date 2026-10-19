@@ -1,4 +1,5 @@
 ---
+coste: 478000000
 nombre: Palau de les Arts
 partido: PP
 completado: false

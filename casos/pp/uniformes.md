@@ -1,4 +1,5 @@
 ---
+coste: 816267
 nombre: Caso Uniformes
 partido: PP
 completado: false

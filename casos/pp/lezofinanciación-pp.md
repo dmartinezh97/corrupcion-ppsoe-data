@@ -1,4 +1,5 @@
 ---
+coste: 10000000
 nombre: Lezo/Financiación PP
 partido: PP
 completado: false

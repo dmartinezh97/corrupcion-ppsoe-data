@@ -1,4 +1,5 @@
 ---
+coste: 50787
 nombre: CASO INESTUR/CONTRATOS
 partido: UM
 completado: false

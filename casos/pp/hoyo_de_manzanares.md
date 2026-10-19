@@ -1,4 +1,5 @@
 ---
+coste: 4720000
 nombre: Caso Hoyo de Manzanares
 partido: PP
 completado: false

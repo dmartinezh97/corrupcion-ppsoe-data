@@ -1,4 +1,5 @@
 ---
+coste: 20000000
 nombre: Caso Novo Carthago
 partido: PP
 completado: false

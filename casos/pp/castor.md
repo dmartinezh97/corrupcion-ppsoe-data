@@ -1,4 +1,5 @@
 ---
+coste: 1350000000
 nombre: Caso Castor
 partido: PP
 completado: false

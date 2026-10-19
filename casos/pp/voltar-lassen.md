@@ -1,4 +1,5 @@
 ---
+coste: 2640000
 nombre: Voltar Lassen — pieza Elecnor
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 30000000
 nombre: Fondos Miner (Operación Hulla)
 partido: PSOE
 completado: false

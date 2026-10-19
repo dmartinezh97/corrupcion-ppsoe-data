@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Oposiciones Melilla
 partido: PP
 completado: false

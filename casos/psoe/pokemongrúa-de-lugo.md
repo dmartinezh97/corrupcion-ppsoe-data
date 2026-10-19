@@ -1,4 +1,5 @@
 ---
+coste: 500000
 nombre: 'Pokémon: grúa de Lugo'
 partido: PSOE
 completado: false

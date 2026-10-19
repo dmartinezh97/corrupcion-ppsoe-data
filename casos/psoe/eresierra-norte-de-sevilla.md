@@ -1,4 +1,5 @@
 ---
+coste: 34200000
 nombre: 'ERE/Sierra Norte de Sevilla: Rosendo-Sayago'
 partido: PSOE
 completado: false

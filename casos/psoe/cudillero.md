@@ -1,4 +1,5 @@
 ---
+coste: 130000
 estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar

@@ -1,4 +1,5 @@
 ---
+coste: 9000
 nombre: Caso Móviles Benigànim
 partido: PP
 completado: false

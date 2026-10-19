@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Arquitecto
 partido: PP
 completado: false

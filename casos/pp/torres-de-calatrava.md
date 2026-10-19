@@ -1,4 +1,5 @@
 ---
+coste: 15000000
 nombre: Caso Torres de Calatrava
 partido: PP
 completado: false

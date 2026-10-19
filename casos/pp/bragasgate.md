@@ -1,4 +1,5 @@
 ---
+coste: 160000
 nombre: "Caso Bragasgate"
 partido: PP
 completado: false

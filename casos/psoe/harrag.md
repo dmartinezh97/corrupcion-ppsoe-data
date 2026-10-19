@@ -1,4 +1,5 @@
 ---
+coste: 40000
 nombre: Caso Harrag
 partido: PSOE
 completado: false

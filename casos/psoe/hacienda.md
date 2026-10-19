@@ -1,4 +1,5 @@
 ---
+coste: 13000000
 nombre: Caso Hacienda
 partido: PSOE
 completado: false

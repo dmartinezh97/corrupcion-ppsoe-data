@@ -1,4 +1,5 @@
 ---
+coste: 3500000
 nombre: Caso IVAM
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 506113.6
 nombre: Caso AEXPA
 partido: PP
 completado: false

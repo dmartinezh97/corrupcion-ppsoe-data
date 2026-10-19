@@ -1,4 +1,5 @@
 ---
+coste: 24000000
 nombre: Caso de la Construcción de Burgos
 partido: PP
 completado: false

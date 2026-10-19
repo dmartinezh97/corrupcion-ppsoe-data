@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caballo de Troya
 partido: PP
 completado: false

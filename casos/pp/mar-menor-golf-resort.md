@@ -1,4 +1,5 @@
 ---
+coste: 6000000
 nombre: Mar Menor Golf Resort
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 2080000
 nombre: "Caso Idelpa"
 partido: PSOE
 completado: false

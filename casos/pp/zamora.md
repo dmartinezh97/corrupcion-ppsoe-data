@@ -1,4 +1,5 @@
 ---
+coste: 12000000
 nombre: Caso Zamora
 partido: PP
 completado: false

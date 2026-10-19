@@ -1,4 +1,5 @@
 ---
+coste: 2400000
 nombre: Caso Interligare
 partido: PSOE
 completado: false

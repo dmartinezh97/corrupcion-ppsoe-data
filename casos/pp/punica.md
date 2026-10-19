@@ -1,4 +1,5 @@
 ---
+coste: 250000000
 nombre: Caso Púnica
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Naseiro
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 1114510.91
 nombre: Caso Abogados Melilla
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 12635000000
 nombre: CAM
 partido: PP
 completado: false

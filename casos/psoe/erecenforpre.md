@@ -1,4 +1,5 @@
 ---
+coste: 491424
 nombre: ERE/Cenforpre
 partido: PSOE
 completado: false

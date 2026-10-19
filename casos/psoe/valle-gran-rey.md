@@ -1,4 +1,5 @@
 ---
+coste: 7412
 nombre: "Caso Valle Gran Rey"
 partido: PSOE
 completado: false

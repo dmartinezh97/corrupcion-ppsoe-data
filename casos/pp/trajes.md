@@ -1,4 +1,5 @@
 ---
+coste: 23196
 nombre: Caso Trajes
 partido: PP
 completado: false

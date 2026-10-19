@@ -1,4 +1,5 @@
 ---
+coste: 7200000
 nombre: "Aplauso"
 partido: PP
 completado: false

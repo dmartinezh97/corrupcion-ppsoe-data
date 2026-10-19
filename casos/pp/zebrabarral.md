@@ -1,4 +1,5 @@
 ---
+coste: 700000
 nombre: Zebra/Barral
 partido: PP
 completado: false

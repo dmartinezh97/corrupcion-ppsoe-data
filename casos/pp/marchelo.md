@@ -1,4 +1,5 @@
 ---
+coste: 27300000
 nombre: "Caso Marchelo"
 partido: "PP"
 completado: false

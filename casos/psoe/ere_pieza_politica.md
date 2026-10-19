@@ -1,4 +1,5 @@
 ---
+coste: 679430000
 nombre: ERE/Pieza Política
 partido: PSOE
 completado: false

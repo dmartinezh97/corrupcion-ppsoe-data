@@ -1,4 +1,5 @@
 ---
+coste: 7200000
 nombre: Caso Amat
 partido: PP
 completado: false

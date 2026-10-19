@@ -1,4 +1,5 @@
 ---
+coste: 1200000000
 nombre: Caso RTVV
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 138230000
 nombre: ERE/Franja Pirítica
 partido: PSOE
 completado: false

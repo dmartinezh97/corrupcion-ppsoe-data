@@ -1,4 +1,5 @@
 ---
+coste: 32500000
 nombre: Caso Koldo
 partido: PSOE
 completado: false

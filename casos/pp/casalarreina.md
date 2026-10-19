@@ -1,4 +1,5 @@
 ---
+coste: 13000
 nombre: "Caso Casalarreina"
 partido: "PP"
 completado: false

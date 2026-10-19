@@ -1,4 +1,5 @@
 ---
+coste: 1015778
 nombre: Cursos de formación — José María Pérez González
 partido: PSOE
 completado: false

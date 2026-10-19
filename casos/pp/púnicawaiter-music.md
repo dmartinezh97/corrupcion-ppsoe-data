@@ -1,4 +1,5 @@
 ---
+coste: 25600000
 nombre: Púnica/Waiter Music
 partido: PP
 completado: false

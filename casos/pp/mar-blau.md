@@ -1,4 +1,5 @@
 ---
+coste: 4500000
 nombre: "Caso Mar Blau"
 partido: "PP"
 completado: false

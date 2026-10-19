@@ -1,4 +1,5 @@
 ---
+coste: 400000
 nombre: Caso Monroy
 partido: PP
 completado: false

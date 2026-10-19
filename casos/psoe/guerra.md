@@ -1,4 +1,5 @@
 ---
+coste: 253000
 nombre: Caso Guerra
 partido: PSOE
 completado: false

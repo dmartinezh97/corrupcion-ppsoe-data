@@ -1,4 +1,5 @@
 ---
+coste: 40100000
 nombre: Caso Marismas
 partido: PSOE
 completado: false

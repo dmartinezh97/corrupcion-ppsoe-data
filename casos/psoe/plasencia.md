@@ -1,4 +1,5 @@
 ---
+coste: 248000
 nombre: Caso Plasencia
 partido: PSOE
 completado: false

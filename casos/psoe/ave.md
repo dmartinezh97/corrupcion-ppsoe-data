@@ -1,4 +1,5 @@
 ---
+coste: 6000000
 nombre: Caso AVE
 partido: PSOE
 completado: false

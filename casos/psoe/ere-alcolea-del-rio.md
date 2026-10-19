@@ -1,4 +1,5 @@
 ---
+coste: 120000
 nombre: Caso ERE/Alcolea del Río
 partido: PSOE
 completado: false

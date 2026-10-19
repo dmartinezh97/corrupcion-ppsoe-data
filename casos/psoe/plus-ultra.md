@@ -1,4 +1,5 @@
 ---
+coste: 53000000
 nombre: Caso Plus Ultra
 partido: PSOE
 completado: false

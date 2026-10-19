@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: "Dolores Reyes"
 partido: PSOE
 completado: false

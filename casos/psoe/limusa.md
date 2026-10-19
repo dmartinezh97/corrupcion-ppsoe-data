@@ -1,4 +1,5 @@
 ---
+coste: 500000
 nombre: Caso Limusa
 partido: PSOE
 completado: false

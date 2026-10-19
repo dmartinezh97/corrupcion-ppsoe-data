@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Canillas de Albaida
 partido: PP
 completado: false

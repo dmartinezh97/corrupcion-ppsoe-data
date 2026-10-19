@@ -1,4 +1,5 @@
 ---
+coste: 86091
 nombre: "Villaviciosa de Odón"
 partido: PP
 completado: false

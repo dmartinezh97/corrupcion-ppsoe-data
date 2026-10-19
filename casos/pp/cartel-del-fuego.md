@@ -1,4 +1,5 @@
 ---
+coste: 151585386
 nombre: Cártel del fuego
 partido: PP
 completado: false

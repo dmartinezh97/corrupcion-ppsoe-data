@@ -1,4 +1,5 @@
 ---
+coste: 776500
 nombre: Caso Torre Pacheco
 partido: PP
 completado: false

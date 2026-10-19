@@ -1,4 +1,5 @@
 ---
+coste: 1690000
 nombre: "Caso Esther Merino"
 partido: PP
 completado: false

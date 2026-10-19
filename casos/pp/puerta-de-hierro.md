@@ -1,4 +1,5 @@
 ---
+coste: 30000000
 nombre: Caso Puerta de Hierro
 partido: PP
 completado: false

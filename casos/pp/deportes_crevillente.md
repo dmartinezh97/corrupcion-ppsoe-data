@@ -1,4 +1,5 @@
 ---
+coste: 53365.46
 nombre: Caso Deportes Crevillente
 partido: PP
 completado: false

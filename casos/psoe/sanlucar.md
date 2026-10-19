@@ -1,4 +1,5 @@
 ---
+coste: 300506
 nombre: Caso Sanlúcar
 partido: PSOE
 completado: false

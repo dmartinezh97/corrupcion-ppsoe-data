@@ -1,4 +1,5 @@
 ---
+coste: 211115
 nombre: Cabanes
 partido: PP
 completado: false

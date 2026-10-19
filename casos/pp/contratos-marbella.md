@@ -1,4 +1,5 @@
 ---
+coste: 1383945
 nombre: Contratos Marbella
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 450000
 nombre: Mercasevilla / Escuela de Hostelería
 partido: PSOE
 completado: false

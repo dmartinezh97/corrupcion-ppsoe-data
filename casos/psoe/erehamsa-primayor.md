@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: ERE de Hamsa y Primayor
 partido: PSOE
 completado: false

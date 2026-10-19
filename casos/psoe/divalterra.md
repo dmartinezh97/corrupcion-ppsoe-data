@@ -1,4 +1,5 @@
 ---
+coste: 1120000
 nombre: Caso Divalterra (Caso Alquería)
 partido: PSOE
 completado: false

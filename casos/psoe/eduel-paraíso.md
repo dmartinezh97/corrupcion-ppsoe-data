@@ -1,4 +1,5 @@
 ---
+coste: 1053434
 nombre: Edu/El Paraíso
 partido: PSOE
 completado: false

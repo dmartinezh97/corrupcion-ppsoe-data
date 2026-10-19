@@ -1,4 +1,5 @@
 ---
+coste: 100000
 nombre: "Invercaria/Lolita Canalla"
 partido: PSOE
 completado: false

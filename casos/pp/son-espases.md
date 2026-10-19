@@ -1,4 +1,5 @@
 ---
+coste: 9000000
 nombre: Caso Son Espases
 partido: PP
 completado: false

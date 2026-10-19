@@ -1,4 +1,5 @@
 ---
+coste: 120000000
 nombre: Gürtel
 partido: PP
 completado: false

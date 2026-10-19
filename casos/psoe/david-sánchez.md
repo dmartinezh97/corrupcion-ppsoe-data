@@ -1,4 +1,5 @@
 ---
+coste: 340572
 nombre: Caso David Sánchez
 partido: PSOE
 completado: false

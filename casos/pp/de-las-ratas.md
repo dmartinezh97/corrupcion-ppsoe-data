@@ -1,4 +1,5 @@
 ---
+coste: 288513
 nombre: Caso de las Ratas
 partido: PP
 completado: false

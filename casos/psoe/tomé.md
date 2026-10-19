@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Tomé
 partido: PSOE
 completado: false

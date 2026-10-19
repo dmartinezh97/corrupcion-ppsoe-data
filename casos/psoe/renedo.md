@@ -1,4 +1,5 @@
 ---
+coste: 258348
 nombre: "Caso Renedo"
 partido: PSOE
 completado: false

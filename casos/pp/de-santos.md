@@ -1,4 +1,5 @@
 ---
+coste: 51377
 nombre: De Santos
 partido: PP
 completado: false

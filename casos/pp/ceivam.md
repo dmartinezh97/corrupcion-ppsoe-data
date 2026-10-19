@@ -1,4 +1,5 @@
 ---
+coste: 39065.79
 nombre: Ceivam
 partido: PP
 completado: false

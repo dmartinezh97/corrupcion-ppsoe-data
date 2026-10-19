@@ -1,4 +1,5 @@
 ---
+coste: 357000
 nombre: Operación Tosca
 partido: PP
 completado: false

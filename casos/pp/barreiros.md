@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Barreiros
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 5415386
 nombre: Alhambra/Audioguías
 partido: PSOE
 completado: false

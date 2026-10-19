@@ -1,4 +1,5 @@
 ---
+coste: 1150000
 nombre: Invercaria/Ándalus
 partido: PSOE
 completado: false

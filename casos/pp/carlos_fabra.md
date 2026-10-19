@@ -1,4 +1,5 @@
 ---
+coste: 150000000
 nombre: Caso Carlos Fabra
 partido: PP
 completado: false

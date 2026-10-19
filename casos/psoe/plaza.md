@@ -1,4 +1,5 @@
 ---
+coste: 147000000
 nombre: "Caso Plaza"
 partido: PSOE
 completado: false

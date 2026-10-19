@@ -1,4 +1,5 @@
 ---
+coste: 3653000
 nombre: Aerocas
 partido: PP
 completado: false

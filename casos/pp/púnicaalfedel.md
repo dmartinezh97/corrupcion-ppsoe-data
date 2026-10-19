@@ -1,4 +1,5 @@
 ---
+coste: 3000000
 nombre: Púnica/Alfedel
 partido: PP
 completado: false

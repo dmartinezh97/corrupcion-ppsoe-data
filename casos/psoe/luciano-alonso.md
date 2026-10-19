@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Luciano Alonso
 partido: PSOE
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: de los Espías
 partido: PP
 completado: false

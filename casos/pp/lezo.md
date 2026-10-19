@@ -1,4 +1,5 @@
 ---
+coste: 25000000
 nombre: Caso Lezo - Inassa y Emissao
 partido: PP
 completado: false

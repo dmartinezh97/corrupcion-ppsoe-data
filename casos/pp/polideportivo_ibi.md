@@ -1,4 +1,5 @@
 ---
+coste: 151500
 nombre: Caso Polideportivo Ibi
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 40000000
 nombre: Patos/Fornelos
 partido: PP
 completado: false

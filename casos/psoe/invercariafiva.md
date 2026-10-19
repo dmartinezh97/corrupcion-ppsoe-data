@@ -1,4 +1,5 @@
 ---
+coste: 716000
 nombre: "Invercaria/FIVA"
 partido: PSOE
 completado: false

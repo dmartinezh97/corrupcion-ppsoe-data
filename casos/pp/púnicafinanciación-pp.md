@@ -1,4 +1,5 @@
 ---
+coste: 6200000
 nombre: Púnica/Financiación PP
 partido: PP
 completado: false

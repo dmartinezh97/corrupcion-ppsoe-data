@@ -1,4 +1,5 @@
 ---
+coste: 1710000
 nombre: Terra Natura Benidorm
 partido: PP
 completado: false

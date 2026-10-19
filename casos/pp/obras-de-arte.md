@@ -1,4 +1,5 @@
 ---
+coste: 3094325
 nombre: Caso Obras de Arte (IVAM)
 partido: PP
 completado: false

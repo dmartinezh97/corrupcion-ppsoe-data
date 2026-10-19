@@ -1,4 +1,5 @@
 ---
+coste: 8000000
 nombre: Caso Vertedero de Molina de Segura
 partido: PP
 completado: false

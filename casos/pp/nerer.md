@@ -1,4 +1,5 @@
 ---
+coste: 2300000
 nombre: Caso Nerer
 partido: PP
 completado: false

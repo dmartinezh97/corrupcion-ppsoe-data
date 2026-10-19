@@ -1,4 +1,5 @@
 ---
+coste: 8270000
 nombre: CDEIB
 partido: PP
 completado: false

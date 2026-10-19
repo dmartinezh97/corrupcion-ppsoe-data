@@ -1,4 +1,5 @@
 ---
+coste: 74100000
 nombre: La Sal
 partido: PP
 completado: false

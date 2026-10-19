@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Caso Cursach
 partido: PP
 completado: false

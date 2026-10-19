@@ -1,4 +1,5 @@
 ---
+coste: 247000000
 nombre: Caso San Javier - Contrato Aqualia
 partido: PP
 completado: false

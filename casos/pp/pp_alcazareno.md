@@ -1,4 +1,5 @@
 ---
+coste: 20000
 nombre: PP alcazareño
 partido: PP
 completado: false

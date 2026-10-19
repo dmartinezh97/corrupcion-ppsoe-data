@@ -1,4 +1,5 @@
 ---
+coste: 2400000
 nombre: Caso Umax
 partido: PSOE
 completado: false

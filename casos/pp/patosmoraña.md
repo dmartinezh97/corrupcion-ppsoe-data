@@ -1,4 +1,5 @@
 ---
+coste: 86311
 nombre: Patos/Moraña
 partido: PP
 completado: false

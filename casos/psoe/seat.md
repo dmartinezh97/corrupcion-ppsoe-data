@@ -1,4 +1,5 @@
 ---
+coste: 1051771
 nombre: "Caso SEAT"
 partido: PSOE
 completado: false

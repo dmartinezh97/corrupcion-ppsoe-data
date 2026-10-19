@@ -1,4 +1,5 @@
 ---
+coste: 2500000
 nombre: ERE del grupo Promi
 partido: PSOE
 completado: false

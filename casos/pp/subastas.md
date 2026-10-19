@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: Subastas
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 195000
 nombre: Caso Sporting
 partido: PP
 completado: false

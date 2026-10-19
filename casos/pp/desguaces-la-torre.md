@@ -1,4 +1,5 @@
 ---
+coste: 21400000
 nombre: Desguaces La Torre
 partido: PP
 completado: false

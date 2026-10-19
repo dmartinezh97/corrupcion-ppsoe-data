@@ -1,4 +1,5 @@
 ---
+coste: 233000000
 nombre: Púnica/Cofely
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 31000000
 nombre: "Caso EMVS II - Venta de viviendas a fondos buitre"
 partido: PP
 completado: false

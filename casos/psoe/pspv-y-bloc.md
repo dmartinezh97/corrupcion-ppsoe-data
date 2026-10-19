@@ -1,4 +1,5 @@
 ---
+coste: 0
 nombre: PSPV y Bloc
 partido: PSOE
 completado: false

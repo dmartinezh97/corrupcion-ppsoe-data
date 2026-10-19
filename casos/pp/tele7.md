@@ -1,4 +1,5 @@
 ---
+coste: 7000000
 nombre: Tele7
 partido: PP
 completado: false

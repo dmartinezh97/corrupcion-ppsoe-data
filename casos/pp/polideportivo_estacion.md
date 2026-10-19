@@ -1,4 +1,5 @@
 ---
+coste: 10500000
 nombre: Polideportivo de la Estación (Navalcarnero)
 partido: PP
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 12000
 nombre: Flotador/Uniformes
 partido: PSOE
 completado: false

@@ -1,4 +1,5 @@
 ---
+coste: 24000000
 nombre: Flotador/Aigües Sagunt
 partido: PP
 completado: false
