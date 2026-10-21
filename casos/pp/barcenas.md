@@ -300,7 +300,7 @@ cronologia:
 
 ## Notas sobre el ámbito, la firmeza y las incertidumbres
 
-- **Solapamiento con otras fichas.** El "caso Bárcenas" comparte hechos con `casos/pp/gürtel.md` (la primera época de la trama, que condenó a Bárcenas y al PP a título lucrativo), con `casos/pp/papeles_barcenas.md` —ficha que abarca tanto la contabilidad paralela y los papeles como la pieza de la reforma de la sede de Génova, de modo que su ámbito se solapa con el de esta ficha en la caja B y en Génova— y con `casos/pp/gurtel-fitur.md` en lo relativo a Álvaro Pérez "El Bigotes". No se editan esas fichas ni se duplica su contenido: el detalle de cada trama corresponde a su propia ficha.
+- **Solapamiento con otras fichas.** El "caso Bárcenas" comparte hechos con `casos/pp/gurtel.md` (la primera época de la trama, que condenó a Bárcenas y al PP a título lucrativo), con `casos/pp/papeles-barcenas.md` —ficha que abarca tanto la contabilidad paralela y los papeles como la pieza de la reforma de la sede de Génova, de modo que su ámbito se solapa con el de esta ficha en la caja B y en Génova— y con `casos/pp/gurtel-fitur.md` en lo relativo a Álvaro Pérez "El Bigotes". No se editan esas fichas ni se duplica su contenido: el detalle de cada trama corresponde a su propia ficha.
 
 - **Alcance de algunas afirmaciones.** La no imputación de María Dolores de Cospedal se refiere a la pieza de los papeles de Bárcenas (Génova); la operación Kitchen es una causa separada y no se usa para formular una afirmación global. Respecto al hito del 8 de abril de 2010, no se sostiene que el partido situara a Bárcenas fuera de la organización desde 2008: desempeñó la tesorería entre 2008 y 2010 y conservó el escaño de senador hasta su renuncia ese mismo mes.
 
