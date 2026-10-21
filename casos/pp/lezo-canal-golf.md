@@ -193,4 +193,4 @@ El auto de 2021 recoge otros escritos con calificaciones diferentes: la Comunida
 
 No existe soporte suficiente para presentar cinco millones de euros como coste probado de esta pieza. Los presupuestos, ingresos, beneficios atribuidos, indemnizaciones y decomisos pretendidos se solapan o responden a conceptos diferentes. Se conserva su atribución a cada parte y no se suman.
 
-Esta pieza tiene objeto y acusados propios. Los archivos o juicios de [Inassa y Emissao](/casos/pp/lezo/), [blanqueo](/casos/pp/lezoblanqueo-capitales/) y [Navalcarnero](/casos/pp/lezotren-navalcarnero/) no determinan el resultado de Canal Golf. Del mismo modo, una resolución urbanística sobre el uso de estas instalaciones no sustituye la prueba de los delitos atribuidos a estas personas.
+Esta pieza tiene objeto y acusados propios. Los archivos o juicios de [Inassa y Emissao](/casos/pp/lezo/), [blanqueo](/casos/pp/lezo-blanqueo-capitales/) y [Navalcarnero](/casos/pp/lezo-tren-navalcarnero/) no determinan el resultado de Canal Golf. Del mismo modo, una resolución urbanística sobre el uso de estas instalaciones no sustituye la prueba de los delitos atribuidos a estas personas.
