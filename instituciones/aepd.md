@@ -8,7 +8,7 @@ statusColor: "destructive"
 order: 19
 issues:
   - descripcionCorta: "Nombres pactados por PP y PSOE antes de convocar el proceso"
-    descripcionBreve: "El acuerdo Gobierno-PP del 14 de octubre de 2021 para renovar el TC, el Defensor del Pueblo y el Tribunal de Cuentas incluía la AEPD. El Consejo de Ministros remitió esas candidaturas al Congreso el 22 de febrero de 2022. El Supremo suspendió en marzo de 2022 y anuló en mayo la elección de Belén Cardona (presidencia) y Borja Adsuara (adjuntía). Consideró el procedimiento «viciado de raíz» porque los candidatos se habían pactado antes de la convocatoria"
+    descripcionBreve: "PP y PSOE pactaron los nombres antes del proceso y el Supremo anuló la elección en 2022 por estar «viciada de raíz»"
     sources:
       - title: "Orden JUS/133/2022, de 26 de febrero, por la que se publica el Acuerdo del Consejo de Ministros de 22 de febrero de 2022, por el que se comunica al Congreso de los Diputados la propuesta de candidatos a ocupar la Presidencia y la Adjuntía de la Agencia Española de Protección de Datos"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-3213"
@@ -36,7 +36,7 @@ issues:
         fecha: "2021-10-14"
         partido: "ambos"
   - descripcionCorta: "Más de cinco años con el mandato caducado"
-    descripcionBreve: "Mar España fue nombrada directora en julio de 2015 por el Gobierno de Rajoy, tras haber sido viceconsejera de Presidencia y Administraciones Públicas de Castilla-La Mancha entre 2012 y 2015, para un mandato de cuatro años, que acabó en 2019. Siguió en funciones hasta su cese en diciembre de 2024, tras nueve años en el cargo. El nuevo presidente, Lorenzo Cotino, no se nombró hasta febrero de 2025. En la primera votación no logró los tres quintos (el PP se abstuvo) y fue ratificado en segunda votación por mayoría absoluta"
+    descripcionBreve: "Mar España, nombrada con Rajoy en 2015, siguió más de cinco años con el mandato caducado, hasta diciembre de 2024"
     sources:
       - title: "Real Decreto 142/2025, de 25 de febrero, por el que se nombra Presidente de la Agencia Española de Protección de Datos a don Lorenzo Cotino Hueso"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-3783"

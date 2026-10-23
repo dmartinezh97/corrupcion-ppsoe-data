@@ -8,7 +8,7 @@ statusColor: "destructive"
 order: 15
 issues:
   - descripcionCorta: "Creación con ceses anticipados declarados ilegales"
-    descripcionBreve: "En 2013 el Gobierno de Rajoy fusionó en la CNMC la CNC, la CNE, la CMT y otros reguladores. Cesó a sus presidentes y consejeros antes de que acabaran sus mandatos, y Luis de Guindos nombró a José María Marín Quemada presidente. El Tribunal de Justicia de la UE (asunto C-424/15, 19-10-2016) declaró contrario al derecho de la UE el cese anticipado del presidente y de un consejero de la CMT. En enero de 2017 el Tribunal Supremo anuló los ceses"
+    descripcionBreve: "Rajoy cesó en 2013 a los consejeros de los reguladores fusionados; la justicia europea y el Supremo lo declararon ilegal"
     sources:
       - title: "Real Decreto 673/2013, de 9 de septiembre, por el que se nombra Presidente de la Comisión Nacional de los Mercados y la Competencia a don José María Marín Quemada"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-9467"
@@ -26,7 +26,7 @@ issues:
         fecha: "2017-01-25"
         partido: "PP"
   - descripcionCorta: "Presidencia y consejo renovados solo con los socios del Gobierno"
-    descripcionBreve: "Cani Fernández fue nombrada en 2020 a propuesta de Nadia Calviño. En 2026 el Gobierno propuso a Juan José Ganuza para sustituirla. La comisión del Congreso lo avaló por 19 votos a 17, con PP y Vox en contra, y fue nombrado el 21 de julio de 2026. El PP condicionó la renovación a un reparto de consejeros, y el Consejo resultante no tiene ningún consejero propuesto por la oposición"
+    descripcionBreve: "La presidencia de 2026 salió por 19 votos a 17 y ningún consejero actual fue propuesto por la oposición"
     sources:
       - title: "Real Decreto 580/2020, de 16 de junio, por el que se nombra Presidenta de la Comisión Nacional de los Mercados y la Competencia a doña Cani Fernández Vicién"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-6250"
@@ -59,7 +59,7 @@ issues:
         fecha: "2026-07-15"
         partido: "PSOE"
   - descripcionCorta: "Troceo del regulador para crear una Comisión de Energía"
-    descripcionBreve: "El Gobierno preparaba en 2024 separar de la CNMC una nueva Comisión de Energía, con nombramientos propios, mientras renovaba el Consejo. La prensa crítica lo ha calificado de colonización institucional"
+    descripcionBreve: "En 2024 el Gobierno preparaba separar de la CNMC una Comisión de Energía con nombramientos propios"
     sources:
       - title: "Colonización institucional: Sánchez blinda la CNMC mientras moldea la nueva Comisión de Energía"
         url: "https://www.vozpopuli.com/economia/colonizacion-institucional-sanchez-blinda-control-cnmc.html"
@@ -67,7 +67,7 @@ issues:
         fecha: "2024-12-24"
         partido: "PSOE"
   - descripcionCorta: "Del entorno de Moncloa a la cúpula del regulador"
-    descripcionBreve: "Con Rajoy, María Fernández Pérez fue cesada el 9 de septiembre de 2013 como directora de la Secretaría Técnica de la Comisión Delegada para Asuntos Económicos, en la Oficina Económica del Presidente, y ese mismo día fue nombrada vicepresidenta de la CNMC. Con Sánchez, el Gobierno propuso en junio de 2020 para presidirla a Cani Fernández, entonces asesora en el Gabinete de la Presidencia del Gobierno"
+    descripcionBreve: "Altos cargos de Moncloa pasaron directamente a su cúpula, con Rajoy (2013) y con Sánchez (2020)"
     sources:
       - title: "Real Decreto 672/2013, de 9 de septiembre, por el que se dispone el cese de doña María Fernández Pérez como Directora de la Secretaría Técnica de la Comisión Delegada para Asuntos Económicos de la Oficina Económica del Presidente del Gobierno"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-9465"

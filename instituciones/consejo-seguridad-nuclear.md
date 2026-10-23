@@ -8,7 +8,7 @@ statusColor: "destructive"
 order: 22
 issues:
   - descripcionCorta: "Reparto por cuotas de partido"
-    descripcionBreve: "El pleno se repartía tradicionalmente en dos consejeros del PSOE, dos del PP y uno de CiU, con la presidencia para el partido más votado. En diciembre de 2012 el Gobierno de Rajoy nombró presidente a Fernando Marti, que acababa de dejar la Secretaría de Estado de Energía. En la misma tanda, como consejera a propuesta socialista, entró la exministra del PSOE Cristina Narbona"
+    descripcionBreve: "El pleno se reparte por cuotas: dos consejeros del PSOE, dos del PP y uno de CiU"
     sources:
       - title: "Real Decreto 1732/2012, de 28 de diciembre, por el que se nombra Presidente del Consejo de Seguridad Nuclear a don Fernando Marti Scharfhausen"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-15724"
@@ -36,7 +36,7 @@ issues:
         fecha: "2012-12-21"
         partido: "ambos"
   - descripcionCorta: "El PP se hace con la mayoría del pleno"
-    descripcionBreve: "En octubre de 2015, con mayoría absoluta y ante las elecciones, el PP colocó a un tercer consejero propio (Javier Dies, nombrado el 16 de octubre) en la vacante de CiU y rompió el equilibrio del pleno. Varios grupos pidieron la dimisión del presidente Marti por la gestión del almacén nuclear de Villar de Cañas. En junio de 2018 el Congreso exigió que «en ningún caso» se le ampliara el mandato"
+    descripcionBreve: "En 2015 el PP colocó a un tercer consejero propio en la vacante de CiU y se hizo con la mayoría del pleno"
     sources:
       - title: "Real Decreto 934/2015, de 16 de octubre, por el que se nombra Consejero del Consejo de Seguridad Nuclear a don Javier Dies Llovera"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-11185"
@@ -64,7 +64,7 @@ issues:
         fecha: "2015-09-24"
         partido: "PP"
   - descripcionCorta: "Mayoría socialista con exdiputados y ex altos cargos"
-    descripcionBreve: "En 2019 el Gobierno de Sánchez se propuso romper la mayoría del PP en el pleno. En abril de 2025 nombró presidente a Juan Carlos Lentijo y consejeras a la exdiputada del PSOE Pilar Lucio y a Silvia Calzón, ex secretaria de Estado de Sanidad. La comisión del Congreso las avaló por 18 votos a 17, con PP y Vox en contra"
+    descripcionBreve: "En 2025 Sánchez nombró consejera a una exdiputada del PSOE, avalada por 18 votos a 17"
     sources:
       - title: "El Gobierno romperá la mayoría absoluta del PP en el CSN y dará entrada a Podemos"
         url: "https://www.elindependiente.com/economia/2019/01/14/el-gobierno-rompera-la-mayoria-absoluta-del-pp-en-el-csn-y-dara-entrada-a-podemos/"

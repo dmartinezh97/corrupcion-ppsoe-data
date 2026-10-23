@@ -8,7 +8,7 @@ statusColor: "destructive"
 order: 17
 issues:
   - descripcionCorta: "Presidencia para exministros del partido en el Gobierno"
-    descripcionBreve: "Con Rajoy, el exministro de Aznar José Manuel Romay Beccaría, entonces tesorero del PP, fue nombrado presidente en 2012 y anunció que dejaría ese cargo en el partido, y entraron cuatro exministros de Aznar como consejeros. Con Sánchez la presidencia ha sido para la exvicepresidenta María Teresa Fernández de la Vega (2018), la exministra Magdalena Valerio (2022) y la exvicepresidenta Carmen Calvo (2024)"
+    descripcionBreve: "Lo presiden exministros del partido en el Gobierno: Romay con Rajoy; Fernández de la Vega, Valerio y Calvo con Sánchez"
     sources:
       - title: "Real Decreto 212/2024, de 27 de febrero, por el que se nombra Presidenta del Consejo de Estado a doña María del Carmen Calvo Poyato"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-3798"
@@ -46,7 +46,7 @@ issues:
         fecha: "2012-03-23"
         partido: "PP"
   - descripcionCorta: "El Supremo anula el nombramiento de Magdalena Valerio"
-    descripcionBreve: "El Tribunal Supremo anuló el 30 de noviembre de 2023 el real decreto de 31 de octubre de 2022 que nombró presidenta a la exministra Magdalena Valerio, tras un recurso de la Fundación Hay Derecho. El tribunal entendió que no cumplía el requisito legal de ser «jurista de reconocido prestigio». El Gobierno dijo que la sentencia cuestionaba la separación de poderes, y el 13 de febrero de 2024 anuló el nombramiento y cesó a Valerio en ejecución de la sentencia. El Supremo inadmitió después el recurso contra el nombramiento de Carmen Calvo por falta de legitimación"
+    descripcionBreve: "El Supremo anuló en 2023 el nombramiento de Magdalena Valerio por no ser «jurista de reconocido prestigio»"
     sources:
       - title: "Real Decreto 160/2024, de 13 de febrero, por el que, en ejecución de sentencia, se anula el Real Decreto 926/2022, de 31 de octubre, por el que se nombra Presidenta del Consejo de Estado a doña Magdalena Valerio Cordero, y se dispone su cese"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-2779"

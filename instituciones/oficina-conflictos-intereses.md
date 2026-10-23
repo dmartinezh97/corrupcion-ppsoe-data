@@ -8,7 +8,7 @@ statusColor: "destructive"
 order: 23
 issues:
   - descripcionCorta: "Juzga al presidente del Gobierno del que depende"
-    descripcionBreve: "En marzo de 2024 la OCI archivó sin investigar la denuncia del PP sobre si Pedro Sánchez debió abstenerse en el rescate de Air Europa por la relación de su esposa con Globalia. Para hacerlo se basó en un escrito de la Secretaría General de la Presidencia. En junio de 2025 el TSJ de Madrid le ordenó investigar, y en septiembre de 2025 la OCI volvió a concluir que no había obligación de abstenerse. Hacienda había fichado para la oficina a un alto cargo procedente de Correos"
+    descripcionBreve: "En 2024 archivó sin investigar la denuncia sobre Sánchez y Air Europa hasta que el TSJ de Madrid la obligó"
     sources:
       - title: "Archivada la denuncia del PP contra Sánchez por las relaciones de su mujer con Air Europa"
         url: "https://www.deia.eus/politica/2024/03/18/archivada-denuncia-pp-sanchez-relaciones-8014848.html"
@@ -36,7 +36,7 @@ issues:
         fecha: "2025-12-02"
         partido: "PSOE"
   - descripcionCorta: "525 puertas giratorias autorizadas y solo 11 vetos"
-    descripcionBreve: "Entre 2006 y 2019, con Gobiernos del PSOE y del PP, la OCI autorizó 525 incorporaciones de ex altos cargos al sector privado y solo dictó 11 resoluciones de incompatibilidad. En 2019 dio luz verde a que la exvicepresidenta Soraya Sáenz de Santamaría fichara por Cuatrecasas, compatible además con su puesto en el Consejo de Estado"
+    descripcionBreve: "Entre 2006 y 2019, con PSOE y PP, autorizó 525 fichajes de ex altos cargos por empresas privadas y vetó solo 11"
     sources:
       - title: "La Oficina de Conflicto de Intereses permite 525 puertas giratorias de altos cargos del Gobierno y solo veta 11 en más de una década"
         url: "https://www.eldiario.es/economia/Oficina-puertas-giratorias-conflicto-intereses_0_876662862.html"
@@ -54,7 +54,7 @@ issues:
         fecha: "2024-02-14"
         partido: "PSOE"
   - descripcionCorta: "Adscrita al Gobierno que debe controlar"
-    descripcionBreve: "La Ley 5/2006, aprobada con el PSOE, la adscribió al Ministerio de Administraciones Públicas. La Ley 3/2015, aprobada con el PP, la adscribió a Hacienda, con un director nombrado por el Consejo de Ministros a propuesta del ministro. Ambas le reconocen autonomía funcional. La Comisión Europea señaló en 2025 que sigue integrada en el Gobierno a efectos organizativos y presupuestarios y que las sanciones a altos cargos las impone el Consejo de Ministros"
+    descripcionBreve: "Depende del Gobierno que controla: de Administraciones Públicas con el PSOE (2006) y de Hacienda con el PP (2015)"
     sources:
       - title: "Comisión Europea: Informe sobre el Estado de Derecho en 2025. Capítulo sobre la situación del Estado de Derecho en España"
         url: "https://commission.europa.eu/document/download/3457bf3b-e321-49af-80fd-de0617ef5b28_es?filename=13_2_63946_coun_chap_spain_es.pdf"

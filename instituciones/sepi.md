@@ -7,8 +7,8 @@ status: "Controlado"
 statusColor: "destructive"
 order: 16
 issues:
-  - descripcionCorta: "Exministros y exdiputados de PP y PSOE en los consejos de empresas públicas"
-    descripcionBreve: "En 2020 al menos treinta expolíticos y exaltos cargos, seis de ellos exministros del PP y del PSOE, cobraron unos 8,5 millones de euros en consejos de empresas participadas por el Estado. Entre ellos están José Blanco, José Montilla, Isabel Tocino y Ana Palacio en Enagás, y Beatriz Corredor y Arsenio Fernández de Mesa en Red Eléctrica. En 2017, con Rajoy, el exdirector de la Guardia Civil Fernández de Mesa fue propuesto para el consejo de Red Eléctrica. La propia presidencia de la SEPI fue en enero de 2012 para Ramón Aguirre, diputado del PP y portavoz adjunto de su grupo en el Congreso"
+  - descripcionCorta: "Exministros de PP y PSOE en los consejos de empresas públicas"
+    descripcionBreve: "Coloca a exministros y exdiputados de PP y PSOE en consejos de empresas públicas: 8,5 millones en 2020"
     sources:
       - title: "Real Decreto 129/2012, de 13 de enero, por el que se nombra Presidente de la Sociedad Estatal de Participaciones Industriales a don Ramón Aguirre Rodríguez"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-600"
@@ -45,8 +45,8 @@ issues:
         tipo: "noticia"
         fecha: "2012-01-13"
         partido: "PP"
-  - descripcionCorta: "Telefónica, Indra y Correos dirigidas por personas cercanas al Gobierno"
-    descripcionBreve: "En enero de 2025 Telefónica cesó a José María Álvarez-Pallete y nombró presidente a Marc Murtra a instancias de la SEPI, que tenía el 10% del capital. Murtra presidía Indra y está ligado históricamente al PSC. Juan Manuel Serrano, exjefe de gabinete de Pedro Sánchez en el PSOE, presidió Correos desde julio de 2018, y la empresa acumuló pérdidas millonarias durante su mandato. En junio de 2022 la SEPI votó con SAPA y Amber Capital en la junta de Indra el cese de cuatro consejeros independientes. La CNMV concluyó que los tres accionistas cooperaron para los ceses, pero no vio indicios suficientes de una acción concertada para controlar la empresa"
+  - descripcionCorta: "Telefónica, Indra y Correos en manos de cercanos al Gobierno"
+    descripcionBreve: "Con Sánchez, Telefónica, Indra y Correos han quedado en manos de personas cercanas al Gobierno y al PSOE"
     sources:
       - title: "CNMV: comunicado sobre la investigación realizada respecto a las modificaciones del consejo de administración de Indra y los eventuales acuerdos entre sus accionistas"
         url: "https://www.cnmv.es/portal/verDoc.axd?t=%7B08c7c58b-f08b-462e-a1be-b1d524381b11%7D"
@@ -79,7 +79,7 @@ issues:
         fecha: "2022-06-23"
         partido: "PSOE"
   - descripcionCorta: "Expresidente de la SEPI detenido por la UCO"
-    descripcionBreve: "El 10 de diciembre de 2025 la UCO detuvo, por orden de la Audiencia Nacional y en diligencias de la Fiscalía Anticorrupción, a Leire Díez y a Vicente Fernández, presidente de la SEPI entre 2018 y 2019. Se investigan presuntos amaños en contratos públicos, con delitos de fraude, malversación, tráfico de influencias y prevaricación"
+    descripcionBreve: "La UCO detuvo en 2025 a Vicente Fernández, presidente de la SEPI con Sánchez, investigado por presuntos amaños"
     sources:
       - title: "La UCO detiene a Leire Díez y a un expresidente de la SEPI en una investigación de Anticorrupción"
         url: "https://www.eldiario.es/politica/guardia-civil-detiene-exmilitante-socialista-leire-diez_1_12834729.html"

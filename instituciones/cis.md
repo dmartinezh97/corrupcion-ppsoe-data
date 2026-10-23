@@ -7,8 +7,8 @@ status: "Controlado"
 statusColor: "destructive"
 order: 12
 issues:
-  - descripcionCorta: "Presidente nombrado por el Gobierno desde la dirección del partido"
-    descripcionBreve: "El presidente se nombra y se cesa por real decreto a propuesta del ministro de la Presidencia, sin aval parlamentario. José Félix Tezanos fue nombrado en junio de 2018 cuando era secretario de Estudios y Programas de la Ejecutiva Federal del PSOE. El 9 de julio de 2018, tras las críticas por su nombramiento, anunció que dejaba en suspenso ese cargo en el partido. En 2025 el Gobierno elevó el rango de la presidencia del CIS de director general a subsecretario. Con el PP, Pilar del Castillo presidió el CIS de 1996 a 2000 y salió de él para ser ministra de Educación de Aznar"
+  - descripcionCorta: "Presidente nombrado desde la dirección del partido"
+    descripcionBreve: "Tezanos fue nombrado en 2018 siendo dirigente del PSOE; con el PP, Pilar del Castillo pasó del CIS a ministra"
     sources:
       - title: "Real Decreto 166/2025, de 4 de marzo, por el que se modifica el Real Decreto 1214/1997, de 18 de julio, sobre organización del Centro de Investigaciones Sociológicas"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-4321"
@@ -46,7 +46,7 @@ issues:
         fecha: "2018-07-09"
         partido: "PSOE"
   - descripcionCorta: "Sancionado por la Junta Electoral Central"
-    descripcionBreve: "En abril de 2024 el CIS publicó una encuesta urgente sobre el periodo de reflexión de Pedro Sánchez en plena campaña de las elecciones catalanas y europeas. La JEC abrió expediente el 6 de mayo de 2024 y multó a Tezanos con 3.000 euros. El Tribunal Supremo mantuvo viva la investigación al rechazar la petición de la Abogacía del Estado"
+    descripcionBreve: "La Junta Electoral Central multó a Tezanos con 3.000 euros por una encuesta publicada en plena campaña de 2024"
     sources:
       - title: "La Junta Electoral Central expedienta a Tezanos por la encuesta del CIS sobre el periodo de reflexión de Sánchez"
         url: "https://www.noticiasdenavarra.com/politica/2024/05/06/junta-electoral-central-expedienta-tezanos-8201440.html"
@@ -69,7 +69,7 @@ issues:
         fecha: "2024-07-09"
         partido: "PSOE"
   - descripcionCorta: "Sesgo de las estimaciones denunciado ante los tribunales"
-    descripcionBreve: "Félix Requena, presidente del CIS con Rajoy, declaró en el Senado en 2025 que la muestra del CIS está sesgada desde su origen. En 2021 un juzgado de Madrid admitió una querella de Vox por malversación, pero la Audiencia Provincial la archivó por no ver delito. En 2026 el PP presentó una querella contra Tezanos por posible delito electoral (arts. 49 y 145 LOREG). Su recorrido judicial no está verificado a fecha de esta investigación"
+    descripcionBreve: "Un expresidente denuncia que la muestra está sesgada y el PP presentó en 2026 una querella contra Tezanos (en curso)"
     sources:
       - title: "Un expresidente del CIS acusa a Tezanos de «sesgar» hacia la izquierda sus sondeos: «No hace falta manipular»"
         url: "https://www.eldebate.com/espana/20250205/expresidente-cis-acusa-tezanos-sesgar-hacia-izquierda-sondeos-no-hace-falta-manipular_267519.html"
@@ -92,7 +92,7 @@ issues:
         fecha: "2026-05-31"
         partido: "PSOE"
   - descripcionCorta: "Sin preguntar por la Monarquía desde 2015"
-    descripcionBreve: "El CIS pidió 15 veces entre 1994 y 2015 que se valorara la confianza en la Monarquía. La última fue en abril de 2015, con el Gobierno de Rajoy, y en junio de 2019, ya con el de Sánchez, la pregunta seguía sin incluirse. No consta una decisión expresa de retirarla"
+    descripcionBreve: "Dejó de preguntar por la Monarquía en 2015, con Rajoy, y en 2019, con Sánchez, seguía sin hacerlo"
     sources:
       - title: "¿Qué opinan los españoles sobre la Monarquía? El CIS no lo pregunta desde 2015"
         url: "https://www.newtral.es/que-opinan-los-espanoles-sobre-la-monarquia-el-cis-no-lo-pregunta-desde-2015/20190619/"

@@ -8,7 +8,7 @@ statusColor: "destructive"
 order: 18
 issues:
   - descripcionCorta: "Presidencia para un alto cargo del ministerio supervisado"
-    descripcionBreve: "En marzo de 2026 Hacienda propuso a Inés Olóndriz, secretaria general de Financiación Autonómica y Local, para sustituir a Cristina Herrero. La comisión de Hacienda del Congreso la avaló el 25 de marzo por 19 votos a 17, con PP y Vox en contra. Su predecesora había sido avalada por unanimidad"
+    descripcionBreve: "En 2026 Hacienda colocó al frente a una secretaria general del propio ministerio, avalada por 19 votos a 17"
     sources:
       - title: "Real Decreto 280/2026, de 31 de marzo, por el que se nombra Presidenta de la Autoridad Independiente de Responsabilidad Fiscal a doña Inés Olóndriz de Moragas"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7358"
@@ -36,7 +36,7 @@ issues:
         fecha: "2026-03-25"
         partido: "PSOE"
   - descripcionCorta: "De presidente del supervisor a ministro"
-    descripcionBreve: "José Luis Escrivá fue nombrado primer presidente de la AIReF en 2014, a propuesta de Cristóbal Montoro. En enero de 2020 dejó la presidencia para ser ministro de Inclusión, Seguridad Social y Migraciones en el Gobierno de Sánchez. Cristina Herrero se despidió en 2026 tras seis años de «lucha» por la independencia del organismo"
+    descripcionBreve: "Escrivá, primer presidente a propuesta de Montoro, dejó el cargo en 2020 para ser ministro de Sánchez"
     sources:
       - title: "Real Decreto 118/2014, de 21 de febrero, por el que se nombra Presidente de la Autoridad Independiente de Responsabilidad Fiscal a don José Luis Escrivá Belmonte"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-1935"
@@ -54,7 +54,7 @@ issues:
         fecha: "2026-03-03"
         partido: "PSOE"
   - descripcionCorta: "Hacienda le niega información"
-    descripcionBreve: "En noviembre de 2015 la AIReF acordó recurrir ante la Audiencia Nacional la Orden HAP/1287/2015 del Ministerio de Hacienda de Cristóbal Montoro. Según la AIReF, la orden ponía un filtro previo a su acceso directo a la información, incluida la del déficit, y vulneraba su autonomía e independencia"
+    descripcionBreve: "En 2015 Montoro limitó por orden su acceso a la información y la AIReF lo recurrió ante la Audiencia Nacional"
     sources:
       - title: "Orden HAP/1287/2015, de 23 de junio, por la que se determinan la información y procedimientos de remisión que el Ministerio de Hacienda y Administraciones Públicas tendrá con carácter permanente a disposición de la Autoridad Independiente de Responsabilidad Fiscal"
         url: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-7300"

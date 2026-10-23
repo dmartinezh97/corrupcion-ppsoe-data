@@ -8,7 +8,7 @@ statusColor: "destructive"
 order: 13
 issues:
   - descripcionCorta: "Relevo del abogado del Estado en el juicio del procés"
-    descripcionBreve: "En noviembre de 2018, con el Gobierno de Sánchez recién llegado, la Abogacía cambió la acusación de rebelión a sedición y malversación. También relevó a Edmundo Bal, jefe de lo Penal, que había preparado el escrito y se negó a quitar los hechos violentos según su propia versión. En octubre de 2019 el Supremo condenó por sedición y no por rebelión, aunque dio por acreditados hechos violentos"
+    descripcionBreve: "Con Sánchez recién llegado (2018), cambió la acusación del procés de rebelión a sedición y relevó a Edmundo Bal"
     sources:
       - title: "Edmundo Bal: \"La sentencia es una derrota para Pedro Sánchez, engañó al ocultar la violencia\""
         url: "https://www.vozpopuli.com/espana/entrevista-edmundo-bal-sentencia-proces_0_1291072135.html"
@@ -26,7 +26,7 @@ issues:
         fecha: "2018-11-21"
         partido: "PSOE"
   - descripcionCorta: "Defensa de la infanta Cristina en el caso Nóos"
-    descripcionBreve: "En enero de 2016, con el Gobierno de Rajoy, la Abogacía del Estado, que actuaba en nombre de la Agencia Tributaria, pidió junto a la Fiscalía exonerar a la infanta Cristina aplicando la doctrina Botín. La abogada del Estado llegó a decir que «Hacienda somos todos» no era más que un eslogan publicitario"
+    descripcionBreve: "Con Rajoy (2016), pidió exonerar a la infanta Cristina en el caso Nóos aplicando la doctrina Botín"
     sources:
       - title: "La Fiscalía y la Abogacía del Estado piden exonerar a la infanta"
         url: "https://orain.eus/es/politica/2016/01/11/la-fiscalia-abogacia-estado-piden-exonerar-infanta/"
@@ -44,7 +44,7 @@ issues:
         fecha: "2014-12-22"
         partido: "PP"
   - descripcionCorta: "Defensa del fiscal general del Estado procesado"
-    descripcionBreve: "La Abogacía del Estado defendió a Álvaro García Ortiz en el juicio del Tribunal Supremo por revelación de secretos. Él reforzó su defensa con la exjefa de la Abogacía General del Estado. Tras la condena, el Supremo rechazó los incidentes de nulidad de la Abogacía y de la Fiscalía y calificó de «sorprendente» el escrito de la Abogacía"
+    descripcionBreve: "Defendió al fiscal general García Ortiz ante el Supremo, que tras la condena calificó de «sorprendente» su escrito"
     sources:
       - title: "García Ortiz no busca abogado y seguirá defendido por la Abogacía del Estado en el juicio por revelación de secretos"
         url: "https://www.elindependiente.com/espana/tribunales/2025/09/17/garcia-ortiz-no-busca-abogado-y-seguira-defendido-por-la-abogacia-del-estado-en-el-juicio-por-revelacion-de-secretos/amp/"
@@ -62,7 +62,7 @@ issues:
         fecha: "2026-02-26"
         partido: "PSOE"
   - descripcionCorta: "Abogados del Estado bajo instrucciones jerárquicas"
-    descripcionBreve: "El Reglamento del Servicio Jurídico del Estado de 2003, aprobado con el PP, establece que los abogados del Estado actúan bajo la dependencia de la Abogacía General y conforme a sus instrucciones. El real decreto de estructura de 2022, aprobado con el PSOE, la mantiene integrada en el Ministerio de Justicia con rango de subsecretaría. Es una dependencia prevista en la ley, que explica que su criterio cambie con el Gobierno"
+    descripcionBreve: "Actúa bajo instrucciones jerárquicas e integrada en el Ministerio de Justicia, con normas del PP (2003) y del PSOE (2022)"
     sources:
       - title: "Real Decreto 1012/2022, de 5 de diciembre, por el que se establece la estructura orgánica de la Abogacía General del Estado, se regula la inspección de los servicios en su ámbito y se dictan normas sobre su personal"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-20555"

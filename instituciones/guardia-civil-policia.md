@@ -8,7 +8,7 @@ statusColor: "destructive"
 order: 14
 issues:
   - descripcionCorta: "Operación Kitchen: la cúpula de Interior del PP en el banquillo"
-    descripcionBreve: "El juez instructor acordó el 13 de octubre de 2023 abrir juicio oral contra la excúpula de Interior, y el juicio por la operación Kitchen empezó en la Audiencia Nacional en abril de 2026. Juzga el presunto espionaje parapolicial a Luis Bárcenas con fondos reservados para sustraerle documentación que comprometía al PP. Están acusados el exministro Jorge Fernández Díaz, su número dos Francisco Martínez, el ex-DAO Eugenio Pino y el comisario Villarejo. Quedó visto para sentencia el 28 de julio de 2026"
+    descripcionBreve: "La cúpula de Interior de Rajoy, juzgada por el presunto espionaje a Bárcenas con fondos reservados (sin sentencia)"
     sources:
       - title: "El caso Kitchen queda visto para sentencia con los informes finales de la defensa: «La verdad saldrá a la luz»"
         url: "https://www.eldebate.com/espana/20260728/caso-kitchen-queda-visto-sentencia-informes-finales-defensa-verdad-saldra-luz_444574.html"
@@ -31,7 +31,7 @@ issues:
         fecha: "2023-10-13"
         partido: "PP"
   - descripcionCorta: "Cese ilegal del coronel Pérez de los Cobos"
-    descripcionBreve: "En mayo de 2020 Interior cesó al coronel Diego Pérez de los Cobos como jefe de la Comandancia de Madrid después de que su Policía Judicial entregara a la jueza del 8M un informe. En marzo de 2023 el Tribunal Supremo declaró, en fallo firme, que el cese fue contrario a derecho. La sentencia calificó de «confusa» y «contraria a la función de la Policía Judicial» la orden de Interior de informar sobre esa investigación"
+    descripcionBreve: "El Supremo declaró contrario a derecho el cese del coronel Pérez de los Cobos ordenado por Interior en 2020"
     sources:
       - title: "El Supremo anula por confusa y contraria a las funciones de policía judicial la orden de Interior a Pérez de los Cobos que motivó su cese"
         url: "https://cadenaser.com/nacional/2023/03/30/el-supremo-anula-por-confusa-y-contraria-a-las-funciones-de-policia-judicial-la-orden-de-interior-a-perez-de-los-cobos-que-motivo-su-cese-cadena-ser/?outputType=amp"
@@ -49,7 +49,7 @@ issues:
         fecha: "2023-03-28"
         partido: "PSOE"
   - descripcionCorta: "Dirección General de la Guardia Civil en manos de políticos"
-    descripcionBreve: "Con Rajoy dirigió la Guardia Civil el exdiputado del PP Arsenio Fernández de Mesa, que después pasó al consejo de Red Eléctrica. Con Sánchez la dirigió María Gámez, que dimitió en 2023 tras la imputación de su marido en una pieza de los ERE. Después llegó Mercedes González, delegada del Gobierno en Madrid. González dejó el cargo para ir en las listas del PSOE al Congreso, volvió en 2024 y en julio de 2026 la Audiencia Nacional la imputó en el caso Leire Díez por prevaricación y obstrucción a la justicia"
+    descripcionBreve: "La dirigen políticos de ambos partidos; la actual directora fue imputada en julio de 2026 en el caso Leire Díez"
     sources:
       - title: "Real Decreto 2042/2011, de 30 de diciembre, por el que se nombra Director General de la Guardia Civil a don Arsenio Fernández de Mesa Díaz del Río"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2011-20813"

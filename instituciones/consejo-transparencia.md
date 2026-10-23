@@ -8,7 +8,7 @@ statusColor: "destructive"
 order: 21
 issues:
   - descripcionCorta: "Casi tres años sin presidente"
-    descripcionBreve: "Tras la muerte de su primera presidenta, Esther Arizmendi, el 19 de noviembre de 2017, la presidencia quedó en funciones. Ni el Gobierno de Rajoy ni el de Sánchez propusieron a nadie hasta septiembre de 2020"
+    descripcionBreve: "Estuvo casi tres años sin presidente (2017-2020) sin que Rajoy ni Sánchez propusieran a nadie"
     sources:
       - title: "El Gobierno propone a José Luis Rodríguez Álvarez, exdirector de la Agencia de Protección de Datos, para presidir el Consejo de Transparencia"
         url: "https://maldita.es/malditodato/20200929/gobierno-propone-jose-luis-rodriguez-alvarez-exdirector-agencia-proteccion-datos-para-presidir-consejo-transparencia/"
@@ -21,7 +21,7 @@ issues:
         fecha: "2017-11-19"
         partido: ""
   - descripcionCorta: "Presidentes procedentes del Gobierno que los propone"
-    descripcionBreve: "En 2014 Rajoy propuso a Esther Arizmendi, alto cargo de su Gobierno, y el PSOE lo criticó. En 2020 Sánchez propuso a José Luis Rodríguez Álvarez, ex alto cargo de Zapatero, avalado por 21 votos a 14 con PP y Vox en contra. En 2026 se nombró a Concepción Campos Acuña"
+    descripcionBreve: "Rajoy (2014) y Sánchez (2020) propusieron a altos cargos procedentes de Gobiernos de su partido"
     sources:
       - title: "Real Decreto 1061/2014, de 12 de diciembre, por el que se nombra Presidenta del Consejo de Transparencia y Buen Gobierno a doña María Ester Arizmendi Gutiérrez"
         url: "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-12982"
@@ -44,7 +44,7 @@ issues:
         fecha: "2026-04-01"
         partido: "PSOE"
   - descripcionCorta: "Resoluciones incumplidas o recurridas por el Gobierno"
-    descripcionBreve: "Hasta julio de 2020, los Gobiernos de Rajoy y Sánchez incumplieron 157 resoluciones del Consejo favorables a los ciudadanos y recurrieron en los tribunales otras 164, dos de cada diez. Un caso conocido es el de los viajes de Sánchez en el Falcon: un juzgado condenó al Estado en 2020 por ocultar la información, y en 2024 el Consejo seguía exigiendo los datos"
+    descripcionBreve: "Hasta 2020, los Gobiernos de Rajoy y Sánchez incumplieron 157 de sus resoluciones y recurrieron otras 164"
     sources:
       - title: "Los Gobiernos de Sánchez y Rajoy han ignorado o recurrido dos de cada diez casos en los que el Consejo de Transparencia ha dado la razón a los ciudadanos"
         url: "https://maldita.es/malditodato/20200928/gobiernos-sanchez-rajoy-ignorado-recurrido-dos-de-diez-casos-consejo-transparencia-razon-ciudadanos-informacion-no-conocemos/"
@@ -62,7 +62,7 @@ issues:
         fecha: "2024-01-10"
         partido: "PSOE"
   - descripcionCorta: "Plantilla insuficiente para las reclamaciones"
-    descripcionBreve: "Según su memoria de 2018, el Consejo trabajaba con 22 personas, prácticamente la plantilla que se le asignó en 2014, mientras las reclamaciones resueltas pasaron de 890 en 2016 a 1.780 en 2019. En octubre de 2020 la plantilla había bajado a 21 personas, y sus memorias estimaban que necesitaba 33 profesionales más. Además, no tiene capacidad sancionadora"
+    descripcionBreve: "Con 21 personas en plantilla (2020) ha visto duplicarse las reclamaciones, y no puede sancionar"
     sources:
       - title: "El Consejo de Transparencia encuentra presidente tres años después... pero sigue buscando personal"
         url: "https://www.eldiario.es/politica/consejo-transparencia-encuentra-presidente-tres-anos-despues-sigue-buscando-personal_1_6316656.html"

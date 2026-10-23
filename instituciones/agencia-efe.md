@@ -8,7 +8,7 @@ statusColor: "destructive"
 order: 20
 issues:
   - descripcionCorta: "Presidente elegido por el Gobierno de turno"
-    descripcionBreve: "En marzo de 2012 la SEPI designó a José Antonio Vera, hasta entonces director de Publicaciones de La Razón, para sustituir a Álex Grijelmo, y en mayo su consejo aprobó el cambio. En 2018 el Gobierno de Sánchez lo sustituyó por Fernando Garea, a quien destituyó en febrero de 2020 tras año y medio. En diciembre de 2023 propuso a Miguel Ángel Oliver, que había sido su secretario de Estado de Comunicación entre 2018 y 2021. La Comisión Constitucional del Congreso avaló su idoneidad el 21 de diciembre de 2023 por 20 votos a 17, con PP y Vox en contra"
+    descripcionBreve: "Cada Gobierno elige a su presidente: Vera con Rajoy (2012) y Oliver, ex secretario de Estado de Sánchez, en 2023"
     sources:
       - title: "Diario de Sesiones del Congreso, Comisión Constitucional, 21 de diciembre de 2023: comparecencia y dictamen de idoneidad de Miguel Ángel Oliver Fernández como presidente de la Agencia EFE"
         url: "https://www.congreso.es/public_oficiales/L15/CONG/DS/CO/DSCD-15-CO-30.PDF"
@@ -56,7 +56,7 @@ issues:
         fecha: "2012-03-06"
         partido: "PP"
   - descripcionCorta: "Elección parlamentaria prometida y nunca aprobada"
-    descripcionBreve: "En 2018 el PSOE anunció una proposición de ley para que el Congreso eligiera al presidente de EFE por mayoría cualificada, y nunca la tramitó. El propio Garea pidió en 2018 que lo eligiera el Parlamento. En diciembre de 2023, ya en la oposición, el PP registró una proposición no de ley con el mismo objetivo, algo que no hizo cuando gobernaba"
+    descripcionBreve: "PSOE y PP piden que lo elija el Congreso solo cuando están en la oposición, y nunca se ha aprobado"
     sources:
       - title: "Cuando el PSOE y Podemos pedían que el presidente de la Agencia EFE se eligiera por el Congreso y no a dedo"
         url: "https://maldita.es/malditahemeroteca/20200218/cuando-el-psoe-y-podemos-pedian-que-el-presidente-de-la-agencia-efe-se-eligiera-por-el-congreso-y-no-a-dedo/"
@@ -74,7 +74,7 @@ issues:
         fecha: "2023-12-08"
         partido: "ambos"
   - descripcionCorta: "Deterioro financiero bajo la presidencia actual"
-    descripcionBreve: "En 2025 los trabajadores alertaron de un deterioro financiero, con pérdidas de 4,42 millones en el primer trimestre de 2025, y de un presidente sin peso en la gestión"
+    descripcionBreve: "Los trabajadores alertaron en 2025 de pérdidas de 4,42 millones en el primer trimestre"
     sources:
       - title: "El drama de EFE: «Están poniendo la alfombra para que la cierre el próximo Gobierno»"
         url: "https://www.moncloa.com/2025/06/05/efe-cierre-gobierno-3236033/"
