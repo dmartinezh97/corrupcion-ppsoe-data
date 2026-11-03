@@ -1,0 +1,24 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: francisco jose granados lerena
+nombre: Francisco José Granados Lerena
+revisado: true
+cargoPublico: true
+wikidata: Q3081856
+wikipedia: https://es.wikipedia.org/wiki/Francisco_Granados
+descripcion: Exconsejero de la Comunidad de Madrid y exalcalde de Valdemoro
+nacimiento:
+  año: 1964
+  lugar: Valdemoro
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q3081856.jpg
+  autor: PP Madrid
+  licencia: CC BY 2.0
+  licenciaUrl: https://creativecommons.org/licenses/by/2.0
+  fuente: https://commons.wikimedia.org/wiki/File:Francisco_Granados_2011_(cropped).jpg

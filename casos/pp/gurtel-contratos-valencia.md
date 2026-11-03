@@ -42,7 +42,7 @@ implicados:
     cargo: Responsable del grupo empresarial Correa
     rol: Condenado en la sentencia de 2024 a dos años y tres meses de prisión por tráfico de influencias en concurso
       con prevaricación, falsedad y malversación. No se acredita aquí firmeza individual.
-  - nombre: Pablo Crespo Sabaris
+  - nombre: Pablo Crespo Sabarís
     cargo: Coordinador de las empresas del grupo en Madrid
     rol: Condenado en la sentencia de 2024 a dos años y tres meses de prisión por tráfico de influencias en concurso
       con prevaricación, falsedad y malversación. No se acredita aquí firmeza individual.

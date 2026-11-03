@@ -28,7 +28,7 @@ implicados:
   cargo: Responsable del grupo empresarial Gürtel
   rol: Condena confirmada de tres años de prisión y multa de 36.000 euros por cooperación necesaria en falsedad
     continuada; mantiene siete años de inhabilitación por cooperación necesaria en prevaricación.
-- nombre: Pablo Crespo
+- nombre: Pablo Crespo Sabarís
   cargo: Gerente de las empresas del grupo Correa
   rol: Tres años de prisión y multa de 36.000 euros por falsedad; absuelto de prevaricación en casación. Obtuvo
     libertad condicional en marzo de 2026 en la ejecución conjunta de sus condenas.

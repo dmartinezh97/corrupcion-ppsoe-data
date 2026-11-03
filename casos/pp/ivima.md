@@ -40,7 +40,7 @@ tribunal:
 numeroSentencia: Sentencia 118/2018 del JCA n.º 29; STS 1007/2019 (protección de datos); STS 95/2021 (arrendamiento);
   STSJ Madrid 324/2026 (reclamación individual)
 implicados:
-- nombre: Ignacio González González
+- nombre: Jaime Ignacio González González
   cargo: Presidente de la Comunidad de Madrid cuando se autorizó y realizó la venta
   rol: Responsable político del Gobierno regional de 2013. La nulidad de la venta no constituye una condena penal
     personal; no se le atribuye aquí una condena por esta operación.

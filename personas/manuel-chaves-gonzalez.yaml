@@ -1,0 +1,24 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: manuel chaves gonzalez
+nombre: Manuel Chaves González
+revisado: true
+cargoPublico: true
+wikidata: Q708774
+wikipedia: https://es.wikipedia.org/wiki/Manuel_Chaves
+descripcion: Expresidente de la Junta de Andalucía y exvicepresidente del Gobierno
+nacimiento:
+  año: 1945
+  lugar: Ceuta
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q708774.jpg
+  autor: Irekia
+  licencia: CC BY 2.0
+  licenciaUrl: https://creativecommons.org/licenses/by/2.0
+  fuente: https://commons.wikimedia.org/wiki/File:Manuel_Chaves-CMTE-Pa%C3%ADs_Vasco_7.jpg

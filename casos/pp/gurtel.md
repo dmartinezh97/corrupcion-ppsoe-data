@@ -29,7 +29,7 @@ implicados:
   cargo: Empresario; dirigente del grupo Correa
   rol: 'Primera época: pena de prisión resultante de la casación de 2020, 51 años. No equivale al tiempo máximo
     de cumplimiento ni incorpora otras piezas.'
-- nombre: Pablo Crespo Sabaris
+- nombre: Pablo Crespo Sabarís
   cargo: Colaborador principal de Correa; exdirigente del PP gallego
   rol: 'Primera época: pena de prisión resultante de la casación de 2020, 36 años y 8 meses. No equivale al tiempo
     máximo de cumplimiento ni incorpora otras piezas.'

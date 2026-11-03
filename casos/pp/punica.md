@@ -60,7 +60,7 @@ implicados:
   cargo: Expresidenta de la Comunidad de Madrid (2015-2018)
   rol: Archivo de la investigación por los contratos de la Asamblea y la financiación investigada, conocido el 20-04-2021
     por falta de indicios. No se presenta su imputación de 2019 como condición actual.
-- nombre: Ignacio González González
+- nombre: Jaime Ignacio González González
   cargo: Expresidente de la Comunidad de Madrid (2012-2015)
   rol: Sobreseimiento provisional en la pieza 9 por auto de 14-10-2022, confirmado por la Sala en resolución comunicada
     el 22-11-2023. No se equipara el archivo a una absolución tras juicio.

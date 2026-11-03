@@ -1,0 +1,23 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: consuelo ciscar casaban
+nombre: Consuelo Císcar Casabán
+revisado: true
+cargoPublico: true
+wikidata: Q11915415
+descripcion: Exdirectora del IVAM
+nacimiento:
+  año: 1945
+  lugar: Picaña
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q11915415.jpg
+  autor: Javier Gayá
+  licencia: CC BY-SA 4.0
+  licenciaUrl: https://creativecommons.org/licenses/by-sa/4.0
+  fuente: https://commons.wikimedia.org/wiki/File:Consuelo_C%C3%ADscar,_directora_de_l%27IVAM,_en_l%27exposici%C3%B3_de_Luis_Javier_Gay%C3%A1_a_la_galeria_Val_i_30_de_Val%C3%A8ncia.jpg

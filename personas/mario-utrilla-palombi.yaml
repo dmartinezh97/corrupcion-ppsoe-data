@@ -1,0 +1,22 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: mario utrilla palombi
+nombre: Mario Utrilla Palombi
+revisado: true
+cargoPublico: true
+wikidata: Q14088924
+nacimiento:
+  año: 1965
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+descripcion: Exalcalde de Sevilla la Nueva y exdiputado en la Asamblea de Madrid
+foto:
+  archivo: ./fotos/Q14088924.jpg
+  autor: PP Comunidad de Madrid
+  licencia: CC BY 2.0
+  licenciaUrl: https://creativecommons.org/licenses/by/2.0
+  fuente: https://commons.wikimedia.org/wiki/File:Mario_Utrilla,_candidato_del_PP_a_Sevilla_la_Nueva_(5570800510)_(cropped).jpg

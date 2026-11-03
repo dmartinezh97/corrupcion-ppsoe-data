@@ -1,0 +1,24 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: gerardo conde roa
+nombre: Gerardo Conde Roa
+revisado: true
+cargoPublico: true
+wikidata: Q8963883
+wikipedia: https://es.wikipedia.org/wiki/Gerardo_Conde_Roa
+descripcion: Exalcalde de Santiago de Compostela
+nacimiento:
+  año: 1959
+  lugar: Padrón
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q8963883.jpg
+  autor: Merixo
+  licencia: CC BY-SA 3.0
+  licenciaUrl: https://creativecommons.org/licenses/by-sa/3.0
+  fuente: https://commons.wikimedia.org/wiki/File:4f831ad86bfc9-conderoapisos.jpg

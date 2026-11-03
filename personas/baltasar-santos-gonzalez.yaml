@@ -1,0 +1,20 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: baltasar santos gonzalez
+nombre: Baltasar Santos González
+revisado: true
+cargoPublico: true
+wikidata: Q14088785
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+descripcion: Exalcalde de Navalcarnero
+foto:
+  archivo: ./fotos/Q14088785.jpg
+  autor: PP Comunidad de Madrid
+  licencia: CC BY 2.0
+  licenciaUrl: https://creativecommons.org/licenses/by/2.0
+  fuente: https://commons.wikimedia.org/wiki/File:Baltasar_Santos,_canditato_PP_a_Navalcarnero_(5570799582).jpg

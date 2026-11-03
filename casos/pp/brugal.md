@@ -79,7 +79,7 @@ implicados:
     de información privilegiada y extorsión; la nota del CGPJ indicó que la resolución era recurrible en casación
     y no consta su estado procesal posterior. También fue condenado en la pieza de las basuras de Calp en 2022,
     sentencia anulada por el Tribunal Supremo en 2026.
-- nombre: Mónica Lorente
+- nombre: Mónica Lorente Ramón
   cargo: Exalcaldesa de Orihuela (PP, 2007-2011)
   rol: Condenada en la pieza matriz de Orihuela (sentencia de 8 de enero de 2026, notificada el 12 de enero) a 4
     meses de prisión y 20 meses de inhabilitación por prevaricación en concurso con fraude; no consta su estado

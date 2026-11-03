@@ -35,7 +35,7 @@ implicados:
     cargo: Responsable del grupo empresarial Correa
     rol: Condenado por los delitos y operaciones enumerados en la sentencia; no recurrió en casación. Fue absuelto
       de asociación ilícita por cosa juzgada. Sus penas no se suman a las de otras piezas.
-  - nombre: Pablo Crespo Sabaris
+  - nombre: Pablo Crespo Sabarís
     cargo: Principal colaborador de Correa y gestor de empresas del grupo
     rol: Condenado en esta pieza; no recurrió en casación. Fue absuelto de asociación ilícita por cosa juzgada.
       Sus penas no se suman a las de otras piezas.

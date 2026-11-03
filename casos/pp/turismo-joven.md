@@ -46,7 +46,7 @@ implicados:
   cargo: Exjefe de Servicios del Consorcio Turisme Jove
   rol: Condenado en 2014 por malversación, prevaricación, falsedad mercantil, fraude y cohecho; tres años y siete
     meses de prisión según resumen periodístico y multa de 11.000 euros por cohecho.
-- nombre: Jaume Matas
+- nombre: Jaume Matas Palou
   cargo: Expresidente del Govern balear (PP)
   rol: Absuelto por sentencia 170/2019, de 8 de abril, en pieza separada. Su presidencia durante los hechos no implica
     responsabilidad por las condenas de otros.

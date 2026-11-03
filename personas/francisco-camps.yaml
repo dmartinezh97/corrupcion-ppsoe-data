@@ -1,0 +1,24 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: francisco camps
+nombre: Francisco Camps
+revisado: true
+cargoPublico: true
+wikidata: Q978036
+wikipedia: https://es.wikipedia.org/wiki/Francisco_Camps
+descripcion: Expresidente de la Generalitat Valenciana
+nacimiento:
+  año: 1962
+  lugar: Valencia
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q978036.jpg
+  autor: Partido Popular Comunitat Valenciana
+  licencia: CC BY 2.0
+  licenciaUrl: https://creativecommons.org/licenses/by/2.0
+  fuente: https://commons.wikimedia.org/wiki/File:Francisco_Camps_(2009).jpg

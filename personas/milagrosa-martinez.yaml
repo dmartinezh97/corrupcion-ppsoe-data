@@ -1,0 +1,24 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: milagrosa martinez
+nombre: Milagrosa Martínez
+revisado: true
+cargoPublico: true
+wikidata: Q14022240
+wikipedia: https://es.wikipedia.org/wiki/Milagrosa_Mart%C3%ADnez
+nacimiento:
+  año: 1958
+  lugar: Córdoba
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+descripcion: Exconsellera de Turismo y expresidenta de las Corts Valencianes
+foto:
+  archivo: ./fotos/Q14022240.jpg
+  autor: Carlesmari
+  licencia: CC BY 3.0
+  licenciaUrl: https://creativecommons.org/licenses/by/3.0
+  fuente: https://commons.wikimedia.org/wiki/File:Milagrosa_Martinez_-_Presidenta_de_les_Corts_2008.jpg

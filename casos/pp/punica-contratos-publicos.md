@@ -26,7 +26,7 @@ tribunal:
 - Audiencia Nacional — Juzgado Central de Instrucción n.º 6
 - Audiencia Nacional — Sala de lo Penal, Secciones Primera y Cuarta
 implicados:
-- nombre: Francisco Granados
+- nombre: Francisco José Granados Lerena
   cargo: Exconsejero de Presidencia, Justicia e Interior y exsecretario general del PP de Madrid
   rol: Condenado en Waiter Music a dos años y seis meses de prisión; resolución recurrible. Excluido en 2023 de
     la propuesta de enjuiciamiento de la pieza 5. No se le atribuye la condena de Cofely.
@@ -35,7 +35,7 @@ implicados:
   rol: Condenado en Cofely; pena inicial de ocho años y dos meses rectificada a cinco años y un mes según la cobertura
     de febrero de 2026. También incluido en la propuesta de enjuiciamiento de la pieza 5; situación posterior de
     esta última no contrastada aquí.
-- nombre: José Carlos Boza
+- nombre: José Carlos Boza Lechuga
   cargo: Exalcalde de Valdemoro (PP)
   rol: Absuelto en Cofely; condenado a cuatro años de prisión en Waiter Music. Resultados correspondientes a procedimientos
     distintos, sin firmeza posterior verificada.
@@ -56,13 +56,13 @@ implicados:
   cargo: Exalcalde de Moraleja de Enmedio (PP)
   rol: Condenado a cuatro años y seis meses de prisión en Cofely y a dos años en Waiter Music. No se suman como
     una pena única; firmeza posterior no verificada.
-- nombre: Agustín Juárez
+- nombre: Agustín Juárez López de Coca
   cargo: Exalcalde de Collado Villalba (PP)
   rol: Condenado a cuatro años y seis meses de prisión en Cofely; firmeza posterior no verificada.
 - nombre: Gonzalo Cubas
   cargo: Exalcalde de Torrejón de Velasco (PP)
   rol: Condenado en Cofely a tres años de inhabilitación por prevaricación, no a prisión; firmeza posterior no verificada.
-- nombre: José María Fraile
+- nombre: José María Fraile Campos
   cargo: Exalcalde de Parla (PSOE)
   rol: Condenado en Cofely a dos años de prisión por fraude, prevaricación y cohecho en concurso, y cuatro meses
     y quince días por tráfico de influencias; firmeza posterior no verificada.

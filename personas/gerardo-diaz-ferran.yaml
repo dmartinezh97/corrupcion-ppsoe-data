@@ -1,0 +1,18 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: gerardo diaz ferran
+nombre: Gerardo Díaz Ferrán
+revisado: true
+cargoPublico: false
+wikidata: Q3326609
+wikipedia: https://es.wikipedia.org/wiki/Gerardo_D%C3%ADaz_Ferr%C3%A1n
+nacimiento:
+  año: 1942
+  lugar: Madrid
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+descripcion: Empresario, expresidente de la CEOE
