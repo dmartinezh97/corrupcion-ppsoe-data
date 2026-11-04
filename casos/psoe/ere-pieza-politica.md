@@ -92,7 +92,7 @@ implicados:
   rol: 'Condenada en 2019 a nueve años de inhabilitación por prevaricación. STC 93/2024 de 19 de junio: amparo parcial
     y retroacción, excluyendo anteproyectos 2002–2004 y modificaciones de 15/21 de octubre 2002; subsiste el ámbito
     de modificaciones 2000–2001 para el nuevo pronunciamiento. No se ha verificado una pena resultante.'
-- nombre: Gaspar Zarrías Arévalo
+- nombre: Gaspar Carlos Zarrías Arévalo
   cargo: Exconsejero de la Presidencia de la Junta (2000-2004) - PSOE
   rol: 'Condenado en 2019 a nueve años de inhabilitación por prevaricación. STC 102/2024 de 17 de julio: retroacción
     para posible prevaricación en modificaciones 22 E2000–2001 y 32 H9 de diciembre 2004; excluye actos presupuestarios

@@ -1,0 +1,24 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: jaime ignacio gonzalez gonzalez
+nombre: Jaime Ignacio González González
+revisado: true
+cargoPublico: true
+wikidata: Q3081437
+wikipedia: https://es.wikipedia.org/wiki/Ignacio_Gonz%C3%A1lez_Gonz%C3%A1lez
+descripcion: Expresidente de la Comunidad de Madrid
+nacimiento:
+  año: 1960
+  lugar: Madrid
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q3081437.jpg
+  autor: PP Madrid
+  licencia: CC BY 2.0
+  licenciaUrl: https://creativecommons.org/licenses/by/2.0
+  fuente: https://commons.wikimedia.org/wiki/File:Ignacio_Gonz%C3%A1lez_Gonz%C3%A1lez_(cropped_bis).jpg

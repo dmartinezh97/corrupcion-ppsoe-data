@@ -1,0 +1,17 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: miguel angel garcia anguita
+nombre: Miguel Ángel García Anguita
+revisado: true
+cargoPublico: true
+wikidata: Q21096493
+wikipedia: https://es.wikipedia.org/wiki/Miguel_%C3%81ngel_Garc%C3%ADa_Anguita
+nacimiento:
+  año: 1951
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+descripcion: Político del PP de Jaén, exconcejal y exparlamentario andaluz

@@ -1,0 +1,23 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: vicente rambla
+nombre: Vicente Rambla
+revisado: true
+cargoPublico: true
+wikidata: Q9093346
+wikipedia: https://es.wikipedia.org/wiki/Vicente_Rambla
+descripcion: Exvicepresidente primero de la Generalitat Valenciana
+nacimiento:
+  año: 1963
+  lugar: Castellón de la Plana
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q9093346.jpg
+  autor: Carlesmari
+  licencia: Public domain
+  fuente: https://commons.wikimedia.org/wiki/File:Vicent_Rambla_PP.JPG

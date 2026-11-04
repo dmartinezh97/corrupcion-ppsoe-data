@@ -1,0 +1,23 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: jose luis abalos meco
+nombre: José Luis Ábalos Meco
+revisado: true
+cargoPublico: true
+wikidata: Q3820056
+wikipedia: https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_%C3%81balos
+descripcion: Exministro de Transportes y exdiputado
+nacimiento:
+  año: 1959
+  lugar: Torrente
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q3820056.jpg
+  autor: La Moncloa - Gobierno de España
+  licencia: Attribution
+  fuente: https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Luis_%C3%81balos_2020_(cropped).jpg

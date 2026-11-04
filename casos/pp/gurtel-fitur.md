@@ -27,7 +27,7 @@ implicados:
 - nombre: Francisco Correa Sánchez
   cargo: Empresario y dirigente del grupo de empresas Gürtel
   rol: Condenado a 13 años de prisión; condena confirmada por el Supremo el 8 de mayo de 2018
-- nombre: Pablo Crespo Sabaris
+- nombre: Pablo Crespo Sabarís
   cargo: Directivo del grupo de empresas Gürtel
   rol: Condenado a 13 años y 3 meses de prisión; condena confirmada por el Supremo el 8 de mayo de 2018
 - nombre: Álvaro Pérez Alonso, «El Bigotes»

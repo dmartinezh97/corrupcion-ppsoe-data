@@ -1,0 +1,23 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: rita barbera
+nombre: Rita Barberá
+revisado: true
+cargoPublico: true
+wikidata: Q433210
+wikipedia: https://es.wikipedia.org/wiki/Rita_Barber%C3%A1
+descripcion: Exalcaldesa de Valencia y exsenadora
+nacimiento:
+  año: 1948
+  lugar: Valencia
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q433210.jpg
+  autor: Ministerio de la Presidencia. Gobierno de España (Pool Moncloa)
+  licencia: Attribution
+  fuente: https://commons.wikimedia.org/wiki/File:(Rita_Barber%C3%A1)_Fern%C3%A1ndez_de_la_Vega_se_re%C3%BAne_con_la_alcaldesa_de_Valencia._Pool_Moncloa._6_de_octubre_de_2008_(cropped).jpeg

@@ -1,0 +1,25 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: rodrigo rato figaredo
+nombre: Rodrigo Rato Figaredo
+revisado: true
+cargoPublico: true
+wikidata: Q455748
+wikipedia: https://es.wikipedia.org/wiki/Rodrigo_Rato
+descripcion: Exvicepresidente del Gobierno y exdirector gerente del FMI
+nacimiento:
+  año: 1949
+  lugar: Madrid
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+grokipedia: https://grokipedia.com/page/Rodrigo_Rato
+foto:
+  archivo: ./fotos/Q455748.jpg
+  autor: Bankia
+  licencia: CC BY 2.5 es
+  licenciaUrl: https://creativecommons.org/licenses/by/2.5/es/deed.en
+  fuente: https://commons.wikimedia.org/wiki/File:RODRIGO_RATO_RT-8_01.JPG

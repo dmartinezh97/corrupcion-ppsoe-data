@@ -1,0 +1,18 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: gabriel echavarri fernandez
+nombre: Gabriel Echávarri Fernández
+revisado: true
+cargoPublico: true
+wikidata: Q20113584
+wikipedia: https://es.wikipedia.org/wiki/Gabriel_Ech%C3%A1varri
+descripcion: Exalcalde de Alicante
+nacimiento:
+  año: 1970
+  lugar: Alicante
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04

@@ -32,7 +32,7 @@ implicados:
   cargo: Entonces gerente del Instituto Balear de Turismo (Ibatur)
   rol: Reconoció la visita al local y la presentación de los comprobantes, que atribuyó a un error; dimitió
     en julio de 2004. No se le atribuye condena en este expediente.
-- nombre: Jaume Matas
+- nombre: Jaume Matas Palou
   cargo: Entonces presidente del Gobierno de las Islas Baleares (PP)
   rol: Encabezó la delegación oficial y negó acudir al club. Su pertenencia a la delegación no acredita asistencia
     ni imputación penal.

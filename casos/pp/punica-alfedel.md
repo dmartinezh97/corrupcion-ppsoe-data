@@ -51,7 +51,7 @@ implicados:
   rol: Incluido entre los investigados en la pieza 11 por auto de 2 de septiembre de 2019. Se investigaba el uso de poderes
     de cooperativistas, facturas y pagos presuntamente ajenos a sus intereses. Sin condena ni situación individual posterior
     acreditadas aquí.
-- nombre: Francisco Granados
+- nombre: Francisco José Granados Lerena
   cargo: Exalcalde de Valdemoro y exconsejero de la Comunidad de Madrid (PP)
   rol: Incluido en la lista de investigados de 2019. El auto le atribuye posibles influencias y comisiones vinculadas
     a operaciones de colegios; no es una declaración de culpabilidad. Los resultados de sus otras causas no resuelven

@@ -1,0 +1,24 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: juan miguel villar mir
+nombre: Juan Miguel Villar Mir
+revisado: true
+cargoPublico: true
+wikidata: Q9015805
+wikipedia: https://es.wikipedia.org/wiki/Juan_Miguel_Villar_Mir
+descripcion: Empresario, expresidente de OHL y exministro de Hacienda
+nacimiento:
+  año: 1931
+  lugar: Madrid
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q9015805.jpg
+  autor: PresidenciaComMadrid (youtube)
+  licencia: CC BY 3.0
+  licenciaUrl: https://creativecommons.org/licenses/by/3.0
+  fuente: https://commons.wikimedia.org/wiki/File:Juan_Miguel_Villar_Mir_en_la_presentaci%C3%B3n_del_proyecto_Canalejas_2013_(cropped).jpg

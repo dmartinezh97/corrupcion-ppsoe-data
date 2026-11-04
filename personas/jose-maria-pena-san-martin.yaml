@@ -1,0 +1,18 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: jose maria pena san martin
+nombre: José María Peña San Martín
+revisado: true
+cargoPublico: true
+wikidata: Q16583486
+wikipedia: https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Pe%C3%B1a_San_Mart%C3%ADn
+nacimiento:
+  año: 1937
+  lugar: La Nuez de Abajo
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+descripcion: Exalcalde de Burgos (1979-1992)

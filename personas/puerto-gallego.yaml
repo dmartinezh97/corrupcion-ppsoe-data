@@ -1,0 +1,24 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: puerto gallego
+nombre: Puerto Gallego
+revisado: true
+cargoPublico: true
+wikidata: Q6092069
+wikipedia: https://es.wikipedia.org/wiki/Puerto_Gallego
+descripcion: Exalcaldesa de Santoña y exdiputada
+nacimiento:
+  año: 1963
+  lugar: Santoña
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q6092069.jpg
+  autor: Government of Cantabria Press Office
+  licencia: CC BY 3.0 es
+  licenciaUrl: https://creativecommons.org/licenses/by/3.0/es/deed.en
+  fuente: https://commons.wikimedia.org/wiki/File:(Puerto_Gallego)_V%C3%ADctor_Puerto_lidiar%C3%A1_el_26_de_marzo_seis_toros_en_una_corrida_ben%C3%A9fica_en_favor_de_las_v%C3%ADctimas_del_%22Nuevo_Pil%C3%ADn%22.jpg

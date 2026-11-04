@@ -29,7 +29,7 @@ implicados:
   cargo: Empresario al frente del grupo Correa
   rol: Condenado a 51 años de prisión en esta pieza según la STS y la tabla oficial de 2020; no se confunde con el máximo
     de cumplimiento o penas de otras piezas
-- nombre: Pablo Crespo Sabaris
+- nombre: Pablo Crespo Sabarís
   cargo: Organizador del grupo Correa y exdirigente del PP gallego
   rol: Condenado a 36 años y ocho meses en esta pieza. Libertad condicional comunicada en marzo de 2026, con obligación de
     seguir pagando responsabilidad civil; no equivale a extinción de todas las penas

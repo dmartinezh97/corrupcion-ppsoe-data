@@ -121,6 +121,15 @@ Contenido detallado del caso en Markdown...
 
 Ver `PLANTILLA_INSTITUCION.md` para el formato completo.
 
+### Personas (fotos y datos de implicados)
+
+`personas/{nombre}.yaml` guarda datos extra de un implicado: descripción, año y lugar de nacimiento, enlaces a Wikipedia y Wikidata, y su retrato. Las fichas las propone el script `npm run personas:wikidata -- --buscar` del repositorio web, con `revisado: false`, y la lista para revisar está en `REVISION_PERSONAS.tsv`.
+
+- Solo se publica una ficha con `revisado: true`, después de comprobar en Wikidata que es la misma persona.
+- `grokipedia` solo lo rellena `--descargar` tras comprobar que la página existe; no se escribe a mano sin comprobarlo.
+- La foto solo se muestra con `cargoPublico: true` (personas que han ocupado un cargo público), nunca de particulares.
+- Las fotos (`personas/fotos/`) vienen de Wikimedia Commons y conservan su propia licencia libre (CC0, dominio público, CC BY o CC BY-SA), con autor y fuente en la ficha. No están bajo la licencia de este repositorio.
+
 ## Licencia
 
 Los datos de este repositorio se publican bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

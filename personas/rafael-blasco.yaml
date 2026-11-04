@@ -1,0 +1,24 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: rafael blasco
+nombre: Rafael Blasco
+revisado: true
+cargoPublico: true
+wikidata: Q9065739
+wikipedia: https://es.wikipedia.org/wiki/Rafael_Blasco
+descripcion: Exconseller de la Generalitat Valenciana
+nacimiento:
+  año: 1945
+  lugar: Alcira
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q9065739.jpg
+  autor: Partido Popular Comunitat Valenciana
+  licencia: CC BY 2.0
+  licenciaUrl: https://creativecommons.org/licenses/by/2.0
+  fuente: https://commons.wikimedia.org/wiki/File:Rafael_Blasco.jpg

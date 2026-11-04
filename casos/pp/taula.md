@@ -51,7 +51,7 @@ implicados:
   cargo: Exvicepresidente de la Diputación y exconsejero delegado de Ciegsa
   rol: 'Cinco años en los contratos «zombis», con recurso documentado en 2026. En otra pieza aceptó once meses por tentativa
     de insolvencia punible: sentencia declarada firme y prisión suspendida según la información de junio de 2025.'
-- nombre: Alfonso Grau
+- nombre: Alfonso Grau Alonso
   cargo: Exvicealcalde de Valencia
   rol: Condenado en la pieza A a cuatro años y medio por malversación y cohecho; sentencia recurrida ante el Supremo según
     información de junio de 2026.

@@ -1,0 +1,23 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: juan vicente herrera
+nombre: Juan Vicente Herrera
+revisado: true
+cargoPublico: true
+wikidata: Q3046157
+wikipedia: https://es.wikipedia.org/wiki/Juan_Vicente_Herrera
+descripcion: Expresidente de la Junta de Castilla y León
+nacimiento:
+  año: 1956
+  lugar: Burgos
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q3046157.jpg
+  autor: Cortes de Castilla y León
+  licencia: Public domain
+  fuente: https://commons.wikimedia.org/wiki/File:Juan_Vicente_Herrera_(foto_oficial).jpg

@@ -1,0 +1,18 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: pedro garcia gimeno
+nombre: Pedro García Gimeno
+revisado: true
+cargoPublico: true
+wikidata: Q6068882
+wikipedia: https://es.wikipedia.org/wiki/Pedro_Garc%C3%ADa_Gimeno
+nacimiento:
+  año: 1969
+  lugar: Alcira
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+descripcion: Exdirector general de Radiotelevisión Valenciana

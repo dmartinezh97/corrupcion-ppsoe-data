@@ -1,0 +1,23 @@
+# Ficha generada por scripts/wikidata-personas.ts. Revisión:
+# 1. Comprobar en Wikidata que `wikidata` es esta persona (cargo, fechas, partido); si no, cambiarlo o borrarlo.
+# 2. Poner cargoPublico: true solo si ha ocupado un cargo público (sin eso no se muestra la foto).
+# 3. Poner revisado: true, revisadoPor y fechaRevision, y borrar `candidatos`.
+# 4. Ejecutar --descargar para traer la foto con su autor y licencia.
+
+clave: rafael vera fernandez huidobro
+nombre: Rafael Vera Fernández-Huidobro
+revisado: true
+cargoPublico: true
+wikidata: Q6098074
+wikipedia: https://es.wikipedia.org/wiki/Rafael_Vera
+descripcion: Exsecretario de Estado de Seguridad del Ministerio del Interior
+nacimiento:
+  año: 1945
+  lugar: Madrid
+revisadoPor: astra (revisión asistida por IA)
+fechaRevision: 2026-11-04
+foto:
+  archivo: ./fotos/Q6098074.jpg
+  autor: Ministerio de la Presidencia. Gobierno de España (Pool Moncloa)
+  licencia: Attribution
+  fuente: https://commons.wikimedia.org/wiki/File:(Rafael_Vera)_El_secretario_general_de_la_Oficina_Portavoz_del_Gobierno_ofrece_la_rueda_de_prensa_posterior_al_Consejo_de_Ministros_junto_al_subsecretario_del_ministerio_del_Interior._Pool_Moncloa._1_de_febrero_de_1986_(cropped).jpeg

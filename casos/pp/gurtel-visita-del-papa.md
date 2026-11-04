@@ -28,7 +28,7 @@ implicados:
 - nombre: Francisco Correa Sánchez
   cargo: Dirigente del grupo de empresas Gürtel
   rol: Condenado a 13 años y 7 meses de prisión; no recurrió en casación
-- nombre: Pablo Crespo Sabaris
+- nombre: Pablo Crespo Sabarís
   cargo: Directivo del grupo Gürtel y exdirigente del PP gallego
   rol: Condenado a 15 años y 5 meses de prisión; no recurrió en casación
 - nombre: Álvaro Pérez Alonso, «El Bigotes»
