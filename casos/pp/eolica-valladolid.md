@@ -8,39 +8,43 @@ estadoPrincipal: Pendiente de sentencia
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: Juicio concluido en enero de 2026; fallo posterior no documentado
-descripcion: 'La trama eólica de Castilla y León examinó el presunto condicionamiento de autorizaciones de parques
-  eólicos a la entrada de empresarios locales designados desde la Consejería de Economía de la Junta, gobernada
-  por el PP. La acusación atribuye a Rafael Delgado, exviceconsejero y posterior secretario general de Economía,
-  un sistema de control de licencias e intereses empresariales. El relato fiscal abarca actuaciones de distintos
-  años, principalmente entre 2003/2004 y 2011, con un marco de investigación descrito también como 2000-2015. Son
-  imputaciones de las acusaciones y testimonios sometidos a juicio, no hechos probados por una sentencia localizada.
+descripcion: >-
+  La trama eólica de Castilla y León examinó el presunto condicionamiento de autorizaciones de parques eólicos
+  a la entrada de empresarios locales designados desde la Consejería de Economía de la Junta, gobernada por el
+  PP. La acusación atribuye a Rafael Delgado, exviceconsejero y posterior secretario general de Economía, un
+  sistema de control de licencias e intereses empresariales. El relato fiscal abarca actuaciones de distintos
+  años, principalmente entre 2003/2004 y 2011, con un marco de investigación descrito también como 2000-2015.
+  Son imputaciones de las acusaciones y testimonios sometidos a juicio, no hechos probados por una sentencia
+  localizada.
 
 
-  El juicio ante la Sección Cuarta de la Audiencia Provincial de Valladolid comenzó el 15 de septiembre de 2025
-  y quedó visto para sentencia el 21 de enero de 2026. Según Europa Press, el 7 de enero todas las acusaciones retiraron
-  los cargos contra Rafael Icaza de la Sota, Pedro Barriuso Otaola y César Hernández Chico. No se confunde esa retirada
-  con el mantenimiento de cargos contra los once restantes ni con una sentencia absolutoria cuyo texto se hubiera
-  consultado. Antes del juicio habían quedado fuera Manuel Ordóñez, fallecido, y Marc Nadelar, por enfermedad, según
-  las crónicas. Las diferencias entre recuentos de dieciséis o diecisiete encausados iniciales, catorce al inicio
-  y once al final no se resuelven reconstruyendo identidades sin los autos y conclusiones originales.
+  El juicio ante la Sección Cuarta de la Audiencia Provincial de Valladolid comenzó el 15 de septiembre de
+  2025 y quedó visto para sentencia el 21 de enero de 2026. Según Europa Press, el 7 de enero todas las
+  acusaciones retiraron los cargos contra Rafael Icaza de la Sota, Pedro Barriuso Otaola y César Hernández
+  Chico. No se confunde esa retirada con el mantenimiento de cargos contra los once restantes ni con una
+  sentencia absolutoria cuyo texto se hubiera consultado. Antes del juicio habían quedado fuera Manuel
+  Ordóñez, fallecido, y Marc Nadelar, por enfermedad, según las crónicas. Las diferencias entre recuentos de
+  dieciséis o diecisiete encausados iniciales, catorce al inicio y once al final no se resuelven
+  reconstruyendo identidades sin los autos y conclusiones originales.
 
 
-  Las peticiones finales de las acusaciones sumaban unos 116 años de prisión y 648 millones de euros de multa; para
-  Delgado se mantenían 42 años y 239 millones. Son penas solicitadas, no condenas. Las estimaciones de 75-80 millones
-  por presuntas comisiones o plusvalías tampoco constituyen un daño judicial firme ni se suman a multas, fianzas
-  o indemnizaciones reclamadas. La fianza de 24,1 millones exigida inicialmente a la Junta fue dejada sin efecto
-  por un auto de la Audiencia de 5 de octubre de 2022, según la prensa: la exención de garantía no eliminaba su
-  condición de responsable civil subsidiaria ni resolvía la responsabilidad sobre el fondo.
+  Las peticiones finales de las acusaciones sumaban unos 116 años de prisión y 648 millones de euros de multa;
+  para Delgado se mantenían 42 años y 239 millones. Son penas solicitadas, no condenas. Las estimaciones de
+  75-80 millones por presuntas comisiones o plusvalías tampoco constituyen un daño judicial firme ni se suman
+  a multas, fianzas o indemnizaciones reclamadas. La fianza de 24,1 millones exigida inicialmente a la Junta
+  fue dejada sin efecto por un auto de la Audiencia de 5 de octubre de 2022, según la prensa: la exención de
+  garantía no eliminaba su condición de responsable civil subsidiaria ni resolvía la responsabilidad sobre el
+  fondo.
 
 
-  La información de elDiario.es publicada el 20 de julio de 2026 indicaba que aún no se había dictado sentencia.
-  Hasta el 17 de octubre de 2026 no se ha recuperado aquí una resolución posterior, ni los escritos definitivos
-  o los autos originales que permitan cerrar todos los estados individuales y responsabilidades civiles. Por tanto,
-  no se presenta la ausencia de noticias como prueba de que el tribunal continúe pendiente de resolver ni se atribuye
-  un resultado o firmeza actual. El acta oficial de la Sala de Gobierno del TSJ de 16 de diciembre de 2025 acredita
-  medidas de apoyo para el juicio y su deliberación, pero no contiene un fallo penal. Las condenas de Perla Negra
-  pertenecen a otro procedimiento y no se trasladan a esta causa. También existen otras fichas del mismo proceso
-  eólico, cuyos importes no deben sumarse. Estas lagunas mantienen la revisión incompleta.'
+  La información de elDiario.es publicada el 20 de julio de 2026 indicaba que aún no se había dictado
+  sentencia. Hasta el 17 de octubre de 2026 no se ha recuperado aquí una resolución posterior, ni los escritos
+  definitivos o los autos originales que permitan cerrar todos los estados individuales y responsabilidades
+  civiles. Por tanto, no se presenta la ausencia de noticias como prueba de que el tribunal continúe pendiente
+  de resolver ni se atribuye un resultado o firmeza actual. El acta oficial de la Sala de Gobierno del TSJ de
+  16 de diciembre de 2025 acredita medidas de apoyo para el juicio y su deliberación, pero no contiene un
+  fallo penal. Las condenas de Perla Negra pertenecen a otro procedimiento y no se trasladan a esta causa.
+  También existen otras fichas del mismo proceso eólico, cuyos importes no deben sumarse.
 resumen: 'Trama eólica de Castilla y León: juicio concluido en enero de 2026 con once acusados tras tres retiradas
   de cargos; no se ha documentado aquí el fallo posterior'
 lugar: Castilla y León (principalmente Valladolid)

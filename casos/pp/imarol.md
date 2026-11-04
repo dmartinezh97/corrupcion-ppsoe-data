@@ -7,12 +7,27 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Condenas confirmadas en apelación; firmeza expresamente citada en la sentencia de Erial de 2024"
-descripcion: |
-  José Luis Olivas, expresidente de la Generalitat Valenciana y de Bancaja, y el empresario Vicente Cotino fueron condenados por falsedad en documento mercantil y delito contra la Hacienda Pública en relación con una factura de Imarol a Sedesa Inversiones por 500.000 euros más 80.000 euros de IVA. La factura aparentaba retribuir servicios empresariales que no se habían prestado y se dedujo como gasto en el Impuesto de Sociedades de 2008 del Grupo Fiscal Asedes Capital. El perjuicio tributario recogido por la información judicial fue de 150.000 euros.
+descripcion: >-
+  José Luis Olivas, expresidente de la Generalitat Valenciana y de Bancaja, y el empresario Vicente Cotino
+  fueron condenados por falsedad en documento mercantil y delito contra la Hacienda Pública en relación con
+  una factura de Imarol a Sedesa Inversiones por 500.000 euros más 80.000 euros de IVA. La factura aparentaba
+  retribuir servicios empresariales que no se habían prestado y se dedujo como gasto en el Impuesto de
+  Sociedades de 2008 del Grupo Fiscal Asedes Capital. El perjuicio tributario recogido por la información
+  judicial fue de 150.000 euros.
 
-  La sentencia 7/2017 del Juzgado de lo Penal nº 6 de Valencia es del 12 de enero de 2017; se notificó y difundió el día 13. Impuso a cada acusado un año y medio de prisión y una multa de 151.800 euros. Mercedes Álvarez, esposa de Olivas y socia de Imarol, fue absuelta al no acreditarse su participación en la factura irregular. La Audiencia Provincial confirmó las condenas el 24 de marzo de 2017. La sentencia de Erial de 2024 cita expresamente la condena de Imarol como firme, sin que esta revisión haya obtenido las resoluciones separadas de 2017 ni documentación de ejecución.
 
-  Imarol y Erial son procesos distintos: en Erial, Olivas fue absuelto en 2024 al no acreditarse que ese pago fuera una comisión por favorecer la adjudicación de parques eólicos. Esa absolución no revoca la condena fiscal y documental previa. La revisión hasta el 17 de octubre de 2026 mantiene pendientes la ejecución de las penas y la recuperación efectiva del perjuicio.
+  La sentencia 7/2017 del Juzgado de lo Penal nº 6 de Valencia es del 12 de enero de 2017; se notificó y
+  difundió el día 13. Impuso a cada acusado un año y medio de prisión y una multa de 151.800 euros. Mercedes
+  Álvarez, esposa de Olivas y socia de Imarol, fue absuelta al no acreditarse su participación en la factura
+  irregular. La Audiencia Provincial confirmó las condenas el 24 de marzo de 2017. La sentencia de Erial de
+  2024 cita expresamente la condena de Imarol como firme, sin disponer de las resoluciones separadas de 2017
+  ni documentación de ejecución.
+
+
+  Imarol y Erial son procesos distintos: en Erial, Olivas fue absuelto en 2024 al no acreditarse que ese pago
+  fuera una comisión por favorecer la adjudicación de parques eólicos. Esa absolución no revoca la condena
+  fiscal y documental previa. Al 17 de octubre de 2026, no están acreditadas la ejecución de las penas ni la
+  recuperación efectiva del perjuicio.
 resumen: "Condena de Olivas y Vicente Cotino por una factura falsa deducida como gasto fiscal"
 coste: 150000
 lugar: "Valencia, Comunidad Valenciana"
@@ -90,4 +105,4 @@ La [sentencia oficial de Erial, ECLI:ES:APV:2024:1209](https://www.poderjudicial
 
 Las fuentes periodísticas de febrero de 2017 contienen una discrepancia: una versión de Europa Press hablaba de recurso ante el Supremo, mientras que el cuerpo actual de Valencia Plaza lo identifica como apelación ante la Audiencia. Los antecedentes judiciales de 2024 acreditan esta última vía y su resolución el 24 de marzo. No se incorpora una casación no comprobada.
 
-La fecha de creación informática del PDF oficial es de marzo de 2026 y no altera la fecha del acto judicial, 15 de octubre de 2024. El documento publicado en CENDOJ tiene 181 páginas; su formato es distinto de la versión de 364 páginas mencionada por la nota de prensa y del extracto de 75 páginas difundido en otro alojamiento. No se afirma una lectura integral de esos documentos. Faltan las resoluciones separadas de 2017 y actuaciones de ejecución: no se afirma ingreso en prisión, suspensión, cumplimiento ni pago efectivo de multa o indemnización. Por esas lagunas, la ficha permanece incompleta.
+La fecha de creación informática del PDF oficial es de marzo de 2026 y no altera la fecha del acto judicial, 15 de octubre de 2024. El documento publicado en CENDOJ tiene 181 páginas; su formato es distinto de la versión de 364 páginas mencionada por la nota de prensa y del extracto de 75 páginas difundido en otro alojamiento. Faltan las resoluciones separadas de 2017 y actuaciones de ejecución: no se afirma ingreso en prisión, suspensión, cumplimiento ni pago efectivo de multa o indemnización.

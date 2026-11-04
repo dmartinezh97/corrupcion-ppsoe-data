@@ -8,32 +8,33 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas y absoluciones tras casación; nulidades resueltas y ejecución pendiente
-descripcion: 'La pieza Acyco de los ERE se refiere a las ayudas relacionadas con la reestructuración de Aceitunas
-  y Conservas SAL, de Dos Hermanas. El acuerdo laboral es de 2 de julio de 2003; la solicitud del ERE se presentó
-  el día 3 y se autorizó la extinción de 35 contratos el 23. El protocolo fechado el 26 de julio comprometía financiación
-  de pólizas por 2.832.482,52 euros al contado o 2.951.413,84 aplazados. Esas magnitudes de financiación no equivalen
-  al daño penal finalmente delimitado.
+descripcion: >-
+  La pieza Acyco de los ERE se refiere a las ayudas relacionadas con la reestructuración de Aceitunas y
+  Conservas SAL, de Dos Hermanas. El acuerdo laboral es de 2 de julio de 2003; la solicitud del ERE se
+  presentó el día 3 y se autorizó la extinción de 35 contratos el 23. El protocolo fechado el 26 de julio
+  comprometía financiación de pólizas por 2.832.482,52 euros al contado o 2.951.413,84 aplazados. Esas
+  magnitudes de financiación no equivalen al daño penal finalmente delimitado.
 
 
-  La Audiencia de Sevilla dictó la sentencia 5/2022 el 12 de enero de 2022 y la notificó el 14. Condenó a siete
-  acusados, absolvió a otros tres exaltos cargos y declaró extinguida por fallecimiento la responsabilidad de dos
-  encausados. El Tribunal Supremo, en la sentencia 1103/2024 de 29 de noviembre, absolvió a Antonio Fernández y
-  Juan Márquez por cosa juzgada y prohibición de doble enjuiciamiento. Mantuvo condenas para cinco particulares,
-  limitadas a operaciones que consideró ajenas a la cobertura de las sentencias del Tribunal Constitucional sobre
-  la pieza del procedimiento específico.
+  La Audiencia de Sevilla dictó la sentencia 5/2022 el 12 de enero de 2022 y la notificó el 14. Condenó a
+  siete acusados, absolvió a otros tres exaltos cargos y declaró extinguida por fallecimiento la
+  responsabilidad de dos encausados. El Tribunal Supremo, en la sentencia 1103/2024 de 29 de noviembre,
+  absolvió a Antonio Fernández y Juan Márquez por cosa juzgada y prohibición de doble enjuiciamiento. Mantuvo
+  condenas para cinco particulares, limitadas a operaciones que consideró ajenas a la cobertura de las
+  sentencias del Tribunal Constitucional sobre la pieza del procedimiento específico.
 
 
-  Las penas de prisión resultantes fueron de cuatro años para Encarnación Poto y José Miguel Caballero, tres años,
-  seis meses y un día para Gabriel Barrero, tres años y nueve meses para Antonio Albarracín y dos años para Jesús
-  María Bordallo. El fallo establece responsabilidad civil solidaria con distintos límites individuales y un principal
-  máximo de 743.158,28 euros, no cinco indemnizaciones acumulables de ese importe. El auto del Supremo de 26 de
-  marzo de 2025 desestimó los cinco incidentes de nulidad.
+  Las penas de prisión resultantes fueron de cuatro años para Encarnación Poto y José Miguel Caballero, tres
+  años, seis meses y un día para Gabriel Barrero, tres años y nueve meses para Antonio Albarracín y dos años
+  para Jesús María Bordallo. El fallo establece responsabilidad civil solidaria con distintos límites
+  individuales y un principal máximo de 743.158,28 euros, no cinco indemnizaciones acumulables de ese importe.
+  El auto del Supremo de 26 de marzo de 2025 desestimó los cinco incidentes de nulidad.
 
 
-  La sentencia de casación y el auto de nulidad advierten que no cabe recurso contra ellos. Se distingue ese cierre
-  de la vía ordinaria de la ejecución, el cobro de la responsabilidad civil o un eventual amparo, cuyo estado no
-  se ha podido verificar al 17 de octubre de 2026. La lectura de los originales es parcial y quedan diferencias
-  de céntimos entre sus fundamentos y el fallo; por ello la revisión permanece incompleta.'
+  La sentencia de casación y el auto de nulidad advierten que no cabe recurso contra ellos. Se distingue ese
+  cierre de la vía ordinaria de la ejecución, el cobro de la responsabilidad civil o un eventual amparo, cuyo
+  estado no se ha podido verificar al 17 de octubre de 2026. Existen diferencias de céntimos entre los
+  fundamentos y el fallo que siguen sin aclararse.
 resumen: 'Acyco: absolución de dos exaltos cargos por cosa juzgada y condena de cinco particulares tras la casación;
   nulidades rechazadas en marzo de 2025.'
 coste: 743158.28
@@ -76,8 +77,8 @@ implicados:
   rol: Responsabilidad penal declarada extinguida por fallecimiento en la sentencia de primera instancia.
 - nombre: Andrés Carrasco Muñoz
   cargo: Beneficiario ajeno a la plantilla incluido en el ERE
-  rol: Responsabilidad penal declarada extinguida por fallecimiento. La fuente nominal lo distingue del exalcalde
-    de San Nicolás del Puerto, Domingo Martínez; se retira la identificación errónea de la ficha anterior.
+  rol: Responsabilidad penal declarada extinguida por fallecimiento. La fuente nominal lo distingue del
+    exalcalde de San Nicolás del Puerto, Domingo Martínez.
 - nombre: Agustín Barberá
   cargo: Exviceconsejero de Empleo de la Junta
   rol: Absuelto en primera instancia de prevaricación y falsedad, según Europa Press y la nota judicial.
@@ -188,11 +189,11 @@ cronologia:
   relevancia: alta
 ---
 
-## Resoluciones y alcance de la revisión
+## Resoluciones y documentación disponible
 
-Se han obtenido tres PDF oficiales del CENDOJ: la sentencia AP 5/2022, de **12 de enero** (102 páginas en esta exportación); la sentencia y segunda sentencia TS 1103/2024, de **29 de noviembre** (114 páginas); y el auto de **26 de marzo de 2025** (8 páginas). Las fechas de generación de los PDF en 2026 no son fechas de los actos. Se han cotejado cabeceras, fallos y pasajes concretos; no se afirma una lectura íntegra de los dos textos extensos.
+Se han obtenido tres PDF oficiales del CENDOJ: la sentencia AP 5/2022, de **12 de enero** (102 páginas en esta exportación); la sentencia y segunda sentencia TS 1103/2024, de **29 de noviembre** (114 páginas); y el auto de **26 de marzo de 2025** (8 páginas). Las fechas de generación de los PDF en 2026 no son fechas de los actos.
 
-Los nombres se contrastan con información nominal de Europa Press, Servimedia, RTVE y Andalucía Información, no mediante equivalencias supuestas entre los seudónimos de los PDF. La [noticia nominal de Europa Press de febrero de 2022](https://www.europapress.es/andalucia/sevilla-00357/noticia-audiencia-sevilla-fija-297-millones-indemnizacion-impuesta-dos-condenados-ere-acyco-20220214151911.html) identifica a los tres exaltos cargos absueltos y a los dos encausados cuya responsabilidad se extinguió. La referencia heredada que convertía a Andrés Carrasco en exalcalde de San Nicolás del Puerto se retira: RTVE identifica como exalcalde a Domingo Martínez.
+Los nombres se contrastan con información nominal de Europa Press, Servimedia, RTVE y Andalucía Información, no mediante equivalencias supuestas entre los seudónimos de los PDF. La [noticia nominal de Europa Press de febrero de 2022](https://www.europapress.es/andalucia/sevilla-00357/noticia-audiencia-sevilla-fija-297-millones-indemnizacion-impuesta-dos-condenados-ere-acyco-20220214151911.html) identifica a los tres exaltos cargos absueltos y a los dos encausados cuya responsabilidad se extinguió. RTVE identifica como exalcalde de San Nicolás del Puerto a Domingo Martínez, no a Andrés Carrasco.
 
 ## Efectos de las sentencias constitucionales
 
@@ -202,7 +203,7 @@ El auto de marzo de 2025 desestimó la nulidad solicitada por los cinco particul
 
 ## Principal civil y cantidades distintas
 
-El campo `coste` se ajusta al **principal de 743.158,28 euros que fija el fallo de casación**. No recoge los 2,9 millones de financiación de pólizas ni las cifras del conjunto de los ERE. La responsabilidad solidaria no multiplica el perjuicio por el número de condenados, y las responsabilidades subsidiarias de Garrigues y DCOOP tampoco añaden otro daño. El fallo contiene diferentes límites individuales: 743.158,28 euros para tres condenados, 499.558,83 para otro y 223.052,91 para el quinto. Por ello se corrige la afirmación de que los cinco responden por la misma cantidad íntegra.
+El **principal fijado en el fallo de casación es de 743.158,28 euros**. No recoge los 2,9 millones de financiación de pólizas ni las cifras del conjunto de los ERE. La responsabilidad solidaria no multiplica el perjuicio por el número de condenados, y las responsabilidades subsidiarias de Garrigues y DCOOP tampoco añaden otro daño. El fallo contiene diferentes límites individuales: 743.158,28 euros para tres condenados, 499.558,83 para otro y 223.052,91 para el quinto. Los cinco no responden por la misma cantidad íntegra.
 
 La sentencia distingue los importes relacionados con las dos personas ajenas a la plantilla (223.052,91 euros), la adenda (243.600) y la prejubilación de la presidenta (276.505,92). Esas tres cifras suman 743.158,83, **55 céntimos más** que el principal del fallo. Además, un pasaje del fundamento 33 recoge 223.052,96 donde el fallo fija 223.052,91. Se conserva el fallo sin subsanar por cuenta propia esas diferencias; queda pendiente una eventual aclaración.
 
@@ -210,4 +211,4 @@ El Supremo menciona también una ayuda de 82.000 euros ligada a una minuta de 10
 
 ## Pendientes al 17 de octubre de 2026
 
-Queda por comprobar la ejecución de las penas, la recuperación del principal y sus intereses, posibles aclaraciones de las diferencias numéricas y un eventual amparo contra la condena de los particulares. No se han localizado resoluciones posteriores específicas que despejen esos extremos. No se infiere su inexistencia por falta de resultados de búsqueda. `completado: false` expresa esas lagunas; se elimina una fecha final global basada en la publicación de diciembre de 2024.
+Queda por comprobar la ejecución de las penas, la recuperación del principal y sus intereses, posibles aclaraciones de las diferencias numéricas y un eventual amparo contra la condena de los particulares. No se han localizado resoluciones posteriores específicas que despejen esos extremos. La falta de constancia no demuestra su inexistencia. La publicación de diciembre de 2024 no acredita una fecha de cierre global.

@@ -69,7 +69,7 @@ cronologia:
   relevancia: alta
 ---
 
-La denuncia cuestionaba la entrega y el destino de las aportaciones de feriantes para las fiestas fundacionales. La [noticia de mayo de 2019](https://elmeridiano.es/los-concejales-socialistas-investigados-declararan-al-dia-30-de-mayo-en-vez-de-este-viernes-24/) expone principalmente la versión del PP y anuncia un aplazamiento de citaciones; no permite dar por probado un desvío ni una declaración efectivamente celebrada. Se omiten los días exactos de la denuncia de febrero y de los hechos festivos porque no están acreditados.
+La denuncia cuestionaba la entrega y el destino de las aportaciones de feriantes para las fiestas fundacionales. La [noticia de mayo de 2019](https://elmeridiano.es/los-concejales-socialistas-investigados-declararan-al-dia-30-de-mayo-en-vez-de-este-viernes-24/) expone principalmente la versión del PP y anuncia un aplazamiento de citaciones; no permite dar por probado un desvío ni una declaración efectivamente celebrada. No están acreditados los días exactos de la denuncia de febrero ni de los hechos festivos.
 
 El [acta municipal de la sesión de 27 de noviembre de 2019](https://transparencia.massamagrell.es/wp-content/uploads/2020/12/20200313_ACTA-PLENO-NUM.-20_2019-DE-FECHA-27-DE-NOVIEMBRE_Portal-de-Transparencia.pdf) recoge el archivo provisional en las páginas 24–25 y reproduce en la página 28 el pasaje atribuido al auto de las diligencias 258/2019. El razonamiento reseñado contrasta la documentación de alquiler de mesas y sillas y el pago de los feriantes a la empresa prestadora. El debate distingue expresamente entre auto y sentencia, aunque algunas intervenciones políticas emplean términos imprecisos.
 

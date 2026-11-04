@@ -9,15 +9,16 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: pendiente de juicio
-descripcion: 'La pieza 8 de Púnica aborda presuntas irregularidades entre 2003 y 2011 en adjudicaciones de suelo
-  de Arpegio, actuaciones del Plan Prisma y contratos de infraestructuras de Mintra. En junio de 2024 el instructor
-  propuso juzgar a Francisco Granados y otras 42 personas; no fue una condena. El 26 de mayo de 2026 se difundió
-  la apertura de juicio oral contra Granados y otras 40 personas, entre ellas David Marjaliza y Javier López Madrid.
-  Anticorrupción solicita 42 años de prisión para Granados, 17 años y nueve meses para Marjaliza y 15 para López
-  Madrid: son peticiones, no penas impuestas. No se han verificado los autos originales, el alcance de los recursos
-  de 2025, la lista completa y situación de los acusados ni un señalamiento o resolución posterior hasta el 15 de
-  octubre de 2026. Las condenas de otras piezas de Púnica y las decisiones de Lezo no resuelven esta pieza. No consta
-  aquí un daño total judicialmente fijado; se elimina la cifra de 15 millones que no tenía respaldo suficiente.'
+descripcion: "La pieza 8 de Púnica aborda presuntas irregularidades entre 2003 y 2011 en adjudicaciones de suelo de
+  Arpegio, actuaciones del Plan Prisma y contratos de infraestructuras de Mintra. En junio de 2024 el
+  instructor propuso juzgar a Francisco Granados y otras 42 personas; no fue una condena. El 26 de mayo de
+  2026 se difundió la apertura de juicio oral contra Granados y otras 40 personas, entre ellas David Marjaliza
+  y Javier López Madrid. Anticorrupción solicita 42 años de prisión para Granados, 17 años y nueve meses para
+  Marjaliza y 15 para López Madrid: son peticiones, no penas impuestas. No se han verificado los autos
+  originales, el alcance de los recursos de 2025, la lista completa y situación de los acusados ni un
+  señalamiento o resolución posterior hasta el 15 de octubre de 2026. Las condenas de otras piezas de Púnica y
+  las decisiones de Lezo no resuelven esta pieza. No consta aquí un daño total judicialmente fijado; la cifra
+  de 15 millones carece de respaldo suficiente."
 resumen: Pieza de Púnica sobre suelo público, obras Prisma e infraestructuras de transporte de Madrid; apertura
   de juicio oral difundida en mayo de 2026, con alcance individual y evolución posterior pendientes de contraste
   completo.

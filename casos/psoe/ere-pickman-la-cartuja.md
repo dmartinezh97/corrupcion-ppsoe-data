@@ -156,7 +156,7 @@ cronologia:
   relevancia: alta
 ---
 
-Esta ficha conserva como objeto las ayudas al ERE de Pickman La Cartuja, no la totalidad del procedimiento de los ERE ni todas las ayudas recibidas por la empresa. Los hechos atribuidos a cada persona deben contrastarse con su resolución propia.
+El procedimiento se refiere a las ayudas al ERE de Pickman La Cartuja, no a la totalidad de los ERE ni a todas las ayudas recibidas por la empresa. Los hechos atribuidos a cada persona deben contrastarse con su resolución propia.
 
 La [información de noviembre de 2018](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/ERE-Bolanos-imputa-Rivas-Pickman_0_1304570024.amp.html) distingue las ayudas concedidas de las efectivamente pagadas. Recoge la tesis de Anticorrupción sobre el procedimiento de concesión, los beneficiarios y el pago cruzado desde Faja Pirítica. La diferencia entre importes concedidos y pagados no constituye por sí misma una cuantificación de responsabilidad civil. El [atestado divulgado en 2015](https://www.libertaddigital.com/espana/2015-07-21/viera-troceo-una-ayuda-de-la-junta-para-evitar-los-controles-1276553288/) examinaba además el fraccionamiento de una ayuda de 1,8 millones en anualidades de 625.000, 600.000 y 575.000 euros. Estas cantidades no deben agregarse automáticamente a las ayudas globales, pues no se ha acreditado que representen operaciones adicionales.
 

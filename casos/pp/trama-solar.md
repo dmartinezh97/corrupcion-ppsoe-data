@@ -9,18 +9,18 @@ estadoPrincipal: Pendiente de sentencia
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: visto para sentencia
-descripcion: 'La causa investiga presuntas presiones para que promotores de parques eólicos aceptaran socios locales
-  elegidos desde la Consejería de Economía de Castilla y León, mediante el bloqueo o desbloqueo de autorizaciones.
-  No se presenta ese mecanismo como un hecho ya declarado probado. El juicio comenzó el 15 de septiembre de 2025
-  y concluyó el 21 de enero de 2026 con once personas acusadas. El 7 de enero se habían retirado todas las acusaciones
-  contra César Hernández Chico, Rafael Icaza y Pedro Barriuso; Ricardo Bravo continuó acusado, al contrario de lo
-  que decía esta ficha. La última información contrastada, publicada el 20 de julio de 2026, indicaba que aún no
-  se había dictado sentencia. No se ha verificado una resolución posterior hasta el 15 de octubre de 2026: no se
-  infiere de esa laguna que la situación de julio continuara inalterada. Los aproximadamente 75 millones de euros
-  son presuntas mordidas según la acusación, no daño público total fijado judicialmente ni multas impuestas. Faltan
-  los originales judiciales y el contraste completo de los pronunciamientos individuales. Esta misma causa aparece
-  en eolica_valladolid y eolico: sus cuantías no deben sumarse. La ruta histórica trama-solar se conserva, pero
-  esta ficha no corresponde al procedimiento fotovoltaico de Zamora.'
+descripcion: "La causa investiga presuntas presiones para que promotores de parques eólicos aceptaran socios locales
+  elegidos desde la Consejería de Economía de Castilla y León, mediante el bloqueo o desbloqueo de
+  autorizaciones. No se presenta ese mecanismo como un hecho ya declarado probado. El juicio comenzó el 15 de
+  septiembre de 2025 y concluyó el 21 de enero de 2026 con once personas acusadas. El 7 de enero se habían
+  retirado todas las acusaciones contra César Hernández Chico, Rafael Icaza y Pedro Barriuso; Ricardo Bravo
+  continuó acusado, al contrario de lo que decía esta ficha. La última información contrastada, publicada el
+  20 de julio de 2026, indicaba que aún no se había dictado sentencia. No se ha verificado una resolución
+  posterior hasta el 15 de octubre de 2026: no se infiere de esa laguna que la situación de julio continuara
+  inalterada. Los aproximadamente 75 millones de euros son presuntas mordidas según la acusación, no daño
+  público total fijado judicialmente ni multas impuestas. Faltan los originales judiciales y el contraste
+  completo de los pronunciamientos individuales. Esta misma causa aparece en eolica_valladolid y eolico: sus
+  cuantías no deben sumarse. Este caso es distinto del procedimiento fotovoltaico de Zamora."
 resumen: Presuntas irregularidades en autorizaciones eólicas de Castilla y León. Juicio concluido en enero de 2026;
   última información contrastada de julio sin sentencia, con evolución posterior pendiente de verificación.
 lugar: Castilla y León
@@ -151,16 +151,16 @@ cronologia:
   relevancia: alta
 ---
 
-Esta ficha conserva el objeto de su contenido anterior: la Trama Eólica de Castilla y León, no la causa fotovoltaica de Zamora conocida también como trama solar. Comparte proceso con las fichas eolica_valladolid y eolico del repositorio. Se mantiene la ruta existente, sin convertirlas en tres hechos económicos diferentes.
+El procedimiento corresponde a la Trama Eólica de Castilla y León, distinta de la causa fotovoltaica de Zamora conocida también como trama solar. Es el mismo proceso descrito en [Trama Eólica de Valladolid](/casos/pp/eolica-valladolid/) y [Caso Eólico](/casos/pp/eolico/). Estas referencias corresponden a un mismo procedimiento y no a tres hechos económicos diferentes.
 
-La hipótesis acusatoria es que se condicionó la autorización de parques a la incorporación de determinados empresarios locales y a posteriores operaciones sobre sus participaciones. Las defensas discutieron tanto la existencia de imposiciones como la valoración de las ventas y la relevancia penal de la actuación administrativa. El juicio comprende un período de hechos que la prensa describe con marcos diferentes, principalmente desde 2003/2004 y con operaciones posteriores. No se fija un día inicial ficticio ni se conserva la fecha del 1 de diciembre de 2014 sin documento que la justifique.
+La hipótesis acusatoria es que se condicionó la autorización de parques a la incorporación de determinados empresarios locales y a posteriores operaciones sobre sus participaciones. Las defensas discutieron tanto la existencia de imposiciones como la valoración de las ventas y la relevancia penal de la actuación administrativa. El juicio comprende un período de hechos que la prensa describe con marcos diferentes, principalmente desde 2003/2004 y con operaciones posteriores. No consta un día exacto acreditado de inicio.
 
 Los once acusados al cierre son Delgado, Rodríguez Recio, Alberto y Francisco Esgueva, Martín Giraldo, Andrés Martín de Paz, los tres hermanos Llorente, Ricardo Bravo y María del Mar Moreno. Las retiradas de acusación de enero afectaron a Hernández Chico, Icaza y Barriuso. La exclusión de Galdón al principio de la vista, la de Nadelar por salud y el fallecimiento de Ordóñez tienen causas procesales distintas. Villanueva había fallecido en 2017; no puede presentarse como condenado por este proceso ni atribuirle como hecho probado el diseño de la trama.
 
 Las peticiones iniciales y finales no son intercambiables. La cobertura del cierre recoge 116 años de prisión y unos 648 millones de multa solicitados globalmente, frente a cifras mayores al comienzo. La Abogacía del Estado redujo su acusación por delitos fiscales y reseñó 36 años y 236 millones para Delgado; otras informaciones mantienen para la acusación principal 42 años y 239 millones. Se trata de peticiones de partes distintas, no penas impuestas ni una rebaja judicial acreditada.
 
-Tampoco son equivalentes las presuntas comisiones, la rentabilidad de operaciones societarias, las multas solicitadas y la responsabilidad civil reclamada. Una acusación particular elevó en enero su reclamación de 362 a 618 millones, cifra discutida por las defensas. No se adopta esa pretensión como un perjuicio ya reconocido. La cifra de aproximadamente 75 millones se describe como la estimación acusatoria de mordidas, sin incorporarla al campo de coste como daño consolidado.
+Tampoco son equivalentes las presuntas comisiones, la rentabilidad de operaciones societarias, las multas solicitadas y la responsabilidad civil reclamada. Una acusación particular elevó en enero su reclamación de 362 a 618 millones, cifra discutida por las defensas. No se adopta esa pretensión como un perjuicio ya reconocido. Los aproximadamente 75 millones corresponden a la estimación acusatoria de mordidas, no a un daño consolidado.
 
-Perla Negra comparte algunas personas pero tiene otros hechos y resoluciones. Se eliminan referencias que usaban sus condenas para definir la situación de los acusados en el juicio eólico, incluida la afirmación incorrecta de que Alberto Esgueva había sido condenado en aquel asunto. Los litigios tributarios sobre competencia inspectora tampoco equivalen por sí solos a nulidad o absolución de toda esta causa penal.
+Perla Negra comparte algunas personas pero tiene otros hechos y resoluciones. Las condenas de ese otro procedimiento no determinan la situación de los acusados en el juicio eólico; tampoco acreditan una condena de Alberto Esgueva en aquel asunto. Los litigios tributarios sobre competencia inspectora tampoco equivalen por sí solos a nulidad o absolución de toda esta causa penal.
 
-La revisión no ha obtenido originales verificables de los autos ni una sentencia sobre estos hechos. La falta de una resolución posterior a la noticia de julio no acredita que no exista: quedan pendientes el desenlace, los recursos y la eventual firmeza individual hasta el corte de octubre de 2026. Por ese motivo no se ofrece un número de sentencia ni documentos ajenos como si fueran el fallo de esta causa.
+No se dispone de originales verificables de los autos ni de una sentencia sobre estos hechos. La falta de una resolución posterior a la noticia de julio no acredita que no exista: quedan pendientes el desenlace, los recursos y la eventual firmeza individual hasta el corte de octubre de 2026. Por ese motivo no se ofrece un número de sentencia ni documentos ajenos como si fueran el fallo de esta causa.

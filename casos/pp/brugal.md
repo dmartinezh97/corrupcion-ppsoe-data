@@ -8,58 +8,61 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Resoluciones distintas por piezas; Calp pendiente de nueva sentencia
-descripcion: 'El caso Brugal (acrónimo de "Basuras RUrales Gestión ALicante") es una macrocausa de corrupción iniciada
-  en 2006 a partir de grabaciones del empresario Ángel Fenoll sobre la adjudicación del contrato de basuras de Orihuela.
-  La instrucción se ramificó en cerca de veinte piezas separadas que han afectado a municipios e instituciones de
-  la provincia de Alicante (Orihuela, Calp, Alicante y la comarca de la Vega Baja, entre otros). Las primeras detenciones
-  se produjeron en mayo de 2007 y una segunda oleada el 6 de julio de 2010, en la que fue detenido, entre otros,
-  el entonces presidente de la Diputación de Alicante José Joaquín Ripoll. El mes de mayo de 2007 solo se conoce
-  con precisión de mes, por lo que no se consigna un día.
+descripcion: >-
+  El caso Brugal (acrónimo de "Basuras RUrales Gestión ALicante") es una macrocausa de corrupción iniciada en
+  2006 a partir de grabaciones del empresario Ángel Fenoll sobre la adjudicación del contrato de basuras de
+  Orihuela. La instrucción se ramificó en cerca de veinte piezas separadas que han afectado a municipios e
+  instituciones de la provincia de Alicante (Orihuela, Calp, Alicante y la comarca de la Vega Baja, entre
+  otros). Las primeras detenciones se produjeron en mayo de 2007 y una segunda oleada el 6 de julio de 2010,
+  en la que fue detenido, entre otros, el entonces presidente de la Diputación de Alicante José Joaquín
+  Ripoll. El mes de mayo de 2007 solo se conoce con precisión de mes, por lo que no se consigna un día.
 
 
-  En la pieza matriz (contrato de basuras de Orihuela) se sucedieron una absolución, su anulación y una nueva sentencia.
-  La Sección Séptima de la Audiencia Provincial de Alicante, con sede en Elche, absolvió a los 34 acusados el 3
-  de junio de 2020 tras declarar nulas las escuchas, los registros y las grabaciones aportadas por Fenoll. El Tribunal
-  Supremo anuló esa sentencia en julio de 2024, declaró válidas las pruebas y ordenó dictar un nuevo fallo. La nueva
-  sentencia, fechada el 8 de enero de 2026 (SAP A 1/2026; ECLI:ES:APA:2026:1) y notificada a las partes el lunes
-  12 de enero, condenó a 9 de los 33 acusados y absolvió a los 24 restantes, entre ellos el exalcalde José Manuel
-  Medina. Fueron condenados, entre otros, Mónica Lorente (4 meses de prisión y 20 meses de inhabilitación), los
-  exconcejales Antonio Rodríguez (4 meses), Manuel Abadía (5 meses) y Ginés Sánchez (1 año), el interventor
-  José Manuel Espinosa (8 meses) y el empresario Ángel Fenoll (penas que suman 3 años y 9 meses). Cinco condenados
-  deberán indemnizar solidariamente al Ayuntamiento de Orihuela con casi 600.000 euros. La nota del CGPJ que difundió
-  el fallo indicó, al notificarlo, que cabía recurso de casación; no consta en fuentes primarias si se interpuso
-  o resolvió recurso posterior, por lo que no se afirma el estado procesal actual de la sentencia.
+  En la pieza matriz (contrato de basuras de Orihuela) se sucedieron una absolución, su anulación y una nueva
+  sentencia. La Sección Séptima de la Audiencia Provincial de Alicante, con sede en Elche, absolvió a los 34
+  acusados el 3 de junio de 2020 tras declarar nulas las escuchas, los registros y las grabaciones aportadas
+  por Fenoll. El Tribunal Supremo anuló esa sentencia en julio de 2024, declaró válidas las pruebas y ordenó
+  dictar un nuevo fallo. La nueva sentencia, fechada el 8 de enero de 2026 (SAP A 1/2026; ECLI:ES:APA:2026:1)
+  y notificada a las partes el lunes 12 de enero, condenó a 9 de los 33 acusados y absolvió a los 24
+  restantes, entre ellos el exalcalde José Manuel Medina. Fueron condenados, entre otros, Mónica Lorente (4
+  meses de prisión y 20 meses de inhabilitación), los exconcejales Antonio Rodríguez (4 meses), Manuel Abadía
+  (5 meses) y Ginés Sánchez (1 año), el interventor José Manuel Espinosa (8 meses) y el empresario Ángel
+  Fenoll (penas que suman 3 años y 9 meses). Cinco condenados deberán indemnizar solidariamente al
+  Ayuntamiento de Orihuela con casi 600.000 euros. La nota del CGPJ que difundió el fallo indicó, al
+  notificarlo, que cabía recurso de casación; no consta en fuentes primarias si se interpuso o resolvió
+  recurso posterior, por lo que no se afirma el estado procesal actual de la sentencia.
 
 
-  Otras piezas con resoluciones documentadas: el PGOU de Alicante (la Audiencia condenó en julio de 2021 a multas
-  por cohecho a Luis Díaz Alperi y al empresario Enrique Ortiz y absolvió a Sonia Castedo; el Tribunal Supremo confirmó
-  en mayo de 2024 la condena de Ortiz y absolvió a Alperi por prescripción); el Plan Zonal de Residuos de la Vega
-  Baja (el 15 de octubre de 2024 se publicó la absolución de los 13 acusados, entre ellos Ripoll, Lorente, Fenoll y
-  Ortiz); y las basuras de Calp (la Audiencia condenó el 24 de octubre de 2022 al exalcalde Javier Morató, a los
-  exediles Fernando Penella y Juan Roselló y a Ángel Fenoll; el Tribunal Supremo anuló esa sentencia por resolución
-  156/2026, fechada el 24 de febrero de 2026 (ROJ STS 885/2026; ECLI:ES:TS:2026:885), difundida por el CGPJ el 3
-  de marzo de 2026, y ordenó dictar una nueva. Una información de La Marina de 15 de octubre de 2026 la sitúa todavía
-  pendiente de nueva resolución).
+  Otras piezas con resoluciones documentadas: el PGOU de Alicante (la Audiencia condenó en julio de 2021 a
+  multas por cohecho a Luis Díaz Alperi y al empresario Enrique Ortiz y absolvió a Sonia Castedo; el Tribunal
+  Supremo confirmó en mayo de 2024 la condena de Ortiz y absolvió a Alperi por prescripción); el Plan Zonal de
+  Residuos de la Vega Baja (el 15 de octubre de 2024 se publicó la absolución de los 13 acusados, entre ellos
+  Ripoll, Lorente, Fenoll y Ortiz); y las basuras de Calp (la Audiencia condenó el 24 de octubre de 2022 al
+  exalcalde Javier Morató, a los exediles Fernando Penella y Juan Roselló y a Ángel Fenoll; el Tribunal
+  Supremo anuló esa sentencia por resolución 156/2026, fechada el 24 de febrero de 2026 (ROJ STS 885/2026;
+  ECLI:ES:TS:2026:885), difundida por el CGPJ el 3 de marzo de 2026, y ordenó dictar una nueva. Una
+  información de La Marina de 15 de octubre de 2026 la sitúa todavía pendiente de nueva resolución).
 
 
-  Importes documentados y su alcance: en Calp la sentencia de 2022 cifró las mordidas en 745.254 euros según elDiario.es, pero esa resolución fue anulada por el Tribunal Supremo en
-  2026, por lo que la cifra no es un pronunciamiento firme. En Orihuela la sentencia de 8 de enero de 2026 fija
-  una indemnización de casi 600.000 euros. La indemnización de Orihuela incluye 517.502,73 y 79.379,70 euros (596.882,43
-  euros), además de una responsabilidad pendiente de cuantificación vinculada a Urbaser. No se ha localizado una
-  cifra global verificable del coste de la macrocausa: las cantidades conocidas corresponden a piezas concretas
-  y a conceptos distintos (mordidas, indemnización, perjuicio alegado y reclamaciones municipales), por lo que no
+  Importes documentados y su alcance: en Calp la sentencia de 2022 cifró las mordidas en 745.254 euros según
+  elDiario.es, pero esa resolución fue anulada por el Tribunal Supremo en 2026, por lo que la cifra no es un
+  pronunciamiento firme. En Orihuela la sentencia de 8 de enero de 2026 fija una indemnización de casi 600.000
+  euros. La indemnización de Orihuela incluye 517.502,73 y 79.379,70 euros (596.882,43 euros), además de una
+  responsabilidad pendiente de cuantificación vinculada a Urbaser. No se ha localizado una cifra global
+  verificable del coste de la macrocausa: las cantidades conocidas corresponden a piezas concretas y a
+  conceptos distintos (mordidas, indemnización, perjuicio alegado y reclamaciones municipales), por lo que no
   se suman ni se presentan como equivalentes.
 
 
-  Limitaciones: el estado procesal varía según la pieza y no consta el de las condenas de 2026; la nota del CGPJ
-  solo acredita la notificación y la posibilidad de casación. No se ha localizado el resultado de un eventual recurso
-  de casación contra la absolución del Plan Zonal de 2024 ni la nueva sentencia de Calp ordenada por el Supremo
-  en 2026. Las fuentes no ofrecen una fecha única de inicio: distinguen las grabaciones iniciales, las diligencias
-  de Fiscalía de noviembre de 2006 y la posterior investigación judicial. Las primeras detenciones constan en mayo
-  de 2007, sin día contrastado. La ficha "Aguas de Calpe" de este repositorio documenta un procedimiento distinto
-  —presuntos sobrecostes en obras del agua de Calp, no la pieza de las basuras— y comparte protagonistas como Juan Roselló y Francisco Artacho: sus resultados no se trasladan de una causa a otra.
-
-  '
+  Limitaciones: el estado procesal varía según la pieza y no consta el de las condenas de 2026; la nota del
+  CGPJ solo acredita la notificación y la posibilidad de casación. No se ha localizado el resultado de un
+  eventual recurso de casación contra la absolución del Plan Zonal de 2024 ni la nueva sentencia de Calp
+  ordenada por el Supremo en 2026. Las fuentes no ofrecen una fecha única de inicio: distinguen las
+  grabaciones iniciales, las diligencias de Fiscalía de noviembre de 2006 y la posterior investigación
+  judicial. Las primeras detenciones constan en mayo de 2007, sin día contrastado. La ficha "Aguas de Calpe"
+  de este repositorio documenta un procedimiento distinto —presuntos sobrecostes en obras del agua de Calp, no
+  la pieza de las basuras— y comparte protagonistas como Juan Roselló y Francisco Artacho: sus resultados no
+  se trasladan de una causa a otra.
 resumen: Macrocausa de sobornos en contratos de basuras y residuos en la provincia de Alicante, con varias piezas
   y resoluciones de 2024 a 2026; el estado procesal posterior de las condenas de 2026 no consta
 lugar: Orihuela, Calp, Alicante y otros municipios de la provincia de Alicante, Comunidad Valenciana
@@ -274,6 +277,6 @@ En las basuras de Calp, las condenas de 2022 quedaron anuladas por el Supremo el
 
 La sentencia de Orihuela fija 517.502,73 y 79.379,70 euros de responsabilidad civil solidaria, que suman 596.882,43 euros, y otra cantidad pendiente de liquidación vinculada a Urbaser. No se multiplica esa responsabilidad por el número de obligados. Las comisiones descritas en la sentencia de Calp de 2022 pertenecen a un fallo anulado; tampoco constituyen una cuantificación global del perjuicio de Brugal. Multas, comisiones, indemnizaciones y volumen de contratos responden a conceptos diferentes.
 
-La falta de comprobación de los recursos posteriores de Orihuela y del Plan Zonal y del nuevo fallo de Calp impide dar por cerrada la revisión de la macrocausa.
+No constan el resultado de los recursos posteriores de Orihuela y del Plan Zonal ni el nuevo fallo de Calp; no está acreditado un cierre global de la macrocausa.
 
 Los nombres de los condenados y del exalcalde absuelto de Orihuela se contrastan con la [información nominal de enero de 2026](https://www.lavanguardia.com/local/valencia/20260112/11431377/condenan-exalcaldesa-orihuela-pp-pieza-relativa-basuras-caso-brugal.html), sin deducir identidades de los seudónimos de CENDOJ. Las fuentes de 2022 discrepan sobre el pago al club de fútbol de Calp; no se fija ese desglose sin el fallo original, posteriormente anulado.

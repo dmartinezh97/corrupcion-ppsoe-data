@@ -8,22 +8,25 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: cerrado con condenas
-descripcion: 'El caso Turisme Jove investigó la gestión del consorcio público juvenil de Baleares durante la etapa
-  2003–2007. La sentencia 8/2014, de 13 de enero, de la Sección Primera de la Audiencia Provincial de Palma impuso
-  condenas por conformidad a doce personas y absolvió a Miguel Rigo Sastre. La causa principal no terminó en 2011,
-  como indicaba la ficha anterior.
+descripcion: >-
+  El caso Turisme Jove investigó la gestión del consorcio público juvenil de Baleares durante la etapa
+  2003–2007. La sentencia 8/2014, de 13 de enero, de la Sección Primera de la Audiencia Provincial de Palma
+  impuso condenas por conformidad a doce personas y absolvió a Miguel Rigo Sastre. La causa principal continuó
+  después de 2011.
 
 
-  Juan Francisco Gálvez Díaz, exdirector general de Juventud, y Damián Amengual Aloy, exgerente del consorcio, recibieron
-  penas de prisión resumidas en tres años cada uno; Juan Francisco Gosálbez Rodríguez, exjefe de Servicios, recibió
-  tres años y siete meses. El fallo distribuye individualmente los delitos, penas, multas, comisos y responsabilidades
-  civiles: no todos responden por los mismos hechos ni deben sumarse sus inhabilitaciones como períodos sucesivos.
+  Juan Francisco Gálvez Díaz, exdirector general de Juventud, y Damián Amengual Aloy, exgerente del consorcio,
+  recibieron penas de prisión resumidas en tres años cada uno; Juan Francisco Gosálbez Rodríguez, exjefe de
+  Servicios, recibió tres años y siete meses. El fallo distribuye individualmente los delitos, penas, multas,
+  comisos y responsabilidades civiles: no todos responden por los mismos hechos ni deben sumarse sus
+  inhabilitaciones como períodos sucesivos.
 
 
-  Jaume Matas fue juzgado por separado y absuelto de prevaricación, malversación y falsedad mercantil, por la sentencia
-  170/2019, de 8 de abril, difundida por el Poder Judicial el día 10. En 2025 se documenta además una controversia
-  sobre rehabilitación funcionarial, distinta de la culpabilidad penal. Quedan pendientes los originales completos
-  de las revisiones y ejecuciones, así como el seguimiento hasta el 17 de octubre de 2026.'
+  Jaume Matas fue juzgado por separado y absuelto de prevaricación, malversación y falsedad mercantil, por la
+  sentencia 170/2019, de 8 de abril, difundida por el Poder Judicial el día 10. En 2025 se documenta además
+  una controversia sobre rehabilitación funcionarial, distinta de la culpabilidad penal. Quedan pendientes los
+  originales completos de las revisiones y ejecuciones, así como el seguimiento hasta el 17 de octubre de
+  2026.
 resumen: Condenas por conformidad en enero de 2014 por la gestión de Turisme Jove, con responsabilidades individuales.
   Matas fue absuelto en una pieza posterior en 2019; ejecución y revisiones pendientes de completar.
 lugar: Illes Balears
@@ -114,7 +117,7 @@ cronologia:
 
 La sentencia principal contiene condenas individuales y una absolución expresa de Miguel Rigo Sastre. En su fallo figuran, entre otras, indemnizaciones de 18.957,25 euros a la Red Española de Albergues Juveniles y 19.723 euros al consorcio por facturas distintas, con obligados y responsabilidades subsidiarias diferentes. No se agregan estas cantidades ni los comisos y multas como un daño único.
 
-Se retira el coste de tres millones de euros, sin respaldo judicial identificado. También se retiran la supuesta deuda de Sa Vinyeta y su presupuesto: no se han revalidado los expedientes que permitirían distinguir obra, pagos, deuda y perjuicio penal. La referencia histórica a más de un millón investigado no sustituye una liquidación de responsabilidad civil.
+Los tres millones de euros no cuentan con respaldo judicial como daño de la causa. Faltan los expedientes de Sa Vinyeta necesarios para distinguir el presupuesto de obra, los pagos, la deuda y el perjuicio penal. La referencia histórica a más de un millón investigado no sustituye una liquidación de responsabilidad civil.
 
 ## Pieza separada y evolución posterior
 
@@ -124,6 +127,6 @@ La absolución de Matas en 2019 se refiere a su posible intervención en una ord
 
 ## Límites documentales
 
-Se obtuvo una copia escaneada de la sentencia principal alojada en Última Hora, con fecha judicial comprobada visualmente de 13 de enero de 2014. El archivo tiene 45 páginas PDF y su última hoja lleva numeración impresa 46: requiere cotejo con la copia completa de la sede judicial. Se leyeron la identificación y el fallo mediante OCR, no todos los hechos y fundamentos. La fecha de creación del archivo, 17 de enero de 2014, corresponde a su preparación o difusión.
+Última Hora aloja una copia escaneada de la sentencia principal, fechada el 13 de enero de 2014. El archivo tiene 45 páginas PDF y su última hoja lleva numeración impresa 46: requiere cotejo con la copia completa de la sede judicial. La fecha de creación del archivo, 17 de enero de 2014, corresponde a su preparación o difusión.
 
-Se ha recuperado el PDF oficial de la sentencia 170/2019, de 8 de abril, de nueve páginas: se han leído la cabecera, antecedentes y pasajes finales con el fallo, no toda la fundamentación. La referencia nominal a Matas se contrasta con la nota oficial, sin inferirla del seudónimo de CENDOJ. El original califica como firme la sentencia principal de 2014; esto no acredita el pago completo por todos sus responsables ni la firmeza de la absolución de 2019. Los originales de ejecución, pagos y eventuales recursos siguen pendientes. La búsqueda hasta el corte del 17 de octubre de 2026 no demuestra ausencia de novedades.
+Está disponible el original de la sentencia 170/2019, de 8 de abril, de nueve páginas. La referencia nominal a Matas se contrasta con la nota oficial, sin inferirla del seudónimo de CENDOJ. El original califica como firme la sentencia principal de 2014; esto no acredita el pago completo por todos sus responsables ni la firmeza de la absolución de 2019. Los originales de ejecución, pagos y eventuales recursos siguen pendientes. Al 17 de octubre de 2026, la ausencia de noticias no demuestra la inexistencia de novedades.

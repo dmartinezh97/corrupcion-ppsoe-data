@@ -66,8 +66,8 @@ cronologia:
   - https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Andalucia/DOCUMENTOS%20DE%20INTERES/Sentencia-CasoTroya.pdf
 - fecha: '2011-09-22'
   titulo: Inicio del juicio oral
-  descripcion: La sentencia de instancia fija el comienzo de las sesiones el 22 de septiembre de 2011 y su final
-    el 16 de diciembre de ese año. Se corrige la referencia anterior a septiembre de 2010.
+  descripcion: La sentencia de instancia fija el comienzo de las sesiones el 22 de septiembre de 2011 y su final el 16
+    de diciembre de ese año.
   type: juicio
   relevancia: alta
   urls:
@@ -120,8 +120,8 @@ La ficha precisa la condena como cohecho del artículo 425 del Código Penal apl
 
 Los 122.000 euros son la cantidad exigida; no se presentan como pago efectivamente recibido ni como daño público. Las multas de 200.000 euros por condenado son penas y no se suman a aquella cantidad para calcular un coste. No se fija un perjuicio económico indemnizable en esta ficha.
 
-Se han obtenido dos PDF judiciales originales del Poder Judicial, verificados por contenido, fecha y número de páginas. Se han leído los antecedentes, hechos probados y fallo de instancia, y la portada, pasajes finales sobre tipificación y fallo del Supremo; no toda su fundamentación. Las fechas de creación de los archivos y de las noticias no sustituyen las fechas de las sentencias.
+Se han obtenido dos PDF judiciales originales del Poder Judicial, verificados por contenido, fecha y número de páginas. Las fechas de creación de los archivos y de las noticias no sustituyen las fechas de las sentencias.
 
 Cadena SER documentó el 8 de noviembre de 2013 la comunicación de firmeza a ambos condenados y el comienzo de la suspensión. Se atribuye esta información a la noticia: no se ha obtenido el auto original ni se acredita con ella el pago de la multa.
 
-Quedan pendientes los autos de ejecución, el pago completo de las multas y cualquier incidencia o recurso ulterior hasta el 17 de octubre de 2026. La búsqueda realizada no acredita una revocación, pero no demuestra ausencia de novedades. Se retiran la etimología atribuida a la operación policial, las fechas rellenadas de 2006 y 2009 y la afirmación de que el regreso político ocurrió con apoyo del PP, incompatible con la noticia leída.
+Quedan pendientes los autos de ejecución, el pago completo de las multas y cualquier incidencia o recurso ulterior hasta el 17 de octubre de 2026. No consta una revocación; ello no demuestra la ausencia de novedades. No están acreditados el origen atribuido al nombre de la operación, las fechas exactas de 2006 y 2009 ni el apoyo del PP al regreso político.

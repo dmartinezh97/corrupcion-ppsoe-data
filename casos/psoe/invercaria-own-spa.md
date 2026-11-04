@@ -10,10 +10,17 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "absuelto"
 lugar: "Sevilla / Cádiz, Andalucía"
-descripcion: |
-  Pieza de Invercaria sobre la financiación de Own&Spa. La Sección Cuarta de la Audiencia de Sevilla absolvió a Tomás Pérez-Sauquillo, Manuel Vizcaíno Fernández y María Ángeles Vizcaíno Fernández de prevaricación y malversación. Según Europa Press, la sentencia fue dictada el 22 de septiembre de 2022 y difundida el 6 de octubre.
+descripcion: >-
+  Pieza de Invercaria sobre la financiación de Own&Spa. La Sección Cuarta de la Audiencia de Sevilla absolvió
+  a Tomás Pérez-Sauquillo, Manuel Vizcaíno Fernández y María Ángeles Vizcaíno Fernández de prevaricación y
+  malversación. Según Europa Press, la sentencia fue dictada el 22 de septiembre de 2022 y difundida el 6 de
+  octubre.
 
-  Las crónicas explican que los avales personales cubrieron el préstamo de 150.000 euros. No se conserva el anterior coste de 304.044 euros. Falta obtener la sentencia original y comprobar su número y la evolución de los recursos o firmeza al corte del 17 de octubre de 2026; no se presenta la absolución como un sobreseimiento definitivo.
+
+  Las crónicas explican que los avales personales cubrieron el préstamo de 150.000 euros. Los 304.044 euros no
+  están acreditados como daño. Falta obtener la sentencia original y comprobar su número y la evolución de los
+  recursos o firmeza al corte del 17 de octubre de 2026; no se presenta la absolución como un sobreseimiento
+  definitivo.
 resumen: "Absolución de los tres acusados por la financiación de Own&Spa. Las crónicas recogen la recuperación del préstamo mediante avales; original y firmeza pendientes."
 tribunal:
   - "Juzgado de Instrucción nº 16 de Sevilla"
@@ -53,7 +60,7 @@ cronologia:
       - "https://www.eldiario.es/andalucia/absueltos-perez-sauquillo-presidente-cadiz-prestamo-invercaria-own-spa_1_9600719.html"
   - fecha: "2022-09-22"
     titulo: "Sentencia absolutoria según la información de Europa Press"
-    descripcion: "La noticia publicada el 6 de octubre atribuye esta fecha a la sentencia. El original no ha sido recuperado en la revisión."
+    descripcion: La noticia publicada el 6 de octubre atribuye esta fecha a la sentencia. No se dispone del original.
     type: "sentencia"
     relevancia: "alta"
     urls:
@@ -69,8 +76,8 @@ cronologia:
 
 Según Servimedia, la Fiscalía solicitó penas de prisión e inhabilitación y una indemnización solidaria de 150.000 euros a Inverseed SCR; eran peticiones, no condenas. El PP retiró su acusación al terminar el juicio.
 
-El tribunal, conforme a las crónicas, valoró el estudio técnico del proyecto y no consideró acreditada una decisión arbitraria de financiación. El fracaso empresarial no bastó para apreciar delitos. Se elimina la anterior presentación de una concesión sin análisis como hecho probado.
+El tribunal, conforme a las crónicas, valoró el estudio técnico del proyecto y no consideró acreditada una decisión arbitraria de financiación. El fracaso empresarial no bastó para apreciar delitos. No está acreditada como hecho probado una concesión sin análisis.
 
 El préstamo quedó satisfecho mediante ejecución de avales personales y ni Invercaria ni IDEA reclamaron indemnización en este procedimiento, según la información contemporánea. Esto no permite equiparar toda aportación al capital con una devolución ni establecer un balance económico completo. No se suman financiación, petición indemnizatoria y anteriores estimaciones como daño.
 
-No se mantiene la supuesta concesión del préstamo al constituirse la empresa ni la fecha de cierre del 1 de octubre de 2022. El original judicial y los posibles recursos siguen pendientes; documentos queda vacío y la revisión incompleta. La vinculación institucional de Invercaria con la Junta no acredita afiliación individual de todos los acusados.
+No están acreditadas la concesión del préstamo al constituirse la empresa ni una fecha de cierre el 1 de octubre de 2022. El original judicial y los posibles recursos siguen pendientes; faltan documentos para acreditar el desenlace. La vinculación institucional de Invercaria con la Junta no acredita afiliación individual de todos los acusados.

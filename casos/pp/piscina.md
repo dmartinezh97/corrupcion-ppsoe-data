@@ -9,12 +9,24 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Absolución comunicada en 2014; firmeza y eventuales recursos no verificados"
-descripcion: |
-  El caso Piscina se refiere a la adquisición de terrenos en Asabanos por el Ayuntamiento de Valverde (El Hierro), destinada a equipamiento municipal. El acta municipal de 27 de marzo de 2013 identifica el acuerdo de compra del 29 de julio de 2002 y las diligencias previas 417/2006 contra Agustín Padrón Benítez, Ana María Guadarrama Padrón y Fernando Juan Padrón Armas.
+descripcion: >-
+  El caso Piscina se refiere a la adquisición de terrenos en Asabanos por el Ayuntamiento de Valverde (El
+  Hierro), destinada a equipamiento municipal. El acta municipal de 27 de marzo de 2013 identifica el acuerdo
+  de compra del 29 de julio de 2002 y las diligencias previas 417/2006 contra Agustín Padrón Benítez, Ana
+  María Guadarrama Padrón y Fernando Juan Padrón Armas.
 
-  La Sección Sexta de la Audiencia Provincial de Santa Cruz de Tenerife absolvió a los tres de malversación de caudales públicos y prevaricación administrativa, según la información de EFE publicada el 24 de junio de 2014. El tribunal no consideró acreditado un precio excesivo ni una resolución arbitraria: valoró las periciales y que el expediente había comenzado con publicidad y concurrencia, motivando la adjudicación directa. Un acta municipal posterior también deja constancia del resultado absolutorio.
 
-  Esta causa es distinta de la compra de terrenos para aparcamientos en Las Calcosas, por la que Padrón y otro concejal fueron condenados en un procedimiento diferente. No se trasladan aquí sus penas, dimisiones ni cuantías. En la revisión hasta el 17 de octubre de 2026 no se ha recuperado la sentencia original de Piscina ni documentación que permita precisar su fecha judicial, número, firmeza o eventuales recursos posteriores.
+  La Sección Sexta de la Audiencia Provincial de Santa Cruz de Tenerife absolvió a los tres de malversación de
+  caudales públicos y prevaricación administrativa, según la información de EFE publicada el 24 de junio de
+  2014. El tribunal no consideró acreditado un precio excesivo ni una resolución arbitraria: valoró las
+  periciales y que el expediente había comenzado con publicidad y concurrencia, motivando la adjudicación
+  directa. Un acta municipal posterior también deja constancia del resultado absolutorio.
+
+
+  Esta causa es distinta de la compra de terrenos para aparcamientos en Las Calcosas, por la que Padrón y otro
+  concejal fueron condenados en un procedimiento diferente. No se trasladan aquí sus penas, dimisiones ni
+  cuantías. Hasta el 17 de octubre de 2026 no se ha recuperado la sentencia original de Piscina ni
+  documentación que permita precisar su fecha judicial, número, firmeza o eventuales recursos posteriores.
 resumen: "Absolución de tres exmiembros del Ayuntamiento de Valverde por la compra de terrenos para una piscina"
 lugar: "Valverde, El Hierro, Canarias"
 tribunal:
@@ -73,8 +85,8 @@ El resultado acreditado para Piscina es una **absolución**, no un sobreseimient
 
 El [acta municipal de 2013](https://aytovalverde.org/wp-content/uploads/2013/03/130327-ORD.pdf), páginas 24–27, permite comprobar el acuerdo de compra y los nombres completos de los tres miembros de la corporación. Otro [documento municipal alojado como acta de marzo de 2015](https://aytovalverde.org/wp-content/uploads/2015/03/150326.ORD_.pdf), páginas 3–4 del PDF, deja constancia de la absolución y distingue expresamente las diligencias **417/2006** de las **436/2006**, que terminaron con condenas de Agustín Padrón y José Miguel León. Este último documento contiene una discordancia entre la fecha de su encabezado y la del párrafo de apertura; se utiliza para corroborar la separación de procedimientos y el resultado, sin fijar con él una nueva fecha judicial.
 
-La [noticia de julio de 2013 sobre el Supremo](https://www.diariodeavisos.com/2013/07/supremo-ratifica-condena-contra-exalcalde-valverde-agustin-padron/) precisa al final que la compra condenada fue la de un solar a Frompeca para aparcamientos. Corresponde al [caso Parking Las Calcosas](/casos/pp/parking-las-calcosas/). Por eso se retiran de Piscina la compra de 1999, los 182.707 euros, la tasación de 39.065 euros, las condenas y las renuncias políticas de 2013. Esta revisión no modifica la ficha de aquel otro caso.
+La [noticia de julio de 2013 sobre el Supremo](https://www.diariodeavisos.com/2013/07/supremo-ratifica-condena-contra-exalcalde-valverde-agustin-padron/) precisa al final que la compra condenada fue la de un solar a Frompeca para aparcamientos. Corresponde al [caso Parking Las Calcosas](/casos/pp/parking-las-calcosas/). La compra de 1999, los 182.707 euros, la tasación de 39.065 euros, las condenas y las renuncias políticas de 2013 pertenecen al otro procedimiento.
 
-Tampoco se contabiliza como daño la petición fiscal de 214.000 euros: los acusados fueron absueltos. Se elimina el coste agregado heredado de 143.642 euros, sin sustituirlo por cero. Los créditos y gastos de asistencia jurídica de las actas son conceptos diferentes y no se suman a un supuesto perjuicio por la adquisición de suelo.
+Tampoco se contabiliza como daño la petición fiscal de 214.000 euros: los acusados fueron absueltos. No consta un perjuicio conjunto acreditado de 143.642 euros; ello tampoco acredita la ausencia de daño. Los créditos y gastos de asistencia jurídica de las actas son conceptos diferentes y no se suman a un supuesto perjuicio por la adquisición de suelo.
 
-La revisión al 17 de octubre de 2026 no ha obtenido el texto judicial original, una declaración de firmeza ni resoluciones de recursos. Las búsquedas de novedades no permiten afirmar por sí solas que no existieran otras actuaciones. La ficha permanece incompleta por estas lagunas; no se convierte la fecha de la noticia de 2014 en fecha exacta de sentencia o cierre definitivo.
+Al 17 de octubre de 2026, no se dispone del texto judicial original, una declaración de firmeza ni resoluciones de recursos. La ausencia de noticias no demuestra la inexistencia de otras actuaciones. La fecha de la noticia de 2014 no acredita el día exacto de la sentencia ni un cierre definitivo.

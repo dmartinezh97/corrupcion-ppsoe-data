@@ -8,33 +8,34 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Fiscalización y litigios distintos; desenlaces incompletos
-descripcion: 'Esta ficha reúne asuntos municipales diferentes, no una única causa penal acreditada. La fiscalización
-  de la Cámara de Cuentas sobre el ejercicio 2007 fue aprobada el 17 de febrero de 2010 y publicada el 17 de junio
-  de 2010. Al examinar la venta de una parcela de Macenas, el órgano fiscalizador estimó una pérdida de ingresos
-  de 661.200 euros por la demora en adjudicarla. Es una conclusión de auditoría sobre posibles responsabilidades,
-  no una condena penal ni una responsabilidad contable declarada judicialmente. No se ha documentado aquí su desenlace
-  jurisdiccional.
+descripcion: >-
+  Esta ficha reúne asuntos municipales diferentes, no una única causa penal acreditada. La fiscalización de la
+  Cámara de Cuentas sobre el ejercicio 2007 fue aprobada el 17 de febrero de 2010 y publicada el 17 de junio
+  de 2010. Al examinar la venta de una parcela de Macenas, el órgano fiscalizador estimó una pérdida de
+  ingresos de 661.200 euros por la demora en adjudicarla. Es una conclusión de auditoría sobre posibles
+  responsabilidades, no una condena penal ni una responsabilidad contable declarada judicialmente. No se ha
+  documentado aquí su desenlace jurisdiccional.
 
 
-  En marzo de 2015 se informó de multas coercitivas de 150 euros cada veinte días a la entonces alcaldesa Rosa María
-  Cano para ejecutar un derribo. Según Europa Press, se trataba de la ejecución contencioso-administrativa de una
-  sentencia de 2004, firme desde 2008. Estas multas no equivalen a una condena penal. Faltan los originales judiciales
-  y la comprobación de la ejecución posterior.
+  En marzo de 2015 se informó de multas coercitivas de 150 euros cada veinte días a la entonces alcaldesa Rosa
+  María Cano para ejecutar un derribo. Según Europa Press, se trataba de la ejecución
+  contencioso-administrativa de una sentencia de 2004, firme desde 2008. Estas multas no equivalen a una
+  condena penal. Faltan los originales judiciales y la comprobación de la ejecución posterior.
 
 
-  La adjudicación de plazas de aparcamiento fue objeto de críticas del PSOE en octubre de 2014. Los dos millones
-  de euros citados por ese partido eran el coste de construcción del aparcamiento, no un perjuicio fijado judicialmente.
-  No se ha acreditado una imputación penal por esta denuncia política. Tampoco la crítica urbanística publicada
-  en febrero de 2022 acredita la condena millonaria que la ficha atribuía a ese año.
+  La adjudicación de plazas de aparcamiento fue objeto de críticas del PSOE en octubre de 2014. Los dos
+  millones de euros citados por ese partido eran el coste de construcción del aparcamiento, no un perjuicio
+  fijado judicialmente. No se ha acreditado una imputación penal por esta denuncia política. Tampoco la
+  crítica urbanística publicada en febrero de 2022 acredita una condena millonaria de ese año.
 
 
-  Un asunto distinto es la sentencia del Juzgado de lo Contencioso-Administrativo nº 1 de Almería difundida en agosto
-  de 2025: obligaba al Ayuntamiento a pagar unos 795.026 euros de justiprecio, más intereses, por la expropiación
-  de terrenos de Cueva Morales. No constituye una condena penal del alcalde. Francisco García Cerdá, nombrado alcalde
-  el 7 de julio de 2023, era el responsable municipal que respondió públicamente; Rosa María Cano ya no ocupaba
-  la alcaldía. No se han obtenido esa sentencia original ni pruebas suficientes sobre sus recursos, firmeza y cumplimiento.
-  Los resultados de estos asuntos no deben trasladarse entre sí, y su situación completa al 15 de octubre de 2026
-  no está acreditada.'
+  Un asunto distinto es la sentencia del Juzgado de lo Contencioso-Administrativo nº 1 de Almería difundida en
+  agosto de 2025: obligaba al Ayuntamiento a pagar unos 795.026 euros de justiprecio, más intereses, por la
+  expropiación de terrenos de Cueva Morales. No constituye una condena penal del alcalde. Francisco García
+  Cerdá, nombrado alcalde el 7 de julio de 2023, era el responsable municipal que respondió públicamente; Rosa
+  María Cano ya no ocupaba la alcaldía. No se han obtenido esa sentencia original ni pruebas suficientes sobre
+  sus recursos, firmeza y cumplimiento. Los resultados de estos asuntos no deben trasladarse entre sí, y su
+  situación completa al 15 de octubre de 2026 no está acreditada.
 resumen: Fiscalización de una venta de suelo, ejecución de un derribo y otros litigios y denuncias municipales de
   naturaleza diferente.
 lugar: Mojácar, Almería, Andalucía

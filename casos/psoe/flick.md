@@ -8,12 +8,12 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Conclusiones parlamentarias y archivo de diligencias fiscales; no sentencia acreditada
-descripcion: Controversia sobre supuestos fondos del consorcio alemán Flick destinados al PSOE. El Congreso aprobó el
-  28 de febrero de 1985 conclusiones que descartaban pruebas de recepción de dinero Flick por Felipe González o el PSOE.
-  La prensa informó también del archivo de diligencias fiscales españolas en abril de 1985, instadas por el Gobierno
-  para estudiar posibles acciones penales por las informaciones publicadas. Las informaciones alemanas
-  reseñadas en 1990 no se equiparan aquí a una condena ni prueban que todo el importe investigado llegara al PSOE. Revisión
-  pendiente de originales fiscales y alemanes al corte de 17 de octubre de 2026.
+descripcion: Controversia sobre supuestos fondos del consorcio alemán Flick destinados al PSOE. El Congreso aprobó
+  el 28 de febrero de 1985 conclusiones que descartaban pruebas de recepción de dinero Flick por Felipe
+  González o el PSOE. La prensa informó también del archivo de diligencias fiscales españolas en abril de
+  1985, instadas por el Gobierno para estudiar posibles acciones penales por las informaciones publicadas. Las
+  informaciones alemanas reseñadas en 1990 no se equiparan aquí a una condena ni prueban que todo el importe
+  investigado llegara al PSOE. Al 17 de octubre de 2026, faltan los originales fiscales y alemanes.
 resumen: Acusaciones de fondos alemanes al PSOE; conclusiones parlamentarias sin pruebas de recepción de dinero Flick
   y archivo en 1985 de diligencias fiscales sobre las informaciones publicadas.
 lugar: España; antecedentes en la República Federal de Alemania
@@ -71,4 +71,4 @@ Las diligencias fiscales se abrieron a petición del Gobierno para comprobar las
 
 La [noticia de 1990](https://elpais.com/diario/1990/05/29/espana/643932012_850215.html) hablaba de 22 millones de marcos investigados con posibles destinos españoles y portugueses, y recogía que el abogado del implicado negaba su entrega a partidos o políticos concretos. No permite atribuir ese total al PSOE ni afirmar que una resolución alemana confirmó financiación ilegal. No se fija un coste o daño patrimonial con esas cantidades.
 
-No se ha localizado una resolución posterior verificable que permita completar esos extremos al corte de 17 de octubre de 2026. Faltan los originales fiscales españoles y alemanes, el contraste directo de la investigación alemana y la lectura íntegra de los documentos parlamentarios. El boletín se consultó mediante el extracto indexado del buscador; los intentos de descarga directa devolvieron 403, por lo que no se incorpora como PDF verificado en documentos.
+No se ha localizado una resolución posterior verificable que permita completar esos extremos al corte de 17 de octubre de 2026. Faltan los originales fiscales españoles y alemanes y la documentación completa de la investigación alemana y las actuaciones parlamentarias. El texto completo del boletín no está accesible; el extracto indexado no sustituye al documento original.

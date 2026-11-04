@@ -107,7 +107,7 @@ cronologia:
   relevancia: alta
 ---
 
-El objeto de esta ficha son las ayudas al ERE de Cetro Aceitunas. La [información de Diario de Sevilla de mayo de 2018](https://www.diariodesevilla.es/andalucia/Audiencia-Junta-cambiar-criterio-ERE_0_1244275592.html) sitúa su percepción entre 2009 y 2010 y la cifra en 358.015,18 euros. No se conoce aquí el día exacto de la primera concesión, por lo que se omite una fecha de inicio completa. No se usa un coste cero para representar un importe desconocido, ni se identifica la cuantía de las ayudas con una pérdida patrimonial judicialmente declarada.
+El objeto de esta ficha son las ayudas al ERE de Cetro Aceitunas. La [información de Diario de Sevilla de mayo de 2018](https://www.diariodesevilla.es/andalucia/Audiencia-Junta-cambiar-criterio-ERE_0_1244275592.html) sitúa su percepción entre 2009 y 2010 y la cifra en 358.015,18 euros. No consta el día exacto de la primera concesión. No se usa un coste cero para representar un importe desconocido, ni se identifica la cuantía de las ayudas con una pérdida patrimonial judicialmente declarada.
 
 La [noticia de octubre de 2016](https://www.europapress.es/andalucia/noticia-nunez-impulsa-48-piezas-separadas-ere-incorporacion-atestados-guardia-civil-20161013172542.html) incluye expresamente a Cetro-Aceitunas en las diligencias que se estaban formando e incorporando a los atestados de la Guardia Civil. Es un antecedente propio de esta pieza, distinto de la apertura de la macrocausa. No se ha verificado una apertura separada el 1 de enero de 2011.
 
@@ -117,4 +117,4 @@ Como antecedente normativo, el [texto consolidado oficial del Decreto-ley andalu
 
 No se dispone de prueba propia que permita presentar a Chaves o Griñán como condenados en este procedimiento, ni atribuir a Guerrero una resolución individual en él. Por ello no se conservan esas atribuciones generales. Los resultados de la pieza política, incluidos sus amparos o cuestiones prejudiciales, requieren un vínculo procesal concreto antes de trasladarse a esta ficha.
 
-A 17 de octubre de 2026 no se han verificado los originales de los autos reseñados, el número propio de diligencias, el elenco completo de investigados o acusados, ni un archivo global, juicio, sentencia o recurso posterior. No se presume que la causa siga abierta por falta de noticias. El estado se mantiene desconocido y los documentos vacíos hasta disponer de originales verificables.
+A 17 de octubre de 2026 no se han verificado los originales de los autos reseñados, el número propio de diligencias, el elenco completo de investigados o acusados, ni un archivo global, juicio, sentencia o recurso posterior. No se presume que la causa siga abierta por falta de noticias. La situación es desconocida; no se dispone de originales verificables.

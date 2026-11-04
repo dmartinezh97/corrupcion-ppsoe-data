@@ -9,53 +9,55 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Sobreseimiento provisional por auto de 9 de octubre de 2020; firmeza y recursos no verificados
-descripcion: 'La investigación penal sobre las obras del pabellón Andrés Torrejón de Móstoles se originó en una
-  denuncia de UCIN apoyada en una auditoría técnico-económica encargada por el Instituto Municipal del Suelo (IMS).
-  La auditoría atribuía un desfase entre lo certificado y lo ejecutado. El auto 1402/2020 del Juzgado de Instrucción
-  nº 6 de Móstoles, fechado el 9 de octubre de 2020, acordó el sobreseimiento provisional y archivo: no consideró
-  justificada la perpetración de los delitos investigados. No es una sentencia condenatoria ni un archivo cuya firmeza
-  se haya acreditado.
+descripcion: >-
+  La investigación penal sobre las obras del pabellón Andrés Torrejón de Móstoles se originó en una denuncia
+  de UCIN apoyada en una auditoría técnico-económica encargada por el Instituto Municipal del Suelo (IMS). La
+  auditoría atribuía un desfase entre lo certificado y lo ejecutado. El auto 1402/2020 del Juzgado de
+  Instrucción nº 6 de Móstoles, fechado el 9 de octubre de 2020, acordó el sobreseimiento provisional y
+  archivo: no consideró justificada la perpetración de los delitos investigados. No es una sentencia
+  condenatoria ni un archivo cuya firmeza se haya acreditado.
 
 
-  El auto documenta un concurso de ideas de 2006, el contrato de redacción de proyecto de febrero de 2008, el contrato
-  de obra firmado con Ortiz el 21 de enero de 2010 y el acta de replanteo y comienzo de obra del 22 de marzo de
-  2010. Describe modificaciones aceptadas durante la licitación y otras posteriores, y la suspensión de la obra
-  por falta de fondos del IMS. El contexto político corresponde a gobiernos municipales del PP, bajo Esteban Parro
-  y posteriormente Daniel Ortiz, pero ese contexto no acredita por sí mismo que ambos fueran investigados en esta
-  causa.
+  El auto documenta un concurso de ideas de 2006, el contrato de redacción de proyecto de febrero de 2008, el
+  contrato de obra firmado con Ortiz el 21 de enero de 2010 y el acta de replanteo y comienzo de obra del 22
+  de marzo de 2010. Describe modificaciones aceptadas durante la licitación y otras posteriores, y la
+  suspensión de la obra por falta de fondos del IMS. El contexto político corresponde a gobiernos municipales
+  del PP, bajo Esteban Parro y posteriormente Daniel Ortiz, pero ese contexto no acredita por sí mismo que
+  ambos fueran investigados en esta causa.
 
 
-  Según la información contemporánea de elDiario.es del 7 de marzo de 2019, el día anterior fueron detenidas e interrogadas
-  cuatro personas vinculadas al IMS y la dirección facultativa, posteriormente puestas en libertad. No ocurrió en
-  2015. Alberto Rodríguez de Rivera declaró ante la Policía, pero Telemadrid informó el 11 de marzo de 2019 de que
-  no estaba entonces investigado judicialmente y recogió su negativa a cualquier responsabilidad. Ni él ni Parro
-  aparecen entre los siete investigados enumerados en el auto de archivo cotejado; no se les atribuye esa condición
-  por haber ocupado responsabilidades políticas.
+  Según la información contemporánea de elDiario.es del 7 de marzo de 2019, el día anterior fueron detenidas e
+  interrogadas cuatro personas vinculadas al IMS y la dirección facultativa, posteriormente puestas en
+  libertad. No ocurrió en 2015. Alberto Rodríguez de Rivera declaró ante la Policía, pero Telemadrid informó
+  el 11 de marzo de 2019 de que no estaba entonces investigado judicialmente y recogió su negativa a cualquier
+  responsabilidad. Ni él ni Parro aparecen entre los siete investigados enumerados en el auto de archivo
+  cotejado; no se les atribuye esa condición por haber ocupado responsabilidades políticas.
 
 
-  La resolución analizó posibles delitos de falsedad, estafa, malversación o administración desleal y actividades
-  incompatibles. Consideró que las certificaciones correspondían al sistema pactado de pagos a cuenta por avance
-  de una obra a precio cerrado, sujeto a liquidación final. Rechazó la auditoría como fundamento de los delitos
-  porque sus autores habían comparado la realidad física con el proyecto inicial sin incorporar las modificaciones
-  acreditadas. No consideró probada falsedad en las certificaciones, beneficio de los investigados ni desvío de
-  fondos públicos. En cuanto a la actividad dual de técnicos del IMS contratados como profesionales libres, descartó
-  el dolo penal y comunicó la resolución al Ayuntamiento para una posible responsabilidad disciplinaria; esa remisión
-  no es una sanción impuesta.
+  La resolución analizó posibles delitos de falsedad, estafa, malversación o administración desleal y
+  actividades incompatibles. Consideró que las certificaciones correspondían al sistema pactado de pagos a
+  cuenta por avance de una obra a precio cerrado, sujeto a liquidación final. Rechazó la auditoría como
+  fundamento de los delitos porque sus autores habían comparado la realidad física con el proyecto inicial sin
+  incorporar las modificaciones acreditadas. No consideró probada falsedad en las certificaciones, beneficio
+  de los investigados ni desvío de fondos públicos. En cuanto a la actividad dual de técnicos del IMS
+  contratados como profesionales libres, descartó el dolo penal y comunicó la resolución al Ayuntamiento para
+  una posible responsabilidad disciplinaria; esa remisión no es una sanción impuesta.
 
 
-  El supuesto desfase difundido como 3,8 o 4,2 millones era una estimación de auditoría cuestionada por el juzgado,
-  no un daño probado. La resolución reproduce una diferencia de 3.759.694,58 euros, a la que la auditoría añadía
-  429.594,95 euros de seguridad y salud; esos conceptos explican cifras distintas sin convertirlas en perjuicio
-  judicial. Se elimina coste: tampoco se suman presupuestos de obra, pagos a cuenta, indemnizaciones contractuales
-  o intereses de pleitos civiles como si fueran malversación.
+  El supuesto desfase difundido como 3,8 o 4,2 millones era una estimación de auditoría cuestionada por el
+  juzgado, no un daño probado. La resolución reproduce una diferencia de 3.759.694,58 euros, a la que la
+  auditoría añadía 429.594,95 euros de seguridad y salud; esos conceptos explican cifras distintas sin
+  convertirlas en perjuicio judicial. Los presupuestos de obra, pagos a cuenta, indemnizaciones contractuales
+  e intereses de pleitos civiles no constituyen malversación ni un perjuicio conjunto acreditado.
 
 
-  La noticia de archivo publicada el 24 de marzo de 2021 no fija la fecha del auto: la copia judicial está fechada
-  el 9 de octubre de 2020. Es una copia escaneada alojada por prensa, con subrayados añadidos y sin cotejo criptográfico
-  de firma; se distingue su contenido de sus metadatos de escaneo o alojamiento. A 17 de octubre de 2026 no se ha
-  recuperado resolución de recursos, declaración de firmeza ni resultado disciplinario. Los litigios contractuales
-  y anuncios de reactivación de las obras en 2025 y 2026 son distintos del procedimiento penal sobreseído, y no
-  acreditan su reapertura ni el cierre de todos los pleitos.'
+  La noticia de archivo publicada el 24 de marzo de 2021 no fija la fecha del auto: la copia judicial está
+  fechada el 9 de octubre de 2020. Es una copia escaneada alojada por prensa, con subrayados añadidos y sin
+  cotejo criptográfico de firma; se distingue su contenido de sus metadatos de escaneo o alojamiento. A 17 de
+  octubre de 2026 no se ha recuperado resolución de recursos, declaración de firmeza ni resultado
+  disciplinario. Los litigios contractuales y anuncios de reactivación de las obras en 2025 y 2026 son
+  distintos del procedimiento penal sobreseído, y no acreditan su reapertura ni el cierre de todos los
+  pleitos.
 resumen: 'Investigación de las certificaciones del pabellón de Móstoles: sobreseimiento provisional por auto de
   octubre de 2020, que rechazó la auditoría como base del supuesto perjuicio penal'
 lugar: Móstoles, Comunidad de Madrid
@@ -92,9 +94,9 @@ implicados:
     se deduce un cargo empresarial adicional ni una condena.
 - nombre: Alberto Rodríguez de Rivera
   cargo: Exconcejal y responsable político del consejo de administración del IMS; portavoz del PP en 2019
-  rol: Declaró ante la Policía en marzo de 2019. Telemadrid informó de que no estaba entonces investigado judicialmente
-    y recogió su negativa a cualquier implicación. No figura en la lista de siete investigados del auto cotejado;
-    se retira la afirmación heredada de imputación judicial.
+  rol: Declaró ante la Policía en marzo de 2019. Telemadrid informó de que no estaba entonces investigado
+    judicialmente y recogió su negativa a cualquier implicación. No figura en la lista de siete investigados del
+    auto cotejado; no consta su imputación judicial.
 - nombre: Esteban Parro
   cargo: Exalcalde de Móstoles (PP), en la etapa de inicio del proyecto
   rol: Contexto político de la contratación. No figura entre los siete investigados del auto cotejado y no se ha
@@ -201,10 +203,10 @@ cronologia:
 
 ## Alcance documental y pendientes
 
-Revisión con corte de 17 de octubre de 2026. Se leyó el OCR de las trece páginas de la copia escaneada del auto 1402/2020 y se cotejaron visualmente su cabecera y parte dispositiva (páginas 1 y 13). Es un documento judicial nominal, no una identificación por seudónimos. La copia está alojada por un medio, tiene subrayados y no se verificó una firma electrónica o CSV; no se confunde la fecha interna del 9 de octubre de 2020 con el escaneo de 2021 ni con la fecha de publicación o subida a la web. El archivo del PDF, pese a denominarse SENTENCIA PABELLÓN, contiene un auto.
+Información disponible al 17 de octubre de 2026. La copia escaneada del auto 1402/2020 consta de trece páginas, con la parte dispositiva en la página 13. Es un documento judicial nominal, no una identificación por seudónimos. La copia está alojada por un medio, tiene subrayados y no se verificó una firma electrónica o CSV; no se confunde la fecha interna del 9 de octubre de 2020 con el escaneo de 2021 ni con la fecha de publicación o subida a la web. El archivo del PDF, pese a denominarse SENTENCIA PABELLÓN, contiene un auto.
 
 El resultado es sobreseimiento provisional, recurrible. Faltan las resoluciones de reforma o apelación, una eventual declaración de firmeza y cualquier resultado de actuaciones disciplinarias. No se sustituye el sobreseimiento por una sentencia absolutoria ni se presenta la remisión al Ayuntamiento como una sanción ya impuesta. Los siete investigados nominales del auto se distinguen de los responsables políticos y de las cuatro personas detenidas según la prensa: no se rellenan esas correspondencias por inferencia.
 
-Se omite coste porque el auto rechaza que la auditoría acredite el perjuicio delictivo denunciado. Sus magnitudes y las cantidades publicadas por la prensa no son un daño probado. El auto menciona pleitos civiles, una sentencia de pago de certificaciones y reclamaciones por rescisión e indemnización: no se han recuperado sus resoluciones posteriores ni se agregan sus importes a una cifra de malversación. El [anuncio de licitación del BOE de 2009](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2009-7506) es fuente oficial de contratación, no una resolución sobre responsabilidad penal.
+El auto rechaza que la auditoría acredite el perjuicio delictivo denunciado. Sus magnitudes y las cantidades publicadas por la prensa no son un daño probado. El auto menciona pleitos civiles, una sentencia de pago de certificaciones y reclamaciones por rescisión e indemnización: no se han recuperado sus resoluciones posteriores ni se agregan sus importes a una cifra de malversación. El [anuncio de licitación del BOE de 2009](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2009-7506) es fuente oficial de contratación, no una resolución sobre responsabilidad penal.
 
-La [nota municipal sobre el Debate de 2025](https://www.mostoles.es/es/noticias/alcalde-mostoles-destaca-debate-municipio-2025-gestion-efic) corrobora la aprobación de una propuesta para rescatar la concesión y resolver el contrato; no acredita por sí sola su ejecución. Distingue además la rehabilitación del polideportivo de la finalización del pabellón. Las crónicas de 2025 y 2026 siguen describiendo medidas administrativas y obras pendientes. La [noticia de agosto de 2026 de Noticias para Municipios](https://noticiasparamunicipios.com/municipios-madrid/noticias-mostoles/el-pabellon-andres-torrejon-da-un-nuevo-paso-en-mostoles/) se leyó como contexto: mezcla el pabellón y actuaciones de vestuarios, gradas y pista de atletismo, y no acredita el inicio de las obras del pabellón ni un nuevo acto penal. No se usa para afirmar que la infraestructura esté terminada o que todos los litigios hayan concluido. Faltan originales actuales de esas actuaciones y de los pleitos contractuales. La revisión queda incompleta y no fija fechaFin global.
+La [nota municipal sobre el Debate de 2025](https://www.mostoles.es/es/noticias/alcalde-mostoles-destaca-debate-municipio-2025-gestion-efic) corrobora la aprobación de una propuesta para rescatar la concesión y resolver el contrato; no acredita por sí sola su ejecución. Distingue además la rehabilitación del polideportivo de la finalización del pabellón. Las crónicas de 2025 y 2026 siguen describiendo medidas administrativas y obras pendientes. La [noticia de agosto de 2026 de Noticias para Municipios](https://noticiasparamunicipios.com/municipios-madrid/noticias-mostoles/el-pabellon-andres-torrejon-da-un-nuevo-paso-en-mostoles/) aporta contexto sobre el pabellón y actuaciones de vestuarios, gradas y pista de atletismo, y no acredita el inicio de las obras del pabellón ni un nuevo acto penal. No se usa para afirmar que la infraestructura esté terminada o que todos los litigios hayan concluido. Faltan originales actuales de esas actuaciones y de los pleitos contractuales. No consta una fecha de cierre global.

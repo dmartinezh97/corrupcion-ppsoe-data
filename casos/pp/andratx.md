@@ -215,9 +215,9 @@ cronologia:
   - https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?DocumentIdParam=c97ec80f-680c-406e-bc48-d3efb93abe1c&cmpntname=GetDocumentsById&source=library&srv=cmpnt
 - fecha: "2026-02-27"
   titulo: 'Se informa: el Ayuntamiento aprueba 5,5 millones para demoler los apartamentos de Monport'
-  descripcion: 'La noticia informa del pleno del día 26: reserva de 5,5 millones para demoler Monport y 113.000 euros
-    para acondicionar Cala Llamp tras el derribo. No acredita ejecución ni liquidación. La sentencia de 2020 y su
-    firmeza se conocen aquí por prensa, no por lectura del original.'
+  descripcion: "La noticia informa del pleno del día 26: reserva de 5,5 millones para demoler Monport y 113.000 euros
+    para acondicionar Cala Llamp tras el derribo. No acredita ejecución ni liquidación. La sentencia de 2020 y
+    su firmeza constan en la prensa; no se dispone de la resolución original."
   type: sentencia
   relevancia: media
   urls:
@@ -247,4 +247,4 @@ En la pieza de la vivienda, las multas fueron veinte meses a 100 euros diarios p
 
 Los derribos de Cala Llamp y Monport derivan de procedimientos urbanísticos que deben identificarse separadamente. El contrato público de 2024 para los dos bloques de Cala Llamp se formalizó por 273.808,95 euros con impuestos, distinto del presupuesto de licitación y del redondeo periodístico de 275.000 euros. Según ARA, el derribo terminó en marzo de 2025; no se dispone del acta final ni de su liquidación. El anuncio oficial cita una sentencia de 2009 mientras otras noticias remiten a 2013, diferencia pendiente de aclarar con ambas resoluciones.
 
-Monport seguía pendiente según la información de 5 de octubre de 2026, pese a la reserva presupuestaria de 5,5 millones. Una reserva no prueba ni un pago ni la terminación del derribo. Estos importes no constituyen una cifra consolidada de pérdidas del caso penal. La ficha conserva como desconocido el estado global de una macrocausa con resultados diversos, sin atribuir actividad penal actual por la existencia de ejecuciones urbanísticas.
+Monport seguía pendiente según la información de 5 de octubre de 2026, pese a la reserva presupuestaria de 5,5 millones. Una reserva no prueba ni un pago ni la terminación del derribo. Estos importes no constituyen una cifra consolidada de pérdidas del caso penal. No consta el estado global de esta macrocausa, cuyas piezas tienen resultados diversos. Las ejecuciones urbanísticas no acreditan por sí solas actividad penal actual.

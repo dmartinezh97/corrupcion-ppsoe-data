@@ -9,35 +9,37 @@ recursoPendiente: Sin determinar
 firmeza: No procede
 estado: Piezas con situaciones procesales distintas
 lugar: Andalucía; procedimientos en Sevilla
-descripcion: 'La investigación sobre los avales de la Agencia IDEA se dividió en procedimientos por empresas y modalidades
-  de ayuda. No existe un único resultado aplicable a todas las ramas ni debe identificarse automáticamente con las
-  piezas de ayudas sociolaborales de los ERE. Se examina si se concedieron y ejecutaron garantías públicas sin cumplir
-  los requisitos exigibles, bajo la hipótesis de prevaricación y malversación; no se presenta esa hipótesis como
-  una culpabilidad declarada.
+descripcion: >-
+  La investigación sobre los avales de la Agencia IDEA se dividió en procedimientos por empresas y modalidades
+  de ayuda. No existe un único resultado aplicable a todas las ramas ni debe identificarse automáticamente con
+  las piezas de ayudas sociolaborales de los ERE. Se examina si se concedieron y ejecutaron garantías públicas
+  sin cumplir los requisitos exigibles, bajo la hipótesis de prevaricación y malversación; no se presenta esa
+  hipótesis como una culpabilidad declarada.
 
 
-  En la pieza del Grupo TPM, por un aval propio de 1.190.000 euros, en enero de 2026 se anunciaron citaciones de
-  18 investigados. Europa Press informó el 7 de septiembre de 2026 de la continuación por procedimiento abreviado
-  contra 18 ex altos cargos, entre ellos Francisco Vallejo. Ese paso no equivale a una apertura de juicio oral ni
-  a una condena. En Pickman La Cartuja, por un aval de 1.300.000 euros, el Poder Judicial comunicó en enero de 2026
-  citaciones de 21 investigados y una prórroga. Gaspar Llanes no fue citado junto a ellos: se acordó notificarle
-  el auto, informarle de sus derechos y certificar su aforamiento, sin elevar aún una exposición razonada al TSJA.
+  En la pieza del Grupo TPM, por un aval propio de 1.190.000 euros, en enero de 2026 se anunciaron citaciones
+  de 18 investigados. Europa Press informó el 7 de septiembre de 2026 de la continuación por procedimiento
+  abreviado contra 18 ex altos cargos, entre ellos Francisco Vallejo. Ese paso no equivale a una apertura de
+  juicio oral ni a una condena. En Pickman La Cartuja, por un aval de 1.300.000 euros, el Poder Judicial
+  comunicó en enero de 2026 citaciones de 21 investigados y una prórroga. Gaspar Llanes no fue citado junto a
+  ellos: se acordó notificarle el auto, informarle de sus derechos y certificar su aforamiento, sin elevar aún
+  una exposición razonada al TSJA.
 
 
-  En Tartessos Car, la Audiencia de Sevilla limitó la instrucción a junio de 2017 mediante resoluciones de 2023
-  y 2024, invalidando diligencias y prórrogas posteriores. Eso no permite atribuir por sí solo un sobreseimiento
-  individual a todos los afectados. El auto original de 29 de mayo de 2025 se limita a oír a las partes sobre continuar,
-  archivar o plantear una cuestión prejudicial al TJUE. Su firmeza afecta a ese traslado para alegaciones, no acredita
-  el archivo de la causa ni que se enviara la cuestión europea. No se han verificado la decisión posterior de Tartessos,
-  el desarrollo posterior de Pickman ni las acusaciones, recursos o desenlaces individuales posteriores en TPM hasta
-  el 15 de octubre de 2026.
+  En Tartessos Car, la Audiencia de Sevilla limitó la instrucción a junio de 2017 mediante resoluciones de
+  2023 y 2024, invalidando diligencias y prórrogas posteriores. Eso no permite atribuir por sí solo un
+  sobreseimiento individual a todos los afectados. El auto original de 29 de mayo de 2025 se limita a oír a
+  las partes sobre continuar, archivar o plantear una cuestión prejudicial al TJUE. Su firmeza afecta a ese
+  traslado para alegaciones, no acredita el archivo de la causa ni que se enviara la cuestión europea. No se
+  han verificado la decisión posterior de Tartessos, el desarrollo posterior de Pickman ni las acusaciones,
+  recursos o desenlaces individuales posteriores en TPM hasta el 15 de octubre de 2026.
 
 
-  Los 1,19 millones de TPM, 1,3 millones de Pickman y 1,5 millones del aval propio de Tartessos describen garantías
-  distintas, no un daño que pueda sumarse sin más. El documento de Tartessos también trata otras ayudas y avales
-  reglados. Las cifras globales de avales fallidos y recuperaciones de IDEA no constituyen una cuantificación judicial
-  del perjuicio de estas piezas. Faltan resoluciones y comprobaciones individuales relevantes; se conserva la revisión
-  sin completar.'
+  Los 1,19 millones de TPM, 1,3 millones de Pickman y 1,5 millones del aval propio de Tartessos describen
+  garantías distintas, no un daño que pueda sumarse sin más. El documento de Tartessos también trata otras
+  ayudas y avales reglados. Las cifras globales de avales fallidos y recuperaciones de IDEA no constituyen una
+  cuantificación judicial del perjuicio de estas piezas. Faltan resoluciones y documentación sobre situaciones
+  individuales relevantes.
 resumen: 'Investigación de avales de IDEA con ramas distintas: TPM pasó a procedimiento abreviado en 2026; Pickman
   tenía citaciones y Tartessos una controversia sobre plazos. Faltan resoluciones y desenlaces individuales.'
 tribunal:
@@ -178,7 +180,7 @@ El [original de 29 de mayo de 2025](https://www.poderjudicial.es/search/contenid
 
 El dispositivo del auto de mayo únicamente ordena el traslado para alegaciones. La última página señala que es firme, y su fundamento sobre recursos explica que ello se debe a que todavía no decide entre continuar, archivar o consultar al TJUE. No cabe presentar esa firmeza como una condena, un archivo firme o una cuestión europea ya planteada. Falta la resolución posterior que eligiera una alternativa.
 
-Importes y límites de la revisión
+Importes y cuestiones pendientes
 
 El valor nominal de un aval no es necesariamente el pago efectuado por su ejecución ni el daño final después de cobros, contragarantías o recuperaciones. Las notas de TPM piden incluso comprobar qué incentivos fueron efectivamente abonados. No se suman esos incentivos con los avales y las ayudas sociolaborales para producir una cifra de perjuicio.
 

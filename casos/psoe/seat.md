@@ -8,10 +8,16 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "absuelto"
-descripcion: |
-  Procedimiento sobre pagos vinculados a licencias de obras de SEAT en Madrid. La STS 719/2009, de 30 de junio, desestimó los recursos contra las absoluciones de la Audiencia Provincial de Madrid. El cohecho se consideró prescrito; otros cargos recibieron pronunciamientos absolutorios por razones diferentes. No se trató de un sobreseimiento ni de condenas por financiación ilegal del PSOE.
+descripcion: >-
+  Procedimiento sobre pagos vinculados a licencias de obras de SEAT en Madrid. La STS 719/2009, de 30 de
+  junio, desestimó los recursos contra las absoluciones de la Audiencia Provincial de Madrid. El cohecho se
+  consideró prescrito; otros cargos recibieron pronunciamientos absolutorios por razones diferentes. No se
+  trató de un sobreseimiento ni de condenas por financiación ilegal del PSOE.
 
-  La revisión no ha recuperado la sentencia de instancia y el PDF del Supremo contiene referencias contradictorias a su fecha. Tampoco se ha verificado una declaración formal de firmeza o un eventual procedimiento posterior al corte del 17 de octubre de 2026. El importe de los pagos no se presenta como daño al erario.
+
+  No se dispone de la sentencia de instancia y el PDF del Supremo contiene referencias contradictorias a su
+  fecha. Tampoco se ha verificado una declaración formal de firmeza o un eventual procedimiento posterior al
+  corte del 17 de octubre de 2026. El importe de los pagos no se presenta como daño al erario.
 resumen: "El Supremo confirmó las absoluciones en el caso SEAT el 30 de junio de 2009, con prescripción del cohecho y otros motivos absolutorios."
 lugar: "Madrid, España"
 tribunal:
@@ -63,8 +69,8 @@ El año de referencia, 1993, corresponde a la difusión de los hechos y su denun
 
 La prensa del 8 de julio de 2009 identifica nominalmente a Álvarez, Mangana y García Barbeira y recoge la prescripción del cohecho, además de la absolución por falsedad y maquinaciones para alterar precios. No se deducen sus identidades de los pseudónimos del PDF de CENDOJ.
 
-El Supremo no consideró probada la ilegalidad del contenido de los informes urbanísticos ni que se hubiese alterado indebidamente su tramitación. Por ello se retira la presentación de una recalificación irregular acreditada como descripción global del caso. La intermediación y distribución de dinero descritas judicialmente tampoco autorizan a afirmar que todo el importe ingresara en el PSOE.
+El Supremo no consideró probada la ilegalidad del contenido de los informes urbanísticos ni que se hubiese alterado indebidamente su tramitación. No está acreditada una recalificación irregular que permita describir así el conjunto del caso. La intermediación y distribución de dinero descritas judicialmente tampoco autorizan a afirmar que todo el importe ingresara en el PSOE.
 
-Se elimina el coste de 1.051.771 euros: la suma aproximaba pagos privados, no un perjuicio público cuantificado en el fallo. Las cantidades para distintos destinatarios no se añaden de nuevo al cheque del que procedían.
+Los 1.051.771 euros aproximaban pagos privados, no un perjuicio público cuantificado en el fallo. Las cantidades para distintos destinatarios no se añaden de nuevo al cheque del que procedían.
 
-La copia del Supremo cita la instancia como 10 de abril de 2008 en los antecedentes, 10 de julio de 2008 en el encabezamiento y 10 de julio de 2007 en el fallo. La prensa habla de 2007. Esta discrepancia permanece pendiente del original o de una corrección oficial; no se fija una fecha de instancia en la cronología. Se retiran también las fechas convencionales y el episodio profesional de Brunner no revalidado.
+La copia del Supremo cita la instancia como 10 de abril de 2008 en los antecedentes, 10 de julio de 2008 en el encabezamiento y 10 de julio de 2007 en el fallo. La prensa habla de 2007. Esta discrepancia permanece pendiente del original o de una corrección oficial; no se fija una fecha de instancia en la cronología.

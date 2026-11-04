@@ -9,44 +9,48 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: absueltos
-descripcion: 'El caso Ceivam examinó ayudas europeas Leader II para una planta de tratamiento de biomasa promovida
-  por Actuar y cinco talleres artesanales en Arnoia (Ourense). Rogelio Martínez presidía el grupo de acción local;
-  Pablo Fernández era su responsable administrativo y financiero y Juan Emilio Aparicio su gerente, según las fuentes
-  nominales de prensa. Los originales judiciales anonimizan a los acusados. La Audiencia Provincial de Ourense absolvió
-  a los once en la sentencia 191/2019, de 19 de junio. El Supremo confirmó ese fallo mediante STS 776/2021, de 14
-  de octubre, e indicó que no cabía recurso alguno. La fecha de cierre consignada se refiere a esa decisión penal,
-  no a la liquidación de cualquier obligación administrativa.
+descripcion: >-
+  El caso Ceivam examinó ayudas europeas Leader II para una planta de tratamiento de biomasa promovida por
+  Actuar y cinco talleres artesanales en Arnoia (Ourense). Rogelio Martínez presidía el grupo de acción local;
+  Pablo Fernández era su responsable administrativo y financiero y Juan Emilio Aparicio su gerente, según las
+  fuentes nominales de prensa. Los originales judiciales anonimizan a los acusados. La Audiencia Provincial de
+  Ourense absolvió a los once en la sentencia 191/2019, de 19 de junio. El Supremo confirmó ese fallo mediante
+  STS 776/2021, de 14 de octubre, e indicó que no cabía recurso alguno. La fecha de cierre consignada se
+  refiere a esa decisión penal, no a la liquidación de cualquier obligación administrativa.
 
 
-  El contrato de ayuda de la planta, de 27 de diciembre de 1999, preveía un presupuesto de 13 millones de pesetas
-  y una subvención de 6,5 millones (39.065,79 euros). La sentencia consideró que existía divergencia entre lo certificado
-  y la obra ejecutada, pero no acreditó apropiación de los fondos ni los elementos subjetivos exigidos para condenar.
-  Su razonamiento sobre el fraude de subvenciones emplea otra cifra, 36.500 euros, inferior al umbral penal entonces
-  aplicable. Las cantidades no se suman: presupuesto, ayuda concedida y reintegro son conceptos diferentes. El fallo
-  es absolutorio para todos, aunque la prescripción y el examen del fondo tuvieron distinto alcance. La Fiscalía
-  no formuló acusación; la sostuvo la Asociación para o Progreso do Ribeiro. La prevaricación había quedado excluida
-  del auto de apertura, según la propia sentencia, y no se presenta como una condena ni como delito resuelto condenatoriamente.
+  El contrato de ayuda de la planta, de 27 de diciembre de 1999, preveía un presupuesto de 13 millones de
+  pesetas y una subvención de 6,5 millones (39.065,79 euros). La sentencia consideró que existía divergencia
+  entre lo certificado y la obra ejecutada, pero no acreditó apropiación de los fondos ni los elementos
+  subjetivos exigidos para condenar. Su razonamiento sobre el fraude de subvenciones emplea otra cifra, 36.500
+  euros, inferior al umbral penal entonces aplicable. Las cantidades no se suman: presupuesto, ayuda concedida
+  y reintegro son conceptos diferentes. El fallo es absolutorio para todos, aunque la prescripción y el examen
+  del fondo tuvieron distinto alcance. La Fiscalía no formuló acusación; la sostuvo la Asociación para o
+  Progreso do Ribeiro. La prevaricación había quedado excluida del auto de apertura, según la propia
+  sentencia, y no se presenta como una condena ni como delito resuelto condenatoriamente.
 
 
-  En vía administrativa, la sentencia penal recoge una orden de reintegro de 8 de marzo de 2007 y su confirmación
-  contenciosa el 11 de febrero de 2009. La Región informó en julio de 2012, citando una respuesta ministerial, de
-  39.065,79 euros por la planta y 12.897,98 euros por un taller de orfebrería; Rogelio Martínez afirmó entonces
-  que ya habían sido devueltos. En respuestas oficiales ante el Senado de 11 de febrero de 2013 y 23 de octubre de 2014, el Gobierno
-  informó de que Ceivam había hecho efectivo el reintegro de 51.963,77 euros el 18 de noviembre de 2009, más
-  13.503,52 euros de intereses. Es una declaración gubernamental recogida en el diario oficial, no un justificante
-  contable individual. No se han recuperado el original contencioso ni la liquidación que permita comprobar ese
-  detalle. Los diarios del Senado sitúan la desestimación contenciosa el 15 de abril de 2009 y la reposición el
-  26 de junio de 2007, mientras las sentencias penales citan el 11 de febrero de 2009 y el 28 de junio de 2007:
-  no se concilian esas fechas sin los originales. La Audiencia penal explica que el procedimiento de reintegro no
-  era sancionador: no equivale a una condena penal.
+  En vía administrativa, la sentencia penal recoge una orden de reintegro de 8 de marzo de 2007 y su
+  confirmación contenciosa el 11 de febrero de 2009. La Región informó en julio de 2012, citando una respuesta
+  ministerial, de 39.065,79 euros por la planta y 12.897,98 euros por un taller de orfebrería; Rogelio
+  Martínez afirmó entonces que ya habían sido devueltos. En respuestas oficiales ante el Senado de 11 de
+  febrero de 2013 y 23 de octubre de 2014, el Gobierno informó de que Ceivam había hecho efectivo el reintegro
+  de 51.963,77 euros el 18 de noviembre de 2009, más 13.503,52 euros de intereses. Es una declaración
+  gubernamental recogida en el diario oficial, no un justificante contable individual. No se han recuperado el
+  original contencioso ni la liquidación que permita comprobar ese detalle. Los diarios del Senado sitúan la
+  desestimación contenciosa el 15 de abril de 2009 y la reposición el 26 de junio de 2007, mientras las
+  sentencias penales citan el 11 de febrero de 2009 y el 28 de junio de 2007: no se concilian esas fechas sin
+  los originales. La Audiencia penal explica que el procedimiento de reintegro no era sancionador: no equivale
+  a una condena penal.
 
 
-  Persisten límites en la identificación completa y el reparto individual de hechos, porque las sentencias usan
-  seudónimos y la prensa no reproduce todos los documentos nominales. No se asignan identidades a esos seudónimos
-  ni se atribuye a cada particular un taller concreto. Los hechos probados sitúan la constitución de Ceivam en 1994,
-  mientras la prensa la fecha en noviembre de 1993. Tampoco se ha recuperado el auto posterior que el índice del
-  CENDOJ relaciona con estas sentencias (AATS 15645/2021), por lo que no se le atribuye contenido. La búsqueda hasta
-  el 17 de octubre de 2026 no aporta una resolución propia posterior que modifique el fallo penal aquí comprobado.'
+  Persisten límites en la identificación completa y el reparto individual de hechos, porque las sentencias
+  usan seudónimos y la prensa no reproduce todos los documentos nominales. No se asignan identidades a esos
+  seudónimos ni se atribuye a cada particular un taller concreto. Los hechos probados sitúan la constitución
+  de Ceivam en 1994, mientras la prensa la fecha en noviembre de 1993. Tampoco se ha recuperado el auto
+  posterior que el índice del CENDOJ relaciona con estas sentencias (AATS 15645/2021), por lo que no se le
+  atribuye contenido. Al 17 de octubre de 2026, no consta una resolución posterior de esta causa que modifique
+  el fallo penal citado.
 resumen: Los once acusados por las ayudas europeas de Ceivam fueron absueltos en 2019 y el Supremo confirmó el fallo
   en 2021; el reintegro administrativo es un procedimiento distinto.
 lugar: Arnoia, Ourense, Galicia
@@ -224,4 +228,4 @@ La [noticia del reintegro](https://www.laregion.es/comarca-de-ourense/grupo-ceiv
 
 El índice de resoluciones del CENDOJ menciona un auto posterior, AATS 15645/2021, que no se ha recuperado. No se presupone su objeto ni se utiliza para alterar el resultado de la sentencia penal verificada.
 
-La nueva lectura de los diarios oficiales fue dirigida: páginas 15–17 del Diario 367 de 23 de octubre de 2014 y pasajes de las páginas 16–18 del Diario 126 de 11 de febrero de 2013, con lectura íntegra de la página 18 de este último. No se declara lectura íntegra de sus 46 y 27 páginas, respectivamente. Las fechas documentales corresponden a las sesiones; los metadatos de creación de los PDF son posteriores.
+Los diarios oficiales abordan el caso en las páginas 15–17 del Diario 367 de 23 de octubre de 2014 y 16–18 del Diario 126 de 11 de febrero de 2013. Las fechas documentales corresponden a las sesiones; los metadatos de creación de los PDF son posteriores.

@@ -9,10 +9,20 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Firme
 estado: "Absolución confirmada en apelación; firmeza informada en diciembre de 2018, documentación posterior pendiente"
-descripcion: |
-  El procedimiento se refería a tres cartas de conformidad firmadas por el entonces alcalde de Valladolid, Francisco Javier León de la Riva, en relación con la financiación de la Sociedad Valladolid Alta Velocidad. La Audiencia Provincial de Valladolid absolvió el 30 de julio de 2018 al exalcalde de falsedad documental y prevaricación, y a los exconcejales Manuel Sánchez y Alfredo Blanco de prevaricación. La resolución distingue la falta de dolo acreditado de la posible falsedad imprudente, que consideró prescrita; no es un sobreseimiento.
+descripcion: >-
+  El procedimiento se refería a tres cartas de conformidad firmadas por el entonces alcalde de Valladolid,
+  Francisco Javier León de la Riva, en relación con la financiación de la Sociedad Valladolid Alta Velocidad.
+  La Audiencia Provincial de Valladolid absolvió el 30 de julio de 2018 al exalcalde de falsedad documental y
+  prevaricación, y a los exconcejales Manuel Sánchez y Alfredo Blanco de prevaricación. La resolución
+  distingue la falta de dolo acreditado de la posible falsedad imprudente, que consideró prescrita; no es un
+  sobreseimiento.
 
-  El TSJ de Castilla y León confirmó la absolución en la sentencia 44/2018, de 26 de noviembre, publicada por la prensa al día siguiente; todavía cabía casación. En diciembre, Cadena SER informó de que Fiscalía no recurriría y describió posteriormente la absolución como firme. Falta cotejar la acreditación judicial de firmeza y las incidencias posteriores hasta el 17 de octubre de 2026. Los créditos y compromisos financieros no se presentan como daño probado, ni la ausencia de cuantificación como coste cero. La revisión permanece incompleta.
+
+  El TSJ de Castilla y León confirmó la absolución en la sentencia 44/2018, de 26 de noviembre, publicada por
+  la prensa al día siguiente; todavía cabía casación. En diciembre, Cadena SER informó de que Fiscalía no
+  recurriría y describió posteriormente la absolución como firme. Falta cotejar la acreditación judicial de
+  firmeza y las incidencias posteriores hasta el 17 de octubre de 2026. Los créditos y compromisos financieros
+  no se presentan como daño probado, ni la ausencia de cuantificación como coste cero.
 resumen: "Absolución de León de la Riva y dos exconcejales por las cartas de financiación ferroviaria; confirmada en apelación y descrita como firme por la prensa en diciembre de 2018."
 lugar: "Valladolid, Castilla y León"
 tribunal:
@@ -67,7 +77,7 @@ cronologia:
       - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:APVA:2018:668"
   - fecha: "2016-04-20"
     titulo: "Presentación de la denuncia, según la sentencia"
-    descripcion: "La Audiencia sitúa en esta fecha la denuncia y el 29 de abril el auto de incoación. La secuencia no comienza con una denuncia posterior al pleno de septiembre de 2016, como decía la ficha anterior."
+    descripcion: La Audiencia sitúa en esta fecha la denuncia y el 29 de abril el auto de incoación.
     type: "denuncia"
     urls:
       - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:APVA:2018:668"
@@ -97,6 +107,6 @@ La sentencia distingue las irregularidades en la tramitación de las cartas y la
 
 Las penas de nueve años de prisión y treinta y tres de inhabilitación mencionadas en la prensa eran peticiones acusatorias, no condenas. El fallo identifica separadamente la falsedad y prevaricación imputadas al exalcalde y la prevaricación de los dos exconcejales. Sus nombres proceden de la nota judicial y de las crónicas nominales, sin descifrar los seudónimos del PDF.
 
-Los importes de 200, 70 y 400 millones corresponden a operaciones de financiación de la sociedad. La exposición municipal y su participación no se confunden con el importe íntegro del crédito, ni con un perjuicio indemnizable acreditado. Se elimina `coste: 0`: no se ha determinado aquí un daño cuantificado. El resultado penal tampoco liquida por sí solo toda controversia contractual, administrativa o financiera sobre el proyecto ferroviario.
+Los importes de 200, 70 y 400 millones corresponden a operaciones de financiación de la sociedad. La exposición municipal y su participación no se confunden con el importe íntegro del crédito, ni con un perjuicio indemnizable acreditado. No consta un daño cuantificado. El resultado penal tampoco liquida por sí solo toda controversia contractual, administrativa o financiera sobre el proyecto ferroviario.
 
-**Revisión parcial al 17 de octubre de 2026:** se ha descargado el PDF oficial de veinte páginas y cotejado la cabecera, los antecedentes, pasajes de los hechos probados, el fundamento sobre prescripción y el fallo; no se ha leído íntegramente toda la prueba y motivación. Se ha recuperado también una copia nominal de la sentencia de apelación de 25 páginas alojada por El Norte de Castilla, con lectura de la cabecera y de los fundamentos y fallo finales; no de todo el documento. Confirma la fecha de 26 de noviembre de 2018 y la posibilidad de casación. Faltan la acreditación judicial de firmeza y la comprobación de eventuales incidencias posteriores. La firmeza se atribuye a la información de Cadena SER de diciembre de 2018, no se infiere del transcurso del tiempo ni se anticipa a noviembre. La generación del PDF de Cendoj en octubre de 2026 no cambia la fecha del acto judicial de 2018. No se mezclan con este caso otras condenas del exalcalde, como la de desobediencia relativa a su vivienda.
+**Documentación disponible al 17 de octubre de 2026:** la sentencia oficial consta de veinte páginas. También está disponible una copia nominal de la sentencia de apelación, de 25 páginas, alojada por El Norte de Castilla. Confirma la fecha de 26 de noviembre de 2018 y la posibilidad de casación. Faltan la acreditación judicial de firmeza y la comprobación de eventuales incidencias posteriores. La firmeza se atribuye a la información de Cadena SER de diciembre de 2018, no se infiere del transcurso del tiempo ni se anticipa a noviembre. La generación del PDF de Cendoj en octubre de 2026 no cambia la fecha del acto judicial de 2018. No se mezclan con este caso otras condenas del exalcalde, como la de desobediencia relativa a su vivienda.

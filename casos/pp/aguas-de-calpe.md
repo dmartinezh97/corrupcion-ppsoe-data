@@ -167,7 +167,7 @@ La mercantil había cambiado su actividad de buzoneo por la construcción de obr
 
 Las cantidades del procedimiento
 
-El presupuesto inicial de los cinco proyectos, incluidos honorarios, era de 4.721.100,40 euros sin IVA. El proyecto modificado de la red transversal y su financiación tarifaria tenían importes distintos. La resolución cuantifica las pérdidas de la empresa mixta en 1.075.130,85 euros y el fallo impone una indemnización al Ayuntamiento de 430.052,34 euros, equivalente a su participación del 40%. Esta última es la cantidad que refleja el campo económico de la ficha: no se suma a las pérdidas de la empresa ni a las fianzas anteriores.
+El presupuesto inicial de los cinco proyectos, incluidos honorarios, era de 4.721.100,40 euros sin IVA. El proyecto modificado de la red transversal y su financiación tarifaria tenían importes distintos. La resolución cuantifica las pérdidas de la empresa mixta en 1.075.130,85 euros y el fallo impone una indemnización al Ayuntamiento de 430.052,34 euros, equivalente a su participación del 40%. La indemnización al Ayuntamiento no se suma a las pérdidas de la empresa ni a las fianzas anteriores.
 
 Se utiliza el importe exacto del fallo, frente a los 430.000 euros redondeados y los 440.052 euros que aparecen en distintos pasajes de la nota de prensa. La sentencia también distingue las pérdidas contables de la diferencia de 1.073.316,35 euros entre el proyecto modificado y la valoración real de las obras.
 

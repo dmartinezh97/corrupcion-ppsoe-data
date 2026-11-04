@@ -8,12 +8,25 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Condenas confirmadas en casación; rebaja e ingreso en prisión publicados en 2023; ejecución posterior pendiente"
-descripcion: |
-  La causa examinó nueve contratos menores del Ayuntamiento de Vigo con Imesapi utilizados para financiar una contratación al margen de los sistemas legales de empleo público. Los hechos probados describen trabajos facturados que no fueron realizados y fijan en 108.147,22 euros, sin IVA, el importe cobrado indebidamente por la empresa. Las fuentes nominales identifican a la trabajadora como Vanesa Falque Barral, cuñada de la entonces teniente de alcalde Carmela Silva; ese parentesco no equivale a una condena de Silva.
+descripcion: >-
+  La causa examinó nueve contratos menores del Ayuntamiento de Vigo con Imesapi utilizados para financiar una
+  contratación al margen de los sistemas legales de empleo público. Los hechos probados describen trabajos
+  facturados que no fueron realizados y fijan en 108.147,22 euros, sin IVA, el importe cobrado indebidamente
+  por la empresa. Las fuentes nominales identifican a la trabajadora como Vanesa Falque Barral, cuñada de la
+  entonces teniente de alcalde Carmela Silva; ese parentesco no equivale a una condena de Silva.
 
-  La Sección Quinta de la Audiencia Provincial de Pontevedra condenó el 11 de febrero de 2019 al funcionario Francisco Javier Gutiérrez Orúe a cinco años y tres meses de prisión y al administrador de Imesapi Ramón Comesaña Alonso a un año y seis meses. La STS 908/2021, de 24 de noviembre, mantuvo las penas y la indemnización solidaria de 108.147,22 euros más intereses, pero eliminó las costas correspondientes a la acusación popular. Imesapi quedó como responsable civil subsidiaria.
 
-  Cadena SER publicó en junio de 2023 que la Audiencia había reducido a cinco años la prisión de Gutiérrez Orúe tras revisar la condena, y en julio informó de su ingreso en El Dueso. Faltan los originales de los autos de ejecución y revisión y la evolución posterior hasta el 17 de octubre de 2026. No se presenta el ingreso como cierre de la ejecución ni el informe fiscal sobre un indulto como una decisión del Gobierno.
+  La Sección Quinta de la Audiencia Provincial de Pontevedra condenó el 11 de febrero de 2019 al funcionario
+  Francisco Javier Gutiérrez Orúe a cinco años y tres meses de prisión y al administrador de Imesapi Ramón
+  Comesaña Alonso a un año y seis meses. La STS 908/2021, de 24 de noviembre, mantuvo las penas y la
+  indemnización solidaria de 108.147,22 euros más intereses, pero eliminó las costas correspondientes a la
+  acusación popular. Imesapi quedó como responsable civil subsidiaria.
+
+
+  Cadena SER publicó en junio de 2023 que la Audiencia había reducido a cinco años la prisión de Gutiérrez
+  Orúe tras revisar la condena, y en julio informó de su ingreso en El Dueso. Faltan los originales de los
+  autos de ejecución y revisión y la evolución posterior hasta el 17 de octubre de 2026. No se presenta el
+  ingreso como cierre de la ejecución ni el informe fiscal sobre un indulto como una decisión del Gobierno.
 resumen: "Condenas por contratación oculta y facturas de servicios no realizados en Vigo. Indemnización solidaria de 108.147,22 euros; prisión del funcionario rebajada a cinco años e ingreso publicados en 2023, con ejecución posterior pendiente de verificación."
 coste: 108147.22
 lugar: "Vigo, Galicia"
@@ -110,14 +123,14 @@ cronologia:
       - "https://cadenaser.com/galicia/2023/07/11/ingresa-en-prision-el-exfuncionario-vigues-condenado-a-5-anos-por-el-caso-enchufe-radio-vigo/"
 ---
 
-La lectura de los originales es dirigida: cabecera, hechos y penas reproducidas y fallo del Supremo, incluida su segunda sentencia; cabecera y parte final con responsabilidad civil y fallo de la Audiencia. Los nombres anonimizados de CENDOJ no se equiparan por deducción a las personas reales. Los nombres de los condenados se contrastan con Confilegal y la identificación de Vanesa Falque Barral con la información de [El País de mayo de 2016](https://elpais.com/ccaa/2016/05/13/galicia/1463146286_539508.html).
+Los nombres anonimizados de CENDOJ no se equiparan por deducción a las personas reales. Los nombres de los condenados se contrastan con Confilegal y la identificación de Vanesa Falque Barral con la información de [El País de mayo de 2016](https://elpais.com/ccaa/2016/05/13/galicia/1463146286_539508.html).
 
 La indemnización de 108.147,22 euros corresponde, según la Audiencia, a lo falsamente facturado: es una cuantía de responsabilidad civil derivada del delito, no una suma de contratos lícitos ni una obligación separada por cada condenado. No se multiplica por dos por ser solidaria, ni se añade otra vez por la responsabilidad subsidiaria de Imesapi. Se conserva como importe histórico reconocido; no como saldo actualmente pendiente ni como importe exacto del salario neto recibido por la trabajadora. La información de ejecución de 2022 alude al pago de responsabilidad civil, pero no se han recuperado justificantes ni una liquidación final de intereses.
 
 El relato probado admite que la trabajadora pudo realizar alguna llamada, aunque no elaboró los servicios facturados y carecía de conocimientos para confeccionar las encuestas presentadas. Se evita por ello afirmar que nunca realizó actividad alguna. La sentencia tampoco determina si la iniciativa del funcionario fue propia o procedía de terceros. No se atribuye a Carmela Silva una condena o una orden de contratación por su parentesco; no figura entre los condenados del fallo cotejado.
 
-Las suspensiones, la revisión de pena y el indulto son cuestiones distintas. La cobertura de abril de 2023 indica que la Audiencia entendió desestimada la petición de indulto por el tiempo transcurrido y ordenó ejecutar la pena; ello no equivale a que la Fiscalía pudiera denegar definitivamente un indulto. Se retira esa afirmación y no se certifica una resolución gubernamental expresa. La rebaja se documenta mediante la noticia de junio, y el ingreso mediante la de julio; no se infiere de ellas la situación penitenciaria en 2026.
+Las suspensiones, la revisión de pena y el indulto son cuestiones distintas. La cobertura de abril de 2023 indica que la Audiencia entendió desestimada la petición de indulto por el tiempo transcurrido y ordenó ejecutar la pena; ello no equivale a que la Fiscalía pudiera denegar definitivamente un indulto. No consta una resolución gubernamental expresa. La rebaja se documenta mediante la noticia de junio, y el ingreso mediante la de julio; no se infiere de ellas la situación penitenciaria en 2026.
 
-La ficha anterior mezclaba la historia de las denuncias generales sobre empleos municipales con este procedimiento y afirmaba una represalia partidaria como hecho probado. La noticia de EFE sobre Príncipe describe motivos disciplinarios discutidos y un expediente iniciado en 2012. Se mantiene ese contexto atribuido, sin presentar todas las denuncias como acreditadas ni a Príncipe como acusado en esta causa.
+Las denuncias generales sobre empleos municipales son distintas de este procedimiento; no está acreditada una represalia partidaria como hecho probado. La noticia de EFE sobre Príncipe describe motivos disciplinarios discutidos y un expediente iniciado en 2012. Se mantiene ese contexto atribuido, sin presentar todas las denuncias como acreditadas ni a Príncipe como acusado en esta causa.
 
-Revisión parcial con corte en el 17 de octubre de 2026: faltan los originales del archivo de 2016 y de las resoluciones de suspensión, revisión y ejecución de 2022–2023; la evolución posterior del indulto, los pagos e intereses y las penas no está verificada. No se conserva una fecha de cierre definitivo. Las fechas de creación de los PDF descargados en 2026 son de exportación, no las fechas de las sentencias.
+Información pendiente al 17 de octubre de 2026: faltan los originales del archivo de 2016 y de las resoluciones de suspensión, revisión y ejecución de 2022–2023; la evolución posterior del indulto, los pagos e intereses y las penas no está verificada. No consta una fecha de cierre definitivo. Las fechas de creación de los PDF en 2026 son de exportación, no las fechas de las sentencias.

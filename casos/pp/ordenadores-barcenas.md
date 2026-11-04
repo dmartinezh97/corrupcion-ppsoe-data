@@ -10,18 +10,55 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin recurso pendiente
 firmeza: Firme
 estado: absolución firme
-descripcion: |-
-  Esta causa se refiere al borrado y destrucción de los discos duros de dos portátiles usados por Luis Bárcenas en la sede del PP, no a las condenas de Gürtel, la caja B, la reforma de Génova o Kitchen. El resultado es la absolución firme del Partido Popular, Carmen Navarro, Alberto Durán y José Manuel Moreno. El PP fue acusado como persona jurídica exclusivamente por daños informáticos; el encubrimiento se imputaba a las tres personas físicas. Se corrige el estado heredado de sobreseimiento: hubo juicio y sentencia absolutoria.
+descripcion: >-
+  Esta causa se refiere al borrado y destrucción de los discos duros de dos portátiles usados por Luis
+  Bárcenas en la sede del PP, no a las condenas de Gürtel, la caja B, la reforma de Génova o Kitchen. El
+  resultado es la absolución firme del Partido Popular, Carmen Navarro, Alberto Durán y José Manuel Moreno. El
+  PP fue acusado como persona jurídica exclusivamente por daños informáticos; el encubrimiento se imputaba a
+  las tres personas físicas. Hubo juicio y sentencia absolutoria, no un sobreseimiento.
 
-  El Juzgado de lo Penal número 31 de Madrid absolvió el 4 de septiembre de 2019. La Sección Séptima de la Audiencia Provincial confirmó el fallo mediante sentencia 271/2020, de 13 de julio, que declara expresamente su firmeza desde esa fecha y que no cabe recurso. El 20 de julio fue la comunicación del CGPJ. Su nota menciona por error la Sección Sexta; el encabezamiento, identificación CENDOJ y firma del PDF judicial indican Séptima y se sigue la resolución.
 
-  Los hechos probados reproducidos y aceptados en apelación describen un borrado seguro de 35 sobreescrituras, seguido de rayado y descarte de los dos soportes. El proceso se sitúa en mayo de 2013 o fechas próximas; el nuevo disco del Apple recibió el sistema operativo los días 2 y 3 de julio. Eso ocurrió antes del requerimiento judicial de entrega de 16 de agosto, aunque la investigación sobre Bárcenas ya estaba abierta. Las fuentes nominales contemporáneas identifican a Moreno como ejecutor y a Durán como responsable jurídico que ordenó aplicar el protocolo. No se declara probada una intervención activa de Carmen Navarro en la decisión o ejecución.
+  El Juzgado de lo Penal número 31 de Madrid absolvió el 4 de septiembre de 2019. La Sección Séptima de la
+  Audiencia Provincial confirmó el fallo mediante sentencia 271/2020, de 13 de julio, que declara expresamente
+  su firmeza desde esa fecha y que no cabe recurso. El 20 de julio fue la comunicación del CGPJ. Su nota
+  menciona por error la Sección Sexta; el encabezamiento, identificación CENDOJ y firma del PDF judicial
+  indican Séptima y se sigue la resolución.
 
-  La absolución no declara demostrado que los discos estuvieran vacíos: considera no acreditado que contuvieran datos al borrarse, su valor económico y que no existieran copias, así como la intención de perjudicar a Bárcenas o de impedir la acreditación de delitos. Tampoco se probó a quién pertenecía el Apple; el Toshiba era del PP. Por eso no se presenta a Bárcenas como propietario judicialmente reconocido de ambos equipos. Además de la valoración probatoria, la sentencia examinó la falta de legitimación de las acusaciones populares para sostener solas el delito de daños informáticos, tras la retirada de Bárcenas y la postura no acusatoria del fiscal; ese límite no se aplicó al encubrimiento, vinculado a la Administración de Justicia.
 
-  El auto de Pablo Ruz de 19 de septiembre de 2013, que remitió testimonio a los juzgados ordinarios de Madrid, reproduce el requerimiento de 16 de agosto y la diligencia de clonado de 29 de agosto. Se corrige la remisión fechada en octubre que figuraba en la ficha. Ese auto registra la presentación de los equipos el 19 de agosto, mientras los hechos probados posteriores citan el día 20; se conservan ambas referencias como discrepancia pendiente de cotejar con el registro original. La constatación forense del Toshiba sin disco y del Apple con indicios de cambio fue el 29, no el día de la entrega. La sentencia distingue también el disco averiado del Apple que había sido sustituido por encargo de Bárcenas en 2012 de los soportes tratados en 2013.
+  Los hechos probados reproducidos y aceptados en apelación describen un borrado seguro de 35 sobreescrituras,
+  seguido de rayado y descarte de los dos soportes. El proceso se sitúa en mayo de 2013 o fechas próximas; el
+  nuevo disco del Apple recibió el sistema operativo los días 2 y 3 de julio. Eso ocurrió antes del
+  requerimiento judicial de entrega de 16 de agosto, aunque la investigación sobre Bárcenas ya estaba abierta.
+  Las fuentes nominales contemporáneas identifican a Moreno como ejecutor y a Durán como responsable jurídico
+  que ordenó aplicar el protocolo. No se declara probada una intervención activa de Carmen Navarro en la
+  decisión o ejecución.
 
-  El procedimiento abreviado se acordó el 26 de julio de 2016. Bárcenas fue tenido por desistido de la acción penal el 14 de septiembre, con reserva de acciones civiles. El juicio oral se abrió el 30 de noviembre de 2017; Fiscalía formuló calificación absolutoria el 25 de enero de 2018 y la mantuvo en el juicio, según los antecedentes judiciales. No se convierte esa postura fiscal en defensa procesal del partido ni se reduce su razonamiento a la propiedad de los equipos. Las reclamaciones de multa de las acusaciones no son penas impuestas ni un coste patrimonial acreditado.
+
+  La absolución no declara demostrado que los discos estuvieran vacíos: considera no acreditado que
+  contuvieran datos al borrarse, su valor económico y que no existieran copias, así como la intención de
+  perjudicar a Bárcenas o de impedir la acreditación de delitos. Tampoco se probó a quién pertenecía el Apple;
+  el Toshiba era del PP. Por eso no se presenta a Bárcenas como propietario judicialmente reconocido de ambos
+  equipos. Además de la valoración probatoria, la sentencia examinó la falta de legitimación de las
+  acusaciones populares para sostener solas el delito de daños informáticos, tras la retirada de Bárcenas y la
+  postura no acusatoria del fiscal; ese límite no se aplicó al encubrimiento, vinculado a la Administración de
+  Justicia.
+
+
+  El auto de Pablo Ruz de 19 de septiembre de 2013, que remitió testimonio a los juzgados ordinarios de
+  Madrid, reproduce el requerimiento de 16 de agosto y la diligencia de clonado de 29 de agosto. Ese auto
+  registra la presentación de los equipos el 19 de agosto, mientras los hechos probados posteriores citan el
+  día 20; se conservan ambas referencias como discrepancia pendiente de cotejar con el registro original. La
+  constatación forense del Toshiba sin disco y del Apple con indicios de cambio fue el 29, no el día de la
+  entrega. La sentencia distingue también el disco averiado del Apple que había sido sustituido por encargo de
+  Bárcenas en 2012 de los soportes tratados en 2013.
+
+
+  El procedimiento abreviado se acordó el 26 de julio de 2016. Bárcenas fue tenido por desistido de la acción
+  penal el 14 de septiembre, con reserva de acciones civiles. El juicio oral se abrió el 30 de noviembre de
+  2017; Fiscalía formuló calificación absolutoria el 25 de enero de 2018 y la mantuvo en el juicio, según los
+  antecedentes judiciales. No se convierte esa postura fiscal en defensa procesal del partido ni se reduce su
+  razonamiento a la propiedad de los equipos. Las reclamaciones de multa de las acusaciones no son penas
+  impuestas ni un coste patrimonial acreditado.
 resumen: Absolución firme del PP y de tres empleados por la destrucción de los discos duros usados por Bárcenas.
   La sentencia de apelación es de 13 de julio de 2020; distingue el borrado acreditado de los elementos delictivos
   no probados.
@@ -143,15 +180,15 @@ cronologia:
 - fecha: '2018-01-25'
   titulo: Calificación absolutoria de Fiscalía
   descripcion: El informe fiscal solicitó la absolución de los cuatro acusados y fue ratificado en conclusiones
-    definitivas, según los antecedentes judiciales. Se corrige el 29 de enero, que era la fecha de la noticia citada.
+    definitivas, según los antecedentes judiciales.
   type: resolución
   relevancia: alta
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ecc5c7e9650fbb31&encode=true&databasematch=AN
 - fecha: '2019-06-14'
   titulo: Comienza el juicio
-  descripcion: RTVE informa del inicio ante el Penal 31. La sede de celebración y el número total de sesiones no
-    se mantienen sin comprobación de las actas.
+  descripcion: RTVE informa del inicio ante el Penal 31. No están acreditados la sede de celebración ni el número
+    total de sesiones mediante sus actas.
   type: juicio
   relevancia: alta
   urls:
@@ -177,10 +214,10 @@ cronologia:
   - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/La-Audiencia-Provincial-de-Madrid-confirma-la-absolucion-del-PP-en-el-caso-de-los--ordenadores-de-Barcenas-
 ---
 
-## Alcance de la revisión a 17 de octubre de 2026
+## Información disponible a 17 de octubre de 2026
 
-Se han descargado el auto de 2013 y la sentencia de apelación, enlazada por su ECLI desde el CGPJ. Tras recuperar inicialmente una copia de un repositorio jurídico, se ha obtenido también el PDF oficial de CENDOJ, de 29 páginas, que se enlaza en esta ficha. La lectura fue selectiva: encabezamiento, hechos probados y antecedentes, pasajes sobre legitimación de las acusaciones populares y fallo; no se declara lectura integral de las 29 páginas del PDF oficial ni de los 11 folios del auto. La identificación nominal se apoya también en la copia nominativa de la sentencia 267/2019, de 74 páginas, recuperada de ARA. Se leyeron su encabezamiento, pasajes de hechos probados y no acreditados de las páginas 9-11 y el fallo de las páginas 73-74, sin declarar lectura integral. No se deducen nombres de los seudónimos del PDF de apelación.
+La sentencia de apelación está disponible en el CENDOJ y consta de 29 páginas. La identificación nominal se apoya también en la copia nominativa de la sentencia 267/2019, de 74 páginas, recuperada de ARA. No se deducen nombres de los seudónimos del PDF de apelación.
 
-La firmeza consta expresamente en el fallo de 13 de julio de 2020. Se corrige la sección y la fecha siguiendo esa resolución frente a la nota de prensa. Persisten la diferencia entre entrega del 19 o 20 de agosto de 2013, el cotejo de los documentos originales de registro y la falta de cotejo integral de los documentos de instrucción y de los fundamentos de primera instancia; por eso la revisión documental no se marca completa. La calificación, el resultado y la propiedad de los equipos se explican con los límites de lo probado. Se elimina `coste: 0`: ausencia de daño probado en esta ficha no equivale a medición económica de cero.
+La firmeza consta expresamente en el fallo de 13 de julio de 2020. Persisten la diferencia entre entrega del 19 o 20 de agosto de 2013, el cotejo de los documentos originales de registro y la falta de cotejo integral de los documentos de instrucción y de los fundamentos de primera instancia. La calificación, el resultado y la propiedad de los equipos se explican con los límites de lo probado. La falta de un daño probado no equivale a una cuantificación económica de cero euros.
 
-Los otros procedimientos de Bárcenas y Kitchen no alteran automáticamente esta absolución. Las declaraciones políticas o noticias posteriores sobre la destrucción de pruebas no sustituyen una resolución que modifique el fallo. No se ha localizado tal modificación hasta la fecha de revisión.
+Los otros procedimientos de Bárcenas y Kitchen no alteran automáticamente esta absolución. Las declaraciones políticas o noticias posteriores sobre la destrucción de pruebas no sustituyen una resolución que modifique el fallo. No se ha localizado tal modificación hasta la fecha indicada.

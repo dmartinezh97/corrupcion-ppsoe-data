@@ -138,8 +138,8 @@ cronologia:
   - https://www.bocm.es/boletin/CM_Orden_BOCM/2025/10/23/BOCM-20251023-23.PDF
 - fecha: '2019-01-11'
   titulo: Se conoce el archivo de la investigación penal
-  descripcion: La noticia de Cadena SER informa del archivo acordado por el Juzgado de Instrucción n.º 48 respecto
-    de los antiguos gestores. Es fecha de publicación, no se mantiene el 31 de enero como fecha del auto.
+  descripcion: La noticia de Cadena SER informa del archivo acordado por el Juzgado de Instrucción n.º 48 respecto de
+    los antiguos gestores. Es la fecha de publicación; no consta que el auto sea del 31 de enero.
   type: noticia
   urls:
   - https://cadenaser.com/ser/2019/01/11/tribunales/1547203403_468517.html

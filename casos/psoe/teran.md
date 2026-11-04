@@ -10,10 +10,16 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "condenas por conformidad"
 lugar: Sanlúcar de Barrameda, Cádiz, Andalucía
-descripcion: |
-  Procedimiento sobre pagos municipales denunciados por Rafael Terán. La crónica del 8 de julio de 2008 informó de que cinco acusados aceptaron el día anterior una conformidad por malversación y falsedad documental ante la Sección Cuarta de la Audiencia de Cádiz. La noticia aún anunciaba la redacción de la sentencia.
+descripcion: >-
+  Procedimiento sobre pagos municipales denunciados por Rafael Terán. La crónica del 8 de julio de 2008
+  informó de que cinco acusados aceptaron el día anterior una conformidad por malversación y falsedad
+  documental ante la Sección Cuarta de la Audiencia de Cádiz. La noticia aún anunciaba la redacción de la
+  sentencia.
 
-  No se ha recuperado la resolución original ni verificado su fecha, número, firmeza y ejecución al corte del 17 de octubre de 2026. La información posterior sobre Agustín Cuevas distingue Terán del caso Sanlúcar, por el que ingresó en prisión. La revisión permanece incompleta y no presenta las previsiones de suspensión como decisiones judiciales acreditadas.
+
+  No se ha recuperado la resolución original ni verificado su fecha, número, firmeza y ejecución al corte del
+  17 de octubre de 2026. La información posterior sobre Agustín Cuevas distingue Terán del caso Sanlúcar, por
+  el que ingresó en prisión. Las previsiones de suspensión no equivalen a decisiones judiciales acreditadas.
 resumen: "Conformidad de cinco acusados por pagos del Ayuntamiento de Sanlúcar, aceptada en julio de 2008 según la prensa. Original y ejecución pendientes de cotejo."
 tribunal:
   - "Audiencia Provincial de Cádiz - Sección Cuarta"
@@ -71,11 +77,11 @@ cronologia:
     relevancia: media
 ---
 
-La información previa al juicio describía las acusaciones sobre pagos a familiares y fondos de una escuela taller. También indicaba que Manuel Vital había quedado exonerado tras pericias sobre firmas falsificadas. No se conservan otros cargos heredados —IVA, presupuestos ficticios o implicación de Ángel Mora— sin fuentes específicas revalidadas.
+La información previa al juicio describía las acusaciones sobre pagos a familiares y fondos de una escuela taller. También indicaba que Manuel Vital había quedado exonerado tras pericias sobre firmas falsificadas. No están acreditados otros cargos relativos al IVA, presupuestos ficticios o una implicación de Ángel Mora.
 
-La crónica del 8 de julio resumió las penas aceptadas como un año y diez meses de prisión por acusado y una indemnización cercana a 60.000 euros. La de noviembre de 2009 desglosó para Cuevas un año, un mes y siete días por falsedad y nueve meses por malversación. Sin la sentencia no se resuelve la diferencia ni se fija una pena exacta única. Los dos familiares presentes en la conformidad no se identifican nominalmente en las fuentes leídas.
+La crónica del 8 de julio resumió las penas aceptadas como un año y diez meses de prisión por acusado y una indemnización cercana a 60.000 euros. La de noviembre de 2009 desglosó para Cuevas un año, un mes y siete días por falsedad y nueve meses por malversación. Sin la sentencia no se resuelve la diferencia ni se fija una pena exacta única. Los dos familiares presentes en la conformidad no se identifican nominalmente en las fuentes citadas.
 
-No se mantiene el coste de 56.000 euros: las cantidades inicialmente atribuidas a las operaciones y la indemnización aproximada no permiten establecer un daño judicial exacto ni un saldo pendiente de reintegro. No se suman ambas magnitudes.
+Las cantidades inicialmente atribuidas a las operaciones y la indemnización aproximada no permiten establecer un daño judicial exacto de 56.000 euros ni un saldo pendiente de reintegro. No se suman ambas magnitudes.
 
 La noticia de julio preveía que cuatro acusados evitarían prisión; esa previsión no sustituye los autos de suspensión. La información posterior de Cuevas contiene además referencias temporales discordantes sobre los hechos, por lo que se utiliza con atribución expresa, sin trasladar penas, multas ni responsabilidades del caso Sanlúcar a Terán.
 

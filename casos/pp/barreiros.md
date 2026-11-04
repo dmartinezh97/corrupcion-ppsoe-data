@@ -10,12 +10,12 @@ firmeza: Sin determinar
 estado: Absolución confirmada en apelación
 resumen: 'Proceso por prevaricación urbanística en licencias de Barreiros: siete absoluciones en 2019, confirmadas en apelación
   según la prensa.'
-descripcion: El Juzgado de lo Penal n.º 2 de Lugo absolvió el 8 de febrero de 2019 al alcalde, cinco concejales y la arquitecta
-  municipal acusados de prevaricación urbanística. El Progreso informó el 20 de julio de 2019 de la confirmación firme por
-  la Audiencia de Lugo; no se ha obtenido esa resolución original. La absolución penal no declara conformes a derecho todas
-  las licencias ni resuelve los demás litigios urbanísticos del municipio. No se dispone de una cuantificación judicial del
-  perjuicio económico ni de una revisión documental completa de los procedimientos administrativos asociados hasta el 17 de
-  octubre de 2026.
+descripcion: El Juzgado de lo Penal n.º 2 de Lugo absolvió el 8 de febrero de 2019 al alcalde, cinco concejales y la
+  arquitecta municipal acusados de prevaricación urbanística. El Progreso informó el 20 de julio de 2019 de la
+  confirmación firme por la Audiencia de Lugo; no se ha obtenido esa resolución original. La absolución penal
+  no declara conformes a derecho todas las licencias ni resuelve los demás litigios urbanísticos del
+  municipio. Al 17 de octubre de 2026, no constan una cuantificación judicial del perjuicio económico ni
+  documentación completa sobre los procedimientos administrativos asociados.
 lugar: Barreiros, Lugo, Galicia
 tribunal:
 - Juzgado de lo Penal n.º 2 de Lugo
@@ -114,4 +114,4 @@ El [comunicado judicial de 12 de febrero](https://www.poderjudicial.es/cgpj/ca/P
 
 [El Progreso, el 20 de julio de 2019](https://www.elprogreso.es/articulo/a-marina/audiencia-provincial-dictamino-absolucion-exregidor-barreiros/201907201326591388192.amp.html), informó de la confirmación de la absolución en apelación tras los recursos de Fiscalía y Adega, calificándola de firme y señalando una discrepancia entre magistrados. Falta cotejar la resolución original de la Audiencia, su fecha exacta y el contenido de esa discrepancia. Por ello la firmeza se atribuye expresamente a esa fuente periodística y no se extrae de la fórmula condicional de la sentencia inicial.
 
-Otros procedimientos del urbanismo de Barreiros, incluidas las actuaciones contra la exsecretaria municipal o los litigios sobre normas y licencias, tienen sujetos y objetos propios. La [información de noviembre de 2015](https://www.diariodepontevedra.es/articulo/noticias/el-alcalde-de-barreiros-dice-que-probara-su-inocencia/20151124195149289082.html) ya los distinguía y recogía que la defensa solicitaba acumulación. Sus resultados no se trasladan a esta absolución ni viceversa. No se conserva un coste cero: la ausencia de una cuantificación judicial revisada no equivale a demostrar ausencia de perjuicios.
+Otros procedimientos del urbanismo de Barreiros, incluidas las actuaciones contra la exsecretaria municipal o los litigios sobre normas y licencias, tienen sujetos y objetos propios. La [información de noviembre de 2015](https://www.diariodepontevedra.es/articulo/noticias/el-alcalde-de-barreiros-dice-que-probara-su-inocencia/20151124195149289082.html) ya los distinguía y recogía que la defensa solicitaba acumulación. Sus resultados no se trasladan a esta absolución ni viceversa. La ausencia de una cuantificación judicial acreditada no equivale a demostrar la ausencia de perjuicios.

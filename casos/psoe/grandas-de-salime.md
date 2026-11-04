@@ -70,8 +70,8 @@ cronologia:
 - fecha: '2014-05-15'
   titulo: Declaración del alcalde en Castropol
   descripcion: RTPA informa de que Revilla declaró esa mañana como imputado por un supuesto uso ilícito de fondos
-    públicos relacionado con una subvención y una envasadora de patatas. Aportó documentación, negó irregularidades
-    y pidió el archivo. No se mantiene el año 2013 como fecha de esta declaración.
+    públicos relacionado con una subvención y una envasadora de patatas. Aportó documentación, negó
+    irregularidades y pidió el archivo.
   urls:
   - https://www.rtpa.es/noticias-asturias%3AEl-alcalde-de-Grandas-de-Salime-declara-por-un-posible-delito-de-uso-ilicito-de-fondos_111400152589.html
   type: imputación
@@ -109,10 +109,10 @@ La fuente principal sobre el resultado localizado es el [acta oficial del pleno 
 
 La transcripción identifica DP 133/14, el sobreseimiento provisional de 27 de octubre de 2014, la desestimación de la reforma el 22 de diciembre y el auto 478/2015 de la Sección Segunda de la Audiencia de Oviedo. El dispositivo confirma ambas resoluciones y declara las costas de oficio. No se da al auto de la Audiencia el 28 de mayo de 2015 como fecha de dictado: el acta solo menciona ese día como señalamiento para resolver.
 
-Sobre la maquinaria, la resolución transcrita no estima probado el uso exclusivo y excluyente ni que se negara el servicio a otro agricultor. Recoge certificación de un pago de 696 euros por su utilización entre 2010 y 2013. Los 60.000 euros se exponen como un argumento del recurso sobre lo que habría costado adquirir el equipo; no se convierten en daño público, beneficio penalmente acreditado o suma de subvenciones verificada. Se elimina por ello el coste de 60.000 euros y la afirmación de que la máquina fue utilizada exclusivamente por el alcalde y su socia.
+Sobre la maquinaria, la resolución transcrita no estima probado el uso exclusivo y excluyente ni que se negara el servicio a otro agricultor. Recoge certificación de un pago de 696 euros por su utilización entre 2010 y 2013. Los 60.000 euros se exponen como un argumento del recurso sobre lo que habría costado adquirir el equipo; no se convierten en daño público, beneficio penalmente acreditado o suma de subvenciones verificada. No está acreditado un perjuicio de 60.000 euros ni el uso exclusivo de la máquina por el alcalde y su socia.
 
 La resolución trata también las alegaciones sobre terrenos, presupuestos y el complemento específico de la secretaria, y considera insuficientes los argumentos para continuar. No se presenta el aumento retributivo denunciado como delito probado. Los cargos que figuran en la ficha son los de las actuaciones históricas, sin afirmar que esas personas sigan ocupándolos en 2026.
 
 Hay dos asuntos que no deben confundirse con este resultado. La [noticia de 2012 sobre una concejala absuelta de calumnias](https://www.20minutos.es/noticia/1527864/0/) se refiere a expresiones vertidas en un pleno, no a una condena del alcalde por el uso de la máquina. Tampoco el antiguo procedimiento contable contra un secretario-interventor permite atribuir al alcalde, la edil o la secretaria de DP 133/14 una responsabilidad de 97.910,23 euros: no se ha verificado aquí el original de esa causa distinta y no se agrega su cuantía al caso de la patata.
 
-A 17 de octubre de 2026 faltan el auto judicial original y la comprobación de su firmeza o posibles actuaciones posteriores. El resultado documentado es un sobreseimiento provisional confirmado según transcripción oficial, no una investigación actual presumida por falta de noticias ni una absolución definitiva. Se omiten los días de concesión y constitución de la cooperativa que no han podido verificarse.
+A 17 de octubre de 2026 faltan el auto judicial original y la comprobación de su firmeza o posibles actuaciones posteriores. El resultado documentado es un sobreseimiento provisional confirmado según transcripción oficial, no una investigación actual presumida por falta de noticias ni una absolución definitiva. No constan los días exactos de concesión y constitución de la cooperativa.

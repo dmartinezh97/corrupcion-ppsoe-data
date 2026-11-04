@@ -162,7 +162,7 @@ El voto particular de Joaquín Giménez García no pedía condenarlos: reclamaba
 
 Según la noticia de ejecución de Europa Press, para Campos se ordenó cobrar la multa de 9.600 euros y 5.529 euros como equivalente del decomiso; para Betoret, la misma multa y la entrega de las prendas o, subsidiariamente, 13.499 euros. No procede sumar la entrega y su equivalente ni incorporar esas cifras como responsabilidad civil o daño público. La declaración de firmeza de ambos se documenta por esa noticia; quedan pendientes los autos originales y la liquidación de ejecución. Tampoco se ha recuperado un testimonio separado de firmeza y devolución de fianzas de los absueltos, aunque sí la sentencia que desestima la casación.
 
-Las búsquedas de información posterior hasta el 17 de octubre de 2026 no aportaron una nueva resolución propia de esta pieza. Los resultados de otras causas de Camps o Costa no alteran automáticamente este desenlace.
+Al 17 de octubre de 2026, no consta una nueva resolución propia de esta pieza. Los resultados de otras causas de Camps o Costa no alteran automáticamente este desenlace.
 
 ## Fuentes
 

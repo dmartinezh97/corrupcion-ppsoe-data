@@ -9,44 +9,47 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: revisión de condenas
-descripcion: 'La pieza del procedimiento específico de los ERE examinó la responsabilidad de veintiún antiguos altos
-  cargos de la Junta de Andalucía en el sistema de presupuestación, concesión y pago de ayudas sociolaborales y
-  a empresas en crisis. No equivale al conjunto de piezas sobre ayudas singulares ni a todos los investigados de
-  la macrocausa. Las sentencias penales apreciaron que las transferencias al IFA/IDEA permitieron prescindir de
-  procedimientos y fiscalización previa exigibles. La cifra cercana a 680 millones de euros corresponde al montante
-  de créditos y ayudas examinado; no se presenta aquí como dinero apropiado personalmente por los acusados ni como
-  una responsabilidad civil global fijada y vigente. El alcance penal de las decisiones presupuestarias fue revisado
-  por el Tribunal Constitucional y dio lugar a la cuestión prejudicial planteada en 2025.
+descripcion: >-
+  La pieza del procedimiento específico de los ERE examinó la responsabilidad de veintiún antiguos altos
+  cargos de la Junta de Andalucía en el sistema de presupuestación, concesión y pago de ayudas sociolaborales
+  y a empresas en crisis. No equivale al conjunto de piezas sobre ayudas singulares ni a todos los
+  investigados de la macrocausa. Las sentencias penales apreciaron que las transferencias al IFA/IDEA
+  permitieron prescindir de procedimientos y fiscalización previa exigibles. La cifra cercana a 680 millones
+  de euros corresponde al montante de créditos y ayudas examinado; no se presenta aquí como dinero apropiado
+  personalmente por los acusados ni como una responsabilidad civil global fijada y vigente. El alcance penal
+  de las decisiones presupuestarias fue revisado por el Tribunal Constitucional y dio lugar a la cuestión
+  prejudicial planteada en 2025.
 
 
-  La Audiencia de Sevilla dictó la sentencia 490/2019 el 19 de noviembre de 2019: diecinueve condenados y dos absueltos,
-  Manuel Gómez Martínez y Francisco del Río Muñoz. El Supremo, en la sentencia 749/2022 de 13 de septiembre, cuyo
-  fallo se había anticipado el 26 de julio, confirmó buena parte de las condenas, pero absolvió a Javier Aguado
-  Hinojal, Juan Francisco Sánchez García y Lourdes Medina Varo y redujo la pena de Juan Márquez Contreras a tres
-  años de prisión y siete años y seis meses de inhabilitación absoluta. No fue una confirmación íntegra de todos
-  los resultados de 2019.
+  La Audiencia de Sevilla dictó la sentencia 490/2019 el 19 de noviembre de 2019: diecinueve condenados y dos
+  absueltos, Manuel Gómez Martínez y Francisco del Río Muñoz. El Supremo, en la sentencia 749/2022 de 13 de
+  septiembre, cuyo fallo se había anticipado el 26 de julio, confirmó buena parte de las condenas, pero
+  absolvió a Javier Aguado Hinojal, Juan Francisco Sánchez García y Lourdes Medina Varo y redujo la pena de
+  Juan Márquez Contreras a tres años de prisión y siete años y seis meses de inhabilitación absoluta. No fue
+  una confirmación íntegra de todos los resultados de 2019.
 
 
-  Los amparos de 2024 tuvieron resultados diferentes. Viera y Márquez vieron desestimados sus recursos. Serrano
-  obtuvo la nulidad sin retroacción. En Griñán, Vallejo y Martínez Aguayo se anuló íntegramente la condena por malversación,
-  sin retroacción por ese delito, y se ordenó un nuevo pronunciamiento limitado sobre prevaricación. Rodríguez Román
-  conserva ámbitos susceptibles de nuevo examen por prevaricación y por malversación relativos a modificaciones
-  de 2000 y 2001; Fernández no obtuvo la eliminación de toda su responsabilidad por la gestión de ayudas. Chaves,
-  Magdalena Álvarez, Zarrías y Lozano obtuvieron amparo parcial con retroacción respecto de prevaricación, excluyendo
-  determinados actos presupuestarios pero no todos. Por tanto, no cabe describir los amparos como absolución general
-  ni mantener todas las penas originales como si siguieran intactas.
+  Los amparos de 2024 tuvieron resultados diferentes. Viera y Márquez vieron desestimados sus recursos.
+  Serrano obtuvo la nulidad sin retroacción. En Griñán, Vallejo y Martínez Aguayo se anuló íntegramente la
+  condena por malversación, sin retroacción por ese delito, y se ordenó un nuevo pronunciamiento limitado
+  sobre prevaricación. Rodríguez Román conserva ámbitos susceptibles de nuevo examen por prevaricación y por
+  malversación relativos a modificaciones de 2000 y 2001; Fernández no obtuvo la eliminación de toda su
+  responsabilidad por la gestión de ayudas. Chaves, Magdalena Álvarez, Zarrías y Lozano obtuvieron amparo
+  parcial con retroacción respecto de prevaricación, excluyendo determinados actos presupuestarios pero no
+  todos. Por tanto, no cabe describir los amparos como absolución general ni mantener todas las penas
+  originales como si siguieran intactas.
 
 
-  Por auto 657/2025 de 14 de julio, notificado el 15, la Audiencia planteó cuatro preguntas al TJUE y suspendió
-  la tramitación relativa al cumplimiento de los mandatos del TC para los acusados afectados por la consulta. La
-  prensa de abril de 2026 identifica la petición como C-501/25, Partido Popular de Andalucía; no se ha podido consultar
-  íntegramente el registro europeo por los obstáculos de acceso. En abril de 2026 se conocieron observaciones de
-  la Comisión Europea favorables a que el TJUE se declarase incompetente o considerase inadmisibles las cuestiones.
-  Son alegaciones, no una decisión del TJUE. No se ha verificado una resolución posterior de este tribunal ni los
-  nuevos fallos nacionales; tampoco puede extenderse la suspensión a los absueltos o a todos los condenados. Falta
-  completar la evolución individual de Salgueiro, Barberá y Cañete, la ejecución de penas y los recursos posteriores
-  de cada afectado. La ficha permanece incompleta por esas lagunas; la falta de una resolución localizada no acredita
-  que no exista.'
+  Por auto 657/2025 de 14 de julio, notificado el 15, la Audiencia planteó cuatro preguntas al TJUE y
+  suspendió la tramitación relativa al cumplimiento de los mandatos del TC para los acusados afectados por la
+  consulta. La prensa de abril de 2026 identifica la petición como C-501/25, Partido Popular de Andalucía; no
+  se ha podido consultar íntegramente el registro europeo por los obstáculos de acceso. En abril de 2026 se
+  conocieron observaciones de la Comisión Europea favorables a que el TJUE se declarase incompetente o
+  considerase inadmisibles las cuestiones. Son alegaciones, no una decisión del TJUE. No se ha verificado una
+  resolución posterior de este tribunal ni los nuevos fallos nacionales; tampoco puede extenderse la
+  suspensión a los absueltos o a todos los condenados. Falta completar la evolución individual de Salgueiro,
+  Barberá y Cañete, la ejecución de penas y los recursos posteriores de cada afectado. La falta de constancia
+  de una resolución no acredita que no exista.
 resumen: Pieza sobre el sistema de ayudas sociolaborales de la Junta de Andalucía, con condenas y absoluciones en
   2019 y 2022 y amparos de alcance individual en 2024. La Audiencia planteó en 2025 una cuestión prejudicial antes
   de dictar nuevos pronunciamientos; no se ha verificado su resolución posterior.

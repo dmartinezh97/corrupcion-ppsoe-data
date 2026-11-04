@@ -8,12 +8,26 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Condenas de conformidad en dos piezas en 2025; juicio de la gasolinera pendiente de concluir al corte"
-descripcion: |
-  El caso Marchelo investiga operaciones urbanísticas en Alhendín (Granada), durante la etapa del PP en el Ayuntamiento. La causa se dividió en tres piezas: el polígono Marchalhendín, la promoción Novosur y una gasolinera. La sentencia de la Sección Primera de la Audiencia Provincial de Granada del 23 de mayo de 2025 resolvió por conformidad las dos primeras, según la información de Europa Press y de medios que consultaron el fallo.
+descripcion: >-
+  El caso Marchelo investiga operaciones urbanísticas en Alhendín (Granada), durante la etapa del PP en el
+  Ayuntamiento. La causa se dividió en tres piezas: el polígono Marchalhendín, la promoción Novosur y una
+  gasolinera. La sentencia de la Sección Primera de la Audiencia Provincial de Granada del 23 de mayo de 2025
+  resolvió por conformidad las dos primeras, según la información de Europa Press y de medios que consultaron
+  el fallo.
 
-  El exconcejal de Urbanismo Manuel Fernández Moreno recibió dos años de prisión, cuatro años de inhabilitación y multa de seis meses a diez euros diarios. Cinco empresarios fueron condenados a un año de prisión y cuatro procesados resultaron absueltos. Se aplicó la atenuante muy cualificada de dilaciones indebidas. No se ha obtenido el original para comprobar íntegramente la individualización de todos los delitos, la firmeza y la ejecución de esas penas.
 
-  La pieza de la gasolinera no quedó cerrada con esas condenas: empezó a juzgarse el 22 de septiembre de 2026 y su última sesión se aplazó al 26 de octubre, fuera del corte de esta revisión, fijado en el 17 de octubre de 2026. José Guerrero, exalcalde, quedó provisionalmente fuera de esa pieza por motivos de salud; no se trata de una absolución sobre el fondo. La cifra histórica de 27,3 millones fue una valoración de posibles perjuicios durante la instrucción, no un daño global confirmado por la sentencia de 2025.
+  El exconcejal de Urbanismo Manuel Fernández Moreno recibió dos años de prisión, cuatro años de
+  inhabilitación y multa de seis meses a diez euros diarios. Cinco empresarios fueron condenados a un año de
+  prisión y cuatro procesados resultaron absueltos. Se aplicó la atenuante muy cualificada de dilaciones
+  indebidas. No se ha obtenido el original para comprobar íntegramente la individualización de todos los
+  delitos, la firmeza y la ejecución de esas penas.
+
+
+  La pieza de la gasolinera no quedó cerrada con esas condenas: empezó a juzgarse el 22 de septiembre de 2026
+  y su última sesión se aplazó al 26 de octubre, después de la fecha de referencia del 17 de octubre de 2026.
+  José Guerrero, exalcalde, quedó provisionalmente fuera de esa pieza por motivos de salud; no se trata de una
+  absolución sobre el fondo. La cifra histórica de 27,3 millones fue una valoración de posibles perjuicios
+  durante la instrucción, no un daño global confirmado por la sentencia de 2025.
 resumen: "Condenas en Marchalhendín y Novosur; juicio de la gasolinera aún abierto al 17 de octubre de 2026"
 lugar: "Alhendín, Granada, Andalucía"
 tribunal:
@@ -89,8 +103,8 @@ La causa tiene resultados distintos por piezas. La [información de Europa Press
 
 Las fuentes atribuyen al exconcejal cohecho continuado en concurso medial con malversación y prevaricación administrativa en concurso de normas con prevaricación urbanística. La [crónica que reproduce pasajes del fallo](https://www.elindependientedegranada.es/politica/caso-marchelo-corrupcion-urbanistica-alhendin-salda-dos-decadas-con-penas-irrisorias) y la información de elDiario.es no coinciden plenamente en cómo describen la consumación o tentativa de la malversación. Se mantiene pendiente el original para comprobar esa precisión y el desglose de cada empresario, sin atribuir a cada uno todos los delitos del conjunto. Los nombres proceden de información nominal, no de reconstruir iniciales o seudónimos.
 
-Se elimina el coste agregado de **27,3 millones de euros**: [Granada Hoy lo presentó en 2018](https://www.granadahoy.com/granada/millones-agujero-economico-caso-Marchelo-auto-juez-Tamara-Acosta-Alhendin_0_1284771726.html) como posibles perjuicios de la instrucción. El Independiente reproduce en 2025 que el daño a fondos públicos del parque empresarial no llegó a materializarse por causas ajenas a los acusados. También recoge que el Ayuntamiento reservó acciones civiles sin reclamar responsabilidad civil en ese procedimiento. Esto no demuestra que todo daño de todas las piezas sea cero.
+La cifra de **27,3 millones de euros** no es un perjuicio firme: [Granada Hoy lo presentó en 2018](https://www.granadahoy.com/granada/millones-agujero-economico-caso-Marchelo-auto-juez-Tamara-Acosta-Alhendin_0_1284771726.html) como posibles perjuicios de la instrucción. El Independiente reproduce en 2025 que el daño a fondos públicos del parque empresarial no llegó a materializarse por causas ajenas a los acusados. También recoge que el Ayuntamiento reservó acciones civiles sin reclamar responsabilidad civil en ese procedimiento. Esto no demuestra que todo daño de todas las piezas sea cero.
 
 ElDiario.es menciona para dos empresarios un pago de algo más de 18.000 euros, frente a cantidades millonarias antes solicitadas. Sin el fallo original no se identifica aquí esa cuantía como indemnización municipal ni se agrega a pérdidas, multas o beneficios empresariales. Tampoco se fija una cifra de daño para el lucro cesante reclamado por la acusación particular en la gasolinera, pendiente de resolución.
 
-La atenuante de dilaciones explica la reducción de las penas; no acredita por sí sola la suspensión de su ejecución. No se afirma que nadie haya ingresado o vaya a ingresar en prisión ni que exista una condena firme sin documento que lo acredite. La [noticia del 24 de septiembre de 2026](https://www.europapress.es/andalucia/noticia-final-juicio-ultima-pieza-caso-marchelo-aplaza-26-octubre-20260924120952.html) es el último hito contrastado de la gasolinera: su continuación quedó prevista para el 26 de octubre, fuera del corte. Quedan pendientes el original de la sentencia de 2025, el auto de archivo por salud, eventuales recursos, ejecución e indemnizaciones y el resultado de la pieza restante. Por estas lagunas, la ficha permanece incompleta.
+La atenuante de dilaciones explica la reducción de las penas; no acredita por sí sola la suspensión de su ejecución. No se afirma que nadie haya ingresado o vaya a ingresar en prisión ni que exista una condena firme sin documento que lo acredite. La [noticia del 24 de septiembre de 2026](https://www.europapress.es/andalucia/noticia-final-juicio-ultima-pieza-caso-marchelo-aplaza-26-octubre-20260924120952.html) es el último hito contrastado de la gasolinera: su continuación quedó prevista para el 26 de octubre, fuera del corte. Quedan pendientes el original de la sentencia de 2025, el auto de archivo por salud, eventuales recursos, ejecución e indemnizaciones y el resultado de la pieza restante.

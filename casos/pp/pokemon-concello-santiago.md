@@ -138,7 +138,7 @@ cronologia:
 
 Esta ficha comprende las investigaciones compostelanas descritas en sus fuentes, no toda la Operación Pokémon ni el procedimiento fiscal personal de Conde Roa. La contratación municipal, las relaciones con Aquagest y Vendex y la financiación partidaria fueron hipótesis investigadas; no se presentan como hechos probados.
 
-La información de 2017 se refería a 17 ingresos por 26.970 euros en dos cuentas del PP durante 2011. La fecha de aquella noticia es el 18 de mayo de 2017, no junio de 2015, y su contenido no prueba la financiación por Agbar que afirmaba la ficha anterior. Tampoco permite fijar una pérdida para el Ayuntamiento. Se omite una cuantificación de daño: ni los ingresos investigados, ni los contratos, ni los gastos de defensa equivalen a ese concepto.
+La información de 2017 se refería a 17 ingresos por 26.970 euros en dos cuentas del PP durante 2011. La fecha de aquella noticia es el 18 de mayo de 2017, no junio de 2015, y su contenido no prueba la financiación por Agbar atribuida a esa fuente. Tampoco permite fijar una pérdida para el Ayuntamiento. Ni los ingresos investigados, ni los contratos, ni los gastos de defensa equivalen a un daño cuantificado.
 
 El archivo de 2020 comprendió once personas. Praza identifica, entre ellas, a Conde Roa, Espadas, Varela, Vázquez y Rama. La resolución fue descrita como sobreseimiento provisional, con levantamiento de cautelares, ante la falta de delimitación de los hechos y de las atribuciones personales. No se convierte ese resultado en una absolución tras juicio ni en un cierre firme de todas las piezas.
 

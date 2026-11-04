@@ -9,12 +9,13 @@ firmeza: Sin determinar
 estado: cerrado con condenas
 resumen: 'Contratación pública y dádivas en Asturias: condenas modificadas por el Supremo en 2019; pieza Mareína
   archivada en 2026.'
-descripcion: 'El caso investigó adjudicaciones y dádivas en varias consejerías asturianas, no sólo obras de Educación.
-  El Supremo modificó las penas en septiembre de 2019; la firmeza de la causa principal y la orden de ejecución
-  fueron comunicadas oficialmente en octubre de ese año. En 2023 se informó de una responsabilidad civil de 2.180.759
-  euros a favor del Principado. La pieza Mareína fue sobreseída por cosa juzgada en 2026. Revisión parcial a 17
-  de octubre de 2026: faltan los originales de la liquidación civil y del archivo de Mareína, así como su evolución
-  y firmeza; no se acredita el cobro de las indemnizaciones ni la extinción individual actual de todas las penas.'
+descripcion: "El caso investigó adjudicaciones y dádivas en varias consejerías asturianas, no sólo obras de
+  Educación. El Supremo modificó las penas en septiembre de 2019; la firmeza de la causa principal y la orden
+  de ejecución fueron comunicadas oficialmente en octubre de ese año. En 2023 se informó de una
+  responsabilidad civil de 2.180.759 euros a favor del Principado. La pieza Mareína fue sobreseída por cosa
+  juzgada en 2026. Información pendiente al 17 de octubre de 2026: faltan los originales de la liquidación
+  civil y del archivo de Mareína, así como su evolución y firmeza; no se acredita el cobro de las
+  indemnizaciones ni la extinción individual actual de todas las penas."
 coste: 2180759
 lugar: Asturias
 tribunal:
@@ -123,7 +124,7 @@ La nota judicial del Supremo sitúa los hechos en 2003–2010 y en cuatro consej
 
 ## Resultado penal
 
-La sentencia 402/2019, de 12 de septiembre, estimó parcialmente los recursos y dictó una segunda sentencia. Se han cotejado la cabecera y los fallos de casación y de la segunda sentencia; la lectura no abarca íntegramente los hechos y fundamentos. La copia tiene 195 páginas. Sus nombres están anonimizados: los nominales y penas de esta ficha se contrastan con Europa Press, sin identificar pseudónimos por conjetura. [Original del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=6d0228bbb40d451c&encode=true&databasematch=TS); [Europa Press, 13 de septiembre de 2019](https://www.europapress.es/asturias/noticia-supremo-mantiene-pena-renedo-caso-marea-rebaja-riopedre-otero-muniz-20190913152223.html).
+La sentencia 402/2019, de 12 de septiembre, estimó parcialmente los recursos y dictó una segunda sentencia. La copia tiene 195 páginas. Sus nombres están anonimizados: los nominales y penas de esta ficha se contrastan con Europa Press, sin identificar pseudónimos por conjetura. [Original del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=6d0228bbb40d451c&encode=true&databasematch=TS); [Europa Press, 13 de septiembre de 2019](https://www.europapress.es/asturias/noticia-supremo-mantiene-pena-renedo-caso-marea-rebaja-riopedre-otero-muniz-20190913152223.html).
 
 Las penas finales de prisión fueron nueve años para Renedo; cinco años y cinco meses para Otero; cinco años y dos meses para Riopedre y para Muñiz; dos años y ocho meses para Sánchez; un año para Fernández Álvarez y ocho meses para Azorín. Juárez recibió multa, no prisión. El Supremo también dejó sin efecto la responsabilidad civil de Ernesto Iglesias González. No se confunde esa decisión civil con una absolución de una acusación penal. La resolución incluye absoluciones por algunos delitos junto a condenas por otros; no se conserva la lista genérica de delitos iniciales como resultado de cada persona. [Información nominal de casación](https://www.europapress.es/asturias/noticia-supremo-mantiene-pena-renedo-caso-marea-rebaja-riopedre-otero-muniz-20190913152223.html).
 
@@ -141,4 +142,4 @@ RTPA informó el 25 de febrero de 2026 de que la Audiencia archivó por cosa juz
 
 El 27 de febrero, la misma radiotelevisión precisó que era sobreseimiento libre y que Fiscalía no recurriría, mientras el Principado aún estudiaba el auto. No se ha recuperado el original ni acreditado el resultado de un eventual recurso o la firmeza del archivo. [RTPA, Fiscalía](https://www.rtpa.es/noticias-asturias/2026-02-27/La-Fiscalia-no-recurrira-el-caso-Mareina_111772189100.html).
 
-Corte: 17 de octubre de 2026. Quedan pendientes los autos de aclaración de 2019, la resolución civil original de 2023, el auto de Mareína y su evolución posterior. No se afirma cobro efectivo ni extinción de todas las condenas. Por esas lagunas la revisión permanece incompleta. La fecha técnica de creación del PDF en 2026 no es la de la sentencia.
+Corte: 17 de octubre de 2026. Quedan pendientes los autos de aclaración de 2019, la resolución civil original de 2023, el auto de Mareína y su evolución posterior. No se afirma cobro efectivo ni extinción de todas las condenas. Por esas lagunas persisten esas carencias documentales. La fecha técnica de creación del PDF en 2026 no es la de la sentencia.

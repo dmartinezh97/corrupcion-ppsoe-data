@@ -6,19 +6,26 @@ firmeza: Sin determinar
 "partido": "PSOE"
 "completado": false
 "estado": "Condena contable; desenlace penal pendiente de acreditar"
-"descripcion": "Esta ficha se refiere a las ayudas de la Consejería de Empleo de la Junta de Andalucía a la Fundación\
-  \ San Telmo para cursos de alta dirección, no al conjunto del caso ERE. La sentencia contable 2/2019, de 13 de\
-  \ febrero, del Departamento Segundo del Tribunal de Cuentas fijó un daño de 800.000 euros y condenó al reintegro\
-  \ de 520.000 euros a Francisco Javier Guerrero y de 280.000 euros a Juan Márquez, más intereses y costas. La identificación\
-  \ nominal está contrastada en prensa; el original emplea iniciales.\n\nLos 800.000 euros son el alcance declarado\
-  \ en ese procedimiento, no el volumen total de ayudas. La STC 96/2024 reproduce, como antecedente de la pieza\
-  \ del procedimiento específico, una cifra de 1.192.000 euros destinada a San Telmo en cinco ejercicios. Su fallo\
-  \ resuelve el amparo de Francisco Vallejo Serrano y ordena retroacción respecto de su condena: no es una sentencia\
-  \ penal de esta ayuda concreta ni determina por sí solo el resultado de su pieza separada.\n\nNo se han comprobado\
-  \ los recursos, la firmeza o la ejecución de la sentencia contable ni el desenlace penal de esta pieza al 17 de\
-  \ octubre de 2026. Tampoco se ha corroborado la supuesta absolución de un director en diciembre de 2023 que figuraba\
-  \ en la ficha anterior: falta una resolución o una información verificable que acredite ese resultado y su identidad.\
-  \ No se presume, por ausencia de noticias, que la investigación continúe abierta o que haya concluido con condenas."
+"descripcion": >-
+  Esta ficha se refiere a las ayudas de la Consejería de Empleo de la Junta de Andalucía a la Fundación San
+  Telmo para cursos de alta dirección, no al conjunto del caso ERE. La sentencia contable 2/2019, de 13 de
+  febrero, del Departamento Segundo del Tribunal de Cuentas fijó un daño de 800.000 euros y condenó al
+  reintegro de 520.000 euros a Francisco Javier Guerrero y de 280.000 euros a Juan Márquez, más intereses y
+  costas. La identificación nominal está contrastada en prensa; el original emplea iniciales.
+
+
+  Los 800.000 euros son el alcance declarado en ese procedimiento, no el volumen total de ayudas. La STC
+  96/2024 reproduce, como antecedente de la pieza del procedimiento específico, una cifra de 1.192.000 euros
+  destinada a San Telmo en cinco ejercicios. Su fallo resuelve el amparo de Francisco Vallejo Serrano y ordena
+  retroacción respecto de su condena: no es una sentencia penal de esta ayuda concreta ni determina por sí
+  solo el resultado de su pieza separada.
+
+
+  No se han comprobado los recursos, la firmeza o la ejecución de la sentencia contable ni el desenlace penal
+  de esta pieza al 17 de octubre de 2026. Tampoco se ha corroborado la supuesta absolución de un director en
+  diciembre de 2023: falta una resolución o una información verificable que acredite ese resultado y su
+  identidad. No se presume, por ausencia de noticias, que la investigación continúe abierta o que haya
+  concluido con condenas.
 "resumen": "Ayudas a cursos de San Telmo: alcance contable de 800.000 euros declarado en 2019; desenlace penal no\
   \ acreditado."
 "coste": 800000
@@ -86,6 +93,6 @@ El volumen de financiación no debe confundirse con ese alcance. El antecedente 
 
 El amparo de Vallejo, STC 96/2024, tiene alcance individual y ordena una nueva resolución respetuosa con los derechos apreciados. No acredita la absolución o condena de los beneficiarios de estas ayudas ni suprime automáticamente los pronunciamientos de la jurisdicción contable. Tampoco se presentan como investigados actuales los responsables políticos de otras piezas o los alumnos de los cursos. La referencia periodística a Verónica Pérez como becaria no fundamenta atribuirle responsabilidad penal.
 
-El desenlace penal que la ficha atribuía a diciembre de 2023 y a José María Carbajo no cuenta con respaldo recuperado: la URL de Europa Press citada devuelve una página inexistente. La ausencia de esa prueba no demuestra que no exista una resolución; impide dar por contrastada esa identidad y esa absolución. Siguen pendientes los originales penales y cualquier recurso o resolución contable posterior.
+No está acreditado el desenlace penal atribuido a diciembre de 2023 y a José María Carbajo: el enlace citado de Europa Press no ofrece una noticia accesible. La ausencia de esa prueba no demuestra que no exista una resolución; impide dar por contrastada esa identidad y esa absolución. Siguen pendientes los originales penales y cualquier recurso o resolución contable posterior.
 
 Fuentes: [sentencia contable original](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2019/Sentencia_2_2019_2E.pdf), [La Razón, noticia de 19 de marzo de 2019](https://www.larazon.es/local/andalucia/guerrero-y-marquez-condenados-a-devolver-800-000-de-cursos-de-la-fundacion-san-telmo-BN22496502/), [El Independiente, investigación y becas](https://www.elindependiente.com/politica/2018/04/11/escuela-negocios-instituto-san-telmo-master-beca-ere/) y [STC 96/2024, antecedentes y fallo relativos al amparo de Vallejo](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16039).

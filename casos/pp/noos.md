@@ -8,56 +8,56 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas y absoluciones resueltas por el Supremo en 2018; ejecución individual posterior
-descripcion: 'El caso Nóos, pieza separada del caso Palma Arena, investigó la contratación pública con la Asociación
-  Instituto Nóos, vinculada a Iñaki Urdangarin y Diego Torres. Afectó a convenios y actividades en Baleares, Valencia
-  y Madrid. La relación de esta ficha con el PP deriva de las administraciones y cargos públicos implicados, entre
-  ellos el expresidente balear Jaume Matas; no atribuye militancia en ese partido a todos los acusados. El resultado
-  judicial no fue uniforme: hubo condenas por actuaciones de Baleares y delitos fiscales, y absoluciones por otras
-  acusaciones, incluidas las relativas a Valencia y Madrid.
+descripcion: >-
+  El caso Nóos, pieza separada del caso Palma Arena, investigó la contratación pública con la Asociación
+  Instituto Nóos, vinculada a Iñaki Urdangarin y Diego Torres. Afectó a convenios y actividades en Baleares,
+  Valencia y Madrid. La relación de esta ficha con el PP deriva de las administraciones y cargos públicos
+  implicados, entre ellos el expresidente balear Jaume Matas; no atribuye militancia en ese partido a todos
+  los acusados. El resultado judicial no fue uniforme: hubo condenas por actuaciones de Baleares y delitos
+  fiscales, y absoluciones por otras acusaciones, incluidas las relativas a Valencia y Madrid.
 
 
-  La Audiencia de Baleares dictó sentencia el 17 de febrero de 2017. Impuso inicialmente seis años y tres meses
-  de prisión a Urdangarin, ocho años y seis meses a Torres y tres años y ocho meses a Matas. El Supremo resolvió
-  la casación mediante la STS 277/2018, fechada el 8 de junio y comunicada públicamente el 12: dejó la pena de Urdangarin
-  en cinco años y diez meses y la de Torres en cinco años y ocho meses, y mantuvo la de Matas. Absolvió a los dos
-  primeros de falsedad en documento público y a Torres también de blanqueo y tráfico de influencias. La resolución
-  declara que contra ella no cabe recurso y fue remitida para ejecución; el posterior amparo no se presenta como
-  una nueva instancia penal.
+  La Audiencia de Baleares dictó sentencia el 17 de febrero de 2017. Impuso inicialmente seis años y tres
+  meses de prisión a Urdangarin, ocho años y seis meses a Torres y tres años y ocho meses a Matas. El Supremo
+  resolvió la casación mediante la STS 277/2018, fechada el 8 de junio y comunicada públicamente el 12: dejó
+  la pena de Urdangarin en cinco años y diez meses y la de Torres en cinco años y ocho meses, y mantuvo la de
+  Matas. Absolvió a los dos primeros de falsedad en documento público y a Torres también de blanqueo y tráfico
+  de influencias. La resolución declara que contra ella no cabe recurso y fue remitida para ejecución; el
+  posterior amparo no se presenta como una nueva instancia penal.
 
 
-  También fueron condenados José Luis Ballester y Gonzalo Bernal a quince meses y dos días de prisión cada uno,
-  y Juan Carlos Alía y Miguel Ángel Bonet a un año y dos días cada uno, con sustitución de las penas de prisión
-  por multas. Ballester no recibió cuatro años de prisión. Cristina de Borbón y Ana María Tejeiro fueron absueltas
-  penalmente: su responsabilidad a título lucrativo es civil, no una condena por delito. El Supremo mantuvo para
-  ellas 136.950 euros y 172.550 euros, respectivamente, por malversación y fraude de sus cónyuges, excluyendo la
-  responsabilidad vinculada a los delitos fiscales. Miguel Tejeiro también fue absuelto, por lo que se retira la
-  falsa condena de dos años y seis meses que contenía esta ficha.
+  También fueron condenados José Luis Ballester y Gonzalo Bernal a quince meses y dos días de prisión cada
+  uno, y Juan Carlos Alía y Miguel Ángel Bonet a un año y dos días cada uno, con sustitución de las penas de
+  prisión por multas. Ballester no recibió cuatro años de prisión. Cristina de Borbón y Ana María Tejeiro
+  fueron absueltas penalmente: su responsabilidad a título lucrativo es civil, no una condena por delito. El
+  Supremo mantuvo para ellas 136.950 euros y 172.550 euros, respectivamente, por malversación y fraude de sus
+  cónyuges, excluyendo la responsabilidad vinculada a los delitos fiscales. Miguel Tejeiro también fue
+  absuelto.
 
 
-  El coste consignado de 619.000 euros tiene un alcance concreto: es el principal indemnizatorio a favor de la Fundación
-  Illesport que recoge el fallo de la Audiencia y conserva el Supremo, integrado por 445.000 euros y otros 174.000
-  euros (150.000 más IVA). Se distribuyó entre cinco responsables: 0,50% para Bernal, 2% para Ballester y el 97,50%
-  restante por partes iguales entre Urdangarin, Torres y Matas. No son 6,2 millones de daño probado: esa cifra de
-  contratación o de sospechas no equivale al perjuicio establecido. Tampoco se multiplican las responsabilidades
-  civiles de terceros por el carácter conjunto y solidario ni se añaden al principal, ni se suman multas, intereses,
-  cuotas tributarias o consignaciones. La cifra no expresa el saldo pendiente de cobro ni un total de todos los
-  conceptos del proceso.
+  El coste consignado de 619.000 euros tiene un alcance concreto: es el principal indemnizatorio a favor de la
+  Fundación Illesport que recoge el fallo de la Audiencia y conserva el Supremo, integrado por 445.000 euros y
+  otros 174.000 euros (150.000 más IVA). Se distribuyó entre cinco responsables: 0,50% para Bernal, 2% para
+  Ballester y el 97,50% restante por partes iguales entre Urdangarin, Torres y Matas. No son 6,2 millones de
+  daño probado: esa cifra de contratación o de sospechas no equivale al perjuicio establecido. Tampoco se
+  multiplican las responsabilidades civiles de terceros por el carácter conjunto y solidario ni se añaden al
+  principal, ni se suman multas, intereses, cuotas tributarias o consignaciones. La cifra no expresa el saldo
+  pendiente de cobro ni un total de todos los conceptos del proceso.
 
 
-  En ejecución, Urdangarin ingresó en prisión el 18 de junio de 2018. RTVE informó el 3 de marzo de 2022 de su libertad
-  condicional con efectos desde el día anterior, distinta del tercer grado que tenía desde 2021, y el 9 de abril
-  de 2024 del cumplimiento de la pena de prisión. Se retira el hito sin fuente de 25 de febrero de 2022. El cumplimiento
-  de la pena privativa de libertad de una persona no equivale a la cancelación de sus antecedentes, al cumplimiento
-  de todas las inhabilitaciones ni a la liquidación de todas las responsabilidades del caso.
+  En ejecución, Urdangarin ingresó en prisión el 18 de junio de 2018. RTVE informó el 3 de marzo de 2022 de su
+  libertad condicional con efectos desde el día anterior, distinta del tercer grado que tenía desde 2021, y el
+  9 de abril de 2024 del cumplimiento de la pena de prisión. El cumplimiento de la pena privativa de libertad
+  de una persona no equivale a la cancelación de sus antecedentes, al cumplimiento de todas las
+  inhabilitaciones ni a la liquidación de todas las responsabilidades del caso.
 
 
-  Límites de la revisión a 17 de octubre de 2026: el fallo original de la Audiencia se ha cotejado en un extracto
-  oficial de doce páginas y la sentencia del Supremo se ha consultado parcialmente, junto con su nota y cuadro explicativo
-  oficiales completos. No se ha leído íntegramente la sentencia de instancia ni las 173 páginas del Supremo. La
-  inadmisión del amparo de Urdangarin y los hitos de ejecución de 2022 y 2024 se conocen por crónicas, sin recuperar
-  sus resoluciones originales. No se ha auditado la ejecución completa de todos los condenados, los cobros efectivos
-  ni posibles procedimientos contables separados. Por eso no se da por cerrada la revisión documental ni se fija
-  fechaFin global.'
+  Información pendiente de acreditar a 17 de octubre de 2026: están disponibles un extracto oficial de doce
+  páginas del fallo de la Audiencia, la sentencia del Supremo y su nota y cuadro explicativo oficiales. La
+  inadmisión del amparo de Urdangarin y los hitos de ejecución de 2022 y 2024 se conocen por crónicas, sin
+  recuperar sus resoluciones originales. No se ha auditado la ejecución completa de todos los condenados, los
+  cobros efectivos ni posibles procedimientos contables separados. No consta un cierre global de los
+  procedimientos.
 resumen: Condenas por actuaciones de Nóos en Baleares y delitos fiscales, con absoluciones y responsabilidades civiles
   diferenciadas; el principal indemnizatorio balear fue de 619.000 euros
 lugar: Palma de Mallorca, Islas Baleares / Valencia
@@ -101,8 +101,8 @@ implicados:
     a cuatro años de prisión.'
 - nombre: Miguel Tejeiro Losada
   cargo: Exsecretario del Instituto Nóos
-  rol: Absuelto de los delitos por los que venía siendo acusado, según el fallo nominal original de la Audiencia;
-    absolución conservada por el Supremo. Se retira la atribución errónea de una condena por fraude y blanqueo.
+  rol: Absuelto de los delitos por los que venía siendo acusado, según el fallo nominal original de la
+    Audiencia; absolución conservada por el Supremo. No consta una condena por fraude o blanqueo.
 - nombre: Gonzalo Bernal García
   cargo: Exgerente de la Fundación Illesport
   rol: Condenado a quince meses y dos días de prisión por prevaricación, falsedad y malversación en concurso y fraude,
@@ -181,15 +181,14 @@ cronologia:
 - fecha: '2010-07-22'
   titulo: Apertura de una pieza de Palma Arena, según RTVE
   descripcion: La cronología de RTVE sitúa este día la apertura de la pieza sobre los convenios de Nóos por el juez
-    José Castro. Se retira la atribución heredada a una denuncia de Manos Limpias no verificada y no se ha recuperado
-    el auto de incoación.
+    José Castro. No está acreditada la denuncia atribuida a Manos Limpias ni se dispone del auto de incoación.
   type: investigación
   urls:
   - https://www.rtve.es/noticias/20180612/cronologia-del-caso-noos/610147.shtml
 - fecha: '2011-12-29'
   titulo: Imputación de Urdangarin según la cronología periodística
-  descripcion: RTVE sitúa este día su imputación. La fecha heredada del 19 de diciembre se corrige; no se presenta
-    el acto como una declaración de culpabilidad ni se ha cotejado el auto original.
+  descripcion: RTVE sitúa este día su imputación. El acto no supone una declaración de culpabilidad; no se dispone del
+    auto original.
   type: imputación
   urls:
   - https://www.rtve.es/noticias/20180612/cronologia-del-caso-noos/610147.shtml
@@ -210,9 +209,8 @@ cronologia:
   - https://www.rtve.es/noticias/20180612/cronologia-del-caso-noos/610147.shtml
 - fecha: '2016-01-11'
   titulo: Comienza el juicio con las cuestiones previas
-  descripcion: La cronología de RTVE sitúa el comienzo del juicio en esta fecha. Se omiten recuentos heredados de
-    testigos no cotejados. El fallo final contiene las resoluciones nominales, incluida la absolución de Miguel
-    Tejeiro.
+  descripcion: La cronología de RTVE sitúa el comienzo del juicio en esta fecha. El fallo final contiene las
+    resoluciones nominales, incluida la absolución de Miguel Tejeiro.
   type: juicio
   urls:
   - https://www.rtve.es/noticias/20180612/cronologia-del-caso-noos/610147.shtml
@@ -255,9 +253,9 @@ cronologia:
   - https://www.rtve.es/noticias/20190313/tribunal-constitucional-rechaza-admitir-a-tramite-recurso-urdangarin-contra-su-condena/1901183.shtml
 - fecha: '2022-03-02'
   titulo: Libertad condicional de Urdangarin, según RTVE
-  descripcion: La noticia del 3 de marzo señala efectos desde el miércoles anterior, día 2. La condicional se distingue
-    del tercer grado concedido en 2021 y de la extinción posterior de la pena. Se retira la fecha heredada de 25
-    de febrero, que carecía de fuente. No se ha recuperado el auto original.
+  descripcion: La noticia del 3 de marzo señala efectos desde el miércoles anterior, día 2. La condicional se
+    distingue del tercer grado concedido en 2021 y de la extinción posterior de la pena. No se ha recuperado el
+    auto original.
   type: ejecución
   urls:
   - https://www.rtve.es/noticias/20220303/inaki-urdangarin-libertad-condicional/2301282.shtml
@@ -273,10 +271,10 @@ cronologia:
 
 ## Alcance documental y límites económicos
 
-Revisión hasta el 17 de octubre de 2026. Se descargó el extracto oficial de doce páginas del fallo de instancia, numeradas 730–741: es un PDF escaneado, no la sentencia íntegra. Se leyó el OCR de todas sus páginas y se cotejaron visualmente las tres últimas, que contienen absoluciones, el principal indemnizatorio y las responsabilidades civiles. Los nombres nominales proceden de ese fallo y del cuadro oficial, no de identificar los seudónimos del Supremo.
+Información disponible hasta el 17 de octubre de 2026. Está disponible un extracto oficial de doce páginas del fallo de instancia, numeradas 730–741. Es una copia escaneada, no la sentencia íntegra. Las tres últimas páginas contienen las absoluciones, el principal indemnizatorio y las responsabilidades civiles. Los nombres nominales proceden de ese fallo y del cuadro oficial, no de identificar los seudónimos del Supremo.
 
-La STS 277/2018 original tiene 173 páginas: se leyeron su cabecera y las páginas 169–173, con los fallos de casación y segunda sentencia y las modificaciones penales, fiscales y civiles. No se afirma lectura integral de sus fundamentos. Se leyeron íntegramente la nota oficial del Supremo y su cuadro comparativo de ocho páginas, que corroboran las atribuciones nominales y penas. Las cifras redondeadas de las notas no sustituyen a las cantidades exactas del fallo cuando se proporcionan. La firmeza en la vía penal ordinaria se apoya en la cláusula expresa de ausencia de recurso y en la remisión para ejecución; no se infiere del silencio de la prensa ni se confunde con el resultado de un amparo.
+La STS 277/2018 original tiene 173 páginas; los fallos de casación y de la segunda sentencia y las modificaciones penales, fiscales y civiles figuran en las páginas 169–173. La nota oficial del Supremo y su cuadro comparativo de ocho páginas corroboran las identidades y las penas. Las cifras redondeadas de las notas no sustituyen a las cantidades exactas del fallo cuando se proporcionan. La firmeza en la vía penal ordinaria se apoya en la cláusula expresa de ausencia de recurso y en la remisión para ejecución; no se infiere del silencio de la prensa ni se confunde con el resultado de un amparo.
 
-El `coste` de 619.000 euros se limita a las dos partidas indemnizatorias a favor de Illesport: 445.000 y 174.000 euros. No es el volumen contratado, ni un saldo neto pendiente, ni la suma de todas las responsabilidades del proceso. El fallo distribuye porcentajes sobre ese principal: no son indemnizaciones nuevas que deban añadirse. Tampoco se añaden las responsabilidades a título lucrativo de Cristina o Ana María, que responden junto a sus cónyuges dentro del alcance fijado, ni las cuotas fiscales modificadas por el Supremo, multas, intereses o consignaciones previas. Falta auditar el estado efectivo de los cobros y sus eventuales solapamientos con procedimientos separados; no se añade una cifra del Tribunal de Cuentas sin resolución cotejada.
+Los 619.000 euros corresponden a las dos partidas indemnizatorias a favor de Illesport: 445.000 y 174.000 euros. No es el volumen contratado, ni un saldo neto pendiente, ni la suma de todas las responsabilidades del proceso. El fallo distribuye porcentajes sobre ese principal: no son indemnizaciones nuevas que deban añadirse. Tampoco se añaden las responsabilidades a título lucrativo de Cristina o Ana María, que responden junto a sus cónyuges dentro del alcance fijado, ni las cuotas fiscales modificadas por el Supremo, multas, intereses o consignaciones previas. Falta auditar el estado efectivo de los cobros y sus eventuales solapamientos con procedimientos separados; no se añade una cifra del Tribunal de Cuentas sin resolución cotejada.
 
-La historia inicial se conserva atribuida a la cronología de RTVE, leída en sus apartados pertinentes incluidos los elementos desplegables, no solo en los párrafos visibles. Faltan los autos de incoación e imputación originales. El amparo de Urdangarin se conoce por noticia sobre inadmisión, no por una sentencia constitucional sobre el fondo. No se ha revalidado el recorrido constitucional o internacional de todos los recurrentes. La ejecución de 2022 y 2024 también procede de crónicas, sin originales judiciales, y no cubre el cumplimiento de todas las penas ni las responsabilidades de todos los sujetos. No se fija una fecha final global ni se da la revisión por completa.
+Los antecedentes iniciales constan en la cronología de RTVE. Faltan los autos de incoación e imputación originales. El amparo de Urdangarin se conoce por noticia sobre inadmisión, no por una sentencia constitucional sobre el fondo. No se ha revalidado el recorrido constitucional o internacional de todos los recurrentes. La ejecución de 2022 y 2024 también procede de crónicas, sin originales judiciales, y no cubre el cumplimiento de todas las penas ni las responsabilidades de todos los sujetos. No consta una fecha de cierre global.

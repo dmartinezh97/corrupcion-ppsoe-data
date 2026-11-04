@@ -9,14 +9,29 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "resultados diversos"
-descripcion: |
-  Esta ficha reúne asuntos distintos de Villaviciosa de Odón: la contratación de los festejos taurinos de septiembre de 2015, el procedimiento por bodas civiles en una finca de Pescaderías Coruñesas y las denuncias urbanísticas anunciadas por Pilar Martínez en 2020. No constituyen una única causa con un desenlace común.
+descripcion: >-
+  Esta ficha reúne asuntos distintos de Villaviciosa de Odón: la contratación de los festejos taurinos de
+  septiembre de 2015, el procedimiento por bodas civiles en una finca de Pescaderías Coruñesas y las denuncias
+  urbanísticas anunciadas por Pilar Martínez en 2020. No constituyen una única causa con un desenlace común.
 
-  Público cuestionó en marzo de 2016 la urgencia y la adjudicación directa de los festejos de 2015 a Orteunion Espectáculos SL por 86.091,50 euros. El Ayuntamiento defendió la legalidad de la contratación. Esa cantidad es el importe del contrato, no un perjuicio público acreditado; no se ha verificado una resolución penal sobre esta adjudicación.
 
-  En el asunto de las bodas civiles, la Sección 23 de la Audiencia Provincial de Madrid absolvió al exalcalde José Jover y a los demás acusados, según EFE, en una sentencia dada a conocer el 24 de marzo de 2021. La resolución era recurrible ante el Tribunal Superior de Justicia de Madrid. No se ha localizado su texto original ni comprobado la firmeza o el resultado de eventuales recursos, por lo que tampoco se atribuye un resultado individual no identificado en esa información.
+  Público cuestionó en marzo de 2016 la urgencia y la adjudicación directa de los festejos de 2015 a Orteunion
+  Espectáculos SL por 86.091,50 euros. El Ayuntamiento defendió la legalidad de la contratación. Esa cantidad
+  es el importe del contrato, no un perjuicio público acreditado; no se ha verificado una resolución penal
+  sobre esta adjudicación.
 
-  Pilar Martínez anunció su renuncia como concejal en septiembre de 2020, difundida el 1 de octubre, y dijo haber trasladado presuntas irregularidades urbanísticas a la Fiscalía. No se ha acreditado el desenlace de esas comunicaciones ni una situación procesal vigente al 15 de octubre de 2026. La falta de noticias posteriores no permite afirmar que continúen abiertas investigaciones contra Navarro u otras personas.
+
+  En el asunto de las bodas civiles, la Sección 23 de la Audiencia Provincial de Madrid absolvió al exalcalde
+  José Jover y a los demás acusados, según EFE, en una sentencia dada a conocer el 24 de marzo de 2021. La
+  resolución era recurrible ante el Tribunal Superior de Justicia de Madrid. No se ha localizado su texto
+  original ni comprobado la firmeza o el resultado de eventuales recursos, por lo que tampoco se atribuye un
+  resultado individual no identificado en esa información.
+
+
+  Pilar Martínez anunció su renuncia como concejal en septiembre de 2020, difundida el 1 de octubre, y dijo
+  haber trasladado presuntas irregularidades urbanísticas a la Fiscalía. No se ha acreditado el desenlace de
+  esas comunicaciones ni una situación procesal vigente al 15 de octubre de 2026. La falta de noticias
+  posteriores no permite afirmar que continúen abiertas investigaciones contra Navarro u otras personas.
 resumen: "Contrato taurino de 2015, absoluciones por las bodas civiles y denuncias urbanísticas de 2020: asuntos distintos con lagunas sobre su desenlace y firmeza."
 lugar: "Villaviciosa de Odón, Comunidad de Madrid"
 tribunal:
@@ -76,4 +91,4 @@ El contrato taurino corresponde a las fiestas celebradas del 19 al 27 de septiem
 
 El procedimiento de las bodas civiles se refería a actuaciones municipales relacionadas con una finca situada en el Parque Regional del Curso Medio del Guadarrama y a hechos de 2016 a 2018. Según EFE, el juicio se celebró en febrero de 2021 y la Fiscalía solicitaba ocho años de prisión para Jover por falsedad y prevaricación urbanística, además de penas para otros acusados. Esas peticiones no fueron condenas: la información dio cuenta de absoluciones. El tribunal consideró que la falta de determinadas objeciones administrativas, contextualizada en el expediente, no bastaba para integrar la prevaricación. La fuente consultada no enumera nominalmente todos los acusados, lo que impide reconstruir con seguridad cada pronunciamiento personal sin la sentencia.
 
-La reapertura publicada en 2019 se refería a ese asunto de las bodas, no demuestra la subsistencia de otra causa contra Navarro después de las absoluciones. Las declaraciones de Pilar Martínez en 2020, incluidas sus críticas a intereses urbanísticos privados y al funcionamiento del PP local, tampoco acreditan por sí mismas delitos ni permiten identificar el recorrido judicial de cada comunicación a la Fiscalía. Quedan pendientes los originales judiciales, los posibles recursos y el seguimiento documental de esas denuncias hasta el corte de revisión.
+La reapertura publicada en 2019 se refería a ese asunto de las bodas, no demuestra la subsistencia de otra causa contra Navarro después de las absoluciones. Las declaraciones de Pilar Martínez en 2020, incluidas sus críticas a intereses urbanísticos privados y al funcionamiento del PP local, tampoco acreditan por sí mismas delitos ni permiten identificar el recorrido judicial de cada comunicación a la Fiscalía. Quedan pendientes los originales judiciales, los posibles recursos y el seguimiento documental de esas denuncias hasta la fecha indicada.

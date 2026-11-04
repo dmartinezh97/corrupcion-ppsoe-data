@@ -144,7 +144,7 @@ cronologia:
   relevancia: alta
 ---
 
-La contratación pública de Púnica no constituye un único expediente con una sola lista de acusados o una condena común. Esta ficha se limita a las piezas 5, 6 y 7. Las investigaciones sobre suelo de Arpegio y Mintra, financiación electoral y reputación en internet tienen objetos propios; las decisiones allí adoptadas no se trasladan a estos contratos. Se retira por ello la presentación de Ignacio González como investigado actual de esta agrupación.
+La contratación pública de Púnica no constituye un único expediente con una sola lista de acusados o una condena común. Esta ficha se limita a las piezas 5, 6 y 7. Las investigaciones sobre suelo de Arpegio y Mintra, financiación electoral y reputación en internet tienen objetos propios; las decisiones allí adoptadas no se trasladan a estos contratos. No consta la condición actual de investigado de Ignacio González en esta agrupación.
 
 La pieza 5 comprende, entre otros, estacionamiento regulado, grúa, cafeterías, aparcamientos, instalaciones deportivas y recogida de ropa usada. La propuesta de enjuiciamiento de abril de 2023 describió indicios de trato privilegiado a empresas relacionadas con Marjaliza, así como archivos completos y parciales. La inclusión inicial de Granados fue revocada en apelación, según la información publicada en junio. Esa exclusión no supone absolver al resto ni cerrar toda la pieza. Faltan los originales y el seguimiento completo de acusaciones y recursos posteriores.
 

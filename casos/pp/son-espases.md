@@ -9,26 +9,26 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas por la contratación; casación de Matas desestimada y archivo provisional para otros investigados
-descripcion: 'El procedimiento Son Espases examinó las actuaciones dirigidas a controlar el concurso de construcción
-  y explotación del hospital de Palma, entre ellas la contratación de Global PM para valorar ofertas y favorecer
+descripcion: >-
+  El procedimiento Son Espases examinó las actuaciones dirigidas a controlar el concurso de construcción y
+  explotación del hospital de Palma, entre ellas la contratación de Global PM para valorar ofertas y favorecer
   a OHL. La adjudicación final a una UTE encabezada por Dragados y las pesquisas sobre posibles comisiones
   deben distinguirse de los hechos y sujetos efectivamente condenados.
 
   La Audiencia Provincial de Baleares dictó la sentencia 74/2019 el 10 de julio. Condenó a Jaume Matas por
   tráfico de influencias y como inductor de prevaricación continuada y fraude; a Aina Castillo como inductora
-  de estos dos últimos delitos; a Joaquín Sergio Beltrán Damián como autor, y a Jesús Peinado Ruiz como cooperador
-  necesario. Se corrigen así los apellidos erróneos de Beltrán y Peinado de la versión anterior. Sus penas
-  y sustituciones fueron diferentes.
+  de estos dos últimos delitos; a Joaquín Sergio Beltrán Damián como autor, y a Jesús Peinado Ruiz como
+  cooperador necesario. Sus penas y sustituciones fueron diferentes.
 
-  El Supremo desestimó el recurso de Matas mediante la sentencia 792/2021, de 20 de octubre, difundida el 2
-  de noviembre. La nota judicial indica que los otros tres condenados no recurrieron al Supremo. En cambio,
+  El Supremo desestimó el recurso de Matas mediante la sentencia 792/2021, de 20 de octubre, difundida el 2 de
+  noviembre. La nota judicial indica que los otros tres condenados no recurrieron al Supremo. En cambio,
   Villar Mir había obtenido sobreseimiento provisional en 2017. No se atribuye una condena por financiación
   ilegal del PP a quienes aparecieron mencionados en las pesquisas.
 
-  La responsabilidad civil solidaria fue rectificada a 2.950 euros, distinta de los 29.500 euros ofrecidos
-  y consignados por Matas como reparación. Los nueve millones alegados durante la investigación no se acreditan
-  como daño de esta causa. Quedan pendientes el auto original de archivo de 2017, la comprobación integral
-  de la cronología histórica y el seguimiento de ejecución hasta el 17 de octubre de 2026.'
+  La responsabilidad civil solidaria fue rectificada a 2.950 euros, distinta de los 29.500 euros ofrecidos y
+  consignados por Matas como reparación. Los nueve millones alegados durante la investigación no se acreditan
+  como daño de esta causa. Quedan pendientes el auto original de archivo de 2017, la comprobación integral de
+  la cronología histórica y el seguimiento de ejecución hasta el 17 de octubre de 2026.
 resumen: 'Contratación y manipulación del concurso de Son Espases: condenas de cuatro acusados, casación de
   Matas desestimada en 2021 y archivos provisionales para otros investigados.'
 lugar: Palma de Mallorca, Islas Baleares
@@ -78,9 +78,8 @@ documentos:
 cronologia:
 - fecha: '2005-05-30'
   titulo: Resolución sobre el modelo de concesión
-  descripcion: Los hechos probados reproducidos por el Supremo sitúan en esta fecha la decisión del director
-    del IB-Salut de utilizar la concesión de obra pública para la construcción, explotación y mantenimiento.
-    No se conserva el 1 de noviembre como fecha exacta de inicio.
+  descripcion: Los hechos probados reproducidos por el Supremo sitúan en esta fecha la decisión del director del
+    IB-Salut de utilizar la concesión de obra pública para la construcción, explotación y mantenimiento.
   type: resumen
   urls:
   - https://www.economistjurist.es/wp-content/uploads/sites/2/2021/11/sentencia-caso-Son-Espases.pdf
@@ -110,12 +109,12 @@ cronologia:
   - https://www.economistjurist.es/wp-content/uploads/sites/2/2021/11/sentencia-caso-Son-Espases.pdf
 ---
 
-La [nota oficial del CGPJ](https://www.poderjudicial.es/cgpj/en/Judiciary/High-Courts-of-Justice/HCJ-Balearic-Islands/Pressroom/Press-Archive/El-Tribunal-Supremo-confirma-la-condena-por-trafico-de-influencias-al-expresidente-del-Gobierno-balear-por-el-caso--Son-Espases-) explica que los otros tres condenados no recurrieron al Supremo. No debe presentarse la casación de Matas como recurso de todos ni equiparar la mención de un empresario o un testigo en el sumario a condena. El [archivo provisional comunicado en 2017](https://www.elespanol.com/espana/tribunales/20170629/227477794_0.html) cambia el estado de Villar Mir, que la versión anterior dejaba como investigado sin desenlace.
+La [nota oficial del CGPJ](https://www.poderjudicial.es/cgpj/en/Judiciary/High-Courts-of-Justice/HCJ-Balearic-Islands/Pressroom/Press-Archive/El-Tribunal-Supremo-confirma-la-condena-por-trafico-de-influencias-al-expresidente-del-Gobierno-balear-por-el-caso--Son-Espases-) explica que los otros tres condenados no recurrieron al Supremo. No debe presentarse la casación de Matas como recurso de todos ni equiparar la mención de un empresario o un testigo en el sumario a condena. El [archivo provisional comunicado en 2017](https://www.elespanol.com/espana/tribunales/20170629/227477794_0.html) se refiere a Villar Mir.
 
-El PDF judicial del Supremo permite verificar los nombres completos y las penas sin recurrir a seudónimos. Se ha leído su encabezamiento, diversos pasajes históricos, los pronunciamientos individualizados y civiles, el fundamento tercero y el fallo; no las 51 páginas íntegramente. El documento contiene erratas en algunas referencias al año del auto aclaratorio (incluso «2919»); no se inventa una fecha para conciliarlas. El fundamento primero y el tercero lo identifican como auto de 29 de julio de 2019.
+El PDF judicial del Supremo permite verificar los nombres completos y las penas sin recurrir a seudónimos. El documento contiene erratas en algunas referencias al año del auto aclaratorio (incluso «2919»); no se inventa una fecha para conciliarlas. El fundamento primero y el tercero lo identifican como auto de 29 de julio de 2019.
 
 El fundamento tercero aclara que la responsabilidad civil solidaria de los cuatro acusados es de 2.950 euros, con Global PM responsable subsidiaria. Aparte, mantiene la entrega de los 29.500 euros ofrecidos por Matas como reparación del daño, correspondientes al precio de un trabajo que duplicaba servicios previamente contratados. No se suman como daño global ni se sustituyen por los nueve millones de una declaración sobre presuntas comisiones. Tampoco los 778,4 millones del presupuesto de la infraestructura son un perjuicio acreditado.
 
-Las [pesquisas sobre comisiones y financiación](https://www.eldiario.es/politica/son-espases-macroinvestigacion-vinculo-baleares-financiacion-ilegal-pp_1_8462323.html) no consiguieron acreditar la motivación económica que se investigaba. Las menciones de Bárcenas, Pérez o Villar Mir y las declaraciones de Rodrigo de Santos deben conservar su carácter procesal específico. Se retiran las afirmaciones categóricas de financiación ilegal nacional y el rol de Bárcenas como investigado en esta ficha, no revalidado.
+Las [pesquisas sobre comisiones y financiación](https://www.eldiario.es/politica/son-espases-macroinvestigacion-vinculo-baleares-financiacion-ilegal-pp_1_8462323.html) no consiguieron acreditar la motivación económica que se investigaba. Las menciones de Bárcenas, Pérez o Villar Mir y las declaraciones de Rodrigo de Santos deben conservar su carácter procesal específico. No están acreditadas las afirmaciones de financiación ilegal nacional ni la condición de investigado de Bárcenas en este procedimiento.
 
-Revisión con corte a 17 de octubre de 2026: faltan el auto original de archivo y su seguimiento, el original separado de instancia y aclaración y las resoluciones de ejecución. Se han retirado fechas artificiales de denuncia y diligencias, citas y trámites históricos no contrastados integralmente. La causa aquí identificada es el procedimiento 2579/2015 y el rollo 55/2018; no se atribuyen sus penas a Nóos ni a otras piezas de Palma Arena, ni se certifica el cumplimiento íntegro de las condenas.
+Información pendiente al 17 de octubre de 2026: faltan el auto original de archivo y su seguimiento, el original separado de instancia y aclaración y las resoluciones de ejecución. La causa aquí identificada es el procedimiento 2579/2015 y el rollo 55/2018; no se atribuyen sus penas a Nóos ni a otras piezas de Palma Arena, ni se certifica el cumplimiento íntegro de las condenas.

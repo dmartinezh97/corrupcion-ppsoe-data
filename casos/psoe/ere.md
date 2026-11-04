@@ -9,18 +9,55 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: activo
-descripcion: |-
-  Macrocausa sobre ayudas sociolaborales y a empresas en crisis de la Junta de Andalucía, tramitadas principalmente entre 2000 y 2009 mediante transferencias al IFA, después agencia IDEA. La investigación dio lugar a una pieza sobre el procedimiento de concesión y a numerosas piezas por ayudas concretas. La sentencia 490/2019 de la Audiencia de Sevilla consideró que se había establecido un sistema que eludía los controles propios de las subvenciones. Esa valoración penal fue revisada en casación y, para determinados condenados y conductas, anulada por el Tribunal Constitucional. No se presenta como delito todo acto presupuestario ni toda ayuda pagada.
+descripcion: >-
+  Macrocausa sobre ayudas sociolaborales y a empresas en crisis de la Junta de Andalucía, tramitadas
+  principalmente entre 2000 y 2009 mediante transferencias al IFA, después agencia IDEA. La investigación dio
+  lugar a una pieza sobre el procedimiento de concesión y a numerosas piezas por ayudas concretas. La
+  sentencia 490/2019 de la Audiencia de Sevilla consideró que se había establecido un sistema que eludía los
+  controles propios de las subvenciones. Esa valoración penal fue revisada en casación y, para determinados
+  condenados y conductas, anulada por el Tribunal Constitucional. No se presenta como delito todo acto
+  presupuestario ni toda ayuda pagada.
 
-  La pieza del procedimiento específico tuvo sentencia el 19 de noviembre de 2019. La STS 749/2022, de 13 de septiembre, mantuvo diversas condenas, pero absolvió a Javier Aguado Hinojal, Juan Francisco Sánchez García y Lourdes Medina Varo, y redujo la pena de Juan Márquez a tres años de prisión y siete años y seis meses de inhabilitación. Las penas históricas se indican por persona y no equivalen a su situación actual tras los amparos.
 
-  El TC resolvió recursos individuales entre junio y julio de 2024. Desestimó los de José Antonio Viera (STC 90/2024) y Juan Márquez (STC 101/2024); estimó parcialmente otros diez. Para Griñán, la STC 100/2024 anuló íntegramente la condena por malversación sin retroacción por ese delito y ordenó un nuevo pronunciamiento de prevaricación limitado a la modificación presupuestaria de 9 de diciembre de 2004. Para Chaves, la STC 99/2024 ordenó un nuevo fallo excluyendo los actos legislativos y las modificaciones del programa 31L que identifica, sin descartar todas las modificaciones de otros programas. Los efectos sobre Fernández, Vallejo, Rodríguez Román, Martínez Aguayo y Serrano son distintos y no permiten hablar de una absolución colectiva.
+  La pieza del procedimiento específico tuvo sentencia el 19 de noviembre de 2019. La STS 749/2022, de 13 de
+  septiembre, mantuvo diversas condenas, pero absolvió a Javier Aguado Hinojal, Juan Francisco Sánchez García
+  y Lourdes Medina Varo, y redujo la pena de Juan Márquez a tres años de prisión y siete años y seis meses de
+  inhabilitación. Las penas históricas se indican por persona y no equivalen a su situación actual tras los
+  amparos.
 
-  El auto 657/2025 de la Sección Primera de la Audiencia de Sevilla está fechado el 14 de julio de 2025, aunque se difundió el día 15. Suspendió la ejecución de los mandatos del TC respecto de los afectados por la cuestión prejudicial y solicitó una respuesta del TJUE. La petición se presentó el 17 de julio de 2025 y se publicó en el Diario Oficial de la UE el 15 de diciembre como asunto C-501/25, Partido Popular de Andalucía. La prensa informó el 20 de abril de 2026 de que la Comisión Europea proponía la incompetencia o inadmisibilidad por falta de vínculo con el presupuesto europeo: son observaciones de una parte, no una decisión del TJUE.
 
-  Las piezas por ayudas concretas continuaron en 2026 con resultados diferentes. Las crónicas documentan una condena a Daniel Alberto Rivera en Autologística, absoluciones en Instaladora Moderna y Agrodoñana, y condenas en Consyproan y Fabricantes de Encimeras. No se trasladan sus decisiones a todos los acusados ni se suman sus penas o responsabilidades civiles. En otra pieza, sobre empresas del grupo Ruiz-Mateos, un auto de 29 de abril de 2026 abrió un trámite de audiencia sobre una posible nueva cuestión prejudicial; ese trámite no acredita que la remisión llegara a efectuarse.
+  El TC resolvió recursos individuales entre junio y julio de 2024. Desestimó los de José Antonio Viera (STC
+  90/2024) y Juan Márquez (STC 101/2024); estimó parcialmente otros diez. Para Griñán, la STC 100/2024 anuló
+  íntegramente la condena por malversación sin retroacción por ese delito y ordenó un nuevo pronunciamiento de
+  prevaricación limitado a la modificación presupuestaria de 9 de diciembre de 2004. Para Chaves, la STC
+  99/2024 ordenó un nuevo fallo excluyendo los actos legislativos y las modificaciones del programa 31L que
+  identifica, sin descartar todas las modificaciones de otros programas. Los efectos sobre Fernández, Vallejo,
+  Rodríguez Román, Martínez Aguayo y Serrano son distintos y no permiten hablar de una absolución colectiva.
 
-  Límites de la revisión con corte de 17 de octubre de 2026: no se ha localizado una nueva sentencia de la pieza política que ejecute los mandatos del TC ni una resolución final del asunto C-501/25; la consulta de su expediente público fue incompleta. Tampoco se han obtenido todas las sentencias de las piezas de 2026 ni sus resoluciones de recurso o firmeza. Se omite coste: los aproximadamente 680 millones citados en la causa describen el volumen global discutido del sistema de ayudas y no se consignan como dinero íntegramente sustraído ni como indemnización global firme. La revisión no constituye un inventario exhaustivo de las piezas, condenas o recuperaciones.
+
+  El auto 657/2025 de la Sección Primera de la Audiencia de Sevilla está fechado el 14 de julio de 2025,
+  aunque se difundió el día 15. Suspendió la ejecución de los mandatos del TC respecto de los afectados por la
+  cuestión prejudicial y solicitó una respuesta del TJUE. La petición se presentó el 17 de julio de 2025 y se
+  publicó en el Diario Oficial de la UE el 15 de diciembre como asunto C-501/25, Partido Popular de Andalucía.
+  La prensa informó el 20 de abril de 2026 de que la Comisión Europea proponía la incompetencia o
+  inadmisibilidad por falta de vínculo con el presupuesto europeo: son observaciones de una parte, no una
+  decisión del TJUE.
+
+
+  Las piezas por ayudas concretas continuaron en 2026 con resultados diferentes. Las crónicas documentan una
+  condena a Daniel Alberto Rivera en Autologística, absoluciones en Instaladora Moderna y Agrodoñana, y
+  condenas en Consyproan y Fabricantes de Encimeras. No se trasladan sus decisiones a todos los acusados ni se
+  suman sus penas o responsabilidades civiles. En otra pieza, sobre empresas del grupo Ruiz-Mateos, un auto de
+  29 de abril de 2026 abrió un trámite de audiencia sobre una posible nueva cuestión prejudicial; ese trámite
+  no acredita que la remisión llegara a efectuarse.
+
+
+  Información pendiente de acreditar al 17 de octubre de 2026: no se ha localizado una nueva sentencia de la
+  pieza política que ejecute los mandatos del TC ni una resolución final del asunto C-501/25. Tampoco se han
+  obtenido todas las sentencias de las piezas de 2026 ni sus resoluciones de recurso o firmeza. Los
+  aproximadamente 680 millones citados en la causa describen el volumen global discutido del sistema de ayudas
+  y no equivalen a dinero íntegramente sustraído ni a una indemnización global firme. La información
+  disponible no constituye un inventario exhaustivo de las piezas, condenas o recuperaciones.
 resumen: 'Macrocausa por ayudas de la Junta de Andalucía: condenas del procedimiento específico revisadas por el TC en 2024, cuestión prejudicial europea y piezas separadas con resultados distintos en 2026.'
 lugar: Andalucía; instrucción y enjuiciamiento principal en Sevilla
 tribunal:
@@ -84,7 +121,9 @@ implicados:
     rol: Interviene en piezas por ayudas concretas distintas del procedimiento específico. En 2026 las fuentes documentan tanto condenas (Autologística, Consyproan y Encimeras) como absoluciones (Instaladora Moderna y Agrodoñana); no se ha acreditado la firmeza de todas ellas y las penas no se suman aquí.
   - nombre: Juan Lanzas
     cargo: Intermediario y antiguo dirigente sindical de UGT, mencionado en otras piezas de los ERE
-    rol: Investigado en otras piezas, según las crónicas de su prisión provisional de 2013. No fue acusado en el procedimiento específico aquí descrito. No se ha verificado en esta revisión el desenlace actualizado de sus distintas causas; no se le atribuye el cargo de administrador de Vitalia ni una condena genérica.
+    rol: Investigado en otras piezas, según las crónicas de su prisión provisional de 2013. No fue acusado en el
+      procedimiento específico aquí descrito. No se ha verificado en las fuentes citadas el desenlace actualizado
+      de sus distintas causas; no se le atribuye el cargo de administrador de Vitalia ni una condena genérica.
 tags:
   - corrupción
   - malversación
@@ -298,34 +337,34 @@ cronologia:
       - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/caso-ere-condenan-carcel-director-general-junta-andalucia_0_2006926146.amp.html
 ---
 
-## Alcance y límites de la revisión
+## Alcance y cuestiones pendientes
 
-Esta ficha describe el procedimiento específico y una selección de novedades de piezas separadas; no es un registro completo de todas las ayudas ni de todas las personas investigadas. Revisión con corte de **17 de octubre de 2026**. La ausencia de noticias o de una resolución localizada no demuestra inexistencia de actuaciones posteriores.
+Esta ficha describe el procedimiento específico y una selección de novedades de piezas separadas; no es un registro completo de todas las ayudas ni de todas las personas investigadas. Información disponible al **17 de octubre de 2026**. La ausencia de noticias o de una resolución localizada no demuestra inexistencia de actuaciones posteriores.
 
-El hito de 18 de abril de 2000 corresponde al primer acto presupuestario aquí documentado. No es la fecha de apertura de diligencias ni de un delito establecido definitivamente para todos los intervinientes. Se han retirado de la cronología días de primer mes sin respaldo documental y afirmaciones globales sobre culpabilidad o firmeza.
+El hito de 18 de abril de 2000 corresponde al primer acto presupuestario aquí documentado. No es la fecha de apertura de diligencias ni de un delito establecido definitivamente para todos los intervinientes.
 
 ### Responsabilidades individuales
 
 Las sentencias del TC resuelven recursos personales y tienen alcances diferentes. La nulidad sin retroacción de malversación de Griñán, Vallejo y Martínez Aguayo debe distinguirse de los nuevos fallos sobre prevaricación y de los pronunciamientos de Fernández y Rodríguez Román. El fallo de Serrano no ordena retroacción. Los amparos de Viera y Márquez fueron desestimados. No se afirma que una pena de 2019 afectada por nulidad continúe vigente, ni que todos los recurrentes fueran absueltos de todos los delitos.
 
-Las condenas originales y las absoluciones de casación se han contrastado en los fallos de la AP y el TS. Se corrige **Agustín Barberá Salvador** con la sentencia y el nombramiento oficial de la Junta. No se dan como actuales las situaciones de prisión o libertad recogidas en noticias antiguas. Para Juan Lanzas se limita la información a su intervención en piezas distintas; no se ha verificado su situación global actual.
+Las condenas originales y las absoluciones de casación se han contrastado en los fallos de la AP y el TS. La sentencia y el nombramiento oficial de la Junta identifican a **Agustín Barberá Salvador**. No se dan como actuales las situaciones de prisión o libertad recogidas en noticias antiguas. Para Juan Lanzas se limita la información a su intervención en piezas distintas; no se ha verificado su situación global actual.
 
 ### Dinero y piezas distintas
 
-Se omite `coste`: los aproximadamente 680 millones asociados al sistema no constituyen por sí solos un daño neto firme ni dinero íntegramente apropiado por los acusados. La pieza del procedimiento específico no fija una indemnización global en su fallo; la acusación fiscal no pidió responsabilidad civil al haberse reservado la Junta el ejercicio de esa acción (sentencia de instancia, página impresa 11). Los importes concedidos, cantidades consideradas malversadas, responsabilidades civiles, fondos reintegrados y penas de multa deben mantenerse separados.
+Los aproximadamente 680 millones asociados al sistema no constituyen por sí solos un daño neto firme ni dinero íntegramente apropiado por los acusados. La pieza del procedimiento específico no fija una indemnización global en su fallo; la acusación fiscal no pidió responsabilidad civil al haberse reservado la Junta el ejercicio de esa acción (sentencia de instancia, página impresa 11). Los importes concedidos, cantidades consideradas malversadas, responsabilidades civiles, fondos reintegrados y penas de multa deben mantenerse separados.
 
-Las cantidades de Autologística, Agrodoñana, Consyproan y Encimeras pertenecen a procedimientos diferentes. Una condena de Rivera en una pieza no contradice ni elimina su absolución en otra. Tampoco los amparos de la pieza política resuelven automáticamente todas las ayudas. No se ha calculado un total con estas resoluciones, evitando duplicar ayudas o recuperaciones que puedan aparecer en otras fichas del repositorio.
+Las cantidades de Autologística, Agrodoñana, Consyproan y Encimeras pertenecen a procedimientos diferentes. Una condena de Rivera en una pieza no contradice ni elimina su absolución en otra. Tampoco los amparos de la pieza política resuelven automáticamente todas las ayudas. Estas resoluciones no permiten establecer un total sin aclarar las ayudas o recuperaciones compartidas entre procedimientos.
 
 ### Tramitación europea
 
-El auto original 657/2025 está fechado el **14 de julio**, la difusión fue el 15, la presentación europea el **17 de julio** y la publicación en el DOUE el **15 de diciembre de 2025**. Las alegaciones de la Comisión conocidas en abril de 2026 no son un fallo de inadmisión o de fondo del TJUE. Se ha leído íntegramente la comunicación oficial del DOUE C/2025/6487, que recoge la presentación de la remisión y sus cuatro preguntas, no una decisión final del TJUE. La consulta pública del expediente C-501/25 no se pudo completar y no se ha localizado su resolución final; por ello no se certifica aquí que siga pendiente en todos sus trámites al corte.
+El auto original 657/2025 está fechado el **14 de julio**, la difusión fue el 15, la presentación europea el **17 de julio** y la publicación en el DOUE el **15 de diciembre de 2025**. Las alegaciones de la Comisión conocidas en abril de 2026 no son un fallo de inadmisión o de fondo del TJUE. La comunicación oficial del DOUE C/2025/6487 recoge la presentación de la remisión y sus cuatro preguntas, no una decisión final del TJUE. La consulta pública del expediente C-501/25 no se pudo completar y no se ha localizado su resolución final; por ello no se certifica aquí que siga pendiente en todos sus trámites al corte.
 
 La posible remisión en la pieza del grupo Ruiz-Mateos es un incidente distinto: se ha comprobado la noticia del trámite de audiencia de abril de 2026, no el auto original ni la remisión final. No se generaliza la suspensión del auto de 2025 a toda la macrocausa.
 
 ### Documentación pendiente
 
-Se han descargado originales de la AP, del TS, de doce recursos constitucionales y del auto de 2025. La lectura fue selectiva: fallos, fundamentos sobre efectos, antecedentes relevantes y pasajes económicos; no se han leído íntegramente los miles de páginas. Las sentencias constitucionales publicadas en BOE incorporan votos particulares, que se distinguen de la decisión mayoritaria. Las páginas de `documentos` son las del archivo PDF y pueden diferir de la numeración impresa.
+Están disponibles resoluciones de la Audiencia Provincial, del Tribunal Supremo, de doce recursos constitucionales y el auto de 2025. Las sentencias constitucionales publicadas en BOE incorporan votos particulares, que se distinguen de la decisión mayoritaria. La paginación de los archivos PDF puede diferir de la numeración impresa.
 
-Faltan las resoluciones originales y la comprobación de recursos/firmeza de las piezas de 2026, los escritos de la Comisión y demás intervinientes ante el TJUE, y una auditoría completa de la ejecución individual y de las recuperaciones de fondos. La ficha permanece **incompleta** por estas limitaciones. Las fuentes de prensa se citan como tales, aunque comuniquen datos atribuidos a una sentencia.
+Faltan las resoluciones originales de las piezas de 2026, su evolución en recursos y firmeza, los escritos de la Comisión y demás intervinientes ante el TJUE, y la documentación completa sobre ejecución individual y recuperaciones de fondos. Las fuentes de prensa se citan como tales, aunque comuniquen datos atribuidos a una sentencia.
 
 Fuentes complementarias: [nombramiento oficial de Barberá, sesión de 26 de abril de 2004](https://www.juntadeandalucia.es/organismos/consejo/sesion/detalle/44723.html), [información sobre su salida por salud en 2024](https://elpais.com/espana/2024-08-16/libertad-condicional-para-el-exviceconsejero-agustin-barbera-ultimo-encarcelado-por-los-ere-por-motivos-de-salud.html) y [noticia histórica sobre la prisión provisional de Lanzas, 22 de marzo de 2013](https://www.rtve.es/noticias/20130322/anticorrupcion-pide-prision-para-exdirectivo-aseguradora-vitalia-caso-ere/622061.shtml).

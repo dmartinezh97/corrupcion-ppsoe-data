@@ -10,21 +10,22 @@ estadoPrincipal: Resolución no penal
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: absolución en apelación contable
-descripcion: 'El caso se refiere al arrendamiento de oficinas de la calle San Antonio de Vitoria-Gasteiz, contratado
-  en 2007 durante el gobierno municipal de Alfonso Alonso, con Javier Maroto como concejal de Hacienda. La controversia
-  sobre la renta, sus actualizaciones y los gastos de comunidad llegó al Tribunal de Cuentas. No se trató de una
-  condena penal.
+descripcion: >-
+  El caso se refiere al arrendamiento de oficinas de la calle San Antonio de Vitoria-Gasteiz, contratado en
+  2007 durante el gobierno municipal de Alfonso Alonso, con Javier Maroto como concejal de Hacienda. La
+  controversia sobre la renta, sus actualizaciones y los gastos de comunidad llegó al Tribunal de Cuentas. No
+  se trató de una condena penal.
 
 
-  La sentencia de primera instancia de 13 de mayo de 2016 declaró un alcance de 393.862,31 euros y responsabilidad
-  contable directa y solidaria de nueve miembros del gobierno municipal. La Sala de Justicia revocó los pronunciamientos
-  condenatorios el 14 de diciembre de 2016 y desestimó íntegramente las demandas. Esa cantidad revocada no se presenta
-  como daño probado vigente.
+  La sentencia de primera instancia de 13 de mayo de 2016 declaró un alcance de 393.862,31 euros y
+  responsabilidad contable directa y solidaria de nueve miembros del gobierno municipal. La Sala de Justicia
+  revocó los pronunciamientos condenatorios el 14 de diciembre de 2016 y desestimó íntegramente las demandas.
+  Esa cantidad revocada no se presenta como daño probado vigente.
 
 
-  La Fiscalía de Álava había archivado sus diligencias en marzo de 2015, según Europa Press. Ese archivo fiscal
-  es distinto de la absolución contable. Se ha verificado la sentencia de apelación, que advierte que no cabe recurso,
-  pero no una diligencia separada de firmeza ni el expediente de ejecución. La revisión mantiene esas limitaciones.'
+  La Fiscalía de Álava había archivado sus diligencias en marzo de 2015, según Europa Press. Ese archivo
+  fiscal es distinto de la absolución contable. Se ha verificado la sentencia de apelación, que advierte que
+  no cabe recurso, pero no una diligencia separada de firmeza ni el expediente de ejecución.
 resumen: El Tribunal de Cuentas revocó el 14 de diciembre de 2016 la condena contable de 393.862,31 euros por el
   alquiler de San Antonio y absolvió a los demandados, entre ellos Alfonso Alonso y Javier Maroto.
 lugar: Vitoria-Gasteiz, Álava
@@ -110,4 +111,4 @@ La [información de Público de febrero de 2017](https://www.publico.es/politica
 
 El [archivo fiscal comunicado en marzo de 2015](https://www.europapress.es/nacional/noticia-fiscalia-alava-archiva-diligencias-caso-san-antonio-porque-ya-investiga-tribunal-cuentas-20150323184339.html) no equivale a una absolución penal dictada por un juzgado. No se ha obtenido el decreto fiscal original. La sentencia contable advierte expresamente que no cabe recurso; la [información de enero de 2017](https://www.eldiario.es/euskadi/euskadi/san-antonio-vitoria-maroto-alonso_1_3616407.html) confirma que el Ayuntamiento desistió de intentar la casación. No se fija una fecha adicional de firmeza o ejecución sin su documentación específica.
 
-Revisión con corte en el 17 de octubre de 2026: se ha consultado de forma dirigida la publicación oficial en PDF de la sentencia de apelación (15 páginas), sus antecedentes, razonamiento relevante, fallo, voto particular y diligencia final. Es una edición textual oficial exportada, no un facsímil firmado: la fecha de generación del PDF en 2018 no sustituye la fecha de la sentencia de 2016. Queda pendiente contrastar el decreto fiscal y la documentación independiente de firmeza o ejecución; por ello la ficha no se marca como completada.
+La sentencia de apelación consta de quince páginas e incluye un voto particular y la diligencia final. Es una edición textual oficial exportada, no un facsímil firmado: la fecha de generación del PDF en 2018 no sustituye la fecha de la sentencia de 2016. Queda pendiente contrastar el decreto fiscal y la documentación independiente de firmeza o ejecución.

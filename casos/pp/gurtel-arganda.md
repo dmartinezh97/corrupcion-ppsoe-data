@@ -8,12 +8,25 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "desconocido"
-descripcion: |
-  Pieza de Gürtel sobre contratación del Ayuntamiento de Arganda del Rey y su Sociedad de Fomento, con hechos situados desde al menos 1998 hasta 2009. Incluye contratos con empresas de Francisco Correa y con Teconsa, Constructora Hispánica y Martinsa; entre ellos, la adjudicación de las parcelas UE-124. La sentencia describe comisiones de 25 millones de euros vinculadas a esta operación, una cifra que no equivale al perjuicio público total ni al importe de las indemnizaciones.
+descripcion: >-
+  Pieza de Gürtel sobre contratación del Ayuntamiento de Arganda del Rey y su Sociedad de Fomento, con hechos
+  situados desde al menos 1998 hasta 2009. Incluye contratos con empresas de Francisco Correa y con Teconsa,
+  Constructora Hispánica y Martinsa; entre ellos, la adjudicación de las parcelas UE-124. La sentencia
+  describe comisiones de 25 millones de euros vinculadas a esta operación, una cifra que no equivale al
+  perjuicio público total ni al importe de las indemnizaciones.
 
-  La Sección Segunda de la Sala de lo Penal de la Audiencia Nacional dictó la sentencia 12/2025 el 22 de abril de 2025, difundida en mayo. Condenó a 19 personas: Correa y Pablo Crespo recibieron ocho años y diez meses de prisión; Ginés López, cinco años y siete meses; Benjamín Martín Vasco, seis años; y Fernando Martín, tres años y cuatro meses. Se apreció confesión en todos salvo Luis Bremond. Los delitos y penas de esta pieza no deben confundirse con las condenas de otras ramas de Gürtel.
 
-  La resolución permitía recurso de casación. No se ha verificado a 15 de octubre de 2026 la firmeza individual de todos los pronunciamientos ni una resolución posterior del recurso penal o de ejecución. Por ello, no se presenta mayo de 2025 como fecha de cierre definitivo ni se deduce del reconocimiento de los hechos que todos renunciaran a recurrir.
+  La Sección Segunda de la Sala de lo Penal de la Audiencia Nacional dictó la sentencia 12/2025 el 22 de abril
+  de 2025, difundida en mayo. Condenó a 19 personas: Correa y Pablo Crespo recibieron ocho años y diez meses
+  de prisión; Ginés López, cinco años y siete meses; Benjamín Martín Vasco, seis años; y Fernando Martín, tres
+  años y cuatro meses. Se apreció confesión en todos salvo Luis Bremond. Los delitos y penas de esta pieza no
+  deben confundirse con las condenas de otras ramas de Gürtel.
+
+
+  La resolución permitía recurso de casación. No se ha verificado a 15 de octubre de 2026 la firmeza
+  individual de todos los pronunciamientos ni una resolución posterior del recurso penal o de ejecución. Por
+  ello, no se presenta mayo de 2025 como fecha de cierre definitivo ni se deduce del reconocimiento de los
+  hechos que todos renunciaran a recurrir.
 resumen: "Condenas de 2025 por contratos y comisiones en Arganda, incluida UE-124; firmeza individual posterior no verificada"
 lugar: "Arganda del Rey, Comunidad de Madrid"
 tribunal:

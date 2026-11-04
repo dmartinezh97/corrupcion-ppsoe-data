@@ -31,8 +31,8 @@ tribunal:
 implicados:
 - nombre: Antolín Martín
   cargo: Presidente de la Diputación de Zamora al denunciar los hechos
-  rol: Denunciante; El País también lo identifica como imputado en la investigación posteriormente archivada. No
-    consta condena por estos hechos en las fuentes leídas.
+  rol: Denunciante; El País también lo identifica como imputado en la investigación posteriormente archivada.
+    No consta condena por estos hechos en las fuentes citadas.
 - nombre: Eduardo Corrales
   cargo: Empresario constructor
   rol: Denunciante del presunto pago de comisiones. Sus afirmaciones fueron rechazadas como sustento penal suficiente
@@ -88,16 +88,16 @@ cronologia:
 
 ## Denuncias y valoración judicial
 
-Las referencias a un porcentaje del 8 %, a pagos fijos y a aportaciones a campañas electorales eran alegaciones de la investigación. Se retiran del resumen como hechos acreditados. La información sobre el archivo recoge que el juez no concedió valor suficiente a los testimonios para sostener los delitos de prevaricación, cohecho y usurpación de funciones. Una irregularidad administrativa no se presenta automáticamente como delito.
+Las referencias a un porcentaje del 8 %, a pagos fijos y a aportaciones a campañas electorales eran alegaciones de la investigación. La información sobre el archivo recoge que el juez no concedió valor suficiente a los testimonios para sostener los delitos de prevaricación, cohecho y usurpación de funciones. Una irregularidad administrativa no se presenta automáticamente como delito.
 
 La denuncia sobre una supuesta aportación a la campaña de José María Aznar se mantiene únicamente como contexto de las alegaciones históricas; no se le atribuye condición formal de acusado ni recepción probada de dinero. Juan Vicente Herrera aparece en la fuente como portavoz de la posición del PP, no como investigado por presentar el informe.
 
 ## Límites y documentos pendientes
 
-Se elimina el coste de doce millones de euros: no se ha localizado una cuantificación judicial de daño que respalde esa cifra. No se sustituyen por daño los importes de obras ni las cantidades alegadas por denunciantes.
+No consta una cuantificación judicial de daño que respalde los doce millones de euros. No se sustituyen por daño los importes de obras ni las cantidades alegadas por denunciantes.
 
-Las informaciones contemporáneas sitúan el archivo el 17 de junio de 2002, no el 31 de diciembre. La noticia de El País del día siguiente decía que cabía apelación y que el PSOE no pensaba recurrir; ese anuncio no acredita que ninguna otra parte recurriera ni una posterior declaración de firmeza. Tampoco se equipara el archivo a una sentencia absolutoria. El original descrito por la prensa como auto de 264 páginas no se ha obtenido; `documentos` permanece vacío.
+Las informaciones contemporáneas sitúan el archivo el 17 de junio de 2002, no el 31 de diciembre. La noticia de El País del día siguiente decía que cabía apelación y que el PSOE no pensaba recurrir; ese anuncio no acredita que ninguna otra parte recurriera ni una posterior declaración de firmeza. Tampoco se equipara el archivo a una sentencia absolutoria. El original descrito por la prensa como auto de 264 páginas no se ha obtenido.
 
-Se han leído los cuerpos informativos completos de las fuentes citadas. En Servimedia, la cabecera de navegación muestra la fecha actual, pero los despachos históricos están fechados al pie en 22 de marzo de 1997 y 12 de mayo de 1999. Quedan pendientes los originales y sus identificadores, recursos, firmeza y seguimiento posterior al archivo hasta el corte del 17 de octubre de 2026. La búsqueda no demuestra ausencia de novedades.
+En Servimedia, la cabecera de navegación muestra la fecha actual, pero los despachos históricos están fechados al pie en 22 de marzo de 1997 y 12 de mayo de 1999. Quedan pendientes los originales y sus identificadores, recursos, firmeza y seguimiento posterior al archivo hasta el corte del 17 de octubre de 2026. La ausencia de noticias no demuestra la inexistencia de novedades.
 
-No se trasladan a este procedimiento los resultados de Zamora Limpia, otras causas municipales recientes ni casos homónimos de otros países. Se retiran las fechas rellenadas y la atribución de motivaciones como represalia política en decisiones institucionales sin prueba contrastada.
+No se trasladan a este procedimiento los resultados de Zamora Limpia, otras causas municipales recientes ni casos homónimos de otros países.

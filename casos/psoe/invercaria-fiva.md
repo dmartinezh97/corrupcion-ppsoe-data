@@ -9,10 +9,17 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "absuelto"
-descripcion: |
-  Pieza de Invercaria relativa a la financiación de Ferias Virtuales de Andalucía (FIVA), una plataforma tecnológica impulsada con participación de la sociedad pública de capital riesgo de la Junta de Andalucía y socios privados. La sentencia 103/2023, de 7 de marzo, de la Sección Cuarta de la Audiencia de Sevilla absolvió a los doce acusados de prevaricación y malversación; no se trató de un sobreseimiento.
+descripcion: >-
+  Pieza de Invercaria relativa a la financiación de Ferias Virtuales de Andalucía (FIVA), una plataforma
+  tecnológica impulsada con participación de la sociedad pública de capital riesgo de la Junta de Andalucía y
+  socios privados. La sentencia 103/2023, de 7 de marzo, de la Sección Cuarta de la Audiencia de Sevilla
+  absolvió a los doce acusados de prevaricación y malversación; no se trató de un sobreseimiento.
 
-  El tribunal no consideró acreditados la arbitrariedad penal de las decisiones de financiación, la sustracción de fondos públicos ni el enriquecimiento de los socios. Diferenció el fracaso empresarial de una conducta delictiva. No se ha verificado una resolución posterior sobre recursos ni la declaración de firmeza de esta sentencia al corte del 17 de octubre de 2026.
+
+  El tribunal no consideró acreditados la arbitrariedad penal de las decisiones de financiación, la
+  sustracción de fondos públicos ni el enriquecimiento de los socios. Diferenció el fracaso empresarial de una
+  conducta delictiva. No se ha verificado una resolución posterior sobre recursos ni la declaración de firmeza
+  de esta sentencia al corte del 17 de octubre de 2026.
 resumen: "La Audiencia de Sevilla absolvió a los doce acusados en la pieza FIVA de Invercaria el 7 de marzo de 2023. La firmeza no ha sido verificada."
 lugar: "Sevilla, Andalucía"
 tribunal:
@@ -99,6 +106,6 @@ Los hechos probados distinguen las aportaciones al capital de los préstamos: In
 
 El fallo absuelve a Tomás Pérez-Sauquillo Pérez, Antonio Nieto Garrido, Isabel Elena Susana de Haro Arramberri, Bienvenido Martínez Martínez, Jacinto Cañete Rolloso, Juan Antonio Bardón Rafael, Francisco José Barrionuevo Canto, Francisco Carlos Gallardo Hill, Mariano Pérez-Sauquillo Pérez, Laura Isabel Gómiz Nogales, Juan Vela Quiroga y Ramón Martín López. La relación superior no pretende ser una lista exhaustiva de los doce ni atribuye afiliación partidista individual a todos ellos. Los nombres se cotejaron con la copia nominal de la sentencia difundida por uno de los absueltos y con la crónica contemporánea; no se deducen de los pseudónimos de CENDOJ.
 
-La Audiencia concluyó que no se había probado sustracción de caudal público, enriquecimiento de los socios ni el elemento subjetivo de la malversación. También señaló que los socios privados perdieron inversiones y que no se acreditaron pagos por servicios inexistentes o a precios notablemente superiores a los de mercado. Se retira por ello la anterior presentación del enriquecimiento como un hecho establecido.
+La Audiencia concluyó que no se había probado sustracción de caudal público, enriquecimiento de los socios ni el elemento subjetivo de la malversación. También señaló que los socios privados perdieron inversiones y que no se acreditaron pagos por servicios inexistentes o a precios notablemente superiores a los de mercado. El enriquecimiento no está acreditado como hecho probado.
 
-La resolución está fechada el 7 de marzo de 2023; la copia nominal lleva firmas del 8 de marzo y la noticia consultada se publicó el 9. La exportación de CENDOJ descargada en octubre de 2026 no constituye una nueva sentencia. La búsqueda posterior no ha permitido verificar un recurso o una declaración de firmeza específicos de FIVA: la revisión permanece incompleta en ese extremo. Los resultados de otras piezas de Invercaria no se trasladan a esta ficha.
+La resolución está fechada el 7 de marzo de 2023; la copia nominal lleva firmas del 8 de marzo y la noticia consultada se publicó el 9. La exportación de CENDOJ de octubre de 2026 no constituye una nueva sentencia. No consta un recurso o una declaración de firmeza específicos de FIVA. Los resultados de otras piezas de Invercaria no se trasladan a esta ficha.

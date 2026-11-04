@@ -7,31 +7,35 @@ estadoPrincipal: En investigación
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: Investigación documentada en 2016; desenlace no verificado
-descripcion: 'El asunto se refiere a la gestión del aparcamiento y terrenos vinculados al festival Rototom Sunsplash
-  de Benicàssim en las ediciones de 2015 y 2016. Europa Press informó en noviembre de 2016, citando al TSJ valenciano,
-  de una causa abierta desde 2015 en el Juzgado de Instrucción nº 3 de Castellón por presunta prevaricación. Otras crónicas
-  describían comprobaciones tributarias sobre Aturitmo SL, empresa explotadora del aparcamiento. Sin el auto original
-  no se fija una relación definitiva de delitos o personas investigadas.
+descripcion: >-
+  El asunto se refiere a la gestión del aparcamiento y terrenos vinculados al festival Rototom Sunsplash de
+  Benicàssim en las ediciones de 2015 y 2016. Europa Press informó en noviembre de 2016, citando al TSJ
+  valenciano, de una causa abierta desde 2015 en el Juzgado de Instrucción nº 3 de Castellón por presunta
+  prevaricación. Otras crónicas describían comprobaciones tributarias sobre Aturitmo SL, empresa explotadora
+  del aparcamiento. Sin el auto original no se fija una relación definitiva de delitos o personas
+  investigadas.
 
 
-  El 22 de noviembre de 2016 se anunció la citación de Susana Marqués, alcaldesa del PP, como investigada para el 20
-  de enero siguiente, es decir, de 2017. El señalamiento no acredita que la declaración llegara a celebrarse. No corresponde
-  a una citación de enero de 2016, como figuraba en la ficha anterior, ni a una apertura de juicio o condena.
+  El 22 de noviembre de 2016 se anunció la citación de Susana Marqués, alcaldesa del PP, como investigada para
+  el 20 de enero siguiente, es decir, de 2017. El señalamiento no acredita que la declaración llegara a
+  celebrarse. No corresponde a una apertura de juicio ni a una condena.
 
 
-  Debe distinguirse a los testigos de los investigados. Filippo Giunta fue citado como testigo; elDiario.es rectificó
-  expresamente una imputación publicada inicialmente sobre él. SER y Todo Benicàssim también situaban al jefe de Policía
-  Eugenio Capitán y a funcionarios municipales como testigos, mientras que el texto de elDiario.es mantenía una versión
-  diferente sobre Capitán. Sin resolución judicial no se presenta como acreditada su condición de investigado en este
-  procedimiento. Todo Benicàssim atribuyó al abogado de la denuncia que Yolanda Rubio, administradora de Aturitmo, estaba
-  investigada; falta el documento judicial que concrete esa situación.
+  Debe distinguirse a los testigos de los investigados. Filippo Giunta fue citado como testigo; elDiario.es
+  rectificó expresamente una imputación publicada inicialmente sobre él. SER y Todo Benicàssim también
+  situaban al jefe de Policía Eugenio Capitán y a funcionarios municipales como testigos, mientras que el
+  texto de elDiario.es mantenía una versión diferente sobre Capitán. Sin resolución judicial no se presenta
+  como acreditada su condición de investigado en este procedimiento. Todo Benicàssim atribuyó al abogado de la
+  denuncia que Yolanda Rubio, administradora de Aturitmo, estaba investigada; falta el documento judicial que
+  concrete esa situación.
 
 
-  No se han obtenido las resoluciones originales ni un desenlace individual verificable hasta el 15 de octubre de 2026.
-  No se afirma que la causa continúe abierta, que haya sido archivada o que exista sentencia firme por la ausencia de
-  noticias posteriores. La actualización de una base de datos en octubre de 2017 no es una resolución judicial ni prueba
-  suficiente de continuidad. Tampoco se ha acreditado un daño económico o una cuota tributaria defraudada cuantificados.
-  Los procedimientos diferentes sobre el festival o sobre las mismas personas no se trasladan a esta investigación.'
+  No se han obtenido las resoluciones originales ni un desenlace individual verificable hasta el 15 de octubre
+  de 2026. No se afirma que la causa continúe abierta, que haya sido archivada o que exista sentencia firme
+  por la ausencia de noticias posteriores. La actualización de una base de datos en octubre de 2017 no es una
+  resolución judicial ni prueba suficiente de continuidad. Tampoco se ha acreditado un daño económico o una
+  cuota tributaria defraudada cuantificados. Los procedimientos diferentes sobre el festival o sobre las
+  mismas personas no se trasladan a esta investigación.
 resumen: Investigación sobre el aparcamiento del Rototom y citación de la alcaldesa como investigada anunciada en 2016;
   testigos y desenlaces posteriores pendientes de comprobación judicial.
 lugar: Benicàssim, Castellón, Comunidad Valenciana

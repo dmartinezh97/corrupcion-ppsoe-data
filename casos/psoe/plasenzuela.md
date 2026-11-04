@@ -9,23 +9,25 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Sobreseimiento provisional referido en fuente secundaria; auto y fecha pendientes de verificación
 lugar: Plasenzuela, Cáceres, Extremadura
-descripcion: 'Investigación del Juzgado nº 2 de Trujillo sobre la gestión municipal de Plasenzuela. La información
-  de octubre de 2009 identifica como denunciante al entonces alcalde Adrián González (PSOE), que había sustituido
-  a José Villegas. Sitúa el inicio de la investigación en julio de 2008 y menciona como investigados a Villegas,
-  un exconcejal, el secretario municipal y Domingo Galán, alcalde de Torremocha por el PP. Las imputaciones
-  y las declaraciones sobre la deuda municipal no son hechos declarados probados en una condena.
+descripcion: >-
+  Investigación del Juzgado nº 2 de Trujillo sobre la gestión municipal de Plasenzuela. La información de
+  octubre de 2009 identifica como denunciante al entonces alcalde Adrián González (PSOE), que había sustituido
+  a José Villegas. Sitúa el inicio de la investigación en julio de 2008 y menciona como investigados a
+  Villegas, un exconcejal, el secretario municipal y Domingo Galán, alcalde de Torremocha por el PP. Las
+  imputaciones y las declaraciones sobre la deuda municipal no son hechos declarados probados en una condena.
 
 
-  La documentación parlamentaria original acredita un debate sobre la residencia Padre Damián el 11 de noviembre
-  de 2010. La oposición cuestionó el uso de los fondos y la consejera defendió la justificación de la financiación
-  y la delimitación de las responsabilidades de gestión. Ese debate no resuelve la responsabilidad penal.
+  La documentación parlamentaria original acredita un debate sobre la residencia Padre Damián el 11 de
+  noviembre de 2010. La oposición cuestionó el uso de los fondos y la consejera defendió la justificación de
+  la financiación y la delimitación de las responsabilidades de gestión. Ese debate no resuelve la
+  responsabilidad penal.
 
 
   Casos Aislados reproduce una información atribuida a El Periódico Extremadura que refiere un sobreseimiento
-  provisional tras la petición fiscal de archivo. No se ha recuperado el auto ni el artículo original, bloqueado
-  en los accesos realizados, y la copia no permite verificar el año ni el día del auto de marzo. Por ello no
-  se mantiene la fecha de marzo de 2016 ni se afirma archivo definitivo, absolución o firmeza. La documentación
-  judicial y una eventual evolución posterior siguen pendientes al corte del 17 de octubre de 2026.'
+  provisional tras la petición fiscal de archivo. No se ha recuperado el auto ni el artículo original,
+  bloqueado en los accesos realizados, y la copia no permite verificar el año ni el día del auto de marzo. No
+  está acreditada la fecha de marzo de 2016 ni un archivo definitivo, absolución o firmeza. La documentación
+  judicial y una eventual evolución posterior siguen pendientes al corte del 17 de octubre de 2026.
 resumen: Investigación de la gestión municipal de Plasenzuela; archivo provisional referido en fuente secundaria,
   pendiente de verificar con el auto.
 tribunal:
@@ -97,4 +99,4 @@ La investigación y las denuncias económicas deben distinguirse del daño proba
 
 El [Diario de Sesiones de 11 de noviembre de 2010](https://www.asambleaex.es/imagen/07DSAE81.PDF), páginas PDF 49–51 (paginación impresa 4029–4031), permite contrastar el debate sobre la residencia: la diputada citó 1.864.800 euros de financiación hasta 2013 y la consejera explicó el convenio para 42 plazas, defendiendo su justificación y el control autonómico. Esas intervenciones parlamentarias no prueban por sí mismas desvíos ni exoneraciones penales. El [boletín de 9 de noviembre](https://www.asambleaex.es/imagen/07BOAE451.PDF) acredita la publicación de la pregunta. Ambos PDF son documentos parlamentarios, no los autos de la causa.
 
-**Pendientes al 17 de octubre de 2026:** obtener el auto de sobreseimiento, su fecha y alcance, la resolución de la petición de diligencias y los eventuales recursos o reaperturas. Tampoco se ha localizado una resolución que determine daño o responsabilidad civil. La ausencia de noticias posteriores en la búsqueda realizada no acredita que no existan actuaciones.
+**Pendientes al 17 de octubre de 2026:** obtener el auto de sobreseimiento, su fecha y alcance, la resolución de la petición de diligencias y los eventuales recursos o reaperturas. Tampoco se ha localizado una resolución que determine daño o responsabilidad civil. La ausencia de noticias posteriores no demuestra la inexistencia de actuaciones.

@@ -9,10 +9,19 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Sobreseimiento libre comunicado en 2019; firmeza documental pendiente"
-descripcion: |
-  La causa contra Juan José Sota, consejero socialista de Economía, Hacienda y Empleo de Cantabria, se refería a su presunta inacción para recuperar retribuciones cuestionadas en la sociedad pública SOGIESE. OlaCantabria denunció en septiembre de 2018 pagos supuestamente indebidos de 90.000 euros a cinco empleados entre 2012 y 2015. Sota declaró como investigado. Según la información de Europa Press publicada el 18 de enero de 2019, un auto de 14 de enero acordó el sobreseimiento libre porque los hechos no constituían delito. El 21 de enero se informó de que OlaCantabria no recurriría.
+descripcion: >-
+  La causa contra Juan José Sota, consejero socialista de Economía, Hacienda y Empleo de Cantabria, se refería
+  a su presunta inacción para recuperar retribuciones cuestionadas en la sociedad pública SOGIESE.
+  OlaCantabria denunció en septiembre de 2018 pagos supuestamente indebidos de 90.000 euros a cinco empleados
+  entre 2012 y 2015. Sota declaró como investigado. Según la información de Europa Press publicada el 18 de
+  enero de 2019, un auto de 14 de enero acordó el sobreseimiento libre porque los hechos no constituían
+  delito. El 21 de enero se informó de que OlaCantabria no recurriría.
 
-  La documentación de fiscalización publicada en el BOE recoge una propuesta de reintegro de 90.000 euros referida a seis trabajadores, incluido el gerente, y también un acuerdo posterior del Gobierno que declaró subsanadas las irregularidades sin menoscabo de fondos públicos. No se computa esa cifra como daño probado. Falta cotejar el auto judicial original y su firmeza; la revisión hasta el 17 de octubre de 2026 permanece incompleta.
+
+  La documentación de fiscalización publicada en el BOE recoge una propuesta de reintegro de 90.000 euros
+  referida a seis trabajadores, incluido el gerente, y también un acuerdo posterior del Gobierno que declaró
+  subsanadas las irregularidades sin menoscabo de fondos públicos. No se computa esa cifra como daño probado.
+  Al 17 de octubre de 2026, faltan el auto judicial original y la documentación de su firmeza.
 resumen: "Investigación a Sota por no recuperar retribuciones cuestionadas en SOGIESE; sobreseimiento libre informado en enero de 2019, sin condena."
 lugar: "Cantabria, España"
 tribunal:
@@ -61,10 +70,10 @@ cronologia:
       - "https://www.eldiario.es/cantabria/ultimas-noticias/olacantabria-desestima-consejero-economia-sogiese_1_1739359.html"
 ---
 
-La denuncia atribuía a Sota una omisión para recuperar cantidades, no una apropiación personalmente acreditada. Según la crónica judicial de Europa Press, el instructor consideró que la inacción denunciada no equivalía a una resolución arbitraria y rechazó nuevas diligencias. El Faradio confirma que Sota llegó a declarar como investigado: se elimina por ello la afirmación anterior de que no hubo imputación formal. El sobreseimiento libre comunicado no se presenta como sentencia absolutoria tras juicio.
+La denuncia atribuía a Sota una omisión para recuperar cantidades, no una apropiación personalmente acreditada. Según la crónica judicial de Europa Press, el instructor consideró que la inacción denunciada no equivalía a una resolución arbitraria y rechazó nuevas diligencias. El Faradio confirma que Sota llegó a declarar como investigado. El sobreseimiento libre comunicado no se presenta como sentencia absolutoria tras juicio.
 
-El informe de fiscalización publicado en el BOE (páginas 45267–45268, páginas 21–22 del PDF) distingue el informe de actuación de marzo de 2016, la falta de constancia de reintegros a 1 de julio de 2018 y el acuerdo gubernamental de 27 de septiembre de 2018 recogido en alegaciones. Este último declaró subsanadas las irregularidades y ausencia de menoscabo. Se retira el coste de 90.000 euros como perjuicio consolidado. Hay además una diferencia de alcance: la denuncia descrita por la prensa se refiere a cinco empleados y 2012–2015; la fiscalización reseña seis trabajadores. No se presupone que ambas delimitaciones sean idénticas.
+El informe de fiscalización publicado en el BOE (páginas 45267–45268, páginas 21–22 del PDF) distingue el informe de actuación de marzo de 2016, la falta de constancia de reintegros a 1 de julio de 2018 y el acuerdo gubernamental de 27 de septiembre de 2018 recogido en alegaciones. Este último declaró subsanadas las irregularidades y ausencia de menoscabo. Los 90.000 euros no están acreditados como perjuicio consolidado. Hay además una diferencia de alcance: la denuncia descrita por la prensa se refiere a cinco empleados y 2012–2015; la fiscalización reseña seis trabajadores. No se presupone que ambas delimitaciones sean idénticas.
 
 No se atribuye todo el período 2012–2015 al Gobierno PSOE-PRC a partir de la pertenencia política del consejero investigado en 2018. Tampoco se mantienen imputaciones personales de familiares como hechos acreditados.
 
-**Revisión parcial al 17 de octubre de 2026:** no se han obtenido el auto de 14 de enero, el escrito fiscal de 14 de diciembre de 2018 ni el acuerdo gubernamental original. El PDF adjunto es documentación de fiscalización, no el auto penal; la fecha de su resolución parlamentaria es el 27 de febrero de 2019 y la publicación en el BOE fue el 30 de abril. Solo se han leído su cabecera y los pasajes relevantes, no las 168 páginas completas. Quedan pendientes la comprobación documental de firmeza y la evolución posterior; la búsqueda sin hallazgos no acredita por sí sola ausencia de actuaciones.
+**Información disponible al 17 de octubre de 2026:** no se han obtenido el auto de 14 de enero, el escrito fiscal de 14 de diciembre de 2018 ni el acuerdo gubernamental original. El PDF adjunto es documentación de fiscalización, no el auto penal; la fecha de su resolución parlamentaria es el 27 de febrero de 2019 y la publicación en el BOE fue el 30 de abril. No están documentadas la firmeza ni la evolución posterior; la ausencia de noticias no acredita la inexistencia de actuaciones.

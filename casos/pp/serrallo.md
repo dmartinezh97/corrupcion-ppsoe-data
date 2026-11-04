@@ -8,13 +8,26 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: En apelación
 firmeza: Sin determinar
 estado: condenas penales confirmadas; indemnización recurrida
-descripcion: 'El caso Serrallo juzgó las licencias concedidas para una sala de fiestas en terrenos destinados a parque infantil junto al centro comercial Serrallo Plaza. La Audiencia de Granada condenó en julio de 2020 a Isabel Nieto, Emilio Martín Herrera y Roberto García Arrabal por prevaricación administrativa común, y absolvió al exalcalde José Torres Hurtado y a los demás acusados en los términos del fallo.
+descripcion: >-
+  El caso Serrallo juzgó las licencias concedidas para una sala de fiestas en terrenos destinados a parque
+  infantil junto al centro comercial Serrallo Plaza. La Audiencia de Granada condenó en julio de 2020 a Isabel
+  Nieto, Emilio Martín Herrera y Roberto García Arrabal por prevaricación administrativa común, y absolvió al
+  exalcalde José Torres Hurtado y a los demás acusados en los términos del fallo.
 
 
-  La sentencia 859/2022 del Supremo, de 2 de noviembre, confirmó las condenas y desestimó también los recursos de las acusaciones populares sobre las costas. Nieto recibió siete años de inhabilitación para el cargo de concejal; Martín Herrera, siete para empleo de funcionario municipal; y García Arrabal, tres años y seis meses para obtener o desempeñar el cargo de concejal o empleo de funcionario municipal. El fallo declara que no cabe recurso. No se certifica aquí el cumplimiento de las penas.
+  La sentencia 859/2022 del Supremo, de 2 de noviembre, confirmó las condenas y desestimó también los recursos
+  de las acusaciones populares sobre las costas. Nieto recibió siete años de inhabilitación para el cargo de
+  concejal; Martín Herrera, siete para empleo de funcionario municipal; y García Arrabal, tres años y seis
+  meses para obtener o desempeñar el cargo de concejal o empleo de funcionario municipal. El fallo declara que
+  no cabe recurso. No se certifica aquí el cumplimiento de las penas.
 
 
-  El litigio tuvo una consecuencia patrimonial posterior: según Granada Hoy, una sentencia de 7 de enero de 2026 condenó al Ayuntamiento a pagar 435.213 euros más intereses a Abel Pizarro, segundo propietario de la discoteca. El Ayuntamiento recurrió, según la noticia de 28 de enero. El coste recoge únicamente ese principal reconocido en primera instancia, sujeto a apelación, sin sumar peticiones ni estimaciones políticas. Revisión parcial al 17 de octubre de 2026: falta el original contencioso y comprobar el resultado del recurso y la ejecución.'
+  El litigio tuvo una consecuencia patrimonial posterior: según Granada Hoy, una sentencia de 7 de enero de
+  2026 condenó al Ayuntamiento a pagar 435.213 euros más intereses a Abel Pizarro, segundo propietario de la
+  discoteca. El Ayuntamiento recurrió, según la noticia de 28 de enero. El coste recoge únicamente ese
+  principal reconocido en primera instancia, sujeto a apelación, sin sumar peticiones ni estimaciones
+  políticas. Información disponible al 17 de octubre de 2026: falta el original contencioso y comprobar el
+  resultado del recurso y la ejecución.
 resumen: Tres condenas de inhabilitación confirmadas por el Supremo por las licencias del Serrallo; en 2026 se informó de una indemnización municipal recurrida.
 coste: 435213
 lugar: Granada, Andalucía
@@ -39,7 +52,8 @@ implicados:
   rol: Condenado como cooperador necesario de prevaricación administrativa común a tres años y seis meses de inhabilitación para obtener o desempeñar el cargo de concejal o empleo de funcionario municipal; absuelto de ordenación del territorio y tráfico de influencias. Condena confirmada en 2022.
 - nombre: Manuel Lorente Sánchez-Palencia
   cargo: Director técnico municipal de Urbanismo
-  rol: 'Absuelto de las imputaciones que enumera el fallo: prevaricación urbanística y común, fraude en la contratación, tráfico de influencias y malversación. No se conserva la imputación heredada de cohecho como condena.'
+  rol: "Absuelto de las imputaciones que enumera el fallo: prevaricación urbanística y común, fraude en la
+    contratación, tráfico de influencias y malversación. La imputación de cohecho no equivale a una condena."
 tags:
 - corrupción
 - prevaricación
@@ -70,7 +84,8 @@ cronologia:
   relevancia: alta
 - fecha: '2020-02-03'
   titulo: Comienza el juicio de Serrallo
-  descripcion: Europa Press informa del inicio del juicio ante la Sección Segunda con 17 acusados. La fecha heredada del 2 de marzo era incorrecta. Las peticiones de prisión de la Fiscalía no se presentan como penas finalmente impuestas.
+  descripcion: Europa Press informa del inicio del juicio ante la Sección Segunda con 17 acusados. Las peticiones de
+    prisión de la Fiscalía no se presentan como penas finalmente impuestas.
   type: juicio
   urls:
   - https://www.europapress.es/andalucia/noticia-llegan-audiencia-provincial-granada-acusados-juicio-caso-serrallo-20200203101007.html
@@ -115,12 +130,12 @@ cronologia:
   relevancia: alta
 ---
 
-Esta ficha se limita a **Serrallo** y a la reclamación patrimonial ligada a las licencias anuladas. La operación Nazarí y sus piezas Mulhacén o Ciudad de la Luz son procedimientos diferentes: las actuaciones posteriores contra personas comunes no modifican automáticamente las absoluciones de Serrallo. Se retiran las fechas heredadas no revalidadas de denuncia e imputación y las afirmaciones de una detención sin precedente o de un cierre global de Nazarí. Sebastián Pérez no se mantiene como acusado absuelto de esta causa sin soporte nominal suficiente.
+Esta ficha se limita a **Serrallo** y a la reclamación patrimonial ligada a las licencias anuladas. La operación Nazarí y sus piezas Mulhacén o Ciudad de la Luz son procedimientos diferentes: las actuaciones posteriores contra personas comunes no modifican automáticamente las absoluciones de Serrallo. No constan fechas exactas acreditadas de la denuncia e imputación ni un cierre global de Nazarí. Sebastián Pérez no se mantiene como acusado absuelto de esta causa sin soporte nominal suficiente.
 
 El [PDF oficial del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=979ace6d01072119a0a8778d75e36f0d&encode=true&databasematch=AN), de 57 páginas, identifica la sentencia penal de instancia como la **236/2020 de la Sección Segunda**, de 21 de julio de 2020. Se han cotejado la cabecera, el fallo de instancia reproducido, la rectificación de 29 de julio y el fallo de casación. La fecha judicial es el 2 de noviembre de 2022; el 10 de noviembre corresponde a la [nota de comunicación](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-las-penas-de-inhabilitacion-que-impuso-la-Audiencia-de-Granada-a-tres-condenados-por-el-caso--Serrallo-). La exportación del PDF en octubre de 2026 tampoco es fecha del acto. El documento está anonimizado: las identidades y los fallos nominales se contrastan con la [reproducción periodística de 2020](https://www.elindependientedegranada.es/politica/sentencia-caso-serrallo-absuelto-torres-hurtado-condena-prevaricacion-isabel-nieto), sin deducir nombres de seudónimos.
 
 Las inhabilitaciones tienen ámbitos concretos: concejal para Nieto; funcionario municipal para Martín Herrera; ambos para García Arrabal. También hubo absoluciones parciales de estos tres acusados y absoluciones de los restantes. El Supremo desestimó, además, los recursos de las acusaciones populares sobre las costas de los absueltos. No se confunden dichas costas con indemnizaciones ni con perjuicio municipal. La ejecución de las penas no se ha reconstruido.
 
-El campo `coste: 435213` recoge el principal de la **responsabilidad patrimonial de primera instancia de 2026**, según las noticias de [sentencia](https://www.granadahoy.com/granada/ayuntamiento-granada-condenado-pago-empresario-discoteca-serrallo_0_2005591214.html) y [apelación](https://www.granadahoy.com/granada/recurso-ayuntamiento-sentencia-discoteca-serrallo_0_2005741072.html), no una indemnización penal ni una cantidad ya pagada. Se excluyen los intereses no liquidados y las pretensiones rechazadas. Los 1,9 millones solicitados por el empresario y la estimación política de alrededor de un millón de euros, difundida por el PSOE y recogida en [Ahora Granada](https://www.ahoragranada.com/noticias/el-ayuntamiento-de-granada-recurrira-la-sentencia-que-le-condena-a-pagar-por-el-proyecto-de-la-discoteca-del-serrallo/), son magnitudes distintas que no se suman. Esta última noticia llama firme a la sentencia al reproducir la posición socialista, pero eso no acredita firmeza frente al recurso municipal documentado posteriormente.
+Los 435.213 euros corresponden al principal de la **responsabilidad patrimonial de primera instancia de 2026**, según las noticias de [sentencia](https://www.granadahoy.com/granada/ayuntamiento-granada-condenado-pago-empresario-discoteca-serrallo_0_2005591214.html) y [apelación](https://www.granadahoy.com/granada/recurso-ayuntamiento-sentencia-discoteca-serrallo_0_2005741072.html), no una indemnización penal ni una cantidad ya pagada. Se excluyen los intereses no liquidados y las pretensiones rechazadas. Los 1,9 millones solicitados por el empresario y la estimación política de alrededor de un millón de euros, difundida por el PSOE y recogida en [Ahora Granada](https://www.ahoragranada.com/noticias/el-ayuntamiento-de-granada-recurrira-la-sentencia-que-le-condena-a-pagar-por-el-proyecto-de-la-discoteca-del-serrallo/), son magnitudes distintas que no se suman. Esta última noticia llama firme a la sentencia al reproducir la posición socialista, pero eso no acredita firmeza frente al recurso municipal documentado posteriormente.
 
-Con corte al **17 de octubre de 2026**, quedan pendientes el original contencioso de enero, el resultado de la apelación, el pago efectivo y la ejecución penal, además de la lectura íntegra de toda la fundamentación del Supremo. Por ello `completado` es falso y `fechaFin` queda vacía. El PDF remoto oficial incluido en `documentos` fue descargado mediante GET; no se añade ningún binario al repositorio.
+Con corte al **17 de octubre de 2026**, quedan pendientes el original contencioso de enero, el resultado de la apelación, el pago efectivo y la ejecución penal.

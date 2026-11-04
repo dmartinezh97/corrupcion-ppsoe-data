@@ -9,14 +9,15 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: macrocausa con condenas y piezas de evolución diferenciada
-descripcion: 'Gürtel agrupa procedimientos sobre la red de Francisco Correa y la manipulación de contratación pública
-  mediante relaciones con cargos del PP. Esta ficha ofrece una visión general limitada: no representa una única
-  sentencia ni un cierre conjunto. La primera época (1999–2005) fue resuelta por la Audiencia Nacional en la sentencia
-  20/2018, de 17 de mayo, y revisada por el Tribunal Supremo en la sentencia 507/2020, de 14 de octubre. El PP respondió
-  civilmente como partícipe a título lucrativo; no fue condenado penalmente en ese procedimiento. Otras piezas tienen
-  acusados, fallos y recursos propios. Al corte de 17 de octubre de 2026, queda pendiente comprobar la resolución
-  de la última pieza fiscal y de blanqueo, cuyo fallo aún no se había publicado según la información de 5 de octubre.
-  La revisión no abarca íntegramente todas las piezas ni todas las ejecuciones.'
+descripcion: "Gürtel agrupa procedimientos sobre la red de Francisco Correa y la manipulación de contratación
+  pública mediante relaciones con cargos del PP. Esta ficha ofrece una visión general limitada: no representa
+  una única sentencia ni un cierre conjunto. La primera época (1999–2005) fue resuelta por la Audiencia
+  Nacional en la sentencia 20/2018, de 17 de mayo, y revisada por el Tribunal Supremo en la sentencia
+  507/2020, de 14 de octubre. El PP respondió civilmente como partícipe a título lucrativo; no fue condenado
+  penalmente en ese procedimiento. Otras piezas tienen acusados, fallos y recursos propios. Al corte de 17 de
+  octubre de 2026, queda pendiente comprobar la resolución de la última pieza fiscal y de blanqueo, cuyo fallo
+  aún no se había publicado según la información de 5 de octubre. La información disponible no abarca
+  íntegramente todas las piezas ni todas las ejecuciones."
 resumen: 'Macrocausa de contratación corrupta: primera época revisada por el Supremo en 2020 y otras piezas con
   resultados propios.'
 lugar: Principalmente Comunidad de Madrid y Comunitat Valenciana
@@ -72,9 +73,8 @@ documentos:
 cronologia:
 - fecha: '2018-05-17'
   titulo: Sentencia de la primera época en la Audiencia Nacional
-  descripcion: La sentencia 20/2018 de la Sección Segunda de la Sala de lo Penal es la resolución recurrida identificada
-    en las páginas 3 y 1804 del facsímil del Supremo. Se corrige la anterior atribución de este fallo a 2017 y la
-    confusión con el Supremo en mayo de 2018.
+  descripcion: La sentencia 20/2018 de la Sección Segunda de la Sala de lo Penal es la resolución recurrida
+    identificada en las páginas 3 y 1804 del facsímil del Supremo.
   type: sentencia
   urls:
   - https://www.antena3.com/documents/2020/10/14/E7E6D342-62D2-4157-BF37-891CE19713F6/sentencia_gurtel.pdf
@@ -114,22 +114,22 @@ cronologia:
   - https://cadenaser.com/nacional/2026/10/05/los-tribunales-en-tiempo-de-elecciones-las-causas-que-marcaran-el-camino-al-29-n-cadena-ser/
 ---
 
-## Alcance de la ficha y de las penas
+## Procedimientos y penas
 
 La primera época no agota Gürtel. Las penas del listado corresponden únicamente al resultado de su casación, recogido en la [tabla oficial del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-penas-de-hasta-51-anos-de-prision-para-los-procesados-en-el--caso-Gurtel-). No se suman con las de Fitur, AENA, Jerez, Boadilla, Arganda, financiación electoral valenciana u otras piezas. Tampoco expresan años efectivos de prisión. La [noticia de marzo de 2026 sobre Crespo](https://cadenaser.com/nacional/2026/03/27/el-juez-pone-en-libertad-a-pablo-crespo-numero-dos-de-la-trama-gurtel-cadena-ser/) acredita una evolución individual de ejecución a través de prensa; no se extiende a Correa, Bárcenas ni a los demás condenados.
 
-Se retiran de la ficha anterior nombres, cargos y resultados que confundían personas o procedimientos: Isabel Jordán aparece en el original como Felisa Isabel Jordán Goncet y en la información de la última pieza como administradora de empresas, no alcaldesa de Arganda. No se conserva la identificación de un supuesto exalcalde de Boadilla llamado Felipe Izquierdo ni de un exconseller Álvaro Pérez Giménez sin respaldo verificado. Las penas de Álvaro Pérez y Ricardo Costa requieren citar sus piezas propias; no se trasladan a la primera época ni se afirma una condena sobrevenida de Costa a partir de una absolución sin resolución precisa.
+El original judicial identifica a Felisa Isabel Jordán Goncet; la información de la última pieza la describe como administradora de empresas, no como alcaldesa de Arganda. No están acreditadas las identidades atribuidas a un supuesto exalcalde de Boadilla llamado Felipe Izquierdo o a un exconseller Álvaro Pérez Giménez. Las penas de Álvaro Pérez y Ricardo Costa requieren citar sus piezas propias; no se trasladan a la primera época ni se afirma una condena sobrevenida de Costa a partir de una absolución sin resolución precisa.
 
 ## Responsabilidad civil del PP e importes
 
 El [original del Supremo](https://www.antena3.com/documents/2020/10/14/E7E6D342-62D2-4157-BF37-891CE19713F6/sentencia_gurtel.pdf), páginas 1607–1608, distingue la restitución civil del artículo 122 del Código Penal de la culpabilidad penal. En esta causa no se enjuició penalmente al PP. Las cantidades de 133.628,48 euros por Majadahonda y 111.864,32 por Pozuelo se examinan en las páginas 1596, 1628 y 1634: son obligaciones de restitución, con el régimen de solidaridad que corresponde, y no multas penales al partido. No se convierten en un coste global ni se duplican con las fichas de la primera época o de Bárcenas.
 
-Se elimina el agregado de 120 millones de euros: no se ha localizado una cuantificación judicial que lo respalde como daño total sin solapamientos. Las comisiones, importes de contratos, cuotas tributarias, multas, decomisos y responsabilidades civiles son conceptos distintos. Caja B, papeles de Bárcenas y Kitchen conservan sus propios procedimientos; su relación histórica no permite transferir condenas ni sumar dinero automáticamente.
+No consta una cuantificación judicial que respalde los 120 millones de euros como daño total sin solapamientos. Las comisiones, importes de contratos, cuotas tributarias, multas, decomisos y responsabilidades civiles son conceptos distintos. Caja B, papeles de Bárcenas y Kitchen conservan sus propios procedimientos; su relación histórica no permite transferir condenas ni sumar dinero automáticamente.
 
 ## Recursos y documentación pendiente
 
 El [voto particular conjunto incluido en el ATC 293/2023](https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/29550), apartado c), recuerda la inadmisión en 2021 de seis recursos de amparo vinculados a Gürtel por falta de especial trascendencia constitucional. Es una referencia retrospectiva en un voto sobre los ERE, no una nueva sentencia de fondo de Gürtel. No se han obtenido aquí las seis providencias originales ni se asignan sus números a personas sin verificarlo; tampoco se trasladan a Gürtel los efectos de resoluciones del caso ERE.
 
-El documento adjunto es un facsímil judicial de 1.844 páginas físicas, incluida una última casi vacía; la nota oficial habla de 1.843 folios. Se comprobaron portada, fecha de resolución e identidad del procedimiento y se leyeron pasajes concretos, no el documento íntegro. La fecha del documento es la de la sentencia, no la de su descarga. La descarga oficial de CENDOJ quedó bloqueada, pero el facsímil enlazado fue recuperado y verificado como PDF.
+El documento adjunto es un facsímil judicial de 1.844 páginas físicas, incluida una última casi vacía; la nota oficial habla de 1.843 folios.
 
-La actualización de [Arganda publicada en mayo de 2025](https://elpais.com/espana/2025-05-07/condenado-a-carcel-fernando-martin-constructor-y-expresidente-del-real-madrid-por-el-mayor-pelotazo-de-gurtel.html) corresponde a otra pieza y no modifica las penas del listado. Quedan pendientes sus recursos y una revisión exhaustiva de los restantes fallos. Las noticias de [octubre de 2025](https://www.rtve.es/noticias/20251020/ultimo-capitulo-gurtel-pieza-principal-llega-audiencia-nacional/16773859.shtml) y [octubre de 2026](https://cadenaser.com/nacional/2026/10/05/los-tribunales-en-tiempo-de-elecciones-las-causas-que-marcaran-el-camino-al-29-n-cadena-ser/) muestran que la macrocausa no terminó con la sentencia de 2018. La ausencia de un fallo posterior localizado en esta revisión no prueba que no exista. Por estas lagunas, la ficha permanece incompleta al corte de 17 de octubre de 2026.
+La actualización de [Arganda publicada en mayo de 2025](https://elpais.com/espana/2025-05-07/condenado-a-carcel-fernando-martin-constructor-y-expresidente-del-real-madrid-por-el-mayor-pelotazo-de-gurtel.html) corresponde a otra pieza y no modifica las penas del listado. No constan sus recursos ni documentación completa de los restantes fallos. Las noticias de [octubre de 2025](https://www.rtve.es/noticias/20251020/ultimo-capitulo-gurtel-pieza-principal-llega-audiencia-nacional/16773859.shtml) y [octubre de 2026](https://cadenaser.com/nacional/2026/10/05/los-tribunales-en-tiempo-de-elecciones-las-causas-que-marcaran-el-camino-al-29-n-cadena-ser/) muestran que la macrocausa no terminó con la sentencia de 2018. La ausencia de un fallo posterior localizado en las fuentes citadas no prueba que no exista.

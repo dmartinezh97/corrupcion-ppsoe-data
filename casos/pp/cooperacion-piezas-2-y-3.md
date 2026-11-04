@@ -9,48 +9,53 @@ estadoPrincipal: Condenado
 recursoPendiente: En casación
 firmeza: Sin determinar
 estado: Condenas y recursos sobre responsabilidad civil
-descripcion: 'Las piezas 2 y 3 del caso Cooperación juzgaron las subvenciones de la Generalitat Valenciana a proyectos
-  de cooperación de 2009–2011 y la oficina técnica y el proyecto de hospital en Haití. Son distintas de la primera
-  pieza, relativa a la Fundación Cyes y Nicaragua. La sentencia declaró que el conseller Rafael Blasco favoreció
-  ayudas a entidades vinculadas a Augusto César Tauroni sabiendo que desviaba fondos, sin acreditar que Blasco recibiera
-  dinero a cambio. Tauroni utilizó la Fundación Entre Pueblos, después Hemisferio, pequeñas ONGD y sociedades instrumentales;
-  Marc Llinares facilitó proyectos y cobró por sus favores.
+descripcion: >-
+  Las piezas 2 y 3 del caso Cooperación juzgaron las subvenciones de la Generalitat Valenciana a proyectos de
+  cooperación de 2009–2011 y la oficina técnica y el proyecto de hospital en Haití. Son distintas de la
+  primera pieza, relativa a la Fundación Cyes y Nicaragua. La sentencia declaró que el conseller Rafael Blasco
+  favoreció ayudas a entidades vinculadas a Augusto César Tauroni sabiendo que desviaba fondos, sin acreditar
+  que Blasco recibiera dinero a cambio. Tauroni utilizó la Fundación Entre Pueblos, después Hemisferio,
+  pequeñas ONGD y sociedades instrumentales; Marc Llinares facilitó proyectos y cobró por sus favores.
 
 
-  La Audiencia Provincial de Valencia, Sección Quinta, dictó la sentencia 154/2020 el 24 de abril. Su fallo, reproducido
-  por el Supremo, contiene 21 pronunciamientos condenatorios y dos absoluciones; algunas crónicas iniciales contaron
-  22 condenados de 24 acusados. Impuso inicialmente un año de prisión a Blasco, dos años y multas por 40.000 euros
-  a Tauroni, dos años y nueve meses y multa de 10.000 euros a Llinares, y un año y seis meses a Josep Maria Felip.
-  Blasco, Llinares y Tauroni fueron absueltos de asociación ilícita, organización y grupo criminal. Luis Fernando
-  Castel y María Dolores Escandell resultaron absueltos. La aclaración de septiembre de 2020 corrigió, entre otros
-  extremos, una pena de tres a dos años: las cifras iniciales de prensa no sustituyen al fallo aclarado.
+  La Audiencia Provincial de Valencia, Sección Quinta, dictó la sentencia 154/2020 el 24 de abril. Su fallo,
+  reproducido por el Supremo, contiene 21 pronunciamientos condenatorios y dos absoluciones; algunas crónicas
+  iniciales contaron 22 condenados de 24 acusados. Impuso inicialmente un año de prisión a Blasco, dos años y
+  multas por 40.000 euros a Tauroni, dos años y nueve meses y multa de 10.000 euros a Llinares, y un año y
+  seis meses a Josep Maria Felip. Blasco, Llinares y Tauroni fueron absueltos de asociación ilícita,
+  organización y grupo criminal. Luis Fernando Castel y María Dolores Escandell resultaron absueltos. La
+  aclaración de septiembre de 2020 corrigió, entre otros extremos, una pena de tres a dos años: las cifras
+  iniciales de prensa no sustituyen al fallo aclarado.
 
 
-  La STS 948/2022, de 13 de diciembre, estimó parcialmente los recursos de Blasco, Llinares y la Coordinadora Valenciana
-  de ONGD; desestimó los otros recursos defensivos y el de la Generalitat. Reconoció la confesión tardía de Blasco
-  y Llinares sin reducir por ello las penas y ordenó fijar en ejecución las penas definitivas de Blasco y Tauroni,
-  compensando las de la primera pieza. El Supremo indicó que contra su resolución no cabía recurso. Según Europa
-  Press, en junio de 2024 Blasco había reingresado semanas antes, en tercer grado, para cumplir un año y medio fijado
-  en ejecución en febrero de ese año. No se conoce aquí el día del ingreso ni su situación penitenciaria posterior.
+  La STS 948/2022, de 13 de diciembre, estimó parcialmente los recursos de Blasco, Llinares y la Coordinadora
+  Valenciana de ONGD; desestimó los otros recursos defensivos y el de la Generalitat. Reconoció la confesión
+  tardía de Blasco y Llinares sin reducir por ello las penas y ordenó fijar en ejecución las penas definitivas
+  de Blasco y Tauroni, compensando las de la primera pieza. El Supremo indicó que contra su resolución no
+  cabía recurso. Según Europa Press, en junio de 2024 Blasco había reingresado semanas antes, en tercer grado,
+  para cumplir un año y medio fijado en ejecución en febrero de ese año. No se conoce aquí el día del ingreso
+  ni su situación penitenciaria posterior.
 
 
-  La responsabilidad civil no quedó íntegramente cuantificada: el fallo estableció cantidades individuales ya consignadas
-  para varios condenados y dejó otras para ejecución. Los 5.667.930,54 euros abonados en 21 proyectos son volumen
-  de subvenciones, no una indemnización global firme. Tampoco se suman a las multas, a las reclamaciones de la Generalitat,
-  al comiso de bienes o a las liquidaciones contables. La concreción debe evitar cobrar dos veces por los mismos
-  bienes y perjuicios.
+  La responsabilidad civil no quedó íntegramente cuantificada: el fallo estableció cantidades individuales ya
+  consignadas para varios condenados y dejó otras para ejecución. Los 5.667.930,54 euros abonados en 21
+  proyectos son volumen de subvenciones, no una indemnización global firme. Tampoco se suman a las multas, a
+  las reclamaciones de la Generalitat, al comiso de bienes o a las liquidaciones contables. La concreción debe
+  evitar cobrar dos veces por los mismos bienes y perjuicios.
 
 
-  Según elDiario.es, los autos de 8 de octubre y 26 de noviembre de 2025 no fijaron la responsabilidad civil de
-  cuatro empresarios y rechazaron las impugnaciones iniciales. Aunque la noticia de diciembre presentó el segundo
-  auto como irrecurrible, el 3 de septiembre de 2026 el mismo medio informó de que el Supremo había estimado las
-  quejas de Fiscalía y Generalitat y ordenado tener preparados y tramitar sus recursos de casación. Es una decisión
-  de acceso al recurso, no una resolución sobre el importe ni una nueva condena. La noticia también informa del
-  desembargo y recuperación del yate de Tauroni; no acredita la devolución a Tauroni de los fondos de los apartamentos de
-  Miami. La recuperación pública de 878.735,85 euros comunicada por el TSJCV el 10 de marzo de 2026 corresponde
-  a la ejecutoria de la pieza 1: no se suma ni se imputa a la responsabilidad civil de estas piezas. Faltan los originales de estos autos, el resultado posterior de la casación civil, las liquidaciones contables
-  y la ejecución individual completa. Por ello la revisión sigue incompleta: la firmeza del pronunciamiento penal
-  del Supremo no significa que se hayan recuperado todos los fondos o terminado todos los procedimientos.'
+  Según elDiario.es, los autos de 8 de octubre y 26 de noviembre de 2025 no fijaron la responsabilidad civil
+  de cuatro empresarios y rechazaron las impugnaciones iniciales. Aunque la noticia de diciembre presentó el
+  segundo auto como irrecurrible, el 3 de septiembre de 2026 el mismo medio informó de que el Supremo había
+  estimado las quejas de Fiscalía y Generalitat y ordenado tener preparados y tramitar sus recursos de
+  casación. Es una decisión de acceso al recurso, no una resolución sobre el importe ni una nueva condena. La
+  noticia también informa del desembargo y recuperación del yate de Tauroni; no acredita la devolución a
+  Tauroni de los fondos de los apartamentos de Miami. La recuperación pública de 878.735,85 euros comunicada
+  por el TSJCV el 10 de marzo de 2026 corresponde a la ejecutoria de la pieza 1: no se suma ni se imputa a la
+  responsabilidad civil de estas piezas. Faltan los originales de estos autos, el resultado posterior de la
+  casación civil, las liquidaciones contables y la ejecución individual completa. La firmeza del
+  pronunciamiento penal del Supremo no significa que se hayan recuperado todos los fondos o terminado todos
+  los procedimientos.
 resumen: Condenas por el desvío de ayudas de cooperación de 2009–2011 y el proyecto de hospital en Haití. El Supremo
   resolvió la casación penal en 2022 y dejó recálculos para ejecución; en septiembre de 2026 se informó de la tramitación
   de recursos sobre la responsabilidad civil, cuyo resultado no está documentado.

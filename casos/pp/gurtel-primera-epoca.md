@@ -43,7 +43,7 @@ implicados:
     aquí
 - nombre: Rosalía Iglesias Villar
   cargo: Acusada junto a Luis Bárcenas
-  rol: Condenada a doce años y once meses en esta pieza; ejecución posterior no verificada en esta revisión
+  rol: Condenada a doce años y once meses en esta pieza; ejecución posterior no verificada en las fuentes citadas
 - nombre: Alberto López Viejo
   cargo: Exconsejero de Deportes de la Comunidad de Madrid, del PP
   rol: Condenado a 27 años y diez meses de prisión en esta pieza según la tabla oficial de casación
@@ -136,13 +136,13 @@ Esta ficha se refiere a la pieza resuelta por la sentencia 20/2018 y la [STS 507
 
 La [comunicación judicial de marzo de 2015](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-de-la-Audiencia-Nacional-Pablo-Ruz-dicta-la-apertura-de-juicio-oral-en-la-pieza--Epoca-I--del--caso-Gurtel-) anunció apertura de juicio respecto de cuarenta personas, junto a partícipes lucrativos. Ese recuento no se presenta como el de personas finalmente juzgadas. La sentencia de mayo de 2018 condenó a 29 acusados de los 37 enjuiciados. El [resumen oficial de la casación](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-penas-de-hasta-51-anos-de-prision-para-los-procesados-en-el--caso-Gurtel-) distingue las penas iniciales de las definitivas en esa instancia: Correa pasó de 51 años y once meses a 51 años; Crespo, de 37 años y seis meses a 36 años y ocho meses; Bárcenas, de 33 años y cuatro meses a 29 años y un mes; y Rosalía Iglesias, de quince años y un mes a doce años y once meses. Las penas de Ortega y López Viejo son cuarenta años y tres meses y veintisiete años y diez meses, respectivamente, no la descripción imprecisa de «más de doce años». Son sumas de penas, no liquidaciones de cumplimiento efectivo.
 
-[Álvaro Pérez fue absuelto en esta pieza](https://www.elindependiente.com/politica/2018/05/24/bigotes-sentencia-gurtel/amp/), sin extrapolar resultados a sus otros procedimientos. [José Luis Peñas](https://www.rtve.es/noticias/20200617/delator-guertel-asegura-dejar-aznar-pp-trama-se-extendio-a-valencia-contacto-con-camps/2018955.shtml) fue denunciante y autor de grabaciones que contribuyeron a la investigación, pero también resultó condenado aquí a cuatro años y nueve meses. Se corrige asimismo el nombre de Rosalía Iglesias a Villar y se retiran vínculos familiares incorrectos atribuidos al exalcalde Sepúlveda.
+[Álvaro Pérez fue absuelto en esta pieza](https://www.elindependiente.com/politica/2018/05/24/bigotes-sentencia-gurtel/amp/), sin extrapolar resultados a sus otros procedimientos. [José Luis Peñas](https://www.rtve.es/noticias/20200617/delator-guertel-asegura-dejar-aznar-pp-trama-se-extendio-a-valencia-contacto-con-camps/2018955.shtml) fue denunciante y autor de grabaciones que contribuyeron a la investigación, pero también resultó condenado aquí a cuatro años y nueve meses.
 
 ## Responsabilidad civil del partido
 
 El Supremo mantiene para el PP la devolución de 133.628,48 euros por gastos de Majadahonda y 111.864,32 euros por Pozuelo: 245.492,80 euros, con solidaridad respecto de los condenados indicados para cada ámbito. No es una multa ni una condena penal al partido. Los pasajes de las páginas 1607–1608 del facsímil explican que la figura de partícipe a título lucrativo presupone ausencia de participación y desconocimiento del delito; la devolución responde al beneficio recibido. La estimación parcial del recurso del partido matizó expresiones de la sentencia sin eliminar la obligación civil.
 
-Las referencias a contabilidad paralela deben respetar ese objeto y el de las piezas separadas. Ni la responsabilidad civil del partido permite atribuirle todos los delitos de las personas condenadas ni las precisiones del Supremo significan que haya anulado todos los hechos sobre contabilidad extracontable. Se retira el coste genérico de treinta millones de euros: no se ha cotejado un perjuicio único que permita sumar contratos, multas, cuotas tributarias, comisiones y restituciones de esta macropieza.
+Las referencias a contabilidad paralela deben respetar ese objeto y el de las piezas separadas. Ni la responsabilidad civil del partido permite atribuirle todos los delitos de las personas condenadas ni las precisiones del Supremo significan que haya anulado todos los hechos sobre contabilidad extracontable. Los treinta millones de euros no están respaldados por una cuantificación única del perjuicio que permita sumar contratos, multas, cuotas tributarias, comisiones y restituciones de esta pieza.
 
 ## Ejecución posterior
 
@@ -150,6 +150,6 @@ La [nota judicial de 17 de diciembre de 2024](https://www.poderjudicial.es/cgpj/
 
 [Europa Press, el 27 de marzo de 2026](https://www.europapress.es/nacional/noticia-an-deja-libertad-condicional-crespo-numero-dos-gurtel-cumplir-mas-mitad-pena-20260327224714.html), informa de la libertad condicional de Pablo Crespo y de su obligación de continuar pagando responsabilidad civil. Es una resolución individual de ejecución que tiene en cuenta su trayectoria penitenciaria y otras condenas; no se identifica el tiempo efectivo con los 36 años y ocho meses sumados en esta pieza. Falta el auto original y el seguimiento de su cumplimiento posterior.
 
-No se ha cerrado la revisión individual de incidentes de nulidad, amparos, responsabilidades accesorias, liquidaciones y ejecución de los 29 condenados. La resolución de casación de 2020 no permite por sí sola afirmar el estado actual de cada persona hasta el 17 de octubre de 2026 ni trasladar a esta ficha un nuevo juicio o condena de otra rama.
+Falta documentación completa de los incidentes de nulidad, amparos, responsabilidades accesorias, liquidaciones y ejecución de los 29 condenados. La resolución de casación de 2020 no permite por sí sola afirmar el estado actual de cada persona hasta el 17 de octubre de 2026 ni trasladar a esta ficha un nuevo juicio o condena de otra rama.
 
-El auto de libertad condicional, de cinco páginas, se ha leído íntegramente en su versión textual. Su fecha de 16 de diciembre de 2024 se distingue de la difusión del día 17; no acredita por sí solo su ejecutividad posterior.
+El auto de libertad condicional consta de cinco páginas. Su fecha de 16 de diciembre de 2024 se distingue de la difusión del día 17; no acredita por sí solo su ejecutividad posterior.

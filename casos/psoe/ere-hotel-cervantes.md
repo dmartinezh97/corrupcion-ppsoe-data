@@ -131,10 +131,9 @@ cronologia:
     relevancia: alta
   - fecha: '2014-02-10'
     titulo: Se conoce la imputación del empresario y Zoilo Ruiz-Mateos
-    descripcion: RTVE informó de una resolución notificada este día que citaba al empresario y a Zoilo en relación
-      con los ERE del hotel y otras empresas. La fecha es la de notificación y publicación; no se conserva la fecha
-      ficticia de enero de 2011. Las atribuciones de intermediación e inclusión de trabajadores eran hipótesis de
-      investigación.
+    descripcion: RTVE informó de una resolución notificada este día que citaba al empresario y a Zoilo en relación con
+      los ERE del hotel y otras empresas. La fecha corresponde a la notificación y publicación. Las atribuciones
+      de intermediación e inclusión de trabajadores eran hipótesis de investigación.
     urls:
       - https://www.rtve.es/noticias/20140210/juez-alaya-imputa-empresario-ruiz-mateos-a-otro-hijos-por-caso-ere/875863.shtml
     type: imputacion

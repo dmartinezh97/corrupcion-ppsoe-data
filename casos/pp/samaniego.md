@@ -8,10 +8,11 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas modificadas en casación; ejecución y reclamaciones posteriores pendientes de seguimiento
-descripcion: 'El caso se refiere a la adjudicación irregular de obras menores del Ayuntamiento de Valladolid
-  a empresas vinculadas a Luis Alberto Samaniego, entonces jefe municipal de Mantenimiento, y a su entorno.
-  Los hechos fueron investigados a raíz de una denuncia de Óscar Puente en 2014. La atribución temporal al
-  gobierno municipal del PP no acredita responsabilidad penal de sus cargos políticos.
+descripcion: >-
+  El caso se refiere a la adjudicación irregular de obras menores del Ayuntamiento de Valladolid a empresas
+  vinculadas a Luis Alberto Samaniego, entonces jefe municipal de Mantenimiento, y a su entorno. Los hechos
+  fueron investigados a raíz de una denuncia de Óscar Puente en 2014. La atribución temporal al gobierno
+  municipal del PP no acredita responsabilidad penal de sus cargos políticos.
 
   La Audiencia Provincial condenó en mayo de 2019 a cuatro acusados. El Supremo, en sentencia de 16 de junio
   de 2021, modificó las penas: cinco años de prisión para Luis Alberto Samaniego; tres años, tres meses y un
@@ -19,14 +20,15 @@ descripcion: 'El caso se refiere a la adjudicación irregular de obras menores d
   Rodríguez Patín, cada uno. También existieron absoluciones por acusaciones concretas, por lo que no todas
   las imputaciones de la instrucción terminaron en condena.
 
-  Los 2,46 millones difundidos durante la instrucción eran una valoración indiciaria, diferente de la responsabilidad
-  civil fijada en sentencia. La documentación consultada contempla además reclamaciones posteriores por trabajos
-  efectivamente realizados. No se suma el volumen contratado, las indemnizaciones y los pagos administrativos
-  como un único daño.
+  Los 2,46 millones difundidos durante la instrucción eran una valoración indiciaria, diferente de la
+  responsabilidad civil fijada en sentencia. La documentación consultada contempla además reclamaciones
+  posteriores por trabajos efectivamente realizados. No se suma el volumen contratado, las indemnizaciones y
+  los pagos administrativos como un único daño.
 
-  La prensa informó del ingreso de Luis Alberto en prisión en diciembre de 2021. La ejecución completa, posibles
-  rectificaciones económicas y los litigios administrativos posteriores no se han verificado hasta su término
-  al corte de 17 de octubre de 2026. Se ha recuperado el PDF oficial del Supremo y contrastado su encabezamiento, los fallos y pasajes sobre responsabilidad civil; no se ha leído íntegramente.'
+  La prensa informó del ingreso de Luis Alberto en prisión en diciembre de 2021. La ejecución completa,
+  posibles rectificaciones económicas y los litigios administrativos posteriores no se han verificado hasta su
+  término al corte de 17 de octubre de 2026. La sentencia del Supremo está disponible en el repositorio
+  oficial.
 resumen: Adjudicaciones municipales irregulares a empresas vinculadas al jefe de Mantenimiento de Valladolid.
   Cuatro condenas modificadas por el Supremo en 2021; importes y ejecución requieren distinguir sus conceptos.
 lugar: Valladolid (Castilla y León)
@@ -131,10 +133,10 @@ cronologia:
 
 La [información municipal de 2017](https://www.valladolid.es/es/actualidad/noticias/juzgado-observa-cinco-delitos-termino-instruccion-caso-sama) describe indicios y la posición de la acusación. Sus cinco calificaciones provisionales, la valoración de 2,46 millones y el volumen de 10,9 millones contratado no se convierten automáticamente en delitos ni daños declarados probados. Tampoco se mantiene la cifra de treinta empresas pantalla como hecho judicial acreditado.
 
-La [crónica de 2019](https://www.eldiario.es/castilla-y-leon/prision-funcionario-ayuntamiento-valladolid-autoadjudicaba_1_1560027.html) recoge condenas y absoluciones. La [información de casación](https://www.eldiario.es/castilla-y-leon/tribunales/supremo-rebaja-penas-carcel-adjudicaciones-irregulares-ayuntamiento-valladolid-empresas-familia-samaniego_1_8060190.html) permite verificar las penas nominales sin identificar a nadie por los seudónimos de la transcripción. El original judicial contiene el [fallo del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e558c00d8f6bd3f9&encode=true&databasematch=AN), con un nuevo título de condena y conservación de la responsabilidad civil. No se ha leído la totalidad de sus extensos fundamentos.
+La [crónica de 2019](https://www.eldiario.es/castilla-y-leon/prision-funcionario-ayuntamiento-valladolid-autoadjudicaba_1_1560027.html) recoge condenas y absoluciones. La [información de casación](https://www.eldiario.es/castilla-y-leon/tribunales/supremo-rebaja-penas-carcel-adjudicaciones-irregulares-ayuntamiento-valladolid-empresas-familia-samaniego_1_8060190.html) permite verificar las penas nominales sin identificar a nadie por los seudónimos de la transcripción. El original judicial contiene el [fallo del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=e558c00d8f6bd3f9&encode=true&databasematch=AN), con un nuevo título de condena y conservación de la responsabilidad civil.
 
 El pronunciamiento civil reproducido contempla 177.955,45 euros solidarios de los cuatro condenados y 49.271,90 euros a cargo de dos, con sociedades responsables subsidiarias. El fundamento quinto advierte un posible error material en esta última partida y menciona 47.197,84 euros, susceptible de corrección en ejecución. Sin resolución posterior no se concilian ni se agregan estas cantidades. Tampoco se adopta como liquidación definitiva el redondeo de 235.000 euros de la noticia de ingreso en prisión.
 
 La [edición de El Norte de Castilla del 19 de enero de 2024](https://storage.googleapis.com/warehouse-europe-west3-prod-assets/8fcd6b59-2d61-4c07-ac79-a178825aac62/kiosko-2206-20240119-valladolid/2d3450b5fa1c80903a206291dc7bd42c_sample.pdf) informa en su página 5 de pagos por obras realizadas, con referencia a la sentencia contenciosa 68/2023 del Juzgado 2. No se han obtenido ese fallo ni el decreto municipal de pago. Esta vertiente administrativa exige seguimiento propio y no exonera los hechos de la causa penal.
 
-Revisión con corte a 17 de octubre de 2026: faltan la lectura completa de casación, la sentencia original de instancia, resoluciones de ejecución y liquidación civil, y los documentos administrativos de 2023–2024. No se afirma la extinción de penas ni la recuperación íntegra del dinero. Se retiran fechas exactas de denuncia, jubilación, apertura de juicio y otros trámites no revalidados, así como el relato personal de la inspección interna no contrastado. Se incorporan la sentencia oficial de casación de 41 páginas y una edición periodística de seis páginas, claramente diferenciadas.
+Al 17 de octubre de 2026, faltan la sentencia original de instancia, las resoluciones de ejecución y liquidación civil y los documentos administrativos de 2023–2024. No se afirma la extinción de penas ni la recuperación íntegra del dinero. No constan fechas exactas acreditadas de la denuncia, jubilación o apertura de juicio, ni corroboración suficiente del relato personal de la inspección interna. Se incorporan la sentencia oficial de casación de 41 páginas y una edición periodística de seis páginas, claramente diferenciadas.

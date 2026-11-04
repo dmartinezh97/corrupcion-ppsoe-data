@@ -62,12 +62,12 @@ tags:
 - manipulación urbanística
 documentos:
 - fecha: '2019-12-03'
-  titulo: Sentencia 337/2019, Audiencia Provincial de Valladolid, Sección Cuarta (PDF oficial; lectura parcial)
+  titulo: Sentencia 337/2019, Audiencia Provincial de Valladolid, Sección Cuarta (PDF oficial)
   filetype: pdf
   paginas: 41
   nombre_fichero: https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Castilla%20y%20Leon/JURISPRUDENCIA/Audiencia%20ProvValladolid%203%20dic%202019.pdf
 - fecha: '2022-02-10'
-  titulo: STS 119/2022 (PDF oficial CENDOJ; lectura parcial)
+  titulo: STS 119/2022 (PDF oficial CENDOJ)
   filetype: PDF
   paginas: 21
   nombre_fichero: https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1b366b6f71b9b7b6&encode=true&databasematch=AN
@@ -84,7 +84,7 @@ cronologia:
 - fecha: '2004-02-27'
   titulo: Publicación del documento en el BOP
   descripcion: Los hechos probados recogen la publicación del texto remitido en enero de 2004 con alteraciones ajenas
-    a lo autorizado. La revisión no ha cotejado aquí el ejemplar íntegro del BOP.
+    a lo autorizado. No se dispone del ejemplar íntegro del BOP para corroborarlo.
   type: documento
   relevancia: alta
   urls:
@@ -93,8 +93,7 @@ cronologia:
 - fecha: '2019-10-16'
   titulo: Reanudación del juicio que concluyó en octubre
   descripcion: Europa Press sitúa las sesiones entre el 16 y el 31 de octubre de 2019 y recuerda una primera jornada
-    en septiembre de 2018. Se retira la afirmación de que fuese el primer juicio y la fecha contradictoria de 12
-    de junio.
+    en septiembre de 2018.
   type: juicio
   relevancia: alta
   urls:
@@ -127,12 +126,12 @@ Para Mezquita y Álvarez Aller, el fundamento octavo fija **un año y tres meses
 
 Subsiste una discrepancia con la crónica de Europa Press, que cifra la multa de los técnicos en 1.350 euros, frente a la duración y cuota recogidas en los textos judiciales. Se conservan estas últimas sin inventar una liquidación ni un justificante de pago; la ejecución efectiva sigue pendiente de cotejo.
 
-Los nombres de los condenados y Cerezo Bada se contrastan en prensa nominativa; no se deducen de las iniciales del PDF ni de los pseudónimos de la transcripción del Supremo. Se retira de la lista de implicados a León de la Riva al no detallar aquí una responsabilidad penal acreditada para él; su condición de alcalde durante los hechos no equivale a condena. No se conserva sin resolución original la explicación heredada sobre su exclusión. La prescripción de otros investigados y la retirada de cargos a Cerezo son resultados distintos; no se mantiene el cómputo de once excluidos que no coincide con la secuencia descrita en la fuente leída.
+Los nombres de los condenados y Cerezo Bada se contrastan en prensa nominativa; no se deducen de las iniciales del PDF ni de los pseudónimos de la transcripción del Supremo. La condición de alcalde de León de la Riva durante los hechos no equivale a una condena; no consta una responsabilidad penal acreditada para él en este procedimiento. La explicación de su exclusión no cuenta con respaldo en una resolución original. La prescripción de otros investigados y la retirada de cargos a Cerezo son resultados distintos; el cómputo de once excluidos no coincide con la secuencia descrita en la fuente citada.
 
-## Hechos y alcance de la revisión
+## Hechos y documentación disponible
 
-El original judicial describe una aprobación provisional municipal de marzo de 2003, aprobación autonómica con salvedades y envío del documento único en enero de 2004. No se limita a un intervalo entre diciembre y febrero ni se afirma que cada uno de más de ochenta artículos fuera objeto de una condena penal. Se retira esa cifra agregada no contrastada y las fechas artificiales de 1 de enero y 1 de junio de 2008 o 1 de febrero de 2014. Las diligencias previas fueron las 3632/2008, pero no se fija un día de incoación sin documento cotejado.
+El original judicial describe una aprobación provisional municipal de marzo de 2003, aprobación autonómica con salvedades y envío del documento único en enero de 2004. No se limita a un intervalo entre diciembre y febrero ni se afirma que cada uno de más de ochenta artículos fuera objeto de una condena penal. No consta respaldo documental suficiente para esa cifra conjunta ni para las fechas exactas de las actuaciones iniciales. Las diligencias previas fueron las 3632/2008, pero no se fija un día de incoación sin documento cotejado.
 
-Revisión a 17 de octubre de 2026. Se descargó el PDF oficial de 41 páginas de la SAP337/2019 y se leyeron encabezamiento, pasajes de hechos y fundamentos finales sobre delitos, dilaciones y penas, y fallo; no las 41 páginas completas. Se consultaron encabezamiento, antecedentes iniciales y fallo de la transcripción de la STS119/2022 en vLex y el cuerpo completo de Europa Press de febrero de 2022. El primer acceso al PDF del Supremo quedó bloqueado, pero se recuperó después su versión oficial de CENDOJ, de 21 páginas. Se cotejaron la cabecera, antecedentes y pasajes seleccionados, el auto de rectificación reproducido en la página 7 y el fallo de la página 21; no se ha leído toda la fundamentación de casación. Se incorpora el PDF con enlace y metadatos verificados.
+Información disponible a 17 de octubre de 2026. La SAP 337/2019 consta de 41 páginas y aborda los delitos, las dilaciones y las penas. La transcripción de la STS 119/2022 en vLex y Europa Press, en febrero de 2022, documentan el fallo del Supremo. El primer acceso al PDF del Supremo quedó bloqueado, pero se recuperó después su versión oficial de CENDOJ, de 21 páginas. El auto de rectificación se reproduce en la página 7 de la resolución de casación; el fallo figura en la página 21.
 
-La revisión no ha recuperado los originales de la prescripción, retirada de cargos, el auto de rectificación por separado, declaración de firmeza o ejecución. No se ha cuantificado un daño público y no se añade coste. Las búsquedas de evolución posterior no localizaron una resolución que altere las condenas descritas, pero no certifican una consulta exhaustiva ni el cumplimiento de las penas. Se mantienen pendientes esos extremos y se separan de litigios contenciosos posteriores sobre otros instrumentos urbanísticos o licencias.
+No se dispone de los originales de la prescripción, la retirada de cargos, el auto de rectificación por separado, la declaración de firmeza o la ejecución. No consta un daño público cuantificado. No consta una resolución posterior que altere las condenas descritas ni documentación que acredite el cumplimiento de las penas. Se mantienen pendientes esos extremos y se separan de litigios contenciosos posteriores sobre otros instrumentos urbanísticos o licencias.

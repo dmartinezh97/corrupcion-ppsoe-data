@@ -9,16 +9,60 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: En casación
 firmeza: No firme
 estado: "desconocido"
-descripcion: |
-  El Campus de la Justicia (también llamado Ciudad de la Justicia) fue un proyecto de la Comunidad de Madrid impulsado durante el primer mandato de Esperanza Aguirre (PP) para concentrar en Valdebebas las sedes judiciales de la región, excepto las de jurisdicción nacional. La sociedad pública Campus de la Justicia de Madrid S.A. se constituyó el 12 de enero de 2005 según el informe de fiscalización de la Cámara de Cuentas de Madrid (ejercicios 2005 a 2015), con la Comunidad como único accionista, y estuvo vinculada a la administración autonómica bajo la presidencia de Alfredo Prada, vicepresidente segundo y consejero de Justicia e Interior durante el Gobierno de Aguirre. Se omiten aquí los recuentos de edificios y presupuestos iniciales difundidos en prensa porque no se ha cotejado el informe original de viabilidad que permitiría precisarlos.
+descripcion: >-
+  El Campus de la Justicia (también llamado Ciudad de la Justicia) fue un proyecto de la Comunidad de Madrid
+  impulsado durante el primer mandato de Esperanza Aguirre (PP) para concentrar en Valdebebas las sedes
+  judiciales de la región, excepto las de jurisdicción nacional. La sociedad pública Campus de la Justicia de
+  Madrid S.A. se constituyó el 12 de enero de 2005 según el informe de fiscalización de la Cámara de Cuentas
+  de Madrid (ejercicios 2005 a 2015), con la Comunidad como único accionista, y estuvo vinculada a la
+  administración autonómica bajo la presidencia de Alfredo Prada, vicepresidente segundo y consejero de
+  Justicia e Interior durante el Gobierno de Aguirre. Falta el informe original de viabilidad para precisar el
+  número de edificios y los presupuestos iniciales difundidos por la prensa.
 
-  La sentencia de instancia declaró que los condenados desplegaron en la sociedad entre 2005 y 2011 una intensa actividad contractual al margen de toda previsión económica y de costes: prescindieron de los Servicios Jurídicos de la Comunidad, fraccionaron pagos, eludieron los umbrales de publicidad y concurrencia y permitieron que empresas adjudicatarias intervinieran en la elaboración de los pliegos. El complejo no llegó a funcionar: solo se construyó parcialmente el edificio del Instituto de Medicina Legal y parte de los túneles de conexión, y la sociedad quedó extinguida en 2015.
 
-  Sobre las cifras, conviene no sumarlas: la Cámara de Cuentas de Madrid cifró en 80 millones de euros el coste de ejecución de las nuevas sedes judiciales entre 2006 y 2010 (35 millones la urbanización de la fase I, 22 millones el Instituto de Medicina Legal y casi 19 millones en obras de edificios en los que no se había colocado una sola piedra) y señaló que no era posible cuantificar las pérdidas por falta de documentación; esas magnitudes son costes de ejecución y limitaciones de auditoría, no una cuantificación penal del daño total. Las sentencias fijaron responsabilidad civil: la de instancia, 40.482.735,78 euros solidarios para el autor y los tres cooperadores necesarios, con responsabilidad subsidiaria del cómplice; la de apelación, en su fallo, 10.087.479,30 euros indemnizables solidariamente por Prada, De las Heras y García de Castro más otros 310.555 euros solidarios de Prada y García de Castro (10.398.034,30 euros en total), mientras que su fundamentación cifra el perjuicio de la malversación en 10.298.034,30 euros (13 de los 25 contratos analizados). Ambas cifras son las del texto verificado; el CENDOJ vincula a la causa una tercera resolución (AAAN 2553/2025) que no se ha podido consultar.
+  La sentencia de instancia declaró que los condenados desplegaron en la sociedad entre 2005 y 2011 una
+  intensa actividad contractual al margen de toda previsión económica y de costes: prescindieron de los
+  Servicios Jurídicos de la Comunidad, fraccionaron pagos, eludieron los umbrales de publicidad y concurrencia
+  y permitieron que empresas adjudicatarias intervinieran en la elaboración de los pliegos. El complejo no
+  llegó a funcionar: solo se construyó parcialmente el edificio del Instituto de Medicina Legal y parte de los
+  túneles de conexión, y la sociedad quedó extinguida en 2015.
 
-  La causa se abrió por auto de 3 de agosto de 2018 a partir de una denuncia de la Fiscalía Anticorrupción basada en el informe de fiscalización de la Cámara de Cuentas de Madrid (marzo de 2018), en el Juzgado Central de Instrucción nº 5 de la Audiencia Nacional. El 10 de septiembre de 2024 la Sección Primera de la Sala de lo Penal condenó a Alfredo Prada a 7 años de prisión por prevaricación administrativa continuada en concurso con malversación agravada continuada (24 contratos por 40.482.735,78 euros); condenó a 3 años y 6 meses a tres directivos como cooperadores necesarios y al letrado asesor Félix José García de Castro como cómplice, y absolvió a Mariano José Sanz. El 12 de marzo de 2025 la Sala de Apelación confirmó la pena de Prada y la condena de Alicio de las Heras, absolvió de malversación a Isabelino Baños y Andrés Gómez Gordo (manteniéndoles la condena por prevaricación, con inhabilitación), rebajó a 1 año, 6 meses y 1 día la pena de Félix José García de Castro (que siguió siendo cómplice) y confirmó la absolución de Sanz. La Sala apreció malversación en 13 de los 25 contratos analizados y redujo la responsabilidad civil.
 
-  Sobre la firmeza: la sentencia de apelación era recurrible en casación ante el Tribunal Supremo al ser notificada en marzo de 2025. Una crónica de elDiario.es publicada el 16 de octubre de 2025 y actualizada el 17 refiere recursos de cargos condenados ante el Supremo, sin individualizar su situación ni aportar número de recurso o resolución. No se ha localizado una resolución de casación ni diligencia de firmeza; la firmeza actual sigue sin verificarse. Otras limitaciones: las cifras de gasto total varían mucho según la fuente y el periodo; y en octubre de 2025 el Gobierno regional inició las obras de un nuevo proyecto de Ciudad de la Justicia (presupuesto superior a 653 millones), proyecto distinto que no forma parte de esta causa. Los cargos que figuran para los implicados son los que ocupaban en la sociedad pública, extinguida en 2015.
+  Sobre las cifras, conviene no sumarlas: la Cámara de Cuentas de Madrid cifró en 80 millones de euros el
+  coste de ejecución de las nuevas sedes judiciales entre 2006 y 2010 (35 millones la urbanización de la fase
+  I, 22 millones el Instituto de Medicina Legal y casi 19 millones en obras de edificios en los que no se
+  había colocado una sola piedra) y señaló que no era posible cuantificar las pérdidas por falta de
+  documentación; esas magnitudes son costes de ejecución y limitaciones de auditoría, no una cuantificación
+  penal del daño total. Las sentencias fijaron responsabilidad civil: la de instancia, 40.482.735,78 euros
+  solidarios para el autor y los tres cooperadores necesarios, con responsabilidad subsidiaria del cómplice;
+  la de apelación, en su fallo, 10.087.479,30 euros indemnizables solidariamente por Prada, De las Heras y
+  García de Castro más otros 310.555 euros solidarios de Prada y García de Castro (10.398.034,30 euros en
+  total), mientras que su fundamentación cifra el perjuicio de la malversación en 10.298.034,30 euros (13 de
+  los 25 contratos analizados). Ambas cifras son las del texto verificado; el CENDOJ vincula a la causa una
+  tercera resolución (AAAN 2553/2025) que no se ha podido consultar.
+
+
+  La causa se abrió por auto de 3 de agosto de 2018 a partir de una denuncia de la Fiscalía Anticorrupción
+  basada en el informe de fiscalización de la Cámara de Cuentas de Madrid (marzo de 2018), en el Juzgado
+  Central de Instrucción nº 5 de la Audiencia Nacional. El 10 de septiembre de 2024 la Sección Primera de la
+  Sala de lo Penal condenó a Alfredo Prada a 7 años de prisión por prevaricación administrativa continuada en
+  concurso con malversación agravada continuada (24 contratos por 40.482.735,78 euros); condenó a 3 años y 6
+  meses a tres directivos como cooperadores necesarios y al letrado asesor Félix José García de Castro como
+  cómplice, y absolvió a Mariano José Sanz. El 12 de marzo de 2025 la Sala de Apelación confirmó la pena de
+  Prada y la condena de Alicio de las Heras, absolvió de malversación a Isabelino Baños y Andrés Gómez Gordo
+  (manteniéndoles la condena por prevaricación, con inhabilitación), rebajó a 1 año, 6 meses y 1 día la pena
+  de Félix José García de Castro (que siguió siendo cómplice) y confirmó la absolución de Sanz. La Sala
+  apreció malversación en 13 de los 25 contratos analizados y redujo la responsabilidad civil.
+
+
+  Sobre la firmeza: la sentencia de apelación era recurrible en casación ante el Tribunal Supremo al ser
+  notificada en marzo de 2025. Una crónica de elDiario.es publicada el 16 de octubre de 2025 y actualizada el
+  17 refiere recursos de cargos condenados ante el Supremo, sin individualizar su situación ni aportar número
+  de recurso o resolución. No se ha localizado una resolución de casación ni diligencia de firmeza; la firmeza
+  actual sigue sin verificarse. Otras limitaciones: las cifras de gasto total varían mucho según la fuente y
+  el periodo; y en octubre de 2025 el Gobierno regional inició las obras de un nuevo proyecto de Ciudad de la
+  Justicia (presupuesto superior a 653 millones), proyecto distinto que no forma parte de esta causa. Los
+  cargos que figuran para los implicados son los que ocupaban en la sociedad pública, extinguida en 2015.
 resumen: "Megaproyecto judicial de la Comunidad de Madrid que quedó sin culminar; el exconsejero Alfredo Prada fue condenado a 7 años por prevaricación y malversación, con firmeza actual desconocida"
 lugar: "Madrid (Valdebebas), Comunidad de Madrid"
 tribunal:
@@ -165,16 +209,16 @@ cronologia:
       - "https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1259530"
 ---
 
-## Revisión y alcance documental (2026-10-17)
+## Documentación disponible (17 de octubre de 2026)
 
-La ficha heredada citaba el informe de la Cámara de Cuentas (240 páginas) y las sentencias de instancia (98 páginas) y apelación (54 páginas). En la revisión de 17 de octubre de 2026 se han descargado de nuevo los tres PDF oficiales y cotejado sus cabeceras, número de páginas y metadatos. La lectura ha sido parcial: conclusiones sobre inmovilizado del informe, fallos de las dos sentencias y pasajes de responsabilidad civil de la apelación. También se ha inspeccionado visualmente la página final del fallo de apelación. No se atribuye a esta revisión una lectura íntegra de los 392 folios.
+Las fuentes incluyen el informe de la Cámara de Cuentas (240 páginas) y las sentencias de instancia (98 páginas) y apelación (54 páginas).
 
 ### Límites de las fuentes
 
-- **Tercera resolución no consultada.** Las cabeceras del CENDOJ de ambas sentencias listan como resoluciones del caso, además de la SAN 4440/2024 y la SAN 1165/2025, una tercera pieza (AAAN 2553/2025). No se ha podido acceder a su texto: la consulta por ECLI no ha permitido recuperar su PDF, por lo que no se incorpora como documento consultado. No se formula ninguna afirmación sobre su contenido; solo se deja constancia de su existencia.
+- **Tercera resolución no consultada.** Las cabeceras del CENDOJ de ambas sentencias listan como resoluciones del caso, además de la SAN 4440/2024 y la SAN 1165/2025, una tercera pieza (AAAN 2553/2025). No se dispone del texto original de esa resolución. La referencia acredita su existencia, no su contenido.
 - **Responsabilidad civil.** La sentencia de instancia fijó 40.482.735,78 euros solidarios para el autor y los tres cooperadores necesarios, con responsabilidad subsidiaria del cómplice; la de apelación, en su fallo, 10.398.034,30 euros (10.087.479,30 solidarios de Prada, De las Heras y García de Castro, más 310.555 solidarios de Prada y García de Castro), mientras que su fundamentación cifra el perjuicio de la malversación en 10.298.034,30 euros. Se reproducen las cifras tal como aparecen en el texto verificado, sin sumarlas a otros datos ni presentarlas como la única responsabilidad civil fijada por un tribunal.
 - **Firmeza y casación.** La sentencia de apelación era recurrible en casación al notificarse en marzo de 2025; elDiario.es informó en octubre de 2025 de recursos de cargos condenados al Supremo sin individualizarlos ni identificar el procedimiento. No se ha localizado la resolución de casación o la diligencia de firmeza, de modo que no se declara firme la condena de ninguna persona a partir de esa noticia.
-- **Cifras de gasto.** Los 80 millones de la Cámara de Cuentas (2006-2010), la responsabilidad civil de las sentencias y la inversión anunciada para el nuevo proyecto son conceptos distintos; no se suman. Se retiran del relato las cifras periodísticas de 98, más de 105 y 350-355 millones al no disponer de una conciliación documental de sus ámbitos ni de los documentos originales que permitirían compararlas.
+- **Cifras de gasto.** Los 80 millones de la Cámara de Cuentas (2006-2010), la responsabilidad civil de las sentencias y la inversión anunciada para el nuevo proyecto son conceptos distintos; no se suman. Las cifras periodísticas de 98, más de 105 y 350–355 millones corresponden a ámbitos que no pueden compararse sin una conciliación documental.
 - **Declaración de Esperanza Aguirre.** Europa Press publicó el 19 de marzo de 2024 una crónica de su declaración como testigo ese mismo martes. Esta fuente permite confirmar el acto, más allá del anuncio de citación; la fecha no se deduce de una noticia posterior. No se le atribuye condición de acusada en esta pieza.
 - **Informe de la Cámara de Cuentas.** La versión utilizada es la que incorpora la corrección de errores de 26 de abril de 2018; la fecha del acuerdo de aprobación del Consejo es la de 22 de marzo de 2018.
 
@@ -186,18 +230,18 @@ La responsabilidad civil inicial tampoco se repartía igual entre todos: el fall
 
 ### Gasto público y comprobaciones pendientes
 
-Se retira el campo agregado de coste de 355 millones de euros porque corresponde a una estimación periodística del gasto del proyecto, no al daño fijado en la causa. Los 80 millones del informe fiscalizador describen costes de ejecución de 2006-2010; su conclusión sobre la insuficiencia documental impide convertirlos automáticamente en pérdidas probadas.
+Los 355 millones de euros corresponden a una estimación periodística del gasto del proyecto, no al daño fijado en la causa. Los 80 millones del informe fiscalizador describen costes de ejecución de 2006-2010; su conclusión sobre la insuficiencia documental impide convertirlos automáticamente en pérdidas probadas.
 
-Los metadatos del PDF de apelación indican una creación del archivo en abril de 2026, pero la cabecera y el fallo pertenecen a la sentencia de 12 de marzo de 2025: esa fecha técnica no acredita una nueva decisión ni firmeza. Los PDF del CENDOJ están anonimizados. En la revisión correctiva se recuperaron también una copia judicial nominativa de la sentencia de instancia y del auto de transformación de 12 de noviembre de 2020, alojadas en Los Genoveses. Se leyeron los encabezamientos nominales, antecedentes y pasajes de cargos de la sociedad, además del fallo de instancia. Esas copias identifican expresamente a los seis acusados; no se reconstruyen nombres a partir de los seudónimos ni de las iniciales del comunicado. No se reproducen sus datos privados de filiación. Falta cotejar el auto relacionado por CENDOJ y el recorrido de casación de cada condenado. Se mantiene `completado: false`.
+Los metadatos del PDF de apelación indican una creación del archivo en abril de 2026, pero la cabecera y el fallo pertenecen a la sentencia de 12 de marzo de 2025: esa fecha técnica no acredita una nueva decisión ni firmeza. Los PDF del CENDOJ están anonimizados. Los Genoveses aloja copias judiciales nominativas de la sentencia de instancia y del auto de transformación de 12 de noviembre de 2020. Esas copias identifican expresamente a los seis acusados; no se reconstruyen nombres a partir de los seudónimos ni de las iniciales del comunicado. No se reproducen sus datos privados de filiación. Falta cotejar el auto relacionado por CENDOJ y el recorrido de casación de cada condenado.
 
 La información sobre recursos procede de [elDiario.es, noticia de octubre de 2025](https://www.eldiario.es/madrid/ayuso-vuelve-lugar-crimen-ciudad-justicia-agujero-350-millones-penas-carcel-cargos-pp_1_12687423.html). El resultado penal se contrasta con el [comunicado oficial sobre la apelación](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Sala-de-Apelacion-de-la-Audiencia-Nacional-confirma-siete-anos-de-carcel-para-el-exvicepresidente-de-la-CAM-por-prevaricacion-y-malversacion-en-la-construccion-del-Campus-de-la-Justicia) y los PDF oficiales enlazados en documentos.
 
-### Revisión correctiva de la historia y los nombres
+### Antecedentes e identidades
 
 Se contrastaron el anuncio BOE-B-2007-297149 (publicación de 12 de diciembre y firma de 30 de noviembre de 2007), la constitución y extinción de la sociedad en el informe fiscalizador (apartados I.2.1 y I.2.3), su conclusión cuarta sobre inmovilizado (páginas internas 205-206), los antecedentes primero a octavo de la sentencia nominativa de instancia y el encabezamiento y lista de investigados del auto de 12 de noviembre de 2020. El nombre del archivo de este último menciona el día 11, pero su portada y su texto fijan el 12; prevalece el documento. La sentencia distingue la formación de la pieza el 11 de noviembre de su transformación el 12.
 
 La sociedad se extinguió según escritura de 18 de febrero de 2015; esto no equivale al cierre de la causa penal. La historia posterior de la instrucción se refiere a la pieza CJM fase 1 enjuiciada, sin dar por resueltas posibles actuaciones sobre otros periodos. El presupuesto inicial de 516 millones y el número exacto de edificios quedan fuera del relato verificado por falta de cotejo del estudio original de viabilidad. La información sobre el nuevo proyecto de 2025 se limita a lo que afirma su nota oficial y no se usa para valorar el perjuicio del proyecto anterior.
 
-Fuentes nominativas consultadas: [sentencia de instancia, copia judicial](https://losgenoveses.net/Personajes%20Populares/Prada%2C%20Alfredo/Audiencia%20Nacional.%20Sala%20Penal.%20Seccion%201.%20Sentencia%20Campus%20de%20la%20Justicia.%2010.09.24.pdf) y [auto de transformación, copia judicial](https://www.losgenoveses.net/Personajes%20Populares/Prada%2C%20Alfredo/Campus%20Justicia/Audiencia%20Nacional.%20JCI%205.%20Ciudad%20de%20la%20Justicia/JCI%205.%20Auto%20de%20transformacion.11.11.20.pdf). La lectura fue selectiva, no íntegra: encabezamientos, antecedentes indicados, cargos y fallo de instancia, además de los pasajes económicos ya delimitados.
+Fuentes nominativas consultadas: [sentencia de instancia, copia judicial](https://losgenoveses.net/Personajes%20Populares/Prada%2C%20Alfredo/Audiencia%20Nacional.%20Sala%20Penal.%20Seccion%201.%20Sentencia%20Campus%20de%20la%20Justicia.%2010.09.24.pdf) y [auto de transformación, copia judicial](https://www.losgenoveses.net/Personajes%20Populares/Prada%2C%20Alfredo/Campus%20Justicia/Audiencia%20Nacional.%20JCI%205.%20Ciudad%20de%20la%20Justicia/JCI%205.%20Auto%20de%20transformacion.11.11.20.pdf).
 
 El nombre de Esperanza Aguirre Gil de Biedma y su condición de presidenta se contrastan además en el [Real Decreto 1427/2003, de 20 de noviembre](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2003-21196), publicado el día 21. El decreto acredita ese nombramiento, no su testimonio de 2024, que se apoya en la crónica presencial citada.

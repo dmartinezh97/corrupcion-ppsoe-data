@@ -75,4 +75,4 @@ La [información publicada el 22 de marzo de 2017](https://arainfo.org/el-jurado
 
 Agapito Iglesias, José María Jordán y Marcelino Iglesias no figuran aquí como acusados del kartódromo por sus papeles en otras actuaciones o en el contexto político. Tampoco se trasladan las condenas, trabajos comunitarios, cifras globales o resultados de las demás causas Plaza. La [información de 2018](https://www.aragondigital.es/articulo/sucesos/plaza-desliga-corrupcion/20180629113400579133.html) distingue expresamente el kartódromo de las naves y del procedimiento principal.
 
-No se ha localizado un PDF judicial original verificable de esta pieza. La nota oficial y los cuerpos periodísticos se han leído, pero no sustituyen la lectura íntegra del auto, el acta del jurado y la sentencia. Documentos permanece vacío y la revisión incompleta por esas lagunas.
+No se ha localizado un PDF judicial original verificable de esta pieza. La nota oficial y las noticias no sustituyen al auto, el acta del jurado y la sentencia originales. No se dispone de los originales judiciales que permitan resolver esas lagunas.

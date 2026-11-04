@@ -111,7 +111,7 @@ cronologia:
 
 La investigación se refería a ayudas para formación concedidas a la empresa hostelera El Paraíso de la Dehesa. Las noticias iniciales atribuyeron a la Policía sospechas sobre los requisitos de las ayudas y su justificación. No se presentan esas sospechas como hechos probados por una sentencia. La declaración del alcalde de junio de 2015 fue ante la Policía; el archivo provisional comunicado en marzo de 2017 es una decisión procesal distinta de una absolución.
 
-Se retira el coste de 1.053.434 euros: la prensa lo ofrecía como volumen acumulado de subvenciones, no como perjuicio declarado judicialmente. Las referencias al conjunto de empresas, a diferentes convocatorias y a una ayuda concreta de 2011 tampoco son cantidades intercambiables. Falta cotejar todas las concesiones, pagos, renuncias y reintegros con los expedientes originales. Se omiten las marcas y compras alimentarias concretas de la versión anterior, cuya atribución y relevancia penal no se han revalidado mediante atestado o resolución original.
+Los 1.053.434 euros corresponden, según la prensa, al volumen acumulado de subvenciones, no a un perjuicio declarado judicialmente. Las referencias al conjunto de empresas, a diferentes convocatorias y a una ayuda concreta de 2011 tampoco son cantidades intercambiables. Falta cotejar todas las concesiones, pagos, renuncias y reintegros con los expedientes originales. No están corroboradas mediante atestado o resolución original la atribución y relevancia penal de las compras alimentarias concretas.
 
 ## Archivos y piezas diferentes
 
@@ -121,8 +121,8 @@ La información de Efe difundida el 5 de julio de 2018 se refiere al archivo de 
 
 La ficha no extiende a toda la macrocausa EDU los archivos de Huelva ni traslada a esta empresa decisiones dictadas en otras provincias o en la pieza política de Sevilla.
 
-## Documentos y revisión pendiente
+## Documentación pendiente
 
-El BORME permite corregir los cargos societarios: María del Carmen fue nombrada administradora única y los dos Domínguez Rodríguez apoderados solidarios. La inscripción es de 5 de enero de 2012 y la publicación de 20 de enero. No se deduce de esos actos una intención de separar u ocultar responsabilidades. Se han leído los asientos 28081 y 28082 de la página 2 del PDF de ocho páginas y se han comprobado visualmente; no se afirma lectura de los demás asientos.
+El BORME permite corregir los cargos societarios: María del Carmen fue nombrada administradora única y los dos Domínguez Rodríguez apoderados solidarios. La inscripción es de 5 de enero de 2012 y la publicación de 20 de enero. No se deduce de esos actos una intención de separar u ocultar responsabilidades. Los asientos 28081 y 28082 figuran en la página 2 del documento de ocho páginas.
 
-No se han localizado los autos judiciales originales que delimiten los archivos de 2017 y 2018, sus recursos, su firmeza o la pieza por falsedad documental. El documento incorporado es mercantil, no una resolución penal. Quedan pendientes esos extremos, la conciliación documental de las ayudas y las posibles novedades hasta el 17 de octubre de 2026. Por ello no se fija fecha de cierre y la revisión permanece incompleta.
+No se han localizado los autos judiciales originales que delimiten los archivos de 2017 y 2018, sus recursos, su firmeza o la pieza por falsedad documental. El documento incorporado es mercantil, no una resolución penal. Quedan pendientes esos extremos, la conciliación documental de las ayudas y las posibles novedades hasta el 17 de octubre de 2026. Por ello no se fija fecha de cierre y persisten esas carencias documentales.

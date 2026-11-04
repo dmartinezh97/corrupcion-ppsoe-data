@@ -8,33 +8,36 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Instrucción por jurado documentada; evolución posterior no acreditada
-descripcion: 'Investigación por posibles incompatibilidades y negocios privados del antiguo jefe de Planeamiento
-  urbanístico de Murcia, Joaquín Peñalver, y su entorno. La nota oficial del CGPJ de 29 de marzo de 2022 describe
-  como principales investigados al jefe del servicio entre 1999 y marzo de 2006 y a su esposa, señalada por la Fiscalía
-  como persona interpuesta en Urbasa Mediterránea SA y Peñalver Arquitectos y Asociados SL. La investigación examina
-  posibles delitos de cohecho, tráfico de influencias, negociaciones prohibidas a funcionarios y uso de información
-  privilegiada, sin que estos indicios equivalgan a culpabilidad.
+descripcion: >-
+  Investigación por posibles incompatibilidades y negocios privados del antiguo jefe de Planeamiento
+  urbanístico de Murcia, Joaquín Peñalver, y su entorno. La nota oficial del CGPJ de 29 de marzo de 2022
+  describe como principales investigados al jefe del servicio entre 1999 y marzo de 2006 y a su esposa,
+  señalada por la Fiscalía como persona interpuesta en Urbasa Mediterránea SA y Peñalver Arquitectos y
+  Asociados SL. La investigación examina posibles delitos de cohecho, tráfico de influencias, negociaciones
+  prohibidas a funcionarios y uso de información privilegiada, sin que estos indicios equivalgan a
+  culpabilidad.
 
 
-  En marzo de 2022, el Juzgado de Instrucción nº 4 de Murcia transformó las diligencias previas 1938/2007 en procedimiento
-  ante tribunal del jurado respecto de 20 investigados. Esa transformación abría una nueva fase instructora, con
-  comparecencias y decisiones aún pendientes sobre continuación, diligencias o sobreseimiento; no era apertura de
-  juicio oral ni señalamiento de vista. En una segunda resolución se archivaron las actuaciones respecto de otros
-  siete empresarios por no quedar acreditados los indicios. La comunicación oficial advertía de que cabía reforma
-  y no era firme entonces; no se acredita el resultado posterior de posibles recursos.
+  En marzo de 2022, el Juzgado de Instrucción nº 4 de Murcia transformó las diligencias previas 1938/2007 en
+  procedimiento ante tribunal del jurado respecto de 20 investigados. Esa transformación abría una nueva fase
+  instructora, con comparecencias y decisiones aún pendientes sobre continuación, diligencias o
+  sobreseimiento; no era apertura de juicio oral ni señalamiento de vista. En una segunda resolución se
+  archivaron las actuaciones respecto de otros siete empresarios por no quedar acreditados los indicios. La
+  comunicación oficial advertía de que cabía reforma y no era firme entonces; no se acredita el resultado
+  posterior de posibles recursos.
 
 
-  La información publicada el 16 de noviembre de 2025 situaba Barraca todavía sin fecha de juicio. No se ha acreditado
-  una resolución posterior hasta el 17 de octubre de 2026, por lo que ese dato no se proyecta como situación vigente.
-  Faltan los autos originales, la relación nominal de los 20 investigados y de los siete beneficiados por el archivo,
-  sus recursos y resultados individuales. La investigación de José López Rejas está documentada en 2015, pero no
-  su situación posterior. No se acredita sentencia.
+  La información publicada el 16 de noviembre de 2025 situaba Barraca todavía sin fecha de juicio. No se ha
+  acreditado una resolución posterior hasta el 17 de octubre de 2026, por lo que ese dato no se proyecta como
+  situación vigente. Faltan los autos originales, la relación nominal de los 20 investigados y de los siete
+  beneficiados por el archivo, sus recursos y resultados individuales. La investigación de José López Rejas
+  está documentada en 2015, pero no su situación posterior. No se acredita sentencia.
 
 
-  Los 4,17 millones de euros citados en la versión anterior describían ingresos atribuidos al entorno familiar,
-  no un perjuicio judicialmente declarado. Tampoco un enriquecimiento presunto, una fianza solicitada o el volumen
-  de negocios constituyen automáticamente daño probado. Se omite un coste cuantificado al faltar respaldo suficiente.
-  Barraca y Umbra son procedimientos distintos y sus resultados no se trasladan entre sí.'
+  Los 4,17 millones de euros describen ingresos atribuidos al entorno familiar, no un perjuicio judicialmente
+  declarado. Tampoco un enriquecimiento presunto, una fianza solicitada o el volumen de negocios constituyen
+  automáticamente daño probado. No consta un daño cuantificado con respaldo suficiente. Barraca y Umbra son
+  procedimientos distintos y sus resultados no se trasladan entre sí.
 resumen: Presuntas incompatibilidades y negocios del exjefe de Planeamiento de Murcia; instrucción por jurado y
   archivos parciales documentados.
 lugar: Murcia, Región de Murcia, España

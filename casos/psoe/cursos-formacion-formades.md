@@ -7,31 +7,33 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas de primera instancia; recursos y ejecución pendientes de verificar
-descripcion: 'La pieza Formades examina la gestión de tres subvenciones de 2008, 2009 y 2010 concedidas al Consorcio
-  Centro Andaluz de Formación Medioambiental para el Desarrollo Sostenible, ubicado en Almonte (Huelva). La sentencia
-  233/2022 de la Sección Tercera de la Audiencia de Sevilla, dictada el 7 de junio de 2022, condenó a su exgerente
-  Ana María Orihuela, identificada por la prensa como exconcejala del PSOE, y a otros tres acusados.
+descripcion: >-
+  La pieza Formades examina la gestión de tres subvenciones de 2008, 2009 y 2010 concedidas al Consorcio
+  Centro Andaluz de Formación Medioambiental para el Desarrollo Sostenible, ubicado en Almonte (Huelva). La
+  sentencia 233/2022 de la Sección Tercera de la Audiencia de Sevilla, dictada el 7 de junio de 2022, condenó
+  a su exgerente Ana María Orihuela, identificada por la prensa como exconcejala del PSOE, y a otros tres
+  acusados.
 
 
-  La gerente recibió cuatro años y seis meses de prisión y ocho años y seis meses de inhabilitación especial para
-  empleo o cargo público por prevaricación continuada en concurso medial con malversación. Su hijo Manuel Ramírez
-  Orihuela y su sobrino Cristóbal Ojeda Orihuela fueron condenados como cooperadores necesarios de malversación
-  continuada a dos años de prisión y cuatro de inhabilitación cada uno. Juan Francisco Millán Lozano, veterinario
-  y docente, recibió dos años y seis meses de prisión y cuatro años y seis meses de inhabilitación por cooperación
-  necesaria en prevaricación y malversación continuadas. El fallo atribuye a los cuatro, además, inhabilitación
-  para el sufragio pasivo durante la condena.
+  La gerente recibió cuatro años y seis meses de prisión y ocho años y seis meses de inhabilitación especial
+  para empleo o cargo público por prevaricación continuada en concurso medial con malversación. Su hijo Manuel
+  Ramírez Orihuela y su sobrino Cristóbal Ojeda Orihuela fueron condenados como cooperadores necesarios de
+  malversación continuada a dos años de prisión y cuatro de inhabilitación cada uno. Juan Francisco Millán
+  Lozano, veterinario y docente, recibió dos años y seis meses de prisión y cuatro años y seis meses de
+  inhabilitación por cooperación necesaria en prevaricación y malversación continuadas. El fallo atribuye a
+  los cuatro, además, inhabilitación para el sufragio pasivo durante la condena.
 
 
-  El tribunal apreció contrataciones irregulares y gastos ajenos a la formación, incluidos regalos y pagos ligados
-  a la participación de la gerente como Melchor en 2009. Fijó obligaciones de restitución e indemnización por 939.702,10
-  euros de principal, sin duplicar la solidaridad de la gerente. Esta cifra no equivale al volumen total subvencionado
-  ni al déficit de justificación administrativa.
+  El tribunal apreció contrataciones irregulares y gastos ajenos a la formación, incluidos regalos y pagos
+  ligados a la participación de la gerente como Melchor en 2009. Fijó obligaciones de restitución e
+  indemnización por 939.702,10 euros de principal, sin duplicar la solidaridad de la gerente. Esta cifra no
+  equivale al volumen total subvencionado ni al déficit de justificación administrativa.
 
 
-  La sentencia advierte expresamente que no era firme y que cabía apelación ante el Tribunal Superior de Justicia
-  de Andalucía. Al corte del 17 de octubre de 2026 no se ha localizado una resolución posterior que permita verificar
-  el resultado de los recursos, la firmeza o la ejecución; por ello la revisión permanece incompleta y no se fija
-  una fecha final global.'
+  La sentencia advierte expresamente que no era firme y que cabía apelación ante el Tribunal Superior de
+  Justicia de Andalucía. Al corte del 17 de octubre de 2026 no se ha localizado una resolución posterior que
+  permita verificar el resultado de los recursos, la firmeza o la ejecución; no consta una fecha de cierre
+  global.
 resumen: 'Condena de primera instancia de junio de 2022 por la gestión de Formades: cuatro acusados y 939.702,10
   euros de responsabilidad civil, sin firmeza posterior verificada.'
 coste: 939702.1
@@ -90,10 +92,9 @@ cronologia:
   relevancia: alta
 - fecha: '2015-03-25'
   titulo: Libertad con cargos de la exgerente tras la operación Barrado
-  descripcion: Europa Press informa de que la jueza Mercedes Alaya había dejado en libertad con cargos esa madrugada
-    a Ana María Orihuela, exgerente de Formades, tras su detención en la operación Barrado. Se corrige la fecha
-    sintética de detención de enero de 2014 de la ficha anterior; esta entrada documenta la puesta en libertad comunicada
-    el 25 de marzo de 2015.
+  descripcion: Europa Press informa de que la jueza Mercedes Alaya había dejado en libertad con cargos esa madrugada a
+    Ana María Orihuela, exgerente de Formades, tras su detención en la operación Barrado. La puesta en libertad
+    se comunicó el 25 de marzo de 2015.
   urls:
   - https://www.europapress.es/andalucia/sevilla-00357/noticia-juez-alaya-deja-libertad-cargos-exdelegada-empleo-marina-martin-20150325154637.html
   type: investigacion
@@ -133,13 +134,13 @@ cronologia:
 
 ## Alcance de la pieza y de la sentencia
 
-La fuente judicial cotejada es la [sentencia 233/2022, de 7 de junio](https://static.grupojoly.com/joly/public/content/file/original/2022/0608/10/sentencia-formades.pdf), del procedimiento abreviado 10598/2019. Se ha leído una selección de sus 227 páginas: cabecera, antecedentes iniciales, contexto de las subvenciones, gastos de la cabalgata, fundamentos de responsabilidad civil y fallo. No se presenta como una lectura íntegra de la prueba y de todos los fundamentos.
+La fuente judicial cotejada es la [sentencia 233/2022, de 7 de junio](https://static.grupojoly.com/joly/public/content/file/original/2022/0608/10/sentencia-formades.pdf), del procedimiento abreviado 10598/2019. La sentencia consta de 227 páginas y aborda las subvenciones, los gastos de la cabalgata y la responsabilidad civil.
 
 Los nombres completos proceden del [cuerpo de la información de elDiario.es de 8 de junio de 2022](https://www.eldiario.es/andalucia/huelva/condenada-cuatro-anos-medio-carcel-prevaricacion-exgerente-consorcio-andaluz-formacion_1_9063164.html), que identifica a los cuatro acusados y sus penas; el PDF utiliza iniciales. La condición de exconcejala socialista de la gerente aparece también en la prensa histórica y en La Voz del Sur. No se deducen identidades de seudónimos judiciales.
 
 ## Importes sin doble cómputo
 
-El principal civil del fallo suma **939.702,10 euros**: 40.078,16 a cargo de la gerente por otros gastos irregulares, más 452.895,82 del hijo, 38.495,94 del sobrino y 408.232,18 del veterinario. Las tres últimas cantidades suman 899.623,94 euros y son también objeto de responsabilidad solidaria de la gerente: esa solidaridad no se suma de nuevo. El campo `coste` recoge este principal civil fijado en primera instancia, sujeto al resultado de los recursos, sin intereses ni costas.
+El principal civil del fallo suma **939.702,10 euros**: 40.078,16 a cargo de la gerente por otros gastos irregulares, más 452.895,82 del hijo, 38.495,94 del sobrino y 408.232,18 del veterinario. Las tres últimas cantidades suman 899.623,94 euros y son también objeto de responsabilidad solidaria de la gerente: esa solidaridad no se suma de nuevo. Ese principal civil está fijado en primera instancia, sujeto al resultado de los recursos, y no incluye intereses ni costas.
 
 Los fundamentos de las páginas 217–221 distinguen la devolución íntegra de prestaciones de contratos con causa ilícita del déficit de justificación de las subvenciones. La Sala rechazó trasladar automáticamente a la responsabilidad civil penal de la gerente la totalidad del déficit de justificación de **1.320.850 euros** pedido por las acusaciones. Por tanto, ni ese déficit ni los aproximadamente **5,55 millones subvencionados** se contabilizan como otro daño añadido. La restitución contractual tampoco significa que todos los servicios fueran inexistentes.
 
@@ -147,8 +148,8 @@ Los gastos de regalos y caramelos ligados a Melchor (6.555,15 euros) y el desayu
 
 ## Estado pendiente de verificar al 17 de octubre de 2026
 
-La página 227 declara expresamente que la sentencia no era firme y permitía apelación ante la Sala de lo Civil y Penal del TSJA. La búsqueda de resoluciones posteriores no ha permitido documentar la interposición o el resultado de esa apelación, una casación o una declaración de firmeza. Tampoco se ha verificado ingreso en prisión, suspensión de penas o cobro de la responsabilidad civil. La ausencia de resultados accesibles no demuestra que no existieran recursos.
+La página 227 declara expresamente que la sentencia no era firme y permitía apelación ante la Sala de lo Civil y Penal del TSJA. No constan la interposición o el resultado de esa apelación, una casación o una declaración de firmeza. Tampoco se ha verificado ingreso en prisión, suspensión de penas o cobro de la responsabilidad civil. La ausencia de resultados accesibles no demuestra que no existieran recursos.
 
-Se retira la afirmación heredada de condena firme y la fecha final global de junio de 2022. `estado: Condenas de primera instancia; recursos y ejecución pendientes de verificar` refleja el estado final pendiente de cotejo, no acredita por sí solo un recurso vivo. `completado: false` mantiene visible esta limitación. La fecha exacta de los primeros hechos no se fija artificialmente en un 1 de enero; 2014 identifica el año de la investigación general y de las noticias históricas recogidas.
+No están acreditadas la firmeza de la condena ni una fecha de cierre global en junio de 2022. Se conocen condenas de primera instancia, pero faltan datos sobre los recursos y la ejecución; esto no acredita por sí solo que exista un recurso pendiente. No consta la fecha exacta de los primeros hechos; 2014 identifica el año de la investigación general y de las noticias históricas recogidas.
 
 Las controversias laborales de Formades y la evolución de la pieza política general de los cursos son procedimientos diferentes. Sus archivos, recursos o sentencias no sustituyen el resultado de esta pieza penal contra cuatro personas.

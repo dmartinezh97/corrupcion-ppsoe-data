@@ -52,9 +52,8 @@ documentos: []
 cronologia:
 - fecha: '2014-03-10'
   titulo: Detenciones del alcalde y de un concejal de Archena
-  descripcion: La información de agencias comunica las detenciones de López Ayala y Palazón por orden del Juzgado
-    n.º 4 de Cieza, en una causa secreta relacionada con la asesoría. No se utiliza el día 1 de marzo de la ficha
-    anterior.
+  descripcion: La información de agencias comunica las detenciones de López Ayala y Palazón por orden del Juzgado n.º
+    4 de Cieza, en una causa secreta relacionada con la asesoría.
   urls:
   - https://www.libertaddigital.com/espana/2014-03-10/detienen-al-alcalde-de-villanueva-del-segura-y-a-un-edil-de-archena-1276512708/
   type: detencion
@@ -91,12 +90,12 @@ cronologia:
 
 El asunto tuvo una vertiente relativa a facturas emitidas desde sociedades vinculadas a una asesoría y otra sobre decisiones y contratos municipales. Las sospechas sobre préstamos, ingresos en efectivo y sociedades interpuestas descritas durante la instrucción no se convierten, por sí solas, en prueba de todos los delitos atribuidos inicialmente.
 
-La cobertura de 2019 describe indicios de facturación ficticia y adjudicación directa de obras, y sitúa el comienzo de la investigación a finales de 2013. No permite fijar un día exacto de apertura. La resolución entonces comunicada era de procedimiento abreviado, con traslado a las acusaciones, y contenía también archivos. Se elimina el hito ficticio del 1 de enero de 2020 que confundía la petición fiscal con una decisión judicial.
+La cobertura de 2019 describe indicios de facturación ficticia y adjudicación directa de obras, y sitúa el comienzo de la investigación a finales de 2013. No permite fijar un día exacto de apertura. La resolución entonces comunicada era de procedimiento abreviado, con traslado a las acusaciones, y contenía también archivos. La petición fiscal no equivale a una decisión judicial.
 
-La información de mayo de 2026 supone una actualización sustancial respecto a mantener el caso simplemente en investigación. Radio Murcia/EFE comunica penas acordadas, mientras RTVE describe el reconocimiento de hechos al comenzar el juicio. No se dispone del fallo que permita reconciliar de forma completa el acuerdo, la sentencia y su ejecución respecto de todas las personas. Las afirmaciones periodísticas sobre que no habría ingreso en prisión no se sustituyen por una comprobación del auto de suspensión o de sus condiciones.
+La información de mayo de 2026 sitúa el procedimiento en la fase de juicio. Radio Murcia/EFE comunica penas acordadas, mientras RTVE describe el reconocimiento de hechos al comenzar el juicio. No se dispone del fallo que permita reconciliar de forma completa el acuerdo, la sentencia y su ejecución respecto de todas las personas. Las afirmaciones periodísticas sobre que no habría ingreso en prisión no se sustituyen por una comprobación del auto de suspensión o de sus condiciones.
 
-Se retira el coste de 5,5 millones: la cobertura más reciente habla de alrededor de seis millones en facturas falsas. Ninguna de ambas cantidades equivale automáticamente a deuda tributaria, responsabilidad civil, beneficio de la asesoría o daño municipal. Tampoco el valor de préstamos y los ingresos en efectivo investigados pueden sumarse como un perjuicio público declarado.
+Los 5,5 millones no están acreditados como daño: la cobertura más reciente habla de alrededor de seis millones en facturas falsas. Ninguna de ambas cantidades equivale automáticamente a deuda tributaria, responsabilidad civil, beneficio de la asesoría o daño municipal. Tampoco el valor de préstamos y los ingresos en efectivo investigados pueden sumarse como un perjuicio público declarado.
 
-La lista de personas identificadas es parcial. No se mantiene a Antonio Francisco Rojo Campoy ni a una persona citada únicamente como Elías B. S. bajo una condición procesal actual que no se ha podido contrastar con fuentes suficientes. Su omisión no afirma que fueran absueltos ni que quedaran al margen de la investigación inicial. Falta el resultado individual de Díaz Marín y de los demás afectados por los archivos y el juicio.
+La lista de personas identificadas es parcial. No consta una participación acreditada de Antonio Francisco Rojo Campoy ni de la persona citada únicamente como Elías B. S. bajo una condición procesal actual que no se ha podido contrastar con fuentes suficientes. Su omisión no afirma que fueran absueltos ni que quedaran al margen de la investigación inicial. Falta el resultado individual de Díaz Marín y de los demás afectados por los archivos y el juicio.
 
 La deducción de testimonio por posible delito electoral de 2015 tiene un objeto que no debe darse por resuelto con las condenas de conformidad comunicadas en 2026. Tampoco se mantienen como hechos acreditados la expulsión del PP o el efecto causal sobre las elecciones de 2015 sin documentación suficiente. Las lagunas pendientes impiden afirmar que todas las vertientes del expediente hayan concluido o que las condenas comunicadas sean firmes.

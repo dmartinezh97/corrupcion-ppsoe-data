@@ -46,8 +46,8 @@ implicados:
     Press.
 - nombre: Fernando Roig
   cargo: Empresario y accionista fundador de Valmor Sports
-  rol: Se documenta su participación societaria. Las fuentes leídas no permiten mantener la condición heredada de
-    investigado en diversas piezas.
+  rol: Se documenta su participación societaria. Las fuentes citadas no acreditan su condición de investigado
+    en las distintas piezas.
 - nombre: Jorge Martínez, Aspar
   cargo: Expiloto, empresario y responsable de Valmor
   rol: Investigado en el ámbito de organización/aval; sus actuaciones fueron archivadas antes de que la investigación
@@ -174,9 +174,9 @@ Existen discrepancias cronológicas adicionales: la memoria fiscal sitúa en oct
 
 El Tribunal de Cuentas resolvió un procedimiento de reintegro distinto de la causa penal. El fallo de 11 de junio de 2019 desestimó íntegramente la demanda y no apreció responsabilidad contable, de modo que no necesitó analizar la prescripción alegada. La apelación desestimada se conoce por información nominal de À Punt de julio de 2020; falta su original. Las iniciales de los demandados del PDF no se reconstruyen como identidades: los nombres citados se apoyan en fuentes nominales.
 
-El precio simbólico de la compra, cercano a un euro, no debe confundirse con las deudas asumidas, el valor patrimonial negativo invocado en la reclamación o el conjunto de gastos de organizar las carreras. La cifra cercana a 89 millones citada en la investigación de la obra era su coste, no una malversación probada. Se retira la cuantía global de 300 millones del campo de daño, al no acreditarse como perjuicio judicial atribuible a los implicados.
+El precio simbólico de la compra, cercano a un euro, no debe confundirse con las deudas asumidas, el valor patrimonial negativo invocado en la reclamación o el conjunto de gastos de organizar las carreras. La cifra cercana a 89 millones citada en la investigación de la obra era su coste, no una malversación probada. Los 300 millones no están acreditados como perjuicio judicial atribuible a los implicados.
 
-La falta de originales penales, de la sentencia contable de apelación y de testimonios de firmeza impide completar la revisión. Las búsquedas hasta el 17 de octubre de 2026 no aportaron una nueva resolución propia verificable, sin que ello pruebe que no existan actuaciones posteriores.
+Faltan los originales penales, la sentencia contable de apelación y los testimonios de firmeza. Al 17 de octubre de 2026, no consta una nueva resolución verificable de esta causa; ello no demuestra la inexistencia de actuaciones posteriores.
 
 ## Fuentes
 

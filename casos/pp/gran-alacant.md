@@ -8,12 +8,27 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "desconocido"
-descripcion: |
-  Procedimiento por la gestión de una clínica privada en dependencias municipales de Gran Alacant, en Santa Pola (Alicante). La sentencia 192/2025 de la Audiencia Provincial de Alicante, de 13 de mayo, consideró probado que el entonces alcalde del PP Miguel Zaragoza y el concejal de Personal Jorge Perelló toleraron incumplimientos de la concesionaria a cambio de contratar a personas de su entorno. El contrato de concesión se firmó el 13 de marzo de 2006; preveía un canon anual de 10.920 euros y diversas prestaciones, entre ellas el seguimiento de bajas del personal municipal.
+descripcion: >-
+  Procedimiento por la gestión de una clínica privada en dependencias municipales de Gran Alacant, en Santa
+  Pola (Alicante). La sentencia 192/2025 de la Audiencia Provincial de Alicante, de 13 de mayo, consideró
+  probado que el entonces alcalde del PP Miguel Zaragoza y el concejal de Personal Jorge Perelló toleraron
+  incumplimientos de la concesionaria a cambio de contratar a personas de su entorno. El contrato de concesión
+  se firmó el 13 de marzo de 2006; preveía un canon anual de 10.920 euros y diversas prestaciones, entre ellas
+  el seguimiento de bajas del personal municipal.
 
-  La Audiencia condenó a Zaragoza, Perelló y los médicos Fernando Gómez Soler y Manuel Rodríguez Bernal a seis años y medio de prisión para cada uno por prevaricación en concurso con fraude y por cohecho. Pilar Zaragoza recibió dos años y tres meses como cómplice de cohecho. Loreto Cascales, Francisco Martín y Antonio Jesús Martínez fueron absueltos. La indemnización de 109.371,96 euros corresponde solidariamente a los cuatro primeros condenados, no a Pilar; de ella ya se habían abonado 13.022,96 euros.
 
-  El 21 de mayo de 2025 se informó de una aclaración de la Audiencia que habilitaba la apelación ante el Tribunal Superior de Justicia valenciano, corrigiendo la indicación inicial de casación directa. No se ha verificado la resolución de una eventual apelación, la firmeza individual de los pronunciamientos ni nuevas decisiones de este procedimiento en 2026. El estado actual queda, por tanto, sin determinar: la condena de primera instancia no se presenta como firme ni como cierre definitivo.
+  La Audiencia condenó a Zaragoza, Perelló y los médicos Fernando Gómez Soler y Manuel Rodríguez Bernal a seis
+  años y medio de prisión para cada uno por prevaricación en concurso con fraude y por cohecho. Pilar Zaragoza
+  recibió dos años y tres meses como cómplice de cohecho. Loreto Cascales, Francisco Martín y Antonio Jesús
+  Martínez fueron absueltos. La indemnización de 109.371,96 euros corresponde solidariamente a los cuatro
+  primeros condenados, no a Pilar; de ella ya se habían abonado 13.022,96 euros.
+
+
+  El 21 de mayo de 2025 se informó de una aclaración de la Audiencia que habilitaba la apelación ante el
+  Tribunal Superior de Justicia valenciano, corrigiendo la indicación inicial de casación directa. No se ha
+  verificado la resolución de una eventual apelación, la firmeza individual de los pronunciamientos ni nuevas
+  decisiones de este procedimiento en 2026. El estado actual queda, por tanto, sin determinar: la condena de
+  primera instancia no se presenta como firme ni como cierre definitivo.
 resumen: "Condenas de primera instancia por la gestión de la clínica Gran Alacant y absolución de tres acusados; firmeza posterior no verificada"
 lugar: "Santa Pola, Alicante, Comunidad Valenciana"
 tribunal:

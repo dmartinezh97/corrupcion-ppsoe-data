@@ -9,49 +9,51 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condena fiscal en apelación y archivos de otras piezas
-descripcion: 'Gerardo Conde Roa, alcalde del PP de Santiago de Compostela en 2011-2012, fue condenado por el impago
-  del IVA de 61 viviendas vendidas en 2010 por Geslander, promotora de la que era administrador. La querella fiscal
-  cifraba la cuota pendiente en 291.289,43 euros, según Europa Press de abril de 2012. Es la cantidad atribuida
-  por la acusación, no la suma de cuota, multa y costas. Declaró como imputado ante el Juzgado de Instrucción número
-  2 de Santiago el 12 de abril de 2012; el 16 de abril se publicó su dimisión como alcalde.
+descripcion: >-
+  Gerardo Conde Roa, alcalde del PP de Santiago de Compostela en 2011-2012, fue condenado por el impago del
+  IVA de 61 viviendas vendidas en 2010 por Geslander, promotora de la que era administrador. La querella
+  fiscal cifraba la cuota pendiente en 291.289,43 euros, según Europa Press de abril de 2012. Es la cantidad
+  atribuida por la acusación, no la suma de cuota, multa y costas. Declaró como imputado ante el Juzgado de
+  Instrucción número 2 de Santiago el 12 de abril de 2012; el 16 de abril se publicó su dimisión como alcalde.
 
 
-  El Juzgado de lo Penal número 1 de Santiago lo condenó en 2013 a dos años de prisión. En octubre de 2014 se hizo
-  pública la estimación parcial de su apelación por la Sección Sexta de la Audiencia Provincial de A Coruña. La
-  rebaja a un año y seis meses afectó a la prisión y a la inhabilitación para el sufragio pasivo; no a la inhabilitación
-  de cinco años para el comercio inmobiliario, que se mantuvo. La Voz de Galicia cifra la multa mantenida en 582.578
-  euros y explica que el tribunal valoró su colaboración posterior con la Inspección. La crónica identifica el fallo
-  de apelación como de 30 de septiembre de 2014, divulgado el 13 de octubre, y lo describe como firme, sin otro
-  recurso que el amparo constitucional que Conde Roa anunció. No se han recuperado los originales fiscales ni el
-  resultado del eventual amparo o la ejecución de las penas. La existencia de ese recurso extraordinario anunciado
-  no demuestra que la condena careciera de firmeza.
+  El Juzgado de lo Penal número 1 de Santiago lo condenó en 2013 a dos años de prisión. En octubre de 2014 se
+  hizo pública la estimación parcial de su apelación por la Sección Sexta de la Audiencia Provincial de A
+  Coruña. La rebaja a un año y seis meses afectó a la prisión y a la inhabilitación para el sufragio pasivo;
+  no a la inhabilitación de cinco años para el comercio inmobiliario, que se mantuvo. La Voz de Galicia cifra
+  la multa mantenida en 582.578 euros y explica que el tribunal valoró su colaboración posterior con la
+  Inspección. La crónica identifica el fallo de apelación como de 30 de septiembre de 2014, divulgado el 13 de
+  octubre, y lo describe como firme, sin otro recurso que el amparo constitucional que Conde Roa anunció. No
+  se han recuperado los originales fiscales ni el resultado del eventual amparo o la ejecución de las penas.
+  La existencia de ese recurso extraordinario anunciado no demuestra que la condena careciera de firmeza.
 
 
-  Son distintos los procedimientos derivados de la Operación Pokémon. En mayo de 2017 se publicó su citación junto
-  a Albino Vázquez por el origen de diecisiete ingresos en cuentas del PP de Santiago, por un total de 26.970 euros;
-  la noticia no atribuía entonces un delito concreto y no acredita que las declaraciones anunciadas se celebrasen.
-  En abril de 2020 se informó del archivo provisional de una pieza del Juzgado de Instrucción número 1 de Santiago
-  que afectaba a Conde Roa, Ángel Currás y otros investigados, con levantamiento de medidas cautelares. Europa Press
-  documentó otro archivo provisional por auto de 15 de septiembre de 2022, del Juzgado de Instrucción número 3 de
-  Santiago, relativo a presunto tráfico de influencias y Aquagest. No se equiparan estos archivos provisionales
-  con una absolución ni con el cierre firme de todas las piezas.
+  Son distintos los procedimientos derivados de la Operación Pokémon. En mayo de 2017 se publicó su citación
+  junto a Albino Vázquez por el origen de diecisiete ingresos en cuentas del PP de Santiago, por un total de
+  26.970 euros; la noticia no atribuía entonces un delito concreto y no acredita que las declaraciones
+  anunciadas se celebrasen. En abril de 2020 se informó del archivo provisional de una pieza del Juzgado de
+  Instrucción número 1 de Santiago que afectaba a Conde Roa, Ángel Currás y otros investigados, con
+  levantamiento de medidas cautelares. Europa Press documentó otro archivo provisional por auto de 15 de
+  septiembre de 2022, del Juzgado de Instrucción número 3 de Santiago, relativo a presunto tráfico de
+  influencias y Aquagest. No se equiparan estos archivos provisionales con una absolución ni con el cierre
+  firme de todas las piezas.
 
 
-  En enero de 2023 La Voz de Galicia informó de que el Ayuntamiento reconoció 34.124,49 euros de gastos de defensa
-  de Conde Roa tras el archivo de una causa de Pokémon remitida desde Lugo. Ese acuerdo de gastos no permite identificar
-  por sí solo todos los procedimientos cerrados, su clase de sobreseimiento o su firmeza. No se han obtenido sus
-  resoluciones judiciales originales ni un inventario completo de sus resultados individuales hasta el 17 de octubre
-  de 2026.
+  En enero de 2023 La Voz de Galicia informó de que el Ayuntamiento reconoció 34.124,49 euros de gastos de
+  defensa de Conde Roa tras el archivo de una causa de Pokémon remitida desde Lugo. Ese acuerdo de gastos no
+  permite identificar por sí solo todos los procedimientos cerrados, su clase de sobreseimiento o su firmeza.
+  No se han obtenido sus resoluciones judiciales originales ni un inventario completo de sus resultados
+  individuales hasta el 17 de octubre de 2026.
 
 
-  Por separado, siete concejales del PP fueron condenados el 2 de junio de 2014 a nueve años de inhabilitación por
-  aprobar el pago de la defensa de Adrián Varela. El PDF de instancia identifica a los siete; el acta municipal
-  de 18 de junio identifica la sentencia como 135/2014. El acta recoge una notificación el 4 de junio, pero transcribe
-  una renuncia de 3 de junio que decía recibida el día 2: esa discordancia no se resuelve asignando una única fecha
-  de notificación. La Audiencia los absolvió en una resolución notificada el 26 de marzo de 2015, firme y sin recurso
-  según Europa Press, que cita al TSXG. Esta absolución no revoca la condena fiscal de Conde Roa ni resuelve las
-  piezas de Pokémon. La falta de los fallos fiscales y de apelación de los ediles y de los autos de archivo mantiene
-  la revisión incompleta.'
+  Por separado, siete concejales del PP fueron condenados el 2 de junio de 2014 a nueve años de inhabilitación
+  por aprobar el pago de la defensa de Adrián Varela. El PDF de instancia identifica a los siete; el acta
+  municipal de 18 de junio identifica la sentencia como 135/2014. El acta recoge una notificación el 4 de
+  junio, pero transcribe una renuncia de 3 de junio que decía recibida el día 2: esa discordancia no se
+  resuelve asignando una única fecha de notificación. La Audiencia los absolvió en una resolución notificada
+  el 26 de marzo de 2015, firme y sin recurso según Europa Press, que cita al TSXG. Esta absolución no revoca
+  la condena fiscal de Conde Roa ni resuelve las piezas de Pokémon. Faltan los fallos fiscales y de apelación
+  de los ediles y los autos de archivo.
 resumen: Condena fiscal de Conde Roa rebajada a 18 meses de prisión en apelación; procedimientos distintos de Pokémon
   con archivos provisionales y absolución de siete ediles en otra causa
 lugar: Santiago de Compostela, Galicia
@@ -162,19 +164,20 @@ cronologia:
   - https://www.lavanguardia.com/politica/20140602/54409543918/condenados-siete-concejales-del-pp-de-santiago-a-nueve-anos-de-inhabilitacion.html
 - fecha: '2014-06-18'
   titulo: El pleno toma conocimiento de la sentencia y de las renuncias de los siete ediles
-  descripcion: El pleno toma conocimiento de la sentencia 135/14, de 2 de junio, y de las renuncias presentadas
-    el 3 de junio. El acta indica notificación el 4 de junio, pero transcribe una renuncia que decía recibida la
-    sentencia el 2; no se elimina esa discordancia. La condena de instancia fue revocada en 2015.
+  descripcion: El pleno toma conocimiento de la sentencia 135/14, de 2 de junio, y de las renuncias presentadas el 3
+    de junio. El acta indica notificación el 4 de junio, pero transcribe una renuncia que decía recibida la
+    sentencia el 2; la discordancia sigue sin resolverse. La condena de instancia fue revocada en 2015.
   type: resumen
   relevancia: media
   urls:
   - https://concello.dewenir.es/sites/default/files/2024-05/Acta_09_Sesion_extraordinaria_180614.pdf
 - fecha: '2014-10-13'
   titulo: Se conoce la rebaja de la pena de Conde Roa a 18 meses
-  descripcion: Se da a conocer la rebaja de prisión e inhabilitación para sufragio pasivo a 18 meses, según el despacho
-    de Europa Press del 13 de octubre reproducido por Iustel el 14. La Voz, actualizada el 14, identifica la sentencia
-    como de 30 de septiembre y afirma que era firme; mantenía la multa y la inhabilitación inmobiliaria. Se anunció
-    amparo, sin resultado documentado aquí. El hito corresponde a difusión, no a lectura del fallo original.
+  descripcion: Se da a conocer la rebaja de prisión e inhabilitación para sufragio pasivo a 18 meses, según el
+    despacho de Europa Press del 13 de octubre reproducido por Iustel el 14. La Voz, actualizada el 14,
+    identifica la sentencia como de 30 de septiembre y afirma que era firme; mantenía la multa y la
+    inhabilitación inmobiliaria. Se anunció amparo, sin resultado documentado aquí. La fecha corresponde a la
+    difusión del fallo; no se dispone de la resolución original.
   type: sentencia
   relevancia: alta
   urls:
@@ -241,4 +244,4 @@ Las piezas de Pokémon examinadas tienen archivos provisionales comunicados en 2
 
 El fallo de 2 de junio de 2014 condenó a siete concejales por aprobar el pago de la defensa de Adrián Varela. La Audiencia los absolvió en 2015, con firmeza anunciada por el TSXG a través de Europa Press. El documento de 2014 se conserva como antecedente revocado, sin presentarlo como condena vigente.
 
-El acta municipal identifica el número 135/2014, ausente en el encabezamiento del PDF de la sentencia. También conserva fechas discordantes sobre su notificación, que no se confunden con la fecha del fallo. La falta de originales de las resoluciones posteriores impide completar la revisión de todos los ámbitos.
+El acta municipal identifica el número 135/2014, ausente en el encabezamiento del PDF de la sentencia. También conserva fechas discordantes sobre su notificación, que no se confunden con la fecha del fallo. Faltan los originales de las resoluciones posteriores para acreditar el desenlace de todos los ámbitos.

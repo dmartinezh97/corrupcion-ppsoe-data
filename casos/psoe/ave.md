@@ -8,23 +8,26 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas por falsedad y absoluciones en casación
-descripcion: 'Procedimiento sobre facturas y pagos relacionados con las adjudicaciones del AVE Madrid-Sevilla, desglosado
-  de Filesa. La investigación examinó sospechas de comisiones y financiación irregular del PSOE, pero esas acusaciones
-  deben distinguirse de los concretos delitos por los que hubo condena. El procedimiento abreviado 3037/1994 fue
-  instruido por el Juzgado de Instrucción número 39 de Madrid y juzgado por la Sección 17ª de su Audiencia Provincial.
+descripcion: >-
+  Procedimiento sobre facturas y pagos relacionados con las adjudicaciones del AVE Madrid-Sevilla, desglosado
+  de Filesa. La investigación examinó sospechas de comisiones y financiación irregular del PSOE, pero esas
+  acusaciones deben distinguirse de los concretos delitos por los que hubo condena. El procedimiento abreviado
+  3037/1994 fue instruido por el Juzgado de Instrucción número 39 de Madrid y juzgado por la Sección 17ª de su
+  Audiencia Provincial.
 
 
-  La sentencia de la Audiencia de 22 de junio de 2006 fue modificada por la STS 692/2008, de 4 de noviembre, difundida
-  el día 13. El Supremo condenó a Aída Álvarez y Miguel Molledo a seis meses y un día de prisión menor y 1.200 euros
-  de multa cada uno por falsedad continuada en documento mercantil. Absolvió por prescripción a los directivos de
-  Siemens Francisco Francés y Mario Huete, inicialmente condenados, y mantuvo la absolución de Julián García Valverde.
-  Subsistieron las condenas por falsedad de Florencio Ornia, Juan Carlos Mangana, Sotero Jiménez y Valentín Medel.
+  La sentencia de la Audiencia de 22 de junio de 2006 fue modificada por la STS 692/2008, de 4 de noviembre,
+  difundida el día 13. El Supremo condenó a Aída Álvarez y Miguel Molledo a seis meses y un día de prisión
+  menor y 1.200 euros de multa cada uno por falsedad continuada en documento mercantil. Absolvió por
+  prescripción a los directivos de Siemens Francisco Francés y Mario Huete, inicialmente condenados, y mantuvo
+  la absolución de Julián García Valverde. Subsistieron las condenas por falsedad de Florencio Ornia, Juan
+  Carlos Mangana, Sotero Jiménez y Valentín Medel.
 
 
-  El texto judicial recoge para las condenas de un año una multa de 1.800 euros, aunque varias crónicas publicaron
-  18.000. Se sigue el fallo reproducido en el PDF oficial. No se presenta el volumen de comisiones investigado como
-  daño patrimonial probado. La ejecución individual, posibles incidencias posteriores y una diligencia específica
-  de firmeza no han sido documentadas en esta revisión.'
+  El texto judicial recoge para las condenas de un año una multa de 1.800 euros, aunque varias crónicas
+  publicaron 18.000. Se sigue el fallo reproducido en el PDF oficial. No se presenta el volumen de comisiones
+  investigado como daño patrimonial probado. La ejecución individual, posibles incidencias posteriores y una
+  diligencia específica de firmeza no han sido documentadas en las fuentes citadas.
 resumen: El Supremo condenó por falsedad a Aída Álvarez y Miguel Molledo, mantuvo cuatro condenas documentales y
   absolvió por prescripción a dos directivos de Siemens. García Valverde quedó absuelto. No se equiparan sospechas
   de financiación con condenas por cohecho.
@@ -123,6 +126,6 @@ La relación con **Filesa** es procesal y documental. El fundamento vigésimo cu
 
 La página 23 del PDF reproduce una multa de **1.800 euros**, cifra reiterada en el fundamento vigésimo tercero, página 56. Varias noticias hablan de 18.000 euros; se prioriza el documento judicial. Para Álvarez y Molledo, la segunda sentencia fija **1.200 euros por persona**, con responsabilidad personal subsidiaria en caso de impago según el fallo. Las multas penales no son una valoración del daño público.
 
-Se retira el coste de seis millones de euros: la cifra heredada procedía del volumen atribuido a comisiones investigadas, sin una liquidación judicial de perjuicio que permita usarla como daño probado. Tampoco se calcula pérdida pública a partir del precio de las adjudicaciones o del porcentaje pactado con intermediarios.
+Los seis millones de euros procedían del volumen atribuido a comisiones investigadas, sin una liquidación judicial del perjuicio que permita considerarlos daño probado. Tampoco se calcula pérdida pública a partir del precio de las adjudicaciones o del porcentaje pactado con intermediarios.
 
-Revisión con corte en el 17 de octubre de 2026. Se ha recuperado el PDF oficial de 60 páginas y leído de forma dirigida su identificación, fallo de instancia, fundamentos sobre cohecho, prescripción y cosa juzgada, y los dos fallos del Supremo. El PDF se generó al descargarlo en octubre de 2026: esa fecha técnica no altera la resolución de 4 de noviembre de 2008. No se ha leído íntegramente cada hecho y fundamento ni se han obtenido los expedientes individuales de ejecución o una certificación separada de firmeza. Se retiran las fechas genéricas de primero de enero y detalles históricos no revalidados; la ficha permanece incompleta por esas limitaciones.
+Información disponible al 17 de octubre de 2026. La resolución original consta de sesenta páginas y reproduce el fallo de instancia y los dos fallos del Supremo. La fecha técnica del PDF, de octubre de 2026, no altera la fecha de la resolución, de 4 de noviembre de 2008. No se dispone de los expedientes individuales de ejecución ni de una certificación separada de firmeza.

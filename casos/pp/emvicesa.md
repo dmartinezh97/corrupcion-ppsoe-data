@@ -8,58 +8,61 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: En casación
 firmeza: No firme
 estado: condena recurrida
-descripcion: 'El caso Emvicesa se refiere a la pretendida adjudicación irregular de 317 viviendas de protección
-  oficial (VPO) de la parcela B4 del Plan Parcial de Loma Colmenar, en Ceuta, gestionadas por la Empresa Municipal
-  de Vivienda de Ceuta (Emvicesa). El origen público del caso se sitúa el 25 de junio de 2015, cuando un periódico
-  local (El Pueblo de Ceuta) publicó una lista de supuestos adjudicatarios, conocida como «lista fantasma», antes
-  de que se celebrara el sorteo. El Gobierno de la Ciudad negó que tras la lista existiera una trama y lo atribuyó
-  a una deslealtad.
+descripcion: >-
+  El caso Emvicesa se refiere a la pretendida adjudicación irregular de 317 viviendas de protección oficial
+  (VPO) de la parcela B4 del Plan Parcial de Loma Colmenar, en Ceuta, gestionadas por la Empresa Municipal de
+  Vivienda de Ceuta (Emvicesa). El origen público del caso se sitúa el 25 de junio de 2015, cuando un
+  periódico local (El Pueblo de Ceuta) publicó una lista de supuestos adjudicatarios, conocida como «lista
+  fantasma», antes de que se celebrara el sorteo. El Gobierno de la Ciudad negó que tras la lista existiera
+  una trama y lo atribuyó a una deslealtad.
 
 
-  La instrucción se dirigió contra el entonces exgerente de Emvicesa y exviceconsejero de Vivienda, Antonio Javier
-  López Fernández. En febrero de 2017 fue detenido en Marbella y pasó a prisión provisional; otras personas, entre
-  ellas las exconsejeras Susana Román Bernet y Rabea Mohamed Tounsi y el exdiputado Mohamed Alí, quedaron investigadas
-  y en libertad con cargos. En noviembre de 2018 la jueza instructora acordó continuar el procedimiento por los
-  trámites del procedimiento abreviado contra 60 personas. La fecha exacta del auto de apertura de juicio oral queda pendiente de contraste en su original.
+  La instrucción se dirigió contra el entonces exgerente de Emvicesa y exviceconsejero de Vivienda, Antonio
+  Javier López Fernández. En febrero de 2017 fue detenido en Marbella y pasó a prisión provisional; otras
+  personas, entre ellas las exconsejeras Susana Román Bernet y Rabea Mohamed Tounsi y el exdiputado Mohamed
+  Alí, quedaron investigadas y en libertad con cargos. En noviembre de 2018 la jueza instructora acordó
+  continuar el procedimiento por los trámites del procedimiento abreviado contra 60 personas. La fecha exacta
+  del auto de apertura de juicio oral queda pendiente de contraste en su original.
 
 
-  El juicio oral se celebró ante la Sección Sexta de la Audiencia Provincial de Cádiz, con sede en Ceuta, entre
-  el 24 de octubre y el 13 de diciembre de 2023, con 52 acusados. La sentencia, notificada el 11 de diciembre de
-  2024, condenó a Antonio López a 5 años de prisión por un delito continuado y consumado de cohecho, con la atenuante
-  simple de dilaciones indebidas, y a 5 años y 3 meses de inhabilitación por un delito intentado de prevaricación;
-  le absolvió de falsedad documental y blanqueo de capitales. El tribunal absolvió a los exconsejeros y a los trabajadores
-  de Emvicesa acusados y condenó por cohecho a una veintena de personas que se conformaron.
+  El juicio oral se celebró ante la Sección Sexta de la Audiencia Provincial de Cádiz, con sede en Ceuta,
+  entre el 24 de octubre y el 13 de diciembre de 2023, con 52 acusados. La sentencia, notificada el 11 de
+  diciembre de 2024, condenó a Antonio López a 5 años de prisión por un delito continuado y consumado de
+  cohecho, con la atenuante simple de dilaciones indebidas, y a 5 años y 3 meses de inhabilitación por un
+  delito intentado de prevaricación; le absolvió de falsedad documental y blanqueo de capitales. El tribunal
+  absolvió a los exconsejeros y a los trabajadores de Emvicesa acusados y condenó por cohecho a una veintena
+  de personas que se conformaron.
 
 
-  La sentencia de 2024 se notificó como no firme; no se ha acreditado la firmeza individual actual. La Fiscalía
-  anunció un recurso limitado a la absolución de cinco trabajadores de Emvicesa. La prensa informó posteriormente
-  de su presentación ante el Tribunal Supremo y de otro recurso de casación de la defensa de López.
-  A 23 de septiembre de 2026, según la información periodística disponible, la causa central seguía en fase de recurso
-  ante el Tribunal Supremo y no se ha localizado resolución posterior del alto tribunal. En una pieza separada del
-  caso sobre contratación de ACEMSA, la misma Sección Sexta dictó el 17 de septiembre de 2026 una sentencia, no
-  firme según la fuente que la publicó el 23 de septiembre de 2026, que absolvió al gerente de ACEMSA y a otros
-  acusados.
+  La sentencia de 2024 se notificó como no firme; no se ha acreditado la firmeza individual actual. La
+  Fiscalía anunció un recurso limitado a la absolución de cinco trabajadores de Emvicesa. La prensa informó
+  posteriormente de su presentación ante el Tribunal Supremo y de otro recurso de casación de la defensa de
+  López. A 23 de septiembre de 2026, según la información periodística disponible, la causa central seguía en
+  fase de recurso ante el Tribunal Supremo y no se ha localizado resolución posterior del alto tribunal. En
+  una pieza separada del caso sobre contratación de ACEMSA, la misma Sección Sexta dictó el 17 de septiembre
+  de 2026 una sentencia, no firme según la fuente que la publicó el 23 de septiembre de 2026, que absolvió al
+  gerente de ACEMSA y a otros acusados.
 
 
-  Falta la sentencia original de instancia y la resolución de los recursos, por lo que no se han podido comprobar
-  todos los pronunciamientos ni sus identificadores. No se ha contrastado el número exacto de condenados con el
-  fallo original. Persisten dudas sobre el día exacto de la detención de febrero de 2017 (las fuentes documentan
-  la operación y las declaraciones de mediados de febrero, sin fijar el día de la detención) y sobre la fecha exacta
-  del auto de apertura de juicio oral (octubre de 2020 según El Confidencial, sin día concreto). No se incluyen
-  cuantías económicas globales porque las fuentes mezclan cifras atribuidas por las acusaciones y cifras fijadas
-  en la sentencia sin que se haya podido verificar la resolución.
+  Falta la sentencia original de instancia y la resolución de los recursos, por lo que no se han podido
+  comprobar todos los pronunciamientos ni sus identificadores. No se ha contrastado el número exacto de
+  condenados con el fallo original. Persisten dudas sobre el día exacto de la detención de febrero de 2017
+  (las fuentes documentan la operación y las declaraciones de mediados de febrero, sin fijar el día de la
+  detención) y sobre la fecha exacta del auto de apertura de juicio oral (octubre de 2020 según El
+  Confidencial, sin día concreto). No se incluyen cuantías económicas globales porque las fuentes mezclan
+  cifras atribuidas por las acusaciones y cifras fijadas en la sentencia sin que se haya podido verificar la
+  resolución.
 
 
-  La investigación también examinó la promoción de 170 viviendas de Loma Colmenar. Según la crónica de la sentencia,
-  no se acreditó en ella el mismo amaño penalmente punible que en la lista de las 317: no se convierte la irregularidad
-  administrativa en condena automática. Las absoluciones de los empleados se fundamentaron en la insuficiencia de
-  prueba de su colaboración consciente; la Fiscalía las impugnó. Que no recurriera contra los tres cargos políticos
-  no basta por sí solo para acreditar su firmeza individual. Los cinco años y tres meses por prevaricación son de
-  inhabilitación, no de prisión, y la multa de veinte meses a cincuenta euros diarios tampoco es daño patrimonial.
-  Los asuntos sobre adquisición de terrenos, como Caracolas, y la pieza de contratos de ACEMSA no comparten automáticamente
-  este fallo; no se ha completado aquí su trayectoria individual.
-
-  '
+  La investigación también examinó la promoción de 170 viviendas de Loma Colmenar. Según la crónica de la
+  sentencia, no se acreditó en ella el mismo amaño penalmente punible que en la lista de las 317: no se
+  convierte la irregularidad administrativa en condena automática. Las absoluciones de los empleados se
+  fundamentaron en la insuficiencia de prueba de su colaboración consciente; la Fiscalía las impugnó. Que no
+  recurriera contra los tres cargos políticos no basta por sí solo para acreditar su firmeza individual. Los
+  cinco años y tres meses por prevaricación son de inhabilitación, no de prisión, y la multa de veinte meses a
+  cincuenta euros diarios tampoco es daño patrimonial. Los asuntos sobre adquisición de terrenos, como
+  Caracolas, y la pieza de contratos de ACEMSA no comparten automáticamente este fallo; no consta su evolución
+  individual completa.
 resumen: Lista de adjudicatarios de 317 viviendas protegidas en Ceuta. López fue condenado en 2024 a cinco años
   de prisión por cohecho y a inhabilitación por prevaricación intentada; los cargos políticos y cinco empleados
   fueron absueltos. Hay recursos documentados, sin firmeza individual actual acreditada.

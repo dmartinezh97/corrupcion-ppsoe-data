@@ -57,20 +57,20 @@ numeroSentencia: ''
 
 ## Hechos y personas
 
-La [información de Europa Press reproducida por La Cerca](https://www.lacerca.com/noticias/ciudad_real/prevaricacion-siete-inhabilitacion-cargo-publico-exalcalde-pp-horcajo-415645-1.html) vincula la extracción con una promoción privada de CYSA. Menciona a Marien Valdenebro Torregrosa como destinataria de la autorización y recoge que Prado le atribuía la representación de CYSAVAL, sin acreditación documental en autos. Esa mención no acredita que fuera investigada, acusada o condenada; se retira del listado de responsables penales y no se afirma un beneficio personal probado.
+La [información de Europa Press reproducida por La Cerca](https://www.lacerca.com/noticias/ciudad_real/prevaricacion-siete-inhabilitacion-cargo-publico-exalcalde-pp-horcajo-415645-1.html) vincula la extracción con una promoción privada de CYSA. Menciona a Marien Valdenebro Torregrosa como destinataria de la autorización y recoge que Prado le atribuía la representación de CYSAVAL, sin acreditación documental en autos. Esa mención no acredita que fuera investigada, acusada o condenada, ni un beneficio personal probado.
 
 [ENCLM](https://www.encastillalamancha.es/castilla-la-mancha-cat/condenan-por-prevaricacion-al-exalcalde-del-pp-de-horcajo-de-los-montes-ciudad-real/) reproduce la misma noticia de agencia: no constituye una segunda investigación independiente. La irregularidad descrita concierne a la autorización previa exigida, por lo que no debe presentarse toda extracción de zahorra de un monte público como intrínsecamente delictiva.
 
 ## Fechas, importes y asuntos distintos
 
-El [obituario de Lanza](https://www.lanzadigital.com/provincia/fallece-a-los-73-anos-alfredo-prado-alcalde-de-horcajo-de-los-durante-dieciseis-anos/) permite corregir el periodo de alcalde de la ficha anterior: 1999–2015, no 1987–2015. Se retira el día 1 de agosto de 2020, que no estaba acreditado, y no se convierte el fallecimiento en una sentencia o una declaración de firmeza.
+El [obituario de Lanza](https://www.lanzadigital.com/provincia/fallece-a-los-73-anos-alfredo-prado-alcalde-de-horcajo-de-los-durante-dieciseis-anos/) sitúa su mandato como alcalde entre 1999 y 2015. No consta el día exacto del fallecimiento en agosto de 2020. El fallecimiento no equivale a una sentencia ni a una declaración de firmeza.
 
 No se ha comprobado una cuantificación judicial del daño, una responsabilidad civil, una indemnización ni un pago. No se incorpora coste cero: la ausencia de una cantidad acreditada es información pendiente.
 
-Se retiran de esta ficha los episodios sobre plenos, acceso de la oposición a documentos, toma de posesión de concejales y retasación urbanística T-1 con un supuesto embargo de 700.000 euros. No se ha verificado que formen parte del procedimiento de Los Bonales. La referencia anterior a un TSJ de la Comunidad Valenciana tampoco está respaldada para este caso de Ciudad Real. No se trasladan sus resultados ni cantidades.
+Los episodios sobre plenos, acceso de la oposición a documentos, toma de posesión de concejales y retasación urbanística T-1, con un supuesto embargo de 700.000 euros, no cuentan con respaldo suficiente para atribuirlos a esta causa. No se ha verificado que formen parte del procedimiento de Los Bonales. La referencia anterior a un TSJ de la Comunidad Valenciana tampoco está respaldada para este caso de Ciudad Real. No se trasladan sus resultados ni cantidades.
 
-## Límites de la revisión
+## Información pendiente de acreditar
 
-Con corte de 17 de octubre de 2026, las búsquedas por nombres, monte y sociedades no han permitido identificar el número de sentencia o ECLI, recuperar el original ni verificar una resolución de apelación, casación o ejecución. Eso no demuestra que no existan. Se elimina la afirmación anterior de condena firme y caso judicialmente cerrado.
+Al 17 de octubre de 2026, no constan el número de sentencia o ECLI, el original judicial ni una resolución acreditada de apelación, casación o ejecución. Eso no demuestra que no existan. No está acreditada la firmeza de la condena ni el cierre judicial de la causa.
 
-La recopilación Casos Aislados remite a una noticia de DCLM cuyo enlace no se recuperó; sus datos no sustituyen las resoluciones judiciales. No hay un PDF original verificable para incorporar a documentos. La ficha permanece incompleta hasta resolver estas lagunas.
+La recopilación Casos Aislados remite a una noticia de DCLM cuyo enlace no se recuperó; sus datos no sustituyen las resoluciones judiciales. No hay un PDF original verificable para incorporar a documentos.

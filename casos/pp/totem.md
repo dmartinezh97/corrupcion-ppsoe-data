@@ -10,12 +10,13 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas y absoluciones en dos piezas; firmeza de la sentencia de 2012 acreditada
 descripcion: La operación Tótem investigó comisiones y otras irregularidades municipales en Totana. La pieza del
-  exalcalde y exdiputado Juan Morales terminó con una sentencia de conformidad del TSJ de Murcia de 1 de marzo de
-  2012 que declara su firmeza. Otra pieza, sobre las obras del colegio San José y la retirada de un atestado, se
-  resolvió por la Audiencia Provincial el 4 de mayo de 2016 con condenas y absoluciones. José Martínez Andreo fue
-  condenado por fraude en tentativa y omisión del deber de perseguir delitos, con sustitución del mes de prisión
-  pendiente por multa. La revisión hasta el 17 de octubre de 2026 no ha acreditado la firmeza de la sentencia de
-  2016 ni completado el seguimiento de ejecución y del posterior litigio urbanístico de Inmonuar.
+  exalcalde y exdiputado Juan Morales terminó con una sentencia de conformidad del TSJ de Murcia de 1 de marzo
+  de 2012 que declara su firmeza. Otra pieza, sobre las obras del colegio San José y la retirada de un
+  atestado, se resolvió por la Audiencia Provincial el 4 de mayo de 2016 con condenas y absoluciones. José
+  Martínez Andreo fue condenado por fraude en tentativa y omisión del deber de perseguir delitos, con
+  sustitución del mes de prisión pendiente por multa. Al 17 de octubre de 2026, no están acreditadas la
+  firmeza de la sentencia de 2016 ni la evolución completa de la ejecución y del posterior litigio urbanístico
+  de Inmonuar.
 resumen: Comisiones urbanísticas y otras irregularidades municipales en Totana, con resultados diferenciados en
   las piezas de 2012 y 2016.
 coste: 2945.24
@@ -92,7 +93,6 @@ cronologia:
 - fecha: '2008-04-10'
   titulo: Declaración de Morales ante el TSJ
   descripcion: Público informa de su comparecencia como imputado ante el TSJ por su condición de diputado aforado.
-    No se conserva la fecha artificial del 1 de abril de la ficha anterior.
   type: imputacion
   urls:
   - https://www.publico.es/actualidad/ex-alcalde-totana-juan-morales-declara-imputado-operacion-totem.html
@@ -120,18 +120,18 @@ cronologia:
   relevancia: alta
 - fecha: '2012-05-30'
   titulo: Orden de ingreso en prisión de Morales
-  descripcion: La información de Europa Press atribuye al auto de este día la ejecución de los dos años de prisión
-    por cohecho y la denegación de la suspensión. El auto original no ha sido recuperado de una fuente oficial en
-    esta revisión.
+  descripcion: La información de Europa Press atribuye al auto de este día la ejecución de los dos años de prisión por
+    cohecho y la denegación de la suspensión. El auto original no ha sido recuperado de una fuente oficial en
+    las fuentes citadas.
   type: sentencia
   urls:
   - https://www.20minutos.es/noticia/1486753/0/
   relevancia: alta
 - fecha: '2012-06-08'
   titulo: Publicación del ingreso voluntario en Murcia II
-  descripcion: La noticia de esta fecha, reproducida por INAP desde Europa Press, informa de la entrega y traslado
-    a prisión en la tarde del jueves anterior. La fecha del hito es la de publicación; no se conserva el 1 de junio
-    como fecha del ingreso.
+  descripcion: La noticia de esta fecha, reproducida por INAP desde Europa Press, informa de la entrega y traslado a
+    prisión en la tarde del jueves anterior. La fecha corresponde a la publicación; no consta el día exacto del
+    ingreso.
   type: investigacion
   urls:
   - https://laadministracionaldia.inap.es/noticia.asp?id=1101677
@@ -167,14 +167,14 @@ cronologia:
   relevancia: alta
 ---
 
-La causa se dividió por el aforamiento de Juan Morales: la memoria de la Fiscalía de 2013 describe las diligencias 835/2007 en Totana y las 2/2008 ante la Sala Civil y Penal del TSJ. No fueron dos juicios del TSJ: la pieza de 2016 fue enjuiciada por la Sección Segunda de la Audiencia Provincial. La mención heredada a un juicio celebrado en febrero de 2013 confundía el señalamiento con un proceso que fue devuelto a instrucción para facilitar copias de grabaciones, según el original de 2016.
+La causa se dividió por el aforamiento de Juan Morales: la memoria de la Fiscalía de 2013 describe las diligencias 835/2007 en Totana y las 2/2008 ante la Sala Civil y Penal del TSJ. No fueron dos juicios del TSJ: la pieza de 2016 fue enjuiciada por la Sección Segunda de la Audiencia Provincial. Según el original de 2016, el juicio señalado para febrero de 2013 fue devuelto a instrucción para facilitar copias de grabaciones.
 
-La sentencia de 2012 fija para el exalcalde, además de los dos años por cohecho, cinco meses de prisión por blanqueo, un año, seis meses y un día por falsedad, cinco meses por malversación y seis meses por infidelidad en la custodia de documentos, sustituidos por multas en el propio fallo. Incluye multas e inhabilitaciones adicionales, así como comiso de bienes. Se retira la suma heredada de cuatro años y cinco meses: no refleja el desglose del original ni distingue las sustituciones. El texto presenta discrepancias entre fundamentos y fallo en algunas cuantías de sustitución de prisión por multa; no se ofrece una suma de esas cantidades sin el correspondiente cotejo de aclaraciones o ejecución. La firmeza de esta sentencia sí consta expresamente en sus páginas 40 y 43.
+La sentencia de 2012 fija para el exalcalde, además de los dos años por cohecho, cinco meses de prisión por blanqueo, un año, seis meses y un día por falsedad, cinco meses por malversación y seis meses por infidelidad en la custodia de documentos, sustituidos por multas en el propio fallo. Incluye multas e inhabilitaciones adicionales, así como comiso de bienes. La suma de cuatro años y cinco meses no refleja el desglose del original ni distingue las sustituciones de penas. El texto presenta discrepancias entre fundamentos y fallo en algunas cuantías de sustitución de prisión por multa; no se ofrece una suma de esas cantidades sin el correspondiente cotejo de aclaraciones o ejecución. La firmeza de esta sentencia sí consta expresamente en sus páginas 40 y 43.
 
 La pieza de 2016 termina por conformidad respecto de fraude en tentativa y omisión del deber de perseguir delitos. El original permite distinguir los hechos admitidos de acusaciones iniciales retiradas. Para Martínez Andreo, la pena de inhabilitación se desglosa en un año y seis meses por fraude y tres meses por omisión; también se impone la accesoria de inhabilitación para sufragio pasivo durante la pena de prisión. La sustitución del mes de prisión restante, tras abonar dos meses cautelares, equivale a 720 euros de multa. La sentencia la acuerda, aunque la noticia contemporánea la relataba como una solicitud de la defensa. El fallo permite casación: la conformidad no se utiliza para presumir firmeza.
 
-El campo coste recoge exclusivamente los **2.945,24 euros de responsabilidad civil por facturas telefónicas** del fallo de 2012 (página 42). No equivale al perjuicio total de todos los hechos. Los ocho millones de multa por cohecho, las restantes penas pecuniarias, las comisiones pactadas y los bienes decomisados tienen naturaleza distinta y no se suman como daño público. Tampoco se añade la reclamación de Inmonuar de devolución de aportaciones urbanísticas: la información municipal de noviembre de 2019 comunica la revocación de la sentencia que había reconocido esa devolución. Su firmeza y evolución posterior no están verificadas.
+Los **2.945,24 euros** corresponden exclusivamente a la **responsabilidad civil por facturas telefónicas** del fallo de 2012 (página 42). No equivale al perjuicio total de todos los hechos. Los ocho millones de multa por cohecho, las restantes penas pecuniarias, las comisiones pactadas y los bienes decomisados tienen naturaleza distinta y no se suman como daño público. Tampoco se añade la reclamación de Inmonuar de devolución de aportaciones urbanísticas: la información municipal de noviembre de 2019 comunica la revocación de la sentencia que había reconocido esa devolución. Su firmeza y evolución posterior no están verificadas.
 
-Las identidades nominales se contrastan con prensa contemporánea; no se asignan los seudónimos de las sentencias a personas reales. Se retiran afirmaciones heredadas no revalidadas sobre 1,5 millones efectivamente cobrados, facturas de empresas pantalla por 100.000 euros y supuestos hitos de primacía regional o nacional.
+Las identidades nominales se contrastan con prensa contemporánea; no se asignan los seudónimos de las sentencias a personas reales. No están acreditados el cobro efectivo de 1,5 millones ni facturas de empresas pantalla por 100.000 euros.
 
-**Alcance y pendientes (17 de octubre de 2026).** Se ha leído íntegramente el texto extraído de las siete páginas de la sentencia de 2016 y comprobado visualmente su fallo. De la sentencia de 2012, de 43 páginas, se han cotejado cabecera, pasajes de conformidad, llamadas telefónicas, individualización de penas, responsabilidad civil, firmeza y fallo; no se declara lectura íntegra de los hechos de todos los acusados. Falta revisar posibles autos aclaratorios y la ejecución completa, recuperar el auto oficial de ingreso de 2012 y las resoluciones originales del litigio urbanístico de 2018-2019, y comprobar firmeza y recursos de la pieza de 2016. Las búsquedas de actualidad no certifican la inexistencia de incidencias posteriores. No se fija una fecha de cierre global y la revisión permanece incompleta.
+**Documentación disponible al 17 de octubre de 2026:** la sentencia de 2016 consta de siete páginas. La sentencia de 2012 consta de 43 páginas y aborda la conformidad, las llamadas telefónicas, las penas individuales, la responsabilidad civil y la firmeza. Falta revisar posibles autos aclaratorios y la ejecución completa, recuperar el auto oficial de ingreso de 2012 y las resoluciones originales del litigio urbanístico de 2018-2019, y comprobar firmeza y recursos de la pieza de 2016. La ausencia de noticias no acredita la inexistencia de incidencias posteriores. No se fija una fecha de cierre global y persisten esas carencias documentales.

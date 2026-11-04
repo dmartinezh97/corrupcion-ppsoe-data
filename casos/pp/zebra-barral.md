@@ -93,13 +93,13 @@ cronologia:
 
 ## Tres procedimientos, no un único desenlace
 
-La denominación heredada Zebra/Barral mezclaba la operación Cebra conocida en 2016, un proceso fiscal de ese año y la causa antigua por contrabando relacionada con un alijo descubierto en 2001. Se conserva la ruta de la ficha, con esos ámbitos diferenciados. La información de 2022 describe además una cuestión de competencia sobre una rama de Cebra atribuida a Oviedo; no acredita el desenlace penal de la investigación de origen o de todos sus participantes.
+La denominación Zebra/Barral abarca la operación Cebra conocida en 2016, un proceso fiscal de ese año y la causa antigua por contrabando relacionada con un alijo descubierto en 2001. La información de 2022 describe además una cuestión de competencia sobre una rama de Cebra atribuida a Oviedo; no acredita el desenlace penal de la investigación de origen o de todos sus participantes.
 
 En el proceso fiscal, Barral aceptó en mayo de 2016 dos penas de seis meses, sustituidas por multa. Los aproximadamente 700.000 euros citados en la cobertura reunían pagos relacionados con el procedimiento fiscal; no se presentan como un daño público único ni se suman de nuevo a las multas. La pretensión inicial de ocho años de prisión no era una condena firme anterior. Faltan la sentencia original y su liquidación para separar definitivamente todos los conceptos y efectos de ejecución.
 
 ## Nulidad, fallecimiento y absolución
 
-La primera sesión de la antigua causa documentada por Europa Press en septiembre de 2022 trató las cuestiones previas. La Audiencia anuló después las escuchas y la prueba derivada. Por ello se retira la afirmación absoluta de que Barral murió antes de cualquier vista: falleció durante la prolongada tramitación, antes de conocer el resultado final. Su responsabilidad penal se extinguió por fallecimiento, un motivo distinto de la absolución de los supervivientes.
+La primera sesión de la antigua causa documentada por Europa Press en septiembre de 2022 trató las cuestiones previas. La Audiencia anuló después las escuchas y la prueba derivada. Barral falleció durante la prolongada tramitación, antes de conocer el resultado final. Su responsabilidad penal se extinguió por fallecimiento, un motivo distinto de la absolución de los supervivientes.
 
 La cobertura de enero de 2025 describe ocho absoluciones por falta de prueba para atribuir a los acusados los delitos enjuiciados. El hallazgo de las cajetillas no bastó para acreditar su participación. No se mantiene el relato de una organización criminal dirigida por ellos como hecho condenado. La sentencia admitía recurso ante el Tribunal Superior de Xustiza de Galicia y falta comprobar su firmeza y cualquier impugnación posterior.
 

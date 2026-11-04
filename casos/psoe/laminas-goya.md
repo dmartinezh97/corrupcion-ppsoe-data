@@ -9,11 +9,12 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: absuelta
 resumen: Josefa Cruz fue absuelta en 2022 por la compra y posterior desaparición de 80 facsímiles de Goya en Carboneras.
-descripcion: 'La investigación examinó la compra municipal de 80 facsímiles de Los Desastres de la Guerra por 3.250
-  euros y su desaparición. El Juzgado de lo Penal 3 de Almería absolvió a Josefa Cruz de prevaricación y malversación
-  en octubre de 2022; la prensa que recoge la sentencia señala que la compra se ajustó al procedimiento aplicable
-  y que no se acreditó su responsabilidad en la pérdida. Revisión parcial a 17 de octubre de 2026: no se ha recuperado
-  la sentencia original ni acreditado su firmeza o eventuales recursos.'
+descripcion: "La investigación examinó la compra municipal de 80 facsímiles de Los Desastres de la Guerra por 3.250
+  euros y su desaparición. El Juzgado de lo Penal 3 de Almería absolvió a Josefa Cruz de prevaricación y
+  malversación en octubre de 2022; la prensa que recoge la sentencia señala que la compra se ajustó al
+  procedimiento aplicable y que no se acreditó su responsabilidad en la pérdida. Información pendiente al 17
+  de octubre de 2026: no se ha recuperado la sentencia original ni acreditado su firmeza o eventuales
+  recursos."
 lugar: Carboneras, Almería
 tribunal:
 - Juzgado de Instrucción n.º 2 de Vera
@@ -95,6 +96,6 @@ La información de Europa Press reproducida por Teleprensa explica que el juzgad
 
 Los 3.250 euros son el precio de adquisición, no un daño penalmente atribuido a la acusada. La valoración próxima a 8.000 euros comunicada por el Ayuntamiento y la fianza de 5.933 euros reseñada en 2019 tampoco son una indemnización impuesta. No se suman esas cantidades. [Información económica y procesal de 2019](https://www.europapress.es/andalucia/almeria-00350/noticia-abren-juicio-oral-concejal-psoe-carboneras-almeria-acusada-comprar-laminas-goya-desaparecidas-20190518105934.html).
 
-Salvador Hernández pertenecía a Gicar en la etapa de la denuncia; el gobierno municipal era de Gicar y PP, lo que no lo convierte en edil del PP. La magistrada no se incluye entre los implicados. Tampoco se trasladan a esta ficha otros procedimientos electorales o de contratación de Carboneras.
+Salvador Hernández pertenecía a Gicar en la etapa de la denuncia; el gobierno municipal era de Gicar y PP, lo que no lo convierte en edil del PP. Tampoco se trasladan a esta ficha otros procedimientos electorales o de contratación de Carboneras.
 
-Corte de revisión: 17 de octubre de 2026. La sentencia y el auto originales no han sido recuperados; no se conoce aquí su número, modalidad de sobreseimiento, recursos o firmeza. Las noticias de 2022 describían los facsímiles como no localizados, pero no se ha verificado documentalmente su paradero posterior. Por estas lagunas la ficha permanece incompleta y sin documentos judiciales adjuntos.
+Información disponible al 17 de octubre de 2026. La sentencia y el auto originales no han sido recuperados; no se conoce aquí su número, modalidad de sobreseimiento, recursos o firmeza. Las noticias de 2022 describían los facsímiles como no localizados, pero no se ha verificado documentalmente su paradero posterior. No se dispone de los documentos judiciales necesarios para resolver esas lagunas.

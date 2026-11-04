@@ -9,10 +9,19 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Condena del Supremo en 2010; ejecución y posibles actuaciones posteriores pendientes"
-descripcion: |
-  La STS 238/2010, de 17 de marzo, condenó por malversación de caudales públicos al exalcalde de Casalarreina, identificado en las fuentes nominales como Buenaventura Gómez Castrillo. El Supremo anuló la absolución de la Audiencia Provincial de Logroño de 20 de mayo de 2009, al estimar el recurso del Ayuntamiento, apoyado por el Ministerio Fiscal. Impuso dos años de prisión, cuatro de inhabilitación absoluta y responsabilidad civil directa de 4.508,76 euros, con atenuante muy cualificada de dilaciones indebidas.
+descripcion: >-
+  La STS 238/2010, de 17 de marzo, condenó por malversación de caudales públicos al exalcalde de Casalarreina,
+  identificado en las fuentes nominales como Buenaventura Gómez Castrillo. El Supremo anuló la absolución de
+  la Audiencia Provincial de Logroño de 20 de mayo de 2009, al estimar el recurso del Ayuntamiento, apoyado
+  por el Ministerio Fiscal. Impuso dos años de prisión, cuatro de inhabilitación absoluta y responsabilidad
+  civil directa de 4.508,76 euros, con atenuante muy cualificada de dilaciones indebidas.
 
-  La condena se refiere a cantidades indebidamente cobradas por dietas y desplazamientos mediante una caja municipal sin la debida contabilidad. El recurso no abarcaba las subvenciones discutidas en la instancia. La sentencia ya recogía una devolución derivada de la responsabilidad contable antes del juicio; no hubo un reembolso de 2020 aquí acreditado. No se ha comprobado la ejecución, la situación de firmeza mediante resolución posterior ni posibles incidencias hasta el 17 de octubre de 2026. La revisión permanece incompleta.
+
+  La condena se refiere a cantidades indebidamente cobradas por dietas y desplazamientos mediante una caja
+  municipal sin la debida contabilidad. El recurso no abarcaba las subvenciones discutidas en la instancia. La
+  sentencia ya recogía una devolución derivada de la responsabilidad contable antes del juicio; no hubo un
+  reembolso de 2020 aquí acreditado. No se ha comprobado la ejecución, la situación de firmeza mediante
+  resolución posterior ni posibles incidencias hasta el 17 de octubre de 2026.
 resumen: "Condena del Supremo por malversación mediante cobros indebidos de dietas; dos años de prisión y responsabilidad civil de 4.508,76 euros."
 lugar: "Casalarreina, La Rioja"
 tribunal:
@@ -64,10 +73,10 @@ cronologia:
 
 Los hechos probados describen una caja de efectivo destinada inicialmente a fiestas, con aportaciones particulares y fondos municipales. El acusado dispuso de dinero para dietas y desplazamientos anotados manualmente sin sellar ni firmar. Llegó a cobrar treinta y cinco pesetas por kilómetro frente a las veintidós reglamentarias. El Supremo califica las cantidades indebidamente percibidas como malversación continuada; no sostiene que todos los importes percibidos del Ayuntamiento fueran ilícitos.
 
-La sentencia distingue cantidades percibidas globalmente, 988.125 pesetas cobradas indebidamente, la responsabilidad contable de 1.492,99 euros ya devuelta y la responsabilidad civil penal directa de 4.508,76 euros. El fundamento sexto indica que la devolución contable se descuenta de las responsabilidades civiles. No se suman estas partidas ni se conserva el coste redondeado de 13.000 euros como daño total. El desglose en pesetas del relato presenta además una discordancia aritmética entre el total y sus componentes, por lo que no se reconstruye una suma corregida sin documentación adicional.
+La sentencia distingue cantidades percibidas globalmente, 988.125 pesetas cobradas indebidamente, la responsabilidad contable de 1.492,99 euros ya devuelta y la responsabilidad civil penal directa de 4.508,76 euros. El fundamento sexto indica que la devolución contable se descuenta de las responsabilidades civiles. Estas partidas no forman un perjuicio conjunto acreditado de 13.000 euros. El desglose en pesetas del relato presenta además una discordancia aritmética entre el total y sus componentes, por lo que no se reconstruye una suma corregida sin documentación adicional.
 
-El fundamento tercero limita expresamente la casación a los cobros de dietas: no se recurrió la absolución por las subvenciones. Se retira por ello la afirmación de que el Supremo condenó por desviar unos 265.000 euros de subvenciones. El origen público de esas transferencias y su aplicación a otros fines no permiten tratarlas en bloque como apropiación personal acreditada.
+El fundamento tercero limita expresamente la casación a los cobros de dietas: no se recurrió la absolución por las subvenciones. No está acreditada una condena del Supremo por desviar unos 265.000 euros de subvenciones. El origen público de esas transferencias y su aplicación a otros fines no permiten tratarlas en bloque como apropiación personal acreditada.
 
-Las dilaciones apreciadas no son simplemente veinte años desde los hechos: el Supremo menciona doce años desde la apertura del procedimiento y una paralización de cuatro años y ocho meses esperando una pericial. Esa demora fundamenta la reducción de pena. La devolución contable fue anterior al juicio, sin fecha de pago exacta aquí acreditada; se elimina el hito de mayo de 2020.
+Las dilaciones apreciadas no son simplemente veinte años desde los hechos: el Supremo menciona doce años desde la apertura del procedimiento y una paralización de cuatro años y ocho meses esperando una pericial. Esa demora fundamenta la reducción de pena. La devolución contable fue anterior al juicio, sin fecha de pago exacta aquí acreditada.
 
-**Límites al 17 de octubre de 2026:** se ha descargado y cotejado el PDF oficial de siete páginas, con cabecera, antecedentes y fallos, y lectura de los fundamentos sobre el alcance del recurso, devolución y dilaciones. No se han obtenido la sentencia contable original, el fallo de instancia separado ni resoluciones posteriores de ejecución, suspensión, indulto o amparo. La identidad nominal procede de la noticia de 2009 y de la copia nominal de la resolución localizada mediante consulta web; el PDF de Cendoj emplea un seudónimo, que no se utiliza para inferir identidades. La descarga directa de esa copia nominal devolvió HTTP 403. No se afirma ingreso en prisión, cumplimiento total o extinción de penas, ni firmeza por el mero paso del tiempo. La generación del PDF de Cendoj en octubre de 2026 no cambia la fecha de la sentencia de 2010.
+**Información pendiente al 17 de octubre de 2026:** No se han obtenido la sentencia contable original, el fallo de instancia separado ni resoluciones posteriores de ejecución, suspensión, indulto o amparo. La identidad nominal procede de la noticia de 2009 y de la copia nominal de la resolución localizada mediante consulta web; el PDF de Cendoj emplea un seudónimo, que no se utiliza para inferir identidades. No se afirma ingreso en prisión, cumplimiento total o extinción de penas, ni firmeza por el mero paso del tiempo. La generación del PDF de Cendoj en octubre de 2026 no cambia la fecha de la sentencia de 2010.

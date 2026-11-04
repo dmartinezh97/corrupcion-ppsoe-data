@@ -104,17 +104,17 @@ La memoria de Fiscalía publicada en 2014 identifica las diligencias 1315/2012 y
 
 La cobertura contemporánea de EFE documenta los registros del 12 de septiembre de 2013 y tres detenciones del 18 de octubre. Una noticia posterior identifica las medidas cautelares impuestas a varios cargos y su revocación. Esta decisión cautelar no debe confundirse con una absolución por los hechos ni con un archivo definitivo. El empresario inicialmente mencionado solo aparece con iniciales en la fuente contemporánea leída, por lo que no se reconstruye su identidad a partir de ellas.
 
-## Archivos y solapamiento con Tosca
+## Archivos y relación con Tosca
 
 Las noticias de enero de 2020 mezclan anuncios de archivo de Ópera con piezas de Tosca. La información sobre Eulen titula absolución de 21 personas, pero reproduce un auto de sobreseimiento provisional, no una sentencia tras juicio. Se conserva esa distinción sin incorporar a todas esas personas como absueltas judicialmente en Ópera.
 
 La noticia de octubre relata que Imbroda presentó un auto de la Audiencia de 8 de octubre de 2020, desestimatorio de la apelación fiscal. El original no se ha recuperado: no se convierte la expresión periodística «archivo definitivo» en una declaración verificada de sobreseimiento libre o de firmeza para cada pieza y persona. Las declaraciones de honestidad realizadas por el dirigente son valoraciones políticas, no el fallo del tribunal. Tampoco su papel en la comparecencia acredita que hubiera estado investigado en este procedimiento.
 
-Quedan pendientes los originales y el cotejo de los desenlaces individuales. No se atribuyen a Ópera las resoluciones de Tosca, la causa de abogados, otras subvenciones o los procedimientos sobre libros de texto. Las búsquedas hasta el 17 de octubre de 2026 no aportaron una resolución propia posterior verificable, sin que la ausencia de noticias pruebe que no existan actuaciones.
+Quedan pendientes los originales y el cotejo de los desenlaces individuales. No se atribuyen a Ópera las resoluciones de Tosca, la causa de abogados, otras subvenciones o los procedimientos sobre libros de texto. Al 17 de octubre de 2026, no consta una resolución posterior verificable de este procedimiento; la ausencia de noticias no demuestra la inexistencia de otras actuaciones.
 
 ## Importes y documentación
 
-No se mantiene la cifra de diez millones como daño penal: las cuantías de contratos y facturación de las empresas no son por sí mismas malversación o perjuicio judicialmente declarado. Tampoco se suman los volúmenes de sociedades o de distintas piezas. La memoria de Fiscalía es una fuente oficial sobre el origen de la investigación; no sustituye los autos de archivo y no se presenta como sentencia.
+Los diez millones no están acreditados como daño penal: las cuantías de contratos y facturación de las empresas no son por sí mismas malversación o perjuicio judicialmente declarado. Tampoco se suman los volúmenes de sociedades o de distintas piezas. La memoria de Fiscalía es una fuente oficial sobre el origen de la investigación; no sustituye los autos de archivo y no se presenta como sentencia.
 
 ## Fuentes
 

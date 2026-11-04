@@ -44,8 +44,8 @@ implicados:
 - nombre: Francisco Piedras
   cargo: Socio director de Equipo Económico; antiguo director del gabinete de Martínez Rico en la Secretaría de
     Estado
-  rol: Identificado entre los afectados por la querella de 2017. Se conserva el nombre de uso acreditado, sin completar
-    ni fusionar nombres de las noticias. No se acredita aquí el auto nominal de archivo.
+  rol: Identificado entre los afectados por la querella de 2017. Las fuentes acreditan ese nombre de uso, sin
+    permitir completar otros nombres o establecer equivalencias. No se acredita aquí el auto nominal de archivo.
 - nombre: Manuel Teruel
   cargo: Expresidente del Consejo Superior de Cámaras de Comercio
   rol: Investigado por la contratación; incluido expresamente entre los beneficiados por el archivo conocido en

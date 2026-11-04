@@ -9,49 +9,53 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución en Mercasa-Angola
-descripcion: 'La denominación Mercasa reúne investigaciones sobre operaciones internacionales con conexiones personales
-  y documentales con Lezo y Defex. Deben distinguirse la empresa pública Mercasa y el Consorcio Mercasa Incatema
-  Consulting (CMIC), una sociedad privada participada por aquella. La absolución de abril de 2026 corresponde a
-  Mercasa-Angola, no al conjunto de Lezo ni a cualquier contrato de Mercasa.
+descripcion: >-
+  La denominación Mercasa reúne investigaciones sobre operaciones internacionales con conexiones personales y
+  documentales con Lezo y Defex. Deben distinguirse la empresa pública Mercasa y el Consorcio Mercasa Incatema
+  Consulting (CMIC), una sociedad privada participada por aquella. La absolución de abril de 2026 corresponde
+  a Mercasa-Angola, no al conjunto de Lezo ni a cualquier contrato de Mercasa.
 
 
-  La sentencia 10/2026, de 28 de abril, de la Sección Cuarta de la Sala de lo Penal de la Audiencia Nacional resolvió
-  el PA 3/2024, procedente de las DP 65/2018 del Juzgado Central de Instrucción 5. Su objeto fue la relación contractual
-  para el mercado mayorista de Luanda y sus infraestructuras, desarrollada entre 2006 y 2017. Las diligencias se
-  incoaron el 4 de julio de 2018 y reunieron actuaciones procedentes de otras causas, incluida documentación inhibida
-  desde Lezo en mayo de 2017. La causa fue instruida por José de la Mata y posteriormente Santiago Pedraz: no debe
-  situarse todo el procedimiento de Angola en el Juzgado Central 6 de Lezo.
+  La sentencia 10/2026, de 28 de abril, de la Sección Cuarta de la Sala de lo Penal de la Audiencia Nacional
+  resolvió el PA 3/2024, procedente de las DP 65/2018 del Juzgado Central de Instrucción 5. Su objeto fue la
+  relación contractual para el mercado mayorista de Luanda y sus infraestructuras, desarrollada entre 2006 y
+  2017. Las diligencias se incoaron el 4 de julio de 2018 y reunieron actuaciones procedentes de otras causas,
+  incluida documentación inhibida desde Lezo en mayo de 2017. La causa fue instruida por José de la Mata y
+  posteriormente Santiago Pedraz: no debe situarse todo el procedimiento de Angola en el Juzgado Central 6 de
+  Lezo.
 
 
-  La Audiencia absolvió a quince personas físicas y tres jurídicas. El fallo individualiza los delitos atribuidos
-  a cada acusado y contiene una absolución por retirada de acusación. Las empresas absueltas son CMIC, Incatema
-  Consulting & Engineering y Tuy Cincuenta. Entre los absueltos identificados nominalmente por la prensa figuran
-  María Jesús Prieto Jiménez, los hermanos Francisco Javier y José Manuel Pardo de Santayana y José Herrero de Egaña.
-  El tribunal no consideró demostrados los sobornos y declaró que no se había constatado perjuicio patrimonial de
-  Mercasa derivado de su participación en el consorcio. La acusación contra la propia Mercasa se había retirado
-  al inicio del juicio, según la crónica de El País; su situación se distingue de la absolución de CMIC y las otras
-  sociedades.
+  La Audiencia absolvió a quince personas físicas y tres jurídicas. El fallo individualiza los delitos
+  atribuidos a cada acusado y contiene una absolución por retirada de acusación. Las empresas absueltas son
+  CMIC, Incatema Consulting & Engineering y Tuy Cincuenta. Entre los absueltos identificados nominalmente por
+  la prensa figuran María Jesús Prieto Jiménez, los hermanos Francisco Javier y José Manuel Pardo de Santayana
+  y José Herrero de Egaña. El tribunal no consideró demostrados los sobornos y declaró que no se había
+  constatado perjuicio patrimonial de Mercasa derivado de su participación en el consorcio. La acusación
+  contra la propia Mercasa se había retirado al inicio del juicio, según la crónica de El País; su situación
+  se distingue de la absolución de CMIC y las otras sociedades.
 
 
-  La sentencia permite apelación ante la Sala de Apelación de la Audiencia Nacional en diez días desde la notificación.
-  No se ha recuperado una resolución posterior sobre recursos ni una declaración de firmeza hasta octubre de 2026.
-  Tampoco se dispone aquí del resultado individual de todas las actuaciones relacionadas con Pablo González, Eduardo
-  Ameijide o José Juan Caballero: no se les atribuye automáticamente la absolución de Angola.
+  La sentencia permite apelación ante la Sala de Apelación de la Audiencia Nacional en diez días desde la
+  notificación. No se ha recuperado una resolución posterior sobre recursos ni una declaración de firmeza
+  hasta octubre de 2026. Tampoco se dispone aquí del resultado individual de todas las actuaciones
+  relacionadas con Pablo González, Eduardo Ameijide o José Juan Caballero: no se les atribuye automáticamente
+  la absolución de Angola.
 
 
-  La SEPI comunicó el 21 de abril de 2017 la dimisión del presidente Eduardo Ameijide y Montenegro y el cese de
-  Pablo González González y María Jesús Prieto Jiménez como directivos. Prieto era secretaria general y del consejo
-  de Mercasa y abogada del Estado, no procuradora del Estado ni presidenta de Mercasa. Otro episodio, documentado
-  por infoLibre a partir de un informe pericial, fue el contrato de intermediación en Argentina firmado en diciembre
-  de 2016 y cancelado el 28 de abril de 2017, con devolución de 2.620 euros: esa crónica no acredita un propósito
-  de destruir pruebas ni su desenlace penal. La noticia sobre un robo en Mercasa sitúa el hecho en Navidad de 2017,
-  no en abril; no acredita que fuera una destrucción de pruebas ordenada por sus directivos.
+  La SEPI comunicó el 21 de abril de 2017 la dimisión del presidente Eduardo Ameijide y Montenegro y el cese
+  de Pablo González González y María Jesús Prieto Jiménez como directivos. Prieto era secretaria general y del
+  consejo de Mercasa y abogada del Estado, no procuradora del Estado ni presidenta de Mercasa. Otro episodio,
+  documentado por infoLibre a partir de un informe pericial, fue el contrato de intermediación en Argentina
+  firmado en diciembre de 2016 y cancelado el 28 de abril de 2017, con devolución de 2.620 euros: esa crónica
+  no acredita un propósito de destruir pruebas ni su desenlace penal. La noticia sobre un robo en Mercasa
+  sitúa el hecho en Navidad de 2017, no en abril; no acredita que fuera una destrucción de pruebas ordenada
+  por sus directivos.
 
 
-  No se registra como coste un contrato, una comisión sospechosa, una petición de decomiso o una fianza. La devolución
-  de 971.601 euros ordenada en el fallo es de una consignación al inicio del juicio, no una indemnización ni prueba
-  de ejecución efectiva. Siguen pendientes la firmeza y posibles recursos de Angola y los desenlaces de los ámbitos
-  distintos conservados en esta ficha; por ello la revisión está incompleta.'
+  No se registra como coste un contrato, una comisión sospechosa, una petición de decomiso o una fianza. La
+  devolución de 971.601 euros ordenada en el fallo es de una consignación al inicio del juicio, no una
+  indemnización ni prueba de ejecución efectiva. Siguen pendientes la firmeza y posibles recursos de Angola y
+  los desenlaces de los ámbitos distintos conservados en esta ficha.
 resumen: Mercasa-Angola terminó con absoluciones en la Audiencia Nacional en abril de 2026, mediante sentencia apelable.
   No se acredita aquí su firmeza ni se extiende ese resultado a los demás contratos e investigados relacionados
   con Mercasa y Lezo.

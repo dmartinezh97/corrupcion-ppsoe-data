@@ -30,8 +30,8 @@ implicados:
     contrastada.
 - nombre: Francisco José Blasco Perepérez
   cargo: Empresario y hermano de Sergio Blasco
-  rol: Absuelto por falta de pruebas según la información de junio de 2026. No se conserva como investigado actual
-    ni se le atribuye la condena de su hermano. Firmeza individual posterior sin contrastar.
+  rol: Absuelto por falta de pruebas según la información de junio de 2026. No consta una investigación actual
+    ni una condena como la de su hermano. Firmeza individual posterior sin contrastar.
 - nombre: Francisco José Escandell Vila
   cargo: Empresario y administrador de sociedades
   rol: Condenado a tres años y dos meses de prisión según la nota del CGPJ; identificado nominalmente por elDiario.es.
@@ -91,8 +91,7 @@ cronologia:
   - https://www.eldiario.es/comunitat-valenciana/destapo-saqueo-familia-blasco-sanidad-publica-valenciana-soplo-certero-ocho-anos-instruccion_1_9678758.html
 - fecha: '2025-09-16'
   titulo: Inicio del juicio
-  descripcion: El CGPJ confirma que las sesiones del juicio de once acusados comenzaron este día. No fue en octubre,
-    como señalaba la ficha anterior.
+  descripcion: El CGPJ confirma que las sesiones del juicio de once acusados comenzaron este día.
   type: juicio
   urls:
   - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/-Condenados-seis-acusados-por-el-amano-de-contratos-sanitarios-del-Hospital-General-de-Valencia-y-el-cobro-de-mas-de-un-millon-de-euros-en-comisiones
@@ -114,7 +113,7 @@ cronologia:
   - https://www.eldiario.es/comunitat-valenciana/audiencia-valencia-condena-sobrino-rafael-blasco-siete-anos-carcel-corrupcion_1_13331449.html
 ---
 
-Osvaldos se refiere a la adjudicación de contratos del Hospital General Universitario de Valencia entre 2005 y 2014 y a sociedades utilizadas para canalizar comisiones. La [información retrospectiva de 2022](https://www.eldiario.es/comunitat-valenciana/destapo-saqueo-familia-blasco-sanidad-publica-valenciana-soplo-certero-ocho-anos-instruccion_1_9678758.html) sitúa el origen en una denuncia de Esquerra Unida de abril de 2014, sin aportar el día exacto que permita mantener el 23 de abril de la ficha anterior. Marina Albiol intervenía en la denuncia, no como acusada. Rafael Blasco aparece como familiar del exgerente; su condena en Cooperación no es una condena en Osvaldos. Por eso ambos se separan de la lista de encausados.
+Osvaldos se refiere a la adjudicación de contratos del Hospital General Universitario de Valencia entre 2005 y 2014 y a sociedades utilizadas para canalizar comisiones. La [información retrospectiva de 2022](https://www.eldiario.es/comunitat-valenciana/destapo-saqueo-familia-blasco-sanidad-publica-valenciana-soplo-certero-ocho-anos-instruccion_1_9678758.html) sitúa el origen en una denuncia de Esquerra Unida de abril de 2014, sin aportar el día exacto. Marina Albiol intervenía en la denuncia, no como acusada. Rafael Blasco aparece como familiar del exgerente; su condena en Cooperación no es una condena en Osvaldos. Por eso ambos se separan de la lista de encausados.
 
 El [CGPJ comunicó el resultado el 25 de junio de 2026](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/-Condenados-seis-acusados-por-el-amano-de-contratos-sanitarios-del-Hospital-General-de-Valencia-y-el-cobro-de-mas-de-un-millon-de-euros-en-comisiones): seis condenados y cinco absueltos después del juicio celebrado entre el 16 de septiembre y el 4 de diciembre de 2025. La nota corresponde a la Sección Primera de la Audiencia, dato que prevalece sobre referencias periodísticas a la Quinta. La publicación y notificación no acreditan por sí solas la fecha exacta de firma de la sentencia.
 
@@ -126,4 +125,4 @@ Los aproximadamente 30–35 millones citados durante la instrucción se refería
 
 El relato de 2022 aludía asimismo al archivo de una rama internacional. Sin su resolución original no se extiende a ella la condena del juicio principal, ni se mantienen investigaciones actuales por las sospechas de entonces. Las declaraciones de una acusada o sus acuerdos con Fiscalía se distinguen del resultado final para cada persona.
 
-La sentencia difundida admitía recurso de casación. Al corte del 15 de octubre de 2026 no se ha contrastado la posterior presentación o resolución de recursos ni su firmeza individual. No se dispone de la sentencia original anunciada de 483 páginas, por lo que no se añaden documentos judiciales y la revisión permanece incompleta.
+La sentencia difundida admitía recurso de casación. Al corte del 15 de octubre de 2026 no se ha contrastado la posterior presentación o resolución de recursos ni su firmeza individual. No se dispone de la sentencia original anunciada de 483 páginas.

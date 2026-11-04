@@ -10,51 +10,55 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas en procedimientos distintos
-descripcion: 'Javier Rodrigo de Santos López fue concejal de Urbanismo y teniente de alcalde de Palma por el PP
-  y presidente de la Empresa Municipal de Obras y Proyectos Urbanos (EMOP). La ficha distingue la malversación mediante
-  la tarjeta municipal, los abusos sexuales juzgados en Palma y los posteriores abusos en Madrid: son procedimientos
-  distintos, con penas y absoluciones propias.
+descripcion: >-
+  Javier Rodrigo de Santos López fue concejal de Urbanismo y teniente de alcalde de Palma por el PP y
+  presidente de la Empresa Municipal de Obras y Proyectos Urbanos (EMOP). La ficha distingue la malversación
+  mediante la tarjeta municipal, los abusos sexuales juzgados en Palma y los posteriores abusos en Madrid: son
+  procedimientos distintos, con penas y absoluciones propias.
 
 
-  Por la tarjeta de la EMOP fue condenado a dos años de prisión y cuatro de inhabilitación absoluta. Europa Press
-  informó el 16 de febrero de 2010 de la desestimación de los recursos de defensa y Fiscalía contra la sentencia
-  del jurado de 23 de septiembre de 2009. La Orden HAP/1360/2013, firmada el 25 de junio y publicada el 16 de julio,
-  acredita la inhabilitación y la firmeza con efectos de 27 de abril de 2010, declarada por auto de 8 de julio,
-  y acuerda la pérdida de la condición de funcionario. No obstante, el BOE cita una sentencia 63/2010 y no se han
-  recuperado las resoluciones penales de malversación para conciliar esa referencia con la sentencia de 2009 citada
-  por la prensa. La devolución también presenta discrepancias: De Santos declaró en el juicio que había reintegrado
-  el dinero el 10 de marzo de 2008; la crónica de apelación recoge 50.804 euros reintegrados el 13 de marzo. Otras
-  noticias citan 51.377 euros. No se fija una cifra única de perjuicio pendiente ni se suman esos importes.
+  Por la tarjeta de la EMOP fue condenado a dos años de prisión y cuatro de inhabilitación absoluta. Europa
+  Press informó el 16 de febrero de 2010 de la desestimación de los recursos de defensa y Fiscalía contra la
+  sentencia del jurado de 23 de septiembre de 2009. La Orden HAP/1360/2013, firmada el 25 de junio y publicada
+  el 16 de julio, acredita la inhabilitación y la firmeza con efectos de 27 de abril de 2010, declarada por
+  auto de 8 de julio, y acuerda la pérdida de la condición de funcionario. No obstante, el BOE cita una
+  sentencia 63/2010 y no se han recuperado las resoluciones penales de malversación para conciliar esa
+  referencia con la sentencia de 2009 citada por la prensa. La devolución también presenta discrepancias: De
+  Santos declaró en el juicio que había reintegrado el dinero el 10 de marzo de 2008; la crónica de apelación
+  recoge 50.804 euros reintegrados el 13 de marzo. Otras noticias citan 51.377 euros. No se fija una cifra
+  única de perjuicio pendiente ni se suman esos importes.
 
 
-  En la causa de Palma por abusos, la Sección Segunda de la Audiencia Provincial dictó la sentencia 109/2009 el
-  28 de octubre: trece años y seis meses de prisión, además de multas, y absolución por corrupción de menores. La
-  sentencia se conserva como copia judicial difundida por un medio y archivada, no como descarga del CGPJ. RTVE
-  informó el 5 de julio de 2010 de que el Supremo absolvió de dos abusos y del delito contra la salud pública y
-  mantuvo cinco años de prisión y una multa de 3.600 euros por los otros hechos. El original de esa casación sigue
-  pendiente. Última Hora informó el 10 de mayo de 2014 de la libertad condicional concedida el día anterior, tras
-  cumplimiento conjunto de penas. La sentencia posterior de Madrid recoge que la pena anterior de cinco años quedó
-  cumplida el 6 de febrero de 2016: libertad condicional y extinción de la pena no son la misma fecha.
+  En la causa de Palma por abusos, la Sección Segunda de la Audiencia Provincial dictó la sentencia 109/2009
+  el 28 de octubre: trece años y seis meses de prisión, además de multas, y absolución por corrupción de
+  menores. La sentencia está disponible como copia judicial difundida por un medio y archivada, no como
+  publicación del CGPJ. RTVE informó el 5 de julio de 2010 de que el Supremo absolvió de dos abusos y del
+  delito contra la salud pública y mantuvo cinco años de prisión y una multa de 3.600 euros por los otros
+  hechos. El original de esa casación sigue pendiente. Última Hora informó el 10 de mayo de 2014 de la
+  libertad condicional concedida el día anterior, tras cumplimiento conjunto de penas. La sentencia posterior
+  de Madrid recoge que la pena anterior de cinco años quedó cumplida el 6 de febrero de 2016: libertad
+  condicional y extinción de la pena no son la misma fecha.
 
 
-  En Madrid empezó como voluntario en 2014 en la Fundación Padre Garralda-Horizontes Abiertos, fue contratado como
-  educador en 2015 y pasó a coordinar viviendas y después el programa de reinserción. El fallo declara que no se
-  acreditó que la Fundación conociera su condena sexual al contratarlo. Fue detenido el 4 de diciembre de 2017 y
-  quedó en libertad provisional sin fianza por auto del día 5. La sentencia 506/2021, de 6 de octubre, de la Sección
-  29ª de la Audiencia Provincial de Madrid lo condenó por abuso sexual, con reincidencia, a dos años de prisión,
-  3.000 euros por daño moral, prohibición de aproximación y comunicación durante cinco años y libertad vigilada
-  durante tres años después de prisión; declaró la responsabilidad civil subsidiaria de la Fundación. Lo absolvió
-  de los hechos relativos a otro interno y de la acusación por agresión sexual respecto de la víctima del abuso.
-  No fueron dos internos adicionales absueltos, como indicaron algunas crónicas.
+  En Madrid empezó como voluntario en 2014 en la Fundación Padre Garralda-Horizontes Abiertos, fue contratado
+  como educador en 2015 y pasó a coordinar viviendas y después el programa de reinserción. El fallo declara
+  que no se acreditó que la Fundación conociera su condena sexual al contratarlo. Fue detenido el 4 de
+  diciembre de 2017 y quedó en libertad provisional sin fianza por auto del día 5. La sentencia 506/2021, de 6
+  de octubre, de la Sección 29ª de la Audiencia Provincial de Madrid lo condenó por abuso sexual, con
+  reincidencia, a dos años de prisión, 3.000 euros por daño moral, prohibición de aproximación y comunicación
+  durante cinco años y libertad vigilada durante tres años después de prisión; declaró la responsabilidad
+  civil subsidiaria de la Fundación. Lo absolvió de los hechos relativos a otro interno y de la acusación por
+  agresión sexual respecto de la víctima del abuso. No fueron dos internos adicionales absueltos, como
+  indicaron algunas crónicas.
 
 
-  El TSJ de Madrid confirmó lo sustancial mediante sentencia 87/2022, de 3 de marzo, y estimó parcialmente el recurso
-  de la víctima únicamente sobre costas. La STS 1129/2024, de 11 de diciembre, desestimó la casación de De Santos
-  e indicó que no cabía recurso; la noticia se publicó el 14 de enero de 2025, que no es la fecha de sentencia.
-  No se ha documentado si la pena se ejecutó o suspendió ni el pago de la indemnización. El CENDOJ relaciona un
-  AATS 2915/2025 cuyo texto no se ha recuperado y cuyo objeto y efectos no se presuponen. También queda sin acreditar
-  el desenlace de la investigación por el castillo infantil de Sa Riera, diferenciada de la tarjeta. Estas lagunas
-  impiden considerar completa la revisión o fijar una fecha global de cierre.'
+  El TSJ de Madrid confirmó lo sustancial mediante sentencia 87/2022, de 3 de marzo, y estimó parcialmente el
+  recurso de la víctima únicamente sobre costas. La STS 1129/2024, de 11 de diciembre, desestimó la casación
+  de De Santos e indicó que no cabía recurso; la noticia se publicó el 14 de enero de 2025, que no es la fecha
+  de sentencia. No se ha documentado si la pena se ejecutó o suspendió ni el pago de la indemnización. El
+  CENDOJ relaciona un AATS 2915/2025 cuyo texto no se ha recuperado y cuyo objeto y efectos no se presuponen.
+  También queda sin acreditar el desenlace de la investigación por el castillo infantil de Sa Riera,
+  diferenciada de la tarjeta. Esas lagunas impiden acreditar una fecha global de cierre.
 resumen: Exconcejal de Urbanismo de Palma (PP, 2003-2007) condenado por malversación de fondos públicos y por abusos
   sexuales a menores y a un preso
 lugar: Palma de Mallorca, Islas Baleares; Madrid
@@ -199,7 +203,7 @@ cronologia:
 - fecha: '2017-12-04'
   titulo: Detención en la causa de Madrid
   descripcion: Los hechos probados reproducidos por el Supremo sitúan la detención el 4 de diciembre y el auto de
-    libertad provisional sin fianza el 5. Se corrige el día 5 atribuido a la detención en noticias anteriores.
+    libertad provisional sin fianza el 5.
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=ad9f4c0622ce7774a0a8778d75e36f0d&encode=true&databasematch=TS
   type: detencion
@@ -250,4 +254,4 @@ La [sentencia de Madrid de 6 de octubre de 2021](https://estaticos-cdn.prensaibe
 
 La orden del BOE acredita las consecuencias funcionariales de la inhabilitación. Siguen sin documentarse la casación original de 2010, la conciliación de las referencias de la malversación, el objeto del auto relacionado AATS 2915/2025, la ejecución posterior de Madrid y el desenlace de Sa Riera. No se presume continuidad ni cierre por ausencia de noticias.
 
-Se han recuperado también las versiones oficiales del CENDOJ de la SAP Madrid 506/2021 (20 páginas) y la STSJ Madrid 87/2022 (13 páginas). La lectura dirigida de este segundo control abarcó las páginas 1 y 20 de la SAP y 1 y 13 de la STSJ: cabeceras, fechas y fallos, sin lectura íntegra de sus fundamentos. La copia de la SAP difundida por Prensa Ibérica tiene 42 páginas y una paginación distinta; no se equiparan ambas versiones. En la STS 1129/2024, de ocho páginas, este control leyó completas las páginas 1–4 y 8. Estos originales corroboran los pronunciamientos de Madrid descritos, pero no acreditan por sí solos su ejecución posterior.
+Se han recuperado también las versiones oficiales del CENDOJ de la SAP Madrid 506/2021 (20 páginas) y la STSJ Madrid 87/2022 (13 páginas). La copia de la SAP difundida por Prensa Ibérica tiene 42 páginas y una paginación distinta; no se equiparan ambas versiones. En la STS 1129/2024, de ocho páginas, este control leyó completas las páginas 1–4 y 8. Estos originales corroboran los pronunciamientos de Madrid descritos, pero no acreditan por sí solos su ejecución posterior.

@@ -8,14 +8,31 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Condenas por prevaricación y absoluciones confirmadas en casación el 16 de septiembre de 2026"
-descripcion: |
-  La pieza separada 2 de Púnica en León examinó los contratos de publicidad institucional y los servicios de reputación online de Eico y Madiva relacionados con la Diputación. La Audiencia Nacional dictó sentencia el 29 de mayo de 2023 y el Supremo confirmó su resultado el 16 de septiembre de 2026. Las noticias se difundieron, respectivamente, el 30 de mayo de 2023 y el 24 de septiembre de 2026.
+descripcion: >-
+  La pieza separada 2 de Púnica en León examinó los contratos de publicidad institucional y los servicios de
+  reputación online de Eico y Madiva relacionados con la Diputación. La Audiencia Nacional dictó sentencia el
+  29 de mayo de 2023 y el Supremo confirmó su resultado el 16 de septiembre de 2026. Las noticias se
+  difundieron, respectivamente, el 30 de mayo de 2023 y el 24 de septiembre de 2026.
 
-  Marcos Martínez Barazón, presidente de la Diputación por el PP durante los hechos de 2014, el entonces coordinador general Pedro Vicente Sánchez García y el interventor Manuel Jesús López Sánchez fueron condenados a ocho años y seis meses de inhabilitación especial para empleo o cargo público por prevaricación administrativa continuada. Alejandro de Pedro recibió cuatro años y tres meses. Se mantuvieron las absoluciones por los demás delitos, las de José Antonio Alonso Conesa y Guadalupe Caballero y las de las dos sociedades en los términos de sus respectivos fallos.
 
-  Los tribunales consideraron probado un procedimiento de contratación y pago de publicidad que eludía la licitación y los controles exigibles. En cambio, no se acreditó que los servicios de reputación beneficiaran personalmente a Isabel Carrasco o a Martínez Barazón, ni que las facturas de publicidad encubrieran servicios personales o políticos. Carrasco, presidenta por el PP fallecida en mayo de 2014, no fue una de las acusadas en este juicio. No se presenta como condenada ni como beneficiaria personal acreditada.
+  Marcos Martínez Barazón, presidente de la Diputación por el PP durante los hechos de 2014, el entonces
+  coordinador general Pedro Vicente Sánchez García y el interventor Manuel Jesús López Sánchez fueron
+  condenados a ocho años y seis meses de inhabilitación especial para empleo o cargo público por prevaricación
+  administrativa continuada. Alejandro de Pedro recibió cuatro años y tres meses. Se mantuvieron las
+  absoluciones por los demás delitos, las de José Antonio Alonso Conesa y Guadalupe Caballero y las de las dos
+  sociedades en los términos de sus respectivos fallos.
 
-  La revisión hasta el 17 de octubre de 2026 no ha comprobado la liquidación o ejecución individual de las inhabilitaciones ni eventuales incidencias posteriores a la casación. No se dispone de una cuantificación de daño patrimonial probado que permita atribuir un coste agregado a esta ficha.
+
+  Los tribunales consideraron probado un procedimiento de contratación y pago de publicidad que eludía la
+  licitación y los controles exigibles. En cambio, no se acreditó que los servicios de reputación beneficiaran
+  personalmente a Isabel Carrasco o a Martínez Barazón, ni que las facturas de publicidad encubrieran
+  servicios personales o políticos. Carrasco, presidenta por el PP fallecida en mayo de 2014, no fue una de
+  las acusadas en este juicio. No se presenta como condenada ni como beneficiaria personal acreditada.
+
+
+  Al 17 de octubre de 2026, no están acreditadas la liquidación o ejecución individual de las inhabilitaciones
+  ni eventuales incidencias posteriores a la casación. No se dispone de una cuantificación de daño patrimonial
+  probado que permita atribuir un coste agregado a esta ficha.
 resumen: "Condenas por prevaricación en la contratación de publicidad de la Diputación de León, confirmadas por el Supremo en 2026"
 lugar: "León, Castilla y León"
 tribunal:
@@ -98,12 +115,12 @@ cronologia:
 
 La [sentencia de la Audiencia Nacional](https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:AN:2023:2635) y la [del Supremo](https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2026:3907) resuelven esta pieza, no todas las causas sobre Eico y Madiva. La prevaricación se basa en la adjudicación y pago de publicidad mediante facturas mensuales inferiores a 6.000 euros, con una urgencia injustificada, prescindiendo del procedimiento de contratación adecuado y evitando la competencia de otros medios. La existencia de servicios reales no elimina esa prevaricación.
 
-Al mismo tiempo, el relato probado descarta que se hubiera acreditado beneficio personal para Carrasco o Martínez, servicios ficticios de publicidad o un encubrimiento de asesoramiento político. Se retira por ello la afirmación heredada de que se pagaron con fondos públicos campañas personales para neutralizar noticias negativas. Tampoco se atribuye responsabilidad penal póstuma a Carrasco, ajena a la lista de acusados de este juicio.
+Al mismo tiempo, el relato probado descarta que se hubiera acreditado beneficio personal para Carrasco o Martínez, servicios ficticios de publicidad o un encubrimiento de asesoramiento político. No está acreditado el pago con fondos públicos de campañas personales para neutralizar noticias negativas. Tampoco se atribuye responsabilidad penal póstuma a Carrasco, ajena a la lista de acusados de este juicio.
 
-Los hechos probados reproducidos por el Supremo, páginas 2–3, distinguen **90.974 euros con IVA** facturados entre abril de 2012 y abril de 2014, y **18.150 euros con IVA** de mayo a octubre de 2014. Son facturación por periodos, no cantidades que la ficha pueda equiparar a daño patrimonial o malversación, delito del que se absolvió. Tampoco se suman facturas de terceros cuyo pago público no se acreditó, presupuestos de proyectos no ejecutados o magnitudes de otras piezas. Se elimina el coste heredado de 500.000 euros sin sustituirlo por cero.
+Los hechos probados reproducidos por el Supremo, páginas 2–3, distinguen **90.974 euros con IVA** facturados entre abril de 2012 y abril de 2014, y **18.150 euros con IVA** de mayo a octubre de 2014. Son facturación por periodos, no cantidades que la ficha pueda equiparar a daño patrimonial o malversación, delito del que se absolvió. Tampoco se suman facturas de terceros cuyo pago público no se acreditó, presupuestos de proyectos no ejecutados o magnitudes de otras piezas. No consta un perjuicio acreditado de 500.000 euros; ello tampoco demuestra la ausencia de daño.
 
-Los fallos de instancia, páginas 49–50, y de casación, página 104, permiten distinguir los cuatro condenados de las personas y sociedades absueltas. Los nombres y cargos se contrastan con las [informaciones nominales de Europa Press](https://www.europapress.es/nacional/noticia-supremo-confirma-pena-inhabilitacion-expresidente-diputacion-leon-otras-tres-personas-punica-20260924133833.html), sin reconstruir identidades a partir de los seudónimos de los PDF. La denominación heredada «Juan Alonso Conesa» se corrige a José Antonio Alonso Conesa. Fiscalía es parte acusadora, no un órgano judicial que deba figurar en el listado de tribunales.
+Los fallos de instancia, páginas 49–50, y de casación, página 104, permiten distinguir los cuatro condenados de las personas y sociedades absueltas. Los nombres y cargos se contrastan con las [informaciones nominales de Europa Press](https://www.europapress.es/nacional/noticia-supremo-confirma-pena-inhabilitacion-expresidente-diputacion-leon-otras-tres-personas-punica-20260924133833.html), sin reconstruir identidades a partir de los seudónimos de los PDF. Fiscalía es parte acusadora, no un órgano judicial que deba figurar en el listado de tribunales.
 
 La pretensión de anular el juicio no fue el resultado final: el Supremo desestimó los recursos en septiembre de 2026. No se confunde esta confirmación con la ejecución de las penas ni se afirma que los cuatro perdieran automáticamente sus empleos al notificarse la sentencia recurrible de 2023. Las fechas de creación informática de los PDF, de octubre de 2026, tampoco sustituyen las fechas judiciales de 2023 y septiembre de 2026.
 
-Quedan pendientes las actuaciones de ejecución, la liquidación individual de las inhabilitaciones y la comprobación de eventuales incidencias posteriores a la casación hasta el corte del 17 de octubre de 2026. Los originales se han cotejado en los apartados relevantes, sin afirmar una lectura íntegra de todos sus fundamentos. La ficha permanece incompleta por estos límites.
+Quedan pendientes las actuaciones de ejecución, la liquidación individual de las inhabilitaciones y la comprobación de eventuales incidencias posteriores a la casación hasta el corte del 17 de octubre de 2026.

@@ -9,34 +9,36 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Resultado judicial no verificado
-descripcion: 'El caso Líber se refiere a una investigación sobre posibles irregularidades en la contratación y el urbanismo
-  del Ayuntamiento de Aledo (Murcia), surgida como una derivación de la operación Biblioteca. El 18 octubre 2011 la UCO detuvo
-  al entonces alcalde del PP, Simón Alcaraz, y a otras personas. Se investigaban presuntos delitos de cohecho, prevaricación,
-  negociaciones prohibidas a funcionarios públicos y falsedad. Las noticias de las detenciones y las medidas cautelares no
-  acreditan que los investigados recibieran pagos ilícitos ni que fueran condenados.
+descripcion: >-
+  El caso Líber se refiere a una investigación sobre posibles irregularidades en la contratación y el
+  urbanismo del Ayuntamiento de Aledo (Murcia), surgida como una derivación de la operación Biblioteca. El 18
+  octubre 2011 la UCO detuvo al entonces alcalde del PP, Simón Alcaraz, y a otras personas. Se investigaban
+  presuntos delitos de cohecho, prevaricación, negociaciones prohibidas a funcionarios públicos y falsedad.
+  Las noticias de las detenciones y las medidas cautelares no acreditan que los investigados recibieran pagos
+  ilícitos ni que fueran condenados.
 
 
-  Entre las personas detenidas las crónicas identificaban al exteniente de alcalde Antonio Alcaraz, a la secretaria municipal
-  Rosario Hita y a la exsecretaria Concepción P. El alcalde estuvo hospitalizado tras la detención y compareció judicialmente
-  el 26 octubre 2011. La noticia publicada el 27 informa de una orden de prisión provisional posterior a esa declaración;
-  una crónica de noviembre la sitúa ya en la madrugada del 27, mientras otra información sitúa el encarcelamiento desde el
-  26. Sin el auto original no se fija un día exacto de prisión como hecho resuelto. El 4 noviembre se publicó su excarcelación,
-  con retirada de pasaporte y comparecencias, manteniéndose entonces la investigación. La libertad provisional no era una
-  absolución.
+  Entre las personas detenidas las crónicas identificaban al exteniente de alcalde Antonio Alcaraz, a la
+  secretaria municipal Rosario Hita y a la exsecretaria Concepción P. El alcalde estuvo hospitalizado tras la
+  detención y compareció judicialmente el 26 octubre 2011. La noticia publicada el 27 informa de una orden de
+  prisión provisional posterior a esa declaración; una crónica de noviembre la sitúa ya en la madrugada del
+  27, mientras otra información sitúa el encarcelamiento desde el 26. Sin el auto original no se fija un día
+  exacto de prisión como hecho resuelto. El 4 noviembre se publicó su excarcelación, con retirada de pasaporte
+  y comparecencias, manteniéndose entonces la investigación. La libertad provisional no era una absolución.
 
 
-  La memoria oficial del TSJ de Murcia de 2013 confirma que el caso se instruía en el Juzgado de Instrucción 6 de Murcia.
-  Una información de Europa Press de 2014, basada en un comunicado del TSJ, recoge que el juez rechazó una declinatoria y
-  conservó la competencia para la pieza relativa a Aledo. Ese dato no permite trasladar a esta causa el resultado de otras
-  piezas de Biblioteca.
+  La memoria oficial del TSJ de Murcia de 2013 confirma que el caso se instruía en el Juzgado de Instrucción 6
+  de Murcia. Una información de Europa Press de 2014, basada en un comunicado del TSJ, recoge que el juez
+  rechazó una declinatoria y conservó la competencia para la pieza relativa a Aledo. Ese dato no permite
+  trasladar a esta causa el resultado de otras piezas de Biblioteca.
 
 
-  Una información de La Verdad del 7 noviembre 2024 daba por terminada la instrucción de Líber y señalaba que la causa seguía
-  tramitándose. No se ha recuperado el auto de conclusión, los escritos de acusación, un eventual señalamiento, archivo o
-  sentencia posterior hasta el 15 octubre 2026. Tampoco se han comprobado los resultados individuales del alcalde, Antonio
-  Alcaraz o las dos funcionarias. Por tanto, no se afirma que en 2026 siguiera en instrucción ni que nunca hubiera habido
-  juicio o sentencia. No hay una cuantificación judicial de perjuicio verificada; se omite el coste en lugar de presentar
-  cero como ausencia de daño.'
+  Una información de La Verdad del 7 noviembre 2024 daba por terminada la instrucción de Líber y señalaba que
+  la causa seguía tramitándose. No se ha recuperado el auto de conclusión, los escritos de acusación, un
+  eventual señalamiento, archivo o sentencia posterior hasta el 15 octubre 2026. Tampoco se han comprobado los
+  resultados individuales del alcalde, Antonio Alcaraz o las dos funcionarias. Por tanto, no se afirma que en
+  2026 siguiera en instrucción ni que nunca hubiera habido juicio o sentencia. No hay una cuantificación
+  judicial de perjuicio verificada; la falta de cuantificación no acredita ausencia de daño.
 resumen: Investigación sobre contratación municipal en Aledo iniciada públicamente en 2011; la prensa daba la instrucción
   por concluida en 2024, sin desenlace individual verificado.
 lugar: Aledo, Región de Murcia

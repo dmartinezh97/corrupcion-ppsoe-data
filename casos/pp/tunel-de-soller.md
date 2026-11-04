@@ -9,19 +9,20 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absoluciones; cohecho prescrito
-descripcion: 'La causa penal examinó la concesión del túnel de Sóller y la entrega de 50 millones de pesetas por
-  su adjudicatario, Antoni Cuart, con fondos destinados a pagos del PP balear. Gabriel Cañellas y José Antonio Berastáin
-  fueron absueltos por prescripción del cohecho; la prevaricación no quedó establecida. Jeroni Saiz fue absuelto
-  de prevaricación. La sentencia 1417/1998 del Supremo, de 16 de diciembre, estimó parcialmente el recurso de Izquierda
-  Unida respecto de Cuart, apreció también en su conducta cohecho y lo absolvió por prescripción en una segunda
-  sentencia. No hubo condena penal ejecutable por esos hechos. Los 50 millones de pesetas son la dádiva examinada,
-  no un perjuicio patrimonial público cuantificado.
+descripcion: >-
+  La causa penal examinó la concesión del túnel de Sóller y la entrega de 50 millones de pesetas por su
+  adjudicatario, Antoni Cuart, con fondos destinados a pagos del PP balear. Gabriel Cañellas y José Antonio
+  Berastáin fueron absueltos por prescripción del cohecho; la prevaricación no quedó establecida. Jeroni Saiz
+  fue absuelto de prevaricación. La sentencia 1417/1998 del Supremo, de 16 de diciembre, estimó parcialmente
+  el recurso de Izquierda Unida respecto de Cuart, apreció también en su conducta cohecho y lo absolvió por
+  prescripción en una segunda sentencia. No hubo condena penal ejecutable por esos hechos. Los 50 millones de
+  pesetas son la dádiva examinada, no un perjuicio patrimonial público cuantificado.
 
 
-  Debe distinguirse ese proceso del litigio contencioso sobre el rescate de la concesión acordado en 2017: el Supremo
-  confirmó su anulación en julio de 2023. Se han verificado ambas sentencias del Supremo, pero falta el original
-  autónomo de la sentencia penal balear de 1997, el testimonio de firmeza y la liquidación económica final del rescate.
-  Las búsquedas posteriores no permiten dar por comprobada su ejecución a 17 de octubre de 2026.'
+  Debe distinguirse ese proceso del litigio contencioso sobre el rescate de la concesión acordado en 2017: el
+  Supremo confirmó su anulación en julio de 2023. Se han verificado ambas sentencias del Supremo, pero falta
+  el original autónomo de la sentencia penal balear de 1997, el testimonio de firmeza y la liquidación
+  económica final del rescate. No está acreditada su ejecución al 17 de octubre de 2026.
 resumen: Absoluciones y prescripción del cohecho en la concesión del túnel de Sóller
 lugar: Sóller, Mallorca (Illes Balears)
 tribunal:
@@ -146,7 +147,7 @@ cronologia:
 
 El procedimiento se inició por una denuncia de 7 de abril de 1995. La sentencia del Supremo describe una entrega de 50 millones de pesetas el 30 de enero de 1989 y el fraccionamiento posterior del dinero en diez cheques, con pagos al partido y a proveedores. El destino político del dinero no excluyó la apreciación del cohecho. El pago no se transforma por ello en un daño público de 300.000 euros.
 
-La sentencia balear de 24 de julio de 1997, reproducida en la casación, distinguió las absoluciones de prevaricación de las derivadas de la prescripción del cohecho. El Supremo descartó que el relato probado permitiera apreciar la prevaricación solicitada por la acusación. Por tanto, se retira la afirmación de que se hubiera probado judicialmente una adjudicación prevaricadora por alteración de la licitación.
+La sentencia balear de 24 de julio de 1997, reproducida en la casación, distinguió las absoluciones de prevaricación de las derivadas de la prescripción del cohecho. El Supremo descartó que el relato probado permitiera apreciar la prevaricación solicitada por la acusación. No está acreditada judicialmente una adjudicación prevaricadora por alteración de la licitación.
 
 El Supremo desestimó los recursos de las defensas, pero estimó parcialmente el de Izquierda Unida en relación con Cuart: apreció el cohecho del particular y, en su segunda sentencia de la misma fecha, lo absolvió al estar prescrito. Esta modificación no supuso imponerle una pena. La prescripción extingue la responsabilidad criminal y no equivale a declarar inexistentes todos los hechos descritos.
 

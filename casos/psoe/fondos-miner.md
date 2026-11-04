@@ -139,9 +139,8 @@ cronologia:
     relevancia: alta
   - fecha: '2009-03-09'
     titulo: Adjudicación de la obra
-    descripcion: Según la fiscalización, el Consejo del Montepío adoptó el acuerdo de adjudicación este día. El
-      Tribunal de Cuentas cuestionó la publicidad, concurrencia y objetividad del procedimiento; no se mantiene
-      la fecha ficticia de enero de 2008.
+    descripcion: Según la fiscalización, el Consejo del Montepío adoptó el acuerdo de adjudicación este día. El Tribunal
+      de Cuentas cuestionó la publicidad, concurrencia y objetividad del procedimiento.
     urls:
       - https://www.tcu.es/export/sites/portal/repositorio2/INFORME/2020/I1363.pdf
     type: investigacion
@@ -158,8 +157,8 @@ cronologia:
   - fecha: '2017-06-02'
     titulo: Se conocen detenciones y puesta en libertad
     descripcion: La crónica de este día informa de la detención durante aquella semana de Postigo, Juan Antonio
-      Fernández, José Manuel Fernández y Manuel Sastre, y de su posterior libertad. La fecha corresponde a la publicación,
-      no al día de las detenciones; no se conserva el 1 de junio como fecha de la operación sin prueba.
+      Fernández, José Manuel Fernández y Manuel Sastre, y de su posterior libertad. La fecha corresponde a la
+      publicación, no al día de las detenciones.
     urls:
       - https://www.eldiario.es/economia/operacion-anticorrupcion-fernandez-villa-detenidos_1_3363963.html
     type: detencion
@@ -207,11 +206,11 @@ cronologia:
 
 El objeto central de esta ficha es la construcción y financiación de la residencia de Felechosa, no el conjunto de programas Miner en España. La causa Hulla también examina operaciones en otros inmuebles de la mutualidad, como residenciales en Murcia y Almería, por lo que no todo acto atribuido a cada persona corresponde a una certificación de obra de Felechosa. El procedimiento por dinero del SOMA tiene un objeto diferente y sus eventuales condenas no se trasladan a esta causa.
 
-El informe 1.363 del Tribunal de Cuentas aporta una cronología administrativa distinta de la heredada: acuerdo de construcción en diciembre de 2007, adjudicación en marzo de 2009, convenio en diciembre de 2009 y licencia de obra en septiembre de 2010, cuando ya había trabajos ejecutados. Sitúa el inicio de actividad en abril de 2012 y la inauguración oficial en enero de 2013, sin fijar un día de ese mes. El informe cuestiona el control del proyecto y su justificación, pero no declara culpabilidad penal individual.
+El informe 1.363 del Tribunal de Cuentas documenta la secuencia administrativa: acuerdo de construcción en diciembre de 2007, adjudicación en marzo de 2009, convenio en diciembre de 2009 y licencia de obra en septiembre de 2010, cuando ya había trabajos ejecutados. Sitúa el inicio de actividad en abril de 2012 y la inauguración oficial en enero de 2013, sin fijar un día de ese mes. El informe cuestiona el control del proyecto y su justificación, pero no declara culpabilidad penal individual.
 
 La subvención concedida de 30.916.164 euros, los 27.612.500 efectivamente abonados y los aproximadamente 32,48 millones del coste justificado no se suman ni representan por sí solos daño probado. La fiscalización también relata una resolución administrativa de reintegro de 2016, con principal de 428.957 euros e intereses, y pérdida del derecho al cobro de 3.303.664 euros: a la fecha del informe, su ejecución estaba suspendida por los recursos y la causa penal. No se afirma su situación posterior ni se convierte aquel reintegro administrativo en una condena penal. Las multas y decomisos pretendidos en 2026 son categorías distintas.
 
-El afloramiento de patrimonio en la regularización fiscal de 2012 es un antecedente de la investigación, no prueba automática de que todo ese dinero procediera del proyecto. Las noticias de 2017 y de 2026 ofrecen cifras diferentes para Villa y Postigo; se evita presentarlas como cantidades definitivamente determinadas por una sentencia de Hulla. También se corrige el cargo político de Villa: la ficha oficial del Senado acredita que fue senador del PSOE designado por la Junta General de Asturias, y no respalda el mandato en el Congreso que figuraba en esta ficha.
+El afloramiento de patrimonio en la regularización fiscal de 2012 es un antecedente de la investigación, no prueba automática de que todo ese dinero procediera del proyecto. Las noticias de 2017 y de 2026 ofrecen cifras diferentes para Villa y Postigo; se evita presentarlas como cantidades definitivamente determinadas por una sentencia de Hulla. La página oficial del Senado acredita que Villa fue senador del PSOE designado por la Junta General de Asturias; no acredita un mandato en el Congreso.
 
 La situación de Villa es particular: el deterioro cognitivo motivó sobreseimiento provisional y su ausencia de la acusación penal de julio de 2026. La información de mayo de 2025 refleja que seguían las cautelas sobre su patrimonio y que se rechazó su pretensión de sobreseimiento libre. No se equipara la imposibilidad de continuar penalmente por su salud a una absolución sobre el origen de los fondos ni a la desaparición de toda posible consecuencia patrimonial.
 

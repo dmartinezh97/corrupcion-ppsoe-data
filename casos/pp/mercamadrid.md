@@ -231,7 +231,7 @@ La operación se refiere a derechos de superficie para hotel y restauración adj
 
 El procedimiento penal
 
-El archivo comunicado en julio de 2018 fue provisional por insuficiencia de indicios. La relación nominal de Confilegal permite corregir varios apellidos de la ficha, pero no sustituye el auto original para precisar todas las funciones y la situación individual de cada persona. La nota fiscal menciona a José Manuel Torrecilla Jiménez como director general facultado para negociar; no basta para asignarle por sí sola un resultado penal individual. No se ha documentado el eventual recorrido de los recursos contra el archivo.
+El archivo comunicado en julio de 2018 fue provisional por insuficiencia de indicios. La relación nominal de Confilegal identifica nominalmente a varios afectados, pero no sustituye el auto original para precisar todas las funciones y la situación individual de cada persona. La nota fiscal menciona a José Manuel Torrecilla Jiménez como director general facultado para negociar; no basta para asignarle por sí sola un resultado penal individual. No se ha documentado el eventual recorrido de los recursos contra el archivo.
 
 Los litigios civiles
 

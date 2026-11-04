@@ -107,7 +107,7 @@ cronologia:
 - fecha: '2021-06-15'
   titulo: Primera noticia consultada de apertura de juicio por patrimonio
   descripcion: ValenciaPlaza informó de apertura de juicio contra diez personas y siete mercantiles, con fianza
-    conjunta de 1.375.276 euros. Es noticia de 2021, aunque la versión anterior la enlazaba como fuente de 2025.
+    conjunta de 1.375.276 euros. La noticia se publicó en 2021.
   urls:
   - https://valenciaplaza.com/el-juez-abre-juicio-oral-a-carlos-fabra-y-otros-nueve-acusados-por-ocultacion-de-patrimonio
   type: investigación
@@ -128,21 +128,21 @@ cronologia:
   type: juicio
 - fecha: '2025-07-02'
   titulo: Firmeza de la absolución de Aerocas comunicada por la prensa
-  descripcion: CadenaSER informa de la declaración de firmeza de la absolución de Fabra y Debón. Es un procedimiento
-    separado, desarrollado en aerocas.md; no modifica la condena fiscal.
+  descripcion: CadenaSER informa de la declaración de firmeza de la absolución de Fabra y Debón. Es el procedimiento
+    separado de Aerocas; no modifica la condena fiscal.
   urls:
   - https://cadenaser.com/comunitat-valenciana/2025/07/02/el-juez-hace-firme-la-sentencia-que-absuelve-a-carlos-fabra-y-alex-debon-de-cohecho-en-el-caso-aerocas-radio-castellon/
   type: documento
 ---
 
-La responsabilidad fiscal se distingue de las sanciones: el fallo de instancia reproducido por el Supremo fija para Fabra 693.074,33 euros de indemnización a Hacienda, más intereses, y multas por las cuotas de los cuatro ejercicios. No se suman ambos conceptos como perjuicio. Las pérdidas o la inversión del aeropuerto no son daño declarado en Naranjax: se retira el coste de 150 millones y se evita duplicarlo con la ficha Aerocas. Tampoco la fianza de la pieza patrimonial equivale a dinero defraudado.
+La responsabilidad fiscal se distingue de las sanciones: el fallo de instancia reproducido por el Supremo fija para Fabra 693.074,33 euros de indemnización a Hacienda, más intereses, y multas por las cuotas de los cuatro ejercicios. No se suman ambos conceptos como perjuicio. Las pérdidas o la inversión del aeropuerto, cifrada en 150 millones, no son daño declarado en Naranjax. Los patrocinios de Aerocas pertenecen a otro procedimiento. Tampoco la fianza de la pieza patrimonial equivale a dinero defraudado.
 
 El recurso de su exesposa cambió el resultado: de dos delitos fiscales pasó a uno, con un año de prisión, absolución por el ejercicio 2000 y ajuste de la cuota de 2003. Los pseudónimos del PDF no se utilizan para identificar a nuevas personas; la nota oficial y la prensa proporcionan los nominales. No se atribuye a Fabra condena por el origen presuntamente corrupto de los ingresos cuando fue absuelto de cohecho y tráfico de influencias.
 
-La información de 2017 sitúa el ingreso en Aranjuez el 1 de diciembre de 2014 y documenta libertad condicional el 28 de abril de 2017. Se retira la afirmación de libertad definitiva en mayo por cumplir tres cuartas partes: confunde situaciones penitenciarias y no acredita extinción de pena. No se ha cotejado la liquidación final ni el saldo actual de multas, intereses e indemnizaciones.
+La información de 2017 sitúa el ingreso en Aranjuez el 1 de diciembre de 2014 y documenta libertad condicional el 28 de abril de 2017. El cumplimiento de tres cuartas partes de la pena no acredita por sí solo su extinción ni la libertad definitiva. No se ha cotejado la liquidación final ni el saldo actual de multas, intereses e indemnizaciones.
 
 La causa sobre patrimonio requiere seguimiento propio. Hay noticias de apertura de juicio en 2021 y 2025 cuyo encaje no se ha podido comprobar en los autos. Radio Castellón informó el 11 de febrero de 2025 de sucesivos autos de procedimiento abreviado y recursos; el 12 de marzo volvió a comunicar apertura de juicio y una petición fiscal de doce años para Fabra. Son noticias sobre acusaciones, sin sentencia ni escrito fiscal vigente cotejados. Las personas identificadas solo con iniciales en 2025 no se completan a partir de la lista anterior; los nombres conservados proceden de las noticias nominales de 2021.
 
 La ficha Aerocas recoge un procedimiento distinto. Su absolución de los patrocinios y su firmeza comunicada en 2025 se mencionan solo para evitar trasladar imputaciones de aquella causa a esta. La construcción del aeropuerto no se cuantifica aquí.
 
-Revisión hasta el 17 de octubre de 2026. El PDF oficial del Supremo se descargó y se verificaron encabezamiento, fecha y 102 páginas; se leyeron los antecedentes relativos a incoación y fallo de instancia, el fallo de casación y la segunda sentencia, sin afirmar lectura completa de sus fundamentos. Quedan pendientes originales de instancia y de la causa patrimonial, su evolución posterior y los documentos de ejecución. Los resultados parciales no justifican declarar cerrado el conjunto.
+Información disponible hasta el 17 de octubre de 2026. El original de la sentencia del Supremo consta de 102 páginas e incluye el fallo de casación y la segunda sentencia. Quedan pendientes originales de instancia y de la causa patrimonial, su evolución posterior y los documentos de ejecución. Los resultados parciales no justifican declarar cerrado el conjunto.

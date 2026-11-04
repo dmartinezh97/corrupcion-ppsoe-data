@@ -11,13 +11,13 @@ estado: sobreseimiento recurrido
 lugar: Calasparra, Región de Murcia
 resumen: Investigación sobre los festejos taurinos de 2017–2019; archivo de noviembre de 2025 y recurso fiscal ante
   el Supremo informado en 2026.
-descripcion: 'La causa examinó los convenios y pagos municipales relacionados con Chipé Producciones y los encierros
-  de la Feria Taurina del Arroz de 2017 a 2019. Hubo apertura de juicio oral en 2024, sin condena acreditada. El
-  auto 1103/2025 de la Audiencia de Murcia, de 25 de noviembre, acordó sobreseimiento provisional y archivo sin
-  posibilidad de reapertura por el plazo de instrucción; indicó que no cabía recurso ordinario. En mayo de 2026
-  se informó del recurso de casación de Fiscalía. Revisión parcial a 17 de octubre de 2026: no se ha recuperado
-  ese recurso ni verificado su admisión o resolución; no se afirma cierre inatacable. Las indemnizaciones solicitadas
-  no se presentan como daños probados.'
+descripcion: "La causa examinó los convenios y pagos municipales relacionados con Chipé Producciones y los encierros
+  de la Feria Taurina del Arroz de 2017 a 2019. Hubo apertura de juicio oral en 2024, sin condena acreditada.
+  El auto 1103/2025 de la Audiencia de Murcia, de 25 de noviembre, acordó sobreseimiento provisional y archivo
+  sin posibilidad de reapertura por el plazo de instrucción; indicó que no cabía recurso ordinario. En mayo de
+  2026 se informó del recurso de casación de Fiscalía. Información pendiente al 17 de octubre de 2026: no se
+  ha recuperado ese recurso ni verificado su admisión o resolución; no se afirma cierre inatacable. Las
+  indemnizaciones solicitadas no se presentan como daños probados."
 tribunal:
 - Juzgado de Primera Instancia e Instrucción n.º 3 de Caravaca de la Cruz
 - Audiencia Provincial de Murcia, Sección Segunda
@@ -112,7 +112,7 @@ La investigación se refería a los festejos de 2017–2019 y a los convenios y 
 
 ## Archivo de 2025 y recurso de casación
 
-El original recuperado es el auto 1103/2025, de 25 de noviembre, de la Sección Segunda de la Audiencia Provincial de Murcia, relativo a DP 110/2021 y apelación 969/2024. Sus páginas 12–13 acuerdan el sobreseimiento provisional y archivo sin posibilidad de reapertura para los cuatro investigados y advierten que no cabe recurso ordinario. El fundamento octavo explica que, al estimar el motivo procesal, no era necesario examinar el fondo. Se han leído cabecera, antecedentes y tramos finales, no íntegramente sus 13 páginas. [Auto original](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d501c199c1578681a0a8778d75e36f0d&encode=true&databasematch=AN).
+El original recuperado es el auto 1103/2025, de 25 de noviembre, de la Sección Segunda de la Audiencia Provincial de Murcia, relativo a DP 110/2021 y apelación 969/2024. Sus páginas 12–13 acuerdan el sobreseimiento provisional y archivo sin posibilidad de reapertura para los cuatro investigados y advierten que no cabe recurso ordinario. El fundamento octavo explica que, al estimar el motivo procesal, no era necesario examinar el fondo. El auto consta de trece páginas. [Auto original](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d501c199c1578681a0a8778d75e36f0d&encode=true&databasematch=AN).
 
 La nota judicial del 27 de noviembre identifica esa fecha como notificación. El tribunal computó los doce meses desde la providencia del 24 de marzo de 2021, no desde el auto de admisión de querella del 26 de mayo; consideró tardía la primera citación de 23 de noviembre de 2022. Se atribuye esta interpretación a la Audiencia, porque es precisamente el extremo discutido por Fiscalía. [Comunicación oficial](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Murcia-archiva-el-caso-por-prevaricacion-y-malversacion-en-los-encierros-taurinos-de-Calasparra).
 
@@ -122,8 +122,8 @@ En mayo de 2026, SER informó de un recurso formalizado por la Fiscalía del Sup
 
 ## Importes y procedimientos distintos
 
-La acusación pública solicitaba en 2024 una indemnización conjunta y solidaria de 249.630 euros; la popular la cifraba en 367.096 euros. Son pretensiones alternativas sobre el perjuicio alegado, no daños fijados judicialmente ni cantidades que puedan sumarse o multiplicarse por los acusados. Tampoco las penas solicitadas —incluidos ocho años y seis meses de prisión para los responsables municipales según la noticia— fueron condenas. Por ello se elimina la cuantificación del coste. [Peticiones de las acusaciones](https://www.eldiario.es/murcia/politica/juez-ordena-apertura-juicio-oral-secretario-general-psoe-region-murcia-prevaricacion-malversacion_1_11793393.html).
+La acusación pública solicitaba en 2024 una indemnización conjunta y solidaria de 249.630 euros; la popular la cifraba en 367.096 euros. Son pretensiones alternativas sobre el perjuicio alegado, no daños fijados judicialmente ni cantidades que puedan sumarse o multiplicarse por los acusados. Tampoco las penas solicitadas —incluidos ocho años y seis meses de prisión para los responsables municipales según la noticia— fueron condenas. Las cantidades solicitadas no equivalen a un perjuicio judicialmente fijado. [Peticiones de las acusaciones](https://www.eldiario.es/murcia/politica/juez-ordena-apertura-juicio-oral-secretario-general-psoe-region-murcia-prevaricacion-malversacion_1_11793393.html).
 
 ORM informó en julio de 2026 de la reapertura de otra investigación, sobre contratación de actos culturales de 2010–2020 y resuelta por la Sección Tercera. La propia noticia distingue esa causa del archivo de la Feria Taurina del Arroz y su recurso fiscal. No se traslada aquella reapertura a este procedimiento. [ORM, julio de 2026](https://www.orm.es/informativos/reabren-la-investigacion-sobre-jose-velez-en-su-etapa-como-alcalde-de-calasparra/).
 
-Corte:17 de octubre de 2026. No se han recuperado el escrito de casación, el auto 1121/2025 mencionado por SER ni una resolución posterior del Supremo que determine la admisión o el resultado del recurso. Tampoco se ha verificado una condena, una indemnización impuesta o ejecución patrimonial en esta causa. La revisión permanece incompleta. La creación técnica del PDF en octubre de 2026 no es la fecha del auto.
+Corte:17 de octubre de 2026. No se han recuperado el escrito de casación, el auto 1121/2025 mencionado por SER ni una resolución posterior del Supremo que determine la admisión o el resultado del recurso. Tampoco se ha verificado una condena, una indemnización impuesta o ejecución patrimonial en esta causa. La creación técnica del PDF en octubre de 2026 no es la fecha del auto.

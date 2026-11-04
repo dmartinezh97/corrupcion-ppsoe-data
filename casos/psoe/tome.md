@@ -54,7 +54,6 @@ cronologia:
 - fecha: '2025-12-09'
   titulo: Difusión pública de las denuncias internas
   descripcion: El Independiente del día siguiente sitúa en la noche del 9 de diciembre la emisión de Código 10.
-    No se mantiene la fecha de noviembre de la versión anterior.
   urls:
   - https://www.elindependiente.com/espana/2025/12/10/jose-tome-dimite-como-presidente-de-la-diputacion-de-lugo-tras-las-denuncias-de-presunto-acoso-sexual/
   type: denuncia

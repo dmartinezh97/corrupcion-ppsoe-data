@@ -8,12 +8,22 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Condena electoral de Areal y reintegro administrativo; evolución posterior del recurso no verificada"
-descripcion: |
-  Fernando Areal, extesorero del PP balear, fue condenado por conformidad el 8 de octubre de 2015 por un delito electoral relacionado con pagos no contabilizados a Nimbus durante la campaña autonómica de 2007. Según Europa Press y Público, aceptó un año y medio de prisión y una multa de 15.000 euros por pagos en negro de 71.958 euros. La información de la vista recoge la suspensión de la pena de prisión.
+descripcion: >-
+  Fernando Areal, extesorero del PP balear, fue condenado por conformidad el 8 de octubre de 2015 por un
+  delito electoral relacionado con pagos no contabilizados a Nimbus durante la campaña autonómica de 2007.
+  Según Europa Press y Público, aceptó un año y medio de prisión y una multa de 15.000 euros por pagos en
+  negro de 71.958 euros. La información de la vista recoge la suspensión de la pena de prisión.
 
-  En un procedimiento administrativo distinto, el Govern reclamó en enero de 2018 la devolución de subvenciones electorales. Europa Press informó el 25 de julio de 2019 de que el TSJIB había desestimado el recurso del PP contra esa reclamación: 153.322,44 euros de principal, más intereses, hasta unos 212.941 euros. La noticia advertía que la sentencia contenciosa no era firme y admitía casación.
 
-  No se han recuperado los originales de ambas sentencias ni verificado el desenlace de un eventual recurso posterior hasta el 17 de octubre de 2026. El reintegro, los pagos ocultos y la multa son conceptos distintos que no deben sumarse como daño público.
+  En un procedimiento administrativo distinto, el Govern reclamó en enero de 2018 la devolución de
+  subvenciones electorales. Europa Press informó el 25 de julio de 2019 de que el TSJIB había desestimado el
+  recurso del PP contra esa reclamación: 153.322,44 euros de principal, más intereses, hasta unos 212.941
+  euros. La noticia advertía que la sentencia contenciosa no era firme y admitía casación.
+
+
+  No se han recuperado los originales de ambas sentencias ni verificado el desenlace de un eventual recurso
+  posterior hasta el 17 de octubre de 2026. El reintegro, los pagos ocultos y la multa son conceptos distintos
+  que no deben sumarse como daño público.
 resumen: "Areal aceptó en octubre de 2015 una condena por pagos electorales ocultos a Nimbus. El TSJIB desestimó en 2019 el recurso del PP contra el reintegro de subvenciones; su evolución posterior queda pendiente de comprobación."
 lugar: "Palma, Islas Baleares"
 tribunal:
@@ -63,8 +73,8 @@ cronologia:
 
 La condena de Areal se refiere a la pieza de los pagos a Nimbus de la campaña de 2007, identificada por Público como pieza 4 de Palma Arena. No se trasladan aquí imputaciones o condenas de Over Marketing ni las conclusiones de las causas nacionales sobre la contabilidad del PP. La candidatura de Jaume Matas proporciona contexto electoral, pero no acredita por sí sola una condena suya en esta pieza.
 
-Las cantidades tienen naturaleza diferente: 71.958 euros corresponden a pagos electorales ocultos; 15.000 euros, a la multa penal de Areal; y 153.322,44 euros, al principal del reintegro administrativo reclamado al partido. Los aproximadamente 212.941 euros incorporan intereses. Se elimina el anterior campo de coste porque confundía el importe total de la reclamación con un daño público cuantificado y definitivamente comprobado.
+Las cantidades tienen naturaleza diferente: 71.958 euros corresponden a pagos electorales ocultos; 15.000 euros, a la multa penal de Areal; y 153.322,44 euros, al principal del reintegro administrativo reclamado al partido. Los aproximadamente 212.941 euros incorporan intereses. El importe total reclamado no equivale a un daño público cuantificado y definitivamente acreditado.
 
 La información de Europa Press de julio de 2019 describe como firme la condena penal que motivó la revisión de la subvención. Esa referencia periodística no acredita la firmeza de la posterior sentencia contenciosa, que la misma noticia declara recurrible. La suspensión de la prisión se atribuye a las crónicas de la vista de 2015; no se certifica aquí el estado final de la ejecución.
 
-Revisión documental parcial con corte en el 17 de octubre de 2026: faltan los originales de la sentencia penal de 2015, la sentencia contenciosa de 2019 y el informe de fiscalización que fundamentó el reintegro. Tampoco se ha verificado una resolución posterior de casación ni el justificante del pago publicado por elDiario.es. Por esas lagunas se mantiene `completado: false` y `documentos: []`. No se conserva la fecha ficticia de cierre en enero de 2021.
+Información pendiente al 17 de octubre de 2026: faltan los originales de la sentencia penal de 2015, la sentencia contenciosa de 2019 y el informe de fiscalización que fundamentó el reintegro. Tampoco se ha verificado una resolución posterior de casación ni el justificante del pago publicado por elDiario.es.

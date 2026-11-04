@@ -92,12 +92,12 @@ cronologia:
   type: investigación
 ---
 
-El fallo de instancia diferencia las dádivas: la vivienda de Vilagarcía de Arousa sustenta la condena por cohecho y su decomiso; la entrega de treinta millones de pesetas fue objeto de absolución por prescripción. También se absolvieron otros cargos, incluida malversación. Se elimina la presentación conjunta de ambas entregas como objeto de condena.
+El fallo de instancia diferencia las dádivas: la vivienda de Vilagarcía de Arousa sustenta la condena por cohecho y su decomiso; la entrega de treinta millones de pesetas fue objeto de absolución por prescripción. También se absolvieron otros cargos, incluida malversación.
 
 Las dos penas de ocho años de inhabilitación del exalcalde se consignan por separado, sin deducir su forma de cumplimiento. La multa y el valor del inmueble decomisado no son una cuantificación del daño municipal. No se calcula un coste sumando pagos, sanciones y bienes.
 
-Se retiran el superlativo sobre la importancia del escándalo, el porcentaje del 90% de terrenos recalificados y las fechas arbitrarias de inicio, juicio o salida penitenciaria. La crónica de 2018 sitúa el comienzo de su alcaldía en 2003 y la creación de Independientes por Arroyo en 2007: no fue alcalde del PP durante todo el periodo 1999-2006 como decía la ficha.
+La crónica de 2018 sitúa el comienzo de su alcaldía en 2003 y la creación de Independientes por Arroyo en 2007: no fue alcalde del PP durante todo el periodo 1999-2006 como decía la ficha.
 
 La regularización fiscal y las pesquisas de blanqueo comunicadas en 2018 son un procedimiento distinto. Tampoco se trasladan a esta ficha los resultados de la causa Perla Negra por un edificio situado en el mismo municipio. La información de 2018 sitúa el tercer grado en febrero de 2016, pero no se dispone de documentación penitenciaria que permita fijar la liquidación final.
 
-Revisión hasta el 17 de octubre de 2026. Se han descargado los PDFs de instancia y casación, comprobado fechas, encabezamientos y páginas, y leído sus fallos; no se afirma una lectura íntegra de 84 y 93 páginas. La copia de instancia procede de un medio y contiene nombres completos; la del Supremo está alojada en el CGPJ y usa pseudónimos, de los que no se deducen identidades. Quedan pendientes el desenlace de las pesquisas de blanqueo, los documentos de ejecución y la revalidación íntegra de los antecedentes urbanísticos.
+Información disponible hasta el 17 de octubre de 2026. La copia de instancia procede de un medio y contiene nombres completos; la del Supremo está alojada en el CGPJ y usa pseudónimos, de los que no se deducen identidades. Quedan pendientes el desenlace de las pesquisas de blanqueo, los documentos de ejecución y la revalidación íntegra de los antecedentes urbanísticos.

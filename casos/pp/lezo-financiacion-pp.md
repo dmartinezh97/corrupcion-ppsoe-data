@@ -9,36 +9,41 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Remitida a Púnica; archivos y juicio oral
-descripcion: 'Esta ficha se refiere a la antigua pieza 4 de Lezo sobre la posible financiación de la campaña autonómica del
-  PP de Madrid de 2011. No siguió como una investigación independiente: por auto de 2 enero 2018 se remitió a la pieza 9 de
-  Púnica, que ya investigaba hechos relacionados con la financiación electoral. La memoria de la Fiscalía y el auto judicial
-  de 14 octubre 2022 documentan esa remisión. La investigación incluyó posibles pagos de deudas electorales mediante proveedores
-  de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid (ICM); no puede describirse como probada una financiación
-  del partido a través del Canal por el conjunto de los hechos de Lezo.
+descripcion: >-
+  Esta ficha se refiere a la antigua pieza 4 de Lezo sobre la posible financiación de la campaña autonómica
+  del PP de Madrid de 2011. No siguió como una investigación independiente: por auto de 2 enero 2018 se
+  remitió a la pieza 9 de Púnica, que ya investigaba hechos relacionados con la financiación electoral. La
+  memoria de la Fiscalía y el auto judicial de 14 octubre 2022 documentan esa remisión. La investigación
+  incluyó posibles pagos de deudas electorales mediante proveedores de la Agencia de Informática y
+  Comunicaciones de la Comunidad de Madrid (ICM); no puede describirse como probada una financiación del
+  partido a través del Canal por el conjunto de los hechos de Lezo.
 
 
-  Los resultados individuales son distintos. El auto de 14 octubre 2022 acordó el sobreseimiento provisional para Ignacio
-  González y Arturo Luis Fernández Álvarez. Respecto de González, los fundamentos distinguen hechos electorales prescritos
-  de otros sin indicios suficientes; la parte dispositiva lo incluye entre los sobreseimientos provisionales. La Audiencia
-  Nacional confirmó su archivo por auto de 20 noviembre 2023, conocido públicamente el 22 noviembre. La Sala rechazó que hubiera
-  respaldo indiciario para la hipótesis inicial de una organización general de financiación dirigida desde la cúpula del PP.
-  Esto no equivale a una sentencia absolutoria tras juicio ni a cerrar todas las restantes actuaciones.
+  Los resultados individuales son distintos. El auto de 14 octubre 2022 acordó el sobreseimiento provisional
+  para Ignacio González y Arturo Luis Fernández Álvarez. Respecto de González, los fundamentos distinguen
+  hechos electorales prescritos de otros sin indicios suficientes; la parte dispositiva lo incluye entre los
+  sobreseimientos provisionales. La Audiencia Nacional confirmó su archivo por auto de 20 noviembre 2023,
+  conocido públicamente el 22 noviembre. La Sala rechazó que hubiera respaldo indiciario para la hipótesis
+  inicial de una organización general de financiación dirigida desde la cúpula del PP. Esto no equivale a una
+  sentencia absolutoria tras juicio ni a cerrar todas las restantes actuaciones.
 
 
-  El 3 abril 2024 se abrió juicio oral en la pieza 9 de Púnica contra siete personas por hechos delimitados. A Beltrán Gutiérrez
-  y Francisco Granados se les atribuyó un posible delito electoral por falseamiento de cuentas de 2011; Granados y otros acusados
-  afrontaban además imputaciones específicas sobre contratos y reputación en internet. El juez rechazó volver a abrir juicio
-  contra Ignacio González y desestimó las solicitudes de responsabilidad a título lucrativo contra el PP, sus diputados autonómicos
-  y los expresidentes Aguirre y González en los términos planteados. Los investigados de otras piezas de Lezo no se convierten
-  por ello en acusados de esta pieza, ni sus peticiones de prisión se trasladan aquí.
+  El 3 abril 2024 se abrió juicio oral en la pieza 9 de Púnica contra siete personas por hechos delimitados. A
+  Beltrán Gutiérrez y Francisco Granados se les atribuyó un posible delito electoral por falseamiento de
+  cuentas de 2011; Granados y otros acusados afrontaban además imputaciones específicas sobre contratos y
+  reputación en internet. El juez rechazó volver a abrir juicio contra Ignacio González y desestimó las
+  solicitudes de responsabilidad a título lucrativo contra el PP, sus diputados autonómicos y los
+  expresidentes Aguirre y González en los términos planteados. Los investigados de otras piezas de Lezo no se
+  convierten por ello en acusados de esta pieza, ni sus peticiones de prisión se trasladan aquí.
 
 
-  El auto de 2024 recoge que una diligencia de 22 noviembre 2023 declaró firme el auto de 14 octubre 2022. Se trata de firmeza
-  de una resolución procesal, no de condenas. Una noticia de 5 julio 2026 todavía describía pendiente el juicio sobre financiación
-  electoral. No se ha verificado un señalamiento o resultado posterior hasta el 15 octubre 2026. Tampoco se han recuperado
-  los originales de remisión de 2018 y confirmación de 2023; los autos de 2022 y 2024 se han comprobado en copias judiciales
-  alojadas por terceros, con lectura selectiva. No se atribuye un daño de diez millones de euros: no se ha acreditado esa
-  cuantificación, y las cantidades de fianzas o responsabilidades provisionales no son un perjuicio probado.'
+  El auto de 2024 recoge que una diligencia de 22 noviembre 2023 declaró firme el auto de 14 octubre 2022. Se
+  trata de firmeza de una resolución procesal, no de condenas. Una noticia de 5 julio 2026 todavía describía
+  pendiente el juicio sobre financiación electoral. No se ha verificado un señalamiento o resultado posterior
+  hasta el 15 octubre 2026. Tampoco se han recuperado los originales de remisión de 2018 y confirmación de
+  2023; los autos de 2022 y 2024 constan en copias judiciales alojadas por terceros. No se atribuye un daño de
+  diez millones de euros: no se ha acreditado esa cuantificación, y las cantidades de fianzas o
+  responsabilidades provisionales no son un perjuicio probado.
 resumen: La pieza 4 de Lezo se remitió a Púnica en 2018; González y Arturo Fernández obtuvieron archivo y otros acusados pasaron
   a juicio oral por hechos concretos.
 lugar: Comunidad de Madrid

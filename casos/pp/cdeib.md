@@ -85,8 +85,7 @@ cronologia:
 - fecha: '2014-05-07'
   titulo: Desestimación del recurso de Cardona
   descripcion: La STS 394/2014, recurso 11103/2013, desestima el recurso del condenado y le impone las costas. No
-    confirma recursos de personas que no recurrieron. La fecha de octubre de 2014 de la versión anterior no corresponde
-    a esta casación.
+    confirma recursos de personas que no recurrieron.
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1a65443284e49912&encode=true&databasematch=AN
   type: sentencia
@@ -112,10 +111,10 @@ cronologia:
 
 La causa principal y la derivada fiscal tienen resultados distintos. La resolución del Supremo examinada corresponde al recurso de Cardona contra la sentencia de 2013. La noticia de noviembre de 2024 relata la prescripción del supuesto delito fiscal; no borra las condenas anteriores ni permite trasladar a aquella pieza la responsabilidad de personas no acusadas en ella.
 
-Se retira el coste de 8.270.000 euros. La nota del CGPJ habla de ocho millones malversados, indemnizaciones y decomisos con bases diferentes; la prensa ofrece otros agregados. Sin revisar la totalidad de partidas, solidaridades, devoluciones y liquidaciones no se fija un total de daño. Los 10.585 euros atribuidos al PP en instancia corresponden a responsabilidad civil a título lucrativo, según la nota judicial; no constituyen una condena penal al partido.
+Los 8.270.000 euros no constituyen un perjuicio conjunto acreditado. La nota del CGPJ habla de ocho millones malversados, indemnizaciones y decomisos con bases diferentes; la prensa ofrece otros agregados. Sin revisar la totalidad de partidas, solidaridades, devoluciones y liquidaciones no se fija un total de daño. Los 10.585 euros atribuidos al PP en instancia corresponden a responsabilidad civil a título lucrativo, según la nota judicial; no constituyen una condena penal al partido.
 
-Las penas resumidas de Ordinas y Ferré requieren cautela. La nota oficial da cuatro años y dos meses y tres años y nueve meses; RTVE recoge tres años y ocho meses y tres años y tres meses. El fallo PDF individualiza prisión, multas y responsabilidades subsidiarias, sin autorizar una conciliación automática de esos agregados ni una identificación por pseudónimos. Se conserva su condición nominal de condenados y se deja pendiente el agregado.
+Las penas resumidas de Ordinas y Ferré requieren cautela. La nota oficial da cuatro años y dos meses y tres años y nueve meses; RTVE recoge tres años y ocho meses y tres años y tres meses. El fallo PDF individualiza prisión, multas y responsabilidades subsidiarias, sin autorizar una conciliación automática de esos agregados ni una identificación por pseudónimos. Está acreditada su identidad como condenados, pero no una pena conjunta.
 
-Se retiran los superlativos históricos, la asociación de Matas como implicado sin imputación acreditada y las fechas arbitrarias sobre inicio, descubrimiento o colaboración. El relato de la lata y su contenido tampoco se utiliza para fijar una cifra de daño.
+No consta una imputación de Matas en este procedimiento ni fechas exactas para el inicio de los hechos, su descubrimiento o la colaboración. El relato de la lata y su contenido tampoco se utiliza para fijar una cifra de daño.
 
-Revisión hasta el 17 de octubre de 2026: PDF oficial de 351 páginas verificado; se leyeron encabezamiento y pasajes iniciales del fallo, no toda la sentencia ni sus anexos gráficos. El coordinador recuperó el PDF oficial del Supremo, de 169 páginas, y leyó encabezamiento y fallo (páginas 1 y 169), sin revisar íntegramente los fundamentos. La vinculación nominal de Cardona procede también de la información judicial y periodística; no se deducen identidades de los pseudónimos del PDF. La libertad condicional comunicada en noviembre de 2023 se incorpora como noticia de ejecución, sin disponer del auto original ni verificar la liquidación de la condena o el pago íntegro de responsabilidades. Falta el original de la resolución fiscal de 2024, sus recursos y firmeza, y la documentación de ejecución de las condenas y responsabilidades civiles.
+La sentencia oficial consta de 351 páginas. El coordinador recuperó el PDF oficial del Supremo, de 169 páginas, y leyó encabezamiento y fallo (páginas 1 y 169), sin revisar íntegramente los fundamentos. La vinculación nominal de Cardona procede también de la información judicial y periodística; no se deducen identidades de los pseudónimos del PDF. La libertad condicional fue comunicada en noviembre de 2023. No se dispone del auto original ni están acreditados la liquidación de la condena o el pago íntegro de responsabilidades. Falta el original de la resolución fiscal de 2024, sus recursos y firmeza, y la documentación de ejecución de las condenas y responsabilidades civiles.

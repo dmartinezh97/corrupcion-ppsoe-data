@@ -8,13 +8,13 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas por falsedad y absoluciones; casación resuelta en 2019
-descripcion: 'La causa examinó la tramitación urbanística y ambiental de La Zerrichera, en Águilas. La Audiencia
-  de Murcia condenó a tres antiguos responsables autonómicos en diciembre de 2017 y absolvió a otros dos. El Supremo
-  absolvió en julio de 2019 a los tres recurrentes de prevaricación y mantuvo las condenas de Antonio Alvarado y
-  Juan Ignacio Sánchez Gelabert por falsedad: dos años de prisión, multa de 1.350 euros e inhabilitación durante
-  un año y tres meses para cada uno, con distinto alcance. En noviembre rechazó un incidente de nulidad. La revisión
-  hasta el 17 de octubre de 2026 no ha completado el seguimiento de ejecución o de un eventual amparo; no se presenta
-  el caso como archivado en 2008.'
+descripcion: "La causa examinó la tramitación urbanística y ambiental de La Zerrichera, en Águilas. La Audiencia de
+  Murcia condenó a tres antiguos responsables autonómicos en diciembre de 2017 y absolvió a otros dos. El
+  Supremo absolvió en julio de 2019 a los tres recurrentes de prevaricación y mantuvo las condenas de Antonio
+  Alvarado y Juan Ignacio Sánchez Gelabert por falsedad: dos años de prisión, multa de 1.350 euros e
+  inhabilitación durante un año y tres meses para cada uno, con distinto alcance. En noviembre rechazó un
+  incidente de nulidad. Al 17 de octubre de 2026, no consta información completa sobre la ejecución o un
+  eventual amparo; no está acreditado un archivo del caso en 2008."
 resumen: 'Tramitación ambiental y urbanística de La Zerrichera: dos condenas por falsedad mantenidas en casación
   y absoluciones por prevaricación.'
 lugar: Águilas, Región de Murcia
@@ -82,9 +82,8 @@ cronologia:
   relevancia: alta
 - fecha: '2006-02-13'
   titulo: Orden autonómica de aprobación definitiva
-  descripcion: El original de instancia identifica la Orden de esta fecha sobre modificación puntual del PGOU, publicada
-    el 6 de marzo de 2006 y posteriormente derogada por el Decreto 299/2010. Se retiran las fechas sintéticas de
-    recalificación en 2004.
+  descripcion: El original de instancia identifica la Orden de esta fecha sobre modificación puntual del PGOU,
+    publicada el 6 de marzo de 2006 y posteriormente derogada por el Decreto 299/2010.
   type: investigacion
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=29369538a38a9852&encode=true&databasematch=AN
@@ -133,8 +132,8 @@ cronologia:
 
 El Supremo distingue el delito de prevaricación del de falsedad. En este caso considera que la declaración de impacto ambiental no es una resolución a los efectos del artículo 404 del Código Penal. Esa razón de absolución no convierte en verdaderos los datos del documento: mantiene la falsedad por hacer constar un informe favorable inexistente y por otras alteraciones relevantes. La absolución de prevaricación y las dos condenas por falsedad deben leerse por separado.
 
-Los terrenos formaban parte de espacios protegidos como LIC y ZEPA, según los hechos reproducidos en el original. La propuesta de urbanización residencial y turística incluía campo de golf. Se eliminan calificativos como «claro pelotazo» y las atribuciones personales heredadas sobre compras para especular que no se han revalidado. La Fiscalía se retira de la lista de implicados y de órganos judiciales: su papel acusador no equivale a responsabilidad por los hechos. Las identidades se contrastan con la nota del CGPJ, la noticia de SER/EFE y la información nominal de Quercus, sin deducirlas de los seudónimos judiciales. Quercus ofrece una cifra de inhabilitación de instancia discordante para el jefe de servicio; prevalecen los seis años del original y la nota oficial, pena después anulada por el Supremo.
+Los terrenos formaban parte de espacios protegidos como LIC y ZEPA, según los hechos reproducidos en el original. La propuesta de urbanización residencial y turística incluía campo de golf. La Fiscalía ejerce la acusación; ese papel no equivale a responsabilidad por los hechos ni la convierte en un órgano judicial. Las identidades se contrastan con la nota del CGPJ, la noticia de SER/EFE y la información nominal de Quercus, sin deducirlas de los seudónimos judiciales. Quercus ofrece una cifra de inhabilitación de instancia discordante para el jefe de servicio; prevalecen los seis años del original y la nota oficial, pena después anulada por el Supremo.
 
-No se incorpora un coste económico: no se ha acreditado aquí una cuantificación del daño público. Las multas penales no son daño; tampoco lo son los importes principal y subsidiario reclamados por las promotoras en el litigio patrimonial desestimado. La ausencia de coste no acredita inexistencia de perjuicio.
+No consta una cuantificación del daño público. Las multas penales no son daño; tampoco lo son los importes principal y subsidiario reclamados por las promotoras en el litigio patrimonial desestimado. La ausencia de coste no acredita inexistencia de perjuicio.
 
-**Límites de la revisión (17 de octubre de 2026).** La sentencia de instancia sitúa el inicio de las actuaciones en febrero de 2007, sin día exacto en el pasaje cotejado; se retira la fecha inicial artificial de 2004. Se han cotejado originales oficiales: lectura parcial de las sentencias penal de 2017 (216 páginas), penal de 2019 (48 páginas) y patrimonial de 2018 (12 páginas), centrada en cabeceras, pasajes de hechos y fundamentos y fallos; lectura íntegra del auto de noviembre de 2019 (cuatro páginas). El informe externo detalla los segmentos. El fallo de casación declara que no cabe recurso, pero no se presume por ello el cumplimiento de las penas ni la ausencia de un eventual amparo. Falta seguir la ejecución, los posibles trámites constitucionales y el historial completo de personas que no llegaron a este juicio. No se equipara la cita de esta sentencia como doctrina en otros procesos posteriores con una nueva resolución de Zerrichera. La revisión permanece incompleta.
+**Información al 17 de octubre de 2026:** la sentencia de instancia sitúa el inicio de las actuaciones en febrero de 2007, sin día exacto acreditado. Están disponibles las sentencias penales de 2017 (216 páginas) y 2019 (48 páginas), la patrimonial de 2018 (12 páginas) y el auto de noviembre de 2019 (cuatro páginas). El fallo de casación declara que no cabe recurso, pero no se presume por ello el cumplimiento de las penas ni la ausencia de un eventual amparo. Falta seguir la ejecución, los posibles trámites constitucionales y el historial completo de personas que no llegaron a este juicio. No se equipara la cita de esta sentencia como doctrina en otros procesos posteriores con una nueva resolución de Zerrichera.

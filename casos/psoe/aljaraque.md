@@ -10,12 +10,25 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Conformidad por cohecho en 2024; sentencia original, firmeza y ejecución pendientes de cotejo"
 lugar: "Aljaraque, Huelva, Andalucía"
-descripcion: |
-  La causa investigó las contraprestaciones ofrecidas a dos concejales de Sí se Puede Aljaraque para que retirasen su apoyo a la moción de censura presentada con el PP en diciembre de 2016 contra la alcaldesa socialista Yolanda Rubio. La investigación se inició tras una denuncia acompañada de grabaciones. Las ofertas descritas por la prensa comprendían la incorporación de Pedro Escalante al gobierno municipal, con dietas por asistencias, y un empleo en Aguas de Huelva para la esposa de Francisco Martín.
+descripcion: >-
+  La causa investigó las contraprestaciones ofrecidas a dos concejales de Sí se Puede Aljaraque para que
+  retirasen su apoyo a la moción de censura presentada con el PP en diciembre de 2016 contra la alcaldesa
+  socialista Yolanda Rubio. La investigación se inició tras una denuncia acompañada de grabaciones. Las
+  ofertas descritas por la prensa comprendían la incorporación de Pedro Escalante al gobierno municipal, con
+  dietas por asistencias, y un empleo en Aguas de Huelva para la esposa de Francisco Martín.
 
-  El 15 de octubre de 2024, Huelva Información y COPE comunicaron un acuerdo de conformidad por cohecho para los dos concejales y el sindicalista José Luis Rodríguez, con un año de prisión para cada uno. Las noticias aún anunciaban la posterior sentencia de la Sección Tercera de la Audiencia Provincial de Huelva. Un acta municipal de abril de 2025 recoge un debate que cita la sentencia 107/2024, pero no incorpora el fallo original.
 
-  Ignacio Caraballo fue investigado, pero la Fiscalía pidió el sobreseimiento respecto a él en junio de 2021 y mantuvo la acusación contra otras tres personas. No se ha cotejado el auto judicial que resolvió su situación. Tampoco se han recuperado la sentencia de conformidad ni resoluciones sobre firmeza, recursos o ejecución hasta el 17 de octubre de 2026; la revisión permanece parcial.
+  El 15 de octubre de 2024, Huelva Información y COPE comunicaron un acuerdo de conformidad por cohecho para
+  los dos concejales y el sindicalista José Luis Rodríguez, con un año de prisión para cada uno. Las noticias
+  aún anunciaban la posterior sentencia de la Sección Tercera de la Audiencia Provincial de Huelva. Un acta
+  municipal de abril de 2025 recoge un debate que cita la sentencia 107/2024, pero no incorpora el fallo
+  original.
+
+
+  Ignacio Caraballo fue investigado, pero la Fiscalía pidió el sobreseimiento respecto a él en junio de 2021 y
+  mantuvo la acusación contra otras tres personas. No se ha cotejado el auto judicial que resolvió su
+  situación. Tampoco se han recuperado la sentencia de conformidad ni resoluciones sobre firmeza, recursos o
+  ejecución hasta el 17 de octubre de 2026.
 resumen: "Conformidad por cohecho de dos concejales de Sí se Puede y un sindicalista por el acuerdo que frustró una moción de censura contra la alcaldesa socialista. La Fiscalía no acusó a Caraballo; faltan originales judiciales y comprobación de firmeza y ejecución."
 tribunal:
   - "Juzgado de Instrucción número 1 de Huelva"
@@ -53,7 +66,9 @@ cronologia:
     type: "investigacion"
   - fecha: "2017-02-09"
     titulo: "Denuncia y entrega de grabaciones, según la reconstrucción periodística"
-    descripcion: "La Mar de Onuba sitúa en esta fecha la denuncia de Manuel Alonso Albarracín y la entrega de las conversaciones grabadas. No se ha recuperado la denuncia original ni se han escuchado los audios íntegros en esta revisión."
+    descripcion: La Mar de Onuba sitúa en esta fecha la denuncia de Manuel Alonso Albarracín y la entrega de las
+      conversaciones grabadas. No se ha recuperado la denuncia original ni se han escuchado los audios íntegros en
+      las fuentes citadas.
     urls:
       - "https://revista.lamardeonuba.es/caso-aljaraque-el-presunto-soborno-que-amenaza-el-liderazgo-de-caraballo-en-el-psoe-onubense/"
     type: "denuncia"
@@ -110,4 +125,4 @@ Las fuentes de octubre de 2024 coinciden en un año de prisión para cada uno de
 
 El acta municipal de 2025 es un documento oficial sobre el pleno, con una moción y declaraciones políticas que discuten la interpretación de la sentencia. Su cita de la resolución 107/2024 no permite certificar aquí su fecha, contenido íntegro, firmeza o ejecución, ni convertir las imputaciones políticas del debate en condenas de terceros.
 
-La revisión hasta el 17 de octubre de 2026 permanece incompleta: no se han recuperado la sentencia original de conformidad, el auto que resolvió la situación de Caraballo ni resoluciones posteriores de recurso, firmeza o ejecución. Tampoco se han cotejado la denuncia ni los audios originales. Se retira el anterior coste de cero porque no hay una cuantificación verificada del daño público; las multas y los empleos ofrecidos no proporcionan esa cuantificación.
+Al 17 de octubre de 2026, no se dispone de la sentencia original de conformidad, del auto que resolvió la situación de Caraballo ni de resoluciones posteriores de recurso, firmeza o ejecución. Tampoco se han cotejado la denuncia ni los audios originales. No consta una cuantificación del daño público; las multas y los empleos ofrecidos no proporcionan esa cuantificación ni acreditan la ausencia de daño.

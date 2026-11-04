@@ -8,10 +8,21 @@ estadoPrincipal: Condenado
 recursoPendiente: Otro recurso
 firmeza: Firme
 estado: "Condena confirmada por el Supremo en 2026; incidente de nulidad y ejecución pendientes de comprobar"
-descripcion: |
-  El procedimiento penal se refiere a la contratación y justificación de la subvención del teatro-auditorio de Puerto Lumbreras, cuando Pedro Antonio Sánchez era alcalde. La Audiencia Provincial de Murcia dictó la sentencia 77/2023 el 6 de marzo de 2023, condenándolo por prevaricación y falsedad a tres años de prisión, multa de 3.600 euros e inhabilitaciones. También condenó al arquitecto y a la secretaria accidental por cooperación necesaria en prevaricación, con absoluciones por otros delitos. La subvención de seis millones de euros no se equipara a daño patrimonial probado.
+descripcion: >-
+  El procedimiento penal se refiere a la contratación y justificación de la subvención del teatro-auditorio de
+  Puerto Lumbreras, cuando Pedro Antonio Sánchez era alcalde. La Audiencia Provincial de Murcia dictó la
+  sentencia 77/2023 el 6 de marzo de 2023, condenándolo por prevaricación y falsedad a tres años de prisión,
+  multa de 3.600 euros e inhabilitaciones. También condenó al arquitecto y a la secretaria accidental por
+  cooperación necesaria en prevaricación, con absoluciones por otros delitos. La subvención de seis millones
+  de euros no se equipara a daño patrimonial probado.
 
-  La STS 537/2026, de 17 de septiembre, desestimó los recursos de Sánchez y del arquitecto y estimó parcialmente el de la secretaria para delimitar las funciones afectadas por su inhabilitación. La resolución indica que no cabe recurso. El 1 de octubre de 2026 se informó de un incidente de nulidad presentado por la defensa de Sánchez, del anuncio de amparo e indulto y de una petición de paralizar la ejecución. No se ha acreditado su resolución ni el ingreso en prisión. La revisión hasta el 17 de octubre de 2026 sigue incompleta en ejecución y en los procedimientos contables relacionados.
+
+  La STS 537/2026, de 17 de septiembre, desestimó los recursos de Sánchez y del arquitecto y estimó
+  parcialmente el de la secretaria para delimitar las funciones afectadas por su inhabilitación. La resolución
+  indica que no cabe recurso. El 1 de octubre de 2026 se informó de un incidente de nulidad presentado por la
+  defensa de Sánchez, del anuncio de amparo e indulto y de una petición de paralizar la ejecución. No se ha
+  acreditado su resolución ni el ingreso en prisión. Al 17 de octubre de 2026, no constan la ejecución ni el
+  desenlace de los procedimientos contables relacionados.
 resumen: "El Supremo confirma en 2026 la condena por prevaricación y falsedad del caso Auditorio; ejecución y solicitudes posteriores pendientes de verificar."
 lugar: "Puerto Lumbreras, Región de Murcia"
 tribunal:
@@ -77,12 +88,12 @@ cronologia:
       - "https://www.orm.es/informativos/la-defensa-de-pedro-antonio-sanchez-pide-al-supremo-anular-su-condena-por-el-caso-auditorio/"
 ---
 
-Los hechos descritos por las notas oficiales incluyen el encargo verbal del proyecto sin expediente previo, un concurso condicionado para adjudicarlo al arquitecto y un proyecto modificado orientado a justificar la inversión de la subvención y evitar su reintegro aunque la obra quedara inacabada. Son distintos momentos de contratación y justificación; no se conserva la anterior afirmación de una adjudicación de obra en noviembre de 2006 ni una superficie de 100.000 metros cuadrados sin cotejo. No se fija una fecha exacta de inicio de la investigación sin cotejar los actos originales.
+Los hechos descritos por las notas oficiales incluyen el encargo verbal del proyecto sin expediente previo, un concurso condicionado para adjudicarlo al arquitecto y un proyecto modificado orientado a justificar la inversión de la subvención y evitar su reintegro aunque la obra quedara inacabada. Son distintos momentos de contratación y justificación; no están acreditadas una adjudicación de obra en noviembre de 2006 ni una superficie de 100.000 metros cuadrados. No se fija una fecha exacta de inicio de la investigación sin cotejar los actos originales.
 
 El fallo de instancia (página 65 del PDF oficial) desglosa para el exalcalde: nueve años, tres meses y un día de inhabilitación por prevaricación continuada; tres años de prisión, multa de seis meses a veinte euros diarios y dos años de inhabilitación por falsedad; y ocho años de inhabilitación por la segunda prevaricación. La nota oficial resume las inhabilitaciones en diecisiete años y tres meses, cifra que no recoge por sí sola todo ese desglose. No se suman aquí duraciones como si se hubiera verificado su liquidación en ejecución.
 
 Para la secretaria, el fallo impone ocho años, seis meses y un día y siete años de inhabilitación; para el arquitecto, ocho años, seis meses y un día y ocho años. La casación delimita las funciones afectadas en el caso de la secretaria, sin convertirla en una absolución. La instancia absuelve a los tres del fraude y al arquitecto de la falsedad; además absuelve a otro acusado de fraude y prevaricación, cuya identidad no se amplía a partir del seudónimo del PDF. Respecto de ECISA, el fallo indica que no procede pronunciamiento; no se la presenta como condenada. Tampoco se incluye a Valcárcel como investigado por el mero hecho de la subvención.
 
-**Límites al 17 de octubre de 2026:** se han verificado los PDF oficiales y leído sus cabeceras y fallos, con lectura parcial del resto, no todas las páginas. Las identidades nominales proceden de la nota judicial y de prensa, no de descifrar seudónimos. Falta cotejar las resoluciones contables originales, las solicitudes posteriores y la ejecución. La ausencia de recurso ordinario consta en el fallo del Supremo; el incidente de nulidad presentado según la prensa no se equipara a su estimación ni a una suspensión. Los seis millones son la subvención, no un daño acreditado, por lo que se retira `coste`.
+**Información pendiente al 17 de octubre de 2026:** Las identidades nominales proceden de la nota judicial y de prensa, no de descifrar seudónimos. Falta cotejar las resoluciones contables originales, las solicitudes posteriores y la ejecución. La ausencia de recurso ordinario consta en el fallo del Supremo; el incidente de nulidad presentado según la prensa no se equipara a su estimación ni a una suspensión. Los seis millones corresponden a la subvención, no a un daño acreditado.
 
 Este es el auditorio de **Puerto Lumbreras (Murcia)**, distinto del **Auditori Antonio Cabeza de Paterna (Valencia)** y su procedimiento contra Lorenzo Agustí. No se trasladan entre ambas fichas hechos, penas ni importes.

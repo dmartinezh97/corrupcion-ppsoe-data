@@ -151,7 +151,7 @@ cronologia:
     relevancia: alta
 ---
 
-El objeto principal son las subvenciones a las asociaciones AEAA, Humanitas, Innova, Inteca y Natura vinculadas a Ángel Ojeda para el dispositivo de extrabajadores de Delphi. La información judicial de 2022 describe contrataciones presuntamente simuladas y gastos cuya aplicación se cuestionaba. No se presume que la totalidad de los cursos fuera inexistente ni que todos los trabajadores participaran en un delito. Se omiten las cifras globales de la formación andaluza porque no son el importe de esta pieza.
+El objeto principal son las subvenciones a las asociaciones AEAA, Humanitas, Innova, Inteca y Natura vinculadas a Ángel Ojeda para el dispositivo de extrabajadores de Delphi. La información judicial de 2022 describe contrataciones presuntamente simuladas y gastos cuya aplicación se cuestionaba. No se presume que la totalidad de los cursos fuera inexistente ni que todos los trabajadores participaran en un delito. Las cifras globales de la formación andaluza no corresponden al importe de esta pieza.
 
 El [auto 485/2019 de 1 de julio](https://www.elindependiente.com/wp-content/uploads/2019/07/Auto-Audiencia-cursos-de-formacio%CC%81n-8-07-2019.pdf) permite distinguir procedimientos: su página 36 identifica Ojeda/Delphi como diligencias 74/2016, CTI como 221/2016 y FAFFE como 222/2016. Su parte dispositiva revoca el archivo de la causa matriz 966/2014 para practicar diligencias. No es un auto de procesamiento de Ojeda ni una sentencia sobre las ayudas de Delphi. La fecha de creación del PDF, 5 de julio, y el nombre del fichero que menciona el día 8 no sustituyen la fecha de la cabecera.
 

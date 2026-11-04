@@ -35,8 +35,8 @@ implicados:
     o condena judicial no documentada.
 - nombre: Santiago Calatrava
   cargo: Arquitecto del proyecto
-  rol: Autor del diseño y destinatario de los honorarios investigados, abonados a él o a su firma según la información
-    sobre las diligencias. No consta en las fuentes leídas una condena en este asunto.
+  rol: Autor del diseño y destinatario de los honorarios investigados, abonados a él o a su firma según la
+    información sobre las diligencias. No consta en las fuentes citadas una condena en este asunto.
 tags:
 - contratación pública
 - urbanismo
@@ -99,7 +99,7 @@ La investigación conocida en mayo de 2011 se refería a la parcela M3 y a los p
 
 La información de Europa Press del 2 de noviembre de 2011, reproducida por 20minutos e Iustel, describe el archivo tras recabar documentación de CACSA y de la Agencia Tributaria. Ninguna de esas publicaciones reproduce íntegramente el decreto. No permite convertir el archivo en una absolución judicial, fijar responsabilidades individuales o afirmar que no existió ninguna actuación posterior. El estado indicado corresponde a ese último desenlace acreditado, con la situación posterior sin documentar.
 
-Los 15 millones publicados como honorarios se mantienen en el relato económico, sin incorporarlos como daño judicial al campo de coste. Las críticas de la Sindicatura se conocen aquí mediante Valencia Plaza; falta el informe original para verificar directamente su contexto. No se aporta como documento una noticia o un PDF sin verificar.
+Los 15 millones publicados corresponden a honorarios, no a un daño judicial acreditado. Las críticas de la Sindicatura se conocen aquí mediante Valencia Plaza; falta el informe original para verificar directamente su contexto. No se aporta como documento una noticia o un PDF sin verificar.
 
 ## Fuentes
 

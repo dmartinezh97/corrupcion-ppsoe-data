@@ -8,14 +8,14 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condena confirmada en apelación; revisión documental pendiente
 lugar: Camariñas, A Coruña, Galicia
-descripcion: Manuel Valeriano Alonso de León, alcalde de Camariñas por el PSOE, fue condenado a cuatro años
-  de inhabilitación por prevaricación administrativa continuada en la contratación municipal de José Luis Rodríguez
-  Tajes sin proceso selectivo, según la información de 2017 y la memoria oficial del Consello Consultivo. La
-  prensa informó en agosto de 2018 de la confirmación en apelación. Dimitió el 24 de agosto de 2018. En un
-  procedimiento administrativo posterior, el TSXG desestimó en 2025 su recurso relativo al reintegro de nóminas
-  cobradas tras la condena. Faltan los originales penales y la comprobación de firmeza y recursos posteriores;
-  se ha recuperado el original administrativo de 2025, pero faltan su eventual casación y seguimiento posterior.
-  La revisión hasta el 17 de octubre de 2026 permanece incompleta.
+descripcion: Manuel Valeriano Alonso de León, alcalde de Camariñas por el PSOE, fue condenado a cuatro años de
+  inhabilitación por prevaricación administrativa continuada en la contratación municipal de José Luis
+  Rodríguez Tajes sin proceso selectivo, según la información de 2017 y la memoria oficial del Consello
+  Consultivo. La prensa informó en agosto de 2018 de la confirmación en apelación. Dimitió el 24 de agosto de
+  2018. En un procedimiento administrativo posterior, el TSXG desestimó en 2025 su recurso relativo al
+  reintegro de nóminas cobradas tras la condena. Faltan los originales penales y la comprobación de firmeza y
+  recursos posteriores; se ha recuperado el original administrativo de 2025, pero faltan su eventual casación
+  y seguimiento posterior. Información disponible al 17 de octubre de 2026.
 resumen: Condena de cuatro años de inhabilitación por contratación municipal sin proceso selectivo; posterior
   litigio administrativo sobre las nóminas cobradas tras la condena.
 tribunal:
@@ -119,6 +119,6 @@ Los 68.956,86 euros publicados en noviembre de 2023 corresponden al reintegro de
 
 ## Documentación y límites
 
-Se han comprobado por GET el PDF oficial de la Memoria 2021 y sus 208 páginas; se han leído la introducción sobre su aprobación el 15 de junio de 2022 y el apartado 3.9 completo (páginas 113–118), con comprobación visual de la página 113. La fecha de aprobación de la memoria no es la del dictamen CCG 160/2021 que resume. No se afirma haber leído las 208 páginas.
+La Memoria 2021, de 208 páginas, fue aprobada el 15 de junio de 2022 y trata el asunto en el apartado 3.9, páginas 113–118. La fecha de aprobación de la memoria no es la del dictamen CCG 160/2021 que resume.
 
-Faltan los originales de la sentencia penal y de su apelación. Hay diferencias en las referencias temporales: la memoria sitúa la sentencia penal el 4 de abril de 2017, mientras la noticia de La Voz sitúa el juicio ese día y su difusión en mayo. Las noticias de agosto no permiten fijar por sí solas la fecha del fallo de apelación. El original del TSXG de 2025 conserva referencias discordantes a los juzgados penales nº 3 y nº 4 y al año del dictamen. Además, sitúa el 4 de abril de 2017 como notificación, mientras la memoria lo recoge como fecha de sentencia y la prensa como fecha de juicio: faltan los originales penales para resolver esa diferencia. Del original administrativo de siete páginas se han cotejado cabecera, antecedentes, relación de hechos y fallo; la lectura de las alegaciones de las partes es parcial. Confirma el rechazo de la apelación y prevé casación, pero no acredita su interposición, resultado ni firmeza posterior hasta el 17 de octubre de 2026. Por ello la ficha permanece incompleta.
+Faltan los originales de la sentencia penal y de su apelación. Hay diferencias en las referencias temporales: la memoria sitúa la sentencia penal el 4 de abril de 2017, mientras la noticia de La Voz sitúa el juicio ese día y su difusión en mayo. Las noticias de agosto no permiten fijar por sí solas la fecha del fallo de apelación. El original del TSXG de 2025 conserva referencias discordantes a los juzgados penales nº 3 y nº 4 y al año del dictamen. Además, sitúa el 4 de abril de 2017 como notificación, mientras la memoria lo recoge como fecha de sentencia y la prensa como fecha de juicio: faltan los originales penales para resolver esa diferencia. La resolución administrativa consta de siete páginas. Confirma el rechazo de la apelación y prevé casación, pero no acredita su interposición, resultado ni firmeza posterior hasta el 17 de octubre de 2026.

@@ -28,7 +28,7 @@ tribunal:
 implicados:
 - nombre: José Torres Hurtado
   cargo: Exalcalde de Granada (PP)
-  rol: Absuelto en Obispo Hurtado, con ratificación definitiva publicada en 2024. No se mantiene como investigado
+  rol: Absuelto en Obispo Hurtado, con ratificación definitiva publicada en 2024. No consta como investigado
     en las dos piezas pendientes en 2026. Absuelto también en el procedimiento paralelo Serrallo.
 - nombre: Isabel María Nieto Pérez
   cargo: Exconcejala de Urbanismo de Granada (PP)
@@ -62,9 +62,8 @@ implicados:
     cautelares; no se dispone del auto que individualice el desenlace y no se presume investigación vigente.
 - nombre: Telesfora Ruiz
   cargo: Exconcejala del PP en Granada
-  rol: Absuelta en el procedimiento paralelo Serrallo tras la retirada de acusaciones. No se ha contrastado la atribución
-    de la ficha anterior de una investigación vigente en Mulhacén; no figura entre sus cinco acusados publicados en
-    2026.
+  rol: Absuelta en el procedimiento paralelo Serrallo tras la retirada de acusaciones. No consta una
+    investigación vigente en Mulhacén; no figura entre sus cinco acusados publicados en 2026.
 - nombre: Gaspar Navarro
   cargo: Exalto cargo del área de Urbanismo de Granada
   rol: Identificado en la noticia de Mulhacén de abril de 2026 por sus iniciales; sobreseimiento provisional publicado
@@ -162,7 +161,7 @@ En Obispo Hurtado se examinó el edificio donde residían Torres Hurtado y Nieto
 
 San Jerónimo se refiere a la licencia de primera ocupación del residencial Ciudad de la Luz. La apertura publicada en 2024 sufrió una retroacción conocida en febrero de 2025. En 2026 figuran cuatro acusados: Nieto, Lorente, Martín Herrera y un arquitecto del servicio, cuyo nombre completo no se ha contrastado. El promotor Romero aparece como responsable civil, condición distinta de acusado penal. La [noticia del 22 de septiembre de 2026](https://www.granadahoy.com/granada/pieza-san-jeronimo-caso-nazari-vuelve-audiencia-granada-urbanismo_0_2008040116.html) documenta un auto del día 19 que devuelve el asunto desde la plaza penal 3 a la Audiencia por competencia. No se ha verificado un señalamiento posterior ni sentencia.
 
-Mulhacén examina la modificación de una concesión sobre suelo municipal de uso deportivo y el desarrollo del pabellón y negocios anexos. El auto de [22 de abril de 2026, difundido por Granada Hoy](https://www.granadahoy.com/granada/jueza-caso-nazari-manda-juicio_0_2006580070.amp.html), abre juicio contra cinco personas. [El Independiente detalla](https://www.elindependientedegranada.es/politica/jueza-caso-nazari-abre-juicio-oral-excupula-urbanismo-pp-fija-fianza-5-millones-operacion) que dos antiguos funcionarios quedan fuera mediante sobreseimiento provisional y que las distintas acusaciones no se dirigen contra las mismas personas. La Fiscalía acusa a Nieto, al promotor y a Agustín B.; otras partes amplían la acusación a los cinco. Las penas solicitadas no son penas impuestas. No se han leído los autos originales para resolver todas las identidades y alcances individuales.
+Mulhacén examina la modificación de una concesión sobre suelo municipal de uso deportivo y el desarrollo del pabellón y negocios anexos. El auto de [22 de abril de 2026, difundido por Granada Hoy](https://www.granadahoy.com/granada/jueza-caso-nazari-manda-juicio_0_2006580070.amp.html), abre juicio contra cinco personas. [El Independiente detalla](https://www.elindependientedegranada.es/politica/jueza-caso-nazari-abre-juicio-oral-excupula-urbanismo-pp-fija-fianza-5-millones-operacion) que dos antiguos funcionarios quedan fuera mediante sobreseimiento provisional y que las distintas acusaciones no se dirigen contra las mismas personas. La Fiscalía acusa a Nieto, al promotor y a Agustín B.; otras partes amplían la acusación a los cinco. Las penas solicitadas no son penas impuestas. Los autos originales no están disponibles para precisar todas las identidades y situaciones individuales.
 
 La fianza conjunta de cinco millones garantiza posibles responsabilidades: no es una indemnización ya concedida ni se multiplica por cada obligado. Las pretensiones de nulidad de licencias tampoco equivalen a una orden penal firme de demolición. El litigio contencioso sobre los estudios de detalle del entorno Mulhacén tiene objeto y efectos propios, distintos de la responsabilidad penal. No se suma su impacto potencial al daño de Nazarí.
 

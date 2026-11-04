@@ -10,18 +10,64 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: En casación
 firmeza: No firme
 estado: "desconocido"
-descripcion: |
-  Esta ficha describe el procedimiento penal por el origen de la fortuna de Rodrigo Rato Figaredo, exvicepresidente del Gobierno y exministro de Economía y Hacienda (PP, 1996-2004), exdirector gerente del Fondo Monetario Internacional (2004-2007) y expresidente de Caja Madrid y Bankia, seguido como diligencias previas 2310/2015 del Juzgado de Instrucción nº 31 de Madrid. Los vehículos societarios documentados en la causa son, entre otros, Kradonara, Arada, Red Rose Financial Enterprise, Westcastle, Vivaway y Cor Comunicación, además del uso de cuentas en el extranjero.
+descripcion: >-
+  Esta ficha describe el procedimiento penal por el origen de la fortuna de Rodrigo Rato Figaredo,
+  exvicepresidente del Gobierno y exministro de Economía y Hacienda (PP, 1996-2004), exdirector gerente del
+  Fondo Monetario Internacional (2004-2007) y expresidente de Caja Madrid y Bankia, seguido como diligencias
+  previas 2310/2015 del Juzgado de Instrucción nº 31 de Madrid. Los vehículos societarios documentados en la
+  causa son, entre otros, Kradonara, Arada, Red Rose Financial Enterprise, Westcastle, Vivaway y Cor
+  Comunicación, además del uso de cuentas en el extranjero.
 
-  El origen de la causa está en una alerta de la Oficina Nacional de Investigación del Fraude (ONIF) sobre el patrimonio de Rato, que se habría acogido en noviembre de 2012 a la declaración tributaria especial (amnistía fiscal del Gobierno de Mariano Rajoy, Real Decreto-ley 12/2012, con plazo hasta noviembre de 2012) declarando 115.333,50 euros de patrimonio en el exterior y abonando 11.533,35 euros. La Fiscalía sostuvo que esa regularización fue incompleta y que la usó para dar apariencia legal a cuotas presuntamente defraudadas.
 
-  El 16 de abril de 2015, en la llamada «Operación Mallo», agentes del Servicio de Vigilancia Aduanera (Agencia Tributaria) y de la Policía Nacional registraron el domicilio y el despacho de Rato en Madrid por orden del Juzgado de Instrucción nº 35 de Madrid (juzgado de guardia), a instancias de la Fiscalía de Madrid. Rato fue detenido durante unas horas para asegurar su presencia en el registro y quedó en libertad esa misma noche; no consta que fuera puesto a disposición judicial ni que se le impusiera entonces una fianza de cuatro millones de euros. La instrucción pasó después al Juzgado de Instrucción nº 31 de Madrid (magistrado Antonio Serrano-Arnal), con la Fiscalía Anticorrupción, que investigó delitos contra la Hacienda Pública, blanqueo de capitales y corrupción entre particulares. La causa se acumuló en un único procedimiento y se prolongó más de nueve años, con más de 70.000 documentos.
+  El origen de la causa está en una alerta de la Oficina Nacional de Investigación del Fraude (ONIF) sobre el
+  patrimonio de Rato, que se habría acogido en noviembre de 2012 a la declaración tributaria especial
+  (amnistía fiscal del Gobierno de Mariano Rajoy, Real Decreto-ley 12/2012, con plazo hasta noviembre de 2012)
+  declarando 115.333,50 euros de patrimonio en el exterior y abonando 11.533,35 euros. La Fiscalía sostuvo que
+  esa regularización fue incompleta y que la usó para dar apariencia legal a cuotas presuntamente defraudadas.
 
-  El juicio oral se celebró en la Sección Séptima de la Audiencia Provincial de Madrid (presidenta y ponente Ángela Acevedo) entre el 15 de diciembre de 2023 y el 17 de mayo de 2024. El 20 de diciembre de 2024 se hizo pública la condena de la Audiencia a Rato a cuatro años, nueve meses y un día de prisión por tres delitos contra la Hacienda Pública (ejercicios 2006, 2013 y 2014), un delito de blanqueo de capitales y un delito de corrupción entre particulares, con multas superiores a dos millones de euros, una responsabilidad civil de 568.413 euros a favor de la Hacienda Pública y el comiso de la comisión de 2.022.154,52 euros, apreciando dilaciones indebidas, consideradas muy cualificadas respecto del delito de corrupción entre particulares. También condenó al abogado y administrador de Kradonara Domingo Plazas Ruiz (18 meses) y al empresario publicitario Alberto Portuondo Coll (tres meses y un día); absolvió al resto de los acusados.
 
-  Límites y advertencias relevantes: no consta firmeza de la sentencia. Fue recurrida en casación tanto por Rato (recurso de 221 páginas, formalizado en abril-mayo de 2025) como por la Fiscalía, que limitó su recurso al comiso del blanqueo. Una noticia de El Plural de diciembre de 2025 afirmaba que el Supremo todavía no había resuelto, pero contiene errores internos y no permite certificar el estado judicial del recurso. En la revisión hasta el 17 de octubre de 2026 no se ha localizado resolución del Supremo sobre esta casación, por lo que el estado actual de la casación no consta actualizado. La fase de acusación sí está documentada: el Auto 825/2021 de la Audiencia Provincial de Madrid (Sección 23), de 12 de noviembre de 2021, resolvió el recurso de apelación 1021/2021 contra el auto de continuación por el procedimiento abreviado. No se ha podido verificar el número de sentencia, ROJ ni ECLI de la resolución de la Audiencia Provincial de 2024, cuyo texto íntegro (de más de 1.200 folios) no se ha localizado en las fuentes consultadas. Esta ficha no debe confundirse con la condena por las «tarjetas black» de Caja Madrid (Audiencia Nacional, febrero de 2017; confirmada por el Tribunal Supremo en 2018), que es una causa distinta y ya firme, ni con la absolución por la salida a bolsa de Bankia.
+  El 16 de abril de 2015, en la llamada «Operación Mallo», agentes del Servicio de Vigilancia Aduanera
+  (Agencia Tributaria) y de la Policía Nacional registraron el domicilio y el despacho de Rato en Madrid por
+  orden del Juzgado de Instrucción nº 35 de Madrid (juzgado de guardia), a instancias de la Fiscalía de
+  Madrid. Rato fue detenido durante unas horas para asegurar su presencia en el registro y quedó en libertad
+  esa misma noche; no consta que fuera puesto a disposición judicial ni que se le impusiera entonces una
+  fianza de cuatro millones de euros. La instrucción pasó después al Juzgado de Instrucción nº 31 de Madrid
+  (magistrado Antonio Serrano-Arnal), con la Fiscalía Anticorrupción, que investigó delitos contra la Hacienda
+  Pública, blanqueo de capitales y corrupción entre particulares. La causa se acumuló en un único
+  procedimiento y se prolongó más de nueve años, con más de 70.000 documentos.
 
-  Cuantificación económica: la Agencia Tributaria cifró en unos 7,4 millones de euros las cuotas defraudadas (informe de 7 de julio de 2020) y la Fiscalía elevó la cifra a unos 8,5 millones al añadir la tributación de servicios profesionales; esta última es la cifra de la acusación. La sentencia, que solo condenó por tres ejercicios, fijó una responsabilidad civil de 568.413 euros y multas superiores a dos millones. Estas categorías no deben sumarse entre sí. Esta ficha se solapa con las fichas «Fraude Fiscal de Rodrigo Rato» y «Rato/Blanqueo de capitales», que describen el mismo procedimiento.
+
+  El juicio oral se celebró en la Sección Séptima de la Audiencia Provincial de Madrid (presidenta y ponente
+  Ángela Acevedo) entre el 15 de diciembre de 2023 y el 17 de mayo de 2024. El 20 de diciembre de 2024 se hizo
+  pública la condena de la Audiencia a Rato a cuatro años, nueve meses y un día de prisión por tres delitos
+  contra la Hacienda Pública (ejercicios 2006, 2013 y 2014), un delito de blanqueo de capitales y un delito de
+  corrupción entre particulares, con multas superiores a dos millones de euros, una responsabilidad civil de
+  568.413 euros a favor de la Hacienda Pública y el comiso de la comisión de 2.022.154,52 euros, apreciando
+  dilaciones indebidas, consideradas muy cualificadas respecto del delito de corrupción entre particulares.
+  También condenó al abogado y administrador de Kradonara Domingo Plazas Ruiz (18 meses) y al empresario
+  publicitario Alberto Portuondo Coll (tres meses y un día); absolvió al resto de los acusados.
+
+
+  Límites y advertencias relevantes: no consta firmeza de la sentencia. Fue recurrida en casación tanto por
+  Rato (recurso de 221 páginas, formalizado en abril-mayo de 2025) como por la Fiscalía, que limitó su recurso
+  al comiso del blanqueo. Una noticia de El Plural de diciembre de 2025 afirmaba que el Supremo todavía no
+  había resuelto, pero contiene errores internos y no permite certificar el estado judicial del recurso. Al 17
+  de octubre de 2026, no consta una resolución del Supremo sobre esta casación ni su situación posterior. La
+  fase de acusación sí está documentada: el Auto 825/2021 de la Audiencia Provincial de Madrid (Sección 23),
+  de 12 de noviembre de 2021, resolvió el recurso de apelación 1021/2021 contra el auto de continuación por el
+  procedimiento abreviado. No se ha podido verificar el número de sentencia, ROJ ni ECLI de la resolución de
+  la Audiencia Provincial de 2024, cuyo texto íntegro (de más de 1.200 folios) no se ha localizado en las
+  fuentes consultadas. Esta ficha no debe confundirse con la condena por las «tarjetas black» de Caja Madrid
+  (Audiencia Nacional, febrero de 2017; confirmada por el Tribunal Supremo en 2018), que es una causa distinta
+  y ya firme, ni con la absolución por la salida a bolsa de Bankia.
+
+
+  Cuantificación económica: la Agencia Tributaria cifró en unos 7,4 millones de euros las cuotas defraudadas
+  (informe de 7 de julio de 2020) y la Fiscalía elevó la cifra a unos 8,5 millones al añadir la tributación de
+  servicios profesionales; esta última es la cifra de la acusación. La sentencia, que solo condenó por tres
+  ejercicios, fijó una responsabilidad civil de 568.413 euros y multas superiores a dos millones. Estas
+  categorías no deben sumarse entre sí. Esta ficha se solapa con las fichas «Fraude Fiscal de Rodrigo Rato» y
+  «Rato/Blanqueo de capitales», que describen el mismo procedimiento.
 
 resumen: "Rodrigo Rato fue condenado en primera instancia por la Audiencia Provincial de Madrid, en una sentencia conocida el 20 de diciembre de 2024 a cuatro años, nueve meses y un día de prisión por tres delitos contra la Hacienda Pública, blanqueo de capitales y corrupción entre particulares. No se ha comprobado la fecha de firma ni consta firmeza: la sentencia fue recurrida en casación y no se ha localizado resolución del Tribunal Supremo en las fuentes consultadas."
 lugar: "Madrid, España"
@@ -161,8 +207,8 @@ cronologia:
 
 ## Incertidumbres y límites de esta ficha
 
-- **Sentencia de instancia recurrida: no consta firmeza (estado no actualizado).** La condena de la Audiencia Provincial de Madrid conocida el 20 de diciembre de 2024 es de primera instancia. Rato anunció su recurso en febrero de 2025 y lo formalizó en un escrito de 221 páginas; la Fiscalía anunció un recurso limitado al comiso del blanqueo. Una noticia de El Plural de diciembre de 2025 afirmaba que el Supremo todavía no había resuelto, pero contiene errores internos y no permite certificar el estado judicial del recurso. En la revisión hasta el 17 de octubre de 2026 no se ha localizado resolución del Supremo sobre esta casación, de modo que no consta firmeza ni resultado definitivo y el estado actual del recurso no consta actualizado. Tampoco consta que se haya ordenado el ingreso en prisión por esta causa.
-- **Sentencia íntegra no localizada; copia del auto de la fase de acusación.** La resolución de 2024, de alrededor de 1.200 folios (1.232 según algunas fuentes), no se ha localizado íntegra en las fuentes consultadas, ni se ha localizado un ejemplar descargable ni un identificador verificable (número, ROJ o ECLI). Sí está disponible, en cambio, el Auto 825/2021 de la Audiencia Provincial de Madrid (Sección 23), de 12 de noviembre de 2021 (recurso de apelación 1021/2021, diligencias previas 2310/2015), reproducido en cita.es, que documenta la fase de acusación. La fuente oficial accesible sobre la sentencia de 2024 es la nota de prensa del Consejo General del Poder Judicial / TSJ de Madrid.
+- **Sentencia de instancia recurrida: no consta firmeza (estado no actualizado).** La condena de la Audiencia Provincial de Madrid conocida el 20 de diciembre de 2024 es de primera instancia. Rato anunció su recurso en febrero de 2025 y lo formalizó en un escrito de 221 páginas; la Fiscalía anunció un recurso limitado al comiso del blanqueo. Una noticia de El Plural de diciembre de 2025 afirmaba que el Supremo todavía no había resuelto, pero contiene errores internos y no permite certificar el estado judicial del recurso. Al 17 de octubre de 2026, no consta una resolución del Supremo sobre esta casación, ni su firmeza, resultado definitivo o evolución posterior. Tampoco consta que se haya ordenado el ingreso en prisión por esta causa.
+- **Sentencia íntegra no localizada; copia del auto de la fase de acusación.** La resolución de 2024, de alrededor de 1.200 folios (1.232 según algunas fuentes), no se ha localizado íntegra en las fuentes consultadas, ni consta un identificador verificable (número, ROJ o ECLI). Sí está disponible, en cambio, el Auto 825/2021 de la Audiencia Provincial de Madrid (Sección 23), de 12 de noviembre de 2021 (recurso de apelación 1021/2021, diligencias previas 2310/2015), reproducido en cita.es, que documenta la fase de acusación. La fuente oficial accesible sobre la sentencia de 2024 es la nota de prensa del Consejo General del Poder Judicial / TSJ de Madrid.
 - **Naturaleza del Auto 825/2021.** El Auto 825/2021 es firme y contra él no cabe recurso ordinario, pero es una resolución de la fase intermedia que pone fin a la instrucción y delimita el objeto de la acusación (confirma o revoca, según el caso, la continuación por el procedimiento abreviado). No es una sentencia condenatoria: la condena de 2024 es una resolución posterior y distinta.
 - **Fecha de inicio del juicio oral.** El calendario fijado en septiembre de 2023 preveía el comienzo del juicio oral el 12 de diciembre de 2023. Las crónicas de la primera sesión y las recapitulaciones posteriores sitúan el inicio real el 15 de diciembre de 2023, con la vista prolongada hasta el 17 de mayo de 2024. Se documenta el 15 de diciembre de 2023.
 - **Número de acusados.** La nota oficial del CGPJ sobre la sentencia menciona a «Rodrigo Rato y otros 15 acusados»; otras crónicas (por ejemplo, Europa Press / Heraldo de Aragón) elevan el total a 17. No se fija una cifra cerrada.
@@ -170,14 +216,14 @@ cronologia:
 - **Sociedades y jurisdicciones.** Las fuentes describen sociedades panameñas (Red Rose Financial Enterprise, Westcastle), británica (Vivaway) e irlandesa (Red Rose Investment), entre otras, y cuentas en el extranjero. No se ha verificado una lista cerrada de jurisdicciones ni un número exacto de sociedades, por lo que no se afirma un número concreto.
 - **Implicados y roles.** Se distinguen las personas condenadas en primera instancia (Rato, Plazas y Portuondo) de las absueltas. El tribunal absolvió al resto de los acusados, entre ellos Santiago Alarcó (blanqueo de capitales), Ramiro Sánchez de Lerín (contrato de Telefónica), Teresa Arellano y José Manuel Fernández Norniella (corrupción entre particulares), Miguel Ángel Montero y la sociedad Plazas Abogados.
 - **Cuantificación.** La Agencia Tributaria cifró las cuotas defraudadas en unos 7,4 millones de euros (informe de 7 de julio de 2020) y la Fiscalía en unos 8,5 millones, cifra de la acusación al añadir la tributación de servicios profesionales. La sentencia fijó una responsabilidad civil de 568.413 euros y multas superiores a dos millones, además del comiso de la comisión de 2.022.154,52 euros. Se trata de magnitudes de naturaleza distinta que no deben sumarse.
-- **Solapamiento con otras fichas.** El ámbito de esta ficha coincide con las fichas «Fraude Fiscal de Rodrigo Rato» y «Rato/Blanqueo de capitales». Se documenta aquí el mismo procedimiento sin editar aquellas.
+Este procedimiento es el mismo que se describe como «Fraude Fiscal de Rodrigo Rato» y «Rato/Blanqueo de capitales». Se documenta aquí el mismo procedimiento sin editar aquellas.
 
 ## Alcance de comprobación al 17 de octubre de 2026
 
-Se ha leído íntegra la nota oficial del CGPJ sobre el fallo, que confirma condenas, absoluciones y responsabilidad civil, pero no sustituye a la sentencia. La resolución íntegra de 2024 y la resolución de la casación no se han localizado; la ausencia de resultados de búsqueda no acredita que no existan. No se afirma firmeza de las condenas ni de las absoluciones.
+La nota oficial del CGPJ confirma las condenas, absoluciones y responsabilidad civil, pero no sustituye a la sentencia. No se dispone de la resolución íntegra de 2024 ni consta la resolución de la casación; ello no acredita que no existan. No se afirma firmeza de las condenas ni de las absoluciones.
 
-La copia del Auto 825/2021 alojada en cita.es se ha descargado (54 páginas); se han comprobado el encabezamiento, las primeras páginas y la parte dispositiva (páginas 53-54), sin lectura íntegra de su motivación ni cotejo con un ejemplar oficial. Su fecha judicial es el 12 de noviembre de 2021; la creación del PDF el 17 de noviembre no es fecha del acto. `documentos: []` refleja que no se incorpora ese espejo como original autenticado.
+La copia del Auto 825/2021 alojada en cita.es consta de 54 páginas, con la parte dispositiva en las páginas 53–54. No está contrastada con un ejemplar oficial. Su fecha judicial es el 12 de noviembre de 2021; la creación del PDF el 17 de noviembre no es fecha del acto. Esa copia no constituye un original autenticado.
 
-Se omite `coste`: los 8,5 millones eran una cuantificación de la acusación. Los 568.413 euros son la responsabilidad civil comunicada oficialmente sobre una condena sin firmeza acreditada; ni las multas ni el comiso son magnitudes que deban añadirse a esa cifra. Además, las fichas solapadas pueden causar doble cómputo del mismo procedimiento.
+Los 8,5 millones eran una cuantificación de la acusación, no un daño judicialmente establecido. Los 568.413 euros son la responsabilidad civil comunicada oficialmente sobre una condena sin firmeza acreditada; ni las multas ni el comiso son magnitudes que deban añadirse a esa cifra. Además, las fichas solapadas pueden causar doble cómputo del mismo procedimiento.
 
-Los detalles de la amnistía y de las fases iniciales se conservan como antecedentes sujetos a sus fuentes. El País (2021) y Cinco Días (2023) devolvieron HTTP 403 y El Periódico (septiembre de 2025), HTTP 406 durante la comprobación: no se presenta su contenido como lectura completa realizada en esta revisión. La afirmación sobre ausencia de resolución en diciembre de 2025 procede de El Plural, cuya noticia contiene errores internos y no permite certificar el estado del recurso. Se retiran el detalle sobre la ponencia y admisión de septiembre de 2025 y el hito acusatorio de marzo de 2021, porque las fuentes correspondientes no pudieron leerse. La información accesible de Europa Press de febrero de 2025 no se utiliza para reconstruir una petición concreta de marzo de 2021.
+Los detalles de la amnistía y de las fases iniciales se conservan como antecedentes sujetos a sus fuentes. Los textos completos de El País (2021), Cinco Días (2023) y El Periódico (septiembre de 2025) no están disponibles para corroborar las referencias a esas actuaciones. La afirmación sobre ausencia de resolución en diciembre de 2025 procede de El Plural, cuya noticia contiene errores internos y no permite certificar el estado del recurso. No están suficientemente documentados el detalle sobre la ponencia y admisión de septiembre de 2025 ni la actuación acusatoria de marzo de 2021. La información accesible de Europa Press de febrero de 2025 no se utiliza para reconstruir una petición concreta de marzo de 2021.

@@ -8,14 +8,38 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: desconocido
-descripcion: |-
-  Caballo de Troya investigó operaciones empresariales presuntamente dirigidas a ocultar activos y perjudicar a acreedores mediante ventas de sociedades en dificultades y deudas ficticias. La investigación se originó en febrero de 2012, según Europa Press, tras la venta del Gran Hotel de Santiago a Ángel de Cabo; el operativo de detenciones y registros comenzó el 4 de febrero de 2013. El balance policial posterior, publicado por El País, fue de quince detenidos, diecisiete registros, 440.000 euros intervenidos y más de cuatrocientos inmuebles y ochenta vehículos bloqueados. Esas medidas no equivalen a daño declarado ni a condenas.
+descripcion: >-
+  Caballo de Troya investigó operaciones empresariales presuntamente dirigidas a ocultar activos y perjudicar
+  a acreedores mediante ventas de sociedades en dificultades y deudas ficticias. La investigación se originó
+  en febrero de 2012, según Europa Press, tras la venta del Gran Hotel de Santiago a Ángel de Cabo; el
+  operativo de detenciones y registros comenzó el 4 de febrero de 2013. El balance policial posterior,
+  publicado por El País, fue de quince detenidos, diecisiete registros, 440.000 euros intervenidos y más de
+  cuatrocientos inmuebles y ochenta vehículos bloqueados. Esas medidas no equivalen a daño declarado ni a
+  condenas.
 
-  La Sección Sexta de la Audiencia de A Coruña celebró una reunión preparatoria el 25 de enero de 2021, no el inicio del juicio. La Voz de Galicia informó el 20 de noviembre de 2022 de una sentencia de conformidad con nueve condenados y cuatro absueltos. Entre los condenados situó a Ángel de Cabo y a los hermanos José Luis y María Isabel Martínez Parra por insolvencia punible, con un año y nueve meses de prisión cada uno; los dos primeros recibieron además seis meses por favorecimiento de acreedores. No se atribuye un régimen de acumulación o ejecución sin el fallo. José Luis Martínez Parra falleció en agosto de 2024 según una noticia de ICAL.
 
-  Faltan el original de la sentencia, su fecha exacta, número, firmeza y posibles recursos hasta el 17 de octubre de 2026. No se conocen aquí los nombres de los cuatro absueltos ni todos los restantes condenados, y el desenlace de Alfredo Cuevas no está individualizado. La diferencia entre catorce acusados anunciados en 2021 y trece en la noticia de 2022 tampoco está resuelta. Estas lagunas no permiten afirmar continuidad del procedimiento por ausencia de noticias ni extender un resultado a todos los detenidos.
+  La Sección Sexta de la Audiencia de A Coruña celebró una reunión preparatoria el 25 de enero de 2021, no el
+  inicio del juicio. La Voz de Galicia informó el 20 de noviembre de 2022 de una sentencia de conformidad con
+  nueve condenados y cuatro absueltos. Entre los condenados situó a Ángel de Cabo y a los hermanos José Luis y
+  María Isabel Martínez Parra por insolvencia punible, con un año y nueve meses de prisión cada uno; los dos
+  primeros recibieron además seis meses por favorecimiento de acreedores. No se atribuye un régimen de
+  acumulación o ejecución sin el fallo. José Luis Martínez Parra falleció en agosto de 2024 según una noticia
+  de ICAL.
 
-  La relación con el PP es contextual: las fuentes leídas no identifican cargos de ese partido entre los acusados de esta causa. La prensa informó de una ayuda de la Xunta de 29.753,15 euros al hotel San Martín de Ourense, con expediente firmado el 31 de enero de 2013 y publicidad posterior; eso no acredita una concesión posterior a las detenciones ni que la ayuda fuera delictiva. La participación de Teconsa en la pieza Gürtel de la visita del Papa corresponde a otro procedimiento y sus condenas no se trasladan a Caballo de Troya. No se ha acreditado una cifra consolidada de perjuicio público.
+
+  Faltan el original de la sentencia, su fecha exacta, número, firmeza y posibles recursos hasta el 17 de
+  octubre de 2026. No se conocen aquí los nombres de los cuatro absueltos ni todos los restantes condenados, y
+  el desenlace de Alfredo Cuevas no está individualizado. La diferencia entre catorce acusados anunciados en
+  2021 y trece en la noticia de 2022 tampoco está resuelta. Estas lagunas no permiten afirmar continuidad del
+  procedimiento por ausencia de noticias ni extender un resultado a todos los detenidos.
+
+
+  La relación con el PP es contextual: las fuentes citadas no identifican cargos de ese partido entre los
+  acusados de esta causa. La prensa informó de una ayuda de la Xunta de 29.753,15 euros al hotel San Martín de
+  Ourense, con expediente firmado el 31 de enero de 2013 y publicidad posterior; eso no acredita una concesión
+  posterior a las detenciones ni que la ayuda fuera delictiva. La participación de Teconsa en la pieza Gürtel
+  de la visita del Papa corresponde a otro procedimiento y sus condenas no se trasladan a Caballo de Troya. No
+  se ha acreditado una cifra consolidada de perjuicio público.
 resumen: 'Operaciones empresariales contra acreedores investigadas desde Santiago: sentencia de conformidad
   conocida en 2022, con nueve condenados y cuatro absueltos según prensa; faltan fallo y firmeza individual.'
 lugar: Galicia, Madrid, Comunidad Valenciana, Castilla y León
@@ -173,4 +197,4 @@ La reunión del 25 de enero de 2021, descrita por Europa Press, fue organizativa
 
 Las multas, los bienes bloqueados, el dinero intervenido y las ayudas públicas son categorías diferentes. No se suman como una pérdida pública. La información sobre la subvención al hotel de Ourense cita una convocatoria competitiva y un expediente anterior al operativo, sin acreditar un delito en su concesión.
 
-Ninguna de las personas aquí identificadas consta como cargo del PP en las fuentes leídas. La ayuda del Gobierno gallego y la presencia de Teconsa en otra causa explican las conexiones recogidas en prensa, pero no permiten atribuir responsabilidades políticas penales en este procedimiento. El resultado de Alfredo Cuevas y la identidad de los absueltos siguen sin confirmación individual.
+Ninguna de las personas aquí identificadas consta como cargo del PP en las fuentes citadas. La ayuda del Gobierno gallego y la presencia de Teconsa en otra causa explican las conexiones recogidas en prensa, pero no permiten atribuir responsabilidades políticas penales en este procedimiento. El resultado de Alfredo Cuevas y la identidad de los absueltos siguen sin confirmación individual.

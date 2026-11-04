@@ -9,29 +9,32 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Procesamiento documentado; fase posterior pendiente de verificar
-descripcion: 'El caso Acuamed u Operación Frontino investiga la adjudicación y ejecución presuntamente irregular
-  de obras de la sociedad estatal Aguas de las Cuencas Mediterráneas. La nota oficial del CGPJ de 25 de abril de
-  2023 comunicó el procesamiento de 42 personas por posibles delitos de corrupción en los negocios, falsedad documental,
-  fraude a la Administración, prevaricación, malversación y cohecho. Abordaba una veintena de obras y también el
-  uso de fondos de un crédito del BEI. El procesamiento aprecia indicios, no declara culpabilidad.
+descripcion: >-
+  El caso Acuamed u Operación Frontino investiga la adjudicación y ejecución presuntamente irregular de obras
+  de la sociedad estatal Aguas de las Cuencas Mediterráneas. La nota oficial del CGPJ de 25 de abril de 2023
+  comunicó el procesamiento de 42 personas por posibles delitos de corrupción en los negocios, falsedad
+  documental, fraude a la Administración, prevaricación, malversación y cohecho. Abordaba una veintena de
+  obras y también el uso de fondos de un crédito del BEI. El procesamiento aprecia indicios, no declara
+  culpabilidad.
 
 
-  Los hechos atribuidos incluyen dádivas y modificaciones de informes, certificaciones o liquidaciones para favorecer
-  a contratistas. Deben distinguirse los contratos y sus importes, los regalos investigados, el dinero intervenido
-  y las fianzas de un perjuicio declarado en sentencia. No se mantiene como coste probado la cifra inicial de 20
-  millones de euros ni se considera daño el crédito del BEI de hasta 500 millones. La eventual resolución de reclamaciones
-  contractuales o arbitrajes tampoco resuelve por sí misma la responsabilidad penal.
+  Los hechos atribuidos incluyen dádivas y modificaciones de informes, certificaciones o liquidaciones para
+  favorecer a contratistas. Deben distinguirse los contratos y sus importes, los regalos investigados, el
+  dinero intervenido y las fianzas de un perjuicio declarado en sentencia. La cifra de 20 millones de euros no
+  está acreditada como perjuicio, y el crédito del BEI de hasta 500 millones no equivale a daño. La eventual
+  resolución de reclamaciones contractuales o arbitrajes tampoco resuelve por sí misma la responsabilidad
+  penal.
 
 
-  La situación no es común a todos los investigados: se documentan archivos respecto de Federico Ramos y Liana Ardiles
-  en 2016, y sobreseimientos provisionales de Luis Castilla y Justo Vicente Pelegrini en 2020, con confirmación
-  en apelación del de Castilla conocida en febrero de 2021. En diciembre de 2023 la prensa informó de resoluciones
-  de recursos contra el procesamiento de otros encausados. El Debate, en septiembre de 2025, describió la instrucción
-  como cerrada desde marzo y el juicio sin fecha, pero faltan el auto de conclusión y la apertura de juicio oral
-  para precisar esa fase. Las noticias de enero de 2026 citadas en la versión anterior no han podido revalidarse
-  íntegramente en esta revisión. No se acredita el estado posterior hasta el 15 de octubre de 2026, una sentencia
-  ni la evolución individual completa de los 42 procesados. No se presume firmeza, continuidad sin juicio ni archivo
-  general.'
+  La situación no es común a todos los investigados: se documentan archivos respecto de Federico Ramos y Liana
+  Ardiles en 2016, y sobreseimientos provisionales de Luis Castilla y Justo Vicente Pelegrini en 2020, con
+  confirmación en apelación del de Castilla conocida en febrero de 2021. En diciembre de 2023 la prensa
+  informó de resoluciones de recursos contra el procesamiento de otros encausados. El Debate, en septiembre de
+  2025, describió la instrucción como cerrada desde marzo y el juicio sin fecha, pero faltan el auto de
+  conclusión y la apertura de juicio oral para precisar esa fase. Las referencias periodísticas de enero de
+  2026 no cuentan con corroboración suficiente. No se acredita el estado posterior hasta el 15 de octubre de
+  2026, una sentencia ni la evolución individual completa de los 42 procesados. No se presume firmeza,
+  continuidad sin juicio ni archivo general.
 resumen: Presuntas irregularidades en contratos y fondos de Acuamed; procesamiento de 42 personas y archivos individuales
   diferenciados.
 lugar: 'España: obras en la cuenca mediterránea y otras actuaciones investigadas'

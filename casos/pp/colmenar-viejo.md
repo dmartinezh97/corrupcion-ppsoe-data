@@ -9,16 +9,61 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin recurso pendiente
 firmeza: Firme
 estado: "sentencia firme"
-descripcion: |
-  El caso Colmenar Viejo documenta la causa seguida por la concesión de 16 licencias de primera ocupación por parte de las sucesivas Juntas de Gobierno del Ayuntamiento de Colmenar Viejo (PP) a partir de 2006. La investigación partió de una denuncia anónima asumida por la Fiscalía de Medio Ambiente de Madrid, que presentó querellas en dos juzgados del municipio, y fue instruida por el Juzgado de Instrucción nº 3 de Colmenar Viejo.
+descripcion: >-
+  El caso Colmenar Viejo documenta la causa seguida por la concesión de 16 licencias de primera ocupación por
+  parte de las sucesivas Juntas de Gobierno del Ayuntamiento de Colmenar Viejo (PP) a partir de 2006. La
+  investigación partió de una denuncia anónima asumida por la Fiscalía de Medio Ambiente de Madrid, que
+  presentó querellas en dos juzgados del municipio, y fue instruida por el Juzgado de Instrucción nº 3 de
+  Colmenar Viejo.
 
-  El 12 de septiembre de 2016 la Sección Cuarta de la Audiencia Provincial de Madrid desestimó los recursos y confirmó el procesamiento de doce cargos públicos por un delito continuado de prevaricación urbanística, al entender que los informes técnicos y jurídicos desfavorables no podían ignorarse sin una justificación razonada. Entre los procesados figuraban los alcaldes y exalcaldes Miguel Ángel Santamaría Novoa, Jorge García Díaz y José María de Federico Corral, y los concejales y exconcejales Ana Belén Colmenarejo Collado, César de la Serna Moscol, Carlos Blázquez Rodríguez, Juan José Serrano Cadahía, Antonia García Santos, Inmaculada Viñoles Riera, Justo García Froilán, Pablo Colmenarejo Cobeña y Pedro Gómez Aparicio.
 
-  La apertura del juicio oral en noviembre de 2016 provocó la dimisión del alcalde Miguel Ángel Santamaría, presentada el 10 de noviembre. El 22 de noviembre de 2016 el Pleno municipal eligió nuevo alcalde a Jorge García Díaz, también procesado en la misma causa. El juicio oral se señaló para el 22 de junio de 2021 ante el Juzgado de lo Penal nº 11 de Madrid, por un delito continuado de prevaricación urbanística (artículo 320 del Código Penal y, alternativamente, artículo 404), con peticiones de pena de entre dos años y tres años y medio de prisión y hasta diez años de inhabilitación.
+  El 12 de septiembre de 2016 la Sección Cuarta de la Audiencia Provincial de Madrid desestimó los recursos y
+  confirmó el procesamiento de doce cargos públicos por un delito continuado de prevaricación urbanística, al
+  entender que los informes técnicos y jurídicos desfavorables no podían ignorarse sin una justificación
+  razonada. Entre los procesados figuraban los alcaldes y exalcaldes Miguel Ángel Santamaría Novoa, Jorge
+  García Díaz y José María de Federico Corral, y los concejales y exconcejales Ana Belén Colmenarejo Collado,
+  César de la Serna Moscol, Carlos Blázquez Rodríguez, Juan José Serrano Cadahía, Antonia García Santos,
+  Inmaculada Viñoles Riera, Justo García Froilán, Pablo Colmenarejo Cobeña y Pedro Gómez Aparicio.
 
-  La acusación definitiva distinguió una modalidad continuada para nueve acusados y una no continuada para tres; los originales anonimizados no permiten trasladar esa distribución a los nombres sin otra comprobación nominal. El 23 de diciembre de 2021 el Juzgado de lo Penal nº 11 dictó sentencia absolutoria para los doce acusados. El tribunal consideró que no se había acreditado que actuaran «con ánimo de actuar de forma ilegal» ni que las decisiones de la Junta de Gobierno fueran arbitrarias o injustas: calificó las deficiencias detectadas como de muy escasa importancia, apreció que los informes técnicos eran preceptivos pero no vinculantes y que no constaba beneficio ilícito alguno. La sentencia se dio a conocer el 12 de enero de 2022 a través de una nota del CGPJ y de su difusión en prensa. La Fiscalía de Madrid recurrió en apelación y la Sección Tercera de la Audiencia Provincial de Madrid lo desestimó mediante sentencia 380/2022, de 13 de julio de 2022, confirmando la absolución e indicando que no cabía recurso alguno; la prensa dio cuenta de la resolución el 18 de julio de 2022, señalando que contra ella no cabía recurso.
 
-  Límites de la información: se han recuperado los originales oficiales de instancia y apelación. La sentencia 5/2022 del Juzgado de lo Penal nº 11 está fechada el 23 de diciembre de 2021 (PA 170/2017, ECLI:ES:JP:2021:86); su número anual 2022 y fecha de 2021 constan así tanto en cabecera como en texto y se conservan sin corregirlos por inferencia. Del original de 30 páginas se han leído las páginas 1–3 y 29–30, incluidos antecedentes y fallo, sin examen íntegro de los dieciséis expedientes. La sentencia de apelación 380/2022, de 13 de julio de 2022 (recurso 925/2022, ECLI:ES:APM:2022:10358), se ha leído íntegramente en sus seis páginas: confirma la absolución y declara que no cabe recurso alguno. El 18 de julio de 2022 es la difusión periodística, no la fecha de la resolución. No se ha comprobado exhaustivamente la existencia de eventuales incidentes de nulidad o amparos posteriores ni otras actuaciones de ejecución. Las fuentes discrepan en el número de procesados (doce según la nota del CGPJ y el escrito de la Fiscalía; once en algunas crónicas; y trece en el anuncio del juicio de Telemadrid, que sumaba un alcalde, dos exalcaldes y diez ediles) y en el alcance temporal de los hechos (a partir de 2006; en torno a 2008 según Telemadrid). El despacho defensor Dikei habla de quince licencias, frente a las dieciséis de la acusación y de la prensa, discordancia que permanece sin un cotejo íntegro de los expedientes. No consta perjuicio económico cuantificado. El Confidencial identificó en noviembre de 2015 a Pedro Gómez Aparicio entre los doce querellados; no se ha confirmado su periodo como concejal. Esta ficha se refiere exclusivamente a la causa de las 16 licencias, resuelta en 2022; debe distinguirse de otras actuaciones sobre el urbanismo del mismo municipio, en particular de la resolución de 2023 recogida en la ficha «Colmenar Viejo II», que es un procedimiento distinto.
+  La apertura del juicio oral en noviembre de 2016 provocó la dimisión del alcalde Miguel Ángel Santamaría,
+  presentada el 10 de noviembre. El 22 de noviembre de 2016 el Pleno municipal eligió nuevo alcalde a Jorge
+  García Díaz, también procesado en la misma causa. El juicio oral se señaló para el 22 de junio de 2021 ante
+  el Juzgado de lo Penal nº 11 de Madrid, por un delito continuado de prevaricación urbanística (artículo 320
+  del Código Penal y, alternativamente, artículo 404), con peticiones de pena de entre dos años y tres años y
+  medio de prisión y hasta diez años de inhabilitación.
+
+
+  La acusación definitiva distinguió una modalidad continuada para nueve acusados y una no continuada para
+  tres; los originales anonimizados no permiten trasladar esa distribución a los nombres sin otra comprobación
+  nominal. El 23 de diciembre de 2021 el Juzgado de lo Penal nº 11 dictó sentencia absolutoria para los doce
+  acusados. El tribunal consideró que no se había acreditado que actuaran «con ánimo de actuar de forma
+  ilegal» ni que las decisiones de la Junta de Gobierno fueran arbitrarias o injustas: calificó las
+  deficiencias detectadas como de muy escasa importancia, apreció que los informes técnicos eran preceptivos
+  pero no vinculantes y que no constaba beneficio ilícito alguno. La sentencia se dio a conocer el 12 de enero
+  de 2022 a través de una nota del CGPJ y de su difusión en prensa. La Fiscalía de Madrid recurrió en
+  apelación y la Sección Tercera de la Audiencia Provincial de Madrid lo desestimó mediante sentencia
+  380/2022, de 13 de julio de 2022, confirmando la absolución e indicando que no cabía recurso alguno; la
+  prensa dio cuenta de la resolución el 18 de julio de 2022, señalando que contra ella no cabía recurso.
+
+
+  Límites de la información: se han recuperado los originales oficiales de instancia y apelación. La sentencia
+  5/2022 del Juzgado de lo Penal nº 11 está fechada el 23 de diciembre de 2021 (PA 170/2017,
+  ECLI:ES:JP:2021:86); su número anual 2022 y fecha de 2021 constan así tanto en cabecera como en texto y se
+  conservan sin corregirlos por inferencia. La sentencia de apelación 380/2022, de 13 de julio de 2022
+  (recurso 925/2022, ECLI:ES:APM:2022:10358), confirma la absolución y declara que no cabe recurso alguno. El
+  18 de julio de 2022 es la difusión periodística, no la fecha de la resolución. No se ha comprobado
+  exhaustivamente la existencia de eventuales incidentes de nulidad o amparos posteriores ni otras actuaciones
+  de ejecución. Las fuentes discrepan en el número de procesados (doce según la nota del CGPJ y el escrito de
+  la Fiscalía; once en algunas crónicas; y trece en el anuncio del juicio de Telemadrid, que sumaba un
+  alcalde, dos exalcaldes y diez ediles) y en el alcance temporal de los hechos (a partir de 2006; en torno a
+  2008 según Telemadrid). El despacho defensor Dikei habla de quince licencias, frente a las dieciséis de la
+  acusación y de la prensa, discordancia que permanece sin un cotejo íntegro de los expedientes. No consta
+  perjuicio económico cuantificado. El Confidencial identificó en noviembre de 2015 a Pedro Gómez Aparicio
+  entre los doce querellados; no se ha confirmado su periodo como concejal. Esta ficha se refiere
+  exclusivamente a la causa de las 16 licencias, resuelta en 2022; debe distinguirse de otras actuaciones
+  sobre el urbanismo del mismo municipio, en particular de la resolución de 2023 recogida en la ficha
+  «Colmenar Viejo II», que es un procedimiento distinto.
 resumen: "Tres alcaldes y nueve concejales del PP de Colmenar Viejo, absueltos en firme en 2022 del delito de prevaricación urbanística por las 16 licencias de primera ocupación."
 lugar: "Colmenar Viejo, Comunidad de Madrid"
 tribunal:
@@ -165,18 +210,18 @@ cronologia:
       - "https://www.madridiario.es/confirmada-absolucion-alcalde-colmenar-viejo-delito-prevaricacion-urbanistica"
 ---
 
-## Límites de la revisión (2026-10-17)
+## Información pendiente de acreditar (2026-10-17)
 
 Esta ficha documenta la causa de las 16 licencias de primera ocupación instruida por el Juzgado de Instrucción nº 3 de Colmenar Viejo, juzgada por el Juzgado de lo Penal nº 11 de Madrid y cerrada con la absolución firme confirmada por la Audiencia Provincial de Madrid en julio de 2022.
 
-- Se han recuperado los dos originales oficiales por GET200 y verificado su formato PDF. De la sentencia de instancia, de 30 páginas, se han leído las páginas 1–3 y 29–30, incluidos cabecera, antecedentes y fallo absolutorio para los doce; no se afirma lectura íntegra. La apelación, de seis páginas, se ha leído completa y confirma íntegramente la absolución, con costas de oficio y sin recurso alguno.
+- Están disponibles los dos originales judiciales. La sentencia de instancia, de 30 páginas, absuelve a los doce acusados; el fallo figura en las páginas 29–30. La sentencia de apelación, de seis páginas, confirma íntegramente la absolución, con costas de oficio y sin recurso alguno.
 - La apelación 380/2022 está fechada el 13 de julio de 2022; la deliberación fue el 11 de julio y las crónicas se publicaron el 18. Sus identificadores son recurso 925/2022 y ECLI:ES:APM:2022:10358. No se trasladan a la instancia.
 - El original de instancia confirma literalmente número 5/2022 y fecha 23 de diciembre de 2021, PA 170/2017 y ECLI:ES:JP:2021:86. Se conserva esa discordancia aparente; la revisión editorial de Iberley de 7 de abril de 2022 no es fecha del acto.
 - La fecha de inicio del juicio (22 de junio de 2021) y las sesiones previstas (23 y 25 de junio y 1 de julio) proceden de anuncios de prensa (Telemadrid, 16 de junio; Confilegal, 21 de junio); los antecedentes de la sentencia confirman que hubo juicio y práctica de prueba, pero no permiten contrastar las fechas concretas anunciadas. La nota del CGPJ de 12 de enero de 2022 es una difusión oficial y en prensa, no una publicación judicial formal.
 - Las fuentes discrepan en el número de procesados: doce según la nota del CGPJ de 2022 y el escrito de la Fiscalía, once según algunas crónicas y trece en el anuncio del juicio de Telemadrid (un alcalde, dos exalcaldes y diez ediles); se dan por buenos los doce de la nota del CGPJ, en los que se basa el resumen. También discrepan en el alcance temporal de los hechos (a partir de 2006; en torno a 2008 según Telemadrid; 2006-2012 según el despacho defensor). No se atribuyen actos ilícitos declarados judicialmente: los hechos se describen como acusación de la Fiscalía y las licencias no fueron declaradas irregulares por una condena, ya que la causa terminó en absolución.
-- No consta perjuicio económico cuantificado. Se retira `coste: 0`: la ausencia de una cuantificación documentada no demuestra que el coste sea cero. Tampoco se convierte el valor de las promociones o las peticiones de multa en daño probado.
+- No consta perjuicio económico cuantificado. La ausencia de una cuantificación documentada no demuestra que el daño económico sea cero. Tampoco se convierte el valor de las promociones o las peticiones de multa en daño probado.
 - Esta ficha se refiere solo a la causa de las 16 licencias. Otras actuaciones sobre el urbanismo del municipio son procedimientos distintos, en particular la resolución de 2023 recogida en la ficha «Colmenar Viejo II». No forman parte de esta ficha otras causas, condenas ni medidas de gracia ajenas a este expediente.
 
 Los nombres de los doce querellados se contrastan también con la [crónica de El Confidencial de 27 de noviembre de 2015](https://www.elconfidencial.com/espana/madrid/2015-11-27/querella-contra-dos-alcaldes-y-diez-ediles-de-colmenar-por-prevaricar-durante-diez-anos_1107852/). El nombre de Inmaculada Viñoles Riera consta asimismo en el [acta municipal de 31 de octubre de 2013](https://colmenarviejo.com/images/SecretariaGeneralpdf/Actas%20Pleno/ACTA_PLENO_31_OCTUBRE_13.pdf). Estas fuentes identifican a las personas, sin permitir asignarles por inferencia los seudónimos de las sentencias.
 
-La sentencia oficial de apelación confirma íntegramente la absolución y señala que no cabe recurso alguno; la firmeza no se deduce de la falta de noticias posteriores. Dikei intervino en la defensa y se identifica como fuente de parte. La búsqueda hasta el 17 de octubre de 2026 no ha localizado una revisión posterior, pero no constituye una comprobación exhaustiva de eventuales incidentes de nulidad o amparos. El acta municipal de 2013 se descargó mediante GET; solo se consultaron los pasajes relativos a Viñoles para identificación, sin usarla como prueba del fallo penal.
+La sentencia oficial de apelación confirma íntegramente la absolución y señala que no cabe recurso alguno; la firmeza no se deduce de la falta de noticias posteriores. Dikei intervino en la defensa y se identifica como fuente de parte. Al 17 de octubre de 2026, no consta una resolución posterior; siguen sin acreditarse eventuales incidentes de nulidad o amparos. El acta municipal de 2013 acredita la identidad de Viñoles, no el fallo penal.

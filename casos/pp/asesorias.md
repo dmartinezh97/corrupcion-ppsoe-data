@@ -9,18 +9,50 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "desconocido"
-descripcion: |
-  El nombre «caso Asesorías» agrupa procedimientos relacionados con la contratación de servicios jurídicos y técnicos por administraciones valencianas y con la Academia Valenciana de Juristas (AVJ). Esta ficha documenta únicamente los resultados contrastados de algunas piezas; no acredita el resultado del conjunto de la causa ni permite atribuir a todas las personas las conductas enjuiciadas en una pieza concreta.
+descripcion: >-
+  El nombre «caso Asesorías» agrupa procedimientos relacionados con la contratación de servicios jurídicos y
+  técnicos por administraciones valencianas y con la Academia Valenciana de Juristas (AVJ). Esta ficha
+  documenta únicamente los resultados contrastados de algunas piezas; no acredita el resultado del conjunto de
+  la causa ni permite atribuir a todas las personas las conductas enjuiciadas en una pieza concreta.
 
-  La sentencia 872/2016 del Tribunal Supremo, de 18 de noviembre, desestimó los recursos contra la condena por cohecho de la exalcaldesa de La Pobla de Farnals Natividad García Castellar y del exsecretario de Canet d'En Berenguer José Antonio Sancho Sempere, a dos años de prisión. La nota oficial del CGPJ de 23 de noviembre de 2016 identifica nominalmente a ambos; no se deducen sus identidades a partir de los seudónimos del PDF. El Supremo también rechazó el recurso de la Fiscalía que pretendía condenas por prevaricación, malversación y falsedad y la condena por cohecho de la AVJ: las absoluciones de esa pieza no se omiten.
 
-  En la pieza del Consorci de Museus, la sentencia 302/2021 del Supremo, de 8 de abril, revocó por insuficiencia de prueba las condenas por malversación y falsedad impuestas en 2019 a Rafael Parra Mateu y Sancho Sempere. Mantuvo la prevaricación continuada, con nueve años de inhabilitación para Parra y cuatro años y medio para Sancho, y dejó sin efecto las indemnizaciones. La segunda sentencia precisa que los trabajos abonados se realizaron al menos en parte y que no consta un precio ficticiamente incrementado. No acredita una facturación global ficticia ni un perjuicio extrapolable al resto de contratos.
+  La sentencia 872/2016 del Tribunal Supremo, de 18 de noviembre, desestimó los recursos contra la condena por
+  cohecho de la exalcaldesa de La Pobla de Farnals Natividad García Castellar y del exsecretario de Canet d'En
+  Berenguer José Antonio Sancho Sempere, a dos años de prisión. La nota oficial del CGPJ de 23 de noviembre de
+  2016 identifica nominalmente a ambos; no se deducen sus identidades a partir de los seudónimos del PDF. El
+  Supremo también rechazó el recurso de la Fiscalía que pretendía condenas por prevaricación, malversación y
+  falsedad y la condena por cohecho de la AVJ; las absoluciones de esa pieza subsisten.
 
-  También se documentan absoluciones distintas: el despacho que defendió al exalcalde de Canet Leandro Benito publicó el 17 de noviembre de 2022 que el Juzgado de lo Penal nº 6 de Valencia lo había absuelto, junto con Sancho, por el contrato de asistencia jurídica de 2013; elDiario.es informó en enero de 2024 de la absolución de Eugenio Cañizares, Sancho e Ismael Asensio en la contratación de servicios jurídicos de San Antonio de Benagéber. Son informaciones sobre resoluciones no obtenidas íntegramente y no acreditan su firmeza individual.
 
-  Una rectificación municipal reproducida por El Periódico de Aquí el 21 de mayo de 2026 afirma que el Tribunal de Cuentas rechazó en enero de ese año exigir responsabilidad contable a Sancho en relación con los hechos a los que se refiere el escrito y que el Ayuntamiento de Canet no tenía procedimientos pendientes contra él. Se atribuye expresamente al Ayuntamiento: no se ha localizado la resolución contable para comprobar su objeto o alcance ni permite afirmar el cierre de litigios entre particulares.
+  En la pieza del Consorci de Museus, la sentencia 302/2021 del Supremo, de 8 de abril, revocó por
+  insuficiencia de prueba las condenas por malversación y falsedad impuestas en 2019 a Rafael Parra Mateu y
+  Sancho Sempere. Mantuvo la prevaricación continuada, con nueve años de inhabilitación para Parra y cuatro
+  años y medio para Sancho, y dejó sin efecto las indemnizaciones. La segunda sentencia precisa que los
+  trabajos abonados se realizaron al menos en parte y que no consta un precio ficticiamente incrementado. No
+  acredita una facturación global ficticia ni un perjuicio extrapolable al resto de contratos.
 
-  Límites al 17 de octubre de 2026: no se han cotejado todas las piezas ni su estado final. Se retiran las afirmaciones detalladas sobre conformidad de 2022, resolución de 2021 sobre facturación, querellas de 2025, Egevasa de 2024 y Auto 726/2026, porque sus originales no se han obtenido y las referencias heredadas estaban bloqueadas o no permitían verificar suficientemente su alcance. Tampoco se mantienen acusaciones personales contra familiares u otros cargos sin soporte contrastado. No se fija coste: las facturaciones, las indemnizaciones revocadas y las estimaciones periodísticas no equivalen a un perjuicio judicial vigente.
+
+  También se documentan absoluciones distintas: el despacho que defendió al exalcalde de Canet Leandro Benito
+  publicó el 17 de noviembre de 2022 que el Juzgado de lo Penal nº 6 de Valencia lo había absuelto, junto con
+  Sancho, por el contrato de asistencia jurídica de 2013; elDiario.es informó en enero de 2024 de la
+  absolución de Eugenio Cañizares, Sancho e Ismael Asensio en la contratación de servicios jurídicos de San
+  Antonio de Benagéber. Son informaciones sobre resoluciones no obtenidas íntegramente y no acreditan su
+  firmeza individual.
+
+
+  Una rectificación municipal reproducida por El Periódico de Aquí el 21 de mayo de 2026 afirma que el
+  Tribunal de Cuentas rechazó en enero de ese año exigir responsabilidad contable a Sancho en relación con los
+  hechos a los que se refiere el escrito y que el Ayuntamiento de Canet no tenía procedimientos pendientes
+  contra él. Se atribuye expresamente al Ayuntamiento: no se ha localizado la resolución contable para
+  comprobar su objeto o alcance ni permite afirmar el cierre de litigios entre particulares.
+
+
+  Límites al 17 de octubre de 2026: no se han cotejado todas las piezas ni su estado final. No están
+  suficientemente acreditadas la conformidad de 2022, la resolución de 2021 sobre facturación, las querellas
+  de 2025, Egevasa de 2024 o el Auto 726/2026; faltan sus originales o fuentes accesibles que permitan
+  precisar su alcance. No están acreditadas las acusaciones personales contra familiares u otros cargos. No se
+  fija coste: las facturaciones, las indemnizaciones revocadas y las estimaciones periodísticas no equivalen a
+  un perjuicio judicial vigente.
 resumen: "Procedimientos de asesorías con resultados distintos: el Supremo confirmó una condena por cohecho en 2016 y en 2021 mantuvo prevaricación, absolviendo de malversación y falsedad. Otras piezas terminaron en absolución; no se ha verificado el estado final del conjunto."
 lugar: "Comunidad Valenciana"
 tribunal:
@@ -86,12 +118,12 @@ cronologia:
       - "https://www.elperiodicodeaqui.com/valencia/camp/ayuntamiento-canet-en-berenguer-defiende-su-gestion-niega-irregularidades-en-relacion-con-jose-antonio-sancho-sempere_100115862_102.html"
 ---
 
-## Alcance y límites de la revisión al 17 de octubre de 2026
+## Alcance y cuestiones pendientes al 17 de octubre de 2026
 
-Se han leído las cabeceras y los fallos de los PDF de las STS 872/2016 y 302/2021, incluyendo la segunda sentencia de esta última (páginas 13-14). No se afirma lectura íntegra de sus motivaciones. Se conservan los PDF y registros GET en la auditoría externa; `documentos: []` se mantiene sin añadir nuevos originales cotejados íntegramente. La nota oficial del CGPJ de 2016 acredita nominalmente quiénes fueron condenados por cohecho; los PDF anonimizados no se usan para inferir nombres.
+Las STS 872/2016 y 302/2021 documentan los pronunciamientos del Supremo; la segunda sentencia de esta última figura en las páginas 13–14. La nota oficial del CGPJ de 2016 acredita nominalmente quiénes fueron condenados por cohecho; los PDF anonimizados no se usan para inferir nombres.
 
-La noticia sobre el Consorci de Museus y la absolución de Benagéber se ha contrastado mediante cuerpos íntegros descargados HTTP 200. La absolución de Canet de 2022 procede de una reseña íntegra del despacho que defendió al exalcalde, descargada HTTP 200: acredita lo comunicado por esa defensa, no la lectura de una sentencia completa ni su firmeza.
+La absolución de Canet de 2022 consta en una reseña del despacho que defendió al exalcalde: acredita lo comunicado por esa defensa, no el contenido íntegro de la sentencia ni su firmeza.
 
-La rectificación municipal tiene fecha de publicación de 21 de mayo de 2026 en el HTML conservado con HTTP 200, también confirmada por la consulta web; se corrige la referencia heredada a junio. El reintento GET posterior devuelve HTTP 403, sin que ello invalide la existencia de la captura anterior, cuyo cuerpo se ha leído íntegro. No se ha obtenido la resolución del Tribunal de Cuentas de enero de 2026: no se conoce exactamente qué hechos o pretensiones resolvió.
+La rectificación municipal se publicó el 21 de mayo de 2026. No se ha obtenido la resolución del Tribunal de Cuentas de enero de 2026: no se conoce exactamente qué hechos o pretensiones resolvió.
 
-Se eliminan los detalles no revalidados de la supuesta resolución de 21 de julio de 2021, conformidad de 2022, Egevasa de 2024, querellas de 2025, auto de junio de 2026 y reclamaciones millonarias, junto a imputaciones contra familiares, Fayos y Herranz que no se han contrastado suficientemente. No se afirma que esas actuaciones no existan; quedan fuera de los hechos acreditados por esta revisión. Tampoco se afirma que la mayoría de todas las piezas acabara absuelta ni que exista un cierre global firme. La revisión sigue incompleta; la ausencia de una actualización localizada no demuestra que no existan actuaciones posteriores.
+No cuentan con respaldo suficiente los detalles atribuidos a una resolución de 21 de julio de 2021, una conformidad de 2022, Egevasa en 2024, querellas de 2025, un auto de junio de 2026 y reclamaciones millonarias. Tampoco están suficientemente acreditadas las imputaciones contra familiares, Fayos y Herranz. La falta de respaldo suficiente no demuestra que esas actuaciones no existan. Tampoco se afirma que la mayoría de todas las piezas acabara absuelta ni que exista un cierre global firme. La ausencia de noticias no demuestra la inexistencia de actuaciones posteriores.

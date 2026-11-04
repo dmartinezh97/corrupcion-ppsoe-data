@@ -8,78 +8,81 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas recurridas
-descripcion: 'El "cártel del fuego" es la macrocausa sobre la concertación de empresas de navegación aérea dedicadas
-  a la extinción de incendios forestales para repartirse concursos públicos y alterar precios, con sobornos a cargos
-  públicos, entre 1999 y 2018. Según la sentencia de la Audiencia Nacional de 5 de febrero de 2025 (nº de resolución
-  4/2025; Roj SAN 138/2025; ECLI:ES:AN:2025:138), la "Asociación" se constituyó en una reunión celebrada en Palma
-  del Río (Córdoba), sede de FAASA, el 20 de septiembre de 2001, entre FAASA, Avialsa, Trabajos Aéreos Espejo y
-  Trabajos Aéreos Martínez Ridao; después se incorporaron CEGISA (en 2004, integrada más tarde en INAER / Babcock
-  / Avincis) y Trabajos Aéreos Extremeños (TAEXSA, en 2007). Los empresarios pactaban turnos y ofertas, se repartían
-  zonas y se compensaban mediante facturas por servicios simulados, y levantaban actas de sus reuniones en Manzanares
-  (Ciudad Real).
+descripcion: >-
+  El "cártel del fuego" es la macrocausa sobre la concertación de empresas de navegación aérea dedicadas a la
+  extinción de incendios forestales para repartirse concursos públicos y alterar precios, con sobornos a
+  cargos públicos, entre 1999 y 2018. Según la sentencia de la Audiencia Nacional de 5 de febrero de 2025 (nº
+  de resolución 4/2025; Roj SAN 138/2025; ECLI:ES:AN:2025:138), la "Asociación" se constituyó en una reunión
+  celebrada en Palma del Río (Córdoba), sede de FAASA, el 20 de septiembre de 2001, entre FAASA, Avialsa,
+  Trabajos Aéreos Espejo y Trabajos Aéreos Martínez Ridao; después se incorporaron CEGISA (en 2004, integrada
+  más tarde en INAER / Babcock / Avincis) y Trabajos Aéreos Extremeños (TAEXSA, en 2007). Los empresarios
+  pactaban turnos y ofertas, se repartían zonas y se compensaban mediante facturas por servicios simulados, y
+  levantaban actas de sus reuniones en Manzanares (Ciudad Real).
 
 
-  La sentencia sitúa la colusión en los concursos de la Comunidad Valenciana, Cataluña y los ministerios de Agricultura
-  y Medio Ambiente y, en menor medida, en Andalucía y Castilla-La Mancha. Las resoluciones de instrucción de 2016
-  y 2017 describieron un ámbito más amplio (otras comunidades autónomas —entre ellas Castilla-La Mancha, Extremadura,
-  Baleares, Andalucía y Castilla y León— y Portugal, Chile e Italia) y la prensa de 2025 añadió Galicia. Son referencias de distintas fases del procedimiento; la sentencia no confirma por sí sola todo el alcance descrito
-  durante la instrucción.
+  La sentencia sitúa la colusión en los concursos de la Comunidad Valenciana, Cataluña y los ministerios de
+  Agricultura y Medio Ambiente y, en menor medida, en Andalucía y Castilla-La Mancha. Las resoluciones de
+  instrucción de 2016 y 2017 describieron un ámbito más amplio (otras comunidades autónomas —entre ellas
+  Castilla-La Mancha, Extremadura, Baleares, Andalucía y Castilla y León— y Portugal, Chile e Italia) y la
+  prensa de 2025 añadió Galicia. Son referencias de distintas fases del procedimiento; la sentencia no
+  confirma por sí sola todo el alcance descrito durante la instrucción.
 
 
-  En el ámbito valenciano, la sentencia documenta que entre 1999 y 2017 la Administración valenciana satisfizo 151.585.386,22
-  euros en contratos a favor de Avialsa. Esa cifra es volumen de contratación, no daño declarado: el fallo impone
-  una indemnización conjunta y solidaria de 234.133,02 euros a favor de la Administración General del Estado, con
-  responsabilidad subsidiaria de las empresas. La fundamentación menciona, además, indemnizaciones a la Generalitat
-  Valenciana de 904.407,28, 874.676,00 y 118.322,40 euros por facturas satisfechas a Avialsa, que no reproduce el
-  fallo del texto consultado. No se ha localizado una aclaración posterior que permita resolver esa omisión. No
-  procede sumar entre sí esas partidas ni con el volumen de contratación.
+  En el ámbito valenciano, la sentencia documenta que entre 1999 y 2017 la Administración valenciana satisfizo
+  151.585.386,22 euros en contratos a favor de Avialsa. Esa cifra es volumen de contratación, no daño
+  declarado: el fallo impone una indemnización conjunta y solidaria de 234.133,02 euros a favor de la
+  Administración General del Estado, con responsabilidad subsidiaria de las empresas. La fundamentación
+  menciona, además, indemnizaciones a la Generalitat Valenciana de 904.407,28, 874.676,00 y 118.322,40 euros
+  por facturas satisfechas a Avialsa, que no reproduce el fallo del texto consultado. No se ha localizado una
+  aclaración posterior que permita resolver esa omisión. No procede sumar entre sí esas partidas ni con el
+  volumen de contratación.
 
 
-  La sentencia declara probados regalos a favor del entonces conseller de Gobernación de la Generalitat Valenciana
-  Serafín Castellano (PP) por importe no inferior a 167.177,02 euros en cacerías, hospedajes, viajes, material cinegético
-  y otros obsequios; también relata entregas adicionales de efectivo. No son un importe de perjuicio global ni la
-  multa impuesta. El director general de Interior de la Conselleria de Justicia valenciana, Pedro Hidalgo, ya fallecido,
-  recibió a través de su hijo, según la sentencia, un vehículo valorado en 46.742,60 euros. En Cataluña, dos altos
-  cargos de la Generalitat (Ramón Dinarés y Francesc Xavier Palmés) fueron condenados por cohecho e información
-  privilegiada.
+  La sentencia declara probados regalos a favor del entonces conseller de Gobernación de la Generalitat
+  Valenciana Serafín Castellano (PP) por importe no inferior a 167.177,02 euros en cacerías, hospedajes,
+  viajes, material cinegético y otros obsequios; también relata entregas adicionales de efectivo. No son un
+  importe de perjuicio global ni la multa impuesta. El director general de Interior de la Conselleria de
+  Justicia valenciana, Pedro Hidalgo, ya fallecido, recibió a través de su hijo, según la sentencia, un
+  vehículo valorado en 46.742,60 euros. En Cataluña, dos altos cargos de la Generalitat (Ramón Dinarés y
+  Francesc Xavier Palmés) fueron condenados por cohecho e información privilegiada.
 
 
-  El caso partió de la denuncia del exgerente de Avialsa Francisco Alandí Escrig ante la Fiscalía Anticorrupción,
-  formalizada el 9 de octubre de 2014 con unos 500 documentos y ampliada el 9 de julio de 2015; la propia sentencia
-  menciona también una denuncia de 27 de octubre de 2014 en sus antecedentes. La causa se inició en los juzgados
-  de Sagunto y fue asumida por el Juzgado Central de Instrucción nº 6 de la Audiencia Nacional. Los antecedentes
-  de la sentencia sitúan el auto de continuación por procedimiento abreviado el 11 de mayo de 2022 y la apertura
-  de juicio oral el 28 de julio de 2022. Una noticia de julio de 2022 atribuye un procesamiento de 32 personas al
-  15 de junio; no se dispone de ese auto para conciliar ambas referencias. El juicio oral se celebró entre septiembre
-  y el 5 de noviembre de 2024 contra 16 acusados; doce de ellos se conformaron. La sentencia fija el comienzo el
-  24 de septiembre y sesiones el 26 de septiembre, el 7, 9, 10, 21, 22 y 23 de octubre y el 4 y 5 de noviembre;
-  parte de la prensa, un escrito de defensa y otro pasaje de la propia sentencia se refieren al 23 de septiembre,
-  y el 20 de noviembre era el señalado inicialmente, no la fecha real de conclusión. La sentencia condenó a doce
-  acusados (penas de seis meses y quince días a dos años, tres meses y quince días), absolvió a tres y eximió de
-  responsabilidad penal a Alandí aplicando por primera vez en España la "excusa absolutoria" del artículo 262.3
-  del Código Penal. La nota del Consejo General del Poder Judicial cifró en cuatro los absueltos además del exento.
-  El fallo recoge tres absoluciones plenas y una exención; los antecedentes documentan también la retirada de la
-  acusación contra un partícipe a título lucrativo, fuera de los dieciséis acusados penales. Varias empresas condenadas,
-  entre ellas Avialsa T-35 (hoy Titan Firefighting Company), Martínez Ridao Aviación, Trabajos Aéreos Espejo, TAEXSA,
-  SAETA, CEGISA, INAER/Babcock y FAASA/Pegasus, fueron sancionadas con nueve meses de prohibición de contratar con
-  las administraciones públicas.
+  El caso partió de la denuncia del exgerente de Avialsa Francisco Alandí Escrig ante la Fiscalía
+  Anticorrupción, formalizada el 9 de octubre de 2014 con unos 500 documentos y ampliada el 9 de julio de
+  2015; la propia sentencia menciona también una denuncia de 27 de octubre de 2014 en sus antecedentes. La
+  causa se inició en los juzgados de Sagunto y fue asumida por el Juzgado Central de Instrucción nº 6 de la
+  Audiencia Nacional. Los antecedentes de la sentencia sitúan el auto de continuación por procedimiento
+  abreviado el 11 de mayo de 2022 y la apertura de juicio oral el 28 de julio de 2022. Una noticia de julio de
+  2022 atribuye un procesamiento de 32 personas al 15 de junio; no se dispone de ese auto para conciliar ambas
+  referencias. El juicio oral se celebró entre septiembre y el 5 de noviembre de 2024 contra 16 acusados; doce
+  de ellos se conformaron. La sentencia fija el comienzo el 24 de septiembre y sesiones el 26 de septiembre,
+  el 7, 9, 10, 21, 22 y 23 de octubre y el 4 y 5 de noviembre; parte de la prensa, un escrito de defensa y
+  otro pasaje de la propia sentencia se refieren al 23 de septiembre, y el 20 de noviembre era el señalado
+  inicialmente, no la fecha real de conclusión. La sentencia condenó a doce acusados (penas de seis meses y
+  quince días a dos años, tres meses y quince días), absolvió a tres y eximió de responsabilidad penal a
+  Alandí aplicando por primera vez en España la "excusa absolutoria" del artículo 262.3 del Código Penal. La
+  nota del Consejo General del Poder Judicial cifró en cuatro los absueltos además del exento. El fallo recoge
+  tres absoluciones plenas y una exención; los antecedentes documentan también la retirada de la acusación
+  contra un partícipe a título lucrativo, fuera de los dieciséis acusados penales. Varias empresas condenadas,
+  entre ellas Avialsa T-35 (hoy Titan Firefighting Company), Martínez Ridao Aviación, Trabajos Aéreos Espejo,
+  TAEXSA, SAETA, CEGISA, INAER/Babcock y FAASA/Pegasus, fueron sancionadas con nueve meses de prohibición de
+  contratar con las administraciones públicas.
 
 
-  La sentencia se notificó como no firme (recurso de apelación ante la Sala de Apelación de la Audiencia Nacional).
-  El último estado documentado es que en agosto de 2025 varias empresas condenadas habían recurrido —la prensa los
-  describió como recursos de casación ante el Tribunal Supremo— y no se ha localizado resolución posterior, por
-  lo que no consta ni el resultado de los recursos ni la firmeza actual, que es desconocida; la conformidad de los
-  acusados no permite presumir firmeza. En el plano de la competencia, la CNMC, alertada desde 2016 por las autoridades
-  catalana y valenciana, no había incoado procedimiento según la información publicada en agosto de 2025, al tener
-  el proceso penal preferencia, y no se ha localizado después una resolución suya. La versión publicada por el CENDOJ
-  está anonimizada, por lo que no consta de forma individualizada el pronunciamiento sobre algunos empresarios imputados,
-  como los responsables de FAASA y de Trabajos Aéreos Espejo. La condena fiscal de Vicente Huerta conocida en julio
-  de 2023 y la causa urbanística de Viveros del Rey, cuyo juicio se suspendió el 4 de mayo de 2026 según Europa
-  Press, son procedimientos distintos: ni sus resultados ni sus importes se trasladan a este fallo. Parte de los
-  hechos y de los acusados están tratados con otro enfoque en la ficha "Caso Avialsa" (núcleo valenciano); ambas
-  fichas se refieren al mismo fallo y a los mismos volúmenes de contratación, por lo que sus cifras no deben sumarse.
-
-  '
+  La sentencia se notificó como no firme (recurso de apelación ante la Sala de Apelación de la Audiencia
+  Nacional). El último estado documentado es que en agosto de 2025 varias empresas condenadas habían recurrido
+  —la prensa los describió como recursos de casación ante el Tribunal Supremo— y no se ha localizado
+  resolución posterior, por lo que no consta ni el resultado de los recursos ni la firmeza actual, que es
+  desconocida; la conformidad de los acusados no permite presumir firmeza. En el plano de la competencia, la
+  CNMC, alertada desde 2016 por las autoridades catalana y valenciana, no había incoado procedimiento según la
+  información publicada en agosto de 2025, al tener el proceso penal preferencia, y no se ha localizado
+  después una resolución suya. La versión publicada por el CENDOJ está anonimizada, por lo que no consta de
+  forma individualizada el pronunciamiento sobre algunos empresarios imputados, como los responsables de FAASA
+  y de Trabajos Aéreos Espejo. La condena fiscal de Vicente Huerta conocida en julio de 2023 y la causa
+  urbanística de Viveros del Rey, cuyo juicio se suspendió el 4 de mayo de 2026 según Europa Press, son
+  procedimientos distintos: ni sus resultados ni sus importes se trasladan a este fallo. Parte de los hechos y
+  de los acusados están tratados con otro enfoque en la ficha "Caso Avialsa" (núcleo valenciano); ambas fichas
+  se refieren al mismo fallo y a los mismos volúmenes de contratación, por lo que sus cifras no deben sumarse.
 resumen: Macrocausa por el reparto y amaño de concursos públicos de extinción aérea de incendios entre 1999 y 2018,
   con sobornos a cargos públicos. La sentencia de la Audiencia Nacional de 5 de febrero de 2025 condenó a doce acusados,
   entre ellos el exconseller valenciano Serafín Castellano (PP), y eximió al denunciante por la excusa absolutoria.

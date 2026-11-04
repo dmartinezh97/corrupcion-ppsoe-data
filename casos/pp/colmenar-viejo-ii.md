@@ -8,42 +8,44 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución en 2023; firmeza posterior no documentada
-descripcion: 'Esta ficha recoge el juicio celebrado en 2023 ante la Sección Segunda de la Audiencia Provincial de
-  Madrid sobre licencias urbanísticas de Colmenar Viejo concedidas entre 2006 y 2012. La información del juicio
-  lo diferencia de otro procedimiento sobre licencias municipales ya juzgado anteriormente. La similitud de hechos,
-  cargos y nombres no permite trasladar entre esas causas la firmeza o el resultado de recursos.
+descripcion: >-
+  Esta ficha recoge el juicio celebrado en 2023 ante la Sección Segunda de la Audiencia Provincial de Madrid
+  sobre licencias urbanísticas de Colmenar Viejo concedidas entre 2006 y 2012. La información del juicio lo
+  diferencia de otro procedimiento sobre licencias municipales ya juzgado anteriormente. La similitud de
+  hechos, cargos y nombres no permite trasladar entre esas causas la firmeza o el resultado de recursos.
 
 
-  El juicio comenzó el 24 de abril de 2023. Según la crónica de Telemadrid, se enjuiciaban trece licencias y declararon,
-  entre otros, Jorge García Díaz, entonces alcalde; Carlos Blázquez, candidato del PP a la Alcaldía; y los exalcaldes
-  José María de Federico Corral y Miguel Ángel Santamaría. La Fiscalía solicitaba entre dos y tres años y medio
-  de prisión y hasta diez años de inhabilitación por un delito continuado sobre la ordenación del territorio. Eran
-  peticiones de la acusación, no penas impuestas. Las explicaciones ofrecidas por los acusados en el juicio tampoco
-  se presentan como hechos judicialmente probados.
+  El juicio comenzó el 24 de abril de 2023. Según la crónica de Telemadrid, se enjuiciaban trece licencias y
+  declararon, entre otros, Jorge García Díaz, entonces alcalde; Carlos Blázquez, candidato del PP a la
+  Alcaldía; y los exalcaldes José María de Federico Corral y Miguel Ángel Santamaría. La Fiscalía solicitaba
+  entre dos y tres años y medio de prisión y hasta diez años de inhabilitación por un delito continuado sobre
+  la ordenación del territorio. Eran peticiones de la acusación, no penas impuestas. Las explicaciones
+  ofrecidas por los acusados en el juicio tampoco se presentan como hechos judicialmente probados.
 
 
-  El CGPJ publicó el 8 de junio de 2023 que la Audiencia había absuelto a los once procesados, entre ellos Jorge
-  García Díaz, mientras la información de EFE difundida por Telemadrid ese mismo día hablaba de doce y citaba nominalmente
-  también a Carlos Blázquez y los dos exalcaldes. El tribunal no apreció la arbitrariedad consciente exigida por
-  el artículo 320 del Código Penal. Según EFE, los acuerdos se apartaban de informes técnicos no vinculantes siguiendo
-  criterios de la jurisdicción contencioso-administrativa. Ese razonamiento fundamentó una absolución, no una declaración
-  de culpabilidad ni una validación indiscriminada de todas las licencias municipales.
+  El CGPJ publicó el 8 de junio de 2023 que la Audiencia había absuelto a los once procesados, entre ellos
+  Jorge García Díaz, mientras la información de EFE difundida por Telemadrid ese mismo día hablaba de doce y
+  citaba nominalmente también a Carlos Blázquez y los dos exalcaldes. El tribunal no apreció la arbitrariedad
+  consciente exigida por el artículo 320 del Código Penal. Según EFE, los acuerdos se apartaban de informes
+  técnicos no vinculantes siguiendo criterios de la jurisdicción contencioso-administrativa. Ese razonamiento
+  fundamentó una absolución, no una declaración de culpabilidad ni una validación indiscriminada de todas las
+  licencias municipales.
 
 
-  La nota oficial anunciaba apelación ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia de Madrid
-  y advertía de que la resolución no era firme entonces. Hasta el 17 de octubre de 2026 no se han recuperado el
-  fallo original, su número y fecha de firma ni una resolución posterior que permita documentar recursos o firmeza.
-  El 8 de junio de 2023 es la fecha de publicación, no una fecha de sentencia comprobada. También queda pendiente
-  aclarar la discrepancia entre once y doce procesados; los nombres individuales que se recogen proceden de identificación
-  periodística expresa, sin desanonimizar iniciales.
+  La nota oficial anunciaba apelación ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia de
+  Madrid y advertía de que la resolución no era firme entonces. Hasta el 17 de octubre de 2026 no se han
+  recuperado el fallo original, su número y fecha de firma ni una resolución posterior que permita documentar
+  recursos o firmeza. El 8 de junio de 2023 es la fecha de publicación, no una fecha de sentencia comprobada.
+  También queda pendiente aclarar la discrepancia entre once y doce procesados; los nombres individuales que
+  se recogen proceden de identificación periodística expresa, sin desanonimizar iniciales.
 
 
-  Una noticia de El Mundo de 22 de febrero de 2017 describía otra denuncia de la Fiscalía, derivada de la documentación
-  de una arquitecta municipal y referida a actuaciones de 2006 a 2014. No se ha acreditado mediante números de procedimiento
-  o resoluciones que sea el origen de este juicio de 2023. Por ello no se atribuye a esta causa el año 2017 como
-  inicio ni se asigna la absolución de 2023 a las personas citadas únicamente en aquella noticia. No se dispone
-  de un perjuicio económico cuantificado: la ausencia de cifra no equivale a daño cero. Estas lagunas impiden considerar
-  completada la revisión.'
+  Una noticia de El Mundo de 22 de febrero de 2017 describía otra denuncia de la Fiscalía, derivada de la
+  documentación de una arquitecta municipal y referida a actuaciones de 2006 a 2014. No se ha acreditado
+  mediante números de procedimiento o resoluciones que sea el origen de este juicio de 2023. Por ello no se
+  atribuye a esta causa el año 2017 como inicio ni se asigna la absolución de 2023 a las personas citadas
+  únicamente en aquella noticia. No se dispone de un perjuicio económico cuantificado: la ausencia de cifra no
+  equivale a daño cero.
 resumen: Segunda causa sobre la gestión urbanística del PP de Colmenar Viejo (licencias e informes técnicos, 2006-2012),
   con resolución absolutoria de la Audiencia Provincial de Madrid conocida en junio de 2023 y de firmeza desconocida.
 lugar: Colmenar Viejo, Comunidad de Madrid

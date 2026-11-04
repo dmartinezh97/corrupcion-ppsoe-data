@@ -9,12 +9,26 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "cerrado con condenas"
-descripcion: |
-  Procedimiento por la privatización parcial de la funeraria municipal de Madrid, cuyo 49% se adjudicó a Funespaña en diciembre de 1992 por un precio nominal de 100 pesetas. La operación incluía otras obligaciones y una posterior condonación de deuda municipal: ese precio no representa por sí solo el importe invertido ni el daño económico del caso.
+descripcion: >-
+  Procedimiento por la privatización parcial de la funeraria municipal de Madrid, cuyo 49% se adjudicó a
+  Funespaña en diciembre de 1992 por un precio nominal de 100 pesetas. La operación incluía otras obligaciones
+  y una posterior condonación de deuda municipal: ese precio no representa por sí solo el importe invertido ni
+  el daño económico del caso.
 
-  La sentencia del Tribunal Supremo 1026/2009, de 16 de octubre, mantuvo la condena del ex primer teniente de alcalde Luis María Huete por prevaricación a dos años y un día de suspensión de cargo público. También condenó al exasesor municipal y expresidente de Funespaña José Ignacio Rodrigo Fernández como cómplice de prevaricación y autor de tráfico de influencias, con tres multas que suman 3.716.268,19 euros. En ambos casos se apreció la atenuante muy cualificada de dilaciones indebidas. Otros acusados fueron absueltos; no hubo condena por malversación.
 
-  En marzo de 2011 se informó del rechazo de la solicitud de Rodrigo de revisar su condena. No se han verificado novedades procesales del procedimiento de 1992 en 2025 o 2026 ni la ejecución de las penas. Quedan pendientes el auto íntegro de revisión y la comprobación completa de las actuaciones contables y contencioso-administrativas relacionadas. La gestión íntegramente municipal se recuperó en septiembre de 2016 por extinción de la sociedad mixta y reversión de activos.
+  La sentencia del Tribunal Supremo 1026/2009, de 16 de octubre, mantuvo la condena del ex primer teniente de
+  alcalde Luis María Huete por prevaricación a dos años y un día de suspensión de cargo público. También
+  condenó al exasesor municipal y expresidente de Funespaña José Ignacio Rodrigo Fernández como cómplice de
+  prevaricación y autor de tráfico de influencias, con tres multas que suman 3.716.268,19 euros. En ambos
+  casos se apreció la atenuante muy cualificada de dilaciones indebidas. Otros acusados fueron absueltos; no
+  hubo condena por malversación.
+
+
+  En marzo de 2011 se informó del rechazo de la solicitud de Rodrigo de revisar su condena. No se han
+  verificado novedades procesales del procedimiento de 1992 en 2025 o 2026 ni la ejecución de las penas.
+  Quedan pendientes el auto íntegro de revisión y la comprobación completa de las actuaciones contables y
+  contencioso-administrativas relacionadas. La gestión íntegramente municipal se recuperó en septiembre de
+  2016 por extinción de la sociedad mixta y reversión de activos.
 resumen: "Privatización parcial de la funeraria madrileña: condenas de Huete y Rodrigo en 2009 y absolución de los demás acusados"
 lugar: "Madrid, Comunidad de Madrid"
 tribunal:
@@ -116,4 +130,4 @@ Las 100 pesetas fueron un precio nominal por las acciones. La oferta también co
 
 La recuperación del servicio municipal en 2016 fue una actuación administrativa posterior: la fuente municipal describe la extinción y liquidación de la empresa mixta y el traspaso de activos a la nueva empresa pública. No debe presentarse como una compra de acciones realizada en 2017 o como una nueva condena penal.
 
-La última actuación penal posterior a la casación que se ha contrastado mediante una noticia es el rechazo de la revisión solicitada por Rodrigo, conocido en marzo de 2011. Falta comprobar el auto íntegro y la ejecución de las penas, así como completar el examen de los procedimientos contable y contencioso-administrativo relacionados. Las búsquedas hasta el 15 de octubre de 2026 no han permitido verificar nuevas resoluciones de 2025 o 2026 de este procedimiento. La información sobre un arrendamiento de la Comunidad de Madrid publicada en 2023 trata de otro negocio y no acredita una nueva irregularidad o condena en el caso de la funeraria.
+La última actuación penal posterior a la casación que se ha contrastado mediante una noticia es el rechazo de la revisión solicitada por Rodrigo, conocido en marzo de 2011. Falta comprobar el auto íntegro y la ejecución de las penas, así como completar el examen de los procedimientos contable y contencioso-administrativo relacionados. Al 15 de octubre de 2026, no constan nuevas resoluciones verificadas de 2025 o 2026 de este procedimiento. La información sobre un arrendamiento de la Comunidad de Madrid publicada en 2023 trata de otro negocio y no acredita una nueva irregularidad o condena en el caso de la funeraria.

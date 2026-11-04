@@ -9,19 +9,21 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: sobreseimiento
-descripcion: 'La investigación por presunta prevaricación se refería a la licencia municipal concedida el 14 de
-  mayo de 2007 a Hortiagrícola para diez viviendas unifamiliares pareadas en la parcela 11 de la UE-109 de Roquetas
-  de Mar. La controversia afectaba al planeamiento que la amparaba: el 10 de mayo se había acordado una suspensión
-  cautelar, no la nulidad firme que se atribuyó inicialmente a esa fecha. Según la información publicada sobre los
-  autos, la notificación al Ayuntamiento se produjo el 16 de mayo, después de concederse la licencia.
+descripcion: >-
+  La investigación por presunta prevaricación se refería a la licencia municipal concedida el 14 de mayo de
+  2007 a Hortiagrícola para diez viviendas unifamiliares pareadas en la parcela 11 de la UE-109 de Roquetas de
+  Mar. La controversia afectaba al planeamiento que la amparaba: el 10 de mayo se había acordado una
+  suspensión cautelar, no la nulidad firme que se atribuyó inicialmente a esa fecha. Según la información
+  publicada sobre los autos, la notificación al Ayuntamiento se produjo el 16 de mayo, después de concederse
+  la licencia.
 
 
-  El juzgado acordó el sobreseimiento provisional el 13 de mayo de 2015 y la Audiencia Provincial lo confirmó mediante
-  auto de 29 de enero de 2016, según la prensa que informó de ambas resoluciones. El archivo se basó en la falta
-  de indicios suficientes de que los investigados conocieran la ilegalidad, sin equivaler a una declaración de legalidad
-  urbanística de la licencia. No se han recuperado los autos judiciales originales para comprobar todos sus pronunciamientos
-  individuales, su régimen de recursos ni la evolución posterior del litigio urbanístico hasta el 15 de octubre
-  de 2026; la revisión permanece incompleta.'
+  El juzgado acordó el sobreseimiento provisional el 13 de mayo de 2015 y la Audiencia Provincial lo confirmó
+  mediante auto de 29 de enero de 2016, según la prensa que informó de ambas resoluciones. El archivo se basó
+  en la falta de indicios suficientes de que los investigados conocieran la ilegalidad, sin equivaler a una
+  declaración de legalidad urbanística de la licencia. No se han recuperado los autos judiciales originales
+  para comprobar todos sus pronunciamientos individuales, su régimen de recursos ni la evolución posterior del
+  litigio urbanístico hasta el 15 de octubre de 2026; persisten esas carencias documentales.
 resumen: Investigación por la licencia para diez viviendas en La Fabriquilla, sobreseída provisionalmente y confirmada
   en apelación.
 lugar: Roquetas de Mar, Almería, Andalucía
@@ -160,6 +162,6 @@ La [Fiscalía no se opuso al archivo](https://www.europapress.es/andalucia/almer
 
 ## Alcance del resultado conocido
 
-Algunos titulares llamaron definitivo al archivo y Amat lo presentó como una vindicación. Eso no convierte el sobreseimiento provisional en sobreseimiento libre ni acredita que la licencia fuese legal. Los autos judiciales originales no se han recuperado: quedan pendientes la comprobación íntegra de los pronunciamientos por persona, los recursos y la situación del litigio urbanístico posterior. Las búsquedas de novedades de 2025 y 2026 no han aportado una resolución nueva verificable sobre esta licencia; no permiten afirmar que se haya reabierto ni que todo litigio relacionado esté terminado.
+Algunos titulares llamaron definitivo al archivo y Amat lo presentó como una vindicación. Eso no convierte el sobreseimiento provisional en sobreseimiento libre ni acredita que la licencia fuese legal. Los autos judiciales originales no se han recuperado: quedan pendientes la comprobación íntegra de los pronunciamientos por persona, los recursos y la situación del litigio urbanístico posterior. Al 17 de octubre de 2026, no consta una nueva resolución verificable de 2025 o 2026 sobre esta licencia. La información disponible no permite afirmar que se haya reabierto la causa ni que todo litigio relacionado esté terminado.
 
 La Fabriquilla no engloba automáticamente otras piezas sobre sociedades o contrataciones relacionadas con Amat. Tampoco se trasladan a este expediente los resultados de procedimientos por injurias o calumnias contra denunciantes. Las alegaciones iniciales sobre presiones en la venta y operaciones financieras no se presentan como hechos judicialmente probados ni se utilizan para calcular un daño.

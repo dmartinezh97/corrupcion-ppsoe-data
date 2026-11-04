@@ -11,12 +11,13 @@ estado: cerrado con condenas
 lugar: Galicia; Confederación Hidrográfica Miño-Sil
 resumen: 'Contratos de la CHMS a cambio de dádivas: pena de cuatro años y seis meses para Fernández Liñares tras
   la casación de 2023; amparo inadmitido en 2025.'
-descripcion: 'Esta pieza examinó las adjudicaciones de obras de la Confederación Hidrográfica Miño-Sil durante la
-  presidencia de Francisco Félix Fernández Liñares en 2009–2012. La sentencia de instancia es de 8 de marzo de 2021;
-  el Supremo redujo sus penas el 5 de julio de 2023. Se informó de su ingreso voluntario en prisión el 5 de febrero
-  de 2024 y el Tribunal Constitucional inadmitió su amparo el 27 de enero de 2025, con voto particular. Revisión
-  parcial a 17 de octubre de 2026: no se han cotejado las liquidaciones actuales de penas ni los autos penitenciarios.
-  No se acredita un daño global de tres millones de euros ni se trasladan resultados de otras piezas Pokémon.'
+descripcion: "Esta pieza examinó las adjudicaciones de obras de la Confederación Hidrográfica Miño-Sil durante la
+  presidencia de Francisco Félix Fernández Liñares en 2009–2012. La sentencia de instancia es de 8 de marzo de
+  2021; el Supremo redujo sus penas el 5 de julio de 2023. Se informó de su ingreso voluntario en prisión el 5
+  de febrero de 2024 y el Tribunal Constitucional inadmitió su amparo el 27 de enero de 2025, con voto
+  particular. Información pendiente al 17 de octubre de 2026: no se han cotejado las liquidaciones actuales de
+  penas ni los autos penitenciarios. No se acredita un daño global de tres millones de euros ni se trasladan
+  resultados de otras piezas Pokémon."
 tribunal:
 - Juzgado de Instrucción n.º 1 de Lugo
 - Audiencia Provincial de Lugo, Sección Segunda
@@ -103,6 +104,6 @@ La noticia de elDiario.es/Europa Press de 6 de febrero de 2024 sitúa el ingreso
 
 En septiembre de 2026, La Voz de Galicia publicó un titular y entradilla sobre permisos penitenciarios. El HTML accesible sólo ofrece ese avance y un comienzo de artículo: no se ha podido verificar el cuerpo completo ni los autos de permisos. La noticia alude a una pena total superior a la de esta pieza, que no se traslada a Miño-Sil ni se interpreta como libertad definitiva. [Avance accesible de La Voz,3 de septiembre de 2026](https://www.lavozdegalicia.es/noticia/lugo/2026/09/02/fernandez-linares-unico-politico-encarcelado-operacion-pokemon-disfruta-permisos-pese-rechazo-fiscalia/00031788355382068357769.htm).
 
-Se retira el coste de tres millones de euros. Los importes de contratos, las entregas de dádivas y las multas son conceptos diferentes; el fallo cotejado no fija ese total como daño público indemnizable. No se asigna cero ni se suman automáticamente contratos o gratificaciones para producir un daño global. Tampoco se afirma que Liñares sea el único condenado de toda Pokémon: esta ficha describe sólo el procedimiento de la CHMS, con nueve condenados y una absolución en instancia.
+Los tres millones no constituyen un perjuicio acreditado. Los importes de contratos, las entregas de dádivas y las multas son conceptos diferentes; el fallo cotejado no fija ese total como daño público indemnizable. No se asigna cero ni se suman automáticamente contratos o gratificaciones para producir un daño global. Tampoco se afirma que Liñares sea el único condenado de toda Pokémon: esta ficha describe sólo el procedimiento de la CHMS, con nueve condenados y una absolución en instancia.
 
-Corte:17 de octubre de 2026. Se han leído parcialmente los originales: cabeceras y fallos, pasajes de antecedentes y la decisión del Constitucional; no sus fundamentos íntegros. Faltan el auto complementario de 16 de marzo de 2021 mencionado por el Supremo, liquidaciones actuales de penas y resoluciones de ejecución o permisos. La revisión permanece incompleta y no atribuye a esta pieza penas o resultados de otros procedimientos.
+Corte:17 de octubre de 2026. Faltan el auto complementario de 16 de marzo de 2021 mencionado por el Supremo, liquidaciones actuales de penas y resoluciones de ejecución o permisos. Las penas o resultados de otros procedimientos no resuelven esta pieza.

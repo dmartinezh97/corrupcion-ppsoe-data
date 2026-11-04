@@ -58,9 +58,8 @@ implicados:
       No se atribuye una condena ni se fija importe individual sin resolución.
   - nombre: Ricardo Medina Barrios
     cargo: Beneficiario de póliza y antiguo empleado municipal de Camas, según las noticias
-    rol: Identificado en las noticias del atestado de 2013 y de la Audiencia en 2015, y como Ricardo Medina en la
-      información del abreviado de 2022. Se corrige la variante Molina de la ficha anterior; resultado posterior
-      sin verificar.
+    rol: Identificado en las noticias del atestado de 2013 y de la Audiencia en 2015, y como Ricardo Medina en
+      la información del abreviado de 2022. Resultado posterior sin verificar.
   - nombre: Juan Antonio Florido
     cargo: Exdirigente de CCOO, según la información periodística de 2022
     rol: Identificado entre los siete afectados por la continuación abreviada. No se completa su nombre ni se asigna
@@ -151,7 +150,7 @@ cronologia:
     relevancia: alta
 ---
 
-Se conserva la ruta histórica «ere-intersur», pero se utiliza Intesur en el nombre porque así aparece la empresa textil en la [memoria oficial del Tribunal de Cuentas](https://www.tcu.es/export/sites/portal/repositorio2/MEMORIA/2023/M1511.pdf) y en las crónicas recientes. No se confunde con otras sociedades, servicios de internet u hoteles de nombre parecido. El objeto abarca las ayudas y pólizas de la empresa, no solo la suma atribuida a tres beneficiarios por el atestado de 2013.
+La empresa textil figura como Intesur en la [memoria oficial del Tribunal de Cuentas](https://www.tcu.es/export/sites/portal/repositorio2/MEMORIA/2023/M1511.pdf) y en las crónicas recientes. No se confunde con otras sociedades, servicios de internet u hoteles de nombre parecido. El objeto abarca las ayudas y pólizas de la empresa, no solo la suma atribuida a tres beneficiarios por el atestado de 2013.
 
 La [noticia de diciembre de 2022](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/vilaplana-procesa-delegado-Empleo-Antonio-Rivas-Intesur-caso-ERE_0_1749425458.amp.html) relata un auto fechado el día 16 que permite continuar el procedimiento abreviado contra siete personas y entidades con posible responsabilidad civil subsidiaria. La cifra de 3.104.791,82 euros es el importe de las ayudas investigadas, y los 399.802 euros del atestado son un conjunto de cobros atribuidos a tres beneficiarios. Tampoco las comisiones o las fianzas civiles relativas a varias piezas se suman como perjuicio firme de Intesur. No se atribuye a García Prieto la totalidad del importe conjunto.
 

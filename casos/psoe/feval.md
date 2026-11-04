@@ -8,33 +8,34 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas y absolución en casación
-descripcion: 'El procedimiento examinó la gestión de fondos, el empleo de trabajadores en actividades privadas y
-  varias contrataciones de la Institución Ferial de Extremadura (Feval). El exdirector José Luis Viñuela, exdiputado
-  autonómico del PSOE, el exadministrador Juan Francisco Cerrato y el exsubdirector José Villa fueron condenados
-  en primera instancia el 7 de junio de 2017 a ocho años, tres meses y un día de prisión cada uno. Ese resultado fue modificado
-  sustancialmente por el Supremo y no describe la situación final de los tres.
+descripcion: >-
+  El procedimiento examinó la gestión de fondos, el empleo de trabajadores en actividades privadas y varias
+  contrataciones de la Institución Ferial de Extremadura (Feval). El exdirector José Luis Viñuela, exdiputado
+  autonómico del PSOE, el exadministrador Juan Francisco Cerrato y el exsubdirector José Villa fueron
+  condenados en primera instancia el 7 de junio de 2017 a ocho años, tres meses y un día de prisión cada uno.
+  Ese resultado fue modificado sustancialmente por el Supremo y no describe la situación final de los tres.
 
 
-  La sentencia 229/2018 del Tribunal Supremo, de 17 de mayo, absolvió a Villa de todos los delitos, eliminó las
-  condenas por falsedad y redujo las penas de los otros dos. Cerrato recibió cuatro años y seis meses de prisión
-  por malversación continuada y ocho años de inhabilitación para cargos que permitan administrar o gestionar fondos
-  públicos. Para Viñuela, el fallo establece por malversación un año, nueve meses y un día de prisión, tres meses
-  de multa a 15 euros diarios y suspensión de empleo o cargo público de nueve meses y un día; además, diez años
-  de inhabilitación especial por prevaricación continuada. No se presenta como condena de los tres una actuación
-  o beneficio privado que el Supremo individualizó.
+  La sentencia 229/2018 del Tribunal Supremo, de 17 de mayo, absolvió a Villa de todos los delitos, eliminó
+  las condenas por falsedad y redujo las penas de los otros dos. Cerrato recibió cuatro años y seis meses de
+  prisión por malversación continuada y ocho años de inhabilitación para cargos que permitan administrar o
+  gestionar fondos públicos. Para Viñuela, el fallo establece por malversación un año, nueve meses y un día de
+  prisión, tres meses de multa a 15 euros diarios y suspensión de empleo o cargo público de nueve meses y un
+  día; además, diez años de inhabilitación especial por prevaricación continuada. No se presenta como condena
+  de los tres una actuación o beneficio privado que el Supremo individualizó.
 
 
-  La responsabilidad civil cuantificada de Cerrato quedó en 38.489,20 euros más intereses, mientras que la de Viñuela
-  debía fijarse en ejecución por el valor de los servicios de trabajadores de Feval destinados a actividades ajenas
-  a la institución. Los 201.644,47 euros fijados solidariamente en primera instancia no se mantienen como daño total
-  confirmado. No se ha acreditado aquí la liquidación definitiva, el pago o el cumplimiento de las penas a 17 de
-  octubre de 2026.
+  La responsabilidad civil cuantificada de Cerrato quedó en 38.489,20 euros más intereses, mientras que la de
+  Viñuela debía fijarse en ejecución por el valor de los servicios de trabajadores de Feval destinados a
+  actividades ajenas a la institución. Los 201.644,47 euros fijados solidariamente en primera instancia no se
+  mantienen como daño total confirmado. No se ha acreditado aquí la liquidación definitiva, el pago o el
+  cumplimiento de las penas a 17 de octubre de 2026.
 
 
-  El fallo del Supremo indica que contra él no cabía recurso. La prensa de febrero de 2020 recogió la controversia
-  por la adhesión de Feval a una petición de indulto de Cerrato y declaraciones sobre su denegación. Sin el expediente
-  o acuerdo original no se acredita aquí su tramitación completa ni sus efectos sobre la ejecución; tampoco se transforma
-  la petición en un indulto concedido. No se atribuye la gestión de esa petición al PP como hacía la ficha anterior.'
+  El fallo del Supremo indica que contra él no cabía recurso. La prensa de febrero de 2020 recogió la
+  controversia por la adhesión de Feval a una petición de indulto de Cerrato y declaraciones sobre su
+  denegación. Sin el expediente o acuerdo original no se acredita aquí su tramitación completa ni sus efectos
+  sobre la ejecución; tampoco se transforma la petición en un indulto concedido.
 resumen: El Supremo absolvió a Villa y redujo las condenas de Cerrato y Viñuela; responsabilidad civil individualizada
   y ejecución posterior pendiente de contraste.
 lugar: Don Benito y Mérida, Badajoz, Extremadura

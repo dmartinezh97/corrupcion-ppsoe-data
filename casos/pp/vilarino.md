@@ -69,15 +69,15 @@ cronologia:
 
 ## Alcance de la condena
 
-Las fuentes leídas sitúan la condena penal en 2017 y la atribuyen a la Audiencia Provincial de Ourense, no a un juzgado contencioso-administrativo ni al TSXG como tribunal sentenciador. El TSXG aparece como origen de la información facilitada a la prensa. La pena descrita es inhabilitación especial para empleo o cargo público, no exclusivamente para la alcaldía. No consta en estas fuentes una pena de prisión impuesta por este fallo.
+Las fuentes citadas sitúan la condena penal en 2017 y la atribuyen a la Audiencia Provincial de Ourense, no a un juzgado contencioso-administrativo ni al TSXG como tribunal sentenciador. El TSXG aparece como origen de la información facilitada a la prensa. La pena descrita es inhabilitación especial para empleo o cargo público, no exclusivamente para la alcaldía. No consta en estas fuentes una pena de prisión impuesta por este fallo.
 
-Se retiran las fechas rellenadas de apertura y fin del procedimiento, la afirmación de nepotismo como hecho probado y la valoración de precedente judicial. Los 29 contratos no se convierten sin comprobación en 29 beneficiarios diferentes. Tampoco se fija un coste cero: no se ha verificado una cuantificación judicial de daño o responsabilidad civil.
+No constan las fechas exactas de apertura y fin del procedimiento, ni está acreditado el nepotismo como hecho probado. Los 29 contratos no se convierten sin comprobación en 29 beneficiarios diferentes. Tampoco se fija un coste cero: no se ha verificado una cuantificación judicial de daño o responsabilidad civil.
 
 ## Documentos y seguimiento
 
-Se leyeron los cuerpos informativos completos de El Progreso, La Voz de Galicia y La Región. El acta del pleno de la Diputación de Ourense de 6 de marzo de 2019, descargada como PDF, contiene una mención política a la condena; no sustituye el fallo ni acredita sus recursos o firmeza. No se incorpora como documento judicial. `documentos` queda vacío mientras no se obtenga una resolución original verificable.
+El acta del pleno de la Diputación de Ourense de 6 de marzo de 2019, contiene una mención política a la condena; no sustituye el fallo ni acredita sus recursos o firmeza. No se incorpora como documento judicial. No se dispone de una resolución original verificable.
 
-Quedan pendientes la fecha e identificador de la sentencia, su texto íntegro, el eventual recurso de casación y los actos de ejecución. El paso del tiempo no permite calcular automáticamente cuándo terminó la inhabilitación. La búsqueda hasta el 17 de octubre de 2026 no acredita una revocación, pero tampoco demuestra ausencia de novedades.
+Quedan pendientes la fecha e identificador de la sentencia, su texto íntegro, el eventual recurso de casación y los actos de ejecución. El paso del tiempo no permite calcular automáticamente cuándo terminó la inhabilitación. Al 17 de octubre de 2026, no consta una revocación; ello no demuestra la ausencia de novedades.
 
 La información de Europa Press de 11 de marzo de 2026 sobre diligencias relativas a Melisa Macía trata contratación menor y pagos de facturas de otra etapa. Se mantiene separada: no es un recurso ni una continuación acreditada de los hechos de 2012–2013 atribuidos a Sierra.
 

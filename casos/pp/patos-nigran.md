@@ -9,22 +9,24 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Pieza de obras terminada por conformidad según la prensa; fallo y ejecución pendientes de cotejo
-descripcion: 'La pieza de Nigrán de la operación Patos investigó posibles irregularidades en adjudicaciones de obras
-  municipales. José Álvarez Valverde, concejal de Vías y Obras por el PP hasta su cese y renuncia en febrero de
-  2014, y Vicente Costas Pumar, exconcejal y administrador de Coysagran, fueron los dos acusados para quienes la
-  Fiscalía solicitó juicio por tráfico de influencias en septiembre de 2018. Las sospechas se referían a ventajas
-  en la contratación municipal; no deben confundirse con hechos judicialmente probados sin consultar el fallo.
+descripcion: >-
+  La pieza de Nigrán de la operación Patos investigó posibles irregularidades en adjudicaciones de obras
+  municipales. José Álvarez Valverde, concejal de Vías y Obras por el PP hasta su cese y renuncia en febrero
+  de 2014, y Vicente Costas Pumar, exconcejal y administrador de Coysagran, fueron los dos acusados para
+  quienes la Fiscalía solicitó juicio por tráfico de influencias en septiembre de 2018. Las sospechas se
+  referían a ventajas en la contratación municipal; no deben confundirse con hechos judicialmente probados sin
+  consultar el fallo.
 
 
-  Europa Press informó en octubre de 2019 de que esta pieza ya había tenido una vista de conformidad, resultado
-  que volvió a recoger la información de 2021. La fuente contemporánea enlazada para detallar las penas no ha podido
-  leerse por bloqueo del medio, ni se ha recuperado la sentencia original. Se retiran por ello las penas exactas
-  de prisión, multa e inhabilitación y la fecha artificial de sentencia que contenía la ficha.
+  Europa Press informó en octubre de 2019 de que esta pieza ya había tenido una vista de conformidad,
+  resultado que volvió a recoger la información de 2021. La fuente contemporánea enlazada para detallar las
+  penas no ha podido leerse por bloqueo del medio, ni se ha recuperado la sentencia original. No están
+  acreditadas las penas exactas de prisión, multa e inhabilitación ni la fecha de la sentencia.
 
 
-  Revisión parcial a 17 de octubre de 2026: faltan el fallo, su fecha, la firmeza y la ejecución, así como el resultado
-  documental de los recursos sobre escuchas de la instrucción. No se atribuyen a esta pieza absoluciones, condenas
-  o indemnizaciones de otros procedimientos de Nigrán o de la macrocausa.'
+  Información pendiente al 17 de octubre de 2026: faltan el fallo, su fecha, la firmeza y la ejecución, así
+  como el resultado documental de los recursos sobre escuchas de la instrucción. No se atribuyen a esta pieza
+  absoluciones, condenas o indemnizaciones de otros procedimientos de Nigrán o de la macrocausa.
 resumen: Investigación de adjudicaciones de obras en Nigrán terminada por conformidad según la prensa, con el fallo
   pendiente de cotejo
 lugar: Nigrán, Pontevedra, Galicia
@@ -102,10 +104,10 @@ cronologia:
 
 La ficha se limita a la **pieza sobre obras municipales vinculada a Coysagran**. La [noticia de La Voz de septiembre de 2018](https://www.lavozdegalicia.es/noticia/vigo/nigran/2018/09/04/primer-politico-patos-juicio/0003_201809V4C5991.htm) identifica a los dos acusados para quienes se pidió juicio y distingue esa solicitud de la decisión judicial que aún faltaba. Las [informaciones de Europa Press de 2019](https://www.europapress.es/galicia/noticia-dueno-eirina-muy-tranquilo-niega-amanos-licitaciones-primer-juicio-operacion-patos-20191003190714.html) y [2021](https://www.galiciapress.es/texto-diario/mostrar/2848257/am-multa-10-meses-inhabilitacion-funcionario-vigues-constructor-pago-servicios-prostitucion) confirman que Nigrán terminó por conformidad, pero no detallan en esos pasajes las penas individuales. No se traslada a Nigrán la declaración de firmeza que la noticia de 2021 refiere a la pieza distinta del funcionario de Vigo.
 
-El enlace histórico de [Faro de Vigo de 11 de diciembre de 2018](https://www.farodevigo.es/gran-vigo/2018/12/11/exedil-nigran-imputado-patos-acepta/2014390.html) que sustentaba las penas devuelve un bloqueo HTTP 406. No se ha leído su cuerpo original ni recuperado la sentencia. Por tanto, no se mantienen como hechos revalidados los seis meses de prisión sustituidos por multa diaria ni los cinco años de inhabilitación atribuidos al exedil; tampoco el supuesto alcance a empleo privado o a todo derecho de sufragio. La fecha «1 de diciembre de 2018» carecía de respaldo y se elimina.
+El enlace histórico de [Faro de Vigo de 11 de diciembre de 2018](https://www.farodevigo.es/gran-vigo/2018/12/11/exedil-nigran-imputado-patos-acepta/2014390.html) que sustentaba las penas no ofrece un texto accesible. No se dispone del texto original de la noticia ni de la sentencia. No están acreditados los seis meses de prisión sustituidos por multa diaria ni los cinco años de inhabilitación atribuidos al exedil; tampoco el supuesto alcance a empleo privado o a todo derecho de sufragio.
 
-Durante la instrucción, la defensa de Álvarez Valverde discutió la validez de las escuchas. Una [información de Europa Press reproducida por 20minutos en 2016](https://www.20minutos.es/noticia/2697734/0/citan-al-exalcalde-nigr-alberto-valverde-como-investigado-operacion-patos/) recoge que se interpuso reforma y apelación subsidiaria contra la negativa a anularlas. Esta revisión no ha recuperado las resoluciones que resolvieron esos recursos. No se deduce de la posterior conformidad cuál fue su motivación o desenlace.
+Durante la instrucción, la defensa de Álvarez Valverde discutió la validez de las escuchas. Una [información de Europa Press reproducida por 20minutos en 2016](https://www.20minutos.es/noticia/2697734/0/citan-al-exalcalde-nigr-alberto-valverde-como-investigado-operacion-patos/) recoge que se interpuso reforma y apelación subsidiaria contra la negativa a anularlas. No se dispone de las resoluciones que resolvieron esos recursos. No se deduce de la posterior conformidad cuál fue su motivación o desenlace.
 
-Las adjudicaciones examinadas incluían actuaciones en A Carrasca y Praia América, según las fuentes sobre la investigación. No se reproducen como hechos probados los detalles del intercambio de ofertas, el beneficio personal o empresarial o el intento relativo a farolas sin haber cotejado el relato judicial. No existe en esta revisión una cuantificación de daño público: se omite `coste`, y las eventuales multas no se convierten en perjuicio.
+Las adjudicaciones examinadas incluían actuaciones en A Carrasca y Praia América, según las fuentes sobre la investigación. No se reproducen como hechos probados los detalles del intercambio de ofertas, el beneficio personal o empresarial o el intento relativo a farolas sin haber cotejado el relato judicial. No consta una cuantificación de daño público; las eventuales multas no equivalen a un perjuicio.
 
-No se mezclan esta pieza, las restantes de Patos ni otro procedimiento sobre la recogida de basuras de Nigrán adjudicada en 2004. Las búsquedas de resoluciones posteriores o indemnizaciones pueden devolver esos otros asuntos; no permiten declarar absueltos a estos acusados ni atribuirles sus importes. A 17 de octubre de 2026 siguen pendientes la sentencia original, el órgano sentenciador cotejado, su firmeza y la ejecutoria. La ausencia de novedades localizadas no acredita cumplimiento ni ausencia de recursos. `documentos: []` señala que no se dispone de originales verificables incorporados.
+No se mezclan esta pieza, las restantes de Patos ni otro procedimiento sobre la recogida de basuras de Nigrán adjudicada en 2004. Las resoluciones o indemnizaciones de esos otros asuntos no permiten declarar absueltos a estos acusados ni atribuirles sus importes. A 17 de octubre de 2026 siguen pendientes la sentencia original, el órgano sentenciador cotejado, su firmeza y la ejecutoria. La ausencia de novedades localizadas no acredita cumplimiento ni ausencia de recursos. No se dispone de originales verificables.
