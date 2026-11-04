@@ -11,15 +11,20 @@ estado: Demanda contable desestimada; resultado penal parcial
 lugar: Jerez de la Frontera, Cádiz, Andalucía
 resumen: Ayudas a González Byass y su asociación de extrabajadores, con exclusiones penales individuales y desestimación
   de una demanda contable.
-descripcion: 'La pieza penal examinó ayudas de al menos 19.757.235,14 euros a González Byass y su asociación de extrabajadores
-  entre 2008 y 2010. La Audiencia excluyó a Antonio Fernández en mayo de 2020: no había firmado la adhesión ni cobrado
-  rentas de la póliza. En julio de 2022 se conoció la continuación contra seis investigados, incluido Daniel Alberto
-  Rivera. La memoria fiscal de 2026 identifica las DP 2714/16, PA 157/22, con calificación del Ministerio Fiscal de 21
-  de julio de 2022 y juicio pendiente de señalamiento a 7 de abril de 2026. No se acredita el desenlace penal posterior
-  a 15 de octubre de 2026. Por separado, la sentencia 9/2024 del Tribunal de Cuentas, de 20 de diciembre, desestimó íntegramente
-  una demanda de 709.450 euros por dos pagos, al no apreciar daño en esas operaciones; la publicación figura como no
-  firme. No se dispone de recursos posteriores ni de todas las resoluciones penales individuales. El volumen de ayudas
-  no se presenta como perjuicio, y la decisión contable no equivale al archivo de toda la causa penal.'
+descripcion: |-
+  La pieza penal examinó ayudas de al menos 19.757.235,14 euros a González Byass y su asociación de extrabajadores entre 2008 y 2010. La Audiencia excluyó a Antonio Fernández en mayo de 2020: no había firmado la adhesión ni cobrado rentas de la póliza. En julio de 2022 se conoció la continuación contra seis investigados, incluido Daniel Alberto Rivera. La memoria fiscal de 2026 identifica las DP 2714/16, PA 157/22, con calificación del Ministerio Fiscal de 21 de julio de 2022 y juicio pendiente de señalamiento a 7 de abril de 2026. No se acredita el desenlace penal posterior a 15 de octubre de 2026. Por separado, la sentencia 9/2024 del Tribunal de Cuentas, de 20 de diciembre, desestimó íntegramente una demanda de 709.450 euros por dos pagos, al no apreciar daño en esas operaciones; la publicación figura como no firme. No se dispone de recursos posteriores ni de todas las resoluciones penales individuales. El volumen de ayudas no se presenta como perjuicio, y la decisión contable no equivale al archivo de toda la causa penal.
+
+  La investigación penal se refiere a la financiación de consecuencias laborales del ERE de 2008 y a pagos posteriores a la asociación de extrabajadores. La cifra de al menos 19.757.235,14 euros es el volumen de ayudas reseñado en el auto de 2022, no un perjuicio declarado por sentencia. Tampoco se suma de nuevo el compromiso de 17.459.092 euros del protocolo como si fuera un daño adicional.
+
+  Antonio Fernández no cobró las rentas de la póliza ni firmó la adhesión. La Audiencia rectificó en mayo de 2020 la decisión que había permitido investigarlo como beneficiario en agosto de 2019. La continuación de 2022 mantuvo fuera a Fernández y distinguió los antiguos altos cargos ya encausados en la pieza del procedimiento específico de Daniel Rivera, que no había sido enjuiciado en ella.
+
+  La vía contable tiene un objeto concreto: dos pagos por un total de 709.450 euros. El Tribunal de Cuentas desestimó la demanda en diciembre de 2024. Aunque apreció defectos procedimentales, consideró que la regularización del Decreto-ley 4/2012 y la novación habían proporcionado cobertura a esos pagos; además, el ajuste de la prima excluyó la financiación pública de rentas del beneficiario cuestionado. Los gastos de intermediación se remitían a otro procedimiento, B-68/15. La desestimación no se extiende a operaciones que no fueron objeto de esta demanda.
+
+  La sentencia contable se publica como no firme y permite apelación. La memoria fiscal de 2026 identifica esta pieza como DP 2714/16, PA 157/22, y registra calificación del Ministerio Fiscal el 21 de julio de 2022. A 7 de abril de 2026 figuraba pendiente de señalamiento: la memoria aclara que esa fecha corresponde a la elaboración de la tabla y al cálculo de la demora, no a un juicio celebrado o fijado. No se dispone del desenlace posterior de los seis investigados, de todas sus identidades ni de eventuales recursos contables. No se deduce de ello que continúe abierta la pieza o que se haya archivado en su totalidad. Las sentencias de otros ERE y los procedimientos laborales recientes de la empresa tienen objetos distintos.
+
+  Fuentes: [auto reseñado en 2022, Europa Press](https://www.europapress.es/andalucia/noticia-juez-excluye-exconsejero-antonio-fernandez-pieza-ere-gonzalez-byass-no-llegar-cobrar-ayudas-20220714095826.html), [auto de mayo de 2020, Diario de Sevilla](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Empleo-Antonio-Fernandez-ERE-Gonzalez_0_1464453926.html), [sentencia contable original](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2024/Sentencia_9_2024.pdf), [reseña nominal de diciembre de 2024](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/tribunal-cuentas-exculpa-ex-consejero_0_2003045310.html).
+
+  Fuente adicional: [memoria fiscal de 2026, dilaciones procesales](https://www.fiscal.es/memorias/memoria2026/FISCALIA_SITE/capitulo_II/cap_II_6_6.html).
 implicados:
 - nombre: Antonio Fernández García
   cargo: Exconsejero de Empleo de la Junta de Andalucía y antiguo trabajador de González Byass
@@ -132,15 +137,3 @@ cronologia:
   type: judicial
   relevancia: alta
 ---
-
-La investigación penal se refiere a la financiación de consecuencias laborales del ERE de 2008 y a pagos posteriores a la asociación de extrabajadores. La cifra de al menos 19.757.235,14 euros es el volumen de ayudas reseñado en el auto de 2022, no un perjuicio declarado por sentencia. Tampoco se suma de nuevo el compromiso de 17.459.092 euros del protocolo como si fuera un daño adicional.
-
-Antonio Fernández no cobró las rentas de la póliza ni firmó la adhesión. La Audiencia rectificó en mayo de 2020 la decisión que había permitido investigarlo como beneficiario en agosto de 2019. La continuación de 2022 mantuvo fuera a Fernández y distinguió los antiguos altos cargos ya encausados en la pieza del procedimiento específico de Daniel Rivera, que no había sido enjuiciado en ella.
-
-La vía contable tiene un objeto concreto: dos pagos por un total de 709.450 euros. El Tribunal de Cuentas desestimó la demanda en diciembre de 2024. Aunque apreció defectos procedimentales, consideró que la regularización del Decreto-ley 4/2012 y la novación habían proporcionado cobertura a esos pagos; además, el ajuste de la prima excluyó la financiación pública de rentas del beneficiario cuestionado. Los gastos de intermediación se remitían a otro procedimiento, B-68/15. La desestimación no se extiende a operaciones que no fueron objeto de esta demanda.
-
-La sentencia contable se publica como no firme y permite apelación. La memoria fiscal de 2026 identifica esta pieza como DP 2714/16, PA 157/22, y registra calificación del Ministerio Fiscal el 21 de julio de 2022. A 7 de abril de 2026 figuraba pendiente de señalamiento: la memoria aclara que esa fecha corresponde a la elaboración de la tabla y al cálculo de la demora, no a un juicio celebrado o fijado. No se dispone del desenlace posterior de los seis investigados, de todas sus identidades ni de eventuales recursos contables. No se deduce de ello que continúe abierta la pieza o que se haya archivado en su totalidad. Las sentencias de otros ERE y los procedimientos laborales recientes de la empresa tienen objetos distintos.
-
-Fuentes: [auto reseñado en 2022, Europa Press](https://www.europapress.es/andalucia/noticia-juez-excluye-exconsejero-antonio-fernandez-pieza-ere-gonzalez-byass-no-llegar-cobrar-ayudas-20220714095826.html), [auto de mayo de 2020, Diario de Sevilla](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Empleo-Antonio-Fernandez-ERE-Gonzalez_0_1464453926.html), [sentencia contable original](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2024/Sentencia_9_2024.pdf), [reseña nominal de diciembre de 2024](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/tribunal-cuentas-exculpa-ex-consejero_0_2003045310.html).
-
-Fuente adicional: [memoria fiscal de 2026, dilaciones procesales](https://www.fiscal.es/memorias/memoria2026/FISCALIA_SITE/capitulo_II/cap_II_6_6.html).

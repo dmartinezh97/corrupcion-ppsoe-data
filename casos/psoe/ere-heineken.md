@@ -8,27 +8,18 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Sobreseimiento provisional
-descripcion: 'La pieza separada de los ERE por las ayudas a Heineken España examinó 16.484.159,60 euros concedidos
-  por la Junta de Andalucía entre 2004 y 2008. Figuraban como investigados el presidente y el responsable de Recursos
-  Humanos de la empresa, por posibles delitos de prevaricación, malversación y falsedad documental, según la comunicación
-  oficial del CGPJ. No se ha contrastado su identidad nominal en los documentos de este procedimiento; no basta
-  identificar a quienes ocupaban cargos empresariales en otra fecha.
+descripcion: |-
+  La pieza separada de los ERE por las ayudas a Heineken España examinó 16.484.159,60 euros concedidos por la Junta de Andalucía entre 2004 y 2008. Figuraban como investigados el presidente y el responsable de Recursos Humanos de la empresa, por posibles delitos de prevaricación, malversación y falsedad documental, según la comunicación oficial del CGPJ. No se ha contrastado su identidad nominal en los documentos de este procedimiento; no basta identificar a quienes ocupaban cargos empresariales en otra fecha.
 
+  La Sección Séptima de la Audiencia Provincial de Sevilla estimó su recurso mediante auto de 17 de octubre de 2022. Consideró que la instrucción había concluido el 6 de octubre de 2017 y que la declaración de complejidad y las prórrogas posteriores se habían acordado fuera de plazo. El Juzgado de Instrucción número 6 dictó el sobreseimiento provisional el 1 de diciembre de 2022, notificado el día 12, al quedar sin validez las diligencias posteriores afectadas, incluidas las declaraciones como investigados acordadas en agosto de 2018.
 
-  La Sección Séptima de la Audiencia Provincial de Sevilla estimó su recurso mediante auto de 17 de octubre de 2022.
-  Consideró que la instrucción había concluido el 6 de octubre de 2017 y que la declaración de complejidad y las
-  prórrogas posteriores se habían acordado fuera de plazo. El Juzgado de Instrucción número 6 dictó el sobreseimiento
-  provisional el 1 de diciembre de 2022, notificado el día 12, al quedar sin validez las diligencias posteriores
-  afectadas, incluidas las declaraciones como investigados acordadas en agosto de 2018.
+  El archivo es provisional, no una sentencia absolutoria ni un archivo definitivo. El instructor mantuvo su apreciación de indicios, pero explicó que no podían valorarse para continuar el procedimiento en esas condiciones; esa valoración no constituye una condena ni acredita culpabilidad. Dejó a salvo posibles acciones civiles o administrativas de la Junta. No se han recuperado los autos originales ni se acredita su firmeza, un recurso posterior, reapertura o resultado de esas posibles reclamaciones a 17 de octubre de 2026. Los 16,48 millones son el volumen de ayudas y la cuantía que el instructor vinculaba a una eventual reclamación, no una indemnización ya concedida o un reintegro acreditado.
 
+  La [comunicación oficial del CGPJ](https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-juez-archiva-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-16-millones-a-Heineken-tras-concluir-la-Audiencia-que-se-habian-superado-los-plazos-de-instruccion), publicada el 12 de diciembre de 2022, identifica el auto de archivo como una resolución de 1 de diciembre y el de apelación como un auto de 17 de octubre. Las ayudas investigadas se sitúan entre 2004 y 2008, sin que ello permita inventar un día inicial o final de concesión. Tampoco permite deducir por simple resta de seis meses el día exacto en que se abrió esta pieza.
 
-  El archivo es provisional, no una sentencia absolutoria ni un archivo definitivo. El instructor mantuvo su apreciación
-  de indicios, pero explicó que no podían valorarse para continuar el procedimiento en esas condiciones; esa valoración
-  no constituye una condena ni acredita culpabilidad. Dejó a salvo posibles acciones civiles o administrativas de
-  la Junta. No se han recuperado los autos originales ni se acredita su firmeza, un recurso posterior, reapertura
-  o resultado de esas posibles reclamaciones a 17 de octubre de 2026. Los 16,48 millones son el volumen de ayudas
-  y la cuantía que el instructor vinculaba a una eventual reclamación, no una indemnización ya concedida o un reintegro
-  acreditado.'
+  El archivo responde a la invalidez procesal de las diligencias afectadas por las prórrogas extemporáneas. No transforma los indicios en hechos probados ni equivale a un sobreseimiento libre. La nota oficial deja a salvo las diligencias acordadas antes del vencimiento y practicadas después por razones justificadas, por lo que no se afirma una nulidad indiscriminada de todo lo actuado.
+
+  [ElDiario.es](https://www.eldiario.es/andalucia/pieza-separada-caso-ere-ayudas-heineken-archiva-superarse-plazo-legal_1_9786835.html) y [The Objective](https://theobjective.com/espana/tribunales/2022-12-12/archivada-pieza-caso-ere/) reproducen el fundamento procesal y la reserva de acciones, pero no acreditan una indemnización ya concedida. Los 16.484.159,60 euros de ayudas no constituyen por sí solos un daño firme o recuperado. No se ha podido verificar en los autos originales la identidad de los dos investigados, su firmeza ni las actuaciones posteriores. Las resoluciones del Constitucional sobre otras piezas de los ERE no se trasladan a esta sin una resolución específica.
 resumen: Sobreseimiento provisional de la pieza por ayudas a Heineken al invalidarse diligencias acordadas fuera
   del plazo de instrucción; evolución posterior no acreditada.
 lugar: Sevilla, Andalucía
@@ -97,9 +88,3 @@ cronologia:
   urls:
   - https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-juez-archiva-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-16-millones-a-Heineken-tras-concluir-la-Audiencia-que-se-habian-superado-los-plazos-de-instruccion
 ---
-
-La [comunicación oficial del CGPJ](https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-juez-archiva-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-16-millones-a-Heineken-tras-concluir-la-Audiencia-que-se-habian-superado-los-plazos-de-instruccion), publicada el 12 de diciembre de 2022, identifica el auto de archivo como una resolución de 1 de diciembre y el de apelación como un auto de 17 de octubre. Las ayudas investigadas se sitúan entre 2004 y 2008, sin que ello permita inventar un día inicial o final de concesión. Tampoco permite deducir por simple resta de seis meses el día exacto en que se abrió esta pieza.
-
-El archivo responde a la invalidez procesal de las diligencias afectadas por las prórrogas extemporáneas. No transforma los indicios en hechos probados ni equivale a un sobreseimiento libre. La nota oficial deja a salvo las diligencias acordadas antes del vencimiento y practicadas después por razones justificadas, por lo que no se afirma una nulidad indiscriminada de todo lo actuado.
-
-[ElDiario.es](https://www.eldiario.es/andalucia/pieza-separada-caso-ere-ayudas-heineken-archiva-superarse-plazo-legal_1_9786835.html) y [The Objective](https://theobjective.com/espana/tribunales/2022-12-12/archivada-pieza-caso-ere/) reproducen el fundamento procesal y la reserva de acciones, pero no acreditan una indemnización ya concedida. Los 16.484.159,60 euros de ayudas no constituyen por sí solos un daño firme o recuperado. No se ha podido verificar en los autos originales la identidad de los dos investigados, su firmeza ni las actuaciones posteriores. Las resoluciones del Constitucional sobre otras piezas de los ERE no se trasladan a esta sin una resolución específica.

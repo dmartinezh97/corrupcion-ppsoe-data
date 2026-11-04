@@ -9,64 +9,26 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "absolución penal; sanción administrativa sin firmeza comprobada"
-descripcion: >-
-  El caso se refiere a la entrega de respuestas de un examen de oposición por parte de Ana María Brugger
-  Navarro, exdirectora general de Función Pública de la Generalitat Valenciana entre 2012 y 2015, a María
-  Gonzálbez Bernad, candidata de la misma prueba y, según fuentes de 2021, asesora del grupo parlamentario de
-  Vox en Les Corts Valencianes. En el momento de los hechos Brugger no ocupaba un cargo político: era
-  funcionaria de carrera adscrita a la Dirección General de Función Pública y formaba parte del grupo de
-  funcionarios designados para vigilar la prueba.
+descripcion: |-
+  El caso se refiere a la entrega de respuestas de un examen de oposición por parte de Ana María Brugger Navarro, exdirectora general de Función Pública de la Generalitat Valenciana entre 2012 y 2015, a María Gonzálbez Bernad, candidata de la misma prueba y, según fuentes de 2021, asesora del grupo parlamentario de Vox en Les Corts Valencianes. En el momento de los hechos Brugger no ocupaba un cargo político: era funcionaria de carrera adscrita a la Dirección General de Función Pública y formaba parte del grupo de funcionarios designados para vigilar la prueba.
 
+  Los hechos se remontan al 10 de marzo de 2018, durante una oposición para el cuerpo de Técnicos Superiores de la Administración de la Generalitat (Grupo A1-01), convocada por Orden 1/2017, de 3 de enero, y celebrada en la Universitat de València. Según los hechos declarados probados por la sentencia absolutoria, Brugger, en lugar de ejercer la labor de vigilancia encomendada, ocupó una silla al final del aula, consultó su teléfono móvil, escribió respuestas "de su puño y letra" en folios repartidos a los opositores y los entregó a Gonzálbez, con quien mantenía una "relación de amistad". Otras dos funcionarias que también vigilaban observaron la conducta, interceptaron las hojas que la opositora intentaba ocultar.
 
-  Los hechos se remontan al 10 de marzo de 2018, durante una oposición para el cuerpo de Técnicos Superiores
-  de la Administración de la Generalitat (Grupo A1-01), convocada por Orden 1/2017, de 3 de enero, y celebrada
-  en la Universitat de València. Según los hechos declarados probados por la sentencia absolutoria, Brugger,
-  en lugar de ejercer la labor de vigilancia encomendada, ocupó una silla al final del aula, consultó su
-  teléfono móvil, escribió respuestas "de su puño y letra" en folios repartidos a los opositores y los entregó
-  a Gonzálbez, con quien mantenía una "relación de amistad". Otras dos funcionarias que también vigilaban
-  observaron la conducta, interceptaron las hojas que la opositora intentaba ocultar.
+  La denuncia inicial partió del sindicato CGT y fue asumida por la Fiscalía provincial. El Juzgado de Instrucción nº 19 de Valencia investigó los hechos e imputó a ambas mujeres; en septiembre de 2019 la prensa informaba de que Brugger ya había declarado como imputada. En febrero de 2020 el sindicato CGT, como acusación popular, solicitó seis años de prisión y seis de inhabilitación para Brugger y tres años de prisión para Gonzálbez por falsedad documental, con una multa de 22.000 euros; la Fiscalía pidió tres años de inhabilitación y 20.000 euros de multa para Brugger y un año de inhabilitación y 10.000 euros para Gonzálbez.
 
+  El juicio oral se celebró el 11 de marzo de 2021 en la Sección Primera de la Audiencia Provincial de Valencia. La sentencia 180/2021, de 26 de marzo de 2021, cuya fecha, hechos y fallo reproduce el original de apelación 204/2021, absolvió a ambas acusadas. El tribunal consideró probada la entrega de información y el aprovechamiento de la posición de vigilante, pero apreció que los folios, por su presentación como guion, abreviaturas y letra apresurada, no estaban destinados a ser presentados como respuesta oficial del examen, por lo que no concurría la falsedad documental del artículo 390 del Código Penal; tampoco apreció el delito de actividades prohibidas a funcionarios públicos, al no tratarse de información secreta o privilegiada. La sentencia de instancia apreció temeridad en la acusación popular y le impuso las costas, pero este pronunciamiento fue revocado por el TSJ valenciano el 6 de julio de 2021; permaneció la absolución.
 
-  La denuncia inicial partió del sindicato CGT y fue asumida por la Fiscalía provincial. El Juzgado de
-  Instrucción nº 19 de Valencia investigó los hechos e imputó a ambas mujeres; en septiembre de 2019 la prensa
-  informaba de que Brugger ya había declarado como imputada. En febrero de 2020 el sindicato CGT, como
-  acusación popular, solicitó seis años de prisión y seis de inhabilitación para Brugger y tres años de
-  prisión para Gonzálbez por falsedad documental, con una multa de 22.000 euros; la Fiscalía pidió tres años
-  de inhabilitación y 20.000 euros de multa para Brugger y un año de inhabilitación y 10.000 euros para
-  Gonzálbez.
+  La acusación popular anunció que, por limitaciones económicas, no recurriría la absolución y solo impugnaría la condena en costas. Según la resolución contencioso-administrativa recogida por prensa, la absolución penal quedó firme porque la apelación se limitó a las costas y no alteró los hechos declarados probados. Paralelamente, la Generalitat había abierto un expediente disciplinario que quedó paralizado al judicializarse el caso y que se reanudó tras agotarse la vía penal. El 15 de mayo de 2022 se informó de que el Juzgado de lo Contencioso-Administrativo nº 8 de Valencia había desestimado el recurso de Brugger y confirmado la sanción administrativa: traslado forzoso a otra localidad durante tres años y un curso sobre ética e integridad del Instituto Valenciano de Administración Pública.
 
+  Límites al 17 de octubre de 2026: la sentencia 204/2021 del Tribunal Superior de Justicia valenciano está disponible (ECLI:ES:TSJCV:2021:4159) y reproduce la identificación, hechos y fallo de la 180/2021 y revoca exclusivamente las costas de CGT, confirmando el resto. La apelación fue limitada a costas; el original advertía de casación posible, por lo que no se infiere su firmeza íntegra. La firmeza de la absolución la recoge expresamente la crónica de 2022 sobre la sentencia contenciosa, y la memoria oficial de Antifraude señala que los hechos probados devinieron firmes. No se han localizado el original contencioso ni su eventual recurso, firmeza o ejecución actual. Tampoco una resolución posterior que altere los resultados expuestos. El apellido de la opositora tiene grafías distintas en prensa; la forma Gonzálbez Bernad consta en la transcripción nominal del comunicado de CGT, sin identificar personas a partir de los seudónimos del original judicial.
 
-  El juicio oral se celebró el 11 de marzo de 2021 en la Sección Primera de la Audiencia Provincial de
-  Valencia. La sentencia 180/2021, de 26 de marzo de 2021, cuya fecha, hechos y fallo reproduce el original de
-  apelación 204/2021, absolvió a ambas acusadas. El tribunal consideró probada la entrega de información y el
-  aprovechamiento de la posición de vigilante, pero apreció que los folios, por su presentación como guion,
-  abreviaturas y letra apresurada, no estaban destinados a ser presentados como respuesta oficial del examen,
-  por lo que no concurría la falsedad documental del artículo 390 del Código Penal; tampoco apreció el delito
-  de actividades prohibidas a funcionarios públicos, al no tratarse de información secreta o privilegiada. La
-  sentencia de instancia apreció temeridad en la acusación popular y le impuso las costas, pero este
-  pronunciamiento fue revocado por el TSJ valenciano el 6 de julio de 2021; permaneció la absolución.
+  ### Documentación disponible
 
+  La sentencia de apelación consta de cinco páginas. Identifica el procedimiento abreviado 132/2020 de la Sección Primera de la Audiencia y el 2389/2018 del Juzgado de Instrucción nº19; recoge la incoación por auto de 13 de diciembre de 2018. La sentencia de instancia no se ha obtenido como archivo separado: se comprueba a través de su transcripción en apelación. Los nombres nominales proceden de prensa y del comunicado sindical; no se infieren de los nombres anonimizados.
 
-  La acusación popular anunció que, por limitaciones económicas, no recurriría la absolución y solo impugnaría
-  la condena en costas. Según la resolución contencioso-administrativa recogida por prensa, la absolución
-  penal quedó firme porque la apelación se limitó a las costas y no alteró los hechos declarados probados.
-  Paralelamente, la Generalitat había abierto un expediente disciplinario que quedó paralizado al
-  judicializarse el caso y que se reanudó tras agotarse la vía penal. El 15 de mayo de 2022 se informó de que
-  el Juzgado de lo Contencioso-Administrativo nº 8 de Valencia había desestimado el recurso de Brugger y
-  confirmado la sanción administrativa: traslado forzoso a otra localidad durante tres años y un curso sobre
-  ética e integridad del Instituto Valenciano de Administración Pública.
+  La Memoria de Actividad 2021 de la Agencia Valenciana Antifraude aborda el caso en las páginas impresas 105–106 y 184–186. La memoria es una fuente institucional sobre sus actuaciones, no una nueva sentencia. Corrobora la reanudación disciplinaria y el traslado; la sanción no se confunde con la suspensión de empleo y sueldo que la Agencia recomendó, pero que no se impuso según ese relato. El año de la memoria no es fecha de todos los actos ni de la creación del PDF en 2022.
 
-
-  Límites al 17 de octubre de 2026: la sentencia 204/2021 del Tribunal Superior de Justicia valenciano está
-  disponible (ECLI:ES:TSJCV:2021:4159) y reproduce la identificación, hechos y fallo de la 180/2021 y revoca
-  exclusivamente las costas de CGT, confirmando el resto. La apelación fue limitada a costas; el original
-  advertía de casación posible, por lo que no se infiere su firmeza íntegra. La firmeza de la absolución la
-  recoge expresamente la crónica de 2022 sobre la sentencia contenciosa, y la memoria oficial de Antifraude
-  señala que los hechos probados devinieron firmes. No se han localizado el original contencioso ni su
-  eventual recurso, firmeza o ejecución actual. Tampoco una resolución posterior que altere los resultados
-  expuestos. El apellido de la opositora tiene grafías distintas en prensa; la forma Gonzálbez Bernad consta
-  en la transcripción nominal del comunicado de CGT, sin identificar personas a partir de los seudónimos del
-  original judicial.
+  elDiario.es informó de la absolución el 31 de marzo de 2021 y de la confirmación administrativa el 15 de mayo de 2022. No se ha localizado resolución posterior hasta la fecha indicada; ello no prueba inexistencia ni determina el destino laboral actual de Brugger. No hay daño económico judicialmente acreditado en estas fuentes y no se fija coste.
 resumen: "Exdirectora general de Función Pública de la Generalitat Valenciana (PP), absuelta penalmente por los hechos del examen de 2018 y sancionada administrativamente con traslado forzoso; el TSJ revocó las costas impuestas a CGT y no se ha comprobado el estado final de la sanción administrativa"
 lugar: "Valencia, Comunidad Valenciana"
 tribunal:
@@ -169,11 +131,3 @@ cronologia:
     urls:
       - "https://www.eldiario.es/comunitat-valenciana/confirmado-traslado-forzoso-exjefa-funcionarios-valencianos-pp-chivo-respuestas-oposicion-amiga-vox_1_8990277.html"
 ---
-
-## Documentación disponible
-
-La sentencia de apelación consta de cinco páginas. Identifica el procedimiento abreviado 132/2020 de la Sección Primera de la Audiencia y el 2389/2018 del Juzgado de Instrucción nº19; recoge la incoación por auto de 13 de diciembre de 2018. La sentencia de instancia no se ha obtenido como archivo separado: se comprueba a través de su transcripción en apelación. Los nombres nominales proceden de prensa y del comunicado sindical; no se infieren de los nombres anonimizados.
-
-La Memoria de Actividad 2021 de la Agencia Valenciana Antifraude aborda el caso en las páginas impresas 105–106 y 184–186. La memoria es una fuente institucional sobre sus actuaciones, no una nueva sentencia. Corrobora la reanudación disciplinaria y el traslado; la sanción no se confunde con la suspensión de empleo y sueldo que la Agencia recomendó, pero que no se impuso según ese relato. El año de la memoria no es fecha de todos los actos ni de la creación del PDF en 2022.
-
-elDiario.es informó de la absolución el 31 de marzo de 2021 y de la confirmación administrativa el 15 de mayo de 2022. No se ha localizado resolución posterior hasta la fecha indicada; ello no prueba inexistencia ni determina el destino laboral actual de Brugger. No hay daño económico judicialmente acreditado en estas fuentes y no se fija coste.

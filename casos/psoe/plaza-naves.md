@@ -9,15 +9,16 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: absolución
 lugar: Zaragoza, Aragón
-descripcion: Pieza sobre pagos a Codesport por obras en 119 naves de la Plataforma Logística de Zaragoza, distinta
-  de otras causas de Plaza y del kartódromo. La Audiencia Provincial de Zaragoza, Sección Sexta, condenó inicialmente
-  a Agapito Iglesias, Ricardo García Becerril y Carlos Escó a cuatro años de prisión por malversación. La STS558/2017,
-  de 13 de julio, anuló esa sentencia y los absolvió al no apreciar los elementos del delito, incluido el propósito
-  apropiativo. Ordenó levantar trabas, embargos y demás medidas cautelares. Reservó las acciones que pudieran corresponder
-  a las partes fuera del ámbito penal, sin reconocer por ello una deuda civil firme. No se ha documentado aquí el
-  desenlace de eventuales acciones civiles ni una declaración posterior de firmeza hasta el corte del 17 de octubre
-  de 2026. Los 8,7 millones de responsabilidad civil de la condena anulada no se mantienen como daño acreditado
-  vigente.
+descripcion: |-
+  Pieza sobre pagos a Codesport por obras en 119 naves de la Plataforma Logística de Zaragoza, distinta de otras causas de Plaza y del kartódromo. La Audiencia Provincial de Zaragoza, Sección Sexta, condenó inicialmente a Agapito Iglesias, Ricardo García Becerril y Carlos Escó a cuatro años de prisión por malversación. La STS558/2017, de 13 de julio, anuló esa sentencia y los absolvió al no apreciar los elementos del delito, incluido el propósito apropiativo. Ordenó levantar trabas, embargos y demás medidas cautelares. Reservó las acciones que pudieran corresponder a las partes fuera del ámbito penal, sin reconocer por ello una deuda civil firme. No se ha documentado aquí el desenlace de eventuales acciones civiles ni una declaración posterior de firmeza hasta el corte del 17 de octubre de 2026. Los 8,7 millones de responsabilidad civil de la condena anulada no se mantienen como daño acreditado vigente.
+
+  La [nota oficial del Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Supremo-anula-las-condenas-por-el--caso-Codesport--al-no-apreciar-animo-de-lucro-ilicito-en-los-acusados) identifica nominalmente a los tres absueltos. El [texto judicial](https://www.poderjudicial.es/stfls/TRIBUNAL SUPREMO/DOCUMENTOS DE INTERÉS/TS Penal 13 julio 2017.pdf) utiliza seudónimos; no se reconstruyen identidades de otros intervinientes a partir de ellos. La procedencia correcta es la Sección Sexta de la Audiencia de Zaragoza y el Juzgado de Instrucción 5, procedimiento abreviado 25/2015. Fiscalía es parte acusadora, no tribunal.
+
+  El Supremo consideró que las obras se habían realizado sin defectos y que Codesport tenía derecho a cobrar. El conflicto sobre quién debía soportar finalmente las cantidades —Plaza o Autocity— no acreditaba por sí mismo una apropiación delictiva. La reserva de acciones no penales no significa que se interpusieran, prosperaran o fijaran una obligación civil definitiva. Ese seguimiento queda pendiente.
+
+  La condena inicial había fijado 8,7 millones de responsabilidad civil, y el Gobierno de Aragón pretendía elevarla a 13 millones. Ambas cifras se distinguen de un perjuicio vigente: el Supremo anuló la condena y rechazó el recurso autonómico. No se equiparan tampoco precios de contratos, facturación, fianzas o estimaciones del conjunto de Plaza a daño de esta pieza.
+
+  Las absoluciones o condenas del macrojuicio de 2019 y las decisiones relativas al kartódromo corresponden a otros procedimientos. No determinan la situación de esta pieza ni permiten afirmar ausencia global de prisión o impunidad. Se mantiene la absolución documentada de 2017 sin inventar una fecha de cierre civil ni una declaración posterior de firmeza.
 resumen: Absolución por el Supremo de los tres condenados en la pieza Codesport sobre las naves de Plaza.
 tribunal:
 - Juzgado de Instrucción número 5 de Zaragoza
@@ -71,11 +72,3 @@ cronologia:
   type: sentencia
   relevancia: alta
 ---
-
-La [nota oficial del Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Supremo-anula-las-condenas-por-el--caso-Codesport--al-no-apreciar-animo-de-lucro-ilicito-en-los-acusados) identifica nominalmente a los tres absueltos. El [texto judicial](https://www.poderjudicial.es/stfls/TRIBUNAL SUPREMO/DOCUMENTOS DE INTERÉS/TS Penal 13 julio 2017.pdf) utiliza seudónimos; no se reconstruyen identidades de otros intervinientes a partir de ellos. La procedencia correcta es la Sección Sexta de la Audiencia de Zaragoza y el Juzgado de Instrucción 5, procedimiento abreviado 25/2015. Fiscalía es parte acusadora, no tribunal.
-
-El Supremo consideró que las obras se habían realizado sin defectos y que Codesport tenía derecho a cobrar. El conflicto sobre quién debía soportar finalmente las cantidades —Plaza o Autocity— no acreditaba por sí mismo una apropiación delictiva. La reserva de acciones no penales no significa que se interpusieran, prosperaran o fijaran una obligación civil definitiva. Ese seguimiento queda pendiente.
-
-La condena inicial había fijado 8,7 millones de responsabilidad civil, y el Gobierno de Aragón pretendía elevarla a 13 millones. Ambas cifras se distinguen de un perjuicio vigente: el Supremo anuló la condena y rechazó el recurso autonómico. No se equiparan tampoco precios de contratos, facturación, fianzas o estimaciones del conjunto de Plaza a daño de esta pieza.
-
-Las absoluciones o condenas del macrojuicio de 2019 y las decisiones relativas al kartódromo corresponden a otros procedimientos. No determinan la situación de esta pieza ni permiten afirmar ausencia global de prisión o impunidad. Se mantiene la absolución documentada de 2017 sin inventar una fecha de cierre civil ni una declaración posterior de firmeza.

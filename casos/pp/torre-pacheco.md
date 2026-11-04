@@ -9,27 +9,24 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas confirmadas en casación
-descripcion: >-
-  La ficha reúne dos procedimientos sobre adjudicaciones de proyectos técnicos sin tramitar los expedientes de
-  contratación exigidos en Torre Pacheco. En el primero, la Audiencia de Murcia condenó el 22 de julio de 2014
-  a Daniel García Madrid, José Saura Meroño y Santiago Meroño León a diez años de inhabilitación por
-  prevaricación administrativa continuada. Francisco Cavas García recibió cinco años y seis meses y Miguel
-  Pérez Martínez seis años y seis meses, ambos como cómplices, no como cooperadores necesarios. El Supremo
-  desestimó los recursos el 1 de julio de 2015.
+descripcion: |-
+  La ficha reúne dos procedimientos sobre adjudicaciones de proyectos técnicos sin tramitar los expedientes de contratación exigidos en Torre Pacheco. En el primero, la Audiencia de Murcia condenó el 22 de julio de 2014 a Daniel García Madrid, José Saura Meroño y Santiago Meroño León a diez años de inhabilitación por prevaricación administrativa continuada. Francisco Cavas García recibió cinco años y seis meses y Miguel Pérez Martínez seis años y seis meses, ambos como cómplices, no como cooperadores necesarios. El Supremo desestimó los recursos el 1 de julio de 2015.
 
+  En el segundo, relativo a quince adjudicaciones de 2004–2007 a otros profesionales por 511.355,73 euros, la sentencia de 20 de febrero de 2020 condenó a García Madrid y Meroño a seis meses de inhabilitación, respectivamente para alcalde y concejal u otros cargos locales análogos que impliquen participar en el gobierno municipal, y absolvió a otros seis acusados. El Supremo confirmó ese resultado el 23 de junio de 2022, no el 1 de julio. Explicó que la pena se calculaba considerando unitariamente la continuidad delictiva y descontando la pena anterior.
 
-  En el segundo, relativo a quince adjudicaciones de 2004–2007 a otros profesionales por 511.355,73 euros, la
-  sentencia de 20 de febrero de 2020 condenó a García Madrid y Meroño a seis meses de inhabilitación,
-  respectivamente para alcalde y concejal u otros cargos locales análogos que impliquen participar en el
-  gobierno municipal, y absolvió a otros seis acusados. El Supremo confirmó ese resultado el 23 de junio de
-  2022, no el 1 de julio. Explicó que la pena se calculaba considerando unitariamente la continuidad delictiva
-  y descontando la pena anterior.
+  Los importes contractuales no se presentan como dinero sustraído ni daño probado. La dimisión se anunció en julio de 2014, no en 2013. Al 17 de octubre de 2026, están disponibles ambas sentencias del Supremo. No constan la ejecución ni eventuales actuaciones posteriores, y faltan documentos para completar los antecedentes. No se extiende este resultado a Camelot o a investigaciones sobre Polaris World.
 
+  Este procedimiento se centra en las **adjudicaciones de proyectos técnicos**. No mantiene como hechos de estas sentencias las imputaciones urbanísticas de 2008, las permutas con Polaris World ni la prisión provisional de Ramón Cabrera. Esos antecedentes requieren documentación propia y no permiten presentar como condenado a quien solo figuraba como investigado. La referencia inicial de la ficha al año 2008 no se usa para fechar este conjunto de condenas: el año 2005 identifica el comienzo del periodo de adjudicaciones del primer procedimiento, sin fijar una fecha única de apertura para ambos procedimientos.
 
-  Los importes contractuales no se presentan como dinero sustraído ni daño probado. La dimisión se anunció en
-  julio de 2014, no en 2013. Al 17 de octubre de 2026, están disponibles ambas sentencias del Supremo. No
-  constan la ejecución ni eventuales actuaciones posteriores, y faltan documentos para completar los
-  antecedentes. No se extiende este resultado a Camelot o a investigaciones sobre Polaris World.
+  Los dos [originales del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=95d9f1a2011a5814&encode=true&databasematch=AN) están anonimizados. Los nombres de los cinco condenados de 2014 proceden de la [nota judicial nominal](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Provincial-de-Murcia-condena-al-alcalde-de-Torre-Pacheco-y-dos-concejales-por-prevaricacion-administrativa-); los de los dos recurrentes de 2022 se contrastan con [elDiario.es](https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html), sin convertir seudónimos en identidades por inferencia. La sentencia de 2022 reproduce también seis absoluciones de instancia, pero esta ficha no les asigna identidades sin una fuente nominal contrastada.
+
+  La [STS 630/2022](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d076077137abb7bfa0a8778d75e36f0d&encode=true&databasematch=AN) explica por qué los seis meses se añaden a la pena anterior: trata los hechos susceptibles de continuidad delictiva de manera unitaria y descuenta los diez años ya impuestos. No significa que se impusieran diez años nuevos en cada procedimiento. El fallo de 2022 dice que no cabe recurso; la firmeza de la condena anterior aparece expresamente mencionada en su fundamentación y antecedentes. Eso no equivale a acreditar ejecución, extinción o ausencia de actuaciones constitucionales posteriores.
+
+  No se incorpora un daño patrimonial cuantificado. El primer original recoge **776.522 euros** de contratos; contiene además una discrepancia interna de transcripción en un pasaje, que no se resuelve convirtiendo ninguna cifra en daño. El segundo recoge **511.355,73 euros**. Son importes contractuales de procedimientos distintos, no indemnizaciones ni dinero declarado sustraído. No se suman entre sí ni a estimaciones de otras causas; tampoco se suman las costas.
+
+  La [dimisión de julio de 2014](https://www.lasexta.com/noticias/nacional/alcalde-torre-pacheco-dimite-ser-condenado-prevaricacion_20140723572b2a606584a8e744e39e0e.html) consta en la noticia citada. Tampoco se adopta la referencia de otra noticia de 2015 a junio de 2014: la información contemporánea del anuncio es de 23 de julio. Falta cotejar el acta de toma de conocimiento por el pleno.
+
+  Al **17 de octubre de 2026**, faltan documentos para completar los primeros trámites y acreditar la ejecución y eventuales actuaciones posteriores. Las resoluciones constan de 19 y 9 páginas. Su exportación en octubre de 2026 no altera las fechas judiciales de 2015 y 2022. No consta el cierre de la ejecución.
 resumen: Condenas por adjudicaciones de proyectos sin expediente, confirmadas por el Supremo en 2015 y 2022; importes contractuales distintos de daño patrimonial.
 lugar: Torre Pacheco, Región de Murcia
 tribunal:
@@ -123,15 +120,3 @@ cronologia:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d076077137abb7bfa0a8778d75e36f0d&encode=true&databasematch=AN
   - https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html
 ---
-
-Este procedimiento se centra en las **adjudicaciones de proyectos técnicos**. No mantiene como hechos de estas sentencias las imputaciones urbanísticas de 2008, las permutas con Polaris World ni la prisión provisional de Ramón Cabrera. Esos antecedentes requieren documentación propia y no permiten presentar como condenado a quien solo figuraba como investigado. La referencia inicial de la ficha al año 2008 no se usa para fechar este conjunto de condenas: el año 2005 identifica el comienzo del periodo de adjudicaciones del primer procedimiento, sin fijar una fecha única de apertura para ambos procedimientos.
-
-Los dos [originales del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=95d9f1a2011a5814&encode=true&databasematch=AN) están anonimizados. Los nombres de los cinco condenados de 2014 proceden de la [nota judicial nominal](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Provincial-de-Murcia-condena-al-alcalde-de-Torre-Pacheco-y-dos-concejales-por-prevaricacion-administrativa-); los de los dos recurrentes de 2022 se contrastan con [elDiario.es](https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html), sin convertir seudónimos en identidades por inferencia. La sentencia de 2022 reproduce también seis absoluciones de instancia, pero esta ficha no les asigna identidades sin una fuente nominal contrastada.
-
-La [STS 630/2022](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d076077137abb7bfa0a8778d75e36f0d&encode=true&databasematch=AN) explica por qué los seis meses se añaden a la pena anterior: trata los hechos susceptibles de continuidad delictiva de manera unitaria y descuenta los diez años ya impuestos. No significa que se impusieran diez años nuevos en cada procedimiento. El fallo de 2022 dice que no cabe recurso; la firmeza de la condena anterior aparece expresamente mencionada en su fundamentación y antecedentes. Eso no equivale a acreditar ejecución, extinción o ausencia de actuaciones constitucionales posteriores.
-
-No se incorpora un daño patrimonial cuantificado. El primer original recoge **776.522 euros** de contratos; contiene además una discrepancia interna de transcripción en un pasaje, que no se resuelve convirtiendo ninguna cifra en daño. El segundo recoge **511.355,73 euros**. Son importes contractuales de procedimientos distintos, no indemnizaciones ni dinero declarado sustraído. No se suman entre sí ni a estimaciones de otras causas; tampoco se suman las costas.
-
-La [dimisión de julio de 2014](https://www.lasexta.com/noticias/nacional/alcalde-torre-pacheco-dimite-ser-condenado-prevaricacion_20140723572b2a606584a8e744e39e0e.html) consta en la noticia citada. Tampoco se adopta la referencia de otra noticia de 2015 a junio de 2014: la información contemporánea del anuncio es de 23 de julio. Falta cotejar el acta de toma de conocimiento por el pleno.
-
-Al **17 de octubre de 2026**, faltan documentos para completar los primeros trámites y acreditar la ejecución y eventuales actuaciones posteriores. Las resoluciones constan de 19 y 9 páginas. Su exportación en octubre de 2026 no altera las fechas judiciales de 2015 y 2022. No consta el cierre de la ejecución.

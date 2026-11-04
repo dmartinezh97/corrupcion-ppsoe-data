@@ -8,50 +8,30 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Causa por presunta doble venta; desenlace no documentado
-descripcion: >-
-  El caso se refiere a la presunta doble venta del local número 3 de la promoción Reina Sofía por la Empresa
-  Municipal de Suelo y Vivienda de La Línea de la Concepción (Emusvil), en Cádiz. La información de enero de
-  2012 sitúa un primer contrato el 6 de mayo de 2009, con un precio de 267.000 euros, y una segunda venta el
-  24 de noviembre de 2010 por 186.900 euros. La primera operación se describió también como compensación en
-  especie, con un local y dos garajes. Esas cantidades son precios o valoraciones contractuales, no una
-  cuantificación judicial de perjuicio penal. No se han recuperado los contratos o escrituras originales ni se
-  identifica el primer contrato como inicio del procedimiento judicial.
+descripcion: |-
+  El caso se refiere a la presunta doble venta del local número 3 de la promoción Reina Sofía por la Empresa Municipal de Suelo y Vivienda de La Línea de la Concepción (Emusvil), en Cádiz. La información de enero de 2012 sitúa un primer contrato el 6 de mayo de 2009, con un precio de 267.000 euros, y una segunda venta el 24 de noviembre de 2010 por 186.900 euros. La primera operación se describió también como compensación en especie, con un local y dos garajes. Esas cantidades son precios o valoraciones contractuales, no una cuantificación judicial de perjuicio penal. No se han recuperado los contratos o escrituras originales ni se identifica el primer contrato como inicio del procedimiento judicial.
 
+  La noticia publicada el 28 de enero de 2012 identificaba como imputados a Alejandro Sánchez y María Cruz Atienza por el Juzgado número 1 de La Línea. El Mundo informó el 20 de febrero de 2015 de que la Audiencia Provincial de Cádiz, sección de Algeciras, desestimó el recurso de Sánchez y mantuvo su imputación por estafa en la modalidad de doble venta, dejando paso al juicio junto a otras dos personas. Según esa crónica, se descartó la imputación de prevaricación y la acusación particular solicitaba cuatro años de prisión: no era una condena ni una pena impuesta. El artículo cita a Juan Carlos Montero, mientras el acta municipal de 2016 se refiere a Juan Montero; no se han recuperado resoluciones que permitan cerrar su identidad y cargo. La participación atribuida a cada persona y el conocimiento de la segunda operación eran cuestiones pendientes de enjuiciamiento, no hechos declarados probados en sentencia.
 
-  La noticia publicada el 28 de enero de 2012 identificaba como imputados a Alejandro Sánchez y María Cruz
-  Atienza por el Juzgado número 1 de La Línea. El Mundo informó el 20 de febrero de 2015 de que la Audiencia
-  Provincial de Cádiz, sección de Algeciras, desestimó el recurso de Sánchez y mantuvo su imputación por
-  estafa en la modalidad de doble venta, dejando paso al juicio junto a otras dos personas. Según esa crónica,
-  se descartó la imputación de prevaricación y la acusación particular solicitaba cuatro años de prisión: no
-  era una condena ni una pena impuesta. El artículo cita a Juan Carlos Montero, mientras el acta municipal de
-  2016 se refiere a Juan Montero; no se han recuperado resoluciones que permitan cerrar su identidad y cargo.
-  La participación atribuida a cada persona y el conocimiento de la segunda operación eran cuestiones
-  pendientes de enjuiciamiento, no hechos declarados probados en sentencia.
+  Alejandro Sánchez García fue nombrado director del Gabinete del Secretario de Estado de Seguridad mediante Orden INT/2202/2012, de 13 de octubre, publicada el 16. La Orden INT/588/2015, de 30 de marzo, dispuso su cese y se publicó el 7 de abril. Los textos del BOE acreditan ambos actos, pero el cese no expresa su motivación. No se atribuye por tanto a las preguntas parlamentarias que se difundieron el 5 de abril una causalidad que esos documentos no establecen.
 
+  El acta en borrador del pleno de 7 de abril de 2016 recoge un escrito que invocaba un contrato de 2 de marzo de 2012 y reconocía 382.398,21 euros de principal por daños y perjuicios, con pagos parciales y una reclamación de intereses. El escrito menciona 37.673,64 euros en un pasaje y 37.663,64 en su liquidación final. El alcalde discrepaba de que el obligado contractual fuera el Ayuntamiento y sostenía que había firmado Emusvil. Son manifestaciones y documentos leídos en un debate municipal, no una sentencia penal ni una resolución que fije un daño global. Una nota municipal sobre el consejo de administración comunica el rechazo del pago de esos intereses; su contenido remite a las cuentas de 2015 y al pleno de abril, por lo que no se toma una fecha de la web como un nuevo acto de 2026.
 
-  Alejandro Sánchez García fue nombrado director del Gabinete del Secretario de Estado de Seguridad mediante
-  Orden INT/2202/2012, de 13 de octubre, publicada el 16. La Orden INT/588/2015, de 30 de marzo, dispuso su
-  cese y se publicó el 7 de abril. Los textos del BOE acreditan ambos actos, pero el cese no expresa su
-  motivación. No se atribuye por tanto a las preguntas parlamentarias que se difundieron el 5 de abril una
-  causalidad que esos documentos no establecen.
+  Hasta el 17 de octubre de 2026 no se ha localizado aquí el auto de apelación de 2015, una sentencia posterior por la doble venta o su firmeza, ni el resultado judicial de las reclamaciones económicas. La ausencia de noticias no demuestra que el procedimiento continúe abierto, que se archivara o que hubiera condena. El archivo anunciado en junio de 2017 se refiere a otra denuncia sobre la adjudicación de las obras de Reina Sofía, no acredita el cierre de la doble venta. La identidad y situación individual de Juan Montero y el alcance exacto de los importes requieren originales adicionales.
 
+  ### Presunta doble venta
 
-  El acta en borrador del pleno de 7 de abril de 2016 recoge un escrito que invocaba un contrato de 2 de marzo
-  de 2012 y reconocía 382.398,21 euros de principal por daños y perjuicios, con pagos parciales y una
-  reclamación de intereses. El escrito menciona 37.673,64 euros en un pasaje y 37.663,64 en su liquidación
-  final. El alcalde discrepaba de que el obligado contractual fuera el Ayuntamiento y sostenía que había
-  firmado Emusvil. Son manifestaciones y documentos leídos en un debate municipal, no una sentencia penal ni
-  una resolución que fije un daño global. Una nota municipal sobre el consejo de administración comunica el
-  rechazo del pago de esos intereses; su contenido remite a las cuentas de 2015 y al pleno de abril, por lo
-  que no se toma una fecha de la web como un nuevo acto de 2026.
+  La causa examinaba contratos relativos al mismo local de Emusvil y el conocimiento que tenían sus responsables de las operaciones realizadas. Las noticias sobre imputación y continuación hacia juicio no sustituyen una sentencia ni acreditan culpabilidad. La petición particular de cuatro años de prisión no es una condena.
 
+  El archivo anunciado en 2017 sobre la adjudicación de las obras de Reina Sofía tiene un objeto diferente. No se utiliza como desenlace de la doble venta.
 
-  Hasta el 17 de octubre de 2026 no se ha localizado aquí el auto de apelación de 2015, una sentencia
-  posterior por la doble venta o su firmeza, ni el resultado judicial de las reclamaciones económicas. La
-  ausencia de noticias no demuestra que el procedimiento continúe abierto, que se archivara o que hubiera
-  condena. El archivo anunciado en junio de 2017 se refiere a otra denuncia sobre la adjudicación de las obras
-  de Reina Sofía, no acredita el cierre de la doble venta. La identidad y situación individual de Juan Montero
-  y el alcance exacto de los importes requieren originales adicionales.
+  ### Reclamaciones económicas y desenlace pendiente de acreditar
+
+  Los precios publicados de 267.000 y 186.900 euros describen las operaciones. El principal de 382.398,21 euros y los intereses aparecen en una reclamación leída en el pleno de 2016. El acta conserva tanto una discrepancia de diez euros en los intereses como la discusión sobre quién había firmado el contrato. Ninguno de esos conceptos se suma como daño penal global.
+
+  La nota municipal sobre el rechazo de los intereses remite a las cuentas de 2015 y al pleno de abril; no acredita un nuevo acuerdo de 2026. Tampoco acredita el resultado judicial penal o económico. Faltan el auto de apelación de 2015, el fallo posterior y la aclaración de la identidad y situación de Juan Montero.
+
+  Fuentes complementarias: [nota municipal sobre los intereses](https://lalinea.es/el-consejo-de-administracion-de-emusvil-emplaza-a-una-proxima-reunion-la-modificacion-de-los-estatutos-de-la-empresa/) y [archivo de la denuncia distinta sobre obras](https://www.andaluciainformacion.es/articulo/campo-gibraltar/archivada-la-denuncia-en-contra-de-emusvil-por-obras-en-reina-sofia/201706061505361888472.html).
 resumen: Presunta doble venta de un local de la empresa municipal Emusvil en La Línea de la Concepción, con cargos
   del PP imputados y resultado judicial desconocido; sin sentencia localizada.
 lugar: La Línea de la Concepción, Cádiz, Andalucía
@@ -191,17 +171,3 @@ cronologia:
   urls:
   - https://www.lalinea.es/recursos/actas%20plenos/2016/0616%20ACTA%20PLENO%20ORDINARIO%2007-04-16.pdf
 ---
-
-## Presunta doble venta
-
-La causa examinaba contratos relativos al mismo local de Emusvil y el conocimiento que tenían sus responsables de las operaciones realizadas. Las noticias sobre imputación y continuación hacia juicio no sustituyen una sentencia ni acreditan culpabilidad. La petición particular de cuatro años de prisión no es una condena.
-
-El archivo anunciado en 2017 sobre la adjudicación de las obras de Reina Sofía tiene un objeto diferente. No se utiliza como desenlace de la doble venta.
-
-## Reclamaciones económicas y desenlace pendiente de acreditar
-
-Los precios publicados de 267.000 y 186.900 euros describen las operaciones. El principal de 382.398,21 euros y los intereses aparecen en una reclamación leída en el pleno de 2016. El acta conserva tanto una discrepancia de diez euros en los intereses como la discusión sobre quién había firmado el contrato. Ninguno de esos conceptos se suma como daño penal global.
-
-La nota municipal sobre el rechazo de los intereses remite a las cuentas de 2015 y al pleno de abril; no acredita un nuevo acuerdo de 2026. Tampoco acredita el resultado judicial penal o económico. Faltan el auto de apelación de 2015, el fallo posterior y la aclaración de la identidad y situación de Juan Montero.
-
-Fuentes complementarias: [nota municipal sobre los intereses](https://lalinea.es/el-consejo-de-administracion-de-emusvil-emplaza-a-una-proxima-reunion-la-modificacion-de-los-estatutos-de-la-empresa/) y [archivo de la denuncia distinta sobre obras](https://www.andaluciainformacion.es/articulo/campo-gibraltar/archivada-la-denuncia-en-contra-de-emusvil-por-obras-en-reina-sofia/201706061505361888472.html).

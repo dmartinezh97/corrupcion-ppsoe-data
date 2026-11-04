@@ -8,23 +8,28 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: cerrado con condenas
-descripcion: 'La Audiencia Provincial de Málaga condenó el 18 de enero de 2012 al alcalde de Alhaurín el Grande,
-  Juan Martín Serón, y al concejal de Urbanismo, José Gregorio Guerra Gil, por un delito de cohecho. Los hechos
-  probados sitúan la exigencia insistente de 122.000 euros desde al menos mayo de 2006 como contrapartida de una
-  licencia ya concedida en abril. La sentencia impuso a cada uno 200.000 euros de multa y un año de suspensión de
-  empleo o cargo público municipal, con responsabilidad personal subsidiaria de seis meses.
+descripcion: |-
+  La Audiencia Provincial de Málaga condenó el 18 de enero de 2012 al alcalde de Alhaurín el Grande, Juan Martín Serón, y al concejal de Urbanismo, José Gregorio Guerra Gil, por un delito de cohecho. Los hechos probados sitúan la exigencia insistente de 122.000 euros desde al menos mayo de 2006 como contrapartida de una licencia ya concedida en abril. La sentencia impuso a cada uno 200.000 euros de multa y un año de suspensión de empleo o cargo público municipal, con responsabilidad personal subsidiaria de seis meses.
 
+  Ambos fueron absueltos de otros doce delitos de cohecho; los restantes acusados también resultaron absueltos tras retirar la Fiscalía la acusación. La Audiencia no consideró acreditada la trama general de cobros a promotores inicialmente sostenida por la acusación. La STS 684/2013, de 3 de septiembre, desestimó los recursos de los dos condenados; se difundió el 8 de octubre. El Supremo encuadra la conducta en el artículo 425 entonces vigente y la distingue del cohecho impropio del artículo 426.
 
-  Ambos fueron absueltos de otros doce delitos de cohecho; los restantes acusados también resultaron absueltos tras
-  retirar la Fiscalía la acusación. La Audiencia no consideró acreditada la trama general de cobros a promotores
-  inicialmente sostenida por la acusación. La STS 684/2013, de 3 de septiembre, desestimó los recursos de los dos
-  condenados; se difundió el 8 de octubre. El Supremo encuadra la conducta en el artículo 425 entonces vigente y
-  la distingue del cohecho impropio del artículo 426.
+  La prensa documentó el regreso de Martín Serón a la alcaldía en noviembre de 2014, ya fuera del PP. No se ha comprobado la ejecución completa de las multas ni eventuales incidencias posteriores hasta el corte del 17 de octubre de 2026.
 
+  ### Condena y absoluciones
 
-  La prensa documentó el regreso de Martín Serón a la alcaldía en noviembre de 2014, ya fuera del PP. No se ha comprobado
-  la ejecución completa de las multas ni eventuales incidencias posteriores hasta el corte del 17 de octubre de
-  2026.'
+  El fallo se refiere a una exigencia concreta de dinero por una licencia ya otorgada. No acredita una trama general de extorsión a todos los promotores: los hechos probados de la Audiencia rechazan expresamente que se demostrase ese sistema entre 2002 y 2006. Los restantes acusados fueron absueltos, no condenados por el hecho de haber figurado inicialmente en la causa. La condena de los dos cargos quedó confirmada en casación, sin que ello acredite por sí solo todos los actos posteriores de ejecución.
+
+  La ficha precisa la condena como cohecho del artículo 425 del Código Penal aplicable a los hechos, denominado subsiguiente en la portada del Supremo. La STS lo diferencia del artículo 426 invocado por la defensa; su fundamentación también utiliza «cohecho pasivo impropio» al explicar la evolución de estos tipos, por lo que esa expresión no debe confundirse por sí sola con una absolución o una tipificación distinta. Asimismo, la suspensión de cargo público es distinta de una pena de prisión directa: los seis meses del fallo son responsabilidad personal subsidiaria vinculada a la multa.
+
+  ### Dinero y seguimiento pendiente
+
+  Los 122.000 euros son la cantidad exigida; no se presentan como pago efectivamente recibido ni como daño público. Las multas de 200.000 euros por condenado son penas y no se suman a aquella cantidad para calcular un coste. No se fija un perjuicio económico indemnizable en esta ficha.
+
+  Se han obtenido dos PDF judiciales originales del Poder Judicial, verificados por contenido, fecha y número de páginas. Las fechas de creación de los archivos y de las noticias no sustituyen las fechas de las sentencias.
+
+  Cadena SER documentó el 8 de noviembre de 2013 la comunicación de firmeza a ambos condenados y el comienzo de la suspensión. Se atribuye esta información a la noticia: no se ha obtenido el auto original ni se acredita con ella el pago de la multa.
+
+  Quedan pendientes los autos de ejecución, el pago completo de las multas y cualquier incidencia o recurso ulterior hasta el 17 de octubre de 2026. No consta una revocación; ello no demuestra la ausencia de novedades. No están acreditados el origen atribuido al nombre de la operación, las fechas exactas de 2006 y 2009 ni el apoyo del PP al regreso político.
 resumen: Condena por cohecho a Martín Serón y Guerra, confirmada por la STS de 3 de septiembre de 2013. Hubo absoluciones
   de los restantes acusados y de otros doce delitos; ejecución económica pendiente de comprobar.
 lugar: Alhaurín el Grande, Málaga, Andalucía
@@ -109,19 +114,3 @@ cronologia:
   urls:
   - https://www.eldiario.es/andalucia/martin-seron-alhaurin-grande-hoy_1_4527317.html
 ---
-
-## Condena y absoluciones
-
-El fallo se refiere a una exigencia concreta de dinero por una licencia ya otorgada. No acredita una trama general de extorsión a todos los promotores: los hechos probados de la Audiencia rechazan expresamente que se demostrase ese sistema entre 2002 y 2006. Los restantes acusados fueron absueltos, no condenados por el hecho de haber figurado inicialmente en la causa. La condena de los dos cargos quedó confirmada en casación, sin que ello acredite por sí solo todos los actos posteriores de ejecución.
-
-La ficha precisa la condena como cohecho del artículo 425 del Código Penal aplicable a los hechos, denominado subsiguiente en la portada del Supremo. La STS lo diferencia del artículo 426 invocado por la defensa; su fundamentación también utiliza «cohecho pasivo impropio» al explicar la evolución de estos tipos, por lo que esa expresión no debe confundirse por sí sola con una absolución o una tipificación distinta. Asimismo, la suspensión de cargo público es distinta de una pena de prisión directa: los seis meses del fallo son responsabilidad personal subsidiaria vinculada a la multa.
-
-## Dinero y seguimiento pendiente
-
-Los 122.000 euros son la cantidad exigida; no se presentan como pago efectivamente recibido ni como daño público. Las multas de 200.000 euros por condenado son penas y no se suman a aquella cantidad para calcular un coste. No se fija un perjuicio económico indemnizable en esta ficha.
-
-Se han obtenido dos PDF judiciales originales del Poder Judicial, verificados por contenido, fecha y número de páginas. Las fechas de creación de los archivos y de las noticias no sustituyen las fechas de las sentencias.
-
-Cadena SER documentó el 8 de noviembre de 2013 la comunicación de firmeza a ambos condenados y el comienzo de la suspensión. Se atribuye esta información a la noticia: no se ha obtenido el auto original ni se acredita con ella el pago de la multa.
-
-Quedan pendientes los autos de ejecución, el pago completo de las multas y cualquier incidencia o recurso ulterior hasta el 17 de octubre de 2026. No consta una revocación; ello no demuestra la ausencia de novedades. No están acreditados el origen atribuido al nombre de la operación, las fechas exactas de 2006 y 2009 ni el apoyo del PP al regreso político.

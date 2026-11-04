@@ -8,30 +8,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas de primera instancia y archivos individuales
-descripcion: 'La pieza separada 3 de Púnica, enjuiciada como procedimiento abreviado 6/2022, se centra en la concertación
-  para financiar la reputación digital personal del consejero murciano Juan Carlos Ruiz mediante un contrato institucional
-  del Instituto de Turismo adjudicado a MADIVA. La sentencia 23/2025 de la Sección Primera de la Sala de lo Penal
-  de la Audiencia Nacional, fechada el 1 de septiembre de 2025 y difundida el 8 de septiembre, condenó a nueve personas.
-  El juicio comenzó el 13 de enero de 2025.
+descripcion: |-
+  La pieza separada 3 de Púnica, enjuiciada como procedimiento abreviado 6/2022, se centra en la concertación para financiar la reputación digital personal del consejero murciano Juan Carlos Ruiz mediante un contrato institucional del Instituto de Turismo adjudicado a MADIVA. La sentencia 23/2025 de la Sección Primera de la Sala de lo Penal de la Audiencia Nacional, fechada el 1 de septiembre de 2025 y difundida el 8 de septiembre, condenó a nueve personas. El juicio comenzó el 13 de enero de 2025.
 
+  Ruiz, José Fidel Saura y María Dolores Martínez Robles recibieron cada uno un año de prisión por fraude y tres por cohecho pasivo, además de inhabilitaciones por fraude, prevaricación y cohecho y multa de doce meses a diez euros diarios. Alejandro de Pedro y José Antonio Alonso Conesa, exalcalde de Cartagena por el PSOE, recibieron cada uno un año por fraude y tres por cohecho activo, multa e inhabilitaciones para contratar y recibir ayudas públicas. Jesús Norberto Galindo y Agustín Alonso recibieron un año de prisión cada uno, y Francisco Javier Bueno y Sara Gargallo seis meses cada uno, por fraude con distinta participación. Los cinco particulares fueron absueltos de prevaricación. La sentencia no impone responsabilidad civil porque no se produjo perjuicio económico, ni acuerda comiso; los presupuestos o contratos no equivalen a daño probado.
 
-  Ruiz, José Fidel Saura y María Dolores Martínez Robles recibieron cada uno un año de prisión por fraude y tres
-  por cohecho pasivo, además de inhabilitaciones por fraude, prevaricación y cohecho y multa de doce meses a diez
-  euros diarios. Alejandro de Pedro y José Antonio Alonso Conesa, exalcalde de Cartagena por el PSOE, recibieron
-  cada uno un año por fraude y tres por cohecho activo, multa e inhabilitaciones para contratar y recibir ayudas
-  públicas. Jesús Norberto Galindo y Agustín Alonso recibieron un año de prisión cada uno, y Francisco Javier Bueno
-  y Sara Gargallo seis meses cada uno, por fraude con distinta participación. Los cinco particulares fueron absueltos
-  de prevaricación. La sentencia no impone responsabilidad civil porque no se produjo perjuicio económico, ni acuerda
-  comiso; los presupuestos o contratos no equivalen a daño probado.
+  La sentencia declara expresamente que no es firme y que cabe casación. No se ha documentado el resultado de eventuales recursos ni su ejecución al 17 de octubre de 2026. Una magistrada discrepó sobre el cohecho, el concurso de delitos y las referencias a personas no acusadas. Los hechos de Educación y Cartagena y parte de los relativos al Instituto de Fomento quedaron fuera del enjuiciamiento: no deben trasladarse las condenas a Pedro Antonio Sánchez, Pilar Barreiro ni otras personas sobreseídas. Barreiro obtuvo sobreseimiento provisional en el Supremo el 25 de octubre de 2018; el archivo de Sánchez fue confirmado según información de octubre de 2020, cuyo original no se ha recuperado. Estos límites impiden considerar cerrada de forma uniforme toda la rama murciana.
 
+  El objeto juzgado es la pieza separada 3, no la totalidad de las actuaciones murcianas ni la macrocausa Púnica. La contratación del Instituto de Turismo sirvió para encubrir los trabajos reputacionales de Juan Carlos Ruiz. Las referencias de la sentencia a Educación, Cartagena o personas no acusadas no deben convertirse en condenas ni en hechos penales resueltos contra ellas. El voto particular objeta expresamente ese tratamiento del contexto, además de discrepar del cohecho, de la participación de particulares en prevaricación y de la acumulación de penas.
 
-  La sentencia declara expresamente que no es firme y que cabe casación. No se ha documentado el resultado de eventuales
-  recursos ni su ejecución al 17 de octubre de 2026. Una magistrada discrepó sobre el cohecho, el concurso de delitos
-  y las referencias a personas no acusadas. Los hechos de Educación y Cartagena y parte de los relativos al Instituto
-  de Fomento quedaron fuera del enjuiciamiento: no deben trasladarse las condenas a Pedro Antonio Sánchez, Pilar
-  Barreiro ni otras personas sobreseídas. Barreiro obtuvo sobreseimiento provisional en el Supremo el 25 de octubre
-  de 2018; el archivo de Sánchez fue confirmado según información de octubre de 2020, cuyo original no se ha recuperado.
-  Estos límites impiden considerar cerrada de forma uniforme toda la rama murciana.'
+  El fallo distingue fraude, prevaricación y cohecho. Para Ruiz, Saura y Martínez impone inhabilitaciones separadas de seis, siete y siete años por esos delitos; no una única inhabilitación de siete años. Para Galindo son seis años por fraude y siete por prevaricación. Los particulares tienen prohibiciones de contratar y recibir ayudas públicas, además de las penas de prisión, multas en los casos de cohecho, sufragio pasivo y costas expresadas en el [fallo de 2025](https://www.losgenoveses.net/Caso%20Punica/03.%20PS3%20Murcia/Punica.%20PS3%20Murcia.%20Sentencia%20condenatoria%20Consejero%20de%20Industria,%20Alex%20de%20Pedro%20y%20otros.%2001.09.25..pdf). No se presenta su duración acumulada como ejecución ya determinada.
+
+  El fundamento noveno no declara responsabilidad civil porque no hubo perjuicio económico y el décimo no acuerda comiso. El presupuesto de 32.200 euros no acredita un daño de la causa; tampoco pueden sumarse contratos y multas como perjuicio. La inexistencia de responsabilidad civil en esta sentencia tampoco elimina las condenas por delitos de concertación.
+
+  El [auto original del Supremo de 2018](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=f7f8c5b5b8671a7a&encode=true&databasematch=AN), vinculado nominalmente a Barreiro por la [nota oficial](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-archiva-la-causa-contra-la-senadora-del-Partido-Popular-Pilar-Barreiro), dispone sobreseimiento provisional, aunque el voto particular de 2025 lo describa como definitivo. Se conserva la calificación del propio auto. El archivo de Sánchez se sigue mediante la [información de octubre de 2020](https://el-lorquino.com/region-de-murcia/la-audiencia-nacional-confirma-el-sobreseimiento-de-la-causa-contra-el-expresidente-de-la-region-de-murcia-pedro-antonio-sanchez/102864/); faltan sus resoluciones originales. La condena de 2025 dice que cabe casación: sin documentación posterior no se afirma firmeza, recurso actualmente pendiente ni ingreso en prisión. La copia judicial de 197 páginas está alojada fuera del portal judicial; el auto de Barreiro procede de CENDOJ.
 resumen: Nueve condenados por el contrato de reputación digital de Juan Carlos Ruiz; archivos diferenciados y firmeza
   posterior no documentada.
 lugar: Región de Murcia
@@ -160,11 +150,3 @@ cronologia:
   urls:
   - https://www.losgenoveses.net/Caso%20Punica/03.%20PS3%20Murcia/Punica.%20PS3%20Murcia.%20Sentencia%20condenatoria%20Consejero%20de%20Industria,%20Alex%20de%20Pedro%20y%20otros.%2001.09.25..pdf
 ---
-
-El objeto juzgado es la pieza separada 3, no la totalidad de las actuaciones murcianas ni la macrocausa Púnica. La contratación del Instituto de Turismo sirvió para encubrir los trabajos reputacionales de Juan Carlos Ruiz. Las referencias de la sentencia a Educación, Cartagena o personas no acusadas no deben convertirse en condenas ni en hechos penales resueltos contra ellas. El voto particular objeta expresamente ese tratamiento del contexto, además de discrepar del cohecho, de la participación de particulares en prevaricación y de la acumulación de penas.
-
-El fallo distingue fraude, prevaricación y cohecho. Para Ruiz, Saura y Martínez impone inhabilitaciones separadas de seis, siete y siete años por esos delitos; no una única inhabilitación de siete años. Para Galindo son seis años por fraude y siete por prevaricación. Los particulares tienen prohibiciones de contratar y recibir ayudas públicas, además de las penas de prisión, multas en los casos de cohecho, sufragio pasivo y costas expresadas en el [fallo de 2025](https://www.losgenoveses.net/Caso%20Punica/03.%20PS3%20Murcia/Punica.%20PS3%20Murcia.%20Sentencia%20condenatoria%20Consejero%20de%20Industria,%20Alex%20de%20Pedro%20y%20otros.%2001.09.25..pdf). No se presenta su duración acumulada como ejecución ya determinada.
-
-El fundamento noveno no declara responsabilidad civil porque no hubo perjuicio económico y el décimo no acuerda comiso. El presupuesto de 32.200 euros no acredita un daño de la causa; tampoco pueden sumarse contratos y multas como perjuicio. La inexistencia de responsabilidad civil en esta sentencia tampoco elimina las condenas por delitos de concertación.
-
-El [auto original del Supremo de 2018](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=f7f8c5b5b8671a7a&encode=true&databasematch=AN), vinculado nominalmente a Barreiro por la [nota oficial](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-archiva-la-causa-contra-la-senadora-del-Partido-Popular-Pilar-Barreiro), dispone sobreseimiento provisional, aunque el voto particular de 2025 lo describa como definitivo. Se conserva la calificación del propio auto. El archivo de Sánchez se sigue mediante la [información de octubre de 2020](https://el-lorquino.com/region-de-murcia/la-audiencia-nacional-confirma-el-sobreseimiento-de-la-causa-contra-el-expresidente-de-la-region-de-murcia-pedro-antonio-sanchez/102864/); faltan sus resoluciones originales. La condena de 2025 dice que cabe casación: sin documentación posterior no se afirma firmeza, recurso actualmente pendiente ni ingreso en prisión. La copia judicial de 197 páginas está alojada fuera del portal judicial; el auto de Barreiro procede de CENDOJ.

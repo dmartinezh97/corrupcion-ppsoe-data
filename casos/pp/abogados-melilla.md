@@ -8,30 +8,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condena y absoluciones en apelación; piezas separadas
-descripcion: 'La contratación de abogados externos de Melilla dio lugar a procedimientos con resultados distintos.
-  En la rama de Bienestar Social, el Juzgado de lo Penal número 1 condenó en 2017 a María Antonia Garbín a diez
-  años de inhabilitación por prevaricación administrativa continuada y a otras trece personas, entre funcionarios
-  y letrados, a penas de inhabilitación. Europa Press informó el 12 de enero de 2019 de que la Sección Séptima de
-  la Audiencia Provincial de Málaga, con sede en Melilla, confirmó la condena de Garbín y absolvió a los otros trece,
-  con un voto discrepante favorable también a ella. Garbín dimitió como diputada el 15 de enero de 2019. No se han
-  verificado los originales de esas sentencias ni una declaración de firmeza o el resultado de eventuales impugnaciones
-  posteriores; las fechas de esas noticias no se presentan como fechas exactas de las resoluciones.
+descripcion: |-
+  La contratación de abogados externos de Melilla dio lugar a procedimientos con resultados distintos. En la rama de Bienestar Social, el Juzgado de lo Penal número 1 condenó en 2017 a María Antonia Garbín a diez años de inhabilitación por prevaricación administrativa continuada y a otras trece personas, entre funcionarios y letrados, a penas de inhabilitación. Europa Press informó el 12 de enero de 2019 de que la Sección Séptima de la Audiencia Provincial de Málaga, con sede en Melilla, confirmó la condena de Garbín y absolvió a los otros trece, con un voto discrepante favorable también a ella. Garbín dimitió como diputada el 15 de enero de 2019. No se han verificado los originales de esas sentencias ni una declaración de firmeza o el resultado de eventuales impugnaciones posteriores; las fechas de esas noticias no se presentan como fechas exactas de las resoluciones.
 
+  La contratación atribuida a Garbín comprendía 91 contratos de asesoramiento jurídico entre 2003 y 2013, por 1.114.510,91 euros, según la sentencia citada por Europa Press. Es volumen de contratación, no un perjuicio económico acreditado. En otra pieza, relativa al letrado Juan Jesús Olivares Amaya, el Supremo asumió el 2 de febrero de 2015 la investigación de Juan José Imbroda por su condición de senador. El instructor acordó el sobreseimiento libre el 6 de abril de 2015 al considerar los hechos no constitutivos de infracción penal. El Mundo informó el 14 de julio de que se había rechazado el recurso de la Fiscalía por prescripción; no se ha recuperado ese segundo auto.
 
-  La contratación atribuida a Garbín comprendía 91 contratos de asesoramiento jurídico entre 2003 y 2013, por 1.114.510,91
-  euros, según la sentencia citada por Europa Press. Es volumen de contratación, no un perjuicio económico acreditado.
-  En otra pieza, relativa al letrado Juan Jesús Olivares Amaya, el Supremo asumió el 2 de febrero de 2015 la investigación
-  de Juan José Imbroda por su condición de senador. El instructor acordó el sobreseimiento libre el 6 de abril de
-  2015 al considerar los hechos no constitutivos de infracción penal. El Mundo informó el 14 de julio de que se
-  había rechazado el recurso de la Fiscalía por prescripción; no se ha recuperado ese segundo auto.
+  En esa última rama, el auto original distingue 38.030,36 euros de provisiones de fondos y 357.397,10 euros de honorarios al letrado: tampoco son una declaración de daño. El archivo de Imbroda no equivale a un archivo de todos los demás investigados. Europa Press documentó el 1 de abril de 2015 la citación como imputados de Miguel Marín, Rafael Hernández Soler, Inés Urdiales, Olivares y dos funcionarios en el juzgado de instrucción número 2. No se ha acreditado su desenlace posterior ni su situación a 17 de octubre de 2026; no se presume que continúen investigados ni que hayan sido condenados.
 
+  La rama de Bienestar Social y la contratación del letrado para litigios laborales no tienen un desenlace común. La [información de Europa Press sobre la apelación](https://www.europapress.es/ceuta-y-melilla/noticia-audiencia-mantiene-condena-diez-anos-inhabilitacion-diputada-autonomica-pp-melilla-20190112170059.html) recoge la condena de Garbín y las absoluciones de los otros trece acusados. Estas últimas no deben seguir presentándose como condenas. La [dimisión del 15 de enero de 2019](https://www.europapress.es/ceuta-y-melilla/noticia-dimite-garbin-diputada-autonomica-pp-melilla-confirmarse-condena-diez-anos-inhabilitacion-20190115173627.html) es una consecuencia política documentada, pero no sustituye una declaración judicial de firmeza.
 
-  En esa última rama, el auto original distingue 38.030,36 euros de provisiones de fondos y 357.397,10 euros de
-  honorarios al letrado: tampoco son una declaración de daño. El archivo de Imbroda no equivale a un archivo de
-  todos los demás investigados. Europa Press documentó el 1 de abril de 2015 la citación como imputados de Miguel
-  Marín, Rafael Hernández Soler, Inés Urdiales, Olivares y dos funcionarios en el juzgado de instrucción número
-  2. No se ha acreditado su desenlace posterior ni su situación a 17 de octubre de 2026; no se presume que continúen
-  investigados ni que hayan sido condenados.'
+  El [auto original del Supremo de 6 de abril de 2015](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/Auto%20TS%20penal%2006-04-2015.pdf) identifica las diligencias previas 838/2011 y la causa especial 20632/2014. Resuelve únicamente respecto del aforado. Distingue la eventual irregularidad administrativa de los requisitos del delito de prevaricación y acuerda el sobreseimiento libre. La [noticia del rechazo del recurso fiscal](https://www.elmundo.es/espana/2015/07/14/55a53d2f268e3ec8048b4599.html) añade la prescripción como fundamento del archivo confirmado. No se extiende este resultado a los no aforados cuya [citación se publicó en abril de 2015](https://www.europapress.es/ceuta-y-melilla/noticia-imputados-dos-exvicepresidentes-melilla-pp-otro-psoe-caso-abogados-20150401144257.html).
+
+  Los 1.114.510,91 euros corresponden al conjunto de contratos de la rama de Garbín. Los 38.030,36 euros de provisiones y 357.397,10 euros de honorarios constan en el relato de la contratación de Olivares del auto del Supremo. Son conceptos y ámbitos diferentes; no se suman como daño público.
+
+  Faltan las sentencias originales de primera instancia y apelación, el auto de apelación del Supremo y las resoluciones posteriores de los no aforados. Por ello no se establece una fecha de cierre conjunta ni se afirma una situación judicial vigente para todas las personas a octubre de 2026.
 resumen: La Audiencia confirmó la inhabilitación de Garbín y absolvió a otros trece acusados; el Supremo archivó
   la causa de Imbroda.
 lugar: Melilla, España
@@ -142,11 +132,3 @@ cronologia:
   urls:
   - https://www.europapress.es/ceuta-y-melilla/noticia-dimite-garbin-diputada-autonomica-pp-melilla-confirmarse-condena-diez-anos-inhabilitacion-20190115173627.html
 ---
-
-La rama de Bienestar Social y la contratación del letrado para litigios laborales no tienen un desenlace común. La [información de Europa Press sobre la apelación](https://www.europapress.es/ceuta-y-melilla/noticia-audiencia-mantiene-condena-diez-anos-inhabilitacion-diputada-autonomica-pp-melilla-20190112170059.html) recoge la condena de Garbín y las absoluciones de los otros trece acusados. Estas últimas no deben seguir presentándose como condenas. La [dimisión del 15 de enero de 2019](https://www.europapress.es/ceuta-y-melilla/noticia-dimite-garbin-diputada-autonomica-pp-melilla-confirmarse-condena-diez-anos-inhabilitacion-20190115173627.html) es una consecuencia política documentada, pero no sustituye una declaración judicial de firmeza.
-
-El [auto original del Supremo de 6 de abril de 2015](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/Auto%20TS%20penal%2006-04-2015.pdf) identifica las diligencias previas 838/2011 y la causa especial 20632/2014. Resuelve únicamente respecto del aforado. Distingue la eventual irregularidad administrativa de los requisitos del delito de prevaricación y acuerda el sobreseimiento libre. La [noticia del rechazo del recurso fiscal](https://www.elmundo.es/espana/2015/07/14/55a53d2f268e3ec8048b4599.html) añade la prescripción como fundamento del archivo confirmado. No se extiende este resultado a los no aforados cuya [citación se publicó en abril de 2015](https://www.europapress.es/ceuta-y-melilla/noticia-imputados-dos-exvicepresidentes-melilla-pp-otro-psoe-caso-abogados-20150401144257.html).
-
-Los 1.114.510,91 euros corresponden al conjunto de contratos de la rama de Garbín. Los 38.030,36 euros de provisiones y 357.397,10 euros de honorarios constan en el relato de la contratación de Olivares del auto del Supremo. Son conceptos y ámbitos diferentes; no se suman como daño público.
-
-Faltan las sentencias originales de primera instancia y apelación, el auto de apelación del Supremo y las resoluciones posteriores de los no aforados. Por ello no se establece una fecha de cierre conjunta ni se afirma una situación judicial vigente para todas las personas a octubre de 2026.

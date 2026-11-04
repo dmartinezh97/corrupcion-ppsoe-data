@@ -8,24 +8,18 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Desenlace judicial no documentado
-descripcion: 'La investigación sobre el Teatro Polivalente de Cehegín se centró en la contratación del proyecto arquitectónico
-  y en el destino de la financiación de una obra que quedó inacabada. Las noticias recogieron dudas de Fiscalía sobre el procedimiento
-  de contratación de Martín Lejárraga y sus honorarios, durante la etapa de José Soria como alcalde. Son sospechas y alegaciones
-  de la investigación, no una declaración judicial de culpabilidad.
+descripcion: |-
+  La investigación sobre el Teatro Polivalente de Cehegín se centró en la contratación del proyecto arquitectónico y en el destino de la financiación de una obra que quedó inacabada. Las noticias recogieron dudas de Fiscalía sobre el procedimiento de contratación de Martín Lejárraga y sus honorarios, durante la etapa de José Soria como alcalde. Son sospechas y alegaciones de la investigación, no una declaración judicial de culpabilidad.
 
+  En junio de 2017 se publicó la denuncia de Fiscalía contra Soria por presunta prevaricación continuada y malversación. Una información de enero de 2018 sitúa la apertura de diligencias en el Juzgado de Instrucción n.º 2 de Caravaca de la Cruz a finales de septiembre de 2017. El aforamiento de Soria como diputado planteaba una cuestión de competencia; no se ha acreditado aquí una posterior remisión al TSJ, procesamiento, juicio, sentencia o archivo. Tampoco se ha documentado su situación procesal al 15 de octubre de 2026: no puede afirmarse que siga en investigación por falta de noticias.
 
-  En junio de 2017 se publicó la denuncia de Fiscalía contra Soria por presunta prevaricación continuada y malversación. Una
-  información de enero de 2018 sitúa la apertura de diligencias en el Juzgado de Instrucción n.º 2 de Caravaca de la Cruz
-  a finales de septiembre de 2017. El aforamiento de Soria como diputado planteaba una cuestión de competencia; no se ha acreditado
-  aquí una posterior remisión al TSJ, procesamiento, juicio, sentencia o archivo. Tampoco se ha documentado su situación procesal
-  al 15 de octubre de 2026: no puede afirmarse que siga en investigación por falta de noticias.
+  La obra y las subvenciones tuvieron su propio recorrido administrativo. El Ayuntamiento anunció en mayo de 2021 que renunciaba al proyecto original y se acogía a la devolución de la subvención de la segunda fase, con un plan de pagos, proponiendo aprovechar la estructura para un centro cultural. Esa decisión no equivale a una condena penal. No se ha acreditado un perjuicio judicial de cinco millones de euros ni que una subvención de nueve millones se concediera íntegramente en 2006; presupuestos, préstamos, subvenciones y reintegros son conceptos diferentes.
 
+  La controversia reúne cuestiones diferentes: el encargo del proyecto al arquitecto, la contratación de obras, la ejecución de las fases y el destino de la financiación. La existencia de una licitación publicada en 2012 no demuestra la regularidad del encargo arquitectónico anterior; tampoco las sospechas sobre ese encargo prueban que toda la financiación fuera desviada.
 
-  La obra y las subvenciones tuvieron su propio recorrido administrativo. El Ayuntamiento anunció en mayo de 2021 que renunciaba
-  al proyecto original y se acogía a la devolución de la subvención de la segunda fase, con un plan de pagos, proponiendo
-  aprovechar la estructura para un centro cultural. Esa decisión no equivale a una condena penal. No se ha acreditado un perjuicio
-  judicial de cinco millones de euros ni que una subvención de nueve millones se concediera íntegramente en 2006; presupuestos,
-  préstamos, subvenciones y reintegros son conceptos diferentes.'
+  Las versiones públicas sobre dinero destinado a otros gastos proceden de declaraciones políticas y de noticias sobre la denuncia. Sin una liquidación contrastada o una resolución judicial no cabe convertir la diferencia entre subvención anunciada y obra ejecutada en un perjuicio penal de cinco millones. El reintegro anunciado en 2021 tiene naturaleza administrativa y no permite inferir malversación ni absolución.
+
+  No se dispone de los escritos fiscales, el auto de apertura o resoluciones posteriores que permitan determinar el resultado personal de Soria o la situación del arquitecto al 15 de octubre de 2026. El asunto de Puerto Lumbreras es una causa distinta y sus decisiones no se trasladan a Cehegín.
 resumen: Investigación sobre contratación y financiación del teatro inacabado de Cehegín, sin desenlace penal verificado.
 lugar: Cehegín, Región de Murcia
 tribunal:
@@ -116,9 +110,3 @@ cronologia:
   type: resumen
   relevancia: media
 ---
-
-La controversia reúne cuestiones diferentes: el encargo del proyecto al arquitecto, la contratación de obras, la ejecución de las fases y el destino de la financiación. La existencia de una licitación publicada en 2012 no demuestra la regularidad del encargo arquitectónico anterior; tampoco las sospechas sobre ese encargo prueban que toda la financiación fuera desviada.
-
-Las versiones públicas sobre dinero destinado a otros gastos proceden de declaraciones políticas y de noticias sobre la denuncia. Sin una liquidación contrastada o una resolución judicial no cabe convertir la diferencia entre subvención anunciada y obra ejecutada en un perjuicio penal de cinco millones. El reintegro anunciado en 2021 tiene naturaleza administrativa y no permite inferir malversación ni absolución.
-
-No se dispone de los escritos fiscales, el auto de apertura o resoluciones posteriores que permitan determinar el resultado personal de Soria o la situación del arquitecto al 15 de octubre de 2026. El asunto de Puerto Lumbreras es una causa distinta y sus decisiones no se trasladan a Cehegín.

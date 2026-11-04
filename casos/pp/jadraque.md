@@ -8,14 +8,22 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: sobreseimiento
-descripcion: Una denuncia de un vecino originó la investigación del entonces alcalde de Jadraque, Alberto Domínguez
-  Luis (PP), y familiares por el suministro municipal de gasóleo a través de una empresa de su familia. El alcalde
-  declaró como imputado en octubre de 2014 y sus hermanos fueron citados en febrero de 2015. En mayo de 2015 se
-  informó del sobreseimiento provisional por no aparecer debidamente justificada la comisión de delito. En marzo
-  de 2016, la prensa comunicó que la Audiencia de Guadalajara había desestimado la apelación y que no cabía recurso.
-  No se han obtenido los autos originales para precisar sus fechas y alcance individual ni se ha contrastado una
-  eventual reapertura hasta el 15 de octubre de 2026. El archivo comunicado no se presenta como una condena ni como
-  prueba de un daño de cero euros.
+descripcion: |-
+  Una denuncia de un vecino originó la investigación del entonces alcalde de Jadraque, Alberto Domínguez Luis (PP), y familiares por el suministro municipal de gasóleo a través de una empresa de su familia. El alcalde declaró como imputado en octubre de 2014 y sus hermanos fueron citados en febrero de 2015. En mayo de 2015 se informó del sobreseimiento provisional por no aparecer debidamente justificada la comisión de delito. En marzo de 2016, la prensa comunicó que la Audiencia de Guadalajara había desestimado la apelación y que no cabía recurso. No se han obtenido los autos originales para precisar sus fechas y alcance individual ni se ha contrastado una eventual reapertura hasta el 15 de octubre de 2026. El archivo comunicado no se presenta como una condena ni como prueba de un daño de cero euros.
+
+  La denuncia cuestionaba el suministro directo de gasóleo a edificios municipales por una empresa vinculada a la familia del alcalde. El denunciante atribuyó diversos delitos, entre ellos prevaricación, cohecho y negociaciones prohibidas. Esas calificaciones pertenecían a la denuncia: no son delitos declarados probados. El entonces alcalde explicó en su declaración que había dejado la gestión de la empresa y que el suministro se realizaba desde mandatos anteriores, alegaciones que deben distinguirse del pronunciamiento judicial.
+
+  La información publicada en febrero de 2015 documenta la condición de investigados del alcalde y de familiares citados, pero también diferencia a quienes fueron llamados como **testigos**, entre ellos el anterior alcalde socialista Faustino Lozano Leal. La petición judicial de facturas desde 2011 tampoco demuestra que la relación comercial comenzara ese año ni convierte en acusado al exalcalde por haber sido citado para testificar.
+
+  El primer resultado contrastado en prensa es el **sobreseimiento provisional conocido el 7 de mayo de 2015**. La noticia reproduce un comunicado del Ayuntamiento y señala que no aparecía debidamente justificada la comisión de delito; también recoge la discrepancia del abogado del denunciante y su recurso. Las publicaciones de marzo de 2016 informan de que la Audiencia desestimó la apelación y de que no cabía recurso contra esa resolución. No se identifica aquí ese acuerdo como una sentencia absolutoria: el procedimiento se archivó durante la investigación.
+
+  La firmeza de una resolución de archivo y la naturaleza provisional o libre del sobreseimiento son cuestiones distintas. Sin los autos completos no se puede determinar con precisión el alcance jurídico e individual del último acuerdo. Además, las crónicas de 2016 mencionan un auto de julio de 2015, mientras el archivo provisional ya había sido difundido en mayo; falta aclarar si se refieren a resoluciones sucesivas. Por eso no se atribuye al 1 de marzo de 2016 la fecha exacta de una resolución judicial ni se fija una fecha final del procedimiento basada solo en la publicación.
+
+  No se dispone de una cuantificación judicial de perjuicio, ni del importe total de los suministros, de las eventuales diferencias de precio o de una responsabilidad civil. El archivo penal no equivale a una cuantificación económica de cero euros. La explicación de que la empresa era la única de esas características en la comarca aparece en las noticias de 2016 y se conserva como parte del relato publicado, sin formular una conclusión general sobre la legalidad de cualquier contratación directa.
+
+  La web municipal identifica a Alberto Domínguez Luis como **exalcalde y concejal del PP en la corporación constituida el 17 de junio de 2023**. Esto corrige la presentación de su cargo como si siguiera siendo alcalde. No se ha contrastado una eventual reapertura de esta causa hasta el **15 de octubre de 2026**; esa laguna no permite afirmar que continúe abierta ni que hayan existido nuevas actuaciones.
+
+  Fuente del cargo histórico posterior: [Ayuntamiento de Jadraque, constitución de la corporación de 2023](https://jadraque.es/actualidad/constitucion-ayuntamiento/).
 resumen: Investigación por el suministro de gasóleo de una empresa familiar al Ayuntamiento; sobreseimiento provisional
   y confirmación del archivo comunicada en 2016.
 lugar: Jadraque, Guadalajara, Castilla-La Mancha
@@ -80,17 +88,3 @@ cronologia:
   - https://www.liberaldecastilla.com/archivada-la-denuncia-contra-el-alcalde-de-jadraque-interpuesta-por-el-ahora-concejal-del-pcas/
   - https://clmpress.com/2016/03/archivada-la-denuncia-contra-el-alcalde-de-jadraque-interpuesta-por-el-ahora-concejal-del-pcas/
 ---
-
-La denuncia cuestionaba el suministro directo de gasóleo a edificios municipales por una empresa vinculada a la familia del alcalde. El denunciante atribuyó diversos delitos, entre ellos prevaricación, cohecho y negociaciones prohibidas. Esas calificaciones pertenecían a la denuncia: no son delitos declarados probados. El entonces alcalde explicó en su declaración que había dejado la gestión de la empresa y que el suministro se realizaba desde mandatos anteriores, alegaciones que deben distinguirse del pronunciamiento judicial.
-
-La información publicada en febrero de 2015 documenta la condición de investigados del alcalde y de familiares citados, pero también diferencia a quienes fueron llamados como **testigos**, entre ellos el anterior alcalde socialista Faustino Lozano Leal. La petición judicial de facturas desde 2011 tampoco demuestra que la relación comercial comenzara ese año ni convierte en acusado al exalcalde por haber sido citado para testificar.
-
-El primer resultado contrastado en prensa es el **sobreseimiento provisional conocido el 7 de mayo de 2015**. La noticia reproduce un comunicado del Ayuntamiento y señala que no aparecía debidamente justificada la comisión de delito; también recoge la discrepancia del abogado del denunciante y su recurso. Las publicaciones de marzo de 2016 informan de que la Audiencia desestimó la apelación y de que no cabía recurso contra esa resolución. No se identifica aquí ese acuerdo como una sentencia absolutoria: el procedimiento se archivó durante la investigación.
-
-La firmeza de una resolución de archivo y la naturaleza provisional o libre del sobreseimiento son cuestiones distintas. Sin los autos completos no se puede determinar con precisión el alcance jurídico e individual del último acuerdo. Además, las crónicas de 2016 mencionan un auto de julio de 2015, mientras el archivo provisional ya había sido difundido en mayo; falta aclarar si se refieren a resoluciones sucesivas. Por eso no se atribuye al 1 de marzo de 2016 la fecha exacta de una resolución judicial ni se fija una fecha final del procedimiento basada solo en la publicación.
-
-No se dispone de una cuantificación judicial de perjuicio, ni del importe total de los suministros, de las eventuales diferencias de precio o de una responsabilidad civil. El archivo penal no equivale a una cuantificación económica de cero euros. La explicación de que la empresa era la única de esas características en la comarca aparece en las noticias de 2016 y se conserva como parte del relato publicado, sin formular una conclusión general sobre la legalidad de cualquier contratación directa.
-
-La web municipal identifica a Alberto Domínguez Luis como **exalcalde y concejal del PP en la corporación constituida el 17 de junio de 2023**. Esto corrige la presentación de su cargo como si siguiera siendo alcalde. No se ha contrastado una eventual reapertura de esta causa hasta el **15 de octubre de 2026**; esa laguna no permite afirmar que continúe abierta ni que hayan existido nuevas actuaciones.
-
-Fuente del cargo histórico posterior: [Ayuntamiento de Jadraque, constitución de la corporación de 2023](https://jadraque.es/actualidad/constitucion-ayuntamiento/).

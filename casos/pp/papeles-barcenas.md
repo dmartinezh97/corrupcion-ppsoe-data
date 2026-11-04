@@ -10,24 +10,34 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas en casación y archivo provisional de otra pieza
-descripcion: 'Los papeles de Bárcenas, publicados en enero de 2013, dieron lugar a investigaciones sobre la contabilidad
-  paralela del PP. Esta ficha distingue el proceso por el pago opaco de parte de la reforma de la sede de Génova
-  a Unifica y la investigación sobre posibles donaciones a cambio de contratos públicos. No atribuye a esta pieza
-  las penas de Gürtel ni las resoluciones sobre Kitchen, los ordenadores o la ejecución penitenciaria del extesorero.
+descripcion: |-
+  Los papeles de Bárcenas, publicados en enero de 2013, dieron lugar a investigaciones sobre la contabilidad paralela del PP. Esta ficha distingue el proceso por el pago opaco de parte de la reforma de la sede de Génova a Unifica y la investigación sobre posibles donaciones a cambio de contratos públicos. No atribuye a esta pieza las penas de Gürtel ni las resoluciones sobre Kitchen, los ordenadores o la ejecución penitenciaria del extesorero.
 
+  La Audiencia Nacional condenó en 2021 a Luis Bárcenas y a los dos administradores de Unifica; declaró al PP responsable civil subsidiario, sin condenarlo penalmente. El Supremo confirmó la defraudación tributaria en 2024, absolvió del delito de falsedad y redujo las penas: ocho meses de prisión para Bárcenas y nueve meses para cada administrador. La pieza de supuestas donaciones finalistas había sido archivada provisionalmente en diciembre de 2022 al no quedar justificada la conexión delictiva investigada; no puede afirmarse que esta investigación probase de forma general que las donaciones compraban adjudicaciones.
 
-  La Audiencia Nacional condenó en 2021 a Luis Bárcenas y a los dos administradores de Unifica; declaró al PP responsable
-  civil subsidiario, sin condenarlo penalmente. El Supremo confirmó la defraudación tributaria en 2024, absolvió
-  del delito de falsedad y redujo las penas: ocho meses de prisión para Bárcenas y nueve meses para cada administrador.
-  La pieza de supuestas donaciones finalistas había sido archivada provisionalmente en diciembre de 2022 al no quedar
-  justificada la conexión delictiva investigada; no puede afirmarse que esta investigación probase de forma general
-  que las donaciones compraban adjudicaciones.
+  La sentencia de 2021 recoge gestión de fondos no reflejados en la contabilidad oficial y pagos en negro por las obras, sin acreditar como conjunto todas las anotaciones ni condenar por cada imputación formulada. Persisten límites: no se ha recuperado el fallo original íntegro del Supremo ni los autos originales de archivo y recursos. No se atribuye firmeza universal ni se presenta la fecha de casación como cierre de todos los procedimientos relacionados.
 
+  ### Hechos, sujetos y piezas
 
-  La sentencia de 2021 recoge gestión de fondos no reflejados en la contabilidad oficial y pagos en negro por las
-  obras, sin acreditar como conjunto todas las anotaciones ni condenar por cada imputación formulada. Persisten
-  límites: no se ha recuperado el fallo original íntegro del Supremo ni los autos originales de archivo y recursos.
-  No se atribuye firmeza universal ni se presenta la fecha de casación como cierre de todos los procedimientos relacionados.'
+  La sentencia de 2021 identifica a Bárcenas como gerente desde 1990 hasta junio de 2008 y tesorero desde entonces hasta julio de 2009. No fue tesorero durante todo el período 1990-2009. Describe una contabilidad de donaciones en efectivo y gastos ajena a la contabilidad oficial, con errores de saldo y sin registro sistemático completo. Esto no permite convertir todas las anotaciones, iniciales o declaraciones del extesorero en pagos individualmente acreditados. Las condenas de otras piezas a Rosalía Iglesias, Correa o Crespo corresponden a procedimientos distintos.
+
+  Los apellidos correctos de los administradores son **Gonzalo Urquijo Fernández de Córdoba** y **Belén García García**; el exgerente es **Cristóbal Páez Vicedo**. Se contrastan en el original nominativo de 2021, sin deducir identidades de pseudónimos.
+
+  La falsedad documental por la que se condenó en la instancia fue objeto de absolución en casación. No se debe afirmar que el Supremo confirmó todas las condenas o que condenó penalmente al PP por un sistema general de financiación ilegal. La responsabilidad del partido es civil subsidiaria. La investigación de posibles contraprestaciones por contratos tiene un desenlace procesal propio: archivo provisional, distinto de una sentencia absolutoria y de las condenas fiscales por Unifica. No se dispone de los autos originales de los recursos posteriores a ese archivo; no está acreditada su firmeza.
+
+  ### Importes con conceptos distintos
+
+  El pago de **1.072.000 euros** al margen de la facturación por obras es un flujo de dinero, no una medida del perjuicio público. El fallo de 2021 consignaba una cuota tributaria de **870.521,32 euros**, con responsabilidad directa de los administradores y subsidiaria de Unifica; **123.669 euros** eran la parte atribuida directamente a Bárcenas y subsidiariamente al PP. Son responsabilidades solapadas y no se suman.
+
+  La [transcripción de la STS 1033/2024 en vLex](https://vlex.es/vid/1059871882), consultada parcialmente, reproduce un auto de corrección aritmética de 3 de marzo de 2022: elevó aquellas cantidades a **873.870,42 euros** y **126.918,103 euros**, respectivamente. Esto explica que la cifra de partida de la noticia de 2024 difiera del PDF de 2021 sin corregir. No se ha recuperado el auto original independiente. Se conserva la precisión literal de la transcripción, sin inventar redondeos de ejecución.
+
+  La segunda sentencia de casación transcrita fija la cuota total en **374.096,826 euros**, al descontar lo tributado en el ejercicio siguiente, y mantiene los demás pronunciamientos civiles compatibles. No se recalcula por cuenta propia la responsabilidad individual del PP ni se añade a esa cuota. El fallo reduce sus costas a cargo de las acusaciones populares a tres cuartas partes. Para Bárcenas, el fallo y la nota oficial señalan multa de **180.000 euros**, mientras el fundamento cuarto transcrito menciona **190.000**: la discrepancia queda pendiente del original y de posibles aclaraciones; no se presenta la cifra del fundamento como una segunda multa. Las multas se separan de la deuda tributaria y de los pagos por obras. Los 11,5 millones no están acreditados como un perjuicio conjunto de esta pieza.
+
+  ### Información disponible
+
+  Información disponible a 17 de octubre de 2026. La copia de la sentencia de 2021 consta de 454 páginas y recoge los hechos sobre la contabilidad y el pago de las obras. La nota oficial de 15 de noviembre de 2024 y Europa Press documentan la casación; el archivo de diciembre de 2022 consta también en la Memoria de la Audiencia Nacional. La STS es de 14 de noviembre de 2024; esa fecha es distinta de la publicación de la nota.
+
+  El enlace oficial del Supremo devolvió un bloqueo. La transcripción de vLex reproduce el auto de corrección en el antecedente cuarto y la segunda sentencia con sus fundamentos y fallo. Esta última indica que no cabe recurso; no se extiende esa cláusula al archivo provisional de otra pieza. No se obtuvo el PDF original de casación ni los autos originales de corrección o archivo. La transcripción llama 18 de octubre a la sentencia de instancia, frente al 28 que consta en su original: se sigue el PDF de la Audiencia. Tampoco se revisaron de forma exhaustiva las diligencias históricas previas a 2021, las costas, los intereses ni la liquidación de ejecución. No consta una nueva resolución de esta pieza que altere lo descrito; ello no demuestra la inexistencia de otros incidentes. La libertad condicional de Bárcenas y las resoluciones de Gürtel o Kitchen no se utilizan para fechar el cierre de esta pieza.
 resumen: 'Contabilidad paralela del PP: condenas por el fraude fiscal vinculado a las obras de Génova, reducidas
   en casación en 2024, y archivo provisional de la investigación de donaciones a cambio de contratos.'
 lugar: Madrid, Nacional
@@ -112,25 +122,3 @@ cronologia:
   - https://www.europapress.es/nacional/noticia-ts-reduce-condenas-caso-papeles-barcenas-confirma-pp-responsable-civil-subsidiario-20241115114956.html
   - https://vlex.es/vid/1059871882
 ---
-
-## Hechos, sujetos y piezas
-
-La sentencia de 2021 identifica a Bárcenas como gerente desde 1990 hasta junio de 2008 y tesorero desde entonces hasta julio de 2009. No fue tesorero durante todo el período 1990-2009. Describe una contabilidad de donaciones en efectivo y gastos ajena a la contabilidad oficial, con errores de saldo y sin registro sistemático completo. Esto no permite convertir todas las anotaciones, iniciales o declaraciones del extesorero en pagos individualmente acreditados. Las condenas de otras piezas a Rosalía Iglesias, Correa o Crespo corresponden a procedimientos distintos.
-
-Los apellidos correctos de los administradores son **Gonzalo Urquijo Fernández de Córdoba** y **Belén García García**; el exgerente es **Cristóbal Páez Vicedo**. Se contrastan en el original nominativo de 2021, sin deducir identidades de pseudónimos.
-
-La falsedad documental por la que se condenó en la instancia fue objeto de absolución en casación. No se debe afirmar que el Supremo confirmó todas las condenas o que condenó penalmente al PP por un sistema general de financiación ilegal. La responsabilidad del partido es civil subsidiaria. La investigación de posibles contraprestaciones por contratos tiene un desenlace procesal propio: archivo provisional, distinto de una sentencia absolutoria y de las condenas fiscales por Unifica. No se dispone de los autos originales de los recursos posteriores a ese archivo; no está acreditada su firmeza.
-
-## Importes con conceptos distintos
-
-El pago de **1.072.000 euros** al margen de la facturación por obras es un flujo de dinero, no una medida del perjuicio público. El fallo de 2021 consignaba una cuota tributaria de **870.521,32 euros**, con responsabilidad directa de los administradores y subsidiaria de Unifica; **123.669 euros** eran la parte atribuida directamente a Bárcenas y subsidiariamente al PP. Son responsabilidades solapadas y no se suman.
-
-La [transcripción de la STS 1033/2024 en vLex](https://vlex.es/vid/1059871882), consultada parcialmente, reproduce un auto de corrección aritmética de 3 de marzo de 2022: elevó aquellas cantidades a **873.870,42 euros** y **126.918,103 euros**, respectivamente. Esto explica que la cifra de partida de la noticia de 2024 difiera del PDF de 2021 sin corregir. No se ha recuperado el auto original independiente. Se conserva la precisión literal de la transcripción, sin inventar redondeos de ejecución.
-
-La segunda sentencia de casación transcrita fija la cuota total en **374.096,826 euros**, al descontar lo tributado en el ejercicio siguiente, y mantiene los demás pronunciamientos civiles compatibles. No se recalcula por cuenta propia la responsabilidad individual del PP ni se añade a esa cuota. El fallo reduce sus costas a cargo de las acusaciones populares a tres cuartas partes. Para Bárcenas, el fallo y la nota oficial señalan multa de **180.000 euros**, mientras el fundamento cuarto transcrito menciona **190.000**: la discrepancia queda pendiente del original y de posibles aclaraciones; no se presenta la cifra del fundamento como una segunda multa. Las multas se separan de la deuda tributaria y de los pagos por obras. Los 11,5 millones no están acreditados como un perjuicio conjunto de esta pieza.
-
-## Información disponible
-
-Información disponible a 17 de octubre de 2026. La copia de la sentencia de 2021 consta de 454 páginas y recoge los hechos sobre la contabilidad y el pago de las obras. La nota oficial de 15 de noviembre de 2024 y Europa Press documentan la casación; el archivo de diciembre de 2022 consta también en la Memoria de la Audiencia Nacional. La STS es de 14 de noviembre de 2024; esa fecha es distinta de la publicación de la nota.
-
-El enlace oficial del Supremo devolvió un bloqueo. La transcripción de vLex reproduce el auto de corrección en el antecedente cuarto y la segunda sentencia con sus fundamentos y fallo. Esta última indica que no cabe recurso; no se extiende esa cláusula al archivo provisional de otra pieza. No se obtuvo el PDF original de casación ni los autos originales de corrección o archivo. La transcripción llama 18 de octubre a la sentencia de instancia, frente al 28 que consta en su original: se sigue el PDF de la Audiencia. Tampoco se revisaron de forma exhaustiva las diligencias históricas previas a 2021, las costas, los intereses ni la liquidación de ejecución. No consta una nueva resolución de esta pieza que altere lo descrito; ello no demuestra la inexistencia de otros incidentes. La libertad condicional de Bárcenas y las resoluciones de Gürtel o Kitchen no se utilizan para fechar el cierre de esta pieza.

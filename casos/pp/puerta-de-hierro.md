@@ -10,21 +10,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: sobreseimiento provisional y absolución en vías penales; sentencia contenciosa recurrible
-descripcion: 'El Hospital Puerta de Hierro de Majadahonda fue objeto de procedimientos distintos: la investigación
-  penal sobre la supresión de 135 camas y la modificación de su contrato, el proceso municipal por el funcionamiento
-  sin licencias y los litigios contencioso-administrativos sobre el equilibrio económico de la concesión. Sus
-  resultados no son intercambiables.
+descripcion: |-
+  El Hospital Puerta de Hierro de Majadahonda fue objeto de procedimientos distintos: la investigación penal sobre la supresión de 135 camas y la modificación de su contrato, el proceso municipal por el funcionamiento sin licencias y los litigios contencioso-administrativos sobre el equilibrio económico de la concesión. Sus resultados no son intercambiables.
+  La Audiencia Provincial rechazó en enero de 2022 que Esperanza Aguirre fuese investigada. En abril de ese año se publicó el sobreseimiento provisional respecto de Jesús Vidart; la investigación contra Elena de Mingo continuaba entonces. En enero de 2023 se comunicó el sobreseimiento provisional respecto de De Mingo, no una sentencia absolutoria. En julio de 2025 se publicó la absolución de Narciso de Foxá y dos exconcejales en el procedimiento sobre las licencias, cuya firmeza no se ha verificado.
+  En la vía contenciosa, una sentencia del TSJ de Madrid de 16 de abril de 2026 desestimó el recurso de la concesionaria contra el reequilibrio aprobado en 2022. El original consultado prevé casación. No se acredita aquí un daño penal de 30 millones ni el cierre firme de todos los procedimientos. Faltan originales judiciales y comprobaciones de recursos posteriores.
 
-  La Audiencia Provincial rechazó en enero de 2022 que Esperanza Aguirre fuese investigada. En abril de ese
-  año se publicó el sobreseimiento provisional respecto de Jesús Vidart; la investigación contra Elena de Mingo
-  continuaba entonces. En enero de 2023 se comunicó el sobreseimiento provisional respecto de De Mingo, no
-  una sentencia absolutoria. En julio de 2025 se publicó la absolución de Narciso de Foxá y dos exconcejales
-  en el procedimiento sobre las licencias, cuya firmeza no se ha verificado.
+  El procedimiento penal sobre el contrato, el procedimiento municipal sobre licencias y los recursos administrativos son distintos. [The Objective](https://theobjective.com/espana/tribunales/2022-04-12/esperanza-aguirre-hospital-puerta-hierro/) identifica nominalmente el archivo de Vidart de 2022. La información de [Europa Press de enero de 2023](https://www.elconfidencialdigital.com/articulo/ultima-hora/justicia-cierra-caso-puerta-hierro-levantar-acusacion-exalto-cargo-esperanza-aguirre/20230117153257505932.html) recoge el archivo provisional de De Mingo; su valoración sobre firmeza se atribuye a esa noticia, sin convertir el archivo en absolución.
 
-  En la vía contenciosa, una sentencia del TSJ de Madrid de 16 de abril de 2026 desestimó el recurso de la
-  concesionaria contra el reequilibrio aprobado en 2022. El original consultado prevé casación. No se
-  acredita aquí un daño penal de 30 millones ni el cierre firme de todos los procedimientos. Faltan originales
-  judiciales y comprobaciones de recursos posteriores.'
+  La [crónica de Europa Press de julio de 2025](https://www.europapress.es/madrid/noticia-absuelto-exalcalde-majadahonda-delito-urbanistico-hospital-puerta-hierro-20250717152228.html), que afirma haber accedido a la sentencia, explica que los indicios de conducta delictiva municipal no quedaron probados en el juicio. No permite afirmar que esta fuese la última causa abierta ni acreditar su firmeza.
+
+  [Majadahonda Magazin](https://majadahondamagazin.es/la-jueza-absuelve-al-ex-alcalde-de-majadahonda-narciso-de-foxa-y-a-los-concejales-carmen-menendez-y-juan-carlos-perez-del-caso-puerta-de-hierro/) identifica como absueltos a los exconcejales Carmen Menéndez Rodríguez y Juan Carlos Pérez González y fecha la sentencia municipal el 15 de julio de 2025. Estos datos se atribuyen a la crónica, que reproduce pasajes de la resolución; no se ha obtenido el original municipal ni verificado sus recursos.
+
+  Los casi 30 millones publicados en 2022 eran una estimación histórica con pagos futuros, no un daño penal certificado. La [sentencia contenciosa oficial de 2026](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c3e6487b156f1bf3a0a8778d75e36f0d&encode=true&databasematch=AN), añade una resolución posterior sobre el reequilibrio; no se dispone de una liquidación actual completa de la concesión.
+
+  Al 17 de octubre de 2026, faltan los originales de los archivos y la absolución y no consta el resultado de recursos posteriores. No se mantienen como hechos comprobados las fechas exactas de apertura y permisos ambientales, la composición original de la UTE ni la cifra de 20 millones atribuida a sus cobros. Se requiere documentación contractual y municipal para revalidarlos.
 resumen: 'Procedimientos sobre las 135 camas suprimidas, el contrato y las licencias del Hospital Puerta de
   Hierro: archivos provisionales, absolución municipal y litigio contencioso hasta 2026.'
 lugar: Majadahonda, Comunidad de Madrid
@@ -136,13 +135,3 @@ cronologia:
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c3e6487b156f1bf3a0a8778d75e36f0d&encode=true&databasematch=AN
 ---
-
-El procedimiento penal sobre el contrato, el procedimiento municipal sobre licencias y los recursos administrativos son distintos. [The Objective](https://theobjective.com/espana/tribunales/2022-04-12/esperanza-aguirre-hospital-puerta-hierro/) identifica nominalmente el archivo de Vidart de 2022. La información de [Europa Press de enero de 2023](https://www.elconfidencialdigital.com/articulo/ultima-hora/justicia-cierra-caso-puerta-hierro-levantar-acusacion-exalto-cargo-esperanza-aguirre/20230117153257505932.html) recoge el archivo provisional de De Mingo; su valoración sobre firmeza se atribuye a esa noticia, sin convertir el archivo en absolución.
-
-La [crónica de Europa Press de julio de 2025](https://www.europapress.es/madrid/noticia-absuelto-exalcalde-majadahonda-delito-urbanistico-hospital-puerta-hierro-20250717152228.html), que afirma haber accedido a la sentencia, explica que los indicios de conducta delictiva municipal no quedaron probados en el juicio. No permite afirmar que esta fuese la última causa abierta ni acreditar su firmeza.
-
-[Majadahonda Magazin](https://majadahondamagazin.es/la-jueza-absuelve-al-ex-alcalde-de-majadahonda-narciso-de-foxa-y-a-los-concejales-carmen-menendez-y-juan-carlos-perez-del-caso-puerta-de-hierro/) identifica como absueltos a los exconcejales Carmen Menéndez Rodríguez y Juan Carlos Pérez González y fecha la sentencia municipal el 15 de julio de 2025. Estos datos se atribuyen a la crónica, que reproduce pasajes de la resolución; no se ha obtenido el original municipal ni verificado sus recursos.
-
-Los casi 30 millones publicados en 2022 eran una estimación histórica con pagos futuros, no un daño penal certificado. La [sentencia contenciosa oficial de 2026](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c3e6487b156f1bf3a0a8778d75e36f0d&encode=true&databasematch=AN), añade una resolución posterior sobre el reequilibrio; no se dispone de una liquidación actual completa de la concesión.
-
-Al 17 de octubre de 2026, faltan los originales de los archivos y la absolución y no consta el resultado de recursos posteriores. No se mantienen como hechos comprobados las fechas exactas de apertura y permisos ambientales, la composición original de la UTE ni la cifra de 20 millones atribuida a sus cobros. Se requiere documentación contractual y municipal para revalidarlos.

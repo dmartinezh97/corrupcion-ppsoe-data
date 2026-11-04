@@ -7,14 +7,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: cerrado con condenas
-descripcion: La pieza examinó la adjudicación de RTVV a Teconsa del suministro de pantallas, sonido y megafonía
-  para el encuentro de las familias de julio de 2006 en Valencia. El contrato ascendió a 7.493.600 euros con IVA
-  y la sentencia fijó un sobrecoste de 3.205.375,11 euros. La Audiencia Nacional condenó a diecinueve personas el
-  25 de noviembre de 2020; otras dos fueron absueltas y dos procesados habían fallecido. El Supremo desestimó los
-  recursos de siete condenados el 27 de marzo de 2023; los otros doce no habían recurrido. En mayo de 2024 se conocieron
-  suspensiones de ejecución de prisión para Pedro García, Óscar Fragio y José Luis Martínez Parra, que no suponen
-  absolución. No se ha verificado el cumplimiento de las condiciones de esas suspensiones ni la situación de ejecución
-  de todos los condenados al 15 de octubre de 2026.
+descripcion: |-
+  La pieza examinó la adjudicación de RTVV a Teconsa del suministro de pantallas, sonido y megafonía para el encuentro de las familias de julio de 2006 en Valencia. El contrato ascendió a 7.493.600 euros con IVA y la sentencia fijó un sobrecoste de 3.205.375,11 euros. La Audiencia Nacional condenó a diecinueve personas el 25 de noviembre de 2020; otras dos fueron absueltas y dos procesados habían fallecido. El Supremo desestimó los recursos de siete condenados el 27 de marzo de 2023; los otros doce no habían recurrido. En mayo de 2024 se conocieron suspensiones de ejecución de prisión para Pedro García, Óscar Fragio y José Luis Martínez Parra, que no suponen absolución. No se ha verificado el cumplimiento de las condiciones de esas suspensiones ni la situación de ejecución de todos los condenados al 15 de octubre de 2026.
+
+  La contratación se preparó al menos desde **octubre de 2005**, sin que se disponga de un día inicial preciso. El encuentro mundial de las familias se celebró del 7 al 9 de julio de 2006; la visita del Papa a Valencia tuvo lugar los días 8 y 9. El tribunal consideró probado que los responsables de la trama concertaron con la dirección de RTVV una adjudicación a Teconsa previamente decidida y que después se confeccionó un expediente antedatado para darle apariencia de legalidad. Teconsa era una constructora sin capacidad técnica para ejecutar esos servicios y subcontrató los trabajos.
+
+  El importe contractual fue de **6.460.000 euros sin IVA y 7.493.600 euros con IVA**. El sobrecoste acreditado fue de **3.205.375,11 euros**, también fijado como indemnización por malversación. No representa la suma de todos los contratos de la visita ni del conjunto de Gürtel. Las comisiones repartidas forman parte del mecanismo de ese perjuicio; no deben añadirse como otro daño independiente. Los pronunciamientos por cuotas tributarias, las multas y los comisos tienen naturaleza distinta.
+
+  El fallo contiene además una indemnización de 3.254.624,89 euros atribuida a la Fundación V Encuentro Mundial de la Familia como partícipe a título lucrativo, pero declara extinguida esa obligación al haber asumido la Generalitat las obligaciones de la Fundación y RTVV. Tampoco se agrega esa cantidad al sobrecoste. Las consignaciones realizadas por los condenados deben descontarse de sus responsabilidades civiles, por lo que la cifra fijada en sentencia no acredita un saldo íntegro todavía pendiente de cobro.
+
+  La **sentencia de la Audiencia Nacional de 25 de noviembre de 2020** distingue condenados, absueltas y procesados fallecidos. Las personas destacadas en la ficha no agotan la relación de diecinueve condenados. Juan Cotino fue procesado y falleció durante el juicio: la extinción de su responsabilidad no equivale a una condena. Francisco Camps no fue uno de los acusados condenados o absueltos por esta sentencia y no se le atribuye aquí esa condición.
+
+  La resolución del **Supremo de 27 de marzo de 2023** desestimó los recursos de siete personas, entre ellas Martínez Parra. Correa, Crespo y Pérez no figuraban entre esos recurrentes. El alto tribunal también rechazó en esa sentencia una solicitud de reducción de pena al amparo de la reforma de la malversación de 2022. La información posterior sobre incidentes de nulidad y suspensiones penitenciarias se refiere a trámites diferentes y no borra las condenas.
+
+  En mayo de 2024, Europa Press informó de tres suspensiones de prisión: para Pedro García y Óscar Fragio se valoró, entre otros requisitos, la reparación del daño; para Martínez Parra, su enfermedad grave. No se han obtenido aquí esos autos completos ni se ha comprobado el cumplimiento posterior de sus condiciones. El estado indica la existencia de condenas confirmadas, sin afirmar que todas las penas estén cumplidas ni que cada persona continúe en el mismo régimen al **15 de octubre de 2026**.
 resumen: Adjudicación irregular de pantallas y sonido por RTVV para la visita papal de 2006, con un sobrecoste judicialmente
   fijado de 3.205.375,11 euros.
 coste: 3205375.11
@@ -162,15 +168,3 @@ cronologia:
   urls:
   - https://www.europapress.es/comunitat-valenciana/noticia-an-suspende-pena-prision-pedro-garcia-otros-dos-condenados-causa-visita-papa-valencia-20240529173749.html
 ---
-
-La contratación se preparó al menos desde **octubre de 2005**, sin que se disponga de un día inicial preciso. El encuentro mundial de las familias se celebró del 7 al 9 de julio de 2006; la visita del Papa a Valencia tuvo lugar los días 8 y 9. El tribunal consideró probado que los responsables de la trama concertaron con la dirección de RTVV una adjudicación a Teconsa previamente decidida y que después se confeccionó un expediente antedatado para darle apariencia de legalidad. Teconsa era una constructora sin capacidad técnica para ejecutar esos servicios y subcontrató los trabajos.
-
-El importe contractual fue de **6.460.000 euros sin IVA y 7.493.600 euros con IVA**. El sobrecoste acreditado fue de **3.205.375,11 euros**, también fijado como indemnización por malversación. No representa la suma de todos los contratos de la visita ni del conjunto de Gürtel. Las comisiones repartidas forman parte del mecanismo de ese perjuicio; no deben añadirse como otro daño independiente. Los pronunciamientos por cuotas tributarias, las multas y los comisos tienen naturaleza distinta.
-
-El fallo contiene además una indemnización de 3.254.624,89 euros atribuida a la Fundación V Encuentro Mundial de la Familia como partícipe a título lucrativo, pero declara extinguida esa obligación al haber asumido la Generalitat las obligaciones de la Fundación y RTVV. Tampoco se agrega esa cantidad al sobrecoste. Las consignaciones realizadas por los condenados deben descontarse de sus responsabilidades civiles, por lo que la cifra fijada en sentencia no acredita un saldo íntegro todavía pendiente de cobro.
-
-La **sentencia de la Audiencia Nacional de 25 de noviembre de 2020** distingue condenados, absueltas y procesados fallecidos. Las personas destacadas en la ficha no agotan la relación de diecinueve condenados. Juan Cotino fue procesado y falleció durante el juicio: la extinción de su responsabilidad no equivale a una condena. Francisco Camps no fue uno de los acusados condenados o absueltos por esta sentencia y no se le atribuye aquí esa condición.
-
-La resolución del **Supremo de 27 de marzo de 2023** desestimó los recursos de siete personas, entre ellas Martínez Parra. Correa, Crespo y Pérez no figuraban entre esos recurrentes. El alto tribunal también rechazó en esa sentencia una solicitud de reducción de pena al amparo de la reforma de la malversación de 2022. La información posterior sobre incidentes de nulidad y suspensiones penitenciarias se refiere a trámites diferentes y no borra las condenas.
-
-En mayo de 2024, Europa Press informó de tres suspensiones de prisión: para Pedro García y Óscar Fragio se valoró, entre otros requisitos, la reparación del daño; para Martínez Parra, su enfermedad grave. No se han obtenido aquí esos autos completos ni se ha comprobado el cumplimiento posterior de sus condiciones. El estado indica la existencia de condenas confirmadas, sin afirmar que todas las penas estén cumplidas ni que cada persona continúe en el mismo régimen al **15 de octubre de 2026**.

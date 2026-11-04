@@ -9,25 +9,22 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Sobreseimiento libre comunicado en abril de 2021; firmeza no verificada
 lugar: Granada / Sevilla, Andalucía
-descripcion: 'Pieza separada de Invercaria relativa a su financiación de Kandor Graphics. La nota oficial del
-  CGPJ sobre el auto de 5 de septiembre de 2019 describe una inversión de 1.498.000 euros entre participación
-  en capital y préstamos ordinarios y participativos. No es una cifra de daño judicialmente declarado. Las
-  deficiencias documentales y de seguimiento que señaló el instructor eran indicios en fase de investigación,
-  no hechos establecidos en una sentencia condenatoria.
+descripcion: |-
+  Pieza separada de Invercaria relativa a su financiación de Kandor Graphics. La nota oficial del CGPJ sobre el auto de 5 de septiembre de 2019 describe una inversión de 1.498.000 euros entre participación en capital y préstamos ordinarios y participativos. No es una cifra de daño judicialmente declarado. Las deficiencias documentales y de seguimiento que señaló el instructor eran indicios en fase de investigación, no hechos establecidos en una sentencia condenatoria.
 
+  Tras el archivo de septiembre de 2017 y su revocación en febrero de 2019, el procedimiento abreviado alcanzó a tres expresidentes de Invercaria y a Marcelino Almansa. En diciembre de 2019 se informó del archivo respecto de Laura Gómiz y Francisco Álvaro Julio, sin acusación contra ellos, y de la apertura de juicio únicamente contra Tomás Pérez-Sauquillo y Almansa. La Fiscalía defendía que existió valoración técnica del proyecto, frente a la tesis acusatoria del PP.
 
-  Tras el archivo de septiembre de 2017 y su revocación en febrero de 2019, el procedimiento abreviado alcanzó
-  a tres expresidentes de Invercaria y a Marcelino Almansa. En diciembre de 2019 se informó del archivo respecto
-  de Laura Gómiz y Francisco Álvaro Julio, sin acusación contra ellos, y de la apertura de juicio únicamente
-  contra Tomás Pérez-Sauquillo y Almansa. La Fiscalía defendía que existió valoración técnica del proyecto,
-  frente a la tesis acusatoria del PP.
+  El 9 de abril de 2021 Europa Press informó de un auto de la Sección Séptima de la Audiencia de Sevilla que acordó el sobreseimiento libre por falta de una acusación pública o particular y falta de legitimación del PP para sostener por sí solo la acusación popular. No fue una sentencia absolutoria. La información advertía que cabía casación: no se ha localizado el auto íntegro, su fecha exacta ni una resolución posterior que permita afirmar su firmeza al corte del 17 de octubre de 2026.
 
+  La ficha se limita a la financiación de **Kandor Graphics**. Los archivos, condenas, absoluciones y recursos de las restantes piezas de Invercaria no se trasladan a este procedimiento.
 
-  El 9 de abril de 2021 Europa Press informó de un auto de la Sección Séptima de la Audiencia de Sevilla que
-  acordó el sobreseimiento libre por falta de una acusación pública o particular y falta de legitimación del
-  PP para sostener por sí solo la acusación popular. No fue una sentencia absolutoria. La información advertía
-  que cabía casación: no se ha localizado el auto íntegro, su fecha exacta ni una resolución posterior que
-  permita afirmar su firmeza al corte del 17 de octubre de 2026.'
+  La [nota oficial del CGPJ de 23 de septiembre de 2019](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juez-continua-el-procedimiento-contra-tres-expresidentes-de-Invercaria-y-una-cuarta-persona-por-los-1-4-millones-en-prestamos-concedidos-a-Kandor-Graphics) identifica el auto de procedimiento abreviado como fechado el **5 de septiembre**. El instructor apreciaba indicios de falta de seguimiento y documentación, posibles alteraciones documentales y superación del umbral de 1.200.000 euros previsto en el plan director. La nota atribuye a una pericial de Taxo la existencia de cuatro préstamos participativos y cinco ordinarios entre 2005 y 2011 y una estimación de perjuicio de **1.734.485,03 euros**. Esta estimación pericial de la instrucción no equivale a daño probado ni a responsabilidad civil declarada. Tampoco se suma a los **1.498.000 euros**, que la propia nota describe como inversión total incluyendo capital y préstamos.
+
+  La valoración penal fue discutida. [La Fiscalía sostenía en noviembre de 2019](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Fiscalia-presidente-Invercaria-doctrina-Botin_0_1413759007.html) que el proyecto se había realizado y que constaban análisis e informes técnicos, por lo que rechazaba considerar arbitraria la inversión. La afirmación general de que toda la financiación careció de informes no refleja esa discrepancia. Las penas solicitadas por el PP eran peticiones acusatorias, no penas impuestas.
+
+  El archivo individual de Gómiz y Álvaro Julio de 2019 se distingue del sobreseimiento libre comunicado en 2021 para la causa que seguía contra Pérez-Sauquillo y Almansa. El último pronunciamiento contrastado es el [auto referido por Europa Press el 9 de abril de 2021](https://www.europapress.es/andalucia/noticia-audiencia-sevilla-declara-falta-legitimacion-pp-pieza-kandor-invercaria-ordena-archivarla-20210409162625.html). Falta obtener su texto íntegro, comprobar su fecha y el eventual recurso de casación. No se presenta como una absolución ni como una resolución cuya firmeza haya quedado acreditada.
+
+  **Alcance y pendientes (17 de octubre de 2026):** no se ha verificado un PDF original de los autos ni un pronunciamiento contable específico sobre Kandor. La falta de originales disponibles no demuestra la inexistencia de resoluciones. Una [retrospectiva de diciembre de 2025](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/finaliza-instruccion-macrocausa-invercaria-14-anos-investigacion_0_2005511832.html) menciona Kandor entre las piezas que tuvieron auto de procedimiento abreviado; ese recuento histórico no acredita que esta causa continuase abierta. No consta una resolución que modifique el archivo de 2021, ni está acreditada su firmeza.
 resumen: 'Financiación de Kandor por Invercaria: sobreseimiento libre comunicado en abril de 2021; firmeza
   no documentada.'
 tribunal:
@@ -115,13 +112,3 @@ cronologia:
   urls:
   - https://www.europapress.es/andalucia/noticia-audiencia-sevilla-declara-falta-legitimacion-pp-pieza-kandor-invercaria-ordena-archivarla-20210409162625.html
 ---
-
-La ficha se limita a la financiación de **Kandor Graphics**. Los archivos, condenas, absoluciones y recursos de las restantes piezas de Invercaria no se trasladan a este procedimiento.
-
-La [nota oficial del CGPJ de 23 de septiembre de 2019](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juez-continua-el-procedimiento-contra-tres-expresidentes-de-Invercaria-y-una-cuarta-persona-por-los-1-4-millones-en-prestamos-concedidos-a-Kandor-Graphics) identifica el auto de procedimiento abreviado como fechado el **5 de septiembre**. El instructor apreciaba indicios de falta de seguimiento y documentación, posibles alteraciones documentales y superación del umbral de 1.200.000 euros previsto en el plan director. La nota atribuye a una pericial de Taxo la existencia de cuatro préstamos participativos y cinco ordinarios entre 2005 y 2011 y una estimación de perjuicio de **1.734.485,03 euros**. Esta estimación pericial de la instrucción no equivale a daño probado ni a responsabilidad civil declarada. Tampoco se suma a los **1.498.000 euros**, que la propia nota describe como inversión total incluyendo capital y préstamos.
-
-La valoración penal fue discutida. [La Fiscalía sostenía en noviembre de 2019](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Fiscalia-presidente-Invercaria-doctrina-Botin_0_1413759007.html) que el proyecto se había realizado y que constaban análisis e informes técnicos, por lo que rechazaba considerar arbitraria la inversión. La afirmación general de que toda la financiación careció de informes no refleja esa discrepancia. Las penas solicitadas por el PP eran peticiones acusatorias, no penas impuestas.
-
-El archivo individual de Gómiz y Álvaro Julio de 2019 se distingue del sobreseimiento libre comunicado en 2021 para la causa que seguía contra Pérez-Sauquillo y Almansa. El último pronunciamiento contrastado es el [auto referido por Europa Press el 9 de abril de 2021](https://www.europapress.es/andalucia/noticia-audiencia-sevilla-declara-falta-legitimacion-pp-pieza-kandor-invercaria-ordena-archivarla-20210409162625.html). Falta obtener su texto íntegro, comprobar su fecha y el eventual recurso de casación. No se presenta como una absolución ni como una resolución cuya firmeza haya quedado acreditada.
-
-**Alcance y pendientes (17 de octubre de 2026):** no se ha verificado un PDF original de los autos ni un pronunciamiento contable específico sobre Kandor. La falta de originales disponibles no demuestra la inexistencia de resoluciones. Una [retrospectiva de diciembre de 2025](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/finaliza-instruccion-macrocausa-invercaria-14-anos-investigacion_0_2005511832.html) menciona Kandor entre las piezas que tuvieron auto de procedimiento abreviado; ese recuento histórico no acredita que esta causa continuase abierta. No consta una resolución que modifique el archivo de 2021, ni está acreditada su firmeza.

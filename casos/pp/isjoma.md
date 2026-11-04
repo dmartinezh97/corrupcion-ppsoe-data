@@ -8,14 +8,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: desconocido
-descripcion: 'Investigación sobre los contratos de montaje de escenarios e infraestructuras festivas del Ayuntamiento
-  de Alicante con Isjoma. La Sección Primera de la Audiencia Provincial absolvió el 22 de septiembre de 2023 a los
-  exconcejales del PP Andrés Llorens y Juan Zaragoza, a dos técnicos municipales y al representante de la empresa
-  por los hechos de 2003-2009. Víctor López había fallecido antes del juicio: no fue uno de los absueltos. Una segunda
-  causa por contrataciones posteriores a 2009 fue sobreseída provisionalmente; la Sección Décima confirmó su archivo
-  el 3 de septiembre de 2024 al rechazar el recurso fiscal. No se ha podido acreditar la firmeza de la absolución
-  principal ni el resultado de una eventual casación. Los 841.000 euros atribuidos por la Fiscalía a sobrecostes
-  eran una estimación acusatoria, no un perjuicio declarado en sentencia.'
+descripcion: |-
+  Investigación sobre los contratos de montaje de escenarios e infraestructuras festivas del Ayuntamiento de Alicante con Isjoma. La Sección Primera de la Audiencia Provincial absolvió el 22 de septiembre de 2023 a los exconcejales del PP Andrés Llorens y Juan Zaragoza, a dos técnicos municipales y al representante de la empresa por los hechos de 2003-2009. Víctor López había fallecido antes del juicio: no fue uno de los absueltos. Una segunda causa por contrataciones posteriores a 2009 fue sobreseída provisionalmente; la Sección Décima confirmó su archivo el 3 de septiembre de 2024 al rechazar el recurso fiscal. No se ha podido acreditar la firmeza de la absolución principal ni el resultado de una eventual casación. Los 841.000 euros atribuidos por la Fiscalía a sobrecostes eran una estimación acusatoria, no un perjuicio declarado en sentencia.
+
+  La causa principal revisó la contratación de infraestructuras festivas y culturales en 2003 y 2009 y los encargos menores relacionados. Montajes Alavés, competidora de Isjoma, denunció el procedimiento y ejerció la acusación particular. El juicio comenzó en septiembre de 2022 ante la Sección Primera de la Audiencia Provincial de Alicante.
+
+  La sentencia de 22 de septiembre de 2023 absolvió a cinco personas: dos exconcejales, dos técnicos municipales y el representante de Isjoma. El jefe de Atención Urbana, Víctor López, había fallecido antes del juicio. El tribunal no consideró acreditada la manipulación de las licitaciones ni el fraccionamiento delictivo de los encargos. La anulación administrativa de la adjudicación de 2009 obtenida por Montajes Alavés no equivalía a demostrar prevaricación penal. La identificación completa del segundo técnico absuelto no ha podido corroborarse con las fuentes consultadas.
+
+  Una segunda investigación examinó pagos posteriores a 2009. El Juzgado de Instrucción n.º 7 acordó su sobreseimiento provisional a finales de diciembre de 2023; el día exacto no consta en la información consultada. La Sección Décima de la Audiencia rechazó el recurso de la Fiscalía mediante auto de 3 de septiembre de 2024. Las noticias describen el periodo de esta segunda causa como 2009-2014 y 2009-2015; sin el auto original no puede precisarse ese límite.
+
+  No consta acreditada aquí la firmeza de la sentencia absolutoria principal ni la tramitación y resultado de una eventual casación. Tampoco se dispone de los originales de la sentencia y de los autos de archivo para verificar sus identificadores y su alcance íntegro. La ausencia de novedades verificadas en 2025-2026 no permite deducir firmeza.
+
+  Los 841.000 euros mencionados en el juicio corresponden a la estimación de la acusación. Los 385.625,52 euros de la segunda investigación son el importe agregado de contratos cuestionados. Ninguna cifra se incorpora como coste de corrupción o perjuicio judicialmente declarado.
+
+  Fuentes: [sentencia principal, Alicante Plaza](https://alicanteplaza.es/audiencia-descarta-anomalias-caso-isjoma-absoluciones), [crónica de EFE](https://www.elespanol.com/alicante/alicante-ciudad/20231004/absuelven-exconcejales-pp-andres-llorens-juan-zaragoza-prevaricar-etapa-castedo/799420370_0.html), [segunda causa y casación](https://alicanteplaza.es/alicanteplaza/la-jueza-sobresee-otra-causa-por-pagos-de-alicante-a-isjoma-y-libra-al-exedil-llorens-de-nuevo-juicio), [confirmación del archivo](https://alicanteplaza.es/alicanteplaza/la-audiencia-ratifica-el-cierre-del-segundo-caso-isjoma-y-exonera-al-exvicealcalde-de-alicante) y [BORME, identidad del administrador](https://www.boe.es/diario_borme/txt.php?id=BORME-A-2018-62-03&lang=es).
 resumen: Absolución por los contratos de Isjoma en 2003-2009 y archivo confirmado de una segunda causa; firmeza
   principal no acreditada.
 lugar: Alicante, Comunidad Valenciana
@@ -106,15 +112,3 @@ cronologia:
     urls:
       - https://alicanteplaza.es/alicanteplaza/la-audiencia-ratifica-el-cierre-del-segundo-caso-isjoma-y-exonera-al-exvicealcalde-de-alicante
 ---
-
-La causa principal revisó la contratación de infraestructuras festivas y culturales en 2003 y 2009 y los encargos menores relacionados. Montajes Alavés, competidora de Isjoma, denunció el procedimiento y ejerció la acusación particular. El juicio comenzó en septiembre de 2022 ante la Sección Primera de la Audiencia Provincial de Alicante.
-
-La sentencia de 22 de septiembre de 2023 absolvió a cinco personas: dos exconcejales, dos técnicos municipales y el representante de Isjoma. El jefe de Atención Urbana, Víctor López, había fallecido antes del juicio. El tribunal no consideró acreditada la manipulación de las licitaciones ni el fraccionamiento delictivo de los encargos. La anulación administrativa de la adjudicación de 2009 obtenida por Montajes Alavés no equivalía a demostrar prevaricación penal. La identificación completa del segundo técnico absuelto no ha podido corroborarse con las fuentes consultadas.
-
-Una segunda investigación examinó pagos posteriores a 2009. El Juzgado de Instrucción n.º 7 acordó su sobreseimiento provisional a finales de diciembre de 2023; el día exacto no consta en la información consultada. La Sección Décima de la Audiencia rechazó el recurso de la Fiscalía mediante auto de 3 de septiembre de 2024. Las noticias describen el periodo de esta segunda causa como 2009-2014 y 2009-2015; sin el auto original no puede precisarse ese límite.
-
-No consta acreditada aquí la firmeza de la sentencia absolutoria principal ni la tramitación y resultado de una eventual casación. Tampoco se dispone de los originales de la sentencia y de los autos de archivo para verificar sus identificadores y su alcance íntegro. La ausencia de novedades verificadas en 2025-2026 no permite deducir firmeza.
-
-Los 841.000 euros mencionados en el juicio corresponden a la estimación de la acusación. Los 385.625,52 euros de la segunda investigación son el importe agregado de contratos cuestionados. Ninguna cifra se incorpora como coste de corrupción o perjuicio judicialmente declarado.
-
-Fuentes: [sentencia principal, Alicante Plaza](https://alicanteplaza.es/audiencia-descarta-anomalias-caso-isjoma-absoluciones), [crónica de EFE](https://www.elespanol.com/alicante/alicante-ciudad/20231004/absuelven-exconcejales-pp-andres-llorens-juan-zaragoza-prevaricar-etapa-castedo/799420370_0.html), [segunda causa y casación](https://alicanteplaza.es/alicanteplaza/la-jueza-sobresee-otra-causa-por-pagos-de-alicante-a-isjoma-y-libra-al-exedil-llorens-de-nuevo-juicio), [confirmación del archivo](https://alicanteplaza.es/alicanteplaza/la-audiencia-ratifica-el-cierre-del-segundo-caso-isjoma-y-exonera-al-exvicealcalde-de-alicante) y [BORME, identidad del administrador](https://www.boe.es/diario_borme/txt.php?id=BORME-A-2018-62-03&lang=es).

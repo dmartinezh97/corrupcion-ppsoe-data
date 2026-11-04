@@ -8,20 +8,35 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absoluciones y condenas
-descripcion: 'Pieza de Gürtel sobre la aceptación de prendas de vestir por cargos públicos valencianos, acusados
-  de cohecho pasivo impropio. Francisco Camps y Ricardo Costa fueron declarados no culpables por el jurado el 25
-  de enero de 2012; la sentencia escrita de 30 de enero los absolvió. El Tribunal Supremo desestimó el recurso de
-  la acusación popular mediante la sentencia 323/2013, de 23 de abril, cuyo fallo se había adelantado el 9 de abril.
-  La decisión fue de cuatro magistrados frente a uno; el voto particular pedía anular la sentencia y devolverla
-  al magistrado presidente para que la motivara.
+descripcion: |-
+  Pieza de Gürtel sobre la aceptación de prendas de vestir por cargos públicos valencianos, acusados de cohecho pasivo impropio. Francisco Camps y Ricardo Costa fueron declarados no culpables por el jurado el 25 de enero de 2012; la sentencia escrita de 30 de enero los absolvió. El Tribunal Supremo desestimó el recurso de la acusación popular mediante la sentencia 323/2013, de 23 de abril, cuyo fallo se había adelantado el 9 de abril. La decisión fue de cuatro magistrados frente a uno; el voto particular pedía anular la sentencia y devolverla al magistrado presidente para que la motivara.
 
+  Víctor Campos y Rafael Betoret siguieron un resultado distinto: aceptaron los hechos en julio de 2011 y recibieron sendas condenas de conformidad en septiembre a multas de 9.600 euros cada uno, además del decomiso de prendas o su valor. Europa Press documentó en octubre la declaración de firmeza y la orden de ejecución para ambos. Faltan los originales de esas condenas y autos y la liquidación final de su ejecución. La confirmación de las absoluciones no se extiende a otras piezas de Gürtel; los valores de prendas, multas y decomisos no se presentan como daño público.
 
-  Víctor Campos y Rafael Betoret siguieron un resultado distinto: aceptaron los hechos en julio de 2011 y recibieron
-  sendas condenas de conformidad en septiembre a multas de 9.600 euros cada uno, además del decomiso de prendas
-  o su valor. Europa Press documentó en octubre la declaración de firmeza y la orden de ejecución para ambos. Faltan
-  los originales de esas condenas y autos y la liquidación final de su ejecución. La confirmación de las absoluciones
-  no se extiende a otras piezas de Gürtel; los valores de prendas, multas y decomisos no se presentan como daño
-  público.'
+  ### Alcance de la pieza
+
+  La causa de los trajes examinó el cohecho pasivo impropio por regalos presuntamente recibidos en consideración al cargo. No debe describirse como una condena por adjudicar contratos a cambio de prendas. La contratación, la financiación del PPCV y otros procedimientos de Gürtel tienen objetos y resultados propios.
+
+  El archivo de agosto de 2009 fue revocado en 2010. Tras la apertura de juicio en julio de 2011, Campos y Betoret prestaron conformidad, mientras Camps y Costa mantuvieron su defensa y fueron juzgados. El veredicto del 25 de enero de 2012 y la sentencia escrita del 30 de enero son actos distintos. La sentencia del Supremo tiene fecha 23 de abril de 2013, aunque su fallo fue anunciado el 9 de abril.
+
+  ### Resultados y cantidades
+
+  Camps y Costa quedaron absueltos. El Supremo confirmó el resultado al desestimar la casación de la acusación popular. La sentencia original contiene algunas referencias discordantes a la fecha de la resolución recurrida; el original del TSJCV y el fallo del Supremo permiten fijar el 30 de enero de 2012. Los nombres se contrastan con noticias nominales; no se reconstruyen las identidades a partir de los seudónimos de CENDOJ. La nota del CGPJ denomina erróneamente «Juan Costa» al acusado, frente a las fuentes nominales que identifican a Ricardo Costa.
+
+  El voto particular de Joaquín Giménez García no pedía condenarlos: reclamaba anular la sentencia y devolverla al magistrado presidente para motivarla. Que el magistrado figure entre las firmas del documento tampoco supone que se sumara a la decisión mayoritaria.
+
+  Según la noticia de ejecución de Europa Press, para Campos se ordenó cobrar la multa de 9.600 euros y 5.529 euros como equivalente del decomiso; para Betoret, la misma multa y la entrega de las prendas o, subsidiariamente, 13.499 euros. No procede sumar la entrega y su equivalente ni incorporar esas cifras como responsabilidad civil o daño público. La declaración de firmeza de ambos se documenta por esa noticia; quedan pendientes los autos originales y la liquidación de ejecución. Tampoco se ha recuperado un testimonio separado de firmeza y devolución de fianzas de los absueltos, aunque sí la sentencia que desestima la casación.
+
+  Al 17 de octubre de 2026, no consta una nueva resolución propia de esta pieza. Los resultados de otras causas de Camps o Costa no alteran automáticamente este desenlace.
+
+  ### Fuentes
+
+  - [RTVE, cronología y dimisión, 20 de julio de 2011](https://www.rtve.es/noticias/20110720/camps-dimite-despues-29-meses-investigacion-judicial/449036.shtml)
+  - [Europa Press, condenas por conformidad, 16 de septiembre de 2011](https://www.europapress.es/nacional/noticia-amp-gurtel-tsjcv-condena-campos-betoret-pagar-9600-euros-haber-aceptado-trajes-trama-20110916155621.html)
+  - [Europa Press, firmeza y ejecución, 21 de octubre de 2011](https://www.europapress.es/nacional/noticia-gurtel-climent-ordena-ejecutar-sentencia-conformidad-contra-campos-betoret-descontarles-9600-multa-20111021114456.html)
+  - [TSJCV, sentencia 2/2012](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/STSJCV_1_2012.pdf)
+  - [RTVE, anuncio del fallo del Supremo, 9 de abril de 2013](https://www.rtve.es/noticias/20130409/supremo-confirma-absolucion-camps-costa-por-trajes-guertel-por-cuatro-votos-a-uno/634565.shtml)
+  - [Tribunal Supremo, sentencia 323/2013](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=2c27401757d45f4b&encode=true&databasematch=AN)
 resumen: Camps y Costa absueltos; Campos y Betoret condenados por conformidad
 lugar: Valencia, Comunitat Valenciana
 tribunal:
@@ -147,28 +162,3 @@ cronologia:
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=2c27401757d45f4b&encode=true&databasematch=AN
 ---
-
-## Alcance de la pieza
-
-La causa de los trajes examinó el cohecho pasivo impropio por regalos presuntamente recibidos en consideración al cargo. No debe describirse como una condena por adjudicar contratos a cambio de prendas. La contratación, la financiación del PPCV y otros procedimientos de Gürtel tienen objetos y resultados propios.
-
-El archivo de agosto de 2009 fue revocado en 2010. Tras la apertura de juicio en julio de 2011, Campos y Betoret prestaron conformidad, mientras Camps y Costa mantuvieron su defensa y fueron juzgados. El veredicto del 25 de enero de 2012 y la sentencia escrita del 30 de enero son actos distintos. La sentencia del Supremo tiene fecha 23 de abril de 2013, aunque su fallo fue anunciado el 9 de abril.
-
-## Resultados y cantidades
-
-Camps y Costa quedaron absueltos. El Supremo confirmó el resultado al desestimar la casación de la acusación popular. La sentencia original contiene algunas referencias discordantes a la fecha de la resolución recurrida; el original del TSJCV y el fallo del Supremo permiten fijar el 30 de enero de 2012. Los nombres se contrastan con noticias nominales; no se reconstruyen las identidades a partir de los seudónimos de CENDOJ. La nota del CGPJ denomina erróneamente «Juan Costa» al acusado, frente a las fuentes nominales que identifican a Ricardo Costa.
-
-El voto particular de Joaquín Giménez García no pedía condenarlos: reclamaba anular la sentencia y devolverla al magistrado presidente para motivarla. Que el magistrado figure entre las firmas del documento tampoco supone que se sumara a la decisión mayoritaria.
-
-Según la noticia de ejecución de Europa Press, para Campos se ordenó cobrar la multa de 9.600 euros y 5.529 euros como equivalente del decomiso; para Betoret, la misma multa y la entrega de las prendas o, subsidiariamente, 13.499 euros. No procede sumar la entrega y su equivalente ni incorporar esas cifras como responsabilidad civil o daño público. La declaración de firmeza de ambos se documenta por esa noticia; quedan pendientes los autos originales y la liquidación de ejecución. Tampoco se ha recuperado un testimonio separado de firmeza y devolución de fianzas de los absueltos, aunque sí la sentencia que desestima la casación.
-
-Al 17 de octubre de 2026, no consta una nueva resolución propia de esta pieza. Los resultados de otras causas de Camps o Costa no alteran automáticamente este desenlace.
-
-## Fuentes
-
-- [RTVE, cronología y dimisión, 20 de julio de 2011](https://www.rtve.es/noticias/20110720/camps-dimite-despues-29-meses-investigacion-judicial/449036.shtml)
-- [Europa Press, condenas por conformidad, 16 de septiembre de 2011](https://www.europapress.es/nacional/noticia-amp-gurtel-tsjcv-condena-campos-betoret-pagar-9600-euros-haber-aceptado-trajes-trama-20110916155621.html)
-- [Europa Press, firmeza y ejecución, 21 de octubre de 2011](https://www.europapress.es/nacional/noticia-gurtel-climent-ordena-ejecutar-sentencia-conformidad-contra-campos-betoret-descontarles-9600-multa-20111021114456.html)
-- [TSJCV, sentencia 2/2012](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/STSJCV_1_2012.pdf)
-- [RTVE, anuncio del fallo del Supremo, 9 de abril de 2013](https://www.rtve.es/noticias/20130409/supremo-confirma-absolucion-camps-costa-por-trajes-guertel-por-cuatro-votos-a-uno/634565.shtml)
-- [Tribunal Supremo, sentencia 323/2013](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=2c27401757d45f4b&encode=true&databasematch=AN)

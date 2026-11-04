@@ -11,45 +11,22 @@ estado: Sobreseimiento provisional y archivo de pieza derivada
 resumen: 'Investigación de la tramitación urbanística de El Roblecillo: sobreseimiento provisional en 2017. La pieza
   derivada sobre informes jurídicos fue presentada como archivada en una comunicación de 2019; faltan sus autos
   y la comprobación del alcance y firmeza de los archivos.'
-descripcion: >-
-  El Roblecillo fue una pieza separada de las diligencias de Librilla/Biblioteca sobre la tramitación del
-  sector URS-16 de Caravaca de la Cruz, promovido por Golden Sky S.L. El proyecto anunciado comprendía 8.000
-  viviendas y un campo de golf; esas previsiones no equivalen a viviendas finalmente autorizadas ni
-  construidas. La disponibilidad de agua y los informes de la Confederación Hidrográfica del Segura fueron
-  centrales en la investigación. No se documenta un perjuicio económico judicialmente cuantificado.
+descripcion: |-
+  El Roblecillo fue una pieza separada de las diligencias de Librilla/Biblioteca sobre la tramitación del sector URS-16 de Caravaca de la Cruz, promovido por Golden Sky S.L. El proyecto anunciado comprendía 8.000 viviendas y un campo de golf; esas previsiones no equivalen a viviendas finalmente autorizadas ni construidas. La disponibilidad de agua y los informes de la Confederación Hidrográfica del Segura fueron centrales en la investigación. No se documenta un perjuicio económico judicialmente cuantificado.
 
+  En junio de 2013 hubo registros de la UCO y se comunicó la imputación del alcalde Domingo Aranda por presunto tráfico de influencias. En octubre de 2014 se notificaron nuevas imputaciones a concejales, cargos y técnicos autonómicos y municipales, representantes de la promotora y letradas que habían emitido informes. Amador López dimitió como secretario general de la Consejería de Fomento tras esa decisión. Eran atribuciones provisionales, no condenas.
 
-  En junio de 2013 hubo registros de la UCO y se comunicó la imputación del alcalde Domingo Aranda por
-  presunto tráfico de influencias. En octubre de 2014 se notificaron nuevas imputaciones a concejales, cargos
-  y técnicos autonómicos y municipales, representantes de la promotora y letradas que habían emitido informes.
-  Amador López dimitió como secretario general de la Consejería de Fomento tras esa decisión. Eran
-  atribuciones provisionales, no condenas.
+  El auto de 14 de diciembre de 2017 del Juzgado de Instrucción 6 de Murcia (DP 5084/2008, pieza 0003), firmado por Raquel Lacunza Ruiz, acordó el sobreseimiento provisional por falta de indicios suficientes de prevaricación. Diferenció la tramitación autonómica del plan general de la municipal del plan parcial y examinó la aprobación parcial y los condicionantes hídricos. Preveía reforma y apelación; no se dispone de una certificación de firmeza o de las decisiones posteriores sobre recursos. El archivo no debe presentarse como una condena ni como una sentencia absolutoria.
 
+  La investigación posterior del Juzgado de Primera Instancia e Instrucción 3 de Caravaca sobre informes jurídicos, conocida como caso Acal, tuvo tramitación propia. Europa Press informó en junio de 2018 de citaciones para julio y de un recurso por exceso del plazo de instrucción, citando a una defensa; no acredita que las declaraciones llegaran a celebrarse. En abril de 2019 La Panorámica y Murcia Confidencial reprodujeron una nota del PP que comunicaba el archivo de esa pieza y la ausencia de indicios, con un auto notificado el martes anterior. Esa comunicación política no sustituye al auto ni permite establecer su modalidad, firmeza o alcance individual. La referencia posterior de prensa a un sobreseimiento libre en mayo de 2019 sigue pendiente de comprobación del cuerpo de la noticia y del original: no se adopta como un desenlace acreditado.
 
-  El auto de 14 de diciembre de 2017 del Juzgado de Instrucción 6 de Murcia (DP 5084/2008, pieza 0003),
-  firmado por Raquel Lacunza Ruiz, acordó el sobreseimiento provisional por falta de indicios suficientes de
-  prevaricación. Diferenció la tramitación autonómica del plan general de la municipal del plan parcial y
-  examinó la aprobación parcial y los condicionantes hídricos. Preveía reforma y apelación; no se dispone de
-  una certificación de firmeza o de las decisiones posteriores sobre recursos. El archivo no debe presentarse
-  como una condena ni como una sentencia absolutoria.
+  Hasta octubre de 2026, faltan los autos de la pieza derivada y la documentación sobre firmeza y evolución posterior de cada archivo. Una sentencia contenciosa municipal publicada en versión anonimizada relata un archivo libre de las DP 200/2016 de Caravaca en mayo de 2019, pero no identifica al demandante ni denomina la causa Acal: no se traslada su resultado a personas concretas sin confirmar el vínculo. Los resultados de otras piezas de Biblioteca tampoco se extienden a El Roblecillo.
 
+  La tramitación del plan general y la del plan parcial tienen competencias y efectos diferentes. El [auto de 2017](https://www.caravacaaldia.com/archivos/usuarios/caravacaaldia/2017/55555/auto_de_14-12-2017_cr.pdf) archiva provisionalmente la pieza principal penal. Las previsiones de la promotora sobre viviendas y golf no constituyen una valoración de daño ni prueba de ejecución material del proyecto.
 
-  La investigación posterior del Juzgado de Primera Instancia e Instrucción 3 de Caravaca sobre informes
-  jurídicos, conocida como caso Acal, tuvo tramitación propia. Europa Press informó en junio de 2018 de
-  citaciones para julio y de un recurso por exceso del plazo de instrucción, citando a una defensa; no
-  acredita que las declaraciones llegaran a celebrarse. En abril de 2019 La Panorámica y Murcia Confidencial
-  reprodujeron una nota del PP que comunicaba el archivo de esa pieza y la ausencia de indicios, con un auto
-  notificado el martes anterior. Esa comunicación política no sustituye al auto ni permite establecer su
-  modalidad, firmeza o alcance individual. La referencia posterior de prensa a un sobreseimiento libre en mayo
-  de 2019 sigue pendiente de comprobación del cuerpo de la noticia y del original: no se adopta como un
-  desenlace acreditado.
+  La pieza de Caravaca sobre informes jurídicos siguió otro procedimiento. La [comunicación de 2019](https://www.lapanoramica.es/noticia/el-pp-de-caravaca-expresa-su-satisfaccion-porque-se-haya-hecho-justicia-con-el-ex-alcalde-domingo-aranda-en-el-caso-el-roblecillo/) es una nota del PP reproducida por un medio, no el auto. La noticia de La Verdad de 23 de mayo de 2019 sobre un archivo libre queda como referencia pendiente, sin utilizar su título para acreditar el resultado. La [sentencia contenciosa 259/2022](https://transparencia.caravacadelacruz.es/wp-content/uploads/2023/01/15-Sentencia.pdf) está disponible en versión anonimizada: alude a las DP 200/2016 y a un archivo de 21 de mayo de 2019, pero no permite por sí sola identificar al recurrente ni confirmar la denominación de esa causa. Sus cantidades son gastos de defensa, no perjuicio causado por El Roblecillo.
 
-
-  Hasta octubre de 2026, faltan los autos de la pieza derivada y la documentación sobre firmeza y evolución
-  posterior de cada archivo. Una sentencia contenciosa municipal publicada en versión anonimizada relata un
-  archivo libre de las DP 200/2016 de Caravaca en mayo de 2019, pero no identifica al demandante ni denomina
-  la causa Acal: no se traslada su resultado a personas concretas sin confirmar el vínculo. Los resultados de
-  otras piezas de Biblioteca tampoco se extienden a El Roblecillo.
+  Faltan los autos de la pieza derivada, su alcance por persona y las resoluciones posteriores de recursos o firmeza. No se presume que la falta de noticias equivalga a una reapertura o a un cierre definitivo.
 lugar: Caravaca de la Cruz, Murcia
 tribunal:
 - Juzgado de Instrucción nº 6 de Murcia (pieza principal por prevaricación)
@@ -187,9 +164,3 @@ cronologia:
   - https://www.murciaconfidencial.es/2019_04_04_archive.html?m=0
   - https://www.lapanoramica.es/noticia/el-pp-de-caravaca-expresa-su-satisfaccion-porque-se-haya-hecho-justicia-con-el-ex-alcalde-domingo-aranda-en-el-caso-el-roblecillo/
 ---
-
-La tramitación del plan general y la del plan parcial tienen competencias y efectos diferentes. El [auto de 2017](https://www.caravacaaldia.com/archivos/usuarios/caravacaaldia/2017/55555/auto_de_14-12-2017_cr.pdf) archiva provisionalmente la pieza principal penal. Las previsiones de la promotora sobre viviendas y golf no constituyen una valoración de daño ni prueba de ejecución material del proyecto.
-
-La pieza de Caravaca sobre informes jurídicos siguió otro procedimiento. La [comunicación de 2019](https://www.lapanoramica.es/noticia/el-pp-de-caravaca-expresa-su-satisfaccion-porque-se-haya-hecho-justicia-con-el-ex-alcalde-domingo-aranda-en-el-caso-el-roblecillo/) es una nota del PP reproducida por un medio, no el auto. La noticia de La Verdad de 23 de mayo de 2019 sobre un archivo libre queda como referencia pendiente, sin utilizar su título para acreditar el resultado. La [sentencia contenciosa 259/2022](https://transparencia.caravacadelacruz.es/wp-content/uploads/2023/01/15-Sentencia.pdf) está disponible en versión anonimizada: alude a las DP 200/2016 y a un archivo de 21 de mayo de 2019, pero no permite por sí sola identificar al recurrente ni confirmar la denominación de esa causa. Sus cantidades son gastos de defensa, no perjuicio causado por El Roblecillo.
-
-Faltan los autos de la pieza derivada, su alcance por persona y las resoluciones posteriores de recursos o firmeza. No se presume que la falta de noticias equivalga a una reapertura o a un cierre definitivo.

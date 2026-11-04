@@ -9,53 +9,30 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Sobreseimiento libre para Álvaro Gijón y su familia conocido en julio de 2021; alcance posterior de los
   demás investigados pendiente de cotejo
-descripcion: >-
-  El caso ORA investigó sospechas de amaño y cobro de comisiones en la adjudicación del servicio de
-  estacionamiento regulado de Palma. Entre los investigados figuraron los excargos del PP Álvaro Gijón y José
-  María Rodríguez y el empresario Antoni Roig. Las sospechas no se presentan como hechos probados: el Juzgado
-  de Instrucción nº 12 de Palma acordó el sobreseimiento provisional y archivo por insuficiencia de prueba y
-  ausencia de una parte que sostuviera acusación, según Europa Press y la SER el 15 de enero de 2020.
+descripcion: |-
+  El caso ORA investigó sospechas de amaño y cobro de comisiones en la adjudicación del servicio de estacionamiento regulado de Palma. Entre los investigados figuraron los excargos del PP Álvaro Gijón y José María Rodríguez y el empresario Antoni Roig. Las sospechas no se presentan como hechos probados: el Juzgado de Instrucción nº 12 de Palma acordó el sobreseimiento provisional y archivo por insuficiencia de prueba y ausencia de una parte que sostuviera acusación, según Europa Press y la SER el 15 de enero de 2020.
 
+  El archivo provisional de 2020 fue modificado respecto de Álvaro Gijón, sus padres y su hermano: Crónica Balear informó el 28 de julio de 2021 de que la Sección Primera de la Audiencia Provincial había acordado su sobreseimiento libre, revocando el provisional para ellos. Es un auto, no una sentencia absolutoria. La noticia indicaba que cabía casación; no se ha verificado su firmeza. No se extiende ese pronunciamiento a otros investigados. Tanto el 15 de enero de 2020 como el 28 de julio de 2021 se conservan como fechas de publicación, sin dar por cotejadas las fechas internas de los autos.
 
-  El archivo provisional de 2020 fue modificado respecto de Álvaro Gijón, sus padres y su hermano: Crónica
-  Balear informó el 28 de julio de 2021 de que la Sección Primera de la Audiencia Provincial había acordado su
-  sobreseimiento libre, revocando el provisional para ellos. Es un auto, no una sentencia absolutoria. La
-  noticia indicaba que cabía casación; no se ha verificado su firmeza. No se extiende ese pronunciamiento a
-  otros investigados. Tanto el 15 de enero de 2020 como el 28 de julio de 2021 se conservan como fechas de
-  publicación, sin dar por cotejadas las fechas internas de los autos.
+  La investigación originó detenciones, entre ellas las de Roig y el funcionario Miquel Femenía en octubre de 2016, según información periodística retrospectiva, y las de los padres y el hermano de Gijón el 27 de junio de 2017, documentadas por una crónica contemporánea. Las medidas y sospechas atribuidas entonces no acreditan que existiera una trama ni que los detenidos fueran culpables. Las supuestas comisiones y el blanqueo carecen de cuantificación con respaldo documental suficiente; el importe contractual tampoco equivale a un perjuicio público probado.
 
+  Es distinto el procedimiento seguido contra el juez Manuel Penalva, el fiscal Miguel Ángel Subirán y agentes que intervinieron en las investigaciones de ORA, Cursach y otras piezas. Las crónicas de noviembre de 2023 informaron de condenas a Penalva y Subirán de nueve años y un día de prisión por obstrucción a la justicia y coacciones, además de inhabilitación por omisión del deber de perseguir filtraciones. La crónica de Europa Press publicada por Diario Siglo XXI distingue la suma de penas del límite de cumplimiento de siete años, seis meses y tres días. También recogen absolución por detenciones ilegales, tanto en relación con los funcionarios y empresarios como con la familia de Gijón.
 
-  La investigación originó detenciones, entre ellas las de Roig y el funcionario Miquel Femenía en octubre de
-  2016, según información periodística retrospectiva, y las de los padres y el hermano de Gijón el 27 de junio
-  de 2017, documentadas por una crónica contemporánea. Las medidas y sospechas atribuidas entonces no
-  acreditan que existiera una trama ni que los detenidos fueran culpables. Las supuestas comisiones y el
-  blanqueo carecen de cuantificación con respaldo documental suficiente; el importe contractual tampoco
-  equivale a un perjuicio público probado.
+  Las crónicas distinguieron entre las sospechas que podían justificar inicialmente las detenciones y la finalidad de presión sobre Gijón apreciada por el tribunal. En la declaración como testigo de Teófilo Gijón de septiembre de 2023, sus acusaciones sobre el carácter instrumental de su arresto eran su testimonio, no todavía el fallo. El auto cautelar conocido el 28 de noviembre de 2023 denegó el ingreso preventivo de Penalva y Subirán, impuso retirada de pasaporte y comparecencias y constató recursos ante el Supremo. Una información de Última Hora del 22 de septiembre de 2026 seguía describiendo esos recursos como pendientes; no se ha recuperado una resolución del Supremo para confirmar o modificar las condenas.
 
+  Límites al 17 de octubre de 2026: no se han obtenido originales verificables de los autos de archivo de ORA de 2020 y 2021, de la sentencia contra los investigadores ni de sus recursos. Los resultados se describen según las fuentes periodísticas citadas, sin inferir firmeza ni identificar seudónimos. La condena de los investigadores no es una condena de los políticos o empresarios investigados, ni convierte el archivo de ORA en una absolución judicial. No consta una cuantificación del perjuicio.
 
-  Es distinto el procedimiento seguido contra el juez Manuel Penalva, el fiscal Miguel Ángel Subirán y agentes
-  que intervinieron en las investigaciones de ORA, Cursach y otras piezas. Las crónicas de noviembre de 2023
-  informaron de condenas a Penalva y Subirán de nueve años y un día de prisión por obstrucción a la justicia y
-  coacciones, además de inhabilitación por omisión del deber de perseguir filtraciones. La crónica de Europa
-  Press publicada por Diario Siglo XXI distingue la suma de penas del límite de cumplimiento de siete años,
-  seis meses y tres días. También recogen absolución por detenciones ilegales, tanto en relación con los
-  funcionarios y empresarios como con la familia de Gijón.
+  ### Alcance y asuntos pendientes
 
+  Información disponible al 17 de octubre de 2026. La investigación no permitió recuperar los autos originales de archivo de ORA de 2020 y 2021 ni la sentencia y recursos de la causa contra sus investigadores. Las fechas de publicación no acreditan los días exactos de las resoluciones judiciales.
 
-  Las crónicas distinguieron entre las sospechas que podían justificar inicialmente las detenciones y la
-  finalidad de presión sobre Gijón apreciada por el tribunal. En la declaración como testigo de Teófilo Gijón
-  de septiembre de 2023, sus acusaciones sobre el carácter instrumental de su arresto eran su testimonio, no
-  todavía el fallo. El auto cautelar conocido el 28 de noviembre de 2023 denegó el ingreso preventivo de
-  Penalva y Subirán, impuso retirada de pasaporte y comparecencias y constató recursos ante el Supremo. Una
-  información de Última Hora del 22 de septiembre de 2026 seguía describiendo esos recursos como pendientes;
-  no se ha recuperado una resolución del Supremo para confirmar o modificar las condenas.
+  El archivo de 2021 se describe en la cronología con atribución a [Crónica Balear](https://www.cronicabalear.es/mallorca/2021-07-28/la-audiencia-archiva-definitivamente-el-caso-ora-para-alvaro-gijon-sus-padres-y-su-hermano/). Quedan pendientes los autos, sus fechas internas y la firmeza, además del desenlace individual de los demás investigados. La retrospectiva de Majorca Daily Bulletin fecha el primer archivo en enero de 2021; las fuentes contemporáneas lo sitúan en enero de 2020.
 
+  La información sobre la condena de Penalva y Subirán distingue obstrucción y coacciones de las detenciones ilegales por las que fueron absueltos, según las crónicas citadas. No se presenta la sentencia de noviembre de 2023 como firme: consta casación en la información de 2023 y una mención periodística a recursos pendientes en septiembre de 2026. Faltan su número, fecha interna, fallo íntegro y decisión del Supremo. La petición fiscal de 2024 no equivale a una nueva condena.
 
-  Límites al 17 de octubre de 2026: no se han obtenido originales verificables de los autos de archivo de ORA
-  de 2020 y 2021, de la sentencia contra los investigadores ni de sus recursos. Los resultados se describen
-  según las fuentes periodísticas citadas, sin inferir firmeza ni identificar seudónimos. La condena de los
-  investigadores no es una condena de los políticos o empresarios investigados, ni convierte el archivo de ORA
-  en una absolución judicial. No consta una cuantificación del perjuicio.
+  La referencia general a octubre de 2016 procede de una retrospectiva leída, sin inventar un día. Las cifras de comisiones, presunto blanqueo e importe del contrato carecen de respaldo documental suficiente y no constituyen un daño público probado. No se agrega a esta ficha la indemnización por daño moral fijada en la causa distinta contra investigadores ni se mezcla ORA con IME o con todos los hechos del caso Cursach.
+
+  No se dispone de originales verificables del auto de 2021 ni del fallo del TSJIB de 2023.
 resumen: 'Investigación del contrato ORA de Palma: archivo provisional en 2020 y sobreseimiento libre para Álvaro
   Gijón, sus padres y su hermano conocido en 2021; causa distinta contra los investigadores recurrida'
 lugar: Palma de Mallorca, Baleares
@@ -195,15 +172,3 @@ cronologia:
   urls:
   - https://www.ultimahora.es/sucesos/ultimas/2026/09/22/2713643/ico-afirma-penalva-subiran-dieron-regalos-para-mintiera-caso-cursach.html
 ---
-
-## Alcance y asuntos pendientes
-
-Información disponible al 17 de octubre de 2026. La investigación no permitió recuperar los autos originales de archivo de ORA de 2020 y 2021 ni la sentencia y recursos de la causa contra sus investigadores. Las fechas de publicación no acreditan los días exactos de las resoluciones judiciales.
-
-El archivo de 2021 se describe en la cronología con atribución a [Crónica Balear](https://www.cronicabalear.es/mallorca/2021-07-28/la-audiencia-archiva-definitivamente-el-caso-ora-para-alvaro-gijon-sus-padres-y-su-hermano/). Quedan pendientes los autos, sus fechas internas y la firmeza, además del desenlace individual de los demás investigados. La retrospectiva de Majorca Daily Bulletin fecha el primer archivo en enero de 2021; las fuentes contemporáneas lo sitúan en enero de 2020.
-
-La información sobre la condena de Penalva y Subirán distingue obstrucción y coacciones de las detenciones ilegales por las que fueron absueltos, según las crónicas citadas. No se presenta la sentencia de noviembre de 2023 como firme: consta casación en la información de 2023 y una mención periodística a recursos pendientes en septiembre de 2026. Faltan su número, fecha interna, fallo íntegro y decisión del Supremo. La petición fiscal de 2024 no equivale a una nueva condena.
-
-La referencia general a octubre de 2016 procede de una retrospectiva leída, sin inventar un día. Las cifras de comisiones, presunto blanqueo e importe del contrato carecen de respaldo documental suficiente y no constituyen un daño público probado. No se agrega a esta ficha la indemnización por daño moral fijada en la causa distinta contra investigadores ni se mezcla ORA con IME o con todos los hechos del caso Cursach.
-
-No se dispone de originales verificables del auto de 2021 ni del fallo del TSJIB de 2023.

@@ -8,23 +8,18 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Desenlace judicial no documentado
-descripcion: 'Trasso investigó el presunto uso irregular de personas condenadas a trabajos en beneficio de la comunidad a
-  través de la Fundación Vecinal Blasco Ibáñez, con sede en Loriguilla. La prensa informó el 1 de septiembre de 2015 de catorce
-  detenidos, entre ellos un exalcalde de Loriguilla, un exjefe de su Policía Local y un exconcejal de Gilet. La operación
-  estaba dirigida por el Juzgado de Instrucción n.º 2 de Llíria; no corresponde atribuirla a un juzgado de Valencia sin concretar.
+descripcion: |-
+  Trasso investigó el presunto uso irregular de personas condenadas a trabajos en beneficio de la comunidad a través de la Fundación Vecinal Blasco Ibáñez, con sede en Loriguilla. La prensa informó el 1 de septiembre de 2015 de catorce detenidos, entre ellos un exalcalde de Loriguilla, un exjefe de su Policía Local y un exconcejal de Gilet. La operación estaba dirigida por el Juzgado de Instrucción n.º 2 de Llíria; no corresponde atribuirla a un juzgado de Valencia sin concretar.
 
+  Según la información policial difundida entonces, parte de los trabajos se habría destinado a empresas y viviendas particulares bajo amenazas de no justificar las horas de cumplimiento. También se investigaban servicios nocturnos de «serenos» en Loriguilla y el presunto empleo de fondos municipales para gastos de vehículos. La fundación había recibido a 1.450 personas entre 2010 y 2013: esa cifra expresa el total atendido por el convenio, no un número de víctimas judicialmente declarado. Las calificaciones de trata, explotación y organización criminal eran hipótesis policiales, no condenas.
 
-  Según la información policial difundida entonces, parte de los trabajos se habría destinado a empresas y viviendas particulares
-  bajo amenazas de no justificar las horas de cumplimiento. También se investigaban servicios nocturnos de «serenos» en Loriguilla
-  y el presunto empleo de fondos municipales para gastos de vehículos. La fundación había recibido a 1.450 personas entre
-  2010 y 2013: esa cifra expresa el total atendido por el convenio, no un número de víctimas judicialmente declarado. Las
-  calificaciones de trata, explotación y organización criminal eran hipótesis policiales, no condenas.
+  La información local de diciembre de 2018 identificaba al exalcalde Javier Cervera como investigado en Trasso. No se han localizado resoluciones originales que permitan determinar su desenlace o el de los demás investigados, ni juicio, condenas, absoluciones, archivos, recursos o firmeza al 15 de octubre de 2026. No se presume que la instrucción continúe por falta de noticias. Tampoco consta una valoración económica del perjuicio que permita consignar un coste, ni siquiera cero.
 
+  Los trabajos en beneficio de la comunidad son el contexto de la investigación. Las personas que cumplían esas penas no deben confundirse con los investigados por su gestión ni identificarse todas como víctimas de explotación. La cifra difundida describe el universo recibido por la fundación; falta una resolución que establezca cuántas resultaron afectadas y por qué hechos concretos.
 
-  La información local de diciembre de 2018 identificaba al exalcalde Javier Cervera como investigado en Trasso. No se han
-  localizado resoluciones originales que permitan determinar su desenlace o el de los demás investigados, ni juicio, condenas,
-  absoluciones, archivos, recursos o firmeza al 15 de octubre de 2026. No se presume que la instrucción continúe por falta
-  de noticias. Tampoco consta una valoración económica del perjuicio que permita consignar un coste, ni siquiera cero.'
+  Las noticias iniciales reproducen la versión policial sobre trabajos privados, vigilancia nocturna, coacciones y gastos de vehículos. No se dispone del atestado, del convenio ni de resoluciones que permitan comprobar la evolución de esas hipótesis y la responsabilidad individual de los detenidos. Por ello no se presenta la organización criminal como un hecho probado ni se llama acusados o condenados a los investigados sin respaldo procesal.
+
+  La información de 2018 sobre Cervera es histórica. Otra noticia de ese mismo mes sobre el archivo de una denuncia por supuesto intento de agresión contra Sergio Alfaro se refiere a una causa distinta, y no acredita el archivo de Trasso. El resultado de Trasso, sus eventuales recursos y el estado personal de cada interviniente permanecen sin documentar al corte de 15 de octubre de 2026.
 resumen: Investigación sobre presunta explotación de personas que cumplían trabajos en beneficio de la comunidad; desenlace
   no verificado.
 lugar: Loriguilla, Gilet y Alboraya, provincia de Valencia
@@ -78,9 +73,3 @@ cronologia:
   type: resumen
   relevancia: alta
 ---
-
-Los trabajos en beneficio de la comunidad son el contexto de la investigación. Las personas que cumplían esas penas no deben confundirse con los investigados por su gestión ni identificarse todas como víctimas de explotación. La cifra difundida describe el universo recibido por la fundación; falta una resolución que establezca cuántas resultaron afectadas y por qué hechos concretos.
-
-Las noticias iniciales reproducen la versión policial sobre trabajos privados, vigilancia nocturna, coacciones y gastos de vehículos. No se dispone del atestado, del convenio ni de resoluciones que permitan comprobar la evolución de esas hipótesis y la responsabilidad individual de los detenidos. Por ello no se presenta la organización criminal como un hecho probado ni se llama acusados o condenados a los investigados sin respaldo procesal.
-
-La información de 2018 sobre Cervera es histórica. Otra noticia de ese mismo mes sobre el archivo de una denuncia por supuesto intento de agresión contra Sergio Alfaro se refiere a una causa distinta, y no acredita el archivo de Trasso. El resultado de Trasso, sus eventuales recursos y el estado personal de cada interviniente permanecen sin documentar al corte de 15 de octubre de 2026.

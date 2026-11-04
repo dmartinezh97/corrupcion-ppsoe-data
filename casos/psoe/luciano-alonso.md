@@ -8,14 +8,14 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: absolución
-descripcion: Luciano Alonso Alonso, exconsejero de la Junta de Andalucía, fue juzgado por los nombramientos de personal
-  eventual del Centro Andaluz de Documentación del Flamenco y la Filmoteca de Andalucía, que desempeñaba otras funciones
-  de asesoramiento. El TSJA lo absolvió de prevaricación el 10 de febrero de 2017; el Supremo confirmó esa absolución
-  el 27 de octubre, pero ordenó continuar el juicio únicamente por falsedad documental. El TSJA también lo absolvió
-  de falsedad el 11 de diciembre de 2017. La Fiscalía del Supremo desistió de recurrir mediante escrito de 9 de
-  enero de 2018; la información publicada el 28 de enero dejaba pendiente la resolución de la Sala sobre el desistimiento.
-  No se ha verificado esa resolución ni una declaración de firmeza de esta última absolución hasta el corte del
-  17 de octubre de 2026. No se acredita aquí perjuicio económico ni una condena por malversación.
+descripcion: |-
+  Luciano Alonso Alonso, exconsejero de la Junta de Andalucía, fue juzgado por los nombramientos de personal eventual del Centro Andaluz de Documentación del Flamenco y la Filmoteca de Andalucía, que desempeñaba otras funciones de asesoramiento. El TSJA lo absolvió de prevaricación el 10 de febrero de 2017; el Supremo confirmó esa absolución el 27 de octubre, pero ordenó continuar el juicio únicamente por falsedad documental. El TSJA también lo absolvió de falsedad el 11 de diciembre de 2017. La Fiscalía del Supremo desistió de recurrir mediante escrito de 9 de enero de 2018; la información publicada el 28 de enero dejaba pendiente la resolución de la Sala sobre el desistimiento. No se ha verificado esa resolución ni una declaración de firmeza de esta última absolución hasta el corte del 17 de octubre de 2026. No se acredita aquí perjuicio económico ni una condena por malversación.
+
+  Los nombramientos examinados correspondían a Luis Guerrero Jiménez en el Centro Andaluz de Documentación del Flamenco y a Alejandro J. Cárdenas y María Centeno, sucesivamente, en la Filmoteca. Su mención identifica los puestos cuestionados: no se les atribuye aquí la condición de acusados. Los hechos se referían a puestos existentes y dotados presupuestariamente que se utilizaron para otras tareas de asesoramiento. El relato probado reproducido en la sentencia del Supremo sitúa las decisiones entre 2012 y 2015.
+
+  La [STS 709/2017](https://www.elindependiente.com/wp-content/uploads/2017/11/sentencia-exconsejero-Cultura-andaluz.pdf) confirmó la absolución por prevaricación y dispuso una repetición limitada al examen de la falsedad documental, sin modificar los hechos objeto de acusación. No ordenó reabrir la prevaricación ni dictó una condena. La posterior [absolución por falsedad](https://www.europapress.es/andalucia/noticia-tsja-absuelve-exconsejero-luciano-alonso-supuesta-falsedad-documental-nombramientos-20171211140227.html) consideró que las irregularidades administrativas no convertían los nombramientos y ceses en documentos falsos.
+
+  El [desistimiento fiscal conocido en enero de 2018](https://www.europapress.es/andalucia/noticia-fiscalia-supremo-desiste-recurrir-absolucion-exconsejero-luciano-alonso-falsedad-nombramientos-20180128103737.html) se distingue de la resolución judicial que debía pronunciarse sobre él, no recuperada. Esa laguna impide precisar la fecha de firmeza de la segunda absolución. Tampoco se dispone del texto original de las dos sentencias del TSJA. No se cuantifica daño patrimonial: la existencia de plazas y retribuciones no permite equiparar su gasto a perjuicio acreditado.
 resumen: Absoluciones por prevaricación y falsedad documental en nombramientos de personal eventual de Cultura.
 lugar: Andalucía
 tribunal:
@@ -86,9 +86,3 @@ cronologia:
   type: recurso
   relevancia: alta
 ---
-
-Los nombramientos examinados correspondían a Luis Guerrero Jiménez en el Centro Andaluz de Documentación del Flamenco y a Alejandro J. Cárdenas y María Centeno, sucesivamente, en la Filmoteca. Su mención identifica los puestos cuestionados: no se les atribuye aquí la condición de acusados. Los hechos se referían a puestos existentes y dotados presupuestariamente que se utilizaron para otras tareas de asesoramiento. El relato probado reproducido en la sentencia del Supremo sitúa las decisiones entre 2012 y 2015.
-
-La [STS 709/2017](https://www.elindependiente.com/wp-content/uploads/2017/11/sentencia-exconsejero-Cultura-andaluz.pdf) confirmó la absolución por prevaricación y dispuso una repetición limitada al examen de la falsedad documental, sin modificar los hechos objeto de acusación. No ordenó reabrir la prevaricación ni dictó una condena. La posterior [absolución por falsedad](https://www.europapress.es/andalucia/noticia-tsja-absuelve-exconsejero-luciano-alonso-supuesta-falsedad-documental-nombramientos-20171211140227.html) consideró que las irregularidades administrativas no convertían los nombramientos y ceses en documentos falsos.
-
-El [desistimiento fiscal conocido en enero de 2018](https://www.europapress.es/andalucia/noticia-fiscalia-supremo-desiste-recurrir-absolucion-exconsejero-luciano-alonso-falsedad-nombramientos-20180128103737.html) se distingue de la resolución judicial que debía pronunciarse sobre él, no recuperada. Esa laguna impide precisar la fecha de firmeza de la segunda absolución. Tampoco se dispone del texto original de las dos sentencias del TSJA. No se cuantifica daño patrimonial: la existencia de plazas y retribuciones no permite equiparar su gasto a perjuicio acreditado.

@@ -9,39 +9,20 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "desconocido"
-descripcion: >-
-  En junio de 2016 se hicieron públicos requerimientos del Tribunal de Cuentas sobre seis expedientes de gasto
-  del Ayuntamiento de Cabezón de la Sal correspondientes a 2013, durante la alcaldía de María Esther Merino
-  Portugal (PP, 2011-2015). Según explicó la alcaldesa Isabel Fernández (PSOE), faltaba documentación
-  justificativa de un expediente de 1,6 millones de euros y otros cinco por 90.000 euros. La información
-  publicada situaba un requerimiento anterior en 2014, sin precisar el día.
+descripcion: |-
+  En junio de 2016 se hicieron públicos requerimientos del Tribunal de Cuentas sobre seis expedientes de gasto del Ayuntamiento de Cabezón de la Sal correspondientes a 2013, durante la alcaldía de María Esther Merino Portugal (PP, 2011-2015). Según explicó la alcaldesa Isabel Fernández (PSOE), faltaba documentación justificativa de un expediente de 1,6 millones de euros y otros cinco por 90.000 euros. La información publicada situaba un requerimiento anterior en 2014, sin precisar el día.
 
+  Merino negó irregularidades. En junio atribuyó la partida principal a la previsión plurianual del servicio de basuras y los 90.000 euros a indemnizaciones y gastos judiciales del Programa Escaramujo. En diciembre, Europa Press recogió su explicación de que los 1,6 millones eran el coste estimado de la recogida de basuras por MARE durante diez años y el resto, reconocimientos extrapresupuestarios y gastos judiciales. Estas cantidades son importes cuestionados contablemente; no consta aquí una resolución que los declare dinero sustraído o perjuicio probado.
 
-  Merino negó irregularidades. En junio atribuyó la partida principal a la previsión plurianual del servicio
-  de basuras y los 90.000 euros a indemnizaciones y gastos judiciales del Programa Escaramujo. En diciembre,
-  Europa Press recogió su explicación de que los 1,6 millones eran el coste estimado de la recogida de basuras
-  por MARE durante diez años y el resto, reconocimientos extrapresupuestarios y gastos judiciales. Estas
-  cantidades son importes cuestionados contablemente; no consta aquí una resolución que los declare dinero
-  sustraído o perjuicio probado.
+  En diciembre de 2016, El Faradio informó de que Fernández había presentado en los juzgados de Torrelavega una denuncia sobre presunta ocultación de ingresos municipales. La denuncia no se dirigía contra una persona concreta y pedía determinar las responsabilidades. Merino rechazó las acusaciones. El portavoz del PRC, Víctor Reinoso, sostuvo que los requerimientos sobre basuras y personal habían sido contestados sin recibir más notificaciones; esa declaración no equivale a una resolución de archivo.
 
+  En marzo de 2019, elDiario.es informó de su incorporación a Ciudadanos y de que había tenido una investigación en el Tribunal Supremo por presunta prevaricación y tráfico de influencias, tras la remisión de la Fiscalía de Cantabria por su aforamiento como senadora. El artículo vinculaba esas diligencias al método de recaudación de impuestos durante su mandato. No permite identificar automáticamente ese asunto con los seis expedientes de gasto examinados por el Tribunal de Cuentas.
 
-  En diciembre de 2016, El Faradio informó de que Fernández había presentado en los juzgados de Torrelavega
-  una denuncia sobre presunta ocultación de ingresos municipales. La denuncia no se dirigía contra una persona
-  concreta y pedía determinar las responsabilidades. Merino rechazó las acusaciones. El portavoz del PRC,
-  Víctor Reinoso, sostuvo que los requerimientos sobre basuras y personal habían sido contestados sin recibir
-  más notificaciones; esa declaración no equivale a una resolución de archivo.
+  No se ha podido verificar una resolución de archivo, apertura de juicio, condena o absolución de estos asuntos ni su situación procesal a 15 de octubre de 2026. Las informaciones de 2016 y 2019 no acreditan que las investigaciones sigan abiertas en esa fecha.
 
+  Los requerimientos sobre seis expedientes de gasto de 2013 y las diligencias sobre recaudación tributaria no pueden tratarse como un único procedimiento sin una resolución que permita relacionarlos. Las cantidades mencionadas en la controversia contable no constituyen por sí solas un perjuicio económico acreditado.
 
-  En marzo de 2019, elDiario.es informó de su incorporación a Ciudadanos y de que había tenido una
-  investigación en el Tribunal Supremo por presunta prevaricación y tráfico de influencias, tras la remisión
-  de la Fiscalía de Cantabria por su aforamiento como senadora. El artículo vinculaba esas diligencias al
-  método de recaudación de impuestos durante su mandato. No permite identificar automáticamente ese asunto con
-  los seis expedientes de gasto examinados por el Tribunal de Cuentas.
-
-
-  No se ha podido verificar una resolución de archivo, apertura de juicio, condena o absolución de estos
-  asuntos ni su situación procesal a 15 de octubre de 2026. Las informaciones de 2016 y 2019 no acreditan que
-  las investigaciones sigan abiertas en esa fecha.
+  Las explicaciones de Merino sobre la duración del convenio de basuras difieren entre las informaciones de junio y diciembre de 2016. La afirmación del PRC de que los requerimientos habían sido contestados tampoco prueba el archivo de un procedimiento. Quedan por verificar los números de expediente, sus resoluciones y el desenlace judicial.
 resumen: "Requerimientos contables sobre gastos municipales de 2013 y denuncias relativas a la gestión de Esther Merino en Cabezón de la Sal, sin desenlace judicial verificado."
 lugar: "Cabezón de la Sal, Cantabria"
 tribunal:
@@ -93,7 +74,3 @@ cronologia:
       - "https://www.eldiario.es/cantabria/politica/ciudadanos-pp-esther-merino-supremo_1_1658240.html"
       - "https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17010&legis=12"
 ---
-
-Los requerimientos sobre seis expedientes de gasto de 2013 y las diligencias sobre recaudación tributaria no pueden tratarse como un único procedimiento sin una resolución que permita relacionarlos. Las cantidades mencionadas en la controversia contable no constituyen por sí solas un perjuicio económico acreditado.
-
-Las explicaciones de Merino sobre la duración del convenio de basuras difieren entre las informaciones de junio y diciembre de 2016. La afirmación del PRC de que los requerimientos habían sido contestados tampoco prueba el archivo de un procedimiento. Quedan por verificar los números de expediente, sus resoluciones y el desenlace judicial.

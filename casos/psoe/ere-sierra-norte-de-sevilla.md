@@ -9,26 +9,24 @@ estadoPrincipal: Pendiente de sentencia
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: desconocido
-descripcion: 'Esta ficha corresponde a la pieza Rosendo-Sayago, sobre ayudas por un importe investigado de 34.264.273
-  euros concedidas a empresas vinculadas a José Enrique Rosendo Ríos y José María Sayago Lozano. Entre las entidades
-  citadas en la instrucción figuran Matadero de la Sierra Morena, Arcadia Emprendedora, Sodelp y Marco de Estudios
-  y Proyección Siglo XXI. La memoria de Fiscalía identifica las actuaciones como DP 902/16 y PA 217/20. No debe
-  confundirse con otras piezas de empresas de la Sierra Norte, incluidas las del sector del corcho, ni atribuir
-  a todas las sociedades el mismo resultado judicial.
+descripcion: |-
+  Esta ficha corresponde a la pieza Rosendo-Sayago, sobre ayudas por un importe investigado de 34.264.273 euros concedidas a empresas vinculadas a José Enrique Rosendo Ríos y José María Sayago Lozano. Entre las entidades citadas en la instrucción figuran Matadero de la Sierra Morena, Arcadia Emprendedora, Sodelp y Marco de Estudios y Proyección Siglo XXI. La memoria de Fiscalía identifica las actuaciones como DP 902/16 y PA 217/20. No debe confundirse con otras piezas de empresas de la Sierra Norte, incluidas las del sector del corcho, ni atribuir a todas las sociedades el mismo resultado judicial.
 
+  El juicio comenzó el 16 de febrero de 2026 ante la Sección Primera de la Audiencia de Sevilla. Sayago reconoció los hechos relativos a la recepción de ayudas y manifestó arrepentimiento, pero negó la estafa atribuida por BBVA. La Fiscalía redujo a tres años de prisión su petición en las conclusiones definitivas del 4 de marzo; no es una condena. Eduardo Lora y Manuel Valdecantos también fueron enjuiciados; Manuel Robles quedó excluido de la vista por su estado de salud, según la crónica del inicio. Daniel Alberto Rivera había sido excluido por un auto de 11 de abril de 2023 relativo a los plazos de instrucción.
 
-  El juicio comenzó el 16 de febrero de 2026 ante la Sección Primera de la Audiencia de Sevilla. Sayago reconoció
-  los hechos relativos a la recepción de ayudas y manifestó arrepentimiento, pero negó la estafa atribuida por BBVA.
-  La Fiscalía redujo a tres años de prisión su petición en las conclusiones definitivas del 4 de marzo; no es una
-  condena. Eduardo Lora y Manuel Valdecantos también fueron enjuiciados; Manuel Robles quedó excluido de la vista
-  por su estado de salud, según la crónica del inicio. Daniel Alberto Rivera había sido excluido por un
-  auto de 11 de abril de 2023 relativo a los plazos de instrucción.
+  La crónica publicada el 12 de marzo de 2026 sitúa el juicio visto para sentencia el día anterior. No se ha verificado una sentencia posterior, su resultado individual, posibles recursos o firmeza al 17 de octubre de 2026, ni se han recuperado los autos judiciales originales citados. El importe agregado de las ayudas no se presenta como perjuicio fijado por sentencia. La muerte de Rosendo en 2016 tampoco permite atribuirle una condena en este juicio.
 
+  La denominación geográfica Sierra Norte abarca distintas investigaciones y no identifica por sí sola un único procedimiento. El objeto conservado aquí es el entramado Rosendo-Sayago de 34.264.273 euros, con las actuaciones DP 902/16 y PA 217/20 identificadas en la memoria de Fiscalía. No se incorpora como acusado de esta pieza a Ángel Rodríguez de la Borbolla por sus empresas del corcho ni se traslada aquí el resultado de aquellos procedimientos. Tampoco se utilizan las condenas de la pieza política para dar por condenados a los acusados de esta ficha.
 
-  La crónica publicada el 12 de marzo de 2026 sitúa el juicio visto para sentencia el día anterior. No se ha verificado
-  una sentencia posterior, su resultado individual, posibles recursos o firmeza al 17 de octubre de 2026, ni se
-  han recuperado los autos judiciales originales citados. El importe agregado de las ayudas no se presenta como
-  perjuicio fijado por sentencia. La muerte de Rosendo en 2016 tampoco permite atribuirle una condena en este juicio.'
+  La información de la apertura de juicio oral describe ayudas a distintas sociedades. Entre ellas cita Matadero de la Sierra Morena, con aproximadamente 7,5 millones de euros, así como Arcadia Emprendedora, Sociedad del Desarrollo de El Pedroso (Sodelp) y Marco de Estudios y Proyección Siglo XXI. El relato de instrucción atribuye a muchas de las sociedades falta de actividad o trabajadores y trasvases internos de fondos. Esas son atribuciones de la investigación, no una conclusión uniforme sobre cada empresa. En su declaración, Sayago sostuvo que se habían construido proyectos reales y que una parte del dinero permanecía invertida en ellos.
+
+  Los 34,26 millones son un agregado de ayudas investigadas. Las resoluciones de ayuda, los convenios para materializar sus pagos, las fianzas y las restituciones tienen funciones distintas y pueden solaparse; no se suman como cantidades independientes ni se identifican automáticamente con un perjuicio judicialmente declarado. El año 2003 conservado en la ficha corresponde al período en que la noticia de la apertura sitúa una fuerte concentración de convenios —entre julio de 2003 y febrero de 2004—, sin fijar un día de inicio de toda la operativa.
+
+  El BOP de 2003 acredita la presencia de Sayago Lozano y Rosendo Ríos en la candidatura del PSOE de El Pedroso. En el juicio, Sayago declaró que nunca había pertenecido a un partido y que actuó subordinado a Rosendo. Se distinguen el dato documental de la candidatura, que no prueba por sí solo militancia formal o toma de posesión, y la versión del acusado sobre su conducta. No se mantiene sin comprobación adicional la identificación de ambos como concejales a partir únicamente de aquella lista.
+
+  La apertura de juicio oral incluyó cinco personas. Rivera fue excluido en 2023 por la cuestión de plazos de instrucción relatada en la prensa. Rosendo había fallecido y no compareció como acusado en 2026. Robles fue excluido de la vista por salud; falta la resolución para precisar si la decisión tuvo algún alcance adicional. Para Lora y Valdecantos se conservan la condición de acusados y las peticiones iniciales, sin asignarles un resultado penal desconocido.
+
+  El reconocimiento de hechos de Sayago no se convierte en una sentencia de conformidad ni alcanza automáticamente la acusación de estafa de BBVA, que negó. La petición definitiva de tres años de Fiscalía y la propuesta de tres meses de su defensa son distintas. La última fase acreditada es el juicio visto para sentencia en marzo de 2026; no se afirma que siga pendiente por el solo hecho de no haber localizado una resolución posterior. Faltan los autos originales relevantes, el fallo individual y cualquier pronunciamiento sobre recursos o firmeza.
 resumen: 'Pieza Rosendo-Sayago: juicio concluido en marzo de 2026, con sentencia y resultados posteriores no verificados'
 lugar: Sierra Norte de Sevilla, especialmente El Pedroso, Andalucía
 tribunal:
@@ -138,15 +136,3 @@ cronologia:
     type: juicio
     relevancia: alta
 ---
-
-La denominación geográfica Sierra Norte abarca distintas investigaciones y no identifica por sí sola un único procedimiento. El objeto conservado aquí es el entramado Rosendo-Sayago de 34.264.273 euros, con las actuaciones DP 902/16 y PA 217/20 identificadas en la memoria de Fiscalía. No se incorpora como acusado de esta pieza a Ángel Rodríguez de la Borbolla por sus empresas del corcho ni se traslada aquí el resultado de aquellos procedimientos. Tampoco se utilizan las condenas de la pieza política para dar por condenados a los acusados de esta ficha.
-
-La información de la apertura de juicio oral describe ayudas a distintas sociedades. Entre ellas cita Matadero de la Sierra Morena, con aproximadamente 7,5 millones de euros, así como Arcadia Emprendedora, Sociedad del Desarrollo de El Pedroso (Sodelp) y Marco de Estudios y Proyección Siglo XXI. El relato de instrucción atribuye a muchas de las sociedades falta de actividad o trabajadores y trasvases internos de fondos. Esas son atribuciones de la investigación, no una conclusión uniforme sobre cada empresa. En su declaración, Sayago sostuvo que se habían construido proyectos reales y que una parte del dinero permanecía invertida en ellos.
-
-Los 34,26 millones son un agregado de ayudas investigadas. Las resoluciones de ayuda, los convenios para materializar sus pagos, las fianzas y las restituciones tienen funciones distintas y pueden solaparse; no se suman como cantidades independientes ni se identifican automáticamente con un perjuicio judicialmente declarado. El año 2003 conservado en la ficha corresponde al período en que la noticia de la apertura sitúa una fuerte concentración de convenios —entre julio de 2003 y febrero de 2004—, sin fijar un día de inicio de toda la operativa.
-
-El BOP de 2003 acredita la presencia de Sayago Lozano y Rosendo Ríos en la candidatura del PSOE de El Pedroso. En el juicio, Sayago declaró que nunca había pertenecido a un partido y que actuó subordinado a Rosendo. Se distinguen el dato documental de la candidatura, que no prueba por sí solo militancia formal o toma de posesión, y la versión del acusado sobre su conducta. No se mantiene sin comprobación adicional la identificación de ambos como concejales a partir únicamente de aquella lista.
-
-La apertura de juicio oral incluyó cinco personas. Rivera fue excluido en 2023 por la cuestión de plazos de instrucción relatada en la prensa. Rosendo había fallecido y no compareció como acusado en 2026. Robles fue excluido de la vista por salud; falta la resolución para precisar si la decisión tuvo algún alcance adicional. Para Lora y Valdecantos se conservan la condición de acusados y las peticiones iniciales, sin asignarles un resultado penal desconocido.
-
-El reconocimiento de hechos de Sayago no se convierte en una sentencia de conformidad ni alcanza automáticamente la acusación de estafa de BBVA, que negó. La petición definitiva de tres años de Fiscalía y la propuesta de tres meses de su defensa son distintas. La última fase acreditada es el juicio visto para sentencia en marzo de 2026; no se afirma que siga pendiente por el solo hecho de no haber localizado una resolución posterior. Faltan los autos originales relevantes, el fallo individual y cualquier pronunciamiento sobre recursos o firmeza.

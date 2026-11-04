@@ -9,20 +9,22 @@ estadoPrincipal: Pendiente de juicio
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: pendiente de juicio
-descripcion: 'Esta pieza investiga la financiación pública del ERE de Yogures Andaluces mediante ayudas por 6.379.142,48
-  euros para un seguro de rentas. El auto de 1 de octubre de 2021, difundido por el CGPJ el día 5, acordó continuar
-  por procedimiento abreviado contra cuatro investigados por posibles delitos de prevaricación, tráfico de influencias
-  y malversación, dando traslado para acusar, solicitar el sobreseimiento o diligencias complementarias. No fue
-  una condena ni una apertura de juicio oral.
+descripcion: |-
+  Esta pieza investiga la financiación pública del ERE de Yogures Andaluces mediante ayudas por 6.379.142,48 euros para un seguro de rentas. El auto de 1 de octubre de 2021, difundido por el CGPJ el día 5, acordó continuar por procedimiento abreviado contra cuatro investigados por posibles delitos de prevaricación, tráfico de influencias y malversación, dando traslado para acusar, solicitar el sobreseimiento o diligencias complementarias. No fue una condena ni una apertura de juicio oral.
 
+  La memoria oficial de Fiscalía de 2026 identifica DP 2492/16–PA 172/21, fecha la calificación fiscal el 27 de octubre de 2021 y registra la causa pendiente de señalamiento. Esa referencia no acredita su situación posterior hasta el 17 de octubre de 2026: no se ha verificado un juicio celebrado, sentencia ni desenlace individual posterior. El importe de las ayudas no se presenta como daño judicialmente fijado. La condición de responsables civiles subsidiarias atribuida en 2021 a las entidades no es una condena firme; tampoco se ha verificado el original de la posterior resolución sobre responsabilidad civil reseñada por la prensa. Las decisiones de la pieza política de los ERE no se trasladan automáticamente a esta causa.
 
-  La memoria oficial de Fiscalía de 2026 identifica DP 2492/16–PA 172/21, fecha la calificación fiscal el 27 de
-  octubre de 2021 y registra la causa pendiente de señalamiento. Esa referencia no acredita su situación posterior
-  hasta el 17 de octubre de 2026: no se ha verificado un juicio celebrado, sentencia ni desenlace individual posterior.
-  El importe de las ayudas no se presenta como daño judicialmente fijado. La condición de responsables civiles subsidiarias
-  atribuida en 2021 a las entidades no es una condena firme; tampoco se ha verificado el original de la posterior
-  resolución sobre responsabilidad civil reseñada por la prensa. Las decisiones de la pieza política de los ERE
-  no se trasladan automáticamente a esta causa.'
+  La pieza se refiere a las ayudas para financiar las indemnizaciones del ERE de Yogures Andaluces mediante un seguro de rentas. La [información de 2021](https://www.elespanol.com/espana/andalucia/20211005/conseguidor-ere-juan-lanzas-investigado-millones-irregulares/617188924_0.html) sitúa el ERE en diciembre de 2000 y habla de 54 trabajadores, pero no acredita el día exacto de concesión. No consta el día exacto de inicio. Los 6.379.142,48 euros son la cuantía de las ayudas examinadas y no un daño firme, una multa o una obligación civil definitivamente determinada.
+
+  La [nota del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-acuerda-continuar-el-procedimiento-contra-cuatro-personas-investigadas-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-6-3-millones-a-Yogures-Andaluces) fecha el auto el 1 de octubre de 2021. Describe posibles irregularidades en la obtención de las ayudas, su falta de procedimiento y control y el papel de los cuatro investigados. La continuación por procedimiento abreviado abre un trámite para las acusaciones; no declara la culpabilidad ni equivale por sí misma a abrir el juicio oral. La prensa identifica a Juan Lanzas y Pedro Astals, mientras que publica con iniciales los nombres de los dos directivos de Yogan. Se conservan esas iniciales sin completar apellidos a partir de datos no corroborados.
+
+  El mismo comunicado distingue a los cuatro investigados de los dos exconsejeros excluidos y del exdirector general ya fallecido. Las resoluciones de la Audiencia de 11 de enero y 3 de abril de 2019 se mencionan como fundamento de la exclusión de Viera y Fernández, ya encausados en el procedimiento específico. No se infiere de ello una absolución sobre el fondo ni se importan aquí los resultados de amparo o de recursos de la pieza política. El cobro de sobrecomisiones y su eventual desvío se investiga en otra pieza; no se suman esos fondos a los de Yogan.
+
+  Las entidades fueron incluidas en 2021 como posibles responsables civiles subsidiarias. La [información posterior sobre la reclamación civil](https://elpais.com/espana/2024-07-18/la-junta-aparca-en-los-juzgados-su-promesa-de-reclamar-todo-el-dinero-defraudado-en-los-ere.html) exige comprobar el auto para delimitar su alcance, sin equipararla a una absolución penal.
+
+  La [memoria de Fiscalía de 2026](https://www.fiscal.es/memorias/memoria2026/FISCALIA_SITE/capitulo_II/cap_II_6_6.html) identifica DP 2492/16–PA 172/21, una calificación de 27 de octubre de 2021 y la condición de pendiente de señalamiento. En la tabla aparece el 7 de abril de 2026 como referencia utilizada para calcular el tiempo de espera de las causas pendientes: no se interpreta como fecha de celebración de juicio. Tampoco se da un día ficticio al acto de publicación de la memoria.
+
+  A 17 de octubre de 2026 no se han verificado las peticiones de pena por persona, un señalamiento posterior, la celebración de juicio ni una sentencia de esta pieza. Faltan los originales de los autos y de la resolución civil posterior. Estas lagunas impiden dar por cerrado el contraste del expediente y explican que no se incorpore ningún PDF como documento judicial verificado.
 resumen: 'Financiación del ERE de Yogan: procedimiento abreviado contra cuatro personas en 2021 y pendiente de señalamiento
   según la memoria fiscal de 2026.'
 lugar: Sevilla, Andalucía
@@ -133,15 +135,3 @@ cronologia:
   type: recurso
   relevancia: alta
 ---
-
-La pieza se refiere a las ayudas para financiar las indemnizaciones del ERE de Yogures Andaluces mediante un seguro de rentas. La [información de 2021](https://www.elespanol.com/espana/andalucia/20211005/conseguidor-ere-juan-lanzas-investigado-millones-irregulares/617188924_0.html) sitúa el ERE en diciembre de 2000 y habla de 54 trabajadores, pero no acredita el día exacto de concesión. No consta el día exacto de inicio. Los 6.379.142,48 euros son la cuantía de las ayudas examinadas y no un daño firme, una multa o una obligación civil definitivamente determinada.
-
-La [nota del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-acuerda-continuar-el-procedimiento-contra-cuatro-personas-investigadas-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-de-6-3-millones-a-Yogures-Andaluces) fecha el auto el 1 de octubre de 2021. Describe posibles irregularidades en la obtención de las ayudas, su falta de procedimiento y control y el papel de los cuatro investigados. La continuación por procedimiento abreviado abre un trámite para las acusaciones; no declara la culpabilidad ni equivale por sí misma a abrir el juicio oral. La prensa identifica a Juan Lanzas y Pedro Astals, mientras que publica con iniciales los nombres de los dos directivos de Yogan. Se conservan esas iniciales sin completar apellidos a partir de datos no corroborados.
-
-El mismo comunicado distingue a los cuatro investigados de los dos exconsejeros excluidos y del exdirector general ya fallecido. Las resoluciones de la Audiencia de 11 de enero y 3 de abril de 2019 se mencionan como fundamento de la exclusión de Viera y Fernández, ya encausados en el procedimiento específico. No se infiere de ello una absolución sobre el fondo ni se importan aquí los resultados de amparo o de recursos de la pieza política. El cobro de sobrecomisiones y su eventual desvío se investiga en otra pieza; no se suman esos fondos a los de Yogan.
-
-Las entidades fueron incluidas en 2021 como posibles responsables civiles subsidiarias. La [información posterior sobre la reclamación civil](https://elpais.com/espana/2024-07-18/la-junta-aparca-en-los-juzgados-su-promesa-de-reclamar-todo-el-dinero-defraudado-en-los-ere.html) exige comprobar el auto para delimitar su alcance, sin equipararla a una absolución penal.
-
-La [memoria de Fiscalía de 2026](https://www.fiscal.es/memorias/memoria2026/FISCALIA_SITE/capitulo_II/cap_II_6_6.html) identifica DP 2492/16–PA 172/21, una calificación de 27 de octubre de 2021 y la condición de pendiente de señalamiento. En la tabla aparece el 7 de abril de 2026 como referencia utilizada para calcular el tiempo de espera de las causas pendientes: no se interpreta como fecha de celebración de juicio. Tampoco se da un día ficticio al acto de publicación de la memoria.
-
-A 17 de octubre de 2026 no se han verificado las peticiones de pena por persona, un señalamiento posterior, la celebración de juicio ni una sentencia de esta pieza. Faltan los originales de los autos y de la resolución civil posterior. Estas lagunas impiden dar por cerrado el contraste del expediente y explican que no se incorpore ningún PDF como documento judicial verificado.

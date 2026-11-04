@@ -9,39 +9,22 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absoluciones en la pieza principal; procedimientos derivados
-descripcion: 'El caso Cursach reúne investigaciones distintas surgidas de pesquisas sobre la Policía Local de Palma. La pieza
-  principal contra el empresario Bartolomé Cursach y otros acusados terminó sin condenados: el CGPJ comunicó el 22 de diciembre
-  de 2022 la absolución de los 23 procesados, 21 por retirada de las acusaciones y dos por sentencia. La supuesta estructura
-  policial al servicio de los negocios del empresario no quedó acreditada. Antoni Bergas estuvo entre los seis acusados absueltos
-  ya al comenzar el juicio, el 13 de junio de 2022; Cursach y Bartolomé Sbert fueron absueltos tras las retiradas posteriores.
-  La sentencia notificada en diciembre era recurrible. Una noticia de diciembre de 2024 describe un recurso contra esa absolución;
-  no se ha verificado su resultado ni la firmeza individual hasta el 15 de octubre de 2026.
+descripcion: |-
+  El caso Cursach reúne investigaciones distintas surgidas de pesquisas sobre la Policía Local de Palma. La pieza principal contra el empresario Bartolomé Cursach y otros acusados terminó sin condenados: el CGPJ comunicó el 22 de diciembre de 2022 la absolución de los 23 procesados, 21 por retirada de las acusaciones y dos por sentencia. La supuesta estructura policial al servicio de los negocios del empresario no quedó acreditada. Antoni Bergas estuvo entre los seis acusados absueltos ya al comenzar el juicio, el 13 de junio de 2022; Cursach y Bartolomé Sbert fueron absueltos tras las retiradas posteriores. La sentencia notificada en diciembre era recurrible. Una noticia de diciembre de 2024 describe un recurso contra esa absolución; no se ha verificado su resultado ni la firmeza individual hasta el 15 de octubre de 2026.
 
+  Otro procedimiento se dirigió contra los investigadores. Según las crónicas de noviembre de 2023, el TSJ de Baleares condenó a Manuel Penalva y Miguel Ángel Subirán a nueve años y un día de prisión por obstrucción a la justicia y coacciones, además de inhabilitación por omitir la persecución de filtraciones. Los hechos de condena corresponden a la investigación del concurso de la ORA, no a una declaración global sobre toda la instrucción de Cursach. También condenó a Miguel Ángel Blanco, Iván Bandera y Blanca Ruiz y absolvió a José Luis García Reguera. Las noticias de septiembre y octubre de 2026 sitúan pendientes los recursos ante el Supremo. No se ha recuperado la sentencia original ni una resolución de casación o de firmeza individual; no se atribuye la misma situación a todos los acusados.
 
-  Otro procedimiento se dirigió contra los investigadores. Según las crónicas de noviembre de 2023, el TSJ de Baleares condenó
-  a Manuel Penalva y Miguel Ángel Subirán a nueve años y un día de prisión por obstrucción a la justicia y coacciones, además
-  de inhabilitación por omitir la persecución de filtraciones. Los hechos de condena corresponden a la investigación del concurso
-  de la ORA, no a una declaración global sobre toda la instrucción de Cursach. También condenó a Miguel Ángel Blanco, Iván
-  Bandera y Blanca Ruiz y absolvió a José Luis García Reguera. Las noticias de septiembre y octubre de 2026 sitúan pendientes
-  los recursos ante el Supremo. No se ha recuperado la sentencia original ni una resolución de casación o de firmeza individual;
-  no se atribuye la misma situación a todos los acusados.
+  En la pieza de las oposiciones, distinta de las anteriores, Europa Press informó el 22 de marzo de 2024 de la condena de Enrique Calvo por revelación de secretos a 13.500 euros de multa y nueve meses de inhabilitación, y de la absolución de los demás acusados. No se ha verificado el original ni sus recursos o firmeza. La multa no se contabiliza como perjuicio económico. La cifra de 51 millones de supuesto fraude fiscal era una estimación policial rechazada por Hacienda, según la noticia de archivo de esa pieza de noviembre de 2018; tampoco es un daño probado. La indemnización de 6.500 euros a Álvaro Gijón descrita en la condena de los investigadores corresponde a daño moral en la pieza ORA y no a un coste global del caso.
 
+  Las deducciones de testimonio acordadas al terminar el juicio principal dieron lugar a nuevas investigaciones contra instructores y testigos. La información del 14 de octubre de 2026 anuncia que siete denunciantes han sido citados como investigados para diciembre y que seguía pendiente la abstención de la jueza que investigaba a Penalva y Subirán. Estas citaciones y sospechas no son condenas. Los PDF verificados de la STC 30/2022 y el ATC 102/2022 se refieren al acceso de periodistas y medios a la jurisdicción y a los recursos en el incidente de filtraciones; no deciden las acusaciones penales ni declaran por sí solos vulnerados todos los derechos materiales invocados. Quedan pendientes originales penales, el resultado de recursos y el desenlace de las causas derivadas.
 
-  En la pieza de las oposiciones, distinta de las anteriores, Europa Press informó el 22 de marzo de 2024 de la condena de
-  Enrique Calvo por revelación de secretos a 13.500 euros de multa y nueve meses de inhabilitación, y de la absolución de
-  los demás acusados. No se ha verificado el original ni sus recursos o firmeza. La multa no se contabiliza como perjuicio
-  económico. La cifra de 51 millones de supuesto fraude fiscal era una estimación policial rechazada por Hacienda, según la
-  noticia de archivo de esa pieza de noviembre de 2018; tampoco es un daño probado. La indemnización de 6.500 euros a Álvaro
-  Gijón descrita en la condena de los investigadores corresponde a daño moral en la pieza ORA y no a un coste global del caso.
+  La [nota judicial de diciembre de 2022](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Archivo-de-notas-de-prensa/La-Audiencia-de-Balears-absuelve-a-los-dos-policias-locales-que-seguian-acusados-en-el--Caso-Cursach-) distingue las 21 absoluciones por retirada de acusación de las dos pronunciadas respecto de los policías que seguían acusados. La [crónica del inicio de la vista](https://www.eldiario.es/illes-balears/politica/juicio-cursach-arranca-primera-contienda-partes-seis-acusados_1_9079706.html) identifica expresamente la absolución de Antoni Bergas. La investigación inicial no permite describir como probada una organización criminal ni atribuir a personas absueltas los relatos de los testigos.
 
+  La [condena de los investigadores conocida en 2023](https://www.eldiario.es/illes-balears/sociedad/justicia-balear-condena-nueve-anos-carcel-juez-fiscal-investigaron-magnate-cursach_1_10646221.html) se centra en hechos de la investigación ORA. Las [noticias de octubre de 2026](https://www.menorca.info/balears/noticias/2026/10/14/2728221/juzgado-cita-como-imputados-por-mentir-principales-denunciantes-del-caso-cursach.html) sitúan pendientes sus recursos y describen diligencias distintas contra instructores y denunciantes. No se ha verificado el original penal ni una decisión posterior de casación, la firmeza por persona o todos los resultados de las restantes piezas. La noticia de un recurso contra la absolución principal tampoco permite tratar todos sus pronunciamientos como firmes.
 
-  Las deducciones de testimonio acordadas al terminar el juicio principal dieron lugar a nuevas investigaciones contra instructores
-  y testigos. La información del 14 de octubre de 2026 anuncia que siete denunciantes han sido citados como investigados para
-  diciembre y que seguía pendiente la abstención de la jueza que investigaba a Penalva y Subirán. Estas citaciones y sospechas
-  no son condenas. Los PDF verificados de la STC 30/2022 y el ATC 102/2022 se refieren al acceso de periodistas y medios a
-  la jurisdicción y a los recursos en el incidente de filtraciones; no deciden las acusaciones penales ni declaran por sí
-  solos vulnerados todos los derechos materiales invocados. Quedan pendientes originales penales, el resultado de recursos
-  y el desenlace de las causas derivadas.'
+  La STC 30/2022 debe interpretarse junto a su rectificación, ATC 102/2022. El amparo protege el acceso a la jurisdicción y a los recursos de periodistas y medios en el incidente de filtraciones. No constituye una absolución o condena penal de los instructores ni una resolución material sobre todos los derechos que los recurrentes invocaron.
+
+  No se fija coste global. Los 51 millones del informe policial fueron rechazados por Hacienda, la multa de Calvo es una sanción penal y los 6.500 euros atribuidos a Gijón son una indemnización por daño moral en otro procedimiento. Son magnitudes diferentes y no se suman como pérdida de fondos públicos.
 resumen: La pieza principal terminó con 23 absoluciones; las condenas de los investigadores por la pieza ORA, el caso Exámenes
   y las nuevas investigaciones tienen alcance y recursos diferentes.
 lugar: Palma de Mallorca (Illes Balears)
@@ -279,11 +262,3 @@ cronologia:
   type: investigacion
   relevancia: media
 ---
-
-La [nota judicial de diciembre de 2022](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Archivo-de-notas-de-prensa/La-Audiencia-de-Balears-absuelve-a-los-dos-policias-locales-que-seguian-acusados-en-el--Caso-Cursach-) distingue las 21 absoluciones por retirada de acusación de las dos pronunciadas respecto de los policías que seguían acusados. La [crónica del inicio de la vista](https://www.eldiario.es/illes-balears/politica/juicio-cursach-arranca-primera-contienda-partes-seis-acusados_1_9079706.html) identifica expresamente la absolución de Antoni Bergas. La investigación inicial no permite describir como probada una organización criminal ni atribuir a personas absueltas los relatos de los testigos.
-
-La [condena de los investigadores conocida en 2023](https://www.eldiario.es/illes-balears/sociedad/justicia-balear-condena-nueve-anos-carcel-juez-fiscal-investigaron-magnate-cursach_1_10646221.html) se centra en hechos de la investigación ORA. Las [noticias de octubre de 2026](https://www.menorca.info/balears/noticias/2026/10/14/2728221/juzgado-cita-como-imputados-por-mentir-principales-denunciantes-del-caso-cursach.html) sitúan pendientes sus recursos y describen diligencias distintas contra instructores y denunciantes. No se ha verificado el original penal ni una decisión posterior de casación, la firmeza por persona o todos los resultados de las restantes piezas. La noticia de un recurso contra la absolución principal tampoco permite tratar todos sus pronunciamientos como firmes.
-
-La STC 30/2022 debe interpretarse junto a su rectificación, ATC 102/2022. El amparo protege el acceso a la jurisdicción y a los recursos de periodistas y medios en el incidente de filtraciones. No constituye una absolución o condena penal de los instructores ni una resolución material sobre todos los derechos que los recurrentes invocaron.
-
-No se fija coste global. Los 51 millones del informe policial fueron rechazados por Hacienda, la multa de Calvo es una sanción penal y los 6.500 euros atribuidos a Gijón son una indemnización por daño moral en otro procedimiento. Son magnitudes diferentes y no se suman como pérdida de fondos públicos.

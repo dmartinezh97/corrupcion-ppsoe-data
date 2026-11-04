@@ -8,11 +8,18 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas y absoluciones en procedimientos distintos
-descripcion: 'Conjunto de procedimientos relacionados con Juan Guerra, hermano del entonces vicepresidente Alfonso Guerra.
-  Las resoluciones consultadas documentan condenas por prevaricación en Fridex y por dos delitos fiscales, así como absoluciones
-  en otros asuntos. No se equipara el uso del despacho oficial con una condena: el Supremo revocó la de usurpación. Faltan
-  originales de algunos procedimientos y resoluciones de ejecución para completar el estado al corte de 17 de octubre
-  de 2026.'
+descripcion: |-
+  Conjunto de procedimientos relacionados con Juan Guerra, hermano del entonces vicepresidente Alfonso Guerra. Las resoluciones consultadas documentan condenas por prevaricación en Fridex y por dos delitos fiscales, así como absoluciones en otros asuntos. No se equipara el uso del despacho oficial con una condena: el Supremo revocó la de usurpación. Faltan originales de algunos procedimientos y resoluciones de ejecución para completar el estado al corte de 17 de octubre de 2026.
+
+  Cada resolución tiene un objeto propio. La [STC 41/1998](https://www.boe.es/diario_boe/txt.php?id=BOE-T-1998-7400) permite comprobar la condena de Fridex y su pena exacta; no era una absolución general por prevaricación. La [absolución sobre el despacho](https://elpais.com/diario/1996/10/26/espana/846280803_850215.html) tampoco elimina las otras condenas. La [información sobre Fracosur](https://elpais.com/diario/1993/07/29/espana/743896816_850215.html) describe una condena inicial posteriormente revocada. No se ofrece un recuento cerrado de juicios sin verificar todos los expedientes.
+
+  En la causa fiscal, los antecedentes 1 y 2 de la [STC 87/2001](https://www.boe.es/buscar/doc.php?id=BOE-T-2001-8423) reseñan multas diferentes para Arenas y Guerra y cantidades de responsabilidad civil de 33.642.968 y 20.742.240 pesetas por cada delito. Las multas, cuotas y responsabilidades civiles de los distintos condenados no equivalen a un daño global. Su suma podría duplicar obligaciones y no resuelve las discrepancias con los resúmenes periodísticos.
+
+  La misma resolución recoge autos de 10 de marzo de 1997 que suspendieron cautelarmente las penas privativas de libertad durante el amparo, con alcance limitado. Esto no prueba por sí solo la posterior remisión de la pena ni su ejecución. Queda pendiente el original de la decisión de 2002 reseñada por la prensa y la comprobación de pagos y ejecución.
+
+  El [archivo por alzamiento de 2012](https://elpais.com/ccaa/2012/10/01/andalucia/1349117467_391581.html) es otro procedimiento. Los cargos o vínculos familiares de Alfonso Guerra y Felipe González no acreditan su responsabilidad penal. No constan días exactos de inicio o cierre. La entrevista posterior de Juan Guerra no equivale a una revisión judicial de las condenas.
+
+  Corte: 17 de octubre de 2026. Los documentos adjuntos son PDF oficiales del BOE que incluyen otras resoluciones: sus fechas son las de publicación, distintas de las sentencias. Faltan originales penales, alcance del archivo de 2012, firmeza individual documentada y ejecución completa.
 resumen: 'Juan Guerra: condenas en Fridex y por delitos fiscales; absoluciones y archivos en otros procedimientos, con
   ejecución pendiente de verificar.'
 lugar: Sevilla y Alcalá de Guadaíra, Andalucía
@@ -97,13 +104,3 @@ cronologia:
   urls:
   - https://elpais.com/ccaa/2012/10/01/andalucia/1349117467_391581.html
 ---
-
-Cada resolución tiene un objeto propio. La [STC 41/1998](https://www.boe.es/diario_boe/txt.php?id=BOE-T-1998-7400) permite comprobar la condena de Fridex y su pena exacta; no era una absolución general por prevaricación. La [absolución sobre el despacho](https://elpais.com/diario/1996/10/26/espana/846280803_850215.html) tampoco elimina las otras condenas. La [información sobre Fracosur](https://elpais.com/diario/1993/07/29/espana/743896816_850215.html) describe una condena inicial posteriormente revocada. No se ofrece un recuento cerrado de juicios sin verificar todos los expedientes.
-
-En la causa fiscal, los antecedentes 1 y 2 de la [STC 87/2001](https://www.boe.es/buscar/doc.php?id=BOE-T-2001-8423) reseñan multas diferentes para Arenas y Guerra y cantidades de responsabilidad civil de 33.642.968 y 20.742.240 pesetas por cada delito. Las multas, cuotas y responsabilidades civiles de los distintos condenados no equivalen a un daño global. Su suma podría duplicar obligaciones y no resuelve las discrepancias con los resúmenes periodísticos.
-
-La misma resolución recoge autos de 10 de marzo de 1997 que suspendieron cautelarmente las penas privativas de libertad durante el amparo, con alcance limitado. Esto no prueba por sí solo la posterior remisión de la pena ni su ejecución. Queda pendiente el original de la decisión de 2002 reseñada por la prensa y la comprobación de pagos y ejecución.
-
-El [archivo por alzamiento de 2012](https://elpais.com/ccaa/2012/10/01/andalucia/1349117467_391581.html) es otro procedimiento. Los cargos o vínculos familiares de Alfonso Guerra y Felipe González no acreditan su responsabilidad penal. No constan días exactos de inicio o cierre. La entrevista posterior de Juan Guerra no equivale a una revisión judicial de las condenas.
-
-Corte: 17 de octubre de 2026. Los documentos adjuntos son PDF oficiales del BOE que incluyen otras resoluciones: sus fechas son las de publicación, distintas de las sentencias. Faltan originales penales, alcance del archivo de 2012, firmeza individual documentada y ejecución completa.

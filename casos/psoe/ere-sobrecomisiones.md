@@ -8,11 +8,18 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Sin señalamiento según Fiscalía en abril de 2025; evolución posterior pendiente
-descripcion: Pieza de los ERE sobre presuntas comisiones excesivas en la mediación de pólizas de prejubilación, distinta
-  del procedimiento específico o pieza política. La información judicial publicada en 2021 cifró el exceso investigado
-  en 66.033.237,30 euros, sin equivaler a daño establecido por sentencia. Fiscalía la registraba sin señalamiento a 4
-  de abril de 2025. La Audiencia archivó respecto a Daniel Alberto Rivera en julio de 2024 por un defecto procesal. No
-  se ha acreditado aquí una sentencia posterior ni el estado completo al corte de 17 de octubre de 2026.
+descripcion: |-
+  Pieza de los ERE sobre presuntas comisiones excesivas en la mediación de pólizas de prejubilación, distinta del procedimiento específico o pieza política. La información judicial publicada en 2021 cifró el exceso investigado en 66.033.237,30 euros, sin equivaler a daño establecido por sentencia. Fiscalía la registraba sin señalamiento a 4 de abril de 2025. La Audiencia archivó respecto a Daniel Alberto Rivera en julio de 2024 por un defecto procesal. No se ha acreditado aquí una sentencia posterior ni el estado completo al corte de 17 de octubre de 2026.
+
+  La investigación se refiere al exceso de remuneración de mediadoras de seguros, no al importe global de las ayudas ERE. [Diario de Sevilla](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/juez-procesa-Vilaplana-investigados-millones-sobrecomisiones-ERE_0_1640236290.html) informó en diciembre de 2021 de una estimación instructora de 29.804.937,20 euros para el grupo Uniter y 36.228.300,10 para Vitalia: total 66.033.237,30 euros. Son cantidades investigadas, no una reparación establecida en sentencia. Los 700 millones no constituyen un perjuicio acreditado de esta pieza.
+
+  La [noticia de EFE de 2023](https://www.elconfidencial.com/espana/andalucia/2023-02-17/35-fianzas-millonarias-juicio-comisiones-ere_3577974/) describe acusaciones y fianzas, no condenas. Los sindicatos mencionados como responsables civiles no deben presentarse por ello como acusados penalmente. Las exclusiones de Antonio Fernández y Juan Márquez anunciadas en 2019 tampoco describen por sí solas el resultado posterior: ambos aparecen nuevamente en las actuaciones reseñadas en [2024](https://www.europapress.es/andalucia/noticia-audiencia-sevilla-excluye-ex-director-trabajo-daniel-rivera-pieza-ere-sobrecomisiones-20240725162808.html). No se han obtenido los autos necesarios para reconstruir toda esa secuencia.
+
+  La [memoria oficial de Fiscalía](https://www.fiscal.es/memorias/memoria2025/FISCALIA_SITE/capitulo_II/cap_II_6_6.html), página impresa 594 (página 33 del PDF), sitúa esta pieza pendiente de señalamiento a 4 de abril de 2025. La explicación de la página 591 aclara ese uso de la fecha. El PDF tiene 34 páginas; la fecha de documentos corresponde a su generación informática el 30 de septiembre de 2025, no a una resolución judicial ni a una publicación acreditada en ese día.
+
+  No se trasladan a esta pieza las condenas de 2019, los recursos del procedimiento específico ni los efectos de amparos del Constitucional sin resolución individual que los aplique.
+
+  Información disponible al 17 de octubre de 2026. Quedan pendientes los autos originales, las decisiones sobre las acusaciones y recursos posteriores, el eventual señalamiento y desenlace del juicio y la situación individual de todos los afectados. La ausencia de noticias no demuestra la inexistencia de resoluciones posteriores.
 resumen: Presuntas sobrecomisiones en pólizas de los ERE; juicio pendiente de señalamiento según Fiscalía en abril de
   2025, con archivo individual de Rivera en 2024.
 lugar: Sevilla, Andalucía
@@ -83,13 +90,3 @@ cronologia:
   - https://www.fiscal.es/memorias/memoria2025/FISCALIA_SITE/capitulo_II/cap_II_6_6.html
   - https://www.fiscal.es/documents/13333297/13754860/Memoria%2B2025%2BFiscal%C3%ADa%2BAnticorrupcion.pdf/b22bb740-7ac2-6dd6-b109-22299bb82324?t=1760183405890
 ---
-
-La investigación se refiere al exceso de remuneración de mediadoras de seguros, no al importe global de las ayudas ERE. [Diario de Sevilla](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/juez-procesa-Vilaplana-investigados-millones-sobrecomisiones-ERE_0_1640236290.html) informó en diciembre de 2021 de una estimación instructora de 29.804.937,20 euros para el grupo Uniter y 36.228.300,10 para Vitalia: total 66.033.237,30 euros. Son cantidades investigadas, no una reparación establecida en sentencia. Los 700 millones no constituyen un perjuicio acreditado de esta pieza.
-
-La [noticia de EFE de 2023](https://www.elconfidencial.com/espana/andalucia/2023-02-17/35-fianzas-millonarias-juicio-comisiones-ere_3577974/) describe acusaciones y fianzas, no condenas. Los sindicatos mencionados como responsables civiles no deben presentarse por ello como acusados penalmente. Las exclusiones de Antonio Fernández y Juan Márquez anunciadas en 2019 tampoco describen por sí solas el resultado posterior: ambos aparecen nuevamente en las actuaciones reseñadas en [2024](https://www.europapress.es/andalucia/noticia-audiencia-sevilla-excluye-ex-director-trabajo-daniel-rivera-pieza-ere-sobrecomisiones-20240725162808.html). No se han obtenido los autos necesarios para reconstruir toda esa secuencia.
-
-La [memoria oficial de Fiscalía](https://www.fiscal.es/memorias/memoria2025/FISCALIA_SITE/capitulo_II/cap_II_6_6.html), página impresa 594 (página 33 del PDF), sitúa esta pieza pendiente de señalamiento a 4 de abril de 2025. La explicación de la página 591 aclara ese uso de la fecha. El PDF tiene 34 páginas; la fecha de documentos corresponde a su generación informática el 30 de septiembre de 2025, no a una resolución judicial ni a una publicación acreditada en ese día.
-
-No se trasladan a esta pieza las condenas de 2019, los recursos del procedimiento específico ni los efectos de amparos del Constitucional sin resolución individual que los aplique.
-
-Información disponible al 17 de octubre de 2026. Quedan pendientes los autos originales, las decisiones sobre las acusaciones y recursos posteriores, el eventual señalamiento y desenlace del juicio y la situación individual de todos los afectados. La ausencia de noticias no demuestra la inexistencia de resoluciones posteriores.

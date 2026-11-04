@@ -8,34 +8,34 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: sobreseimiento
-descripcion: >-
-  La investigación Edu en Huelva examinó la gestión de subvenciones de formación por personal de la Delegación
-  de Empleo y, en piezas separadas, la actuación de empresas beneficiarias. Diario de Huelva informó en mayo
-  de 2016 de la división en diez piezas empresariales y del sobreseimiento respecto de otras diecinueve
-  entidades. La pieza principal se mantuvo sobre los cargos y funcionarios; no debe confundirse su resultado
-  con el de todas las empresas ni con otras causas andaluzas de formación.
+descripcion: |-
+  La investigación Edu en Huelva examinó la gestión de subvenciones de formación por personal de la Delegación de Empleo y, en piezas separadas, la actuación de empresas beneficiarias. Diario de Huelva informó en mayo de 2016 de la división en diez piezas empresariales y del sobreseimiento respecto de otras diecinueve entidades. La pieza principal se mantuvo sobre los cargos y funcionarios; no debe confundirse su resultado con el de todas las empresas ni con otras causas andaluzas de formación.
 
+  Europa Press informó en enero de 2018 de que la Audiencia Provincial de Huelva confirmó la continuación por procedimiento abreviado contra el exdelegado Eduardo Muñoz y otros seis cargos o funcionarios por indicios de prevaricación y malversación. Esa decisión no era una condena. En abril de 2018 la Fiscalía solicitó el sobreseimiento provisional; el juez discrepó y pidió un pronunciamiento del superior fiscal. En mayo el fiscal jefe ratificó la petición, explicando que no había prueba sólida para acusar y que las irregularidades examinadas podían tener cobertura legal o explicación administrativa.
 
-  Europa Press informó en enero de 2018 de que la Audiencia Provincial de Huelva confirmó la continuación por
-  procedimiento abreviado contra el exdelegado Eduardo Muñoz y otros seis cargos o funcionarios por indicios
-  de prevaricación y malversación. Esa decisión no era una condena. En abril de 2018 la Fiscalía solicitó el
-  sobreseimiento provisional; el juez discrepó y pidió un pronunciamiento del superior fiscal. En mayo el
-  fiscal jefe ratificó la petición, explicando que no había prueba sólida para acusar y que las
-  irregularidades examinadas podían tener cobertura legal o explicación administrativa.
+  EFE publicó el 5 de julio de 2018 que el Juzgado de Instrucción número 5 de Huelva había acordado el sobreseimiento y archivo de la pieza principal a petición de la Fiscalía y la Junta de Andalucía, aunque el instructor mantenía su apreciación de indicios. No hubo una declaración judicial de culpabilidad por ese archivo. En diciembre de 2018 se informó de la desestimación de una reforma contra el archivo de una pieza empresarial; en esa pieza la Fiscalía y la Junta sí recurrieron, lo que impide describir una retirada general de acusaciones sobre toda la causa.
 
+  No se ha obtenido el auto original de archivo ni se han verificado todos los resultados y recursos de las piezas empresariales hasta el 17 de octubre de 2026. La fecha exacta, la modalidad del sobreseimiento principal y su firmeza quedan pendientes de cotejo documental; por ello no se fija un cierre global y persisten esas carencias documentales.
 
-  EFE publicó el 5 de julio de 2018 que el Juzgado de Instrucción número 5 de Huelva había acordado el
-  sobreseimiento y archivo de la pieza principal a petición de la Fiscalía y la Junta de Andalucía, aunque el
-  instructor mantenía su apreciación de indicios. No hubo una declaración judicial de culpabilidad por ese
-  archivo. En diciembre de 2018 se informó de la desestimación de una reforma contra el archivo de una pieza
-  empresarial; en esa pieza la Fiscalía y la Junta sí recurrieron, lo que impide describir una retirada
-  general de acusaciones sobre toda la causa.
+  ### Resultado y alcance
 
+  La [información de EFE de 5 de julio de 2018](https://www.lavanguardia.com/politica/20180705/45694598676/juez-archiva-pieza-principal-cursos-formacion-huelva-a-peticion-acusaciones.html) documenta el sobreseimiento y archivo de la pieza principal por ausencia de acusación para continuar. Recoge la discrepancia del instructor, pero esa apreciación de indicios no equivale a hechos probados en una sentencia condenatoria. No está acreditado que todos los cursos fueran inexistentes o fraudulentos ni que hubiera una cobertura institucional.
 
-  No se ha obtenido el auto original de archivo ni se han verificado todos los resultados y recursos de las
-  piezas empresariales hasta el 17 de octubre de 2026. La fecha exacta, la modalidad del sobreseimiento
-  principal y su firmeza quedan pendientes de cotejo documental; por ello no se fija un cierre global y
-  persisten esas carencias documentales.
+  La [explicación fiscal publicada por Europa Press el 18 de mayo](https://www.europapress.es/andalucia/huelva-00354/noticia-fiscal-jefe-huelva-confirma-solicitud-archivo-provisional-pieza-principal-cursos-formacion-20180518133243.html) expone la otra posición procesal: petición de sobreseimiento provisional, falta de prueba sólida de conductas delictivas y explicaciones legales o administrativas para las irregularidades examinadas. Ambas posiciones deben atribuirse a sus autores. La Fiscalía es una parte procesal, no el órgano que dicta el auto de archivo.
+
+  ### Piezas empresariales separadas
+
+  La noticia de mayo de 2016 distingue diez piezas sobre empresas de la pieza principal referida al personal de la Junta. Por su parte, la [noticia de 29 de diciembre de 2018](https://www.andaluciainformacion.es/articulo/huelva/desestiman-recursos-contra-el-archivo-de-pieza-de-cursos-de-formacion/201812291215232052212.amp.html) describe una reforma contra un archivo empresarial en la que Fiscalía y Junta sí recurrieron. No identifica la empresa ni permite concluir el resultado de las diez piezas en conjunto. Por ello no se conserva la fórmula de que ambas acusaciones abandonaron todos los procedimientos.
+
+  Los hechos relativos a Formades, Punta Umbría, otras provincias o la pieza política instruida en Sevilla requieren identificación y resoluciones propias. Sus resultados no se trasladan a la pieza principal onubense.
+
+  ### Importes e incertidumbres
+
+  Europa Press sitúa el ámbito investigado en subvenciones de la convocatoria de 2011 y refiere cerca de 12 millones de euros para 129 entidades. Es volumen examinado, no daño declarado. El umbral de 120.000 euros mencionado al separar piezas empresariales tampoco cuantifica un perjuicio probado. No consta una cuantificación judicial del daño; esa falta de cuantificación no demuestra la inexistencia de perjuicio administrativo.
+
+  No se han obtenido originales verificables del auto principal de archivo, de los recursos o de las resoluciones individuales empresariales. El enlace judicial no ofrece una resolución accesible. La memoria de Fiscalía requiere autenticación y no está disponible para corroborar su contenido.
+
+  Al corte del **17 de octubre de 2026** no se ha localizado una actualización que permita reconstruir todos los resultados empresariales o acreditar firmeza del archivo principal. No se infiere firmeza por ausencia de noticias. No consta una fecha de cierre global. Las fechas de las seis entradas son fechas de publicación; los actos citados con otra fecha se distinguen en su texto. No están acreditados el inicio en enero de 2007 ni la apertura judicial exacta el 16 de julio de 2014.
 resumen: Archivo de la pieza principal sobre cargos de Empleo comunicado en julio de 2018; piezas empresariales
   y firmeza pendientes de comprobación completa.
 lugar: Huelva, Andalucía
@@ -122,23 +122,3 @@ cronologia:
   type: recurso
   relevancia: alta
 ---
-
-## Resultado y alcance
-
-La [información de EFE de 5 de julio de 2018](https://www.lavanguardia.com/politica/20180705/45694598676/juez-archiva-pieza-principal-cursos-formacion-huelva-a-peticion-acusaciones.html) documenta el sobreseimiento y archivo de la pieza principal por ausencia de acusación para continuar. Recoge la discrepancia del instructor, pero esa apreciación de indicios no equivale a hechos probados en una sentencia condenatoria. No está acreditado que todos los cursos fueran inexistentes o fraudulentos ni que hubiera una cobertura institucional.
-
-La [explicación fiscal publicada por Europa Press el 18 de mayo](https://www.europapress.es/andalucia/huelva-00354/noticia-fiscal-jefe-huelva-confirma-solicitud-archivo-provisional-pieza-principal-cursos-formacion-20180518133243.html) expone la otra posición procesal: petición de sobreseimiento provisional, falta de prueba sólida de conductas delictivas y explicaciones legales o administrativas para las irregularidades examinadas. Ambas posiciones deben atribuirse a sus autores. La Fiscalía es una parte procesal, no el órgano que dicta el auto de archivo.
-
-## Piezas empresariales separadas
-
-La noticia de mayo de 2016 distingue diez piezas sobre empresas de la pieza principal referida al personal de la Junta. Por su parte, la [noticia de 29 de diciembre de 2018](https://www.andaluciainformacion.es/articulo/huelva/desestiman-recursos-contra-el-archivo-de-pieza-de-cursos-de-formacion/201812291215232052212.amp.html) describe una reforma contra un archivo empresarial en la que Fiscalía y Junta sí recurrieron. No identifica la empresa ni permite concluir el resultado de las diez piezas en conjunto. Por ello no se conserva la fórmula de que ambas acusaciones abandonaron todos los procedimientos.
-
-Los hechos relativos a Formades, Punta Umbría, otras provincias o la pieza política instruida en Sevilla requieren identificación y resoluciones propias. Sus resultados no se trasladan a la pieza principal onubense.
-
-## Importes e incertidumbres
-
-Europa Press sitúa el ámbito investigado en subvenciones de la convocatoria de 2011 y refiere cerca de 12 millones de euros para 129 entidades. Es volumen examinado, no daño declarado. El umbral de 120.000 euros mencionado al separar piezas empresariales tampoco cuantifica un perjuicio probado. No consta una cuantificación judicial del daño; esa falta de cuantificación no demuestra la inexistencia de perjuicio administrativo.
-
-No se han obtenido originales verificables del auto principal de archivo, de los recursos o de las resoluciones individuales empresariales. El enlace judicial no ofrece una resolución accesible. La memoria de Fiscalía requiere autenticación y no está disponible para corroborar su contenido.
-
-Al corte del **17 de octubre de 2026** no se ha localizado una actualización que permita reconstruir todos los resultados empresariales o acreditar firmeza del archivo principal. No se infiere firmeza por ausencia de noticias. No consta una fecha de cierre global. Las fechas de las seis entradas son fechas de publicación; los actos citados con otra fecha se distinguen en su texto. No están acreditados el inicio en enero de 2007 ni la apertura judicial exacta el 16 de julio de 2014.

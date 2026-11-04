@@ -9,15 +9,16 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas y absolución
 lugar: Plasencia, Cáceres
-descripcion: 'Procedimiento por adjudicaciones municipales de obras, con condenas por prevaricación y fraude modificadas
-  en apelación. La sentencia inicial es de 10 de julio de 2014, publicada el 14; la Audiencia de Cáceres redujo
-  las penas en marzo de 2015. Elia María Blanco, Enrique Tornero y José Antonio Romero quedaron condenados a dos
-  años y un día de prisión; Barbancho y Raimundo fueron absueltos del fraude, conservando condenas por prevaricación;
-  Pablo Sánchez del Mazo fue absuelto totalmente. Las fuentes documentan el ingreso de Blanco en prisión el 12 de
-  mayo de 2015 y su tercer grado conocido en agosto de 2016. Santa Bárbara es otro procedimiento: condena de conformidad
-  de 30 de mayo de 2019 a cuatro años y tres meses de inhabilitación, firme según Europa Press. Faltan originales
-  de apelación y Santa Bárbara, desenlace del amparo e indulto referidos en 2016, comprobación de cumplimiento y
-  cobros hasta 17 de octubre de 2026. No se mantiene como daño definitivo el importe inicial de 248.000 euros.'
+descripcion: |-
+  Procedimiento por adjudicaciones municipales de obras, con condenas por prevaricación y fraude modificadas en apelación. La sentencia inicial es de 10 de julio de 2014, publicada el 14; la Audiencia de Cáceres redujo las penas en marzo de 2015. Elia María Blanco, Enrique Tornero y José Antonio Romero quedaron condenados a dos años y un día de prisión; Barbancho y Raimundo fueron absueltos del fraude, conservando condenas por prevaricación; Pablo Sánchez del Mazo fue absuelto totalmente. Las fuentes documentan el ingreso de Blanco en prisión el 12 de mayo de 2015 y su tercer grado conocido en agosto de 2016. Santa Bárbara es otro procedimiento: condena de conformidad de 30 de mayo de 2019 a cuatro años y tres meses de inhabilitación, firme según Europa Press. Faltan originales de apelación y Santa Bárbara, desenlace del amparo e indulto referidos en 2016, comprobación de cumplimiento y cobros hasta 17 de octubre de 2026. No se mantiene como daño definitivo el importe inicial de 248.000 euros.
+
+  El [original de primera instancia](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/J.Penal%20Plasencia.pdf) permite distinguir la fecha de resolución,10 de julio de 2014, de su publicación judicial,14 de julio. Contiene una condena inicial posteriormente modificada y una absolución del delito de tráfico de influencias. Sus nombres están anonimizados; la [información nominal de la apelación](https://www.europapress.es/extremadura/noticia-audiencia-provincial-caceres-estima-parcialmente-recursos-condenados-caso-plasencia-20150327185740.html) se utiliza para identificar los resultados personales, sin deducir correspondencias a partir de los seudónimos.
+
+  Según esa noticia, la Audiencia aplicó dilaciones indebidas. Para Blanco, Tornero y Romero, además de dos años y un día de prisión, fijó ocho años y un día de inhabilitación por fraude. La inhabilitación por prevaricación quedó en ocho años, seis meses y un día para Blanco y Tornero y en cinco años, tres meses y un día para Romero. Las penas de los restantes acusados se recogen individualmente.
+
+  La responsabilidad civil inicial sumaba conceptos de varias obras, pero fue revisada en apelación. La noticia identifica indemnizaciones menores por obras concretas y obligaciones solidarias; falta el original para cotejar íntegramente cuantías y eventuales omisiones o errores de transcripción. No se suma por cada condenado la misma obligación solidaria ni se conserva el importe inicial como coste definitivo. No se ha acreditado el cobro.
+
+  La [ejecución penitenciaria](https://www.eldiario.es/extremadura/exalcaldesa-plasencia-carcel-obtener-tercer_1_4647914.html) no demuestra por sí misma el cumplimiento total de todas las penas. La [petición de indulto y el amparo](https://www.eldiario.es/extremadura/psoe-plasencia-elia-blanco-penitenciario_1_4062107.html) requieren resolución propia; no se infiere su resultado del silencio posterior. La [condena de Santa Bárbara](https://www.europapress.es/extremadura/noticia-elia-blanco-exalcaldesa-plasencia-condenada-anos-inhabilitacion-prevaricacion-continuada-20190530121926.html) se refiere a la inacción ante viviendas ilegales y constituye un procedimiento distinto, sin prolongar automáticamente el periodo del fraude contractual.
 resumen: Condenas modificadas en apelación y absolución total de un exedil por adjudicaciones de obras; Santa Bárbara
   es una causa distinta.
 tribunal:
@@ -111,11 +112,3 @@ cronologia:
   type: sentencia
   relevancia: alta
 ---
-
-El [original de primera instancia](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/J.Penal%20Plasencia.pdf) permite distinguir la fecha de resolución,10 de julio de 2014, de su publicación judicial,14 de julio. Contiene una condena inicial posteriormente modificada y una absolución del delito de tráfico de influencias. Sus nombres están anonimizados; la [información nominal de la apelación](https://www.europapress.es/extremadura/noticia-audiencia-provincial-caceres-estima-parcialmente-recursos-condenados-caso-plasencia-20150327185740.html) se utiliza para identificar los resultados personales, sin deducir correspondencias a partir de los seudónimos.
-
-Según esa noticia, la Audiencia aplicó dilaciones indebidas. Para Blanco, Tornero y Romero, además de dos años y un día de prisión, fijó ocho años y un día de inhabilitación por fraude. La inhabilitación por prevaricación quedó en ocho años, seis meses y un día para Blanco y Tornero y en cinco años, tres meses y un día para Romero. Las penas de los restantes acusados se recogen individualmente.
-
-La responsabilidad civil inicial sumaba conceptos de varias obras, pero fue revisada en apelación. La noticia identifica indemnizaciones menores por obras concretas y obligaciones solidarias; falta el original para cotejar íntegramente cuantías y eventuales omisiones o errores de transcripción. No se suma por cada condenado la misma obligación solidaria ni se conserva el importe inicial como coste definitivo. No se ha acreditado el cobro.
-
-La [ejecución penitenciaria](https://www.eldiario.es/extremadura/exalcaldesa-plasencia-carcel-obtener-tercer_1_4647914.html) no demuestra por sí misma el cumplimiento total de todas las penas. La [petición de indulto y el amparo](https://www.eldiario.es/extremadura/psoe-plasencia-elia-blanco-penitenciario_1_4062107.html) requieren resolución propia; no se infiere su resultado del silencio posterior. La [condena de Santa Bárbara](https://www.europapress.es/extremadura/noticia-elia-blanco-exalcaldesa-plasencia-condenada-anos-inhabilitacion-prevaricacion-continuada-20190530121926.html) se refiere a la inacción ante viviendas ilegales y constituye un procedimiento distinto, sin prolongar automáticamente el periodo del fraude contractual.

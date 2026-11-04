@@ -9,49 +9,32 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: desconocido
-descripcion: 'El caso Centeno reúne dos procedimientos distintos: las decisiones de contratación del proyecto
-  Meseta Ski, promovido por la sociedad pública Sodeva de la Diputación de Valladolid, y la investigación sobre
-  el viaje a Japón de Alfonso Centeno, entonces dirigente del PP y responsable provincial. El contrato de ejecución
-  de Meseta Ski se firmó el 13 de julio de 2006 por 4.060.000 euros con IVA. El proyecto se modificó sustancialmente
-  sin una nueva licitación. El 31 de marzo de 2008 se aprobó un estado de ejecución de 8.299.602,11 euros y
-  un proyecto refundido de 10.352.713,42 euros con IVA, según los hechos recogidos en la sentencia de apelación.
-  Las cifras de alrededor de 12 millones publicadas sobre el conjunto son volumen de gasto, no daño declarado
-  ni indemnización.
+descripcion: |-
+  El caso Centeno reúne dos procedimientos distintos: las decisiones de contratación del proyecto Meseta Ski, promovido por la sociedad pública Sodeva de la Diputación de Valladolid, y la investigación sobre el viaje a Japón de Alfonso Centeno, entonces dirigente del PP y responsable provincial. El contrato de ejecución de Meseta Ski se firmó el 13 de julio de 2006 por 4.060.000 euros con IVA. El proyecto se modificó sustancialmente sin una nueva licitación. El 31 de marzo de 2008 se aprobó un estado de ejecución de 8.299.602,11 euros y un proyecto refundido de 10.352.713,42 euros con IVA, según los hechos recogidos en la sentencia de apelación. Las cifras de alrededor de 12 millones publicadas sobre el conjunto son volumen de gasto, no daño declarado ni indemnización.
 
+  La STC 162/2014, de 7 de octubre, anuló la ley autonómica que había declarado el complejo proyecto regional, por contrariar la prohibición básica de cambiar el uso forestal de terrenos incendiados durante treinta años. Es un pronunciamiento constitucional distinto del juicio penal por prevaricación. Las informaciones de 2026 describen edificios sin uso y decisiones pendientes sobre su destino.
 
-  La STC 162/2014, de 7 de octubre, anuló la ley autonómica que había declarado el complejo proyecto regional,
-  por contrariar la prohibición básica de cambiar el uso forestal de terrenos incendiados durante treinta años.
-  Es un pronunciamiento constitucional distinto del juicio penal por prevaricación. Las informaciones de 2026
-  describen edificios sin uso y decisiones pendientes sobre su destino.
+  La Audiencia de Valladolid dictó sentencia el 12 de septiembre de 2024: nueve años y un mes de inhabilitación para Centeno y siete años y tres meses para Pedro Pariente; absolvió a Valentín González y Luis Torroglosa. La sentencia del TSJCyL de 8 de octubre de 2025 confirmó la condena de Centeno y absolvió a Pariente por prescripción, dejando sin efecto su condena en costas. No procede mantener a Pariente como condenado actual por ese fallo inicial. La sentencia penal no fijó indemnización: la acusación popular la solicitó, pero se desestimó esa pretensión porque Sodeva había reservado la acción civil por acuerdo de 10 de junio de 2024.
 
+  La firmeza de la condena de Centeno sigue sin aclararse hasta el 17 de octubre de 2026. La sentencia del TSJCyL advierte que no cabe recurso conforme al artículo 847.2 LECrim; en cambio, Diario de Valladolid recoge en junio y septiembre de 2026 la versión de la Diputación de que hay casación pendiente en el Supremo. No se ha obtenido una resolución de ese tribunal ni certificación de firmeza. Tampoco se ha aclarado por completo el paso de cinco encausados en 2022 a cuatro enjuiciados en 2024: falta el desenlace individual del exgerente Luis Alberto Sánchez.
 
-  La Audiencia de Valladolid dictó sentencia el 12 de septiembre de 2024: nueve años y un mes de inhabilitación
-  para Centeno y siete años y tres meses para Pedro Pariente; absolvió a Valentín González y Luis Torroglosa.
-  La sentencia del TSJCyL de 8 de octubre de 2025 confirmó la condena de Centeno y absolvió a Pariente por
-  prescripción, dejando sin efecto su condena en costas. No procede mantener a Pariente como condenado actual
-  por ese fallo inicial. La sentencia penal no fijó indemnización: la acusación popular la solicitó, pero se
-  desestimó esa pretensión porque Sodeva había reservado la acción civil por acuerdo de 10 de junio de 2024.
+  En septiembre de 2026 la prensa informó, a partir de un comunicado de Impulsa Olmedo, de indicios apreciados por la Fiscalía sobre la falta de ejercicio de las acciones civiles reservadas. El Tribunal de Cuentas habría archivado la acción pública C105/2026 por razones formales y remitido testimonio para posibilitar otras actuaciones. Sin el auto ni informe originales no se afirma que exista responsabilidad contable declarada, una cuantía de menoscabo fijada o una nueva condena penal.
 
+  La causa del viaje a Japón terminó por auto de 21 de septiembre de 2017 que confirmó el sobreseimiento libre. El TSJCyL apreció la prescripción del eventual cohecho y, además, consideró acreditado que Centeno había pagado el viaje con su dinero. El archivo de ese asunto no elimina la condena del proyecto ni permite afirmar un soborno probado.
 
-  La firmeza de la condena de Centeno sigue sin aclararse hasta el 17 de octubre de 2026. La sentencia del
-  TSJCyL advierte que no cabe recurso conforme al artículo 847.2 LECrim; en cambio, Diario de Valladolid recoge
-  en junio y septiembre de 2026 la versión de la Diputación de que hay casación pendiente en el Supremo. No
-  se ha obtenido una resolución de ese tribunal ni certificación de firmeza. Tampoco se ha aclarado por completo
-  el paso de cinco encausados en 2022 a cuatro enjuiciados en 2024: falta el desenlace individual del exgerente
-  Luis Alberto Sánchez.
+  ### Condena y absoluciones
 
+  La apelación de 2025 individualiza los resultados. Confirma la condena de Centeno, pero absuelve a Pariente porque su única intervención relevante quedaba fuera del plazo de persecución penal. La absolución por prescripción no es una confirmación de su condena ni se extiende al otro recurrente. Las absoluciones de los técnicos se habían dictado ya en primera instancia.
 
-  En septiembre de 2026 la prensa informó, a partir de un comunicado de Impulsa Olmedo, de indicios apreciados
-  por la Fiscalía sobre la falta de ejercicio de las acciones civiles reservadas. El Tribunal de Cuentas habría
-  archivado la acción pública C105/2026 por razones formales y remitido testimonio para posibilitar otras actuaciones.
-  Sin el auto ni informe originales no se afirma que exista responsabilidad contable declarada, una cuantía
-  de menoscabo fijada o una nueva condena penal.
+  El fallo del TSJCyL contiene una advertencia de irrecurribilidad. Las noticias de 2026 recogen una casación que la Diputación considera pendiente, sin aportar la resolución que la admite o resuelve. Por esa discrepancia no se certifica aquí la firmeza ni se trata al Tribunal Supremo como órgano cuya intervención esté documentalmente acreditada.
 
+  ### Gasto y reclamación patrimonial
 
-  La causa del viaje a Japón terminó por auto de 21 de septiembre de 2017 que confirmó el sobreseimiento libre.
-  El TSJCyL apreció la prescripción del eventual cohecho y, además, consideró acreditado que Centeno había
-  pagado el viaje con su dinero. El archivo de ese asunto no elimina la condena del proyecto ni permite afirmar
-  un soborno probado.'
+  La modificación del proyecto, el coste de obra y los gastos de conservación son magnitudes distintas de una indemnización. La sentencia de instancia explica que Sodeva reservó la acción civil el 10 de junio de 2024; por ese motivo se rechazó la pretensión de la acusación popular. El proceso penal no fijó cantidad a reintegrar, lo que tampoco declara que el perjuicio fuera cero.
+
+  La noticia de septiembre de 2026 sobre la acción pública ante el Tribunal de Cuentas distingue un archivo formal y una remisión de actuaciones de la declaración de responsabilidad contable. Faltan las resoluciones originales de esa vía para precisar su alcance y si se abrió un nuevo expediente.
+
+  El viaje a Japón fue investigado separadamente. El auto de 2017 confirma el sobreseimiento libre por los motivos expuestos y no sustenta la afirmación de que la constructora pagara un soborno. Los viajes de conocimiento de instalaciones incluidos en los hechos del proyecto son actuaciones diferentes.
 resumen: 'Meseta Ski: condena por prevaricación de Centeno confirmada en 2025 y absolución de Pariente por
   prescripción. Firmeza y eventual casación pendientes de aclarar; el viaje a Japón fue archivado en 2017.'
 lugar: Valladolid, Castilla y León
@@ -364,17 +347,3 @@ cronologia:
   - https://www.europapress.es/castilla-y-leon/noticia-fiscalia-valladolid-aprecia-indicios-responsabilidad-contable-caso-meseta-ski-20260921103548.html
   - https://www.diariodevalladolid.es/valladolid/260921/286474/fiscalia-ve-indicios-de-responsabilidad-contable-en-el-caso-del-proyecto-meseta-ski-en-valladolid.html
 ---
-
-## Condena y absoluciones
-
-La apelación de 2025 individualiza los resultados. Confirma la condena de Centeno, pero absuelve a Pariente porque su única intervención relevante quedaba fuera del plazo de persecución penal. La absolución por prescripción no es una confirmación de su condena ni se extiende al otro recurrente. Las absoluciones de los técnicos se habían dictado ya en primera instancia.
-
-El fallo del TSJCyL contiene una advertencia de irrecurribilidad. Las noticias de 2026 recogen una casación que la Diputación considera pendiente, sin aportar la resolución que la admite o resuelve. Por esa discrepancia no se certifica aquí la firmeza ni se trata al Tribunal Supremo como órgano cuya intervención esté documentalmente acreditada.
-
-## Gasto y reclamación patrimonial
-
-La modificación del proyecto, el coste de obra y los gastos de conservación son magnitudes distintas de una indemnización. La sentencia de instancia explica que Sodeva reservó la acción civil el 10 de junio de 2024; por ese motivo se rechazó la pretensión de la acusación popular. El proceso penal no fijó cantidad a reintegrar, lo que tampoco declara que el perjuicio fuera cero.
-
-La noticia de septiembre de 2026 sobre la acción pública ante el Tribunal de Cuentas distingue un archivo formal y una remisión de actuaciones de la declaración de responsabilidad contable. Faltan las resoluciones originales de esa vía para precisar su alcance y si se abrió un nuevo expediente.
-
-El viaje a Japón fue investigado separadamente. El auto de 2017 confirma el sobreseimiento libre por los motivos expuestos y no sustenta la afirmación de que la constructora pagara un soborno. Los viajes de conocimiento de instalaciones incluidos en los hechos del proyecto son actuaciones diferentes.

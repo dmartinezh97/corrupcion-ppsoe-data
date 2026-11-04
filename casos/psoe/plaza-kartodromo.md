@@ -8,12 +8,20 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución de los tres acusados; firmeza pendiente de verificar
-descripcion: Procedimiento por la compra de los terrenos del antiguo kartódromo de Zaragoza por Plaza en 2004. La instrucción
-  examinó una presunta comisión de 661.110 euros y una discrepancia sobre el valor del inmueble. El jurado declaró no culpables
-  a Ricardo García Becerril, Carlos Esco y Santiago Becerril el 21 de marzo de 2017 y la magistrada dictó sentencia absolutoria
-  in voce, según la prensa contrastada. No fue un sobreseimiento ni se mantienen como hechos probados las comisiones o el
-  daño alegados por las acusaciones. Faltan el texto original del fallo y la comprobación de recursos y firmeza hasta el 17
-  de octubre de 2026.
+descripcion: |-
+  Procedimiento por la compra de los terrenos del antiguo kartódromo de Zaragoza por Plaza en 2004. La instrucción examinó una presunta comisión de 661.110 euros y una discrepancia sobre el valor del inmueble. El jurado declaró no culpables a Ricardo García Becerril, Carlos Esco y Santiago Becerril el 21 de marzo de 2017 y la magistrada dictó sentencia absolutoria in voce, según la prensa contrastada. No fue un sobreseimiento ni se mantienen como hechos probados las comisiones o el daño alegados por las acusaciones. Faltan el texto original del fallo y la comprobación de recursos y firmeza hasta el 17 de octubre de 2026.
+
+  La [nota oficial de apertura de juicio](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Aragon/Noticias-Judiciales-TSJ-Aragon/El-juez-decreta-la-apertura-de-juicio-oral-en-el-caso-de-los-terrenos-del-Kartodromo-de-Zaragoza) identifica una causa sobre la compra del antiguo kartódromo por la sociedad Plaza. La operación se realizó en 2004, pero no se ha verificado el día exacto de la compraventa. Las actuaciones relativas al kartódromo se tramitaron separadamente de la causa principal de urbanización. La denuncia y las detenciones generales de agosto de 2013 no se usan como fecha de inicio de esta pieza sin comprobar el procedimiento.
+
+  La hipótesis de instrucción comparaba un precio de 6.310.628 euros con la valoración del perito judicial de 2.305.732,80 euros y examinaba una presunta comisión de 661.110 euros. Son conceptos distintos: precio, valoración pericial y comisión alegada. La [crónica del juicio pericial](https://www.aragondigital.es/articulo/sucesos/perito-plaza-dga-valora-915000-euros-kartodromo-vendedor-eleva-68-millones/20170316212800564121.amp.html) recoge valoraciones discrepantes de las partes, incluida una de 6,8 millones propuesta por la defensa del vendedor. No se convierte una diferencia aritmética entre precio y una tasación en daño público probado ni se afirma que hubiera un sobrecoste pendiente de recuperar. No se ha verificado una cuantificación judicial de daño que permita consignar coste.
+
+  Según las [crónicas de la absolución](https://www.aragondigital.es/articulo/sucesos/jurado-declara-culpables-garcia-becerril-esco-dueno-kartodromo-falta-pruebas/20170322002800564282.amp.html), el jurado no consideró suficiente la declaración de Santiago Becerril para fundamentar una condena ni acreditado el cobro de la comisión exigida al vendedor. La magistrada Esperanza de Pedro dictó sentencia absolutoria a viva voz conforme al veredicto. El desacuerdo del fiscal y su manifestación inicial de que, en principio, no recurriría no prueban que nunca hubiera recurso ni que el fallo adquiriera firmeza en una fecha concreta.
+
+  La [información publicada el 22 de marzo de 2017](https://arainfo.org/el-jurado-popular-absuelve-a-las-tres-personas-acusadas-en-el-caso-del-kartodromo-de-plaza/) señalaba expresamente que la sentencia aún no era firme. Se conserva la absolución como resultado conocido y queda pendiente el fallo escrito, posibles recursos y su firmeza hasta el 17 de octubre de 2026. No se denomina sobreseimiento a una absolución tras juicio.
+
+  Agapito Iglesias, José María Jordán y Marcelino Iglesias no figuran aquí como acusados del kartódromo por sus papeles en otras actuaciones o en el contexto político. Tampoco se trasladan las condenas, trabajos comunitarios, cifras globales o resultados de las demás causas Plaza. La [información de 2018](https://www.aragondigital.es/articulo/sucesos/plaza-desliga-corrupcion/20180629113400579133.html) distingue expresamente el kartódromo de las naves y del procedimiento principal.
+
+  No se ha localizado un PDF judicial original verificable de esta pieza. La nota oficial y las noticias no sustituyen al auto, el acta del jurado y la sentencia originales. No se dispone de los originales judiciales que permitan resolver esas lagunas.
 resumen: Absolución en la causa por la compra del kartódromo; se separan las sospechas iniciales del resultado del juicio
   y de las otras piezas de Plaza.
 lugar: Zaragoza, Aragón
@@ -64,15 +72,3 @@ cronologia:
   - https://www.heraldo.es/aragon/2017-imagenes-heraldo-11911-1.html
   type: sentencia
 ---
-
-La [nota oficial de apertura de juicio](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Aragon/Noticias-Judiciales-TSJ-Aragon/El-juez-decreta-la-apertura-de-juicio-oral-en-el-caso-de-los-terrenos-del-Kartodromo-de-Zaragoza) identifica una causa sobre la compra del antiguo kartódromo por la sociedad Plaza. La operación se realizó en 2004, pero no se ha verificado el día exacto de la compraventa. Las actuaciones relativas al kartódromo se tramitaron separadamente de la causa principal de urbanización. La denuncia y las detenciones generales de agosto de 2013 no se usan como fecha de inicio de esta pieza sin comprobar el procedimiento.
-
-La hipótesis de instrucción comparaba un precio de 6.310.628 euros con la valoración del perito judicial de 2.305.732,80 euros y examinaba una presunta comisión de 661.110 euros. Son conceptos distintos: precio, valoración pericial y comisión alegada. La [crónica del juicio pericial](https://www.aragondigital.es/articulo/sucesos/perito-plaza-dga-valora-915000-euros-kartodromo-vendedor-eleva-68-millones/20170316212800564121.amp.html) recoge valoraciones discrepantes de las partes, incluida una de 6,8 millones propuesta por la defensa del vendedor. No se convierte una diferencia aritmética entre precio y una tasación en daño público probado ni se afirma que hubiera un sobrecoste pendiente de recuperar. No se ha verificado una cuantificación judicial de daño que permita consignar coste.
-
-Según las [crónicas de la absolución](https://www.aragondigital.es/articulo/sucesos/jurado-declara-culpables-garcia-becerril-esco-dueno-kartodromo-falta-pruebas/20170322002800564282.amp.html), el jurado no consideró suficiente la declaración de Santiago Becerril para fundamentar una condena ni acreditado el cobro de la comisión exigida al vendedor. La magistrada Esperanza de Pedro dictó sentencia absolutoria a viva voz conforme al veredicto. El desacuerdo del fiscal y su manifestación inicial de que, en principio, no recurriría no prueban que nunca hubiera recurso ni que el fallo adquiriera firmeza en una fecha concreta.
-
-La [información publicada el 22 de marzo de 2017](https://arainfo.org/el-jurado-popular-absuelve-a-las-tres-personas-acusadas-en-el-caso-del-kartodromo-de-plaza/) señalaba expresamente que la sentencia aún no era firme. Se conserva la absolución como resultado conocido y queda pendiente el fallo escrito, posibles recursos y su firmeza hasta el 17 de octubre de 2026. No se denomina sobreseimiento a una absolución tras juicio.
-
-Agapito Iglesias, José María Jordán y Marcelino Iglesias no figuran aquí como acusados del kartódromo por sus papeles en otras actuaciones o en el contexto político. Tampoco se trasladan las condenas, trabajos comunitarios, cifras globales o resultados de las demás causas Plaza. La [información de 2018](https://www.aragondigital.es/articulo/sucesos/plaza-desliga-corrupcion/20180629113400579133.html) distingue expresamente el kartódromo de las naves y del procedimiento principal.
-
-No se ha localizado un PDF judicial original verificable de esta pieza. La nota oficial y las noticias no sustituyen al auto, el acta del jurado y la sentencia originales. No se dispone de los originales judiciales que permitan resolver esas lagunas.

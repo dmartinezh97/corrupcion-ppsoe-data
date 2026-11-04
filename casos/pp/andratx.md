@@ -16,6 +16,22 @@ descripcion: |-
   Las noticias posteriores documentan más condenas, absoluciones y retiradas de acusación. Entre ellas, la pieza 37, conocida en enero de 2019, terminó con condena de Massot por prevaricación urbanística sin pena adicional a la ya cumplida, y absolución de Mir. Falta el original de esa sentencia y un inventario judicial completo que permita confirmar el cierre y la firmeza individual de todas las piezas. No se afirma que subsistan procedimientos penales abiertos ni que toda la macrocausa esté cerrada.
 
   La ejecución urbanística debe distinguirse de las penas. Según ARA Balears del 5 de octubre de 2026, la demolición de los doce apartamentos de Cala Llamp culminó en marzo de 2025, mientras Monport seguía pendiente, con 5,5 millones reservados para el derribo. El contrato público de Cala Llamp se formalizó por 273.808,95 euros con impuestos; ese importe y la reserva para Monport no son un coste penal global. El anuncio contractual cita una sentencia de mayo de 2009 como fundamento de la demolición, mientras la prensa de 2024 alude a otra de septiembre de 2013: sin ambas resoluciones no se identifica definitivamente su relación. No consta aquí certificación de ejecución final ni de liquidación de las demoliciones.
+
+  ### Resultados por pieza
+
+  La primera sentencia examinada, de 23 de mayo de 2008, se refiere a la vivienda que el alcalde construyó bajo apariencia de ampliación de un almacén agrícola. Impuso prisión, inhabilitaciones, multas y demolición: cuatro años a Hidalgo, tres años y medio a Massot, un año a Mir y cuatro meses a Gibert. El Supremo desestimó los tres recursos interpuestos en la [STS 1127/2009](https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2009:7703). La ejecución penitenciaria documentada en diciembre de 2009 pertenece a esta pieza y no determina el resultado de todas las restantes.
+
+  En la pieza del restaurante del hermano del alcalde, la [STS 1219/2009](https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2009:8155) absolvió a Eugenio por vulneración del principio acusatorio. Mantuvo las condenas de Massot y Juan Carlos Hidalgo. La pena de este último incluía, además del año y medio por falsedad, tres meses por prevaricación sustituidos por 180 días multa. No se resume como una absolución o condena global del exalcalde.
+
+  Las noticias de 2012, 2013, 2017 y 2019 recogen más resultados. La retirada de una acusación no se equipara por sí sola a una sentencia absolutoria firme. La condena de Massot conocida en 2019 no añadió pena a la ya cumplida; la misma pieza terminó con absolución de Mir. Falta la resolución original de esa pieza y de otras posteriores para cerrar una relación exhaustiva. Tampoco se suman mecánicamente las penas publicadas, pues podían operar la continuidad delictiva y reglas de ejecución.
+
+  ### Multas y restauración urbanística
+
+  En la pieza de la vivienda, las multas fueron veinte meses a 100 euros diarios para Hidalgo, quince meses a 60 euros para Massot y diez meses a 10 euros para Gibert. Son penas, no una cuantificación del daño económico. La demolición se impuso al propietario con responsabilidad subsidiaria de Massot y Gibert; no se dispone aquí de comprobación final de esa ejecución concreta.
+
+  Los derribos de Cala Llamp y Monport derivan de procedimientos urbanísticos que deben identificarse separadamente. El contrato público de 2024 para los dos bloques de Cala Llamp se formalizó por 273.808,95 euros con impuestos, distinto del presupuesto de licitación y del redondeo periodístico de 275.000 euros. Según ARA, el derribo terminó en marzo de 2025; no se dispone del acta final ni de su liquidación. El anuncio oficial cita una sentencia de 2009 mientras otras noticias remiten a 2013, diferencia pendiente de aclarar con ambas resoluciones.
+
+  Monport seguía pendiente según la información de 5 de octubre de 2026, pese a la reserva presupuestaria de 5,5 millones. Una reserva no prueba ni un pago ni la terminación del derribo. Estos importes no constituyen una cifra consolidada de pérdidas del caso penal. No consta el estado global de esta macrocausa, cuyas piezas tienen resultados diversos. Las ejecuciones urbanísticas no acreditan por sí solas actividad penal actual.
 resumen: Macrocausa urbanística con condenas y absoluciones por piezas; derribo de Cala Llamp culminado en 2025
   según prensa y ejecución de Monport aún pendiente en octubre de 2026.
 lugar: Andratx, Islas Baleares
@@ -232,19 +248,3 @@ cronologia:
   urls:
   - https://www.arabalears.cat/politica/dimiteix-regidora-d-urbanisme-d-andratx-beatriz-casanova_1_5870035.html
 ---
-
-## Resultados por pieza
-
-La primera sentencia examinada, de 23 de mayo de 2008, se refiere a la vivienda que el alcalde construyó bajo apariencia de ampliación de un almacén agrícola. Impuso prisión, inhabilitaciones, multas y demolición: cuatro años a Hidalgo, tres años y medio a Massot, un año a Mir y cuatro meses a Gibert. El Supremo desestimó los tres recursos interpuestos en la [STS 1127/2009](https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2009:7703). La ejecución penitenciaria documentada en diciembre de 2009 pertenece a esta pieza y no determina el resultado de todas las restantes.
-
-En la pieza del restaurante del hermano del alcalde, la [STS 1219/2009](https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2009:8155) absolvió a Eugenio por vulneración del principio acusatorio. Mantuvo las condenas de Massot y Juan Carlos Hidalgo. La pena de este último incluía, además del año y medio por falsedad, tres meses por prevaricación sustituidos por 180 días multa. No se resume como una absolución o condena global del exalcalde.
-
-Las noticias de 2012, 2013, 2017 y 2019 recogen más resultados. La retirada de una acusación no se equipara por sí sola a una sentencia absolutoria firme. La condena de Massot conocida en 2019 no añadió pena a la ya cumplida; la misma pieza terminó con absolución de Mir. Falta la resolución original de esa pieza y de otras posteriores para cerrar una relación exhaustiva. Tampoco se suman mecánicamente las penas publicadas, pues podían operar la continuidad delictiva y reglas de ejecución.
-
-## Multas y restauración urbanística
-
-En la pieza de la vivienda, las multas fueron veinte meses a 100 euros diarios para Hidalgo, quince meses a 60 euros para Massot y diez meses a 10 euros para Gibert. Son penas, no una cuantificación del daño económico. La demolición se impuso al propietario con responsabilidad subsidiaria de Massot y Gibert; no se dispone aquí de comprobación final de esa ejecución concreta.
-
-Los derribos de Cala Llamp y Monport derivan de procedimientos urbanísticos que deben identificarse separadamente. El contrato público de 2024 para los dos bloques de Cala Llamp se formalizó por 273.808,95 euros con impuestos, distinto del presupuesto de licitación y del redondeo periodístico de 275.000 euros. Según ARA, el derribo terminó en marzo de 2025; no se dispone del acta final ni de su liquidación. El anuncio oficial cita una sentencia de 2009 mientras otras noticias remiten a 2013, diferencia pendiente de aclarar con ambas resoluciones.
-
-Monport seguía pendiente según la información de 5 de octubre de 2026, pese a la reserva presupuestaria de 5,5 millones. Una reserva no prueba ni un pago ni la terminación del derribo. Estos importes no constituyen una cifra consolidada de pérdidas del caso penal. No consta el estado global de esta macrocausa, cuyas piezas tienen resultados diversos. Las ejecuciones urbanísticas no acreditan por sí solas actividad penal actual.

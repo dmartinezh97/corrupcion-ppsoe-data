@@ -8,26 +8,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas, absoluciones y archivos por piezas
-descripcion: 'Taula o Imelsa reúne investigaciones separadas sobre contratación pública, empleados que cobraban sin realizar
-  el trabajo contratado y financiación del PP valenciano. Su origen se sitúa en la denuncia de Esquerra Unida de julio de
-  2014 y las grabaciones de Marcos Benavent; la operación policial se desplegó el 26 de enero de 2016. Las sospechas iniciales
-  no equivalen a hechos probados en todas las ramas.
+descripcion: |-
+  Taula o Imelsa reúne investigaciones separadas sobre contratación pública, empleados que cobraban sin realizar el trabajo contratado y financiación del PP valenciano. Su origen se sitúa en la denuncia de Esquerra Unida de julio de 2014 y las grabaciones de Marcos Benavent; la operación policial se desplegó el 26 de enero de 2016. Las sospechas iniciales no equivalen a hechos probados en todas las ramas.
 
+  En Thematica, el Supremo resolvió la casación el 19 de junio de 2026 y mantuvo la pena de siete años y diez meses de Benavent, cuyo ingreso en Picassent se conoció el 29 de julio. La sentencia también elimina una responsabilidad civil de 93.186,54 euros del bloque Berceo, conservando el decomiso por ese límite. En los contratos «zombis» de Imelsa y Ciegsa, Rus, Caturla y Benavent recibieron cinco años cada uno en 2023; la información de julio de 2026 aún situaba pendiente el recurso de Benavent. En la pieza A, Grau fue condenado en 2024 por malversación y cohecho, José Salinas por malversación y García Fuster y Santón fueron absueltos; en junio de 2026 constaba recurrida la sentencia.
 
-  En Thematica, el Supremo resolvió la casación el 19 de junio de 2026 y mantuvo la pena de siete años y diez meses de Benavent,
-  cuyo ingreso en Picassent se conoció el 29 de julio. La sentencia también elimina una responsabilidad civil de 93.186,54
-  euros del bloque Berceo, conservando el decomiso por ese límite. En los contratos «zombis» de Imelsa y Ciegsa, Rus, Caturla
-  y Benavent recibieron cinco años cada uno en 2023; la información de julio de 2026 aún situaba pendiente el recurso de Benavent.
-  En la pieza A, Grau fue condenado en 2024 por malversación y cohecho, José Salinas por malversación y García Fuster y Santón
-  fueron absueltos; en junio de 2026 constaba recurrida la sentencia.
+  La pieza D del call center terminó con absoluciones en 2023 y la E de Cultura con cinco absoluciones conocidas en junio de 2026, entonces recurribles. La pieza K afectó a tres exalcaldes, Mariano López y Ricardo de Ángel, no a Rus y Benavent; sus recursos tenían recorrido propio ante el TSJCV. Hubo además archivos, entre ellos el de los sobrecostes de Ciegsa, distinto del juicio de los «zombis». No se ha documentado el desenlace de todos los recursos ni la situación al 15 de octubre de 2026 de las restantes ramas —incluidas césped artificial, Olímpic de Xàtiva y blanqueo—, ni una suma judicial del daño total. Por ello no se atribuye un cierre o una condena global a Taula.
 
+  Taula comprende decisiones autónomas sobre personas y hechos diferentes. Las absoluciones del call center y de Cultura, los archivos de otras investigaciones y las condenas por contratación o personal no permiten describir toda la macrocausa con un único resultado penal.
 
-  La pieza D del call center terminó con absoluciones en 2023 y la E de Cultura con cinco absoluciones conocidas en junio
-  de 2026, entonces recurribles. La pieza K afectó a tres exalcaldes, Mariano López y Ricardo de Ángel, no a Rus y Benavent;
-  sus recursos tenían recorrido propio ante el TSJCV. Hubo además archivos, entre ellos el de los sobrecostes de Ciegsa, distinto
-  del juicio de los «zombis». No se ha documentado el desenlace de todos los recursos ni la situación al 15 de octubre de
-  2026 de las restantes ramas —incluidas césped artificial, Olímpic de Xàtiva y blanqueo—, ni una suma judicial del daño total.
-  Por ello no se atribuye un cierre o una condena global a Taula.'
+  La pieza Thematica incluye varios bloques. El fallo del Supremo distingue la responsabilidad civil del decomiso: elimina la indemnización del bloque Berceo porque no deriva directamente de los delitos allí condenados, pero conserva el decomiso de las ganancias hasta 93.186,54 euros. Las cantidades de responsabilidad civil solidaria de otros bloques tampoco pueden sumarse automáticamente como partidas independientes. No consta una cuantificación judicial consolidada del perjuicio de toda Taula.
+
+  En Ciegsa hay que distinguir la investigación de los sobrecostes escolares, archivada en 2023, de la contratación de empleados «zombis», que sí produjo condenas. Las crónicas discrepan sobre el carácter libre o provisional del primer archivo; la información de Europa Press explica expresamente por qué el instructor lo calificó de provisional. Falta el auto original para resolver esa discrepancia de forma definitiva.
+
+  Las informaciones de 2026 documentan recursos de la pieza K, de la financiación electoral y de los contratos «zombis». No se dispone de resoluciones posteriores suficientes para afirmar su desenlace al 15 de octubre de 2026. Tampoco se reconstruye como un proceso abierto por defecto cada rama no documentada, como césped artificial, Olímpic de Xàtiva o determinadas investigaciones de blanqueo. La muerte de personas investigadas tampoco supone una absolución judicial sobre el fondo.
 resumen: Macrocausa valenciana con resultados y recursos distintos en contratación, personal y financiación electoral.
 lugar: Provincia de Valencia, Comunitat Valenciana
 tribunal:
@@ -260,11 +254,3 @@ cronologia:
   type: resumen
   relevancia: alta
 ---
-
-Taula comprende decisiones autónomas sobre personas y hechos diferentes. Las absoluciones del call center y de Cultura, los archivos de otras investigaciones y las condenas por contratación o personal no permiten describir toda la macrocausa con un único resultado penal.
-
-La pieza Thematica incluye varios bloques. El fallo del Supremo distingue la responsabilidad civil del decomiso: elimina la indemnización del bloque Berceo porque no deriva directamente de los delitos allí condenados, pero conserva el decomiso de las ganancias hasta 93.186,54 euros. Las cantidades de responsabilidad civil solidaria de otros bloques tampoco pueden sumarse automáticamente como partidas independientes. No consta una cuantificación judicial consolidada del perjuicio de toda Taula.
-
-En Ciegsa hay que distinguir la investigación de los sobrecostes escolares, archivada en 2023, de la contratación de empleados «zombis», que sí produjo condenas. Las crónicas discrepan sobre el carácter libre o provisional del primer archivo; la información de Europa Press explica expresamente por qué el instructor lo calificó de provisional. Falta el auto original para resolver esa discrepancia de forma definitiva.
-
-Las informaciones de 2026 documentan recursos de la pieza K, de la financiación electoral y de los contratos «zombis». No se dispone de resoluciones posteriores suficientes para afirmar su desenlace al 15 de octubre de 2026. Tampoco se reconstruye como un proceso abierto por defecto cada rama no documentada, como césped artificial, Olímpic de Xàtiva o determinadas investigaciones de blanqueo. La muerte de personas investigadas tampoco supone una absolución judicial sobre el fondo.

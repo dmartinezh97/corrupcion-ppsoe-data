@@ -7,14 +7,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: cerrado con condenas
-descripcion: El caso examinó contratos de confección y bordado encargados a un funcionario del Ayuntamiento de Rota
-  entre 2004 y 2010, ocultados mediante facturas de su esposa y, desde 2007, pagos en nómina como horas extraordinarias.
-  La Audiencia Provincial de Cádiz condenó a ocho personas y absolvió al entonces alcalde Lorenzo Sánchez el 28
-  de mayo de 2015. El Supremo confirmó las condenas el 23 de mayo de 2016. Seis condenados recibieron indultos parciales
-  el 10 de febrero de 2017, publicados el día 13; Eva Corrales no estaba entre ellos. Tras la denegación de su solicitud,
-  ingresó en prisión el 21 de marzo de 2019 y la prensa informó posteriormente de que obtuvo el tercer grado en julio de ese año. No se ha
-  acreditado aquí la liquidación y cumplimiento de todas las penas ni la situación de cada condenado al 15 de octubre
-  de 2026. Los pagos por suministros no se presentan como un daño patrimonial íntegro.
+descripcion: |-
+  El caso examinó contratos de confección y bordado encargados a un funcionario del Ayuntamiento de Rota entre 2004 y 2010, ocultados mediante facturas de su esposa y, desde 2007, pagos en nómina como horas extraordinarias. La Audiencia Provincial de Cádiz condenó a ocho personas y absolvió al entonces alcalde Lorenzo Sánchez el 28 de mayo de 2015. El Supremo confirmó las condenas el 23 de mayo de 2016. Seis condenados recibieron indultos parciales el 10 de febrero de 2017, publicados el día 13; Eva Corrales no estaba entre ellos. Tras la denegación de su solicitud, ingresó en prisión el 21 de marzo de 2019 y la prensa informó posteriormente de que obtuvo el tercer grado en julio de ese año. No se ha acreditado aquí la liquidación y cumplimiento de todas las penas ni la situación de cada condenado al 15 de octubre de 2026. Los pagos por suministros no se presentan como un daño patrimonial íntegro.
+
+  Los hechos se desarrollaron entre **2004 y 2010**. El funcionario Manuel García confeccionaba bandas, colgaduras y otras prendas en un taller de su domicilio, fuera de su jornada municipal. El Supremo confirmó que se ocultó una contratación incompatible con su condición de empleado del Ayuntamiento: primero se utilizaron facturas a nombre de su esposa y, desde 2007, se pagó el precio de los suministros mediante partes de supuestas horas extraordinarias. Los trabajos sí se realizaron; la falsedad afectaba a la forma de documentar y retribuir esos encargos.
+
+  La sentencia recoge aproximadamente **42.363,31 euros en suministros abonados entre enero de 2007 y agosto de 2010**, documentados como 4.398 horas extraordinarias. Esta cifra describe pagos y contratación, no una indemnización por un perjuicio de idéntico importe. Tampoco debe confundirse con las multas penales. Por ello no se asigna a la ficha un coste económico global.
+
+  Fueron **ocho condenados y un absuelto**, no nueve condenados. El entonces alcalde Lorenzo Sánchez fue absuelto porque no se acreditó que conociera la contratación encubierta. El interventor Miguel Fuentes fue condenado como cómplice de prevaricación por su omisión de advertencias y reparos, pero absuelto de falsedad. La sentencia de casación de 23 de mayo de 2016 reproduce el fallo de la Audiencia Provincial de 28 de mayo de 2015 y desestima los ocho recursos.
+
+  Las penas deben distinguirse por delito. Para Eva Corrales, el fallo impuso ocho años y seis meses de inhabilitación por prevaricación y, por falsedad, cuatro años y seis meses de prisión, cuatro años de inhabilitación y quince meses de multa a seis euros diarios. Para Puyana, Caballero, Serrano y Arjona, la inhabilitación por prevaricación fue de cinco años y tres meses, además de las penas por falsedad. Manuel García recibió dos años de prisión por falsedad; Josefa Moreno no recibió prisión.
+
+  Los **indultos de 10 de febrero de 2017**, publicados el día 13, afectaron a seis personas. En cuatro casos —Puyana, Caballero, Serrano y Arjona— se conmutaron dos años y seis meses de prisión por seis meses de multa a tres euros diarios y las inhabilitaciones por seis meses de suspensión. A García se le sustituyó la inhabilitación por **dos meses** de suspensión; a Fuentes, por **un mes**. Los decretos no acordaron por sí mismos una suspensión judicial de la prisión restante ni acreditan que se cumplieran sus condiciones.
+
+  Eva Corrales siguió una solicitud separada de indulto, que fue denegada. Su ingreso penitenciario de marzo de 2019 y el posterior tercer grado en julio de ese año constan en las noticias citadas. Esos datos históricos no permiten establecer su régimen actual ni la fecha de extinción de sus penas. No se ha verificado la ejecución completa de las condenas y de los indultos al **15 de octubre de 2026**. Este procedimiento se distingue de los casos Uniformes y Convenios Urbanísticos de Rota, cuyos pronunciamientos no se trasladan a esta ficha.
 resumen: 'Contratos municipales de bordado encubiertos con facturas y pagos de horas extraordinarias: ocho condenados
   y un absuelto.'
 lugar: Rota, Cádiz, Andalucía
@@ -159,15 +165,3 @@ cronologia:
   urls:
   - https://www.diariodecadiz.es/noticias-provincia-cadiz/Eva-Corrales-Lorenzo-Sanchez-regresan-banquillo_0_1412858993.html
 ---
-
-Los hechos se desarrollaron entre **2004 y 2010**. El funcionario Manuel García confeccionaba bandas, colgaduras y otras prendas en un taller de su domicilio, fuera de su jornada municipal. El Supremo confirmó que se ocultó una contratación incompatible con su condición de empleado del Ayuntamiento: primero se utilizaron facturas a nombre de su esposa y, desde 2007, se pagó el precio de los suministros mediante partes de supuestas horas extraordinarias. Los trabajos sí se realizaron; la falsedad afectaba a la forma de documentar y retribuir esos encargos.
-
-La sentencia recoge aproximadamente **42.363,31 euros en suministros abonados entre enero de 2007 y agosto de 2010**, documentados como 4.398 horas extraordinarias. Esta cifra describe pagos y contratación, no una indemnización por un perjuicio de idéntico importe. Tampoco debe confundirse con las multas penales. Por ello no se asigna a la ficha un coste económico global.
-
-Fueron **ocho condenados y un absuelto**, no nueve condenados. El entonces alcalde Lorenzo Sánchez fue absuelto porque no se acreditó que conociera la contratación encubierta. El interventor Miguel Fuentes fue condenado como cómplice de prevaricación por su omisión de advertencias y reparos, pero absuelto de falsedad. La sentencia de casación de 23 de mayo de 2016 reproduce el fallo de la Audiencia Provincial de 28 de mayo de 2015 y desestima los ocho recursos.
-
-Las penas deben distinguirse por delito. Para Eva Corrales, el fallo impuso ocho años y seis meses de inhabilitación por prevaricación y, por falsedad, cuatro años y seis meses de prisión, cuatro años de inhabilitación y quince meses de multa a seis euros diarios. Para Puyana, Caballero, Serrano y Arjona, la inhabilitación por prevaricación fue de cinco años y tres meses, además de las penas por falsedad. Manuel García recibió dos años de prisión por falsedad; Josefa Moreno no recibió prisión.
-
-Los **indultos de 10 de febrero de 2017**, publicados el día 13, afectaron a seis personas. En cuatro casos —Puyana, Caballero, Serrano y Arjona— se conmutaron dos años y seis meses de prisión por seis meses de multa a tres euros diarios y las inhabilitaciones por seis meses de suspensión. A García se le sustituyó la inhabilitación por **dos meses** de suspensión; a Fuentes, por **un mes**. Los decretos no acordaron por sí mismos una suspensión judicial de la prisión restante ni acreditan que se cumplieran sus condiciones.
-
-Eva Corrales siguió una solicitud separada de indulto, que fue denegada. Su ingreso penitenciario de marzo de 2019 y el posterior tercer grado en julio de ese año constan en las noticias citadas. Esos datos históricos no permiten establecer su régimen actual ni la fecha de extinción de sus penas. No se ha verificado la ejecución completa de las condenas y de los indultos al **15 de octubre de 2026**. Este procedimiento se distingue de los casos Uniformes y Convenios Urbanísticos de Rota, cuyos pronunciamientos no se trasladan a esta ficha.

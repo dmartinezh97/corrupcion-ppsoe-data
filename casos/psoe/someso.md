@@ -8,19 +8,22 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: En apelación
 firmeza: No firme
 estado: Archivo penal provisional y controversia urbanística
-descripcion: 'Someso o caso Relámpago se refiere a la adquisición municipal de terrenos en A Coruña desde 1989 para
-  equipamientos y a su posterior transformación urbanística, con viviendas y un centro comercial. Las reclamaciones
-  de antiguos propietarios por el cambio de destino dieron lugar a sentencias de reversión y compensaciones a cargo
-  del Ayuntamiento. Estas condenas a la Administración no son condenas penales de Francisco Vázquez o Antonio Fontenla.
+descripcion: |-
+  Someso o caso Relámpago se refiere a la adquisición municipal de terrenos en A Coruña desde 1989 para equipamientos y a su posterior transformación urbanística, con viviendas y un centro comercial. Las reclamaciones de antiguos propietarios por el cambio de destino dieron lugar a sentencias de reversión y compensaciones a cargo del Ayuntamiento. Estas condenas a la Administración no son condenas penales de Francisco Vázquez o Antonio Fontenla.
 
+  La prensa documenta un sobreseimiento penal provisional recurrido en 2014; en 2015 el Ayuntamiento anunció su desistimiento de la vía contable y en 2020 archivó la revisión de oficio. En diciembre de 2021 se conoció un dictamen del Consello Consultivo contrario a revisar los acuerdos por el tiempo transcurrido y la seguridad jurídica. Faltan los originales de estas resoluciones y el resultado del recurso penal, así como una comprobación completa de las indemnizaciones y de posibles actuaciones posteriores hasta el 17 de octubre de 2026. No se atribuye firmeza global ni un perjuicio total de 40 millones: esa cifra se ha publicado mezclando estimaciones o distintos conflictos urbanísticos.
 
-  La prensa documenta un sobreseimiento penal provisional recurrido en 2014; en 2015 el Ayuntamiento anunció su
-  desistimiento de la vía contable y en 2020 archivó la revisión de oficio. En diciembre de 2021 se conoció un dictamen
-  del Consello Consultivo contrario a revisar los acuerdos por el tiempo transcurrido y la seguridad jurídica. Faltan
-  los originales de estas resoluciones y el resultado del recurso penal, así como una comprobación completa de las
-  indemnizaciones y de posibles actuaciones posteriores hasta el 17 de octubre de 2026. No se atribuye firmeza global
-  ni un perjuicio total de 40 millones: esa cifra se ha publicado mezclando estimaciones o distintos conflictos
-  urbanísticos.'
+  ### Operaciones y procedimientos distintos
+
+  Los terrenos adquiridos para equipamientos terminaron incorporados a un desarrollo inmobiliario. Las reclamaciones de reversión de los antiguos propietarios discuten ese cambio de destino. Las sentencias que obligan a compensarles afectan al Ayuntamiento y no acreditan por sí mismas delitos de responsables políticos o promotores.
+
+  La denuncia penal contra Vázquez y Fontenla fue objeto de sobreseimiento provisional, según la información publicada en 2014, que también recoge su impugnación. El anuncio municipal de desistimiento del procedimiento contable en 2015 y el archivo de la revisión de oficio en 2020 tienen objetos y efectos diferentes. El dictamen consultivo conocido en 2021 no debe presentarse como una condena penal ni como una nueva sentencia de indemnización.
+
+  ### Cantidades y límites
+
+  El balance de ocho millones en cinco indemnizaciones de 2014 y los 23 millones de pagos publicados en 2019 corresponden a momentos diferentes: no se suman. Tampoco se añaden a las estimaciones de pérdidas patrimoniales de informes municipales. Los 40 millones del artículo de 2019 abarcan otras controversias urbanísticas de la ciudad. Sin las liquidaciones y resoluciones completas no se establece un coste total único.
+
+  Quedan por documentar el resultado del recurso penal, el desenlace formal de la vía contable, los originales del dictamen y del archivo municipal y las actuaciones posteriores. La falta de esa documentación no permite afirmar que la causa penal siga abierta ni que todos los procedimientos hayan concluido con firmeza.
 lugar: A Coruña (Galicia)
 implicados:
 - nombre: Francisco Vázquez
@@ -104,15 +107,3 @@ cronologia:
   urls:
   - https://www.lavozdegalicia.es/noticia/coruna/2021/12/17/consultivo-concluye-deben-revisar-acuerdos-someso/0003_202112H17C2992.htm
 ---
-
-## Operaciones y procedimientos distintos
-
-Los terrenos adquiridos para equipamientos terminaron incorporados a un desarrollo inmobiliario. Las reclamaciones de reversión de los antiguos propietarios discuten ese cambio de destino. Las sentencias que obligan a compensarles afectan al Ayuntamiento y no acreditan por sí mismas delitos de responsables políticos o promotores.
-
-La denuncia penal contra Vázquez y Fontenla fue objeto de sobreseimiento provisional, según la información publicada en 2014, que también recoge su impugnación. El anuncio municipal de desistimiento del procedimiento contable en 2015 y el archivo de la revisión de oficio en 2020 tienen objetos y efectos diferentes. El dictamen consultivo conocido en 2021 no debe presentarse como una condena penal ni como una nueva sentencia de indemnización.
-
-## Cantidades y límites
-
-El balance de ocho millones en cinco indemnizaciones de 2014 y los 23 millones de pagos publicados en 2019 corresponden a momentos diferentes: no se suman. Tampoco se añaden a las estimaciones de pérdidas patrimoniales de informes municipales. Los 40 millones del artículo de 2019 abarcan otras controversias urbanísticas de la ciudad. Sin las liquidaciones y resoluciones completas no se establece un coste total único.
-
-Quedan por documentar el resultado del recurso penal, el desenlace formal de la vía contable, los originales del dictamen y del archivo municipal y las actuaciones posteriores. La falta de esa documentación no permite afirmar que la causa penal siga abierta ni que todos los procedimientos hayan concluido con firmeza.

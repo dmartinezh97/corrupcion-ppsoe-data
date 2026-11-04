@@ -17,6 +17,18 @@ descripcion: |-
   Hay resultados propios en otras piezas: acuerdo de conformidad del club Eros en 2020, otro de Queens y La Colina en 2021 y condenas por blanqueo y delitos fiscales conocidas en 2022. La prensa del 7 de julio de 2022 informó además de la absolución de García Adán por falsedad documental al haber prescrito los delitos. Faltan originales y una relación completa de resultados individuales de esas piezas; no se suman sus penas ni se equipara una absolución concreta al cierre global.
 
   Hasta el 17 de octubre de 2026 no se ha obtenido declaración de firmeza ni resolución de eventuales recursos posteriores al fallo de 2024. La conformidad no prueba por sí sola firmeza y la ausencia de noticias no acredita continuidad penal ni cierre de todas las piezas. No se ha acreditado vínculo de los acusados con el PP ni cargo de ese partido entre ellos. La sanción disciplinaria de la jueza instructora Pilar de Lara pertenece a otro procedimiento y no la convierte en acusada de Carioca.
+
+  ### Resultados de la pieza policial
+
+  La sentencia de 10 de julio de 2024 distingue condenas pactadas y absoluciones. La absolución del brigada Baquero no se extiende al cabo, que también fue absuelto de una imputación concreta vinculada a un matrimonio. El tribunal examinó la prueba disponible y el control de las conformidades; las acusaciones inicialmente formuladas no equivalen a los delitos finalmente sancionados.
+
+  Para el cabo, el fallo fija penas por cada delito, incluye tres penas de nueve meses por favorecimiento de la prostitución en concurso con omisión y ordena sustituir la pena corta por extorsión. El resumen oficial de prisión no acredita estancia efectiva pendiente, pues el fallo manda abonar la prisión provisional si no se hubiese abonado en otra pieza. Las indemnizaciones por daño moral y las multas son obligaciones de naturaleza distinta, sin prueba aquí de pago o ejecución.
+
+  ### Piezas diferentes y límites individuales
+
+  Los acuerdos del Eros, Queens y La Colina y la pieza económica de 2022 tienen personas, hechos y penas propios. La noticia de julio de 2022 sobre falsedad documental recoge una absolución por prescripción, que tampoco elimina las condenas dictadas en otros procesos. Las cifras de penas publicadas sobre Queens y La Colina presentan inconsistencias; sin fallo original no se reproducen como un total comprobado.
+
+  El procedimiento disciplinario de Pilar de Lara no decide la culpabilidad de los investigados. Tampoco se ha acreditado una vinculación partidista de los acusados con el PP. La identificación de esta macrocausa como corrupción policial debe distinguirse de las demás investigaciones políticas instruidas en Lugo.
 resumen: Macrocausa de prostitución y trata en Lugo con participación de agentes de la Guardia Civil; la pieza
   principal se resolvió en 2024 con condenas por conformidad de un cabo de la Guardia Civil y tres dueños de
   clubes y con la absolución del brigada que no pactó
@@ -218,15 +230,3 @@ cronologia:
   - https://www.lavozdegalicia.es/noticia/lugo/2024/07/17/absuelto-unico-acusado-gran-juicio-operacion-carioca-acepto-acuerdo-fiscalia/00031721226825692683295.htm
   - https://www.eldiario.es/galicia/condena-cinco-anos-principal-encausado-carioca-investigo-trama-prostitucion-lugo_1_11531036.html
 ---
-
-## Resultados de la pieza policial
-
-La sentencia de 10 de julio de 2024 distingue condenas pactadas y absoluciones. La absolución del brigada Baquero no se extiende al cabo, que también fue absuelto de una imputación concreta vinculada a un matrimonio. El tribunal examinó la prueba disponible y el control de las conformidades; las acusaciones inicialmente formuladas no equivalen a los delitos finalmente sancionados.
-
-Para el cabo, el fallo fija penas por cada delito, incluye tres penas de nueve meses por favorecimiento de la prostitución en concurso con omisión y ordena sustituir la pena corta por extorsión. El resumen oficial de prisión no acredita estancia efectiva pendiente, pues el fallo manda abonar la prisión provisional si no se hubiese abonado en otra pieza. Las indemnizaciones por daño moral y las multas son obligaciones de naturaleza distinta, sin prueba aquí de pago o ejecución.
-
-## Piezas diferentes y límites individuales
-
-Los acuerdos del Eros, Queens y La Colina y la pieza económica de 2022 tienen personas, hechos y penas propios. La noticia de julio de 2022 sobre falsedad documental recoge una absolución por prescripción, que tampoco elimina las condenas dictadas en otros procesos. Las cifras de penas publicadas sobre Queens y La Colina presentan inconsistencias; sin fallo original no se reproducen como un total comprobado.
-
-El procedimiento disciplinario de Pilar de Lara no decide la culpabilidad de los investigados. Tampoco se ha acreditado una vinculación partidista de los acusados con el PP. La identificación de esta macrocausa como corrupción policial debe distinguirse de las demás investigaciones políticas instruidas en Lugo.

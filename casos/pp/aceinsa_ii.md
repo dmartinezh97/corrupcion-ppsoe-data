@@ -10,11 +10,20 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Archivo penal provisional comunicado
 resumen: Anulación de la adjudicación del alumbrado de Salamanca a Aceinsa y denuncias penales relacionadas.
-descripcion: "La adjudicación del alumbrado de Salamanca a Aceinsa fue anulada en vía contencioso-administrativa por
-  la sentencia 1321/2017. En octubre de 2018 se comunicó el archivo penal provisional y Ganemos anunció
-  recurso: no se ha verificado su desenlace ni una resolución penal firme posterior hasta el 17 de octubre de
-  2026. La anulación del contrato no equivale a condena penal. Este asunto coincide con la ficha Aceinsa II
-  (aceinsa-ii); no constituye otro perjuicio acumulable."
+descripcion: |-
+  La adjudicación del alumbrado de Salamanca a Aceinsa fue anulada en vía contencioso-administrativa por la sentencia 1321/2017. En octubre de 2018 se comunicó el archivo penal provisional y Ganemos anunció recurso: no se ha verificado su desenlace ni una resolución penal firme posterior hasta el 17 de octubre de 2026. La anulación del contrato no equivale a condena penal. Este asunto coincide con la ficha Aceinsa II (aceinsa-ii); no constituye otro perjuicio acumulable.
+
+  ### Adjudicación del alumbrado de Salamanca
+
+  El contrato es el mismo que el del caso [Aceinsa II](../aceinsa-ii/), con antecedentes compartidos con Aceinsa. No documenta un procedimiento distinto de la Junta de Castilla y León o de la Audiencia de León. Los importes de estas fichas no deben sumarse como perjuicios independientes.
+
+  La adjudicación municipal de 20 de julio de 2012 fue recurrida por Etralux. Según [EFE, publicado el 1 de diciembre de 2017](https://www.lavanguardia.com/politica/20171201/433325782105/tsjcyl-anula-la-adjudicacion-del-servicio-de-alumbrado-publico-de-salamanca.html), el TSJ anuló la adjudicación porque Aceinsa no justificó suficientemente su oferta incursa en baja temeraria. La noticia cifra el contrato en doce millones de euros, para cuatro años prorrogables por otros dos: se trata de volumen contractual, no de dinero defraudado. La ejecución debía determinar si procedía adjudicar el servicio a Etralux o una indemnización sustitutoria. El acta de febrero de 2018 identifica la sentencia y la preparación de casación; no se dispone de la resolución judicial original ni del posterior auto del Supremo.
+
+  En paralelo se formularon denuncias penales relacionadas con señalización y alumbrado. [Radio Salamanca](https://cadenaser.com/emisora/2018/10/17/radio_salamanca/1539771399_513218.html) y [Noticias Castilla y León](https://www.elespanol.com/castilla-y-leon/region/salamanca/20181017/no-caso-aceinsa-juzgado-desestima-denuncias-ganemos/346217097_0.html) comunicaron el archivo el 17 de octubre de 2018, recogiendo las explicaciones del portavoz Fernando Rodríguez. Ganemos lo calificó de provisional y anunció recurso. Las noticias discrepan sobre el número del juzgado instructor; sin el auto no se fija aquí. No debe confundirse el archivo de la denuncia con una sentencia absolutoria ni la anulación administrativa con una condena. No se ha documentado el desenlace del recurso penal ni la situación individual posterior al 17 de octubre de 2026.
+
+  El acta de noviembre de 2018 recoge un incremento de crédito de 327.192,96 euros para atender la ejecución de la sentencia. No acredita por sí sola el importe efectivamente abonado, su fecha ni una responsabilidad penal individual. Los 700.000 euros no están acreditados como daño probado.
+
+  Las fuentes contrastadas no respaldan las anteriores atribuciones de condenas a Alfonso Rodríguez, María Fernández y Carlos Martínez, ni las detenciones, juicio, recuperación de fondos y reformas que se les asociaban. La documentación disponible acredita el litigio municipal y la comunicación del archivo provisional, sin permitir afirmar un cierre penal firme o una causa todavía abierta por mera ausencia de noticias.
 lugar: Salamanca
 tribunal:
 - Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Castilla y León
@@ -82,15 +91,3 @@ cronologia:
   urls:
   - https://www.aytosalamanca.es/documents/20119/1383370/Acta+N%C2%BA+12.+Sesi%C3%B3n+extraordinaria+de+16-11-2018.pdf/827df943-7df4-b793-d319-337e163231e9
 ---
-
-# Adjudicación del alumbrado de Salamanca
-
-El contrato es el mismo que el del caso [Aceinsa II](../aceinsa-ii/), con antecedentes compartidos con Aceinsa. No documenta un procedimiento distinto de la Junta de Castilla y León o de la Audiencia de León. Los importes de estas fichas no deben sumarse como perjuicios independientes.
-
-La adjudicación municipal de 20 de julio de 2012 fue recurrida por Etralux. Según [EFE, publicado el 1 de diciembre de 2017](https://www.lavanguardia.com/politica/20171201/433325782105/tsjcyl-anula-la-adjudicacion-del-servicio-de-alumbrado-publico-de-salamanca.html), el TSJ anuló la adjudicación porque Aceinsa no justificó suficientemente su oferta incursa en baja temeraria. La noticia cifra el contrato en doce millones de euros, para cuatro años prorrogables por otros dos: se trata de volumen contractual, no de dinero defraudado. La ejecución debía determinar si procedía adjudicar el servicio a Etralux o una indemnización sustitutoria. El acta de febrero de 2018 identifica la sentencia y la preparación de casación; no se dispone de la resolución judicial original ni del posterior auto del Supremo.
-
-En paralelo se formularon denuncias penales relacionadas con señalización y alumbrado. [Radio Salamanca](https://cadenaser.com/emisora/2018/10/17/radio_salamanca/1539771399_513218.html) y [Noticias Castilla y León](https://www.elespanol.com/castilla-y-leon/region/salamanca/20181017/no-caso-aceinsa-juzgado-desestima-denuncias-ganemos/346217097_0.html) comunicaron el archivo el 17 de octubre de 2018, recogiendo las explicaciones del portavoz Fernando Rodríguez. Ganemos lo calificó de provisional y anunció recurso. Las noticias discrepan sobre el número del juzgado instructor; sin el auto no se fija aquí. No debe confundirse el archivo de la denuncia con una sentencia absolutoria ni la anulación administrativa con una condena. No se ha documentado el desenlace del recurso penal ni la situación individual posterior al 17 de octubre de 2026.
-
-El acta de noviembre de 2018 recoge un incremento de crédito de 327.192,96 euros para atender la ejecución de la sentencia. No acredita por sí sola el importe efectivamente abonado, su fecha ni una responsabilidad penal individual. Los 700.000 euros no están acreditados como daño probado.
-
-Las fuentes contrastadas no respaldan las anteriores atribuciones de condenas a Alfonso Rodríguez, María Fernández y Carlos Martínez, ni las detenciones, juicio, recuperación de fondos y reformas que se les asociaban. La documentación disponible acredita el litigio municipal y la comunicación del archivo provisional, sin permitir afirmar un cierre penal firme o una causa todavía abierta por mera ausencia de noticias.

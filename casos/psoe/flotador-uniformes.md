@@ -8,11 +8,18 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: absolución de instancia; firmeza pendiente de verificar
-descripcion: Pieza separada de la Operación Flotador relativa a las compras realizadas por cinco empleados del Ayuntamiento
-  de Sagunto con una dotación bienal de 300 euros por desgaste de ropa y calzado. La Sección Tercera de la Audiencia de Valencia absolvió a
-  los cinco, según las noticias de julio de 2019, entre ellos el exalcalde y exjefe del Servicio de Inspección Técnica
-  de Actividades Francisco Crispín. La sentencia 417/2019, de 17 de julio, se ha recuperado en CENDOJ; no se han acreditado su firmeza o recursos posteriores
-  al corte de 17 de octubre de 2026. No es un sobreseimiento ni se extiende el resultado a otras piezas.
+descripcion: |-
+  Pieza separada de la Operación Flotador relativa a las compras realizadas por cinco empleados del Ayuntamiento de Sagunto con una dotación bienal de 300 euros por desgaste de ropa y calzado. La Sección Tercera de la Audiencia de Valencia absolvió a los cinco, según las noticias de julio de 2019, entre ellos el exalcalde y exjefe del Servicio de Inspección Técnica de Actividades Francisco Crispín. La sentencia 417/2019, de 17 de julio, se ha recuperado en CENDOJ; no se han acreditado su firmeza o recursos posteriores al corte de 17 de octubre de 2026. No es un sobreseimiento ni se extiende el resultado a otras piezas.
+
+  La [nota oficial de marzo de 2017](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/Investigados-cinco-tecnicos-municipales-de-Sagunto-por-malversacion-en-el-marco-de-la--Operacion-Flotador-) describía sospechas sobre compras personales en distintos comercios. No acredita que se cometiera una malversación. Situaba el inicio de la operación general en agosto de 2015, pero el hecho fechado y documentado para esta pieza son las detenciones de marzo de 2017.
+
+  Según [Valencia Plaza](https://valenciaplaza.com/valenciaplaza/absuelto-el-exalcalde-de-sagunto-francisco-crispin-de-malversacion), la sentencia no consideró probado que los acusados pidieran conceptos genéricos en las facturas para eludir controles; también recogía que pagaban personalmente lo que excedía la dotación. La conclusión absolutoria debe acompañar cualquier descripción de las sospechas iniciales. Las afirmaciones de Crispín sobre una conspiración son su versión, no una conclusión del tribunal.
+
+  La nota inicial del CGPJ hablaba de 300 euros anuales. Los hechos probados de la sentencia (página 3) precisan una asignación bienal por desgaste, reconocida al departamento desde 2003 y vinculada al artículo 29 del convenio de 1992. El fallo absuelve; no se convierte la dotación ni la responsabilidad civil solicitada por la Fiscalía en daño declarado. No procede pronunciamiento civil en esta sentencia (página 18) y no se consigna un coste.
+
+  Las fuentes consultadas identifican nominalmente a Crispín y describen otros cuatro acusados absueltos. No se mantienen nombres de estos últimos sin revalidación documental. Tampoco se atribuye a los cinco una afiliación política común.
+
+  Información disponible al 17 de octubre de 2026. La resolución original consta de dieciocho páginas. Se celebró juicio los días 19 y 26 de junio de 2019, según los antecedentes. Quedan pendientes eventual recurso y firmeza, así como la identificación nominal completa. No se identifican personas a partir de los pseudónimos del PDF. No se traslada el desenlace de otras piezas de Flotador o de otros casos de uniformes a este procedimiento.
 resumen: Absolución de cinco acusados por las compras con la dotación de vestuario de Sagunto; firmeza pendiente de verificar.
 lugar: Sagunto, Valencia, Comunitat Valenciana
 tribunal:
@@ -61,13 +68,3 @@ cronologia:
   urls:
   - https://www.eldiario.es/comunitat-valenciana/absuelto-sagunt-malversacion-prevaricacion-funcionarios_1_1437125.html
 ---
-
-La [nota oficial de marzo de 2017](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/Investigados-cinco-tecnicos-municipales-de-Sagunto-por-malversacion-en-el-marco-de-la--Operacion-Flotador-) describía sospechas sobre compras personales en distintos comercios. No acredita que se cometiera una malversación. Situaba el inicio de la operación general en agosto de 2015, pero el hecho fechado y documentado para esta pieza son las detenciones de marzo de 2017.
-
-Según [Valencia Plaza](https://valenciaplaza.com/valenciaplaza/absuelto-el-exalcalde-de-sagunto-francisco-crispin-de-malversacion), la sentencia no consideró probado que los acusados pidieran conceptos genéricos en las facturas para eludir controles; también recogía que pagaban personalmente lo que excedía la dotación. La conclusión absolutoria debe acompañar cualquier descripción de las sospechas iniciales. Las afirmaciones de Crispín sobre una conspiración son su versión, no una conclusión del tribunal.
-
-La nota inicial del CGPJ hablaba de 300 euros anuales. Los hechos probados de la sentencia (página 3) precisan una asignación bienal por desgaste, reconocida al departamento desde 2003 y vinculada al artículo 29 del convenio de 1992. El fallo absuelve; no se convierte la dotación ni la responsabilidad civil solicitada por la Fiscalía en daño declarado. No procede pronunciamiento civil en esta sentencia (página 18) y no se consigna un coste.
-
-Las fuentes consultadas identifican nominalmente a Crispín y describen otros cuatro acusados absueltos. No se mantienen nombres de estos últimos sin revalidación documental. Tampoco se atribuye a los cinco una afiliación política común.
-
-Información disponible al 17 de octubre de 2026. La resolución original consta de dieciocho páginas. Se celebró juicio los días 19 y 26 de junio de 2019, según los antecedentes. Quedan pendientes eventual recurso y firmeza, así como la identificación nominal completa. No se identifican personas a partir de los pseudónimos del PDF. No se traslada el desenlace de otras piezas de Flotador o de otros casos de uniformes a este procedimiento.

@@ -10,25 +10,20 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Conformidad por cohecho en 2024; sentencia original, firmeza y ejecución pendientes de cotejo"
 lugar: "Aljaraque, Huelva, Andalucía"
-descripcion: >-
-  La causa investigó las contraprestaciones ofrecidas a dos concejales de Sí se Puede Aljaraque para que
-  retirasen su apoyo a la moción de censura presentada con el PP en diciembre de 2016 contra la alcaldesa
-  socialista Yolanda Rubio. La investigación se inició tras una denuncia acompañada de grabaciones. Las
-  ofertas descritas por la prensa comprendían la incorporación de Pedro Escalante al gobierno municipal, con
-  dietas por asistencias, y un empleo en Aguas de Huelva para la esposa de Francisco Martín.
+descripcion: |-
+  La causa investigó las contraprestaciones ofrecidas a dos concejales de Sí se Puede Aljaraque para que retirasen su apoyo a la moción de censura presentada con el PP en diciembre de 2016 contra la alcaldesa socialista Yolanda Rubio. La investigación se inició tras una denuncia acompañada de grabaciones. Las ofertas descritas por la prensa comprendían la incorporación de Pedro Escalante al gobierno municipal, con dietas por asistencias, y un empleo en Aguas de Huelva para la esposa de Francisco Martín.
 
+  El 15 de octubre de 2024, Huelva Información y COPE comunicaron un acuerdo de conformidad por cohecho para los dos concejales y el sindicalista José Luis Rodríguez, con un año de prisión para cada uno. Las noticias aún anunciaban la posterior sentencia de la Sección Tercera de la Audiencia Provincial de Huelva. Un acta municipal de abril de 2025 recoge un debate que cita la sentencia 107/2024, pero no incorpora el fallo original.
 
-  El 15 de octubre de 2024, Huelva Información y COPE comunicaron un acuerdo de conformidad por cohecho para
-  los dos concejales y el sindicalista José Luis Rodríguez, con un año de prisión para cada uno. Las noticias
-  aún anunciaban la posterior sentencia de la Sección Tercera de la Audiencia Provincial de Huelva. Un acta
-  municipal de abril de 2025 recoge un debate que cita la sentencia 107/2024, pero no incorpora el fallo
-  original.
+  Ignacio Caraballo fue investigado, pero la Fiscalía pidió el sobreseimiento respecto a él en junio de 2021 y mantuvo la acusación contra otras tres personas. No se ha cotejado el auto judicial que resolvió su situación. Tampoco se han recuperado la sentencia de conformidad ni resoluciones sobre firmeza, recursos o ejecución hasta el 17 de octubre de 2026.
 
+  La cobertura de octubre de 2024 atribuye la conformidad a los dos exconcejales de Sí se Puede y al sindicalista de CCOO. No son tres condenados del PSOE. La vinculación de la ficha con este partido procede del contexto del gobierno municipal socialista y de la investigación de Caraballo, para quien la Fiscalía pidió después el archivo. Yolanda Rubio era la alcaldesa contra la que se dirigía la moción; no se la incluye como condenada ni se deduce una responsabilidad penal de la continuidad de su gobierno.
 
-  Ignacio Caraballo fue investigado, pero la Fiscalía pidió el sobreseimiento respecto a él en junio de 2021 y
-  mantuvo la acusación contra otras tres personas. No se ha cotejado el auto judicial que resolvió su
-  situación. Tampoco se han recuperado la sentencia de conformidad ni resoluciones sobre firmeza, recursos o
-  ejecución hasta el 17 de octubre de 2026.
+  Las fuentes de octubre de 2024 coinciden en un año de prisión para cada uno de los tres acusados, pero ofrecen distinto detalle de las penas accesorias. COPE recoge seis meses de multa con cuota diaria de seis euros; Huelva Información resume la multa en 1.100 euros y atribuye a los concejales dos años y seis meses de inhabilitación municipal. Sin el fallo original no se unifican esas cifras ni se extiende esta última inhabilitación al sindicalista. Huelva Información recoge un informe fiscal favorable a suspender la prisión durante dos años: ese informe no acredita por sí solo la resolución judicial de suspensión o el resultado de la ejecución.
+
+  El acta municipal de 2025 es un documento oficial sobre el pleno, con una moción y declaraciones políticas que discuten la interpretación de la sentencia. Su cita de la resolución 107/2024 no permite certificar aquí su fecha, contenido íntegro, firmeza o ejecución, ni convertir las imputaciones políticas del debate en condenas de terceros.
+
+  Al 17 de octubre de 2026, no se dispone de la sentencia original de conformidad, del auto que resolvió la situación de Caraballo ni de resoluciones posteriores de recurso, firmeza o ejecución. Tampoco se han cotejado la denuncia ni los audios originales. No consta una cuantificación del daño público; las multas y los empleos ofrecidos no proporcionan esa cuantificación ni acreditan la ausencia de daño.
 resumen: "Conformidad por cohecho de dos concejales de Sí se Puede y un sindicalista por el acuerdo que frustró una moción de censura contra la alcaldesa socialista. La Fiscalía no acusó a Caraballo; faltan originales judiciales y comprobación de firmeza y ejecución."
 tribunal:
   - "Juzgado de Instrucción número 1 de Huelva"
@@ -118,11 +113,3 @@ cronologia:
       - "https://www.ayto-aljaraque.es/export/sites/aljaraque/es/ayuntamiento/publicaciones-oficiales/.galleries/publicaciones-oficiales/Plenos/Plenos-2025/Actas-plenarias-2025/Pleno-Ordinario-de-10-abr-2025-Acta-4.pdf"
     type: "investigacion"
 ---
-
-La cobertura de octubre de 2024 atribuye la conformidad a los dos exconcejales de Sí se Puede y al sindicalista de CCOO. No son tres condenados del PSOE. La vinculación de la ficha con este partido procede del contexto del gobierno municipal socialista y de la investigación de Caraballo, para quien la Fiscalía pidió después el archivo. Yolanda Rubio era la alcaldesa contra la que se dirigía la moción; no se la incluye como condenada ni se deduce una responsabilidad penal de la continuidad de su gobierno.
-
-Las fuentes de octubre de 2024 coinciden en un año de prisión para cada uno de los tres acusados, pero ofrecen distinto detalle de las penas accesorias. COPE recoge seis meses de multa con cuota diaria de seis euros; Huelva Información resume la multa en 1.100 euros y atribuye a los concejales dos años y seis meses de inhabilitación municipal. Sin el fallo original no se unifican esas cifras ni se extiende esta última inhabilitación al sindicalista. Huelva Información recoge un informe fiscal favorable a suspender la prisión durante dos años: ese informe no acredita por sí solo la resolución judicial de suspensión o el resultado de la ejecución.
-
-El acta municipal de 2025 es un documento oficial sobre el pleno, con una moción y declaraciones políticas que discuten la interpretación de la sentencia. Su cita de la resolución 107/2024 no permite certificar aquí su fecha, contenido íntegro, firmeza o ejecución, ni convertir las imputaciones políticas del debate en condenas de terceros.
-
-Al 17 de octubre de 2026, no se dispone de la sentencia original de conformidad, del auto que resolvió la situación de Caraballo ni de resoluciones posteriores de recurso, firmeza o ejecución. Tampoco se han cotejado la denuncia ni los audios originales. No consta una cuantificación del daño público; las multas y los empleos ofrecidos no proporcionan esa cuantificación ni acreditan la ausencia de daño.

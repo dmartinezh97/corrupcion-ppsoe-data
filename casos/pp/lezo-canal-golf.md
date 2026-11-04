@@ -8,25 +8,47 @@ estadoPrincipal: En juicio
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: en juicio oral
-descripcion: 'La pieza 2 del caso Lezo examina dos contrataciones relacionadas con las instalaciones deportivas
-  del tercer depósito del Canal de Isabel II, en Chamberí (Madrid). Según la acusación, Ignacio González e Ildefonso
-  de Miguel promovieron la modificación del proyecto original y favorecieron la participación de Tecnoconcret Proyectos
-  de Ingeniería (TCT), vinculada al hermano y al cuñado de González. La adjudicación inicial de 2003 se refería
-  a consolidación, impermeabilización y ajardinamiento del depósito; el campo de golf se incorporó al proyecto modificado.
-  Estas son imputaciones pendientes de prueba, no hechos declarados en sentencia.
+descripcion: |-
+  La pieza 2 del caso Lezo examina dos contrataciones relacionadas con las instalaciones deportivas del tercer depósito del Canal de Isabel II, en Chamberí (Madrid). Según la acusación, Ignacio González e Ildefonso de Miguel promovieron la modificación del proyecto original y favorecieron la participación de Tecnoconcret Proyectos de Ingeniería (TCT), vinculada al hermano y al cuñado de González. La adjudicación inicial de 2003 se refería a consolidación, impermeabilización y ajardinamiento del depósito; el campo de golf se incorporó al proyecto modificado. Estas son imputaciones pendientes de prueba, no hechos declarados en sentencia.
 
+  El auto de 5 de agosto de 2021 abrió juicio oral contra cinco personas. La vista comenzó el 13 de octubre de 2026 ante la Sección Segunda de la Sala de lo Penal de la Audiencia Nacional: todos negaron los hechos y Fiscalía mantuvo su petición de seis años de prisión y 550.000 euros de multa para cada uno por cohecho. Las acusaciones particulares y populares sostuvieron calificaciones y penas distintas en los escritos recogidos en el auto de apertura.
 
-  El auto de 5 de agosto de 2021 abrió juicio oral contra cinco personas. La vista comenzó el 13 de octubre de 2026
-  ante la Sección Segunda de la Sala de lo Penal de la Audiencia Nacional: todos negaron los hechos y Fiscalía mantuvo
-  su petición de seis años de prisión y 550.000 euros de multa para cada uno por cohecho. Las acusaciones particulares
-  y populares sostuvieron calificaciones y penas distintas en los escritos recogidos en el auto de apertura.
+  No se ha verificado sentencia al 15 de octubre de 2026. Falta cotejar el señalamiento original que sustituyó la previsión de septiembre de 2027 y la actualización íntegra de las restantes acusaciones y medidas personales. El beneficio de 504.780 euros que Fiscalía atribuye a TCT, el volumen de los contratos y las pretensiones de indemnización o decomiso no son un daño judicialmente fijado ni deben sumarse entre sí; no se dispone de una cifra global de perjuicio probado.
 
+  ### Dos contratos vinculados a TCT
 
-  No se ha verificado sentencia al 15 de octubre de 2026. Falta cotejar el señalamiento original que sustituyó la
-  previsión de septiembre de 2027 y la actualización íntegra de las restantes acusaciones y medidas personales.
-  El beneficio de 504.780 euros que Fiscalía atribuye a TCT, el volumen de los contratos y las pretensiones de indemnización
-  o decomiso no son un daño judicialmente fijado ni deben sumarse entre sí; no se dispone de una cifra global de
-  perjuicio probado.'
+  El [auto de apertura de juicio oral](https://www.losgenoveses.net/Caso%20Lezo/Lezo%20PS2.%20Campo%20de%20Golf.%20Auto%20de%20apertura%20de%20juicio%20oral.%2005.08.21.pdf) identifica la causa como pieza 2 de las diligencias 91/2016. Recoge el convenio urbanístico de 24 de julio de 2002 y la licitación del proyecto original de consolidación, impermeabilización y ajardinamiento del tercer depósito. El contrato se adjudicó a ACS el 31 de marzo de 2003; no era todavía el proyecto de campo de golf descrito en la acusación.
+
+  Según el relato fiscal incorporado al auto, en junio de 2004 se promovió un cambio sustancial que introdujo el campo de golf, y el 19 de julio de 2006 se adjudicó directamente el modificado a Dragados. La acusación sostiene que González y De Miguel condicionaron esa contratación a que se subcontratara a TCT, participada por el hermano y el cuñado del primero y por José Antonio Clemente. También examina la adjudicación de diciembre de 2006 para gestionar y explotar las instalaciones, y la posterior cadena de subcontrataciones de mantenimiento. No se confunde la adjudicación del Canal a Dragados con la subcontratación privada de TCT ni con la segunda concesión a una UTE.
+
+  ### De la apertura al juicio
+
+  El pase a procedimiento abreviado es de 24 de mayo de 2021 y el escrito fiscal de 24 de junio de ese año, como consta en el antecedente primero del auto de apertura. El auto está fechado el 5 de agosto y notificado el 6. Su fallo permite continuar contra los cinco acusados y limita los recursos salvo situación personal. No resuelve si los hechos ocurrieron ni constituye una sentencia condenatoria. Las medidas personales mantenidas en 2021 no se presentan automáticamente como vigentes en 2026.
+
+  En diciembre de 2025 se [publicó un señalamiento para septiembre de 2027](https://www.eldiario.es/politica/audiencia-nacional-juzgara-ignacio-gonzalez-campo-golf-canal-23-anos-despues_1_12865400.html). Sin embargo, [Europa Press](https://www.europapress.es/nacional/noticia-expresidente-madrileno-ignacio-gonzalez-niega-acusaciones-primera-jornada-juicio-caso-lezo-20261013113744.html) y [RTVE](https://www.rtve.es/noticias/20261013/ignacio-gonzalez-niega-juicio-del-caso-lezo-cometiera-cohecho-adjudicacion-contratos-del-canal-isabel-ii/17264126.shtml) acreditan que la vista comenzó el 13 de octubre de 2026 ante la Sección Segunda de la Sala de lo Penal. Los cinco negaron los hechos. El tribunal rechazó la petición de expulsar al Ayuntamiento de Madrid: se reconoció su legitimación para intervenir, sin que esa decisión determine la culpabilidad ni pruebe una cuantía de daño. La [crónica de esa jornada](https://elpais.com/espana/2026-10-13/arranca-el-primer-juicio-de-lezo-al-expresidente-madrileno-ignacio-gonzalez-reconoce-los-delitos.html?outputType=amp) sitúa las siguientes actuaciones después del 15 de octubre, por lo que no se dan por celebradas en esta ficha.
+
+  No se ha verificado sentencia al 15 de octubre de 2026. Falta el cotejo del auto que modificó el señalamiento y de la versión íntegra actualizada de todas las calificaciones de las partes. El mero transcurso del tiempo no acredita una absolución, condena o firmeza.
+
+  ### Qué pide cada acusación
+
+  La Fiscalía atribuye dos delitos de cohecho y solicita seis años de prisión y multas que suman 550.000 euros para cada uno de los cinco acusados; la [información de la primera sesión](https://www.europapress.es/nacional/noticia-expresidente-madrileno-ignacio-gonzalez-niega-acusaciones-primera-jornada-juicio-caso-lezo-20261013113744.html) mantiene esa petición. En la descripción fiscal, González y De Miguel intervienen desde sus responsabilidades públicas y los tres responsables de TCT son cooperadores necesarios. Es una acusación, no una declaración de autoría probada.
+
+  El auto de 2021 recoge otros escritos con calificaciones diferentes: la Comunidad y el Canal solicitan dieciséis años para González y De Miguel, y siete para los tres vinculados a TCT, por fraude, malversación y cohecho. La acusación del PSOE incluye tráfico de influencias en concurso con cohecho, prevaricación y fraude, con penas distintas; CCOO plantea cohecho con una calificación subsidiaria, y el Ayuntamiento se adhiere al Ministerio Fiscal. El fallo de apertura menciona cohecho, tráfico de influencias, prevaricación y fraude. Por ello no se atribuye la suma de todas esas calificaciones a Fiscalía ni se presentan las peticiones de una parte como una condena o una posición unánime.
+
+  ### Importes con distinto significado
+
+  | Importe | Concepto que recoge el auto de 2021 |
+  | --- | --- |
+  | 40.876.128,17 euros | Presupuesto de adjudicación del proyecto original en 2003; no perjuicio probado. |
+  | 3.067.864,83 euros | Volumen de los trabajos subcontratados por Dragados con TCT; una acusación pide su decomiso, pero no se identifica automáticamente con beneficio neto ni con daño. |
+  | 504.780 euros | Beneficio que Fiscalía atribuye a TCT: 381.029 por las obras y 123.751 por el mantenimiento. Pide su decomiso. |
+  | 505.000 euros | Indemnización solidaria solicitada por la Comunidad y el Canal; no fijada por sentencia. |
+  | 543.729 euros | Disposiciones de una cuenta de TCT que también recibía otros ingresos; CCOO solicita esa suma como indemnización. No se añade al beneficio fiscal como si fuera un daño distinto ya probado. |
+  | 550.000 euros por acusado | Multas solicitadas por Fiscalía, no multas impuestas ni fondos públicos desviados. |
+
+  No existe soporte suficiente para presentar cinco millones de euros como coste probado de esta pieza. Los presupuestos, ingresos, beneficios atribuidos, indemnizaciones y decomisos pretendidos se solapan o responden a conceptos diferentes. Se conserva su atribución a cada parte y no se suman.
+
+  Esta pieza tiene objeto y acusados propios. Los archivos o juicios de [Inassa y Emissao](/casos/pp/lezo/), [blanqueo](/casos/pp/lezo-blanqueo-capitales/) y [Navalcarnero](/casos/pp/lezo-tren-navalcarnero/) no determinan el resultado de Canal Golf. Del mismo modo, una resolución urbanística sobre el uso de estas instalaciones no sustituye la prueba de los delitos atribuidos a estas personas.
 resumen: Juicio iniciado en octubre de 2026 contra cinco acusados por contrataciones del Canal vinculadas al campo
   de golf y a TCT; sin sentencia verificada.
 lugar: Chamberí, Madrid, Comunidad de Madrid
@@ -159,38 +181,3 @@ cronologia:
   - https://www.rtve.es/noticias/20261013/ignacio-gonzalez-niega-juicio-del-caso-lezo-cometiera-cohecho-adjudicacion-contratos-del-canal-isabel-ii/17264126.shtml
   - https://elpais.com/espana/2026-10-13/arranca-el-primer-juicio-de-lezo-al-expresidente-madrileno-ignacio-gonzalez-reconoce-los-delitos.html?outputType=amp
 ---
-
-## Dos contratos vinculados a TCT
-
-El [auto de apertura de juicio oral](https://www.losgenoveses.net/Caso%20Lezo/Lezo%20PS2.%20Campo%20de%20Golf.%20Auto%20de%20apertura%20de%20juicio%20oral.%2005.08.21.pdf) identifica la causa como pieza 2 de las diligencias 91/2016. Recoge el convenio urbanístico de 24 de julio de 2002 y la licitación del proyecto original de consolidación, impermeabilización y ajardinamiento del tercer depósito. El contrato se adjudicó a ACS el 31 de marzo de 2003; no era todavía el proyecto de campo de golf descrito en la acusación.
-
-Según el relato fiscal incorporado al auto, en junio de 2004 se promovió un cambio sustancial que introdujo el campo de golf, y el 19 de julio de 2006 se adjudicó directamente el modificado a Dragados. La acusación sostiene que González y De Miguel condicionaron esa contratación a que se subcontratara a TCT, participada por el hermano y el cuñado del primero y por José Antonio Clemente. También examina la adjudicación de diciembre de 2006 para gestionar y explotar las instalaciones, y la posterior cadena de subcontrataciones de mantenimiento. No se confunde la adjudicación del Canal a Dragados con la subcontratación privada de TCT ni con la segunda concesión a una UTE.
-
-## De la apertura al juicio
-
-El pase a procedimiento abreviado es de 24 de mayo de 2021 y el escrito fiscal de 24 de junio de ese año, como consta en el antecedente primero del auto de apertura. El auto está fechado el 5 de agosto y notificado el 6. Su fallo permite continuar contra los cinco acusados y limita los recursos salvo situación personal. No resuelve si los hechos ocurrieron ni constituye una sentencia condenatoria. Las medidas personales mantenidas en 2021 no se presentan automáticamente como vigentes en 2026.
-
-En diciembre de 2025 se [publicó un señalamiento para septiembre de 2027](https://www.eldiario.es/politica/audiencia-nacional-juzgara-ignacio-gonzalez-campo-golf-canal-23-anos-despues_1_12865400.html). Sin embargo, [Europa Press](https://www.europapress.es/nacional/noticia-expresidente-madrileno-ignacio-gonzalez-niega-acusaciones-primera-jornada-juicio-caso-lezo-20261013113744.html) y [RTVE](https://www.rtve.es/noticias/20261013/ignacio-gonzalez-niega-juicio-del-caso-lezo-cometiera-cohecho-adjudicacion-contratos-del-canal-isabel-ii/17264126.shtml) acreditan que la vista comenzó el 13 de octubre de 2026 ante la Sección Segunda de la Sala de lo Penal. Los cinco negaron los hechos. El tribunal rechazó la petición de expulsar al Ayuntamiento de Madrid: se reconoció su legitimación para intervenir, sin que esa decisión determine la culpabilidad ni pruebe una cuantía de daño. La [crónica de esa jornada](https://elpais.com/espana/2026-10-13/arranca-el-primer-juicio-de-lezo-al-expresidente-madrileno-ignacio-gonzalez-reconoce-los-delitos.html?outputType=amp) sitúa las siguientes actuaciones después del 15 de octubre, por lo que no se dan por celebradas en esta ficha.
-
-No se ha verificado sentencia al 15 de octubre de 2026. Falta el cotejo del auto que modificó el señalamiento y de la versión íntegra actualizada de todas las calificaciones de las partes. El mero transcurso del tiempo no acredita una absolución, condena o firmeza.
-
-## Qué pide cada acusación
-
-La Fiscalía atribuye dos delitos de cohecho y solicita seis años de prisión y multas que suman 550.000 euros para cada uno de los cinco acusados; la [información de la primera sesión](https://www.europapress.es/nacional/noticia-expresidente-madrileno-ignacio-gonzalez-niega-acusaciones-primera-jornada-juicio-caso-lezo-20261013113744.html) mantiene esa petición. En la descripción fiscal, González y De Miguel intervienen desde sus responsabilidades públicas y los tres responsables de TCT son cooperadores necesarios. Es una acusación, no una declaración de autoría probada.
-
-El auto de 2021 recoge otros escritos con calificaciones diferentes: la Comunidad y el Canal solicitan dieciséis años para González y De Miguel, y siete para los tres vinculados a TCT, por fraude, malversación y cohecho. La acusación del PSOE incluye tráfico de influencias en concurso con cohecho, prevaricación y fraude, con penas distintas; CCOO plantea cohecho con una calificación subsidiaria, y el Ayuntamiento se adhiere al Ministerio Fiscal. El fallo de apertura menciona cohecho, tráfico de influencias, prevaricación y fraude. Por ello no se atribuye la suma de todas esas calificaciones a Fiscalía ni se presentan las peticiones de una parte como una condena o una posición unánime.
-
-## Importes con distinto significado
-
-| Importe | Concepto que recoge el auto de 2021 |
-| --- | --- |
-| 40.876.128,17 euros | Presupuesto de adjudicación del proyecto original en 2003; no perjuicio probado. |
-| 3.067.864,83 euros | Volumen de los trabajos subcontratados por Dragados con TCT; una acusación pide su decomiso, pero no se identifica automáticamente con beneficio neto ni con daño. |
-| 504.780 euros | Beneficio que Fiscalía atribuye a TCT: 381.029 por las obras y 123.751 por el mantenimiento. Pide su decomiso. |
-| 505.000 euros | Indemnización solidaria solicitada por la Comunidad y el Canal; no fijada por sentencia. |
-| 543.729 euros | Disposiciones de una cuenta de TCT que también recibía otros ingresos; CCOO solicita esa suma como indemnización. No se añade al beneficio fiscal como si fuera un daño distinto ya probado. |
-| 550.000 euros por acusado | Multas solicitadas por Fiscalía, no multas impuestas ni fondos públicos desviados. |
-
-No existe soporte suficiente para presentar cinco millones de euros como coste probado de esta pieza. Los presupuestos, ingresos, beneficios atribuidos, indemnizaciones y decomisos pretendidos se solapan o responden a conceptos diferentes. Se conserva su atribución a cada parte y no se suman.
-
-Esta pieza tiene objeto y acusados propios. Los archivos o juicios de [Inassa y Emissao](/casos/pp/lezo/), [blanqueo](/casos/pp/lezo-blanqueo-capitales/) y [Navalcarnero](/casos/pp/lezo-tren-navalcarnero/) no determinan el resultado de Canal Golf. Del mismo modo, una resolución urbanística sobre el uso de estas instalaciones no sustituye la prueba de los delitos atribuidos a estas personas.

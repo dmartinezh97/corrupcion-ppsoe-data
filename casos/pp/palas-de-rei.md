@@ -10,21 +10,24 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: absuelto
-descripcion: >-
-  Proceso por presunto acoso laboral y prevaricación en el Ayuntamiento de Palas de Rei (Lugo), a raíz del
-  conflicto con la secretaria-interventora Celia González Vázquez. La Audiencia Provincial de Lugo condenó en
-  julio de 2017 al alcalde Pablo José Taboada Camoira, al exalcalde Fernando Alfredo Pensado Barbeira, a otros
-  cuatro concejales y a tres funcionarios, con distintas responsabilidades. Esas condenas fueron anuladas por
-  el Tribunal Supremo, que absolvió a los nueve recurrentes en diciembre de 2018; la noticia se difundió en
-  enero de 2019. Otras dos personas ya habían sido absueltas en la instancia.
+descripcion: |-
+  Proceso por presunto acoso laboral y prevaricación en el Ayuntamiento de Palas de Rei (Lugo), a raíz del conflicto con la secretaria-interventora Celia González Vázquez. La Audiencia Provincial de Lugo condenó en julio de 2017 al alcalde Pablo José Taboada Camoira, al exalcalde Fernando Alfredo Pensado Barbeira, a otros cuatro concejales y a tres funcionarios, con distintas responsabilidades. Esas condenas fueron anuladas por el Tribunal Supremo, que absolvió a los nueve recurrentes en diciembre de 2018; la noticia se difundió en enero de 2019. Otras dos personas ya habían sido absueltas en la instancia.
 
+  El Supremo apreció insuficiencias probatorias y falta de los requisitos del delito de acoso laboral. Para la prevaricación no consideró probado que se aprobase la destitución de la secretaria con conocimiento de su ilegalidad: tuvo en cuenta el informe de la Dirección General de Administración Local de la Xunta que sugería esa sanción. La absolución penal no equivale a validar toda la actuación administrativa. No se dispone de los originales completos de ambas resoluciones ni de una certificación de firmeza; el resultado consta en una transcripción judicial y en la prensa, con las limitaciones documentales indicadas.
 
-  El Supremo apreció insuficiencias probatorias y falta de los requisitos del delito de acoso laboral. Para la
-  prevaricación no consideró probado que se aprobase la destitución de la secretaria con conocimiento de su
-  ilegalidad: tuvo en cuenta el informe de la Dirección General de Administración Local de la Xunta que
-  sugería esa sanción. La absolución penal no equivale a validar toda la actuación administrativa. No se
-  dispone de los originales completos de ambas resoluciones ni de una certificación de firmeza; el resultado
-  consta en una transcripción judicial y en la prensa, con las limitaciones documentales indicadas.
+  ### Alcance del proceso y de la absolución
+
+  Las acusaciones de modificar registros, firmar facturas supuestamente falsas o avalar obras no ejecutadas fueron difundidas como alegaciones de la denunciante y de su abogado en 2014. No se presentan aquí como delitos acreditados. La transcripción del Supremo identifica diligencias previas 416/2011 del Juzgado de Instrucción número 1 de Chantada: el procedimiento ya existía antes de la noticia de octubre de 2014. No están acreditados el día exacto de inicio ni la presentación de la denuncia en 2014.
+
+  La resolución de casación distingue dos cuestiones. Sobre el acoso, cuestiona el respaldo probatorio de varios pasajes de la sentencia de instancia y su encaje penal; tres funcionarios eran inferiores jerárquicos de la secretaria y no se describía la cooperación necesaria con los alcaldes. La referencia a comidas para aliviar las fricciones no resume por sí sola toda la denuncia ni toda la motivación absolutoria. Sobre la prevaricación, el acuerdo plenario de destitución de abril de 2013 no quedó acreditado como adoptado a sabiendas de su injusticia, atendiendo especialmente al informe autonómico. El Supremo no enjuició en esa casación la corrección de la conducta profesional de la secretaria.
+
+  Las penas de 2017 son antecedentes anulados, no condenas vigentes. La información de Europa Press reproducida por Iustel atribuye quince meses de prisión a cada alcalde; elDiario.es atribuye doce a Pensado, discrepancia que se deja señalada. La transcripción judicial recoge quince meses para cada uno de los dos alcaldes, sin que sus pseudónimos se utilicen para deducir identidades. La indemnización solidaria de 12.000 euros recogida en el fallo de instancia tampoco se registra como daño público probado ni como obligación vigente tras la absolución. La ausencia de condena no establece un daño económico de cero euros.
+
+  ### Fuentes y cuestiones pendientes
+
+  Información disponible a 17 de octubre de 2026. La transcripción de la STS 694/2018 en Iberley y las noticias de 2014, 2017 y 2019 documentan la evolución del procedimiento. La transcripción reproduce el fallo de instancia, pero no sustituye a su original completo; tampoco consta una corroboración independiente de la segunda sentencia absolutoria. No se dispone del documento original del CENDOJ. Los nombres completos de los dos alcaldes se contrastaron en la información nominativa de EFE publicada por El Progreso, sin trasladar nombres ficticios del texto judicial.
+
+  No se ha obtenido certificación de firmeza, ni se han revisado íntegramente los expedientes disciplinarios o las sentencias contencioso-administrativas. No consta una resolución penal posterior que altere esta absolución; ello no acredita el desenlace de todos los procedimientos relacionados.
 resumen: La condena de dos alcaldes, cuatro concejales y tres funcionarios por acoso laboral o prevaricación fue
   anulada por el Supremo en diciembre de 2018, con absolución de los nueve recurrentes.
 lugar: Palas de Rei, Galicia
@@ -105,17 +108,3 @@ cronologia:
   - https://www.elprogreso.es/articulo/ulloa-melide/supremo-absuelve-alcalde-palas-prevaricacion-acoso-laboral/201901091735441353221.html
   - https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1184462
 ---
-
-## Alcance del proceso y de la absolución
-
-Las acusaciones de modificar registros, firmar facturas supuestamente falsas o avalar obras no ejecutadas fueron difundidas como alegaciones de la denunciante y de su abogado en 2014. No se presentan aquí como delitos acreditados. La transcripción del Supremo identifica diligencias previas 416/2011 del Juzgado de Instrucción número 1 de Chantada: el procedimiento ya existía antes de la noticia de octubre de 2014. No están acreditados el día exacto de inicio ni la presentación de la denuncia en 2014.
-
-La resolución de casación distingue dos cuestiones. Sobre el acoso, cuestiona el respaldo probatorio de varios pasajes de la sentencia de instancia y su encaje penal; tres funcionarios eran inferiores jerárquicos de la secretaria y no se describía la cooperación necesaria con los alcaldes. La referencia a comidas para aliviar las fricciones no resume por sí sola toda la denuncia ni toda la motivación absolutoria. Sobre la prevaricación, el acuerdo plenario de destitución de abril de 2013 no quedó acreditado como adoptado a sabiendas de su injusticia, atendiendo especialmente al informe autonómico. El Supremo no enjuició en esa casación la corrección de la conducta profesional de la secretaria.
-
-Las penas de 2017 son antecedentes anulados, no condenas vigentes. La información de Europa Press reproducida por Iustel atribuye quince meses de prisión a cada alcalde; elDiario.es atribuye doce a Pensado, discrepancia que se deja señalada. La transcripción judicial recoge quince meses para cada uno de los dos alcaldes, sin que sus pseudónimos se utilicen para deducir identidades. La indemnización solidaria de 12.000 euros recogida en el fallo de instancia tampoco se registra como daño público probado ni como obligación vigente tras la absolución. La ausencia de condena no establece un daño económico de cero euros.
-
-## Fuentes y cuestiones pendientes
-
-Información disponible a 17 de octubre de 2026. La transcripción de la STS 694/2018 en Iberley y las noticias de 2014, 2017 y 2019 documentan la evolución del procedimiento. La transcripción reproduce el fallo de instancia, pero no sustituye a su original completo; tampoco consta una corroboración independiente de la segunda sentencia absolutoria. No se dispone del documento original del CENDOJ. Los nombres completos de los dos alcaldes se contrastaron en la información nominativa de EFE publicada por El Progreso, sin trasladar nombres ficticios del texto judicial.
-
-No se ha obtenido certificación de firmeza, ni se han revisado íntegramente los expedientes disciplinarios o las sentencias contencioso-administrativas. No consta una resolución penal posterior que altere esta absolución; ello no acredita el desenlace de todos los procedimientos relacionados.

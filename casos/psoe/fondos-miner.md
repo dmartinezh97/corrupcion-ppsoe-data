@@ -10,27 +10,24 @@ estadoPrincipal: En investigación
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: desconocido
-descripcion: 'La operación Hulla investiga presuntas irregularidades en la adjudicación, construcción y financiación
-  de la residencia La Minería del Montepío en Felechosa (Aller), así como operaciones patrimoniales y de blanqueo
-  relacionadas con otros inmuebles de la mutualidad. No comprende todos los proyectos financiados por los fondos
-  Miner ni equivale al procedimiento distinto sobre dinero del sindicato SOMA-UGT. El informe de fiscalización 1.363
-  del Tribunal de Cuentas, aprobado en 2020, distingue una subvención concedida de 30.916.164 euros, pagos de 27.612.500
-  euros y un coste de construcción justificado de unos 32,48 millones; ninguna de esas cifras se presenta aquí como
-  daño fijado por sentencia.
+descripcion: |-
+  La operación Hulla investiga presuntas irregularidades en la adjudicación, construcción y financiación de la residencia La Minería del Montepío en Felechosa (Aller), así como operaciones patrimoniales y de blanqueo relacionadas con otros inmuebles de la mutualidad. No comprende todos los proyectos financiados por los fondos Miner ni equivale al procedimiento distinto sobre dinero del sindicato SOMA-UGT. El informe de fiscalización 1.363 del Tribunal de Cuentas, aprobado en 2020, distingue una subvención concedida de 30.916.164 euros, pagos de 27.612.500 euros y un coste de construcción justificado de unos 32,48 millones; ninguna de esas cifras se presenta aquí como daño fijado por sentencia.
 
+  La información de julio de 2026 refiere un auto de 17 de febrero de 2026 que dio por terminada la instrucción y transformó las diligencias en procedimiento abreviado. El 30 de julio se conoció la acusación fiscal contra quince personas, con petición de 24 años y seis meses para José Antonio Postigo, además de penas para constructor, técnicos, asesores, un exalcalde y familiares. La Fiscalía también solicita decomisos; no son confiscaciones acordadas ni condenas. José Ángel Fernández Villa quedó fuera de la acusación penal por sobreseimiento provisional debido a su deterioro cognitivo, sin que ello equivalga a absolución sobre el fondo. La petición fiscal de archivo respecto de David Moreno no se da por concedida.
 
-  La información de julio de 2026 refiere un auto de 17 de febrero de 2026 que dio por terminada la instrucción
-  y transformó las diligencias en procedimiento abreviado. El 30 de julio se conoció la acusación fiscal contra
-  quince personas, con petición de 24 años y seis meses para José Antonio Postigo, además de penas para constructor,
-  técnicos, asesores, un exalcalde y familiares. La Fiscalía también solicita decomisos; no son confiscaciones acordadas
-  ni condenas. José Ángel Fernández Villa quedó fuera de la acusación penal por sobreseimiento provisional debido
-  a su deterioro cognitivo, sin que ello equivalga a absolución sobre el fondo. La petición fiscal de archivo respecto
-  de David Moreno no se da por concedida.
+  No se han recuperado los autos y el escrito fiscal originales ni se ha verificado una resolución posterior de apertura de juicio, celebración, sentencia o firmeza al 17 de octubre de 2026. Las cautelas patrimoniales mantenidas respecto de Villa y la eventual responsabilidad civil se distinguen de la suspensión de su persecución penal.
 
+  El objeto central de esta ficha es la construcción y financiación de la residencia de Felechosa, no el conjunto de programas Miner en España. La causa Hulla también examina operaciones en otros inmuebles de la mutualidad, como residenciales en Murcia y Almería, por lo que no todo acto atribuido a cada persona corresponde a una certificación de obra de Felechosa. El procedimiento por dinero del SOMA tiene un objeto diferente y sus eventuales condenas no se trasladan a esta causa.
 
-  No se han recuperado los autos y el escrito fiscal originales ni se ha verificado una resolución posterior de
-  apertura de juicio, celebración, sentencia o firmeza al 17 de octubre de 2026. Las cautelas patrimoniales mantenidas
-  respecto de Villa y la eventual responsabilidad civil se distinguen de la suspensión de su persecución penal.'
+  El informe 1.363 del Tribunal de Cuentas documenta la secuencia administrativa: acuerdo de construcción en diciembre de 2007, adjudicación en marzo de 2009, convenio en diciembre de 2009 y licencia de obra en septiembre de 2010, cuando ya había trabajos ejecutados. Sitúa el inicio de actividad en abril de 2012 y la inauguración oficial en enero de 2013, sin fijar un día de ese mes. El informe cuestiona el control del proyecto y su justificación, pero no declara culpabilidad penal individual.
+
+  La subvención concedida de 30.916.164 euros, los 27.612.500 efectivamente abonados y los aproximadamente 32,48 millones del coste justificado no se suman ni representan por sí solos daño probado. La fiscalización también relata una resolución administrativa de reintegro de 2016, con principal de 428.957 euros e intereses, y pérdida del derecho al cobro de 3.303.664 euros: a la fecha del informe, su ejecución estaba suspendida por los recursos y la causa penal. No se afirma su situación posterior ni se convierte aquel reintegro administrativo en una condena penal. Las multas y decomisos pretendidos en 2026 son categorías distintas.
+
+  El afloramiento de patrimonio en la regularización fiscal de 2012 es un antecedente de la investigación, no prueba automática de que todo ese dinero procediera del proyecto. Las noticias de 2017 y de 2026 ofrecen cifras diferentes para Villa y Postigo; se evita presentarlas como cantidades definitivamente determinadas por una sentencia de Hulla. La página oficial del Senado acredita que Villa fue senador del PSOE designado por la Junta General de Asturias; no acredita un mandato en el Congreso.
+
+  La situación de Villa es particular: el deterioro cognitivo motivó sobreseimiento provisional y su ausencia de la acusación penal de julio de 2026. La información de mayo de 2025 refleja que seguían las cautelas sobre su patrimonio y que se rechazó su pretensión de sobreseimiento libre. No se equipara la imposibilidad de continuar penalmente por su salud a una absolución sobre el origen de los fondos ni a la desaparición de toda posible consecuencia patrimonial.
+
+  El cierre de instrucción contempló más personas que las quince finalmente acusadas por Fiscalía. David Moreno tiene una petición fiscal de archivo, sin resolución judicial verificada; Patricia Postigo y María Elena Pérez aparecen a título lucrativo, sin acusación penal fiscal. El parentesco de otras personas no demuestra por sí mismo participación delictiva. Falta el escrito original para detallar con seguridad cada imputación y las peticiones individuales, y no se han verificado juicio, fallo, recursos o firmeza posteriores.
 resumen: 'Residencia de Felechosa: acusación fiscal contra quince personas en julio de 2026 y Villa apartado provisionalmente
   por salud'
 lugar: Felechosa, Aller (Asturias), con operaciones relacionadas en otros inmuebles del Montepío
@@ -203,15 +200,3 @@ cronologia:
     type: acusacion
     relevancia: alta
 ---
-
-El objeto central de esta ficha es la construcción y financiación de la residencia de Felechosa, no el conjunto de programas Miner en España. La causa Hulla también examina operaciones en otros inmuebles de la mutualidad, como residenciales en Murcia y Almería, por lo que no todo acto atribuido a cada persona corresponde a una certificación de obra de Felechosa. El procedimiento por dinero del SOMA tiene un objeto diferente y sus eventuales condenas no se trasladan a esta causa.
-
-El informe 1.363 del Tribunal de Cuentas documenta la secuencia administrativa: acuerdo de construcción en diciembre de 2007, adjudicación en marzo de 2009, convenio en diciembre de 2009 y licencia de obra en septiembre de 2010, cuando ya había trabajos ejecutados. Sitúa el inicio de actividad en abril de 2012 y la inauguración oficial en enero de 2013, sin fijar un día de ese mes. El informe cuestiona el control del proyecto y su justificación, pero no declara culpabilidad penal individual.
-
-La subvención concedida de 30.916.164 euros, los 27.612.500 efectivamente abonados y los aproximadamente 32,48 millones del coste justificado no se suman ni representan por sí solos daño probado. La fiscalización también relata una resolución administrativa de reintegro de 2016, con principal de 428.957 euros e intereses, y pérdida del derecho al cobro de 3.303.664 euros: a la fecha del informe, su ejecución estaba suspendida por los recursos y la causa penal. No se afirma su situación posterior ni se convierte aquel reintegro administrativo en una condena penal. Las multas y decomisos pretendidos en 2026 son categorías distintas.
-
-El afloramiento de patrimonio en la regularización fiscal de 2012 es un antecedente de la investigación, no prueba automática de que todo ese dinero procediera del proyecto. Las noticias de 2017 y de 2026 ofrecen cifras diferentes para Villa y Postigo; se evita presentarlas como cantidades definitivamente determinadas por una sentencia de Hulla. La página oficial del Senado acredita que Villa fue senador del PSOE designado por la Junta General de Asturias; no acredita un mandato en el Congreso.
-
-La situación de Villa es particular: el deterioro cognitivo motivó sobreseimiento provisional y su ausencia de la acusación penal de julio de 2026. La información de mayo de 2025 refleja que seguían las cautelas sobre su patrimonio y que se rechazó su pretensión de sobreseimiento libre. No se equipara la imposibilidad de continuar penalmente por su salud a una absolución sobre el origen de los fondos ni a la desaparición de toda posible consecuencia patrimonial.
-
-El cierre de instrucción contempló más personas que las quince finalmente acusadas por Fiscalía. David Moreno tiene una petición fiscal de archivo, sin resolución judicial verificada; Patricia Postigo y María Elena Pérez aparecen a título lucrativo, sin acusación penal fiscal. El parentesco de otras personas no demuestra por sí mismo participación delictiva. Falta el escrito original para detallar con seguridad cada imputación y las peticiones individuales, y no se han verificado juicio, fallo, recursos o firmeza posteriores.

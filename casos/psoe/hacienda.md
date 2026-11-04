@@ -8,12 +8,18 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas modificadas en casación; ejecución individual pendiente de verificar
-descripcion: Causa sobre dádivas de empresarios a funcionarios de la inspección de Hacienda en Cataluña a cambio de
-  actuaciones favorables. La STS 990/2013, de 30 de diciembre, modificó las condenas de la Audiencia de
-  Barcelona; fue difundida en enero de 2014. No se confunden penas, comiso y responsabilidad civil. Al 17 de
-  octubre de 2026, faltan el original de instancia, las resoluciones posteriores de 2014 y la documentación de
-  la ejecución individual. Se ha recuperado la STS original, cotejada de forma dirigida. Aguiar tuvo un
-  sobreseimiento provisional, no una sentencia absolutoria acreditada.
+descripcion: |-
+  Causa sobre dádivas de empresarios a funcionarios de la inspección de Hacienda en Cataluña a cambio de actuaciones favorables. La STS 990/2013, de 30 de diciembre, modificó las condenas de la Audiencia de Barcelona; fue difundida en enero de 2014. No se confunden penas, comiso y responsabilidad civil. Al 17 de octubre de 2026, faltan el original de instancia, las resoluciones posteriores de 2014 y la documentación de la ejecución individual. Se ha recuperado la STS original, cotejada de forma dirigida. Aguiar tuvo un sobreseimiento provisional, no una sentencia absolutoria acreditada.
+
+  La [información nominal de Europa Press](https://www.europapress.es/nacional/noticia-supremo-rebaja-anos-condena-impuesta-expresidente-barcelona-nunez-caso-hacienda-20140129122549.html) permite distinguir las penas de funcionarios y empresarios. No se convierten los pseudónimos de la [sentencia oficial](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0f2637125c0cd53c&encode=true&databasematch=AN) en nombres reales. La lista de implicados es parcial: quedan pendientes otros sujetos y el resultado individual de sus recursos.
+
+  El fallo original distingue comiso de dádivas y beneficios de la responsabilidad civil penal, de la que absuelve a quienes venían obligados a indemnizar. Esto no equivale a absolución de todos los delitos ni permite sumar sobornos, cuotas fiscales, multas y responsabilidad civil como daño único. Los 13 millones no están acreditados como perjuicio; ello tampoco demuestra la ausencia de daño. Tampoco se traslada a esta causa el resultado del caso Torras.
+
+  El [archivo de Aguiar](https://elpais.com/diario/2004/12/18/economia/1103324414_850215.html) fue provisional por insuficiencia de indicios. No se presenta a Josep Borrell como condenado o acusado por sus vínculos con los investigados. Las cifras sobre cuentas suizas y las consecuencias políticas de 1999 requieren revalidación adicional y no se afirman aquí como hechos probados.
+
+  Los ingresos en prisión, las decisiones de tercer grado y los indultos son actuaciones individuales. Las noticias citadas no bastan para reconstruir toda la ejecución, pagos, extinción de penas o recursos constitucionales hasta el 17 de octubre de 2026. La ausencia de noticias sobre nuevas resoluciones no demuestra su inexistencia.
+
+  Se ha recuperado el PDF oficial de la STS 990/2013, de 30 de diciembre, con 185 páginas. La fecha informática de exportación, de octubre de 2026, no sustituye la fecha judicial. La cabecera relaciona también AATS 2807/2014 y STS 3085/2014, cuyos textos y efectos individuales siguen pendientes de examen: no se les atribuye aquí ningún resultado. Faltan asimismo el original de instancia, el auto relativo a Aguiar y la documentación completa de ejecución para acreditar su evolución.
 resumen: Condenas por corrupción de inspectores de Hacienda y empresarios en Cataluña; casación de diciembre de 2013
   y ejecución individual parcialmente documentada.
 lugar: Cataluña, España
@@ -101,13 +107,3 @@ cronologia:
   urls:
   - https://cadenaser.com/ser/2017/03/20/tribunales/1490031796_406656.html
 ---
-
-La [información nominal de Europa Press](https://www.europapress.es/nacional/noticia-supremo-rebaja-anos-condena-impuesta-expresidente-barcelona-nunez-caso-hacienda-20140129122549.html) permite distinguir las penas de funcionarios y empresarios. No se convierten los pseudónimos de la [sentencia oficial](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0f2637125c0cd53c&encode=true&databasematch=AN) en nombres reales. La lista de implicados es parcial: quedan pendientes otros sujetos y el resultado individual de sus recursos.
-
-El fallo original distingue comiso de dádivas y beneficios de la responsabilidad civil penal, de la que absuelve a quienes venían obligados a indemnizar. Esto no equivale a absolución de todos los delitos ni permite sumar sobornos, cuotas fiscales, multas y responsabilidad civil como daño único. Los 13 millones no están acreditados como perjuicio; ello tampoco demuestra la ausencia de daño. Tampoco se traslada a esta causa el resultado del caso Torras.
-
-El [archivo de Aguiar](https://elpais.com/diario/2004/12/18/economia/1103324414_850215.html) fue provisional por insuficiencia de indicios. No se presenta a Josep Borrell como condenado o acusado por sus vínculos con los investigados. Las cifras sobre cuentas suizas y las consecuencias políticas de 1999 requieren revalidación adicional y no se afirman aquí como hechos probados.
-
-Los ingresos en prisión, las decisiones de tercer grado y los indultos son actuaciones individuales. Las noticias citadas no bastan para reconstruir toda la ejecución, pagos, extinción de penas o recursos constitucionales hasta el 17 de octubre de 2026. La ausencia de noticias sobre nuevas resoluciones no demuestra su inexistencia.
-
-Se ha recuperado el PDF oficial de la STS 990/2013, de 30 de diciembre, con 185 páginas. La fecha informática de exportación, de octubre de 2026, no sustituye la fecha judicial. La cabecera relaciona también AATS 2807/2014 y STS 3085/2014, cuyos textos y efectos individuales siguen pendientes de examen: no se les atribuye aquí ningún resultado. Faltan asimismo el original de instancia, el auto relativo a Aguiar y la documentación completa de ejecución para acreditar su evolución.

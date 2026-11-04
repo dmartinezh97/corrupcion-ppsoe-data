@@ -9,17 +9,22 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "condenas y absoluciones"
-descripcion: >-
-  Procedimiento sobre irregularidades en las obras de la Plataforma Logística de Zaragoza. La sentencia
-  principal 155/2019, dictada el 6 de mayo de 2019 y difundida judicialmente el día 10, recoge absoluciones y
-  condenas, varias por conformidad. No existe un resultado único aplicable a todos los acusados ni a las
-  distintas piezas de Plaza.
+descripcion: |-
+  Procedimiento sobre irregularidades en las obras de la Plataforma Logística de Zaragoza. La sentencia principal 155/2019, dictada el 6 de mayo de 2019 y difundida judicialmente el día 10, recoge absoluciones y condenas, varias por conformidad. No existe un resultado único aplicable a todos los acusados ni a las distintas piezas de Plaza.
 
+  Los 147 millones corresponden, según la retrospectiva de 2025, al cálculo de la Fiscalía, no a un daño judicialmente probado. El balance económico incorpora pagos, renuncias de cobro y arbitraje, que no pueden sumarse sin cotejo. Está disponible la sentencia principal de 125 páginas. Faltan el laudo y la verificación de los recursos y la ejecución al corte del 17 de octubre de 2026.
 
-  Los 147 millones corresponden, según la retrospectiva de 2025, al cálculo de la Fiscalía, no a un daño
-  judicialmente probado. El balance económico incorpora pagos, renuncias de cobro y arbitraje, que no pueden
-  sumarse sin cotejo. Está disponible la sentencia principal de 125 páginas. Faltan el laudo y la verificación
-  de los recursos y la ejecución al corte del 17 de octubre de 2026.
+  La sentencia principal 155/2019 se ha recuperado en una copia difundida por Heraldo. El fallo y las responsabilidades civiles figuran en las páginas 109–125 de la sentencia, de 125 páginas. La cabecera fecha el acto el 6 de mayo de 2019, distinto de la difusión oficial del 10 de mayo y del nombre del archivo. El fallo prevé recurso de casación, sin que esta copia acredite su firmeza posterior.
+
+  La nota oficial identifica una responsabilidad civil de 14.848.363,30 euros para un apartado concreto de la sentencia, ya abonada por Acciona, además de otros conceptos individualizados. No es una cuantificación de todos los daños de Plaza. Tampoco se suman comisos, multas, responsabilidades solidarias o recuperaciones para obtener un supuesto agujero pendiente.
+
+  El cuadro judicial recoge para García Becerril dos años y un día de prisión por malversación y otras penas, varias sustituidas: aquella cifra no resume toda su condena. Distingue también la absolución penal de María Elena Planté de su responsabilidad lucrativa. La lista superior es selectiva y no pretende contar de nuevo todos los condenados.
+
+  La STS 558/2017 corresponde a Codesport y absuelve de malversación a los tres entonces condenados. La identificación nominal procede de la crónica contemporánea de Aragón Digital del 13 de julio, no de deducir los pseudónimos del PDF. El procedimiento civil de oficinas descrito por ese medio en septiembre de 2018 es otro litigio y no una nueva absolución penal de la causa principal.
+
+  Heraldo explicó el 31 de marzo de 2022 que el acuerdo previo combinó 35 millones pagados y renuncias a créditos de 15 y 7,7 millones, y que el laudo añadiría 2,651 millones. La retrospectiva de elDiario.es de junio de 2025 ofrece otras cifras: 4,2 millones adicionales y 61,9 en total. Sin acuerdo y laudo originales no se resuelve la discrepancia ni se adopta un saldo definitivo.
+
+  La firmeza y ejecución de cada pronunciamiento requieren comprobación específica. No se atribuye afiliación política a todos los gestores o empresarios ni responsabilidad penal a autoridades ausentes del fallo consultado.
 resumen: Condenas y absoluciones por las obras de Plaza, con resolución del Supremo distinta para Codesport y
   posterior arbitraje civil. Desenlace de recursos y balance económico sin acreditar por completo.
 lugar: "Zaragoza, Aragón"
@@ -106,15 +111,3 @@ cronologia:
     urls:
       - "https://www.heraldo.es/noticias/aragon/2022/03/31/acciona-debera-devolver-otros-2-6-millones-por-sobreprecios-en-las-obras-del-caso-plaza-1563847.html"
 ---
-
-La sentencia principal 155/2019 se ha recuperado en una copia difundida por Heraldo. El fallo y las responsabilidades civiles figuran en las páginas 109–125 de la sentencia, de 125 páginas. La cabecera fecha el acto el 6 de mayo de 2019, distinto de la difusión oficial del 10 de mayo y del nombre del archivo. El fallo prevé recurso de casación, sin que esta copia acredite su firmeza posterior.
-
-La nota oficial identifica una responsabilidad civil de 14.848.363,30 euros para un apartado concreto de la sentencia, ya abonada por Acciona, además de otros conceptos individualizados. No es una cuantificación de todos los daños de Plaza. Tampoco se suman comisos, multas, responsabilidades solidarias o recuperaciones para obtener un supuesto agujero pendiente.
-
-El cuadro judicial recoge para García Becerril dos años y un día de prisión por malversación y otras penas, varias sustituidas: aquella cifra no resume toda su condena. Distingue también la absolución penal de María Elena Planté de su responsabilidad lucrativa. La lista superior es selectiva y no pretende contar de nuevo todos los condenados.
-
-La STS 558/2017 corresponde a Codesport y absuelve de malversación a los tres entonces condenados. La identificación nominal procede de la crónica contemporánea de Aragón Digital del 13 de julio, no de deducir los pseudónimos del PDF. El procedimiento civil de oficinas descrito por ese medio en septiembre de 2018 es otro litigio y no una nueva absolución penal de la causa principal.
-
-Heraldo explicó el 31 de marzo de 2022 que el acuerdo previo combinó 35 millones pagados y renuncias a créditos de 15 y 7,7 millones, y que el laudo añadiría 2,651 millones. La retrospectiva de elDiario.es de junio de 2025 ofrece otras cifras: 4,2 millones adicionales y 61,9 en total. Sin acuerdo y laudo originales no se resuelve la discrepancia ni se adopta un saldo definitivo.
-
-La firmeza y ejecución de cada pronunciamiento requieren comprobación específica. No se atribuye afiliación política a todos los gestores o empresarios ni responsabilidad penal a autoridades ausentes del fallo consultado.

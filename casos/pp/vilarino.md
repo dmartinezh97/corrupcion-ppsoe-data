@@ -8,22 +8,28 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condena de instancia; firmeza no verificada
-descripcion: 'La Sección Segunda de la Audiencia Provincial de Ourense condenó a Ventura Sierra Vázquez, entonces
-  alcalde de Vilariño de Conso por el PP, a siete años de inhabilitación especial para empleo o cargo público por
-  prevaricación relacionada con 29 contratos temporales de 2012 y 2013. La condena se difundió el 16 de junio de
-  2017, no en 2015. El fallo también lo absolvió de falsedad, según la información publicada por El Progreso a partir
-  de un avance facilitado por el TSXG.
+descripcion: |-
+  La Sección Segunda de la Audiencia Provincial de Ourense condenó a Ventura Sierra Vázquez, entonces alcalde de Vilariño de Conso por el PP, a siete años de inhabilitación especial para empleo o cargo público por prevaricación relacionada con 29 contratos temporales de 2012 y 2013. La condena se difundió el 16 de junio de 2017, no en 2015. El fallo también lo absolvió de falsedad, según la información publicada por El Progreso a partir de un avance facilitado por el TSXG.
 
+  Las contrataciones se realizaron sin el procedimiento administrativo correspondiente y pese a reparos de intervención. No se afirma que fueran 29 personas distintas ni que todas tuvieran parentesco o vinculación partidista con el alcalde. La noticia indicaba expresamente que la sentencia no era firme.
 
-  Las contrataciones se realizaron sin el procedimiento administrativo correspondiente y pese a reparos de intervención.
-  No se afirma que fueran 29 personas distintas ni que todas tuvieran parentesco o vinculación partidista con el
-  alcalde. La noticia indicaba expresamente que la sentencia no era firme.
+  La prensa documentó su renuncia en julio de 2017 y el relevo por Melisa Macía. No se ha localizado el original judicial ni comprobado el eventual recurso, la firmeza o la liquidación de la inhabilitación hasta el corte del 17 de octubre de 2026. La investigación anunciada sobre Macía en marzo de 2026 se refiere a otros hechos y no altera por sí misma el estado de este procedimiento.
 
+  ### Alcance de la condena
 
-  La prensa documentó su renuncia en julio de 2017 y el relevo por Melisa Macía. No se ha localizado el original
-  judicial ni comprobado el eventual recurso, la firmeza o la liquidación de la inhabilitación hasta el corte del
-  17 de octubre de 2026. La investigación anunciada sobre Macía en marzo de 2026 se refiere a otros hechos y no
-  altera por sí misma el estado de este procedimiento.'
+  Las fuentes citadas sitúan la condena penal en 2017 y la atribuyen a la Audiencia Provincial de Ourense, no a un juzgado contencioso-administrativo ni al TSXG como tribunal sentenciador. El TSXG aparece como origen de la información facilitada a la prensa. La pena descrita es inhabilitación especial para empleo o cargo público, no exclusivamente para la alcaldía. No consta en estas fuentes una pena de prisión impuesta por este fallo.
+
+  No constan las fechas exactas de apertura y fin del procedimiento, ni está acreditado el nepotismo como hecho probado. Los 29 contratos no se convierten sin comprobación en 29 beneficiarios diferentes. Tampoco se fija un coste cero: no se ha verificado una cuantificación judicial de daño o responsabilidad civil.
+
+  ### Documentos y seguimiento
+
+  El acta del pleno de la Diputación de Ourense de 6 de marzo de 2019, contiene una mención política a la condena; no sustituye el fallo ni acredita sus recursos o firmeza. No se incorpora como documento judicial. No se dispone de una resolución original verificable.
+
+  Quedan pendientes la fecha e identificador de la sentencia, su texto íntegro, el eventual recurso de casación y los actos de ejecución. El paso del tiempo no permite calcular automáticamente cuándo terminó la inhabilitación. Al 17 de octubre de 2026, no consta una revocación; ello no demuestra la ausencia de novedades.
+
+  La información de Europa Press de 11 de marzo de 2026 sobre diligencias relativas a Melisa Macía trata contratación menor y pagos de facturas de otra etapa. Se mantiene separada: no es un recurso ni una continuación acreditada de los hechos de 2012–2013 atribuidos a Sierra.
+
+  Fuente de la investigación distinta de 2026: [Europa Press, 11 de marzo](https://www.europapress.es/galicia/noticia-fiscalia-investiga-alcaldesa-vilarino-conso-ourense-presunto-delito-prevaricacion-administrativa-20260311143923.html).
 resumen: Condena difundida en junio de 2017 a Ventura Sierra por prevaricación en 29 contratos temporales; absuelto
   de falsedad. Siete años de inhabilitación, con recurso, firmeza y ejecución pendientes de comprobar.
 lugar: Vilariño de Conso, Ourense, Galicia
@@ -66,19 +72,3 @@ cronologia:
   urls:
   - https://www.laregion.es/valdeorras/melisa-macia-toma-posesion-alcaldia-vilarino-conso_1_20170805-2925785.html
 ---
-
-## Alcance de la condena
-
-Las fuentes citadas sitúan la condena penal en 2017 y la atribuyen a la Audiencia Provincial de Ourense, no a un juzgado contencioso-administrativo ni al TSXG como tribunal sentenciador. El TSXG aparece como origen de la información facilitada a la prensa. La pena descrita es inhabilitación especial para empleo o cargo público, no exclusivamente para la alcaldía. No consta en estas fuentes una pena de prisión impuesta por este fallo.
-
-No constan las fechas exactas de apertura y fin del procedimiento, ni está acreditado el nepotismo como hecho probado. Los 29 contratos no se convierten sin comprobación en 29 beneficiarios diferentes. Tampoco se fija un coste cero: no se ha verificado una cuantificación judicial de daño o responsabilidad civil.
-
-## Documentos y seguimiento
-
-El acta del pleno de la Diputación de Ourense de 6 de marzo de 2019, contiene una mención política a la condena; no sustituye el fallo ni acredita sus recursos o firmeza. No se incorpora como documento judicial. No se dispone de una resolución original verificable.
-
-Quedan pendientes la fecha e identificador de la sentencia, su texto íntegro, el eventual recurso de casación y los actos de ejecución. El paso del tiempo no permite calcular automáticamente cuándo terminó la inhabilitación. Al 17 de octubre de 2026, no consta una revocación; ello no demuestra la ausencia de novedades.
-
-La información de Europa Press de 11 de marzo de 2026 sobre diligencias relativas a Melisa Macía trata contratación menor y pagos de facturas de otra etapa. Se mantiene separada: no es un recurso ni una continuación acreditada de los hechos de 2012–2013 atribuidos a Sierra.
-
-Fuente de la investigación distinta de 2026: [Europa Press, 11 de marzo](https://www.europapress.es/galicia/noticia-fiscalia-investiga-alcaldesa-vilarino-conso-ourense-presunto-delito-prevaricacion-administrativa-20260311143923.html).

@@ -8,12 +8,16 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: cerrado con condenas
-descripcion: Trama de comisiones en la contratación del Ayuntamiento de Telde durante el gobierno PP-Ciuca de 2003-2007.
-  La causa principal desembocó en 21 condenas tras confesiones y siete absoluciones en 2018, entre ellas las de
-  Francisco Valido y María del Carmen Castellano. El Supremo confirmó la responsabilidad civil subsidiaria del PP
-  por 740 euros destinados a obras en su sede, según información publicada el 16 de diciembre de 2020. No se dispone
-  aquí del texto íntegro de las resoluciones ni de una comprobación individual de su ejecución; las condenas de
-  otras causas no deben atribuirse a esta pieza.
+descripcion: |-
+  Trama de comisiones en la contratación del Ayuntamiento de Telde durante el gobierno PP-Ciuca de 2003-2007. La causa principal desembocó en 21 condenas tras confesiones y siete absoluciones en 2018, entre ellas las de Francisco Valido y María del Carmen Castellano. El Supremo confirmó la responsabilidad civil subsidiaria del PP por 740 euros destinados a obras en su sede, según información publicada el 16 de diciembre de 2020. No se dispone aquí del texto íntegro de las resoluciones ni de una comprobación individual de su ejecución; las condenas de otras causas no deben atribuirse a esta pieza.
+
+  La investigación se abrió tras una denuncia en 2005; la operación policial tuvo sus primeras detenciones el 1 de marzo de 2006. Su núcleo fue el cobro de comisiones a empresas contratistas. [Antecedentes](https://elpais.com/diario/2006/11/09/espana/1163026811_850215.html).
+
+  Las situaciones personales fueron distintas: tres exconcejales quedaron fuera del procedimiento en 2009; Valido y Castellano fueron absueltos en 2018. Las confesiones de otros procesados dieron lugar a condenas. [Sobreseimientos](https://www.europapress.es/nacional/noticia-juez-caso-faycan-telde-gran-canaria-archiva-causa-respecto-tres-ediles-pp-empresaria-20090209153520.html) y [resultado del juicio](https://teldeactualidad.com/archive/141093/politica).
+
+  Los 740 euros corresponden a la responsabilidad civil subsidiaria del PP por obras en su sede: no representan el coste total del caso ni una multa penal al partido. La confirmación del Supremo se conoció en diciembre de 2020 y volvió a describirse en junio de 2025. No se aporta una fecha de firmeza individual para cada acusado, al no disponer del texto íntegro de las resoluciones ni de información completa sobre su ejecución. [Recurso del PP](https://www.eldiario.es/canariasahora/tribunales/supremo-confirma-condena-pp-juez-salvador-alba-trato-evitar-caso-faycan_1_6509244.html) y [referencia de 2025](https://www.eldiario.es/canariasahora/tribunales/exjuez-alba-trato-librar-condena-pp-defendia-nuevo-companero-despacho_1_12423235.html).
+
+  La información de julio de 2026 sobre la pretendida reincorporación de José Luis Mena al Ayuntamiento se refiere a condenas en Alisios y Grupo Europa y recuerda su absolución en Faycán. Esas condenas no modifican su absolución en esta causa principal. No se ha comprobado aquí el estado completo de las piezas separadas. [Información de 2026](https://www.eldiario.es/canariasahora/carlossosa/congelada-indefinidamente-reincorporacion-jose-luis-mena-ayuntamiento-telde_1_13352419.html).
 resumen: 'Comisiones en contratos municipales de Telde: condenas y absoluciones en 2018 y responsabilidad civil
   subsidiaria del PP confirmada por el Supremo.'
 lugar: Telde, Gran Canaria, Canarias
@@ -118,11 +122,3 @@ cronologia:
   urls:
   - https://www.eldiario.es/canariasahora/tribunales/supremo-confirma-condena-pp-juez-salvador-alba-trato-evitar-caso-faycan_1_6509244.html
 ---
-
-La investigación se abrió tras una denuncia en 2005; la operación policial tuvo sus primeras detenciones el 1 de marzo de 2006. Su núcleo fue el cobro de comisiones a empresas contratistas. [Antecedentes](https://elpais.com/diario/2006/11/09/espana/1163026811_850215.html).
-
-Las situaciones personales fueron distintas: tres exconcejales quedaron fuera del procedimiento en 2009; Valido y Castellano fueron absueltos en 2018. Las confesiones de otros procesados dieron lugar a condenas. [Sobreseimientos](https://www.europapress.es/nacional/noticia-juez-caso-faycan-telde-gran-canaria-archiva-causa-respecto-tres-ediles-pp-empresaria-20090209153520.html) y [resultado del juicio](https://teldeactualidad.com/archive/141093/politica).
-
-Los 740 euros corresponden a la responsabilidad civil subsidiaria del PP por obras en su sede: no representan el coste total del caso ni una multa penal al partido. La confirmación del Supremo se conoció en diciembre de 2020 y volvió a describirse en junio de 2025. No se aporta una fecha de firmeza individual para cada acusado, al no disponer del texto íntegro de las resoluciones ni de información completa sobre su ejecución. [Recurso del PP](https://www.eldiario.es/canariasahora/tribunales/supremo-confirma-condena-pp-juez-salvador-alba-trato-evitar-caso-faycan_1_6509244.html) y [referencia de 2025](https://www.eldiario.es/canariasahora/tribunales/exjuez-alba-trato-librar-condena-pp-defendia-nuevo-companero-despacho_1_12423235.html).
-
-La información de julio de 2026 sobre la pretendida reincorporación de José Luis Mena al Ayuntamiento se refiere a condenas en Alisios y Grupo Europa y recuerda su absolución en Faycán. Esas condenas no modifican su absolución en esta causa principal. No se ha comprobado aquí el estado completo de las piezas separadas. [Información de 2026](https://www.eldiario.es/canariasahora/carlossosa/congelada-indefinidamente-reincorporacion-jose-luis-mena-ayuntamiento-telde_1_13352419.html).

@@ -10,25 +10,26 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absoluciones en apelación y casación; condenas penales iniciales revocadas
-descripcion: >-
-  Esta pieza de la operación Patos examinó la contratación y financiación de obras en el campo de fútbol O
-  Buelo de Moraña, realizadas por Construcciones Eiriña. El Juzgado de lo Penal n.º 3 de Pontevedra condenó en
-  2021 a ocho acusados por prevaricación y/o fraude. Ese resultado fue modificado por la Audiencia Provincial
-  en 2022: absolvió a cuatro acusados, entre ellos Luisa Piñeiro, y absolvió de fraude a los otros cuatro,
-  manteniendo para estos siete años de inhabilitación por prevaricación.
+descripcion: |-
+  Esta pieza de la operación Patos examinó la contratación y financiación de obras en el campo de fútbol O Buelo de Moraña, realizadas por Construcciones Eiriña. El Juzgado de lo Penal n.º 3 de Pontevedra condenó en 2021 a ocho acusados por prevaricación y/o fraude. Ese resultado fue modificado por la Audiencia Provincial en 2022: absolvió a cuatro acusados, entre ellos Luisa Piñeiro, y absolvió de fraude a los otros cuatro, manteniendo para estos siete años de inhabilitación por prevaricación.
 
+  El 6 de febrero de 2025, la STS 96/2025 absolvió también de prevaricación a Rafael Louzán, Manuel Ángel González Juanatey, Jaime Manuel Alvariñas Villanueva y Enrique Alonso País. El Supremo apreció irregularidades de contratación, pero consideró que no integraban el delito: las obras se habían realizado a precios de mercado y procedía pagarlas para evitar el enriquecimiento injusto de la Administración. El fallo indica que no cabe recurso.
 
-  El 6 de febrero de 2025, la STS 96/2025 absolvió también de prevaricación a Rafael Louzán, Manuel Ángel
-  González Juanatey, Jaime Manuel Alvariñas Villanueva y Enrique Alonso País. El Supremo apreció
-  irregularidades de contratación, pero consideró que no integraban el delito: las obras se habían realizado a
-  precios de mercado y procedía pagarlas para evitar el enriquecimiento injusto de la Administración. El fallo
-  indica que no cabe recurso.
+  Los 86.311,84 euros de la adjudicación no se presentan como daño público probado. La sentencia advierte que la absolución penal no excluye eventuales responsabilidades administrativas o contables, sin declarar que existan condenas de ese tipo. Al 17 de octubre de 2026, faltan el original del archivo de Begoña Estévez y la documentación de eventuales actuaciones posteriores ajenas al fallo penal.
 
+  La [sentencia oficial del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a118ce64dcc3541fa0a8778d75e36f0d&encode=true&optimize=20250213&databasematch=AN) permite reconstruir las instancias: sentencia 35/2021 del Penal 3 de Pontevedra, apelación 121/2022 de la Sección Segunda y casación 96/2025. Sus antecedentes reproducen los fallos anteriores; no se ha recuperado por separado cada original. La fecha del PDF exportado por CENDOJ es de 2026, pero **la resolución judicial es de 6 de febrero de 2025**.
 
-  Los 86.311,84 euros de la adjudicación no se presentan como daño público probado. La sentencia advierte que
-  la absolución penal no excluye eventuales responsabilidades administrativas o contables, sin declarar que
-  existan condenas de ese tipo. Al 17 de octubre de 2026, faltan el original del archivo de Begoña Estévez y
-  la documentación de eventuales actuaciones posteriores ajenas al fallo penal.
+  La [copia nominal del fallo publicada por La Voz de Galicia](https://www.lavozdegalicia.es/default/2025/02/06/00171738844224434148247/Fichero/supremo_casacion_louzan.pdf) identifica expresamente a los cuatro absueltos en casación y a las personas absueltas en 2022. No se deducen esas identidades de los seudónimos del documento anonimizado. La absolución de Piñeiro procede de la Audiencia, no del fallo del Supremo referido a los cuatro recurrentes. La [información contemporánea de mayo de 2022](https://www.canalriasbaixas.com/2022/05/09/a-audiencia-absolve-a-luisa-pineiro-e-so-manten-a-condena-por-prevaricacion-a-rafael-louzan-na-causa-do-campo-de-morana/) explica que su absolución estuvo relacionada con el plazo de instrucción.
+
+  El Supremo distingue irregularidad administrativa de prevaricación penal: no tuvo por acreditado un contenido materialmente injusto que permitiera mantener las condenas. Las obras existían, no se constató cobro por trabajos inexistentes o precios superiores a los de mercado y procedía abonar lo recibido. Ello no convierte en regular todo el expediente: la Sala deja abierta la posibilidad jurídica de responsabilidades administrativas o contables, sin resolver que hayan sido declaradas.
+
+  La adjudicación fue de 86.311,84 euros; la nueva subvención ascendió a 86.829,84 euros y la certificación adicional a 86.816,47 euros. Son conceptos distintos, no perjuicios que puedan sumarse. El decomiso que impuso la primera sentencia fue dejado sin efecto en apelación, según el fallo transcrito en la STS.
+
+  No consta una investigación vigente contra Begoña Estévez Fernández. [PontevedraViva informó el 21 de septiembre de 2019 del archivo respecto de ella](https://www.pontevedraviva.com/es/general/begona-estevez-exculpada-de-la-operacion-patos-en-la-que-siguen-investigados-louzan-y-luisa-pineiro_307732_102_amp.html); no se dispone del auto original. No se equipara sin comprobación ese nombre al de Begoña Estévez Bernárdez que aparece como diputada delegada en la copia nominal del Supremo. La divergencia y el alcance del archivo quedan pendientes de cotejo documental.
+
+  No están acreditados el inicio de Patos el 20 de septiembre de 2012 ni que esta fuera su única pieza activa. Los resultados de otros procedimientos de Patos no se trasladan a Moraña.
+
+  Al 17 de octubre de 2026, no consta una ejecutoria ni documentación de eventuales actuaciones contables o administrativas posteriores. El propio fallo de casación dice que no cabe recurso, sin que ello permita inventar la inexistencia de cualquier remedio extraordinario posterior. Está disponible el original de la STS 96/2025, de veinte páginas. La copia nominal publicada por La Voz permite identificar a las personas afectadas.
 resumen: 'Condenas iniciales revocadas: Piñeiro fue absuelta en 2022 y el Supremo absolvió a Louzán y a los otros
   tres recurrentes en 2025'
 lugar: Moraña, Pontevedra, Galicia
@@ -142,17 +143,3 @@ cronologia:
   type: sentencia
   relevancia: alta
 ---
-
-La [sentencia oficial del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a118ce64dcc3541fa0a8778d75e36f0d&encode=true&optimize=20250213&databasematch=AN) permite reconstruir las instancias: sentencia 35/2021 del Penal 3 de Pontevedra, apelación 121/2022 de la Sección Segunda y casación 96/2025. Sus antecedentes reproducen los fallos anteriores; no se ha recuperado por separado cada original. La fecha del PDF exportado por CENDOJ es de 2026, pero **la resolución judicial es de 6 de febrero de 2025**.
-
-La [copia nominal del fallo publicada por La Voz de Galicia](https://www.lavozdegalicia.es/default/2025/02/06/00171738844224434148247/Fichero/supremo_casacion_louzan.pdf) identifica expresamente a los cuatro absueltos en casación y a las personas absueltas en 2022. No se deducen esas identidades de los seudónimos del documento anonimizado. La absolución de Piñeiro procede de la Audiencia, no del fallo del Supremo referido a los cuatro recurrentes. La [información contemporánea de mayo de 2022](https://www.canalriasbaixas.com/2022/05/09/a-audiencia-absolve-a-luisa-pineiro-e-so-manten-a-condena-por-prevaricacion-a-rafael-louzan-na-causa-do-campo-de-morana/) explica que su absolución estuvo relacionada con el plazo de instrucción.
-
-El Supremo distingue irregularidad administrativa de prevaricación penal: no tuvo por acreditado un contenido materialmente injusto que permitiera mantener las condenas. Las obras existían, no se constató cobro por trabajos inexistentes o precios superiores a los de mercado y procedía abonar lo recibido. Ello no convierte en regular todo el expediente: la Sala deja abierta la posibilidad jurídica de responsabilidades administrativas o contables, sin resolver que hayan sido declaradas.
-
-La adjudicación fue de 86.311,84 euros; la nueva subvención ascendió a 86.829,84 euros y la certificación adicional a 86.816,47 euros. Son conceptos distintos, no perjuicios que puedan sumarse. El decomiso que impuso la primera sentencia fue dejado sin efecto en apelación, según el fallo transcrito en la STS.
-
-No consta una investigación vigente contra Begoña Estévez Fernández. [PontevedraViva informó el 21 de septiembre de 2019 del archivo respecto de ella](https://www.pontevedraviva.com/es/general/begona-estevez-exculpada-de-la-operacion-patos-en-la-que-siguen-investigados-louzan-y-luisa-pineiro_307732_102_amp.html); no se dispone del auto original. No se equipara sin comprobación ese nombre al de Begoña Estévez Bernárdez que aparece como diputada delegada en la copia nominal del Supremo. La divergencia y el alcance del archivo quedan pendientes de cotejo documental.
-
-No están acreditados el inicio de Patos el 20 de septiembre de 2012 ni que esta fuera su única pieza activa. Los resultados de otros procedimientos de Patos no se trasladan a Moraña.
-
-Al 17 de octubre de 2026, no consta una ejecutoria ni documentación de eventuales actuaciones contables o administrativas posteriores. El propio fallo de casación dice que no cabe recurso, sin que ello permita inventar la inexistencia de cualquier remedio extraordinario posterior. Está disponible el original de la STS 96/2025, de veinte páginas. La copia nominal publicada por La Voz permite identificar a las personas afectadas.

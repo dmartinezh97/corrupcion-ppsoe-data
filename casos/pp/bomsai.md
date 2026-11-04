@@ -17,6 +17,18 @@ descripcion: |-
   Una pieza separada sobre pagos de Iturri a Joan Pol sí llegó a sentencia de conformidad en 2018, según la prensa de 2022 que afirma haberla consultado. Pol fue condenado por negociaciones prohibidas a funcionarios: ARA cifra la multa en 3.600 euros y La Vanguardia describe seis meses de multa y dos años de suspensión de cargos públicos de designación política. El directivo Eduardo José Díaz Hervás fue condenado por falsedad documental. La Vanguardia precisa seis meses de prisión sustituidos por doce meses de multa; ARA habla de seis meses de prisión y 3.600 euros de multa. Tampoco coinciden los pagos: 120.300 euros según ARA y 140.300 según La Vanguardia. Falta el fallo original para resolver esas diferencias y no se suman los importes ni se presentan como daño.
 
   Hasta el 17 de octubre de 2026 no se ha obtenido la sentencia íntegra ni constancia de recursos o firmeza individual. No se confirma el día exacto de la condena de 2018 ni el cierre global de todas las piezas; la ausencia de noticias nuevas no demuestra que subsista actividad penal. La investigación posterior sobre los Bombers de la Generalitat de Catalunya es otro procedimiento y sus resultados no se trasladan a Bomsai.
+
+  ### Archivo de la pieza principal
+
+  Las noticias de marzo de 2017 coinciden en que el juez atendió la petición de las acusaciones de cerrar la investigación sobre Atlas Capital. La contratación externa y el procedimiento empleado habían sido cuestionados, pero las acusaciones no apreciaron un perjuicio efectivo y consideraron que los servicios se prestaron. No se equipara una irregularidad administrativa a un delito probado. El texto íntegro del auto sigue siendo necesario para precisar modalidad de sobreseimiento, personas afectadas y firmeza.
+
+  ### La pieza de Iturri y Joan Pol
+
+  El archivo principal no impidió continuar la pieza de las facturas por asesoramiento. En septiembre de 2017 la prensa informó de que la Audiencia desestimó una apelación contra su continuación: aún se discutían indicios, no una condena. La información posterior de [ARA](https://es.ara.cat/sociedad/empresario-investigado-caso-bomberos-condenado-caso-similar_1_4272637.html) y [La Vanguardia](https://www.lavanguardia.com/politica/20220215/8058753/empresario-imputado-caso-bombers-condenado-pagar-funcionario-palma.html) sitúa en 2018 un fallo de conformidad por negociaciones prohibidas y falsedad documental. El acuerdo descartó el cohecho según estas crónicas.
+
+  La Vanguardia describe la pena privativa de libertad del directivo como sustituida por multa, dato relevante para no afirmar un ingreso penitenciario. Sus diferencias con ARA sobre la cuantía y la pena exigen comprobar el fallo original. Los pagos por asesoramiento, los honorarios de Atlas y las multas son conceptos separados: no se suman como pérdida pública. Tampoco se trasladan a esta causa los resultados del procedimiento catalán sobre mantenimiento de vehículos de bomberos.
+
+  Las fianzas impuestas en 2010 y canceladas según la noticia de 2011 eran medidas cautelares. Su retirada no equivale al archivo que se conoció años después. No se fija un estado actual individual por la sola ausencia de información posterior.
 resumen: 'Contratación investigada de Atlas Capital: archivo de la pieza principal conocido en 2017 y condenas
   por conformidad en una pieza de Iturri en 2018, con aspectos del fallo y firmeza pendientes de confirmar.'
 lugar: Palma de Mallorca, Islas Baleares
@@ -264,15 +276,3 @@ cronologia:
   - https://es.ara.cat/sociedad/empresario-investigado-caso-bomberos-condenado-caso-similar_1_4272637.html
   - https://www.lavanguardia.com/politica/20220215/8058753/empresario-imputado-caso-bombers-condenado-pagar-funcionario-palma.html
 ---
-
-## Archivo de la pieza principal
-
-Las noticias de marzo de 2017 coinciden en que el juez atendió la petición de las acusaciones de cerrar la investigación sobre Atlas Capital. La contratación externa y el procedimiento empleado habían sido cuestionados, pero las acusaciones no apreciaron un perjuicio efectivo y consideraron que los servicios se prestaron. No se equipara una irregularidad administrativa a un delito probado. El texto íntegro del auto sigue siendo necesario para precisar modalidad de sobreseimiento, personas afectadas y firmeza.
-
-## La pieza de Iturri y Joan Pol
-
-El archivo principal no impidió continuar la pieza de las facturas por asesoramiento. En septiembre de 2017 la prensa informó de que la Audiencia desestimó una apelación contra su continuación: aún se discutían indicios, no una condena. La información posterior de [ARA](https://es.ara.cat/sociedad/empresario-investigado-caso-bomberos-condenado-caso-similar_1_4272637.html) y [La Vanguardia](https://www.lavanguardia.com/politica/20220215/8058753/empresario-imputado-caso-bombers-condenado-pagar-funcionario-palma.html) sitúa en 2018 un fallo de conformidad por negociaciones prohibidas y falsedad documental. El acuerdo descartó el cohecho según estas crónicas.
-
-La Vanguardia describe la pena privativa de libertad del directivo como sustituida por multa, dato relevante para no afirmar un ingreso penitenciario. Sus diferencias con ARA sobre la cuantía y la pena exigen comprobar el fallo original. Los pagos por asesoramiento, los honorarios de Atlas y las multas son conceptos separados: no se suman como pérdida pública. Tampoco se trasladan a esta causa los resultados del procedimiento catalán sobre mantenimiento de vehículos de bomberos.
-
-Las fianzas impuestas en 2010 y canceladas según la noticia de 2011 eran medidas cautelares. Su retirada no equivale al archivo que se conoció años después. No se fija un estado actual individual por la sola ausencia de información posterior.

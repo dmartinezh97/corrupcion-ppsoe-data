@@ -8,12 +8,18 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas con casaciones desestimadas; ejecución pendiente de verificar
-descripcion: Procedimientos sobre el Ayuntamiento de Mallén y la Sociedad Urbanística Municipal de Mallén (SUMM).
-  Antonio Asín fue condenado a siete años de inhabilitación especial por dos órdenes de pago sin expediente; la
-  STS 815/2014 desestimó la casación. En otro procedimiento, Asín y Pedro Rueda fueron condenados a seis meses de
-  suspensión por falsedad del artículo 398, con casación desestimada por la STS 608/2018. Se distinguen las absoluciones
-  de la causa principal y no se presenta la venta a Agrovalle como delito probado. Faltan otros originales judiciales
-  y ejecución individual actualizada al corte de 17 de octubre de 2026.
+descripcion: |-
+  Procedimientos sobre el Ayuntamiento de Mallén y la Sociedad Urbanística Municipal de Mallén (SUMM). Antonio Asín fue condenado a siete años de inhabilitación especial por dos órdenes de pago sin expediente; la STS 815/2014 desestimó la casación. En otro procedimiento, Asín y Pedro Rueda fueron condenados a seis meses de suspensión por falsedad del artículo 398, con casación desestimada por la STS 608/2018. Se distinguen las absoluciones de la causa principal y no se presenta la venta a Agrovalle como delito probado. Faltan otros originales judiciales y ejecución individual actualizada al corte de 17 de octubre de 2026.
+
+  La [información de la sentencia de 2014](https://www.aragondigital.es/articulo/sociedad/alcalde-mallen-condenado-anos-inhabilitacion-prevaricacion/20140210113700524648.amp.html) distingue la condena por dos órdenes de pago de las absoluciones relativas a las demás acusaciones. La venta de parcelas a Agrovalle por precio simbólico fue examinada y no dio lugar a la condena por prevaricación que se solicitaba por esa operación. Las imputaciones iniciales por fraude, cohecho o falsedad no se presentan como delitos cometidos por todos los acusados.
+
+  La [STS 815/2014 reproducida](https://vlex.es/vid/554512998) identifica la sentencia de instancia de 10 de febrero de 2014 y desestima los recursos. Los 13.920 y 21.634 euros de las dos facturas suman 35.554 euros de pagos municipales: no se transforman en indemnización ni se añaden al precio o tasación de terrenos. Los 811.512 euros no están acreditados como daño judicialmente declarado. Tampoco una fianza o una petición de pena equivale a una condena.
+
+  El [procedimiento de certificaciones](https://www.heraldo.es/noticias/aragon/zaragoza/2017/09/28/el-exalcalde-mallen-antonio-asin-condenado-seis-meses-suspension-1199059-2261126.html) es distinto. La [STS 608/2018](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1a8b1a55f58c1720&encode=true&databasematch=AN), ECLI:ES:TS:2018:4031, reproduce la condena del artículo 398 y la absolución del delito continuado del artículo 390. No hubo condena por falsear de manera continuada todas las cuentas: el examen de los ejercicios incluyó prescripción, ausencia de falsedad y falta de trascendencia, según los supuestos. La casación fue desestimada el 29 de noviembre de 2018, no en la fecha de publicación periodística de diciembre.
+
+  Los nombres proceden de fuentes periodísticas nominales; no se reconstruyen identidades a partir de los pseudónimos de las reproducciones judiciales. No constan fechas exactas de inicio y cierre ni documentación de la ejecución. La noticia electoral de 2023 no prueba por sí sola el cumplimiento de cada pena.
+
+  Se ha recuperado la STS 608/2018 original del CENDOJ, de 14 páginas. El fallo desestima la casación y advierte que no cabe recurso, sin acreditar el cumplimiento individual de las suspensiones. Siguen pendientes los originales de instancia y de la casación de 2014 y las ejecutorias hasta el 17 de octubre de 2026. El PDF de 2014 localizado es una transcripción editorial; su cabecera, fallo y pasajes de facturas y penas se han contrastado parcialmente. El enlace al PDF de instancia dio 404.
 resumen: Condena por pagos sin expediente y otra por certificación falsa de cuentas de la SUMM, con absoluciones
   diferenciadas.
 lugar: Mallén, Zaragoza, Aragón
@@ -112,13 +118,3 @@ cronologia:
   urls:
   - https://www.hoyaragon.es/articulo/noticias-aragon/candidato-psoe-mallen-condenado-corrupcion/20230222113845039295.html
 ---
-
-La [información de la sentencia de 2014](https://www.aragondigital.es/articulo/sociedad/alcalde-mallen-condenado-anos-inhabilitacion-prevaricacion/20140210113700524648.amp.html) distingue la condena por dos órdenes de pago de las absoluciones relativas a las demás acusaciones. La venta de parcelas a Agrovalle por precio simbólico fue examinada y no dio lugar a la condena por prevaricación que se solicitaba por esa operación. Las imputaciones iniciales por fraude, cohecho o falsedad no se presentan como delitos cometidos por todos los acusados.
-
-La [STS 815/2014 reproducida](https://vlex.es/vid/554512998) identifica la sentencia de instancia de 10 de febrero de 2014 y desestima los recursos. Los 13.920 y 21.634 euros de las dos facturas suman 35.554 euros de pagos municipales: no se transforman en indemnización ni se añaden al precio o tasación de terrenos. Los 811.512 euros no están acreditados como daño judicialmente declarado. Tampoco una fianza o una petición de pena equivale a una condena.
-
-El [procedimiento de certificaciones](https://www.heraldo.es/noticias/aragon/zaragoza/2017/09/28/el-exalcalde-mallen-antonio-asin-condenado-seis-meses-suspension-1199059-2261126.html) es distinto. La [STS 608/2018](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1a8b1a55f58c1720&encode=true&databasematch=AN), ECLI:ES:TS:2018:4031, reproduce la condena del artículo 398 y la absolución del delito continuado del artículo 390. No hubo condena por falsear de manera continuada todas las cuentas: el examen de los ejercicios incluyó prescripción, ausencia de falsedad y falta de trascendencia, según los supuestos. La casación fue desestimada el 29 de noviembre de 2018, no en la fecha de publicación periodística de diciembre.
-
-Los nombres proceden de fuentes periodísticas nominales; no se reconstruyen identidades a partir de los pseudónimos de las reproducciones judiciales. No constan fechas exactas de inicio y cierre ni documentación de la ejecución. La noticia electoral de 2023 no prueba por sí sola el cumplimiento de cada pena.
-
-Se ha recuperado la STS 608/2018 original del CENDOJ, de 14 páginas. El fallo desestima la casación y advierte que no cabe recurso, sin acreditar el cumplimiento individual de las suspensiones. Siguen pendientes los originales de instancia y de la casación de 2014 y las ejecutorias hasta el 17 de octubre de 2026. El PDF de 2014 localizado es una transcripción editorial; su cabecera, fallo y pasajes de facturas y penas se han contrastado parcialmente. El enlace al PDF de instancia dio 404.

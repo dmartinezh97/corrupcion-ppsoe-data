@@ -8,33 +8,20 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Archivos por causas; alcance y firmeza pendientes de verificar
-descripcion: 'Esta ficha reúne procedimientos distintos relacionados con Gabriel Amat Ayllón, alcalde de Roquetas
-  de Mar y expresidente de la Diputación de Almería: Hispano Almería (Halsa), Palmeras y La Fabriquilla, además
-  de referencias al conjunto de investigaciones sobre sociedades de su entorno. No forman una única causa ni comparten
-  automáticamente resultados. La solicitud de que declare como testigo en el caso Mascarillas, conocida en junio
-  de 2026, tampoco equivale a su imputación o a una citación judicial acordada.
+descripcion: |-
+  Esta ficha reúne procedimientos distintos relacionados con Gabriel Amat Ayllón, alcalde de Roquetas de Mar y expresidente de la Diputación de Almería: Hispano Almería (Halsa), Palmeras y La Fabriquilla, además de referencias al conjunto de investigaciones sobre sociedades de su entorno. No forman una única causa ni comparten automáticamente resultados. La solicitud de que declare como testigo en el caso Mascarillas, conocida en junio de 2026, tampoco equivale a su imputación o a una citación judicial acordada.
 
+  En La Fabriquilla, la prensa identifica un sobreseimiento de 13 de mayo de 2015 y su confirmación por la Audiencia Provincial mediante auto de 29 de enero de 2016. La anulación urbanística de la licencia para diez viviendas no se tradujo en responsabilidad penal: no se acreditó indiciariamente que actuaran con conocimiento de la ilegalidad. En Hispano Almería se documenta el sobreseimiento provisional de la pieza sobre contratación de Roquetas por auto de 15 de enero de 2026. Europa Press informó el 25 de marzo de que el mismo juzgado había desestimado el recurso de reforma del PSOE; no se acredita el día exacto de esa resolución, una eventual apelación ni la firmeza.
 
-  En La Fabriquilla, la prensa identifica un sobreseimiento de 13 de mayo de 2015 y su confirmación por la Audiencia
-  Provincial mediante auto de 29 de enero de 2016. La anulación urbanística de la licencia para diez viviendas no
-  se tradujo en responsabilidad penal: no se acreditó indiciariamente que actuaran con conocimiento de la ilegalidad.
-  En Hispano Almería se documenta el sobreseimiento provisional de la pieza sobre contratación de Roquetas por auto
-  de 15 de enero de 2026. Europa Press informó el 25 de marzo de que el mismo juzgado había desestimado el recurso
-  de reforma del PSOE; no se acredita el día exacto de esa resolución, una eventual apelación ni la firmeza.
+  En Palmeras, Amat declaró como investigado el 24 de octubre de 2019 según la información de 2020. En el pleno de 27 de marzo de 2026, el portavoz municipal afirmó que también estaba archivada esa investigación, declaración recogida por Europa Press y por el acta oficial. Faltan el auto correspondiente, su fecha, alcance nominal y recursos; no se presenta la afirmación del portavoz como resolución judicial íntegramente contrastada ni se sigue describiendo la causa como abierta sin reservas. José Zapata y Demetrio Navarro fueron señalados en la investigación, pero no se conoce documentalmente su desenlace individual.
 
+  Faltan los originales judiciales y una relación exhaustiva de las piezas y su evolución hasta el 15 de octubre de 2026. Los 7,2 millones atribuidos a pagos sospechosos en las primeras pesquisas de Halsa no son daño judicialmente declarado; tampoco lo son los importes de contratos de jardinería. No se suman estas cantidades ni las de las fichas independientes de Halsa y La Fabriquilla.
 
-  En Palmeras, Amat declaró como investigado el 24 de octubre de 2019 según la información de 2020. En el pleno
-  de 27 de marzo de 2026, el portavoz municipal afirmó que también estaba archivada esa investigación, declaración
-  recogida por Europa Press y por el acta oficial. Faltan el auto correspondiente, su fecha, alcance nominal y recursos;
-  no se presenta la afirmación del portavoz como resolución judicial íntegramente contrastada ni se sigue describiendo
-  la causa como abierta sin reservas. José Zapata y Demetrio Navarro fueron señalados en la investigación, pero
-  no se conoce documentalmente su desenlace individual.
+  El nombre «caso Amat» agrupa aquí controversias de distinto objeto y órgano judicial. El [archivo de La Fabriquilla](https://www.lavozdealmeria.com/provincia/81772/audiencia-provincial-archiva-definitivamente-caso-fabriquilla.html) se refiere a la licencia para diez viviendas y a la falta de acreditación del conocimiento de su ilegalidad; no resuelve Hispano Almería ni Palmeras. Las piezas sobre sociedades familiares tampoco pueden darse por cerradas colectivamente sin comprobar cada auto.
 
+  En Halsa, la [resolución de enero conocida por la prensa](https://www.eldiario.es/andalucia/almeria/tribunales-archivan-pieza-principal-caso-hispano-almeria-no-apreciar-irregularidades-contratos_1_12918883.html) y la [desestimación de reforma comunicada en marzo](https://www.europapress.es/andalucia/almeria-00350/noticia-juzgado-confirma-archivo-causa-grupo-hispano-almeria-desestimar-recurso-psoe-20260325144404.html) mantienen el carácter provisional del sobreseimiento. El cambio de valoración policial y fiscal es relevante para no reproducir los pagos sospechosos como comisiones probadas o daño consolidado. Este ámbito también figura en la ficha independiente de Halsa, sin duplicar importes.
 
-  Faltan los originales judiciales y una relación exhaustiva de las piezas y su evolución hasta el 15 de octubre
-  de 2026. Los 7,2 millones atribuidos a pagos sospechosos en las primeras pesquisas de Halsa no son daño judicialmente
-  declarado; tampoco lo son los importes de contratos de jardinería. No se suman estas cantidades ni las de las
-  fichas independientes de Halsa y La Fabriquilla.'
+  La [información de 2020 sobre Palmeras](https://www.eldiario.es/andalucia/almeria/caso-palmeras-investigacion-judicial-persigue-gabriel-amat_1_6314066.html) describía una investigación todavía en curso. El [acta del pleno de 27 de marzo de 2026](https://www.roquetasdemar.es/sites/default/files/2026-04/PL%20260327.pdf), página 35, recoge después el anuncio del portavoz sobre su archivo y el rechazo de un recurso en el asunto Hispano. Es fuente oficial del debate, no copia de los autos: no permite identificar por sí sola el desenlace individual de Zapata o Navarro ni la firmeza de todas las piezas. La [solicitud de testifical de junio](https://www.ultimahora.es/noticias/comunidades/2026/06/14/2650161/psoe-solicita-declaracion-gabriel-amat-investigue-toda-estructura-politica-diputacion-almeria.html) pertenece a Mascarillas y no convierte a Amat en investigado.
 resumen: Procedimientos distintos vinculados a Amat, con archivos documentados y límites pendientes sobre alcance
   individual y recursos.
 lugar: Roquetas de Mar, Almería, Andalucía
@@ -137,9 +124,3 @@ cronologia:
   type: investigacion
   relevancia: media
 ---
-
-El nombre «caso Amat» agrupa aquí controversias de distinto objeto y órgano judicial. El [archivo de La Fabriquilla](https://www.lavozdealmeria.com/provincia/81772/audiencia-provincial-archiva-definitivamente-caso-fabriquilla.html) se refiere a la licencia para diez viviendas y a la falta de acreditación del conocimiento de su ilegalidad; no resuelve Hispano Almería ni Palmeras. Las piezas sobre sociedades familiares tampoco pueden darse por cerradas colectivamente sin comprobar cada auto.
-
-En Halsa, la [resolución de enero conocida por la prensa](https://www.eldiario.es/andalucia/almeria/tribunales-archivan-pieza-principal-caso-hispano-almeria-no-apreciar-irregularidades-contratos_1_12918883.html) y la [desestimación de reforma comunicada en marzo](https://www.europapress.es/andalucia/almeria-00350/noticia-juzgado-confirma-archivo-causa-grupo-hispano-almeria-desestimar-recurso-psoe-20260325144404.html) mantienen el carácter provisional del sobreseimiento. El cambio de valoración policial y fiscal es relevante para no reproducir los pagos sospechosos como comisiones probadas o daño consolidado. Este ámbito también figura en la ficha independiente de Halsa, sin duplicar importes.
-
-La [información de 2020 sobre Palmeras](https://www.eldiario.es/andalucia/almeria/caso-palmeras-investigacion-judicial-persigue-gabriel-amat_1_6314066.html) describía una investigación todavía en curso. El [acta del pleno de 27 de marzo de 2026](https://www.roquetasdemar.es/sites/default/files/2026-04/PL%20260327.pdf), página 35, recoge después el anuncio del portavoz sobre su archivo y el rechazo de un recurso en el asunto Hispano. Es fuente oficial del debate, no copia de los autos: no permite identificar por sí sola el desenlace individual de Zapata o Navarro ni la firmeza de todas las piezas. La [solicitud de testifical de junio](https://www.ultimahora.es/noticias/comunidades/2026/06/14/2650161/psoe-solicita-declaracion-gabriel-amat-investigue-toda-estructura-politica-diputacion-almeria.html) pertenece a Mascarillas y no convierte a Amat en investigado.

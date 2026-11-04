@@ -9,13 +9,22 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: sobreseimiento provisional confirmado en apelación
-descripcion: La causa investigó posibles delitos de cohecho y blanqueo relacionados con el alquiler desde 2008 y la
-  compra en 2012 de una vivienda en Estepona por Ignacio González y Lourdes Cavero a Coast Investors. También
-  fue investigado Enrique Cerezo. El Juzgado de Primera Instancia e Instrucción nº 5 de Estepona acordó el
-  sobreseimiento provisional el 13 de julio de 2020 por falta de indicios. Según la información de noviembre
-  de 2020 contrastada, la Audiencia Provincial de Málaga confirmó ese archivo. No es una sentencia
-  absolutoria. Quedan pendientes el original del auto de apelación, la comprobación independiente de su
-  firmeza y posibles novedades posteriores hasta el fecha del 17 de octubre de 2026.
+descripcion: |-
+  La causa investigó posibles delitos de cohecho y blanqueo relacionados con el alquiler desde 2008 y la compra en 2012 de una vivienda en Estepona por Ignacio González y Lourdes Cavero a Coast Investors. También fue investigado Enrique Cerezo. El Juzgado de Primera Instancia e Instrucción nº 5 de Estepona acordó el sobreseimiento provisional el 13 de julio de 2020 por falta de indicios. Según la información de noviembre de 2020 contrastada, la Audiencia Provincial de Málaga confirmó ese archivo. No es una sentencia absolutoria. Quedan pendientes el original del auto de apelación, la comprobación independiente de su firmeza y posibles novedades posteriores hasta el fecha del 17 de octubre de 2026.
+
+  ### Hechos investigados y resultado
+
+  El auto de 13 de julio de 2020 describe el alquiler de la vivienda desde 2008 y su venta por Coast Investors al matrimonio en 2012 por 770.000 euros. Este importe es el precio de adquisición, no un perjuicio público probado, y no se registra como coste del caso.
+
+  La hipótesis de cohecho vinculaba la vivienda con posibles contraprestaciones de Enrique Cerezo por decisiones públicas. El juzgado no encontró indicios de conexión entre los fondos de Cerezo y Coast Investors ni entre la adquisición y favores públicos. Tampoco apreció indicios de delito previo o procedencia ilícita de los fondos empleados por el matrimonio en 2012. La falta de acreditación del origen de los fondos de Coast Investors en 2008 no equivalía, según el auto, a acreditar su ilicitud.
+
+  El juzgado consideró agotada la instrucción y acordó el **sobreseimiento provisional**, no el libre solicitado por las defensas. La copia del auto contiene expresamente las vías de recurso. La prensa del 13 de noviembre informa de la confirmación por la Audiencia Provincial; los titulares que hablan de archivo «definitivo» no se utilizan para transformar el sobreseimiento provisional en libre ni para afirmar su firmeza.
+
+  ### Información pendiente de acreditar
+
+  El auto original de julio consta de cuatro páginas y está alojado en un medio de comunicación. La fecha judicial es el 13 de julio; el 14 de julio corresponde a su difusión y modificación del archivo. El original del auto de apelación de noviembre sigue pendiente, al igual que una comprobación documental independiente de firmeza y de eventuales novedades posteriores hasta el 17 de octubre de 2026. La ausencia de noticias no descarta actuaciones posteriores.
+
+  Esta ficha se limita al procedimiento del ático de Estepona. No incorpora como resultado propio detenciones, penas o resoluciones de la operación Lezo ni de otras causas de González.
 resumen: Investigación sobre el ático de Ignacio González en Estepona, sobreseída provisionalmente en julio de 2020;
   archivo confirmado en apelación según la prensa de noviembre de 2020.
 lugar: Estepona, Málaga
@@ -76,17 +85,3 @@ cronologia:
   - https://confilegal.com/20201113-la-audiencia-de-malaga-confirma-el-archivo-del-caso-del-atico-de-ignacio-gonzalez/amp/
   - https://cadenaser.com/emisora/2020/11/13/ser_malaga/1605267389_852691.html
 ---
-
-## Hechos investigados y resultado
-
-El auto de 13 de julio de 2020 describe el alquiler de la vivienda desde 2008 y su venta por Coast Investors al matrimonio en 2012 por 770.000 euros. Este importe es el precio de adquisición, no un perjuicio público probado, y no se registra como coste del caso.
-
-La hipótesis de cohecho vinculaba la vivienda con posibles contraprestaciones de Enrique Cerezo por decisiones públicas. El juzgado no encontró indicios de conexión entre los fondos de Cerezo y Coast Investors ni entre la adquisición y favores públicos. Tampoco apreció indicios de delito previo o procedencia ilícita de los fondos empleados por el matrimonio en 2012. La falta de acreditación del origen de los fondos de Coast Investors en 2008 no equivalía, según el auto, a acreditar su ilicitud.
-
-El juzgado consideró agotada la instrucción y acordó el **sobreseimiento provisional**, no el libre solicitado por las defensas. La copia del auto contiene expresamente las vías de recurso. La prensa del 13 de noviembre informa de la confirmación por la Audiencia Provincial; los titulares que hablan de archivo «definitivo» no se utilizan para transformar el sobreseimiento provisional en libre ni para afirmar su firmeza.
-
-## Información pendiente de acreditar
-
-El auto original de julio consta de cuatro páginas y está alojado en un medio de comunicación. La fecha judicial es el 13 de julio; el 14 de julio corresponde a su difusión y modificación del archivo. El original del auto de apelación de noviembre sigue pendiente, al igual que una comprobación documental independiente de firmeza y de eventuales novedades posteriores hasta el 17 de octubre de 2026. La ausencia de noticias no descarta actuaciones posteriores.
-
-Esta ficha se limita al procedimiento del ático de Estepona. No incorpora como resultado propio detenciones, penas o resoluciones de la operación Lezo ni de otras causas de González.

@@ -8,27 +8,22 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "desconocido"
-descripcion: >-
-  Procedimiento por la gestión de una clínica privada en dependencias municipales de Gran Alacant, en Santa
-  Pola (Alicante). La sentencia 192/2025 de la Audiencia Provincial de Alicante, de 13 de mayo, consideró
-  probado que el entonces alcalde del PP Miguel Zaragoza y el concejal de Personal Jorge Perelló toleraron
-  incumplimientos de la concesionaria a cambio de contratar a personas de su entorno. El contrato de concesión
-  se firmó el 13 de marzo de 2006; preveía un canon anual de 10.920 euros y diversas prestaciones, entre ellas
-  el seguimiento de bajas del personal municipal.
+descripcion: |-
+  Procedimiento por la gestión de una clínica privada en dependencias municipales de Gran Alacant, en Santa Pola (Alicante). La sentencia 192/2025 de la Audiencia Provincial de Alicante, de 13 de mayo, consideró probado que el entonces alcalde del PP Miguel Zaragoza y el concejal de Personal Jorge Perelló toleraron incumplimientos de la concesionaria a cambio de contratar a personas de su entorno. El contrato de concesión se firmó el 13 de marzo de 2006; preveía un canon anual de 10.920 euros y diversas prestaciones, entre ellas el seguimiento de bajas del personal municipal.
 
+  La Audiencia condenó a Zaragoza, Perelló y los médicos Fernando Gómez Soler y Manuel Rodríguez Bernal a seis años y medio de prisión para cada uno por prevaricación en concurso con fraude y por cohecho. Pilar Zaragoza recibió dos años y tres meses como cómplice de cohecho. Loreto Cascales, Francisco Martín y Antonio Jesús Martínez fueron absueltos. La indemnización de 109.371,96 euros corresponde solidariamente a los cuatro primeros condenados, no a Pilar; de ella ya se habían abonado 13.022,96 euros.
 
-  La Audiencia condenó a Zaragoza, Perelló y los médicos Fernando Gómez Soler y Manuel Rodríguez Bernal a seis
-  años y medio de prisión para cada uno por prevaricación en concurso con fraude y por cohecho. Pilar Zaragoza
-  recibió dos años y tres meses como cómplice de cohecho. Loreto Cascales, Francisco Martín y Antonio Jesús
-  Martínez fueron absueltos. La indemnización de 109.371,96 euros corresponde solidariamente a los cuatro
-  primeros condenados, no a Pilar; de ella ya se habían abonado 13.022,96 euros.
+  El 21 de mayo de 2025 se informó de una aclaración de la Audiencia que habilitaba la apelación ante el Tribunal Superior de Justicia valenciano, corrigiendo la indicación inicial de casación directa. No se ha verificado la resolución de una eventual apelación, la firmeza individual de los pronunciamientos ni nuevas decisiones de este procedimiento en 2026. El estado actual queda, por tanto, sin determinar: la condena de primera instancia no se presenta como firme ni como cierre definitivo.
 
+  La actividad médica privada en el edificio municipal precedía a la concesión: la sentencia de primera instancia sitúa el trabajo de Fernando Gómez en ese inmueble desde 1989 y su colaboración con Manuel Rodríguez desde 2004. El procedimiento de concesión comenzó el 20 de abril de 2005 y culminó con el contrato de marzo de 2006. No se ha verificado una fecha exacta de inicio de todas las conductas cuestionadas.
 
-  El 21 de mayo de 2025 se informó de una aclaración de la Audiencia que habilitaba la apelación ante el
-  Tribunal Superior de Justicia valenciano, corrigiendo la indicación inicial de casación directa. No se ha
-  verificado la resolución de una eventual apelación, la firmeza individual de los pronunciamientos ni nuevas
-  decisiones de este procedimiento en 2026. El estado actual queda, por tanto, sin determinar: la condena de
-  primera instancia no se presenta como firme ni como cierre definitivo.
+  El contrato no consistía simplemente en regalar un local. Preveía el pago de un canon y servicios a favor del Ayuntamiento, cuya compensación exigía acreditar las prestaciones y practicar las liquidaciones. La Audiencia consideró que los responsables políticos y los médicos toleraron conscientemente los incumplimientos y que la contratación de auxiliares elegidos por el entorno municipal constituía la contrapartida. En 2012 se redujeron verbalmente la superficie utilizada y el canon, a 6.176 euros, sin la tramitación exigible. Estas conclusiones pertenecen a la sentencia de primera instancia y no se presentan como un pronunciamiento firme confirmado en recurso.
+
+  La responsabilidad de cada persona es distinta. Los médicos fueron considerados cooperadores necesarios en la prevaricación en concurso con fraude y autores de cohecho; Pilar Zaragoza, cómplice de este último delito. Para Cascales y los dos trabajadores absueltos no se acreditó el conocimiento del pacto ilícito. Ni su contratación ni su vinculación política equivalen por sí solas a una condena.
+
+  El fallo fija **109.371,96 euros de responsabilidad civil**, con **13.022,96 euros ya pagados** al dictarse sentencia. Obliga conjunta y solidariamente a Zaragoza, Perelló y los dos médicos, con responsabilidad subsidiaria de la sociedad por estos últimos. Esa cantidad se distingue de las multas penales, las costas y los intereses. Existe una discrepancia aritmética en el desglose del hecho probado decimoquinto: sus dos partidas no suman el total allí expresado. Se conserva la cifra del fallo sin reconstruir un supuesto coste agregado ni atribuir toda la indemnización a suministros impagados.
+
+  Cada uno de los cuatro condenados a seis años y medio recibió además una multa de un año y seis meses a doce euros diarios, junto con las inhabilitaciones especificadas en el fallo. Pilar recibió nueve meses de multa con esa cuota y seis años de inhabilitación para cargos municipales; la sociedad, tres años de multa y cuatro de inhabilitación para las actividades públicas descritas. No se ha comprobado la ejecución de estas penas. La noticia de mayo de 2025 sobre la aclaración de la vía de recurso impide mantener sin matices la indicación inicial de casación directa. Quedan por localizar el auto íntegro de aclaración y las actuaciones posteriores, sin inferir firmeza o continuidad por ausencia de noticias hasta el 15 de octubre de 2026.
 resumen: "Condenas de primera instancia por la gestión de la clínica Gran Alacant y absolución de tres acusados; firmeza posterior no verificada"
 lugar: "Santa Pola, Alicante, Comunidad Valenciana"
 tribunal:
@@ -121,13 +116,3 @@ cronologia:
     urls:
       - "https://alicanteplaza.es/alicanteplaza/elcheplaza/la-audiencia-de-alicante-rectifica-y-permite-la-apelacion-del-caso-clinica-gran-alacant-ante-el-tsj"
 ---
-
-La actividad médica privada en el edificio municipal precedía a la concesión: la sentencia de primera instancia sitúa el trabajo de Fernando Gómez en ese inmueble desde 1989 y su colaboración con Manuel Rodríguez desde 2004. El procedimiento de concesión comenzó el 20 de abril de 2005 y culminó con el contrato de marzo de 2006. No se ha verificado una fecha exacta de inicio de todas las conductas cuestionadas.
-
-El contrato no consistía simplemente en regalar un local. Preveía el pago de un canon y servicios a favor del Ayuntamiento, cuya compensación exigía acreditar las prestaciones y practicar las liquidaciones. La Audiencia consideró que los responsables políticos y los médicos toleraron conscientemente los incumplimientos y que la contratación de auxiliares elegidos por el entorno municipal constituía la contrapartida. En 2012 se redujeron verbalmente la superficie utilizada y el canon, a 6.176 euros, sin la tramitación exigible. Estas conclusiones pertenecen a la sentencia de primera instancia y no se presentan como un pronunciamiento firme confirmado en recurso.
-
-La responsabilidad de cada persona es distinta. Los médicos fueron considerados cooperadores necesarios en la prevaricación en concurso con fraude y autores de cohecho; Pilar Zaragoza, cómplice de este último delito. Para Cascales y los dos trabajadores absueltos no se acreditó el conocimiento del pacto ilícito. Ni su contratación ni su vinculación política equivalen por sí solas a una condena.
-
-El fallo fija **109.371,96 euros de responsabilidad civil**, con **13.022,96 euros ya pagados** al dictarse sentencia. Obliga conjunta y solidariamente a Zaragoza, Perelló y los dos médicos, con responsabilidad subsidiaria de la sociedad por estos últimos. Esa cantidad se distingue de las multas penales, las costas y los intereses. Existe una discrepancia aritmética en el desglose del hecho probado decimoquinto: sus dos partidas no suman el total allí expresado. Se conserva la cifra del fallo sin reconstruir un supuesto coste agregado ni atribuir toda la indemnización a suministros impagados.
-
-Cada uno de los cuatro condenados a seis años y medio recibió además una multa de un año y seis meses a doce euros diarios, junto con las inhabilitaciones especificadas en el fallo. Pilar recibió nueve meses de multa con esa cuota y seis años de inhabilitación para cargos municipales; la sociedad, tres años de multa y cuatro de inhabilitación para las actividades públicas descritas. No se ha comprobado la ejecución de estas penas. La noticia de mayo de 2025 sobre la aclaración de la vía de recurso impide mantener sin matices la indicación inicial de casación directa. Quedan por localizar el auto íntegro de aclaración y las actuaciones posteriores, sin inferir firmeza o continuidad por ausencia de noticias hasta el 15 de octubre de 2026.

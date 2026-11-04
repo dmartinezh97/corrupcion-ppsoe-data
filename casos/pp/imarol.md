@@ -7,27 +7,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Condenas confirmadas en apelación; firmeza expresamente citada en la sentencia de Erial de 2024"
-descripcion: >-
-  José Luis Olivas, expresidente de la Generalitat Valenciana y de Bancaja, y el empresario Vicente Cotino
-  fueron condenados por falsedad en documento mercantil y delito contra la Hacienda Pública en relación con
-  una factura de Imarol a Sedesa Inversiones por 500.000 euros más 80.000 euros de IVA. La factura aparentaba
-  retribuir servicios empresariales que no se habían prestado y se dedujo como gasto en el Impuesto de
-  Sociedades de 2008 del Grupo Fiscal Asedes Capital. El perjuicio tributario recogido por la información
-  judicial fue de 150.000 euros.
+descripcion: |-
+  José Luis Olivas, expresidente de la Generalitat Valenciana y de Bancaja, y el empresario Vicente Cotino fueron condenados por falsedad en documento mercantil y delito contra la Hacienda Pública en relación con una factura de Imarol a Sedesa Inversiones por 500.000 euros más 80.000 euros de IVA. La factura aparentaba retribuir servicios empresariales que no se habían prestado y se dedujo como gasto en el Impuesto de Sociedades de 2008 del Grupo Fiscal Asedes Capital. El perjuicio tributario recogido por la información judicial fue de 150.000 euros.
 
+  La sentencia 7/2017 del Juzgado de lo Penal nº 6 de Valencia es del 12 de enero de 2017; se notificó y difundió el día 13. Impuso a cada acusado un año y medio de prisión y una multa de 151.800 euros. Mercedes Álvarez, esposa de Olivas y socia de Imarol, fue absuelta al no acreditarse su participación en la factura irregular. La Audiencia Provincial confirmó las condenas el 24 de marzo de 2017. La sentencia de Erial de 2024 cita expresamente la condena de Imarol como firme, sin disponer de las resoluciones separadas de 2017 ni documentación de ejecución.
 
-  La sentencia 7/2017 del Juzgado de lo Penal nº 6 de Valencia es del 12 de enero de 2017; se notificó y
-  difundió el día 13. Impuso a cada acusado un año y medio de prisión y una multa de 151.800 euros. Mercedes
-  Álvarez, esposa de Olivas y socia de Imarol, fue absuelta al no acreditarse su participación en la factura
-  irregular. La Audiencia Provincial confirmó las condenas el 24 de marzo de 2017. La sentencia de Erial de
-  2024 cita expresamente la condena de Imarol como firme, sin disponer de las resoluciones separadas de 2017
-  ni documentación de ejecución.
+  Imarol y Erial son procesos distintos: en Erial, Olivas fue absuelto en 2024 al no acreditarse que ese pago fuera una comisión por favorecer la adjudicación de parques eólicos. Esa absolución no revoca la condena fiscal y documental previa. Al 17 de octubre de 2026, no están acreditadas la ejecución de las penas ni la recuperación efectiva del perjuicio.
 
+  La factura de **580.000 euros, IVA incluido**, y el perjuicio fiscal de **150.000 euros** son magnitudes distintas. El coste recoge únicamente este último importe, que la información sobre la sentencia identifica también como indemnización solidaria a la AEAT. No se multiplica por el número de condenados ni se suman las multas de 151.800 euros de cada uno. No se ha comprobado la cantidad efectivamente cobrada por Hacienda.
 
-  Imarol y Erial son procesos distintos: en Erial, Olivas fue absuelto en 2024 al no acreditarse que ese pago
-  fuera una comisión por favorecer la adjudicación de parques eólicos. Esa absolución no revoca la condena
-  fiscal y documental previa. Al 17 de octubre de 2026, no están acreditadas la ejecución de las penas ni la
-  recuperación efectiva del perjuicio.
+  La [sentencia oficial de Erial, ECLI:ES:APV:2024:1209](https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:APV:2024:1209) reproduce los antecedentes de Imarol y cita expresamente su firmeza (páginas 15–16 y 83). Su valoración del pago y la insuficiencia de prueba de cohecho aparecen en las páginas 83–86. La [nota nominal del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Valencia-condena-a-10-anos-y-5-meses-de-prision-al-expresidente-de-la-Generalitat-Eduardo-Zaplana-por-el--caso-Erial-) identifica a Olivas entre los absueltos de ese otro proceso. No se deducen identidades de los seudónimos del PDF. La absolución por cohecho en [Erial](/casos/pp/erial/) no elimina la condena fiscal anterior ni autoriza a sumar otra vez los mismos pagos como un daño adicional.
+
+  Las fuentes periodísticas de febrero de 2017 contienen una discrepancia: una versión de Europa Press hablaba de recurso ante el Supremo, mientras que el cuerpo actual de Valencia Plaza lo identifica como apelación ante la Audiencia. Los antecedentes judiciales de 2024 acreditan esta última vía y su resolución el 24 de marzo. No se incorpora una casación no comprobada.
+
+  La fecha de creación informática del PDF oficial es de marzo de 2026 y no altera la fecha del acto judicial, 15 de octubre de 2024. El documento publicado en CENDOJ tiene 181 páginas; su formato es distinto de la versión de 364 páginas mencionada por la nota de prensa y del extracto de 75 páginas difundido en otro alojamiento. Faltan las resoluciones separadas de 2017 y actuaciones de ejecución: no se afirma ingreso en prisión, suspensión, cumplimiento ni pago efectivo de multa o indemnización.
 resumen: "Condena de Olivas y Vicente Cotino por una factura falsa deducida como gasto fiscal"
 coste: 150000
 lugar: "Valencia, Comunidad Valenciana"
@@ -98,11 +91,3 @@ cronologia:
     urls:
       - "https://www.eldiario.es/comunitat-valenciana/muere-jose-luis-olivas-expresidente-generalitat-valenciana-73-anos_1_12807914.html"
 ---
-
-La factura de **580.000 euros, IVA incluido**, y el perjuicio fiscal de **150.000 euros** son magnitudes distintas. El coste recoge únicamente este último importe, que la información sobre la sentencia identifica también como indemnización solidaria a la AEAT. No se multiplica por el número de condenados ni se suman las multas de 151.800 euros de cada uno. No se ha comprobado la cantidad efectivamente cobrada por Hacienda.
-
-La [sentencia oficial de Erial, ECLI:ES:APV:2024:1209](https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:APV:2024:1209) reproduce los antecedentes de Imarol y cita expresamente su firmeza (páginas 15–16 y 83). Su valoración del pago y la insuficiencia de prueba de cohecho aparecen en las páginas 83–86. La [nota nominal del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Valencia-condena-a-10-anos-y-5-meses-de-prision-al-expresidente-de-la-Generalitat-Eduardo-Zaplana-por-el--caso-Erial-) identifica a Olivas entre los absueltos de ese otro proceso. No se deducen identidades de los seudónimos del PDF. La absolución por cohecho en [Erial](/casos/pp/erial/) no elimina la condena fiscal anterior ni autoriza a sumar otra vez los mismos pagos como un daño adicional.
-
-Las fuentes periodísticas de febrero de 2017 contienen una discrepancia: una versión de Europa Press hablaba de recurso ante el Supremo, mientras que el cuerpo actual de Valencia Plaza lo identifica como apelación ante la Audiencia. Los antecedentes judiciales de 2024 acreditan esta última vía y su resolución el 24 de marzo. No se incorpora una casación no comprobada.
-
-La fecha de creación informática del PDF oficial es de marzo de 2026 y no altera la fecha del acto judicial, 15 de octubre de 2024. El documento publicado en CENDOJ tiene 181 páginas; su formato es distinto de la versión de 364 páginas mencionada por la nota de prensa y del extracto de 75 páginas difundido en otro alojamiento. Faltan las resoluciones separadas de 2017 y actuaciones de ejecución: no se afirma ingreso en prisión, suspensión, cumplimiento ni pago efectivo de multa o indemnización.

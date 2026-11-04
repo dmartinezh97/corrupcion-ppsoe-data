@@ -8,26 +8,22 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas por falsedad y absoluciones en casación
-descripcion: >-
-  Procedimiento sobre facturas y pagos relacionados con las adjudicaciones del AVE Madrid-Sevilla, desglosado
-  de Filesa. La investigación examinó sospechas de comisiones y financiación irregular del PSOE, pero esas
-  acusaciones deben distinguirse de los concretos delitos por los que hubo condena. El procedimiento abreviado
-  3037/1994 fue instruido por el Juzgado de Instrucción número 39 de Madrid y juzgado por la Sección 17ª de su
-  Audiencia Provincial.
+descripcion: |-
+  Procedimiento sobre facturas y pagos relacionados con las adjudicaciones del AVE Madrid-Sevilla, desglosado de Filesa. La investigación examinó sospechas de comisiones y financiación irregular del PSOE, pero esas acusaciones deben distinguirse de los concretos delitos por los que hubo condena. El procedimiento abreviado 3037/1994 fue instruido por el Juzgado de Instrucción número 39 de Madrid y juzgado por la Sección 17ª de su Audiencia Provincial.
 
+  La sentencia de la Audiencia de 22 de junio de 2006 fue modificada por la STS 692/2008, de 4 de noviembre, difundida el día 13. El Supremo condenó a Aída Álvarez y Miguel Molledo a seis meses y un día de prisión menor y 1.200 euros de multa cada uno por falsedad continuada en documento mercantil. Absolvió por prescripción a los directivos de Siemens Francisco Francés y Mario Huete, inicialmente condenados, y mantuvo la absolución de Julián García Valverde. Subsistieron las condenas por falsedad de Florencio Ornia, Juan Carlos Mangana, Sotero Jiménez y Valentín Medel.
 
-  La sentencia de la Audiencia de 22 de junio de 2006 fue modificada por la STS 692/2008, de 4 de noviembre,
-  difundida el día 13. El Supremo condenó a Aída Álvarez y Miguel Molledo a seis meses y un día de prisión
-  menor y 1.200 euros de multa cada uno por falsedad continuada en documento mercantil. Absolvió por
-  prescripción a los directivos de Siemens Francisco Francés y Mario Huete, inicialmente condenados, y mantuvo
-  la absolución de Julián García Valverde. Subsistieron las condenas por falsedad de Florencio Ornia, Juan
-  Carlos Mangana, Sotero Jiménez y Valentín Medel.
+  El texto judicial recoge para las condenas de un año una multa de 1.800 euros, aunque varias crónicas publicaron 18.000. Se sigue el fallo reproducido en el PDF oficial. No se presenta el volumen de comisiones investigado como daño patrimonial probado. La ejecución individual, posibles incidencias posteriores y una diligencia específica de firmeza no han sido documentadas en las fuentes citadas.
 
+  La [STS 692/2008](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1dc5042a9c4cf92a&encode=true&databasematch=AN) permite separar las acusaciones de las conclusiones judiciales. En sus fundamentos quinto y sexto trata la legalidad de las adjudicaciones y la falta de soporte para imputar a los responsables de Renfe las conductas de cohecho que sostenía el recurso. El fallo conserva las absoluciones por ese delito. No se describe a los absueltos como condenados por un sistema de sobornos.
 
-  El texto judicial recoge para las condenas de un año una multa de 1.800 euros, aunque varias crónicas
-  publicaron 18.000. Se sigue el fallo reproducido en el PDF oficial. No se presenta el volumen de comisiones
-  investigado como daño patrimonial probado. La ejecución individual, posibles incidencias posteriores y una
-  diligencia específica de firmeza no han sido documentadas en las fuentes citadas.
+  La relación con **Filesa** es procesal y documental. El fundamento vigésimo cuarto explica por qué las facturas examinadas aquí eran hechos distintos de los ya enjuiciados: por ello revocó la apreciación de cosa juzgada respecto de Álvarez y Molledo. No se suman aquí las penas o cantidades de Filesa ni se trasladan los resultados de Ceres o del procedimiento separado del cheque de SEAT. Los nombres y cargos se han contrastado en las [crónicas nominales](https://www.europapress.es/nacional/noticia-ave-hoy-comienza-recta-final-juicio-peticion-definitiva-fiscalia-anticorrupcion-20060213084610.html) y en [RTVE](https://www.rtve.es/noticias/20081113/el-supremo-condena-a-seis-meses-de-prision-a-aida-alvarez-por-el-caso-ave/193715.shtml), sin deducir identidades de los pseudónimos de CENDOJ.
+
+  La página 23 del PDF reproduce una multa de **1.800 euros**, cifra reiterada en el fundamento vigésimo tercero, página 56. Varias noticias hablan de 18.000 euros; se prioriza el documento judicial. Para Álvarez y Molledo, la segunda sentencia fija **1.200 euros por persona**, con responsabilidad personal subsidiaria en caso de impago según el fallo. Las multas penales no son una valoración del daño público.
+
+  Los seis millones de euros procedían del volumen atribuido a comisiones investigadas, sin una liquidación judicial del perjuicio que permita considerarlos daño probado. Tampoco se calcula pérdida pública a partir del precio de las adjudicaciones o del porcentaje pactado con intermediarios.
+
+  Información disponible al 17 de octubre de 2026. La resolución original consta de sesenta páginas y reproduce el fallo de instancia y los dos fallos del Supremo. La fecha técnica del PDF, de octubre de 2026, no altera la fecha de la resolución, de 4 de noviembre de 2008. No se dispone de los expedientes individuales de ejecución ni de una certificación separada de firmeza.
 resumen: El Supremo condenó por falsedad a Aída Álvarez y Miguel Molledo, mantuvo cuatro condenas documentales y
   absolvió por prescripción a dos directivos de Siemens. García Valverde quedó absuelto. No se equiparan sospechas
   de financiación con condenas por cohecho.
@@ -119,13 +115,3 @@ cronologia:
   - https://www.europapress.es/nacional/noticia-ave-ts-condena-aida-alvarez-miguel-molledo-seis-meses-falsedad-absuelve-dos-directivos-siemens-20081113110518.html
   - https://www.rtve.es/noticias/20081113/el-supremo-condena-a-seis-meses-de-prision-a-aida-alvarez-por-el-caso-ave/193715.shtml
 ---
-
-La [STS 692/2008](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1dc5042a9c4cf92a&encode=true&databasematch=AN) permite separar las acusaciones de las conclusiones judiciales. En sus fundamentos quinto y sexto trata la legalidad de las adjudicaciones y la falta de soporte para imputar a los responsables de Renfe las conductas de cohecho que sostenía el recurso. El fallo conserva las absoluciones por ese delito. No se describe a los absueltos como condenados por un sistema de sobornos.
-
-La relación con **Filesa** es procesal y documental. El fundamento vigésimo cuarto explica por qué las facturas examinadas aquí eran hechos distintos de los ya enjuiciados: por ello revocó la apreciación de cosa juzgada respecto de Álvarez y Molledo. No se suman aquí las penas o cantidades de Filesa ni se trasladan los resultados de Ceres o del procedimiento separado del cheque de SEAT. Los nombres y cargos se han contrastado en las [crónicas nominales](https://www.europapress.es/nacional/noticia-ave-hoy-comienza-recta-final-juicio-peticion-definitiva-fiscalia-anticorrupcion-20060213084610.html) y en [RTVE](https://www.rtve.es/noticias/20081113/el-supremo-condena-a-seis-meses-de-prision-a-aida-alvarez-por-el-caso-ave/193715.shtml), sin deducir identidades de los pseudónimos de CENDOJ.
-
-La página 23 del PDF reproduce una multa de **1.800 euros**, cifra reiterada en el fundamento vigésimo tercero, página 56. Varias noticias hablan de 18.000 euros; se prioriza el documento judicial. Para Álvarez y Molledo, la segunda sentencia fija **1.200 euros por persona**, con responsabilidad personal subsidiaria en caso de impago según el fallo. Las multas penales no son una valoración del daño público.
-
-Los seis millones de euros procedían del volumen atribuido a comisiones investigadas, sin una liquidación judicial del perjuicio que permita considerarlos daño probado. Tampoco se calcula pérdida pública a partir del precio de las adjudicaciones o del porcentaje pactado con intermediarios.
-
-Información disponible al 17 de octubre de 2026. La resolución original consta de sesenta páginas y reproduce el fallo de instancia y los dos fallos del Supremo. La fecha técnica del PDF, de octubre de 2026, no altera la fecha de la resolución, de 4 de noviembre de 2008. No se dispone de los expedientes individuales de ejecución ni de una certificación separada de firmeza.

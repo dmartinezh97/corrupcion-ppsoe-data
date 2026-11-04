@@ -9,16 +9,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: resoluciones diversas
-descripcion: Esta ficha reúne las piezas 5 (contratación municipal), 6 (Cofely, eficiencia energética) y 7 (Waiter
-  Music, festejos) de Púnica, con resultados distintos por persona. En Cofely, la sentencia de 19 de diciembre de
-  2025 condenó a 29 de las 37 personas físicas y jurídicas juzgadas y absolvió, entre otros, a José Carlos Boza
-  y José García Lobato. La pena inicial de David Marjaliza fue rectificada en 2026 a cinco años y un mes según Europa
-  Press; falta el auto original. En Waiter Music, la sentencia de 1 de julio de 2026, difundida el día 2, condenó
-  a Francisco Granados a dos años y seis meses de prisión y absolvió a Esteban Parro y Daniel Ortiz, entre otros.
-  Granados había sido excluido de la propuesta de enjuiciamiento de la pieza 5 en 2023. Los 250 millones de euros
-  atribuidos globalmente a adjudicaciones no equivalen a daño público y no se computan como coste. No se han contrastado
-  todos los acusados, archivos y recursos de la pieza 5 ni la evolución y firmeza individual de las sentencias de
-  Cofely y Waiter hasta el 15 de octubre de 2026; ambas resoluciones indicaban que eran recurribles.
+descripcion: |-
+  Esta ficha reúne las piezas 5 (contratación municipal), 6 (Cofely, eficiencia energética) y 7 (Waiter Music, festejos) de Púnica, con resultados distintos por persona. En Cofely, la sentencia de 19 de diciembre de 2025 condenó a 29 de las 37 personas físicas y jurídicas juzgadas y absolvió, entre otros, a José Carlos Boza y José García Lobato. La pena inicial de David Marjaliza fue rectificada en 2026 a cinco años y un mes según Europa Press; falta el auto original. En Waiter Music, la sentencia de 1 de julio de 2026, difundida el día 2, condenó a Francisco Granados a dos años y seis meses de prisión y absolvió a Esteban Parro y Daniel Ortiz, entre otros. Granados había sido excluido de la propuesta de enjuiciamiento de la pieza 5 en 2023. Los 250 millones de euros atribuidos globalmente a adjudicaciones no equivalen a daño público y no se computan como coste. No se han contrastado todos los acusados, archivos y recursos de la pieza 5 ni la evolución y firmeza individual de las sentencias de Cofely y Waiter hasta el 15 de octubre de 2026; ambas resoluciones indicaban que eran recurribles.
+
+  La contratación pública de Púnica no constituye un único expediente con una sola lista de acusados o una condena común. Esta ficha se limita a las piezas 5, 6 y 7. Las investigaciones sobre suelo de Arpegio y Mintra, financiación electoral y reputación en internet tienen objetos propios; las decisiones allí adoptadas no se trasladan a estos contratos. No consta la condición actual de investigado de Ignacio González en esta agrupación.
+
+  La pieza 5 comprende, entre otros, estacionamiento regulado, grúa, cafeterías, aparcamientos, instalaciones deportivas y recogida de ropa usada. La propuesta de enjuiciamiento de abril de 2023 describió indicios de trato privilegiado a empresas relacionadas con Marjaliza, así como archivos completos y parciales. La inclusión inicial de Granados fue revocada en apelación, según la información publicada en junio. Esa exclusión no supone absolver al resto ni cerrar toda la pieza. Faltan los originales y el seguimiento completo de acusaciones y recursos posteriores.
+
+  En Cofely, el tribunal declaró acreditada una organización para obtener contratos energéticos mediante sobornos y participación en la configuración de las licitaciones. Condenó también a responsables de la compañía y a otros particulares y empleados públicos, además de las personas destacadas en esta ficha. El fallo contiene absoluciones totales y por delitos concretos que impiden atribuir a cada acusado todos los delitos investigados. La lista de implicados presentada aquí no sustituye el fallo completo.
+
+  La sentencia de Cofely impuso a la empresa tres años y seis meses de multa a razón de 2.500 euros diarios por cohecho, y seis meses de multa con la misma cuota por tráfico de influencias en Parla; la absolvió de blanqueo. Dispuso además una indemnización de 73.429,95 euros al Ayuntamiento de Parla y distintos decomisos. Cada concepto tiene su alcance: no se suma el valor de los contratos con multas, indemnizaciones o decomisos como si fueran una única pérdida pública. Tampoco se usa como daño la cifra global de 250 millones de la descripción anterior.
+
+  La rectificación de Marjaliza está respaldada aquí por prensa que dice haber accedido al auto. Europa Press y El País informan de cinco años y un mes, mientras Cadena SER redondea a cinco años. Falta la resolución original para verificar íntegramente sus pronunciamientos y los recursos posteriores; no se deduce de la rectificación una suspensión de prisión o una firmeza que no se han comprobado.
+
+  En Waiter Music, el original anonimizado consta de 126 páginas y está fechado el 1 de julio de 2026, aunque la nota judicial se publicó el día 2. Su parte dispositiva contiene una repetición de seudónimos que no debe usarse para sumar penas de una misma persona. Se toman las correspondencias nominales expresamente comunicadas por el CGPJ: Granados, Boza, Moreno, Herrera y Estrada son condenados; Parro y Ortiz son absueltos. La sentencia no hace pronunciamiento de responsabilidad civil y declara su carácter recurrible. No se da por probada su firmeza posterior ni el resultado de eventuales recursos.
 resumen: Contratación municipal, eficiencia energética y festejos investigados en piezas distintas de Púnica; condenas,
   absoluciones y exclusiones con alcance individual y recursos pendientes de contraste completo.
 lugar: Comunidad de Madrid; contratos de Cofely también en Almendralejo
@@ -143,15 +147,3 @@ cronologia:
   type: sentencia
   relevancia: alta
 ---
-
-La contratación pública de Púnica no constituye un único expediente con una sola lista de acusados o una condena común. Esta ficha se limita a las piezas 5, 6 y 7. Las investigaciones sobre suelo de Arpegio y Mintra, financiación electoral y reputación en internet tienen objetos propios; las decisiones allí adoptadas no se trasladan a estos contratos. No consta la condición actual de investigado de Ignacio González en esta agrupación.
-
-La pieza 5 comprende, entre otros, estacionamiento regulado, grúa, cafeterías, aparcamientos, instalaciones deportivas y recogida de ropa usada. La propuesta de enjuiciamiento de abril de 2023 describió indicios de trato privilegiado a empresas relacionadas con Marjaliza, así como archivos completos y parciales. La inclusión inicial de Granados fue revocada en apelación, según la información publicada en junio. Esa exclusión no supone absolver al resto ni cerrar toda la pieza. Faltan los originales y el seguimiento completo de acusaciones y recursos posteriores.
-
-En Cofely, el tribunal declaró acreditada una organización para obtener contratos energéticos mediante sobornos y participación en la configuración de las licitaciones. Condenó también a responsables de la compañía y a otros particulares y empleados públicos, además de las personas destacadas en esta ficha. El fallo contiene absoluciones totales y por delitos concretos que impiden atribuir a cada acusado todos los delitos investigados. La lista de implicados presentada aquí no sustituye el fallo completo.
-
-La sentencia de Cofely impuso a la empresa tres años y seis meses de multa a razón de 2.500 euros diarios por cohecho, y seis meses de multa con la misma cuota por tráfico de influencias en Parla; la absolvió de blanqueo. Dispuso además una indemnización de 73.429,95 euros al Ayuntamiento de Parla y distintos decomisos. Cada concepto tiene su alcance: no se suma el valor de los contratos con multas, indemnizaciones o decomisos como si fueran una única pérdida pública. Tampoco se usa como daño la cifra global de 250 millones de la descripción anterior.
-
-La rectificación de Marjaliza está respaldada aquí por prensa que dice haber accedido al auto. Europa Press y El País informan de cinco años y un mes, mientras Cadena SER redondea a cinco años. Falta la resolución original para verificar íntegramente sus pronunciamientos y los recursos posteriores; no se deduce de la rectificación una suspensión de prisión o una firmeza que no se han comprobado.
-
-En Waiter Music, el original anonimizado consta de 126 páginas y está fechado el 1 de julio de 2026, aunque la nota judicial se publicó el día 2. Su parte dispositiva contiene una repetición de seudónimos que no debe usarse para sumar penas de una misma persona. Se toman las correspondencias nominales expresamente comunicadas por el CGPJ: Granados, Boza, Moreno, Herrera y Estrada son condenados; Parro y Ortiz son absueltos. La sentencia no hace pronunciamiento de responsabilidad civil y declara su carácter recurrible. No se da por probada su firmeza posterior ni el resultado de eventuales recursos.

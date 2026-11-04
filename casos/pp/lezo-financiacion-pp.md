@@ -9,41 +9,22 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Remitida a Púnica; archivos y juicio oral
-descripcion: >-
-  Esta ficha se refiere a la antigua pieza 4 de Lezo sobre la posible financiación de la campaña autonómica
-  del PP de Madrid de 2011. No siguió como una investigación independiente: por auto de 2 enero 2018 se
-  remitió a la pieza 9 de Púnica, que ya investigaba hechos relacionados con la financiación electoral. La
-  memoria de la Fiscalía y el auto judicial de 14 octubre 2022 documentan esa remisión. La investigación
-  incluyó posibles pagos de deudas electorales mediante proveedores de la Agencia de Informática y
-  Comunicaciones de la Comunidad de Madrid (ICM); no puede describirse como probada una financiación del
-  partido a través del Canal por el conjunto de los hechos de Lezo.
+descripcion: |-
+  Esta ficha se refiere a la antigua pieza 4 de Lezo sobre la posible financiación de la campaña autonómica del PP de Madrid de 2011. No siguió como una investigación independiente: por auto de 2 enero 2018 se remitió a la pieza 9 de Púnica, que ya investigaba hechos relacionados con la financiación electoral. La memoria de la Fiscalía y el auto judicial de 14 octubre 2022 documentan esa remisión. La investigación incluyó posibles pagos de deudas electorales mediante proveedores de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid (ICM); no puede describirse como probada una financiación del partido a través del Canal por el conjunto de los hechos de Lezo.
 
+  Los resultados individuales son distintos. El auto de 14 octubre 2022 acordó el sobreseimiento provisional para Ignacio González y Arturo Luis Fernández Álvarez. Respecto de González, los fundamentos distinguen hechos electorales prescritos de otros sin indicios suficientes; la parte dispositiva lo incluye entre los sobreseimientos provisionales. La Audiencia Nacional confirmó su archivo por auto de 20 noviembre 2023, conocido públicamente el 22 noviembre. La Sala rechazó que hubiera respaldo indiciario para la hipótesis inicial de una organización general de financiación dirigida desde la cúpula del PP. Esto no equivale a una sentencia absolutoria tras juicio ni a cerrar todas las restantes actuaciones.
 
-  Los resultados individuales son distintos. El auto de 14 octubre 2022 acordó el sobreseimiento provisional
-  para Ignacio González y Arturo Luis Fernández Álvarez. Respecto de González, los fundamentos distinguen
-  hechos electorales prescritos de otros sin indicios suficientes; la parte dispositiva lo incluye entre los
-  sobreseimientos provisionales. La Audiencia Nacional confirmó su archivo por auto de 20 noviembre 2023,
-  conocido públicamente el 22 noviembre. La Sala rechazó que hubiera respaldo indiciario para la hipótesis
-  inicial de una organización general de financiación dirigida desde la cúpula del PP. Esto no equivale a una
-  sentencia absolutoria tras juicio ni a cerrar todas las restantes actuaciones.
+  El 3 abril 2024 se abrió juicio oral en la pieza 9 de Púnica contra siete personas por hechos delimitados. A Beltrán Gutiérrez y Francisco Granados se les atribuyó un posible delito electoral por falseamiento de cuentas de 2011; Granados y otros acusados afrontaban además imputaciones específicas sobre contratos y reputación en internet. El juez rechazó volver a abrir juicio contra Ignacio González y desestimó las solicitudes de responsabilidad a título lucrativo contra el PP, sus diputados autonómicos y los expresidentes Aguirre y González en los términos planteados. Los investigados de otras piezas de Lezo no se convierten por ello en acusados de esta pieza, ni sus peticiones de prisión se trasladan aquí.
 
+  El auto de 2024 recoge que una diligencia de 22 noviembre 2023 declaró firme el auto de 14 octubre 2022. Se trata de firmeza de una resolución procesal, no de condenas. Una noticia de 5 julio 2026 todavía describía pendiente el juicio sobre financiación electoral. No se ha verificado un señalamiento o resultado posterior hasta el 15 octubre 2026. Tampoco se han recuperado los originales de remisión de 2018 y confirmación de 2023; los autos de 2022 y 2024 constan en copias judiciales alojadas por terceros. No se atribuye un daño de diez millones de euros: no se ha acreditado esa cuantificación, y las cantidades de fianzas o responsabilidades provisionales no son un perjuicio probado.
 
-  El 3 abril 2024 se abrió juicio oral en la pieza 9 de Púnica contra siete personas por hechos delimitados. A
-  Beltrán Gutiérrez y Francisco Granados se les atribuyó un posible delito electoral por falseamiento de
-  cuentas de 2011; Granados y otros acusados afrontaban además imputaciones específicas sobre contratos y
-  reputación en internet. El juez rechazó volver a abrir juicio contra Ignacio González y desestimó las
-  solicitudes de responsabilidad a título lucrativo contra el PP, sus diputados autonómicos y los
-  expresidentes Aguirre y González en los términos planteados. Los investigados de otras piezas de Lezo no se
-  convierten por ello en acusados de esta pieza, ni sus peticiones de prisión se trasladan aquí.
+  La antigua pieza 4 de Lezo quedó incorporada a Púnica. La [memoria de la Fiscalía de 2019](https://www.fiscal.es/memorias/memoria2019/FISCALIA_SITE/capitulo_II/cap_II_6_5.html) identifica el auto de remisión de 2 de enero de 2018 y el [auto de 14 de octubre de 2022](https://estaticos-cdn.epe.es/epi/public/content/file/original/2022/1014/12/auto-que-concluye-la-instruccion-de-la-financiacion-irregular-del-pp-de-madrid-a7b60f0.pdf) recoge la formación de la pieza y la aceptación de la inhibición. Los procesos sobre Inassa, Emissao, el campo de golf y el tren de Navalcarnero tienen objetos y trayectorias propios.
 
+  La referencia periodística de 2019 a una estructura estable era una valoración indiciaria. Los resultados posteriores deben leerse con ella: la [nota judicial de 2023](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-confirma-archivo-de-Esperanza-Aguirre--Ignacio-Gonzalez-y-4-exconsejeros-en-la-pieza-de-Punica-sobre-financiacion-del-PP-de-Madrid) explica que no se corroboró la hipótesis general de una organización de financiación dirigida desde la cúpula. El archivo de González fue confirmado y el [auto de apertura de 2024](https://www.losgenoveses.net/Caso%20Punica/09.%20PS%20Financiacion%20PP%20Madrid/02.%20Punica%20PS9%20Financiacion%20ilicita%20PP%20Madrid.%20Auto%20apertura%20juicio%20oral.%2003.04.24.pdf) volvió a excluirlo del juicio. El sobreseimiento provisional, el sobreseimiento libre, la apertura de juicio y una sentencia son decisiones diferentes.
 
-  El auto de 2024 recoge que una diligencia de 22 noviembre 2023 declaró firme el auto de 14 octubre 2022. Se
-  trata de firmeza de una resolución procesal, no de condenas. Una noticia de 5 julio 2026 todavía describía
-  pendiente el juicio sobre financiación electoral. No se ha verificado un señalamiento o resultado posterior
-  hasta el 15 octubre 2026. Tampoco se han recuperado los originales de remisión de 2018 y confirmación de
-  2023; los autos de 2022 y 2024 constan en copias judiciales alojadas por terceros. No se atribuye un daño de
-  diez millones de euros: no se ha acreditado esa cuantificación, y las cantidades de fianzas o
-  responsabilidades provisionales no son un perjuicio probado.
+  El auto de apertura separa dos grupos de hechos: las cuentas de la campaña electoral y determinados contratos o trabajos de reputación. Por ello, la situación de cada acusado no puede resumirse como una acusación idéntica de financiación ilegal. Los nombres Ildefonso de Miguel y Edmundo Rodríguez Sobrino corresponden a otras investigaciones de Lezo; las fuentes comprobadas no permiten atribuirles en esta ficha una acusación concreta por la antigua pieza 4.
+
+  No se cuantifica un daño global. Los importes solicitados para responsabilidades civiles y las garantías cautelares del auto son provisionales y no una indemnización firme. El último estado posterior contrastado sitúa el juicio electoral pendiente en julio de 2026; no se ha verificado un resultado antes del 15 de octubre de 2026.
 resumen: La pieza 4 de Lezo se remitió a Púnica en 2018; González y Arturo Fernández obtuvieron archivo y otros acusados pasaron
   a juicio oral por hechos concretos.
 lugar: Comunidad de Madrid
@@ -192,11 +173,3 @@ cronologia:
   type: juicio
   relevancia: alta
 ---
-
-La antigua pieza 4 de Lezo quedó incorporada a Púnica. La [memoria de la Fiscalía de 2019](https://www.fiscal.es/memorias/memoria2019/FISCALIA_SITE/capitulo_II/cap_II_6_5.html) identifica el auto de remisión de 2 de enero de 2018 y el [auto de 14 de octubre de 2022](https://estaticos-cdn.epe.es/epi/public/content/file/original/2022/1014/12/auto-que-concluye-la-instruccion-de-la-financiacion-irregular-del-pp-de-madrid-a7b60f0.pdf) recoge la formación de la pieza y la aceptación de la inhibición. Los procesos sobre Inassa, Emissao, el campo de golf y el tren de Navalcarnero tienen objetos y trayectorias propios.
-
-La referencia periodística de 2019 a una estructura estable era una valoración indiciaria. Los resultados posteriores deben leerse con ella: la [nota judicial de 2023](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-confirma-archivo-de-Esperanza-Aguirre--Ignacio-Gonzalez-y-4-exconsejeros-en-la-pieza-de-Punica-sobre-financiacion-del-PP-de-Madrid) explica que no se corroboró la hipótesis general de una organización de financiación dirigida desde la cúpula. El archivo de González fue confirmado y el [auto de apertura de 2024](https://www.losgenoveses.net/Caso%20Punica/09.%20PS%20Financiacion%20PP%20Madrid/02.%20Punica%20PS9%20Financiacion%20ilicita%20PP%20Madrid.%20Auto%20apertura%20juicio%20oral.%2003.04.24.pdf) volvió a excluirlo del juicio. El sobreseimiento provisional, el sobreseimiento libre, la apertura de juicio y una sentencia son decisiones diferentes.
-
-El auto de apertura separa dos grupos de hechos: las cuentas de la campaña electoral y determinados contratos o trabajos de reputación. Por ello, la situación de cada acusado no puede resumirse como una acusación idéntica de financiación ilegal. Los nombres Ildefonso de Miguel y Edmundo Rodríguez Sobrino corresponden a otras investigaciones de Lezo; las fuentes comprobadas no permiten atribuirles en esta ficha una acusación concreta por la antigua pieza 4.
-
-No se cuantifica un daño global. Los importes solicitados para responsabilidades civiles y las garantías cautelares del auto son provisionales y no una indemnización firme. El último estado posterior contrastado sitúa el juicio electoral pendiente en julio de 2026; no se ha verificado un resultado antes del 15 de octubre de 2026.

@@ -7,21 +7,26 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condena confirmada en casación
-descripcion: 'Pedro Ángel Hernández Mateo, alcalde de Torrevieja por el PP entre 1988 y 2011, fue condenado por
-  falsedad en documento oficial y prevaricación continuada en la contratación municipal de recogida de residuos
-  y limpieza. La sentencia del TSJCV de 30 de noviembre de 2012 fue confirmada por la STS 743/2013, de 11 de octubre.
-  Se impusieron tres años de prisión, multa y responsabilidad civil de 12.000 euros. La documentación sobre inhabilitación
-  presenta diferencias de redacción que se detallan en el cuerpo.
+descripcion: |-
+  Pedro Ángel Hernández Mateo, alcalde de Torrevieja por el PP entre 1988 y 2011, fue condenado por falsedad en documento oficial y prevaricación continuada en la contratación municipal de recogida de residuos y limpieza. La sentencia del TSJCV de 30 de noviembre de 2012 fue confirmada por la STS 743/2013, de 11 de octubre. Se impusieron tres años de prisión, multa y responsabilidad civil de 12.000 euros. La documentación sobre inhabilitación presenta diferencias de redacción que se detallan en el cuerpo.
 
+  El procedimiento de contratación comenzó en 2003 y la adjudicación se acordó en 2004. El volumen contractual no es el daño indemnizable. La sentencia recoge la simulación de consultas a varios despachos para obtener un informe externo y la alteración de la mesa de contratación para favorecer la propuesta del alcalde.
 
-  El procedimiento de contratación comenzó en 2003 y la adjudicación se acordó en 2004. El volumen contractual no
-  es el daño indemnizable. La sentencia recoge la simulación de consultas a varios despachos para obtener un informe
-  externo y la alteración de la mesa de contratación para favorecer la propuesta del alcalde.
+  En junio de 2017 el TSJCV anunció el licenciamiento de la pena de prisión para el 28 de julio de ese año. No se presenta esa fecha como extinción de todas las penas. Quedan pendientes los autos originales de ejecución, la aclaración de la inhabilitación y la comprobación de novedades hasta el 17 de octubre de 2026.
 
+  ### Importes y penas
 
-  En junio de 2017 el TSJCV anunció el licenciamiento de la pena de prisión para el 28 de julio de ese año. No se
-  presenta esa fecha como extinción de todas las penas. Quedan pendientes los autos originales de ejecución, la
-  aclaración de la inhabilitación y la comprobación de novedades hasta el 17 de octubre de 2026.'
+  Los **12.000 euros** corresponden únicamente a la **indemnización al Ayuntamiento** acordada en el fallo, no al valor de la contrata. Los hechos probados distinguen un presupuesto de 97,8 millones para diez años y una adjudicación anual de 9.681.703,80 euros. Ninguna de esas cifras se presenta como fondos sustraídos. La multa de siete meses a 50 euros diarios, resumida en 10.500 euros por el Poder Judicial, es otra consecuencia distinta y no se suma al daño.
+
+  La copia de la STS reproduce el fallo inicial con siete años de inhabilitación. El auto aclaratorio de 3 de diciembre de 2012 desarrolla en sus fundamentos dos años por falsedad y siete por prevaricación, pero el apartado dispositivo transcrito vuelve a mencionar siete. La nota judicial de 2017 resume nueve años. Se deja constancia de esta diferencia y se evita sumar períodos de cumplimiento o afirmar que la inhabilitación terminó en 2024 sin consultar la liquidación original.
+
+  ### Alcance de las fuentes
+
+  Se ha recuperado el original oficial de la STS 743/2013, de 17 páginas. La [copia judicial escaneada de 41 páginas](https://losgenoveses.net/losincunables/Quinta%20entrega/Tribunal%20Supremo.Confirma%20sentencia%20alcalde%20Torrevieja.11.10.13.pdf) contiene nombres expresos; la identidad de Hernández Mateo se corrobora además en la nota nominal del TSJCV, sin deducirla de pseudónimos.
+
+  La nota del TSJCV de 22 de junio de 2017 acredita el anuncio del licenciamiento de prisión para el 28 de julio. Su mención de ingreso en 2013 discrepa de EFE, que señala el 30 de julio de 2014. Se requiere documentación de ejecución para resolverlo. No consta una fecha exacta de denuncia en enero de 2007; la fecha anunciada de excarcelación no equivale al cierre de toda la ejecución.
+
+  No están acreditadas una infracción de una resolución parlamentaria por el premio ni la responsabilidad penal de otros cargos municipales. No se confunde este procedimiento con otras causas posteriores de Torrevieja. Al 17 de octubre de 2026, no consta una revocación de esta condena. Faltan los documentos de ejecución y la aclaración señalada, y se desconoce la evolución posterior.
 resumen: Condena confirmada por el Supremo en 2013 por falsedad y prevaricación en la contrata de basuras de Torrevieja.
   Indemnización de 12.000 euros; pendientes aspectos de ejecución e inhabilitación.
 coste: 12000
@@ -119,17 +124,3 @@ cronologia:
   - https://www.diariodelavega.com/otorgados-los-premios-diego-ramirez-pastor-al-exalcalde-pedro-hernandez-mateo-y-a-la-asociacion-apanee/
   - https://www.eldiario.es/comunitat-valenciana/torrevieja-entrega-maxima-distincion-exalcalde-pp-condenado-tres-anos-prision-corrupcion_1_8505743.html
 ---
-
-## Importes y penas
-
-Los **12.000 euros** corresponden únicamente a la **indemnización al Ayuntamiento** acordada en el fallo, no al valor de la contrata. Los hechos probados distinguen un presupuesto de 97,8 millones para diez años y una adjudicación anual de 9.681.703,80 euros. Ninguna de esas cifras se presenta como fondos sustraídos. La multa de siete meses a 50 euros diarios, resumida en 10.500 euros por el Poder Judicial, es otra consecuencia distinta y no se suma al daño.
-
-La copia de la STS reproduce el fallo inicial con siete años de inhabilitación. El auto aclaratorio de 3 de diciembre de 2012 desarrolla en sus fundamentos dos años por falsedad y siete por prevaricación, pero el apartado dispositivo transcrito vuelve a mencionar siete. La nota judicial de 2017 resume nueve años. Se deja constancia de esta diferencia y se evita sumar períodos de cumplimiento o afirmar que la inhabilitación terminó en 2024 sin consultar la liquidación original.
-
-## Alcance de las fuentes
-
-Se ha recuperado el original oficial de la STS 743/2013, de 17 páginas. La [copia judicial escaneada de 41 páginas](https://losgenoveses.net/losincunables/Quinta%20entrega/Tribunal%20Supremo.Confirma%20sentencia%20alcalde%20Torrevieja.11.10.13.pdf) contiene nombres expresos; la identidad de Hernández Mateo se corrobora además en la nota nominal del TSJCV, sin deducirla de pseudónimos.
-
-La nota del TSJCV de 22 de junio de 2017 acredita el anuncio del licenciamiento de prisión para el 28 de julio. Su mención de ingreso en 2013 discrepa de EFE, que señala el 30 de julio de 2014. Se requiere documentación de ejecución para resolverlo. No consta una fecha exacta de denuncia en enero de 2007; la fecha anunciada de excarcelación no equivale al cierre de toda la ejecución.
-
-No están acreditadas una infracción de una resolución parlamentaria por el premio ni la responsabilidad penal de otros cargos municipales. No se confunde este procedimiento con otras causas posteriores de Torrevieja. Al 17 de octubre de 2026, no consta una revocación de esta condena. Faltan los documentos de ejecución y la aclaración señalada, y se desconoce la evolución posterior.

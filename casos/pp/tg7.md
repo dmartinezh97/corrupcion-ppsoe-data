@@ -9,27 +9,22 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: desconocido
-descripcion: 'El caso TG7 se refiere a la contratación de servicios extraordinarios de la televisión municipal de
-  Granada. Juan Antonio Fuentes Gálvez, concejal del PP responsable del servicio, suscribió el 1 de julio de 2015
-  un convenio con Central Broadcaster Media (CBM), del grupo Secuoya, que reconocía servicios complementarios y
-  preveía financiarlos mediante publicidad de patrocinadores. La causa penal se inició tras una denuncia de la Fiscalía
-  en 2018 y debe distinguirse de los litigios contencioso-administrativos de la empresa para cobrar los servicios
-  prestados.
+descripcion: |-
+  El caso TG7 se refiere a la contratación de servicios extraordinarios de la televisión municipal de Granada. Juan Antonio Fuentes Gálvez, concejal del PP responsable del servicio, suscribió el 1 de julio de 2015 un convenio con Central Broadcaster Media (CBM), del grupo Secuoya, que reconocía servicios complementarios y preveía financiarlos mediante publicidad de patrocinadores. La causa penal se inició tras una denuncia de la Fiscalía en 2018 y debe distinguirse de los litigios contencioso-administrativos de la empresa para cobrar los servicios prestados.
 
+  Fuentes fue absuelto en noviembre de 2023. El TSJA anuló aquella absolución el 10 de abril de 2025 y ordenó otro juicio ante un tribunal distinto. Tras la vista de febrero de 2026, la Sección Segunda de la Audiencia Provincial de Granada lo condenó el 7 de abril a nueve años de inhabilitación especial para empleo o cargo público y para el sufragio pasivo por un único delito de prevaricación administrativa. Declaró nulos el convenio de 2015 y las actas de liquidación de deuda. La sentencia se dictó como no firme, con posibilidad de apelación; al corte del 15 de octubre de 2026 no se han verificado la interposición o resolución de recursos ni una declaración de firmeza.
 
-  Fuentes fue absuelto en noviembre de 2023. El TSJA anuló aquella absolución el 10 de abril de 2025 y ordenó otro
-  juicio ante un tribunal distinto. Tras la vista de febrero de 2026, la Sección Segunda de la Audiencia Provincial
-  de Granada lo condenó el 7 de abril a nueve años de inhabilitación especial para empleo o cargo público y para
-  el sufragio pasivo por un único delito de prevaricación administrativa. Declaró nulos el convenio de 2015 y las
-  actas de liquidación de deuda. La sentencia se dictó como no firme, con posibilidad de apelación; al corte del
-  15 de octubre de 2026 no se han verificado la interposición o resolución de recursos ni una declaración de firmeza.
+  La antigua directora Cristina García Carmona y el responsable de la productora fueron investigados inicialmente; la información de julio de 2021 recoge el archivo provisional respecto de ambos y la continuación únicamente contra Fuentes. No se ha cotejado la firmeza de esos archivos. Los 864.121 euros citados en la denuncia fiscal no se presentan como daño fijado en la sentencia de 2026: el fallo consultado establece inhabilitación, costas y nulidad, sin imponer una indemnización por aquella cantidad.
 
+  El núcleo penal de TG7 es el convenio de servicios complementarios de 1 de julio de 2015, no la totalidad de la gestión de la televisión municipal ni las causas Nazarí, Serrallo o Emucesa. El contrato inicial de noviembre de 2011 y su modificación de 2012 son antecedentes que la sentencia de 2026 diferencia expresamente del acto por el que condena a Fuentes. Su identidad completa y el cargo municipal se documentan también en el [BOE de abril de 2015](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-3766).
 
-  La antigua directora Cristina García Carmona y el responsable de la productora fueron investigados inicialmente;
-  la información de julio de 2021 recoge el archivo provisional respecto de ambos y la continuación únicamente contra
-  Fuentes. No se ha cotejado la firmeza de esos archivos. Los 864.121 euros citados en la denuncia fiscal no se
-  presentan como daño fijado en la sentencia de 2026: el fallo consultado establece inhabilitación, costas y nulidad,
-  sin imponer una indemnización por aquella cantidad.'
+  La instrucción comenzó en 2018 tras la denuncia fiscal. La directora y el empresario figuraron inicialmente como investigados, pero la información de julio de 2021 sitúa a ambos fuera de la continuación por procedimiento abreviado, mediante archivo provisional. Ese resultado procesal debe distinguirse de una absolución tras juicio; no se han cotejado sus autos originales ni su firmeza.
+
+  La primera absolución de Fuentes, de noviembre de 2023, no sobrevivió al recurso de la Fiscalía. El TSJA ordenó repetir el juicio en abril de 2025. La nueva vista tuvo lugar del 24 al 26 de febrero de 2026. La Audiencia rechazó la continuidad delictiva que sostenían las acusaciones y condenó por un único delito de prevaricación: nueve años de inhabilitación, frente a los quince que pedía la Fiscalía. Además, anuló el convenio y las actas de liquidación. La sentencia declara que cabe apelación al TSJA; no consta aquí verificación de lo ocurrido después.
+
+  Los 864.121 euros divulgados durante la investigación corresponden a la valoración fiscal inicial del supuesto perjuicio. La sentencia de 2026 distingue facturas firmadas por 430.964,11 euros sin IVA y una reclamación de CBM por 548.775,21 euros que fue reconocida en la vía contencioso-administrativa por servicios prestados. Son conceptos y ámbitos distintos, no cantidades acumulables como dinero malversado o daño acreditado. El fallo penal consultado no impone una indemnización por los 864.121 euros; establece la nulidad y las costas junto a la inhabilitación.
+
+  La [reproducción de la sentencia 164/2026](https://www.iberley.es/jurisprudencia/sentencia-penal-audiencia-provincial-penal-n-2-granada-7-4-26-1840753628) permite identificar el rollo 26/2022, el procedimiento abreviado 143/2021 del Juzgado de Instrucción 6 y el ECLI ES:APGR:2026:681. No se dispone aquí de un PDF judicial original cotejado. Subsisten las lagunas sobre los recursos, la firmeza posterior de la condena y la de los archivos individuales. La [noticia de la condena, de 9 de abril de 2026](https://www.elindependientedegranada.es/node/74570), debe distinguirse de la fecha del fallo, 7 de abril.
 resumen: Condena de nueve años de inhabilitación a Juan Antonio Fuentes por el convenio de servicios extraordinarios
   de TG7, tras anularse su absolución inicial; firmeza y recursos posteriores sin verificar.
 lugar: Granada, Andalucía
@@ -138,13 +133,3 @@ cronologia:
     type: sentencia
     relevancia: alta
 ---
-
-El núcleo penal de TG7 es el convenio de servicios complementarios de 1 de julio de 2015, no la totalidad de la gestión de la televisión municipal ni las causas Nazarí, Serrallo o Emucesa. El contrato inicial de noviembre de 2011 y su modificación de 2012 son antecedentes que la sentencia de 2026 diferencia expresamente del acto por el que condena a Fuentes. Su identidad completa y el cargo municipal se documentan también en el [BOE de abril de 2015](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-3766).
-
-La instrucción comenzó en 2018 tras la denuncia fiscal. La directora y el empresario figuraron inicialmente como investigados, pero la información de julio de 2021 sitúa a ambos fuera de la continuación por procedimiento abreviado, mediante archivo provisional. Ese resultado procesal debe distinguirse de una absolución tras juicio; no se han cotejado sus autos originales ni su firmeza.
-
-La primera absolución de Fuentes, de noviembre de 2023, no sobrevivió al recurso de la Fiscalía. El TSJA ordenó repetir el juicio en abril de 2025. La nueva vista tuvo lugar del 24 al 26 de febrero de 2026. La Audiencia rechazó la continuidad delictiva que sostenían las acusaciones y condenó por un único delito de prevaricación: nueve años de inhabilitación, frente a los quince que pedía la Fiscalía. Además, anuló el convenio y las actas de liquidación. La sentencia declara que cabe apelación al TSJA; no consta aquí verificación de lo ocurrido después.
-
-Los 864.121 euros divulgados durante la investigación corresponden a la valoración fiscal inicial del supuesto perjuicio. La sentencia de 2026 distingue facturas firmadas por 430.964,11 euros sin IVA y una reclamación de CBM por 548.775,21 euros que fue reconocida en la vía contencioso-administrativa por servicios prestados. Son conceptos y ámbitos distintos, no cantidades acumulables como dinero malversado o daño acreditado. El fallo penal consultado no impone una indemnización por los 864.121 euros; establece la nulidad y las costas junto a la inhabilitación.
-
-La [reproducción de la sentencia 164/2026](https://www.iberley.es/jurisprudencia/sentencia-penal-audiencia-provincial-penal-n-2-granada-7-4-26-1840753628) permite identificar el rollo 26/2022, el procedimiento abreviado 143/2021 del Juzgado de Instrucción 6 y el ECLI ES:APGR:2026:681. No se dispone aquí de un PDF judicial original cotejado. Subsisten las lagunas sobre los recursos, la firmeza posterior de la condena y la de los archivos individuales. La [noticia de la condena, de 9 de abril de 2026](https://www.elindependientedegranada.es/node/74570), debe distinguirse de la fecha del fallo, 7 de abril.

@@ -8,28 +8,20 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Sobreseimiento provisional
-descripcion: >-
-  El caso Eivissa Centre investigó las sospechas de comisiones vinculadas a un proyecto urbanístico de la
-  ciudad de Eivissa y a la adjudicataria Bruesa, a partir de grabaciones relacionadas con Roque López, antiguo
-  dirigente socialista. Las informaciones iniciales de abril de 2007 hablaban de una supuesta comisión de 1,5
-  millones de euros y de un proyecto de unos 120 millones. Son alegaciones y volumen presupuestado,
-  respectivamente: no acreditan dinero cobrado, perjuicio público ni coste de corrupción.
+descripcion: |-
+  El caso Eivissa Centre investigó las sospechas de comisiones vinculadas a un proyecto urbanístico de la ciudad de Eivissa y a la adjudicataria Bruesa, a partir de grabaciones relacionadas con Roque López, antiguo dirigente socialista. Las informaciones iniciales de abril de 2007 hablaban de una supuesta comisión de 1,5 millones de euros y de un proyecto de unos 120 millones. Son alegaciones y volumen presupuestado, respectivamente: no acreditan dinero cobrado, perjuicio público ni coste de corrupción.
 
+  El Juzgado de Instrucción número 2 de Eivissa acordó el sobreseimiento provisional mediante auto de 16 de abril de 2014, difundido el día 23, según Europa Press. La jueza Carmen Martín Montero consideró que las numerosas diligencias no habían aportado indicios suficientes para abrir juicio por cohecho, prevaricación, tráfico de influencias o falsedad documental. La Fiscalía había solicitado el archivo el 24 de enero. Su valoración, reseñada por la prensa, fue que no se acreditó el pago de comisiones y que las afirmaciones grabadas no bastaban para sostener la acusación.
 
-  El Juzgado de Instrucción número 2 de Eivissa acordó el sobreseimiento provisional mediante auto de 16 de
-  abril de 2014, difundido el día 23, según Europa Press. La jueza Carmen Martín Montero consideró que las
-  numerosas diligencias no habían aportado indicios suficientes para abrir juicio por cohecho, prevaricación,
-  tráfico de influencias o falsedad documental. La Fiscalía había solicitado el archivo el 24 de enero. Su
-  valoración, reseñada por la prensa, fue que no se acreditó el pago de comisiones y que las afirmaciones
-  grabadas no bastaban para sostener la acusación.
+  En aquel momento cabían reforma o apelación. No se ha recuperado el auto original ni se ha acreditado aquí la resolución de eventuales recursos, su firmeza o una eventual reapertura hasta el 17 de octubre de 2026. Tampoco está acreditado un archivo definitivo el 4 de junio de 2018; el sobreseimiento provisional no equivale a una absolución ni impide por sí solo la reapertura. Los roles personales se refieren a la investigación documentada de 2014, sin mantener a esas personas como investigadas actuales por ausencia de noticias.
 
+  Las [informaciones iniciales de abril de 2007](https://www.libertaddigital.com/nacional/el-psoe-de-ibiza-pacto-una-comision-de-15-millones-de-euros-a-cambio-de-la-adjudicacion-de-unas-obras-1276304236/) presentaron sospechas basadas en conversaciones grabadas. La comisión de 1,5 millones y los 120 millones del proyecto no son importes de daño probado ni deben sumarse. La [información de NouDiari sobre el escrito fiscal de 2014](https://www.noudiari.es/local-ibiza/la-fiscalia-pide-el-archivo-definitivo-del-caso-eivissa-centre/) explica que se revisaron actuaciones de Itusa sin hallar indicios suficientes de decisiones adoptadas a cambio de comisiones; tampoco equipara un plan hipotético a un pago consumado.
 
-  En aquel momento cabían reforma o apelación. No se ha recuperado el auto original ni se ha acreditado aquí
-  la resolución de eventuales recursos, su firmeza o una eventual reapertura hasta el 17 de octubre de 2026.
-  Tampoco está acreditado un archivo definitivo el 4 de junio de 2018; el sobreseimiento provisional no
-  equivale a una absolución ni impide por sí solo la reapertura. Los roles personales se refieren a la
-  investigación documentada de 2014, sin mantener a esas personas como investigadas actuales por ausencia de
-  noticias.
+  La [crónica de Europa Press sobre el archivo](https://www.europapress.es/illes-balears/noticia-jueza-archiva-caso-ibiza-centro-falta-indicios-delictivos-20140423164200.html) precisa que el auto es de 16 de abril de 2014 y su naturaleza provisional. La [reproducción de la agencia en Iustel](https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1126500) coincide: cabían reforma y apelación. La solicitud del Ministerio Fiscal y el archivo por la jueza son actos diferentes, por mucho que algunos titulares utilizaran la palabra definitivo para describir la petición.
+
+  La [noticia de mayo de 2013](https://www.noudiari.es/local-ibiza/la-fiscalia-reanuda-el-caso-eivissa-centre-seis-anos-despues-de-que-se-pusiera-la-denuncia/) trata del impulso fiscal y menciona denuncias contra el instructor y una letrada. Esas actuaciones relacionadas no se confunden con la prueba del cobro de comisiones ni sus resultados se trasladan a los investigados de Eivissa Centre.
+
+  No se ha acreditado el desenlace de un recurso contra el archivo ni el supuesto cierre definitivo de junio de 2018 atribuido a esa fecha. Esa falta de contraste no significa que el caso siga abierto, que se reabriera ni que no exista una resolución posterior: deja pendiente comprobar el estado individual y la firmeza con el expediente judicial.
 resumen: Investigación de supuestas comisiones urbanísticas archivada provisionalmente en abril de 2014 por insuficiencia
   de indicios; desenlace posterior y firmeza pendientes de contraste.
 lugar: Eivissa, Islas Baleares
@@ -119,11 +111,3 @@ cronologia:
   urls:
   - https://www.europapress.es/illes-balears/noticia-jueza-archiva-caso-ibiza-centro-falta-indicios-delictivos-20140423164200.html
 ---
-
-Las [informaciones iniciales de abril de 2007](https://www.libertaddigital.com/nacional/el-psoe-de-ibiza-pacto-una-comision-de-15-millones-de-euros-a-cambio-de-la-adjudicacion-de-unas-obras-1276304236/) presentaron sospechas basadas en conversaciones grabadas. La comisión de 1,5 millones y los 120 millones del proyecto no son importes de daño probado ni deben sumarse. La [información de NouDiari sobre el escrito fiscal de 2014](https://www.noudiari.es/local-ibiza/la-fiscalia-pide-el-archivo-definitivo-del-caso-eivissa-centre/) explica que se revisaron actuaciones de Itusa sin hallar indicios suficientes de decisiones adoptadas a cambio de comisiones; tampoco equipara un plan hipotético a un pago consumado.
-
-La [crónica de Europa Press sobre el archivo](https://www.europapress.es/illes-balears/noticia-jueza-archiva-caso-ibiza-centro-falta-indicios-delictivos-20140423164200.html) precisa que el auto es de 16 de abril de 2014 y su naturaleza provisional. La [reproducción de la agencia en Iustel](https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1126500) coincide: cabían reforma y apelación. La solicitud del Ministerio Fiscal y el archivo por la jueza son actos diferentes, por mucho que algunos titulares utilizaran la palabra definitivo para describir la petición.
-
-La [noticia de mayo de 2013](https://www.noudiari.es/local-ibiza/la-fiscalia-reanuda-el-caso-eivissa-centre-seis-anos-despues-de-que-se-pusiera-la-denuncia/) trata del impulso fiscal y menciona denuncias contra el instructor y una letrada. Esas actuaciones relacionadas no se confunden con la prueba del cobro de comisiones ni sus resultados se trasladan a los investigados de Eivissa Centre.
-
-No se ha acreditado el desenlace de un recurso contra el archivo ni el supuesto cierre definitivo de junio de 2018 atribuido a esa fecha. Esa falta de contraste no significa que el caso siga abierto, que se reabriera ni que no exista una resolución posterior: deja pendiente comprobar el estado individual y la firmeza con el expediente judicial.

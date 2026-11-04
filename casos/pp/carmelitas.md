@@ -9,52 +9,35 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "sentencia firme"
-descripcion: >-
-  El Caso Carmelitas, conocido como "Caso de las Monjas de Orihuela", parte de la entrega, en abril de 1993,
-  del superávit de la gestión del Hospital Municipal San Juan de Dios por parte de las Hermanas Carmelitas al
-  Ayuntamiento de Orihuela. El entonces alcalde, Luis Fernando Cartagena Travesedo (PP), recibió el dinero en
-  dos pagos —6.166.426 pesetas (unos 37.061 euros) en abril de 1993 y otros 2.000.000 de pesetas (unos 12.020
-  euros) el 11 de mayo de ese año, 8.166.426 pesetas en total (49.081 euros)— y, en lugar de tramitar su
-  ingreso en las arcas municipales, lo retuvo. La sentencia consideró probado que se apropió de los caudales
-  con ánimo de lucro.
+descripcion: |-
+  El Caso Carmelitas, conocido como "Caso de las Monjas de Orihuela", parte de la entrega, en abril de 1993, del superávit de la gestión del Hospital Municipal San Juan de Dios por parte de las Hermanas Carmelitas al Ayuntamiento de Orihuela. El entonces alcalde, Luis Fernando Cartagena Travesedo (PP), recibió el dinero en dos pagos —6.166.426 pesetas (unos 37.061 euros) en abril de 1993 y otros 2.000.000 de pesetas (unos 12.020 euros) el 11 de mayo de ese año, 8.166.426 pesetas en total (49.081 euros)— y, en lugar de tramitar su ingreso en las arcas municipales, lo retuvo. La sentencia consideró probado que se apropió de los caudales con ánimo de lucro.
 
+  En 1998, Jesús Ferrández Peñalver, portavoz del Centro Liberal (escisión del grupo municipal del PP), denunció públicamente que Cartagena no había ingresado el donativo. La sentencia de instancia precisa que la causa judicial se inició por denuncia del portavoz del Grupo Municipal Socialista de Orihuela. La Fiscalía Anticorrupción ordenó una investigación y el expediente se trasladó al Juzgado de Instrucción nº 4 de Orihuela, que procesó a Cartagena y al empresario Ángel Fenoll, empresario y militante del PP. El tribunal consideró probado que, en 1998 y para justificar el destino del dinero, Cartagena encargó a Fenoll tres recibos por supuestas obras de rehabilitación de viviendas del barrio de Miguel Hernández cuyo importe total coincidía con el donativo; los recibos aportados como justificación eran falsos y el dinero no se destinó al fin establecido.
 
-  En 1998, Jesús Ferrández Peñalver, portavoz del Centro Liberal (escisión del grupo municipal del PP),
-  denunció públicamente que Cartagena no había ingresado el donativo. La sentencia de instancia precisa que la
-  causa judicial se inició por denuncia del portavoz del Grupo Municipal Socialista de Orihuela. La Fiscalía
-  Anticorrupción ordenó una investigación y el expediente se trasladó al Juzgado de Instrucción nº 4 de
-  Orihuela, que procesó a Cartagena y al empresario Ángel Fenoll, empresario y militante del PP. El tribunal
-  consideró probado que, en 1998 y para justificar el destino del dinero, Cartagena encargó a Fenoll tres
-  recibos por supuestas obras de rehabilitación de viviendas del barrio de Miguel Hernández cuyo importe total
-  coincidía con el donativo; los recibos aportados como justificación eran falsos y el dinero no se destinó al
-  fin establecido.
+  El 14 de marzo de 2002, la Sección 7ª de la Audiencia Provincial de Alicante, con sede en Elche, condenó a Cartagena a tres años de prisión por malversación de caudales públicos y un año por falsedad en documento mercantil (cuatro años en total), con inhabilitación absoluta de seis años y multa, y a indemnizar al Ayuntamiento de Orihuela con 49.081 euros; y a Ángel Fenoll a un año de prisión y multa por falsedad en documento mercantil. La Sala de lo Penal del Tribunal Supremo confirmó la condena el 16 de marzo de 2004 (STS 163/2004). Solicitado el indulto, el Gobierno lo denegó el 23 de mayo de 2008 y Cartagena ingresó en el Centro Penitenciario Alicante II de Villena la noche del 16 de julio de 2008. Fuentes periodísticas posteriores señalan que cumplió unos dos años de prisión (la mitad de la pena).
 
+  Límites de la información disponible: la crónica periodística sitúa la entrega del donativo el 3 de abril de 1993 y presenta los 49.081 euros como entregados ese día, mientras que la sentencia fecha el primer pago —6.166.426 pesetas— el 7 de abril de 1993 y el segundo —2.000.000 de pesetas— el 11 de mayo; ambas fuentes coinciden en el total de 8.166.426 pesetas (49.081 euros). El año de la denuncia no es unánime: El País la sitúa en 1998 (denuncia pública de Jesús Ferrández, del Centro Liberal; otro artículo de 2002 la atribuye al PSPV ante la Fiscalía Anticorrupción) y Wikipedia la data en 1997; no consta el día exacto. La denegación del indulto se fecha el 23 de mayo de 2008 según El País, que publicó la noticia el 31 de mayo; no se ha localizado la resolución oficial del expediente. La pena de Fenoll presenta una discrepancia: la sentencia y la mayoría de las crónicas indican un año de prisión, mientras que un artículo de El País de 18 de julio de 2008 dice dos años. La sentencia del Supremo (ECLI:ES:TS:2004:1818), disponible en el CENDOJ, reproduce los hechos probados y la condena de la Audiencia. La sentencia de instancia 13/2002 (ECLI:ES:APA:2002:1184; 14 páginas), disponible en el CENDOJ, atribuye en su primer antecedente el inicio de la causa a la denuncia del portavoz del Grupo Municipal Socialista. Esa denuncia judicial es distinta de la denuncia pública de Ferrández. Los hechos de los recibos falsos de 1998 no deben confundirse con el caso Brugal, también instruido en Orihuela y con Ángel Fenoll como figura central, pero referido a la contratación de basuras.
 
-  El 14 de marzo de 2002, la Sección 7ª de la Audiencia Provincial de Alicante, con sede en Elche, condenó a
-  Cartagena a tres años de prisión por malversación de caudales públicos y un año por falsedad en documento
-  mercantil (cuatro años en total), con inhabilitación absoluta de seis años y multa, y a indemnizar al
-  Ayuntamiento de Orihuela con 49.081 euros; y a Ángel Fenoll a un año de prisión y multa por falsedad en
-  documento mercantil. La Sala de lo Penal del Tribunal Supremo confirmó la condena el 16 de marzo de 2004
-  (STS 163/2004). Solicitado el indulto, el Gobierno lo denegó el 23 de mayo de 2008 y Cartagena ingresó en el
-  Centro Penitenciario Alicante II de Villena la noche del 16 de julio de 2008. Fuentes periodísticas
-  posteriores señalan que cumplió unos dos años de prisión (la mitad de la pena).
+  ### Fuentes e incertidumbres
 
+  - **Fecha de la entrega y pagos.** La crónica de El País (18-07-2008) sitúa la entrega el 3 de abril de 1993 y cifra el donativo en 49.081 euros; la sentencia (SAP Alicante 13/2002; STS 163/2004) declara probado que Cartagena recibió 6.166.426 pesetas «con fecha 7 de abril de 1993» y otros 2.000.000 de pesetas el 11 de mayo, que suman 8.166.426 pesetas (49.081 euros). Esta ficha atribuye el 3 de abril a la crónica y adopta el 7 de abril fijado en los hechos probados; no se da por hecho que los 49.081 euros se entregaran íntegramente el 3 de abril.
+  - **Estado y firmeza.** La condena de la Audiencia fue confirmada por el Tribunal Supremo el 16 de marzo de 2004 (STS 163/2004). La crónica de El País de 18 de julio de 2008 la presenta ratificada en todos sus extremos y ejecutada mediante ingreso en prisión; no se ha obtenido testimonio de firmeza ni expediente de ejecución. No se deduce una fecha exacta de firmeza de la mera desestimación de casación. El ingreso en prisión del 16 de julio de 2008 no acredita el cierre global del caso ni el cumplimiento total de la pena.
+  - **Número y fecha de las sentencias.** El 13/2002 de la Audiencia figuraba en el repertorio del Observatori Ciutadà contra la Corrupció; se ha confirmado con la reproducción textual de la resolución (ECLI:ES:APA:2002:1184) y con la sentencia del Supremo (STS 163/2004, ECLI:ES:TS:2004:1818). Los originales del Supremo y de la Audiencia están disponibles en el CENDOJ y constan de 16 y 14 páginas, respectivamente.
+  - **Denuncia.** El primer antecedente de la sentencia de instancia atribuye la apertura de la causa a la denuncia del portavoz del Grupo Municipal Socialista de Orihuela, sin fecharla. Se distingue de la denuncia pública: El País sitúa en 1998 la denuncia pública de Jesús Ferrández (Centro Liberal); un artículo de 2002 atribuye el inicio del proceso a una denuncia del PSPV ante la Fiscalía Anticorrupción, también en 1998, y Wikipedia data los hechos en 1997. Al no constar el día exacto, la denuncia no figura como hito fechado de la cronología.
+  - **Indulto.** La denegación se fecha el 23 de mayo de 2008 según El País, que publicó la noticia el 31 de mayo; no se ha localizado la resolución oficial del expediente.
+  - **Pena de Fenoll.** La sentencia y la mayoría de las crónicas indican un año de prisión; El País (18-07-2008) dice dos años. El conflicto se mantiene declarado.
+  - **Prisión.** El ingreso se fecha el 16-07-2008 (El País 17-07-2008: «ayer por la tarde»; El País 18-07-2008: «la noche del miércoles»); Wikipedia y otros resúmenes recogen el 17-07-2008, día de publicación de la noticia.
+  Ángel Fenoll y Orihuela aparecen también en [Brugal](/casos/pp/brugal/), pero los hechos son distintos: Carmelitas trata de los recibos falsos de 1998 sobre un donativo; Brugal, de la contratación de basuras.
 
-  Límites de la información disponible: la crónica periodística sitúa la entrega del donativo el 3 de abril de
-  1993 y presenta los 49.081 euros como entregados ese día, mientras que la sentencia fecha el primer pago
-  —6.166.426 pesetas— el 7 de abril de 1993 y el segundo —2.000.000 de pesetas— el 11 de mayo; ambas fuentes
-  coinciden en el total de 8.166.426 pesetas (49.081 euros). El año de la denuncia no es unánime: El País la
-  sitúa en 1998 (denuncia pública de Jesús Ferrández, del Centro Liberal; otro artículo de 2002 la atribuye al
-  PSPV ante la Fiscalía Anticorrupción) y Wikipedia la data en 1997; no consta el día exacto. La denegación
-  del indulto se fecha el 23 de mayo de 2008 según El País, que publicó la noticia el 31 de mayo; no se ha
-  localizado la resolución oficial del expediente. La pena de Fenoll presenta una discrepancia: la sentencia y
-  la mayoría de las crónicas indican un año de prisión, mientras que un artículo de El País de 18 de julio de
-  2008 dice dos años. La sentencia del Supremo (ECLI:ES:TS:2004:1818), disponible en el CENDOJ, reproduce los
-  hechos probados y la condena de la Audiencia. La sentencia de instancia 13/2002 (ECLI:ES:APA:2002:1184; 14
-  páginas), disponible en el CENDOJ, atribuye en su primer antecedente el inicio de la causa a la denuncia del
-  portavoz del Grupo Municipal Socialista. Esa denuncia judicial es distinta de la denuncia pública de
-  Ferrández. Los hechos de los recibos falsos de 1998 no deben confundirse con el caso Brugal, también
-  instruido en Orihuela y con Ángel Fenoll como figura central, pero referido a la contratación de basuras.
+  Los hechos probados sitúan el primer pago recibido por el alcalde el 7 de abril de 1993; la crónica periodística lo sitúa el 3 de abril. La discrepancia sigue sin resolverse.
+
+  ### Información disponible de 17 de octubre de 2026
+
+  Los documentos usan seudónimos distintos en cada resolución: la identificación nominal de Cartagena y Fenoll se apoya en las crónicas de El País de 15 de marzo de 2002 y 31 de marzo de 2004, no en atribuir nombres reales a esos seudónimos.
+
+  El Supremo reproduce el auto de aclaración de 15 de marzo de 2002: para ambos condenados, la multa por falsedad es de seis meses con cuota diaria de 30 euros; la indemnización de Cartagena es de 49.081 euros más intereses procesales. No se suma otra vez la indemnización al dinero malversado. Ese principal histórico acreditado judicialmente no incluye multas, costas ni intereses, ni equivale a una deuda pendiente: El País de 18 de julio de 2008 informó de que el tribunal había apoyado parcialmente el indulto porque Cartagena había restituido la cantidad sustraída. No se ha cotejado el justificante de pago ni la liquidación definitiva.
+
+  El País informó de la condena (15-03-2002), la casación (31-03-2004), la denegación de indulto (31-05-2008) y el ingreso (17 y 18-07-2008). elDiario.es también se refirió a Cartagena en noviembre de 2025. Este último atribuye dos años de estancia en prisión; no sustituye a un expediente penitenciario. No se ha obtenido la resolución oficial de indulto ni una resolución de extinción de pena o responsabilidad civil. No consta una decisión posterior que cambie esta condena; esa falta de constancia no demuestra su inexistencia.
 
 resumen: "Malversación de 49.081 euros donados por las Hermanas Carmelitas para obras sociales en Orihuela"
 coste: 49081
@@ -144,24 +127,3 @@ cronologia:
       - "https://www.eldiario.es/comunitat-valenciana/alicante/banquillo-acusados-alcalde-pp-orihuela-quinto-juzgado-corrupcion-estafa-30-anos_1_12767495.html"
 
 ---
-
-## Fuentes e incertidumbres
-
-- **Fecha de la entrega y pagos.** La crónica de El País (18-07-2008) sitúa la entrega el 3 de abril de 1993 y cifra el donativo en 49.081 euros; la sentencia (SAP Alicante 13/2002; STS 163/2004) declara probado que Cartagena recibió 6.166.426 pesetas «con fecha 7 de abril de 1993» y otros 2.000.000 de pesetas el 11 de mayo, que suman 8.166.426 pesetas (49.081 euros). Esta ficha atribuye el 3 de abril a la crónica y adopta el 7 de abril fijado en los hechos probados; no se da por hecho que los 49.081 euros se entregaran íntegramente el 3 de abril.
-- **Estado y firmeza.** La condena de la Audiencia fue confirmada por el Tribunal Supremo el 16 de marzo de 2004 (STS 163/2004). La crónica de El País de 18 de julio de 2008 la presenta ratificada en todos sus extremos y ejecutada mediante ingreso en prisión; no se ha obtenido testimonio de firmeza ni expediente de ejecución. No se deduce una fecha exacta de firmeza de la mera desestimación de casación. El ingreso en prisión del 16 de julio de 2008 no acredita el cierre global del caso ni el cumplimiento total de la pena.
-- **Número y fecha de las sentencias.** El 13/2002 de la Audiencia figuraba en el repertorio del Observatori Ciutadà contra la Corrupció; se ha confirmado con la reproducción textual de la resolución (ECLI:ES:APA:2002:1184) y con la sentencia del Supremo (STS 163/2004, ECLI:ES:TS:2004:1818). Los originales del Supremo y de la Audiencia están disponibles en el CENDOJ y constan de 16 y 14 páginas, respectivamente.
-- **Denuncia.** El primer antecedente de la sentencia de instancia atribuye la apertura de la causa a la denuncia del portavoz del Grupo Municipal Socialista de Orihuela, sin fecharla. Se distingue de la denuncia pública: El País sitúa en 1998 la denuncia pública de Jesús Ferrández (Centro Liberal); un artículo de 2002 atribuye el inicio del proceso a una denuncia del PSPV ante la Fiscalía Anticorrupción, también en 1998, y Wikipedia data los hechos en 1997. Al no constar el día exacto, la denuncia no figura como hito fechado de la cronología.
-- **Indulto.** La denegación se fecha el 23 de mayo de 2008 según El País, que publicó la noticia el 31 de mayo; no se ha localizado la resolución oficial del expediente.
-- **Pena de Fenoll.** La sentencia y la mayoría de las crónicas indican un año de prisión; El País (18-07-2008) dice dos años. El conflicto se mantiene declarado.
-- **Prisión.** El ingreso se fecha el 16-07-2008 (El País 17-07-2008: «ayer por la tarde»; El País 18-07-2008: «la noche del miércoles»); Wikipedia y otros resúmenes recogen el 17-07-2008, día de publicación de la noticia.
-Ángel Fenoll y Orihuela aparecen también en [Brugal](/casos/pp/brugal/), pero los hechos son distintos: Carmelitas trata de los recibos falsos de 1998 sobre un donativo; Brugal, de la contratación de basuras.
-
-Los hechos probados sitúan el primer pago recibido por el alcalde el 7 de abril de 1993; la crónica periodística lo sitúa el 3 de abril. La discrepancia sigue sin resolverse.
-
-## Información disponible de 17 de octubre de 2026
-
-Los documentos usan seudónimos distintos en cada resolución: la identificación nominal de Cartagena y Fenoll se apoya en las crónicas de El País de 15 de marzo de 2002 y 31 de marzo de 2004, no en atribuir nombres reales a esos seudónimos.
-
-El Supremo reproduce el auto de aclaración de 15 de marzo de 2002: para ambos condenados, la multa por falsedad es de seis meses con cuota diaria de 30 euros; la indemnización de Cartagena es de 49.081 euros más intereses procesales. No se suma otra vez la indemnización al dinero malversado. Ese principal histórico acreditado judicialmente no incluye multas, costas ni intereses, ni equivale a una deuda pendiente: El País de 18 de julio de 2008 informó de que el tribunal había apoyado parcialmente el indulto porque Cartagena había restituido la cantidad sustraída. No se ha cotejado el justificante de pago ni la liquidación definitiva.
-
-El País informó de la condena (15-03-2002), la casación (31-03-2004), la denegación de indulto (31-05-2008) y el ingreso (17 y 18-07-2008). elDiario.es también se refirió a Cartagena en noviembre de 2025. Este último atribuye dos años de estancia en prisión; no sustituye a un expediente penitenciario. No se ha obtenido la resolución oficial de indulto ni una resolución de extinción de pena o responsabilidad civil. No consta una decisión posterior que cambie esta condena; esa falta de constancia no demuestra su inexistencia.

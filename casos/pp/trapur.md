@@ -10,12 +10,16 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas y absoluciones; casación de Rodríguez López desestimada en 2018
-descripcion: La contratación fraccionada de servicios de desratización y desinfección de Castro Urdiales dio lugar a
-  condenas por prevaricación continuada de Elisa Dopico y José Miguel Rodríguez López, y por cohecho de
-  Dopico. Ambos fueron absueltos de tráfico de influencias y la veterinaria municipal, de prevaricación. El
-  Supremo desestimó el recurso de Rodríguez López el 10 de julio de 2018. Al 17 de octubre de 2026, no están
-  acreditadas la ejecución de las penas ni la firmeza individual de la condena de Dopico. El original del
-  Supremo contiene fechas contradictorias para la sentencia de instancia; falta cotejar esta última.
+descripcion: |-
+  La contratación fraccionada de servicios de desratización y desinfección de Castro Urdiales dio lugar a condenas por prevaricación continuada de Elisa Dopico y José Miguel Rodríguez López, y por cohecho de Dopico. Ambos fueron absueltos de tráfico de influencias y la veterinaria municipal, de prevaricación. El Supremo desestimó el recurso de Rodríguez López el 10 de julio de 2018. Al 17 de octubre de 2026, no están acreditadas la ejecución de las penas ni la firmeza individual de la condena de Dopico. El original del Supremo contiene fechas contradictorias para la sentencia de instancia; falta cotejar esta última.
+
+  La sentencia del Supremo reproduce hechos de contratación fraccionada para eludir el procedimiento administrativo: servicios ya realizados antes de su aprobación municipal, primero bajo la responsabilidad de Dopico y después bajo la de Rodríguez López. El tribunal distingue estos hechos del concurso de contratación de 2005: explica que los hechos de ese concurso no son aquellos por los que recayó la condena recurrida. Ambos exconcejales fueron absueltos de tráfico de influencias. No debe transformarse una propuesta económica menos ventajosa en una condena por ese delito.
+
+  El fallo de instancia reproducido en el original del Supremo aplica la atenuante muy cualificada de dilaciones indebidas. Incluye, para la pena de prisión de Dopico, la accesoria de inhabilitación para el sufragio pasivo durante la condena. Las multas son penas, no una medición de daño patrimonial. No consta una cuantificación judicial del perjuicio; ello no demuestra su inexistencia. Las cifras de facturación y beneficios no equivalen a un daño público acreditado.
+
+  La identificación nominal se apoya en las noticias contemporáneas enlazadas; no se deducen identidades de los seudónimos de la resolución judicial anonimizada. La noticia previa al juicio sobre la salida de Muguruza y la prescripción respecto de Llamas no sustituye a los autos originales, que no se han recuperado. No está acreditada la relación procesal de Pedro Revuelta con esta causa.
+
+  **Documentación disponible al 17 de octubre de 2026:** la STS 343/2018 consta de siete páginas. No se dispone de la sentencia de instancia enlazada por Castro Punto Radio. El Supremo contiene una discrepancia interna de fechas de esa sentencia, pendiente de cotejo con el original. Su decisión se limita al recurso de Rodríguez López; no se declara aquí el cierre global del caso, la firmeza individual de la condena de Dopico ni la ejecución de las penas. No está acreditada la ausencia de otras incidencias posteriores.
 resumen: 'Contratación municipal fraccionada: condenas por prevaricación y cohecho, con absoluciones diferenciadas.'
 lugar: Castro Urdiales, Cantabria
 tribunal:
@@ -109,11 +113,3 @@ cronologia:
   - https://www.eldiariotorrelavega.es/articulo/cantabria/supremo-rechaza-recurso-kyk-confirma-inhabilitacion-prevaricacion/20180717221524009916.html
   relevancia: alta
 ---
-
-La sentencia del Supremo reproduce hechos de contratación fraccionada para eludir el procedimiento administrativo: servicios ya realizados antes de su aprobación municipal, primero bajo la responsabilidad de Dopico y después bajo la de Rodríguez López. El tribunal distingue estos hechos del concurso de contratación de 2005: explica que los hechos de ese concurso no son aquellos por los que recayó la condena recurrida. Ambos exconcejales fueron absueltos de tráfico de influencias. No debe transformarse una propuesta económica menos ventajosa en una condena por ese delito.
-
-El fallo de instancia reproducido en el original del Supremo aplica la atenuante muy cualificada de dilaciones indebidas. Incluye, para la pena de prisión de Dopico, la accesoria de inhabilitación para el sufragio pasivo durante la condena. Las multas son penas, no una medición de daño patrimonial. No consta una cuantificación judicial del perjuicio; ello no demuestra su inexistencia. Las cifras de facturación y beneficios no equivalen a un daño público acreditado.
-
-La identificación nominal se apoya en las noticias contemporáneas enlazadas; no se deducen identidades de los seudónimos de la resolución judicial anonimizada. La noticia previa al juicio sobre la salida de Muguruza y la prescripción respecto de Llamas no sustituye a los autos originales, que no se han recuperado. No está acreditada la relación procesal de Pedro Revuelta con esta causa.
-
-**Documentación disponible al 17 de octubre de 2026:** la STS 343/2018 consta de siete páginas. No se dispone de la sentencia de instancia enlazada por Castro Punto Radio. El Supremo contiene una discrepancia interna de fechas de esa sentencia, pendiente de cotejo con el original. Su decisión se limita al recurso de Rodríguez López; no se declara aquí el cierre global del caso, la firmeza individual de la condena de Dopico ni la ejecución de las penas. No está acreditada la ausencia de otras incidencias posteriores.

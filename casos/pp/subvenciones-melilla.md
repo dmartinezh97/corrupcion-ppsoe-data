@@ -9,25 +9,22 @@ estadoPrincipal: En investigación
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: resultado judicial no verificado
-descripcion: >-
-  Una noticia de Melilla Hoy del 10 de marzo de 2014 informó de la imputación del consejero de Educación
-  Antonio Miranda, del exconsejero de Deportes Francisco Robles y de un funcionario por una convocatoria de
-  subvenciones de 2007. Es una referencia histórica a una investigación, no una condena ni prueba de su
-  situación procesal actual.
+descripcion: |-
+  Una noticia de Melilla Hoy del 10 de marzo de 2014 informó de la imputación del consejero de Educación Antonio Miranda, del exconsejero de Deportes Francisco Robles y de un funcionario por una convocatoria de subvenciones de 2007. Es una referencia histórica a una investigación, no una condena ni prueba de su situación procesal actual.
 
+  Vozpópuli publicó en febrero de 2015 que la causa partía de una denuncia de estudiantes por ayudas a dos grupos presuntamente no inscritos en el censo de asociaciones. El medio citó 50.000 euros anuales y la apreciación judicial de indicios de prevaricación. No se ha recuperado el auto ni las resoluciones administrativas que permitan comprobar por separado las entidades, los importes y los requisitos aplicables. Una información de El Confidencial de 2019 aún describía a Miranda como investigado por las subvenciones de 2007.
 
-  Vozpópuli publicó en febrero de 2015 que la causa partía de una denuncia de estudiantes por ayudas a dos
-  grupos presuntamente no inscritos en el censo de asociaciones. El medio citó 50.000 euros anuales y la
-  apreciación judicial de indicios de prevaricación. No se ha recuperado el auto ni las resoluciones
-  administrativas que permitan comprobar por separado las entidades, los importes y los requisitos aplicables.
-  Una información de El Confidencial de 2019 aún describía a Miranda como investigado por las subvenciones de
-  2007.
+  Al 17 de octubre de 2026, no consta una resolución que acredite el sobreseimiento, ni una sentencia o recurso posterior que permita dar por cerrada esta causa. No consta ese desenlace ni está acreditado que la investigación siga abierta hoy. No están acreditadas las fechas exactas de convocatoria, denuncia e imputación en 2007.
 
+  El año **2007** identifica la convocatoria mencionada por las fuentes, no una fecha exacta de denuncia o resolución judicial. La primera noticia documentada es la del [10 de marzo de 2014](https://melillahoy.es/antonio-miranda-y-francisco-robles-imputados-por-concesin-de-ayudas/), sin afirmar que el procedimiento empezase ese día.
 
-  Al 17 de octubre de 2026, no consta una resolución que acredite el sobreseimiento, ni una sentencia o
-  recurso posterior que permita dar por cerrada esta causa. No consta ese desenlace ni está acreditado que la
-  investigación siga abierta hoy. No están acreditadas las fechas exactas de convocatoria, denuncia e
-  imputación en 2007.
+  La [información de Vozpópuli de 23 de febrero de 2015](https://www.vozpopuli.com/espana/juan_jose_imbroda-melilla-operacion_tosca-caso_abogados-pp-operacion_opera-guardia_civil-uco_0_782021839.html) aporta el relato de la denuncia y los indicios atribuidos al juez. Se conserva como información periodística sobre una **sospecha**, no como hecho judicialmente declarado probado. Además, el medio habla de una imputación en el pasado octubre, mientras la noticia local ya informó de imputaciones en marzo de 2014. Sin los autos no se puede resolver si se trataba de actos diferentes ni reconstruir su calendario exacto.
+
+  Los **50.000 euros anuales** citados por el medio no se convierten en perjuicio patrimonial. No se ha verificado si el importe corresponde a cada entidad, al conjunto o a una partida concreta, ni un reintegro, indemnización o desvío probado. No se incorpora una cuantificación de daño acreditado; ello no certifica que no pudiera existir alguno. Tampoco se identifican por conjetura las dos entidades o el funcionario.
+
+  El [reportaje de El Confidencial de 2019](https://www.elconfidencial.com/espana/2019-05-06/melilla-vice-imbroda-corrupcion-partido-popular_1976134/) vuelve a mencionar la investigación de estas subvenciones. Sus referencias a sobreseimientos de piezas de **Tosca** y su fe de errores sobre absoluciones de otras personas no prueban un archivo de esta causa. Del mismo modo, la referencia de Público trata de otras investigaciones de contratación. No se trasladan a esta ficha resultados de Ópera, Tosca, la causa Abogados, las ayudas de Promesa o la posterior investigación sobre libros escolares.
+
+  Con corte al **17 de octubre de 2026**, faltan el número de juzgado y procedimiento, las resoluciones de concesión, la denuncia y el auto de imputación, así como el eventual sobreseimiento, juicio, sentencia o recursos posteriores. No consta un sobreseimiento acreditado en las fuentes citadas; eso tampoco permite afirmar que la causa siga en instrucción. No se dispone de originales verificables que permitan acreditar el cierre de la causa.
 resumen: Investigación histórica sobre subvenciones juveniles de Melilla de 2007; imputaciones publicadas en 2014 y resultado judicial pendiente de verificar.
 lugar: Melilla
 tribunal:
@@ -73,13 +70,3 @@ cronologia:
   urls:
   - https://www.elconfidencial.com/espana/2019-05-06/melilla-vice-imbroda-corrupcion-partido-popular_1976134/
 ---
-
-El año **2007** identifica la convocatoria mencionada por las fuentes, no una fecha exacta de denuncia o resolución judicial. La primera noticia documentada es la del [10 de marzo de 2014](https://melillahoy.es/antonio-miranda-y-francisco-robles-imputados-por-concesin-de-ayudas/), sin afirmar que el procedimiento empezase ese día.
-
-La [información de Vozpópuli de 23 de febrero de 2015](https://www.vozpopuli.com/espana/juan_jose_imbroda-melilla-operacion_tosca-caso_abogados-pp-operacion_opera-guardia_civil-uco_0_782021839.html) aporta el relato de la denuncia y los indicios atribuidos al juez. Se conserva como información periodística sobre una **sospecha**, no como hecho judicialmente declarado probado. Además, el medio habla de una imputación en el pasado octubre, mientras la noticia local ya informó de imputaciones en marzo de 2014. Sin los autos no se puede resolver si se trataba de actos diferentes ni reconstruir su calendario exacto.
-
-Los **50.000 euros anuales** citados por el medio no se convierten en perjuicio patrimonial. No se ha verificado si el importe corresponde a cada entidad, al conjunto o a una partida concreta, ni un reintegro, indemnización o desvío probado. No se incorpora una cuantificación de daño acreditado; ello no certifica que no pudiera existir alguno. Tampoco se identifican por conjetura las dos entidades o el funcionario.
-
-El [reportaje de El Confidencial de 2019](https://www.elconfidencial.com/espana/2019-05-06/melilla-vice-imbroda-corrupcion-partido-popular_1976134/) vuelve a mencionar la investigación de estas subvenciones. Sus referencias a sobreseimientos de piezas de **Tosca** y su fe de errores sobre absoluciones de otras personas no prueban un archivo de esta causa. Del mismo modo, la referencia de Público trata de otras investigaciones de contratación. No se trasladan a esta ficha resultados de Ópera, Tosca, la causa Abogados, las ayudas de Promesa o la posterior investigación sobre libros escolares.
-
-Con corte al **17 de octubre de 2026**, faltan el número de juzgado y procedimiento, las resoluciones de concesión, la denuncia y el auto de imputación, así como el eventual sobreseimiento, juicio, sentencia o recursos posteriores. No consta un sobreseimiento acreditado en las fuentes citadas; eso tampoco permite afirmar que la causa siga en instrucción. No se dispone de originales verificables que permitan acreditar el cierre de la causa.

@@ -7,13 +7,18 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: En apelación
 firmeza: No firme
 estado: Sobreseimiento provisional de 2019 recurrido; resultado de la apelación no verificado
-descripcion: 'Investigación sobre presuntas irregularidades en las licencias, inspecciones y funcionamiento de la
-  discoteca Vela Beach de La Mata, en Torrevieja. Hubo un archivo provisional en enero de 2016 y una posterior reapertura
-  comunicada en 2017. Eduardo Dolón y Francisco Moreno declararon ante el juzgado en mayo de 2017. El nuevo sobreseimiento
-  provisional se dictó el 13 de febrero de 2019. La sentencia 763/2020 del Juzgado de lo Contencioso-Administrativo
-  n.º 1 de Elche, en un procedimiento distinto, recoge que ese auto penal estaba apelado y pendiente ante la Audiencia
-  Provincial. Hasta el corte de 17 de octubre de 2026 no se ha localizado el resultado del recurso ni cotejado el
-  auto penal original: no se presenta el archivo como definitivo ni como una absolución.'
+descripcion: |-
+  Investigación sobre presuntas irregularidades en las licencias, inspecciones y funcionamiento de la discoteca Vela Beach de La Mata, en Torrevieja. Hubo un archivo provisional en enero de 2016 y una posterior reapertura comunicada en 2017. Eduardo Dolón y Francisco Moreno declararon ante el juzgado en mayo de 2017. El nuevo sobreseimiento provisional se dictó el 13 de febrero de 2019. La sentencia 763/2020 del Juzgado de lo Contencioso-Administrativo n.º 1 de Elche, en un procedimiento distinto, recoge que ese auto penal estaba apelado y pendiente ante la Audiencia Provincial. Hasta el corte de 17 de octubre de 2026 no se ha localizado el resultado del recurso ni cotejado el auto penal original: no se presenta el archivo como definitivo ni como una absolución.
+
+  La investigación examinó posibles irregularidades en las licencias e inspecciones de la discoteca y la respuesta municipal a las molestias denunciadas. Las noticias de 2016 describen presunta falsedad documental y prevaricación por omisión. Esas sospechas no se presentan como hechos declarados probados en una sentencia condenatoria. La información de 2019 utiliza en algún titular la palabra «absuelto», pero describe un sobreseimiento: se conserva la denominación procesal de archivo provisional y se distingue de una absolución en juicio.
+
+  El expediente penal identificado en la referencia judicial de 2020 es el de diligencias previas 1653/2014. No consta una fecha exacta acreditada de presentación de la denuncia o de incoación. La referencia a una apertura del local en 2013 no basta para fechar el comienzo judicial. La noticia de enero de 2016 incluye una fotografía rotulada como cierre del 22 de agosto de 2015, pero no sustituye a la resolución administrativa ni acredita por sí sola que la clausura fuera definitiva.
+
+  El nuevo archivo penal no puede describirse como cierre definitivo. La [sentencia 763/2020, página 13](https://paisvalencia.fsc.ccoo.es/29544579a11d596d1491c0ddbd93ba7f000050.pdf) afirma en sus fundamentos, no solo en el resumen de alegaciones de una parte, que un exhorto informa de la apelación del auto de 13 de febrero de 2019 y que estaba pendiente ante la Audiencia. Esta constatación se refiere al momento de aquella sentencia; no permite afirmar que el recurso siga pendiente en octubre de 2026. Tampoco se traslada a esta ficha el resultado del procedimiento contencioso sobre derechos fundamentales en el que se contiene la referencia.
+
+  No se ha acreditado en las fuentes cotejadas una cuantificación judicial de daño económico en esta causa. No se dispone del original del auto de 2019 para corroborar su tenor literal. La lista de personas se limita a las identificadas por las noticias citadas, sin inferir nombres a partir de cargos o de seudónimos judiciales.
+
+  **Información pendiente (17 de octubre de 2026).** No se han recuperado los autos penales de archivo, la resolución de reapertura ni la resolución del recurso posterior al archivo de 2019. La copia judicial de 2020 publicada por CCOO tiene treinta páginas y corresponde a un procedimiento distinto. Sus antecedentes y el fundamento cuarto, en la página 13, contienen referencias al asunto; su CSV no está autenticado. El portal oficial de comprobación devolvió un formulario con verificación de seguridad, sin permitir validar el documento en las fuentes citadas. El PDF se aporta únicamente como referencia judicial al estado de la apelación en 2020. La ausencia de noticias no acredita la inexistencia de incidencias posteriores. No consta una fecha de cierre.
 resumen: 'Investigación sobre la discoteca Vela Beach: archivos provisionales y apelación cuyo resultado no se ha
   verificado.'
 lugar: La Mata, Torrevieja, Alicante
@@ -98,13 +103,3 @@ cronologia:
   - https://paisvalencia.fsc.ccoo.es/29544579a11d596d1491c0ddbd93ba7f000050.pdf
   relevancia: alta
 ---
-
-La investigación examinó posibles irregularidades en las licencias e inspecciones de la discoteca y la respuesta municipal a las molestias denunciadas. Las noticias de 2016 describen presunta falsedad documental y prevaricación por omisión. Esas sospechas no se presentan como hechos declarados probados en una sentencia condenatoria. La información de 2019 utiliza en algún titular la palabra «absuelto», pero describe un sobreseimiento: se conserva la denominación procesal de archivo provisional y se distingue de una absolución en juicio.
-
-El expediente penal identificado en la referencia judicial de 2020 es el de diligencias previas 1653/2014. No consta una fecha exacta acreditada de presentación de la denuncia o de incoación. La referencia a una apertura del local en 2013 no basta para fechar el comienzo judicial. La noticia de enero de 2016 incluye una fotografía rotulada como cierre del 22 de agosto de 2015, pero no sustituye a la resolución administrativa ni acredita por sí sola que la clausura fuera definitiva.
-
-El nuevo archivo penal no puede describirse como cierre definitivo. La [sentencia 763/2020, página 13](https://paisvalencia.fsc.ccoo.es/29544579a11d596d1491c0ddbd93ba7f000050.pdf) afirma en sus fundamentos, no solo en el resumen de alegaciones de una parte, que un exhorto informa de la apelación del auto de 13 de febrero de 2019 y que estaba pendiente ante la Audiencia. Esta constatación se refiere al momento de aquella sentencia; no permite afirmar que el recurso siga pendiente en octubre de 2026. Tampoco se traslada a esta ficha el resultado del procedimiento contencioso sobre derechos fundamentales en el que se contiene la referencia.
-
-No se ha acreditado en las fuentes cotejadas una cuantificación judicial de daño económico en esta causa. No se dispone del original del auto de 2019 para corroborar su tenor literal. La lista de personas se limita a las identificadas por las noticias citadas, sin inferir nombres a partir de cargos o de seudónimos judiciales.
-
-**Información pendiente (17 de octubre de 2026).** No se han recuperado los autos penales de archivo, la resolución de reapertura ni la resolución del recurso posterior al archivo de 2019. La copia judicial de 2020 publicada por CCOO tiene treinta páginas y corresponde a un procedimiento distinto. Sus antecedentes y el fundamento cuarto, en la página 13, contienen referencias al asunto; su CSV no está autenticado. El portal oficial de comprobación devolvió un formulario con verificación de seguridad, sin permitir validar el documento en las fuentes citadas. El PDF se aporta únicamente como referencia judicial al estado de la apelación en 2020. La ausencia de noticias no acredita la inexistencia de incidencias posteriores. No consta una fecha de cierre.

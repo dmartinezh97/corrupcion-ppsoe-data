@@ -8,17 +8,16 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas y absoluciones
-descripcion: Mercasevilla comprende varios procedimientos con resultados diferentes. En el cohecho de la escuela
-  de hostelería, la STS421/2014, de 16 de mayo, mantuvo para Fernando José Mellet Jiménez y Daniel Ponce Verdugo
-  multas individuales de 600.000 euros y suspensión de empleo y cargo público durante 21 meses; absolvió a Antonio
-  Rivas Sánchez. La petición de 450.000 euros no fue un pago acreditado. En otra pieza, la STS685/2021, de 15 de
-  septiembre, confirmó la condena de Mellet a dos años de prisión y seis de inhabilitación por la beca de estudios,
-  con responsabilidad civil de 16.412,12 euros; la beneficiaria fue absuelta penalmente, aunque responde solidariamente
-  como partícipe a título lucrativo. La venta de suelos terminó con diez absoluciones en 2017, según prensa que
-  las declaró firmes. La guardería tuvo otra condena de conformidad en noviembre de 2021. No se trasladan estos
-  resultados a las piezas ERE. Quedan pendientes originales de suelos y guardería y comprobaciones de ejecución,
-  cobros y eventuales recursos constitucionales hasta el corte del 17 de octubre de 2026; no se da por cerrada toda
-  la causa con una única fecha.
+descripcion: |-
+  Mercasevilla comprende varios procedimientos con resultados diferentes. En el cohecho de la escuela de hostelería, la STS421/2014, de 16 de mayo, mantuvo para Fernando José Mellet Jiménez y Daniel Ponce Verdugo multas individuales de 600.000 euros y suspensión de empleo y cargo público durante 21 meses; absolvió a Antonio Rivas Sánchez. La petición de 450.000 euros no fue un pago acreditado. En otra pieza, la STS685/2021, de 15 de septiembre, confirmó la condena de Mellet a dos años de prisión y seis de inhabilitación por la beca de estudios, con responsabilidad civil de 16.412,12 euros; la beneficiaria fue absuelta penalmente, aunque responde solidariamente como partícipe a título lucrativo. La venta de suelos terminó con diez absoluciones en 2017, según prensa que las declaró firmes. La guardería tuvo otra condena de conformidad en noviembre de 2021. No se trasladan estos resultados a las piezas ERE. Quedan pendientes originales de suelos y guardería y comprobaciones de ejecución, cobros y eventuales recursos constitucionales hasta el corte del 17 de octubre de 2026; no se da por cerrada toda la causa con una única fecha.
+
+  La [sentencia del cohecho](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/sentencia%20Merca%20TS.pdf) distingue entre los 300.000 euros solicitados y otros 150.000 añadidos con la excusa de una acometida eléctrica. Los empresarios se negaron a pagar. La subvención de 900.000 euros para la escuela tampoco equivale a un daño de ese importe. Las multas de 600.000 euros son penas individuales, no responsabilidad civil ni pérdida patrimonial. La absolución de Rivas fue dictada en 2014, no en 2020.
+
+  La [sentencia sobre la beca](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=db29a933d3e62465&encode=true&databasematch=AN) confirmó una condena por un pago de 16.412,12 euros. La [prensa nominal](https://www.diariodesevilla.es/juzgado_de_guardia/sentencias/Tribunal-Supremo-confirma-condena-director-Mercasevilla_0_1611439921.html) identifica a Mellet y a Carmen Vela y distingue expresamente su absolución penal de su obligación civil como partícipe a título lucrativo. El texto judicial usa seudónimos; no se reconstruyen identidades de los demás absueltos a partir de ellos. La responsabilidad solidaria constituye una sola obligación, no dos importes sumables. Los 449.164,74 euros eran un perjuicio alegado para un conjunto de acusaciones que no terminó íntegramente en condena; esa cifra no acredita el daño finalmente establecido.
+
+  La [pieza de los terrenos](https://www.diariodesevilla.es/sevilla/Fiscalia-recurrira-absolucion-caso-Mercasevilla_0_1151585182.html) terminó con diez absoluciones según la información consultada. El órgano fue el Juzgado de lo Penal 13, no la Audiencia. Faltan el original y la resolución de firmeza para su cotejo primario. Las [cuentas de 2025](https://www.mercasevilla.com/uploads/wysiwyg-editor/informedeauditoriaindependientecuentasanualeseinformedegestion2025.pdf) aportan seguimiento de la guardería: sentencia 401/2021 de la Sección Tercera y 9.000 euros abonados en 2025. Esa pieza tiene ficha propia, mercasevilla-guarderia; su importe no se agrega aquí.
+
+  Los procedimientos ERE y los recursos constitucionales de otros responsables requieren comprobaciones individuales. No se atribuyen sus cifras, condenas o revisiones a estas piezas, ni se fija una fecha final para toda Mercasevilla. Queda sin verificar la ejecución penal y el cobro completo de las responsabilidades civiles, además de los originales indicados.
 resumen: Procedimientos distintos sobre cohecho, beca, terrenos y guardería de Mercasevilla, con condenas y absoluciones
   diferenciadas.
 lugar: Sevilla
@@ -129,11 +128,3 @@ cronologia:
   type: sentencia
   relevancia: alta
 ---
-
-La [sentencia del cohecho](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/sentencia%20Merca%20TS.pdf) distingue entre los 300.000 euros solicitados y otros 150.000 añadidos con la excusa de una acometida eléctrica. Los empresarios se negaron a pagar. La subvención de 900.000 euros para la escuela tampoco equivale a un daño de ese importe. Las multas de 600.000 euros son penas individuales, no responsabilidad civil ni pérdida patrimonial. La absolución de Rivas fue dictada en 2014, no en 2020.
-
-La [sentencia sobre la beca](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=db29a933d3e62465&encode=true&databasematch=AN) confirmó una condena por un pago de 16.412,12 euros. La [prensa nominal](https://www.diariodesevilla.es/juzgado_de_guardia/sentencias/Tribunal-Supremo-confirma-condena-director-Mercasevilla_0_1611439921.html) identifica a Mellet y a Carmen Vela y distingue expresamente su absolución penal de su obligación civil como partícipe a título lucrativo. El texto judicial usa seudónimos; no se reconstruyen identidades de los demás absueltos a partir de ellos. La responsabilidad solidaria constituye una sola obligación, no dos importes sumables. Los 449.164,74 euros eran un perjuicio alegado para un conjunto de acusaciones que no terminó íntegramente en condena; esa cifra no acredita el daño finalmente establecido.
-
-La [pieza de los terrenos](https://www.diariodesevilla.es/sevilla/Fiscalia-recurrira-absolucion-caso-Mercasevilla_0_1151585182.html) terminó con diez absoluciones según la información consultada. El órgano fue el Juzgado de lo Penal 13, no la Audiencia. Faltan el original y la resolución de firmeza para su cotejo primario. Las [cuentas de 2025](https://www.mercasevilla.com/uploads/wysiwyg-editor/informedeauditoriaindependientecuentasanualeseinformedegestion2025.pdf) aportan seguimiento de la guardería: sentencia 401/2021 de la Sección Tercera y 9.000 euros abonados en 2025. Esa pieza tiene ficha propia, mercasevilla-guarderia; su importe no se agrega aquí.
-
-Los procedimientos ERE y los recursos constitucionales de otros responsables requieren comprobaciones individuales. No se atribuyen sus cifras, condenas o revisiones a estas piezas, ni se fija una fecha final para toda Mercasevilla. Queda sin verificar la ejecución penal y el cobro completo de las responsabilidades civiles, además de los originales indicados.

@@ -11,11 +11,28 @@ firmeza: Sin determinar
 estado: condena publicada en 2018; firmeza no verificada
 resumen: Condena por autorizar extracción de zahorra de Los Bonales sin el procedimiento exigido; firmeza pendiente
   de comprobar.
-descripcion: El exalcalde de Horcajo de los Montes Alfredo Prado fue condenado a siete años de inhabilitación por
-  prevaricación, según la noticia de Europa Press publicada en abril de 2018. La autorización municipal para extraer
-  zahorra se fechó el 17 de diciembre de 2012. No se han obtenido la sentencia original, los posibles recursos ni
-  la ejecutoria. La noticia del fallecimiento de Prado en agosto de 2020 no permite deducir firmeza o ejecución
-  de esa condena.
+descripcion: |-
+  El exalcalde de Horcajo de los Montes Alfredo Prado fue condenado a siete años de inhabilitación por prevaricación, según la noticia de Europa Press publicada en abril de 2018. La autorización municipal para extraer zahorra se fechó el 17 de diciembre de 2012. No se han obtenido la sentencia original, los posibles recursos ni la ejecutoria. La noticia del fallecimiento de Prado en agosto de 2020 no permite deducir firmeza o ejecución de esa condena.
+
+  ### Hechos y personas
+
+  La [información de Europa Press reproducida por La Cerca](https://www.lacerca.com/noticias/ciudad_real/prevaricacion-siete-inhabilitacion-cargo-publico-exalcalde-pp-horcajo-415645-1.html) vincula la extracción con una promoción privada de CYSA. Menciona a Marien Valdenebro Torregrosa como destinataria de la autorización y recoge que Prado le atribuía la representación de CYSAVAL, sin acreditación documental en autos. Esa mención no acredita que fuera investigada, acusada o condenada, ni un beneficio personal probado.
+
+  [ENCLM](https://www.encastillalamancha.es/castilla-la-mancha-cat/condenan-por-prevaricacion-al-exalcalde-del-pp-de-horcajo-de-los-montes-ciudad-real/) reproduce la misma noticia de agencia: no constituye una segunda investigación independiente. La irregularidad descrita concierne a la autorización previa exigida, por lo que no debe presentarse toda extracción de zahorra de un monte público como intrínsecamente delictiva.
+
+  ### Fechas, importes y asuntos distintos
+
+  El [obituario de Lanza](https://www.lanzadigital.com/provincia/fallece-a-los-73-anos-alfredo-prado-alcalde-de-horcajo-de-los-durante-dieciseis-anos/) sitúa su mandato como alcalde entre 1999 y 2015. No consta el día exacto del fallecimiento en agosto de 2020. El fallecimiento no equivale a una sentencia ni a una declaración de firmeza.
+
+  No se ha comprobado una cuantificación judicial del daño, una responsabilidad civil, una indemnización ni un pago. No se incorpora coste cero: la ausencia de una cantidad acreditada es información pendiente.
+
+  Los episodios sobre plenos, acceso de la oposición a documentos, toma de posesión de concejales y retasación urbanística T-1, con un supuesto embargo de 700.000 euros, no cuentan con respaldo suficiente para atribuirlos a esta causa. No se ha verificado que formen parte del procedimiento de Los Bonales. La referencia anterior a un TSJ de la Comunidad Valenciana tampoco está respaldada para este caso de Ciudad Real. No se trasladan sus resultados ni cantidades.
+
+  ### Información pendiente de acreditar
+
+  Al 17 de octubre de 2026, no constan el número de sentencia o ECLI, el original judicial ni una resolución acreditada de apelación, casación o ejecución. Eso no demuestra que no existan. No está acreditada la firmeza de la condena ni el cierre judicial de la causa.
+
+  La recopilación Casos Aislados remite a una noticia de DCLM cuyo enlace no se recuperó; sus datos no sustituyen las resoluciones judiciales. No hay un PDF original verificable para incorporar a documentos.
 lugar: Horcajo de los Montes, Ciudad Real, Castilla-La Mancha
 tribunal:
 - Juzgado de lo Penal número 3 de Ciudad Real
@@ -54,23 +71,3 @@ cronologia:
   - https://www.lanzadigital.com/provincia/fallece-a-los-73-anos-alfredo-prado-alcalde-de-horcajo-de-los-durante-dieciseis-anos/
 numeroSentencia: ''
 ---
-
-## Hechos y personas
-
-La [información de Europa Press reproducida por La Cerca](https://www.lacerca.com/noticias/ciudad_real/prevaricacion-siete-inhabilitacion-cargo-publico-exalcalde-pp-horcajo-415645-1.html) vincula la extracción con una promoción privada de CYSA. Menciona a Marien Valdenebro Torregrosa como destinataria de la autorización y recoge que Prado le atribuía la representación de CYSAVAL, sin acreditación documental en autos. Esa mención no acredita que fuera investigada, acusada o condenada, ni un beneficio personal probado.
-
-[ENCLM](https://www.encastillalamancha.es/castilla-la-mancha-cat/condenan-por-prevaricacion-al-exalcalde-del-pp-de-horcajo-de-los-montes-ciudad-real/) reproduce la misma noticia de agencia: no constituye una segunda investigación independiente. La irregularidad descrita concierne a la autorización previa exigida, por lo que no debe presentarse toda extracción de zahorra de un monte público como intrínsecamente delictiva.
-
-## Fechas, importes y asuntos distintos
-
-El [obituario de Lanza](https://www.lanzadigital.com/provincia/fallece-a-los-73-anos-alfredo-prado-alcalde-de-horcajo-de-los-durante-dieciseis-anos/) sitúa su mandato como alcalde entre 1999 y 2015. No consta el día exacto del fallecimiento en agosto de 2020. El fallecimiento no equivale a una sentencia ni a una declaración de firmeza.
-
-No se ha comprobado una cuantificación judicial del daño, una responsabilidad civil, una indemnización ni un pago. No se incorpora coste cero: la ausencia de una cantidad acreditada es información pendiente.
-
-Los episodios sobre plenos, acceso de la oposición a documentos, toma de posesión de concejales y retasación urbanística T-1, con un supuesto embargo de 700.000 euros, no cuentan con respaldo suficiente para atribuirlos a esta causa. No se ha verificado que formen parte del procedimiento de Los Bonales. La referencia anterior a un TSJ de la Comunidad Valenciana tampoco está respaldada para este caso de Ciudad Real. No se trasladan sus resultados ni cantidades.
-
-## Información pendiente de acreditar
-
-Al 17 de octubre de 2026, no constan el número de sentencia o ECLI, el original judicial ni una resolución acreditada de apelación, casación o ejecución. Eso no demuestra que no existan. No está acreditada la firmeza de la condena ni el cierre judicial de la causa.
-
-La recopilación Casos Aislados remite a una noticia de DCLM cuyo enlace no se recuperó; sus datos no sustituyen las resoluciones judiciales. No hay un PDF original verificable para incorporar a documentos.

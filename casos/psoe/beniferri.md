@@ -9,29 +9,30 @@ firmeza: Sin determinar
 estado: Absolución por prevaricación; condena por acoso firme según Europa Press; ejecución pendiente de verificar
 lugar: Benferri, Vega Baja del Segura (Comunidad Valenciana)
 coste: 42575.54
-descripcion: >-
-  Luis Vicente Mateo, alcalde de Benferri (PSPV-PSOE), fue absuelto en el procedimiento por prevaricación
-  relacionado con la retirada del registro de reparos sobre dietas y desplazamientos. Diario de la Vega
-  publicó la absolución del Juzgado de lo Penal número 1 de Orihuela el 4 de septiembre de 2018: la resolución
-  apreció una actuación administrativamente ilegal, pero no el grado de arbitrariedad penal exigido, y
-  consideró justificados los gastos. No debe presentarse ese procedimiento como una condena por dietas
-  irregulares.
+descripcion: |-
+  Luis Vicente Mateo, alcalde de Benferri (PSPV-PSOE), fue absuelto en el procedimiento por prevaricación relacionado con la retirada del registro de reparos sobre dietas y desplazamientos. Diario de la Vega publicó la absolución del Juzgado de lo Penal número 1 de Orihuela el 4 de septiembre de 2018: la resolución apreció una actuación administrativamente ilegal, pero no el grado de arbitrariedad penal exigido, y consideró justificados los gastos. No debe presentarse ese procedimiento como una condena por dietas irregulares.
 
+  En otro procedimiento, el Juzgado de lo Penal número 3 de Orihuela lo condenó por acoso laboral al secretario-interventor. Europa Press publicó el fallo el 21 de marzo de 2023 y lo situó en febrero de ese año, sin precisar el día. Según esa información, los hechos probados situaban el inicio del hostigamiento en septiembre de 2011, no después de los reparos de 2014. La pena fue de cuatro meses de prisión, con inhabilitación especial para el sufragio pasivo durante la condena y una atenuante muy cualificada de dilaciones indebidas. La indemnización ascendió a 42.575,54 euros, con responsabilidad civil subsidiaria del Ayuntamiento.
 
-  En otro procedimiento, el Juzgado de lo Penal número 3 de Orihuela lo condenó por acoso laboral al
-  secretario-interventor. Europa Press publicó el fallo el 21 de marzo de 2023 y lo situó en febrero de ese
-  año, sin precisar el día. Según esa información, los hechos probados situaban el inicio del hostigamiento en
-  septiembre de 2011, no después de los reparos de 2014. La pena fue de cuatro meses de prisión, con
-  inhabilitación especial para el sufragio pasivo durante la condena y una atenuante muy cualificada de
-  dilaciones indebidas. La indemnización ascendió a 42.575,54 euros, con responsabilidad civil subsidiaria del
-  Ayuntamiento.
+  Europa Press informó en octubre de 2025 de una providencia del Tribunal Supremo de 10 de julio de 2025 que inadmitió la casación y contra la que no cabía recurso. Esta ficha atribuye a esa información la firmeza de la condena: no se ha obtenido la providencia original ni la resolución intermedia de apelación. Tampoco se ha verificado la ejecución de la prisión ni el pago de la indemnización. Una referencia de marzo de 2026 sobre su asunción municipal carece de corroboración documental al 17 de octubre de 2026.
 
+  ### Dos procedimientos y resultados diferentes
 
-  Europa Press informó en octubre de 2025 de una providencia del Tribunal Supremo de 10 de julio de 2025 que
-  inadmitió la casación y contra la que no cabía recurso. Esta ficha atribuye a esa información la firmeza de
-  la condena: no se ha obtenido la providencia original ni la resolución intermedia de apelación. Tampoco se
-  ha verificado la ejecución de la prisión ni el pago de la indemnización. Una referencia de marzo de 2026
-  sobre su asunción municipal carece de corroboración documental al 17 de octubre de 2026.
+  La absolución por prevaricación relativa a los reparos de dietas debe distinguirse de la condena por acoso laboral. La información de [Diario de la Vega de 4 de septiembre de 2018](https://www.diariodelavega.com/absuelven-al-alcalde-de-benferri-de-un-delito-de-prevaricacion-por-gastos-en-dietas-y-desplazamientos/) recoge la absolución y la justificación de los gastos. No está acreditada la irregularidad penal de las dietas ni una contratación externa.
+
+  La [información directa de Europa Press de 21 de marzo de 2023](https://www.europapress.es/comunitat-valenciana/noticia-juzgado-condena-cuatro-meses-carcel-alcalde-benferri-acoso-laboral-secretario-interventor-20230321150604.html) sitúa la querella por acoso en febrero de 2017 y el comienzo del hostigamiento descrito en la sentencia en septiembre de 2011. Resume aislamiento del funcionario, desautorizaciones públicas, obstáculos a su trabajo y comunicaciones a través de la Policía Local, con tres bajas entre 2015 y 2018. La sentencia es de febrero de 2023; el 21 de marzo es la fecha de publicación. No se asigna un día ficticio al inicio de los hechos o a la sentencia.
+
+  ### Indemnización y ejecución
+
+  Los **42.575,54 euros de daños personales indemnizables** comunicados por Europa Press se desglosan en 38.660,80 por curación y 3.914,74 por secuelas. No representa dinero sustraído, una multa ni gasto municipal ya ejecutado. La responsabilidad civil subsidiaria del Ayuntamiento no añade otra indemnización por igual importe. Los gastos de dietas objeto del procedimiento absolutorio no se suman a este daño. No se ha verificado la aclaración sobre intereses ni su liquidación.
+
+  El [índice de Habilitados Nacionales](https://habilitados-nacionales.com/zona/alicante/benferri/) enlaza, con fecha 31 de marzo de 2026, una [noticia de Información sobre la indemnización municipal](https://www.informacion.es/vega-baja/2026/03/31/alcalde-socialista-luis-vicente-mateo-benferri-indemnizacion-condena-acoso-laboral-secretario-42-000-euros-128612699.html). El índice ofrece el título, pero el texto completo no está accesible. Quedan por contrastar el eventual acuerdo municipal, su alcance y el pago efectivo. Esa referencia no acredita por sí sola un desembolso.
+
+  ### Información pendiente de acreditar al 17 de octubre de 2026
+
+  No se han obtenido los originales de la absolución, la sentencia por acoso, la apelación o la providencia del Supremo. La firmeza se atribuye a la información de Europa Press, que dice haber consultado la providencia de inadmisión y comunica que no cabía recurso. No se infiere el cumplimiento de la prisión, su suspensión o sustitución, ni el cierre de toda ejecución. No consta una fecha de cierre global.
+
+  No se dispone de un original judicial verificable. Las fechas de las entradas de 2017, 2018 y 2023 corresponden a publicaciones, expresamente diferenciadas de los actos. El municipio se denomina Benferri.
 resumen: Absolución por prevaricación sobre reparos de dietas y condena por acoso al secretario-interventor, firme
   según Europa Press; ejecución pendiente de cotejo.
 tribunal:
@@ -99,21 +100,3 @@ cronologia:
   type: sentencia
   relevancia: alta
 ---
-
-## Dos procedimientos y resultados diferentes
-
-La absolución por prevaricación relativa a los reparos de dietas debe distinguirse de la condena por acoso laboral. La información de [Diario de la Vega de 4 de septiembre de 2018](https://www.diariodelavega.com/absuelven-al-alcalde-de-benferri-de-un-delito-de-prevaricacion-por-gastos-en-dietas-y-desplazamientos/) recoge la absolución y la justificación de los gastos. No está acreditada la irregularidad penal de las dietas ni una contratación externa.
-
-La [información directa de Europa Press de 21 de marzo de 2023](https://www.europapress.es/comunitat-valenciana/noticia-juzgado-condena-cuatro-meses-carcel-alcalde-benferri-acoso-laboral-secretario-interventor-20230321150604.html) sitúa la querella por acoso en febrero de 2017 y el comienzo del hostigamiento descrito en la sentencia en septiembre de 2011. Resume aislamiento del funcionario, desautorizaciones públicas, obstáculos a su trabajo y comunicaciones a través de la Policía Local, con tres bajas entre 2015 y 2018. La sentencia es de febrero de 2023; el 21 de marzo es la fecha de publicación. No se asigna un día ficticio al inicio de los hechos o a la sentencia.
-
-## Indemnización y ejecución
-
-Los **42.575,54 euros de daños personales indemnizables** comunicados por Europa Press se desglosan en 38.660,80 por curación y 3.914,74 por secuelas. No representa dinero sustraído, una multa ni gasto municipal ya ejecutado. La responsabilidad civil subsidiaria del Ayuntamiento no añade otra indemnización por igual importe. Los gastos de dietas objeto del procedimiento absolutorio no se suman a este daño. No se ha verificado la aclaración sobre intereses ni su liquidación.
-
-El [índice de Habilitados Nacionales](https://habilitados-nacionales.com/zona/alicante/benferri/) enlaza, con fecha 31 de marzo de 2026, una [noticia de Información sobre la indemnización municipal](https://www.informacion.es/vega-baja/2026/03/31/alcalde-socialista-luis-vicente-mateo-benferri-indemnizacion-condena-acoso-laboral-secretario-42-000-euros-128612699.html). El índice ofrece el título, pero el texto completo no está accesible. Quedan por contrastar el eventual acuerdo municipal, su alcance y el pago efectivo. Esa referencia no acredita por sí sola un desembolso.
-
-## Información pendiente de acreditar al 17 de octubre de 2026
-
-No se han obtenido los originales de la absolución, la sentencia por acoso, la apelación o la providencia del Supremo. La firmeza se atribuye a la información de Europa Press, que dice haber consultado la providencia de inadmisión y comunica que no cabía recurso. No se infiere el cumplimiento de la prisión, su suspensión o sustitución, ni el cierre de toda ejecución. No consta una fecha de cierre global.
-
-No se dispone de un original judicial verificable. Las fechas de las entradas de 2017, 2018 y 2023 corresponden a publicaciones, expresamente diferenciadas de los actos. El municipio se denomina Benferri.

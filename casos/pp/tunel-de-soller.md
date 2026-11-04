@@ -9,20 +9,36 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absoluciones; cohecho prescrito
-descripcion: >-
-  La causa penal examinó la concesión del túnel de Sóller y la entrega de 50 millones de pesetas por su
-  adjudicatario, Antoni Cuart, con fondos destinados a pagos del PP balear. Gabriel Cañellas y José Antonio
-  Berastáin fueron absueltos por prescripción del cohecho; la prevaricación no quedó establecida. Jeroni Saiz
-  fue absuelto de prevaricación. La sentencia 1417/1998 del Supremo, de 16 de diciembre, estimó parcialmente
-  el recurso de Izquierda Unida respecto de Cuart, apreció también en su conducta cohecho y lo absolvió por
-  prescripción en una segunda sentencia. No hubo condena penal ejecutable por esos hechos. Los 50 millones de
-  pesetas son la dádiva examinada, no un perjuicio patrimonial público cuantificado.
+descripcion: |-
+  La causa penal examinó la concesión del túnel de Sóller y la entrega de 50 millones de pesetas por su adjudicatario, Antoni Cuart, con fondos destinados a pagos del PP balear. Gabriel Cañellas y José Antonio Berastáin fueron absueltos por prescripción del cohecho; la prevaricación no quedó establecida. Jeroni Saiz fue absuelto de prevaricación. La sentencia 1417/1998 del Supremo, de 16 de diciembre, estimó parcialmente el recurso de Izquierda Unida respecto de Cuart, apreció también en su conducta cohecho y lo absolvió por prescripción en una segunda sentencia. No hubo condena penal ejecutable por esos hechos. Los 50 millones de pesetas son la dádiva examinada, no un perjuicio patrimonial público cuantificado.
 
+  Debe distinguirse ese proceso del litigio contencioso sobre el rescate de la concesión acordado en 2017: el Supremo confirmó su anulación en julio de 2023. Se han verificado ambas sentencias del Supremo, pero falta el original autónomo de la sentencia penal balear de 1997, el testimonio de firmeza y la liquidación económica final del rescate. No está acreditada su ejecución al 17 de octubre de 2026.
 
-  Debe distinguirse ese proceso del litigio contencioso sobre el rescate de la concesión acordado en 2017: el
-  Supremo confirmó su anulación en julio de 2023. Se han verificado ambas sentencias del Supremo, pero falta
-  el original autónomo de la sentencia penal balear de 1997, el testimonio de firmeza y la liquidación
-  económica final del rescate. No está acreditada su ejecución al 17 de octubre de 2026.
+  ### Hechos y decisiones penales
+
+  El procedimiento se inició por una denuncia de 7 de abril de 1995. La sentencia del Supremo describe una entrega de 50 millones de pesetas el 30 de enero de 1989 y el fraccionamiento posterior del dinero en diez cheques, con pagos al partido y a proveedores. El destino político del dinero no excluyó la apreciación del cohecho. El pago no se transforma por ello en un daño público de 300.000 euros.
+
+  La sentencia balear de 24 de julio de 1997, reproducida en la casación, distinguió las absoluciones de prevaricación de las derivadas de la prescripción del cohecho. El Supremo descartó que el relato probado permitiera apreciar la prevaricación solicitada por la acusación. No está acreditada judicialmente una adjudicación prevaricadora por alteración de la licitación.
+
+  El Supremo desestimó los recursos de las defensas, pero estimó parcialmente el de Izquierda Unida en relación con Cuart: apreció el cohecho del particular y, en su segunda sentencia de la misma fecha, lo absolvió al estar prescrito. Esta modificación no supuso imponerle una pena. La prescripción extingue la responsabilidad criminal y no equivale a declarar inexistentes todos los hechos descritos.
+
+  Las identidades y los resultados individuales se contrastan con las noticias nominales de El País, Diari de Balears y Servimedia. No se asignan nombres a los seudónimos de CENDOJ. El original de 1998 tiene fecha de 16 de diciembre; la fecha 15 que figura en una noticia de Última Hora no sustituye la fecha judicial.
+
+  ### Concesión y rescate: otro procedimiento
+
+  La apertura del túnel el 19 de febrero de 1997 fue un hito de la obra, no una resolución penal. El rescate aprobado por el Consell en 2017 generó un litigio contencioso-administrativo propio. La sentencia 1097/2023 del Supremo, de 25 de julio, confirmó su anulación. En sus antecedentes recoge el importe de 16.288.200,50 euros fijado en el acuerdo de diciembre de 2017: es una indemnización administrativa prevista en el rescate, no el soborno de 1989 ni una responsabilidad civil penal. No se suman ambas cantidades.
+
+  Europa Press informó el 16 de enero de 2025 de que la concesionaria reclamaba 11,9 millones adicionales a los 16,3 millones abonados en 2017, mientras el Consell defendía una valoración de 13 millones. La previsión de 31,5 millones de la noticia era condicional e incluía intereses estimados, no un importe judicialmente concedido. La información sitúa la sentencia del Supremo en septiembre de 2023; se mantiene como fecha del acto el 25 de julio que consta en el original. La liquidación final y los posibles actos de ejecución posteriores del rescate no se han verificado. Tampoco se dispone del original independiente de la sentencia penal balear de 1997 ni de un testimonio separado de firmeza. Estas lagunas no se cubren suponiendo que no hubo más actuaciones.
+
+  ### Fuentes
+
+  - [Tribunal Supremo, sentencia 1417/1998 y segunda sentencia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3f9703885ae4376d&encode=true&databasematch=AN)
+  - [El País, resultados de instancia, 29 de julio de 1997](https://elpais.com/diario/1997/07/29/espana/870127211_850215.html)
+  - [Diari de Balears, casación, 16 de diciembre de 1998](https://www.dbalears.cat/balears/balears/1998/12/16/37602/el-suprem-ratifica-que-canellas-va-cometre-suborn-en-el-cas-tunel.html)
+  - [El País, identificación y resultado de Berastáin, 6 de abril de 2007](https://elpais.com/diario/2007/04/06/espana/1175810409_850215.html)
+  - [Servimedia, vista de casación, 10 de noviembre de 1998](https://www.servimedia.es/noticias/tunel-soller-supremo-decidira-dos-semanas-si-ratifica-sentencia-canellas-delito-cohecho-------alto-tribunal-celebro-hoy-vista-recursos------resolucion-costo-cargo-ex-presidente-balear/1410993623)
+  - [Última Hora, aniversario de la apertura, 19 de febrero de 2022](https://www.ultimahora.es/noticias/part-forana/2022/02/19/1701509/anos-cruzando-tunel.html)
+  - [Tribunal Supremo, sentencia 1097/2023 sobre rescate](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a4bef1d40f55fa76a0a8778d75e36f0d&encode=true&databasematch=AN)
 resumen: Absoluciones y prescripción del cohecho en la concesión del túnel de Sóller
 lugar: Sóller, Mallorca (Illes Balears)
 tribunal:
@@ -142,29 +158,3 @@ cronologia:
   urls:
   - https://www.europapress.es/illes-balears/noticia-empresa-tunel-soller-pide-12-millones-euros-mas-rescate-anulado-20250116100818.html
 ---
-
-## Hechos y decisiones penales
-
-El procedimiento se inició por una denuncia de 7 de abril de 1995. La sentencia del Supremo describe una entrega de 50 millones de pesetas el 30 de enero de 1989 y el fraccionamiento posterior del dinero en diez cheques, con pagos al partido y a proveedores. El destino político del dinero no excluyó la apreciación del cohecho. El pago no se transforma por ello en un daño público de 300.000 euros.
-
-La sentencia balear de 24 de julio de 1997, reproducida en la casación, distinguió las absoluciones de prevaricación de las derivadas de la prescripción del cohecho. El Supremo descartó que el relato probado permitiera apreciar la prevaricación solicitada por la acusación. No está acreditada judicialmente una adjudicación prevaricadora por alteración de la licitación.
-
-El Supremo desestimó los recursos de las defensas, pero estimó parcialmente el de Izquierda Unida en relación con Cuart: apreció el cohecho del particular y, en su segunda sentencia de la misma fecha, lo absolvió al estar prescrito. Esta modificación no supuso imponerle una pena. La prescripción extingue la responsabilidad criminal y no equivale a declarar inexistentes todos los hechos descritos.
-
-Las identidades y los resultados individuales se contrastan con las noticias nominales de El País, Diari de Balears y Servimedia. No se asignan nombres a los seudónimos de CENDOJ. El original de 1998 tiene fecha de 16 de diciembre; la fecha 15 que figura en una noticia de Última Hora no sustituye la fecha judicial.
-
-## Concesión y rescate: otro procedimiento
-
-La apertura del túnel el 19 de febrero de 1997 fue un hito de la obra, no una resolución penal. El rescate aprobado por el Consell en 2017 generó un litigio contencioso-administrativo propio. La sentencia 1097/2023 del Supremo, de 25 de julio, confirmó su anulación. En sus antecedentes recoge el importe de 16.288.200,50 euros fijado en el acuerdo de diciembre de 2017: es una indemnización administrativa prevista en el rescate, no el soborno de 1989 ni una responsabilidad civil penal. No se suman ambas cantidades.
-
-Europa Press informó el 16 de enero de 2025 de que la concesionaria reclamaba 11,9 millones adicionales a los 16,3 millones abonados en 2017, mientras el Consell defendía una valoración de 13 millones. La previsión de 31,5 millones de la noticia era condicional e incluía intereses estimados, no un importe judicialmente concedido. La información sitúa la sentencia del Supremo en septiembre de 2023; se mantiene como fecha del acto el 25 de julio que consta en el original. La liquidación final y los posibles actos de ejecución posteriores del rescate no se han verificado. Tampoco se dispone del original independiente de la sentencia penal balear de 1997 ni de un testimonio separado de firmeza. Estas lagunas no se cubren suponiendo que no hubo más actuaciones.
-
-## Fuentes
-
-- [Tribunal Supremo, sentencia 1417/1998 y segunda sentencia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3f9703885ae4376d&encode=true&databasematch=AN)
-- [El País, resultados de instancia, 29 de julio de 1997](https://elpais.com/diario/1997/07/29/espana/870127211_850215.html)
-- [Diari de Balears, casación, 16 de diciembre de 1998](https://www.dbalears.cat/balears/balears/1998/12/16/37602/el-suprem-ratifica-que-canellas-va-cometre-suborn-en-el-cas-tunel.html)
-- [El País, identificación y resultado de Berastáin, 6 de abril de 2007](https://elpais.com/diario/2007/04/06/espana/1175810409_850215.html)
-- [Servimedia, vista de casación, 10 de noviembre de 1998](https://www.servimedia.es/noticias/tunel-soller-supremo-decidira-dos-semanas-si-ratifica-sentencia-canellas-delito-cohecho-------alto-tribunal-celebro-hoy-vista-recursos------resolucion-costo-cargo-ex-presidente-balear/1410993623)
-- [Última Hora, aniversario de la apertura, 19 de febrero de 2022](https://www.ultimahora.es/noticias/part-forana/2022/02/19/1701509/anos-cruzando-tunel.html)
-- [Tribunal Supremo, sentencia 1097/2023 sobre rescate](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a4bef1d40f55fa76a0a8778d75e36f0d&encode=true&databasematch=AN)

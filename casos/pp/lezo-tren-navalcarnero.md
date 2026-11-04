@@ -9,44 +9,22 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: pendiente de juicio
-descripcion: >-
-  La pieza separada número 3 de Lezo examina la presunta comisión destinada a obtener para una UTE de OHL la
-  concesión de la línea ferroviaria Móstoles Central–Navalcarnero y una posterior modificación del contrato.
-  El auto de apertura de juicio oral de 4 de junio de 2021 sitúa la adjudicación por Mintra el 22 de octubre
-  de 2007. Reproduce la acusación de que se destinaron 2,5 millones de dólares, aproximadamente 1,8 millones
-  de euros, a retribuir a cargos públicos. Son hechos sometidos a acusación, no una condena. El importe no se
-  presenta como daño patrimonial judicialmente fijado, ni se suma a la inversión del proyecto, las multas
-  solicitadas o las reclamaciones por liquidación del contrato.
+descripcion: |-
+  La pieza separada número 3 de Lezo examina la presunta comisión destinada a obtener para una UTE de OHL la concesión de la línea ferroviaria Móstoles Central–Navalcarnero y una posterior modificación del contrato. El auto de apertura de juicio oral de 4 de junio de 2021 sitúa la adjudicación por Mintra el 22 de octubre de 2007. Reproduce la acusación de que se destinaron 2,5 millones de dólares, aproximadamente 1,8 millones de euros, a retribuir a cargos públicos. Son hechos sometidos a acusación, no una condena. El importe no se presenta como daño patrimonial judicialmente fijado, ni se suma a la inversión del proyecto, las multas solicitadas o las reclamaciones por liquidación del contrato.
 
+  Según el relato acusatorio, Francisco Javier López Madrid, entonces consejero de OHL, y Rafael Arturo Martín de Nicolás Cañas, responsable de Construcción Nacional, idearon una oferta económica baja que sería compensada con un modificado. Felicísimo Damián Ramos Ramos habría canalizado los fondos desde España a sociedades mexicanas del grupo y después a una cuenta suiza de Lauryn Group, sociedad de Adrián de la Joya Ruiz de Velasco. Los supuestos beneficiarios eran Ildefonso de Miguel Rodríguez e Ignacio González, entonces altos cargos del Canal y de la Comunidad de Madrid. El propio auto admite que no se conocían las circunstancias concretas del reparto final entre ambos; no puede afirmarse que se haya probado cuánto recibió cada uno. La solicitud de modificado no prosperó.
 
-  Según el relato acusatorio, Francisco Javier López Madrid, entonces consejero de OHL, y Rafael Arturo Martín
-  de Nicolás Cañas, responsable de Construcción Nacional, idearon una oferta económica baja que sería
-  compensada con un modificado. Felicísimo Damián Ramos Ramos habría canalizado los fondos desde España a
-  sociedades mexicanas del grupo y después a una cuenta suiza de Lauryn Group, sociedad de Adrián de la Joya
-  Ruiz de Velasco. Los supuestos beneficiarios eran Ildefonso de Miguel Rodríguez e Ignacio González, entonces
-  altos cargos del Canal y de la Comunidad de Madrid. El propio auto admite que no se conocían las
-  circunstancias concretas del reparto final entre ambos; no puede afirmarse que se haya probado cuánto
-  recibió cada uno. La solicitud de modificado no prosperó.
+  El auto de 29 de octubre de 2020, notificado el 3 de noviembre, continuó el procedimiento abreviado respecto de seis personas y acordó el sobreseimiento provisional para Juan Miguel Villar Mir, Tomás García Madrid y Jesús Trabada Guijarro. No es una absolución tras juicio ni un sobreseimiento libre. El auto de 4 de junio de 2021 abrió juicio contra los seis acusados por los delitos atribuidos por las distintas acusaciones, entre ellos cohecho, tráfico de influencias, falsedad mercantil y fraude a las administraciones. Las peticiones no son iguales para todos: la Fiscalía solicitaba cuatro años de prisión para González y De Miguel, seis años y seis meses para López Madrid, Martín de Nicolás y Ramos, y tres años y seis meses para De la Joya. Son solicitudes de 2020 reproducidas en 2021, no penas impuestas ni necesariamente las conclusiones definitivas de un juicio posterior.
 
+  El 7 de septiembre de 2026 El Plural informó de un señalamiento para comenzar este juicio el 28 de junio de 2027. Falta la resolución de señalamiento para comprobar su calendario y posibles cambios; una fecha futura anunciada no acredita la celebración de la vista. No se ha verificado sentencia penal, resolución posterior de recursos o cambio individual de situación procesal en esta pieza a la fecha indicada. La documentación obtenida permite corregir los actos históricos, pero no presentar como concluido el expediente. Los procedimientos de Inassa, Emissao, Canal Golf y Púnica, así como los litigios sobre rescisión y liquidación de la concesión ferroviaria, tienen objeto y resultados propios que no se trasladan a estos acusados.
 
-  El auto de 29 de octubre de 2020, notificado el 3 de noviembre, continuó el procedimiento abreviado respecto
-  de seis personas y acordó el sobreseimiento provisional para Juan Miguel Villar Mir, Tomás García Madrid y
-  Jesús Trabada Guijarro. No es una absolución tras juicio ni un sobreseimiento libre. El auto de 4 de junio
-  de 2021 abrió juicio contra los seis acusados por los delitos atribuidos por las distintas acusaciones,
-  entre ellos cohecho, tráfico de influencias, falsedad mercantil y fraude a las administraciones. Las
-  peticiones no son iguales para todos: la Fiscalía solicitaba cuatro años de prisión para González y De
-  Miguel, seis años y seis meses para López Madrid, Martín de Nicolás y Ramos, y tres años y seis meses para
-  De la Joya. Son solicitudes de 2020 reproducidas en 2021, no penas impuestas ni necesariamente las
-  conclusiones definitivas de un juicio posterior.
+  La hipótesis penal vincula una oferta económica ventajosa, el pago de una comisión y la expectativa de un modificado contractual. Las transferencias internacionales y las facturas descritas en los autos sirven de soporte a las acusaciones. No equivalen a una declaración de culpabilidad tras juicio, y los autos reconocen que no se pudo precisar el reparto final del dinero entre González y De Miguel.
 
+  Los resultados de la instrucción fueron individuales. Seis personas llegaron a la apertura de juicio de junio de 2021. Otras tres obtuvieron el archivo provisional en octubre de 2020 por falta de indicios suficientes. La solicitud de archivo de Fiscalía y la decisión del juez se distinguen; tampoco se convierte ese archivo provisional en absolución o sobreseimiento libre.
 
-  El 7 de septiembre de 2026 El Plural informó de un señalamiento para comenzar este juicio el 28 de junio de
-  2027. Falta la resolución de señalamiento para comprobar su calendario y posibles cambios; una fecha futura
-  anunciada no acredita la celebración de la vista. No se ha verificado sentencia penal, resolución posterior
-  de recursos o cambio individual de situación procesal en esta pieza a la fecha indicada. La documentación
-  obtenida permite corregir los actos históricos, pero no presentar como concluido el expediente. Los
-  procedimientos de Inassa, Emissao, Canal Golf y Púnica, así como los litigios sobre rescisión y liquidación
-  de la concesión ferroviaria, tienen objeto y resultados propios que no se trasladan a estos acusados.
+  La Fiscalía solicitó penas distintas según la intervención atribuida. Las multas y el decomiso pedidos por las acusaciones son pretensiones, no cantidades definitivamente impuestas. La comisión alegada no se suma al presupuesto de inversión ni a los pagos reclamados en los litigios contractuales sobre la obra paralizada.
+
+  La noticia de septiembre de 2026 anuncia un juicio para junio de 2027. Falta la resolución de señalamiento y cualquier cambio posterior para cerrar el calendario. No se traslada a esta pieza el resultado de Canal Golf, Inassa, Emissao u otros procedimientos en los que aparezcan las mismas personas.
 resumen: Pieza 3 de Lezo sobre una presunta comisión de 2,5 millones de dólares vinculada a la concesión del tren
   Móstoles–Navalcarnero. Juicio abierto contra seis acusados y archivo provisional para otros tres; señalamiento
   para junio de 2027 anunciado en 2026, pendiente de cotejo judicial.
@@ -198,11 +176,3 @@ cronologia:
   urls:
   - https://www.elplural.com/sociedad/tribunales/empieza-juicio-caso-lezo-diez-anos-despues-radiografia-no-perderte_399567102
 ---
-
-La hipótesis penal vincula una oferta económica ventajosa, el pago de una comisión y la expectativa de un modificado contractual. Las transferencias internacionales y las facturas descritas en los autos sirven de soporte a las acusaciones. No equivalen a una declaración de culpabilidad tras juicio, y los autos reconocen que no se pudo precisar el reparto final del dinero entre González y De Miguel.
-
-Los resultados de la instrucción fueron individuales. Seis personas llegaron a la apertura de juicio de junio de 2021. Otras tres obtuvieron el archivo provisional en octubre de 2020 por falta de indicios suficientes. La solicitud de archivo de Fiscalía y la decisión del juez se distinguen; tampoco se convierte ese archivo provisional en absolución o sobreseimiento libre.
-
-La Fiscalía solicitó penas distintas según la intervención atribuida. Las multas y el decomiso pedidos por las acusaciones son pretensiones, no cantidades definitivamente impuestas. La comisión alegada no se suma al presupuesto de inversión ni a los pagos reclamados en los litigios contractuales sobre la obra paralizada.
-
-La noticia de septiembre de 2026 anuncia un juicio para junio de 2027. Falta la resolución de señalamiento y cualquier cambio posterior para cerrar el calendario. No se traslada a esta pieza el resultado de Canal Golf, Inassa, Emissao u otros procedimientos en los que aparezcan las mismas personas.

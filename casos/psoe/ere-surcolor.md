@@ -7,22 +7,20 @@ firmeza: Sin determinar
 "completado": false
 "fechaInicio": "2015-09-30"
 "estado": "Condenas y absoluciones; recursos y ejecución pendientes de comprobar"
-"descripcion": "Pieza de las ayudas a Surcolor S.A. y Surcolor Óptica S.A., separada del procedimiento general de\
-  \ los ERE. La sentencia penal 3/2025, de 7 de enero, notificada el día 9, condenó a once personas y absolvió a\
-  \ cinco. Antonio Rivas recibió tres años y seis meses de prisión y siete años de inhabilitación absoluta, y fue\
-  \ absuelto de tráfico de influencias. Daniel Alberto Rivera —no Daniel Rivero— recibió tres años de prisión, 452\
-  \ euros de multa y 24 meses de inhabilitación especial por prevaricación, falsedad oficial y malversación. Antonio\
-  \ Fernández, Agustín Barberá y Juan Márquez fueron absueltos por cosa juzgada; otras dos absoluciones respondieron\
-  \ al fallecimiento de los acusados.\n\nEl volumen final de las pólizas fue de 2.793.651,61 euros, distinto del\
-  \ quebranto penal fijado en 984.921,23 euros. Este último es el importe mostrado como coste, declarado por la\
-  \ sentencia penal, entonces recurrible, y no se multiplica por los responsables solidarios. En otro procedimiento,\
-  \ la sentencia contable 4/2025, de 8 de septiembre, declaró un alcance de 68.058,05 euros por la financiación\
-  \ de dos personas ajenas a la plantilla y desestimó la demanda contra otros cinco demandados. Ese alcance representa\
-  \ una parte de los mismos pagos y no se añade al penal.\n\nNo se han comprobado las casaciones, apelaciones, firmeza\
-  \ ni ejecución posteriores de ambas resoluciones hasta el 17 de octubre de 2026. La copia contable está identificada\
-  \ como no firme. Las absoluciones por cosa juzgada en esta pieza no equivalen a un pronunciamiento general sobre\
-  \ todas las ayudas: los efectos de las resoluciones del Constitucional y de otras piezas deben aplicarse individualmente.\
-  \ Falta completar el seguimiento nominal y las posibles resoluciones posteriores."
+"descripcion": |-
+  Pieza de las ayudas a Surcolor S.A. y Surcolor Óptica S.A., separada del procedimiento general de los ERE. La sentencia penal 3/2025, de 7 de enero, notificada el día 9, condenó a once personas y absolvió a cinco. Antonio Rivas recibió tres años y seis meses de prisión y siete años de inhabilitación absoluta, y fue absuelto de tráfico de influencias. Daniel Alberto Rivera —no Daniel Rivero— recibió tres años de prisión, 452 euros de multa y 24 meses de inhabilitación especial por prevaricación, falsedad oficial y malversación. Antonio Fernández, Agustín Barberá y Juan Márquez fueron absueltos por cosa juzgada; otras dos absoluciones respondieron al fallecimiento de los acusados.
+
+  El volumen final de las pólizas fue de 2.793.651,61 euros, distinto del quebranto penal fijado en 984.921,23 euros. Este último es el importe mostrado como coste, declarado por la sentencia penal, entonces recurrible, y no se multiplica por los responsables solidarios. En otro procedimiento, la sentencia contable 4/2025, de 8 de septiembre, declaró un alcance de 68.058,05 euros por la financiación de dos personas ajenas a la plantilla y desestimó la demanda contra otros cinco demandados. Ese alcance representa una parte de los mismos pagos y no se añade al penal.
+
+  No se han comprobado las casaciones, apelaciones, firmeza ni ejecución posteriores de ambas resoluciones hasta el 17 de octubre de 2026. La copia contable está identificada como no firme. Las absoluciones por cosa juzgada en esta pieza no equivalen a un pronunciamiento general sobre todas las ayudas: los efectos de las resoluciones del Constitucional y de otras piezas deben aplicarse individualmente. Falta completar el seguimiento nominal y las posibles resoluciones posteriores.
+
+  El coste de las pólizas, la financiación comprometida y los pagos efectivamente malversados son magnitudes diferentes. La sentencia penal ordena resarcir 984.921,23 euros, con un grupo de responsables solidarios y otros obligados hasta importes menores. Esos límites no son cantidades adicionales. La responsabilidad subsidiaria de Fiteqa-CCOO también depende de la atribuida al representante sindical. El fallo difiere a ejecución el pronunciamiento sobre el comiso solicitado por la Fiscalía: no se presenta como decomiso ya acordado.
+
+  La sentencia contable de septiembre de 2025 parte de los mismos pagos y limita el alcance a la fracción imputable a los dos beneficiarios ajenos a la plantilla. Declara responsabilidad solidaria de las herederas de Guerrero y de otros dos demandados, con límite sucesorio para las primeras. La prensa identifica a estos últimos como responsables empresariales de Surcolor; el documento emplea iniciales y no se reconstruye por ellas una identidad. La desestimación de la demanda contable contra Antonio Rivas y Juan Lanzas no revoca sus condenas penales: son jurisdicciones y presupuestos de responsabilidad distintos.
+
+  La protección frente al doble enjuiciamiento explica las absoluciones de Fernández, Barberá y Márquez en esta pieza. No se deduce de ellas el resultado final del procedimiento específico tras los amparos constitucionales, ni se anulan automáticamente las condenas de los demás. Faltan las resoluciones sobre posibles recursos y ejecución y parte del detalle nominal de los once condenados; no se considera cerrado el caso por falta de nuevas noticias.
+
+  Fuentes: [sentencia penal original](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=501c5df7f166faf3a0a8778d75e36f0d&encode=true&databasematch=AN), [nota oficial del CGPJ de 9 de enero de 2025](https://www.poderjudicial.es/cgpj/en/Judiciary/Pressroom/News-archive/La-Audiencia-de-Sevilla-impone-condenas-de-tres-anos-y-medio-y-tres-anos-de-carcel-a-dos-exaltos-cargos-de-la-Junta-de-Andalucia-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-a-Surcolor), [Europa Press, reproducción con resultados nominales](https://www.diariosigloxxi.com/texto-ep/mostrar/20250109142904/absueltos-tres-ex-altos-cargos-pieza-ere-surcolor-condenados-carcel-otros-exsindicalista-ugt), [sentencia contable original](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2025/Sentencia_4_2025.pdf) y [Diario de Sevilla, resultado contable y personas identificadas](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/condena-herederos-guerrero-devolver-68000-euros_0_2004730194.html).
 "resumen": "Ayudas a Surcolor: once condenas y cinco absoluciones en enero de 2025; procedimiento contable distinto\
   \ en septiembre."
 "coste": 984921.23
@@ -140,11 +138,3 @@ firmeza: Sin determinar
   - "https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2025/Sentencia_4_2025.pdf"
   - "https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/condena-herederos-guerrero-devolver-68000-euros_0_2004730194.html"
 ---
-
-El coste de las pólizas, la financiación comprometida y los pagos efectivamente malversados son magnitudes diferentes. La sentencia penal ordena resarcir 984.921,23 euros, con un grupo de responsables solidarios y otros obligados hasta importes menores. Esos límites no son cantidades adicionales. La responsabilidad subsidiaria de Fiteqa-CCOO también depende de la atribuida al representante sindical. El fallo difiere a ejecución el pronunciamiento sobre el comiso solicitado por la Fiscalía: no se presenta como decomiso ya acordado.
-
-La sentencia contable de septiembre de 2025 parte de los mismos pagos y limita el alcance a la fracción imputable a los dos beneficiarios ajenos a la plantilla. Declara responsabilidad solidaria de las herederas de Guerrero y de otros dos demandados, con límite sucesorio para las primeras. La prensa identifica a estos últimos como responsables empresariales de Surcolor; el documento emplea iniciales y no se reconstruye por ellas una identidad. La desestimación de la demanda contable contra Antonio Rivas y Juan Lanzas no revoca sus condenas penales: son jurisdicciones y presupuestos de responsabilidad distintos.
-
-La protección frente al doble enjuiciamiento explica las absoluciones de Fernández, Barberá y Márquez en esta pieza. No se deduce de ellas el resultado final del procedimiento específico tras los amparos constitucionales, ni se anulan automáticamente las condenas de los demás. Faltan las resoluciones sobre posibles recursos y ejecución y parte del detalle nominal de los once condenados; no se considera cerrado el caso por falta de nuevas noticias.
-
-Fuentes: [sentencia penal original](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=501c5df7f166faf3a0a8778d75e36f0d&encode=true&databasematch=AN), [nota oficial del CGPJ de 9 de enero de 2025](https://www.poderjudicial.es/cgpj/en/Judiciary/Pressroom/News-archive/La-Audiencia-de-Sevilla-impone-condenas-de-tres-anos-y-medio-y-tres-anos-de-carcel-a-dos-exaltos-cargos-de-la-Junta-de-Andalucia-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-a-Surcolor), [Europa Press, reproducción con resultados nominales](https://www.diariosigloxxi.com/texto-ep/mostrar/20250109142904/absueltos-tres-ex-altos-cargos-pieza-ere-surcolor-condenados-carcel-otros-exsindicalista-ugt), [sentencia contable original](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2025/Sentencia_4_2025.pdf) y [Diario de Sevilla, resultado contable y personas identificadas](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/condena-herederos-guerrero-devolver-68000-euros_0_2004730194.html).

@@ -8,34 +8,22 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Fiscalización y litigios distintos; desenlaces incompletos
-descripcion: >-
-  Esta ficha reúne asuntos municipales diferentes, no una única causa penal acreditada. La fiscalización de la
-  Cámara de Cuentas sobre el ejercicio 2007 fue aprobada el 17 de febrero de 2010 y publicada el 17 de junio
-  de 2010. Al examinar la venta de una parcela de Macenas, el órgano fiscalizador estimó una pérdida de
-  ingresos de 661.200 euros por la demora en adjudicarla. Es una conclusión de auditoría sobre posibles
-  responsabilidades, no una condena penal ni una responsabilidad contable declarada judicialmente. No se ha
-  documentado aquí su desenlace jurisdiccional.
+descripcion: |-
+  Esta ficha reúne asuntos municipales diferentes, no una única causa penal acreditada. La fiscalización de la Cámara de Cuentas sobre el ejercicio 2007 fue aprobada el 17 de febrero de 2010 y publicada el 17 de junio de 2010. Al examinar la venta de una parcela de Macenas, el órgano fiscalizador estimó una pérdida de ingresos de 661.200 euros por la demora en adjudicarla. Es una conclusión de auditoría sobre posibles responsabilidades, no una condena penal ni una responsabilidad contable declarada judicialmente. No se ha documentado aquí su desenlace jurisdiccional.
 
+  En marzo de 2015 se informó de multas coercitivas de 150 euros cada veinte días a la entonces alcaldesa Rosa María Cano para ejecutar un derribo. Según Europa Press, se trataba de la ejecución contencioso-administrativa de una sentencia de 2004, firme desde 2008. Estas multas no equivalen a una condena penal. Faltan los originales judiciales y la comprobación de la ejecución posterior.
 
-  En marzo de 2015 se informó de multas coercitivas de 150 euros cada veinte días a la entonces alcaldesa Rosa
-  María Cano para ejecutar un derribo. Según Europa Press, se trataba de la ejecución
-  contencioso-administrativa de una sentencia de 2004, firme desde 2008. Estas multas no equivalen a una
-  condena penal. Faltan los originales judiciales y la comprobación de la ejecución posterior.
+  La adjudicación de plazas de aparcamiento fue objeto de críticas del PSOE en octubre de 2014. Los dos millones de euros citados por ese partido eran el coste de construcción del aparcamiento, no un perjuicio fijado judicialmente. No se ha acreditado una imputación penal por esta denuncia política. Tampoco la crítica urbanística publicada en febrero de 2022 acredita una condena millonaria de ese año.
 
+  Un asunto distinto es la sentencia del Juzgado de lo Contencioso-Administrativo nº 1 de Almería difundida en agosto de 2025: obligaba al Ayuntamiento a pagar unos 795.026 euros de justiprecio, más intereses, por la expropiación de terrenos de Cueva Morales. No constituye una condena penal del alcalde. Francisco García Cerdá, nombrado alcalde el 7 de julio de 2023, era el responsable municipal que respondió públicamente; Rosa María Cano ya no ocupaba la alcaldía. No se han obtenido esa sentencia original ni pruebas suficientes sobre sus recursos, firmeza y cumplimiento. Los resultados de estos asuntos no deben trasladarse entre sí, y su situación completa al 15 de octubre de 2026 no está acreditada.
 
-  La adjudicación de plazas de aparcamiento fue objeto de críticas del PSOE en octubre de 2014. Los dos
-  millones de euros citados por ese partido eran el coste de construcción del aparcamiento, no un perjuicio
-  fijado judicialmente. No se ha acreditado una imputación penal por esta denuncia política. Tampoco la
-  crítica urbanística publicada en febrero de 2022 acredita una condena millonaria de ese año.
+  La [fiscalización publicada en el BOJA](https://www.juntadeandalucia.es/boja/2010/118/d50.pdf) analiza el ejercicio 2007. En sus apartados 66–80 y 174–176 examina la enajenación de suelo de Macenas y estima 661.200 euros de menores ingresos. La eventual responsabilidad contable o penal requiere un pronunciamiento distinto del informe auditor. No se equiparan esa cifra y el precio de adjudicación de 7.528.400 euros.
 
+  La [información de marzo de 2015](https://www.20minutos.es/noticia/2405958/0/juez-impone-multas-periodicas-150-euros-alcaldesa-mojacar-hasta-que-no-ejecute-derribo/) pertenece a la ejecución de una sentencia urbanística: las multas periódicas buscaban hacer cumplir el derribo. No acredita una condena penal por corrupción ni permite afirmar que la ejecución continúe pendiente en 2026. La referencia a una sentencia firme procede de esa crónica; no se ha obtenido el original ni el resultado posterior de la ejecución.
 
-  Un asunto distinto es la sentencia del Juzgado de lo Contencioso-Administrativo nº 1 de Almería difundida en
-  agosto de 2025: obligaba al Ayuntamiento a pagar unos 795.026 euros de justiprecio, más intereses, por la
-  expropiación de terrenos de Cueva Morales. No constituye una condena penal del alcalde. Francisco García
-  Cerdá, nombrado alcalde el 7 de julio de 2023, era el responsable municipal que respondió públicamente; Rosa
-  María Cano ya no ocupaba la alcaldía. No se han obtenido esa sentencia original ni pruebas suficientes sobre
-  sus recursos, firmeza y cumplimiento. Los resultados de estos asuntos no deben trasladarse entre sí, y su
-  situación completa al 15 de octubre de 2026 no está acreditada.
+  La [denuncia sobre el aparcamiento](https://www.elplural.com/autonomias/andalucia/la-alcaldesa-de-mojacar-su-pareja-y-miembros-del-pp-se-adjudican-plazas-del-parking-publico-que-costo-dos-millones_37434102) y las [críticas urbanísticas de 2022](https://www.teleprensa.com/articulo/provincia/psoe-somos-mojacar-afirma-que-prisas-alcaldesa-pp-urbanizar-terrenos-van-costar-mas-millon-euros-pueblo/202202241029191146511.html) son declaraciones políticas. No justifican atribuir la condición de investigado a familiares sin identificar o afirmar condenas que sus textos no documentan. Otra noticia, de [marzo de 2017](https://www.20minutos.es/noticia/2976068/0/tribunales-archivada-causa-abierta-contra-alcaldesa-mojacar-tras-contratacion/), recoge un comunicado municipal sobre el archivo de una causa por contratación de asistencia técnica en el Arbollón y el frontón: ese resultado se refiere a aquel expediente y no resuelve los demás asuntos de esta ficha. No se dispone de su resolución original ni de acreditación de firmeza.
+
+  La [sentencia de expropiación difundida en agosto de 2025](https://www.europapress.es/andalucia/almeria-00350/noticia-mojacar-almeria-culpa-psoe-1987-sentencia-le-obliga-pagar-795000-euros-expropiacion-20250807182957.html) obliga al Ayuntamiento al pago de un justiprecio y de intereses; no condena penalmente al alcalde. Las explicaciones del gobierno y las acusaciones de la oposición sobre el origen y los retrasos son posiciones políticas. Sin la resolución original y su ejecución no puede fijarse un perjuicio global ni un estado procesal actual para todo este conjunto. El [BOE](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-10408) identifica a Francisco García Cerdá como alcalde nombrado el 7 de julio de 2023.
 resumen: Fiscalización de una venta de suelo, ejecución de un derribo y otros litigios y denuncias municipales de
   naturaleza diferente.
 lugar: Mojácar, Almería, Andalucía
@@ -149,11 +137,3 @@ cronologia:
   urls:
   - https://www.teleprensa.com/articulo/provincia/psoe-acusa-alcalde-mojacar-mentir-ocultar-responsabilidad-condena-judicial-que-costara-mas-millon-euros/202508081419362190004.html
 ---
-
-La [fiscalización publicada en el BOJA](https://www.juntadeandalucia.es/boja/2010/118/d50.pdf) analiza el ejercicio 2007. En sus apartados 66–80 y 174–176 examina la enajenación de suelo de Macenas y estima 661.200 euros de menores ingresos. La eventual responsabilidad contable o penal requiere un pronunciamiento distinto del informe auditor. No se equiparan esa cifra y el precio de adjudicación de 7.528.400 euros.
-
-La [información de marzo de 2015](https://www.20minutos.es/noticia/2405958/0/juez-impone-multas-periodicas-150-euros-alcaldesa-mojacar-hasta-que-no-ejecute-derribo/) pertenece a la ejecución de una sentencia urbanística: las multas periódicas buscaban hacer cumplir el derribo. No acredita una condena penal por corrupción ni permite afirmar que la ejecución continúe pendiente en 2026. La referencia a una sentencia firme procede de esa crónica; no se ha obtenido el original ni el resultado posterior de la ejecución.
-
-La [denuncia sobre el aparcamiento](https://www.elplural.com/autonomias/andalucia/la-alcaldesa-de-mojacar-su-pareja-y-miembros-del-pp-se-adjudican-plazas-del-parking-publico-que-costo-dos-millones_37434102) y las [críticas urbanísticas de 2022](https://www.teleprensa.com/articulo/provincia/psoe-somos-mojacar-afirma-que-prisas-alcaldesa-pp-urbanizar-terrenos-van-costar-mas-millon-euros-pueblo/202202241029191146511.html) son declaraciones políticas. No justifican atribuir la condición de investigado a familiares sin identificar o afirmar condenas que sus textos no documentan. Otra noticia, de [marzo de 2017](https://www.20minutos.es/noticia/2976068/0/tribunales-archivada-causa-abierta-contra-alcaldesa-mojacar-tras-contratacion/), recoge un comunicado municipal sobre el archivo de una causa por contratación de asistencia técnica en el Arbollón y el frontón: ese resultado se refiere a aquel expediente y no resuelve los demás asuntos de esta ficha. No se dispone de su resolución original ni de acreditación de firmeza.
-
-La [sentencia de expropiación difundida en agosto de 2025](https://www.europapress.es/andalucia/almeria-00350/noticia-mojacar-almeria-culpa-psoe-1987-sentencia-le-obliga-pagar-795000-euros-expropiacion-20250807182957.html) obliga al Ayuntamiento al pago de un justiprecio y de intereses; no condena penalmente al alcalde. Las explicaciones del gobierno y las acusaciones de la oposición sobre el origen y los retrasos son posiciones políticas. Sin la resolución original y su ejecución no puede fijarse un perjuicio global ni un estado procesal actual para todo este conjunto. El [BOE](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-10408) identifica a Francisco García Cerdá como alcalde nombrado el 7 de julio de 2023.

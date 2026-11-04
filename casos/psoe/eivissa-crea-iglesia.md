@@ -9,32 +9,24 @@ estadoPrincipal: En investigación
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: desconocido
-descripcion: 'La pieza se refiere al alquiler municipal de un local en Cas Serres y a su prevista cesión a la Iglesia
-  Evangélica Filadelfia. La prensa sitúa pagos desde junio de 2008 y recoge en marzo de 2010 el anuncio del PP de
-  llevar el asunto a Fiscalía por presuntas irregularidades en la contratación y en la elección de la entidad beneficiaria.
-  El local no llegó a utilizarse para el fin anunciado, según las noticias. Los importes de alquiler y el presupuesto
-  de reforma no constituyen por sí solos un daño penal acreditado.
+descripcion: |-
+  La pieza se refiere al alquiler municipal de un local en Cas Serres y a su prevista cesión a la Iglesia Evangélica Filadelfia. La prensa sitúa pagos desde junio de 2008 y recoge en marzo de 2010 el anuncio del PP de llevar el asunto a Fiscalía por presuntas irregularidades en la contratación y en la elección de la entidad beneficiaria. El local no llegó a utilizarse para el fin anunciado, según las noticias. Los importes de alquiler y el presupuesto de reforma no constituyen por sí solos un daño penal acreditado.
 
+  En noviembre de 2013 se informó de citaciones como imputados de los entonces concejales Vicent Ferrer, de Eivissa pel Canvi, y Enrique Sánchez, del PSOE, además del pastor identificado por El Mundo como José Marí Rodríguez, alias El Tiznao, y un funcionario de Promoción Económica. La misma información distingue las contrataciones empresariales de Eivissa Crea, por las que se citaba a Alfonso Molina y Joan Serra Mayans. No se trasladan a la pieza del local las imputaciones, contratos o resultados de esa otra investigación.
 
-  En noviembre de 2013 se informó de citaciones como imputados de los entonces concejales Vicent Ferrer, de Eivissa
-  pel Canvi, y Enrique Sánchez, del PSOE, además del pastor identificado por El Mundo como José Marí Rodríguez,
-  alias El Tiznao, y un funcionario de Promoción Económica. La misma información distingue las contrataciones empresariales
-  de Eivissa Crea, por las que se citaba a Alfonso Molina y Joan Serra Mayans. No se trasladan a la pieza del local
-  las imputaciones, contratos o resultados de esa otra investigación.
+  Existen referencias discordantes sobre el desenlace: Radio Ibiza recogió en mayo de 2018 una afirmación de la Federación Socialista de que la pieza de la iglesia se había cerrado definitivamente; Periódico de Ibiza informó en agosto de 2023 de una ampliación de su investigación acordada en febrero. En diciembre de 2024 el PP afirmó que había retirado su acusación, lo que tampoco acredita por sí solo el archivo judicial. Sin los autos no puede precisarse si esas referencias describen la misma fase, una reapertura o un error informativo.
 
+  Al corte del 15 de octubre de 2026 no se ha recuperado resolución judicial original que permita establecer el estado individual, eventual juicio, archivo, absolución o firmeza. También falta confirmar la identidad nominal del funcionario y aclarar las variantes publicadas del nombre del pastor. Se conserva la condición histórica de citado como investigado, sin presentarla como acusación definitiva o condena ni afirmar que la causa siga activa por el mero paso del tiempo.
 
-  Existen referencias discordantes sobre el desenlace: Radio Ibiza recogió en mayo de 2018 una afirmación de la
-  Federación Socialista de que la pieza de la iglesia se había cerrado definitivamente; Periódico de Ibiza informó
-  en agosto de 2023 de una ampliación de su investigación acordada en febrero. En diciembre de 2024 el PP afirmó
-  que había retirado su acusación, lo que tampoco acredita por sí solo el archivo judicial. Sin los autos no puede
-  precisarse si esas referencias describen la misma fase, una reapertura o un error informativo.
+  La ficha se limita al arrendamiento del local de Cas Serres previsto para la Iglesia Evangélica Filadelfia. La [noticia de marzo de 2010](https://www.periodicodeibiza.es/pitiusas/ibiza/2010/03/18/5529/el-pp-denuncia-a-vila-ante-fiscalia-por-la-contratacion-irregular-del-alquiler-de-un-local.html) recoge el anuncio de denuncia de Virtudes Marí y sus alegaciones sobre un expediente iniciado después de comenzar los pagos. Es un relato de la denunciante, no una declaración judicial de hechos probados. El alquiler se sitúa desde junio de 2008 sin día exacto verificado, y no se transforma ese periodo en una fecha ficticia de inicio procesal.
 
+  La [información de El Mundo de 22 de noviembre de 2013](https://www.elmundo.es/baleares/2013/11/22/528f227f63fd3d92238b458f.html) diferencia las personas citadas por el local de Molina y Serra Mayans, mencionados por la contratación de empresas. No está acreditada la participación de Molina y Serra Mayans en la rama de la iglesia. La denuncia anónima de junio de 2009 y las actuaciones policiales de 2018 sobre Eivissa Crea se conservan en su contexto propio, sin convertirlas automáticamente en hitos de esta pieza. La noticia de 2013 relata además una acusación del pastor sobre afiliaciones y su posterior retractación; no se da por probado un intercambio de alquiler por afiliaciones o votos.
 
-  Al corte del 15 de octubre de 2026 no se ha recuperado resolución judicial original que permita establecer el
-  estado individual, eventual juicio, archivo, absolución o firmeza. También falta confirmar la identidad nominal
-  del funcionario y aclarar las variantes publicadas del nombre del pastor. Se conserva la condición histórica de
-  citado como investigado, sin presentarla como acusación definitiva o condena ni afirmar que la causa siga activa
-  por el mero paso del tiempo.'
+  Los nombres requieren cautela: la prensa identifica a Enrique Sánchez Navarrete como el concejal que gestionó Bienestar Social, mientras que el pastor figura como José Marí Rodríguez en la noticia original y como José María Rodríguez Moreno en una recopilación posterior. Sin un auto nominal no se resuelve esa diferencia mediante coincidencias de cargo o apodo. El funcionario aparece sin nombre en las noticias citadas. La condición histórica de imputado no se presenta como prueba de culpabilidad.
+
+  La afirmación de cierre difundida por el PSOE y [recogida por Radio Ibiza en 2018](https://cadenaser.com/emisora/2018/05/02/radio_ibiza/1525239695_878589.html) no concuerda con la [noticia de 2023](https://www.periodicodeibiza.es/pitiusas/ibiza/2023/08/07/1990111/alquiler-empleo-ibiza-cierre-eivissa-crea.html) que habla de ampliar la investigación. La [declaración del PP de diciembre de 2024](https://lavozdeibiza.com/actualidad/dura-respuesta-del-pp-contra-los-socialistas-pretenden-ganar-en-los-juzgados-aquello-que-han-perdido-en-las-urnas/) sobre retirada de su acusación añade otra referencia política, pero no sustituye una resolución judicial. Faltan los autos que expliquen la secuencia y su alcance para cada persona. No se adjudica firmeza, absolución, archivo global o estado activo actual a partir de estas declaraciones.
+
+  Las noticias mencionan más de 30.000 euros de alquiler y una reforma presupuestada en unos 100.000 euros, atribuyendo esta última cifra a la denuncia del PP. No se suman ambos conceptos como si fueran dinero efectivamente gastado o daño fijado judicialmente. Siguen sin cotejar los contratos, pagos certificados, resoluciones posteriores y el desenlace nominal al corte del 15 de octubre de 2026.
 resumen: Investigación sobre el alquiler y la prevista cesión de un local en Cas Serres a la Iglesia Evangélica
   Filadelfia, separada de las contrataciones de Eivissa Crea; desenlace judicial sin cotejar.
 lugar: Ibiza (Vila), Islas Baleares
@@ -114,13 +106,3 @@ cronologia:
     type: resumen
     relevancia: alta
 ---
-
-La ficha se limita al arrendamiento del local de Cas Serres previsto para la Iglesia Evangélica Filadelfia. La [noticia de marzo de 2010](https://www.periodicodeibiza.es/pitiusas/ibiza/2010/03/18/5529/el-pp-denuncia-a-vila-ante-fiscalia-por-la-contratacion-irregular-del-alquiler-de-un-local.html) recoge el anuncio de denuncia de Virtudes Marí y sus alegaciones sobre un expediente iniciado después de comenzar los pagos. Es un relato de la denunciante, no una declaración judicial de hechos probados. El alquiler se sitúa desde junio de 2008 sin día exacto verificado, y no se transforma ese periodo en una fecha ficticia de inicio procesal.
-
-La [información de El Mundo de 22 de noviembre de 2013](https://www.elmundo.es/baleares/2013/11/22/528f227f63fd3d92238b458f.html) diferencia las personas citadas por el local de Molina y Serra Mayans, mencionados por la contratación de empresas. No está acreditada la participación de Molina y Serra Mayans en la rama de la iglesia. La denuncia anónima de junio de 2009 y las actuaciones policiales de 2018 sobre Eivissa Crea se conservan en su contexto propio, sin convertirlas automáticamente en hitos de esta pieza. La noticia de 2013 relata además una acusación del pastor sobre afiliaciones y su posterior retractación; no se da por probado un intercambio de alquiler por afiliaciones o votos.
-
-Los nombres requieren cautela: la prensa identifica a Enrique Sánchez Navarrete como el concejal que gestionó Bienestar Social, mientras que el pastor figura como José Marí Rodríguez en la noticia original y como José María Rodríguez Moreno en una recopilación posterior. Sin un auto nominal no se resuelve esa diferencia mediante coincidencias de cargo o apodo. El funcionario aparece sin nombre en las noticias citadas. La condición histórica de imputado no se presenta como prueba de culpabilidad.
-
-La afirmación de cierre difundida por el PSOE y [recogida por Radio Ibiza en 2018](https://cadenaser.com/emisora/2018/05/02/radio_ibiza/1525239695_878589.html) no concuerda con la [noticia de 2023](https://www.periodicodeibiza.es/pitiusas/ibiza/2023/08/07/1990111/alquiler-empleo-ibiza-cierre-eivissa-crea.html) que habla de ampliar la investigación. La [declaración del PP de diciembre de 2024](https://lavozdeibiza.com/actualidad/dura-respuesta-del-pp-contra-los-socialistas-pretenden-ganar-en-los-juzgados-aquello-que-han-perdido-en-las-urnas/) sobre retirada de su acusación añade otra referencia política, pero no sustituye una resolución judicial. Faltan los autos que expliquen la secuencia y su alcance para cada persona. No se adjudica firmeza, absolución, archivo global o estado activo actual a partir de estas declaraciones.
-
-Las noticias mencionan más de 30.000 euros de alquiler y una reforma presupuestada en unos 100.000 euros, atribuyendo esta última cifra a la denuncia del PP. No se suman ambos conceptos como si fueran dinero efectivamente gastado o daño fijado judicialmente. Siguen sin cotejar los contratos, pagos certificados, resoluciones posteriores y el desenlace nominal al corte del 15 de octubre de 2026.

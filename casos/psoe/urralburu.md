@@ -8,13 +8,18 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas revisadas en casación
-descripcion: Causa por comisiones ilegales ligadas a adjudicaciones de obras públicas en Navarra durante la
-  presidencia socialista de Gabriel Urralburu. La Audiencia de Navarra lo condenó en septiembre de 1998 a once
-  años de prisión por cohecho y delitos fiscales. El Supremo revisó el fallo el 28 de marzo de 2001 y mantuvo
-  cuatro años por cohecho, absolviéndolo de los delitos contra la Hacienda Pública. También hubo condenas para
-  Antonio Aragón, Olivia Balda, Ana Isabel Romeo, Jorge Esparza y Luis Roldán. Esta causa es distinta de los
-  otros procedimientos contra Roldán. No se ha verificado la liquidación final de penas, multas y
-  responsabilidades económicas.
+descripcion: |-
+  Causa por comisiones ilegales ligadas a adjudicaciones de obras públicas en Navarra durante la presidencia socialista de Gabriel Urralburu. La Audiencia de Navarra lo condenó en septiembre de 1998 a once años de prisión por cohecho y delitos fiscales. El Supremo revisó el fallo el 28 de marzo de 2001 y mantuvo cuatro años por cohecho, absolviéndolo de los delitos contra la Hacienda Pública. También hubo condenas para Antonio Aragón, Olivia Balda, Ana Isabel Romeo, Jorge Esparza y Luis Roldán. Esta causa es distinta de los otros procedimientos contra Roldán. No se ha verificado la liquidación final de penas, multas y responsabilidades económicas.
+
+  Las informaciones que relacionaron a Urralburu con la contabilidad suiza del caso Roldán aparecieron en 1994. La retrospectiva de elDiario.es de septiembre de 2023 sitúa su expulsión del PSOE en noviembre de 1995. Se mantienen estos antecedentes sin asignarles días concretos no acreditados.
+
+  La transcripción de la STS 20/2001 recoge un sistema de adjudicaciones condicionado por pagos, generalmente del 5 %, con porcentajes distintos en otros contratos. Por tanto, no se afirma que todas las obras pagaran exactamente el 5 % ni que el mecanismo fuera siempre una adjudicación directa. La segunda sentencia absuelve de los delitos fiscales, cambia la calificación de las esposas a cooperación necesaria y reduce la pena del intermediario. No se han revisado íntegramente sus extensos fundamentos ni todos los flujos financieros.
+
+  Las multas no son el importe de las comisiones ni un perjuicio patrimonial automáticamente acumulable. Los 4,6 millones de euros no están acreditados como daño declarado al erario. Los importes y responsabilidades económicas requieren cotejo del fallo original y su ejecución.
+
+  Se conserva la denominación Ana Isabel Romeo, utilizada por la prensa contemporánea, corrigiendo Romero. Las identidades nominales se apoyan en esas informaciones, no en una correspondencia deducida de pseudónimos judiciales. Las condenas aquí descritas de Roldán y Esparza pertenecen a esta causa; no se trasladan sus resultados de otros procesos.
+
+  Se ha recuperado el [PDF oficial del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3e1d2df395a2ca42&encode=true&databasematch=AN), de 43 páginas, cuyo acceso inicial había devuelto 403. El fallo confirma la revisión y la segunda sentencia; permanecen pendientes la cuantificación económica completa y la liquidación de la ejecución hasta el corte de 17 de octubre de 2026. No constan documentos penitenciarios que acrediten la libertad condicional en agosto de 2003, el cierre definitivo o la extinción de la pena. Tampoco se calcula tiempo efectivo de prisión mezclando prisión preventiva, cumplimiento y tercer grado.
 resumen: 'Comisiones en obras públicas de Navarra: condenas de 1998 revisadas por el Supremo en 2001.'
 lugar: Navarra, España
 tribunal:
@@ -81,13 +86,3 @@ cronologia:
   - https://www.libertaddigital.com/espana/2001-12-21/las-esposas-de-urralburu-y-aragon-abandonan-la-carcel-tras-obtener-un-permiso-de-cinco-dias-54953/
   type: documento
 ---
-
-Las informaciones que relacionaron a Urralburu con la contabilidad suiza del caso Roldán aparecieron en 1994. La retrospectiva de elDiario.es de septiembre de 2023 sitúa su expulsión del PSOE en noviembre de 1995. Se mantienen estos antecedentes sin asignarles días concretos no acreditados.
-
-La transcripción de la STS 20/2001 recoge un sistema de adjudicaciones condicionado por pagos, generalmente del 5 %, con porcentajes distintos en otros contratos. Por tanto, no se afirma que todas las obras pagaran exactamente el 5 % ni que el mecanismo fuera siempre una adjudicación directa. La segunda sentencia absuelve de los delitos fiscales, cambia la calificación de las esposas a cooperación necesaria y reduce la pena del intermediario. No se han revisado íntegramente sus extensos fundamentos ni todos los flujos financieros.
-
-Las multas no son el importe de las comisiones ni un perjuicio patrimonial automáticamente acumulable. Los 4,6 millones de euros no están acreditados como daño declarado al erario. Los importes y responsabilidades económicas requieren cotejo del fallo original y su ejecución.
-
-Se conserva la denominación Ana Isabel Romeo, utilizada por la prensa contemporánea, corrigiendo Romero. Las identidades nominales se apoyan en esas informaciones, no en una correspondencia deducida de pseudónimos judiciales. Las condenas aquí descritas de Roldán y Esparza pertenecen a esta causa; no se trasladan sus resultados de otros procesos.
-
-Se ha recuperado el [PDF oficial del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=3e1d2df395a2ca42&encode=true&databasematch=AN), de 43 páginas, cuyo acceso inicial había devuelto 403. El fallo confirma la revisión y la segunda sentencia; permanecen pendientes la cuantificación económica completa y la liquidación de la ejecución hasta el corte de 17 de octubre de 2026. No constan documentos penitenciarios que acrediten la libertad condicional en agosto de 2003, el cierre definitivo o la extinción de la pena. Tampoco se calcula tiempo efectivo de prisión mezclando prisión preventiva, cumplimiento y tercer grado.

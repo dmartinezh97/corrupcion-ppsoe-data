@@ -9,80 +9,48 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: desconocido
-descripcion: >-
-  El caso de la Ciudad del Golf se refiere a un proyecto urbanístico sobre terrenos de alto valor ambiental en
-  Las Navas del Marqués (Ávila), promovido por Residencial Aguas Nuevas S.L. (RAN). Las fuentes discrepan en
-  las cifras del proyecto, que se recogen como aproximadas: en torno a 1.500 o 1.600 viviendas, uno o dos
-  campos de golf y zona hotelera, sobre 210 o 215 hectáreas. Los terrenos procedían de la sociedad pública
-  Montes de las Navas S.A. (MNSA), constituida por escritura pública de 3 de mayo de 2000 por el Ayuntamiento
-  de Las Navas del Marqués (70% del capital), la Junta de Castilla y León (20%) y la Diputación de Ávila
-  (10%). Esa fecha es un antecedente —la constitución de la sociedad— y no el inicio de la investigación. La
-  zona formaba parte de la Red Natura 2000, con figuras de protección para las aves (ZEPA/LIC) y área crítica
-  para la cigüeña negra.
+descripcion: |-
+  El caso de la Ciudad del Golf se refiere a un proyecto urbanístico sobre terrenos de alto valor ambiental en Las Navas del Marqués (Ávila), promovido por Residencial Aguas Nuevas S.L. (RAN). Las fuentes discrepan en las cifras del proyecto, que se recogen como aproximadas: en torno a 1.500 o 1.600 viviendas, uno o dos campos de golf y zona hotelera, sobre 210 o 215 hectáreas. Los terrenos procedían de la sociedad pública Montes de las Navas S.A. (MNSA), constituida por escritura pública de 3 de mayo de 2000 por el Ayuntamiento de Las Navas del Marqués (70% del capital), la Junta de Castilla y León (20%) y la Diputación de Ávila (10%). Esa fecha es un antecedente —la constitución de la sociedad— y no el inicio de la investigación. La zona formaba parte de la Red Natura 2000, con figuras de protección para las aves (ZEPA/LIC) y área crítica para la cigüeña negra.
 
+  La vía contencioso-administrativa anuló la clasificación urbanística, no un "Plan Parcial". La sentencia de la Sala de lo Contencioso-Administrativo del TSJ de Castilla y León (sede de Burgos) de 29 de septiembre de 2006 (recurso 535/2003) estimó parcialmente el recurso y anuló la clasificación como "suelo urbanizable delimitado" de los terrenos del Sector SUZD-4 "Ciudad del Golf", así como los actos de la Comisión Territorial de Urbanismo de Ávila de 30 de abril de 2003 y la Orden de la Consejería de Fomento de 23 de octubre de 2003 en cuanto a esa clasificación. El Plan Parcial, en cambio, se había aprobado definitivamente el 31 de marzo de 2004. El Tribunal Supremo (ROJ STS 1612/2010, de 25 de marzo de 2010, recurso 5635/2006; la cabecera no asigna nº de resolución) desestimó los recursos de casación del Ayuntamiento, la Junta y la promotora, confirmando la anulación; la resolución se dio a conocer el 13 de abril de 2010.
 
-  La vía contencioso-administrativa anuló la clasificación urbanística, no un "Plan Parcial". La sentencia de
-  la Sala de lo Contencioso-Administrativo del TSJ de Castilla y León (sede de Burgos) de 29 de septiembre de
-  2006 (recurso 535/2003) estimó parcialmente el recurso y anuló la clasificación como "suelo urbanizable
-  delimitado" de los terrenos del Sector SUZD-4 "Ciudad del Golf", así como los actos de la Comisión
-  Territorial de Urbanismo de Ávila de 30 de abril de 2003 y la Orden de la Consejería de Fomento de 23 de
-  octubre de 2003 en cuanto a esa clasificación. El Plan Parcial, en cambio, se había aprobado definitivamente
-  el 31 de marzo de 2004. El Tribunal Supremo (ROJ STS 1612/2010, de 25 de marzo de 2010, recurso 5635/2006;
-  la cabecera no asigna nº de resolución) desestimó los recursos de casación del Ayuntamiento, la Junta y la
-  promotora, confirmando la anulación; la resolución se dio a conocer el 13 de abril de 2010.
+  En la vía penal se distinguen varias piezas. La relativa a la entonces consejera de Medio Ambiente María Jesús Ruiz fue archivada por auto de la Sala de lo Civil y Penal del TSJ de Castilla y León de 4 de diciembre de 2008 (ROJ ATSJ CL 327/2008; la cabecera no asigna nº de resolución), ratificado por otro de 11 de diciembre de 2008, que acordó "no haber lugar a la incoación de procedimiento criminal" contra ella (auto frente al que cabía recurso de súplica); no fue enjuiciada. Otra pieza, seguida en el Juzgado de Instrucción nº 2 de Ávila (Diligencias Previas 1481/2006), fue objeto de un sobreseimiento provisional por auto de la Audiencia Provincial de Ávila de 9 de diciembre de 2010 (auto 212/2010; ROJ AAP AV 176/2010) y, en un auto distinto de 8 de septiembre de 2011 (auto 151/2011; ROJ AAP AV 99/2011), la misma Audiencia desestimó el recurso de los acusados y confirmó la transformación en procedimiento abreviado, ordenando dar copias a Ecologistas en Acción para formular acusación. La causa se dividió en cuatro piezas y las resoluciones afectan a conjuntos de imputados distintos, de modo que el archivo de 2010 y la confirmación del abreviado de 2011 no se refieren al mismo grupo. El juicio por la aprobación del planeamiento se celebró en la Audiencia Provincial de Ávila (señalamiento de la vista para el 24 de mayo de 2012, según sus antecedentes), que absolvió al alcalde, al secretario municipal y al promotor de los delitos de prevaricación, malversación de caudales públicos y fraude (SAP Ávila 124/2012, de 6 de junio de 2012; ROJ SAP AV 236/2012). La Fiscalía anunció en agosto de 2012 su decisión de recurrir ante el Supremo la absolución del alcalde, sin que se haya localizado resolución que acredite que el recurso llegara a presentarse ni su resultado.
 
+  Paralelamente, la pieza contra cinco altos cargos y técnicos de la Consejería de Medio Ambiente (José Ángel Arranz Sanz, Mariano Torre Antón, José Ignacio Molina García, Juan Manuel Pardo Ontoria y Sabas Yagüe Bosch), seguida en Valladolid (Juzgado de Instrucción nº 3 y Juzgado de lo Penal nº 2), fue reabierta por autos de la Audiencia Provincial de Valladolid de 11 de mayo de 2011 (auto 232/2011; ROJ AAP VA 349/2011) y 16 de enero de 2012 (auto 27/2012, Sección 4ª, notificado el 18 de enero de 2012; rollo de apelación 17/2012 y Diligencias Previas 2993/2010 del Juzgado de Instrucción nº 3 de Valladolid). Este segundo auto estimó los recursos del Ministerio Fiscal y de Ecologistas en Acción y Centaurea, revocó el sobreseimiento libre acordado por auto de 15 de noviembre de 2011 y ordenó al Instructor dictar la transformación en procedimiento abreviado contra las personas que aparecían como imputadas, sin que la Audiencia acordara la transformación directamente. El juicio oral comenzó el 3 de marzo de 2014. La sentencia del Juzgado de lo Penal nº 2 de Valladolid los absolvió. Se ha recuperado una copia escaneada de la sentencia de 2 de abril de 2014 (PA332/2012), alojada por Rediuris. Su fallo absuelve de prevaricación administrativa y del delito contra la ordenación del territorio y el medio ambiente; declaraba que no era firme y admitía apelación en diez días. No se ha localizado resolución que acredite la firmeza de las sentencias penales ni un cierre definitivo del caso; tampoco consta documentada una decisión de no recurrir por razones económicas.
 
-  En la vía penal se distinguen varias piezas. La relativa a la entonces consejera de Medio Ambiente María
-  Jesús Ruiz fue archivada por auto de la Sala de lo Civil y Penal del TSJ de Castilla y León de 4 de
-  diciembre de 2008 (ROJ ATSJ CL 327/2008; la cabecera no asigna nº de resolución), ratificado por otro de 11
-  de diciembre de 2008, que acordó "no haber lugar a la incoación de procedimiento criminal" contra ella (auto
-  frente al que cabía recurso de súplica); no fue enjuiciada. Otra pieza, seguida en el Juzgado de Instrucción
-  nº 2 de Ávila (Diligencias Previas 1481/2006), fue objeto de un sobreseimiento provisional por auto de la
-  Audiencia Provincial de Ávila de 9 de diciembre de 2010 (auto 212/2010; ROJ AAP AV 176/2010) y, en un auto
-  distinto de 8 de septiembre de 2011 (auto 151/2011; ROJ AAP AV 99/2011), la misma Audiencia desestimó el
-  recurso de los acusados y confirmó la transformación en procedimiento abreviado, ordenando dar copias a
-  Ecologistas en Acción para formular acusación. La causa se dividió en cuatro piezas y las resoluciones
-  afectan a conjuntos de imputados distintos, de modo que el archivo de 2010 y la confirmación del abreviado
-  de 2011 no se refieren al mismo grupo. El juicio por la aprobación del planeamiento se celebró en la
-  Audiencia Provincial de Ávila (señalamiento de la vista para el 24 de mayo de 2012, según sus antecedentes),
-  que absolvió al alcalde, al secretario municipal y al promotor de los delitos de prevaricación, malversación
-  de caudales públicos y fraude (SAP Ávila 124/2012, de 6 de junio de 2012; ROJ SAP AV 236/2012). La Fiscalía
-  anunció en agosto de 2012 su decisión de recurrir ante el Supremo la absolución del alcalde, sin que se haya
-  localizado resolución que acredite que el recurso llegara a presentarse ni su resultado.
+  Con posterioridad, el Tribunal Supremo (STS 1650/2017, de 31 de octubre de 2017, recurso 315/2016; ROJ STS 3835/2017) desestimó el recurso de casación de Residencial Aguas Nuevas S.L. contra la sentencia del TSJ de Castilla y León (Valladolid) de 5 de noviembre de 2015, confirmando la denegación de su reclamación de indemnización (2.637.575,11 euros) por la anulación de la clasificación. Es la última resolución judicial documentada, pero se refiere al orden contencioso-administrativo y no constituye un cierre del procedimiento penal.
 
+  Situación documentada y cuestiones pendientes a 17 de octubre de 2026: el resultado penal documentado es de absolución en las dos piezas enjuiciadas (2012 y 2014), sin que se haya localizado resolución primaria que acredite su firmeza, y la pieza de la consejera fue archivada por auto de 2008. Por ello el estado se consigna como "desconocido". No consta ningún condenado. La ausencia de noticias posteriores no permite afirmar ni la continuidad de la investigación ni el cierre definitivo, ni presumir la firmeza. Las fuentes primarias disponibles son resoluciones publicadas por el CGPJ (contencioso y autos/sentencias penales) y prensa; también está disponible una copia escaneada de la sentencia de 2014.
 
-  Paralelamente, la pieza contra cinco altos cargos y técnicos de la Consejería de Medio Ambiente (José Ángel
-  Arranz Sanz, Mariano Torre Antón, José Ignacio Molina García, Juan Manuel Pardo Ontoria y Sabas Yagüe
-  Bosch), seguida en Valladolid (Juzgado de Instrucción nº 3 y Juzgado de lo Penal nº 2), fue reabierta por
-  autos de la Audiencia Provincial de Valladolid de 11 de mayo de 2011 (auto 232/2011; ROJ AAP VA 349/2011) y
-  16 de enero de 2012 (auto 27/2012, Sección 4ª, notificado el 18 de enero de 2012; rollo de apelación 17/2012
-  y Diligencias Previas 2993/2010 del Juzgado de Instrucción nº 3 de Valladolid). Este segundo auto estimó los
-  recursos del Ministerio Fiscal y de Ecologistas en Acción y Centaurea, revocó el sobreseimiento libre
-  acordado por auto de 15 de noviembre de 2011 y ordenó al Instructor dictar la transformación en
-  procedimiento abreviado contra las personas que aparecían como imputadas, sin que la Audiencia acordara la
-  transformación directamente. El juicio oral comenzó el 3 de marzo de 2014. La sentencia del Juzgado de lo
-  Penal nº 2 de Valladolid los absolvió. Se ha recuperado una copia escaneada de la sentencia de 2 de abril de
-  2014 (PA332/2012), alojada por Rediuris. Su fallo absuelve de prevaricación administrativa y del delito
-  contra la ordenación del territorio y el medio ambiente; declaraba que no era firme y admitía apelación en
-  diez días. No se ha localizado resolución que acredite la firmeza de las sentencias penales ni un cierre
-  definitivo del caso; tampoco consta documentada una decisión de no recurrir por razones económicas.
+  ### Incertidumbres y límites de la documentación
 
+  - **Estado judicial**: no consta la situación actual de todos los procedimientos. Las dos piezas penales enjuiciadas terminaron con sentencias absolutorias (2012 y 2014), pero no se ha localizado resolución que acredite su firmeza ni un cierre definitivo del caso. La pieza de la consejera María Jesús Ruiz fue archivada por un **auto** de 4 de diciembre de 2008 (ratificado por otro de 11 de diciembre de 2008), frente al que cabía recurso de súplica. No consta ningún condenado.
+  - **Sentencia de 2014**: recuperada una copia escaneada de 46 páginas, alojada por Rediuris. La cabecera fecha el fallo el 2 de abril de 2014 (PA332/2012) y la última página absuelve a cinco acusados y anuncia apelación en diez días.
+  - **Firmeza**: no se presume. Ni la sentencia de 2012 ni la de 2014 tienen firmeza acreditada en las fuentes consultadas. No está documentada una decisión de no recurrir «por razones económicas». La nota de abril de 2014 carece de corroboración suficiente para acreditar decisiones sobre recursos.
+  - **Cierre**: no consta un cierre definitivo del caso. La última resolución documentada es de 2017 y se refiere a una reclamación de indemnización en el orden contencioso-administrativo, no al procedimiento penal.
+  - **Naturaleza de la resolución contenciosa de 2006**: no anuló un "Plan Parcial", sino la clasificación como suelo urbanizable delimitado del Sector SUZD-4 y los actos de 30 de abril y 23 de octubre de 2003. El Plan Parcial se aprobó en 2004.
+  - **Nombres**: las sentencias penales publicadas por el CGPJ están anonimizadas. La crónica de El País de 7 de junio de 2012 identifica al alcalde Gerardo Pérez, al secretario Carlos de Vega y al promotor Francisco Gómez como absueltos. Los documentos municipales citados aportan nombres y cargos, pero no se usan para reconstruir la correspondencia entre personas y seudónimos judiciales.
+  - **Nº de resolución y ROJ**: en varias resoluciones el "nº de resolución" de la cabecera y el ROJ son identificadores distintos. La ficha cita ambos cuando constan; cuando la cabecera no asigna número de resolución, no se inventa.
+  - **Cifras del proyecto**: las fuentes discrepan (1.500 o 1.600 viviendas; 210 o 215 hectáreas; uno o dos campos de golf); se recogen como aproximadas.
+  - **Datos económicos**: no consta un perjuicio público cuantificado atribuible al caso. Las cifras documentadas (compra de terrenos, venta a la promotora, indemnización reclamada) corresponden a operaciones y reclamaciones distintas y no se suman como si fueran equivalentes.
 
-  Con posterioridad, el Tribunal Supremo (STS 1650/2017, de 31 de octubre de 2017, recurso 315/2016; ROJ STS
-  3835/2017) desestimó el recurso de casación de Residencial Aguas Nuevas S.L. contra la sentencia del TSJ de
-  Castilla y León (Valladolid) de 5 de noviembre de 2015, confirmando la denegación de su reclamación de
-  indemnización (2.637.575,11 euros) por la anulación de la clasificación. Es la última resolución judicial
-  documentada, pero se refiere al orden contencioso-administrativo y no constituye un cierre del procedimiento
-  penal.
+  ### Qué acreditan las resoluciones y qué queda pendiente
 
+  La anulación urbanística y el resultado penal responden a preguntas distintas. La casación contenciosa de 2010 mantuvo la nulidad de la clasificación del suelo. La sentencia penal de Ávila de 2012 absolvió expresamente de prevaricación, malversación y fraude; por tanto, aquella nulidad administrativa no se presenta como una condena penal ni prueba por sí sola una actuación delictiva. La resolución contenciosa de 2017 rechazó la indemnización solicitada por la promotora, sin resolver recursos penales ni declarar su firmeza.
 
-  Situación documentada y cuestiones pendientes a 17 de octubre de 2026: el resultado penal documentado es de
-  absolución en las dos piezas enjuiciadas (2012 y 2014), sin que se haya localizado resolución primaria que
-  acredite su firmeza, y la pieza de la consejera fue archivada por auto de 2008. Por ello el estado se
-  consigna como "desconocido". No consta ningún condenado. La ausencia de noticias posteriores no permite
-  afirmar ni la continuidad de la investigación ni el cierre definitivo, ni presumir la firmeza. Las fuentes
-  primarias disponibles son resoluciones publicadas por el CGPJ (contencioso y autos/sentencias penales) y
-  prensa; también está disponible una copia escaneada de la sentencia de 2014.
+  El archivo de la pieza de la consejera de 2008 tampoco se extiende automáticamente a quienes informaron el expediente ambiental. El auto de Valladolid de mayo de 2011 explica esa diferencia; el de enero de 2012 revoca el sobreseimiento libre y ordena al instructor transformar las diligencias. Son decisiones de continuación procesal, no condenas. La absolución de los cinco cargos y técnicos está comprobada en el fallo de la copia escaneada de 2014. Sigue pendiente la comprobación de sus posibles recursos.
+
+  ### Fechas y magnitudes económicas
+
+  El 3 de mayo de 2000 corresponde a la constitución de Montes de las Navas, un antecedente distinto de la apertura de la investigación. La fecha de la sentencia de Ávila es 6 de junio de 2012; la crónica nominal consultada se publicó el día 7 y señala su notificación ese día. Publicación, notificación y fecha de resolución no se intercambian.
+
+  La falta de una cuantificación global del daño público no acredita que el coste económico o ambiental fuese nulo. Los 2.637.575,11 euros de la casación de 2017 son la indemnización reclamada por la promotora y desestimada, no dinero concedido ni perjuicio público declarado. Las operaciones de compra, venta y permuta no deben sumarse a esa reclamación como un único importe de corrupción.
+
+  ### Documentación disponible
+
+  Las fuentes incluyen siete resoluciones publicadas por el CGPJ y una copia del auto de enero de 2012 alojada por Ecologistas en Acción, parte acusadora. También está disponible en Rediuris una copia escaneada de la sentencia de abril de 2014. El fallo absolutorio de 2012 figura en la página 13.
+
+  El texto de la nota de Ecologistas en Acción de abril de 2014 no está disponible para corroborar su contenido. Un enlace localizado a una supuesta noticia de Tribuna sobre la decisión de no recurrir devuelve una portada genérica, por lo que su título no se usa para dar por acreditada esa decisión ni la firmeza. Faltan las resoluciones de recurso o diligencias de firmeza.
 resumen: 'Proyecto urbanístico en terrenos protegidos de Las Navas del Marqués: la jurisdicción contenciosa anuló
   la clasificación y las dos piezas penales enjuiciadas terminaron con absoluciones (2012 y 2014), sin firmeza acreditada;
   el archivo de la pieza de la consejera (2008) y la desestimación de la indemnización (2017) completan la secuencia'
@@ -416,33 +384,3 @@ cronologia:
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=484d8501f901a036&encode=true&databasematch=TS
 ---
-
-## Incertidumbres y límites de la documentación
-
-- **Estado judicial**: no consta la situación actual de todos los procedimientos. Las dos piezas penales enjuiciadas terminaron con sentencias absolutorias (2012 y 2014), pero no se ha localizado resolución que acredite su firmeza ni un cierre definitivo del caso. La pieza de la consejera María Jesús Ruiz fue archivada por un **auto** de 4 de diciembre de 2008 (ratificado por otro de 11 de diciembre de 2008), frente al que cabía recurso de súplica. No consta ningún condenado.
-- **Sentencia de 2014**: recuperada una copia escaneada de 46 páginas, alojada por Rediuris. La cabecera fecha el fallo el 2 de abril de 2014 (PA332/2012) y la última página absuelve a cinco acusados y anuncia apelación en diez días.
-- **Firmeza**: no se presume. Ni la sentencia de 2012 ni la de 2014 tienen firmeza acreditada en las fuentes consultadas. No está documentada una decisión de no recurrir «por razones económicas». La nota de abril de 2014 carece de corroboración suficiente para acreditar decisiones sobre recursos.
-- **Cierre**: no consta un cierre definitivo del caso. La última resolución documentada es de 2017 y se refiere a una reclamación de indemnización en el orden contencioso-administrativo, no al procedimiento penal.
-- **Naturaleza de la resolución contenciosa de 2006**: no anuló un "Plan Parcial", sino la clasificación como suelo urbanizable delimitado del Sector SUZD-4 y los actos de 30 de abril y 23 de octubre de 2003. El Plan Parcial se aprobó en 2004.
-- **Nombres**: las sentencias penales publicadas por el CGPJ están anonimizadas. La crónica de El País de 7 de junio de 2012 identifica al alcalde Gerardo Pérez, al secretario Carlos de Vega y al promotor Francisco Gómez como absueltos. Los documentos municipales citados aportan nombres y cargos, pero no se usan para reconstruir la correspondencia entre personas y seudónimos judiciales.
-- **Nº de resolución y ROJ**: en varias resoluciones el "nº de resolución" de la cabecera y el ROJ son identificadores distintos. La ficha cita ambos cuando constan; cuando la cabecera no asigna número de resolución, no se inventa.
-- **Cifras del proyecto**: las fuentes discrepan (1.500 o 1.600 viviendas; 210 o 215 hectáreas; uno o dos campos de golf); se recogen como aproximadas.
-- **Datos económicos**: no consta un perjuicio público cuantificado atribuible al caso. Las cifras documentadas (compra de terrenos, venta a la promotora, indemnización reclamada) corresponden a operaciones y reclamaciones distintas y no se suman como si fueran equivalentes.
-
-## Qué acreditan las resoluciones y qué queda pendiente
-
-La anulación urbanística y el resultado penal responden a preguntas distintas. La casación contenciosa de 2010 mantuvo la nulidad de la clasificación del suelo. La sentencia penal de Ávila de 2012 absolvió expresamente de prevaricación, malversación y fraude; por tanto, aquella nulidad administrativa no se presenta como una condena penal ni prueba por sí sola una actuación delictiva. La resolución contenciosa de 2017 rechazó la indemnización solicitada por la promotora, sin resolver recursos penales ni declarar su firmeza.
-
-El archivo de la pieza de la consejera de 2008 tampoco se extiende automáticamente a quienes informaron el expediente ambiental. El auto de Valladolid de mayo de 2011 explica esa diferencia; el de enero de 2012 revoca el sobreseimiento libre y ordena al instructor transformar las diligencias. Son decisiones de continuación procesal, no condenas. La absolución de los cinco cargos y técnicos está comprobada en el fallo de la copia escaneada de 2014. Sigue pendiente la comprobación de sus posibles recursos.
-
-### Fechas y magnitudes económicas
-
-El 3 de mayo de 2000 corresponde a la constitución de Montes de las Navas, un antecedente distinto de la apertura de la investigación. La fecha de la sentencia de Ávila es 6 de junio de 2012; la crónica nominal consultada se publicó el día 7 y señala su notificación ese día. Publicación, notificación y fecha de resolución no se intercambian.
-
-La falta de una cuantificación global del daño público no acredita que el coste económico o ambiental fuese nulo. Los 2.637.575,11 euros de la casación de 2017 son la indemnización reclamada por la promotora y desestimada, no dinero concedido ni perjuicio público declarado. Las operaciones de compra, venta y permuta no deben sumarse a esa reclamación como un único importe de corrupción.
-
-### Documentación disponible
-
-Las fuentes incluyen siete resoluciones publicadas por el CGPJ y una copia del auto de enero de 2012 alojada por Ecologistas en Acción, parte acusadora. También está disponible en Rediuris una copia escaneada de la sentencia de abril de 2014. El fallo absolutorio de 2012 figura en la página 13.
-
-El texto de la nota de Ecologistas en Acción de abril de 2014 no está disponible para corroborar su contenido. Un enlace localizado a una supuesta noticia de Tribuna sobre la decisión de no recurrir devuelve una portada genérica, por lo que su título no se usa para dar por acreditada esa decisión ni la firmeza. Faltan las resoluciones de recurso o diligencias de firmeza.

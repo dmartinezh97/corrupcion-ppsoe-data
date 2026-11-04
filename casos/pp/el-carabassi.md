@@ -9,13 +9,22 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: absolución en primera instancia; firmeza no verificada
-descripcion: La causa penal de El Carabassí investigó si responsables de Elche y Santa Pola habían permitido irregularidades
-  en chiringuitos y excesos de ruido entre 2008 y 2014. En marzo de 2026 se publicó la absolución de los acusados,
-  entre ellos Miguel Zaragoza, Justino Delgado y Luis Ángel Mateo (PP), y Emilio Domenech (PSOE). No se acreditaron
-  el acuerdo ilícito ni la tolerancia deliberada que sostenían las acusaciones. La sentencia era recurrible según
-  la prensa; no se ha verificado su firmeza ni localizado una resolución posterior hasta el corte de 17 de octubre
-  de 2026. Quedan pendientes el original judicial, el número exacto de acusados y la documentación de las indemnizaciones
-  de la vía contenciosa.
+descripcion: |-
+  La causa penal de El Carabassí investigó si responsables de Elche y Santa Pola habían permitido irregularidades en chiringuitos y excesos de ruido entre 2008 y 2014. En marzo de 2026 se publicó la absolución de los acusados, entre ellos Miguel Zaragoza, Justino Delgado y Luis Ángel Mateo (PP), y Emilio Domenech (PSOE). No se acreditaron el acuerdo ilícito ni la tolerancia deliberada que sostenían las acusaciones. La sentencia era recurrible según la prensa; no se ha verificado su firmeza ni localizado una resolución posterior hasta el corte de 17 de octubre de 2026. Quedan pendientes el original judicial, el número exacto de acusados y la documentación de las indemnizaciones de la vía contenciosa.
+
+  ### Denuncia y resultado penal
+
+  La investigación partió de las quejas de una comunidad de propietarios por el ruido de establecimientos en el límite entre Elche y Santa Pola. La [información histórica de 2017](https://alicanteplaza.es/el-ex-alcalde-de-santa-pola-y-tres-concejales-de-elche-en-2011-iran-a-juicio-por-prevaricacion-ambiental) relataba omisión de control como tesis de los denunciantes. El desenlace penal publicado fue absolutorio y no acredita una connivencia probada.
+
+  [Alicante Plaza, 3 de marzo de 2026](https://alicanteplaza.es/alicanteplaza/elcheplaza/absuelven-a-ex-ediles-y-funcionarios-de-elche-y-santa-pola-por-los-excesos-de-ruidos-de-los-chiringuitos-del-carabassi), explica que hubo inspecciones y medidas correctoras y que no se acreditó el acuerdo delictivo sostenido por las acusaciones. También recoge dudas sobre la atribución del ruido y las mediciones. Son motivos conocidos a través de la prensa, sin disponer de la sentencia original. [Versión Radio](https://www.versionradio.es/absuelven-a-exconcejales-de-elche-al-exalcalde-de-santa-pola-miguel-zaragoza-y-a-funcionarios-por-el-ruido-de-los-chiringuitos-de-el-carabassi/) confirma la absolución de Miguel Zaragoza, Justino Delgado, Luis Ángel Mateo y Emilio Domenech; la clasificación PP de la ficha no atribuye ese partido a Domenech, identificado como PSOE.
+
+  ### Importes y cuestiones pendientes
+
+  Las noticias de [2017](https://alicanteplaza.es/el-ex-alcalde-de-santa-pola-y-tres-concejales-de-elche-en-2011-iran-a-juicio-por-prevaricacion-ambiental) y [octubre de 2025](https://www.versionradio.es/el-4-de-noviembre-comienza-el-juicio-por-prevaricacion-ambiental-contra-el-exalcalde-de-santa-pola-miguel-zaragoza-y-tres-exconcejales-de-elche/) refieren una indemnización contencioso-administrativa de 124.000 euros a cargo de los ayuntamientos. No se han obtenido las resoluciones, su reparto, firmeza ni prueba de pago. La cantidad procede de un antecedente atribuido a su fuente: no es una condena penal ni permite imputar un daño personal a los absueltos.
+
+  No se ha recuperado el original de la sentencia penal, ni un PDF auténtico que permita comprobar sus metadatos. La cifra de 26 páginas es una referencia periodística, no una verificación documental. Las fuentes hablan de ocho acusados al anunciar la vista y de siete al informar del fallo; no se reconcilia ese número ni se inventan identidades de funcionarios. José Miguel Zaragoza aparecía en la noticia histórica como jefe policial, pero esa mención no acredita por sí sola que fuera acusado.
+
+  La prensa también difiere en la denominación del órgano y del recurso. Onda Cero llama contenciosa a la resolución de 2026, frente a la identificación penal de las otras dos crónicas. Sin el original no se asume una segunda resolución contenciosa ni se fija la clase de recurso. No constan fechas exactas de inicio ni un cierre firme acreditado. Información disponible al 17 de octubre de 2026.
 resumen: Absolución penal publicada en marzo de 2026 por la causa de los chiringuitos de El Carabassí; firmeza pendiente
   de verificar.
 lugar: El Carabassí, Elche y Santa Pola, Alicante, Comunidad Valenciana
@@ -70,17 +79,3 @@ cronologia:
   - https://alicanteplaza.es/alicanteplaza/elcheplaza/absuelven-a-ex-ediles-y-funcionarios-de-elche-y-santa-pola-por-los-excesos-de-ruidos-de-los-chiringuitos-del-carabassi
   - https://www.versionradio.es/absuelven-a-exconcejales-de-elche-al-exalcalde-de-santa-pola-miguel-zaragoza-y-a-funcionarios-por-el-ruido-de-los-chiringuitos-de-el-carabassi/
 ---
-
-## Denuncia y resultado penal
-
-La investigación partió de las quejas de una comunidad de propietarios por el ruido de establecimientos en el límite entre Elche y Santa Pola. La [información histórica de 2017](https://alicanteplaza.es/el-ex-alcalde-de-santa-pola-y-tres-concejales-de-elche-en-2011-iran-a-juicio-por-prevaricacion-ambiental) relataba omisión de control como tesis de los denunciantes. El desenlace penal publicado fue absolutorio y no acredita una connivencia probada.
-
-[Alicante Plaza, 3 de marzo de 2026](https://alicanteplaza.es/alicanteplaza/elcheplaza/absuelven-a-ex-ediles-y-funcionarios-de-elche-y-santa-pola-por-los-excesos-de-ruidos-de-los-chiringuitos-del-carabassi), explica que hubo inspecciones y medidas correctoras y que no se acreditó el acuerdo delictivo sostenido por las acusaciones. También recoge dudas sobre la atribución del ruido y las mediciones. Son motivos conocidos a través de la prensa, sin disponer de la sentencia original. [Versión Radio](https://www.versionradio.es/absuelven-a-exconcejales-de-elche-al-exalcalde-de-santa-pola-miguel-zaragoza-y-a-funcionarios-por-el-ruido-de-los-chiringuitos-de-el-carabassi/) confirma la absolución de Miguel Zaragoza, Justino Delgado, Luis Ángel Mateo y Emilio Domenech; la clasificación PP de la ficha no atribuye ese partido a Domenech, identificado como PSOE.
-
-## Importes y cuestiones pendientes
-
-Las noticias de [2017](https://alicanteplaza.es/el-ex-alcalde-de-santa-pola-y-tres-concejales-de-elche-en-2011-iran-a-juicio-por-prevaricacion-ambiental) y [octubre de 2025](https://www.versionradio.es/el-4-de-noviembre-comienza-el-juicio-por-prevaricacion-ambiental-contra-el-exalcalde-de-santa-pola-miguel-zaragoza-y-tres-exconcejales-de-elche/) refieren una indemnización contencioso-administrativa de 124.000 euros a cargo de los ayuntamientos. No se han obtenido las resoluciones, su reparto, firmeza ni prueba de pago. La cantidad procede de un antecedente atribuido a su fuente: no es una condena penal ni permite imputar un daño personal a los absueltos.
-
-No se ha recuperado el original de la sentencia penal, ni un PDF auténtico que permita comprobar sus metadatos. La cifra de 26 páginas es una referencia periodística, no una verificación documental. Las fuentes hablan de ocho acusados al anunciar la vista y de siete al informar del fallo; no se reconcilia ese número ni se inventan identidades de funcionarios. José Miguel Zaragoza aparecía en la noticia histórica como jefe policial, pero esa mención no acredita por sí sola que fuera acusado.
-
-La prensa también difiere en la denominación del órgano y del recurso. Onda Cero llama contenciosa a la resolución de 2026, frente a la identificación penal de las otras dos crónicas. Sin el original no se asume una segunda resolución contenciosa ni se fija la clase de recurso. No constan fechas exactas de inicio ni un cierre firme acreditado. Información disponible al 17 de octubre de 2026.

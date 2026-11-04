@@ -9,21 +9,28 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: sobreseimiento
-descripcion: >-
-  La investigación por presunta prevaricación se refería a la licencia municipal concedida el 14 de mayo de
-  2007 a Hortiagrícola para diez viviendas unifamiliares pareadas en la parcela 11 de la UE-109 de Roquetas de
-  Mar. La controversia afectaba al planeamiento que la amparaba: el 10 de mayo se había acordado una
-  suspensión cautelar, no la nulidad firme que se atribuyó inicialmente a esa fecha. Según la información
-  publicada sobre los autos, la notificación al Ayuntamiento se produjo el 16 de mayo, después de concederse
-  la licencia.
+descripcion: |-
+  La investigación por presunta prevaricación se refería a la licencia municipal concedida el 14 de mayo de 2007 a Hortiagrícola para diez viviendas unifamiliares pareadas en la parcela 11 de la UE-109 de Roquetas de Mar. La controversia afectaba al planeamiento que la amparaba: el 10 de mayo se había acordado una suspensión cautelar, no la nulidad firme que se atribuyó inicialmente a esa fecha. Según la información publicada sobre los autos, la notificación al Ayuntamiento se produjo el 16 de mayo, después de concederse la licencia.
 
+  El juzgado acordó el sobreseimiento provisional el 13 de mayo de 2015 y la Audiencia Provincial lo confirmó mediante auto de 29 de enero de 2016, según la prensa que informó de ambas resoluciones. El archivo se basó en la falta de indicios suficientes de que los investigados conocieran la ilegalidad, sin equivaler a una declaración de legalidad urbanística de la licencia. No se han recuperado los autos judiciales originales para comprobar todos sus pronunciamientos individuales, su régimen de recursos ni la evolución posterior del litigio urbanístico hasta el 15 de octubre de 2026; persisten esas carencias documentales.
 
-  El juzgado acordó el sobreseimiento provisional el 13 de mayo de 2015 y la Audiencia Provincial lo confirmó
-  mediante auto de 29 de enero de 2016, según la prensa que informó de ambas resoluciones. El archivo se basó
-  en la falta de indicios suficientes de que los investigados conocieran la ilegalidad, sin equivaler a una
-  declaración de legalidad urbanística de la licencia. No se han recuperado los autos judiciales originales
-  para comprobar todos sus pronunciamientos individuales, su régimen de recursos ni la evolución posterior del
-  litigio urbanístico hasta el 15 de octubre de 2026; persisten esas carencias documentales.
+  ### La licencia y el planeamiento
+
+  El [acta municipal de 14 de mayo de 2007](https://www.roquetasdemar.es/sites/default/files/jg070514.pdf) identifica la solicitud de Hortiagrícola como expediente 580/07: diez viviendas pareadas en la parcela 11 de la UE-109, entre las calles Miranda de Ebro y Santo Domingo de Silos. La Junta de Gobierno, presidida por Gabriel Amat, aprobó los acuerdos de Urbanismo que incluían esa licencia. El documento contiene condiciones de ejecución y una fianza de 28.000 euros para infraestructura; esa garantía no representa un perjuicio público, una comisión ni una multa. No se dispone de una cuantificación acreditada del daño económico y por ello no se consigna un coste cero.
+
+  La información publicada sobre la resolución de apelación distingue la suspensión cautelar del planeamiento, acordada el 10 de mayo de 2007, de su notificación al Ayuntamiento el día 16. No debe transformarse aquella medida cautelar en una sentencia firme de nulidad anterior a la licencia. La eventual anulación del planeamiento pertenece al ámbito contencioso-administrativo y no determina por sí sola la responsabilidad penal de quienes concedieron una licencia.
+
+  ### Investigación y archivo penal
+
+  El [Pleno de 10 de noviembre de 2014](https://www.roquetasdemar.es/sites/default/files/pl141110.pdf) incorporó un informe del letrado municipal que situaba la denuncia inicial de Margarita Kaiser ante la Fiscalía provincial el 28 de julio de 2011 y describía las diligencias 34/2012 y su relación con otras denuncias. Se trata del relato de la defensa municipal, no de una resolución judicial. En [octubre de 2014](https://www.libertaddigital.com/espana/2014-10-23/imputado-el-presidente-del-pp-de-almeria-por-prevaricacion-1276531572/) se conocieron nuevas citaciones de miembros de la Junta y técnicos. El acta de 2007 identifica a los miembros de la Junta: José María González Fernández, José Galdeano Antequera, José Juan Rubí Fuentes, Pedro Antonio López Gómez y Antonio García Aguilar. La [información contemporánea](https://www.teleprensa.com/almeria/provincia/gabriel-amat-presidente-del-pp-y-de-la-diputacion-de-almeria-imputado-por-la-jueza-rico/20141023170145467029.amp.html) identifica a los técnicos Francisco Hernández Cañada y Juan González Pomares.
+
+  La [Fiscalía no se opuso al archivo](https://www.europapress.es/andalucia/almeria-00350/noticia-fiscalia-no-opone-sobreseimiento-caso-fabriquilla-imputado-amat-20150326142229.html) por falta de indicios suficientes sobre el conocimiento de la ilegalidad. Según [La Voz de Almería](https://www.lavozdealmeria.com/provincia/81772/audiencia-provincial-archiva-definitivamente-caso-fabriquilla.html), el juzgado dictó el sobreseimiento provisional el 13 de mayo de 2015 y la Audiencia Provincial confirmó ese archivo el 29 de enero de 2016. La noticia describe el alcance colectivo respecto de los cargos municipales, técnicos y asesor jurídico investigados. [Diario de Almería](https://www.diariodealmeria.es/almeria/Audiencia-Provincial-Ayuntamiento-Roquetas-Fabriquilla_0_997700769.html) reproduce expresamente la decisión de mantener el «sobreseimiento provisional». No hubo en estas fuentes una sentencia de condena ni una absolución tras juicio.
+
+  ### Alcance del resultado conocido
+
+  Algunos titulares llamaron definitivo al archivo y Amat lo presentó como una vindicación. Eso no convierte el sobreseimiento provisional en sobreseimiento libre ni acredita que la licencia fuese legal. Los autos judiciales originales no se han recuperado: quedan pendientes la comprobación íntegra de los pronunciamientos por persona, los recursos y la situación del litigio urbanístico posterior. Al 17 de octubre de 2026, no consta una nueva resolución verificable de 2025 o 2026 sobre esta licencia. La información disponible no permite afirmar que se haya reabierto la causa ni que todo litigio relacionado esté terminado.
+
+  La Fabriquilla no engloba automáticamente otras piezas sobre sociedades o contrataciones relacionadas con Amat. Tampoco se trasladan a este expediente los resultados de procedimientos por injurias o calumnias contra denunciantes. Las alegaciones iniciales sobre presiones en la venta y operaciones financieras no se presentan como hechos judicialmente probados ni se utilizan para calcular un daño.
 resumen: Investigación por la licencia para diez viviendas en La Fabriquilla, sobreseída provisionalmente y confirmada
   en apelación.
 lugar: Roquetas de Mar, Almería, Andalucía
@@ -147,21 +154,3 @@ cronologia:
   - https://www.diariodealmeria.es/almeria/Audiencia-Provincial-Ayuntamiento-Roquetas-Fabriquilla_0_997700769.html
   type: recurso
 ---
-
-## La licencia y el planeamiento
-
-El [acta municipal de 14 de mayo de 2007](https://www.roquetasdemar.es/sites/default/files/jg070514.pdf) identifica la solicitud de Hortiagrícola como expediente 580/07: diez viviendas pareadas en la parcela 11 de la UE-109, entre las calles Miranda de Ebro y Santo Domingo de Silos. La Junta de Gobierno, presidida por Gabriel Amat, aprobó los acuerdos de Urbanismo que incluían esa licencia. El documento contiene condiciones de ejecución y una fianza de 28.000 euros para infraestructura; esa garantía no representa un perjuicio público, una comisión ni una multa. No se dispone de una cuantificación acreditada del daño económico y por ello no se consigna un coste cero.
-
-La información publicada sobre la resolución de apelación distingue la suspensión cautelar del planeamiento, acordada el 10 de mayo de 2007, de su notificación al Ayuntamiento el día 16. No debe transformarse aquella medida cautelar en una sentencia firme de nulidad anterior a la licencia. La eventual anulación del planeamiento pertenece al ámbito contencioso-administrativo y no determina por sí sola la responsabilidad penal de quienes concedieron una licencia.
-
-## Investigación y archivo penal
-
-El [Pleno de 10 de noviembre de 2014](https://www.roquetasdemar.es/sites/default/files/pl141110.pdf) incorporó un informe del letrado municipal que situaba la denuncia inicial de Margarita Kaiser ante la Fiscalía provincial el 28 de julio de 2011 y describía las diligencias 34/2012 y su relación con otras denuncias. Se trata del relato de la defensa municipal, no de una resolución judicial. En [octubre de 2014](https://www.libertaddigital.com/espana/2014-10-23/imputado-el-presidente-del-pp-de-almeria-por-prevaricacion-1276531572/) se conocieron nuevas citaciones de miembros de la Junta y técnicos. El acta de 2007 identifica a los miembros de la Junta: José María González Fernández, José Galdeano Antequera, José Juan Rubí Fuentes, Pedro Antonio López Gómez y Antonio García Aguilar. La [información contemporánea](https://www.teleprensa.com/almeria/provincia/gabriel-amat-presidente-del-pp-y-de-la-diputacion-de-almeria-imputado-por-la-jueza-rico/20141023170145467029.amp.html) identifica a los técnicos Francisco Hernández Cañada y Juan González Pomares.
-
-La [Fiscalía no se opuso al archivo](https://www.europapress.es/andalucia/almeria-00350/noticia-fiscalia-no-opone-sobreseimiento-caso-fabriquilla-imputado-amat-20150326142229.html) por falta de indicios suficientes sobre el conocimiento de la ilegalidad. Según [La Voz de Almería](https://www.lavozdealmeria.com/provincia/81772/audiencia-provincial-archiva-definitivamente-caso-fabriquilla.html), el juzgado dictó el sobreseimiento provisional el 13 de mayo de 2015 y la Audiencia Provincial confirmó ese archivo el 29 de enero de 2016. La noticia describe el alcance colectivo respecto de los cargos municipales, técnicos y asesor jurídico investigados. [Diario de Almería](https://www.diariodealmeria.es/almeria/Audiencia-Provincial-Ayuntamiento-Roquetas-Fabriquilla_0_997700769.html) reproduce expresamente la decisión de mantener el «sobreseimiento provisional». No hubo en estas fuentes una sentencia de condena ni una absolución tras juicio.
-
-## Alcance del resultado conocido
-
-Algunos titulares llamaron definitivo al archivo y Amat lo presentó como una vindicación. Eso no convierte el sobreseimiento provisional en sobreseimiento libre ni acredita que la licencia fuese legal. Los autos judiciales originales no se han recuperado: quedan pendientes la comprobación íntegra de los pronunciamientos por persona, los recursos y la situación del litigio urbanístico posterior. Al 17 de octubre de 2026, no consta una nueva resolución verificable de 2025 o 2026 sobre esta licencia. La información disponible no permite afirmar que se haya reabierto la causa ni que todo litigio relacionado esté terminado.
-
-La Fabriquilla no engloba automáticamente otras piezas sobre sociedades o contrataciones relacionadas con Amat. Tampoco se trasladan a este expediente los resultados de procedimientos por injurias o calumnias contra denunciantes. Las alegaciones iniciales sobre presiones en la venta y operaciones financieras no se presentan como hechos judicialmente probados ni se utilizan para calcular un daño.

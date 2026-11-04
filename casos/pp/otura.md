@@ -9,30 +9,26 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas y absolución en causas distintas
-descripcion: 'Las Alondras y la compra de un solar para ampliar el Ayuntamiento de Otura fueron procedimientos distintos.
-  Por Las Alondras, la Sección Segunda de la Audiencia de Granada impuso en 2015, tras la conformidad alcanzada
-  el 21 de abril, 16 años de inhabilitación a Ignacio Fernández-Sanz por prevaricación ordinaria y urbanística,
-  con multa de 4.328 euros. Pedro Cabanillas e Ignacio Pérez Cabrera recibieron siete años de inhabilitación y multa
-  de 3.246 euros cada uno; María Antonia López Bascuñana y María Dolores Dobaño, dos años de inhabilitación. La
-  crónica de la sentencia publicada en junio cifra las multas de estas últimas en 675 euros cada una, mientras que
-  la noticia del acuerdo de abril daba 2.705 euros: falta el original para resolver esa discrepancia. Las condenas
-  se relacionaban con licencias de ocupación y la recepción de unas obras de urbanización incompletas en 2007; no
-  fueron condenas a prisión.
+descripcion: |-
+  Las Alondras y la compra de un solar para ampliar el Ayuntamiento de Otura fueron procedimientos distintos. Por Las Alondras, la Sección Segunda de la Audiencia de Granada impuso en 2015, tras la conformidad alcanzada el 21 de abril, 16 años de inhabilitación a Ignacio Fernández-Sanz por prevaricación ordinaria y urbanística, con multa de 4.328 euros. Pedro Cabanillas e Ignacio Pérez Cabrera recibieron siete años de inhabilitación y multa de 3.246 euros cada uno; María Antonia López Bascuñana y María Dolores Dobaño, dos años de inhabilitación. La crónica de la sentencia publicada en junio cifra las multas de estas últimas en 675 euros cada una, mientras que la noticia del acuerdo de abril daba 2.705 euros: falta el original para resolver esa discrepancia. Las condenas se relacionaban con licencias de ocupación y la recepción de unas obras de urbanización incompletas en 2007; no fueron condenas a prisión.
 
+  Por la compra del solar en 2007, el Juzgado de lo Penal 1 de Granada condenó a Fernández-Sanz, Cabanillas, Pérez Cabrera y Eduardo Anguita Benítez a ocho años de inhabilitación cada uno. La Audiencia confirmó las penas en una resolución conocida en abril de 2015, pero dejó sin efecto la indemnización solidaria de 129.807,91 euros impuesta inicialmente. El precio de 300.000 euros más 48.000 de IVA no equivale por sí mismo a un perjuicio judicialmente fijado. López Bascuñana y Dobaño fueron absueltas en esta causa, al igual que otros dos acusados.
 
-  Por la compra del solar en 2007, el Juzgado de lo Penal 1 de Granada condenó a Fernández-Sanz, Cabanillas, Pérez
-  Cabrera y Eduardo Anguita Benítez a ocho años de inhabilitación cada uno. La Audiencia confirmó las penas en una
-  resolución conocida en abril de 2015, pero dejó sin efecto la indemnización solidaria de 129.807,91 euros impuesta
-  inicialmente. El precio de 300.000 euros más 48.000 de IVA no equivale por sí mismo a un perjuicio judicialmente
-  fijado. López Bascuñana y Dobaño fueron absueltas en esta causa, al igual que otros dos acusados.
+  En otra causa, por la gestión del contrato de basuras, la Sección Primera de la Audiencia absolvió a Fernández-Sanz y a otros cinco exconcejales del delito continuado de prevaricación administrativa. La sentencia se conoció el 11 de septiembre de 2026 y era recurrible. Esta absolución no revoca las condenas de los otros procedimientos. No se han obtenido las resoluciones originales ni documentación suficiente sobre la firmeza individual, posibles recursos posteriores o liquidación y cumplimiento de las inhabilitaciones; tampoco la identificación completa de los otros cinco absueltos en la causa de basuras.
 
+  ### Procedimientos y alcance
 
-  En otra causa, por la gestión del contrato de basuras, la Sección Primera de la Audiencia absolvió a Fernández-Sanz
-  y a otros cinco exconcejales del delito continuado de prevaricación administrativa. La sentencia se conoció el
-  11 de septiembre de 2026 y era recurrible. Esta absolución no revoca las condenas de los otros procedimientos.
-  No se han obtenido las resoluciones originales ni documentación suficiente sobre la firmeza individual, posibles
-  recursos posteriores o liquidación y cumplimiento de las inhabilitaciones; tampoco la identificación completa
-  de los otros cinco absueltos en la causa de basuras.'
+  La denominación Otura agrupa aquí las causas de Las Alondras y de la adquisición del solar municipal. La [sentencia de Las Alondras conocida en junio de 2015](https://www.granadahoy.com/granada/Audiencia-prevaricar-alcaldes-concejales-Otura_0_922708173.html) impuso inhabilitación y multas tras una conformidad. Las noticias del acuerdo y de la sentencia discrepan sobre dos multas; sin el fallo original no puede darse por resuelta esa diferencia ni fijarse el calendario de cumplimiento.
+
+  La [apelación relativa al solar](https://www.andaluciainformacion.es/articulo/provincia-de-granada/confirman-la-condena-a-ocho-anos-de-inhabilitacion-a-exalcaldes-de-otura-por-prevaricacion/201504061723021616409.amp.html) confirmó las penas y anuló la indemnización solidaria inicial. Su precio de adquisición fue de 300.000 euros más IVA; las tasaciones reproducidas en prensa fueron 188.098 euros y 257.653,98 euros en el supuesto de poder construir tres plantas. Estos conceptos no se suman ni se presenta el precio completo como daño. La información publicada identifica también cuatro absoluciones en esta causa, distintas de las condenas de Las Alondras.
+
+  La [absolución por el contrato de basuras conocida en septiembre de 2026](https://www.europapress.es/andalucia/noticia-audiencia-granada-absuelve-exalcalde-otura-causa-gestion-contrato-basuras-20260911125122.html) corresponde a otro procedimiento. La sentencia era recurrible y la noticia no identifica nominalmente a los otros cinco absueltos. La deuda contractual y las cantidades reclamadas durante la acusación no constituyen una condena indemnizatoria acreditada.
+
+  No se dispone de las resoluciones originales ni de documentación sobre posteriores recursos, firmeza y ejecución individual. Tampoco se afirma que la absolución de basuras cierre todas las causas que hayan afectado a los antiguos cargos municipales.
+
+  ### Consecuencias urbanísticas
+
+  La [información de Cadena SER de junio de 2022](https://cadenaser.com/andalucia/2022/06/01/otura-recupera-y-acondiciona-una-urbanizacion-por-cuya-tramitacion-un-exalcalde-fue-condenado-radio-granada/) recoge el anuncio municipal de terminación y recepción legal de Las Alondras. Su financiación mediante avales y la situación urbanística posterior se distinguen de las responsabilidades penales por los acuerdos de 2007.
 resumen: Condenas por Las Alondras y por la compra de un solar; absolución recurrible en 2026 por la gestión del
   contrato de basuras.
 lugar: Otura, Granada, Andalucía
@@ -169,17 +165,3 @@ cronologia:
   urls:
   - https://www.europapress.es/andalucia/noticia-audiencia-granada-absuelve-exalcalde-otura-causa-gestion-contrato-basuras-20260911125122.html
 ---
-
-## Procedimientos y alcance
-
-La denominación Otura agrupa aquí las causas de Las Alondras y de la adquisición del solar municipal. La [sentencia de Las Alondras conocida en junio de 2015](https://www.granadahoy.com/granada/Audiencia-prevaricar-alcaldes-concejales-Otura_0_922708173.html) impuso inhabilitación y multas tras una conformidad. Las noticias del acuerdo y de la sentencia discrepan sobre dos multas; sin el fallo original no puede darse por resuelta esa diferencia ni fijarse el calendario de cumplimiento.
-
-La [apelación relativa al solar](https://www.andaluciainformacion.es/articulo/provincia-de-granada/confirman-la-condena-a-ocho-anos-de-inhabilitacion-a-exalcaldes-de-otura-por-prevaricacion/201504061723021616409.amp.html) confirmó las penas y anuló la indemnización solidaria inicial. Su precio de adquisición fue de 300.000 euros más IVA; las tasaciones reproducidas en prensa fueron 188.098 euros y 257.653,98 euros en el supuesto de poder construir tres plantas. Estos conceptos no se suman ni se presenta el precio completo como daño. La información publicada identifica también cuatro absoluciones en esta causa, distintas de las condenas de Las Alondras.
-
-La [absolución por el contrato de basuras conocida en septiembre de 2026](https://www.europapress.es/andalucia/noticia-audiencia-granada-absuelve-exalcalde-otura-causa-gestion-contrato-basuras-20260911125122.html) corresponde a otro procedimiento. La sentencia era recurrible y la noticia no identifica nominalmente a los otros cinco absueltos. La deuda contractual y las cantidades reclamadas durante la acusación no constituyen una condena indemnizatoria acreditada.
-
-No se dispone de las resoluciones originales ni de documentación sobre posteriores recursos, firmeza y ejecución individual. Tampoco se afirma que la absolución de basuras cierre todas las causas que hayan afectado a los antiguos cargos municipales.
-
-## Consecuencias urbanísticas
-
-La [información de Cadena SER de junio de 2022](https://cadenaser.com/andalucia/2022/06/01/otura-recupera-y-acondiciona-una-urbanizacion-por-cuya-tramitacion-un-exalcalde-fue-condenado-radio-granada/) recoge el anuncio municipal de terminación y recepción legal de Las Alondras. Su financiación mediante avales y la situación urbanística posterior se distinguen de las responsabilidades penales por los acuerdos de 2007.

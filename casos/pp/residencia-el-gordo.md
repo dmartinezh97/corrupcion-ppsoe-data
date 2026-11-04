@@ -8,37 +8,22 @@ estadoPrincipal: Pendiente de juicio
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: Juicio anunciado; desenlace no verificado
-descripcion: >-
-  El procedimiento se refiere a presuntas irregularidades en la contratación y ejecución de una residencia
-  municipal de mayores de El Gordo (Cáceres). El constructor Claudio Jiménez Guinea denunció los hechos en
-  2013, según la información periodística posterior. El anuncio oficial de adjudicación sitúa el acuerdo
-  municipal el 2 de febrero de 2010, a favor de Guinea y de la Loma SL, por 2.597.999,99 euros con IVA. Ese
-  importe es el precio de adjudicación, no un perjuicio por corrupción.
+descripcion: |-
+  El procedimiento se refiere a presuntas irregularidades en la contratación y ejecución de una residencia municipal de mayores de El Gordo (Cáceres). El constructor Claudio Jiménez Guinea denunció los hechos en 2013, según la información periodística posterior. El anuncio oficial de adjudicación sitúa el acuerdo municipal el 2 de febrero de 2010, a favor de Guinea y de la Loma SL, por 2.597.999,99 euros con IVA. Ese importe es el precio de adjudicación, no un perjuicio por corrupción.
 
+  En octubre de 2016 EFE informó de la acusación de la Fiscalía de Cáceres contra el exalcalde Bautista Sánchez y el entonces alcalde Elías Correas, ambos del PP, y dos profesionales técnicos. La Fiscalía solicitaba cuatro y tres años de prisión para los dos primeros, respectivamente, y formulaba acusaciones de prevaricación y malversación. Entre los hechos discutidos estaban la contratación de servicios técnicos y la sustitución de una cuadra que, según la acusación, pertenecía al padre de Correas. Son pretensiones y hechos atribuidos por la acusación, no condenas.
 
-  En octubre de 2016 EFE informó de la acusación de la Fiscalía de Cáceres contra el exalcalde Bautista
-  Sánchez y el entonces alcalde Elías Correas, ambos del PP, y dos profesionales técnicos. La Fiscalía
-  solicitaba cuatro y tres años de prisión para los dos primeros, respectivamente, y formulaba acusaciones de
-  prevaricación y malversación. Entre los hechos discutidos estaban la contratación de servicios técnicos y la
-  sustitución de una cuadra que, según la acusación, pertenecía al padre de Correas. Son pretensiones y hechos
-  atribuidos por la acusación, no condenas.
+  El 11 de junio de 2018 elDiario.es informó de que el Juzgado de Instrucción nº 2 de Navalmoral de la Mata había acordado la apertura de juicio oral en abril de ese año, y atribuyó a Correas acusaciones de prevaricación, malversación y tráfico de influencias. La decisión de abrir juicio corresponde al órgano judicial, no a la Fiscalía. No se dispone aquí de ese auto original ni de los escritos definitivos de todas las partes, por lo que no puede fijarse con seguridad el número final de acusados ni los delitos por persona.
 
+  La referencia localizada de abril de 2019 aún describía a Correas y Sánchez a la espera de juicio. No se ha acreditado el desenlace posterior ni su situación individual hasta el 15 de octubre de 2026: no se afirma que el juicio siga pendiente, que haya condena o absolución, ni que exista una resolución firme. También faltan los originales judiciales y cualquier responsabilidad económica definitivamente fijada. Los 820.000 euros no están respaldados por una resolución verificada; tampoco son equivalentes al precio de la obra o a los impagos reclamados por el constructor. La situación de la residencia en las noticias antiguas no acredita su uso actual.
 
-  El 11 de junio de 2018 elDiario.es informó de que el Juzgado de Instrucción nº 2 de Navalmoral de la Mata
-  había acordado la apertura de juicio oral en abril de ese año, y atribuyó a Correas acusaciones de
-  prevaricación, malversación y tráfico de influencias. La decisión de abrir juicio corresponde al órgano
-  judicial, no a la Fiscalía. No se dispone aquí de ese auto original ni de los escritos definitivos de todas
-  las partes, por lo que no puede fijarse con seguridad el número final de acusados ni los delitos por
-  persona.
+  El [anuncio oficial de adjudicación](https://bop.dip-caceres.es/bop/services/boletines/contenidoPdfIdBolentin?idBoletin=2302) identifica contrato, adjudicatario, fecha e importe. El presupuesto base de licitación era de 2.891.366,93 euros con IVA, frente a los 2.597.999,99 euros adjudicados. Ninguna de estas cifras acredita dinero desviado. El anuncio está firmado el 15 de febrero de 2010 por Elías Correas Bravo como alcalde en funciones y fue publicado el 18 de febrero; esas fechas no sustituyen la del acuerdo de 2 de febrero.
 
+  La [crónica de 2015](https://www.eldiario.es/extremadura/alcalde-gordo-particulares-imputados-residencia_1_2300367.amp.html) distingue al empresario denunciante de los investigados y describe una reclamación de impago. La [información de EFE de 2016](https://www.eldiario.es/extremadura/fiscalia-exalcalde-gordo-malversacion-prevaricacion_1_3771301.html) recoge las pretensiones de la Fiscalía, entre ellas una reclamación del constructor de 11.390 euros por una cuadra. No permite sumar esa cantidad, la deuda reclamada y el presupuesto como un perjuicio penal global. Los puestos de arquitecto, redactor y director pueden corresponder a las mismas personas; no deben convertirse automáticamente en tres acusados distintos.
 
-  La referencia localizada de abril de 2019 aún describía a Correas y Sánchez a la espera de juicio. No se ha
-  acreditado el desenlace posterior ni su situación individual hasta el 15 de octubre de 2026: no se afirma
-  que el juicio siga pendiente, que haya condena o absolución, ni que exista una resolución firme. También
-  faltan los originales judiciales y cualquier responsabilidad económica definitivamente fijada. Los 820.000
-  euros no están respaldados por una resolución verificada; tampoco son equivalentes al precio de la obra o a
-  los impagos reclamados por el constructor. La situación de la residencia en las noticias antiguas no
-  acredita su uso actual.
+  La [noticia de junio de 2018](https://www.eldiario.es/extremadura/sociedad/exigen-dimision-alcalde-gordo-malversacion_1_2764584.html) sitúa la apertura de juicio en abril de 2018 y mezcla en un pasaje esa decisión con la actuación fiscal. La competencia corresponde al juzgado. Las afirmaciones sobre que sería el primer alcalde extremeño juzgado por este tipo de hechos eran una valoración de Izquierda Unida y no se mantienen como dato judicial. La [referencia de abril de 2019](https://www.publico.es/politica/lista-espera-corrupcion-doscientos-casos-aislados-pendientes-juicio.html) no prueba la celebración de la vista ni su desenlace.
+
+  Sin los originales de la causa no se fijan penas, indemnizaciones ni firmeza. Las investigaciones sobre esta residencia deben distinguirse del litigio urbanístico de Marina Isla de Valdecañas, aunque coincida el municipio, y de procedimientos ajenos contra personas apodadas «El Gordo».
 resumen: Procedimiento por presuntas irregularidades en las obras de una residencia de mayores; apertura de juicio difundida
   en 2018, sin desenlace posterior acreditado.
 lugar: El Gordo, Cáceres, Extremadura
@@ -111,11 +96,3 @@ cronologia:
   - https://www.publico.es/politica/lista-espera-corrupcion-doscientos-casos-aislados-pendientes-juicio.html
   type: resumen
 ---
-
-El [anuncio oficial de adjudicación](https://bop.dip-caceres.es/bop/services/boletines/contenidoPdfIdBolentin?idBoletin=2302) identifica contrato, adjudicatario, fecha e importe. El presupuesto base de licitación era de 2.891.366,93 euros con IVA, frente a los 2.597.999,99 euros adjudicados. Ninguna de estas cifras acredita dinero desviado. El anuncio está firmado el 15 de febrero de 2010 por Elías Correas Bravo como alcalde en funciones y fue publicado el 18 de febrero; esas fechas no sustituyen la del acuerdo de 2 de febrero.
-
-La [crónica de 2015](https://www.eldiario.es/extremadura/alcalde-gordo-particulares-imputados-residencia_1_2300367.amp.html) distingue al empresario denunciante de los investigados y describe una reclamación de impago. La [información de EFE de 2016](https://www.eldiario.es/extremadura/fiscalia-exalcalde-gordo-malversacion-prevaricacion_1_3771301.html) recoge las pretensiones de la Fiscalía, entre ellas una reclamación del constructor de 11.390 euros por una cuadra. No permite sumar esa cantidad, la deuda reclamada y el presupuesto como un perjuicio penal global. Los puestos de arquitecto, redactor y director pueden corresponder a las mismas personas; no deben convertirse automáticamente en tres acusados distintos.
-
-La [noticia de junio de 2018](https://www.eldiario.es/extremadura/sociedad/exigen-dimision-alcalde-gordo-malversacion_1_2764584.html) sitúa la apertura de juicio en abril de 2018 y mezcla en un pasaje esa decisión con la actuación fiscal. La competencia corresponde al juzgado. Las afirmaciones sobre que sería el primer alcalde extremeño juzgado por este tipo de hechos eran una valoración de Izquierda Unida y no se mantienen como dato judicial. La [referencia de abril de 2019](https://www.publico.es/politica/lista-espera-corrupcion-doscientos-casos-aislados-pendientes-juicio.html) no prueba la celebración de la vista ni su desenlace.
-
-Sin los originales de la causa no se fijan penas, indemnizaciones ni firmeza. Las investigaciones sobre esta residencia deben distinguirse del litigio urbanístico de Marina Isla de Valdecañas, aunque coincida el municipio, y de procedimientos ajenos contra personas apodadas «El Gordo».

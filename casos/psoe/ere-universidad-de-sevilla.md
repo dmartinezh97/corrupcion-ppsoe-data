@@ -12,14 +12,18 @@ estado: Exclusiones individuales; desenlace restante no acreditado
 lugar: Sevilla, Andalucía
 resumen: Investigación de una ayuda de 30.000 euros para actividades de formación de un máster, con exclusiones procesales
   individuales.
-descripcion: 'La pieza examina una ayuda de 30.000 euros vinculada al máster de Gestión Integral de Asociaciones sin
-  Ánimo de Lucro: Fundaciones y ONG de la Universidad de Sevilla. No se trata de una póliza de prejubilación ni de bajas
-  de personal universitario. En 2017 se reseñaron citaciones de seis investigados. La Audiencia confirmó en enero de
-  2018 la exclusión de Antonio Fernández por la duplicidad con el procedimiento específico de los ERE; una noticia de
-  febrero de 2018 también recoge la exclusión de Juan Márquez de esta pieza, sin acreditar aquí el resultado de sus recursos
-  específicos. No se han recuperado los autos originales ni se documenta el desenlace del resto de personas, un archivo
-  general, juicio, recursos o firmeza a 15 de octubre de 2026. Los 30.000 euros son el importe de la ayuda investigada,
-  no daño fijado por sentencia.'
+descripcion: |-
+  La pieza examina una ayuda de 30.000 euros vinculada al máster de Gestión Integral de Asociaciones sin Ánimo de Lucro: Fundaciones y ONG de la Universidad de Sevilla. No se trata de una póliza de prejubilación ni de bajas de personal universitario. En 2017 se reseñaron citaciones de seis investigados. La Audiencia confirmó en enero de 2018 la exclusión de Antonio Fernández por la duplicidad con el procedimiento específico de los ERE; una noticia de febrero de 2018 también recoge la exclusión de Juan Márquez de esta pieza, sin acreditar aquí el resultado de sus recursos específicos. No se han recuperado los autos originales ni se documenta el desenlace del resto de personas, un archivo general, juicio, recursos o firmeza a 15 de octubre de 2026. Los 30.000 euros son el importe de la ayuda investigada, no daño fijado por sentencia.
+
+  La ayuda investigada estaba destinada a actividades de formación relacionadas con un máster de la Universidad de Sevilla. La reseña del expediente describe una resolución de septiembre de 2007, un convenio con IDEA de septiembre de 2008 y una orden de pago de octubre de 2008. No describe un ERE del personal universitario ni una póliza para prejubilaciones.
+
+  La apertura divulgada en marzo de 2017 incluyó citaciones de Guerrero, Márquez, Barberá, Cañete, Diz-Lois y el director del máster Francisco José González. Una citación no acredita culpabilidad, acusación definitiva o apertura de juicio. El importe de 30.000 euros corresponde a la ayuda y no se convierte en coste del fraude sin una declaración judicial que cuantifique el daño.
+
+  La Audiencia confirmó la exclusión de Antonio Fernández al resolver un recurso contra el auto de septiembre de 2017. La motivación reseñada se refiere a la duplicidad de procedimientos y al contenido del proceso del procedimiento específico. Asimismo, una noticia de febrero de 2018 enumera la Universidad entre las piezas de las que había sido excluido Juan Márquez. Esa noticia confirma una resolución de la Audiencia sobre Río Grande, por lo que no se atribuye a la pieza universitaria la fecha ni la firmeza del auto de otro expediente.
+
+  No se dispone del desenlace de los demás investigados, de los originales de esas resoluciones ni de un resultado general a 15 de octubre de 2026. No se deduce que la investigación siga abierta por falta de noticias, ni se trasladan condenas o recursos de la pieza política o de otros expedientes de formación. Las ayudas al Obispado de Cádiz y al Ayuntamiento de San Nicolás del Puerto que aparecen en las mismas noticias son operaciones diferentes.
+
+  Fuentes: [reseña de la ayuda, Europa Press](https://www.europapress.es/andalucia/noticia-juez-nunez-cita-investigado-martes-obispo-emerito-cadiz-ayuda-ere-20170424164251.html), [apertura publicada en marzo de 2017](https://www.sevillaactualidad.com/sevilla/41701-bolanos-abre-una-pieza-para-investigar-una-ayuda-a-la-us-de-30-000-euros-en-los-ere/), [confirmación de la exclusión de Fernández](https://www.diariodesevilla.es/andalucia/Audiencia-Sevilla-Fiscalia-Anticorrupcion-ERE_0_1211579484.html) y [referencia específica a la exclusión de Márquez](https://www.europapress.es/andalucia/noticia-audiencia-confirma-exclusion-ex-director-general-juan-marquez-pieza-separada-rio-grande-ere-20180204112133.html).
 tribunal:
 - Juzgado de Instrucción número 6 de Sevilla
 - Audiencia Provincial de Sevilla, Sección Séptima (recursos individuales)
@@ -113,13 +117,3 @@ cronologia:
   type: judicial
   relevancia: alta
 ---
-
-La ayuda investigada estaba destinada a actividades de formación relacionadas con un máster de la Universidad de Sevilla. La reseña del expediente describe una resolución de septiembre de 2007, un convenio con IDEA de septiembre de 2008 y una orden de pago de octubre de 2008. No describe un ERE del personal universitario ni una póliza para prejubilaciones.
-
-La apertura divulgada en marzo de 2017 incluyó citaciones de Guerrero, Márquez, Barberá, Cañete, Diz-Lois y el director del máster Francisco José González. Una citación no acredita culpabilidad, acusación definitiva o apertura de juicio. El importe de 30.000 euros corresponde a la ayuda y no se convierte en coste del fraude sin una declaración judicial que cuantifique el daño.
-
-La Audiencia confirmó la exclusión de Antonio Fernández al resolver un recurso contra el auto de septiembre de 2017. La motivación reseñada se refiere a la duplicidad de procedimientos y al contenido del proceso del procedimiento específico. Asimismo, una noticia de febrero de 2018 enumera la Universidad entre las piezas de las que había sido excluido Juan Márquez. Esa noticia confirma una resolución de la Audiencia sobre Río Grande, por lo que no se atribuye a la pieza universitaria la fecha ni la firmeza del auto de otro expediente.
-
-No se dispone del desenlace de los demás investigados, de los originales de esas resoluciones ni de un resultado general a 15 de octubre de 2026. No se deduce que la investigación siga abierta por falta de noticias, ni se trasladan condenas o recursos de la pieza política o de otros expedientes de formación. Las ayudas al Obispado de Cádiz y al Ayuntamiento de San Nicolás del Puerto que aparecen en las mismas noticias son operaciones diferentes.
-
-Fuentes: [reseña de la ayuda, Europa Press](https://www.europapress.es/andalucia/noticia-juez-nunez-cita-investigado-martes-obispo-emerito-cadiz-ayuda-ere-20170424164251.html), [apertura publicada en marzo de 2017](https://www.sevillaactualidad.com/sevilla/41701-bolanos-abre-una-pieza-para-investigar-una-ayuda-a-la-us-de-30-000-euros-en-los-ere/), [confirmación de la exclusión de Fernández](https://www.diariodesevilla.es/andalucia/Audiencia-Sevilla-Fiscalia-Anticorrupcion-ERE_0_1211579484.html) y [referencia específica a la exclusión de Márquez](https://www.europapress.es/andalucia/noticia-audiencia-confirma-exclusion-ex-director-general-juan-marquez-pieza-separada-rio-grande-ere-20180204112133.html).

@@ -9,50 +9,36 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: activo
-descripcion: 'Azud investiga presuntas comisiones, regalos y contratos simulados a cambio de adjudicaciones y decisiones
-  urbanísticas en Valencia y otros municipios de la Comunitat Valenciana. La causa, abierta judicialmente en 2017,
-  se instruye en la plaza número 13 de la Sección de Instrucción del Tribunal de Instancia de Valencia, antes Juzgado
-  de Instrucción nº 13. La nota judicial sitúa su antecedente en una denuncia presentada por la Agencia Tributaria
-  ante la Fiscalía en 2016 contra el despacho del abogado José María Corbín Navarrete, cuñado de Rita Barberá.
+descripcion: |-
+  Azud investiga presuntas comisiones, regalos y contratos simulados a cambio de adjudicaciones y decisiones urbanísticas en Valencia y otros municipios de la Comunitat Valenciana. La causa, abierta judicialmente en 2017, se instruye en la plaza número 13 de la Sección de Instrucción del Tribunal de Instancia de Valencia, antes Juzgado de Instrucción nº 13. La nota judicial sitúa su antecedente en una denuncia presentada por la Agencia Tributaria ante la Fiscalía en 2016 contra el despacho del abogado José María Corbín Navarrete, cuñado de Rita Barberá.
 
+  La investigación abarca operaciones distintas. En Valencia se examinan la contratación de saneamiento adjudicada a una UTE de Acciona, operaciones del Grupo Axis de Jaime María Febrer Rovira, el PAI del Grao, la ayuda a domicilio y la llamada «operación colegios»: entrega de parcelas a Mediterránea de Actuaciones Integradas (MAI) a cambio de asumir una deuda municipal con congregaciones religiosas. La instrucción atribuye presuntas comisiones al exvicealcalde del PP Alfonso Grau Alonso, a Corbín y al exportavoz socialista Rafael Rubio Martínez, entre otros; Jorge Bellver Casaña, exconcejal del PP, continúa encausado por su intervención municipal y presuntos regalos. Son atribuciones indiciarias, no hechos establecidos por una sentencia penal.
 
-  La investigación abarca operaciones distintas. En Valencia se examinan la contratación de saneamiento adjudicada
-  a una UTE de Acciona, operaciones del Grupo Axis de Jaime María Febrer Rovira, el PAI del Grao, la ayuda a domicilio
-  y la llamada «operación colegios»: entrega de parcelas a Mediterránea de Actuaciones Integradas (MAI) a cambio
-  de asumir una deuda municipal con congregaciones religiosas. La instrucción atribuye presuntas comisiones al exvicealcalde
-  del PP Alfonso Grau Alonso, a Corbín y al exportavoz socialista Rafael Rubio Martínez, entre otros; Jorge Bellver
-  Casaña, exconcejal del PP, continúa encausado por su intervención municipal y presuntos regalos. Son atribuciones
-  indiciarias, no hechos establecidos por una sentencia penal.
+  En Xixona se investigan el PAI El Espartal, la adquisición de terrenos de la entonces alcaldesa del PP Rosa María Verdú Ramos y su familia y los gastos de su campaña de 2007 presuntamente pagados por empresas del promotor. También se examinan las gestiones del abogado José Luis Vera Llorens y del exdirectivo de Acuamed Joan Navarro Martínez para obtener recursos hídricos para ese desarrollo, y el supuesto pago de gastos electorales del PSPV-PSOE como contraprestación. Los archivos por prescripción de José María Cataluña y Enrique Gimeno, conocidos el 30 de julio de 2026, no equivalen a una absolución tras juicio ni cierran las atribuciones a Rubio, Vera o los demás encausados de esta rama. Otros investigados obtuvieron archivos al no quedar acreditada su participación. Las crónicas discrepan sobre el total de beneficiarios de aquellos autos —trece o quince— y no se dispone de sus originales para resolver la diferencia y delimitar todos los pronunciamientos.
 
+  El 3 de septiembre de 2026 se notificó el auto que acuerda continuar por procedimiento abreviado contra 38 personas, según el CGPJ. Concluye la instrucción y abre la fase intermedia, con traslado por diez días a las acusaciones para solicitar juicio oral, sobreseimiento o diligencias complementarias. No es un auto de apertura del juicio oral ni una condena. La resolución admitía reforma y apelación; la prensa de septiembre documentó recursos de las defensas, sin que se haya localizado su desenlace. La jueza admitió además una declaración voluntaria de Vera para septiembre; la prensa local informó de su comparecencia el día 16, en la que negó cobros en negro. El PP anunció el 18 de septiembre su retirada como acusación popular, lo que no puso fin al procedimiento.
 
-  En Xixona se investigan el PAI El Espartal, la adquisición de terrenos de la entonces alcaldesa del PP Rosa María
-  Verdú Ramos y su familia y los gastos de su campaña de 2007 presuntamente pagados por empresas del promotor. También
-  se examinan las gestiones del abogado José Luis Vera Llorens y del exdirectivo de Acuamed Joan Navarro Martínez
-  para obtener recursos hídricos para ese desarrollo, y el supuesto pago de gastos electorales del PSPV-PSOE como
-  contraprestación. Los archivos por prescripción de José María Cataluña y Enrique Gimeno, conocidos el 30 de julio
-  de 2026, no equivalen a una absolución tras juicio ni cierran las atribuciones a Rubio, Vera o los demás encausados
-  de esta rama. Otros investigados obtuvieron archivos al no quedar acreditada su participación. Las crónicas discrepan
-  sobre el total de beneficiarios de aquellos autos —trece o quince— y no se dispone de sus originales para resolver
-  la diferencia y delimitar todos los pronunciamientos.
+  Al 15 de octubre de 2026 no se han localizado el auto íntegro de procedimiento abreviado, los escritos completos de acusación ni una resolución de apertura de juicio oral, sentencia o constancia de firmeza de los autos. La fecha exacta del auto comunicado en septiembre no queda acreditada con la nota oficial; algunas crónicas lo fechan en agosto. Tampoco se ha acreditado el día exacto de incoación judicial en 2017. No se fija un daño público total: el efectivo investigado, las supuestas comisiones, los pagos electorales, los importes de contratos y los bienes intervenidos son categorías distintas que no pueden sumarse. La prisión provisional de varios investigados en 2019 y 2021 fue una medida cautelar, no una pena, y sus condenas o absoluciones en Taula, Clepsidra, Imelsa u otras causas no resuelven Azud.
 
+  ### Ámbitos de la investigación
 
-  El 3 de septiembre de 2026 se notificó el auto que acuerda continuar por procedimiento abreviado contra 38 personas,
-  según el CGPJ. Concluye la instrucción y abre la fase intermedia, con traslado por diez días a las acusaciones
-  para solicitar juicio oral, sobreseimiento o diligencias complementarias. No es un auto de apertura del juicio
-  oral ni una condena. La resolución admitía reforma y apelación; la prensa de septiembre documentó recursos de
-  las defensas, sin que se haya localizado su desenlace. La jueza admitió además una declaración voluntaria de Vera
-  para septiembre; la prensa local informó de su comparecencia el día 16, en la que negó cobros en negro. El PP
-  anunció el 18 de septiembre su retirada como acusación popular, lo que no puso fin al procedimiento.
+  Azud reúne contratos de servicios, operaciones urbanísticas y movimientos societarios. La actuación investigada de cada persona depende de la operación concreta. El saneamiento municipal y los pagos al despacho de Corbín se distinguen de las operaciones del Grupo Axis y de la trama de generación de efectivo atribuida a sociedades y empresarios. La operación colegios conecta a MAI, promotores, responsables municipales y personas vinculadas al PSPV por las comisiones que les atribuye la instrucción.
 
+  En El Espartal de Xixona se examinan la actuación de Rosa María Verdú y Francisco Doménech, las compras de terrenos familiares y la financiación de una campaña del PP. Las gestiones sobre agua ante Acuamed y los presuntos pagos de gastos electorales del PSPV constituyen otra parte de ese relato indiciario. El archivo de Cataluña y Gimeno por prescripción no es una absolución general de la rama socialista: Rubio, Vera y Navarro figuran entre los encausados en septiembre de 2026.
 
-  Al 15 de octubre de 2026 no se han localizado el auto íntegro de procedimiento abreviado, los escritos completos
-  de acusación ni una resolución de apertura de juicio oral, sentencia o constancia de firmeza de los autos. La
-  fecha exacta del auto comunicado en septiembre no queda acreditada con la nota oficial; algunas crónicas lo fechan
-  en agosto. Tampoco se ha acreditado el día exacto de incoación judicial en 2017. No se fija un daño público total:
-  el efectivo investigado, las supuestas comisiones, los pagos electorales, los importes de contratos y los bienes
-  intervenidos son categorías distintas que no pueden sumarse. La prisión provisional de varios investigados en
-  2019 y 2021 fue una medida cautelar, no una pena, y sus condenas o absoluciones en Taula, Clepsidra, Imelsa u
-  otras causas no resuelven Azud.'
+  ### Estado de las personas y del procedimiento
+
+  El auto de procedimiento abreviado comunicado el 3 de septiembre de 2026 sitúa a 38 personas en la fase intermedia. Entre ellas figuran Grau, Corbín, Febrer, Rubio, Bellver, Vera, Montoro, Ferrando, Verdú y Elum. También están las tres hijas de Corbín; María Asunción Corbín Barberá no debe confundirse con su madre María Asunción Barberá Nolla, fallecida durante la instrucción y cuya responsabilidad penal quedó extinguida.
+
+  Las atribuciones y los delitos del listado periodístico de encausados son indiciarios. No consta sentencia en Azud ni apertura de juicio oral localizada al 15 de octubre de 2026. La prensa documenta recursos contra el auto y una declaración voluntaria de Vera, pero no su desenlace. La condición de investigado de Bellver fue confirmada en apelación en junio; su defensa solicitó posteriormente un examen forense, cuya resolución no consta. Las condenas o absoluciones de estas personas en otras causas no resuelven las imputaciones de Azud.
+
+  Los archivos conocidos en julio tienen fundamentos distintos: prescripción para Cataluña y Gimeno y falta de participación acreditada para otros investigados. Sin los autos originales no se afirma su firmeza ni se resuelve la discrepancia periodística sobre el número total de personas afectadas.
+
+  ### Importes y medidas cautelares
+
+  La deuda con los colegios, el valor atribuido a parcelas, las supuestas comisiones, los gastos electorales y el efectivo generado por sociedades no son magnitudes equivalentes. No se ofrece una cifra agregada de daño público. Tampoco los fondos y bienes cuya gestión se encargó a la ORGA en 2025 constituyen un decomiso definitivo o una indemnización declarada en sentencia: la información disponible describe medidas patrimoniales durante la instrucción.
+
+  La prisión provisional acordada en 2019 y 2021 respondió a riesgos procesales. Las libertades posteriores no fueron archivos ni absoluciones, del mismo modo que aquellas prisiones no constituyeron penas.
 resumen: Presuntas comisiones urbanísticas y contractuales vinculadas a cargos del PP y del PSPV; procedimiento
   abreviado para 38 personas, con recursos y eventual apertura de juicio sin desenlace confirmado.
 lugar: Valencia (Comunitat Valenciana)
@@ -393,23 +379,3 @@ cronologia:
     type: resumen
     relevancia: media
 ---
-
-## Ámbitos de la investigación
-
-Azud reúne contratos de servicios, operaciones urbanísticas y movimientos societarios. La actuación investigada de cada persona depende de la operación concreta. El saneamiento municipal y los pagos al despacho de Corbín se distinguen de las operaciones del Grupo Axis y de la trama de generación de efectivo atribuida a sociedades y empresarios. La operación colegios conecta a MAI, promotores, responsables municipales y personas vinculadas al PSPV por las comisiones que les atribuye la instrucción.
-
-En El Espartal de Xixona se examinan la actuación de Rosa María Verdú y Francisco Doménech, las compras de terrenos familiares y la financiación de una campaña del PP. Las gestiones sobre agua ante Acuamed y los presuntos pagos de gastos electorales del PSPV constituyen otra parte de ese relato indiciario. El archivo de Cataluña y Gimeno por prescripción no es una absolución general de la rama socialista: Rubio, Vera y Navarro figuran entre los encausados en septiembre de 2026.
-
-## Estado de las personas y del procedimiento
-
-El auto de procedimiento abreviado comunicado el 3 de septiembre de 2026 sitúa a 38 personas en la fase intermedia. Entre ellas figuran Grau, Corbín, Febrer, Rubio, Bellver, Vera, Montoro, Ferrando, Verdú y Elum. También están las tres hijas de Corbín; María Asunción Corbín Barberá no debe confundirse con su madre María Asunción Barberá Nolla, fallecida durante la instrucción y cuya responsabilidad penal quedó extinguida.
-
-Las atribuciones y los delitos del listado periodístico de encausados son indiciarios. No consta sentencia en Azud ni apertura de juicio oral localizada al 15 de octubre de 2026. La prensa documenta recursos contra el auto y una declaración voluntaria de Vera, pero no su desenlace. La condición de investigado de Bellver fue confirmada en apelación en junio; su defensa solicitó posteriormente un examen forense, cuya resolución no consta. Las condenas o absoluciones de estas personas en otras causas no resuelven las imputaciones de Azud.
-
-Los archivos conocidos en julio tienen fundamentos distintos: prescripción para Cataluña y Gimeno y falta de participación acreditada para otros investigados. Sin los autos originales no se afirma su firmeza ni se resuelve la discrepancia periodística sobre el número total de personas afectadas.
-
-## Importes y medidas cautelares
-
-La deuda con los colegios, el valor atribuido a parcelas, las supuestas comisiones, los gastos electorales y el efectivo generado por sociedades no son magnitudes equivalentes. No se ofrece una cifra agregada de daño público. Tampoco los fondos y bienes cuya gestión se encargó a la ORGA en 2025 constituyen un decomiso definitivo o una indemnización declarada en sentencia: la información disponible describe medidas patrimoniales durante la instrucción.
-
-La prisión provisional acordada en 2019 y 2021 respondió a riesgos procesales. Las libertades posteriores no fueron archivos ni absoluciones, del mismo modo que aquellas prisiones no constituyeron penas.

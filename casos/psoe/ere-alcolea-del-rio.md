@@ -8,11 +8,16 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Archivo respecto al alcalde; desenlace de la pieza pendiente de verificar
-descripcion: Investigación de dos ayudas de 60.000 euros al Ayuntamiento de Alcolea del Río para las ferias Equivir,
-  con cargo a la partida 31.L de la Junta de Andalucía. La prensa informó de un sobreseimiento provisional por prescripción
-  respecto a Carlos López Barrera en octubre de 2016, pero de actuaciones respecto a Viera y Guerrero en 2017. No se
-  ha verificado el desenlace íntegro de esta pieza al corte del 17 de octubre de 2026. Las fechas de ingreso difieren
-  entre el comunicado municipal y la prensa.
+descripcion: |-
+  Investigación de dos ayudas de 60.000 euros al Ayuntamiento de Alcolea del Río para las ferias Equivir, con cargo a la partida 31.L de la Junta de Andalucía. La prensa informó de un sobreseimiento provisional por prescripción respecto a Carlos López Barrera en octubre de 2016, pero de actuaciones respecto a Viera y Guerrero en 2017. No se ha verificado el desenlace íntegro de esta pieza al corte del 17 de octubre de 2026. Las fechas de ingreso difieren entre el comunicado municipal y la prensa.
+
+  La entidad receptora fue el Ayuntamiento. Los 120.000 euros son el importe de dos subvenciones, no un perjuicio judicialmente probado. El comunicado municipal de [6 de marzo de 2015](https://www.alcoleadelrio.es/es/vivienda/noticias/COMUNICADO-DE-D.-CARLOS-LOPEZ-BARRERA-ALCALDE-PRESIDENTE-DEL-AYUNTAMIENTO-DE-ALCOLEA-DEL-RIO) defendía la celebración de las ferias y la justificación del gasto; situaba los ingresos en enero de 2004 y mayo de 2005 y describía un recurso contencioso todavía pendiente. No acredita su resultado.
+
+  [El Independiente](https://www.elindependiente.com/politica/2016/10/25/caso-ere-alcalde-del-psoe-esquiva-la-imputacion-debido-al-tiempo-transcurrido/amp/) situó el último pago el 21 de abril de 2004, dato incompatible con aquella versión municipal. Sin expedientes de pago ni auto original, no se resuelve la discrepancia ni se fija un día de prescripción como hito propio. La noticia atribuía a la UCO indicios de cercanía política entre alcalde y consejero: una hipótesis investigadora, no hechos declarados probados.
+
+  La [información de Europa Press de febrero de 2017](https://www.europapress.es/nacional/noticia-nunez-cita-jueves-investigado-viera-dos-ayudas-ere-ayuntamiento-alcolea-sevilla-20170208175016.html) impide presentar el archivo respecto al alcalde como cierre de toda la pieza. Tampoco una citación equivale a acusación o condena. Quedan pendientes las resoluciones posteriores y cualquier efecto individual de las decisiones del Constitucional sobre este procedimiento. No se transfieren penas, absoluciones ni efectos de recursos de la pieza política de los ERE.
+
+  Información disponible en las fuentes citadas al 17 de octubre de 2026. No se han obtenido originales judiciales verificables: quedan pendientes la naturaleza exacta y firmeza del archivo, el desenlace penal de los demás sujetos y el resultado de las vías contenciosa y contable.
 resumen: 'Dos ayudas municipales para Equivir: archivo provisional respecto al alcalde y evolución posterior de la pieza
   pendiente de verificar.'
 lugar: Alcolea del Río, Sevilla, Andalucía
@@ -61,11 +66,3 @@ cronologia:
   urls:
   - https://www.europapress.es/nacional/noticia-nunez-cita-jueves-investigado-viera-dos-ayudas-ere-ayuntamiento-alcolea-sevilla-20170208175016.html
 ---
-
-La entidad receptora fue el Ayuntamiento. Los 120.000 euros son el importe de dos subvenciones, no un perjuicio judicialmente probado. El comunicado municipal de [6 de marzo de 2015](https://www.alcoleadelrio.es/es/vivienda/noticias/COMUNICADO-DE-D.-CARLOS-LOPEZ-BARRERA-ALCALDE-PRESIDENTE-DEL-AYUNTAMIENTO-DE-ALCOLEA-DEL-RIO) defendía la celebración de las ferias y la justificación del gasto; situaba los ingresos en enero de 2004 y mayo de 2005 y describía un recurso contencioso todavía pendiente. No acredita su resultado.
-
-[El Independiente](https://www.elindependiente.com/politica/2016/10/25/caso-ere-alcalde-del-psoe-esquiva-la-imputacion-debido-al-tiempo-transcurrido/amp/) situó el último pago el 21 de abril de 2004, dato incompatible con aquella versión municipal. Sin expedientes de pago ni auto original, no se resuelve la discrepancia ni se fija un día de prescripción como hito propio. La noticia atribuía a la UCO indicios de cercanía política entre alcalde y consejero: una hipótesis investigadora, no hechos declarados probados.
-
-La [información de Europa Press de febrero de 2017](https://www.europapress.es/nacional/noticia-nunez-cita-jueves-investigado-viera-dos-ayudas-ere-ayuntamiento-alcolea-sevilla-20170208175016.html) impide presentar el archivo respecto al alcalde como cierre de toda la pieza. Tampoco una citación equivale a acusación o condena. Quedan pendientes las resoluciones posteriores y cualquier efecto individual de las decisiones del Constitucional sobre este procedimiento. No se transfieren penas, absoluciones ni efectos de recursos de la pieza política de los ERE.
-
-Información disponible en las fuentes citadas al 17 de octubre de 2026. No se han obtenido originales judiciales verificables: quedan pendientes la naturaleza exacta y firmeza del archivo, el desenlace penal de los demás sujetos y el resultado de las vías contenciosa y contable.

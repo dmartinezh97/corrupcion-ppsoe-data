@@ -8,11 +8,16 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: sobreseimiento
 lugar: Getafe, Comunidad de Madrid
-descripcion: Investigación por vertidos de aguas residuales de Perales del Río al Manzanares, a raíz de una querella
-  de Impulsa Getafe de 2018. En 2019 constaban Sara Hernández y cuatro ediles o exediles como investigados. El Ayuntamiento
-  anunció el 23 de mayo de 2022 el sobreseimiento mediante el auto 405/2022 para la alcaldesa y tres concejales.
-  Sin el auto íntegro no se ha comprobado la relación completa de destinatarios, modalidad del sobreseimiento, fecha
-  ni firmeza. No equivale a una sentencia absolutoria.
+descripcion: |-
+  Investigación por vertidos de aguas residuales de Perales del Río al Manzanares, a raíz de una querella de Impulsa Getafe de 2018. En 2019 constaban Sara Hernández y cuatro ediles o exediles como investigados. El Ayuntamiento anunció el 23 de mayo de 2022 el sobreseimiento mediante el auto 405/2022 para la alcaldesa y tres concejales. Sin el auto íntegro no se ha comprobado la relación completa de destinatarios, modalidad del sobreseimiento, fecha ni firmeza. No equivale a una sentencia absolutoria.
+
+  La querella se refería a aguas sin depurar procedentes de Perales del Río. EFE recogió antecedentes de sanciones desde 2005 y atribuyó al presidente de Impulsa Getafe una multa de 50.000 euros en 2017. Sin el expediente sancionador, esa declaración no se presenta como daño patrimonial acreditado ni se consigna un coste del caso.
+
+  La nota municipal de 23 de mayo de 2022 reproduce pasajes atribuidos al auto 405/2022. Distingue la posición de la Fiscalía, favorable a terminar la investigación ante los proyectos emprendidos, de la valoración judicial sobre la actuación municipal ante instalaciones vandalizadas. Es una comunicación de la corporación afectada, no el auto íntegro. Noticias para Municipios también informó del archivo ese día; Cadena SER lo recogió el 24 de mayo.
+
+  Las noticias de 2019 enumeran a cinco investigados, mientras que la comunicación de 2022 menciona cuatro personas sin identificar a los concejales. No se atribuye automáticamente el archivo a todos los nombres ni se adopta la referencia a Podemos de una noticia como identificación individual.
+
+  Al 17 de octubre de 2026, no se dispone del auto íntegro ni consta una resolución posterior inequívocamente vinculada a esta causa. Quedan pendientes fecha exacta, número de procedimiento, modalidad de sobreseimiento, destinatarios, recursos y firmeza. La ausencia de hallazgos no demuestra que no existan. No hay un PDF judicial verificado para documentos.
 resumen: 'Vertidos en Perales del Río: archivo anunciado en 2022, con alcance individual y firmeza pendientes de
   verificar.'
 tribunal:
@@ -71,11 +76,3 @@ cronologia:
   - https://noticiasparamunicipios.com/municipios-madrid/getafe-archivada-la-querella-contra-la-alcaldesa-por-los-vertidos-al-manzanares-ultima-hora/
   type: auto
 ---
-
-La querella se refería a aguas sin depurar procedentes de Perales del Río. EFE recogió antecedentes de sanciones desde 2005 y atribuyó al presidente de Impulsa Getafe una multa de 50.000 euros en 2017. Sin el expediente sancionador, esa declaración no se presenta como daño patrimonial acreditado ni se consigna un coste del caso.
-
-La nota municipal de 23 de mayo de 2022 reproduce pasajes atribuidos al auto 405/2022. Distingue la posición de la Fiscalía, favorable a terminar la investigación ante los proyectos emprendidos, de la valoración judicial sobre la actuación municipal ante instalaciones vandalizadas. Es una comunicación de la corporación afectada, no el auto íntegro. Noticias para Municipios también informó del archivo ese día; Cadena SER lo recogió el 24 de mayo.
-
-Las noticias de 2019 enumeran a cinco investigados, mientras que la comunicación de 2022 menciona cuatro personas sin identificar a los concejales. No se atribuye automáticamente el archivo a todos los nombres ni se adopta la referencia a Podemos de una noticia como identificación individual.
-
-Al 17 de octubre de 2026, no se dispone del auto íntegro ni consta una resolución posterior inequívocamente vinculada a esta causa. Quedan pendientes fecha exacta, número de procedimiento, modalidad de sobreseimiento, destinatarios, recursos y firmeza. La ausencia de hallazgos no demuestra que no existan. No hay un PDF judicial verificado para documentos.

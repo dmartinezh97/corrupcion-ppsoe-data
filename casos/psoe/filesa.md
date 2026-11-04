@@ -7,36 +7,42 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas revisadas en amparo e indultos parciales; ejecución y cumplimiento del dictamen de la ONU pendientes de verificar
-descripcion: >-
-  Filesa designa la causa sobre un grupo de sociedades que obtuvo fondos para gastos del PSOE, especialmente
-  de las elecciones generales y europeas de 1989, mediante facturas de informes inexistentes o ficticios y
-  pagos a proveedores del partido. La sentencia del Tribunal Supremo de 28 de octubre de 1997 describe un
-  entramado iniciado a mediados de 1987, con Time Export, Filesa y Malesa. No vincula las campañas de 1989 con
-  el referéndum de la OTAN.
+descripcion: |-
+  Filesa designa la causa sobre un grupo de sociedades que obtuvo fondos para gastos del PSOE, especialmente de las elecciones generales y europeas de 1989, mediante facturas de informes inexistentes o ficticios y pagos a proveedores del partido. La sentencia del Tribunal Supremo de 28 de octubre de 1997 describe un entramado iniciado a mediados de 1987, con Time Export, Filesa y Malesa. No vincula las campañas de 1989 con el referéndum de la OTAN.
 
+  El Supremo condenó a ocho personas por delitos distintos, entre ellos falsedad mercantil, asociación ilícita, delito fiscal y apropiación indebida. Las penas iniciales sumaban once años para Carlos Navarro y diez para Luis Oliveró y Alberto Flores; José María Sala recibió un año por falsedad y dos por asociación ilícita. Aida Álvarez y Miguel Guillermo Molledo recibieron dos años, cuatro meses y un día cada uno por falsedad continuada; Juan Antonio Molina Vivas y Eugenio Marín García Mansilla, seis meses de arresto mayor cada uno por apropiación indebida. Estas son las penas del fallo inicial, no tiempo de prisión efectivamente cumplido.
 
-  El Supremo condenó a ocho personas por delitos distintos, entre ellos falsedad mercantil, asociación
-  ilícita, delito fiscal y apropiación indebida. Las penas iniciales sumaban once años para Carlos Navarro y
-  diez para Luis Oliveró y Alberto Flores; José María Sala recibió un año por falsedad y dos por asociación
-  ilícita. Aida Álvarez y Miguel Guillermo Molledo recibieron dos años, cuatro meses y un día cada uno por
-  falsedad continuada; Juan Antonio Molina Vivas y Eugenio Marín García Mansilla, seis meses de arresto mayor
-  cada uno por apropiación indebida. Estas son las penas del fallo inicial, no tiempo de prisión efectivamente
-  cumplido.
+  Los indultos parciales de Navarro, Oliveró y Flores son de 1 de diciembre de 2000 y redujeron a la mitad las penas privativas de libertad e inhabilitación en los términos de cada decreto. El 4 de junio de 2001 el Constitucional desestimó los amparos de Navarro, Flores, Oliveró, Álvarez y Molledo, pero estimó parcialmente el de Sala: anuló exclusivamente su condena por falsedad por vulneración de la presunción de inocencia y mantuvo el resto. En 2006 el Comité de Derechos Humanos de la ONU apreció una vulneración del derecho de Oliveró a la revisión de la condena por un tribunal superior.
 
+  La sentencia TS 59/2022, de 26 de enero, afecta a Viajes Ceres, un procedimiento vinculado distinto: revocó un archivo por prescripción prematuro, sin condenar a los investigados ni reabrir la sentencia Filesa de 1997. Al corte del 17 de octubre de 2026 quedan por verificar el resultado ulterior de Ceres, la ejecución de responsabilidades civiles y las medidas de cumplimiento del dictamen de la ONU. También se señala una discrepancia entre el resumen de penas de Navarro en su decreto de indulto y los fallos judiciales.
 
-  Los indultos parciales de Navarro, Oliveró y Flores son de 1 de diciembre de 2000 y redujeron a la mitad las
-  penas privativas de libertad e inhabilitación en los términos de cada decreto. El 4 de junio de 2001 el
-  Constitucional desestimó los amparos de Navarro, Flores, Oliveró, Álvarez y Molledo, pero estimó
-  parcialmente el de Sala: anuló exclusivamente su condena por falsedad por vulneración de la presunción de
-  inocencia y mantuvo el resto. En 2006 el Comité de Derechos Humanos de la ONU apreció una vulneración del
-  derecho de Oliveró a la revisión de la condena por un tribunal superior.
+  ### Condenas y cambios posteriores
 
+  La sentencia TS 1/1997 (causa especial 880/1991) se ha recuperado del CENDOJ. La copia actual tiene 41 páginas e incluye el auto aclaratorio de 6 de noviembre de 1997. La [reproducción nominal del texto judicial](https://www.derechos.org/nizkor/espana/doc/filesa.html) y las resoluciones del BOE permiten verificar nombres sin deducirlos de los seudónimos de la exportación CENDOJ.
 
-  La sentencia TS 59/2022, de 26 de enero, afecta a Viajes Ceres, un procedimiento vinculado distinto: revocó
-  un archivo por prescripción prematuro, sin condenar a los investigados ni reabrir la sentencia Filesa de
-  1997. Al corte del 17 de octubre de 2026 quedan por verificar el resultado ulterior de Ceres, la ejecución
-  de responsabilidades civiles y las medidas de cumplimiento del dictamen de la ONU. También se señala una
-  discrepancia entre el resumen de penas de Navarro en su decreto de indulto y los fallos judiciales.
+  Los hechos probados sitúan la finalidad de financiación en las elecciones generales y europeas de **1989**. La sentencia describe informes inexistentes o ficticios y facturas de proveedores del partido; no permite convertir automáticamente toda la financiación recaudada en daño al erario.
+
+  Las penas iniciales no son el estado final de todos los condenados. En particular, la [STC 124/2001](https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-12757) anuló únicamente la condena de Sala por falsedad, manteniendo la de asociación ilícita. Los amparos de los demás recurrentes citados fueron desestimados. Los tres decretos de indulto son de diciembre de 2000, no de enero de 1998, y afectan a penas, sin absolver ni perdonar expresamente la responsabilidad civil.
+
+  Existe una discrepancia documental: el RD 2700/2000 resume la condena de Navarro con una sola falsedad de tres años, mientras que la sentencia y la STC 123/2001 recogen **dos** falsedades de tres años cada una, además de tres por asociación ilícita y dos por delito fiscal. Se conserva la pena judicial inicial de once años y la fórmula dispositiva del indulto, sin calcular por cuenta propia una liquidación de condena a partir de ese resumen incompleto.
+
+  ### Daño fiscal, financiación e indemnizaciones
+
+  La **cuota fiscal defraudada de 258.827.765 pesetas** reconocida en el fallo como reintegrable al Estado equivale a **1.555.586,20 euros**, a la conversión nominal de 166,386 pesetas por euro, sin actualización por inflación. No se multiplica por los tres obligados solidarios. El mismo número aparece también como multa fiscal para cada uno: las multas no se suman al daño.
+
+  La sentencia menciona más de mil millones de pesetas recaudadas mediante informes; la prensa ha resumido la financiación en 1.200 millones. Ese volumen no equivale a la cuota fiscal ni respalda un perjuicio de 15,6 millones actualizado por inflación. Las indemnizaciones privadas son partidas distintas: 35.840.000 pesetas para quienes ostentasen los derechos de Enasa y 244.000.000 para accionistas de Cepsa que resultasen perjudicados, si los hubiera, a determinar en ejecución. No se convierten en un daño público adicional ni se da por acreditado su cobro.
+
+  ### Garantías internacionales y Viajes Ceres
+
+  El [dictamen ONU 1211/2003, aprobado el 11 de julio de 2006](https://documents.un.org/api/symbol/access?s=CCPR/C/87/D/1211/2003&l=es&t=pdf), declaró vulnerado el derecho de Oliveró a la revisión de la condena por un tribunal superior. Distinguió esa queja de otra sobre la acusación por asociación ilícita que declaró inadmisible. No es una sentencia absolutoria. Queda por documentar su cumplimiento y sus eventuales efectos procesales internos.
+
+  La [sentencia TS 59/2022](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=dced52a959640edb&encode=true&databasematch=AN) pertenece al procedimiento de Viajes Ceres, seguido inicialmente en el Juzgado de Instrucción 26 de Madrid. Su estimación del recurso contra la prescripción no revisa las condenas Filesa de 1997. [El Debate publicó en marzo de 2024](https://www.eldebate.com/espana/20240316/juzgado-madrid-prepara-juicio-contra-rama-filesa-desvio-422-m-euros-financiar-psoe_182403.html) que se preparaba el juicio; no se ha obtenido una resolución posterior que acredite su celebración, sentencia o nuevo archivo. El anuncio periodístico no se transforma en un juicio efectivamente celebrado y sus importes no se añaden a esta ficha como daño probado.
+
+  ### Límites al 17 de octubre de 2026
+
+  No se ha reconstruido íntegramente la ejecución penitenciaria y civil, el cumplimiento del dictamen de la ONU ni el estado final de Viajes Ceres. No se infiere el cumplimiento de penas o pago de indemnizaciones por el tiempo transcurrido. Las condenas corresponden a la causa histórica, con la modificación constitucional indicada; no consta una fecha de cierre global.
+
+  Los PDF del BOE reproducen páginas completas y algunos incluyen fragmentos de disposiciones o sentencias contiguas, indicados en los títulos de los documentos. Las fechas de actos, publicación y generación de la copia se distinguen.
 resumen: 'Financiación irregular del PSOE mediante sociedades y facturas ficticias: condenas de 1997, indultos parciales
   de 2000 y anulación parcial de la condena de Sala en 2001.'
 lugar: Madrid, Barcelona
@@ -204,31 +210,3 @@ cronologia:
   type: recurso
   relevancia: alta
 ---
-
-## Condenas y cambios posteriores
-
-La sentencia TS 1/1997 (causa especial 880/1991) se ha recuperado del CENDOJ. La copia actual tiene 41 páginas e incluye el auto aclaratorio de 6 de noviembre de 1997. La [reproducción nominal del texto judicial](https://www.derechos.org/nizkor/espana/doc/filesa.html) y las resoluciones del BOE permiten verificar nombres sin deducirlos de los seudónimos de la exportación CENDOJ.
-
-Los hechos probados sitúan la finalidad de financiación en las elecciones generales y europeas de **1989**. La sentencia describe informes inexistentes o ficticios y facturas de proveedores del partido; no permite convertir automáticamente toda la financiación recaudada en daño al erario.
-
-Las penas iniciales no son el estado final de todos los condenados. En particular, la [STC 124/2001](https://www.boe.es/diario_boe/txt.php?id=BOE-T-2001-12757) anuló únicamente la condena de Sala por falsedad, manteniendo la de asociación ilícita. Los amparos de los demás recurrentes citados fueron desestimados. Los tres decretos de indulto son de diciembre de 2000, no de enero de 1998, y afectan a penas, sin absolver ni perdonar expresamente la responsabilidad civil.
-
-Existe una discrepancia documental: el RD 2700/2000 resume la condena de Navarro con una sola falsedad de tres años, mientras que la sentencia y la STC 123/2001 recogen **dos** falsedades de tres años cada una, además de tres por asociación ilícita y dos por delito fiscal. Se conserva la pena judicial inicial de once años y la fórmula dispositiva del indulto, sin calcular por cuenta propia una liquidación de condena a partir de ese resumen incompleto.
-
-## Daño fiscal, financiación e indemnizaciones
-
-La **cuota fiscal defraudada de 258.827.765 pesetas** reconocida en el fallo como reintegrable al Estado equivale a **1.555.586,20 euros**, a la conversión nominal de 166,386 pesetas por euro, sin actualización por inflación. No se multiplica por los tres obligados solidarios. El mismo número aparece también como multa fiscal para cada uno: las multas no se suman al daño.
-
-La sentencia menciona más de mil millones de pesetas recaudadas mediante informes; la prensa ha resumido la financiación en 1.200 millones. Ese volumen no equivale a la cuota fiscal ni respalda un perjuicio de 15,6 millones actualizado por inflación. Las indemnizaciones privadas son partidas distintas: 35.840.000 pesetas para quienes ostentasen los derechos de Enasa y 244.000.000 para accionistas de Cepsa que resultasen perjudicados, si los hubiera, a determinar en ejecución. No se convierten en un daño público adicional ni se da por acreditado su cobro.
-
-## Garantías internacionales y Viajes Ceres
-
-El [dictamen ONU 1211/2003, aprobado el 11 de julio de 2006](https://documents.un.org/api/symbol/access?s=CCPR/C/87/D/1211/2003&l=es&t=pdf), declaró vulnerado el derecho de Oliveró a la revisión de la condena por un tribunal superior. Distinguió esa queja de otra sobre la acusación por asociación ilícita que declaró inadmisible. No es una sentencia absolutoria. Queda por documentar su cumplimiento y sus eventuales efectos procesales internos.
-
-La [sentencia TS 59/2022](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=dced52a959640edb&encode=true&databasematch=AN) pertenece al procedimiento de Viajes Ceres, seguido inicialmente en el Juzgado de Instrucción 26 de Madrid. Su estimación del recurso contra la prescripción no revisa las condenas Filesa de 1997. [El Debate publicó en marzo de 2024](https://www.eldebate.com/espana/20240316/juzgado-madrid-prepara-juicio-contra-rama-filesa-desvio-422-m-euros-financiar-psoe_182403.html) que se preparaba el juicio; no se ha obtenido una resolución posterior que acredite su celebración, sentencia o nuevo archivo. El anuncio periodístico no se transforma en un juicio efectivamente celebrado y sus importes no se añaden a esta ficha como daño probado.
-
-## Límites al 17 de octubre de 2026
-
-No se ha reconstruido íntegramente la ejecución penitenciaria y civil, el cumplimiento del dictamen de la ONU ni el estado final de Viajes Ceres. No se infiere el cumplimiento de penas o pago de indemnizaciones por el tiempo transcurrido. Las condenas corresponden a la causa histórica, con la modificación constitucional indicada; no consta una fecha de cierre global.
-
-Los PDF del BOE reproducen páginas completas y algunos incluyen fragmentos de disposiciones o sentencias contiguas, indicados en los títulos de los documentos. Las fechas de actos, publicación y generación de la copia se distinguen.

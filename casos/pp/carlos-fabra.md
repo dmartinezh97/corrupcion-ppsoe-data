@@ -8,12 +8,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condena fiscal y procedimientos distintos con estados propios
-descripcion: 'La causa Naranjax terminó con la condena de Carlos Fabra por cuatro delitos fiscales y su absolución
-  de cohecho y tráfico de influencias. La STS 586/2014, de 23 de julio, mantuvo su condena de cuatro años de prisión
-  y estimó parcialmente el recurso de su exesposa, cuya pena quedó en un año. La causa posterior sobre posible ocultación
-  de patrimonio es distinta: la prensa comunicó apertura de juicio oral en marzo de 2025, sin que se haya verificado
-  aquí una sentencia posterior. Aerocas es otro procedimiento, con absolución cuya firmeza fue comunicada en julio
-  de 2025. No se agregan a esta ficha los costes del aeropuerto ni se confunden cuotas fiscales, multas y fianzas.'
+descripcion: |-
+  La causa Naranjax terminó con la condena de Carlos Fabra por cuatro delitos fiscales y su absolución de cohecho y tráfico de influencias. La STS 586/2014, de 23 de julio, mantuvo su condena de cuatro años de prisión y estimó parcialmente el recurso de su exesposa, cuya pena quedó en un año. La causa posterior sobre posible ocultación de patrimonio es distinta: la prensa comunicó apertura de juicio oral en marzo de 2025, sin que se haya verificado aquí una sentencia posterior. Aerocas es otro procedimiento, con absolución cuya firmeza fue comunicada en julio de 2025. No se agregan a esta ficha los costes del aeropuerto ni se confunden cuotas fiscales, multas y fianzas.
+
+  La responsabilidad fiscal se distingue de las sanciones: el fallo de instancia reproducido por el Supremo fija para Fabra 693.074,33 euros de indemnización a Hacienda, más intereses, y multas por las cuotas de los cuatro ejercicios. No se suman ambos conceptos como perjuicio. Las pérdidas o la inversión del aeropuerto, cifrada en 150 millones, no son daño declarado en Naranjax. Los patrocinios de Aerocas pertenecen a otro procedimiento. Tampoco la fianza de la pieza patrimonial equivale a dinero defraudado.
+
+  El recurso de su exesposa cambió el resultado: de dos delitos fiscales pasó a uno, con un año de prisión, absolución por el ejercicio 2000 y ajuste de la cuota de 2003. Los pseudónimos del PDF no se utilizan para identificar a nuevas personas; la nota oficial y la prensa proporcionan los nominales. No se atribuye a Fabra condena por el origen presuntamente corrupto de los ingresos cuando fue absuelto de cohecho y tráfico de influencias.
+
+  La información de 2017 sitúa el ingreso en Aranjuez el 1 de diciembre de 2014 y documenta libertad condicional el 28 de abril de 2017. El cumplimiento de tres cuartas partes de la pena no acredita por sí solo su extinción ni la libertad definitiva. No se ha cotejado la liquidación final ni el saldo actual de multas, intereses e indemnizaciones.
+
+  La causa sobre patrimonio requiere seguimiento propio. Hay noticias de apertura de juicio en 2021 y 2025 cuyo encaje no se ha podido comprobar en los autos. Radio Castellón informó el 11 de febrero de 2025 de sucesivos autos de procedimiento abreviado y recursos; el 12 de marzo volvió a comunicar apertura de juicio y una petición fiscal de doce años para Fabra. Son noticias sobre acusaciones, sin sentencia ni escrito fiscal vigente cotejados. Las personas identificadas solo con iniciales en 2025 no se completan a partir de la lista anterior; los nombres conservados proceden de las noticias nominales de 2021.
+
+  La ficha Aerocas recoge un procedimiento distinto. Su absolución de los patrocinios y su firmeza comunicada en 2025 se mencionan solo para evitar trasladar imputaciones de aquella causa a esta. La construcción del aeropuerto no se cuantifica aquí.
+
+  Información disponible hasta el 17 de octubre de 2026. El original de la sentencia del Supremo consta de 102 páginas e incluye el fallo de casación y la segunda sentencia. Quedan pendientes originales de instancia y de la causa patrimonial, su evolución posterior y los documentos de ejecución. Los resultados parciales no justifican declarar cerrado el conjunto.
 resumen: Condena de Carlos Fabra por cuatro delitos fiscales confirmada en 2014; causas de patrimonio y Aerocas
   diferenciadas.
 lugar: Castellón, Comunidad Valenciana
@@ -134,15 +142,3 @@ cronologia:
   - https://cadenaser.com/comunitat-valenciana/2025/07/02/el-juez-hace-firme-la-sentencia-que-absuelve-a-carlos-fabra-y-alex-debon-de-cohecho-en-el-caso-aerocas-radio-castellon/
   type: documento
 ---
-
-La responsabilidad fiscal se distingue de las sanciones: el fallo de instancia reproducido por el Supremo fija para Fabra 693.074,33 euros de indemnización a Hacienda, más intereses, y multas por las cuotas de los cuatro ejercicios. No se suman ambos conceptos como perjuicio. Las pérdidas o la inversión del aeropuerto, cifrada en 150 millones, no son daño declarado en Naranjax. Los patrocinios de Aerocas pertenecen a otro procedimiento. Tampoco la fianza de la pieza patrimonial equivale a dinero defraudado.
-
-El recurso de su exesposa cambió el resultado: de dos delitos fiscales pasó a uno, con un año de prisión, absolución por el ejercicio 2000 y ajuste de la cuota de 2003. Los pseudónimos del PDF no se utilizan para identificar a nuevas personas; la nota oficial y la prensa proporcionan los nominales. No se atribuye a Fabra condena por el origen presuntamente corrupto de los ingresos cuando fue absuelto de cohecho y tráfico de influencias.
-
-La información de 2017 sitúa el ingreso en Aranjuez el 1 de diciembre de 2014 y documenta libertad condicional el 28 de abril de 2017. El cumplimiento de tres cuartas partes de la pena no acredita por sí solo su extinción ni la libertad definitiva. No se ha cotejado la liquidación final ni el saldo actual de multas, intereses e indemnizaciones.
-
-La causa sobre patrimonio requiere seguimiento propio. Hay noticias de apertura de juicio en 2021 y 2025 cuyo encaje no se ha podido comprobar en los autos. Radio Castellón informó el 11 de febrero de 2025 de sucesivos autos de procedimiento abreviado y recursos; el 12 de marzo volvió a comunicar apertura de juicio y una petición fiscal de doce años para Fabra. Son noticias sobre acusaciones, sin sentencia ni escrito fiscal vigente cotejados. Las personas identificadas solo con iniciales en 2025 no se completan a partir de la lista anterior; los nombres conservados proceden de las noticias nominales de 2021.
-
-La ficha Aerocas recoge un procedimiento distinto. Su absolución de los patrocinios y su firmeza comunicada en 2025 se mencionan solo para evitar trasladar imputaciones de aquella causa a esta. La construcción del aeropuerto no se cuantifica aquí.
-
-Información disponible hasta el 17 de octubre de 2026. El original de la sentencia del Supremo consta de 102 páginas e incluye el fallo de casación y la segunda sentencia. Quedan pendientes originales de instancia y de la causa patrimonial, su evolución posterior y los documentos de ejecución. Los resultados parciales no justifican declarar cerrado el conjunto.

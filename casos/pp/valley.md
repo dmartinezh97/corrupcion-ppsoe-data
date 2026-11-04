@@ -9,17 +9,20 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas comunicadas
-descripcion: 'Valley investigó la emisión de facturas falsas desde una asesoría y presuntas irregularidades en la
-  contratación municipal de Villanueva del Río Segura. La causa afecta al exalcalde del PP José Luis López Ayala
-  y al exconcejal de Archena Brígido Palazón, de Unión Independiente del Pueblo, entre otras personas. En mayo de
-  2026, Radio Murcia/EFE informó de condenas tras un acuerdo de conformidad: 19 meses de prisión para López Ayala
-  y cinco meses y nueve días para Palazón. Para López Ayala también se comunicaron multas y seis años y nueve meses
-  de inhabilitación para empleo o cargo público. No se ha obtenido la sentencia original para contrastar su fecha, todos
-  los pronunciamientos individuales, firmeza, recursos y condiciones de suspensión hasta el 15 de octubre de 2026.
-  La deducción de testimonio por posible delito electoral comunicada en 2015 debe distinguirse del resultado informado
-  en 2026. Los seis millones aproximados citados por la prensa son el valor de facturas falsas, no una pérdida pública
-  global declarada judicialmente. Faltan también los desenlaces de todas las personas y hechos investigados, por
-  lo que estas condenas no se extienden a todo el expediente.'
+descripcion: |-
+  Valley investigó la emisión de facturas falsas desde una asesoría y presuntas irregularidades en la contratación municipal de Villanueva del Río Segura. La causa afecta al exalcalde del PP José Luis López Ayala y al exconcejal de Archena Brígido Palazón, de Unión Independiente del Pueblo, entre otras personas. En mayo de 2026, Radio Murcia/EFE informó de condenas tras un acuerdo de conformidad: 19 meses de prisión para López Ayala y cinco meses y nueve días para Palazón. Para López Ayala también se comunicaron multas y seis años y nueve meses de inhabilitación para empleo o cargo público. No se ha obtenido la sentencia original para contrastar su fecha, todos los pronunciamientos individuales, firmeza, recursos y condiciones de suspensión hasta el 15 de octubre de 2026. La deducción de testimonio por posible delito electoral comunicada en 2015 debe distinguirse del resultado informado en 2026. Los seis millones aproximados citados por la prensa son el valor de facturas falsas, no una pérdida pública global declarada judicialmente. Faltan también los desenlaces de todas las personas y hechos investigados, por lo que estas condenas no se extienden a todo el expediente.
+
+  El asunto tuvo una vertiente relativa a facturas emitidas desde sociedades vinculadas a una asesoría y otra sobre decisiones y contratos municipales. Las sospechas sobre préstamos, ingresos en efectivo y sociedades interpuestas descritas durante la instrucción no se convierten, por sí solas, en prueba de todos los delitos atribuidos inicialmente.
+
+  La cobertura de 2019 describe indicios de facturación ficticia y adjudicación directa de obras, y sitúa el comienzo de la investigación a finales de 2013. No permite fijar un día exacto de apertura. La resolución entonces comunicada era de procedimiento abreviado, con traslado a las acusaciones, y contenía también archivos. La petición fiscal no equivale a una decisión judicial.
+
+  La información de mayo de 2026 sitúa el procedimiento en la fase de juicio. Radio Murcia/EFE comunica penas acordadas, mientras RTVE describe el reconocimiento de hechos al comenzar el juicio. No se dispone del fallo que permita reconciliar de forma completa el acuerdo, la sentencia y su ejecución respecto de todas las personas. Las afirmaciones periodísticas sobre que no habría ingreso en prisión no se sustituyen por una comprobación del auto de suspensión o de sus condiciones.
+
+  Los 5,5 millones no están acreditados como daño: la cobertura más reciente habla de alrededor de seis millones en facturas falsas. Ninguna de ambas cantidades equivale automáticamente a deuda tributaria, responsabilidad civil, beneficio de la asesoría o daño municipal. Tampoco el valor de préstamos y los ingresos en efectivo investigados pueden sumarse como un perjuicio público declarado.
+
+  La lista de personas identificadas es parcial. No consta una participación acreditada de Antonio Francisco Rojo Campoy ni de la persona citada únicamente como Elías B. S. bajo una condición procesal actual que no se ha podido contrastar con fuentes suficientes. Su omisión no afirma que fueran absueltos ni que quedaran al margen de la investigación inicial. Falta el resultado individual de Díaz Marín y de los demás afectados por los archivos y el juicio.
+
+  La deducción de testimonio por posible delito electoral de 2015 tiene un objeto que no debe darse por resuelto con las condenas de conformidad comunicadas en 2026. Tampoco se mantienen como hechos acreditados la expulsión del PP o el efecto causal sobre las elecciones de 2015 sin documentación suficiente. Las lagunas pendientes impiden afirmar que todas las vertientes del expediente hayan concluido o que las condenas comunicadas sean firmes.
 resumen: Investigación sobre facturas falsas y contratación municipal en Murcia; condenas de conformidad comunicadas
   en mayo de 2026, con fallo completo y firmeza pendientes de contraste.
 lugar: Villanueva del Río Segura y Archena, Región de Murcia
@@ -87,15 +90,3 @@ cronologia:
   type: sentencia
   relevancia: alta
 ---
-
-El asunto tuvo una vertiente relativa a facturas emitidas desde sociedades vinculadas a una asesoría y otra sobre decisiones y contratos municipales. Las sospechas sobre préstamos, ingresos en efectivo y sociedades interpuestas descritas durante la instrucción no se convierten, por sí solas, en prueba de todos los delitos atribuidos inicialmente.
-
-La cobertura de 2019 describe indicios de facturación ficticia y adjudicación directa de obras, y sitúa el comienzo de la investigación a finales de 2013. No permite fijar un día exacto de apertura. La resolución entonces comunicada era de procedimiento abreviado, con traslado a las acusaciones, y contenía también archivos. La petición fiscal no equivale a una decisión judicial.
-
-La información de mayo de 2026 sitúa el procedimiento en la fase de juicio. Radio Murcia/EFE comunica penas acordadas, mientras RTVE describe el reconocimiento de hechos al comenzar el juicio. No se dispone del fallo que permita reconciliar de forma completa el acuerdo, la sentencia y su ejecución respecto de todas las personas. Las afirmaciones periodísticas sobre que no habría ingreso en prisión no se sustituyen por una comprobación del auto de suspensión o de sus condiciones.
-
-Los 5,5 millones no están acreditados como daño: la cobertura más reciente habla de alrededor de seis millones en facturas falsas. Ninguna de ambas cantidades equivale automáticamente a deuda tributaria, responsabilidad civil, beneficio de la asesoría o daño municipal. Tampoco el valor de préstamos y los ingresos en efectivo investigados pueden sumarse como un perjuicio público declarado.
-
-La lista de personas identificadas es parcial. No consta una participación acreditada de Antonio Francisco Rojo Campoy ni de la persona citada únicamente como Elías B. S. bajo una condición procesal actual que no se ha podido contrastar con fuentes suficientes. Su omisión no afirma que fueran absueltos ni que quedaran al margen de la investigación inicial. Falta el resultado individual de Díaz Marín y de los demás afectados por los archivos y el juicio.
-
-La deducción de testimonio por posible delito electoral de 2015 tiene un objeto que no debe darse por resuelto con las condenas de conformidad comunicadas en 2026. Tampoco se mantienen como hechos acreditados la expulsión del PP o el efecto causal sobre las elecciones de 2015 sin documentación suficiente. Las lagunas pendientes impiden afirmar que todas las vertientes del expediente hayan concluido o que las condenas comunicadas sean firmes.

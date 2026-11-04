@@ -8,28 +8,28 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución
-descripcion: 'La causa examinó la tramitación del proyecto Novo Carthago de Hansa Urbana, que preveía unas 10.000
-  viviendas, hoteles y campos de golf junto al Mar Menor, en Cartagena. La acusación cuestionó el reinicio del Plan
-  de Ordenación de los Recursos Naturales (PORN) de 2003, los informes ambientales y la modificación puntual 113
-  del PGOU. La compra de terrenos en 2002 estaba sometida a condición resolutoria: la sentencia no consideró que
-  acreditara por sí sola un concierto delictivo con responsables públicos.
+descripcion: |-
+  La causa examinó la tramitación del proyecto Novo Carthago de Hansa Urbana, que preveía unas 10.000 viviendas, hoteles y campos de golf junto al Mar Menor, en Cartagena. La acusación cuestionó el reinicio del Plan de Ordenación de los Recursos Naturales (PORN) de 2003, los informes ambientales y la modificación puntual 113 del PGOU. La compra de terrenos en 2002 estaba sometida a condición resolutoria: la sentencia no consideró que acreditara por sí sola un concierto delictivo con responsables públicos.
 
+  La Sección Tercera de la Audiencia Provincial de Murcia absolvió a los siete acusados mediante sentencia 366/2025, de 20 de noviembre (PA 81/2019). No apreció la arbitrariedad y el conocimiento de la injusticia necesarios para la prevaricación, ni falsedad penal en el instrumento normativo, ni vinculación suficiente entre los ingresos investigados y un delito previo para el blanqueo. Añadió la prescripción respecto de los hechos del PORN atribuidos al entonces consejero. No declaró delictiva la recalificación ni condenó a los promotores.
 
-  La Sección Tercera de la Audiencia Provincial de Murcia absolvió a los siete acusados mediante sentencia 366/2025,
-  de 20 de noviembre (PA 81/2019). No apreció la arbitrariedad y el conocimiento de la injusticia necesarios para
-  la prevaricación, ni falsedad penal en el instrumento normativo, ni vinculación suficiente entre los ingresos
-  investigados y un delito previo para el blanqueo. Añadió la prescripción respecto de los hechos del PORN atribuidos
-  al entonces consejero. No declaró delictiva la recalificación ni condenó a los promotores.
+  La prensa comunicó el 16 de enero de 2026 que la sentencia había sido declarada firme al no recurrir las acusaciones. No se ha obtenido la resolución de firmeza ni su fecha exacta. Esta absolución corresponde a los siete enjuiciados: Carlos Brugarolas falleció en 2019 antes del juicio; Francisco Marqués declaró como testigo en 2025 y Rafael Galea no figura entre esos siete. Sus desenlaces anteriores no se sustituyen por una absolución en esta sentencia. Pilar Barreiro obtuvo un sobreseimiento provisional confirmado por el Supremo, según EFE en diciembre de 2016, y declaró como testigo el 8 de octubre de 2025; no fue absuelta tras juicio por el Supremo. Quedan pendientes originales de esos archivos y el cotejo de las variantes nominales publicadas sobre el asesor jurídico de Urbanismo. La absolución penal tampoco determina por sí sola la situación posterior de convenios, avales o reparcelación.
 
+  El proyecto y sus trámites
 
-  La prensa comunicó el 16 de enero de 2026 que la sentencia había sido declarada firme al no recurrir las acusaciones.
-  No se ha obtenido la resolución de firmeza ni su fecha exacta. Esta absolución corresponde a los siete enjuiciados:
-  Carlos Brugarolas falleció en 2019 antes del juicio; Francisco Marqués declaró como testigo en 2025 y Rafael Galea
-  no figura entre esos siete. Sus desenlaces anteriores no se sustituyen por una absolución en esta sentencia. Pilar
-  Barreiro obtuvo un sobreseimiento provisional confirmado por el Supremo, según EFE en diciembre de 2016, y declaró
-  como testigo el 8 de octubre de 2025; no fue absuelta tras juicio por el Supremo. Quedan pendientes originales
-  de esos archivos y el cotejo de las variantes nominales publicadas sobre el asesor jurídico de Urbanismo. La absolución
-  penal tampoco determina por sí sola la situación posterior de convenios, avales o reparcelación.'
+  Novo Carthago afectaba a terrenos de Cartagena con protección urbanística y ambiental. La promoción de Hansa Urbana requería cambios en el PORN, evaluación ambiental y modificación del planeamiento municipal. La sentencia describe compras de 2002 condicionadas a la viabilidad urbanística y rechaza que esas compras demuestren un pacto con los responsables públicos. La oposición ambiental de ANSE constituye un antecedente de la controversia; sus valoraciones no sustituyen el resultado penal.
+
+  La absolución de 2025
+
+  La Audiencia examinó la actuación de siete personas. No consideró acreditados los elementos de prevaricación y rechazó que una discrepancia interpretativa equivaliera a una resolución penalmente arbitraria. Descartó la falsedad imputada al instrumento normativo y, para el blanqueo, la conexión probada entre los ingresos y un delito previo. La prescripción fue un fundamento añadido respecto de la orden del PORN atribuida al consejero, no una conclusión indiscriminada sobre todos los delitos y acusados. Hansa Urbana no fue una octava persona condenada o absuelta: comparecía como tercero afectado por una petición de nulidad retirada al comienzo del juicio.
+
+  Diferencias personales y firmeza
+
+  La absolución de los siete no se extiende a quienes tuvieron otro recorrido. Brugarolas había fallecido antes del juicio. Barreiro obtuvo un sobreseimiento provisional confirmado en 2016, según la información de EFE, y compareció después como testigo; Marqués también declaró como testigo en 2025. Falta recuperar las resoluciones que delimitaron el desenlace previo de Marqués y Galea. Las variantes periodísticas del nombre del asesor jurídico de Urbanismo requieren cotejo nominal; no se reconstruye su identidad a partir de los nombres sustituidos del documento del CENDOJ.
+
+  La noticia de enero de 2026 comunica firmeza por ausencia de recursos, pero no aporta el original de esa declaración. No se inventa su fecha ni se confunde con el día de publicación. Los litigios sobre convenio, avales o reparcelación pertenecen a otro ámbito: la comunicación municipal de abril de 2023 acredita una controversia contenciosa pendiente entonces de la causa penal, sin demostrar su situación posterior. Las compras, inversiones anunciadas, multas y decomisos solicitados no se suman como un daño público; no se dispone de una cuantificación judicial verificada que permita fijarlo.
+
+  Fuentes: [sentencia 366/2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07ee077d92356272a0a8778d75e36f0d&encode=true&databasematch=AN), [Orden de 12 de junio de 2003, BORM de 30 de junio, páginas 12895–12896](https://www.borm.es/services/boletin/16025/pdf), [archivo de Barreiro según EFE](https://cadenaser.com/emisora/2016/12/16/radio_murcia/1481890687_976153.html), [continuación y archivos de 2018](https://www.eldiario.es/murcia/politica/exconsejeros-valcarcel-banquillo-nova-carthago_1_2106731.html), [apertura de juicio comunicada en 2019](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juzgado-abre-juicio-oral-por-el-caso-Novo-Carthago), [suspensión en 2023](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Region-de-Murcia/Oficina-de-Comunicacion/Archivo-de-notas-prensa/La-huelga-de-letrados-de-la-Administracion-de-Justicia-obliga-a-aplazar-el-juicio-de-Novo-Carthago-en-la-Audiencia-Provincial-de-Murcia), [controversia contenciosa comunicada por Cartagena](https://www.cartagena.es/detalle_noticias_imprimir.asp?id=72829), [acusados y testigos de 2025](https://www.eldiario.es/murcia/politica/novo-carthago_1_12640179.html), [fallecimiento previo de Brugarolas según EFE](https://cadenaser.com/murcia/2025/10/21/un-exdirector-general-declaro-que-cerda-le-pidio-visitar-los-terrenos-protegidos-de-novo-carthago-radio-murcia/) y [firmeza comunicada en enero de 2026](https://murcia.empresas.de/declaran-firme-la-sentencia-que-absolvio-a-los-acusados-de-novo-carthago/).
 resumen: 'Tramitación urbanística de Novo Carthago: siete acusados absueltos en noviembre de 2025; firmeza comunicada
   por la prensa en enero de 2026.'
 lugar: Cartagena, Región de Murcia
@@ -258,19 +258,3 @@ cronologia:
   - https://murcia.empresas.de/declaran-firme-la-sentencia-que-absolvio-a-los-acusados-de-novo-carthago/
   type: sentencia
 ---
-
-El proyecto y sus trámites
-
-Novo Carthago afectaba a terrenos de Cartagena con protección urbanística y ambiental. La promoción de Hansa Urbana requería cambios en el PORN, evaluación ambiental y modificación del planeamiento municipal. La sentencia describe compras de 2002 condicionadas a la viabilidad urbanística y rechaza que esas compras demuestren un pacto con los responsables públicos. La oposición ambiental de ANSE constituye un antecedente de la controversia; sus valoraciones no sustituyen el resultado penal.
-
-La absolución de 2025
-
-La Audiencia examinó la actuación de siete personas. No consideró acreditados los elementos de prevaricación y rechazó que una discrepancia interpretativa equivaliera a una resolución penalmente arbitraria. Descartó la falsedad imputada al instrumento normativo y, para el blanqueo, la conexión probada entre los ingresos y un delito previo. La prescripción fue un fundamento añadido respecto de la orden del PORN atribuida al consejero, no una conclusión indiscriminada sobre todos los delitos y acusados. Hansa Urbana no fue una octava persona condenada o absuelta: comparecía como tercero afectado por una petición de nulidad retirada al comienzo del juicio.
-
-Diferencias personales y firmeza
-
-La absolución de los siete no se extiende a quienes tuvieron otro recorrido. Brugarolas había fallecido antes del juicio. Barreiro obtuvo un sobreseimiento provisional confirmado en 2016, según la información de EFE, y compareció después como testigo; Marqués también declaró como testigo en 2025. Falta recuperar las resoluciones que delimitaron el desenlace previo de Marqués y Galea. Las variantes periodísticas del nombre del asesor jurídico de Urbanismo requieren cotejo nominal; no se reconstruye su identidad a partir de los nombres sustituidos del documento del CENDOJ.
-
-La noticia de enero de 2026 comunica firmeza por ausencia de recursos, pero no aporta el original de esa declaración. No se inventa su fecha ni se confunde con el día de publicación. Los litigios sobre convenio, avales o reparcelación pertenecen a otro ámbito: la comunicación municipal de abril de 2023 acredita una controversia contenciosa pendiente entonces de la causa penal, sin demostrar su situación posterior. Las compras, inversiones anunciadas, multas y decomisos solicitados no se suman como un daño público; no se dispone de una cuantificación judicial verificada que permita fijarlo.
-
-Fuentes: [sentencia 366/2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07ee077d92356272a0a8778d75e36f0d&encode=true&databasematch=AN), [Orden de 12 de junio de 2003, BORM de 30 de junio, páginas 12895–12896](https://www.borm.es/services/boletin/16025/pdf), [archivo de Barreiro según EFE](https://cadenaser.com/emisora/2016/12/16/radio_murcia/1481890687_976153.html), [continuación y archivos de 2018](https://www.eldiario.es/murcia/politica/exconsejeros-valcarcel-banquillo-nova-carthago_1_2106731.html), [apertura de juicio comunicada en 2019](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juzgado-abre-juicio-oral-por-el-caso-Novo-Carthago), [suspensión en 2023](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Region-de-Murcia/Oficina-de-Comunicacion/Archivo-de-notas-prensa/La-huelga-de-letrados-de-la-Administracion-de-Justicia-obliga-a-aplazar-el-juicio-de-Novo-Carthago-en-la-Audiencia-Provincial-de-Murcia), [controversia contenciosa comunicada por Cartagena](https://www.cartagena.es/detalle_noticias_imprimir.asp?id=72829), [acusados y testigos de 2025](https://www.eldiario.es/murcia/politica/novo-carthago_1_12640179.html), [fallecimiento previo de Brugarolas según EFE](https://cadenaser.com/murcia/2025/10/21/un-exdirector-general-declaro-que-cerda-le-pidio-visitar-los-terrenos-protegidos-de-novo-carthago-radio-murcia/) y [firmeza comunicada en enero de 2026](https://murcia.empresas.de/declaran-firme-la-sentencia-que-absolvio-a-los-acusados-de-novo-carthago/).

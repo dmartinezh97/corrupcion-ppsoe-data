@@ -8,19 +8,18 @@ estadoPrincipal: En investigación
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: en investigacion
-descripcion: 'La pieza separada 12 de Púnica se dedica al presunto blanqueo y la recuperación de activos. La
-  Memoria de la Fiscalía publicada en 2022 la diferencia expresamente de la pieza 6, relativa a Cofely, y describe
-  cooperación con autoridades de Suiza, Irlanda y Francia para recuperar activos.
+descripcion: |-
+  La pieza separada 12 de Púnica se dedica al presunto blanqueo y la recuperación de activos. La Memoria de la Fiscalía publicada en 2022 la diferencia expresamente de la pieza 6, relativa a Cofely, y describe cooperación con autoridades de Suiza, Irlanda y Francia para recuperar activos.
+  En julio de 2021, Europa Press informó de que el instructor prorrogaba la pieza 12 por declaraciones y diligencias pendientes sobre una presunta sociedad instrumental en Costa Rica y movimientos internacionales de fondos. Una información de EFE publicada el 1 de febrero de 2026 seguía situando esta pieza en el juzgado, investigando un supuesto lavado de dinero en el extranjero.
+  No se ha obtenido una resolución posterior que permita fijar su situación exacta al 17 de octubre de 2026, ni una sentencia de esta pieza. La condena de Cofely difundida en diciembre de 2025 corresponde a otro procedimiento y no acredita el cierre de la pieza 12. Faltan los autos originales y la delimitación nominal actual de sus investigados.
 
-  En julio de 2021, Europa Press informó de que el instructor prorrogaba la pieza 12 por declaraciones y diligencias
-  pendientes sobre una presunta sociedad instrumental en Costa Rica y movimientos internacionales de fondos.
-  Una información de EFE publicada el 1 de febrero de 2026 seguía situando esta pieza en el juzgado, investigando
-  un supuesto lavado de dinero en el extranjero.
+  La [Memoria de la Fiscalía publicada en 2022](https://www.fiscal.es/memorias/memoria2022/FISCALIA_SITE/recursos/pdf/MEMFIS22.pdf), apartado de las diligencias previas 85/2014, página impresa 571, identifica por separado las piezas 4 (urbanismo de Valdemoro y blanqueo), 6 (Cofely) y 12 (blanqueo y recuperación de activos). Es una descripción de actividad de 2021, con referencias a 2022, no una resolución que certifique el estado actual.
 
-  No se ha obtenido una resolución posterior que permita fijar su situación exacta al 17 de octubre de 2026,
-  ni una sentencia de esta pieza. La condena de Cofely difundida en diciembre de 2025 corresponde a otro procedimiento
-  y no acredita el cierre de la pieza 12. Faltan los autos originales y la delimitación nominal actual de sus
-  investigados.'
+  La [noticia de Europa Press](https://www.europapress.es/nacional/noticia-an-impone-condenas-anos-carcel-pieza-punica-contratos-energeticos-ayuntamientos-madrid-20251222175735.html) sobre 29 condenados corresponde a la rama de Cofely y fue publicada el 22 de diciembre de 2025. Además, [EFE informó en marzo de 2026](https://cadenaser.com/cmadrid/2026/03/02/rebajan-de-8-a-5-anos-de-carcel-la-pena-al-conseguidor-de-la-punica-marjaliza-por-los-contratos-con-cofely-ser-madrid-sur/) de una rectificación de la pena impuesta a David Marjaliza en esa otra pieza. Ninguno de estos resultados se transfiere a la pieza 12.
+
+  Los 250 millones no están acreditados como daño de esta pieza. Las penas y las acusaciones de otros procedimientos no acreditan responsabilidades en esta pieza. La lista nominal queda pendiente de autos verificables; no se deducen identidades de iniciales o seudónimos. No constan fechas documentadas de inicio y cierre de esta pieza.
+
+  Al 17 de octubre de 2026, la última información específica documentada corresponde a febrero de 2026. Faltan el auto de delimitación de la pieza, sus sujetos actuales y eventuales resoluciones posteriores de archivo, procesamiento, juicio o recurso. No se afirma que la ausencia de un desenlace localizado pruebe la continuidad actual de la instrucción. La última situación publicada no permite confirmar el estado actual. No se dispone de documentos judiciales originales de la pieza.
 resumen: Pieza 12 de Púnica sobre presunto blanqueo internacional y recuperación de activos. Estado judicial
   actual pendiente de documentación; no se le atribuyen las condenas de Cofely.
 lugar: Comunidad de Madrid
@@ -57,11 +56,3 @@ cronologia:
   urls:
   - https://www.tribunasalamanca.com/noticias/432571/el-caso-punica-encara-otro-juicio-clave-despues-de-una-docena-de-piezas-y-solo-una-condena
 ---
-
-La [Memoria de la Fiscalía publicada en 2022](https://www.fiscal.es/memorias/memoria2022/FISCALIA_SITE/recursos/pdf/MEMFIS22.pdf), apartado de las diligencias previas 85/2014, página impresa 571, identifica por separado las piezas 4 (urbanismo de Valdemoro y blanqueo), 6 (Cofely) y 12 (blanqueo y recuperación de activos). Es una descripción de actividad de 2021, con referencias a 2022, no una resolución que certifique el estado actual.
-
-La [noticia de Europa Press](https://www.europapress.es/nacional/noticia-an-impone-condenas-anos-carcel-pieza-punica-contratos-energeticos-ayuntamientos-madrid-20251222175735.html) sobre 29 condenados corresponde a la rama de Cofely y fue publicada el 22 de diciembre de 2025. Además, [EFE informó en marzo de 2026](https://cadenaser.com/cmadrid/2026/03/02/rebajan-de-8-a-5-anos-de-carcel-la-pena-al-conseguidor-de-la-punica-marjaliza-por-los-contratos-con-cofely-ser-madrid-sur/) de una rectificación de la pena impuesta a David Marjaliza en esa otra pieza. Ninguno de estos resultados se transfiere a la pieza 12.
-
-Los 250 millones no están acreditados como daño de esta pieza. Las penas y las acusaciones de otros procedimientos no acreditan responsabilidades en esta pieza. La lista nominal queda pendiente de autos verificables; no se deducen identidades de iniciales o seudónimos. No constan fechas documentadas de inicio y cierre de esta pieza.
-
-Al 17 de octubre de 2026, la última información específica documentada corresponde a febrero de 2026. Faltan el auto de delimitación de la pieza, sus sujetos actuales y eventuales resoluciones posteriores de archivo, procesamiento, juicio o recurso. No se afirma que la ausencia de un desenlace localizado pruebe la continuidad actual de la instrucción. La última situación publicada no permite confirmar el estado actual. No se dispone de documentos judiciales originales de la pieza.

@@ -7,22 +7,22 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condena por prevaricación confirmada en apelación, según la prensa
-descripcion: 'Antonio Jesús Rodríguez Ruiz, alcalde de Vícar por el PP en 1997, fue condenado por prevaricación
-  por impedir una moción de censura mediante la declaración de incompatibilidad de dos concejales de la oposición.
-  La prensa sitúa la condena del Juzgado de lo Penal número 2 de Almería en marzo de 2005 y su confirmación por
-  la Audiencia Provincial antes de febrero de 2006: ocho años de inhabilitación. No se han recuperado las resoluciones
-  originales para precisar sus fechas, número, alcance literal de la pena y firmeza.
+descripcion: |-
+  Antonio Jesús Rodríguez Ruiz, alcalde de Vícar por el PP en 1997, fue condenado por prevaricación por impedir una moción de censura mediante la declaración de incompatibilidad de dos concejales de la oposición. La prensa sitúa la condena del Juzgado de lo Penal número 2 de Almería en marzo de 2005 y su confirmación por la Audiencia Provincial antes de febrero de 2006: ocho años de inhabilitación. No se han recuperado las resoluciones originales para precisar sus fechas, número, alcance literal de la pena y firmeza.
 
+  El 9 de febrero de 2006 el pleno tomó conocimiento de su renuncia como concejal y portavoz del PP, no como alcalde: ya había dejado la alcaldía años antes. La propuesta para volver a presentarse se publicó el 12 de noviembre de 2014. Su posterior expulsión del PP se informó en enero de 2018, y fue una decisión disciplinaria del partido distinta del procedimiento penal.
 
-  El 9 de febrero de 2006 el pleno tomó conocimiento de su renuncia como concejal y portavoz del PP, no como alcalde:
-  ya había dejado la alcaldía años antes. La propuesta para volver a presentarse se publicó el 12 de noviembre de
-  2014. Su posterior expulsión del PP se informó en enero de 2018, y fue una decisión disciplinaria del partido
-  distinta del procedimiento penal.
+  No se atribuye una cuantía de daño patrimonial ni se deduce el cumplimiento judicial de la pena de su regreso electoral. Quedan pendientes los originales judiciales y la verificación documental de la ejecución; la ficha no se considera completada.
 
+  La [información de Europa Press de febrero de 2006](https://www.europapress.es/andalucia/almeria-00350/noticia-almeria-portavoz-pp-vicar-dimitira-edil-ser-inhabilitado-mantendra-cargos-partido-20060203144614.html) sitúa los hechos en julio de 1997 y da cuenta de una resolución del TSJA de 30 de abril de 1998 que obligó a repetir el pleno. Ese antecedente contencioso es distinto de la posterior condena penal. No está acreditado el 5 de julio como día exacto del decreto; faltan el decreto o el texto original de la sentencia que lo corroboren.
 
-  No se atribuye una cuantía de daño patrimonial ni se deduce el cumplimiento judicial de la pena de su regreso
-  electoral. Quedan pendientes los originales judiciales y la verificación documental de la ejecución; la ficha
-  no se considera completada.'
+  La [crónica del pleno de 9 de febrero de 2006](https://www.teleprensa.com/almeria/provincia/almeria-noticia-49291-el-pleno-oficializa-la-renuncia-de-antonio-jesus-rodriguez-como-con-cejal-en-vicar/20060209140000648980.html) permite corregir el cargo al que renunció. El [artículo de El País de 8 de febrero](https://elpais.com/diario/2006/02/08/andalucia/1139354532_850215.html) también corrobora la condena y la ratificación de la Audiencia.
+
+  Un [acta oficial de Roquetas de Mar de noviembre de 1995](https://www.roquetasdemar.es/sites/default/files/cg951113.pdf), página 7, confirma los nombres y cargos de Antonio Jesús Rodríguez Ruiz, José Antonio Barrera Espín y Francisco Cid López en una comisión de deslinde. Ese documento no prueba por sí mismo quiénes fueron los dos afectados por el decreto de 1997. El comunicado de IU identifica expresamente a Barrera Espín como afectado; queda pendiente corroborar de forma independiente la identidad del segundo edil antes de mantenerla como dato procesal.
+
+  La [propuesta de candidatura de noviembre de 2014](https://www.lavozdealmeria.com/noticia/3/provincia/71348/el-exacalde-antonio-j-rodriguez-candidato-del-pp-a-la-alcaldia), su incorporación a la corporación en 2015 y la [expulsión del PP comunicada en enero de 2018](https://www.lavozdealmeria.com/noticia/3/provincia/144235/el-pp-expulsa-a-su-portavoz-en-vicar-por-las-repetidas-criticas-al-partido) son hechos de trayectoria política. No acreditan por sí solos las fechas de inicio y extinción de la inhabilitación. La expulsión interna se debió, según la información publicada, a declaraciones que el partido consideró perjudiciales para su imagen; no se presenta como sanción penal.
+
+  Información disponible al 17 de octubre de 2026. No se han obtenido las sentencias penales, el auto de firmeza ni la liquidación o extinción de la pena. No se dispone del acta municipal de mayo de 2006 para corroborar la referencia a un auto de firmeza. El acta de deslinde disponible acredita nombres, pero no es documentación del procedimiento penal. No consta una resolución posterior que modifique la condena; ello no demuestra su inexistencia.
 resumen: Condena de ocho años de inhabilitación por prevaricación al exalcalde de Vícar Antonio Jesús Rodríguez
   Ruiz por impedir una moción de censura; confirmación en apelación documentada en prensa, pendiente de los originales.
 lugar: Vícar, Almería
@@ -92,13 +92,3 @@ cronologia:
   urls:
   - https://www.lavozdealmeria.com/noticia/3/provincia/144235/el-pp-expulsa-a-su-portavoz-en-vicar-por-las-repetidas-criticas-al-partido
 ---
-
-La [información de Europa Press de febrero de 2006](https://www.europapress.es/andalucia/almeria-00350/noticia-almeria-portavoz-pp-vicar-dimitira-edil-ser-inhabilitado-mantendra-cargos-partido-20060203144614.html) sitúa los hechos en julio de 1997 y da cuenta de una resolución del TSJA de 30 de abril de 1998 que obligó a repetir el pleno. Ese antecedente contencioso es distinto de la posterior condena penal. No está acreditado el 5 de julio como día exacto del decreto; faltan el decreto o el texto original de la sentencia que lo corroboren.
-
-La [crónica del pleno de 9 de febrero de 2006](https://www.teleprensa.com/almeria/provincia/almeria-noticia-49291-el-pleno-oficializa-la-renuncia-de-antonio-jesus-rodriguez-como-con-cejal-en-vicar/20060209140000648980.html) permite corregir el cargo al que renunció. El [artículo de El País de 8 de febrero](https://elpais.com/diario/2006/02/08/andalucia/1139354532_850215.html) también corrobora la condena y la ratificación de la Audiencia.
-
-Un [acta oficial de Roquetas de Mar de noviembre de 1995](https://www.roquetasdemar.es/sites/default/files/cg951113.pdf), página 7, confirma los nombres y cargos de Antonio Jesús Rodríguez Ruiz, José Antonio Barrera Espín y Francisco Cid López en una comisión de deslinde. Ese documento no prueba por sí mismo quiénes fueron los dos afectados por el decreto de 1997. El comunicado de IU identifica expresamente a Barrera Espín como afectado; queda pendiente corroborar de forma independiente la identidad del segundo edil antes de mantenerla como dato procesal.
-
-La [propuesta de candidatura de noviembre de 2014](https://www.lavozdealmeria.com/noticia/3/provincia/71348/el-exacalde-antonio-j-rodriguez-candidato-del-pp-a-la-alcaldia), su incorporación a la corporación en 2015 y la [expulsión del PP comunicada en enero de 2018](https://www.lavozdealmeria.com/noticia/3/provincia/144235/el-pp-expulsa-a-su-portavoz-en-vicar-por-las-repetidas-criticas-al-partido) son hechos de trayectoria política. No acreditan por sí solos las fechas de inicio y extinción de la inhabilitación. La expulsión interna se debió, según la información publicada, a declaraciones que el partido consideró perjudiciales para su imagen; no se presenta como sanción penal.
-
-Información disponible al 17 de octubre de 2026. No se han obtenido las sentencias penales, el auto de firmeza ni la liquidación o extinción de la pena. No se dispone del acta municipal de mayo de 2006 para corroborar la referencia a un auto de firmeza. El acta de deslinde disponible acredita nombres, pero no es documentación del procedimiento penal. No consta una resolución posterior que modifique la condena; ello no demuestra su inexistencia.

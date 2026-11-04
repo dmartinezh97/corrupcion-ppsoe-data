@@ -11,14 +11,36 @@ estado: "Condenas por cohecho confirmadas en 2014; ejecución actual no acredita
 lugar: Sevilla, Andalucía
 resumen: 'Solicitud de 450.000 euros por la gestión de una escuela: condenas de Mellet y Ponce confirmadas en 2014
   y absoluciones de Rivas y Pereira.'
-descripcion: "Esta pieza trata de la solicitud de una comisión a empresarios del Grupo La Raza por gestionar una
-  escuela de hostelería subvencionada. La Audiencia de Sevilla condenó en noviembre de 2012 a Fernando José
-  Mellet, Daniel Ponce y Antonio Rivas y absolvió a María Regla Pereira. El Supremo, en sentencia de 16 de
-  mayo de 2014, absolvió a Rivas y confirmó para Mellet y Ponce 600.000 euros de multa y 21 meses de
-  suspensión de empleo y cargo público. Los 450.000 euros exigidos no fueron entregados ni constituyen un daño
-  cuantificado. Información pendiente al 17 de octubre de 2026: faltan originales de los incidentes
-  posteriores y de ejecución, así como la liquidación o extinción actual de las penas y la eventual evolución
-  del amparo anunciado."
+descripcion: |-
+  Esta pieza trata de la solicitud de una comisión a empresarios del Grupo La Raza por gestionar una escuela de hostelería subvencionada. La Audiencia de Sevilla condenó en noviembre de 2012 a Fernando José Mellet, Daniel Ponce y Antonio Rivas y absolvió a María Regla Pereira. El Supremo, en sentencia de 16 de mayo de 2014, absolvió a Rivas y confirmó para Mellet y Ponce 600.000 euros de multa y 21 meses de suspensión de empleo y cargo público. Los 450.000 euros exigidos no fueron entregados ni constituyen un daño cuantificado. Información pendiente al 17 de octubre de 2026: faltan originales de los incidentes posteriores y de ejecución, así como la liquidación o extinción actual de las penas y la eventual evolución del amparo anunciado.
+
+  ### Solicitud de comisión por la escuela de hostelería
+
+  Los hechos recogidos por el Supremo describen una petición de 300.000 euros más 150.000 por una acometida eléctrica que no correspondía pagar a los empresarios. Ponce formuló la primera petición el 16 de enero de 2009; el 27 hubo otra reunión con Mellet y dos representantes de La Raza. Los empresarios se negaron a entregar dinero y se paralizó el pago de la subvención. No se acredita una entrega de 450.000 euros. [STS 421/2014, páginas PDF 8–9](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/sentencia%20Merca%20TS.pdf).
+
+  ### Resultados individuales
+
+  La Audiencia Provincial de Sevilla, Sección Tercera, dictó la sentencia del Jurado 16/2012 (520/2012) el 6 de noviembre de 2012. Impuso a Mellet, Ponce y Rivas, por cohecho, 600.000 euros de multa y 21 meses de suspensión de empleo y cargo público, con responsabilidad personal subsidiaria en caso de impago. Absolvió a María Regla Pereira. La copia original contiene esa absolución y advierte que entonces no era firme. [Original de instancia, páginas 1 y 48–49](https://www.rtve.es/contenidos/documentos/sentencia_mercasevilla_audiencia_provincial.pdf).
+
+  El TSJA confirmó las condenas el 12 de junio de 2013. El Supremo resolvió la casación el 16 de mayo de 2014: mantuvo las de Mellet y Ponce y dictó la absolución de Antonio Rivas, dejando sin efecto sus medidas cautelares. La declaración policial de Mellet no ratificada judicialmente no podía sostener la condena de Rivas y los restantes indicios eran insuficientes. No fue una absolución en 2020 ni una condena por un delito autónomo de extorsión. [Casación y segunda sentencia, páginas PDF 72–77](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/sentencia%20Merca%20TS.pdf); [nota oficial de 3 de junio de 2014](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-anula-la-condena-a-Antonio-Rivas-por-el-caso-Mercasevilla).
+
+  La controversia sobre la grabación no se resume en una declaración incondicional de validez. La comunicación judicial explica que el Supremo descartó lesión del secreto de las comunicaciones o intimidad y que, aun prescindiendo de la grabación por la cuestión de autoincriminación, había otras pruebas suficientes respecto de Mellet y Ponce. No se atribuye idéntica prueba ni resultado a Rivas. [Comunicación judicial](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-anula-la-condena-a-Antonio-Rivas-por-el-caso-Mercasevilla).
+
+  ### Incidentes y ejecución
+
+  Europa Press informó en octubre de 2014 del rechazo de los incidentes de nulidad de los dos condenados. En 2016 se informó de la inadmisión por el TSJA de otro incidente de Mellet. Son actuaciones posteriores que no se convierten en nuevas sentencias ni permiten afirmar el resultado de cualquier amparo anunciado. [Europa Press,2014](https://www.europapress.es/andalucia/sevilla-00357/noticia-supremo-rechaza-anular-sentencia-condeno-mellet-ponce-caso-mercasevilla-20141010112521.html); [Andalucía Información/Europa Press,2016](https://www.andaluciainformacion.es/articulo/sevilla/el-tsja-rechaza-la-peticion-de-mellet-para-anular-la-grabacion/201605131843531755557.html).
+
+  En noviembre de 2018 se fijaron para Ponce 342 días de prisión subsidiaria por multa impagada, con 28.385,32 euros ya abonados y 571.614,68 pendientes según la noticia. Otro auto del 27 de noviembre suspendió su ejecución por tres años, condicionada a no delinquir. La imposición inicial no acredita que ingresara en prisión. [Resolución de impago comunicada](https://www.europapress.es/andalucia/sevilla-00357/noticia-audiencia-impone-342-dias-carcel-daniel-ponce-impago-multa-600000-euros-cohecho-mercasevilla-20181116133031.html); [suspensión posterior](https://www.europapress.es/andalucia/sevilla-00357/noticia-audiencia-suspende-ejecucion-pena-342-dias-prision-daniel-ponce-cohecho-mercasevilla-20181129131913.html).
+
+  Para Mellet, Diario de Sevilla informó de un auto de 3 de mayo de 2019 que suspendió por tres años la ejecución de 286 días de responsabilidad subsidiaria tras pagos que sumaban 247.891,73 euros. No se afirma pago íntegro, ingreso o extinción posterior de su pena. [Diario de Sevilla](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Mellet-evita-prision-abonado-euros_0_1352565031.html).
+
+  ### Cuantías y alcance
+
+  Las cantidades corresponden a conceptos distintos: 450.000 euros fue la cantidad exigida, 900.000 la subvención concedida y 600.000 por condenado la multa. Son conceptos diferentes. La sentencia de instancia denegó la indemnización solicitada por la Fundación porque el daño emergente o lucro cesante no estaba acreditado ni mínimamente cuantificado. No convierte toda la subvención en daño ni permite fijar éste en cero. [Sentencia de instancia, página 47](https://www.rtve.es/contenidos/documentos/sentencia_mercasevilla_audiencia_provincial.pdf).
+
+  Esta ficha se limita al cohecho de la escuela de hostelería. No incorpora los resultados de terrenos, guardería, becas o ERE, ni suma sus importes.
+
+  Corte:17 de octubre de 2026. Faltan los originales de incidentes y autos de ejecución posteriores, el eventual resultado del amparo y la liquidación actual de multas y suspensiones. No se deduce firmeza por ausencia de noticias ni se da por extinguida una pena por el mero transcurso de tres años.
 tribunal:
 - Juzgado de Instrucción n.º 6 de Sevilla
 - Audiencia Provincial de Sevilla, Sección Tercera, Tribunal del Jurado
@@ -132,31 +154,3 @@ cronologia:
   - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Mellet-evita-prision-abonado-euros_0_1352565031.html
   type: sentencia
 ---
-
-# Solicitud de comisión por la escuela de hostelería
-
-Los hechos recogidos por el Supremo describen una petición de 300.000 euros más 150.000 por una acometida eléctrica que no correspondía pagar a los empresarios. Ponce formuló la primera petición el 16 de enero de 2009; el 27 hubo otra reunión con Mellet y dos representantes de La Raza. Los empresarios se negaron a entregar dinero y se paralizó el pago de la subvención. No se acredita una entrega de 450.000 euros. [STS 421/2014, páginas PDF 8–9](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/sentencia%20Merca%20TS.pdf).
-
-## Resultados individuales
-
-La Audiencia Provincial de Sevilla, Sección Tercera, dictó la sentencia del Jurado 16/2012 (520/2012) el 6 de noviembre de 2012. Impuso a Mellet, Ponce y Rivas, por cohecho, 600.000 euros de multa y 21 meses de suspensión de empleo y cargo público, con responsabilidad personal subsidiaria en caso de impago. Absolvió a María Regla Pereira. La copia original contiene esa absolución y advierte que entonces no era firme. [Original de instancia, páginas 1 y 48–49](https://www.rtve.es/contenidos/documentos/sentencia_mercasevilla_audiencia_provincial.pdf).
-
-El TSJA confirmó las condenas el 12 de junio de 2013. El Supremo resolvió la casación el 16 de mayo de 2014: mantuvo las de Mellet y Ponce y dictó la absolución de Antonio Rivas, dejando sin efecto sus medidas cautelares. La declaración policial de Mellet no ratificada judicialmente no podía sostener la condena de Rivas y los restantes indicios eran insuficientes. No fue una absolución en 2020 ni una condena por un delito autónomo de extorsión. [Casación y segunda sentencia, páginas PDF 72–77](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOTAS%20DE%20PRENSA/sentencia%20Merca%20TS.pdf); [nota oficial de 3 de junio de 2014](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-anula-la-condena-a-Antonio-Rivas-por-el-caso-Mercasevilla).
-
-La controversia sobre la grabación no se resume en una declaración incondicional de validez. La comunicación judicial explica que el Supremo descartó lesión del secreto de las comunicaciones o intimidad y que, aun prescindiendo de la grabación por la cuestión de autoincriminación, había otras pruebas suficientes respecto de Mellet y Ponce. No se atribuye idéntica prueba ni resultado a Rivas. [Comunicación judicial](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-anula-la-condena-a-Antonio-Rivas-por-el-caso-Mercasevilla).
-
-## Incidentes y ejecución
-
-Europa Press informó en octubre de 2014 del rechazo de los incidentes de nulidad de los dos condenados. En 2016 se informó de la inadmisión por el TSJA de otro incidente de Mellet. Son actuaciones posteriores que no se convierten en nuevas sentencias ni permiten afirmar el resultado de cualquier amparo anunciado. [Europa Press,2014](https://www.europapress.es/andalucia/sevilla-00357/noticia-supremo-rechaza-anular-sentencia-condeno-mellet-ponce-caso-mercasevilla-20141010112521.html); [Andalucía Información/Europa Press,2016](https://www.andaluciainformacion.es/articulo/sevilla/el-tsja-rechaza-la-peticion-de-mellet-para-anular-la-grabacion/201605131843531755557.html).
-
-En noviembre de 2018 se fijaron para Ponce 342 días de prisión subsidiaria por multa impagada, con 28.385,32 euros ya abonados y 571.614,68 pendientes según la noticia. Otro auto del 27 de noviembre suspendió su ejecución por tres años, condicionada a no delinquir. La imposición inicial no acredita que ingresara en prisión. [Resolución de impago comunicada](https://www.europapress.es/andalucia/sevilla-00357/noticia-audiencia-impone-342-dias-carcel-daniel-ponce-impago-multa-600000-euros-cohecho-mercasevilla-20181116133031.html); [suspensión posterior](https://www.europapress.es/andalucia/sevilla-00357/noticia-audiencia-suspende-ejecucion-pena-342-dias-prision-daniel-ponce-cohecho-mercasevilla-20181129131913.html).
-
-Para Mellet, Diario de Sevilla informó de un auto de 3 de mayo de 2019 que suspendió por tres años la ejecución de 286 días de responsabilidad subsidiaria tras pagos que sumaban 247.891,73 euros. No se afirma pago íntegro, ingreso o extinción posterior de su pena. [Diario de Sevilla](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Mellet-evita-prision-abonado-euros_0_1352565031.html).
-
-## Cuantías y alcance
-
-Las cantidades corresponden a conceptos distintos: 450.000 euros fue la cantidad exigida, 900.000 la subvención concedida y 600.000 por condenado la multa. Son conceptos diferentes. La sentencia de instancia denegó la indemnización solicitada por la Fundación porque el daño emergente o lucro cesante no estaba acreditado ni mínimamente cuantificado. No convierte toda la subvención en daño ni permite fijar éste en cero. [Sentencia de instancia, página 47](https://www.rtve.es/contenidos/documentos/sentencia_mercasevilla_audiencia_provincial.pdf).
-
-Esta ficha se limita al cohecho de la escuela de hostelería. No incorpora los resultados de terrenos, guardería, becas o ERE, ni suma sus importes.
-
-Corte:17 de octubre de 2026. Faltan los originales de incidentes y autos de ejecución posteriores, el eventual resultado del amparo y la liquidación actual de multas y suspensiones. No se deduce firmeza por ausencia de noticias ni se da por extinguida una pena por el mero transcurso de tres años.

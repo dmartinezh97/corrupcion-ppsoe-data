@@ -8,24 +8,18 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Controversia económica; vía judicial no acreditada
-descripcion: 'La controversia se refiere al pago en entradas de obligaciones de Terra Natura con la Sociedad Proyectos Temáticos
-  de la Comunidad Valenciana (SPTCV) por terrenos públicos en Benidorm. En septiembre de 2011, Eva Martínez, portavoz socialista
-  de Grandes Proyectos, pidió una comisión parlamentaria para esclarecer esos acuerdos. La propuesta fue rechazada por el
-  PP en octubre de 2011, que defendió la legalidad del acuerdo. Las críticas al Gobierno de Fabra se referían a Alberto Fabra,
-  presidente de la Generalitat, no a Carlos Fabra; no acreditan por sí mismas responsabilidad penal personal.
+descripcion: |-
+  La controversia se refiere al pago en entradas de obligaciones de Terra Natura con la Sociedad Proyectos Temáticos de la Comunidad Valenciana (SPTCV) por terrenos públicos en Benidorm. En septiembre de 2011, Eva Martínez, portavoz socialista de Grandes Proyectos, pidió una comisión parlamentaria para esclarecer esos acuerdos. La propuesta fue rechazada por el PP en octubre de 2011, que defendió la legalidad del acuerdo. Las críticas al Gobierno de Fabra se referían a Alberto Fabra, presidente de la Generalitat, no a Carlos Fabra; no acreditan por sí mismas responsabilidad penal personal.
 
+  Según la información publicada en octubre de 2015 sobre documentación de la nueva dirección de SPTCV, la compensación mediante entradas hasta 2013 alcanzó 1,75 millones de euros, corregidos a 1,71 millones, y la Generalitat indicaba que no había utilizado los pases. La noticia identificó a Nicolás Figueras como firmante del convenio. Esa cifra no se incorpora como perjuicio judicialmente declarado.
 
-  Según la información publicada en octubre de 2015 sobre documentación de la nueva dirección de SPTCV, la compensación mediante
-  entradas hasta 2013 alcanzó 1,75 millones de euros, corregidos a 1,71 millones, y la Generalitat indicaba que no había utilizado
-  los pases. La noticia identificó a Nicolás Figueras como firmante del convenio. Esa cifra no se incorpora como perjuicio
-  judicialmente declarado.
+  Separadamente, en octubre de 2015 se anunció una reclamación extrajudicial de 419.000 euros a Terra Natura por derechos de superficie de 2014 y 2015 y conceptos de IVA. No era una recuperación de la compensación anterior. No se ha acreditado su cobro ni una causa penal, sentencia, archivo, recursos o firmeza sobre estos convenios al 15 de octubre de 2026. Faltan los convenios originales, la fiscalización completa y el desenlace de las reclamaciones; por ello no se afirma que el asunto siga judicialmente en investigación.
 
+  El debate parlamentario sobre los convenios, la fiscalización económica y la reclamación de derechos de superficie son ámbitos distintos. Les Corts no es un tribunal y el rechazo a crear una comisión no equivale a un archivo judicial. Tampoco el anuncio de acudir a juicio si no se pagaba permite afirmar que se presentó efectivamente una demanda.
 
-  Separadamente, en octubre de 2015 se anunció una reclamación extrajudicial de 419.000 euros a Terra Natura por derechos
-  de superficie de 2014 y 2015 y conceptos de IVA. No era una recuperación de la compensación anterior. No se ha acreditado
-  su cobro ni una causa penal, sentencia, archivo, recursos o firmeza sobre estos convenios al 15 de octubre de 2026. Faltan
-  los convenios originales, la fiscalización completa y el desenlace de las reclamaciones; por ello no se afirma que el asunto
-  siga judicialmente en investigación.'
+  No se ha localizado una resolución penal que permita atribuir delitos de malversación o prevaricación a las personas citadas. La cifra compensada, los importes reclamados y cualquier eventual responsabilidad contable exigirían documentos y comprobaciones propios. Los procedimientos de Terra Mítica, otros litigios de Terra Natura y el accidente laboral de 2016 no acreditan el resultado de este asunto.
+
+  Sin los convenios originales y las liquidaciones posteriores no puede establecerse qué cantidades fueron finalmente cobradas o extinguidas. Esa incertidumbre permanece al corte de 15 de octubre de 2026.
 resumen: Controversia sobre compensaciones con entradas y reclamaciones de cánones de suelo público, sin resultado penal acreditado.
 lugar: Benidorm, Comunitat Valenciana
 tribunal: []
@@ -96,9 +90,3 @@ cronologia:
   type: resumen
   relevancia: media
 ---
-
-El debate parlamentario sobre los convenios, la fiscalización económica y la reclamación de derechos de superficie son ámbitos distintos. Les Corts no es un tribunal y el rechazo a crear una comisión no equivale a un archivo judicial. Tampoco el anuncio de acudir a juicio si no se pagaba permite afirmar que se presentó efectivamente una demanda.
-
-No se ha localizado una resolución penal que permita atribuir delitos de malversación o prevaricación a las personas citadas. La cifra compensada, los importes reclamados y cualquier eventual responsabilidad contable exigirían documentos y comprobaciones propios. Los procedimientos de Terra Mítica, otros litigios de Terra Natura y el accidente laboral de 2016 no acreditan el resultado de este asunto.
-
-Sin los convenios originales y las liquidaciones posteriores no puede establecerse qué cantidades fueron finalmente cobradas o extinguidas. Esa incertidumbre permanece al corte de 15 de octubre de 2026.

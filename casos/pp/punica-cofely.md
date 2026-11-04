@@ -9,32 +9,22 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas de primera instancia y rectificación parcial
-descripcion: 'La pieza separada 6 de Púnica examina las prácticas corruptas desarrolladas entre marzo de 2012 y
-  octubre de 2014 para adjudicar contratos municipales de eficiencia energética a Cofely. La Audiencia Nacional
-  dictó la sentencia 34/2025 el 19 de diciembre de 2025, difundida por el CGPJ el día 22: condenó a 29 de las 37
-  personas físicas y jurídicas juzgadas y absolvió a ocho. El volumen de los contratos no equivale al perjuicio
-  judicialmente reconocido.
+descripcion: |-
+  La pieza separada 6 de Púnica examina las prácticas corruptas desarrolladas entre marzo de 2012 y octubre de 2014 para adjudicar contratos municipales de eficiencia energética a Cofely. La Audiencia Nacional dictó la sentencia 34/2025 el 19 de diciembre de 2025, difundida por el CGPJ el día 22: condenó a 29 de las 37 personas físicas y jurídicas juzgadas y absolvió a ocho. El volumen de los contratos no equivale al perjuicio judicialmente reconocido.
 
+  La sentencia condenó a Didier Roger Maurice y Constantino Álvarez a seis años y seis meses de prisión, y a Pedro García Pérez a seis años y once meses. Entre los exalcaldes, Daniel Ortiz recibió tres años de prisión; Agustín Juárez y Carlos Alberto Estrada, cuatro años y seis meses cada uno; José María Fraile, dos años más cuatro meses y quince días; Antonio Sánchez Fernández, seis meses más un año y once meses más cinco meses. Gonzalo Cubas recibió tres años de inhabilitación, sin pena de prisión. Los exalcaldes José Carlos Boza y José García Lobato fueron absueltos. No todos pertenecían al PP: Fraile era del PSOE y Sánchez Fernández de un partido local independiente.
 
-  La sentencia condenó a Didier Roger Maurice y Constantino Álvarez a seis años y seis meses de prisión, y a Pedro
-  García Pérez a seis años y once meses. Entre los exalcaldes, Daniel Ortiz recibió tres años de prisión; Agustín
-  Juárez y Carlos Alberto Estrada, cuatro años y seis meses cada uno; José María Fraile, dos años más cuatro meses
-  y quince días; Antonio Sánchez Fernández, seis meses más un año y once meses más cinco meses. Gonzalo Cubas recibió
-  tres años de inhabilitación, sin pena de prisión. Los exalcaldes José Carlos Boza y José García Lobato fueron
-  absueltos. No todos pertenecían al PP: Fraile era del PSOE y Sánchez Fernández de un partido local independiente.
+  David Marjaliza Villaseñor recibió inicialmente ocho años y dos meses. En febrero y marzo de 2026 se publicó una rectificación: El País cifra la pena en cinco años y un mes y EFE/Cadena SER en cinco años. Falta el auto original para resolver esa diferencia y comprobar su fecha y alcance exactos. La sentencia inicial declara que no es firme y admite casación; no se ha documentado la firmeza individual, el resultado de eventuales recursos ni la ejecución al 17 de octubre de 2026.
 
+  Cofely fue condenada a multas por cohecho y tráfico de influencias y a indemnizar a Parla con 73.429,95 euros, concepto distinto de los decomisos y del valor de los contratos. El fallo contiene importes diferentes para el decomiso de Agustín Juárez en su pronunciamiento individual y en el párrafo conjunto, pendientes de aclaración. No se ofrece una suma global de daño ni se trasladan estos resultados a otras piezas de Púnica.
 
-  David Marjaliza Villaseñor recibió inicialmente ocho años y dos meses. En febrero y marzo de 2026 se publicó una
-  rectificación: El País cifra la pena en cinco años y un mes y EFE/Cadena SER en cinco años. Falta el auto original
-  para resolver esa diferencia y comprobar su fecha y alcance exactos. La sentencia inicial declara que no es firme
-  y admite casación; no se ha documentado la firmeza individual, el resultado de eventuales recursos ni la ejecución
-  al 17 de octubre de 2026.
+  La contratación energética examinada en la pieza 6 no debe confundirse con la financiación del PP, las campañas de reputación digital de Murcia o León ni Waiter Music. Los [antecedentes de la sentencia](https://losgenoveses.net/Caso%20Punica/06.%20PS%20Cofely/Punica%20PS6.%20Cofely.%20%20AN.%20Sentencia%20condenatoria%20a%20varios%20alcaldes.19.12.25.pdf) permiten seguir la separación de la pieza en 2015, el procedimiento abreviado de 2021 y la apertura de juicio oral de 2022. Las sesiones comenzaron en abril de 2025, no hubo una sentencia de esta pieza en diciembre de 2024.
 
+  La [sentencia de CENDOJ](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=56f33d2896e5f7f4a0a8778d75e36f0d&encode=true&databasematch=AN) y la copia nominal son versiones del mismo pronunciamiento, con paginaciones distintas: 312 y 612 páginas, respectivamente. La [nota oficial de 22 de diciembre](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-condena-a-penas-de-hasta-8-anos-carcel-por-la-adjudicacion-de-contratos-de-eficiencia-energetica-en-ayuntamientos-de-la-Comunidad-de-Madrid) resume las condenas, las absoluciones y el fallo contra la empresa. Los nombres completos de la ficha proceden de la copia nominal, sin reconstruir los seudónimos de CENDOJ. Las penas reseñadas no constituyen una liquidación de condena ni prueban ingreso o suspensión de prisión.
 
-  Cofely fue condenada a multas por cohecho y tráfico de influencias y a indemnizar a Parla con 73.429,95 euros,
-  concepto distinto de los decomisos y del valor de los contratos. El fallo contiene importes diferentes para el
-  decomiso de Agustín Juárez en su pronunciamiento individual y en el párrafo conjunto, pendientes de aclaración.
-  No se ofrece una suma global de daño ni se trasladan estos resultados a otras piezas de Púnica.'
+  Cofely debe abonar multas de tres años y seis meses y seis meses, ambas a razón de 2.500 euros diarios, por cohecho y tráfico de influencias, respectivamente. El fallo fija además una indemnización a Parla de 73.429,95 euros por una factura de cobre cobrada indebidamente. Se distingue de los decomisos de dádivas y ganancias y del volumen de los contratos, que no se presenta como perjuicio global. En el caso de Agustín Juárez aparecen 400.000 euros en el pronunciamiento individual de decomiso y 171.400 en el párrafo conjunto; sin aclaración no se selecciona una cifra ni se suman ambas.
+
+  La [información de El País de febrero de 2026](https://elpais.com/espana/2026-02-27/la-audiencia-nacional-rebaja-tres-anos-de-carcel-la-condena-impuesta-a-marjaliza-por-el-caso-punica.html) desglosa una rectificación de Marjaliza que suma cinco años y un mes, mientras [EFE/Cadena SER](https://cadenaser.com/cmadrid/2026/03/02/rebajan-de-8-a-5-anos-de-carcel-la-pena-al-conseguidor-de-la-punica-marjaliza-por-los-contratos-con-cofely-ser-madrid-sur/) publica cinco años. Falta el auto para comprobar su fecha y alcance y resolver la diferencia. La sentencia de 2025 es expresamente recurrible; no se afirma por silencio que continúe un recurso pendiente ni que haya adquirido firmeza. Las absoluciones parciales y totales se conservan con su alcance individual.
 resumen: Condenas y absoluciones por contratos de eficiencia energética de Cofely; rectificación de Marjaliza y
   firmeza posterior pendientes de documentación.
 lugar: Comunidad de Madrid y Almendralejo (Badajoz)
@@ -303,11 +293,3 @@ cronologia:
   urls:
   - https://cadenaser.com/cmadrid/2026/03/02/rebajan-de-8-a-5-anos-de-carcel-la-pena-al-conseguidor-de-la-punica-marjaliza-por-los-contratos-con-cofely-ser-madrid-sur/
 ---
-
-La contratación energética examinada en la pieza 6 no debe confundirse con la financiación del PP, las campañas de reputación digital de Murcia o León ni Waiter Music. Los [antecedentes de la sentencia](https://losgenoveses.net/Caso%20Punica/06.%20PS%20Cofely/Punica%20PS6.%20Cofely.%20%20AN.%20Sentencia%20condenatoria%20a%20varios%20alcaldes.19.12.25.pdf) permiten seguir la separación de la pieza en 2015, el procedimiento abreviado de 2021 y la apertura de juicio oral de 2022. Las sesiones comenzaron en abril de 2025, no hubo una sentencia de esta pieza en diciembre de 2024.
-
-La [sentencia de CENDOJ](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=56f33d2896e5f7f4a0a8778d75e36f0d&encode=true&databasematch=AN) y la copia nominal son versiones del mismo pronunciamiento, con paginaciones distintas: 312 y 612 páginas, respectivamente. La [nota oficial de 22 de diciembre](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencia-Nacional/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-Nacional-condena-a-penas-de-hasta-8-anos-carcel-por-la-adjudicacion-de-contratos-de-eficiencia-energetica-en-ayuntamientos-de-la-Comunidad-de-Madrid) resume las condenas, las absoluciones y el fallo contra la empresa. Los nombres completos de la ficha proceden de la copia nominal, sin reconstruir los seudónimos de CENDOJ. Las penas reseñadas no constituyen una liquidación de condena ni prueban ingreso o suspensión de prisión.
-
-Cofely debe abonar multas de tres años y seis meses y seis meses, ambas a razón de 2.500 euros diarios, por cohecho y tráfico de influencias, respectivamente. El fallo fija además una indemnización a Parla de 73.429,95 euros por una factura de cobre cobrada indebidamente. Se distingue de los decomisos de dádivas y ganancias y del volumen de los contratos, que no se presenta como perjuicio global. En el caso de Agustín Juárez aparecen 400.000 euros en el pronunciamiento individual de decomiso y 171.400 en el párrafo conjunto; sin aclaración no se selecciona una cifra ni se suman ambas.
-
-La [información de El País de febrero de 2026](https://elpais.com/espana/2026-02-27/la-audiencia-nacional-rebaja-tres-anos-de-carcel-la-condena-impuesta-a-marjaliza-por-el-caso-punica.html) desglosa una rectificación de Marjaliza que suma cinco años y un mes, mientras [EFE/Cadena SER](https://cadenaser.com/cmadrid/2026/03/02/rebajan-de-8-a-5-anos-de-carcel-la-pena-al-conseguidor-de-la-punica-marjaliza-por-los-contratos-con-cofely-ser-madrid-sur/) publica cinco años. Falta el auto para comprobar su fecha y alcance y resolver la diferencia. La sentencia de 2025 es expresamente recurrible; no se afirma por silencio que continúe un recurso pendiente ni que haya adquirido firmeza. Las absoluciones parciales y totales se conservan con su alcance individual.

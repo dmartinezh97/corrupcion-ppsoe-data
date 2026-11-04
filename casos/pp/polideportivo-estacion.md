@@ -9,27 +9,22 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución penal; retroacción contable en 2025
-descripcion: 'La construcción del polideportivo del barrio de la Estación de Navalcarnero fue adjudicada en mayo
-  de 2006 a Constructora Hispánica, posteriormente Assignia Infraestructuras, por 14.837.273 euros, IVA incluido.
-  El Ayuntamiento asumía contractualmente el 80%, 11.869.818,40 euros. La obra quedó inconclusa y dio lugar a procedimientos
-  penales y contables distintos; el importe contratado o desembolsado no equivale por sí mismo a un perjuicio probado.
+descripcion: |-
+  La construcción del polideportivo del barrio de la Estación de Navalcarnero fue adjudicada en mayo de 2006 a Constructora Hispánica, posteriormente Assignia Infraestructuras, por 14.837.273 euros, IVA incluido. El Ayuntamiento asumía contractualmente el 80%, 11.869.818,40 euros. La obra quedó inconclusa y dio lugar a procedimientos penales y contables distintos; el importe contratado o desembolsado no equivale por sí mismo a un perjuicio probado.
 
+  La Audiencia Provincial de Madrid absolvió a los cuatro acusados el 27 de octubre de 2020. El proceso quedó limitado a prevaricación y falsedad: la Sala excluyó los hechos relativos a malversación y fraude por exceder el objeto fijado durante la instrucción. La sentencia declaró que las certificaciones pagadas correspondían a elementos realmente ejecutados, aunque sus partidas no coincidían con la ejecución real, y no consideró probados el concierto previo ni el conocimiento necesario para las condenas solicitadas. El Supremo desestimó la casación municipal el 22 de mayo de 2023, indicando que no cabía recurso contra esa resolución.
 
-  La Audiencia Provincial de Madrid absolvió a los cuatro acusados el 27 de octubre de 2020. El proceso quedó limitado
-  a prevaricación y falsedad: la Sala excluyó los hechos relativos a malversación y fraude por exceder el objeto
-  fijado durante la instrucción. La sentencia declaró que las certificaciones pagadas correspondían a elementos
-  realmente ejecutados, aunque sus partidas no coincidían con la ejecución real, y no consideró probados el concierto
-  previo ni el conocimiento necesario para las condenas solicitadas. El Supremo desestimó la casación municipal
-  el 22 de mayo de 2023, indicando que no cabía recurso contra esa resolución.
+  En la vía contable, la sentencia de 19 de febrero de 2020 fijó 1.862.092,72 euros por el polideportivo a cargo solidario del exalcalde y un técnico, además de otros importes de la Plaza de Toros. El Supremo anuló las sentencias contables de 2020 y 2021 el 5 de junio de 2025 y ordenó retrotraer el procedimiento para resolver conforme al pronunciamiento penal, una vez verificada su firmeza. Esa retroacción no equivale a una absolución contable definitiva. No está documentada aquí la resolución posterior ni el resultado nominal completo de todas las personas incluidas en la fase provisional de 2018, hasta el 17 de octubre de 2026. Las condenas de otros contratos municipales no son condenas por este polideportivo.
 
+  La concesión comprendía construir y gestionar el polideportivo. Los hechos probados de la causa penal diferencian el precio de adjudicación de la aportación municipal comprometida y de las certificaciones efectivamente pagadas. Las certificaciones 29A y 29B de noviembre de 2010, por 2.340.973,02 y 2.160.647,21 euros, quedaron sin aprobar ni abonar: no deben confundirse con las certificaciones 20 y 21 que sustentaron la condena contable inicial. Las diferencias entre partidas certificadas y obra ejecutada tampoco permiten afirmar un desvío de fondos que la jurisdicción penal no declaró probado.
 
-  En la vía contable, la sentencia de 19 de febrero de 2020 fijó 1.862.092,72 euros por el polideportivo a cargo
-  solidario del exalcalde y un técnico, además de otros importes de la Plaza de Toros. El Supremo anuló las sentencias
-  contables de 2020 y 2021 el 5 de junio de 2025 y ordenó retrotraer el procedimiento para resolver conforme al
-  pronunciamiento penal, una vez verificada su firmeza. Esa retroacción no equivale a una absolución contable definitiva.
-  No está documentada aquí la resolución posterior ni el resultado nominal completo de todas las personas incluidas
-  en la fase provisional de 2018, hasta el 17 de octubre de 2026. Las condenas de otros contratos municipales no
-  son condenas por este polideportivo.'
+  En el juicio penal fueron acusados el exalcalde, el técnico municipal, la interventora y el director facultativo. La Audiencia limitó el objeto a prevaricación y falsedad al excluir los hechos de malversación y fraude introducidos por la acusación municipal. Absolvió a los cuatro, y el Supremo rechazó la revisión probatoria pretendida por el Ayuntamiento.
+
+  El procedimiento contable C-40/18 agrupó reclamaciones del polideportivo y de la Plaza de Toros. Los 2.108.033,45 euros de principal fijados en 2020 incluían 1.862.092,72 euros del polideportivo; los restantes 52.050,57 y 193.890,16 euros correspondían a electricidad y utilización del recinto taurino. La solidaridad del primer importe no multiplica la cuantía por el número de responsables. Ni la liquidación provisional de 2018, ni la pretensión municipal, ni los intereses se suman como un daño definitivo adicional. Las resoluciones contables de 2020 y 2021 fueron anuladas en 2025 y debe distinguirse esa anulación con retroacción de una exoneración contable final, todavía no documentada.
+
+  Las actuaciones por otros contratos municipales —incluidos trabajos para los encierros y compras de granito— tienen objetos distintos y no convierten la absolución del polideportivo en una condena. También son distintos los litigios contractuales con las constructoras. No se afirma aquí un cierre universal de las causas de Navalcarnero ni una situación actual de las instalaciones a partir de descripciones antiguas.
+
+  Fuentes principales: [Audiencia Provincial, 27 de octubre de 2020](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1af699d00f3c6a35&encode=true&databasematch=AN), [Supremo penal, 22 de mayo de 2023](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=49c215dd0f28e934a0a8778d75e36f0d&encode=true&databasematch=AN), [Supremo contencioso, 5 de junio de 2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c87b40f2727e11f2a0a8778d75e36f0d&encode=true&databasematch=AN), [identificación de los cuatro acusados y acusación previa](https://cadenaser.com/emisora/2020/09/22/ser_madrid_oeste/1600772946_884982.html), [liquidación provisional de 2018](https://noticiasparamunicipios.com/municipios-madrid/navalcarnero-el-tribunal-de-cuentas-da-10-dias-al-exalcalde-para-depositar-10-millones-por-presuntas-irregularidades/) y [crónica de la primera sentencia contable](https://noticiasparamunicipios.com/municipios-madrid/navalcarnero-el-tribunal-de-cuentas-condena-a-baltasar-santos-a-pagar-21-millones-de-euros/).
 resumen: Absolución penal confirmada por el Supremo en 2023 y anulación con retroacción de las sentencias contables
   en 2025. El desenlace contable posterior sigue sin documentar.
 lugar: Navalcarnero, Comunidad de Madrid
@@ -194,13 +189,3 @@ cronologia:
   type: recurso
   relevancia: alta
 ---
-
-La concesión comprendía construir y gestionar el polideportivo. Los hechos probados de la causa penal diferencian el precio de adjudicación de la aportación municipal comprometida y de las certificaciones efectivamente pagadas. Las certificaciones 29A y 29B de noviembre de 2010, por 2.340.973,02 y 2.160.647,21 euros, quedaron sin aprobar ni abonar: no deben confundirse con las certificaciones 20 y 21 que sustentaron la condena contable inicial. Las diferencias entre partidas certificadas y obra ejecutada tampoco permiten afirmar un desvío de fondos que la jurisdicción penal no declaró probado.
-
-En el juicio penal fueron acusados el exalcalde, el técnico municipal, la interventora y el director facultativo. La Audiencia limitó el objeto a prevaricación y falsedad al excluir los hechos de malversación y fraude introducidos por la acusación municipal. Absolvió a los cuatro, y el Supremo rechazó la revisión probatoria pretendida por el Ayuntamiento.
-
-El procedimiento contable C-40/18 agrupó reclamaciones del polideportivo y de la Plaza de Toros. Los 2.108.033,45 euros de principal fijados en 2020 incluían 1.862.092,72 euros del polideportivo; los restantes 52.050,57 y 193.890,16 euros correspondían a electricidad y utilización del recinto taurino. La solidaridad del primer importe no multiplica la cuantía por el número de responsables. Ni la liquidación provisional de 2018, ni la pretensión municipal, ni los intereses se suman como un daño definitivo adicional. Las resoluciones contables de 2020 y 2021 fueron anuladas en 2025 y debe distinguirse esa anulación con retroacción de una exoneración contable final, todavía no documentada.
-
-Las actuaciones por otros contratos municipales —incluidos trabajos para los encierros y compras de granito— tienen objetos distintos y no convierten la absolución del polideportivo en una condena. También son distintos los litigios contractuales con las constructoras. No se afirma aquí un cierre universal de las causas de Navalcarnero ni una situación actual de las instalaciones a partir de descripciones antiguas.
-
-Fuentes principales: [Audiencia Provincial, 27 de octubre de 2020](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=1af699d00f3c6a35&encode=true&databasematch=AN), [Supremo penal, 22 de mayo de 2023](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=49c215dd0f28e934a0a8778d75e36f0d&encode=true&databasematch=AN), [Supremo contencioso, 5 de junio de 2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c87b40f2727e11f2a0a8778d75e36f0d&encode=true&databasematch=AN), [identificación de los cuatro acusados y acusación previa](https://cadenaser.com/emisora/2020/09/22/ser_madrid_oeste/1600772946_884982.html), [liquidación provisional de 2018](https://noticiasparamunicipios.com/municipios-madrid/navalcarnero-el-tribunal-de-cuentas-da-10-dias-al-exalcalde-para-depositar-10-millones-por-presuntas-irregularidades/) y [crónica de la primera sentencia contable](https://noticiasparamunicipios.com/municipios-madrid/navalcarnero-el-tribunal-de-cuentas-condena-a-baltasar-santos-a-pagar-21-millones-de-euros/).

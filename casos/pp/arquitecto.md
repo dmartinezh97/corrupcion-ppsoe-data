@@ -17,6 +17,22 @@ descripcion: |-
   En un comunicado fechado el 21 de septiembre de 2016, el Colegio de Arquitectos de Melilla anunció que su Junta había acordado el día anterior retirarse de la causa penal y solicitar un proceso selectivo abierto. Miguel Marín fue el único acusado en el juicio por prevaricación administrativa celebrado, según El Faro, el 23 de febrero de 2018. La Fiscalía solicitó ocho años de inhabilitación y la acusación popular diez. Las alegaciones sobre favoritismo y los solapamientos salariales fueron objeto de debate, no hechos que permitan atribuir una condena al acusado ni al arquitecto o a los testigos.
 
   La prensa del 20 de abril de 2018 informó de la absolución de Miguel Marín: no se acreditó una actuación penalmente prevaricadora. Falta el original de la sentencia, su fecha exacta y constancia de recursos o firmeza hasta el 17 de octubre de 2026; esta limitación no permite afirmar que el procedimiento siga abierto. Tampoco se acredita aquí el resultado final de la convocatoria de la plaza. No se ha localizado una cuantificación judicial del perjuicio: las peticiones de inhabilitación y los salarios no se presentan como daño económico.
+
+  ### Contratación y revisión administrativa
+
+  El [dictamen 539/2012 del Consejo de Estado](https://www.boe.es/buscar/doc.php?id=CE-D-2012-539) permite distinguir la selección inicial, la permanencia tras la reincorporación del titular y el nuevo contrato por vacante. El primero se formalizó después de una prueba y valoración de méritos. El segundo fue objeto de una solicitud de revisión de oficio por ocho arquitectos. El Consejo descartó las causas de nulidad radical invocadas, pero señaló que debían corregirse las circunstancias creadas por una contratación temporal prolongada sin provisión definitiva de la plaza.
+
+  El mismo dictamen explica el alcance del antecedente contencioso: la sentencia 130/2010 había declarado ilegal la contratación, pero el TSJA la anuló mediante la sentencia 4125/2011 de 21 de diciembre por falta de legitimación del Colegio. Esa decisión procesal no resolvió las causas de nulidad en el fondo. No debe presentarse como una validación judicial general de todas las actuaciones.
+
+  ### Responsabilidad penal individual
+
+  La acusación se dirigió contra Miguel Marín por prevaricación administrativa. El arquitecto y Rafael Marín comparecieron como testigos. Las versiones sobre una petición personal para contratar al arquitecto fueron discutidas en el juicio; no justifican imputar a los testigos un delito ni afirmar como probado un trato de favor.
+
+  La [información de MelillaHoy del 20 de abril de 2018](https://melillahoy.es/miguel-marin-es-absuelto-en-el-juicio-por-el-caso-arquitecto/) recoge la absolución y distingue las peticiones de ocho y diez años de inhabilitación del resultado judicial. La ausencia del texto íntegro y de prueba de firmeza impide fijar el cierre definitivo, sin implicar que el asunto continúe activo. El comunicado del Colegio acredita su retirada en septiembre de 2016, que tampoco equivale por sí sola a una resolución judicial.
+
+  No se atribuye una cifra de daño al pago de dos salarios ni se declara un perjuicio nulo. Faltan las resoluciones originales de las distintas jurisdicciones y la comprobación del desenlace de la cobertura definitiva de la plaza.
+
+  El arquitecto aparece como Iván R. en la crónica del juicio; no se amplía su apellido sin una fuente nominal contrastada. El comunicado del Colegio está firmado el 21 de septiembre de 2016, aunque la página que lo reproduce muestra una fecha de mayo de 2017.
 resumen: Contratación temporal de un arquitecto interino en Melilla por el consejero del PP Miguel Marín, absuelto
   de prevaricación administrativa en 2018 tras un proceso de más de diez años.
 lugar: Melilla, España
@@ -110,19 +126,3 @@ cronologia:
   - https://elfarodemelilla.es/miguel-marin-absuelto-delito-prevaricacion-arquitecto/
   - https://melillahoy.es/miguel-marin-es-absuelto-en-el-juicio-por-el-caso-arquitecto/
 ---
-
-## Contratación y revisión administrativa
-
-El [dictamen 539/2012 del Consejo de Estado](https://www.boe.es/buscar/doc.php?id=CE-D-2012-539) permite distinguir la selección inicial, la permanencia tras la reincorporación del titular y el nuevo contrato por vacante. El primero se formalizó después de una prueba y valoración de méritos. El segundo fue objeto de una solicitud de revisión de oficio por ocho arquitectos. El Consejo descartó las causas de nulidad radical invocadas, pero señaló que debían corregirse las circunstancias creadas por una contratación temporal prolongada sin provisión definitiva de la plaza.
-
-El mismo dictamen explica el alcance del antecedente contencioso: la sentencia 130/2010 había declarado ilegal la contratación, pero el TSJA la anuló mediante la sentencia 4125/2011 de 21 de diciembre por falta de legitimación del Colegio. Esa decisión procesal no resolvió las causas de nulidad en el fondo. No debe presentarse como una validación judicial general de todas las actuaciones.
-
-## Responsabilidad penal individual
-
-La acusación se dirigió contra Miguel Marín por prevaricación administrativa. El arquitecto y Rafael Marín comparecieron como testigos. Las versiones sobre una petición personal para contratar al arquitecto fueron discutidas en el juicio; no justifican imputar a los testigos un delito ni afirmar como probado un trato de favor.
-
-La [información de MelillaHoy del 20 de abril de 2018](https://melillahoy.es/miguel-marin-es-absuelto-en-el-juicio-por-el-caso-arquitecto/) recoge la absolución y distingue las peticiones de ocho y diez años de inhabilitación del resultado judicial. La ausencia del texto íntegro y de prueba de firmeza impide fijar el cierre definitivo, sin implicar que el asunto continúe activo. El comunicado del Colegio acredita su retirada en septiembre de 2016, que tampoco equivale por sí sola a una resolución judicial.
-
-No se atribuye una cifra de daño al pago de dos salarios ni se declara un perjuicio nulo. Faltan las resoluciones originales de las distintas jurisdicciones y la comprobación del desenlace de la cobertura definitiva de la plaza.
-
-El arquitecto aparece como Iván R. en la crónica del juicio; no se amplía su apellido sin una fuente nominal contrastada. El comunicado del Colegio está firmado el 21 de septiembre de 2016, aunque la página que lo reproduce muestra una fecha de mayo de 2017.

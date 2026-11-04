@@ -8,23 +8,28 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: absuelto
-descripcion: 'El caso Tele7 se refiere a los servicios audiovisuales contratados por la empresa municipal Iniciatives
-  Públiques de Gandia (IPG) con Comarques Centrals Televisió e Inversiones Especiales del Mediterráneo (Tele7) y
-  a la posterior resolución del contrato con la primera. La condena penal de 2023 a Arturo Torró y Ricardo Manuel
-  Faura fue anulada por el Tribunal Supremo en junio de 2026, que acordó su absolución por vulneración del principio
-  acusatorio y del derecho de defensa.
+descripcion: |-
+  El caso Tele7 se refiere a los servicios audiovisuales contratados por la empresa municipal Iniciatives Públiques de Gandia (IPG) con Comarques Centrals Televisió e Inversiones Especiales del Mediterráneo (Tele7) y a la posterior resolución del contrato con la primera. La condena penal de 2023 a Arturo Torró y Ricardo Manuel Faura fue anulada por el Tribunal Supremo en junio de 2026, que acordó su absolución por vulneración del principio acusatorio y del derecho de defensa.
 
+  El Supremo estimó los recursos de los herederos de Faura y de Comarques Centrals Televisió, responsable civil subsidiaria, y extendió el resultado a Torró. Ambos habían fallecido durante la tramitación. Quedaron sin efecto las penas y la indemnización penal solidaria de 135.812,50 euros. La absolución no debe confundirse con una declaración de legalidad de toda la gestión municipal.
 
-  El Supremo estimó los recursos de los herederos de Faura y de Comarques Centrals Televisió, responsable civil
-  subsidiaria, y extendió el resultado a Torró. Ambos habían fallecido durante la tramitación. Quedaron sin efecto
-  las penas y la indemnización penal solidaria de 135.812,50 euros. La absolución no debe confundirse con una declaración
-  de legalidad de toda la gestión municipal.
+  Separadamente, la jurisdicción contable había impuesto a Torró el reintegro de 283.125 euros más intereses. La prensa informó en diciembre de 2023 de la inadmisión de su recurso ante el Supremo. No se ha verificado el estado de ejecución contable ni el eventual efecto de la absolución penal en esa vía. Se ha recuperado la STS 437/2026, incluida su segunda sentencia absolutoria; faltan los originales contables y comprobar la evolución hasta el 17 de octubre de 2026.
 
+  ### Hechos y resultado penal
 
-  Separadamente, la jurisdicción contable había impuesto a Torró el reintegro de 283.125 euros más intereses. La
-  prensa informó en diciembre de 2023 de la inadmisión de su recurso ante el Supremo. No se ha verificado el estado
-  de ejecución contable ni el eventual efecto de la absolución penal en esa vía. Se ha recuperado la STS 437/2026,
-  incluida su segunda sentencia absolutoria; faltan los originales contables y comprobar la evolución hasta el 17 de octubre de 2026.'
+  Tras el cierre de Gandia TV en julio de 2011, IPG contrató servicios audiovisuales en 2012. El litigio penal terminó centrado en el convenio de resolución de 2013 con Comarques Centrals Televisió. La Audiencia calculó un exceso indemnizable que no había constituido la base de las acusaciones. El Supremo consideró vulnerado el derecho de defensa y anuló la condena, extendiendo el resultado a Torró aunque su propio recurso había quedado desierto. No se atribuye a los acusados un beneficio personal como hecho penalmente acreditado.
+
+  ### Importes y vía contable
+
+  Los más de siete millones de euros mencionados en la información histórica son volumen de servicios y prórrogas, **no daño probado**. La indemnización penal de 135.812,50 euros quedó sin efecto con la absolución. El reintegro contable de 283.125 euros más intereses procede de otra jurisdicción: no se suma a aquella indemnización ni al volumen contractual. La prensa calculaba unos 350.000 euros con intereses en diciembre de 2023; esa cifra no se presenta como principal ni como liquidación actual verificada.
+
+  ### Información pendiente de acreditar
+
+  La [STS 437/2026 y su segunda sentencia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c98b1d62d25dbc1aa0a8778d75e36f0d&encode=true&databasematch=AN) están disponibles en el original oficial de 31 páginas. La segunda sentencia absuelve a los dos condenados, elimina la responsabilidad civil derivada del delito, mantiene los demás pronunciamientos absolutorios y declara de oficio las costas de primera instancia. Ambas resoluciones indican que no cabe recurso.
+
+  Faltan la sentencia original de la Audiencia, las resoluciones contables y la providencia contenciosa de diciembre de 2023. Las fechas y resultados contables se apoyan en la reproducción jurídica de la sentencia 9/2022 y en la prensa citada, sin inferir su ejecución actual.
+
+  Quedan pendientes los originales, la ejecución o revisión de la responsabilidad contable y la comprobación de novedades hasta el corte del 17 de octubre de 2026. La referencia periodística a la firmeza contable no sustituye su verificación documental. No se deduce el estado contable de la absolución penal ni se atribuye relación causal entre este caso y el fallecimiento de Torró. El fallo de la Audiencia reproducido por el Supremo impuso seis años y seis meses de inhabilitación absoluta al autor y tres años y medio al cooperador; esas penas quedaron sin efecto con la absolución, sin que las cifras discrepantes de algunas noticias alteren el original.
 resumen: El Supremo absolvió en junio de 2026 a Torró y Faura en Tele7 y anuló la condena penal de 2023. La responsabilidad
   contable y su ejecución se examinan por separado; faltan originales y seguimiento.
 lugar: Gandia, Valencia, Comunitat Valenciana
@@ -106,19 +111,3 @@ cronologia:
   - https://valenciaplaza.com/valenciaplaza/comarca-y-empresa/el-supremo-absuelve-al-fallecido-alcalde-de-gandia-arturo-torro-de-malversacion-en-el-caso-tele7
   - https://www.europapress.es/comunitat-valenciana/noticia-ts-absuelve-fallecido-arturo-torro-malversacion-caso-tele7-ver-vulnerado-derecho-defensa-20260630192151.html
 ---
-
-## Hechos y resultado penal
-
-Tras el cierre de Gandia TV en julio de 2011, IPG contrató servicios audiovisuales en 2012. El litigio penal terminó centrado en el convenio de resolución de 2013 con Comarques Centrals Televisió. La Audiencia calculó un exceso indemnizable que no había constituido la base de las acusaciones. El Supremo consideró vulnerado el derecho de defensa y anuló la condena, extendiendo el resultado a Torró aunque su propio recurso había quedado desierto. No se atribuye a los acusados un beneficio personal como hecho penalmente acreditado.
-
-## Importes y vía contable
-
-Los más de siete millones de euros mencionados en la información histórica son volumen de servicios y prórrogas, **no daño probado**. La indemnización penal de 135.812,50 euros quedó sin efecto con la absolución. El reintegro contable de 283.125 euros más intereses procede de otra jurisdicción: no se suma a aquella indemnización ni al volumen contractual. La prensa calculaba unos 350.000 euros con intereses en diciembre de 2023; esa cifra no se presenta como principal ni como liquidación actual verificada.
-
-## Información pendiente de acreditar
-
-La [STS 437/2026 y su segunda sentencia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c98b1d62d25dbc1aa0a8778d75e36f0d&encode=true&databasematch=AN) están disponibles en el original oficial de 31 páginas. La segunda sentencia absuelve a los dos condenados, elimina la responsabilidad civil derivada del delito, mantiene los demás pronunciamientos absolutorios y declara de oficio las costas de primera instancia. Ambas resoluciones indican que no cabe recurso.
-
-Faltan la sentencia original de la Audiencia, las resoluciones contables y la providencia contenciosa de diciembre de 2023. Las fechas y resultados contables se apoyan en la reproducción jurídica de la sentencia 9/2022 y en la prensa citada, sin inferir su ejecución actual.
-
-Quedan pendientes los originales, la ejecución o revisión de la responsabilidad contable y la comprobación de novedades hasta el corte del 17 de octubre de 2026. La referencia periodística a la firmeza contable no sustituye su verificación documental. No se deduce el estado contable de la absolución penal ni se atribuye relación causal entre este caso y el fallecimiento de Torró. El fallo de la Audiencia reproducido por el Supremo impuso seis años y seis meses de inhabilitación absoluta al autor y tres años y medio al cooperador; esas penas quedaron sin efecto con la absolución, sin que las cifras discrepantes de algunas noticias alteren el original.

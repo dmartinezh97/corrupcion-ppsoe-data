@@ -11,13 +11,30 @@ estado: cerrado con condenas
 lugar: Galicia; Confederación Hidrográfica Miño-Sil
 resumen: 'Contratos de la CHMS a cambio de dádivas: pena de cuatro años y seis meses para Fernández Liñares tras
   la casación de 2023; amparo inadmitido en 2025.'
-descripcion: "Esta pieza examinó las adjudicaciones de obras de la Confederación Hidrográfica Miño-Sil durante la
-  presidencia de Francisco Félix Fernández Liñares en 2009–2012. La sentencia de instancia es de 8 de marzo de
-  2021; el Supremo redujo sus penas el 5 de julio de 2023. Se informó de su ingreso voluntario en prisión el 5
-  de febrero de 2024 y el Tribunal Constitucional inadmitió su amparo el 27 de enero de 2025, con voto
-  particular. Información pendiente al 17 de octubre de 2026: no se han cotejado las liquidaciones actuales de
-  penas ni los autos penitenciarios. No se acredita un daño global de tres millones de euros ni se trasladan
-  resultados de otras piezas Pokémon."
+descripcion: |-
+  Esta pieza examinó las adjudicaciones de obras de la Confederación Hidrográfica Miño-Sil durante la presidencia de Francisco Félix Fernández Liñares en 2009–2012. La sentencia de instancia es de 8 de marzo de 2021; el Supremo redujo sus penas el 5 de julio de 2023. Se informó de su ingreso voluntario en prisión el 5 de febrero de 2024 y el Tribunal Constitucional inadmitió su amparo el 27 de enero de 2025, con voto particular. Información pendiente al 17 de octubre de 2026: no se han cotejado las liquidaciones actuales de penas ni los autos penitenciarios. No se acredita un daño global de tres millones de euros ni se trasladan resultados de otras piezas Pokémon.
+
+  ### Adjudicaciones de la Confederación Miño-Sil
+
+  Los hechos examinados corresponden a 2009–2012 y describen la adjudicación de obras a empresas previamente concertadas a cambio de dinero o de trabajos en propiedades del presidente de la CHMS. La selección mediante procedimientos negociados se manipulaba coordinando las ofertas de las empresas. No se mantiene como acreditado un porcentaje uniforme de comisión del 15–20%, un catálogo de regalos de lujo ni un daño de tres millones, datos que no se han cotejado como resultado de esta pieza. [Comunicación judicial de la condena](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-expresidente-de-la-Confederacion-Hidrografica-Mino-Sil-es-condenado-por-cohecho-y-prevaricacion-a-cinco-anos-de-carcel-y-a-veinte-de-inhabilitacion).
+
+  ### Instancia, casación y amparo
+
+  La sentencia 37/2021 de la Audiencia Provincial de Lugo es de 8 de marzo, aunque la nota pública se difundió el 10. Impuso a Liñares cinco años de prisión por cohecho y otras penas; condenó a ocho empresarios y absolvió al noveno acusado por los delitos de cohecho y prevaricación. El fallo original impone a los ocho un año y tres meses de prisión; para uno, la cuota diaria de multa es de seis euros, no una multa total de seis euros. Sus nombres anonimizados no se convierten aquí en identidades nominales. [Original de instancia, páginas 14–15](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=eac36f61e336ff71&encode=true&databasematch=AN).
+
+  La STS 549/2023, de 5 de julio, redujo la pena privativa de libertad de Liñares a cuatro años y seis meses por cohecho continuado. Añadió inhabilitación para sufragio pasivo por igual tiempo, multa de 18 meses a 12 euros diarios e inhabilitación especial para empleo o cargo público de nueve años y seis meses por ese delito; por prevaricación continuada fijó otra inhabilitación de ocho años y seis meses. No se describe la prevaricación como una segunda pena de prisión. La modificación responde a la falta de motivación de la individualización de penas, manteniendo los demás pronunciamientos compatibles. El original advierte que no cabe recurso. [Casación y segunda sentencia, páginas 22–23](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=176eb81386ac6ae3a0a8778d75e36f0d&encode=true&databasematch=TS).
+
+  El ATC 8/2025, de 27 de enero, inadmitió el amparo 6141/2023 por falta de especial trascendencia constitucional. El magistrado Enrique Arnaldo formuló voto particular favorable a admitirlo; ese voto no constituye la decisión del tribunal ni una anulación de la condena. El auto se publicó en el BOE el 28 de febrero y contempla la posibilidad de súplica del Ministerio Fiscal en tres días. No se ha cotejado una actuación posterior sobre ese trámite. Este documento identifica nominalmente a Francisco Félix Fernández Liñares y las resoluciones recurridas, sin necesidad de inferir pseudónimos. [BOE, decisión en página PDF 5](https://www.boe.es/boe/dias/2025/02/28/pdfs/BOE-A-2025-4081.pdf).
+
+  ### Ejecución y alcance económico
+
+  La noticia de elDiario.es/Europa Press de 6 de febrero de 2024 sitúa el ingreso voluntario en Monterroso en la tarde del lunes 5, tras un requerimiento de la Audiencia. Indica que se descontaría el tiempo ya pasado en prisión provisional; no permite calcular aquí la fecha de extinción. [Noticia de ingreso](https://www.eldiario.es/galicia/fernandez-linares-ingresa-prision-cumplir-condena-cohecho-prevaricacion-operacion-pokemon_1_10898846.html).
+
+  En septiembre de 2026, La Voz de Galicia publicó un titular y entradilla sobre permisos penitenciarios. El HTML accesible sólo ofrece ese avance y un comienzo de artículo: no se ha podido verificar el cuerpo completo ni los autos de permisos. La noticia alude a una pena total superior a la de esta pieza, que no se traslada a Miño-Sil ni se interpreta como libertad definitiva. [Avance accesible de La Voz,3 de septiembre de 2026](https://www.lavozdegalicia.es/noticia/lugo/2026/09/02/fernandez-linares-unico-politico-encarcelado-operacion-pokemon-disfruta-permisos-pese-rechazo-fiscalia/00031788355382068357769.htm).
+
+  Los tres millones no constituyen un perjuicio acreditado. Los importes de contratos, las entregas de dádivas y las multas son conceptos diferentes; el fallo cotejado no fija ese total como daño público indemnizable. No se asigna cero ni se suman automáticamente contratos o gratificaciones para producir un daño global. Tampoco se afirma que Liñares sea el único condenado de toda Pokémon: esta ficha describe sólo el procedimiento de la CHMS, con nueve condenados y una absolución en instancia.
+
+  Corte:17 de octubre de 2026. Faltan el auto complementario de 16 de marzo de 2021 mencionado por el Supremo, liquidaciones actuales de penas y resoluciones de ejecución o permisos. Las penas o resultados de otros procedimientos no resuelven esta pieza.
 tribunal:
 - Juzgado de Instrucción n.º 1 de Lugo
 - Audiencia Provincial de Lugo, Sección Segunda
@@ -85,25 +102,3 @@ cronologia:
   - https://www.boe.es/boe/dias/2025/02/28/pdfs/BOE-A-2025-4081.pdf
   type: recurso
 ---
-
-# Adjudicaciones de la Confederación Miño-Sil
-
-Los hechos examinados corresponden a 2009–2012 y describen la adjudicación de obras a empresas previamente concertadas a cambio de dinero o de trabajos en propiedades del presidente de la CHMS. La selección mediante procedimientos negociados se manipulaba coordinando las ofertas de las empresas. No se mantiene como acreditado un porcentaje uniforme de comisión del 15–20%, un catálogo de regalos de lujo ni un daño de tres millones, datos que no se han cotejado como resultado de esta pieza. [Comunicación judicial de la condena](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-expresidente-de-la-Confederacion-Hidrografica-Mino-Sil-es-condenado-por-cohecho-y-prevaricacion-a-cinco-anos-de-carcel-y-a-veinte-de-inhabilitacion).
-
-## Instancia, casación y amparo
-
-La sentencia 37/2021 de la Audiencia Provincial de Lugo es de 8 de marzo, aunque la nota pública se difundió el 10. Impuso a Liñares cinco años de prisión por cohecho y otras penas; condenó a ocho empresarios y absolvió al noveno acusado por los delitos de cohecho y prevaricación. El fallo original impone a los ocho un año y tres meses de prisión; para uno, la cuota diaria de multa es de seis euros, no una multa total de seis euros. Sus nombres anonimizados no se convierten aquí en identidades nominales. [Original de instancia, páginas 14–15](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=eac36f61e336ff71&encode=true&databasematch=AN).
-
-La STS 549/2023, de 5 de julio, redujo la pena privativa de libertad de Liñares a cuatro años y seis meses por cohecho continuado. Añadió inhabilitación para sufragio pasivo por igual tiempo, multa de 18 meses a 12 euros diarios e inhabilitación especial para empleo o cargo público de nueve años y seis meses por ese delito; por prevaricación continuada fijó otra inhabilitación de ocho años y seis meses. No se describe la prevaricación como una segunda pena de prisión. La modificación responde a la falta de motivación de la individualización de penas, manteniendo los demás pronunciamientos compatibles. El original advierte que no cabe recurso. [Casación y segunda sentencia, páginas 22–23](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=176eb81386ac6ae3a0a8778d75e36f0d&encode=true&databasematch=TS).
-
-El ATC 8/2025, de 27 de enero, inadmitió el amparo 6141/2023 por falta de especial trascendencia constitucional. El magistrado Enrique Arnaldo formuló voto particular favorable a admitirlo; ese voto no constituye la decisión del tribunal ni una anulación de la condena. El auto se publicó en el BOE el 28 de febrero y contempla la posibilidad de súplica del Ministerio Fiscal en tres días. No se ha cotejado una actuación posterior sobre ese trámite. Este documento identifica nominalmente a Francisco Félix Fernández Liñares y las resoluciones recurridas, sin necesidad de inferir pseudónimos. [BOE, decisión en página PDF 5](https://www.boe.es/boe/dias/2025/02/28/pdfs/BOE-A-2025-4081.pdf).
-
-## Ejecución y alcance económico
-
-La noticia de elDiario.es/Europa Press de 6 de febrero de 2024 sitúa el ingreso voluntario en Monterroso en la tarde del lunes 5, tras un requerimiento de la Audiencia. Indica que se descontaría el tiempo ya pasado en prisión provisional; no permite calcular aquí la fecha de extinción. [Noticia de ingreso](https://www.eldiario.es/galicia/fernandez-linares-ingresa-prision-cumplir-condena-cohecho-prevaricacion-operacion-pokemon_1_10898846.html).
-
-En septiembre de 2026, La Voz de Galicia publicó un titular y entradilla sobre permisos penitenciarios. El HTML accesible sólo ofrece ese avance y un comienzo de artículo: no se ha podido verificar el cuerpo completo ni los autos de permisos. La noticia alude a una pena total superior a la de esta pieza, que no se traslada a Miño-Sil ni se interpreta como libertad definitiva. [Avance accesible de La Voz,3 de septiembre de 2026](https://www.lavozdegalicia.es/noticia/lugo/2026/09/02/fernandez-linares-unico-politico-encarcelado-operacion-pokemon-disfruta-permisos-pese-rechazo-fiscalia/00031788355382068357769.htm).
-
-Los tres millones no constituyen un perjuicio acreditado. Los importes de contratos, las entregas de dádivas y las multas son conceptos diferentes; el fallo cotejado no fija ese total como daño público indemnizable. No se asigna cero ni se suman automáticamente contratos o gratificaciones para producir un daño global. Tampoco se afirma que Liñares sea el único condenado de toda Pokémon: esta ficha describe sólo el procedimiento de la CHMS, con nueve condenados y una absolución en instancia.
-
-Corte:17 de octubre de 2026. Faltan el auto complementario de 16 de marzo de 2021 mencionado por el Supremo, liquidaciones actuales de penas y resoluciones de ejecución o permisos. Las penas o resultados de otros procedimientos no resuelven esta pieza.

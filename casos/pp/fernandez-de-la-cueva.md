@@ -7,21 +7,18 @@ estadoPrincipal: Pendiente de juicio
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: "desconocido"
-descripcion: >-
-  Procedimiento por presunta prevaricación administrativa contra Juliana Fernández Cueva Lominchar,
-  exalcaldesa de Corral de Almaguer (Toledo) y exsenadora del PP, y Vicente González Ramírez, primer teniente
-  de alcalde en la época de los hechos. La acusación sostenía que habían dejado sin efecto cuatro expedientes
-  de tráfico de 2013 para evitar la pérdida de puntos de los conductores. El País informó de que los
-  conductores habían pagado las sanciones con reducción: la controversia incluía la retirada de puntos, no
-  simplemente multas impagadas. La Fiscalía solicitaba diez años de inhabilitación para cada acusado, una
-  petición de pena que no equivale a una condena.
+descripcion: |-
+  Procedimiento por presunta prevaricación administrativa contra Juliana Fernández Cueva Lominchar, exalcaldesa de Corral de Almaguer (Toledo) y exsenadora del PP, y Vicente González Ramírez, primer teniente de alcalde en la época de los hechos. La acusación sostenía que habían dejado sin efecto cuatro expedientes de tráfico de 2013 para evitar la pérdida de puntos de los conductores. El País informó de que los conductores habían pagado las sanciones con reducción: la controversia incluía la retirada de puntos, no simplemente multas impagadas. La Fiscalía solicitaba diez años de inhabilitación para cada acusado, una petición de pena que no equivale a una condena.
 
+  El juicio fue suspendido el 14 de enero de 2020 y volvió a anunciarse para el 15 de diciembre de ese año. La Vanguardia informó ese día de otra suspensión. No se ha localizado una resolución posterior que permita establecer el desenlace ni la situación procesal a 15 de octubre de 2026; tampoco se han verificado novedades judiciales de 2025 o 2026. Esta falta de información no permite afirmar que el procedimiento continúe abierto, haya terminado o exista una condena.
 
-  El juicio fue suspendido el 14 de enero de 2020 y volvió a anunciarse para el 15 de diciembre de ese año. La
-  Vanguardia informó ese día de otra suspensión. No se ha localizado una resolución posterior que permita
-  establecer el desenlace ni la situación procesal a 15 de octubre de 2026; tampoco se han verificado
-  novedades judiciales de 2025 o 2026. Esta falta de información no permite afirmar que el procedimiento
-  continúe abierto, haya terminado o exista una condena.
+  El procedimiento se refiere a cuatro expedientes de tráfico de 2013. Según el escrito fiscal descrito por Europa Press en diciembre de 2020, dos correspondían a alcoholemia, uno a la falta de cinturón y otro a conducción temeraria. La acusación atribuía a Vicente González Ramírez las propuestas de estimación de alegaciones y a Juliana Fernández Cueva su firma. Son imputaciones de la Fiscalía, no hechos establecidos aquí mediante una sentencia.
+
+  La noticia fiscal identifica expedientes del 29 de junio, 6 de julio y 27 de agosto de 2013, pero no permite fijar con esas fechas el día de cada resolución municipal cuestionada. Por ello, el inicio de los hechos se sitúa únicamente en 2013. Tampoco se dispone de una cuantificación judicial del perjuicio económico: los importes de las multas de tráfico no equivalen por sí solos a dinero defraudado o a responsabilidad civil. El País explicó en 2015 que los conductores habían realizado pagos con reducción y que la controversia incluía la pérdida de puntos.
+
+  El aforamiento de la entonces senadora motivó la intervención del Tribunal Supremo. Su posterior pérdida de esa condición explica el traslado a los juzgados ordinarios; las fuentes revisadas no permiten atribuirle una maniobra dilatoria. La documentación histórica del [Senado](https://www.senado.es/web/actividadparlamentaria/sesionescomision/detallecomisiones/composicion/index.html?id=S011018&legis=10) identifica a la parlamentaria como Juliana Fernández Cueva Lominchar.
+
+  Las defensas cuestionaron la legalidad de la obtención de documentos y solicitaron nuevas comprobaciones. La suspensión de enero de 2020 permitió recabar una certificación municipal, sin que ello acreditase por sí mismo la nulidad de las pruebas o la inocencia o culpabilidad de los acusados. La última noticia judicial localizada informa de una nueva suspensión en diciembre de 2020. Quedan por verificar el resultado del procedimiento y cualquier resolución posterior; no se dispone de una sentencia o auto en PDF comprobado.
 resumen: "Acusación contra una exalcaldesa y un exteniente de alcalde por cuatro expedientes de tráfico; desenlace judicial no verificado"
 lugar: "Corral de Almaguer, Toledo, Castilla-La Mancha"
 tribunal:
@@ -78,11 +75,3 @@ cronologia:
     urls:
       - "https://www.lavanguardia.com/local/madrid/20201215/6122080/alcaldesa-quita-multa-inhabilitacion-corral-almaguer.html"
 ---
-
-El procedimiento se refiere a cuatro expedientes de tráfico de 2013. Según el escrito fiscal descrito por Europa Press en diciembre de 2020, dos correspondían a alcoholemia, uno a la falta de cinturón y otro a conducción temeraria. La acusación atribuía a Vicente González Ramírez las propuestas de estimación de alegaciones y a Juliana Fernández Cueva su firma. Son imputaciones de la Fiscalía, no hechos establecidos aquí mediante una sentencia.
-
-La noticia fiscal identifica expedientes del 29 de junio, 6 de julio y 27 de agosto de 2013, pero no permite fijar con esas fechas el día de cada resolución municipal cuestionada. Por ello, el inicio de los hechos se sitúa únicamente en 2013. Tampoco se dispone de una cuantificación judicial del perjuicio económico: los importes de las multas de tráfico no equivalen por sí solos a dinero defraudado o a responsabilidad civil. El País explicó en 2015 que los conductores habían realizado pagos con reducción y que la controversia incluía la pérdida de puntos.
-
-El aforamiento de la entonces senadora motivó la intervención del Tribunal Supremo. Su posterior pérdida de esa condición explica el traslado a los juzgados ordinarios; las fuentes revisadas no permiten atribuirle una maniobra dilatoria. La documentación histórica del [Senado](https://www.senado.es/web/actividadparlamentaria/sesionescomision/detallecomisiones/composicion/index.html?id=S011018&legis=10) identifica a la parlamentaria como Juliana Fernández Cueva Lominchar.
-
-Las defensas cuestionaron la legalidad de la obtención de documentos y solicitaron nuevas comprobaciones. La suspensión de enero de 2020 permitió recabar una certificación municipal, sin que ello acreditase por sí mismo la nulidad de las pruebas o la inocencia o culpabilidad de los acusados. La última noticia judicial localizada informa de una nueva suspensión en diciembre de 2020. Quedan por verificar el resultado del procedimiento y cualquier resolución posterior; no se dispone de una sentencia o auto en PDF comprobado.

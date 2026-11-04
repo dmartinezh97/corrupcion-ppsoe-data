@@ -9,16 +9,18 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "condenado"
-descripcion: >-
-  Procedimiento por la aprobación de la urbanización El Tomillar junto al arroyo El Carrascal, en Miraflores
-  de la Sierra. Las noticias de septiembre de 2014 informaron de la condena del exalcalde socialista José
-  Esteban Esteban a nueve años de inhabilitación por prevaricación administrativa continuada. Europa Press
-  recogió también la atenuante de reparación del daño.
+descripcion: |-
+  Procedimiento por la aprobación de la urbanización El Tomillar junto al arroyo El Carrascal, en Miraflores de la Sierra. Las noticias de septiembre de 2014 informaron de la condena del exalcalde socialista José Esteban Esteban a nueve años de inhabilitación por prevaricación administrativa continuada. Europa Press recogió también la atenuante de reparación del daño.
 
+  No se ha recuperado la sentencia original ni se ha verificado su firmeza o el resultado de recursos al corte del 17 de octubre de 2026. El acta municipal de septiembre de 2014 recogía expresamente que se desconocía entonces si era firme. No se afirma el cierre definitivo ni la ejecución de la pena o de una demolición.
 
-  No se ha recuperado la sentencia original ni se ha verificado su firmeza o el resultado de recursos al corte
-  del 17 de octubre de 2026. El acta municipal de septiembre de 2014 recogía expresamente que se desconocía
-  entonces si era firme. No se afirma el cierre definitivo ni la ejecución de la pena o de una demolición.
+  La información de 2014 relaciona la condena con una aprobación sin los informes y autorizaciones necesarios. La prensa local recoge, a partir del comunicado de la acusación ecologista, la invasión del cauce por parcelas y muros y la paralización cautelar de las obras. Esas referencias no sustituyen a los informes hidrológicos ni a la sentencia.
+
+  No está acreditado que el fallo ordenara derribar cuatro muros: Madrid Norte 24 horas reproducía una valoración ecologista sobre lo que quedaba por hacer, mientras que el acta municipal recoge una pregunta sobre iniciar su demolición. Ninguna de esas fuentes permite certificar la ejecución ni una paralización definitiva hasta la actualidad.
+
+  Hay discrepancias editoriales: Europa Press denomina al órgano «Juzgado de Instrucción número 31», frente a «Juzgado de lo Penal número 31» en las crónicas locales. Madrid Norte 24 horas introduce además variantes del nombre en título y apertura; se mantiene José Esteban Esteban, coincidente en Europa Press y Crónica Norte, sin deducir otras identidades. El original judicial sigue pendiente.
+
+  Falta una cuantificación acreditada del perjuicio; ello no equivale a un daño de cero euros. La fecha de sesión del acta es septiembre de 2014, aunque el PDF se generó en febrero de 2015 y su ruta contiene 2011; estos datos técnicos no cambian la fecha del pleno. Persisten las carencias de documentación judicial y de ejecución.
 resumen: "Condena de nueve años de inhabilitación por la aprobación urbanística de El Tomillar, según las noticias de 2014. Original, recursos y firmeza pendientes de verificar."
 lugar: "Miraflores de la Sierra, Comunidad de Madrid"
 tribunal:
@@ -68,11 +70,3 @@ cronologia:
     urls:
       - "https://www.mirafloresdelasierra.es/wp-content/uploads/2011/10/acta26-09-2014.pdf"
 ---
-
-La información de 2014 relaciona la condena con una aprobación sin los informes y autorizaciones necesarios. La prensa local recoge, a partir del comunicado de la acusación ecologista, la invasión del cauce por parcelas y muros y la paralización cautelar de las obras. Esas referencias no sustituyen a los informes hidrológicos ni a la sentencia.
-
-No está acreditado que el fallo ordenara derribar cuatro muros: Madrid Norte 24 horas reproducía una valoración ecologista sobre lo que quedaba por hacer, mientras que el acta municipal recoge una pregunta sobre iniciar su demolición. Ninguna de esas fuentes permite certificar la ejecución ni una paralización definitiva hasta la actualidad.
-
-Hay discrepancias editoriales: Europa Press denomina al órgano «Juzgado de Instrucción número 31», frente a «Juzgado de lo Penal número 31» en las crónicas locales. Madrid Norte 24 horas introduce además variantes del nombre en título y apertura; se mantiene José Esteban Esteban, coincidente en Europa Press y Crónica Norte, sin deducir otras identidades. El original judicial sigue pendiente.
-
-Falta una cuantificación acreditada del perjuicio; ello no equivale a un daño de cero euros. La fecha de sesión del acta es septiembre de 2014, aunque el PDF se generó en febrero de 2015 y su ruta contiene 2011; estos datos técnicos no cambian la fecha del pleno. Persisten las carencias de documentación judicial y de ejecución.

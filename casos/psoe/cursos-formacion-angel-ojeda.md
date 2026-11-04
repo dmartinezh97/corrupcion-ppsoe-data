@@ -9,33 +9,26 @@ estadoPrincipal: Pendiente de juicio
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: desconocido
-descripcion: 'La ficha se centra en las ayudas a entidades vinculadas al grupo Prescal de Ángel Ojeda Avilés para
-  formación y contratación de extrabajadores de Delphi en la Bahía de Cádiz. Ojeda fue consejero de Hacienda de
-  la Junta de Andalucía, no simplemente asesor. Las subvenciones de esta pieza suman 33.309.789,16 euros según la
-  información judicial publicada en 2022; ese importe no se presenta como daño fijado por sentencia ni se acumula
-  con el presupuesto general de formación, las fianzas o ayudas de otras piezas.
+descripcion: |-
+  La ficha se centra en las ayudas a entidades vinculadas al grupo Prescal de Ángel Ojeda Avilés para formación y contratación de extrabajadores de Delphi en la Bahía de Cádiz. Ojeda fue consejero de Hacienda de la Junta de Andalucía, no simplemente asesor. Las subvenciones de esta pieza suman 33.309.789,16 euros según la información judicial publicada en 2022; ese importe no se presenta como daño fijado por sentencia ni se acumula con el presupuesto general de formación, las fianzas o ayudas de otras piezas.
 
+  Ojeda falleció el 11 de diciembre de 2021 sin haber sido juzgado por estas causas. La prensa refiere que un auto de 18 de enero de 2022 declaró extinguida su responsabilidad penal. Por tanto, no fue uno de los ocho encausados a los que se atribuye la continuación por procedimiento abreviado conocida el 28 de septiembre de 2022. Posteriormente se informó de un auto de 10 de octubre de 2023 que abrió juicio oral contra Antonio Fernández y Manuel Recio por prevaricación y malversación, y contra otras seis personas por fraude de subvenciones, entre ellas Marcos O. M., hijo de Ojeda. Son acusaciones, no condenas.
 
-  Ojeda falleció el 11 de diciembre de 2021 sin haber sido juzgado por estas causas. La prensa refiere que un auto
-  de 18 de enero de 2022 declaró extinguida su responsabilidad penal. Por tanto, no fue uno de los ocho encausados
-  a los que se atribuye la continuación por procedimiento abreviado conocida el 28 de septiembre de 2022. Posteriormente
-  se informó de un auto de 10 de octubre de 2023 que abrió juicio oral contra Antonio Fernández y Manuel Recio por
-  prevaricación y malversación, y contra otras seis personas por fraude de subvenciones, entre ellas Marcos O. M.,
-  hijo de Ojeda. Son acusaciones, no condenas.
+  La investigación de la doble facturación de docentes a través de Servicios Docentes Profesionales (Serpro) se separó de la pieza de las ayudas de 33,3 millones. En abril de 2023 se publicó que la Audiencia dejó sin efecto una prórroga por los plazos de instrucción; no se ha cotejado el archivo posterior ni se extiende esa decisión a toda la investigación. La información sobre fondos en Luxemburgo procede de la prensa que consultó el auto de 2022 y no de una sentencia de hechos probados.
 
+  Al corte del 15 de octubre de 2026 faltan los originales de los autos de 2022 y 2023, la relación nominal completa de los ocho acusados y un desenlace posterior verificado por persona. No se acredita celebración de juicio, sentencia o firmeza ni se presume la situación actual por ausencia de noticias. El auto general de 2019 disponible identifica la pieza Ojeda/Delphi como diligencias previas 74/2016, pero su resolución sobre la causa matriz no determina su resultado.
 
-  La investigación de la doble facturación de docentes a través de Servicios Docentes Profesionales (Serpro) se
-  separó de la pieza de las ayudas de 33,3 millones. En abril de 2023 se publicó que la Audiencia dejó sin efecto
-  una prórroga por los plazos de instrucción; no se ha cotejado el archivo posterior ni se extiende esa decisión
-  a toda la investigación. La información sobre fondos en Luxemburgo procede de la prensa que consultó el auto de
-  2022 y no de una sentencia de hechos probados.
+  El objeto principal son las subvenciones a las asociaciones AEAA, Humanitas, Innova, Inteca y Natura vinculadas a Ángel Ojeda para el dispositivo de extrabajadores de Delphi. La información judicial de 2022 describe contrataciones presuntamente simuladas y gastos cuya aplicación se cuestionaba. No se presume que la totalidad de los cursos fuera inexistente ni que todos los trabajadores participaran en un delito. Las cifras globales de la formación andaluza no corresponden al importe de esta pieza.
 
+  El [auto 485/2019 de 1 de julio](https://www.elindependiente.com/wp-content/uploads/2019/07/Auto-Audiencia-cursos-de-formacio%CC%81n-8-07-2019.pdf) permite distinguir procedimientos: su página 36 identifica Ojeda/Delphi como diligencias 74/2016, CTI como 221/2016 y FAFFE como 222/2016. Su parte dispositiva revoca el archivo de la causa matriz 966/2014 para practicar diligencias. No es un auto de procesamiento de Ojeda ni una sentencia sobre las ayudas de Delphi. La fecha de creación del PDF, 5 de julio, y el nombre del fichero que menciona el día 8 no sustituyen la fecha de la cabecera.
 
-  Al corte del 15 de octubre de 2026 faltan los originales de los autos de 2022 y 2023, la relación nominal completa
-  de los ocho acusados y un desenlace posterior verificado por persona. No se acredita celebración de juicio, sentencia
-  o firmeza ni se presume la situación actual por ausencia de noticias. El auto general de 2019 disponible identifica
-  la pieza Ojeda/Delphi como diligencias previas 74/2016, pero su resolución sobre la causa matriz no determina
-  su resultado.'
+  El [BOJA de 1 de marzo de 1988](https://www.juntadeandalucia.es/boja/1988/17/9) confirma el nombre Ángel Ojeda Avilés y su cargo de consejero de Hacienda. Su fallecimiento en diciembre de 2021 y la posterior extinción de responsabilidad publicada en 2022 deben distinguirse de una absolución de fondo. Las noticias sobre el posterior abreviado se refieren a ocho personas vivas, no al fallecido.
+
+  La [información de apertura de juicio oral de octubre de 2023](https://www.infolibre.es/politica/juicio-exconsejeros-antonio-fernandez-manuel-recio-33-millones-ayudas-arbitrarias_1_1617269.amp.html) diferencia los cargos penales atribuidos a los dos exconsejeros y a las otras seis personas. Marcos figura por iniciales; la noticia de 2022 da nombres de cuatro representantes, pero no permite completar de forma segura toda la relación nominal del auto de apertura. Tampoco la responsabilidad civil subsidiaria de cinco entidades o la participación lucrativa de otras nueve equivale a una condena penal de todas ellas. Faltan los originales y los resultados posteriores para precisar el desenlace individual.
+
+  La [resolución sobre Serpro relatada en abril de 2023](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Audiencia-investigacion-Angel-Ojeda-instruccion_0_1785122049.html) trata de una prórroga de instrucción y de una pieza separada sobre facturación de docentes. Se recoge como tal, sin convertir la previsión de archivo expresada por la defensa en un archivo global firme. Asimismo, la referencia de [El Español de octubre de 2022](https://www.elespanol.com/espana/andalucia/20221003/fraude-formacion-acorrala-psoe-concluye-dinero-luxemburgo/706929352_0.html) a cuentas en Luxemburgo se mantiene atribuida a la investigación que relata el medio: no se ha cotejado una sentencia que declare probado ese destino ni una cifra final de perjuicio.
+
+  Las novedades sobre ayudas de Delphi a través de FUECA o las pólizas de prejubilación corresponden a objetos distintos, aunque puedan repetirse nombres. No se trasladan aquí sus importes, decisiones o estados procesales. Al corte del 15 de octubre de 2026 queda sin verificar la celebración del juicio de esta pieza, su eventual sentencia, recursos y firmeza. No se cuantifica un coste como daño penal con la suma de subvenciones o fianzas.
 resumen: 'Subvenciones a entidades vinculadas a Ángel Ojeda para formación y contratación de extrabajadores de Delphi:
   juicio oral abierto en 2023 contra ocho personas, distinto de la pieza Serpro; Ojeda falleció en 2021 sin ser
   juzgado.'
@@ -150,15 +143,3 @@ cronologia:
     type: juicio
     relevancia: alta
 ---
-
-El objeto principal son las subvenciones a las asociaciones AEAA, Humanitas, Innova, Inteca y Natura vinculadas a Ángel Ojeda para el dispositivo de extrabajadores de Delphi. La información judicial de 2022 describe contrataciones presuntamente simuladas y gastos cuya aplicación se cuestionaba. No se presume que la totalidad de los cursos fuera inexistente ni que todos los trabajadores participaran en un delito. Las cifras globales de la formación andaluza no corresponden al importe de esta pieza.
-
-El [auto 485/2019 de 1 de julio](https://www.elindependiente.com/wp-content/uploads/2019/07/Auto-Audiencia-cursos-de-formacio%CC%81n-8-07-2019.pdf) permite distinguir procedimientos: su página 36 identifica Ojeda/Delphi como diligencias 74/2016, CTI como 221/2016 y FAFFE como 222/2016. Su parte dispositiva revoca el archivo de la causa matriz 966/2014 para practicar diligencias. No es un auto de procesamiento de Ojeda ni una sentencia sobre las ayudas de Delphi. La fecha de creación del PDF, 5 de julio, y el nombre del fichero que menciona el día 8 no sustituyen la fecha de la cabecera.
-
-El [BOJA de 1 de marzo de 1988](https://www.juntadeandalucia.es/boja/1988/17/9) confirma el nombre Ángel Ojeda Avilés y su cargo de consejero de Hacienda. Su fallecimiento en diciembre de 2021 y la posterior extinción de responsabilidad publicada en 2022 deben distinguirse de una absolución de fondo. Las noticias sobre el posterior abreviado se refieren a ocho personas vivas, no al fallecido.
-
-La [información de apertura de juicio oral de octubre de 2023](https://www.infolibre.es/politica/juicio-exconsejeros-antonio-fernandez-manuel-recio-33-millones-ayudas-arbitrarias_1_1617269.amp.html) diferencia los cargos penales atribuidos a los dos exconsejeros y a las otras seis personas. Marcos figura por iniciales; la noticia de 2022 da nombres de cuatro representantes, pero no permite completar de forma segura toda la relación nominal del auto de apertura. Tampoco la responsabilidad civil subsidiaria de cinco entidades o la participación lucrativa de otras nueve equivale a una condena penal de todas ellas. Faltan los originales y los resultados posteriores para precisar el desenlace individual.
-
-La [resolución sobre Serpro relatada en abril de 2023](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Audiencia-investigacion-Angel-Ojeda-instruccion_0_1785122049.html) trata de una prórroga de instrucción y de una pieza separada sobre facturación de docentes. Se recoge como tal, sin convertir la previsión de archivo expresada por la defensa en un archivo global firme. Asimismo, la referencia de [El Español de octubre de 2022](https://www.elespanol.com/espana/andalucia/20221003/fraude-formacion-acorrala-psoe-concluye-dinero-luxemburgo/706929352_0.html) a cuentas en Luxemburgo se mantiene atribuida a la investigación que relata el medio: no se ha cotejado una sentencia que declare probado ese destino ni una cifra final de perjuicio.
-
-Las novedades sobre ayudas de Delphi a través de FUECA o las pólizas de prejubilación corresponden a objetos distintos, aunque puedan repetirse nombres. No se trasladan aquí sus importes, decisiones o estados procesales. Al corte del 15 de octubre de 2026 queda sin verificar la celebración del juicio de esta pieza, su eventual sentencia, recursos y firmeza. No se cuantifica un coste como daño penal con la suma de subvenciones o fianzas.

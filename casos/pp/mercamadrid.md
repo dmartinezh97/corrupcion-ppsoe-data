@@ -9,26 +9,28 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Sobreseimiento provisional
-descripcion: 'La investigación penal examinó los acuerdos de 2013 entre Mercamadrid y Merca Ocio Hoteles 22 sobre
-  derechos de superficie y alquiler de dos salas. La denuncia municipal de abril de 2016 fue seguida por una denuncia
-  de la Fiscalía Provincial en 2017 contra 16 personas. Concepción Dancausa y los demás investigados quedaron comprendidos
-  en el sobreseimiento provisional acordado por el Juzgado de Instrucción 15 de Madrid el 20 de julio de 2018, según
-  la información de Europa Press sobre el auto. No se ha obtenido ese original ni acreditado el desenlace de eventuales
-  recursos o la firmeza del archivo.
+descripcion: |-
+  La investigación penal examinó los acuerdos de 2013 entre Mercamadrid y Merca Ocio Hoteles 22 sobre derechos de superficie y alquiler de dos salas. La denuncia municipal de abril de 2016 fue seguida por una denuncia de la Fiscalía Provincial en 2017 contra 16 personas. Concepción Dancausa y los demás investigados quedaron comprendidos en el sobreseimiento provisional acordado por el Juzgado de Instrucción 15 de Madrid el 20 de julio de 2018, según la información de Europa Press sobre el auto. No se ha obtenido ese original ni acreditado el desenlace de eventuales recursos o la firmeza del archivo.
 
+  Los 11 millones difundidos por los denunciantes eran una estimación de alquileres hasta 2032, no un perjuicio penal declarado. La deuda de cánones de 698.397,70 euros se reconoció para compensarla con rentas futuras. El alquiler era de 592.208,40 euros anuales más IVA durante los dos primeros años y de 623.377,20 euros anuales después; el supuesto sobreprecio del 81% procedía de un informe invocado por la acusación. La Fiscalía terminó solicitando el archivo al no apreciar indicios suficientes.
 
-  Los 11 millones difundidos por los denunciantes eran una estimación de alquileres hasta 2032, no un perjuicio
-  penal declarado. La deuda de cánones de 698.397,70 euros se reconoció para compensarla con rentas futuras. El
-  alquiler era de 592.208,40 euros anuales más IVA durante los dos primeros años y de 623.377,20 euros anuales después;
-  el supuesto sobreprecio del 81% procedía de un informe invocado por la acusación. La Fiscalía terminó solicitando
-  el archivo al no apreciar indicios suficientes.
+  El archivo penal no terminó los litigios civiles entre las empresas: la Audiencia Provincial de Madrid confirmó el 31 de enero de 2025 una condena de Mercamadrid al pago de 142.475,93 euros por intereses derivados del impago de rentas, más intereses legales y costas. Esta resolución civil no condena penalmente a los antiguos responsables y ofrecía recurso de casación; no se ha verificado su firmeza ni un eventual recurso posterior hasta el 17 de octubre de 2026. Este caso no equivale a la causa Mercasa ni al conjunto de Lezo.
 
+  El origen contractual y la denuncia
 
-  El archivo penal no terminó los litigios civiles entre las empresas: la Audiencia Provincial de Madrid confirmó
-  el 31 de enero de 2025 una condena de Mercamadrid al pago de 142.475,93 euros por intereses derivados del impago
-  de rentas, más intereses legales y costas. Esta resolución civil no condena penalmente a los antiguos responsables
-  y ofrecía recurso de casación; no se ha verificado su firmeza ni un eventual recurso posterior hasta el 17 de
-  octubre de 2026. Este caso no equivale a la causa Mercasa ni al conjunto de Lezo.'
+  La operación se refiere a derechos de superficie para hotel y restauración adjudicados a Konin 22 y cedidos a Merca Ocio Hoteles 22. Tras dejar de pagar cánones en marzo de 2010, la empresa y Mercamadrid litigaron y alcanzaron una transacción en 2013. La denuncia municipal y la posterior nota fiscal recogen la interpretación acusatoria de esos acuerdos. No permiten transformar los pagos contractuales ni el sobreprecio alegado en un perjuicio judicialmente reconocido.
+
+  El procedimiento penal
+
+  El archivo comunicado en julio de 2018 fue provisional por insuficiencia de indicios. La relación nominal de Confilegal identifica nominalmente a varios afectados, pero no sustituye el auto original para precisar todas las funciones y la situación individual de cada persona. La nota fiscal menciona a José Manuel Torrecilla Jiménez como director general facultado para negociar; no basta para asignarle por sí sola un resultado penal individual. No se ha documentado el eventual recorrido de los recursos contra el archivo.
+
+  Los litigios civiles
+
+  La sentencia civil de 2025 reproduce la desestimación de la pretensión de nulidad y los litigios posteriores por rentas e intereses. Identifica como firme el pronunciamiento previo sobre el devengo de intereses, mientras su propio fallo ofrece casación. Son ámbitos distintos de la investigación penal de los antiguos administradores. Los 142.475,93 euros corresponden a intereses por retraso en el pago de alquileres, no a una indemnización por corrupción. Tampoco se identifican estos hechos con las operaciones internacionales de Mercasa ni con el resultado global de Lezo.
+
+  Fuentes: [denuncia municipal de 2016](https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/08Viernes/Notasprensa/Fiscalia/ficheros/DenunciaFiscalia.pdf), [nota fiscal de 25 de abril de 2017, página 168 de la recopilación](https://www.fiscal.es/documents/13333297/13855533/2017-NOTICIAS-FGE.pdf/a6f7cb15-3b3e-11e8-dcc5-3fc5117a0b8e?download=true&t=1762781358509&version=1.0), [declaración de Dancausa](https://www.publico.es/politica/dancausa-defiende-juez-operacion-imputada-buena-mercamadrid.html), [petición fiscal de archivo](https://confilegal.com/20180416-la-fiscalia-pide-el-archivo-del-caso-contra-dancausa-y-el-consejo-de-administracion-de-mercamadrid/), [archivo y relación nominal](https://confilegal.com/20180723-archivada-la-causa-contra-dancausa-y-otras-15-personas-investigadas-en-el-caso-mercamadrid/), [fecha del auto según Europa Press](https://www.europapress.es/madrid/noticia-dancausa-ve-victima-denuncia-politica-causa-general-contra-pp-estudia-demandar-higueras-mato-20180722120838.html) y [sentencia civil 17/2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=9cc0bcdc77e5e175a0a8778d75e36f0d&encode=true&databasematch=AN).
+
+  La noticia sobre el archivo habla de dieciséis investigados, aunque su enumeración nominal contiene quince nombres. La lista de esta ficha incluye también personas mencionadas como antecedentes contractuales; no equivale a una relación judicial completa de investigados. La nota fiscal de 2017 llama «Flores Cerdán» a quien las dos crónicas de Confilegal identifican como María Dolores Fernández Cerdán; se conserva esta discrepancia sin asignar identidades judiciales por deducción.
 resumen: 'Acuerdos de Mercamadrid con Merca Ocio: archivo penal provisional en 2018 y litigios civiles posteriores
   por alquileres.'
 lugar: Madrid, España
@@ -224,19 +226,3 @@ cronologia:
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=9cc0bcdc77e5e175a0a8778d75e36f0d&encode=true&databasematch=AN
 ---
-
-El origen contractual y la denuncia
-
-La operación se refiere a derechos de superficie para hotel y restauración adjudicados a Konin 22 y cedidos a Merca Ocio Hoteles 22. Tras dejar de pagar cánones en marzo de 2010, la empresa y Mercamadrid litigaron y alcanzaron una transacción en 2013. La denuncia municipal y la posterior nota fiscal recogen la interpretación acusatoria de esos acuerdos. No permiten transformar los pagos contractuales ni el sobreprecio alegado en un perjuicio judicialmente reconocido.
-
-El procedimiento penal
-
-El archivo comunicado en julio de 2018 fue provisional por insuficiencia de indicios. La relación nominal de Confilegal identifica nominalmente a varios afectados, pero no sustituye el auto original para precisar todas las funciones y la situación individual de cada persona. La nota fiscal menciona a José Manuel Torrecilla Jiménez como director general facultado para negociar; no basta para asignarle por sí sola un resultado penal individual. No se ha documentado el eventual recorrido de los recursos contra el archivo.
-
-Los litigios civiles
-
-La sentencia civil de 2025 reproduce la desestimación de la pretensión de nulidad y los litigios posteriores por rentas e intereses. Identifica como firme el pronunciamiento previo sobre el devengo de intereses, mientras su propio fallo ofrece casación. Son ámbitos distintos de la investigación penal de los antiguos administradores. Los 142.475,93 euros corresponden a intereses por retraso en el pago de alquileres, no a una indemnización por corrupción. Tampoco se identifican estos hechos con las operaciones internacionales de Mercasa ni con el resultado global de Lezo.
-
-Fuentes: [denuncia municipal de 2016](https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/08Viernes/Notasprensa/Fiscalia/ficheros/DenunciaFiscalia.pdf), [nota fiscal de 25 de abril de 2017, página 168 de la recopilación](https://www.fiscal.es/documents/13333297/13855533/2017-NOTICIAS-FGE.pdf/a6f7cb15-3b3e-11e8-dcc5-3fc5117a0b8e?download=true&t=1762781358509&version=1.0), [declaración de Dancausa](https://www.publico.es/politica/dancausa-defiende-juez-operacion-imputada-buena-mercamadrid.html), [petición fiscal de archivo](https://confilegal.com/20180416-la-fiscalia-pide-el-archivo-del-caso-contra-dancausa-y-el-consejo-de-administracion-de-mercamadrid/), [archivo y relación nominal](https://confilegal.com/20180723-archivada-la-causa-contra-dancausa-y-otras-15-personas-investigadas-en-el-caso-mercamadrid/), [fecha del auto según Europa Press](https://www.europapress.es/madrid/noticia-dancausa-ve-victima-denuncia-politica-causa-general-contra-pp-estudia-demandar-higueras-mato-20180722120838.html) y [sentencia civil 17/2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=9cc0bcdc77e5e175a0a8778d75e36f0d&encode=true&databasematch=AN).
-
-La noticia sobre el archivo habla de dieciséis investigados, aunque su enumeración nominal contiene quince nombres. La lista de esta ficha incluye también personas mencionadas como antecedentes contractuales; no equivale a una relación judicial completa de investigados. La nota fiscal de 2017 llama «Flores Cerdán» a quien las dos crónicas de Confilegal identifican como María Dolores Fernández Cerdán; se conserva esta discrepancia sin asignar identidades judiciales por deducción.

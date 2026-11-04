@@ -8,23 +8,22 @@ firmeza: Sin determinar
 "completado": false
 "año": 2010
 "estado": "Condenas en procedimientos distintos; seguimiento pendiente"
-"descripcion": "La ficha reúne procedimientos relacionados con la gestión municipal de Cudillero, que deben distinguirse.\
-  \ Por los cobros ilegales a los chiringuitos del puerto, el Tribunal Supremo desestimó el 31 de marzo de 2016\
-  \ las casaciones del exalcalde Francisco González Méndez y de la exconcejala María Verena Prendes García. Se mantuvieron\
-  \ multas de 14.400 y 3.600 euros y suspensiones de empleo o cargo público de cuatro y tres años, respectivamente;\
-  \ no eran penas de inhabilitación. La condena inicial fue del Tribunal del Jurado de la Audiencia Provincial el\
-  \ 23 de junio de 2014 y fue confirmada en apelación el 19 de marzo de 2015.\n\nLas cantidades se exigían sin procedimiento\
-  \ legal para pagar servicios de vigilancia policial. El Supremo señala que los condenados no se beneficiaron personalmente\
-  \ del dinero. Hay restituciones a hosteleros con distintos regímenes de responsabilidad y responsabilidad subsidiaria\
-  \ municipal; no se identifican con un daño global de 130.000 euros. En otra causa, en julio de 2016 se conoció\
-  \ la condena del exalcalde por prevaricación al expedientar al sargento policial: siete años de inhabilitación\
-  \ local electiva y 9.000 euros por daños morales. La absolución de Gabriel López fue confirmada en ese procedimiento.\n\
-  \nEl jefe policial acusado de cohecho había sido absuelto, según la información de EFE de enero de 2013: no se\
-  \ presenta su investigación inicial como situación actual. Los recursos electorales de 2013 son distintos de las\
-  \ causas penales. Quedan pendientes los originales y posibles recursos de otros procedimientos, la ejecución de\
-  \ las penas y el original de la absolución del exalcalde por denuncia falsa informada por La Nueva España en julio\
-  \ de 2022. No se presume que esas investigaciones sigan abiertas ni que todas hayan terminado con condenas al\
-  \ corte del 17 de octubre de 2026."
+"descripcion": |-
+  La ficha reúne procedimientos relacionados con la gestión municipal de Cudillero, que deben distinguirse. Por los cobros ilegales a los chiringuitos del puerto, el Tribunal Supremo desestimó el 31 de marzo de 2016 las casaciones del exalcalde Francisco González Méndez y de la exconcejala María Verena Prendes García. Se mantuvieron multas de 14.400 y 3.600 euros y suspensiones de empleo o cargo público de cuatro y tres años, respectivamente; no eran penas de inhabilitación. La condena inicial fue del Tribunal del Jurado de la Audiencia Provincial el 23 de junio de 2014 y fue confirmada en apelación el 19 de marzo de 2015.
+
+  Las cantidades se exigían sin procedimiento legal para pagar servicios de vigilancia policial. El Supremo señala que los condenados no se beneficiaron personalmente del dinero. Hay restituciones a hosteleros con distintos regímenes de responsabilidad y responsabilidad subsidiaria municipal; no se identifican con un daño global de 130.000 euros. En otra causa, en julio de 2016 se conoció la condena del exalcalde por prevaricación al expedientar al sargento policial: siete años de inhabilitación local electiva y 9.000 euros por daños morales. La absolución de Gabriel López fue confirmada en ese procedimiento.
+
+  El jefe policial acusado de cohecho había sido absuelto, según la información de EFE de enero de 2013: no se presenta su investigación inicial como situación actual. Los recursos electorales de 2013 son distintos de las causas penales. Quedan pendientes los originales y posibles recursos de otros procedimientos, la ejecución de las penas y el original de la absolución del exalcalde por denuncia falsa informada por La Nueva España en julio de 2022. No se presume que esas investigaciones sigan abiertas ni que todas hayan terminado con condenas al corte del 17 de octubre de 2026.
+
+  El procedimiento por exacciones ilegales sancionó la exigencia de pagos a hosteleros sin ordenanza ni acuerdo que los habilitara. El destino de lo recaudado eran sobresueldos policiales, inicialmente fuera de nómina. El Supremo descarta el beneficio personal de los recurrentes, pero considera penalmente relevante la imposición arbitraria de esos pagos. La restitución ordenada a los perjudicados no debe confundirse con las multas ni con las retiradas de una cuenta de festejos citadas en noticias antiguas.
+
+  La suspensión de empleo o cargo público de este procedimiento es distinta de la inhabilitación impuesta por prevaricación en otra causa. Tampoco puede afirmarse, sin resoluciones de ejecución, cuándo se cumplieron las penas o que una posterior actividad docente vulnerase una prohibición judicial concreta.
+
+  Las sentencias constitucionales anularon dos elecciones diferentes. En la primera, el candidato no había integrado la lista electoral; en la segunda, se debatía una renuncia previa a la candidatura. No acreditan por sí mismas delitos ni permiten atribuir toda la crisis de gobierno a hechos penales probados.
+
+  La Nueva España informó el 27 de julio de 2022 de la absolución de González por denuncia falsa, por falta de prueba cierta de actuación dolosa. No se ha recuperado el original penal ni se certifican su fecha, firmeza o recursos. Como pista adicional, la STSJ de Asturias 52/2026, ECLI:ES:TSJAS:2026:293, trata una reclamación de honorarios de un exalcalde anonimizado y menciona una absolución penal: no se le asigna identidad nominal por inferencia. Esa resolución contenciosa no es una nueva condena penal; además su referencia a sentencia 235/2022 y fecha de julio de 2023 requiere aclaración documental. No se adopta un día de absolución a partir de esa discordancia.
+
+  Fuentes: [sentencia original del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=05b71c7f7ccd35e5&encode=true&databasematch=AN), [Europa Press, identificación y penas](https://www.europapress.es/asturias/noticia-ts-confirma-condena-exacciones-ilegales-francisco-gonzalez-psoe-20160401150834.html), [Europa Press, prevaricación y absolución de Gabriel López](https://www.20minutos.es/noticia/2805533/0/audiencia-revoca-absolucion-ex-alcalde-cudillero-le-impone-siete-anos-inhabilitacion/), [EFE, querella y absolución del jefe policial](https://www.rtpa.es/asturias%3AEl-TSJA-admite-a-tramite-una-querella-contra-el-diputado-del-PSOE-Francisco-Gonzalez_111359650215.html), [EFE, proceso contra dos agentes](https://www.rtpa.es/noticias-asturias%3ACondenados-a-un-a%C3%B1o-y-medio-de-prision-los-dos-policias-locales-de-Cudillero_111493121747.html), [STC 125/2013](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-6655) y [STC 147/2013](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-8895). Seguimiento con límites de acceso: [noticia de 2022](https://www.lne.es/asturias/2022/07/27/quico-gonzalez-exalcalde-cudillero-absuelto-71809561.html) y [copia textual de la STSJ 52/2026](https://www.iberley.es/jurisprudencia/sentencia-contencioso-administrativo-tribunal-superior-justicia-sala-lo-contencioso-administrativo-22-1-26-840742849).
 "resumen": "Cobros ilegales a chiringuitos con condenas confirmadas por el Supremo y otros procedimientos municipales\
   \ diferenciados."
 "lugar": "Cudillero, Asturias"
@@ -133,13 +132,3 @@ firmeza: Sin determinar
   "urls":
   - "https://www.lne.es/asturias/2022/07/27/quico-gonzalez-exalcalde-cudillero-absuelto-71809561.html"
 ---
-
-El procedimiento por exacciones ilegales sancionó la exigencia de pagos a hosteleros sin ordenanza ni acuerdo que los habilitara. El destino de lo recaudado eran sobresueldos policiales, inicialmente fuera de nómina. El Supremo descarta el beneficio personal de los recurrentes, pero considera penalmente relevante la imposición arbitraria de esos pagos. La restitución ordenada a los perjudicados no debe confundirse con las multas ni con las retiradas de una cuenta de festejos citadas en noticias antiguas.
-
-La suspensión de empleo o cargo público de este procedimiento es distinta de la inhabilitación impuesta por prevaricación en otra causa. Tampoco puede afirmarse, sin resoluciones de ejecución, cuándo se cumplieron las penas o que una posterior actividad docente vulnerase una prohibición judicial concreta.
-
-Las sentencias constitucionales anularon dos elecciones diferentes. En la primera, el candidato no había integrado la lista electoral; en la segunda, se debatía una renuncia previa a la candidatura. No acreditan por sí mismas delitos ni permiten atribuir toda la crisis de gobierno a hechos penales probados.
-
-La Nueva España informó el 27 de julio de 2022 de la absolución de González por denuncia falsa, por falta de prueba cierta de actuación dolosa. No se ha recuperado el original penal ni se certifican su fecha, firmeza o recursos. Como pista adicional, la STSJ de Asturias 52/2026, ECLI:ES:TSJAS:2026:293, trata una reclamación de honorarios de un exalcalde anonimizado y menciona una absolución penal: no se le asigna identidad nominal por inferencia. Esa resolución contenciosa no es una nueva condena penal; además su referencia a sentencia 235/2022 y fecha de julio de 2023 requiere aclaración documental. No se adopta un día de absolución a partir de esa discordancia.
-
-Fuentes: [sentencia original del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=05b71c7f7ccd35e5&encode=true&databasematch=AN), [Europa Press, identificación y penas](https://www.europapress.es/asturias/noticia-ts-confirma-condena-exacciones-ilegales-francisco-gonzalez-psoe-20160401150834.html), [Europa Press, prevaricación y absolución de Gabriel López](https://www.20minutos.es/noticia/2805533/0/audiencia-revoca-absolucion-ex-alcalde-cudillero-le-impone-siete-anos-inhabilitacion/), [EFE, querella y absolución del jefe policial](https://www.rtpa.es/asturias%3AEl-TSJA-admite-a-tramite-una-querella-contra-el-diputado-del-PSOE-Francisco-Gonzalez_111359650215.html), [EFE, proceso contra dos agentes](https://www.rtpa.es/noticias-asturias%3ACondenados-a-un-a%C3%B1o-y-medio-de-prision-los-dos-policias-locales-de-Cudillero_111493121747.html), [STC 125/2013](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-6655) y [STC 147/2013](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-8895). Seguimiento con límites de acceso: [noticia de 2022](https://www.lne.es/asturias/2022/07/27/quico-gonzalez-exalcalde-cudillero-absuelto-71809561.html) y [copia textual de la STSJ 52/2026](https://www.iberley.es/jurisprudencia/sentencia-contencioso-administrativo-tribunal-superior-justicia-sala-lo-contencioso-administrativo-22-1-26-840742849).

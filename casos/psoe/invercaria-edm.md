@@ -10,15 +10,24 @@ estadoPrincipal: Pendiente de juicio
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: desconocido
-descripcion: La pieza de Invercaria relativa a Electronics Devices Manufacturer (EDM), empresa de componentes electrónicos
-  de Mancha Real (Jaén), versa sobre dos préstamos participativos de 450.000 y 730.000 euros concedidos en julio
-  de 2008. La acusación sostenía que se habían autorizado sin las comprobaciones necesarias sobre su viabilidad;
-  las defensas negaban las irregularidades. El juicio ante la Sección Cuarta de la Audiencia de Sevilla, contra
-  Tomás Pérez-Sauquillo, Bienvenido Martínez y tres representantes de EDM, fue suspendido el 8 de mayo de 2023 por
-  el estado de salud del primero. No se ha podido verificar un nuevo señalamiento ni una sentencia de esta pieza
-  hasta el 17 de octubre de 2026. Las penas e indemnización reclamadas por la Fiscalía son peticiones, no condenas.
-  El préstamo de 384.841,65 euros a EDM-Séneca se juzgó en una pieza distinta de los ERE y sus resultados no resuelven
-  esta causa.
+descripcion: |-
+  La pieza de Invercaria relativa a Electronics Devices Manufacturer (EDM), empresa de componentes electrónicos de Mancha Real (Jaén), versa sobre dos préstamos participativos de 450.000 y 730.000 euros concedidos en julio de 2008. La acusación sostenía que se habían autorizado sin las comprobaciones necesarias sobre su viabilidad; las defensas negaban las irregularidades. El juicio ante la Sección Cuarta de la Audiencia de Sevilla, contra Tomás Pérez-Sauquillo, Bienvenido Martínez y tres representantes de EDM, fue suspendido el 8 de mayo de 2023 por el estado de salud del primero. No se ha podido verificar un nuevo señalamiento ni una sentencia de esta pieza hasta el 17 de octubre de 2026. Las penas e indemnización reclamadas por la Fiscalía son peticiones, no condenas. El préstamo de 384.841,65 euros a EDM-Séneca se juzgó en una pieza distinta de los ERE y sus resultados no resuelven esta causa.
+
+  La pieza EDM y el alcance de la acusación
+
+  La financiación examinada aquí son dos préstamos participativos de Invercaria por un total de 1,18 millones de euros. Según la información sobre el auto de la Audiencia publicada el 8 de noviembre de 2019, EDM solicitó el concurso de acreedores el 25 de marzo de 2009. La acusación cuestionaba que se hubiesen contrastado sus previsiones de negocio y que existiesen una propuesta e informe positivo de inversión suficientes. La defensa de Pérez-Sauquillo sostenía que había controles previos y discutía la falta de solvencia atribuida a la empresa. La confirmación de la continuación del procedimiento para juicio no resolvía ese debate probatorio.
+
+  En marzo de 2018 el instructor remitió la pieza para enjuiciamiento, según Europa Press. En mayo de 2023 las peticiones fiscales eran, para cada uno de los dos antiguos responsables de Invercaria, seis años de prisión y quince de inhabilitación absoluta por malversación, además de diez de inhabilitación especial por prevaricación. Para cada uno de los tres representantes de EDM se pedían dos años y medio de prisión y cinco de inhabilitación absoluta por malversación, además de seis de inhabilitación especial por prevaricación. La indemnización solidaria solicitada a los cinco ascendía a 1.368.954,98 euros. Esa pretensión civil no se suma al principal de los préstamos ni equivale a un daño declarado por sentencia.
+
+  El acta oficial del TSJA de 14 de marzo de 2023, página 30, identifica el rollo 2881/2018 de la Sección Cuarta y cinco acusados. El juicio previsto para comenzar el 8 de mayo fue suspendido ese mismo día por razones médicas. Las noticias de otras piezas publicadas en 2025 seguían recordando esa suspensión, pero no acreditan por sí mismas la situación posterior de EDM. No se ha verificado hasta el 17 de octubre de 2026 su reanudación, una sentencia ni el resultado individual de los acusados.
+
+  Una financiación distinta en la causa de los ERE
+
+  El préstamo de 384.841,65 euros canalizado por IDEA a EDM-Séneca para nóminas pertenece a otra pieza. En esa causa se informó en julio de 2020 del archivo respecto de Antonio Fernández, Jacinto Cañete, Juan Márquez y Bienvenido Martínez; la noticia identifica expresamente como provisional el de este último, sin precisar la modalidad de los otros tres. Este último archivo no se extiende a la pieza de Invercaria.
+
+  La información de Diario de Sevilla del 24 de noviembre de 2023 atribuye a una sentencia de 21 de noviembre condenas de dos años y medio y dos años de prisión a dos responsables empresariales, identificados en esa noticia mediante iniciales, por el préstamo de EDM-Séneca. La noticia advierte expresamente que la sentencia no era firme y admitía casación. No se ha recuperado aquí el original ni el resultado de eventuales recursos: esas penas no se atribuyen a los acusados de Invercaria/EDM. Tampoco las condenas de otras piezas de Invercaria o el cierre de su instrucción general determinan el desenlace de esta.
+
+  Fuentes: [procesamiento de EDM](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Audiencia-procesamiento-Perez-Sauquillo-prestamos-EDM_0_1408059371.html), [archivos de 2015](https://www.europapress.es/andalucia/sevilla-00357/noticia-juez-invercaria-archiva-causa-dos-imputados-ayudas-edm-20150327165814.html), [suspensión de mayo de 2023](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/salud-Perez-Sauquillo-fuerza-suspender-juicio-Invercaria_0_1791121718.html), [acta del TSJA](https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Andalucia/ACUERDOS%20SALA%20GOBIERNO/FICHERO/20230314%20Acta%20Comisi%C3%B3n%20Sala%20Gobierno%20TSJA.pdf), [distinción con EDM-Séneca en 2020](https://www.diariodejerez.es/andalucia/Archivada-cargos-Junta-ERE-EDM_0_1486951542.html) y [sentencia de EDM-Séneca conocida en noviembre de 2023](https://www.diariodesevilla.es/juzgado_de_guardia/sentencias/Condena-medio-empresarios-ayuda-EDM-Seneca_0_1851115216.html).
 resumen: Préstamos de Invercaria a EDM por 1,18 millones de euros; juicio suspendido en mayo de 2023 y desenlace
   posterior no verificado.
 lugar: Mancha Real (Jaén) / Sevilla, Andalucía
@@ -131,19 +140,3 @@ cronologia:
   type: juicio
   relevancia: alta
 ---
-
-La pieza EDM y el alcance de la acusación
-
-La financiación examinada aquí son dos préstamos participativos de Invercaria por un total de 1,18 millones de euros. Según la información sobre el auto de la Audiencia publicada el 8 de noviembre de 2019, EDM solicitó el concurso de acreedores el 25 de marzo de 2009. La acusación cuestionaba que se hubiesen contrastado sus previsiones de negocio y que existiesen una propuesta e informe positivo de inversión suficientes. La defensa de Pérez-Sauquillo sostenía que había controles previos y discutía la falta de solvencia atribuida a la empresa. La confirmación de la continuación del procedimiento para juicio no resolvía ese debate probatorio.
-
-En marzo de 2018 el instructor remitió la pieza para enjuiciamiento, según Europa Press. En mayo de 2023 las peticiones fiscales eran, para cada uno de los dos antiguos responsables de Invercaria, seis años de prisión y quince de inhabilitación absoluta por malversación, además de diez de inhabilitación especial por prevaricación. Para cada uno de los tres representantes de EDM se pedían dos años y medio de prisión y cinco de inhabilitación absoluta por malversación, además de seis de inhabilitación especial por prevaricación. La indemnización solidaria solicitada a los cinco ascendía a 1.368.954,98 euros. Esa pretensión civil no se suma al principal de los préstamos ni equivale a un daño declarado por sentencia.
-
-El acta oficial del TSJA de 14 de marzo de 2023, página 30, identifica el rollo 2881/2018 de la Sección Cuarta y cinco acusados. El juicio previsto para comenzar el 8 de mayo fue suspendido ese mismo día por razones médicas. Las noticias de otras piezas publicadas en 2025 seguían recordando esa suspensión, pero no acreditan por sí mismas la situación posterior de EDM. No se ha verificado hasta el 17 de octubre de 2026 su reanudación, una sentencia ni el resultado individual de los acusados.
-
-Una financiación distinta en la causa de los ERE
-
-El préstamo de 384.841,65 euros canalizado por IDEA a EDM-Séneca para nóminas pertenece a otra pieza. En esa causa se informó en julio de 2020 del archivo respecto de Antonio Fernández, Jacinto Cañete, Juan Márquez y Bienvenido Martínez; la noticia identifica expresamente como provisional el de este último, sin precisar la modalidad de los otros tres. Este último archivo no se extiende a la pieza de Invercaria.
-
-La información de Diario de Sevilla del 24 de noviembre de 2023 atribuye a una sentencia de 21 de noviembre condenas de dos años y medio y dos años de prisión a dos responsables empresariales, identificados en esa noticia mediante iniciales, por el préstamo de EDM-Séneca. La noticia advierte expresamente que la sentencia no era firme y admitía casación. No se ha recuperado aquí el original ni el resultado de eventuales recursos: esas penas no se atribuyen a los acusados de Invercaria/EDM. Tampoco las condenas de otras piezas de Invercaria o el cierre de su instrucción general determinan el desenlace de esta.
-
-Fuentes: [procesamiento de EDM](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/Audiencia-procesamiento-Perez-Sauquillo-prestamos-EDM_0_1408059371.html), [archivos de 2015](https://www.europapress.es/andalucia/sevilla-00357/noticia-juez-invercaria-archiva-causa-dos-imputados-ayudas-edm-20150327165814.html), [suspensión de mayo de 2023](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/salud-Perez-Sauquillo-fuerza-suspender-juicio-Invercaria_0_1791121718.html), [acta del TSJA](https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Andalucia/ACUERDOS%20SALA%20GOBIERNO/FICHERO/20230314%20Acta%20Comisi%C3%B3n%20Sala%20Gobierno%20TSJA.pdf), [distinción con EDM-Séneca en 2020](https://www.diariodejerez.es/andalucia/Archivada-cargos-Junta-ERE-EDM_0_1486951542.html) y [sentencia de EDM-Séneca conocida en noviembre de 2023](https://www.diariodesevilla.es/juzgado_de_guardia/sentencias/Condena-medio-empresarios-ayuda-EDM-Seneca_0_1851115216.html).

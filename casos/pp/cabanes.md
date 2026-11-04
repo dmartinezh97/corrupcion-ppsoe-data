@@ -8,43 +8,28 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución en 2025; firmeza posterior no documentada
-descripcion: 'La Audiencia Provincial de Castellón absolvió a tres exalcaldes del PP de Cabanes —Artemio Siurana,
-  Francisco Vicente Artola y Estrella Borrás— y a los arquitectos Rubén Bellido y Juan Antonio Juncos en la causa
-  sobre adjudicaciones municipales entre 2008 y 2013. El juicio se celebró los días 10 y 11 de abril de 2025. La
-  absolución fue publicada por El Mundo el 7 de mayo y difundida por EFE, citando al Tribunal Superior de Justicia
-  de la Comunitat Valenciana, el 8 de mayo. Estas fechas de publicación no acreditan el día de firma de la sentencia,
-  cuyo original y número no se han localizado.
+descripcion: |-
+  La Audiencia Provincial de Castellón absolvió a tres exalcaldes del PP de Cabanes —Artemio Siurana, Francisco Vicente Artola y Estrella Borrás— y a los arquitectos Rubén Bellido y Juan Antonio Juncos en la causa sobre adjudicaciones municipales entre 2008 y 2013. El juicio se celebró los días 10 y 11 de abril de 2025. La absolución fue publicada por El Mundo el 7 de mayo y difundida por EFE, citando al Tribunal Superior de Justicia de la Comunitat Valenciana, el 8 de mayo. Estas fechas de publicación no acreditan el día de firma de la sentencia, cuyo original y número no se han localizado.
 
+  La Fiscalía sostenía que Bellido, arquitecto municipal interino desde 2007, había favorecido la adjudicación a Juncos de 28 trabajos por 211.115,84 euros, con la participación de los sucesivos alcaldes y del jefe de Urbanismo y secretario-interventor accidental José Vicente Guimerá. Alegaba tramitación irregular como contratos menores y fraccionamiento para eludir otros procedimientos. Los 211.115,84 euros eran el importe de los encargos cuestionados, no un perjuicio declarado judicialmente. Tampoco la multa de 422.231 euros solicitada para los arquitectos fue una sanción impuesta. La acusación había solicitado dos años de prisión para cada arquitecto e inhabilitación para los exalcaldes y el jefe de Urbanismo.
 
-  La Fiscalía sostenía que Bellido, arquitecto municipal interino desde 2007, había favorecido la adjudicación a
-  Juncos de 28 trabajos por 211.115,84 euros, con la participación de los sucesivos alcaldes y del jefe de Urbanismo
-  y secretario-interventor accidental José Vicente Guimerá. Alegaba tramitación irregular como contratos menores
-  y fraccionamiento para eludir otros procedimientos. Los 211.115,84 euros eran el importe de los encargos cuestionados,
-  no un perjuicio declarado judicialmente. Tampoco la multa de 422.231 euros solicitada para los arquitectos
-  fue una sanción impuesta. La acusación había solicitado dos años de prisión para cada arquitecto e inhabilitación
-  para los exalcaldes y el jefe de Urbanismo.
+  Según la información de EFE y la crónica de El Mundo, la Audiencia no consideró probados el fraccionamiento artificioso de los contratos ni las influencias atribuidas a Bellido. Señaló la falta de concreción de hechos esenciales en la acusación y la contratación habitual de servicios técnicos externos conforme surgían las necesidades. La relación previa entre los arquitectos no acreditaba que Bellido hubiera influido en la contratación de Juncos; la sentencia también recoge que ejercían de forma autónoma e independiente. Las irregularidades alegadas por la acusación no se presentan, por tanto, como delitos acreditados.
 
+  La documentación sobre las contrataciones fue remitida a la Fiscalía entre 2013 y 2014 por Carles Mulet, entonces concejal de Compromís, que figuraba como acusación en la información de noviembre de 2023. Seis personas llegaron a estar acusadas. El Mundo informa de que la Fiscalía retiró los cargos contra José Vicente Guimerá antes del fallo, pero su artículo contiene referencias discordantes al número de absueltos; EFE identifica cinco, los tres exalcaldes y los dos arquitectos. Sin el fallo original no queda acreditada la concreta terminación procesal respecto de Guimerá ni el alcance de las restantes acusaciones en ese momento.
 
-  Según la información de EFE y la crónica de El Mundo, la Audiencia no consideró probados el fraccionamiento artificioso
-  de los contratos ni las influencias atribuidas a Bellido. Señaló la falta de concreción de hechos esenciales en
-  la acusación y la contratación habitual de servicios técnicos externos conforme surgían las necesidades. La relación
-  previa entre los arquitectos no acreditaba que Bellido hubiera influido en la contratación de Juncos; la sentencia
-  también recoge que ejercían de forma autónoma e independiente. Las irregularidades alegadas por la acusación no
-  se presentan, por tanto, como delitos acreditados.
+  La sentencia se anunció como recurrible ante el Tribunal Supremo. Hasta el 17 de octubre de 2026 no se ha documentado aquí su firmeza posterior, la interposición o el resultado de un recurso; la falta de noticias no demuestra que la causa continúe abierta ni que el fallo sea firme. Tampoco se ha recuperado el auto inicial de admisión de la querella o una resolución que fije su fecha. Estas lagunas impiden considerar completada la ficha.
 
+  ### Acusación y absolución
 
-  La documentación sobre las contrataciones fue remitida a la Fiscalía entre 2013 y 2014 por Carles Mulet, entonces
-  concejal de Compromís, que figuraba como acusación en la información de noviembre de 2023. Seis personas llegaron
-  a estar acusadas. El Mundo informa de que la Fiscalía retiró los cargos contra José Vicente Guimerá antes del
-  fallo, pero su artículo contiene referencias discordantes al número de absueltos; EFE identifica cinco, los tres
-  exalcaldes y los dos arquitectos. Sin el fallo original no queda acreditada la concreta terminación procesal respecto
-  de Guimerá ni el alcance de las restantes acusaciones en ese momento.
+  La causa examinó 28 encargos de arquitectura realizados entre 2008 y 2013. La acusación sostenía que el arquitecto municipal había favorecido a un profesional con el que había compartido despacho y que los contratos menores se habían fraccionado indebidamente. La Audiencia no consideró probados esos hechos delictivos y absolvió a los tres exalcaldes y a los dos arquitectos, según las noticias de mayo de 2025.
 
+  El importe de los encargos, 211.115,84 euros, describe la contratación cuestionada. No es un daño judicialmente reconocido. La multa solicitada por la acusación tampoco fue una multa impuesta.
 
-  La sentencia se anunció como recurrible ante el Tribunal Supremo. Hasta el 17 de octubre de 2026 no se ha documentado
-  aquí su firmeza posterior, la interposición o el resultado de un recurso; la falta de noticias no demuestra que
-  la causa continúe abierta ni que el fallo sea firme. Tampoco se ha recuperado el auto inicial de admisión de la
-  querella o una resolución que fije su fecha. Estas lagunas impiden considerar completada la ficha.'
+  ### Alcance del desenlace
+
+  Seis personas llegaron a estar acusadas, pero EFE describe cinco absueltos. El Mundo comunica la retirada de los cargos fiscales contra el jefe de Urbanismo, José Vicente Guimerá, y presenta referencias discordantes al número de absueltos. La falta del fallo original impide determinar con precisión su concreta terminación y el alcance de las restantes acusaciones.
+
+  Las publicaciones de mayo de 2025 anunciaban la posibilidad de recurso. No se ha acreditado una resolución posterior de firmeza o casación, ni se atribuye a la sentencia la fecha de su difusión periodística.
 resumen: Absolución en primera instancia (2025) de tres exalcaldes del PP de Cabanes y dos arquitectos por la presunta
   adjudicación irregular de 28 contratos municipales entre 2008 y 2013
 lugar: Cabanes, Castellón, Comunidad Valenciana
@@ -143,15 +128,3 @@ cronologia:
   - https://castellonplaza.com/castellonplaza/comarcas/absueltos-los-3-exalcaldes-de-cabanes-del-pp-acusados-de-trafico-de-influencias-y-prevaricacion
   - https://castellonaldia.elmundo.es/comarcas/plana-alta/absuelven-a-los-tres-ex-alcaldes-de-cabanes-y-a-otros-dos-acusados-por-contratos-de-obras-supuestamente-irregulares-LA23892933
 ---
-
-## Acusación y absolución
-
-La causa examinó 28 encargos de arquitectura realizados entre 2008 y 2013. La acusación sostenía que el arquitecto municipal había favorecido a un profesional con el que había compartido despacho y que los contratos menores se habían fraccionado indebidamente. La Audiencia no consideró probados esos hechos delictivos y absolvió a los tres exalcaldes y a los dos arquitectos, según las noticias de mayo de 2025.
-
-El importe de los encargos, 211.115,84 euros, describe la contratación cuestionada. No es un daño judicialmente reconocido. La multa solicitada por la acusación tampoco fue una multa impuesta.
-
-## Alcance del desenlace
-
-Seis personas llegaron a estar acusadas, pero EFE describe cinco absueltos. El Mundo comunica la retirada de los cargos fiscales contra el jefe de Urbanismo, José Vicente Guimerá, y presenta referencias discordantes al número de absueltos. La falta del fallo original impide determinar con precisión su concreta terminación y el alcance de las restantes acusaciones.
-
-Las publicaciones de mayo de 2025 anunciaban la posibilidad de recurso. No se ha acreditado una resolución posterior de firmeza o casación, ni se atribuye a la sentencia la fecha de su difusión periodística.

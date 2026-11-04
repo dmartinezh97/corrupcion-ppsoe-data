@@ -9,45 +9,22 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución mantenida por el Tribunal Constitucional
-descripcion: >-
-  María Casado Nieto, conocida como Marisol, fue alcaldesa de Alpedrete por el PP entre 2003 y 2015. El
-  procedimiento penal se refirió al Decreto 355/2010, que firmó el 21 de julio de 2010 para contratar a dos
-  oficiales de primera del Departamento de Obras. Los antecedentes judiciales recogen informes de Secretaría e
-  Intervención de 16 y 18 de julio sobre la necesidad de un procedimiento público y otro informe favorable de
-  una abogada externa, de 19 de julio, basado en urgencia y necesidad. No debe omitirse ese tercer informe ni
-  presentar como acreditada una intención delictiva tras el desenlace absolutorio.
+descripcion: |-
+  María Casado Nieto, conocida como Marisol, fue alcaldesa de Alpedrete por el PP entre 2003 y 2015. El procedimiento penal se refirió al Decreto 355/2010, que firmó el 21 de julio de 2010 para contratar a dos oficiales de primera del Departamento de Obras. Los antecedentes judiciales recogen informes de Secretaría e Intervención de 16 y 18 de julio sobre la necesidad de un procedimiento público y otro informe favorable de una abogada externa, de 19 de julio, basado en urgencia y necesidad. No debe omitirse ese tercer informe ni presentar como acreditada una intención delictiva tras el desenlace absolutorio.
 
+  La sección sindical de CCOO promovió la denuncia. La prensa sitúa su presentación en 2010 o 2011; no se fija un día ni se utiliza una fecha anual como fecha ISO ficticia. Madridiario/Europa Press informó el 26 de julio de 2013 de que un auto de la Audiencia de 15 de julio había estimado el recurso de CCOO contra el archivo del Juzgado de Instrucción 2 de Collado Villalba. El Juzgado de lo Penal 3 de Madrid absolvió a Casado el 15 de diciembre de 2017. El 26 de junio de 2018 la Audiencia anuló esa primera sentencia y ordenó retrotraer para redactar nuevamente los hechos probados sin predeterminar el fallo. El juzgado volvió a absolver mediante sentencia 512/2018, de 16 de julio, al no considerar acreditado el elemento subjetivo exigido por la prevaricación.
 
-  La sección sindical de CCOO promovió la denuncia. La prensa sitúa su presentación en 2010 o 2011; no se fija
-  un día ni se utiliza una fecha anual como fecha ISO ficticia. Madridiario/Europa Press informó el 26 de
-  julio de 2013 de que un auto de la Audiencia de 15 de julio había estimado el recurso de CCOO contra el
-  archivo del Juzgado de Instrucción 2 de Collado Villalba. El Juzgado de lo Penal 3 de Madrid absolvió a
-  Casado el 15 de diciembre de 2017. El 26 de junio de 2018 la Audiencia anuló esa primera sentencia y ordenó
-  retrotraer para redactar nuevamente los hechos probados sin predeterminar el fallo. El juzgado volvió a
-  absolver mediante sentencia 512/2018, de 16 de julio, al no considerar acreditado el elemento subjetivo
-  exigido por la prevaricación.
+  La Sección 23 de la Audiencia Provincial de Madrid, mediante sentencia 737/2018 de 23 de octubre, revocó la segunda absolución e impuso siete años de inhabilitación. En noviembre de 2018 se comunicaron su cese como asesora de Educación de la Comunidad de Madrid y su dimisión como concejala y portavoz del PP. Esas consecuencias se sitúan en el contexto de la condena entonces existente, que posteriormente fue anulada. No se considera su salario como perjuicio económico de esta causa.
 
+  La Sala Primera del Tribunal Constitucional estimó el amparo 520-2019 mediante sentencia 172/2019, de 16 de diciembre. Declaró vulnerados tanto el derecho a un proceso con todas las garantías como la presunción de inocencia: la condena en apelación reconsideró elementos subjetivos sin oír a la acusada ni valorar con las debidas garantías su testimonio exculpatorio. El TC anuló la condena y el auto de 11 de enero de 2019 y mantuvo expresamente el fallo absolutorio de 16 de julio de 2018, sin ordenar un nuevo juicio. Fue publicada en el BOE el 24 de enero de 2020; esa publicación no es una nueva absolución ni un auto de sobreseimiento.
 
-  La Sección 23 de la Audiencia Provincial de Madrid, mediante sentencia 737/2018 de 23 de octubre, revocó la
-  segunda absolución e impuso siete años de inhabilitación. En noviembre de 2018 se comunicaron su cese como
-  asesora de Educación de la Comunidad de Madrid y su dimisión como concejala y portavoz del PP. Esas
-  consecuencias se sitúan en el contexto de la condena entonces existente, que posteriormente fue anulada. No
-  se considera su salario como perjuicio económico de esta causa.
+  El desenlace penal está documentado en el fallo del Constitucional. Faltan los originales de las resoluciones iniciales y del auto de reapertura de 2013 y la documentación sobre las consecuencias administrativas del cese. Esas carencias no acreditan una continuidad penal, la restitución de cargos ni una indemnización. Tampoco se eleva la afirmación sindical de parentesco con uno de los contratados a un hecho establecido por la STC, cuyo relato reproducido no lo incluye.
 
+  La [STC 172/2019](https://www.boe.es/boe/dias/2020/01/24/pdfs/BOE-A-2020-1116.pdf) distingue dos absoluciones y dos intervenciones diferentes de la Audiencia: la retroacción de junio de 2018 y la condena de octubre. El fallo constitucional mantiene la segunda absolución, de 16 de julio de 2018, y anula tanto la condena como el auto posterior. No se trata de un sobreseimiento ni de una condena vigente.
 
-  La Sala Primera del Tribunal Constitucional estimó el amparo 520-2019 mediante sentencia 172/2019, de 16 de
-  diciembre. Declaró vulnerados tanto el derecho a un proceso con todas las garantías como la presunción de
-  inocencia: la condena en apelación reconsideró elementos subjetivos sin oír a la acusada ni valorar con las
-  debidas garantías su testimonio exculpatorio. El TC anuló la condena y el auto de 11 de enero de 2019 y
-  mantuvo expresamente el fallo absolutorio de 16 de julio de 2018, sin ordenar un nuevo juicio. Fue publicada
-  en el BOE el 24 de enero de 2020; esa publicación no es una nueva absolución ni un auto de sobreseimiento.
+  El relato judicial incluye los informes municipales y el informe favorable externo. Las valoraciones de las acusaciones, las afirmaciones de parentesco y las noticias de 2018 deben leerse con el posterior desenlace constitucional, que declara vulnerada también la presunción de inocencia.
 
-
-  El desenlace penal está documentado en el fallo del Constitucional. Faltan los originales de las
-  resoluciones iniciales y del auto de reapertura de 2013 y la documentación sobre las consecuencias
-  administrativas del cese. Esas carencias no acreditan una continuidad penal, la restitución de cargos ni una
-  indemnización. Tampoco se eleva la afirmación sindical de parentesco con uno de los contratados a un hecho
-  establecido por la STC, cuyo relato reproducido no lo incluye.
+  El resultado penal está acreditado. Siguen sin recuperarse las resoluciones iniciales como documentos autónomos y sin recuperarse el auto de 2013 y los efectos administrativos posteriores sobre los cargos perdidos. No se afirma restitución, indemnización ni nueva actividad penal basándose en la ausencia de noticias.
 resumen: El Constitucional anuló en diciembre de 2019 la condena por prevaricación de la exalcaldesa de Alpedrete
   María Casado Nieto y mantuvo expresamente la absolución de julio de 2018 por la contratación de dos trabajadores
   municipales.
@@ -182,9 +159,3 @@ cronologia:
   type: documento
   relevancia: alta
 ---
-
-La [STC 172/2019](https://www.boe.es/boe/dias/2020/01/24/pdfs/BOE-A-2020-1116.pdf) distingue dos absoluciones y dos intervenciones diferentes de la Audiencia: la retroacción de junio de 2018 y la condena de octubre. El fallo constitucional mantiene la segunda absolución, de 16 de julio de 2018, y anula tanto la condena como el auto posterior. No se trata de un sobreseimiento ni de una condena vigente.
-
-El relato judicial incluye los informes municipales y el informe favorable externo. Las valoraciones de las acusaciones, las afirmaciones de parentesco y las noticias de 2018 deben leerse con el posterior desenlace constitucional, que declara vulnerada también la presunción de inocencia.
-
-El resultado penal está acreditado. Siguen sin recuperarse las resoluciones iniciales como documentos autónomos y sin recuperarse el auto de 2013 y los efectos administrativos posteriores sobre los cargos perdidos. No se afirma restitución, indemnización ni nueva actividad penal basándose en la ausencia de noticias.

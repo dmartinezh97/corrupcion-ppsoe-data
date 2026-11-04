@@ -9,24 +9,24 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Archivado según información periodística; auto y alcance individual pendientes de cotejo
-descripcion: >-
-  El caso Porto investigó posibles irregularidades en la tramitación del sector Los Pocillos de Villanueva de
-  la Cañada y la relación entre las funciones públicas de Enrique Porto Rey y sus intereses urbanísticos
-  privados. Porto fue director general de Urbanismo de la Comunidad de Madrid entre 2003 y 2006, bajo el
-  Gobierno del PP. En octubre de 2007 la prensa informó de la admisión de una querella de Anticorrupción
-  contra él, el alcalde Luis Partida y otros cuatro profesionales o técnicos. Eran imputaciones y sospechas,
-  no hechos declarados probados por una condena.
+descripcion: |-
+  El caso Porto investigó posibles irregularidades en la tramitación del sector Los Pocillos de Villanueva de la Cañada y la relación entre las funciones públicas de Enrique Porto Rey y sus intereses urbanísticos privados. Porto fue director general de Urbanismo de la Comunidad de Madrid entre 2003 y 2006, bajo el Gobierno del PP. En octubre de 2007 la prensa informó de la admisión de una querella de Anticorrupción contra él, el alcalde Luis Partida y otros cuatro profesionales o técnicos. Eran imputaciones y sospechas, no hechos declarados probados por una condena.
 
+  Informaciones de elDiario.es de 2019 y marzo de 2026 señalan que el caso fue archivado. No se ha recuperado el auto ni comprobado su fecha exacta, carácter libre o provisional, firmeza o alcance para cada persona. No están acreditados un cierre el 31 de diciembre de 2012 ni el archivo definitivo.
 
-  Informaciones de elDiario.es de 2019 y marzo de 2026 señalan que el caso fue archivado. No se ha recuperado
-  el auto ni comprobado su fecha exacta, carácter libre o provisional, firmeza o alcance para cada persona. No
-  están acreditados un cierre el 31 de diciembre de 2012 ni el archivo definitivo.
+  Información disponible al 17 de octubre de 2026. Las plusvalías difundidas por la prensa no se presentan como enriquecimiento ilícito probado ni daño público. Se distingue de este caso otro procedimiento sobre el palacete El Enebral de El Escorial, cuya reapertura se había trasladado indebidamente a la cronología de Los Pocillos.
 
+  La admisión de una querella abrió una investigación; no acredita por sí misma las acusaciones. La [nota rectificada de Europa Press de octubre de 2007](https://www.europapress.es/madrid/noticia-nota-sustitucion-noticia-investigaran-ex-director-urbanismo-enrique-porto-alcalde-20071001153242.html) identifica seis destinatarios de la querella. Los nombres completos se contrastan con la [información contemporánea de El País](https://elpais.com/elpais/2007/10/01/actualidad/1191226624_850215.html), sin deducir identidades de seudónimos. Las referencias a vínculos societarios de Ricardo Ortega no bastan para atribuirle la condición de investigado. La Fiscalía Anticorrupción no es un órgano judicial.
 
-  Información disponible al 17 de octubre de 2026. Las plusvalías difundidas por la prensa no se presentan
-  como enriquecimiento ilícito probado ni daño público. Se distingue de este caso otro procedimiento sobre el
-  palacete El Enebral de El Escorial, cuya reapertura se había trasladado indebidamente a la cronología de Los
-  Pocillos.
+  El [seguimiento periodístico de 2019](https://www.eldiario.es/sociedad/arquitecto-alto-cargo-esperanza-aguirre_1_1675359.html) y el [de marzo de 2026](https://www.eldiario.es/madrid/somos/colegio-arquitectos-madrid-homenajea-ex-alto-cargo-aguirre-dimitio-escandalo-urbanistico_1_13099696.html) confirman como información periodística el archivo. No se ha localizado el auto. Una referencia secundaria a una noticia impresa de octubre de 2012 no permite fijar el día del acto ni certificar su alcance; tampoco se fija el número del juzgado instructor sin respaldo original: las fuentes secundarias divergen entre el 2 y el 4 de Móstoles. No se presenta el archivo como sentencia absolutoria ni como condena.
+
+  La [noticia económica de octubre de 2007](https://elpais.com/diario/2007/10/02/espana/1191276009_850215.html) distingue una parcela vendida por 400.458 euros y otras tres de Elclansol por 4.371.000 euros. Atribuye a datos de Anticorrupción plusvalías conjuntas superiores a 4,6 millones y una participación del 25% para el entorno patrimonial de Porto. Son cantidades societarias y patrimoniales difundidas durante la investigación, no perjuicio público probado ni beneficio ilícito individual declarado judicialmente. La [versión del PP publicada en 2006](https://elpais.com/elpais/2006/10/04/actualidad/1159949822_850215.html) discutía las acusaciones.
+
+  No se ha cotejado el planeamiento original para resolver las referencias divergentes a su fecha de aprobación, ni la documentación registral para certificar participaciones y plusvalías. Se evita presentar como cierta la suma de adquisición y beneficio que figuraba antes.
+
+  La reapertura tras un sobreseimiento provisional mencionada en una recopilación de noticias corresponde a **El Enebral, en El Escorial**, según el seguimiento de 2026; no acredita que Los Pocillos se reabriera en junio de 2010. No se reproducen las imputaciones personales de aquel procedimiento como hechos de esta ficha.
+
+  Las fuentes judiciales originales siguen pendientes. El enlace al texto de la querella que conserva El País devuelve 404, y el enlace de Ecologistas en Acción sobre acumulación de denuncias devuelve 403. Por eso no se mantienen como revalidados su fecha de acumulación o un expediente judicial concreto. No se dispone de originales verificables. Al 17 de octubre de 2026, no está acreditada la inexistencia de recursos o actuaciones posteriores.
 resumen: Investigación urbanística sobre Los Pocillos y Enrique Porto; archivo informado por la prensa, sin auto
   original cotejado
 lugar: Villanueva de la Cañada, Comunidad de Madrid
@@ -109,15 +109,3 @@ cronologia:
   urls:
   - https://www.eldiario.es/madrid/somos/colegio-arquitectos-madrid-homenajea-ex-alto-cargo-aguirre-dimitio-escandalo-urbanistico_1_13099696.html
 ---
-
-La admisión de una querella abrió una investigación; no acredita por sí misma las acusaciones. La [nota rectificada de Europa Press de octubre de 2007](https://www.europapress.es/madrid/noticia-nota-sustitucion-noticia-investigaran-ex-director-urbanismo-enrique-porto-alcalde-20071001153242.html) identifica seis destinatarios de la querella. Los nombres completos se contrastan con la [información contemporánea de El País](https://elpais.com/elpais/2007/10/01/actualidad/1191226624_850215.html), sin deducir identidades de seudónimos. Las referencias a vínculos societarios de Ricardo Ortega no bastan para atribuirle la condición de investigado. La Fiscalía Anticorrupción no es un órgano judicial.
-
-El [seguimiento periodístico de 2019](https://www.eldiario.es/sociedad/arquitecto-alto-cargo-esperanza-aguirre_1_1675359.html) y el [de marzo de 2026](https://www.eldiario.es/madrid/somos/colegio-arquitectos-madrid-homenajea-ex-alto-cargo-aguirre-dimitio-escandalo-urbanistico_1_13099696.html) confirman como información periodística el archivo. No se ha localizado el auto. Una referencia secundaria a una noticia impresa de octubre de 2012 no permite fijar el día del acto ni certificar su alcance; tampoco se fija el número del juzgado instructor sin respaldo original: las fuentes secundarias divergen entre el 2 y el 4 de Móstoles. No se presenta el archivo como sentencia absolutoria ni como condena.
-
-La [noticia económica de octubre de 2007](https://elpais.com/diario/2007/10/02/espana/1191276009_850215.html) distingue una parcela vendida por 400.458 euros y otras tres de Elclansol por 4.371.000 euros. Atribuye a datos de Anticorrupción plusvalías conjuntas superiores a 4,6 millones y una participación del 25% para el entorno patrimonial de Porto. Son cantidades societarias y patrimoniales difundidas durante la investigación, no perjuicio público probado ni beneficio ilícito individual declarado judicialmente. La [versión del PP publicada en 2006](https://elpais.com/elpais/2006/10/04/actualidad/1159949822_850215.html) discutía las acusaciones.
-
-No se ha cotejado el planeamiento original para resolver las referencias divergentes a su fecha de aprobación, ni la documentación registral para certificar participaciones y plusvalías. Se evita presentar como cierta la suma de adquisición y beneficio que figuraba antes.
-
-La reapertura tras un sobreseimiento provisional mencionada en una recopilación de noticias corresponde a **El Enebral, en El Escorial**, según el seguimiento de 2026; no acredita que Los Pocillos se reabriera en junio de 2010. No se reproducen las imputaciones personales de aquel procedimiento como hechos de esta ficha.
-
-Las fuentes judiciales originales siguen pendientes. El enlace al texto de la querella que conserva El País devuelve 404, y el enlace de Ecologistas en Acción sobre acumulación de denuncias devuelve 403. Por eso no se mantienen como revalidados su fecha de acumulación o un expediente judicial concreto. No se dispone de originales verificables. Al 17 de octubre de 2026, no está acreditada la inexistencia de recursos o actuaciones posteriores.

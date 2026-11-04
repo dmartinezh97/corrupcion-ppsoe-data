@@ -8,32 +8,20 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución de Ubiña; resultado de Ariza no verificado
-descripcion: 'La investigación urbanística conocida en 2016 afectó a Jesús Ubiña Olmos y Pablo Ariza Rojo, entonces responsables
-  municipales del PP en Alhama de Granada. La Fiscalía denunció posibles irregularidades en licencias y proyectos vinculados
-  a su actividad profesional privada, así como en una instrucción municipal sobre el planeamiento aplicable. Los investigados
-  y el Ayuntamiento negaron las irregularidades. Las atribuciones iniciales de prevaricación, delitos contra la ordenación
-  del territorio y negociaciones prohibidas no equivalen a hechos probados ni a una acusación final por todos esos delitos.
+descripcion: |-
+  La investigación urbanística conocida en 2016 afectó a Jesús Ubiña Olmos y Pablo Ariza Rojo, entonces responsables municipales del PP en Alhama de Granada. La Fiscalía denunció posibles irregularidades en licencias y proyectos vinculados a su actividad profesional privada, así como en una instrucción municipal sobre el planeamiento aplicable. Los investigados y el Ayuntamiento negaron las irregularidades. Las atribuciones iniciales de prevaricación, delitos contra la ordenación del territorio y negociaciones prohibidas no equivalen a hechos probados ni a una acusación final por todos esos delitos.
 
+  Existe un resultado judicial posterior: según Europa Press, que consultó la sentencia, el Juzgado de lo Penal número 3 de Granada absolvió a Ubiña el 24 de marzo de 2025 del delito continuado de negociaciones y actividades prohibidas a funcionarios públicos por el que fue juzgado el 21 de febrero. La Fiscalía había solicitado cuatro años de suspensión de empleo o cargo público; esa fue una petición acusatoria, no una pena impuesta. La noticia explica que Ubiña había declarado su actividad privada como ingeniero técnico agrícola y que el juzgado no apreció incompatibilidad al simultanearla con su actividad pública.
 
-  Existe un resultado judicial posterior: según Europa Press, que consultó la sentencia, el Juzgado de lo Penal número 3 de
-  Granada absolvió a Ubiña el 24 de marzo de 2025 del delito continuado de negociaciones y actividades prohibidas a funcionarios
-  públicos por el que fue juzgado el 21 de febrero. La Fiscalía había solicitado cuatro años de suspensión de empleo o cargo
-  público; esa fue una petición acusatoria, no una pena impuesta. La noticia explica que Ubiña había declarado su actividad
-  privada como ingeniero técnico agrícola y que el juzgado no apreció incompatibilidad al simultanearla con su actividad pública.
+  La sentencia era apelable ante la Audiencia Provincial. No se ha recuperado su original ni verificado si se recurrió, si adquirió firmeza o si hubo una decisión posterior hasta el 15 de octubre de 2026. Tampoco se ha localizado el resultado individual de Pablo Ariza ni las resoluciones que expliquen qué ocurrió con las demás imputaciones urbanísticas iniciales. Por ello no se extiende la absolución de Ubiña a Ariza ni se considera acreditado el cierre de toda la investigación.
 
+  Las actas municipales documentan la ratificación plenaria de la instrucción de planeamiento el 25 de septiembre de 2014 y una licencia de nave agrícola e invernadero del 30 de septiembre. La prensa situó la instrucción el día 28, discrepancia que se distingue de la fecha comprobada del acta. La denuncia vinculaba la nave a Agro Ingeniería Guerrero SL y señalaba diferencias entre las parcelas de las obras y la que figuraba en el expediente. Son alegaciones de aquella denuncia, no conclusiones que puedan atribuirse a una sentencia cuyo texto íntegro no se ha recuperado. No se dispone de una cuantificación judicial de perjuicio económico.
 
-  La sentencia era apelable ante la Audiencia Provincial. No se ha recuperado su original ni verificado si se recurrió, si
-  adquirió firmeza o si hubo una decisión posterior hasta el 15 de octubre de 2026. Tampoco se ha localizado el resultado
-  individual de Pablo Ariza ni las resoluciones que expliquen qué ocurrió con las demás imputaciones urbanísticas iniciales.
-  Por ello no se extiende la absolución de Ubiña a Ariza ni se considera acreditado el cierre de toda la investigación.
+  El [resultado absolutorio comunicado por Europa Press el 9 de abril de 2025](https://www.europapress.es/andalucia/noticia-absuelto-alcalde-alhama-granada-ser-juzgado-negociaciones-prohibidas-funcionarios-20250409150720.html) sucede a la investigación urbanística publicada en 2016 y al juicio del 21 de febrero de 2025. La absolución se refiere a Ubiña y al delito juzgado; no acredita el resultado de todas las imputaciones iniciales ni el de Ariza. El original judicial, el eventual recurso y la situación de Ariza siguen sin verificarse.
 
+  El [acta municipal de septiembre de 2014](https://news.alhamadegranada.info/wp-content/uploads/2014/05/2014_09_25_PLENO_ORD.pdf) permite distinguir la aprobación por la Junta de Gobierno Local el 19 de agosto de la ratificación por el Pleno el 25 de septiembre. En el [acta de noviembre](https://news.alhamadegranada.info/wp-content/uploads/2014/05/2014_11_06_PLENO_ORD.pdf) figura el Decreto 412 del 30 de septiembre, sobre la parcela 168 del polígono 17. Son documentos administrativos; su contenido no equivale a una declaración judicial de ilegalidad de las licencias.
 
-  Las actas municipales documentan la ratificación plenaria de la instrucción de planeamiento el 25 de septiembre de 2014
-  y una licencia de nave agrícola e invernadero del 30 de septiembre. La prensa situó la instrucción el día 28, discrepancia
-  que se distingue de la fecha comprobada del acta. La denuncia vinculaba la nave a Agro Ingeniería Guerrero SL y señalaba
-  diferencias entre las parcelas de las obras y la que figuraba en el expediente. Son alegaciones de aquella denuncia, no
-  conclusiones que puedan atribuirse a una sentencia cuyo texto íntegro no se ha recuperado. No se dispone de una cuantificación
-  judicial de perjuicio económico.'
+  La [información inicial de la denuncia](https://www.elindependientedegranada.es/politica/juez-investiga-alcalde-alhama-pp-posible-prevaricacion-negociaciones-prohibidas) atribuye a los investigados vínculos profesionales con proyectos privados y discrepancias sobre las parcelas de la nave. La [respuesta municipal](https://alhama.com/digital/alhama/noticias/9316-nota-del-ayuntamiento-ante-la-investigacion-del-juzgado-contra-el-alcalde-de-alhama-y-al-concejal-de-urbanismo) rechaza esas irregularidades. La diferencia entre finales de mayo y comienzos de junio de 2015 para la denuncia del particular se mantiene sin resolver al faltar el documento original. No se asigna un coste ni una indemnización al caso sin respaldo judicial.
 resumen: Investigación urbanística de Ubiña y Ariza; Ubiña fue absuelto en marzo de 2025 por negociaciones prohibidas, sin
   firmeza ni resultado de Ariza verificados.
 lugar: Alhama de Granada, Andalucía
@@ -133,9 +121,3 @@ cronologia:
   type: sentencia
   relevancia: alta
 ---
-
-El [resultado absolutorio comunicado por Europa Press el 9 de abril de 2025](https://www.europapress.es/andalucia/noticia-absuelto-alcalde-alhama-granada-ser-juzgado-negociaciones-prohibidas-funcionarios-20250409150720.html) sucede a la investigación urbanística publicada en 2016 y al juicio del 21 de febrero de 2025. La absolución se refiere a Ubiña y al delito juzgado; no acredita el resultado de todas las imputaciones iniciales ni el de Ariza. El original judicial, el eventual recurso y la situación de Ariza siguen sin verificarse.
-
-El [acta municipal de septiembre de 2014](https://news.alhamadegranada.info/wp-content/uploads/2014/05/2014_09_25_PLENO_ORD.pdf) permite distinguir la aprobación por la Junta de Gobierno Local el 19 de agosto de la ratificación por el Pleno el 25 de septiembre. En el [acta de noviembre](https://news.alhamadegranada.info/wp-content/uploads/2014/05/2014_11_06_PLENO_ORD.pdf) figura el Decreto 412 del 30 de septiembre, sobre la parcela 168 del polígono 17. Son documentos administrativos; su contenido no equivale a una declaración judicial de ilegalidad de las licencias.
-
-La [información inicial de la denuncia](https://www.elindependientedegranada.es/politica/juez-investiga-alcalde-alhama-pp-posible-prevaricacion-negociaciones-prohibidas) atribuye a los investigados vínculos profesionales con proyectos privados y discrepancias sobre las parcelas de la nave. La [respuesta municipal](https://alhama.com/digital/alhama/noticias/9316-nota-del-ayuntamiento-ante-la-investigacion-del-juzgado-contra-el-alcalde-de-alhama-y-al-concejal-de-urbanismo) rechaza esas irregularidades. La diferencia entre finales de mayo y comienzos de junio de 2015 para la denuncia del particular se mantiene sin resolver al faltar el documento original. No se asigna un coste ni una indemnización al caso sin respaldo judicial.

@@ -9,17 +9,18 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: sobreseimiento
-descripcion: 'La rama compostelana de Pokémon investigó posibles irregularidades en contratos, contratación de personal,
-  retirada de multas y financiación del PP. La pieza general sobre el Concello fue sobreseída provisionalmente en
-  abril de 2020 por falta de concreción de los hechos y de las atribuciones individuales. Otras piezas tuvieron
-  archivos provisionales propios: tráfico de influencias relacionado con Aquagest en septiembre de 2022, escuela
-  infantil de Salgueiriños en septiembre de 2023, contratación de ORA y grúa en octubre de 2024 y retirada de multas,
-  conocida en diciembre de 2024. Estos archivos no son condenas ni una absolución global de toda Pokémon. No se
-  han verificado los autos originales, su firmeza, los eventuales recursos ni el desenlace de todas las derivaciones
-  compostelanas hasta el 15 de octubre de 2026. La investigación de 26.970 euros ingresados en cuentas del PP en
-  2011 no acredita por sí misma financiación delictiva ni daño público. En mayo de 2026 se informó del acuerdo municipal
-  de abonar casi 42.000 euros por la defensa de Ángel Currás; es gasto de defensa, no un perjuicio declarado en
-  sentencia.'
+descripcion: |-
+  La rama compostelana de Pokémon investigó posibles irregularidades en contratos, contratación de personal, retirada de multas y financiación del PP. La pieza general sobre el Concello fue sobreseída provisionalmente en abril de 2020 por falta de concreción de los hechos y de las atribuciones individuales. Otras piezas tuvieron archivos provisionales propios: tráfico de influencias relacionado con Aquagest en septiembre de 2022, escuela infantil de Salgueiriños en septiembre de 2023, contratación de ORA y grúa en octubre de 2024 y retirada de multas, conocida en diciembre de 2024. Estos archivos no son condenas ni una absolución global de toda Pokémon. No se han verificado los autos originales, su firmeza, los eventuales recursos ni el desenlace de todas las derivaciones compostelanas hasta el 15 de octubre de 2026. La investigación de 26.970 euros ingresados en cuentas del PP en 2011 no acredita por sí misma financiación delictiva ni daño público. En mayo de 2026 se informó del acuerdo municipal de abonar casi 42.000 euros por la defensa de Ángel Currás; es gasto de defensa, no un perjuicio declarado en sentencia.
+
+  Esta ficha comprende las investigaciones compostelanas descritas en sus fuentes, no toda la Operación Pokémon ni el procedimiento fiscal personal de Conde Roa. La contratación municipal, las relaciones con Aquagest y Vendex y la financiación partidaria fueron hipótesis investigadas; no se presentan como hechos probados.
+
+  La información de 2017 se refería a 17 ingresos por 26.970 euros en dos cuentas del PP durante 2011. La fecha de aquella noticia es el 18 de mayo de 2017, no junio de 2015, y su contenido no prueba la financiación por Agbar atribuida a esa fuente. Tampoco permite fijar una pérdida para el Ayuntamiento. Ni los ingresos investigados, ni los contratos, ni los gastos de defensa equivalen a un daño cuantificado.
+
+  El archivo de 2020 comprendió once personas. Praza identifica, entre ellas, a Conde Roa, Espadas, Varela, Vázquez y Rama. La resolución fue descrita como sobreseimiento provisional, con levantamiento de cautelares, ante la falta de delimitación de los hechos y de las atribuciones personales. No se convierte ese resultado en una absolución tras juicio ni en un cierre firme de todas las piezas.
+
+  La pieza de Salgueiriños incluyó asimismo a Román Otero Ferreiro, José María Tutor Lemos, Alberto Antonio Quintana Vilarelle, Belén Álvarez Conde y Rebeca Domínguez Iglesias, además de Currás y Rama, según Europa Press. La noticia de diciembre de 2024 sobre retirada de multas identifica a Alberto Quintana Vilarelle, Francisco Javier Guldrís, Casimiro Eibes, José Manuel Canabal, Salvador Carreira, María del Carmen Pérez y Álvaro Vilarelle como investigados afectados por ese archivo. Las fuentes consultadas no precisan todos sus cargos, por lo que no se les atribuye pertenencia al PP ni una función municipal concreta.
+
+  Los archivos de 2022, 2023 y 2024 corresponden a objetos procesales propios. Falta verificar los originales y los eventuales recursos para precisar su alcance definitivo. La cobertura de 2026 sobre el abono de la defensa de Currás aporta un hecho municipal posterior al archivo, no una nueva resolución penal. La ausencia de novedades localizadas en 2025 o después de ese acuerdo no prueba por sí sola firmeza ni continuidad procesal.
 resumen: Diversas piezas de Pokémon relativas al Ayuntamiento de Santiago, con archivos provisionales documentados
   en prensa entre 2020 y 2024 y límites pendientes sobre recursos y firmeza.
 lugar: Santiago de Compostela, Galicia
@@ -135,13 +136,3 @@ cronologia:
   urls:
   - https://xornaldecompostela.gal/politica/32544-o-concello-aproba-o-pago-de-case-42-000-euros-pola-defensa-xuridica-de-angel-curras-na-peza-da-operacion-pokemon-arquivada/
 ---
-
-Esta ficha comprende las investigaciones compostelanas descritas en sus fuentes, no toda la Operación Pokémon ni el procedimiento fiscal personal de Conde Roa. La contratación municipal, las relaciones con Aquagest y Vendex y la financiación partidaria fueron hipótesis investigadas; no se presentan como hechos probados.
-
-La información de 2017 se refería a 17 ingresos por 26.970 euros en dos cuentas del PP durante 2011. La fecha de aquella noticia es el 18 de mayo de 2017, no junio de 2015, y su contenido no prueba la financiación por Agbar atribuida a esa fuente. Tampoco permite fijar una pérdida para el Ayuntamiento. Ni los ingresos investigados, ni los contratos, ni los gastos de defensa equivalen a un daño cuantificado.
-
-El archivo de 2020 comprendió once personas. Praza identifica, entre ellas, a Conde Roa, Espadas, Varela, Vázquez y Rama. La resolución fue descrita como sobreseimiento provisional, con levantamiento de cautelares, ante la falta de delimitación de los hechos y de las atribuciones personales. No se convierte ese resultado en una absolución tras juicio ni en un cierre firme de todas las piezas.
-
-La pieza de Salgueiriños incluyó asimismo a Román Otero Ferreiro, José María Tutor Lemos, Alberto Antonio Quintana Vilarelle, Belén Álvarez Conde y Rebeca Domínguez Iglesias, además de Currás y Rama, según Europa Press. La noticia de diciembre de 2024 sobre retirada de multas identifica a Alberto Quintana Vilarelle, Francisco Javier Guldrís, Casimiro Eibes, José Manuel Canabal, Salvador Carreira, María del Carmen Pérez y Álvaro Vilarelle como investigados afectados por ese archivo. Las fuentes consultadas no precisan todos sus cargos, por lo que no se les atribuye pertenencia al PP ni una función municipal concreta.
-
-Los archivos de 2022, 2023 y 2024 corresponden a objetos procesales propios. Falta verificar los originales y los eventuales recursos para precisar su alcance definitivo. La cobertura de 2026 sobre el abono de la defensa de Currás aporta un hecho municipal posterior al archivo, no una nueva resolución penal. La ausencia de novedades localizadas en 2025 o después de ese acuerdo no prueba por sí sola firmeza ni continuidad procesal.

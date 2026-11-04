@@ -10,42 +10,54 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: En casación
 firmeza: No firme
 estado: "pendiente"
-descripcion: >-
-  El caso Erial es una causa judicial sobre el cobro de comisiones por la adjudicación de contratos públicos
-  durante los gobiernos de Eduardo Zaplana al frente de la Generalitat Valenciana (1995-2002), principalmente
-  la privatización de las estaciones de ITV (1997) y, en la parte investigada, el Plan Eólico de la Comunitat
-  Valenciana (2003). La instrucción correspondió al Juzgado de Instrucción nº 8 de València, con intervención
-  de la Fiscalía Anticorrupción; no a la Audiencia Nacional. Las comisiones habrían sido canalizadas a través
-  de una red de sociedades y testaferros y ocultadas en cuentas y sociedades en el extranjero (Suiza,
-  Luxemburgo, Andorra, Panamá).
+descripcion: |-
+  El caso Erial es una causa judicial sobre el cobro de comisiones por la adjudicación de contratos públicos durante los gobiernos de Eduardo Zaplana al frente de la Generalitat Valenciana (1995-2002), principalmente la privatización de las estaciones de ITV (1997) y, en la parte investigada, el Plan Eólico de la Comunitat Valenciana (2003). La instrucción correspondió al Juzgado de Instrucción nº 8 de València, con intervención de la Fiscalía Anticorrupción; no a la Audiencia Nacional. Las comisiones habrían sido canalizadas a través de una red de sociedades y testaferros y ocultadas en cuentas y sociedades en el extranjero (Suiza, Luxemburgo, Andorra, Panamá).
 
+  Eduardo Zaplana fue detenido el 22 de mayo de 2018 en la operación Erial y permaneció en prisión provisional del 24 de mayo de 2018 al 7 de febrero de 2019 (259 días), fecha en que la jueza instructora acordó su libertad provisional con retirada del pasaporte y comparecencia periódica; no consta que la libertad se condicionara a una fianza de un millón de euros. El 15 de octubre de 2024 la Sección Cuarta de la Audiencia Provincial de València le condenó a 10 años y 5 meses de prisión como autor de prevaricación administrativa, cohecho, falsedad documental y blanqueo de capitales, con 17 años y 10 meses de inhabilitación especial para empleo o cargo público, 3 años de inhabilitación para su profesión y multas que en total superan los 25 millones de euros; fue absuelto del delito de grupo criminal. La sentencia, de 364 páginas según la nota del CGPJ y disponible en una versión de CENDOJ de 181 páginas, absolvió también del grupo criminal al resto de acusados y absolvió, entre otros, al expresidente valenciano José Luis Olivas y a la secretaria de Zaplana, Mitsouko Henríquez. Otros seis acusados fueron condenados con penas de entre 1 año y 3 meses y 5 años; la prensa documenta pactos de conformidad de Barceló, García y los hermanos Cotino, sin que deban extenderse a todos los condenados. La sentencia no es firme: fue recurrida en casación ante el Tribunal Supremo por la defensa de Zaplana (recurso de 190 páginas presentado en marzo de 2025) y, según la última información localizada (EFE, 6 de septiembre de 2026), la causa seguía pendiente de resolución ante el Supremo, con Zaplana en libertad provisional. No se ha localizado sentencia del Tribunal Supremo ni un cambio de estado a la fecha indicada.
 
-  Eduardo Zaplana fue detenido el 22 de mayo de 2018 en la operación Erial y permaneció en prisión provisional
-  del 24 de mayo de 2018 al 7 de febrero de 2019 (259 días), fecha en que la jueza instructora acordó su
-  libertad provisional con retirada del pasaporte y comparecencia periódica; no consta que la libertad se
-  condicionara a una fianza de un millón de euros. El 15 de octubre de 2024 la Sección Cuarta de la Audiencia
-  Provincial de València le condenó a 10 años y 5 meses de prisión como autor de prevaricación administrativa,
-  cohecho, falsedad documental y blanqueo de capitales, con 17 años y 10 meses de inhabilitación especial para
-  empleo o cargo público, 3 años de inhabilitación para su profesión y multas que en total superan los 25
-  millones de euros; fue absuelto del delito de grupo criminal. La sentencia, de 364 páginas según la nota del
-  CGPJ y disponible en una versión de CENDOJ de 181 páginas, absolvió también del grupo criminal al resto de
-  acusados y absolvió, entre otros, al expresidente valenciano José Luis Olivas y a la secretaria de Zaplana,
-  Mitsouko Henríquez. Otros seis acusados fueron condenados con penas de entre 1 año y 3 meses y 5 años; la
-  prensa documenta pactos de conformidad de Barceló, García y los hermanos Cotino, sin que deban extenderse a
-  todos los condenados. La sentencia no es firme: fue recurrida en casación ante el Tribunal Supremo por la
-  defensa de Zaplana (recurso de 190 páginas presentado en marzo de 2025) y, según la última información
-  localizada (EFE, 6 de septiembre de 2026), la causa seguía pendiente de resolución ante el Supremo, con
-  Zaplana en libertad provisional. No se ha localizado sentencia del Tribunal Supremo ni un cambio de estado a
-  la fecha indicada.
+  La sentencia 560/2024, de 15 de octubre (ECLI:ES:APV:2024:1209), está disponible en el CENDOJ en un documento de 181 páginas. La nota del CGPJ describe una sentencia de 364 páginas, sin que se haya cotejado esa otra paginación. Subsiste la discrepancia sobre la pena de Juan Francisco García (2 años y 9 meses en prensa, 2 años y 11 meses en CGPJ). Además, la defensa de Francisco Pérez López denunció una contradicción entre absolución y condena en el fallo y anunció recurso, sin resolución aclaratoria localizada. Según EFE, en septiembre de 2026 la casación estaba pendiente; no consta una sentencia posterior del Supremo. Las comisiones estimadas, comisos y multas no se presentan como un perjuicio económico probado y no se suman.
 
+  ### Procedimiento y fuentes (17 de octubre de 2026)
 
-  La sentencia 560/2024, de 15 de octubre (ECLI:ES:APV:2024:1209), está disponible en el CENDOJ en un
-  documento de 181 páginas. La nota del CGPJ describe una sentencia de 364 páginas, sin que se haya cotejado
-  esa otra paginación. Subsiste la discrepancia sobre la pena de Juan Francisco García (2 años y 9 meses en
-  prensa, 2 años y 11 meses en CGPJ). Además, la defensa de Francisco Pérez López denunció una contradicción
-  entre absolución y condena en el fallo y anunció recurso, sin resolución aclaratoria localizada. Según EFE,
-  en septiembre de 2026 la casación estaba pendiente; no consta una sentencia posterior del Supremo. Las
-  comisiones estimadas, comisos y multas no se presentan como un perjuicio económico probado y no se suman.
+  ### Estado procesal
+  - La sentencia de 15 de octubre de 2024 de la Sección Cuarta de la Audiencia Provincial de València **no es firme**. La última actuación oficial localizada es el auto notificado el 11 de noviembre de 2024 que mantiene la libertad provisional (fecha propia del auto pendiente de comprobar) y el recurso de casación presentado en marzo de 2025. La crónica de EFE de 6 de septiembre de 2026 sitúa la casación pendiente ante el Tribunal Supremo; no consta una resolución posterior del alto tribunal. La resolución del recurso de casación sigue sin acreditarse; no consta una sentencia firme ni el cierre de la causa.
+  - No se presume que la situación descrita se mantenga en octubre de 2026: es la última información documentada. Cualquier cambio posterior (señalamiento, vista o sentencia del Supremo) queda pendiente de verificación.
+
+  ### Tribunal y origen
+  - La instrucción correspondió al **Juzgado de Instrucción nº 8 de València**, con intervención de la **Fiscalía Anticorrupción**; el enjuiciamiento y la sentencia, a la **Sección Cuarta de la Audiencia Provincial de València**. No consta intervención de la Audiencia Nacional en esta causa.
+  - El origen documental de la investigación está en el hallazgo casual de documentos intervenidos en el registro del despacho del abogado de Marcos Benavent (caso Imelsa); la UCO informó de ello por oficio el 11 de noviembre de 2015. No consta el día exacto en que el juzgado abrió las diligencias de Erial. La operación y las detenciones del 22 de mayo de 2018 son el primer acto documentado públicamente, sin que esa fecha equivalga al inicio procesal exacto.
+
+  ### Personas y roles
+  - **Francisco Grau Jornet** no es un "presunto testaferro" sin más: la sentencia lo condena a 5 años por blanqueo como gestor financiero del patrimonio oculto de Zaplana. **Joaquín Miguel Barceló 'Pachano'** es el testaferro confeso, condenado por conformidad a 1 año y 3 meses. El "presunto pagador de comisiones" fue el entorno empresarial (hermanos Cotino), no Barceló.
+  - **Juan Francisco García** fue condenado, no solo investigado. Existe una discrepancia de dos meses en su pena de prisión: la nota oficial del CGPJ indica 2 años y 11 meses y elDiario.es indica 2 años y 9 meses. Se reflejan ambas. La inhabilitación por prevaricación consta como 4 años y 5 meses.
+  - **Fernando Belhot** no figura entre los condenados ni entre los absueltos expresamente citados. Su situación (acusación retirada a cambio de declarar) se recoge como alegación de la defensa en el recurso de casación, no como hecho declarado.
+  No está acreditada una vinculación de José María Cataluña con el caso Erial.
+  - Los cargos de los implicados se expresan como históricos o "ex" para no presentarlos como vigentes. Los roles distinguen condenados en primera instancia (no firmes), absueltos y personas fallecidas.
+
+  ### Sobre las cuantías (coste)
+  Los 10.000.000 € corresponden a la estimación de las comisiones investigadas difundida en 2018, no a un perjuicio declarado judicialmente. El auto de apertura de juicio oral de 2022 cuantificaba en 20 millones de euros el dinero desviado y la Fiscalía solicitaba el decomiso de 20,6 millones; la sentencia impuso multas que superan los 25 millones. Estas cifras responden a conceptos distintos (comisiones, dinero desviado, decomiso y multas) y no deben sumarse entre sí.
+
+  ### Fechas de cronología retiradas o corregidas
+
+  - La salida de prisión no fue el 16 de noviembre de 2018: fue el **7 de febrero de 2019**, tras 259 días. En noviembre y diciembre de 2018 Zaplana seguía interno (en el Hospital La Fe desde el 18 de diciembre).
+  - La nota del CGPJ fecha el **11 de noviembre de 2024 la notificación** del auto que mantiene su libertad provisional, no su fecha propia, que queda pendiente de comprobar en el original. El 15 de octubre corresponde a la sentencia.
+  - No se ha podido revalidar la fecha de 14 de septiembre de 2021 para la petición de 19 años de la Fiscalía (la URL de El Confidencial devuelve error 403); la petición consta documentada en octubre de 2022, tras el auto de procedimiento abreviado de junio de 2022.
+  No cuentan con respaldo suficiente las referencias a un aplazamiento del juicio el 30 de junio de 2022 o a la continuación de la instrucción el 15 de enero de 2024.
+
+  ### Documento oficial y limitaciones de fuentes
+  Está disponible el original de la **sentencia 560/2024, de 15 de octubre de 2024, ECLI:ES:APV:2024:1209**. La versión de CENDOJ tiene **181 páginas**; la nota del CGPJ cita 364, sin que se haya recuperado esa otra versión para cotejar su paginación. La sentencia consta de 181 páginas; los hechos relativos a Imarol figuran en las páginas 15–16 y el fallo y los recursos en las páginas 177–181. El bloqueo 403 del intento anterior queda superado. La fecha de generación del PDF en marzo de 2026 no es una nueva resolución.
+  - Se sustituye el anterior seguimiento basado en índices de prensa de enero-febrero de 2026 por la crónica íntegra de EFE de 6 de septiembre de 2026. Sigue pendiente localizar una resolución original del Supremo.
+  - La cabecera del PDF verifica el número 560/2024 y la fecha 15-10-2024; no se trasladan los pseudónimos del texto a nombres nominales ni se resuelven con ellos las discrepancias de penas o la contradicción denunciada por la defensa de Francisco Pérez López.
+
+  ### Documentación e información pendiente
+
+  La primera aclara que no hubo pruebas incriminatorias suficientes sobre la participación de Zaplana y García en la adjudicación eólica a cambio de contraprestación; no se presenta la condena como si incluyera ese extremo. El juicio comenzó el 21 de marzo de 2024 y quedó visto para sentencia el 23 de mayo, según las crónicas contemporáneas de elDiario.es y Europa Press publicadas por Cadena SER.
+
+  Se ha comprobado el nombramiento ministerial de Zaplana en el [Real Decreto 674/2002, de 9 de julio](https://boe.es/diario_boe/txt.php?id=BOE-A-2002-13577), publicado el 10 de julio, y su cese con continuidad en funciones en el [Real Decreto 449/2004, de 15 de marzo](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2004-4783), publicado el 16 de marzo.
+
+  La [crónica de elDiario.es de 25 de octubre de 2024](https://www.eldiario.es/comunitat-valenciana/empresario-paco-gasofa-recurrira-supremo-sentencia-absuelve-condena-vez-caso-erial_1_11760156.html) documenta la solicitud de aclaración y el anuncio de casación de Francisco Pérez López. No se ha localizado respuesta judicial original; su situación no se equipara a una condena firme.
+
+  La versión oficial del CENDOJ consta de 181 páginas. La sentencia no acredita por sí sola la firmeza o ejecución de las penas; no constan el desenlace de la casación ni las aclaraciones individuales pendientes. Las noticias de Levante de 2018 y 2019 no ofrecen textos accesibles que permitan corroborar íntegramente los detalles históricos atribuidos a ellas.
 
 resumen: "Zaplana fue condenado en primera instancia a 10 años y 5 meses por la trama de las ITV; no se apreciaron pruebas suficientes sobre las adjudicaciones eólicas. EFE situaba la casación pendiente en septiembre de 2026; sin sentencia posterior localizada ni firmeza acreditada."
 lugar: "València, Comunitat Valenciana, España"
@@ -196,45 +208,3 @@ cronologia:
       - "https://www.eldiario.es/comunitat-valenciana/zaplana-rus-aguardan-respuesta-recursos-oltra-fecha-juicio_1_13491123.html"
 
 ---
-
-## Procedimiento y fuentes (17 de octubre de 2026)
-
-### Estado procesal
-- La sentencia de 15 de octubre de 2024 de la Sección Cuarta de la Audiencia Provincial de València **no es firme**. La última actuación oficial localizada es el auto notificado el 11 de noviembre de 2024 que mantiene la libertad provisional (fecha propia del auto pendiente de comprobar) y el recurso de casación presentado en marzo de 2025. La crónica de EFE de 6 de septiembre de 2026 sitúa la casación pendiente ante el Tribunal Supremo; no consta una resolución posterior del alto tribunal. La resolución del recurso de casación sigue sin acreditarse; no consta una sentencia firme ni el cierre de la causa.
-- No se presume que la situación descrita se mantenga en octubre de 2026: es la última información documentada. Cualquier cambio posterior (señalamiento, vista o sentencia del Supremo) queda pendiente de verificación.
-
-### Tribunal y origen
-- La instrucción correspondió al **Juzgado de Instrucción nº 8 de València**, con intervención de la **Fiscalía Anticorrupción**; el enjuiciamiento y la sentencia, a la **Sección Cuarta de la Audiencia Provincial de València**. No consta intervención de la Audiencia Nacional en esta causa.
-- El origen documental de la investigación está en el hallazgo casual de documentos intervenidos en el registro del despacho del abogado de Marcos Benavent (caso Imelsa); la UCO informó de ello por oficio el 11 de noviembre de 2015. No consta el día exacto en que el juzgado abrió las diligencias de Erial. La operación y las detenciones del 22 de mayo de 2018 son el primer acto documentado públicamente, sin que esa fecha equivalga al inicio procesal exacto.
-
-### Personas y roles
-- **Francisco Grau Jornet** no es un "presunto testaferro" sin más: la sentencia lo condena a 5 años por blanqueo como gestor financiero del patrimonio oculto de Zaplana. **Joaquín Miguel Barceló 'Pachano'** es el testaferro confeso, condenado por conformidad a 1 año y 3 meses. El "presunto pagador de comisiones" fue el entorno empresarial (hermanos Cotino), no Barceló.
-- **Juan Francisco García** fue condenado, no solo investigado. Existe una discrepancia de dos meses en su pena de prisión: la nota oficial del CGPJ indica 2 años y 11 meses y elDiario.es indica 2 años y 9 meses. Se reflejan ambas. La inhabilitación por prevaricación consta como 4 años y 5 meses.
-- **Fernando Belhot** no figura entre los condenados ni entre los absueltos expresamente citados. Su situación (acusación retirada a cambio de declarar) se recoge como alegación de la defensa en el recurso de casación, no como hecho declarado.
-No está acreditada una vinculación de José María Cataluña con el caso Erial.
-- Los cargos de los implicados se expresan como históricos o "ex" para no presentarlos como vigentes. Los roles distinguen condenados en primera instancia (no firmes), absueltos y personas fallecidas.
-
-### Sobre las cuantías (coste)
-Los 10.000.000 € corresponden a la estimación de las comisiones investigadas difundida en 2018, no a un perjuicio declarado judicialmente. El auto de apertura de juicio oral de 2022 cuantificaba en 20 millones de euros el dinero desviado y la Fiscalía solicitaba el decomiso de 20,6 millones; la sentencia impuso multas que superan los 25 millones. Estas cifras responden a conceptos distintos (comisiones, dinero desviado, decomiso y multas) y no deben sumarse entre sí.
-
-### Fechas de cronología retiradas o corregidas
-
-- La salida de prisión no fue el 16 de noviembre de 2018: fue el **7 de febrero de 2019**, tras 259 días. En noviembre y diciembre de 2018 Zaplana seguía interno (en el Hospital La Fe desde el 18 de diciembre).
-- La nota del CGPJ fecha el **11 de noviembre de 2024 la notificación** del auto que mantiene su libertad provisional, no su fecha propia, que queda pendiente de comprobar en el original. El 15 de octubre corresponde a la sentencia.
-- No se ha podido revalidar la fecha de 14 de septiembre de 2021 para la petición de 19 años de la Fiscalía (la URL de El Confidencial devuelve error 403); la petición consta documentada en octubre de 2022, tras el auto de procedimiento abreviado de junio de 2022.
-No cuentan con respaldo suficiente las referencias a un aplazamiento del juicio el 30 de junio de 2022 o a la continuación de la instrucción el 15 de enero de 2024.
-
-### Documento oficial y limitaciones de fuentes
-Está disponible el original de la **sentencia 560/2024, de 15 de octubre de 2024, ECLI:ES:APV:2024:1209**. La versión de CENDOJ tiene **181 páginas**; la nota del CGPJ cita 364, sin que se haya recuperado esa otra versión para cotejar su paginación. La sentencia consta de 181 páginas; los hechos relativos a Imarol figuran en las páginas 15–16 y el fallo y los recursos en las páginas 177–181. El bloqueo 403 del intento anterior queda superado. La fecha de generación del PDF en marzo de 2026 no es una nueva resolución.
-- Se sustituye el anterior seguimiento basado en índices de prensa de enero-febrero de 2026 por la crónica íntegra de EFE de 6 de septiembre de 2026. Sigue pendiente localizar una resolución original del Supremo.
-- La cabecera del PDF verifica el número 560/2024 y la fecha 15-10-2024; no se trasladan los pseudónimos del texto a nombres nominales ni se resuelven con ellos las discrepancias de penas o la contradicción denunciada por la defensa de Francisco Pérez López.
-
-## Documentación e información pendiente
-
-La primera aclara que no hubo pruebas incriminatorias suficientes sobre la participación de Zaplana y García en la adjudicación eólica a cambio de contraprestación; no se presenta la condena como si incluyera ese extremo. El juicio comenzó el 21 de marzo de 2024 y quedó visto para sentencia el 23 de mayo, según las crónicas contemporáneas de elDiario.es y Europa Press publicadas por Cadena SER.
-
-Se ha comprobado el nombramiento ministerial de Zaplana en el [Real Decreto 674/2002, de 9 de julio](https://boe.es/diario_boe/txt.php?id=BOE-A-2002-13577), publicado el 10 de julio, y su cese con continuidad en funciones en el [Real Decreto 449/2004, de 15 de marzo](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2004-4783), publicado el 16 de marzo.
-
-La [crónica de elDiario.es de 25 de octubre de 2024](https://www.eldiario.es/comunitat-valenciana/empresario-paco-gasofa-recurrira-supremo-sentencia-absuelve-condena-vez-caso-erial_1_11760156.html) documenta la solicitud de aclaración y el anuncio de casación de Francisco Pérez López. No se ha localizado respuesta judicial original; su situación no se equipara a una condena firme.
-
-La versión oficial del CENDOJ consta de 181 páginas. La sentencia no acredita por sí sola la firmeza o ejecución de las penas; no constan el desenlace de la casación ni las aclaraciones individuales pendientes. Las noticias de Levante de 2018 y 2019 no ofrecen textos accesibles que permitan corroborar íntegramente los detalles históricos atribuidos a ellas.

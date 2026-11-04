@@ -9,25 +9,24 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: En casación
 firmeza: No firme
 estado: activo
-descripcion: >-
-  La causa sobre el patrimonio de Rodrigo Rato, distinta de las tarjetas black y de la salida a bolsa de
-  Bankia, desembocó en una condena de la Audiencia Provincial de Madrid difundida el 20 de diciembre de 2024:
-  cuatro años, nueve meses y un día de prisión por tres delitos fiscales, blanqueo de capitales y corrupción
-  entre particulares. La Audiencia también dictó absoluciones, incluidas las correspondientes a ocho de los
-  once ejercicios fiscales imputados a Rato.
+descripcion: |-
+  La causa sobre el patrimonio de Rodrigo Rato, distinta de las tarjetas black y de la salida a bolsa de Bankia, desembocó en una condena de la Audiencia Provincial de Madrid difundida el 20 de diciembre de 2024: cuatro años, nueve meses y un día de prisión por tres delitos fiscales, blanqueo de capitales y corrupción entre particulares. La Audiencia también dictó absoluciones, incluidas las correspondientes a ocho de los once ejercicios fiscales imputados a Rato.
 
+  La nota oficial identifica multas superiores a dos millones de euros y el pago de 568.413 euros a Hacienda. También fueron condenados Domingo Plazas y Alberto Portuondo, con penas distintas, mientras que el resto de los acusados resultaron absueltos en los términos de la resolución. La cifra de coste recoge exclusivamente ese pago a Hacienda acordado en primera instancia, sin sumar multas, comiso ni responsabilidad solidaria.
 
-  La nota oficial identifica multas superiores a dos millones de euros y el pago de 568.413 euros a Hacienda.
-  También fueron condenados Domingo Plazas y Alberto Portuondo, con penas distintas, mientras que el resto de
-  los acusados resultaron absueltos en los términos de la resolución. La cifra de coste recoge exclusivamente
-  ese pago a Hacienda acordado en primera instancia, sin sumar multas, comiso ni responsabilidad solidaria.
+  La sentencia era recurrible. La prensa informó del anuncio del recurso en febrero de 2025 y de su presentación en mayo; en enero de 2026 aún describía la decisión del Supremo como pendiente. Información pendiente al 17 de octubre de 2026: no se ha recuperado la sentencia íntegra ni una resolución posterior de casación que permita certificar su resultado, firmeza o ejecución. El último estado localizado no acredita por sí solo que el recurso continuara pendiente en la fecha de corte.
 
+  La investigación se hizo pública con los [registros de abril de 2015](https://www.eldiario.es/economia/hacienda-registra-domicilio-rodrigo-rato_1_4275966.html). La referencia de la acusación a un patrimonio oculto desde 1999 no permite fechar el inicio de los hechos en el 1 de enero de ese año ni presentar todo el relato fiscal como hechos probados. Las cifras de cuentas suizas y el pago atribuido a Lazard carecen de corroboración suficiente.
 
-  La sentencia era recurrible. La prensa informó del anuncio del recurso en febrero de 2025 y de su
-  presentación en mayo; en enero de 2026 aún describía la decisión del Supremo como pendiente. Información
-  pendiente al 17 de octubre de 2026: no se ha recuperado la sentencia íntegra ni una resolución posterior de
-  casación que permita certificar su resultado, firmeza o ejecución. El último estado localizado no acredita
-  por sí solo que el recurso continuara pendiente en la fecha de corte.
+  El [auto de 24 de mayo de 2017](https://ep00.epimg.net/descargables/2017/05/29/fdd0a5dff2351094d8b7a70a2b53aec2.pdf) se limita a una pieza del atestado UCO 64/2017. Su sobreseimiento provisional no se extiende al conjunto del procedimiento. La fecha de creación o modificación del PDF en los días 26 y 29 de mayo tampoco cambia la fecha del acto judicial. Queda pendiente reconstruir los recursos y la evolución posterior de esa pieza concreta.
+
+  La [nota oficial del 20 de diciembre de 2024](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Provincial-condena-a-Rodrigo-Rato-a-cuatro-anos--nueve-meses-y-un-dia-de-carcel-) describe condenas y absoluciones. La información de [Europa Press de febrero de 2025](https://www.telecinco.es/noticias/espana/20250226/rodrigo-rato-recurrira-condena-delitos-fiscales-tribunal-supremo_18_014876833.html) identifica los ejercicios fiscales por los que se condenó a Rato (2006, 2013 y 2014) y los de absolución (2005, 2007, 2008, 2009, 2010, 2011, 2012 y 2015). Los nombres completos de los otros acusados se toman de [RTVE](https://www.rtve.es/noticias/20241220/audiencia-madrid-condena-rodrigo-rato-carcel/16380931.shtml), sin deducir identidades a partir de las iniciales de la nota judicial. También quedaron absueltos los empleados y las sociedades Publicis y Zenith y Plazas Abogados en los términos expuestos por el CGPJ. No se afirma firmeza de ninguna de estas decisiones sin conocer los recursos correspondientes.
+
+  Los 568.413 euros corresponden al pago a Hacienda acordado en primera instancia, aún sujeto al resultado de los recursos. No es el volumen del patrimonio investigado, ni la pretensión de la Fiscalía, ni una suma con las multas o el comiso de 2.022.154,52 euros. La responsabilidad solidaria de Plazas por dos delitos no se añade otra vez al total. No se acredita aquí el cobro o restitución efectiva.
+
+  La causa de las **tarjetas black** es independiente: la [confirmación de sus cuatro años y medio de prisión por el Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-de-Rodrigo-Rato-a-cuatro-anos-y-medio-de-prision-por-las--tarjetas-black-) se publicó el 3 de octubre de 2018, no el 23 de febrero de 2017. Su firmeza o su ejecución no se trasladan a la condena patrimonial de 2024. También es distinto el proceso por la salida a bolsa de Bankia.
+
+  La [presentación del recurso en mayo de 2025](https://rtvc.es/rato-recurre-tribunal-supremo-2-mayo-2025/) y la [información de enero de 2026](https://www.eldiario.es/politica/tribunales-deciden-2026-si-ingresan-carcel-tres-exministros-pp-psoe_1_12879009.html) son los últimos hitos aquí cotejados del recurso. Falta recuperar el original de la sentencia de 2024 y una comprobación primaria completa de la casación y eventual ejecución hasta el **17 de octubre de 2026**. No consta un cierre definitivo del procedimiento. El documento incorporado es únicamente el auto de la pieza COR Comunicación de 2017, no la sentencia de 2024. El original íntegro de la sentencia de 2024 continúa pendiente.
 resumen: Condena recurrida por tres delitos fiscales, blanqueo y corrupción entre particulares en la causa del
   patrimonio de Rodrigo Rato; desenlace del recurso sin acreditar.
 coste: 568413
@@ -122,15 +121,3 @@ cronologia:
   urls:
   - https://www.eldiario.es/politica/tribunales-deciden-2026-si-ingresan-carcel-tres-exministros-pp-psoe_1_12879009.html
 ---
-
-La investigación se hizo pública con los [registros de abril de 2015](https://www.eldiario.es/economia/hacienda-registra-domicilio-rodrigo-rato_1_4275966.html). La referencia de la acusación a un patrimonio oculto desde 1999 no permite fechar el inicio de los hechos en el 1 de enero de ese año ni presentar todo el relato fiscal como hechos probados. Las cifras de cuentas suizas y el pago atribuido a Lazard carecen de corroboración suficiente.
-
-El [auto de 24 de mayo de 2017](https://ep00.epimg.net/descargables/2017/05/29/fdd0a5dff2351094d8b7a70a2b53aec2.pdf) se limita a una pieza del atestado UCO 64/2017. Su sobreseimiento provisional no se extiende al conjunto del procedimiento. La fecha de creación o modificación del PDF en los días 26 y 29 de mayo tampoco cambia la fecha del acto judicial. Queda pendiente reconstruir los recursos y la evolución posterior de esa pieza concreta.
-
-La [nota oficial del 20 de diciembre de 2024](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Provincial-condena-a-Rodrigo-Rato-a-cuatro-anos--nueve-meses-y-un-dia-de-carcel-) describe condenas y absoluciones. La información de [Europa Press de febrero de 2025](https://www.telecinco.es/noticias/espana/20250226/rodrigo-rato-recurrira-condena-delitos-fiscales-tribunal-supremo_18_014876833.html) identifica los ejercicios fiscales por los que se condenó a Rato (2006, 2013 y 2014) y los de absolución (2005, 2007, 2008, 2009, 2010, 2011, 2012 y 2015). Los nombres completos de los otros acusados se toman de [RTVE](https://www.rtve.es/noticias/20241220/audiencia-madrid-condena-rodrigo-rato-carcel/16380931.shtml), sin deducir identidades a partir de las iniciales de la nota judicial. También quedaron absueltos los empleados y las sociedades Publicis y Zenith y Plazas Abogados en los términos expuestos por el CGPJ. No se afirma firmeza de ninguna de estas decisiones sin conocer los recursos correspondientes.
-
-Los 568.413 euros corresponden al pago a Hacienda acordado en primera instancia, aún sujeto al resultado de los recursos. No es el volumen del patrimonio investigado, ni la pretensión de la Fiscalía, ni una suma con las multas o el comiso de 2.022.154,52 euros. La responsabilidad solidaria de Plazas por dos delitos no se añade otra vez al total. No se acredita aquí el cobro o restitución efectiva.
-
-La causa de las **tarjetas black** es independiente: la [confirmación de sus cuatro años y medio de prisión por el Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-de-Rodrigo-Rato-a-cuatro-anos-y-medio-de-prision-por-las--tarjetas-black-) se publicó el 3 de octubre de 2018, no el 23 de febrero de 2017. Su firmeza o su ejecución no se trasladan a la condena patrimonial de 2024. También es distinto el proceso por la salida a bolsa de Bankia.
-
-La [presentación del recurso en mayo de 2025](https://rtvc.es/rato-recurre-tribunal-supremo-2-mayo-2025/) y la [información de enero de 2026](https://www.eldiario.es/politica/tribunales-deciden-2026-si-ingresan-carcel-tres-exministros-pp-psoe_1_12879009.html) son los últimos hitos aquí cotejados del recurso. Falta recuperar el original de la sentencia de 2024 y una comprobación primaria completa de la casación y eventual ejecución hasta el **17 de octubre de 2026**. No consta un cierre definitivo del procedimiento. El documento incorporado es únicamente el auto de la pieza COR Comunicación de 2017, no la sentencia de 2024. El original íntegro de la sentencia de 2024 continúa pendiente.

@@ -9,15 +9,16 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas y archivo parcial
 lugar: Lugo, Galicia
-descripcion: Pieza de Pokémon sobre la adjudicación del servicio municipal de grúa a Cechalva. El 24 de junio de
-  2024 los once acusados ratificaron una conformidad ante la Audiencia de Lugo. Según EFE y Europa Press, Francisco
-  Fernández Liñares aceptó dos años y seis meses de prisión y 105.000 euros de multa por delitos de violación de
-  secretos, cohecho, prevaricación y blanqueo; las penas de los restantes acusados fueron distintas. José López
-  Orozco había obtenido el sobreseimiento provisional en esta pieza, conocido en septiembre de 2018, y no forma
-  parte de esas condenas. No se han recuperado los originales de la sentencia de conformidad y del archivo para
-  cotejar íntegramente penas, firmeza, responsabilidades civiles o ejecución hasta el corte del 17 de octubre de
-  2026. La presencia de Liñares en prisión al celebrarse la vista respondía a otra causa; no acredita por sí misma
-  el cumplimiento de esta condena. No hay daño global cuantificado verificado.
+descripcion: |-
+  Pieza de Pokémon sobre la adjudicación del servicio municipal de grúa a Cechalva. El 24 de junio de 2024 los once acusados ratificaron una conformidad ante la Audiencia de Lugo. Según EFE y Europa Press, Francisco Fernández Liñares aceptó dos años y seis meses de prisión y 105.000 euros de multa por delitos de violación de secretos, cohecho, prevaricación y blanqueo; las penas de los restantes acusados fueron distintas. José López Orozco había obtenido el sobreseimiento provisional en esta pieza, conocido en septiembre de 2018, y no forma parte de esas condenas. No se han recuperado los originales de la sentencia de conformidad y del archivo para cotejar íntegramente penas, firmeza, responsabilidades civiles o ejecución hasta el corte del 17 de octubre de 2026. La presencia de Liñares en prisión al celebrarse la vista respondía a otra causa; no acredita por sí misma el cumplimiento de esta condena. No hay daño global cuantificado verificado.
+
+  La [información de 2021](https://www.europapress.es/galicia/noticia-concluye-investigacion-pieza-principal-pokemon-causa-cuenta-13-sospechosos-ellos-linares-20211007164017.html) sitúa la adjudicación en 2005 y describe indicios de acceso anticipado a información, pagos y una contabilidad B. Las cifras de comisiones recogidas en aquel auto de instrucción no equivalen a un daño patrimonial declarado en sentencia. Los 500.000 euros no cuentan con respaldo verificable como daño. Los períodos 2004–2006 se mantienen como marco referido en prensa del juicio, sin inventar un día inicial.
+
+  La [noticia del acuerdo de 2023](https://www.europapress.es/galicia/noticia-11-acusados-pieza-principal-pokemon-llegan-acuerdo-fiscalia-rebaja-penas-20231110160321.html) y la [ratificación de 2024](https://cadenaser.com/galicia/2024/06/24/linares-y-otros-diez-procesados-en-la-pokemon-reconocen-hechos-a-cambio-de-rebajas-de-pena-radio-lugo/) son actos distintos. La [crónica de Europa Press](https://lugoxornal.gal/lugo-contorna/65280-penas-de-prision-inferiores-a-tres-anos-para-os-imputados-na-peza-orixinal-da-operacion-pokemon/) identifica condenas diferentes para Liñares, Reguera, Santiso y los restantes acusados. No se reconstruyen nombres a partir de iniciales de otros implicados. Tampoco se asigna automáticamente a cada persona el conjunto de delitos de todos los acusados. El original judicial sigue siendo necesario para verificar el desglose completo, las inhabilitaciones y las personas jurídicas.
+
+  El [archivo provisional de Orozco](https://elpais.com/ccaa/2018/09/27/galicia/1538071472_147503.html) no es una absolución tras juicio ni una condena. La falta de corroboración de una declaración de referencia fue central en la resolución descrita por el periódico. Sus otras investigaciones no se trasladan a la grúa.
+
+  La [información de septiembre de 2026](https://galego.lavozdegalicia.es/noticia/lugo/2026/09/02/fernandez-linares-unico-politico-encarcelado-operacion-pokemon-disfruta-permisos-pese-rechazo-fiscalia/00031788355382068357769.htm) sobre permisos de Liñares solo ofrece acceso al encabezamiento y comienzo del texto, con el resto bajo suscripción. No permite documentar aquí la liquidación de condenas de esta pieza, su acumulación o suspensión individual. Las condenas por la Confederación Hidrográfica Miño-Sil y otras ramas de Pokémon son distintas. Las previsiones de las defensas sobre suspensiones no se presentan como decisiones judiciales ya adoptadas.
 resumen: Conformidad de 2024 por la grúa de Lugo; sobreseimiento provisional previo para Orozco, con resultados
   individuales diferenciados.
 tribunal:
@@ -85,11 +86,3 @@ cronologia:
   type: juicio
   relevancia: alta
 ---
-
-La [información de 2021](https://www.europapress.es/galicia/noticia-concluye-investigacion-pieza-principal-pokemon-causa-cuenta-13-sospechosos-ellos-linares-20211007164017.html) sitúa la adjudicación en 2005 y describe indicios de acceso anticipado a información, pagos y una contabilidad B. Las cifras de comisiones recogidas en aquel auto de instrucción no equivalen a un daño patrimonial declarado en sentencia. Los 500.000 euros no cuentan con respaldo verificable como daño. Los períodos 2004–2006 se mantienen como marco referido en prensa del juicio, sin inventar un día inicial.
-
-La [noticia del acuerdo de 2023](https://www.europapress.es/galicia/noticia-11-acusados-pieza-principal-pokemon-llegan-acuerdo-fiscalia-rebaja-penas-20231110160321.html) y la [ratificación de 2024](https://cadenaser.com/galicia/2024/06/24/linares-y-otros-diez-procesados-en-la-pokemon-reconocen-hechos-a-cambio-de-rebajas-de-pena-radio-lugo/) son actos distintos. La [crónica de Europa Press](https://lugoxornal.gal/lugo-contorna/65280-penas-de-prision-inferiores-a-tres-anos-para-os-imputados-na-peza-orixinal-da-operacion-pokemon/) identifica condenas diferentes para Liñares, Reguera, Santiso y los restantes acusados. No se reconstruyen nombres a partir de iniciales de otros implicados. Tampoco se asigna automáticamente a cada persona el conjunto de delitos de todos los acusados. El original judicial sigue siendo necesario para verificar el desglose completo, las inhabilitaciones y las personas jurídicas.
-
-El [archivo provisional de Orozco](https://elpais.com/ccaa/2018/09/27/galicia/1538071472_147503.html) no es una absolución tras juicio ni una condena. La falta de corroboración de una declaración de referencia fue central en la resolución descrita por el periódico. Sus otras investigaciones no se trasladan a la grúa.
-
-La [información de septiembre de 2026](https://galego.lavozdegalicia.es/noticia/lugo/2026/09/02/fernandez-linares-unico-politico-encarcelado-operacion-pokemon-disfruta-permisos-pese-rechazo-fiscalia/00031788355382068357769.htm) sobre permisos de Liñares solo ofrece acceso al encabezamiento y comienzo del texto, con el resto bajo suscripción. No permite documentar aquí la liquidación de condenas de esta pieza, su acumulación o suspensión individual. Las condenas por la Confederación Hidrográfica Miño-Sil y otras ramas de Pokémon son distintas. Las previsiones de las defensas sobre suspensiones no se presentan como decisiones judiciales ya adoptadas.

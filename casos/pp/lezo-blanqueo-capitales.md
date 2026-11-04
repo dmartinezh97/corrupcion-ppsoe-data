@@ -10,44 +10,36 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: desconocido
-descripcion: 'La pieza separada nº 5 de Lezo investiga la posible ocultación y posterior afloramiento de fondos
-  de procedencia ilícita. Se formó por auto de 11 de mayo de 2017 dentro de las diligencias previas 91/2016 del
-  Juzgado Central de Instrucción nº 6 de la Audiencia Nacional, cuya incoación se remonta al 15 de julio de 2016.
-  Es distinta de las piezas de la compra de Emissao, el campo de golf del Canal de Isabel II y el tren de Navalcarnero,
-  aunque comparte personas y antecedentes financieros con ellas.
+descripcion: |-
+  La pieza separada nº 5 de Lezo investiga la posible ocultación y posterior afloramiento de fondos de procedencia ilícita. Se formó por auto de 11 de mayo de 2017 dentro de las diligencias previas 91/2016 del Juzgado Central de Instrucción nº 6 de la Audiencia Nacional, cuya incoación se remonta al 15 de julio de 2016. Es distinta de las piezas de la compra de Emissao, el campo de golf del Canal de Isabel II y el tren de Navalcarnero, aunque comparte personas y antecedentes financieros con ellas.
 
+  La última resolución específica íntegra localizada es el auto de 4 de mayo de 2022, firmado por Joaquín Elías Gadea Francés y difundido por la prensa el día 5. Acordó continuar por procedimiento abreviado contra Ildefonso de Miguel Rodríguez, director gerente del Canal entre 2003 y 2009, por un presunto delito de blanqueo. El auto recoge indicios de que dispuso entre 1999 y 2008 de al menos 3.825.179,09 euros en cuentas extranjeras de procedencia lícita no acreditada, y de que entre 2011 y 2014 realizó operaciones para introducir fondos en España mediante sociedades, préstamos presuntamente simulados e inversiones. Describe conexiones con Guernsey, Liechtenstein, Suiza, Panamá y un grupo inversor luxemburgués. Son atribuciones de la instrucción, no hechos declarados probados en sentencia.
 
-  La última resolución específica íntegra localizada es el auto de 4 de mayo de 2022, firmado por Joaquín Elías
-  Gadea Francés y difundido por la prensa el día 5. Acordó continuar por procedimiento abreviado contra Ildefonso
-  de Miguel Rodríguez, director gerente del Canal entre 2003 y 2009, por un presunto delito de blanqueo. El auto
-  recoge indicios de que dispuso entre 1999 y 2008 de al menos 3.825.179,09 euros en cuentas extranjeras de procedencia
-  lícita no acreditada, y de que entre 2011 y 2014 realizó operaciones para introducir fondos en España mediante
-  sociedades, préstamos presuntamente simulados e inversiones. Describe conexiones con Guernsey, Liechtenstein,
-  Suiza, Panamá y un grupo inversor luxemburgués. Son atribuciones de la instrucción, no hechos declarados probados
-  en sentencia.
+  El mismo auto recoge el sobreseimiento provisional, conforme al artículo 641.2 de la Ley de Enjuiciamiento Criminal, respecto de Jaime Ignacio González González, Lourdes Cavero Mestre, Carmen Pilar Pazos Bejerano y Concepción Ruano Puente. La Fiscalía había solicitado esos archivos por falta de indicios suficientes de su participación en las operaciones de blanqueo. No se trata de una absolución tras juicio ni de una declaración de firmeza. La prensa había informado en abril de 2021 del archivo por insuficiencia de indicios de otra investigación por blanqueo contra Pablo Manuel González González; ese archivo no debe trasladarse a los hechos de Canal Golf. Edmundo Rodríguez Sobrino figuraba entre los investigados iniciales de blanqueo en 2017, pero no se ha localizado aquí la resolución individual que delimite su salida o situación posterior en esta pieza.
 
+  El auto de 2022 abrió el trámite para que las acusaciones solicitaran juicio oral, archivo o diligencias complementarias; no abrió por sí mismo el juicio. Admitía recurso de reforma y ordenaba incorporar un informe de la UCO y una respuesta suiza a una comisión rogatoria. Al 15 de octubre de 2026 no se han localizado una resolución posterior específica de apertura de juicio, sentencia, acumulación a otra pieza o firmeza que permita actualizar con certeza la situación de esta pieza y de cada persona. Los juicios de otras ramas de Lezo no acreditan el desenlace de la pieza 5.
 
-  El mismo auto recoge el sobreseimiento provisional, conforme al artículo 641.2 de la Ley de Enjuiciamiento Criminal,
-  respecto de Jaime Ignacio González González, Lourdes Cavero Mestre, Carmen Pilar Pazos Bejerano y Concepción Ruano
-  Puente. La Fiscalía había solicitado esos archivos por falta de indicios suficientes de su participación en las
-  operaciones de blanqueo. No se trata de una absolución tras juicio ni de una declaración de firmeza. La prensa
-  había informado en abril de 2021 del archivo por insuficiencia de indicios de otra investigación por blanqueo
-  contra Pablo Manuel González González; ese archivo no debe trasladarse a los hechos de Canal Golf. Edmundo Rodríguez
-  Sobrino figuraba entre los investigados iniciales de blanqueo en 2017, pero no se ha localizado aquí la resolución
-  individual que delimite su salida o situación posterior en esta pieza.
+  No se fija un perjuicio público total. Los 3.825.179,09 euros son fondos examinados indiciariamente en esta pieza; los préstamos, transferencias, cuotas tributarias y posibles comisiones citados en la documentación no pueden sumarse como cantidades independientes. Los 23,3 millones divulgados en las noticias iniciales de Lezo correspondían a la operación Emissao y no constituyen una cuantía acreditada de blanqueo o daño de esta pieza.
 
+  ### Alcance de la pieza
 
-  El auto de 2022 abrió el trámite para que las acusaciones solicitaran juicio oral, archivo o diligencias complementarias;
-  no abrió por sí mismo el juicio. Admitía recurso de reforma y ordenaba incorporar un informe de la UCO y una respuesta
-  suiza a una comisión rogatoria. Al 15 de octubre de 2026 no se han localizado una resolución posterior específica
-  de apertura de juicio, sentencia, acumulación a otra pieza o firmeza que permita actualizar con certeza la situación
-  de esta pieza y de cada persona. Los juicios de otras ramas de Lezo no acreditan el desenlace de la pieza 5.
+  La pieza 5 se formó el 11 de mayo de 2017 para investigar posibles operaciones de blanqueo dentro de Lezo. Comparte antecedentes con Canal Golf y Navalcarnero, pero sus resultados deben distinguirse de los delitos atribuidos por las adjudicaciones y de las compras internacionales del Canal. La cifra de 23,3 millones de euros de las primeras noticias se refería a Emissao, no a una cuantificación de esta pieza.
 
+  El auto de mayo de 2022 recoge un relato indiciario sobre Ildefonso de Miguel entre 1999 y 2014. Examina cuentas y sociedades como Surtain Trading, Sparklingwater Management y la fundación Brillas Stiftung, así como préstamos e inversiones para disponer de fondos en España. Los movimientos entre cuentas y los importes de origen y destino pueden corresponder al mismo dinero: no deben sumarse como si fueran pérdidas independientes.
 
-  No se fija un perjuicio público total. Los 3.825.179,09 euros son fondos examinados indiciariamente en esta pieza;
-  los préstamos, transferencias, cuotas tributarias y posibles comisiones citados en la documentación no pueden
-  sumarse como cantidades independientes. Los 23,3 millones divulgados en las noticias iniciales de Lezo correspondían
-  a la operación Emissao y no constituyen una cuantía acreditada de blanqueo o daño de esta pieza.'
+  ### Decisiones individuales
+
+  El dictamen fiscal de 3 de mayo de 2022 pidió continuar por blanqueo contra De Miguel y sobreseer provisionalmente respecto de cuatro personas. El auto del día siguiente recoge esa separación. La falta de indicios suficientes de operaciones de blanqueo de González, Cavero, Pazos y Ruano no equivale a una absolución tras juicio, pero impide presentarlos como destinatarios del procedimiento abreviado acordado contra De Miguel.
+
+  La información de 2021 sobre el archivo de una investigación por blanqueo de Pablo González se limita a esa atribución. El auto de 2022 no contiene un pronunciamiento nominal sobre Edmundo Rodríguez Sobrino, que aparecía en la relación inicial de investigados de 2017; no se deduce su situación individual de sus procedimientos en otras piezas.
+
+  ### Estado acreditado y límites
+
+  El auto de 4 de mayo de 2022 aplica el trámite de preparación del juicio oral, con traslado a las acusaciones. No constituye una apertura de juicio ni una condena. Su parte dispositiva establece treinta días para que las acusaciones actúen, pese a que el fundamento jurídico reproduce el plazo general de diez días. También prevé incorporar diligencias y una respuesta suiza pendientes.
+
+  No se han localizado al corte del 15 de octubre de 2026 los escritos posteriores, una resolución específica de apertura de juicio, una sentencia o una decisión de acumulación que permita cerrar la evolución de esta pieza. Tampoco se afirma la firmeza de los archivos por ausencia de noticias.
+
+  El auto y el dictamen mencionan cuotas tributarias por 1.517.027,87 euros y seis posibles delitos fiscales ya prescritos al incoarse la causa, por los que no se formuló acusación. Ese importe no es una condena tributaria ni un coste agregado de blanqueo. Los fondos investigados, sus rendimientos, préstamos y comisiones procedentes de otras piezas conservan categorías y alcances diferentes.
 resumen: 'Pieza 5 de Lezo: procedimiento abreviado contra Ildefonso de Miguel y archivos provisionales individuales
   en 2022; sin desenlace posterior específico acreditado.'
 lugar: Madrid; operaciones financieras en Guernsey, Liechtenstein, Suiza, Panamá y Luxemburgo
@@ -194,23 +186,3 @@ cronologia:
     type: documento
     relevancia: media
 ---
-
-## Alcance de la pieza
-
-La pieza 5 se formó el 11 de mayo de 2017 para investigar posibles operaciones de blanqueo dentro de Lezo. Comparte antecedentes con Canal Golf y Navalcarnero, pero sus resultados deben distinguirse de los delitos atribuidos por las adjudicaciones y de las compras internacionales del Canal. La cifra de 23,3 millones de euros de las primeras noticias se refería a Emissao, no a una cuantificación de esta pieza.
-
-El auto de mayo de 2022 recoge un relato indiciario sobre Ildefonso de Miguel entre 1999 y 2014. Examina cuentas y sociedades como Surtain Trading, Sparklingwater Management y la fundación Brillas Stiftung, así como préstamos e inversiones para disponer de fondos en España. Los movimientos entre cuentas y los importes de origen y destino pueden corresponder al mismo dinero: no deben sumarse como si fueran pérdidas independientes.
-
-## Decisiones individuales
-
-El dictamen fiscal de 3 de mayo de 2022 pidió continuar por blanqueo contra De Miguel y sobreseer provisionalmente respecto de cuatro personas. El auto del día siguiente recoge esa separación. La falta de indicios suficientes de operaciones de blanqueo de González, Cavero, Pazos y Ruano no equivale a una absolución tras juicio, pero impide presentarlos como destinatarios del procedimiento abreviado acordado contra De Miguel.
-
-La información de 2021 sobre el archivo de una investigación por blanqueo de Pablo González se limita a esa atribución. El auto de 2022 no contiene un pronunciamiento nominal sobre Edmundo Rodríguez Sobrino, que aparecía en la relación inicial de investigados de 2017; no se deduce su situación individual de sus procedimientos en otras piezas.
-
-## Estado acreditado y límites
-
-El auto de 4 de mayo de 2022 aplica el trámite de preparación del juicio oral, con traslado a las acusaciones. No constituye una apertura de juicio ni una condena. Su parte dispositiva establece treinta días para que las acusaciones actúen, pese a que el fundamento jurídico reproduce el plazo general de diez días. También prevé incorporar diligencias y una respuesta suiza pendientes.
-
-No se han localizado al corte del 15 de octubre de 2026 los escritos posteriores, una resolución específica de apertura de juicio, una sentencia o una decisión de acumulación que permita cerrar la evolución de esta pieza. Tampoco se afirma la firmeza de los archivos por ausencia de noticias.
-
-El auto y el dictamen mencionan cuotas tributarias por 1.517.027,87 euros y seis posibles delitos fiscales ya prescritos al incoarse la causa, por los que no se formuló acusación. Ese importe no es una condena tributaria ni un coste agregado de blanqueo. Los fondos investigados, sus rendimientos, préstamos y comisiones procedentes de otras piezas conservan categorías y alcances diferentes.

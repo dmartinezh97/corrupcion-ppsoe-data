@@ -9,32 +9,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Procesamiento documentado; fase posterior pendiente de verificar
-descripcion: >-
-  El caso Acuamed u Operación Frontino investiga la adjudicación y ejecución presuntamente irregular de obras
-  de la sociedad estatal Aguas de las Cuencas Mediterráneas. La nota oficial del CGPJ de 25 de abril de 2023
-  comunicó el procesamiento de 42 personas por posibles delitos de corrupción en los negocios, falsedad
-  documental, fraude a la Administración, prevaricación, malversación y cohecho. Abordaba una veintena de
-  obras y también el uso de fondos de un crédito del BEI. El procesamiento aprecia indicios, no declara
-  culpabilidad.
+descripcion: |-
+  El caso Acuamed u Operación Frontino investiga la adjudicación y ejecución presuntamente irregular de obras de la sociedad estatal Aguas de las Cuencas Mediterráneas. La nota oficial del CGPJ de 25 de abril de 2023 comunicó el procesamiento de 42 personas por posibles delitos de corrupción en los negocios, falsedad documental, fraude a la Administración, prevaricación, malversación y cohecho. Abordaba una veintena de obras y también el uso de fondos de un crédito del BEI. El procesamiento aprecia indicios, no declara culpabilidad.
 
+  Los hechos atribuidos incluyen dádivas y modificaciones de informes, certificaciones o liquidaciones para favorecer a contratistas. Deben distinguirse los contratos y sus importes, los regalos investigados, el dinero intervenido y las fianzas de un perjuicio declarado en sentencia. La cifra de 20 millones de euros no está acreditada como perjuicio, y el crédito del BEI de hasta 500 millones no equivale a daño. La eventual resolución de reclamaciones contractuales o arbitrajes tampoco resuelve por sí misma la responsabilidad penal.
 
-  Los hechos atribuidos incluyen dádivas y modificaciones de informes, certificaciones o liquidaciones para
-  favorecer a contratistas. Deben distinguirse los contratos y sus importes, los regalos investigados, el
-  dinero intervenido y las fianzas de un perjuicio declarado en sentencia. La cifra de 20 millones de euros no
-  está acreditada como perjuicio, y el crédito del BEI de hasta 500 millones no equivale a daño. La eventual
-  resolución de reclamaciones contractuales o arbitrajes tampoco resuelve por sí misma la responsabilidad
-  penal.
+  La situación no es común a todos los investigados: se documentan archivos respecto de Federico Ramos y Liana Ardiles en 2016, y sobreseimientos provisionales de Luis Castilla y Justo Vicente Pelegrini en 2020, con confirmación en apelación del de Castilla conocida en febrero de 2021. En diciembre de 2023 la prensa informó de resoluciones de recursos contra el procesamiento de otros encausados. El Debate, en septiembre de 2025, describió la instrucción como cerrada desde marzo y el juicio sin fecha, pero faltan el auto de conclusión y la apertura de juicio oral para precisar esa fase. Las referencias periodísticas de enero de 2026 no cuentan con corroboración suficiente. No se acredita el estado posterior hasta el 15 de octubre de 2026, una sentencia ni la evolución individual completa de los 42 procesados. No se presume firmeza, continuidad sin juicio ni archivo general.
 
+  La [nota oficial del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-de-la-Audiencia-Nacional-procesa-a-42-personas-por-la-adjudicacion-y-ejecucion-irregular-de-obras-hidraulicas-y-medioambientales-en-el--caso-Acuamed-) enumera actuaciones en Murcia, Almería, Valencia, Alicante y Tarragona. También describe indicios relativos a inversiones financieras efectuadas con un crédito del BEI. El importe máximo de financiación, el precio de los contratos y las dádivas investigadas no son magnitudes sumables como daño público. Tampoco se atribuyen todos los hechos a todas las personas.
 
-  La situación no es común a todos los investigados: se documentan archivos respecto de Federico Ramos y Liana
-  Ardiles en 2016, y sobreseimientos provisionales de Luis Castilla y Justo Vicente Pelegrini en 2020, con
-  confirmación en apelación del de Castilla conocida en febrero de 2021. En diciembre de 2023 la prensa
-  informó de resoluciones de recursos contra el procesamiento de otros encausados. El Debate, en septiembre de
-  2025, describió la instrucción como cerrada desde marzo y el juicio sin fecha, pero faltan el auto de
-  conclusión y la apertura de juicio oral para precisar esa fase. Las referencias periodísticas de enero de
-  2026 no cuentan con corroboración suficiente. No se acredita el estado posterior hasta el 15 de octubre de
-  2026, una sentencia ni la evolución individual completa de los 42 procesados. No se presume firmeza,
-  continuidad sin juicio ni archivo general.
+  Los [archivos de Ramos y Ardiles](https://elpais.com/politica/2016/10/26/actualidad/1477485201_973017.html?outputType=amp), el [sobreseimiento provisional de Justo Vicente](https://www.expansion.com/empresas/2020/12/20/5fdfabbf468aeb674e8b46ad.html) y la [confirmación del de Castilla](https://www.libertaddigital.com/espana/2021-02-13/caso-acuamed-agoniza-audiencia-nacional-exonera-imputado-contra-criterio-anticorrupcion-6708268/) se delimitan individualmente. La mención a Miguel Arias Cañete en declaraciones de terceros no permite atribuirle condición de procesado, por lo que no se incluye entre los implicados penales de esta relación. Esta no es una lista exhaustiva de los 42 procesados.
+
+  La [información de diciembre de 2023](https://www.vozpopuli.com/espana/audiencia-recursos-acuamed-banquillo-malversacion.html) describe recursos contra el procesamiento. La [referencia de septiembre de 2025](https://www.eldebate.com/espana/20250908/acciona-pago-contrato-campana-publicitaria-programa-agua-zapatero-narbona_331014_amp.html) al cierre de instrucción no sustituye los autos necesarios para diferenciar conclusión de sumario, confirmación y apertura de juicio oral. No se trasladan a esta causa las imputaciones del caso Azud, aunque aparezca allí un antiguo directivo de Acuamed, ni otros litigios de explotación de infraestructuras. La clasificación por partido responde al periodo y contexto institucional investigado, sin imputar responsabilidad penal a una formación.
+
+  Faltan los originales judiciales y la situación posterior de cada pieza y persona hasta el corte. Por ello no se afirma que se haya celebrado juicio, que exista condena o que el procedimiento continúe exactamente como lo describían las noticias anteriores.
 resumen: Presuntas irregularidades en contratos y fondos de Acuamed; procesamiento de 42 personas y archivos individuales
   diferenciados.
 lugar: 'España: obras en la cuenca mediterránea y otras actuaciones investigadas'
@@ -205,11 +193,3 @@ cronologia:
   type: investigacion
   relevancia: media
 ---
-
-La [nota oficial del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-de-la-Audiencia-Nacional-procesa-a-42-personas-por-la-adjudicacion-y-ejecucion-irregular-de-obras-hidraulicas-y-medioambientales-en-el--caso-Acuamed-) enumera actuaciones en Murcia, Almería, Valencia, Alicante y Tarragona. También describe indicios relativos a inversiones financieras efectuadas con un crédito del BEI. El importe máximo de financiación, el precio de los contratos y las dádivas investigadas no son magnitudes sumables como daño público. Tampoco se atribuyen todos los hechos a todas las personas.
-
-Los [archivos de Ramos y Ardiles](https://elpais.com/politica/2016/10/26/actualidad/1477485201_973017.html?outputType=amp), el [sobreseimiento provisional de Justo Vicente](https://www.expansion.com/empresas/2020/12/20/5fdfabbf468aeb674e8b46ad.html) y la [confirmación del de Castilla](https://www.libertaddigital.com/espana/2021-02-13/caso-acuamed-agoniza-audiencia-nacional-exonera-imputado-contra-criterio-anticorrupcion-6708268/) se delimitan individualmente. La mención a Miguel Arias Cañete en declaraciones de terceros no permite atribuirle condición de procesado, por lo que no se incluye entre los implicados penales de esta relación. Esta no es una lista exhaustiva de los 42 procesados.
-
-La [información de diciembre de 2023](https://www.vozpopuli.com/espana/audiencia-recursos-acuamed-banquillo-malversacion.html) describe recursos contra el procesamiento. La [referencia de septiembre de 2025](https://www.eldebate.com/espana/20250908/acciona-pago-contrato-campana-publicitaria-programa-agua-zapatero-narbona_331014_amp.html) al cierre de instrucción no sustituye los autos necesarios para diferenciar conclusión de sumario, confirmación y apertura de juicio oral. No se trasladan a esta causa las imputaciones del caso Azud, aunque aparezca allí un antiguo directivo de Acuamed, ni otros litigios de explotación de infraestructuras. La clasificación por partido responde al periodo y contexto institucional investigado, sin imputar responsabilidad penal a una formación.
-
-Faltan los originales judiciales y la situación posterior de cada pieza y persona hasta el corte. Por ello no se afirma que se haya celebrado juicio, que exista condena o que el procedimiento continúe exactamente como lo describían las noticias anteriores.

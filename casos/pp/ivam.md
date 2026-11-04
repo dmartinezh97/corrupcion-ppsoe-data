@@ -9,38 +9,32 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condena y absolución en piezas distintas
-descripcion: 'La investigación sobre la gestión del Institut Valencià d’Art Modern por Consuelo Císcar, directora
-  entre 2004 y su cese del 29 de abril de 2014, dio lugar a procedimientos distintos. No se atribuye un resultado
-  único a toda la gestión del museo ni se trasladan al IVAM las condenas del caso Cooperación.
+descripcion: |-
+  La investigación sobre la gestión del Institut Valencià d’Art Modern por Consuelo Císcar, directora entre 2004 y su cese del 29 de abril de 2014, dio lugar a procedimientos distintos. No se atribuye un resultado único a toda la gestión del museo ni se trasladan al IVAM las condenas del caso Cooperación.
 
+  En la pieza sobre la promoción artística de su hijo Rafael Blasco Císcar, conocido como Rablaci, la Sección Cuarta de la Audiencia de Valencia dictó una sentencia de conformidad el 30 de julio de 2021. Según EFE, condenó a Císcar por prevaricación administrativa continuada y malversación a un año y seis meses de prisión; la pena de prisión quedó suspendida bajo condiciones. Juan Carlos Lledó fue condenado a un año como cooperador necesario de prevaricación y malversación, y Enrique Martínez Murillo a un año por malversación y dos meses y quince días por falsedad mercantil, sustituidos por multa en este último delito. Pilar Mundina fue absuelta de prevaricación y malversación. Las noticias calificaron la sentencia de firme; falta su original y la ejecutoria para comprobar el alcance de cada inhabilitación, las condiciones de suspensión y su cumplimiento. Las noticias discrepan internamente entre dos y veinte meses para el pago.
 
-  En la pieza sobre la promoción artística de su hijo Rafael Blasco Císcar, conocido como Rablaci, la Sección Cuarta
-  de la Audiencia de Valencia dictó una sentencia de conformidad el 30 de julio de 2021. Según EFE, condenó a Císcar
-  por prevaricación administrativa continuada y malversación a un año y seis meses de prisión; la pena de prisión
-  quedó suspendida bajo condiciones. Juan Carlos Lledó fue condenado a un año como cooperador necesario de prevaricación
-  y malversación, y Enrique Martínez Murillo a un año por malversación y dos meses y quince días por falsedad mercantil,
-  sustituidos por multa en este último delito. Pilar Mundina fue absuelta de prevaricación y malversación. Las noticias
-  calificaron la sentencia de firme; falta su original y la ejecutoria para comprobar el alcance de cada inhabilitación,
-  las condiciones de suspensión y su cumplimiento. Las noticias discrepan internamente entre dos y veinte meses
-  para el pago.
+  Los tres condenados debían indemnizar conjunta y solidariamente al IVAM con 50.000 euros por los fondos públicos desviados y 25.000 por el daño reputacional. Los 75.000 euros son el total de esa responsabilidad civil, no una multa personal de Císcar ni un pago que por sí solo sustituya la prisión. La consignación previa de 18.974 euros y las estimaciones superiores a 150.000 euros sobre gastos de promoción no se suman al importe de la sentencia; no se ha verificado la liquidación final. La prensa describió un sobreseimiento provisional respecto de Rablaci, no una condena al beneficiario de la promoción.
 
+  En la pieza sobre obras de Gerardo Rueda, la Sección Quinta absolvió a Císcar, Lledó y José Luis Rueda mediante la sentencia 603/2021 de 16 de diciembre, notificada el día 17. El tribunal consideró auténticas las reproducciones póstumas autorizadas y descartó el engaño y la intención defraudatoria; no consideró perjudicial el precio pagado. Fueron ocho esculturas adquiridas por unos 2,9 millones de euros y otras 90 obras donadas, no una compra de esculturas falsas acreditada judicialmente. El porcentaje de sobreprecio de hasta el 1.520% de la auditoría histórica no es una conclusión de esta sentencia sobre Rueda. El fallo permitía casación ante el Supremo; no se ha acreditado aquí su posterior firmeza o resultado de recursos. Esta ficha y Obras de arte describen estas mismas piezas: sus importes y resultados no son casos adicionales acumulables.
 
-  Los tres condenados debían indemnizar conjunta y solidariamente al IVAM con 50.000 euros por los fondos públicos
-  desviados y 25.000 por el daño reputacional. Los 75.000 euros son el total de esa responsabilidad civil, no una
-  multa personal de Císcar ni un pago que por sí solo sustituya la prisión. La consignación previa de 18.974 euros
-  y las estimaciones superiores a 150.000 euros sobre gastos de promoción no se suman al importe de la sentencia;
-  no se ha verificado la liquidación final. La prensa describió un sobreseimiento provisional respecto de Rablaci,
-  no una condena al beneficiario de la promoción.
+  ### Procedimientos compartidos con Obras de arte
 
+  Esta ficha y [Obras de arte](/casos/pp/obras-de-arte/) describen actuaciones de la misma investigación del IVAM. La condena por promoción y la absolución por adquisiciones de Rueda no representan procedimientos adicionales por aparecer en ambas páginas. La indemnización de la primera pieza no se duplica ni se agrega al precio de las esculturas de la segunda.
 
-  En la pieza sobre obras de Gerardo Rueda, la Sección Quinta absolvió a Císcar, Lledó y José Luis Rueda mediante
-  la sentencia 603/2021 de 16 de diciembre, notificada el día 17. El tribunal consideró auténticas las reproducciones
-  póstumas autorizadas y descartó el engaño y la intención defraudatoria; no consideró perjudicial el precio pagado.
-  Fueron ocho esculturas adquiridas por unos 2,9 millones de euros y otras 90 obras donadas, no una compra de esculturas
-  falsas acreditada judicialmente. El porcentaje de sobreprecio de hasta el 1.520% de la auditoría histórica no
-  es una conclusión de esta sentencia sobre Rueda. El fallo permitía casación ante el Supremo; no se ha acreditado
-  aquí su posterior firmeza o resultado de recursos. Esta ficha y Obras de arte describen estas mismas piezas: sus
-  importes y resultados no son casos adicionales acumulables.'
+  La [sentencia 603/2021](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=b25d9458c9ae695f&encode=true&databasematch=AN) permite separar lo alegado durante la instrucción de lo finalmente resuelto: absuelve a los tres acusados y considera auténticas las obras adquiridas. Los nombres proceden de noticias nominales contemporáneas y se corroboran con la [nota oficial del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Notas-de-prensa/-La-Audiencia-de-Valencia-absuelve-a-la-exdirectora-del-IVAM-y-a-otros-dos-acusados-por-la-compra-de-las-obras-del-escultor-Gerardo-Rueda-); no se reconstruyen identidades a partir de los seudónimos del documento público. La notificación y la comunicación de la absolución fueron el día 17 de diciembre de 2021, un día después de la fecha de la sentencia.
+
+  ### Promoción artística y responsabilidad civil
+
+  La [información de EFE del 7 de agosto de 2021](https://www.publico.es/politica/exdirectora-del-ivam-reconoce-favorecio-hijo-dinero-publico.html) describe una sentencia firme de conformidad fechada el 30 de julio. Tres personas fueron condenadas y Pilar Mundina absuelta. El sobreseimiento provisional de Rablaci es un pronunciamiento anterior y distinto; el [artículo de Valencia Plaza](https://valenciaplaza.com/noticas-cultura-valencia-comunitat-valenciana/la-magistrada-del-ivam-sobreseerlo-la-causa-contra-rablaci) también lo refiere a Norberto Martínez.
+
+  Los 75.000 euros corresponden a 50.000 por fondos desviados y 25.000 por daño reputacional, conjunta y solidariamente entre los condenados. No son multa, precio de compra ni una segunda cifra sumable a los 50.000. La consignación de 18.974 euros tampoco se añade al daño. Las noticias sobre gastos de viajes y exposiciones reconstruidos por la acusación no sustituyen la cuantificación aceptada en la sentencia.
+
+  La prisión fue suspendida bajo condiciones. La sustitución por multa de la pena breve por falsedad mercantil de Martínez Murillo es otra decisión. No se presume cumplida la suspensión ni extinguida la condena por el mero transcurso del tiempo. El [dictamen CJC 153/2022](https://www.iberley.es/resoluciones/dictamen-consell-juridic-consultiu-comunitat-valenciana-2022-0153-16-03-2022-2137740), consultado en sus antecedentes, trata una consulta sobre la ejecución de la sentencia y menciona una liquidación aprobada el 21 de diciembre de 2021; no acredita por sí solo el cumplimiento final ni permite atribuir identidades mediante sus iniciales. Faltan los originales de la conformidad, los archivos y la ejecutoria, así como la comprobación de eventuales recursos posteriores en Rueda.
+
+  ### Contexto de la investigación
+
+  La auditoría histórica mencionó compras de otras obras, publicaciones y gastos diversos. El porcentaje de hasta el 1.520% no se traslada al fallo Rueda ni se usa como daño agregado. El [informe de gestión del IVAM de 2014](https://www.ivam.es/wp-content/uploads/page/informacion-corporativa/20150619_Acta_Parte5.pdf) fecha el cese de Císcar el 29 de abril. Los periodos de dirección y las fechas de los contratos no equivalen al día de inicio del procedimiento penal, que la sentencia sitúa en julio de 2015.
 resumen: Condena de conformidad en 2021 por la promoción de Rablaci y absolución en la compra de obras de Rueda.
   Son las mismas piezas recogidas en Obras de arte; ejecución y seguimiento pendientes.
 lugar: València, Comunitat Valenciana
@@ -173,21 +167,3 @@ cronologia:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=b25d9458c9ae695f&encode=true&databasematch=AN
   - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Notas-de-prensa/-La-Audiencia-de-Valencia-absuelve-a-la-exdirectora-del-IVAM-y-a-otros-dos-acusados-por-la-compra-de-las-obras-del-escultor-Gerardo-Rueda-
 ---
-
-## Procedimientos compartidos con Obras de arte
-
-Esta ficha y [Obras de arte](/casos/pp/obras-de-arte/) describen actuaciones de la misma investigación del IVAM. La condena por promoción y la absolución por adquisiciones de Rueda no representan procedimientos adicionales por aparecer en ambas páginas. La indemnización de la primera pieza no se duplica ni se agrega al precio de las esculturas de la segunda.
-
-La [sentencia 603/2021](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=b25d9458c9ae695f&encode=true&databasematch=AN) permite separar lo alegado durante la instrucción de lo finalmente resuelto: absuelve a los tres acusados y considera auténticas las obras adquiridas. Los nombres proceden de noticias nominales contemporáneas y se corroboran con la [nota oficial del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Notas-de-prensa/-La-Audiencia-de-Valencia-absuelve-a-la-exdirectora-del-IVAM-y-a-otros-dos-acusados-por-la-compra-de-las-obras-del-escultor-Gerardo-Rueda-); no se reconstruyen identidades a partir de los seudónimos del documento público. La notificación y la comunicación de la absolución fueron el día 17 de diciembre de 2021, un día después de la fecha de la sentencia.
-
-## Promoción artística y responsabilidad civil
-
-La [información de EFE del 7 de agosto de 2021](https://www.publico.es/politica/exdirectora-del-ivam-reconoce-favorecio-hijo-dinero-publico.html) describe una sentencia firme de conformidad fechada el 30 de julio. Tres personas fueron condenadas y Pilar Mundina absuelta. El sobreseimiento provisional de Rablaci es un pronunciamiento anterior y distinto; el [artículo de Valencia Plaza](https://valenciaplaza.com/noticas-cultura-valencia-comunitat-valenciana/la-magistrada-del-ivam-sobreseerlo-la-causa-contra-rablaci) también lo refiere a Norberto Martínez.
-
-Los 75.000 euros corresponden a 50.000 por fondos desviados y 25.000 por daño reputacional, conjunta y solidariamente entre los condenados. No son multa, precio de compra ni una segunda cifra sumable a los 50.000. La consignación de 18.974 euros tampoco se añade al daño. Las noticias sobre gastos de viajes y exposiciones reconstruidos por la acusación no sustituyen la cuantificación aceptada en la sentencia.
-
-La prisión fue suspendida bajo condiciones. La sustitución por multa de la pena breve por falsedad mercantil de Martínez Murillo es otra decisión. No se presume cumplida la suspensión ni extinguida la condena por el mero transcurso del tiempo. El [dictamen CJC 153/2022](https://www.iberley.es/resoluciones/dictamen-consell-juridic-consultiu-comunitat-valenciana-2022-0153-16-03-2022-2137740), consultado en sus antecedentes, trata una consulta sobre la ejecución de la sentencia y menciona una liquidación aprobada el 21 de diciembre de 2021; no acredita por sí solo el cumplimiento final ni permite atribuir identidades mediante sus iniciales. Faltan los originales de la conformidad, los archivos y la ejecutoria, así como la comprobación de eventuales recursos posteriores en Rueda.
-
-## Contexto de la investigación
-
-La auditoría histórica mencionó compras de otras obras, publicaciones y gastos diversos. El porcentaje de hasta el 1.520% no se traslada al fallo Rueda ni se usa como daño agregado. El [informe de gestión del IVAM de 2014](https://www.ivam.es/wp-content/uploads/page/informacion-corporativa/20150619_Acta_Parte5.pdf) fecha el cese de Císcar el 29 de abril. Los periodos de dirección y las fechas de los contratos no equivalen al día de inicio del procedimiento penal, que la sentencia sitúa en julio de 2015.

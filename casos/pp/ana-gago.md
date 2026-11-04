@@ -7,12 +7,16 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condena comunicada en 2019; firmeza pendiente de verificar
-descripcion: La alcaldesa del PP de Gatón de Campos, Ana María Gago, fue juzgada en mayo de 2019 por permitir inscripciones
-  de personas que no residían habitualmente en el municipio antes de las elecciones de 2015. Europa Press informó
-  el 11 de junio de 2019 de una condena del Juzgado de lo Penal número 4 de Valladolid a ocho años y cinco meses
-  de inhabilitación para cargo público de concejal y alcalde, por alteración maliciosa del censo electoral en concurso
-  con prevaricación por omisión. No se ha obtenido la sentencia íntegra ni comprobado su fecha exacta, número, firmeza
-  o ejecución.
+descripcion: |-
+  La alcaldesa del PP de Gatón de Campos, Ana María Gago, fue juzgada en mayo de 2019 por permitir inscripciones de personas que no residían habitualmente en el municipio antes de las elecciones de 2015. Europa Press informó el 11 de junio de 2019 de una condena del Juzgado de lo Penal número 4 de Valladolid a ocho años y cinco meses de inhabilitación para cargo público de concejal y alcalde, por alteración maliciosa del censo electoral en concurso con prevaricación por omisión. No se ha obtenido la sentencia íntegra ni comprobado su fecha exacta, número, firmeza o ejecución.
+
+  La noticia previa al juicio de Diario de Valladolid describe trece solicitudes de personas vinculadas al pueblo que, según la Fiscalía, solo lo frecuentaban en vacaciones y fines de semana. También recoge actuaciones de la Oficina del Censo Electoral en febrero y marzo de 2015 y declaraciones juradas remitidas por la alcaldesa. Se atribuye ese relato a la acusación, sin convertir cada detalle en un hecho probado.
+
+  La crónica de Europa Press sobre la condena recoge que el juzgador consideró acreditada la finalidad electoral de los empadronamientos y la omisión de actuación ante las advertencias de la Oficina del Censo. No está acreditada en el fallo original la extensión exacta de la privación del sufragio pasivo. Tampoco se confunde la petición fiscal de prisión y multa con las penas impuestas.
+
+  No se ha acreditado daño económico cuantificado. La multa solicitada no es un coste patrimonial del caso. El resultado de la votación no sustituye el examen judicial de las conductas.
+
+  Al 17 de octubre de 2026, no se dispone de la resolución original ni consta una posterior inequívocamente vinculada a la causa. Faltan número de procedimiento, sentencia íntegra, fecha judicial, recursos, firmeza y ejecución. No se deduce el cierre definitivo de la ausencia de noticias. No se dispone de un original judicial verificable.
 resumen: Condena comunicada en junio de 2019 por alterar el censo de Gatón de Campos; recursos y firmeza sin verificar.
 lugar: Gatón de Campos, Valladolid, Castilla y León
 tribunal:
@@ -60,11 +64,3 @@ cronologia:
   urls:
   - https://www.europapress.es/castilla-y-leon/noticia-condenada-mas-ocho-anos-inhabilitacion-alcaldesa-gaton-valladolid-alterar-censo-electoral-20190611123739.html
 ---
-
-La noticia previa al juicio de Diario de Valladolid describe trece solicitudes de personas vinculadas al pueblo que, según la Fiscalía, solo lo frecuentaban en vacaciones y fines de semana. También recoge actuaciones de la Oficina del Censo Electoral en febrero y marzo de 2015 y declaraciones juradas remitidas por la alcaldesa. Se atribuye ese relato a la acusación, sin convertir cada detalle en un hecho probado.
-
-La crónica de Europa Press sobre la condena recoge que el juzgador consideró acreditada la finalidad electoral de los empadronamientos y la omisión de actuación ante las advertencias de la Oficina del Censo. No está acreditada en el fallo original la extensión exacta de la privación del sufragio pasivo. Tampoco se confunde la petición fiscal de prisión y multa con las penas impuestas.
-
-No se ha acreditado daño económico cuantificado. La multa solicitada no es un coste patrimonial del caso. El resultado de la votación no sustituye el examen judicial de las conductas.
-
-Al 17 de octubre de 2026, no se dispone de la resolución original ni consta una posterior inequívocamente vinculada a la causa. Faltan número de procedimiento, sentencia íntegra, fecha judicial, recursos, firmeza y ejecución. No se deduce el cierre definitivo de la ausencia de noticias. No se dispone de un original judicial verificable.

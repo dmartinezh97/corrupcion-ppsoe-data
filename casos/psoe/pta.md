@@ -9,23 +9,22 @@ firmeza: Sin determinar
 "estado": "Condenas confirmadas; seguimiento de ejecución pendiente"
 "lugar": "Jerez de la Frontera, Cádiz, Andalucía"
 "coste": 122360
-"descripcion": "El caso afecta a la ayuda municipal a Tecnología Innovación Sanitaria S.L. (TISA) para adquirir\
-  \ suelo en el Parque Tecnológico Agroindustrial de Jerez, distinto del parque tecnológico malagueño. La manipulación\
-  \ de la valoración técnica permitió elevar la ayuda del 20 al 40 por ciento. El original judicial cifra la ayuda\
-  \ aplicada en 244.720 euros y la responsabilidad civil en 122.360 euros, cantidad que se muestra como coste, sin\
-  \ duplicarla por la solidaridad entre las dos condenadas.\n\nLa Audiencia Provincial de Cádiz dictó sentencia\
-  \ el 20 de febrero de 2015. Condenó a Pilar Sánchez Muñoz a cuatro años y seis meses de prisión y ocho años de\
-  \ inhabilitación absoluta por falsedad, prevaricación y malversación; a María del Carmen Martínez Martínez a dos\
-  \ años, seis meses y quince días de prisión por esos delitos, y al capataz Salvador Rubio a un año y nueve meses\
-  \ por falsedad documental. Francisco Lebrero y tres consejeros de TISA fueron absueltos. El Supremo desestimó\
-  \ las casaciones de las dos condenadas y de la Fiscalía mediante sentencia 797/2015, de 24 de noviembre, difundida\
-  \ el 21 de diciembre; ambas fechas son distintas.\n\nEFE documentó el ingreso de Pilar Sánchez el 31 de enero\
-  \ de 2016 y la prensa informó de su tercer grado en septiembre de 2017. En el caso de Carmen Martínez, las fuentes\
-  \ documentan la denegación del indulto, su ingreso en prisión conocido en febrero de 2019 y un tercer grado referido\
-  \ en octubre de ese año. No se han recuperado las resoluciones penitenciarias, el desenlace del amparo de Sánchez\
-  \ ni las declaraciones de extinción de penas o el pago efectivo de la indemnización hasta el 17 de octubre de\
-  \ 2026. Tampoco se ha comprobado la ejecución individual de Salvador Rubio; no se considera cerrado el seguimiento\
-  \ por el mero transcurso del tiempo."
+"descripcion": |-
+  El caso afecta a la ayuda municipal a Tecnología Innovación Sanitaria S.L. (TISA) para adquirir suelo en el Parque Tecnológico Agroindustrial de Jerez, distinto del parque tecnológico malagueño. La manipulación de la valoración técnica permitió elevar la ayuda del 20 al 40 por ciento. El original judicial cifra la ayuda aplicada en 244.720 euros y la responsabilidad civil en 122.360 euros, cantidad que se muestra como coste, sin duplicarla por la solidaridad entre las dos condenadas.
+
+  La Audiencia Provincial de Cádiz dictó sentencia el 20 de febrero de 2015. Condenó a Pilar Sánchez Muñoz a cuatro años y seis meses de prisión y ocho años de inhabilitación absoluta por falsedad, prevaricación y malversación; a María del Carmen Martínez Martínez a dos años, seis meses y quince días de prisión por esos delitos, y al capataz Salvador Rubio a un año y nueve meses por falsedad documental. Francisco Lebrero y tres consejeros de TISA fueron absueltos. El Supremo desestimó las casaciones de las dos condenadas y de la Fiscalía mediante sentencia 797/2015, de 24 de noviembre, difundida el 21 de diciembre; ambas fechas son distintas.
+
+  EFE documentó el ingreso de Pilar Sánchez el 31 de enero de 2016 y la prensa informó de su tercer grado en septiembre de 2017. En el caso de Carmen Martínez, las fuentes documentan la denegación del indulto, su ingreso en prisión conocido en febrero de 2019 y un tercer grado referido en octubre de ese año. No se han recuperado las resoluciones penitenciarias, el desenlace del amparo de Sánchez ni las declaraciones de extinción de penas o el pago efectivo de la indemnización hasta el 17 de octubre de 2026. Tampoco se ha comprobado la ejecución individual de Salvador Rubio; no se considera cerrado el seguimiento por el mero transcurso del tiempo.
+
+  El año de referencia corresponde a la resolución municipal de ayuda de 25 de enero de 2008, no a la denuncia posterior de 2009.
+
+  El fallo distingue tres condenados de cuatro personas absueltas. Los consejeros de TISA no fueron condenados por haber solicitado la ayuda. La entidad, posteriormente denominada Sistema de Innovación de Fluidos S.L., fue absuelta de la pretensión civil dirigida contra ella. Las dos condenadas recurrentes también fueron absueltas del delito adicional de fraude a la Administración. Las penas de multa y demás accesorios recogidos en el original no se suman al daño.
+
+  La ayuda alcanzó 244.720 euros, mientras que el exceso objeto de restitución solidaria es de 122.360 euros. No se multiplica ese principal por cada responsable ni se añaden intereses procesales sin liquidación. La condena tampoco significa que se probara una apropiación personal de todo el importe por la alcaldesa. El destino era la adquisición de suelo y el mecanismo de aplicación incluyó una compensación contable; no se describe como una simple transferencia de efectivo.
+
+  El tercer grado es un modo de cumplimiento, no una declaración de extinción. Los datos penitenciarios de Pilar Sánchez en 2016–2017 y de Carmen Martínez en 2019 son individuales. Falta el seguimiento de Salvador Rubio y de los pagos civiles. La noticia de un amparo formalizado por Sánchez en enero de 2016 no demuestra su admisión o resolución favorable. Tampoco se incorporan a este caso las resoluciones del Plan E u otras causas de los antiguos alcaldes de Jerez.
+
+  Fuentes: [sentencia original del Supremo](https://www.poderjudicial.es/stfls/SALA DE PRENSA/NOTAS DE PRENSA/TS Sala II 24 novi. 2015.pdf), [nota oficial](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Tribunal-Supremo-confirma-la-condena-a-4-anos-y-6-meses-de-prision-a-la-exalcaldesa-de-Jerez-de-la-Frontera-Pilar-Sanchez), [EFE, sentencia y nombres de los absueltos](https://www.andaluciainformacion.es/articulo/jerez/pilar-sanchez-condenada-a-cuatro-anos-y-medio-por-el-caso-pta/201502231311501604561.html), [EFE/Público, ingreso de Sánchez](https://www.publico.es/politica/exalcaldesa-jerez-ingresa-prision-conceder-subvencion-empresa.html), [Andalucía Información, tercer grado de Sánchez](https://andaluciainformacion.es/andalucia/701341/la-mejor-semana-para-pilar-sanchez-y-pedro-pacheco-en-mucho-tiempo/), [La Voz del Sur, ingreso de Martínez](https://www.lavozdelsur.es/actualidad/politica/la-ex-delegada-carmen-martinez-no-logra-el-indulto-por-una-grave-enfermedad-e-ingresa-en-puerto-iii-por-el-caso-pta_100561_102.html), [La Voz del Sur, situación penitenciaria referida en octubre de 2019](https://www.lavozdelsur.es/actualidad/sociedad/las-dos-resurrecciones-de-carmen-martinez-la-politica-ha-sido-mi-mayor-pesadilla_137880_102.html) y [Diario de Jerez, amparo anunciado](https://www.diariodejerez.es/jerez/Pilar-Sanchez-formaliza-Tribunal-Constitucional_0_989601335.html).
 "resumen": "Manipulación de informes para elevar una ayuda a TISA: tres condenas, cuatro absoluciones personales\
   \ y responsabilidad civil de 122.360 euros."
 "tribunal":
@@ -138,13 +137,3 @@ firmeza: Sin determinar
   "urls":
   - "https://www.lavozdelsur.es/actualidad/sociedad/las-dos-resurrecciones-de-carmen-martinez-la-politica-ha-sido-mi-mayor-pesadilla_137880_102.html"
 ---
-
-El año de referencia corresponde a la resolución municipal de ayuda de 25 de enero de 2008, no a la denuncia posterior de 2009.
-
-El fallo distingue tres condenados de cuatro personas absueltas. Los consejeros de TISA no fueron condenados por haber solicitado la ayuda. La entidad, posteriormente denominada Sistema de Innovación de Fluidos S.L., fue absuelta de la pretensión civil dirigida contra ella. Las dos condenadas recurrentes también fueron absueltas del delito adicional de fraude a la Administración. Las penas de multa y demás accesorios recogidos en el original no se suman al daño.
-
-La ayuda alcanzó 244.720 euros, mientras que el exceso objeto de restitución solidaria es de 122.360 euros. No se multiplica ese principal por cada responsable ni se añaden intereses procesales sin liquidación. La condena tampoco significa que se probara una apropiación personal de todo el importe por la alcaldesa. El destino era la adquisición de suelo y el mecanismo de aplicación incluyó una compensación contable; no se describe como una simple transferencia de efectivo.
-
-El tercer grado es un modo de cumplimiento, no una declaración de extinción. Los datos penitenciarios de Pilar Sánchez en 2016–2017 y de Carmen Martínez en 2019 son individuales. Falta el seguimiento de Salvador Rubio y de los pagos civiles. La noticia de un amparo formalizado por Sánchez en enero de 2016 no demuestra su admisión o resolución favorable. Tampoco se incorporan a este caso las resoluciones del Plan E u otras causas de los antiguos alcaldes de Jerez.
-
-Fuentes: [sentencia original del Supremo](https://www.poderjudicial.es/stfls/SALA DE PRENSA/NOTAS DE PRENSA/TS Sala II 24 novi. 2015.pdf), [nota oficial](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Tribunal-Supremo-confirma-la-condena-a-4-anos-y-6-meses-de-prision-a-la-exalcaldesa-de-Jerez-de-la-Frontera-Pilar-Sanchez), [EFE, sentencia y nombres de los absueltos](https://www.andaluciainformacion.es/articulo/jerez/pilar-sanchez-condenada-a-cuatro-anos-y-medio-por-el-caso-pta/201502231311501604561.html), [EFE/Público, ingreso de Sánchez](https://www.publico.es/politica/exalcaldesa-jerez-ingresa-prision-conceder-subvencion-empresa.html), [Andalucía Información, tercer grado de Sánchez](https://andaluciainformacion.es/andalucia/701341/la-mejor-semana-para-pilar-sanchez-y-pedro-pacheco-en-mucho-tiempo/), [La Voz del Sur, ingreso de Martínez](https://www.lavozdelsur.es/actualidad/politica/la-ex-delegada-carmen-martinez-no-logra-el-indulto-por-una-grave-enfermedad-e-ingresa-en-puerto-iii-por-el-caso-pta_100561_102.html), [La Voz del Sur, situación penitenciaria referida en octubre de 2019](https://www.lavozdelsur.es/actualidad/sociedad/las-dos-resurrecciones-de-carmen-martinez-la-politica-ha-sido-mi-mayor-pesadilla_137880_102.html) y [Diario de Jerez, amparo anunciado](https://www.diariodejerez.es/jerez/Pilar-Sanchez-formaliza-Tribunal-Constitucional_0_989601335.html).

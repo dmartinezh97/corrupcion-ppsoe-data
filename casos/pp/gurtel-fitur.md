@@ -8,14 +8,18 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: cerrado con condenas
-descripcion: La pieza valenciana de Gürtel sobre los contratos de Fitur de 2005 a 2009 terminó con once condenas
-  y dos absoluciones. La sentencia 2/2017 del TSJ de la Comunitat Valenciana, de 8 de febrero, fue confirmada íntegramente
-  por el Supremo mediante la sentencia 214/2018, de 8 de mayo. Francisco Correa recibió 13 años de prisión; Pablo
-  Crespo, 13 años y 3 meses; Álvaro Pérez, 12 años y 3 meses; y la exconsellera Milagrosa Martínez, 9 años. Fueron
-  absueltos Angélica Such y Juan Bover. La indemnización a la Generalitat fue de 271.636,59 euros, distinta de las
-  multas y del comiso. La firmeza de las condenas en 2018 está documentada; no se ha acreditado aquí la situación
-  de ejecución de cada persona ni eventuales revisiones posteriores hasta el 15 de octubre de 2026. Esta pieza no
-  debe confundirse con el procedimiento separado contra Francisco Camps resuelto por la Audiencia Nacional en 2024.
+descripcion: |-
+  La pieza valenciana de Gürtel sobre los contratos de Fitur de 2005 a 2009 terminó con once condenas y dos absoluciones. La sentencia 2/2017 del TSJ de la Comunitat Valenciana, de 8 de febrero, fue confirmada íntegramente por el Supremo mediante la sentencia 214/2018, de 8 de mayo. Francisco Correa recibió 13 años de prisión; Pablo Crespo, 13 años y 3 meses; Álvaro Pérez, 12 años y 3 meses; y la exconsellera Milagrosa Martínez, 9 años. Fueron absueltos Angélica Such y Juan Bover. La indemnización a la Generalitat fue de 271.636,59 euros, distinta de las multas y del comiso. La firmeza de las condenas en 2018 está documentada; no se ha acreditado aquí la situación de ejecución de cada persona ni eventuales revisiones posteriores hasta el 15 de octubre de 2026. Esta pieza no debe confundirse con el procedimiento separado contra Francisco Camps resuelto por la Audiencia Nacional en 2024.
+
+  La causa examinó las adjudicaciones de las cinco ediciones de Fitur celebradas entre 2005 y 2009. El Supremo confirmó que las empresas del grupo Correa intervenían en la preparación de las condiciones de contratación y en las ofertas, condicionando la competencia y la adjudicación. La sentencia analiza también facturación y partidas que no correspondían a prestaciones efectivamente realizadas, así como la participación de responsables públicos en los expedientes.
+
+  La sentencia del TSJCV es de **8 de febrero de 2017**; su publicación en prensa el día 10 no cambia la fecha del acto judicial. El Supremo resolvió el **8 de mayo de 2018**, mediante la STS 214/2018, y desestimó todos los recursos. Las once condenas confirmadas y las dos absoluciones corresponden a las personas identificadas en esta ficha. Las penas de prisión no son intercambiables con las multas, inhabilitaciones o prohibiciones de contratar que también recoge el fallo.
+
+  El pronunciamiento civil reproducido en la sentencia del Supremo fija **271.636,59 euros de indemnización a la Generalitat**, con responsabilidad solidaria de Correa, Crespo, Pérez, Jordán, Martínez, Betoret, Vidal y Guarro. Esa solidaridad se extiende a Magariños hasta 265.056,76 euros y a Herrero hasta 10.120,21 euros. Son límites de responsabilidad sobre la misma indemnización y no cantidades que deban sumarse para calcular otro perjuicio. El fallo recoge además responsabilidades subsidiarias de sociedades, multas y un comiso de bienes de Orange Market por 1.937.957,98 euros: tampoco equivalen a un daño adicional acumulable. Por ello no se atribuye un coste global único a la pieza.
+
+  El estado refleja la firmeza documentada en 2018, sin dar por cumplidas todas las penas. La noticia de Valencia Plaza de junio de 2023 sitúa a Milagrosa Martínez en tercer grado, pero no permite extender esa situación a otras personas ni afirmar su régimen penitenciario actual. No se han contrastado suficientemente eventuales resoluciones posteriores de ejecución o revisión hasta el corte de 15 de octubre de 2026.
+
+  Esta pieza valenciana se distingue del posterior juicio de la Audiencia Nacional sobre otros contratos de la Generalitat y Orange Market, en el que fue acusado Francisco Camps. La coincidencia de empresas y referencias a Fitur no permite trasladar personas, importes o absoluciones entre ambos procedimientos.
 resumen: Amaño de contratos de Fitur de la Generalitat Valenciana entre 2005 y 2009; once condenas confirmadas por
   el Supremo en 2018.
 lugar: Comunitat Valenciana / Madrid (Fitur)
@@ -108,13 +112,3 @@ cronologia:
   urls:
   - https://valenciaplaza.com/valenciaplaza/milagrosa-martinez-gurtel
 ---
-
-La causa examinó las adjudicaciones de las cinco ediciones de Fitur celebradas entre 2005 y 2009. El Supremo confirmó que las empresas del grupo Correa intervenían en la preparación de las condiciones de contratación y en las ofertas, condicionando la competencia y la adjudicación. La sentencia analiza también facturación y partidas que no correspondían a prestaciones efectivamente realizadas, así como la participación de responsables públicos en los expedientes.
-
-La sentencia del TSJCV es de **8 de febrero de 2017**; su publicación en prensa el día 10 no cambia la fecha del acto judicial. El Supremo resolvió el **8 de mayo de 2018**, mediante la STS 214/2018, y desestimó todos los recursos. Las once condenas confirmadas y las dos absoluciones corresponden a las personas identificadas en esta ficha. Las penas de prisión no son intercambiables con las multas, inhabilitaciones o prohibiciones de contratar que también recoge el fallo.
-
-El pronunciamiento civil reproducido en la sentencia del Supremo fija **271.636,59 euros de indemnización a la Generalitat**, con responsabilidad solidaria de Correa, Crespo, Pérez, Jordán, Martínez, Betoret, Vidal y Guarro. Esa solidaridad se extiende a Magariños hasta 265.056,76 euros y a Herrero hasta 10.120,21 euros. Son límites de responsabilidad sobre la misma indemnización y no cantidades que deban sumarse para calcular otro perjuicio. El fallo recoge además responsabilidades subsidiarias de sociedades, multas y un comiso de bienes de Orange Market por 1.937.957,98 euros: tampoco equivalen a un daño adicional acumulable. Por ello no se atribuye un coste global único a la pieza.
-
-El estado refleja la firmeza documentada en 2018, sin dar por cumplidas todas las penas. La noticia de Valencia Plaza de junio de 2023 sitúa a Milagrosa Martínez en tercer grado, pero no permite extender esa situación a otras personas ni afirmar su régimen penitenciario actual. No se han contrastado suficientemente eventuales resoluciones posteriores de ejecución o revisión hasta el corte de 15 de octubre de 2026.
-
-Esta pieza valenciana se distingue del posterior juicio de la Audiencia Nacional sobre otros contratos de la Generalitat y Orange Market, en el que fue acusado Francisco Camps. La coincidencia de empresas y referencias a Fitur no permite trasladar personas, importes o absoluciones entre ambos procedimientos.

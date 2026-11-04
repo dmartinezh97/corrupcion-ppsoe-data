@@ -94,6 +94,10 @@ fechaInicio: 2020-01-15
 fechaFin: ""  # vacio si sigue activo
 estado: "en investigacion"  # cerrado con condenas, sobreseimiento, etc.
 resumen: "Breve descripcion del caso"
+descripcion: |-
+  Relato del caso, con sus fuentes y las incertidumbres necesarias para interpretarlo.
+
+  Los detalles de cada hito y sus enlaces se incluyen en la cronologia.
 coste: 1000000  # en euros
 lugar: "Madrid, Espana"
 tribunal:
@@ -114,8 +118,9 @@ cronologia:
     type: "investigacion"  # denuncia, sentencia, detencion, etc.
 ---
 
-Contenido detallado del caso en Markdown...
 ```
+
+El contenido público completo se integra en los campos del frontmatter. `descripcion` admite Markdown y enlaces; el cuerpo situado después del cierre del frontmatter no se muestra como una sección adicional.
 
 ### Instituciones
 

@@ -7,26 +7,22 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas de conformidad y una absolución en 2023
-descripcion: 'La causa se refiere a pagos del Ayuntamiento de Chiva a su empresa municipal Suma Chiva SA por servicios
-  que, según la acusación, no se realizaron entre 2008 y 2012. El señalamiento oficial de septiembre de 2023 recogía
-  tres acusados —un exalcalde, un exconcejal y el gerente— y una petición inicial de cinco años de prisión para
-  cada uno. Esas peticiones y las cifras de la acusación no son el resultado definitivo del juicio.
+descripcion: |-
+  La causa se refiere a pagos del Ayuntamiento de Chiva a su empresa municipal Suma Chiva SA por servicios que, según la acusación, no se realizaron entre 2008 y 2012. El señalamiento oficial de septiembre de 2023 recogía tres acusados —un exalcalde, un exconcejal y el gerente— y una petición inicial de cinco años de prisión para cada uno. Esas peticiones y las cifras de la acusación no son el resultado definitivo del juicio.
 
+  Las crónicas de la vista del 5 de septiembre de 2023 informan de una conformidad: José Manuel Haro y el exgerente Pascual Navarro fueron condenados a un año y cuatro meses de prisión. EFE recoge dos años de inhabilitación y una multa de 1.500 euros; elDiario.es informa de la suspensión de la prisión, de la retirada de la acusación contra Marcos Navarro y del ingreso conjunto de 105.084 euros de responsabilidad civil. EFE confirma la absolución del exconcejal y el reintegro de esa cantidad a las arcas municipales. La suspensión no equivale a una pena de prisión inexistente ni acredita su posterior extinción.
 
-  Las crónicas de la vista del 5 de septiembre de 2023 informan de una conformidad: José Manuel Haro y el exgerente
-  Pascual Navarro fueron condenados a un año y cuatro meses de prisión. EFE recoge dos años de inhabilitación y
-  una multa de 1.500 euros; elDiario.es informa de la suspensión de la prisión, de la retirada de la acusación contra
-  Marcos Navarro y del ingreso conjunto de 105.084 euros de responsabilidad civil. EFE confirma la absolución del
-  exconcejal y el reintegro de esa cantidad a las arcas municipales. La suspensión no equivale a una pena de prisión
-  inexistente ni acredita su posterior extinción.
+  Falta cotejar la sentencia original, su fecha escrita, los delitos y las penas desglosados por persona, las condiciones de suspensión y la firmeza o ejecución posterior hasta el 17 de octubre de 2026. Las informaciones de 2020 citan distintos números de juzgado de Requena, sin original que aclare la diferencia. No se suman como perjuicio las facturas de 138.048 euros y las transferencias de 220.596 euros atribuidas al gerente en la acusación, pues podrían comprender movimientos sucesivos de los mismos fondos. Los 105.084 euros son el reintegro comunicado tras la conformidad, separado de multas y costas.
 
+  La empresa municipal fue creada en 2008 para actividades urbanísticas. El procedimiento penal sobre sus pagos no se confunde con la demanda civil contra su liquidador ni con las causas sobre dietas u otras contrataciones municipales. Las facturas a una consultora de Massamagrell descritas en la prensa tampoco permiten trasladar a esta causa responsabilidades de otros procedimientos.
 
-  Falta cotejar la sentencia original, su fecha escrita, los delitos y las penas desglosados por persona, las condiciones
-  de suspensión y la firmeza o ejecución posterior hasta el 17 de octubre de 2026. Las informaciones de 2020 citan
-  distintos números de juzgado de Requena, sin original que aclare la diferencia. No se suman como perjuicio las
-  facturas de 138.048 euros y las transferencias de 220.596 euros atribuidas al gerente en la acusación, pues podrían
-  comprender movimientos sucesivos de los mismos fondos. Los 105.084 euros son el reintegro comunicado tras la conformidad,
-  separado de multas y costas.'
+  El juicio de septiembre de 2023 modificó sustancialmente el escenario inicial: frente a la petición de cinco años de prisión para cada acusado, dos aceptaron condenas inferiores y el tercero quedó absuelto, según EFE. La crónica del acuerdo atribuye las condenas a prevaricación, malversación y falsificación y refiere atenuantes de dilaciones indebidas y reparación. Sin el fallo no puede precisarse la distribución de cada pena por delito ni dar por cumplida la inhabilitación o extinguida la prisión suspendida.
+
+  El pago conjunto comunicado de 105.084 euros no se multiplica por dos. Se distingue de la multa de 1.500 euros para cada condenado, de las costas y de la fianza anterior. Las cifras de 138.048 euros en facturas y 220.596 euros en transferencias aparecen en el relato de la acusación; no se suman como pérdidas independientes. La petición fiscal de indemnización y la cantidad finalmente reintegrada tampoco son equivalentes.
+
+  Las fechas iniciales de denuncia y querella no están suficientemente cotejadas: EFE sitúa la comunicación de hechos en 2015, mientras otras referencias la llevan a 2016. No se adjudica un día ficticio a esos trámites. Tampoco se considera que la ausencia de noticias posteriores a la conformidad pruebe firmeza o cierre de la ejecución.
+
+  Fuentes: [agenda oficial del juicio](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Notas-de-prensa/Senalamientos-en-la-Comunidad-Valenciana-del-4-al-8-de-septiembre-de-2023), [investigación en 2020](https://www.eldiario.es/comunitat-valenciana/empresa-municipal-chiva-investigada-corrupcion-facturo-consultora-concejala-pp-massamagrell_1_6312786.html), [apertura conocida en noviembre de 2020](https://www.eldiario.es/comunitat-valenciana/jueza-abre-juicio-oral-exalcalde-pp-chiva-le-obliga-pagar-24-horas-fianza-300-000-euros_1_6382634.html), [acusación previa al juicio](https://www.eldiario.es/comunitat-valenciana/exalcalde-pp-chiva-afronta-cinco-anos-prision-saqueo-animo-lucro-empresa-publica_1_10485618.html), [crónica de la conformidad](https://www.eldiario.es/comunitat-valenciana/exalcalde-pp-chiva-acusado-corrupcion-pacta-librarse-carcel-cambio-indemnizacion-105-084-euros_1_10488667.html) y [EFE: condenas, reintegro y absolución](https://valenciaplaza.com/valenciaplaza/condenan-1-ano-4-meses-exalcalde-chiva-pp-malversar-mas-100000-euros).
 resumen: Dos condenas de conformidad con prisión suspendida y absolución del exconcejal en septiembre de 2023 por
   pagos de la empresa municipal. La firmeza y el cumplimiento posterior no están documentados.
 lugar: Chiva, Valencia, Comunidad Valenciana
@@ -106,13 +102,3 @@ cronologia:
   type: sentencia
   relevancia: alta
 ---
-
-La empresa municipal fue creada en 2008 para actividades urbanísticas. El procedimiento penal sobre sus pagos no se confunde con la demanda civil contra su liquidador ni con las causas sobre dietas u otras contrataciones municipales. Las facturas a una consultora de Massamagrell descritas en la prensa tampoco permiten trasladar a esta causa responsabilidades de otros procedimientos.
-
-El juicio de septiembre de 2023 modificó sustancialmente el escenario inicial: frente a la petición de cinco años de prisión para cada acusado, dos aceptaron condenas inferiores y el tercero quedó absuelto, según EFE. La crónica del acuerdo atribuye las condenas a prevaricación, malversación y falsificación y refiere atenuantes de dilaciones indebidas y reparación. Sin el fallo no puede precisarse la distribución de cada pena por delito ni dar por cumplida la inhabilitación o extinguida la prisión suspendida.
-
-El pago conjunto comunicado de 105.084 euros no se multiplica por dos. Se distingue de la multa de 1.500 euros para cada condenado, de las costas y de la fianza anterior. Las cifras de 138.048 euros en facturas y 220.596 euros en transferencias aparecen en el relato de la acusación; no se suman como pérdidas independientes. La petición fiscal de indemnización y la cantidad finalmente reintegrada tampoco son equivalentes.
-
-Las fechas iniciales de denuncia y querella no están suficientemente cotejadas: EFE sitúa la comunicación de hechos en 2015, mientras otras referencias la llevan a 2016. No se adjudica un día ficticio a esos trámites. Tampoco se considera que la ausencia de noticias posteriores a la conformidad pruebe firmeza o cierre de la ejecución.
-
-Fuentes: [agenda oficial del juicio](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Notas-de-prensa/Senalamientos-en-la-Comunidad-Valenciana-del-4-al-8-de-septiembre-de-2023), [investigación en 2020](https://www.eldiario.es/comunitat-valenciana/empresa-municipal-chiva-investigada-corrupcion-facturo-consultora-concejala-pp-massamagrell_1_6312786.html), [apertura conocida en noviembre de 2020](https://www.eldiario.es/comunitat-valenciana/jueza-abre-juicio-oral-exalcalde-pp-chiva-le-obliga-pagar-24-horas-fianza-300-000-euros_1_6382634.html), [acusación previa al juicio](https://www.eldiario.es/comunitat-valenciana/exalcalde-pp-chiva-afronta-cinco-anos-prision-saqueo-animo-lucro-empresa-publica_1_10485618.html), [crónica de la conformidad](https://www.eldiario.es/comunitat-valenciana/exalcalde-pp-chiva-acusado-corrupcion-pacta-librarse-carcel-cambio-indemnizacion-105-084-euros_1_10488667.html) y [EFE: condenas, reintegro y absolución](https://valenciaplaza.com/valenciaplaza/condenan-1-ano-4-meses-exalcalde-chiva-pp-malversar-mas-100000-euros).

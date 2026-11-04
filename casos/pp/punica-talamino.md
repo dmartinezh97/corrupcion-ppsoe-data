@@ -9,26 +9,22 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: cerrado con condenas
-descripcion: >-
-  La pieza 1 de Púnica juzgó la filtración de información sobre la vigilancia policial del despacho de David
-  Marjaliza. La Audiencia Nacional condenó el 1 de diciembre de 2017 a Francisco José Granados Lerena y José
-  Manuel Rodríguez Talamino a dos años de prisión, y a José Luis Caro Vinagre a un año y seis meses. El
-  Supremo confirmó las penas el 13 de marzo de 2019; el fallo no prevé recurso y la Fiscalía las recoge como
-  firmes en su memoria. La confirmación se publicó el 14 de marzo, fecha que no debe confundirse con la de la
-  sentencia.
+descripcion: |-
+  La pieza 1 de Púnica juzgó la filtración de información sobre la vigilancia policial del despacho de David Marjaliza. La Audiencia Nacional condenó el 1 de diciembre de 2017 a Francisco José Granados Lerena y José Manuel Rodríguez Talamino a dos años de prisión, y a José Luis Caro Vinagre a un año y seis meses. El Supremo confirmó las penas el 13 de marzo de 2019; el fallo no prevé recurso y la Fiscalía las recoge como firmes en su memoria. La confirmación se publicó el 14 de marzo, fecha que no debe confundirse con la de la sentencia.
 
+  Los hechos probados describen un aviso inicial de Talamino a Granados durante las fiestas de Valdemoro y una ampliación de información obtenida por Caro Vinagre el 6 de septiembre de 2014. La filtración permitió destruir documentación, ocultar dinero y dificultar las pesquisas. Marjaliza no figura entre los tres acusados de esta pieza. La Audiencia desestimó la responsabilidad civil reclamada por los gastos de una maniobra policial de distracción.
 
-  Los hechos probados describen un aviso inicial de Talamino a Granados durante las fiestas de Valdemoro y una
-  ampliación de información obtenida por Caro Vinagre el 6 de septiembre de 2014. La filtración permitió
-  destruir documentación, ocultar dinero y dificultar las pesquisas. Marjaliza no figura entre los tres
-  acusados de esta pieza. La Audiencia desestimó la responsabilidad civil reclamada por los gastos de una
-  maniobra policial de distracción.
+  En diciembre de 2021 se informó de la confirmación de una sanción disciplinaria de dos años de suspensión de empleo a Caro Vinagre, distinta de su condena penal. Al 17 de octubre de 2026, faltan la resolución militar y la documentación sobre ejecución de las penas; no se certifica su cumplimiento ni la inexistencia de otras resoluciones.
 
+  Esta ficha se limita a la pieza del chivatazo. Las condenas de otras piezas de Púnica no modifican por sí mismas este resultado.
 
-  En diciembre de 2021 se informó de la confirmación de una sanción disciplinaria de dos años de suspensión de
-  empleo a Caro Vinagre, distinta de su condena penal. Al 17 de octubre de 2026, faltan la resolución militar
-  y la documentación sobre ejecución de las penas; no se certifica su cumplimiento ni la inexistencia de otras
-  resoluciones.
+  La [sentencia 37/2017, copia judicial alojada por un tercero](https://casos-aislados.com/storage/documents/Sentencia%20del%20Caso%20P%C3%BAnica%20-%20Pieza%20Talamino.pdf), identifica nominalmente a los tres acusados y recoge los hechos probados y el fallo. El PDF tiene 33 páginas: la fecha del documento es el 1 de diciembre de 2017, aunque sus metadatos de creación y la [nota oficial del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-dos-anos-a-Francisco-Granados-por-la-filtracion-de-la-investigacion-de-la--Operacion-Punica-) corresponden al día 4. El juicio se celebró los días 14, 15 y 16 de noviembre.
+
+  El relato judicial no fija una fecha exacta para cada destrucción u ocultamiento posterior al aviso. No está acreditado que todos esos actos ocurrieran el 6 de septiembre ni consta la fecha exacta del hallazgo de 972.000 euros. No consta una condena de Marjaliza en esta pieza.
+
+  No consta una cuantificación de perjuicio patrimonial indemnizable. No significa ausencia de daño a la investigación: la Audiencia lo apreció como grave. Las acusaciones solicitaron 3.170,30 euros por los gastos de la operación policial de distracción; el tribunal desestimó esa responsabilidad civil al entender que derivaban de decisiones de los investigadores, no directamente del delito. No se suman a un supuesto coste los fondos ocultados, las costas procesales ni las penas.
+
+  La [confirmación penal de 2019](https://www.elespanol.com/espana/tribunales/20190314/supremo-confirma-condena-carcel-granados-chivatazo-punica/383212056_0.html) y la [información disciplinaria de 2021](https://www.eldiario.es/politica/anos-sancion-guardia-civil-chivatazo-granados-hizo-peligrar-operacion-punica_1_8573356.html) respaldan los resultados indicados con distinto alcance: la segunda declara expresamente la firmeza penal y la de la sanción militar. Se ha recuperado el PDF oficial de la sentencia penal del Supremo y contrastado su encabezamiento, los antecedentes y el fallo; falta la resolución militar. La [memoria fiscal de 2022](https://www.fiscal.es/memorias/memoria2022/FISCALIA_SITE/capitulo_II/cap_II_6_5.html) corrobora la firmeza y recoge la ejecutoria entonces en trámite, sin acreditar su estado actual. Quedan pendientes la ejecución, eventuales actuaciones constitucionales y una comprobación primaria completa de la evolución hasta el 17 de octubre de 2026. La fecha de una noticia no acredita el cierre de la ejecución. Se enlazan los PDF judiciales verificados: la copia nominal de instancia alojada por un tercero y la sentencia del Supremo procedente de CENDOJ. El encabezamiento de esta última relaciona un auto aclaratorio de 2019 que queda pendiente de recuperar; no se presume su alcance.
 resumen: Filtración policial que alertó a Francisco Granados sobre la Operación Púnica, permitiendo destruir pruebas y ocultar dinero
 lugar: Comunidad de Madrid (Valdemoro, Pinto)
 tribunal:
@@ -110,13 +106,3 @@ cronologia:
   - https://www.eldiario.es/politica/anos-sancion-guardia-civil-chivatazo-granados-hizo-peligrar-operacion-punica_1_8573356.html
   relevancia: alta
 ---
-
-Esta ficha se limita a la pieza del chivatazo. Las condenas de otras piezas de Púnica no modifican por sí mismas este resultado.
-
-La [sentencia 37/2017, copia judicial alojada por un tercero](https://casos-aislados.com/storage/documents/Sentencia%20del%20Caso%20P%C3%BAnica%20-%20Pieza%20Talamino.pdf), identifica nominalmente a los tres acusados y recoge los hechos probados y el fallo. El PDF tiene 33 páginas: la fecha del documento es el 1 de diciembre de 2017, aunque sus metadatos de creación y la [nota oficial del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-dos-anos-a-Francisco-Granados-por-la-filtracion-de-la-investigacion-de-la--Operacion-Punica-) corresponden al día 4. El juicio se celebró los días 14, 15 y 16 de noviembre.
-
-El relato judicial no fija una fecha exacta para cada destrucción u ocultamiento posterior al aviso. No está acreditado que todos esos actos ocurrieran el 6 de septiembre ni consta la fecha exacta del hallazgo de 972.000 euros. No consta una condena de Marjaliza en esta pieza.
-
-No consta una cuantificación de perjuicio patrimonial indemnizable. No significa ausencia de daño a la investigación: la Audiencia lo apreció como grave. Las acusaciones solicitaron 3.170,30 euros por los gastos de la operación policial de distracción; el tribunal desestimó esa responsabilidad civil al entender que derivaban de decisiones de los investigadores, no directamente del delito. No se suman a un supuesto coste los fondos ocultados, las costas procesales ni las penas.
-
-La [confirmación penal de 2019](https://www.elespanol.com/espana/tribunales/20190314/supremo-confirma-condena-carcel-granados-chivatazo-punica/383212056_0.html) y la [información disciplinaria de 2021](https://www.eldiario.es/politica/anos-sancion-guardia-civil-chivatazo-granados-hizo-peligrar-operacion-punica_1_8573356.html) respaldan los resultados indicados con distinto alcance: la segunda declara expresamente la firmeza penal y la de la sanción militar. Se ha recuperado el PDF oficial de la sentencia penal del Supremo y contrastado su encabezamiento, los antecedentes y el fallo; falta la resolución militar. La [memoria fiscal de 2022](https://www.fiscal.es/memorias/memoria2022/FISCALIA_SITE/capitulo_II/cap_II_6_5.html) corrobora la firmeza y recoge la ejecutoria entonces en trámite, sin acreditar su estado actual. Quedan pendientes la ejecución, eventuales actuaciones constitucionales y una comprobación primaria completa de la evolución hasta el 17 de octubre de 2026. La fecha de una noticia no acredita el cierre de la ejecución. Se enlazan los PDF judiciales verificados: la copia nominal de instancia alojada por un tercero y la sentencia del Supremo procedente de CENDOJ. El encabezamiento de esta última relaciona un auto aclaratorio de 2019 que queda pendiente de recuperar; no se presume su alcance.

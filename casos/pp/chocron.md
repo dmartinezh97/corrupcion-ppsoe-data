@@ -8,35 +8,20 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: archivado
-descripcion: 'La investigación examinó la compra de ejemplares de Melilla y su Judaísmo durante la etapa de Simi
-  Chocrón como consejera de Cultura y Festejos de Melilla. El diputado socialista Dionisio Muñoz denunció públicamente
-  en mayo de 2012 pagos de 70.000 euros por 4.000 ejemplares entre 2009 y 2011, mediante pedidos sucesivos, y cuestionó
-  su existencia y destino. Son las cifras y alegaciones difundidas por el denunciante, no una cuantificación judicial
-  de perjuicio. Chocrón sostuvo que los libros se editaron y se distribuyeron principalmente a melillenses residentes
-  en el extranjero; no se da por probado que los fondos se apropiaran ni que los ejemplares desaparecieran.
+descripcion: |-
+  La investigación examinó la compra de ejemplares de Melilla y su Judaísmo durante la etapa de Simi Chocrón como consejera de Cultura y Festejos de Melilla. El diputado socialista Dionisio Muñoz denunció públicamente en mayo de 2012 pagos de 70.000 euros por 4.000 ejemplares entre 2009 y 2011, mediante pedidos sucesivos, y cuestionó su existencia y destino. Son las cifras y alegaciones difundidas por el denunciante, no una cuantificación judicial de perjuicio. Chocrón sostuvo que los libros se editaron y se distribuyeron principalmente a melillenses residentes en el extranjero; no se da por probado que los fondos se apropiaran ni que los ejemplares desaparecieran.
 
+  El Juzgado de Instrucción número 1 de Melilla la citó como imputada por posible prevaricación administrativa para el 4 de marzo de 2013. La crónica retrospectiva de MelillaHoy acredita su comparecencia ese día y distingue la declaración de ratificación de Muñoz, de 25 de febrero. El País sitúa una denuncia ante la Fiscalía el 30 de enero; MelillaHoy fecha la denuncia el 31 de enero. No se ha comprobado si son dos registros distintos o una discrepancia de fecha. No se confunden esas referencias con una fecha exacta del auto de imputación. La acusación de Muñoz comprendía también malversación, mientras la Fiscalía se centró en prevaricación, según la información de 2018.
 
-  El Juzgado de Instrucción número 1 de Melilla la citó como imputada por posible prevaricación administrativa para
-  el 4 de marzo de 2013. La crónica retrospectiva de MelillaHoy acredita su comparecencia ese día y distingue la
-  declaración de ratificación de Muñoz, de 25 de febrero. El País sitúa una denuncia ante la Fiscalía el 30 de enero;
-  MelillaHoy fecha la denuncia el 31 de enero. No se ha comprobado si son dos registros distintos o una discrepancia de fecha. No se confunden esas referencias con una fecha exacta del auto
-  de imputación. La acusación de Muñoz comprendía también malversación, mientras la Fiscalía se centró en prevaricación,
-  según la información de 2018.
+  En junio de 2017 MelillaHoy documentó un archivo provisional y el recurso de Muñoz. En enero de 2018, ese medio y Europa Press recogieron el anuncio del portavoz del PP Daniel Conesa sobre el rechazo de los recursos y la confirmación del archivo por la Sección Séptima de la Audiencia Provincial de Málaga, con sede en Melilla. MelillaHoy informó de que contra el archivo no cabía recurso ordinario. No se ha recuperado el auto original: permanecen pendientes su fecha, número, motivación, modalidad exacta del sobreseimiento y declaración documental de firmeza. El resultado publicado es archivo, no sentencia condenatoria ni absolución tras juicio.
 
+  Hasta el 17 de octubre de 2026 no se ha verificado una resolución propia posterior que complete esas lagunas. La falta de nuevas noticias no se utiliza para acreditar por sí sola la firmeza o descartar una reapertura. Tampoco se ha comprobado mediante documentación de suministro cuántos ejemplares llegaron a Melilla ni su destino final. La defensa de la corrección de los pagos y las sospechas del denunciante se conservan como posiciones de las partes, no como hechos declarados probados.
 
-  En junio de 2017 MelillaHoy documentó un archivo provisional y el recurso de Muñoz. En enero de 2018, ese medio
-  y Europa Press recogieron el anuncio del portavoz del PP Daniel Conesa sobre el rechazo de los recursos y la confirmación
-  del archivo por la Sección Séptima de la Audiencia Provincial de Málaga, con sede en Melilla. MelillaHoy informó
-  de que contra el archivo no cabía recurso ordinario. No se ha recuperado el auto original: permanecen pendientes
-  su fecha, número, motivación, modalidad exacta del sobreseimiento y declaración documental de firmeza. El resultado
-  publicado es archivo, no sentencia condenatoria ni absolución tras juicio.
+  La [denuncia pública de 2012](https://www.20minutos.es/noticia/1465588/0/) y la [respuesta de Chocrón recogida por El País](https://elpais.com/politica/2013/02/28/actualidad/1362062355_975697.html) muestran versiones enfrentadas sobre el suministro y destino de los ejemplares. Los pagos señalados por la acusación no se convierten en daño penal acreditado. No se atribuye a familiares u otras personas responsabilidad derivada de las insinuaciones formuladas durante el debate político.
 
+  El [archivo provisional publicado en 2017](https://melillahoy.es/simi-chocrn-asume-con-ganas-ilusin-y-con-la-predisposicin-de-siempre-el-cargo-al-frente-del-ism/) precede a la [confirmación del archivo noticiada en enero de 2018](https://melillahoy.es/la-audiencia-archiva-de-forma-definitiva-la-causa-contra-simi-chocron/). El segundo relato distingue el recurso de Muñoz, relativo a malversación y prevaricación, del recurso fiscal sobre prevaricación. La [noticia de Europa Press](https://www.europapress.es/ceuta-y-melilla/noticia-pp-anuncia-archivo-causa-contra-exconsejera-cultura-melilla-simi-chocron-20180114164443.html) recoge el anuncio del PP; no reproduce una sentencia ni justifica describir el caso como absuelto.
 
-  Hasta el 17 de octubre de 2026 no se ha verificado una resolución propia posterior que complete esas lagunas.
-  La falta de nuevas noticias no se utiliza para acreditar por sí sola la firmeza o descartar una reapertura. Tampoco
-  se ha comprobado mediante documentación de suministro cuántos ejemplares llegaron a Melilla ni su destino final.
-  La defensa de la corrección de los pagos y las sospechas del denunciante se conservan como posiciones de las partes,
-  no como hechos declarados probados.'
+  Los autos originales de instrucción y apelación siguen pendientes de recuperación. La ausencia de recurso ordinario procede de la información periodística y no permite completar por inferencia la modalidad exacta del sobreseimiento, su fecha o la documentación de firmeza. Tampoco se presume una investigación vigente por la falta de fuentes posteriores.
 resumen: Investigación por la compra de libros de la Consejería de Cultura de Melilla; la prensa publicó en 2018
   la confirmación del archivo, sin originales judiciales recuperados.
 lugar: Melilla, España
@@ -131,9 +116,3 @@ cronologia:
   - https://melillahoy.es/la-audiencia-archiva-de-forma-definitiva-la-causa-contra-simi-chocron/
   - https://www.europapress.es/ceuta-y-melilla/noticia-pp-anuncia-archivo-causa-contra-exconsejera-cultura-melilla-simi-chocron-20180114164443.html
 ---
-
-La [denuncia pública de 2012](https://www.20minutos.es/noticia/1465588/0/) y la [respuesta de Chocrón recogida por El País](https://elpais.com/politica/2013/02/28/actualidad/1362062355_975697.html) muestran versiones enfrentadas sobre el suministro y destino de los ejemplares. Los pagos señalados por la acusación no se convierten en daño penal acreditado. No se atribuye a familiares u otras personas responsabilidad derivada de las insinuaciones formuladas durante el debate político.
-
-El [archivo provisional publicado en 2017](https://melillahoy.es/simi-chocrn-asume-con-ganas-ilusin-y-con-la-predisposicin-de-siempre-el-cargo-al-frente-del-ism/) precede a la [confirmación del archivo noticiada en enero de 2018](https://melillahoy.es/la-audiencia-archiva-de-forma-definitiva-la-causa-contra-simi-chocron/). El segundo relato distingue el recurso de Muñoz, relativo a malversación y prevaricación, del recurso fiscal sobre prevaricación. La [noticia de Europa Press](https://www.europapress.es/ceuta-y-melilla/noticia-pp-anuncia-archivo-causa-contra-exconsejera-cultura-melilla-simi-chocron-20180114164443.html) recoge el anuncio del PP; no reproduce una sentencia ni justifica describir el caso como absuelto.
-
-Los autos originales de instrucción y apelación siguen pendientes de recuperación. La ausencia de recurso ordinario procede de la información periodística y no permite completar por inferencia la modalidad exacta del sobreseimiento, su fecha o la documentación de firmeza. Tampoco se presume una investigación vigente por la falta de fuentes posteriores.

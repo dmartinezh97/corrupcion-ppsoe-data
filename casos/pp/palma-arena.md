@@ -9,23 +9,22 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Macrocausa con condenas y absoluciones; archivo provisional de la pieza principal comunicado por Fiscalía
-descripcion: >-
-  La causa Palma Arena (DP 2677/2008) se fragmentó en 28 piezas, según las memorias de la Fiscalía
-  Anticorrupción. Su objeto inicial fueron las irregularidades en la construcción del velódromo; las piezas
-  abarcaron también contratos, publicidad y financiación electoral. No existe un único resultado penal
-  aplicable a todas las personas y actuaciones.
+descripcion: |-
+  La causa Palma Arena (DP 2677/2008) se fragmentó en 28 piezas, según las memorias de la Fiscalía Anticorrupción. Su objeto inicial fueron las irregularidades en la construcción del velódromo; las piezas abarcaron también contratos, publicidad y financiación electoral. No existe un único resultado penal aplicable a todas las personas y actuaciones.
 
+  La sentencia del Supremo de 15 de julio de 2013 mantuvo a Jaume Matas nueve meses y un día de prisión por tráfico de influencias, pero lo absolvió de otros delitos. Hubo además condenas y absoluciones en otras piezas. La Fiscalía informó del archivo provisional de la pieza principal en enero de 2020, al quedar sin objeto tras la fragmentación. No equivale a una absolución global ni acredita la extinción de todas las penas.
 
-  La sentencia del Supremo de 15 de julio de 2013 mantuvo a Jaume Matas nueve meses y un día de prisión por
-  tráfico de influencias, pero lo absolvió de otros delitos. Hubo además condenas y absoluciones en otras
-  piezas. La Fiscalía informó del archivo provisional de la pieza principal en enero de 2020, al quedar sin
-  objeto tras la fragmentación. No equivale a una absolución global ni acredita la extinción de todas las
-  penas.
+  Al 17 de octubre de 2026, no consta documentación completa de las resoluciones, recursos y ejecutorias de las 28 piezas. No se atribuye un daño económico global al sobrecoste difundido sobre el velódromo. Son Espases es otro procedimiento, y las penas de Nóos deben examinarse separadamente.
 
+  La memoria de Fiscalía de 2020 sitúa el **archivo provisional de la pieza principal en enero de 2020**, después de su fragmentación en 28 piezas. La de 2022 aún describía el recurso de la pieza Over como pendiente; la noticia de julio de 2022 actualiza ese extremo. Las memorias son fuentes oficiales de seguimiento, pero no sustituyen los autos, sentencias o ejecutorias de cada pieza. No se ha recuperado el auto original de ese archivo.
 
-  Al 17 de octubre de 2026, no consta documentación completa de las resoluciones, recursos y ejecutorias de
-  las 28 piezas. No se atribuye un daño económico global al sobrecoste difundido sobre el velódromo. Son
-  Espases es otro procedimiento, y las penas de Nóos deben examinarse separadamente.
+  Nóos figura como pieza 25 en las memorias: tuvo sentencia de la Audiencia el 17 de febrero de 2017 y del Supremo el 8 de junio de 2018. Sus condenas, absoluciones y responsabilidades civiles requieren tratamiento separado. **Son Espases no debe confundirse con Nóos**: la Fiscalía lo relaciona en un epígrafe propio, como DP 2579/2015. No está acreditada una pena de tres años y ocho meses de prisión por Son Espases.
+
+  No se publica un coste global: el aumento del presupuesto de una obra no acredita por sí solo daño penal o contable. Los 11.550 euros de responsabilidad civil solidaria del Contrato Menor se cuentan una sola vez, no por cada obligado; tampoco se suman automáticamente a otras piezas. Los 6.000 euros impuestos a Matas son una multa, no daño público.
+
+  Al 17 de octubre de 2026, no está acreditado el estado de todas las ejecutorias ni de todas las condenas accesorias. No están acreditados el número total de investigados, la situación procesal de Bartolomé Vicens ni las afirmaciones generales sobre siete ingresos en prisión o enriquecimiento personal. La ausencia de novedades localizadas no acredita firmeza ni cumplimiento íntegro de penas.
+
+  La STS 657/2013 está disponible en el [PDF oficial del Poder Judicial](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia-Jaume%20Matas-Antonio%20Alemany.pdf); se cotejaron su cabecera y las páginas 91–97 sobre la casación y la segunda sentencia. El original de la sentencia consta de 124 páginas.
 resumen: Investigación del velódromo y 28 piezas con resultados judiciales distintos
 lugar: Palma, Illes Balears
 tribunal:
@@ -134,13 +133,3 @@ cronologia:
   urls:
   - https://www.eldiario.es/illes-balears/supremo-confirma-condena-exsecretario-general-pp-balears-financiacion-irregular-partido-2003_1_9160692.html
 ---
-
-La memoria de Fiscalía de 2020 sitúa el **archivo provisional de la pieza principal en enero de 2020**, después de su fragmentación en 28 piezas. La de 2022 aún describía el recurso de la pieza Over como pendiente; la noticia de julio de 2022 actualiza ese extremo. Las memorias son fuentes oficiales de seguimiento, pero no sustituyen los autos, sentencias o ejecutorias de cada pieza. No se ha recuperado el auto original de ese archivo.
-
-Nóos figura como pieza 25 en las memorias: tuvo sentencia de la Audiencia el 17 de febrero de 2017 y del Supremo el 8 de junio de 2018. Sus condenas, absoluciones y responsabilidades civiles requieren tratamiento separado. **Son Espases no debe confundirse con Nóos**: la Fiscalía lo relaciona en un epígrafe propio, como DP 2579/2015. No está acreditada una pena de tres años y ocho meses de prisión por Son Espases.
-
-No se publica un coste global: el aumento del presupuesto de una obra no acredita por sí solo daño penal o contable. Los 11.550 euros de responsabilidad civil solidaria del Contrato Menor se cuentan una sola vez, no por cada obligado; tampoco se suman automáticamente a otras piezas. Los 6.000 euros impuestos a Matas son una multa, no daño público.
-
-Al 17 de octubre de 2026, no está acreditado el estado de todas las ejecutorias ni de todas las condenas accesorias. No están acreditados el número total de investigados, la situación procesal de Bartolomé Vicens ni las afirmaciones generales sobre siete ingresos en prisión o enriquecimiento personal. La ausencia de novedades localizadas no acredita firmeza ni cumplimiento íntegro de penas.
-
-La STS 657/2013 está disponible en el [PDF oficial del Poder Judicial](https://www.poderjudicial.es/stfls/SALA%20DE%20PRENSA/NOVEDADES/Sentencia-Jaume%20Matas-Antonio%20Alemany.pdf); se cotejaron su cabecera y las páginas 91–97 sobre la casación y la segunda sentencia. El original de la sentencia consta de 124 páginas.

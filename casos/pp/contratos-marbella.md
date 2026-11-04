@@ -9,48 +9,36 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: desconocido
-descripcion: 'La ficha reúne tres ámbitos distintos: las adjudicaciones del Ayuntamiento de Marbella a Codecosol
-  y otras sociedades de Nils Anders Fischer; el litigio sobre el acceso de la oposición a esos expedientes; y la
-  causa penal por narcotráfico y blanqueo que afectó al entorno familiar de la alcaldesa del PP, María de los Ángeles
-  Muñoz Uriol. La condena penal de Joakim Peter Broberg, hijastro de la alcaldesa, no equivale a una condena por
-  las adjudicaciones municipales. Muñoz no figura como acusada en ese juicio.
+descripcion: |-
+  La ficha reúne tres ámbitos distintos: las adjudicaciones del Ayuntamiento de Marbella a Codecosol y otras sociedades de Nils Anders Fischer; el litigio sobre el acceso de la oposición a esos expedientes; y la causa penal por narcotráfico y blanqueo que afectó al entorno familiar de la alcaldesa del PP, María de los Ángeles Muñoz Uriol. La condena penal de Joakim Peter Broberg, hijastro de la alcaldesa, no equivale a una condena por las adjudicaciones municipales. Muñoz no figura como acusada en ese juicio.
 
+  Según el análisis periodístico de los expedientes entregados en 2023, Codecosol recibió veinte contratos municipales entre 2011 y 2015 por 1.383.945 euros: diecisiete menores, por unos 840.000 euros, y tres mediante procedimientos negociados con publicidad. El primer contrato, de enero de 2011, ascendía a 250.000 euros del Plan Proteja para rehabilitar pavimentos. Son importes de contratación, no un perjuicio público acreditado. La prensa también documentó dos adjudicaciones distintas en 2020, a Las Villas de Puente Romano y Promociones Ingenio 2015, por 94.661,63 euros con IVA; no forman parte del recuento de Codecosol de 2011-2015. Una investigación de la Fiscalía sobre parte de la contratación fue archivada, según las crónicas; no se dispone del decreto para precisar su alcance y fundamento. No se ha acreditado una sentencia que declare ilícitas estas adjudicaciones.
 
-  Según el análisis periodístico de los expedientes entregados en 2023, Codecosol recibió veinte contratos municipales
-  entre 2011 y 2015 por 1.383.945 euros: diecisiete menores, por unos 840.000 euros, y tres mediante procedimientos
-  negociados con publicidad. El primer contrato, de enero de 2011, ascendía a 250.000 euros del Plan Proteja para
-  rehabilitar pavimentos. Son importes de contratación, no un perjuicio público acreditado. La prensa también documentó
-  dos adjudicaciones distintas en 2020, a Las Villas de Puente Romano y Promociones Ingenio 2015, por 94.661,63
-  euros con IVA; no forman parte del recuento de Codecosol de 2011-2015. Una investigación de la Fiscalía sobre
-  parte de la contratación fue archivada, según las crónicas; no se dispone del decreto para precisar su alcance
-  y fundamento. No se ha acreditado una sentencia que declare ilícitas estas adjudicaciones.
+  La Audiencia Nacional dictó el 30 de junio de 2026 la sentencia 15/2026, difundida el 1 de julio. Condenó a Joakim Broberg a nueve años de prisión —cuatro años y seis meses por tráfico de drogas y otros tantos por blanqueo— y a 4,9 millones de euros de multa; lo absolvió de organización criminal. Nils Fischer, fundador y administrador de Codecosol, fue absuelto de todos los delitos. El tribunal no consideró probado que actuase como testaferro de Broberg ni el origen narcotraficante del dinero de la operación inmobiliaria de Las Villas de Puente Romano y Codecosol. La sentencia condenó a veintiuna personas y absolvió completamente a tres, según el CGPJ. Es recurrible ante la Sala de Apelación de la Audiencia Nacional: no se ha localizado resolución posterior ni constancia individual de firmeza de la condena o de la absolución. Las noticias de julio describen a Broberg en libertad provisional, pero no acreditan por sí solas su situación al 15 de octubre de 2026.
 
+  Lars Gunnar Sune Broberg, padre de Joakim y marido de la alcaldesa, fue procesado, pero el procedimiento contra él quedó suspendido por su estado de salud y murió el 4 de marzo de 2023 sin ser juzgado. La sentencia contra su hijo no constituye una condena individual del padre. La acusación por el supuesto soborno a Rafael Gallego, policía local, se separó del juicio de narcotráfico: la prensa de julio de 2026 situaba su enjuiciamiento por jurado en la Audiencia Provincial de Málaga, sin fecha. No se han localizado la resolución de remisión ni un fallo de esa rama.
 
-  La Audiencia Nacional dictó el 30 de junio de 2026 la sentencia 15/2026, difundida el 1 de julio. Condenó a Joakim
-  Broberg a nueve años de prisión —cuatro años y seis meses por tráfico de drogas y otros tantos por blanqueo— y
-  a 4,9 millones de euros de multa; lo absolvió de organización criminal. Nils Fischer, fundador y administrador
-  de Codecosol, fue absuelto de todos los delitos. El tribunal no consideró probado que actuase como testaferro
-  de Broberg ni el origen narcotraficante del dinero de la operación inmobiliaria de Las Villas de Puente Romano
-  y Codecosol. La sentencia condenó a veintiuna personas y absolvió completamente a tres, según el CGPJ. Es recurrible
-  ante la Sala de Apelación de la Audiencia Nacional: no se ha localizado resolución posterior ni constancia individual
-  de firmeza de la condena o de la absolución. Las noticias de julio describen a Broberg en libertad provisional,
-  pero no acreditan por sí solas su situación al 15 de octubre de 2026.
+  En la vía contencioso-administrativa, el PSOE solicitó los contratos el 7 de noviembre de 2022 y los recibió el 12 de septiembre de 2023, según las crónicas. La sentencia de 31 de octubre de 2023 del Juzgado de lo Contencioso-Administrativo nº 1 de Málaga desestimó su recurso al considerar justificado el retraso. La Fiscalía había defendido que se vulneró el derecho de participación política de los concejales; no era una acusación penal por desobediencia. La prensa de diciembre de 2023 documentó la apelación del PSOE y la posición favorable de la Fiscalía. No se dispone de las resoluciones originales de este litigio ni se ha localizado el desenlace de la apelación.
 
+  ### Adjudicaciones y control municipal
 
-  Lars Gunnar Sune Broberg, padre de Joakim y marido de la alcaldesa, fue procesado, pero el procedimiento contra
-  él quedó suspendido por su estado de salud y murió el 4 de marzo de 2023 sin ser juzgado. La sentencia contra
-  su hijo no constituye una condena individual del padre. La acusación por el supuesto soborno a Rafael Gallego,
-  policía local, se separó del juicio de narcotráfico: la prensa de julio de 2026 situaba su enjuiciamiento por
-  jurado en la Audiencia Provincial de Málaga, sin fecha. No se han localizado la resolución de remisión ni un fallo
-  de esa rama.
+  Codecosol es la denominación abreviada de Construcciones y Demoliciones Costa del Sol SL. El BORME identifica a su fundador como Nils Anders Fischer. Su administración no fue continua: en 2012 lo sustituyó Milena Camara Cardoso y en 2014 volvió a ser nombrado. El recuento de veinte contratos de 2011-2015 procede de la documentación municipal analizada por la prensa. El primer contrato corresponde a enero de 2011; por tanto, no todas las adjudicaciones pertenecen al mandato iniciado en junio de ese año.
 
+  Las adjudicaciones de 2020 a Las Villas de Puente Romano y Promociones Ingenio 2015 constituyen otro grupo de contratos. Ni esos importes ni los de Codecosol pueden sumarse a multas, blanqueo o decomisos para calcular un daño público. El archivo fiscal que describen las crónicas afectó a parte de la contratación; su alcance exacto no queda acreditado sin el decreto original.
 
-  En la vía contencioso-administrativa, el PSOE solicitó los contratos el 7 de noviembre de 2022 y los recibió el
-  12 de septiembre de 2023, según las crónicas. La sentencia de 31 de octubre de 2023 del Juzgado de lo Contencioso-Administrativo
-  nº 1 de Málaga desestimó su recurso al considerar justificado el retraso. La Fiscalía había defendido que se vulneró
-  el derecho de participación política de los concejales; no era una acusación penal por desobediencia. La prensa
-  de diciembre de 2023 documentó la apelación del PSOE y la posición favorable de la Fiscalía. No se dispone de
-  las resoluciones originales de este litigio ni se ha localizado el desenlace de la apelación.'
+  ### Resultados individuales del proceso penal
+
+  La sentencia 15/2026 de la Audiencia Nacional condena a Joakim Peter Broberg por tráfico de drogas y blanqueo y lo absuelve de organización criminal. Nils Anders Fischer resulta absuelto de todos los cargos. El tribunal considera insuficiente la prueba del origen narcotraficante de los fondos de la operación de Las Villas de Puente Romano y rechaza que se haya demostrado su actuación como testaferro. La sospecha de la instrucción no debe mantenerse como hecho probado después de esa absolución.
+
+  Lars Gunnar Sune Broberg murió sin ser juzgado, una vez suspendido su procedimiento por razones de salud. Las referencias a operaciones examinadas en la sentencia contra su hijo no suplen una sentencia individual contra él. María de los Ángeles Muñoz Uriol no fue acusada en este juicio. Alexander John Broberg aparece en la controversia patrimonial sobre el decomiso como persona que alega verse perjudicada, sin que ello lo convierta en condenado penal.
+
+  La sentencia puede recurrirse ante la Sala de Apelación de la Audiencia Nacional. No consta un desenlace posterior del recurso anunciado ni la firmeza individual de los pronunciamientos. La información de julio sobre libertad provisional debe entenderse referida a ese momento.
+
+  ### Vías judiciales diferentes
+
+  El cohecho atribuido a Broberg y al policía local Rafael Gallego se separó del juicio por narcotráfico. La prensa de julio de 2026 lo situaba ante un jurado de la Audiencia Provincial de Málaga, sin fecha; no se ha localizado su resolución de remisión ni un fallo posterior.
+
+  El procedimiento por el acceso del PSOE a los expedientes fue contencioso-administrativo. La sentencia de 31 de octubre de 2023 desestimó la reclamación por el retraso en su entrega. La Fiscalía defendió la lesión del derecho de participación política y respaldó la apelación, cuyo resultado no se ha localizado. Esa controversia sobre información municipal no es un procedimiento penal por desobediencia ni una sentencia sobre la legalidad de los contratos.
 resumen: Adjudicaciones a sociedades de Nils Fischer, absuelto en la causa de narcotráfico que condenó a Joakim
   Broberg; el desenlace del litigio por el acceso a los expedientes no está confirmado.
 lugar: Marbella, Málaga, Andalucía
@@ -334,23 +322,3 @@ cronologia:
     type: documento
     relevancia: media
 ---
-
-## Adjudicaciones y control municipal
-
-Codecosol es la denominación abreviada de Construcciones y Demoliciones Costa del Sol SL. El BORME identifica a su fundador como Nils Anders Fischer. Su administración no fue continua: en 2012 lo sustituyó Milena Camara Cardoso y en 2014 volvió a ser nombrado. El recuento de veinte contratos de 2011-2015 procede de la documentación municipal analizada por la prensa. El primer contrato corresponde a enero de 2011; por tanto, no todas las adjudicaciones pertenecen al mandato iniciado en junio de ese año.
-
-Las adjudicaciones de 2020 a Las Villas de Puente Romano y Promociones Ingenio 2015 constituyen otro grupo de contratos. Ni esos importes ni los de Codecosol pueden sumarse a multas, blanqueo o decomisos para calcular un daño público. El archivo fiscal que describen las crónicas afectó a parte de la contratación; su alcance exacto no queda acreditado sin el decreto original.
-
-## Resultados individuales del proceso penal
-
-La sentencia 15/2026 de la Audiencia Nacional condena a Joakim Peter Broberg por tráfico de drogas y blanqueo y lo absuelve de organización criminal. Nils Anders Fischer resulta absuelto de todos los cargos. El tribunal considera insuficiente la prueba del origen narcotraficante de los fondos de la operación de Las Villas de Puente Romano y rechaza que se haya demostrado su actuación como testaferro. La sospecha de la instrucción no debe mantenerse como hecho probado después de esa absolución.
-
-Lars Gunnar Sune Broberg murió sin ser juzgado, una vez suspendido su procedimiento por razones de salud. Las referencias a operaciones examinadas en la sentencia contra su hijo no suplen una sentencia individual contra él. María de los Ángeles Muñoz Uriol no fue acusada en este juicio. Alexander John Broberg aparece en la controversia patrimonial sobre el decomiso como persona que alega verse perjudicada, sin que ello lo convierta en condenado penal.
-
-La sentencia puede recurrirse ante la Sala de Apelación de la Audiencia Nacional. No consta un desenlace posterior del recurso anunciado ni la firmeza individual de los pronunciamientos. La información de julio sobre libertad provisional debe entenderse referida a ese momento.
-
-## Vías judiciales diferentes
-
-El cohecho atribuido a Broberg y al policía local Rafael Gallego se separó del juicio por narcotráfico. La prensa de julio de 2026 lo situaba ante un jurado de la Audiencia Provincial de Málaga, sin fecha; no se ha localizado su resolución de remisión ni un fallo posterior.
-
-El procedimiento por el acceso del PSOE a los expedientes fue contencioso-administrativo. La sentencia de 31 de octubre de 2023 desestimó la reclamación por el retraso en su entrega. La Fiscalía defendió la lesión del derecho de participación política y respaldó la apelación, cuyo resultado no se ha localizado. Esa controversia sobre información municipal no es un procedimiento penal por desobediencia ni una sentencia sobre la legalidad de los contratos.

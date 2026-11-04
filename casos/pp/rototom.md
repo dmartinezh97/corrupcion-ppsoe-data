@@ -7,35 +7,22 @@ estadoPrincipal: En investigación
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: Investigación documentada en 2016; desenlace no verificado
-descripcion: >-
-  El asunto se refiere a la gestión del aparcamiento y terrenos vinculados al festival Rototom Sunsplash de
-  Benicàssim en las ediciones de 2015 y 2016. Europa Press informó en noviembre de 2016, citando al TSJ
-  valenciano, de una causa abierta desde 2015 en el Juzgado de Instrucción nº 3 de Castellón por presunta
-  prevaricación. Otras crónicas describían comprobaciones tributarias sobre Aturitmo SL, empresa explotadora
-  del aparcamiento. Sin el auto original no se fija una relación definitiva de delitos o personas
-  investigadas.
+descripcion: |-
+  El asunto se refiere a la gestión del aparcamiento y terrenos vinculados al festival Rototom Sunsplash de Benicàssim en las ediciones de 2015 y 2016. Europa Press informó en noviembre de 2016, citando al TSJ valenciano, de una causa abierta desde 2015 en el Juzgado de Instrucción nº 3 de Castellón por presunta prevaricación. Otras crónicas describían comprobaciones tributarias sobre Aturitmo SL, empresa explotadora del aparcamiento. Sin el auto original no se fija una relación definitiva de delitos o personas investigadas.
 
+  El 22 de noviembre de 2016 se anunció la citación de Susana Marqués, alcaldesa del PP, como investigada para el 20 de enero siguiente, es decir, de 2017. El señalamiento no acredita que la declaración llegara a celebrarse. No corresponde a una apertura de juicio ni a una condena.
 
-  El 22 de noviembre de 2016 se anunció la citación de Susana Marqués, alcaldesa del PP, como investigada para
-  el 20 de enero siguiente, es decir, de 2017. El señalamiento no acredita que la declaración llegara a
-  celebrarse. No corresponde a una apertura de juicio ni a una condena.
+  Debe distinguirse a los testigos de los investigados. Filippo Giunta fue citado como testigo; elDiario.es rectificó expresamente una imputación publicada inicialmente sobre él. SER y Todo Benicàssim también situaban al jefe de Policía Eugenio Capitán y a funcionarios municipales como testigos, mientras que el texto de elDiario.es mantenía una versión diferente sobre Capitán. Sin resolución judicial no se presenta como acreditada su condición de investigado en este procedimiento. Todo Benicàssim atribuyó al abogado de la denuncia que Yolanda Rubio, administradora de Aturitmo, estaba investigada; falta el documento judicial que concrete esa situación.
 
+  No se han obtenido las resoluciones originales ni un desenlace individual verificable hasta el 15 de octubre de 2026. No se afirma que la causa continúe abierta, que haya sido archivada o que exista sentencia firme por la ausencia de noticias posteriores. La actualización de una base de datos en octubre de 2017 no es una resolución judicial ni prueba suficiente de continuidad. Tampoco se ha acreditado un daño económico o una cuota tributaria defraudada cuantificados. Los procedimientos diferentes sobre el festival o sobre las mismas personas no se trasladan a esta investigación.
 
-  Debe distinguirse a los testigos de los investigados. Filippo Giunta fue citado como testigo; elDiario.es
-  rectificó expresamente una imputación publicada inicialmente sobre él. SER y Todo Benicàssim también
-  situaban al jefe de Policía Eugenio Capitán y a funcionarios municipales como testigos, mientras que el
-  texto de elDiario.es mantenía una versión diferente sobre Capitán. Sin resolución judicial no se presenta
-  como acreditada su condición de investigado en este procedimiento. Todo Benicàssim atribuyó al abogado de la
-  denuncia que Yolanda Rubio, administradora de Aturitmo, estaba investigada; falta el documento judicial que
-  concrete esa situación.
+  La [información de Europa Press](https://www.europapress.es/comunitat-valenciana/noticia-alcaldesa-benicassim-declarara-investigada-supuestas-irregularidades-gestion-parking-rototom-20161122182049.html) permite documentar una citación como investigada, no una acusación para juicio ni una condena. Las referencias de las noticias al 19 y al 20 de enero eran señalamientos futuros desde noviembre de 2016. La fecha exacta de apertura de la causa en 2015 no se ha verificado, por lo que no se inventa un primer día de mes.
 
+  Las [crónicas de Todo Benicàssim](https://todobenicassim.com/el-juzgado-investiga-presuntas-irregularidades-en-la-gestion-del-parking/) distinguen a los funcionarios citados como testigos y atribuyen al abogado Rafael Bellido la versión sobre la administradora de Aturitmo. La [rectificación de elDiario.es](https://www.eldiario.es/comunitat-valenciana/politica/investigan-policia-local-benicassim-rototom_1_3758816.html) se refiere expresamente a Giunta. No convierte por sí sola en cierta la atribución de imputación a Capitán que persiste en otro párrafo y contradice al resto de fuentes. Sin el auto y los actos posteriores permanece abierta esa laguna de comprobación.
 
-  No se han obtenido las resoluciones originales ni un desenlace individual verificable hasta el 15 de octubre
-  de 2026. No se afirma que la causa continúe abierta, que haya sido archivada o que exista sentencia firme
-  por la ausencia de noticias posteriores. La actualización de una base de datos en octubre de 2017 no es una
-  resolución judicial ni prueba suficiente de continuidad. Tampoco se ha acreditado un daño económico o una
-  cuota tributaria defraudada cuantificados. Los procedimientos diferentes sobre el festival o sobre las
-  mismas personas no se trasladan a esta investigación.
+  El [BORME de 2013](https://www.boe.es/borme/dias/2013/09/27/pdfs/BORME-A-2013-185-08.pdf) corrobora el nombramiento de Yolanda Rubio Gallego como administradora de Aturitmo. El [BORME de 2023](https://www.boe.es/borme/dias/2023/10/16/pdfs/BORME-A-2023-197-08.pdf) recoge un concurso voluntario y su conclusión en el Juzgado Mercantil nº 6 de Barcelona. Es un procedimiento mercantil: no demuestra archivo o condena penal en la causa del aparcamiento. No se incluyen estos boletines como sentencias del caso.
+
+  No se trasladan a esta ficha resultados de litigios sobre artistas o activismo en el festival, procedimientos italianos o causas diferentes contra funcionarios municipales. Faltan las resoluciones penales y la situación individual posterior para determinar un desenlace actual.
 resumen: Investigación sobre el aparcamiento del Rototom y citación de la alcaldesa como investigada anunciada en 2016;
   testigos y desenlaces posteriores pendientes de comprobación judicial.
 lugar: Benicàssim, Castellón, Comunidad Valenciana
@@ -99,11 +86,3 @@ cronologia:
   - https://www.europapress.es/comunitat-valenciana/noticia-alcaldesa-benicassim-declarara-investigada-supuestas-irregularidades-gestion-parking-rototom-20161122182049.html
   type: investigacion
 ---
-
-La [información de Europa Press](https://www.europapress.es/comunitat-valenciana/noticia-alcaldesa-benicassim-declarara-investigada-supuestas-irregularidades-gestion-parking-rototom-20161122182049.html) permite documentar una citación como investigada, no una acusación para juicio ni una condena. Las referencias de las noticias al 19 y al 20 de enero eran señalamientos futuros desde noviembre de 2016. La fecha exacta de apertura de la causa en 2015 no se ha verificado, por lo que no se inventa un primer día de mes.
-
-Las [crónicas de Todo Benicàssim](https://todobenicassim.com/el-juzgado-investiga-presuntas-irregularidades-en-la-gestion-del-parking/) distinguen a los funcionarios citados como testigos y atribuyen al abogado Rafael Bellido la versión sobre la administradora de Aturitmo. La [rectificación de elDiario.es](https://www.eldiario.es/comunitat-valenciana/politica/investigan-policia-local-benicassim-rototom_1_3758816.html) se refiere expresamente a Giunta. No convierte por sí sola en cierta la atribución de imputación a Capitán que persiste en otro párrafo y contradice al resto de fuentes. Sin el auto y los actos posteriores permanece abierta esa laguna de comprobación.
-
-El [BORME de 2013](https://www.boe.es/borme/dias/2013/09/27/pdfs/BORME-A-2013-185-08.pdf) corrobora el nombramiento de Yolanda Rubio Gallego como administradora de Aturitmo. El [BORME de 2023](https://www.boe.es/borme/dias/2023/10/16/pdfs/BORME-A-2023-197-08.pdf) recoge un concurso voluntario y su conclusión en el Juzgado Mercantil nº 6 de Barcelona. Es un procedimiento mercantil: no demuestra archivo o condena penal en la causa del aparcamiento. No se incluyen estos boletines como sentencias del caso.
-
-No se trasladan a esta ficha resultados de litigios sobre artistas o activismo en el festival, procedimientos italianos o causas diferentes contra funcionarios municipales. Faltan las resoluciones penales y la situación individual posterior para determinar un desenlace actual.

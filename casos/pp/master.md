@@ -9,28 +9,28 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución y condenas
-descripcion: 'El caso se originó en las informaciones publicadas por elDiario.es el 21 de marzo de 2018 sobre el
-  máster de Cristina Cifuentes en la Universidad Rey Juan Carlos, correspondiente al curso 2011–2012. La causa que
-  llegó a juicio se centró en la falsificación, realizada en marzo de 2018, del acta que pretendía acreditar una
-  defensa del Trabajo de Fin de Máster el 2 de julio de 2012. Esa fecha consignada en el documento falso no acredita
-  que la defensa se celebrara. La Audiencia describió graves irregularidades académicas, pero declaró que no le
-  correspondía decidir si se había producido aquella defensa.
+descripcion: |-
+  El caso se originó en las informaciones publicadas por elDiario.es el 21 de marzo de 2018 sobre el máster de Cristina Cifuentes en la Universidad Rey Juan Carlos, correspondiente al curso 2011–2012. La causa que llegó a juicio se centró en la falsificación, realizada en marzo de 2018, del acta que pretendía acreditar una defensa del Trabajo de Fin de Máster el 2 de julio de 2012. Esa fecha consignada en el documento falso no acredita que la defensa se celebrara. La Audiencia describió graves irregularidades académicas, pero declaró que no le correspondía decidir si se había producido aquella defensa.
 
+  La sentencia 64/2021, de 15 de febrero, absolvió a Cifuentes porque no se probó que indujera la falsificación. Condenó a Cecilia Rosado a un año y seis meses de prisión y a María Teresa Feito a tres años. El TSJ de Madrid, en sentencia 217/2021 de 25 de junio, mantuvo la absolución y rebajó las penas a un año para Rosado y dos años para Feito, por falsedad en documento oficial como autora e inductora, respectivamente. También fijó multas de dos y cuatro meses, a cinco euros diarios, e inhabilitación para sufragio pasivo durante las penas de prisión.
 
-  La sentencia 64/2021, de 15 de febrero, absolvió a Cifuentes porque no se probó que indujera la falsificación.
-  Condenó a Cecilia Rosado a un año y seis meses de prisión y a María Teresa Feito a tres años. El TSJ de Madrid,
-  en sentencia 217/2021 de 25 de junio, mantuvo la absolución y rebajó las penas a un año para Rosado y dos años
-  para Feito, por falsedad en documento oficial como autora e inductora, respectivamente. También fijó multas de
-  dos y cuatro meses, a cinco euros diarios, e inhabilitación para sufragio pasivo durante las penas de prisión.
+  El Tribunal Supremo desestimó únicamente el recurso de Feito mediante la sentencia 347/2022, de 6 de abril, contra la que indicó que no cabía recurso. Rosado no recurrió su condena rebajada, según la comunicación oficial; la casación no volvió a juzgar la absolución de Cifuentes. No se ha documentado aquí la ejecución, eventual suspensión o extinción de las penas, ni se extrapola este resultado a otros procedimientos del Instituto de Derecho Público. La pieza relativa a Pablo Casado fue archivada por el Supremo el 28 de septiembre de 2018, sin abrir investigación penal contra él, por falta de indicios consistentes de participación delictiva. No se atribuye firmeza autónoma a todos los archivos parciales sin sus resoluciones de recurso.
 
+  La falsificación y los antecedentes académicos
 
-  El Tribunal Supremo desestimó únicamente el recurso de Feito mediante la sentencia 347/2022, de 6 de abril, contra
-  la que indicó que no cabía recurso. Rosado no recurrió su condena rebajada, según la comunicación oficial; la
-  casación no volvió a juzgar la absolución de Cifuentes. No se ha documentado aquí la ejecución, eventual suspensión
-  o extinción de las penas, ni se extrapola este resultado a otros procedimientos del Instituto de Derecho Público.
-  La pieza relativa a Pablo Casado fue archivada por el Supremo el 28 de septiembre de 2018, sin abrir investigación
-  penal contra él, por falta de indicios consistentes de participación delictiva. No se atribuye firmeza autónoma
-  a todos los archivos parciales sin sus resoluciones de recurso.'
+  El juicio no abarcó indistintamente todas las irregularidades del posgrado. Se centró en el acta fabricada en marzo de 2018 para acreditar retrospectivamente una defensa del TFM. La Audiencia describió cambios irregulares de calificaciones y circunstancias incompatibles con un desarrollo académico ordinario, pero dejó fuera de su competencia decidir si se había producido la defensa del trabajo. La absolución de Cifuentes respondió a que no se probó su participación inductora en la falsificación.
+
+  Resultados individuales y recursos
+
+  La apelación confirmó esa absolución y modificó las penas de Rosado y Feito. La condena final reflejada en las resoluciones es de un año para la autora material y dos para la inductora, con multas diferenciadas y privación de sufragio pasivo durante las penas de prisión. Se retiraron en apelación las inhabilitaciones genéricas para empleo público impuestas inicialmente. La sentencia de casación sólo examinó el recurso de Feito y declara que no cabe recurso contra ella. La comunicación oficial explica que Rosado no recurrió. Estos datos no acreditan por sí solos cómo se ejecutaron las penas, si se suspendieron o cuándo se extinguieron.
+
+  La pieza de Casado y los archivos parciales
+
+  El Supremo archivó las actuaciones relativas al aforado en septiembre de 2018. El Juzgado 51 aplicó después ese criterio al archivo provisional por prevaricación y cohecho respecto de diecinueve personas, manteniendo entonces la investigación de la falsedad del acta. No se equiparan ese archivo, la absolución posterior de Cifuentes y las condenas de las otras dos acusadas. Tampoco se trasladan a otras investigaciones relativas a la gestión económica del Instituto de Derecho Público. Enrique Álvarez Conde falleció en abril de 2019 sin ser juzgado. Alicia López de los Mozos figuró entre las investigadas en octubre de 2018, pero no entre las tres personas enjuiciadas en 2021; no se presenta sólo como testigo desde el principio.
+
+  Las multas son penas, no una valoración del daño al patrimonio público. No se dispone de una cuantificación judicial verificada del perjuicio económico que permita asignar un coste al caso.
+
+  Fuentes: [cronología periodística](https://www.eldiario.es/politica/cronologia-caso-master-ascenso-caida-cristina-cifuentes-cuatro-actos_130_6791650.html), [comunicación del rector según RTVE](https://www.rtve.es/noticias/20180406/rector-rey-juan-carlos-confirma-no-hay-constancia-del-trabajo-fin-master-cifuentes/1710220.shtml), [auto de archivo parcial de 1 de octubre de 2018, copia judicial difundida por SER](https://cadenaser00.epimg.net/descargables/2018/10/01/ed94539b78430dc912b00a764d6093b6.pdf), [auto del Supremo de 28 de septiembre de 2018, copia judicial](https://www.losgenoveses.net/Personajes%20Populares/jucesconantecedentes/marchena/Marchena.%20Sentencias/Tribunal%20Supremo.%20Archiva%20diligencias%20sobre%20Pablo%20Casado.28.09.18.pdf), [muerte de Álvarez Conde y antecedentes de acusación según Europa Press](https://www.europapress.es/madrid/noticia-muerte-alvarez-conde-deja-cifuentes-cecilia-rosado-teresa-feito-unicas-procesadas-caso-master-20190401172741.html), [sentencia inicial](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=f037468095b182b1&encode=true&databasematch=AN), [apelación](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=77934934994f95f4&encode=true&databasematch=AN) y [casación](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=268eebef038a6b94&encode=true&databasematch=AN). La [comunicación del CGPJ de 8 de abril de 2022](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Tribunal-Supremo-confirma-la-condena-a-dos-anos-de-prision-impuesta-a-una-exasesora-de-la-Consejeria-de-Educacion-la-Comunidad-de-Madrid-en-el-llamado--caso-Master-) delimita el alcance de la casación.
 resumen: 'Falsificación del acta del TFM de Cifuentes: absolución de la expresidenta, condenas de Rosado y Feito
   y archivo separado respecto de Casado.'
 lugar: Madrid, Comunidad de Madrid
@@ -239,19 +239,3 @@ cronologia:
   - https://www.publico.es/politica/supremo-confirma-pena-dos-anos-carcel-condenada-caso-master-absolvio-cifuentes.html
   type: sentencia
 ---
-
-La falsificación y los antecedentes académicos
-
-El juicio no abarcó indistintamente todas las irregularidades del posgrado. Se centró en el acta fabricada en marzo de 2018 para acreditar retrospectivamente una defensa del TFM. La Audiencia describió cambios irregulares de calificaciones y circunstancias incompatibles con un desarrollo académico ordinario, pero dejó fuera de su competencia decidir si se había producido la defensa del trabajo. La absolución de Cifuentes respondió a que no se probó su participación inductora en la falsificación.
-
-Resultados individuales y recursos
-
-La apelación confirmó esa absolución y modificó las penas de Rosado y Feito. La condena final reflejada en las resoluciones es de un año para la autora material y dos para la inductora, con multas diferenciadas y privación de sufragio pasivo durante las penas de prisión. Se retiraron en apelación las inhabilitaciones genéricas para empleo público impuestas inicialmente. La sentencia de casación sólo examinó el recurso de Feito y declara que no cabe recurso contra ella. La comunicación oficial explica que Rosado no recurrió. Estos datos no acreditan por sí solos cómo se ejecutaron las penas, si se suspendieron o cuándo se extinguieron.
-
-La pieza de Casado y los archivos parciales
-
-El Supremo archivó las actuaciones relativas al aforado en septiembre de 2018. El Juzgado 51 aplicó después ese criterio al archivo provisional por prevaricación y cohecho respecto de diecinueve personas, manteniendo entonces la investigación de la falsedad del acta. No se equiparan ese archivo, la absolución posterior de Cifuentes y las condenas de las otras dos acusadas. Tampoco se trasladan a otras investigaciones relativas a la gestión económica del Instituto de Derecho Público. Enrique Álvarez Conde falleció en abril de 2019 sin ser juzgado. Alicia López de los Mozos figuró entre las investigadas en octubre de 2018, pero no entre las tres personas enjuiciadas en 2021; no se presenta sólo como testigo desde el principio.
-
-Las multas son penas, no una valoración del daño al patrimonio público. No se dispone de una cuantificación judicial verificada del perjuicio económico que permita asignar un coste al caso.
-
-Fuentes: [cronología periodística](https://www.eldiario.es/politica/cronologia-caso-master-ascenso-caida-cristina-cifuentes-cuatro-actos_130_6791650.html), [comunicación del rector según RTVE](https://www.rtve.es/noticias/20180406/rector-rey-juan-carlos-confirma-no-hay-constancia-del-trabajo-fin-master-cifuentes/1710220.shtml), [auto de archivo parcial de 1 de octubre de 2018, copia judicial difundida por SER](https://cadenaser00.epimg.net/descargables/2018/10/01/ed94539b78430dc912b00a764d6093b6.pdf), [auto del Supremo de 28 de septiembre de 2018, copia judicial](https://www.losgenoveses.net/Personajes%20Populares/jucesconantecedentes/marchena/Marchena.%20Sentencias/Tribunal%20Supremo.%20Archiva%20diligencias%20sobre%20Pablo%20Casado.28.09.18.pdf), [muerte de Álvarez Conde y antecedentes de acusación según Europa Press](https://www.europapress.es/madrid/noticia-muerte-alvarez-conde-deja-cifuentes-cecilia-rosado-teresa-feito-unicas-procesadas-caso-master-20190401172741.html), [sentencia inicial](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=f037468095b182b1&encode=true&databasematch=AN), [apelación](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=77934934994f95f4&encode=true&databasematch=AN) y [casación](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=268eebef038a6b94&encode=true&databasematch=AN). La [comunicación del CGPJ de 8 de abril de 2022](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Tribunal-Supremo-confirma-la-condena-a-dos-anos-de-prision-impuesta-a-una-exasesora-de-la-Consejeria-de-Educacion-la-Comunidad-de-Madrid-en-el-llamado--caso-Master-) delimita el alcance de la casación.

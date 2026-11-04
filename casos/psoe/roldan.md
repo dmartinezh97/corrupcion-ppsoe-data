@@ -11,25 +11,7 @@ firmeza: Sin determinar
 estado: Condenas modificadas en casación en 1999; libertad definitiva comunicada en 2010; responsabilidades
   económicas pendientes de seguimiento
 lugar: Madrid / Zaragoza, España
-descripcion: 'Luis Roldán Ibáñez, director general de la Guardia Civil entre 1986 y 1993, fue investigado por
-  apropiarse de fondos reservados, cobrar comisiones por adjudicaciones, obtener pagos por servicios inexistentes
-  y ocultar ingresos a Hacienda. La STS 1493/1999 reproduce los hechos probados y resuelve los recursos contra
-  la sentencia de la Audiencia Provincial de Madrid, Sección Sexta, de 24 de febrero de 1998. No fue una condena
-  de la Audiencia Nacional.
-
-
-  La sentencia inicial impuso a Roldán penas que sumaban 28 años de prisión. El Supremo añadió en diciembre
-  de 1999 la condena por falsedad mercantil, elevando la suma a 31 años. También modificó los resultados para
-  otros procesados. La pena nominal no equivale al tiempo efectivo de cumplimiento: la libertad definitiva
-  se comunicó el 19 de marzo de 2010, después de unos quince años de cumplimiento en distintos regímenes. Roldán
-  falleció el 24 de marzo de 2022.
-
-
-  Las cantidades de fondos apropiados, comisiones, multas, obligaciones fiscales e indemnizaciones no se presentan
-  como un único coste sumable. No se ha verificado la liquidación completa de las responsabilidades económicas
-  ni la documentación íntegra de ejecución. Queda pendiente recuperar los originales del amparo y de la posterior
-  actuación ante el Tribunal Europeo de Derechos Humanos, referida en bibliografía jurídica. Estos límites
-  se mantienen al corte del 17 de octubre de 2026.'
+descripcion: "Luis Roldán Ibáñez, director general de la Guardia Civil entre 1986 y 1993, fue investigado por apropiarse de fondos reservados, cobrar comisiones por adjudicaciones, obtener pagos por servicios inexistentes y ocultar ingresos a Hacienda. Su nombramiento, de 31 de octubre de 1986, consta en el [BOE](https://boe.es/boe/dias/1986/11/03/pdfs/A36654-36654.pdf); la sentencia sitúa el comienzo del mandato el 4 de noviembre. La investigación periodística y el cese se produjeron en 1993, sin una fecha diaria del reportaje acreditada.\n\nLa Audiencia Provincial de Madrid, Sección Sexta, le impuso penas que sumaban 28 años de prisión el 24 de febrero de 1998. La [STS 1493/1999](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c98a564c3cdd5e46&encode=true&databasematch=AN) resolvió los recursos y su segunda sentencia añadió falsedad mercantil, elevando la suma de Roldán a 31 años. También modificó los resultados de otros procesados, descritos nominalmente por [El País el 22 de diciembre de 1999](https://elpais.com/diario/1999/12/22/espana/945817210_850215.html). Hubo condenas, absoluciones por prescripción y absoluciones iniciales revocadas; son resultados distintos. El original de 59 páginas reproduce el fallo de instancia en las páginas 24–25 y la segunda sentencia en las 57–58.\n\nEl fallo fija una indemnización al Estado de **578.905.000 pesetas más intereses** por malversación, solidariamente entre Roldán y Esparza; la segunda sentencia añade responsabilidad subsidiaria de Rodríguez-Porto respecto del autor. Es una misma indemnización. La multa de **1.600 millones de pesetas** por cohecho y las obligaciones de resarcimiento a Hacienda por cuotas defraudadas son conceptos distintos. No se suman como un único importe sustraído ni se combinan con las cifras divulgativas de 1.700 millones, 435 millones o 1.800 millones para establecer un perjuicio global. Falta aclarar su relación con los pagos recuperados.\n\nLa pena nominal no equivale al tiempo efectivo de cumplimiento. [Cadena SER comunicó la libertad definitiva el 19 de marzo de 2010](https://cadenaser.com/ser/2010/03/19/espana/1268959811_850215.html), después de unos quince años en distintos regímenes. Roldán falleció el 24 de marzo de 2022. Sus afirmaciones sobre el dinero y Francisco Paesa son declaraciones del condenado, no conclusiones judiciales. Este caso es distinto del procedimiento de fondos reservados contra otros responsables de Interior.\n\nAl 17 de octubre de 2026, no están verificadas la liquidación completa de multas e indemnizaciones ni la documentación íntegra de ejecución. Faltan también los originales de las actuaciones de amparo y de Estrasburgo: un estudio jurídico de 2006 refiere decisiones del TEDH de 18 de octubre de 2005 sobre Roldán y Rodríguez-Porto, pero sin esos textos no puede acreditarse su alcance. No consta una resolución posterior que resuelva estas lagunas."
 resumen: 'Condena por fondos reservados, comisiones y otros delitos: 28 años en 1998, elevados a 31 por el
   Supremo en 1999; libertad definitiva en 2010.'
 tribunal:
@@ -136,13 +118,3 @@ cronologia:
   urls:
   - https://www.eldiario.es/politica/muere-luis-roldan-exdirector-guardia-civil-condenado-saquear-arcas-publicas_1_8857748.html
 ---
-
-La [sentencia oficial de casación](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c98a564c3cdd5e46&encode=true&databasematch=AN) diferencia la condena inicial de la segunda sentencia de 1999. Sus páginas 24–25 reproducen el fallo de instancia y las páginas 57–58 la segunda sentencia. Los nombres y resultados individuales se contrastan con la [crónica nominal de 22 de diciembre de 1999](https://elpais.com/diario/1999/12/22/espana/945817210_850215.html), sin completar identidades a partir de los pseudónimos del PDF. Las absoluciones por prescripción se distinguen de las condenas y de las absoluciones iniciales que fueron revocadas.
-
-**Cantidades y responsabilidad civil.** El fallo transcrito fija **578.905.000 pesetas más intereses** de indemnización al Estado por malversación, solidariamente entre Roldán y Esparza. La segunda sentencia añade la responsabilidad subsidiaria de Rodríguez-Porto respecto del autor. Es una misma indemnización, no tres daños. El fallo también recoge una multa de **1.600 millones de pesetas** por cohecho y obligaciones de resarcimiento a Hacienda por cuotas defraudadas, conceptos que no se suman a la indemnización como si fueran un único importe sustraído. Esos conceptos y los pagos recuperados no permiten establecer un perjuicio global sin aclarar sus relaciones. Las cifras divulgativas de 1.700 millones, 435 millones o 1.800 millones no se combinan para fabricar un total.
-
-El [BOE original](https://boe.es/boe/dias/1986/11/03/pdfs/A36654-36654.pdf) acredita el nombramiento de 31 de octubre de 1986. El relato de hechos de la sentencia sitúa el comienzo del mandato el 4 de noviembre. Son referencias distintas de la fecha convencional de diciembre que figuraba en esta ficha. La investigación periodística y el posterior cese se sitúan en 1993, pero no se fija aquí una fecha diaria del reportaje sin contrastar la portada original.
-
-La [noticia contemporánea sobre la libertad definitiva](https://cadenaser.com/ser/2010/03/19/espana/1268959811_850215.html) acredita el hito de marzo de 2010. Las afirmaciones de Roldán sobre dónde estaba el dinero o sobre Francisco Paesa son declaraciones del condenado, no conclusiones judiciales que esta ficha dé por probadas. Tampoco se confunden con el procedimiento separado de los fondos reservados que afectó a otros responsables de Interior.
-
-**Documentación disponible al 17 de octubre de 2026:** la resolución oficial consta de 59 páginas. Falta verificar el expediente completo de ejecución, la liquidación de multas e indemnizaciones y los originales de las actuaciones de amparo y de Estrasburgo. Un estudio jurídico de 2006 refiere decisiones del TEDH de 18 de octubre de 2005 sobre Roldán y Rodríguez-Porto; no se dispone de sus textos originales para acreditar el alcance de los fallos europeos. No consta una resolución posterior que permita resolver esas lagunas.

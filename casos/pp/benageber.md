@@ -9,12 +9,18 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: resultados distintos por procedimiento
 resumen: 'Sabfes: condena mantenida en casación en 2025; abogado: absolución en 2024; libros: desenlace pendiente.'
-descripcion: 'La ficha reúne procedimientos distintos de San Antonio de Benagéber: la gestión de Sabfes, las facturas
-  de un abogado municipal y la denuncia sobre libros conmemorativos. En Sabfes, la condena por prevaricación comunicada
-  contra Eugenio Cañizares en 2022 fue confirmada en apelación y el recurso de casación fue desestimado por la STS
-  1066/2025, de 30 de diciembre. En la pieza del abogado hubo absolución, comunicada en enero de 2024, por prescripción
-  y ausencia de carácter delictivo. El desenlace de la denuncia sobre libros no se ha acreditado. No hay un coste
-  agregado verificado ni una condena común por malversación.'
+descripcion: |-
+  La ficha reúne procedimientos distintos de San Antonio de Benagéber: la gestión de Sabfes, las facturas de un abogado municipal y la denuncia sobre libros conmemorativos. En Sabfes, la condena por prevaricación comunicada contra Eugenio Cañizares en 2022 fue confirmada en apelación y el recurso de casación fue desestimado por la STS 1066/2025, de 30 de diciembre. En la pieza del abogado hubo absolución, comunicada en enero de 2024, por prescripción y ausencia de carácter delictivo. El desenlace de la denuncia sobre libros no se ha acreditado. No hay un coste agregado verificado ni una condena común por malversación.
+
+  En Sabfes se ha recuperado el original CENDOJ de la sentencia 1066/2025 del Supremo, de 30 de diciembre de 2025 (ROJ STS 6095/2025; recurso 2677/2023). Sus antecedentes corrigen la fecha anterior: la sentencia de instancia es de 24 de mayo de 2022; el 8 de junio corresponde a su divulgación periodística. El fallo de instancia reproducido impone ocho años, seis meses y un día de inhabilitación y reserva las posibles acciones civiles al Ayuntamiento. No acredita un daño de 300.000 euros ni permite sumar todas las transferencias como dinero sustraído. La reproducción identifica además pagos por 60.000 euros en abril de 2010; no se adopta la fecha 2020 que aparece en la noticia de Valencia Plaza.
+
+  La absolución por los servicios jurídicos es independiente. La prensa de enero de 2024 explica que los servicios facturados por 146.063,89 euros se prestaron y que la acusación de malversación fue retirada. Recoge tanto prescripción como falta de carácter delictivo. Esa facturación no se considera perjuicio patrimonial. Sin el fallo íntegro no se fija fecha judicial ni firmeza de esta absolución.
+
+  La noticia de 2014 sobre libros recoge una petición fiscal y la denuncia de Plataforma SAB. No se confirma como hecho probado la inexistencia de los libros ni se incorpora su importe a un daño global. Las fechas de encargo, pago y denuncia recogidas por las fuentes no cuentan con corroboración documental. No están corroborados los litigios urbanísticos, el supuesto embargo o las afirmaciones sobre plenos. Las condenas del abogado en otros municipios pertenecen a otros procedimientos.
+
+  El original del CENDOJ consta de catorce páginas. La fecha judicial es el 30 de diciembre de 2025; la generación del PDF el 18 de octubre de 2026 no es una nueva fecha del acto judicial ni acredita su publicación. La reproducción editorial de Civil-Mercantil tiene 18 páginas y es un documento distinto del facsímil oficial.
+
+  Quedan pendientes los originales separados de instancia y apelación de Sabfes y de las otras piezas, el desenlace de los libros, posibles recursos de la absolución y la ejecución de la inhabilitación. No se infieren identidades a partir de pseudónimos ni fecha de firmeza o extinción de pena.
 lugar: San Antonio de Benagéber, Valencia
 tribunal:
 - Audiencia Provincial de Valencia, secciones Primera y Quinta según pieza
@@ -90,13 +96,3 @@ cronologia:
   type: sentencia
 numeroSentencia: 'Sabfes: SAP Valencia 300/2022; STSJCV 324/2022; STS 1066/2025 (ECLI:ES:TS:2025:6095)'
 ---
-
-En Sabfes se ha recuperado el original CENDOJ de la sentencia 1066/2025 del Supremo, de 30 de diciembre de 2025 (ROJ STS 6095/2025; recurso 2677/2023). Sus antecedentes corrigen la fecha anterior: la sentencia de instancia es de 24 de mayo de 2022; el 8 de junio corresponde a su divulgación periodística. El fallo de instancia reproducido impone ocho años, seis meses y un día de inhabilitación y reserva las posibles acciones civiles al Ayuntamiento. No acredita un daño de 300.000 euros ni permite sumar todas las transferencias como dinero sustraído. La reproducción identifica además pagos por 60.000 euros en abril de 2010; no se adopta la fecha 2020 que aparece en la noticia de Valencia Plaza.
-
-La absolución por los servicios jurídicos es independiente. La prensa de enero de 2024 explica que los servicios facturados por 146.063,89 euros se prestaron y que la acusación de malversación fue retirada. Recoge tanto prescripción como falta de carácter delictivo. Esa facturación no se considera perjuicio patrimonial. Sin el fallo íntegro no se fija fecha judicial ni firmeza de esta absolución.
-
-La noticia de 2014 sobre libros recoge una petición fiscal y la denuncia de Plataforma SAB. No se confirma como hecho probado la inexistencia de los libros ni se incorpora su importe a un daño global. Las fechas de encargo, pago y denuncia recogidas por las fuentes no cuentan con corroboración documental. No están corroborados los litigios urbanísticos, el supuesto embargo o las afirmaciones sobre plenos. Las condenas del abogado en otros municipios pertenecen a otros procedimientos.
-
-El original del CENDOJ consta de catorce páginas. La fecha judicial es el 30 de diciembre de 2025; la generación del PDF el 18 de octubre de 2026 no es una nueva fecha del acto judicial ni acredita su publicación. La reproducción editorial de Civil-Mercantil tiene 18 páginas y es un documento distinto del facsímil oficial.
-
-Quedan pendientes los originales separados de instancia y apelación de Sabfes y de las otras piezas, el desenlace de los libros, posibles recursos de la absolución y la ejecución de la inhabilitación. No se infieren identidades a partir de pseudónimos ni fecha de firmeza o extinción de pena.

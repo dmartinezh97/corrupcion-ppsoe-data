@@ -9,19 +9,18 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Archivo de diligencias de Fiscalía informado en 2011; evolución judicial posterior pendiente"
-descripcion: >-
-  El llamado Bragasgate o caso Facturas se refiere a la justificación de las asignaciones del grupo municipal
-  del PP en Santa Cruz de Tenerife durante 2003-2007. En el verano de 2010 se difundió un informe de la
-  Intervención municipal que cuestionaba facturas personales y deficiencias formales. El colectivo de juristas
-  Justicia y Sociedad denunció los hechos ante Anticorrupción. No se presenta la denuncia como una declaración
-  judicial de culpabilidad.
+descripcion: |-
+  El llamado Bragasgate o caso Facturas se refiere a la justificación de las asignaciones del grupo municipal del PP en Santa Cruz de Tenerife durante 2003-2007. En el verano de 2010 se difundió un informe de la Intervención municipal que cuestionaba facturas personales y deficiencias formales. El colectivo de juristas Justicia y Sociedad denunció los hechos ante Anticorrupción. No se presenta la denuncia como una declaración judicial de culpabilidad.
 
+  En agosto de 2011 varios medios informaron del archivo de las diligencias de Fiscalía por falta de indicios o pruebas. Ese archivo no equivale a una sentencia absolutoria ni a un sobreseimiento judicial. Las fuentes discrepan sobre cuándo se recibió la notificación y anunciaban una posible denuncia ante los juzgados. No se ha recuperado el decreto fiscal ni comprobado el resultado de esa iniciativa posterior hasta el 17 de octubre de 2026. Las cifras de asignaciones y facturas no se consideran un daño patrimonial probado.
 
-  En agosto de 2011 varios medios informaron del archivo de las diligencias de Fiscalía por falta de indicios
-  o pruebas. Ese archivo no equivale a una sentencia absolutoria ni a un sobreseimiento judicial. Las fuentes
-  discrepan sobre cuándo se recibió la notificación y anunciaban una posible denuncia ante los juzgados. No se
-  ha recuperado el decreto fiscal ni comprobado el resultado de esa iniciativa posterior hasta el 17 de
-  octubre de 2026. Las cifras de asignaciones y facturas no se consideran un daño patrimonial probado.
+  La información periodística sobre la Intervención distingue varias magnitudes: asignaciones recibidas, facturas justificativas, defectos formales y gastos ajenos a la actividad municipal. No son categorías equivalentes ni cantidades que deban sumarse como apropiación. No consta una cuantificación del perjuicio que respalde los 160.000 euros. Tampoco se atribuye cada compra a una persona concreta sin soporte documental.
+
+  El País y Diario de Avisos atribuyen a declaraciones de Tavío y Manuel Fernández el reconocimiento del uso de facturas personales para justificar fondos destinados al partido. Esa información no se convierte en una confesión judicial ni en una condena por financiación ilegal. Las fuentes describen de manera distinta los posibles delitos de la denuncia; sin el escrito original no se fija una calificación penal exhaustiva. No están acreditadas las imputaciones de tráfico de influencias u otros delitos.
+
+  La Fiscalía es el órgano que habría archivado sus diligencias, no un tribunal. Diario de Avisos recoge que los denunciantes recibieron una comunicación breve y desconocían sus razones; Canarias Ahora habló de falta de pruebas y El País de ausencia de indicios. Son formulaciones periodísticas que requieren contraste con el decreto, no fundamentos jurídicos íntegros aquí verificados.
+
+  **Límites al 17 de octubre de 2026:** faltan el informe municipal original con anexos, la denuncia y el decreto fiscal. El enlace histórico al PDF desde Canarias Ahora redirige a la portada; el documento no está disponible en ese destino. Las fechas de la cronología corresponden a publicaciones. No constan los días exactos del inicio y fin de legislatura, la difusión, la denuncia y el archivo. No se ha comprobado si llegó a presentarse la nueva denuncia judicial ni su resultado. No se afirma cierre judicial definitivo, firmeza ni ausencia de posteriores actuaciones.
 resumen: "Denuncia sobre facturas del grupo municipal del PP; archivo fiscal informado en 2011, sin resolución original ni evolución judicial posterior cotejadas."
 lugar: "Santa Cruz de Tenerife, Canarias"
 tribunal: []
@@ -52,11 +51,3 @@ cronologia:
       - "https://www.diariodeavisos.com/2011/08/la-fiscalia-archiva-la-denuncia-por-falsificacion-del-%E2%80%98caso-facturas%E2%80%99/"
       - "https://www.eldiario.es/canariasahora/politica/anticorrupcion-archiva-bragagate-falta-pruebas_1_4594989.html"
 ---
-
-La información periodística sobre la Intervención distingue varias magnitudes: asignaciones recibidas, facturas justificativas, defectos formales y gastos ajenos a la actividad municipal. No son categorías equivalentes ni cantidades que deban sumarse como apropiación. No consta una cuantificación del perjuicio que respalde los 160.000 euros. Tampoco se atribuye cada compra a una persona concreta sin soporte documental.
-
-El País y Diario de Avisos atribuyen a declaraciones de Tavío y Manuel Fernández el reconocimiento del uso de facturas personales para justificar fondos destinados al partido. Esa información no se convierte en una confesión judicial ni en una condena por financiación ilegal. Las fuentes describen de manera distinta los posibles delitos de la denuncia; sin el escrito original no se fija una calificación penal exhaustiva. No están acreditadas las imputaciones de tráfico de influencias u otros delitos.
-
-La Fiscalía es el órgano que habría archivado sus diligencias, no un tribunal. Diario de Avisos recoge que los denunciantes recibieron una comunicación breve y desconocían sus razones; Canarias Ahora habló de falta de pruebas y El País de ausencia de indicios. Son formulaciones periodísticas que requieren contraste con el decreto, no fundamentos jurídicos íntegros aquí verificados.
-
-**Límites al 17 de octubre de 2026:** faltan el informe municipal original con anexos, la denuncia y el decreto fiscal. El enlace histórico al PDF desde Canarias Ahora redirige a la portada; el documento no está disponible en ese destino. Las fechas de la cronología corresponden a publicaciones. No constan los días exactos del inicio y fin de legislatura, la difusión, la denuncia y el archivo. No se ha comprobado si llegó a presentarse la nueva denuncia judicial ni su resultado. No se afirma cierre judicial definitivo, firmeza ni ausencia de posteriores actuaciones.

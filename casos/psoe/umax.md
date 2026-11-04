@@ -9,16 +9,16 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas y absoluciones
 lugar: Andalucía
-descripcion: 'Contratación de personal mediante Umax y otras sociedades para trabajar en la Consejería de Empleo
-  entre 2003 y 2010, al margen de los procedimientos administrativos. La STS464/2023, de 14 de junio, mantuvo las
-  condenas de Francisco Javier Guerrero y Ulpiano Cuadrado, dejó a Juan Márquez cinco años y tres meses de prisión
-  por malversación y falsedad, redujo a Javier Aguado la pena a cuatro años y seis meses por malversación y absolvió
-  a Lourdes Medina y Daniel Rivera. Guerrero había fallecido en 2020 y el recurso fue sostenido por sus familiares:
-  no se presenta su pena como susceptible de cumplimiento personal posterior. El Supremo remitió a ejecución la
-  determinación individual de daños e indemnizaciones. La prensa acredita prisión de Márquez desde marzo de 2024;
-  no se ha verificado íntegramente la ejecución de todos los condenados ni los efectos de posteriores incidencias
-  hasta 17 de octubre de 2026. No se trasladan a Umax las revisiones constitucionales de la pieza política de los
-  ERE ni se equipara el gasto en nóminas a daño neto definitivo.'
+descripcion: |-
+  Contratación de personal mediante Umax y otras sociedades para trabajar en la Consejería de Empleo entre 2003 y 2010, al margen de los procedimientos administrativos. La STS464/2023, de 14 de junio, mantuvo las condenas de Francisco Javier Guerrero y Ulpiano Cuadrado, dejó a Juan Márquez cinco años y tres meses de prisión por malversación y falsedad, redujo a Javier Aguado la pena a cuatro años y seis meses por malversación y absolvió a Lourdes Medina y Daniel Rivera. Guerrero había fallecido en 2020 y el recurso fue sostenido por sus familiares: no se presenta su pena como susceptible de cumplimiento personal posterior. El Supremo remitió a ejecución la determinación individual de daños e indemnizaciones. La prensa acredita prisión de Márquez desde marzo de 2024; no se ha verificado íntegramente la ejecución de todos los condenados ni los efectos de posteriores incidencias hasta 17 de octubre de 2026. No se trasladan a Umax las revisiones constitucionales de la pieza política de los ERE ni se equipara el gasto en nóminas a daño neto definitivo.
+
+  La [sentencia del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07dda90ebc411fd0a0a8778d75e36f0d&encode=true&databasematch=AN) distingue la participación de cada acusado; la [información nominal](https://www.eldiario.es/andalucia/supremo-confirma-condenas-carcel-tres-exaltos-cargos-junta-andalucia-caso-umax-corrupcion_1_10298143.html) permite identificar los resultados sin reconstruir alias judiciales. No todos los trabajadores tenían necesariamente vínculos familiares: las fuentes hablan de al menos 44 contratados y de vínculos de amistad, vecindad o parentesco en algunos casos.
+
+  La segunda sentencia, página 81, difiere a ejecución la indemnización de cada condenado, mediante incidente contradictorio y según su periodo de intervención, con el límite de la instancia. Los 2,4 millones no constituyen un perjuicio conjunto acreditado. Nóminas, beneficio empresarial, IVA y responsabilidad civil son conceptos distintos y no se suman como daño final ni se reparten por inferencia.
+
+  El [auto de 13 de junio de 2024](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=9f0891bdaadab6fca0a8778d75e36f0d&encode=true&databasematch=AN) inadmite un incidente de nulidad y se remite también a un auto de 19 de julio de 2023 sobre reforma penal. La cabecera de la sentencia enlaza otras resoluciones posteriores de 2023 y 2024 cuyo alcance completo queda pendiente. No se confunde este seguimiento con los amparos de la pieza política ERE.
+
+  La [noticia de julio de 2024](https://www.europapress.es/andalucia/noticia-prision-exdirector-trabajo-juan-marquez-condena-cinco-anos-tres-meses-caso-umax-20240706125523.html) acredita la situación penitenciaria de Márquez en aquella fecha, sin probar por sí sola la actual ni el cumplimiento de otras personas. Una referencia de septiembre de 2025 sobre Aguado no pudo leerse por bloqueo 403 y no se utiliza para fijar su fecha de ingreso. Quedan pendientes las resoluciones de ejecución, los cobros y el seguimiento íntegro de incidencias individuales hasta la fecha indicada.
 resumen: 'Contratación irregular de personal mediante Umax: condenas modificadas y dos absoluciones en casación,
   con indemnizaciones diferidas a ejecución.'
 tribunal:
@@ -102,11 +102,3 @@ cronologia:
   type: ejecucion
   relevancia: alta
 ---
-
-La [sentencia del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=07dda90ebc411fd0a0a8778d75e36f0d&encode=true&databasematch=AN) distingue la participación de cada acusado; la [información nominal](https://www.eldiario.es/andalucia/supremo-confirma-condenas-carcel-tres-exaltos-cargos-junta-andalucia-caso-umax-corrupcion_1_10298143.html) permite identificar los resultados sin reconstruir alias judiciales. No todos los trabajadores tenían necesariamente vínculos familiares: las fuentes hablan de al menos 44 contratados y de vínculos de amistad, vecindad o parentesco en algunos casos.
-
-La segunda sentencia, página 81, difiere a ejecución la indemnización de cada condenado, mediante incidente contradictorio y según su periodo de intervención, con el límite de la instancia. Los 2,4 millones no constituyen un perjuicio conjunto acreditado. Nóminas, beneficio empresarial, IVA y responsabilidad civil son conceptos distintos y no se suman como daño final ni se reparten por inferencia.
-
-El [auto de 13 de junio de 2024](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=9f0891bdaadab6fca0a8778d75e36f0d&encode=true&databasematch=AN) inadmite un incidente de nulidad y se remite también a un auto de 19 de julio de 2023 sobre reforma penal. La cabecera de la sentencia enlaza otras resoluciones posteriores de 2023 y 2024 cuyo alcance completo queda pendiente. No se confunde este seguimiento con los amparos de la pieza política ERE.
-
-La [noticia de julio de 2024](https://www.europapress.es/andalucia/noticia-prision-exdirector-trabajo-juan-marquez-condena-cinco-anos-tres-meses-caso-umax-20240706125523.html) acredita la situación penitenciaria de Márquez en aquella fecha, sin probar por sí sola la actual ni el cumplimiento de otras personas. Una referencia de septiembre de 2025 sobre Aguado no pudo leerse por bloqueo 403 y no se utiliza para fijar su fecha de ingreso. Quedan pendientes las resoluciones de ejecución, los cobros y el seguimiento íntegro de incidencias individuales hasta la fecha indicada.

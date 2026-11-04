@@ -9,26 +9,26 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución en primera instancia
 lugar: Aller, Asturias
-descripcion: 'David Moreno Bobela y Gabriel Pérez Villalta fueron absueltos del delito continuado de prevaricación
-  por la concesión de subvenciones a la Asociación para la Promoción y Enseñanza del Deporte de Aller. La sentencia
-  26/2018, de 1 de febrero, la dictó el Juzgado de lo Penal número 2 de Oviedo, tras un procedimiento instruido
-  por el Juzgado número 2 de Lena. Fiscalía y la acusación popular habían solicitado diez años de inhabilitación
-  especial para cada uno. La sentencia era apelable: no se han verificado una eventual apelación ni la firmeza posterior
-  hasta el 15 de octubre de 2026. Esta laguna no permite presentar la investigación inicial como si continuara abierta.
+descripcion: |-
+  David Moreno Bobela y Gabriel Pérez Villalta fueron absueltos del delito continuado de prevaricación por la concesión de subvenciones a la Asociación para la Promoción y Enseñanza del Deporte de Aller. La sentencia 26/2018, de 1 de febrero, la dictó el Juzgado de lo Penal número 2 de Oviedo, tras un procedimiento instruido por el Juzgado número 2 de Lena. Fiscalía y la acusación popular habían solicitado diez años de inhabilitación especial para cada uno. La sentencia era apelable: no se han verificado una eventual apelación ni la firmeza posterior hasta el 15 de octubre de 2026. Esta laguna no permite presentar la investigación inicial como si continuara abierta.
 
+  La controversia se refería a los pagos para las actividades deportivas y los monitores del polideportivo municipal de Moreda, amparados por convenios de 1996 y sus modificaciones y prórrogas. La sentencia recoge informes favorables de Intervención entre noviembre de 1997 y diciembre de 2004 y reparos posteriores, a partir de 2005. No da por probada una concesión delictiva e ininterrumpida durante diecisiete años: concluye que no concurrían todos los requisitos de la prevaricación, incluida la arbitrariedad exigida penalmente y la conciencia de actuar injustamente.
 
-  La controversia se refería a los pagos para las actividades deportivas y los monitores del polideportivo municipal
-  de Moreda, amparados por convenios de 1996 y sus modificaciones y prórrogas. La sentencia recoge informes favorables
-  de Intervención entre noviembre de 1997 y diciembre de 2004 y reparos posteriores, a partir de 2005. No da por
-  probada una concesión delictiva e ininterrumpida durante diecisiete años: concluye que no concurrían todos los
-  requisitos de la prevaricación, incluida la arbitrariedad exigida penalmente y la conciencia de actuar injustamente.
+  Los hechos probados cuantifican en 593.984,32 euros las subvenciones concedidas entre 2008 y 2014. Esa cifra es el volumen de ayudas, no un perjuicio público declarado. Tampoco se presenta como daño la anterior cifra publicada de 180.000 euros. La salida de Moreno y de otros cinco concejales del PSOE en abril de 2017 fue una consecuencia política de la apertura del juicio, no una declaración de culpabilidad. Esta ficha trata de las subvenciones deportivas y no de las actuaciones relativas a la residencia de Felechosa en la Operación Hulla.
 
+  Las subvenciones y el resultado del juicio
 
-  Los hechos probados cuantifican en 593.984,32 euros las subvenciones concedidas entre 2008 y 2014. Esa cifra es
-  el volumen de ayudas, no un perjuicio público declarado. Tampoco se presenta como daño la anterior cifra publicada
-  de 180.000 euros. La salida de Moreno y de otros cinco concejales del PSOE en abril de 2017 fue una consecuencia
-  política de la apertura del juicio, no una declaración de culpabilidad. Esta ficha trata de las subvenciones deportivas
-  y no de las actuaciones relativas a la residencia de Felechosa en la Operación Hulla.'
+  La [sentencia oficial](https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Asturias/DOCUMENTOS%20DE%20INTER%C3%89S/Jdo%20Penal%20Oviedo%201%20febrero%202018.pdf), dictada y publicada el 1 de febrero de 2018, corresponde al juicio oral 169/2017 del Juzgado de lo Penal 2 de Oviedo, procedente del procedimiento abreviado 415/2014 de Lena. Su copia pública anonimiza a los dos acusados. La identificación nominal de David Moreno y Gabriel Pérez Villalta se contrasta con la [crónica del juicio](https://cadenaser.com/emisora/2018/01/15/radio_asturias/1516011431_198541.html) y la [noticia de la absolución](https://cadenaser.com/emisora/2018/02/01/radio_asturias/1517493324_319513.html), que coinciden en órgano, hechos y fecha.
+
+  Los convenios de 1996, las subvenciones mensuales y los posteriores reparos municipales forman parte de los hechos probados. La sentencia explica que, durante los primeros años, Intervención informó favorablemente tras la justificación de gastos. A partir de 2005 formuló informes negativos y después reparos de legalidad, levantados por la alcaldía con dación de cuenta al pleno. No cabe tratar todo el periodo como una práctica penalmente ilícita declarada.
+
+  La jueza valoró que no existía un criterio técnico pacífico sobre las prórrogas del convenio ni sobre si se trataba de subvenciones o de una contraprestación por servicios. Consideró que no se acreditaron la arbitrariedad penalmente exigida ni la conciencia de actuar injustamente. La distinción entre posibles defectos administrativos y prevaricación fundamenta la absolución; la petición de diez años de inhabilitación de las acusaciones no fue una pena impuesta.
+
+  Importes y alcance
+
+  Los 593.984,32 euros figuran en los hechos probados como total de subvenciones de 2008 a 2014. No son una indemnización ni una cuantificación de daño. La sentencia no impone responsabilidad civil y declara de oficio las costas. Tampoco se convierte el coste de los servicios o la cifra de ayudas de un periodo parcial en dinero sustraído.
+
+  La resolución admitía apelación y las noticias de ese día advertían que no era firme. No se ha contrastado una resolución de recurso ni una declaración posterior de firmeza hasta el corte de octubre de 2026. Se conserva, por ello, el resultado absolutorio documentado sin atribuirle una firmeza no acreditada ni afirmar que la investigación original siga activa. Las actuaciones sobre la residencia de Felechosa y la Operación Hulla son otro procedimiento, aunque aparezcan nombres de responsables municipales comunes.
 resumen: Los dos alcaldes fueron absueltos en febrero de 2018 de prevaricación por las subvenciones deportivas.
   Sentencia oficial verificada; apelación y firmeza posteriores no comprobadas.
 tribunal:
@@ -113,17 +113,3 @@ cronologia:
   type: sentencia
   relevancia: alta
 ---
-
-Las subvenciones y el resultado del juicio
-
-La [sentencia oficial](https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Asturias/DOCUMENTOS%20DE%20INTER%C3%89S/Jdo%20Penal%20Oviedo%201%20febrero%202018.pdf), dictada y publicada el 1 de febrero de 2018, corresponde al juicio oral 169/2017 del Juzgado de lo Penal 2 de Oviedo, procedente del procedimiento abreviado 415/2014 de Lena. Su copia pública anonimiza a los dos acusados. La identificación nominal de David Moreno y Gabriel Pérez Villalta se contrasta con la [crónica del juicio](https://cadenaser.com/emisora/2018/01/15/radio_asturias/1516011431_198541.html) y la [noticia de la absolución](https://cadenaser.com/emisora/2018/02/01/radio_asturias/1517493324_319513.html), que coinciden en órgano, hechos y fecha.
-
-Los convenios de 1996, las subvenciones mensuales y los posteriores reparos municipales forman parte de los hechos probados. La sentencia explica que, durante los primeros años, Intervención informó favorablemente tras la justificación de gastos. A partir de 2005 formuló informes negativos y después reparos de legalidad, levantados por la alcaldía con dación de cuenta al pleno. No cabe tratar todo el periodo como una práctica penalmente ilícita declarada.
-
-La jueza valoró que no existía un criterio técnico pacífico sobre las prórrogas del convenio ni sobre si se trataba de subvenciones o de una contraprestación por servicios. Consideró que no se acreditaron la arbitrariedad penalmente exigida ni la conciencia de actuar injustamente. La distinción entre posibles defectos administrativos y prevaricación fundamenta la absolución; la petición de diez años de inhabilitación de las acusaciones no fue una pena impuesta.
-
-Importes y alcance
-
-Los 593.984,32 euros figuran en los hechos probados como total de subvenciones de 2008 a 2014. No son una indemnización ni una cuantificación de daño. La sentencia no impone responsabilidad civil y declara de oficio las costas. Tampoco se convierte el coste de los servicios o la cifra de ayudas de un periodo parcial en dinero sustraído.
-
-La resolución admitía apelación y las noticias de ese día advertían que no era firme. No se ha contrastado una resolución de recurso ni una declaración posterior de firmeza hasta el corte de octubre de 2026. Se conserva, por ello, el resultado absolutorio documentado sin atribuirle una firmeza no acreditada ni afirmar que la investigación original siga activa. Las actuaciones sobre la residencia de Felechosa y la Operación Hulla son otro procedimiento, aunque aparezcan nombres de responsables municipales comunes.

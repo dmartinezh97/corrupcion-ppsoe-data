@@ -9,48 +9,28 @@ estadoPrincipal: Pendiente de juicio
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: Juicio de juegos interescolares anulado; otras piezas sin desenlace comprobado
-descripcion: 'El caso Deportes de Crevillent reúne investigaciones distintas sobre contratos municipales con Tot
-  Sport Crevi y otras entidades relacionadas con los hijos del coordinador de Deportes, Francisco Manuel Serna González.
-  La Fiscalía cuestionó adjudicaciones de servicios de conserjería, mantenimiento, monitores y juegos deportivos;
-  esas acusaciones no equivalen a hechos delictivos declarados probados. Los contratos se remontan a años anteriores
-  a la investigación de 2018 y no se usa una adjudicación de 2004 como fecha de inicio del procedimiento penal.
+descripcion: |-
+  El caso Deportes de Crevillent reúne investigaciones distintas sobre contratos municipales con Tot Sport Crevi y otras entidades relacionadas con los hijos del coordinador de Deportes, Francisco Manuel Serna González. La Fiscalía cuestionó adjudicaciones de servicios de conserjería, mantenimiento, monitores y juegos deportivos; esas acusaciones no equivalen a hechos delictivos declarados probados. Los contratos se remontan a años anteriores a la investigación de 2018 y no se usa una adjudicación de 2004 como fecha de inicio del procedimiento penal.
 
+  En la pieza de los juegos deportivos interescolares, la Audiencia Provincial de Alicante, Sección Séptima con sede en Elche, absolvió a cuatro acusados y a Tot Sport Crevi como responsable civil subsidiaria por sentencia 44/2025, de 31 de enero. La sentencia 159/2025 del TSJCV, de 6 de mayo (ECLI:ES:TSJCV:2025:57; rollo 157/2025), estimó el recurso de la Fiscalía y anuló tanto aquella sentencia como el juicio oral. Ordenó repetirlo con magistrados distintos para decidir libremente sobre absolución o condena por prevaricación y negociaciones prohibidas, así como la eventual responsabilidad de la empresa. No cabe casación contra esa decisión de anulación. No es una condena ni permite conservar la absolución anulada como desenlace vigente. No se ha documentado aquí el nuevo juicio o su fallo hasta el 17 de octubre de 2026.
 
-  En la pieza de los juegos deportivos interescolares, la Audiencia Provincial de Alicante, Sección Séptima con
-  sede en Elche, absolvió a cuatro acusados y a Tot Sport Crevi como responsable civil subsidiaria por sentencia
-  44/2025, de 31 de enero. La sentencia 159/2025 del TSJCV, de 6 de mayo (ECLI:ES:TSJCV:2025:57; rollo 157/2025),
-  estimó el recurso de la Fiscalía y anuló tanto aquella sentencia como el juicio oral. Ordenó repetirlo con magistrados
-  distintos para decidir libremente sobre absolución o condena por prevaricación y negociaciones prohibidas, así
-  como la eventual responsabilidad de la empresa. No cabe casación contra esa decisión de anulación. No es una condena
-  ni permite conservar la absolución anulada como desenlace vigente. No se ha documentado aquí el nuevo juicio o
-  su fallo hasta el 17 de octubre de 2026.
+  La prensa identifica a los cuatro acusados de esa pieza como los exconcejales Pedro García y Manuel Moya, el coordinador Francisco Serna y su hijo, el responsable de Tot Sport Crevi. La resolución original usa seudónimos, que no se convierten por sí solos en identidades nominales. Su cabecera sitúa la pieza en el procedimiento abreviado 77/2022 de la Audiencia, procedente del 236/2019 del Juzgado de Instrucción número 2 de Elche. El TSJCV expresa que no acepta los hechos probados de la sentencia anulada que transcribe. Por eso los detalles del contrato de 2014 y sus prórrogas no se presentan como hechos firmes. La fecha de constitución de la sociedad que aparece en esa transcripción (12 de julio de 2016) es incompatible con otros antecedentes que el propio documento recoge; no se ha resuelto la discrepancia con documentación mercantil.
 
+  En otro procedimiento sobre conserjería y mantenimiento, EFE informó en marzo de 2022 de un auto de 19 de enero del Juzgado de Instrucción número 4 de Elche que abría juicio contra César Augusto Asencio y otras ocho personas. La Fiscalía solicitaba penas de prisión y 53.365,46 euros de responsabilidad civil; el auto fijaba una fianza solidaria de 90.000 euros para cinco encausados. Son, respectivamente, pretensiones de la acusación y una garantía cautelar, no condenas ni un perjuicio judicial firme. No se ha recuperado ese auto ni el desenlace posterior. Su identificación no se equipara automáticamente a la pieza de los juegos interescolares del Juzgado número 2.
 
-  La prensa identifica a los cuatro acusados de esa pieza como los exconcejales Pedro García y Manuel Moya, el coordinador
-  Francisco Serna y su hijo, el responsable de Tot Sport Crevi. La resolución original usa seudónimos, que no se
-  convierten por sí solos en identidades nominales. Su cabecera sitúa la pieza en el procedimiento abreviado 77/2022
-  de la Audiencia, procedente del 236/2019 del Juzgado de Instrucción número 2 de Elche. El TSJCV expresa que no
-  acepta los hechos probados de la sentencia anulada que transcribe. Por eso los detalles del contrato de 2014 y
-  sus prórrogas no se presentan como hechos firmes. La fecha de constitución de la sociedad que aparece en esa transcripción
-  (12 de julio de 2016) es incompatible con otros antecedentes que el propio documento recoge; no se ha resuelto
-  la discrepancia con documentación mercantil.
+  Sobre monitores, la información publicada el 4 de febrero de 2025 anunciaba un juicio contra cinco personas y pedía penas de dos a cinco años. La noticia contiene una fecha discordante —dice 5 de enero, pese a estar publicada en febrero y anunciar el miércoles siguiente—. No se toma como prueba de celebración efectiva. Las crónicas que atribuían posteriormente una suspensión y anulación de diligencias a esa pieza no se han podido leer en su contenido, ni se ha recuperado una resolución original: esas actuaciones y su desenlace requieren comprobación. La documentación disponible no acredita un cierre global ni condenas firmes de todas las piezas. Estas lagunas impiden considerar completada la ficha.
 
+  ### Contratos y piezas
 
-  En otro procedimiento sobre conserjería y mantenimiento, EFE informó en marzo de 2022 de un auto de 19 de enero
-  del Juzgado de Instrucción número 4 de Elche que abría juicio contra César Augusto Asencio y otras ocho personas.
-  La Fiscalía solicitaba penas de prisión y 53.365,46 euros de responsabilidad civil; el auto fijaba una fianza
-  solidaria de 90.000 euros para cinco encausados. Son, respectivamente, pretensiones de la acusación y una garantía
-  cautelar, no condenas ni un perjuicio judicial firme. No se ha recuperado ese auto ni el desenlace posterior.
-  Su identificación no se equipara automáticamente a la pieza de los juegos interescolares del Juzgado número 2.
+  Las investigaciones sobre Deportes abarcan objetos distintos: juegos interescolares, monitores y conserjería y mantenimiento. Un auto de apertura de juicio o una acusación en uno de esos ámbitos no identifica por sí solo a los acusados de los demás.
 
+  La resolución original comprobada es la sentencia 159/2025 del TSJCV: anuló el juicio y la absolución de los juegos interescolares y ordenó celebrar otro juicio con magistrados distintos. No impuso una condena ni confirmó como hechos probados el relato de la sentencia que anuló. El resultado del nuevo juicio no se ha documentado.
 
-  Sobre monitores, la información publicada el 4 de febrero de 2025 anunciaba un juicio contra cinco personas y
-  pedía penas de dos a cinco años. La noticia contiene una fecha discordante —dice 5 de enero, pese a estar publicada
-  en febrero y anunciar el miércoles siguiente—. No se toma como prueba de celebración efectiva. Las crónicas que
-  atribuían posteriormente una suspensión y anulación de diligencias a esa pieza no se han podido leer en su contenido,
-  ni se ha recuperado una resolución original: esas actuaciones y su desenlace requieren comprobación. La documentación
-  disponible no acredita un cierre global ni condenas firmes de todas las piezas. Estas lagunas impiden considerar
-  completada la ficha.'
+  ### Cantidades y límites
+
+  Los 53.365,46 euros eran responsabilidad civil reclamada por la Fiscalía y los 90.000 euros una fianza solidaria para cinco encausados. El valor anual del contrato de juegos,25.308,36 euros en el relato transcrito por el TSJCV, es otro concepto. No se suman ni se presentan como daño judicial firme.
+
+  La información sobre monitores consultada anuncia una vista y contiene una fecha discordante. No se han obtenido el acta de celebración o las resoluciones posteriores sobre suspensión y anulación de diligencias. Tampoco consta aquí el desenlace del procedimiento de conserjería ni el del nuevo juicio de juegos. La fecha de constitución de Tot Sport Crevi transcrita en la sentencia mantiene una incompatibilidad interna con contratos anteriores; falta documentación mercantil para resolverla.
 resumen: Investigación de la Fiscalía Anticorrupción sobre la contratación del área de Deportes de Crevillent con
   Tot Sport Crevi (2004-2018); la absolución de la pieza de los juegos interescolares fue anulada en 2025 y el TSJCV
   ordenó repetir el juicio
@@ -205,15 +185,3 @@ cronologia:
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=getdocumentpdf&databasematch=*&idcendoj=46250312012025100028
 ---
-
-## Contratos y piezas
-
-Las investigaciones sobre Deportes abarcan objetos distintos: juegos interescolares, monitores y conserjería y mantenimiento. Un auto de apertura de juicio o una acusación en uno de esos ámbitos no identifica por sí solo a los acusados de los demás.
-
-La resolución original comprobada es la sentencia 159/2025 del TSJCV: anuló el juicio y la absolución de los juegos interescolares y ordenó celebrar otro juicio con magistrados distintos. No impuso una condena ni confirmó como hechos probados el relato de la sentencia que anuló. El resultado del nuevo juicio no se ha documentado.
-
-## Cantidades y límites
-
-Los 53.365,46 euros eran responsabilidad civil reclamada por la Fiscalía y los 90.000 euros una fianza solidaria para cinco encausados. El valor anual del contrato de juegos,25.308,36 euros en el relato transcrito por el TSJCV, es otro concepto. No se suman ni se presentan como daño judicial firme.
-
-La información sobre monitores consultada anuncia una vista y contiene una fecha discordante. No se han obtenido el acta de celebración o las resoluciones posteriores sobre suspensión y anulación de diligencias. Tampoco consta aquí el desenlace del procedimiento de conserjería ni el del nuevo juicio de juegos. La fecha de constitución de Tot Sport Crevi transcrita en la sentencia mantiene una incompatibilidad interna con contratos anteriores; falta documentación mercantil para resolverla.

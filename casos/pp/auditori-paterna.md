@@ -9,30 +9,18 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condena confirmada en apelación
-descripcion: 'El caso se refiere a la contratación del proyecto del centro musical Auditori Antonio Cabeza de Paterna,
-  no al Auditorio de Puerto Lumbreras. Según las crónicas de la sentencia, la empresa municipal SUMPA convocó en
-  abril de 2008 un concurso restringido de ideas que ganó el Estudio de Arquitectura de Paterna. En diciembre de
-  ese año, el alcalde Lorenzo Agustí encargó verbalmente al estudio los proyectos; después, SUMPA suscribió en marzo
-  de 2009 el contrato sin el procedimiento de contratación exigible. El precio de 529.506,19 euros, IVA incluido,
-  es volumen contractual y no una cuantificación de daño probado. El concurso de ideas no permitía adjudicar directamente
-  el proyecto, según la condena descrita por la prensa.
+descripcion: |-
+  El caso se refiere a la contratación del proyecto del centro musical Auditori Antonio Cabeza de Paterna, no al Auditorio de Puerto Lumbreras. Según las crónicas de la sentencia, la empresa municipal SUMPA convocó en abril de 2008 un concurso restringido de ideas que ganó el Estudio de Arquitectura de Paterna. En diciembre de ese año, el alcalde Lorenzo Agustí encargó verbalmente al estudio los proyectos; después, SUMPA suscribió en marzo de 2009 el contrato sin el procedimiento de contratación exigible. El precio de 529.506,19 euros, IVA incluido, es volumen contractual y no una cuantificación de daño probado. El concurso de ideas no permitía adjudicar directamente el proyecto, según la condena descrita por la prensa.
 
+  La denuncia de Juan Antonio Sagredo ante la Fiscalía se presentó el 7 de junio de 2013, según El País. La investigación judicial correspondió al Juzgado de Primera Instancia e Instrucción número 1 de Paterna; Agustí declaró como imputado el 11 de diciembre de 2013. El Juzgado de lo Penal número 17 de Valencia, con sede en Paterna, lo condenó a siete años de inhabilitación especial para empleo o cargo público por prevaricación administrativa, con costas incluidas las de la acusación popular. Paterna Ahora identifica la sentencia como 676/2016, de 12 de agosto, y Europa Press sitúa el juicio a finales de julio. No se da aquí un día exacto del juicio sin una fuente releída que lo acredite.
 
-  La denuncia de Juan Antonio Sagredo ante la Fiscalía se presentó el 7 de junio de 2013, según El País. La investigación
-  judicial correspondió al Juzgado de Primera Instancia e Instrucción número 1 de Paterna; Agustí declaró como imputado
-  el 11 de diciembre de 2013. El Juzgado de lo Penal número 17 de Valencia, con sede en Paterna, lo condenó a siete
-  años de inhabilitación especial para empleo o cargo público por prevaricación administrativa, con costas incluidas
-  las de la acusación popular. Paterna Ahora identifica la sentencia como 676/2016, de 12 de agosto, y Europa Press
-  sitúa el juicio a finales de julio. No se da aquí un día exacto del juicio sin una fuente releída que lo acredite.
+  La Sección Segunda de la Audiencia Provincial de Valencia confirmó íntegramente la condena mediante sentencia de 4 de septiembre de 2017. La crónica de Europa Press, reproducida en Iustel, indica expresamente que contra ella no cabía recurso alguno. Esa es la fuente de la firmeza descrita por la prensa; no se han recuperado los originales de las sentencias ni una declaración de firmeza o documentación de ejecución. Hasta el 17 de octubre de 2026 no se ha verificado un desenlace propio posterior ni si la pena ha sido cumplida o extinguida; no se deduce ese estado por el mero transcurso del tiempo. Las actuaciones sobre Zona Franca/Gespa son otra causa y no determinan el resultado de Auditori.
 
+  La [crónica de Europa Press sobre la condena](https://valenciaplaza.com/lorenzo-agusti-condenado-a-siete-anos-de-inhabilitacion-por-el-caso-auditori) distingue el concurso de ideas del encargo directo de los proyectos: la arbitrariedad apreciada no se atribuye sin más al resultado del concurso, sino a la contratación posterior sin el procedimiento exigible. El relato contiene actuaciones entre 2008 y 2009, que se mantienen con precisión de mes cuando no se conoce el día. La [información local sobre la sentencia](https://www.paternaahora.com/lorenzo-agusti-condenado-a-7-anos-por-un-delito-de-prevaricacion/) proporciona su número, fecha e importe contractual exacto.
 
-  La Sección Segunda de la Audiencia Provincial de Valencia confirmó íntegramente la condena mediante sentencia
-  de 4 de septiembre de 2017. La crónica de Europa Press, reproducida en Iustel, indica expresamente que contra
-  ella no cabía recurso alguno. Esa es la fuente de la firmeza descrita por la prensa; no se han recuperado los
-  originales de las sentencias ni una declaración de firmeza o documentación de ejecución. Hasta el 17 de octubre
-  de 2026 no se ha verificado un desenlace propio posterior ni si la pena ha sido cumplida o extinguida; no se deduce
-  ese estado por el mero transcurso del tiempo. Las actuaciones sobre Zona Franca/Gespa son otra causa y no determinan
-  el resultado de Auditori.'
+  La [denuncia de junio de 2013](https://elpais.com/ccaa/2013/07/27/valencia/1374946495_893592.html) y la posterior [comparecencia judicial de diciembre](https://elpais.com/ccaa/2013/12/11/valencia/1386793204_309497.html) son actos distintos. La Fiscalía remitió sus diligencias al juzgado; la imputación judicial corresponde al órgano instructor. El antecedente de anulación administrativa de la adjudicación, recogido por El País, tampoco equivale por sí solo a la condena penal posterior.
+
+  La [apelación publicada por Europa Press](https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1169190) confirma la condena y señala que no cabía recurso. No se infiere la firmeza por ausencia de noticias, ni se da por cumplida la inhabilitación por el tiempo transcurrido. Faltan los originales y la documentación de ejecución. El precio del proyecto no se utiliza como daño económico ni se suma al presupuesto de construcción del centro.
 resumen: Agustí fue condenado a siete años de inhabilitación por la contratación del proyecto del Auditori; la Audiencia
   confirmó la condena en 2017.
 lugar: Paterna, Comunidad Valenciana
@@ -104,9 +92,3 @@ cronologia:
   - https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1169190
   - https://www.paternaahora.com/la-audiencia-provincial-ratifica-la-sentencia-de-7-anos-por-prevaricacion-contra-agusti/
 ---
-
-La [crónica de Europa Press sobre la condena](https://valenciaplaza.com/lorenzo-agusti-condenado-a-siete-anos-de-inhabilitacion-por-el-caso-auditori) distingue el concurso de ideas del encargo directo de los proyectos: la arbitrariedad apreciada no se atribuye sin más al resultado del concurso, sino a la contratación posterior sin el procedimiento exigible. El relato contiene actuaciones entre 2008 y 2009, que se mantienen con precisión de mes cuando no se conoce el día. La [información local sobre la sentencia](https://www.paternaahora.com/lorenzo-agusti-condenado-a-7-anos-por-un-delito-de-prevaricacion/) proporciona su número, fecha e importe contractual exacto.
-
-La [denuncia de junio de 2013](https://elpais.com/ccaa/2013/07/27/valencia/1374946495_893592.html) y la posterior [comparecencia judicial de diciembre](https://elpais.com/ccaa/2013/12/11/valencia/1386793204_309497.html) son actos distintos. La Fiscalía remitió sus diligencias al juzgado; la imputación judicial corresponde al órgano instructor. El antecedente de anulación administrativa de la adjudicación, recogido por El País, tampoco equivale por sí solo a la condena penal posterior.
-
-La [apelación publicada por Europa Press](https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1169190) confirma la condena y señala que no cabía recurso. No se infiere la firmeza por ausencia de noticias, ni se da por cumplida la inhabilitación por el tiempo transcurrido. Faltan los originales y la documentación de ejecución. El precio del proyecto no se utiliza como daño económico ni se suma al presupuesto de construcción del centro.

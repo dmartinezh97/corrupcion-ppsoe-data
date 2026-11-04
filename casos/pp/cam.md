@@ -8,45 +8,24 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas y absoluciones en distintas piezas
-descripcion: 'La crisis de la Caja de Ahorros del Mediterráneo dio lugar a varias causas, con resultados diferentes.
-  En el falseo de cuentas, la STS 369/2019, de 22 de julio, absolvió a Roberto López Abad y Francisco José Martínez
-  de los delitos por los que venían condenados y fijó un año y seis meses de prisión para María Dolores Amorós por
-  falsedad de cuentas y dos años para Teófilo Sogorb por falsedad en la información a inversores. La absolución
-  en esta pieza no equivale a una absolución en las demás.
+descripcion: |-
+  La crisis de la Caja de Ahorros del Mediterráneo dio lugar a varias causas, con resultados diferentes. En el falseo de cuentas, la STS 369/2019, de 22 de julio, absolvió a Roberto López Abad y Francisco José Martínez de los delitos por los que venían condenados y fijó un año y seis meses de prisión para María Dolores Amorós por falsedad de cuentas y dos años para Teófilo Sogorb por falsedad en la información a inversores. La absolución en esta pieza no equivale a una absolución en las demás.
 
+  En las dietas de Tinser Cartera, la STS 292/2021, de 8 de abril, rebajó a dos años la prisión de López Abad y a un año la de Antonio Gil-Terrón, Luis Esteban, Martín Sevilla y José Forner, por apropiación indebida agravada. Modesto Crespo había aceptado nueve meses de prisión, multa de 9.000 euros y devolución de 600.000 euros. La sentencia de Alicante es de 15 de noviembre de 2018, aunque su resultado se publicó el día 20; otros quince consejeros fueron absueltos. Las condenas, multas y devolución no se suman como una cifra global de daño.
 
-  En las dietas de Tinser Cartera, la STS 292/2021, de 8 de abril, rebajó a dos años la prisión de López Abad y
-  a un año la de Antonio Gil-Terrón, Luis Esteban, Martín Sevilla y José Forner, por apropiación indebida agravada.
-  Modesto Crespo había aceptado nueve meses de prisión, multa de 9.000 euros y devolución de 600.000 euros. La sentencia
-  de Alicante es de 15 de noviembre de 2018, aunque su resultado se publicó el día 20; otros quince consejeros fueron
-  absueltos. Las condenas, multas y devolución no se suman como una cifra global de daño.
+  En Valfensal-Caribe, la STS 436/2023, de 7 de junio, confirmó dos años de prisión y cinco de inhabilitación bancaria para López Abad y Daniel Gil Mallebrera. La responsabilidad civil conjunta de 28 millones de euros al FGD debe descontar los 12.528.392 euros ya consignados; Caser responde directamente hasta el límite de 15 millones, sin constituir una indemnización adicional. Los autos de aclaración de diciembre de 2020 excluyeron de esa responsabilidad civil a los empresarios y a Valfensal, sin alterar las condenas penales recogidas en la sentencia. En Hansa Urbana, Europa Press documentó en enero de 2021 la absolución de Amorós, Gil Mallebrera, Vicente Sánchez Asencio y Rafael Galea; no se ha verificado su firmeza posterior.
 
+  La causa por operaciones inmobiliarias de 2004–2009 tampoco puede darse por terminada. El auto original 443/2025 de la Audiencia Nacional, de 8 de septiembre, rechazó un recurso contra la continuación del procedimiento abreviado en las diligencias 24/2015 y dejó las cuestiones de fondo para el juicio. Acredita una apertura de juicio oral de 24 de abril de 2023. La firmeza de ese auto y el archivo del rollo de apelación no significan archivo de la causa penal ni condena. Sus nombres están anonimizados y no se asignan aquí identidades sin una fuente nominal. No se ha verificado el resultado posterior hasta el 17 de octubre de 2026 ni la ejecución individual de las penas de las otras piezas.
 
-  En Valfensal-Caribe, la STS 436/2023, de 7 de junio, confirmó dos años de prisión y cinco de inhabilitación bancaria
-  para López Abad y Daniel Gil Mallebrera. La responsabilidad civil conjunta de 28 millones de euros al FGD debe
-  descontar los 12.528.392 euros ya consignados; Caser responde directamente hasta el límite de 15 millones, sin
-  constituir una indemnización adicional. Los autos de aclaración de diciembre de 2020 excluyeron de esa responsabilidad
-  civil a los empresarios y a Valfensal, sin alterar las condenas penales recogidas en la sentencia. En Hansa Urbana,
-  Europa Press documentó en enero de 2021 la absolución de Amorós, Gil Mallebrera, Vicente Sánchez Asencio y Rafael
-  Galea; no se ha verificado su firmeza posterior.
+  La intervención bancaria y las ayudas son otro plano. La nota del FROB de 22 de julio de 2011 distingue 2.800 millones de capital y 3.000 millones de liquidez. El informe del FGD de 2023 registra para Banco CAM 5.249 millones en capital y 7.386 millones por garantías, con 35,3 millones de recuperaciones y 12.599,7 millones de ayudas netas. Estas magnitudes no son perjuicio penal global y no se suman con sus componentes ni con la responsabilidad civil. La venta al Sabadell por un euro se ejecutó el 1 de junio de 2012, después del acuerdo de diciembre de 2011. Las sanciones administrativas anuladas en 2025 y los litigios civiles por cuotas participativas tienen recursos y resultados propios, distintos de las causas penales.
 
+  Los originales del Supremo permiten separar los resultados: [falseo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=b86115ffd4101629&encode=true&databasematch=TS), [dietas](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=c90217857e4a1db9&encode=true&databasematch=TS) y [Valfensal-Caribe](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=d037b03162cca979a0a8778d75e36f0d&encode=true&databasematch=TS). Las absoluciones de unos delitos no eliminan las condenas de otras piezas. La identificación nominal se contrasta con RTVE, SER y Europa Press; no se asignan nombres a seudónimos por semejanza.
 
-  La causa por operaciones inmobiliarias de 2004–2009 tampoco puede darse por terminada. El auto original 443/2025
-  de la Audiencia Nacional, de 8 de septiembre, rechazó un recurso contra la continuación del procedimiento abreviado
-  en las diligencias 24/2015 y dejó las cuestiones de fondo para el juicio. Acredita una apertura de juicio oral
-  de 24 de abril de 2023. La firmeza de ese auto y el archivo del rollo de apelación no significan archivo de la
-  causa penal ni condena. Sus nombres están anonimizados y no se asignan aquí identidades sin una fuente nominal.
-  No se ha verificado el resultado posterior hasta el 17 de octubre de 2026 ni la ejecución individual de las penas
-  de las otras piezas.
+  En Valfensal-Caribe, el fallo y sus aclaraciones obligan a descontar 12.528.392 euros de los 28 millones de responsabilidad civil. El límite asegurado de Caser forma parte de la cobertura de esa deuda, no se añade como otra pérdida. El informe del FGD 2023, páginas PDF 51 y 53, registra las ayudas financieras y las recuperaciones: no determina un daño penal global.
 
+  El [auto de septiembre de 2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a65eaa56f28cfa75a0a8778d75e36f0d&encode=true&databasematch=AN) se refiere a DP 24/2015 y enumera operaciones como Nyesa Pirineos, Emporio del Mediterráneo y Hueznar. Confirma la continuación, con Fiscalía que no se opuso al recurso; no decide culpabilidad. El archivo definitivo del rollo de apelación que ordena su dispositivo se limita a ese recurso. Faltan el resultado posterior de esa causa y la ejecución de las restantes condenas.
 
-  La intervención bancaria y las ayudas son otro plano. La nota del FROB de 22 de julio de 2011 distingue 2.800
-  millones de capital y 3.000 millones de liquidez. El informe del FGD de 2023 registra para Banco CAM 5.249 millones
-  en capital y 7.386 millones por garantías, con 35,3 millones de recuperaciones y 12.599,7 millones de ayudas netas.
-  Estas magnitudes no son perjuicio penal global y no se suman con sus componentes ni con la responsabilidad civil.
-  La venta al Sabadell por un euro se ejecutó el 1 de junio de 2012, después del acuerdo de diciembre de 2011. Las
-  sanciones administrativas anuladas en 2025 y los litigios civiles por cuotas participativas tienen recursos y
-  resultados propios, distintos de las causas penales.'
+  La [restitución civil publicada en 2026](https://www.expansion.com/empresas/banca/2026/09/25/6ab6b592468aeb117c8b459b.html) distingue principal, intereses y otra resolución anterior. No se transforma el anuncio de acatarla en prueba de firmeza ni se suma a las ayudas de reestructuración. Los originales de esa sentencia, las sanciones administrativas y Hansa Urbana siguen pendientes de comprobación.
 resumen: La gestión de CAM dio lugar a condenas y absoluciones en varias piezas; un auto de 2025 confirma la continuación
   de otra causa inmobiliaria, sin desenlace posterior verificado.
 lugar: Alicante, Comunidad Valenciana
@@ -248,11 +227,3 @@ cronologia:
   urls:
   - https://www.expansion.com/empresas/banca/2026/09/25/6ab6b592468aeb117c8b459b.html
 ---
-
-Los originales del Supremo permiten separar los resultados: [falseo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=b86115ffd4101629&encode=true&databasematch=TS), [dietas](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=c90217857e4a1db9&encode=true&databasematch=TS) y [Valfensal-Caribe](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=d037b03162cca979a0a8778d75e36f0d&encode=true&databasematch=TS). Las absoluciones de unos delitos no eliminan las condenas de otras piezas. La identificación nominal se contrasta con RTVE, SER y Europa Press; no se asignan nombres a seudónimos por semejanza.
-
-En Valfensal-Caribe, el fallo y sus aclaraciones obligan a descontar 12.528.392 euros de los 28 millones de responsabilidad civil. El límite asegurado de Caser forma parte de la cobertura de esa deuda, no se añade como otra pérdida. El informe del FGD 2023, páginas PDF 51 y 53, registra las ayudas financieras y las recuperaciones: no determina un daño penal global.
-
-El [auto de septiembre de 2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=a65eaa56f28cfa75a0a8778d75e36f0d&encode=true&databasematch=AN) se refiere a DP 24/2015 y enumera operaciones como Nyesa Pirineos, Emporio del Mediterráneo y Hueznar. Confirma la continuación, con Fiscalía que no se opuso al recurso; no decide culpabilidad. El archivo definitivo del rollo de apelación que ordena su dispositivo se limita a ese recurso. Faltan el resultado posterior de esa causa y la ejecución de las restantes condenas.
-
-La [restitución civil publicada en 2026](https://www.expansion.com/empresas/banca/2026/09/25/6ab6b592468aeb117c8b459b.html) distingue principal, intereses y otra resolución anterior. No se transforma el anuncio de acatarla en prueba de firmeza ni se suma a las ayudas de reestructuración. Los originales de esa sentencia, las sanciones administrativas y Hansa Urbana siguen pendientes de comprobación.

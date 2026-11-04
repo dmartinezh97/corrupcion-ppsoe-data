@@ -11,17 +11,34 @@ firmeza: Sin determinar
 estado: anulado
 resumen: La Declaración Tributaria Especial de 2012 fue anulada por la STC 73/2017, sin revisión de las situaciones tributarias
   firmes; esa nulidad normativa no es una condena penal de sus impulsores o declarantes.
-descripcion: El Gobierno presidido por Mariano Rajoy aprobó en 2012 la Declaración Tributaria Especial (DTE), que permitía
-  regularizar bienes y derechos vinculados a rentas no declaradas en IRPF, Sociedades o Renta de no Residentes mediante
-  un ingreso del 10% de su valor de adquisición, sin sanciones, intereses ni recargos y con plazo hasta el 30 de noviembre
-  de 2012. La STC 73/2017, de 8 de junio, declaró inconstitucional y nula la disposición adicional primera del Real Decreto-ley
-  12/2012 por vulnerar los límites materiales del decreto-ley del artículo 86.1 CE. Preservó las situaciones jurídico-tributarias
-  firmes por seguridad jurídica. Se trata de un control de la norma, no de una condena penal individual. Hacienda anunció
-  en enero de 2013 al menos 40.000 millones aflorados y 1.192 millones ingresados; patrimonio declarado e ingresos fiscales
-  no equivalen a perjuicio público. Se conocen declaraciones de personas vinculadas a otros procedimientos, como Bárcenas
-  y Rato, pero sus resultados no se trasladan al conjunto de declarantes. Hasta el 17 de octubre de 2026 no se ha verificado
-  una condena penal por la aprobación de esta medida ni el resultado definitivo de todos los procedimientos individuales;
-  la condena patrimonial de Rato fue recurrida y no se ha localizado una resolución posterior del Supremo.
+descripcion: |-
+  El Gobierno presidido por Mariano Rajoy aprobó en 2012 la Declaración Tributaria Especial (DTE), que permitía regularizar bienes y derechos vinculados a rentas no declaradas en IRPF, Sociedades o Renta de no Residentes mediante un ingreso del 10% de su valor de adquisición, sin sanciones, intereses ni recargos y con plazo hasta el 30 de noviembre de 2012. La STC 73/2017, de 8 de junio, declaró inconstitucional y nula la disposición adicional primera del Real Decreto-ley 12/2012 por vulnerar los límites materiales del decreto-ley del artículo 86.1 CE. Preservó las situaciones jurídico-tributarias firmes por seguridad jurídica. Se trata de un control de la norma, no de una condena penal individual. Hacienda anunció en enero de 2013 al menos 40.000 millones aflorados y 1.192 millones ingresados; patrimonio declarado e ingresos fiscales no equivalen a perjuicio público. Se conocen declaraciones de personas vinculadas a otros procedimientos, como Bárcenas y Rato, pero sus resultados no se trasladan al conjunto de declarantes. Hasta el 17 de octubre de 2026 no se ha verificado una condena penal por la aprobación de esta medida ni el resultado definitivo de todos los procedimientos individuales; la condena patrimonial de Rato fue recurrida y no se ha localizado una resolución posterior del Supremo.
+
+  La DTE fue una regularización tributaria extraordinaria de ámbito estatal, no una causa penal contra una lista de personas. Su regulación inicial alcanzaba al IRPF, al Impuesto sobre Sociedades y al Impuesto sobre la Renta de no Residentes. El porcentaje normativo era el 10% del importe o valor de adquisición de los bienes o derechos declarados, sin sanciones, intereses ni recargos, con las condiciones y exclusiones previstas en la norma. La presentación e ingreso debían realizarse hasta el 30 de noviembre de 2012.
+
+  El fallo constitucional y sus efectos
+
+  La STC 73/2017, de 8 de junio, publicada el 15 de julio, anuló la disposición adicional primera del Real Decreto-ley 12/2012. El TC consideró que afectaba de forma sustancial al reparto de la carga tributaria y al deber de contribuir mediante un instrumento, el decreto-ley, que no podía producir esa afectación conforme al artículo 86.1 CE. No declaró que todo cambio tributario mediante decreto-ley sea inconstitucional. Tampoco necesitó resolver por separado la vulneración material de los principios del artículo 31.1 alegada en el recurso.
+
+  El fallo remite al fundamento jurídico 6: las situaciones jurídico-tributarias firmes producidas al amparo de la disposición no podían revisarse como consecuencia de su nulidad, por seguridad jurídica. Esto no es una validación penal del origen de los fondos de cada declarante ni una exoneración general de blanqueo, malversación u otros delitos. La sentencia no impone una condena personal a Montoro, a los integrantes del Gobierno ni a todos los declarantes. La modificación de la Ley General Tributaria publicada en julio de 2021 prohibió instrumentos extraordinarios que reduzcan la deuda devengada, sin ordenar por ello revisar en bloque las DTE anteriores.
+
+  Las cifras describen magnitudes diferentes
+
+  El balance provisional de Hacienda de 3 de diciembre de 2012 registraba 31.484 declaraciones y 1.191 millones de euros. La propia nota advertía que se había elaborado sobre las declaraciones, no sobre las cuantías ingresadas. La nota de 23 de enero de 2013 actualizó el número a 31.529 declaraciones de 29.683 contribuyentes, con 29.065 personas físicas y 618 jurídicas. Anunció 1.192 millones ingresados y al menos 40.000 millones en bienes y derechos aflorados. Una persona podía presentar más de una declaración: el número de modelos no equivale al de contribuyentes.
+
+  El patrimonio aflorado no es dinero perdido por el Estado y la recaudación es ingreso. Tampoco puede deducirse de la diferencia entre el tipo normativo del 10% y una ratio agregada entre ingresos y patrimonio el tipo aplicado a cada declarante. No se fija un coste único ni se suman cuotas, multas o responsabilidades civiles de causas individuales.
+
+  Declarantes y otros procedimientos
+
+  En enero de 2013 la defensa de Bárcenas documentó ante el juez una DTE a nombre de Tesedul por casi once millones. Esa aportación no era una resolución que validara el cumplimiento de los requisitos o que extinguiera su responsabilidad en Gürtel. Hacienda sostuvo entonces que no constaba una declaración a su nombre personal y que correspondía al juez valorar la licitud de las rentas.
+
+  La crónica judicial de diciembre de 2024 sobre Rato explica que su DTE no incluía la renta defraudada de 2006. Su condena patrimonial comprendió los ejercicios 2006, 2013 y 2014, junto con blanqueo y corrupción entre particulares; resultó absuelto de otros ejercicios. La defensa anunció recurso ante el Supremo en febrero de 2025. Una información de agosto de 2026 seguía describiéndolo como pendiente de pronunciamiento; no se ha recuperado una resolución posterior ni se presume firmeza. Estos pronunciamientos pertenecen a su causa patrimonial, no al recurso constitucional de la DTE.
+
+  La información publicada en agosto de 2025 sobre Fernández Norniella se atribuye a un informe de la AEAT incorporado a otra investigación. Da cuenta de una declaración por 1.882.100 euros, sin precisar día de presentación ni atribuir por ello un delito. No se ha recuperado ese informe. La causa sobre Equipo Económico y las empresas gasistas es distinta del control constitucional de la DTE: sus imputaciones y decisiones de competencia no se trasladan a esta ficha.
+
+  Hasta el 17 de octubre de 2026 queda acreditada la nulidad de la norma con el alcance fijado por el TC. Permanecen sin cotejo completo los expedientes e identidad de todos los declarantes y el resultado de los procedimientos individuales mencionados. No se afirma que exista una causa penal general abierta contra todos ellos ni que todos hayan sido exonerados.
+
+  Fuentes: [norma original](https://www.boe.es/eli/es/rdl/2012/03/30/12), [STC publicada en el BOE](https://www.boe.es/boe/dias/2017/07/15/pdfs/BOE-A-2017-8345.pdf), [balance provisional](https://www.hacienda.gob.es/gabineteministro/notas%20prensa/2012/se%20hacienda/03-12-12%20nota%20de%20prensa%20sobre%20la%20regularizaci%C3%B3n.pdf), [balance de enero de 2013](https://www.hacienda.gob.es/GabineteMinistro/notas%20prensa/2013/s.e.%20hacienda/23-01-13%20np%20comparecencia%20montoro%20ingresos%202012%20y%20dte.pdf), [Ley 11/2021](https://www.boe.es/eli/es/l/2021/07/09/11), [documentación de Tesedul](https://www.rtve.es/noticias/20130130/barcenas-documenta-ante-juez-regularizo-11-millones-euros-con-amnistia-fiscal/605756.shtml), [sentencia patrimonial de Rato conocida en 2024](https://www.europapress.es/nacional/noticia-exministro-rodrigo-rato-condenado-anos-meses-carcel-defraudar-hacienda-blanqueo-20241220123628.html), [anuncio de recurso](https://www.europapress.es/nacional/noticia-rato-anuncia-supremo-recurre-condena-entender-hubo-errores-apreciaciones-prueba-20250226102256.html) y [información sobre Norniella](https://www.eldiario.es/economia/investigacion-caso-montoro-destapa-amnistia-fiscal-ex-alto-cargo-jose-maria-aznar_1_12518749.html).
 lugar: España
 tribunal:
 - Tribunal Constitucional (recurso de inconstitucionalidad 3856-2012)
@@ -168,29 +185,3 @@ cronologia:
   type: documento
   relevancia: media
 ---
-
-La DTE fue una regularización tributaria extraordinaria de ámbito estatal, no una causa penal contra una lista de personas. Su regulación inicial alcanzaba al IRPF, al Impuesto sobre Sociedades y al Impuesto sobre la Renta de no Residentes. El porcentaje normativo era el 10% del importe o valor de adquisición de los bienes o derechos declarados, sin sanciones, intereses ni recargos, con las condiciones y exclusiones previstas en la norma. La presentación e ingreso debían realizarse hasta el 30 de noviembre de 2012.
-
-El fallo constitucional y sus efectos
-
-La STC 73/2017, de 8 de junio, publicada el 15 de julio, anuló la disposición adicional primera del Real Decreto-ley 12/2012. El TC consideró que afectaba de forma sustancial al reparto de la carga tributaria y al deber de contribuir mediante un instrumento, el decreto-ley, que no podía producir esa afectación conforme al artículo 86.1 CE. No declaró que todo cambio tributario mediante decreto-ley sea inconstitucional. Tampoco necesitó resolver por separado la vulneración material de los principios del artículo 31.1 alegada en el recurso.
-
-El fallo remite al fundamento jurídico 6: las situaciones jurídico-tributarias firmes producidas al amparo de la disposición no podían revisarse como consecuencia de su nulidad, por seguridad jurídica. Esto no es una validación penal del origen de los fondos de cada declarante ni una exoneración general de blanqueo, malversación u otros delitos. La sentencia no impone una condena personal a Montoro, a los integrantes del Gobierno ni a todos los declarantes. La modificación de la Ley General Tributaria publicada en julio de 2021 prohibió instrumentos extraordinarios que reduzcan la deuda devengada, sin ordenar por ello revisar en bloque las DTE anteriores.
-
-Las cifras describen magnitudes diferentes
-
-El balance provisional de Hacienda de 3 de diciembre de 2012 registraba 31.484 declaraciones y 1.191 millones de euros. La propia nota advertía que se había elaborado sobre las declaraciones, no sobre las cuantías ingresadas. La nota de 23 de enero de 2013 actualizó el número a 31.529 declaraciones de 29.683 contribuyentes, con 29.065 personas físicas y 618 jurídicas. Anunció 1.192 millones ingresados y al menos 40.000 millones en bienes y derechos aflorados. Una persona podía presentar más de una declaración: el número de modelos no equivale al de contribuyentes.
-
-El patrimonio aflorado no es dinero perdido por el Estado y la recaudación es ingreso. Tampoco puede deducirse de la diferencia entre el tipo normativo del 10% y una ratio agregada entre ingresos y patrimonio el tipo aplicado a cada declarante. No se fija un coste único ni se suman cuotas, multas o responsabilidades civiles de causas individuales.
-
-Declarantes y otros procedimientos
-
-En enero de 2013 la defensa de Bárcenas documentó ante el juez una DTE a nombre de Tesedul por casi once millones. Esa aportación no era una resolución que validara el cumplimiento de los requisitos o que extinguiera su responsabilidad en Gürtel. Hacienda sostuvo entonces que no constaba una declaración a su nombre personal y que correspondía al juez valorar la licitud de las rentas.
-
-La crónica judicial de diciembre de 2024 sobre Rato explica que su DTE no incluía la renta defraudada de 2006. Su condena patrimonial comprendió los ejercicios 2006, 2013 y 2014, junto con blanqueo y corrupción entre particulares; resultó absuelto de otros ejercicios. La defensa anunció recurso ante el Supremo en febrero de 2025. Una información de agosto de 2026 seguía describiéndolo como pendiente de pronunciamiento; no se ha recuperado una resolución posterior ni se presume firmeza. Estos pronunciamientos pertenecen a su causa patrimonial, no al recurso constitucional de la DTE.
-
-La información publicada en agosto de 2025 sobre Fernández Norniella se atribuye a un informe de la AEAT incorporado a otra investigación. Da cuenta de una declaración por 1.882.100 euros, sin precisar día de presentación ni atribuir por ello un delito. No se ha recuperado ese informe. La causa sobre Equipo Económico y las empresas gasistas es distinta del control constitucional de la DTE: sus imputaciones y decisiones de competencia no se trasladan a esta ficha.
-
-Hasta el 17 de octubre de 2026 queda acreditada la nulidad de la norma con el alcance fijado por el TC. Permanecen sin cotejo completo los expedientes e identidad de todos los declarantes y el resultado de los procedimientos individuales mencionados. No se afirma que exista una causa penal general abierta contra todos ellos ni que todos hayan sido exonerados.
-
-Fuentes: [norma original](https://www.boe.es/eli/es/rdl/2012/03/30/12), [STC publicada en el BOE](https://www.boe.es/boe/dias/2017/07/15/pdfs/BOE-A-2017-8345.pdf), [balance provisional](https://www.hacienda.gob.es/gabineteministro/notas%20prensa/2012/se%20hacienda/03-12-12%20nota%20de%20prensa%20sobre%20la%20regularizaci%C3%B3n.pdf), [balance de enero de 2013](https://www.hacienda.gob.es/GabineteMinistro/notas%20prensa/2013/s.e.%20hacienda/23-01-13%20np%20comparecencia%20montoro%20ingresos%202012%20y%20dte.pdf), [Ley 11/2021](https://www.boe.es/eli/es/l/2021/07/09/11), [documentación de Tesedul](https://www.rtve.es/noticias/20130130/barcenas-documenta-ante-juez-regularizo-11-millones-euros-con-amnistia-fiscal/605756.shtml), [sentencia patrimonial de Rato conocida en 2024](https://www.europapress.es/nacional/noticia-exministro-rodrigo-rato-condenado-anos-meses-carcel-defraudar-hacienda-blanqueo-20241220123628.html), [anuncio de recurso](https://www.europapress.es/nacional/noticia-rato-anuncia-supremo-recurre-condena-entender-hubo-errores-apreciaciones-prueba-20250226102256.html) y [información sobre Norniella](https://www.eldiario.es/economia/investigacion-caso-montoro-destapa-amnistia-fiscal-ex-alto-cargo-jose-maria-aznar_1_12518749.html).

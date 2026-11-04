@@ -9,49 +9,24 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución tras retirada de las acusaciones en julio de 1992
-descripcion: >-
-  El caso Naseiro investigó sospechas de cohecho vinculadas a comisiones para financiar al PP y a operaciones
-  urbanísticas en la Comunidad Valenciana. La investigación se hizo pública en abril de 1990, recién elegido
-  José María Aznar presidente del partido. Las acusaciones no desembocaron en condena: el Tribunal Supremo
-  anuló las escuchas y pruebas derivadas en junio de 1992 y después dictó una sentencia absolutoria al
-  retirarse las acusaciones.
+descripcion: |-
+  El caso Naseiro investigó sospechas de cohecho vinculadas a comisiones para financiar al PP y a operaciones urbanísticas en la Comunidad Valenciana. La investigación se hizo pública en abril de 1990, recién elegido José María Aznar presidente del partido. Las acusaciones no desembocaron en condena: el Tribunal Supremo anuló las escuchas y pruebas derivadas en junio de 1992 y después dictó una sentencia absolutoria al retirarse las acusaciones.
 
+  La cronología de elDiario.es sitúa el inicio de la intervención telefónica el 28 de noviembre de 1989, en una investigación sobre supuesto tráfico de drogas de Rafael Palop, hermano —no padre— del concejal Salvador Palop. Las conversaciones suscitaron sospechas sobre comisiones relacionadas con negocios urbanísticos. Son sospechas y contenido de pruebas luego anuladas, no una trama declarada probada judicialmente. El 9 de abril de 1990 fueron detenidos Rosendo Naseiro, Salvador Palop, José Balaguer, Luis Janini, Carlos Bonet y Luis Latorre, según la información contemporánea de El País publicada el día 10. El sumario pasó al Supremo por la condición de diputado de Ángel Sanchis; no se atribuye ese traslado al aforamiento de Pedro Agramunt.
 
-  La cronología de elDiario.es sitúa el inicio de la intervención telefónica el 28 de noviembre de 1989, en
-  una investigación sobre supuesto tráfico de drogas de Rafael Palop, hermano —no padre— del concejal Salvador
-  Palop. Las conversaciones suscitaron sospechas sobre comisiones relacionadas con negocios urbanísticos. Son
-  sospechas y contenido de pruebas luego anuladas, no una trama declarada probada judicialmente. El 9 de abril
-  de 1990 fueron detenidos Rosendo Naseiro, Salvador Palop, José Balaguer, Luis Janini, Carlos Bonet y Luis
-  Latorre, según la información contemporánea de El País publicada el día 10. El sumario pasó al Supremo por
-  la condición de diputado de Ángel Sanchis; no se atribuye ese traslado al aforamiento de Pedro Agramunt.
+  El juicio ante el Supremo comenzó el 10 de junio de 1992 contra Naseiro, Palop, Sanchis y Balaguer. El auto de 18 de junio de 1992 declaró nulas las escuchas por vulneración del secreto de las comunicaciones y excluyó también pruebas derivadas, según la crónica contemporánea. La nulidad no se limitó a que la investigación original fuese por drogas: la información recoge falta de control judicial, problemas de proporcionalidad y entrega de copias seleccionadas por la policía. La Circular 1/1999 de la Fiscalía General del Estado, publicada en el BOE, cita posteriormente ese auto sobre el control de las cintas originales. No se ha recuperado el auto original del caso.
 
+  La nulidad no cerró automáticamente el procedimiento: la crónica del 19 de junio indicaba que todavía podían existir otras pruebas. El Supremo rechazó los recursos contra la nulidad, según El País del 4 de julio. Tras la retirada de las acusaciones concluyó el juicio el 9 de julio, según Servimedia; la misma agencia informó el 15 de julio de que la sentencia absolutoria había sido notificada ese día. El País del 16 identifica como absueltos a los cuatro acusados. El tribunal rechazó el sobreseimiento provisional solicitado, porque el juicio oral ya estaba abierto y la ausencia de acusación exigía una sentencia absolutoria. No se trata de una condena ni debe describirse el resultado como un mero archivo sin juicio.
 
-  El juicio ante el Supremo comenzó el 10 de junio de 1992 contra Naseiro, Palop, Sanchis y Balaguer. El auto
-  de 18 de junio de 1992 declaró nulas las escuchas por vulneración del secreto de las comunicaciones y
-  excluyó también pruebas derivadas, según la crónica contemporánea. La nulidad no se limitó a que la
-  investigación original fuese por drogas: la información recoge falta de control judicial, problemas de
-  proporcionalidad y entrega de copias seleccionadas por la policía. La Circular 1/1999 de la Fiscalía General
-  del Estado, publicada en el BOE, cita posteriormente ese auto sobre el control de las cintas originales. No
-  se ha recuperado el auto original del caso.
+  En junio se había ordenado destruir las cintas, pero las crónicas de julio explican que se acordó conservarlas ante el propósito de las acusaciones de acudir al Tribunal Constitucional. No se ha verificado el eventual recurso ni su desenlace, ni la ejecución posterior de la destrucción. La STC 85/1994 cita el caso como precedente dentro de un recurso de otra causa: no es la resolución constitucional de Naseiro. A fecha de corte de 17 de octubre de 2026 faltan los originales de la sentencia y los autos, su identificación completa y constancia de firmeza o recursos posteriores. No consta una fecha de cierre ni la firmeza de la resolución. No se consigna coste: no se ha acreditado un perjuicio público cuantificado y las comisiones o penas solicitadas no equivalen a daño judicialmente probado.
 
+  ### Alcance y asuntos pendientes
 
-  La nulidad no cerró automáticamente el procedimiento: la crónica del 19 de junio indicaba que todavía podían
-  existir otras pruebas. El Supremo rechazó los recursos contra la nulidad, según El País del 4 de julio. Tras
-  la retirada de las acusaciones concluyó el juicio el 9 de julio, según Servimedia; la misma agencia informó
-  el 15 de julio de que la sentencia absolutoria había sido notificada ese día. El País del 16 identifica como
-  absueltos a los cuatro acusados. El tribunal rechazó el sobreseimiento provisional solicitado, porque el
-  juicio oral ya estaba abierto y la ausencia de acusación exigía una sentencia absolutoria. No se trata de
-  una condena ni debe describirse el resultado como un mero archivo sin juicio.
+  Información disponible al 17 de octubre de 2026. Se cotejaron los cuerpos completos de las informaciones contemporáneas de El País sobre detenciones, nulidad, recursos y absolución y de Servimedia sobre el inicio del juicio y la notificación del fallo. La diferencia entre fecha de acto y publicación se mantiene visible: el 15 de julio se notificó la sentencia según Servimedia; no se ha cotejado su fecha interna. Se distingue la fecha del 7 de julio atribuida a la retirada de acusaciones por una retrospectiva de la conclusión del juicio el día 9 según Servimedia. Tampoco se presenta la fecha inicial de 1989, procedente de una cronología, como cotejada con el auto original.
 
+  No se dispone de los autos ni de la sentencia de esta causa. La Circular 1/1999 de la Fiscalía está publicada en el BOE. La STC 85/1994, disponible en el repositorio del TC, corresponde a otra causa y solo menciona Naseiro como precedente invocado. No se atribuye a ella la resolución de un amparo del caso. Tampoco se ha verificado la presentación o resultado del amparo anunciado en julio de 1992, la ejecución de una destrucción posterior de cintas o la firmeza autónoma de la absolución.
 
-  En junio se había ordenado destruir las cintas, pero las crónicas de julio explican que se acordó
-  conservarlas ante el propósito de las acusaciones de acudir al Tribunal Constitucional. No se ha verificado
-  el eventual recurso ni su desenlace, ni la ejecución posterior de la destrucción. La STC 85/1994 cita el
-  caso como precedente dentro de un recurso de otra causa: no es la resolución constitucional de Naseiro. A
-  fecha de corte de 17 de octubre de 2026 faltan los originales de la sentencia y los autos, su identificación
-  completa y constancia de firmeza o recursos posteriores. No consta una fecha de cierre ni la firmeza de la
-  resolución. No se consigna coste: no se ha acreditado un perjuicio público cuantificado y las comisiones o
-  penas solicitadas no equivalen a daño judicialmente probado.
+  Las acusaciones se describen como tales, sin convertir en hechos probados el contenido de grabaciones anuladas. Los seis detenidos de 1990 no equivalen a los cuatro acusados del juicio de 1992: faltan las resoluciones individuales relativas a Janini, Bonet y Latorre. No están acreditados la imputación y el aforamiento atribuidos a Pedro Agramunt en las fuentes citadas. La mención de Zaplana en grabaciones tampoco acredita su condición de acusado en este juicio. No se añaden cuantías de daño ni se convierten multas o comisiones mencionadas en coste público.
 resumen: 'Investigación sobre supuesto cohecho y financiación del PP: escuchas anuladas en junio de 1992 y sentencia
   absolutoria tras retirarse las acusaciones en julio'
 lugar: Valencia, Comunidad Valenciana
@@ -172,11 +147,3 @@ cronologia:
   - https://www.servimedia.es/noticias/supremo-absuelve-implicados-caso-naseiro-ordena-conservacion-cintas-magnetofonicas/1410777803
   - https://elpais.com/diario/1992/07/16/espana/711237605_850215.html
 ---
-
-## Alcance y asuntos pendientes
-
-Información disponible al 17 de octubre de 2026. Se cotejaron los cuerpos completos de las informaciones contemporáneas de El País sobre detenciones, nulidad, recursos y absolución y de Servimedia sobre el inicio del juicio y la notificación del fallo. La diferencia entre fecha de acto y publicación se mantiene visible: el 15 de julio se notificó la sentencia según Servimedia; no se ha cotejado su fecha interna. Se distingue la fecha del 7 de julio atribuida a la retirada de acusaciones por una retrospectiva de la conclusión del juicio el día 9 según Servimedia. Tampoco se presenta la fecha inicial de 1989, procedente de una cronología, como cotejada con el auto original.
-
-No se dispone de los autos ni de la sentencia de esta causa. La Circular 1/1999 de la Fiscalía está publicada en el BOE. La STC 85/1994, disponible en el repositorio del TC, corresponde a otra causa y solo menciona Naseiro como precedente invocado. No se atribuye a ella la resolución de un amparo del caso. Tampoco se ha verificado la presentación o resultado del amparo anunciado en julio de 1992, la ejecución de una destrucción posterior de cintas o la firmeza autónoma de la absolución.
-
-Las acusaciones se describen como tales, sin convertir en hechos probados el contenido de grabaciones anuladas. Los seis detenidos de 1990 no equivalen a los cuatro acusados del juicio de 1992: faltan las resoluciones individuales relativas a Janini, Bonet y Latorre. No están acreditados la imputación y el aforamiento atribuidos a Pedro Agramunt en las fuentes citadas. La mención de Zaplana en grabaciones tampoco acredita su condición de acusado en este juicio. No se añaden cuantías de daño ni se convierten multas o comisiones mencionadas en coste público.

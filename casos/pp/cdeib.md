@@ -8,13 +8,18 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas de causa principal; derivada fiscal con prescripción comunicada en 2024
-descripcion: El caso Scala investigó contratos amañados, comisiones y desvíos de fondos del CDEIB durante la legislatura
-  2003-2007. La Audiencia de Palma dictó la sentencia 73/2013 el 26 de julio, con condena de dieciséis años de prisión
-  al exconseller Josep Juan Cardona. Su recurso fue desestimado por la STS 394/2014, de 7 de mayo. En noviembre de 2023 se comunicó su libertad
-  condicional, sin acreditar la extinción de la pena ni el pago íntegro de responsabilidades. La derivada fiscal
-  que llegó a juicio en 2024 terminó por prescripción, según noticia de noviembre de ese año, y no debe presentarse
-  como investigación aún sin desenlace. Persisten dudas sobre agregados económicos, algunas penas individuales y
-  ejecución.
+descripcion: |-
+  El caso Scala investigó contratos amañados, comisiones y desvíos de fondos del CDEIB durante la legislatura 2003-2007. La Audiencia de Palma dictó la sentencia 73/2013 el 26 de julio, con condena de dieciséis años de prisión al exconseller Josep Juan Cardona. Su recurso fue desestimado por la STS 394/2014, de 7 de mayo. En noviembre de 2023 se comunicó su libertad condicional, sin acreditar la extinción de la pena ni el pago íntegro de responsabilidades. La derivada fiscal que llegó a juicio en 2024 terminó por prescripción, según noticia de noviembre de ese año, y no debe presentarse como investigación aún sin desenlace. Persisten dudas sobre agregados económicos, algunas penas individuales y ejecución.
+
+  La causa principal y la derivada fiscal tienen resultados distintos. La resolución del Supremo examinada corresponde al recurso de Cardona contra la sentencia de 2013. La noticia de noviembre de 2024 relata la prescripción del supuesto delito fiscal; no borra las condenas anteriores ni permite trasladar a aquella pieza la responsabilidad de personas no acusadas en ella.
+
+  Los 8.270.000 euros no constituyen un perjuicio conjunto acreditado. La nota del CGPJ habla de ocho millones malversados, indemnizaciones y decomisos con bases diferentes; la prensa ofrece otros agregados. Sin revisar la totalidad de partidas, solidaridades, devoluciones y liquidaciones no se fija un total de daño. Los 10.585 euros atribuidos al PP en instancia corresponden a responsabilidad civil a título lucrativo, según la nota judicial; no constituyen una condena penal al partido.
+
+  Las penas resumidas de Ordinas y Ferré requieren cautela. La nota oficial da cuatro años y dos meses y tres años y nueve meses; RTVE recoge tres años y ocho meses y tres años y tres meses. El fallo PDF individualiza prisión, multas y responsabilidades subsidiarias, sin autorizar una conciliación automática de esos agregados ni una identificación por pseudónimos. Está acreditada su identidad como condenados, pero no una pena conjunta.
+
+  No consta una imputación de Matas en este procedimiento ni fechas exactas para el inicio de los hechos, su descubrimiento o la colaboración. El relato de la lata y su contenido tampoco se utiliza para fijar una cifra de daño.
+
+  La sentencia oficial consta de 351 páginas. El coordinador recuperó el PDF oficial del Supremo, de 169 páginas, y leyó encabezamiento y fallo (páginas 1 y 169), sin revisar íntegramente los fundamentos. La vinculación nominal de Cardona procede también de la información judicial y periodística; no se deducen identidades de los pseudónimos del PDF. La libertad condicional fue comunicada en noviembre de 2023. No se dispone del auto original ni están acreditados la liquidación de la condena o el pago íntegro de responsabilidades. Falta el original de la resolución fiscal de 2024, sus recursos y firmeza, y la documentación de ejecución de las condenas y responsabilidades civiles.
 resumen: 'Desvíos del CDEIB: condena de Cardona mantenida en casación en 2014 y derivada fiscal prescrita en 2024
   según la prensa.'
 lugar: Islas Baleares
@@ -108,13 +113,3 @@ cronologia:
   - https://www.ultimahora.es/noticias/local/2024/11/14/2275279/caso-scala-archivado-delito-fiscal-por-prescripcion.html
   type: auto
 ---
-
-La causa principal y la derivada fiscal tienen resultados distintos. La resolución del Supremo examinada corresponde al recurso de Cardona contra la sentencia de 2013. La noticia de noviembre de 2024 relata la prescripción del supuesto delito fiscal; no borra las condenas anteriores ni permite trasladar a aquella pieza la responsabilidad de personas no acusadas en ella.
-
-Los 8.270.000 euros no constituyen un perjuicio conjunto acreditado. La nota del CGPJ habla de ocho millones malversados, indemnizaciones y decomisos con bases diferentes; la prensa ofrece otros agregados. Sin revisar la totalidad de partidas, solidaridades, devoluciones y liquidaciones no se fija un total de daño. Los 10.585 euros atribuidos al PP en instancia corresponden a responsabilidad civil a título lucrativo, según la nota judicial; no constituyen una condena penal al partido.
-
-Las penas resumidas de Ordinas y Ferré requieren cautela. La nota oficial da cuatro años y dos meses y tres años y nueve meses; RTVE recoge tres años y ocho meses y tres años y tres meses. El fallo PDF individualiza prisión, multas y responsabilidades subsidiarias, sin autorizar una conciliación automática de esos agregados ni una identificación por pseudónimos. Está acreditada su identidad como condenados, pero no una pena conjunta.
-
-No consta una imputación de Matas en este procedimiento ni fechas exactas para el inicio de los hechos, su descubrimiento o la colaboración. El relato de la lata y su contenido tampoco se utiliza para fijar una cifra de daño.
-
-La sentencia oficial consta de 351 páginas. El coordinador recuperó el PDF oficial del Supremo, de 169 páginas, y leyó encabezamiento y fallo (páginas 1 y 169), sin revisar íntegramente los fundamentos. La vinculación nominal de Cardona procede también de la información judicial y periodística; no se deducen identidades de los pseudónimos del PDF. La libertad condicional fue comunicada en noviembre de 2023. No se dispone del auto original ni están acreditados la liquidación de la condena o el pago íntegro de responsabilidades. Falta el original de la resolución fiscal de 2024, sus recursos y firmeza, y la documentación de ejecución de las condenas y responsabilidades civiles.

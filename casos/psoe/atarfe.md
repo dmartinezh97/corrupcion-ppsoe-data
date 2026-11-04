@@ -9,24 +9,22 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Procedimientos distintos: condena por contratación y absolución en Medina Elvira; revisión parcial"
 resumen: "Actuaciones municipales de Atarfe con resultados distintos: condena de Tomás Ruiz por contratación de personal, absolución en Medina Elvira y una condena urbanística inicial de Víctor Sánchez posteriormente anulada. Las deudas municipales no constituyen un daño penal agregado."
-descripcion: >-
-  Esta ficha reúne procedimientos diferentes relacionados con la gestión municipal de Atarfe. Tomás Ruiz
-  Maeso, exalcalde socialista, fue condenado por prevaricación en la contratación de dos trabajadores como
-  relevistas sin expediente y pese a los reparos municipales. La STS 692/2016, de 27 de julio, desestimó su
-  recurso contra la sentencia de la Audiencia de Granada de 2 de diciembre de 2015, que imponía ocho años,
-  seis meses y un día de inhabilitación especial para empleo o cargo público.
+descripcion: |-
+  Esta ficha reúne procedimientos diferentes relacionados con la gestión municipal de Atarfe. Tomás Ruiz Maeso, exalcalde socialista, fue condenado por prevaricación en la contratación de dos trabajadores como relevistas sin expediente y pese a los reparos municipales. La STS 692/2016, de 27 de julio, desestimó su recurso contra la sentencia de la Audiencia de Granada de 2 de diciembre de 2015, que imponía ocho años, seis meses y un día de inhabilitación especial para empleo o cargo público.
 
+  En otra causa, Medina Elvira, el Tribunal Supremo desestimó los recursos contra la absolución dictada el 20 de mayo de 2020. La resolución es la STS 766/2022, de 15 de septiembre, no una sentencia de 29 de septiembre. La identificación nominal de Tomás Ruiz como absuelto procede de la cobertura periodística; los nombres anonimizados del original no se equiparan por inferencia.
 
-  En otra causa, Medina Elvira, el Tribunal Supremo desestimó los recursos contra la absolución dictada el 20
-  de mayo de 2020. La resolución es la STS 766/2022, de 15 de septiembre, no una sentencia de 29 de
-  septiembre. La identificación nominal de Tomás Ruiz como absuelto procede de la cobertura periodística; los
-  nombres anonimizados del original no se equiparan por inferencia.
+  Víctor Sánchez tuvo una condena inicial en 2011 por Balcón de Cubillas, pero Granada Hoy informó en marzo de 2014 de que había sido anulada por falta de competencia del juzgado y se había ordenado repetir el juicio. No se conserva como condena vigente. Al 17 de octubre de 2026, no están acreditados el cierre de todos los procedimientos ni el cumplimiento de las penas.
 
+  La condena por contratación y la absolución de Medina Elvira pertenecen a causas diferentes: ninguna de ellas altera automáticamente el resultado de la otra. La primera sentencia de contratación es de diciembre de 2015, no de enero de ese año. En Medina Elvira, el original del Supremo identifica la absolución recurrida como dictada en mayo de 2020.
 
-  Víctor Sánchez tuvo una condena inicial en 2011 por Balcón de Cubillas, pero Granada Hoy informó en marzo de
-  2014 de que había sido anulada por falta de competencia del juzgado y se había ordenado repetir el juicio.
-  No se conserva como condena vigente. Al 17 de octubre de 2026, no están acreditados el cierre de todos los
-  procedimientos ni el cumplimiento de las penas.
+  En Balcón de Cubillas, las informaciones de 2011 y 2014 deben leerse conjuntamente: la primera anunció una condena recurrible y la segunda documentó su anulación y la repetición del juicio. El fallecimiento de Víctor Sánchez en agosto de 2018 fue publicado por [Granada Hoy](https://www.granadahoy.com/granada/Fallece-Victor-Sanchez-alcalde-Atarfe_0_1271573087.html), pero no se han recuperado los autos finales de cada procedimiento. No se presenta una resolución anulada como condena vigente ni se generaliza un archivo por fallecimiento a todas las causas sin sus originales. La noticia de Europa Press de octubre de 2011 también recogía que Sánchez había sido absuelto en firme por la Audiencia en el asunto distinto de los vertidos de Llanos de Silva; no se traslada aquella condena inicial a este caso urbanístico.
+
+  Los 18 millones no constituyen un perjuicio conjunto acreditado. La relación municipal de mayo de 2017 agrupa obligaciones diversas y distingue parte recurrida; incluye capital, intereses y costas de obras y financiación. El [balance municipal de febrero de 2019](https://www.atarfe.es/evolucion-deuda-ayuntamiento-atarfe) explica además un préstamo de 14,7 millones para afrontar deudas judiciales: refinanciar una obligación no constituye un segundo daño ni demuestra su cancelación económica definitiva. Tampoco la reclamación de cotizaciones laborales equivale por sí sola a una condena penal o a una sentencia del TSJA. No hay una cuantificación verificada y homogénea del perjuicio penal que pueda sumarse en esta ficha.
+
+  Los dos PDF del Supremo proceden de CENDOJ y se han cotejado de manera dirigida: en el de 2016, cabecera, antecedentes relativos a la contratación y pena y fallo; en el de 2022, cabecera y fallo. Los nombres sustituidos por CENDOJ no se identifican por deducción: los nombres reales y su afiliación se contrastan con la prensa nominal citada. Las fechas de creación de las copias disponibles corresponden a la exportación de 2026, no a los actos judiciales de 2016 y 2022.
+
+  Información disponible al 17 de octubre de 2026. Faltan los originales de Balcón de Cubillas y su desenlace posterior, la comprobación completa de otros procedimientos urbanísticos, la evolución de la reclamación de cotizaciones y las resoluciones de ejecución de la inhabilitación. No se afirma que todos los asuntos estén cerrados ni que Tomás Ruiz haya cumplido ya su pena. Las deudas históricas y las valoraciones municipales tampoco acreditan por sí solas malversación.
 lugar: "Atarfe, Granada, Andalucía"
 tribunal:
   - "Juzgado de lo Penal número 5 de Granada (resolución inicial de Balcón de Cubillas, posteriormente anulada según la prensa)"
@@ -108,13 +106,3 @@ cronologia:
       - "https://www.poderjudicial.es/portal/site/cgpj/viewDocument?ECLI=ECLI:ES:TS:2022:3320"
       - "https://www.ahoragranada.com/noticias/me-iban-a-destrozar-la-vida-hice-lo-que-en-cada-momento-tenia-que-hacer/"
 ---
-
-La condena por contratación y la absolución de Medina Elvira pertenecen a causas diferentes: ninguna de ellas altera automáticamente el resultado de la otra. La primera sentencia de contratación es de diciembre de 2015, no de enero de ese año. En Medina Elvira, el original del Supremo identifica la absolución recurrida como dictada en mayo de 2020.
-
-En Balcón de Cubillas, las informaciones de 2011 y 2014 deben leerse conjuntamente: la primera anunció una condena recurrible y la segunda documentó su anulación y la repetición del juicio. El fallecimiento de Víctor Sánchez en agosto de 2018 fue publicado por [Granada Hoy](https://www.granadahoy.com/granada/Fallece-Victor-Sanchez-alcalde-Atarfe_0_1271573087.html), pero no se han recuperado los autos finales de cada procedimiento. No se presenta una resolución anulada como condena vigente ni se generaliza un archivo por fallecimiento a todas las causas sin sus originales. La noticia de Europa Press de octubre de 2011 también recogía que Sánchez había sido absuelto en firme por la Audiencia en el asunto distinto de los vertidos de Llanos de Silva; no se traslada aquella condena inicial a este caso urbanístico.
-
-Los 18 millones no constituyen un perjuicio conjunto acreditado. La relación municipal de mayo de 2017 agrupa obligaciones diversas y distingue parte recurrida; incluye capital, intereses y costas de obras y financiación. El [balance municipal de febrero de 2019](https://www.atarfe.es/evolucion-deuda-ayuntamiento-atarfe) explica además un préstamo de 14,7 millones para afrontar deudas judiciales: refinanciar una obligación no constituye un segundo daño ni demuestra su cancelación económica definitiva. Tampoco la reclamación de cotizaciones laborales equivale por sí sola a una condena penal o a una sentencia del TSJA. No hay una cuantificación verificada y homogénea del perjuicio penal que pueda sumarse en esta ficha.
-
-Los dos PDF del Supremo proceden de CENDOJ y se han cotejado de manera dirigida: en el de 2016, cabecera, antecedentes relativos a la contratación y pena y fallo; en el de 2022, cabecera y fallo. Los nombres sustituidos por CENDOJ no se identifican por deducción: los nombres reales y su afiliación se contrastan con la prensa nominal citada. Las fechas de creación de las copias disponibles corresponden a la exportación de 2026, no a los actos judiciales de 2016 y 2022.
-
-Información disponible al 17 de octubre de 2026. Faltan los originales de Balcón de Cubillas y su desenlace posterior, la comprobación completa de otros procedimientos urbanísticos, la evolución de la reclamación de cotizaciones y las resoluciones de ejecución de la inhabilitación. No se afirma que todos los asuntos estén cerrados ni que Tomás Ruiz haya cumplido ya su pena. Las deudas históricas y las valoraciones municipales tampoco acreditan por sí solas malversación.

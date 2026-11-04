@@ -9,14 +9,28 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas y absolución resueltas en casación; ejecución pendiente de comprobar
 lugar: Alicante, Comunidad Valenciana
-descripcion: El caso investigó contrataciones de la Concejalía de Comercio de Alicante realizadas en noviembre y
-  diciembre de 2016, bajo la responsabilidad del alcalde socialista Gabriel Echávarri. El Supremo, en su sentencia
-  441/2022 de 4 de mayo, mantuvo la condena de Echávarri como autor y de Pedro de Gea como cooperador necesario
-  de prevaricación continuada, fijando para cada uno ocho años y seis meses de inhabilitación especial con distinto
-  alcance según su cargo. Absolvió al exjefe de Gabinete Eduardo Díez por insuficiencia de prueba. Los 189.762,86
-  euros son el importe acumulado de las 25 operaciones, no un daño público cuantificado. Faltan documentos de ejecución
-  y la comprobación del eventual amparo anunciado en prensa y de novedades posteriores hasta el 17 de octubre de
-  2026.
+descripcion: |-
+  El caso investigó contrataciones de la Concejalía de Comercio de Alicante realizadas en noviembre y diciembre de 2016, bajo la responsabilidad del alcalde socialista Gabriel Echávarri. El Supremo, en su sentencia 441/2022 de 4 de mayo, mantuvo la condena de Echávarri como autor y de Pedro de Gea como cooperador necesario de prevaricación continuada, fijando para cada uno ocho años y seis meses de inhabilitación especial con distinto alcance según su cargo. Absolvió al exjefe de Gabinete Eduardo Díez por insuficiencia de prueba. Los 189.762,86 euros son el importe acumulado de las 25 operaciones, no un daño público cuantificado. Faltan documentos de ejecución y la comprobación del eventual amparo anunciado en prensa y de novedades posteriores hasta el 17 de octubre de 2026.
+
+  ### Hechos y cantidades
+
+  Los hechos probados reproducidos en la sentencia del Supremo describen 25 operaciones por 189.762,86 euros. Distinguen nueve contrataciones que excedían la mera irregularidad administrativa, vinculadas a promoción comercial, la Gala de Premios de Comercio y cartelería o señalización de mercados. La valoración posterior de la prueba y la absolución de Díez impiden seguir atribuyendo a los tres por igual el resultado condenatorio inicial.
+
+  El importe global de las operaciones no es una indemnización ni una cuantificación del daño. El relato judicial incluye la memoria municipal que afirmaba que los trabajos y suministros se habían prestado y correspondían a precios de mercado. Los 189.762 euros no constituyen un perjuicio conjunto acreditado ni justifican sumar las cifras parciales.
+
+  ### Evolución de las responsabilidades
+
+  La Audiencia condenó a los tres acusados en octubre de 2019. El TSJ elevó las penas en enero de 2020, incluida la de Díez de siete a nueve años. El Supremo anuló la agravación al haber recurrido solo los condenados y repuso ocho años y seis meses para Echávarri y De Gea. La inhabilitación del primero afecta a alcalde, teniente de alcalde o concejal; la del segundo, a asesor o funcionario de una corporación local.
+
+  Díez quedó absuelto por insuficiencia de la prueba. El fundamento duodécimo cuestiona la inferencia de culpabilidad respecto a los contratos que se le atribuían: no considera que el mero exceso de un céntimo en una factura baste por sí solo para probar la arbitrariedad penal. La segunda sentencia sustituye expresamente la atribución conjunta de arbitrariedad por la referida a los otros dos condenados.
+
+  Esta ficha corresponde al caso Comercio y a la STS 441/2022. La causa del despido de la funcionaria se resolvió separadamente; no se incorpora su pena ni se confunde inhabilitación con prisión.
+
+  ### Documentación y límites
+
+  La copia del CENDOJ alojada por el Colegio de Abogados de Valladolid consta de 42 páginas y corresponde a la resolución de 4 de mayo de 2022. La creación del archivo el 14 de junio de 2022 no es la fecha judicial. El fallo de la segunda sentencia figura en la página 41. Las identidades se contrastan en prensa nominal, sin deducir nombres de los pseudónimos del PDF.
+
+  El fallo señala que no cabe recurso. La prensa de mayo de 2022 anunciaba que la defensa estudiaría un amparo; ese anuncio no demuestra su presentación o admisión. Faltan documentación de ejecución, liquidación de las inhabilitaciones y comprobación del posible amparo y de novedades hasta el corte del 17 de octubre de 2026. No consta una fecha de firmeza; la ausencia de noticias no acredita la inexistencia de actuaciones.
 resumen: 'Fraccionamiento de contratos de Comercio de Alicante: el Supremo fijó ocho años y seis meses de inhabilitación
   para Echávarri y De Gea y absolvió a Eduardo Díez.'
 tribunal:
@@ -100,23 +114,3 @@ cronologia:
   - https://www.elespanol.com/alicante/20220511/confirman-exalcalde-alicante-psoe-fraccionar-contratos-despedir/671682998_0.html
   - https://alicanteplaza.es/elsupremoratificalascondenasaechavarriporelcasocomercioyelcasodespidoconpenareducida
 ---
-
-## Hechos y cantidades
-
-Los hechos probados reproducidos en la sentencia del Supremo describen 25 operaciones por 189.762,86 euros. Distinguen nueve contrataciones que excedían la mera irregularidad administrativa, vinculadas a promoción comercial, la Gala de Premios de Comercio y cartelería o señalización de mercados. La valoración posterior de la prueba y la absolución de Díez impiden seguir atribuyendo a los tres por igual el resultado condenatorio inicial.
-
-El importe global de las operaciones no es una indemnización ni una cuantificación del daño. El relato judicial incluye la memoria municipal que afirmaba que los trabajos y suministros se habían prestado y correspondían a precios de mercado. Los 189.762 euros no constituyen un perjuicio conjunto acreditado ni justifican sumar las cifras parciales.
-
-## Evolución de las responsabilidades
-
-La Audiencia condenó a los tres acusados en octubre de 2019. El TSJ elevó las penas en enero de 2020, incluida la de Díez de siete a nueve años. El Supremo anuló la agravación al haber recurrido solo los condenados y repuso ocho años y seis meses para Echávarri y De Gea. La inhabilitación del primero afecta a alcalde, teniente de alcalde o concejal; la del segundo, a asesor o funcionario de una corporación local.
-
-Díez quedó absuelto por insuficiencia de la prueba. El fundamento duodécimo cuestiona la inferencia de culpabilidad respecto a los contratos que se le atribuían: no considera que el mero exceso de un céntimo en una factura baste por sí solo para probar la arbitrariedad penal. La segunda sentencia sustituye expresamente la atribución conjunta de arbitrariedad por la referida a los otros dos condenados.
-
-Esta ficha corresponde al caso Comercio y a la STS 441/2022. La causa del despido de la funcionaria se resolvió separadamente; no se incorpora su pena ni se confunde inhabilitación con prisión.
-
-## Documentación y límites
-
-La copia del CENDOJ alojada por el Colegio de Abogados de Valladolid consta de 42 páginas y corresponde a la resolución de 4 de mayo de 2022. La creación del archivo el 14 de junio de 2022 no es la fecha judicial. El fallo de la segunda sentencia figura en la página 41. Las identidades se contrastan en prensa nominal, sin deducir nombres de los pseudónimos del PDF.
-
-El fallo señala que no cabe recurso. La prensa de mayo de 2022 anunciaba que la defensa estudiaría un amparo; ese anuncio no demuestra su presentación o admisión. Faltan documentación de ejecución, liquidación de las inhabilitaciones y comprobación del posible amparo y de novedades hasta el corte del 17 de octubre de 2026. No consta una fecha de firmeza; la ausencia de noticias no acredita la inexistencia de actuaciones.

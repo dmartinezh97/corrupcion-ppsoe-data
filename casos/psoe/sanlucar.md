@@ -9,15 +9,16 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: cerrado con condenas
 lugar: Sanlúcar de Barrameda y Chipiona, Cádiz
-descripcion: 'Procedimiento por el soborno a Manuel Ramírez, concejal del PP, para que no apoyara la moción de censura
-  contra el alcalde socialista Agustín Cuevas en octubre de 1999. Hubo seis condenados por cohecho y Ramírez fue
-  absuelto. La sentencia de la Audiencia de Cádiz es de 16 de mayo de 2006; el TSJA modificó penas y absolvió del
-  tráfico de influencias el 23 de febrero de 2007. La STS1125/2007, de 12 de diciembre, desestimó los cuatro recursos
-  de casación; abril de 2008 es fecha de difusión periodística, no del fallo. La prensa documenta el ingreso de
-  Cuevas en Huelva en noviembre de 2009. No se ha comprobado íntegramente la firmeza individual posterior, el cumplimiento
-  de penas, pagos o eventuales indultos hasta 17 de octubre de 2026. Los 50 millones de pesetas ofrecidos no se
-  equiparan a un daño público de 300.506 euros: hubo dinero y efectos entregados e intervenidos, multas y una indemnización
-  diferenciados.'
+descripcion: |-
+  Procedimiento por el soborno a Manuel Ramírez, concejal del PP, para que no apoyara la moción de censura contra el alcalde socialista Agustín Cuevas en octubre de 1999. Hubo seis condenados por cohecho y Ramírez fue absuelto. La sentencia de la Audiencia de Cádiz es de 16 de mayo de 2006; el TSJA modificó penas y absolvió del tráfico de influencias el 23 de febrero de 2007. La STS1125/2007, de 12 de diciembre, desestimó los cuatro recursos de casación; abril de 2008 es fecha de difusión periodística, no del fallo. La prensa documenta el ingreso de Cuevas en Huelva en noviembre de 2009. No se ha comprobado íntegramente la firmeza individual posterior, el cumplimiento de penas, pagos o eventuales indultos hasta 17 de octubre de 2026. Los 50 millones de pesetas ofrecidos no se equiparan a un daño público de 300.506 euros: hubo dinero y efectos entregados e intervenidos, multas y una indemnización diferenciados.
+
+  El [original del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ff0b84eee4488cb5&encode=true&databasematch=AN) reproduce una secuencia de ofertas, entregas y documentos en octubre de 1999. El pacto llegó a 50 millones de pesetas, con dinero, efectos y promesas laborales para lograr la ausencia en la votación. No fue una única reunión fechable el 15 ni una entrega íntegra del total prometido. El concejal denunciante fue acusado por particulares y absuelto: no se oculta esa diferencia de roles.
+
+  La [información nominal de la apelación](https://www.europapress.es/andalucia/cadiz-00351/noticia-cadiz-tribunales-tsja-rebaja-dos-15-anos-carcel-pena-ex-alcalde-agustin-cuevas-caso-sanlucar-20070227183831.html) permite identificar las penas sin reconstruir nombres a partir de seudónimos del texto judicial. El fallo mantuvo una indemnización solidaria de 9.000 euros y un decomiso de 92.555,86 euros más un cheque de 30.050,61 euros. Son conceptos distintos de las multas y del total prometido, y no se suman como daño público. El texto reproducido contiene un error aparente de «treinta euros» en una multa de empresario, mientras su propio fundamento y la prensa indican 30.000; no se concilia atribuyendo identidades por alias.
+
+  La copia judicial distingue las fechas de 16 may 2006,23 feb 2007 y 12 dic 2007. La [noticia de abril de 2008](https://www.europapress.es/nacional/noticia-tribunal-supremo-desestima-recursos-ex-alcaldes-sanlucar-chipiona-caso-sanlucar-20080414182514.html) es una publicación posterior. La [información de ingreso en prisión](https://andaluciainformacion.es/sanlucar/91564/ingresa-en-prision-agustin-cuevas-por-el-caso-sanlucar/) concierne a Cuevas y describe otro procedimiento, Terán, que no se integra aquí. No se deduce de ella el pago completo de multas o indemnización ni la extinción de todas las penas.
+
+  Faltan el seguimiento de ejecución por persona y la comprobación de posibles decisiones posteriores de firmeza, amparo o indulto. El rechazo a proponer un indulto recogido en el fallo de apelación no es una resolución del Gobierno sobre toda eventual petición de gracia.
 resumen: Condenas por cohecho para impedir una moción de censura; penas modificadas por el TSJA y casación desestimada
   en 2007.
 tribunal:
@@ -110,11 +111,3 @@ cronologia:
   type: ejecucion
   relevancia: alta
 ---
-
-El [original del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ff0b84eee4488cb5&encode=true&databasematch=AN) reproduce una secuencia de ofertas, entregas y documentos en octubre de 1999. El pacto llegó a 50 millones de pesetas, con dinero, efectos y promesas laborales para lograr la ausencia en la votación. No fue una única reunión fechable el 15 ni una entrega íntegra del total prometido. El concejal denunciante fue acusado por particulares y absuelto: no se oculta esa diferencia de roles.
-
-La [información nominal de la apelación](https://www.europapress.es/andalucia/cadiz-00351/noticia-cadiz-tribunales-tsja-rebaja-dos-15-anos-carcel-pena-ex-alcalde-agustin-cuevas-caso-sanlucar-20070227183831.html) permite identificar las penas sin reconstruir nombres a partir de seudónimos del texto judicial. El fallo mantuvo una indemnización solidaria de 9.000 euros y un decomiso de 92.555,86 euros más un cheque de 30.050,61 euros. Son conceptos distintos de las multas y del total prometido, y no se suman como daño público. El texto reproducido contiene un error aparente de «treinta euros» en una multa de empresario, mientras su propio fundamento y la prensa indican 30.000; no se concilia atribuyendo identidades por alias.
-
-La copia judicial distingue las fechas de 16 may 2006,23 feb 2007 y 12 dic 2007. La [noticia de abril de 2008](https://www.europapress.es/nacional/noticia-tribunal-supremo-desestima-recursos-ex-alcaldes-sanlucar-chipiona-caso-sanlucar-20080414182514.html) es una publicación posterior. La [información de ingreso en prisión](https://andaluciainformacion.es/sanlucar/91564/ingresa-en-prision-agustin-cuevas-por-el-caso-sanlucar/) concierne a Cuevas y describe otro procedimiento, Terán, que no se integra aquí. No se deduce de ella el pago completo de multas o indemnización ni la extinción de todas las penas.
-
-Faltan el seguimiento de ejecución por persona y la comprobación de posibles decisiones posteriores de firmeza, amparo o indulto. El rechazo a proponer un indulto recogido en el fallo de apelación no es una resolución del Gobierno sobre toda eventual petición de gracia.

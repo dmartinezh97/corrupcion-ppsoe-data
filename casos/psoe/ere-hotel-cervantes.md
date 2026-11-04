@@ -10,26 +10,22 @@ estadoPrincipal: En investigación
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: desconocido
-descripcion: 'La investigación se refiere a la financiación pública del ERE de Europa Center, S.A., empresa del
-  Hotel Cervantes de Torremolinos, autorizado el 4 de mayo de 2006. Deben distinguirse la vía penal, integrada en
-  una pieza sobre varias empresas del Grupo Ruiz-Mateos, y el procedimiento contable B-137/16-08. La sentencia 3/2025
-  del Tribunal de Cuentas, de 8 de septiembre de 2025, desestimó íntegramente la demanda de la Junta por 8.767.916,14
-  euros, con costas a la administración: no apreció daño acreditado en los pagos examinados y, respecto de determinados
-  demandados, falta de legitimación para responder ante la jurisdicción contable. No es una absolución penal. La
-  ficha oficial de esa sentencia indica que no es firme.
+descripcion: |-
+  La investigación se refiere a la financiación pública del ERE de Europa Center, S.A., empresa del Hotel Cervantes de Torremolinos, autorizado el 4 de mayo de 2006. Deben distinguirse la vía penal, integrada en una pieza sobre varias empresas del Grupo Ruiz-Mateos, y el procedimiento contable B-137/16-08. La sentencia 3/2025 del Tribunal de Cuentas, de 8 de septiembre de 2025, desestimó íntegramente la demanda de la Junta por 8.767.916,14 euros, con costas a la administración: no apreció daño acreditado en los pagos examinados y, respecto de determinados demandados, falta de legitimación para responder ante la jurisdicción contable. No es una absolución penal. La ficha oficial de esa sentencia indica que no es firme.
 
+  La acusación inicial de inclusión de trabajadores ajenos al hotel no puede mantenerse como hecho probado: en diciembre de 2016 y marzo de 2017 se conocieron archivos relativos a los dos trabajadores señalados, dos sindicalistas y el director del establecimiento. La instructora consideró legal la inclusión de los trabajadores por la conservación de derechos dentro del grupo empresarial. Son archivos individuales, no prueba del cierre de toda la causa.
 
-  La acusación inicial de inclusión de trabajadores ajenos al hotel no puede mantenerse como hecho probado: en diciembre
-  de 2016 y marzo de 2017 se conocieron archivos relativos a los dos trabajadores señalados, dos sindicalistas y
-  el director del establecimiento. La instructora consideró legal la inclusión de los trabajadores por la conservación
-  de derechos dentro del grupo empresarial. Son archivos individuales, no prueba del cierre de toda la causa.
+  En la pieza penal más amplia hubo un auto de procedimiento abreviado de 23 de abril de 2024 y archivos parciales posteriores. Una información publicada el 6 de mayo de 2026 describe un auto de 29 de abril que abrió audiencia a las partes sobre una posible cuestión prejudicial al TJUE; no equivale a una cuestión ya planteada ni a apertura de juicio oral. No se han verificado la resolución ulterior, los resultados penales de todas las personas ni recursos o firmeza posterior de la sentencia contable al 17 de octubre de 2026.
 
+  Europa Center, S.A., empresa del Hotel Cervantes, promovió el ERE autorizado en mayo de 2006 y contrató un seguro colectivo de rentas con posteriores ampliaciones. La sentencia contable identifica como objeto de la demanda los 8.767.916,14 euros asumidos por la Junta para la prima, sin que esa reclamación permita presentar la suma como daño probado. Los importes agregados de las ayudas a Dhul y las bodegas del grupo pertenecen a un ámbito distinto y más amplio. Tampoco las fianzas civiles ni las comisiones atribuidas durante la investigación se suman a esa cantidad.
 
-  En la pieza penal más amplia hubo un auto de procedimiento abreviado de 23 de abril de 2024 y archivos parciales
-  posteriores. Una información publicada el 6 de mayo de 2026 describe un auto de 29 de abril que abrió audiencia
-  a las partes sobre una posible cuestión prejudicial al TJUE; no equivale a una cuestión ya planteada ni a apertura
-  de juicio oral. No se han verificado la resolución ulterior, los resultados penales de todas las personas ni recursos
-  o firmeza posterior de la sentencia contable al 17 de octubre de 2026.'
+  Las sospechas iniciales sobre Sendino y Cuevas fueron revisadas atendiendo a sus relaciones laborales en empresas del grupo y la conservación de antigüedad. Según Europa Press, la instructora no consideró ilegal su inclusión y archivó también respecto de representantes sindicales y el director del hotel. Por ello no se describe a esas personas como beneficiarios fraudulentos ni se identifica todo el ERE como ficticio. Los archivos individuales no permiten afirmar que todas las ayudas o todas las actuaciones de otras personas quedaran resueltas.
+
+  La sentencia contable de septiembre de 2025 diferencia dos fundamentos. Respecto de Francisco Javier Ruiz-Mateos, Carlos Miranda y Lanzas, rechaza su legitimación pasiva ante esa jurisdicción al no apreciar la condición exigida de gestores o perceptores de los fondos públicos. Esa conclusión no resuelve posibles responsabilidades de otra naturaleza. Respecto de Europa Center y las sucesoras de Guerrero, examina el daño: la regularización y novación de las pólizas al amparo del Decreto-ley 4/2012 proporcionaron cobertura a los pagos, y las acusaciones no probaron pagos injustificados en este procedimiento. La sentencia señala que las comisiones de intermediación se examinan en otro procedimiento contable, B-68/15. No se extiende a ese procedimiento la desestimación aquí recogida.
+
+  La pieza penal reúne actuaciones sobre varias empresas del grupo. El auto de julio de 2025 distingue a los apelantes y mantiene la continuación de uno por una póliza ligada a otra empresa; ese resultado no debe presentarse como una condena o continuación por hechos del hotel. La información de mayo de 2026 describe una audiencia del instructor acerca de una posible consulta al TJUE, antes de decidir los pasos posteriores. La doctrina del Constitucional y los pronunciamientos de otras piezas se consideran en ese debate, pero no equivalen a una sentencia del TJUE ni a una resolución penal individual de esta causa.
+
+  Permanecen sin verificar el desenlace de aquella audiencia de 2026, la situación penal ulterior de todas las personas y eventuales recursos o firmeza contable. La sentencia del Tribunal de Cuentas está identificada como no firme en la documentación oficial consultada. Tampoco se dispone de los originales de los autos de archivo penal de 2016 y 2017, cuyo contenido se recoge con atribución a las crónicas de la época.
 resumen: 'Ayudas al ERE del Hotel Cervantes: demanda contable desestimada en 2025 y situación penal posterior parcialmente
   documentada'
 lugar: Torremolinos, Málaga, Andalucía
@@ -201,13 +197,3 @@ cronologia:
     type: resolucion
     relevancia: alta
 ---
-
-Europa Center, S.A., empresa del Hotel Cervantes, promovió el ERE autorizado en mayo de 2006 y contrató un seguro colectivo de rentas con posteriores ampliaciones. La sentencia contable identifica como objeto de la demanda los 8.767.916,14 euros asumidos por la Junta para la prima, sin que esa reclamación permita presentar la suma como daño probado. Los importes agregados de las ayudas a Dhul y las bodegas del grupo pertenecen a un ámbito distinto y más amplio. Tampoco las fianzas civiles ni las comisiones atribuidas durante la investigación se suman a esa cantidad.
-
-Las sospechas iniciales sobre Sendino y Cuevas fueron revisadas atendiendo a sus relaciones laborales en empresas del grupo y la conservación de antigüedad. Según Europa Press, la instructora no consideró ilegal su inclusión y archivó también respecto de representantes sindicales y el director del hotel. Por ello no se describe a esas personas como beneficiarios fraudulentos ni se identifica todo el ERE como ficticio. Los archivos individuales no permiten afirmar que todas las ayudas o todas las actuaciones de otras personas quedaran resueltas.
-
-La sentencia contable de septiembre de 2025 diferencia dos fundamentos. Respecto de Francisco Javier Ruiz-Mateos, Carlos Miranda y Lanzas, rechaza su legitimación pasiva ante esa jurisdicción al no apreciar la condición exigida de gestores o perceptores de los fondos públicos. Esa conclusión no resuelve posibles responsabilidades de otra naturaleza. Respecto de Europa Center y las sucesoras de Guerrero, examina el daño: la regularización y novación de las pólizas al amparo del Decreto-ley 4/2012 proporcionaron cobertura a los pagos, y las acusaciones no probaron pagos injustificados en este procedimiento. La sentencia señala que las comisiones de intermediación se examinan en otro procedimiento contable, B-68/15. No se extiende a ese procedimiento la desestimación aquí recogida.
-
-La pieza penal reúne actuaciones sobre varias empresas del grupo. El auto de julio de 2025 distingue a los apelantes y mantiene la continuación de uno por una póliza ligada a otra empresa; ese resultado no debe presentarse como una condena o continuación por hechos del hotel. La información de mayo de 2026 describe una audiencia del instructor acerca de una posible consulta al TJUE, antes de decidir los pasos posteriores. La doctrina del Constitucional y los pronunciamientos de otras piezas se consideran en ese debate, pero no equivalen a una sentencia del TJUE ni a una resolución penal individual de esta causa.
-
-Permanecen sin verificar el desenlace de aquella audiencia de 2026, la situación penal ulterior de todas las personas y eventuales recursos o firmeza contable. La sentencia del Tribunal de Cuentas está identificada como no firme en la documentación oficial consultada. Tampoco se dispone de los originales de los autos de archivo penal de 2016 y 2017, cuyo contenido se recoge con atribución a las crónicas de la época.

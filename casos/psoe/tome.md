@@ -8,28 +8,18 @@ estadoPrincipal: En investigación
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: En instrucción
-descripcion: 'Investigación penal contra José Tomé Roca, alcalde de Monforte de Lemos y expresidente de la Diputación
-  de Lugo, a raíz de una denuncia por presuntos hechos de carácter sexual. La Fiscalía anunció el 2 de marzo de
-  2026 su querella por hechos situados en septiembre de 2025, con una calificación provisional alternativa de acoso
-  sexual o abuso en el ejercicio de la función pública. La denuncia interna del PSOE y las quejas de otras mujeres
-  no equivalen a otras tantas denuncias penales: G24 informaba el 29 de septiembre de 2026 de una única denunciante
-  penal y de varias testigos.
+descripcion: |-
+  Investigación penal contra José Tomé Roca, alcalde de Monforte de Lemos y expresidente de la Diputación de Lugo, a raíz de una denuncia por presuntos hechos de carácter sexual. La Fiscalía anunció el 2 de marzo de 2026 su querella por hechos situados en septiembre de 2025, con una calificación provisional alternativa de acoso sexual o abuso en el ejercicio de la función pública. La denuncia interna del PSOE y las quejas de otras mujeres no equivalen a otras tantas denuncias penales: G24 informaba el 29 de septiembre de 2026 de una única denunciante penal y de varias testigos.
 
+  La denunciante declaró en mayo de 2026. La Fiscalía se opuso al archivo solicitado por Tomé y pidió ampliar las diligencias; en un escrito de 22 de mayo conocido en junio reconocía dificultades de encaje en acoso sexual, sin descartarlo, y contemplaba otras posibles calificaciones. Son hipótesis de investigación, no delitos declarados probados. En julio se informó de un recurso de la defensa contra nuevas testificales y del cotejo de conversaciones de WhatsApp. G24 documentó declaraciones de testigos el 29 de septiembre y señaló que seguía pendiente la del propio Tomé, quien niega el acoso.
 
-  La denunciante declaró en mayo de 2026. La Fiscalía se opuso al archivo solicitado por Tomé y pidió ampliar las
-  diligencias; en un escrito de 22 de mayo conocido en junio reconocía dificultades de encaje en acoso sexual, sin
-  descartarlo, y contemplaba otras posibles calificaciones. Son hipótesis de investigación, no delitos declarados
-  probados. En julio se informó de un recurso de la defensa contra nuevas testificales y del cotejo de conversaciones
-  de WhatsApp. G24 documentó declaraciones de testigos el 29 de septiembre y señaló que seguía pendiente la del
-  propio Tomé, quien niega el acoso.
+  Tomé anunció su renuncia a la presidencia provincial el 10 de diciembre de 2025; el pleno tomó conocimiento de ella el 30 de diciembre. Conservó la alcaldía y el acta provincial como no adscrito, situación descrita todavía en septiembre de 2026. No se dispone de los autos originales, del resultado documental de todos los recursos ni de una resolución que cierre la instrucción hasta el 15 de octubre de 2026. No se acredita apertura de juicio oral ni condena. Las quejas internas, las declaraciones testificales y la querella fiscal se distinguen, y no se atribuye un daño económico cuantificado.
 
+  La querella fiscal conocida en [marzo de 2026](https://www.rtve.es/noticias/20260302/fiscalia-se-querella-contra-expresidente-diputacion-lugo-por-presunto-caso-abuso-sexual/16960797.shtml) se refiere a una denuncia particular por hechos situados en septiembre de 2025. Otras crónicas discrepan sobre el mes del encuentro descrito; al faltar la querella original no se fija un día exacto. Tampoco se presenta el número de testimonios del canal interno como número de víctimas acreditadas o de procedimientos penales independientes.
 
-  Tomé anunció su renuncia a la presidencia provincial el 10 de diciembre de 2025; el pleno tomó conocimiento de
-  ella el 30 de diciembre. Conservó la alcaldía y el acta provincial como no adscrito, situación descrita todavía
-  en septiembre de 2026. No se dispone de los autos originales, del resultado documental de todos los recursos ni
-  de una resolución que cierre la instrucción hasta el 15 de octubre de 2026. No se acredita apertura de juicio
-  oral ni condena. Las quejas internas, las declaraciones testificales y la querella fiscal se distinguen, y no
-  se atribuye un daño económico cuantificado.'
+  La [posición fiscal divulgada en junio](https://www.eldiario.es/galicia/fiscalia-pide-dar-impulso-causa-acoso-sexual-tome-nuevas-diligencias-rechace-archivo_1_13312555.html) solicita más investigación y contempla calificaciones alternativas. El [recurso de la defensa conocido en julio](https://www.elprogreso.es/articulo/comarcas/defensa-jose-tome-recurre-declaracion-cinco-testigos/202607232119561987291.amp.html) tampoco equivale a archivo. La [crónica actualizada de G24 de 29 de septiembre](https://www.g24.gal/-/nove-testemunas-declaran-no-caso-tome) relata nuevas declaraciones y distingue expresamente el ámbito testifical del de la denuncia penal. No se asigna a las testigos condición de investigadas.
+
+  El [acta provincial de 30 de diciembre de 2025](https://deputacionlugo.gal/sites/deputacionlugo.org/files/2025-12/Acta%20pleno%20extraordinario%2030%20decembro%202025.pdf) acredita el trámite institucional de renuncia y reproduce la negativa de Tomé a reconocer responsabilidad. Es un documento administrativo, no una resolución penal. El anuncio previo de dimisión no se trata como fecha de sentencia ni de finalización del caso. Faltan los autos judiciales y su secuencia completa de recursos, por lo que no se afirma firmeza ni resultado final.
 resumen: Investigación por presuntos hechos sexuales atribuidos a José Tomé; querella fiscal y diligencias testificales
   durante 2026.
 lugar: Monforte de Lemos / Lugo, Galicia
@@ -115,9 +105,3 @@ cronologia:
   type: investigacion
   relevancia: alta
 ---
-
-La querella fiscal conocida en [marzo de 2026](https://www.rtve.es/noticias/20260302/fiscalia-se-querella-contra-expresidente-diputacion-lugo-por-presunto-caso-abuso-sexual/16960797.shtml) se refiere a una denuncia particular por hechos situados en septiembre de 2025. Otras crónicas discrepan sobre el mes del encuentro descrito; al faltar la querella original no se fija un día exacto. Tampoco se presenta el número de testimonios del canal interno como número de víctimas acreditadas o de procedimientos penales independientes.
-
-La [posición fiscal divulgada en junio](https://www.eldiario.es/galicia/fiscalia-pide-dar-impulso-causa-acoso-sexual-tome-nuevas-diligencias-rechace-archivo_1_13312555.html) solicita más investigación y contempla calificaciones alternativas. El [recurso de la defensa conocido en julio](https://www.elprogreso.es/articulo/comarcas/defensa-jose-tome-recurre-declaracion-cinco-testigos/202607232119561987291.amp.html) tampoco equivale a archivo. La [crónica actualizada de G24 de 29 de septiembre](https://www.g24.gal/-/nove-testemunas-declaran-no-caso-tome) relata nuevas declaraciones y distingue expresamente el ámbito testifical del de la denuncia penal. No se asigna a las testigos condición de investigadas.
-
-El [acta provincial de 30 de diciembre de 2025](https://deputacionlugo.gal/sites/deputacionlugo.org/files/2025-12/Acta%20pleno%20extraordinario%2030%20decembro%202025.pdf) acredita el trámite institucional de renuncia y reproduce la negativa de Tomé a reconocer responsabilidad. Es un documento administrativo, no una resolución penal. El anuncio previo de dimisión no se trata como fecha de sentencia ni de finalización del caso. Faltan los autos judiciales y su secuencia completa de recursos, por lo que no se afirma firmeza ni resultado final.

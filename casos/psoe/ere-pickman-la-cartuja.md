@@ -10,20 +10,20 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: desconocido
-descripcion: 'La pieza del ERE de Pickman La Cartuja investigó las ayudas concedidas a la empresa entre 2003 y 2010.
-  Según el escrito de Anticorrupción de noviembre de 2018, se concedieron 11.421.933,37 euros y se pagaron 8.868.914,09
-  euros; son importes de ayudas investigadas, no un perjuicio fijado por sentencia. Un auto de 22 de noviembre de
-  2018 citó a nueve personas como investigadas y excluyó a cinco exaltos cargos para evitar un doble enjuiciamiento.
-  No se ha acreditado el desenlace posterior de esta pieza ni el estado individual de los citados a 15 de octubre
-  de 2026.
+descripcion: |-
+  La pieza del ERE de Pickman La Cartuja investigó las ayudas concedidas a la empresa entre 2003 y 2010. Según el escrito de Anticorrupción de noviembre de 2018, se concedieron 11.421.933,37 euros y se pagaron 8.868.914,09 euros; son importes de ayudas investigadas, no un perjuicio fijado por sentencia. Un auto de 22 de noviembre de 2018 citó a nueve personas como investigadas y excluyó a cinco exaltos cargos para evitar un doble enjuiciamiento. No se ha acreditado el desenlace posterior de esta pieza ni el estado individual de los citados a 15 de octubre de 2026.
 
+  Debe distinguirse del procedimiento de Avales: el 20 de enero de 2026 el CGPJ comunicó citaciones de 21 investigados por un aval de IDEA de 1,3 millones a Pickman, entre ellos Francisco Vallejo, según EFE. Gaspar Llanes no estaba entre los citados: recibió notificación con sus derechos de defensa y se pidió certificar su condición de diputado, sin acordarse entonces la remisión al TSJA. La prórroga anunciada hasta el 21 de junio de 2026 no permite establecer por sí sola la situación posterior. No se han verificado la celebración de esas declaraciones ni resoluciones posteriores; el aval no se suma a las ayudas como daño.
 
-  Debe distinguirse del procedimiento de Avales: el 20 de enero de 2026 el CGPJ comunicó citaciones de 21 investigados
-  por un aval de IDEA de 1,3 millones a Pickman, entre ellos Francisco Vallejo, según EFE. Gaspar Llanes no estaba
-  entre los citados: recibió notificación con sus derechos de defensa y se pidió certificar su condición de diputado,
-  sin acordarse entonces la remisión al TSJA. La prórroga anunciada hasta el 21 de junio de 2026 no permite establecer
-  por sí sola la situación posterior. No se han verificado la celebración de esas declaraciones ni resoluciones
-  posteriores; el aval no se suma a las ayudas como daño.'
+  El procedimiento se refiere a las ayudas al ERE de Pickman La Cartuja, no a la totalidad de los ERE ni a todas las ayudas recibidas por la empresa. Los hechos atribuidos a cada persona deben contrastarse con su resolución propia.
+
+  La [información de noviembre de 2018](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/ERE-Bolanos-imputa-Rivas-Pickman_0_1304570024.amp.html) distingue las ayudas concedidas de las efectivamente pagadas. Recoge la tesis de Anticorrupción sobre el procedimiento de concesión, los beneficiarios y el pago cruzado desde Faja Pirítica. La diferencia entre importes concedidos y pagados no constituye por sí misma una cuantificación de responsabilidad civil. El [atestado divulgado en 2015](https://www.libertaddigital.com/espana/2015-07-21/viera-troceo-una-ayuda-de-la-junta-para-evitar-los-controles-1276553288/) examinaba además el fraccionamiento de una ayuda de 1,8 millones en anualidades de 625.000, 600.000 y 575.000 euros. Estas cantidades no deben agregarse automáticamente a las ayudas globales, pues no se ha acreditado que representen operaciones adicionales.
+
+  El auto de 22 de noviembre de 2018, conocido a través de Diario de Sevilla, mantuvo nueve citaciones y excluyó cinco exaltos cargos por el principio de prohibición del doble enjuiciamiento. La exclusión no equivale a una absolución sobre la legalidad de cada pago. Tampoco las citaciones anunciadas acreditan la celebración de declaraciones, la apertura de juicio o una condena. No se ha obtenido el original de ese auto ni una resolución posterior que permita actualizar individualmente a los nueve citados.
+
+  El [comunicado judicial de enero de 2026](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-cita-a-declarar-a-21-personas-investigadas-en-una-pieza-separada-por-el-aval-de-1-3-millones-concedido-por-la-Junta-a-Pickman-La-Cartuja) corresponde a la investigación por el aval de IDEA de 1,3 millones. La [corrección expresa de EFE](https://www.infobae.com/espana/agencias/2026/01/20/un-juez-cita-a-21-personas-investigadas-en-una-pieza-por-el-aval-de-agencia-idea-a-pickman/) aclara que no es una pieza de los ERE y que el parlamentario Gaspar Llanes no se encontraba entre los 21 citados. La notificación de derechos y la certificación de aforamiento no equivalen a que el TSJA hubiera asumido la causa. El comunicado expone indicios y diligencias pendientes, no hechos probados ni un perjuicio definitivo. No se trasladan a esta ficha los resultados de otros avales o de la pieza política de los ERE.
+
+  A 15 de octubre de 2026 quedan sin acreditar el desenlace de la pieza sociolaboral y las actuaciones posteriores al anuncio de enero en la causa del aval. Se mantienen esas incertidumbres sin deducir continuidad, archivo o firmeza del transcurso del tiempo. No se incorpora ningún documento judicial en PDF porque no se ha verificado un original correspondiente a estas resoluciones.
 resumen: Investigación de ayudas al ERE de Pickman, diferenciada de la causa por el aval de IDEA. Desenlaces individuales
   pendientes de acreditar.
 lugar: Sevilla, Andalucía
@@ -155,13 +155,3 @@ cronologia:
   - https://www.infobae.com/espana/agencias/2026/01/20/un-juez-cita-a-21-personas-investigadas-en-una-pieza-por-el-aval-de-agencia-idea-a-pickman/
   relevancia: alta
 ---
-
-El procedimiento se refiere a las ayudas al ERE de Pickman La Cartuja, no a la totalidad de los ERE ni a todas las ayudas recibidas por la empresa. Los hechos atribuidos a cada persona deben contrastarse con su resolución propia.
-
-La [información de noviembre de 2018](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/ERE-Bolanos-imputa-Rivas-Pickman_0_1304570024.amp.html) distingue las ayudas concedidas de las efectivamente pagadas. Recoge la tesis de Anticorrupción sobre el procedimiento de concesión, los beneficiarios y el pago cruzado desde Faja Pirítica. La diferencia entre importes concedidos y pagados no constituye por sí misma una cuantificación de responsabilidad civil. El [atestado divulgado en 2015](https://www.libertaddigital.com/espana/2015-07-21/viera-troceo-una-ayuda-de-la-junta-para-evitar-los-controles-1276553288/) examinaba además el fraccionamiento de una ayuda de 1,8 millones en anualidades de 625.000, 600.000 y 575.000 euros. Estas cantidades no deben agregarse automáticamente a las ayudas globales, pues no se ha acreditado que representen operaciones adicionales.
-
-El auto de 22 de noviembre de 2018, conocido a través de Diario de Sevilla, mantuvo nueve citaciones y excluyó cinco exaltos cargos por el principio de prohibición del doble enjuiciamiento. La exclusión no equivale a una absolución sobre la legalidad de cada pago. Tampoco las citaciones anunciadas acreditan la celebración de declaraciones, la apertura de juicio o una condena. No se ha obtenido el original de ese auto ni una resolución posterior que permita actualizar individualmente a los nueve citados.
-
-El [comunicado judicial de enero de 2026](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-juez-cita-a-declarar-a-21-personas-investigadas-en-una-pieza-separada-por-el-aval-de-1-3-millones-concedido-por-la-Junta-a-Pickman-La-Cartuja) corresponde a la investigación por el aval de IDEA de 1,3 millones. La [corrección expresa de EFE](https://www.infobae.com/espana/agencias/2026/01/20/un-juez-cita-a-21-personas-investigadas-en-una-pieza-por-el-aval-de-agencia-idea-a-pickman/) aclara que no es una pieza de los ERE y que el parlamentario Gaspar Llanes no se encontraba entre los 21 citados. La notificación de derechos y la certificación de aforamiento no equivalen a que el TSJA hubiera asumido la causa. El comunicado expone indicios y diligencias pendientes, no hechos probados ni un perjuicio definitivo. No se trasladan a esta ficha los resultados de otros avales o de la pieza política de los ERE.
-
-A 15 de octubre de 2026 quedan sin acreditar el desenlace de la pieza sociolaboral y las actuaciones posteriores al anuncio de enero en la causa del aval. Se mantienen esas incertidumbres sin deducir continuidad, archivo o firmeza del transcurso del tiempo. No se incorpora ningún documento judicial en PDF porque no se ha verificado un original correspondiente a estas resoluciones.

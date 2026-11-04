@@ -8,34 +8,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: En casación
 firmeza: No firme
 estado: Archivos parciales y sentencia de 2024 recurrida
-descripcion: 'La denominación «Bolsos» reúne referencias periodísticas a regalos recibidos por Rita Barberá en contextos
-  distintos, como Gürtel, Emarsa o Azud; no se ha acreditado una causa autónoma que reúna todos esos obsequios.
-  El núcleo judicial de esta ficha es la pieza A de Taula, sobre el llamado pitufeo de 2015 y la financiación de
-  campañas municipales de 2007 y 2011. Los regalos no deben confundirse con los hechos juzgados en esa pieza ni
-  sus importes con el daño causado por la malversación.
+descripcion: |-
+  La denominación «Bolsos» reúne referencias periodísticas a regalos recibidos por Rita Barberá en contextos distintos, como Gürtel, Emarsa o Azud; no se ha acreditado una causa autónoma que reúna todos esos obsequios. El núcleo judicial de esta ficha es la pieza A de Taula, sobre el llamado pitufeo de 2015 y la financiación de campañas municipales de 2007 y 2011. Los regalos no deben confundirse con los hechos juzgados en esa pieza ni sus importes con el daño causado por la malversación.
 
+  En diciembre de 2021 se publicaron sobreseimientos provisionales del pitufeo respecto de antiguos concejales y asesores y del PP como persona jurídica. En abril de 2022 se conoció que el Supremo había rechazado la queja de la Fiscalía por no ser recurribles en casación aquellos archivos. Eso no cerró toda la pieza A ni constituye una absolución tras juicio de todos los investigados. La causa personal contra Barberá, fallecida en noviembre de 2016, tampoco equivale a una condena.
 
-  En diciembre de 2021 se publicaron sobreseimientos provisionales del pitufeo respecto de antiguos concejales y
-  asesores y del PP como persona jurídica. En abril de 2022 se conoció que el Supremo había rechazado la queja de
-  la Fiscalía por no ser recurribles en casación aquellos archivos. Eso no cerró toda la pieza A ni constituye una
-  absolución tras juicio de todos los investigados. La causa personal contra Barberá, fallecida en noviembre de
-  2016, tampoco equivale a una condena.
+  La sentencia 486/2024, de 30 de julio, de la Sección Segunda de la Audiencia de Valencia condenó a Alfonso Grau a cuatro años y seis meses de prisión y nueve años de inhabilitación por malversación continuada, y a multa de cinco millones y dos años de suspensión de empleo o cargo público por cohecho continuado. José Salinas recibió cuatro años de prisión y ocho de inhabilitación por cooperación necesaria en malversación. Grau debe indemnizar 388.150 euros al Ayuntamiento; de esa cantidad, 210.000 euros son solidarios con Salinas, no una partida adicional. Grau y Salinas fueron absueltos de falsedad documental; María del Carmen García Fuster fue absuelta de cohecho y Juan Eduardo Santón de malversación y falsedad.
 
+  El fallo admite casación y una noticia de 3 de junio de 2026 confirma que fue recurrido ante el Supremo. No se ha obtenido el resultado de esos recursos, el alcance individual de todas las resoluciones de archivo ni la firmeza actual hasta el 17 de octubre de 2026. Los 50.000 euros atribuidos al pitufeo son el volumen de una operación investigada y archivada para numerosos afectados, no daño probado. El procedimiento por posible falso testimonio de un testigo, conocido en 2026, es distinto y tampoco modifica por sí solo las condenas o absoluciones.
 
-  La sentencia 486/2024, de 30 de julio, de la Sección Segunda de la Audiencia de Valencia condenó a Alfonso Grau
-  a cuatro años y seis meses de prisión y nueve años de inhabilitación por malversación continuada, y a multa de
-  cinco millones y dos años de suspensión de empleo o cargo público por cohecho continuado. José Salinas recibió
-  cuatro años de prisión y ocho de inhabilitación por cooperación necesaria en malversación. Grau debe indemnizar
-  388.150 euros al Ayuntamiento; de esa cantidad, 210.000 euros son solidarios con Salinas, no una partida adicional.
-  Grau y Salinas fueron absueltos de falsedad documental; María del Carmen García Fuster fue absuelta de cohecho
-  y Juan Eduardo Santón de malversación y falsedad.
+  Los regalos de bolsos aparecen en [informaciones de Azud](https://cadenaser.com/comunitat-valenciana/2023/05/11/la-uco-desvela-que-una-contrata-del-ayuntamiento-regalo-bolsos-y-vinos-a-rita-barbera-por-valor-de-7651-euros-radio-valencia/) y en el contexto de otras investigaciones. Su mera agrupación divulgativa no acredita un procedimiento autónomo llamado «Bolsos». Por eso no se atribuyen a Álvaro Pérez o Esteban Cuesta las condenas de la pieza A, ni se trasladan los desenlaces de Gürtel, Emarsa o Azud.
 
+  El [original de la sentencia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=217e62ab6e83925ca0a8778d75e36f0d&encode=true&databasematch=AN) permite verificar fecha, número y fallo: 175 páginas en la versión CENDOJ, con cabecera en página 1 y dispositivo en 174–175. La identificación nominal de los cuatro acusados se contrasta con la [prensa contemporánea](https://www.eldiario.es/comunitat-valenciana/condenado-cuatro-anos-medio-prision-numero-rita-barbera-financiacion-campanas-pp_1_11558917.html); no se deducen identidades únicamente de los seudónimos del PDF. Los 210.000 euros de responsabilidad solidaria de Salinas están comprendidos en los 388.150 euros de Grau; la multa de 5 millones es una pena separada.
 
-  El fallo admite casación y una noticia de 3 de junio de 2026 confirma que fue recurrido ante el Supremo. No se
-  ha obtenido el resultado de esos recursos, el alcance individual de todas las resoluciones de archivo ni la firmeza
-  actual hasta el 17 de octubre de 2026. Los 50.000 euros atribuidos al pitufeo son el volumen de una operación
-  investigada y archivada para numerosos afectados, no daño probado. El procedimiento por posible falso testimonio
-  de un testigo, conocido en 2026, es distinto y tampoco modifica por sí solo las condenas o absoluciones.'
+  La [noticia de junio de 2026](https://www.eldiario.es/comunitat-valenciana/abren-juicio-oral-falso-testimonio-exasesor-pp-trato-reventar-juicio-taula-caja-b-valencia_1_13269327.html) confirma la existencia de recurso, pero no su desenlace. Tampoco permite calificar de condenado al testigo investigado por supuesto falso testimonio. Faltan los autos originales de los archivos del pitufeo, los recursos individuales y la situación final de la casación hasta el corte. No se afirma firmeza por ausencia de noticias.
 resumen: 'Regalos a Barberá como contexto y pieza A de Taula: archivos del pitufeo, dos condenas y dos absoluciones
   en 2024; casación sin resultado acreditado.'
 lugar: Valencia, Comunitat Valenciana
@@ -154,9 +140,3 @@ cronologia:
   type: recurso
   relevancia: media
 ---
-
-Los regalos de bolsos aparecen en [informaciones de Azud](https://cadenaser.com/comunitat-valenciana/2023/05/11/la-uco-desvela-que-una-contrata-del-ayuntamiento-regalo-bolsos-y-vinos-a-rita-barbera-por-valor-de-7651-euros-radio-valencia/) y en el contexto de otras investigaciones. Su mera agrupación divulgativa no acredita un procedimiento autónomo llamado «Bolsos». Por eso no se atribuyen a Álvaro Pérez o Esteban Cuesta las condenas de la pieza A, ni se trasladan los desenlaces de Gürtel, Emarsa o Azud.
-
-El [original de la sentencia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=217e62ab6e83925ca0a8778d75e36f0d&encode=true&databasematch=AN) permite verificar fecha, número y fallo: 175 páginas en la versión CENDOJ, con cabecera en página 1 y dispositivo en 174–175. La identificación nominal de los cuatro acusados se contrasta con la [prensa contemporánea](https://www.eldiario.es/comunitat-valenciana/condenado-cuatro-anos-medio-prision-numero-rita-barbera-financiacion-campanas-pp_1_11558917.html); no se deducen identidades únicamente de los seudónimos del PDF. Los 210.000 euros de responsabilidad solidaria de Salinas están comprendidos en los 388.150 euros de Grau; la multa de 5 millones es una pena separada.
-
-La [noticia de junio de 2026](https://www.eldiario.es/comunitat-valenciana/abren-juicio-oral-falso-testimonio-exasesor-pp-trato-reventar-juicio-taula-caja-b-valencia_1_13269327.html) confirma la existencia de recurso, pero no su desenlace. Tampoco permite calificar de condenado al testigo investigado por supuesto falso testimonio. Faltan los autos originales de los archivos del pitufeo, los recursos individuales y la situación final de la casación hasta el corte. No se afirma firmeza por ausencia de noticias.

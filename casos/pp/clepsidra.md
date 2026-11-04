@@ -9,135 +9,87 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin recurso pendiente
 firmeza: Firme
 estado: "sentencia firme"
-descripcion: >-
+descripcion: |-
   El «caso Clepsidra» (también conocido como el «caso de los relojes») es la investigación penal que
-
   llevó a la condena del entonces primer teniente de alcalde y director y coordinador general del Área de
-
   Dinamización Económica y Empleo del Ayuntamiento de Valencia, Alfonso Grau Alonso (PP), por recibir dos
-
   relojes de lujo de un empresario adjudicatario de contratos municipales y, después, devolverlos y
-
   cambiarlos por otros más caros abonando la diferencia en efectivo. El empresario, Urbano Catalán Lorente,
-
   era apoderado de las mercantiles del grupo familiar Catalán (Viajes Transvia Tours S.L., Transvia S.L. y
-
   otras), que suscribieron con el Ayuntamiento de Valencia dieciséis contratos entre 2006 y 2015.
 
-
   Los hechos probados, fijados por la Sección Segunda de la Audiencia Provincial de Valencia en sentencia
-
   293/2019, de 5 de junio de 2019, y confirmados en apelación por el TSJCV y en casación por el Tribunal
-
   Supremo, establecen que el 29 de diciembre de 2010 Urbano Catalán adquirió en la Joyería Rabat de Valencia
-
   (Flash Valencia S.L.) un reloj Breguet Classique, facturado a Viajes Transvia Tours S.L. como «regalo de
-
   empresa», que entregó a Grau en atención a su cargo público y a las relaciones comerciales entre sus
-
   empresas y el consistorio. El 30 de diciembre de 2010 Grau devolvió ese reloj y adquirió un Lange de oro por
-
   25.680 euros, abonando 13.520 euros mediante la devolución y 12.160 euros en metálico. El 28 de diciembre
-
   de 2011 Catalán compró un Piaget Polo 45 facturado a Transvia S.L. y, ese mismo día, Transvia obtuvo la
-
   adjudicación municipal del «contrato para el servicio de gestión y ejecución de fiestas y conmemoraciones
-
   para personas mayores» por 652.748,55 euros (IVA incluido). El 9 de enero de 2012 Grau devolvió el Piaget
-
   y adquirió un Vacheron Patrimony por 16.825 euros, abonando 11.575 euros con la devolución y 5.250 euros
-
   en efectivo.
 
-
   El importe total satisfecho en metálico por Grau en ambas operaciones fue de 17.410 euros (12.160 + 5.250).
-
   La sentencia de instancia tuvo por acreditado y verosímil que Grau disponía de ese efectivo en su domicilio
-
   y que lo regularizó mediante declaraciones complementarias de IRPF de 2010 y 2012 fechadas el 21 de
-
-  octubre de 2014 en la valoración final de la Audiencia, aunque el relato previo de las inspectoras menciona
-  el día 22. Por ello, y con los datos documentales disponibles, esos 17.410 euros deben entenderse
-
+  octubre de 2014 en la valoración final de la Audiencia, aunque el relato previo de las inspectoras menciona el día 22. Por ello, y con los datos documentales disponibles, esos 17.410 euros deben entenderse
   como el importe de efectivo empleado por el condenado, no como el valor de los regalos, el perjuicio
-
   económico causado ni una indemnización. Según los tickets de venta recogidos en la sentencia del Tribunal
-
   Supremo (pp. 9-10), los precios de compra de los dos relojes regalados fueron 13.280 euros el primero
-
   (Breguet) y 12.025 euros el segundo (Piaget), 25.305 euros entre ambos. Por la devolución, a Grau se le
-
   abonaron 13.520 euros por el primero y 11.575 euros por el segundo (25.095 euros entre ambos), cantidades
-
   que la sentencia calificó como lucro o ganancia patrimonial del acusado. Sobre esos 25.095 euros se fijaron
-
   la multa y el decomiso vinculados al blanqueo. El Supremo absolvió de ese delito; no se ha obtenido
-
   la liquidación de ejecución de las consecuencias económicas de la sentencia.
 
-
-  La resolución final es la sentencia del Tribunal Supremo 499/2022, de 24 de mayo de 2022
-  (ECLI:ES:TS:2022:2059;
-
+  La resolución final es la sentencia del Tribunal Supremo 499/2022, de 24 de mayo de 2022 (ECLI:ES:TS:2022:2059;
   ROJ STS 2059/2022; recurso de casación 1932/2020), que estimó parcialmente el recurso de Grau, anuló su
-
-  condena por blanqueo de capitales del artículo 301.1 del Código Penal y mantuvo el resto de
-  pronunciamientos:
-
+  condena por blanqueo de capitales del artículo 301.1 del Código Penal y mantuvo el resto de pronunciamientos:
   la condena de Grau por un delito continuado de cohecho del artículo 422 del Código Penal a nueve meses y
-
   un día de prisión y dos años y un día de suspensión de empleo y cargo público, y la condena de Urbano
-
   Catalán por un delito continuado de cohecho del artículo 424.1 del Código Penal a nueve meses y un día de
-
   prisión e inhabilitación especial para el ejercicio del derecho de sufragio pasivo. La sentencia 49/2020
-
   del TSJCV calificó expresamente el delito de Grau como cohecho pasivo impropio del art. 422 CP (modalidad
-
   de admitir dádiva o regalo en consideración al cargo o función) y el de Catalán como cohecho activo del
-
   art. 424.1 CP (entrega de la dádiva por el particular); el Tribunal Supremo no modificó esa calificación.
 
-
   SER/Europa Press y Valencia Plaza/EFE informaron el 16 de diciembre de 2022 de dos autos de la Sección
-
   Segunda de la Audiencia de Valencia que concedían la suspensión de las penas de prisión por dos años. Para
-
   Grau, las condiciones incluían no delinquir durante ese plazo, comunicar cambios de domicilio y abonar una
-
   multa de seis meses a 30 euros diarios (5.400 euros); para Catalán, no delinquir, comunicar cambios de
-
   domicilio y abonar seis meses de multa a 60 euros diarios (10.800 euros). Las crónicas señalaban que los
-
   autos podían recurrirse en súplica. No se han recuperado los autos originales ni su fecha exacta: el 16 de
-
-  diciembre es la fecha de difusión. No se ha verificado el pago, los recursos ni el cumplimiento o la
-  extinción
-
+  diciembre es la fecha de difusión. No se ha verificado el pago, los recursos ni el cumplimiento o la extinción
   posterior de las penas.
 
-
-  Límites de esta ficha: siguen pendientes los originales de esos autos y la liquidación de ejecución. La
-  multa por blanqueo quedó sin efecto con la absolución; el decomiso de instancia se fundó también en
-
+  Límites de esta ficha: siguen pendientes los originales de esos autos y la liquidación de ejecución. La multa por blanqueo quedó sin efecto con la absolución; el decomiso de instancia se fundó también en
   el artículo 301.5, pero el fallo de casación no lo enumera separadamente. No se afirma un saldo pendiente
-
-  ni una ejecución definitiva del decomiso sin el expediente correspondiente. No consta condena por
-  prevaricación. No se ha localizado confirmación documental del estado
-
-  de las responsabilidades civiles, si las hubo. No se han verificado actuaciones posteriores a las noticias
-  de
-
-  diciembre de 2022 sobre esta causa concreta. La ausencia de noticias no permite afirmar que existieran
-  incidencias de
-
-  ejecución, pero tampoco que la misma esté definitivamente cerrada en su fase de ejecución. No se fija coste:
-  los 17.410 euros son efectivo añadido por Grau a los cambios, no un daño público probado;
-
-  tampoco el precio del contrato, los regalos, las multas o el decomiso se suman como perjuicio. No se ha
-  podido precisar la fecha exacta de inicio de la actuación de la
-
+  ni una ejecución definitiva del decomiso sin el expediente correspondiente. No consta condena por prevaricación. No se ha localizado confirmación documental del estado
+  de las responsabilidades civiles, si las hubo. No se han verificado actuaciones posteriores a las noticias de
+  diciembre de 2022 sobre esta causa concreta. La ausencia de noticias no permite afirmar que existieran incidencias de
+  ejecución, pero tampoco que la misma esté definitivamente cerrada en su fase de ejecución. No se fija coste: los 17.410 euros son efectivo añadido por Grau a los cambios, no un daño público probado;
+  tampoco el precio del contrato, los regalos, las multas o el decomiso se suman como perjuicio. No se ha podido precisar la fecha exacta de inicio de la actuación de la
   Agencia Tributaria que originó la causa.
+
+  ### Limitaciones y fuentes
+
+  - **Clasificación jurídica.** La sentencia 49/2020 del TSJCV califica expresamente el delito de Grau como cohecho pasivo impropio del art. 422 CP (modalidad de admitir dádiva o regalo en consideración al cargo o función) y el de Urbano Catalán como cohecho activo del art. 424.1 CP (entrega de la dádiva por el particular). El Tribunal Supremo no modificó esa calificación; la ficha no le atribuye una clasificación distinta.
+  - **Importes.** Los 17.410 euros son el efectivo abonado por Grau en los dos cambios (12.160 + 5.250); no son el valor de los relojes regalados, ni un perjuicio económico ni una indemnización, y no deben sumarse con las multas ni con los decomisos. Los precios de compra de los relojes regalados, según los tickets recogidos en la STS 499/2022 (pp. 9-10), fueron 13.280 euros (Breguet) y 12.025 euros (Piaget), 25.305 euros en total. Los 13.520 y 11.575 euros son los abonos por la devolución de cada reloj (25.095 euros entre ambos), calificados en la sentencia como lucro o ganancia patrimonial del acusado. La multa y el decomiso de 25.095 euros se fijaron sobre esos abonos en instancia. La absolución por blanqueo deja sin efecto su pena de multa; no se ha obtenido la liquidación del decomiso, fundado en el art. 301.5 por la Audiencia y no enumerado separadamente por el Supremo.
+  - **Día de entrega de los relojes.** Las resoluciones fijan la compra del primer reloj el 29 de diciembre de 2010 y la del segundo el 28 de diciembre de 2011, y la devolución del primero el 30 de diciembre de 2010 y la del segundo el 9 de enero de 2012. No consta un día exacto de entrega de los relojes a Grau, por lo que no se afirma que se produjera el mismo día de la compra; la entrega del primero se sitúa entre el 29 y el 30 de diciembre de 2010. No se fijan días sin corroboración.
+  - **Contrato con IVA.** Los hechos probados de la sentencia de instancia, confirmados en apelación y casación, fijan el contrato de Transvia de 652.748,55 euros «IVA incluido». Una crónica periodística publicó la cifra sin IVA, a diferencia del texto judicial.
+  - **Cargos de Alfonso Grau.** La ficha no sostiene que Grau fuera primer teniente de alcalde desde 1995: según su declaración en el juicio entró en el Ayuntamiento como concejal el 7 de julio de 1995 y dimitió el 16 de marzo de 2015, y durante los años de los hechos (2010-2012) era primer teniente de alcalde y vicealcalde y director y coordinador general del Área de Dinamización Económica y Empleo. La estructura del área municipal cambió a lo largo del periodo, por lo que no se fija un periodo preciso para todos los cargos.
+  - **Ejecución y responsabilidad civil.** SER/Europa Press y Valencia Plaza/EFE publicaron el 16 de diciembre de 2022 la suspensión de las penas de prisión por dos años, con condiciones individualizadas recogidas en la cronología. Según esas crónicas, los autos eran recurribles en súplica. No se han recuperado sus originales ni la fecha de los actos, ni se han verificado los pagos, los recursos, el cumplimiento o la extinción de las penas. El transcurso del plazo no acredita por sí solo la extinción. La multa por blanqueo quedó sin efecto con la absolución. El decomiso se había fundado en el art. 301.5 y el Supremo no lo enumera por separado al mantener el resto en cuanto no se oponga a la absolución; no se dispone de liquidación de ejecución para precisar su tratamiento posterior. No consta condena por prevaricación. No se ha verificado si se formularon responsabilidades civiles; el fallo de instancia no las refleja.
+  - **Fecha de inicio.** No se ha podido precisar la fecha exacta de la actuación de la Agencia Tributaria a la joyería que originó la causa.
+
+  ### Información disponible al 17 de octubre de 2026
+
+  Los tres originales están disponibles en el CENDOJ. La sentencia de la Audiencia consta de 25 páginas; la individualización de penas, el decomiso y el fallo figuran en las páginas 24–25. Del TSJCV (67 páginas) se han cotejado el pasaje de clasificación del cohecho en la página 49 y el fallo final de la 67. La sentencia del Supremo consta de 18 páginas; los fallos de casación y de la segunda sentencia figuran en las páginas 16–18.
+
+  La crónica de Valencia Plaza publicada el 30 de mayo de 2022 identifica nominalmente a Grau y Urbano Catalán y explica la absolución por blanqueo y la subsistencia del cohecho. Su marca de actualización del 30 de abril de 2024 no acredita una nueva resolución en esa fecha. Los seudónimos de los originales no se convierten por sí solos en identidades nominales. Los dos fallos del Supremo dicen expresamente que no cabe recurso; esa firmeza no equivale a la extinción de las penas.
+
+  No se han obtenido los originales de los autos de suspensión difundidos en diciembre de 2022 ni resoluciones posteriores de ejecución de esta causa. Las referencias posteriores a otras causas de Grau no se incorporan como resultados de Clepsidra. No se fija coste ni se suman pagos privados, precio contractual, valor de regalos y consecuencias penales.
 resumen: "El exvicealcalde de Valencia Alfonso Grau fue condenado en firme por cohecho por aceptar relojes de lujo de un contratista municipal; el Supremo le absolvió del blanqueo en 2022."
 lugar: "Valencia, Comunidad Valenciana"
 tribunal:
@@ -287,21 +239,3 @@ cronologia:
       - "https://cadenaser.com/comunitat-valenciana/2022/12/16/alfonso-grau-eludira-la-prision-si-paga-5400-euros-por-aceptar-relojes-de-alta-gama-radio-valencia/?outputType=amp"
       - "https://valenciaplaza.com/valenciaplaza/alfonso-grau-eludira-entrar-en-prision-por-cohecho-si-paga-5400-euros"
 ---
-
-## Limitaciones y fuentes
-
-- **Clasificación jurídica.** La sentencia 49/2020 del TSJCV califica expresamente el delito de Grau como cohecho pasivo impropio del art. 422 CP (modalidad de admitir dádiva o regalo en consideración al cargo o función) y el de Urbano Catalán como cohecho activo del art. 424.1 CP (entrega de la dádiva por el particular). El Tribunal Supremo no modificó esa calificación; la ficha no le atribuye una clasificación distinta.
-- **Importes.** Los 17.410 euros son el efectivo abonado por Grau en los dos cambios (12.160 + 5.250); no son el valor de los relojes regalados, ni un perjuicio económico ni una indemnización, y no deben sumarse con las multas ni con los decomisos. Los precios de compra de los relojes regalados, según los tickets recogidos en la STS 499/2022 (pp. 9-10), fueron 13.280 euros (Breguet) y 12.025 euros (Piaget), 25.305 euros en total. Los 13.520 y 11.575 euros son los abonos por la devolución de cada reloj (25.095 euros entre ambos), calificados en la sentencia como lucro o ganancia patrimonial del acusado. La multa y el decomiso de 25.095 euros se fijaron sobre esos abonos en instancia. La absolución por blanqueo deja sin efecto su pena de multa; no se ha obtenido la liquidación del decomiso, fundado en el art. 301.5 por la Audiencia y no enumerado separadamente por el Supremo.
-- **Día de entrega de los relojes.** Las resoluciones fijan la compra del primer reloj el 29 de diciembre de 2010 y la del segundo el 28 de diciembre de 2011, y la devolución del primero el 30 de diciembre de 2010 y la del segundo el 9 de enero de 2012. No consta un día exacto de entrega de los relojes a Grau, por lo que no se afirma que se produjera el mismo día de la compra; la entrega del primero se sitúa entre el 29 y el 30 de diciembre de 2010. No se fijan días sin corroboración.
-- **Contrato con IVA.** Los hechos probados de la sentencia de instancia, confirmados en apelación y casación, fijan el contrato de Transvia de 652.748,55 euros «IVA incluido». Una crónica periodística publicó la cifra sin IVA, a diferencia del texto judicial.
-- **Cargos de Alfonso Grau.** La ficha no sostiene que Grau fuera primer teniente de alcalde desde 1995: según su declaración en el juicio entró en el Ayuntamiento como concejal el 7 de julio de 1995 y dimitió el 16 de marzo de 2015, y durante los años de los hechos (2010-2012) era primer teniente de alcalde y vicealcalde y director y coordinador general del Área de Dinamización Económica y Empleo. La estructura del área municipal cambió a lo largo del periodo, por lo que no se fija un periodo preciso para todos los cargos.
-- **Ejecución y responsabilidad civil.** SER/Europa Press y Valencia Plaza/EFE publicaron el 16 de diciembre de 2022 la suspensión de las penas de prisión por dos años, con condiciones individualizadas recogidas en la cronología. Según esas crónicas, los autos eran recurribles en súplica. No se han recuperado sus originales ni la fecha de los actos, ni se han verificado los pagos, los recursos, el cumplimiento o la extinción de las penas. El transcurso del plazo no acredita por sí solo la extinción. La multa por blanqueo quedó sin efecto con la absolución. El decomiso se había fundado en el art. 301.5 y el Supremo no lo enumera por separado al mantener el resto en cuanto no se oponga a la absolución; no se dispone de liquidación de ejecución para precisar su tratamiento posterior. No consta condena por prevaricación. No se ha verificado si se formularon responsabilidades civiles; el fallo de instancia no las refleja.
-- **Fecha de inicio.** No se ha podido precisar la fecha exacta de la actuación de la Agencia Tributaria a la joyería que originó la causa.
-
-## Información disponible al 17 de octubre de 2026
-
-Los tres originales están disponibles en el CENDOJ. La sentencia de la Audiencia consta de 25 páginas; la individualización de penas, el decomiso y el fallo figuran en las páginas 24–25. Del TSJCV (67 páginas) se han cotejado el pasaje de clasificación del cohecho en la página 49 y el fallo final de la 67. La sentencia del Supremo consta de 18 páginas; los fallos de casación y de la segunda sentencia figuran en las páginas 16–18.
-
-La crónica de Valencia Plaza publicada el 30 de mayo de 2022 identifica nominalmente a Grau y Urbano Catalán y explica la absolución por blanqueo y la subsistencia del cohecho. Su marca de actualización del 30 de abril de 2024 no acredita una nueva resolución en esa fecha. Los seudónimos de los originales no se convierten por sí solos en identidades nominales. Los dos fallos del Supremo dicen expresamente que no cabe recurso; esa firmeza no equivale a la extinción de las penas.
-
-No se han obtenido los originales de los autos de suspensión difundidos en diciembre de 2022 ni resoluciones posteriores de ejecución de esta causa. Las referencias posteriores a otras causas de Grau no se incorporan como resultados de Clepsidra. No se fija coste ni se suman pagos privados, precio contractual, valor de regalos y consecuencias penales.

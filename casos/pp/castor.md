@@ -9,55 +9,30 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución penal y litigios económicos diferenciados
-descripcion: >-
-  Castor fue un proyecto de almacenamiento subterráneo de gas frente a Vinaròs (Castellón), cuya concesión se
-  otorgó a Escal UGS por Real Decreto 855/2008, de 16 de mayo, firmado por Miguel Sebastián, ministro de un
-  Gobierno del PSOE. Las inyecciones de gas en 2013 fueron seguidas de centenares de seísmos; el 1 de octubre
-  se registró uno de magnitud 4,2. Una resolución de 26 de septiembre de 2013 ordenó la suspensión de la
-  operación. El Real Decreto-ley 13/2014, de 3 de octubre, aprobado por el Gobierno del PP de Mariano Rajoy,
-  extinguió la concesión, hibernó las instalaciones y asignó su administración a Enagás Transporte. Reconoció
-  a Escal UGS 1.350.729.000 euros por el valor neto de la inversión: no es una cuantificación judicial de daño
-  por corrupción.
+descripcion: |-
+  Castor fue un proyecto de almacenamiento subterráneo de gas frente a Vinaròs (Castellón), cuya concesión se otorgó a Escal UGS por Real Decreto 855/2008, de 16 de mayo, firmado por Miguel Sebastián, ministro de un Gobierno del PSOE. Las inyecciones de gas en 2013 fueron seguidas de centenares de seísmos; el 1 de octubre se registró uno de magnitud 4,2. Una resolución de 26 de septiembre de 2013 ordenó la suspensión de la operación. El Real Decreto-ley 13/2014, de 3 de octubre, aprobado por el Gobierno del PP de Mariano Rajoy, extinguió la concesión, hibernó las instalaciones y asignó su administración a Enagás Transporte. Reconoció a Escal UGS 1.350.729.000 euros por el valor neto de la inversión: no es una cuantificación judicial de daño por corrupción.
 
+  La sentencia del Tribunal Constitucional 152/2017, de 21 de diciembre, anuló los preceptos económicos del decreto-ley, pero no la extinción ni la hibernación. La sentencia del Supremo 1404/2020, de 27 de octubre, reconoció a Santander, CaixaBank y Bankia una indemnización de 1.350.729.000 euros, con intereses, por responsabilidad del Estado legislador. Es la financiación de la compensación anterior y no otro importe que deba sumarse a ella como daño independiente. En septiembre de 2023 se difundió que la Audiencia Nacional había confirmado la obligación de Escal UGS de devolver unos 210 millones por liquidaciones de 2014, 2016 y 2017; la noticia anunciaba casación posible. Por separado, en julio de 2024 se informó de la admisión de un recurso de Santander y CaixaBank sobre intereses devueltos a la CNMC. No se han documentado aquí los resultados posteriores de esos recursos o la recuperación efectiva de todas las cantidades.
 
-  La sentencia del Tribunal Constitucional 152/2017, de 21 de diciembre, anuló los preceptos económicos del
-  decreto-ley, pero no la extinción ni la hibernación. La sentencia del Supremo 1404/2020, de 27 de octubre,
-  reconoció a Santander, CaixaBank y Bankia una indemnización de 1.350.729.000 euros, con intereses, por
-  responsabilidad del Estado legislador. Es la financiación de la compensación anterior y no otro importe que
-  deba sumarse a ella como daño independiente. En septiembre de 2023 se difundió que la Audiencia Nacional
-  había confirmado la obligación de Escal UGS de devolver unos 210 millones por liquidaciones de 2014, 2016 y
-  2017; la noticia anunciaba casación posible. Por separado, en julio de 2024 se informó de la admisión de un
-  recurso de Santander y CaixaBank sobre intereses devueltos a la CNMC. No se han documentado aquí los
-  resultados posteriores de esos recursos o la recuperación efectiva de todas las cantidades.
+  Las vías penales son diferentes. La querella de ODG, Xnet y el Institut de Drets Humans contra Florentino Pérez, Recaredo del Potro, cinco exministros y dos exaltos cargos fue archivada por Carmen Lamela, según la información publicada el 21 de junio de 2018; no se han recuperado el auto ni la resolución posterior que permita precisar su firmeza. En la causa medioambiental, la Audiencia de Castellón absolvió en 2021 a Recaredo del Potro, José Luis Martínez Dalmau y Escal UGS, sin pronunciarse sobre responsabilidad civil. Europa Press informó el 30 de marzo de 2022 de que la Fiscalía y Aplaca desistían de recurrir y de que, según la compañía, la absolución se volvería firme. No se ha obtenido la resolución formal de firmeza: el anuncio de desistimientos no se convierte en una fecha de firmeza judicial comprobada. Tampoco se ha documentado aquí el resultado de las reclamaciones civiles anunciadas por los afectados.
 
+  El Supremo, en su sentencia 1580/2025, de 4 de diciembre, reconoció a Enagás el derecho a cobrar por administración y conservación del almacenamiento, con IVA e intereses y un beneficio industrial del 5 %, dejando la cantidad para ejecución de sentencia. No fijó una condena de 250 o 330 millones. En el informe anual de 2025, Enagás registraba por separado cuentas a cobrar de 125.007 miles de euros por operación y mantenimiento y 129.677 miles por desmantelamiento; son saldos contables a cierre de ese ejercicio, no la liquidación judicial definitiva. No se ha recuperado el auto relacionado AATS 2107/2026 citado en la cabecera de la sentencia ni el resultado de su ejecución.
 
-  Las vías penales son diferentes. La querella de ODG, Xnet y el Institut de Drets Humans contra Florentino
-  Pérez, Recaredo del Potro, cinco exministros y dos exaltos cargos fue archivada por Carmen Lamela, según la
-  información publicada el 21 de junio de 2018; no se han recuperado el auto ni la resolución posterior que
-  permita precisar su firmeza. En la causa medioambiental, la Audiencia de Castellón absolvió en 2021 a
-  Recaredo del Potro, José Luis Martínez Dalmau y Escal UGS, sin pronunciarse sobre responsabilidad civil.
-  Europa Press informó el 30 de marzo de 2022 de que la Fiscalía y Aplaca desistían de recurrir y de que,
-  según la compañía, la absolución se volvería firme. No se ha obtenido la resolución formal de firmeza: el
-  anuncio de desistimientos no se convierte en una fecha de firmeza judicial comprobada. Tampoco se ha
-  documentado aquí el resultado de las reclamaciones civiles anunciadas por los afectados.
+  El 5 de octubre de 2026 Enagás comunicó que había completado el sellado definitivo de los trece pozos, con tres tapones por pozo. Estimó esos trabajos en 241 millones de euros, pendientes de certificaciones finales. El sellado prepara la fase final de desmantelamiento de las instalaciones de superficie marinas y terrestres; no equivale a que haya terminado todo el desmantelamiento. Las cifras de compensación, financiación, devoluciones, mantenimiento y sellado no se suman como un perjuicio penal global. Al 17 de octubre de 2026, faltan los originales de los cierres penales y documentación suficiente sobre la ejecución y los recursos económicos posteriores.
 
+  ### Procedimientos con objetos diferentes
 
-  El Supremo, en su sentencia 1580/2025, de 4 de diciembre, reconoció a Enagás el derecho a cobrar por
-  administración y conservación del almacenamiento, con IVA e intereses y un beneficio industrial del 5 %,
-  dejando la cantidad para ejecución de sentencia. No fijó una condena de 250 o 330 millones. En el informe
-  anual de 2025, Enagás registraba por separado cuentas a cobrar de 125.007 miles de euros por operación y
-  mantenimiento y 129.677 miles por desmantelamiento; son saldos contables a cierre de ese ejercicio, no la
-  liquidación judicial definitiva. No se ha recuperado el auto relacionado AATS 2107/2026 citado en la
-  cabecera de la sentencia ni el resultado de su ejecución.
+  Las decisiones sobre Castor no forman un único pronunciamiento de responsabilidad. La concesión de 2008, la suspensión de las operaciones en 2013, la compensación regulada en 2014 y su posterior revisión constitucional pertenecen al ámbito administrativo y económico. La anulación de preceptos del decreto-ley no constituye una condena penal de sus responsables políticos.
 
+  La causa medioambiental terminó con una absolución de los dos directivos y Escal UGS. En marzo de 2022 se anunciaron desistimientos de las acusaciones y la futura firmeza de la sentencia, pero no se ha recuperado aquí su declaración judicial formal. La querella de 2018 contra políticos y empresarios fue archivada en otro procedimiento; tampoco se ha obtenido su resolución original ni la de los recursos.
 
-  El 5 de octubre de 2026 Enagás comunicó que había completado el sellado definitivo de los trece pozos, con
-  tres tapones por pozo. Estimó esos trabajos en 241 millones de euros, pendientes de certificaciones finales.
-  El sellado prepara la fase final de desmantelamiento de las instalaciones de superficie marinas y
-  terrestres; no equivale a que haya terminado todo el desmantelamiento. Las cifras de compensación,
-  financiación, devoluciones, mantenimiento y sellado no se suman como un perjuicio penal global. Al 17 de
-  octubre de 2026, faltan los originales de los cierres penales y documentación suficiente sobre la ejecución
-  y los recursos económicos posteriores.
+  ### Compensaciones y cierre de las instalaciones
+
+  Los 1.350.729.000 euros reconocidos en 2014 y la indemnización que el Supremo reconoció a los bancos en 2020 responden a la compensación y su financiación. Sumarlos duplicaría conceptos. Las devoluciones de liquidaciones, el mantenimiento y el sellado tienen otros objetos y no son una cifra global de daño por corrupción.
+
+  La sentencia de 2025 reconoce el derecho de Enagás a percibir una cantidad que debe liquidarse en ejecución. Los saldos de su informe anual no sustituyen esa liquidación. La cabecera cita el auto AATS 2107/2026, cuyo contenido no está corroborado.
+
+  Enagás comunicó el 5 de octubre de 2026 que los trece pozos estaban sellados. Su estimación de 241 millones quedaba pendiente de certificaciones finales y la fase de superficie permanecía como una etapa posterior del desmantelamiento. La finalización del sellado no resuelve los recursos económicos ni acredita el cobro de todas las cantidades reclamadas.
 resumen: 'Almacén de gas paralizado tras los seísmos de 2013: absolución penal, litigios sobre compensaciones y
   mantenimiento, y sellado de los pozos comunicado en octubre de 2026'
 lugar: Vinaròs (Castellón) y costa del Ebro (Tarragona)
@@ -398,17 +373,3 @@ cronologia:
   urls:
   - https://www.enagas.es/es/sala-comunicacion/actualidad/notas-prensa/almacenamiento-castor/
 ---
-
-## Procedimientos con objetos diferentes
-
-Las decisiones sobre Castor no forman un único pronunciamiento de responsabilidad. La concesión de 2008, la suspensión de las operaciones en 2013, la compensación regulada en 2014 y su posterior revisión constitucional pertenecen al ámbito administrativo y económico. La anulación de preceptos del decreto-ley no constituye una condena penal de sus responsables políticos.
-
-La causa medioambiental terminó con una absolución de los dos directivos y Escal UGS. En marzo de 2022 se anunciaron desistimientos de las acusaciones y la futura firmeza de la sentencia, pero no se ha recuperado aquí su declaración judicial formal. La querella de 2018 contra políticos y empresarios fue archivada en otro procedimiento; tampoco se ha obtenido su resolución original ni la de los recursos.
-
-## Compensaciones y cierre de las instalaciones
-
-Los 1.350.729.000 euros reconocidos en 2014 y la indemnización que el Supremo reconoció a los bancos en 2020 responden a la compensación y su financiación. Sumarlos duplicaría conceptos. Las devoluciones de liquidaciones, el mantenimiento y el sellado tienen otros objetos y no son una cifra global de daño por corrupción.
-
-La sentencia de 2025 reconoce el derecho de Enagás a percibir una cantidad que debe liquidarse en ejecución. Los saldos de su informe anual no sustituyen esa liquidación. La cabecera cita el auto AATS 2107/2026, cuyo contenido no está corroborado.
-
-Enagás comunicó el 5 de octubre de 2026 que los trece pozos estaban sellados. Su estimación de 241 millones quedaba pendiente de certificaciones finales y la fase de superficie permanecía como una etapa posterior del desmantelamiento. La finalización del sellado no resuelve los recursos económicos ni acredita el cobro de todas las cantidades reclamadas.

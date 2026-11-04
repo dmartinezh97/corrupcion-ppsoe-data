@@ -9,46 +9,26 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "condenas de conformidad y absoluciones en 2019; ejecución no comprobada"
-descripcion: >-
-  Mar Blau investigó irregularidades en concursos y concesiones de la Autoridad Portuaria de Baleares (APB),
-  entre ellos los amarres del Club Marítimo de Mahón y actuaciones relacionadas con Ibiza y La Savina. La
-  causa fue instruida por el Juzgado de Instrucción nº 8 de Palma, con Antoni Rotger como instructor. La
-  prensa de diciembre de 2010 situaba las pesquisas judiciales dos años antes: no se fija un día artificial de
-  inicio de los hechos ni se afirma que la investigación comenzara al publicarse el registro.
+descripcion: |-
+  Mar Blau investigó irregularidades en concursos y concesiones de la Autoridad Portuaria de Baleares (APB), entre ellos los amarres del Club Marítimo de Mahón y actuaciones relacionadas con Ibiza y La Savina. La causa fue instruida por el Juzgado de Instrucción nº 8 de Palma, con Antoni Rotger como instructor. La prensa de diciembre de 2010 situaba las pesquisas judiciales dos años antes: no se fija un día artificial de inicio de los hechos ni se afirma que la investigación comenzara al publicarse el registro.
 
+  La causa terminó en la Sección Primera de la Audiencia Provincial de Baleares con un acuerdo de conformidad y sentencia oral el 9 de enero de 2019, según las crónicas de ese día. Tres personas resultaron condenadas y nueve absueltas, entre ellas el expresidente de la APB Francesc Triay, del PSOE. Ángel de Matías fue condenado por prevaricación y cooperación en la alteración de concursos, con nueve meses de prisión sustituidos por multa y un total económico de 4.050 euros; Gerardo Díaz Ferrán, por alteración de concursos, con siete meses sustituidos y multas por un total de 2.640 euros; Pedro Carmelo Hernández, por cooperación en ese último delito, con un total de 1.800 euros. El total de 8.490 euros son consecuencias penales, no perjuicio patrimonial. Europa Press y elDiario.es invierten el desglose de 960 y 1.680 euros de Díaz Ferrán, aunque coinciden en su total; se mantiene visible esa discrepancia sin resolverla sin el original.
 
-  La causa terminó en la Sección Primera de la Audiencia Provincial de Baleares con un acuerdo de conformidad
-  y sentencia oral el 9 de enero de 2019, según las crónicas de ese día. Tres personas resultaron condenadas y
-  nueve absueltas, entre ellas el expresidente de la APB Francesc Triay, del PSOE. Ángel de Matías fue
-  condenado por prevaricación y cooperación en la alteración de concursos, con nueve meses de prisión
-  sustituidos por multa y un total económico de 4.050 euros; Gerardo Díaz Ferrán, por alteración de concursos,
-  con siete meses sustituidos y multas por un total de 2.640 euros; Pedro Carmelo Hernández, por cooperación
-  en ese último delito, con un total de 1.800 euros. El total de 8.490 euros son consecuencias penales, no
-  perjuicio patrimonial. Europa Press y elDiario.es invierten el desglose de 960 y 1.680 euros de Díaz Ferrán,
-  aunque coinciden en su total; se mantiene visible esa discrepancia sin resolverla sin el original.
+  El acuerdo, según las crónicas, reconoció un pacto para que Trapsa renunciara a la concesión de Mahón a cambio de dinero, tres amarres y otra adjudicación. Los 4,5 millones que figuraban como coste en esta ficha eran la valoración de los tres amarres atribuida al instructor por elDiario.es, no una indemnización ni un daño público firme cotejado. No se fija coste. La petición de hasta 35 años para De Matías procedía de acusaciones particulares, según esa crónica; la Fiscalía pedía inicialmente 18 años y ocho meses, según Europa Press. La Fiscalía participó en la conformidad: no se atribuye al fiscal una denuncia de que el pacto fuera excesivamente benévolo.
 
+  Joan Verger, expresidente de la APB por el PP, falleció en 2013 antes del juicio, y Gonzalo Pascual también había fallecido. No se les atribuye una condena ni se los presenta como responsables penales declarados. La calificación de «corrupción sistémica» procedía del auto instructor descrito por prensa en julio de 2016, no de una condena firme de todas las personas investigadas. Triay no se presenta como culpable de continuar prácticas delictivas, pues fue absuelto.
 
-  El acuerdo, según las crónicas, reconoció un pacto para que Trapsa renunciara a la concesión de Mahón a
-  cambio de dinero, tres amarres y otra adjudicación. Los 4,5 millones que figuraban como coste en esta ficha
-  eran la valoración de los tres amarres atribuida al instructor por elDiario.es, no una indemnización ni un
-  daño público firme cotejado. No se fija coste. La petición de hasta 35 años para De Matías procedía de
-  acusaciones particulares, según esa crónica; la Fiscalía pedía inicialmente 18 años y ocho meses, según
-  Europa Press. La Fiscalía participó en la conformidad: no se atribuye al fiscal una denuncia de que el pacto
-  fuera excesivamente benévolo.
+  Límites al 17 de octubre de 2026: no se dispone del original judicial de la sentencia, su número, una diligencia de firmeza o la ejecutoria. Gaceta Náutica de 4 de febrero de 2019 la describió como firme porque el pacto incluía no recurrir, pero esa afirmación se atribuye al medio. No se infiere cumplimiento, cierre global o situación actual por falta de noticias. Las piezas separadas, como la denominada Poseidón, no reciben automáticamente el resultado de este juicio.
 
+  ### Fuentes y alcance real
 
-  Joan Verger, expresidente de la APB por el PP, falleció en 2013 antes del juicio, y Gonzalo Pascual también
-  había fallecido. No se les atribuye una condena ni se los presenta como responsables penales declarados. La
-  calificación de «corrupción sistémica» procedía del auto instructor descrito por prensa en julio de 2016, no
-  de una condena firme de todas las personas investigadas. Triay no se presenta como culpable de continuar
-  prácticas delictivas, pues fue absuelto.
+  Gaceta Náutica informó el 4 de febrero de 2019 de la firmeza atribuida a la resolución y de la reclamación pendiente. Las fechas de cabeceras actuales y widgets no se confunden con las de publicaciones históricas.
 
+  No se ha obtenido un original judicial verificable para documentos. El texto de la memoria de Fiscalía de 2019 no está accesible.
 
-  Límites al 17 de octubre de 2026: no se dispone del original judicial de la sentencia, su número, una
-  diligencia de firmeza o la ejecutoria. Gaceta Náutica de 4 de febrero de 2019 la describió como firme porque
-  el pacto incluía no recurrir, pero esa afirmación se atribuye al medio. No se infiere cumplimiento, cierre
-  global o situación actual por falta de noticias. Las piezas separadas, como la denominada Poseidón, no
-  reciben automáticamente el resultado de este juicio.
+  El obituario de El País sitúa la muerte de Verger en mayo de 2013. No consta un día exacto acreditado. No se afirma que el fallecimiento determine culpabilidad ni que todas las sospechas de la instrucción acabaran acreditadas.
+
+  Persiste la diferencia entre trece personas para las que se proponía continuar en 2016 y las doce del resultado de 2019 (tres condenas y nueve absoluciones); no se ha cotejado el expediente que explique el cambio. No se ha comprobado la ejecución de las penas, la devolución o reclamación de los cuatro millones ni el estado final de todas las piezas separadas hasta el 17-10-2026. La falta de hallazgos posteriores no acredita inexistencia de actuaciones. Las cuantías de valoración de amarres, compensaciones, cánones, inversiones, indemnizaciones, fianzas y multas no son categorías sumables como daño.
 resumen: "Investigación de concesiones portuarias de Baleares con tres condenados por conformidad y nueve absueltos en enero de 2019, entre ellos Francesc Triay"
 lugar: "Baleares, España"
 tribunal:
@@ -123,13 +103,3 @@ cronologia:
     urls:
       - "https://www.gacetanautica.es/2019/02/04/el-pacto-del-caso-mar-blau-deja-un-fleco-de-4-millones-de-euros/"
 ---
-
-## Fuentes y alcance real
-
-Gaceta Náutica informó el 4 de febrero de 2019 de la firmeza atribuida a la resolución y de la reclamación pendiente. Las fechas de cabeceras actuales y widgets no se confunden con las de publicaciones históricas.
-
-No se ha obtenido un original judicial verificable para documentos. El texto de la memoria de Fiscalía de 2019 no está accesible.
-
-El obituario de El País sitúa la muerte de Verger en mayo de 2013. No consta un día exacto acreditado. No se afirma que el fallecimiento determine culpabilidad ni que todas las sospechas de la instrucción acabaran acreditadas.
-
-Persiste la diferencia entre trece personas para las que se proponía continuar en 2016 y las doce del resultado de 2019 (tres condenas y nueve absoluciones); no se ha cotejado el expediente que explique el cambio. No se ha comprobado la ejecución de las penas, la devolución o reclamación de los cuatro millones ni el estado final de todas las piezas separadas hasta el 17-10-2026. La falta de hallazgos posteriores no acredita inexistencia de actuaciones. Las cuantías de valoración de amarres, compensaciones, cánones, inversiones, indemnizaciones, fianzas y multas no son categorías sumables como daño.

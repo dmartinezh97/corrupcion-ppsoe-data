@@ -8,35 +8,28 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución en la causa de gestión
-descripcion: 'La causa penal sobre la gestión del Palau de les Arts Reina Sofía de València examinó contratos de
-  patrocinio, organización de eventos y trabajos de diseño e impresión de los años 2008–2011. La Sección Segunda
-  de la Audiencia Provincial de Valencia absolvió a los cuatro enjuiciados: Ernesto Moreno, José Antonio Noguera
-  Puchol, Joaquín Maldonado y Pablo Broseta. La sentencia se notificó y se conoció el 6 de marzo de 2020; no fue
-  un sobreseimiento. Las fuentes de entonces indicaban que cabía recurso de casación. No se ha obtenido el fallo
-  original ni documentación suficiente sobre eventuales recursos posteriores y firmeza individual, por lo que no
-  se presenta esa fecha como cierre definitivo.
+descripcion: |-
+  La causa penal sobre la gestión del Palau de les Arts Reina Sofía de València examinó contratos de patrocinio, organización de eventos y trabajos de diseño e impresión de los años 2008–2011. La Sección Segunda de la Audiencia Provincial de Valencia absolvió a los cuatro enjuiciados: Ernesto Moreno, José Antonio Noguera Puchol, Joaquín Maldonado y Pablo Broseta. La sentencia se notificó y se conoció el 6 de marzo de 2020; no fue un sobreseimiento. Las fuentes de entonces indicaban que cabía recurso de casación. No se ha obtenido el fallo original ni documentación suficiente sobre eventuales recursos posteriores y firmeza individual, por lo que no se presenta esa fecha como cierre definitivo.
 
+  El tribunal examinó los hechos que subsistieron tras la modificación de la acusación fiscal. Aunque señaló falta de transparencia, publicidad y concurrencia en el modelo de patrocinio, no consideró probadas la prevaricación ni la malversación. En el bloque de Viva Europa valoró que las renuncias a cobrar por otros servicios compensaban el sobrecoste discutido; en los trabajos de Radcliffe no apreció facturación por servicios inexistentes ni precios ajenos al mercado. Estas conclusiones no se extienden a todos los contratos o gastos de construcción del edificio.
 
-  El tribunal examinó los hechos que subsistieron tras la modificación de la acusación fiscal. Aunque señaló falta
-  de transparencia, publicidad y concurrencia en el modelo de patrocinio, no consideró probadas la prevaricación
-  ni la malversación. En el bloque de Viva Europa valoró que las renuncias a cobrar por otros servicios compensaban
-  el sobrecoste discutido; en los trabajos de Radcliffe no apreció facturación por servicios inexistentes ni precios
-  ajenos al mercado. Estas conclusiones no se extienden a todos los contratos o gastos de construcción del edificio.
+  Helga Schmidt fue detenida el 20 de enero de 2015 junto al exgerente Ernesto Moreno y estuvo procesada, pero murió el 25 de septiembre de 2019, antes del juicio: su responsabilidad penal quedó extinguida por fallecimiento, un desenlace diferente de las cuatro absoluciones. Noguera, Maldonado y Broseta ya figuraban como investigados en la información publicada en abril de 2016; no se les atribuye una detención o procesamiento conjunto en enero de 2015.
 
+  Los costes de construcción y los desperfectos del trencadís son un ámbito distinto. Las cuentas oficiales de CACSA de 2014, incorporadas al informe de fiscalización, recogen un compromiso formalizado en septiembre de 2014 para que la dirección facultativa y la UTE constructora asumieran conjuntamente los costes de retirada, reposición y costes indirectos. No se dispone del acuerdo íntegro ni de documentación suficiente de su liquidación final; no se atribuye a Calatrava una condena civil o penal por este compromiso. Las cifras de inversión, reparación o acusación no se incorporan como daño penal probado.
 
-  Helga Schmidt fue detenida el 20 de enero de 2015 junto al exgerente Ernesto Moreno y estuvo procesada, pero murió
-  el 25 de septiembre de 2019, antes del juicio: su responsabilidad penal quedó extinguida por fallecimiento, un
-  desenlace diferente de las cuatro absoluciones. Noguera, Maldonado y Broseta ya figuraban como investigados en
-  la información publicada en abril de 2016; no se les atribuye una detención o procesamiento conjunto en enero
-  de 2015.
+  ### La causa de gestión
 
+  La [información de la absolución](https://valenciaplaza.com/valenciaplaza/absueltos-todos-los-acusados-del-caso-palau) distingue tres bloques: los patrocinios y eventos Viva Europa, los encargos de diseño e impresión a Radcliffe y las postales promocionales distribuidas durante el Gran Premio de Fórmula 1. La Audiencia valoró únicamente lo que seguía siendo objeto de acusación tras la modificación de conclusiones del fiscal. No consideró acreditados los delitos de prevaricación y malversación.
 
-  Los costes de construcción y los desperfectos del trencadís son un ámbito distinto. Las cuentas oficiales de CACSA
-  de 2014, incorporadas al informe de fiscalización, recogen un compromiso formalizado en septiembre de 2014 para
-  que la dirección facultativa y la UTE constructora asumieran conjuntamente los costes de retirada, reposición
-  y costes indirectos. No se dispone del acuerdo íntegro ni de documentación suficiente de su liquidación final;
-  no se atribuye a Calatrava una condena civil o penal por este compromiso. Las cifras de inversión, reparación
-  o acusación no se incorporan como daño penal probado.'
+  Las peticiones finales de prisión fueron de cinco años para Moreno, tres para Noguera y Maldonado y dos para Broseta. [Confilegal](https://confilegal.com/20200306-seis-anos-despues-la-justicia-absuelve-a-los-cuatro-acusados-del-caso-del-palau-de-les-arts-de-valencia/) recoge las cuatro absoluciones y la posibilidad de casación. No se dispone del fallo original ni de una resolución posterior que permita precisar su firmeza. Schmidt no fue una quinta persona absuelta: su fallecimiento previo extinguió su responsabilidad.
+
+  ### Construcción y cubierta
+
+  El coste de construcción citado en prensa —478 millones de euros frente a un presupuesto inicial de 109 millones— no constituye una cuantificación de malversación en este procedimiento. El [informe oficial de fiscalización de CACSA y cuentas del ejercicio 2014](https://servicios.cac.es/transparencia/documentos/sindicatura_cuentas.pdf) presenta en su página PDF 9 un coste del Palacio, neto de bajas a cierre de 2014, de 447.167.300 euros. La diferencia de magnitudes y fechas impide tratarlas como una misma cifra de perjuicio.
+
+  La nota 5.18 de las cuentas anexas, página PDF 64 (página 19 de la memoria), recoge la retirada del revestimiento en el primer trimestre de 2014 y el compromiso formalizado en septiembre para que dirección facultativa y UTE constructora asumieran los costes de demolición, reposición e indirectos; sitúa el inicio de la reposición en noviembre de 2014. Es un compromiso contractual descrito en las cuentas, no una condena civil de Calatrava. El informe de fiscalización cuestiona el tratamiento contable de la pérdida por deterioro y su posterior reversión; tampoco equipara ese ajuste a un daño penal.
+
+  Las responsabilidades políticas por el impulso y financiación del edificio no convierten a los presidentes autonómicos de aquellas etapas en acusados de esta causa. No se atribuye a Zaplana o Camps una participación penal por su cargo institucional. Quedan por documentar los originales judiciales, los eventuales recursos posteriores y la liquidación final del acuerdo de reparación.
 resumen: Cuatro absoluciones en 2020 por contratos y patrocinios; responsabilidad de Helga Schmidt extinguida por
   fallecimiento. Los costes y defectos del edificio se distinguen de esta causa.
 lugar: València, Comunitat Valenciana
@@ -148,17 +141,3 @@ cronologia:
   - https://confilegal.com/20200306-seis-anos-despues-la-justicia-absuelve-a-los-cuatro-acusados-del-caso-del-palau-de-les-arts-de-valencia/
   - https://www.rtve.es/noticias/20200306/absueltos-todos-acusados-por-caso-del-palau-les-arts-valencia/2006280.shtml
 ---
-
-## La causa de gestión
-
-La [información de la absolución](https://valenciaplaza.com/valenciaplaza/absueltos-todos-los-acusados-del-caso-palau) distingue tres bloques: los patrocinios y eventos Viva Europa, los encargos de diseño e impresión a Radcliffe y las postales promocionales distribuidas durante el Gran Premio de Fórmula 1. La Audiencia valoró únicamente lo que seguía siendo objeto de acusación tras la modificación de conclusiones del fiscal. No consideró acreditados los delitos de prevaricación y malversación.
-
-Las peticiones finales de prisión fueron de cinco años para Moreno, tres para Noguera y Maldonado y dos para Broseta. [Confilegal](https://confilegal.com/20200306-seis-anos-despues-la-justicia-absuelve-a-los-cuatro-acusados-del-caso-del-palau-de-les-arts-de-valencia/) recoge las cuatro absoluciones y la posibilidad de casación. No se dispone del fallo original ni de una resolución posterior que permita precisar su firmeza. Schmidt no fue una quinta persona absuelta: su fallecimiento previo extinguió su responsabilidad.
-
-## Construcción y cubierta
-
-El coste de construcción citado en prensa —478 millones de euros frente a un presupuesto inicial de 109 millones— no constituye una cuantificación de malversación en este procedimiento. El [informe oficial de fiscalización de CACSA y cuentas del ejercicio 2014](https://servicios.cac.es/transparencia/documentos/sindicatura_cuentas.pdf) presenta en su página PDF 9 un coste del Palacio, neto de bajas a cierre de 2014, de 447.167.300 euros. La diferencia de magnitudes y fechas impide tratarlas como una misma cifra de perjuicio.
-
-La nota 5.18 de las cuentas anexas, página PDF 64 (página 19 de la memoria), recoge la retirada del revestimiento en el primer trimestre de 2014 y el compromiso formalizado en septiembre para que dirección facultativa y UTE constructora asumieran los costes de demolición, reposición e indirectos; sitúa el inicio de la reposición en noviembre de 2014. Es un compromiso contractual descrito en las cuentas, no una condena civil de Calatrava. El informe de fiscalización cuestiona el tratamiento contable de la pérdida por deterioro y su posterior reversión; tampoco equipara ese ajuste a un daño penal.
-
-Las responsabilidades políticas por el impulso y financiación del edificio no convierten a los presidentes autonómicos de aquellas etapas en acusados de esta causa. No se atribuye a Zaplana o Camps una participación penal por su cargo institucional. Quedan por documentar los originales judiciales, los eventuales recursos posteriores y la liquidación final del acuerdo de reparación.

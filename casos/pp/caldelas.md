@@ -8,12 +8,18 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condena confirmada en apelación según información de 2018
-descripcion: 'La exdiputada del PP gallego María José Caldelas fue condenada por dos falsedades en documentos presentados
-  para la gestión de un pub en Ourense. La condena del Juzgado de lo Penal número 1 se comunicó el 30 de octubre
-  de 2017: seis meses de prisión por cada documento. La Voz de Galicia informó el 29 de junio de 2018 de que la
-  Audiencia había desestimado su recurso y confirmó la condena, calificándola de firme. No se han obtenido las sentencias
-  originales ni la resolución de ejecución. Las noticias discrepan sobre la cuantía de la multa; no se da por acreditada
-  la suspensión de la prisión.'
+descripcion: |-
+  La exdiputada del PP gallego María José Caldelas fue condenada por dos falsedades en documentos presentados para la gestión de un pub en Ourense. La condena del Juzgado de lo Penal número 1 se comunicó el 30 de octubre de 2017: seis meses de prisión por cada documento. La Voz de Galicia informó el 29 de junio de 2018 de que la Audiencia había desestimado su recurso y confirmó la condena, calificándola de firme. No se han obtenido las sentencias originales ni la resolución de ejecución. Las noticias discrepan sobre la cuantía de la multa; no se da por acreditada la suspensión de la prisión.
+
+  El procedimiento se refiere a documentos vinculados al pub Seven, regentado entre 2008 y 2011. Las noticias reseñan la denuncia de un anterior responsable del negocio, que supo de los documentos tras un embargo por impago de la tasa de veladores. No se extiende esa atribución a otros familiares o a otros procedimientos relacionados con José Manuel Baltar. La condición de exdiputada contextualiza la ficha; los hechos descritos corresponden a una actividad privada.
+
+  La primera condena se comunicó en octubre de 2017 y fue recurrida: la noticia contemporánea indicaba expresamente que cabía apelación. La información de junio de 2018 recoge su desestimación por la Audiencia. Por tanto, no se deduce la firmeza del mero paso del plazo para recurrir; se atribuye esa calificación a la noticia sobre la segunda instancia.
+
+  Existe una discrepancia económica pendiente: las fuentes de 2017 describen seis meses de multa por cada delito, a cinco euros diarios, mientras que La Voz de Galicia habla de 1.800 euros por cada uno. No se concilian esas cifras sin el fallo. No se consigna coste porque no se ha acreditado un daño patrimonial cuantificado; una multa no es el coste del caso.
+
+  La noticia de apelación usa María Josefa Caldelas y las crónicas de 2017 María José Caldelas. Las fuentes emplean esa forma del nombre, sin acreditar otros apellidos. Los seudónimos judiciales no permiten establecer identidades.
+
+  Al 17 de octubre de 2026, la condena y su confirmación constan en las noticias de 2017 y 2018. No se dispone de las sentencias originales, sus números ni sus fechas judiciales exactas. No consta una resolución de ejecución. No está acreditada la suspensión de la prisión por carecer de antecedentes; esa conclusión requiere una resolución específica. La ausencia de noticias posteriores no prueba la extinción de la pena. Documentos permanece vacío por falta de originales verificables.
 resumen: Condena por dos falsedades documentales confirmada en apelación en 2018 según la prensa; multa y ejecución
   pendientes de cotejo.
 lugar: Ourense, Galicia
@@ -71,13 +77,3 @@ cronologia:
   - https://www.lavozdegalicia.es/amp/noticia/ourense/2018/06/28/audiencia-confirma-condena-exdiputada-pp-dos-delitos-falsedad/00031530215484976425159.htm
   type: sentencia
 ---
-
-El procedimiento se refiere a documentos vinculados al pub Seven, regentado entre 2008 y 2011. Las noticias reseñan la denuncia de un anterior responsable del negocio, que supo de los documentos tras un embargo por impago de la tasa de veladores. No se extiende esa atribución a otros familiares o a otros procedimientos relacionados con José Manuel Baltar. La condición de exdiputada contextualiza la ficha; los hechos descritos corresponden a una actividad privada.
-
-La primera condena se comunicó en octubre de 2017 y fue recurrida: la noticia contemporánea indicaba expresamente que cabía apelación. La información de junio de 2018 recoge su desestimación por la Audiencia. Por tanto, no se deduce la firmeza del mero paso del plazo para recurrir; se atribuye esa calificación a la noticia sobre la segunda instancia.
-
-Existe una discrepancia económica pendiente: las fuentes de 2017 describen seis meses de multa por cada delito, a cinco euros diarios, mientras que La Voz de Galicia habla de 1.800 euros por cada uno. No se concilian esas cifras sin el fallo. No se consigna coste porque no se ha acreditado un daño patrimonial cuantificado; una multa no es el coste del caso.
-
-La noticia de apelación usa María Josefa Caldelas y las crónicas de 2017 María José Caldelas. Las fuentes emplean esa forma del nombre, sin acreditar otros apellidos. Los seudónimos judiciales no permiten establecer identidades.
-
-Al 17 de octubre de 2026, la condena y su confirmación constan en las noticias de 2017 y 2018. No se dispone de las sentencias originales, sus números ni sus fechas judiciales exactas. No consta una resolución de ejecución. No está acreditada la suspensión de la prisión por carecer de antecedentes; esa conclusión requiere una resolución específica. La ausencia de noticias posteriores no prueba la extinción de la pena. Documentos permanece vacío por falta de originales verificables.

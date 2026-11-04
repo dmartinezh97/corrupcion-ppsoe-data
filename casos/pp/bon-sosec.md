@@ -8,35 +8,28 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: desconocido
-descripcion: 'Bon Sosec fue un proyecto privado de cementerio en Marratxí, inaugurado el 1 de febrero de 1993 según
-  la crónica de Última Hora. En 1992 el Govern de Gabriel Cañellas (PP) autorizó una inversión de 425 millones de
-  pesetas a través de la Sociedad Balear de Capital Riesgo. El rescate suscitó controversia por las relaciones entre
-  promotores, la Fundació Illes Balears y responsables públicos. La prensa documenta donaciones de tres promotores
-  a esa fundación en diciembre de 1988. Joan Fageda, alcalde de Palma, había sido accionista minoritario y su constructora
-  Domus era acreedora por las obras. Esas relaciones no acreditan por sí solas delitos ni condenas.
+descripcion: |-
+  Bon Sosec fue un proyecto privado de cementerio en Marratxí, inaugurado el 1 de febrero de 1993 según la crónica de Última Hora. En 1992 el Govern de Gabriel Cañellas (PP) autorizó una inversión de 425 millones de pesetas a través de la Sociedad Balear de Capital Riesgo. El rescate suscitó controversia por las relaciones entre promotores, la Fundació Illes Balears y responsables públicos. La prensa documenta donaciones de tres promotores a esa fundación en diciembre de 1988. Joan Fageda, alcalde de Palma, había sido accionista minoritario y su constructora Domus era acreedora por las obras. Esas relaciones no acreditan por sí solas delitos ni condenas.
 
+  La sociedad presentó suspensión de pagos en septiembre de 1995. Las cifras de deuda publicadas varían por fecha y concepto; no equivalen a daño público. Servimedia informó en marzo de 1996 de un informe de interventores encargado por la magistrada que tramitaba ese procedimiento civil. La EFM arrendó el tanatorio con opción de compra en 1996 y la financiación se reorganizó con Banca March en 1997. El precio publicado del arrendamiento financiero, unos 6,4 millones de euros con IVA, no es una cuantificación judicial del perjuicio ni debe sumarse a las deudas privadas.
 
-  La sociedad presentó suspensión de pagos en septiembre de 1995. Las cifras de deuda publicadas varían por fecha
-  y concepto; no equivalen a daño público. Servimedia informó en marzo de 1996 de un informe de interventores encargado
-  por la magistrada que tramitaba ese procedimiento civil. La EFM arrendó el tanatorio con opción de compra en 1996
-  y la financiación se reorganizó con Banca March en 1997. El precio publicado del arrendamiento financiero, unos
-  6,4 millones de euros con IVA, no es una cuantificación judicial del perjuicio ni debe sumarse a las deudas privadas.
+  En febrero de 2017 se formalizó la compra del 60% del tanatorio y terrenos próximos por 986.169 euros con IVA según la información sectorial, corroborada en términos redondeados por Europa Press en abril. La información recoge versiones no plenamente conciliadas sobre el precio original, impuestos y liquidación; sin contratos y cuentas completos no se fija un sobrecoste definitivo. La noticia de abril de 2025 describe reformas y adquisiciones previstas por más de 457.000 euros con IVA, con obras sujetas a licitación y un plazo previsto: no acredita su terminación.
 
+  El País informó en agosto de 1995 de una investigación tributaria y fiscal sobre la sociedad, atribuida a fuentes del PSOE balear. No se ha obtenido el expediente ni su desenlace. Hasta el 17 de octubre de 2026 tampoco se ha localizado resolución penal por el rescate que permita afirmar investigación, acusación, condena o absolución de Fageda o Cañellas por esos hechos. No se afirma que nunca existiera una causa. Las referencias a Andratx y Relámpago afectan a otras investigaciones y no prueban responsabilidad penal por el rescate. El estado permanece desconocido, sin fecha de cierre ni firmeza acreditadas.
 
-  En febrero de 2017 se formalizó la compra del 60% del tanatorio y terrenos próximos por 986.169 euros con IVA
-  según la información sectorial, corroborada en términos redondeados por Europa Press en abril. La información
-  recoge versiones no plenamente conciliadas sobre el precio original, impuestos y liquidación; sin contratos y
-  cuentas completos no se fija un sobrecoste definitivo. La noticia de abril de 2025 describe reformas y adquisiciones
-  previstas por más de 457.000 euros con IVA, con obras sujetas a licitación y un plazo previsto: no acredita su
-  terminación.
+  ### Intereses privados y decisiones públicas
 
+  La prensa contemporánea relacionó la aportación autonómica con los vínculos entre los promotores y la fundación impulsada por Cañellas. También documentó la participación empresarial de Fageda y los créditos de Domus por las obras del cementerio. Son elementos relevantes para explicar la controversia, pero no sustituyen una resolución que determine responsabilidad penal individual.
 
-  El País informó en agosto de 1995 de una investigación tributaria y fiscal sobre la sociedad, atribuida a fuentes
-  del PSOE balear. No se ha obtenido el expediente ni su desenlace. Hasta el 17 de octubre de 2026 tampoco se ha
-  localizado resolución penal por el rescate que permita afirmar investigación, acusación, condena o absolución
-  de Fageda o Cañellas por esos hechos. No se afirma que nunca existiera una causa. Las referencias a Andratx y
-  Relámpago afectan a otras investigaciones y no prueban responsabilidad penal por el rescate. El estado permanece
-  desconocido, sin fecha de cierre ni firmeza acreditadas.'
+  El anuncio de suspensión de pagos del 1 de septiembre de 1995 debe distinguirse de la efectiva presentación, confirmada por crónicas posteriores en ese mes. El [despacho de Servimedia del 1 de marzo de 1996](https://www.servimedia.es/noticias/interventores-recomiendan-municipaizacion-cementerio-mallorquin-bon-sosec-para-solucionar-crisis-actual/1410936520) describe un procedimiento civil con intervención judicial y un informe económico. Su existencia no demuestra que hubiera una causa penal por corrupción contra los responsables políticos.
+
+  ### Financiación del tanatorio
+
+  Los 425 millones de pesetas de inversión autonómica, la deuda de Bon Sosec, los créditos de sus constructoras, el precio del arrendamiento financiero y el desembolso de 2017 corresponden a operaciones y momentos distintos. No se suman como una pérdida pública ni se utiliza el precio de una adquisición como daño. La información de 2017 también mezcla bases fiscales y ofrece cifras de liquidación ligeramente distintas, por lo que se requieren contratos y cuentas para cerrar el coste financiero real.
+
+  La compra del 60% anunciada en 2017 se refiere al tanatorio y terrenos concretos, no necesariamente a la totalidad del cementerio. Las actuaciones de mejora anunciadas en 2025 son gestión del inmueble, sin que la noticia permita afirmar que las obras terminaron. Los vínculos societarios citados en otras operaciones policiales deben comprobarse en sus propios procedimientos y no se trasladan como condenas de este caso.
+
+  Las referencias sobre la [compra investigada en 2007](https://www.diariodemallorca.es/mallorca/2007/07/06/trama-compro-bon-sosec-camuflar-4364730.html) y la [adquisición por sociedades panameñas publicada en 2008](https://www.diariodemallorca.es/palma/2008/10/15/promotora-adquirida-empresas-panamenas-4251604.html) no cuentan con textos completos accesibles que permitan corroborar los hechos.
 resumen: Controversia por aportaciones públicas y adquisición del tanatorio privado de Bon Sosec, vinculado a intereses
   empresariales de Joan Fageda; sin resultado penal del rescate acreditado.
 lugar: Marratxí, Mallorca (Illes Balears)
@@ -147,17 +140,3 @@ impactoSocial: La crisis de un cementerio privado llevó a inversiones públicas
   por posibles conflictos de intereses. Los procedimientos civiles de deuda y los gastos de gestión del tanatorio
   deben distinguirse de cualquier responsabilidad penal.
 ---
-
-## Intereses privados y decisiones públicas
-
-La prensa contemporánea relacionó la aportación autonómica con los vínculos entre los promotores y la fundación impulsada por Cañellas. También documentó la participación empresarial de Fageda y los créditos de Domus por las obras del cementerio. Son elementos relevantes para explicar la controversia, pero no sustituyen una resolución que determine responsabilidad penal individual.
-
-El anuncio de suspensión de pagos del 1 de septiembre de 1995 debe distinguirse de la efectiva presentación, confirmada por crónicas posteriores en ese mes. El [despacho de Servimedia del 1 de marzo de 1996](https://www.servimedia.es/noticias/interventores-recomiendan-municipaizacion-cementerio-mallorquin-bon-sosec-para-solucionar-crisis-actual/1410936520) describe un procedimiento civil con intervención judicial y un informe económico. Su existencia no demuestra que hubiera una causa penal por corrupción contra los responsables políticos.
-
-## Financiación del tanatorio
-
-Los 425 millones de pesetas de inversión autonómica, la deuda de Bon Sosec, los créditos de sus constructoras, el precio del arrendamiento financiero y el desembolso de 2017 corresponden a operaciones y momentos distintos. No se suman como una pérdida pública ni se utiliza el precio de una adquisición como daño. La información de 2017 también mezcla bases fiscales y ofrece cifras de liquidación ligeramente distintas, por lo que se requieren contratos y cuentas para cerrar el coste financiero real.
-
-La compra del 60% anunciada en 2017 se refiere al tanatorio y terrenos concretos, no necesariamente a la totalidad del cementerio. Las actuaciones de mejora anunciadas en 2025 son gestión del inmueble, sin que la noticia permita afirmar que las obras terminaron. Los vínculos societarios citados en otras operaciones policiales deben comprobarse en sus propios procedimientos y no se trasladan como condenas de este caso.
-
-Las referencias sobre la [compra investigada en 2007](https://www.diariodemallorca.es/mallorca/2007/07/06/trama-compro-bon-sosec-camuflar-4364730.html) y la [adquisición por sociedades panameñas publicada en 2008](https://www.diariodemallorca.es/palma/2008/10/15/promotora-adquirida-empresas-panamenas-4251604.html) no cuentan con textos completos accesibles que permitan corroborar los hechos.

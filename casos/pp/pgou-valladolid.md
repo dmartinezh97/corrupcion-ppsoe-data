@@ -9,23 +9,30 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas confirmadas en casación para dos recurrentes
-descripcion: 'Proceso por la alteración consciente de planos y normas del PGOU de Valladolid durante su tramitación
-  y publicación en 2003-2004. La Audiencia Provincial declaró que las modificaciones no correspondían a lo aprobado
-  provisionalmente por el Pleno ni a las subsanaciones requeridas por la Junta, y que beneficiaban a determinados
-  particulares. El resultado penal se refiere a alteraciones y actuaciones concretas, no a la condena de todos los
-  promotores o miembros del gobierno municipal.
+descripcion: |-
+  Proceso por la alteración consciente de planos y normas del PGOU de Valladolid durante su tramitación y publicación en 2003-2004. La Audiencia Provincial declaró que las modificaciones no correspondían a lo aprobado provisionalmente por el Pleno ni a las subsanaciones requeridas por la Junta, y que beneficiaban a determinados particulares. El resultado penal se refiere a alteraciones y actuaciones concretas, no a la condena de todos los promotores o miembros del gobierno municipal.
 
+  La sentencia 337/2019 condenó a José Antonio García de Coca por falsedad en concurso con prevaricación y prevaricación urbanística, y por un delito contra el patrimonio histórico; a Modesto Mezquita y Luis Álvarez Aller, por falsedad en concurso con prevaricación urbanística. Los tres fueron absueltos de tráfico de influencias. El año y nueve meses impuesto a García de Coca por patrimonio histórico fue de inhabilitación, no de prisión adicional.
 
-  La sentencia 337/2019 condenó a José Antonio García de Coca por falsedad en concurso con prevaricación y prevaricación
-  urbanística, y por un delito contra el patrimonio histórico; a Modesto Mezquita y Luis Álvarez Aller, por falsedad
-  en concurso con prevaricación urbanística. Los tres fueron absueltos de tráfico de influencias. El año y nueve
-  meses impuesto a García de Coca por patrimonio histórico fue de inhabilitación, no de prisión adicional.
+  La STS 119/2022, de 10 de febrero, desestimó los recursos de Mezquita y Álvarez Aller. La noticia se difundió el 23 de febrero: no es la fecha de la sentencia. Según Europa Press, García de Coca y las acusaciones no recurrieron. No se fija una fecha de firmeza universal ni de fin de ejecución; el Supremo reproduce un auto de rectificación de 2019 que corrige las erratas del fallo. Faltan documentos de ejecución y actuaciones posteriores.
 
+  ### Penas y erratas de los textos publicados
 
-  La STS 119/2022, de 10 de febrero, desestimó los recursos de Mezquita y Álvarez Aller. La noticia se difundió
-  el 23 de febrero: no es la fecha de la sentencia. Según Europa Press, García de Coca y las acusaciones no recurrieron.
-  No se fija una fecha de firmeza universal ni de fin de ejecución; el Supremo reproduce un auto de rectificación de 2019
-  que corrige las erratas del fallo. Faltan documentos de ejecución y actuaciones posteriores.'
+  La sentencia de 2019 distingue la condena por falsedad y prevaricación de García de Coca de la de patrimonio histórico. Esta última impone **un año y nueve meses de inhabilitación especial**, sin añadir prisión. La fundamentación fija seis meses de multa con cuota diaria de 15 euros para la primera condena y otros tres meses de multa por la segunda. No se suman penas de distinta naturaleza como si fueran un único período de cárcel.
+
+  Para Mezquita y Álvarez Aller, el fundamento octavo fija **un año y tres meses de prisión**, inhabilitación y **cuatro meses y quince días de multa a 15 euros diarios**. El fallo inicial publicado omitía la prisión al describir a Álvarez Aller y expresaba la cuota de García de Coca como «15 días». La **STS 119/2022, página 7, reproduce un auto de rectificación de la misma fecha que la sentencia de instancia**: sustituye la expresión por quince euros y corrige el pasaje de la pena para recoger un año y tres meses de prisión y cuatro meses y quince días de multa. También precisa las costas de oficio, incluidas las de la acusación popular. No se ha recuperado por separado ese auto, pero su existencia y contenido ya no quedan como una conjetura.
+
+  Subsiste una discrepancia con la crónica de Europa Press, que cifra la multa de los técnicos en 1.350 euros, frente a la duración y cuota recogidas en los textos judiciales. Se conservan estas últimas sin inventar una liquidación ni un justificante de pago; la ejecución efectiva sigue pendiente de cotejo.
+
+  Los nombres de los condenados y Cerezo Bada se contrastan en prensa nominativa; no se deducen de las iniciales del PDF ni de los pseudónimos de la transcripción del Supremo. La condición de alcalde de León de la Riva durante los hechos no equivale a una condena; no consta una responsabilidad penal acreditada para él en este procedimiento. La explicación de su exclusión no cuenta con respaldo en una resolución original. La prescripción de otros investigados y la retirada de cargos a Cerezo son resultados distintos; el cómputo de once excluidos no coincide con la secuencia descrita en la fuente citada.
+
+  ### Hechos y documentación disponible
+
+  El original judicial describe una aprobación provisional municipal de marzo de 2003, aprobación autonómica con salvedades y envío del documento único en enero de 2004. No se limita a un intervalo entre diciembre y febrero ni se afirma que cada uno de más de ochenta artículos fuera objeto de una condena penal. No consta respaldo documental suficiente para esa cifra conjunta ni para las fechas exactas de las actuaciones iniciales. Las diligencias previas fueron las 3632/2008, pero no se fija un día de incoación sin documento cotejado.
+
+  Información disponible a 17 de octubre de 2026. La SAP 337/2019 consta de 41 páginas y aborda los delitos, las dilaciones y las penas. La transcripción de la STS 119/2022 en vLex y Europa Press, en febrero de 2022, documentan el fallo del Supremo. El primer acceso al PDF del Supremo quedó bloqueado, pero se recuperó después su versión oficial de CENDOJ, de 21 páginas. El auto de rectificación se reproduce en la página 7 de la resolución de casación; el fallo figura en la página 21.
+
+  No se dispone de los originales de la prescripción, la retirada de cargos, el auto de rectificación por separado, la declaración de firmeza o la ejecución. No consta un daño público cuantificado. No consta una resolución posterior que altere las condenas descritas ni documentación que acredite el cumplimiento de las penas. Se mantienen pendientes esos extremos y se separan de litigios contenciosos posteriores sobre otros instrumentos urbanísticos o licencias.
 resumen: 'Alteraciones del PGOU de Valladolid y actuaciones urbanísticas posteriores: tres condenados en 2019; el
   Supremo desestimó en febrero de 2022 los recursos de dos de ellos.'
 lugar: Valladolid
@@ -117,21 +124,3 @@ cronologia:
   - https://www.europapress.es/castilla-y-leon/noticia-supremo-confirma-condena-mezquita-alvarez-aller-caso-pgou-20220223172009.html
 numeroSentencia: SAP Valladolid 337/2019, de 3 de diciembre; STS 119/2022, de 10 de febrero (recurso 507/2020)
 ---
-
-## Penas y erratas de los textos publicados
-
-La sentencia de 2019 distingue la condena por falsedad y prevaricación de García de Coca de la de patrimonio histórico. Esta última impone **un año y nueve meses de inhabilitación especial**, sin añadir prisión. La fundamentación fija seis meses de multa con cuota diaria de 15 euros para la primera condena y otros tres meses de multa por la segunda. No se suman penas de distinta naturaleza como si fueran un único período de cárcel.
-
-Para Mezquita y Álvarez Aller, el fundamento octavo fija **un año y tres meses de prisión**, inhabilitación y **cuatro meses y quince días de multa a 15 euros diarios**. El fallo inicial publicado omitía la prisión al describir a Álvarez Aller y expresaba la cuota de García de Coca como «15 días». La **STS 119/2022, página 7, reproduce un auto de rectificación de la misma fecha que la sentencia de instancia**: sustituye la expresión por quince euros y corrige el pasaje de la pena para recoger un año y tres meses de prisión y cuatro meses y quince días de multa. También precisa las costas de oficio, incluidas las de la acusación popular. No se ha recuperado por separado ese auto, pero su existencia y contenido ya no quedan como una conjetura.
-
-Subsiste una discrepancia con la crónica de Europa Press, que cifra la multa de los técnicos en 1.350 euros, frente a la duración y cuota recogidas en los textos judiciales. Se conservan estas últimas sin inventar una liquidación ni un justificante de pago; la ejecución efectiva sigue pendiente de cotejo.
-
-Los nombres de los condenados y Cerezo Bada se contrastan en prensa nominativa; no se deducen de las iniciales del PDF ni de los pseudónimos de la transcripción del Supremo. La condición de alcalde de León de la Riva durante los hechos no equivale a una condena; no consta una responsabilidad penal acreditada para él en este procedimiento. La explicación de su exclusión no cuenta con respaldo en una resolución original. La prescripción de otros investigados y la retirada de cargos a Cerezo son resultados distintos; el cómputo de once excluidos no coincide con la secuencia descrita en la fuente citada.
-
-## Hechos y documentación disponible
-
-El original judicial describe una aprobación provisional municipal de marzo de 2003, aprobación autonómica con salvedades y envío del documento único en enero de 2004. No se limita a un intervalo entre diciembre y febrero ni se afirma que cada uno de más de ochenta artículos fuera objeto de una condena penal. No consta respaldo documental suficiente para esa cifra conjunta ni para las fechas exactas de las actuaciones iniciales. Las diligencias previas fueron las 3632/2008, pero no se fija un día de incoación sin documento cotejado.
-
-Información disponible a 17 de octubre de 2026. La SAP 337/2019 consta de 41 páginas y aborda los delitos, las dilaciones y las penas. La transcripción de la STS 119/2022 en vLex y Europa Press, en febrero de 2022, documentan el fallo del Supremo. El primer acceso al PDF del Supremo quedó bloqueado, pero se recuperó después su versión oficial de CENDOJ, de 21 páginas. El auto de rectificación se reproduce en la página 7 de la resolución de casación; el fallo figura en la página 21.
-
-No se dispone de los originales de la prescripción, la retirada de cargos, el auto de rectificación por separado, la declaración de firmeza o la ejecución. No consta un daño público cuantificado. No consta una resolución posterior que altere las condenas descritas ni documentación que acredite el cumplimiento de las penas. Se mantienen pendientes esos extremos y se separan de litigios contenciosos posteriores sobre otros instrumentos urbanísticos o licencias.

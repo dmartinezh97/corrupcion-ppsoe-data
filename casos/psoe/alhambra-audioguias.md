@@ -9,27 +9,18 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución penal y responsabilidad contable
-descripcion: 'El procedimiento penal examinó la adjudicación y gestión del servicio de audioguías del Patronato
-  de la Alhambra y Generalife a GTP Museum Solutions, posteriormente Stendhal Museum Solutions. La Audiencia Provincial
-  de Granada absolvió a los cuatro acusados en su sentencia 86/2023, de 27 de febrero, notificada el 6 de marzo.
-  Según las crónicas de Europa Press y El Independiente de Granada publicadas en septiembre de 2026, el Tribunal
-  Supremo rechazó el recurso de la Junta de Andalucía y confirmó esa absolución. No se ha podido contrastar el original
-  del Supremo ni su número; la fecha de 10 de septiembre procede de la crónica periodística.
+descripcion: |-
+  El procedimiento penal examinó la adjudicación y gestión del servicio de audioguías del Patronato de la Alhambra y Generalife a GTP Museum Solutions, posteriormente Stendhal Museum Solutions. La Audiencia Provincial de Granada absolvió a los cuatro acusados en su sentencia 86/2023, de 27 de febrero, notificada el 6 de marzo. Según las crónicas de Europa Press y El Independiente de Granada publicadas en septiembre de 2026, el Tribunal Supremo rechazó el recurso de la Junta de Andalucía y confirmó esa absolución. No se ha podido contrastar el original del Supremo ni su número; la fecha de 10 de septiembre procede de la crónica periodística.
 
+  La jurisdicción contable siguió un procedimiento distinto, referido tanto al contrato de audioguías como al de tiendas. La sentencia 1/2023 del Tribunal de Cuentas, de 13 de enero, declaró a María del Mar Villafranca responsable contable directa de un alcance de 404.265,19 euros, más intereses, y absolvió a su sucesor, Reynaldo Fernández Manzano. La Sala de Justicia confirmó íntegramente ese pronunciamiento el 21 de mayo de 2025, al desestimar los recursos de Villafranca y de la Junta. Del principal, 129.018,08 euros corresponden al reconocimiento de deuda relacionado con audioguías y 275.247,11 euros a deducciones del canon de tiendas. No son dos daños que deban añadirse al total.
 
-  La jurisdicción contable siguió un procedimiento distinto, referido tanto al contrato de audioguías como al de
-  tiendas. La sentencia 1/2023 del Tribunal de Cuentas, de 13 de enero, declaró a María del Mar Villafranca responsable
-  contable directa de un alcance de 404.265,19 euros, más intereses, y absolvió a su sucesor, Reynaldo Fernández
-  Manzano. La Sala de Justicia confirmó íntegramente ese pronunciamiento el 21 de mayo de 2025, al desestimar los
-  recursos de Villafranca y de la Junta. Del principal, 129.018,08 euros corresponden al reconocimiento de deuda
-  relacionado con audioguías y 275.247,11 euros a deducciones del canon de tiendas. No son dos daños que deban añadirse
-  al total.
+  La sentencia contable de apelación contemplaba la posibilidad de casación: no se ha acreditado su firmeza, un eventual recurso posterior ni el resultado de su ejecución a 17 de octubre de 2026. La confirmación de la absolución penal no permite dar por anulada la responsabilidad contable. Tampoco se traslada el desenlace de audioguías a otras investigaciones sobre contratos del Patronato.
 
+  El contrato de audioguías fue adjudicado el 3 de septiembre de 2007 y formalizado el 4 de octubre, según los hechos probados de la [sentencia contable 1/2023](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2023/Sentencia_01_2023-1E.pdf). El contrato contemplaba inicialmente un canon fijo mínimo de 77.000 euros y otro variable del 47 % de la facturación bruta; estas condiciones y sus modificaciones fueron objeto de controversia, pero no constituyen por sí mismas un daño penal probado.
 
-  La sentencia contable de apelación contemplaba la posibilidad de casación: no se ha acreditado su firmeza, un
-  eventual recurso posterior ni el resultado de su ejecución a 17 de octubre de 2026. La confirmación de la absolución
-  penal no permite dar por anulada la responsabilidad contable. Tampoco se traslada el desenlace de audioguías a
-  otras investigaciones sobre contratos del Patronato.'
+  La [crónica de EFE de la notificación absolutoria](https://cadenaser.com/andalucia/2023/03/06/absueltos-villafranca-y-el-resto-de-acusados-por-el-caso-audioguias-de-la-alhambra-radio-granada/) distingue a los cuatro acusados y explica los informes favorables en los que se apoyaron los responsables del Patronato. Las solicitudes de prisión y de indemnización de las acusaciones fueron pretensiones procesales, no condenas. La [información de Europa Press de septiembre de 2026](https://www.iustel.com/diario_del_Derecho/noticia.asp?ref_iustel=1269570) comunica la confirmación de esa absolución por el Supremo. Su original permanece sin contrastar; no se asigna un número de sentencia ni se extiende este desenlace a otras causas sobre contratación del monumento.
+
+  La [sentencia contable de apelación 3/2025](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2025/Sentencia-n-3-2025-de-21-de-mayo.pdf) mantiene la responsabilidad directa de Villafranca por 404.265,19 euros más intereses, de los que 129.018,08 euros corresponden a audioguías y 275.247,11 euros a tiendas. Fernández Manzano fue absuelto en este procedimiento distinto. El pronunciamiento penal no permite deducir por sí solo la extinción de la responsabilidad contable, y queda sin acreditar la casación o ejecución posterior de esta última.
 resumen: Absolución penal de los cuatro acusados confirmada por el Supremo según la prensa de 2026; responsabilidad
   contable distinta por audioguías y tiendas.
 lugar: Granada, Andalucía
@@ -132,9 +123,3 @@ cronologia:
   - https://www.iustel.com/diario_del_Derecho/noticia.asp?ref_iustel=1269570
   - https://www.elindependientedegranada.es/politica/supremo-confirma-absolucion-mar-villafranca-tumbar-ultimo-recurso-junta
 ---
-
-El contrato de audioguías fue adjudicado el 3 de septiembre de 2007 y formalizado el 4 de octubre, según los hechos probados de la [sentencia contable 1/2023](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2023/Sentencia_01_2023-1E.pdf). El contrato contemplaba inicialmente un canon fijo mínimo de 77.000 euros y otro variable del 47 % de la facturación bruta; estas condiciones y sus modificaciones fueron objeto de controversia, pero no constituyen por sí mismas un daño penal probado.
-
-La [crónica de EFE de la notificación absolutoria](https://cadenaser.com/andalucia/2023/03/06/absueltos-villafranca-y-el-resto-de-acusados-por-el-caso-audioguias-de-la-alhambra-radio-granada/) distingue a los cuatro acusados y explica los informes favorables en los que se apoyaron los responsables del Patronato. Las solicitudes de prisión y de indemnización de las acusaciones fueron pretensiones procesales, no condenas. La [información de Europa Press de septiembre de 2026](https://www.iustel.com/diario_del_Derecho/noticia.asp?ref_iustel=1269570) comunica la confirmación de esa absolución por el Supremo. Su original permanece sin contrastar; no se asigna un número de sentencia ni se extiende este desenlace a otras causas sobre contratación del monumento.
-
-La [sentencia contable de apelación 3/2025](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2025/Sentencia-n-3-2025-de-21-de-mayo.pdf) mantiene la responsabilidad directa de Villafranca por 404.265,19 euros más intereses, de los que 129.018,08 euros corresponden a audioguías y 275.247,11 euros a tiendas. Fernández Manzano fue absuelto en este procedimiento distinto. El pronunciamiento penal no permite deducir por sí solo la extinción de la responsabilidad contable, y queda sin acreditar la casación o ejecución posterior de esta última.

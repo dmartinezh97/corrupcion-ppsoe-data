@@ -8,21 +8,38 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Archivos penales y demanda contable desestimada
-descripcion: 'Las investigaciones sobre el Gran Premio de Fórmula 1 de Valencia, celebrado entre 2008 y 2012, abarcaron
-  la organización mediante Valmor Sports, el aval público, los contratos de proveedores, la compra y absorción de
-  la sociedad y la construcción del circuito. Sus resultados no pueden reducirse a un único archivo contra Francisco
-  Camps en 2020. El archivo inicial de diciembre de 2018 fue revocado parcialmente en octubre de 2019 para continuar
-  investigando el aval; esa investigación volvió a sobreseerse provisionalmente en 2021. La construcción del circuito
-  tuvo un archivo separado en 2019, y la memoria de Fiscalía da cuenta de los archivos de las piezas sobre proveedores
-  y absorción.
+descripcion: |-
+  Las investigaciones sobre el Gran Premio de Fórmula 1 de Valencia, celebrado entre 2008 y 2012, abarcaron la organización mediante Valmor Sports, el aval público, los contratos de proveedores, la compra y absorción de la sociedad y la construcción del circuito. Sus resultados no pueden reducirse a un único archivo contra Francisco Camps en 2020. El archivo inicial de diciembre de 2018 fue revocado parcialmente en octubre de 2019 para continuar investigando el aval; esa investigación volvió a sobreseerse provisionalmente en 2021. La construcción del circuito tuvo un archivo separado en 2019, y la memoria de Fiscalía da cuenta de los archivos de las piezas sobre proveedores y absorción.
 
+  En la vía contable, la sentencia 12/2019 desestimó íntegramente la demanda, sin apreciar responsabilidad contable de los demandados; À Punt informó de la confirmación en apelación en julio de 2020. La compra de Valmor se realizó por un precio simbólico cercano a un euro, con asunción de deuda, no por un precio de 50 millones. Gastos, deudas y cantidades reclamadas no equivalen a daño judicial probado. Faltan los autos penales originales, la resolución contable de apelación y testimonios de firmeza; existen diferencias entre fuentes sobre fechas y numeración de piezas que no permiten afirmar un cierre único y definitivo a 17 de octubre de 2026.
 
-  En la vía contable, la sentencia 12/2019 desestimó íntegramente la demanda, sin apreciar responsabilidad contable
-  de los demandados; À Punt informó de la confirmación en apelación en julio de 2020. La compra de Valmor se realizó
-  por un precio simbólico cercano a un euro, con asunción de deuda, no por un precio de 50 millones. Gastos, deudas
-  y cantidades reclamadas no equivalen a daño judicial probado. Faltan los autos penales originales, la resolución
-  contable de apelación y testimonios de firmeza; existen diferencias entre fuentes sobre fechas y numeración de
-  piezas que no permiten afirmar un cierre único y definitivo a 17 de octubre de 2026.'
+  ### Procedimientos y resultados
+
+  La causa procedente de las diligencias 1/2015 del TSJCV pasó al Juzgado de Instrucción 2 como diligencias previas 1914/2015. La memoria de Fiscalía publicada en 2022 distingue tres objetos: organización y aval, contratos de proveedores y absorción de Valmor. La construcción del circuito fue investigada por otro juzgado, el número 17. La información de diciembre de 2021 describía las cuatro investigaciones como archivadas sin juicio; ello no convierte los sobreseimientos provisionales en sentencias absolutorias ni acredita por sí solo su firmeza actual.
+
+  El archivo de diciembre de 2018 fue recurrido y parcialmente revocado en octubre de 2019, solo para continuar las pesquisas del aval. ElDiario.es/EFE publicó un nuevo archivo provisional en noviembre de 2021. La memoria fiscal menciona una confirmación en diciembre de ese año. Sin ambos autos no se identifica una noticia de noviembre con un acto de diciembre ni se asigna un día ficticio a este último.
+
+  Existen discrepancias cronológicas adicionales: la memoria fiscal sitúa en octubre de 2020 el archivo de los proveedores, mientras el balance periodístico de diciembre de 2021 lo sitúa en el noviembre anterior. La noticia sobre la compra denomina «pieza 2» a un objeto que la memoria identifica como pieza 3. Por eso se distinguen los ámbitos por su objeto y no se fija una cronología única de todos sus archivos sin recuperar las resoluciones.
+
+  ### Vía contable y cantidades
+
+  El Tribunal de Cuentas resolvió un procedimiento de reintegro distinto de la causa penal. El fallo de 11 de junio de 2019 desestimó íntegramente la demanda y no apreció responsabilidad contable, de modo que no necesitó analizar la prescripción alegada. La apelación desestimada se conoce por información nominal de À Punt de julio de 2020; falta su original. Las iniciales de los demandados del PDF no se reconstruyen como identidades: los nombres citados se apoyan en fuentes nominales.
+
+  El precio simbólico de la compra, cercano a un euro, no debe confundirse con las deudas asumidas, el valor patrimonial negativo invocado en la reclamación o el conjunto de gastos de organizar las carreras. La cifra cercana a 89 millones citada en la investigación de la obra era su coste, no una malversación probada. Los 300 millones no están acreditados como perjuicio judicial atribuible a los implicados.
+
+  Faltan los originales penales, la sentencia contable de apelación y los testimonios de firmeza. Al 17 de octubre de 2026, no consta una nueva resolución verificable de esta causa; ello no demuestra la inexistencia de actuaciones posteriores.
+
+  ### Fuentes
+
+  - [CGPJ, nota oficial de archivo, 27 de diciembre de 2018](https://www.poderjudicial.es/cgpj/gl/Poder-Xudicial/Tribunais-Superiores-de-Xustiza/TSX-Comunidade-Valenciana/Sala-de-prensa/Comunicados-de-prensa/La-jueza-archiva-la-causa-contra-Francisco-Camps-por-la-organizacion-del-Gran-Premio-de-Formula-1-de-Valencia-a-traves-de-la-empresa-Valmor-Sports-SL)
+  - [Europa Press, construcción del circuito, 9 de julio de 2019](https://www.europapress.es/comunitat-valenciana/noticia-audiencia-archiva-causa-circuito-f1-estaba-procesado-camps-pedia-anticorrupcion-20190709170234.html)
+  - [Europa Press, reapertura limitada al aval, 15 de octubre de 2019](https://www.europapress.es/comunitat-valenciana/noticia-audiencia-ordena-reabrir-caso-f1-investigar-quien-dio-orden-generalitat-avalara-valmor-20191015145020.html)
+  - [Europa Press, recurso sobre la compra, 7 de septiembre de 2020](https://www.europapress.es/nacional/noticia-juzgado-confirma-archivo-investigacion-compra-valmor-organizo-formula-valencia-20200907162231.html)
+  - [À Punt, apelación contable, 8 de julio de 2020](https://www.apuntmedia.es/noticies/politica/tribunal-comptes-veu-responsabilitat-comptable-compra-valmor-un-euro_1_1353509.html)
+  - [ElDiario.es/EFE, archivo del aval, 16 de noviembre de 2021](https://www.eldiario.es/comunitat-valenciana/jueza-archiva-causa-judicial-francisco-camps-aval-valmor-formula-1-valencia_1_8495696.html)
+  - [Valencia Plaza, balance y objetos de las investigaciones, 5 de diciembre de 2021](https://valenciaplaza.com/valenciaplaza/formula-1-en-valencia-de-la-investigacion-sobre-el-gran-pufo-a-su-punto-final-en-los-tribunales)
+  - [Memoria de Fiscalía publicada en 2022, pp.582–583 (PDF621–622)](https://www.fiscal.es/memorias/memoria2022/FISCALIA_SITE/recursos/pdf/MEMFIS22.pdf)
+  - [Tribunal de Cuentas, sentencia 12/2019](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2019/Sentencia_12_2019_2E.pdf)
 resumen: Investigaciones de Fórmula 1 archivadas y demanda de responsabilidad contable desestimada
 lugar: Valencia, Comunitat Valenciana
 tribunal:
@@ -161,31 +178,3 @@ cronologia:
   - https://www.eldiario.es/comunitat-valenciana/jueza-archiva-causa-judicial-francisco-camps-aval-valmor-formula-1-valencia_1_8495696.html
   - https://www.fiscal.es/memorias/memoria2022/FISCALIA_SITE/recursos/pdf/MEMFIS22.pdf
 ---
-
-## Procedimientos y resultados
-
-La causa procedente de las diligencias 1/2015 del TSJCV pasó al Juzgado de Instrucción 2 como diligencias previas 1914/2015. La memoria de Fiscalía publicada en 2022 distingue tres objetos: organización y aval, contratos de proveedores y absorción de Valmor. La construcción del circuito fue investigada por otro juzgado, el número 17. La información de diciembre de 2021 describía las cuatro investigaciones como archivadas sin juicio; ello no convierte los sobreseimientos provisionales en sentencias absolutorias ni acredita por sí solo su firmeza actual.
-
-El archivo de diciembre de 2018 fue recurrido y parcialmente revocado en octubre de 2019, solo para continuar las pesquisas del aval. ElDiario.es/EFE publicó un nuevo archivo provisional en noviembre de 2021. La memoria fiscal menciona una confirmación en diciembre de ese año. Sin ambos autos no se identifica una noticia de noviembre con un acto de diciembre ni se asigna un día ficticio a este último.
-
-Existen discrepancias cronológicas adicionales: la memoria fiscal sitúa en octubre de 2020 el archivo de los proveedores, mientras el balance periodístico de diciembre de 2021 lo sitúa en el noviembre anterior. La noticia sobre la compra denomina «pieza 2» a un objeto que la memoria identifica como pieza 3. Por eso se distinguen los ámbitos por su objeto y no se fija una cronología única de todos sus archivos sin recuperar las resoluciones.
-
-## Vía contable y cantidades
-
-El Tribunal de Cuentas resolvió un procedimiento de reintegro distinto de la causa penal. El fallo de 11 de junio de 2019 desestimó íntegramente la demanda y no apreció responsabilidad contable, de modo que no necesitó analizar la prescripción alegada. La apelación desestimada se conoce por información nominal de À Punt de julio de 2020; falta su original. Las iniciales de los demandados del PDF no se reconstruyen como identidades: los nombres citados se apoyan en fuentes nominales.
-
-El precio simbólico de la compra, cercano a un euro, no debe confundirse con las deudas asumidas, el valor patrimonial negativo invocado en la reclamación o el conjunto de gastos de organizar las carreras. La cifra cercana a 89 millones citada en la investigación de la obra era su coste, no una malversación probada. Los 300 millones no están acreditados como perjuicio judicial atribuible a los implicados.
-
-Faltan los originales penales, la sentencia contable de apelación y los testimonios de firmeza. Al 17 de octubre de 2026, no consta una nueva resolución verificable de esta causa; ello no demuestra la inexistencia de actuaciones posteriores.
-
-## Fuentes
-
-- [CGPJ, nota oficial de archivo, 27 de diciembre de 2018](https://www.poderjudicial.es/cgpj/gl/Poder-Xudicial/Tribunais-Superiores-de-Xustiza/TSX-Comunidade-Valenciana/Sala-de-prensa/Comunicados-de-prensa/La-jueza-archiva-la-causa-contra-Francisco-Camps-por-la-organizacion-del-Gran-Premio-de-Formula-1-de-Valencia-a-traves-de-la-empresa-Valmor-Sports-SL)
-- [Europa Press, construcción del circuito, 9 de julio de 2019](https://www.europapress.es/comunitat-valenciana/noticia-audiencia-archiva-causa-circuito-f1-estaba-procesado-camps-pedia-anticorrupcion-20190709170234.html)
-- [Europa Press, reapertura limitada al aval, 15 de octubre de 2019](https://www.europapress.es/comunitat-valenciana/noticia-audiencia-ordena-reabrir-caso-f1-investigar-quien-dio-orden-generalitat-avalara-valmor-20191015145020.html)
-- [Europa Press, recurso sobre la compra, 7 de septiembre de 2020](https://www.europapress.es/nacional/noticia-juzgado-confirma-archivo-investigacion-compra-valmor-organizo-formula-valencia-20200907162231.html)
-- [À Punt, apelación contable, 8 de julio de 2020](https://www.apuntmedia.es/noticies/politica/tribunal-comptes-veu-responsabilitat-comptable-compra-valmor-un-euro_1_1353509.html)
-- [ElDiario.es/EFE, archivo del aval, 16 de noviembre de 2021](https://www.eldiario.es/comunitat-valenciana/jueza-archiva-causa-judicial-francisco-camps-aval-valmor-formula-1-valencia_1_8495696.html)
-- [Valencia Plaza, balance y objetos de las investigaciones, 5 de diciembre de 2021](https://valenciaplaza.com/valenciaplaza/formula-1-en-valencia-de-la-investigacion-sobre-el-gran-pufo-a-su-punto-final-en-los-tribunales)
-- [Memoria de Fiscalía publicada en 2022, pp.582–583 (PDF621–622)](https://www.fiscal.es/memorias/memoria2022/FISCALIA_SITE/recursos/pdf/MEMFIS22.pdf)
-- [Tribunal de Cuentas, sentencia 12/2019](https://www.tcu.es/export/sites/portal/repositorio2/SENTENCIA/2019/Sentencia_12_2019_2E.pdf)

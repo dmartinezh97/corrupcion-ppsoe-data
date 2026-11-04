@@ -8,59 +8,25 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "desconocido"
-descripcion: >-
-  El Caso Ampuero se centra en Jesús Manuel Ampuero Pérez —citado como José Manuel Ampuero en algunas
-  fuentes—, alcalde de Cenicientos (Comunidad de Madrid) por el Partido Popular entre el 15 de junio de 1991 y
-  el 23 de julio de 2010, cuando dimitió alegando problemas de salud. Según las crónicas que describen los
-  hechos probados de la sentencia, entre 2004 y 2010 recibió en su cuenta corriente diversos importes
-  procedentes de la cuenta del Ayuntamiento por un total de 369.863 euros, de los que 70.008 euros
-  correspondían a sus nóminas y 194.842 euros fueron transferencias de vuelta al Consistorio; las crónicas
-  cuantifican en 105.012 euros el enriquecimiento ilícito sin justificación documental, con importes parciales
-  publicados de forma redondeada. La sentencia declaró también un desfase en la Casa Rural Municipal de la
-  Corredera: las facturas emitidas sumaban 175.738 euros, pero solo constaba el ingreso de 35.311 euros, de
-  modo que faltaban 140.427 euros entregados en mano. La querella de 2012 cifró en 140.749 euros el dinero de
-  la casa rural no ingresado entre 2000 y 2010.
+descripcion: |-
+  El Caso Ampuero se centra en Jesús Manuel Ampuero Pérez —citado como José Manuel Ampuero en algunas fuentes—, alcalde de Cenicientos (Comunidad de Madrid) por el Partido Popular entre el 15 de junio de 1991 y el 23 de julio de 2010, cuando dimitió alegando problemas de salud. Según las crónicas que describen los hechos probados de la sentencia, entre 2004 y 2010 recibió en su cuenta corriente diversos importes procedentes de la cuenta del Ayuntamiento por un total de 369.863 euros, de los que 70.008 euros correspondían a sus nóminas y 194.842 euros fueron transferencias de vuelta al Consistorio; las crónicas cuantifican en 105.012 euros el enriquecimiento ilícito sin justificación documental, con importes parciales publicados de forma redondeada. La sentencia declaró también un desfase en la Casa Rural Municipal de la Corredera: las facturas emitidas sumaban 175.738 euros, pero solo constaba el ingreso de 35.311 euros, de modo que faltaban 140.427 euros entregados en mano. La querella de 2012 cifró en 140.749 euros el dinero de la casa rural no ingresado entre 2000 y 2010.
 
+  El caso se activó cuando, en julio de 2012, los sucesores de Ampuero en el gobierno municipal, también del PP, interpusieron una querella por presuntos delitos de falsedad en documento mercantil, malversación, prevaricación y cohecho, en la que le acusaban de apropiarse de tasas de la casa rural, de efectuarse pagos no debidos y de extender pagarés sin conocimiento del interventor. La instrucción correspondió al Juzgado de Instrucción número 4 de Navalcarnero, que en septiembre de 2013 le llamó a declarar como imputado (citación fijada para el 1 de octubre de 2013) y en octubre de 2016 comunicó a las partes la apertura del juicio oral. La Fiscalía sostenía un enriquecimiento ilícito de 105.012 euros y pedía inicialmente seis años de prisión, mientras la acusación particular del PSOE solicitaba 36 años por seis delitos de malversación.
 
-  El caso se activó cuando, en julio de 2012, los sucesores de Ampuero en el gobierno municipal, también del
-  PP, interpusieron una querella por presuntos delitos de falsedad en documento mercantil, malversación,
-  prevaricación y cohecho, en la que le acusaban de apropiarse de tasas de la casa rural, de efectuarse pagos
-  no debidos y de extender pagarés sin conocimiento del interventor. La instrucción correspondió al Juzgado de
-  Instrucción número 4 de Navalcarnero, que en septiembre de 2013 le llamó a declarar como imputado (citación
-  fijada para el 1 de octubre de 2013) y en octubre de 2016 comunicó a las partes la apertura del juicio oral.
-  La Fiscalía sostenía un enriquecimiento ilícito de 105.012 euros y pedía inicialmente seis años de prisión,
-  mientras la acusación particular del PSOE solicitaba 36 años por seis delitos de malversación.
+  Según A21, el 2 de julio de 2018 Ampuero alcanzó una conformidad con la Fiscalía. En julio de 2018 se hizo pública la condena de la Sección Cuarta de la Audiencia Provincial de Madrid a dos años y tres meses de prisión por un delito continuado de malversación de caudales públicos, inhabilitación absoluta durante tres años y un día e indemnización de 275.000 euros al Ayuntamiento, importe de responsabilidad civil que recoge la ficha y que no debe sumarse a las restantes cuantías descritas. Algunas fuentes locales añaden un día a la pena de prisión. Según esas fuentes, había consignado 40.000 euros el 25 de junio de 2018 y había aportado tres inmuebles para cubrir la responsabilidad civil restante; las actuaciones posteriores cuestionaron la eficacia de esa entrega. La prensa posterior afirma que cumplió condena en prisión y salió en 2020; no se han obtenido los documentos penitenciarios. La ejecutoria descrita por la prensa en 2024 documenta actuaciones para cobrar la indemnización, pero no se ha localizado la sentencia original ni una resolución que declare expresamente su firmeza. No se certifican la firmeza formal ni el cierre de la ejecución a partir de la conformidad o de esas noticias.
 
+  La prensa describe desde 2021 actuaciones sobre la entrega de esos bienes. Autos de 3 de febrero de 2021 (Juzgado de Primera Instancia e Instrucción número 2 de Navalcarnero) y de 27 de septiembre de 2021 (Audiencia Provincial de Madrid), difundidos por la prensa local, apreciaron indicios de que Ampuero había hecho creer al Ayuntamiento que entregaba bienes libres de cargas en pago de la responsabilidad civil. En febrero de 2023 se publicó que el equipo de gobierno del PSOE le había denunciado por no haber pagado la mayor parte de la indemnización, sin precisar la fecha de presentación, y que el exalcalde quedó citado a declarar el 15 de marzo de 2023 por presunta estafa procesal e insolvencia punible. Según A21, el 23 de febrero de 2024 la Sección Cuarta de la Audiencia Provincial de Madrid dictó una diligencia de ordenación en la ejecutoria tras constatar que las fincas aportadas como garantía no estaban inscritas en el Registro de la Propiedad, y le requirió los 235.000 euros pendientes (275.000 menos los 40.000 ya ingresados), citándole para el 13 de marzo de 2024. Al 17 de octubre de 2026 no se ha localizado una resolución posterior sobre el resultado de ese procedimiento ni sobre el pago. La cifra de 235.000 euros es el saldo referido por la noticia de marzo de 2024, no un saldo confirmado en 2026. La noticia de A21 mezcla referencias a las secciones Cuarta y Tercera y al número 448/23, por lo que no se fija con seguridad el órgano o número de la causa posterior sin el documento original.
 
-  Según A21, el 2 de julio de 2018 Ampuero alcanzó una conformidad con la Fiscalía. En julio de 2018 se hizo
-  pública la condena de la Sección Cuarta de la Audiencia Provincial de Madrid a dos años y tres meses de
-  prisión por un delito continuado de malversación de caudales públicos, inhabilitación absoluta durante tres
-  años y un día e indemnización de 275.000 euros al Ayuntamiento, importe de responsabilidad civil que recoge
-  la ficha y que no debe sumarse a las restantes cuantías descritas. Algunas fuentes locales añaden un día a
-  la pena de prisión. Según esas fuentes, había consignado 40.000 euros el 25 de junio de 2018 y había
-  aportado tres inmuebles para cubrir la responsabilidad civil restante; las actuaciones posteriores
-  cuestionaron la eficacia de esa entrega. La prensa posterior afirma que cumplió condena en prisión y salió
-  en 2020; no se han obtenido los documentos penitenciarios. La ejecutoria descrita por la prensa en 2024
-  documenta actuaciones para cobrar la indemnización, pero no se ha localizado la sentencia original ni una
-  resolución que declare expresamente su firmeza. No se certifican la firmeza formal ni el cierre de la
-  ejecución a partir de la conformidad o de esas noticias.
+  ### Fuentes e incertidumbres
 
-
-  La prensa describe desde 2021 actuaciones sobre la entrega de esos bienes. Autos de 3 de febrero de 2021
-  (Juzgado de Primera Instancia e Instrucción número 2 de Navalcarnero) y de 27 de septiembre de 2021
-  (Audiencia Provincial de Madrid), difundidos por la prensa local, apreciaron indicios de que Ampuero había
-  hecho creer al Ayuntamiento que entregaba bienes libres de cargas en pago de la responsabilidad civil. En
-  febrero de 2023 se publicó que el equipo de gobierno del PSOE le había denunciado por no haber pagado la
-  mayor parte de la indemnización, sin precisar la fecha de presentación, y que el exalcalde quedó citado a
-  declarar el 15 de marzo de 2023 por presunta estafa procesal e insolvencia punible. Según A21, el 23 de
-  febrero de 2024 la Sección Cuarta de la Audiencia Provincial de Madrid dictó una diligencia de ordenación en
-  la ejecutoria tras constatar que las fincas aportadas como garantía no estaban inscritas en el Registro de
-  la Propiedad, y le requirió los 235.000 euros pendientes (275.000 menos los 40.000 ya ingresados), citándole
-  para el 13 de marzo de 2024. Al 17 de octubre de 2026 no se ha localizado una resolución posterior sobre el
-  resultado de ese procedimiento ni sobre el pago. La cifra de 235.000 euros es el saldo referido por la
-  noticia de marzo de 2024, no un saldo confirmado en 2026. La noticia de A21 mezcla referencias a las
-  secciones Cuarta y Tercera y al número 448/23, por lo que no se fija con seguridad el órgano o número de la
-  causa posterior sin el documento original.
+  - **Nombre del implicado**: el convenio publicado en el BOCM de 21 de mayo de 2010 identifica en su página 75 a **Jesús Manuel Ampuero Pérez** como alcalde-presidente de Cenicientos. Ese documento acredita su identidad y cargo, no la condena. Algunas crónicas de El País alternan Jesús y José; se adopta el nombre del documento oficial. [BOCM original](https://www.bocm.es/boletin/CM_Orden_BOCM/2010/05/21/BOCM-20100521-12.PDF).
+  - **Estado judicial**: condena por malversación documentada mediante prensa, pero sin sentencia original ni declaración expresa de firmeza consultadas. La referencia a una ejecutoria y a la prisión no se utiliza para certificar formalmente la firmeza. Se registra «desconocido» para el estado global actual, sin negar la condena de 2018. Tampoco se conoce el cierre de la ejecución ni el resultado del procedimiento posterior por presunta estafa procesal e insolvencia punible. La conformidad no permite inferir por sí sola todos esos extremos.
+  - **Fechas**: los hechos comenzaron en 2004, sin día ni mes acreditados. No consta una resolución final de la ejecución ni del procedimiento derivado. Los hechos abarcan el periodo 2004–2010 y la querella se presentó en julio de 2012. El 2 de julio de 2018 es la fecha de conformidad que cita A21, sin que se haya obtenido el original para comprobar si la sentencia lleva exactamente esa misma fecha; la prensa publicó la noticia el 10 y el 13 de julio de 2018. Se distingue la fecha de publicación (el hito de 24-02-2023) de la fecha del acto.
+  - **Penal y cuantías**: la pena de prisión se fija en dos años y tres meses (El País, casos-aislados, Wikipedia); A21 añade un día («dos años, tres meses y un día»). La inhabilitación absoluta es de tres años y un día. La indemnización es de 275.000 euros (responsabilidad civil) y el enriquecimiento ilícito declarado probado fue de 105.012 euros. No se suman la indemnización, el enriquecimiento ni el desfase de la casa rural (140.427 euros), que son conceptos distintos. La prensa atribuye 275.000 euros al perjuicio y a la indemnización de la sentencia; no es una valoración independiente ni el saldo de dinero pendiente de recuperar. Las cantidades parciales publicadas están redondeadas y no permiten reconstruir exactamente el total.
+  - **Fecha de ingreso en prisión**: no se ha localizado la fecha exacta. Según elDiario.es (30-04-2021), cumplió «un par de años» y salió en 2020.
+  - **Procedimiento por estafa procesal e insolvencia**: la expresión «nuevo juicio» proviene del titular de A21 (24-02-2023). Los autos citados (3-02-2021 y 27-09-2021) aprecian indicios; no consta resolución posterior. Esos indicios y la citación no equivalen a una condena.
+  - **Documentos**: no se dispone de los originales de la sentencia, los autos de 2021 o la diligencia de 2024. El BOCM consultado es un documento de identificación ajeno a los hechos penales y se enlaza en el cuerpo, sin presentarlo como prueba judicial de la condena. Las transcripciones de A21 siguen siendo fuentes periodísticas, no copias verificadas de las resoluciones.
+  - **Situación al 17 de octubre de 2026**: no constan decisiones posteriores al requerimiento divulgado en marzo de 2024. No consta información judicial completa; la ausencia de noticias no acredita el cierre, el pago, una condena por los nuevos hechos ni la firmeza. No se presenta como resultado de la citación una condena o un juicio celebrado. La información de 2024 combina referencias a las secciones Tercera y Cuarta y a 448/23: quedan pendientes su identificación y el texto original.
 
 resumen: "Exalcalde del PP de Cenicientos condenado por malversación en 2018; la prensa documenta en 2024 un requerimiento de indemnización, sin cierre posterior verificado"
 coste: 275000
@@ -135,14 +101,3 @@ cronologia:
     urls:
       - "https://a21.es/la-audiencia-provincial-cita-al-exalcalde-de-cenicentos-jesus-ampuero-y-le-requiere-235-000-euros/"
 ---
-
-## Fuentes e incertidumbres
-
-- **Nombre del implicado**: el convenio publicado en el BOCM de 21 de mayo de 2010 identifica en su página 75 a **Jesús Manuel Ampuero Pérez** como alcalde-presidente de Cenicientos. Ese documento acredita su identidad y cargo, no la condena. Algunas crónicas de El País alternan Jesús y José; se adopta el nombre del documento oficial. [BOCM original](https://www.bocm.es/boletin/CM_Orden_BOCM/2010/05/21/BOCM-20100521-12.PDF).
-- **Estado judicial**: condena por malversación documentada mediante prensa, pero sin sentencia original ni declaración expresa de firmeza consultadas. La referencia a una ejecutoria y a la prisión no se utiliza para certificar formalmente la firmeza. Se registra «desconocido» para el estado global actual, sin negar la condena de 2018. Tampoco se conoce el cierre de la ejecución ni el resultado del procedimiento posterior por presunta estafa procesal e insolvencia punible. La conformidad no permite inferir por sí sola todos esos extremos.
-- **Fechas**: los hechos comenzaron en 2004, sin día ni mes acreditados. No consta una resolución final de la ejecución ni del procedimiento derivado. Los hechos abarcan el periodo 2004–2010 y la querella se presentó en julio de 2012. El 2 de julio de 2018 es la fecha de conformidad que cita A21, sin que se haya obtenido el original para comprobar si la sentencia lleva exactamente esa misma fecha; la prensa publicó la noticia el 10 y el 13 de julio de 2018. Se distingue la fecha de publicación (el hito de 24-02-2023) de la fecha del acto.
-- **Penal y cuantías**: la pena de prisión se fija en dos años y tres meses (El País, casos-aislados, Wikipedia); A21 añade un día («dos años, tres meses y un día»). La inhabilitación absoluta es de tres años y un día. La indemnización es de 275.000 euros (responsabilidad civil) y el enriquecimiento ilícito declarado probado fue de 105.012 euros. No se suman la indemnización, el enriquecimiento ni el desfase de la casa rural (140.427 euros), que son conceptos distintos. La prensa atribuye 275.000 euros al perjuicio y a la indemnización de la sentencia; no es una valoración independiente ni el saldo de dinero pendiente de recuperar. Las cantidades parciales publicadas están redondeadas y no permiten reconstruir exactamente el total.
-- **Fecha de ingreso en prisión**: no se ha localizado la fecha exacta. Según elDiario.es (30-04-2021), cumplió «un par de años» y salió en 2020.
-- **Procedimiento por estafa procesal e insolvencia**: la expresión «nuevo juicio» proviene del titular de A21 (24-02-2023). Los autos citados (3-02-2021 y 27-09-2021) aprecian indicios; no consta resolución posterior. Esos indicios y la citación no equivalen a una condena.
-- **Documentos**: no se dispone de los originales de la sentencia, los autos de 2021 o la diligencia de 2024. El BOCM consultado es un documento de identificación ajeno a los hechos penales y se enlaza en el cuerpo, sin presentarlo como prueba judicial de la condena. Las transcripciones de A21 siguen siendo fuentes periodísticas, no copias verificadas de las resoluciones.
-- **Situación al 17 de octubre de 2026**: no constan decisiones posteriores al requerimiento divulgado en marzo de 2024. No consta información judicial completa; la ausencia de noticias no acredita el cierre, el pago, una condena por los nuevos hechos ni la firmeza. No se presenta como resultado de la citación una condena o un juicio celebrado. La información de 2024 combina referencias a las secciones Tercera y Cuarta y a 448/23: quedan pendientes su identificación y el texto original.

@@ -9,30 +9,24 @@ estadoPrincipal: En investigación
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: desconocido
-descripcion: 'El procedimiento Eivissa Crea investigó presuntas irregularidades en la contratación de personas y
-  servicios alrededor del programa municipal de emprendimiento y su vivero de empresas. Las noticias identificaron
-  como investigados a Alfonso Molina y Joan Serra Mayans, vinculados a empresas contratistas. La información de
-  abril de 2018 cifró en 566.000 euros la facturación de sociedades relacionadas entre 2007 y 2010: no es una cantidad
-  declarada malversada por sentencia.
+descripcion: |-
+  El procedimiento Eivissa Crea investigó presuntas irregularidades en la contratación de personas y servicios alrededor del programa municipal de emprendimiento y su vivero de empresas. Las noticias identificaron como investigados a Alfonso Molina y Joan Serra Mayans, vinculados a empresas contratistas. La información de abril de 2018 cifró en 566.000 euros la facturación de sociedades relacionadas entre 2007 y 2010: no es una cantidad declarada malversada por sentencia.
 
+  Según la prensa, el juzgado archivó provisionalmente la causa en junio de 2014 y la Audiencia Provincial ordenó reabrirla en 2015 para practicar diligencias pendientes. El 26 de abril de 2018 la Policía Judicial recogió documentación municipal; no realizó un registro, según la información publicada al día siguiente. Una noticia de agosto de 2023 describía actuaciones de instrucción, pero no acredita su vigencia en octubre de 2026.
 
-  Según la prensa, el juzgado archivó provisionalmente la causa en junio de 2014 y la Audiencia Provincial ordenó
-  reabrirla en 2015 para practicar diligencias pendientes. El 26 de abril de 2018 la Policía Judicial recogió documentación
-  municipal; no realizó un registro, según la información publicada al día siguiente. Una noticia de agosto de 2023
-  describía actuaciones de instrucción, pero no acredita su vigencia en octubre de 2026.
+  Debe distinguirse la causa penal del expediente administrativo del SOIB sobre subvenciones a Serviconsult Training and Development SL. Una resolución de 21 de noviembre de 2017 exigió a esa entidad 20.769,60 euros de reintegro y 6.363,54 de intereses, un total de 27.133,14 euros. No es una condena penal personal a Molina. Él negó irregularidades y atribuyó la controversia a la interpretación de la justificación de las ayudas.
 
+  No se han localizado los autos penales originales ni comprobado sentencias, archivos, acusaciones o recursos individuales hasta el 15 de octubre de 2026. La rama del local para la Iglesia Evangélica Filadelfia tiene ficha propia y fuentes contradictorias sobre su cierre o continuidad: una declaración del PSOE recogida en 2018 la daba por cerrada, mientras una noticia de 2023 describía diligencias. Sin las resoluciones no se afirma su desenlace ni se suman sus importes como daño de la pieza principal.
 
-  Debe distinguirse la causa penal del expediente administrativo del SOIB sobre subvenciones a Serviconsult Training
-  and Development SL. Una resolución de 21 de noviembre de 2017 exigió a esa entidad 20.769,60 euros de reintegro
-  y 6.363,54 de intereses, un total de 27.133,14 euros. No es una condena penal personal a Molina. Él negó irregularidades
-  y atribuyó la controversia a la interpretación de la justificación de las ayudas.
+  Eivissa Crea fue presentado como un programa para favorecer la creación de empresas, impulsado en 2004. La información de 2018 vinculó a Serviconsult con el diseño del proyecto y a Mentor Qualitat con Molina y Serra Mayans. El relato de la denuncia y de la facturación requiere distinguir lo contratado, lo efectivamente prestado y cualquier perjuicio: la cifra publicada de 566.000 euros no acredita por sí sola apropiación o malversación de toda esa cantidad. Tampoco la descripción de un objeto social permite concluir sin más que un contrato fuera delictivo.
 
+  Las noticias sitúan el origen de la causa en una denuncia anónima de 2009, el archivo provisional en junio de 2014 y la reapertura en 2015. No se fijan días exactos que no están respaldados por los autos. La noticia de 2018 explica que la Audiencia reclamó diligencias pendientes, incluido un informe policial solicitado por la Fiscalía. La Fiscalía no es el órgano que acuerda el archivo judicial ni su petición equivale a una absolución.
 
-  No se han localizado los autos penales originales ni comprobado sentencias, archivos, acusaciones o recursos individuales
-  hasta el 15 de octubre de 2026. La rama del local para la Iglesia Evangélica Filadelfia tiene ficha propia y fuentes
-  contradictorias sobre su cierre o continuidad: una declaración del PSOE recogida en 2018 la daba por cerrada,
-  mientras una noticia de 2023 describía diligencias. Sin las resoluciones no se afirma su desenlace ni se suman
-  sus importes como daño de la pieza principal.'
+  La resolución administrativa del SOIB se refiere a otra relación de subvención: una ayuda máxima de 33.000 euros concedida a Serviconsult en septiembre de 2010. El total a pagar de 27.133,14 euros combina capital e intereses; la revocación de 32.979,60 euros incluye además pérdida del derecho a cobrar cantidades no abonadas. No se suman entre sí esas cifras como daños independientes. El documento permite reposición o recurso contencioso-administrativo y no acredita si se interpusieron, si se pagó o cómo terminó un eventual litigio.
+
+  La pieza del alquiler de un local para la Iglesia Evangélica Filadelfia se describe separadamente en la ficha correspondiente. Enrique Sánchez y Vicent Ferrer fueron citados en las noticias sobre esa rama, pero no se les atribuyen aquí resultados de la contratación empresarial. La información partidista de 2018 sobre su supuesto cierre y la noticia de 2023 que habla de diligencias no pueden conciliarse sin los autos: no se considera probado ni un cierre definitivo ni una investigación vigente por esa sola combinación de fuentes. Tampoco se completa el nombre del pastor con apellidos no contrastados.
+
+  Hasta disponer de resoluciones posteriores, no se afirma la celebración o inexistencia de juicio, la existencia o inexistencia de condenas ni la continuidad de las investigaciones al corte. Las lagunas afectan tanto al estado global como al recorrido individual de los investigados.
 resumen: Investigación sobre contratos del programa municipal Eivissa Crea; facturación investigada y reintegro
   administrativo del SOIB separados, con desenlace penal no verificado.
 lugar: Ibiza (Eivissa), Islas Baleares
@@ -121,13 +115,3 @@ cronologia:
   type: investigacion
   relevancia: alta
 ---
-
-Eivissa Crea fue presentado como un programa para favorecer la creación de empresas, impulsado en 2004. La información de 2018 vinculó a Serviconsult con el diseño del proyecto y a Mentor Qualitat con Molina y Serra Mayans. El relato de la denuncia y de la facturación requiere distinguir lo contratado, lo efectivamente prestado y cualquier perjuicio: la cifra publicada de 566.000 euros no acredita por sí sola apropiación o malversación de toda esa cantidad. Tampoco la descripción de un objeto social permite concluir sin más que un contrato fuera delictivo.
-
-Las noticias sitúan el origen de la causa en una denuncia anónima de 2009, el archivo provisional en junio de 2014 y la reapertura en 2015. No se fijan días exactos que no están respaldados por los autos. La noticia de 2018 explica que la Audiencia reclamó diligencias pendientes, incluido un informe policial solicitado por la Fiscalía. La Fiscalía no es el órgano que acuerda el archivo judicial ni su petición equivale a una absolución.
-
-La resolución administrativa del SOIB se refiere a otra relación de subvención: una ayuda máxima de 33.000 euros concedida a Serviconsult en septiembre de 2010. El total a pagar de 27.133,14 euros combina capital e intereses; la revocación de 32.979,60 euros incluye además pérdida del derecho a cobrar cantidades no abonadas. No se suman entre sí esas cifras como daños independientes. El documento permite reposición o recurso contencioso-administrativo y no acredita si se interpusieron, si se pagó o cómo terminó un eventual litigio.
-
-La pieza del alquiler de un local para la Iglesia Evangélica Filadelfia se describe separadamente en la ficha correspondiente. Enrique Sánchez y Vicent Ferrer fueron citados en las noticias sobre esa rama, pero no se les atribuyen aquí resultados de la contratación empresarial. La información partidista de 2018 sobre su supuesto cierre y la noticia de 2023 que habla de diligencias no pueden conciliarse sin los autos: no se considera probado ni un cierre definitivo ni una investigación vigente por esa sola combinación de fuentes. Tampoco se completa el nombre del pastor con apellidos no contrastados.
-
-Hasta disponer de resoluciones posteriores, no se afirma la celebración o inexistencia de juicio, la existencia o inexistencia de condenas ni la continuidad de las investigaciones al corte. Las lagunas afectan tanto al estado global como al recorrido individual de los investigados.

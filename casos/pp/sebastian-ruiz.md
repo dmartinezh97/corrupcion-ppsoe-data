@@ -8,31 +8,24 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas modificadas en casación
-descripcion: 'El procedimiento se refiere a la contratación en 2014 de la hija del interventor accidental de Arcos
-  de la Frontera a cambio de cambiar el sentido de informes sobre nuevas obras e inversiones. La Audiencia Provincial
-  de Cádiz, Sección Octava con sede en Jerez, dictó la sentencia 221/2019 el 24 de junio de 2019. No fue una sentencia
-  de un juzgado de lo penal del 4 de julio: esa es la fecha de una noticia que difundió las condenas.
+descripcion: |-
+  El procedimiento se refiere a la contratación en 2014 de la hija del interventor accidental de Arcos de la Frontera a cambio de cambiar el sentido de informes sobre nuevas obras e inversiones. La Audiencia Provincial de Cádiz, Sección Octava con sede en Jerez, dictó la sentencia 221/2019 el 24 de junio de 2019. No fue una sentencia de un juzgado de lo penal del 4 de julio: esa es la fecha de una noticia que difundió las condenas.
 
+  El Tribunal Supremo resolvió la casación mediante sentencia 877/2022, de 8 de noviembre. Se mantuvieron para Sebastián Ruiz, Manuel Erdozain y el interventor Antonio Muñoz las condenas de dos años de prisión por cohecho, multa de doce meses a seis euros diarios e inhabilitación de tres años por ese delito, además de ocho años y seis meses de inhabilitación por prevaricación en la contratación. Carlos de la Barrera quedó absuelto de cohecho, manteniéndose su condena de ocho años y seis meses de inhabilitación por prevaricación. Los cuatro habían sido absueltos de la otra prevaricación imputada, relativa a los informes: no se acreditó que el cambio de informe fuera ilegítimo o contrario a la ley.
 
-  El Tribunal Supremo resolvió la casación mediante sentencia 877/2022, de 8 de noviembre. Se mantuvieron para Sebastián
-  Ruiz, Manuel Erdozain y el interventor Antonio Muñoz las condenas de dos años de prisión por cohecho, multa de
-  doce meses a seis euros diarios e inhabilitación de tres años por ese delito, además de ocho años y seis meses
-  de inhabilitación por prevaricación en la contratación. Carlos de la Barrera quedó absuelto de cohecho, manteniéndose
-  su condena de ocho años y seis meses de inhabilitación por prevaricación. Los cuatro habían sido absueltos de
-  la otra prevaricación imputada, relativa a los informes: no se acreditó que el cambio de informe fuera ilegítimo
-  o contrario a la ley.
+  El Supremo dejó sin efecto el decomiso solidario de 12.755,15 euros, importe de los salarios percibidos por la contratada, que no había sido parte en el procedimiento. Esa cantidad no se presenta como una indemnización definitiva ni como daño cero. Un auto de 12 de abril de 2023 desestimó un incidente de nulidad en el mismo recurso y se declaró firme; también se refiere expresamente a la sentencia de casación como firme. No alteró los pronunciamientos anteriores.
 
+  Faltan las resoluciones de ejecución, posible suspensión o cumplimiento de las penas y su evolución hasta el 17 de octubre de 2026. Las penas de inhabilitación se describen por delito, sin convertirlas en una liquidación de condena. La sentencia publicada en marzo de 2025 sobre otras contrataciones municipales y otros procedimientos de Arcos son distintos: sus resultados no se trasladan a este caso.
 
-  El Supremo dejó sin efecto el decomiso solidario de 12.755,15 euros, importe de los salarios percibidos por la
-  contratada, que no había sido parte en el procedimiento. Esa cantidad no se presenta como una indemnización definitiva
-  ni como daño cero. Un auto de 12 de abril de 2023 desestimó un incidente de nulidad en el mismo recurso y se declaró
-  firme; también se refiere expresamente a la sentencia de casación como firme. No alteró los pronunciamientos anteriores.
+  La [sentencia de la Audiencia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=029c290e74e963e6&encode=true&databasematch=AN) distingue dos objetos: el cambio de informes no se consideró una resolución prevaricadora, pero la contratación sin el procedimiento de selección exigible sí fundamentó la condena por prevaricación. El cohecho no requiere que la actuación retribuida sea por sí misma delictiva: aquí se vinculó un empleo para la hija del interventor con una actuación concreta de su cargo.
 
+  La [casación de 2022](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=7128fee4c2e6829da0a8778d75e36f0d&encode=true&databasematch=AN) mantiene las condenas de Ruiz, Erdozain y Muñoz y absuelve a De la Barrera de cohecho. Las inhabilitaciones son de ocho años y seis meses por prevaricación y, para los tres condenados por cohecho, otros tres años por este delito. Las referencias periodísticas a once años o únicamente ocho años y medio no sustituyen ese desglose. No se calcula a partir de él una fecha de cumplimiento o rehabilitación.
 
-  Faltan las resoluciones de ejecución, posible suspensión o cumplimiento de las penas y su evolución hasta el 17
-  de octubre de 2026. Las penas de inhabilitación se describen por delito, sin convertirlas en una liquidación de
-  condena. La sentencia publicada en marzo de 2025 sobre otras contrataciones municipales y otros procedimientos
-  de Arcos son distintos: sus resultados no se trasladan a este caso.'
+  El salario de 12.755,15 euros no es una multa ni una indemnización: fue el importe de un decomiso solidario inicial que el Supremo anuló porque lo había percibido una tercera persona ajena al proceso, sin poder desplazar su carga a los condenados. La posible responsabilidad contable mencionada por el tribunal no es una condena contable acreditada. Los presupuestos de las obras y el remanente negativo municipal tampoco se agregan como perjuicio de este caso.
+
+  El [auto de abril de 2023](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ad4861a9d84f83f8a0a8778d75e36f0d&encode=true&databasematch=AN) desestima un incidente de nulidad y no cambia la condena. Su firmeza expresa no acredita la ejecución de las penas. La [noticia de marzo de 2025](https://www.diariodecadiz.es/noticias-provincia-cadiz/condenado-exalcalde-arcos-jose-luis-nunez-pp-enchufismo_0_2003523887.amp.html) se refiere a un proceso separado sobre otras contrataciones, con personas y penas propias. Tampoco se traslada a esta causa el resultado de procedimientos sobre gasoil u otras actuaciones municipales.
+
+  La [ficha oficial del Senado](https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=10&id1=15296) documenta la baja de Ruiz por disolución el 26 de octubre de 2015. La [información de noviembre de 2017](https://www.andaluciainformacion.es/articulo/arcos/fiscalia-pide-prision-para-ruiz-erdozain-de-la-barrera-y-munoz/201711061029471920388.html) describe su sustitución como cargo de confianza de la Subdelegación antes de la condena de 2019; no una contratación posterior a ella. Quedan sin documentar en este procedimiento las decisiones sobre suspensión, ingreso o cumplimiento de las penas a la fecha indicada.
 resumen: 'Contratación de la hija del interventor a cambio de informes: condenas por cohecho y prevaricación, absolución
   parcial de De la Barrera y decomiso anulado en casación.'
 lugar: Arcos de la Frontera, Cádiz, Andalucía
@@ -157,13 +150,3 @@ cronologia:
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ad4861a9d84f83f8a0a8778d75e36f0d&encode=true&databasematch=AN
 ---
-
-La [sentencia de la Audiencia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=029c290e74e963e6&encode=true&databasematch=AN) distingue dos objetos: el cambio de informes no se consideró una resolución prevaricadora, pero la contratación sin el procedimiento de selección exigible sí fundamentó la condena por prevaricación. El cohecho no requiere que la actuación retribuida sea por sí misma delictiva: aquí se vinculó un empleo para la hija del interventor con una actuación concreta de su cargo.
-
-La [casación de 2022](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=7128fee4c2e6829da0a8778d75e36f0d&encode=true&databasematch=AN) mantiene las condenas de Ruiz, Erdozain y Muñoz y absuelve a De la Barrera de cohecho. Las inhabilitaciones son de ocho años y seis meses por prevaricación y, para los tres condenados por cohecho, otros tres años por este delito. Las referencias periodísticas a once años o únicamente ocho años y medio no sustituyen ese desglose. No se calcula a partir de él una fecha de cumplimiento o rehabilitación.
-
-El salario de 12.755,15 euros no es una multa ni una indemnización: fue el importe de un decomiso solidario inicial que el Supremo anuló porque lo había percibido una tercera persona ajena al proceso, sin poder desplazar su carga a los condenados. La posible responsabilidad contable mencionada por el tribunal no es una condena contable acreditada. Los presupuestos de las obras y el remanente negativo municipal tampoco se agregan como perjuicio de este caso.
-
-El [auto de abril de 2023](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=ad4861a9d84f83f8a0a8778d75e36f0d&encode=true&databasematch=AN) desestima un incidente de nulidad y no cambia la condena. Su firmeza expresa no acredita la ejecución de las penas. La [noticia de marzo de 2025](https://www.diariodecadiz.es/noticias-provincia-cadiz/condenado-exalcalde-arcos-jose-luis-nunez-pp-enchufismo_0_2003523887.amp.html) se refiere a un proceso separado sobre otras contrataciones, con personas y penas propias. Tampoco se traslada a esta causa el resultado de procedimientos sobre gasoil u otras actuaciones municipales.
-
-La [ficha oficial del Senado](https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?legis=10&id1=15296) documenta la baja de Ruiz por disolución el 26 de octubre de 2015. La [información de noviembre de 2017](https://www.andaluciainformacion.es/articulo/arcos/fiscalia-pide-prision-para-ruiz-erdozain-de-la-barrera-y-munoz/201711061029471920388.html) describe su sustitución como cargo de confianza de la Subdelegación antes de la condena de 2019; no una contratación posterior a ella. Quedan sin documentar en este procedimiento las decisiones sobre suspensión, ingreso o cumplimiento de las penas a la fecha indicada.

@@ -10,31 +10,20 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Dos absoluciones y tres exclusiones previas al juicio
 lugar: Sevilla, Andalucía
-descripcion: 'Esta pieza de los ERE examinó la ayuda de 1.524.718,97 euros de la Junta de Andalucía para financiar
-  parte de las prejubilaciones de 36 trabajadores de Siemens Metering. La empresa asumió otra aportación de 2.939.043
-  euros. Son conceptos distintos: el volumen de ayuda, la aportación empresarial y la responsabilidad civil solicitada
-  por las acusaciones no se convierten en un daño declarado ni se suman entre sí.
+descripcion: |-
+  Esta pieza de los ERE examinó la ayuda de 1.524.718,97 euros de la Junta de Andalucía para financiar parte de las prejubilaciones de 36 trabajadores de Siemens Metering. La empresa asumió otra aportación de 2.939.043 euros. Son conceptos distintos: el volumen de ayuda, la aportación empresarial y la responsabilidad civil solicitada por las acusaciones no se convierten en un daño declarado ni se suman entre sí.
 
+  El auto de 8 de octubre de 2021 continuó el procedimiento abreviado contra cinco investigados. Al resolver sus recursos, la Sección Séptima de la Audiencia de Sevilla dejó fuera del procedimiento al representante del comité de empresa y a los dos directivos de Siemens. La sentencia posterior recoge esa exclusión y explica que no cabía presumir su conocimiento de las irregularidades administrativas por negociar el ERE. La página 6 de la sentencia identifica ese auto como de 22 de enero de 2025. Falta el auto original para comprobar su contenido íntegro, modalidad de archivo y firmeza individual; no se les mantiene como investigados actuales por el mero listado de 2021.
 
-  El auto de 8 de octubre de 2021 continuó el procedimiento abreviado contra cinco investigados. Al resolver sus
-  recursos, la Sección Séptima de la Audiencia de Sevilla dejó fuera del procedimiento al representante del comité
-  de empresa y a los dos directivos de Siemens. La sentencia posterior recoge esa exclusión y explica que no cabía
-  presumir su conocimiento de las irregularidades administrativas por negociar el ERE. La página 6 de la sentencia identifica ese auto como de 22 de enero de 2025. Falta el auto original para
-  comprobar su contenido íntegro, modalidad de archivo y firmeza individual; no se les mantiene como investigados actuales
-  por el mero listado de 2021.
+  Solo dos empleados de Vitalia llegaron al juicio resuelto por la sentencia 276/2025 de la Sección Primera, de 8 de septiembre, notificada el día 11: fueron absueltos de prevaricación y malversación por insuficiencia de prueba sobre su cooperación. Las acusaciones habían pedido tres años de prisión y responsabilidad civil por la ayuda, pero no obtuvieron esa condena. Al inicio del juicio retiraron la acusación relativa a una factura de 67.744 euros por considerar aplicable la prescripción; esa factura no se agrega a un supuesto coste total.
 
+  La sentencia admitía apelación ante el TSJA. No se ha acreditado aquí su firmeza ni un recurso o resolución posteriores a 17 de octubre de 2026. Los efectos de los pronunciamientos constitucionales se describen según esta sentencia concreta, sin extender a todos los investigados los resultados de otras piezas ni presentar la absolución de dos personas como una declaración general sobre todas las ayudas.
 
-  Solo dos empleados de Vitalia llegaron al juicio resuelto por la sentencia 276/2025 de la Sección Primera, de
-  8 de septiembre, notificada el día 11: fueron absueltos de prevaricación y malversación por insuficiencia de prueba
-  sobre su cooperación. Las acusaciones habían pedido tres años de prisión y responsabilidad civil por la ayuda,
-  pero no obtuvieron esa condena. Al inicio del juicio retiraron la acusación relativa a una factura de 67.744 euros
-  por considerar aplicable la prescripción; esa factura no se agrega a un supuesto coste total.
+  La [sentencia original 276/2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=21d4a371e85bd515a0a8778d75e36f0d&encode=true&databasematch=AN) permite separar los hechos probados de las hipótesis de investigación recogidas en la [nota del CGPJ de octubre de 2021](https://www.poderjudicial.es/cgpj/eu/Botere-Judiziala/Berriak/El-juez-del-caso-ERE-continua-el-procedimiento-contra-cinco-investigados-en-una-pieza-separada-por-las-ayudas-de-1-5-millones-a-la-empresa-Siemens-Metering). Los antecedentes identifican el atestado de 5 de abril de 2017. Tampoco se mantienen como daño probado las cifras atribuidas a sobrecomisiones sin el correspondiente pronunciamiento.
 
+  La sentencia reseña que la Sección Séptima, en el rollo 11229/2021, excluyó a los dos directivos y al representante sindical antes del juicio. La página 6 de la sentencia posterior fecha ese auto el 22 de enero de 2025; no se dispone del auto por separado. Solo continuó el enjuiciamiento de los dos empleados de Vitalia. Todas las acusaciones retiraron la imputación sobre la factura de 67.744 euros por prescripción; el fallo absolutorio restante se fundamenta en la insuficiente prueba de cooperación en la concesión de la ayuda. Son decisiones de alcance distinto y no un archivo indiscriminado de todos los ERE.
 
-  La sentencia admitía apelación ante el TSJA. No se ha acreditado aquí su firmeza ni un recurso o resolución posteriores
-  a 17 de octubre de 2026. Los efectos de los pronunciamientos constitucionales se describen según esta sentencia
-  concreta, sin extender a todos los investigados los resultados de otras piezas ni presentar la absolución de dos
-  personas como una declaración general sobre todas las ayudas.'
+  Los nombres de los investigados aparecen en la [crónica de 2021](https://www.esdiario.com/andalucia/211014/87476/psoe-andalucia-corrupcion-eres-juicios.html) y los de los dos absueltos en [Diario de Sevilla](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/audiencia-sevilla-absuelve-mediadores-vitalia-ere-siemens_0_2004739795.html); no se reconstruyen correspondencias entre personas y seudónimos del documento judicial. El [CGPJ de septiembre de 2025](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-de-Sevilla-absuelve-a-los-dos-acusados-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-a-la-empresa-Siemens-Metering) confirma el resultado y la posibilidad de recurrir. Se mantienen pendientes el auto de exclusión y la firmeza de los pronunciamientos; no se atribuyen resultados actuales a antiguos altos cargos de otras piezas.
 resumen: Dos empleados de Vitalia absueltos en septiembre de 2025; dos directivos de Siemens y el representante
   sindical habían sido excluidos antes del juicio. Firmeza posterior no acreditada.
 tribunal:
@@ -150,9 +139,3 @@ cronologia:
   - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-de-Sevilla-absuelve-a-los-dos-acusados-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-a-la-empresa-Siemens-Metering
   - https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/audiencia-sevilla-absuelve-mediadores-vitalia-ere-siemens_0_2004739795.html
 ---
-
-La [sentencia original 276/2025](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=21d4a371e85bd515a0a8778d75e36f0d&encode=true&databasematch=AN) permite separar los hechos probados de las hipótesis de investigación recogidas en la [nota del CGPJ de octubre de 2021](https://www.poderjudicial.es/cgpj/eu/Botere-Judiziala/Berriak/El-juez-del-caso-ERE-continua-el-procedimiento-contra-cinco-investigados-en-una-pieza-separada-por-las-ayudas-de-1-5-millones-a-la-empresa-Siemens-Metering). Los antecedentes identifican el atestado de 5 de abril de 2017. Tampoco se mantienen como daño probado las cifras atribuidas a sobrecomisiones sin el correspondiente pronunciamiento.
-
-La sentencia reseña que la Sección Séptima, en el rollo 11229/2021, excluyó a los dos directivos y al representante sindical antes del juicio. La página 6 de la sentencia posterior fecha ese auto el 22 de enero de 2025; no se dispone del auto por separado. Solo continuó el enjuiciamiento de los dos empleados de Vitalia. Todas las acusaciones retiraron la imputación sobre la factura de 67.744 euros por prescripción; el fallo absolutorio restante se fundamenta en la insuficiente prueba de cooperación en la concesión de la ayuda. Son decisiones de alcance distinto y no un archivo indiscriminado de todos los ERE.
-
-Los nombres de los investigados aparecen en la [crónica de 2021](https://www.esdiario.com/andalucia/211014/87476/psoe-andalucia-corrupcion-eres-juicios.html) y los de los dos absueltos en [Diario de Sevilla](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/audiencia-sevilla-absuelve-mediadores-vitalia-ere-siemens_0_2004739795.html); no se reconstruyen correspondencias entre personas y seudónimos del documento judicial. El [CGPJ de septiembre de 2025](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Andalucia--Ceuta-y-Melilla/Oficina-de-Comunicacion/Notas-de-prensa/La-Audiencia-de-Sevilla-absuelve-a-los-dos-acusados-en-una-pieza-separada-del-caso-ERE-por-las-ayudas-a-la-empresa-Siemens-Metering) confirma el resultado y la posibilidad de recurrir. Se mantienen pendientes el auto de exclusión y la firmeza de los pronunciamientos; no se atribuyen resultados actuales a antiguos altos cargos de otras piezas.

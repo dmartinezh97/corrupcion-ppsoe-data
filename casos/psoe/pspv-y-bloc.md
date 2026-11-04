@@ -8,12 +8,20 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Archivos en las piezas derivadas; recursos y responsabilidad contable pendientes de verificar
-descripcion: Investigación sobre posibles pagos de campañas electorales del PSPV y Bloc a través de Crespo Gomar, de la que
-  derivaron procedimientos sobre contratos o subvenciones en Madrid, Gandia y Benidorm. Las fuentes de 2018-2019 documentan
-  archivos, varios expresamente provisionales. El auto de Vivienda de 13 de junio de 2019 acuerda sobreseimiento provisional
-  y remisión al Tribunal de Cuentas, sin firmeza entonces. No se presenta la hipótesis policial como financiación ilegal judicialmente
-  probada ni se atribuye condición de investigado penal a dirigentes por comparecer en comisiones parlamentarias. Faltan resoluciones
-  de recursos y seguimiento contable hasta el 17 de octubre de 2026.
+descripcion: |-
+  Investigación sobre posibles pagos de campañas electorales del PSPV y Bloc a través de Crespo Gomar, de la que derivaron procedimientos sobre contratos o subvenciones en Madrid, Gandia y Benidorm. Las fuentes de 2018-2019 documentan archivos, varios expresamente provisionales. El auto de Vivienda de 13 de junio de 2019 acuerda sobreseimiento provisional y remisión al Tribunal de Cuentas, sin firmeza entonces. No se presenta la hipótesis policial como financiación ilegal judicialmente probada ni se atribuye condición de investigado penal a dirigentes por comparecer en comisiones parlamentarias. Faltan resoluciones de recursos y seguimiento contable hasta el 17 de octubre de 2026.
+
+  La [información sobre el informe policial de 2016](https://www.eldiario.es/comunitat-valenciana/acreditada-financiacion-pspv-bloc-prescripcion_1_2123525.html) describe una hipótesis: terceros habrían pagado servicios electorales prestados por Crespo Gomar. Las conclusiones de la UDEF, los argumentos de las acusaciones y las declaraciones políticas no son un fallo condenatorio. La noticia sitúa la denuncia y la entrega de documentación a la Policía en noviembre de 2016, no permite fijarla el 1 de junio. Tampoco se fija un día artificial de diciembre para la apertura judicial.
+
+  El archivo inicial por posible delito electoral y la inhibición territorial dieron paso a investigaciones sobre hechos concretos. No se afirma que las cuatro piezas juzgaran directamente a los partidos como personas jurídicas. Falta contrastar el auto inicial completo y precisar qué pronunciamientos se basaron en prescripción y cuáles en ausencia de indicios. La prescripción de un delito hipotético no demuestra que se cometiera.
+
+  La pieza de Sanidad tuvo un archivo provisional en julio de 2018 y una [resolución que lo mantuvo al rechazar el recurso del PP](https://www.elmundo.es/comunidad-valenciana/2018/11/21/5bf51f62268e3ec97a8b4629.html) el 15 de noviembre. Esta última aún admitía apelación. En [Gandia](https://cadenaser.com/emisora/2019/03/27/radio_valencia/1553700838_105499.html), el juzgado citado por la crónica del archivo es el número 3, y en [Benidorm](https://alicanteplaza.es/alicanteplaza/la-juez-de-benidorm-no-ve-anomalias-en-la-adjudicacion-de-los-opinometros-a-la-firma-de-gomar) el número 1. Se conservan los archivos conocidos sin convertirlos en sentencias absolutorias ni afirmar su firmeza actual.
+
+  El [auto original de Vivienda](https://static.ecestaticos.com/file/296/90b/022/29690b02213551f2e241906347aa7e25.pdf) es del 13 de junio de 2019, no del 14, fecha de las noticias. Su parte dispositiva archiva provisionalmente y ordena deducir testimonio al Tribunal de Cuentas; no acredita el resultado de esa vía contable. El fundamento tercero recoge 126.208 euros transferidos por el contrato. No son daño judicialmente declarado. Tampoco se suman a los importes de campañas, subvenciones o contratos de las otras piezas, ni se consigna coste cero como si probara ausencia de daño.
+
+  Los diarios oficiales del Senado de [11 de mayo](https://www.senado.es/legis12/publicaciones/pdf/senado/ds/DS_C_12_279.PDF) y [18 de mayo de 2018](https://www.senado.es/legis12/publicaciones/pdf/senado/ds/DS_C_12_283.PDF) documentan comparecencias de Enric Morera, José Cataluña y Joan Ignasi Pla y el debate sobre los informes y autos. Ser compareciente parlamentario, dirigente de un partido o aparecer en un correo no acredita por sí solo ser investigado penal. El episodio de la vivienda de Pla de 2007 es ajeno al objeto de estas piezas.
+
+  No se trasladan a esta ficha sujetos, imputaciones, importes o desenlaces de Azud por coincidencias de nombres, empresas o años. Quedan pendientes los autos originales de las otras piezas, todos los recursos, la situación contable y las resoluciones posteriores hasta el 17 de octubre de 2026.
 resumen: Investigación de financiación electoral y cuatro procedimientos derivados, con archivos diferenciados y alcance posterior
   pendiente de verificar.
 lugar: Comunitat Valenciana y Madrid
@@ -110,15 +118,3 @@ cronologia:
   - https://static.ecestaticos.com/file/296/90b/022/29690b02213551f2e241906347aa7e25.pdf
   type: resumen
 ---
-
-La [información sobre el informe policial de 2016](https://www.eldiario.es/comunitat-valenciana/acreditada-financiacion-pspv-bloc-prescripcion_1_2123525.html) describe una hipótesis: terceros habrían pagado servicios electorales prestados por Crespo Gomar. Las conclusiones de la UDEF, los argumentos de las acusaciones y las declaraciones políticas no son un fallo condenatorio. La noticia sitúa la denuncia y la entrega de documentación a la Policía en noviembre de 2016, no permite fijarla el 1 de junio. Tampoco se fija un día artificial de diciembre para la apertura judicial.
-
-El archivo inicial por posible delito electoral y la inhibición territorial dieron paso a investigaciones sobre hechos concretos. No se afirma que las cuatro piezas juzgaran directamente a los partidos como personas jurídicas. Falta contrastar el auto inicial completo y precisar qué pronunciamientos se basaron en prescripción y cuáles en ausencia de indicios. La prescripción de un delito hipotético no demuestra que se cometiera.
-
-La pieza de Sanidad tuvo un archivo provisional en julio de 2018 y una [resolución que lo mantuvo al rechazar el recurso del PP](https://www.elmundo.es/comunidad-valenciana/2018/11/21/5bf51f62268e3ec97a8b4629.html) el 15 de noviembre. Esta última aún admitía apelación. En [Gandia](https://cadenaser.com/emisora/2019/03/27/radio_valencia/1553700838_105499.html), el juzgado citado por la crónica del archivo es el número 3, y en [Benidorm](https://alicanteplaza.es/alicanteplaza/la-juez-de-benidorm-no-ve-anomalias-en-la-adjudicacion-de-los-opinometros-a-la-firma-de-gomar) el número 1. Se conservan los archivos conocidos sin convertirlos en sentencias absolutorias ni afirmar su firmeza actual.
-
-El [auto original de Vivienda](https://static.ecestaticos.com/file/296/90b/022/29690b02213551f2e241906347aa7e25.pdf) es del 13 de junio de 2019, no del 14, fecha de las noticias. Su parte dispositiva archiva provisionalmente y ordena deducir testimonio al Tribunal de Cuentas; no acredita el resultado de esa vía contable. El fundamento tercero recoge 126.208 euros transferidos por el contrato. No son daño judicialmente declarado. Tampoco se suman a los importes de campañas, subvenciones o contratos de las otras piezas, ni se consigna coste cero como si probara ausencia de daño.
-
-Los diarios oficiales del Senado de [11 de mayo](https://www.senado.es/legis12/publicaciones/pdf/senado/ds/DS_C_12_279.PDF) y [18 de mayo de 2018](https://www.senado.es/legis12/publicaciones/pdf/senado/ds/DS_C_12_283.PDF) documentan comparecencias de Enric Morera, José Cataluña y Joan Ignasi Pla y el debate sobre los informes y autos. Ser compareciente parlamentario, dirigente de un partido o aparecer en un correo no acredita por sí solo ser investigado penal. El episodio de la vivienda de Pla de 2007 es ajeno al objeto de estas piezas.
-
-No se trasladan a esta ficha sujetos, imputaciones, importes o desenlaces de Azud por coincidencias de nombres, empresas o años. Quedan pendientes los autos originales de las otras piezas, todos los recursos, la situación contable y las resoluciones posteriores hasta el 17 de octubre de 2026.

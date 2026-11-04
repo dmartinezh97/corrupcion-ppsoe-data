@@ -9,75 +9,48 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "desconocido"
-descripcion: >-
-  El Caso EMVS se refiere a la venta de 1.860 viviendas de protección pública —junto con 1.797 plazas de
-  garaje, 1.569 trasteros y 89 inmuebles no vinculados, 5.315 inmuebles en total— de la Empresa Municipal de
-  la Vivienda y Suelo (EMVS) del Ayuntamiento de Madrid a sociedades del fondo Blackstone (Fidere Gestión y
-  Fidere Vivienda), acordada bajo el mandato de la alcaldesa Ana Botella (PP). El anuncio público de la
-  enajenación se publicó el 3 de mayo de 2013 (ofertando 1.862 viviendas como un todo unitario) y la escritura
-  pública de compraventa se formalizó el 31 de octubre de 2013 por 128,5 millones de euros. La Cámara de
-  Cuentas de la Comunidad de Madrid cifró el valor máximo de venta de las 18 promociones como viviendas
-  protegidas en 151.211.518 euros y su valor neto contable en 159.375.025 euros. La sentencia 11/2018 describe
-  dos facturas de la UTE Itaca Desarrollos Urbanos-Promociones y Desarrollos Creaziona, de 1.196.387,50 euros
-  cada una (10-12-2013 y 31-01-2014), que suman 2.392.775 euros; el informe de la Cámara de Cuentas consigna,
-  en cambio, 2.397.775 euros como importe global. No se han recuperado las facturas originales para conciliar
-  esta discrepancia. La sentencia 11/2018 no consideró acreditada la intervención de la UTE, ya que Blackstone
-  trató directamente con la EMVS.
+descripcion: |-
+  El Caso EMVS se refiere a la venta de 1.860 viviendas de protección pública —junto con 1.797 plazas de garaje, 1.569 trasteros y 89 inmuebles no vinculados, 5.315 inmuebles en total— de la Empresa Municipal de la Vivienda y Suelo (EMVS) del Ayuntamiento de Madrid a sociedades del fondo Blackstone (Fidere Gestión y Fidere Vivienda), acordada bajo el mandato de la alcaldesa Ana Botella (PP). El anuncio público de la enajenación se publicó el 3 de mayo de 2013 (ofertando 1.862 viviendas como un todo unitario) y la escritura pública de compraventa se formalizó el 31 de octubre de 2013 por 128,5 millones de euros. La Cámara de Cuentas de la Comunidad de Madrid cifró el valor máximo de venta de las 18 promociones como viviendas protegidas en 151.211.518 euros y su valor neto contable en 159.375.025 euros. La sentencia 11/2018 describe dos facturas de la UTE Itaca Desarrollos Urbanos-Promociones y Desarrollos Creaziona, de 1.196.387,50 euros cada una (10-12-2013 y 31-01-2014), que suman 2.392.775 euros; el informe de la Cámara de Cuentas consigna, en cambio, 2.397.775 euros como importe global. No se han recuperado las facturas originales para conciliar esta discrepancia. La sentencia 11/2018 no consideró acreditada la intervención de la UTE, ya que Blackstone trató directamente con la EMVS.
 
+  El eje de la ficha es la vía contable. La sentencia 11/2018, de 27 de diciembre, del Departamento Primero de Enjuiciamiento del Tribunal de Cuentas estimó parcialmente la demanda de la EMVS: cifró los perjuicios ocasionados en los fondos públicos en 25.752.103,63 euros; declaró responsable contable directo por la totalidad a Fermín Oslé Uranga y, solidariamente con él, a Ana Botella y a seis concejales de su equipo (María Concepción Dancausa Treviño, José Enrique Núñez Guijarro, Diego Sanjuanbenito Bonal, María de la Paz González García, María Dolores Navarro Ruiz y Pedro María Corral Corral) hasta 22.711.518 euros, respondiendo Oslé y no los restantes de los 3.040.585,63 euros que completaban el alcance. La sentencia 13/2019, de 17 de julio de 2019, de la Sala de Justicia del Tribunal de Cuentas estimó la falta de legitimación pasiva de los miembros de la Junta de Gobierno, estimó los recursos de los demandados y revocó la 11/2018, desestimando íntegramente la demanda por inexistencia de un perjuicio real, efectivo y evaluable, sin imposición de costas. Las cifras de 22.711.518 y 25.752.103,63 euros son, por tanto, el alcance histórico fijado en una sentencia posteriormente revocada: no constituyen un daño judicial actual ni una responsabilidad exigible. La sentencia 13/2019 incorporó como prueba el auto de archivo penal de 23 de enero de 2019 del Juzgado de Instrucción nº 38 (revocado después por el auto 409/2019 de la Audiencia Provincial, de 27 de mayo de 2019). El Tribunal Supremo (Sala de lo Contencioso-Administrativo) inadmitió en 2020, por falta de legitimación, la queja de la concejala socialista Mercedes González contra el auto del Tribunal de Cuentas de 11-12-2019; fue una inadmisión, sin pronunciamiento de fondo, y no consta documento de firmeza formal de la absolución contable.
 
-  El eje de la ficha es la vía contable. La sentencia 11/2018, de 27 de diciembre, del Departamento Primero de
-  Enjuiciamiento del Tribunal de Cuentas estimó parcialmente la demanda de la EMVS: cifró los perjuicios
-  ocasionados en los fondos públicos en 25.752.103,63 euros; declaró responsable contable directo por la
-  totalidad a Fermín Oslé Uranga y, solidariamente con él, a Ana Botella y a seis concejales de su equipo
-  (María Concepción Dancausa Treviño, José Enrique Núñez Guijarro, Diego Sanjuanbenito Bonal, María de la Paz
-  González García, María Dolores Navarro Ruiz y Pedro María Corral Corral) hasta 22.711.518 euros,
-  respondiendo Oslé y no los restantes de los 3.040.585,63 euros que completaban el alcance. La sentencia
-  13/2019, de 17 de julio de 2019, de la Sala de Justicia del Tribunal de Cuentas estimó la falta de
-  legitimación pasiva de los miembros de la Junta de Gobierno, estimó los recursos de los demandados y revocó
-  la 11/2018, desestimando íntegramente la demanda por inexistencia de un perjuicio real, efectivo y
-  evaluable, sin imposición de costas. Las cifras de 22.711.518 y 25.752.103,63 euros son, por tanto, el
-  alcance histórico fijado en una sentencia posteriormente revocada: no constituyen un daño judicial actual ni
-  una responsabilidad exigible. La sentencia 13/2019 incorporó como prueba el auto de archivo penal de 23 de
-  enero de 2019 del Juzgado de Instrucción nº 38 (revocado después por el auto 409/2019 de la Audiencia
-  Provincial, de 27 de mayo de 2019). El Tribunal Supremo (Sala de lo Contencioso-Administrativo) inadmitió en
-  2020, por falta de legitimación, la queja de la concejala socialista Mercedes González contra el auto del
-  Tribunal de Cuentas de 11-12-2019; fue una inadmisión, sin pronunciamiento de fondo, y no consta documento
-  de firmeza formal de la absolución contable.
+  La vía penal se siguió por separado contra Fermín Oslé Uranga y el apoderado de Fidere Alfonso Benavides Grases (instrucción del Juzgado de Instrucción nº 38 y recursos ante la Sección 30 de la Audiencia Provincial de Madrid). La Audiencia Provincial de Madrid dictó sentencia absolutoria fechada el 28 de enero de 2022 y conocida el 8 de febrero de 2022; no consta su firmeza formal ni si fue recurrida. Ana Botella y los concejales no fueron acusados en esta vía. Se detalla en la ficha "Caso EMVS II" (/casos/pp/emvs-ii/).
 
+  En paralelo, varios centenares de inquilinos litigaron su derecho de retracto arrendaticio frente a Fidere. El Tribunal Supremo lo reconoció para cuatro inquilinos en la STS 1597/2024, de 28 de noviembre (ECLI:ES:TS:2024:5831), al no acreditarse que la venta comprendiera todas las unidades del edificio (no se transmitieron 44 plazas de garaje), y lo denegó para un grupo de unas 40 familias en la STS 592/2025, de 21 de abril (ECLI:ES:TS:2025:1711), al tratarse de una venta en bloque de todas las unidades de las que la EMVS era titular en cada edificio. Ambos fallos aplican el artículo 25.7 de la Ley de Arrendamientos Urbanos y responden a supuestos fácticos distintos. Los litigios civiles documentados llegan hasta 2025; no consta resultado posterior, lo que no acredita ni su cierre ni su continuidad.
 
-  La vía penal se siguió por separado contra Fermín Oslé Uranga y el apoderado de Fidere Alfonso Benavides
-  Grases (instrucción del Juzgado de Instrucción nº 38 y recursos ante la Sección 30 de la Audiencia
-  Provincial de Madrid). La Audiencia Provincial de Madrid dictó sentencia absolutoria fechada el 28 de enero
-  de 2022 y conocida el 8 de febrero de 2022; no consta su firmeza formal ni si fue recurrida. Ana Botella y
-  los concejales no fueron acusados en esta vía. Se detalla en la ficha "Caso EMVS II" (/casos/pp/emvs-ii/).
+  Fidere comunicó oficialmente a BME Growth que el 30 de marzo de 2026 suscribió con sociedades controladas por fondos gestionados por Brookfield un contrato para transmitir el 100% del capital de sus filiales operativas, propietarias de los inmuebles del grupo. La valoración inmobiliaria de referencia fue de 1.050 millones de euros, sujeta a ajustes y a deducir un endeudamiento estimado de unos 425 millones. El 30 de abril de 2026 comunicó que la operación ya se había consumado. La comunicación no precisa por separado el día exacto del cierre, por lo que se fecha el anuncio de consumación y no se confunde con la firma del contrato.
 
+  Límites: no consta la firmeza formal de la sentencia penal de 2022; las cifras del Tribunal de Cuentas proceden de una sentencia revocada y no deben presentarse como daño actual; el perjuicio varía según la fuente (22,7 millones de la partida de las 18 promociones, 25,75 millones de alcance total, hasta unos 31 millones según la Cámara de Cuentas y 30.655.889 euros de "rentabilidad negativa" en el informe de gestión de la EMVS de 2014) y no deben sumarse; no se ha localizado el informe de la comisión de investigación municipal; y la consumación de la operación de 2026 consta anunciada oficialmente el 30 de abril, sin día de cierre separado. Las tres vías (contable, penal y civil) deben leerse por separado.
 
-  En paralelo, varios centenares de inquilinos litigaron su derecho de retracto arrendaticio frente a Fidere.
-  El Tribunal Supremo lo reconoció para cuatro inquilinos en la STS 1597/2024, de 28 de noviembre
-  (ECLI:ES:TS:2024:5831), al no acreditarse que la venta comprendiera todas las unidades del edificio (no se
-  transmitieron 44 plazas de garaje), y lo denegó para un grupo de unas 40 familias en la STS 592/2025, de 21
-  de abril (ECLI:ES:TS:2025:1711), al tratarse de una venta en bloque de todas las unidades de las que la EMVS
-  era titular en cada edificio. Ambos fallos aplican el artículo 25.7 de la Ley de Arrendamientos Urbanos y
-  responden a supuestos fácticos distintos. Los litigios civiles documentados llegan hasta 2025; no consta
-  resultado posterior, lo que no acredita ni su cierre ni su continuidad.
+  ### Situación y alcance
 
+  La ficha reúne tres procedimientos que conviene no confundir:
 
-  Fidere comunicó oficialmente a BME Growth que el 30 de marzo de 2026 suscribió con sociedades controladas
-  por fondos gestionados por Brookfield un contrato para transmitir el 100% del capital de sus filiales
-  operativas, propietarias de los inmuebles del grupo. La valoración inmobiliaria de referencia fue de 1.050
-  millones de euros, sujeta a ajustes y a deducir un endeudamiento estimado de unos 425 millones. El 30 de
-  abril de 2026 comunicó que la operación ya se había consumado. La comunicación no precisa por separado el
-  día exacto del cierre, por lo que se fecha el anuncio de consumación y no se confunde con la firma del
-  contrato.
+  - **Vía contable (Tribunal de Cuentas).** Es el eje de esta ficha. El procedimiento de reintegro por alcance A-124/17 se repartió al Departamento Primero por diligencia de 30 de mayo de 2017, a partir del informe de fiscalización de la Cámara de Cuentas. La sentencia 11/2018, de 27-12-2018, estimó parcialmente la demanda y fijó un alcance total de 25.752.103,63 euros: 22.711.518 euros de los que respondían solidariamente Ana Botella y seis concejales de su equipo, y 3.040.585,63 euros de los que respondía solo Fermín Oslé, declarado además responsable directo de la totalidad. La sentencia 13/2019, de 17-07-2019, de la Sala de Justicia estimó la falta de legitimación pasiva de los miembros de la Junta de Gobierno, estimó los recursos de los demandados, revocó la 11/2018 y desestimó íntegramente la demanda por inexistencia de un perjuicio real, efectivo y evaluable. La 13/2019 incorporó como prueba el auto de archivo penal de 23-01-2019 del Juzgado de Instrucción nº 38, después revocado por el auto 409/2019 de la Audiencia Provincial, de 27-05-2019. En 2020 el Tribunal Supremo (Sala de lo Contencioso-Administrativo) inadmitió por falta de legitimación la queja de la concejala socialista Mercedes González contra el auto del Tribunal de Cuentas de 11-12-2019. Es un auto de inadmisión, no una sentencia de fondo, y no consta documento que declare la firmeza formal de la absolución. Las cifras del Tribunal de Cuentas son, por tanto, el alcance histórico de una sentencia revocada, no una responsabilidad exigible en la actualidad.
+  - **Vía penal.** Se siguió contra Fermín Oslé Uranga y Alfonso Benavides Grases ante el Juzgado de Instrucción nº 38 y la Audiencia Provincial de Madrid (con recursos previos ante la Sección 30), y terminó con sentencia absolutoria fechada el 28-01-2022 y conocida el 08-02-2022. Se documenta con más detalle en la ficha "Caso EMVS II" (/casos/pp/emvs-ii/); esta ficha solo la resume. Ana Botella y los concejales no fueron acusados en esta vía.
+  - **Vía civil de retracto arrendaticio.** Litigios privados de los inquilinos frente a Fidere, con dos sentencias del Tribunal Supremo en 2024 y 2025 que aplican el art. 25.7 LAU a supuestos de hecho distintos. Los litigios documentados llegan hasta 2025 y no consta resultado posterior.
 
+  Las sentencias 11/2018 (102 páginas) y 13/2019 (77 páginas) del Tribunal de Cuentas son públicas y se han verificado en su cabecera y fallo. La primera no es firme; la segunda revoca y desestima la demanda.
 
-  Límites: no consta la firmeza formal de la sentencia penal de 2022; las cifras del Tribunal de Cuentas
-  proceden de una sentencia revocada y no deben presentarse como daño actual; el perjuicio varía según la
-  fuente (22,7 millones de la partida de las 18 promociones, 25,75 millones de alcance total, hasta unos 31
-  millones según la Cámara de Cuentas y 30.655.889 euros de "rentabilidad negativa" en el informe de gestión
-  de la EMVS de 2014) y no deben sumarse; no se ha localizado el informe de la comisión de investigación
-  municipal; y la consumación de la operación de 2026 consta anunciada oficialmente el 30 de abril, sin día de
-  cierre separado. Las tres vías (contable, penal y civil) deben leerse por separado.
+  La ficha se solapa con "Caso EMVS II" (/casos/pp/emvs-ii/) (vía penal) y, por el objeto (venta de patrimonio público madrileño), con las fichas del IVIMA. No se editan esas fichas.
+
+  ### Incertidumbres y límites
+
+  - No consta la firmeza formal de la sentencia penal absolutoria de 28-01-2022 ni si fue recurrida. La fecha de la resolución (28-01-2022) proviene de crónicas de EFE y El Mundo publicadas el 08-02-2022, que citan el texto "fechado el 28 de enero"; el 08-02-2022 es la fecha de publicación, no la del acto.
+  - Las cifras de condena del Tribunal de Cuentas (22.711.518 euros solidarios y 25.752.103,63 euros de alcance total) proceden de la sentencia 11/2018, revocada por la 13/2019. No son un daño judicial actual y no deben sumarse con otras estimaciones: la Cámara de Cuentas manejó hasta unos 31 millones y el informe de gestión de la EMVS de 2014, 30.655.889 euros de "rentabilidad negativa". Son categorías y momentos distintos.
+  - El Supremo de 2020 no se pronunció sobre el fondo: inadmitió por falta de legitimación la queja de Mercedes González. De esa inadmisión no cabe inferir una declaración de firmeza de la absolución contable.
+  - La fecha exacta de la presentación de la denuncia/demanda de responsabilidad contable por parte de la EMVS no consta: la prensa la sitúa en noviembre de 2017 y solo se conoce el mes. La sentencia 11/2018 documenta, en cambio, el reparto del procedimiento el 30-05-2017.
+  - La firma del contrato el 30-03-2026 y el anuncio de consumación el 30-04-2026 están comprobados en las comunicaciones originales de Fidere a BME Growth. No se confunde la valoración de toda esa cartera con el precio de las viviendas municipales en 2013.
+  - La ausencia de noticias posteriores a 2025 no acredita por sí sola la continuidad ni el cierre de los litigios civiles de retracto.
+  - Los nombres oficiales de los cargos municipales se han verificado en el BOAM nº 6950/1319, de 28-06-2013 (Pedro María Corral Corral, María Concepción Dancausa Treviño, María Dolores Navarro Ruiz, María de la Paz González García, José Enrique Núñez Guijarro y Diego Sanjuanbenito Bonal). Los cargos indicados son los históricos del periodo 2011-2015, no los actuales.
+
+  ### Comprobación al 17 de octubre de 2026
+
+  Los 25.752.103,63 euros procedían de la sentencia contable revocada, por lo que no representan un perjuicio judicial vigente. Se conserva la secuencia histórica sin sumar importes de distinta naturaleza.
+
+  Están disponibles las dos sentencias contables y el informe de fiscalización, cuyas conclusiones figuran en las páginas impresas 62–64. Los originales civiles están disponibles en el CENDOJ: STS 1597/2024, de 28 de noviembre de 2024 (5 páginas), y STS 592/2025, de 21 de abril de 2025 (8 páginas). Sus fechas son las de las resoluciones; la fecha de exportación del PDF en octubre de 2026 no es un nuevo acto judicial. La sentencia penal de 2022 se ha contrastado en EFE publicada por Cadena SER y El Mundo, sin localizar su original ni acreditar su firmeza. No se ha localizado una resolución posterior que cambie los resultados contable o penal; la ausencia de resultados no acredita inexistencia.
+
+  La intermediación presenta una discordancia documental pendiente: la Cámara de Cuentas consigna 2.397.775 euros en el apartado de contratos relacionados (página impresa 61) y en la conclusión 11 (página impresa 64), mientras que la sentencia 11/2018 reproduce dos facturas de 1.196.387,50 euros cada una (páginas impresas 5 y 62), cuya suma es 2.392.775 euros. No se dispone de las facturas originales independientes. Ninguna de esas cifras acredita un daño judicial vigente.
 resumen: "Venta de 1.860 viviendas públicas de la EMVS a Blackstone por 128,5 millones en 2013; condena contable en primera instancia en 2018 (25,75 millones), revocada y demanda desestimada en 2019, y litigios civiles de retracto resueltos en 2024-2025"
 lugar: "Madrid"
 tribunal:
@@ -319,33 +292,3 @@ cronologia:
       - "https://www.bmegrowth.es/docs/documentos/OtraInfRelevante/2026/04/05071_OtraInfRelev_20260430_3.pdf"
 
 ---
-
-## Situación y alcance
-
-La ficha reúne tres procedimientos que conviene no confundir:
-
-- **Vía contable (Tribunal de Cuentas).** Es el eje de esta ficha. El procedimiento de reintegro por alcance A-124/17 se repartió al Departamento Primero por diligencia de 30 de mayo de 2017, a partir del informe de fiscalización de la Cámara de Cuentas. La sentencia 11/2018, de 27-12-2018, estimó parcialmente la demanda y fijó un alcance total de 25.752.103,63 euros: 22.711.518 euros de los que respondían solidariamente Ana Botella y seis concejales de su equipo, y 3.040.585,63 euros de los que respondía solo Fermín Oslé, declarado además responsable directo de la totalidad. La sentencia 13/2019, de 17-07-2019, de la Sala de Justicia estimó la falta de legitimación pasiva de los miembros de la Junta de Gobierno, estimó los recursos de los demandados, revocó la 11/2018 y desestimó íntegramente la demanda por inexistencia de un perjuicio real, efectivo y evaluable. La 13/2019 incorporó como prueba el auto de archivo penal de 23-01-2019 del Juzgado de Instrucción nº 38, después revocado por el auto 409/2019 de la Audiencia Provincial, de 27-05-2019. En 2020 el Tribunal Supremo (Sala de lo Contencioso-Administrativo) inadmitió por falta de legitimación la queja de la concejala socialista Mercedes González contra el auto del Tribunal de Cuentas de 11-12-2019. Es un auto de inadmisión, no una sentencia de fondo, y no consta documento que declare la firmeza formal de la absolución. Las cifras del Tribunal de Cuentas son, por tanto, el alcance histórico de una sentencia revocada, no una responsabilidad exigible en la actualidad.
-- **Vía penal.** Se siguió contra Fermín Oslé Uranga y Alfonso Benavides Grases ante el Juzgado de Instrucción nº 38 y la Audiencia Provincial de Madrid (con recursos previos ante la Sección 30), y terminó con sentencia absolutoria fechada el 28-01-2022 y conocida el 08-02-2022. Se documenta con más detalle en la ficha "Caso EMVS II" (/casos/pp/emvs-ii/); esta ficha solo la resume. Ana Botella y los concejales no fueron acusados en esta vía.
-- **Vía civil de retracto arrendaticio.** Litigios privados de los inquilinos frente a Fidere, con dos sentencias del Tribunal Supremo en 2024 y 2025 que aplican el art. 25.7 LAU a supuestos de hecho distintos. Los litigios documentados llegan hasta 2025 y no consta resultado posterior.
-
-Las sentencias 11/2018 (102 páginas) y 13/2019 (77 páginas) del Tribunal de Cuentas son públicas y se han verificado en su cabecera y fallo. La primera no es firme; la segunda revoca y desestima la demanda.
-
-La ficha se solapa con "Caso EMVS II" (/casos/pp/emvs-ii/) (vía penal) y, por el objeto (venta de patrimonio público madrileño), con las fichas del IVIMA. No se editan esas fichas.
-
-## Incertidumbres y límites
-
-- No consta la firmeza formal de la sentencia penal absolutoria de 28-01-2022 ni si fue recurrida. La fecha de la resolución (28-01-2022) proviene de crónicas de EFE y El Mundo publicadas el 08-02-2022, que citan el texto "fechado el 28 de enero"; el 08-02-2022 es la fecha de publicación, no la del acto.
-- Las cifras de condena del Tribunal de Cuentas (22.711.518 euros solidarios y 25.752.103,63 euros de alcance total) proceden de la sentencia 11/2018, revocada por la 13/2019. No son un daño judicial actual y no deben sumarse con otras estimaciones: la Cámara de Cuentas manejó hasta unos 31 millones y el informe de gestión de la EMVS de 2014, 30.655.889 euros de "rentabilidad negativa". Son categorías y momentos distintos.
-- El Supremo de 2020 no se pronunció sobre el fondo: inadmitió por falta de legitimación la queja de Mercedes González. De esa inadmisión no cabe inferir una declaración de firmeza de la absolución contable.
-- La fecha exacta de la presentación de la denuncia/demanda de responsabilidad contable por parte de la EMVS no consta: la prensa la sitúa en noviembre de 2017 y solo se conoce el mes. La sentencia 11/2018 documenta, en cambio, el reparto del procedimiento el 30-05-2017.
-- La firma del contrato el 30-03-2026 y el anuncio de consumación el 30-04-2026 están comprobados en las comunicaciones originales de Fidere a BME Growth. No se confunde la valoración de toda esa cartera con el precio de las viviendas municipales en 2013.
-- La ausencia de noticias posteriores a 2025 no acredita por sí sola la continuidad ni el cierre de los litigios civiles de retracto.
-- Los nombres oficiales de los cargos municipales se han verificado en el BOAM nº 6950/1319, de 28-06-2013 (Pedro María Corral Corral, María Concepción Dancausa Treviño, María Dolores Navarro Ruiz, María de la Paz González García, José Enrique Núñez Guijarro y Diego Sanjuanbenito Bonal). Los cargos indicados son los históricos del periodo 2011-2015, no los actuales.
-
-## Comprobación al 17 de octubre de 2026
-
-Los 25.752.103,63 euros procedían de la sentencia contable revocada, por lo que no representan un perjuicio judicial vigente. Se conserva la secuencia histórica sin sumar importes de distinta naturaleza.
-
-Están disponibles las dos sentencias contables y el informe de fiscalización, cuyas conclusiones figuran en las páginas impresas 62–64. Los originales civiles están disponibles en el CENDOJ: STS 1597/2024, de 28 de noviembre de 2024 (5 páginas), y STS 592/2025, de 21 de abril de 2025 (8 páginas). Sus fechas son las de las resoluciones; la fecha de exportación del PDF en octubre de 2026 no es un nuevo acto judicial. La sentencia penal de 2022 se ha contrastado en EFE publicada por Cadena SER y El Mundo, sin localizar su original ni acreditar su firmeza. No se ha localizado una resolución posterior que cambie los resultados contable o penal; la ausencia de resultados no acredita inexistencia.
-
-La intermediación presenta una discordancia documental pendiente: la Cámara de Cuentas consigna 2.397.775 euros en el apartado de contratos relacionados (página impresa 61) y en la conclusión 11 (página impresa 64), mientras que la sentencia 11/2018 reproduce dos facturas de 1.196.387,50 euros cada una (páginas impresas 5 y 62), cuya suma es 2.392.775 euros. No se dispone de las facturas originales independientes. Ninguna de esas cifras acredita un daño judicial vigente.

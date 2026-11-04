@@ -8,25 +8,22 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "desconocido"
-descripcion: >-
-  Pieza de Gürtel sobre contratación del Ayuntamiento de Arganda del Rey y su Sociedad de Fomento, con hechos
-  situados desde al menos 1998 hasta 2009. Incluye contratos con empresas de Francisco Correa y con Teconsa,
-  Constructora Hispánica y Martinsa; entre ellos, la adjudicación de las parcelas UE-124. La sentencia
-  describe comisiones de 25 millones de euros vinculadas a esta operación, una cifra que no equivale al
-  perjuicio público total ni al importe de las indemnizaciones.
+descripcion: |-
+  Pieza de Gürtel sobre contratación del Ayuntamiento de Arganda del Rey y su Sociedad de Fomento, con hechos situados desde al menos 1998 hasta 2009. Incluye contratos con empresas de Francisco Correa y con Teconsa, Constructora Hispánica y Martinsa; entre ellos, la adjudicación de las parcelas UE-124. La sentencia describe comisiones de 25 millones de euros vinculadas a esta operación, una cifra que no equivale al perjuicio público total ni al importe de las indemnizaciones.
 
+  La Sección Segunda de la Sala de lo Penal de la Audiencia Nacional dictó la sentencia 12/2025 el 22 de abril de 2025, difundida en mayo. Condenó a 19 personas: Correa y Pablo Crespo recibieron ocho años y diez meses de prisión; Ginés López, cinco años y siete meses; Benjamín Martín Vasco, seis años; y Fernando Martín, tres años y cuatro meses. Se apreció confesión en todos salvo Luis Bremond. Los delitos y penas de esta pieza no deben confundirse con las condenas de otras ramas de Gürtel.
 
-  La Sección Segunda de la Sala de lo Penal de la Audiencia Nacional dictó la sentencia 12/2025 el 22 de abril
-  de 2025, difundida en mayo. Condenó a 19 personas: Correa y Pablo Crespo recibieron ocho años y diez meses
-  de prisión; Ginés López, cinco años y siete meses; Benjamín Martín Vasco, seis años; y Fernando Martín, tres
-  años y cuatro meses. Se apreció confesión en todos salvo Luis Bremond. Los delitos y penas de esta pieza no
-  deben confundirse con las condenas de otras ramas de Gürtel.
+  La resolución permitía recurso de casación. No se ha verificado a 15 de octubre de 2026 la firmeza individual de todos los pronunciamientos ni una resolución posterior del recurso penal o de ejecución. Por ello, no se presenta mayo de 2025 como fecha de cierre definitivo ni se deduce del reconocimiento de los hechos que todos renunciaran a recurrir.
 
+  Esta pieza abarca varios grupos de contratos de Arganda. Además de las parcelas UE-124, examina servicios prestados por empresas de Correa al Ayuntamiento y a la Sociedad de Fomento, las X Olimpiadas Escolares, un evento relacionado con Rock in Río 2008, obras adjudicadas a Teconsa y servicios de Constructora Hispánica. Su contenido no equivale a todo Gürtel: las penas que figuran aquí corresponden únicamente a la sentencia 12/2025.
 
-  La resolución permitía recurso de casación. No se ha verificado a 15 de octubre de 2026 la firmeza
-  individual de todos los pronunciamientos ni una resolución posterior del recurso penal o de ejecución. Por
-  ello, no se presenta mayo de 2025 como fecha de cierre definitivo ni se deduce del reconocimiento de los
-  hechos que todos renunciaran a recurrir.
+  La Audiencia situó el funcionamiento del acuerdo corrupto desde al menos 1998, sin fijar un día único de comienzo. Por eso no se emplea la operación policial general de febrero de 2009 como inicio de los hechos locales. También distinguió el cometido de los cargos políticos, los trabajadores municipales, los empresarios y los intermediarios. La estructura organizada descrita en los hechos no autoriza a sustituir los delitos concretos del fallo por una condena genérica por organización criminal o blanqueo.
+
+  En UE-124, los **25 millones de euros** son la comisión vinculada a la adjudicación: el fallo ordena decomisar **24.870.000 euros de Correa** y **130.000 de Blanco Balín**, constando que este último ya los había ingresado. Son cantidades distintas del precio urbanístico, de los regalos a cargos públicos, de las cuotas fiscales, de las multas y de las indemnizaciones a la Sociedad de Fomento. No se registra la comisión como un coste global ni se suma con los importes de otras fichas de Gürtel.
+
+  La responsabilidad civil se distribuye por contratos y personas. Por ejemplo, el fallo fija 39.640,78 euros por la doble facturación de Rock in Río y 67.260 euros por las Olimpiadas; incluye otras partidas por obras y mantenimiento, algunas ya satisfechas. El decomiso de cobros de Ginés López, 545.328,98 euros, y de Benjamín Martín Vasco, 363.295,63 euros, tampoco es una indemnización adicional que deba sumarse automáticamente a esas partidas. La deuda general del municipio no se atribuye en bloque a este procedimiento sin una prueba causal específica.
+
+  El reconocimiento de hechos por 18 de los 19 acusados explica la atenuante de confesión; Luis Bremond negó su participación. La Audiencia valoró también el tiempo transcurrido y la reparación del daño en determinados acusados. Estas circunstancias no hacen equivalentes sus responsabilidades ni permiten afirmar que todos ingresaran en prisión, obtuvieran una suspensión o renunciaran a impugnar la sentencia. Quedan sin comprobar las resoluciones penales posteriores y la firmeza individual a 15 de octubre de 2026. Las noticias sobre otros juicios de Gürtel o sobre situaciones penitenciarias generales de sus protagonistas no resuelven esa laguna.
 resumen: "Condenas de 2025 por contratos y comisiones en Arganda, incluida UE-124; firmeza individual posterior no verificada"
 lugar: "Arganda del Rey, Comunidad de Madrid"
 tribunal:
@@ -122,13 +119,3 @@ cronologia:
     urls:
       - "https://elpais.com/espana/2025-05-07/condenado-a-carcel-fernando-martin-constructor-y-expresidente-del-real-madrid-por-el-mayor-pelotazo-de-gurtel.html"
 ---
-
-Esta pieza abarca varios grupos de contratos de Arganda. Además de las parcelas UE-124, examina servicios prestados por empresas de Correa al Ayuntamiento y a la Sociedad de Fomento, las X Olimpiadas Escolares, un evento relacionado con Rock in Río 2008, obras adjudicadas a Teconsa y servicios de Constructora Hispánica. Su contenido no equivale a todo Gürtel: las penas que figuran aquí corresponden únicamente a la sentencia 12/2025.
-
-La Audiencia situó el funcionamiento del acuerdo corrupto desde al menos 1998, sin fijar un día único de comienzo. Por eso no se emplea la operación policial general de febrero de 2009 como inicio de los hechos locales. También distinguió el cometido de los cargos políticos, los trabajadores municipales, los empresarios y los intermediarios. La estructura organizada descrita en los hechos no autoriza a sustituir los delitos concretos del fallo por una condena genérica por organización criminal o blanqueo.
-
-En UE-124, los **25 millones de euros** son la comisión vinculada a la adjudicación: el fallo ordena decomisar **24.870.000 euros de Correa** y **130.000 de Blanco Balín**, constando que este último ya los había ingresado. Son cantidades distintas del precio urbanístico, de los regalos a cargos públicos, de las cuotas fiscales, de las multas y de las indemnizaciones a la Sociedad de Fomento. No se registra la comisión como un coste global ni se suma con los importes de otras fichas de Gürtel.
-
-La responsabilidad civil se distribuye por contratos y personas. Por ejemplo, el fallo fija 39.640,78 euros por la doble facturación de Rock in Río y 67.260 euros por las Olimpiadas; incluye otras partidas por obras y mantenimiento, algunas ya satisfechas. El decomiso de cobros de Ginés López, 545.328,98 euros, y de Benjamín Martín Vasco, 363.295,63 euros, tampoco es una indemnización adicional que deba sumarse automáticamente a esas partidas. La deuda general del municipio no se atribuye en bloque a este procedimiento sin una prueba causal específica.
-
-El reconocimiento de hechos por 18 de los 19 acusados explica la atenuante de confesión; Luis Bremond negó su participación. La Audiencia valoró también el tiempo transcurrido y la reparación del daño en determinados acusados. Estas circunstancias no hacen equivalentes sus responsabilidades ni permiten afirmar que todos ingresaran en prisión, obtuvieran una suspensión o renunciaran a impugnar la sentencia. Quedan sin comprobar las resoluciones penales posteriores y la firmeza individual a 15 de octubre de 2026. Las noticias sobre otros juicios de Gürtel o sobre situaciones penitenciarias generales de sus protagonistas no resuelven esa laguna.

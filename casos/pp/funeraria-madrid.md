@@ -9,26 +9,22 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "cerrado con condenas"
-descripcion: >-
-  Procedimiento por la privatización parcial de la funeraria municipal de Madrid, cuyo 49% se adjudicó a
-  Funespaña en diciembre de 1992 por un precio nominal de 100 pesetas. La operación incluía otras obligaciones
-  y una posterior condonación de deuda municipal: ese precio no representa por sí solo el importe invertido ni
-  el daño económico del caso.
+descripcion: |-
+  Procedimiento por la privatización parcial de la funeraria municipal de Madrid, cuyo 49% se adjudicó a Funespaña en diciembre de 1992 por un precio nominal de 100 pesetas. La operación incluía otras obligaciones y una posterior condonación de deuda municipal: ese precio no representa por sí solo el importe invertido ni el daño económico del caso.
 
+  La sentencia del Tribunal Supremo 1026/2009, de 16 de octubre, mantuvo la condena del ex primer teniente de alcalde Luis María Huete por prevaricación a dos años y un día de suspensión de cargo público. También condenó al exasesor municipal y expresidente de Funespaña José Ignacio Rodrigo Fernández como cómplice de prevaricación y autor de tráfico de influencias, con tres multas que suman 3.716.268,19 euros. En ambos casos se apreció la atenuante muy cualificada de dilaciones indebidas. Otros acusados fueron absueltos; no hubo condena por malversación.
 
-  La sentencia del Tribunal Supremo 1026/2009, de 16 de octubre, mantuvo la condena del ex primer teniente de
-  alcalde Luis María Huete por prevaricación a dos años y un día de suspensión de cargo público. También
-  condenó al exasesor municipal y expresidente de Funespaña José Ignacio Rodrigo Fernández como cómplice de
-  prevaricación y autor de tráfico de influencias, con tres multas que suman 3.716.268,19 euros. En ambos
-  casos se apreció la atenuante muy cualificada de dilaciones indebidas. Otros acusados fueron absueltos; no
-  hubo condena por malversación.
+  En marzo de 2011 se informó del rechazo de la solicitud de Rodrigo de revisar su condena. No se han verificado novedades procesales del procedimiento de 1992 en 2025 o 2026 ni la ejecución de las penas. Quedan pendientes el auto íntegro de revisión y la comprobación completa de las actuaciones contables y contencioso-administrativas relacionadas. La gestión íntegramente municipal se recuperó en septiembre de 2016 por extinción de la sociedad mixta y reversión de activos.
 
+  La controversia penal se centró en cómo se ejecutó la entrada del socio privado en la empresa funeraria y cómo se trató su deuda con el Ayuntamiento. El Supremo distinguió la adjudicación y sus condiciones de las decisiones posteriores que determinaron el precio efectivo. No convirtió toda irregularidad de la operación en un delito de malversación: rechazó esa calificación porque no concurrían los elementos de la apropiación que exigía la legislación aplicable.
 
-  En marzo de 2011 se informó del rechazo de la solicitud de Rodrigo de revisar su condena. No se han
-  verificado novedades procesales del procedimiento de 1992 en 2025 o 2026 ni la ejecución de las penas.
-  Quedan pendientes el auto íntegro de revisión y la comprobación completa de las actuaciones contables y
-  contencioso-administrativas relacionadas. La gestión íntegramente municipal se recuperó en septiembre de
-  2016 por extinción de la sociedad mixta y reversión de activos.
+  El fallo de casación mantuvo para Luis María Huete la pena de **suspensión de cargo público durante dos años y un día**, denominación distinta de la inhabilitación que emplean algunas crónicas. Para José Ignacio Rodrigo estableció una multa de 601,01 euros por complicidad en prevaricación y otras dos de 601,01 y 3.715.066,17 euros por tráfico de influencias. Son penas pecuniarias, separadas de las costas procesales. La sentencia recoge arrestos sustitutorios en caso de impago, pero no se ha verificado que se ejecutaran. Las absoluciones de los demás acusados se mantuvieron; la prescripción solo explica determinados pronunciamientos, no la totalidad de la absolución de cada persona.
+
+  Las 100 pesetas fueron un precio nominal por las acciones. La oferta también contemplaba una aportación de 200 millones de pesetas para ampliar capital. Los dividendos y el canon de gestión percibidos por el socio privado durante los años siguientes no constituyen automáticamente una cuantificación judicial del perjuicio. La sentencia aborda además reintegros de deuda relacionados con el Tribunal de Cuentas y rechaza la indemnización adicional solicitada por una acusación popular. Por esas diferencias no se asigna una cifra única al coste del caso.
+
+  La recuperación del servicio municipal en 2016 fue una actuación administrativa posterior: la fuente municipal describe la extinción y liquidación de la empresa mixta y el traspaso de activos a la nueva empresa pública. No debe presentarse como una compra de acciones realizada en 2017 o como una nueva condena penal.
+
+  La última actuación penal posterior a la casación que se ha contrastado mediante una noticia es el rechazo de la revisión solicitada por Rodrigo, conocido en marzo de 2011. Falta comprobar el auto íntegro y la ejecución de las penas, así como completar el examen de los procedimientos contable y contencioso-administrativo relacionados. Al 15 de octubre de 2026, no constan nuevas resoluciones verificadas de 2025 o 2026 de este procedimiento. La información sobre un arrendamiento de la Comunidad de Madrid publicada en 2023 trata de otro negocio y no acredita una nueva irregularidad o condena en el caso de la funeraria.
 resumen: "Privatización parcial de la funeraria madrileña: condenas de Huete y Rodrigo en 2009 y absolución de los demás acusados"
 lugar: "Madrid, Comunidad de Madrid"
 tribunal:
@@ -121,13 +117,3 @@ cronologia:
       - "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Notas-de-prensa/Consejo-de-administracion-extraordinario-de-la-Funeraria-antes-de-su-municipalizacion/?vgnextchannel=6091317d3d2a7010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=952880bfbae27510VgnVCM2000001f4a900aRCRD"
       - "https://diario.madrid.es/blog/notas-de-prensa/balance-positivo-en-el-primer-ano-de-gestion-publica-de-la-empresa-municipal-funeraria/"
 ---
-
-La controversia penal se centró en cómo se ejecutó la entrada del socio privado en la empresa funeraria y cómo se trató su deuda con el Ayuntamiento. El Supremo distinguió la adjudicación y sus condiciones de las decisiones posteriores que determinaron el precio efectivo. No convirtió toda irregularidad de la operación en un delito de malversación: rechazó esa calificación porque no concurrían los elementos de la apropiación que exigía la legislación aplicable.
-
-El fallo de casación mantuvo para Luis María Huete la pena de **suspensión de cargo público durante dos años y un día**, denominación distinta de la inhabilitación que emplean algunas crónicas. Para José Ignacio Rodrigo estableció una multa de 601,01 euros por complicidad en prevaricación y otras dos de 601,01 y 3.715.066,17 euros por tráfico de influencias. Son penas pecuniarias, separadas de las costas procesales. La sentencia recoge arrestos sustitutorios en caso de impago, pero no se ha verificado que se ejecutaran. Las absoluciones de los demás acusados se mantuvieron; la prescripción solo explica determinados pronunciamientos, no la totalidad de la absolución de cada persona.
-
-Las 100 pesetas fueron un precio nominal por las acciones. La oferta también contemplaba una aportación de 200 millones de pesetas para ampliar capital. Los dividendos y el canon de gestión percibidos por el socio privado durante los años siguientes no constituyen automáticamente una cuantificación judicial del perjuicio. La sentencia aborda además reintegros de deuda relacionados con el Tribunal de Cuentas y rechaza la indemnización adicional solicitada por una acusación popular. Por esas diferencias no se asigna una cifra única al coste del caso.
-
-La recuperación del servicio municipal en 2016 fue una actuación administrativa posterior: la fuente municipal describe la extinción y liquidación de la empresa mixta y el traspaso de activos a la nueva empresa pública. No debe presentarse como una compra de acciones realizada en 2017 o como una nueva condena penal.
-
-La última actuación penal posterior a la casación que se ha contrastado mediante una noticia es el rechazo de la revisión solicitada por Rodrigo, conocido en marzo de 2011. Falta comprobar el auto íntegro y la ejecución de las penas, así como completar el examen de los procedimientos contable y contencioso-administrativo relacionados. Al 15 de octubre de 2026, no constan nuevas resoluciones verificadas de 2025 o 2026 de este procedimiento. La información sobre un arrendamiento de la Comunidad de Madrid publicada en 2023 trata de otro negocio y no acredita una nueva irregularidad o condena en el caso de la funeraria.

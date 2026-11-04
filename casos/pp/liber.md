@@ -9,36 +9,22 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Resultado judicial no verificado
-descripcion: >-
-  El caso Líber se refiere a una investigación sobre posibles irregularidades en la contratación y el
-  urbanismo del Ayuntamiento de Aledo (Murcia), surgida como una derivación de la operación Biblioteca. El 18
-  octubre 2011 la UCO detuvo al entonces alcalde del PP, Simón Alcaraz, y a otras personas. Se investigaban
-  presuntos delitos de cohecho, prevaricación, negociaciones prohibidas a funcionarios públicos y falsedad.
-  Las noticias de las detenciones y las medidas cautelares no acreditan que los investigados recibieran pagos
-  ilícitos ni que fueran condenados.
+descripcion: |-
+  El caso Líber se refiere a una investigación sobre posibles irregularidades en la contratación y el urbanismo del Ayuntamiento de Aledo (Murcia), surgida como una derivación de la operación Biblioteca. El 18 octubre 2011 la UCO detuvo al entonces alcalde del PP, Simón Alcaraz, y a otras personas. Se investigaban presuntos delitos de cohecho, prevaricación, negociaciones prohibidas a funcionarios públicos y falsedad. Las noticias de las detenciones y las medidas cautelares no acreditan que los investigados recibieran pagos ilícitos ni que fueran condenados.
 
+  Entre las personas detenidas las crónicas identificaban al exteniente de alcalde Antonio Alcaraz, a la secretaria municipal Rosario Hita y a la exsecretaria Concepción P. El alcalde estuvo hospitalizado tras la detención y compareció judicialmente el 26 octubre 2011. La noticia publicada el 27 informa de una orden de prisión provisional posterior a esa declaración; una crónica de noviembre la sitúa ya en la madrugada del 27, mientras otra información sitúa el encarcelamiento desde el 26. Sin el auto original no se fija un día exacto de prisión como hecho resuelto. El 4 noviembre se publicó su excarcelación, con retirada de pasaporte y comparecencias, manteniéndose entonces la investigación. La libertad provisional no era una absolución.
 
-  Entre las personas detenidas las crónicas identificaban al exteniente de alcalde Antonio Alcaraz, a la
-  secretaria municipal Rosario Hita y a la exsecretaria Concepción P. El alcalde estuvo hospitalizado tras la
-  detención y compareció judicialmente el 26 octubre 2011. La noticia publicada el 27 informa de una orden de
-  prisión provisional posterior a esa declaración; una crónica de noviembre la sitúa ya en la madrugada del
-  27, mientras otra información sitúa el encarcelamiento desde el 26. Sin el auto original no se fija un día
-  exacto de prisión como hecho resuelto. El 4 noviembre se publicó su excarcelación, con retirada de pasaporte
-  y comparecencias, manteniéndose entonces la investigación. La libertad provisional no era una absolución.
+  La memoria oficial del TSJ de Murcia de 2013 confirma que el caso se instruía en el Juzgado de Instrucción 6 de Murcia. Una información de Europa Press de 2014, basada en un comunicado del TSJ, recoge que el juez rechazó una declinatoria y conservó la competencia para la pieza relativa a Aledo. Ese dato no permite trasladar a esta causa el resultado de otras piezas de Biblioteca.
 
+  Una información de La Verdad del 7 noviembre 2024 daba por terminada la instrucción de Líber y señalaba que la causa seguía tramitándose. No se ha recuperado el auto de conclusión, los escritos de acusación, un eventual señalamiento, archivo o sentencia posterior hasta el 15 octubre 2026. Tampoco se han comprobado los resultados individuales del alcalde, Antonio Alcaraz o las dos funcionarias. Por tanto, no se afirma que en 2026 siguiera en instrucción ni que nunca hubiera habido juicio o sentencia. No hay una cuantificación judicial de perjuicio verificada; la falta de cuantificación no acredita ausencia de daño.
 
-  La memoria oficial del TSJ de Murcia de 2013 confirma que el caso se instruía en el Juzgado de Instrucción 6
-  de Murcia. Una información de Europa Press de 2014, basada en un comunicado del TSJ, recoge que el juez
-  rechazó una declinatoria y conservó la competencia para la pieza relativa a Aledo. Ese dato no permite
-  trasladar a esta causa el resultado de otras piezas de Biblioteca.
+  La [información inicial de Europa Press](https://www.eldiario.es/canariasahora/sociedad/detenido-aledo-personas-operacion-biblioteca_1_4890813.html) relaciona las pesquisas de Aledo con una segunda fase de Biblioteca. La existencia de ese antecedente no permite trasladar a Líber acusaciones, archivos o condenas de Librilla o de otros municipios. La [memoria del TSJ de Murcia de 2013](https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Region%20de%20Murcia/MEMORIA/DOCUMENTOSCGPJ/MEMORIA%20TSJRM%202013%20copia.pdf) identifica expresamente el juzgado que instruía Líber, sin resolver el fondo.
 
+  La secuencia de octubre de 2011 debe distinguir la detención, la hospitalización, la declaración del 26 y la prisión provisional comunicada el 27. Las crónicas no son uniformes sobre si el auto se produjo la noche del 26 o la madrugada del 27. La [excarcelación publicada el 4 de noviembre](http://totanaweb.com/noticia.asp?id=2595) mantuvo obligaciones procesales; no demuestra un archivo y tampoco autoriza a prolongar aquel estado durante quince años sin nuevas resoluciones.
 
-  Una información de La Verdad del 7 noviembre 2024 daba por terminada la instrucción de Líber y señalaba que
-  la causa seguía tramitándose. No se ha recuperado el auto de conclusión, los escritos de acusación, un
-  eventual señalamiento, archivo o sentencia posterior hasta el 15 octubre 2026. Tampoco se han comprobado los
-  resultados individuales del alcalde, Antonio Alcaraz o las dos funcionarias. Por tanto, no se afirma que en
-  2026 siguiera en instrucción ni que nunca hubiera habido juicio o sentencia. No hay una cuantificación
-  judicial de perjuicio verificada; la falta de cuantificación no acredita ausencia de daño.
+  El [reportaje de La Verdad del 7 de noviembre de 2024](https://storage.googleapis.com/warehouse-europe-west3-prod-assets/8fcd6b59-2d61-4c07-ac79-a178825aac62/kiosko-2284-20241107-cartagena/6c9abae22ec510569f2c65200e54f843_sample.pdf) sitúa la instrucción como acabada. No se ha verificado el resultado posterior ni la situación individual de las personas incluidas en esta ficha. Los documentos judiciales originales necesarios para fijar los delitos finalmente acusados, los motivos de eventuales archivos y la firmeza de resoluciones siguen sin recuperarse. Se mantienen las identidades limitadas de las fuentes y no se inventan apellidos a partir de iniciales.
+
+  No se incorpora como perjuicio económico una cifra global de contratos ni se sustituye la falta de cuantificación por cero. Las medidas cautelares y las imputaciones de 2011 se describen como tales, con presunción de inocencia.
 resumen: Investigación sobre contratación municipal en Aledo iniciada públicamente en 2011; la prensa daba la instrucción
   por concluida en 2024, sin desenlace individual verificado.
 lugar: Aledo, Región de Murcia
@@ -122,11 +108,3 @@ cronologia:
   type: investigacion
   relevancia: alta
 ---
-
-La [información inicial de Europa Press](https://www.eldiario.es/canariasahora/sociedad/detenido-aledo-personas-operacion-biblioteca_1_4890813.html) relaciona las pesquisas de Aledo con una segunda fase de Biblioteca. La existencia de ese antecedente no permite trasladar a Líber acusaciones, archivos o condenas de Librilla o de otros municipios. La [memoria del TSJ de Murcia de 2013](https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Region%20de%20Murcia/MEMORIA/DOCUMENTOSCGPJ/MEMORIA%20TSJRM%202013%20copia.pdf) identifica expresamente el juzgado que instruía Líber, sin resolver el fondo.
-
-La secuencia de octubre de 2011 debe distinguir la detención, la hospitalización, la declaración del 26 y la prisión provisional comunicada el 27. Las crónicas no son uniformes sobre si el auto se produjo la noche del 26 o la madrugada del 27. La [excarcelación publicada el 4 de noviembre](http://totanaweb.com/noticia.asp?id=2595) mantuvo obligaciones procesales; no demuestra un archivo y tampoco autoriza a prolongar aquel estado durante quince años sin nuevas resoluciones.
-
-El [reportaje de La Verdad del 7 de noviembre de 2024](https://storage.googleapis.com/warehouse-europe-west3-prod-assets/8fcd6b59-2d61-4c07-ac79-a178825aac62/kiosko-2284-20241107-cartagena/6c9abae22ec510569f2c65200e54f843_sample.pdf) sitúa la instrucción como acabada. No se ha verificado el resultado posterior ni la situación individual de las personas incluidas en esta ficha. Los documentos judiciales originales necesarios para fijar los delitos finalmente acusados, los motivos de eventuales archivos y la firmeza de resoluciones siguen sin recuperarse. Se mantienen las identidades limitadas de las fuentes y no se inventan apellidos a partir de iniciales.
-
-No se incorpora como perjuicio económico una cifra global de contratos ni se sustituye la falta de cuantificación por cero. Las medidas cautelares y las imputaciones de 2011 se describen como tales, con presunción de inocencia.

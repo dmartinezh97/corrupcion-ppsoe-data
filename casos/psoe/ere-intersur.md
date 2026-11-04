@@ -9,33 +9,26 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: desconocido
-descripcion: 'Esta pieza investiga las ayudas sociolaborales a la textil Intesur S.A.U., de Morón de la Frontera,
-  denominada también Intersur en noticias antiguas. La información del auto de 16 de diciembre de 2022 cifra en
-  3.104.791,82 euros las subvenciones examinadas y describe pólizas para tres personas que no habían trabajado en
-  la empresa. La noticia de un atestado de 2013 atribuye a esos tres beneficiarios cobros conjuntos de 399.802 euros:
-  no es una cantidad cobrada íntegramente por García Prieto ni un daño fijado por sentencia.
+descripcion: |-
+  Esta pieza investiga las ayudas sociolaborales a la textil Intesur S.A.U., de Morón de la Frontera, denominada también Intersur en noticias antiguas. La información del auto de 16 de diciembre de 2022 cifra en 3.104.791,82 euros las subvenciones examinadas y describe pólizas para tres personas que no habían trabajado en la empresa. La noticia de un atestado de 2013 atribuye a esos tres beneficiarios cobros conjuntos de 399.802 euros: no es una cantidad cobrada íntegramente por García Prieto ni un daño fijado por sentencia.
 
+  El auto de diciembre de 2022, conocido el día 20, acordó continuar por procedimiento abreviado respecto de siete personas: Antonio Rivas Sánchez, un representante de CCOO, tres de Vitalia y los dos beneficiarios supervivientes. Diario de Sevilla informa de que el juicio ante la Sección Primera de la Audiencia Provincial comenzó el 3 de junio de 2026. La noticia de la primera sesión relata cuestiones previas y la declaración de Antonio Albarracín, que negó intervenir en la póliza. No se ha recuperado una sentencia posterior, por lo que no se adjudican condenas o absoluciones de esta pieza.
 
-  El auto de diciembre de 2022, conocido el día 20, acordó continuar por procedimiento abreviado respecto de siete
-  personas: Antonio Rivas Sánchez, un representante de CCOO, tres de Vitalia y los dos beneficiarios supervivientes.
-  Diario de Sevilla informa de que el juicio ante la Sección Primera de la Audiencia Provincial comenzó el 3 de
-  junio de 2026. La noticia de la primera sesión relata cuestiones previas y la declaración de Antonio Albarracín,
-  que negó intervenir en la póliza. No se ha recuperado una sentencia posterior, por lo que no se adjudican condenas
-  o absoluciones de esta pieza.
+  José Antonio García Prieto falleció el 24 de julio de 2015 y, según Europa Press, un auto de 22 de septiembre de ese año declaró extinguida su responsabilidad criminal, reservando acciones civiles contra sus herederos. Francisco Javier Guerrero fue excluido de esta pieza por resoluciones de 2018 y 2019 relacionadas con su enjuiciamiento en el procedimiento específico, según la prensa; no se lo mantiene entre los acusados del juicio de 2026.
 
+  Las defensas invocaron las sentencias del Tribunal Constitucional sobre la pieza política al comenzar el juicio de Intesur y Fiscalía se opuso a sus pretensiones. Sin una resolución de este tribunal sobre esas cuestiones no se presume la anulación o el archivo de Intesur. Al corte del 15 de octubre de 2026 faltan los autos penales originales, la relación nominal completa cotejada de los siete acusados y los resultados posteriores individuales, recursos y firmeza. La memoria del Tribunal de Cuentas de 2022 documenta una suspensión del procedimiento contable por prejudicialidad penal, no una condena ni su estado actual.
 
-  José Antonio García Prieto falleció el 24 de julio de 2015 y, según Europa Press, un auto de 22 de septiembre
-  de ese año declaró extinguida su responsabilidad criminal, reservando acciones civiles contra sus herederos. Francisco
-  Javier Guerrero fue excluido de esta pieza por resoluciones de 2018 y 2019 relacionadas con su enjuiciamiento
-  en el procedimiento específico, según la prensa; no se lo mantiene entre los acusados del juicio de 2026.
+  La empresa textil figura como Intesur en la [memoria oficial del Tribunal de Cuentas](https://www.tcu.es/export/sites/portal/repositorio2/MEMORIA/2023/M1511.pdf) y en las crónicas recientes. No se confunde con otras sociedades, servicios de internet u hoteles de nombre parecido. El objeto abarca las ayudas y pólizas de la empresa, no solo la suma atribuida a tres beneficiarios por el atestado de 2013.
 
+  La [noticia de diciembre de 2022](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/vilaplana-procesa-delegado-Empleo-Antonio-Rivas-Intesur-caso-ERE_0_1749425458.amp.html) relata un auto fechado el día 16 que permite continuar el procedimiento abreviado contra siete personas y entidades con posible responsabilidad civil subsidiaria. La cifra de 3.104.791,82 euros es el importe de las ayudas investigadas, y los 399.802 euros del atestado son un conjunto de cobros atribuidos a tres beneficiarios. Tampoco las comisiones o las fianzas civiles relativas a varias piezas se suman como perjuicio firme de Intesur. No se atribuye a García Prieto la totalidad del importe conjunto.
 
-  Las defensas invocaron las sentencias del Tribunal Constitucional sobre la pieza política al comenzar el juicio
-  de Intesur y Fiscalía se opuso a sus pretensiones. Sin una resolución de este tribunal sobre esas cuestiones no
-  se presume la anulación o el archivo de Intesur. Al corte del 15 de octubre de 2026 faltan los autos penales originales,
-  la relación nominal completa cotejada de los siete acusados y los resultados posteriores individuales, recursos
-  y firmeza. La memoria del Tribunal de Cuentas de 2022 documenta una suspensión del procedimiento contable por
-  prejudicialidad penal, no una condena ni su estado actual.'
+  Las posiciones individuales difieren. La [información de Europa Press sobre García Prieto](https://www.20minutos.es/noticia/2564103/0/juez-nunez-archiva-causa-contra-exdirigente-psoe-imputado-ere-tras-su-fallecimiento/) distingue la extinción criminal por fallecimiento de las acciones civiles reservadas. Las noticias sobre Guerrero describen su exclusión por el alcance de otro enjuiciamiento y el rechazo a reabrir su imputación; no una absolución del fondo de esta pieza ni una decisión que alcance a todos los demás. Las referencias de 2022 a cuatro ex altos cargos excluidos no permiten completar aquí su relación nominal o situación posterior mediante analogía.
+
+  El [juicio iniciado el 3 de junio de 2026](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/caso-ere-exdelegado-empleo-antonio_0_2006931428.amp.html) mantiene siete acusados: Rivas, tres representantes de Vitalia, dos beneficiarios y un representante de CCOO. La crónica identifica a Albarracín; las noticias previas permiten identificar a Florido, Acevedo y Medina, pero faltan los originales para completar con seguridad todos los nombres y la atribución penal individual. No se deduce la acusación de los otros dos representantes de Vitalia a partir de su aparición en expedientes distintos.
+
+  Las alegaciones de las defensas sobre las sentencias del Constitucional y la respuesta fiscal son posiciones de parte. No se convierten en una resolución que haya anulado o limitado definitivamente el juicio de Intesur. Al corte del 15 de octubre de 2026 no se ha cotejado sentencia posterior ni resultado nominal, recursos o firmeza. Tampoco se transforma el anuncio de declaraciones para el 15 de junio en una sesión efectivamente celebrada.
+
+  La memoria del Tribunal de Cuentas de 2022, aprobada el 27 de abril de 2023, vincula el PRA B-137/16-12 con las diligencias penales 2717/2016 y explica su suspensión por prejudicialidad penal ante la cuestión de prescripción contable. Se trata de un resumen institucional de la resolución, sin fecha del auto concreto ni identificación de los demandados en ese pasaje. No acredita ni la extinción de las acciones ni una declaración de alcance, y no permite afirmar cuál es el estado contable después del juicio de 2026.
 resumen: Pieza de los ERE sobre ayudas a la textil Intesur de Morón y pólizas para personas ajenas a su plantilla;
   juicio iniciado en junio de 2026 contra siete acusados, sin sentencia posterior cotejada.
 lugar: Morón de la Frontera, Sevilla, Andalucía
@@ -149,15 +142,3 @@ cronologia:
     type: juicio
     relevancia: alta
 ---
-
-La empresa textil figura como Intesur en la [memoria oficial del Tribunal de Cuentas](https://www.tcu.es/export/sites/portal/repositorio2/MEMORIA/2023/M1511.pdf) y en las crónicas recientes. No se confunde con otras sociedades, servicios de internet u hoteles de nombre parecido. El objeto abarca las ayudas y pólizas de la empresa, no solo la suma atribuida a tres beneficiarios por el atestado de 2013.
-
-La [noticia de diciembre de 2022](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/vilaplana-procesa-delegado-Empleo-Antonio-Rivas-Intesur-caso-ERE_0_1749425458.amp.html) relata un auto fechado el día 16 que permite continuar el procedimiento abreviado contra siete personas y entidades con posible responsabilidad civil subsidiaria. La cifra de 3.104.791,82 euros es el importe de las ayudas investigadas, y los 399.802 euros del atestado son un conjunto de cobros atribuidos a tres beneficiarios. Tampoco las comisiones o las fianzas civiles relativas a varias piezas se suman como perjuicio firme de Intesur. No se atribuye a García Prieto la totalidad del importe conjunto.
-
-Las posiciones individuales difieren. La [información de Europa Press sobre García Prieto](https://www.20minutos.es/noticia/2564103/0/juez-nunez-archiva-causa-contra-exdirigente-psoe-imputado-ere-tras-su-fallecimiento/) distingue la extinción criminal por fallecimiento de las acciones civiles reservadas. Las noticias sobre Guerrero describen su exclusión por el alcance de otro enjuiciamiento y el rechazo a reabrir su imputación; no una absolución del fondo de esta pieza ni una decisión que alcance a todos los demás. Las referencias de 2022 a cuatro ex altos cargos excluidos no permiten completar aquí su relación nominal o situación posterior mediante analogía.
-
-El [juicio iniciado el 3 de junio de 2026](https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/caso-ere-exdelegado-empleo-antonio_0_2006931428.amp.html) mantiene siete acusados: Rivas, tres representantes de Vitalia, dos beneficiarios y un representante de CCOO. La crónica identifica a Albarracín; las noticias previas permiten identificar a Florido, Acevedo y Medina, pero faltan los originales para completar con seguridad todos los nombres y la atribución penal individual. No se deduce la acusación de los otros dos representantes de Vitalia a partir de su aparición en expedientes distintos.
-
-Las alegaciones de las defensas sobre las sentencias del Constitucional y la respuesta fiscal son posiciones de parte. No se convierten en una resolución que haya anulado o limitado definitivamente el juicio de Intesur. Al corte del 15 de octubre de 2026 no se ha cotejado sentencia posterior ni resultado nominal, recursos o firmeza. Tampoco se transforma el anuncio de declaraciones para el 15 de junio en una sesión efectivamente celebrada.
-
-La memoria del Tribunal de Cuentas de 2022, aprobada el 27 de abril de 2023, vincula el PRA B-137/16-12 con las diligencias penales 2717/2016 y explica su suspensión por prejudicialidad penal ante la cuestión de prescripción contable. Se trata de un resumen institucional de la resolución, sin fecha del auto concreto ni identificación de los demandados en ese pasaje. No acredita ni la extinción de las acciones ni una declaración de alcance, y no permite afirmar cuál es el estado contable después del juicio de 2026.

@@ -8,44 +8,28 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución en 2023; firmeza posterior no documentada
-descripcion: >-
-  Esta ficha recoge el juicio celebrado en 2023 ante la Sección Segunda de la Audiencia Provincial de Madrid
-  sobre licencias urbanísticas de Colmenar Viejo concedidas entre 2006 y 2012. La información del juicio lo
-  diferencia de otro procedimiento sobre licencias municipales ya juzgado anteriormente. La similitud de
-  hechos, cargos y nombres no permite trasladar entre esas causas la firmeza o el resultado de recursos.
+descripcion: |-
+  Esta ficha recoge el juicio celebrado en 2023 ante la Sección Segunda de la Audiencia Provincial de Madrid sobre licencias urbanísticas de Colmenar Viejo concedidas entre 2006 y 2012. La información del juicio lo diferencia de otro procedimiento sobre licencias municipales ya juzgado anteriormente. La similitud de hechos, cargos y nombres no permite trasladar entre esas causas la firmeza o el resultado de recursos.
 
+  El juicio comenzó el 24 de abril de 2023. Según la crónica de Telemadrid, se enjuiciaban trece licencias y declararon, entre otros, Jorge García Díaz, entonces alcalde; Carlos Blázquez, candidato del PP a la Alcaldía; y los exalcaldes José María de Federico Corral y Miguel Ángel Santamaría. La Fiscalía solicitaba entre dos y tres años y medio de prisión y hasta diez años de inhabilitación por un delito continuado sobre la ordenación del territorio. Eran peticiones de la acusación, no penas impuestas. Las explicaciones ofrecidas por los acusados en el juicio tampoco se presentan como hechos judicialmente probados.
 
-  El juicio comenzó el 24 de abril de 2023. Según la crónica de Telemadrid, se enjuiciaban trece licencias y
-  declararon, entre otros, Jorge García Díaz, entonces alcalde; Carlos Blázquez, candidato del PP a la
-  Alcaldía; y los exalcaldes José María de Federico Corral y Miguel Ángel Santamaría. La Fiscalía solicitaba
-  entre dos y tres años y medio de prisión y hasta diez años de inhabilitación por un delito continuado sobre
-  la ordenación del territorio. Eran peticiones de la acusación, no penas impuestas. Las explicaciones
-  ofrecidas por los acusados en el juicio tampoco se presentan como hechos judicialmente probados.
+  El CGPJ publicó el 8 de junio de 2023 que la Audiencia había absuelto a los once procesados, entre ellos Jorge García Díaz, mientras la información de EFE difundida por Telemadrid ese mismo día hablaba de doce y citaba nominalmente también a Carlos Blázquez y los dos exalcaldes. El tribunal no apreció la arbitrariedad consciente exigida por el artículo 320 del Código Penal. Según EFE, los acuerdos se apartaban de informes técnicos no vinculantes siguiendo criterios de la jurisdicción contencioso-administrativa. Ese razonamiento fundamentó una absolución, no una declaración de culpabilidad ni una validación indiscriminada de todas las licencias municipales.
 
+  La nota oficial anunciaba apelación ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia de Madrid y advertía de que la resolución no era firme entonces. Hasta el 17 de octubre de 2026 no se han recuperado el fallo original, su número y fecha de firma ni una resolución posterior que permita documentar recursos o firmeza. El 8 de junio de 2023 es la fecha de publicación, no una fecha de sentencia comprobada. También queda pendiente aclarar la discrepancia entre once y doce procesados; los nombres individuales que se recogen proceden de identificación periodística expresa, sin desanonimizar iniciales.
 
-  El CGPJ publicó el 8 de junio de 2023 que la Audiencia había absuelto a los once procesados, entre ellos
-  Jorge García Díaz, mientras la información de EFE difundida por Telemadrid ese mismo día hablaba de doce y
-  citaba nominalmente también a Carlos Blázquez y los dos exalcaldes. El tribunal no apreció la arbitrariedad
-  consciente exigida por el artículo 320 del Código Penal. Según EFE, los acuerdos se apartaban de informes
-  técnicos no vinculantes siguiendo criterios de la jurisdicción contencioso-administrativa. Ese razonamiento
-  fundamentó una absolución, no una declaración de culpabilidad ni una validación indiscriminada de todas las
-  licencias municipales.
+  Una noticia de El Mundo de 22 de febrero de 2017 describía otra denuncia de la Fiscalía, derivada de la documentación de una arquitecta municipal y referida a actuaciones de 2006 a 2014. No se ha acreditado mediante números de procedimiento o resoluciones que sea el origen de este juicio de 2023. Por ello no se atribuye a esta causa el año 2017 como inicio ni se asigna la absolución de 2023 a las personas citadas únicamente en aquella noticia. No se dispone de un perjuicio económico cuantificado: la ausencia de cifra no equivale a daño cero.
 
+  ### Licencias y juicio de 2023
 
-  La nota oficial anunciaba apelación ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia de
-  Madrid y advertía de que la resolución no era firme entonces. Hasta el 17 de octubre de 2026 no se han
-  recuperado el fallo original, su número y fecha de firma ni una resolución posterior que permita documentar
-  recursos o firmeza. El 8 de junio de 2023 es la fecha de publicación, no una fecha de sentencia comprobada.
-  También queda pendiente aclarar la discrepancia entre once y doce procesados; los nombres individuales que
-  se recogen proceden de identificación periodística expresa, sin desanonimizar iniciales.
+  La Fiscalía cuestionó la concesión de licencias urbanísticas entre 2006 y 2012. El juicio comenzó el 24 de abril de 2023 y la absolución se difundió el 8 de junio. Las peticiones de prisión e inhabilitación no se convirtieron en penas impuestas: la Audiencia no apreció la actuación arbitraria y consciente exigida para condenar por el artículo 320 del Código Penal.
 
+  La información de EFE identifica como absueltos a Jorge García Díaz, Carlos Blázquez, José María de Federico Corral y Miguel Ángel Santamaría. La nota del CGPJ y EFE discrepan sobre el total de procesados, once y doce respectivamente. Sin el fallo original no se completa la relación mediante iniciales ni se resuelve esa diferencia.
 
-  Una noticia de El Mundo de 22 de febrero de 2017 describía otra denuncia de la Fiscalía, derivada de la
-  documentación de una arquitecta municipal y referida a actuaciones de 2006 a 2014. No se ha acreditado
-  mediante números de procedimiento o resoluciones que sea el origen de este juicio de 2023. Por ello no se
-  atribuye a esta causa el año 2017 como inicio ni se asigna la absolución de 2023 a las personas citadas
-  únicamente en aquella noticia. No se dispone de un perjuicio económico cuantificado: la ausencia de cifra no
-  equivale a daño cero.
+  ### Procedimientos que no deben confundirse
+
+  La prensa diferencia este juicio de otro procedimiento urbanístico municipal anterior. También existe una denuncia publicada en febrero de 2017 sobre actuaciones de 2006 a 2014. No se han recuperado los datos procesales que permitan vincularla de forma concluyente al juicio de 2023. Las personas citadas solamente en aquella denuncia no reciben aquí una absolución o un estado procesal trasladado de otra causa.
+
+  La resolución difundida en junio de 2023 admitía apelación ante el TSJ de Madrid. No se ha obtenido su original ni una decisión posterior sobre recursos o firmeza. La ausencia de noticias posteriores no acredita que continúe abierta ni que haya adquirido firmeza. Tampoco hay una cuantificación de perjuicio económico que permita consignar una cifra de daño.
 resumen: Segunda causa sobre la gestión urbanística del PP de Colmenar Viejo (licencias e informes técnicos, 2006-2012),
   con resolución absolutoria de la Audiencia Provincial de Madrid conocida en junio de 2023 y de firmeza desconocida.
 lugar: Colmenar Viejo, Comunidad de Madrid
@@ -112,15 +96,3 @@ cronologia:
   - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Madrid/Noticias-Judiciales-TSJ-Madrid/La-Audiencia-de-Madrid-absuelve-al-alcalde-de-Colmenar-Viejo-en-funciones-de-un-delito-continuado-de-ordenacion-del-territorio
   - https://www.telemadrid.es/noticias/madrid/Absueltos-los-ediles-de-Colmenar-Viejo-acusados-de-prevaricacion-urbanistica-0-2567443263--20230608013001.html
 ---
-
-## Licencias y juicio de 2023
-
-La Fiscalía cuestionó la concesión de licencias urbanísticas entre 2006 y 2012. El juicio comenzó el 24 de abril de 2023 y la absolución se difundió el 8 de junio. Las peticiones de prisión e inhabilitación no se convirtieron en penas impuestas: la Audiencia no apreció la actuación arbitraria y consciente exigida para condenar por el artículo 320 del Código Penal.
-
-La información de EFE identifica como absueltos a Jorge García Díaz, Carlos Blázquez, José María de Federico Corral y Miguel Ángel Santamaría. La nota del CGPJ y EFE discrepan sobre el total de procesados, once y doce respectivamente. Sin el fallo original no se completa la relación mediante iniciales ni se resuelve esa diferencia.
-
-## Procedimientos que no deben confundirse
-
-La prensa diferencia este juicio de otro procedimiento urbanístico municipal anterior. También existe una denuncia publicada en febrero de 2017 sobre actuaciones de 2006 a 2014. No se han recuperado los datos procesales que permitan vincularla de forma concluyente al juicio de 2023. Las personas citadas solamente en aquella denuncia no reciben aquí una absolución o un estado procesal trasladado de otra causa.
-
-La resolución difundida en junio de 2023 admitía apelación ante el TSJ de Madrid. No se ha obtenido su original ni una decisión posterior sobre recursos o firmeza. La ausencia de noticias posteriores no acredita que continúe abierta ni que haya adquirido firmeza. Tampoco hay una cuantificación de perjuicio económico que permita consignar una cifra de daño.

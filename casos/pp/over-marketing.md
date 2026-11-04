@@ -11,12 +11,34 @@ firmeza: Sin determinar
 estado: condenas de la pieza balear y casación resuelta; ejecución actual pendiente de verificar
 resumen: Contratos públicos para compensar gastos electorales del PP balear; pieza 27 de Palma Arena, con casación
   de Rodríguez desestimada en 2022.
-descripcion: Esta ficha se centra en la pieza 27 de Palma Arena, subpiezas 1, 2 y 3, sobre contratos con el grupo
-  Over y gastos electorales del PP balear de 2003. La Audiencia Provincial de Palma dictó la sentencia 373/2019,
-  de 14 de junio, aclarada el 28 de junio. El Tribunal Supremo desestimó el recurso de José María Rodríguez en la
-  sentencia 690/2022, de 7 de julio. Se distinguen las condenas y absoluciones personales de la responsabilidad
-  civil del PP. No se acredita un daño global de 60 millones ni un único desenlace de las investigaciones de otras
-  comunidades. La evolución del amparo y de la ejecución hasta el 17 de octubre de 2026 permanece pendiente de verificar.
+descripcion: |-
+  Esta ficha se centra en la pieza 27 de Palma Arena, subpiezas 1, 2 y 3, sobre contratos con el grupo Over y gastos electorales del PP balear de 2003. La Audiencia Provincial de Palma dictó la sentencia 373/2019, de 14 de junio, aclarada el 28 de junio. El Tribunal Supremo desestimó el recurso de José María Rodríguez en la sentencia 690/2022, de 7 de julio. Se distinguen las condenas y absoluciones personales de la responsabilidad civil del PP. No se acredita un daño global de 60 millones ni un único desenlace de las investigaciones de otras comunidades. La evolución del amparo y de la ejecución hasta el 17 de octubre de 2026 permanece pendiente de verificar.
+
+  ### Alcance de la causa
+
+  El [facsímil nominal del Supremo](https://estaticos-cdn.prensaiberica.es/epi/public/content/file/original/2022/0711/10/lea-aqui-la-sentencia-del-caso-over-marketing-que-condena-a-3-5-a-jose-maria-rodriguiez-exlider-del--c472f6c.pdf), páginas físicas 2–3, identifica las diligencias 2677/2008, pieza separada 27, subpiezas 1, 2 y 3, y la sentencia recurrida. El fallo final resuelve la casación de Rodríguez. No es una condena general de todas las actividades nacionales del grupo Over.
+
+  En las páginas físicas 85–88 se examinan la campaña balear de 2003, pagos opacos y una deuda electoral pendiente de 80.000 euros. Esa deuda privada no es por sí sola la cuantificación del perjuicio público. Los 60 millones mezclaban volúmenes de contratos, hipótesis y ámbitos territoriales, sin un daño judicial total acreditado.
+
+  Los procedimientos de Madrid/Púnica y Valencia son distintos y no consta aquí su situación actual. No están acreditados el contrato atribuido a Son Espases en 2012 ni su supuesta equivalencia con la deuda electoral. El nombre de una empresa o su aparición en otro contrato no permite trasladar responsabilidad, sentencia o daño. No se duplican importes con Palma Arena, Son Espases ni otras fichas de Matas.
+
+  ### Penas y responsabilidades civiles
+
+  El pronunciamiento de instancia reproducido en el facsímil nominal, páginas físicas 54–59, distingue:
+
+  - Matas: sustitución del año de prisión por 24 meses de multa y del año y seis meses por 36 meses, ambas a diez euros diarios. La equivalencia global de 18.000 euros no acredita pago efectivo.
+  - Mercado: sustitución de tres meses de prisión por 180 días de multa a seis euros y de un año por 720 días a seis euros. Son 1.080 y 4.320 euros, respectivamente. No se suman con responsabilidades civiles.
+  - Padilla: siete meses de prisión sustituidos por 420 días de multa a ocho euros (3.360 euros), además de inhabilitaciones.
+  - Responsabilidad civil de 10.913,80 euros de Matas, Padilla y Mercado por la subpieza 2, con cuotas según el fallo; no es el volumen abonado en contratos de 109.138,03 euros.
+  - Responsabilidad civil de 9.048 euros de Matas, Mercado y Rodríguez por el contrato D2, y del PP balear solidariamente con ellos por esa misma cantidad. No se cuenta cuatro veces ni se convierte en multa penal al partido.
+
+  Las penas del listado son de esta pieza. No se acumulan aritméticamente con otras condenas de Palma Arena, Nóos u otros procedimientos para inferir tiempo real de cumplimiento. Las absoluciones parciales de Durán y Rodríguez y la absolución de De Miguel se conservan expresamente.
+
+  ### Documentación y actualización pendientes
+
+  La fecha de la sentencia del Supremo es 7 de julio de 2022; el PDF fue generado el 11 de julio, fecha que también corresponde a las noticias sobre ella. Son datos distintos. El enlace es un facsímil judicial nominal publicado por un medio: no se reconstruyeron identidades a partir de pseudónimos. También se dispone de la [versión oficial de CENDOJ](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=bc4d8eb128d2d5c3a0a8778d75e36f0d&encode=true&databasematch=AN), de 47 páginas, con la misma sentencia 690/2022, fecha y recurso. Las referencias anteriores a páginas físicas corresponden al facsímil nominal de 106 páginas.
+
+  La [noticia de octubre de 2022](https://www.eldiario.es/illes-balears/politica/jose-maria-rodriguez-logra-tercer-grado-penitenciario-doce-dias-despues-ingreso_1_9647847.amp.html) documenta a través de prensa el ingreso y el tercer grado de Rodríguez. No acredita libertad condicional, cumplimiento completo ni situación penitenciaria actual. No se ha obtenido el acuerdo penitenciario ni una resolución posterior del amparo citado. La ausencia de una novedad localizada hasta el corte de 17 de octubre de 2026 no demuestra su inexistencia. No consta una fecha final de ejecución.
 lugar: Illes Balears
 tribunal:
 - Audiencia Provincial de Palma de Mallorca, Sección Segunda
@@ -98,29 +120,3 @@ cronologia:
   - https://www.eldiario.es/illes-balears/politica/jose-maria-rodriguez-logra-tercer-grado-penitenciario-doce-dias-despues-ingreso_1_9647847.amp.html
 numeroSentencia: AP Palma, Sección Segunda, 373/2019, de 14 de junio; TS 690/2022, de 7 de julio (recurso 4306/2020).
 ---
-
-## Alcance de la causa
-
-El [facsímil nominal del Supremo](https://estaticos-cdn.prensaiberica.es/epi/public/content/file/original/2022/0711/10/lea-aqui-la-sentencia-del-caso-over-marketing-que-condena-a-3-5-a-jose-maria-rodriguiez-exlider-del--c472f6c.pdf), páginas físicas 2–3, identifica las diligencias 2677/2008, pieza separada 27, subpiezas 1, 2 y 3, y la sentencia recurrida. El fallo final resuelve la casación de Rodríguez. No es una condena general de todas las actividades nacionales del grupo Over.
-
-En las páginas físicas 85–88 se examinan la campaña balear de 2003, pagos opacos y una deuda electoral pendiente de 80.000 euros. Esa deuda privada no es por sí sola la cuantificación del perjuicio público. Los 60 millones mezclaban volúmenes de contratos, hipótesis y ámbitos territoriales, sin un daño judicial total acreditado.
-
-Los procedimientos de Madrid/Púnica y Valencia son distintos y no consta aquí su situación actual. No están acreditados el contrato atribuido a Son Espases en 2012 ni su supuesta equivalencia con la deuda electoral. El nombre de una empresa o su aparición en otro contrato no permite trasladar responsabilidad, sentencia o daño. No se duplican importes con Palma Arena, Son Espases ni otras fichas de Matas.
-
-## Penas y responsabilidades civiles
-
-El pronunciamiento de instancia reproducido en el facsímil nominal, páginas físicas 54–59, distingue:
-
-- Matas: sustitución del año de prisión por 24 meses de multa y del año y seis meses por 36 meses, ambas a diez euros diarios. La equivalencia global de 18.000 euros no acredita pago efectivo.
-- Mercado: sustitución de tres meses de prisión por 180 días de multa a seis euros y de un año por 720 días a seis euros. Son 1.080 y 4.320 euros, respectivamente. No se suman con responsabilidades civiles.
-- Padilla: siete meses de prisión sustituidos por 420 días de multa a ocho euros (3.360 euros), además de inhabilitaciones.
-- Responsabilidad civil de 10.913,80 euros de Matas, Padilla y Mercado por la subpieza 2, con cuotas según el fallo; no es el volumen abonado en contratos de 109.138,03 euros.
-- Responsabilidad civil de 9.048 euros de Matas, Mercado y Rodríguez por el contrato D2, y del PP balear solidariamente con ellos por esa misma cantidad. No se cuenta cuatro veces ni se convierte en multa penal al partido.
-
-Las penas del listado son de esta pieza. No se acumulan aritméticamente con otras condenas de Palma Arena, Nóos u otros procedimientos para inferir tiempo real de cumplimiento. Las absoluciones parciales de Durán y Rodríguez y la absolución de De Miguel se conservan expresamente.
-
-## Documentación y actualización pendientes
-
-La fecha de la sentencia del Supremo es 7 de julio de 2022; el PDF fue generado el 11 de julio, fecha que también corresponde a las noticias sobre ella. Son datos distintos. El enlace es un facsímil judicial nominal publicado por un medio: no se reconstruyeron identidades a partir de pseudónimos. También se dispone de la [versión oficial de CENDOJ](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=bc4d8eb128d2d5c3a0a8778d75e36f0d&encode=true&databasematch=AN), de 47 páginas, con la misma sentencia 690/2022, fecha y recurso. Las referencias anteriores a páginas físicas corresponden al facsímil nominal de 106 páginas.
-
-La [noticia de octubre de 2022](https://www.eldiario.es/illes-balears/politica/jose-maria-rodriguez-logra-tercer-grado-penitenciario-doce-dias-despues-ingreso_1_9647847.amp.html) documenta a través de prensa el ingreso y el tercer grado de Rodríguez. No acredita libertad condicional, cumplimiento completo ni situación penitenciaria actual. No se ha obtenido el acuerdo penitenciario ni una resolución posterior del amparo citado. La ausencia de una novedad localizada hasta el corte de 17 de octubre de 2026 no demuestra su inexistencia. No consta una fecha final de ejecución.

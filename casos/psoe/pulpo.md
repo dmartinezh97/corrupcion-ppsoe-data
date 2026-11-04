@@ -9,15 +9,16 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: sobreseimiento provisional
 lugar: Lugo, Galicia
-descripcion: Investigación sobre el programa turístico KM0 y otros aspectos de la gestión de la Diputación de Lugo,
-  iniciada en 2013 y dividida en piezas. El Juzgado de Instrucción 2 acordó en diciembre de 2022 el sobreseimiento
-  provisional de las presuntas adjudicaciones ilícitas, al no apreciar indicios racionales de criminalidad. La pieza
-  matriz, centrada en Juan Carlos Fernández Pulpeiro y el manejo de fondos y personal del programa, tuvo otro auto
-  de sobreseimiento provisional de 18 de junio de 2025, conocido al día siguiente y susceptible de recurso. José
-  Ramón Gómez Besteiro fue investigado y las noticias documentan el archivo de las actuaciones que le afectaban;
-  no fue una absolución tras juicio. No se han recuperado los autos originales ni comprobado íntegramente firmeza
-  y recursos por pieza y persona hasta el corte del 17 de octubre de 2026. Los gastos y ayudas que fueron objeto
-  de sospecha no se presentan como daño probado ni se suman como coste.
+descripcion: |-
+  Investigación sobre el programa turístico KM0 y otros aspectos de la gestión de la Diputación de Lugo, iniciada en 2013 y dividida en piezas. El Juzgado de Instrucción 2 acordó en diciembre de 2022 el sobreseimiento provisional de las presuntas adjudicaciones ilícitas, al no apreciar indicios racionales de criminalidad. La pieza matriz, centrada en Juan Carlos Fernández Pulpeiro y el manejo de fondos y personal del programa, tuvo otro auto de sobreseimiento provisional de 18 de junio de 2025, conocido al día siguiente y susceptible de recurso. José Ramón Gómez Besteiro fue investigado y las noticias documentan el archivo de las actuaciones que le afectaban; no fue una absolución tras juicio. No se han recuperado los autos originales ni comprobado íntegramente firmeza y recursos por pieza y persona hasta el corte del 17 de octubre de 2026. Los gastos y ayudas que fueron objeto de sospecha no se presentan como daño probado ni se suman como coste.
+
+  La [información de 2016](https://www.rtve.es/noticias/20160511/besteiro-se-niega-a-declarar-ante-juez-investiga-por-operacion-pulpo/1349594.shtml) describe una causa iniciada en 2013 a partir de denuncias sobre el área de Protocolo y ampliada a contratación, subvenciones y gastos. Los delitos entonces atribuidos a Besteiro eran sospechas de investigación, no acusaciones probadas ni condenas. No se fija el 11 de junio como fecha exacta inicial sin un documento que lo confirme.
+
+  El [sobreseimiento de 2022](https://www.europapress.es/galicia/noticia-archivan-provisionalmente-operacion-pulpo-ultima-causa-pendiente-exlider-psdeg-jose-ramon-gomez-besteiro-20221221182312.html) se refería a adjudicaciones del programaKM0 a empresas de transporte. La noticia recoge deficiencias en la formación del testimonio y ausencia de indicios objetivos, así como un recurso pendiente sobre la delimitación del objeto procesal en otra resolución del Juzgado 1. El [seguimiento de febrero de 2023](https://www.elprogreso.es/articulo/lugo/cruz-judicial-besteiro-llega-fin-archivo-definitivo-caso-pulpo/202302031709011636934.amp.html) señaló que Fiscalía no recurrió el archivo que afectaba a Besteiro y que quedaba la pieza matriz. No se confunden ausencia de recurso fiscal, firmeza y naturaleza provisional o libre del sobreseimiento.
+
+  La [resolución conocida en junio de 2025](https://www.elprogreso.es/articulo/lugo/archivada-operacion-pulpo-irregularidades-diputacion-lugo/202506191450481889275.amp.html), corroborada por [Economía Digital](https://www.economiadigital.es/galicia/politica/justicia-archiva-ultima-pieza-operacion-pulpo-causa-aparto-besteiro-politica.html?noamp=mobile), examinó la selección de una empleada, el manejo de efectivo de los programasLug 02 yKM0, posibles apropiaciones y pagos ajenos al programa. La prensa refiere que el juez no consideró suficientes las sospechas para acreditar hechos delictivos y acordó sobreseimiento provisional, con recurso posible. No es un archivo definitivo ni una sentencia absolutoria. La relación de personas investigadas no permite atribuir a cada una todos los hechos de las distintas piezas.
+
+  Las sumas de gastos sociales, sanitarios o de viajes no acreditan una pérdida patrimonial. No se dispone de una cuantificación judicial de daño. Tampoco se presenta como conclusión judicial la acusación política de que otros partidos fabricaron la causa. Faltan los autos originales, el seguimiento de los recursos y la precisión del alcance nominal de cada archivo. El cargo político corresponde a la fecha de la noticia, no necesariamente a la actualidad.
 resumen: Investigación sobre KM0 y la Diputación de Lugo con sobreseimientos diferenciados en 2022 y 2025 por falta
   de indicios de delito.
 tribunal:
@@ -83,11 +84,3 @@ cronologia:
   type: resolucion
   relevancia: alta
 ---
-
-La [información de 2016](https://www.rtve.es/noticias/20160511/besteiro-se-niega-a-declarar-ante-juez-investiga-por-operacion-pulpo/1349594.shtml) describe una causa iniciada en 2013 a partir de denuncias sobre el área de Protocolo y ampliada a contratación, subvenciones y gastos. Los delitos entonces atribuidos a Besteiro eran sospechas de investigación, no acusaciones probadas ni condenas. No se fija el 11 de junio como fecha exacta inicial sin un documento que lo confirme.
-
-El [sobreseimiento de 2022](https://www.europapress.es/galicia/noticia-archivan-provisionalmente-operacion-pulpo-ultima-causa-pendiente-exlider-psdeg-jose-ramon-gomez-besteiro-20221221182312.html) se refería a adjudicaciones del programaKM0 a empresas de transporte. La noticia recoge deficiencias en la formación del testimonio y ausencia de indicios objetivos, así como un recurso pendiente sobre la delimitación del objeto procesal en otra resolución del Juzgado 1. El [seguimiento de febrero de 2023](https://www.elprogreso.es/articulo/lugo/cruz-judicial-besteiro-llega-fin-archivo-definitivo-caso-pulpo/202302031709011636934.amp.html) señaló que Fiscalía no recurrió el archivo que afectaba a Besteiro y que quedaba la pieza matriz. No se confunden ausencia de recurso fiscal, firmeza y naturaleza provisional o libre del sobreseimiento.
-
-La [resolución conocida en junio de 2025](https://www.elprogreso.es/articulo/lugo/archivada-operacion-pulpo-irregularidades-diputacion-lugo/202506191450481889275.amp.html), corroborada por [Economía Digital](https://www.economiadigital.es/galicia/politica/justicia-archiva-ultima-pieza-operacion-pulpo-causa-aparto-besteiro-politica.html?noamp=mobile), examinó la selección de una empleada, el manejo de efectivo de los programasLug 02 yKM0, posibles apropiaciones y pagos ajenos al programa. La prensa refiere que el juez no consideró suficientes las sospechas para acreditar hechos delictivos y acordó sobreseimiento provisional, con recurso posible. No es un archivo definitivo ni una sentencia absolutoria. La relación de personas investigadas no permite atribuir a cada una todos los hechos de las distintas piezas.
-
-Las sumas de gastos sociales, sanitarios o de viajes no acreditan una pérdida patrimonial. No se dispone de una cuantificación judicial de daño. Tampoco se presenta como conclusión judicial la acusación política de que otros partidos fabricaron la causa. Faltan los autos originales, el seguimiento de los recursos y la precisión del alcance nominal de cada archivo. El cargo político corresponde a la fecha de la noticia, no necesariamente a la actualidad.

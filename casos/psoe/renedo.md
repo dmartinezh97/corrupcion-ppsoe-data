@@ -10,20 +10,18 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Sanción administrativa comunicada; revisión documental pendiente"
 lugar: "Cantabria"
-descripcion: >-
-  Investigación administrativa sobre contratos adjudicados por Alicia Renedo Alonso, exdirectora general de
-  Igualdad y Mujer y de Juventud del Gobierno de Cantabria. El 13 de enero de 2023 se informó de su dimisión y
-  de una investigación de oficio de la Inspección General de Servicios. En marzo, la consejera de Presidencia
-  explicó una primera fase de las pesquisas, que seguían abiertas: se había apreciado falta de abstención en
-  un contrato de Juventud de 2022 con una empresaria para la que Renedo había trabajado anteriormente.
+descripcion: |-
+  Investigación administrativa sobre contratos adjudicados por Alicia Renedo Alonso, exdirectora general de Igualdad y Mujer y de Juventud del Gobierno de Cantabria. El 13 de enero de 2023 se informó de su dimisión y de una investigación de oficio de la Inspección General de Servicios. En marzo, la consejera de Presidencia explicó una primera fase de las pesquisas, que seguían abiertas: se había apreciado falta de abstención en un contrato de Juventud de 2022 con una empresaria para la que Renedo había trabajado anteriormente.
 
+  El 8 de julio de 2023 Europa Press informó, citando fuentes del Ejecutivo, de una sanción por infracción leve cuyo efecto era la publicación en el Boletín Oficial de Cantabria. No se dispone de la resolución sancionadora original ni están acreditadas su fecha exacta, firmeza, publicación efectiva o eventuales recursos. Tampoco acredita una resolución penal ni permite presentar todos los contratos cuestionados como ilegales. El volumen de contratos no se considera perjuicio público probado. Es un caso distinto del de Marta Renedo en Marea (Asturias).
 
-  El 8 de julio de 2023 Europa Press informó, citando fuentes del Ejecutivo, de una sanción por infracción
-  leve cuyo efecto era la publicación en el Boletín Oficial de Cantabria. No se dispone de la resolución
-  sancionadora original ni están acreditadas su fecha exacta, firmeza, publicación efectiva o eventuales
-  recursos. Tampoco acredita una resolución penal ni permite presentar todos los contratos cuestionados como
-  ilegales. El volumen de contratos no se considera perjuicio público probado. Es un caso distinto del de
-  Marta Renedo en Marea (Asturias).
+  La información de marzo de 2023 distingue los contratos de la etapa de Igualdad (2015-2019), anteriores al trabajo privado de Renedo, del contrato posterior de Juventud que motivó la falta de abstención. No debe extenderse automáticamente esa infracción a los contratos anteriores ni a los de otros ayuntamientos. Las noticias sobre la sanción no acreditan una condena por prevaricación, una red delictiva ni un daño económico cuantificado.
+
+  La dimisión se comunicó el 13 de enero. Como referencia oficial independiente, la Orden UIC/1/2023, de 27 de enero, publicada el 13 de febrero, menciona el cese como directora general por Decreto 1/2023, de 19 de enero. Son actos y fechas distintos; esta orden sobre el Consejo de Cooperación no es la resolución sancionadora ([BOC, página 2](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=385434)).
+
+  **Información pendiente de acreditar al 17 de octubre de 2026:** faltan el expediente de inspección y la resolución sancionadora original, así como comprobación de sus recursos y evolución posterior. No se afirma que hubiera archivo judicial ni que el asunto nunca llegara a la vía penal. La Inspección General de Servicios es un órgano administrativo, no un tribunal. No se dispone de la documentación sancionadora necesaria para resolver esas carencias.
+
+  Esta ficha trata de **Alicia Renedo Alonso, Cantabria**. El caso Marea se refiere a **Marta Renedo, Asturias**: no se trasladan aquí sus condenas, responsabilidades civiles ni importes.
 resumen: "Sanción administrativa comunicada por falta de abstención en un contrato; resolución original y evolución posterior pendientes de verificar."
 tribunal: []
 numeroSentencia: ""
@@ -60,11 +58,3 @@ cronologia:
     urls:
       - "https://www.europapress.es/cantabria/noticia-gobierno-sanciona-alicia-renedo-no-inhibirse-adjudicacion-contrato-empresa-trabajo-20230708141202.html"
 ---
-
-La información de marzo de 2023 distingue los contratos de la etapa de Igualdad (2015-2019), anteriores al trabajo privado de Renedo, del contrato posterior de Juventud que motivó la falta de abstención. No debe extenderse automáticamente esa infracción a los contratos anteriores ni a los de otros ayuntamientos. Las noticias sobre la sanción no acreditan una condena por prevaricación, una red delictiva ni un daño económico cuantificado.
-
-La dimisión se comunicó el 13 de enero. Como referencia oficial independiente, la Orden UIC/1/2023, de 27 de enero, publicada el 13 de febrero, menciona el cese como directora general por Decreto 1/2023, de 19 de enero. Son actos y fechas distintos; esta orden sobre el Consejo de Cooperación no es la resolución sancionadora ([BOC, página 2](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=385434)).
-
-**Información pendiente de acreditar al 17 de octubre de 2026:** faltan el expediente de inspección y la resolución sancionadora original, así como comprobación de sus recursos y evolución posterior. No se afirma que hubiera archivo judicial ni que el asunto nunca llegara a la vía penal. La Inspección General de Servicios es un órgano administrativo, no un tribunal. No se dispone de la documentación sancionadora necesaria para resolver esas carencias.
-
-Esta ficha trata de **Alicia Renedo Alonso, Cantabria**. El caso Marea se refiere a **Marta Renedo, Asturias**: no se trasladan aquí sus condenas, responsabilidades civiles ni importes.

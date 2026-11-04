@@ -8,27 +8,26 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Concurso culpable y causas penales con resultados distintos; firmeza y ejecución pendientes de cotejo"
-descripcion: >-
-  La gestión de Iniciativas de Desarrollo de Los Palacios (Idelpa), sociedad participada por el Ayuntamiento
-  de Los Palacios y Villafranca y Prodetur, dio lugar a procedimientos distintos. Según Europa Press y la
-  información municipal de mayo de 2018, el Juzgado de lo Mercantil número 2 de Sevilla calificó como culpable
-  el concurso de la empresa e impuso inhabilitaciones para administrar bienes ajenos y una obligación de
-  cubrir 80.000 euros de déficit concursal. Esa calificación mercantil no equivale por sí sola a una condena
-  penal.
+descripcion: |-
+  La gestión de Iniciativas de Desarrollo de Los Palacios (Idelpa), sociedad participada por el Ayuntamiento de Los Palacios y Villafranca y Prodetur, dio lugar a procedimientos distintos. Según Europa Press y la información municipal de mayo de 2018, el Juzgado de lo Mercantil número 2 de Sevilla calificó como culpable el concurso de la empresa e impuso inhabilitaciones para administrar bienes ajenos y una obligación de cubrir 80.000 euros de déficit concursal. Esa calificación mercantil no equivale por sí sola a una condena penal.
 
+  En la causa penal Rodina, la prensa documenta una conformidad de marzo de 2018 por malversación y falsedad, con penas individualizadas para Miguel Troncoso, Rosario Gavira y Rafael Cortés e indemnización solidaria de 129.154 euros. En septiembre de 2021, otra sentencia condenó a Troncoso y Cortés por prevaricación en la adjudicación de los proyectos. En un asunto diferente relativo a una vivienda de Chapatales, Troncoso fue absuelto en 2019 de apropiación indebida y estafa.
 
-  En la causa penal Rodina, la prensa documenta una conformidad de marzo de 2018 por malversación y falsedad,
-  con penas individualizadas para Miguel Troncoso, Rosario Gavira y Rafael Cortés e indemnización solidaria de
-  129.154 euros. En septiembre de 2021, otra sentencia condenó a Troncoso y Cortés por prevaricación en la
-  adjudicación de los proyectos. En un asunto diferente relativo a una vivienda de Chapatales, Troncoso fue
-  absuelto en 2019 de apropiación indebida y estafa.
+  No se han recuperado los originales de esas sentencias ni verificado sus recursos, firmeza o ejecución hasta el 17 de octubre de 2026. La evolución de las viviendas tampoco se limita al abandono inicial: la Diputación anunció en septiembre de 2026 la licitación para terminar 50 viviendas en Los Chapatales. El presupuesto de esa obra, los pasivos de Idelpa y las indemnizaciones judiciales son conceptos distintos, sin un daño conjunto cuantificado en las fuentes citadas.
 
+  El concurso mercantil, Rodina y la reclamación de compradores son procedimientos con objetos y resultados distintos. La calificación de concurso culpable comporta consecuencias mercantiles, entre ellas inhabilitación para administrar bienes ajenos; no es una pena general de inhabilitación política ni una condena por malversación del exalcalde. Europa Press añade que Prodetur no fue declarada culpable por haberse apartado de la administración en 2010. Sin el original mercantil no se certifica el alcance individual completo de todas las obligaciones de pago.
 
-  No se han recuperado los originales de esas sentencias ni verificado sus recursos, firmeza o ejecución hasta
-  el 17 de octubre de 2026. La evolución de las viviendas tampoco se limita al abandono inicial: la Diputación
-  anunció en septiembre de 2026 la licitación para terminar 50 viviendas en Los Chapatales. El presupuesto de
-  esa obra, los pasivos de Idelpa y las indemnizaciones judiciales son conceptos distintos, sin un daño
-  conjunto cuantificado en las fuentes citadas.
+  En Rodina, la cobertura contemporánea de marzo de 2018 distingue las penas de Gavira de las de Troncoso y Cortés: dieciocho meses por malversación para los tres y otros tres meses por falsedad para los dos últimos, además de las inhabilitaciones y multas descritas en la noticia. La sentencia de 2021 por prevaricación corresponde a la adjudicación de los proyectos. No se computan ambas condenas como si fueran una sola sentencia ni se infiere su cumplimiento. La absolución de 2019 por cantidades anticipadas para una vivienda tampoco anula aquellas condenas sobre otro objeto.
+
+  Los 2.080.000 euros no constituyen un perjuicio acreditado. El pasivo omitido en la contabilidad, el déficit concursal de 80.000 euros, el reconocimiento de deuda de 562.453,50 euros y la indemnización penal de 129.154 euros no son conceptos intercambiables. No se suman ni se multiplican por el número de obligados solidarios. Tampoco se añaden los presupuestos de terminación de las viviendas o las ayudas de otra causa. No se dispone de una cuantificación conjunta verificada ni del saldo pendiente tras pagos y garantías.
+
+  La información municipal de 2018 incluye valoraciones políticas del alcalde, que se distinguen de su resumen de la sentencia. La resolución del Consejo Audiovisual de Andalucía de diciembre de 2021, analiza la atribución de una noticia de RTV Los Palacios sobre Rodina; no sustituye los fallos penales ni declara la culpabilidad de cargos actuales mencionados en aquella noticia.
+
+  La promoción de Chapatales documentada oficialmente en 2026 tiene 50 viviendas. No está acreditada la imposibilidad definitiva de recuperar las inversiones. El anuncio del BOP acredita un trámite de cesión y la nota provincial una licitación, no una finalización efectiva de obras. Los encargos de 70 y 72 viviendas del asunto Rodina son otro objeto y no se confunden con esta promoción.
+
+  La condena del centro ecuestre de la pieza separada de los ERE pertenece a otra causa; no permite fechar el cierre de Idelpa ni agregar sus ayudas como daño de esta sociedad.
+
+  Información disponible al 17 de octubre de 2026. Faltan los originales judiciales del concurso y de las causas penales, los resultados de los eventuales recursos y la ejecución de penas y obligaciones económicas. El PDF incluido documenta exclusivamente la actuación administrativa de vivienda de 2026. No consta una fecha de cierre definitivo.
 resumen: "Procedimientos mercantiles y penales sobre Idelpa: concurso culpable, condenas en Rodina y una absolución de Troncoso en otra causa de vivienda. Faltan originales judiciales y comprobación de firmeza y ejecución."
 lugar: "Los Palacios y Villafranca, Sevilla, Andalucía"
 tribunal:
@@ -121,17 +120,3 @@ cronologia:
     urls:
       - "https://www.dipusevilla.es/comunicacion/noticias/La-Diputacion-de-Sevilla-licita-por-38-millones-de-euros-la-terminacion-de-50-viviendas-protegidas-en-Los-Palacios-y-Villafranca/"
 ---
-
-El concurso mercantil, Rodina y la reclamación de compradores son procedimientos con objetos y resultados distintos. La calificación de concurso culpable comporta consecuencias mercantiles, entre ellas inhabilitación para administrar bienes ajenos; no es una pena general de inhabilitación política ni una condena por malversación del exalcalde. Europa Press añade que Prodetur no fue declarada culpable por haberse apartado de la administración en 2010. Sin el original mercantil no se certifica el alcance individual completo de todas las obligaciones de pago.
-
-En Rodina, la cobertura contemporánea de marzo de 2018 distingue las penas de Gavira de las de Troncoso y Cortés: dieciocho meses por malversación para los tres y otros tres meses por falsedad para los dos últimos, además de las inhabilitaciones y multas descritas en la noticia. La sentencia de 2021 por prevaricación corresponde a la adjudicación de los proyectos. No se computan ambas condenas como si fueran una sola sentencia ni se infiere su cumplimiento. La absolución de 2019 por cantidades anticipadas para una vivienda tampoco anula aquellas condenas sobre otro objeto.
-
-Los 2.080.000 euros no constituyen un perjuicio acreditado. El pasivo omitido en la contabilidad, el déficit concursal de 80.000 euros, el reconocimiento de deuda de 562.453,50 euros y la indemnización penal de 129.154 euros no son conceptos intercambiables. No se suman ni se multiplican por el número de obligados solidarios. Tampoco se añaden los presupuestos de terminación de las viviendas o las ayudas de otra causa. No se dispone de una cuantificación conjunta verificada ni del saldo pendiente tras pagos y garantías.
-
-La información municipal de 2018 incluye valoraciones políticas del alcalde, que se distinguen de su resumen de la sentencia. La resolución del Consejo Audiovisual de Andalucía de diciembre de 2021, analiza la atribución de una noticia de RTV Los Palacios sobre Rodina; no sustituye los fallos penales ni declara la culpabilidad de cargos actuales mencionados en aquella noticia.
-
-La promoción de Chapatales documentada oficialmente en 2026 tiene 50 viviendas. No está acreditada la imposibilidad definitiva de recuperar las inversiones. El anuncio del BOP acredita un trámite de cesión y la nota provincial una licitación, no una finalización efectiva de obras. Los encargos de 70 y 72 viviendas del asunto Rodina son otro objeto y no se confunden con esta promoción.
-
-La condena del centro ecuestre de la pieza separada de los ERE pertenece a otra causa; no permite fechar el cierre de Idelpa ni agregar sus ayudas como daño de esta sociedad.
-
-Información disponible al 17 de octubre de 2026. Faltan los originales judiciales del concurso y de las causas penales, los resultados de los eventuales recursos y la ejecución de penas y obligaciones económicas. El PDF incluido documenta exclusivamente la actuación administrativa de vivienda de 2026. No consta una fecha de cierre definitivo.

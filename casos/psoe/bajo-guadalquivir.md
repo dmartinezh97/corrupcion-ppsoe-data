@@ -10,27 +10,22 @@ recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: resultados diversos
 lugar: Bajo Guadalquivir, Sevilla y Cádiz, Andalucía
-descripcion: 'Esta ficha distingue la investigación de subvenciones de la Mancomunidad del Bajo Guadalquivir del
-  procedimiento de regadíos conocido como caso Marismas. La condena de Antonio Maestre por el centro ecuestre, dictada
-  en otra pieza de los ERE, no resuelve ninguno de esos asuntos.
+descripcion: |-
+  Esta ficha distingue la investigación de subvenciones de la Mancomunidad del Bajo Guadalquivir del procedimiento de regadíos conocido como caso Marismas. La condena de Antonio Maestre por el centro ecuestre, dictada en otra pieza de los ERE, no resuelve ninguno de esos asuntos.
 
+  En abril de 2018 se informó de la apertura de juicio oral contra Maestre y otros cuatro responsables de la Mancomunidad por el destino de un anticipo del SAE de 210.393 euros, de una ayuda concedida de 280.526 euros. Las penas de prisión, multas y devolución reclamadas eran peticiones de las acusaciones, no condenas. Los más de 52,2 millones de pasivo de la entidad no equivalen al daño probado de esa causa.
 
-  En abril de 2018 se informó de la apertura de juicio oral contra Maestre y otros cuatro responsables de la Mancomunidad
-  por el destino de un anticipo del SAE de 210.393 euros, de una ayuda concedida de 280.526 euros. Las penas de
-  prisión, multas y devolución reclamadas eran peticiones de las acusaciones, no condenas. Los más de 52,2 millones
-  de pasivo de la entidad no equivalen al daño probado de esa causa.
+  El caso Marismas investigaba la concesión y ejecución de una subvención de 40.119.944 euros para modernizar regadíos. Esa cantidad es la ayuda objeto de investigación, no un desvío íntegro acreditado por sentencia. Europa Press informó en febrero de 2022 de un auto que incorporaba como investigado a José Luis Sánchez Teruel por sus anteriores funciones en la Junta.
 
+  No se han localizado los originales ni los desenlaces individuales de la causa de formación o de Marismas hasta el 15 de octubre de 2026. No se afirma que sigan en instrucción ni que exista condena, absolución o archivo en ellas. La sentencia del centro ecuestre, de 15 de julio de 2024 y difundida el 17, no era firme entonces; su eventual recurso y firmeza posterior tampoco se han comprobado.
 
-  El caso Marismas investigaba la concesión y ejecución de una subvención de 40.119.944 euros para modernizar regadíos.
-  Esa cantidad es la ayuda objeto de investigación, no un desvío íntegro acreditado por sentencia. Europa Press
-  informó en febrero de 2022 de un auto que incorporaba como investigado a José Luis Sánchez Teruel por sus anteriores
-  funciones en la Junta.
+  La Mancomunidad y Marismas comparten ámbito geográfico, pero tienen beneficiarios, objetos y expedientes diferentes. En el primer asunto, la investigación describía la incorporación indiferenciada de la subvención a la caja de la entidad y su supuesto destino a fines distintos de los aprobados. La reclamación administrativa de reintegro y las peticiones de las acusaciones no permiten anticipar un fallo penal. Los apellidos completos de cuatro responsables no están corroborados; Europa Press los identifica con iniciales.
 
+  En Marismas, las informaciones de 2015 recogieron sospechas sobre requisitos de la subvención, adjudicación, certificaciones y ejecución. La Marea describió un informe policial sobre presiones para favorecer a Befesa-Alpi, y aludió a actuaciones de la Oficina Europea de Lucha contra el Fraude. No se dispone aquí del informe original de OLAF ni de una sentencia que convierta esas sospechas en hechos probados. Tampoco se equipara una petición policial de investigación con una resolución judicial que la acuerde. La incorporación de Sánchez Teruel como investigado no determina su responsabilidad.
 
-  No se han localizado los originales ni los desenlaces individuales de la causa de formación o de Marismas hasta
-  el 15 de octubre de 2026. No se afirma que sigan en instrucción ni que exista condena, absolución o archivo en
-  ellas. La sentencia del centro ecuestre, de 15 de julio de 2024 y difundida el 17, no era firme entonces; su eventual
-  recurso y firmeza posterior tampoco se han comprobado.'
+  La pieza del centro ecuestre es independiente. Según el CGPJ, además de la pena de Maestre, la sentencia de 2024 impuso a una interventora accidental un año de prisión, dos años y medio de inhabilitación absoluta y un año y nueve meses de inhabilitación especial. Emilio Amuedo fue absuelto por prescripción. La ayuda recibida por el Ayuntamiento ascendió a 750.000 euros; el reintegro llegó a 886.155,32 euros con intereses y la Junta manifestó no tener indemnización que reclamar. No se suman esas cifras al pasivo de la Mancomunidad, a las multas solicitadas por formación ni a la subvención de regadíos. La nota judicial anunciaba recurso de casación posible y no acredita qué ocurrió después.
+
+  El anuncio oficial de 2014 acredita el acuerdo de disolución, mientras que la reunión publicada en 2024 muestra cuestiones administrativas pendientes. Ninguno de esos documentos acredita que las causas penales sigan abiertas o hayan terminado. Faltan los autos y fallos individuales, sus posibles recursos y una comprobación del desenlace hasta la fecha indicada.
 resumen: 'Subvenciones de formación de la Mancomunidad y regadíos de Marismas: procedimientos distintos, sin desenlaces
   individuales verificados hasta el corte.'
 tribunal:
@@ -160,11 +155,3 @@ cronologia:
   type: resumen
   relevancia: alta
 ---
-
-La Mancomunidad y Marismas comparten ámbito geográfico, pero tienen beneficiarios, objetos y expedientes diferentes. En el primer asunto, la investigación describía la incorporación indiferenciada de la subvención a la caja de la entidad y su supuesto destino a fines distintos de los aprobados. La reclamación administrativa de reintegro y las peticiones de las acusaciones no permiten anticipar un fallo penal. Los apellidos completos de cuatro responsables no están corroborados; Europa Press los identifica con iniciales.
-
-En Marismas, las informaciones de 2015 recogieron sospechas sobre requisitos de la subvención, adjudicación, certificaciones y ejecución. La Marea describió un informe policial sobre presiones para favorecer a Befesa-Alpi, y aludió a actuaciones de la Oficina Europea de Lucha contra el Fraude. No se dispone aquí del informe original de OLAF ni de una sentencia que convierta esas sospechas en hechos probados. Tampoco se equipara una petición policial de investigación con una resolución judicial que la acuerde. La incorporación de Sánchez Teruel como investigado no determina su responsabilidad.
-
-La pieza del centro ecuestre es independiente. Según el CGPJ, además de la pena de Maestre, la sentencia de 2024 impuso a una interventora accidental un año de prisión, dos años y medio de inhabilitación absoluta y un año y nueve meses de inhabilitación especial. Emilio Amuedo fue absuelto por prescripción. La ayuda recibida por el Ayuntamiento ascendió a 750.000 euros; el reintegro llegó a 886.155,32 euros con intereses y la Junta manifestó no tener indemnización que reclamar. No se suman esas cifras al pasivo de la Mancomunidad, a las multas solicitadas por formación ni a la subvención de regadíos. La nota judicial anunciaba recurso de casación posible y no acredita qué ocurrió después.
-
-El anuncio oficial de 2014 acredita el acuerdo de disolución, mientras que la reunión publicada en 2024 muestra cuestiones administrativas pendientes. Ninguno de esos documentos acredita que las causas penales sigan abiertas o hayan terminado. Faltan los autos y fallos individuales, sus posibles recursos y una comprobación del desenlace hasta la fecha indicada.

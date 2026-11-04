@@ -9,29 +9,28 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: En casación
 firmeza: No firme
 estado: condenas recurridas ante el Tribunal Supremo
-descripcion: >-
-  Proceso sobre irregularidades en el arrendamiento y compra del Edificio de Soluciones Empresariales de
-  Arroyo de la Encomienda, conocido como Perla Negra, y en la adquisición de terrenos para el polígono de
-  Portillo. La Audiencia Provincial de Valladolid dictó la sentencia 3/2025 el 8 de enero de 2025. Separa las
-  responsabilidades en ambas operaciones: los precios de adquisición, las estimaciones de las acusaciones y
-  las indemnizaciones fijadas no son magnitudes equivalentes.
+descripcion: |-
+  Proceso sobre irregularidades en el arrendamiento y compra del Edificio de Soluciones Empresariales de Arroyo de la Encomienda, conocido como Perla Negra, y en la adquisición de terrenos para el polígono de Portillo. La Audiencia Provincial de Valladolid dictó la sentencia 3/2025 el 8 de enero de 2025. Separa las responsabilidades en ambas operaciones: los precios de adquisición, las estimaciones de las acusaciones y las indemnizaciones fijadas no son magnitudes equivalentes.
 
+  Rafael Delgado fue condenado por prevaricación y malversación, con dos años y seis meses de prisión, tres años y seis meses de inhabilitación especial por prevaricación y otra inhabilitación por malversación. Begoña Hernández y Juan Carlos Sacristán recibieron penas de inhabilitación por prevaricación. Dos empresarios de Urban Proyecta recibieron once meses de prisión por delitos relacionados con secretos y tráfico de influencias; otros cuatro empresarios, siete meses de prisión y multa por tráfico de influencias. Hubo asimismo absoluciones, incluida la de Alberto Esgueva.
 
-  Rafael Delgado fue condenado por prevaricación y malversación, con dos años y seis meses de prisión, tres
-  años y seis meses de inhabilitación especial por prevaricación y otra inhabilitación por malversación.
-  Begoña Hernández y Juan Carlos Sacristán recibieron penas de inhabilitación por prevaricación. Dos
-  empresarios de Urban Proyecta recibieron once meses de prisión por delitos relacionados con secretos y
-  tráfico de influencias; otros cuatro empresarios, siete meses de prisión y multa por tráfico de influencias.
-  Hubo asimismo absoluciones, incluida la de Alberto Esgueva.
+  La noticia de marzo de 2025 informa de recursos de todos los condenados ante el Supremo y de que las acusaciones no recurrieron. No se ha localizado una resolución verificable posterior que resuelva esa casación hasta la fecha indicada de 17 de octubre de 2026; esa falta de constancia no demuestra su inexistencia. La sentencia no se presenta como firme ni como ejecución concluida. Se ha recuperado la versión oficial anonimizada de CENDOJ, de 130 páginas, y cotejado su cabecera y fallo. Las identidades se contrastan con prensa nominativa, sin deducirlas de los seudónimos judiciales; persisten las lagunas expuestas en el cuerpo.
 
+  ### Responsabilidades y magnitudes
 
-  La noticia de marzo de 2025 informa de recursos de todos los condenados ante el Supremo y de que las
-  acusaciones no recurrieron. No se ha localizado una resolución verificable posterior que resuelva esa
-  casación hasta la fecha indicada de 17 de octubre de 2026; esa falta de constancia no demuestra su
-  inexistencia. La sentencia no se presenta como firme ni como ejecución concluida. Se ha recuperado la
-  versión oficial anonimizada de CENDOJ, de 130 páginas, y cotejado su cabecera y fallo. Las identidades se
-  contrastan con prensa nominativa, sin deducirlas de los seudónimos judiciales; persisten las lagunas
-  expuestas en el cuerpo.
+  Los **38 millones de euros** mezclaban estimaciones sobre operaciones diferentes, sin acreditar que fueran el daño fijado en sentencia. La noticia de El Español reproduce la posición de la Junta: **4.512.066,29 euros** de responsabilidad civil por el edificio, de forma solidaria entre Delgado y los dos empresarios de Urban Proyecta, con responsabilidad subsidiaria de la sociedad; y **2.026.198,37 euros** por los terrenos de Portillo, a cargo de Delgado y los cuatro empresarios de esa operación, con responsabilidad subsidiaria de Parque Empresarial de Portillo y Cementos La Bureba. Se describen por separado, sin sumar cuotas entre responsables solidarios ni confundirlas con multas o precio de compra. La conformidad parcial de la Junta con el fallo no acredita que esas cantidades estuviesen ya pagadas.
+
+  No se condenó a los seis empresarios a la misma pena. Las noticias distinguen los once meses de Martín Giraldo y Román Montes de los siete meses y multa de los otros cuatro. La información nominativa de Europa Press identifica a estos dos primeros por violación de secretos en concurso con tráfico de influencias, mientras otras crónicas resumen solo uno de esos delitos o incluyen absoluciones parciales; el fallo anonimizado cotejado distingue condenas por los hechos del edificio y absoluciones por los de Portillo. La identificación individual sigue atribuida a la cobertura nominativa, sin establecer correspondencias entre nombres y seudónimos. Las penas de prisión o inhabilitación son individuales y no constituyen una pena global.
+
+  La prensa presenta discrepancias adicionales: para Sacristán, Europa Press indica dos años, un mes y quince días, mientras elDiario.es escribe dos años y catorce días; para Delgado, algunas crónicas agregan las inhabilitaciones y otras las separan. Se sigue la información que separa tres años y seis meses por prevaricación y seis por malversación. El fallo oficial distingue la inhabilitación especial de tres años y seis meses y otra que denomina literalmente absoluta de seis años, relacionada con cargos o empleos que impliquen gestión o contratación pública. También recoge una pena de dos años, un mes y quince días por prevaricación, concordante con la duración que Europa Press atribuye a Sacristán; no se identifica a una persona a partir del seudónimo. El apellido Armero aparece como Arnero en otra noticia; no se completan identidades desde iniciales de un comunicado ni desde pseudónimos judiciales.
+
+  ### Historia y límites documentales
+
+  El contexto periodístico sitúa el inicio de la instrucción en 2013 y las operaciones investigadas desde 2005. El escrito de un denunciante particular no equivale a una actuación de la Fiscalía; falta documentación para precisar su recorrido. La sentencia y la cobertura periodística confirman que el juicio se celebró en 2024; no acreditan una deliberación en octubre ni once años completos de instrucción.
+
+  Información disponible a 17 de octubre de 2026. Se comprobó el encabezamiento de la SAP3/2025 en Iberley, con ECLI y procedimiento; el acceso al resto del texto quedó limitado. Está disponible el original anonimizado del CENDOJ, de 130 páginas. El fallo, las responsabilidades civiles, las costas y la advertencia de que la sentencia no era firme y admitía casación figuran en las páginas 127–130. No se dispone de la copia nominal de 309 páginas mencionada por la prensa.
+
+  No se recuperaron los originales de los autos históricos, la admisión de cada recurso ni una sentencia de casación posterior. La trama eólica, otros litigios fiscales y los casos homónimos son procedimientos distintos de Perla Negra; sus resultados no resuelven esta causa. El estado se describe con el último hito de recursos contrastado, sin certificación de vigencia procesal exhaustiva ni firmeza. Faltan esos originales y una copia nominativa que permita precisar la situación individual de todos los afectados. El fallo dispone además remitir la resolución al Tribunal de Cuentas; no se deduce de esa remisión la existencia de una condena contable posterior.
 resumen: Condenas recurridas por las operaciones del edificio Perla Negra y terrenos de Portillo; se distinguen
   penas, absoluciones y responsabilidades civiles, sin equiparar compra con daño.
 lugar: Valladolid, Castilla y León
@@ -151,19 +150,3 @@ cronologia:
   urls:
   - https://cadenaser.com/castillayleon/2025/03/28/ni-fiscalia-ni-junta-ni-psoe-han-recurrido-el-fallo-condenatorio-por-el-caso-de-la-perla-radio-valladolid/
 ---
-
-## Responsabilidades y magnitudes
-
-Los **38 millones de euros** mezclaban estimaciones sobre operaciones diferentes, sin acreditar que fueran el daño fijado en sentencia. La noticia de El Español reproduce la posición de la Junta: **4.512.066,29 euros** de responsabilidad civil por el edificio, de forma solidaria entre Delgado y los dos empresarios de Urban Proyecta, con responsabilidad subsidiaria de la sociedad; y **2.026.198,37 euros** por los terrenos de Portillo, a cargo de Delgado y los cuatro empresarios de esa operación, con responsabilidad subsidiaria de Parque Empresarial de Portillo y Cementos La Bureba. Se describen por separado, sin sumar cuotas entre responsables solidarios ni confundirlas con multas o precio de compra. La conformidad parcial de la Junta con el fallo no acredita que esas cantidades estuviesen ya pagadas.
-
-No se condenó a los seis empresarios a la misma pena. Las noticias distinguen los once meses de Martín Giraldo y Román Montes de los siete meses y multa de los otros cuatro. La información nominativa de Europa Press identifica a estos dos primeros por violación de secretos en concurso con tráfico de influencias, mientras otras crónicas resumen solo uno de esos delitos o incluyen absoluciones parciales; el fallo anonimizado cotejado distingue condenas por los hechos del edificio y absoluciones por los de Portillo. La identificación individual sigue atribuida a la cobertura nominativa, sin establecer correspondencias entre nombres y seudónimos. Las penas de prisión o inhabilitación son individuales y no constituyen una pena global.
-
-La prensa presenta discrepancias adicionales: para Sacristán, Europa Press indica dos años, un mes y quince días, mientras elDiario.es escribe dos años y catorce días; para Delgado, algunas crónicas agregan las inhabilitaciones y otras las separan. Se sigue la información que separa tres años y seis meses por prevaricación y seis por malversación. El fallo oficial distingue la inhabilitación especial de tres años y seis meses y otra que denomina literalmente absoluta de seis años, relacionada con cargos o empleos que impliquen gestión o contratación pública. También recoge una pena de dos años, un mes y quince días por prevaricación, concordante con la duración que Europa Press atribuye a Sacristán; no se identifica a una persona a partir del seudónimo. El apellido Armero aparece como Arnero en otra noticia; no se completan identidades desde iniciales de un comunicado ni desde pseudónimos judiciales.
-
-## Historia y límites documentales
-
-El contexto periodístico sitúa el inicio de la instrucción en 2013 y las operaciones investigadas desde 2005. El escrito de un denunciante particular no equivale a una actuación de la Fiscalía; falta documentación para precisar su recorrido. La sentencia y la cobertura periodística confirman que el juicio se celebró en 2024; no acreditan una deliberación en octubre ni once años completos de instrucción.
-
-Información disponible a 17 de octubre de 2026. Se comprobó el encabezamiento de la SAP3/2025 en Iberley, con ECLI y procedimiento; el acceso al resto del texto quedó limitado. Está disponible el original anonimizado del CENDOJ, de 130 páginas. El fallo, las responsabilidades civiles, las costas y la advertencia de que la sentencia no era firme y admitía casación figuran en las páginas 127–130. No se dispone de la copia nominal de 309 páginas mencionada por la prensa.
-
-No se recuperaron los originales de los autos históricos, la admisión de cada recurso ni una sentencia de casación posterior. La trama eólica, otros litigios fiscales y los casos homónimos son procedimientos distintos de Perla Negra; sus resultados no resuelven esta causa. El estado se describe con el último hito de recursos contrastado, sin certificación de vigencia procesal exhaustiva ni firmeza. Faltan esos originales y una copia nominativa que permita precisar la situación individual de todos los afectados. El fallo dispone además remitir la resolución al Tribunal de Cuentas; no se deduce de esa remisión la existencia de una condena contable posterior.

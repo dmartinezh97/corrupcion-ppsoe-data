@@ -9,56 +9,34 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: desconocido
-descripcion: >-
-  El 'caso Catis' (u 'operación Catis') investigó una presunta trama que, según las pesquisas policiales,
-  expedía diplomas y certificados oficiales de formación sanitaria y de riesgos laborales sin impartir
-  formación real. Según las informaciones de diciembre de 2010 que recogen las explicaciones de la Guardia
-  Civil, el Sindicato Independiente de Trabajadores de Cádiz (SITCA), sin actividad sindical efectiva,
-  proporcionaba esos títulos previo pago de 80 euros y una fotocopia del DNI, se anunciaba por internet y
-  matriculaba incluso en cursos de años anteriores. Los diplomas llevaban el aval o membrete de la Escuela de
-  Servicios Sanitarios y Sociales de Canarias (ESSSCAN), organismo del Gobierno de Canarias.
+descripcion: |-
+  El 'caso Catis' (u 'operación Catis') investigó una presunta trama que, según las pesquisas policiales, expedía diplomas y certificados oficiales de formación sanitaria y de riesgos laborales sin impartir formación real. Según las informaciones de diciembre de 2010 que recogen las explicaciones de la Guardia Civil, el Sindicato Independiente de Trabajadores de Cádiz (SITCA), sin actividad sindical efectiva, proporcionaba esos títulos previo pago de 80 euros y una fotocopia del DNI, se anunciaba por internet y matriculaba incluso en cursos de años anteriores. Los diplomas llevaban el aval o membrete de la Escuela de Servicios Sanitarios y Sociales de Canarias (ESSSCAN), organismo del Gobierno de Canarias.
 
+  La investigación de la Guardia Civil, desarrollada en Cádiz, Badajoz y Canarias, se inició en noviembre de 2009 tras las alertas sobre la venta de títulos oficiales. La operación se desató en Cádiz el 27 de octubre de 2010 con la detención de seis personas —entre ellas el secretario general del SITCA, Eladio Patricio Gracia Sádaba, que quedó en prisión provisional— y registros en su domicilio y en la sede del sindicato. En una segunda fase, el 23 de noviembre de 2010 fue detenida en Canarias la ex directora de la ESSSCAN María Inmaculada Acosta Artiles, la única detenida en las islas. En diciembre de 2010 el Instituto Armado informó de la desarticulación de la red con un balance de diez detenidos y dos imputados, aunque otras notas de esos días (Europa Press) hablaron de ocho detenidos y tres imputados. Entre los implicados había dos ex directoras de la ESSSCAN —Acosta, detenida el 23 de noviembre de 2010, y María Rosa de Haro Brito, imputada no detenida— y la ex secretaria general del organismo, Carmen Nieves Cáceres. La investigación judicial atribuía a las dos ex directoras firmar diplomas a sabiendas de su falsedad y haber percibido dinero del sindicato. Según la Guardia Civil, la organización ingresó 1.460.533 euros en una cuenta entre 2007 y 2009 (cantidad canalizada por el sindicato, no un gasto público).
 
-  La investigación de la Guardia Civil, desarrollada en Cádiz, Badajoz y Canarias, se inició en noviembre de
-  2009 tras las alertas sobre la venta de títulos oficiales. La operación se desató en Cádiz el 27 de octubre
-  de 2010 con la detención de seis personas —entre ellas el secretario general del SITCA, Eladio Patricio
-  Gracia Sádaba, que quedó en prisión provisional— y registros en su domicilio y en la sede del sindicato. En
-  una segunda fase, el 23 de noviembre de 2010 fue detenida en Canarias la ex directora de la ESSSCAN María
-  Inmaculada Acosta Artiles, la única detenida en las islas. En diciembre de 2010 el Instituto Armado informó
-  de la desarticulación de la red con un balance de diez detenidos y dos imputados, aunque otras notas de esos
-  días (Europa Press) hablaron de ocho detenidos y tres imputados. Entre los implicados había dos ex
-  directoras de la ESSSCAN —Acosta, detenida el 23 de noviembre de 2010, y María Rosa de Haro Brito, imputada
-  no detenida— y la ex secretaria general del organismo, Carmen Nieves Cáceres. La investigación judicial
-  atribuía a las dos ex directoras firmar diplomas a sabiendas de su falsedad y haber percibido dinero del
-  sindicato. Según la Guardia Civil, la organización ingresó 1.460.533 euros en una cuenta entre 2007 y 2009
-  (cantidad canalizada por el sindicato, no un gasto público).
+  La causa se tramitó como Diligencias Previas 1431/2010 del Juzgado de Instrucción número 4 de Cádiz, incoadas por auto de 21 de junio de 2010 a raíz de una denuncia de la Fiscalía, por presunta estafa y falsedad documental. De Haro fue directora de la ESSSCAN entre el 7 de agosto de 2007 y el 1 de febrero de 2008. Según el registro oficial del Senado, fue elegida senadora del PP por La Palma (X Legislatura) el 20 de noviembre de 2011, con juramento o promesa el 13 de diciembre de 2011, documentado en la sesión constitutiva, y baja por disolución de la Cámara el 26 de octubre de 2015. La exposición razonada remitida al Tribunal Supremo sostenía, en cambio, que De Haro había adquirido la condición de senadora el 13 de noviembre de 2012, fecha que contradice el registro oficial del Senado y que fue reproducida por el auto y por la prensa. El Supremo recibió la exposición razonada el 4 de julio de 2014. La Sala Segunda (ponente Manuel Marchena) acordó no asumir la competencia al no apreciar indicios de criminalidad contra la aforada en la exposición remitida; la decisión se dio a conocer el 19 de febrero de 2015. El 26 de marzo, La Palma Ahora difundió un comunicado del PP en el que De Haro afirmaba que el Supremo había declarado firme el archivo al no interponerse recurso. No se han comprobado las fechas de firma de esos autos.
 
+  Límites de la información disponible: no se ha recuperado el texto primario de los autos del Tribunal Supremo, ni se han comprobado las fechas de firma de enero y marzo de 2015 citadas por una crónica no accesible; se ha recuperado el Diario de Sesiones de la sesión constitutiva de la X Legislatura, que incluye a De Haro entre quienes prestaron juramento o promesa de acatamiento a la Constitución el 13 de diciembre de 2011 (listado iniciado en la página 14, nombre en la 16). Esto documenta su incorporación en 2011 sin convertir en válida la fecha de 2012 reproducida por la prensa. No se ha localizado el resultado final de la causa principal contra el resto de implicados una vez devuelta a Cádiz; tampoco se han encontrado noticias posteriores a marzo de 2015 sobre el caso (consulta realizada hasta el 17 de octubre de 2026). La ausencia de noticias no confirma el cierre ni la continuidad de la investigación. Ninguno de los implicados consta como condenado por estos hechos.
 
-  La causa se tramitó como Diligencias Previas 1431/2010 del Juzgado de Instrucción número 4 de Cádiz,
-  incoadas por auto de 21 de junio de 2010 a raíz de una denuncia de la Fiscalía, por presunta estafa y
-  falsedad documental. De Haro fue directora de la ESSSCAN entre el 7 de agosto de 2007 y el 1 de febrero de
-  2008. Según el registro oficial del Senado, fue elegida senadora del PP por La Palma (X Legislatura) el 20
-  de noviembre de 2011, con juramento o promesa el 13 de diciembre de 2011, documentado en la sesión
-  constitutiva, y baja por disolución de la Cámara el 26 de octubre de 2015. La exposición razonada remitida
-  al Tribunal Supremo sostenía, en cambio, que De Haro había adquirido la condición de senadora el 13 de
-  noviembre de 2012, fecha que contradice el registro oficial del Senado y que fue reproducida por el auto y
-  por la prensa. El Supremo recibió la exposición razonada el 4 de julio de 2014. La Sala Segunda (ponente
-  Manuel Marchena) acordó no asumir la competencia al no apreciar indicios de criminalidad contra la aforada
-  en la exposición remitida; la decisión se dio a conocer el 19 de febrero de 2015. El 26 de marzo, La Palma
-  Ahora difundió un comunicado del PP en el que De Haro afirmaba que el Supremo había declarado firme el
-  archivo al no interponerse recurso. No se han comprobado las fechas de firma de esos autos.
+  ### Alcance y cuestiones pendientes (2026-10-17)
 
+  La documentación consultada permite distinguir el archivo firme del procedimiento contra María Rosa de Haro de la causa principal del Juzgado de Instrucción número 4 de Cádiz, cuyo desenlace no se ha localizado. No constan los días exactos de los autos de enero y marzo de 2015; las fechas corresponden a las noticias. El registro oficial del Senado acredita su elección en noviembre de 2011 y su baja en octubre de 2015, mientras que la prensa que reproduce la exposición razonada sitúa la adquisición de la condición de senadora en noviembre de 2012. Se conserva la contradicción y se utiliza el registro oficial para el cargo. Los balances de detenciones publicados no coinciden. El ingreso del sindicato no se presenta como perjuicio público acreditado ni como cantidad decomisada. La ausencia de novedades localizadas no acredita el cierre de la causa principal ni una condena de los restantes investigados.
 
-  Límites de la información disponible: no se ha recuperado el texto primario de los autos del Tribunal
-  Supremo, ni se han comprobado las fechas de firma de enero y marzo de 2015 citadas por una crónica no
-  accesible; se ha recuperado el Diario de Sesiones de la sesión constitutiva de la X Legislatura, que incluye
-  a De Haro entre quienes prestaron juramento o promesa de acatamiento a la Constitución el 13 de diciembre de
-  2011 (listado iniciado en la página 14, nombre en la 16). Esto documenta su incorporación en 2011 sin
-  convertir en válida la fecha de 2012 reproducida por la prensa. No se ha localizado el resultado final de la
-  causa principal contra el resto de implicados una vez devuelta a Cádiz; tampoco se han encontrado noticias
-  posteriores a marzo de 2015 sobre el caso (consulta realizada hasta el 17 de octubre de 2026). La ausencia
-  de noticias no confirma el cierre ni la continuidad de la investigación. Ninguno de los implicados consta
-  como condenado por estos hechos.
+  ### Dos ámbitos procesales diferentes
+
+  Las primeras noticias describen actuaciones policiales y una investigación en Cádiz, no hechos declarados probados en sentencia. El resultado comunicado para De Haro responde al examen de una exposición razonada sobre una persona aforada: según la crónica de febrero de 2015, el Supremo no encontró una conducta individualizada ni indicios suficientes para asumir la competencia. El archivo comunicado después se refiere a ella y no acredita el cierre de las diligencias respecto de Acosta, Cáceres o Gracia Sádaba.
+
+  La noticia de marzo de 2015 de La Palma Ahora reproduce un comunicado del PP y manifestaciones de la propia senadora sobre la firmeza. Es una fuente identificada pero con ese origen partidario, y no sustituye el auto original. No consta un número de resolución o ECLI acreditado.
+
+  ### Dinero y efectos sobre los alumnos
+
+  Europa Press describe los 1.460.533 euros como ingresos de una cuenta del sindicato entre 2007 y 2009, no como un perjuicio conjunto acreditado. La noticia también habla de dinero intervenido, pero no aporta una resolución de decomiso ni una liquidación de daños. Los cobros investigados, las cantidades intervenidas y el perjuicio público son conceptos distintos. Tampoco se ha comprobado una revocación general de diplomas o plazas de empleo; las noticias iniciales sobre su uso no acreditan el resultado individual de cada alumno.
+
+  ### Documentación efectivamente consultada
+
+  El registro oficial del Senado y las noticias de Europa Press de diciembre de 2010 y de La Palma Ahora de febrero y marzo de 2015 documentan las actuaciones descritas. El original del comunicado policial y los autos del Supremo no se han recuperado. El Diario de Sesiones recoge el juramento o promesa en la página 16 de un documento de 20 páginas. La creación técnica del PDF en enero de 2013 no cambia la fecha de la sesión de diciembre de 2011.
+
+  Fuentes: [registro del Senado](https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15337&legis=10), [Diario de Sesiones de 13 de diciembre de 2011](https://www.senado.es/legis10/publicaciones/pdf/senado/ds/DS_P_10_1.PDF), [Europa Press, operación de 2010](https://www.europapress.es/nacional/noticia-dos-imputados-caso-titulaciones-falsas-habrian-ostentado-cargo-publico-canarias-20101201101552.html) y [La Palma Ahora, archivo comunicado en marzo de 2015](https://www.eldiario.es/canariasahora/lapalmaahora/sociedad/ts-procedimiento-maria-haro-catis_1_4305343.amp.html).
 resumen: Investigación sobre presuntos títulos formativos falsos con membrete de la ESSSCAN; dos ex directoras y
   una ex secretaria general imputadas, con el procedimiento archivado de forma firme solo para la senadora aforada
   (2015)
@@ -179,23 +157,3 @@ cronologia:
   urls:
   - https://www.eldiario.es/canariasahora/lapalmaahora/sociedad/ts-procedimiento-maria-haro-catis_1_4305343.amp.html
 ---
-
-## Alcance y cuestiones pendientes (2026-10-17)
-
-La documentación consultada permite distinguir el archivo firme del procedimiento contra María Rosa de Haro de la causa principal del Juzgado de Instrucción número 4 de Cádiz, cuyo desenlace no se ha localizado. No constan los días exactos de los autos de enero y marzo de 2015; las fechas corresponden a las noticias. El registro oficial del Senado acredita su elección en noviembre de 2011 y su baja en octubre de 2015, mientras que la prensa que reproduce la exposición razonada sitúa la adquisición de la condición de senadora en noviembre de 2012. Se conserva la contradicción y se utiliza el registro oficial para el cargo. Los balances de detenciones publicados no coinciden. El ingreso del sindicato no se presenta como perjuicio público acreditado ni como cantidad decomisada. La ausencia de novedades localizadas no acredita el cierre de la causa principal ni una condena de los restantes investigados.
-
-### Dos ámbitos procesales diferentes
-
-Las primeras noticias describen actuaciones policiales y una investigación en Cádiz, no hechos declarados probados en sentencia. El resultado comunicado para De Haro responde al examen de una exposición razonada sobre una persona aforada: según la crónica de febrero de 2015, el Supremo no encontró una conducta individualizada ni indicios suficientes para asumir la competencia. El archivo comunicado después se refiere a ella y no acredita el cierre de las diligencias respecto de Acosta, Cáceres o Gracia Sádaba.
-
-La noticia de marzo de 2015 de La Palma Ahora reproduce un comunicado del PP y manifestaciones de la propia senadora sobre la firmeza. Es una fuente identificada pero con ese origen partidario, y no sustituye el auto original. No consta un número de resolución o ECLI acreditado.
-
-### Dinero y efectos sobre los alumnos
-
-Europa Press describe los 1.460.533 euros como ingresos de una cuenta del sindicato entre 2007 y 2009, no como un perjuicio conjunto acreditado. La noticia también habla de dinero intervenido, pero no aporta una resolución de decomiso ni una liquidación de daños. Los cobros investigados, las cantidades intervenidas y el perjuicio público son conceptos distintos. Tampoco se ha comprobado una revocación general de diplomas o plazas de empleo; las noticias iniciales sobre su uso no acreditan el resultado individual de cada alumno.
-
-### Documentación efectivamente consultada
-
-El registro oficial del Senado y las noticias de Europa Press de diciembre de 2010 y de La Palma Ahora de febrero y marzo de 2015 documentan las actuaciones descritas. El original del comunicado policial y los autos del Supremo no se han recuperado. El Diario de Sesiones recoge el juramento o promesa en la página 16 de un documento de 20 páginas. La creación técnica del PDF en enero de 2013 no cambia la fecha de la sesión de diciembre de 2011.
-
-Fuentes: [registro del Senado](https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=15337&legis=10), [Diario de Sesiones de 13 de diciembre de 2011](https://www.senado.es/legis10/publicaciones/pdf/senado/ds/DS_P_10_1.PDF), [Europa Press, operación de 2010](https://www.europapress.es/nacional/noticia-dos-imputados-caso-titulaciones-falsas-habrian-ostentado-cargo-publico-canarias-20101201101552.html) y [La Palma Ahora, archivo comunicado en marzo de 2015](https://www.eldiario.es/canariasahora/lapalmaahora/sociedad/ts-procedimiento-maria-haro-catis_1_4305343.amp.html).

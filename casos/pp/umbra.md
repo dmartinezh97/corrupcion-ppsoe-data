@@ -9,30 +9,26 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: desconocido
-descripcion: 'Umbra reúne varias investigaciones sobre convenios urbanísticos y actuaciones de la antigua Gerencia
-  de Urbanismo de Murcia. La operación policial se hizo pública en octubre de 2010, aunque las diligencias judiciales
-  tienen antecedentes en 2008. Las sospechas iniciales, los escritos de acusación y los resultados de cada pieza
-  no son equivalentes ni permiten atribuir responsabilidad conjunta a todos los investigados.
+descripcion: |-
+  Umbra reúne varias investigaciones sobre convenios urbanísticos y actuaciones de la antigua Gerencia de Urbanismo de Murcia. La operación policial se hizo pública en octubre de 2010, aunque las diligencias judiciales tienen antecedentes en 2008. Las sospechas iniciales, los escritos de acusación y los resultados de cada pieza no son equivalentes ni permiten atribuir responsabilidad conjunta a todos los investigados.
 
+  En Nueva Condomina, el Juzgado de lo Penal 5 absolvió el 8 de junio de 2018 a Miguel Ángel Cámara, Pedro Lorenzo Morillas y Joaquín Peñalver de prevaricación administrativa. La Audiencia Provincial confirmó la absolución el 23 de abril de 2021 mediante sentencia que indica que no cabe recurso. Este resultado corresponde a esa pieza, no al conjunto de Umbra. El archivo provisional de Cámara en otras actuaciones comunicado en 2015 también debe distinguirse de aquella absolución.
 
-  En Nueva Condomina, el Juzgado de lo Penal 5 absolvió el 8 de junio de 2018 a Miguel Ángel Cámara, Pedro Lorenzo
-  Morillas y Joaquín Peñalver de prevaricación administrativa. La Audiencia Provincial confirmó la absolución el
-  23 de abril de 2021 mediante sentencia que indica que no cabe recurso. Este resultado corresponde a esa pieza,
-  no al conjunto de Umbra. El archivo provisional de Cámara en otras actuaciones comunicado en 2015 también debe
-  distinguirse de aquella absolución.
+  La pieza Teatro Circo pasó a procedimiento abreviado respecto de seis investigados en octubre de 2018. La información publicada en julio de 2025 todavía describía una suspensión del plazo para presentar escritos de calificación. En otra rama, la relativa al Casino, la prensa informó en noviembre de 2024 de un señalamiento para diciembre de 2027. No se ha cotejado la resolución de señalamiento ni su vigencia al 15 de octubre de 2026; las noticias difieren sobre los días y el número de sesiones. Tampoco se ha verificado el desenlace posterior de Teatro Circo, Baños y Mendigo o todos los resultados individuales de la investigación inicial.
 
+  No se consigna un daño patrimonial global: las estimaciones iniciales de cientos de millones, los valores de suelo, las compensaciones urbanísticas y las fianzas no equivalen a pérdidas declaradas en sentencia. No procede anticipar condenas ni la aplicación de atenuantes por dilaciones.
 
-  La pieza Teatro Circo pasó a procedimiento abreviado respecto de seis investigados en octubre de 2018. La información
-  publicada en julio de 2025 todavía describía una suspensión del plazo para presentar escritos de calificación.
-  En otra rama, la relativa al Casino, la prensa informó en noviembre de 2024 de un señalamiento para diciembre
-  de 2027. No se ha cotejado la resolución de señalamiento ni su vigencia al 15 de octubre de 2026; las noticias
-  difieren sobre los días y el número de sesiones. Tampoco se ha verificado el desenlace posterior de Teatro Circo,
-  Baños y Mendigo o todos los resultados individuales de la investigación inicial.
+  Umbra no tiene un resultado penal único. Las diligencias iniciales dieron lugar a ramas con objetos distintos: convenios de la zona norte, Nueva Condomina, Casino, Teatro Circo y Baños y Mendigo. El sobreseimiento provisional comunicado en 2015 respecto de Cámara en unas actuaciones no resolvía entonces Nueva Condomina, ni permite deducir el estado posterior de las restantes piezas.
 
+  **Nueva Condomina.** La sentencia 197/2018 del Juzgado de lo Penal 5, de 8 de junio, absolvió a los tres acusados de prevaricación. La identificación nominal procede de las notas judiciales; el PDF público utiliza nombres anonimizados. La Audiencia Provincial confirmó el resultado en la sentencia 111/2021, de 23 de abril, y señaló expresamente que no cabía recurso alguno. La eventual invalidez administrativa de una parte del convenio no bastaba por sí sola para acreditar el delito de prevaricación. Este resultado no se extrapola a Casino o Teatro Circo.
 
-  No se consigna un daño patrimonial global: las estimaciones iniciales de cientos de millones, los valores de suelo,
-  las compensaciones urbanísticas y las fianzas no equivalen a pérdidas declaradas en sentencia. No procede anticipar
-  condenas ni la aplicación de atenuantes por dilaciones.'
+  **Casino y Teatro Circo.** La información sobre Casino de noviembre de 2024 sitúa un juicio en diciembre de 2027. SER y ORM coinciden en mes y año, pero discrepan en jornadas y días; sin el señalamiento original no se fija un calendario detallado ni se garantiza que siga vigente al corte de esta ficha. En Teatro Circo, la nota judicial de 10 de octubre de 2018 recoge seis personas respecto de las que continuaban las actuaciones y diferencia los delitos atribuidos. También constata archivos de hechos como el viaje a Estambul y las cacerías: no deben mantenerse como si siguieran siendo acusaciones vigentes. Una noticia de julio de 2025 describe trámites de calificación pendientes, sin aportar un fallo penal posterior.
+
+  **Resultados individuales e importes.** La situación de cada persona depende de la pieza. [Samper falleció en diciembre de 2015](https://cadenaser.com/ser/2015/12/18/deportes/1450434389_004522.html), antes del juicio de los tres acusados de Nueva Condomina. Megías afirmó en una carta publicada en la [revista número 49 del Casino](https://casinomurcia.com/pdfs/RC-MAGAZINE-49.pdf) que su imputación había sido sobreseída; se conserva esa afirmación atribuida porque falta el auto que permita precisar el alcance y firmeza. Para los demás investigados o acusados no se presume una condena por haber intervenido en la investigación. Tampoco se anticipa que las dilaciones vayan a producir una determinada atenuante o pena.
+
+  Los 311 millones no están acreditados como daño del caso. Las estimaciones difundidas en fases iniciales, las plusvalías privadas, el aprovechamiento urbanístico discutido, las compensaciones pactadas y las fianzas son conceptos diferentes. Las sentencias verificadas aquí son absolutorias en Nueva Condomina y no fijan un daño global de Umbra. Faltan originales y resultados posteriores de otras ramas, así como una relación judicial actualizada de sus acusados y archivos. La fecha exacta de incoación no se fija: la operación policial de 2010 es posterior a los antecedentes de las diligencias de 2008.
+
+  La [información nominal sobre Teatro Circo de octubre de 2018](https://alicanteplaza.es/ElilicitanoRamnSalvadorprocesadoporregalarrelojesdelujoalexedildeUrbanismodeMurcia) identifica a los seis afectados por la continuación del procedimiento. Se recogen los nombres publicados, sin completar por inferencia los apellidos de quienes no aparecen íntegramente identificados. La relación nominal actual de Casino y de las demás piezas no se ha verificado exhaustivamente.
 resumen: Investigaciones urbanísticas en Murcia con absolución confirmada en Nueva Condomina y otras piezas con
   resultados o señalamientos distintos; situación global y desenlaces posteriores parcialmente verificados.
 lugar: Murcia, Región de Murcia
@@ -183,15 +179,3 @@ cronologia:
     type: investigacion
     relevancia: alta
 ---
-
-Umbra no tiene un resultado penal único. Las diligencias iniciales dieron lugar a ramas con objetos distintos: convenios de la zona norte, Nueva Condomina, Casino, Teatro Circo y Baños y Mendigo. El sobreseimiento provisional comunicado en 2015 respecto de Cámara en unas actuaciones no resolvía entonces Nueva Condomina, ni permite deducir el estado posterior de las restantes piezas.
-
-**Nueva Condomina.** La sentencia 197/2018 del Juzgado de lo Penal 5, de 8 de junio, absolvió a los tres acusados de prevaricación. La identificación nominal procede de las notas judiciales; el PDF público utiliza nombres anonimizados. La Audiencia Provincial confirmó el resultado en la sentencia 111/2021, de 23 de abril, y señaló expresamente que no cabía recurso alguno. La eventual invalidez administrativa de una parte del convenio no bastaba por sí sola para acreditar el delito de prevaricación. Este resultado no se extrapola a Casino o Teatro Circo.
-
-**Casino y Teatro Circo.** La información sobre Casino de noviembre de 2024 sitúa un juicio en diciembre de 2027. SER y ORM coinciden en mes y año, pero discrepan en jornadas y días; sin el señalamiento original no se fija un calendario detallado ni se garantiza que siga vigente al corte de esta ficha. En Teatro Circo, la nota judicial de 10 de octubre de 2018 recoge seis personas respecto de las que continuaban las actuaciones y diferencia los delitos atribuidos. También constata archivos de hechos como el viaje a Estambul y las cacerías: no deben mantenerse como si siguieran siendo acusaciones vigentes. Una noticia de julio de 2025 describe trámites de calificación pendientes, sin aportar un fallo penal posterior.
-
-**Resultados individuales e importes.** La situación de cada persona depende de la pieza. [Samper falleció en diciembre de 2015](https://cadenaser.com/ser/2015/12/18/deportes/1450434389_004522.html), antes del juicio de los tres acusados de Nueva Condomina. Megías afirmó en una carta publicada en la [revista número 49 del Casino](https://casinomurcia.com/pdfs/RC-MAGAZINE-49.pdf) que su imputación había sido sobreseída; se conserva esa afirmación atribuida porque falta el auto que permita precisar el alcance y firmeza. Para los demás investigados o acusados no se presume una condena por haber intervenido en la investigación. Tampoco se anticipa que las dilaciones vayan a producir una determinada atenuante o pena.
-
-Los 311 millones no están acreditados como daño del caso. Las estimaciones difundidas en fases iniciales, las plusvalías privadas, el aprovechamiento urbanístico discutido, las compensaciones pactadas y las fianzas son conceptos diferentes. Las sentencias verificadas aquí son absolutorias en Nueva Condomina y no fijan un daño global de Umbra. Faltan originales y resultados posteriores de otras ramas, así como una relación judicial actualizada de sus acusados y archivos. La fecha exacta de incoación no se fija: la operación policial de 2010 es posterior a los antecedentes de las diligencias de 2008.
-
-La [información nominal sobre Teatro Circo de octubre de 2018](https://alicanteplaza.es/ElilicitanoRamnSalvadorprocesadoporregalarrelojesdelujoalexedildeUrbanismodeMurcia) identifica a los seis afectados por la continuación del procedimiento. Se recogen los nombres publicados, sin completar por inferencia los apellidos de quienes no aparecen íntegramente identificados. La relación nominal actual de Casino y de las demás piezas no se ha verificado exhaustivamente.

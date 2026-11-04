@@ -9,56 +9,30 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condena en la pieza de promoción del hijo y absolución en la de Rueda; seguimiento pendiente
-descripcion: >-
-  Esta ficha recoge dos resultados diferentes de la investigación sobre la gestión del Institut Valencià d’Art
-  Modern (IVAM) por Consuelo Císcar. En la pieza sobre promoción artística de su hijo hubo una condena de
-  conformidad en julio de 2021; en la de adquisiciones de Gerardo Rueda fueron absueltos los tres acusados en
-  diciembre de 2021. No se presentan las compras de Rueda como fraude o sobreprecio probado. Císcar dirigió el
-  museo entre 2004 y 2014, no hasta 2015: el informe de gestión del propio IVAM sitúa su cese el 29 de abril
-  de 2014. No se atribuye su nombramiento de 2004 al Gobierno de Zaplana sin revalidación documental.
+descripcion: |-
+  Esta ficha recoge dos resultados diferentes de la investigación sobre la gestión del Institut Valencià d’Art Modern (IVAM) por Consuelo Císcar. En la pieza sobre promoción artística de su hijo hubo una condena de conformidad en julio de 2021; en la de adquisiciones de Gerardo Rueda fueron absueltos los tres acusados en diciembre de 2021. No se presentan las compras de Rueda como fraude o sobreprecio probado. Císcar dirigió el museo entre 2004 y 2014, no hasta 2015: el informe de gestión del propio IVAM sitúa su cese el 29 de abril de 2014. No se atribuye su nombramiento de 2004 al Gobierno de Zaplana sin revalidación documental.
 
+  La Sección Cuarta de la Audiencia de Valencia dictó el 30 de julio de 2021 la sentencia de conformidad sobre el uso de medios del IVAM para promover la carrera de Rafael Blasco Císcar, conocido artísticamente como Rablaci. Según EFE y elDiario.es, Císcar reconoció prevaricación administrativa continuada y malversación, con pena de un año y seis meses de prisión e inhabilitación. La prisión quedó suspendida bajo condiciones, no sustituida por el pago de una multa de 75.000 euros. Juan Carlos Lledó fue condenado a un año de prisión como cooperador necesario de prevaricación y malversación; Enrique Martínez Murillo, a un año por malversación y a dos meses y quince días por falsedad mercantil, pena esta última sustituida por multa según EFE. Pilar Mundina fue absuelta de prevaricación y malversación.
 
-  La Sección Cuarta de la Audiencia de Valencia dictó el 30 de julio de 2021 la sentencia de conformidad sobre
-  el uso de medios del IVAM para promover la carrera de Rafael Blasco Císcar, conocido artísticamente como
-  Rablaci. Según EFE y elDiario.es, Císcar reconoció prevaricación administrativa continuada y malversación,
-  con pena de un año y seis meses de prisión e inhabilitación. La prisión quedó suspendida bajo condiciones,
-  no sustituida por el pago de una multa de 75.000 euros. Juan Carlos Lledó fue condenado a un año de prisión
-  como cooperador necesario de prevaricación y malversación; Enrique Martínez Murillo, a un año por
-  malversación y a dos meses y quince días por falsedad mercantil, pena esta última sustituida por multa según
-  EFE. Pilar Mundina fue absuelta de prevaricación y malversación.
+  La responsabilidad civil conjunta y solidaria se fijó en 50.000 euros por fondos desviados y 25.000 por daño a la reputación del IVAM. Los 75.000 euros son indemnización, no multa personal de Císcar ni una cifra que pueda sumarse a los 50.000. Las noticias citan una consignación previa de 18.974 euros, pero no se ha cotejado su imputación ni el cobro final. La estimación periodística superior a 150.000 euros procede de gastos reconstruidos, no de la cuantificación aceptada en el fallo. No se informa un coste agregado con las compras de otra pieza. La firmeza de esta condena se recoge expresamente en las noticias; falta el original y la comprobación del cumplimiento de la suspensión y de las inhabilitaciones.
 
+  En la pieza Rueda, la nota oficial del CGPJ de 17 de diciembre de 2021 informa de ocho esculturas adquiridas por unos 2,9 millones de euros mediante contratos de diciembre de 2004 y marzo de 2006, además de 90 obras donadas: no 96 obras compradas. La Sección Quinta absolvió a Císcar, Juan Carlos Lledó y José Luis Rueda de prevaricación, falsedad, malversación y estafa. Consideró auténticas las obras, aun siendo reproducciones posteriores al fallecimiento del artista autorizadas por éste, y descartó engaño o intención defraudatoria. El precio pagado no fue considerado perjudicial para el museo. El porcentaje de sobreprecio del 1.520% citado por la auditoría histórica se refería a otra obra examinada; no se traslada como conclusión judicial sobre Rueda.
 
-  La responsabilidad civil conjunta y solidaria se fijó en 50.000 euros por fondos desviados y 25.000 por daño
-  a la reputación del IVAM. Los 75.000 euros son indemnización, no multa personal de Císcar ni una cifra que
-  pueda sumarse a los 50.000. Las noticias citan una consignación previa de 18.974 euros, pero no se ha
-  cotejado su imputación ni el cobro final. La estimación periodística superior a 150.000 euros procede de
-  gastos reconstruidos, no de la cuantificación aceptada en el fallo. No se informa un coste agregado con las
-  compras de otra pieza. La firmeza de esta condena se recoge expresamente en las noticias; falta el original
-  y la comprobación del cumplimiento de la suspensión y de las inhabilitaciones.
+  El original del CENDOJ identifica esa sentencia como 603/2021, de 16 de diciembre; el 17 fue su notificación y comunicación pública. La propia nota oficial la declaraba recurrible en casación ante el Supremo. No se ha localizado una ratificación del TSJ ni un fallo posterior que permita declarar su firmeza. La publicación de una noticia por la oficina de comunicación del TSJ no significa que ese tribunal resolviera un recurso.
 
+  La investigación tuvo otros archivos y personas investigadas, de modo que no se afirma que estas dos sentencias cerrasen toda actuación sobre el IVAM. El archivo respecto de Rablaci en la pieza de promoción fue descrito por Valencia Plaza como sobreseimiento provisional; no se le atribuye condena por beneficiarse de las exposiciones. Tampoco se atribuye a Raquel Gutiérrez la absolución de Rueda: apareció investigada en la causa más amplia, pero no integra el grupo de tres acusados de esa sentencia. La causa Cooperación de Rafael Blasco Santonja es distinta y sus condenas no se trasladan al IVAM.
 
-  En la pieza Rueda, la nota oficial del CGPJ de 17 de diciembre de 2021 informa de ocho esculturas adquiridas
-  por unos 2,9 millones de euros mediante contratos de diciembre de 2004 y marzo de 2006, además de 90 obras
-  donadas: no 96 obras compradas. La Sección Quinta absolvió a Císcar, Juan Carlos Lledó y José Luis Rueda de
-  prevaricación, falsedad, malversación y estafa. Consideró auténticas las obras, aun siendo reproducciones
-  posteriores al fallecimiento del artista autorizadas por éste, y descartó engaño o intención defraudatoria.
-  El precio pagado no fue considerado perjudicial para el museo. El porcentaje de sobreprecio del 1.520%
-  citado por la auditoría histórica se refería a otra obra examinada; no se traslada como conclusión judicial
-  sobre Rueda.
+  ### Información disponible a 17 de octubre de 2026
 
+  La nota oficial del CGPJ y la resolución original del CENDOJ documentan el fallo sobre Rueda. Los nombres proceden de noticias nominales contemporáneas, no de equiparar los seudónimos de Iberley o las iniciales de la nota oficial. La [documentación corporativa del IVAM](https://www.ivam.es/wp-content/uploads/page/informacion-corporativa/20150619_Acta_Parte5.pdf), en su informe de gestión de 2014, acredita el cese del 29 de abril de 2014. La fecha de publicación del PDF no equivale a la fecha del cese.
 
-  El original del CENDOJ identifica esa sentencia como 603/2021, de 16 de diciembre; el 17 fue su notificación
-  y comunicación pública. La propia nota oficial la declaraba recurrible en casación ante el Supremo. No se ha
-  localizado una ratificación del TSJ ni un fallo posterior que permita declarar su firmeza. La publicación de
-  una noticia por la oficina de comunicación del TSJ no significa que ese tribunal resolviera un recurso.
+  Se ha recuperado el original de la absolución de Rueda. Quedan pendientes el original de la condena de conformidad, los autos de ejecución y las resoluciones de archivo. La condena de julio consta en las noticias y en la referencia a su ejecución de los antecedentes del dictamen CJC 153/2022. Su fallo completo es necesario para cotejar el alcance de cada inhabilitación y los plazos y pagos: las noticias discrepan entre dos y veinte meses y entre el resumen de un año para Martínez y la pena adicional por falsedad sustituida por multa. No se agregan penas ni se presume cumplimiento por transcurso del tiempo.
 
+  No están acreditados los 96 supuestos originales comprados, un perjuicio conjunto de 3.094.325 euros ni la supuesta confirmación del TSJ. Los contratos de 2004 y 2006 y las actividades de promoción de 2008-2014 se mantienen con precisión de mes o año en el relato, sin inventar día. Raquel Gutiérrez figuró investigada en el procedimiento amplio; no se ha revalidado su desenlace y no se la presenta como absuelta en Rueda. Los archivos de otras piezas y el caso Cooperación requieren seguimiento separado.
 
-  La investigación tuvo otros archivos y personas investigadas, de modo que no se afirma que estas dos
-  sentencias cerrasen toda actuación sobre el IVAM. El archivo respecto de Rablaci en la pieza de promoción
-  fue descrito por Valencia Plaza como sobreseimiento provisional; no se le atribuye condena por beneficiarse
-  de las exposiciones. Tampoco se atribuye a Raquel Gutiérrez la absolución de Rueda: apareció investigada en
-  la causa más amplia, pero no integra el grupo de tres acusados de esa sentencia. La causa Cooperación de
-  Rafael Blasco Santonja es distinta y sus condenas no se trasladan al IVAM.
+  El [sobreseimiento provisional respecto de Rablaci](https://valenciaplaza.com/noticas-cultura-valencia-comunitat-valenciana/la-magistrada-del-ivam-sobreseerlo-la-causa-contra-rablaci) se recoge con el alcance descrito por Valencia Plaza, sin elevarlo a absolución de juicio o archivo definitivo. La referencia institucional a la ejecución de la condena figura en los antecedentes del [dictamen CJC 153/2022](https://www.iberley.es/resoluciones/dictamen-consell-juridic-consultiu-comunitat-valenciana-2022-0153-16-03-2022-2137740), reproducidos por Iberley; sus iniciales no se usan para identificar personas.
+
+  Esta ficha y [Caso IVAM](/casos/pp/ivam/) se refieren a actuaciones de la misma investigación. Sus importes y resultados no deben agregarse como hechos independientes.
 resumen: 'IVAM: condena de conformidad por usar medios del museo para promover al hijo de Císcar y absolución de
   los tres acusados por las obras de Rueda. Indemnización de 75.000 euros en la primera pieza; original de la condena y seguimiento
   de ejecución pendientes.'
@@ -153,15 +127,3 @@ cronologia:
   - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Notas-de-prensa/-La-Audiencia-de-Valencia-absuelve-a-la-exdirectora-del-IVAM-y-a-otros-dos-acusados-por-la-compra-de-las-obras-del-escultor-Gerardo-Rueda-
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=b25d9458c9ae695f&encode=true&databasematch=AN
 ---
-
-## Información disponible a 17 de octubre de 2026
-
-La nota oficial del CGPJ y la resolución original del CENDOJ documentan el fallo sobre Rueda. Los nombres proceden de noticias nominales contemporáneas, no de equiparar los seudónimos de Iberley o las iniciales de la nota oficial. La [documentación corporativa del IVAM](https://www.ivam.es/wp-content/uploads/page/informacion-corporativa/20150619_Acta_Parte5.pdf), en su informe de gestión de 2014, acredita el cese del 29 de abril de 2014. La fecha de publicación del PDF no equivale a la fecha del cese.
-
-Se ha recuperado el original de la absolución de Rueda. Quedan pendientes el original de la condena de conformidad, los autos de ejecución y las resoluciones de archivo. La condena de julio consta en las noticias y en la referencia a su ejecución de los antecedentes del dictamen CJC 153/2022. Su fallo completo es necesario para cotejar el alcance de cada inhabilitación y los plazos y pagos: las noticias discrepan entre dos y veinte meses y entre el resumen de un año para Martínez y la pena adicional por falsedad sustituida por multa. No se agregan penas ni se presume cumplimiento por transcurso del tiempo.
-
-No están acreditados los 96 supuestos originales comprados, un perjuicio conjunto de 3.094.325 euros ni la supuesta confirmación del TSJ. Los contratos de 2004 y 2006 y las actividades de promoción de 2008-2014 se mantienen con precisión de mes o año en el relato, sin inventar día. Raquel Gutiérrez figuró investigada en el procedimiento amplio; no se ha revalidado su desenlace y no se la presenta como absuelta en Rueda. Los archivos de otras piezas y el caso Cooperación requieren seguimiento separado.
-
-El [sobreseimiento provisional respecto de Rablaci](https://valenciaplaza.com/noticas-cultura-valencia-comunitat-valenciana/la-magistrada-del-ivam-sobreseerlo-la-causa-contra-rablaci) se recoge con el alcance descrito por Valencia Plaza, sin elevarlo a absolución de juicio o archivo definitivo. La referencia institucional a la ejecución de la condena figura en los antecedentes del [dictamen CJC 153/2022](https://www.iberley.es/resoluciones/dictamen-consell-juridic-consultiu-comunitat-valenciana-2022-0153-16-03-2022-2137740), reproducidos por Iberley; sus iniciales no se usan para identificar personas.
-
-Esta ficha y [Caso IVAM](/casos/pp/ivam/) se refieren a actuaciones de la misma investigación. Sus importes y resultados no deben agregarse como hechos independientes.

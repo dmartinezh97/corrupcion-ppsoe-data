@@ -8,24 +8,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Absolución penal en 2021; responsabilidad civil de Góngora retirada en casación en 2024"
-descripcion: >-
-  Francisco Góngora Cara, alcalde de El Ejido por el PP durante el proceso, fue absuelto por la Audiencia
-  Provincial de Almería de las acusaciones relacionadas con la compraventa de terrenos de la sociedad familiar
-  Agrícola Euro Alpujarra. La sentencia de instancia es del 30 de septiembre de 2021, aunque la noticia de su
-  absolución se publicó el 19 de octubre. No se acreditó su concierto con quienes realizaron las operaciones
-  defraudatorias.
+descripcion: |-
+  Francisco Góngora Cara, alcalde de El Ejido por el PP durante el proceso, fue absuelto por la Audiencia Provincial de Almería de las acusaciones relacionadas con la compraventa de terrenos de la sociedad familiar Agrícola Euro Alpujarra. La sentencia de instancia es del 30 de septiembre de 2021, aunque la noticia de su absolución se publicó el 19 de octubre. No se acreditó su concierto con quienes realizaron las operaciones defraudatorias.
 
+  La Audiencia sí le atribuyó inicialmente responsabilidad civil como partícipe a título lucrativo por 74.018,01 euros. La STS 439/2024, de 22 de mayo, suprimió esa responsabilidad: no cabe aplicar dicha figura a esta modalidad de delito fiscal consistente en eludir el pago de tributos. Este cambio civil no constituye una nueva absolución penal. El Supremo mantuvo las condenas de otros acusados por delito contra la Hacienda Pública.
 
-  La Audiencia sí le atribuyó inicialmente responsabilidad civil como partícipe a título lucrativo por
-  74.018,01 euros. La STS 439/2024, de 22 de mayo, suprimió esa responsabilidad: no cabe aplicar dicha figura
-  a esta modalidad de delito fiscal consistente en eludir el pago de tributos. Este cambio civil no constituye
-  una nueva absolución penal. El Supremo mantuvo las condenas de otros acusados por delito contra la Hacienda
-  Pública.
+  Al 17 de octubre de 2026, no consta documentación de ejecución ni una certificación independiente de firmeza. La sentencia de instancia se ha contrastado mediante su reproducción en la resolución del Supremo; no se dispone aquí de su documento separado.
 
+  Francisco Góngora fue absuelto penalmente en 2021: no se acreditó que se concertara con los administradores para realizar las operaciones defraudatorias. La responsabilidad civil que entonces se le impuso como socio beneficiario fue retirada en 2024. La información de EFE permite identificar nominalmente a Góngora y a su hermano; no se deducen sus identidades de los seudónimos de la copia judicial.
 
-  Al 17 de octubre de 2026, no consta documentación de ejecución ni una certificación independiente de
-  firmeza. La sentencia de instancia se ha contrastado mediante su reproducción en la resolución del Supremo;
-  no se dispone aquí de su documento separado.
+  La [sentencia del Supremo](https://www.civil-mercantil.com/sites/civil-mercantil.com/files/NCJ067374.pdf) reproduce los hechos y el fallo de instancia (páginas 3–5) y contiene los fallos de casación y de la segunda sentencia (páginas 17–19). La copia de Editorial CEF declara reproducir el contenido suministrado por CENDOJ. Su fecha de creación informática de junio de 2024 no sustituye la fecha judicial del 22 de mayo.
+
+  La cuota de **296.072,03 euros** corresponde a la defraudación por la que fueron condenados los dos administradores, obligados solidariamente a indemnizar a la AEAT. No equivale a una deuda personal del absuelto Góngora. La multa de **592.144,06 euros** de cada condenado es una pena distinta. Los **74.018,01 euros** inicialmente atribuidos a Góngora fueron suprimidos y, ya en instancia, debían minorar la responsabilidad de los obligados directos para evitar doble cobro. No se suman estas magnitudes ni se introduce un coste agregado.
+
+  No están corroborados mediante sus resoluciones el día y mes de la denuncia inicial ni de los hitos intermedios de archivo y reapertura. Las diligencias aparecen identificadas como 710/2011 en el Supremo. No se afirma una fecha de cierre definitivo, ingreso en prisión, suspensión de penas ni cantidad efectivamente recuperada. Quedan pendientes los documentos separados de instancia y ejecución y la comprobación de eventuales incidencias posteriores al fallo de casación.
 resumen: "Góngora fue absuelto penalmente en 2021 y el Supremo retiró su responsabilidad civil en 2024"
 lugar: "El Ejido, Almería, Andalucía"
 tribunal:
@@ -85,11 +81,3 @@ cronologia:
       - "https://www.civil-mercantil.com/sites/civil-mercantil.com/files/NCJ067374.pdf"
       - "https://hemeroteca.d-cerca.com/noticia-45290/index.aspx"
 ---
-
-Francisco Góngora fue absuelto penalmente en 2021: no se acreditó que se concertara con los administradores para realizar las operaciones defraudatorias. La responsabilidad civil que entonces se le impuso como socio beneficiario fue retirada en 2024. La información de EFE permite identificar nominalmente a Góngora y a su hermano; no se deducen sus identidades de los seudónimos de la copia judicial.
-
-La [sentencia del Supremo](https://www.civil-mercantil.com/sites/civil-mercantil.com/files/NCJ067374.pdf) reproduce los hechos y el fallo de instancia (páginas 3–5) y contiene los fallos de casación y de la segunda sentencia (páginas 17–19). La copia de Editorial CEF declara reproducir el contenido suministrado por CENDOJ. Su fecha de creación informática de junio de 2024 no sustituye la fecha judicial del 22 de mayo.
-
-La cuota de **296.072,03 euros** corresponde a la defraudación por la que fueron condenados los dos administradores, obligados solidariamente a indemnizar a la AEAT. No equivale a una deuda personal del absuelto Góngora. La multa de **592.144,06 euros** de cada condenado es una pena distinta. Los **74.018,01 euros** inicialmente atribuidos a Góngora fueron suprimidos y, ya en instancia, debían minorar la responsabilidad de los obligados directos para evitar doble cobro. No se suman estas magnitudes ni se introduce un coste agregado.
-
-No están corroborados mediante sus resoluciones el día y mes de la denuncia inicial ni de los hitos intermedios de archivo y reapertura. Las diligencias aparecen identificadas como 710/2011 en el Supremo. No se afirma una fecha de cierre definitivo, ingreso en prisión, suspensión de penas ni cantidad efectivamente recuperada. Quedan pendientes los documentos separados de instancia y ejecución y la comprobación de eventuales incidencias posteriores al fallo de casación.

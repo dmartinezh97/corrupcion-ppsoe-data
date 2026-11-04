@@ -9,28 +9,24 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: resultados diversos
-descripcion: 'La Fundación Andaluza Fondo de Formación y Empleo (FAFFE), integrada en el Servicio Andaluz de Empleo
-  en 2011, aparece en procedimientos distintos sobre tarjetas, contratación de personal, proveedores y subvenciones.
-  Las condenas de unas piezas no convierten en hechos probados todas las sospechas de las restantes.
+descripcion: |-
+  La Fundación Andaluza Fondo de Formación y Empleo (FAFFE), integrada en el Servicio Andaluz de Empleo en 2011, aparece en procedimientos distintos sobre tarjetas, contratación de personal, proveedores y subvenciones. Las condenas de unas piezas no convierten en hechos probados todas las sospechas de las restantes.
 
+  En la pieza de las tarjetas utilizadas en clubes de alterne, Villén y la exdirectora económico-financiera Ana Valls fueron condenados en 2023. Según EFE, el TSJA redujo en apelación las penas de prisión a cinco años y tres meses para Villén y cuatro años y seis meses para Valls, en una resolución conocida el 24 de abril de 2026. Cabía recurso ante el Supremo; no se ha comprobado la firmeza posterior.
 
-  En la pieza de las tarjetas utilizadas en clubes de alterne, Villén y la exdirectora económico-financiera Ana
-  Valls fueron condenados en 2023. Según EFE, el TSJA redujo en apelación las penas de prisión a cinco años y tres
-  meses para Villén y cuatro años y seis meses para Valls, en una resolución conocida el 24 de abril de 2026. Cabía
-  recurso ante el Supremo; no se ha comprobado la firmeza posterior.
+  Por la contratación de Antonio Torres, exalcalde socialista de Lebrija, la sentencia 168/2025 de la Audiencia de Sevilla, de 29 de abril y notificada el 30, condenó a Villén a tres años y seis meses de prisión y a Torres a dos años y tres meses, además de inhabilitaciones. Ambos debían indemnizar solidariamente a la Junta con 359.973,51 euros. Esa sentencia admitía apelación; no se ha verificado su resultado posterior.
 
+  Las informaciones de 2025 sobre 84 contrataciones y 9.465.332 euros de contratos describen indicios de investigación, no 84 condenas ni una cifra global de daño probado. En marzo de 2026 se conoció la continuación por procedimiento abreviado contra Villén y otras cinco personas por las subvenciones del consorcio CTI de San Fernando. No equivale a una apertura de juicio o condena. Faltan originales y resultados individuales de esas ramas, el seguimiento de los recursos y el desenlace completo hasta el 15 de octubre de 2026.
 
-  Por la contratación de Antonio Torres, exalcalde socialista de Lebrija, la sentencia 168/2025 de la Audiencia
-  de Sevilla, de 29 de abril y notificada el 30, condenó a Villén a tres años y seis meses de prisión y a Torres
-  a dos años y tres meses, además de inhabilitaciones. Ambos debían indemnizar solidariamente a la Junta con 359.973,51
-  euros. Esa sentencia admitía apelación; no se ha verificado su resultado posterior.
+  El procedimiento de las tarjetas y el de la contratación de Torres tienen hechos y condenas diferentes. En las tarjetas, EFE explica que la sentencia inicial, posterior al veredicto de un jurado, trató pagos en clubes de alterne y la simulación de devoluciones. La información de la apelación de 2026 recoge una indemnización de unos 24.000 euros a cargo de Villén, descontando una devolución de unos 8.400 euros, y otra obligación solidaria con Valls de 6.300 euros. Sin el fallo original de esta pieza no se reconstruye una liquidación exacta ni se suman esas cantidades como perjuicio global de toda la FAFFE.
 
+  En la contratación de Torres, el fallo de 29 de abril de 2025 impone a Villén siete años de inhabilitación especial por prevaricación y, por malversación, tres años y seis meses de prisión y seis años de inhabilitación absoluta. A Torres, como cooperador necesario, le impone cuatro años de inhabilitación especial por prevaricación y, por malversación, dos años y tres meses de prisión y cuatro años de inhabilitación absoluta. La responsabilidad civil es conjunta y solidaria: los 359.973,51 euros no se contabilizan dos veces. Las condenas se individualizan mediante la nota oficial, pues el texto público de la sentencia anonimiza a los acusados.
 
-  Las informaciones de 2025 sobre 84 contrataciones y 9.465.332 euros de contratos describen indicios de investigación,
-  no 84 condenas ni una cifra global de daño probado. En marzo de 2026 se conoció la continuación por procedimiento
-  abreviado contra Villén y otras cinco personas por las subvenciones del consorcio CTI de San Fernando. No equivale
-  a una apertura de juicio o condena. Faltan originales y resultados individuales de esas ramas, el seguimiento
-  de los recursos y el desenlace completo hasta el 15 de octubre de 2026.'
+  Los 84 contratos de personal señalados por la investigación no equivalen a 84 personas condenadas. Tampoco los 9.465.332 euros atribuidos a contratos de proveedores indiciariamente irregulares son una cuantificación judicial definitiva de malversación. Las hipótesis sobre personal y las subvenciones de formación deben verificarse por expediente y por persona, sin trasladarles el fallo de Torres o de las tarjetas.
+
+  La información sobre el CTI distingue subvenciones de 2007 a 2010 y un marco de actuaciones de formación de 2007 a 2012. Recoge además que resoluciones de reintegro fueron anuladas en la jurisdicción contenciosa por caducidad y que la Administración declaró prescrito su derecho a reintegrar las ayudas. Esa vicisitud administrativa no equivale por sí misma a absolución penal, a prescripción de todos los delitos ni a prueba de que se hayan malversado íntegramente 4,8 millones.
+
+  La investigación parlamentaria y sus valoraciones políticas no acreditan responsabilidad penal de los expresidentes o consejeros. No se les atribuye aquí condición de investigados, acusados o condenados en estas piezas sin una resolución que lo sustente. Permanecen pendientes el alcance completo de las ramas de ayudas y contratación, la identificación de todos sus afectados y el resultado de los recursos hasta la fecha indicada.
 resumen: 'FAFFE: condenas y apelación por tarjetas, condena recurrible por la contratación de Torres y otras ramas
   sobre personal, proveedores y ayudas con desenlaces no verificados.'
 lugar: Sevilla, Andalucía
@@ -135,13 +131,3 @@ cronologia:
   type: recurso
   relevancia: alta
 ---
-
-El procedimiento de las tarjetas y el de la contratación de Torres tienen hechos y condenas diferentes. En las tarjetas, EFE explica que la sentencia inicial, posterior al veredicto de un jurado, trató pagos en clubes de alterne y la simulación de devoluciones. La información de la apelación de 2026 recoge una indemnización de unos 24.000 euros a cargo de Villén, descontando una devolución de unos 8.400 euros, y otra obligación solidaria con Valls de 6.300 euros. Sin el fallo original de esta pieza no se reconstruye una liquidación exacta ni se suman esas cantidades como perjuicio global de toda la FAFFE.
-
-En la contratación de Torres, el fallo de 29 de abril de 2025 impone a Villén siete años de inhabilitación especial por prevaricación y, por malversación, tres años y seis meses de prisión y seis años de inhabilitación absoluta. A Torres, como cooperador necesario, le impone cuatro años de inhabilitación especial por prevaricación y, por malversación, dos años y tres meses de prisión y cuatro años de inhabilitación absoluta. La responsabilidad civil es conjunta y solidaria: los 359.973,51 euros no se contabilizan dos veces. Las condenas se individualizan mediante la nota oficial, pues el texto público de la sentencia anonimiza a los acusados.
-
-Los 84 contratos de personal señalados por la investigación no equivalen a 84 personas condenadas. Tampoco los 9.465.332 euros atribuidos a contratos de proveedores indiciariamente irregulares son una cuantificación judicial definitiva de malversación. Las hipótesis sobre personal y las subvenciones de formación deben verificarse por expediente y por persona, sin trasladarles el fallo de Torres o de las tarjetas.
-
-La información sobre el CTI distingue subvenciones de 2007 a 2010 y un marco de actuaciones de formación de 2007 a 2012. Recoge además que resoluciones de reintegro fueron anuladas en la jurisdicción contenciosa por caducidad y que la Administración declaró prescrito su derecho a reintegrar las ayudas. Esa vicisitud administrativa no equivale por sí misma a absolución penal, a prescripción de todos los delitos ni a prueba de que se hayan malversado íntegramente 4,8 millones.
-
-La investigación parlamentaria y sus valoraciones políticas no acreditan responsabilidad penal de los expresidentes o consejeros. No se les atribuye aquí condición de investigados, acusados o condenados en estas piezas sin una resolución que lo sustente. Permanecen pendientes el alcance completo de las ramas de ayudas y contratación, la identificación de todos sus afectados y el resultado de los recursos hasta la fecha indicada.

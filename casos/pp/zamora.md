@@ -8,20 +8,28 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: archivado
-descripcion: 'Investigación sobre presuntas comisiones en adjudicaciones de la Diputación de Zamora y su posible
-  relación con la financiación del PP, iniciada a raíz de denuncias de Antolín Martín y del constructor Eduardo
-  Corrales en 1997. Las sospechas y los testimonios de los denunciantes no equivalen a hechos penalmente probados.
+descripcion: |-
+  Investigación sobre presuntas comisiones en adjudicaciones de la Diputación de Zamora y su posible relación con la financiación del PP, iniciada a raíz de denuncias de Antolín Martín y del constructor Eduardo Corrales en 1997. Las sospechas y los testimonios de los denunciantes no equivalen a hechos penalmente probados.
 
+  El Juzgado de Instrucción número 4 de Zamora acordó el archivo el 17 de junio de 2002, según las informaciones contemporáneas de El País y EFE. El juez Antonio Francisco Casado consideró que no había fundamento penal suficiente, aunque apreció irregularidades administrativas. El archivo abarcó la causa principal y cuatro piezas separadas, con 33 personas imputadas, y no una sentencia condenatoria.
 
-  El Juzgado de Instrucción número 4 de Zamora acordó el archivo el 17 de junio de 2002, según las informaciones
-  contemporáneas de El País y EFE. El juez Antonio Francisco Casado consideró que no había fundamento penal suficiente,
-  aunque apreció irregularidades administrativas. El archivo abarcó la causa principal y cuatro piezas separadas,
-  con 33 personas imputadas, y no una sentencia condenatoria.
+  Antes de ese archivo, la causa pasó por el Tribunal Supremo debido a la presencia de parlamentarios aforados y posteriormente continuó en Zamora. No se han obtenido los autos originales ni acreditado la clase exacta de sobreseimiento, los eventuales recursos o su firmeza. Esos extremos y la evolución hasta el 17 de octubre de 2026 quedan pendientes.
 
+  ### Denuncias y valoración judicial
 
-  Antes de ese archivo, la causa pasó por el Tribunal Supremo debido a la presencia de parlamentarios aforados y
-  posteriormente continuó en Zamora. No se han obtenido los autos originales ni acreditado la clase exacta de sobreseimiento,
-  los eventuales recursos o su firmeza. Esos extremos y la evolución hasta el 17 de octubre de 2026 quedan pendientes.'
+  Las referencias a un porcentaje del 8 %, a pagos fijos y a aportaciones a campañas electorales eran alegaciones de la investigación. La información sobre el archivo recoge que el juez no concedió valor suficiente a los testimonios para sostener los delitos de prevaricación, cohecho y usurpación de funciones. Una irregularidad administrativa no se presenta automáticamente como delito.
+
+  La denuncia sobre una supuesta aportación a la campaña de José María Aznar se mantiene únicamente como contexto de las alegaciones históricas; no se le atribuye condición formal de acusado ni recepción probada de dinero. Juan Vicente Herrera aparece en la fuente como portavoz de la posición del PP, no como investigado por presentar el informe.
+
+  ### Límites y documentos pendientes
+
+  No consta una cuantificación judicial de daño que respalde los doce millones de euros. No se sustituyen por daño los importes de obras ni las cantidades alegadas por denunciantes.
+
+  Las informaciones contemporáneas sitúan el archivo el 17 de junio de 2002, no el 31 de diciembre. La noticia de El País del día siguiente decía que cabía apelación y que el PSOE no pensaba recurrir; ese anuncio no acredita que ninguna otra parte recurriera ni una posterior declaración de firmeza. Tampoco se equipara el archivo a una sentencia absolutoria. El original descrito por la prensa como auto de 264 páginas no se ha obtenido.
+
+  En Servimedia, la cabecera de navegación muestra la fecha actual, pero los despachos históricos están fechados al pie en 22 de marzo de 1997 y 12 de mayo de 1999. Quedan pendientes los originales y sus identificadores, recursos, firmeza y seguimiento posterior al archivo hasta el corte del 17 de octubre de 2026. La ausencia de noticias no demuestra la inexistencia de novedades.
+
+  No se trasladan a este procedimiento los resultados de Zamora Limpia, otras causas municipales recientes ni casos homónimos de otros países.
 resumen: Investigación de presuntas comisiones en la Diputación de Zamora, archivada en junio de 2002 por falta
   de fundamento penal según la prensa contemporánea. Originales, recursos y firmeza pendientes de verificar.
 lugar: Zamora, Castilla y León
@@ -85,19 +93,3 @@ cronologia:
   - https://elpais.com/diario/2002/06/18/espana/1024351223_850215.html
   - https://cincodias.elpais.com/cincodias/2002/06/18/economia/1024379789_850215.html
 ---
-
-## Denuncias y valoración judicial
-
-Las referencias a un porcentaje del 8 %, a pagos fijos y a aportaciones a campañas electorales eran alegaciones de la investigación. La información sobre el archivo recoge que el juez no concedió valor suficiente a los testimonios para sostener los delitos de prevaricación, cohecho y usurpación de funciones. Una irregularidad administrativa no se presenta automáticamente como delito.
-
-La denuncia sobre una supuesta aportación a la campaña de José María Aznar se mantiene únicamente como contexto de las alegaciones históricas; no se le atribuye condición formal de acusado ni recepción probada de dinero. Juan Vicente Herrera aparece en la fuente como portavoz de la posición del PP, no como investigado por presentar el informe.
-
-## Límites y documentos pendientes
-
-No consta una cuantificación judicial de daño que respalde los doce millones de euros. No se sustituyen por daño los importes de obras ni las cantidades alegadas por denunciantes.
-
-Las informaciones contemporáneas sitúan el archivo el 17 de junio de 2002, no el 31 de diciembre. La noticia de El País del día siguiente decía que cabía apelación y que el PSOE no pensaba recurrir; ese anuncio no acredita que ninguna otra parte recurriera ni una posterior declaración de firmeza. Tampoco se equipara el archivo a una sentencia absolutoria. El original descrito por la prensa como auto de 264 páginas no se ha obtenido.
-
-En Servimedia, la cabecera de navegación muestra la fecha actual, pero los despachos históricos están fechados al pie en 22 de marzo de 1997 y 12 de mayo de 1999. Quedan pendientes los originales y sus identificadores, recursos, firmeza y seguimiento posterior al archivo hasta el corte del 17 de octubre de 2026. La ausencia de noticias no demuestra la inexistencia de novedades.
-
-No se trasladan a este procedimiento los resultados de Zamora Limpia, otras causas municipales recientes ni casos homónimos de otros países.

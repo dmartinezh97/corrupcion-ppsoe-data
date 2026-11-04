@@ -16,6 +16,26 @@ descripcion: |-
   La información sobre el archivo afectaba a los siete investigados e incluía expresamente a Ricardo Montoro, Manuel Teruel y Carmen de Miguel. Cristóbal Montoro había fundado la consultora en 2006 y salió de ella en 2008; las fuentes consultadas no acreditan que fuera investigado en esta causa madrileña. Su posterior investigación en Tarragona pertenece a otro procedimiento y no equivale a la reapertura de este contrato.
 
   Los 91.000 euros difundidos en las noticias de 2017 corresponden a un pago por el contrato, no a un daño al erario judicialmente declarado. Hay diferencias entre fuentes: el precio inicial se cifró en 216.000 euros, la noticia de 2015 aludía a un pago reducido de 90.000 y la crónica del auto de apelación menciona un contrato de 100.000. Sin el contrato y los autos originales no se concilian definitivamente esas cantidades. Tampoco se han verificado aquí la firmeza del auto, una eventual reapertura ni el alcance nominal completo del fallo; el sobreseimiento provisional no es una absolución tras juicio ni un sobreseimiento libre.
+
+  El objeto de esta causa
+
+  El contrato se vinculaba a la reforma de las cámaras de comercio y al asesoramiento que Equipo Económico prestó al Consejo Superior de Cámaras en 2012. La investigación fiscal comenzó en enero de 2014 y llegó a la prensa en marzo de 2015. La denuncia cuestionaba tanto la elección directa de la consultora como el uso de fondos públicos y la realidad del servicio. La defensa sostuvo que el encargo se realizó y se sujetaba a derecho privado: [información de 2015](https://elpais.com/economia/2015/03/16/actualidad/1426506158_325652.html).
+
+  El resultado de 2019
+
+  El [archivo difundido por Europa Press](https://www.europapress.es/nacional/noticia-juez-archiva-querella-contra-consultoria-fundo-cristobal-montoro-20190409130007.html) afectaba al procedimiento seguido contra siete investigados. La [información sobre la apelación](https://www.infolibre.es/politica/carpetazo-final-querella-firma-fundo-montoro-consagra-camaras-comercio-contraten-control_1_1176368.html) sitúa el auto de la Audiencia en el 15 de octubre de 2019 y precisa que el sobreseimiento fue provisional. El tribunal valoró que el servicio se había prestado y que no se acreditaban los elementos de los delitos investigados. También examinó las dudas sobre el sometimiento de la contratación cameral a la normativa pública y la procedencia de los fondos. Esto impide mantener como hecho probado que el contrato vulnerara necesariamente la ley o que toda su cuantía fuera dinero malversado.
+
+  No se ha obtenido el texto íntegro original de los autos ni se acredita aquí su firmeza o una reapertura. El resultado conocido es un sobreseimiento provisional confirmado en apelación, no una absolución dictada después de juicio.
+
+  Personas e importes
+
+  La vinculación de Cristóbal Montoro con la firma no prueba que interviniera penalmente en este contrato. Las fuentes distinguen su salida de la consultora en 2008 de la actuación de los socios y representantes que siguieron en ella. No se le atribuye la condición de investigado en Madrid por el hecho de que sí fuera investigado años después en Tarragona.
+
+  Los importes publicados no se presentan como daño: las noticias citan 216.000 euros como precio inicial y pagos reducidos de 90.000 o 91.000 euros; la crónica del auto de apelación menciona 100.000. Sin los documentos contractuales y la resolución completa no es posible resolver si las diferencias obedecen a conceptos distintos. Tampoco se calcula un supuesto sobreprecio a partir de un concurso hipotético.
+
+  Separación de la investigación posterior
+
+  La causa de Tarragona sobre presuntas influencias en reformas legales tiene un origen y un objeto distintos, como explica la [información de 2023](https://www.elindependiente.com/espana/tribunales/2023/10/18/anticorrupcion-mantiene-bajo-secreto-una-investigacion-vinculada-al-exministro-montoro/). Sus diligencias e investigados no reabren automáticamente la causa del Consejo Superior de Cámaras. Esa investigación se documenta en la ficha propia de Montoro y Equipo Económico; aquí se conserva el alcance del contrato madrileño.
 lugar: Madrid, Comunidad de Madrid
 tribunal:
 - Juzgado de Instrucción nº 22 de Madrid
@@ -116,23 +136,3 @@ cronologia:
   urls:
   - https://www.infolibre.es/politica/carpetazo-final-querella-firma-fundo-montoro-consagra-camaras-comercio-contraten-control_1_1176368.html
 ---
-
-El objeto de esta causa
-
-El contrato se vinculaba a la reforma de las cámaras de comercio y al asesoramiento que Equipo Económico prestó al Consejo Superior de Cámaras en 2012. La investigación fiscal comenzó en enero de 2014 y llegó a la prensa en marzo de 2015. La denuncia cuestionaba tanto la elección directa de la consultora como el uso de fondos públicos y la realidad del servicio. La defensa sostuvo que el encargo se realizó y se sujetaba a derecho privado: [información de 2015](https://elpais.com/economia/2015/03/16/actualidad/1426506158_325652.html).
-
-El resultado de 2019
-
-El [archivo difundido por Europa Press](https://www.europapress.es/nacional/noticia-juez-archiva-querella-contra-consultoria-fundo-cristobal-montoro-20190409130007.html) afectaba al procedimiento seguido contra siete investigados. La [información sobre la apelación](https://www.infolibre.es/politica/carpetazo-final-querella-firma-fundo-montoro-consagra-camaras-comercio-contraten-control_1_1176368.html) sitúa el auto de la Audiencia en el 15 de octubre de 2019 y precisa que el sobreseimiento fue provisional. El tribunal valoró que el servicio se había prestado y que no se acreditaban los elementos de los delitos investigados. También examinó las dudas sobre el sometimiento de la contratación cameral a la normativa pública y la procedencia de los fondos. Esto impide mantener como hecho probado que el contrato vulnerara necesariamente la ley o que toda su cuantía fuera dinero malversado.
-
-No se ha obtenido el texto íntegro original de los autos ni se acredita aquí su firmeza o una reapertura. El resultado conocido es un sobreseimiento provisional confirmado en apelación, no una absolución dictada después de juicio.
-
-Personas e importes
-
-La vinculación de Cristóbal Montoro con la firma no prueba que interviniera penalmente en este contrato. Las fuentes distinguen su salida de la consultora en 2008 de la actuación de los socios y representantes que siguieron en ella. No se le atribuye la condición de investigado en Madrid por el hecho de que sí fuera investigado años después en Tarragona.
-
-Los importes publicados no se presentan como daño: las noticias citan 216.000 euros como precio inicial y pagos reducidos de 90.000 o 91.000 euros; la crónica del auto de apelación menciona 100.000. Sin los documentos contractuales y la resolución completa no es posible resolver si las diferencias obedecen a conceptos distintos. Tampoco se calcula un supuesto sobreprecio a partir de un concurso hipotético.
-
-Separación de la investigación posterior
-
-La causa de Tarragona sobre presuntas influencias en reformas legales tiene un origen y un objeto distintos, como explica la [información de 2023](https://www.elindependiente.com/espana/tribunales/2023/10/18/anticorrupcion-mantiene-bajo-secreto-una-investigacion-vinculada-al-exministro-montoro/). Sus diligencias e investigados no reabren automáticamente la causa del Consejo Superior de Cámaras. Esa investigación se documenta en la ficha propia de Montoro y Equipo Económico; aquí se conserva el alcance del contrato madrileño.

@@ -9,27 +9,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: En casación
 firmeza: No firme
 estado: Condena recurrida
-descripcion: 'La causa sobre el patrimonio de Rodrigo Rato y determinadas comisiones publicitarias de Bankia dio lugar a una
-  condena de la Sección Séptima de la Audiencia Provincial de Madrid, comunicada el 20 de diciembre de 2024. Rato fue condenado
-  a cuatro años, nueve meses y un día de prisión por tres delitos contra la Hacienda Pública, correspondientes a 2006, 2013
-  y 2014, blanqueo de capitales y corrupción entre particulares. Domingo Plazas recibió 18 meses por cooperación en dos delitos
-  fiscales y en el blanqueo; Alberto Portuondo, tres meses y un día por corrupción entre particulares. El resto de los acusados
-  fueron absueltos, con fundamentos distintos según su intervención.
+descripcion: |-
+  La causa sobre el patrimonio de Rodrigo Rato y determinadas comisiones publicitarias de Bankia dio lugar a una condena de la Sección Séptima de la Audiencia Provincial de Madrid, comunicada el 20 de diciembre de 2024. Rato fue condenado a cuatro años, nueve meses y un día de prisión por tres delitos contra la Hacienda Pública, correspondientes a 2006, 2013 y 2014, blanqueo de capitales y corrupción entre particulares. Domingo Plazas recibió 18 meses por cooperación en dos delitos fiscales y en el blanqueo; Alberto Portuondo, tres meses y un día por corrupción entre particulares. El resto de los acusados fueron absueltos, con fundamentos distintos según su intervención.
 
+  La nota judicial recoge multas superiores a dos millones de euros para Rato y una obligación de abonar 568.413 euros a Hacienda. Plazas responde solidariamente con él por la responsabilidad civil de los dos delitos fiscales en los que cooperó, además de sus propias multas. Las comisiones de Rato y Portuondo ascendían conjuntamente a 2.022.154,52 euros y se acordó su decomiso: esta cantidad no es una estimación del perjuicio tributario. Los más de ocho millones atribuidos durante la acusación no se presentan como daño probado por la sentencia.
 
-  La nota judicial recoge multas superiores a dos millones de euros para Rato y una obligación de abonar 568.413 euros a Hacienda.
-  Plazas responde solidariamente con él por la responsabilidad civil de los dos delitos fiscales en los que cooperó, además
-  de sus propias multas. Las comisiones de Rato y Portuondo ascendían conjuntamente a 2.022.154,52 euros y se acordó su decomiso:
-  esta cantidad no es una estimación del perjuicio tributario. Los más de ocho millones atribuidos durante la acusación no
-  se presentan como daño probado por la sentencia.
+  En febrero de 2025 se conocieron los anuncios de casación de Rato y de Anticorrupción; el de la Fiscalía se limitaba al comiso del blanqueo, sin pedir nuevas condenas ni revocar absoluciones. Una información del 4 de enero de 2026 situaba todavía pendiente el pronunciamiento del Supremo sobre los recursos. No se ha verificado una resolución posterior hasta el 15 de octubre de 2026, ni el texto original íntegro de la sentencia o la firmeza individual de todos sus pronunciamientos. Por ello no se considera cerrada la causa ni se afirma que la situación de cada condenado o absuelto sea idéntica. Las tarjetas black y la salida a bolsa de Bankia son procedimientos distintos.
 
+  La condena comunicada en diciembre de 2024 se refiere al patrimonio personal de Rato, a la tributación de servicios canalizados mediante Kradonara y a comisiones por la publicidad de Bankia. El tribunal consideró que su residencia en Washington durante 2006 no eliminaba sus obligaciones tributarias españolas, porque conservaba en España sus intereses económicos. La declaración tributaria especial de 2012 no amparaba las cuotas de 2006, según la [nota judicial del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Provincial-condena-a-Rodrigo-Rato-a-cuatro-anos--nueve-meses-y-un-dia-de-carcel-).
 
-  En febrero de 2025 se conocieron los anuncios de casación de Rato y de Anticorrupción; el de la Fiscalía se limitaba al
-  comiso del blanqueo, sin pedir nuevas condenas ni revocar absoluciones. Una información del 4 de enero de 2026 situaba todavía
-  pendiente el pronunciamiento del Supremo sobre los recursos. No se ha verificado una resolución posterior hasta el 15 de
-  octubre de 2026, ni el texto original íntegro de la sentencia o la firmeza individual de todos sus pronunciamientos. Por
-  ello no se considera cerrada la causa ni se afirma que la situación de cada condenado o absuelto sea idéntica. Las tarjetas
-  black y la salida a bolsa de Bankia son procedimientos distintos.'
+  La misma nota explica que Kradonara figuraba como prestadora del asesoramiento macroeconómico a Telefónica cuando los servicios los realizaba personalmente Rato. Diferencia las condenas de Plazas y Portuondo de las absoluciones de Alarcó, Sánchez de Lerín, Arellano, Fernández Norniella y Montero. También recoge la absolución de Publicis, Zenith y Plazas Abogados; las razones de absolución no son intercambiables.
+
+  No se asigna un coste global al caso: las cifras inicialmente atribuidas por la acusación, las cuotas tributarias, las multas penales, la responsabilidad civil y el decomiso cumplen funciones diferentes. Tampoco se suma a esta ficha la condena por tarjetas black ni el resultado del proceso por la salida a bolsa de Bankia.
+
+  La [información sobre el recurso de Fiscalía](https://www.europapress.es/nacional/noticia-fiscalia-anticorrupcion-anuncia-recurso-casacion-supremo-contra-sentencia-condena-rato-20250207122818.html) limita su objeto al comiso del blanqueo. La [información de enero de 2026](https://www.eldiario.es/politica/tribunales-deciden-2026-si-ingresan-carcel-tres-exministros-pp-psoe_1_12879009.html) sitúa los recursos pendientes entonces. No se ha verificado su resultado posterior ni la firmeza por persona y pronunciamiento; tampoco se incorpora como documento una sentencia cuyo original no se ha recuperado.
 resumen: Condena de Rato, Plazas y Portuondo por delitos fiscales, blanqueo y corrupción; recursos y firmeza individual pendientes
   de verificación.
 lugar: Madrid
@@ -133,11 +126,3 @@ cronologia:
   - https://www.eldiario.es/politica/tribunales-deciden-2026-si-ingresan-carcel-tres-exministros-pp-psoe_1_12879009.html
   type: recurso
 ---
-
-La condena comunicada en diciembre de 2024 se refiere al patrimonio personal de Rato, a la tributación de servicios canalizados mediante Kradonara y a comisiones por la publicidad de Bankia. El tribunal consideró que su residencia en Washington durante 2006 no eliminaba sus obligaciones tributarias españolas, porque conservaba en España sus intereses económicos. La declaración tributaria especial de 2012 no amparaba las cuotas de 2006, según la [nota judicial del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Provincial-condena-a-Rodrigo-Rato-a-cuatro-anos--nueve-meses-y-un-dia-de-carcel-).
-
-La misma nota explica que Kradonara figuraba como prestadora del asesoramiento macroeconómico a Telefónica cuando los servicios los realizaba personalmente Rato. Diferencia las condenas de Plazas y Portuondo de las absoluciones de Alarcó, Sánchez de Lerín, Arellano, Fernández Norniella y Montero. También recoge la absolución de Publicis, Zenith y Plazas Abogados; las razones de absolución no son intercambiables.
-
-No se asigna un coste global al caso: las cifras inicialmente atribuidas por la acusación, las cuotas tributarias, las multas penales, la responsabilidad civil y el decomiso cumplen funciones diferentes. Tampoco se suma a esta ficha la condena por tarjetas black ni el resultado del proceso por la salida a bolsa de Bankia.
-
-La [información sobre el recurso de Fiscalía](https://www.europapress.es/nacional/noticia-fiscalia-anticorrupcion-anuncia-recurso-casacion-supremo-contra-sentencia-condena-rato-20250207122818.html) limita su objeto al comiso del blanqueo. La [información de enero de 2026](https://www.eldiario.es/politica/tribunales-deciden-2026-si-ingresan-carcel-tres-exministros-pp-psoe_1_12879009.html) sitúa los recursos pendientes entonces. No se ha verificado su resultado posterior ni la firmeza por persona y pronunciamiento; tampoco se incorpora como documento una sentencia cuyo original no se ha recuperado.

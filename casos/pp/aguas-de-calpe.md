@@ -13,6 +13,26 @@ descripcion: |-
   La resolución distingue el acuerdo municipal inicial del 17 de marzo de 2004, cuya adjudicación directa a Aguas de Calpe no considera acreditado que fuera un artificio de los acusados, de la posterior subcontratación del 26 de marzo a Obras Hidráulicas de Levante, controlada por el cuñado del concejal, que sí fundamenta las condenas. El fallo impone a los cinco una indemnización conjunta y solidaria al Ayuntamiento de 430.052,34 euros, correspondiente al 40% municipal de las pérdidas de 1.075.130,85 euros de la empresa mixta. Son conceptos relacionados que no deben sumarse ni confundirse con el presupuesto de las obras, las fianzas o las penas solicitadas.
 
   La nota del CGPJ del 16 de octubre informa también de la absolución de los otros tres acusados. La versión judicial publicada contiene, sin embargo, discordancias nominales en esa parte del fallo: no menciona a Salvador I.M. y sustituye el nombre Antonio Ramón C.L. de la cabecera por José Ramón C. Ello impide cerrar aquí sin reservas la comprobación individual de esas dos absoluciones. El documento divulgado omite los fundamentos jurídicos y conserva el número 527/2025 pese a fecharse expresamente en 2026; se mantienen estos límites sin corregir el original por inferencia. El caso de las basuras de Calp es un procedimiento distinto.
+
+  La adjudicación municipal y la subcontratación
+
+  Los [hechos probados de la sentencia](https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Comunidad%20Valenciana/JURISPRUDENCIA/AP%20Alicante%20ST%2030sep2026.pdf) distinguen el acuerdo del Pleno de 17 de marzo de 2004 de la contratación posterior con Obras Hidráulicas de Levante. No consideran acreditado que el primero fuera un artificio de los acusados. En cambio, sitúan el 26 de marzo la subcontratación directa que excluyó la competencia y permitió aprovechar el sobreprecio, con conocimiento de los responsables de Aguas de Calpe y del empresario que controlaba la adjudicataria.
+
+  La mercantil había cambiado su actividad de buzoneo por la construcción de obra civil en febrero de 2004. Subcontrató con Montubo Obra Civil, que a su vez encargó partidas a otras empresas. Las deudas de esas subcontratas y la posible estafa fueron objeto de acusación, pero no deben confundirse con el fraude a la Administración por el que se dictaron las condenas.
+
+  Las cantidades del procedimiento
+
+  El presupuesto inicial de los cinco proyectos, incluidos honorarios, era de 4.721.100,40 euros sin IVA. El proyecto modificado de la red transversal y su financiación tarifaria tenían importes distintos. La resolución cuantifica las pérdidas de la empresa mixta en 1.075.130,85 euros y el fallo impone una indemnización al Ayuntamiento de 430.052,34 euros, equivalente a su participación del 40%. La indemnización al Ayuntamiento no se suma a las pérdidas de la empresa ni a las fianzas anteriores.
+
+  Se utiliza el importe exacto del fallo, frente a los 430.000 euros redondeados y los 440.052 euros que aparecen en distintos pasajes de la nota de prensa. La sentencia también distingue las pérdidas contables de la diferencia de 1.073.316,35 euros entre el proyecto modificado y la valoración real de las obras.
+
+  Las condenas y las absoluciones
+
+  Roselló, Zorrilla y Mut reciben once meses de prisión por prevaricación en relación concursal con fraude; Artacho, once meses por fraude; y Lara Santamaría, siete meses por fraude. Los cuatro primeros reciben cinco años de inhabilitación especial para empleo o cargo público y el quinto cuatro años. El fallo impone a cada condenado una séptima parte de las costas y no contiene una multa penal. Las penas solicitadas por la Fiscalía eran superiores y comprendían estafas de las que no resultaron condenados.
+
+  La [nota del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/La-Audiencia-de-Alicante-condena-a-cinco-acusados-por-prevaricacion-y-fraude-en-la-adjudicacion-de-las-obras-de-renovacion-de-la-red-de-aguas-de-Calpe) informa de la absolución de estafa de los ocho procesados. El documento judicial divulgado contiene los antecedentes, los hechos y el fallo, pero omite los fundamentos. Además, presenta diferencias nominales en el apartado absolutorio: Antonio Ramón C.L. pasa a aparecer como José Ramón C. y Salvador I.M. no está en esa relación final. Por ello se mantiene abierta la comprobación individual de esas dos absoluciones, sin transformarlas en condenas ni afirmar que esas personas continúen acusadas.
+
+  La vista se celebró del 1 al 5 de diciembre de 2025, después de una instrucción iniciada en noviembre de 2005 según el CGPJ. La resolución está fechada el 30 de septiembre de 2026 y admite recurso de casación; no se acredita aquí su firmeza. El procedimiento de las basuras de Calp pertenece a Brugal y sus resoluciones no determinan el resultado de esta causa del agua.
 resumen: Cinco condenas por la subcontratación de las obras de agua de Calp; indemnización municipal de 430.052,34
   euros y absolución por estafa, sin firmeza acreditada.
 coste: 430052.34
@@ -158,23 +178,3 @@ cronologia:
   - https://lamarinaalta.com/la-audiencia-condena-a-un-exconcejal-del-pp-y-su-cunado-por-el-fraude-en-las-obras-de-aguas-de-calpe/
   - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/La-Audiencia-de-Alicante-condena-a-cinco-acusados-por-prevaricacion-y-fraude-en-la-adjudicacion-de-las-obras-de-renovacion-de-la-red-de-aguas-de-Calpe
 ---
-
-La adjudicación municipal y la subcontratación
-
-Los [hechos probados de la sentencia](https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Comunidad%20Valenciana/JURISPRUDENCIA/AP%20Alicante%20ST%2030sep2026.pdf) distinguen el acuerdo del Pleno de 17 de marzo de 2004 de la contratación posterior con Obras Hidráulicas de Levante. No consideran acreditado que el primero fuera un artificio de los acusados. En cambio, sitúan el 26 de marzo la subcontratación directa que excluyó la competencia y permitió aprovechar el sobreprecio, con conocimiento de los responsables de Aguas de Calpe y del empresario que controlaba la adjudicataria.
-
-La mercantil había cambiado su actividad de buzoneo por la construcción de obra civil en febrero de 2004. Subcontrató con Montubo Obra Civil, que a su vez encargó partidas a otras empresas. Las deudas de esas subcontratas y la posible estafa fueron objeto de acusación, pero no deben confundirse con el fraude a la Administración por el que se dictaron las condenas.
-
-Las cantidades del procedimiento
-
-El presupuesto inicial de los cinco proyectos, incluidos honorarios, era de 4.721.100,40 euros sin IVA. El proyecto modificado de la red transversal y su financiación tarifaria tenían importes distintos. La resolución cuantifica las pérdidas de la empresa mixta en 1.075.130,85 euros y el fallo impone una indemnización al Ayuntamiento de 430.052,34 euros, equivalente a su participación del 40%. La indemnización al Ayuntamiento no se suma a las pérdidas de la empresa ni a las fianzas anteriores.
-
-Se utiliza el importe exacto del fallo, frente a los 430.000 euros redondeados y los 440.052 euros que aparecen en distintos pasajes de la nota de prensa. La sentencia también distingue las pérdidas contables de la diferencia de 1.073.316,35 euros entre el proyecto modificado y la valoración real de las obras.
-
-Las condenas y las absoluciones
-
-Roselló, Zorrilla y Mut reciben once meses de prisión por prevaricación en relación concursal con fraude; Artacho, once meses por fraude; y Lara Santamaría, siete meses por fraude. Los cuatro primeros reciben cinco años de inhabilitación especial para empleo o cargo público y el quinto cuatro años. El fallo impone a cada condenado una séptima parte de las costas y no contiene una multa penal. Las penas solicitadas por la Fiscalía eran superiores y comprendían estafas de las que no resultaron condenados.
-
-La [nota del CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/La-Audiencia-de-Alicante-condena-a-cinco-acusados-por-prevaricacion-y-fraude-en-la-adjudicacion-de-las-obras-de-renovacion-de-la-red-de-aguas-de-Calpe) informa de la absolución de estafa de los ocho procesados. El documento judicial divulgado contiene los antecedentes, los hechos y el fallo, pero omite los fundamentos. Además, presenta diferencias nominales en el apartado absolutorio: Antonio Ramón C.L. pasa a aparecer como José Ramón C. y Salvador I.M. no está en esa relación final. Por ello se mantiene abierta la comprobación individual de esas dos absoluciones, sin transformarlas en condenas ni afirmar que esas personas continúen acusadas.
-
-La vista se celebró del 1 al 5 de diciembre de 2025, después de una instrucción iniciada en noviembre de 2005 según el CGPJ. La resolución está fechada el 30 de septiembre de 2026 y admite recurso de casación; no se acredita aquí su firmeza. El procedimiento de las basuras de Calp pertenece a Brugal y sus resoluciones no determinan el resultado de esta causa del agua.

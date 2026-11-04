@@ -9,29 +9,24 @@ estadoPrincipal: En investigación
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: procedimiento abreviado
-descripcion: 'La pieza se refiere a cuatro expedientes de subvenciones del Servicio Andaluz de Empleo a Aulacen
-  Cinco SL, administrada por la esposa del exvicesecretario general del PSOE-A Rafael Velasco Sierra. Las ayudas
-  concedidas sumaban 193.938,30 euros. Esa cifra no es un daño declarado por sentencia ni implica que todo se pagara:
-  el auto del Supremo de 2025 describe un expediente de 82.593 euros del que solo se había abonado el 75 %. No se
-  acredita que todos los cursos fueran inexistentes.
+descripcion: |-
+  La pieza se refiere a cuatro expedientes de subvenciones del Servicio Andaluz de Empleo a Aulacen Cinco SL, administrada por la esposa del exvicesecretario general del PSOE-A Rafael Velasco Sierra. Las ayudas concedidas sumaban 193.938,30 euros. Esa cifra no es un daño declarado por sentencia ni implica que todo se pagara: el auto del Supremo de 2025 describe un expediente de 82.593 euros del que solo se había abonado el 75 %. No se acredita que todos los cursos fueran inexistentes.
 
+  Un auto de 23 de febrero de 2026, conocido el 26, acordó continuar por procedimiento abreviado contra Velasco, su esposa, su hermano, dos cuñadas, el exconsejero Antonio Fernández, tres exdirectores generales de Formación y un responsable de servicio. Aulacen Cinco figuraba como responsable civil subsidiaria. Se investigaban posibles delitos de prevaricación administrativa, falsedad documental y malversación; no era una condena ni una apertura de juicio oral.
 
-  Un auto de 23 de febrero de 2026, conocido el 26, acordó continuar por procedimiento abreviado contra Velasco,
-  su esposa, su hermano, dos cuñadas, el exconsejero Antonio Fernández, tres exdirectores generales de Formación
-  y un responsable de servicio. Aulacen Cinco figuraba como responsable civil subsidiaria. Se investigaban posibles
-  delitos de prevaricación administrativa, falsedad documental y malversación; no era una condena ni una apertura
-  de juicio oral.
+  La Fiscalía Europea rechazó asumir la investigación en abril de 2024. El Supremo resolvió la cuestión de competencia el 23 de mayo de 2025 atribuyéndola al Juzgado de Instrucción número 6 de Sevilla. La Fiscalía Europea no es un tribunal ni consta que mantenga esta instrucción.
 
+  Hasta el 15 de octubre de 2026 no se han verificado el resultado de eventuales recursos contra el auto de procedimiento abreviado, escritos de acusación posteriores, apertura de juicio, sentencia ni desenlaces individuales. Falta el original del auto de 2026. Las fuentes discrepan sobre el año de la primera concesión —2005 o 2006 incluso dentro de los antecedentes del auto del Supremo—, por lo que no se fija una fecha inicial ficticia.
 
-  La Fiscalía Europea rechazó asumir la investigación en abril de 2024. El Supremo resolvió la cuestión de competencia
-  el 23 de mayo de 2025 atribuyéndola al Juzgado de Instrucción número 6 de Sevilla. La Fiscalía Europea no es un
-  tribunal ni consta que mantenga esta instrucción.
+  Aulacen Cinco SL es la beneficiaria identificada en los expedientes; no se confunde con todas las empresas y personas de la macrocausa de formación. La documentación consultada describe a la esposa de Velasco como administradora única, sin acreditar aquí que él fuera propietario. Las iniciales de varios afectados se conservan tal como las publicó Europa Press para evitar completar apellidos sin respaldo.
 
+  El auto del Supremo de 2025 recoge cuatro importes concedidos: 28.752,30, 41.296,50, 82.593 y 41.296,50 euros. Su suma es 193.938,30 euros, pero las concesiones, los pagos, las justificaciones y el daño penal son conceptos distintos. Sus antecedentes describen un pago parcial del expediente de 82.593 euros, un acuerdo de reintegro y un último abono de otra ayuda en marzo de 2019. Sin la liquidación final de cada expediente y un fallo penal no procede imputar toda la suma como perjuicio firme.
 
-  Hasta el 15 de octubre de 2026 no se han verificado el resultado de eventuales recursos contra el auto de procedimiento
-  abreviado, escritos de acusación posteriores, apertura de juicio, sentencia ni desenlaces individuales. Falta
-  el original del auto de 2026. Las fuentes discrepan sobre el año de la primera concesión —2005 o 2006 incluso
-  dentro de los antecedentes del auto del Supremo—, por lo que no se fija una fecha inicial ficticia.'
+  La cuestión resuelta por el Supremo era competencial: la Fiscalía Europea se opuso a asumir los hechos por su antigüedad, mientras que la Fiscalía ante el Supremo defendía su competencia atendiendo al último pago de 2019. La Sala atribuyó la causa al juzgado sevillano al considerar que ese abono afectaba al agotamiento de los hechos anteriores, sin resolver la responsabilidad de los investigados. La decisión no recurrible sobre competencia no convierte en firmes acusaciones o condenas inexistentes en ese auto.
+
+  Las noticias de enero de 2024 anunciaban declaraciones, que fueron aplazadas. Diario de Sevilla informó en junio de 2025 de comparecencias en marzo de ese año y del ejercicio del derecho a no declarar por Velasco y familiares. No se transforma ese silencio en prueba de culpabilidad. Las referencias periodísticas a un archivo en 2017 y una reapertura en 2020 tampoco se presentan como desenlaces definitivos: faltan sus autos y su alcance personal completo.
+
+  La transformación en procedimiento abreviado de febrero de 2026 refleja indicios, no hechos probados por sentencia. Queda pendiente comprobar los recursos, las decisiones de las acusaciones y si se abrió juicio, así como cualquier fallo o archivo posterior y su firmeza. La resolución de otras piezas contra Antonio Fernández no se traslada a la causa de Aulacen.
 resumen: 'Cuatro ayudas del SAE a Aulacen Cinco: procedimiento abreviado acordado en febrero de 2026 contra diez
   personas; sin apertura de juicio o sentencia posterior verificadas.'
 lugar: Córdoba, Andalucía
@@ -146,13 +141,3 @@ cronologia:
   type: investigacion
   relevancia: alta
 ---
-
-Aulacen Cinco SL es la beneficiaria identificada en los expedientes; no se confunde con todas las empresas y personas de la macrocausa de formación. La documentación consultada describe a la esposa de Velasco como administradora única, sin acreditar aquí que él fuera propietario. Las iniciales de varios afectados se conservan tal como las publicó Europa Press para evitar completar apellidos sin respaldo.
-
-El auto del Supremo de 2025 recoge cuatro importes concedidos: 28.752,30, 41.296,50, 82.593 y 41.296,50 euros. Su suma es 193.938,30 euros, pero las concesiones, los pagos, las justificaciones y el daño penal son conceptos distintos. Sus antecedentes describen un pago parcial del expediente de 82.593 euros, un acuerdo de reintegro y un último abono de otra ayuda en marzo de 2019. Sin la liquidación final de cada expediente y un fallo penal no procede imputar toda la suma como perjuicio firme.
-
-La cuestión resuelta por el Supremo era competencial: la Fiscalía Europea se opuso a asumir los hechos por su antigüedad, mientras que la Fiscalía ante el Supremo defendía su competencia atendiendo al último pago de 2019. La Sala atribuyó la causa al juzgado sevillano al considerar que ese abono afectaba al agotamiento de los hechos anteriores, sin resolver la responsabilidad de los investigados. La decisión no recurrible sobre competencia no convierte en firmes acusaciones o condenas inexistentes en ese auto.
-
-Las noticias de enero de 2024 anunciaban declaraciones, que fueron aplazadas. Diario de Sevilla informó en junio de 2025 de comparecencias en marzo de ese año y del ejercicio del derecho a no declarar por Velasco y familiares. No se transforma ese silencio en prueba de culpabilidad. Las referencias periodísticas a un archivo en 2017 y una reapertura en 2020 tampoco se presentan como desenlaces definitivos: faltan sus autos y su alcance personal completo.
-
-La transformación en procedimiento abreviado de febrero de 2026 refleja indicios, no hechos probados por sentencia. Queda pendiente comprobar los recursos, las decisiones de las acusaciones y si se abrió juicio, así como cualquier fallo o archivo posterior y su firmeza. La resolución de otras piezas contra Antonio Fernández no se traslada a la causa de Aulacen.

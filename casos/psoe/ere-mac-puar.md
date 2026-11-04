@@ -8,27 +8,20 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Sobreseimientos individuales
-descripcion: 'Esta pieza de los ERE de Andalucía investigó las ayudas para las prejubilaciones e indemnizaciones
-  de trabajadores de Tecnología Andaluza de Mecanizados y Componentes (TAMC), adquirida por el grupo Mac Puar. El
-  Independiente informó en marzo de 2018 de un auto de 20 de febrero que citaba como investigadas a once personas
-  respecto de ayudas de más de 4,29 millones de euros. Esa cantidad es el volumen de ayudas reseñado, no un perjuicio
-  declarado por sentencia. La inclusión de un beneficiario que ya tenía reconocida incapacidad permanente fue una
-  de las hipótesis investigadas, no una condena que pueda darse por probada.
+descripcion: |-
+  Esta pieza de los ERE de Andalucía investigó las ayudas para las prejubilaciones e indemnizaciones de trabajadores de Tecnología Andaluza de Mecanizados y Componentes (TAMC), adquirida por el grupo Mac Puar. El Independiente informó en marzo de 2018 de un auto de 20 de febrero que citaba como investigadas a once personas respecto de ayudas de más de 4,29 millones de euros. Esa cantidad es el volumen de ayudas reseñado, no un perjuicio declarado por sentencia. La inclusión de un beneficiario que ya tenía reconocida incapacidad permanente fue una de las hipótesis investigadas, no una condena que pueda darse por probada.
 
+  En julio de 2020, Europa Press informó de que la Sección Séptima de la Audiencia de Sevilla había desestimado el recurso de la Fiscalía contra el sobreseimiento respecto de los empresarios de Mac Puar. La resolución consideró insuficientes los indicios de que conocieran las irregularidades de las ayudas y destacó que los trabajadores y representantes sindicales las habían solicitado. No se extiende ese desenlace a todos los citados en 2018 ni se califica como archivo definitivo sin disponer del auto. Una resolución posterior de otra pieza cita el auto de Mac Puar de 1 de julio de 2020, rollo 4810/2019, dentro de las diligencias previas 2474/2016.
 
-  En julio de 2020, Europa Press informó de que la Sección Séptima de la Audiencia de Sevilla había desestimado
-  el recurso de la Fiscalía contra el sobreseimiento respecto de los empresarios de Mac Puar. La resolución consideró
-  insuficientes los indicios de que conocieran las irregularidades de las ayudas y destacó que los trabajadores
-  y representantes sindicales las habían solicitado. No se extiende ese desenlace a todos los citados en 2018 ni
-  se califica como archivo definitivo sin disponer del auto. Una resolución posterior de otra pieza cita el auto
-  de Mac Puar de 1 de julio de 2020, rollo 4810/2019, dentro de las diligencias previas 2474/2016.
+  No se ha recuperado el original del auto de archivo de Mac Puar para precisar su modalidad, alcance personal y firmeza. Tampoco queda acreditado aquí el desenlace posterior de los restantes investigados, las eventuales responsabilidades civiles o contables, ni efectos individuales de las sentencias constitucionales de los ERE a 17 de octubre de 2026. El País informó el 18 de julio de 2024 de la revocación de una reclamación de 8,8 millones en TAMC/Mac Puar. Falta el original para delimitar sus efectos; no acredita daño, cobro ni absolución penal.
 
+  El [cuerpo informativo de El Independiente de 2 de marzo de 2018](https://www.elindependiente.com/politica/2018/03/02/seis-imputados-ayuda-ere-colo-intruso/) describe un auto de 20 de febrero y una citación para mayo. La investigación policial atribuía relevancia a la relación de Gonzalo de Madariaga con José Antonio Viera y a la situación de Jorge Germán Mogollón, pero esas hipótesis no se convierten en hechos de una sentencia condenatoria. Tampoco se presenta a Viera o Antonio Fernández como investigados en esta pieza cuando la propia noticia explica su exclusión por el criterio entonces aplicado sobre la causa principal.
 
-  No se ha recuperado el original del auto de archivo de Mac Puar para precisar su modalidad, alcance personal y
-  firmeza. Tampoco queda acreditado aquí el desenlace posterior de los restantes investigados, las eventuales responsabilidades
-  civiles o contables, ni efectos individuales de las sentencias constitucionales de los ERE a 17 de octubre de
-  2026. El País informó el 18 de julio de 2024 de la revocación de una reclamación de 8,8 millones en TAMC/Mac Puar.
-  Falta el original para delimitar sus efectos; no acredita daño, cobro ni absolución penal.'
+  La [crónica de Europa Press difundida el 10 de julio de 2020](https://www.moncloa.com/2020/07/10/audiencia-exculpa-a-empresarios-del-caso-ere-257336/) recoge la confirmación del sobreseimiento respecto de los empresarios por insuficiencia de indicios de conocimiento o intervención delictiva. La declaración de un portavoz empresarial de que se ponía punto final al asunto no sustituye al dispositivo ni acredita firmeza. La noticia habla de unos 46 trabajadores al explicar el acuerdo empresarial, mientras que la crónica de 2018 se refiere a indemnizaciones de 27 trabajadores: no se fuerzan ambas cifras como un mismo colectivo sin el expediente completo.
+
+  El [auto de Egmasa de 28 de septiembre de 2021 difundido por EFE](https://verifica.efe.com/wp-content/uploads/2022/06/Auto-procedimiento-abreviado-pieza-separada-ERE-Egmasa-28-09-21.pdf) cita expresamente el sobreseimiento de Mac Puar de 1 de julio de 2020, rollo 4810/2019, diligencias previas 2474/2016, y advierte que no es trasladable sin más a otros sindicalistas y empresas. Se utiliza únicamente esa referencia; no se incorpora como si fuera el auto original de Mac Puar.
+
+  Permanece pendiente el contraste del alcance y firmeza de esos archivos y de los resultados posteriores para los demás investigados. La [información de El País de julio de 2024](https://elpais.com/espana/2024-07-18/la-junta-aparca-en-los-juzgados-su-promesa-de-reclamar-todo-el-dinero-defraudado-en-los-ere.html?outputType=amp) menciona una reclamación revocada de 8,8 millones para TAMC/Mac Puar. Su original sigue pendiente para delimitar alcance personal y procesal. Esa referencia no acredita daño, cobro ni absolución penal.
 resumen: Investigación de ayudas para trabajadores de TAMC; confirmación comunicada en 2020 del sobreseimiento respecto
   de empresarios de Mac Puar, sin resultado global acreditado.
 lugar: Sevilla, Andalucía
@@ -110,11 +103,3 @@ cronologia:
   - https://www.moncloa.com/2020/07/10/audiencia-exculpa-a-empresarios-del-caso-ere-257336/
   - https://verifica.efe.com/wp-content/uploads/2022/06/Auto-procedimiento-abreviado-pieza-separada-ERE-Egmasa-28-09-21.pdf
 ---
-
-El [cuerpo informativo de El Independiente de 2 de marzo de 2018](https://www.elindependiente.com/politica/2018/03/02/seis-imputados-ayuda-ere-colo-intruso/) describe un auto de 20 de febrero y una citación para mayo. La investigación policial atribuía relevancia a la relación de Gonzalo de Madariaga con José Antonio Viera y a la situación de Jorge Germán Mogollón, pero esas hipótesis no se convierten en hechos de una sentencia condenatoria. Tampoco se presenta a Viera o Antonio Fernández como investigados en esta pieza cuando la propia noticia explica su exclusión por el criterio entonces aplicado sobre la causa principal.
-
-La [crónica de Europa Press difundida el 10 de julio de 2020](https://www.moncloa.com/2020/07/10/audiencia-exculpa-a-empresarios-del-caso-ere-257336/) recoge la confirmación del sobreseimiento respecto de los empresarios por insuficiencia de indicios de conocimiento o intervención delictiva. La declaración de un portavoz empresarial de que se ponía punto final al asunto no sustituye al dispositivo ni acredita firmeza. La noticia habla de unos 46 trabajadores al explicar el acuerdo empresarial, mientras que la crónica de 2018 se refiere a indemnizaciones de 27 trabajadores: no se fuerzan ambas cifras como un mismo colectivo sin el expediente completo.
-
-El [auto de Egmasa de 28 de septiembre de 2021 difundido por EFE](https://verifica.efe.com/wp-content/uploads/2022/06/Auto-procedimiento-abreviado-pieza-separada-ERE-Egmasa-28-09-21.pdf) cita expresamente el sobreseimiento de Mac Puar de 1 de julio de 2020, rollo 4810/2019, diligencias previas 2474/2016, y advierte que no es trasladable sin más a otros sindicalistas y empresas. Se utiliza únicamente esa referencia; no se incorpora como si fuera el auto original de Mac Puar.
-
-Permanece pendiente el contraste del alcance y firmeza de esos archivos y de los resultados posteriores para los demás investigados. La [información de El País de julio de 2024](https://elpais.com/espana/2024-07-18/la-junta-aparca-en-los-juzgados-su-promesa-de-reclamar-todo-el-dinero-defraudado-en-los-ere.html?outputType=amp) menciona una reclamación revocada de 8,8 millones para TAMC/Mac Puar. Su original sigue pendiente para delimitar alcance personal y procesal. Esa referencia no acredita daño, cobro ni absolución penal.

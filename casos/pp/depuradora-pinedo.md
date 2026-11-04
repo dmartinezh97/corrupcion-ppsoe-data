@@ -8,19 +8,20 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Condenas de Emarsa confirmadas parcialmente en casación; revisión de piezas y ejecución incompleta"
-descripcion: >-
-  Esta denominación se refiere al mismo caso recogido en la ficha Emarsa: la empresa pública que gestionaba la
-  depuradora de Pinedo y el sistema fraudulento de facturación que desvió fondos públicos. No se identifica
-  aquí una causa independiente ni un perjuicio adicional. La Audiencia Provincial de Valencia dictó sentencia
-  en la pieza principal el 19 de junio de 2018; la comunicación judicial del día 22 informó de condenas a los
-  24 acusados y de un desvío de 23,5 millones de euros.
+descripcion: |-
+  Esta denominación se refiere al mismo caso recogido en la ficha Emarsa: la empresa pública que gestionaba la depuradora de Pinedo y el sistema fraudulento de facturación que desvió fondos públicos. No se identifica aquí una causa independiente ni un perjuicio adicional. La Audiencia Provincial de Valencia dictó sentencia en la pieza principal el 19 de junio de 2018; la comunicación judicial del día 22 informó de condenas a los 24 acusados y de un desvío de 23,5 millones de euros.
 
+  La STS 482/2020, de 30 de septiembre, desestimó varios recursos y estimó parcialmente otros cinco, modificando condenas concretas. No confirmó sin cambios todas las penas. La pieza separada del IVA tuvo después su propia casación, STS 183/2023, que desestimó los recursos por inadmisibilidad sin examinar el fondo. Al 17 de octubre de 2026, faltan documentos sobre ejecución, liquidaciones y otras piezas. Los importes corresponden al mismo caso de Emarsa, no a un daño adicional.
 
-  La STS 482/2020, de 30 de septiembre, desestimó varios recursos y estimó parcialmente otros cinco,
-  modificando condenas concretas. No confirmó sin cambios todas las penas. La pieza separada del IVA tuvo
-  después su propia casación, STS 183/2023, que desestimó los recursos por inadmisibilidad sin examinar el
-  fondo. Al 17 de octubre de 2026, faltan documentos sobre ejecución, liquidaciones y otras piezas. Los
-  importes corresponden al mismo caso de Emarsa, no a un daño adicional.
+  **Solapamiento:** [Emarsa](/casos/pp/emarsa/) y Depuradora de Pinedo describen aquí la misma pieza principal y sus derivadas. Los 23,5 millones corresponden al mismo perjuicio descrito en Emarsa, no a una pérdida adicional. No se han editado otras fichas. La entidad es la Empresa Metropolitana de Aguas Residuales; no debe confundirse con EPSAR ni con EMSHI, que tienen funciones y posiciones procesales distintas.
+
+  La tabla oficial difundida en junio de 2018 identifica nominalmente a Enrique Crespo **Calatrava** y Esteban Cuesta **Anguix**. La misma tabla recoge indemnizaciones conjuntas y solidarias: una cantidad compartida por responsables no se multiplica por el número de personas. Tampoco se suman sin depuración la cifra penal, las cantidades contables, las devoluciones tributarias y el volumen de facturas.
+
+  La sentencia de 2020 contiene modificaciones individuales y una absolución por falsedad para una de las recurrentes que mantiene condena por malversación. Sin cotejo nominal suficiente no se amplía su identidad a partir de los seudónimos del PDF. No están acreditadas las alegaciones sobre financiación del PP o responsabilidad de Rita Barberá en los documentos judiciales citados.
+
+  La pieza del IVA tiene objeto propio y resoluciones posteriores a 2020. La información de Europa Press de abril de 2023 habla de cuatro años para Crespo, Cuesta y Roca; el original de casación permite precisar que la desestimación fue procesal, sin revisión del fondo. No se añaden automáticamente esos años a la pena de la pieza principal ni se interpreta la casación como un nuevo juicio.
+
+  **Documentación disponible al 17 de octubre de 2026:** están disponibles las dos resoluciones judiciales. No se dispone del texto del acta de EMSHI de febrero de 2025 para corroborar las incidencias de ejecución que se le atribuyen. Faltan originales de otras piezas, aclaraciones, incidentes y liquidaciones; no se afirma el estado penitenciario actual ni el cobro íntegro o extinción de responsabilidades. La fecha de la STS principal es el 30 de septiembre de 2020, no el 9 de octubre de su difusión periodística.
 resumen: "Denominación alternativa del caso Emarsa, gestora de la depuradora de Pinedo; sin daño adicional al registrado en aquella ficha."
 lugar: "Pinedo, València, Comunitat Valenciana"
 tribunal:
@@ -78,13 +79,3 @@ cronologia:
     urls:
       - "https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=4ffaa75310f43166a0a8778d75e36f0d&encode=true&databasematch=TS"
 ---
-
-**Solapamiento:** [Emarsa](/casos/pp/emarsa/) y Depuradora de Pinedo describen aquí la misma pieza principal y sus derivadas. Los 23,5 millones corresponden al mismo perjuicio descrito en Emarsa, no a una pérdida adicional. No se han editado otras fichas. La entidad es la Empresa Metropolitana de Aguas Residuales; no debe confundirse con EPSAR ni con EMSHI, que tienen funciones y posiciones procesales distintas.
-
-La tabla oficial difundida en junio de 2018 identifica nominalmente a Enrique Crespo **Calatrava** y Esteban Cuesta **Anguix**. La misma tabla recoge indemnizaciones conjuntas y solidarias: una cantidad compartida por responsables no se multiplica por el número de personas. Tampoco se suman sin depuración la cifra penal, las cantidades contables, las devoluciones tributarias y el volumen de facturas.
-
-La sentencia de 2020 contiene modificaciones individuales y una absolución por falsedad para una de las recurrentes que mantiene condena por malversación. Sin cotejo nominal suficiente no se amplía su identidad a partir de los seudónimos del PDF. No están acreditadas las alegaciones sobre financiación del PP o responsabilidad de Rita Barberá en los documentos judiciales citados.
-
-La pieza del IVA tiene objeto propio y resoluciones posteriores a 2020. La información de Europa Press de abril de 2023 habla de cuatro años para Crespo, Cuesta y Roca; el original de casación permite precisar que la desestimación fue procesal, sin revisión del fondo. No se añaden automáticamente esos años a la pena de la pieza principal ni se interpreta la casación como un nuevo juicio.
-
-**Documentación disponible al 17 de octubre de 2026:** están disponibles las dos resoluciones judiciales. No se dispone del texto del acta de EMSHI de febrero de 2025 para corroborar las incidencias de ejecución que se le atribuyen. Faltan originales de otras piezas, aclaraciones, incidentes y liquidaciones; no se afirma el estado penitenciario actual ni el cobro íntegro o extinción de responsabilidades. La fecha de la STS principal es el 30 de septiembre de 2020, no el 9 de octubre de su difusión periodística.

@@ -8,25 +8,18 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Sobreseimientos por piezas
-descripcion: 'Tosca investigó posibles irregularidades en contratos públicos de Melilla y tuvo antecedentes en las pesquisas
-  de Ópera. La actuación policial de febrero de 2015 afectó a cargos, funcionarios y empresarios. Las sospechas sobre fraccionamiento,
-  pliegos y contraprestaciones no equivalen a una trama delictiva judicialmente probada: las investigaciones se dividieron
-  y terminaron en sobreseimientos documentados en distintas resoluciones.
+descripcion: |-
+  Tosca investigó posibles irregularidades en contratos públicos de Melilla y tuvo antecedentes en las pesquisas de Ópera. La actuación policial de febrero de 2015 afectó a cargos, funcionarios y empresarios. Las sospechas sobre fraccionamiento, pliegos y contraprestaciones no equivalen a una trama delictiva judicialmente probada: las investigaciones se dividieron y terminaron en sobreseimientos documentados en distintas resoluciones.
 
+  El auto 170/2020, de 6 de octubre, de la Sección Séptima de la Audiencia Provincial de Málaga en Melilla confirmó el sobreseimiento provisional de las diligencias 1315/2012 sobre contratos de Medio Ambiente con Hispanagua, El Porvenir y Labra, entre otras empresas. La Sala consideró insuficientes los indicios y agotado el plazo para nuevas diligencias; el fallo indica que no cabe recurso. El propio auto distingue la pieza 167/2015 relativa a Eulen y Promesa, cuyo archivo había confirmado la Audiencia el 26 de mayo de 2020. Un auto firme de sobreseimiento provisional no es una sentencia absolutoria tras juicio ni una condena.
 
-  El auto 170/2020, de 6 de octubre, de la Sección Séptima de la Audiencia Provincial de Málaga en Melilla confirmó el sobreseimiento
-  provisional de las diligencias 1315/2012 sobre contratos de Medio Ambiente con Hispanagua, El Porvenir y Labra, entre otras
-  empresas. La Sala consideró insuficientes los indicios y agotado el plazo para nuevas diligencias; el fallo indica que no
-  cabe recurso. El propio auto distingue la pieza 167/2015 relativa a Eulen y Promesa, cuyo archivo había confirmado la Audiencia
-  el 26 de mayo de 2020. Un auto firme de sobreseimiento provisional no es una sentencia absolutoria tras juicio ni una condena.
+  En mayo de 2023 se informó de una sentencia contencioso-administrativa que ordenaba reanudar una revisión de oficio por servicios contratados verbalmente. Esa noticia no acredita una reapertura penal de Tosca. Faltan los originales de otras piezas y de esa sentencia administrativa, el detalle nominal de los sobreseimientos y posibles actuaciones posteriores a esos archivos hasta el 15 de octubre de 2026. No se atribuyen resultados penales individuales sin esa correspondencia ni se presenta la investigación inicial como vigente. La contratación del abogado por 357.000 euros investigada en el Supremo contra Imbroda pertenecía al caso Abogados, no constituye el daño de Tosca.
 
+  Las DP 1315/2012 y la pieza 167/2015 comparten origen, pero su objeto y sus resoluciones son distintos. El auto de octubre de 2020 explica que el atestado inicial necesitaba una instrucción posterior que concretara los delitos. La falta de diligencias y el vencimiento del plazo impedían completar ese material; la Sala confirmó el sobreseimiento por insuficiencia indiciaria. No declaró probada una red de enriquecimiento ilícito.
 
-  En mayo de 2023 se informó de una sentencia contencioso-administrativa que ordenaba reanudar una revisión de oficio por
-  servicios contratados verbalmente. Esa noticia no acredita una reapertura penal de Tosca. Faltan los originales de otras
-  piezas y de esa sentencia administrativa, el detalle nominal de los sobreseimientos y posibles actuaciones posteriores a esos archivos hasta el
-  15 de octubre de 2026. No se atribuyen resultados penales individuales sin esa correspondencia ni se presenta la investigación
-  inicial como vigente. La contratación del abogado por 357.000 euros investigada en el Supremo contra Imbroda pertenecía
-  al caso Abogados, no constituye el daño de Tosca.'
+  La denominación periodística de «absolución total» o «archivo definitivo» no modifica la naturaleza del sobreseimiento provisional que consta en el original examinado. La imposibilidad de recurrir el auto tampoco convierte el archivo en una sentencia sobre culpabilidad. Faltan originales para comprobar la correspondencia de todos los nombres y la totalidad de las piezas.
+
+  La revisión de oficio y la reclamación de servicios impagados pertenecen al control administrativo de la contratación. Su reanudación no prueba que se reabriera una investigación penal. Las declaraciones sobre el volumen de contratos, así como las cantidades del caso Abogados, no son una liquidación del perjuicio de Tosca. El desenlace posterior de esos expedientes administrativos y cualquier nueva actuación penal no están acreditados al corte de 15 de octubre de 2026.
 resumen: Investigación de contratos públicos de Melilla con sobreseimientos por piezas y actuaciones administrativas distintas.
 lugar: Melilla
 tribunal:
@@ -136,9 +129,3 @@ cronologia:
   type: resumen
   relevancia: alta
 ---
-
-Las DP 1315/2012 y la pieza 167/2015 comparten origen, pero su objeto y sus resoluciones son distintos. El auto de octubre de 2020 explica que el atestado inicial necesitaba una instrucción posterior que concretara los delitos. La falta de diligencias y el vencimiento del plazo impedían completar ese material; la Sala confirmó el sobreseimiento por insuficiencia indiciaria. No declaró probada una red de enriquecimiento ilícito.
-
-La denominación periodística de «absolución total» o «archivo definitivo» no modifica la naturaleza del sobreseimiento provisional que consta en el original examinado. La imposibilidad de recurrir el auto tampoco convierte el archivo en una sentencia sobre culpabilidad. Faltan originales para comprobar la correspondencia de todos los nombres y la totalidad de las piezas.
-
-La revisión de oficio y la reclamación de servicios impagados pertenecen al control administrativo de la contratación. Su reanudación no prueba que se reabriera una investigación penal. Las declaraciones sobre el volumen de contratos, así como las cantidades del caso Abogados, no son una liquidación del perjuicio de Tosca. El desenlace posterior de esos expedientes administrativos y cualquier nueva actuación penal no están acreditados al corte de 15 de octubre de 2026.

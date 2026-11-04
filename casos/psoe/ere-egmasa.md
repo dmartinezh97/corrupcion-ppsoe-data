@@ -9,29 +9,24 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: archivo parcial
-descripcion: 'Esta pieza de los ERE se refiere a las ayudas para financiar prejubilaciones de trabajadores de la
-  empresa pública Egmasa y a determinadas inclusiones en pólizas. Un auto de 27 de septiembre de 2021 acordó continuar
-  por procedimiento abreviado contra nueve personas por posibles delitos de prevaricación y malversación. No fue
-  el inicio de la investigación ni una condena.
+descripcion: |-
+  Esta pieza de los ERE se refiere a las ayudas para financiar prejubilaciones de trabajadores de la empresa pública Egmasa y a determinadas inclusiones en pólizas. Un auto de 27 de septiembre de 2021 acordó continuar por procedimiento abreviado contra nueve personas por posibles delitos de prevaricación y malversación. No fue el inicio de la investigación ni una condena.
 
+  El auto 85/2025 de la Sección Séptima de la Audiencia Provincial de Sevilla, de 27 de enero, estimó los recursos de cuatro personas y acordó su sobreseimiento provisional y archivo. La prensa identifica entre los beneficiados a Daniel Alberto Rivera y Antonio Perianes; el original anonimiza los cuatro nombres. No se ha contrastado de forma segura la correspondencia nominal de los otros dos ni el desenlace del resto de investigados.
 
-  El auto 85/2025 de la Sección Séptima de la Audiencia Provincial de Sevilla, de 27 de enero, estimó los recursos
-  de cuatro personas y acordó su sobreseimiento provisional y archivo. La prensa identifica entre los beneficiados
-  a Daniel Alberto Rivera y Antonio Perianes; el original anonimiza los cuatro nombres. No se ha contrastado de
-  forma segura la correspondencia nominal de los otros dos ni el desenlace del resto de investigados.
+  El auto también eliminó la referencia a Egmasa como responsable civil subsidiaria en la resolución de procedimiento abreviado, sin perjuicio de lo que pudieran pedir después las acusaciones. El recurso de CCOO de Industria se desestimó por pérdida de objeto tras el archivo para su representado. Estas decisiones no equivalen a una absolución global ni al cierre definitivo de toda la pieza.
 
+  Los 21.673.680,62 euros citados por la investigación corresponden al importe de ayudas examinado; no se incorporan como daño firme. Faltan los desenlaces de todos los afectados y las actuaciones posteriores hasta el 15 de octubre de 2026. El auto no admitía recurso ordinario, pero no se ha verificado el recorrido posterior; el carácter provisional del archivo debe conservarse. No se trasladan a Egmasa automáticamente las decisiones de la pieza política ni la cuestión ante el TJUE.
 
-  El auto también eliminó la referencia a Egmasa como responsable civil subsidiaria en la resolución de procedimiento
-  abreviado, sin perjuicio de lo que pudieran pedir después las acusaciones. El recurso de CCOO de Industria se
-  desestimó por pérdida de objeto tras el archivo para su representado. Estas decisiones no equivalen a una absolución
-  global ni al cierre definitivo de toda la pieza.
+  La pieza Egmasa tiene objeto propio. La solicitud laboral de 2003 y las ayudas para financiar sus consecuencias no equivalen a una única transferencia de 21,6 millones en julio de ese año. La información de 2021 diferenciaba ayudas de 21.673.680,62 euros, pagos de IDEA de 16.069.391,88 euros entre 2004 y 2010 y otros 300.000 mediante los denominados pagos cruzados. El auto de apelación reproduce otra formulación de órdenes y pagos; sin una liquidación completa no se suman esos conceptos ni se presenta su total como dinero definitivamente malversado.
 
+  La Audiencia analiza separadamente las conductas. Respecto del antiguo director de Trabajo identificado por la prensa como Rivera, explica que no bastaba apoyar la imputación en la irregularidad del procedimiento de concesión sin mencionar falta de fin público o un destino ajeno al programa presupuestario. Respecto del representante sindical, identificado como Perianes, considera insuficientes los indicios de actuaciones distintas de la defensa de trabajadores. En los otros recursos examina la falta de vinculación suficiente de un antiguo consejero delegado y la insuficiencia de los indicios contra un responsable de Vitalia. No se completan sus identidades a partir de esos roles sin una fuente nominal que lo confirme.
 
-  Los 21.673.680,62 euros citados por la investigación corresponden al importe de ayudas examinado; no se incorporan
-  como daño firme. Faltan los desenlaces de todos los afectados y las actuaciones posteriores hasta el 15 de octubre
-  de 2026. El auto no admitía recurso ordinario, pero no se ha verificado el recorrido posterior; el carácter provisional
-  del archivo debe conservarse. No se trasladan a Egmasa automáticamente las decisiones de la pieza política ni
-  la cuestión ante el TJUE.'
+  El fallo solo acuerda archivo provisional para los cuatro apelantes. La retirada de la mención civil a Egmasa tiene alcance procesal: las acusaciones podían formular sus pretensiones en la fase adecuada. No es una declaración general de inexistencia de responsabilidad civil. La pérdida de objeto del recurso de CCOO de Industria tampoco se describe como una estimación de fondo de todas sus alegaciones.
+
+  El auto de 2021, según las fuentes consultadas, dejó fuera de esta continuación a José Antonio Viera, Antonio Fernández, Agustín Barberá, Francisco Javier Guerrero —ya fallecido entonces— y Juan Márquez por su previo encausamiento en el procedimiento específico. No se mantienen como investigados actuales de Egmasa por antiguas citaciones ni se les trasladan aquí condenas, amparos o resultados de otras piezas.
+
+  Las referencias a las sentencias constitucionales y a la sentencia del Supremo de Acyco forman parte del razonamiento del auto de 2025. No sustituyen el pronunciamiento personal de esta pieza ni permiten extender su archivo a los demás investigados. Tampoco se atribuye un efecto automático a las cuestiones europeas planteadas en la causa política. Faltan los originales de 2021, las resoluciones relativas a los restantes afectados y el seguimiento posterior al archivo parcial.
 resumen: 'Ayudas a prejubilaciones de Egmasa: archivo provisional para cuatro recurrentes en enero de 2025 y desenlaces
   restantes no verificados.'
 lugar: Andalucía, España
@@ -134,13 +129,3 @@ cronologia:
   type: resumen
   relevancia: alta
 ---
-
-La pieza Egmasa tiene objeto propio. La solicitud laboral de 2003 y las ayudas para financiar sus consecuencias no equivalen a una única transferencia de 21,6 millones en julio de ese año. La información de 2021 diferenciaba ayudas de 21.673.680,62 euros, pagos de IDEA de 16.069.391,88 euros entre 2004 y 2010 y otros 300.000 mediante los denominados pagos cruzados. El auto de apelación reproduce otra formulación de órdenes y pagos; sin una liquidación completa no se suman esos conceptos ni se presenta su total como dinero definitivamente malversado.
-
-La Audiencia analiza separadamente las conductas. Respecto del antiguo director de Trabajo identificado por la prensa como Rivera, explica que no bastaba apoyar la imputación en la irregularidad del procedimiento de concesión sin mencionar falta de fin público o un destino ajeno al programa presupuestario. Respecto del representante sindical, identificado como Perianes, considera insuficientes los indicios de actuaciones distintas de la defensa de trabajadores. En los otros recursos examina la falta de vinculación suficiente de un antiguo consejero delegado y la insuficiencia de los indicios contra un responsable de Vitalia. No se completan sus identidades a partir de esos roles sin una fuente nominal que lo confirme.
-
-El fallo solo acuerda archivo provisional para los cuatro apelantes. La retirada de la mención civil a Egmasa tiene alcance procesal: las acusaciones podían formular sus pretensiones en la fase adecuada. No es una declaración general de inexistencia de responsabilidad civil. La pérdida de objeto del recurso de CCOO de Industria tampoco se describe como una estimación de fondo de todas sus alegaciones.
-
-El auto de 2021, según las fuentes consultadas, dejó fuera de esta continuación a José Antonio Viera, Antonio Fernández, Agustín Barberá, Francisco Javier Guerrero —ya fallecido entonces— y Juan Márquez por su previo encausamiento en el procedimiento específico. No se mantienen como investigados actuales de Egmasa por antiguas citaciones ni se les trasladan aquí condenas, amparos o resultados de otras piezas.
-
-Las referencias a las sentencias constitucionales y a la sentencia del Supremo de Acyco forman parte del razonamiento del auto de 2025. No sustituyen el pronunciamiento personal de esta pieza ni permiten extender su archivo a los demás investigados. Tampoco se atribuye un efecto automático a las cuestiones europeas planteadas en la causa política. Faltan los originales de 2021, las resoluciones relativas a los restantes afectados y el seguimiento posterior al archivo parcial.

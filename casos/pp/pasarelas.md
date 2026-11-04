@@ -7,35 +7,26 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución confirmada por el Supremo
-descripcion: 'El caso Pasarelas examinó la contratación de trabajos técnicos para acondicionar espacios públicos,
-  pasarelas y áreas próximas a la rambla de Nogalte, en Puerto Lumbreras, durante la alcaldía de Pedro Antonio Sánchez.
-  Las acusaciones sostenían que los encargos al arquitecto Martín Lejarraga se habían fraccionado para evitar la
-  concurrencia pública. El 3 de julio de 2006 corresponde a una resolución municipal de avocación de competencias,
-  no al inicio de la investigación penal: las diligencias previas se incoaron el 14 de julio de 2016. La sentencia
-  de instancia sitúa los hechos alegados entre el 3 de julio de 2006 y el 10 de abril de 2008. No los declara
-  probados: el procedimiento terminó por una cuestión procesal previa, sin practicar la prueba sobre el fondo.
+descripcion: |-
+  El caso Pasarelas examinó la contratación de trabajos técnicos para acondicionar espacios públicos, pasarelas y áreas próximas a la rambla de Nogalte, en Puerto Lumbreras, durante la alcaldía de Pedro Antonio Sánchez. Las acusaciones sostenían que los encargos al arquitecto Martín Lejarraga se habían fraccionado para evitar la concurrencia pública. El 3 de julio de 2006 corresponde a una resolución municipal de avocación de competencias, no al inicio de la investigación penal: las diligencias previas se incoaron el 14 de julio de 2016. La sentencia de instancia sitúa los hechos alegados entre el 3 de julio de 2006 y el 10 de abril de 2008. No los declara probados: el procedimiento terminó por una cuestión procesal previa, sin practicar la prueba sobre el fondo.
 
+  La Sección Tercera de la Audiencia Provincial de Murcia absolvió a ambos acusados mediante la sentencia 520/2018, de 20 de diciembre. Anuló el auto de reapertura de 20 de noviembre de 2017 y la investigación posterior porque había vencido el plazo de instrucción sin prórroga interesada en tiempo. Sólo subsistía el testimonio inicial de contratos y no había una declaración válida de los investigados durante la instrucción, imprescindible para ejercer su defensa y poder acusarlos. No fue una condena por contratación irregular ni una declaración de prescripción.
 
-  La Sección Tercera de la Audiencia Provincial de Murcia absolvió a ambos acusados mediante la sentencia 520/2018,
-  de 20 de diciembre. Anuló el auto de reapertura de 20 de noviembre de 2017 y la investigación posterior porque
-  había vencido el plazo de instrucción sin prórroga interesada en tiempo. Sólo subsistía el testimonio inicial
-  de contratos y no había una declaración válida de los investigados durante la instrucción, imprescindible para
-  ejercer su defensa y poder acusarlos. No fue una condena por contratación irregular ni una declaración de prescripción.
+  La Sala de lo Civil y Penal del TSJ de Murcia confirmó íntegramente la absolución el 28 de mayo de 2019, en su sentencia 5/2019. El Supremo desestimó los recursos de casación del Ministerio Fiscal y de una acusación popular adherida mediante la sentencia 455/2021, de 27 de mayo, conocida en prensa el 14 de junio. El desenlace acreditado es, por tanto, la absolución de Pedro Antonio Sánchez y Martín Lejarraga, confirmada en apelación y casación; no un mero sobreseimiento provisional pendiente de juicio.
 
+  El vencimiento del plazo no se presenta como una causa automática de extinción de toda responsabilidad penal: las sentencias explican por qué, en este procedimiento, las diligencias inválidas impedían continuar. No se han obtenido los expedientes originales de contratación para verificar por separado cada encargo y su importe ni un auto posterior específico de firmeza; no se fija una fecha adicional de cierre por la ausencia de noticias. Tampoco se cuantifica un daño patrimonial probado ni se trasladan a Pasarelas los resultados de Auditorio, Púnica u otros procedimientos sobre las mismas personas.
 
-  La Sala de lo Civil y Penal del TSJ de Murcia confirmó íntegramente la absolución el 28 de mayo de 2019, en su
-  sentencia 5/2019. El Supremo desestimó los recursos de casación del Ministerio Fiscal y de una acusación popular
-  adherida mediante la sentencia 455/2021, de 27 de mayo, conocida en prensa el 14 de junio. El desenlace acreditado
-  es, por tanto, la absolución de Pedro Antonio Sánchez y Martín Lejarraga, confirmada en apelación y casación;
-  no un mero sobreseimiento provisional pendiente de juicio.
+  ### Objeto y resultado
 
+  Las acusaciones por los encargos técnicos del entorno de la rambla de Nogalte se resolvieron en este procedimiento mediante una absolución en cuestiones previas. La [sentencia de instancia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=60b1ffcdddc94524&encode=true&databasematch=AN) no contiene una declaración de hechos probados sobre la contratación, pues no se llegó a practicar la prueba sobre el fondo. Su examen de la prescripción identifica el periodo alegado por las acusaciones entre julio de 2006 y abril de 2008; no debe transformarse ese relato provisional en una declaración de culpabilidad.
 
-  El vencimiento del plazo no se presenta como una causa automática de extinción de toda responsabilidad penal:
-  las sentencias explican por qué, en este procedimiento, las diligencias inválidas impedían continuar. No se han
-  obtenido los expedientes originales de contratación para verificar por separado cada encargo y su importe ni un
-  auto posterior específico de firmeza; no se fija una fecha adicional de cierre por la ausencia de noticias. Tampoco
-  se cuantifica un daño patrimonial probado ni se trasladan a Pasarelas los resultados de Auditorio, Púnica u otros
-  procedimientos sobre las mismas personas.'
+  El archivo inicial de enero de 2017, la reapertura de noviembre de ese año y la absolución de diciembre de 2018 son decisiones distintas. La [sentencia del TSJ](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=00b792e90bedb13b&encode=true&databasematch=AN) confirmó la absolución, y la [sentencia del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=99c37d5a3669dc2c&encode=true&databasematch=AN) desestimó la casación en mayo de 2021. La prensa nominal contemporánea identifica a Pedro Antonio Sánchez y Martín Lejarraga como los dos acusados; los seudónimos de los documentos públicos no se utilizan para reconstruir identidades.
+
+  ### Alcance de la decisión procesal
+
+  El plazo aplicable era el de la redacción entonces vigente del artículo 324 de la Ley de Enjuiciamiento Criminal. Los tribunales consideraron inválida la investigación posterior a la reapertura y constataron que no quedaba una declaración válida de los investigados. El Supremo explica que la expiración del plazo no crea una nueva causa de extinción de responsabilidad penal: obliga a resolver con el material válido disponible. En este caso, la retroacción resultaba inútil y se mantuvo la absolución.
+
+  La denominación Pasarelas no se confunde con Auditorio ni con otras causas sobre Sánchez o Lejarraga. Tampoco se utiliza la facturación atribuida en prensa a otros proyectos del arquitecto para cuantificar el daño o demostrar favoritismo en esta causa. No hay aquí una pena, multa o indemnización condenatoria que agregar. Quedan sin cotejo directo los expedientes de contratación y un auto posterior específico de firmeza; el resultado acreditado por los originales es la absolución confirmada en casación.
 resumen: Absolución de Pedro Antonio Sánchez y Martín Lejarraga por la nulidad de la investigación practicada fuera
   de plazo, confirmada por el TSJ en 2019 y el Supremo en mayo de 2021.
 lugar: Puerto Lumbreras, Región de Murcia
@@ -174,15 +165,3 @@ cronologia:
   urls:
   - https://confilegal.com/20210614-el-supremo-confirma-la-absolucion-del-expresidente-de-murcia-pedro-sanchez-lopez/
 ---
-
-## Objeto y resultado
-
-Las acusaciones por los encargos técnicos del entorno de la rambla de Nogalte se resolvieron en este procedimiento mediante una absolución en cuestiones previas. La [sentencia de instancia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=60b1ffcdddc94524&encode=true&databasematch=AN) no contiene una declaración de hechos probados sobre la contratación, pues no se llegó a practicar la prueba sobre el fondo. Su examen de la prescripción identifica el periodo alegado por las acusaciones entre julio de 2006 y abril de 2008; no debe transformarse ese relato provisional en una declaración de culpabilidad.
-
-El archivo inicial de enero de 2017, la reapertura de noviembre de ese año y la absolución de diciembre de 2018 son decisiones distintas. La [sentencia del TSJ](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=00b792e90bedb13b&encode=true&databasematch=AN) confirmó la absolución, y la [sentencia del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=99c37d5a3669dc2c&encode=true&databasematch=AN) desestimó la casación en mayo de 2021. La prensa nominal contemporánea identifica a Pedro Antonio Sánchez y Martín Lejarraga como los dos acusados; los seudónimos de los documentos públicos no se utilizan para reconstruir identidades.
-
-## Alcance de la decisión procesal
-
-El plazo aplicable era el de la redacción entonces vigente del artículo 324 de la Ley de Enjuiciamiento Criminal. Los tribunales consideraron inválida la investigación posterior a la reapertura y constataron que no quedaba una declaración válida de los investigados. El Supremo explica que la expiración del plazo no crea una nueva causa de extinción de responsabilidad penal: obliga a resolver con el material válido disponible. En este caso, la retroacción resultaba inútil y se mantuvo la absolución.
-
-La denominación Pasarelas no se confunde con Auditorio ni con otras causas sobre Sánchez o Lejarraga. Tampoco se utiliza la facturación atribuida en prensa a otros proyectos del arquitecto para cuantificar el daño o demostrar favoritismo en esta causa. No hay aquí una pena, multa o indemnización condenatoria que agregar. Quedan sin cotejo directo los expedientes de contratación y un auto posterior específico de firmeza; el resultado acreditado por los originales es la absolución confirmada en casación.

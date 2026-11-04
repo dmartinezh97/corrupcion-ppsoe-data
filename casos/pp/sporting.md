@@ -8,27 +8,20 @@ estadoPrincipal: Condenado
 recursoPendiente: En apelación
 firmeza: No firme
 estado: Condenas de primera instancia
-descripcion: 'El caso se refiere a la gestión de las escuelas deportivas municipales de San Fulgencio mediante el
-  Club de Fútbol Sporting San Fulgencio entre 2011 y 2014. Las crónicas de noviembre de 2017 describen 48 subvenciones
-  por un importe próximo a 196.000 euros y una entidad creada con personas próximas al gobierno local para prestar
-  el servicio bajo su control, sin publicidad ni oferta pública. El importe concedido no equivale por sí mismo a
-  un daño económico probado; la información sobre el fallo indica que el juez no entró a determinar si el cambio
-  de gestión había supuesto una mejora económica.
+descripcion: |-
+  El caso se refiere a la gestión de las escuelas deportivas municipales de San Fulgencio mediante el Club de Fútbol Sporting San Fulgencio entre 2011 y 2014. Las crónicas de noviembre de 2017 describen 48 subvenciones por un importe próximo a 196.000 euros y una entidad creada con personas próximas al gobierno local para prestar el servicio bajo su control, sin publicidad ni oferta pública. El importe concedido no equivale por sí mismo a un daño económico probado; la información sobre el fallo indica que el juez no entró a determinar si el cambio de gestión había supuesto una mejora económica.
 
+  El 3 de noviembre de 2017 se publicó que el Juzgado de lo Penal nº 1 de Orihuela había condenado a Carlos Ramírez y Pascual Sempere a ocho años y seis meses de inhabilitación por prevaricación administrativa y al expresidente de la asociación a siete años. No se ha recuperado el original de la sentencia para comprobar su fecha de firma, número, fallo nominal completo y alcance exacto. Una información de febrero de 2019 identifica a Antonio Irles Filiu como condenado por prevaricación en relación con las subvenciones deportivas de San Fulgencio, pero falta contrastar su pena individual en el original.
 
-  El 3 de noviembre de 2017 se publicó que el Juzgado de lo Penal nº 1 de Orihuela había condenado a Carlos Ramírez
-  y Pascual Sempere a ocho años y seis meses de inhabilitación por prevaricación administrativa y al expresidente
-  de la asociación a siete años. No se ha recuperado el original de la sentencia para comprobar su fecha de firma,
-  número, fallo nominal completo y alcance exacto. Una información de febrero de 2019 identifica a Antonio Irles
-  Filiu como condenado por prevaricación en relación con las subvenciones deportivas de San Fulgencio, pero falta
-  contrastar su pena individual en el original.
+  La condena de 2017 era recurrible. Al renunciar Ramírez a la alcaldía y al acta de concejal el 2 de mayo de 2018, EFE recogió que la había recurrido ante la Audiencia Provincial y estaba esperando resolución. No se ha documentado el desenlace de esa apelación, la firmeza individual ni la ejecución o cumplimiento de las inhabilitaciones al 17 de octubre de 2026. La renuncia al cargo y las medidas internas del PP no sustituyen una resolución del recurso ni permiten dar el caso por cerrado.
 
+  La [crónica de la condena de 2017](https://www.diariodelavega.com/condenan-al-alcalde-de-san-fulgencio-a-ocho-anos-de-inhabilitacion-por-un-delito-de-prevaricacion/) describe la falta de publicidad y oferta pública en la selección de una entidad para gestionar las escuelas deportivas. La cifra de 48 subvenciones y cerca de 196.000 euros es volumen de ayudas, no una indemnización o un perjuicio económico establecido en el fallo original. La propia crónica advierte que el tribunal no examinó si la nueva gestión había mejorado el resultado económico.
 
-  La condena de 2017 era recurrible. Al renunciar Ramírez a la alcaldía y al acta de concejal el 2 de mayo de 2018,
-  EFE recogió que la había recurrido ante la Audiencia Provincial y estaba esperando resolución. No se ha documentado
-  el desenlace de esa apelación, la firmeza individual ni la ejecución o cumplimiento de las inhabilitaciones al
-  17 de octubre de 2026. La renuncia al cargo y las medidas internas del PP no sustituyen una resolución del recurso
-  ni permiten dar el caso por cerrado.'
+  La [información de mayo de 2018](https://alicanteplaza.es/dimite-el-alcalde-de-san-fulgencio-tras-su-condena-via-libre-para-la-salida-de-zaragoza-en-la-diputacion-de-alicante) recoge la renuncia de Carlos Ramírez y su afirmación de que la apelación aún no estaba resuelta. No basta ese dato histórico para afirmar que hoy siga pendiente, ni la ausencia de otra noticia para declarar firme la condena. Faltan la sentencia inicial, la resolución de apelación y los documentos de ejecución individuales. Tampoco se atribuye una condena por falsedad documental a Sempere a partir de referencias a firmas en solicitudes de subvención.
+
+  El nombre Antonio Irles Filiu figura asociado al Sporting en el [censo federativo de 2018](https://www.ffcv.es/elecciones/clubesFC_alicante%20web_firmado.pdf) y aparece nominalmente como condenado en la [información de febrero de 2019](https://valenciaplaza.com/valenciaplaza/santa-pola-devuelve-a-un-oficial-de-policia-a-polop-al-detecar-que-no-reunia-los-requisitos-para-el-puesto). La pena de siete años del expresidente procede de una crónica sin nombre, por lo que falta contrastarla en un fallo nominal. No se incorporan las acusaciones o decisiones de otros procedimientos mencionados en esas fuentes.
+
+  La [expulsión de cinco concejales del PP](https://www.eldiario.es/comunitat-valenciana/politica/pp-alicante-san-fulgencio-prevaricacion_1_3030273.html) fue una medida de disciplina partidaria, sin atribuirles por ello responsabilidad penal. La salida del alcalde en mayo de 2018 se conserva como un hecho político documentado; la referencia de la noticia a una reforma electoral se presenta como explicación del propio Ramírez, sin afirmar una reforma legal de esa fecha ni equiparar incompatibilidad electoral y firmeza penal.
 resumen: Condenas por prevaricación en la gestión de escuelas deportivas mediante subvenciones al Sporting San Fulgencio;
   desenlace de la apelación y ejecución no documentados.
 lugar: San Fulgencio, Alicante, Comunitat Valenciana
@@ -104,11 +97,3 @@ cronologia:
   urls:
   - https://valenciaplaza.com/valenciaplaza/santa-pola-devuelve-a-un-oficial-de-policia-a-polop-al-detecar-que-no-reunia-los-requisitos-para-el-puesto
 ---
-
-La [crónica de la condena de 2017](https://www.diariodelavega.com/condenan-al-alcalde-de-san-fulgencio-a-ocho-anos-de-inhabilitacion-por-un-delito-de-prevaricacion/) describe la falta de publicidad y oferta pública en la selección de una entidad para gestionar las escuelas deportivas. La cifra de 48 subvenciones y cerca de 196.000 euros es volumen de ayudas, no una indemnización o un perjuicio económico establecido en el fallo original. La propia crónica advierte que el tribunal no examinó si la nueva gestión había mejorado el resultado económico.
-
-La [información de mayo de 2018](https://alicanteplaza.es/dimite-el-alcalde-de-san-fulgencio-tras-su-condena-via-libre-para-la-salida-de-zaragoza-en-la-diputacion-de-alicante) recoge la renuncia de Carlos Ramírez y su afirmación de que la apelación aún no estaba resuelta. No basta ese dato histórico para afirmar que hoy siga pendiente, ni la ausencia de otra noticia para declarar firme la condena. Faltan la sentencia inicial, la resolución de apelación y los documentos de ejecución individuales. Tampoco se atribuye una condena por falsedad documental a Sempere a partir de referencias a firmas en solicitudes de subvención.
-
-El nombre Antonio Irles Filiu figura asociado al Sporting en el [censo federativo de 2018](https://www.ffcv.es/elecciones/clubesFC_alicante%20web_firmado.pdf) y aparece nominalmente como condenado en la [información de febrero de 2019](https://valenciaplaza.com/valenciaplaza/santa-pola-devuelve-a-un-oficial-de-policia-a-polop-al-detecar-que-no-reunia-los-requisitos-para-el-puesto). La pena de siete años del expresidente procede de una crónica sin nombre, por lo que falta contrastarla en un fallo nominal. No se incorporan las acusaciones o decisiones de otros procedimientos mencionados en esas fuentes.
-
-La [expulsión de cinco concejales del PP](https://www.eldiario.es/comunitat-valenciana/politica/pp-alicante-san-fulgencio-prevaricacion_1_3030273.html) fue una medida de disciplina partidaria, sin atribuirles por ello responsabilidad penal. La salida del alcalde en mayo de 2018 se conserva como un hecho político documentado; la referencia de la noticia a una reforma electoral se presenta como explicación del propio Ramírez, sin afirmar una reforma legal de esa fecha ni equiparar incompatibilidad electoral y firmeza penal.

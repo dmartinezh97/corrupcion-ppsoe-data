@@ -9,28 +9,22 @@ estadoPrincipal: En investigación
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: desconocido
-descripcion: 'El caso Zahorras se refiere a presuntas irregularidades en la contratación, ejecución y certificación
-  de obras de caminos rurales del programa Habitania de 2012 en Villarrobledo. Las informaciones municipales señalan
-  como afectados a Simón Valentín Bueno Vargas, conocido como Valentín Bueno, alcalde durante aquellas obras, y
-  a Amalia Gutiérrez Serrano, entonces primera teniente de alcalde. El equipo de gobierno posterior cuestionó la
-  existencia de material adquirido que seguía almacenado en una cantera y de trabajos certificados que, según la
-  peritación citada por esa parte, no se habían ejecutado.
+descripcion: |-
+  El caso Zahorras se refiere a presuntas irregularidades en la contratación, ejecución y certificación de obras de caminos rurales del programa Habitania de 2012 en Villarrobledo. Las informaciones municipales señalan como afectados a Simón Valentín Bueno Vargas, conocido como Valentín Bueno, alcalde durante aquellas obras, y a Amalia Gutiérrez Serrano, entonces primera teniente de alcalde. El equipo de gobierno posterior cuestionó la existencia de material adquirido que seguía almacenado en una cantera y de trabajos certificados que, según la peritación citada por esa parte, no se habían ejecutado.
 
+  En julio de 2016 el Ayuntamiento informó de la admisión de una querella y de la investigación de Amalia Gutiérrez por el Juzgado de Instrucción 2 de Villarrobledo. Tras un sobreseimiento provisional, en septiembre de 2018 la institución municipal y la prensa comunicaron que la Audiencia Provincial de Albacete había ordenado continuar investigando. Las noticias de marzo de 2019 anunciaron una citación de Bueno como investigado; en abril se difundió un aplazamiento. No se ha verificado la efectiva celebración de la declaración ni la resolución que regía aquellas citaciones.
 
-  En julio de 2016 el Ayuntamiento informó de la admisión de una querella y de la investigación de Amalia Gutiérrez
-  por el Juzgado de Instrucción 2 de Villarrobledo. Tras un sobreseimiento provisional, en septiembre de 2018 la
-  institución municipal y la prensa comunicaron que la Audiencia Provincial de Albacete había ordenado continuar
-  investigando. Las noticias de marzo de 2019 anunciaron una citación de Bueno como investigado; en abril se difundió
-  un aplazamiento. No se ha verificado la efectiva celebración de la declaración ni la resolución que regía aquellas
-  citaciones.
+  Al corte del 15 de octubre de 2026 no se han recuperado resoluciones judiciales originales que permitan precisar la situación individual posterior, una eventual acusación, juicio, archivo, absolución o condena, sus recursos o firmeza. Las noticias consultadas se apoyan principalmente en declaraciones del gobierno municipal o del PSOE, partes interesadas en el asunto. Los 114.754 euros corresponden a una valoración pericial difundida por esa parte, no a un daño declarado judicialmente verificado; tampoco el presupuesto de unos 430.000 euros equivale por sí mismo a dinero defraudado.
 
+  Las obras cuestionadas se vinculan al programa Habitania de 2012 y al arreglo de unos 25 kilómetros de caminos. Las comunicaciones posteriores discuten la contratación de zahorras, su almacenamiento en una cantera, la disponibilidad de maquinaria y la correspondencia entre certificaciones y trabajos realizados. Son alegaciones que motivaron actuaciones judiciales, no hechos que aquí puedan darse por probados en una sentencia.
 
-  Al corte del 15 de octubre de 2026 no se han recuperado resoluciones judiciales originales que permitan precisar
-  la situación individual posterior, una eventual acusación, juicio, archivo, absolución o condena, sus recursos
-  o firmeza. Las noticias consultadas se apoyan principalmente en declaraciones del gobierno municipal o del PSOE,
-  partes interesadas en el asunto. Los 114.754 euros corresponden a una valoración pericial difundida por esa parte,
-  no a un daño declarado judicialmente verificado; tampoco el presupuesto de unos 430.000 euros equivale por sí
-  mismo a dinero defraudado.'
+  La [nota municipal de julio de 2016](https://www.villarrobledo.com/noticia.php?id=956) sitúa la presentación de una querella el 24 de junio de ese año y anuncia su admisión y una citación de Amalia Gutiérrez. La información de 2018 alude también a denuncias anteriores; no se ha cotejado el primer escrito o el auto de incoación y por eso no se fija un día de inicio. El archivo provisional y la reapertura comunicada en septiembre de 2018 son hitos distintos: la orden de seguir investigando no es una condena ni permite presumir una acusación para juicio.
+
+  Las noticias de marzo de 2019 atribuyen al PSOE un señalamiento de declaración de Bueno para el 25 de abril. La publicación de 16 de abril habla, en cambio, de una comparecencia que habría estado prevista para ese mismo martes y de su aplazamiento. Sin las resoluciones originales no se puede reconstruir con seguridad la secuencia de citaciones o afirmar que compareció en una fecha determinada. La ficha del [Senado](https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17565&legis=12) acredita su nombre completo y su mandato de la XII Legislatura, terminado el 4 de marzo de 2019; no se utiliza una candidatura electoral para deducir aforamiento o competencia judicial.
+
+  Las cantidades tampoco deben confundirse. El presupuesto de unos 430.000 euros corresponde a la obra; los 114.754 euros son la valoración de trabajos supuestamente certificados, pagados y no ejecutados difundida por el PSOE, que atribuye la cifra a un informe pericial no recuperado. Las fuentes hablan de 5.400, 5.500 o más de 5.000 toneladas almacenadas y la nota de noviembre de 2018 emplea otra cifra redondeada para la obra presuntamente no ejecutada. Se evita presentar estas aproximaciones como una medición única o una pérdida judicialmente fijada. Tampoco se añaden al presupuesto las cuantías de suministros o reclamaciones.
+
+  No se ha verificado un desenlace posterior para ninguna de las dos personas. La ausencia de noticias de 2025 y 2026 no demuestra que la causa continúe abierta, que haya sido archivada o que exista una absolución o condena. Faltan las resoluciones de admisión, archivo y reapertura, las citaciones y el informe pericial, así como cualquier decisión posterior y su régimen de recursos. La [ficha municipal de Amalia Gutiérrez Serrano](https://www.villarrobledo.com/persona.php?id=66) sirve para identificar su nombre y cargo histórico, sin acreditar el estado de la causa.
 resumen: Investigación sobre obras de caminos del programa Habitania en Villarrobledo, con reapertura comunicada
   en 2018 y citaciones anunciadas en 2019; desenlace y situación individual posterior sin verificar.
 lugar: Villarrobledo, Albacete, Castilla-La Mancha
@@ -104,13 +98,3 @@ cronologia:
     urls:
       - https://cadenaser.com/emisora/2019/04/16/radio_azul/1555410268_448983.html
 ---
-
-Las obras cuestionadas se vinculan al programa Habitania de 2012 y al arreglo de unos 25 kilómetros de caminos. Las comunicaciones posteriores discuten la contratación de zahorras, su almacenamiento en una cantera, la disponibilidad de maquinaria y la correspondencia entre certificaciones y trabajos realizados. Son alegaciones que motivaron actuaciones judiciales, no hechos que aquí puedan darse por probados en una sentencia.
-
-La [nota municipal de julio de 2016](https://www.villarrobledo.com/noticia.php?id=956) sitúa la presentación de una querella el 24 de junio de ese año y anuncia su admisión y una citación de Amalia Gutiérrez. La información de 2018 alude también a denuncias anteriores; no se ha cotejado el primer escrito o el auto de incoación y por eso no se fija un día de inicio. El archivo provisional y la reapertura comunicada en septiembre de 2018 son hitos distintos: la orden de seguir investigando no es una condena ni permite presumir una acusación para juicio.
-
-Las noticias de marzo de 2019 atribuyen al PSOE un señalamiento de declaración de Bueno para el 25 de abril. La publicación de 16 de abril habla, en cambio, de una comparecencia que habría estado prevista para ese mismo martes y de su aplazamiento. Sin las resoluciones originales no se puede reconstruir con seguridad la secuencia de citaciones o afirmar que compareció en una fecha determinada. La ficha del [Senado](https://www.senado.es/web/composicionorganizacion/senadores/composicionsenado/fichasenador/index.html?id1=17565&legis=12) acredita su nombre completo y su mandato de la XII Legislatura, terminado el 4 de marzo de 2019; no se utiliza una candidatura electoral para deducir aforamiento o competencia judicial.
-
-Las cantidades tampoco deben confundirse. El presupuesto de unos 430.000 euros corresponde a la obra; los 114.754 euros son la valoración de trabajos supuestamente certificados, pagados y no ejecutados difundida por el PSOE, que atribuye la cifra a un informe pericial no recuperado. Las fuentes hablan de 5.400, 5.500 o más de 5.000 toneladas almacenadas y la nota de noviembre de 2018 emplea otra cifra redondeada para la obra presuntamente no ejecutada. Se evita presentar estas aproximaciones como una medición única o una pérdida judicialmente fijada. Tampoco se añaden al presupuesto las cuantías de suministros o reclamaciones.
-
-No se ha verificado un desenlace posterior para ninguna de las dos personas. La ausencia de noticias de 2025 y 2026 no demuestra que la causa continúe abierta, que haya sido archivada o que exista una absolución o condena. Faltan las resoluciones de admisión, archivo y reapertura, las citaciones y el informe pericial, así como cualquier decisión posterior y su régimen de recursos. La [ficha municipal de Amalia Gutiérrez Serrano](https://www.villarrobledo.com/persona.php?id=66) sirve para identificar su nombre y cargo histórico, sin acreditar el estado de la causa.

@@ -9,37 +9,24 @@ estadoPrincipal: En investigación
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: En instrucción según información de 2026
-descripcion: 'La pieza 11 de Púnica investiga presuntas irregularidades en la promoción de cooperativas de profesores
-  y colegios concertados mediante Alfedel. El auto de 2 de septiembre de 2019 del Juzgado Central de Instrucción nº 6
-  acuerda formar esta pieza y seguir actuaciones respecto de trece personas. No es un auto de apertura de juicio oral
-  ni una sentencia, y no corresponde al procesamiento por suelo público y Arpegio de la pieza 8.
+descripcion: |-
+  La pieza 11 de Púnica investiga presuntas irregularidades en la promoción de cooperativas de profesores y colegios concertados mediante Alfedel. El auto de 2 de septiembre de 2019 del Juzgado Central de Instrucción nº 6 acuerda formar esta pieza y seguir actuaciones respecto de trece personas. No es un auto de apertura de juicio oral ni una sentencia, y no corresponde al procesamiento por suelo público y Arpegio de la pieza 8.
 
+  Según las hipótesis del auto, Alfonso Ferrón del Río, administrador y socio único de Alfedel, habría utilizado los poderes de los cooperativistas para cargar facturas simuladas de empresas relacionadas con David Marjaliza, José Luis Capita y José Antonio Alonso. La investigación relaciona esos pagos con intermediaciones, posibles sobornos y adjudicaciones de suelo favorecidas por cargos públicos, entre ellos Francisco Granados. Se trata de atribuciones de la instrucción, no de culpabilidad declarada en esta pieza. El auto examina operaciones anteriores a 2003, por lo que no se fija ese año como inicio exacto de la actividad.
 
-  Según las hipótesis del auto, Alfonso Ferrón del Río, administrador y socio único de Alfedel, habría utilizado los
-  poderes de los cooperativistas para cargar facturas simuladas de empresas relacionadas con David Marjaliza, José Luis
-  Capita y José Antonio Alonso. La investigación relaciona esos pagos con intermediaciones, posibles sobornos y adjudicaciones
-  de suelo favorecidas por cargos públicos, entre ellos Francisco Granados. Se trata de atribuciones de la instrucción,
-  no de culpabilidad declarada en esta pieza. El auto examina operaciones anteriores a 2003, por lo que no se fija ese
-  año como inicio exacto de la actividad.
+  El auto estimaba provisionalmente un perjuicio de unos 15 millones de euros para cooperativistas, pendiente de comprobación por los peritos judiciales. Esa hipótesis no equivale a daño público probado ni debe confundirse con el valor de las obras, los ingresos de las empresas o las comisiones atribuidas a personas concretas. No hay base verificada para mantener un coste global de tres millones de euros.
 
+  La noticia sobre Avalmadrid fue publicada el 30 de agosto de 2019, no en 2016. Describe pagos de Alfedel en devolución de un préstamo; no acredita por sí sola que sus condiciones fueran ilícitas ni un nuevo procedimiento penal contra la entidad. Los litigios civiles sobre financiación bancaria o defectos constructivos de colegios tampoco resuelven la investigación penal de Alfedel.
 
-  El auto estimaba provisionalmente un perjuicio de unos 15 millones de euros para cooperativistas, pendiente de comprobación
-  por los peritos judiciales. Esa hipótesis no equivale a daño público probado ni debe confundirse con el valor de las
-  obras, los ingresos de las empresas o las comisiones atribuidas a personas concretas. No hay base verificada para mantener
-  un coste global de tres millones de euros.
+  Una información de Público publicada el 12 de julio de 2026 y actualizada el 26 de agosto mantiene Alfedel entre las piezas en instrucción. No se ha obtenido una resolución judicial reciente que permita confirmar el alcance actual de esa investigación y el estado individual de los trece investigados hasta el 15 de octubre de 2026. Tampoco se documentan aquí una apertura de juicio, sentencia o firmeza en esta pieza. Las condenas, absoluciones o archivos de otras piezas de Púnica no se trasladan a Alfedel.
 
+  El [auto de 2 de septiembre de 2019](https://www.rtve.es/contenidos/documentos/auto-punica-pieza11.PDF) delimita la pieza 11 dentro de las diligencias previas 85/2014. Su dispositivo incorpora actuaciones previamente reunidas en otras partes de la causa y acuerda continuar investigando; no debe sustituirse por resoluciones de Arpegio, financiación del PP, Cofely o reputación digital. La referencia aislada a la pieza 9 en la motivación no altera la denominación pieza 11 que consta en cabecera y dispositivo.
 
-  La noticia sobre Avalmadrid fue publicada el 30 de agosto de 2019, no en 2016. Describe pagos de Alfedel en devolución
-  de un préstamo; no acredita por sí sola que sus condiciones fueran ilícitas ni un nuevo procedimiento penal contra
-  la entidad. Los litigios civiles sobre financiación bancaria o defectos constructivos de colegios tampoco resuelven
-  la investigación penal de Alfedel.
+  La estimación de unos 15 millones de euros aparece en la página 7 expresamente pendiente de comprobación pericial. No se suma a ingresos de Alfedel, costes de construcción o comisiones. La resolución investiga una posible afectación al patrimonio de cooperativistas y operaciones municipales; no contiene un fallo condenatorio de responsabilidad civil por aquel importe.
 
+  Además de Ferrón, Granados, Marjaliza, Capita y Alonso, el listado de investigados del auto comprende a Alberto Sanjurjo Álvarez, Ana Laguía Huedo, Antonio Martín Jiménez, Javier Aldavert Piñol, Juan Luis Aguilera García, José Luis Navarro Soto, José Miguel Moreno Torres y Mario Utrilla Palombi. Es una relación de septiembre de 2019: no acredita que todos conserven esa condición en 2026. Las sociedades enumeradas son Struere Proyectos Urbanos, Valparaíso Técnicas de Promoción y Construcción, Servicios Logísticos Inmobiliarios, Alfedel, Obrum Urbanismo y Construcciones y Ferrón Laguía. La llamada al procedimiento no equivale a indemnizaciones judicialmente fijadas.
 
-  Una información de Público publicada el 12 de julio de 2026 y actualizada el 26 de agosto mantiene Alfedel entre las
-  piezas en instrucción. No se ha obtenido una resolución judicial reciente que permita confirmar el alcance actual de
-  esa investigación y el estado individual de los trece investigados hasta el 15 de octubre de 2026. Tampoco se documentan
-  aquí una apertura de juicio, sentencia o firmeza en esta pieza. Las condenas, absoluciones o archivos de otras piezas
-  de Púnica no se trasladan a Alfedel.'
+  La [noticia de Avalmadrid](https://www.vozpopuli.com/espana/politica/avalmadrid-concedio-concertados-investigada-punica_0_1277273009.html) acredita una información sobre financiación, no una declaración judicial de trato ilícito. La [información de Público de 2026](https://www.publico.es/politica/tribunales/datos-prueban-escandalos-corrupcion-afectan-pp-dilatan-anos-tribunales.html) aporta una referencia posterior al estado general de la pieza, pero faltan las resoluciones recientes y los desenlaces individuales. No se infiere apertura de juicio, condena, archivo o firmeza por lo sucedido en otras piezas o por la ausencia de noticias.
 resumen: Investigación de la pieza 11 de Púnica sobre Alfedel, cooperativas docentes y adjudicaciones de suelo para colegios
   concertados; sin desenlace individual actualizado acreditado.
 lugar: Comunidad de Madrid y otras operaciones de colegios examinadas en la pieza 11 de Púnica
@@ -128,11 +115,3 @@ cronologia:
   - https://www.publico.es/politica/tribunales/datos-prueban-escandalos-corrupcion-afectan-pp-dilatan-anos-tribunales.html
   type: resumen
 ---
-
-El [auto de 2 de septiembre de 2019](https://www.rtve.es/contenidos/documentos/auto-punica-pieza11.PDF) delimita la pieza 11 dentro de las diligencias previas 85/2014. Su dispositivo incorpora actuaciones previamente reunidas en otras partes de la causa y acuerda continuar investigando; no debe sustituirse por resoluciones de Arpegio, financiación del PP, Cofely o reputación digital. La referencia aislada a la pieza 9 en la motivación no altera la denominación pieza 11 que consta en cabecera y dispositivo.
-
-La estimación de unos 15 millones de euros aparece en la página 7 expresamente pendiente de comprobación pericial. No se suma a ingresos de Alfedel, costes de construcción o comisiones. La resolución investiga una posible afectación al patrimonio de cooperativistas y operaciones municipales; no contiene un fallo condenatorio de responsabilidad civil por aquel importe.
-
-Además de Ferrón, Granados, Marjaliza, Capita y Alonso, el listado de investigados del auto comprende a Alberto Sanjurjo Álvarez, Ana Laguía Huedo, Antonio Martín Jiménez, Javier Aldavert Piñol, Juan Luis Aguilera García, José Luis Navarro Soto, José Miguel Moreno Torres y Mario Utrilla Palombi. Es una relación de septiembre de 2019: no acredita que todos conserven esa condición en 2026. Las sociedades enumeradas son Struere Proyectos Urbanos, Valparaíso Técnicas de Promoción y Construcción, Servicios Logísticos Inmobiliarios, Alfedel, Obrum Urbanismo y Construcciones y Ferrón Laguía. La llamada al procedimiento no equivale a indemnizaciones judicialmente fijadas.
-
-La [noticia de Avalmadrid](https://www.vozpopuli.com/espana/politica/avalmadrid-concedio-concertados-investigada-punica_0_1277273009.html) acredita una información sobre financiación, no una declaración judicial de trato ilícito. La [información de Público de 2026](https://www.publico.es/politica/tribunales/datos-prueban-escandalos-corrupcion-afectan-pp-dilatan-anos-tribunales.html) aporta una referencia posterior al estado general de la pieza, pero faltan las resoluciones recientes y los desenlaces individuales. No se infiere apertura de juicio, condena, archivo o firmeza por lo sucedido en otras piezas o por la ausencia de noticias.

@@ -8,29 +8,20 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: absueltos
-descripcion: 'Esta ficha se refiere a los patrocinios deportivos de Aerocas, empresa pública gestora del aeropuerto
-  de Castellón, a Álex Debón y su empresa. La acusación sostuvo que, como contrapartida a los 3.653.000 euros recibidos
-  por patrocinios entre 2009 y 2014, Debón transfirió 360.000 euros a Carlos Fabra, entonces presidente del consejo
-  de administración. Los acusados defendieron que las transferencias eran un préstamo personal. El importe contractual
-  y el dinero discutido no son un daño judicialmente acreditado ni deben sumarse a los costes de construcción del
-  aeropuerto.
+descripcion: |-
+  Esta ficha se refiere a los patrocinios deportivos de Aerocas, empresa pública gestora del aeropuerto de Castellón, a Álex Debón y su empresa. La acusación sostuvo que, como contrapartida a los 3.653.000 euros recibidos por patrocinios entre 2009 y 2014, Debón transfirió 360.000 euros a Carlos Fabra, entonces presidente del consejo de administración. Los acusados defendieron que las transferencias eran un préstamo personal. El importe contractual y el dinero discutido no son un daño judicialmente acreditado ni deben sumarse a los costes de construcción del aeropuerto.
 
+  El 22 de mayo de 2025 el jurado declaró no culpables de cohecho a Fabra y Debón por siete votos a dos y el magistrado dictó su absolución de viva voz, según EFE, que citó al Tribunal Superior de Justicia valenciano. El 2 de julio de 2025 Cadena SER informó de que el magistrado había declarado firme la absolución y ordenado el archivo y el levantamiento de posibles embargos. No se ha recuperado el original de la sentencia ni del auto de firmeza, ni la fecha exacta de este último: la firmeza se atribuye a esa noticia, no a una resolución original comprobada. Tampoco se extiende el resultado a otras causas de Fabra.
 
-  El 22 de mayo de 2025 el jurado declaró no culpables de cohecho a Fabra y Debón por siete votos a dos y el magistrado
-  dictó su absolución de viva voz, según EFE, que citó al Tribunal Superior de Justicia valenciano. El 2 de julio
-  de 2025 Cadena SER informó de que el magistrado había declarado firme la absolución y ordenado el archivo y el
-  levantamiento de posibles embargos. No se ha recuperado el original de la sentencia ni del auto de firmeza, ni
-  la fecha exacta de este último: la firmeza se atribuye a esa noticia, no a una resolución original comprobada.
-  Tampoco se extiende el resultado a otras causas de Fabra.
+  Antes del juicio, el CGPJ publicó el 2 de septiembre de 2022 que la instructora había sobreseído provisionalmente las diligencias por prevaricación y malversación respecto de Fabra, el exdirector general y once antiguos consejeros de Aerocas, mientras continuaba por cohecho contra Fabra y Debón. La nota no identifica nominalmente a todos los afectados; también recoge la extinción por fallecimiento para otro exconsejero. No se han verificado el auto original, su fecha exacta, el desglose nominal completo ni eventuales recursos contra ese sobreseimiento. Hasta el 17 de octubre de 2026 no se ha localizado un pronunciamiento posterior propio que permita completar esas lagunas. La ausencia de noticias no acredita que una investigación permanezca abierta.
 
+  El objeto de esta causa son los patrocinios a Álex Debón y la naturaleza de sus transferencias a Carlos Fabra. La [nota oficial de septiembre de 2022](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-juez-del--caso-Aerocas--abre-causa-con-jurado-contra-el-expresidente-de-la-Diputacion-de-Castellon-y-un-expiloto-de-motos-por-un-presunto-delito-de-cohecho-) distingue el sobreseimiento provisional por prevaricación y malversación de la continuación por cohecho. La [absolución de mayo de 2025](https://www.eldiario.es/comunitat-valenciana/carlos-fabra-alex-debon-declarados-no-culpables-cohecho-caso-patrocinio-aeropuerto-castellon_1_12322272.html) resuelve esta última acusación; la [firmeza publicada por SER](https://cadenaser.com/comunitat-valenciana/2025/07/02/el-juez-hace-firme-la-sentencia-que-absuelve-a-carlos-fabra-y-alex-debon-de-cohecho-en-el-caso-aerocas-radio-castellon/) no se presenta con un día de auto no verificado.
 
-  Antes del juicio, el CGPJ publicó el 2 de septiembre de 2022 que la instructora había sobreseído provisionalmente
-  las diligencias por prevaricación y malversación respecto de Fabra, el exdirector general y once antiguos consejeros
-  de Aerocas, mientras continuaba por cohecho contra Fabra y Debón. La nota no identifica nominalmente a todos los
-  afectados; también recoge la extinción por fallecimiento para otro exconsejero. No se han verificado el auto original,
-  su fecha exacta, el desglose nominal completo ni eventuales recursos contra ese sobreseimiento. Hasta el 17 de
-  octubre de 2026 no se ha localizado un pronunciamiento posterior propio que permita completar esas lagunas. La
-  ausencia de noticias no acredita que una investigación permanezca abierta.'
+  Los 3.653.000 euros de patrocinios, los 360.000 euros discutidos y las multas pedidas por la Fiscalía son conceptos distintos. Ninguno se utiliza aquí como cifra de perjuicio probado. Tampoco se añaden costes de construcción o pérdidas de la infraestructura, ajenos al resultado penal de este procedimiento.
+
+  La condena de Fabra por fraude fiscal en Naranjax es un procedimiento diferente. Su cumplimiento penitenciario, las causas sobre su patrimonio o el campo de golf de Borriol no determinan el resultado de Aerocas. Los antiguos consejeros identificados en [enero de 2019](https://mediterraneopress.com/2019/01/22/gerardo-camps-rambla-y-monzo-y-8-personas-mas-investigados-por-los-patrocinios-de-aerocas/) no figuran entre los acusados de cohecho en el juicio de 2025: según las fuentes citadas, solo Fabra y Debón llegaron a ese juicio. Falta el auto nominal para precisar completamente los archivos individuales y sus recursos.
+
+  No se dispone de los originales judiciales de las decisiones de esta causa. La sentencia y el auto de firmeza permanecen pendientes, aunque su resultado se documenta en las noticias citadas.
 resumen: Fabra y Debón fueron absueltos de cohecho por los patrocinios de Aerocas en mayo de 2025; SER informó de
   su firmeza en julio.
 lugar: Castellón, Comunitat Valenciana
@@ -144,11 +135,3 @@ cronologia:
   urls:
   - https://cadenaser.com/comunitat-valenciana/2025/07/02/el-juez-hace-firme-la-sentencia-que-absuelve-a-carlos-fabra-y-alex-debon-de-cohecho-en-el-caso-aerocas-radio-castellon/
 ---
-
-El objeto de esta causa son los patrocinios a Álex Debón y la naturaleza de sus transferencias a Carlos Fabra. La [nota oficial de septiembre de 2022](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-juez-del--caso-Aerocas--abre-causa-con-jurado-contra-el-expresidente-de-la-Diputacion-de-Castellon-y-un-expiloto-de-motos-por-un-presunto-delito-de-cohecho-) distingue el sobreseimiento provisional por prevaricación y malversación de la continuación por cohecho. La [absolución de mayo de 2025](https://www.eldiario.es/comunitat-valenciana/carlos-fabra-alex-debon-declarados-no-culpables-cohecho-caso-patrocinio-aeropuerto-castellon_1_12322272.html) resuelve esta última acusación; la [firmeza publicada por SER](https://cadenaser.com/comunitat-valenciana/2025/07/02/el-juez-hace-firme-la-sentencia-que-absuelve-a-carlos-fabra-y-alex-debon-de-cohecho-en-el-caso-aerocas-radio-castellon/) no se presenta con un día de auto no verificado.
-
-Los 3.653.000 euros de patrocinios, los 360.000 euros discutidos y las multas pedidas por la Fiscalía son conceptos distintos. Ninguno se utiliza aquí como cifra de perjuicio probado. Tampoco se añaden costes de construcción o pérdidas de la infraestructura, ajenos al resultado penal de este procedimiento.
-
-La condena de Fabra por fraude fiscal en Naranjax es un procedimiento diferente. Su cumplimiento penitenciario, las causas sobre su patrimonio o el campo de golf de Borriol no determinan el resultado de Aerocas. Los antiguos consejeros identificados en [enero de 2019](https://mediterraneopress.com/2019/01/22/gerardo-camps-rambla-y-monzo-y-8-personas-mas-investigados-por-los-patrocinios-de-aerocas/) no figuran entre los acusados de cohecho en el juicio de 2025: según las fuentes citadas, solo Fabra y Debón llegaron a ese juicio. Falta el auto nominal para precisar completamente los archivos individuales y sus recursos.
-
-No se dispone de los originales judiciales de las decisiones de esta causa. La sentencia y el auto de firmeza permanecen pendientes, aunque su resultado se documenta en las noticias citadas.

@@ -9,20 +9,20 @@ estadoPrincipal: En juicio
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: desconocido
-descripcion: 'Pieza separada de los ERE de Andalucía sobre las ayudas de 1.531.300 euros destinadas a financiar
-  indemnizaciones mediante seguros de rentas para el restaurante Río Grande de Sevilla en 2005. La acusación atribuye
-  irregularidades en la concesión, intermediación y cobro de las pólizas, incluida la de Carmen Fontela, que no
-  había trabajado en el restaurante. Son imputaciones sometidas a juicio, no hechos establecidos por una condena
-  de esta pieza.
+descripcion: |-
+  Pieza separada de los ERE de Andalucía sobre las ayudas de 1.531.300 euros destinadas a financiar indemnizaciones mediante seguros de rentas para el restaurante Río Grande de Sevilla en 2005. La acusación atribuye irregularidades en la concesión, intermediación y cobro de las pólizas, incluida la de Carmen Fontela, que no había trabajado en el restaurante. Son imputaciones sometidas a juicio, no hechos establecidos por una condena de esta pieza.
 
+  El juicio comenzó el 12 de junio de 2025 contra ocho personas. Según la información publicada el 20 de noviembre de 2025, un auto de 12 de noviembre ordenó celebrarlo de nuevo desde el principio tras las suspensiones, con sesiones señaladas entre septiembre y octubre de 2026. Una crónica publicada el 2 de octubre de 2026 confirma nuevas declaraciones: Fontela negó haber percibido los 155.000 euros atribuidos y peritos de la defensa discutieron la necesidad económica del ERE y la documentación de las pólizas. No se ha verificado el desenlace, una sentencia ni su eventual firmeza al 17 de octubre de 2026, ni se dispone de los autos originales de apertura y repetición. Las penas y restituciones recogidas son peticiones de la Fiscalía; los resultados de otras piezas de los ERE no se trasladan a esta.
 
-  El juicio comenzó el 12 de junio de 2025 contra ocho personas. Según la información publicada el 20 de noviembre
-  de 2025, un auto de 12 de noviembre ordenó celebrarlo de nuevo desde el principio tras las suspensiones, con sesiones
-  señaladas entre septiembre y octubre de 2026. Una crónica publicada el 2 de octubre de 2026 confirma nuevas declaraciones:
-  Fontela negó haber percibido los 155.000 euros atribuidos y peritos de la defensa discutieron la necesidad económica
-  del ERE y la documentación de las pólizas. No se ha verificado el desenlace, una sentencia ni su eventual firmeza
-  al 17 de octubre de 2026, ni se dispone de los autos originales de apertura y repetición. Las penas y restituciones
-  recogidas son peticiones de la Fiscalía; los resultados de otras piezas de los ERE no se trasladan a esta.'
+  La pieza se refiere al ERE promovido en 2005 por Río Grande y a su financiación mediante seguros de rentas. Las informaciones sobre el auto de procedimiento abreviado atribuyen al instructor la tesis de que las ayudas se concedieron al margen del procedimiento y mediante pagos cruzados. También describen la intervención presunta de Atrado, Vitalia y un despacho de abogados. La Fiscalía sostiene que se incluyó a Fontela pese a no haber trabajado para el restaurante. Estas atribuciones no sustituyen la valoración del tribunal.
+
+  El debate económico sigue siendo relevante: mientras la instrucción destacaba los beneficios contables de 2004, la crónica del nuevo juicio de octubre de 2026 recoge peritos de la defensa que alegaron pérdidas operativas y necesidades de reestructuración, además de cuestionar firmas y modificaciones documentales. Fontela negó el cobro que se le atribuye. La trabajadora contratada poco antes de cumplir 65 años mencionada en las noticias de la instrucción no se identifica aquí con Fontela: la fuente las describe por separado.
+
+  Las ayudas de 1.531.300 euros, la restitución reclamada de 1.531.299,51 euros, la responsabilidad civil solidaria solicitada para Fontela y los comisos pretendidos tienen naturaleza distinta. No se agregan ni se presentan como daño declarado. Tampoco las fianzas de la apertura de juicio oral constituyen penas o perjuicio probado.
+
+  La apertura de 2021 comprendía nueve personas; en mayo de 2025 Europa Press indicaba que Bordallo había sido excluido. Falta la resolución para precisar el motivo y alcance de esa exclusión. Guerrero aparece como antecedente histórico y fallecido, no como acusado presente en la vista. La comparecencia de Márquez en octubre de 2026 fue como testigo. Las condenas de Albarracín u otros participantes en diferentes piezas y los pronunciamientos constitucionales sobre la pieza política de los ERE no resuelven automáticamente esta causa.
+
+  El juicio de junio de 2025 fue seguido de suspensiones y, según Diario de Sevilla, de la orden de repetirlo en noviembre. La información de octubre de 2026 acredita actividad de la nueva vista, pero no permite afirmar su conclusión, el resultado individual, posibles recursos ni firmeza. Permanecen pendientes los autos originales y el eventual desenlace posterior a las declaraciones conocidas.
 resumen: Ayudas al ERE del restaurante Río Grande; juicio repetido y desenlace no verificado
 lugar: Sevilla, Andalucía
 tribunal:
@@ -148,13 +148,3 @@ cronologia:
     type: declaracion
     relevancia: alta
 ---
-
-La pieza se refiere al ERE promovido en 2005 por Río Grande y a su financiación mediante seguros de rentas. Las informaciones sobre el auto de procedimiento abreviado atribuyen al instructor la tesis de que las ayudas se concedieron al margen del procedimiento y mediante pagos cruzados. También describen la intervención presunta de Atrado, Vitalia y un despacho de abogados. La Fiscalía sostiene que se incluyó a Fontela pese a no haber trabajado para el restaurante. Estas atribuciones no sustituyen la valoración del tribunal.
-
-El debate económico sigue siendo relevante: mientras la instrucción destacaba los beneficios contables de 2004, la crónica del nuevo juicio de octubre de 2026 recoge peritos de la defensa que alegaron pérdidas operativas y necesidades de reestructuración, además de cuestionar firmas y modificaciones documentales. Fontela negó el cobro que se le atribuye. La trabajadora contratada poco antes de cumplir 65 años mencionada en las noticias de la instrucción no se identifica aquí con Fontela: la fuente las describe por separado.
-
-Las ayudas de 1.531.300 euros, la restitución reclamada de 1.531.299,51 euros, la responsabilidad civil solidaria solicitada para Fontela y los comisos pretendidos tienen naturaleza distinta. No se agregan ni se presentan como daño declarado. Tampoco las fianzas de la apertura de juicio oral constituyen penas o perjuicio probado.
-
-La apertura de 2021 comprendía nueve personas; en mayo de 2025 Europa Press indicaba que Bordallo había sido excluido. Falta la resolución para precisar el motivo y alcance de esa exclusión. Guerrero aparece como antecedente histórico y fallecido, no como acusado presente en la vista. La comparecencia de Márquez en octubre de 2026 fue como testigo. Las condenas de Albarracín u otros participantes en diferentes piezas y los pronunciamientos constitucionales sobre la pieza política de los ERE no resuelven automáticamente esta causa.
-
-El juicio de junio de 2025 fue seguido de suspensiones y, según Diario de Sevilla, de la orden de repetirlo en noviembre. La información de octubre de 2026 acredita actividad de la nueva vista, pero no permite afirmar su conclusión, el resultado individual, posibles recursos ni firmeza. Permanecen pendientes los autos originales y el eventual desenlace posterior a las declaraciones conocidas.

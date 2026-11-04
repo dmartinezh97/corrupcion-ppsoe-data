@@ -7,13 +7,18 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas firmes; ejecución pendiente de documentar
-descripcion: Causa por cohecho y prevaricación en operaciones urbanísticas de Arroyo de la Encomienda vinculadas
-  al grupo Mahía. La Audiencia de Valladolid condenó a José Manuel Méndez Freijo, Ramón López Casal y Buenaventura
-  Conde Salazar el 22 de noviembre de 2013. El Supremo desestimó los recursos el 28 de octubre de 2014; la nota
-  oficial de 26 de noviembre calificó la sentencia de firme. La condena por cohecho del exalcalde corresponde a
-  la vivienda recibida, mientras que el cargo por la entrega de 30 millones de pesetas terminó en absolución por
-  prescripción. No se presenta la investigación posterior por posible blanqueo como una nueva condena ni se da por
-  extinguida la ejecución de las penas.
+descripcion: |-
+  Causa por cohecho y prevaricación en operaciones urbanísticas de Arroyo de la Encomienda vinculadas al grupo Mahía. La Audiencia de Valladolid condenó a José Manuel Méndez Freijo, Ramón López Casal y Buenaventura Conde Salazar el 22 de noviembre de 2013. El Supremo desestimó los recursos el 28 de octubre de 2014; la nota oficial de 26 de noviembre calificó la sentencia de firme. La condena por cohecho del exalcalde corresponde a la vivienda recibida, mientras que el cargo por la entrega de 30 millones de pesetas terminó en absolución por prescripción. No se presenta la investigación posterior por posible blanqueo como una nueva condena ni se da por extinguida la ejecución de las penas.
+
+  El fallo de instancia diferencia las dádivas: la vivienda de Vilagarcía de Arousa sustenta la condena por cohecho y su decomiso; la entrega de treinta millones de pesetas fue objeto de absolución por prescripción. También se absolvieron otros cargos, incluida malversación.
+
+  Las dos penas de ocho años de inhabilitación del exalcalde se consignan por separado, sin deducir su forma de cumplimiento. La multa y el valor del inmueble decomisado no son una cuantificación del daño municipal. No se calcula un coste sumando pagos, sanciones y bienes.
+
+  La crónica de 2018 sitúa el comienzo de su alcaldía en 2003 y la creación de Independientes por Arroyo en 2007: no fue alcalde del PP durante todo el periodo 1999-2006 como decía la ficha.
+
+  La regularización fiscal y las pesquisas de blanqueo comunicadas en 2018 son un procedimiento distinto. Tampoco se trasladan a esta ficha los resultados de la causa Perla Negra por un edificio situado en el mismo municipio. La información de 2018 sitúa el tercer grado en febrero de 2016, pero no se dispone de documentación penitenciaria que permita fijar la liquidación final.
+
+  Información disponible hasta el 17 de octubre de 2026. La copia de instancia procede de un medio y contiene nombres completos; la del Supremo está alojada en el CGPJ y usa pseudónimos, de los que no se deducen identidades. Quedan pendientes el desenlace de las pesquisas de blanqueo, los documentos de ejecución y la revalidación íntegra de los antecedentes urbanísticos.
 resumen: Condenas por cohecho y prevaricación confirmadas por el Supremo en 2014, con absoluciones diferenciadas.
 lugar: Arroyo de la Encomienda, Valladolid
 tribunal:
@@ -91,13 +96,3 @@ cronologia:
   - https://www.eldiario.es/economia/exalcalde-condenado-corrupcion-regularizo-pp_1_1893526.html
   type: investigación
 ---
-
-El fallo de instancia diferencia las dádivas: la vivienda de Vilagarcía de Arousa sustenta la condena por cohecho y su decomiso; la entrega de treinta millones de pesetas fue objeto de absolución por prescripción. También se absolvieron otros cargos, incluida malversación.
-
-Las dos penas de ocho años de inhabilitación del exalcalde se consignan por separado, sin deducir su forma de cumplimiento. La multa y el valor del inmueble decomisado no son una cuantificación del daño municipal. No se calcula un coste sumando pagos, sanciones y bienes.
-
-La crónica de 2018 sitúa el comienzo de su alcaldía en 2003 y la creación de Independientes por Arroyo en 2007: no fue alcalde del PP durante todo el periodo 1999-2006 como decía la ficha.
-
-La regularización fiscal y las pesquisas de blanqueo comunicadas en 2018 son un procedimiento distinto. Tampoco se trasladan a esta ficha los resultados de la causa Perla Negra por un edificio situado en el mismo municipio. La información de 2018 sitúa el tercer grado en febrero de 2016, pero no se dispone de documentación penitenciaria que permita fijar la liquidación final.
-
-Información disponible hasta el 17 de octubre de 2026. La copia de instancia procede de un medio y contiene nombres completos; la del Supremo está alojada en el CGPJ y usa pseudónimos, de los que no se deducen identidades. Quedan pendientes el desenlace de las pesquisas de blanqueo, los documentos de ejecución y la revalidación íntegra de los antecedentes urbanísticos.

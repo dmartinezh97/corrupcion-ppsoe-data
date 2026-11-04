@@ -9,21 +9,18 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: "Condena confirmada en 2014; ejecución posterior pendiente de verificar"
-descripcion: >-
-  Ruymán García Marichal, exalcalde de Valle Gran Rey, fue condenado por prevaricación en concurso medial con
-  malversación continuada por contratar irregularmente a su hermana para una ludoteca que no prestaba servicio
-  durante el período remunerado. La sentencia de la Audiencia Provincial de Santa Cruz de Tenerife, de 7 de
-  diciembre de 2012, fue confirmada por la STS 18/2014, de 23 de enero. Las penas fueron cuatro años, seis
-  meses y un día de prisión, ocho años y un día de inhabilitación absoluta y siete años de inhabilitación
-  especial. La hermana fue absuelta del delito de tráfico de influencias.
+descripcion: |-
+  Ruymán García Marichal, exalcalde de Valle Gran Rey, fue condenado por prevaricación en concurso medial con malversación continuada por contratar irregularmente a su hermana para una ludoteca que no prestaba servicio durante el período remunerado. La sentencia de la Audiencia Provincial de Santa Cruz de Tenerife, de 7 de diciembre de 2012, fue confirmada por la STS 18/2014, de 23 de enero. Las penas fueron cuatro años, seis meses y un día de prisión, ocho años y un día de inhabilitación absoluta y siete años de inhabilitación especial. La hermana fue absuelta del delito de tráfico de influencias.
 
+  EFE informó en julio de 2014 de una orden de búsqueda y captura para ejecutar una sentencia que describía expresamente como firme. Europa Press informó del ingreso en Tenerife II el 2 de julio, conducido por agentes de la Policía Canaria. No se ha comprobado la evolución posterior de la ejecución, la petición de indulto ni el amparo. La responsabilidad civil quedó por cuantificar en ejecución; no se equiparan automáticamente los gastos del contrato a una indemnización definitiva. Información disponible hasta el 17 de octubre de 2026.
 
-  EFE informó en julio de 2014 de una orden de búsqueda y captura para ejecutar una sentencia que describía
-  expresamente como firme. Europa Press informó del ingreso en Tenerife II el 2 de julio, conducido por
-  agentes de la Policía Canaria. No se ha comprobado la evolución posterior de la ejecución, la petición de
-  indulto ni el amparo. La responsabilidad civil quedó por cuantificar en ejecución; no se equiparan
-  automáticamente los gastos del contrato a una indemnización definitiva. Información disponible hasta el 17
-  de octubre de 2026.
+  La copia editorial inicialmente consultada se ha contrastado con el [PDF oficial de la STS 18/2014](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6b9723873b78a4b8&encode=true&databasematch=AN), de siete páginas. Su texto utiliza seudónimos. La identificación nominal del exalcalde y el parentesco proceden de las noticias contrastadas, sin ampliar la identidad de la acusada a partir de esos seudónimos. Se adjunta la versión oficial verificada.
+
+  Los hechos probados reproducidos en la sentencia separan 5.700,86 euros de salario bruto y 1.711,10 euros de Seguridad Social: total 7.411,96 euros de gasto. El fallo difiere la indemnización al Ayuntamiento a la ejecución de sentencia. Los 7.412 euros redondeados no equivalen a la responsabilidad civil definitiva; gasto, indemnización y costas son conceptos distintos. La fuente judicial corrige la fecha de contratación a 14 de enero de 2008; la noticia local que la situaba en febrero no prevalece sobre el texto de la resolución.
+
+  La información de Canarias Ahora de febrero de 2014 sitúa los hechos cuando García pertenecía a Coalición Canaria y explica su posterior acceso a la alcaldía con apoyo del PSOE; Servimedia lo identifica como socialista. La clasificación de esta ficha no implica atribuir al PSOE todas las etapas del cargo.
+
+  **Límites al 17 de octubre de 2026:** faltan la sentencia de instancia separada y las resoluciones de ejecución, responsabilidad civil, indulto y amparo. La firmeza de la condena se atribuye expresamente a la información de EFE sobre el auto de ejecución, no se infiere del transcurso del tiempo. No se afirma que la pena siga cumpliéndose ni que esté extinguida.
 resumen: "Condena confirmada por contratar irregularmente a su hermana en una ludoteca; ingreso en prisión comunicado en julio de 2014 y ejecución posterior pendiente."
 lugar: "Valle Gran Rey, La Gomera, Canarias"
 tribunal:
@@ -86,11 +83,3 @@ cronologia:
     urls:
       - "https://www.europapress.es/nacional/noticia-ingresa-prision-exalcalde-valle-gran-rey-gomera-malversacion-20140703133515.html"
 ---
-
-La copia editorial inicialmente consultada se ha contrastado con el [PDF oficial de la STS 18/2014](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=6b9723873b78a4b8&encode=true&databasematch=AN), de siete páginas. Su texto utiliza seudónimos. La identificación nominal del exalcalde y el parentesco proceden de las noticias contrastadas, sin ampliar la identidad de la acusada a partir de esos seudónimos. Se adjunta la versión oficial verificada.
-
-Los hechos probados reproducidos en la sentencia separan 5.700,86 euros de salario bruto y 1.711,10 euros de Seguridad Social: total 7.411,96 euros de gasto. El fallo difiere la indemnización al Ayuntamiento a la ejecución de sentencia. Los 7.412 euros redondeados no equivalen a la responsabilidad civil definitiva; gasto, indemnización y costas son conceptos distintos. La fuente judicial corrige la fecha de contratación a 14 de enero de 2008; la noticia local que la situaba en febrero no prevalece sobre el texto de la resolución.
-
-La información de Canarias Ahora de febrero de 2014 sitúa los hechos cuando García pertenecía a Coalición Canaria y explica su posterior acceso a la alcaldía con apoyo del PSOE; Servimedia lo identifica como socialista. La clasificación de esta ficha no implica atribuir al PSOE todas las etapas del cargo.
-
-**Límites al 17 de octubre de 2026:** faltan la sentencia de instancia separada y las resoluciones de ejecución, responsabilidad civil, indulto y amparo. La firmeza de la condena se atribuye expresamente a la información de EFE sobre el auto de ejecución, no se infiere del transcurso del tiempo. No se afirma que la pena siga cumpliéndose ni que esté extinguida.

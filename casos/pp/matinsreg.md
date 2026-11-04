@@ -8,59 +8,28 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condenas firmes según información de ejecutoria; en ejecución
-descripcion: >-
-  La causa principal Matinsreg trata de la facturación falsa o inflada de servicios municipales de Jaén entre
-  el 8 de agosto de 2012 y el 15 de septiembre de 2013. Tras el abandono de la anterior prestadora, se
-  encargaron reparaciones de alumbrado, semáforos y fuentes a Matinsreg SLU. La sentencia de casación describe
-  documentos de encargo y un informe municipal sobre tramitación de emergencia, aunque no hubo contrato
-  administrativo formal y la Intervención formuló reparos. No se confunde esa ausencia de contrato con
-  ausencia de todo documento ni se atribuye culpabilidad al exalcalde José Enrique Fernández de Moya, que fue
-  absuelto.
+descripcion: |-
+  La causa principal Matinsreg trata de la facturación falsa o inflada de servicios municipales de Jaén entre el 8 de agosto de 2012 y el 15 de septiembre de 2013. Tras el abandono de la anterior prestadora, se encargaron reparaciones de alumbrado, semáforos y fuentes a Matinsreg SLU. La sentencia de casación describe documentos de encargo y un informe municipal sobre tramitación de emergencia, aunque no hubo contrato administrativo formal y la Intervención formuló reparos. No se confunde esa ausencia de contrato con ausencia de todo documento ni se atribuye culpabilidad al exalcalde José Enrique Fernández de Moya, que fue absuelto.
 
+  El esquema acreditado consistía en facturar productos, cantidades y horas que no se correspondían con la realidad. Se recogieron 48.236 horas de mano de obra, equivalentes a una plantilla mensual de entre 22 y 29 trabajadores que la empresa no tuvo, sin que ello signifique que no realizara ningún trabajo. El cloro comprado a 0,23 euros por litro se facturó a 69 euros: la relación es de 300 veces, no más de 300.
 
-  El esquema acreditado consistía en facturar productos, cantidades y horas que no se correspondían con la
-  realidad. Se recogieron 48.236 horas de mano de obra, equivalentes a una plantilla mensual de entre 22 y 29
-  trabajadores que la empresa no tuvo, sin que ello signifique que no realizara ningún trabajo. El cloro
-  comprado a 0,23 euros por litro se facturó a 69 euros: la relación es de 300 veces, no más de 300.
+  El daño y la responsabilidad civil no se reducen a los 2.759.045,74 euros citados. La STS 119/2026 recoge ese perjuicio tras descontar trabajos realmente realizados y añade 582.572,05 euros abonados a la AEAT y 123.755,11 euros a la TGSS por embargos de Matinsreg: el total coincide con la indemnización solidaria de 3.465.372,90 euros. Ese daño indemnizable es una sola obligación; no se le suman de nuevo la responsabilidad civil ni los 3.774.956,33 euros de pagos descritos en la resolución. La consignación de un millón de euros antes del juicio fue reparación parcial; no acredita por sí sola cuánto ha recuperado finalmente el Ayuntamiento. Extra Jaén informó el 30 de septiembre de 2026 de una recuperación previa de alrededor de un millón, atribuida al Ayuntamiento, y de un nuevo ingreso de 1.000 euros por González Valero el 14 de septiembre. La propia crónica advierte que la suma orientativa no es contabilidad municipal exacta. Faltan los justificantes originales; no se afirma cobro íntegro ni se resta esta recuperación al daño histórico.
 
+  La Audiencia Provincial de Jaén, Sección Tercera, dictó la sentencia 193/2021 el 28 de junio de 2021, no el 1 de julio. Condenó inicialmente a siete de los nueve acusados y absolvió al exalcalde y a otra acusada. El TSJA, en sentencia 1/2023 de 11 de enero, publicada por la prensa el día 13, absolvió también a Miguel Ángel García Anguita, al técnico municipal y a otro acusado, y modificó las penas de los empresarios. El resultado penal fue cuatro condenados, no siete condenas conservadas íntegramente.
 
-  El daño y la responsabilidad civil no se reducen a los 2.759.045,74 euros citados. La STS 119/2026 recoge
-  ese perjuicio tras descontar trabajos realmente realizados y añade 582.572,05 euros abonados a la AEAT y
-  123.755,11 euros a la TGSS por embargos de Matinsreg: el total coincide con la indemnización solidaria de
-  3.465.372,90 euros. Ese daño indemnizable es una sola obligación; no se le suman de nuevo la responsabilidad
-  civil ni los 3.774.956,33 euros de pagos descritos en la resolución. La consignación de un millón de euros
-  antes del juicio fue reparación parcial; no acredita por sí sola cuánto ha recuperado finalmente el
-  Ayuntamiento. Extra Jaén informó el 30 de septiembre de 2026 de una recuperación previa de alrededor de un
-  millón, atribuida al Ayuntamiento, y de un nuevo ingreso de 1.000 euros por González Valero el 14 de
-  septiembre. La propia crónica advierte que la suma orientativa no es contabilidad municipal exacta. Faltan
-  los justificantes originales; no se afirma cobro íntegro ni se resta esta recuperación al daño histórico.
+  El Supremo desestimó las casaciones en la sentencia 119/2026, de 11 de febrero, difundida el 24 de febrero. Manuel del Moral Negrillo quedó condenado por malversación continuada a cuatro años de prisión y ocho años y un día de inhabilitación absoluta; fue absuelto de falsedad, cohecho y prevaricación. José Merino Acero e Isidoro Hipólito Cobo Sáiz recibieron cinco años de prisión por falsedad mercantil continuada en concurso medial con malversación continuada, y Luis Gregorio González Valero un año y diez meses, con las penas de inhabilitación que se detallan abajo. No se atribuye a Del Moral una condena por cohecho ni se describe toda la contratación como prevaricación probada.
 
+  Jaén Hoy informó el 31 de marzo de 2026 de la declaración de firmeza de 19 de marzo, en la ejecutoria penal 12/2026; Extra Jaén publicó el requerimiento de ingreso voluntario para los tres condenados con penas superiores a dos años y el trámite para estudiar la suspensión de la pena de González Valero. No se ha recuperado el auto original. Una noticia de Crónicas de Jaén de 12 de octubre sitúa el ingreso de Del Moral el 25 de abril, atribuyéndolo a un escrito judicial facilitado a ABC: se recoge como información periodística pendiente de corroboración documental, sin dar por verificado un calendario futuro de excarcelación. No constan aquí comprobados el ingreso de los demás, la decisión final sobre suspensión ni la recuperación íntegra de la indemnización. Las piezas separadas sobre otras empresas no se consideran cerradas por estas sentencias de la causa principal.
 
-  La Audiencia Provincial de Jaén, Sección Tercera, dictó la sentencia 193/2021 el 28 de junio de 2021, no el
-  1 de julio. Condenó inicialmente a siete de los nueve acusados y absolvió al exalcalde y a otra acusada. El
-  TSJA, en sentencia 1/2023 de 11 de enero, publicada por la prensa el día 13, absolvió también a Miguel Ángel
-  García Anguita, al técnico municipal y a otro acusado, y modificó las penas de los empresarios. El resultado
-  penal fue cuatro condenados, no siete condenas conservadas íntegramente.
+  ### Alcance y cuestiones pendientes
 
+  Información disponible a 17 de octubre de 2026. El original de la STS 119/2026 está disponible en el CENDOJ y consta de treinta páginas. Los antecedentes, hechos y fallos de instancia y apelación reproducidos y los pasajes económicos figuran en las páginas 1–10; el fallo de casación, en la página 30. La fecha del acto es el 11 de febrero de 2026; la fecha de exportación del PDF no se usa como fecha judicial. Los nombres completos y penas se contrastan con noticias nominales de la ejecutoria de marzo de 2026, sin deducir identidades de los seudónimos judiciales. No se incorporan nombres completos del técnico y otros absueltos sin revalidación nominal suficiente.
 
-  El Supremo desestimó las casaciones en la sentencia 119/2026, de 11 de febrero, difundida el 24 de febrero.
-  Manuel del Moral Negrillo quedó condenado por malversación continuada a cuatro años de prisión y ocho años y
-  un día de inhabilitación absoluta; fue absuelto de falsedad, cohecho y prevaricación. José Merino Acero e
-  Isidoro Hipólito Cobo Sáiz recibieron cinco años de prisión por falsedad mercantil continuada en concurso
-  medial con malversación continuada, y Luis Gregorio González Valero un año y diez meses, con las penas de
-  inhabilitación que se detallan abajo. No se atribuye a Del Moral una condena por cohecho ni se describe toda
-  la contratación como prevaricación probada.
+  La querella del grupo municipal socialista se sitúa a finales de 2017 y el auto de apertura de juicio oral en noviembre de 2019 según la prensa histórica leída. Faltan esos autos y la denuncia original, así como las actas para confirmar todas las sesiones y testigos anunciados. Las sospechas iniciales de cohecho y prevaricación no se presentan como condenas. Las piezas separadas sobre otras empresas necesitan seguimiento propio: el fallo de la causa principal no prueba su cierre.
 
+  La declaración de firmeza y el requerimiento de prisión se apoyan en prensa que reproduce una ejecutoria; queda pendiente su original, el cumplimiento individual, las decisiones sobre suspensión y el cobro efectivo de la responsabilidad civil. La noticia de octubre sobre el ingreso de Del Moral se identifica como información pendiente de corroboración documental. No se presume que toda la causa esté materialmente ejecutada ni se fija fecha de fin global.
 
-  Jaén Hoy informó el 31 de marzo de 2026 de la declaración de firmeza de 19 de marzo, en la ejecutoria penal
-  12/2026; Extra Jaén publicó el requerimiento de ingreso voluntario para los tres condenados con penas
-  superiores a dos años y el trámite para estudiar la suspensión de la pena de González Valero. No se ha
-  recuperado el auto original. Una noticia de Crónicas de Jaén de 12 de octubre sitúa el ingreso de Del Moral
-  el 25 de abril, atribuyéndolo a un escrito judicial facilitado a ABC: se recoge como información
-  periodística pendiente de corroboración documental, sin dar por verificado un calendario futuro de
-  excarcelación. No constan aquí comprobados el ingreso de los demás, la decisión final sobre suspensión ni la
-  recuperación íntegra de la indemnización. Las piezas separadas sobre otras empresas no se consideran
-  cerradas por estas sentencias de la causa principal.
+  El encargo del 8 de agosto de 2012 es un antecedente contractual, no la fecha de inicio de la investigación. La noticia de Extra Jaén del 30 de septiembre de 2026 sobre recuperaciones parciales se recoge con atribución expresa: no sustituye la contabilidad municipal ni acredita la ejecución completa de la responsabilidad civil.
 resumen: 'Facturas falsas o infladas de servicios municipales de Jaén: cuatro condenados tras apelación y casación,
   absoluciones individuales y responsabilidad civil solidaria de 3.465.372,90 euros; ejecución iniciada en 2026
   según prensa.'
@@ -210,13 +179,3 @@ cronologia:
   urls:
   - https://cronicasdejaen.com/el-exconcejal-del-pp-condenado-por-la-red-de-facturas-infladas-en-el-ayuntamiento-de-jaen-ya-duerme-en-prision/
 ---
-
-## Alcance y cuestiones pendientes
-
-Información disponible a 17 de octubre de 2026. El original de la STS 119/2026 está disponible en el CENDOJ y consta de treinta páginas. Los antecedentes, hechos y fallos de instancia y apelación reproducidos y los pasajes económicos figuran en las páginas 1–10; el fallo de casación, en la página 30. La fecha del acto es el 11 de febrero de 2026; la fecha de exportación del PDF no se usa como fecha judicial. Los nombres completos y penas se contrastan con noticias nominales de la ejecutoria de marzo de 2026, sin deducir identidades de los seudónimos judiciales. No se incorporan nombres completos del técnico y otros absueltos sin revalidación nominal suficiente.
-
-La querella del grupo municipal socialista se sitúa a finales de 2017 y el auto de apertura de juicio oral en noviembre de 2019 según la prensa histórica leída. Faltan esos autos y la denuncia original, así como las actas para confirmar todas las sesiones y testigos anunciados. Las sospechas iniciales de cohecho y prevaricación no se presentan como condenas. Las piezas separadas sobre otras empresas necesitan seguimiento propio: el fallo de la causa principal no prueba su cierre.
-
-La declaración de firmeza y el requerimiento de prisión se apoyan en prensa que reproduce una ejecutoria; queda pendiente su original, el cumplimiento individual, las decisiones sobre suspensión y el cobro efectivo de la responsabilidad civil. La noticia de octubre sobre el ingreso de Del Moral se identifica como información pendiente de corroboración documental. No se presume que toda la causa esté materialmente ejecutada ni se fija fecha de fin global.
-
-El encargo del 8 de agosto de 2012 es un antecedente contractual, no la fecha de inicio de la investigación. La noticia de Extra Jaén del 30 de septiembre de 2026 sobre recuperaciones parciales se recoge con atribución expresa: no sustituye la contabilidad municipal ni acredita la ejecución completa de la responsabilidad civil.

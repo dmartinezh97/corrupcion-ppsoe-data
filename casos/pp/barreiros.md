@@ -10,12 +10,20 @@ firmeza: Sin determinar
 estado: Absolución confirmada en apelación
 resumen: 'Proceso por prevaricación urbanística en licencias de Barreiros: siete absoluciones en 2019, confirmadas en apelación
   según la prensa.'
-descripcion: El Juzgado de lo Penal n.º 2 de Lugo absolvió el 8 de febrero de 2019 al alcalde, cinco concejales y la
-  arquitecta municipal acusados de prevaricación urbanística. El Progreso informó el 20 de julio de 2019 de la
-  confirmación firme por la Audiencia de Lugo; no se ha obtenido esa resolución original. La absolución penal
-  no declara conformes a derecho todas las licencias ni resuelve los demás litigios urbanísticos del
-  municipio. Al 17 de octubre de 2026, no constan una cuantificación judicial del perjuicio económico ni
-  documentación completa sobre los procedimientos administrativos asociados.
+descripcion: |-
+  El Juzgado de lo Penal n.º 2 de Lugo absolvió el 8 de febrero de 2019 al alcalde, cinco concejales y la arquitecta municipal acusados de prevaricación urbanística. El Progreso informó el 20 de julio de 2019 de la confirmación firme por la Audiencia de Lugo; no se ha obtenido esa resolución original. La absolución penal no declara conformes a derecho todas las licencias ni resuelve los demás litigios urbanísticos del municipio. Al 17 de octubre de 2026, no constan una cuantificación judicial del perjuicio económico ni documentación completa sobre los procedimientos administrativos asociados.
+
+  ### Licencias urbanísticas y absolución penal
+
+  El procedimiento abreviado 252/2017 del Juzgado de lo Penal n.º 2 de Lugo procedía de la causa 2/2010 del Juzgado de Instrucción n.º 1 de Mondoñedo. La acusación pública fue ejercida por Fiscalía y la particular por Adega, no por la Xunta. La [sentencia 52/2019](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fb201cb4cb5f1bec&encode=true&databasematch=AN), fechada el 8 de febrero, absolvió a las siete personas acusadas. Sus nombres constan directamente en la [copia nominal difundida por Adega](https://adega.gal/web/media/documentos/Sentenza_XUIZO_PENAL_BARREIROS.pdf); no se han reconstruido mediante los seudónimos de la versión CENDOJ.
+
+  La acusación fiscal no pidió la misma pena para todos. En las conclusiones recogidas en las páginas 1–2 de la copia nominal, solicitó dos años de prisión y diez de inhabilitación para Fuente Parga, Gómez Puente, Menéndez López y Rodríguez Díaz; para la arquitecta solicitó dos años de prisión y diez de inhabilitación profesional. Para Penabad Bolaño y Rojo Blanco pidió seis meses de prisión y siete años de inhabilitación. Son peticiones de acusación, no penas impuestas. Adega formuló su propia acusación sobre 45 delitos, con distintos alcances individuales.
+
+  El [comunicado judicial de 12 de febrero](https://www.poderjudicial.es/cgpj/ca/Poder-Judicial/Tribunals-Superiors-de-Justicia/TSJ-Galicia/Sala-de-premsa/Hemeroteca/El-juzgado-absuelve-al-alcalde-de-Barreiros--Lugo--de-prevaricacion-por-la-concesion-de-44-licencias-urbanisticas) describe el proceso por 44 licencias de 2006 para casi 3.500 viviendas. Las cifras de viviendas y licencias utilizadas en las distintas informaciones no son una cuantificación de daño económico. La sentencia distingue los reproches administrativos de los requisitos del delito y no considera demostrada la actuación consciente de su injusticia. Su absolución no permite presentar como definitivamente ilegales todas las licencias, ni afirmar que todas fueran legalizadas.
+
+  [El Progreso, el 20 de julio de 2019](https://www.elprogreso.es/articulo/a-marina/audiencia-provincial-dictamino-absolucion-exregidor-barreiros/201907201326591388192.amp.html), informó de la confirmación de la absolución en apelación tras los recursos de Fiscalía y Adega, calificándola de firme y señalando una discrepancia entre magistrados. Falta cotejar la resolución original de la Audiencia, su fecha exacta y el contenido de esa discrepancia. Por ello la firmeza se atribuye expresamente a esa fuente periodística y no se extrae de la fórmula condicional de la sentencia inicial.
+
+  Otros procedimientos del urbanismo de Barreiros, incluidas las actuaciones contra la exsecretaria municipal o los litigios sobre normas y licencias, tienen sujetos y objetos propios. La [información de noviembre de 2015](https://www.diariodepontevedra.es/articulo/noticias/el-alcalde-de-barreiros-dice-que-probara-su-inocencia/20151124195149289082.html) ya los distinguía y recogía que la defensa solicitaba acumulación. Sus resultados no se trasladan a esta absolución ni viceversa. La ausencia de una cuantificación judicial acreditada no equivale a demostrar la ausencia de perjuicios.
 lugar: Barreiros, Lugo, Galicia
 tribunal:
 - Juzgado de lo Penal n.º 2 de Lugo
@@ -103,15 +111,3 @@ cronologia:
   urls:
   - https://www.elprogreso.es/articulo/a-marina/audiencia-provincial-dictamino-absolucion-exregidor-barreiros/201907201326591388192.amp.html
 ---
-
-# Licencias urbanísticas y absolución penal
-
-El procedimiento abreviado 252/2017 del Juzgado de lo Penal n.º 2 de Lugo procedía de la causa 2/2010 del Juzgado de Instrucción n.º 1 de Mondoñedo. La acusación pública fue ejercida por Fiscalía y la particular por Adega, no por la Xunta. La [sentencia 52/2019](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=fb201cb4cb5f1bec&encode=true&databasematch=AN), fechada el 8 de febrero, absolvió a las siete personas acusadas. Sus nombres constan directamente en la [copia nominal difundida por Adega](https://adega.gal/web/media/documentos/Sentenza_XUIZO_PENAL_BARREIROS.pdf); no se han reconstruido mediante los seudónimos de la versión CENDOJ.
-
-La acusación fiscal no pidió la misma pena para todos. En las conclusiones recogidas en las páginas 1–2 de la copia nominal, solicitó dos años de prisión y diez de inhabilitación para Fuente Parga, Gómez Puente, Menéndez López y Rodríguez Díaz; para la arquitecta solicitó dos años de prisión y diez de inhabilitación profesional. Para Penabad Bolaño y Rojo Blanco pidió seis meses de prisión y siete años de inhabilitación. Son peticiones de acusación, no penas impuestas. Adega formuló su propia acusación sobre 45 delitos, con distintos alcances individuales.
-
-El [comunicado judicial de 12 de febrero](https://www.poderjudicial.es/cgpj/ca/Poder-Judicial/Tribunals-Superiors-de-Justicia/TSJ-Galicia/Sala-de-premsa/Hemeroteca/El-juzgado-absuelve-al-alcalde-de-Barreiros--Lugo--de-prevaricacion-por-la-concesion-de-44-licencias-urbanisticas) describe el proceso por 44 licencias de 2006 para casi 3.500 viviendas. Las cifras de viviendas y licencias utilizadas en las distintas informaciones no son una cuantificación de daño económico. La sentencia distingue los reproches administrativos de los requisitos del delito y no considera demostrada la actuación consciente de su injusticia. Su absolución no permite presentar como definitivamente ilegales todas las licencias, ni afirmar que todas fueran legalizadas.
-
-[El Progreso, el 20 de julio de 2019](https://www.elprogreso.es/articulo/a-marina/audiencia-provincial-dictamino-absolucion-exregidor-barreiros/201907201326591388192.amp.html), informó de la confirmación de la absolución en apelación tras los recursos de Fiscalía y Adega, calificándola de firme y señalando una discrepancia entre magistrados. Falta cotejar la resolución original de la Audiencia, su fecha exacta y el contenido de esa discrepancia. Por ello la firmeza se atribuye expresamente a esa fuente periodística y no se extrae de la fórmula condicional de la sentencia inicial.
-
-Otros procedimientos del urbanismo de Barreiros, incluidas las actuaciones contra la exsecretaria municipal o los litigios sobre normas y licencias, tienen sujetos y objetos propios. La [información de noviembre de 2015](https://www.diariodepontevedra.es/articulo/noticias/el-alcalde-de-barreiros-dice-que-probara-su-inocencia/20151124195149289082.html) ya los distinguía y recogía que la defensa solicitaba acumulación. Sus resultados no se trasladan a esta absolución ni viceversa. La ausencia de una cuantificación judicial acreditada no equivale a demostrar la ausencia de perjuicios.

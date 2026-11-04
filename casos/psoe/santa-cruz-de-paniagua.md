@@ -8,13 +8,18 @@ estadoPrincipal: Condenado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: condena confirmada en casación
-descripcion: El exalcalde socialista Ángel Cervigón Mota fue condenado por prevaricación continuada en contrataciones
-  municipales de familiares y allegados, incluida su empresa de autobuses. La Audiencia de Cáceres dictó la sentencia
-  178/2019 el 25 de junio de 2019. El Supremo confirmó la condena mediante la sentencia 741/2021, de 4 de octubre,
-  divulgada por el CGPJ el 18 de octubre. La pena recogida en el fallo de instancia reproducido por el Supremo es
-  de ocho años, seis meses y un día de inhabilitación especial para cargo público y sufragio pasivo, con dilaciones
-  indebidas. Fue absuelto de malversación y negociaciones prohibidas. Los otros dos acusados también fueron absueltos.
-  La ejecución y las identidades completas de estos últimos quedan pendientes de contraste nominal.
+descripcion: |-
+  El exalcalde socialista Ángel Cervigón Mota fue condenado por prevaricación continuada en contrataciones municipales de familiares y allegados, incluida su empresa de autobuses. La Audiencia de Cáceres dictó la sentencia 178/2019 el 25 de junio de 2019. El Supremo confirmó la condena mediante la sentencia 741/2021, de 4 de octubre, divulgada por el CGPJ el 18 de octubre. La pena recogida en el fallo de instancia reproducido por el Supremo es de ocho años, seis meses y un día de inhabilitación especial para cargo público y sufragio pasivo, con dilaciones indebidas. Fue absuelto de malversación y negociaciones prohibidas. Los otros dos acusados también fueron absueltos. La ejecución y las identidades completas de estos últimos quedan pendientes de contraste nominal.
+
+  La nota oficial distingue a dos hijos del alcalde de dos hijos y el marido de la alguacil municipal. La afirmación anterior de que había contratado a sus cuatro hijos mezclaba ambas familias. También recoge contratos con su empresa de autobuses. Los pagos por servicios no se equiparan a dinero sustraído: el Supremo explica que los trabajos se prestaron efectivamente.
+
+  La condena se refiere a decisiones de contratación, no a una condena por cobrar dietas. Los 8.000 euros no están acreditados como perjuicio declarado por el tribunal. Tampoco se mantienen como hechos probados la desaparición de la contabilidad digital ni las citas atribuidas a la Fiscalía sin documento contrastado.
+
+  La noticia de Radio Interior sobre la apertura de diligencias trata de una investigación distinta, anunciada en noviembre de 2021, contra el sucesor de Cervigón, Miguel Carlos González. El reportaje de El Español de noviembre de 2021 describe la auditoría y la denuncia de 2014, pero confunde el 18 de octubre, fecha de la comunicación oficial, con la fecha de la sentencia.
+
+  La nota judicial identifica a los otros dos acusados por sus cargos: la alguacil y el asesor que posteriormente fue secretario municipal. Ambos resultaron absueltos. Los seudónimos de las transcripciones judiciales no permiten establecer identidades; falta una fuente nominal contrastada.
+
+  Información disponible hasta el 17 de octubre de 2026: se han recuperado los originales oficiales de [instancia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=22c1a824ad5f28f2&encode=true&databasematch=AN) y [casación](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0ae54662629b8e85&encode=true&databasematch=AN). El Supremo desestima el recurso y advierte que no cabe recurso alguno; ello no documenta por sí solo la ejecución o extinción de la inhabilitación. Permanecen pendientes el contraste nominal de los otros dos absueltos y las actuaciones posteriores de ejecución.
 resumen: Condena por contrataciones municipales irregulares confirmada por el Supremo; absolución por malversación
   y negociaciones prohibidas.
 lugar: Santa Cruz de Paniagua, Cáceres (Extremadura)
@@ -75,13 +80,3 @@ cronologia:
   - https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-de-ocho-anos-y-medio-de-inhabilitacion-al-exalcalde-de-un-pueblo-de-Caceres-por-prevaricacion
   - https://www.canalextremadura.es/noticias/extremadura/el-exalcalde-de-santa-cruz-de-paniagua-condenado-por-enchufar-familiares
 ---
-
-La nota oficial distingue a dos hijos del alcalde de dos hijos y el marido de la alguacil municipal. La afirmación anterior de que había contratado a sus cuatro hijos mezclaba ambas familias. También recoge contratos con su empresa de autobuses. Los pagos por servicios no se equiparan a dinero sustraído: el Supremo explica que los trabajos se prestaron efectivamente.
-
-La condena se refiere a decisiones de contratación, no a una condena por cobrar dietas. Los 8.000 euros no están acreditados como perjuicio declarado por el tribunal. Tampoco se mantienen como hechos probados la desaparición de la contabilidad digital ni las citas atribuidas a la Fiscalía sin documento contrastado.
-
-La noticia de Radio Interior sobre la apertura de diligencias trata de una investigación distinta, anunciada en noviembre de 2021, contra el sucesor de Cervigón, Miguel Carlos González. El reportaje de El Español de noviembre de 2021 describe la auditoría y la denuncia de 2014, pero confunde el 18 de octubre, fecha de la comunicación oficial, con la fecha de la sentencia.
-
-La nota judicial identifica a los otros dos acusados por sus cargos: la alguacil y el asesor que posteriormente fue secretario municipal. Ambos resultaron absueltos. Los seudónimos de las transcripciones judiciales no permiten establecer identidades; falta una fuente nominal contrastada.
-
-Información disponible hasta el 17 de octubre de 2026: se han recuperado los originales oficiales de [instancia](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=22c1a824ad5f28f2&encode=true&databasematch=AN) y [casación](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=0ae54662629b8e85&encode=true&databasematch=AN). El Supremo desestima el recurso y advierte que no cabe recurso alguno; ello no documenta por sí solo la ejecución o extinción de la inhabilitación. Permanecen pendientes el contraste nominal de los otros dos absueltos y las actuaciones posteriores de ejecución.

@@ -8,11 +8,18 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: sobreseimiento provisional de contratos; otras derivadas pendientes de contraste
-descripcion: Investigación sobre supuestas irregularidades en contratos públicos con Interligare. La prensa documenta
-  un archivo provisional en 2014, una reapertura ordenada en diciembre de 2015 y un nuevo sobreseimiento provisional
-  anunciado en mayo de 2016 respecto al presunto amaño de contratos. La información de 2016 distinguía una derivada por
-  alzamiento de bienes y delitos contra Hacienda. No se ha acreditado el cierre definitivo de todas las actuaciones ni
-  su firmeza al corte de 17 de octubre de 2026; las acusaciones de espionaje tampoco se presentan como hechos probados.
+descripcion: |-
+  Investigación sobre supuestas irregularidades en contratos públicos con Interligare. La prensa documenta un archivo provisional en 2014, una reapertura ordenada en diciembre de 2015 y un nuevo sobreseimiento provisional anunciado en mayo de 2016 respecto al presunto amaño de contratos. La información de 2016 distinguía una derivada por alzamiento de bienes y delitos contra Hacienda. No se ha acreditado el cierre definitivo de todas las actuaciones ni su firmeza al corte de 17 de octubre de 2026; las acusaciones de espionaje tampoco se presentan como hechos probados.
+
+  El archivo documentado por la prensa fue provisional. La [información de 2014](https://www.publico.es/politica/archivado-falta-pruebas-caso-corrupcion-querian-salpicar-rubalcaba.html) atribuía al instructor la inexistencia de indicios de cohecho o tráfico de influencias en las adjudicaciones. La [noticia de mayo de 2016](https://www.elconfidencial.com/espana/2016-05-08/manos-limpias-interligare-rubalcaba-ministerio-del-interior-ausbanc-bernard-pineda_1195934/) describe una nueva decisión de archivo después de la reapertura, pero deja expresamente abierta la posibilidad de recursos y distingue las restantes actuaciones. No justifica afirmar un sobreseimiento definitivo global.
+
+  La [información de Vozpópuli de mayo de 2014](https://www.vozpopuli.com/espana/caso_interligare-fiscalia_anticorrupcion-ministerio_del_interior_0_701029891.html) situaba unos 2,4 millones de euros en tres adjudicaciones de Interior, además de otras líneas de investigación. Es volumen de contratación reseñado, no perjuicio establecido en sentencia ni importe de un único contrato del CNCA. No se acredita aquí que Rubalcaba fuera investigado ni se le atribuye responsabilidad penal por haber dirigido el Ministerio.
+
+  Las afirmaciones iniciales sobre espionaje a la sede del PP, equipos de interceptación, filtraciones y obstrucción no se convierten en hechos probados. Faltan las resoluciones originales para comprobar su tratamiento judicial. Tampoco el retorno de directivos a otra empresa demuestra por sí mismo la paralización de una causa.
+
+  La [memoria oficial del TSJ de Madrid de 2014](https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Madrid/MEMORIA/MEMORIA%202014%20-%20Tribunal%20Superior%20de%20Justicia%20de%20Madrid-multi.pdf), página 177, menciona la difusión de una nota sobre el sobreseimiento de Interligare. No contiene en ese pasaje el auto ni acredita firmeza. El PDF tiene 236 páginas; la fecha consignada en documentos es su generación informática el 30 de junio de 2015, no una fecha judicial ni publicación comprobada.
+
+  Corte: 17 de octubre de 2026. Quedan pendientes los autos de archivo y reapertura, la sección exacta de la Audiencia, la competencia y destino de cada derivada, todos los sujetos y el resultado de posibles recursos. No se ha verificado un desenlace posterior de las actuaciones fiscales o patrimoniales.
 resumen: 'Contratos con Interligare: segundo archivo provisional anunciado en 2016 y desenlace de las restantes actuaciones
   pendiente de verificar.'
 lugar: Madrid y Aranjuez, España
@@ -78,13 +85,3 @@ cronologia:
   urls:
   - https://www.elconfidencial.com/espana/2016-05-08/manos-limpias-interligare-rubalcaba-ministerio-del-interior-ausbanc-bernard-pineda_1195934/
 ---
-
-El archivo documentado por la prensa fue provisional. La [información de 2014](https://www.publico.es/politica/archivado-falta-pruebas-caso-corrupcion-querian-salpicar-rubalcaba.html) atribuía al instructor la inexistencia de indicios de cohecho o tráfico de influencias en las adjudicaciones. La [noticia de mayo de 2016](https://www.elconfidencial.com/espana/2016-05-08/manos-limpias-interligare-rubalcaba-ministerio-del-interior-ausbanc-bernard-pineda_1195934/) describe una nueva decisión de archivo después de la reapertura, pero deja expresamente abierta la posibilidad de recursos y distingue las restantes actuaciones. No justifica afirmar un sobreseimiento definitivo global.
-
-La [información de Vozpópuli de mayo de 2014](https://www.vozpopuli.com/espana/caso_interligare-fiscalia_anticorrupcion-ministerio_del_interior_0_701029891.html) situaba unos 2,4 millones de euros en tres adjudicaciones de Interior, además de otras líneas de investigación. Es volumen de contratación reseñado, no perjuicio establecido en sentencia ni importe de un único contrato del CNCA. No se acredita aquí que Rubalcaba fuera investigado ni se le atribuye responsabilidad penal por haber dirigido el Ministerio.
-
-Las afirmaciones iniciales sobre espionaje a la sede del PP, equipos de interceptación, filtraciones y obstrucción no se convierten en hechos probados. Faltan las resoluciones originales para comprobar su tratamiento judicial. Tampoco el retorno de directivos a otra empresa demuestra por sí mismo la paralización de una causa.
-
-La [memoria oficial del TSJ de Madrid de 2014](https://www.poderjudicial.es/stfls/TRIBUNALES%20SUPERIORES%20DE%20JUSTICIA/TSJ%20Madrid/MEMORIA/MEMORIA%202014%20-%20Tribunal%20Superior%20de%20Justicia%20de%20Madrid-multi.pdf), página 177, menciona la difusión de una nota sobre el sobreseimiento de Interligare. No contiene en ese pasaje el auto ni acredita firmeza. El PDF tiene 236 páginas; la fecha consignada en documentos es su generación informática el 30 de junio de 2015, no una fecha judicial ni publicación comprobada.
-
-Corte: 17 de octubre de 2026. Quedan pendientes los autos de archivo y reapertura, la sección exacta de la Audiencia, la competencia y destino de cada derivada, todos los sujetos y el resultado de posibles recursos. No se ha verificado un desenlace posterior de las actuaciones fiscales o patrimoniales.

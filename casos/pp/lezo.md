@@ -10,27 +10,48 @@ firmeza: Sin determinar
 estado: 'Inassa: vista celebrada; Emissao: pendiente de juicio'
 resumen: 'Dos piezas distintas sobre las compras latinoamericanas del Canal: Inassa llegó a juicio en 2026 y Emissao
   tiene apertura de juicio oral, con vista prevista para 2027 según la prensa.'
-descripcion: >-
-  Las piezas de Inassa y Emissao de la operación Lezo examinan presuntas irregularidades en la expansión
-  latinoamericana del Canal de Isabel II. La primera se refiere a la adquisición de Inassa entre 2001 y 2002;
-  la segunda, a la compra de Emissao en Brasil, desarrollada entre 2012 y 2014. Son procedimientos separados:
-  no existe una única acusación ni un importe global de daño probado que pueda atribuirse indistintamente a
-  ambas operaciones.
+descripcion: |-
+  Las piezas de Inassa y Emissao de la operación Lezo examinan presuntas irregularidades en la expansión latinoamericana del Canal de Isabel II. La primera se refiere a la adquisición de Inassa entre 2001 y 2002; la segunda, a la compra de Emissao en Brasil, desarrollada entre 2012 y 2014. Son procedimientos separados: no existe una única acusación ni un importe global de daño probado que pueda atribuirse indistintamente a ambas operaciones.
 
+  El juicio de Inassa comenzó el 7 de septiembre de 2026. Las crónicas de septiembre y octubre identifican 19 acusados en la vista, frente a los 22 incluidos en la apertura de 2020. El 5 de octubre Fiscalía rebajó a cuatro años y medio su petición por malversación al apreciar dilaciones indebidas; las defensas pidieron la absolución y alegaron prescripción. El 13 de octubre la prensa daba por terminada esa vista. Ignacio González y Alberto Ruiz-Gallardón no estaban acusados en ella: la pieza se había sobreseído provisionalmente respecto de ellos en 2019, y Gallardón declaró como testigo en septiembre de 2026.
 
-  El juicio de Inassa comenzó el 7 de septiembre de 2026. Las crónicas de septiembre y octubre identifican 19
-  acusados en la vista, frente a los 22 incluidos en la apertura de 2020. El 5 de octubre Fiscalía rebajó a
-  cuatro años y medio su petición por malversación al apreciar dilaciones indebidas; las defensas pidieron la
-  absolución y alegaron prescripción. El 13 de octubre la prensa daba por terminada esa vista. Ignacio
-  González y Alberto Ruiz-Gallardón no estaban acusados en ella: la pieza se había sobreseído provisionalmente
-  respecto de ellos en 2019, y Gallardón declaró como testigo en septiembre de 2026.
+  En Emissao, el auto de 5 de marzo de 2020 abrió juicio oral contra siete personas, entre ellas González, Edmundo Rodríguez Sobrino, María Fernanda Richmond y Luis Vicente Moro. Las informaciones de 2026 sitúan su vista en 2027; no se ha recuperado el señalamiento oficial ni comprobado íntegramente la evolución posterior de todos los acusados y recursos. Tampoco se ha verificado una sentencia de Inassa al 15 de octubre de 2026. Las acusaciones y los relatos indiciarios no equivalen a hechos probados ni a condenas.
 
+  ### Dos operaciones y dos procedimientos
 
-  En Emissao, el auto de 5 de marzo de 2020 abrió juicio oral contra siete personas, entre ellas González,
-  Edmundo Rodríguez Sobrino, María Fernanda Richmond y Luis Vicente Moro. Las informaciones de 2026 sitúan su
-  vista en 2027; no se ha recuperado el señalamiento oficial ni comprobado íntegramente la evolución posterior
-  de todos los acusados y recursos. Tampoco se ha verificado una sentencia de Inassa al 15 de octubre de 2026.
-  Las acusaciones y los relatos indiciarios no equivalen a hechos probados ni a condenas.
+  Esta ficha se centra en Inassa y Emissao, operaciones de expansión internacional del Canal de Isabel II. No forman una única pieza con una responsabilidad penal o un perjuicio común. La compra de Inassa se articuló entre 2001 y 2002 mediante una sociedad panameña, Aguas de América, que también poseía una participación en Watco. El [auto de apertura de Inassa](https://www.losgenoveses.net/Caso%20Lezo/Lezo.%20Caso%20Inassa.Auto%20de%20apertura%20de%20juicio%20oral.%2009.03.20.pdf) recoge como hipótesis acusatoria que la operación se apartó de lo autorizado y se realizó con sobreprecio. El acuerdo de compraventa es de 13 de diciembre de 2001 y se fijaron pagos posteriores.
+
+  La adquisición del 75 % de la brasileña Emissao se produjo el 14 de noviembre de 2013, a través de la sociedad uruguaya Soluciones Andinas del Agua, según el [auto de su propia pieza](https://losgenoveses.net/Caso%20Lezo/Lezo.%20PS1%20Emissao.%20Auto%20de%20apertura%20de%20juicio%20oral.05.03.20.pdf). El proceso investigado se extiende de 2012 a 2014. La coincidencia de las siglas societarias y la intervención de Inassa en la expansión posterior no permiten mezclar ambos contratos ni los acusados de cada operación.
+
+  ### Inassa: juicio celebrado en 2026
+
+  El [comunicado oficial de 30 de mayo de 2019](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juez-propone-juzgar-a-22-personas-por-la-compra-de-la-sociedad-colombiana-Inassa-) informa de la propuesta de juzgar a 22 personas y del sobreseimiento provisional respecto de otras 15, incluidos Alberto Ruiz-Gallardón e Ignacio González. El auto de apertura de 2020 fecha aquella resolución el 29 de mayo. El archivo provisional no equivale a una absolución tras juicio ni se convierte en libre por falta de noticias posteriores. Gallardón compareció [como testigo en septiembre de 2026](https://www.rtve.es/noticias/20260915/gallardon-testigo-juicio-caso-lezo/17224960.shtml).
+
+  La vista [comenzó el 7 de septiembre de 2026](https://www.rtve.es/noticias/20260907/audiencia-nacional-caso-lezo-canal-isabel-ii/17214694.shtml). Las informaciones de octubre identifican 19 acusados efectivamente enjuiciados, entre ellos Pedro Calvo Poch y Juan Bravo Rivera. No se ha cotejado la resolución que explique individualmente todas las diferencias respecto de los 22 del auto de 2020. Fiscalía [rebajó el 5 de octubre](https://elpais.com/espana/2026-10-05/la-fiscalia-reduce-la-peticion-de-penas-en-el-primer-juicio-del-caso-lezo.html) su petición a cuatro años y medio por dilaciones indebidas. Las [defensas pidieron absolución y alegaron prescripción](https://www.lavanguardia.com/local/madrid/20261006/11652500/caso-lezo-acusados-piden-absolucion-alegan-gallardon-nego-causaran-perjuicios.html); no debe presentarse esa pretensión como si el tribunal hubiese declarado prescrito el delito. La prensa de 13 de octubre daba por acabada la vista, pero no se ha verificado una sentencia a la fecha indicada.
+
+  ### Emissao: acusaciones individualizadas
+
+  El auto de 5 de marzo de 2020 abre juicio contra Jaime Ignacio González González, Edmundo Rodríguez Sobrino, María Fernanda Richmond, Diego Fernando García Arias, Luis Vicente Moro Díaz, Ramón Navarro Pereira y Sebastiao Cristovam. El documento contiene 48 páginas: las primeras 17 corresponden al auto y las restantes al escrito fiscal anexo. La parte dispositiva está en la página 17 del PDF. La restricción de recursos del auto, salvo situación personal, no es una declaración de hechos probados. Tampoco se trasladan a 2026 las medidas personales que mantenía en 2020 sin una comprobación posterior.
+
+  Las penas solicitadas difieren por acusación y persona. El auto recoge que Fiscalía pide ocho años para González, siete para Rodríguez Sobrino y Moro, cinco para Richmond, seis años y medio para Cristovam y dos para García Arias y Navarro. La acusación del Canal y la Comunidad solicita once años para González, Sobrino y otros acusados, y nueve para Richmond. Estas cantidades no deben confundirse con penas impuestas. El relato fiscal distingue la malversación atribuida a Richmond del fraude y malversación que atribuye a los otros seis.
+
+  Las [informaciones de septiembre de 2026](https://www.infobae.com/espana/agencias/2026/09/06/arranca-el-primer-juicio-del-caso-lezo-sobre-el-canal-de-isabel-ii-diez-anos-despues/) sitúan la vista de Emissao en enero de 2027; la [crónica de 13 de octubre](https://elpais.com/espana/2026-10-13/arranca-el-primer-juicio-de-lezo-al-expresidente-madrileno-ignacio-gonzalez-reconoce-los-delitos.html?outputType=amp) sigue describiéndola como un juicio futuro. Falta el señalamiento oficial y una comprobación completa de los recursos y posibles modificaciones individuales de las acusaciones desde los autos recuperados. Por ello no se afirma una condena ni una firmeza sobre el fondo.
+
+  ### Qué significan las cantidades
+
+  | Operación | Importe y naturaleza | Alcance |
+  | --- | --- | --- |
+  | Inassa | 73 millones de dólares: precio del acuerdo relativo a la sociedad panameña | Volumen de la adquisición, no daño probado. |
+  | Inassa | Entre 19.066.500 y 29.013.109 euros: sobreprecio imputado a los fondos del Canal en el relato acusatorio | El auto recoge una petición fiscal civil de al menos 19.066.500 euros; no es indemnización fijada en sentencia. |
+  | Emissao | Entre 6,8 y 9,7 millones de euros: salida indebida de fondos alegada en el auto de 2020 | Estimación acusatoria por sobreprecio, distinta de los cálculos de fases anteriores. |
+  | Emissao | 5,4 millones de dólares: reparto de comisiones atribuido por Fiscalía; 1,8 millones corresponderían a González | Alegación penal, no importe global de las dos piezas ni hecho probado. |
+  | Emissao | 2.006.717 euros: responsabilidad civil solicitada por Fiscalía en el auto de 2020 | Pretensión residual tras las actuaciones de reparación allí relatadas; no se suma a las anteriores. |
+
+  El auto de Emissao detalla consignaciones de Sobrino y García Arias, cheques de Navarro que estaban pendientes de cobro en aquel momento y gestiones de Cristovam para transferir fondos. No es correcto afirmar que no existe información sobre recuperación ni tratar todas esas entregas como dinero definitivamente recuperado sin comprobar su cobro y destino posteriores. Las valoraciones, comisiones, reclamaciones y recuperaciones no son intercambiables ni acreditan un perjuicio global.
+
+  ### Otras piezas de Lezo
+
+  La prisión provisional de González en 2017 no fue una condena; las crónicas de 2026 sitúan aquella estancia en unos seis meses de ese año, no hasta 2018. El archivo de 2022 por blanqueo se refiere a una [pieza distinta](/casos/pp/lezo-blanqueo-capitales/), como confirma la [memoria de la Audiencia Nacional](https://www.poderjudicial.es/stfls/AUDIENCIA%20NACIONAL/MEMORIAS/20231107%20Memoria%20AN%202022.pdf). El juicio que comenzó el 13 de octubre de 2026 contra González corresponde al [campo de golf](/casos/pp/lezo-canal-golf/), no a Inassa ni a Emissao. También tienen objeto propio las piezas del [tren de Navalcarnero](/casos/pp/lezo-tren-navalcarnero/), [financiación del PP](/casos/pp/lezo-financiacion-pp/) y [Mercasa](/casos/pp/lezo-mercasa/). Sus acusados, archivos, importes y calendarios no se trasladan a estas dos operaciones.
 lugar: Madrid, Colombia y Brasil
 tribunal:
 - Juzgado Central de Instrucción n.º 6 de la Audiencia Nacional (instrucción de las diligencias 91/2016)
@@ -215,39 +236,3 @@ cronologia:
   type: juicio
   relevancia: media
 ---
-
-## Dos operaciones y dos procedimientos
-
-Esta ficha se centra en Inassa y Emissao, operaciones de expansión internacional del Canal de Isabel II. No forman una única pieza con una responsabilidad penal o un perjuicio común. La compra de Inassa se articuló entre 2001 y 2002 mediante una sociedad panameña, Aguas de América, que también poseía una participación en Watco. El [auto de apertura de Inassa](https://www.losgenoveses.net/Caso%20Lezo/Lezo.%20Caso%20Inassa.Auto%20de%20apertura%20de%20juicio%20oral.%2009.03.20.pdf) recoge como hipótesis acusatoria que la operación se apartó de lo autorizado y se realizó con sobreprecio. El acuerdo de compraventa es de 13 de diciembre de 2001 y se fijaron pagos posteriores.
-
-La adquisición del 75 % de la brasileña Emissao se produjo el 14 de noviembre de 2013, a través de la sociedad uruguaya Soluciones Andinas del Agua, según el [auto de su propia pieza](https://losgenoveses.net/Caso%20Lezo/Lezo.%20PS1%20Emissao.%20Auto%20de%20apertura%20de%20juicio%20oral.05.03.20.pdf). El proceso investigado se extiende de 2012 a 2014. La coincidencia de las siglas societarias y la intervención de Inassa en la expansión posterior no permiten mezclar ambos contratos ni los acusados de cada operación.
-
-## Inassa: juicio celebrado en 2026
-
-El [comunicado oficial de 30 de mayo de 2019](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Sala-de-Prensa/Notas-de-prensa/El-juez-propone-juzgar-a-22-personas-por-la-compra-de-la-sociedad-colombiana-Inassa-) informa de la propuesta de juzgar a 22 personas y del sobreseimiento provisional respecto de otras 15, incluidos Alberto Ruiz-Gallardón e Ignacio González. El auto de apertura de 2020 fecha aquella resolución el 29 de mayo. El archivo provisional no equivale a una absolución tras juicio ni se convierte en libre por falta de noticias posteriores. Gallardón compareció [como testigo en septiembre de 2026](https://www.rtve.es/noticias/20260915/gallardon-testigo-juicio-caso-lezo/17224960.shtml).
-
-La vista [comenzó el 7 de septiembre de 2026](https://www.rtve.es/noticias/20260907/audiencia-nacional-caso-lezo-canal-isabel-ii/17214694.shtml). Las informaciones de octubre identifican 19 acusados efectivamente enjuiciados, entre ellos Pedro Calvo Poch y Juan Bravo Rivera. No se ha cotejado la resolución que explique individualmente todas las diferencias respecto de los 22 del auto de 2020. Fiscalía [rebajó el 5 de octubre](https://elpais.com/espana/2026-10-05/la-fiscalia-reduce-la-peticion-de-penas-en-el-primer-juicio-del-caso-lezo.html) su petición a cuatro años y medio por dilaciones indebidas. Las [defensas pidieron absolución y alegaron prescripción](https://www.lavanguardia.com/local/madrid/20261006/11652500/caso-lezo-acusados-piden-absolucion-alegan-gallardon-nego-causaran-perjuicios.html); no debe presentarse esa pretensión como si el tribunal hubiese declarado prescrito el delito. La prensa de 13 de octubre daba por acabada la vista, pero no se ha verificado una sentencia a la fecha indicada.
-
-## Emissao: acusaciones individualizadas
-
-El auto de 5 de marzo de 2020 abre juicio contra Jaime Ignacio González González, Edmundo Rodríguez Sobrino, María Fernanda Richmond, Diego Fernando García Arias, Luis Vicente Moro Díaz, Ramón Navarro Pereira y Sebastiao Cristovam. El documento contiene 48 páginas: las primeras 17 corresponden al auto y las restantes al escrito fiscal anexo. La parte dispositiva está en la página 17 del PDF. La restricción de recursos del auto, salvo situación personal, no es una declaración de hechos probados. Tampoco se trasladan a 2026 las medidas personales que mantenía en 2020 sin una comprobación posterior.
-
-Las penas solicitadas difieren por acusación y persona. El auto recoge que Fiscalía pide ocho años para González, siete para Rodríguez Sobrino y Moro, cinco para Richmond, seis años y medio para Cristovam y dos para García Arias y Navarro. La acusación del Canal y la Comunidad solicita once años para González, Sobrino y otros acusados, y nueve para Richmond. Estas cantidades no deben confundirse con penas impuestas. El relato fiscal distingue la malversación atribuida a Richmond del fraude y malversación que atribuye a los otros seis.
-
-Las [informaciones de septiembre de 2026](https://www.infobae.com/espana/agencias/2026/09/06/arranca-el-primer-juicio-del-caso-lezo-sobre-el-canal-de-isabel-ii-diez-anos-despues/) sitúan la vista de Emissao en enero de 2027; la [crónica de 13 de octubre](https://elpais.com/espana/2026-10-13/arranca-el-primer-juicio-de-lezo-al-expresidente-madrileno-ignacio-gonzalez-reconoce-los-delitos.html?outputType=amp) sigue describiéndola como un juicio futuro. Falta el señalamiento oficial y una comprobación completa de los recursos y posibles modificaciones individuales de las acusaciones desde los autos recuperados. Por ello no se afirma una condena ni una firmeza sobre el fondo.
-
-## Qué significan las cantidades
-
-| Operación | Importe y naturaleza | Alcance |
-| --- | --- | --- |
-| Inassa | 73 millones de dólares: precio del acuerdo relativo a la sociedad panameña | Volumen de la adquisición, no daño probado. |
-| Inassa | Entre 19.066.500 y 29.013.109 euros: sobreprecio imputado a los fondos del Canal en el relato acusatorio | El auto recoge una petición fiscal civil de al menos 19.066.500 euros; no es indemnización fijada en sentencia. |
-| Emissao | Entre 6,8 y 9,7 millones de euros: salida indebida de fondos alegada en el auto de 2020 | Estimación acusatoria por sobreprecio, distinta de los cálculos de fases anteriores. |
-| Emissao | 5,4 millones de dólares: reparto de comisiones atribuido por Fiscalía; 1,8 millones corresponderían a González | Alegación penal, no importe global de las dos piezas ni hecho probado. |
-| Emissao | 2.006.717 euros: responsabilidad civil solicitada por Fiscalía en el auto de 2020 | Pretensión residual tras las actuaciones de reparación allí relatadas; no se suma a las anteriores. |
-
-El auto de Emissao detalla consignaciones de Sobrino y García Arias, cheques de Navarro que estaban pendientes de cobro en aquel momento y gestiones de Cristovam para transferir fondos. No es correcto afirmar que no existe información sobre recuperación ni tratar todas esas entregas como dinero definitivamente recuperado sin comprobar su cobro y destino posteriores. Las valoraciones, comisiones, reclamaciones y recuperaciones no son intercambiables ni acreditan un perjuicio global.
-
-## Otras piezas de Lezo
-
-La prisión provisional de González en 2017 no fue una condena; las crónicas de 2026 sitúan aquella estancia en unos seis meses de ese año, no hasta 2018. El archivo de 2022 por blanqueo se refiere a una [pieza distinta](/casos/pp/lezo-blanqueo-capitales/), como confirma la [memoria de la Audiencia Nacional](https://www.poderjudicial.es/stfls/AUDIENCIA%20NACIONAL/MEMORIAS/20231107%20Memoria%20AN%202022.pdf). El juicio que comenzó el 13 de octubre de 2026 contra González corresponde al [campo de golf](/casos/pp/lezo-canal-golf/), no a Inassa ni a Emissao. También tienen objeto propio las piezas del [tren de Navalcarnero](/casos/pp/lezo-tren-navalcarnero/), [financiación del PP](/casos/pp/lezo-financiacion-pp/) y [Mercasa](/casos/pp/lezo-mercasa/). Sus acusados, archivos, importes y calendarios no se trasladan a estas dos operaciones.

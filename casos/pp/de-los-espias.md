@@ -9,54 +9,28 @@ estadoPrincipal: Absuelto
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución en 2019; recurso sobre costas desestimado por el Supremo en 2021
-descripcion: >-
-  El caso de los Espías, también denominado Gestapillo en la prensa, investigó si personal de Seguridad de la
-  Comunidad de Madrid había empleado medios públicos para vigilar a cargos del PP en 2008. El escrito de
-  acusación de la Comunidad de Madrid atribuyó a los encausados vigilancias entre marzo y mayo de ese año. Las
-  crónicas mencionan como supuestos afectados a Alfredo Prada y Manuel Cobo. Los seis acusados resultaron
-  absueltos.
+descripcion: |-
+  El caso de los Espías, también denominado Gestapillo en la prensa, investigó si personal de Seguridad de la Comunidad de Madrid había empleado medios públicos para vigilar a cargos del PP en 2008. El escrito de acusación de la Comunidad de Madrid atribuyó a los encausados vigilancias entre marzo y mayo de ese año. Las crónicas mencionan como supuestos afectados a Alfredo Prada y Manuel Cobo. Los seis acusados resultaron absueltos.
 
+  La instrucción del Juzgado nº 5 de Madrid tuvo tres archivos y tres reaperturas. Noticias Jurídicas sitúa el primer sobreseimiento provisional el 15 de julio de 2010 y publicó el segundo el 15 de febrero de 2012, sin precisar la fecha del auto. El escrito de acusación de 28 de junio de 2016 cita reaperturas de 22 de marzo de 2011, 16 de mayo de 2012 y 1 de junio de 2015; el Supremo confirma posteriormente la existencia de tres revocaciones de archivo. La noticia de noviembre de 2014 anunciaba una futura apertura de juicio oral, no acredita que ya se hubiera abierto. La Comunidad solicitó multas y suspensión de empleo o cargo en su escrito de 2016, que no es una resolución judicial.
 
-  La instrucción del Juzgado nº 5 de Madrid tuvo tres archivos y tres reaperturas. Noticias Jurídicas sitúa el
-  primer sobreseimiento provisional el 15 de julio de 2010 y publicó el segundo el 15 de febrero de 2012, sin
-  precisar la fecha del auto. El escrito de acusación de 28 de junio de 2016 cita reaperturas de 22 de marzo
-  de 2011, 16 de mayo de 2012 y 1 de junio de 2015; el Supremo confirma posteriormente la existencia de tres
-  revocaciones de archivo. La noticia de noviembre de 2014 anunciaba una futura apertura de juicio oral, no
-  acredita que ya se hubiera abierto. La Comunidad solicitó multas y suspensión de empleo o cargo en su
-  escrito de 2016, que no es una resolución judicial.
+  El jurado emitió el 21 de febrero de 2019 un veredicto de no culpabilidad para los seis acusados, según las crónicas: cinco votos contra cuatro para Sergio Gamón y Miguel Castaño y unanimidad para los cuatro subordinados. La sentencia 17/2019, dictada el 4 de marzo por la Sección Quinta de la Audiencia Provincial de Madrid, los absolvió y declaró las costas de oficio. La STS 568/2021 reproduce los hechos probados y el fallo: no quedaron acreditados los seguimientos imputados, la apropiación de medios ni remuneraciones adicionales; tampoco un perjuicio económico para la Comunidad derivado de esas funciones.
 
+  La controversia posterior documentada se limitó a las costas. La sentencia 141/2019 del Tribunal Superior de Justicia de Madrid, de 10 de julio, confirmó la resolución. El Supremo desestimó la casación el 30 de junio de 2021: la absolución no demostraba por sí sola temeridad o mala fe de las acusaciones, a las que no impuso las costas. Impuso las de la casación al recurrente e indicó que contra su sentencia no cabía recurso. No se atribuyen los nombres anonimizados de esta resolución a personas concretas por deducción.
 
-  El jurado emitió el 21 de febrero de 2019 un veredicto de no culpabilidad para los seis acusados, según las
-  crónicas: cinco votos contra cuatro para Sergio Gamón y Miguel Castaño y unanimidad para los cuatro
-  subordinados. La sentencia 17/2019, dictada el 4 de marzo por la Sección Quinta de la Audiencia Provincial
-  de Madrid, los absolvió y declaró las costas de oficio. La STS 568/2021 reproduce los hechos probados y el
-  fallo: no quedaron acreditados los seguimientos imputados, la apropiación de medios ni remuneraciones
-  adicionales; tampoco un perjuicio económico para la Comunidad derivado de esas funciones.
+  Las declaraciones personales del juicio deben distinguirse del resultado judicial. Oreja y Coronado atribuyeron a Gamón órdenes de seguimiento y aludieron al interés de Ignacio González, pero negaron haber usado medios técnicos de la Comunidad o cobrado cantidades adicionales, según elDiario.es. Granados y González negaron las imputaciones que les afectaban. Barrado acusó como testigo a Moix y Olivera de desviar la investigación; Moix lo negó. Ninguna de esas acusaciones personales se presenta aquí como hecho probado. En abril de 2019 la prensa informó de una querella de José Luis Caro Vinagre contra Moix y policías. Europa Press y la SER comunicaron el 12 de septiembre de 2019 su inadmisión respecto de Moix por el Supremo, que consideró infundada la querella. No se ha recuperado el auto original para precisar su fecha, alcance respecto de los policías o recursos.
 
+  Al 17 de octubre de 2026, no se dispone por separado del acta del veredicto ni de la sentencia de primera instancia; sus hechos probados y fallo constan en la reproducción incluida en la sentencia original del Supremo. No se fija una fecha de firmeza autónoma de la absolución ni una fecha exacta de inicio de los hechos. Las multas solicitadas y las costas no son daño público; la sentencia reproducida descarta el perjuicio económico atribuido en esta causa.
 
-  La controversia posterior documentada se limitó a las costas. La sentencia 141/2019 del Tribunal Superior de
-  Justicia de Madrid, de 10 de julio, confirmó la resolución. El Supremo desestimó la casación el 30 de junio
-  de 2021: la absolución no demostraba por sí sola temeridad o mala fe de las acusaciones, a las que no impuso
-  las costas. Impuso las de la casación al recurrente e indicó que contra su sentencia no cabía recurso. No se
-  atribuyen los nombres anonimizados de esta resolución a personas concretas por deducción.
+  ### Alcance documental y límites
 
+  Información disponible al 17 de octubre de 2026. Están disponibles la STS 568/2021, de seis páginas, el escrito de acusación de 2016, de siete páginas, y el Decreto 33/2010, de una página. La sentencia del Supremo reproduce los hechos probados y el fallo de primera instancia y la decisión del TSJM; no sustituye al acta del jurado ni acredita una fecha autónoma de firmeza de la absolución. Su fallo resuelve la casación limitada a costas y declara que contra esa sentencia no cabe recurso.
 
-  Las declaraciones personales del juicio deben distinguirse del resultado judicial. Oreja y Coronado
-  atribuyeron a Gamón órdenes de seguimiento y aludieron al interés de Ignacio González, pero negaron haber
-  usado medios técnicos de la Comunidad o cobrado cantidades adicionales, según elDiario.es. Granados y
-  González negaron las imputaciones que les afectaban. Barrado acusó como testigo a Moix y Olivera de desviar
-  la investigación; Moix lo negó. Ninguna de esas acusaciones personales se presenta aquí como hecho probado.
-  En abril de 2019 la prensa informó de una querella de José Luis Caro Vinagre contra Moix y policías. Europa
-  Press y la SER comunicaron el 12 de septiembre de 2019 su inadmisión respecto de Moix por el Supremo, que
-  consideró infundada la querella. No se ha recuperado el auto original para precisar su fecha, alcance
-  respecto de los policías o recursos.
+  Los nombres de los seis acusados proceden del escrito de acusación nominal; el decreto acredita Manuel Sergio Gamón Serrano. No se identifican los seudónimos de CENDOJ mediante deducción. La atribución periodística a Caro del recurso se conserva expresamente como tal. El escrito de acusación no es una sentencia: sus alegaciones sobre vigilancias, importes de multas y empleo de medios no son hechos probados. La sentencia reproducida descarta el perjuicio económico atribuido; las multas y las costas son conceptos distintos del daño público.
 
+  Las noticias citadas documentan los archivos de 2010 y 2012, la continuación de 2014, la reapertura de 2015, la comparecencia parlamentaria de 2016, las declaraciones y el veredicto de 2019, el recurso sobre costas y la querella e inadmisión respecto de Moix. Las tres fechas de reapertura proceden del escrito de acusación; no se recuperaron sus autos originales. La comparecencia de Yolanda Laviana de abril de 2016 fue en la Asamblea, no en el juzgado.
 
-  Al 17 de octubre de 2026, no se dispone por separado del acta del veredicto ni de la sentencia de primera
-  instancia; sus hechos probados y fallo constan en la reproducción incluida en la sentencia original del
-  Supremo. No se fija una fecha de firmeza autónoma de la absolución ni una fecha exacta de inicio de los
-  hechos. Las multas solicitadas y las costas no son daño público; la sentencia reproducida descarta el
-  perjuicio económico atribuido en esta causa.
+  La querella posterior es un procedimiento distinto. Falta el auto original de inadmisión de 2019: la noticia no fija su fecha exacta ni permite afirmar el resultado respecto de Olivera o Barrado, ni su firmeza. No se mantienen como hechos probados las acusaciones personales formuladas en testimonios. No constan novedades posteriores que alteren los hechos documentados; ello no demuestra la inexistencia de otras actuaciones.
 resumen: 'Investigación sobre supuestas vigilancias internas en el PP madrileño: seis acusados absueltos en marzo
   de 2019; el Supremo desestimó en 2021 la casación limitada a las costas'
 lugar: Madrid, Comunidad de Madrid
@@ -295,13 +269,3 @@ cronologia:
   urls:
   - https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=TS&reference=b659bbb2a4c5c90b&encode=true&databasematch=TS
 ---
-
-## Alcance documental y límites
-
-Información disponible al 17 de octubre de 2026. Están disponibles la STS 568/2021, de seis páginas, el escrito de acusación de 2016, de siete páginas, y el Decreto 33/2010, de una página. La sentencia del Supremo reproduce los hechos probados y el fallo de primera instancia y la decisión del TSJM; no sustituye al acta del jurado ni acredita una fecha autónoma de firmeza de la absolución. Su fallo resuelve la casación limitada a costas y declara que contra esa sentencia no cabe recurso.
-
-Los nombres de los seis acusados proceden del escrito de acusación nominal; el decreto acredita Manuel Sergio Gamón Serrano. No se identifican los seudónimos de CENDOJ mediante deducción. La atribución periodística a Caro del recurso se conserva expresamente como tal. El escrito de acusación no es una sentencia: sus alegaciones sobre vigilancias, importes de multas y empleo de medios no son hechos probados. La sentencia reproducida descarta el perjuicio económico atribuido; las multas y las costas son conceptos distintos del daño público.
-
-Las noticias citadas documentan los archivos de 2010 y 2012, la continuación de 2014, la reapertura de 2015, la comparecencia parlamentaria de 2016, las declaraciones y el veredicto de 2019, el recurso sobre costas y la querella e inadmisión respecto de Moix. Las tres fechas de reapertura proceden del escrito de acusación; no se recuperaron sus autos originales. La comparecencia de Yolanda Laviana de abril de 2016 fue en la Asamblea, no en el juzgado.
-
-La querella posterior es un procedimiento distinto. Falta el auto original de inadmisión de 2019: la noticia no fija su fecha exacta ni permite afirmar el resultado respecto de Olivera o Barrado, ni su firmeza. No se mantienen como hechos probados las acusaciones personales formuladas en testimonios. No constan novedades posteriores que alteren los hechos documentados; ello no demuestra la inexistencia de otras actuaciones.

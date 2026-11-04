@@ -8,34 +8,22 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Condenas y absolución en casación
-descripcion: >-
-  El procedimiento examinó la gestión de fondos, el empleo de trabajadores en actividades privadas y varias
-  contrataciones de la Institución Ferial de Extremadura (Feval). El exdirector José Luis Viñuela, exdiputado
-  autonómico del PSOE, el exadministrador Juan Francisco Cerrato y el exsubdirector José Villa fueron
-  condenados en primera instancia el 7 de junio de 2017 a ocho años, tres meses y un día de prisión cada uno.
-  Ese resultado fue modificado sustancialmente por el Supremo y no describe la situación final de los tres.
+descripcion: |-
+  El procedimiento examinó la gestión de fondos, el empleo de trabajadores en actividades privadas y varias contrataciones de la Institución Ferial de Extremadura (Feval). El exdirector José Luis Viñuela, exdiputado autonómico del PSOE, el exadministrador Juan Francisco Cerrato y el exsubdirector José Villa fueron condenados en primera instancia el 7 de junio de 2017 a ocho años, tres meses y un día de prisión cada uno. Ese resultado fue modificado sustancialmente por el Supremo y no describe la situación final de los tres.
 
+  La sentencia 229/2018 del Tribunal Supremo, de 17 de mayo, absolvió a Villa de todos los delitos, eliminó las condenas por falsedad y redujo las penas de los otros dos. Cerrato recibió cuatro años y seis meses de prisión por malversación continuada y ocho años de inhabilitación para cargos que permitan administrar o gestionar fondos públicos. Para Viñuela, el fallo establece por malversación un año, nueve meses y un día de prisión, tres meses de multa a 15 euros diarios y suspensión de empleo o cargo público de nueve meses y un día; además, diez años de inhabilitación especial por prevaricación continuada. No se presenta como condena de los tres una actuación o beneficio privado que el Supremo individualizó.
 
-  La sentencia 229/2018 del Tribunal Supremo, de 17 de mayo, absolvió a Villa de todos los delitos, eliminó
-  las condenas por falsedad y redujo las penas de los otros dos. Cerrato recibió cuatro años y seis meses de
-  prisión por malversación continuada y ocho años de inhabilitación para cargos que permitan administrar o
-  gestionar fondos públicos. Para Viñuela, el fallo establece por malversación un año, nueve meses y un día de
-  prisión, tres meses de multa a 15 euros diarios y suspensión de empleo o cargo público de nueve meses y un
-  día; además, diez años de inhabilitación especial por prevaricación continuada. No se presenta como condena
-  de los tres una actuación o beneficio privado que el Supremo individualizó.
+  La responsabilidad civil cuantificada de Cerrato quedó en 38.489,20 euros más intereses, mientras que la de Viñuela debía fijarse en ejecución por el valor de los servicios de trabajadores de Feval destinados a actividades ajenas a la institución. Los 201.644,47 euros fijados solidariamente en primera instancia no se mantienen como daño total confirmado. No se ha acreditado aquí la liquidación definitiva, el pago o el cumplimiento de las penas a 17 de octubre de 2026.
 
+  El fallo del Supremo indica que contra él no cabía recurso. La prensa de febrero de 2020 recogió la controversia por la adhesión de Feval a una petición de indulto de Cerrato y declaraciones sobre su denegación. Sin el expediente o acuerdo original no se acredita aquí su tramitación completa ni sus efectos sobre la ejecución; tampoco se transforma la petición en un indulto concedido.
 
-  La responsabilidad civil cuantificada de Cerrato quedó en 38.489,20 euros más intereses, mientras que la de
-  Viñuela debía fijarse en ejecución por el valor de los servicios de trabajadores de Feval destinados a
-  actividades ajenas a la institución. Los 201.644,47 euros fijados solidariamente en primera instancia no se
-  mantienen como daño total confirmado. No se ha acreditado aquí la liquidación definitiva, el pago o el
-  cumplimiento de las penas a 17 de octubre de 2026.
+  La [sentencia original del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c0bf52875fe9c17c&encode=true&databasematch=AN) contiene tanto la casación como la segunda sentencia y obliga a distinguir la responsabilidad de cada acusado. La [crónica de EFE](https://www.eldiario.es/extremadura/sociedad/supremo-villas-cerrato-vinuela-feval_1_2102908.html) y la [de Europa Press](https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1177433) identifican nominalmente a los tres, sin necesidad de reconstruir los seudónimos judiciales. El fallo absuelve a Villa y no mantiene la falsedad documental. En las adjudicaciones a Everis distingue la intervención de Viñuela de la no probada intervención consciente de los otros dos.
 
+  La segunda sentencia fija para Viñuela un año, nueve meses y un día de prisión, tres meses de multa a 15 euros diarios y nueve meses y un día de suspensión de empleo o cargo público por la malversación, además de diez años de inhabilitación especial por prevaricación. Para Cerrato, cuatro años y seis meses de prisión y ocho años de inhabilitación para puestos que permitan gestionar fondos públicos. No se convierte la mención a hechos o tipos en los fundamentos en penas adicionales no expresadas en el fallo.
 
-  El fallo del Supremo indica que contra él no cabía recurso. La prensa de febrero de 2020 recogió la
-  controversia por la adhesión de Feval a una petición de indulto de Cerrato y declaraciones sobre su
-  denegación. Sin el expediente o acuerdo original no se acredita aquí su tramitación completa ni sus efectos
-  sobre la ejecución; tampoco se transforma la petición en un indulto concedido.
+  La indemnización de Cerrato es de 38.489,20 euros más intereses; el valor de los trabajos privados atribuidos a Viñuela se remite a ejecución. No se suman al total inicial de 201.644,47 euros, que fue revisado. No se acredita el importe final pagado, la liquidación de Viñuela ni el cumplimiento penitenciario.
+
+  La [información de Región Digital/Europa Press de febrero de 2020](https://www.regiondigital.com/noticias/badajoz-y-provincia/323472-el-pp-exige-que-vara-aclare-la-adhesion-de-feval-a-una-peticion-de-indulto-de-cerrato.html) da cuenta de una controversia política sobre la adhesión al indulto y recoge una declaración sobre su denegación. Permanece pendiente el expediente oficial y la situación de ejecución posterior.
 resumen: El Supremo absolvió a Villa y redujo las condenas de Cerrato y Viñuela; responsabilidad civil individualizada
   y ejecución posterior pendiente de contraste.
 lugar: Don Benito y Mérida, Badajoz, Extremadura
@@ -114,11 +102,3 @@ cronologia:
   urls:
   - https://www.regiondigital.com/noticias/badajoz-y-provincia/323472-el-pp-exige-que-vara-aclare-la-adhesion-de-feval-a-una-peticion-de-indulto-de-cerrato.html
 ---
-
-La [sentencia original del Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=c0bf52875fe9c17c&encode=true&databasematch=AN) contiene tanto la casación como la segunda sentencia y obliga a distinguir la responsabilidad de cada acusado. La [crónica de EFE](https://www.eldiario.es/extremadura/sociedad/supremo-villas-cerrato-vinuela-feval_1_2102908.html) y la [de Europa Press](https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1177433) identifican nominalmente a los tres, sin necesidad de reconstruir los seudónimos judiciales. El fallo absuelve a Villa y no mantiene la falsedad documental. En las adjudicaciones a Everis distingue la intervención de Viñuela de la no probada intervención consciente de los otros dos.
-
-La segunda sentencia fija para Viñuela un año, nueve meses y un día de prisión, tres meses de multa a 15 euros diarios y nueve meses y un día de suspensión de empleo o cargo público por la malversación, además de diez años de inhabilitación especial por prevaricación. Para Cerrato, cuatro años y seis meses de prisión y ocho años de inhabilitación para puestos que permitan gestionar fondos públicos. No se convierte la mención a hechos o tipos en los fundamentos en penas adicionales no expresadas en el fallo.
-
-La indemnización de Cerrato es de 38.489,20 euros más intereses; el valor de los trabajos privados atribuidos a Viñuela se remite a ejecución. No se suman al total inicial de 201.644,47 euros, que fue revisado. No se acredita el importe final pagado, la liquidación de Viñuela ni el cumplimiento penitenciario.
-
-La [información de Región Digital/Europa Press de febrero de 2020](https://www.regiondigital.com/noticias/badajoz-y-provincia/323472-el-pp-exige-que-vara-aclare-la-adhesion-de-feval-a-una-peticion-de-indulto-de-cerrato.html) da cuenta de una controversia política sobre la adhesión al indulto y recoge una declaración sobre su denegación. Permanece pendiente el expediente oficial y la situación de ejecución posterior.

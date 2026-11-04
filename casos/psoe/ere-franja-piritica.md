@@ -9,29 +9,24 @@ estadoPrincipal: Sin determinar
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: desconocido
-descripcion: 'La pieza de los ERE sobre la Faja Pirítica de Huelva investigó ayudas sociolaborales para prejubilaciones
-  mineras cofinanciadas por el Estado y la Junta. La nota del CGPJ de 29 de junio de 2017 informó de 25 personas
-  investigadas por posibles delitos relacionados con ayudas calculadas en más de 40 millones de euros. No era una
-  condena ni un daño declarado por sentencia.
+descripcion: |-
+  La pieza de los ERE sobre la Faja Pirítica de Huelva investigó ayudas sociolaborales para prejubilaciones mineras cofinanciadas por el Estado y la Junta. La nota del CGPJ de 29 de junio de 2017 informó de 25 personas investigadas por posibles delitos relacionados con ayudas calculadas en más de 40 millones de euros. No era una condena ni un daño declarado por sentencia.
 
+  El objeto comunicado incluía posibles beneficiarios que no habían trabajado en las minas, supuestas alteraciones de coeficientes para calcular la edad bonificada y el papel de la asociación de extrabajadores, Uniter y el Estudio Jurídico Villasís. También se investigaba si cantidades de FOGASA destinadas a primas de pólizas se habían aplicado a otros fines. No se presenta como probado que 334 personas fueran intrusos ni que todos los beneficiarios cuestionados carecieran de relación laboral con las minas.
 
-  El objeto comunicado incluía posibles beneficiarios que no habían trabajado en las minas, supuestas alteraciones
-  de coeficientes para calcular la edad bonificada y el papel de la asociación de extrabajadores, Uniter y el Estudio
-  Jurídico Villasís. También se investigaba si cantidades de FOGASA destinadas a primas de pólizas se habían aplicado
-  a otros fines. No se presenta como probado que 334 personas fueran intrusos ni que todos los beneficiarios cuestionados
-  carecieran de relación laboral con las minas.
+  En octubre de 2017 Europa Press informó de la exclusión de Agustín Barberá por la coincidencia de los hechos atribuidos con los de la pieza política. Ese resultado personal no equivale al archivo de toda la causa. Las declaraciones como investigados de Soledad Córdova, Carmen de Miguel y Francisco Carbonero se difundieron el 17 de octubre; los dos primeros cargos pertenecían al Gobierno central del PP, no al PSOE.
 
+  No se han localizado los autos originales ni comprobado los desenlaces individuales, acusaciones, juicio, sentencias, archivos o recursos posteriores hasta el 15 de octubre de 2026. Tampoco se ha contrastado la relación nominal completa de los investigados. No se afirma que la instrucción descrita en 2017 continúe vigente ni que los resultados del TC, TS o TJUE en otras piezas resuelvan automáticamente esta.
 
-  En octubre de 2017 Europa Press informó de la exclusión de Agustín Barberá por la coincidencia de los hechos atribuidos
-  con los de la pieza política. Ese resultado personal no equivale al archivo de toda la causa. Las declaraciones
-  como investigados de Soledad Córdova, Carmen de Miguel y Francisco Carbonero se difundieron el 17 de octubre;
-  los dos primeros cargos pertenecían al Gobierno central del PP, no al PSOE.
+  El ámbito de la pieza comunicado por el CGPJ incluía las explotaciones de Almagrera, Navan Resource, Filón Sur, Nueva Tharsis —Bolsa de Tharsis e Insersa— y Minas Río Tinto. La nota oficial menciona ayudas del Ministerio de Trabajo y de la Junta, y distingue a responsables públicos, representantes sindicales, mediadores y beneficiarios investigados. La cifra global anunciada de 25 personas no permite reconstruir su identificación completa: el desglose de categorías de esa misma nota no concuerda aritméticamente con el total, por lo que no se utiliza para deducir nuevos nombres o estados.
 
+  Las sospechas sobre edad bonificada, pertenencia a las plantillas y recolocación requieren análisis individual. La etiqueta de intruso empleada en informaciones policiales o periodísticas no equivale a condena y puede agrupar supuestos diferentes. La nota oficial confirma que se investigaban posibles inclusiones de personas ajenas a las minas y alteraciones en coeficientes de edad, pero no acredita una sentencia contra 334 beneficiarios. Los informes policiales y las fuentes originales de esa cifra no se han contrastado aquí.
 
-  No se han localizado los autos originales ni comprobado los desenlaces individuales, acusaciones, juicio, sentencias,
-  archivos o recursos posteriores hasta el 15 de octubre de 2026. Tampoco se ha contrastado la relación nominal
-  completa de los investigados. No se afirma que la instrucción descrita en 2017 continúe vigente ni que los resultados
-  del TC, TS o TJUE en otras piezas resuelvan automáticamente esta.'
+  Los compromisos de ayudas y los pagos a aseguradoras no acreditan un daño global. Las cifras de financiación del programa, las primas, los pagos y las cantidades eventualmente desviadas no son intercambiables. Tampoco se imputa a esta pieza como perjuicio adicional un pago descrito en informaciones de Pickman sin su resolución y liquidación propias. La cofinanciación y las decisiones de la jurisdicción social sobre derechos de trabajadores no resuelven por sí mismas la responsabilidad penal.
+
+  La exclusión de Barberá se comunicó por la posible duplicidad con hechos de la causa política; no es una absolución general de los investigados de la Faja Pirítica. La noticia de Europa Press también alude a exclusiones de Fernández y Viera en distintas piezas, pero no basta para fijar cuál fue su alcance específico aquí. No constan las situaciones individuales completas de los antiguos responsables de Trabajo ni la identidad acreditada de todos los afectados.
+
+  No se incorporan como hitos de esta pieza fechas generales de sentencias constitucionales sobre el procedimiento específico. Cualquier efecto de esas decisiones, de la jurisprudencia del Supremo o de actuaciones europeas requiere comprobar la resolución que lo aplique a las personas y hechos de esta causa. La falta de una actualización localizada tampoco prueba que siga instruyéndose, que se haya archivado o que no haya existido juicio.
 resumen: 'Ayudas a prejubilaciones de la Faja Pirítica: investigación comunicada en 2017 y exclusión personal de
   Barberá; desenlaces posteriores y perjuicio no verificados.'
 lugar: Faja Pirítica de Huelva, Andalucía
@@ -114,13 +109,3 @@ cronologia:
   urls:
   - https://www.bolsamania.com/noticias/justicia/la-juez-nunez-excluye-al-exviceconsejero-de-empleo-de-la-pieza-por-el-ere-de-la-faja-piritica-de-huelva--2924105.html
 ---
-
-El ámbito de la pieza comunicado por el CGPJ incluía las explotaciones de Almagrera, Navan Resource, Filón Sur, Nueva Tharsis —Bolsa de Tharsis e Insersa— y Minas Río Tinto. La nota oficial menciona ayudas del Ministerio de Trabajo y de la Junta, y distingue a responsables públicos, representantes sindicales, mediadores y beneficiarios investigados. La cifra global anunciada de 25 personas no permite reconstruir su identificación completa: el desglose de categorías de esa misma nota no concuerda aritméticamente con el total, por lo que no se utiliza para deducir nuevos nombres o estados.
-
-Las sospechas sobre edad bonificada, pertenencia a las plantillas y recolocación requieren análisis individual. La etiqueta de intruso empleada en informaciones policiales o periodísticas no equivale a condena y puede agrupar supuestos diferentes. La nota oficial confirma que se investigaban posibles inclusiones de personas ajenas a las minas y alteraciones en coeficientes de edad, pero no acredita una sentencia contra 334 beneficiarios. Los informes policiales y las fuentes originales de esa cifra no se han contrastado aquí.
-
-Los compromisos de ayudas y los pagos a aseguradoras no acreditan un daño global. Las cifras de financiación del programa, las primas, los pagos y las cantidades eventualmente desviadas no son intercambiables. Tampoco se imputa a esta pieza como perjuicio adicional un pago descrito en informaciones de Pickman sin su resolución y liquidación propias. La cofinanciación y las decisiones de la jurisdicción social sobre derechos de trabajadores no resuelven por sí mismas la responsabilidad penal.
-
-La exclusión de Barberá se comunicó por la posible duplicidad con hechos de la causa política; no es una absolución general de los investigados de la Faja Pirítica. La noticia de Europa Press también alude a exclusiones de Fernández y Viera en distintas piezas, pero no basta para fijar cuál fue su alcance específico aquí. No constan las situaciones individuales completas de los antiguos responsables de Trabajo ni la identidad acreditada de todos los afectados.
-
-No se incorporan como hitos de esta pieza fechas generales de sentencias constitucionales sobre el procedimiento específico. Cualquier efecto de esas decisiones, de la jurisprudencia del Supremo o de actuaciones europeas requiere comprobar la resolución que lo aplique a las personas y hechos de esta causa. La falta de una actualización localizada tampoco prueba que siga instruyéndose, que se haya archivado o que no haya existido juicio.

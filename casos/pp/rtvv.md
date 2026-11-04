@@ -8,39 +8,22 @@ estadoPrincipal: Resultados mixtos
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Absolución en gestión y condenas en causas separadas
-descripcion: >-
-  El denominado caso RTVV reúne procedimientos distintos que no comparten un único desenlace. La denuncia de
-  2014 sobre la gestión económica y patrimonial del ente derivó finalmente en el juicio a José López Jaraba
-  por contratos con la productora Alba Adriática. La Audiencia de Valencia lo absolvió el 30 de julio de 2020
-  de prevaricación, malversación, falsedad, administración desleal y fraude. El Supremo desestimó los recursos
-  de la Generalitat y CGT mediante sentencia 845/2022, de 26 de octubre, que indica que contra ella no cabe
-  recurso. No se acreditó un acuerdo para beneficiar a la productora, una intención de perjudicar a RTVV ni la
-  sobrevaloración de los derechos de emisión examinados. Otros directivos habían obtenido archivos durante la
-  instrucción, cuyo alcance individual no equivale a esa absolución.
+descripcion: |-
+  El denominado caso RTVV reúne procedimientos distintos que no comparten un único desenlace. La denuncia de 2014 sobre la gestión económica y patrimonial del ente derivó finalmente en el juicio a José López Jaraba por contratos con la productora Alba Adriática. La Audiencia de Valencia lo absolvió el 30 de julio de 2020 de prevaricación, malversación, falsedad, administración desleal y fraude. El Supremo desestimó los recursos de la Generalitat y CGT mediante sentencia 845/2022, de 26 de octubre, que indica que contra ella no cabe recurso. No se acreditó un acuerdo para beneficiar a la productora, una intención de perjudicar a RTVV ni la sobrevaloración de los derechos de emisión examinados. Otros directivos habían obtenido archivos durante la instrucción, cuyo alcance individual no equivale a esa absolución.
 
+  La pieza Gürtel sobre la visita del Papa es independiente: Pedro García Gimeno recibió seis años y nueve meses de prisión en la sentencia 20/2020 de la Audiencia Nacional. El Supremo resolvió los recursos de siete acusados el 27 de marzo de 2023; García no estaba entre los recurrentes. La contratación con Teconsa ascendió a 7.493.600 euros con IVA y el sobrecoste acreditado a 3.205.375,11 euros: son conceptos distintos y no equivalen a toda la deuda de RTVV. Esta pieza tiene una ficha propia y no constituye un segundo daño que deba sumarse por aparecer aquí.
 
-  La pieza Gürtel sobre la visita del Papa es independiente: Pedro García Gimeno recibió seis años y nueve
-  meses de prisión en la sentencia 20/2020 de la Audiencia Nacional. El Supremo resolvió los recursos de siete
-  acusados el 27 de marzo de 2023; García no estaba entre los recurrentes. La contratación con Teconsa
-  ascendió a 7.493.600 euros con IVA y el sobrecoste acreditado a 3.205.375,11 euros: son conceptos distintos
-  y no equivalen a toda la deuda de RTVV. Esta pieza tiene una ficha propia y no constituye un segundo daño
-  que deba sumarse por aparecer aquí.
+  En mayo de 2024 se publicó que la Audiencia Nacional había suspendido durante cinco años la ejecución de la prisión de Pedro García, con condiciones. Falta el auto original y la comprobación de su evolución hasta el 17 de octubre de 2026: la suspensión no elimina la condena. También es separado el procedimiento por abusos y acoso sexual contra Vicente Sanz, cuya conformidad de octubre de 2015 fue informada por las agencias; falta su sentencia original y documentación posterior de ejecución. Sanz recibió además una condena en la pieza de la visita del Papa.
 
+  El ERE y la supresión del servicio son actuaciones laborales y legislativas, no condenas penales por la gestión del ente. La Ley 4/2013 recoge que la sentencia social de 4 de noviembre de 2013 anuló el despido colectivo y autoriza la disolución y liquidación de RTVV. No se presenta la deuda acumulada o el coste de liquidación como perjuicio penal global. Faltan los originales de los archivos individuales de la investigación económica y de las resoluciones de ejecución señaladas, por lo que no está acreditado un estado uniforme de todos los procedimientos.
 
-  En mayo de 2024 se publicó que la Audiencia Nacional había suspendido durante cinco años la ejecución de la
-  prisión de Pedro García, con condiciones. Falta el auto original y la comprobación de su evolución hasta el
-  17 de octubre de 2026: la suspensión no elimina la condena. También es separado el procedimiento por abusos
-  y acoso sexual contra Vicente Sanz, cuya conformidad de octubre de 2015 fue informada por las agencias;
-  falta su sentencia original y documentación posterior de ejecución. Sanz recibió además una condena en la
-  pieza de la visita del Papa.
+  La denuncia de gestión de 2014 se fue delimitando hasta el contrato con Alba Adriática enjuiciado en 2020. El [Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d349b969155886f4a0a8778d75e36f0d&encode=true&databasematch=AN) confirmó la absolución al desestimar la casación, no mediante un sobreseimiento de Jaraba. La [crónica de Valencia Plaza de 2022](https://valenciaplaza.com/el-caso-rtvv-de-la-denuncia-de-compromis-a-su-final-sin-condenas-ocho-anos-despues) sitúa los archivos de Johnson, Romeral y Motes antes del juicio y el de Redondo en 2017; faltan sus autos originales y no se equiparan esos resultados a una sentencia absolutoria general sobre toda la deuda de RTVV.
 
+  La [pieza de la visita del Papa](/casos/pp/gurtel-visita-del-papa/) tiene ficha propia y aparece aquí por la participación de directivos de RTVV. El [CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-sentencia-de-la-Audiencia-Nacional-en-la-pieza--visita-del-Papa--del-caso-Gurtel--al-rechazar-el-recurso-de-siete-acusados) distingue el contrato de 7.493.600 euros con IVA del sobrecoste de 3.205.375,11 euros. No son dos cantidades de daño que deban sumarse, y tampoco deben duplicarse entre fichas. La [información de mayo de 2024](https://valenciaplaza.com/valenciaplaza/laaudiencianacionalsuspendeelingresoenprisiondelexdirectordecanal9pedrogarcia2) sobre García describe una suspensión de ejecución condicionada, no la revocación de su condena. Falta el auto y su seguimiento posterior.
 
-  El ERE y la supresión del servicio son actuaciones laborales y legislativas, no condenas penales por la
-  gestión del ente. La Ley 4/2013 recoge que la sentencia social de 4 de noviembre de 2013 anuló el despido
-  colectivo y autoriza la disolución y liquidación de RTVV. No se presenta la deuda acumulada o el coste de
-  liquidación como perjuicio penal global. Faltan los originales de los archivos individuales de la
-  investigación económica y de las resoluciones de ejecución señaladas, por lo que no está acreditado un
-  estado uniforme de todos los procedimientos.
+  La [conformidad de Sanz por delitos sexuales](https://www.rtve.es/noticias/20151027/exdirectivo-canal-9-pagara-225000-euros-por-abuso-acoso-sexual-a-tres-trabajadoras/1242920.shtml) es distinta de su condena en Gürtel. La noticia desglosa 15.696 euros de multas y 210.000 de indemnización, con RTVV como responsable civil subsidiaria. No se agrega esa indemnización al coste de la gestión del ente y no se presume su pago o la firmeza y ejecución a partir de la mera conformidad publicada.
+
+  La [Ley 4/2013](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12824) permite separar el ERE y la decisión legislativa de cierre de las responsabilidades penales. La nulidad laboral no condenó penalmente a Rosa Vidal ni a Alberto Fabra. Del mismo modo, no se atribuyen a responsables políticos generales imputaciones o delitos de estas causas a partir de su posición institucional. La deuda contable, el coste de liquidación y los perjuicios acreditados en contratos concretos son magnitudes diferentes.
 resumen: Absolución de López Jaraba por contratos con Alba Adriática y condenas diferenciadas en Gürtel y por delitos
   sexuales; cierre y ERE con alcance propio.
 lugar: Comunitat Valenciana
@@ -194,11 +177,3 @@ cronologia:
   urls:
   - https://valenciaplaza.com/valenciaplaza/laaudiencianacionalsuspendeelingresoenprisiondelexdirectordecanal9pedrogarcia2
 ---
-
-La denuncia de gestión de 2014 se fue delimitando hasta el contrato con Alba Adriática enjuiciado en 2020. El [Supremo](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=d349b969155886f4a0a8778d75e36f0d&encode=true&databasematch=AN) confirmó la absolución al desestimar la casación, no mediante un sobreseimiento de Jaraba. La [crónica de Valencia Plaza de 2022](https://valenciaplaza.com/el-caso-rtvv-de-la-denuncia-de-compromis-a-su-final-sin-condenas-ocho-anos-despues) sitúa los archivos de Johnson, Romeral y Motes antes del juicio y el de Redondo en 2017; faltan sus autos originales y no se equiparan esos resultados a una sentencia absolutoria general sobre toda la deuda de RTVV.
-
-La [pieza de la visita del Papa](/casos/pp/gurtel-visita-del-papa/) tiene ficha propia y aparece aquí por la participación de directivos de RTVV. El [CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-sentencia-de-la-Audiencia-Nacional-en-la-pieza--visita-del-Papa--del-caso-Gurtel--al-rechazar-el-recurso-de-siete-acusados) distingue el contrato de 7.493.600 euros con IVA del sobrecoste de 3.205.375,11 euros. No son dos cantidades de daño que deban sumarse, y tampoco deben duplicarse entre fichas. La [información de mayo de 2024](https://valenciaplaza.com/valenciaplaza/laaudiencianacionalsuspendeelingresoenprisiondelexdirectordecanal9pedrogarcia2) sobre García describe una suspensión de ejecución condicionada, no la revocación de su condena. Falta el auto y su seguimiento posterior.
-
-La [conformidad de Sanz por delitos sexuales](https://www.rtve.es/noticias/20151027/exdirectivo-canal-9-pagara-225000-euros-por-abuso-acoso-sexual-a-tres-trabajadoras/1242920.shtml) es distinta de su condena en Gürtel. La noticia desglosa 15.696 euros de multas y 210.000 de indemnización, con RTVV como responsable civil subsidiaria. No se agrega esa indemnización al coste de la gestión del ente y no se presume su pago o la firmeza y ejecución a partir de la mera conformidad publicada.
-
-La [Ley 4/2013](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12824) permite separar el ERE y la decisión legislativa de cierre de las responsabilidades penales. La nulidad laboral no condenó penalmente a Rosa Vidal ni a Alberto Fabra. Del mismo modo, no se atribuyen a responsables políticos generales imputaciones o delitos de estas causas a partir de su posición institucional. La deuda contable, el coste de liquidación y los perjuicios acreditados en contratos concretos son magnitudes diferentes.

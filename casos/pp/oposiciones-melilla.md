@@ -9,40 +9,22 @@ estadoPrincipal: En investigación
 recursoPendiente: Sin determinar
 firmeza: No procede
 estado: Anulación contenciosa y nueva investigación penal
-descripcion: 'El asunto se refiere a la convocatoria de diez plazas de bombero-conductor de Melilla publicada en agosto
-  de 2017 y a las pruebas celebradas en 2018. Cinco aspirantes cuestionaron la evaluación psicotécnica y de personalidad
-  y promovieron actuaciones penales y contencioso-administrativas. En septiembre de 2018 se informó de una querella por
-  presunta prevaricación contra María Ángeles Gras Baeza, responsable de Administraciones Públicas del PP, y dos psicólogas.
-  La presentación de esa querella no acredita por sí sola su condición procesal de investigadas: El País aclaró en mayo
-  de 2019 que Gras solo estaba denunciada cuando publicó una información anterior.
+descripcion: |-
+  El asunto se refiere a la convocatoria de diez plazas de bombero-conductor de Melilla publicada en agosto de 2017 y a las pruebas celebradas en 2018. Cinco aspirantes cuestionaron la evaluación psicotécnica y de personalidad y promovieron actuaciones penales y contencioso-administrativas. En septiembre de 2018 se informó de una querella por presunta prevaricación contra María Ángeles Gras Baeza, responsable de Administraciones Públicas del PP, y dos psicólogas. La presentación de esa querella no acredita por sí sola su condición procesal de investigadas: El País aclaró en mayo de 2019 que Gras solo estaba denunciada cuando publicó una información anterior.
 
+  La sentencia 66/2024, de 28 de junio, del Juzgado de lo Contencioso-Administrativo nº 1 de Melilla anuló el acto recurrido y ordenó repetir la prueba C para los cinco demandantes y para la aspirante que había obtenido plaza. El TSJA confirmó esa decisión mediante sentencia 1652/2025, de 10 de julio. Apreció falta de publicidad de los criterios y trato de favor hacia esa aspirante al cambiar el umbral de evaluación. No anuló los nombramientos del resto de quienes habían superado el proceso. La nueva prueba debe contar con otro tribunal y otros asesores sin vinculación con la entidad que realizó la evaluación original; no es un veto general para cualquier futura oposición.
 
-  La sentencia 66/2024, de 28 de junio, del Juzgado de lo Contencioso-Administrativo nº 1 de Melilla anuló el acto recurrido
-  y ordenó repetir la prueba C para los cinco demandantes y para la aspirante que había obtenido plaza. El TSJA confirmó
-  esa decisión mediante sentencia 1652/2025, de 10 de julio. Apreció falta de publicidad de los criterios y trato de
-  favor hacia esa aspirante al cambiar el umbral de evaluación. No anuló los nombramientos del resto de quienes habían
-  superado el proceso. La nueva prueba debe contar con otro tribunal y otros asesores sin vinculación con la entidad
-  que realizó la evaluación original; no es un veto general para cualquier futura oposición.
+  La sentencia contenciosa recoge que los hechos examinados no habían sido considerados delictivos en la vía penal precedente. No se ha obtenido la resolución penal original ni acreditado el alcance individual de su archivo, por lo que no se presenta como una absolución penal de todas las personas mencionadas. La anulación administrativa tampoco constituye una condena penal de Gras, de las psicólogas o de la aspirante.
 
+  En septiembre de 2026 la prensa informó de la inadmisión del recurso de casación de la aspirante por falta de interés casacional. No es una nueva sentencia del Supremo sobre el fondo: queda en pie el fallo contencioso. La firmeza difundida tras esa inadmisión procede de esas noticias; falta el original del Supremo y comprobar la ejecución material de la repetición de las pruebas.
 
-  La sentencia contenciosa recoge que los hechos examinados no habían sido considerados delictivos en la vía penal precedente.
-  No se ha obtenido la resolución penal original ni acreditado el alcance individual de su archivo, por lo que no se
-  presenta como una absolución penal de todas las personas mencionadas. La anulación administrativa tampoco constituye
-  una condena penal de Gras, de las psicólogas o de la aspirante.
+  El 7 de octubre de 2026 EFE informó de otra querella, presentada por la aspirante afectada, Rebeca de Juan, y admitida contra dos integrantes del cuerpo de Bomberos, entre ellos la presidenta del tribunal de selección. La agencia refiere diligencias previas y citaciones de las psicólogas como testigos. Se investigan presuntos hechos distintos de la anterior querella; su admisión no declara culpabilidad ni deja sin efecto la anulación contenciosa. Faltan ese auto original, los resultados posteriores y la identificación procesal completa de las personas afectadas al corte del 15 de octubre de 2026. No se ha acreditado un perjuicio económico cuantificado.
 
+  La [convocatoria oficial](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-10677) permite distinguir las bases publicadas en 2017 de las pruebas de 2018. La [querella anunciada en septiembre de 2018](https://www.europapress.es/ceuta-y-melilla/noticia-denuncian-exviceconsejera-dos-psicologas-presunta-prevaricacion-oposiciones-bomberos-melilla-20180902180959.html) y la [aclaración de El País](https://elpais.com/politica/2019/05/14/actualidad/1557852443_983473.html) no justifican equiparar denuncia e imputación formal. No se atribuye responsabilidad penal al presidente autonómico por el mero hecho de gobernar la Ciudad.
 
-  En septiembre de 2026 la prensa informó de la inadmisión del recurso de casación de la aspirante por falta de interés
-  casacional. No es una nueva sentencia del Supremo sobre el fondo: queda en pie el fallo contencioso. La firmeza difundida
-  tras esa inadmisión procede de esas noticias; falta el original del Supremo y comprobar la ejecución material de la
-  repetición de las pruebas.
+  La [sentencia original del TSJA](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=5fa05389cfe9f678a0a8778d75e36f0d&encode=true&databasematch=AN) confirma la resolución 66/2024 de 28 de junio, no una supuesta sentencia de 2023. Su fundamento primero reproduce el fallo limitado a seis personas; los fundamentos segundo y séptimo diferencian ilegalidad administrativa y vía penal. La Sala aprecia trato de favor y confirma la anulación de las pruebas posteriores solo para la aspirante afectada. La exclusión de los anteriores asesores y tribunal se refiere a la repetición ordenada, no a toda futura selección de personal. Las costas de la apelación se limitaron a 1.000 euros más IVA si procedía: no son daño público ni una multa penal.
 
-
-  El 7 de octubre de 2026 EFE informó de otra querella, presentada por la aspirante afectada, Rebeca de Juan, y admitida
-  contra dos integrantes del cuerpo de Bomberos, entre ellos la presidenta del tribunal de selección. La agencia refiere
-  diligencias previas y citaciones de las psicólogas como testigos. Se investigan presuntos hechos distintos de la anterior
-  querella; su admisión no declara culpabilidad ni deja sin efecto la anulación contenciosa. Faltan ese auto original,
-  los resultados posteriores y la identificación procesal completa de las personas afectadas al corte del 15 de octubre
-  de 2026. No se ha acreditado un perjuicio económico cuantificado.'
+  La [noticia de septiembre de 2026](https://melillahoy.es/el-supremo-inadmite-el-recurso-de-la-primera-mujer-bombero-de-melilla-contra-la-sentencia-que-senalo-un-supuesto-trato-de-favor-y-la-obliga-a-repetir-parte-del-proceso/) da cuenta de la inadmisión de la casación. Falta el original del Supremo para documentar sus términos exactos y no se acredita aquí la ejecución completa de las pruebas. La [información de EFE de octubre de 2026](https://efe.com/espana/2026-10-07/primera-bombera-melilla-denuncia-irregularidades/) describe una nueva causa penal promovida por la aspirante: investigar las nuevas alegaciones no equivale a estimarlas ni a revocar el fallo administrativo. Permanecen pendientes los originales penales y los desenlaces individuales.
 resumen: Anulación parcial de las pruebas de bombero de la convocatoria de 2017, casación inadmitida según la prensa
   en 2026 y nueva querella penal de la aspirante afectada.
 lugar: Melilla
@@ -138,9 +120,3 @@ cronologia:
   - https://efe.com/espana/2026-10-07/primera-bombera-melilla-denuncia-irregularidades/
   type: investigacion
 ---
-
-La [convocatoria oficial](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-10677) permite distinguir las bases publicadas en 2017 de las pruebas de 2018. La [querella anunciada en septiembre de 2018](https://www.europapress.es/ceuta-y-melilla/noticia-denuncian-exviceconsejera-dos-psicologas-presunta-prevaricacion-oposiciones-bomberos-melilla-20180902180959.html) y la [aclaración de El País](https://elpais.com/politica/2019/05/14/actualidad/1557852443_983473.html) no justifican equiparar denuncia e imputación formal. No se atribuye responsabilidad penal al presidente autonómico por el mero hecho de gobernar la Ciudad.
-
-La [sentencia original del TSJA](https://www.poderjudicial.es/search/contenidos.action?action=accessToPDF&publicinterface=true&tab=AN&reference=5fa05389cfe9f678a0a8778d75e36f0d&encode=true&databasematch=AN) confirma la resolución 66/2024 de 28 de junio, no una supuesta sentencia de 2023. Su fundamento primero reproduce el fallo limitado a seis personas; los fundamentos segundo y séptimo diferencian ilegalidad administrativa y vía penal. La Sala aprecia trato de favor y confirma la anulación de las pruebas posteriores solo para la aspirante afectada. La exclusión de los anteriores asesores y tribunal se refiere a la repetición ordenada, no a toda futura selección de personal. Las costas de la apelación se limitaron a 1.000 euros más IVA si procedía: no son daño público ni una multa penal.
-
-La [noticia de septiembre de 2026](https://melillahoy.es/el-supremo-inadmite-el-recurso-de-la-primera-mujer-bombero-de-melilla-contra-la-sentencia-que-senalo-un-supuesto-trato-de-favor-y-la-obliga-a-repetir-parte-del-proceso/) da cuenta de la inadmisión de la casación. Falta el original del Supremo para documentar sus términos exactos y no se acredita aquí la ejecución completa de las pruebas. La [información de EFE de octubre de 2026](https://efe.com/espana/2026-10-07/primera-bombera-melilla-denuncia-irregularidades/) describe una nueva causa penal promovida por la aspirante: investigar las nuevas alegaciones no equivale a estimarlas ni a revocar el fallo administrativo. Permanecen pendientes los originales penales y los desenlaces individuales.

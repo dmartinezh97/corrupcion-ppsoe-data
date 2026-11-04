@@ -9,26 +9,22 @@ estadoPrincipal: Sobreseído / archivado
 recursoPendiente: Sin determinar
 firmeza: Sin determinar
 estado: Archivo confirmado en 2009
-descripcion: 'El caso investigó los viajes de José Manuel Soria López y su familia a Austria y Noruega en agosto
-  de 2005, invitados a utilizar el avión arrendado por el empresario Bjorn Lyng, relacionado con el Grupo Anfi.
-  La denuncia vinculaba esa invitación con la tramitación del proyecto turístico Anfi Tauro por el Cabildo de Gran
-  Canaria, que Soria presidía. Esa relación delictiva fue denunciada, pero no quedó acreditada por la instructora.
+descripcion: |-
+  El caso investigó los viajes de José Manuel Soria López y su familia a Austria y Noruega en agosto de 2005, invitados a utilizar el avión arrendado por el empresario Bjorn Lyng, relacionado con el Grupo Anfi. La denuncia vinculaba esa invitación con la tramitación del proyecto turístico Anfi Tauro por el Cabildo de Gran Canaria, que Soria presidía. Esa relación delictiva fue denunciada, pero no quedó acreditada por la instructora.
 
+  El auto de 21 de mayo de 2009 decretó el sobreseimiento y archivo por considerar que los hechos no constituían los delitos denunciados. Rechazó que la invitación integrara cohecho y tampoco apreció el delito de negociaciones prohibidas atribuido por la querella a Manuel Fernández González, diputado y asesor de empresas del grupo. Consideró acreditado que Lyng pagaba el uso del avión y que Soria y su esposa abonaron los demás gastos y los vuelos regulares de regreso. No declaró que todo el viaje fuera gratuito ni que Soria hubiera pagado el avión privado.
 
-  El auto de 21 de mayo de 2009 decretó el sobreseimiento y archivo por considerar que los hechos no constituían
-  los delitos denunciados. Rechazó que la invitación integrara cohecho y tampoco apreció el delito de negociaciones
-  prohibidas atribuido por la querella a Manuel Fernández González, diputado y asesor de empresas del grupo. Consideró
-  acreditado que Lyng pagaba el uso del avión y que Soria y su esposa abonaron los demás gastos y los vuelos regulares
-  de regreso. No declaró que todo el viaje fuera gratuito ni que Soria hubiera pagado el avión privado.
+  Justicia y Sociedad recurrió. El 17 de julio de 2009 Europa Press informó de la confirmación íntegra del archivo por el TSJC y de que la resolución era firme. La crónica extensa de esa fecha distingue el criterio de la Fiscalía, favorable al archivo por prescripción en relación con Soria, del de la Sala, que no apreció delito y consideró que, de haberse cometido, no estaría prescrito. Falta cotejar el texto original de esta resolución de apelación, su fecha exacta y los informes fiscales; la documentación posterior hasta el 17 de octubre de 2026 no está revisada exhaustivamente. No se afirma un procedimiento abierto por esas lagunas ni se atribuye a Lyng, ya fallecido durante la instrucción, condición de imputado.
 
+  Los desplazamientos ocurrieron en agosto de 2005; no se asigna al inicio del viaje un día que no consta. El auto relata una primera visita a Salzburgo, regreso a Gran Canaria y posterior desplazamiento a Noruega. La familia Soria regresó el 27 de agosto en vuelos regulares. La invitación comprendió el uso del avión que Lyng arrendaba y pagaba; la instructora consideró acreditado que los gastos restantes se abonaron con cargo a Soria y su esposa.
 
-  Justicia y Sociedad recurrió. El 17 de julio de 2009 Europa Press informó de la confirmación íntegra del archivo
-  por el TSJC y de que la resolución era firme. La crónica extensa de esa fecha distingue el criterio de la Fiscalía,
-  favorable al archivo por prescripción en relación con Soria, del de la Sala, que no apreció delito y consideró
-  que, de haberse cometido, no estaría prescrito. Falta cotejar el texto original de esta resolución de apelación,
-  su fecha exacta y los informes fiscales; la documentación posterior hasta el 17 de octubre de 2026 no está revisada
-  exhaustivamente. No se afirma un procedimiento abierto por esas lagunas ni se atribuye a Lyng, ya fallecido durante
-  la instrucción, condición de imputado.'
+  La hipótesis de que el viaje remuneraba un favor urbanístico fue el objeto de la denuncia, no la conclusión judicial. La instructora valoró que Soria no participó en el Consejo de Gobierno del Cabildo del 20 de octubre de 2005 y que no se acreditaron gestiones suyas ante los técnicos. En relación con Fernández, valoró la compatibilidad concedida para sus actividades privadas y su ausencia de las sesiones sobre el proyecto Anfi Tauro. Por esos razonamientos descartó los delitos y archivó; no dictó una sentencia condenatoria ni acordó el archivo por prescripción.
+
+  La apelación de Justicia y Sociedad fue desestimada según las crónicas del 17 de julio de 2009. Europa Press informó de la firmeza de esa resolución. La noticia extensa distingue ese pronunciamiento del criterio de la Fiscalía sobre la prescripción; no cabe convertir el informe fiscal en una declaración judicial de culpabilidad. Queda pendiente el texto original de apelación y la comprobación directa de los informes fiscales, sin que ello convierta en provisional el archivo descrito por las fuentes.
+
+  No se dispone de una cuantificación de perjuicio público derivada de esta causa. Los gastos privados del viaje, el valor del proyecto turístico y las fianzas procesales no se suman como daño. Los nombramientos y la dimisión ministerial de Soria por asuntos posteriores quedan fuera del objeto de este procedimiento.
+
+  Fuentes: [auto de 21 de mayo de 2009, copia PDF](https://www.losgenoveses.net/Personajes%20Populares/Jose%20Manuel%20Soria/documentos/Caso%20Salmon.%20Sobreseimiento.21.05.09.pdf), [crónica de El País sobre el archivo](https://elpais.com/elpais/2009/05/21/actualidad/1242893830_850215.html), [posición fiscal conocida el 16 de junio](https://www.europapress.es/islas-canarias/noticia-tribunales-anticorrupcion-pide-confirmar-archivo-caso-salmon-rechaza-recurso-nulidad-20090616154855.html), [confirmación y firmeza según Europa Press](https://www.europapress.es/nacional/noticia-tsjc-archiva-definitivamente-caso-salmon-estaba-imputado-presidente-pp-canarias-20090717162958.html) y [crónica extensa de la apelación](https://www.eldiario.es/canariasahora/politica/carpetazo-definitivo-caso-salmon_1_5622089.html).
 resumen: Investigación sobre viajes de Soria en el avión utilizado por un empresario turístico. El TSJC archivó
   por inexistencia de delito en 2009 y la prensa informó de la confirmación firme del archivo.
 lugar: Gran Canaria, Canarias
@@ -137,13 +133,3 @@ cronologia:
   type: recurso
   relevancia: alta
 ---
-
-Los desplazamientos ocurrieron en agosto de 2005; no se asigna al inicio del viaje un día que no consta. El auto relata una primera visita a Salzburgo, regreso a Gran Canaria y posterior desplazamiento a Noruega. La familia Soria regresó el 27 de agosto en vuelos regulares. La invitación comprendió el uso del avión que Lyng arrendaba y pagaba; la instructora consideró acreditado que los gastos restantes se abonaron con cargo a Soria y su esposa.
-
-La hipótesis de que el viaje remuneraba un favor urbanístico fue el objeto de la denuncia, no la conclusión judicial. La instructora valoró que Soria no participó en el Consejo de Gobierno del Cabildo del 20 de octubre de 2005 y que no se acreditaron gestiones suyas ante los técnicos. En relación con Fernández, valoró la compatibilidad concedida para sus actividades privadas y su ausencia de las sesiones sobre el proyecto Anfi Tauro. Por esos razonamientos descartó los delitos y archivó; no dictó una sentencia condenatoria ni acordó el archivo por prescripción.
-
-La apelación de Justicia y Sociedad fue desestimada según las crónicas del 17 de julio de 2009. Europa Press informó de la firmeza de esa resolución. La noticia extensa distingue ese pronunciamiento del criterio de la Fiscalía sobre la prescripción; no cabe convertir el informe fiscal en una declaración judicial de culpabilidad. Queda pendiente el texto original de apelación y la comprobación directa de los informes fiscales, sin que ello convierta en provisional el archivo descrito por las fuentes.
-
-No se dispone de una cuantificación de perjuicio público derivada de esta causa. Los gastos privados del viaje, el valor del proyecto turístico y las fianzas procesales no se suman como daño. Los nombramientos y la dimisión ministerial de Soria por asuntos posteriores quedan fuera del objeto de este procedimiento.
-
-Fuentes: [auto de 21 de mayo de 2009, copia PDF](https://www.losgenoveses.net/Personajes%20Populares/Jose%20Manuel%20Soria/documentos/Caso%20Salmon.%20Sobreseimiento.21.05.09.pdf), [crónica de El País sobre el archivo](https://elpais.com/elpais/2009/05/21/actualidad/1242893830_850215.html), [posición fiscal conocida el 16 de junio](https://www.europapress.es/islas-canarias/noticia-tribunales-anticorrupcion-pide-confirmar-archivo-caso-salmon-rechaza-recurso-nulidad-20090616154855.html), [confirmación y firmeza según Europa Press](https://www.europapress.es/nacional/noticia-tsjc-archiva-definitivamente-caso-salmon-estaba-imputado-presidente-pp-canarias-20090717162958.html) y [crónica extensa de la apelación](https://www.eldiario.es/canariasahora/politica/carpetazo-definitivo-caso-salmon_1_5622089.html).
