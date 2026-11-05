@@ -1,4 +1,5 @@
 ---
+duplicadoDe: pp/eolico
 coste: 75000000
 nombre: Trama Eólica de Castilla y León
 partido: PP

@@ -1,4 +1,5 @@
 ---
+duplicadoDe: pp/aceinsa-ii
 coste: 700000
 nombre: Caso Aceinsa II
 partido: PP
